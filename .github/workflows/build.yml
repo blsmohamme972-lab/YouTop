@@ -1,0 +1,36 @@
+name: Build APK
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 21
+      - uses: gradle/actions/setup-gradle@v4
+      # Optional: add a repository secret YOUTOP_SIGNING holding the contents of youtop-signing.txt
+      # (from the private Drive folder) to get APKs that install over the existing app.
+      - name: Restore signing key
+        env:
+          YOUTOP_SIGNING: ${{ secrets.YOUTOP_SIGNING }}
+        if: env.YOUTOP_SIGNING != ''
+        run: |
+          printf '%s\n' "$YOUTOP_SIGNING" > "$RUNNER_TEMP/signing.txt"
+          tools/setup-signing.sh "$RUNNER_TEMP/signing.txt"
+      - name: Test and build
+        run: ./gradlew :app:testDebugUnitTest :app:assembleRelease
+      - uses: actions/upload-artifact@v4
+        with:
+          name: YouTop-apk
+          path: app/build/outputs/apk/release/app-release.apk
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: screens
+          path: app/build/screens

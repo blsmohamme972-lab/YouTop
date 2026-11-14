@@ -1,0 +1,71 @@
+# YouTop tag system. Source of truth; `python3 tools/content/taxonomy.py` turns it into
+# app/src/main/assets/taxonomy.json. Indentation (2 spaces) makes the tree.
+# Line format:   id | English title | Arabic title (optional)
+# A tag is the path of ids joined with "/", with the facet prefix in front of it.
+# Kept deliberately small (about 55 tags) at the owner's request: do not grow it without asking.
+# NEVER rename or remove an id that lessons already use.
+
+@ topic |  | Topics | المواضيع
+cardiac | Cardiac surgery | جراحة القلب
+  foundations | Anatomy, physiology and imaging
+  cpb | Bypass and myocardial protection
+  coronary | Coronary disease and CABG
+  aortic-valve | Aortic valve
+  mitral-tricuspid | Mitral and tricuspid valves
+  aorta | Thoracic aorta and dissection
+  congenital | Congenital heart disease
+  heart-failure | Transplant and mechanical support
+  arrhythmia | Arrhythmia surgery and devices
+  perioperative | Perioperative and intensive care
+  other | Pericardium, tumours, trauma, embolism
+thoracic | Thoracic surgery | جراحة الصدر
+  foundations | Anatomy, physiology and assessment
+  lung-cancer | Lung cancer
+  lung-benign | Benign lung disease and infection
+  pleura | Pleura
+  mediastinum | Mediastinum and thymus
+  airway | Trachea and bronchi
+  oesophagus | Oesophagus
+  chest-wall | Chest wall and diaphragm
+  trauma | Thoracic trauma
+  transplant | Lung transplantation
+vascular | Vascular surgery | جراحة الأوعية الدموية
+  foundations | Anatomy, haemodynamics and medical therapy
+  aorta | Aortic aneurysm and dissection
+  carotid | Carotid and cerebrovascular
+  peripheral | Limb arterial disease
+  visceral | Mesenteric and renal
+  venous | Venous and lymphatic disease
+  access | Dialysis access
+  endovascular | Endovascular technique and devices
+  trauma | Vascular trauma
+  other | Vasculitis, thoracic outlet, rare disease
+
+@ d | d: | Knowledge type | نوع المعرفة
+anatomy | Anatomy and embryology
+physiology | Physiology and pathophysiology
+pathology | Pathology
+pharmacology | Pharmacology
+diagnosis | Presentation and investigation
+indications | Indications and decisions
+technique | Operative technique
+postoperative | Postoperative care
+complications | Complications
+evidence | Trials, guidelines and outcomes
+
+@ q | q: | Question style | نوع السؤال
+recall | Direct recall
+vignette | Clinical vignette
+next-step | Next best step
+numbers | Numbers and thresholds
+
+@ l | l: | Level | المستوى
+1 | Core
+2 | Intermediate
+3 | Advanced
+
+@ x | x: | Flags | علامات
+high-yield | High yield
+trap | Commonly missed
+guideline | Guideline-based
+key-corrected | Answer key corrected
