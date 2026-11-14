@@ -7,11 +7,11 @@ without rebuilding it.
 
 ## Build
 
-    ./gradlew :app:assembleRelease      # app/build/outputs/apk/release/app-release.apk
-    ./gradlew :app:testDebugUnitTest    # tests; also writes pictures of each screen to app/build/screens
+    tools/setup-env.sh    # once: Android SDK and build settings
+    tools/build.sh        # tests, then app/build/outputs/apk/release/app-release.apk
 
-Needs JDK 17+ and the Android SDK (platform 36). The APK is signed with the prototype key in
-`keystore/`, so every build can be installed over the previous one. Replace it before a store release.
+The release signing key is not in this repository; see `CLAUDE.md` for where it is kept and how
+to restore it. `CLAUDE.md` is the hand-over guide for anyone continuing this project.
 
 ## How the feed chooses lessons
 

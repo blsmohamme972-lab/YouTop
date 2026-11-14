@@ -217,7 +217,10 @@ private fun LessonPage(entry: FeedEntry, active: Boolean, vm: MainViewModel, onN
     val saved = item.key in settings.saved
 
     val study = settings.study
+    val questionFirst = study.questionFirst && lesson.quiz.isNotEmpty()
     var showQuiz by remember { mutableStateOf(false) }
+    // Set once the learner has chosen to watch, so "question first" does not cover the video again.
+    var watching by remember { mutableStateOf(false) }
     var showTranscript by rememberSaveable { mutableStateOf(false) }
 
     // Quietly note how this viewing went, and hand it to the scheduler when the learner is done with it.
@@ -234,9 +237,14 @@ private fun LessonPage(entry: FeedEntry, active: Boolean, vm: MainViewModel, onN
     LaunchedEffect(active) {
         if (active) {
             log.since = System.currentTimeMillis()
+            if (questionFirst && !watching) {
+                vm.narrator.pause()
+                showQuiz = true
+            }
         } else if (log.since > 0L) {
             report()
             showQuiz = false
+            watching = false
         }
     }
     DisposableEffect(Unit) { onDispose { report() } }
@@ -437,6 +445,13 @@ private fun LessonPage(entry: FeedEntry, active: Boolean, vm: MainViewModel, onN
                 onDone = report,
                 onNext = { vm.narrator.stopSaying(); onNext() },
                 onClose = { vm.narrator.stopSaying(); showQuiz = false },
+                onWatch = {
+                    vm.narrator.stopSaying()
+                    watching = true
+                    showQuiz = false
+                    vm.selectTrack(entry, 0)
+                    vm.narrator.replay()
+                },
             )
         }
     }

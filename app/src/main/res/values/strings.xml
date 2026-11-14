@@ -80,4 +80,6 @@
     <string name="in_feed">Show in feed</string>
     <string name="back">Back</string>
     <string name="done_today">Done for today</string>
+    <string name="question_first">Question first, video only if I ask</string>
+    <string name="watch">Watch</string>
 </resources>

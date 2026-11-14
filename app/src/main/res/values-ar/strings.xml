@@ -79,4 +79,6 @@
     <string name="in_feed">إظهار في العرض</string>
     <string name="back">رجوع</string>
     <string name="done_today">انتهيت لليوم</string>
+    <string name="question_first">السؤال أولًا، والفيديو عند الطلب فقط</string>
+    <string name="watch">شاهد</string>
 </resources>

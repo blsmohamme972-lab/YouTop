@@ -91,7 +91,7 @@ fun StudyTab(vm: MainViewModel) {
         Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
             // A preset changes the pace but keeps the feed behaviour and book choices.
             fun paced(p: StudySettings) = p.copy(
-                autoContinue = s.autoContinue, autoAdvance = s.autoAdvance, shuffleOptions = s.shuffleOptions,
+                questionFirst = s.questionFirst, autoContinue = s.autoContinue, autoAdvance = s.autoAdvance, shuffleOptions = s.shuffleOptions,
                 speakQuiz = s.speakQuiz, excludedBooks = s.excludedBooks, afterGoal = s.afterGoal, randomNewOrder = s.randomNewOrder,
             )
             listOf(
@@ -112,6 +112,7 @@ fun StudyTab(vm: MainViewModel) {
             }
         }
 
+        Toggle(stringResource(R.string.question_first), s.questionFirst) { set(s.copy(questionFirst = it)) }
         Toggle(stringResource(R.string.auto_continue), s.autoContinue) { set(s.copy(autoContinue = it)) }
         Toggle(stringResource(R.string.auto_advance), s.autoAdvance) { set(s.copy(autoAdvance = it)) }
         Toggle(stringResource(R.string.shuffle_options), s.shuffleOptions) { set(s.copy(shuffleOptions = it)) }

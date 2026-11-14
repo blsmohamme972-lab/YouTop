@@ -1,3 +1,5 @@
+import java.util.Properties
+
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
@@ -13,8 +15,8 @@ android {
         applicationId = "app.youtop"
         minSdk = 26
         targetSdk = 35
-        versionCode = 2
-        versionName = "1.1-prototype"
+        versionCode = 3
+        versionName = "1.2-prototype"
 
         // Google Drive folder "YouTop books" (shared as "anyone with the link").
         // Can be changed inside the app (Settings) without rebuilding.
@@ -23,25 +25,36 @@ android {
         buildConfigField("String", "DRIVE_API_KEY", "\"${providers.gradleProperty("youtop.driveApiKey").getOrElse("")}\"")
     }
 
+    // The release key is not in the repository. tools/setup-signing.sh restores it into keystore/
+    // from the private file in Google Drive. Without it the build still works, signed with the
+    // machine's debug key, but such an APK cannot be installed over a properly signed one.
+    val signingFile = rootProject.file("keystore/signing.properties")
+    val releaseKey = rootProject.file("keystore/youtop-release.jks")
+    val hasReleaseKey = signingFile.exists() && releaseKey.exists()
+    if (!hasReleaseKey) logger.warn("YouTop: no release key in keystore/ - signing with the debug key (see CLAUDE.md).")
+
     signingConfigs {
-        // Prototype key kept in the repo so every build (local or CI) can update the previous one.
-        create("prototype") {
-            storeFile = rootProject.file("keystore/youtop-prototype.jks")
-            storePassword = "youtop-prototype"
-            keyAlias = "youtop"
-            keyPassword = "youtop-prototype"
+        if (hasReleaseKey) {
+            val props = Properties().apply { signingFile.inputStream().use { load(it) } }
+            create("release") {
+                storeFile = releaseKey
+                storePassword = props.getProperty("storePassword")
+                keyAlias = props.getProperty("keyAlias")
+                keyPassword = props.getProperty("keyPassword")
+            }
         }
     }
 
     buildTypes {
+        val signing = signingConfigs.getByName(if (hasReleaseKey) "release" else "debug")
         debug {
-            signingConfig = signingConfigs.getByName("prototype")
+            signingConfig = signing
         }
         release {
             isMinifyEnabled = true
             isShrinkResources = true
             proguardFiles(getDefaultProguardFile("proguard-android-optimize.txt"), "proguard-rules.pro")
-            signingConfig = signingConfigs.getByName("prototype")
+            signingConfig = signing
         }
     }
 

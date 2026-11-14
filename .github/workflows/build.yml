@@ -14,6 +14,15 @@ jobs:
           distribution: temurin
           java-version: 21
       - uses: gradle/actions/setup-gradle@v4
+      # Optional: add a repository secret YOUTOP_SIGNING holding the contents of youtop-signing.txt
+      # (from the private Drive folder) to get APKs that install over the existing app.
+      - name: Restore signing key
+        env:
+          YOUTOP_SIGNING: ${{ secrets.YOUTOP_SIGNING }}
+        if: env.YOUTOP_SIGNING != ''
+        run: |
+          printf '%s\n' "$YOUTOP_SIGNING" > "$RUNNER_TEMP/signing.txt"
+          tools/setup-signing.sh "$RUNNER_TEMP/signing.txt"
       - name: Test and build
         run: ./gradlew :app:testDebugUnitTest :app:assembleRelease
       - uses: actions/upload-artifact@v4

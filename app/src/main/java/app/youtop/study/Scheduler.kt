@@ -29,6 +29,8 @@ data class StudySettings(
     val lapseFactor: Float = 0f,
     val maxDays: Float = 365f,
     // Feed behaviour
+    /** Open each lesson straight on its question; the video plays only if asked for. */
+    val questionFirst: Boolean = false,
     val autoContinue: Boolean = true,
     val autoAdvance: Boolean = true,
     val shuffleOptions: Boolean = true,

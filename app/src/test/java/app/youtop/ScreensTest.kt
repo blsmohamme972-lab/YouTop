@@ -47,6 +47,16 @@ class ScreensTest {
         return all[index]
     }
 
+    /** Waits for work that hops between background threads and the main thread (e.g. saving settings). */
+    private fun settle(condition: () -> Boolean) {
+        repeat(200) {
+            rule.waitForIdle()
+            if (condition()) return
+            Thread.sleep(25)
+        }
+        error("Condition not reached")
+    }
+
     private fun button(label: String) = visible(hasContentDescription(label))
     private fun text(text: String) = visible(hasText(text))
 
@@ -111,5 +121,27 @@ class ScreensTest {
         shot("8b-study-advanced")
         text("Sync").performClick()
         shot("9-sync")
+    }
+
+    @Test
+    fun questionFirstSkipsTheVideoUntilAsked() {
+        openFirstLesson()
+        val vm = rule.activity.viewModel()
+        rule.runOnUiThread { vm.setStudy(vm.settings.value.study.copy(questionFirst = true)) }
+        settle { vm.settings.value.study.questionFirst }
+        rule.onAllNodes(isRoot())[0].performTouchInput { swipeUp() }
+        rule.waitUntil(10_000) {
+            rule.onAllNodes(hasText("Which brain structure", substring = true)).fetchSemanticsNodes().any { it.boundsInRoot.width > 0 }
+        }
+        shot("10-question-first")
+        assertEquals(false, vm.narrator.state.value.playing)
+
+        text("Hippocampus").performClick()
+        rule.waitForIdle()
+        text("Watch").performClick()
+        rule.waitForIdle()
+        rule.mainClock.advanceTimeBy(600)
+        button("Quiz").assertExists() // back on the lesson itself
+        assertEquals(true, vm.narrator.state.value.playing)
     }
 }

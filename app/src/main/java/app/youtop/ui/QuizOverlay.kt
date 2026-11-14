@@ -37,6 +37,7 @@ import androidx.compose.material.icons.rounded.Cancel
 import androidx.compose.material.icons.rounded.CheckCircle
 import androidx.compose.material.icons.rounded.Close
 import androidx.compose.material.icons.rounded.KeyboardArrowUp
+import androidx.compose.material.icons.rounded.PlayArrow
 import androidx.compose.material3.Icon
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
@@ -96,6 +97,7 @@ fun QuizOverlay(
     onDone: () -> Unit,
     onNext: () -> Unit,
     onClose: () -> Unit,
+    onWatch: () -> Unit,
 ) {
     val haptics = LocalHapticFeedback.current
     var index by remember { mutableIntStateOf(0) }
@@ -229,21 +231,32 @@ fun QuizOverlay(
                             modifier = Modifier.fillMaxWidth(),
                         )
                     }
-                    Box(
-                        Modifier
-                            .fillMaxWidth()
-                            .height(44.dp)
-                            .clip(CircleShape)
-                            .background(Color.White.copy(alpha = 0.16f))
-                            .drawBehind { drawRect(Color.White.copy(alpha = 0.22f), size = Size(size.width * countdown.value, size.height)) }
-                            .clickable {
-                                if (last) onNext() else { index++; picked = null; hold = false }
-                            },
-                        contentAlignment = Alignment.Center,
-                    ) {
-                        Row(verticalAlignment = Alignment.CenterVertically) {
-                            if (last) Icon(Icons.Rounded.KeyboardArrowUp, null, tint = Color.White, modifier = Modifier.size(22.dp))
-                            Text(stringResource(R.string.next), color = Color.White, fontSize = 15.sp, fontWeight = FontWeight.SemiBold)
+                    Row(horizontalArrangement = Arrangement.spacedBy(10.dp)) {
+                        // Watch (or re-watch) the lesson behind this question.
+                        Row(
+                            Modifier.height(44.dp).clip(CircleShape).background(Color.White.copy(alpha = 0.16f))
+                                .clickable(onClick = onWatch).padding(horizontal = 16.dp),
+                            verticalAlignment = Alignment.CenterVertically,
+                        ) {
+                            Icon(Icons.Rounded.PlayArrow, null, tint = Color.White, modifier = Modifier.size(20.dp))
+                            Text(stringResource(R.string.watch), color = Color.White, fontSize = 15.sp, fontWeight = FontWeight.SemiBold)
+                        }
+                        Box(
+                            Modifier
+                                .weight(1f)
+                                .height(44.dp)
+                                .clip(CircleShape)
+                                .background(Color.White.copy(alpha = 0.16f))
+                                .drawBehind { drawRect(Color.White.copy(alpha = 0.22f), size = Size(size.width * countdown.value, size.height)) }
+                                .clickable {
+                                    if (last) onNext() else { index++; picked = null; hold = false }
+                                },
+                            contentAlignment = Alignment.Center,
+                        ) {
+                            Row(verticalAlignment = Alignment.CenterVertically) {
+                                if (last) Icon(Icons.Rounded.KeyboardArrowUp, null, tint = Color.White, modifier = Modifier.size(22.dp))
+                                Text(stringResource(R.string.next), color = Color.White, fontSize = 15.sp, fontWeight = FontWeight.SemiBold)
+                            }
                         }
                     }
                 }
