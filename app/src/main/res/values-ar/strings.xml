@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="story">القصة</string>
+    <string name="explanation">الشرح</string>
+    <string name="quiz">اختبار</string>
+    <string name="save">حفظ</string>
+    <string name="saved">المحفوظات</string>
+    <string name="transcript">النص</string>
+    <string name="mute">كتم</string>
+    <string name="speed">السرعة</string>
+    <string name="replay">إعادة</string>
+    <string name="play">تشغيل</string>
+    <string name="pause">إيقاف</string>
+    <string name="library">المكتبة</string>
+    <string name="books">الكتب</string>
+    <string name="sync">المزامنة</string>
+    <string name="sync_now">مزامنة الآن</string>
+    <string name="close">إغلاق</string>
+    <string name="next">التالي</string>
+    <string name="finish">إنهاء</string>
+    <string name="retry">حاول مجددًا</string>
+    <string name="correct">إجابة صحيحة!</string>
+    <string name="wrong">ليست صحيحة</string>
+    <string name="listen">استمع</string>
+    <string name="quiz_score">أجبت عن %1$d من %2$d</string>
+    <string name="question_n">السؤال %1$d من %2$d</string>
+    <string name="no_saved">الدروس التي تحفظها تظهر هنا.</string>
+    <string name="no_quiz">لا يوجد اختبار لهذا الدرس بعد.</string>
+    <string name="drive_folder">رابط مجلد Google Drive</string>
+    <string name="drive_hint">الصق رابط مجلد «YouTop books» (مشاركة: أي شخص لديه الرابط).</string>
+    <string name="auto_sync">تحديث تلقائي</string>
+    <string name="offline_download">تنزيل الدروس للاستخدام دون إنترنت</string>
+    <string name="sync_never">لم تتم المزامنة بعد</string>
+    <string name="sync_last">آخر مزامنة: %1$s</string>
+    <string name="sync_running">جارٍ المزامنة…</string>
+    <string name="sync_no_folder">أضف رابط مجلد Drive أولًا.</string>
+    <string name="sync_done">محدَّث · %1$d كتب</string>
+    <string name="sync_offline">لا يوجد اتصال — تُعرض الدروس المنزَّلة.</string>
+    <string name="clear_cache">حذف الوسائط المنزَّلة</string>
+    <string name="lessons_count">%1$d دروس</string>
+    <string name="voice_missing">صوت هذه اللغة غير مثبّت على الجهاز — يُعرض النص فقط.</string>
+    <string name="empty_feed">لا توجد دروس بعد. قم بالمزامنة لتحميل كتبك.</string>
+    <string name="built_in">مضمَّن</string>
+</resources>

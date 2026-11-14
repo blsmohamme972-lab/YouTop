@@ -1,0 +1,576 @@
+{
+  "id": "starter",
+  "title": "YouTop Starter",
+  "titleAr": "البداية مع YouTop",
+  "description": "Three example lessons with placeholder pictures.",
+  "chapters": [
+    {
+      "id": "examples",
+      "title": "Examples",
+      "titleAr": "أمثلة",
+      "lessons": [
+        {
+          "id": "how-light-travels",
+          "title": "How Light Travels",
+          "titleAr": "كيف يسافر الضوء",
+          "image": "asset:seed/light.webp",
+          "tracks": [
+            {
+              "kind": "story",
+              "lang": "ar",
+              "segments": [
+                {
+                  "text": "في صباحٍ مشرق، سألت ليلى جدَّها: يا جدي، كيف يصل ضوء الشمس إلينا؟"
+                },
+                {
+                  "text": "ابتسم الجد وقال: الضوء يا ليلى مسافرٌ لا يتعب. يخرج من الشمس ويقطع نحو مئةٍ وخمسين مليون كيلومتر في ثماني دقائق فقط.",
+                  "spot": {
+                    "x": 0.213,
+                    "y": 0.146,
+                    "r": 0.16
+                  }
+                },
+                {
+                  "text": "وهو يسافر دائمًا في خطوطٍ مستقيمة، لا ينحني ولا يلتفّ في طريقه.",
+                  "spot": {
+                    "x": 0.53,
+                    "y": 0.245,
+                    "r": 0.17
+                  }
+                },
+                {
+                  "text": "وإذا اصطدم بسطحٍ لامعٍ كالمرآة ارتدّ عنه، كما ترتدّ الكرة عن الجدار. نسمّي ذلك الانعكاس.",
+                  "spot": {
+                    "x": 0.796,
+                    "y": 0.323,
+                    "r": 0.14
+                  }
+                },
+                {
+                  "text": "وحين يمرّ الضوء الأبيض عبر منشورٍ زجاجي، يكشف لنا سرَّه.",
+                  "spot": {
+                    "x": 0.315,
+                    "y": 0.49,
+                    "r": 0.13
+                  }
+                },
+                {
+                  "text": "فهو في الحقيقة مزيجٌ من ألوانٍ كثيرة، تنفصل كلها لتظهر كقوس قزح.",
+                  "spot": {
+                    "x": 0.63,
+                    "y": 0.545,
+                    "r": 0.21
+                  }
+                },
+                {
+                  "text": "وإذا وقف في طريقه شيءٌ لا يسمح له بالمرور، كهذه الشجرة، تكوَّن خلفه الظل.",
+                  "spot": {
+                    "x": 0.36,
+                    "y": 0.76,
+                    "r": 0.26
+                  }
+                },
+                {
+                  "text": "أما حين ينتقل من الهواء إلى الماء فإنه يبطئ قليلًا وينحرف، فتبدو المصّاصة في الكوب كأنها مكسورة. هذا هو الانكسار.",
+                  "spot": {
+                    "x": 0.76,
+                    "y": 0.715,
+                    "r": 0.16
+                  }
+                },
+                {
+                  "text": "ضحكت ليلى وقالت: إذن الضوء مسافرٌ سريع، مستقيم الطريق، وله حيلٌ جميلة!"
+                }
+              ]
+            },
+            {
+              "kind": "explanation",
+              "lang": "en",
+              "segments": [
+                {
+                  "text": "Light is a form of energy that travels outward from a source, such as the Sun. In empty space it moves at about 300,000 kilometres per second.",
+                  "spot": {
+                    "x": 0.213,
+                    "y": 0.146,
+                    "r": 0.16
+                  }
+                },
+                {
+                  "text": "Light travels in straight lines. This is called rectilinear propagation.",
+                  "spot": {
+                    "x": 0.53,
+                    "y": 0.245,
+                    "r": 0.17
+                  }
+                },
+                {
+                  "text": "When light hits a smooth, shiny surface it bounces off. This is reflection: the angle at which it arrives equals the angle at which it leaves.",
+                  "spot": {
+                    "x": 0.796,
+                    "y": 0.323,
+                    "r": 0.14
+                  }
+                },
+                {
+                  "text": "White light is a mixture of colours. A prism bends each colour by a slightly different amount.",
+                  "spot": {
+                    "x": 0.315,
+                    "y": 0.49,
+                    "r": 0.13
+                  }
+                },
+                {
+                  "text": "So the colours spread out into a spectrum, from red to violet. This is called dispersion.",
+                  "spot": {
+                    "x": 0.63,
+                    "y": 0.545,
+                    "r": 0.21
+                  }
+                },
+                {
+                  "text": "An opaque object blocks light. Because light does not bend around it, a shadow forms on the far side.",
+                  "spot": {
+                    "x": 0.36,
+                    "y": 0.76,
+                    "r": 0.26
+                  }
+                },
+                {
+                  "text": "When light passes from air into water it slows down and changes direction. This bending is refraction, and it makes the straw look broken.",
+                  "spot": {
+                    "x": 0.76,
+                    "y": 0.715,
+                    "r": 0.16
+                  }
+                }
+              ]
+            }
+          ],
+          "quiz": [
+            {
+              "q": "How does light travel through a uniform material such as air?",
+              "options": [
+                "In straight lines",
+                "In circles",
+                "In zigzags",
+                "Only downward"
+              ],
+              "answer": 0,
+              "explain": "Light travels in straight lines (rectilinear propagation). That is why shadows have clear shapes.",
+              "lang": "en"
+            },
+            {
+              "q": "What is it called when light bounces off a mirror?",
+              "options": [
+                "Refraction",
+                "Reflection",
+                "Dispersion",
+                "Absorption"
+              ],
+              "answer": 1,
+              "explain": "Reflection is light bouncing off a surface. The angle of incidence equals the angle of reflection.",
+              "lang": "en"
+            },
+            {
+              "q": "Why does a straw look broken in a glass of water?",
+              "options": [
+                "The water magnifies the straw",
+                "Light changes speed and direction between water and air",
+                "The straw absorbs water",
+                "The glass is curved"
+              ],
+              "answer": 1,
+              "explain": "This is refraction: light slows down in water and bends at the surface, so the underwater part appears shifted.",
+              "lang": "en"
+            },
+            {
+              "q": "About how long does sunlight take to reach Earth?",
+              "options": [
+                "8 seconds",
+                "8 minutes",
+                "8 hours",
+                "8 days"
+              ],
+              "answer": 1,
+              "explain": "The Sun is about 150 million km away. At 300,000 km per second, light needs roughly 8 minutes.",
+              "lang": "en"
+            }
+          ]
+        },
+        {
+          "id": "why-we-remember-stories",
+          "title": "Why We Remember Stories",
+          "titleAr": "لماذا نتذكّر القصص؟",
+          "image": "asset:seed/memory.webp",
+          "tracks": [
+            {
+              "kind": "story",
+              "lang": "ar",
+              "segments": [
+                {
+                  "text": "منذ آلاف السنين، قبل الكتب والمدارس، كان الناس يجتمعون حول النار ليحكوا القصص.",
+                  "spot": {
+                    "x": 0.5,
+                    "y": 0.83,
+                    "r": 0.26
+                  }
+                },
+                {
+                  "text": "بهذه الطريقة حفظوا أين يوجد الماء، وأيّ النباتات سامّ، وكيف ينجون من الخطر.",
+                  "spot": {
+                    "x": 0.5,
+                    "y": 0.83,
+                    "r": 0.26
+                  }
+                },
+                {
+                  "text": "واليوم يعرف العلماء السبب: دماغنا يحبّ القصص أكثر مما يحبّ المعلومات المتفرقة.",
+                  "spot": {
+                    "x": 0.5,
+                    "y": 0.215,
+                    "r": 0.27
+                  }
+                },
+                {
+                  "text": "جرّب أن تحفظ قائمةً من الحقائق الجافة، وستنساها غالبًا بعد أيام.",
+                  "spot": {
+                    "x": 0.231,
+                    "y": 0.505,
+                    "r": 0.16
+                  }
+                },
+                {
+                  "text": "أما القصة فتربط الأحداث ببعضها: هذا حدث، فأدّى إلى ذاك. والدماغ يتذكر السلاسل المترابطة بسهولة.",
+                  "spot": {
+                    "x": 0.694,
+                    "y": 0.513,
+                    "r": 0.19
+                  }
+                },
+                {
+                  "text": "والقصة تحرّك مشاعرنا؛ نخاف ونفرح ونتشوّق. والمشاعر تقول للدماغ: هذا مهم، احتفظ به!",
+                  "spot": {
+                    "x": 0.5,
+                    "y": 0.645,
+                    "r": 0.12
+                  }
+                },
+                {
+                  "text": "عندها ينشط الحُصين، وهو جزءٌ صغير في الدماغ يشبه فرس البحر، فيحوّل ما سمعناه إلى ذكرى طويلة الأمد.",
+                  "spot": {
+                    "x": 0.556,
+                    "y": 0.245,
+                    "r": 0.1
+                  }
+                },
+                {
+                  "text": "لذلك، إذا أردت أن تتذكر درسًا، فاجعله قصة."
+                }
+              ]
+            },
+            {
+              "kind": "explanation",
+              "lang": "en",
+              "segments": [
+                {
+                  "text": "Memory works in three steps: encoding information, storing it, and retrieving it later.",
+                  "spot": {
+                    "x": 0.5,
+                    "y": 0.215,
+                    "r": 0.27
+                  }
+                },
+                {
+                  "text": "Isolated facts are hard to encode because they have few connections to what we already know.",
+                  "spot": {
+                    "x": 0.231,
+                    "y": 0.505,
+                    "r": 0.16
+                  }
+                },
+                {
+                  "text": "A story organises information into causes and effects. Each event becomes a cue for recalling the next one.",
+                  "spot": {
+                    "x": 0.694,
+                    "y": 0.513,
+                    "r": 0.19
+                  }
+                },
+                {
+                  "text": "Stories also trigger emotion. The amygdala, the brain's emotion centre, marks emotional events as important.",
+                  "spot": {
+                    "x": 0.5,
+                    "y": 0.645,
+                    "r": 0.12
+                  }
+                },
+                {
+                  "text": "That signal strengthens the work of the hippocampus, which consolidates new experiences into long-term memory.",
+                  "spot": {
+                    "x": 0.556,
+                    "y": 0.245,
+                    "r": 0.1
+                  }
+                },
+                {
+                  "text": "Stories make us imagine sights, sounds and feelings, so the same memory is stored through several routes.",
+                  "spot": {
+                    "x": 0.5,
+                    "y": 0.83,
+                    "r": 0.26
+                  }
+                },
+                {
+                  "text": "To study better: link facts into a narrative, add vivid images, and connect them to things you care about."
+                }
+              ]
+            }
+          ],
+          "quiz": [
+            {
+              "q": "Which brain structure is most important for forming new long-term memories?",
+              "options": [
+                "Cerebellum",
+                "Hippocampus",
+                "Brainstem",
+                "Optic nerve"
+              ],
+              "answer": 1,
+              "explain": "The hippocampus consolidates new experiences into long-term memory.",
+              "lang": "en"
+            },
+            {
+              "q": "Why are stories easier to remember than lists of facts?",
+              "options": [
+                "They are longer",
+                "They link events through cause and effect",
+                "They use difficult words",
+                "They are always true"
+              ],
+              "answer": 1,
+              "explain": "Connected events act as cues for one another, so recalling one part brings back the next.",
+              "lang": "en"
+            },
+            {
+              "q": "What role does emotion play in memory?",
+              "options": [
+                "It erases memories",
+                "It marks an event as important, strengthening the memory",
+                "It has no effect",
+                "It only affects short-term memory"
+              ],
+              "answer": 1,
+              "explain": "Emotional arousal activates the amygdala, which boosts consolidation by the hippocampus.",
+              "lang": "en"
+            },
+            {
+              "q": "What are the three stages of memory, in order?",
+              "options": [
+                "Storage, retrieval, encoding",
+                "Encoding, storage, retrieval",
+                "Retrieval, encoding, storage",
+                "Encoding, retrieval, storage"
+              ],
+              "answer": 1,
+              "explain": "Information is first encoded, then stored, and finally retrieved when needed.",
+              "lang": "en"
+            }
+          ]
+        },
+        {
+          "id": "journey-of-a-water-drop",
+          "title": "Journey of a Water Drop",
+          "titleAr": "رحلة قطرة ماء",
+          "image": "asset:seed/water.webp",
+          "tracks": [
+            {
+              "kind": "story",
+              "lang": "ar",
+              "segments": [
+                {
+                  "text": "أنا قَطْرة، قطرةُ ماءٍ صغيرة أعيش في البحر الواسع مع ملايين من أخواتي.",
+                  "spot": {
+                    "x": 0.648,
+                    "y": 0.872,
+                    "r": 0.13
+                  }
+                },
+                {
+                  "text": "في يومٍ حارّ، سخّنتني أشعة الشمس حتى صرت خفيفةً جدًا.",
+                  "spot": {
+                    "x": 0.796,
+                    "y": 0.125,
+                    "r": 0.15
+                  }
+                },
+                {
+                  "text": "فتحوّلتُ إلى بخارٍ لا يُرى، وارتفعت في الهواء عاليًا عاليًا. هذا هو التبخّر.",
+                  "spot": {
+                    "x": 0.796,
+                    "y": 0.655,
+                    "r": 0.17
+                  }
+                },
+                {
+                  "text": "في الأعلى كان الجو باردًا، فتجمّعتُ مع قطراتٍ أخرى حول ذرات الغبار، وصنعنا معًا سحابة. هذا هو التكاثف.",
+                  "spot": {
+                    "x": 0.565,
+                    "y": 0.232,
+                    "r": 0.18
+                  }
+                },
+                {
+                  "text": "حملتنا الرياح فوق اليابسة، وكبرنا وثقُلنا حتى لم تعد السحابة تقدر على حملنا، فسقطنا مطرًا.",
+                  "spot": {
+                    "x": 0.25,
+                    "y": 0.345,
+                    "r": 0.17
+                  }
+                },
+                {
+                  "text": "هبطتُ على قمة جبلٍ عالٍ، وانزلقتُ بين الصخور مع قطراتٍ كثيرة.",
+                  "spot": {
+                    "x": 0.255,
+                    "y": 0.55,
+                    "r": 0.25
+                  }
+                },
+                {
+                  "text": "صرنا جدولًا، ثم نهرًا يجري نحو الأسفل، يسقي الأشجار والحقول في طريقه.",
+                  "spot": {
+                    "x": 0.38,
+                    "y": 0.72,
+                    "r": 0.16
+                  }
+                },
+                {
+                  "text": "وأخيرًا عدتُ إلى البحر، بيتي القديم.",
+                  "spot": {
+                    "x": 0.4,
+                    "y": 0.89,
+                    "r": 0.28
+                  }
+                },
+                {
+                  "text": "لكنّ رحلتي لا تنتهي أبدًا. فغدًا تشرق الشمس، وأبدأ من جديد."
+                }
+              ]
+            },
+            {
+              "kind": "explanation",
+              "lang": "en",
+              "segments": [
+                {
+                  "text": "The water cycle is the continuous movement of water between the oceans, the air and the land. About 97 percent of Earth's water is in the oceans.",
+                  "spot": {
+                    "x": 0.4,
+                    "y": 0.89,
+                    "r": 0.28
+                  }
+                },
+                {
+                  "text": "The Sun provides the energy that drives the whole cycle.",
+                  "spot": {
+                    "x": 0.796,
+                    "y": 0.125,
+                    "r": 0.15
+                  }
+                },
+                {
+                  "text": "Evaporation: heat turns liquid water at the surface into water vapour, an invisible gas that rises with warm air.",
+                  "spot": {
+                    "x": 0.796,
+                    "y": 0.655,
+                    "r": 0.17
+                  }
+                },
+                {
+                  "text": "Condensation: higher up the air is colder, so the vapour turns back into tiny droplets around dust particles. Billions of droplets form a cloud.",
+                  "spot": {
+                    "x": 0.565,
+                    "y": 0.232,
+                    "r": 0.18
+                  }
+                },
+                {
+                  "text": "Precipitation: droplets merge and grow. When they become too heavy to stay up, they fall as rain, snow or hail.",
+                  "spot": {
+                    "x": 0.25,
+                    "y": 0.345,
+                    "r": 0.17
+                  }
+                },
+                {
+                  "text": "Collection: water runs downhill in streams and rivers, and some soaks into the ground as groundwater.",
+                  "spot": {
+                    "x": 0.38,
+                    "y": 0.72,
+                    "r": 0.16
+                  }
+                },
+                {
+                  "text": "Eventually it returns to the sea and the cycle begins again. No new water is made: the same water is used over and over.",
+                  "spot": {
+                    "x": 0.648,
+                    "y": 0.872,
+                    "r": 0.13
+                  }
+                }
+              ]
+            }
+          ],
+          "quiz": [
+            {
+              "q": "What provides the energy for the water cycle?",
+              "options": [
+                "Wind",
+                "The Sun",
+                "The Moon",
+                "Ocean currents"
+              ],
+              "answer": 1,
+              "explain": "Heat from the Sun evaporates water and keeps the whole cycle moving.",
+              "lang": "en"
+            },
+            {
+              "q": "The change from liquid water to water vapour is called…",
+              "options": [
+                "Condensation",
+                "Precipitation",
+                "Evaporation",
+                "Collection"
+              ],
+              "answer": 2,
+              "explain": "Evaporation turns liquid water into an invisible gas, water vapour.",
+              "lang": "en"
+            },
+            {
+              "q": "How do clouds form?",
+              "options": [
+                "Water vapour condenses into tiny droplets",
+                "Rain evaporates as it falls",
+                "Smoke rises from the ground",
+                "Snow melts on mountains"
+              ],
+              "answer": 0,
+              "explain": "As moist air rises and cools, vapour condenses on dust particles into droplets that make up a cloud.",
+              "lang": "en"
+            },
+            {
+              "q": "Which of these is NOT a form of precipitation?",
+              "options": [
+                "Rain",
+                "Snow",
+                "Hail",
+                "Water vapour"
+              ],
+              "answer": 3,
+              "explain": "Precipitation is water falling from clouds as liquid or ice. Water vapour is a gas rising into the air.",
+              "lang": "en"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

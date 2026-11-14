@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YouTop</string>
+    <string name="story">Story</string>
+    <string name="explanation">Explain</string>
+    <string name="quiz">Quiz</string>
+    <string name="save">Save</string>
+    <string name="saved">Saved</string>
+    <string name="transcript">Text</string>
+    <string name="mute">Mute</string>
+    <string name="speed">Speed</string>
+    <string name="replay">Replay</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="library">Library</string>
+    <string name="books">Books</string>
+    <string name="sync">Sync</string>
+    <string name="sync_now">Sync now</string>
+    <string name="close">Close</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+    <string name="retry">Try again</string>
+    <string name="correct">Correct!</string>
+    <string name="wrong">Not quite</string>
+    <string name="listen">Listen</string>
+    <string name="quiz_score">You got %1$d of %2$d</string>
+    <string name="question_n">Question %1$d of %2$d</string>
+    <string name="no_saved">Lessons you save appear here.</string>
+    <string name="no_quiz">No quiz for this lesson yet.</string>
+    <string name="drive_folder">Google Drive folder link</string>
+    <string name="drive_hint">Paste the link of the “YouTop books” folder (shared: anyone with the link).</string>
+    <string name="auto_sync">Refresh automatically</string>
+    <string name="offline_download">Download lessons for offline use</string>
+    <string name="sync_never">Not synced yet</string>
+    <string name="sync_last">Last sync: %1$s</string>
+    <string name="sync_running">Syncing…</string>
+    <string name="sync_no_folder">Add your Drive folder link first.</string>
+    <string name="sync_done">Up to date · %1$d books</string>
+    <string name="sync_offline">Offline — showing downloaded lessons.</string>
+    <string name="clear_cache">Clear downloaded media</string>
+    <string name="lessons_count">%1$d lessons</string>
+    <string name="voice_missing">Voice for this language is not installed on this device — showing text only.</string>
+    <string name="empty_feed">No lessons yet. Sync to load your books.</string>
+    <string name="built_in">Built-in</string>
+</resources>
