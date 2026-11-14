@@ -63,4 +63,18 @@ class ContentTest {
             entries,
         )
     }
+
+    /** A real page saved from Drive, to notice if the parser stops matching its markup. */
+    @Test
+    fun parsesSavedDrivePage() {
+        val entries = DriveClient.parseFolderPage(javaClass.getResource("/drive-folder-page.html")!!.readText())
+        assertEquals(
+            listOf(
+                DriveClient.Entry("125fle6Y40I_vey0VSBiYFjAOS4bXM7ZV", "YouTop Starter", true),
+                DriveClient.Entry("1glOU7A_TfTap1CWGoBZG-znR6jdJQeZi", "catalog-1.json", false),
+            ),
+            entries,
+        )
+        assertEquals("catalog-1.json", DriveClient.pickCatalog(entries)?.name)
+    }
 }
