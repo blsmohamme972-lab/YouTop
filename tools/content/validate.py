@@ -3,7 +3,8 @@
 
 Usage:  python3 tools/content/validate.py <file-or-folder> [...]
 
-Accepts book files ({"id", "title", "chapters": [...]}) and chapter files ({"lessons": [...]}).
+Accepts book files ({"id", "title", "chapters": [...]}), chapter files ({"lessons": [...]}),
+master question files ({"questions": [...]}) and image-prompt files ({"items": [...]}).
 Exits with an error, listing every problem, if anything would break or mislead in the app.
 """
 import json, pathlib, re, sys
@@ -105,6 +106,43 @@ def check_file(path):
             check_lessons(ch.get("lessons", []), f"{path.name} chapter '{cid}'", strict)
     elif "lessons" in data:
         check_lessons(data["lessons"], path.name, True)
+    elif "questions" in data:
+        # Master question file (YouTop private/books/<book id>/mcqs-*.json).
+        expected = data.get("from")
+        for q in data["questions"]:
+            n = q.get("n")
+            where = f"{path.name} question {n}"
+            if not isinstance(n, int) or (expected is not None and n != expected):
+                bad(where, f"numbers must run without gaps or repeats (expected {expected})")
+            expected = (n + 1) if isinstance(n, int) else None
+            options = q.get("options", [])
+            if not q.get("stem", "").strip() or len(options) < 2:
+                bad(where, "needs a stem and at least two options")
+            if not isinstance(q.get("answer"), int) or not 0 <= q["answer"] < len(options):
+                bad(where, "answer index is out of range")
+            figure = q.get("figure")
+            if figure and not MEDIA.fullmatch(figure):
+                bad(where, f"figure '{figure}' is not a media reference")
+            for c in q.get("corrections", []):
+                if not all(c.get(k) for k in ("field", "was", "now", "why")):
+                    bad(where, "each correction needs field, was, now and why")
+        if data.get("to") is not None and expected is not None and expected - 1 != data["to"]:
+            bad(path.name, f"last question is {expected - 1} but the file says it ends at {data['to']}")
+    elif "items" in data:
+        # Image prompts handed to the owner: {"items": [{"info": "1. ..."}, ...]} and nothing else.
+        if set(data) != {"items"}:
+            bad(path.name, "only the 'items' field is allowed")
+        expected = None
+        for i, item in enumerate(data["items"]):
+            info = item.get("info", "") if isinstance(item, dict) else ""
+            m = re.match(r"(\d+)\. \S", info)
+            if not isinstance(item, dict) or set(item) != {"info"} or not m:
+                bad(path.name, f"item {i} must be {{\"info\": \"<number>. <prompt>\"}}")
+                continue
+            n = int(m.group(1))
+            if expected is not None and n != expected:
+                bad(path.name, f"item {i} is numbered {n}, expected {expected} (no gaps or repeats)")
+            expected = n + 1
     elif "books" in data:
         for b in data["books"]:
             if not b.get("id") or not b.get("file"):
