@@ -21,7 +21,7 @@ plainly, send them the APK file itself, and never ask them to run commands.
 
 | What | Where |
 |---|---|
-| Code | GitHub `blsmohamme972-lab/YouTop` (public). Work so far is on branch `ccr-4d386cf7-4se1m2`; check whether it has been merged into `main` before starting. |
+| Code | GitHub `blsmohamme972-lab/YouTop` (public), branch `main`. Do new work on a branch, then merge it into `main` (pull request) so `main` always holds what the owner's phone runs. |
 | Lesson content | Google Drive account `gpmo592@gmail.com`, folder **YouTop books**, id `1r5301GkHo5hZItw4gSwTUzrBD6HFcHUI`. Shared as "anyone with the link – viewer" on purpose: the app reads it without signing in. |
 | Signing key | Same Drive account, folder **YouTop private**, id `1QQ4CyHwy6VjuYfYRobermLpT5BqLQVqb`, file `youtop-signing.txt` (id `16CYev5pmNzRKGAaLNilaSkfXNq1bFvpL`). Private. Read it with the Google Drive connector. |
 | Source PDFs, work status | **YouTop private/source books** and the highest-numbered `status-<n>.txt` in YouTop private. |
