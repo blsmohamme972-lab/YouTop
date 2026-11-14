@@ -19,21 +19,20 @@ import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.draw.blur
 import androidx.compose.ui.draw.clipToBounds
 import androidx.compose.ui.geometry.Offset
 import androidx.compose.ui.geometry.Size
 import androidx.compose.ui.geometry.isSpecified
 import androidx.compose.ui.graphics.Brush
 import androidx.compose.ui.graphics.Color
-import androidx.compose.ui.graphics.TransformOrigin
 import androidx.compose.ui.graphics.drawscope.Stroke
-import androidx.compose.ui.graphics.graphicsLayer
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.unit.dp
 import app.youtop.data.Spot
 import coil3.compose.AsyncImage
 import kotlin.math.abs
-import kotlin.math.max
+import kotlin.math.min
 
 private val Palettes = listOf(
     listOf(Color(0xFF1B1F4B), Color(0xFF5B3DF5), Color(0xFF0FB5BA)),
@@ -43,9 +42,10 @@ private val Palettes = listOf(
 )
 
 /**
- * Fullscreen lesson image with a "camera" that glides to the region being
- * narrated: the image zooms towards [spot], everything else dims, and a ring
- * marks the exact place. With `spot == null` the camera pulls back out.
+ * Lesson image with a spotlight on the region being narrated. The whole picture is always
+ * shown, never zoomed or cropped (the owner asked for that), so a spot is always on screen
+ * exactly where the content says it is. Everything outside the spot dims and a ring marks it.
+ * With `spot == null` the light comes back up. A blurred copy fills the screen behind.
  */
 @Composable
 fun SpotlightImage(model: Any?, spot: Spot?, seed: Int, modifier: Modifier = Modifier) {
@@ -58,31 +58,20 @@ fun SpotlightImage(model: Any?, spot: Spot?, seed: Int, modifier: Modifier = Mod
         val w = constraints.maxWidth.toFloat()
         val h = constraints.maxHeight.toFloat()
 
-        // Where the image lands on screen under ContentScale.Crop.
+        // Where the image lands on screen under ContentScale.Fit.
         val iw = if (intrinsic.isSpecified && intrinsic.width > 0) intrinsic.width else w
         val ih = if (intrinsic.isSpecified && intrinsic.height > 0) intrinsic.height else h
-        val fit = max(w / iw, h / ih)
+        val fit = min(w / iw, h / ih)
         val drawnW = iw * fit
         val drawnH = ih * fit
         val left = (w - drawnW) / 2f
         val top = (h - drawnH) / 2f
 
-        val targetX = left + last.x * drawnW
-        val targetY = top + last.y * drawnH
-        val targetR = last.r * drawnW
-        val targetZoom = if (spot != null) (0.26f * w / targetR).coerceIn(1.1f, 1.5f) else 1f
-        // Aim a little above the middle: captions sit at the bottom.
-        val targetTx = if (spot != null) (w * 0.5f - targetX * targetZoom).coerceIn(w - w * targetZoom, 0f) else 0f
-        val targetTy = if (spot != null) (h * 0.42f - targetY * targetZoom).coerceIn(h - h * targetZoom, 0f) else 0f
-
-        val glide = tween<Float>(durationMillis = 750, easing = FastOutSlowInEasing)
-        val zoom by animateFloatAsState(targetZoom, glide, label = "zoom")
-        val tx by animateFloatAsState(targetTx, glide, label = "tx")
-        val ty by animateFloatAsState(targetTy, glide, label = "ty")
-        val cx by animateFloatAsState(targetX, glide, label = "cx")
-        val cy by animateFloatAsState(targetY, glide, label = "cy")
-        val radius by animateFloatAsState(targetR, glide, label = "r")
-        val dim by animateFloatAsState(if (spot != null) 1f else 0f, tween(500), label = "dim")
+        val glide = tween<Float>(durationMillis = 450, easing = FastOutSlowInEasing)
+        val cx by animateFloatAsState(left + last.x * drawnW, glide, label = "cx")
+        val cy by animateFloatAsState(top + last.y * drawnH, glide, label = "cy")
+        val radius by animateFloatAsState(last.r * drawnW, glide, label = "r")
+        val dim by animateFloatAsState(if (spot != null) 1f else 0f, tween(350), label = "dim")
 
         val pulse by rememberInfiniteTransition(label = "pulse").animateFloat(
             initialValue = 0f, targetValue = 1f,
@@ -91,23 +80,20 @@ fun SpotlightImage(model: Any?, spot: Spot?, seed: Int, modifier: Modifier = Mod
         )
 
         val palette = Palettes[abs(seed) % Palettes.size]
-        Box(
-            Modifier
-                .fillMaxSize()
-                .graphicsLayer {
-                    transformOrigin = TransformOrigin(0f, 0f)
-                    scaleX = zoom
-                    scaleY = zoom
-                    translationX = tx
-                    translationY = ty
-                }
-                .background(Brush.verticalGradient(palette))
-        ) {
+        Box(Modifier.fillMaxSize().background(Brush.verticalGradient(palette))) {
             if (model != null) {
+                // Backdrop for the bands above and below the picture.
                 AsyncImage(
                     model = model,
                     contentDescription = null,
                     contentScale = ContentScale.Crop,
+                    modifier = Modifier.fillMaxSize().blur(28.dp),
+                )
+                Box(Modifier.fillMaxSize().background(Color.Black.copy(alpha = 0.6f)))
+                AsyncImage(
+                    model = model,
+                    contentDescription = null,
+                    contentScale = ContentScale.Fit,
                     modifier = Modifier.fillMaxSize(),
                     onSuccess = { intrinsic = it.painter.intrinsicSize },
                 )
@@ -115,16 +101,17 @@ fun SpotlightImage(model: Any?, spot: Spot?, seed: Int, modifier: Modifier = Mod
             Canvas(Modifier.fillMaxSize()) {
                 if (dim <= 0.01f) return@Canvas
                 val center = Offset(cx, cy)
+                // Fully lit inside the ring, soft edge just outside it, dim beyond.
                 drawRect(
                     Brush.radialGradient(
                         0f to Color.Transparent,
-                        0.55f to Color.Transparent,
+                        0.72f to Color.Transparent,
                         1f to Color.Black.copy(alpha = 0.62f * dim),
                         center = center,
-                        radius = radius * 2f,
+                        radius = radius * 1.4f,
                     )
                 )
-                val stroke = 2.5.dp.toPx() / zoom
+                val stroke = 2.5.dp.toPx()
                 drawCircle(Color.White.copy(alpha = 0.9f * dim), radius, center, style = Stroke(stroke))
                 drawCircle(
                     Color.White.copy(alpha = 0.45f * (1f - pulse) * dim),

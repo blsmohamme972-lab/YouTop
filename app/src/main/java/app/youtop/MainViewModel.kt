@@ -258,6 +258,8 @@ class MainViewModel(app: Application) : AndroidViewModel(app) {
     /** Called while the app is in the foreground: refreshes on open and then periodically. */
     fun startAutoSync() {
         autoSyncJob?.cancel()
+        // Screen tests must not depend on what is published in Drive today.
+        if (android.os.Build.FINGERPRINT == "robolectric") return
         autoSyncJob = viewModelScope.launch {
             while (true) {
                 val s = prefs.settings.first()
