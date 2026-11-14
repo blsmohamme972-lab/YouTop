@@ -70,8 +70,8 @@ class ContentTest {
         val entries = DriveClient.parseFolderPage(javaClass.getResource("/drive-folder-page.html")!!.readText())
         assertEquals(
             listOf(
-                DriveClient.Entry("1O47r3jkB2VSvgs0i_vseRmLEZrohDXHV", "YouTop Starter", true),
-                DriveClient.Entry("1O6YOfbz2axlASplC5dWnnylIheUqYLj3", "catalog-1.json", false),
+                DriveClient.Entry("1toVwQTGBpZHtZA14kIlO4xR5XRRJIAuU", "YouTop Starter", true),
+                DriveClient.Entry("1GRjzQnJfrCzD4zzfrQ_z9-3Dp-8mb9fC", "catalog-1.json", false),
             ),
             entries,
         )
