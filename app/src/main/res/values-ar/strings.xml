@@ -81,4 +81,10 @@
     <string name="done_today">انتهيت لليوم</string>
     <string name="question_first">السؤال أولًا، والفيديو عند الطلب فقط</string>
     <string name="watch">شاهد</string>
+    <string name="topics">المواضيع</string>
+    <string name="focus_all">العرض يشمل كل المواضيع</string>
+    <string name="focus_some">العرض مقصور على %1$d وسوم</string>
+    <string name="focus_clear">عرض الكل</string>
+    <string name="weakest">أضعف المواضيع (اضغط للتركيز)</string>
+    <string name="weak_first">ابدأ الدروس الجديدة من أضعف مواضيعي</string>
 </resources>

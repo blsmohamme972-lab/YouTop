@@ -33,6 +33,15 @@ what the picture shows and what the explanation teaches, and the question itself
 quiz, with `source` saying where it is in the book. Where the printed key is plainly wrong the
 lesson uses the right answer and says so in `explain`. The book's own cover goes in `cover`.
 
+## Tags
+
+Every lesson carries tags from one shared system (`content/taxonomy.txt`): a topic tree for
+cardiac, thoracic and vascular surgery, plus the kind of knowledge tested, the question style, a
+level and flags. Library → Topics shows the tree with, for each tag, how many lessons are done,
+how many are due and the share answered correctly; tapping tags limits the feed to them, and the
+weakest topics are listed on top. New lessons are started from the weakest topics first.
+`docs/content-guide.md` has the tagging rules.
+
 ## How content gets into the app
 
 The app reads one Drive folder, **YouTop books**, shared as "Anyone with the link – Viewer".
@@ -42,7 +51,8 @@ under Library → Sync.
     YouTop books/
       catalog-7.json            index of all books; the highest number is the one in use
       <Book name>/
-        book.json               chapters, lessons, narration text, spotlight cues, quizzes
+        book.json               the book and its chapters; small books carry their lessons inline
+        chapters/*.json         big books: about 100 lessons per file, listed in book.json
         *.webp / *.jpg          lesson pictures (portrait, 9:16 works best)
         *.mp3 / *.m4a           narration audio (optional)
 

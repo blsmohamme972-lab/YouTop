@@ -16,7 +16,7 @@ if [ ! -d "$sdk/platforms/android-36" ] || [ ! -d "$sdk/build-tools/36.0.0" ]; t
     proxy=(--proxy=http "--proxy_host=${BASH_REMATCH[1]}" "--proxy_port=${BASH_REMATCH[2]}")
   fi
   yes | "$sdk/cmdline-tools/latest/bin/sdkmanager" "${proxy[@]}" --licenses >/dev/null || true
-  "$sdk/cmdline-tools/latest/bin/sdkmanager" "${proxy[@]}" "platforms;android-36" "build-tools;36.0.0" "platform-tools"
+  "$sdk/cmdline-tools/latest/bin/sdkmanager" "${proxy[@]}" "platforms;android-36" "build-tools;36.0.0" "platform-tools" > /dev/null
 fi
 echo "sdk.dir=$sdk" > "$root/local.properties"
 

@@ -3,7 +3,8 @@ package app.youtop
 import app.youtop.data.Book
 import app.youtop.data.ContentJson
 import app.youtop.data.DriveClient
-import app.youtop.data.flatten
+import app.youtop.data.Taxonomy
+import app.youtop.study.Tags
 import org.junit.Assert.assertEquals
 import org.junit.Assert.assertNull
 import org.junit.Assert.assertTrue
@@ -14,10 +15,9 @@ class ContentTest {
     @Test
     fun starterBookIsValid() {
         val book = ContentJson.decodeFromString<Book>(File("src/main/assets/seed/starter.json").readText())
-        val lessons = listOf(book).flatten()
+        val lessons = book.chapters.flatMap { it.lessons }
         assertEquals(3, lessons.size)
-        for (item in lessons) {
-            val lesson = item.lesson
+        for (lesson in lessons) {
             assertEquals(listOf("story", "explanation"), lesson.tracks.map { it.kind })
             assertTrue(lesson.quiz.isNotEmpty())
             lesson.quiz.forEach { assertTrue(it.answer in it.options.indices) }
@@ -76,5 +76,30 @@ class ContentTest {
             entries,
         )
         assertEquals("catalog-1.json", DriveClient.pickCatalog(entries)?.name)
+    }
+
+    @Test
+    fun tagSystemCoversTheThreeSpecialties() {
+        val taxonomy = ContentJson.decodeFromString<Taxonomy>(File("src/main/assets/taxonomy.json").readText())
+        assertEquals(listOf("topic", "d", "q", "l", "x"), taxonomy.facets.map { it.id })
+        assertEquals(listOf("cardiac", "thoracic", "vascular"), taxonomy.facets[0].nodes.map { it.id })
+        assertEquals("Aortic stenosis", taxonomy.titles["cardiac/valve/aortic/stenosis"])
+        assertEquals("Clinical vignette", taxonomy.titles["q:vignette"])
+        assertTrue(taxonomy.titles.size > 350)
+    }
+
+    @Test
+    fun focusMatchesWithinAGroupAndAcrossGroups() {
+        val tags = listOf("cardiac/valve/aortic/stenosis", "d:indications", "q:vignette", "l:2")
+        assertTrue(Tags.matches(tags, emptySet()))
+        assertTrue(Tags.matches(tags, setOf("cardiac")))
+        assertTrue(Tags.matches(tags, setOf("cardiac/valve", "vascular"))) // either topic
+        assertTrue(Tags.matches(tags, setOf("cardiac/valve", "d:indications"))) // topic and knowledge type
+        assertTrue(!Tags.matches(tags, setOf("cardiac/valve", "d:anatomy")))
+        assertTrue(!Tags.matches(tags, setOf("cardiac/valve/aortic/stenosis-x")))
+        assertTrue(!Tags.matches(emptyList(), setOf("cardiac")))
+        assertEquals(listOf("cardiac", "cardiac/valve", "cardiac/valve/aortic"), Tags.withAncestors("cardiac/valve/aortic"))
+        assertEquals(listOf("d:indications"), Tags.withAncestors("d:indications"))
+        assertEquals("cardiac/valve/aortic/stenosis", Tags.mainTopic(tags))
     }
 }

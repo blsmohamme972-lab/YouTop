@@ -53,6 +53,7 @@ import app.youtop.R
 import app.youtop.data.flatten
 import app.youtop.study.Phase
 import app.youtop.study.StudySettings
+import app.youtop.study.Tags
 import kotlin.math.roundToInt
 
 private val Faint = Color.White.copy(alpha = 0.6f)
@@ -69,7 +70,7 @@ fun StudyTab(vm: MainViewModel) {
     var confirmReset by remember { mutableStateOf(false) }
 
     val now = remember(progress) { System.currentTimeMillis() }
-    val keys = remember(books, s.excludedBooks) { books.filter { it.id !in s.excludedBooks }.flatten().map { it.key } }
+    val keys = remember(books, s.excludedBooks, s.focus) { books.filter { it.id !in s.excludedBooks }.flatten().filter { Tags.matches(it.lesson.tags, s.focus) }.map { it.key } }
     val dueNow = keys.count { k -> progress.cards[k]?.let { it.phase != Phase.NEW && it.due <= now } == true }
     val fresh = keys.count { k -> (progress.cards[k]?.phase ?: Phase.NEW) == Phase.NEW }
     val learned = keys.count { k -> progress.cards[k]?.phase == Phase.REVIEW }
@@ -92,7 +93,7 @@ fun StudyTab(vm: MainViewModel) {
             // A preset changes the pace but keeps the feed behaviour and book choices.
             fun paced(p: StudySettings) = p.copy(
                 questionFirst = s.questionFirst, autoContinue = s.autoContinue, autoAdvance = s.autoAdvance, shuffleOptions = s.shuffleOptions,
-                speakQuiz = s.speakQuiz, excludedBooks = s.excludedBooks, afterGoal = s.afterGoal, randomNewOrder = s.randomNewOrder,
+                speakQuiz = s.speakQuiz, excludedBooks = s.excludedBooks, focus = s.focus, weakFirst = s.weakFirst, afterGoal = s.afterGoal, randomNewOrder = s.randomNewOrder,
             )
             listOf(
                 R.string.preset_relaxed to StudySettings.Relaxed,
@@ -117,6 +118,7 @@ fun StudyTab(vm: MainViewModel) {
         Toggle(stringResource(R.string.auto_advance), s.autoAdvance) { set(s.copy(autoAdvance = it)) }
         Toggle(stringResource(R.string.shuffle_options), s.shuffleOptions) { set(s.copy(shuffleOptions = it)) }
         Toggle(stringResource(R.string.speak_quiz), s.speakQuiz) { set(s.copy(speakQuiz = it)) }
+        Toggle(stringResource(R.string.weak_first), s.weakFirst) { set(s.copy(weakFirst = it)) }
         Toggle(stringResource(R.string.random_new), s.randomNewOrder) { set(s.copy(randomNewOrder = it)) }
 
         Row(

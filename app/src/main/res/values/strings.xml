@@ -82,4 +82,10 @@
     <string name="done_today">Done for today</string>
     <string name="question_first">Question first, video only if I ask</string>
     <string name="watch">Watch</string>
+    <string name="topics">Topics</string>
+    <string name="focus_all">Feed shows all topics</string>
+    <string name="focus_some">Feed limited to %1$d tags</string>
+    <string name="focus_clear">Show all</string>
+    <string name="weakest">Weakest topics (tap to focus)</string>
+    <string name="weak_first">Start new lessons from my weakest topics</string>
 </resources>

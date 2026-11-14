@@ -1,0 +1,127 @@
+#!/usr/bin/env python3
+"""Checks lesson files before they are published to Google Drive.
+
+Usage:  python3 tools/content/validate.py <file-or-folder> [...]
+
+Accepts book files ({"id", "title", "chapters": [...]}) and chapter files ({"lessons": [...]}).
+Exits with an error, listing every problem, if anything would break or mislead in the app.
+"""
+import json, pathlib, re, sys
+
+sys.path.insert(0, str(pathlib.Path(__file__).parent))
+from taxonomy import load
+
+_, TAGS = load()
+ID = re.compile(r"[a-z0-9][a-z0-9-]*")
+MEDIA = re.compile(r"(drive:[\w-]{10,}|asset:.+|https://.+)")
+problems = []
+
+def bad(where, msg):
+    problems.append(f"{where}: {msg}")
+
+def check_lesson(lesson, where, strict_tags=True):
+    lid = lesson.get("id", "")
+    where = f"{where} lesson '{lid}'"
+    if not ID.fullmatch(lid):
+        bad(where, "id must be lowercase letters, digits and dashes")
+    if not lesson.get("title"):
+        bad(where, "missing title")
+    image = lesson.get("image")
+    if image and not MEDIA.fullmatch(image):
+        bad(where, f"image '{image}' is not drive:<id>, asset:<path> or https://")
+    tags = lesson.get("tags", [])
+    for t in tags:
+        if t not in TAGS:
+            bad(where, f"unknown tag '{t}' (add it to content/taxonomy.txt first, or fix the spelling)")
+    if strict_tags:
+        topics = [t for t in tags if ":" not in t]
+        if not 1 <= len(topics) <= 2:
+            bad(where, "needs 1 or 2 topic tags")
+        for group, lo, hi in (("d:", 1, 2), ("q:", 1, 1), ("l:", 1, 1)):
+            n = sum(t.startswith(group) for t in tags)
+            if not lo <= n <= hi:
+                bad(where, f"needs {lo}-{hi} '{group}' tag(s), has {n}")
+    tracks = lesson.get("tracks", [])
+    if not tracks:
+        bad(where, "no narration tracks")
+    for track in tracks:
+        kind = track.get("kind")
+        if kind not in ("story", "explanation"):
+            bad(where, f"track kind '{kind}' must be story or explanation")
+        segments = track.get("segments", [])
+        if not segments:
+            bad(where, f"{kind} track has no segments")
+        audio = track.get("audio")
+        if audio and not MEDIA.fullmatch(audio):
+            bad(where, f"audio '{audio}' is not a media reference")
+        last = -1
+        for i, seg in enumerate(segments):
+            if not seg.get("text", "").strip():
+                bad(where, f"{kind} segment {i} has no text")
+            spot = seg.get("spot")
+            if spot and not (0 <= spot.get("x", -1) <= 1 and 0 <= spot.get("y", -1) <= 1 and 0.03 <= spot.get("r", 0.15) <= 0.6):
+                bad(where, f"{kind} segment {i} spot is outside the picture or has a bad radius")
+            if spot and not image:
+                bad(where, f"{kind} segment {i} has a spot but the lesson has no image")
+            if audio:
+                t = seg.get("t")
+                if t is None or t <= last and i > 0:
+                    bad(where, f"{kind} segment {i} needs an increasing start time 't' because the track has audio")
+                last = t if t is not None else last
+    for i, q in enumerate(lesson.get("quiz", [])):
+        options = q.get("options", [])
+        if not q.get("q", "").strip() or len(options) < 2:
+            bad(where, f"question {i} needs a stem and at least two options")
+        if not isinstance(q.get("answer"), int) or not 0 <= q["answer"] < len(options):
+            bad(where, f"question {i} answer index is out of range")
+        if len(set(options)) != len(options):
+            bad(where, f"question {i} has duplicate options")
+
+def check_lessons(lessons, where, strict):
+    seen = set()
+    for lesson in lessons:
+        if lesson.get("id") in seen:
+            bad(where, f"duplicate lesson id '{lesson.get('id')}'")
+        seen.add(lesson.get("id"))
+        check_lesson(lesson, where, strict)
+
+def check_file(path):
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+    except Exception as e:
+        return bad(path.name, f"not valid JSON: {e}")
+    if "chapters" in data:
+        if not ID.fullmatch(data.get("id", "")) or not data.get("title"):
+            bad(path.name, "book needs an id (lowercase, dashes) and a title")
+        strict = data.get("id") != "starter"
+        seen = set()
+        for ch in data["chapters"]:
+            cid = ch.get("id", "")
+            if not ID.fullmatch(cid) or cid in seen:
+                bad(path.name, f"chapter id '{cid}' is invalid or repeated")
+            seen.add(cid)
+            if ch.get("file") and ch.get("lessons"):
+                bad(path.name, f"chapter '{cid}' has both a file and inline lessons")
+            check_lessons(ch.get("lessons", []), f"{path.name} chapter '{cid}'", strict)
+    elif "lessons" in data:
+        check_lessons(data["lessons"], path.name, True)
+    elif "books" in data:
+        for b in data["books"]:
+            if not b.get("id") or not b.get("file"):
+                bad(path.name, "every catalog entry needs id and file")
+    else:
+        bad(path.name, "not a book, chapter or catalog file")
+
+if __name__ == "__main__":
+    if len(sys.argv) < 2:
+        sys.exit(__doc__)
+    files = []
+    for arg in sys.argv[1:]:
+        p = pathlib.Path(arg)
+        files += sorted(p.rglob("*.json")) if p.is_dir() else [p]
+    for f in files:
+        check_file(f)
+    if problems:
+        print("\n".join(problems))
+        sys.exit(f"\n{len(problems)} problem(s) in {len(files)} file(s). Nothing should be published until these are fixed.")
+    print(f"OK: {len(files)} file(s), no problems.")

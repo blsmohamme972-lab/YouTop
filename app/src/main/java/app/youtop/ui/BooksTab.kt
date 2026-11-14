@@ -49,7 +49,7 @@ import androidx.compose.ui.unit.sp
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import app.youtop.MainViewModel
 import app.youtop.R
-import app.youtop.data.Book
+import app.youtop.data.BookInfo
 import app.youtop.data.FeedItem
 import app.youtop.data.flatten
 import app.youtop.study.CardState
@@ -67,7 +67,7 @@ private val CoverTints = listOf(
 
 /** The shelf: every book by its cover. Tapping one opens its chapters and lessons. */
 @Composable
-fun BooksTab(vm: MainViewModel, books: List<Book>, saved: Set<String>, onOpenLesson: (FeedItem) -> Unit) {
+fun BooksTab(vm: MainViewModel, books: List<BookInfo>, saved: Set<String>, onOpenLesson: (FeedItem) -> Unit) {
     var openId by rememberSaveable { mutableStateOf<String?>(null) }
     val progress by vm.progress.collectAsStateWithLifecycle()
     val settings by vm.settings.collectAsStateWithLifecycle()
@@ -125,7 +125,7 @@ fun BooksTab(vm: MainViewModel, books: List<Book>, saved: Set<String>, onOpenLes
 private fun isDue(card: CardState?, now: Long) = card != null && card.phase != Phase.NEW && card.due <= now
 
 @Composable
-private fun BookCover(vm: MainViewModel, book: Book, modifier: Modifier = Modifier, showTitle: Boolean = true) {
+private fun BookCover(vm: MainViewModel, book: BookInfo, modifier: Modifier = Modifier, showTitle: Boolean = true) {
     val tint = CoverTints[abs(book.id.hashCode()) % CoverTints.size]
     Box(modifier.clip(RoundedCornerShape(12.dp)).background(Brush.linearGradient(tint))) {
         val model = remember(book.cover) { vm.media.imageModel(book.cover) }
@@ -143,7 +143,7 @@ private fun BookCover(vm: MainViewModel, book: Book, modifier: Modifier = Modifi
 @Composable
 private fun BookDetail(
     vm: MainViewModel,
-    book: Book,
+    book: BookInfo,
     saved: Set<String>,
     cards: Map<String, CardState>,
     now: Long,

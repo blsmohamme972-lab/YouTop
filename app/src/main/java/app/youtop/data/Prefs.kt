@@ -19,7 +19,7 @@ private val Context.store by preferencesDataStore("youtop")
 data class Settings(
     val driveFolder: String = BuildConfig.DEFAULT_DRIVE_FOLDER,
     val autoSync: Boolean = true,
-    val offlineDownload: Boolean = true,
+    val offlineDownload: Boolean = false,
     val speed: Float = 1f,
     val muted: Boolean = false,
     val lastSync: Long = 0L,
@@ -41,7 +41,7 @@ class Prefs(private val context: Context) {
         Settings(
             driveFolder = p[folder] ?: BuildConfig.DEFAULT_DRIVE_FOLDER,
             autoSync = p[autoSync] ?: true,
-            offlineDownload = p[offline] ?: true,
+            offlineDownload = p[offline] ?: false,
             speed = p[speed] ?: 1f,
             muted = p[muted] ?: false,
             lastSync = p[lastSync] ?: 0L,

@@ -36,6 +36,10 @@ data class StudySettings(
     val shuffleOptions: Boolean = true,
     val speakQuiz: Boolean = false,
     val excludedBooks: Set<String> = emptySet(),
+    /** Tags the feed is limited to (see [Tags.matches]); empty means everything. */
+    val focus: Set<String> = emptySet(),
+    /** Start new lessons from the topics that are going worst. */
+    val weakFirst: Boolean = true,
 ) {
     companion object {
         val Relaxed = StudySettings(newPerDay = 10, dailyGoal = 15)

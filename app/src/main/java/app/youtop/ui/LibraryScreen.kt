@@ -4,6 +4,7 @@ import android.text.format.DateUtils
 import android.text.format.Formatter
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
+import androidx.compose.foundation.horizontalScroll
 import androidx.compose.foundation.gestures.detectTapGestures
 import androidx.compose.ui.input.pointer.pointerInput
 import androidx.compose.foundation.layout.Arrangement
@@ -86,8 +87,8 @@ fun LibraryScreen(vm: MainViewModel, onClose: () -> Unit) {
             Spacer(Modifier.weight(1f))
             GlassButton(Icons.Rounded.Close, stringResource(R.string.close), onClose)
         }
-        Row(Modifier.padding(horizontal = 20.dp, vertical = 12.dp), horizontalArrangement = Arrangement.spacedBy(8.dp)) {
-            listOf(R.string.books, R.string.saved, R.string.study, R.string.sync).forEachIndexed { i, label ->
+        Row(Modifier.horizontalScroll(rememberScrollState()).padding(horizontal = 20.dp, vertical = 12.dp), horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+            listOf(R.string.books, R.string.topics, R.string.saved, R.string.study, R.string.sync).forEachIndexed { i, label ->
                 val selected = tab == i
                 Text(
                     stringResource(label),
@@ -103,7 +104,9 @@ fun LibraryScreen(vm: MainViewModel, onClose: () -> Unit) {
         when (tab) {
             0 -> BooksTab(vm, books, settings.saved, open)
 
-            1 -> {
+            1 -> TopicsTab(vm)
+
+            2 -> {
                 val saved = remember(books, settings.saved) { books.flatten().filter { it.key in settings.saved } }
                 if (saved.isEmpty()) {
                     Text(stringResource(R.string.no_saved), color = Faint, modifier = Modifier.padding(20.dp))
@@ -114,7 +117,7 @@ fun LibraryScreen(vm: MainViewModel, onClose: () -> Unit) {
                 }
             }
 
-            2 -> StudyTab(vm)
+            3 -> StudyTab(vm)
 
             else -> SyncTab(vm)
         }

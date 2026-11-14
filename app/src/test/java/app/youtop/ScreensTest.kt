@@ -114,6 +114,12 @@ class ScreensTest {
         shot("7-library")
         text("YouTop Starter").performClick()
         shot("7b-book")
+        text("Topics").performClick()
+        shot("7c-topics")
+        text("Cardiac surgery").performClick() // focus the feed on cardiac surgery
+        settle { rule.activity.viewModel().settings.value.study.focus == setOf("cardiac") }
+        text("Show all").performClick()
+        settle { rule.activity.viewModel().settings.value.study.focus.isEmpty() }
         text("Study").performClick()
         shot("8-study")
         rule.onNode(hasText("Advanced timing")).performScrollTo().performClick()

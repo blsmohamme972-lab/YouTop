@@ -56,6 +56,7 @@ import kotlinx.coroutines.launch
 import androidx.compose.runtime.derivedStateOf
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.produceState
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.rememberUpdatedState
 import androidx.compose.runtime.saveable.rememberSaveable
@@ -83,10 +84,11 @@ import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import app.youtop.FeedEntry
 import app.youtop.MainViewModel
 import app.youtop.R
-import app.youtop.data.FeedItem
+import app.youtop.data.Lesson
 import app.youtop.data.SyncState
 import app.youtop.data.Track
 import app.youtop.player.NarrationMode
+import app.youtop.study.Tags
 
 private val Speeds = listOf(0.75f, 1f, 1.25f, 1.5f, 2f)
 
@@ -197,7 +199,10 @@ private class ViewLog {
 @Composable
 private fun LessonPage(entry: FeedEntry, active: Boolean, vm: MainViewModel, onNext: () -> Unit) {
     val item = entry.item
-    val lesson = item.lesson
+    val info = item.lesson
+    // The title and picture are known at once; narration and questions are read from disk.
+    val full by produceState<Lesson?>(null, item.key) { value = vm.lesson(item) }
+    val lesson = full ?: Lesson(id = info.id, title = info.title, titleAr = info.titleAr, image = info.image, tags = info.tags)
     val trackIndex = (vm.trackChoice[entry.id] ?: 0).coerceIn(0, (lesson.tracks.size - 1).coerceAtLeast(0))
     val track = lesson.tracks.getOrNull(trackIndex)
     val myKey = "${entry.id}#$trackIndex"
@@ -217,7 +222,8 @@ private fun LessonPage(entry: FeedEntry, active: Boolean, vm: MainViewModel, onN
     val saved = item.key in settings.saved
 
     val study = settings.study
-    val questionFirst = study.questionFirst && lesson.quiz.isNotEmpty()
+    val taxonomy by vm.taxonomy.collectAsStateWithLifecycle()
+    val questionFirst = study.questionFirst && info.questions > 0
     var showQuiz by remember { mutableStateOf(false) }
     // Set once the learner has chosen to watch, so "question first" does not cover the video again.
     var watching by remember { mutableStateOf(false) }
@@ -301,6 +307,15 @@ private fun LessonPage(entry: FeedEntry, active: Boolean, vm: MainViewModel, onN
                 maxLines = 1,
                 overflow = TextOverflow.Ellipsis,
             )
+            val topic = Tags.mainTopic(info.tags)?.let { taxonomy.titles[it] }
+            if (topic != null) {
+                Text(
+                    topic,
+                    color = Color.White.copy(alpha = 0.8f),
+                    style = TextStyle(fontSize = 11.sp, shadow = TextShadow),
+                    maxLines = 1, overflow = TextOverflow.Ellipsis,
+                )
+            }
             if (lesson.tracks.size > 1) {
                 Row(Modifier.clip(CircleShape).background(Glass).padding(3.dp)) {
                     lesson.tracks.forEachIndexed { i, t ->
