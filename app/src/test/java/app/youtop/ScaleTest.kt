@@ -47,7 +47,7 @@ import org.robolectric.annotation.Config
 class ScaleTest {
     private val chapters = 50
     private val perChapter = 110
-    private val topics = listOf("cardiac/valve/aortic/stenosis", "cardiac/coronary/conduits", "thoracic/lung-cancer/staging", "vascular/aorta/aaa/evar")
+    private val topics = listOf("cardiac/aortic-valve", "cardiac/coronary", "thoracic/lung-cancer", "vascular/aorta")
 
     private fun lesson(c: Int, i: Int) = Lesson(
         id = "q$c-$i", title = "Question $c.$i", image = "drive:img-$c-$i",
@@ -123,6 +123,6 @@ class ScaleTest {
         val stats = timed("tag statistics", 500) { Tags.stats(items.map { it.key to it.lesson.tags }, cards, now) }
         assertEquals(items.size, stats.getValue("d:indications").lessons)
         assertTrue(stats.getValue("cardiac").lessons in 1 until items.size)
-        timed("filtering by focus", 150) { items.count { Tags.matches(it.lesson.tags, setOf("cardiac/valve", "l:2")) } }
+        timed("filtering by focus", 150) { items.count { Tags.matches(it.lesson.tags, setOf("cardiac/aortic-valve", "l:2")) } }
     }
 }

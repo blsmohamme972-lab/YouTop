@@ -10,7 +10,7 @@ you swipe through like short videos: a picture, a narrated story (Arabic), an ex
 (English), then a multiple-choice question over the picture. A spaced-repetition scheduler decides
 what comes next. Lessons are made from MCQ books and live in Google Drive, so content changes
 never need a new APK. The library is planned to pass 5,000 questions in cardiac, thoracic and
-vascular surgery, each tagged with a detailed tag system.
+vascular surgery, each tagged from a small tag system (about 55 tags).
 
 The owner is not a programmer and uses a phone. They keep nothing themselves: no key, no
 password, no notes. **Everything you need is in this repository or in their Google Drive, as

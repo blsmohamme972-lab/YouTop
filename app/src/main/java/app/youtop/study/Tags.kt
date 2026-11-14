@@ -1,7 +1,7 @@
 package app.youtop.study
 
 /**
- * Tags are strings. Topic tags are paths ("cardiac/valve/aortic/stenosis"); the other groups
+ * Tags are strings. Topic tags are paths ("cardiac/aortic-valve"); the other groups
  * carry a prefix ("d:indications", "q:vignette", "l:2", "x:high-yield").
  */
 object Tags {

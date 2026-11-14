@@ -24,7 +24,7 @@ Source PDFs are copyrighted books: keep them in **YouTop private/source books**,
       "title": "Aortic stenosis: when to operate",
       "titleAr": "تضيّق الصمام الأبهري: متى نجري الجراحة",
       "image": "drive:<file id>",
-      "tags": ["cardiac/valve/aortic/stenosis", "d:indications", "q:vignette", "l:2", "x:high-yield"],
+      "tags": ["cardiac/aortic-valve", "d:indications", "q:vignette", "l:2", "x:high-yield"],
       "tracks": [
         { "kind": "story", "lang": "ar", "segments": [ { "text": "…", "spot": { "x": 0.4, "y": 0.3, "r": 0.15 } } ] },
         { "kind": "explanation", "lang": "en", "segments": [ … ] }
@@ -53,22 +53,22 @@ How to write it:
 
 ## Tags (required on every lesson)
 
-The system is defined in `content/taxonomy.txt` (396 tags). Every lesson gets:
+The system is defined in `content/taxonomy.txt`. It is small on purpose (about 55 tags: the owner
+asked for no more than 60). Every lesson gets:
 
 | Group | How many | Meaning | Examples |
 |---|---|---|---|
-| topic (no prefix) | 1, at most 2 | What it is about. Pick the **most specific** node that fits. | `cardiac/valve/aortic/stenosis`, `vascular/aorta/aaa/evar` |
+| topic (no prefix) | 1, at most 2 | What it is about: specialty/area. | `cardiac/aortic-valve`, `vascular/aorta` |
 | `d:` | 1, at most 2 | Kind of knowledge tested | `d:indications`, `d:anatomy`, `d:complications` |
 | `q:` | exactly 1 | Style of question | `q:vignette`, `q:recall`, `q:next-step` |
 | `l:` | exactly 1 | Level: 1 core, 2 intermediate, 3 advanced | `l:2` |
-| `x:` | any | Flags | `x:high-yield`, `x:trap`, `x:guideline`, `x:trial`, `x:key-corrected` |
+| `x:` | any | Flags | `x:high-yield`, `x:trap`, `x:guideline`, `x:key-corrected` |
 
 The owner filters the feed by these tags and the app shows results per tag, so wrong or lazy
 tags directly hurt their studying. Tag by what the *question tests*, not by the book chapter it
-happens to sit in. A question about heparin reversal inside a valve chapter is
-`cardiac/cpb/anticoagulation`.
+happens to sit in. A question about heparin reversal inside a valve chapter is `cardiac/cpb`.
 
-Changing the system: add lines to `content/taxonomy.txt`, run `python3 tools/content/taxonomy.py`,
+Changing the system (only if the owner asks; they want it to stay small): edit `content/taxonomy.txt`, run `python3 tools/content/taxonomy.py`,
 commit. **Never rename or delete an id that published lessons use.** The app has the tag system
 built in; to show new tags before the next APK, upload `app/src/main/assets/taxonomy.json` to
 "YouTop books" and put its file id in the next catalog as `"taxonomy": "<id>"`.

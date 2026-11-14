@@ -2,401 +2,62 @@
 # app/src/main/assets/taxonomy.json. Indentation (2 spaces) makes the tree.
 # Line format:   id | English title | Arabic title (optional)
 # A tag is the path of ids joined with "/", with the facet prefix in front of it.
-# NEVER rename or remove an id that lessons already use; add new ones instead.
+# Kept deliberately small (about 55 tags) at the owner's request: do not grow it without asking.
+# NEVER rename or remove an id that lessons already use.
 
 @ topic |  | Topics | المواضيع
 cardiac | Cardiac surgery | جراحة القلب
-  foundations | Foundations
-    anatomy | Surgical anatomy of the heart
-    coronary-anatomy | Coronary anatomy and dominance
-    conduction | Conduction system
-    embryology | Cardiac embryology
-    physiology | Cardiac physiology and haemodynamics
-    pharmacology | Cardiovascular pharmacology
-    echo | Echocardiography
-    cath | Cardiac catheterisation and haemodynamic data
-    ct-mri | Cardiac CT and MRI
-    risk-scores | Risk scores (EuroSCORE, STS)
-  cpb | Cardiopulmonary bypass and perfusion
-    circuit | Circuit, oxygenator and pumps
-    cannulation | Cannulation and venting
-    anticoagulation | Heparin, protamine, ACT and HIT
-    pathophysiology | Inflammatory and organ response to bypass
-    hypothermia | Hypothermia and circulatory arrest
-    cerebral-protection | Cerebral protection and perfusion
-    conduct | Conduct of bypass, flows and pressures
-    weaning | Weaning from bypass
-    complications | Bypass accidents and complications
-  myocardial-protection | Myocardial protection
-    cardioplegia | Cardioplegia solutions and delivery
-    strategies | Non-cardioplegic strategies and ischaemia-reperfusion
-  coronary | Coronary artery disease
-    pathophysiology | Ischaemic heart disease pathophysiology
-    indications | Indications for revascularisation, CABG vs PCI
-    cabg-technique | CABG technique
-    conduits | Conduits: ITA, radial, vein, patency
-    off-pump | Off-pump and minimally invasive CABG
-    redo | Redo coronary surgery
-    post-mi-vsd | Post-infarction VSD
-    free-wall-rupture | Free wall rupture
-    ischaemic-mr | Papillary muscle rupture and ischaemic MR
-    lv-aneurysm | LV aneurysm and ventricular restoration
-    outcomes | Results, graft failure and secondary prevention
-  valve | Valvular heart disease
-    aortic | Aortic valve
-      stenosis | Aortic stenosis
-      regurgitation | Aortic regurgitation
-      bicuspid | Bicuspid aortic valve
-      avr | Surgical aortic valve replacement
-      tavi | TAVI
-      repair | Aortic valve repair
-      small-root | Small aortic root and root enlargement
-      ross | Ross procedure
-    mitral | Mitral valve
-      anatomy | Mitral apparatus anatomy
-      stenosis | Mitral stenosis
-      regurgitation | Mitral regurgitation
-      repair | Mitral valve repair
-      replacement | Mitral valve replacement
-      transcatheter | Transcatheter mitral therapies
-      sam | Systolic anterior motion
-    tricuspid | Tricuspid valve
-    pulmonary | Pulmonary valve
-    multi-valve | Multiple and combined valve surgery
-    prosthesis | Prosthetic valves
-      selection | Choice of prosthesis
-      anticoagulation | Anticoagulation for prostheses
-      mismatch | Patient-prosthesis mismatch
-      thrombosis | Valve thrombosis and pannus
-      leak | Paravalvular leak
-      degeneration | Structural valve degeneration and valve-in-valve
-    endocarditis | Infective endocarditis
-    rheumatic | Rheumatic heart disease
-  aorta | Thoracic aorta (root to arch)
-    anatomy-pathology | Aortic wall, anatomy and pathology
-    genetic | Marfan and heritable aortopathy
-    root | Aortic root aneurysm and replacement
-    valve-sparing | Valve-sparing root replacement
-    ascending | Ascending aortic aneurysm
-    arch | Aortic arch surgery
-    elephant-trunk | Elephant trunk and hybrid arch
-    type-a | Acute type A dissection
-    chronic-dissection | Chronic dissection
-    imh-pau | Intramural haematoma and penetrating ulcer
-    malperfusion | Malperfusion syndromes
+  foundations | Anatomy, physiology and imaging
+  cpb | Bypass and myocardial protection
+  coronary | Coronary disease and CABG
+  aortic-valve | Aortic valve
+  mitral-tricuspid | Mitral and tricuspid valves
+  aorta | Thoracic aorta and dissection
+  congenital | Congenital heart disease
+  heart-failure | Transplant and mechanical support
   arrhythmia | Arrhythmia surgery and devices
-    af-surgery | Surgical ablation of AF (Maze)
-    laa | Left atrial appendage
-    pacing | Pacemakers and temporary pacing
-    icd-crt | ICD and CRT
-    lead-extraction | Lead extraction and device infection
-    ventricular | Ventricular arrhythmia surgery
-  heart-failure | Heart failure surgery
-    transplant | Heart transplantation
-      recipient | Recipient selection
-      donor | Donor selection and preservation
-      technique | Implant technique
-      immunosuppression | Immunosuppression
-      rejection | Rejection and surveillance
-      complications | Vasculopathy, infection, malignancy
-    mcs | Mechanical circulatory support
-      iabp | Intra-aortic balloon pump
-      ecmo | ECMO
-      temporary | Impella and temporary VADs
-      lvad | Durable LVAD
-      tah | Total artificial heart and BiVAD
-    hocm | Hypertrophic cardiomyopathy and myectomy
-    cardiomyopathy | Other cardiomyopathies
-  congenital | Congenital heart surgery
-    basics | Fetal circulation and segmental anatomy
-    asd | Atrial septal defect
-    vsd | Ventricular septal defect
-    avsd | Atrioventricular septal defect
-    pda | Patent ductus arteriosus
-    apvr | Anomalous pulmonary venous return
-    coarctation | Coarctation and interrupted arch
-    lvoto | Left ventricular outflow obstruction
-    rvoto | Pulmonary stenosis and atresia
-    tof | Tetralogy of Fallot
-    tga | Transposition of the great arteries
-    truncus | Truncus arteriosus
-    tricuspid-atresia | Tricuspid atresia
-    ebstein | Ebstein anomaly
-    hlhs | Hypoplastic left heart and Norwood
-    single-ventricle | Glenn and Fontan
-    palliation | Shunts and pulmonary artery banding
-    coronary-anomalies | Coronary artery anomalies
-    vascular-rings | Vascular rings and slings
-    adult | Adult congenital heart disease
-    paediatric-cpb | Paediatric bypass and perioperative care
-  pericardium | Pericardial disease
-    tamponade | Tamponade and effusion
-    constriction | Constrictive pericarditis
-  tumours | Cardiac tumours
-  trauma | Cardiac and great vessel trauma
-    penetrating | Penetrating cardiac injury
-    blunt | Blunt cardiac injury
-    aortic | Traumatic aortic injury
-  pulmonary-vascular | Pulmonary embolism and CTEPH
-    embolectomy | Acute PE and embolectomy
-    endarterectomy | CTEPH and pulmonary endarterectomy
   perioperative | Perioperative and intensive care
-    preoperative | Preoperative assessment and optimisation
-    anaesthesia | Anaesthesia and monitoring
-    low-output | Low cardiac output and inotropes
-    vasoplegia | Vasoplegia
-    bleeding | Bleeding, tamponade and re-exploration
-    blood-management | Blood conservation and transfusion
-    arrhythmia | Postoperative AF and arrhythmias
-    resuscitation | Arrest after cardiac surgery
-    neurological | Stroke and neurological injury
-    renal | Acute kidney injury
-    respiratory | Respiratory failure and ventilation
-    gi | Gastrointestinal complications
-    infection | Mediastinitis and sternal wound
-  approaches | Incisions and access
-    minimally-invasive | Minimally invasive and robotic
-    redo-sternotomy | Redo sternotomy
-  evidence | Trials, guidelines and statistics
+  other | Pericardium, tumours, trauma, embolism
 thoracic | Thoracic surgery | جراحة الصدر
-  foundations | Foundations
-    anatomy | Thoracic surgical anatomy
-    lung-segments | Bronchopulmonary segments
-    lymph-nodes | Lymph node map
-    physiology | Respiratory physiology
-    pulmonary-function | Lung function and fitness for resection
-    imaging | Thoracic imaging and PET
-    bronchoscopy | Bronchoscopy, EBUS and mediastinoscopy
-    anaesthesia | One-lung ventilation and thoracic anaesthesia
+  foundations | Anatomy, physiology and assessment
   lung-cancer | Lung cancer
-    nodule | Solitary nodule and screening
-    pathology | Histology and molecular pathology
-    staging | TNM staging
-    lobectomy | Lobectomy and lymph node dissection
-    sublobar | Segmentectomy and wedge resection
-    pneumonectomy | Pneumonectomy
-    sleeve | Sleeve and extended resections
-    multimodality | Neoadjuvant, adjuvant and stage III
-    small-cell | Small cell lung cancer
-    pancoast | Superior sulcus tumours
-    neuroendocrine | Carcinoid and neuroendocrine tumours
-    metastases | Pulmonary metastasectomy
-    paraneoplastic | Paraneoplastic syndromes
-  lung-benign | Benign lung disease
-    abscess-bronchiectasis | Lung abscess and bronchiectasis
-    tuberculosis | Tuberculosis and its surgery
-    fungal | Aspergilloma and fungal disease
-    hydatid | Hydatid disease
-    emphysema | Emphysema, bullae and volume reduction
-    interstitial | Interstitial lung disease and biopsy
-    congenital | Congenital lung lesions
-    haemoptysis | Massive haemoptysis
-    benign-tumours | Benign lung tumours
-  pleura | Pleural disease
-    pneumothorax | Pneumothorax
-    effusion | Pleural effusion and pleurodesis
-    empyema | Empyema and decortication
-    haemothorax | Haemothorax
-    chylothorax | Chylothorax
-    mesothelioma | Mesothelioma and pleural tumours
-  mediastinum | Mediastinum
-    compartments | Compartments and mass differential
-    thymoma | Thymoma and thymic tumours
-    myasthenia | Myasthenia gravis and thymectomy
-    germ-cell | Germ cell tumours
-    lymphoma | Lymphoma
-    cysts | Mediastinal cysts
-    neurogenic | Neurogenic tumours
-    mediastinitis | Mediastinitis
-    svc | Superior vena cava syndrome
+  lung-benign | Benign lung disease and infection
+  pleura | Pleura
+  mediastinum | Mediastinum and thymus
   airway | Trachea and bronchi
-    stenosis | Tracheal stenosis and resection
-    tumours | Tracheal tumours
-    fistula | Tracheo-oesophageal and tracheo-innominate fistula
-    bronchopleural | Bronchopleural fistula
-    foreign-body | Foreign body
-    tracheostomy | Tracheostomy
-    malacia | Tracheobronchomalacia
-    stents | Airway stents and interventional bronchoscopy
   oesophagus | Oesophagus
-    anatomy-physiology | Anatomy and physiology
-    cancer-staging | Oesophageal cancer and staging
-    oesophagectomy | Oesophagectomy and conduits
-    multimodality | Neoadjuvant and definitive chemoradiation
-    anastomotic-leak | Leak and postoperative complications
-    perforation | Perforation and Boerhaave
-    achalasia | Achalasia and motility disorders
-    reflux | Reflux, Barrett and hiatal hernia
-    diverticula | Diverticula
-    caustic | Caustic injury and strictures
-    benign-tumours | Benign tumours
-    congenital | Oesophageal atresia
-  chest-wall | Chest wall
-    pectus | Pectus deformities
-    tumours | Chest wall tumours
-    reconstruction | Resection and reconstruction
-    rib-fractures | Rib fractures and flail chest
-    infection | Chest wall infection
-  diaphragm | Diaphragm
-    hernia | Congenital and acquired hernia
-    paralysis | Eventration and paralysis
-    injury | Diaphragmatic injury
+  chest-wall | Chest wall and diaphragm
   trauma | Thoracic trauma
-    initial | Initial management and chest drain
-    ed-thoracotomy | Emergency thoracotomy
-    lung | Lung contusion and laceration
-    tracheobronchial | Tracheobronchial injury
-    oesophageal | Oesophageal injury
   transplant | Lung transplantation
-    recipient | Indications and recipient selection
-    donor | Donor, preservation and EVLP
-    technique | Technique
-    complications | Primary graft dysfunction, airway and infection
-    rejection | Rejection and CLAD
-  techniques | Operative approaches
-    thoracotomy | Thoracotomy and incisions
-    vats | VATS
-    robotic | Robotic thoracic surgery
-    chest-drains | Chest drains and drainage systems
-  perioperative | Perioperative care
-    air-leak | Prolonged air leak
-    post-pneumonectomy | Post-pneumonectomy problems
-    arrhythmia | Postoperative AF
-    respiratory | Atelectasis, pneumonia and ARDS
-    pain | Pain control
-    space | Residual space problems
-  sympathetic | Hyperhidrosis and sympathectomy
-  evidence | Trials, guidelines and statistics
 vascular | Vascular surgery | جراحة الأوعية الدموية
-  foundations | Foundations
-    anatomy | Vascular anatomy
-    haemodynamics | Haemodynamics and flow
-    atherosclerosis | Atherosclerosis and vessel wall biology
-    intimal-hyperplasia | Intimal hyperplasia and restenosis
-    risk-factors | Risk factors and best medical therapy
-    coagulation | Coagulation and thrombophilia
-    antithrombotics | Anticoagulants, antiplatelets and thrombolysis
-    vascular-lab | Duplex, ABI and non-invasive tests
-    imaging | CTA, MRA and angiography
-    radiation | Radiation safety and contrast
-    grafts | Grafts, patches and prostheses
-    endovascular-basics | Access, wires, balloons, stents and closure
-  aorta | Aortic disease
-    aaa | Abdominal aortic aneurysm
-      screening | Screening, surveillance and thresholds
-      open | Open repair
-      evar | EVAR
-      rupture | Ruptured AAA
-      endoleak | Endoleak and re-intervention
-      complex | Juxtarenal and fenestrated repair
-      inflammatory | Inflammatory and mycotic aneurysm
-    thoracic | Descending thoracic aneurysm and TEVAR
-    thoracoabdominal | Thoracoabdominal aneurysm
-    type-b | Type B dissection
-    aortoiliac | Aortoiliac occlusive disease
-    graft-infection | Graft infection and aortoenteric fistula
-    spinal-cord | Spinal cord ischaemia
-    iliac | Iliac aneurysm
-    coarctation | Adult coarctation and middle aortic syndrome
-  cerebrovascular | Carotid and cerebrovascular
-    carotid-stenosis | Carotid stenosis: indications and trials
-    endarterectomy | Carotid endarterectomy
-    stenting | Carotid stenting and TCAR
-    complications | Stroke, hyperperfusion and nerve injury
-    vertebrobasilar | Vertebrobasilar disease
-    subclavian | Subclavian steal and arch branches
-    carotid-body | Carotid body tumour
-    dissection | Carotid dissection and aneurysm
-  peripheral | Lower limb arterial disease
-    claudication | Intermittent claudication
-    clti | Chronic limb-threatening ischaemia
-    acute-ischaemia | Acute limb ischaemia
-    bypass | Bypass surgery
-    endovascular | Endovascular intervention
-    femoral | Femoral endarterectomy and profundaplasty
-    popliteal-aneurysm | Popliteal and femoral aneurysm
-    popliteal-entrapment | Entrapment and adventitial cystic disease
-    diabetic-foot | Diabetic foot
-    amputation | Amputation
-    compartment | Compartment syndrome and fasciotomy
-    graft-failure | Graft surveillance and failure
-  upper-limb | Upper limb and thoracic outlet
-    thoracic-outlet | Thoracic outlet syndrome
-    ischaemia | Upper limb ischaemia
-    vasospasm | Raynaud and vasospastic disorders
+  foundations | Anatomy, haemodynamics and medical therapy
+  aorta | Aortic aneurysm and dissection
+  carotid | Carotid and cerebrovascular
+  peripheral | Limb arterial disease
   visceral | Mesenteric and renal
-    acute-mesenteric | Acute mesenteric ischaemia
-    chronic-mesenteric | Chronic mesenteric ischaemia
-    renal | Renal artery stenosis and renovascular hypertension
-    aneurysms | Visceral and renal aneurysms
-    compression | Median arcuate and nutcracker syndromes
-  venous | Venous disease
-    dvt | Deep vein thrombosis
-    pe-filters | Pulmonary embolism and caval filters
-    varicose | Varicose veins and superficial reflux
-    chronic | Chronic venous insufficiency and ulcers
-    iliofemoral | Iliofemoral obstruction and May-Thurner
-    superficial | Superficial thrombophlebitis
-    upper | Upper limb DVT and Paget-Schroetter
-    portal | Portal hypertension
-  lymphatic | Lymphoedema
+  venous | Venous and lymphatic disease
   access | Dialysis access
-    fistula | Arteriovenous fistula
-    graft | Arteriovenous graft
-    catheter | Dialysis catheters
-    complications | Steal, stenosis, thrombosis and aneurysm
+  endovascular | Endovascular technique and devices
   trauma | Vascular trauma
-    principles | Principles, shunts and damage control
-    extremity | Extremity injury
-    neck | Cervical vascular injury
-    torso | Abdominal and caval injury
-    iatrogenic | Iatrogenic injury and pseudoaneurysm
-    reboa | REBOA
-  non-atherosclerotic | Non-atherosclerotic disease
-    vasculitis | Vasculitis (Takayasu, giant cell)
-    buerger | Thromboangiitis obliterans
-    fmd | Fibromuscular dysplasia
-    connective | Connective tissue disorders
-    malformations | Vascular malformations and tumours
-  perioperative | Perioperative care
-    risk | Cardiac risk assessment
-    complications | Systemic and local complications
-    wound | Wound and groin complications
-  evidence | Trials, guidelines and statistics
+  other | Vasculitis, thoracic outlet, rare disease
 
 @ d | d: | Knowledge type | نوع المعرفة
-anatomy | Anatomy
-embryology | Embryology
-physiology | Physiology
+anatomy | Anatomy and embryology
+physiology | Physiology and pathophysiology
 pathology | Pathology
-pathophysiology | Pathophysiology
 pharmacology | Pharmacology
-epidemiology | Epidemiology and risk factors
-presentation | Clinical presentation
-investigation | Investigation and imaging
-classification | Classification and staging
-indications | Indications and decision-making
-medical | Medical management
-operative | Operative technique
-endovascular | Endovascular and transcatheter technique
-perfusion | Perfusion
-anaesthesia | Anaesthesia
+diagnosis | Presentation and investigation
+indications | Indications and decisions
+technique | Operative technique
 postoperative | Postoperative care
 complications | Complications
-emergency | Emergency management
-outcomes | Outcomes and prognosis
-evidence | Trials and guidelines
+evidence | Trials, guidelines and outcomes
 
 @ q | q: | Question style | نوع السؤال
 recall | Direct recall
 vignette | Clinical vignette
 next-step | Next best step
-diagnosis | Most likely diagnosis
-mechanism | Mechanism (why)
 numbers | Numbers and thresholds
-image | Image-based
-calculation | Calculation
-except | Except / not
 
 @ l | l: | Level | المستوى
 1 | Core
@@ -407,5 +68,4 @@ except | Except / not
 high-yield | High yield
 trap | Commonly missed
 guideline | Guideline-based
-trial | Landmark trial
 key-corrected | Answer key corrected

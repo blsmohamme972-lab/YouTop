@@ -54,7 +54,7 @@ data class Lesson(
     val title: String,
     val titleAr: String? = null,
     val image: String? = null,
-    /** Tags from the tag system (content/taxonomy.txt), e.g. "cardiac/valve/aortic/stenosis", "d:indications". */
+    /** Tags from the tag system (content/taxonomy.txt), e.g. "cardiac/aortic-valve", "d:indications". */
     val tags: List<String> = emptyList(),
     val tracks: List<Track> = emptyList(),
     val quiz: List<Question> = emptyList(),
