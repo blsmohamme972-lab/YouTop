@@ -1,6 +1,7 @@
 package app.youtop.study
 
 import android.content.Context
+import android.util.AtomicFile
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.Job
@@ -14,6 +15,8 @@ import kotlinx.serialization.Serializable
 import kotlinx.serialization.encodeToString
 import kotlinx.serialization.json.Json
 import java.io.File
+import java.io.IOException
+import kotlin.concurrent.thread
 import java.util.TimeZone
 
 @Serializable
@@ -32,8 +35,12 @@ data class Progress(
 /** Keeps every lesson's memory state and the daily counters on disk. */
 class ProgressStore(context: Context, private val scope: CoroutineScope) {
     private val file = File(context.filesDir, "progress.json")
+    // Written through AtomicFile: a crash or a dead battery in the middle of a save leaves the
+    // previous file in place instead of an empty one.
+    private val atomic = AtomicFile(file)
     private val json = Json { ignoreUnknownKeys = true }
     private var saveJob: Job? = null
+    private val writeLock = Any()
 
     private val _progress = MutableStateFlow(Progress())
     val progress: StateFlow<Progress> = _progress
@@ -42,10 +49,19 @@ class ProgressStore(context: Context, private val scope: CoroutineScope) {
 
     suspend fun load() {
         val stored = withContext(Dispatchers.IO) {
-            runCatching { json.decodeFromString<Progress>(file.readText()) }.getOrDefault(Progress())
+            val text = runCatching { String(atomic.readFully(), Charsets.UTF_8) }.getOrNull()
+                ?: return@withContext Progress() // nothing saved yet
+            runCatching { json.decodeFromString<Progress>(text) }.getOrElse {
+                // Never throw the learner's history away silently: keep the unreadable file aside.
+                runCatching { File(file.parentFile, "progress.bad-${System.currentTimeMillis()}.json").writeText(text) }
+                Progress()
+            }
         }
         _progress.value = stored.rolledTo(today())
     }
+
+    /** A new day may have begun while the app sat in memory: reset the daily counters. */
+    fun rollDay() = _progress.update { it.rolledTo(today()) }
 
     private fun Progress.rolledTo(today: Long) = if (day == today) this else copy(day = today, doneToday = 0, newToday = 0)
 
@@ -82,12 +98,27 @@ class ProgressStore(context: Context, private val scope: CoroutineScope) {
         saveJob?.cancel()
         saveJob = scope.launch {
             delay(400)
-            val text = json.encodeToString(_progress.value)
-            withContext(Dispatchers.IO) {
-                val tmp = File(file.parentFile, file.name + ".part")
-                tmp.writeText(text)
-                tmp.renameTo(file)
-            }
+            val snapshot = _progress.value
+            withContext(Dispatchers.IO) { write(snapshot) }
+        }
+    }
+
+    /** Writes a pending save at once; called when the app leaves the screen or is closed. */
+    fun flush() {
+        if (saveJob?.isActive != true) return
+        saveJob?.cancel()
+        val snapshot = _progress.value
+        thread { write(snapshot) }
+    }
+
+    private fun write(p: Progress) = synchronized(writeLock) {
+        val bytes = json.encodeToString(p).toByteArray(Charsets.UTF_8)
+        val out = try { atomic.startWrite() } catch (e: IOException) { return@synchronized }
+        try {
+            out.write(bytes)
+            atomic.finishWrite(out)
+        } catch (e: IOException) {
+            atomic.failWrite(out)
         }
     }
 }

@@ -56,9 +56,6 @@ import app.youtop.data.Lesson
 import app.youtop.data.Question
 
 private val SheetColor = Color(0xF214161B)
-private val Good = Color(0xFF4ADE80)
-private val Bad = Color(0xFFF87171)
-private val Faint = Color.White.copy(alpha = 0.6f)
 private val ContentDirection = TextStyle(textDirection = TextDirection.Content)
 
 @OptIn(ExperimentalMaterial3Api::class)

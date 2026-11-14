@@ -71,8 +71,6 @@ import app.youtop.data.SyncState
 import app.youtop.data.flatten
 import coil3.compose.AsyncImage
 
-private val Background = Color(0xFF0E0F13)
-private val Faint = Color.White.copy(alpha = 0.6f)
 
 @Composable
 fun LibraryScreen(vm: MainViewModel, onClose: () -> Unit) {
@@ -81,7 +79,7 @@ fun LibraryScreen(vm: MainViewModel, onClose: () -> Unit) {
     var tab by rememberSaveable { mutableIntStateOf(0) }
     val open: (FeedItem) -> Unit = { vm.jumpTo(it.key); onClose() }
 
-    Column(Modifier.fillMaxSize().background(Background).statusBarsPadding().pointerInput(Unit) { detectTapGestures { } }) {
+    Column(Modifier.fillMaxSize().background(Ink).statusBarsPadding().pointerInput(Unit) { detectTapGestures { } }) {
         Row(Modifier.fillMaxWidth().padding(start = 20.dp, end = 10.dp, top = 8.dp), verticalAlignment = Alignment.CenterVertically) {
             Text("YouTop", color = Color.White, fontSize = 24.sp, fontWeight = FontWeight.Bold)
             Spacer(Modifier.weight(1f))

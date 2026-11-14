@@ -57,7 +57,6 @@ import app.youtop.study.Phase
 import coil3.compose.AsyncImage
 import kotlin.math.abs
 
-private val Faint = Color.White.copy(alpha = 0.6f)
 private val CoverTints = listOf(
     listOf(Color(0xFF5B3DF5), Color(0xFF0FB5BA)),
     listOf(Color(0xFFB5179E), Color(0xFFF77F00)),

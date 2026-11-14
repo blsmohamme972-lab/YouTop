@@ -68,8 +68,6 @@ import androidx.compose.ui.unit.sp
 import app.youtop.R
 import app.youtop.data.Question
 
-private val Good = Color(0xFF4ADE80)
-private val Bad = Color(0xFFF87171)
 
 /** Options such as "all of the above" only make sense in their printed order. */
 private val Positional = Regex(

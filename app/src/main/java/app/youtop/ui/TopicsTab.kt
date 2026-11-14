@@ -46,7 +46,6 @@ import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 import kotlin.math.roundToInt
 
-private val Faint = Color.White.copy(alpha = 0.6f)
 
 private class TagRow(val node: TagNode, val depth: Int, val hasChildren: Boolean)
 

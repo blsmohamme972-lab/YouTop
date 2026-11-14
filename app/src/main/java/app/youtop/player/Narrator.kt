@@ -57,6 +57,8 @@ class Narrator(context: Context, private val scope: CoroutineScope) {
     private var weights = FloatArray(0)      // cumulative share of text before each segment
     private var gen = 0                      // invalidates callbacks from earlier utterances
     private var ticker: Job? = null
+    private var pendingShow: Job? = null     // shows the next sentence if the voice is slow to start
+    private var watchdog: Job? = null        // rescues the lesson if the voice engine never answers
 
     private var player: ExoPlayer? = null
     private var tts: TextToSpeech? = null
@@ -176,7 +178,9 @@ class Narrator(context: Context, private val scope: CoroutineScope) {
         }
     }
 
+    /** Stops a one-off [say]. A narration that is playing is left alone. */
     fun stopSaying() {
+        if (_state.value.playing) return
         pendingSpeak = null
         tts?.stop()
     }
@@ -267,9 +271,14 @@ class Narrator(context: Context, private val scope: CoroutineScope) {
                     ttsReady = true
                     tts?.setOnUtteranceProgressListener(listener)
                     pendingSpeak?.invoke()
-                } else if (_state.value.mode == NarrationMode.TTS) {
-                    _state.update { it.copy(mode = NarrationMode.TEXT) }
-                    if (_state.value.playing) speakFrom(_state.value.segment.coerceAtLeast(0))
+                } else {
+                    // No voice engine right now. Drop it so the next lesson tries afresh, and
+                    // carry this one on as text.
+                    dropEngine()
+                    if (_state.value.mode == NarrationMode.TTS) {
+                        _state.update { it.copy(mode = NarrationMode.TEXT) }
+                        if (_state.value.playing) speakFrom(_state.value.segment.coerceAtLeast(0))
+                    }
                 }
                 pendingSpeak = null
             }
@@ -281,16 +290,41 @@ class Narrator(context: Context, private val scope: CoroutineScope) {
         return result != TextToSpeech.LANG_MISSING_DATA && result != TextToSpeech.LANG_NOT_SUPPORTED
     }
 
-    private fun speakFrom(index: Int) {
+    private fun dropEngine() {
+        runCatching { tts?.shutdown() }
+        tts = null
+        ttsReady = false
+    }
+
+    private fun show(index: Int) {
+        pendingShow?.cancel()
+        if (_state.value.segment != index) _state.update { it.copy(segment = index, progress = weights.getOrElse(index) { 0f }) }
+    }
+
+    /**
+     * Speaks sentence [index] and the ones after it.
+     *
+     * [follow] is true when the voice has just finished the sentence before: the caption and the
+     * spotlight then move when the voice actually starts the new sentence ([listener] onStart),
+     * not when it is requested, so the light never runs ahead of the voice. A jump the learner
+     * asked for (seek, replay, first play) is shown at once.
+     */
+    private fun speakFrom(index: Int, follow: Boolean = false) {
         val t = track ?: return
         ticker?.cancel()
+        pendingShow?.cancel()
+        watchdog?.cancel()
         val myGen = ++gen
         if (index >= t.segments.size) {
             _state.update { it.copy(playing = false, ended = true, progress = 1f) }
             return
         }
-        _state.update { it.copy(segment = index, progress = weights[index]) }
         if (_state.value.mode == NarrationMode.TEXT) return readSilently(index, myGen)
+        if (follow) {
+            pendingShow = scope.launch { delay(900); if (myGen == gen) show(index) }
+        } else {
+            show(index)
+        }
         withTts {
             if (myGen != gen) return@withTts
             val engine = tts ?: return@withTts
@@ -302,12 +336,27 @@ class Narrator(context: Context, private val scope: CoroutineScope) {
             val params = Bundle().apply {
                 putFloat(TextToSpeech.Engine.KEY_PARAM_VOLUME, if (_state.value.muted) 0f else 1f)
             }
-            engine.speak(t.segments[index].text, TextToSpeech.QUEUE_FLUSH, params, "$myGen:$index")
+            val text = t.segments[index].text
+            if (engine.speak(text, TextToSpeech.QUEUE_FLUSH, params, "$myGen:$index") != TextToSpeech.SUCCESS) {
+                // The engine has gone away (updated, killed). Read on as text; the next lesson reconnects.
+                dropEngine()
+                _state.update { it.copy(mode = NarrationMode.TEXT) }
+                return@withTts readSilently(index, myGen)
+            }
+            // If the engine accepts the sentence but never finishes it, do not sit there for ever.
+            watchdog = scope.launch {
+                delay(8_000L + (text.length * 300L / _state.value.speed.coerceAtLeast(0.5f)).toLong())
+                if (myGen == gen && _state.value.playing) {
+                    runCatching { tts?.stop() }
+                    speakFrom(index + 1, follow = true)
+                }
+            }
         }
     }
 
     private fun readSilently(index: Int, myGen: Int) {
         val t = track ?: return
+        show(index)
         val text = t.segments[index].text
         ticker = scope.launch {
             val total = (text.length * 75L).coerceAtLeast(1800L)
@@ -328,7 +377,10 @@ class Narrator(context: Context, private val scope: CoroutineScope) {
     }
 
     private val listener = object : UtteranceProgressListener() {
-        override fun onStart(utteranceId: String?) = Unit
+        override fun onStart(utteranceId: String?) {
+            val (g, i) = parse(utteranceId) ?: return
+            scope.launch(Dispatchers.Main) { if (g == gen) show(i) }
+        }
 
         override fun onRangeStart(utteranceId: String?, start: Int, end: Int, frame: Int) {
             val (g, i) = parse(utteranceId) ?: return
@@ -341,7 +393,7 @@ class Narrator(context: Context, private val scope: CoroutineScope) {
         override fun onDone(utteranceId: String?) {
             val (g, i) = parse(utteranceId) ?: return
             scope.launch(Dispatchers.Main) {
-                if (g == gen && _state.value.playing) speakFrom(i + 1)
+                if (g == gen && _state.value.playing) speakFrom(i + 1, follow = true)
             }
         }
 
@@ -366,6 +418,8 @@ class Narrator(context: Context, private val scope: CoroutineScope) {
     private fun stopSpeech() {
         gen++
         ticker?.cancel()
+        pendingShow?.cancel()
+        watchdog?.cancel()
         pendingSpeak = null
         tts?.stop()
     }

@@ -56,7 +56,6 @@ import app.youtop.study.StudySettings
 import app.youtop.study.Tags
 import kotlin.math.roundToInt
 
-private val Faint = Color.White.copy(alpha = 0.6f)
 
 /** How the feed paces new lessons and reviews. Presets cover most needs; every number can also be set by hand. */
 @Composable
