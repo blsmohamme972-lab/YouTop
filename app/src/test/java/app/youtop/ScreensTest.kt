@@ -8,6 +8,9 @@ import androidx.compose.ui.test.hasText
 import androidx.compose.ui.test.onAllNodesWithText
 import androidx.compose.ui.test.isRoot
 import androidx.compose.ui.test.performClick
+import androidx.compose.ui.test.performScrollTo
+import app.youtop.study.Phase
+import org.junit.Assert.assertEquals
 import androidx.compose.ui.test.performTouchInput
 import androidx.compose.ui.test.swipeUp
 import com.github.takahirom.roborazzi.captureScreenRoboImage
@@ -76,21 +79,37 @@ class ScreensTest {
     fun quiz() {
         openFirstLesson()
         button("Quiz").performClick()
-        rule.waitForIdle()
-        text("In circles").performClick()
         shot("5-quiz")
+        text("In circles").performClick()
+        shot("5b-quiz-answered")
+        // Moving on is what feeds the scheduler: a wrong answer puts the lesson in its first learning step.
+        rule.onAllNodes(isRoot())[0].performTouchInput { swipeUp() }
+        rule.waitForIdle()
+        rule.mainClock.advanceTimeBy(1500)
+        rule.waitForIdle()
+        val vm = rule.activity.viewModel()
+        val card = vm.progress.value.cards.getValue("starter/examples/how-light-travels")
+        assertEquals(Phase.LEARNING, card.phase)
+        assertEquals(1, vm.progress.value.doneToday)
     }
 
     @Test
     fun secondLessonAndLibrary() {
         openFirstLesson()
         rule.onAllNodes(isRoot())[0].performTouchInput { swipeUp() }
-        rule.waitUntil(10_000) { rule.onAllNodesWithText("لماذا نتذكّر القصص؟").fetchSemanticsNodes().isNotEmpty() }
+        rule.waitUntil(10_000) { rule.activity.viewModel().queue.size >= 3 }
         button("Save").performClick()
         shot("6-second-lesson")
         button("Library").performClick()
         shot("7-library")
+        text("YouTop Starter").performClick()
+        shot("7b-book")
+        text("Study").performClick()
+        shot("8-study")
+        rule.onNode(hasText("Advanced timing")).performScrollTo().performClick()
+        rule.onNode(hasText("Longest interval (days)")).performScrollTo()
+        shot("8b-study-advanced")
         text("Sync").performClick()
-        shot("8-sync")
+        shot("9-sync")
     }
 }

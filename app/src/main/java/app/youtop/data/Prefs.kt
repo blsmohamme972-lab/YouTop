@@ -9,6 +9,8 @@ import androidx.datastore.preferences.core.stringPreferencesKey
 import androidx.datastore.preferences.core.stringSetPreferencesKey
 import androidx.datastore.preferences.preferencesDataStore
 import app.youtop.BuildConfig
+import app.youtop.study.StudySettings
+import kotlinx.serialization.encodeToString
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.map
 
@@ -22,6 +24,7 @@ data class Settings(
     val muted: Boolean = false,
     val lastSync: Long = 0L,
     val saved: Set<String> = emptySet(),
+    val study: StudySettings = StudySettings(),
 )
 
 class Prefs(private val context: Context) {
@@ -32,6 +35,7 @@ class Prefs(private val context: Context) {
     private val muted = booleanPreferencesKey("muted")
     private val lastSync = longPreferencesKey("last_sync")
     private val saved = stringSetPreferencesKey("saved")
+    private val study = stringPreferencesKey("study")
 
     val settings: Flow<Settings> = context.store.data.map { p ->
         Settings(
@@ -42,6 +46,7 @@ class Prefs(private val context: Context) {
             muted = p[muted] ?: false,
             lastSync = p[lastSync] ?: 0L,
             saved = p[saved] ?: emptySet(),
+            study = p[study]?.let { runCatching { ContentJson.decodeFromString<StudySettings>(it) }.getOrNull() } ?: StudySettings(),
         )
     }
 
@@ -51,6 +56,7 @@ class Prefs(private val context: Context) {
     suspend fun setSpeed(v: Float) = context.store.edit { it[speed] = v }
     suspend fun setMuted(v: Boolean) = context.store.edit { it[muted] = v }
     suspend fun setLastSync(v: Long) = context.store.edit { it[lastSync] = v }
+    suspend fun setStudy(v: StudySettings) = context.store.edit { it[study] = ContentJson.encodeToString(v) }
     suspend fun toggleSaved(key: String) = context.store.edit {
         val cur = it[saved] ?: emptySet()
         it[saved] = if (key in cur) cur - key else cur + key

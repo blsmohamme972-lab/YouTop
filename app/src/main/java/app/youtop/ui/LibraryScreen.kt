@@ -4,6 +4,8 @@ import android.text.format.DateUtils
 import android.text.format.Formatter
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
+import androidx.compose.foundation.gestures.detectTapGestures
+import androidx.compose.ui.input.pointer.pointerInput
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
@@ -78,14 +80,14 @@ fun LibraryScreen(vm: MainViewModel, onClose: () -> Unit) {
     var tab by rememberSaveable { mutableIntStateOf(0) }
     val open: (FeedItem) -> Unit = { vm.jumpTo(it.key); onClose() }
 
-    Column(Modifier.fillMaxSize().background(Background).statusBarsPadding()) {
+    Column(Modifier.fillMaxSize().background(Background).statusBarsPadding().pointerInput(Unit) { detectTapGestures { } }) {
         Row(Modifier.fillMaxWidth().padding(start = 20.dp, end = 10.dp, top = 8.dp), verticalAlignment = Alignment.CenterVertically) {
             Text("YouTop", color = Color.White, fontSize = 24.sp, fontWeight = FontWeight.Bold)
             Spacer(Modifier.weight(1f))
             GlassButton(Icons.Rounded.Close, stringResource(R.string.close), onClose)
         }
         Row(Modifier.padding(horizontal = 20.dp, vertical = 12.dp), horizontalArrangement = Arrangement.spacedBy(8.dp)) {
-            listOf(R.string.books, R.string.saved, R.string.sync).forEachIndexed { i, label ->
+            listOf(R.string.books, R.string.saved, R.string.study, R.string.sync).forEachIndexed { i, label ->
                 val selected = tab == i
                 Text(
                     stringResource(label),
@@ -99,35 +101,7 @@ fun LibraryScreen(vm: MainViewModel, onClose: () -> Unit) {
             }
         }
         when (tab) {
-            0 -> LazyColumn(contentPadding = PaddingValues(bottom = 32.dp), modifier = Modifier.navigationBarsPadding()) {
-                books.forEach { book ->
-                    item(key = "book:${book.id}") {
-                        Column(Modifier.padding(horizontal = 20.dp).padding(top = 14.dp, bottom = 4.dp)) {
-                            Text(book.title, color = Color.White, fontSize = 19.sp, fontWeight = FontWeight.Bold)
-                            book.titleAr?.let { Text(it, color = Faint, fontSize = 14.sp) }
-                            Text(
-                                stringResource(R.string.lessons_count, book.chapters.sumOf { it.lessons.size }),
-                                color = Faint, fontSize = 12.sp,
-                            )
-                        }
-                    }
-                    book.chapters.forEach { chapter ->
-                        if (book.chapters.size > 1 || chapter.title.isNotBlank()) {
-                            item(key = "chapter:${book.id}/${chapter.id}") {
-                                Text(
-                                    chapter.title.uppercase(),
-                                    color = Accent, fontSize = 11.sp, fontWeight = FontWeight.SemiBold, letterSpacing = 1.sp,
-                                    modifier = Modifier.padding(horizontal = 20.dp).padding(top = 12.dp, bottom = 4.dp),
-                                )
-                            }
-                        }
-                        items(chapter.lessons, key = { "lesson:${book.id}/${chapter.id}/${it.id}" }) { lesson ->
-                            val item = FeedItem(book, chapter, lesson)
-                            LessonRow(vm, item, item.key in settings.saved) { open(item) }
-                        }
-                    }
-                }
-            }
+            0 -> BooksTab(vm, books, settings.saved, open)
 
             1 -> {
                 val saved = remember(books, settings.saved) { books.flatten().filter { it.key in settings.saved } }
@@ -135,34 +109,15 @@ fun LibraryScreen(vm: MainViewModel, onClose: () -> Unit) {
                     Text(stringResource(R.string.no_saved), color = Faint, modifier = Modifier.padding(20.dp))
                 } else {
                     LazyColumn(contentPadding = PaddingValues(bottom = 32.dp), modifier = Modifier.navigationBarsPadding()) {
-                        items(saved, key = { it.key }) { item -> LessonRow(vm, item, true) { open(item) } }
+                        items(saved, key = { it.key }) { item -> LessonRow(vm, item, true, null, 0L) { open(item) } }
                     }
                 }
             }
 
+            2 -> StudyTab(vm)
+
             else -> SyncTab(vm)
         }
-    }
-}
-
-@Composable
-private fun LessonRow(vm: MainViewModel, item: FeedItem, saved: Boolean, onClick: () -> Unit) {
-    Row(
-        Modifier.fillMaxWidth().clickable(onClick = onClick).padding(horizontal = 20.dp, vertical = 8.dp),
-        verticalAlignment = Alignment.CenterVertically,
-    ) {
-        Box(Modifier.size(width = 42.dp, height = 64.dp).clip(RoundedCornerShape(8.dp)).background(Color.White.copy(alpha = 0.08f))) {
-            AsyncImage(
-                model = remember(item.lesson.image) { vm.media.imageModel(item.lesson.image) },
-                contentDescription = null, contentScale = ContentScale.Crop, modifier = Modifier.fillMaxSize(),
-            )
-        }
-        Spacer(Modifier.width(14.dp))
-        Column(Modifier.weight(1f)) {
-            Text(item.lesson.title, color = Color.White, fontSize = 16.sp, fontWeight = FontWeight.Medium, maxLines = 1, overflow = TextOverflow.Ellipsis)
-            item.lesson.titleAr?.let { Text(it, color = Faint, fontSize = 13.sp, maxLines = 1, overflow = TextOverflow.Ellipsis) }
-        }
-        if (saved) Icon(Icons.Rounded.Bookmark, null, tint = Accent, modifier = Modifier.size(18.dp))
     }
 }
 

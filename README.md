@@ -13,6 +13,26 @@ without rebuilding it.
 Needs JDK 17+ and the Android SDK (platform 36). The APK is signed with the prototype key in
 `keystore/`, so every build can be installed over the previous one. Replace it before a store release.
 
+## How the feed chooses lessons
+
+The feed is endless and is planned one lesson ahead by a spaced-repetition scheduler
+(`app/src/main/java/app/youtop/study/Scheduler.kt`, modelled on Anki's SM-2):
+
+- Each lesson plays story → explanation → its question(s) over the picture → next lesson.
+- Nothing is asked about how well a lesson was known. A correct answer counts as "good" (a fast one
+  as "easy"), a wrong answer as "again", watching to the end without answering as "hard", and a
+  quick swipe away as nothing at all.
+- New lessons go through short learning steps (1 and 10 minutes by default), then come back after
+  1 day, then at growing intervals. A mistake brings the lesson back within minutes.
+- Library → Study has pace presets (Relaxed, Standard, Exam mode) and every number behind them.
+
+## Lessons from MCQ books
+
+A lesson is normally built from one question of an MCQ book: the stem and the correct answer decide
+what the picture shows and what the explanation teaches, and the question itself is the lesson's
+quiz, with `source` saying where it is in the book. Where the printed key is plainly wrong the
+lesson uses the right answer and says so in `explain`. The book's own cover goes in `cover`.
+
 ## How content gets into the app
 
 The app reads one Drive folder, **YouTop books**, shared as "Anyone with the link – Viewer".
@@ -40,7 +60,7 @@ files can be deleted afterwards.
 ### book.json
 
     {
-      "id": "starter", "title": "YouTop Starter", "titleAr": "…",
+      "id": "starter", "title": "YouTop Starter", "titleAr": "…", "cover": "drive:<file id>",
       "chapters": [ { "id": "examples", "title": "Examples", "lessons": [ {
         "id": "how-light-travels", "title": "How Light Travels", "titleAr": "كيف يسافر الضوء",
         "image": "drive:<file id>",
@@ -50,7 +70,8 @@ files can be deleted afterwards.
               { "text": "…", "t": 0 },
               { "text": "…", "t": 5200, "spot": { "x": 0.21, "y": 0.15, "r": 0.16 } } ] },
           { "kind": "explanation", "lang": "en", "segments": [ … ] } ],
-        "quiz": [ { "q": "…", "options": ["…", "…"], "answer": 0, "explain": "…", "lang": "en" } ]
+        "quiz": [ { "q": "…", "options": ["…", "…"], "answer": 0, "explain": "…", "lang": "en",
+                    "source": "p. 42, Q17" } ]
       } ] } ]
     }
 

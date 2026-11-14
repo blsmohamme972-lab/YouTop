@@ -17,6 +17,8 @@ data class Book(
     val title: String,
     val titleAr: String? = null,
     val description: String? = null,
+    /** Cover picture (the book's own cover), same reference format as lesson images. */
+    val cover: String? = null,
     val chapters: List<Chapter> = emptyList(),
 )
 
@@ -69,6 +71,8 @@ data class Question(
     val answer: Int,
     val explain: String = "",
     val lang: String = "en",
+    /** Where the question comes from, e.g. "p. 42, Q17". Shown small under the question. */
+    val source: String? = null,
 )
 
 data class FeedItem(val book: Book, val chapter: Chapter, val lesson: Lesson) {
@@ -79,7 +83,7 @@ fun List<Book>.flatten(): List<FeedItem> =
     flatMap { b -> b.chapters.flatMap { c -> c.lessons.map { FeedItem(b, c, it) } } }
 
 fun Book.mediaRefs(): List<String> =
-    chapters.flatMap { c -> c.lessons.flatMap { l -> listOfNotNull(l.image) + l.tracks.mapNotNull { it.audio } } }
+    listOfNotNull(cover) + chapters.flatMap { c -> c.lessons.flatMap { l -> listOfNotNull(l.image) + l.tracks.mapNotNull { it.audio } } }
 
 val ContentJson = Json {
     ignoreUnknownKeys = true
