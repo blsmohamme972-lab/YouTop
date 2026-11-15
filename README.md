@@ -2,8 +2,8 @@
 
 Android app for short, fullscreen lessons: a picture, a narrated Arabic story, an English
 explanation and a quiz. A "camera" moves over the picture and highlights what the narration
-is talking about. Lessons live in a Google Drive folder, so new content appears in the app
-without rebuilding it.
+is talking about. Lessons live on the `content` branch of this repository, so new content
+appears in the app without rebuilding it.
 
 ## Build
 
@@ -44,38 +44,37 @@ weakest topics are listed on top. New lessons are started from the weakest topic
 
 ## How content gets into the app
 
-The app reads one Drive folder, **YouTop books**, shared as "Anyone with the link – Viewer".
-The folder id is set in `gradle.properties` (`youtop.driveFolder`) and can be changed in the app
-under Library → Sync.
+The app reads the `content` branch of this repository through
+`https://raw.githubusercontent.com/blsmohamme972-lab/YouTop/content/` (set in `gradle.properties`,
+`youtop.contentUrl`). Files there refer to each other as `gh:<path>`.
 
-    YouTop books/
-      catalog-7.json            index of all books; the highest number is the one in use
-      <Book name>/
-        book.json               the book and its chapters; small books carry their lessons inline
-        chapters/*.json         big books: about 100 lessons per file, listed in book.json
-        *.webp / *.jpg          lesson pictures (portrait, 9:16 works best)
-        *.mp3 / *.m4a           narration audio (optional)
+    catalog.json                                index of all books, fetched on every sync
+    books/<id>/book-<hash>.json                 the book and its chapters
+    books/<id>/chapters/<name>-<hash>.json      about 100 lessons per file
+    books/<id>/media/                           lesson pictures, question figures, narration audio
 
-On sync the app lists the folder, opens the newest catalog, downloads any book file it has not
-seen and then the pictures and audio, and keeps everything on the device for offline use.
+`<hash>` is the start of the file's SHA-256, so a changed file has a new address. On sync the app
+reads the catalog, downloads any book or chapter file it has not seen and then the pictures and
+audio, and keeps everything on the device for offline use. `tools/content/publish.py` writes the
+branch; `docs/content-guide.md` says how.
 
-Drive cannot change a file's content in place through the tools used here, so an update is always
-a **new file**: upload the new `book.json`, then upload `catalog-<n+1>.json` pointing at it. Old
-files can be deleted afterwards.
+Up to version 1.6 lessons were published in a Google Drive folder ("YouTop books") and referred
+to as `drive:<file id>`. The app still understands that, and reads the Drive folder set under
+Library → Sync when GitHub cannot be reached and it holds no GitHub content yet.
 
-### catalog-N.json
+### catalog.json
 
-    { "books": [ { "id": "starter", "file": "<Drive file id of book.json>" } ] }
+    { "books": [ { "id": "kaplan", "file": "gh:books/kaplan/book-1a2b3c4d.json" } ] }
 
 ### book.json
 
     {
-      "id": "starter", "title": "YouTop Starter", "titleAr": "…", "cover": "drive:<file id>",
+      "id": "starter", "title": "YouTop Starter", "titleAr": "…", "cover": "gh:books/starter/media/cover.webp",
       "chapters": [ { "id": "examples", "title": "Examples", "lessons": [ {
         "id": "how-light-travels", "title": "How Light Travels", "titleAr": "كيف يسافر الضوء",
-        "image": "drive:<file id>",
+        "image": "gh:books/starter/media/light.webp",
         "tracks": [
-          { "kind": "story", "lang": "ar", "audio": "drive:<file id>",
+          { "kind": "story", "lang": "ar", "audio": "gh:books/starter/media/light-story-ar.m4a",
             "segments": [
               { "text": "…", "t": 0 },
               { "text": "…", "t": 5200, "spot": { "x": 0.21, "y": 0.15, "r": 0.16 } } ] },

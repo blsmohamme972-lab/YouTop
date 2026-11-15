@@ -27,14 +27,13 @@
     <string name="question_n">Question %1$d of %2$d</string>
     <string name="no_saved">Lessons you save appear here.</string>
     <string name="no_quiz">No quiz for this lesson yet.</string>
-    <string name="drive_folder">Google Drive folder link</string>
-    <string name="drive_hint">Paste the link of the “YouTop books” folder (shared: anyone with the link).</string>
+    <string name="drive_folder">Spare Google Drive folder</string>
+    <string name="drive_hint">Lessons come from GitHub. This “YouTop books” folder is read only if GitHub cannot be reached.</string>
     <string name="auto_sync">Refresh automatically</string>
     <string name="offline_download">Download lessons for offline use</string>
     <string name="sync_never">Not synced yet</string>
     <string name="sync_last">Last sync: %1$s</string>
     <string name="sync_running">Syncing…</string>
-    <string name="sync_no_folder">Add your Drive folder link first.</string>
     <string name="sync_done">Up to date · %1$d books</string>
     <string name="sync_offline">Offline — showing downloaded lessons.</string>
     <string name="clear_cache">Clear downloaded media</string>

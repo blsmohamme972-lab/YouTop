@@ -8,10 +8,26 @@ import java.io.File
 import java.io.IOException
 
 /**
- * Reads a Google Drive folder that is shared as "anyone with the link".
- * Uses the Drive API when an API key is configured, otherwise the public folder page.
+ * Downloads content. Two kinds of reference are understood:
+ *  - `gh:<path>`: a file on the `content` branch of the GitHub repository, read from [contentBase];
+ *  - `drive:<id>` or a bare Drive file id: a file in a Google Drive folder that is shared as
+ *    "anyone with the link" (the way content was published up to version 1.6).
+ * Drive folders are listed with the Drive API when an API key is configured, otherwise from the
+ * public folder page.
  */
-class DriveClient(private val http: OkHttpClient, private val apiKey: String = "") {
+class DriveClient(
+    private val http: OkHttpClient,
+    private val apiKey: String = "",
+    contentBase: String = "",
+) {
+    private val contentBase = contentBase.trim().let { if (it.isEmpty() || it.endsWith("/")) it else "$it/" }
+
+    /** False when the app was built without a GitHub content address (tests). */
+    val hasGitHub: Boolean get() = contentBase.isNotEmpty()
+
+    /** Where a `gh:`, `drive:` or bare Drive id reference is downloaded from. */
+    fun url(ref: String): String =
+        if (ref.startsWith(GH)) contentBase + ref.removePrefix(GH) else downloadUrl(ref.removePrefix(DRIVE))
 
     data class Entry(val id: String, val name: String, val isFolder: Boolean)
 
@@ -40,16 +56,17 @@ class DriveClient(private val http: OkHttpClient, private val apiKey: String = "
         parseFolderPage(getText("https://drive.google.com/embeddedfolderview?id=$folderId#list"))
 
     /** A JSON file. Drive answers with a web page when a file is not public or is being throttled; that is an error. */
-    fun text(fileId: String): String = getText(downloadUrl(fileId)).also {
-        if (!it.trimStart().startsWith("{")) throw IOException("Drive did not return the file $fileId")
+    fun text(fileId: String): String = getText(url(fileId)).also {
+        if (!it.trimStart().startsWith("{")) throw IOException("Did not get the file $fileId")
     }
 
+    /** [fileId] is any reference [url] understands. */
     fun download(fileId: String, dest: File) {
         // Its own temporary file, so two downloads of one picture can never write into each other.
         val tmp = File.createTempFile(dest.name + ".", ".part", dest.parentFile)
         try {
-            http.newCall(Request.Builder().url(downloadUrl(fileId)).build()).execute().use { res ->
-                if (!res.isSuccessful) throw IOException("Drive returned ${res.code} for $fileId")
+            http.newCall(Request.Builder().url(url(fileId)).build()).execute().use { res ->
+                if (!res.isSuccessful) throw IOException("Server returned ${res.code} for $fileId")
                 if (res.header("Content-Type").orEmpty().startsWith("text/html")) {
                     throw IOException("File $fileId is not shared publicly")
                 }
@@ -64,7 +81,7 @@ class DriveClient(private val http: OkHttpClient, private val apiKey: String = "
 
     private fun getText(url: String): String =
         http.newCall(Request.Builder().url(url).build()).execute().use { res ->
-            if (!res.isSuccessful) throw IOException("Drive returned ${res.code}")
+            if (!res.isSuccessful) throw IOException("Server returned ${res.code}")
             res.body?.string() ?: throw IOException("Empty response")
         }
 
@@ -76,6 +93,12 @@ class DriveClient(private val http: OkHttpClient, private val apiKey: String = "
 
     companion object {
         private const val FOLDER_MIME = "application/vnd.google-apps.folder"
+        const val GH = "gh:"
+        const val DRIVE = "drive:"
+        const val GITHUB_CATALOG = "gh:catalog.json"
+
+        /** True for references that are downloaded and kept on the phone (`gh:` and `drive:`). */
+        fun isRemote(ref: String) = ref.startsWith(GH) || ref.startsWith(DRIVE)
 
         fun downloadUrl(fileId: String) =
             "https://drive.usercontent.google.com/download?id=$fileId&export=download&confirm=t"

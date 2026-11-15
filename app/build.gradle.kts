@@ -15,10 +15,13 @@ android {
         applicationId = "app.youtop"
         minSdk = 26
         targetSdk = 35
-        versionCode = 7
-        versionName = "1.6-prototype"
+        versionCode = 8
+        versionName = "1.7-prototype"
 
-        // Google Drive folder "YouTop books" (shared as "anyone with the link").
+        // Where lessons are published: the `content` branch of this repository (see docs/content-guide.md).
+        buildConfigField("String", "CONTENT_URL", "\"${providers.gradleProperty("youtop.contentUrl").getOrElse("")}\"")
+        // Google Drive folder "YouTop books": where lessons were published up to 1.6, still read
+        // when GitHub cannot be reached and the phone has no GitHub content yet. (shared as "anyone with the link").
         // Can be changed inside the app (Settings) without rebuilding.
         buildConfigField("String", "DEFAULT_DRIVE_FOLDER", "\"${providers.gradleProperty("youtop.driveFolder").getOrElse("")}\"")
         // Optional Drive API key. Without it the app reads the public folder page.

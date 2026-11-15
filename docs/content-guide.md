@@ -6,16 +6,23 @@ The library is planned to pass **5,000 questions** in cardiac, thoracic and vasc
 Everything below is shaped by that size: lessons are published in chapter files of about 100,
 the app loads only a light index, and every lesson is tagged so the owner can study by topic.
 
-## Where things live (Drive account gpmo592@gmail.com)
+## Where things live
 
-| Folder | Shared? | Holds |
+| Place | Who can read it | Holds |
 |---|---|---|
-| **YouTop books** (`1r5301GkHo5hZItw4gSwTUzrBD6HFcHUI`) | Anyone with the link, viewer. The app reads it. | `catalog-<n>.json`, one folder per book with `book.json`, `chapters/*.json`, pictures, audio |
-| **YouTop private** (`1QQ4CyHwy6VjuYfYRobermLpT5BqLQVqb`) | Never | `youtop-signing.txt`, `START-HERE.txt`, `source books/` (the PDFs), `books/<book id>/` (question files, style, quotation log), `status-<n>.txt` |
+| Branch **`content`** of this GitHub repository | Everyone. The app reads it. | `catalog.json`, `books/<book id>/` (book file, chapter files, `media/` with pictures, figures and recorded narration), `work/` (work files of each batch) |
+| Drive folder **YouTop books** (`1r5301GkHo5hZItw4gSwTUzrBD6HFcHUI`, account gpmo592@gmail.com) | Anyone with the link | The owner's original pictures: `<Book name>/images/<question number>.png`. Also the lessons as they were published before version 1.7; the app reads those only when GitHub cannot be reached. |
+| Drive folder **YouTop private** (`1QQ4CyHwy6VjuYfYRobermLpT5BqLQVqb`) | Never shared | `youtop-signing.txt`, `source books/` (the PDFs), `books/<book id>/` (question files, style, quotation log and work files made before 1.7), old `status-<n>.txt` |
 
-Source PDFs are copyrighted books: keep them in **YouTop private/source books**, never in
+**Nothing is uploaded to Drive any more.** Every upload through the Drive connector shows the
+owner an "Allow once" prompt (about thirty for a batch of ten lessons) and that cannot be switched
+off. Reading and downloading from Drive, `curl` on public links and `git push` do not prompt. So
+lessons are published by `git push` to the `content` branch, and Drive is only read. The owner
+knows that this makes the lessons' questions publicly readable and accepted it; do not reopen it.
+
+Source PDFs are copyrighted books: they stay in **YouTop private/source books**, never in
 "YouTop books" and never in the GitHub repository (it is public). If the owner drops a PDF into
-"YouTop books", move it (`update_file` with `parentId`) and tell them.
+"YouTop books", tell them (moving it is a Drive write and will show them a prompt).
 
 ## The pipeline the owner agreed (follow it in this order)
 
@@ -37,10 +44,12 @@ reads the questions from this file, never from the PDF again.
 - Number questions as the book does. If the book restarts numbering in each chapter, number them
   1…N through the whole book in book order and keep the printed number in `printed`.
 
-Where it lives: **YouTop private / books / `<book id>` /** (private: these are the book's
-questions word for word). Create `books` and the book's folder if they do not exist.
+Where it lives: for `shahzad-2015`, all 200 questions are already in **YouTop private / books /
+shahzad-2015 /** in Drive; read them from there. For a new book, keep these files under
+`work/<book id>/` on the `content` branch (put them in the `work/` folder you give
+`publish.py`), since nothing is uploaded to Drive any more. The layout is the same:
 
-    YouTop private/books/<book id>/
+    <book id>/
       book-<n>.txt                 the book's facts and style (see step 2); highest n is current
       mcqs-0001-0100-<n>.json      questions 1 to 100; highest n is current
       mcqs-0101-0200-<n>.json      …one file per 100 questions
@@ -55,16 +64,14 @@ questions word for word). Create `books` and the book's folder if they do not ex
           "options": ["…", "…", "…", "…"],
           "answer": 2,                         // index into options, 0-based, after any correction
           "explanation": "…the book's own explanation, exactly, or empty…",
-          "figure": "drive:<file id>",         // only if the stem needs it
+          "figure": "gh:books/kaplan/media/figure-q0017.png",   // only if the stem needs it
           "corrections": [ { "field": "answer", "was": "B", "now": "C", "why": "…" } ]
         } ]
     }
 
-Reading and writing these files: upload with `disableConversionToGoogleType: true`. To read one
-back exactly, use the Drive connector's **download** tool (base64) — its "read" tool reformats
-text and corrupts JSON. After saving, download the file again and compare it with what you made.
-When step 1 is finished for a book, check the count against the book and write the next
-`status-<n>.txt`.
+Reading the files that are in Drive: use the Drive connector's **download** tool (base64) — its
+"read" tool reformats text and corrupts JSON.
+When step 1 is finished for a book, check the count against the book and update `docs/status.md`.
 
 ### Step 2 — the book's style
 
@@ -78,7 +85,7 @@ owner for the style if they have not given one for this book. Never mix styles b
 Built from the **stem and the correct answer** (plus the book's explanation, or sound general
 knowledge when there is none):
 
-1. **Image prompt** — handed to the owner, who has the pictures made in ChatGPT. Not saved in Drive.
+1. **Image prompt** — handed to the owner, who has the pictures made in ChatGPT.
 2. **Arabic story** — saved in the lesson (step 5). It ends with a real quotation (step 4).
 3. **English explanation** — saved in the lesson.
 
@@ -115,13 +122,15 @@ question's point, and shown on screen while the end of the story is read.
 
 - Use only quotations you can attribute to a specific work, and name the work. Much of what
   circulates online under famous names is misattributed. Never invent or "adapt" a quotation.
-- Vary them: do not repeat a quotation within a chapter. Keep `quotes-<n>.json` (quotation, work,
-  the questions that use it) so later sessions know what has been used.
+- Vary them: do not repeat a quotation within a book. The quotations already used are in the
+  published chapter files themselves (the last story segment of each lesson, with its `quote`);
+  list them from there before choosing new ones.
 - If no genuine quotation fits a question well, say so to the owner rather than forcing one.
 
 ### Step 5 — pictures arrive, camera script, publish
 
-The owner uploads the pictures, named by question number, into the book's pictures folder. Check
+The owner drops the pictures, named by question number, into the book's `images` folder in
+"YouTop books" in Drive (that is the owner's own upload; you only read it). Check
 each picture against its prompt (a picture uploaded under the wrong number would appear on the
 wrong question), then write the camera script and publish, as described below.
 
@@ -145,7 +154,7 @@ question files and quotation log. Nothing is shared between books except the tag
       "id": "kaplan-q0142",                      // never changes once published
       "title": "Aortic stenosis: when to operate",
       "titleAr": "تضيّق الصمام الأبهري: متى نجري الجراحة",
-      "image": "drive:<file id>",
+      "image": "gh:books/kaplan/media/kaplan-q0142.webp",
       "tags": ["cardiac/aortic-valve", "d:indications", "q:vignette", "l:2", "x:high-yield"],
       "tracks": [
         { "kind": "story", "lang": "ar", "segments": [ { "text": "…", "spot": { "x": 0.4, "y": 0.3, "r": 0.15 } } ] },
@@ -197,13 +206,15 @@ first monk sawed off the whole branch: this is a lobectomy"). What they asked fo
 - Write the story after you have **looked at the picture**, not only from its prompt: the story
   must match what the picture really shows.
 
-A worked set is in "YouTop private/books/shahzad-2015/work/stories-v2.py".
+Worked sets are in "YouTop private/books/shahzad-2015/work/" in Drive (read `README-work.txt`
+there); work files of later batches are under `work/` on the `content` branch.
 
 ### A question that needs its figure
 
-When the stem refers to a figure ("the forest plot shown below"), copy the figure from the
-private `figures/` folder into the book's public folder and point to it from the question:
-`"image": "drive:<public file id>"`. The app shows it above the options (tap to enlarge).
+When the stem refers to a figure ("the forest plot shown below"), put the figure in the book's
+`media/` folder as `figure-q<number>.png` and point to it from the question:
+`"image": "gh:books/<book id>/media/figure-q0010.png"`. The app shows it above the options (tap
+to enlarge).
 
 ## Tags (required on every lesson)
 
@@ -224,17 +235,26 @@ happens to sit in. A question about heparin reversal inside a valve chapter is `
 
 Changing the system (only if the owner asks; they want it to stay small): edit `content/taxonomy.txt`, run `python3 tools/content/taxonomy.py`,
 commit. **Never rename or delete an id that published lessons use.** The app has the tag system
-built in; to show new tags before the next APK, upload `app/src/main/assets/taxonomy.json` to
-"YouTop books" and put its file id in the next catalog as `"taxonomy": "<id>"`.
+built in; to show new tags before the next APK, copy `app/src/main/assets/taxonomy.json` to
+`taxonomy.json` at the top of the folder you give `publish.py`.
 
 ## Pictures and spotlight
 
 - Portrait 9:16, one per lesson, clear and uncluttered, showing the things the story and the
   explanation mention, each in its own area so the camera can point at them. No text in the image.
-- The owner has pictures made (by ChatGPT) from the prompts you write and uploads them as
-  `<question number>.png` into the book's `images` folder (about 3 MB each). Shrink each to a
-  1080-pixel-wide WebP (about 300 KB), upload it to the book folder as `<lesson id>.webp`, and
-  point the lesson's `image` at that copy. Leave the owner's originals where they are.
+- The owner has pictures made (by ChatGPT) from the prompts you write and drops them into the
+  book's `images` folder in Drive (about 3 MB each), named by question number, sometimes without
+  ".png". For "Shahzad 2015" that folder is `1Rh8ghw3oe5_5yYzaTvH5iFcpJQTnrRxZ`. List it and
+  download each picture by public link, with no prompt:
+  `curl -sL "https://drive.google.com/embeddedfolderview?id=<folder id>"` shows names and ids,
+  `curl -sL "https://drive.usercontent.google.com/download?id=<file id>&export=download&confirm=t"`
+  gets a file. Shrink each to a 1080-pixel-wide WebP (about 300 KB; Pillow:
+  `im.resize((1080, round(h * 1080 / w)), Image.LANCZOS).save(out, "WEBP", quality=82)`), save it
+  as `media/<lesson id>.webp` and point the lesson's `image` at
+  `gh:books/<book id>/media/<lesson id>.webp`. Leave the owner's originals where they are.
+- A published media file never changes under the same name (the phone keeps what it downloaded
+  under that name, and `publish.py` refuses). A corrected picture gets a new name, for example
+  `shahzad-q0007-b.webp`, and the lesson points at the new name.
 - The app shows the picture whole, never cropped or zoomed (the owner asked for that), with a
   spotlight on the `spot` of the sentence being spoken. Any proportion works; 9:16 fills most.
 - Then **look at every picture** (download it and view it) and set each segment's `spot`: centre
@@ -246,30 +266,47 @@ built in; to show new tags before the next APK, upload `app/src/main/assets/taxo
 
 ## Publishing
 
-The Drive connector creates files; it cannot change their contents. Files are never edited,
-only replaced.
+Lessons are files on the `content` branch of this repository, served to the app from
+`https://raw.githubusercontent.com/blsmohamme972-lab/YouTop/content/<path>`:
 
-1. Write lessons into chapter files of about 100: `{"lessons": [ … ]}`. Work in a scratch folder
-   outside the repository.
-2. `python3 tools/content/validate.py <folder>` until it prints OK. It checks ids, tags, answer
-   indexes, spots and audio timing.
-3. Upload each new or changed chapter file to `<book folder>/chapters/` (always
-   `disableConversionToGoogleType: true`, or JSON becomes a Google Doc). Note the file ids.
-4. Upload a new `book.json` for the book:
+    catalog.json                                  {"books":[{"id":"…","file":"gh:books/<id>/book-<hash>.json"}]}
+    books/<id>/book-<hash>.json                   chapters point at "gh:books/<id>/chapters/<name>-<hash>.json"
+    books/<id>/chapters/<name>-<hash>.json        {"lessons":[ … ]}, about 100 lessons
+    books/<id>/media/…                            <lesson id>.webp, figure-q<n>.png, <lesson id>-story-ar.m4a
+    work/…                                        work files of each batch
 
-       { "id": "kaplan", "title": "…", "cover": "drive:<id>",
-         "chapters": [ { "id": "valves-1", "title": "Valves 1", "file": "<chapter file id>" }, … ] }
+`<hash>` is the first 8 hex digits of the file's SHA-256, so a changed book or chapter has a new
+address; that is how the app notices an update. `catalog.json` keeps its name and the app fetches
+it on every sync. You never write these names yourself: `tools/content/publish.py` does.
 
-   Unchanged chapters keep their old file id; only changed ones get the new id.
-5. Upload `catalog-<n+1>.json` to "YouTop books" listing **every** book:
-   `{ "books": [ { "id": "kaplan", "file": "<book.json id>" }, … ] }` (plus `"taxonomy"` if used).
-6. Check as the app does (these are public links, plain `curl` works):
-   - `https://drive.google.com/embeddedfolderview?id=1r5301GkHo5hZItw4gSwTUzrBD6HFcHUI` lists the new catalog;
-   - `https://drive.usercontent.google.com/download?id=<id>&export=download&confirm=t` returns
-     the JSON for the catalog, the book and one chapter, and a picture for one image.
-7. Trash the files that were replaced (old catalog, old `book.json`, old chapter versions).
-8. Upload `status-<n+1>.txt` to "YouTop private": which book, which questions are done, what is
-   waiting (pictures, audio), anything odd. The next agent starts from the highest-numbered one.
+1. Get what is published now as a plain folder, outside the repository's tracked files:
+
+       python3 tools/content/publish.py --export /some/scratch/folder
+
+   It writes `books/<id>/book.json` (chapters as `"file": "chapters/<name>.json"`) and
+   `books/<id>/chapters/<name>.json`. Media are not copied; published media stay where they are.
+2. Change the chapter files there (add lessons, fix lessons), put **new** pictures and audio in
+   `books/<id>/media/`, and the batch's work files (stories, spots, scripts, image prompts) in
+   `work/<book id>/<batch>/`. A new book is a new `books/<id>/` folder with its `book.json`:
+
+       { "id": "kaplan", "title": "…", "cover": "gh:books/kaplan/media/kaplan-q0001.webp",
+         "chapters": [ { "id": "valves-1", "title": "Valves 1", "file": "chapters/valves-1.json" }, … ] }
+
+3. Publish:
+
+       python3 tools/content/publish.py /some/scratch/folder -m "Shahzad 2015: lessons 21-30"
+
+   It runs `validate.py` (ids, tags, answer indexes, spots, audio timing), refuses if a published
+   lesson would disappear or a media file is missing or would change under the same name, writes
+   the hashed files, removes the versions they replace, rewrites `catalog.json`, commits, pushes
+   to `content`, and then reads everything back from the public address and compares. The public
+   address is cached for about five minutes, so that last check can take that long; the owner's
+   phone sees the change at its next sync after that (it syncs on opening and every 15 minutes).
+4. Update `docs/status.md` on `main`: which book, which questions are done, what is waiting
+   (pictures, audio), anything odd. The next agent starts from it.
+
+The starter book is not in the catalog; it is bundled in the APK. Do not edit the `content`
+branch by hand, and never upload lessons to Drive.
 
 Rules that protect the owner's progress on the phone (stored as `book/chapter/lesson`):
 never change a published book id, chapter id or lesson id, and never move a lesson to another
@@ -278,5 +315,5 @@ chapter. To fix a lesson, publish a new version of its chapter file with the sam
 ## Audio (later)
 
 Not used yet; the phone's own voice reads the text. When a voice model is chosen: synthesise each
-segment separately, join them, upload the file, set the track's `audio` and every segment's `t`
+segment separately, join them, put the file in `media/`, set the track's `audio` and every segment's `t`
 (start in milliseconds). The validator insists on `t` when `audio` is present.

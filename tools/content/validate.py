@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Checks lesson files before they are published to Google Drive.
+"""Checks lesson files before they are published (tools/content/publish.py runs it first).
 
 Usage:  python3 tools/content/validate.py <file-or-folder> [...]
 
@@ -14,7 +14,7 @@ from taxonomy import load
 
 _, TAGS = load()
 ID = re.compile(r"[a-z0-9][a-z0-9-]*")
-MEDIA = re.compile(r"(drive:[\w-]{10,}|asset:.+|https://.+)")
+MEDIA = re.compile(r"(gh:[\w-]+(/[\w.-]+)+|drive:[\w-]{10,}|asset:.+|https://.+)")
 problems = []
 
 def bad(where, msg):
@@ -29,7 +29,7 @@ def check_lesson(lesson, where, strict_tags=True):
         bad(where, "missing title")
     image = lesson.get("image")
     if image and not MEDIA.fullmatch(image):
-        bad(where, f"image '{image}' is not drive:<id>, asset:<path> or https://")
+        bad(where, f"image '{image}' is not gh:<path>, drive:<id>, asset:<path> or https://")
     tags = lesson.get("tags", [])
     for t in tags:
         if t not in TAGS:
@@ -84,7 +84,7 @@ def check_lesson(lesson, where, strict_tags=True):
             bad(where, f"question {i} has duplicate options")
         figure = q.get("image")
         if figure is not None and not (isinstance(figure, str) and MEDIA.fullmatch(figure)):
-            bad(where, f"question {i} image '{figure}' is not drive:<id of the PUBLIC copy>, asset:<path> or https://")
+            bad(where, f"question {i} image '{figure}' is not gh:<path>, drive:<id of the PUBLIC copy>, asset:<path> or https://")
 
 def check_lessons(lessons, where, strict):
     seen = set()

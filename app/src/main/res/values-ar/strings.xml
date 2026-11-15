@@ -26,14 +26,13 @@
     <string name="question_n">السؤال %1$d من %2$d</string>
     <string name="no_saved">الدروس التي تحفظها تظهر هنا.</string>
     <string name="no_quiz">لا يوجد اختبار لهذا الدرس بعد.</string>
-    <string name="drive_folder">رابط مجلد Google Drive</string>
-    <string name="drive_hint">الصق رابط مجلد «YouTop books» (مشاركة: أي شخص لديه الرابط).</string>
+    <string name="drive_folder">مجلد Google Drive الاحتياطي</string>
+    <string name="drive_hint">الدروس تأتي من GitHub. مجلد «YouTop books» هذا يُقرأ فقط إذا تعذّر الوصول إلى GitHub.</string>
     <string name="auto_sync">تحديث تلقائي</string>
     <string name="offline_download">تنزيل الدروس للاستخدام دون إنترنت</string>
     <string name="sync_never">لم تتم المزامنة بعد</string>
     <string name="sync_last">آخر مزامنة: %1$s</string>
     <string name="sync_running">جارٍ المزامنة…</string>
-    <string name="sync_no_folder">أضف رابط مجلد Drive أولًا.</string>
     <string name="sync_done">محدَّث · %1$d كتب</string>
     <string name="sync_offline">لا يوجد اتصال — تُعرض الدروس المنزَّلة.</string>
     <string name="clear_cache">حذف الوسائط المنزَّلة</string>
