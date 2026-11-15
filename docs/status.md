@@ -82,6 +82,10 @@ Updated 2026-11-15. Whoever works on YouTop next: read `CLAUDE.md`, then this, t
   or re-record in two files under 10 MB each (stories 31-35 and 36-40) into "gpt voice"
   (`1uIaYNhk-1X7VlCiJn-KMHMwCPPiw5_Bl`), which the connector can download. First thing to do in
   a new session: list that folder with the connector and try the curl again.
+- Fourth session, 2026-11-15: same result. `curl` to `drive.usercontent.google.com` → "CONNECT
+  tunnel failed, 403"; the connector still refuses the file (over 10 MB); "gpt voice" holds only
+  `story 31 to 40.m4a`. The owner was asked again to either allow the two Drive domains in the
+  environment's Network access or re-record as two files (31-35, 36-40) into "gpt voice".
 - Still no pictures 21-30 in the images folder.
 
 ## What the owner may ask next
