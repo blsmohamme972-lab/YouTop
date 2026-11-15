@@ -33,6 +33,13 @@ Updated 2026-11-15. Whoever works on YouTop next: read `CLAUDE.md`, then this, t
   sentence: it starts right after the previous one). **The timings were not checked by ear; the
   owner has not yet said whether they sound right.** The story text of 31-40 must still not
   change (it is what was recorded); if a picture ever disagrees, ask for a new picture.
+- **Explanation voice for 31-40 requested** (2026-11-15): the owner asked for the English
+  explanations of 31-40 as a reading file for ChatGPT. Sent them
+  `work/shahzad-2015/voice/YouTop-explanations-31-40-for-voice.txt` (on `content`; titles
+  "Explanation thirty-one" …, one sentence per line). From now on **the explanation text of 31-40
+  must not change either.** When the recording arrives: align and cut as for the stories (language
+  `en`), name the files `shahzad-q00NN-explanation-en.m4a`, set the explanation track's `audio` and
+  each segment's `t` (the app plays `audio` on any track: `MainViewModel` → `Narrator.load`).
 - **Lessons 21-30 are published without pictures and without spots.** Image prompts were handed
   to the owner (`work/shahzad-2015/batch03/image-prompts-21-30.json`); no pictures 21-30 had
   arrived by 2026-11-15. The owner chose to do 31-40 first.
