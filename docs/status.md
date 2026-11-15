@@ -23,17 +23,24 @@ Updated 2026-11-15. Whoever works on YouTop next: read `CLAUDE.md`, then this, t
 - Book `shahzad-2015` (200 questions): **lessons 1-20 are published and complete** (Arabic story
   ending in a real Dostoevsky quotation, English explanation, question, tags, picture, spots).
   Chapter id `q0001-0100`, lesson ids `shahzad-q0001` … Never change them.
-- **Lessons 21-40 are published without pictures and without spots** (2026-11-15). The image
-  prompts were handed to the owner in two files (`work/shahzad-2015/batch03/image-prompts-21-30.json`
-  and `batch04/image-prompts-31-40.json` on `content`; everything for each batch is in
-  `batch03.py` / `batch04.py` beside them). **Waiting for the owner's pictures** in the Drive
-  images folder, named 21 … 40 (none had arrived when 31-40 were written). Then: look at each, correct the story
-  where the picture differs, set a spot per sentence, verify with circles, publish again.
-  Figures of questions 22, 23, 24, 29 and 30 are published (`media/figure-q00NN.png`).
+- **Lessons 31-40 are complete except for recorded voice**: pictures (the owner's, looked at one
+  by one) and spots were published on 2026-11-15 (`work/shahzad-2015/batch04/spots-0031-0040.py`
+  on `content`). The owner recorded ChatGPT reading these ten stories BEFORE the pictures
+  existed, so **the story text of 31-40 must not change**; if a picture ever disagrees, ask for a
+  new picture. The recording is `story 31 to 40.m4a` (Drive id `1Hg1_2DkvFuTovD0qb9QCA4fjePBn2DR4`,
+  10.6 MB, in the owner's private folder "gpt voice"): **it could not be fetched** — the folder is
+  not shared, and the Drive connector refuses files over 10 MB. The owner was asked to put it in
+  the public images folder (or any "anyone with the link" place). When it is reachable: align and
+  cut as described under "More recorded voice" below (the reading file is
+  `YouTop-stories-31-40-for-voice.txt`: titles "القصة الحادية والثلاثون" …, one sentence per
+  line, then the quotation and its source).
+- **Lessons 21-30 are published without pictures and without spots.** Image prompts were handed
+  to the owner (`work/shahzad-2015/batch03/image-prompts-21-30.json`); no pictures 21-30 had
+  arrived by 2026-11-15. The owner chose to do 31-40 first.
 - On 2026-11-15 the owner said of lessons 1-20: the stories are not eloquent Arabic and lack
   forceful language, the quotations should be stronger, the pictures should be better. Lessons
   21-30 were written to answer that (see "Style the owner asked for" in `docs/content-guide.md`).
-  **They have not yet said whether 21-40 are what they wanted** (after 21-30 they only said "Next"), and they did not ask for 1-20
+  **They have not said in words whether 21-40 are what they wanted**, but they went on to make the pictures and the recording for 31-40, and they did not ask for 1-20
   to be rewritten. Rewriting the stories of 1-10 would also break their recorded narration.
 - Published on `content`: `catalog.json` → `books/shahzad-2015/book-<hash>.json` →
   `chapters/q0001-0100-<hash>.json`, with 20 pictures, the figure of question 10 and ten story
@@ -53,7 +60,7 @@ Updated 2026-11-15. Whoever works on YouTop next: read `CLAUDE.md`, then this, t
 
 ## What the owner may ask next
 
-- **The pictures of 21-40** (see above), then **questions 41-50** the same way. Per question: an
+- **The recording of 31-40 and the pictures of 21-30** (see above), then **questions 41-50** the same way. Per question: an
   image prompt (one JSON file `{"items":[{"info":"41. …"}]}` handed to the owner), an Arabic
   story, a real Dostoevsky quotation with its work, an English explanation, tags. Publish the
   lessons without pictures first; when the pictures arrive, look at each one, correct the story
