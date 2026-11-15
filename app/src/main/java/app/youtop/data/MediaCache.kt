@@ -14,14 +14,15 @@ import kotlin.concurrent.thread
  * over that limit the learning progress would silently stop being backed up too.
  */
 class MediaCache(context: Context, private val drive: DriveClient) {
-    private val dir = File(context.noBackupFilesDir, "media").apply { mkdirs() }
-    private val locks = ConcurrentHashMap<String, Any>()
-
-    init {
-        // Where pictures were kept up to version 1.5.
+    private val dir = File(context.noBackupFilesDir, "media").also { dir ->
+        // Up to version 1.5 pictures lived in the backed-up files folder. Take them along
+        // (same disk, so this is an instant rename) rather than download everything again.
         val old = File(context.filesDir, "media")
+        if (old.isDirectory && !dir.exists()) old.renameTo(dir)
+        dir.mkdirs()
         if (old.exists()) thread { old.deleteRecursively() }
     }
+    private val locks = ConcurrentHashMap<String, Any>()
 
     private fun driveId(ref: String) = ref.removePrefix("drive:").takeIf { ref.startsWith("drive:") }
 

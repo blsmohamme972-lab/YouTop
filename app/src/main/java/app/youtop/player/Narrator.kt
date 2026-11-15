@@ -57,6 +57,8 @@ class Narrator(context: Context, private val scope: CoroutineScope) {
     private var weights = FloatArray(0)      // cumulative share of text before each segment
     private var gen = 0                      // invalidates callbacks from earlier utterances
     private var ticker: Job? = null
+    private var requested = -1               // the sentence asked of the voice; the screen may still show the one before
+    private var initWatch: Job? = null       // gives up on a voice engine that never becomes ready
     private var pendingShow: Job? = null     // shows the next sentence if the voice is slow to start
     private var watchdog: Job? = null        // rescues the lesson if the voice engine never answers
 
@@ -71,6 +73,7 @@ class Narrator(context: Context, private val scope: CoroutineScope) {
         if (_state.value.key == key) return
         stopOutput()
         this.track = track
+        requested = -1
         val total = track.segments.sumOf { it.text.length }.coerceAtLeast(1)
         var acc = 0
         weights = FloatArray(track.segments.size) { i -> (acc.toFloat() / total).also { acc += track.segments[i].text.length } }
@@ -88,6 +91,7 @@ class Narrator(context: Context, private val scope: CoroutineScope) {
     fun unload() {
         stopOutput()
         track = null
+        requested = -1
         _state.update { NarrationState(speed = it.speed, muted = it.muted) }
     }
 
@@ -100,7 +104,7 @@ class Narrator(context: Context, private val scope: CoroutineScope) {
         _state.update { it.copy(playing = true) }
         when (s.mode) {
             NarrationMode.AUDIO -> { player?.play(); startAudioTicker() }
-            else -> speakFrom(s.segment.coerceAtLeast(0))
+            else -> speakFrom(resumeIndex())
         }
     }
 
@@ -149,6 +153,7 @@ class Narrator(context: Context, private val scope: CoroutineScope) {
                     _state.update { it.copy(ended = false) }
                     speakFrom(i)
                 } else {
+                    requested = i
                     _state.update { it.copy(ended = false, segment = i, progress = weights.getOrElse(i) { 0f }) }
                 }
             }
@@ -158,13 +163,13 @@ class Narrator(context: Context, private val scope: CoroutineScope) {
     fun setSpeed(speed: Float) {
         _state.update { it.copy(speed = speed) }
         player?.setPlaybackSpeed(speed)
-        if (_state.value.playing && _state.value.mode != NarrationMode.AUDIO) speakFrom(_state.value.segment.coerceAtLeast(0))
+        if (_state.value.playing && _state.value.mode != NarrationMode.AUDIO) speakFrom(resumeIndex())
     }
 
     fun setMuted(muted: Boolean) {
         _state.update { it.copy(muted = muted) }
         player?.volume = if (muted) 0f else 1f
-        if (_state.value.playing && _state.value.mode == NarrationMode.TTS) speakFrom(_state.value.segment.coerceAtLeast(0))
+        if (_state.value.playing && _state.value.mode == NarrationMode.TTS) speakFrom(resumeIndex())
     }
 
     /** Reads a one-off text aloud (quiz questions); pauses the narration first. */
@@ -187,6 +192,7 @@ class Narrator(context: Context, private val scope: CoroutineScope) {
 
     fun release() {
         stopOutput()
+        initWatch?.cancel()
         player?.release(); player = null
         tts?.shutdown(); tts = null
     }
@@ -214,7 +220,7 @@ class Narrator(context: Context, private val scope: CoroutineScope) {
                     ticker?.cancel()
                     val wasPlaying = _state.value.playing
                     _state.update { it.copy(mode = NarrationMode.TTS) }
-                    if (wasPlaying) speakFrom(_state.value.segment.coerceAtLeast(0))
+                    if (wasPlaying) speakFrom(resumeIndex())
                 }
             })
             player = created
@@ -261,12 +267,35 @@ class Narrator(context: Context, private val scope: CoroutineScope) {
 
     // ---- device voice ----------------------------------------------------
 
+    /** Where to pick up after a pause or a change of speed: the sentence last asked for, not the one still on screen. */
+    private fun resumeIndex() = (if (requested >= 0) requested else _state.value.segment).coerceAtLeast(0)
+
+    /** The voice is not there: carry the current track on as text. */
+    private fun fallBackToText() {
+        if (_state.value.mode != NarrationMode.TTS) return
+        _state.update { it.copy(mode = NarrationMode.TEXT) }
+        if (_state.value.playing) speakFrom(resumeIndex())
+    }
+
     private fun withTts(block: () -> Unit) {
         if (ttsReady) return block()
         pendingSpeak = block
         if (tts != null) return
-        tts = TextToSpeech(appContext) { status ->
+        // An engine that is being updated can leave the connection hanging with no answer at all.
+        initWatch?.cancel()
+        initWatch = scope.launch {
+            delay(6_000)
+            if (!ttsReady) {
+                dropEngine()
+                pendingSpeak = null
+                fallBackToText()
+            }
+        }
+        var created: TextToSpeech? = null
+        created = TextToSpeech(appContext) { status ->
             scope.launch(Dispatchers.Main) {
+                if (tts !== created) return@launch // given up on and replaced meanwhile
+                initWatch?.cancel()
                 if (status == TextToSpeech.SUCCESS) {
                     ttsReady = true
                     tts?.setOnUtteranceProgressListener(listener)
@@ -275,14 +304,12 @@ class Narrator(context: Context, private val scope: CoroutineScope) {
                     // No voice engine right now. Drop it so the next lesson tries afresh, and
                     // carry this one on as text.
                     dropEngine()
-                    if (_state.value.mode == NarrationMode.TTS) {
-                        _state.update { it.copy(mode = NarrationMode.TEXT) }
-                        if (_state.value.playing) speakFrom(_state.value.segment.coerceAtLeast(0))
-                    }
+                    fallBackToText()
                 }
                 pendingSpeak = null
             }
         }
+        tts = created
     }
 
     private fun setLanguage(engine: TextToSpeech, lang: String): Boolean {
@@ -319,6 +346,7 @@ class Narrator(context: Context, private val scope: CoroutineScope) {
             _state.update { it.copy(playing = false, ended = true, progress = 1f) }
             return
         }
+        requested = index
         if (_state.value.mode == NarrationMode.TEXT) return readSilently(index, myGen)
         if (follow) {
             pendingShow = scope.launch { delay(900); if (myGen == gen) show(index) }

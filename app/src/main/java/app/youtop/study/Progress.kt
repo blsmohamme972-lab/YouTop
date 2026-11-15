@@ -15,6 +15,7 @@ import kotlinx.serialization.Serializable
 import kotlinx.serialization.encodeToString
 import kotlinx.serialization.json.Json
 import java.io.File
+import java.io.FileNotFoundException
 import java.io.IOException
 import java.util.TimeZone
 
@@ -48,15 +49,28 @@ class ProgressStore(context: Context, private val scope: CoroutineScope) {
 
     suspend fun load() {
         val stored = withContext(Dispatchers.IO) {
-            val text = runCatching { String(atomic.readFully(), Charsets.UTF_8) }.getOrNull()
-                ?: return@withContext Progress() // nothing saved yet
+            val text = try {
+                String(atomic.readFully(), Charsets.UTF_8)
+            } catch (e: FileNotFoundException) {
+                return@withContext Progress() // nothing saved yet
+            } catch (e: IOException) {
+                keepAside()
+                return@withContext Progress()
+            }
             runCatching { json.decodeFromString<Progress>(text) }.getOrElse {
-                // Never throw the learner's history away silently: keep the unreadable file aside.
-                runCatching { File(file.parentFile, "progress.bad-${System.currentTimeMillis()}.json").writeText(text) }
+                keepAside()
                 Progress()
             }
         }
         _progress.value = stored.rolledTo(today())
+    }
+
+    /**
+     * The saved history could not be read. The next rating will overwrite it, so put a copy next
+     * to it first (one file, replaced each time, so it cannot pile up): never lose it silently.
+     */
+    private fun keepAside() {
+        runCatching { if (file.exists()) file.copyTo(File(file.parentFile, "progress.unreadable.json"), overwrite = true) }
     }
 
     /** A new day may have begun while the app sat in memory: reset the daily counters. */

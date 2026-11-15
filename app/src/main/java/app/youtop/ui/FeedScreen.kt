@@ -285,13 +285,10 @@ private fun LessonPage(entry: FeedEntry, active: Boolean, vm: MainViewModel, onN
     val context = LocalContext.current
 
     // Back closes an open question instead of leaving the app.
-    BackHandler(enabled = active && showQuiz) { vm.narrator.stopSaying(); showQuiz = false }
+    BackHandler(enabled = active && showQuiz && !vm.covered) { vm.narrator.stopSaying(); showQuiz = false }
 
     // The picture is downloaded once into the app's own store and shown from there.
-    val stored = remember(lesson.image) { vm.media.cachedOrNull(lesson.image) }
-    val picture by produceState(stored, lesson.image) {
-        value = vm.media.cachedOrNull(lesson.image) ?: vm.media.localImage(lesson.image)
-    }
+    val picture = rememberLocalImage(vm.media, lesson.image)
 
     Box(Modifier.fillMaxSize()) {
         SpotlightImage(

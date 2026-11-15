@@ -103,7 +103,11 @@ class MainViewModel(app: Application) : AndroidViewModel(app) {
             // Rebuild what lies ahead whenever the books or the set of books in the feed change.
             launch { repo.books.collect { lessons = it.flatten(); replan() } }
             // A changed pace or "when nothing is due" may allow another lesson right away.
-            launch { settings.map { it.study }.distinctUntilChanged().collect { if (queue.isNotEmpty()) extendQueue(currentIndex) } }
+            // (Books and topics are handled by the collector below, which rebuilds the pool first.)
+            launch {
+                settings.map { it.study.copy(excludedBooks = emptySet(), focus = emptySet()) }.distinctUntilChanged()
+                    .collect { extendQueue(if (queue.isEmpty()) -1 else currentIndex) }
+            }
             launch { prefs.settings.map { it.study.excludedBooks to it.study.focus }.distinctUntilChanged().collect { settings.first { s -> s.study.focus == it.second && s.study.excludedBooks == it.first }; replan() } }
         }
     }

@@ -17,6 +17,8 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.produceState
+import app.youtop.data.MediaCache
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.rememberUpdatedState
 import androidx.compose.runtime.setValue
@@ -110,6 +112,17 @@ fun SeekBar(progress: () -> Float, onSeek: (Float) -> Unit, modifier: Modifier =
             center = Offset(if (rtl) size.width - filled else filled, size.height / 2f),
         )
     }
+}
+
+/**
+ * A picture from the app's own store: shown at once when already downloaded, otherwise downloaded
+ * once (see [MediaCache.localImage]) and then shown. Null while it is on its way.
+ */
+@Composable
+fun rememberLocalImage(media: MediaCache, ref: String?): Any? {
+    val stored = remember(ref) { media.cachedOrNull(ref) }
+    val model by produceState(stored, ref) { value = media.cachedOrNull(ref) ?: media.localImage(ref) }
+    return model
 }
 
 fun isRtl(lang: String) = lang.startsWith("ar") || lang.startsWith("fa") || lang.startsWith("ur") || lang.startsWith("he")

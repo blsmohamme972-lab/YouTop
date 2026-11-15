@@ -68,7 +68,6 @@ import androidx.compose.ui.unit.sp
 import app.youtop.R
 import androidx.compose.foundation.interaction.DragInteraction
 import androidx.compose.foundation.layout.heightIn
-import androidx.compose.runtime.produceState
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.window.Dialog
 import androidx.compose.ui.window.DialogProperties
@@ -92,6 +91,8 @@ fun optionOrder(question: Question, shuffle: Boolean): List<Int> =
 class QuizState {
     var index by mutableIntStateOf(0)
     var picked by mutableStateOf<Int?>(null)
+    /** The learner asked for time (tapped, scrolled, opened the figure): no automatic move to the next lesson. */
+    var hold by mutableStateOf(false)
     /** True once the last question has been answered. */
     var done by mutableStateOf(false)
     /** The shuffled order each question was first shown in, so it does not change when reopened. */
@@ -122,7 +123,7 @@ fun QuizOverlay(
     var index by state::index
     var picked by state::picked
     var shownAt by remember { mutableLongStateOf(System.currentTimeMillis()) }
-    var hold by remember { mutableStateOf(false) }
+    var hold by state::hold
     val question = questions[index.coerceIn(0, questions.lastIndex)]
     val order = remember(index) { state.orders.getOrPut(index) { optionOrder(question, shuffle) } }
     val last = index == questions.lastIndex
@@ -131,6 +132,7 @@ fun QuizOverlay(
     val direction = if (isRtl(question.lang)) TextDirection.Rtl else TextDirection.Ltr
 
     LaunchedEffect(index) {
+        if (picked == null) scroll.scrollTo(0) // a new question starts at its stem, not where the last one was left
         shownAt = System.currentTimeMillis()
         if (speak && picked == null) onSay(question.q + ". " + order.joinToString(". ") { question.options[it] }, question.lang)
     }
@@ -210,7 +212,7 @@ fun QuizOverlay(
             )
             // The figure the stem refers to, on white as in the book. Tap to see it large.
             question.image?.let { ref ->
-                val figure by produceState(media.cachedOrNull(ref), ref) { value = media.cachedOrNull(ref) ?: media.localImage(ref) }
+                val figure = rememberLocalImage(media, ref)
                 var large by remember(ref) { mutableStateOf(false) }
                 AsyncImage(
                     model = figure,
