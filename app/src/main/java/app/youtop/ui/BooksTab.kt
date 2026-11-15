@@ -212,7 +212,7 @@ fun LessonRow(vm: MainViewModel, item: FeedItem, saved: Boolean, card: CardState
     ) {
         Box(Modifier.size(width = 42.dp, height = 64.dp).clip(RoundedCornerShape(8.dp)).background(Color.White.copy(alpha = 0.08f))) {
             AsyncImage(
-                // A row never downloads the full picture: the stored one, or Drive's small thumbnail.
+                // The stored picture when there is one (see MediaCache.thumbModel).
                 model = remember(item.lesson.image) { vm.media.thumbModel(item.lesson.image) },
                 contentDescription = null, contentScale = ContentScale.Crop, modifier = Modifier.fillMaxSize(),
             )

@@ -164,7 +164,7 @@ private fun SyncTab(vm: MainViewModel) {
                 focus.clearFocus()
                 vm.setDriveFolder(link).invokeOnCompletion { vm.syncNow() }
             },
-            enabled = !running && link.isNotBlank(),
+            enabled = !running,
             colors = ButtonDefaults.buttonColors(
                 containerColor = Accent, contentColor = OnAccent,
                 disabledContainerColor = Color.White.copy(alpha = 0.2f), disabledContentColor = Color.White.copy(alpha = 0.6f),
@@ -187,7 +187,6 @@ private fun SyncTab(vm: MainViewModel) {
                 is SyncState.Failed ->
                     if (s.offline) stringResource(R.string.sync_offline) + "\n" + s.message else s.message
                 SyncState.Idle -> when {
-                    link.isBlank() -> stringResource(R.string.sync_no_folder)
                     settings.lastSync == 0L -> stringResource(R.string.sync_never)
                     else -> stringResource(R.string.sync_last, DateUtils.getRelativeTimeSpanString(settings.lastSync).toString())
                 }

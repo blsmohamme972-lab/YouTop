@@ -46,7 +46,7 @@ class MainViewModel(app: Application) : AndroidViewModel(app) {
         .connectTimeout(15, TimeUnit.SECONDS)
         .readTimeout(30, TimeUnit.SECONDS)
         .build()
-    private val drive = DriveClient(http, BuildConfig.DRIVE_API_KEY)
+    private val drive = DriveClient(http, BuildConfig.DRIVE_API_KEY, BuildConfig.CONTENT_URL)
     private val prefs = Prefs(app)
     private val store = ProgressStore(app, viewModelScope)
 
@@ -278,21 +278,21 @@ class MainViewModel(app: Application) : AndroidViewModel(app) {
 
     fun syncNow() = viewModelScope.launch {
         val s = prefs.settings.first() // not settings.value: a link pasted a moment ago may not have reached it yet
-        val folder = DriveClient.parseFolderId(s.driveFolder) ?: return@launch
-        if (repo.sync(folder, s.offlineDownload)) prefs.setLastSync(System.currentTimeMillis())
+        // Lessons come from GitHub; the Drive folder is only the way back when GitHub cannot be read.
+        if (repo.sync(DriveClient.parseFolderId(s.driveFolder), s.offlineDownload)) prefs.setLastSync(System.currentTimeMillis())
     }
 
     /** Called while the app is in the foreground: refreshes on open and then periodically. */
     fun startAutoSync() {
         autoSyncJob?.cancel()
-        // Screen tests must not depend on what is published in Drive today.
+        // Screen tests must not depend on what is published today, or on the network.
         if (android.os.Build.FINGERPRINT == "robolectric") return
         autoSyncJob = viewModelScope.launch {
             while (true) {
                 val s = prefs.settings.first()
                 val now = System.currentTimeMillis()
                 val due = now - maxOf(s.lastSync, lastAutoAttempt) > AUTO_SYNC_INTERVAL_MS
-                if (s.autoSync && due && DriveClient.parseFolderId(s.driveFolder) != null) {
+                if (s.autoSync && due) {
                     lastAutoAttempt = now
                     syncNow().join()
                 }

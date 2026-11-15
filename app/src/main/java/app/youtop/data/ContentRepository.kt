@@ -21,7 +21,8 @@ sealed interface SyncState {
 
 /**
  * Lessons come from two places: the starter book bundled in the APK and the books last synced
- * from Google Drive (kept on disk so they work offline).
+ * from the GitHub `content` branch, or from the Google Drive folder when GitHub cannot be read
+ * (kept on disk so they work offline).
  *
  * Only a light index of all lessons is held in memory ([books]); the text of a lesson is read
  * from its chapter file on demand ([lesson]), so thousands of lessons stay cheap.
@@ -76,7 +77,7 @@ class ContentRepository(
 
     private fun stored(fileId: String) = File(filesDir, fileId.replace(Regex("[^\\w-]"), "_") + ".json")
 
-    /** Downloads a Drive JSON file unless it is already stored, and returns its text. */
+    /** Downloads a JSON file (`gh:<path>` or a Drive file id) unless it is already stored, and returns its text. */
     private fun fetch(fileId: String): String {
         val f = stored(fileId)
         if (f.exists()) {
@@ -115,14 +116,37 @@ class ContentRepository(
 
     // ---- sync ----------------------------------------------------------------
 
-    /** Returns true when the sync finished. Safe to call concurrently; a second call waits for the first. */
-    suspend fun sync(folderId: String, downloadMedia: Boolean): Boolean = mutex.withLock {
+    /**
+     * The catalog on GitHub; when it cannot be read, the newest catalog in the Drive folder.
+     * Once the phone holds GitHub content it never goes back to Drive: a short GitHub outage
+     * would otherwise swap every lesson for its old Drive copy and download all pictures again.
+     */
+    private fun catalog(folderId: String?): Catalog {
+        if (drive.hasGitHub) {
+            try {
+                return ContentJson.decodeFromString<Catalog>(drive.text(DriveClient.GITHUB_CATALOG))
+            } catch (e: CancellationException) {
+                throw e
+            } catch (e: Exception) {
+                val onGitHub = _books.value.any { b -> b.chapters.any { DriveClient.GH in it.source } }
+                if (folderId == null || onGitHub) throw e
+            }
+        }
+        if (folderId == null) throw IllegalStateException("No Drive folder to read")
+        val entry = DriveClient.pickCatalog(drive.list(folderId))
+            ?: throw IllegalStateException("No catalog file in the Drive folder yet")
+        return ContentJson.decodeFromString<Catalog>(drive.text(entry.id))
+    }
+
+    /**
+     * [folderId] is the Drive folder used when GitHub cannot be read; null for none.
+     * Returns true when the sync finished. Safe to call concurrently; a second call waits for the first.
+     */
+    suspend fun sync(folderId: String?, downloadMedia: Boolean): Boolean = mutex.withLock {
         withContext(Dispatchers.IO) {
             _sync.value = SyncState.Running()
             try {
-                val catalogEntry = DriveClient.pickCatalog(drive.list(folderId))
-                    ?: throw IllegalStateException("No catalog file in the Drive folder yet")
-                val catalog = ContentJson.decodeFromString<Catalog>(drive.text(catalogEntry.id))
+                val catalog = catalog(folderId)
 
                 val used = HashSet<String>()
                 val parsed = catalog.books.map { ref ->

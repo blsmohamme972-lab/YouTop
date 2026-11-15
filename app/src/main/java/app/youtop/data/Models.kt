@@ -3,17 +3,23 @@ package app.youtop.data
 import kotlinx.serialization.Serializable
 import kotlinx.serialization.json.Json
 
-// ---- Files in Google Drive ---------------------------------------------------
+// ---- Published files (GitHub `content` branch, or Google Drive before 1.7) ----
 
-/** Index file in the root of the Drive folder: `catalog-<number>.json`. Highest number wins. */
+/**
+ * Index of all books: `catalog.json` on GitHub, or `catalog-<number>.json` in the root of the
+ * Drive folder (highest number wins).
+ */
 @Serializable
 data class Catalog(
     val books: List<BookRef> = emptyList(),
-    /** Drive file id of the tag system (taxonomy.json); the copy built into the app is used without it. */
+    /** `gh:<path>` or Drive file id of the tag system (taxonomy.json); the copy built into the app is used without it. */
     val taxonomy: String? = null,
 )
 
-/** [file] is the Drive file id of the book's JSON. A new upload has a new id, which is how updates are detected. */
+/**
+ * [file] is `gh:<path>` (the path carries a hash of the content) or the Drive file id of the
+ * book's JSON. A changed book has a new path or id, which is how updates are detected.
+ */
 @Serializable
 data class BookRef(val id: String, val file: String)
 
@@ -30,7 +36,7 @@ data class Book(
 
 /**
  * A chapter either carries its lessons inline, or (for big books) points with [file] at a
- * separate Drive file holding a [ChapterFile], so one changed chapter does not re-send the book.
+ * separate file (`gh:<path>` or a Drive file id) holding a [ChapterFile], so one changed chapter does not re-send the book.
  */
 @Serializable
 data class Chapter(
@@ -46,7 +52,8 @@ data class ChapterFile(val lessons: List<Lesson> = emptyList())
 
 /**
  * One fullscreen "short".
- * Media references ([image], [Track.audio]) are `drive:<fileId>`, `asset:<path>` or an https URL.
+ * Media references ([image], [Track.audio]) are `gh:<path>`, `drive:<fileId>`,
+ * `asset:<path>` or an https URL.
  */
 @Serializable
 data class Lesson(

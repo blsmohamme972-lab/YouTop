@@ -8,13 +8,13 @@ Read this first. It is written for an agent (or person) with no prior knowledge 
 A personal Android app owned by one person, used on their own phone. It shows fullscreen lessons
 you swipe through like short videos: a picture, a narrated story (Arabic), an explanation
 (English), then a multiple-choice question over the picture. A spaced-repetition scheduler decides
-what comes next. Lessons are made from MCQ books and live in Google Drive, so content changes
-never need a new APK. The library is planned to pass 5,000 questions in cardiac, thoracic and
+what comes next. Lessons are made from MCQ books and live on the `content` branch of this
+repository, so content changes never need a new APK. The library is planned to pass 5,000 questions in cardiac, thoracic and
 vascular surgery, each tagged from a small tag system (about 55 tags).
 
 The owner is not a programmer and uses a phone. They keep nothing themselves: no key, no
 password, no notes. **Everything you need is in this repository or in their Google Drive, as
-listed below. Do not ask them for keys, secrets or files; find them there.** Explain things
+listed below. Start with `docs/status.md`: it says where the work stands. Do not ask them for keys, secrets or files; find them there.** Explain things
 plainly, send them the APK file itself, and never ask them to run commands.
 
 ## Where everything is
@@ -22,9 +22,11 @@ plainly, send them the APK file itself, and never ask them to run commands.
 | What | Where |
 |---|---|
 | Code | GitHub `blsmohamme972-lab/YouTop` (public), branch `main`. Do new work on a branch, then merge it into `main` (pull request) so `main` always holds what the owner's phone runs. |
-| Lesson content | Google Drive account `gpmo592@gmail.com`, folder **YouTop books**, id `1r5301GkHo5hZItw4gSwTUzrBD6HFcHUI`. Shared as "anyone with the link – viewer" on purpose: the app reads it without signing in. |
+| Lesson content | Branch **`content`** of this repository (no app code on it). The app reads it from `https://raw.githubusercontent.com/blsmohamme972-lab/YouTop/content/`. Written only by `tools/content/publish.py`. The owner has given permission to push to `content`. |
+| The owner's pictures | Google Drive account `gpmo592@gmail.com`, folder **YouTop books**, id `1r5301GkHo5hZItw4gSwTUzrBD6HFcHUI`, `<Book name>/images`. Shared as "anyone with the link – viewer", so it is read with plain `curl`. It also still holds the lessons as published before 1.7; the app reads them only if GitHub cannot be reached. |
 | Signing key | Same Drive account, folder **YouTop private**, id `1QQ4CyHwy6VjuYfYRobermLpT5BqLQVqb`, file `youtop-signing.txt` (id `16CYev5pmNzRKGAaLNilaSkfXNq1bFvpL`). Private. Read it with the Google Drive connector. |
-| Source PDFs, work status | **YouTop private/source books** and the highest-numbered `status-<n>.txt` in YouTop private. |
+| Work status | `docs/status.md` (the old `status-<n>.txt` files in YouTop private stop at 7). |
+| Source PDFs, question files | **YouTop private/source books** and **YouTop private/books/`<book id>`**. Read-only now. |
 | Tag system | `content/taxonomy.txt` in this repository. |
 | How to make lessons | `docs/content-guide.md`. |
 
@@ -34,11 +36,18 @@ that is the one thing only the owner can fix: ask them to connect Google Drive a
 
 Rules that must not be broken:
 
+- **Do not upload, move or trash anything in Google Drive.** Every Drive write shows the owner an
+  "Allow once" prompt on their phone (about thirty for ten lessons), and it cannot be switched
+  off: Auto mode, "Always allow" on every connector tool and a new session were all tried.
+  Reading and downloading from Drive, `curl` on public links and `git push` do not prompt. That
+  is why lessons are published by `git push`. Write to Drive only if the owner asks for it.
+- **Publishing through this public repository, without encryption, is the owner's decision.** They
+  were told the book's questions become openly readable and that the publisher could have GitHub
+  take the repository down, and accepted. Do not reopen it. Source PDFs still never go on GitHub.
 - **Never commit the signing key or its passwords.** The repository is public. `keystore/` is git-ignored.
 - **Never put anything private in "YouTop books"** and never share "YouTop private". 
 - **Use only the Drive account `gpmo592@gmail.com`.** If the Drive connector is signed in to another
-  account (check the `owner` field of anything you create), stop and tell the owner; do not create
-  YouTop files elsewhere.
+  account (check the `owner` field of what you read), stop and tell the owner.
 - Old files elsewhere in the owner's Drive are unrelated. Ignore them.
 
 ## Updating the app (code change → APK for the owner)
@@ -68,6 +77,7 @@ There is no device. `tools/build.sh` runs:
 - `SchedulerTest` — the spaced-repetition rules.
 - `ScaleTest` — syncs a made-up 5,500-lesson book and fails if anything done per swipe gets slow.
 - `ContentTest` — the bundled starter book and the Drive folder parser.
+- `GitHubSyncTest` — sync from a pretend GitHub, the fall-back to Drive, and `gh:` media.
 - `ScreensTest` — starts the real activity under Robolectric, taps through it and saves a picture
   of each screen to `app/build/screens/`. **Look at those pictures** after any UI change; it is the
   only way to see the app. Add a step there for any new screen.
@@ -83,7 +93,10 @@ something looks wrong on theirs.
 ### Map of the code (`app/src/main/java/app/youtop/`)
 
 - `data/Models.kt` — the content format (Book → Chapter → Lesson → Track/Segment/Spot, Question).
-- `data/DriveClient.kt`, `ContentRepository.kt`, `MediaCache.kt` — sync from Drive, offline cache.
+- `data/DriveClient.kt`, `ContentRepository.kt`, `MediaCache.kt` — sync and offline cache. A file
+  is referred to as `gh:<path on the content branch>` or, in content from before 1.7,
+  `drive:<file id>`; both must keep working. Sync reads `catalog.json` from GitHub and uses the
+  Drive folder only when that fails and the phone holds no GitHub content yet.
   Only a light index of all lessons is kept in memory; a lesson's text is read from its chapter
   file when it is about to be shown. Keep it that way: the library will hold thousands.
 - `study/Tags.kt` — tag matching ("focus") and per-tag statistics.
@@ -102,18 +115,26 @@ Keep new fields in `Models.kt` optional with defaults, so older content keeps lo
 
 ## Updating content (no APK needed)
 
-Follow `docs/content-guide.md`. In short: lessons are JSON files in "YouTop books"; the app reads
-the highest-numbered `catalog-<n>.json`, which lists each book's `book.json`, which lists chapter
-files of about 100 lessons. Drive files cannot be edited, only replaced, so every change is
-"upload the new files, then upload the next catalog". Validate with
-`python3 tools/content/validate.py` before publishing, and check the public links afterwards.
+Follow `docs/content-guide.md`. In short: lessons are JSON files on the `content` branch; the app
+reads `catalog.json`, which lists each book's file, which lists chapter files of about 100
+lessons; pictures and audio sit beside them in `media/`. To change anything:
+
+    python3 tools/content/publish.py --export <scratch folder>     # what is published now
+    # edit the chapter files there, add new pictures/audio under books/<id>/media/
+    python3 tools/content/publish.py <scratch folder> -m "what changed"
+
+It validates, commits, pushes and reads the result back from the public address (which lags
+about five minutes). Then update `docs/status.md`.
 
 Never change a published book, chapter or lesson id: the owner's learning progress is stored
 under `book/chapter/lesson` on their phone.
 
 ## Decisions already made (do not reopen without the owner asking)
 
-- Kotlin + Jetpack Compose, single activity, no login, no backend other than the Drive folder.
+- Kotlin + Jetpack Compose, single activity, no login, no backend other than the public files
+  on the `content` branch (and the old Drive folder as a spare).
+- Content is published through this public GitHub repository, unencrypted, and never by
+  uploading to Drive (see the rules above).
 - Ratings are inferred, never asked: right answer = good (fast = easy), wrong = again, watched
   without answering = hard, quick swipe = nothing.
 - The picture is never zoomed or cropped; only a spotlight moves over it, in step with the voice.
