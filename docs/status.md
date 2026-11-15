@@ -22,7 +22,18 @@ Updated 2026-11-15. Whoever works on YouTop next: read `CLAUDE.md`, then this, t
 
 - Book `shahzad-2015` (200 questions): **lessons 1-20 are published and complete** (Arabic story
   ending in a real Dostoevsky quotation, English explanation, question, tags, picture, spots).
-  Chapter id `q0001-0100`, lesson ids `shahzad-q0001` … `shahzad-q0020`. Never change them.
+  Chapter id `q0001-0100`, lesson ids `shahzad-q0001` … Never change them.
+- **Lessons 21-30 are published without pictures and without spots** (2026-11-15). The image
+  prompts were handed to the owner (`work/shahzad-2015/batch03/image-prompts-21-30.json` on
+  `content`; everything for the batch is in `batch03.py` beside it). **Waiting for the owner's
+  pictures** in the Drive images folder, named 21 … 30. Then: look at each, correct the story
+  where the picture differs, set a spot per sentence, verify with circles, publish again.
+  Figures of questions 22, 23, 24, 29 and 30 are published (`media/figure-q00NN.png`).
+- On 2026-11-15 the owner said of lessons 1-20: the stories are not eloquent Arabic and lack
+  forceful language, the quotations should be stronger, the pictures should be better. Lessons
+  21-30 were written to answer that (see "Style the owner asked for" in `docs/content-guide.md`).
+  **They have not yet said whether 21-30 are what they wanted**, and they did not ask for 1-20
+  to be rewritten. Rewriting the stories of 1-10 would also break their recorded narration.
 - Published on `content`: `catalog.json` → `books/shahzad-2015/book-<hash>.json` →
   `chapters/q0001-0100-<hash>.json`, with 20 pictures, the figure of question 10 and ten story
   recordings in `media/`. It was moved there from Drive unchanged except for the references.
@@ -41,11 +52,12 @@ Updated 2026-11-15. Whoever works on YouTop next: read `CLAUDE.md`, then this, t
 
 ## What the owner may ask next
 
-- **Questions 21-30.** Per question: an image prompt (one JSON file `{"items":[{"info":"21. …"}]}`
-  handed to the owner), an Arabic story, a real Dostoevsky quotation with its work, an English
-  explanation, tags. Publish the lessons without pictures first; when the pictures arrive, look at
-  each one, correct the story where the picture differs, set a spot per sentence and verify by
-  drawing the circles on the picture.
+- **The pictures of 21-30** (see above), then **questions 31-40** the same way. Per question: an
+  image prompt (one JSON file `{"items":[{"info":"31. …"}]}` handed to the owner), an Arabic
+  story, a real Dostoevsky quotation with its work, an English explanation, tags. Publish the
+  lessons without pictures first; when the pictures arrive, look at each one, correct the story
+  where the picture differs, set a spot per sentence and verify by drawing the circles.
+- **Rewriting the stories and quotations of 1-20** in the new style, if they like 21-30.
 - **More recorded voice.** What worked: give the owner a text file with reading instructions
   followed by the stories, one sentence per line; they have ChatGPT read it and screen-record with
   "media sounds" (about 170 MB for 12 minutes; they put it in Drive and send the link). Then:
