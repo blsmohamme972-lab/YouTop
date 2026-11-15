@@ -23,17 +23,16 @@ Updated 2026-11-15. Whoever works on YouTop next: read `CLAUDE.md`, then this, t
 - Book `shahzad-2015` (200 questions): **lessons 1-20 are published and complete** (Arabic story
   ending in a real Dostoevsky quotation, English explanation, question, tags, picture, spots).
   Chapter id `q0001-0100`, lesson ids `shahzad-q0001` … Never change them.
-- **Lessons 31-40 are complete except for recorded voice**: pictures (the owner's, looked at one
-  by one) and spots were published on 2026-11-15 (`work/shahzad-2015/batch04/spots-0031-0040.py`
-  on `content`). The owner recorded ChatGPT reading these ten stories BEFORE the pictures
-  existed, so **the story text of 31-40 must not change**; if a picture ever disagrees, ask for a
-  new picture. The recording is `story 31 to 40.m4a` (Drive id `1Hg1_2DkvFuTovD0qb9QCA4fjePBn2DR4`,
-  10.6 MB, in the owner's private folder "gpt voice"): **it could not be fetched** — the folder is
-  not shared, and the Drive connector refuses files over 10 MB. The owner was asked to put it in
-  the public images folder (or any "anyone with the link" place). When it is reachable: align and
-  cut as described under "More recorded voice" below (the reading file is
-  `YouTop-stories-31-40-for-voice.txt`: titles "القصة الحادية والثلاثون" …, one sentence per
-  line, then the quotation and its source).
+- **Lessons 31-40 are complete, with recorded story voice** (published 2026-11-15): pictures (the
+  owner's, looked at one by one), spots (`work/shahzad-2015/batch04/spots-0031-0040.py`) and the
+  owner's ChatGPT recording `story 31 to 40.m4a` (Drive id `1Hg1_2DkvFuTovD0qb9QCA4fjePBn2DR4`),
+  cut into `media/shahzad-q0031-story-ar.m4a` … `q0040` with a start time `t` per segment. Scripts
+  and alignment: `work/shahzad-2015/voice/` on `content` (`align.py`: character-level difflib
+  match of faster-whisper words; `cut_and_set.py`; `edges.py` re-transcribes each file's first and
+  last seconds as a check). Only one sentence start was not recognised (story 37, third
+  sentence: it starts right after the previous one). **The timings were not checked by ear; the
+  owner has not yet said whether they sound right.** The story text of 31-40 must still not
+  change (it is what was recorded); if a picture ever disagrees, ask for a new picture.
 - **Lessons 21-30 are published without pictures and without spots.** Image prompts were handed
   to the owner (`work/shahzad-2015/batch03/image-prompts-21-30.json`); no pictures 21-30 had
   arrived by 2026-11-15. The owner chose to do 31-40 first.
@@ -43,12 +42,12 @@ Updated 2026-11-15. Whoever works on YouTop next: read `CLAUDE.md`, then this, t
   **They have not said in words whether 21-40 are what they wanted**, but they went on to make the pictures and the recording for 31-40, and they did not ask for 1-20
   to be rewritten. Rewriting the stories of 1-10 would also break their recorded narration.
 - Published on `content`: `catalog.json` → `books/shahzad-2015/book-<hash>.json` →
-  `chapters/q0001-0100-<hash>.json`, with 20 pictures, the figure of question 10 and ten story
+  `chapters/q0001-0100-<hash>.json`, with 20 pictures, the figure of question 10 and twenty story
   recordings in `media/`. It was moved there from Drive unchanged except for the references.
-- Recorded voice: the **story** of lessons 1-10 plays a recording the owner made from ChatGPT's
+- Recorded voice: the **story** of lessons 1-10 and 31-40 plays a recording the owner made from ChatGPT's
   voice (`media/shahzad-qNNNN-story-ar.m4a`, each segment has a start time `t`). The timings came
   from speech recognition and were never checked by ear by a builder; **the owner has not yet said
-  whether they sound right.** Explanations and lessons 11-20 use the phone's voice.
+  whether they sound right.** Explanations and the stories of 11-30 use the phone's voice.
 - Master questions (all 200, word for word), style and earlier work files are in Drive,
   "YouTop private/books/shahzad-2015" (`mcqs-*.json`, `work/README-work.txt`, `work/batch02-v2.py`,
   `work/spots-0011-0020.py`, `work/stories-v3.py`, `work/make_batch.py`). Read them with the Drive
@@ -73,24 +72,16 @@ Updated 2026-11-15. Whoever works on YouTop next: read `CLAUDE.md`, then this, t
   reachable as a GitHub release: `pip install sherpa-onnx` and
   `https://github.com/k2-fsa/sherpa-onnx/releases/download/asr-models/sherpa-onnx-whisper-small.tar.bz2`
   (download checked; recognition with it not yet tried).
-- Third session, 2026-11-15: the owner shared `story 31 to 40.m4a` by link (visibility
-  "anyone with the link", checked with the connector) and started the session in the environment
-  named "Full", but **`drive.usercontent.google.com` was still refused** there (curl "CONNECT
-  tunnel failed, 403"), and the connector still refuses the file (over 10 MB). So the recording
-  is still not fetched. The owner was told the two ways out: allow the domains
-  `drive.google.com` and `drive.usercontent.google.com` in that environment's Network access,
-  or re-record in two files under 10 MB each (stories 31-35 and 36-40) into "gpt voice"
-  (`1uIaYNhk-1X7VlCiJn-KMHMwCPPiw5_Bl`), which the connector can download. First thing to do in
-  a new session: list that folder with the connector and try the curl again.
-- Fourth session, 2026-11-15: same result. `curl` to `drive.usercontent.google.com` → "CONNECT
-  tunnel failed, 403"; the connector still refuses the file (over 10 MB); "gpt voice" holds only
-  `story 31 to 40.m4a`. The owner was asked again to either allow the two Drive domains in the
-  environment's Network access or re-record as two files (31-35, 36-40) into "gpt voice".
+- 2026-11-15: after the owner changed the environment's network access, `curl` on
+  `drive.usercontent.google.com` and `huggingface.co` worked (faster-whisper fetched "small"
+  itself). `pip install` into the system Python was refused by the session's permission check;
+  a virtualenv in the scratchpad worked. If Drive is blocked again, recordings under 10 MB can
+  still be read with the connector.
 - Still no pictures 21-30 in the images folder.
 
 ## What the owner may ask next
 
-- **The recording of 31-40 and the pictures of 21-30** (see above), then **questions 41-50** the same way. Per question: an
+- **The pictures of 21-30** (see above), then **questions 41-50** the same way. Per question: an
   image prompt (one JSON file `{"items":[{"info":"41. …"}]}` handed to the owner), an Arabic
   story, a real Dostoevsky quotation with its work, an English explanation, tags. Publish the
   lessons without pictures first; when the pictures arrive, look at each one, correct the story
