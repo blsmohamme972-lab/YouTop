@@ -115,6 +115,13 @@ Each `info` is a complete prompt written to this frame (the owner's wording):
 
 Describe the scene and what happens in it concretely; a vague prompt gives a forgettable picture.
 
+The owner found the first twenty pictures not good enough (they were all brown, snowy, crowded
+with small things). Since lesson 21 every prompt also asks for: one dominant focal point drawn
+larger than life; only the few elements described, each big and in its own area with empty space
+between; a bold colour scheme named for that picture; and a different setting each time (dawn at
+a gate, a forge at dusk, a summer fair, a monastery at evening…). The frame is the `prompt`
+function in `work/shahzad-2015/batch03/batch03.py` on `content`; reuse it.
+
 ### Step 4 — quotations
 
 The Arabic story ends with a **real** quotation from the book's author, chosen to fit that
@@ -203,6 +210,11 @@ first monk sawed off the whole branch: this is a lobectomy"). What they asked fo
       { "text": "ثم طرقت جدار الكوخ برفق، كمن يطرق صدر إنسان، وقالت:", "spot": { … } },
       { "text": "«الإنسان سرّ. …»", "quote": "فيودور دوستويفسكي، رسالة إلى أخيه ميخائيل، 1839" }
 
+- **Style the owner asked for (2026-11-15, after reading lessons 1-20):** eloquent classical
+  Arabic with force in it — strong verbs, rhythm, parallel clauses, images that strike, speech
+  that sounds like speech — not plain modern prose; and **stronger quotations**: the lines of the
+  author that everyone remembers, not mild ones. Still exactly as real: a named work, never
+  adapted. `work/shahzad-2015/batch03/batch03.py` on `content` is the worked set in this style.
 - Write the story after you have **looked at the picture**, not only from its prompt: the story
   must match what the picture really shows.
 
