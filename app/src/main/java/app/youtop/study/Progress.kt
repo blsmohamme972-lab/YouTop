@@ -27,10 +27,16 @@ data class Progress(
     val newToday: Int = 0,
     val streak: Int = 0,
     val lastStudyDay: Long = 0,
+    /** What was done on each recent day (by day number, see [Scheduler.dayOf]); feeds the dashboard. */
+    val history: Map<Long, DayLog> = emptyMap(),
 ) {
     /** Streak as it stands today: broken if a whole day was missed. */
     fun liveStreak(today: Long) = if (today - lastStudyDay <= 1) streak else 0
 }
+
+/** One day of study: lessons rated, and how many of them were answered wrongly. */
+@Serializable
+data class DayLog(val done: Int = 0, val again: Int = 0)
 
 /** Keeps every lesson's memory state and the daily counters on disk. */
 class ProgressStore(context: Context, private val scope: CoroutineScope) {
@@ -95,12 +101,22 @@ class ProgressStore(context: Context, private val scope: CoroutineScope) {
                     else -> 1
                 },
                 lastStudyDay = today,
+                history = (p.history[today] ?: DayLog()).let { log ->
+                    val kept = if (p.history.size > HISTORY_DAYS) p.history.filterKeys { it > today - HISTORY_DAYS } else p.history
+                    kept + (today to DayLog(log.done + 1, log.again + if (rating == Rating.AGAIN) 1 else 0))
+                },
             )
         }
         save()
     }
 
     private fun max1(v: Int) = if (v < 1) 1 else v
+
+    /** Replaces everything with a restored backup. */
+    fun restore(p: Progress) {
+        _progress.value = p.rolledTo(today())
+        save()
+    }
 
     fun reset() {
         _progress.value = Progress(day = today())
@@ -123,6 +139,10 @@ class ProgressStore(context: Context, private val scope: CoroutineScope) {
         // On the caller's thread on purpose: Android may end the process right after the app
         // leaves the screen, and a background thread might not get to finish.
         write(_progress.value)
+    }
+
+    private companion object {
+        const val HISTORY_DAYS = 400
     }
 
     private fun write(p: Progress) = synchronized(writeLock) {

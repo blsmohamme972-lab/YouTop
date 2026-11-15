@@ -146,7 +146,32 @@ data class BookInfo(
 @Serializable
 data class LibraryIndex(val books: List<BookInfo> = emptyList())
 
-fun Lesson.info() = LessonInfo(id, title, titleAr, image, tags, quiz.size, tracks.mapNotNull { it.audio }, quiz.mapNotNull { it.image })
+/** A question the quiz can show: at least two options and an answer that is one of them. */
+fun Question.isUsable() = options.size >= 2 && answer in options.indices && q.isNotBlank()
+
+/**
+ * A lesson as the app shows it: questions that cannot be asked are dropped rather than crash the
+ * quiz, and a narration without sentences is dropped rather than play nothing.
+ */
+fun Lesson.clean(): Lesson {
+    val okQuiz = quiz.filter { it.isUsable() }
+    val okTracks = tracks.filter { it.segments.isNotEmpty() || it.audio != null }
+    return if (okQuiz.size == quiz.size && okTracks.size == tracks.size) this else copy(quiz = okQuiz, tracks = okTracks)
+}
+
+/** Books, chapters and lessons are found by id: of two with the same id only the first is kept. */
+fun BookInfo.withoutDuplicates(): BookInfo {
+    val seen = HashSet<String>()
+    return copy(chapters = chapters.distinctBy { it.id }.map { c ->
+        // A lesson id must be unique in its chapter (it is the key of the learner's progress).
+        seen.clear()
+        if (c.lessons.all { seen.add(it.id) }) c else c.copy(lessons = c.lessons.distinctBy { it.id })
+    })
+}
+
+fun Lesson.info() = clean().run { infoOf() }
+
+private fun Lesson.infoOf() = LessonInfo(id, title, titleAr, image, tags, quiz.size, tracks.mapNotNull { it.audio }, quiz.mapNotNull { it.image })
 
 data class FeedItem(val book: BookInfo, val chapter: ChapterInfo, val lesson: LessonInfo) {
     val key: String = "${book.id}/${chapter.id}/${lesson.id}"

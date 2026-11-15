@@ -77,7 +77,7 @@ fun TopicsTab(vm: MainViewModel) {
             .take(6).map { it.key }
     }
 
-    LazyColumn(contentPadding = PaddingValues(bottom = 32.dp), modifier = Modifier.navigationBarsPadding()) {
+    LazyColumn(contentPadding = PaddingValues(bottom = 24.dp)) {
         item(key = "focus") {
             Row(Modifier.fillMaxWidth().padding(horizontal = 20.dp).padding(bottom = 6.dp), verticalAlignment = Alignment.CenterVertically) {
                 Text(
@@ -115,7 +115,7 @@ fun TopicsTab(vm: MainViewModel) {
             }
         }
         taxonomy.facets.forEach { facet ->
-            item(key = "facet:${facet.id}") {
+            item(key = "facet:${facet.id}:${taxonomy.facets.indexOf(facet)}") {
                 Text(
                     facet.title.uppercase(), color = Accent, fontSize = 11.sp, fontWeight = FontWeight.SemiBold, letterSpacing = 1.sp,
                     modifier = Modifier.padding(horizontal = 20.dp).padding(top = 14.dp, bottom = 4.dp),
@@ -129,7 +129,7 @@ fun TopicsTab(vm: MainViewModel) {
                 }
             }
             walk(facet.nodes, 0)
-            items(rows.size, key = { rows[it].node.id }) { i ->
+            items(rows.size, key = { "tag:${facet.id}:${rows[it].node.id}:$it" }) { i ->
                 val row = rows[i]
                 val tag = row.node.id
                 val stat = stats[tag]
@@ -172,7 +172,7 @@ fun TopicsTab(vm: MainViewModel) {
                             )
                             Spacer(Modifier.width(8.dp))
                         }
-                        Text("${stat.seen}/${stat.lessons}", color = Faint, fontSize = 12.sp)
+                        Text(ratio(stat.seen, stat.lessons), color = Faint, fontSize = 12.sp)
                     }
                     if (selected) {
                         Spacer(Modifier.width(8.dp))

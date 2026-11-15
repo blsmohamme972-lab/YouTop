@@ -5,6 +5,7 @@ import androidx.compose.runtime.mutableStateListOf
 import androidx.compose.runtime.mutableStateMapOf
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.viewModelScope
+import app.youtop.data.Backup
 import app.youtop.data.ContentRepository
 import app.youtop.data.DriveClient
 import app.youtop.data.FeedItem
@@ -183,6 +184,15 @@ class MainViewModel(app: Application) : AndroidViewModel(app) {
         val s = study()
         pool = lessons.filter { it.book.id !in s.excludedBooks && Tags.matches(it.lesson.tags, s.focus) }
         topicOf = pool.associate { it.key to Tags.mainTopic(it.lesson.tags) }
+        if (pool.isEmpty()) {
+            // Nothing matches the chosen books and topics: an empty feed that says so, rather than
+            // the last lesson with nothing after it.
+            queue.clear()
+            currentIndex = 0
+            narrator.unload()
+            finishedForToday.value = false
+            return
+        }
         val byKey = lessons.associateBy { it.key }
         while (queue.size > currentIndex + 1) queue.removeAt(queue.lastIndex)
         for (i in queue.indices) byKey[queue[i].item.key]?.let { if (it != queue[i].item) queue[i] = queue[i].copy(item = it) }
@@ -267,6 +277,28 @@ class MainViewModel(app: Application) : AndroidViewModel(app) {
     fun toggleSaved(key: String) = viewModelScope.launch { prefs.toggleSaved(key) }
 
     fun setStudy(study: StudySettings) = viewModelScope.launch { prefs.setStudy(study) }
+
+    /** Back to every book and every topic, when the chosen ones leave the feed empty. */
+    fun clearFilters() = setStudy(study().copy(focus = emptySet(), excludedBooks = emptySet()))
+
+    fun hintSeen() = viewModelScope.launch { prefs.setHintSeen() }
+
+    // ---- backup ------------------------------------------------------------
+
+    /** Everything that cannot be downloaded again: the learning history, the saved lessons and the study settings. */
+    fun backupText(): String = Backup.encode(Backup(made = System.currentTimeMillis(), progress = progress.value, study = study(), saved = settings.value.saved))
+
+    /** Puts a backup back. Returns false, changing nothing, when [text] is not a YouTop backup. */
+    suspend fun restoreBackup(text: String): Boolean {
+        val backup = Backup.decode(text) ?: return false
+        store.restore(backup.progress)
+        store.flush()
+        prefs.setSaved(backup.saved)
+        backup.study?.let { prefs.setStudy(it) }
+        rated.clear()
+        replan()
+        return true
+    }
 
     fun resetProgress() {
         store.reset()

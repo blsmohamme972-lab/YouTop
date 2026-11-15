@@ -36,6 +36,11 @@ import androidx.compose.material.icons.automirrored.rounded.Notes
 import androidx.compose.material.icons.automirrored.rounded.VolumeOff
 import androidx.compose.material.icons.automirrored.rounded.VolumeUp
 import androidx.compose.material.icons.rounded.Bookmark
+import androidx.compose.material.icons.rounded.CheckCircle
+import androidx.compose.material.icons.rounded.CloudDownload
+import androidx.compose.material.icons.rounded.FilterAlt
+import androidx.compose.material.icons.rounded.KeyboardArrowUp
+import androidx.compose.material.icons.rounded.Sync
 import androidx.compose.material.icons.rounded.BookmarkBorder
 import androidx.compose.material.icons.rounded.LocalFireDepartment
 import androidx.compose.material.icons.rounded.Pause
@@ -97,7 +102,7 @@ import app.youtop.study.Tags
 private val Speeds = listOf(0.75f, 1f, 1.25f, 1.5f, 2f)
 
 @Composable
-fun FeedScreen(vm: MainViewModel, onOpenLibrary: () -> Unit) {
+fun FeedScreen(vm: MainViewModel, onOpenLibrary: (LibraryTab?) -> Unit) {
     val queue = vm.queue
     val loaded by vm.loaded.collectAsStateWithLifecycle()
     val sync by vm.sync.collectAsStateWithLifecycle()
@@ -117,15 +122,9 @@ fun FeedScreen(vm: MainViewModel, onOpenLibrary: () -> Unit) {
     }
 
     Box(Modifier.fillMaxSize().background(Ink)) {
+        val finished by vm.finishedForToday.collectAsStateWithLifecycle()
         if (queue.isEmpty()) {
-            if (loaded) {
-                Text(
-                    stringResource(R.string.empty_feed),
-                    color = Color.White.copy(alpha = 0.7f),
-                    textAlign = TextAlign.Center,
-                    modifier = Modifier.align(Alignment.Center).padding(32.dp),
-                )
-            }
+            if (loaded) EmptyFeed(vm, finished, sync, Modifier.align(Alignment.Center))
         } else {
             VerticalPager(
                 state = pagerState,
@@ -152,10 +151,9 @@ fun FeedScreen(vm: MainViewModel, onOpenLibrary: () -> Unit) {
             if (sync is SyncState.Running) {
                 CircularProgressIndicator(Modifier.size(18.dp), color = Color.White, strokeWidth = 2.dp)
             }
-            GlassButton(Icons.AutoMirrored.Rounded.MenuBook, stringResource(R.string.library), onOpenLibrary)
+            GlassButton(Icons.AutoMirrored.Rounded.MenuBook, stringResource(R.string.library), { onOpenLibrary(null) })
         }
 
-        val finished by vm.finishedForToday.collectAsStateWithLifecycle()
         if (finished && pagerState.settledPage >= queue.lastIndex && queue.isNotEmpty()) {
             Text(
                 stringResource(R.string.done_today),
@@ -172,6 +170,7 @@ fun FeedScreen(vm: MainViewModel, onOpenLibrary: () -> Unit) {
         Box(
             Modifier.align(Alignment.TopEnd).statusBarsPadding().padding(top = 62.dp, end = 10.dp)
                 .size(44.dp).clip(CircleShape).background(Glass)
+                .clickable(onClickLabel = stringResource(R.string.today)) { onOpenLibrary(LibraryTab.HOME) }
                 .drawBehind {
                     val stroke = 3.dp.toPx()
                     val inset = stroke / 2f + 2.dp.toPx()
@@ -188,6 +187,52 @@ fun FeedScreen(vm: MainViewModel, onOpenLibrary: () -> Unit) {
             } else {
                 Icon(Icons.Rounded.LocalFireDepartment, stringResource(R.string.streak), tint = Color.White.copy(alpha = 0.7f), modifier = Modifier.size(18.dp))
             }
+        }
+
+        // Shown until the first swipe, once: how to get to the next lesson.
+        val showHint = loaded && !settings.hintSeen && queue.size > 1 && pagerState.settledPage == 0 && !vm.covered
+        LaunchedEffect(pagerState.settledPage) { if (pagerState.settledPage > 0 && !settings.hintSeen) vm.hintSeen() }
+        AnimatedVisibility(
+            visible = showHint, enter = fadeIn(tween(400)), exit = fadeOut(tween(200)),
+            modifier = Modifier.align(Alignment.TopCenter).statusBarsPadding().padding(top = 116.dp),
+        ) {
+            Row(
+                Modifier.clip(CircleShape).background(Color.Black.copy(alpha = 0.55f)).padding(horizontal = 14.dp, vertical = 8.dp),
+                verticalAlignment = Alignment.CenterVertically,
+            ) {
+                Icon(Icons.Rounded.KeyboardArrowUp, null, tint = Accent, modifier = Modifier.size(20.dp))
+                Spacer(Modifier.width(4.dp))
+                Text(stringResource(R.string.swipe_hint), color = Color.White, fontSize = 13.sp, fontWeight = FontWeight.Medium)
+            }
+        }
+    }
+}
+
+/** The feed has nothing to show: say why, and offer the one thing that fixes it. */
+@Composable
+private fun EmptyFeed(vm: MainViewModel, finished: Boolean, sync: SyncState, modifier: Modifier = Modifier) {
+    val books by vm.books.collectAsStateWithLifecycle()
+    val hasLessons = books.any { b -> b.chapters.any { it.lessons.isNotEmpty() } }
+    when {
+        finished -> EmptyState(Icons.Rounded.CheckCircle, stringResource(R.string.done_today), stringResource(R.string.done_today_body), modifier) {
+            PrimaryButton(stringResource(R.string.keep_going)) { vm.setStudy(vm.settings.value.study.copy(afterGoal = "more")) }
+        }
+
+        hasLessons -> EmptyState(Icons.Rounded.FilterAlt, stringResource(R.string.nothing_matches), stringResource(R.string.nothing_matches_body), modifier) {
+            PrimaryButton(stringResource(R.string.show_everything)) { vm.clearFilters() }
+        }
+
+        else -> EmptyState(
+            Icons.Rounded.CloudDownload, stringResource(R.string.no_books_title),
+            when (sync) {
+                is SyncState.Running -> stringResource(R.string.sync_running)
+                is SyncState.Failed -> stringResource(if (sync.offline) R.string.sync_offline_empty else R.string.sync_failed)
+                else -> stringResource(R.string.empty_feed)
+            },
+            modifier,
+        ) {
+            if (sync is SyncState.Running) CircularProgressIndicator(Modifier.size(24.dp), color = Accent, strokeWidth = 2.5.dp)
+            else PrimaryButton(stringResource(R.string.sync_now), Icons.Rounded.Sync) { vm.syncNow() }
         }
     }
 }
