@@ -73,8 +73,16 @@ Updated 2026-11-15. Whoever works on YouTop next: read `CLAUDE.md`, then this, t
   reachable as a GitHub release: `pip install sherpa-onnx` and
   `https://github.com/k2-fsa/sherpa-onnx/releases/download/asr-models/sherpa-onnx-whisper-small.tar.bz2`
   (download checked; recognition with it not yet tried).
-- Still waiting on 2026-11-15: the recording of 31-40 is still private and over 10 MB (the owner
-  was asked again, with two ways out), and no pictures 21-30 are in the images folder.
+- Third session, 2026-11-15: the owner shared `story 31 to 40.m4a` by link (visibility
+  "anyone with the link", checked with the connector) and started the session in the environment
+  named "Full", but **`drive.usercontent.google.com` was still refused** there (curl "CONNECT
+  tunnel failed, 403"), and the connector still refuses the file (over 10 MB). So the recording
+  is still not fetched. The owner was told the two ways out: allow the domains
+  `drive.google.com` and `drive.usercontent.google.com` in that environment's Network access,
+  or re-record in two files under 10 MB each (stories 31-35 and 36-40) into "gpt voice"
+  (`1uIaYNhk-1X7VlCiJn-KMHMwCPPiw5_Bl`), which the connector can download. First thing to do in
+  a new session: list that folder with the connector and try the curl again.
+- Still no pictures 21-30 in the images folder.
 
 ## What the owner may ask next
 
