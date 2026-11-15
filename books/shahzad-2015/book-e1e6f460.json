@@ -1,0 +1,15 @@
+{
+ "id": "shahzad-2015",
+ "title": "Shahzad 2015: Cardiothoracic Surgery, 200 Questions",
+ "titleAr": "شاهزاد 2015: جراحة القلب والصدر، 200 سؤال",
+ "description": "Single-best-answer questions in cardiothoracic surgery. Stories in the manner of Dostoevsky.",
+ "cover": "gh:books/shahzad-2015/media/shahzad-q0001.webp",
+ "chapters": [
+  {
+   "id": "q0001-0100",
+   "title": "Questions 1-100",
+   "titleAr": "الأسئلة 1-100",
+   "file": "gh:books/shahzad-2015/chapters/q0001-0100-5e740ea2.json"
+  }
+ ]
+}
