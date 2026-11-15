@@ -58,6 +58,24 @@ Updated 2026-11-15. Whoever works on YouTop next: read `CLAUDE.md`, then this, t
 - The owner's original pictures: Drive, "YouTop books/Shahzad 2015/images"
   (`1Rh8ghw3oe5_5yYzaTvH5iFcpJQTnrRxZ`), named by question number, some without ".png".
 
+## What a cloud session can and cannot reach (found 2026-11-15, second session)
+
+- In some sessions the network policy **blocks `drive.google.com`, `drive.usercontent.google.com`
+  and `huggingface.co`** (curl answers "CONNECT tunnel failed, 403"). Then the public-link `curl`
+  recipes for Drive do not work at all. Only the owner can change that (the cloud environment's
+  settings → Network access → allow those two Drive domains, or a broader level).
+- The Drive connector still works there: `search_files` with `parentId = '<folder id>'` lists a
+  folder, and `download_file_content` **saves a binary file (picture, audio) to disk** and prints
+  its path, for private files too. So pictures (about 3 MB) never need the public link. Its limit
+  is 10 MB per file: `story 31 to 40.m4a` (10,621,986 bytes) is refused. Recordings should be
+  **under 10 MB each** (five stories per recording is about 5 MB) and can then sit in any Drive folder.
+- Without Hugging Face, faster-whisper cannot fetch its model. A Whisper "small" model is
+  reachable as a GitHub release: `pip install sherpa-onnx` and
+  `https://github.com/k2-fsa/sherpa-onnx/releases/download/asr-models/sherpa-onnx-whisper-small.tar.bz2`
+  (download checked; recognition with it not yet tried).
+- Still waiting on 2026-11-15: the recording of 31-40 is still private and over 10 MB (the owner
+  was asked again, with two ways out), and no pictures 21-30 are in the images folder.
+
 ## What the owner may ask next
 
 - **The recording of 31-40 and the pictures of 21-30** (see above), then **questions 41-50** the same way. Per question: an
