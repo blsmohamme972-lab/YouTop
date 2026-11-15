@@ -15,7 +15,8 @@ import java.io.IOException
 sealed interface SyncState {
     data object Idle : SyncState
     data class Running(val done: Int = 0, val total: Int = 0) : SyncState
-    data class Done(val books: Int) : SyncState
+    /** [failed] books could not be read this time; the copy already on the phone is kept for them. */
+    data class Done(val books: Int, val failed: Int = 0) : SyncState
     data class Failed(val offline: Boolean, val message: String) : SyncState
 }
 
@@ -51,7 +52,7 @@ class ContentRepository(
         val synced = runCatching { ContentJson.decodeFromString<LibraryIndex>(indexFile.readText()).books }
             .getOrDefault(emptyList())
         val ids = synced.map { it.id }.toSet()
-        _books.value = synced + seedBooks().filter { it.id !in ids }
+        _books.value = (synced + seedBooks().filter { it.id !in ids }).distinctBy { it.id }.map { it.withoutDuplicates() }
         _taxonomy.value = runCatching { ContentJson.decodeFromString<Taxonomy>(taxonomyFile.readText()) }
             .recoverCatching { ContentJson.decodeFromString<Taxonomy>(assetText("taxonomy.json")) }
             .getOrDefault(Taxonomy())
@@ -109,9 +110,10 @@ class ContentRepository(
                     ContentJson.decodeFromString<Book>(text).chapters.first { it.id == item.chapter.id }.lessons
                 }
             }
-            list.associateBy { it.id }.also { synchronized(lessonCache) { lessonCache[cacheKey] = it } }
+            // First of two lessons with one id wins, as in the index.
+            list.asReversed().associateBy { it.id }.also { synchronized(lessonCache) { lessonCache[cacheKey] = it } }
         }.getOrNull()
-        lessons?.get(item.lesson.id)
+        lessons?.get(item.lesson.id)?.clean()
     }
 
     // ---- sync ----------------------------------------------------------------
@@ -148,29 +150,51 @@ class ContentRepository(
             try {
                 val catalog = catalog(folderId)
 
+                // Each book on its own: one that cannot be read (a damaged file, a dropped connection)
+                // keeps the copy already on the phone, and the other books still update.
+                val held = _books.value.associateBy { it.id }
                 val used = HashSet<String>()
-                val parsed = catalog.books.map { ref ->
-                    used += stored(ref.file).name
-                    ref to ContentJson.decodeFromString<Book>(fetch(ref.file))
-                }
-                val chapterFiles = parsed.sumOf { (_, book) -> book.chapters.count { it.file != null } }
-                var done = 0
-                val books = parsed.map { (ref, book) ->
-                    book.info { chapter ->
-                        val file = chapter.file
-                        if (file == null) {
-                            "book:${ref.file}" to chapter.lessons
-                        } else {
-                            _sync.value = SyncState.Running(done++, chapterFiles)
-                            used += stored(file).name
-                            "chapter:$file" to ContentJson.decodeFromString<ChapterFile>(fetch(file)).lessons
+                var failed = 0
+                var firstError: Exception? = null
+                val bookRefs = catalog.books.distinctBy { it.id }
+                val books = bookRefs.mapIndexedNotNull { i, ref ->
+                    _sync.value = SyncState.Running(i, bookRefs.size)
+                    val mine = HashSet<String>()
+                    try {
+                        mine += stored(ref.file).name
+                        val book = ContentJson.decodeFromString<Book>(fetch(ref.file))
+                        book.info { chapter ->
+                            val file = chapter.file
+                            if (file == null) {
+                                "book:${ref.file}" to chapter.lessons
+                            } else {
+                                mine += stored(file).name
+                                "chapter:$file" to ContentJson.decodeFromString<ChapterFile>(fetch(file)).lessons
+                            }
+                        }.withoutDuplicates().also { used += mine }
+                    } catch (e: CancellationException) {
+                        throw e
+                    } catch (e: Exception) {
+                        failed++
+                        if (firstError == null) firstError = e
+                        // Keep the files of the copy the phone already has (never the bundled starter book).
+                        held[ref.id]?.takeIf { old -> old.chapters.none { it.source.startsWith("asset:") } }?.also { old ->
+                            old.chapters.forEach { used += stored(it.source.substringAfter(':')).name }
                         }
                     }
-                }
+                }.distinctBy { it.id }
+                // Nothing at all could be read: report it as a failed sync and leave everything as it is.
+                if (bookRefs.isNotEmpty() && failed == bookRefs.size) throw firstError!!
                 catalog.taxonomy?.let { id ->
-                    val text = drive.text(id)
-                    ContentJson.decodeFromString<Taxonomy>(text) // validate before storing
-                    taxonomyFile.writeText(text)
+                    // A tag system that cannot be read is no reason to refuse the books: keep the old one.
+                    try {
+                        val text = drive.text(id)
+                        ContentJson.decodeFromString<Taxonomy>(text) // validate before storing
+                        taxonomyFile.writeText(text)
+                    } catch (e: CancellationException) {
+                        throw e
+                    } catch (e: Exception) {
+                    }
                 }
 
                 // Everything is on disk: switch over, then drop what is no longer referenced.
@@ -188,7 +212,7 @@ class ContentRepository(
                         runCatching { media.fetch(ref) }
                     }
                 }
-                _sync.value = SyncState.Done(books.size)
+                _sync.value = SyncState.Done(books.size, failed)
                 true
             } catch (e: CancellationException) {
                 _sync.value = SyncState.Idle

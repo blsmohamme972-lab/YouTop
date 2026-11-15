@@ -6,14 +6,21 @@ Updated 2026-11-15. Whoever works on YouTop next: read `CLAUDE.md`, then this, t
 
 ## App
 
-- **1.7-prototype (versionCode 8)** is on `main`. It reads lessons from the `content` branch of
-  this repository and falls back to the Drive folder only if GitHub cannot be reached and the
-  phone holds no GitHub content yet. The APK was handed to the owner on 2026-11-15; whether they
-  have installed it is not known. Before it, 1.6 (versionCode 7) was on their phone, reading Drive.
+- **1.8 (versionCode 9)** is on `main`; the APK was handed to the owner on 2026-11-15. Whether they
+  have installed it (or 1.7 before it) is not known; 1.6 (versionCode 7), reading Drive, was the
+  last version known to be on their phone. New in 1.8, after the owner asked for "the best app":
+  a library with five pages and a bar at the bottom (Home dashboard, Books with search and folding
+  chapters, Topics, Saved, Settings), backup and restore of the learning history as a file, a daily
+  history for the dashboard's charts, messages instead of a blank feed (no lessons / nothing
+  matches the focus / done for today), a one-time "swipe up" hint, and content that cannot be read
+  no longer stops a sync or crashes a page (see "Content is never trusted" in `CLAUDE.md`).
+  **The owner has not yet said what they think of it.**
 - No builder has ever run the app on a real phone. The owner sends screenshots when something
   looks wrong.
 - Not done on purpose, because they need a real phone to test: audio focus for the phone's voice,
-  and switching voice engine when the default one has no Arabic.
+  switching voice engine when the default one has no Arabic, and a daily reminder notification
+  (offered to the owner on 2026-11-15; not asked for yet). The backup's file picker could not be
+  tried either (no picker under Robolectric); what it writes and reads is tested.
 - In lists, a lesson's small picture is the full picture when it is not yet stored on the phone
   (GitHub has no thumbnails). Fine for now; with thousands of lessons and "download for offline"
   switched off it would cost data. A fix would be small thumbnails written by `publish.py`.

@@ -25,6 +25,8 @@ data class Settings(
     val lastSync: Long = 0L,
     val saved: Set<String> = emptySet(),
     val study: StudySettings = StudySettings(),
+    /** The "swipe up for the next lesson" hint has been shown and acted on. */
+    val hintSeen: Boolean = false,
 )
 
 class Prefs(private val context: Context) {
@@ -36,6 +38,7 @@ class Prefs(private val context: Context) {
     private val lastSync = longPreferencesKey("last_sync")
     private val saved = stringSetPreferencesKey("saved")
     private val study = stringPreferencesKey("study")
+    private val hintSeen = booleanPreferencesKey("hint_seen")
 
     val settings: Flow<Settings> = context.store.data.map { p ->
         Settings(
@@ -47,6 +50,7 @@ class Prefs(private val context: Context) {
             lastSync = p[lastSync] ?: 0L,
             saved = p[saved] ?: emptySet(),
             study = p[study]?.let { runCatching { ContentJson.decodeFromString<StudySettings>(it) }.getOrNull() } ?: StudySettings(),
+            hintSeen = p[hintSeen] ?: false,
         )
     }
 
@@ -57,6 +61,8 @@ class Prefs(private val context: Context) {
     suspend fun setMuted(v: Boolean) = context.store.edit { it[muted] = v }
     suspend fun setLastSync(v: Long) = context.store.edit { it[lastSync] = v }
     suspend fun setStudy(v: StudySettings) = context.store.edit { it[study] = ContentJson.encodeToString(v) }
+    suspend fun setHintSeen() = context.store.edit { it[hintSeen] = true }
+    suspend fun setSaved(v: Set<String>) = context.store.edit { it[saved] = v }
     suspend fun toggleSaved(key: String) = context.store.edit {
         val cur = it[saved] ?: emptySet()
         it[saved] = if (key in cur) cur - key else cur + key

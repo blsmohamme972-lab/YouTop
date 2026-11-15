@@ -128,4 +128,61 @@ class GitHubSyncTest {
         assertEquals(null, media.cachedOrNull("gh:books/b/media/q1.webp"))
         assertEquals(base + "books/b/media/q1-story-ar.m4a", media.audioUri("gh:books/b/media/q1-story-ar.m4a").toString())
     }
+
+    /** One book that cannot be read must not stop the others, and must not lose the copy already held. */
+    @Test
+    fun aBrokenBookKeepsItsOldCopyAndTheOthersStillUpdate() = runBlocking<Unit> {
+        val context = ApplicationProvider.getApplicationContext<android.app.Application>()
+        fun book(id: String, title: String, lessons: List<Lesson>) =
+            ContentJson.encodeToString(Book(id, title, chapters = listOf(Chapter("c", "Chapter", lessons = lessons))))
+        val plain = Lesson(id = "q1", title = "Question 1")
+        val files = HashMap<String, String?>()
+        val http = OkHttpClient.Builder().addInterceptor(Interceptor { chain ->
+            val body = files[chain.request().url.toString().removePrefix(base)]
+            Response.Builder().request(chain.request()).protocol(Protocol.HTTP_1_1)
+                .code(if (body == null) 404 else 200).message("x")
+                .body((body ?: "404: Not Found").toResponseBody("application/octet-stream".toMediaType())).build()
+        }).build()
+        val drive = DriveClient(http, contentBase = base)
+        val repo = ContentRepository(context, drive, MediaCache(context, drive))
+        fun titles() = repo.books.value.filter { it.id != "starter" }.associate { it.id to it.title }
+
+        files["catalog.json"] = ContentJson.encodeToString(Catalog(listOf(BookRef("one", "gh:one-1.json"), BookRef("two", "gh:two-1.json"))))
+        files["one-1.json"] = book("one", "One", listOf(plain))
+        files["two-1.json"] = book("two", "Two", listOf(plain))
+        assertTrue(repo.sync(null, downloadMedia = false))
+        assertEquals(mapOf("one" to "One", "two" to "Two"), titles())
+
+        // A new version of each; the second is damaged, a third book is missing, a fourth repeats an id.
+        files["catalog.json"] = ContentJson.encodeToString(Catalog(listOf(
+            BookRef("one", "gh:one-2.json"), BookRef("two", "gh:two-2.json"), BookRef("three", "gh:three-1.json"), BookRef("one", "gh:one-3.json"),
+        )))
+        files["one-2.json"] = book("one", "One, second edition", listOf(
+            plain, plain.copy(title = "Same id again"),
+            Lesson(id = "q2", title = "Question 2", quiz = listOf(
+                app.youtop.data.Question("Usable?", listOf("yes", "no"), 0),
+                app.youtop.data.Question("Answer out of range", listOf("a", "b"), 7),
+                app.youtop.data.Question("No options", emptyList(), 0),
+            )),
+        ))
+        files["two-2.json"] = "{ this is not a book"
+        assertTrue(repo.sync(null, downloadMedia = false))
+        assertEquals(mapOf("one" to "One, second edition", "two" to "Two"), titles())
+        assertEquals(app.youtop.data.SyncState.Done(books = 2, failed = 2), repo.sync.value)
+
+        // The kept copy still opens, the duplicate lesson is gone, and questions that cannot be asked are dropped.
+        val items = repo.books.value.flatten()
+        assertEquals("Question 1", repo.lesson(items.single { it.key == "two/c/q1" })!!.title)
+        assertEquals(listOf("one/c/q1", "one/c/q2"), items.filter { it.book.id == "one" }.map { it.key })
+        assertEquals("Question 1", repo.lesson(items.first { it.key == "one/c/q1" })!!.title)
+        val q2 = items.single { it.key == "one/c/q2" }
+        assertEquals(1, q2.lesson.questions)
+        assertEquals(listOf("Usable?"), repo.lesson(q2)!!.quiz.map { it.q })
+
+        // Everything unreadable: a failed sync that changes nothing.
+        files["one-2.json"] = null
+        files["catalog.json"] = ContentJson.encodeToString(Catalog(listOf(BookRef("two", "gh:two-2.json"))))
+        assertFalse(repo.sync(null, downloadMedia = false))
+        assertEquals(mapOf("one" to "One, second edition", "two" to "Two"), titles())
+    }
 }

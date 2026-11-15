@@ -77,9 +77,11 @@ There is no device. `tools/build.sh` runs:
 - `SchedulerTest` — the spaced-repetition rules.
 - `ScaleTest` — syncs a made-up 5,500-lesson book and fails if anything done per swipe gets slow.
 - `ContentTest` — the bundled starter book and the Drive folder parser.
-- `GitHubSyncTest` — sync from a pretend GitHub, the fall-back to Drive, and `gh:` media.
+- `GitHubSyncTest` — sync from a pretend GitHub, the fall-back to Drive, `gh:` media, and a damaged
+  book that must not stop the other books or lose the copy on the phone.
+- `DashboardTest` — the dashboard's numbers, the lesson search and the backup file.
 - `ScreensTest` — starts the real activity under Robolectric, taps through it and saves a picture
-  of each screen to `app/build/screens/`. **Look at those pictures** after any UI change; it is the
+  of each screen to `app/build/screens/` (English, and the main pages again in Arabic). **Look at those pictures** after any UI change; it is the
   only way to see the app. Add a step there for any new screen.
 
 The bundled starter book has no quotation and no question figure. To see real lessons, put a
@@ -106,12 +108,21 @@ something looks wrong on theirs.
 - `MainViewModel.kt` — the feed queue and everything the screens call.
 - `ui/Theme.kt` (colours and the two typefaces: IBM Plex Sans Arabic for the interface, Amiri for
   stories and quotations; both under the Open Font License, texts in `assets/licenses`).
-- `ui/FeedScreen.kt` (the feed and one lesson), `Spotlight.kt` (spotlight on the whole picture, never zoomed),
-  `QuizOverlay.kt` (question over the picture), `BooksTab.kt`, `TopicsTab.kt` (tag tree and focus),
-  `StudyTab.kt`, `LibraryScreen.kt`.
+- `ui/FeedScreen.kt` (the feed and one lesson, and what the feed says when it is empty),
+  `Spotlight.kt` (spotlight on the whole picture, never zoomed), `QuizOverlay.kt` (question over the picture).
+- `ui/LibraryScreen.kt` — the library: five pages behind a bar at the bottom.
+  `HomeTab.kt` (the dashboard; its numbers come from `study/Dashboard.kt`), `BooksTab.kt` (shelf,
+  search over all lessons, a book's chapters), `TopicsTab.kt` (tag tree and focus), saved lessons,
+  `SettingsTab.kt` (pace, lesson behaviour, sync, backup, advanced timing). `Parts.kt` holds the
+  shared pieces (cards, switches, buttons); use them for anything new so pages keep one look.
+- `data/Backup.kt` — the learning history as a file the owner saves and restores from Settings.
 
 Keep new fields in `Models.kt` optional with defaults, so older content keeps loading, and keep
-`StudySettings` / `CardState` backwards compatible, so stored progress keeps loading.
+`StudySettings` / `CardState` / `Progress` backwards compatible, so stored progress and backup files
+keep loading. Content is never trusted: a book that cannot be read is skipped (the copy on the phone
+stays), repeated ids are dropped, and a question without a valid answer is not asked
+(`Lesson.clean()`); keep it that way when the format grows. Every text the owner sees is in
+`res/values/strings.xml` and `res/values-ar/strings.xml`; add both.
 
 ## Updating content (no APK needed)
 

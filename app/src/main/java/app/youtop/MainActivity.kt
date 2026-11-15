@@ -33,6 +33,7 @@ import androidx.lifecycle.Lifecycle
 import androidx.lifecycle.compose.LifecycleEventEffect
 import app.youtop.ui.FeedScreen
 import app.youtop.ui.LibraryScreen
+import app.youtop.ui.LibraryTab
 
 class MainActivity : ComponentActivity() {
     private val vm: MainViewModel by viewModels()
@@ -49,6 +50,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             YouTopTheme {
                 var libraryOpen by rememberSaveable { mutableStateOf(false) }
+                var libraryTab by rememberSaveable { mutableStateOf(LibraryTab.HOME) }
 
                 LifecycleEventEffect(Lifecycle.Event.ON_START) { vm.onForeground() }
                 LifecycleEventEffect(Lifecycle.Event.ON_STOP) { vm.onBackground() }
@@ -64,13 +66,13 @@ class MainActivity : ComponentActivity() {
                 }
 
                 Box(Modifier.fillMaxSize()) {
-                    FeedScreen(vm, onOpenLibrary = { vm.narrator.pause(); libraryOpen = true })
+                    FeedScreen(vm, onOpenLibrary = { tab -> vm.narrator.pause(); tab?.let { libraryTab = it }; libraryOpen = true })
                     AnimatedVisibility(
                         visible = libraryOpen,
                         enter = slideInVertically(tween(280)) { it / 6 } + fadeIn(tween(200)),
                         exit = slideOutVertically(tween(220)) { it / 6 } + fadeOut(tween(180)),
                     ) {
-                        LibraryScreen(vm, onClose = { libraryOpen = false })
+                        LibraryScreen(vm, libraryTab, { libraryTab = it }, onClose = { libraryOpen = false })
                     }
                 }
                 BackHandler(enabled = libraryOpen) { libraryOpen = false }
