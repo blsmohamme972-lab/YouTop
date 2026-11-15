@@ -72,6 +72,11 @@ There is no device. `tools/build.sh` runs:
   of each screen to `app/build/screens/`. **Look at those pictures** after any UI change; it is the
   only way to see the app. Add a step there for any new screen.
 
+The bundled starter book has no quotation and no question figure. To see real lessons, put a
+book file and its pictures under `app/src/main/assets/seed/` for a moment (pictures as
+`asset:seed/...`), drive it from a throw-away test, look, and delete both again. **Never commit
+book text**: the repository is public.
+
 Say plainly to the owner that the app was not run on a real phone, and ask for a screenshot if
 something looks wrong on theirs.
 
@@ -86,7 +91,9 @@ something looks wrong on theirs.
   `study/Progress.kt` — stores each lesson's memory state on the phone.
 - `player/Narrator.kt` — plays a narration from an audio file, or the phone's voice, or silently.
 - `MainViewModel.kt` — the feed queue and everything the screens call.
-- `ui/FeedScreen.kt` (the feed and one lesson), `Spotlight.kt` (camera over the picture),
+- `ui/Theme.kt` (colours and the two typefaces: IBM Plex Sans Arabic for the interface, Amiri for
+  stories and quotations; both under the Open Font License, texts in `assets/licenses`).
+- `ui/FeedScreen.kt` (the feed and one lesson), `Spotlight.kt` (spotlight on the whole picture, never zoomed),
   `QuizOverlay.kt` (question over the picture), `BooksTab.kt`, `TopicsTab.kt` (tag tree and focus),
   `StudyTab.kt`, `LibraryScreen.kt`.
 
@@ -109,6 +116,9 @@ under `book/chapter/lesson` on their phone.
 - Kotlin + Jetpack Compose, single activity, no login, no backend other than the Drive folder.
 - Ratings are inferred, never asked: right answer = good (fast = easy), wrong = again, watched
   without answering = hard, quick swipe = nothing.
+- The picture is never zoomed or cropped; only a spotlight moves over it, in step with the voice.
+- The Arabic story is a real story with no medical explanation in it; the science is in the
+  English explanation (see `docs/content-guide.md`, "The story is a story").
 - Each lesson plays story → explanation → question → next lesson automatically. "Question first"
   in Library → Study skips straight to the question.
 - The app is for the owner's personal use and is meant to be as engaging as possible.

@@ -55,11 +55,7 @@ import app.youtop.R
 import app.youtop.data.Lesson
 import app.youtop.data.Question
 
-private val SheetColor = Color(0xF214161B)
-private val Good = Color(0xFF4ADE80)
-private val Bad = Color(0xFFF87171)
-private val Faint = Color.White.copy(alpha = 0.6f)
-private val ContentDirection = TextStyle(textDirection = TextDirection.Content)
+private val SheetColor = Surface1.copy(alpha = 0.97f)
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
@@ -72,6 +68,9 @@ fun TranscriptSheet(
     onDismiss: () -> Unit,
 ) {
     val track = lesson.tracks[trackIndex]
+    val rtl = isRtl(track.lang)
+    val direction = TextStyle(fontFamily = Ui, textDirection = if (rtl) TextDirection.Rtl else TextDirection.Ltr)
+    val reading = if (rtl && track.kind == "story") direction.copy(fontFamily = Literary) else direction
     val listState = rememberLazyListState()
     LaunchedEffect(currentSegment, trackIndex) {
         if (currentSegment > 0) listState.animateScrollToItem((currentSegment - 1).coerceAtLeast(0))
@@ -86,7 +85,7 @@ fun TranscriptSheet(
         Column(Modifier.fillMaxWidth().padding(horizontal = 20.dp)) {
             Text(
                 (if (isRtl(track.lang)) lesson.titleAr else null) ?: lesson.title,
-                style = ContentDirection, fontSize = 20.sp, fontWeight = FontWeight.Bold, modifier = Modifier.fillMaxWidth(),
+                style = direction, fontSize = 20.sp, fontWeight = FontWeight.SemiBold, modifier = Modifier.fillMaxWidth(),
             )
             if (lesson.tracks.size > 1) {
                 Row(Modifier.padding(top = 10.dp), horizontalArrangement = Arrangement.spacedBy(8.dp)) {
@@ -94,10 +93,10 @@ fun TranscriptSheet(
                         val selected = i == trackIndex
                         Text(
                             trackLabel(t),
-                            color = if (selected) Color.Black else Color.White,
-                            fontSize = 13.sp, fontWeight = FontWeight.Medium,
+                            color = if (selected) OnAccent else Color.White,
+                            fontSize = 13.sp, fontWeight = FontWeight.SemiBold,
                             modifier = Modifier.clip(CircleShape)
-                                .background(if (selected) Color.White else Color.White.copy(alpha = 0.12f))
+                                .background(if (selected) Accent else Color.White.copy(alpha = 0.12f))
                                 .clickable { onSelectTrack(i) }
                                 .padding(horizontal = 14.dp, vertical = 6.dp),
                         )
@@ -108,15 +107,23 @@ fun TranscriptSheet(
             LazyColumn(state = listState, modifier = Modifier.fillMaxWidth().navigationBarsPadding()) {
                 itemsIndexed(track.segments) { i, segment ->
                     val current = i == currentSegment
-                    Text(
-                        segment.text,
-                        style = ContentDirection,
-                        fontSize = 17.sp, lineHeight = 28.sp,
-                        fontWeight = if (current) FontWeight.SemiBold else FontWeight.Normal,
-                        color = if (current) Accent else Color.White.copy(alpha = 0.9f),
-                        modifier = Modifier.fillMaxWidth().clip(RoundedCornerShape(8.dp))
+                    val literary = reading.fontFamily === Literary
+                    Column(
+                        Modifier.fillMaxWidth().clip(RoundedCornerShape(8.dp))
                             .clickable { onSeek(i) }.padding(vertical = 7.dp, horizontal = 4.dp),
-                    )
+                    ) {
+                        Text(
+                            segment.text,
+                            style = reading,
+                            fontSize = if (literary) 20.sp else 17.sp, lineHeight = if (literary) 34.sp else 28.sp,
+                            fontWeight = if (current || segment.quote != null) (if (literary) FontWeight.Bold else FontWeight.SemiBold) else FontWeight.Normal,
+                            color = if (current) Accent else Color.White.copy(alpha = 0.9f),
+                            modifier = Modifier.fillMaxWidth(),
+                        )
+                        segment.quote?.let {
+                            Text(it, style = direction, fontSize = 13.sp, color = Faint, modifier = Modifier.fillMaxWidth().padding(top = 2.dp))
+                        }
+                    }
                 }
                 item { Spacer(Modifier.height(24.dp)) }
             }

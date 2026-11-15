@@ -62,6 +62,11 @@ def check_lesson(lesson, where, strict_tags=True):
             spot = seg.get("spot")
             if spot and not (0 <= spot.get("x", -1) <= 1 and 0 <= spot.get("y", -1) <= 1 and 0.03 <= spot.get("r", 0.15) <= 0.6):
                 bad(where, f"{kind} segment {i} spot is outside the picture or has a bad radius")
+            quote = seg.get("quote")
+            if quote is not None and not (isinstance(quote, str) and quote.strip()):
+                bad(where, f"{kind} segment {i} has an empty 'quote' (it is the quotation's source, e.g. author and work)")
+            if quote and i != len(segments) - 1:
+                bad(where, f"{kind} segment {i} is a quotation but not the last sentence of the track")
             if spot and not image:
                 bad(where, f"{kind} segment {i} has a spot but the lesson has no image")
             if audio:
@@ -77,6 +82,9 @@ def check_lesson(lesson, where, strict_tags=True):
             bad(where, f"question {i} answer index is out of range")
         if len(set(options)) != len(options):
             bad(where, f"question {i} has duplicate options")
+        figure = q.get("image")
+        if figure is not None and not (isinstance(figure, str) and MEDIA.fullmatch(figure)):
+            bad(where, f"question {i} image '{figure}' is not drive:<id of the PUBLIC copy>, asset:<path> or https://")
 
 def check_lessons(lessons, where, strict):
     seen = set()

@@ -84,7 +84,11 @@ import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import app.youtop.FeedEntry
 import app.youtop.MainViewModel
 import app.youtop.R
+import android.content.Intent
+import androidx.activity.compose.BackHandler
+import androidx.compose.ui.platform.LocalContext
 import app.youtop.data.Lesson
+import app.youtop.data.Segment
 import app.youtop.data.SyncState
 import app.youtop.data.Track
 import app.youtop.player.NarrationMode
@@ -112,7 +116,7 @@ fun FeedScreen(vm: MainViewModel, onOpenLibrary: () -> Unit) {
         }
     }
 
-    Box(Modifier.fillMaxSize().background(Color.Black)) {
+    Box(Modifier.fillMaxSize().background(Ink)) {
         if (queue.isEmpty()) {
             if (loaded) {
                 Text(
@@ -134,7 +138,8 @@ fun FeedScreen(vm: MainViewModel, onOpenLibrary: () -> Unit) {
                     entry = entry,
                     active = page == pagerState.settledPage,
                     vm = vm,
-                    onNext = { scope.launch { if (page + 1 < queue.size) pagerState.animateScrollToPage(page + 1) } },
+                    // Nothing moves on while the library covers the feed.
+                    onNext = { if (!vm.covered) scope.launch { if (page + 1 < queue.size) pagerState.animateScrollToPage(page + 1) } },
                 )
             }
         }
@@ -154,7 +159,7 @@ fun FeedScreen(vm: MainViewModel, onOpenLibrary: () -> Unit) {
         if (finished && pagerState.settledPage >= queue.lastIndex && queue.isNotEmpty()) {
             Text(
                 stringResource(R.string.done_today),
-                color = Color.Black, fontSize = 12.sp, fontWeight = FontWeight.SemiBold,
+                color = OnAccent, fontSize = 12.sp, fontWeight = FontWeight.SemiBold,
                 modifier = Modifier.align(Alignment.TopCenter).statusBarsPadding().padding(top = 14.dp)
                     .clip(CircleShape).background(Accent).padding(horizontal = 12.dp, vertical = 5.dp),
             )
@@ -201,7 +206,8 @@ private fun LessonPage(entry: FeedEntry, active: Boolean, vm: MainViewModel, onN
     val item = entry.item
     val info = item.lesson
     // The title and picture are known at once; narration and questions are read from disk.
-    val full by produceState<Lesson?>(null, item.key) { value = vm.lesson(item) }
+    // Keyed on the chapter file too: after a sync replaces it, the page reads the new text.
+    val full by produceState<Lesson?>(null, item.key, item.chapter.source) { value = vm.lesson(item) }
     val lesson = full ?: Lesson(id = info.id, title = info.title, titleAr = info.titleAr, image = info.image, tags = info.tags)
     val trackIndex = (vm.trackChoice[entry.id] ?: 0).coerceIn(0, (lesson.tracks.size - 1).coerceAtLeast(0))
     val track = lesson.tracks.getOrNull(trackIndex)
@@ -225,6 +231,8 @@ private fun LessonPage(entry: FeedEntry, active: Boolean, vm: MainViewModel, onN
     val taxonomy by vm.taxonomy.collectAsStateWithLifecycle()
     val questionFirst = study.questionFirst && info.questions > 0
     var showQuiz by remember { mutableStateOf(false) }
+    // Kept here, not inside the overlay, so a question stays answered when it is closed and reopened.
+    val quiz = remember { QuizState() }
     // Set once the learner has chosen to watch, so "question first" does not cover the video again.
     var watching by remember { mutableStateOf(false) }
     var showTranscript by rememberSaveable { mutableStateOf(false) }
@@ -263,7 +271,7 @@ private fun LessonPage(entry: FeedEntry, active: Boolean, vm: MainViewModel, onN
             return@LaunchedEffect
         }
         log.finishedNarration = true
-        if (lesson.quiz.isNotEmpty()) {
+        if (lesson.quiz.isNotEmpty() && !quiz.done) {
             if (study.autoContinue) showQuiz = true
         } else if (study.autoAdvance) {
             delay(1200)
@@ -274,10 +282,17 @@ private fun LessonPage(entry: FeedEntry, active: Boolean, vm: MainViewModel, onN
     val segment = track?.segments?.getOrNull(segmentIndex)
     val spot = if (mine && !ended && !showQuiz) segment?.spot else null
     val rtl = track?.let { isRtl(it.lang) } ?: false
+    val context = LocalContext.current
+
+    // Back closes an open question instead of leaving the app.
+    BackHandler(enabled = active && showQuiz && !vm.covered) { vm.narrator.stopSaying(); showQuiz = false }
+
+    // The picture is downloaded once into the app's own store and shown from there.
+    val picture = rememberLocalImage(vm.media, lesson.image)
 
     Box(Modifier.fillMaxSize()) {
         SpotlightImage(
-            model = remember(lesson.image) { vm.media.imageModel(lesson.image) },
+            model = picture,
             spot = spot,
             seed = item.key.hashCode(),
             modifier = Modifier
@@ -287,32 +302,37 @@ private fun LessonPage(entry: FeedEntry, active: Boolean, vm: MainViewModel, onN
 
         // Soft shading behind the floating text and buttons.
         Box(
-            Modifier.fillMaxWidth().height(150.dp).align(Alignment.TopCenter)
-                .background(Brush.verticalGradient(listOf(Color.Black.copy(alpha = 0.45f), Color.Transparent)))
+            Modifier.fillMaxWidth().height(170.dp).align(Alignment.TopCenter)
+                .background(Brush.verticalGradient(listOf(Ink.copy(alpha = 0.62f), Color.Transparent)))
         )
         Box(
-            Modifier.fillMaxWidth().height(300.dp).align(Alignment.BottomCenter)
-                .background(Brush.verticalGradient(listOf(Color.Transparent, Color.Black.copy(alpha = 0.70f))))
+            Modifier.fillMaxWidth().height(340.dp).align(Alignment.BottomCenter)
+                .background(Brush.verticalGradient(0f to Color.Transparent, 0.55f to Ink.copy(alpha = 0.62f), 1f to Ink.copy(alpha = 0.86f)))
         )
 
         // Title and story / explanation switch.
+        // Hidden while a question is open: the question has its own buttons up there.
+        AnimatedVisibility(
+            visible = !showQuiz, enter = fadeIn(tween(200)), exit = fadeOut(tween(150)),
+            modifier = Modifier.align(Alignment.TopStart),
+        ) {
         Column(
-            Modifier.align(Alignment.TopStart).statusBarsPadding().padding(start = 16.dp, top = 10.dp, end = 72.dp),
+            Modifier.statusBarsPadding().padding(start = 16.dp, top = 10.dp, end = 72.dp),
             verticalArrangement = Arrangement.spacedBy(8.dp),
         ) {
             Text(
                 (if (rtl) lesson.titleAr else null) ?: lesson.title,
                 color = Color.White,
-                style = TextStyle(fontSize = 15.sp, fontWeight = FontWeight.SemiBold, shadow = TextShadow),
+                style = TextStyle(fontFamily = Ui, fontSize = 17.sp, fontWeight = FontWeight.SemiBold, shadow = TextShadow),
                 maxLines = 1,
                 overflow = TextOverflow.Ellipsis,
             )
             val topic = Tags.mainTopic(info.tags)?.let { taxonomy.titles[it] }
             if (topic != null) {
                 Text(
-                    topic,
-                    color = Color.White.copy(alpha = 0.8f),
-                    style = TextStyle(fontSize = 11.sp, shadow = TextShadow),
+                    topic.uppercase(),
+                    color = Accent,
+                    style = TextStyle(fontFamily = Ui, fontSize = 11.sp, fontWeight = FontWeight.SemiBold, letterSpacing = 0.8.sp, shadow = TextShadow),
                     maxLines = 1, overflow = TextOverflow.Ellipsis,
                 )
             }
@@ -322,25 +342,34 @@ private fun LessonPage(entry: FeedEntry, active: Boolean, vm: MainViewModel, onN
                         val selected = i == trackIndex
                         Text(
                             trackLabel(t),
-                            color = if (selected) Color.Black else Color.White,
-                            fontSize = 12.sp,
-                            fontWeight = FontWeight.Medium,
+                            color = if (selected) OnAccent else Color.White,
+                            fontSize = 13.sp,
+                            fontWeight = FontWeight.SemiBold,
                             modifier = Modifier
                                 .clip(CircleShape)
-                                .background(if (selected) Color.White else Color.Transparent)
+                                .background(if (selected) Accent else Color.Transparent)
                                 .clickable { vm.selectTrack(entry, i) }
-                                .padding(horizontal = 12.dp, vertical = 5.dp),
+                                .padding(horizontal = 14.dp, vertical = 6.dp),
                         )
                     }
                 }
             }
             if (mine && mode == NarrationMode.TEXT) {
+                // No voice for this language on the phone: one tap opens the phone's voice settings.
                 Text(
                     stringResource(R.string.voice_missing),
-                    color = Color.White.copy(alpha = 0.85f),
-                    style = TextStyle(fontSize = 11.sp, shadow = TextShadow),
+                    color = Color.White.copy(alpha = 0.9f),
+                    style = TextStyle(fontFamily = Ui, fontSize = 12.sp, lineHeight = 17.sp, shadow = TextShadow),
+                    modifier = Modifier.clip(RoundedCornerShape(10.dp)).background(Glass)
+                        .clickable {
+                            runCatching {
+                                context.startActivity(Intent("com.android.settings.TTS_SETTINGS").addFlags(Intent.FLAG_ACTIVITY_NEW_TASK))
+                            }
+                        }
+                        .padding(horizontal = 10.dp, vertical = 6.dp),
                 )
             }
+        }
         }
 
         // Paused indicator.
@@ -403,23 +432,11 @@ private fun LessonPage(entry: FeedEntry, active: Boolean, vm: MainViewModel, onN
                 if (track != null) {
                     Column(Modifier.align(Alignment.BottomStart).fillMaxWidth().navigationBarsPadding()) {
                         AnimatedContent(
-                            targetState = segment?.text ?: track.segments.firstOrNull()?.text.orEmpty(),
+                            targetState = segment ?: track.segments.firstOrNull(),
                             transitionSpec = { fadeIn(tween(220)) togetherWith fadeOut(tween(160)) },
                             label = "caption",
                             modifier = Modifier.fillMaxWidth().padding(start = 16.dp, end = 70.dp),
-                        ) { text ->
-                            Text(
-                                text,
-                                color = Color.White,
-                                style = TextStyle(
-                                    fontSize = 17.sp, lineHeight = 26.sp, fontWeight = FontWeight.Medium,
-                                    shadow = TextShadow, textDirection = TextDirection.Content,
-                                ),
-                                maxLines = 5,
-                                overflow = TextOverflow.Ellipsis,
-                                modifier = Modifier.fillMaxWidth(),
-                            )
-                        }
+                        ) { shown -> Caption(shown, track) }
                         Spacer(Modifier.height(6.dp))
                         Row(
                             Modifier.fillMaxWidth().padding(horizontal = 8.dp).padding(bottom = 6.dp),
@@ -448,6 +465,8 @@ private fun LessonPage(entry: FeedEntry, active: Boolean, vm: MainViewModel, onN
         ) {
             QuizOverlay(
                 questions = lesson.quiz,
+                state = quiz,
+                media = vm.media,
                 shuffle = study.shuffleOptions,
                 autoAdvance = study.autoAdvance,
                 speak = study.speakQuiz,
@@ -479,6 +498,61 @@ private fun LessonPage(entry: FeedEntry, active: Boolean, vm: MainViewModel, onN
             onSelectTrack = { vm.selectTrack(entry, it) },
             onSeek = { vm.narrator.seekToSegment(it) },
             onDismiss = { showTranscript = false },
+        )
+    }
+}
+
+/**
+ * The sentence being spoken. A story is set in the book face; the quotation that closes it stands
+ * alone, centred, with where it is from underneath. Direction follows the track's language, not
+ * the first letter, so an Arabic sentence that opens with an English term still reads right to left.
+ */
+@Composable
+private fun Caption(segment: Segment?, track: Track) {
+    val rtl = isRtl(track.lang)
+    val direction = if (rtl) TextDirection.Rtl else TextDirection.Ltr
+    val literary = rtl && track.kind == "story"
+    val source = segment?.quote
+    if (segment != null && source != null) {
+        Column(
+            Modifier.fillMaxWidth().padding(bottom = 4.dp),
+            horizontalAlignment = Alignment.CenterHorizontally,
+            verticalArrangement = Arrangement.spacedBy(8.dp),
+        ) {
+            Text(
+                segment.text,
+                color = Color.White,
+                style = TextStyle(
+                    fontFamily = if (rtl) Literary else Ui, fontSize = 23.sp, lineHeight = 38.sp, fontWeight = FontWeight.Bold,
+                    shadow = TextShadow, textDirection = direction, textAlign = TextAlign.Center,
+                ),
+                modifier = Modifier.fillMaxWidth(),
+            )
+            Box(Modifier.width(40.dp).height(2.dp).clip(CircleShape).background(Accent))
+            Text(
+                source,
+                color = Accent,
+                style = TextStyle(
+                    fontFamily = Ui, fontSize = 13.sp, lineHeight = 19.sp, fontWeight = FontWeight.Medium,
+                    shadow = TextShadow, textDirection = direction, textAlign = TextAlign.Center,
+                ),
+                modifier = Modifier.fillMaxWidth(),
+            )
+        }
+    } else {
+        Text(
+            segment?.text.orEmpty(),
+            color = Color.White,
+            style = TextStyle(
+                fontFamily = if (literary) Literary else Ui,
+                fontSize = if (literary) 21.sp else 17.sp,
+                lineHeight = if (literary) 35.sp else 26.sp,
+                fontWeight = if (literary) FontWeight.Bold else FontWeight.Medium,
+                shadow = TextShadow, textDirection = direction,
+            ),
+            maxLines = 6,
+            overflow = TextOverflow.Ellipsis,
+            modifier = Modifier.fillMaxWidth(),
         )
     }
 }

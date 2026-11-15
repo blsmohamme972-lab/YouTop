@@ -27,6 +27,9 @@ import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.SharingStarted
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.distinctUntilChanged
+import androidx.compose.runtime.getValue
+import androidx.compose.runtime.setValue
+import androidx.compose.runtime.mutableStateOf
 import kotlinx.coroutines.flow.first
 import kotlinx.coroutines.flow.map
 import kotlinx.coroutines.flow.stateIn
@@ -73,6 +76,9 @@ class MainViewModel(app: Application) : AndroidViewModel(app) {
     /** Which narration (story / explanation) is playing for each feed entry. */
     val trackChoice = mutableStateMapOf<Long, Int>()
 
+    /** True while the library covers the feed: nothing should start playing or move on underneath it. */
+    var covered by mutableStateOf(false)
+
     /** Feed positions the pager should scroll to. */
     val jumps = MutableSharedFlow<Int>(extraBufferCapacity = 1)
 
@@ -96,6 +102,12 @@ class MainViewModel(app: Application) : AndroidViewModel(app) {
             loaded.value = true
             // Rebuild what lies ahead whenever the books or the set of books in the feed change.
             launch { repo.books.collect { lessons = it.flatten(); replan() } }
+            // A changed pace or "when nothing is due" may allow another lesson right away.
+            // (Books and topics are handled by the collector below, which rebuilds the pool first.)
+            launch {
+                settings.map { it.study.copy(excludedBooks = emptySet(), focus = emptySet()) }.distinctUntilChanged()
+                    .collect { extendQueue(if (queue.isEmpty()) -1 else currentIndex) }
+            }
             launch { prefs.settings.map { it.study.excludedBooks to it.study.focus }.distinctUntilChanged().collect { settings.first { s -> s.study.focus == it.second && s.study.excludedBooks == it.first }; replan() } }
         }
     }
@@ -162,7 +174,7 @@ class MainViewModel(app: Application) : AndroidViewModel(app) {
     private fun preload(item: FeedItem) {
         viewModelScope.launch(Dispatchers.IO) {
             repo.lesson(item)
-            (listOfNotNull(item.lesson.image) + item.lesson.audio).forEach { runCatching { media.fetch(it) } }
+            (listOfNotNull(item.lesson.image) + item.lesson.audio + item.lesson.figures).forEach { runCatching { media.fetch(it) } }
         }
     }
 
@@ -182,7 +194,22 @@ class MainViewModel(app: Application) : AndroidViewModel(app) {
         val entry = queue.getOrNull(index) ?: return narrator.unload()
         extendQueue(index)
         // With "question first" the lesson opens on its question and stays silent until asked.
-        play(entry, autoPlay = !(study().questionFirst && entry.item.lesson.questions > 0))
+        play(entry, autoPlay = !covered && !(study().questionFirst && entry.item.lesson.questions > 0))
+    }
+
+    /** The app came back to the screen. */
+    fun onForeground() {
+        store.rollDay()
+        if (loaded.value) extendQueue(if (queue.isEmpty()) -1 else currentIndex)
+        startAutoSync()
+    }
+
+    /** The app left the screen. */
+    fun onBackground() {
+        stopAutoSync()
+        narrator.pause()
+        narrator.stopSaying()
+        store.flush()
     }
 
     private fun play(entry: FeedEntry, autoPlay: Boolean = true) {
@@ -250,7 +277,7 @@ class MainViewModel(app: Application) : AndroidViewModel(app) {
     // ---- sync ------------------------------------------------------------
 
     fun syncNow() = viewModelScope.launch {
-        val s = settings.value
+        val s = prefs.settings.first() // not settings.value: a link pasted a moment ago may not have reached it yet
         val folder = DriveClient.parseFolderId(s.driveFolder) ?: return@launch
         if (repo.sync(folder, s.offlineDownload)) prefs.setLastSync(System.currentTimeMillis())
     }
@@ -287,6 +314,7 @@ class MainViewModel(app: Application) : AndroidViewModel(app) {
     }
 
     override fun onCleared() {
+        store.flush()
         narrator.release()
     }
 

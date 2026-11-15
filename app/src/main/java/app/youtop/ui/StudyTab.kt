@@ -56,7 +56,6 @@ import app.youtop.study.StudySettings
 import app.youtop.study.Tags
 import kotlin.math.roundToInt
 
-private val Faint = Color.White.copy(alpha = 0.6f)
 
 /** How the feed paces new lessons and reviews. Presets cover most needs; every number can also be set by hand. */
 @Composable
@@ -165,10 +164,10 @@ private fun Label(text: String) = Text(text, color = Faint, fontSize = 13.sp, mo
 private fun Chip(text: String, selected: Boolean, onClick: () -> Unit) {
     Text(
         text,
-        color = if (selected) Color.Black else Color.White,
-        fontSize = 14.sp, fontWeight = FontWeight.Medium,
+        color = if (selected) OnAccent else Color.White,
+        fontSize = 14.sp, fontWeight = FontWeight.SemiBold,
         modifier = Modifier.clip(CircleShape)
-            .background(if (selected) Color.White else Color.White.copy(alpha = 0.10f))
+            .background(if (selected) Accent else Color.White.copy(alpha = 0.09f))
             .clickable(onClick = onClick)
             .padding(horizontal = 14.dp, vertical = 7.dp),
     )

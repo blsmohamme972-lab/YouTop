@@ -74,7 +74,13 @@ data class Track(
  * [spot] is what the camera points at while it is spoken.
  */
 @Serializable
-data class Segment(val text: String, val t: Long? = null, val spot: Spot? = null)
+data class Segment(
+    val text: String,
+    val t: Long? = null,
+    val spot: Spot? = null,
+    /** Set when [text] is a quotation: where it is from, e.g. "دوستويفسكي، الجريمة والعقاب". Shown under it. */
+    val quote: String? = null,
+)
 
 /** Region of the image: centre [x],[y] as fractions of image width/height, radius [r] as a fraction of image width. */
 @Serializable
@@ -89,6 +95,8 @@ data class Question(
     val lang: String = "en",
     /** Where the question comes from, e.g. "p. 42, Q17". Shown small under the question. */
     val source: String? = null,
+    /** A figure the stem refers to ("the ECG shown below"), same reference format as lesson images. */
+    val image: String? = null,
 )
 
 // ---- What the app keeps in memory ------------------------------------------
@@ -104,6 +112,8 @@ data class LessonInfo(
     val tags: List<String> = emptyList(),
     val questions: Int = 0,
     val audio: List<String> = emptyList(),
+    /** Figures of the lesson's questions, so they are downloaded and kept with the lesson. */
+    val figures: List<String> = emptyList(),
 )
 
 /** [source] says where the full lessons are: `asset:<path>`, `book:<fileId>` or `chapter:<fileId>`. */
@@ -129,7 +139,7 @@ data class BookInfo(
 @Serializable
 data class LibraryIndex(val books: List<BookInfo> = emptyList())
 
-fun Lesson.info() = LessonInfo(id, title, titleAr, image, tags, quiz.size, tracks.mapNotNull { it.audio })
+fun Lesson.info() = LessonInfo(id, title, titleAr, image, tags, quiz.size, tracks.mapNotNull { it.audio }, quiz.mapNotNull { it.image })
 
 data class FeedItem(val book: BookInfo, val chapter: ChapterInfo, val lesson: LessonInfo) {
     val key: String = "${book.id}/${chapter.id}/${lesson.id}"
@@ -139,7 +149,7 @@ fun List<BookInfo>.flatten(): List<FeedItem> =
     flatMap { b -> b.chapters.flatMap { c -> c.lessons.map { FeedItem(b, c, it) } } }
 
 fun BookInfo.mediaRefs(): List<String> =
-    listOfNotNull(cover) + chapters.flatMap { c -> c.lessons.flatMap { listOfNotNull(it.image) + it.audio } }
+    listOfNotNull(cover) + chapters.flatMap { c -> c.lessons.flatMap { listOfNotNull(it.image) + it.audio + it.figures } }
 
 // ---- Tag system --------------------------------------------------------------
 

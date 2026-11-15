@@ -18,6 +18,7 @@ import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
+import androidx.compose.ui.BiasAlignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.blur
 import androidx.compose.ui.draw.clipToBounds
@@ -40,6 +41,9 @@ private val Palettes = listOf(
     listOf(Color(0xFF05263B), Color(0xFF0077B6), Color(0xFF90E0EF)),
     listOf(Color(0xFF10241A), Color(0xFF2D6A4F), Color(0xFFB7E4C7)),
 )
+
+/** Where the picture sits between the top (-1) and the bottom (1): a little high, so the caption has room under it. */
+private const val PictureBias = -0.24f
 
 /**
  * Lesson image with a spotlight on the region being narrated. The whole picture is always
@@ -65,7 +69,7 @@ fun SpotlightImage(model: Any?, spot: Spot?, seed: Int, modifier: Modifier = Mod
         val drawnW = iw * fit
         val drawnH = ih * fit
         val left = (w - drawnW) / 2f
-        val top = (h - drawnH) / 2f
+        val top = (h - drawnH) * (1f + PictureBias) / 2f
 
         val glide = tween<Float>(durationMillis = 450, easing = FastOutSlowInEasing)
         val cx by animateFloatAsState(left + last.x * drawnW, glide, label = "cx")
@@ -89,11 +93,12 @@ fun SpotlightImage(model: Any?, spot: Spot?, seed: Int, modifier: Modifier = Mod
                     contentScale = ContentScale.Crop,
                     modifier = Modifier.fillMaxSize().blur(28.dp),
                 )
-                Box(Modifier.fillMaxSize().background(Color.Black.copy(alpha = 0.6f)))
+                Box(Modifier.fillMaxSize().background(Ink.copy(alpha = 0.66f)))
                 AsyncImage(
                     model = model,
                     contentDescription = null,
                     contentScale = ContentScale.Fit,
+                    alignment = BiasAlignment(0f, PictureBias),
                     modifier = Modifier.fillMaxSize(),
                     onSuccess = { intrinsic = it.painter.intrinsicSize },
                 )
@@ -106,7 +111,7 @@ fun SpotlightImage(model: Any?, spot: Spot?, seed: Int, modifier: Modifier = Mod
                     Brush.radialGradient(
                         0f to Color.Transparent,
                         0.72f to Color.Transparent,
-                        1f to Color.Black.copy(alpha = 0.62f * dim),
+                        1f to Color.Black.copy(alpha = 0.52f * dim),
                         center = center,
                         radius = radius * 1.4f,
                     )

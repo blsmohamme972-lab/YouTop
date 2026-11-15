@@ -2,11 +2,27 @@ package app.youtop.data
 
 import android.content.Context
 import android.net.Uri
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.withContext
 import java.io.File
+import java.util.concurrent.ConcurrentHashMap
+import kotlin.concurrent.thread
 
-/** Persistent store for images and audio downloaded from Drive, so lessons work offline. */
+/**
+ * Persistent store for images and audio downloaded from Drive, so lessons work offline.
+ * Kept out of Android's backup: the backup has a small size limit, and once pictures push it
+ * over that limit the learning progress would silently stop being backed up too.
+ */
 class MediaCache(context: Context, private val drive: DriveClient) {
-    private val dir = File(context.filesDir, "media").apply { mkdirs() }
+    private val dir = File(context.noBackupFilesDir, "media").also { dir ->
+        // Up to version 1.5 pictures lived in the backed-up files folder. Take them along
+        // (same disk, so this is an instant rename) rather than download everything again.
+        val old = File(context.filesDir, "media")
+        if (old.isDirectory && !dir.exists()) old.renameTo(dir)
+        dir.mkdirs()
+        if (old.exists()) thread { old.deleteRecursively() }
+    }
+    private val locks = ConcurrentHashMap<String, Any>()
 
     private fun driveId(ref: String) = ref.removePrefix("drive:").takeIf { ref.startsWith("drive:") }
 
@@ -25,6 +41,26 @@ class MediaCache(context: Context, private val drive: DriveClient) {
         else -> ref
     }
 
+    /** Like [imageModel], but null while a Drive picture has not been downloaded yet. */
+    fun cachedOrNull(ref: String?): Any? =
+        if (ref != null && ref.startsWith("drive:") && !isCached(ref)) null else imageModel(ref)
+
+    /**
+     * Downloads the picture if needed (once, however many callers ask) and returns what to show.
+     * The feed uses this instead of handing Coil the URL, which made it fetch every new picture
+     * two or three times over mobile data.
+     */
+    suspend fun localImage(ref: String?): Any? = withContext(Dispatchers.IO) {
+        if (ref != null) runCatching { fetch(ref) }
+        imageModel(ref)
+    }
+
+    /** For small rows in lists: the stored picture when there is one, otherwise Drive's small thumbnail. */
+    fun thumbModel(ref: String?): Any? {
+        val id = ref?.let(::driveId) ?: return imageModel(ref)
+        return file(id).takeIf { it.exists() } ?: "https://drive.google.com/thumbnail?id=$id&sz=w240"
+    }
+
     fun audioUri(ref: String?): Uri? = when {
         ref == null -> null
         ref.startsWith("asset:") -> Uri.parse("asset:///" + ref.removePrefix("asset:"))
@@ -36,17 +72,24 @@ class MediaCache(context: Context, private val drive: DriveClient) {
         else -> Uri.parse(ref)
     }
 
-    /** Blocking; call from a background dispatcher. */
+    /** Blocking; call from a background dispatcher. Two callers asking for the same file wait for one download. */
     fun fetch(ref: String) {
         val id = driveId(ref) ?: return
         val f = file(id)
-        if (!f.exists()) drive.download(id, f)
+        if (f.exists()) return
+        synchronized(locks.getOrPut(id) { Any() }) {
+            if (!f.exists()) drive.download(id, f)
+        }
     }
 
-    /** Removes cached files that no current lesson refers to. */
+    /** Removes cached files that no current lesson refers to. Downloads in progress are left alone. */
     fun prune(keep: Collection<String>) {
         val names = keep.mapNotNull { driveId(it) }.map { file(it).name }.toSet()
-        dir.listFiles()?.forEach { if (it.name !in names) it.delete() }
+        val stale = System.currentTimeMillis() - 60 * 60 * 1000L
+        dir.listFiles()?.forEach {
+            if (it.name.endsWith(".part")) { if (it.lastModified() < stale) it.delete() }
+            else if (it.name !in names) it.delete()
+        }
     }
 
     fun clear() {

@@ -15,8 +15,8 @@ android {
         applicationId = "app.youtop"
         minSdk = 26
         targetSdk = 35
-        versionCode = 6
-        versionName = "1.5-prototype"
+        versionCode = 7
+        versionName = "1.6-prototype"
 
         // Google Drive folder "YouTop books" (shared as "anyone with the link").
         // Can be changed inside the app (Settings) without rebuilding.

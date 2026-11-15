@@ -39,21 +39,26 @@ class DriveClient(private val http: OkHttpClient, private val apiKey: String = "
     private fun listPublicPage(folderId: String): List<Entry> =
         parseFolderPage(getText("https://drive.google.com/embeddedfolderview?id=$folderId#list"))
 
-    fun text(fileId: String): String = getText(downloadUrl(fileId))
+    /** A JSON file. Drive answers with a web page when a file is not public or is being throttled; that is an error. */
+    fun text(fileId: String): String = getText(downloadUrl(fileId)).also {
+        if (!it.trimStart().startsWith("{")) throw IOException("Drive did not return the file $fileId")
+    }
 
     fun download(fileId: String, dest: File) {
-        val tmp = File(dest.parentFile, dest.name + ".part")
-        http.newCall(Request.Builder().url(downloadUrl(fileId)).build()).execute().use { res ->
-            if (!res.isSuccessful) throw IOException("Drive returned ${res.code} for $fileId")
-            if (res.header("Content-Type").orEmpty().startsWith("text/html")) {
-                throw IOException("File $fileId is not shared publicly")
+        // Its own temporary file, so two downloads of one picture can never write into each other.
+        val tmp = File.createTempFile(dest.name + ".", ".part", dest.parentFile)
+        try {
+            http.newCall(Request.Builder().url(downloadUrl(fileId)).build()).execute().use { res ->
+                if (!res.isSuccessful) throw IOException("Drive returned ${res.code} for $fileId")
+                if (res.header("Content-Type").orEmpty().startsWith("text/html")) {
+                    throw IOException("File $fileId is not shared publicly")
+                }
+                val body = res.body ?: throw IOException("Empty response for $fileId")
+                tmp.outputStream().use { body.byteStream().copyTo(it) }
             }
-            val body = res.body ?: throw IOException("Empty response for $fileId")
-            tmp.outputStream().use { body.byteStream().copyTo(it) }
-        }
-        if (!tmp.renameTo(dest)) {
+            if (!tmp.renameTo(dest)) throw IOException("Could not store $fileId")
+        } finally {
             tmp.delete()
-            throw IOException("Could not store $fileId")
         }
     }
 

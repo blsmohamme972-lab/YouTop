@@ -79,11 +79,14 @@ class ContentRepository(
     /** Downloads a Drive JSON file unless it is already stored, and returns its text. */
     private fun fetch(fileId: String): String {
         val f = stored(fileId)
-        if (!f.exists()) {
-            val text = drive.text(fileId)
-            File(filesDir, f.name + ".part").apply { writeText(text) }.renameTo(f)
+        if (f.exists()) {
+            val text = f.readText()
+            if (text.trimStart().startsWith("{")) return text
+            f.delete() // a bad answer stored by an older version: fetch it again
         }
-        return f.readText()
+        val text = drive.text(fileId)
+        File(filesDir, f.name + ".part").apply { writeText(text) }.renameTo(f)
+        return text
     }
 
     // ---- full lessons, read when needed ------------------------------------

@@ -16,14 +16,19 @@ import androidx.compose.animation.slideInVertically
 import androidx.compose.animation.slideOutVertically
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.fillMaxSize
-import androidx.compose.material3.MaterialTheme
-import androidx.compose.material3.darkColorScheme
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.saveable.rememberSaveable
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.graphics.Color
+import androidx.compose.runtime.DisposableEffect
+import androidx.compose.runtime.LaunchedEffect
+import androidx.compose.runtime.remember
+import androidx.compose.ui.platform.LocalView
+import androidx.lifecycle.compose.collectAsStateWithLifecycle
+import app.youtop.ui.YouTopTheme
+import kotlinx.coroutines.flow.distinctUntilChanged
+import kotlinx.coroutines.flow.map
 import androidx.lifecycle.Lifecycle
 import androidx.lifecycle.compose.LifecycleEventEffect
 import app.youtop.ui.FeedScreen
@@ -42,13 +47,20 @@ class MainActivity : ComponentActivity() {
         )
         super.onCreate(savedInstanceState)
         setContent {
-            MaterialTheme(colorScheme = darkColorScheme(primary = Color.White, onPrimary = Color.Black)) {
+            YouTopTheme {
                 var libraryOpen by rememberSaveable { mutableStateOf(false) }
 
-                LifecycleEventEffect(Lifecycle.Event.ON_START) { vm.startAutoSync() }
-                LifecycleEventEffect(Lifecycle.Event.ON_STOP) {
-                    vm.stopAutoSync()
-                    vm.narrator.pause()
+                LifecycleEventEffect(Lifecycle.Event.ON_START) { vm.onForeground() }
+                LifecycleEventEffect(Lifecycle.Event.ON_STOP) { vm.onBackground() }
+                LaunchedEffect(libraryOpen) { vm.covered = libraryOpen }
+
+                // A lesson runs for a minute or two without a touch: keep the screen awake while it speaks.
+                val speaking by remember { vm.narrator.state.map { it.playing }.distinctUntilChanged() }
+                    .collectAsStateWithLifecycle(false)
+                val view = LocalView.current
+                DisposableEffect(speaking) {
+                    view.keepScreenOn = speaking
+                    onDispose { view.keepScreenOn = false }
                 }
 
                 Box(Modifier.fillMaxSize()) {
