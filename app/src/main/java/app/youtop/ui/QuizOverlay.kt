@@ -66,7 +66,16 @@ import androidx.compose.ui.text.style.TextDirection
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import app.youtop.R
+import androidx.compose.foundation.interaction.DragInteraction
+import androidx.compose.foundation.layout.heightIn
+import androidx.compose.runtime.produceState
+import androidx.compose.ui.layout.ContentScale
+import androidx.compose.ui.window.Dialog
+import androidx.compose.ui.window.DialogProperties
+import app.youtop.data.MediaCache
 import app.youtop.data.Question
+import coil3.compose.AsyncImage
+import kotlinx.coroutines.delay
 
 
 /** Options such as "all of the above" only make sense in their printed order. */
@@ -79,6 +88,16 @@ fun optionOrder(question: Question, shuffle: Boolean): List<Int> =
     if (shuffle && question.options.none { Positional.containsMatchIn(it) }) question.options.indices.shuffled()
     else question.options.indices.toList()
 
+/** Where the learner is in a lesson's questions. Lives with the lesson page, so closing the overlay does not lose it. */
+class QuizState {
+    var index by mutableIntStateOf(0)
+    var picked by mutableStateOf<Int?>(null)
+    /** True once the last question has been answered. */
+    var done by mutableStateOf(false)
+    /** The shuffled order each question was first shown in, so it does not change when reopened. */
+    val orders = HashMap<Int, List<Int>>()
+}
+
 /**
  * The lesson's questions, laid over the picture: the image stays visible through a soft shade
  * and translucent answer chips. Reports each answer, then offers (or automatically moves to)
@@ -87,6 +106,8 @@ fun optionOrder(question: Question, shuffle: Boolean): List<Int> =
 @Composable
 fun QuizOverlay(
     questions: List<Question>,
+    state: QuizState,
+    media: MediaCache,
     shuffle: Boolean,
     autoAdvance: Boolean,
     speak: Boolean,
@@ -98,32 +119,46 @@ fun QuizOverlay(
     onWatch: () -> Unit,
 ) {
     val haptics = LocalHapticFeedback.current
-    var index by remember { mutableIntStateOf(0) }
-    var picked by remember { mutableStateOf<Int?>(null) }
+    var index by state::index
+    var picked by state::picked
     var shownAt by remember { mutableLongStateOf(System.currentTimeMillis()) }
     var hold by remember { mutableStateOf(false) }
     val question = questions[index.coerceIn(0, questions.lastIndex)]
-    val order = remember(index) { optionOrder(question, shuffle) }
+    val order = remember(index) { state.orders.getOrPut(index) { optionOrder(question, shuffle) } }
     val last = index == questions.lastIndex
     val countdown = remember { Animatable(0f) }
+    val scroll = rememberScrollState()
+    val direction = if (isRtl(question.lang)) TextDirection.Rtl else TextDirection.Ltr
 
     LaunchedEffect(index) {
         shownAt = System.currentTimeMillis()
-        if (speak) onSay(question.q + ". " + order.joinToString(". ") { question.options[it] }, question.lang)
+        if (speak && picked == null) onSay(question.q + ". " + order.joinToString(". ") { question.options[it] }, question.lang)
     }
     LaunchedEffect(picked, hold) {
         countdown.snapTo(0f)
         val answer = picked ?: return@LaunchedEffect
         if (!last || !autoAdvance || hold) return@LaunchedEffect
-        val reading = (2500 + 45 * question.explain.length).coerceAtMost(12_000)
+        val reading = (3000 + 55 * question.explain.length).coerceAtMost(25_000)
         countdown.animateTo(1f, tween(if (answer == question.answer) reading else reading * 3 / 2, easing = LinearEasing))
         onNext()
+    }
+    // After an answer, bring the explanation and the buttons into view: with a long question
+    // they open below the bottom of the screen.
+    LaunchedEffect(picked) {
+        if (picked != null) {
+            delay(350)
+            scroll.animateScrollTo(scroll.maxValue)
+        }
+    }
+    // Reading on by scrolling means "do not move on yet".
+    LaunchedEffect(scroll) {
+        scroll.interactionSource.interactions.collect { if (it is DragInteraction.Start) hold = true }
     }
 
     Box(
         Modifier
             .fillMaxSize()
-            .background(Brush.verticalGradient(0f to Color.Black.copy(alpha = 0.10f), 0.35f to Color.Black.copy(alpha = 0.30f), 1f to Color.Black.copy(alpha = 0.82f)))
+            .background(Brush.verticalGradient(0f to Ink.copy(alpha = 0.25f), 0.3f to Ink.copy(alpha = 0.55f), 1f to Ink.copy(alpha = 0.90f)))
             // Taps here must not reach the picture underneath; a tap also stops the auto-advance.
             .pointerInput(Unit) { detectTapGestures { hold = true } }
     ) {
@@ -149,7 +184,7 @@ fun QuizOverlay(
                 .fillMaxWidth()
                 .fillMaxHeight(0.82f)
                 .navigationBarsPadding()
-                .verticalScroll(rememberScrollState(), reverseScrolling = false)
+                .verticalScroll(scroll)
                 .padding(horizontal = 16.dp)
                 .padding(bottom = 14.dp),
             verticalArrangement = Arrangement.spacedBy(10.dp, Alignment.Bottom),
@@ -159,17 +194,52 @@ fun QuizOverlay(
                 question.source,
             ).joinToString("  ·  ")
             if (meta.isNotEmpty()) {
-                Text(meta, color = Color.White.copy(alpha = 0.7f), style = TextStyle(fontSize = 12.sp, shadow = TextShadow))
+                Text(
+                    meta.uppercase(), color = Accent,
+                    style = TextStyle(fontFamily = Ui, fontSize = 11.sp, fontWeight = FontWeight.SemiBold, letterSpacing = 0.8.sp, shadow = TextShadow),
+                )
             }
             Text(
                 question.q,
                 color = Color.White,
                 style = TextStyle(
-                    fontSize = 19.sp, lineHeight = 27.sp, fontWeight = FontWeight.SemiBold,
-                    shadow = TextShadow, textDirection = TextDirection.Content,
+                    fontFamily = Ui, fontSize = 18.sp, lineHeight = 27.sp, fontWeight = FontWeight.SemiBold,
+                    shadow = TextShadow, textDirection = direction,
                 ),
                 modifier = Modifier.fillMaxWidth(),
             )
+            // The figure the stem refers to, on white as in the book. Tap to see it large.
+            question.image?.let { ref ->
+                val figure by produceState(media.cachedOrNull(ref), ref) { value = media.cachedOrNull(ref) ?: media.localImage(ref) }
+                var large by remember(ref) { mutableStateOf(false) }
+                AsyncImage(
+                    model = figure,
+                    contentDescription = stringResource(R.string.figure),
+                    contentScale = ContentScale.Fit,
+                    modifier = Modifier
+                        .fillMaxWidth()
+                        .heightIn(min = 90.dp, max = 240.dp)
+                        .clip(RoundedCornerShape(14.dp))
+                        .background(Color.White)
+                        .clickable(onClickLabel = stringResource(R.string.figure)) { hold = true; large = true }
+                        .padding(6.dp),
+                )
+                if (large) {
+                    Dialog(onDismissRequest = { large = false }, properties = DialogProperties(usePlatformDefaultWidth = false)) {
+                        Box(
+                            Modifier.fillMaxSize().background(Color.Black.copy(alpha = 0.92f)).clickable { large = false },
+                            contentAlignment = Alignment.Center,
+                        ) {
+                            AsyncImage(
+                                model = figure,
+                                contentDescription = stringResource(R.string.figure),
+                                contentScale = ContentScale.FillWidth,
+                                modifier = Modifier.fillMaxWidth().background(Color.White).padding(8.dp),
+                            )
+                        }
+                    }
+                }
+            }
             order.forEach { option ->
                 val answered = picked != null
                 val isAnswer = option == question.answer
@@ -204,19 +274,28 @@ fun QuizOverlay(
                             haptics.performHapticFeedback(if (correct) HapticFeedbackType.TextHandleMove else HapticFeedbackType.LongPress)
                             picked = option
                             onAnswer(correct, System.currentTimeMillis() - shownAt)
-                            if (last) onDone()
+                            if (last) { state.done = true; onDone() }
                         }
                         .padding(horizontal = 14.dp, vertical = 12.dp),
                     verticalAlignment = Alignment.CenterVertically,
+                    horizontalArrangement = Arrangement.spacedBy(12.dp),
                 ) {
+                    // A ring to tap; it becomes the tick or the cross once answered.
+                    Box(Modifier.size(22.dp), contentAlignment = Alignment.Center) {
+                        when {
+                            answered && isAnswer -> Icon(Icons.Rounded.CheckCircle, null, tint = Good, modifier = Modifier.size(22.dp))
+                            answered && isPicked -> Icon(Icons.Rounded.Cancel, null, tint = Bad, modifier = Modifier.size(22.dp))
+                            else -> Box(
+                                Modifier.size(18.dp).border(1.5.dp, Color.White.copy(alpha = if (answered) 0.25f else 0.7f), CircleShape)
+                            )
+                        }
+                    }
                     Text(
                         question.options[option],
                         color = Color.White.copy(alpha = if (answered && !isAnswer && !isPicked) 0.55f else 1f),
-                        style = TextStyle(fontSize = 16.sp, lineHeight = 22.sp, fontWeight = FontWeight.Medium, shadow = TextShadow, textDirection = TextDirection.Content),
+                        style = TextStyle(fontFamily = Ui, fontSize = 16.sp, lineHeight = 23.sp, fontWeight = FontWeight.Medium, shadow = TextShadow, textDirection = direction),
                         modifier = Modifier.weight(1f),
                     )
-                    if (answered && isAnswer) Icon(Icons.Rounded.CheckCircle, null, tint = Good, modifier = Modifier.size(20.dp))
-                    if (answered && isPicked && !isAnswer) Icon(Icons.Rounded.Cancel, null, tint = Bad, modifier = Modifier.size(20.dp))
                 }
             }
             AnimatedVisibility(visible = picked != null, enter = fadeIn() + expandVertically()) {
@@ -225,7 +304,7 @@ fun QuizOverlay(
                         Text(
                             question.explain,
                             color = Color.White.copy(alpha = 0.92f),
-                            style = TextStyle(fontSize = 15.sp, lineHeight = 22.sp, shadow = TextShadow, textDirection = TextDirection.Content),
+                            style = TextStyle(fontFamily = Ui, fontSize = 15.sp, lineHeight = 23.sp, shadow = TextShadow, textDirection = direction),
                             modifier = Modifier.fillMaxWidth(),
                         )
                     }
@@ -244,16 +323,16 @@ fun QuizOverlay(
                                 .weight(1f)
                                 .height(44.dp)
                                 .clip(CircleShape)
-                                .background(Color.White.copy(alpha = 0.16f))
-                                .drawBehind { drawRect(Color.White.copy(alpha = 0.22f), size = Size(size.width * countdown.value, size.height)) }
+                                .background(Accent)
+                                .drawBehind { drawRect(Color.White.copy(alpha = 0.38f), size = Size(size.width * countdown.value, size.height)) }
                                 .clickable {
                                     if (last) onNext() else { index++; picked = null; hold = false }
                                 },
                             contentAlignment = Alignment.Center,
                         ) {
                             Row(verticalAlignment = Alignment.CenterVertically) {
-                                if (last) Icon(Icons.Rounded.KeyboardArrowUp, null, tint = Color.White, modifier = Modifier.size(22.dp))
-                                Text(stringResource(R.string.next), color = Color.White, fontSize = 15.sp, fontWeight = FontWeight.SemiBold)
+                                if (last) Icon(Icons.Rounded.KeyboardArrowUp, null, tint = OnAccent, modifier = Modifier.size(22.dp))
+                                Text(stringResource(R.string.next), color = OnAccent, fontSize = 15.sp, fontWeight = FontWeight.SemiBold)
                             }
                         }
                     }

@@ -86,8 +86,8 @@ fun TopicsTab(vm: MainViewModel) {
                 )
                 if (focus.isNotEmpty()) {
                     Text(
-                        stringResource(R.string.focus_clear), color = Color.Black, fontSize = 13.sp, fontWeight = FontWeight.Medium,
-                        modifier = Modifier.clip(CircleShape).background(Color.White).clickable { setFocus(emptySet()) }
+                        stringResource(R.string.focus_clear), color = OnAccent, fontSize = 13.sp, fontWeight = FontWeight.SemiBold,
+                        modifier = Modifier.clip(CircleShape).background(Accent).clickable { setFocus(emptySet()) }
                             .padding(horizontal = 12.dp, vertical = 5.dp),
                     )
                 }
@@ -104,7 +104,7 @@ fun TopicsTab(vm: MainViewModel) {
                         val selected = tag in focus
                         Text(
                             (taxonomy.titles[tag] ?: tag) + "  " + percent(1f - (stats[tag]?.weakness ?: 0f)),
-                            color = if (selected) Color.Black else Color.White, fontSize = 13.sp, fontWeight = FontWeight.Medium,
+                            color = if (selected) OnAccent else Color.White, fontSize = 13.sp, fontWeight = FontWeight.Medium,
                             modifier = Modifier.clip(CircleShape)
                                 .background(if (selected) Accent else Color(0x33F87171))
                                 .clickable { setFocus(if (selected) focus - tag else focus + tag) }
@@ -167,7 +167,7 @@ fun TopicsTab(vm: MainViewModel) {
                         }
                         if (stat.due > 0) {
                             Text(
-                                "${stat.due}", color = Color.Black, fontSize = 11.sp, fontWeight = FontWeight.Bold,
+                                "${stat.due}", color = OnAccent, fontSize = 11.sp, fontWeight = FontWeight.Bold,
                                 modifier = Modifier.clip(CircleShape).background(Accent).padding(horizontal = 7.dp, vertical = 1.dp),
                             )
                             Spacer(Modifier.width(8.dp))

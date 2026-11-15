@@ -14,6 +14,7 @@ import org.junit.Assert.assertEquals
 import androidx.compose.ui.test.performTouchInput
 import androidx.compose.ui.test.swipeUp
 import com.github.takahirom.roborazzi.captureScreenRoboImage
+import org.junit.After
 import org.junit.Rule
 import org.junit.Test
 import org.junit.runner.RunWith
@@ -31,6 +32,13 @@ import org.robolectric.annotation.GraphicsMode
 class ScreensTest {
     @get:Rule
     val rule = createAndroidComposeRule<MainActivity>()
+
+    /**
+     * Progress is now written when the app closes, and under Robolectric the app keeps one files
+     * folder for the whole class, so each test ends by forgetting what it learned.
+     */
+    @After
+    fun forgetProgress() = rule.runOnUiThread { rule.activity.viewModel().resetProgress() }
 
     private fun shot(name: String) {
         rule.waitForIdle()

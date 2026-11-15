@@ -38,7 +38,7 @@
     <string name="sync_offline">لا يوجد اتصال — تُعرض الدروس المنزَّلة.</string>
     <string name="clear_cache">حذف الوسائط المنزَّلة</string>
     <string name="lessons_count">%1$d دروس</string>
-    <string name="voice_missing">صوت هذه اللغة غير مثبّت على الجهاز — يُعرض النص فقط.</string>
+    <string name="voice_missing">لا يوجد صوت لهذه اللغة على الهاتف، فيُعرض النص فقط. اضغط لفتح إعدادات الصوت.</string>
     <string name="empty_feed">لا توجد دروس بعد. قم بالمزامنة لتحميل كتبك.</string>
     <string name="built_in">مضمَّن</string>
     <string name="streak">أيام متتالية</string>
@@ -87,4 +87,6 @@
     <string name="focus_clear">عرض الكل</string>
     <string name="weakest">أضعف المواضيع (اضغط للتركيز)</string>
     <string name="weak_first">ابدأ الدروس الجديدة من أضعف مواضيعي</string>
+    <string name="book_progress">بدأتَ %1$d من %2$d</string>
+    <string name="figure">الرسم</string>
 </resources>

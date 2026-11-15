@@ -111,7 +111,7 @@ fun SpotlightImage(model: Any?, spot: Spot?, seed: Int, modifier: Modifier = Mod
                     Brush.radialGradient(
                         0f to Color.Transparent,
                         0.72f to Color.Transparent,
-                        1f to Color.Black.copy(alpha = 0.62f * dim),
+                        1f to Color.Black.copy(alpha = 0.52f * dim),
                         center = center,
                         radius = radius * 1.4f,
                     )

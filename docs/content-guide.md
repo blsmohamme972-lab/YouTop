@@ -164,14 +164,46 @@ How to write it:
 - **Answer key.** If the printed key is wrong beyond reasonable dispute, set `answer` to the right
   option, say so in `explain` ("The book's key says B; …"), and add the tag `x:key-corrected`.
   If it is merely debatable, keep the book's key and mention the debate in `explain`.
-- **Story (Arabic, 5–9 short sentences)**: a small scene or patient that makes the point
-  memorable, in clear Modern Standard Arabic, with the key English term kept in Latin letters
-  where a surgeon would say it that way. **Explanation (English, 4–8 sentences)**: the teaching
-  point, why the right answer is right, and the most tempting wrong answer.
+- **Story (Arabic, 8–11 short sentences)**: see "The story is a story" below. It is the owner's
+  rule and the first set of stories was rejected for breaking it.
+  **Explanation (English, 4–8 sentences)**: all of the science: the teaching point, why the right
+  answer is right, and the most tempting wrong answer.
 - **Question**: stem and options exactly as printed (fix only obvious typos). Options that depend
   on order ("all of the above") are detected and not shuffled.
 - `id`: `<book short name>-q<4-digit number>`. `source`: book, page, question number.
 - Each sentence is one `segment`. Keep sentences short; they are also the on-screen captions.
+
+### The story is a story (the owner's rule)
+
+The owner rejected the first stories because they were explanations dressed as scenes ("the
+first monk sawed off the whole branch: this is a lobectomy"). What they asked for instead:
+
+- **A real story**, in the manner of the book's author: people with names, a place, something
+  that happens, a turn at the end. For a Dostoevsky book: poor students, clerks, monks, a
+  feverish narrator, guilt, pity, a sudden confession.
+- **Its job is to make the picture stay in memory.** Every important thing in the picture appears
+  in the story and *does* something there: it has life. The numbers painted in the picture
+  (8, 10, 12; 3:1; 1995) are said in the story, as things the characters count or read.
+- **No medical explanation in the story.** No "this is the ...", no anatomical or disease names,
+  no English terms. The link between the object and the fact is made by the English explanation
+  that follows, sentence by sentence, with the camera on the same objects.
+- **It ends with the real quotation** (step 4), in Arabic, as its own last segment with the
+  `quote` field set to where it is from; the sentence before it leads into it ("…and said:").
+  The app shows the quotation centred with its source underneath.
+
+      { "text": "ثم طرقت جدار الكوخ برفق، كمن يطرق صدر إنسان، وقالت:", "spot": { … } },
+      { "text": "«الإنسان سرّ. …»", "quote": "فيودور دوستويفسكي، رسالة إلى أخيه ميخائيل، 1839" }
+
+- Write the story after you have **looked at the picture**, not only from its prompt: the story
+  must match what the picture really shows.
+
+A worked set is in "YouTop private/books/shahzad-2015/work/stories-v2.py".
+
+### A question that needs its figure
+
+When the stem refers to a figure ("the forest plot shown below"), copy the figure from the
+private `figures/` folder into the book's public folder and point to it from the question:
+`"image": "drive:<public file id>"`. The app shows it above the options (tap to enlarge).
 
 ## Tags (required on every lesson)
 
@@ -199,9 +231,12 @@ built in; to show new tags before the next APK, upload `app/src/main/assets/taxo
 
 - Portrait 9:16, one per lesson, clear and uncluttered, showing the things the story and the
   explanation mention, each in its own area so the camera can point at them. No text in the image.
-- The owner has pictures made (by ChatGPT) from a description you write for each lesson; give them
-  the descriptions as one list, with the file name each picture must have (`<lesson id>.webp`).
-  They upload the pictures into the book's folder.
+- The owner has pictures made (by ChatGPT) from the prompts you write and uploads them as
+  `<question number>.png` into the book's `images` folder (about 3 MB each). Shrink each to a
+  1080-pixel-wide WebP (about 300 KB), upload it to the book folder as `<lesson id>.webp`, and
+  point the lesson's `image` at that copy. Leave the owner's originals where they are.
+- The app shows the picture whole, never cropped or zoomed (the owner asked for that), with a
+  spotlight on the `spot` of the sentence being spoken. Any proportion works; 9:16 fills most.
 - Then **look at every picture** (download it and view it) and set each segment's `spot`: centre
   `x`,`y` as fractions of width/height from the top-left, radius `r` as a fraction of the width.
   Verify by drawing the circles on the picture, as `tools/starter/art.mjs --check` does for the

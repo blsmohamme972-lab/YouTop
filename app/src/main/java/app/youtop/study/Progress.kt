@@ -16,7 +16,6 @@ import kotlinx.serialization.encodeToString
 import kotlinx.serialization.json.Json
 import java.io.File
 import java.io.IOException
-import kotlin.concurrent.thread
 import java.util.TimeZone
 
 @Serializable
@@ -107,8 +106,9 @@ class ProgressStore(context: Context, private val scope: CoroutineScope) {
     fun flush() {
         if (saveJob?.isActive != true) return
         saveJob?.cancel()
-        val snapshot = _progress.value
-        thread { write(snapshot) }
+        // On the caller's thread on purpose: Android may end the process right after the app
+        // leaves the screen, and a background thread might not get to finish.
+        write(_progress.value)
     }
 
     private fun write(p: Progress) = synchronized(writeLock) {

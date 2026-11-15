@@ -64,6 +64,9 @@ import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
+import androidx.compose.runtime.produceState
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.withContext
 import app.youtop.MainViewModel
 import app.youtop.R
 import app.youtop.data.FeedItem
@@ -81,21 +84,21 @@ fun LibraryScreen(vm: MainViewModel, onClose: () -> Unit) {
 
     Column(Modifier.fillMaxSize().background(Ink).statusBarsPadding().pointerInput(Unit) { detectTapGestures { } }) {
         Row(Modifier.fillMaxWidth().padding(start = 20.dp, end = 10.dp, top = 8.dp), verticalAlignment = Alignment.CenterVertically) {
-            Text("YouTop", color = Color.White, fontSize = 24.sp, fontWeight = FontWeight.Bold)
+            Text("YouTop", color = Color.White, fontSize = 26.sp, fontWeight = FontWeight.SemiBold)
             Spacer(Modifier.weight(1f))
             GlassButton(Icons.Rounded.Close, stringResource(R.string.close), onClose)
         }
-        Row(Modifier.horizontalScroll(rememberScrollState()).padding(horizontal = 20.dp, vertical = 12.dp), horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+        Row(Modifier.horizontalScroll(rememberScrollState()).padding(horizontal = 20.dp, vertical = 12.dp), horizontalArrangement = Arrangement.spacedBy(6.dp)) {
             listOf(R.string.books, R.string.topics, R.string.saved, R.string.study, R.string.sync).forEachIndexed { i, label ->
                 val selected = tab == i
                 Text(
                     stringResource(label),
-                    color = if (selected) Color.Black else Color.White,
-                    fontSize = 14.sp, fontWeight = FontWeight.Medium,
+                    color = if (selected) OnAccent else Color.White,
+                    fontSize = 13.5.sp, fontWeight = FontWeight.SemiBold,
                     modifier = Modifier.clip(CircleShape)
-                        .background(if (selected) Color.White else Color.White.copy(alpha = 0.10f))
+                        .background(if (selected) Accent else Color.White.copy(alpha = 0.09f))
                         .clickable { tab = i }
-                        .padding(horizontal = 16.dp, vertical = 7.dp),
+                        .padding(horizontal = 13.dp, vertical = 7.dp),
                 )
             }
         }
@@ -129,8 +132,10 @@ private fun SyncTab(vm: MainViewModel) {
     val context = LocalContext.current
     val focus = LocalFocusManager.current
     var link by remember(settings.driveFolder) { mutableStateOf(settings.driveFolder) }
-    var mediaSize by remember(sync) { mutableStateOf(vm.media.sizeBytes()) }
     val running = sync is SyncState.Running
+    // Counted off the main thread, and not on every step of a long download.
+    var cleared by remember { mutableIntStateOf(0) }
+    val mediaSize by produceState(0L, running, cleared) { value = withContext(Dispatchers.IO) { vm.media.sizeBytes() } }
 
     Column(
         Modifier.fillMaxSize().verticalScroll(rememberScrollState()).imePadding().navigationBarsPadding()
@@ -147,10 +152,10 @@ private fun SyncTab(vm: MainViewModel) {
             keyboardActions = KeyboardActions(onDone = { vm.setDriveFolder(link); focus.clearFocus() }),
             colors = OutlinedTextFieldDefaults.colors(
                 focusedTextColor = Color.White, unfocusedTextColor = Color.White,
-                focusedBorderColor = Color.White, unfocusedBorderColor = Color.White.copy(alpha = 0.4f),
-                focusedLabelColor = Color.White, unfocusedLabelColor = Faint,
+                focusedBorderColor = Accent, unfocusedBorderColor = Color.White.copy(alpha = 0.3f),
+                focusedLabelColor = Accent, unfocusedLabelColor = Faint,
                 focusedSupportingTextColor = Faint, unfocusedSupportingTextColor = Faint,
-                cursorColor = Color.White,
+                cursorColor = Accent,
             ),
             modifier = Modifier.fillMaxWidth(),
         )
@@ -161,7 +166,7 @@ private fun SyncTab(vm: MainViewModel) {
             },
             enabled = !running && link.isNotBlank(),
             colors = ButtonDefaults.buttonColors(
-                containerColor = Color.White, contentColor = Color.Black,
+                containerColor = Accent, contentColor = OnAccent,
                 disabledContainerColor = Color.White.copy(alpha = 0.2f), disabledContentColor = Color.White.copy(alpha = 0.6f),
             ),
             modifier = Modifier.fillMaxWidth().height(48.dp),
@@ -192,7 +197,7 @@ private fun SyncTab(vm: MainViewModel) {
         )
         SwitchRow(stringResource(R.string.auto_sync), settings.autoSync) { vm.setAutoSync(it) }
         SwitchRow(stringResource(R.string.offline_download), settings.offlineDownload) { vm.setOfflineDownload(it) }
-        TextButton(onClick = { vm.clearMedia().invokeOnCompletion { mediaSize = vm.media.sizeBytes() } }) {
+        TextButton(onClick = { vm.clearMedia().invokeOnCompletion { cleared++ } }) {
             Text(
                 stringResource(R.string.clear_cache) + " · " + Formatter.formatShortFileSize(context, mediaSize),
                 color = Color.White.copy(alpha = 0.85f),

@@ -67,7 +67,7 @@ fun GlassButton(
             Text(
                 caption,
                 color = Color.White,
-                style = TextStyle(fontSize = 10.sp, fontWeight = FontWeight.Medium, shadow = TextShadow),
+                style = TextStyle(fontFamily = Ui, fontSize = 10.sp, fontWeight = FontWeight.Medium, shadow = TextShadow),
                 maxLines = 1,
             )
         }

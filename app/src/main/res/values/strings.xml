@@ -39,7 +39,7 @@
     <string name="sync_offline">Offline — showing downloaded lessons.</string>
     <string name="clear_cache">Clear downloaded media</string>
     <string name="lessons_count">%1$d lessons</string>
-    <string name="voice_missing">Voice for this language is not installed on this device — showing text only.</string>
+    <string name="voice_missing">No voice for this language on this phone, so only the text is shown. Tap to open voice settings.</string>
     <string name="empty_feed">No lessons yet. Sync to load your books.</string>
     <string name="built_in">Built-in</string>
     <string name="streak">Streak</string>
@@ -88,4 +88,6 @@
     <string name="focus_clear">Show all</string>
     <string name="weakest">Weakest topics (tap to focus)</string>
     <string name="weak_first">Start new lessons from my weakest topics</string>
+    <string name="book_progress">%1$d of %2$d started</string>
+    <string name="figure">Figure</string>
 </resources>
