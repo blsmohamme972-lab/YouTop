@@ -205,12 +205,26 @@ class Narrator(context: Context, private val scope: CoroutineScope) {
                 AudioAttributes.Builder().setUsage(C.USAGE_MEDIA).setContentType(C.AUDIO_CONTENT_TYPE_SPEECH).build(),
                 true,
             )
+            // Headphones pulled out: stop, rather than carry on aloud through the speaker.
+            created.setHandleAudioBecomingNoisy(true)
             created.addListener(object : Player.Listener {
                 override fun onPlaybackStateChanged(playbackState: Int) {
                     if (playbackState == Player.STATE_READY) computeStarts()
                     if (playbackState == Player.STATE_ENDED && _state.value.mode == NarrationMode.AUDIO) {
                         ticker?.cancel()
                         _state.update { it.copy(playing = false, ended = true, progress = 1f) }
+                    }
+                }
+
+                /**
+                 * The phone took the sound away for good (a call, another player, headphones pulled
+                 * out): the recording has stopped, so the screen must say "paused" too.
+                 */
+                override fun onPlayWhenReadyChanged(playWhenReady: Boolean, reason: Int) {
+                    val taken = reason == Player.PLAY_WHEN_READY_CHANGE_REASON_AUDIO_FOCUS_LOSS ||
+                        reason == Player.PLAY_WHEN_READY_CHANGE_REASON_AUDIO_BECOMING_NOISY
+                    if (!playWhenReady && taken && _state.value.mode == NarrationMode.AUDIO && _state.value.playing) {
+                        _state.update { it.copy(playing = false) }
                     }
                 }
 
@@ -225,6 +239,9 @@ class Narrator(context: Context, private val scope: CoroutineScope) {
             })
             player = created
         }
+        // The player remembers "playing" from the lesson before. Without this a lesson opened
+        // silently (question first, or under the library) would start speaking by itself.
+        p.playWhenReady = false
         p.setMediaItem(MediaItem.fromUri(uri))
         p.setPlaybackSpeed(_state.value.speed)
         p.volume = if (_state.value.muted) 0f else 1f
@@ -454,6 +471,7 @@ class Narrator(context: Context, private val scope: CoroutineScope) {
 
     private fun stopOutput() {
         stopSpeech()
+        player?.pause()
         player?.stop()
         player?.clearMediaItems()
     }
