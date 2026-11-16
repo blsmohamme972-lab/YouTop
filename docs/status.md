@@ -1,8 +1,33 @@
 # Where the work stands
 
-Updated 2026-11-16. Whoever works on YouTop next: read `CLAUDE.md`, then this, then
+Updated 2026-11-17. Whoever works on YouTop next: read `CLAUDE.md`, then this, then
 `docs/content-guide.md`. Rewrite this file whenever the state changes (it replaces the
 `status-<n>.txt` files in the Drive folder "YouTop private", which stop at 7).
+
+## Lessons 46-75 (night of 2026-11-16 to 17) — IN PROGRESS, THE OWNER IS ASLEEP AND ASKED FOR AUTOMATIC WORK
+
+The owner asked for "the next 30 lessons", with symbols and stories "creative to a very great degree",
+then: finish their voices and everything they need, and **five hours after that message (it came at
+about 21:40 UTC on 2026-11-16) start the following thirty (76-105)**, automatically, without mistakes.
+A scheduled message fires in the session that did this work at 02:40 UTC on 2026-11-17.
+
+- **Published, the standard way** (table first, prompts first): lessons 46-75, text complete (story,
+  quotation, explanation, tags, question, figure of question 48). Work files on `content`:
+  `work/shahzad-2015/batch-0046-0055/`, `batch-0056-0065/`, `batch-0066-0075/` (`batch.txt` with the
+  tables, `voice.txt`, `image-prompts-*.json`).
+- **Image prompts 46-75 were handed to the owner** as files (json and plain text) before the stories
+  were written. **No picture 46-75 exists yet**; when they arrive: skill steps 4, 5 and 7 (look at each,
+  spots, marks, second agent).
+- **Voice**: 46-55 made and published; `voice.py check` heard every sentence (two flags were false
+  alarms: the quotation of 46 is spoken in full, and "mmHg" read as "millimetres of mercury").
+  56-75: see `batch.py status`; if they still lack voice, run `voice.py make` on the two voice files
+  from the work folders, then `voice.py check`, then publish.
+- A second agent per batch was asked to look for errors in medicine, consistency, Arabic and
+  quotations; what it found and what was changed is listed below when done.
+- Decisions taken without the owner (they were asleep): quotations are well-known lines from memory,
+  as before (never checked against a printed Arabic translation); key notes were added where the
+  book's key is debatable (47, 51, 65, 66, 68, 72) and 74 uses the corrected key D; question 38's
+  kind of problem did not recur.
 
 ## Last task: circles in the question (app 2.2), done 2026-11-16, NOT YET SEEN BY THE OWNER ON THEIR PHONE
 
