@@ -38,3 +38,12 @@ answer: 6
 6: 12 86 12 | Salt sacks dissolving in the flood | Everything is diluted: anion gap reduced, urea low
 question: 1 2
 answer: 5
+== 41
+1: 14 13 13 | Watchman striking the iron rail | QRS complex: ventricular depolarisation starts the phase
+2: 60 47 24 | Blacksmith crushing the swollen bellows | Ventricle contracts: pressure climbs fastest, volume unchanged
+3: 18 30 12 | Double door slamming shut | Mitral, then tricuspid valve close: isovolumetric contraction
+4: 14 53 14 | Two boys holding the leaves by ropes | Papillary muscles and chordae stop the leaflets bulging back
+5: 92 25 9 | Iron chimney door still shut | Aortic valve stays closed until ventricular pressure exceeds aortic
+6: 86 64 14 | Old woman raising one finger | First heart sound, S1: closure of the AV valves
+question: 2
+answer: 3
