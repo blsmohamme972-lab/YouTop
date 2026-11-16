@@ -6,9 +6,18 @@ Updated 2026-11-16. Whoever works on YouTop next: read `CLAUDE.md`, then this, t
 
 ## App
 
-- **2.0 (versionCode 11)** is on `main`; the APK was handed to the owner on 2026-11-16, a few
-  hours after 1.9. Whether they have installed it is not known; 1.6 (versionCode 7), reading Drive,
-  was the last version known to be on their phone.
+- **2.1 (versionCode 12)** is on `main`; the APK was handed to the owner on 2026-11-16 (the third
+  that day, after 1.9 and 2.0). Whether they have installed any of them is not known; 1.6
+  (versionCode 7), reading Drive, was the last version known to be on their phone.
+- New in 2.1, asked for by the owner: **progress by topic across books.** On the Topics page every
+  specialty and subtopic is a cover (a picture from the web, built into the app) with the same
+  six-colour bar and numbers as a book (new, studied 1×, 2×, 3×, 4×, 5×+); the other tag groups are
+  rows with the bar. The 34 covers are public domain or CC0 (sources in
+  `app/src/main/assets/licenses/topic-covers.txt`), tinted per specialty by `tools/covers/process.py`.
+  Wikimedia's search API answers "too many requests" from cloud sessions; `Special:FilePath/<name>?width=640`
+  and the Openverse API (200 searches a day) work. The page was looked at with the three example
+  lessons tagged for a moment; with the owner's real 40 lessons it was not seen.
+  **The owner has not yet said what they think of 2.0 or 2.1.**
 - New in 2.0, after the owner said of 1.9 "I find it hard to use" and asked for books studied one
   at a time in order "like Anki", and for each book's cover to show how many lessons were studied
   once, twice, three times…:
@@ -23,7 +32,7 @@ Updated 2026-11-16. Whoever works on YouTop next: read `CLAUDE.md`, then this, t
     scored as early (shorter gaps than deserved); a quick first answer on a lesson that was
     mid-learning before 1.9 could send it away for two weeks; a quiz shortened by a sync could
     not finish; the press effect moved only the label.
-  **The owner has not yet said what they think of 2.0.** With only one book published, "Study all
+  With only one book published, "Study all
   books together" and switching between books were tested by code reading and unit tests only.
 - New in 1.9, after the owner asked to find and fix errors, make spaced repetition "advanced and
   easy", make tags easy and beautiful, and make lesson-making cheaper:

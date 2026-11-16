@@ -9,6 +9,7 @@ import androidx.compose.ui.test.onAllNodesWithText
 import androidx.compose.ui.test.isRoot
 import androidx.compose.ui.test.performClick
 import androidx.compose.ui.test.performScrollTo
+import androidx.compose.ui.test.performScrollToNode
 import app.youtop.data.Backup
 import app.youtop.study.CardState
 import app.youtop.study.DayLog
@@ -208,6 +209,11 @@ class ScreensTest {
         assertEquals(9, vm.progress.value.streak)
         button("Library").performClick()
         shot("11-home")
+        // Progress by topic, across books: covers, the coloured bar and its numbers.
+        text("Topics").performClick()
+        shot("11b-topics-progress")
+        rule.onAllNodes(androidx.compose.ui.test.hasScrollToNodeAction())[1].performScrollToNode(hasText("KNOWLEDGE TYPE")) // [0] is the feed underneath
+        shot("11c-topics-groups")
         text("Books").performClick()
         rule.onNode(hasSetTextAction()).performTextInput("water")
         rule.waitUntil(10_000) { rule.onAllNodesWithText("Journey of a Water Drop").fetchSemanticsNodes().isNotEmpty() }

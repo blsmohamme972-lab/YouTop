@@ -28,6 +28,7 @@ plainly, send them the APK file itself, and never ask them to run commands.
 | Work status | `docs/status.md` (the old `status-<n>.txt` files in YouTop private stop at 7). |
 | Source PDFs, question files | **YouTop private/source books** and **YouTop private/books/`<book id>`**. Read-only now. |
 | Tag system | `content/taxonomy.txt` in this repository. |
+| Topic cover pictures | `app/src/main/assets/topics/<tag, with "-" for "/">.webp`, one per topic tag. Public domain or CC0 only (mostly Gray's Anatomy 1918 plates); sources in `assets/licenses/topic-covers.txt`. Made by `tools/covers/` (`fetch.py` finds candidates, `choice.json` says which, `process.py` crops and tints). A new topic without a file shows its colour and sign instead. |
 | How to make lessons | The `youtop-lessons` skill and `tools/content/batch.py`; reference: `docs/content-guide.md`. Each book's facts: `content/books/<book id>.json`. |
 
 If the Google Drive connector is missing in your session, or is signed in to a different account,
@@ -119,7 +120,9 @@ something looks wrong on theirs.
 - `ui/LibraryScreen.kt` — the library: five pages behind a bar at the bottom.
   `HomeTab.kt` (the page the app opens on: today, then each book as a card with its colour bar of
   "times studied" and "Study this book"; its numbers come from `study/Dashboard.kt`), `BooksTab.kt` (shelf,
-  search over all lessons, a book's chapters), `TopicsTab.kt` (tag tree and focus), saved lessons,
+  search over all lessons, a book's chapters), `TopicsTab.kt` (progress by topic across all books: each specialty and subtopic as a
+  cover with the same colour bar and numbers as a book, the other tag groups as rows; tapping one
+  studies only it), saved lessons,
   `SettingsTab.kt` (pace, lesson behaviour, sync, backup, advanced timing). `Parts.kt` holds the
   shared pieces (cards, switches, buttons); use them for anything new so pages keep one look.
 - `data/Backup.kt` — the learning history as a file the owner saves and restores from Settings.
@@ -162,7 +165,8 @@ under `book/chapter/lesson` on their phone.
   other choice. The owner asked for this after finding the app hard to use. "Weakest topics first"
   is off by default for the same reason.
 - A book's progress is always drawn as the six colours of `RepsColors` (`Parts.kt`): lessons never
-  studied, studied once, twice, three, four, five times or more. The owner asked for exactly this.
+  studied, studied once, twice, three, four, five times or more. The owner asked for exactly this,
+  and then for the same on every topic (tag) with a cover picture, counted across books.
 - Smart scheduling is the default since 1.9; lessons studied before it are taken over from their
   interval and ease at their next review (nothing is reset).
 - Ratings are inferred, never asked: right answer = good (fast = easy), wrong = again, watched

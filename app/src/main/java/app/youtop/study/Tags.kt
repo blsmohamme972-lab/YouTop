@@ -38,7 +38,9 @@ object Tags {
     /** The most specific topic tag of a lesson, if it has one. */
     fun mainTopic(tags: List<String>): String? = tags.filter { ':' !in it }.maxByOrNull { it.count { c -> c == '/' } }
 
-    data class Stat(var lessons: Int = 0, var due: Int = 0, var seen: Int = 0, var reps: Int = 0, var lapses: Int = 0) {
+    class Stat(var lessons: Int = 0, var due: Int = 0, var seen: Int = 0, var reps: Int = 0, var lapses: Int = 0) {
+        /** Lessons by how many times they have been studied (never, once, … five times or more), across all books. */
+        val studied = IntArray(REPS_BUCKETS)
         /** Share of reviews answered wrongly; null until there is enough to go on. */
         val weakness: Float? get() = if (reps >= 3) lapses.toFloat() / reps else null
     }
@@ -49,9 +51,11 @@ object Tags {
         for ((key, tags) in lessons) {
             val card = cards[key]
             val touched = tags.flatMapTo(HashSet()) { withAncestors(it) }
+            val bucket = repsBucket(card)
             for (tag in touched) {
                 val s = out.getOrPut(tag) { Stat() }
                 s.lessons++
+                s.studied[bucket]++
                 if (card != null && card.phase != Phase.NEW) {
                     s.seen++
                     s.reps += card.reps

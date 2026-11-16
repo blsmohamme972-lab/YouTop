@@ -223,6 +223,45 @@ fun RepsLegend(reps: List<Int>, modifier: Modifier = Modifier) {
     }
 }
 
+private fun repsLabel(i: Int, last: Int, new: String) = when (i) {
+    0 -> new
+    last -> "\u2066${num(i)}×+\u2069"
+    else -> "\u2066${num(i)}×\u2069"
+}
+
+/** The six numbers of [RepsBar] alone, each in its colour: for small covers, where [RepsKey] says what the colours mean. */
+@Composable
+fun RepsNumbers(reps: List<Int>, modifier: Modifier = Modifier) {
+    Row(modifier.fillMaxWidth()) {
+        reps.forEachIndexed { i, n ->
+            Text(
+                num(n), fontSize = 12.sp, fontWeight = FontWeight.SemiBold, maxLines = 1, textAlign = TextAlign.Center,
+                color = when {
+                    n == 0 -> Color.White.copy(alpha = 0.22f)
+                    i == 0 -> Color.White.copy(alpha = 0.75f)
+                    else -> RepsColors[i.coerceAtMost(RepsColors.lastIndex)]
+                },
+                modifier = Modifier.weight(1f),
+            )
+        }
+    }
+}
+
+/** One line that says what the six colours mean. */
+@Composable
+fun RepsKey(modifier: Modifier = Modifier) {
+    Row(modifier.fillMaxWidth(), horizontalArrangement = Arrangement.SpaceBetween, verticalAlignment = Alignment.CenterVertically) {
+        val new = stringResource(R.string.reps_new)
+        for (i in RepsColors.indices) {
+            Row(verticalAlignment = Alignment.CenterVertically) {
+                Box(Modifier.size(9.dp).clip(CircleShape).background(if (i == 0) Color.White.copy(alpha = 0.35f) else RepsColors[i]))
+                Box(Modifier.width(5.dp))
+                Text(repsLabel(i, RepsColors.lastIndex, new), color = Faint, fontSize = 12.sp, maxLines = 1)
+            }
+        }
+    }
+}
+
 /** What is shown where a list would be, when there is nothing to list. */
 @Composable
 fun EmptyState(icon: ImageVector, title: String, body: String? = null, modifier: Modifier = Modifier, action: (@Composable () -> Unit)? = null) {
