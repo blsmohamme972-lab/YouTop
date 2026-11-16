@@ -29,7 +29,7 @@ plainly, send them the APK file itself, and never ask them to run commands.
 | Source PDFs, question files | **YouTop private/source books** and **YouTop private/books/`<book id>`**. Read-only now. |
 | Tag system | `content/taxonomy.txt` in this repository. |
 | Topic cover pictures | `app/src/main/assets/topics/<tag, with "-" for "/">.webp`, one per topic tag. Public domain or CC0 only (mostly Gray's Anatomy 1918 plates); sources in `assets/licenses/topic-covers.txt`. Made by `tools/covers/` (`fetch.py` finds candidates, `choice.json` says which, `process.py` crops and tints). A new topic without a file shows its colour and sign instead. |
-| How to make lessons | The `youtop-lessons` skill and `tools/content/batch.py`; reference: `docs/content-guide.md`. Each book's facts: `content/books/<book id>.json`. |
+| How to make lessons | The `youtop-lessons` skill, `tools/content/batch.py` and, for the recorded voice, `tools/content/voice.py` with `content/voices.json`; reference: `docs/content-guide.md`. Each book's facts: `content/books/<book id>.json`. |
 
 If the Google Drive connector is missing in your session, or is signed in to a different account,
 that is the one thing only the owner can fix: ask them to connect Google Drive as

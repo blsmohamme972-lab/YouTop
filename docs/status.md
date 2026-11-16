@@ -65,6 +65,35 @@ table sits **under** the picture, **fixed**, its rows scrolling. Built, APK hand
   real long lessons (1, 36) seeded for a moment before handing an APK over. Done for 2.3; still not
   run on a real phone.
 
+## Lessons 41-45 and the machine voice (2026-11-16, evening) — WAITING FOR THE OWNER'S EAR AND PICTURES
+
+- The owner gave up recording ChatGPT's voice and asked for the best Arabic voice a session can
+  make. Tried with their permission: **edge-tts** (Microsoft neural voices, free, no key, unofficial;
+  it sends the text to Microsoft). They liked the multilingual voices ("like Brian") and asked for:
+  **women narrators only**, varied; **characters' voices that fit the picture's characters**; and
+  the voice **in step with the circles**, with no audible joins. Built as `tools/content/voice.py`
+  with `content/voices.json` (see the skill, step 6): one audio file per track, parts made one by
+  one, joined with chosen pauses, each sentence's start written as `t`.
+- **Lessons 41-45 are published** this way (story: narrator + characters; explanation: one English
+  voice), written "table first" (elements = facts as `#` lines in `batch.txt`). No pictures yet:
+  the owner was sent `image-prompts-41-45.json`. Work files: `work/shahzad-2015/batch-0041-0045/`.
+- **Nobody has heard these files.** A session cannot listen. Not known: whether the vowelling is
+  right everywhere, whether "old" voices (slower, lower pitch; the service has no aged voices)
+  convince, whether the pauses feel natural, whether Vivienne and Thalita (French and Portuguese
+  voices) read Arabic and are acceptable narrators. Ask the owner; change `voices.json` or the
+  vowelled line and run `make` again (a remade file gets a `-v2` name).
+- The five quotations are from memory of well-known lines (Notes from Underground twice, Crime and
+  Punishment twice, The Idiot); **not checked against a printed Arabic translation**. The owner was
+  told that no quotation in the library has been checked that way and that a verified quotation
+  bank would fix it; they have not asked for it yet.
+- Not done: the automatic check of the audio by speech recognition (planned, not built); voice for
+  lessons 11-30 (phone voice) and the English explanations of 1-40; whether to replace the owner's
+  own recordings of 1-10 and 31-40 (they did not say).
+- When pictures 41-45 arrive: `batch.py pictures`, spots, then `batch.py marks` from the `#` tables.
+- Ideas discussed and not built, for quality at low cost: a fixed cast of characters per concept, a
+  symbol dictionary (same fact, same symbol), a style sheet from sentences the owner likes, a cheap
+  reviewing agent, a verified quotation bank. The owner listened and moved on to the voice.
+
 ## App
 
 - **2.4 (versionCode 15)** is on `main` (see above); before it 2.3, 2.2 and 2.1 (versionCode 12), handed to the
@@ -126,7 +155,7 @@ table sits **under** the picture, **fixed**, its rows scrolling. Built, APK hand
 
 ## Content
 
-- Book `shahzad-2015` (200 questions): **lessons 1-20 are published and complete** (Arabic story
+- Book `shahzad-2015` (200 questions): lessons 41-45 see above. **Lessons 1-20 are published and complete** (Arabic story
   ending in a real Dostoevsky quotation, English explanation, question, tags, picture, spots).
   Chapter id `q0001-0100`, lesson ids `shahzad-q0001` … Never change them.
 - **Lessons 31-40 are complete, with recorded story voice** (published 2026-11-15): pictures (the
