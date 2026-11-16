@@ -27,6 +27,29 @@ class DashboardTest {
         chapters = listOf(ChapterInfo("c", "Chapter", source = "book:x", lessons = (1..lessons).map { LessonInfo("q$it", "Question $it of $id", tags = listOf("cardiac/aortic-valve")) })),
     )
 
+    /** Topics are counted across books: each tag, and every tag above it, by how often its lessons were studied. */
+    @Test
+    fun tagsCountHowOftenTheirLessonsWereStudiedAcrossBooks() {
+        val lessons = listOf(
+            "a/c/q1" to listOf("cardiac/aortic-valve", "d:anatomy"),
+            "a/c/q2" to listOf("cardiac/cpb", "d:anatomy"),
+            "b/c/q1" to listOf("cardiac/aortic-valve", "d:technique"),   // another book, same topic
+            "b/c/q2" to listOf("thoracic/pleura", "d:technique"),
+        )
+        val cards = mapOf(
+            "a/c/q1" to CardState(Phase.REVIEW, due = now + day, reps = 2),
+            "b/c/q1" to CardState(Phase.REVIEW, due = now - day, reps = 9, lapses = 1),
+            "b/c/q2" to CardState(Phase.LEARNING, due = now + day, reps = 1),
+        )
+        val stats = app.youtop.study.Tags.stats(lessons, cards, now)
+        assertEquals(listOf(0, 0, 1, 0, 0, 1), stats.getValue("cardiac/aortic-valve").studied.toList())
+        assertEquals(listOf(1, 0, 1, 0, 0, 1), stats.getValue("cardiac").studied.toList())
+        assertEquals(listOf(1, 0, 1, 0, 0, 0), stats.getValue("d:anatomy").studied.toList())
+        assertEquals(listOf(0, 1, 0, 0, 0, 0), stats.getValue("thoracic").studied.toList())
+        assertEquals(3, stats.getValue("cardiac").lessons)
+        assertEquals(1, stats.getValue("cardiac").due)
+    }
+
     @Test
     fun countsWhatIsDueLearnedAndComing() {
         val books = listOf(book("a", 10), book("b", 5))

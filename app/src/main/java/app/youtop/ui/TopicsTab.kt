@@ -49,6 +49,11 @@ import androidx.compose.ui.graphics.Brush
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.platform.LocalConfiguration
+import androidx.compose.ui.platform.LocalContext
+import androidx.compose.ui.draw.alpha
+import androidx.compose.ui.layout.ContentScale
+import androidx.compose.foundation.layout.fillMaxSize
+import coil3.compose.AsyncImage
 import androidx.compose.ui.res.pluralStringResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.semantics.Role
@@ -106,6 +111,9 @@ fun TopicsTab(vm: MainViewModel, onStudy: () -> Unit) {
     val expanded = remember { mutableStateMapOf<String, Boolean>() }
     val setFocus: (Set<String>) -> Unit = { vm.setStudy(study.copy(focus = it)) }
     val toggle: (String) -> Unit = { setFocus(Tags.toggle(focus, it)) }
+    // The cover pictures built into the app (assets/topics), by file name.
+    val context = LocalContext.current
+    val covers = remember { runCatching { context.assets.list("topics")?.toSet() }.getOrNull().orEmpty() }
 
     val stats by produceState(emptyMap<String, Tags.Stat>(), books, progress.cards, study.excludedBooks) {
         value = withContext(Dispatchers.Default) {
@@ -180,12 +188,31 @@ fun TopicsTab(vm: MainViewModel, onStudy: () -> Unit) {
                 }
             }
         }
+        item(key = "key") {
+            Column(Modifier.padding(horizontal = 4.dp), verticalArrangement = Arrangement.spacedBy(6.dp)) {
+                Text(stringResource(R.string.reps_caption), color = Faint, fontSize = 12.sp)
+                RepsKey()
+            }
+        }
         taxonomy.facets.forEachIndexed { index, facet ->
             if (facet.id == "topic") {
-                items(facet.nodes.size, key = { "topic:${facet.nodes[it].id}:$it" }) { i ->
-                    val node = facet.nodes[i]
+                facet.nodes.forEachIndexed { i, node ->
                     val open = expanded[node.id] ?: (stats[node.id] != null || focus.any { Tags.under(it, node.id) })
-                    Specialty(node, stats, focus, arabic, open, onOpen = { expanded[node.id] = !open }, onToggle = toggle)
+                    item(key = "topic:${node.id}:$i") {
+                        Specialty(vm, node, stats[node.id], covers, node.id in focus, arabic, open, onOpen = { expanded[node.id] = !open }, onToggle = toggle)
+                    }
+                    if (open) {
+                        // The subtopics as covers, two to a row.
+                        val rows = node.children.chunked(2)
+                        items(rows.size, key = { "tiles:${node.id}:$it" }) { r ->
+                            Row(horizontalArrangement = Arrangement.spacedBy(12.dp)) {
+                                rows[r].forEach { child ->
+                                    TopicTile(vm, child, stats[child.id], covers, child.id in focus, arabic, Modifier.weight(1f)) { toggle(child.id) }
+                                }
+                                if (rows[r].size == 1) Spacer(Modifier.weight(1f))
+                            }
+                        }
+                    }
                 }
             } else {
                 item(key = "facet:${facet.id}:$index") { FacetCard(facet, stats, focus, arabic, toggle) }
@@ -194,89 +221,135 @@ fun TopicsTab(vm: MainViewModel, onStudy: () -> Unit) {
     }
 }
 
-/** One specialty: a header that chooses all of it, and its subtopics underneath. */
+/** Where a tag's cover picture is: its own from the published tag system, or the one built into the app. */
+private fun coverOf(vm: MainViewModel, node: TagNode, bundled: Set<String>): Any? =
+    node.cover?.let { vm.media.imageModel(it) }
+        ?: "${node.id.replace('/', '-').replace(':', '-')}.webp".takeIf { it in bundled }?.let { "file:///android_asset/topics/$it" }
+
+/** A tag's cover: its picture under a shade that lets the text on it be read, or its colour and sign when it has none. */
 @Composable
-private fun Specialty(node: TagNode, stats: Map<String, Tags.Stat>, focus: Set<String>, arabic: Boolean, open: Boolean, onOpen: () -> Unit, onToggle: (String) -> Unit) {
-    val look = lookOf(node.id)
-    val stat = stats[node.id]
-    val selected = node.id in focus
-    val shape = RoundedCornerShape(22.dp)
-    val turn by animateFloatAsState(if (open) 180f else 0f, label = "turn")
-    Column(
-        Modifier.fillMaxWidth().clip(shape)
-            .background(Brush.verticalGradient(listOf(look.color.copy(alpha = 0.16f), Surface1)))
-            .border(1.dp, if (selected) look.color else look.color.copy(alpha = 0.22f), shape),
-    ) {
-        Row(
-            Modifier.fillMaxWidth().clickable(enabled = node.children.isNotEmpty(), onClick = onOpen).padding(14.dp),
-            verticalAlignment = Alignment.CenterVertically,
-        ) {
-            Box(Modifier.size(46.dp).clip(RoundedCornerShape(14.dp)).background(look.color.copy(alpha = 0.22f)), contentAlignment = Alignment.Center) {
-                Icon(look.icon, null, tint = look.color, modifier = Modifier.size(24.dp))
-            }
-            Spacer(Modifier.width(12.dp))
-            Column(Modifier.weight(1f), verticalArrangement = Arrangement.spacedBy(5.dp)) {
-                Row(verticalAlignment = Alignment.CenterVertically) {
-                    Text(node.label(arabic), color = Color.White, fontSize = 17.sp, fontWeight = FontWeight.SemiBold, maxLines = 1, overflow = TextOverflow.Ellipsis, modifier = Modifier.weight(1f, fill = false))
-                    if (node.children.isNotEmpty()) Icon(Icons.Rounded.ExpandMore, null, tint = Faint, modifier = Modifier.size(20.dp).rotate(turn))
-                }
-                Row(verticalAlignment = Alignment.CenterVertically, horizontalArrangement = Arrangement.spacedBy(8.dp)) {
-                    Text(
-                        if (stat == null) stringResource(R.string.topic_empty) else ratio(stat.seen, stat.lessons),
-                        color = Faint, fontSize = 12.sp,
-                    )
-                    if (stat != null && stat.due > 0) DueBadge(stat.due)
-                    stat?.weakness?.let { Score(it) }
-                }
-                ProgressLine((stat?.seen ?: 0).toFloat() / (stat?.lessons ?: 1).coerceAtLeast(1), color = look.color)
-            }
-            Spacer(Modifier.width(12.dp))
-            Tick(selected, look.color, stringResource(R.string.focus_choose, node.label(arabic))) { onToggle(node.id) }
-        }
-        AnimatedVisibility(visible = open && node.children.isNotEmpty()) {
-            Column(Modifier.padding(bottom = 8.dp)) {
-                node.children.forEach { child ->
-                    val s = stats[child.id]
-                    val on = child.id in focus
-                    Row(
-                        Modifier.fillMaxWidth().semantics { this.selected = on }
-                            .clickable(role = Role.Checkbox) { onToggle(child.id) }
-                            .background(if (on) look.color.copy(alpha = 0.12f) else Color.Transparent)
-                            .padding(start = 18.dp, end = 14.dp, top = 9.dp, bottom = 9.dp),
-                        verticalAlignment = Alignment.CenterVertically,
-                    ) {
-                        Box(Modifier.size(6.dp).clip(CircleShape).background(if (s == null) Color.White.copy(alpha = 0.2f) else look.color))
-                        Spacer(Modifier.width(12.dp))
-                        Text(
-                            child.label(arabic),
-                            color = if (s == null && !on) Color.White.copy(alpha = 0.45f) else Color.White,
-                            fontSize = 15.sp, fontWeight = if (on) FontWeight.SemiBold else FontWeight.Normal,
-                            maxLines = 2, overflow = TextOverflow.Ellipsis, modifier = Modifier.weight(1f),
-                        )
-                        if (s != null) {
-                            Spacer(Modifier.width(8.dp))
-                            s.weakness?.let { Score(it); Spacer(Modifier.width(8.dp)) }
-                            if (s.due > 0) { DueBadge(s.due); Spacer(Modifier.width(8.dp)) }
-                            Text(ratio(s.seen, s.lessons), color = Faint, fontSize = 12.sp)
-                        }
-                        Spacer(Modifier.width(10.dp))
-                        Tick(on, look.color, null, small = true, onClick = null)
-                    }
-                }
-            }
+private fun TopicCover(vm: MainViewModel, node: TagNode, bundled: Set<String>, look: Look, modifier: Modifier = Modifier) {
+    val model = remember(node.id, node.cover, bundled) { coverOf(vm, node, bundled) }
+    Box(modifier.background(Brush.linearGradient(listOf(look.color.copy(alpha = 0.55f), look.color.copy(alpha = 0.12f))))) {
+        if (model != null) {
+            AsyncImage(model = model, contentDescription = null, contentScale = ContentScale.Crop, modifier = Modifier.fillMaxSize())
+        } else {
+            Icon(look.icon, null, tint = Color.White.copy(alpha = 0.28f), modifier = Modifier.align(Alignment.Center).size(44.dp))
         }
     }
 }
 
-/** A flat group of tags (kind of knowledge, question style, level, flags) as chips with their lesson counts. */
-@OptIn(ExperimentalLayoutApi::class)
+/**
+ * One specialty across all books: its cover, how often its lessons were studied as the coloured
+ * bar with the six numbers, and a tick that studies all of it. Tapping the cover folds its subtopics.
+ */
+@Composable
+private fun Specialty(
+    vm: MainViewModel, node: TagNode, stat: Tags.Stat?, covers: Set<String>, selected: Boolean, arabic: Boolean,
+    open: Boolean, onOpen: () -> Unit, onToggle: (String) -> Unit,
+) {
+    val look = lookOf(node.id)
+    val shape = RoundedCornerShape(22.dp)
+    val turn by animateFloatAsState(if (open) 180f else 0f, label = "turn")
+    val studied = stat?.studied?.toList() ?: List(RepsColors.size) { 0 }
+    Column(Modifier.fillMaxWidth().clip(shape).background(Surface1).border(1.dp, if (selected) look.color else look.color.copy(alpha = 0.25f), shape)) {
+        Box(Modifier.fillMaxWidth().height(124.dp).clickable(enabled = node.children.isNotEmpty(), onClick = onOpen)) {
+            TopicCover(vm, node, covers, look, Modifier.fillMaxSize())
+            Box(Modifier.fillMaxSize().background(Brush.verticalGradient(0f to Color.Black.copy(alpha = 0.10f), 0.5f to Surface1.copy(alpha = 0.45f), 1f to Surface1)))
+            Row(Modifier.align(Alignment.BottomStart).padding(horizontal = 14.dp, vertical = 8.dp), verticalAlignment = Alignment.CenterVertically) {
+                Box(Modifier.size(40.dp).clip(RoundedCornerShape(13.dp)).background(look.color.copy(alpha = 0.9f)), contentAlignment = Alignment.Center) {
+                    Icon(look.icon, null, tint = Ink, modifier = Modifier.size(22.dp))
+                }
+                Spacer(Modifier.width(12.dp))
+                Column(Modifier.weight(1f)) {
+                    Row(verticalAlignment = Alignment.CenterVertically) {
+                        Text(node.label(arabic), color = Color.White, fontSize = 19.sp, fontWeight = FontWeight.Bold, maxLines = 1, overflow = TextOverflow.Ellipsis, modifier = Modifier.weight(1f, fill = false))
+                        if (node.children.isNotEmpty()) Icon(Icons.Rounded.ExpandMore, null, tint = Faint, modifier = Modifier.size(22.dp).rotate(turn))
+                    }
+                    Row(verticalAlignment = Alignment.CenterVertically, horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+                        Text(
+                            if (stat == null) stringResource(R.string.topic_empty) else pluralStringResource(R.plurals.lessons_count, stat.lessons, stat.lessons),
+                            color = Faint, fontSize = 13.sp,
+                        )
+                        if (stat != null && stat.due > 0) DueBadge(stat.due)
+                        stat?.weakness?.let { Score(it) }
+                    }
+                }
+            }
+            Box(Modifier.align(Alignment.TopEnd).padding(12.dp)) {
+                Tick(selected, look.color, stringResource(R.string.focus_choose, node.label(arabic)), onCover = true) { onToggle(node.id) }
+            }
+        }
+        Column(Modifier.padding(start = 14.dp, end = 14.dp, bottom = 14.dp, top = 2.dp), verticalArrangement = Arrangement.spacedBy(8.dp)) {
+            RepsBar(studied)
+            RepsLegend(studied)
+        }
+    }
+}
+
+/** One subtopic as a small cover: picture, name, the coloured bar and its six numbers. Tap to study only it. */
+@Composable
+private fun TopicTile(vm: MainViewModel, node: TagNode, stat: Tags.Stat?, covers: Set<String>, selected: Boolean, arabic: Boolean, modifier: Modifier = Modifier, onClick: () -> Unit) {
+    val look = lookOf(node.id)
+    val shape = RoundedCornerShape(18.dp)
+    val studied = stat?.studied?.toList() ?: List(RepsColors.size) { 0 }
+    Column(
+        modifier.clip(shape).background(Surface1)
+            .border(if (selected) 2.dp else 1.dp, if (selected) look.color else Color.White.copy(alpha = 0.08f), shape)
+            .semantics { this.selected = selected }
+            .clickable(role = Role.Checkbox, onClick = onClick),
+    ) {
+        Box(Modifier.fillMaxWidth().height(86.dp)) {
+            TopicCover(vm, node, covers, look, Modifier.fillMaxSize().alpha(if (stat == null) 0.6f else 1f))
+            Box(Modifier.fillMaxSize().background(Brush.verticalGradient(0.4f to Color.Transparent, 1f to Surface1)))
+            if (stat != null && stat.due > 0) Box(Modifier.align(Alignment.TopStart).padding(8.dp)) { DueBadge(stat.due) }
+            Box(Modifier.align(Alignment.TopEnd).padding(8.dp)) { Tick(selected, look.color, null, small = true, onCover = true, onClick = null) }
+        }
+        Column(Modifier.padding(start = 10.dp, end = 10.dp, bottom = 10.dp), verticalArrangement = Arrangement.spacedBy(6.dp)) {
+            Text(
+                node.label(arabic), color = if (stat == null && !selected) Color.White.copy(alpha = 0.5f) else Color.White,
+                fontSize = 13.5.sp, lineHeight = 18.sp, fontWeight = FontWeight.SemiBold, minLines = 2, maxLines = 2, overflow = TextOverflow.Ellipsis,
+            )
+            RepsBar(studied, height = 8.dp)
+            RepsNumbers(studied)
+        }
+    }
+}
+
+/**
+ * A flat group of tags (kind of knowledge, question style, level, flags): each a row with its
+ * tick, its name, how many of its lessons were started and the same coloured bar.
+ */
 @Composable
 private fun FacetCard(facet: Facet, stats: Map<String, Tags.Stat>, focus: Set<String>, arabic: Boolean, onToggle: (String) -> Unit) {
-    Card(title = facet.label(arabic)) {
-        FlowRow(horizontalArrangement = Arrangement.spacedBy(8.dp), verticalArrangement = Arrangement.spacedBy(8.dp)) {
-            facet.nodes.forEach { node ->
-                val stat = stats[node.id]
-                TagChip(node.label(arabic), stat?.let { num(it.lessons) }, selected = node.id in focus, dim = stat == null) { onToggle(node.id) }
+    Card(title = facet.label(arabic), spacing = 4.dp) {
+        facet.nodes.forEach { node ->
+            val stat = stats[node.id]
+            val on = node.id in focus
+            Row(
+                Modifier.fillMaxWidth().clip(RoundedCornerShape(12.dp)).semantics { selected = on }
+                    .clickable(role = Role.Checkbox) { onToggle(node.id) }
+                    .background(if (on) Accent.copy(alpha = 0.10f) else Color.Transparent)
+                    .padding(horizontal = 6.dp, vertical = 8.dp),
+                verticalAlignment = Alignment.CenterVertically,
+            ) {
+                Tick(on, Accent, null, small = true, onClick = null)
+                Spacer(Modifier.width(12.dp))
+                Column(Modifier.weight(1f), verticalArrangement = Arrangement.spacedBy(6.dp)) {
+                    Row(verticalAlignment = Alignment.CenterVertically) {
+                        Text(
+                            node.label(arabic), color = if (stat == null && !on) Color.White.copy(alpha = 0.45f) else Color.White,
+                            fontSize = 14.5.sp, fontWeight = if (on) FontWeight.SemiBold else FontWeight.Normal,
+                            maxLines = 1, overflow = TextOverflow.Ellipsis, modifier = Modifier.weight(1f),
+                        )
+                        if (stat != null) {
+                            stat.weakness?.let { Score(it); Spacer(Modifier.width(8.dp)) }
+                            if (stat.due > 0) { DueBadge(stat.due); Spacer(Modifier.width(8.dp)) }
+                            Text(ratio(stat.seen, stat.lessons), color = Faint, fontSize = 12.sp)
+                        }
+                    }
+                    RepsBar(stat?.studied?.toList() ?: List(RepsColors.size) { 0 }, height = 6.dp)
+                }
             }
         }
     }
@@ -306,12 +379,12 @@ private fun TagChip(text: String, figure: String?, selected: Boolean, tint: Colo
 
 /** The round tick that says a tag is chosen. With [onClick] it is a button of its own. */
 @Composable
-private fun Tick(on: Boolean, color: Color, label: String?, small: Boolean = false, onClick: (() -> Unit)?) {
+private fun Tick(on: Boolean, color: Color, label: String?, small: Boolean = false, onCover: Boolean = false, onClick: (() -> Unit)?) {
     val size = if (small) 22.dp else 32.dp
     Box(
         Modifier.size(size).clip(CircleShape)
-            .background(if (on) color else Color.Transparent)
-            .border(1.5.dp, if (on) color else Color.White.copy(alpha = 0.35f), CircleShape)
+            .background(if (on) color else if (onCover) Color.Black.copy(alpha = 0.45f) else Color.Transparent)
+            .border(1.5.dp, if (on) color else Color.White.copy(alpha = if (onCover) 0.7f else 0.35f), CircleShape)
             .then(if (onClick != null) Modifier.semantics { if (label != null) contentDescription = label; selected = on }.clickable(role = Role.Checkbox, onClick = onClick) else Modifier),
         contentAlignment = Alignment.Center,
     ) {

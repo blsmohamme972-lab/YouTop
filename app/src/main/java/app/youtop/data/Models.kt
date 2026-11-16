@@ -219,7 +219,14 @@ data class Facet(
 }
 
 @Serializable
-data class TagNode(val id: String, val title: String, val titleAr: String? = null, val children: List<TagNode> = emptyList()) {
+data class TagNode(
+    val id: String,
+    val title: String,
+    val titleAr: String? = null,
+    val children: List<TagNode> = emptyList(),
+    /** A cover picture (same reference format as lesson images); without it the one built into the app is used. */
+    val cover: String? = null,
+) {
     fun label(arabic: Boolean) = (if (arabic) titleAr else null) ?: title
 }
 

@@ -1,0 +1,172 @@
+{
+ "cardiac": {
+  "title": "File:Gray490.png",
+  "license": "Public domain (Gray's Anatomy, 1918)",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray490.png"
+ },
+ "cardiac/foundations": {
+  "title": "File:Gray496.png",
+  "license": "Public domain (Gray's Anatomy, 1918)",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray496.png"
+ },
+ "cardiac/cpb": {
+  "title": "Open-heart surgery, NIH, 1955",
+  "license": "cc0 1.0",
+  "page": "https://www.rawpixel.com/image/8764796/photo-image-books-doctor-people"
+ },
+ "cardiac/coronary": {
+  "title": "File:Gray492.png",
+  "license": "Public domain (Gray's Anatomy, 1918)",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray492.png"
+ },
+ "cardiac/aortic-valve": {
+  "title": "File:Gray497.png",
+  "license": "Public domain (Gray's Anatomy, 1918)",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray497.png"
+ },
+ "cardiac/mitral-tricuspid": {
+  "title": "File:Gray495.png",
+  "license": "Public domain (Gray's Anatomy, 1918)",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray495.png"
+ },
+ "cardiac/aorta": {
+  "title": "File:Gray505.png",
+  "license": "Public domain (Gray's Anatomy, 1918)",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray505.png"
+ },
+ "cardiac/congenital": {
+  "title": "File:Gray502.png",
+  "license": "Public domain (Gray's Anatomy, 1918)",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray502.png"
+ },
+ "cardiac/heart-failure": {
+  "title": "File:Gray498.png",
+  "license": "Public domain (Gray's Anatomy, 1918)",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray498.png"
+ },
+ "cardiac/arrhythmia": {
+  "title": "File:Gray501.png",
+  "license": "Public domain (Gray's Anatomy, 1918)",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray501.png"
+ },
+ "cardiac/perioperative": {
+  "title": "File:SinusRhythmLabels.svg",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:SinusRhythmLabels.svg"
+ },
+ "cardiac/other": {
+  "title": "File:Gray489.png",
+  "license": "Public domain (Gray's Anatomy, 1918)",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray489.png"
+ },
+ "thoracic": {
+  "title": "Lungs, anatomy hand drawn illustration",
+  "license": "cc0 1.0",
+  "page": "https://www.rawpixel.com/image/6270769/image-vintage-public-domain-covid"
+ },
+ "thoracic/foundations": {
+  "title": "File:Gray965.png",
+  "license": "Public domain (Gray's Anatomy, 1918)",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray965.png"
+ },
+ "thoracic/lung-cancer": {
+  "title": "X-ray of lobar pneumonia",
+  "license": "cc0 1.0",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=74210787"
+ },
+ "thoracic/lung-benign": {
+  "title": "Two chest x-rays in the case",
+  "license": "cc0 1.0",
+  "page": "https://www.rawpixel.com/image/2288367/free-photo-image-ray-pneumonia-public-domain"
+ },
+ "thoracic/pleura": {
+  "title": "Pleura tolesak hiloaren inguruan",
+  "license": "cc0 1.0",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=113303804"
+ },
+ "thoracic/mediastinum": {
+  "title": "File:3D CT of thorax.jpg",
+  "license": "cc0 1.0",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=60474275"
+ },
+ "thoracic/airway": {
+  "title": "File:Gray961.png",
+  "license": "Public domain (Gray's Anatomy, 1918)",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray961.png"
+ },
+ "thoracic/oesophagus": {
+  "title": "Identifier: textbookofmassag00desprich (find matches)Title: Text-book",
+  "license": "cc0 1.0",
+  "page": "https://www.rawpixel.com/image/9976184/image-person-art-vintage"
+ },
+ "thoracic/chest-wall": {
+  "title": "Sternum right side rib cage",
+  "license": "cc0 1.0",
+  "page": "https://www.rawpixel.com/image/16408067/image-person-pattern-microphone"
+ },
+ "thoracic/trauma": {
+  "title": "Rib fracture 2347",
+  "license": "cc0 1.0",
+  "page": "https://commons.wikimedia.org/w/index.php?curid=12073793"
+ },
+ "thoracic/transplant": {
+  "title": "File:Gray972.png",
+  "license": "Public domain (Gray's Anatomy, 1918)",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray972.png"
+ },
+ "vascular": {
+  "title": "File:Gray577.png",
+  "license": "Public domain (Gray's Anatomy, 1918)",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray577.png"
+ },
+ "vascular/foundations": {
+  "title": "Fat cells (red) and blood vessels (green)",
+  "license": "pdm 1.0",
+  "page": "https://www.flickr.com/photos/132318516@N08/20657194336"
+ },
+ "vascular/aorta": {
+  "title": "File:Gray531.png",
+  "license": "Public domain (Gray's Anatomy, 1918)",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray531.png"
+ },
+ "vascular/carotid": {
+  "title": "File:Gray507.png",
+  "license": "Public domain (Gray's Anatomy, 1918)",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray507.png"
+ },
+ "vascular/peripheral": {
+  "title": "File:Gray551.png",
+  "license": "Public domain (Gray's Anatomy, 1918)",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray551.png"
+ },
+ "vascular/visceral": {
+  "title": "File:Gray534.png",
+  "license": "Public domain (Gray's Anatomy, 1918)",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray534.png"
+ },
+ "vascular/venous": {
+  "title": "Veins leg. Coloured lithograph William",
+  "license": "cc0 1.0",
+  "page": "https://www.rawpixel.com/image/13975816/image-person-art-pattern"
+ },
+ "vascular/access": {
+  "title": "File:Gray525.png",
+  "license": "Public domain (Gray's Anatomy, 1918)",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray525.png"
+ },
+ "vascular/endovascular": {
+  "title": "different stents",
+  "license": "pdm 1.0",
+  "page": "https://www.flickr.com/photos/92423150@N03/54070360700"
+ },
+ "vascular/trauma": {
+  "title": "File:Gray549.png",
+  "license": "Public domain (Gray's Anatomy, 1918)",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray549.png"
+ },
+ "vascular/other": {
+  "title": "Identifier: anatomyphysiolo00hewe (find matches)Title: Anatomy",
+  "license": "cc0 1.0",
+  "page": "https://www.rawpixel.com/image/9976070/image-hand-art-spaces"
+ }
+}
