@@ -33,6 +33,9 @@ The batch file (UTF-8 text). A line "== 41" starts question 41; then "key: value
     tags: cardiac/foundations d:physiology q:recall l:1
     palette: cold blue dawn with one blaze of gold
     words: 8, 10, 12                      (optional: the few short labels painted in the picture)
+    must: the clerk holds up exactly two fingers; the left door leaf is the larger one
+                                          (optional: the few details the story depends on; the prompt
+                                           repeats them at its end as things that must be exactly so)
     scene: dawn at the only gate of a small hill fortress. ...
     story:
     كان لقلعة التلّ بابٌ واحد ...
@@ -69,7 +72,7 @@ import argparse, json, pathlib, re, shutil, subprocess, sys, unicodedata
 ROOT = pathlib.Path(__file__).resolve().parents[2]
 DEFAULT_FOLDER = ROOT / ".content-work"
 LATIN = re.compile(r"[A-Za-z]")
-KEYS = {"title", "titleAr", "tags", "palette", "words", "scene", "story", "quote", "source", "explanation", "note"}
+KEYS = {"title", "titleAr", "tags", "palette", "words", "must", "scene", "story", "quote", "source", "explanation", "note"}
 MULTI = {"story", "explanation"}
 
 
@@ -209,6 +212,7 @@ def image_prompt(cfg, b):
             " Every object must be visually meaningful, distinctive and easy to recall, and all of them must be linked by "
             "physical interaction and cause-and-effect inside this one scene. No literal anatomy, no organs, no medical "
             "equipment, no unrelated objects. " + labels +
+            (f"These details matter most and must be painted exactly as stated: {b['must'].strip().rstrip('.')}. " if b.get("must") else "") +
             f"Save the image with the file name {b['n']} and upload it to: "
             f"https://drive.google.com/drive/folders/{cfg['imagesFolder']}")
 
@@ -246,6 +250,8 @@ def lint(cfg, b, q, used, problems, warnings):
         if hit:
             problems.append(f"{w}: this quotation is already used in {hit[0]}")
         used[normal(quote)] = (lesson_id(cfg, b["n"]), quote, "")
+    if b.get("must") and len(b["must"]) > 260:
+        warnings.append(f"{w}: 'must' is long; name only the two or three details the story cannot do without")
     if b.get("words") and len(b["words"]) > 40:
         warnings.append(f"{w}: 'words' is long; image generators misspell more than a few short labels")
     if q is not None and expl:

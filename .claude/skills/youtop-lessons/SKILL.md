@@ -144,6 +144,53 @@ certificate store needs the session's proxy certificate first:
 `cat /root/.ccr/ca-bundle.crt >> $(<venv>/bin/python -c "import certifi;print(certifi.where())")`.
 Nobody can hear the result but the owner: ask them how it sounds and fix what they name.
 
+## 7. Keeping errors out (the owner asked for this on 2026-11-16; it applies to every new batch)
+
+Nobody but the owner can see the app or hear the voice, so each kind of mistake has its own check.
+None of them is optional, and none of them is a reason to touch lessons already published.
+
+**Before the prompts are handed over** (a mistake here costs the owner a picture):
+- Every element of the table is in the scene, with its place in the frame, and the ANSWER element
+  is the dominant one. Read the scene once as the image generator would: is anything ambiguous?
+- Do not hang the story on what generators get wrong: how many fingers, left against right, exact
+  counts above three, small text. A number that matters is a painted label (`words:`, at most
+  three); a detail the story cannot do without goes in `must:` (the prompt repeats it at its end).
+- Painted labels are digits or single letters, never words.
+
+**While writing** (the tools check what they can; read every warning):
+- `batch.py build` refuses a repeated quotation, a changed recorded text, a missing field, and
+  warns when the explanation never names the correct answer.
+- A quotation is used only if you are sure of the line and of the work it is from. If in doubt,
+  take another: a famous genuine line beats a perfect doubtful one. Say plainly to the owner that
+  quotations are from memory until a verified bank exists.
+- Medicine: only what the book's own explanation and mainstream teaching both support; no number
+  you are not sure of; when the book's key is debatable keep it and say so in `note:`.
+
+**After `voice.py make`** (the machine's ear):
+
+    <venv>/bin/python tools/content/voice.py check voice.txt       # pip install faster-whisper
+
+A speech recogniser on this machine writes down what it hears and each sentence is compared with
+its text, inside its own time window. A sentence marked LISTEN TO THIS ONE was misread, cut, or
+starts at the wrong moment: fix its vowelled line (or the role's voice) and make it again. A clean
+run proves the words and the timing, not every vowel: still ask the owner how it sounds.
+Give every spoken part at least three words: a one-word shout was the only part the recogniser
+could not hear in lessons 41-45.
+
+**When the pictures arrive, before the final publish** (two pairs of eyes):
+- Go through the story sentence by sentence against the picture itself, not against the prompt.
+  Where the picture differs, the picture wins: change that line in `voice.txt`, `fill`, `build`,
+  `make` (only that sentence is spoken again). Only when the ANSWER element is missing or a painted
+  number is wrong, ask the owner for that one picture again, and say exactly what was wrong.
+- Read every painted number and letter in the picture and compare it with `words:`.
+- Draw the circles (`<n>-spots.jpg`, `<n>-marks.jpg`) and look at every one.
+- Then have a **second agent, who has not seen your work, check it**: give it the pictures, the
+  sentences and the marks table, and ask it only to find errors (picture against story, circles,
+  table, medicine, Arabic, quotation), not to fix them. Do not tell it what you think is right.
+  Fix what it finds that is real, and tell the owner what was found and what you left.
+
+**In the hand-over message** say what was checked by whom, and what nobody could check.
+
 ## Rules that are never broken
 
 - Nothing is uploaded to Drive (every write prompts the owner). Publishing is `git push` only.

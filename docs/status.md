@@ -73,6 +73,18 @@ while the agent writes stories, explanations and voice. It is written in the ski
 order") and in `CLAUDE.md`. Next batch: questions 46 onwards. The owner has still not said how
 the voices sound; ask when they have listened.
 
+The same night the owner asked to **lower the risk of mistakes in future work — and to correct
+nothing in what is published** (lesson 44's "two fingers" stays as it is). Added for new batches
+only: `must:` in `batch.txt` (details the prompt repeats as exact), `voice.py check` (a local
+speech recogniser listens to the audio and compares each sentence with its text and its time
+window), and the skill's step 7 with every check, including a second agent that only looks for
+errors. `voice.py check` was run, read-only, on lessons 41-45 (2026-11-16): every story and explanation
+sentence was heard as written and inside its own time window (so the four narrators, the French
+and Portuguese ones included, do read the Arabic, and the timings hold), **except one**: lesson 44,
+story sentence 8, where the one-word shout "واحدة!" was not heard. It may be swallowed or garbled
+in the audio; **left as it is** on the owner's word. If they complain about that sentence, make it
+again with a longer shout. Lesson drawn (in the skill): a spoken part needs at least three words.
+
 ## Lessons 41-45 and the machine voice (2026-11-16, evening) — WAITING FOR THE OWNER'S EAR AND PICTURES
 
 - The owner gave up recording ChatGPT's voice and asked for the best Arabic voice a session can
