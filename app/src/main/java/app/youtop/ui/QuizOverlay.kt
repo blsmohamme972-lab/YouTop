@@ -132,7 +132,7 @@ fun QuizOverlay(
     val order = remember(index, question) {
         state.orders[index]?.takeIf { it.size == question.options.size } ?: optionOrder(question, shuffle).also { state.orders[index] = it }
     }
-    val last = index == questions.lastIndex
+    val last = index >= questions.lastIndex
     val countdown = remember { Animatable(0f) }
     val scroll = rememberScrollState()
     val direction = if (isRtl(question.lang)) TextDirection.Rtl else TextDirection.Ltr

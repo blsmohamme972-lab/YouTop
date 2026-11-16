@@ -48,8 +48,10 @@ data class StudySettings(
     val excludedBooks: Set<String> = emptySet(),
     /** Tags the feed is limited to (see [Tags.matches]); empty means everything. */
     val focus: Set<String> = emptySet(),
-    /** Start new lessons from the topics that are going worst. */
-    val weakFirst: Boolean = true,
+    /** The one book being studied (its id), as a deck is chosen in Anki; null means every book together. */
+    val book: String? = null,
+    /** Start new lessons from the topics that are going worst, instead of in the book's own order. */
+    val weakFirst: Boolean = false,
 ) {
     companion object {
         val Relaxed = StudySettings(newPerDay = 10, dailyGoal = 15)
@@ -162,11 +164,13 @@ object Scheduler {
             else -> return card.copy(stability = Memory.firstStability(rating), difficulty = Memory.firstDifficulty(rating))
         }
         val difficulty = if (card.difficulty > 0f) card.difficulty else Memory.difficultyFromEase(card.ease)
-        val days = when {
+        val exact = when {
             card.seen > 0L -> (now - card.seen).toFloat() / DAY
             card.phase == Phase.REVIEW -> card.interval + (now - card.due).toFloat() / DAY
             else -> 0f
         }
+        // A learned lesson reviewed on its due day, some hours before its minute, waited its full interval.
+        val days = if (card.phase == Phase.REVIEW && exact < card.interval && card.interval - exact < 1f) card.interval else exact
         val recall = Memory.recall(days, stability)
         return card.copy(
             stability = if (rating == Rating.AGAIN) Memory.afterLapse(difficulty, stability, recall) else Memory.afterSuccess(difficulty, stability, recall, rating),
@@ -180,7 +184,7 @@ object Scheduler {
                 // Smart: wait until the chance of recall has fallen to the target.
                 // (A first answer that was merely quick is not trusted with weeks: see easyDays.)
                 s.smart && card.stability > 0f -> Memory.interval(s.retention, card.stability)
-                    .let { if (card.reps <= 1 && rating == Rating.EASY) min(it, s.easyDays) else it }
+                    .let { if (rating == Rating.EASY && (card.reps <= 1 || card.interval == 0f)) min(it, s.easyDays) else it }
                 // A relearned lesson keeps the interval it was given when it lapsed.
                 phase == Phase.RELEARNING -> max(1f, card.interval)
                 else -> days
@@ -225,7 +229,8 @@ object Scheduler {
         val full = max(card.interval + 1f, grown * s.intervalModifier * fuzz)
         // Reviewed early: credit the growth in proportion to the time that really passed, and never
         // shrink the interval. (A hard answer given early must not earn more than one given on time.)
-        val early = waited < card.interval
+        // "Early" means a day or more ahead: a lesson is due on its day, whatever the hour.
+        val early = card.interval - waited >= 1f
         val target = if (early) card.interval + (full - card.interval) * (waited / card.interval) else full
         val interval = cap(target, s)
         return card.copy(ease = ease, interval = interval, due = now + days(interval))

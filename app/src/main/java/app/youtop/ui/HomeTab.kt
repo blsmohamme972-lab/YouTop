@@ -22,6 +22,16 @@ import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.rounded.FilterAlt
 import androidx.compose.material.icons.rounded.LocalFireDepartment
 import androidx.compose.material.icons.rounded.PlayArrow
+import androidx.compose.material.icons.rounded.CheckCircle
+import androidx.compose.material.icons.rounded.Shuffle
+import androidx.compose.material.icons.automirrored.rounded.List
+import androidx.compose.foundation.border
+import androidx.compose.runtime.remember
+import androidx.compose.ui.graphics.Brush
+import androidx.compose.ui.layout.ContentScale
+import app.youtop.data.BookInfo
+import app.youtop.study.BookStat
+import coil3.compose.AsyncImage
 import androidx.compose.material.icons.rounded.Psychology
 import app.youtop.data.FeedItem
 import app.youtop.data.flatten
@@ -66,20 +76,30 @@ import kotlin.math.roundToInt
  * book's progress. Read-only except for "continue", which goes back to the feed.
  */
 @Composable
-fun HomeTab(vm: MainViewModel, onContinue: () -> Unit, onOpenBook: (String) -> Unit, onOpenTopics: () -> Unit, onOpenLesson: (FeedItem) -> Unit = {}) {
+fun HomeTab(
+    vm: MainViewModel,
+    onContinue: () -> Unit,
+    onOpenBook: (String) -> Unit,
+    onOpenTopics: () -> Unit,
+    onOpenLesson: (FeedItem) -> Unit = {},
+    /** Study one book (its id), or all of them (null), and leave for the feed. */
+    onStudyBook: (String?) -> Unit = {},
+) {
     val books by vm.books.collectAsStateWithLifecycle()
     val progress by vm.progress.collectAsStateWithLifecycle()
     val settings by vm.settings.collectAsStateWithLifecycle()
     val study = settings.study
 
     // One pass over the library, off the main thread: it holds thousands of lessons.
-    val d by produceState(Dashboard(), books, progress, study.excludedBooks) {
+    val d by produceState(Dashboard(), books, progress, study.excludedBooks, study.book) {
         value = withContext(Dispatchers.Default) {
             val now = System.currentTimeMillis()
             val offset = TimeZone.getDefault().getOffset(now)
-            Dashboard.of(books, study.excludedBooks, progress, Scheduler.dayOf(now, offset), now, offset)
+            Dashboard.of(books, study.excludedBooks, progress, Scheduler.dayOf(now, offset), now, offset, only = study.book)
         }
     }
+    // The book being studied, if one is chosen and still there.
+    val current = books.firstOrNull { it.id == study.book }
     // The lessons that keep slipping, hardest first; looked up off the main thread like the rest.
     val slipping by produceState(emptyList<FeedItem>(), d.leeches, books) {
         value = if (d.leeches.isEmpty()) emptyList() else withContext(Dispatchers.Default) {
@@ -121,6 +141,43 @@ fun HomeTab(vm: MainViewModel, onContinue: () -> Unit, onOpenBook: (String) -> U
                 stringResource(if (progress.doneToday == 0) R.string.start_studying else R.string.continue_studying),
                 Icons.Rounded.PlayArrow, Modifier.fillMaxWidth(), onClick = onContinue,
             )
+            // What that button studies, so it is never a surprise.
+            if (books.size > 1 || current != null) {
+                Text(
+                    current?.let { stringResource(R.string.studying_book, it.title) } ?: stringResource(R.string.studying_all),
+                    color = Faint, fontSize = 12.sp, textAlign = TextAlign.Center, maxLines = 1, overflow = TextOverflow.Ellipsis, modifier = Modifier.fillMaxWidth(),
+                )
+            }
+        }
+
+        // The books, as decks: where each stands, and one button to study it from where it was left.
+        if (d.books.isNotEmpty()) {
+            Row(Modifier.padding(horizontal = 4.dp).padding(top = 4.dp), verticalAlignment = Alignment.CenterVertically) {
+                SectionTitle(stringResource(R.string.my_books), Modifier.weight(1f))
+                Text(stringResource(R.string.reps_caption), color = Faint, fontSize = 11.sp)
+            }
+            d.books.forEach { b ->
+                BookCard(
+                    vm, b, books.firstOrNull { it.id == b.id },
+                    chosen = study.book == b.id || (study.book == null && d.books.size == 1),
+                    marked = study.book == b.id && d.books.size > 1,
+                    onStudy = { onStudyBook(b.id) }, onOpen = { onOpenBook(b.id) },
+                )
+            }
+            if (d.books.size > 1) {
+                val all = study.book == null
+                Card(onClick = { onStudyBook(null) }) {
+                    Row(verticalAlignment = Alignment.CenterVertically) {
+                        Icon(Icons.Rounded.Shuffle, null, tint = if (all) Accent else Faint, modifier = Modifier.size(22.dp))
+                        Spacer(Modifier.width(12.dp))
+                        Column(Modifier.weight(1f)) {
+                            Text(stringResource(R.string.study_all), color = Color.White, fontSize = 15.sp, fontWeight = FontWeight.SemiBold)
+                            Text(stringResource(R.string.study_all_hint), color = Faint, fontSize = 12.sp, lineHeight = 17.sp)
+                        }
+                        if (all) Icon(Icons.Rounded.CheckCircle, null, tint = Accent, modifier = Modifier.size(20.dp))
+                    }
+                }
+            }
         }
 
         // The feed is narrowed: say so, because it explains why some lessons never show up.
@@ -217,30 +274,52 @@ fun HomeTab(vm: MainViewModel, onContinue: () -> Unit, onOpenBook: (String) -> U
             }
         }
 
-        // Every book.
-        if (d.books.isNotEmpty()) {
-            Card(title = stringResource(R.string.books), spacing = 14.dp) {
-                d.books.forEach { b ->
-                    Column(Modifier.fillMaxWidth().clip(RoundedCornerShape(8.dp)).clickable { onOpenBook(b.id) }, verticalArrangement = Arrangement.spacedBy(6.dp)) {
-                        Row(verticalAlignment = Alignment.CenterVertically) {
-                            Text(b.title, color = Color.White, fontSize = 15.sp, fontWeight = FontWeight.Medium, maxLines = 1, overflow = TextOverflow.Ellipsis, modifier = Modifier.weight(1f))
-                            if (b.due > 0 && b.id !in study.excludedBooks) {
-                                Text(
-                                    num(b.due), color = OnAccent, fontSize = 11.sp, fontWeight = FontWeight.Bold,
-                                    modifier = Modifier.clip(CircleShape).background(Accent).padding(horizontal = 7.dp, vertical = 1.dp),
-                                )
-                                Spacer(Modifier.width(8.dp))
-                            }
-                            Text(ratio(b.started, b.total), color = Faint, fontSize = 13.sp)
-                        }
-                        val total = b.total.coerceAtLeast(1).toFloat()
-                        ProgressLine(b.started / total, second = b.learned / total, height = 5.dp)
-                    }
-                }
-                Row(horizontalArrangement = Arrangement.spacedBy(14.dp)) {
-                    Legend(Accent, stringResource(R.string.legend_started))
-                    Legend(Good, stringResource(R.string.stat_learned))
-                }
+    }
+}
+
+/**
+ * One book as a deck: its cover across the top, how many of its lessons were studied how many
+ * times as one coloured bar with the numbers underneath, and the button that studies it.
+ */
+@Composable
+private fun BookCard(vm: MainViewModel, b: BookStat, book: BookInfo?, chosen: Boolean, marked: Boolean, onStudy: () -> Unit, onOpen: () -> Unit) {
+    val shape = RoundedCornerShape(22.dp)
+    Column(Modifier.fillMaxWidth().clip(shape).background(Surface1).border(1.dp, if (marked) Accent else Color.White.copy(alpha = 0.08f), shape)) {
+        Box(Modifier.fillMaxWidth().height(128.dp).clickable(onClickLabel = stringResource(R.string.book_lessons), onClick = onOpen)) {
+            val model = remember(book?.cover) { vm.media.imageModel(book?.cover) }
+            if (model != null) {
+                AsyncImage(model = model, contentDescription = null, contentScale = ContentScale.Crop, alignment = Alignment.TopCenter, modifier = Modifier.fillMaxSize())
+            } else {
+                Box(Modifier.fillMaxSize().background(coverBrush(b.id)))
+            }
+            Box(Modifier.fillMaxSize().background(Brush.verticalGradient(0f to Color.Transparent, 0.45f to Surface1.copy(alpha = 0.55f), 1f to Surface1)))
+            if (marked) {
+                Text(
+                    stringResource(R.string.studying_now), color = OnAccent, fontSize = 11.sp, fontWeight = FontWeight.Bold,
+                    modifier = Modifier.align(Alignment.TopStart).padding(12.dp).clip(CircleShape).background(Accent).padding(horizontal = 10.dp, vertical = 3.dp),
+                )
+            }
+            if (b.due > 0) {
+                Text(
+                    pluralStringResource(R.plurals.due_count, b.due, b.due), color = Color.White, fontSize = 11.sp, fontWeight = FontWeight.SemiBold,
+                    modifier = Modifier.align(Alignment.TopEnd).padding(12.dp).clip(CircleShape).background(Color.Black.copy(alpha = 0.55f)).padding(horizontal = 10.dp, vertical = 3.dp),
+                )
+            }
+            Column(Modifier.align(Alignment.BottomStart).padding(horizontal = 16.dp, vertical = 8.dp)) {
+                Text(b.title, color = Color.White, fontSize = 20.sp, fontWeight = FontWeight.Bold, maxLines = 2, overflow = TextOverflow.Ellipsis, lineHeight = 25.sp)
+                Text(
+                    if (b.started > 0) stringResource(R.string.book_progress, b.started, b.total) else pluralStringResource(R.plurals.lessons_count, b.total, b.total),
+                    color = Faint, fontSize = 13.sp,
+                )
+            }
+        }
+        Column(Modifier.padding(start = 16.dp, end = 16.dp, bottom = 16.dp, top = 4.dp), verticalArrangement = Arrangement.spacedBy(10.dp)) {
+            RepsBar(b.reps)
+            RepsLegend(b.reps)
+            Row(horizontalArrangement = Arrangement.spacedBy(10.dp)) {
+                if (chosen) PrimaryButton(stringResource(R.string.study_book), Icons.Rounded.PlayArrow, Modifier.weight(1f), onClick = onStudy)
+                else SecondaryButton(stringResource(R.string.study_book), Icons.Rounded.PlayArrow, Modifier.weight(1f), onClick = onStudy)
+                SecondaryButton(stringResource(R.string.book_lessons), Icons.AutoMirrored.Rounded.List, onClick = onOpen)
             }
         }
     }

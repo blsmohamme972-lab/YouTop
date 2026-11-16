@@ -77,10 +77,20 @@ class SchedulerTest {
         val c = Scheduler.review(card, Rating.GOOD, t0, s) // only one day after the last review
         assertEquals(11.5f, c.interval, 0.001f) // a tenth of the wait earns a tenth of the growth
         // A hard answer given early must not earn more than a hard answer given on time.
-        val almost = CardState(phase = Phase.REVIEW, interval = 10f, due = t0 + day / 2)
+        val almost = CardState(phase = Phase.REVIEW, interval = 10f, due = t0 + 2 * day)
         val early = Scheduler.review(almost, Rating.HARD, t0, s).interval
         val onTime = Scheduler.review(almost.copy(due = t0), Rating.HARD, t0, s).interval
         assertTrue("$early <= $onTime", early <= onTime)
+    }
+
+    @Test
+    fun aReviewOnItsDueDayCountsAsOnTime() {
+        // Studied at 22:00 with one day to wait, reviewed at 08:00 the next morning.
+        val card = CardState(phase = Phase.REVIEW, interval = 1f, due = t0 + 14 * 3_600_000L, seen = t0 - 10 * 3_600_000L)
+        assertEquals(2.5f, Scheduler.review(card, Rating.GOOD, t0, s).interval, 0.01f)
+        val onTheMinute = Scheduler.review(card.copy(stability = 1f, difficulty = 5f), Rating.GOOD, card.due, smart).interval
+        val thatMorning = Scheduler.review(card.copy(stability = 1f, difficulty = 5f), Rating.GOOD, t0, smart).interval
+        assertEquals(onTheMinute, thatMorning, 0.01f)
     }
 
     // ---- smart scheduling (memory model) ----

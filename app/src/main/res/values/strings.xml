@@ -72,7 +72,7 @@
     <string name="reset_confirm">Forget all review history and start every lesson as new?</string>
     <string name="cancel">Cancel</string>
     <string name="reset">Reset</string>
-    <string name="in_feed">Show in feed</string>
+    <string name="in_feed">Include when studying all books together</string>
     <string name="back">Back</string>
     <string name="done_today">Done for today</string>
     <string name="question_first">Question first, video only if I ask</string>
@@ -123,7 +123,7 @@
     <string name="section_content">Lessons and downloads</string>
     <string name="section_backup">Backup</string>
     <string name="question_first_hint">For revision: answer first, watch only what you got wrong.</string>
-    <string name="weak_first_hint">Topics where you make the most mistakes come first.</string>
+    <string name="weak_first_hint">Topics where you make the most mistakes come first. Off: lessons come in the order of the book.</string>
     <string name="advanced_hint">These decide how fast the gaps between reviews grow. The defaults suit most people.</string>
     <string name="about">YouTop %1$s</string>
     <plurals name="sync_done">
@@ -194,4 +194,17 @@
     </plurals>
     <string name="slipping_hint">Missed five times or more. Watch the story again: the picture is what makes it stick.</string>
     <string name="next_review">Next review: %1$s</string>
+    <string name="my_books">My books</string>
+    <string name="reps_caption">Colour = times studied</string>
+    <string name="reps_new">New</string>
+    <string name="reps_hint">Each colour is how many times you have studied a lesson: grey is new, red once, then orange, yellow, light green, and green for five times or more. Watch the bar turn green.</string>
+    <string name="study_book">Study this book</string>
+    <string name="book_lessons">Lessons</string>
+    <string name="studying_now">Studying now</string>
+    <string name="studying_book">Studies: %1$s, in book order</string>
+    <string name="studying_all">Studies: all books together</string>
+    <string name="study_all">Study all books together</string>
+    <string name="study_all_hint">Lessons from every book, mixed.</string>
+    <string name="sound_on">Sound</string>
+    <string name="sound_off">Muted</string>
 </resources>

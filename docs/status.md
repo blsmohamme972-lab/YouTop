@@ -6,9 +6,25 @@ Updated 2026-11-16. Whoever works on YouTop next: read `CLAUDE.md`, then this, t
 
 ## App
 
-- **1.9 (versionCode 10)** is on `main`; the APK was handed to the owner on 2026-11-16. Whether they
-  have installed it (or 1.7 / 1.8 before it) is not known; 1.6 (versionCode 7), reading Drive, was
-  the last version known to be on their phone. **The owner has not yet said what they think of 1.8 or 1.9.**
+- **2.0 (versionCode 11)** is on `main`; the APK was handed to the owner on 2026-11-16, a few
+  hours after 1.9. Whether they have installed it is not known; 1.6 (versionCode 7), reading Drive,
+  was the last version known to be on their phone.
+- New in 2.0, after the owner said of 1.9 "I find it hard to use" and asked for books studied one
+  at a time in order "like Anki", and for each book's cover to show how many lessons were studied
+  once, twice, three times…:
+  - The app **opens on Home** with one "Start studying" button; closing the library plays the lesson.
+  - **Each book is a card**: cover, a bar in six colours (new, studied 1×, 2×, 3×, 4×, 5×+) with the
+    numbers under it, "Study this book" and "Lessons". The same bar is on the covers of the Books
+    page and on a book's own page. With more than one book there is also "Study all books together".
+  - Studying a book goes **in book order** ("weakest topics first" is now off unless switched on).
+    A new choice of book or topics starts the feed on it at once (it used to finish the old lesson first).
+  - Every button on a lesson has its name under it; the top-right button is "Home".
+  - Fixed from a second review of 1.9: a review done on its due day but before the hour was
+    scored as early (shorter gaps than deserved); a quick first answer on a lesson that was
+    mid-learning before 1.9 could send it away for two weeks; a quiz shortened by a sync could
+    not finish; the press effect moved only the label.
+  **The owner has not yet said what they think of 2.0.** With only one book published, "Study all
+  books together" and switching between books were tested by code reading and unit tests only.
 - New in 1.9, after the owner asked to find and fix errors, make spaced repetition "advanced and
   easy", make tags easy and beautiful, and make lesson-making cheaper:
   - **Smart scheduling** (default): the FSRS-4.5 memory model with one dial, "How well to remember"

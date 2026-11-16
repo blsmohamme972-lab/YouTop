@@ -3,7 +3,23 @@ package app.youtop.study
 import app.youtop.data.BookInfo
 
 /** Where one book stands. */
-data class BookStat(val id: String, val title: String, val total: Int, val started: Int, val learned: Int, val due: Int)
+data class BookStat(
+    val id: String, val title: String, val total: Int, val started: Int, val learned: Int, val due: Int,
+    /** Lessons by how many times they have been studied: never, once, twice, three, four, five times or more. */
+    val reps: List<Int> = List(REPS_BUCKETS) { 0 },
+)
+
+const val REPS_BUCKETS = 6
+
+/** Which [BookStat.reps] bucket a lesson belongs to. */
+fun repsBucket(card: CardState?): Int = if (card == null || card.phase == Phase.NEW) 0 else card.reps.coerceIn(1, REPS_BUCKETS - 1)
+
+/** [BookStat.reps] for any set of lessons, by key. */
+fun repsOf(keys: Iterable<String>, cards: Map<String, CardState>): List<Int> {
+    val out = IntArray(REPS_BUCKETS)
+    for (key in keys) out[repsBucket(cards[key])]++
+    return out.toList()
+}
 
 /** Everything the dashboard shows, worked out in one pass over the library. */
 data class Dashboard(
@@ -30,10 +46,11 @@ data class Dashboard(
 ) {
     companion object {
         /**
-         * [excluded] books are listed but do not count towards the totals (they are not in the feed).
+         * [excluded] books are listed but do not count towards the totals (they are not in the feed);
+         * when one book is being studied ([only]), the totals are that book's alone.
          * [today] is the day number from [Scheduler.dayOf]; [zoneOffsetMs] turns a due time into its day.
          */
-        fun of(books: List<BookInfo>, excluded: Set<String>, progress: Progress, today: Long, now: Long, zoneOffsetMs: Int): Dashboard {
+        fun of(books: List<BookInfo>, excluded: Set<String>, progress: Progress, today: Long, now: Long, zoneOffsetMs: Int, only: String? = null): Dashboard {
             var total = 0; var due = 0; var learning = 0; var learned = 0
             val forecast = IntArray(7)
             val dayEnd = Scheduler.dayEnd(now, zoneOffsetMs)
@@ -41,15 +58,17 @@ data class Dashboard(
             var recallSum = 0.0; var recallCount = 0
             val stats = books.map { book ->
                 var bTotal = 0; var bStarted = 0; var bLearned = 0; var bDue = 0
-                val counts = book.id !in excluded
+                val bReps = IntArray(REPS_BUCKETS)
+                val counts = if (only != null && books.any { it.id == only }) book.id == only else book.id !in excluded
                 val prefix = book.id + "/"
                 for (chapter in book.chapters) {
                     val chapterPrefix = prefix + chapter.id + "/"
                     for (lesson in chapter.lessons) {
                         bTotal++
                         val key = chapterPrefix + lesson.id
-                        val card = progress.cards[key] ?: continue
-                        if (card.phase == Phase.NEW) continue
+                        val card = progress.cards[key]
+                        bReps[repsBucket(card)]++
+                        if (card == null || card.phase == Phase.NEW) continue
                         bStarted++
                         val isDue = Scheduler.isDue(card, now, dayEnd)
                         if (isDue) bDue++
@@ -68,7 +87,7 @@ data class Dashboard(
                     }
                 }
                 if (counts) total += bTotal
-                BookStat(book.id, book.title, bTotal, bStarted, bLearned, bDue)
+                BookStat(book.id, book.title, bTotal, bStarted, bLearned, bDue, bReps.toList())
             }
             val week = (6 downTo 0).map { back ->
                 val logged = progress.history[today - back]?.done ?: 0

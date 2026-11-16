@@ -81,8 +81,32 @@ class ScreensTest {
     private fun button(label: String) = visible(hasContentDescription(label))
     private fun text(text: String) = visible(hasText(text))
 
-    private fun openFirstLesson() {
+    /** The app opens on the library's first page; its main button goes to the first lesson. */
+    private fun openFirstLesson(start: String = "Start studying") {
         rule.waitUntil(10_000) { rule.onAllNodesWithText("كيف يسافر الضوء").fetchSemanticsNodes().isNotEmpty() }
+        rule.waitUntil(10_000) { rule.onAllNodesWithText(start).fetchSemanticsNodes().isNotEmpty() }
+        shot(if (start == "Start studying") "0-opens-on-home" else "0-ar-opens-on-home")
+        text(start).performClick()
+        rule.waitForIdle()
+        rule.mainClock.advanceTimeBy(600)
+        rule.waitUntil(10_000) { rule.activity.viewModel().narrator.state.value.playing }
+    }
+
+    /** "Study this book" on its card chooses the book, closes the library and the feed is that book's. */
+    @Test
+    fun studyingByBook() {
+        openFirstLesson()
+        val vm = rule.activity.viewModel()
+        button("Library").performClick()
+        rule.onNode(hasText("Study this book")).performScrollTo().performClick()
+        settle { vm.settings.value.study.book == "starter" }
+        rule.waitUntil(10_000) { vm.queue.isNotEmpty() && vm.queue.all { it.item.book.id == "starter" } }
+        rule.mainClock.advanceTimeBy(600)
+        rule.waitUntil(10_000) { vm.narrator.state.value.playing } // back on the lesson, and it plays on
+        button("Library").performClick()
+        text("Books").performClick()
+        text("YouTop Starter").performClick()
+        shot("7b2-book-studied")
     }
 
     private fun seekToSentence(index: Int) = rule.runOnUiThread { rule.activity.viewModel().narrator.seekToSegment(index) }
@@ -226,7 +250,7 @@ class ScreensTest {
     @Test
     @Config(sdk = [34], qualifiers = "ar-w411dp-h891dp-420dpi")
     fun arabicInterface() {
-        openFirstLesson()
+        openFirstLesson("ابدأ المذاكرة")
         val vm = rule.activity.viewModel()
         val today = vm.progress.value.day
         val now = System.currentTimeMillis()

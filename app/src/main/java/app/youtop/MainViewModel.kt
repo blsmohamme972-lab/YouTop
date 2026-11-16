@@ -78,7 +78,17 @@ class MainViewModel(app: Application) : AndroidViewModel(app) {
     val trackChoice = mutableStateMapOf<Long, Int>()
 
     /** True while the library covers the feed: nothing should start playing or move on underneath it. */
-    var covered by mutableStateOf(false)
+    var covered by mutableStateOf(true)
+
+    /** Goes up each time the feed starts afresh (another book or other topics were chosen): the pager begins again at the top. */
+    var generation by mutableStateOf(0)
+        private set
+
+    /** True while the lesson on screen shows its question: the narration must not start underneath it. */
+    var quizOpen = false
+
+    /** A new choice of book is on its way to the feed; nothing of the old feed should start playing meanwhile. */
+    private var choosing = false
 
     /** Feed positions the pager should scroll to. */
     val jumps = MutableSharedFlow<Int>(extraBufferCapacity = 1)
@@ -109,7 +119,13 @@ class MainViewModel(app: Application) : AndroidViewModel(app) {
                 settings.map { it.study.copy(excludedBooks = emptySet(), focus = emptySet()) }.distinctUntilChanged()
                     .collect { extendQueue(if (queue.isEmpty()) -1 else currentIndex) }
             }
-            launch { prefs.settings.map { it.study.excludedBooks to it.study.focus }.distinctUntilChanged().collect { settings.first { s -> s.study.focus == it.second && s.study.excludedBooks == it.first }; replan() } }
+            // The learner chose other books or topics: the feed starts again from what they chose.
+            launch {
+                prefs.settings.map { Triple(it.study.excludedBooks, it.study.focus, it.study.book) }.distinctUntilChanged().collect { (excluded, focus, book) ->
+                    settings.first { s -> s.study.focus == focus && s.study.excludedBooks == excluded && s.study.book == book }
+                    replan(restart = true)
+                }
+            }
         }
     }
 
@@ -184,9 +200,11 @@ class MainViewModel(app: Application) : AndroidViewModel(app) {
     }
 
     /** Keeps what has been shown, refreshes it with newly synced content, and plans afresh from there. */
-    private fun replan() {
+    private fun replan(restart: Boolean = false) {
         val s = study()
-        pool = lessons.filter { it.book.id !in s.excludedBooks && Tags.matches(it.lesson.tags, s.focus) }
+        // One book when one is chosen (and still exists); otherwise every book not left out.
+        val only = s.book?.takeIf { id -> lessons.any { it.book.id == id } }
+        pool = lessons.filter { (if (only != null) it.book.id == only else it.book.id !in s.excludedBooks) && Tags.matches(it.lesson.tags, s.focus) }
         topicOf = pool.associate { it.key to Tags.mainTopic(it.lesson.tags) }
         if (pool.isEmpty()) {
             // Nothing matches the chosen books and topics: an empty feed that says so, rather than
@@ -195,12 +213,53 @@ class MainViewModel(app: Application) : AndroidViewModel(app) {
             currentIndex = 0
             narrator.unload()
             finishedForToday.value = false
+            if (restart) choosing = false
             return
         }
+        // After a new choice, a lesson on screen that is not part of it makes way at once:
+        // "Study this book" must open on that book, not on whatever was showing before.
+        val shown = queue.getOrNull(currentIndex)
+        if (restart && shown != null && pool.none { it.key == shown.item.key }) {
+            queue.clear()
+            currentIndex = 0
+            sinceNew = 0
+            narrator.unload()
+            generation++
+        }
+        val wasChoosing = choosing && restart
+        if (restart) choosing = false
         val byKey = lessons.associateBy { it.key }
         while (queue.size > currentIndex + 1) queue.removeAt(queue.lastIndex)
         for (i in queue.indices) byKey[queue[i].item.key]?.let { if (it != queue[i].item) queue[i] = queue[i].copy(item = it) }
         extendQueue(if (queue.isEmpty()) -1 else currentIndex)
+        // The lesson on screen stayed (it belongs to the new choice too) and the library is already closed.
+        if (wasChoosing && shown != null && queue.getOrNull(currentIndex)?.id == shown.id) resume()
+    }
+
+    /** Studies one book (or all of them, with null) and goes on from there. */
+    fun studyBook(book: String?) {
+        if (book == study().book) return
+        choosing = true
+        narrator.pause()
+        setStudy(study().copy(book = book))
+    }
+
+    /**
+     * The library has closed: the lesson on screen plays on. Not while a new choice of book is
+     * still on its way, not under an open question, and not with "question first".
+     */
+    fun resume() {
+        if (covered || choosing || quizOpen) return
+        val entry = queue.getOrNull(currentIndex) ?: return
+        if (study().questionFirst && entry.item.lesson.questions > 0) return
+        playJob?.cancel()
+        playJob = viewModelScope.launch {
+            val tracks = repo.lesson(entry.item)?.tracks.orEmpty()
+            val index = (trackChoice[entry.id] ?: 0).coerceIn(0, (tracks.size - 1).coerceAtLeast(0))
+            val track = tracks.getOrNull(index) ?: return@launch
+            narrator.load("${entry.id}#$index", track, media.audioUri(track.audio), autoPlay = false)
+            if (!covered && !quizOpen && !narrator.state.value.ended) narrator.play()
+        }
     }
 
     fun activate(index: Int) {
@@ -208,7 +267,7 @@ class MainViewModel(app: Application) : AndroidViewModel(app) {
         val entry = queue.getOrNull(index) ?: return narrator.unload()
         extendQueue(index)
         // With "question first" the lesson opens on its question and stays silent until asked.
-        play(entry, autoPlay = !covered && !(study().questionFirst && entry.item.lesson.questions > 0))
+        play(entry, autoPlay = !covered && !choosing && !(study().questionFirst && entry.item.lesson.questions > 0))
     }
 
     /** The app came back to the screen. */
@@ -283,7 +342,7 @@ class MainViewModel(app: Application) : AndroidViewModel(app) {
     fun setStudy(study: StudySettings) = viewModelScope.launch { prefs.setStudy(study) }
 
     /** Back to every book and every topic, when the chosen ones leave the feed empty. */
-    fun clearFilters() = setStudy(study().copy(focus = emptySet(), excludedBooks = emptySet()))
+    fun clearFilters() = setStudy(study().copy(focus = emptySet(), excludedBooks = emptySet(), book = null))
 
     fun hintSeen() = viewModelScope.launch { prefs.setHintSeen() }
 
