@@ -138,19 +138,15 @@ class ScreensTest {
         button("Quiz").performClick()
         shot("5-quiz") // question at the top, options at the bottom, only the question's circle
         text("All circles").performClick()
-        shot("5c-quiz-all-circles")
-        // The table follows the finger.
-        val table = hasContentDescription("All circles table")
-        val before = visible(table).fetchSemanticsNode().boundsInRoot.top
-        visible(table).performTouchInput { down(center); moveBy(androidx.compose.ui.geometry.Offset(0f, -220f)); up() }
-        rule.waitForIdle()
-        assert(visible(table).fetchSemanticsNode().boundsInRoot.top < before - 100f) { "the table did not move" }
-        text("The tilted mirror").performClick() // a row singles out its circle
-        shot("5d-quiz-table-dragged")
+        shot("5c-quiz-all-circles") // the picture moves up, whole; the table sits under it
+        // The table is fixed under the picture and its rows scroll; a row singles out its circle.
+        rule.onNode(hasText("The straw in the glass")).performScrollTo()
+        rule.onNode(hasText("The tilted mirror")).performScrollTo().performClick()
+        shot("5d-quiz-table-row-picked")
         rule.runOnUiThread { rule.activity.onBackPressedDispatcher.onBackPressed() }
         rule.waitForIdle()
         text("In circles").performClick()
-        shot("5b-quiz-answered") // wrong answer: the answer's circle appears, the explanation is small
+        shot("5b-quiz-answered") // the picture moves up; the right answer, the wrong pick and the explanation sit under it
 
         // The lesson has three more questions: until the last is answered, a swipe does not leave it.
         rule.onAllNodes(isRoot())[0].performTouchInput { swipeUp() }

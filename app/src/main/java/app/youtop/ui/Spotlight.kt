@@ -13,6 +13,10 @@ import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.BoxWithConstraints
 import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.WindowInsets
+import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.statusBars
+import androidx.compose.ui.platform.LocalDensity
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
@@ -50,6 +54,9 @@ private val Palettes = listOf(
 /** Where the picture sits between the top (-1) and the bottom (1): a little high, so the caption has room under it. */
 private const val PictureBias = -0.24f
 
+/** The share of the screen's height a docked panel takes; the picture sits whole in the rest. */
+const val DockShare = 0.43f
+
 /**
  * Lesson image with a spotlight on the region being narrated. The whole picture is always
  * shown, never zoomed or cropped (the owner asked for that), so a spot is always on screen
@@ -66,6 +73,12 @@ fun SpotlightImage(
     marks: List<NumberedSpot> = emptyList(),
     /** The number of the circle singled out in the table; the others fade. */
     focus: Int? = null,
+    /**
+     * True while a panel (the circles' table, or the answer and its explanation) holds the bottom
+     * [DockShare] of the screen: the picture, still whole, moves up and shrinks to sit above it, so
+     * nothing covers it.
+     */
+    docked: Boolean = false,
 ) {
     var intrinsic by remember(model) { mutableStateOf(Size.Unspecified) }
     // Keep the last spot so the highlight fades out where it was instead of jumping.
@@ -84,11 +97,16 @@ fun SpotlightImage(
         // Where the image lands on screen under ContentScale.Fit.
         val iw = if (intrinsic.isSpecified && intrinsic.width > 0) intrinsic.width else w
         val ih = if (intrinsic.isSpecified && intrinsic.height > 0) intrinsic.height else h
-        val fit = min(w / iw, h / ih)
+        val dock by animateFloatAsState(if (docked) 1f else 0f, tween(380, easing = FastOutSlowInEasing), label = "dock")
+        val padTop = dock * (WindowInsets.statusBars.getTop(LocalDensity.current) + 6.dp.value * LocalDensity.current.density)
+        val padBottom = dock * (h * DockShare + 8.dp.value * LocalDensity.current.density)
+        val areaH = (h - padTop - padBottom).coerceAtLeast(1f)
+        val bias = PictureBias * (1f - dock)
+        val fit = min(w / iw, areaH / ih)
         val drawnW = iw * fit
         val drawnH = ih * fit
         val left = (w - drawnW) / 2f
-        val top = (h - drawnH) * (1f + PictureBias) / 2f
+        val top = padTop + (areaH - drawnH) * (1f + bias) / 2f
 
         val glide = tween<Float>(durationMillis = 450, easing = FastOutSlowInEasing)
         val cx by animateFloatAsState(left + last.x * drawnW, glide, label = "cx")
@@ -117,8 +135,11 @@ fun SpotlightImage(
                     model = model,
                     contentDescription = null,
                     contentScale = ContentScale.Fit,
-                    alignment = BiasAlignment(0f, PictureBias),
-                    modifier = Modifier.fillMaxSize(),
+                    alignment = BiasAlignment(0f, bias),
+                    modifier = Modifier.fillMaxSize().padding(
+                        top = with(LocalDensity.current) { padTop.toDp() },
+                        bottom = with(LocalDensity.current) { padBottom.toDp() },
+                    ),
                     onSuccess = { intrinsic = it.painter.intrinsicSize },
                 )
             }

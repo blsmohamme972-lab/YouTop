@@ -67,6 +67,9 @@ import androidx.compose.ui.text.style.TextDirection
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import app.youtop.R
+import androidx.compose.animation.fadeOut
+import androidx.compose.animation.slideInVertically
+import androidx.compose.material.icons.rounded.KeyboardArrowDown
 import androidx.compose.material.icons.rounded.Workspaces
 import androidx.compose.ui.platform.LocalConfiguration
 import androidx.compose.ui.text.style.TextOverflow
@@ -148,219 +151,257 @@ fun QuizOverlay(
         shownAt = System.currentTimeMillis()
         if (speak && picked == null) onSay(question.q + ". " + order.joinToString(". ") { question.options[it] }, question.lang)
     }
-    // After an answer, bring the explanation and the buttons into view.
-    LaunchedEffect(picked) {
-        if (picked != null) {
-            explainScroll.scrollTo(0)
-            delay(350)
-            scroll.animateScrollTo(scroll.maxValue)
+    // The answer's panel opens at its top: the right answer first, then the explanation.
+    LaunchedEffect(picked) { if (picked != null) explainScroll.scrollTo(0) }
+
+    val answered = picked != null
+    val sayIt = {
+        val answer = picked
+        onSay(
+            if (answer == null) question.q + ". " + order.joinToString(". ") { question.options[it] }
+            else question.options[question.answer] + ". " + question.explain,
+            question.lang,
+        )
+    }
+    // A long stem shows its first lines; a tap opens it, another closes it.
+    var open by remember(index) { mutableStateOf(false) }
+    var long by remember(index) { mutableStateOf(false) }
+    val stemStyle = TextStyle(
+        fontFamily = Ui, fontSize = 14.sp, lineHeight = 20.sp, fontWeight = FontWeight.Medium,
+        shadow = TextShadow, textDirection = direction,
+    )
+    val header: @Composable () -> Unit = {
+        Row(verticalAlignment = Alignment.CenterVertically, horizontalArrangement = Arrangement.spacedBy(6.dp)) {
+            val meta = listOfNotNull(
+                if (questions.size > 1) "${index + 1}/${questions.size}" else null,
+                question.source,
+            ).joinToString("  ·  ")
+            Text(
+                meta.uppercase(), color = Accent, maxLines = 1, overflow = TextOverflow.Ellipsis,
+                style = TextStyle(fontFamily = Ui, fontSize = 10.sp, fontWeight = FontWeight.SemiBold, letterSpacing = 0.6.sp),
+                modifier = Modifier.weight(1f),
+            )
+            if (onAllCircles != null) {
+                val label = stringResource(R.string.all_circles)
+                Row(
+                    Modifier.height(30.dp).clip(CircleShape).background(Color.White.copy(alpha = 0.16f))
+                        .clickable(onClickLabel = label, onClick = onAllCircles).padding(horizontal = 10.dp),
+                    verticalAlignment = Alignment.CenterVertically, horizontalArrangement = Arrangement.spacedBy(4.dp),
+                ) {
+                    Icon(Icons.Rounded.Workspaces, null, tint = Accent, modifier = Modifier.size(14.dp))
+                    Text(label, color = Color.White, fontSize = 11.sp, fontWeight = FontWeight.SemiBold, maxLines = 1)
+                }
+            }
+            SmallIcon(Icons.AutoMirrored.Rounded.VolumeUp, stringResource(R.string.listen), sayIt)
+            SmallIcon(Icons.Rounded.Close, stringResource(R.string.close), onClose)
+        }
+    }
+    // The figure the stem refers to, on white as in the book. Tap to see it large.
+    val figure: @Composable () -> Unit = {
+        question.image?.let { ref ->
+            val model = rememberLocalImage(media, ref)
+            var large by remember(ref) { mutableStateOf(false) }
+            AsyncImage(
+                model = model,
+                contentDescription = stringResource(R.string.figure),
+                contentScale = ContentScale.Fit,
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .heightIn(min = 60.dp, max = 120.dp)
+                    .clip(RoundedCornerShape(10.dp))
+                    .background(Color.White)
+                    .clickable(onClickLabel = stringResource(R.string.figure)) { large = true }
+                    .padding(4.dp),
+            )
+            if (large) {
+                Dialog(onDismissRequest = { large = false }, properties = DialogProperties(usePlatformDefaultWidth = false)) {
+                    Box(
+                        Modifier.fillMaxSize().background(Color.Black.copy(alpha = 0.92f)).clickable { large = false },
+                        contentAlignment = Alignment.Center,
+                    ) {
+                        AsyncImage(
+                            model = model,
+                            contentDescription = stringResource(R.string.figure),
+                            contentScale = ContentScale.FillWidth,
+                            modifier = Modifier.fillMaxWidth().background(Color.White).padding(8.dp),
+                        )
+                    }
+                }
+            }
+        }
+    }
+    val optionRow: @Composable (Int) -> Unit = { option ->
+        val isAnswer = option == question.answer
+        val isPicked = option == picked
+        val tone = when {
+            answered && isAnswer -> Good
+            answered && isPicked -> Bad
+            else -> Color.White
+        }
+        Row(
+            Modifier
+                .fillMaxWidth()
+                .clip(RoundedCornerShape(13.dp))
+                .background(if (answered) tone.copy(alpha = 0.16f) else panel)
+                .border(BorderStroke(1.dp, tone.copy(alpha = if (answered) 0.7f else 0.30f)), RoundedCornerShape(13.dp))
+                .clickable(enabled = !answered) {
+                    val correct = option == question.answer
+                    haptics.performHapticFeedback(if (correct) HapticFeedbackType.TextHandleMove else HapticFeedbackType.LongPress)
+                    picked = option
+                    open = false
+                    onAnswer(correct, System.currentTimeMillis() - shownAt)
+                    if (last) { state.done = true; onDone() }
+                }
+                .padding(horizontal = 11.dp, vertical = 7.dp),
+            verticalAlignment = Alignment.CenterVertically,
+            horizontalArrangement = Arrangement.spacedBy(9.dp),
+        ) {
+            // A ring to tap; it becomes the tick or the cross once answered.
+            Box(Modifier.size(18.dp), contentAlignment = Alignment.Center) {
+                when {
+                    answered && isAnswer -> Icon(Icons.Rounded.CheckCircle, null, tint = Good, modifier = Modifier.size(18.dp))
+                    answered && isPicked -> Icon(Icons.Rounded.Cancel, null, tint = Bad, modifier = Modifier.size(18.dp))
+                    else -> Box(Modifier.size(14.dp).border(1.5.dp, Color.White.copy(alpha = 0.7f), CircleShape))
+                }
+            }
+            Text(
+                question.options[option],
+                color = Color.White,
+                style = TextStyle(fontFamily = Ui, fontSize = 13.5.sp, lineHeight = 18.sp, fontWeight = FontWeight.Medium, shadow = if (answered) null else TextShadow, textDirection = direction),
+                modifier = Modifier.weight(1f),
+            )
         }
     }
 
-    Box(
-        Modifier
-            .fillMaxSize()
-            // Taps here must not reach the picture underneath (they would start the narration).
-            .pointerInput(Unit) { detectTapGestures { } }
-    ) {
-        // ---- top: the question ----
-        Column(
-            Modifier
-                .align(Alignment.TopStart)
-                .statusBarsPadding()
-                .padding(start = 10.dp, top = 8.dp, end = 64.dp)
-                .fillMaxWidth()
-                .clip(RoundedCornerShape(16.dp))
-                .background(panel)
-                .padding(start = 12.dp, end = 8.dp, top = 6.dp, bottom = 10.dp),
-            verticalArrangement = Arrangement.spacedBy(5.dp),
-        ) {
-            Row(verticalAlignment = Alignment.CenterVertically, horizontalArrangement = Arrangement.spacedBy(6.dp)) {
-                val meta = listOfNotNull(
-                    if (questions.size > 1) "${index + 1}/${questions.size}" else null,
-                    question.source,
-                ).joinToString("  ·  ")
-                Text(
-                    meta.uppercase(), color = Accent, maxLines = 1, overflow = TextOverflow.Ellipsis,
-                    style = TextStyle(fontFamily = Ui, fontSize = 10.sp, fontWeight = FontWeight.SemiBold, letterSpacing = 0.6.sp, shadow = TextShadow),
-                    modifier = Modifier.weight(1f),
-                )
-                if (onAllCircles != null) {
-                    val label = stringResource(R.string.all_circles)
-                    Row(
-                        Modifier.height(28.dp).clip(CircleShape).background(Color.White.copy(alpha = 0.16f))
-                            .clickable(onClickLabel = label, onClick = onAllCircles).padding(horizontal = 9.dp),
-                        verticalAlignment = Alignment.CenterVertically, horizontalArrangement = Arrangement.spacedBy(4.dp),
-                    ) {
-                        Icon(Icons.Rounded.Workspaces, null, tint = Accent, modifier = Modifier.size(14.dp))
-                        Text(label, color = Color.White, fontSize = 11.sp, fontWeight = FontWeight.SemiBold, maxLines = 1)
-                    }
-                }
-                SmallIcon(Icons.AutoMirrored.Rounded.VolumeUp, stringResource(R.string.listen)) {
-                    val answer = picked
-                    onSay(
-                        if (answer == null) question.q + ". " + order.joinToString(". ") { question.options[it] }
-                        else question.options[question.answer] + ". " + question.explain,
-                        question.lang,
-                    )
-                }
-                SmallIcon(Icons.Rounded.Close, stringResource(R.string.close), onClose)
-            }
-            Text(
-                question.q,
-                color = Color.White,
-                style = TextStyle(
-                    fontFamily = Ui, fontSize = 14.sp, lineHeight = 20.sp, fontWeight = FontWeight.Medium,
-                    shadow = TextShadow, textDirection = direction,
-                ),
-                modifier = Modifier.fillMaxWidth().heightIn(max = screen * 0.24f).verticalScroll(stemScroll).padding(end = 4.dp),
-            )
-            // The figure the stem refers to, on white as in the book. Tap to see it large.
-            question.image?.let { ref ->
-                val figure = rememberLocalImage(media, ref)
-                var large by remember(ref) { mutableStateOf(false) }
-                AsyncImage(
-                    model = figure,
-                    contentDescription = stringResource(R.string.figure),
-                    contentScale = ContentScale.Fit,
-                    modifier = Modifier
+    Box(Modifier.fillMaxSize()) {
+        // ---- before the answer: the question at the top, the options at the bottom, the picture between ----
+        AnimatedVisibility(visible = !answered, enter = fadeIn(tween(200)), exit = fadeOut(tween(120))) {
+            Box(
+                Modifier
+                    .fillMaxSize()
+                    // Taps here must not reach the picture underneath (they would start the narration).
+                    .pointerInput(Unit) { detectTapGestures { } }
+            ) {
+                Column(
+                    Modifier
+                        .align(Alignment.TopStart)
+                        .statusBarsPadding()
+                        .padding(start = 10.dp, top = 8.dp, end = 64.dp)
                         .fillMaxWidth()
-                        .padding(end = 4.dp)
-                        .heightIn(min = 60.dp, max = 120.dp)
-                        .clip(RoundedCornerShape(10.dp))
-                        .background(Color.White)
-                        .clickable(onClickLabel = stringResource(R.string.figure)) { large = true }
-                        .padding(4.dp),
-                )
-                if (large) {
-                    Dialog(onDismissRequest = { large = false }, properties = DialogProperties(usePlatformDefaultWidth = false)) {
-                        Box(
-                            Modifier.fillMaxSize().background(Color.Black.copy(alpha = 0.92f)).clickable { large = false },
-                            contentAlignment = Alignment.Center,
-                        ) {
-                            AsyncImage(
-                                model = figure,
-                                contentDescription = stringResource(R.string.figure),
-                                contentScale = ContentScale.FillWidth,
-                                modifier = Modifier.fillMaxWidth().background(Color.White).padding(8.dp),
+                        .clip(RoundedCornerShape(16.dp))
+                        .background(panel)
+                        .padding(start = 12.dp, end = 8.dp, top = 6.dp, bottom = 9.dp),
+                    verticalArrangement = Arrangement.spacedBy(5.dp),
+                ) {
+                    header()
+                    Column(
+                        Modifier
+                            .fillMaxWidth()
+                            .padding(end = 4.dp)
+                            .clickable(enabled = long || open, onClickLabel = stringResource(R.string.whole_question)) { open = !open }
+                            .then(if (open) Modifier.heightIn(max = screen * 0.42f).verticalScroll(stemScroll) else Modifier),
+                    ) {
+                        Text(
+                            question.q, color = Color.White, style = stemStyle,
+                            maxLines = if (open) Int.MAX_VALUE else 3, overflow = TextOverflow.Ellipsis,
+                            onTextLayout = { if (!open) long = it.hasVisualOverflow },
+                            modifier = Modifier.fillMaxWidth(),
+                        )
+                        if (long || open) {
+                            Text(
+                                stringResource(if (open) R.string.show_less else R.string.show_all), color = Accent,
+                                style = TextStyle(fontFamily = Ui, fontSize = 11.5.sp, fontWeight = FontWeight.SemiBold, shadow = TextShadow),
+                                modifier = Modifier.padding(top = 2.dp),
                             )
                         }
                     }
+                    Box(Modifier.padding(end = 4.dp)) { figure() }
+                }
+                Column(
+                    Modifier
+                        .align(Alignment.BottomCenter)
+                        .fillMaxWidth()
+                        .navigationBarsPadding()
+                        .heightIn(max = screen * 0.5f)
+                        .verticalScroll(scroll)
+                        .padding(horizontal = 10.dp)
+                        .padding(bottom = 10.dp),
+                    verticalArrangement = Arrangement.spacedBy(5.dp, Alignment.Bottom),
+                ) {
+                    order.forEach { optionRow(it) }
                 }
             }
         }
 
-        // ---- bottom: the options, then what comes after the answer ----
-        Column(
-            Modifier
-                .align(Alignment.BottomCenter)
-                .fillMaxWidth()
-                .navigationBarsPadding()
-                .heightIn(max = screen * 0.58f)
-                .verticalScroll(scroll)
-                .padding(horizontal = 10.dp)
-                .padding(bottom = 10.dp),
-            verticalArrangement = Arrangement.spacedBy(5.dp, Alignment.Bottom),
+        // ---- after the answer: the picture moves up, whole and uncovered, and this panel sits under it ----
+        AnimatedVisibility(
+            visible = answered,
+            enter = fadeIn(tween(260)) + slideInVertically(tween(320)) { it / 4 }, exit = fadeOut(tween(120)),
         ) {
-            order.forEach { option ->
-                val answered = picked != null
-                val isAnswer = option == question.answer
-                val isPicked = option == picked
-                val tone = when {
-                    answered && isAnswer -> Good
-                    answered && isPicked -> Bad
-                    else -> Color.White
-                }
-                val pop by animateFloatAsState(
-                    if (answered && isAnswer) 1.02f else 1f,
-                    spring(dampingRatio = Spring.DampingRatioMediumBouncy), label = "pop",
-                )
-                Row(
-                    Modifier
-                        .fillMaxWidth()
-                        .graphicsLayer { scaleX = pop; scaleY = pop }
-                        .clip(RoundedCornerShape(13.dp))
-                        .background(panel)
-                        .background(if (answered && (isAnswer || isPicked)) tone.copy(alpha = 0.24f) else Color.Transparent)
-                        .border(
-                            BorderStroke(1.dp, tone.copy(alpha = if (answered && !isAnswer && !isPicked) 0.10f else if (answered) 0.7f else 0.30f)),
-                            RoundedCornerShape(13.dp),
-                        )
-                        .clickable(enabled = !answered) {
-                            val correct = option == question.answer
-                            haptics.performHapticFeedback(if (correct) HapticFeedbackType.TextHandleMove else HapticFeedbackType.LongPress)
-                            picked = option
-                            onAnswer(correct, System.currentTimeMillis() - shownAt)
-                            if (last) { state.done = true; onDone() }
-                        }
-                        .padding(horizontal = 11.dp, vertical = 7.dp),
-                    verticalAlignment = Alignment.CenterVertically,
-                    horizontalArrangement = Arrangement.spacedBy(9.dp),
+            DockPanel {
+                Box(Modifier.padding(start = 14.dp, end = 10.dp, top = 8.dp, bottom = 4.dp)) { header() }
+                Column(
+                    Modifier.weight(1f).verticalScroll(explainScroll).padding(horizontal = 12.dp).padding(bottom = 8.dp),
+                    verticalArrangement = Arrangement.spacedBy(7.dp),
                 ) {
-                    // A ring to tap; it becomes the tick or the cross once answered.
-                    Box(Modifier.size(18.dp), contentAlignment = Alignment.Center) {
-                        when {
-                            answered && isAnswer -> Icon(Icons.Rounded.CheckCircle, null, tint = Good, modifier = Modifier.size(18.dp))
-                            answered && isPicked -> Icon(Icons.Rounded.Cancel, null, tint = Bad, modifier = Modifier.size(18.dp))
-                            else -> Box(
-                                Modifier.size(14.dp).border(1.5.dp, Color.White.copy(alpha = if (answered) 0.25f else 0.7f), CircleShape)
-                            )
-                        }
+                    // The question, as one line; a tap shows all of it.
+                    Row(
+                        Modifier.fillMaxWidth().clip(RoundedCornerShape(10.dp)).clickable(onClickLabel = stringResource(R.string.whole_question)) { open = !open }
+                            .padding(horizontal = 2.dp, vertical = 2.dp),
+                        verticalAlignment = Alignment.Top, horizontalArrangement = Arrangement.spacedBy(6.dp),
+                    ) {
+                        Text(
+                            question.q, color = Color.White.copy(alpha = 0.72f),
+                            style = stemStyle.copy(fontSize = 13.sp, lineHeight = 18.sp, fontWeight = FontWeight.Normal, shadow = null),
+                            maxLines = if (open) Int.MAX_VALUE else 1, overflow = TextOverflow.Ellipsis,
+                            modifier = Modifier.weight(1f),
+                        )
+                        Icon(
+                            if (open) Icons.Rounded.KeyboardArrowUp else Icons.Rounded.KeyboardArrowDown, null,
+                            tint = Accent, modifier = Modifier.size(18.dp),
+                        )
                     }
-                    Text(
-                        question.options[option],
-                        color = Color.White.copy(alpha = if (answered && !isAnswer && !isPicked) 0.6f else 1f),
-                        style = TextStyle(fontFamily = Ui, fontSize = 13.5.sp, lineHeight = 18.sp, fontWeight = FontWeight.Medium, shadow = TextShadow, textDirection = direction),
-                        modifier = Modifier.weight(1f),
-                    )
-                }
-            }
-            AnimatedVisibility(visible = picked != null, enter = fadeIn() + expandVertically()) {
-                Column(verticalArrangement = Arrangement.spacedBy(6.dp)) {
+                    if (open) figure()
+                    optionRow(question.answer)
+                    picked?.takeIf { it != question.answer }?.let { optionRow(it) }
                     if (question.explain.isNotBlank()) {
-                        // The long explanation, small, in its own window: it scrolls instead of covering the picture.
                         Text(
                             question.explain,
                             color = Color.White.copy(alpha = 0.94f),
-                            style = TextStyle(fontFamily = Ui, fontSize = 12.5.sp, lineHeight = 18.sp, shadow = TextShadow, textDirection = direction),
-                            modifier = Modifier
-                                .fillMaxWidth()
-                                .clip(RoundedCornerShape(13.dp))
-                                .background(panel)
-                                .heightIn(max = 118.dp)
-                                .verticalScroll(explainScroll)
-                                .padding(horizontal = 11.dp, vertical = 8.dp),
+                            style = TextStyle(fontFamily = Ui, fontSize = 13.sp, lineHeight = 19.sp, textDirection = direction),
+                            modifier = Modifier.fillMaxWidth().padding(horizontal = 2.dp),
                         )
                     }
-                    Row(horizontalArrangement = Arrangement.spacedBy(8.dp), verticalAlignment = Alignment.CenterVertically) {
-                        // Watch (or re-watch) the lesson behind this question.
-                        Row(
-                            Modifier.height(38.dp).clip(CircleShape).background(panel).border(1.dp, Color.White.copy(alpha = 0.25f), CircleShape)
-                                .clickable(onClick = onWatch).padding(horizontal = 13.dp),
-                            verticalAlignment = Alignment.CenterVertically,
-                        ) {
-                            Icon(Icons.Rounded.PlayArrow, null, tint = Color.White, modifier = Modifier.size(18.dp))
-                            Text(stringResource(R.string.watch), color = Color.White, fontSize = 13.sp, fontWeight = FontWeight.SemiBold)
+                }
+                Box(Modifier.fillMaxWidth().height(1.dp).background(Color.White.copy(alpha = 0.09f)))
+                Row(
+                    Modifier.padding(horizontal = 12.dp, vertical = 8.dp),
+                    horizontalArrangement = Arrangement.spacedBy(8.dp), verticalAlignment = Alignment.CenterVertically,
+                ) {
+                    // Watch (or re-watch) the lesson behind this question.
+                    Row(
+                        Modifier.height(40.dp).clip(CircleShape).background(Color.White.copy(alpha = 0.10f))
+                            .clickable(onClick = onWatch).padding(horizontal = 13.dp),
+                        verticalAlignment = Alignment.CenterVertically,
+                    ) {
+                        Icon(Icons.Rounded.PlayArrow, null, tint = Color.White, modifier = Modifier.size(18.dp))
+                        Text(stringResource(R.string.watch), color = Color.White, fontSize = 13.sp, fontWeight = FontWeight.SemiBold)
+                    }
+                    if (nextReview != null && state.done) {
+                        Row(Modifier.weight(1f), verticalAlignment = Alignment.CenterVertically, horizontalArrangement = Arrangement.Center) {
+                            Icon(Icons.Rounded.Schedule, null, tint = Accent, modifier = Modifier.size(14.dp))
+                            Spacer(Modifier.width(5.dp))
+                            Text(stringResource(R.string.next_review, nextReview), color = Color.White.copy(alpha = 0.85f), fontSize = 11.5.sp, fontWeight = FontWeight.Medium, maxLines = 2, lineHeight = 15.sp)
                         }
-                        if (nextReview != null && state.done) {
-                            Row(
-                                Modifier.weight(1f).height(38.dp).clip(CircleShape).background(panel).padding(horizontal = 10.dp),
-                                verticalAlignment = Alignment.CenterVertically,
-                            ) {
-                                Icon(Icons.Rounded.Schedule, null, tint = Accent, modifier = Modifier.size(14.dp))
-                                Spacer(Modifier.width(5.dp))
-                                Text(stringResource(R.string.next_review, nextReview), color = Color.White.copy(alpha = 0.92f), fontSize = 11.5.sp, fontWeight = FontWeight.Medium, maxLines = 1, overflow = TextOverflow.Ellipsis)
-                            }
-                        } else Spacer(Modifier.weight(1f))
-                        Row(
-                            Modifier.height(38.dp).clip(CircleShape).background(Accent)
-                                .clickable { if (last) onNext() else { index++; picked = null } }
-                                .padding(horizontal = 16.dp),
-                            verticalAlignment = Alignment.CenterVertically,
-                        ) {
-                            if (last) Icon(Icons.Rounded.KeyboardArrowUp, null, tint = OnAccent, modifier = Modifier.size(20.dp))
-                            Text(stringResource(R.string.next), color = OnAccent, fontSize = 13.sp, fontWeight = FontWeight.SemiBold)
-                        }
+                    } else Spacer(Modifier.weight(1f))
+                    Row(
+                        Modifier.height(40.dp).clip(CircleShape).background(Accent)
+                            .clickable { if (last) onNext() else { index++; picked = null } }
+                            .padding(horizontal = 16.dp),
+                        verticalAlignment = Alignment.CenterVertically,
+                    ) {
+                        if (last) Icon(Icons.Rounded.KeyboardArrowUp, null, tint = OnAccent, modifier = Modifier.size(20.dp))
+                        Text(stringResource(R.string.next), color = OnAccent, fontSize = 13.sp, fontWeight = FontWeight.SemiBold)
                     }
                 }
             }
@@ -371,7 +412,7 @@ fun QuizOverlay(
 @Composable
 private fun SmallIcon(icon: androidx.compose.ui.graphics.vector.ImageVector, label: String, onClick: () -> Unit) {
     Box(
-        Modifier.size(28.dp).clip(CircleShape).background(Color.White.copy(alpha = 0.16f)).clickable(onClickLabel = label, onClick = onClick),
+        Modifier.size(30.dp).clip(CircleShape).background(Color.White.copy(alpha = 0.16f)).clickable(onClickLabel = label, onClick = onClick),
         contentAlignment = Alignment.Center,
     ) {
         Icon(icon, contentDescription = label, tint = Color.White, modifier = Modifier.size(16.dp))

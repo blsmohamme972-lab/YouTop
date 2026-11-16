@@ -177,7 +177,10 @@ under `book/chapter/lesson` on their phone.
   Only leaving through the library skips a question (watched to the end = hard, otherwise nothing).
 - Since 2.2 the question lies over the picture without hiding it (stem small at the top, options
   small at the bottom), shows only the circles that belong to it (the answer's after answering), and
-  "All circles" shows every numbered, coloured circle with a draggable English table.
+  "All circles" shows every numbered, coloured circle with an English table.
+- Since 2.3 the table, and the answer with its explanation, sit in a fixed panel under the picture,
+  which moves up and shrinks, whole, so that nothing covers it (the owner asked for exactly this
+  after seeing 2.2: no floating table, no text over the picture once answered).
 - The picture is never zoomed or cropped; only a spotlight moves over it, in step with the voice.
 - The Arabic story is a real story with no medical explanation in it; the science is in the
   English explanation (see `docs/content-guide.md`, "The story is a story").

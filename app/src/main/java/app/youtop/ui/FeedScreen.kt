@@ -452,25 +452,29 @@ private fun LessonPage(entry: FeedEntry, active: Boolean, vm: MainViewModel, onN
             seed = item.key.hashCode(),
             marks = circles,
             focus = if (showAll) pickedMark else null,
+            // The table, or the answer with its explanation, takes the bottom; the picture moves up, whole.
+            docked = showAll || (showQuiz && quiz.picked != null),
             modifier = Modifier
                 .fillMaxSize()
                 .pointerInput(Unit) { detectTapGestures { if (plain.value) vm.narrator.toggle() } },
         )
 
-        // Soft shading behind the floating text and buttons.
-        Box(
-            Modifier.fillMaxWidth().height(170.dp).align(Alignment.TopCenter)
-                .background(Brush.verticalGradient(listOf(Ink.copy(alpha = 0.62f), Color.Transparent)))
-        )
-        Box(
-            Modifier.fillMaxWidth().height(340.dp).align(Alignment.BottomCenter)
-                .background(Brush.verticalGradient(0f to Color.Transparent, 0.55f to Ink.copy(alpha = 0.62f), 1f to Ink.copy(alpha = 0.86f)))
-        )
+        // Soft shading behind the floating text and buttons (none over a docked picture: nothing floats on it).
+        if (!(showAll || (showQuiz && quiz.picked != null))) {
+            Box(
+                Modifier.fillMaxWidth().height(170.dp).align(Alignment.TopCenter)
+                    .background(Brush.verticalGradient(listOf(Ink.copy(alpha = 0.62f), Color.Transparent)))
+            )
+            Box(
+                Modifier.fillMaxWidth().height(340.dp).align(Alignment.BottomCenter)
+                    .background(Brush.verticalGradient(0f to Color.Transparent, 0.55f to Ink.copy(alpha = 0.62f), 1f to Ink.copy(alpha = 0.86f)))
+            )
+        }
 
         // Title and story / explanation switch.
         // Hidden while a question is open: the question has its own buttons up there.
         AnimatedVisibility(
-            visible = !showQuiz, enter = fadeIn(tween(200)), exit = fadeOut(tween(150)),
+            visible = !showQuiz && !showAll, enter = fadeIn(tween(200)), exit = fadeOut(tween(150)),
             modifier = Modifier.align(Alignment.TopStart),
         ) {
         Column(
@@ -624,7 +628,7 @@ private fun LessonPage(entry: FeedEntry, active: Boolean, vm: MainViewModel, onN
         }
 
         AnimatedVisibility(
-            visible = showQuiz && lesson.quiz.isNotEmpty(),
+            visible = showQuiz && !showAll && lesson.quiz.isNotEmpty(),
             enter = fadeIn(tween(250)) + slideInVertically(tween(300)) { it / 8 },
             exit = fadeOut(tween(200)),
         ) {
@@ -654,16 +658,11 @@ private fun LessonPage(entry: FeedEntry, active: Boolean, vm: MainViewModel, onN
                 },
             )
         }
-        AnimatedVisibility(visible = showAll && lesson.marks.isNotEmpty(), enter = fadeIn(tween(220)) + scaleIn(tween(220), initialScale = 0.94f), exit = fadeOut(tween(150))) {
-            MarksTable(
-                marks = lesson.marks,
-                selected = pickedMark,
-                onSelect = { pickedMark = it },
-                onClose = { showAll = false },
-                // Over a question it starts between the question and the options; otherwise at the bottom.
-                startBias = if (showQuiz) 0.42f else 1f,
-                modifier = Modifier.navigationBarsPadding(),
-            )
+        AnimatedVisibility(
+            visible = showAll && lesson.marks.isNotEmpty(),
+            enter = fadeIn(tween(260)) + slideInVertically(tween(320)) { it / 4 }, exit = fadeOut(tween(160)),
+        ) {
+            MarksTable(marks = lesson.marks, selected = pickedMark, onSelect = { pickedMark = it }, onClose = { showAll = false })
         }
     }
 
