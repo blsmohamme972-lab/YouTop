@@ -55,7 +55,7 @@ private val Palettes = listOf(
 private const val PictureBias = -0.24f
 
 /** The share of the screen's height a docked panel takes; the picture sits whole in the rest. */
-const val DockShare = 0.43f
+const val DockShare = 0.46f
 
 /**
  * Lesson image with a spotlight on the region being narrated. The whole picture is always

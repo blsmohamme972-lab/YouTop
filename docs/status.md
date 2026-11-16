@@ -40,7 +40,7 @@ the owner says and for screenshots.
   spring-back, Arabic phone layout of the question (the table itself is always left-to-right English).
 - New lessons need marks too: `batch.py marks` (see the skill, step 5). Lessons 21-30 have none (no pictures).
 
-### 2.3 (versionCode 14), same day: what the owner found on their phone in 2.2, fixed
+### 2.3 and 2.4, same day: what the owner found on their phone in 2.2, fixed
 
 The owner sent two screenshots of 2.2: the floating table covered half the picture while the top of
 the screen stood empty; after an answer a long stem, five options and the explanation covered the
@@ -55,16 +55,19 @@ table sits **under** the picture, **fixed**, its rows scrolling. Built, APK hand
 - After an answer the panel holds: the stem as one line (tap = all of it), the right option, the
   wrong pick if any, the whole explanation (scrolls), and "Watch / Next review / Next" fixed at the
   bottom. The other options are not shown again.
-- Before the answer the owner's layout stays (stem top, options bottom, over the picture), but a
-  stem longer than three lines is cut with "More" / "Less". A question's circle can still lie
-  under the translucent options there; if the owner minds, dock the picture before the answer too.
+- **2.4 (versionCode 15), same day:** the owner then said the question itself hides the picture
+  when it appears. So the picture is docked for the whole question (`docked = showAll || showQuiz`,
+  `DockShare` now 46 %): stem (three lines, "More" / "Less") and options are in the panel under it,
+  then the answer. When the panel holds more than fits (a fifth long option, the rest of the
+  explanation) a fade and a small arrow at its bottom say so. This replaces the owner's first
+  wording "question at the top, options at the bottom, over the picture": do not go back to it.
 - Lesson learned: the owner's phone shows long stems and bigger type than the starter book; look at
   real long lessons (1, 36) seeded for a moment before handing an APK over. Done for 2.3; still not
   run on a real phone.
 
 ## App
 
-- **2.3 (versionCode 14)** is on `main` (see above); before it 2.2 and 2.1 (versionCode 12), handed to the
+- **2.4 (versionCode 15)** is on `main` (see above); before it 2.3, 2.2 and 2.1 (versionCode 12), handed to the
   owner on 2026-11-16 (the third APK that day, after 1.9 and 2.0). A screenshot they sent later that day shows 2.0 or 2.1 running on
   their phone with a real lesson (buttons with names, "Home" at the top right).
 - New in 2.1, asked for by the owner: **progress by topic across books.** On the Topics page every

@@ -136,7 +136,7 @@ class ScreensTest {
         openFirstLesson()
         val vm = rule.activity.viewModel()
         button("Quiz").performClick()
-        shot("5-quiz") // question at the top, options at the bottom, only the question's circle
+        shot("5-quiz") // the picture whole at the top with the question's circle; question and options in the panel under it
         text("All circles").performClick()
         shot("5c-quiz-all-circles") // the picture moves up, whole; the table sits under it
         // The table is fixed under the picture and its rows scroll; a row singles out its circle.
