@@ -29,7 +29,12 @@ import androidx.compose.ui.graphics.Brush
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.drawscope.Stroke
 import androidx.compose.ui.layout.ContentScale
+import androidx.compose.ui.text.TextStyle
+import androidx.compose.ui.text.drawText
+import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.text.rememberTextMeasurer
 import androidx.compose.ui.unit.dp
+import androidx.compose.ui.unit.sp
 import app.youtop.data.Spot
 import coil3.compose.AsyncImage
 import kotlin.math.abs
@@ -52,11 +57,25 @@ private const val PictureBias = -0.24f
  * With `spot == null` the light comes back up. A blurred copy fills the screen behind.
  */
 @Composable
-fun SpotlightImage(model: Any?, spot: Spot?, seed: Int, modifier: Modifier = Modifier) {
+fun SpotlightImage(
+    model: Any?,
+    spot: Spot?,
+    seed: Int,
+    modifier: Modifier = Modifier,
+    /** Numbered circles to show at once, each in its own colour (the question's circles, or all of them). */
+    marks: List<NumberedSpot> = emptyList(),
+    /** The number of the circle singled out in the table; the others fade. */
+    focus: Int? = null,
+) {
     var intrinsic by remember(model) { mutableStateOf(Size.Unspecified) }
     // Keep the last spot so the highlight fades out where it was instead of jumping.
     var last by remember { mutableStateOf(spot ?: Spot(0.5f, 0.5f, 0.3f)) }
     if (spot != null) last = spot
+    // Likewise the circles: they fade out as they were.
+    var lastMarks by remember { mutableStateOf(marks) }
+    if (marks.isNotEmpty()) lastMarks = marks
+    val marksShown by animateFloatAsState(if (marks.isNotEmpty()) 1f else 0f, tween(260), label = "marks")
+    val measurer = rememberTextMeasurer()
 
     BoxWithConstraints(modifier.clipToBounds()) {
         val w = constraints.maxWidth.toFloat()
@@ -102,6 +121,31 @@ fun SpotlightImage(model: Any?, spot: Spot?, seed: Int, modifier: Modifier = Mod
                     modifier = Modifier.fillMaxSize(),
                     onSuccess = { intrinsic = it.painter.intrinsicSize },
                 )
+            }
+            Canvas(Modifier.fillMaxSize()) {
+                if (marksShown <= 0.01f) return@Canvas
+                val ring = 3.dp.toPx()
+                val badge = 11.dp.toPx()
+                for (mark in lastMarks) {
+                    val colour = markColor(mark.number)
+                    val a = marksShown * (if (focus == null || focus == mark.number) 1f else 0.28f)
+                    val c = Offset(left + mark.spot.x * drawnW, top + mark.spot.y * drawnH)
+                    val r = mark.spot.r.coerceIn(0.03f, 0.6f) * drawnW
+                    drawCircle(Color.Black.copy(alpha = 0.45f * a), r, c, style = Stroke(ring + 2.dp.toPx()))
+                    drawCircle(colour.copy(alpha = a), r, c, style = Stroke(ring))
+                    if (mark.pulse || focus == mark.number) {
+                        drawCircle(colour.copy(alpha = 0.6f * (1f - pulse) * a), r * (1f + 0.2f * pulse), c, style = Stroke(ring))
+                    }
+                    // The number rides on the ring, upper left, so it does not hide what is circled.
+                    val b = Offset(
+                        (c.x - r * 0.707f).coerceIn(badge + 2f, (size.width - badge - 2f).coerceAtLeast(badge + 2f)),
+                        (c.y - r * 0.707f).coerceIn(badge + 2f, (size.height - badge - 2f).coerceAtLeast(badge + 2f)),
+                    )
+                    drawCircle(Color.Black.copy(alpha = 0.55f * a), badge + 1.5.dp.toPx(), b)
+                    drawCircle(colour.copy(alpha = a), badge, b)
+                    val label = measurer.measure("${mark.number}", TextStyle(fontFamily = Ui, fontSize = 12.sp, lineHeight = 13.sp, fontWeight = FontWeight.SemiBold, color = Ink.copy(alpha = a)))
+                    drawText(label, topLeft = Offset(b.x - label.size.width / 2f, b.y - label.size.height / 2f))
+                }
             }
             Canvas(Modifier.fillMaxSize()) {
                 if (dim <= 0.01f) return@Canvas

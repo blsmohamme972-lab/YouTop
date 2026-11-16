@@ -12,6 +12,8 @@ image prompts, checks them against the owner's rules, and prepares the folder fo
     batch.py build     batch.txt --master <file> [--folder F] [--force]    lessons + image prompts into F
     batch.py pictures  <book> <folder of the owner's pictures> [--folder F]  N.png -> media/<id>.webp
     batch.py spots     spots.txt [--folder F] [--pictures <folder>]        spotlight positions, drawn to check
+    batch.py marks     <book> <from> <to> --draft marks.txt [--folder F]   a marks file to fill in, from the spots
+    batch.py marks     marks.txt [--folder F]                     the numbered circles and their table, drawn to check
     batch.py status    <book> [--folder F]                        what each lesson still lacks
 
 <book> is a book id with a file content/books/<book>.json. --master files are the book's question
@@ -48,6 +50,18 @@ width/height (r of the width), "-" for a sentence about nothing visible. The quo
     == 41
     story: 44 20 30 | 15 50 25 | - | 78 30 22 | ...
     explanation: 78 30 22 | 92 27 10 | ...
+
+The marks file: per question, the numbered circles of "all circles" and their table (English only).
+One line per circle: "<number>: x y r | what is in the picture | what it stands for"; numbers run
+1, 2, 3... "question:" lists the circles shown while the question is asked (they must not give the
+answer away), "answer:" the circles shown once it is answered. Text is never touched by this step.
+
+    book: shahzad-2015
+    == 41
+    1: 44 20 30 | The gatekeeper at the only gate | Mitral valve: closes as the ventricle contracts
+    2: 15 50 25 | The bell that rings once | First heart sound
+    question: 1
+    answer: 2
 """
 import argparse, json, pathlib, re, shutil, subprocess, sys, unicodedata
 
@@ -266,6 +280,12 @@ def build_lesson(cfg, b, q, book_dir, old, force, problems, warnings):
         # Keep what later steps added (picture, spots, recorded voice) wherever the text is unchanged.
         if old.get("image"):
             lesson["image"] = old["image"]
+        if old.get("marks"):
+            # The numbered circles belong to the picture, not to the wording.
+            lesson["marks"] = old["marks"]
+            for k in ("marks", "answerMarks"):
+                if old.get("quiz") and k in old["quiz"][0]:
+                    quiz[k] = old["quiz"][0][k]
         for new_track in lesson["tracks"]:
             old_track = next((t for t in old.get("tracks", []) if t.get("kind") == new_track["kind"]), None)
             if not old_track:
@@ -390,6 +410,8 @@ def cmd_status(args):
             lacks.append("picture")
         elif not any(s.get("spot") for t in tracks.values() for s in t["segments"]):
             lacks.append("spots")
+        elif not lesson.get("marks"):
+            lacks.append("marks")
         for kind in ("story", "explanation"):
             if kind in tracks and not tracks[kind].get("audio"):
                 lacks.append(f"{kind} voice (phone voice is used)")
@@ -406,7 +428,7 @@ def cmd_status(args):
         return ", ".join(f"{a}-{b}" if a != b else str(a) for a, b in out) or "none"
     print(f"{cfg['id']}: {len(done)} of {total} questions are lessons.")
     print("Not written yet:", ranges(missing))
-    for what in ("picture", "spots", "story voice (phone voice is used)", "explanation voice (phone voice is used)"):
+    for what in ("picture", "spots", "marks", "story voice (phone voice is used)", "explanation voice (phone voice is used)"):
         print(f"Without {what}:", ranges([n for n, lacks in done.items() if what in lacks]))
 
 
@@ -533,6 +555,208 @@ def cmd_spots(args):
         print("The pictures are not on this machine, so the circles could not be drawn. (They are in the folder after 'pictures'.)")
 
 
+# The colours of the numbered circles; the app uses the same ones (ui/Marks.kt, MarkColors).
+MARK_COLOURS = [(255, 210, 63), (76, 201, 240), (255, 107, 107), (122, 229, 130), (199, 125, 255),
+                (255, 159, 28), (46, 196, 182), (244, 114, 182), (184, 242, 230), (224, 224, 224)]
+MARK_WHAT, MARK_MEANS, MARK_MAX = 48, 110, 10
+
+
+def parse_marks(path):
+    book, items, cur = None, [], None
+    for n, raw in enumerate(pathlib.Path(path).read_text(encoding="utf-8").splitlines(), 1):
+        line = raw.strip()
+        if not line or line.startswith("#"):
+            continue
+        m = re.fullmatch(r"==\s*(\d+)\s*=*", line)
+        if m:
+            cur = {"n": int(m.group(1)), "marks": [], "question": [], "answer": []}
+            items.append(cur)
+            continue
+        key, _, value = line.partition(":")
+        key, value = key.strip(), value.strip()
+        if cur is None:
+            if key == "book":
+                book = value
+                continue
+            die(f"{path}:{n}: the first line must be 'book: <book id>'")
+        if key in ("question", "answer"):
+            try:
+                cur[key] = [int(v) for v in value.replace(",", " ").split()]
+            except ValueError:
+                die(f"{path}:{n}: '{key}:' takes circle numbers")
+        elif key.isdigit():
+            parts = [x.strip() for x in value.split("|")]
+            if int(key) != len(cur["marks"]) + 1 or len(parts) != 3:
+                die(f"{path}:{n}: expected '{len(cur['marks']) + 1}: x y r | what | means'")
+            cur["marks"].append(parts)
+        else:
+            die(f"{path}:{n}: not understood: {line[:60]}")
+    if not book:
+        die(f"{path}: the first line must be 'book: <book id>'")
+    return book, items
+
+
+def cmd_marks(args):
+    if args.draft:
+        return marks_draft(args)
+    book, items = parse_marks(args.what[0])
+    cfg = book_config(book)
+    folder = pathlib.Path(args.folder).resolve()
+    book_dir = ensure_folder(folder, cfg)
+    wanted = {lesson_id(cfg, b["n"]): b for b in items}
+    problems, drawn, todo = [], [], []
+    for path in sorted((book_dir / "chapters").glob("*.json")):
+        chapter = json.loads(path.read_text(encoding="utf-8"))
+        changed = False
+        for lesson in chapter["lessons"]:
+            b = wanted.pop(lesson["id"], None)
+            if not b:
+                continue
+            w = f"question {b['n']}"
+            if not lesson.get("image"):
+                problems.append(f"{w}: the lesson has no picture yet")
+                continue
+            marks = []
+            for i, (sp, what, means) in enumerate(b["marks"], 1):
+                try:
+                    x, y, r = (float(v) / 100 for v in sp.replace(",", " ").split())
+                except ValueError:
+                    problems.append(f"{w}: circle {i}: '{sp}' is not 'x y r' in hundredths")
+                    continue
+                if not (0 <= x <= 1 and 0 <= y <= 1 and 0.03 <= r <= 0.6):
+                    problems.append(f"{w}: circle {i} is outside the picture or its radius is not 3 to 60")
+                if not what or not means:
+                    problems.append(f"{w}: circle {i} needs both 'what' and 'means'")
+                if re.search(r"[\u0600-\u06FF]", what + means):
+                    problems.append(f"{w}: circle {i}: the table is in English only")
+                if len(what) > MARK_WHAT or len(means) > MARK_MEANS:
+                    problems.append(f"{w}: circle {i}: 'what' is {len(what)} characters (at most {MARK_WHAT}), 'means' {len(means)} (at most {MARK_MEANS}); the table must stay small")
+                marks.append({"spot": {"x": round(x, 3), "y": round(y, 3), "r": round(r, 3)}, "what": what, "means": means})
+            if not 2 <= len(marks) <= MARK_MAX:
+                problems.append(f"{w}: {len(marks)} circles; give 2 to {MARK_MAX}")
+            for key in ("question", "answer"):
+                if any(not 1 <= v <= len(marks) for v in b[key]):
+                    problems.append(f"{w}: '{key}:' names a circle that does not exist")
+            if not b["answer"]:
+                problems.append(f"{w}: 'answer:' must name at least one circle")
+            if set(b["question"]) & set(b["answer"]):
+                problems.append(f"{w}: a circle is in both 'question:' and 'answer:'; the question's circles must not give the answer away")
+            if len(lesson.get("quiz", [])) != 1:
+                problems.append(f"{w}: the lesson has {len(lesson.get('quiz', []))} questions; this file format serves lessons with one")
+                continue
+            lesson["marks"] = marks
+            lesson["quiz"][0]["marks"] = b["question"]
+            lesson["quiz"][0]["answerMarks"] = b["answer"]
+            changed = True
+            drawn.append(lesson)
+        if changed:
+            todo.append((path, chapter))
+    for lid in wanted:
+        problems.append(f"{lid}: no such lesson in {book_dir}")
+    if problems:
+        die("nothing written:\n  " + "\n  ".join(problems))
+    for path, chapter in todo:
+        path.write_text(json.dumps(chapter, ensure_ascii=False) + "\n", encoding="utf-8")
+    out = folder / "check" / cfg["id"]
+    out.mkdir(parents=True, exist_ok=True)
+    count = draw_marks(cfg, book_dir, drawn, out)
+    print(f"marks set for {len(drawn)} lesson(s).")
+    if count:
+        print(f"Now LOOK at {out}/<n>-marks.jpg: every numbered circle must sit on what its row says. "
+              "A ring drawn twice is a circle of the question (Q) or of the answer (A).")
+
+
+def marks_draft(args):
+    """A marks file to start from: one line per distinct spot, with the sentences spoken over it."""
+    if len(args.what) != 3:
+        die("usage: batch.py marks <book> <from> <to> --draft marks.txt")
+    cfg = book_config(args.what[0])
+    first, last = int(args.what[1]), int(args.what[2])
+    folder = pathlib.Path(args.folder).resolve()
+    book_dir = ensure_folder(folder, cfg)
+    out = folder / "check" / cfg["id"]
+    out.mkdir(parents=True, exist_ok=True)
+    lines = [f"book: {cfg['id']}",
+             "# Per circle:  <number>: x y r | what is in the picture | what it stands for   (English only)",
+             "# The '#' lines under a circle are the sentences spoken over it (S story, E explanation); delete them or leave them.", ""]
+    drafted = []
+    for lesson in all_lessons(book_dir):
+        n = int(lesson["id"][-4:])
+        if not first <= n <= last or not lesson.get("image"):
+            continue
+        spots = {}
+        for track, letter in zip(lesson["tracks"], "SE"):
+            for i, seg in enumerate(track["segments"], 1):
+                sp = seg.get("spot")
+                if sp:
+                    spots.setdefault((sp["x"], sp["y"], sp.get("r", 0.15)), []).append(f"{letter}{i} {seg['text']}")
+        q = lesson["quiz"][0] if lesson.get("quiz") else None
+        lines.append(f"== {n}")
+        if q:
+            lines += ["# Q: " + q["q"].replace("\n", " "), "# ANSWER: " + q["options"][q["answer"]],
+                      "# other options: " + " / ".join(o for i, o in enumerate(q["options"]) if i != q["answer"])]
+        marks = []
+        for i, ((x, y, r), said) in enumerate(spots.items(), 1):
+            lines.append(f"{i}: {round(x * 100)} {round(y * 100)} {round(r * 100)} | WHAT | MEANS")
+            lines += [f"#    {t}" for t in said]
+            marks.append({"spot": {"x": x, "y": y, "r": r}})
+        lines += ["question: ", "answer: ", ""]
+        drafted.append(dict(lesson, marks=marks))
+    pathlib.Path(args.draft).write_text("\n".join(lines), encoding="utf-8")
+    draw_marks(cfg, book_dir, drafted, out, suffix="draft")
+    print(f"wrote {args.draft} for {len(drafted)} lesson(s); the pictures with these circles are {out}/<n>-draft.jpg")
+
+
+def lesson_picture(cfg, book_dir, lesson, out):
+    from PIL import Image
+    name = lesson["image"].rsplit("/", 1)[-1]
+    src = book_dir / "media" / name
+    if not src.is_file():
+        src = out / name
+        if not src.is_file():
+            blob = subprocess.run(["git", "cat-file", "-p", f"origin/content:books/{cfg['id']}/media/{name}"], cwd=ROOT, capture_output=True)
+            if blob.returncode != 0:
+                return None
+            src.write_bytes(blob.stdout)
+    im = Image.open(src).convert("RGB")
+    return im.resize((720, round(im.height * 720 / im.width)))
+
+
+def draw_marks(cfg, book_dir, lessons, out, suffix="marks"):
+    try:
+        from PIL import ImageDraw, ImageFont
+    except ImportError:
+        return 0
+    try:
+        font = ImageFont.truetype("DejaVuSans-Bold.ttf", 22)
+    except OSError:
+        font = ImageFont.load_default()
+    count = 0
+    for lesson in lessons:
+        im = lesson_picture(cfg, book_dir, lesson, out)
+        if im is None:
+            continue
+        d = ImageDraw.Draw(im, "RGBA")
+        quiz = lesson["quiz"][0] if lesson.get("quiz") else {}
+        for i, mark in enumerate(lesson["marks"], 1):
+            sp, colour = mark["spot"], MARK_COLOURS[(i - 1) % len(MARK_COLOURS)]
+            x, y, r = sp["x"] * im.width, sp["y"] * im.height, sp["r"] * im.width
+            d.ellipse([x - r, y - r, x + r, y + r], outline=colour + (255,), width=4)
+            role = "Q" if i in quiz.get("marks", []) else "A" if i in quiz.get("answerMarks", []) else ""
+            if role:
+                d.ellipse([x - r - 7, y - r - 7, x + r + 7, y + r + 7], outline=colour + (255,), width=2)
+            # The number sits on the ring (upper left), as in the app, so it does not hide what is circled.
+            bx, by = x - r * 0.707, y - r * 0.707
+            bx, by = min(max(bx, 18), im.width - 18), min(max(by, 18), im.height - 18)
+            d.ellipse([bx - 17, by - 17, bx + 17, by + 17], fill=colour + (255,), outline=(0, 0, 0, 255), width=2)
+            label = f"{i}{role}"
+            tw = d.textlength(label, font=font)
+            d.text((bx - tw / 2, by - 13), label, fill=(0, 0, 0, 255), font=font)
+        im.save(out / f"{int(lesson['id'][-4:])}-{suffix}.jpg", quality=82)
+        count += 1
+    return count
+
+
 def draw_spots(cfg, book_dir, lessons, out):
     try:
         from PIL import Image, ImageDraw, ImageFont
@@ -585,6 +809,9 @@ def main():
     add("build", cmd_build, ("batch", str), master=True).add_argument("--force", action="store_true", help="allow changing a text that has a recorded voice")
     add("pictures", cmd_pictures, ("book", str), ("source", str)).add_argument("--replace", metavar="SUFFIX", help="publish corrected pictures under a new name, e.g. --replace b")
     add("spots", cmd_spots, ("spots", str))
+    m = add("marks", cmd_marks)
+    m.add_argument("what", nargs="+", help="a marks file, or with --draft: <book> <from> <to>")
+    m.add_argument("--draft", metavar="FILE", help="write a marks file to fill in, from the lessons' spots")
     add("status", cmd_status, ("book", str))
     args = ap.parse_args()
     args.fn(args)

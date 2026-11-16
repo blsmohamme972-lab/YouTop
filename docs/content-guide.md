@@ -282,6 +282,12 @@ built in; to show new tags before the next APK, copy `app/src/main/assets/taxono
   Verify by drawing the circles on the picture, as `tools/starter/art.mjs --check` does for the
   starter lessons. A spot that points at the wrong thing is worse than no spot; leave `spot` out
   when a sentence is not about anything visible.
+- **Marks** (since app 2.2): a lesson with a picture also carries `"marks": [{"spot": {…}, "what":
+  "…", "means": "…"}]`, the numbered circles of the "All circles" table (number = place in the
+  list, from 1; English only), and its question carries `"marks": [1]` (circles shown while it is
+  asked; never the answer) and `"answerMarks": [3]` (circles shown once answered). Written with
+  `batch.py marks` (format at the top of `batch.py`; the skill, step 5). All three are optional:
+  a lesson without them simply shows no circles in its question.
 - A lesson may be published before its picture exists (no `image`, no `spot`); add them later.
 
 ## Publishing

@@ -81,6 +81,24 @@ about nothing visible):
 
 Look at each `<n>-spots.jpg` it draws; move any circle that misses; publish as in step 3.
 
+## 5. Marks: the numbered circles of "All circles" and of the question
+
+Once a lesson has its picture and spots, it needs its marks (the app shows them in the question
+and in the "All circles" table):
+
+    python3 tools/content/batch.py marks shahzad-2015 41 50 --draft <scratch>/marks.txt
+
+writes one line per distinct spot with the sentences spoken over it, and `<n>-draft.jpg` with those
+circles. Per lesson, **looking at the picture**: keep 4 to 8 circles, each on one character, object
+or event (merge overlapping ones, drop empty ones), and fill `what` (what is seen, at most 48
+characters) and `means` (the medical fact, at most 110, from the explanation), English only. Then
+`question:` = the circle(s) that show what the question is about without giving the answer away,
+`answer:` = the circle(s) of the correct option. Apply, look at each `<n>-marks.jpg`, publish:
+
+    python3 tools/content/batch.py marks <scratch>/marks.txt
+
+It never touches lesson text. Keep the marks file under `work/<book>/marks/`.
+
 ## Rules that are never broken
 
 - Nothing is uploaded to Drive (every write prompts the owner). Publishing is `git push` only.

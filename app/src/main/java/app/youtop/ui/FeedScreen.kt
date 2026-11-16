@@ -101,6 +101,17 @@ import app.youtop.data.SyncState
 import app.youtop.data.Track
 import app.youtop.player.NarrationMode
 import app.youtop.study.Tags
+import androidx.compose.animation.core.animate
+import androidx.compose.runtime.mutableFloatStateOf
+import kotlinx.coroutines.Job
+import androidx.compose.animation.core.spring
+import androidx.compose.material.icons.rounded.Workspaces
+import androidx.compose.ui.graphics.graphicsLayer
+import androidx.compose.ui.input.nestedscroll.NestedScrollConnection
+import androidx.compose.ui.input.nestedscroll.NestedScrollSource
+import androidx.compose.ui.input.nestedscroll.nestedScroll
+import androidx.compose.ui.platform.LocalDensity
+import androidx.compose.ui.unit.Velocity
 
 private val Speeds = listOf(0.75f, 1f, 1.25f, 1.5f, 2f)
 
@@ -112,8 +123,50 @@ fun FeedScreen(vm: MainViewModel, onOpenLibrary: (LibraryTab?) -> Unit) {
     val progress by vm.progress.collectAsStateWithLifecycle()
     val settings by vm.settings.collectAsStateWithLifecycle()
     // A new pager, back at the top, each time the feed starts afresh with another book or other topics.
-    val pagerState = key(vm.generation) { rememberPagerState { queue.size } }
+    // The feed ends, for now, at the first lesson whose question is not answered yet.
+    val pagerState = key(vm.generation) { rememberPagerState { vm.reachable() } }
     val scope = rememberCoroutineScope()
+    // A swipe away from an unanswered lesson: the page gives a little, then springs back with its question open.
+    var pull by remember { mutableFloatStateOf(0f) }
+    var springBack by remember { mutableStateOf<Job?>(null) }
+    val density = LocalDensity.current
+    val hold = remember(pagerState) {
+        object : NestedScrollConnection {
+            private val limit = with(density) { 140.dp.toPx() }
+            private val enough = with(density) { 18.dp.toPx() }
+            private fun held() = !pagerState.canScrollForward && vm.holds(pagerState.currentPage)
+
+            override fun onPreScroll(available: Offset, source: NestedScrollSource): Offset {
+                // Dragging back down first undoes the pull.
+                if (pull < 0f && available.y > 0f && source == NestedScrollSource.UserInput) {
+                    val back = minOf(available.y, -pull)
+                    pull += back
+                    return Offset(0f, back)
+                }
+                return Offset.Zero
+            }
+
+            override fun onPostScroll(consumed: Offset, available: Offset, source: NestedScrollSource): Offset {
+                if (source == NestedScrollSource.UserInput && available.y < 0f && held()) {
+                    springBack?.cancel()
+                    pull = (pull + available.y * 0.5f).coerceAtLeast(-limit)
+                    return Offset(0f, available.y)
+                }
+                return Offset.Zero
+            }
+
+            override suspend fun onPreFling(available: Velocity): Velocity {
+                val flick = available.y < -400f && held() && pagerState.currentPageOffsetFraction == 0f
+                if (pull == 0f && !flick) return Velocity.Zero
+                if (pull < -enough || flick) queue.getOrNull(pagerState.currentPage)?.let { vm.heldBack.tryEmit(it.id) }
+                springBack?.cancel()
+                springBack = scope.launch {
+                    animate(pull, 0f, animationSpec = spring(dampingRatio = 0.55f, stiffness = 380f)) { v, _ -> pull = v }
+                }
+                return available
+            }
+        }
+    }
 
     LaunchedEffect(pagerState.settledPage, queue.getOrNull(pagerState.settledPage)?.id) {
         vm.activate(pagerState.settledPage)
@@ -130,11 +183,18 @@ fun FeedScreen(vm: MainViewModel, onOpenLibrary: (LibraryTab?) -> Unit) {
         if (queue.isEmpty()) {
             if (loaded) EmptyFeed(vm, finished, sync, Modifier.align(Alignment.Center))
         } else {
+            // What shows under the page while it is pulled: why it will not go.
+            Text(
+                stringResource(R.string.answer_first),
+                color = Accent, fontSize = 13.sp, fontWeight = FontWeight.SemiBold,
+                modifier = Modifier.align(Alignment.BottomCenter).navigationBarsPadding().padding(bottom = 18.dp)
+                    .graphicsLayer { alpha = (-pull / 120f).coerceIn(0f, 1f) },
+            )
             key(pagerState) { VerticalPager(
                 state = pagerState,
                 beyondViewportPageCount = 1,
                 key = { queue.getOrNull(it)?.id ?: -1L - it },
-                modifier = Modifier.fillMaxSize(),
+                modifier = Modifier.fillMaxSize().nestedScroll(hold).graphicsLayer { translationY = pull },
             ) { page ->
                 val entry = queue.getOrNull(page) ?: return@VerticalPager
                 LessonPage(
@@ -142,7 +202,7 @@ fun FeedScreen(vm: MainViewModel, onOpenLibrary: (LibraryTab?) -> Unit) {
                     active = page == pagerState.settledPage,
                     vm = vm,
                     // Nothing moves on while the library covers the feed.
-                    onNext = { if (!vm.covered) scope.launch { if (page + 1 < queue.size) pagerState.animateScrollToPage(page + 1) } },
+                    onNext = { if (!vm.covered) scope.launch { if (page + 1 < vm.reachable()) pagerState.animateScrollToPage(page + 1) } },
                 )
             } }
         }
@@ -194,7 +254,7 @@ fun FeedScreen(vm: MainViewModel, onOpenLibrary: (LibraryTab?) -> Unit) {
         }
 
         // Shown until the first swipe, once: how to get to the next lesson.
-        val showHint = loaded && !settings.hintSeen && queue.size > 1 && pagerState.settledPage == 0 && !vm.covered
+        val showHint = loaded && !settings.hintSeen && queue.size > 1 && pagerState.settledPage == 0 && !vm.covered && !vm.holds(0)
         LaunchedEffect(pagerState.settledPage) { if (pagerState.settledPage > 0 && !settings.hintSeen) vm.hintSeen() }
         AnimatedVisibility(
             visible = showHint, enter = fadeIn(tween(400)), exit = fadeOut(tween(200)),
@@ -256,7 +316,10 @@ private fun LessonPage(entry: FeedEntry, active: Boolean, vm: MainViewModel, onN
     val info = item.lesson
     // The title and picture are known at once; narration and questions are read from disk.
     // Keyed on the chapter file too: after a sync replaces it, the page reads the new text.
-    val full by produceState<Lesson?>(null, item.key, item.chapter.source) { value = vm.lesson(item) }
+    // (Read and its result in one value: "read, and it has no question" must never be seen half-way.)
+    val loaded by produceState<Pair<Boolean, Lesson?>>(false to null, item.key, item.chapter.source) { value = true to vm.lesson(item) }
+    val full = loaded.second
+    val read = loaded.first
     val lesson = full ?: Lesson(id = info.id, title = info.title, titleAr = info.titleAr, image = info.image, tags = info.tags)
     val trackIndex = (vm.trackChoice[entry.id] ?: 0).coerceIn(0, (lesson.tracks.size - 1).coerceAtLeast(0))
     val track = lesson.tracks.getOrNull(trackIndex)
@@ -285,6 +348,23 @@ private fun LessonPage(entry: FeedEntry, active: Boolean, vm: MainViewModel, onN
     // Set once the learner has chosen to watch, so "question first" does not cover the video again.
     var watching by remember { mutableStateOf(false) }
     var showTranscript by rememberSaveable { mutableStateOf(false) }
+    // "All circles": every numbered circle of the picture, with their table.
+    var showAll by remember { mutableStateOf(false) }
+    var pickedMark by remember { mutableStateOf<Int?>(null) }
+    val allCircles = { vm.narrator.pause(); pickedMark = null; showAll = true }
+
+    // A lesson whose question cannot be asked after all (its text could not be read) must not hold the feed.
+    LaunchedEffect(read, lesson.quiz.size) { if (read && lesson.quiz.isEmpty()) vm.pass(entry.id) }
+    // Swiped away unanswered: back here, with the question open, wherever the story had got to.
+    LaunchedEffect(entry.id) {
+        vm.heldBack.collect { id ->
+            if (id == entry.id && info.questions > 0) {
+                vm.narrator.pause()
+                showAll = false
+                showQuiz = true
+            }
+        }
+    }
 
     // Quietly note how this viewing went, and hand it to the scheduler when the learner is done with it.
     val log = remember { ViewLog() }
@@ -307,6 +387,7 @@ private fun LessonPage(entry: FeedEntry, active: Boolean, vm: MainViewModel, onN
         } else if (log.since > 0L) {
             report()
             showQuiz = false
+            showAll = false
             watching = false
         }
     }
@@ -329,7 +410,20 @@ private fun LessonPage(entry: FeedEntry, active: Boolean, vm: MainViewModel, onN
     }
 
     val segment = track?.segments?.getOrNull(segmentIndex)
-    val spot = if (mine && !ended && !showQuiz) segment?.spot else null
+    val spot = if (mine && !ended && !showQuiz && !showAll) segment?.spot else null
+    // The circles on the picture: all of them when asked for; under a question only the ones that
+    // belong to it, and the correct answer's once it is answered.
+    val asked = if (showQuiz) lesson.quiz.getOrNull(quiz.index) else null
+    val circles = remember(lesson.marks, showAll, asked, quiz.picked) {
+        when {
+            showAll -> lesson.marks.numbered(1..lesson.marks.size)
+            asked != null -> lesson.marks.numbered(
+                asked.marks + (if (quiz.picked != null) asked.answerMarks else emptyList()),
+                pulse = if (quiz.picked != null) asked.answerMarks.toSet() else emptySet(),
+            )
+            else -> emptyList()
+        }
+    }
     val rtl = track?.let { isRtl(it.lang) } ?: false
     val context = LocalContext.current
 
@@ -341,10 +435,12 @@ private fun LessonPage(entry: FeedEntry, active: Boolean, vm: MainViewModel, onN
     }
 
     // The narration must not start under an open question when the library closes.
-    if (active) SideEffect { vm.quizOpen = showQuiz }
+    if (active) SideEffect { vm.quizOpen = showQuiz || showAll }
 
     // Back closes an open question instead of leaving the app.
     BackHandler(enabled = active && showQuiz && !vm.covered) { vm.narrator.stopSaying(); showQuiz = false }
+    BackHandler(enabled = active && showAll && !vm.covered) { showAll = false }
+    val plain = rememberUpdatedState(!showAll)
 
     // The picture is downloaded once into the app's own store and shown from there.
     val picture = rememberLocalImage(vm.media, lesson.image)
@@ -354,9 +450,11 @@ private fun LessonPage(entry: FeedEntry, active: Boolean, vm: MainViewModel, onN
             model = picture,
             spot = spot,
             seed = item.key.hashCode(),
+            marks = circles,
+            focus = if (showAll) pickedMark else null,
             modifier = Modifier
                 .fillMaxSize()
-                .pointerInput(Unit) { detectTapGestures { vm.narrator.toggle() } },
+                .pointerInput(Unit) { detectTapGestures { if (plain.value) vm.narrator.toggle() } },
         )
 
         // Soft shading behind the floating text and buttons.
@@ -433,7 +531,7 @@ private fun LessonPage(entry: FeedEntry, active: Boolean, vm: MainViewModel, onN
 
         // Paused indicator.
         AnimatedVisibility(
-            visible = active && !playing && track != null && !showQuiz,
+            visible = active && !playing && track != null && !showQuiz && !showAll,
             enter = fadeIn(tween(150)) + scaleIn(tween(150), initialScale = 0.8f),
             exit = fadeOut(tween(150)) + scaleOut(tween(150), targetScale = 1.2f),
             modifier = Modifier.align(Alignment.Center),
@@ -446,7 +544,7 @@ private fun LessonPage(entry: FeedEntry, active: Boolean, vm: MainViewModel, onN
             }
         }
 
-        AnimatedVisibility(visible = !showQuiz, enter = fadeIn(tween(200)), exit = fadeOut(tween(200))) {
+        AnimatedVisibility(visible = !showQuiz && !showAll, enter = fadeIn(tween(200)), exit = fadeOut(tween(200))) {
             Box(Modifier.fillMaxSize()) {
                 // Action rail.
                 Column(
@@ -461,6 +559,9 @@ private fun LessonPage(entry: FeedEntry, active: Boolean, vm: MainViewModel, onN
                             tint = if (ended) Accent else Color.White,
                             caption = stringResource(R.string.quiz),
                         )
+                    }
+                    if (lesson.marks.isNotEmpty()) {
+                        GlassButton(Icons.Rounded.Workspaces, stringResource(R.string.all_circles), onClick = allCircles, caption = stringResource(R.string.circles))
                     }
                     GlassButton(
                         if (saved) Icons.Rounded.Bookmark else Icons.Rounded.BookmarkBorder,
@@ -532,7 +633,6 @@ private fun LessonPage(entry: FeedEntry, active: Boolean, vm: MainViewModel, onN
                 state = quiz,
                 media = vm.media,
                 shuffle = study.shuffleOptions,
-                autoAdvance = study.autoAdvance,
                 speak = study.speakQuiz,
                 onSay = { text, lang -> vm.narrator.say(text, lang) },
                 onAnswer = { correct, tookMs ->
@@ -540,7 +640,8 @@ private fun LessonPage(entry: FeedEntry, active: Boolean, vm: MainViewModel, onN
                     if (!correct) log.wrong++
                     log.answerMs += tookMs
                 },
-                onDone = report,
+                onDone = { vm.pass(entry.id); report() },
+                onAllCircles = if (lesson.marks.isNotEmpty()) allCircles else null,
                 onNext = { vm.narrator.stopSaying(); onNext() },
                 onClose = { vm.narrator.stopSaying(); showQuiz = false },
                 nextReview = nextReview,
@@ -551,6 +652,17 @@ private fun LessonPage(entry: FeedEntry, active: Boolean, vm: MainViewModel, onN
                     vm.selectTrack(entry, 0)
                     vm.narrator.replay()
                 },
+            )
+        }
+        AnimatedVisibility(visible = showAll && lesson.marks.isNotEmpty(), enter = fadeIn(tween(220)) + scaleIn(tween(220), initialScale = 0.94f), exit = fadeOut(tween(150))) {
+            MarksTable(
+                marks = lesson.marks,
+                selected = pickedMark,
+                onSelect = { pickedMark = it },
+                onClose = { showAll = false },
+                // Over a question it starts between the question and the options; otherwise at the bottom.
+                startBias = if (showQuiz) 0.42f else 1f,
+                modifier = Modifier.navigationBarsPadding(),
             )
         }
     }
