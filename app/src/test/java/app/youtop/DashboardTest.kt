@@ -54,6 +54,16 @@ class DashboardTest {
         assertEquals(1f - 3f / 116f, d.accuracy!!, 0.0001f) // the last thirty days only
         assertEquals(listOf(4, 1), d.books.map { it.started })
         assertEquals(listOf(2, 1), d.books.map { it.due })
+        // How often each lesson was studied; a started lesson counts as studied at least once.
+        assertEquals(listOf(6, 4, 0, 0, 0, 0), d.books[0].reps)
+        val counted = progress.copy(cards = cards + mapOf(
+            "a/c/q1" to CardState(Phase.REVIEW, due = now + day, reps = 3),
+            "a/c/q2" to CardState(Phase.REVIEW, due = now + day, reps = 12),
+            "a/c/q4" to CardState(Phase.LEARNING, due = now, reps = 2),
+        ))
+        assertEquals(listOf(6, 1, 1, 1, 0, 1), Dashboard.of(books, setOf("b"), counted, today, now, 0).books[0].reps)
+        // Studying one book: the totals are that book's, even if it was left out of the mixed feed.
+        assertEquals(5, Dashboard.of(books, setOf("b"), progress, today, now, 0, only = "b").total)
 
         assertEquals(emptyList<String>(), d.leeches)
         assertNull(d.recall) // none of these lessons says when it was last seen

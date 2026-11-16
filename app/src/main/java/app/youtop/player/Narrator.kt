@@ -121,7 +121,16 @@ class Narrator(context: Context, private val scope: CoroutineScope) {
 
     fun seekToSegment(index: Int) {
         val n = track?.segments?.size ?: return
-        if (n == 0) return seekTo(0f)
+        if (n == 0) {
+            seekTo(0f)
+            // A recording without sentences: seeking alone does not start it again once it has ended.
+            if (_state.value.mode == NarrationMode.AUDIO) {
+                _state.update { it.copy(playing = true, ended = false) }
+                player?.play()
+                startAudioTicker()
+            }
+            return
+        }
         val i = index.coerceIn(0, n - 1)
         when (_state.value.mode) {
             NarrationMode.AUDIO -> {

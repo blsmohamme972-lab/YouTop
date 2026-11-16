@@ -109,13 +109,16 @@ something looks wrong on theirs.
   (`Scheduler.dayEnd`), lessons in their learning steps by the minute.
   `study/Progress.kt` — stores each lesson's memory state on the phone.
 - `player/Narrator.kt` — plays a narration from an audio file, or the phone's voice, or silently.
-- `MainViewModel.kt` — the feed queue and everything the screens call.
+- `MainViewModel.kt` — the feed queue and everything the screens call. The feed draws from one
+  book when `StudySettings.book` is set (`studyBook`), otherwise from every book not left out; a
+  new choice of book or topics restarts the feed on it (`replan(restart = true)`, `generation`).
 - `ui/Theme.kt` (colours and the two typefaces: IBM Plex Sans Arabic for the interface, Amiri for
   stories and quotations; both under the Open Font License, texts in `assets/licenses`).
 - `ui/FeedScreen.kt` (the feed and one lesson, and what the feed says when it is empty),
   `Spotlight.kt` (spotlight on the whole picture, never zoomed), `QuizOverlay.kt` (question over the picture).
 - `ui/LibraryScreen.kt` — the library: five pages behind a bar at the bottom.
-  `HomeTab.kt` (the dashboard; its numbers come from `study/Dashboard.kt`), `BooksTab.kt` (shelf,
+  `HomeTab.kt` (the page the app opens on: today, then each book as a card with its colour bar of
+  "times studied" and "Study this book"; its numbers come from `study/Dashboard.kt`), `BooksTab.kt` (shelf,
   search over all lessons, a book's chapters), `TopicsTab.kt` (tag tree and focus), saved lessons,
   `SettingsTab.kt` (pace, lesson behaviour, sync, backup, advanced timing). `Parts.kt` holds the
   shared pieces (cards, switches, buttons); use them for anything new so pages keep one look.
@@ -154,6 +157,12 @@ under `book/chapter/lesson` on their phone.
   on the `content` branch (and the old Drive folder as a spare).
 - Content is published through this public GitHub repository, unencrypted, and never by
   uploading to Drive (see the rules above).
+- Since 2.0 the app opens on the library's Home page (as Anki opens on its decks), not on the feed,
+  and books are studied one at a time in book order ("Study this book"); "all books together" is the
+  other choice. The owner asked for this after finding the app hard to use. "Weakest topics first"
+  is off by default for the same reason.
+- A book's progress is always drawn as the six colours of `RepsColors` (`Parts.kt`): lessons never
+  studied, studied once, twice, three, four, five times or more. The owner asked for exactly this.
 - Smart scheduling is the default since 1.9; lessons studied before it are taken over from their
   interval and ease at their next review (nothing is reset).
 - Ratings are inferred, never asked: right answer = good (fast = easy), wrong = again, watched

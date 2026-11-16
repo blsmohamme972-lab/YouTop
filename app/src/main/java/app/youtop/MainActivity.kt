@@ -49,12 +49,17 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContent {
             YouTopTheme {
-                var libraryOpen by rememberSaveable { mutableStateOf(false) }
+                // The app opens on the library's first page, as Anki opens on its decks: today, the
+                // books and one button to start. The feed waits underneath.
+                var libraryOpen by rememberSaveable { mutableStateOf(true) }
                 var libraryTab by rememberSaveable { mutableStateOf(LibraryTab.HOME) }
 
                 LifecycleEventEffect(Lifecycle.Event.ON_START) { vm.onForeground() }
                 LifecycleEventEffect(Lifecycle.Event.ON_STOP) { vm.onBackground() }
-                LaunchedEffect(libraryOpen) { vm.covered = libraryOpen }
+                LaunchedEffect(libraryOpen) {
+                    vm.covered = libraryOpen
+                    if (!libraryOpen) vm.resume()
+                }
 
                 // A lesson runs for a minute or two without a touch: keep the screen awake while it speaks.
                 val speaking by remember { vm.narrator.state.map { it.playing }.distinctUntilChanged() }

@@ -9,6 +9,8 @@ import androidx.compose.material.icons.rounded.Close
 import androidx.compose.material.icons.rounded.ExpandLess
 import androidx.compose.material.icons.rounded.ExpandMore
 import androidx.compose.material.icons.rounded.Search
+import androidx.compose.material.icons.rounded.PlayArrow
+import app.youtop.study.repsOf
 import androidx.compose.runtime.mutableStateMapOf
 import androidx.compose.runtime.produceState
 import androidx.compose.ui.graphics.SolidColor
@@ -82,6 +84,9 @@ private val CoverTints = listOf(
     listOf(Color(0xFF2D6A4F), Color(0xFFB7E4C7)),
 )
 
+/** The colours a book without a cover picture is drawn in. */
+internal fun coverBrush(id: String) = Brush.linearGradient(CoverTints[abs(id.hashCode()) % CoverTints.size])
+
 /** The shelf: every book by its cover, with a search over every lesson. Tapping a book opens its chapters and lessons. */
 @Composable
 fun BooksTab(
@@ -91,6 +96,7 @@ fun BooksTab(
     openId: String?,
     onOpenBook: (String?) -> Unit,
     onOpenLesson: (FeedItem) -> Unit,
+    onStudyBook: (String) -> Unit = {},
 ) {
     val progress by vm.progress.collectAsStateWithLifecycle()
     val settings by vm.settings.collectAsStateWithLifecycle()
@@ -108,6 +114,8 @@ fun BooksTab(
                 val excluded = settings.study.excludedBooks
                 vm.setStudy(settings.study.copy(excludedBooks = if (on) excluded - open.id else excluded + open.id))
             },
+            several = books.size > 1,
+            onStudy = { onStudyBook(open.id) },
             onBack = { onOpenBook(null) },
             onOpenLesson = onOpenLesson,
         )
@@ -150,10 +158,13 @@ fun BooksTab(
                     val lessons = remember(book) { listOf(book).flatten() }
                     val due = remember(book, progress) { lessons.count { isDue(progress.cards[it.key], now) } }
                     val started = remember(book, progress) { lessons.count { (progress.cards[it.key]?.phase ?: Phase.NEW) != Phase.NEW } }
+                    val reps = remember(book, progress) { repsOf(lessons.map { it.key }, progress.cards) }
                     val excluded = book.id in settings.study.excludedBooks
                     Column(Modifier.clickable { onOpenBook(book.id) }) {
                         Box {
                             BookCover(vm, book, Modifier.fillMaxWidth().aspectRatio(0.72f))
+                            // On the cover itself: how often its lessons were studied, in the six colours.
+                            RepsBar(reps, Modifier.align(Alignment.BottomCenter).padding(8.dp), height = 8.dp)
                             if (due > 0 && !excluded) {
                                 Text(
                                     num(due), color = OnAccent, fontSize = 12.sp, fontWeight = FontWeight.Bold,
@@ -179,7 +190,6 @@ fun BooksTab(
                             else pluralStringResource(R.plurals.lessons_count, lessons.size, lessons.size),
                             color = Faint, fontSize = 12.sp,
                         )
-                        if (started > 0) ProgressLine(started.toFloat() / lessons.size.coerceAtLeast(1), Modifier.padding(top = 6.dp), height = 3.dp)
                     }
                 }
             }
@@ -239,8 +249,18 @@ private fun SearchField(value: String, onChange: (String) -> Unit, hint: String,
     }
 }
 
-private fun isDue(card: CardState?, now: Long) =
-    card != null && app.youtop.study.Scheduler.isDue(card, now, app.youtop.study.Scheduler.dayEnd(now, java.util.TimeZone.getDefault().getOffset(now)))
+// The end of the study day, worked out once per "now" and not once per lesson (called from the main thread only).
+private var dayEndFor = 0L
+private var dayEndValue = 0L
+
+private fun isDue(card: CardState?, now: Long): Boolean {
+    if (card == null) return false
+    if (dayEndFor != now) {
+        dayEndValue = app.youtop.study.Scheduler.dayEnd(now, java.util.TimeZone.getDefault().getOffset(now))
+        dayEndFor = now
+    }
+    return app.youtop.study.Scheduler.isDue(card, now, dayEndValue)
+}
 
 @Composable
 private fun BookCover(vm: MainViewModel, book: BookInfo, modifier: Modifier = Modifier, showTitle: Boolean = true) {
@@ -255,7 +275,7 @@ private fun BookCover(vm: MainViewModel, book: BookInfo, modifier: Modifier = Mo
         } else if (showTitle) {
             Text(
                 book.title, color = Color.White, fontSize = 18.sp, fontWeight = FontWeight.Bold, lineHeight = 23.sp,
-                modifier = Modifier.align(Alignment.BottomStart).padding(12.dp),
+                modifier = Modifier.align(Alignment.BottomStart).padding(start = 12.dp, end = 12.dp, top = 12.dp, bottom = 24.dp),
             )
         }
     }
@@ -270,6 +290,9 @@ private fun BookDetail(
     now: Long,
     inFeed: Boolean,
     onInFeed: (Boolean) -> Unit,
+    /** More than one book exists, so "in the mixed feed or not" is a real choice. */
+    several: Boolean,
+    onStudy: () -> Unit,
     onBack: () -> Unit,
     onOpenLesson: (FeedItem) -> Unit,
 ) {
@@ -278,7 +301,6 @@ private fun BookDetail(
     val unfolded = remember(book.id) { mutableStateMapOf<String, Boolean>() }
     val lessons = remember(book) { listOf(book).flatten() }
     val started = remember(book, cards) { lessons.count { (cards[it.key]?.phase ?: Phase.NEW) != Phase.NEW } }
-    val learned = remember(book, cards) { lessons.count { cards[it.key]?.phase == Phase.REVIEW } }
     val due = remember(book, cards) { lessons.count { isDue(cards[it.key], now) } }
 
     LazyColumn(contentPadding = PaddingValues(bottom = 24.dp)) {
@@ -300,10 +322,13 @@ private fun BookDetail(
                     Text(stringResource(R.string.book_progress, started, lessons.size), color = Color.White, fontSize = 14.sp, modifier = Modifier.weight(1f))
                     if (due > 0) Text(pluralStringResource(R.plurals.due_count, due, due), color = Accent, fontSize = 13.sp, fontWeight = FontWeight.SemiBold)
                 }
-                val total = lessons.size.coerceAtLeast(1).toFloat()
-                ProgressLine(started / total, second = learned / total, height = 5.dp)
+                val reps = remember(book, cards) { repsOf(lessons.map { it.key }, cards) }
+                RepsBar(reps)
+                RepsLegend(reps)
+                Text(stringResource(R.string.reps_hint), color = Faint, fontSize = 12.sp, lineHeight = 17.sp)
                 book.description?.takeIf { it.isNotBlank() }?.let { Text(it, color = Faint, fontSize = 13.sp, lineHeight = 19.sp) }
-                Toggle(stringResource(R.string.in_feed), inFeed, stringResource(R.string.in_feed_hint), onInFeed)
+                PrimaryButton(stringResource(R.string.study_book), Icons.Rounded.PlayArrow, Modifier.fillMaxWidth(), onClick = onStudy)
+                if (several) Toggle(stringResource(R.string.in_feed), inFeed, stringResource(R.string.in_feed_hint), onInFeed)
             }
         }
         book.chapters.forEach { chapter ->

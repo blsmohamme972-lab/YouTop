@@ -60,6 +60,9 @@ import kotlinx.coroutines.flow.first
 import kotlinx.coroutines.launch
 import androidx.compose.runtime.derivedStateOf
 import androidx.compose.runtime.getValue
+import androidx.compose.runtime.key
+import androidx.compose.runtime.SideEffect
+import androidx.compose.material.icons.rounded.Home
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.produceState
 import androidx.compose.runtime.remember
@@ -108,13 +111,14 @@ fun FeedScreen(vm: MainViewModel, onOpenLibrary: (LibraryTab?) -> Unit) {
     val sync by vm.sync.collectAsStateWithLifecycle()
     val progress by vm.progress.collectAsStateWithLifecycle()
     val settings by vm.settings.collectAsStateWithLifecycle()
-    val pagerState = rememberPagerState { queue.size }
+    // A new pager, back at the top, each time the feed starts afresh with another book or other topics.
+    val pagerState = key(vm.generation) { rememberPagerState { queue.size } }
     val scope = rememberCoroutineScope()
 
     LaunchedEffect(pagerState.settledPage, queue.getOrNull(pagerState.settledPage)?.id) {
         vm.activate(pagerState.settledPage)
     }
-    LaunchedEffect(Unit) {
+    LaunchedEffect(pagerState) {
         vm.jumps.collect { index ->
             snapshotFlow { queue.size }.first { it > index }
             pagerState.animateScrollToPage(index)
@@ -126,7 +130,7 @@ fun FeedScreen(vm: MainViewModel, onOpenLibrary: (LibraryTab?) -> Unit) {
         if (queue.isEmpty()) {
             if (loaded) EmptyFeed(vm, finished, sync, Modifier.align(Alignment.Center))
         } else {
-            VerticalPager(
+            key(pagerState) { VerticalPager(
                 state = pagerState,
                 beyondViewportPageCount = 1,
                 key = { queue.getOrNull(it)?.id ?: -1L - it },
@@ -140,7 +144,7 @@ fun FeedScreen(vm: MainViewModel, onOpenLibrary: (LibraryTab?) -> Unit) {
                     // Nothing moves on while the library covers the feed.
                     onNext = { if (!vm.covered) scope.launch { if (page + 1 < queue.size) pagerState.animateScrollToPage(page + 1) } },
                 )
-            }
+            } }
         }
 
         Row(
@@ -151,7 +155,7 @@ fun FeedScreen(vm: MainViewModel, onOpenLibrary: (LibraryTab?) -> Unit) {
             if (sync is SyncState.Running) {
                 CircularProgressIndicator(Modifier.size(18.dp), color = Color.White, strokeWidth = 2.dp)
             }
-            GlassButton(Icons.AutoMirrored.Rounded.MenuBook, stringResource(R.string.library), { onOpenLibrary(null) })
+            GlassButton(Icons.Rounded.Home, stringResource(R.string.library), { onOpenLibrary(null) }, caption = stringResource(R.string.home))
         }
 
         if (finished && pagerState.settledPage >= queue.lastIndex && queue.isNotEmpty()) {
@@ -168,7 +172,7 @@ fun FeedScreen(vm: MainViewModel, onOpenLibrary: (LibraryTab?) -> Unit) {
         val fill by animateFloatAsState((progress.doneToday.toFloat() / goal).coerceIn(0f, 1f), tween(600), label = "goal")
         val streak = progress.liveStreak(progress.day)
         Box(
-            Modifier.align(Alignment.TopEnd).statusBarsPadding().padding(top = 62.dp, end = 10.dp)
+            Modifier.align(Alignment.TopEnd).statusBarsPadding().padding(top = 80.dp, end = 10.dp)
                 .size(44.dp).clip(CircleShape).background(Glass)
                 .clickable(onClickLabel = stringResource(R.string.today)) { onOpenLibrary(LibraryTab.HOME) }
                 .drawBehind {
@@ -194,7 +198,7 @@ fun FeedScreen(vm: MainViewModel, onOpenLibrary: (LibraryTab?) -> Unit) {
         LaunchedEffect(pagerState.settledPage) { if (pagerState.settledPage > 0 && !settings.hintSeen) vm.hintSeen() }
         AnimatedVisibility(
             visible = showHint, enter = fadeIn(tween(400)), exit = fadeOut(tween(200)),
-            modifier = Modifier.align(Alignment.TopCenter).statusBarsPadding().padding(top = 116.dp),
+            modifier = Modifier.align(Alignment.TopCenter).statusBarsPadding().padding(top = 134.dp),
         ) {
             Row(
                 Modifier.clip(CircleShape).background(Color.Black.copy(alpha = 0.55f)).padding(horizontal = 14.dp, vertical = 8.dp),
@@ -336,6 +340,9 @@ private fun LessonPage(entry: FeedEntry, active: Boolean, vm: MainViewModel, onN
         android.text.format.DateUtils.getRelativeTimeSpanString(maxOf(it.due, now + 60_000), now, android.text.format.DateUtils.MINUTE_IN_MILLIS).toString()
     }
 
+    // The narration must not start under an open question when the library closes.
+    if (active) SideEffect { vm.quizOpen = showQuiz }
+
     // Back closes an open question instead of leaving the app.
     BackHandler(enabled = active && showQuiz && !vm.covered) { vm.narrator.stopSaying(); showQuiz = false }
 
@@ -445,7 +452,7 @@ private fun LessonPage(entry: FeedEntry, active: Boolean, vm: MainViewModel, onN
                 Column(
                     Modifier.align(Alignment.BottomEnd).navigationBarsPadding().padding(end = 10.dp, bottom = 76.dp),
                     horizontalAlignment = Alignment.CenterHorizontally,
-                    verticalArrangement = Arrangement.spacedBy(12.dp),
+                    verticalArrangement = Arrangement.spacedBy(9.dp),
                 ) {
                     if (lesson.quiz.isNotEmpty()) {
                         GlassButton(
@@ -460,22 +467,27 @@ private fun LessonPage(entry: FeedEntry, active: Boolean, vm: MainViewModel, onN
                         stringResource(R.string.save),
                         onClick = { vm.toggleSaved(item.key) },
                         tint = if (saved) Accent else Color.White,
+                        caption = stringResource(R.string.save),
                     )
                     if (track != null) {
-                        GlassButton(Icons.AutoMirrored.Rounded.Notes, stringResource(R.string.transcript), onClick = { showTranscript = true })
-                        Box(
-                            Modifier.size(44.dp).clip(CircleShape).background(Glass)
-                                .clickable(onClickLabel = stringResource(R.string.speed)) {
-                                    vm.setSpeed(Speeds[(Speeds.indexOf(speed) + 1).mod(Speeds.size)])
-                                },
-                            contentAlignment = Alignment.Center,
-                        ) {
-                            Text(speedLabel(speed), color = Color.White, fontSize = 12.sp, fontWeight = FontWeight.SemiBold)
+                        GlassButton(Icons.AutoMirrored.Rounded.Notes, stringResource(R.string.transcript), onClick = { showTranscript = true }, caption = stringResource(R.string.transcript))
+                        Column(horizontalAlignment = Alignment.CenterHorizontally, verticalArrangement = Arrangement.spacedBy(2.dp)) {
+                            Box(
+                                Modifier.size(44.dp).clip(CircleShape).background(Glass)
+                                    .clickable(onClickLabel = stringResource(R.string.speed)) {
+                                        vm.setSpeed(Speeds[(Speeds.indexOf(speed) + 1).mod(Speeds.size)])
+                                    },
+                                contentAlignment = Alignment.Center,
+                            ) {
+                                Text(speedLabel(speed), color = Color.White, fontSize = 12.sp, fontWeight = FontWeight.SemiBold)
+                            }
+                            Text(stringResource(R.string.speed), color = Color.White, style = TextStyle(fontFamily = Ui, fontSize = 10.sp, fontWeight = FontWeight.Medium, shadow = TextShadow), maxLines = 1)
                         }
                         GlassButton(
                             if (muted) Icons.AutoMirrored.Rounded.VolumeOff else Icons.AutoMirrored.Rounded.VolumeUp,
                             stringResource(R.string.mute),
                             onClick = { vm.setMuted(!muted) },
+                            caption = stringResource(if (muted) R.string.sound_off else R.string.sound_on),
                         )
                     }
                 }

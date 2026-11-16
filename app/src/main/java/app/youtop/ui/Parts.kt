@@ -7,6 +7,10 @@ import androidx.compose.foundation.background
 import androidx.compose.foundation.interaction.MutableInteractionSource
 import androidx.compose.foundation.interaction.collectIsPressedAsState
 import androidx.compose.foundation.layout.heightIn
+import androidx.compose.foundation.layout.ExperimentalLayoutApi
+import androidx.compose.foundation.layout.FlowRow
+import androidx.compose.ui.res.stringResource
+import app.youtop.R
 import androidx.compose.material3.ripple
 import androidx.compose.ui.graphics.Brush
 import androidx.compose.ui.graphics.graphicsLayer
@@ -175,6 +179,50 @@ fun ProgressLine(first: Float, modifier: Modifier = Modifier, second: Float = 0f
     }
 }
 
+/**
+ * The colours of "how many times studied", cold to warm to green: never (grey), once (red),
+ * twice (orange), three times (amber), four (lime), five or more (green). Used everywhere a
+ * book's progress is drawn, so the meaning is learned once.
+ */
+val RepsColors = listOf(Color(0xFF4B4741), Color(0xFFF87171), Color(0xFFFB923C), Color(0xFFFBBF24), Color(0xFFA3E635), Color(0xFF4ADE80))
+
+/** One bar cut into the six colours of [RepsColors], each as wide as its share of the lessons. */
+@Composable
+fun RepsBar(reps: List<Int>, modifier: Modifier = Modifier, height: Dp = 12.dp) {
+    val total = reps.sum()
+    Row(modifier.fillMaxWidth().height(height).clip(CircleShape).background(RepsColors[0]), horizontalArrangement = Arrangement.spacedBy(2.dp)) {
+        if (total > 0) reps.forEachIndexed { i, n ->
+            if (n > 0) Box(Modifier.weight(n.toFloat()).height(height).background(RepsColors[i.coerceAtMost(RepsColors.lastIndex)]))
+        }
+    }
+}
+
+/** What the colours of [RepsBar] mean: six even columns, the number of lessons over its colour and name. */
+@Composable
+fun RepsLegend(reps: List<Int>, modifier: Modifier = Modifier) {
+    Row(modifier.fillMaxWidth(), horizontalArrangement = Arrangement.spacedBy(4.dp)) {
+        reps.forEachIndexed { i, n ->
+            val label = when (i) {
+                0 -> stringResource(R.string.reps_new)
+                reps.lastIndex -> "\u2066${num(i)}×+\u2069"
+                else -> "\u2066${num(i)}×\u2069"
+            }
+            val colour = RepsColors[i.coerceAtMost(RepsColors.lastIndex)]
+            Column(
+                Modifier.weight(1f).clip(RoundedCornerShape(12.dp)).background(Color.White.copy(alpha = if (n > 0) 0.06f else 0.025f)).padding(vertical = 6.dp),
+                horizontalAlignment = Alignment.CenterHorizontally,
+            ) {
+                Text(num(n), color = Color.White.copy(alpha = if (n > 0) 1f else 0.3f), fontSize = 16.sp, fontWeight = FontWeight.SemiBold, maxLines = 1)
+                Row(verticalAlignment = Alignment.CenterVertically) {
+                    Box(Modifier.size(7.dp).clip(CircleShape).background(if (i == 0) Color.White.copy(alpha = 0.35f) else colour))
+                    Box(Modifier.width(4.dp))
+                    Text(label, color = Faint, fontSize = 11.sp, maxLines = 1)
+                }
+            }
+        }
+    }
+}
+
 /** What is shown where a list would be, when there is nothing to list. */
 @Composable
 fun EmptyState(icon: ImageVector, title: String, body: String? = null, modifier: Modifier = Modifier, action: (@Composable () -> Unit)? = null) {
@@ -188,13 +236,13 @@ fun EmptyState(icon: ImageVector, title: String, body: String? = null, modifier:
     }
 }
 
-/** Shrinks a little while a finger is on it, so a button feels pressed. */
+/** A button that shrinks a little, whole, while a finger is on it. [dress] is its shape, fill and edge. */
 @Composable
-private fun Modifier.pressable(enabled: Boolean = true, onClick: () -> Unit): Modifier {
+private fun Modifier.pressable(enabled: Boolean = true, dress: Modifier.() -> Modifier, onClick: () -> Unit): Modifier {
     val source = remember { MutableInteractionSource() }
     val pressed by source.collectIsPressedAsState()
     val scale by animateFloatAsState(if (pressed) 0.96f else 1f, spring(stiffness = Spring.StiffnessMedium), label = "press")
-    return graphicsLayer { scaleX = scale; scaleY = scale }
+    return graphicsLayer { scaleX = scale; scaleY = scale }.dress()
         .clickable(source, ripple(color = Color.White), enabled = enabled, role = Role.Button, onClick = onClick)
 }
 
@@ -205,10 +253,11 @@ private val AccentBrush = Brush.verticalGradient(listOf(Color(0xFFFFDC85), Color
 @Composable
 fun PrimaryButton(text: String, icon: ImageVector? = null, modifier: Modifier = Modifier, enabled: Boolean = true, onClick: () -> Unit) {
     Row(
-        modifier.heightIn(min = 48.dp).clip(ButtonShape)
-            .then(if (enabled) Modifier.background(AccentBrush) else Modifier.background(Color.White.copy(alpha = 0.14f)))
-            .border(1.dp, Color.White.copy(alpha = if (enabled) 0.35f else 0.06f), ButtonShape)
-            .pressable(enabled, onClick).padding(horizontal = 22.dp, vertical = 12.dp),
+        modifier.heightIn(min = 48.dp).pressable(enabled, {
+            clip(ButtonShape)
+                .then(if (enabled) Modifier.background(AccentBrush) else Modifier.background(Color.White.copy(alpha = 0.14f)))
+                .border(1.dp, Color.White.copy(alpha = if (enabled) 0.35f else 0.06f), ButtonShape)
+        }, onClick).padding(horizontal = 22.dp, vertical = 12.dp),
         verticalAlignment = Alignment.CenterVertically, horizontalArrangement = Arrangement.Center,
     ) {
         val ink = if (enabled) OnAccent else Color.White.copy(alpha = 0.6f)
@@ -221,9 +270,9 @@ fun PrimaryButton(text: String, icon: ImageVector? = null, modifier: Modifier = 
 @Composable
 fun SecondaryButton(text: String, icon: ImageVector? = null, modifier: Modifier = Modifier, tint: Color = Color.White, onClick: () -> Unit) {
     Row(
-        modifier.heightIn(min = 44.dp).clip(ButtonShape).background(Color.White.copy(alpha = 0.07f))
-            .border(1.dp, Color.White.copy(alpha = 0.16f), ButtonShape)
-            .pressable(onClick = onClick).padding(horizontal = 16.dp, vertical = 10.dp),
+        modifier.heightIn(min = 44.dp).pressable(dress = {
+            clip(ButtonShape).background(Color.White.copy(alpha = 0.07f)).border(1.dp, Color.White.copy(alpha = 0.16f), ButtonShape)
+        }, onClick = onClick).padding(horizontal = 16.dp, vertical = 10.dp),
         verticalAlignment = Alignment.CenterVertically, horizontalArrangement = Arrangement.Center,
     ) {
         if (icon != null) { Icon(icon, null, tint = tint, modifier = Modifier.size(18.dp)); Box(Modifier.width(8.dp)) }

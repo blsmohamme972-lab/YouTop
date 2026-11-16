@@ -89,7 +89,7 @@ fun SettingsTab(vm: MainViewModel) {
                 fun paced(p: StudySettings) = p.copy(
                     questionFirst = s.questionFirst, autoContinue = s.autoContinue, autoAdvance = s.autoAdvance, shuffleOptions = s.shuffleOptions,
                     speakQuiz = s.speakQuiz, excludedBooks = s.excludedBooks, focus = s.focus, weakFirst = s.weakFirst, afterGoal = s.afterGoal, randomNewOrder = s.randomNewOrder,
-                    smart = s.smart,
+                    smart = s.smart, book = s.book,
                 )
                 listOf(
                     R.string.preset_relaxed to StudySettings.Relaxed,
