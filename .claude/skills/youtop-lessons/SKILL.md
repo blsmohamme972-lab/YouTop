@@ -5,13 +5,31 @@ description: Make or fix YouTop lessons from the owner's MCQ books (write storie
 
 # Making YouTop lessons, cheaply and well
 
-Everything mechanical is done by `tools/content/batch.py`. You write only what needs a mind, in
-one plain text file. Do not write per-batch Python scripts, do not retype questions, do not read
-the published chapter file (it is large): ask the tool.
+Everything mechanical is done by `tools/content/batch.py` and `tools/content/voice.py`. You write
+only what needs a mind, in plain text files. Do not write per-batch Python scripts, do not retype
+questions, do not read the published chapter file (it is large): ask the tool.
 
 Read first, and only these: `docs/status.md` (what is done, what must not change) and the two
 sections "The story is a story" and "Tags" of `docs/content-guide.md`. The rest of the guide is
-reference for when something unusual comes up (a new book, recorded voice).
+reference for when something unusual comes up (a new book).
+
+## The standard order (the owner's decision, 2026-11-16; lessons 41-45 are the worked set)
+
+The owner makes the pictures by hand, and that is the slow part. So **the image prompts go to the
+owner first**, and the rest is written while they make the pictures:
+
+1. Questions (step 1 below).
+2. For each question: the **table of elements** (step 6, "Table first"), then `title`, `tags`,
+   `palette`, `words`, `scene` in `batch.txt`. No story yet.
+3. `python3 tools/content/batch.py prompts batch.txt` and **hand the owner the prompts at once**:
+   the json file, and each prompt as text in the chat in its own code block. Say they can start.
+4. While they work: the story in `voice.txt` (step 6, "The voice"), the quotation, the explanation;
+   `voice.py fill`, `batch.py build`, `voice.py make`, publish. The lessons work without pictures.
+5. When the owner says the pictures are there: look at each, spots, marks (steps 4 and 5), publish.
+   A picture the connector does not list yet is usually still uploading: look again, do not guess.
+
+Work in batches of five or ten. Never change a scene after its prompt was handed over: the story is
+written to the scene, and to the picture once it exists.
 
 ## 1. Get the questions (no prompt for the owner; never commit them)
 

@@ -9,6 +9,7 @@ image prompts, checks them against the owner's rules, and prepares the folder fo
     batch.py questions <book> <from> <to> --master <file> [...]   the questions, compactly, to read
     batch.py quotes    <book> [--folder F]                        quotations already used (do not repeat)
     batch.py new       <book> <from> <to> --master <file> -o batch.txt     an empty batch file to fill in
+    batch.py prompts   batch.txt [-o prompts.json]                the image prompts alone, BEFORE the stories exist
     batch.py build     batch.txt --master <file> [--folder F] [--force]    lessons + image prompts into F
     batch.py pictures  <book> <folder of the owner's pictures> [--folder F]  N.png -> media/<id>.webp
     batch.py spots     spots.txt [--folder F] [--pictures <folder>]        spotlight positions, drawn to check
@@ -355,6 +356,21 @@ def cmd_build(args):
     print(f"\n{len(lessons)} lesson(s) built into {book_dir}")
     print(f"Image prompts for the owner (send them this file): {prompts}")
     print(f"Publish:  python3 tools/content/publish.py {folder} -m \"{cfg['sourceLabel']}: lessons {min(numbers)}-{max(numbers)}\"")
+
+
+def cmd_prompts(args):
+    """The image prompts from 'palette', 'scene' and 'words' alone, so the owner can start on the pictures at once."""
+    head, items = parse(args.batch)
+    cfg = book_config(head["book"])
+    missing = [str(b["n"]) for b in items if not (b.get("scene") and b.get("palette"))]
+    if missing or not items:
+        die("these questions have no 'scene' and 'palette' yet: " + (", ".join(missing) or "none in the file"))
+    numbers = [b["n"] for b in items]
+    out = pathlib.Path(args.output or pathlib.Path(args.batch).with_name(f"image-prompts-{min(numbers)}-{max(numbers)}.json"))
+    out.write_text(json.dumps({"items": [{"info": image_prompt(cfg, b)} for b in items]}, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    if subprocess.run([sys.executable, str(ROOT / "tools/content/validate.py"), str(out)]).returncode != 0:
+        die("validate.py found problems (above)")
+    print(f"Send the owner this file now, and each prompt as text: {out}")
 
 
 def cmd_questions(args):
@@ -806,6 +822,7 @@ def main():
     add("questions", cmd_questions, ("book", str), ("first", int), ("last", int), master=True, folder=False)
     add("quotes", cmd_quotes, ("book", str))
     add("new", cmd_new, ("book", str), ("first", int), ("last", int), master=True, folder=False).add_argument("-o", "--output", required=True)
+    add("prompts", cmd_prompts, ("batch", str), folder=False).add_argument("-o", "--output")
     add("build", cmd_build, ("batch", str), master=True).add_argument("--force", action="store_true", help="allow changing a text that has a recorded voice")
     add("pictures", cmd_pictures, ("book", str), ("source", str)).add_argument("--replace", metavar="SUFFIX", help="publish corrected pictures under a new name, e.g. --replace b")
     add("spots", cmd_spots, ("spots", str))

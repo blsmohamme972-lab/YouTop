@@ -180,6 +180,10 @@ under `book/chapter/lesson` on their phone.
 - Since 2.4 nothing is ever laid over the picture: the table, and the question with its options,
   answer and explanation, sit in a fixed panel under the picture, which moves up and shrinks,
   whole (the owner asked for exactly this after seeing 2.2 and 2.3 on their phone).
+- How lessons are made is settled since 2026-11-16 (the skill's "standard order"): the table of
+  elements first; the image prompts handed to the owner before anything else is written, so they
+  make the pictures while the agent writes; the story told by a woman narrator with a voice for
+  each character and exact timings (`voice.py`); then spots and numbered marks from the picture.
 - The picture is never zoomed or cropped; only a spotlight moves over it, in step with the voice.
 - The Arabic story is a real story with no medical explanation in it; the science is in the
   English explanation (see `docs/content-guide.md`, "The story is a story").
