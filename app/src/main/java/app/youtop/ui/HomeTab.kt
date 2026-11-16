@@ -22,6 +22,9 @@ import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.rounded.FilterAlt
 import androidx.compose.material.icons.rounded.LocalFireDepartment
 import androidx.compose.material.icons.rounded.PlayArrow
+import androidx.compose.material.icons.rounded.Psychology
+import app.youtop.data.FeedItem
+import app.youtop.data.flatten
 import androidx.compose.material3.Icon
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
@@ -63,7 +66,7 @@ import kotlin.math.roundToInt
  * book's progress. Read-only except for "continue", which goes back to the feed.
  */
 @Composable
-fun HomeTab(vm: MainViewModel, onContinue: () -> Unit, onOpenBook: (String) -> Unit, onOpenTopics: () -> Unit) {
+fun HomeTab(vm: MainViewModel, onContinue: () -> Unit, onOpenBook: (String) -> Unit, onOpenTopics: () -> Unit, onOpenLesson: (FeedItem) -> Unit = {}) {
     val books by vm.books.collectAsStateWithLifecycle()
     val progress by vm.progress.collectAsStateWithLifecycle()
     val settings by vm.settings.collectAsStateWithLifecycle()
@@ -75,6 +78,14 @@ fun HomeTab(vm: MainViewModel, onContinue: () -> Unit, onOpenBook: (String) -> U
             val now = System.currentTimeMillis()
             val offset = TimeZone.getDefault().getOffset(now)
             Dashboard.of(books, study.excludedBooks, progress, Scheduler.dayOf(now, offset), now, offset)
+        }
+    }
+    // The lessons that keep slipping, hardest first; looked up off the main thread like the rest.
+    val slipping by produceState(emptyList<FeedItem>(), d.leeches, books) {
+        value = if (d.leeches.isEmpty()) emptyList() else withContext(Dispatchers.Default) {
+            val wanted = d.leeches.take(3)
+            val found = books.flatten().filter { it.key in wanted }.associateBy { it.key }
+            wanted.mapNotNull(found::get)
         }
     }
     val goal = study.dailyGoal.coerceAtLeast(1)
@@ -134,6 +145,38 @@ fun HomeTab(vm: MainViewModel, onContinue: () -> Unit, onOpenBook: (String) -> U
             StatTile(d.learning, stringResource(R.string.stat_learning), Color.White, Modifier.weight(1f))
             StatTile(d.learned, stringResource(R.string.stat_learned), Good, Modifier.weight(1f))
             StatTile(d.fresh, stringResource(R.string.stat_new), Faint, Modifier.weight(1f))
+        }
+
+        // How firmly the learned lessons are held, and the ones that will not stick.
+        if (d.recall != null || d.leeches.isNotEmpty()) Card {
+            d.recall?.let {
+                Row(verticalAlignment = Alignment.CenterVertically) {
+                    Column(Modifier.weight(1f).padding(end = 12.dp), verticalArrangement = Arrangement.spacedBy(2.dp)) {
+                        SectionTitle(stringResource(R.string.memory))
+                        Text(stringResource(R.string.memory_body), color = Faint, fontSize = 13.sp, lineHeight = 18.sp)
+                    }
+                    Text(num((it * 100).roundToInt()) + "%", color = if (it >= 0.8f) Good else Accent, fontSize = 26.sp, fontWeight = FontWeight.SemiBold)
+                }
+                ProgressLine(it, color = if (it >= 0.8f) Good else Accent, height = 5.dp)
+            }
+            if (d.leeches.isNotEmpty()) {
+                Row(verticalAlignment = Alignment.CenterVertically) {
+                    Icon(Icons.Rounded.Psychology, null, tint = Bad, modifier = Modifier.size(18.dp))
+                    Spacer(Modifier.width(8.dp))
+                    Text(pluralStringResource(R.plurals.slipping, d.leeches.size, d.leeches.size), color = Color.White, fontSize = 14.sp, fontWeight = FontWeight.Medium)
+                }
+                Text(stringResource(R.string.slipping_hint), color = Faint, fontSize = 12.sp, lineHeight = 17.sp)
+                slipping.forEach { item ->
+                    Row(
+                        Modifier.fillMaxWidth().clip(RoundedCornerShape(12.dp)).background(Color.White.copy(alpha = 0.06f))
+                            .clickable { onOpenLesson(item) }.padding(horizontal = 12.dp, vertical = 10.dp),
+                        verticalAlignment = Alignment.CenterVertically,
+                    ) {
+                        Text(item.lesson.title, color = Color.White, fontSize = 14.sp, maxLines = 1, overflow = TextOverflow.Ellipsis, modifier = Modifier.weight(1f))
+                        Icon(Icons.Rounded.PlayArrow, null, tint = Accent, modifier = Modifier.size(18.dp))
+                    }
+                }
+            }
         }
 
         // The last seven days.

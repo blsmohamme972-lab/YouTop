@@ -55,6 +55,17 @@ class DashboardTest {
         assertEquals(listOf(4, 1), d.books.map { it.started })
         assertEquals(listOf(2, 1), d.books.map { it.due })
 
+        assertEquals(emptyList<String>(), d.leeches)
+        assertNull(d.recall) // none of these lessons says when it was last seen
+
+        val hard = progress.copy(cards = cards + mapOf(
+            "a/c/q2" to CardState(Phase.REVIEW, interval = 4f, due = now + day, lapses = 7, seen = now - 3 * day, stability = 4f),
+            "a/c/q3" to CardState(Phase.REVIEW, interval = 9f, due = now + 3 * day, lapses = 5, seen = now - 6 * day),
+        ))
+        val h = Dashboard.of(books, setOf("b"), hard, today, now, 0)
+        assertEquals(listOf("a/c/q2", "a/c/q3"), h.leeches) // most often forgotten first
+        assertTrue(h.recall!! > 0.85f && h.recall!! < 1f)
+
         val empty = Dashboard.of(emptyList(), emptySet(), Progress(), today, now, 0)
         assertEquals(0, empty.total)
         assertNull(empty.accuracy)

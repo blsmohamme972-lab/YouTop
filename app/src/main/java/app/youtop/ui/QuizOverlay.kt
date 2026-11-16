@@ -38,6 +38,7 @@ import androidx.compose.material.icons.rounded.CheckCircle
 import androidx.compose.material.icons.rounded.Close
 import androidx.compose.material.icons.rounded.KeyboardArrowUp
 import androidx.compose.material.icons.rounded.PlayArrow
+import androidx.compose.material.icons.rounded.Schedule
 import androidx.compose.material3.Icon
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
@@ -118,14 +119,19 @@ fun QuizOverlay(
     onNext: () -> Unit,
     onClose: () -> Unit,
     onWatch: () -> Unit,
+    /** Once the lesson is rated: when it comes back ("in 4 days"), so the scheduling is not a mystery. */
+    nextReview: String? = null,
 ) {
     val haptics = LocalHapticFeedback.current
     var index by state::index
     var picked by state::picked
     var shownAt by remember { mutableLongStateOf(System.currentTimeMillis()) }
     var hold by state::hold
-    val question = questions[index.coerceIn(0, questions.lastIndex)]
-    val order = remember(index) { state.orders.getOrPut(index) { optionOrder(question, shuffle) } }
+    // A sync can replace the lesson while its question is open: never index past what is there now.
+    val question = questions.getOrNull(index.coerceIn(0, (questions.size - 1).coerceAtLeast(0))) ?: return
+    val order = remember(index, question) {
+        state.orders[index]?.takeIf { it.size == question.options.size } ?: optionOrder(question, shuffle).also { state.orders[index] = it }
+    }
     val last = index == questions.lastIndex
     val countdown = remember { Animatable(0f) }
     val scroll = rememberScrollState()
@@ -309,6 +315,16 @@ fun QuizOverlay(
                             style = TextStyle(fontFamily = Ui, fontSize = 15.sp, lineHeight = 23.sp, shadow = TextShadow, textDirection = direction),
                             modifier = Modifier.fillMaxWidth(),
                         )
+                    }
+                    if (nextReview != null && state.done) {
+                        Row(
+                            Modifier.clip(CircleShape).background(Color.Black.copy(alpha = 0.35f)).padding(horizontal = 10.dp, vertical = 5.dp),
+                            verticalAlignment = Alignment.CenterVertically,
+                        ) {
+                            Icon(Icons.Rounded.Schedule, null, tint = Accent, modifier = Modifier.size(15.dp))
+                            Spacer(Modifier.size(6.dp))
+                            Text(stringResource(R.string.next_review, nextReview), color = Color.White.copy(alpha = 0.9f), fontSize = 12.sp, fontWeight = FontWeight.Medium)
+                        }
                     }
                     Row(horizontalArrangement = Arrangement.spacedBy(10.dp)) {
                         // Watch (or re-watch) the lesson behind this question.

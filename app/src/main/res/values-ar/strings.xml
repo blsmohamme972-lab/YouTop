@@ -200,4 +200,37 @@
     <string name="nothing_matches">لا شيء للعرض</string>
     <string name="nothing_matches_body">لا درس يطابق الكتب والمواضيع التي اخترتها.</string>
     <string name="show_everything">عرض الكل</string>
+    <string name="focus_all_hint">اضغط على تخصّص أو موضوع فرعي أو أي وسم في الأسفل لتدرسه وحده. اضغط مرة أخرى لإلغائه.</string>
+    <string name="focus_title">تدرس الآن فقط</string>
+    <string name="focus_remove">إزالة</string>
+    <string name="focus_study">ادرس هذه</string>
+    <plurals name="focus_study_n">
+        <item quantity="zero">لا دروس</item>
+        <item quantity="one">ادرس درسًا واحدًا</item>
+        <item quantity="two">ادرس درسين</item>
+        <item quantity="few">ادرس %1$d دروس</item>
+        <item quantity="many">ادرس %1$d درسًا</item>
+        <item quantity="other">ادرس %1$d درس</item>
+    </plurals>
+    <string name="focus_choose">ادرس %1$s فقط</string>
+    <string name="topic_empty">لا دروس بعد</string>
+    <string name="retention">قوة التذكّر المطلوبة</string>
+    <string name="retention_light">أخفّ · 85%</string>
+    <string name="retention_balanced">متوازن · 90%</string>
+    <string name="retention_strong">امتحان · 94%</string>
+    <string name="retention_hint">يعود الدرس حين ينخفض احتمال تذكّرك له إلى هذه النسبة. كلما ارتفعت زادت المراجعات اليومية.</string>
+    <string name="smart">الجدولة الذكية</string>
+    <string name="smart_hint">تتابع مدى ثبات كل درس في ذاكرتك وصعوبته عليك (الطريقة التي يستخدمها Anki الآن). عند الإيقاف: القواعد التقليدية.</string>
+    <string name="memory">الذاكرة</string>
+    <string name="memory_body">احتمال أن تتذكّر الآن درسًا سبق أن تعلّمته.</string>
+    <plurals name="slipping">
+        <item quantity="zero">لا دروس تفلت</item>
+        <item quantity="one">درس واحد يفلت منك باستمرار</item>
+        <item quantity="two">درسان يفلتان منك باستمرار</item>
+        <item quantity="few">%1$d دروس تفلت منك باستمرار</item>
+        <item quantity="many">%1$d درسًا تفلت منك باستمرار</item>
+        <item quantity="other">%1$d درس تفلت منك باستمرار</item>
+    </plurals>
+    <string name="slipping_hint">أخطأت فيها خمس مرات أو أكثر. شاهد القصة من جديد: الصورة هي ما يثبّت المعلومة.</string>
+    <string name="next_review">المراجعة القادمة: %1$s</string>
 </resources>

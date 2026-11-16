@@ -151,16 +151,20 @@ class MainViewModel(app: Application) : AndroidViewModel(app) {
         val items = candidates()
         val byKey = items.associateBy { it.key }
         val p = progress.value
+        val now = System.currentTimeMillis()
+        val dayEnd = Scheduler.dayEnd(now, java.util.TimeZone.getDefault().getOffset(now))
+        val keys = items.map { it.key }
         while (queue.size < index + 2) {
             val pendingNew = queue.drop(index + 1).count { (p.cards[it.item.key]?.phase ?: Phase.NEW) == Phase.NEW }
             val key = Scheduler.next(
-                keys = items.map { it.key },
+                keys = keys,
                 cards = p.cards,
                 recent = queue.takeLast(8).map { it.item.key },
                 newToday = p.newToday + pendingNew,
                 sinceNew = sinceNew,
-                now = System.currentTimeMillis(),
+                now = now,
                 s = study(),
+                dayEnd = dayEnd,
             )
             val item = key?.let(byKey::get)
             finishedForToday.value = item == null && items.isNotEmpty()
@@ -309,6 +313,8 @@ class MainViewModel(app: Application) : AndroidViewModel(app) {
     // ---- sync ------------------------------------------------------------
 
     fun syncNow() = viewModelScope.launch {
+        // Not before the lessons on the phone are read: sync decides what to keep from what it holds.
+        loaded.first { it }
         val s = prefs.settings.first() // not settings.value: a link pasted a moment ago may not have reached it yet
         // Lessons come from GitHub; the Drive folder is only the way back when GitHub cannot be read.
         if (repo.sync(DriveClient.parseFolderId(s.driveFolder), s.offlineDownload)) prefs.setLastSync(System.currentTimeMillis())

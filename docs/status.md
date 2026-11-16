@@ -1,20 +1,33 @@
 # Where the work stands
 
-Updated 2026-11-15. Whoever works on YouTop next: read `CLAUDE.md`, then this, then
+Updated 2026-11-16. Whoever works on YouTop next: read `CLAUDE.md`, then this, then
 `docs/content-guide.md`. Rewrite this file whenever the state changes (it replaces the
 `status-<n>.txt` files in the Drive folder "YouTop private", which stop at 7).
 
 ## App
 
-- **1.8 (versionCode 9)** is on `main`; the APK was handed to the owner on 2026-11-15. Whether they
-  have installed it (or 1.7 before it) is not known; 1.6 (versionCode 7), reading Drive, was the
-  last version known to be on their phone. New in 1.8, after the owner asked for "the best app":
-  a library with five pages and a bar at the bottom (Home dashboard, Books with search and folding
-  chapters, Topics, Saved, Settings), backup and restore of the learning history as a file, a daily
-  history for the dashboard's charts, messages instead of a blank feed (no lessons / nothing
-  matches the focus / done for today), a one-time "swipe up" hint, and content that cannot be read
-  no longer stops a sync or crashes a page (see "Content is never trusted" in `CLAUDE.md`).
-  **The owner has not yet said what they think of it.**
+- **1.9 (versionCode 10)** is on `main`; the APK was handed to the owner on 2026-11-16. Whether they
+  have installed it (or 1.7 / 1.8 before it) is not known; 1.6 (versionCode 7), reading Drive, was
+  the last version known to be on their phone. **The owner has not yet said what they think of 1.8 or 1.9.**
+- New in 1.9, after the owner asked to find and fix errors, make spaced repetition "advanced and
+  easy", make tags easy and beautiful, and make lesson-making cheaper:
+  - **Smart scheduling** (default): the FSRS-4.5 memory model with one dial, "How well to remember"
+    (85 / 90 / 94 %). Old progress is taken over at each lesson's next review. The classic rules are
+    still there (Settings → Advanced timing → Smart scheduling off).
+  - Learned lessons are due **by the day** (04:00 to 04:00), not at the minute they were studied;
+    of the due ones the most overdue for its interval comes first; reviewing early earns
+    proportionally less (a hard answer given early used to earn more than one given on time).
+  - After the last answer the question shows **when the lesson comes back**. Home has a **Memory**
+    card (chance of recall now) and lists lessons missed five times or more.
+  - **Topics page rebuilt**: three specialty cards with their subtopics, the other tag groups as
+    chips, the chosen tags on top with "Study N lessons". Every tag has an Arabic name (shown on
+    a phone set to Arabic). Buttons and cards restyled.
+  - Fixed: a recording could start by itself behind "question first" or the library, or restart
+    behind a paused screen after dragging the seek bar; a sync that started before the phone's
+    lessons were read could fall back to the old Drive copy; a question open during a sync could
+    crash; a spot with radius 0 could crash; lessons are left out of Android's own backup so the
+    learning history always fits in it.
+  - `tools/content/batch.py`, `content/books/<book id>.json` and the `youtop-lessons` skill (see below).
 - No builder has ever run the app on a real phone. The owner sends screenshots when something
   looks wrong.
 - Not done on purpose, because they need a real phone to test: audio focus for the phone's voice,
@@ -92,6 +105,14 @@ Updated 2026-11-15. Whoever works on YouTop next: read `CLAUDE.md`, then this, t
   a virtualenv in the scratchpad worked. If Drive is blocked again, recordings under 10 MB can
   still be read with the connector.
 - Still no pictures 21-30 in the images folder.
+
+## How lessons are made since 2026-11-16
+
+`tools/content/batch.py` with the `youtop-lessons` skill (`.claude/skills/youtop-lessons/SKILL.md`).
+A session fills in one `batch.txt` and the tool does the rest. It was checked by rebuilding
+lessons 31-40 from their published text: identical output, recordings and spots kept, and a changed
+recorded story refused. `pictures` and `spots` were tried on a made-up picture only. **No real batch
+has been made with it yet**: the first one (questions 41-50) is also its first real test.
 
 ## What the owner may ask next
 

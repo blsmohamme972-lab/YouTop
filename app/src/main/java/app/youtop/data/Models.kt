@@ -194,6 +194,17 @@ data class Taxonomy(val version: Int = 1, val facets: List<Facet> = emptyList())
             facets.forEach { walk(it.nodes) }
         }
     }
+
+    /** Arabic title of every tag that has one. */
+    val titlesAr: Map<String, String> by lazy {
+        HashMap<String, String>().also { map ->
+            fun walk(nodes: List<TagNode>) { for (n in nodes) { n.titleAr?.let { map[n.id] = it }; walk(n.children) } }
+            facets.forEach { walk(it.nodes) }
+        }
+    }
+
+    /** What a tag is called on a phone set to Arabic ([arabic]) or to anything else; null for an unknown tag. */
+    fun label(tag: String, arabic: Boolean): String? = (if (arabic) titlesAr[tag] else null) ?: titles[tag]
 }
 
 @Serializable
@@ -203,10 +214,14 @@ data class Facet(
     val title: String,
     val titleAr: String? = null,
     val nodes: List<TagNode> = emptyList(),
-)
+) {
+    fun label(arabic: Boolean) = (if (arabic) titleAr else null) ?: title
+}
 
 @Serializable
-data class TagNode(val id: String, val title: String, val titleAr: String? = null, val children: List<TagNode> = emptyList())
+data class TagNode(val id: String, val title: String, val titleAr: String? = null, val children: List<TagNode> = emptyList()) {
+    fun label(arabic: Boolean) = (if (arabic) titleAr else null) ?: title
+}
 
 val ContentJson = Json {
     ignoreUnknownKeys = true

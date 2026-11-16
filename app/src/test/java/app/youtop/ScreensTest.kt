@@ -139,8 +139,9 @@ class ScreensTest {
         shot("7b-book")
         text("Topics").performClick()
         shot("7c-topics")
-        text("Cardiac surgery").performClick() // focus the feed on cardiac surgery
+        button("Study only Cardiac surgery").performClick() // focus the feed on cardiac surgery
         settle { rule.activity.viewModel().settings.value.study.focus == setOf("cardiac") }
+        shot("7c2-topics-focus")
         text("Show all").performClick()
         settle { rule.activity.viewModel().settings.value.study.focus.isEmpty() }
         text("Saved").performClick()
@@ -168,8 +169,8 @@ class ScreensTest {
         val text = (Backup.encode(Backup(
                 progress = Progress(
                     cards = mapOf(
-                        keys[0] to CardState(Phase.REVIEW, interval = 6f, due = now - day, reps = 5, lapses = 1),
-                        keys[1] to CardState(Phase.REVIEW, interval = 3f, due = now + 2 * day, reps = 4),
+                        keys[0] to CardState(Phase.REVIEW, interval = 6f, due = now - day, reps = 9, lapses = 5, seen = now - 7 * day),
+                        keys[1] to CardState(Phase.REVIEW, interval = 3f, due = now + 2 * day, reps = 4, seen = now - day),
                     ),
                     day = today, doneToday = 18, newToday = 4, streak = 9, lastStudyDay = today, history = history,
                 ),
@@ -240,6 +241,8 @@ class ScreensTest {
         text("الكتب").performClick()
         text("YouTop Starter").performClick()
         shot("21-ar-book")
+        text("المواضيع").performClick()
+        shot("24-ar-topics")
         text("الإعدادات").performClick()
         shot("22-ar-settings")
         rule.onNode(hasText("النسخة الاحتياطية")).performScrollTo()

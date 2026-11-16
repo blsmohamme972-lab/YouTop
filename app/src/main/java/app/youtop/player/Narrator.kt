@@ -210,7 +210,19 @@ class Narrator(context: Context, private val scope: CoroutineScope) {
                     if (playbackState == Player.STATE_READY) computeStarts()
                     if (playbackState == Player.STATE_ENDED && _state.value.mode == NarrationMode.AUDIO) {
                         ticker?.cancel()
+                        // Otherwise dragging the seek bar afterwards restarts the sound behind a "paused" screen.
+                        created.pause()
                         _state.update { it.copy(playing = false, ended = true, progress = 1f) }
+                    }
+                }
+
+                /** Another app took the sound for good (a call, another player): show the lesson as paused. */
+                override fun onPlayWhenReadyChanged(playWhenReady: Boolean, reason: Int) {
+                    if (!playWhenReady && reason == Player.PLAY_WHEN_READY_CHANGE_REASON_AUDIO_FOCUS_LOSS &&
+                        _state.value.mode == NarrationMode.AUDIO && _state.value.playing
+                    ) {
+                        ticker?.cancel()
+                        _state.update { it.copy(playing = false) }
                     }
                 }
 
@@ -225,6 +237,7 @@ class Narrator(context: Context, private val scope: CoroutineScope) {
             })
             player = created
         }
+        p.playWhenReady = false
         p.setMediaItem(MediaItem.fromUri(uri))
         p.setPlaybackSpeed(_state.value.speed)
         p.volume = if (_state.value.muted) 0f else 1f
@@ -454,6 +467,9 @@ class Narrator(context: Context, private val scope: CoroutineScope) {
 
     private fun stopOutput() {
         stopSpeech()
+        // pause() first: stop() alone leaves "play when ready" on, and the next recording would
+        // start by itself even when it was loaded to stay silent (question first, library open).
+        player?.pause()
         player?.stop()
         player?.clearMediaItems()
     }

@@ -1,0 +1,594 @@
+#!/usr/bin/env python3
+"""Turns a batch of written lessons into published lessons, doing every mechanical step.
+
+The writer (a person or an AI) only writes what needs a mind: titles, tags, the picture's scene,
+the Arabic story, the quotation and the English explanation, in one plain text file. This tool
+copies the questions from the master file (they are never retyped), builds the lessons and the
+image prompts, checks them against the owner's rules, and prepares the folder for publish.py.
+
+    batch.py questions <book> <from> <to> --master <file> [...]   the questions, compactly, to read
+    batch.py quotes    <book> [--folder F]                        quotations already used (do not repeat)
+    batch.py new       <book> <from> <to> --master <file> -o batch.txt     an empty batch file to fill in
+    batch.py build     batch.txt --master <file> [--folder F] [--force]    lessons + image prompts into F
+    batch.py pictures  <book> <folder of the owner's pictures> [--folder F]  N.png -> media/<id>.webp
+    batch.py spots     spots.txt [--folder F] [--pictures <folder>]        spotlight positions, drawn to check
+    batch.py status    <book> [--folder F]                        what each lesson still lacks
+
+<book> is a book id with a file content/books/<book>.json. --master files are the book's question
+files (Drive: "YouTop private/books/<book>", ids in that json); read them with the Drive
+connector's download tool, never commit them. F is the scratch folder for publish.py (default
+.content-work/, git-ignored); it is filled from what is published the first time. When a step is
+done:  python3 tools/content/publish.py F -m "what changed"
+
+The batch file (UTF-8 text). A line "== 41" starts question 41; then "key: value" lines.
+"story:" and "explanation:" are followed by one sentence per line.
+
+    book: shahzad-2015
+    == 41
+    title: The cardiac cycle: isovolumetric contraction
+    titleAr: الدورة القلبية: الانقباض متساوي الحجم
+    tags: cardiac/foundations d:physiology q:recall l:1
+    palette: cold blue dawn with one blaze of gold
+    words: 8, 10, 12                      (optional: the few short labels painted in the picture)
+    scene: dawn at the only gate of a small hill fortress. ...
+    story:
+    كان لقلعة التلّ بابٌ واحد ...
+    ... 8 to 11 sentences; the last one leads into the quotation ("...وقال:")
+    quote: «...»
+    source: الجريمة والعقاب
+    explanation:
+    Isovolumetric contraction begins when ...
+    ... 4 to 8 sentences
+    note: The book's key is B; ...        (optional: added to what is shown after answering)
+
+The spots file: per question, one position per sentence, "x y r" as hundredths of the picture's
+width/height (r of the width), "-" for a sentence about nothing visible. The quotation takes none.
+
+    book: shahzad-2015
+    == 41
+    story: 44 20 30 | 15 50 25 | - | 78 30 22 | ...
+    explanation: 78 30 22 | 92 27 10 | ...
+"""
+import argparse, json, pathlib, re, shutil, subprocess, sys, unicodedata
+
+ROOT = pathlib.Path(__file__).resolve().parents[2]
+DEFAULT_FOLDER = ROOT / ".content-work"
+LATIN = re.compile(r"[A-Za-z]")
+KEYS = {"title", "titleAr", "tags", "palette", "words", "scene", "story", "quote", "source", "explanation", "note"}
+MULTI = {"story", "explanation"}
+
+
+def die(msg):
+    sys.exit(f"batch.py: {msg}")
+
+
+def book_config(book):
+    path = ROOT / "content" / "books" / f"{book}.json"
+    if not path.is_file():
+        die(f"no {path.relative_to(ROOT)}: describe the book there first (copy shahzad-2015.json)")
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
+def load_master(paths):
+    questions = {}
+    for p in paths or []:
+        for q in json.loads(pathlib.Path(p).read_text(encoding="utf-8"))["questions"]:
+            questions[q["n"]] = q
+    if not questions:
+        die("give the book's question file(s) with --master (from Drive, see content/books/<book>.json)")
+    return questions
+
+
+def lesson_id(cfg, n):
+    return f"{cfg['short']}-q{n:04d}"
+
+
+def chapter_of(cfg, n):
+    size = cfg.get("chapterSize", 100)
+    lo = (n - 1) // size * size + 1
+    return f"q{lo:04d}-{lo + size - 1:04d}"
+
+
+def ensure_folder(folder, cfg):
+    """The scratch folder holds the book as published; export it the first time."""
+    book_dir = folder / "books" / cfg["id"]
+    if not (book_dir / "book.json").is_file():
+        catalog = subprocess.run(["git", "ls-remote", "--exit-code", "--heads", "origin", "content"], cwd=ROOT, capture_output=True)
+        if catalog.returncode == 0:
+            subprocess.run([sys.executable, str(ROOT / "tools/content/publish.py"), "--export", str(folder)], check=True)
+        if not (book_dir / "book.json").is_file():
+            (book_dir / "chapters").mkdir(parents=True, exist_ok=True)
+            (book_dir / "book.json").write_text(json.dumps({"id": cfg["id"], "title": cfg["sourceLabel"], "chapters": []}, ensure_ascii=False, indent=1), encoding="utf-8")
+    return book_dir
+
+
+def read_chapter(book_dir, cfg, name, create=False):
+    path = book_dir / "chapters" / f"{name}.json"
+    if path.is_file():
+        return path, json.loads(path.read_text(encoding="utf-8"))
+    if not create:
+        return path, {"lessons": []}
+    book = json.loads((book_dir / "book.json").read_text(encoding="utf-8"))
+    if not any(c["id"] == name for c in book["chapters"]):
+        lo, hi = int(name[1:5]), int(name[6:10])
+        book["chapters"].append({"id": name, "title": f"Questions {lo}–{hi}", "file": f"chapters/{name}.json"})
+        (book_dir / "book.json").write_text(json.dumps(book, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    return path, {"lessons": []}
+
+
+def all_lessons(book_dir):
+    for path in sorted((book_dir / "chapters").glob("*.json")):
+        for lesson in json.loads(path.read_text(encoding="utf-8"))["lessons"]:
+            yield lesson
+
+
+def normal(text):
+    """Arabic text without vowel marks, quotation marks and spacing, for comparing quotations."""
+    text = "".join(c for c in unicodedata.normalize("NFKD", text) if not unicodedata.combining(c))
+    return re.sub(r"[\W_]+", "", text)
+
+
+def used_quotes(book_dir, skip_ids=()):
+    out = {}
+    for lesson in all_lessons(book_dir):
+        if lesson["id"] in skip_ids:
+            continue
+        for track in lesson.get("tracks", []):
+            for seg in track.get("segments", []):
+                if seg.get("quote"):
+                    out[normal(seg["text"])] = (lesson["id"], seg["text"], seg["quote"])
+    return out
+
+
+# ---- the batch file -------------------------------------------------------------
+
+def parse(path, multi=MULTI, keys=KEYS):
+    head, items, cur, field = {}, [], None, None
+    for n, raw in enumerate(pathlib.Path(path).read_text(encoding="utf-8").splitlines(), 1):
+        line = raw.strip()
+        if not line or line.startswith("#"):
+            continue
+        m = re.fullmatch(r"==\s*(\d+)\s*=*", line)
+        if m:
+            cur = {"n": int(m.group(1))}
+            items.append(cur)
+            field = None
+            continue
+        m = re.match(r"([A-Za-z]+):\s*(.*)$", line)
+        if m and (m.group(1) in keys or cur is None):
+            key, value = m.group(1), m.group(2).strip()
+            if cur is None:
+                head[key] = value
+            elif key in multi:
+                cur[key] = [value] if value else []
+                field = key
+            else:
+                if key in cur:
+                    die(f"{path}:{n}: '{key}' is given twice for question {cur['n']}")
+                cur[key] = value
+                field = key if key == "scene" else None
+            continue
+        if cur is None or field is None:
+            die(f"{path}:{n}: this line belongs to no field: {line[:60]}")
+        if field in multi:
+            cur[field].append(line)
+        else:
+            cur[field] += " " + line
+    if "book" not in head:
+        die(f"{path}: the first line must be 'book: <book id>'")
+    return head, items
+
+
+def image_prompt(cfg, b):
+    words = b.get("words", "").strip()
+    labels = (f"No written text anywhere except exactly these short labels, large and clearly legible, spelled exactly: {words}. "
+              if words else "No written text, letters or numbers anywhere in the image. ")
+    return (f"{b['n']}. Generate one highly memorable image. Vertical 9:16 aspect ratio. "
+            f"Style: {cfg['style']}. "
+            f"Colour scheme: {b['palette']}. "
+            "Composition: ONE dominant focal point that the eye finds at once, drawn boldly and larger than life; only the few "
+            "elements described below, each of them big, clearly separated from the others and placed in its own area of the "
+            "frame, with calm empty space between them. No crowd of small details, no clutter, no extra people, nothing that "
+            "is not described. Faces full of feeling. "
+            "Scene: " + b["scene"].rstrip() +
+            " Every object must be visually meaningful, distinctive and easy to recall, and all of them must be linked by "
+            "physical interaction and cause-and-effect inside this one scene. No literal anatomy, no organs, no medical "
+            "equipment, no unrelated objects. " + labels +
+            f"Save the image with the file name {b['n']} and upload it to: "
+            f"https://drive.google.com/drive/folders/{cfg['imagesFolder']}")
+
+
+def lint(cfg, b, q, used, problems, warnings):
+    w = f"question {b['n']}"
+    for key in ("title", "titleAr", "tags", "palette", "scene", "story", "quote", "source", "explanation"):
+        if not b.get(key):
+            problems.append(f"{w}: '{key}' is missing")
+    if q is None:
+        problems.append(f"{w}: not in the master question file(s) given")
+    story, expl = b.get("story") or [], b.get("explanation") or []
+    if story and not 8 <= len(story) <= 11:
+        warnings.append(f"{w}: the story has {len(story)} sentences (the guide asks for 8 to 11)")
+    if expl and not 4 <= len(expl) <= 8:
+        warnings.append(f"{w}: the explanation has {len(expl)} sentences (the guide asks for 4 to 8)")
+    for i, s in enumerate(story, 1):
+        if LATIN.search(s):
+            # Allowed only for the labels painted in the picture ("words"), which the story says aloud.
+            painted = (b.get("words") or "").lower()
+            if not all(x.lower() in painted for x in re.findall(r"[A-Za-z]+", s)):
+                warnings.append(f"{w}: story sentence {i} has Latin letters; the story takes no English terms, only labels painted in the picture")
+        if len(s) > 190:
+            warnings.append(f"{w}: story sentence {i} is {len(s)} characters; it is also the caption, keep it short")
+    for i, s in enumerate(expl, 1):
+        if len(s) > 260:
+            warnings.append(f"{w}: explanation sentence {i} is {len(s)} characters; split it")
+    if story and not story[-1].rstrip().endswith((":", "：")):
+        warnings.append(f"{w}: the last story sentence should lead into the quotation and end with ':'")
+    quote = b.get("quote", "")
+    if quote:
+        if LATIN.search(quote):
+            problems.append(f"{w}: the quotation must be in Arabic")
+        hit = used.get(normal(quote))
+        if hit:
+            problems.append(f"{w}: this quotation is already used in {hit[0]}")
+        used[normal(quote)] = (lesson_id(cfg, b["n"]), quote, "")
+    if b.get("words") and len(b["words"]) > 40:
+        warnings.append(f"{w}: 'words' is long; image generators misspell more than a few short labels")
+    if q is not None and expl:
+        answer = q["options"][q["answer"]]
+        key_words = [x for x in re.findall(r"[A-Za-z]{5,}", answer.lower())]
+        text = " ".join(expl).lower()
+        if key_words and not any(x in text for x in key_words):
+            warnings.append(f"{w}: the explanation never mentions the correct answer ('{answer[:50]}')")
+
+
+def build_lesson(cfg, b, q, book_dir, old, force, problems, warnings):
+    n = b["n"]
+    lid = lesson_id(cfg, n)
+    fix = lambda s: [s := s.replace(a, c) for a, c in cfg.get("typos", {}).items()][-1] if cfg.get("typos") else s
+    source = b["source"] if cfg["author"] in b["source"] else f"{cfg['author']}، {b['source']}"
+    story = [{"text": t} for t in b["story"]] + [{"text": b["quote"], "quote": source}]
+    explain = " ".join(b["explanation"]) + (" " + b["note"] if b.get("note") else "")
+    quiz = {"q": fix(q["stem"]), "options": [fix(o) for o in q["options"]], "answer": q["answer"],
+            "explain": explain, "lang": "en", "source": f"{cfg['sourceLabel']}, Q{n}"}
+    if q.get("figure"):
+        name = f"figure-q{n:04d}.png"
+        published = subprocess.run(["git", "cat-file", "-e", f"origin/content:books/{cfg['id']}/media/{name}"], cwd=ROOT, capture_output=True).returncode == 0
+        if published or (book_dir / "media" / name).is_file():
+            quiz["image"] = f"gh:books/{cfg['id']}/media/{name}"
+        else:
+            problems.append(f"question {n}: its stem needs a figure. Download {q['figure']} from Drive and save it as "
+                            f"{(book_dir / 'media' / name)}")
+    lesson = {"id": lid, "title": b["title"], "titleAr": b["titleAr"], "tags": b["tags"].replace(",", " ").split(),
+              "tracks": [{"kind": "story", "lang": "ar", "segments": story},
+                         {"kind": "explanation", "lang": "en", "segments": [{"text": t} for t in b["explanation"]]}],
+              "quiz": [quiz]}
+    if old:
+        # Keep what later steps added (picture, spots, recorded voice) wherever the text is unchanged.
+        if old.get("image"):
+            lesson["image"] = old["image"]
+        for new_track in lesson["tracks"]:
+            old_track = next((t for t in old.get("tracks", []) if t.get("kind") == new_track["kind"]), None)
+            if not old_track:
+                continue
+            same = [s["text"] for s in old_track["segments"]] == [s["text"] for s in new_track["segments"]]
+            if old_track.get("audio"):
+                if same:
+                    new_track["audio"] = old_track["audio"]
+                elif not force:
+                    problems.append(f"question {n}: the {new_track['kind']} has a recorded voice; changing its text would "
+                                    f"break the recording. Keep the text, or pass --force and ask for a new recording.")
+                else:
+                    warnings.append(f"question {n}: the recorded {new_track['kind']} voice was dropped (text changed)")
+            for i, seg in enumerate(new_track["segments"]):
+                if i < len(old_track["segments"]) and old_track["segments"][i]["text"] == seg["text"]:
+                    for k in ("spot", "t"):
+                        if k in old_track["segments"][i] and (k != "t" or "audio" in new_track):
+                            seg[k] = old_track["segments"][i][k]
+                elif "spot" in (old_track["segments"][i] if i < len(old_track["segments"]) else {}):
+                    warnings.append(f"question {n}: {new_track['kind']} sentence {i + 1} changed; its spot was dropped, set it again")
+    return lesson
+
+
+def cmd_build(args):
+    head, items = parse(args.batch)
+    cfg = book_config(head["book"])
+    master = load_master(args.master)
+    folder = pathlib.Path(args.folder).resolve()
+    book_dir = ensure_folder(folder, cfg)
+    if not items:
+        die("the batch file has no questions")
+    numbers = [b["n"] for b in items]
+    if len(set(numbers)) != len(numbers):
+        die("a question number is repeated in the batch file")
+    ids = {lesson_id(cfg, n) for n in numbers}
+    used = used_quotes(book_dir, ids)
+    existing = {l["id"]: l for l in all_lessons(book_dir)}
+    problems, warnings, lessons = [], [], {}
+    for b in items:
+        q = master.get(b["n"])
+        lint(cfg, b, q, used, problems, warnings)
+        if q is not None and all(b.get(k) for k in ("title", "titleAr", "tags", "story", "quote", "source", "explanation")):
+            lessons[b["n"]] = build_lesson(cfg, b, q, book_dir, existing.get(lesson_id(cfg, b["n"])), args.force, problems, warnings)
+    for line in warnings:
+        print("warning:", line)
+    if problems:
+        die("nothing written:\n  " + "\n  ".join(problems))
+    by_chapter = {}
+    for n, lesson in lessons.items():
+        by_chapter.setdefault(chapter_of(cfg, n), []).append(lesson)
+    for name, new in by_chapter.items():
+        path, chapter = read_chapter(book_dir, cfg, name, create=True)
+        new_ids = {l["id"] for l in new}
+        chapter["lessons"] = sorted([l for l in chapter["lessons"] if l["id"] not in new_ids] + new, key=lambda l: l["id"])
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_text(json.dumps(chapter, ensure_ascii=False) + "\n", encoding="utf-8")
+    label = f"{min(numbers):04d}-{max(numbers):04d}"
+    work = folder / "work" / cfg["id"] / f"batch-{label}"
+    work.mkdir(parents=True, exist_ok=True)
+    shutil.copyfile(args.batch, work / "batch.txt")
+    prompts = work / f"image-prompts-{min(numbers)}-{max(numbers)}.json"
+    with_scene = [b for b in items if b.get("scene") and b.get("palette")]
+    prompts.write_text(json.dumps({"items": [{"info": image_prompt(cfg, b)} for b in with_scene]}, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    check = subprocess.run([sys.executable, str(ROOT / "tools/content/validate.py"), str(book_dir), str(prompts)])
+    if check.returncode != 0:
+        die("validate.py found problems (above); fix the batch file and build again")
+    print(f"\n{len(lessons)} lesson(s) built into {book_dir}")
+    print(f"Image prompts for the owner (send them this file): {prompts}")
+    print(f"Publish:  python3 tools/content/publish.py {folder} -m \"{cfg['sourceLabel']}: lessons {min(numbers)}-{max(numbers)}\"")
+
+
+def cmd_questions(args):
+    master = load_master(args.master)
+    for n in range(args.first, args.last + 1):
+        q = master.get(n)
+        if not q:
+            print(f"== {n}: NOT IN THE FILES GIVEN\n")
+            continue
+        print(f"== {n}" + ("   [needs its figure: " + q["figure"] + "]" if q.get("figure") else ""))
+        print(q["stem"])
+        for i, o in enumerate(q["options"]):
+            print(("  * " if i == q["answer"] else "  - ") + o)
+        if q.get("explanation"):
+            print("Book: " + q["explanation"])
+        for c in q.get("corrections", []):
+            print(f"Corrected {c['field']}: was {c['was']}, now {c['now']} ({c['why']})")
+        print()
+
+
+def cmd_new(args):
+    cfg = book_config(args.book)
+    master = load_master(args.master)
+    lines = [f"book: {cfg['id']}", "# One block per question. See the top of tools/content/batch.py for the format,",
+             "# and .claude/skills/youtop-lessons/SKILL.md for how to write each part.", ""]
+    for n in range(args.first, args.last + 1):
+        q = master.get(n)
+        if not q:
+            die(f"question {n} is not in the master file(s) given")
+        lines += [f"== {n}", "# " + q["stem"].replace("\n", " "), "# answer: " + q["options"][q["answer"]]]
+        if q.get("figure"):
+            lines.append("# this question has a figure (it is shown above the options)")
+        lines += ["title: ", "titleAr: ", "tags: ", "palette: ", "words: ", "scene: ", "story:", "quote: ", "source: ", "explanation:", ""]
+    pathlib.Path(args.output).write_text("\n".join(lines), encoding="utf-8")
+    print(f"wrote {args.output}: fill it in, then  python3 tools/content/batch.py build {args.output} --master ...")
+
+
+def cmd_quotes(args):
+    cfg = book_config(args.book)
+    book_dir = ensure_folder(pathlib.Path(args.folder).resolve(), cfg)
+    for lid, text, source in sorted(used_quotes(book_dir).values()):
+        print(f"{lid[-4:]}  {source.replace(cfg['author'] + '، ', '')}: {text}")
+
+
+def cmd_status(args):
+    cfg = book_config(args.book)
+    book_dir = ensure_folder(pathlib.Path(args.folder).resolve(), cfg)
+    done = {}
+    for lesson in all_lessons(book_dir):
+        tracks = {t["kind"]: t for t in lesson.get("tracks", [])}
+        lacks = []
+        if not lesson.get("image"):
+            lacks.append("picture")
+        elif not any(s.get("spot") for t in tracks.values() for s in t["segments"]):
+            lacks.append("spots")
+        for kind in ("story", "explanation"):
+            if kind in tracks and not tracks[kind].get("audio"):
+                lacks.append(f"{kind} voice (phone voice is used)")
+        done[int(lesson["id"][-4:])] = lacks
+    total = cfg.get("questions", max(done, default=0))
+    missing = [n for n in range(1, total + 1) if n not in done]
+    def ranges(ns):
+        out, ns = [], sorted(ns)
+        for n in ns:
+            if out and n == out[-1][1] + 1:
+                out[-1][1] = n
+            else:
+                out.append([n, n])
+        return ", ".join(f"{a}-{b}" if a != b else str(a) for a, b in out) or "none"
+    print(f"{cfg['id']}: {len(done)} of {total} questions are lessons.")
+    print("Not written yet:", ranges(missing))
+    for what in ("picture", "spots", "story voice (phone voice is used)", "explanation voice (phone voice is used)"):
+        print(f"Without {what}:", ranges([n for n, lacks in done.items() if what in lacks]))
+
+
+def cmd_pictures(args):
+    from PIL import Image
+    cfg = book_config(args.book)
+    folder = pathlib.Path(args.folder).resolve()
+    book_dir = ensure_folder(folder, cfg)
+    media = book_dir / "media"
+    media.mkdir(parents=True, exist_ok=True)
+    check = folder / "check" / cfg["id"]
+    check.mkdir(parents=True, exist_ok=True)
+    found = {}
+    for f in sorted(pathlib.Path(args.source).iterdir()):
+        m = re.fullmatch(r"(\d+)(\.\w+)?", f.name)
+        if m and f.is_file():
+            found[int(m.group(1))] = f
+    if not found:
+        die(f"no pictures named by question number (41.png, 42, ...) in {args.source}")
+    done = []
+    for path in sorted((book_dir / "chapters").glob("*.json")):
+        chapter = json.loads(path.read_text(encoding="utf-8"))
+        changed = False
+        for lesson in chapter["lessons"]:
+            n = int(lesson["id"][-4:])
+            if n not in found:
+                continue
+            name = f"{lesson['id']}.webp"
+            ref = f"gh:books/{cfg['id']}/media/{name}"
+            if lesson.get("image") and lesson["image"] != ref and not args.replace:
+                print(f"question {n}: already has {lesson['image']}; left alone (use --replace NAME-b to publish a corrected picture)")
+                continue
+            if args.replace:
+                name = f"{lesson['id']}-{args.replace}.webp"
+                ref = f"gh:books/{cfg['id']}/media/{name}"
+            im = Image.open(found[n]).convert("RGB")
+            w, h = im.size
+            im = im.resize((1080, round(h * 1080 / w)), Image.LANCZOS)
+            if lesson.get("image") != ref or not (media / name).exists():
+                im.save(media / name, "WEBP", quality=82)
+            lesson["image"] = ref
+            grid(im).save(check / f"{n}-grid.jpg", quality=80)
+            done.append(n)
+            changed = True
+        if changed:
+            path.write_text(json.dumps(chapter, ensure_ascii=False) + "\n", encoding="utf-8")
+    left = sorted(set(found) - set(done))
+    print(f"{len(done)} picture(s) set: {done}")
+    if left:
+        print(f"no lesson (or already has a picture) for: {left}")
+    print(f"Look at each {check}/<n>-grid.jpg (the grid is in tenths: read x and y off it), check the picture against its story,\n"
+          f"then write the spots file and run:  python3 tools/content/batch.py spots spots.txt --folder {folder}")
+
+
+def grid(im):
+    """The picture with a labelled grid in tenths, so spot positions can be read off instead of guessed."""
+    from PIL import ImageDraw, ImageFont
+    im = im.copy().resize((540, round(im.height * 540 / im.width)))
+    d = ImageDraw.Draw(im, "RGBA")
+    font = ImageFont.load_default()
+    for i in range(1, 10):
+        x, y = im.width * i / 10, im.height * i / 10
+        d.line([(x, 0), (x, im.height)], fill=(255, 255, 255, 110), width=1)
+        d.line([(0, y), (im.width, y)], fill=(255, 255, 255, 110), width=1)
+        for pos, text in (((x + 2, 2), f"{i * 10}"), ((2, y + 2), f"{i * 10}")):
+            d.rectangle([pos, (pos[0] + 14, pos[1] + 11)], fill=(0, 0, 0, 170))
+            d.text(pos, text, fill=(255, 255, 0, 255), font=font)
+    return im
+
+
+def cmd_spots(args):
+    head, items = parse(args.spots, multi=set(), keys={"story", "explanation"})
+    cfg = book_config(head["book"])
+    folder = pathlib.Path(args.folder).resolve()
+    book_dir = ensure_folder(folder, cfg)
+    wanted = {lesson_id(cfg, b["n"]): b for b in items}
+    problems, drawn = [], []
+    for path in sorted((book_dir / "chapters").glob("*.json")):
+        chapter = json.loads(path.read_text(encoding="utf-8"))
+        changed = False
+        for lesson in chapter["lessons"]:
+            b = wanted.pop(lesson["id"], None)
+            if not b:
+                continue
+            if not lesson.get("image"):
+                problems.append(f"question {b['n']}: the lesson has no picture yet (run 'pictures' first)")
+                continue
+            for track in lesson["tracks"]:
+                if track["kind"] not in b:
+                    continue
+                segs = [s for s in track["segments"] if not s.get("quote")]
+                spots = [s.strip() for s in b[track["kind"]].split("|")]
+                if len(spots) != len(segs):
+                    problems.append(f"question {b['n']}: the {track['kind']} has {len(segs)} sentences (without the quotation) but {len(spots)} spots")
+                    continue
+                for seg, sp in zip(segs, spots):
+                    seg.pop("spot", None)
+                    if sp in ("-", ""):
+                        continue
+                    try:
+                        x, y, r = (float(v) / 100 for v in sp.replace(",", " ").split())
+                    except ValueError:
+                        problems.append(f"question {b['n']}: '{sp}' is not 'x y r' in hundredths, or '-'")
+                        continue
+                    if not (0 <= x <= 1 and 0 <= y <= 1 and 0.03 <= r <= 0.6):
+                        problems.append(f"question {b['n']}: spot '{sp}' is outside the picture or its radius is not 3 to 60")
+                        continue
+                    seg["spot"] = {"x": round(x, 3), "y": round(y, 3), "r": round(r, 3)}
+            changed = True
+            drawn.append(lesson)
+        if changed and not problems:
+            path.write_text(json.dumps(chapter, ensure_ascii=False) + "\n", encoding="utf-8")
+    for lid in wanted:
+        problems.append(f"{lid}: no such lesson in {book_dir}")
+    if problems:
+        die("nothing written:\n  " + "\n  ".join(problems))
+    out = folder / "check" / cfg["id"]
+    out.mkdir(parents=True, exist_ok=True)
+    sheets = draw_spots(cfg, book_dir, drawn, out)
+    print(f"spots set for {len(drawn)} lesson(s).")
+    if sheets:
+        print(f"Now LOOK at {out}/<n>-spots.jpg: every circle (S1.. story, E1.. explanation) must sit on what its sentence is about.")
+    else:
+        print("The pictures are not on this machine, so the circles could not be drawn. (They are in the folder after 'pictures'.)")
+
+
+def draw_spots(cfg, book_dir, lessons, out):
+    try:
+        from PIL import Image, ImageDraw, ImageFont
+    except ImportError:
+        return 0
+    count = 0
+    for lesson in lessons:
+        name = lesson["image"].rsplit("/", 1)[-1]
+        src = book_dir / "media" / name
+        if not src.is_file():
+            blob = subprocess.run(["git", "cat-file", "-p", f"origin/content:books/{cfg['id']}/media/{name}"], cwd=ROOT, capture_output=True)
+            if blob.returncode != 0:
+                continue
+            src = out / name
+            src.write_bytes(blob.stdout)
+        im = Image.open(src).convert("RGB")
+        im = im.resize((540, round(im.height * 540 / im.width)))
+        d = ImageDraw.Draw(im, "RGBA")
+        font = ImageFont.load_default()
+        for track, letter, colour in zip(lesson["tracks"], "SE", ((255, 220, 0), (0, 255, 255))):
+            for i, seg in enumerate(track["segments"], 1):
+                sp = seg.get("spot")
+                if not sp:
+                    continue
+                x, y, r = sp["x"] * im.width, sp["y"] * im.height, sp["r"] * im.width
+                d.ellipse([x - r, y - r, x + r, y + r], outline=colour + (255,), width=2)
+                d.rectangle([x - 9, y - 6, x + 11, y + 7], fill=(0, 0, 0, 190))
+                d.text((x - 7, y - 5), f"{letter}{i}", fill=colour + (255,), font=font)
+        im.save(out / f"{int(lesson['id'][-4:])}-spots.jpg", quality=80)
+        count += 1
+    return count
+
+
+def main():
+    ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    sub = ap.add_subparsers(dest="cmd", required=True)
+    def add(name, fn, *positional, master=False, folder=True):
+        p = sub.add_parser(name)
+        for arg, kind in positional:
+            p.add_argument(arg, type=kind)
+        if master:
+            p.add_argument("--master", nargs="+")
+        if folder:
+            p.add_argument("--folder", default=str(DEFAULT_FOLDER))
+        p.set_defaults(fn=fn)
+        return p
+    add("questions", cmd_questions, ("book", str), ("first", int), ("last", int), master=True, folder=False)
+    add("quotes", cmd_quotes, ("book", str))
+    add("new", cmd_new, ("book", str), ("first", int), ("last", int), master=True, folder=False).add_argument("-o", "--output", required=True)
+    add("build", cmd_build, ("batch", str), master=True).add_argument("--force", action="store_true", help="allow changing a text that has a recorded voice")
+    add("pictures", cmd_pictures, ("book", str), ("source", str)).add_argument("--replace", metavar="SUFFIX", help="publish corrected pictures under a new name, e.g. --replace b")
+    add("spots", cmd_spots, ("spots", str))
+    add("status", cmd_status, ("book", str))
+    args = ap.parse_args()
+    args.fn(args)
+
+
+if __name__ == "__main__":
+    main()

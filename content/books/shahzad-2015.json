@@ -1,0 +1,19 @@
+{
+  "id": "shahzad-2015",
+  "short": "shahzad",
+  "sourceLabel": "Shahzad 2015",
+  "questions": 200,
+  "chapterSize": 100,
+  "author": "فيودور دوستويفسكي",
+  "imagesFolder": "1Rh8ghw3oe5_5yYzaTvH5iFcpJQTnrRxZ",
+  "masters": {
+    "mcqs-0001-0100.json": "1Pkm1sMtHNNE8UVTpw6T6y1O4DAjyHPFk",
+    "mcqs-0101-0200.json": "1WRWIdCS72YFvc-z1z989GxoLN-Ppql8L"
+  },
+  "style": "a masterpiece of 19th-century Russian realist oil painting in the spirit of Fyodor Dostoevsky's novels (the manner of Repin, Kramskoi and Perov), cinematic and dramatic, with strong directional light and deep shadow",
+  "typos": {
+    "acetylcholinecontaining": "acetylcholine-containing",
+    "Tirfiban": "Tirofiban",
+    "Wolff-Parkison-White": "Wolff-Parkinson-White"
+  }
+}

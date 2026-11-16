@@ -239,7 +239,8 @@ private fun SearchField(value: String, onChange: (String) -> Unit, hint: String,
     }
 }
 
-private fun isDue(card: CardState?, now: Long) = card != null && card.phase != Phase.NEW && card.due <= now
+private fun isDue(card: CardState?, now: Long) =
+    card != null && app.youtop.study.Scheduler.isDue(card, now, app.youtop.study.Scheduler.dayEnd(now, java.util.TimeZone.getDefault().getOffset(now)))
 
 @Composable
 private fun BookCover(vm: MainViewModel, book: BookInfo, modifier: Modifier = Modifier, showTitle: Boolean = true) {
