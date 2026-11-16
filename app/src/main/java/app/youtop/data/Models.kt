@@ -65,7 +65,20 @@ data class Lesson(
     val tags: List<String> = emptyList(),
     val tracks: List<Track> = emptyList(),
     val quiz: List<Question> = emptyList(),
+    /**
+     * The picture's numbered circles, for "all circles" and for the question: a circle's number is
+     * its place in this list, starting at 1. Not every [Segment.spot] is one, and several sentences
+     * may share one.
+     */
+    val marks: List<Mark> = emptyList(),
 )
+
+/**
+ * One numbered circle on the picture: [what] is the character, object or event inside it,
+ * [means] the medical fact it stands for. Both are English.
+ */
+@Serializable
+data class Mark(val spot: Spot? = null, val what: String = "", val means: String = "")
 
 /** A narration: `kind` is "story" or "explanation", `lang` a language code such as "ar" or "en". */
 @Serializable
@@ -104,6 +117,10 @@ data class Question(
     val source: String? = null,
     /** A figure the stem refers to ("the ECG shown below"), same reference format as lesson images. */
     val image: String? = null,
+    /** Numbers of the lesson's [Lesson.marks] shown while this question is asked: what it is about, never the answer. */
+    val marks: List<Int> = emptyList(),
+    /** Numbers of the marks that stand for the correct answer; they appear once the question is answered. */
+    val answerMarks: List<Int> = emptyList(),
 )
 
 // ---- What the app keeps in memory ------------------------------------------

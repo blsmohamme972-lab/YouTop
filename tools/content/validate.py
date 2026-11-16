@@ -74,7 +74,25 @@ def check_lesson(lesson, where, strict_tags=True):
                 if t is None or t <= last and i > 0:
                     bad(where, f"{kind} segment {i} needs an increasing start time 't' because the track has audio")
                 last = t if t is not None else last
+    marks = lesson.get("marks", [])
+    if marks and not image:
+        bad(where, "has marks (numbered circles) but no image")
+    for i, mark in enumerate(marks, 1):
+        spot = mark.get("spot") if isinstance(mark, dict) else None
+        if not spot or not (0 <= spot.get("x", -1) <= 1 and 0 <= spot.get("y", -1) <= 1 and 0.03 <= spot.get("r", 0.15) <= 0.6):
+            bad(where, f"mark {i} needs a spot inside the picture")
+            continue
+        for k in ("what", "means"):
+            text = mark.get(k)
+            if not (isinstance(text, str) and text.strip()):
+                bad(where, f"mark {i} has no '{k}'")
+            elif re.search(r"[\u0600-\u06FF]", text):
+                bad(where, f"mark {i} '{k}' must be in English (the table is English only)")
     for i, q in enumerate(lesson.get("quiz", [])):
+        for k in ("marks", "answerMarks"):
+            numbers = q.get(k, [])
+            if not isinstance(numbers, list) or any(not isinstance(v, int) or not 1 <= v <= len(marks) for v in numbers):
+                bad(where, f"question {i} '{k}' must list numbers of the lesson's marks (1 to {len(marks)})")
         options = q.get("options", [])
         if not q.get("q", "").strip() or len(options) < 2:
             bad(where, f"question {i} needs a stem and at least two options")

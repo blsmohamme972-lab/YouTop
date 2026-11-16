@@ -4,57 +4,46 @@ Updated 2026-11-16. Whoever works on YouTop next: read `CLAUDE.md`, then this, t
 `docs/content-guide.md`. Rewrite this file whenever the state changes (it replaces the
 `status-<n>.txt` files in the Drive folder "YouTop private", which stop at 7).
 
-## NEXT TASK, asked by the owner on 2026-11-16 and NOT STARTED
+## Last task: circles in the question (app 2.2), done 2026-11-16, NOT YET SEEN BY THE OWNER ON THEIR PHONE
 
-The owner sent a screenshot of a real lesson (so **2.0 or 2.1 is on their phone**: the buttons had
-their names under them) and described this, in several messages, each time asking only "did you
-understand?". Nothing of it is built. They said every circle on the picture "means something" and
-they want the circles used in the question.
+The owner asked for the picture's circles to be used in the question. Built as **2.2 (versionCode 13)**,
+APK handed over on 2026-11-16, signed with the Drive key. Nobody has run it on a phone; wait for what
+the owner says and for screenshots.
 
-1. **The question, laid over the picture without hiding it.** At the end of the lesson the question
-   appears at the **top**, transparent, in a fairly small type; the options at the **bottom**, fairly
-   small too; the picture stays visible in the middle. (Today `QuizOverlay.kt` shades the picture
-   and fills most of the screen.)
-2. **Only the circles that matter.** While the question is up, show the circles that belong to the
-   question and to the correct answer, and no others.
-3. **A button "all circles".** It shows every circle of the picture at once, each with a **number**
-   and its **own colour**, and a **small, good-looking, translucent table**, in **English only**:
-   number | the character, object or event in the picture | what it stands for (the medical fact).
-   The table row carries the **same number and the same colour** as its circle. The table can be
-   **dragged with a finger** when it covers something.
-4. **No leaving a lesson unanswered.** Swiping away from a lesson before its question is answered
-   does not go to the next lesson: a quick, pleasant motion brings the lesson back with its
-   **question open**, even if the story or explanation was not finished. Once answered, the lesson
-   is done for the day and goes to the scheduler, and **then** the owner may swipe on when they
-   want (they did not ask for an automatic move). This replaces the old rule "quick swipe =
-   nothing" in `CLAUDE.md`; change that line when it is built.
-
-Asked of the owner and **not answered** (they moved on); the defaults offered to them, to use
-unless they say otherwise:
-- A wrong answer: the lesson still comes back the same day after minutes, as now.
-- The question's circles show before answering; the correct answer's circle shows after answering.
-- The "all circles" button is there at any time in a lesson, not only during the question.
-- The long English explanation after an answer stays, in a smaller type.
-
-What it needs, as far as was thought through (the next builder decides):
-- **Content.** Lessons hold only a `spot` per sentence today; nothing says what a circle shows or
-  means, and many sentences share a spot. A lesson needs a list of numbered marks (spot, "what",
-  "means", both English), and its question needs to say which marks are the question's and which
-  the answer's. Keep the new fields optional (`Models.kt`), let `validate.py` and `batch.py` (the
-  spots file) carry them, and publish with `publish.py` — no Drive writes. The 30 lessons that
-  have pictures (1-20 and 31-40) need their marks written: "means" follows the explanation
-  sentence that uses the spot; "what" needs a look at the picture (`batch.py` can draw the numbered
-  circles to check). The story and explanation text of lessons 1-10 and 31-40 must not change
-  (recorded voice); adding marks does not touch them.
-- **App.** `QuizOverlay.kt`, `Spotlight.kt` (several numbered, coloured circles at once),
-  `FeedScreen.kt` (the pager: hold the swipe until answered; lessons without a question stay
-  free; going back to earlier lessons stays free), `MainViewModel.finish`. A lesson without marks
-  must still work (old content, the starter book). Add steps to `ScreensTest` and look at the pictures.
+- **Question over the picture** (`QuizOverlay.kt`): the stem in a small translucent panel at the top
+  (with "All circles", listen, close), the options small at the bottom, the picture free in between.
+  After an answer the long explanation stays, small, in its own scrolling window (about six lines),
+  with "Watch", "Next review" and "Next". Nothing moves on by itself after an answer any more
+  (`autoAdvance` now only concerns lessons without a question).
+- **Marks** (new content, optional): `Lesson.marks` = numbered circles `{spot, what, means}` (English);
+  `Question.marks` = numbers shown while the question is asked, `Question.answerMarks` = numbers that
+  appear once it is answered. Colours by number: `MarkColors` in `ui/Marks.kt`, same list in `batch.py`.
+- **"All circles"**: button on the lesson's rail ("Circles") and in the question. Shows every numbered
+  circle and a translucent English table (# | in the picture | stands for) that is dragged with a
+  finger; tapping a row singles out its circle. It pauses the narration.
+- **No lesson left unanswered** (`FeedScreen.kt`, `MainViewModel.reachable/holds/pass/heldBack`): the
+  pager ends at the first lesson whose question is unanswered; a swipe there pulls the page a little,
+  it springs back and the question opens. A lesson with several questions holds until the last is
+  answered. Going back to earlier lessons, the library, and a lesson picked in the library stay free.
+- Defaults used because the owner did not answer: a wrong answer comes back the same day as before;
+  the question's circles show before the answer, the answer's after; "All circles" at any time.
+- **Content**: lessons 1-20 and 31-40 have marks (5 to 8 each), written after looking at each picture;
+  no story or explanation text was touched. Work files: `work/shahzad-2015/marks/` on `content`.
+  Things a later builder may want to know: lesson 5's explanation says an extralobar sequestration
+  "more often drains to systemic veins" while the book marks "venous return is usually systemic" as
+  wrong (both are true: the usual, intralobar, type drains to pulmonary veins; text left as recorded);
+  lesson 20's answer circle is the lodger at the window (nothing in the picture shows "distant
+  metastases are rare"); lesson 36's answer circle is the cellar owner (normal coagulation is really
+  all five cards); lesson 12's and 14's answers rest on the story more than on something visible.
+- Seen only in the test pictures (`5-quiz`, `5b`, `5c`, `5d`, `5e`, `9a`, `9b`), plus lessons 5 and 36
+  seeded for a moment. Not checked: the table on a small or a very tall phone, the feel of the
+  spring-back, Arabic phone layout of the question (the table itself is always left-to-right English).
+- New lessons need marks too: `batch.py marks` (see the skill, step 5). Lessons 21-30 have none (no pictures).
 
 ## App
 
-- **2.1 (versionCode 12)** is on `main`; the APK was handed to the owner on 2026-11-16 (the third
-  that day, after 1.9 and 2.0). A screenshot they sent later that day shows 2.0 or 2.1 running on
+- **2.2 (versionCode 13)** is on `main` (see above); before it 2.1 (versionCode 12), handed to the
+  owner on 2026-11-16 (the third APK that day, after 1.9 and 2.0). A screenshot they sent later that day shows 2.0 or 2.1 running on
   their phone with a real lesson (buttons with names, "Home" at the top right).
 - New in 2.1, asked for by the owner: **progress by topic across books.** On the Topics page every
   specialty and subtopic is a cover (a picture from the web, built into the app) with the same

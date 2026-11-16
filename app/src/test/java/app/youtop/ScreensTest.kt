@@ -134,24 +134,76 @@ class ScreensTest {
     @Test
     fun quiz() {
         openFirstLesson()
+        val vm = rule.activity.viewModel()
         button("Quiz").performClick()
-        shot("5-quiz")
+        shot("5-quiz") // question at the top, options at the bottom, only the question's circle
+        text("All circles").performClick()
+        shot("5c-quiz-all-circles")
+        // The table follows the finger.
+        val table = hasContentDescription("All circles table")
+        val before = visible(table).fetchSemanticsNode().boundsInRoot.top
+        visible(table).performTouchInput { down(center); moveBy(androidx.compose.ui.geometry.Offset(0f, -220f)); up() }
+        rule.waitForIdle()
+        assert(visible(table).fetchSemanticsNode().boundsInRoot.top < before - 100f) { "the table did not move" }
+        text("The tilted mirror").performClick() // a row singles out its circle
+        shot("5d-quiz-table-dragged")
+        rule.runOnUiThread { rule.activity.onBackPressedDispatcher.onBackPressed() }
+        rule.waitForIdle()
         text("In circles").performClick()
-        shot("5b-quiz-answered")
-        // Moving on is what feeds the scheduler: a wrong answer puts the lesson in its first learning step.
+        shot("5b-quiz-answered") // wrong answer: the answer's circle appears, the explanation is small
+
+        // The lesson has three more questions: until the last is answered, a swipe does not leave it.
         rule.onAllNodes(isRoot())[0].performTouchInput { swipeUp() }
         rule.waitForIdle()
         rule.mainClock.advanceTimeBy(1500)
         rule.waitForIdle()
-        val vm = rule.activity.viewModel()
-        val card = vm.progress.value.cards.getValue("starter/examples/how-light-travels")
-        assertEquals(Phase.LEARNING, card.phase)
+        assertEquals("how-light-travels", vm.queue[0].item.lesson.id)
+        assertEquals(true, vm.holds(0))
+        text("In circles").assertExists() // still on its question
+        for (answer in listOf("Reflection", "Light changes speed and direction between water and air", "8 minutes")) {
+            text("Next").performClick()
+            rule.waitForIdle()
+            text(answer).performClick()
+            rule.waitForIdle()
+        }
+        shot("5e-quiz-last-answered")
+        assertEquals(false, vm.holds(0))
+        // Answering is what feeds the scheduler: one wrong of four counts as hard, and the lesson is done for now.
         assertEquals(1, vm.progress.value.doneToday)
+        assertEquals(1, vm.progress.value.cards.getValue("starter/examples/how-light-travels").reps)
+        // Now the swipe goes on to the next lesson.
+        rule.onAllNodes(isRoot())[0].performTouchInput { swipeUp() }
+        rule.waitForIdle()
+        rule.mainClock.advanceTimeBy(1500)
+        rule.waitForIdle()
+        rule.waitUntil(10_000) { vm.queue.size >= 3 }
     }
+
+    /** Swiping away from a lesson whose question is unanswered brings it back with the question open. */
+    @Test
+    fun unansweredLessonComesBack() {
+        openFirstLesson()
+        val vm = rule.activity.viewModel()
+        button("All circles").performClick() // the button on the lesson itself, at any time
+        shot("9a-all-circles")
+        assertEquals(false, vm.narrator.state.value.playing)
+        button("Close").performClick()
+        rule.waitForIdle()
+        rule.onAllNodes(isRoot())[0].performTouchInput { swipeUp() }
+        rule.waitUntil(10_000) { rule.onAllNodes(hasText("How does light travel", substring = true)).fetchSemanticsNodes().any { it.boundsInRoot.width > 0 } }
+        shot("9b-held-back-question-open")
+        assertEquals(true, vm.holds(0))
+        assertEquals(0, vm.progress.value.doneToday)
+        button("Quiz").assertDoesNotExist()
+    }
+
+    /** For the tests about other things: lets the feed move on without answering. */
+    private fun letPass() = rule.runOnUiThread { rule.activity.viewModel().run { queue.forEach { pass(it.id) } } }
 
     @Test
     fun secondLessonAndLibrary() {
         openFirstLesson()
+        letPass()
         rule.onAllNodes(isRoot())[0].performTouchInput { swipeUp() }
         rule.waitUntil(10_000) { rule.activity.viewModel().queue.size >= 3 }
         button("Save").performClick()
@@ -236,6 +288,7 @@ class ScreensTest {
         val vm = rule.activity.viewModel()
         rule.runOnUiThread { vm.setStudy(vm.settings.value.study.copy(questionFirst = true)) }
         settle { vm.settings.value.study.questionFirst }
+        letPass()
         rule.onAllNodes(isRoot())[0].performTouchInput { swipeUp() }
         rule.waitUntil(10_000) {
             rule.onAllNodes(hasText("Which brain structure", substring = true)).fetchSemanticsNodes().any { it.boundsInRoot.width > 0 }

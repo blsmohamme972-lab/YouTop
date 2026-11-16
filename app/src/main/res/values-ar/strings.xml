@@ -53,7 +53,7 @@
     <string name="after_ahead">مراجعة مبكرة</string>
     <string name="after_stop">توقّف</string>
     <string name="auto_continue">تشغيل القصة ثم الشرح ثم السؤال تلقائيًا</string>
-    <string name="auto_advance">الانتقال للدرس التالي تلقائيًا</string>
+    <string name="auto_advance">الانتقال تلقائيًا بعد الدرس الذي لا سؤال له</string>
     <string name="shuffle_options">ترتيب عشوائي للإجابات</string>
     <string name="speak_quiz">قراءة الأسئلة بصوت</string>
     <string name="advanced">توقيت متقدّم</string>
@@ -246,4 +246,7 @@
     <string name="study_all_hint">دروس من كل الكتب، مختلطة.</string>
     <string name="sound_on">الصوت</string>
     <string name="sound_off">صامت</string>
+    <string name="all_circles">كل الدوائر</string>
+    <string name="circles">الدوائر</string>
+    <string name="answer_first">أجب عن السؤال أولًا</string>
 </resources>

@@ -90,6 +90,26 @@ class MainViewModel(app: Application) : AndroidViewModel(app) {
     /** A new choice of book is on its way to the feed; nothing of the old feed should start playing meanwhile. */
     private var choosing = false
 
+    /**
+     * Feed entries the learner may swipe past: their question was answered (or they have none that
+     * can be asked). A lesson with a question holds the feed until then.
+     */
+    private val passed = mutableStateMapOf<Long, Boolean>()
+
+    /** A lesson (feed entry id) the learner tried to swipe away unanswered: it opens its question. */
+    val heldBack = MutableSharedFlow<Long>(extraBufferCapacity = 4)
+
+    fun pass(entryId: Long) { passed[entryId] = true }
+
+    /** How far the feed can be swiped: up to and including the first lesson whose question is still unanswered. */
+    fun reachable(): Int {
+        val hold = queue.indexOfFirst { it.item.lesson.questions > 0 && passed[it.id] != true }
+        return if (hold < 0) queue.size else hold + 1
+    }
+
+    /** True when the lesson at [index] must be answered before the feed moves on. */
+    fun holds(index: Int): Boolean = queue.getOrNull(index)?.let { it.item.lesson.questions > 0 && passed[it.id] != true } == true
+
     /** Feed positions the pager should scroll to. */
     val jumps = MutableSharedFlow<Int>(extraBufferCapacity = 1)
 
@@ -322,6 +342,8 @@ class MainViewModel(app: Application) : AndroidViewModel(app) {
         val item = lessons.firstOrNull { it.key == key } ?: return
         val at = if (queue.isEmpty()) 0 else currentIndex + 1
         while (queue.size > at) queue.removeAt(queue.lastIndex)
+        // A lesson picked by hand is opened even when the one on screen is still unanswered.
+        queue.forEach { pass(it.id) }
         queue += FeedEntry(nextId++, item)
         preload(item)
         jumps.tryEmit(at)

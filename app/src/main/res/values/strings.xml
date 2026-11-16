@@ -54,7 +54,7 @@
     <string name="after_ahead">Review early</string>
     <string name="after_stop">Stop</string>
     <string name="auto_continue">Play story, explanation and question in a row</string>
-    <string name="auto_advance">Move to the next lesson automatically</string>
+    <string name="auto_advance">Move on automatically after a lesson without a question</string>
     <string name="shuffle_options">Shuffle answer order</string>
     <string name="speak_quiz">Read questions aloud</string>
     <string name="advanced">Advanced timing</string>
@@ -207,4 +207,7 @@
     <string name="study_all_hint">Lessons from every book, mixed.</string>
     <string name="sound_on">Sound</string>
     <string name="sound_off">Muted</string>
+    <string name="all_circles">All circles</string>
+    <string name="circles">Circles</string>
+    <string name="answer_first">Answer the question first</string>
 </resources>

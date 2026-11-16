@@ -82,7 +82,7 @@ There is no device. `tools/build.sh` runs:
   book that must not stop the other books or lose the copy on the phone.
 - `DashboardTest` — the dashboard's numbers, the lesson search and the backup file.
 - `ScreensTest` — starts the real activity under Robolectric, taps through it and saves a picture
-  of each screen to `app/build/screens/` (English, and the main pages again in Arabic). **Look at those pictures** after any UI change; it is the
+  of each screen (the question, "All circles", the swipe that comes back) to `app/build/screens/` (English, and the main pages again in Arabic). **Look at those pictures** after any UI change; it is the
   only way to see the app. Add a step there for any new screen.
 
 The bundled starter book has no quotation and no question figure. To see real lessons, put a
@@ -95,7 +95,7 @@ something looks wrong on theirs.
 
 ### Map of the code (`app/src/main/java/app/youtop/`)
 
-- `data/Models.kt` — the content format (Book → Chapter → Lesson → Track/Segment/Spot, Question).
+- `data/Models.kt` — the content format (Book → Chapter → Lesson → Track/Segment/Spot, Mark, Question).
 - `data/DriveClient.kt`, `ContentRepository.kt`, `MediaCache.kt` — sync and offline cache. A file
   is referred to as `gh:<path on the content branch>` or, in content from before 1.7,
   `drive:<file id>`; both must keep working. Sync reads `catalog.json` from GitHub and uses the
@@ -115,8 +115,10 @@ something looks wrong on theirs.
   new choice of book or topics restarts the feed on it (`replan(restart = true)`, `generation`).
 - `ui/Theme.kt` (colours and the two typefaces: IBM Plex Sans Arabic for the interface, Amiri for
   stories and quotations; both under the Open Font License, texts in `assets/licenses`).
-- `ui/FeedScreen.kt` (the feed and one lesson, and what the feed says when it is empty),
-  `Spotlight.kt` (spotlight on the whole picture, never zoomed), `QuizOverlay.kt` (question over the picture).
+- `ui/FeedScreen.kt` (the feed and one lesson, the hold on an unanswered lesson, and what the feed
+  says when it is empty), `Spotlight.kt` (spotlight on the whole picture, never zoomed, and the
+  numbered circles), `QuizOverlay.kt` (question over the picture), `Marks.kt` (circle colours and
+  the "All circles" table).
 - `ui/LibraryScreen.kt` — the library: five pages behind a bar at the bottom.
   `HomeTab.kt` (the page the app opens on: today, then each book as a card with its colour bar of
   "times studied" and "Study this book"; its numbers come from `study/Dashboard.kt`), `BooksTab.kt` (shelf,
@@ -169,11 +171,16 @@ under `book/chapter/lesson` on their phone.
   and then for the same on every topic (tag) with a cover picture, counted across books.
 - Smart scheduling is the default since 1.9; lessons studied before it are taken over from their
   interval and ease at their next review (nothing is reset).
-- Ratings are inferred, never asked: right answer = good (fast = easy), wrong = again, watched
-  without answering = hard, quick swipe = nothing.
+- Ratings are inferred, never asked: right answer = good (fast = easy), wrong = again.
+- Since 2.2 a lesson with a question cannot be swiped away unanswered: the page springs back with
+  the question open; once answered the owner swipes on when they want (nothing moves by itself).
+  Only leaving through the library skips a question (watched to the end = hard, otherwise nothing).
+- Since 2.2 the question lies over the picture without hiding it (stem small at the top, options
+  small at the bottom), shows only the circles that belong to it (the answer's after answering), and
+  "All circles" shows every numbered, coloured circle with a draggable English table.
 - The picture is never zoomed or cropped; only a spotlight moves over it, in step with the voice.
 - The Arabic story is a real story with no medical explanation in it; the science is in the
   English explanation (see `docs/content-guide.md`, "The story is a story").
-- Each lesson plays story → explanation → question → next lesson automatically. "Question first"
+- Each lesson plays story → explanation → question automatically, and waits there for the answer. "Question first"
   in Library → Study skips straight to the question.
 - The app is for the owner's personal use and is meant to be as engaging as possible.
