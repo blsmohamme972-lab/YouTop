@@ -1,0 +1,359 @@
+book: shahzad-2015
+# Lessons 56-65. Written "table first" (see the batch of 46-55).
+
+== 56
+# 1 a fire-pump cart hurled forward when its horses stop dead = the heart and arch swing on in a deceleration
+# 2 the red hose from the pump with three brass taps      = the aortic arch and its three branches
+# 3 an iron staple pins the hose to the wall just past the third tap; the hose is torn THERE, a blister held only by its canvas jacket = tear at the isthmus just distal to the left subclavian, contained pseudoaneurysm (ANSWER)
+# 4 a tinsmith sliding a tin sleeve up inside the hose from its far end = an endovascular stent graft has its place
+# 5 the fire captain running first to a barrel bursting in the cellar = other life-threatening bleeding is dealt with first
+# 6 a boy feeding the lower flower beds through a side pipe while the hose is pinched = distal perfusion lowers the risk of paraplegia
+title: Traumatic aortic tear: just past the left subclavian
+titleAr: تمزّق الأبهر الرضّي: بعد تحت الترقوة الأيسر مباشرة
+tags: cardiac/aorta thoracic/trauma d:pathology d:indications q:vignette l:2 x:high-yield
+palette: smoke grey and wet cobbles, brass and one screaming scarlet hose, cold dawn light
+must: the hose has exactly three brass taps and is torn immediately after the third one, at the iron staple that fixes it to the wall; the tear bulges like a blister but does not spray
+scene: a cobbled street at cold dawn. LEFT: a brass fire-pump on a cart is being hurled forward, wheels off the ground, its two horses having stopped dead before a fallen scaffold. From the pump a scarlet canvas hose arches up and across the picture to the right; along the top of the arch it carries three brass taps in a row. CENTRE RIGHT, dominant and larger than life: immediately after the third tap the hose is pinned to a brick wall by one heavy iron staple, and exactly at that staple the hose has torn; it bulges there in a taut, trembling blister held together only by its outer canvas jacket, a fireman staring at it in horror. LOWER RIGHT: a tinsmith kneels at the far end of the hose and slides a shining tin sleeve up inside it. LOWER LEFT: the fire captain in a brass helmet runs away from the hose towards an open cellar door where a barrel is bursting and flooding the steps. BOTTOM CENTRE: a boy holds a thin side pipe that carries water past a clamp on the hose down to a bed of flowers, which stay fresh.
+story:
+عند الفجر البارد، كانت عربة المضخّة تطير في الزقاق، حين سقطت السقالة أمام الخيل.
+وقفت الخيل كأنّها اصطدمت بجدار. أمّا المضخّة النحاسيّة فلم تقف؛ اندفعت إلى الأمام بكلّ ثقلها.
+ومنها يخرج الخرطوم القرمزيّ، يتقوّس عاليًا، وعلى قوسه ثلاثة صنابير من نحاس.
+بعد الصنبور الثالث مباشرة، مسمار حديديّ غليظ يثبّت الخرطوم في الجدار.
+ما كان طليقًا مضى مع المضخّة، وما كان مسمّرًا بقي في مكانه. فانشقّ الخرطوم عند المسمار تمامًا.
+لم ينفجر. انتفخ هناك فقّاعةً مشدودةً ترتجف، لا يمسكها إلّا قميصه الخارجيّ.
+«يا رئيس! الخرطوم يموت بين يديّ!» صاح الإطفائيّ الشابّ.
+«الفقّاعة صامدة الآن، وبرميل القبو ينفجر الآن.» ردّ الرئيس زاخار وهو يركض إلى القبو. «ما يقتل أوّلًا يعالج أوّلًا!»
+وعند طرف الخرطوم البعيد، جثا السمكريّ يدسّ في جوفه كمًّا من صفيح لامع، يصعد من الداخل حتّى الشقّ.
+وصبيّ يسقي أحواض الزهر السفلى بأنبوب جانبيّ، كي لا تذبل والخرطوم مقروص.
+وعلى الحجارة جلس البنّاء الّذي هوى مع السقالة، حيًّا لا يصدّق، وقال:
+quote: «لست أرفض الله، إنّما أردّ إليه بطاقة الدخول بكلّ احترام.»
+source: الإخوة كارامازوف
+explanation:
+In a sudden deceleration the heart and the aortic arch keep moving while the descending aorta is held fast.
+So most deceleration injuries of the aorta occur at the isthmus, just distal to the left subclavian artery, which is the correct statement; the proximal descending aorta accounts for 54 to 64% of them.
+Transection of the ascending aorta is relatively uncommon, about 10%.
+Most victims die at the scene; those who reach hospital survive because the bleeding is contained, as in this pseudoaneurysm.
+A contained tear in a patient who has responded to fluids does not come before other life-threatening bleeding, such as the free fluid in this patient's abdomen.
+Endovascular stent grafting has a place, and graft interposition is not the only approach.
+When the aorta has to be clamped for an open repair, distal perfusion lowers the risk of paraplegia compared with clamping alone.
+
+== 57
+# 1 a red four-roomed house wrapped in a tarpaulin that is filling tight with water, its chimney smoke dying = cardiac tamponade
+# 2 a pike driven through the thick wall of the two big FRONT rooms, which carry many old scars; the small back rooms have none = ventricles are wounded more often than atria (ANSWER)
+# 3 a carpenter closing the thick wall with separate stitches, each over a square felt pad = interrupted pledgeted mattress sutures for the ventricle
+# 4 a girl mending the thin back wall with one running thread = a continuous suture for the atrium
+# 5 two inlet pipes pinched shut beside an hourglass marked 3 = inflow occlusion for less than three minutes
+# 6 a stitch passing BENEATH a red ivy stem on the wall without tying it = mattress sutures under a coronary vessel
+title: Stab wound of the heart: the ventricles take the blade
+titleAr: طعنة القلب: البطينان يتلقّيان النصل
+tags: thoracic/trauma cardiac/other d:technique q:vignette l:2
+palette: one scarlet house against a slate-blue street in rain, grey tarpaulin, white felt pads
+words: 3
+must: the pike is stuck in the FRONT wall of the big front rooms; each of the carpenter's stitches sits on its own square white felt pad; the red ivy stem is not caught by any stitch
+scene: a small scarlet wooden house with four rooms stands alone in a slate-blue street in the rain, seen cut open from the side: two big thick-walled rooms at the front, two small thin-walled rooms at the back. The whole house is wrapped in a grey tarpaulin that has filled with water and squeezes it; the chimney gives only a thread of smoke. FRONT, dominant and larger than life: a long pike has been driven through the thick front wall of the big rooms, and that wall is covered with the scars of many old pike wounds, while the back rooms' walls are smooth and unmarked. A carpenter on a ladder closes the front wound with thick separate stitches, each one tied over its own square white felt pad; a red ivy stem runs across the wall there and his needle passes beneath it without catching it. BACK: a girl mends a small tear in the thin back wall with a single running thread. LOWER LEFT: two water pipes entering the house are pinched shut with clamps, and beside them stands an hourglass marked with the number 3.
+story:
+في زقاق المطر بيت قرمزيّ بأربع غرف: اثنتان كبيرتان سميكتا الجدار في الواجهة، واثنتان صغيرتان رقيقتان في الخلف.
+في تلك الليلة اخترق رمح طويل جدار الواجهة.
+وامتلأ المشمّع الّذي يلفّ البيت ماءً، فضاق عليه وعصره، حتّى خفت دخان المدخنة إلى خيط.
+«دائمًا تصاب الواجهة!» قال الحارس العجوز وهو يعدّ الندوب القديمة. «كلّ الرماح تصيب الغرف الكبيرة. أمّا الخلفيّة فجدارها أملس كخدّ طفل.»
+صعد النجّار ستيبان سلّمه. خاط الجدار السميك غرزةً غرزة، كلّ غرزة وحدها، وتحت كلّ غرزة وسادة من لبّاد أبيض.
+«الجدار السميك يمزّق الخيط العاري. لا بدّ لكلّ غرزة من وسادتها.»
+وعلى الجدار ساق لبلاب أحمر. فأنزل إبرته عميقًا ومرّ من تحتها، ولم يخنقها بخيطه.
+وفي الخلف كانت الصبيّة دونيا ترفو الجدار الرقيق، بخيط واحد جار لا ينقطع.
+وحين انتفخت الغرفة بالماء وشدّت على الغرز، قرصوا أنبوبي الدخول، وقلبوا الساعة الرمليّة: ثلاث دقائق، لا تزيد.
+وفي آخر الزقاق وقف صاحب الرمح ينظر إلى يديه، ويقول:
+quote: «لم أقتل العجوز، بل قتلت نفسي!»
+source: الجريمة والعقاب
+explanation:
+A stab wound beside the lower sternum with hypotension, tachycardia and a raised jugular venous pressure means cardiac tamponade.
+Lacerations of the ventricles are more common than lacerations of the atria, which is the correct statement.
+A ventricular laceration is repaired with 2-0 or 3-0 interrupted pledgeted mattress sutures, not with a continuous 4-0 suture.
+Continuous 4-0 polypropylene is for atrial lacerations.
+A laceration near a coronary vessel is closed with horizontal mattress sutures that run deeper into the myocardium, beneath the vessel, without involving it.
+If a fully distended ventricle strains the sutures, inflow can be occluded by clamping both venae cavae, but only for less than three minutes.
+Pericardiocentesis is not a reliable diagnostic tool; it can help in a shocked patient with tamponade when a thoracotomy cannot be done.
+
+== 58
+# 1 a charred hole low at the FRONT end of the wall between two rooms, a howling draught through it = post-infarction septal defect, antero-apical, new pansystolic murmur
+# 2 the burnt-out front water pipe above it               = occlusion of the left anterior descending artery
+# 3 a boy at once propping the house with the long leather bladder in the channel = intra-aortic balloon pump early
+# 4 a carpenter nailing a patch far wider than the hole onto sound boards = the patch covers the defect and the dead septum around it
+# 5 ten lanterns on the mended house's fence, four of them dark; board 40 = hospital mortality up to 40% even after repair (ANSWER)
+# 6 the unmended twin house: all ten lanterns dark; board 100 = without surgery mortality is 100%
+# 7 a surveyor with rolled maps waved away at the gate    = angiography must not delay surgery
+title: Post-infarction VSD: four in ten die even after repair
+titleAr: ثقب الحاجز بعد الاحتشاء: يموت أربعةٌ من عشرة حتى بعد الإصلاح
+tags: cardiac/coronary d:complications d:evidence q:vignette l:2 x:high-yield
+palette: charcoal black and ash grey with warm lantern gold; the dark lanterns as holes in the light
+words: 40, 100
+must: on the mended house exactly ten lanterns hang in a row and exactly four of them are dark; on the unmended house all ten lanterns are dark
+scene: two identical twin houses side by side the morning after a fire, each seen cut open so that the wall dividing its two rooms is visible. LEFT HOUSE, dominant and larger than life: low at the front end of its dividing wall is a charred hole with a visible howling draught blowing through it; a carpenter is nailing over it a board patch far wider than the hole, reaching onto sound timber; above the hole the house's front water pipe is burnt through. Along this house's fence hang ten lanterns in a row: six burning gold, four dark; a board under them reads 40. In the channel before the house a barefoot boy has blown up a long leather bladder that props the house up. At the gate a surveyor with rolled maps is being waved away by the carpenter's wife. RIGHT HOUSE: the same charred hole, nobody mending it, the house sagging; all ten lanterns on its fence are dark; its board reads 100.
+story:
+بعد الحريق بيوم واحد، سمع أهل البيت عواءً جديدًا في الجدار.
+في الجدار الفاصل بين الغرفتين، في أسفل طرفه الأماميّ، ثقب متفحّم، والرّيح تعوي فيه. وفوقه أنبوب الماء الأماميّ محروق مقطوع.
+لم ينتظر الصبيّ أحدًا. نفخ القربة الطويلة في الساقية، فاستند إليها البيت المترنّح.
+وجاء المسّاح بخرائطه الطويلة. «دعوني أرسم الأنابيب كلّها أوّلًا.»
+فدفعته زوجة النجّار عن الباب. «البيت يسقط يا رجل! لا وقت للخرائط.»
+سمّر النجّار على الثقب رقعةً أوسع منه بكثير. «الخشب حول الثقب رماد. لا أسمّر إلّا في لوح حيّ.»
+وعلى سياج البيت عشرة قناديل، قنديل لكلّ بيت رقّع مثله في المدينة.
+ستّة منها تضيء. وأربعة مطفأة. وتحتها اللوحة: أربعون.
+أمّا البيت التوأم المجاور، فلم يرقّعه أحد. قناديله العشرة كلّها مطفأة، ولوحته: مئة.
+مسح النجّار عرقه، ونظر إلى القناديل الأربعة الّتي لم تنقذها مطرقته، وقال:
+quote: «أشدّ الألم، ربّما ليس في الجراح، بل في أن تعلم علم اليقين، أنّه بعد ساعة، ثمّ بعد عشر دقائق، ثمّ بعد نصف دقيقة، ثمّ الآن، ستفارق الروح الجسد.»
+source: الأبله
+explanation:
+A ventricular septal defect complicates about 1% of myocardial infarctions, and a new pansystolic murmur after an infarct should always raise the possibility.
+It most commonly involves the antero-apical septum, after an anterior infarct with occlusion of the left anterior descending artery, not the posterior septum.
+An intra-aortic balloon pump is a very useful early measure of support; it is not kept until inotropes have failed.
+Coronary angiography is reserved for the haemodynamically stable patient and must not delay surgery.
+The patch is not sewn to the edges of the hole: it covers the defect and a larger portion of the septum, which is often necrotic and friable.
+Despite surgical repair, hospital mortality is still 30 to 40%, which is the correct statement.
+Without surgery mortality is 100%.
+
+== 59
+# 1 a steep hill split by a gully down its FRONT and another down its back = the heart with its anterior and posterior interventricular grooves
+# 2 a red-coated runner coming DOWN the front gully       = the left anterior descending artery
+# 3 beside him a giant in a blue coat hauling a sledge of dirty water barrels UP the same gully = the great cardiac vein drains the anterior interventricular groove (ANSWER)
+# 4 a middle-sized blue carter in the back gully          = the middle cardiac vein, posterior groove
+# 5 a small blue boy with a pail along the right rim, beside another red runner = the small cardiac vein with the right coronary artery
+# 6 one great blue cistern at the back where all three empty = the coronary sinus
+# 7 pinholes in the hillside dribbling straight into the pond = Thebesian veins
+title: The great cardiac vein drains the front groove
+titleAr: الوريد القلبي الكبير يصرّف الأخدود الأمامي
+tags: cardiac/foundations d:anatomy q:recall l:1
+palette: ochre hill under a white sky, with only two colours on it: scarlet runners and cobalt-blue carriers
+must: the blue giant is by far the largest figure and is in the FRONT gully, side by side with the red runner; the three blue figures are clearly large, middle-sized and small
+scene: a steep ochre hill seen from the front, split from top to bottom by a deep gully down its front face. FRONT GULLY, dominant and larger than life: a red-coated runner comes down it carrying a torch, and beside him, going the other way, a giant in a cobalt-blue coat hauls a sledge of dirty water barrels up the gully, straining, by far the biggest figure in the picture. Over the RIGHT rim of the hill a small boy in blue with a single pail walks beside another red-coated runner. Glimpsed over the LEFT shoulder of the hill, on the far side, a middle-sized man in blue leads a cart down a second gully at the back. TOP of the hill, at the back: one great cobalt-blue stone cistern into which the giant's path, the boy's path and the cart's path all lead. BOTTOM: a still pond at the hill's right foot, and tiny pinholes in the hillside above it from which thin threads of water dribble straight into the pond.
+story:
+لتلّ المغرة أخدودان: واحد يشقّ وجهه من القمّة إلى السفح، وآخر يشقّ ظهره.
+في أخدود الوجه ينزل العدّاء القرمزيّ بمشعله، يحمل النار إلى أهل التلّ.
+وإلى جانبه، كتفًا إلى كتف، يصعد عملاق في معطف أزرق. يجرّ زلّاجةً محمّلةً ببراميل الماء العكر.
+«إلى أين يا عمّي أوستاب؟» سأله العدّاء. «أنا أنزل بالنّار، وأنت تصعد بالوحل!»
+«ما تتركه نارك من رماد أنا أحمله.» قال العملاق وهو يلهث. «هذا الأخدود الأماميّ كلّه على كتفيّ أنا.»
+وعلى ظهر التلّ، في الأخدود الخلفيّ، رجل أزرق متوسّط القامة يقود عربته.
+وعلى الحافّة اليمنى صبيّ أزرق صغير بسطل واحد، يمشي بجوار عدّاء قرمزيّ آخر.
+كبير وأوسط وصغير. وثلاثتهم يفرغون حمولتهم في صهريج أزرق واحد عظيم، على ظهر التلّ.
+أمّا الثقوب الصغيرة في السفح، فتقطر في البركة مباشرة، ولا تستأذن أحدًا.
+وقف العدّاء يتأمّل العملاق المنحني تحت براميله، وتذكّر وصيّة الشيخ الناسك:
+quote: «أحبّوا كلّ خلق الله، كلّه، وكلّ حبّة رمل فيه. أحبّوا كلّ ورقة، وكلّ شعاع من نور الله.»
+source: الإخوة كارامازوف
+explanation:
+The anterior interventricular groove is a fat-filled depression between the two ventricles; it contains the left anterior descending artery and the great cardiac vein.
+The vein of this groove, the anterior interventricular vein, becomes the great cardiac vein at the base of the heart, in the left atrioventricular groove; so the great cardiac vein is the answer.
+The middle cardiac vein follows the posterior interventricular groove and drains into the coronary sinus.
+The small cardiac vein drains the right ventricle and runs in the coronary sulcus with the right coronary artery, emptying into the coronary sinus or the middle cardiac vein.
+The coronary sinus is where these veins end; it does not lie in the anterior groove.
+The Thebesian veins are small veins that drain directly into the right atrium and ventricle.
+
+== 60
+# 1 the front attic of a house where three strangers have settled = the anterior mediastinum, commonest place outside the gonads
+# 2 a jolly hoarder whose sack spills hair, teeth and a doll's arm, carried out whole by two porters = teratoma: the commonest benign one, treated by resection
+# 3 a pale, smooth snow-man melting away to nothing in the beam of a great lantern = seminoma: very radiosensitive, radiotherapy first, the better cure rate (ANSWER)
+# 4 a motley gang under a yellow flag with the letter A, an apothecary pouring them a black draught = non-seminoma: AFP raised, chemotherapy
+# 5 no yellow flag anywhere near the snow-man             = any rise in AFP excludes a pure seminoma
+# 6 a sweeper with a shovel waiting for whatever is left   = surgery only for a residual mass
+title: Mediastinal germ cell tumours: the seminoma melts in the rays
+titleAr: أورام الخلايا الجنسية في المنصف: السيمينوما تذوب تحت الأشعّة
+tags: thoracic/mediastinum d:pathology d:indications q:recall l:2
+palette: dusty attic browns, one blinding white lantern beam, snow white, and a single mustard-yellow flag
+words: A
+must: the snow-man stands directly in the lantern beam and is visibly melting into a puddle; the yellow flag with the letter A is held only by the gang on the other side
+scene: the front attic of an old house, under the rafters. CENTRE, dominant and larger than life: a pale, perfectly smooth snow-man stands in the blinding white beam of a great brass lantern held by a lamplighter, and is melting fast, half of him already a shining puddle on the boards; the lamplighter smiles. LEFT: two porters carry out through the attic door a fat, jolly hoarder sitting on his own bulging sack, from which hair, teeth and a doll's arm spill out. RIGHT: a motley gang of four ragged, differently dressed ruffians huddle under a mustard-yellow flag bearing the letter A, while an apothecary in black pours a black draught into their cups. BACK, by the chimney: a sweeper leaning on a shovel, waiting.
+story:
+في علّيّة البيت الأماميّة، حيث لا ينبغي أن يسكن أحد، نزل ثلاثة غرباء، ضلّوا الطريق إلى موطنهم البعيد.
+الأوّل مكتنز ضحوك، يقعد على كيسه المنتفخ، ومن فم الكيس يتساقط شعر وأسنان وذراع دمية.
+لم يؤذ أحدًا. فحمله الحمّالان على كيسه كما هو، وأخرجاه من الباب. وانتهى أمره.
+والثّاني رجل من ثلج. شاحب أملس، لا علم له ولا صوت.
+رفع مشعل القناديل فيلات فانوسه العظيم في وجهه.
+فما إن لمسه الشعاع حتّى أخذ يذوب. نصفه صار بركةً لامعةً على الألواح، والنّصف الآخر في الطريق.
+«هذا أطوعهم للضّوء!» ضحك فيلات. «لا مبضع ولا سمّ. الشعاع وحده يكفيه.»
+أمّا الثالث فليس واحدًا، بل عصابة من أربعة لا يتشابهون، تحت علم أصفر عليه حرف واحد.
+هؤلاء لا يذيبهم فانوس. صبّ لهم الصيدليّ شرابًا أسود في كؤوسهم. «حيث يرفع العلم الأصفر، لا يكون رجل الثلج وحده.»
+وعند المدخنة وقف الكنّاس بمجرفته، ينتظر ما يبقى بعد الضوء والشّراب.
+نظر فيلات إلى الغرباء الثلاثة بلا ضغينة، وقال:
+quote: «أحبّوا الآخرين كما تحبّون أنفسكم. هذا هو الأهمّ، وهذا كلّ شيء، ولا حاجة إلى شيء سواه.»
+source: حلم رجل مضحك
+explanation:
+Germ cell tumours normally arise in the gonads; outside them their commonest site is the anterior mediastinum, where they make up 20% of tumours.
+Teratomas are the most common benign germ cell tumours of the mediastinum, and their treatment is complete surgical resection.
+Malignant tumours are seminomas or non-seminomas, and the distinction decides treatment and prognosis.
+Seminomas are very radiosensitive, so radiotherapy is their first-line treatment, and they have the better cure rate, which is the correct statement.
+Non-seminomas, that is yolk sac tumours, choriocarcinomas, embryonal cell carcinomas and teratocarcinomas, are treated with chemotherapy.
+Any rise in alpha-fetoprotein excludes a pure seminoma; raised AFP, LDH and beta-hCG point to a mixed or non-seminomatous tumour.
+In either malignant group surgery is reserved for a residual mass after radiotherapy or chemotherapy.
+
+== 61
+# 1 a baker's table in a house where a girl has just been born = a newborn with a cystic malformation of one lobe
+# 2 a loaf torn open to show HUGE holes, so light that it floats up and lifts the baby's basket like a balloon = type I: cysts over 1 cm, the commonest, favourable prognosis (ANSWER)
+# 3 a loaf with small even holes lying on the table        = type II: cysts under 1 cm
+# 4 a dense loaf with pin-holes, heavy as a stone, cracking the table and dragging its corner down = type III: tiny cysts with a solid part, poor survival
+# 5 steam whistling out of the big holes through a reed pipe = the cysts communicate with the bronchial tree
+# 6 the kneading trough overflowing with water over the floor = polyhydramnios
+# 7 a loaf still swaddled in a wet cloth, looking solid    = at birth the radiograph can look solid until the fluid clears
+title: Congenital cystic lung malformation: big cysts do better
+titleAr: التشوّه الكيسي الخلقي في الرئة: الأكياس الكبيرة أرحم
+tags: thoracic/lung-benign d:pathology q:vignette l:3 x:trap
+palette: warm flour white and crust gold in a dawn-lit bakery, with the blue of spilt water on the floor
+must: the loaf with the huge holes is floating in the air and holding up the baby's basket by its ribbons; the dense loaf is on the table and the table is cracking under it
+scene: a village bakery at dawn. CENTRE, dominant and larger than life: a great round loaf torn open to show enormous holes floats in the air like a balloon, and from it by ribbons hangs a wicker basket in which a newborn girl sleeps peacefully, lifted clear of the floor; steam whistles out of the loaf's big holes through a reed pipe stuck in its crust. On the baker's table below: a second loaf cut open to show small, even holes; and beside it a third loaf, dense and dark with only pin-holes, so heavy that the table is cracking under it and its corner sinks. A fourth loaf lies swaddled in a wet white cloth, looking like a solid stone. The baker, white with flour, stares up at the floating loaf with his mouth open. LOWER LEFT: the wooden kneading trough overflows, and blue water spreads across the floor.
+story:
+في الفجر ولدت للخبّاز نيكيتا بنت، وفي الفجر نفسه خرجت أرغفته من الفرن على غير عادتها.
+فاض معجن الخشب بالماء، حتّى سال أزرق على أرض المخبز.
+شقّ نيكيتا الرغيف الأوّل، فإذا في جوفه ثقوب هائلة، يصفر منها البخار في قصبة مغروسة في قشرته.
+«فسد خبزي كلّه! ثقوب يدخل فيها قبضة يدي.»
+لكنّ الرغيف ذا الثقوب الهائلة خفّ حتّى طفا في الهواء. ورفع معه بأشرطته سلّة المولودة، وهي نائمة لا تدري.
+على المائدة رغيف ثان، ثقوبه صغيرة منتظمة. لا يطير ولا يغرق.
+وإلى جانبه رغيف ثالث داكن مصمت، ثقوبه كوخز الإبر. ثقيل كالحجر، حتّى تشقّقت المائدة تحته.
+ورغيف رابع ما زال ملفوفًا في خرقته المبتلّة. يبدو صخرةً صمّاء، ولن يعرف ما في جوفه حتّى يجفّ.
+«لا تخف من الثقب الكبير يا نيكيتا.» قالت الجدّة. «خف من الرغيف الّذي لا ثقب فيه.»
+حدّق الخبّاز في ابنته المعلّقة برغيفها الطائر، وضحك وبكى، وقال:
+quote: «أوافق على أنّ اثنين في اثنين أربعة شيء ممتاز. لكن إن كنّا نمدح كلّ شيء، فإنّ اثنين في اثنين خمسة، لشيء لطيف جدًّا أحيانًا.»
+source: رسائل من تحت الأرض
+explanation:
+In congenital cystic adenomatoid malformation, hamartomatous change of the terminal bronchioles forms cysts, usually in one lobe.
+The cysts communicate with the rest of the bronchial tree.
+It can present with polyhydramnios, not oligohydramnios.
+A chest radiograph at birth can mislead: the cysts may look solid until their fluid is absorbed and they fill with air, so CT makes the diagnosis and defines the extent.
+In the Stocker classification type I lesions have cysts larger than 1 cm; they are the most common and, despite their pressure effects, have a favourable prognosis, so large lesions do better than small ones, which is the correct statement.
+Type II cysts are smaller than 1 cm, and type III cysts, under 0.5 cm with a solid component and usually involving the whole lobe, carry a poor survival.
+Not every lesion is resected: without symptoms surgery may wait under CT follow-up, some lesions resolve, and those that grow or cause symptoms are removed, usually by lobectomy.
+
+== 62
+# 1 a small thyme bush sitting neatly in its glazed pot, tag 99 = an encapsulated thymoma, Masaoka stage I: 10-year survival 99%
+# 2 a giant thyme bush that has burst its pot and wound itself round the house's two great pipes, one blue, one red = thymoma invading the great vessels, stage III
+# 3 the gardener first drenching it from a black watering can so that it shrivels, his shears still on his belt = neoadjuvant chemotherapy before resection (ANSWER)
+# 4 a new length of blue pipe lying ready beside the strangled blue pipe = a thymoma in the superior vena cava can be resected and the vein rebuilt
+# 5 a maid with drooping eyelids, too weak to lift her broom = myasthenia gravis (a thymoma in 5-15% of such patients)
+title: Thymoma on the great vessels: chemotherapy first
+titleAr: الورم التوتي على الأوعية الكبيرة: العلاج الكيميائي أولًا
+tags: thoracic/mediastinum d:indications q:vignette l:2 x:guideline
+palette: grey-green thyme and slate, with one cobalt-blue pipe, one red pipe and a jet-black watering can
+words: 99
+must: the gardener is pouring from the black watering can onto the giant bush and his shears hang unused on his belt; the giant bush is wound round both the blue pipe and the red pipe
+scene: the front hall of an old house, just inside the door. CENTRE, dominant and larger than life: a monstrous grey-green thyme bush has burst its clay pot and wound its woody arms tightly round two great pipes that run up the wall, one cobalt blue and one red, squeezing the blue one flat. A gardener in a leather apron is drenching the bush from a jet-black watering can, and where the black water falls the branches shrivel and loosen; his big shears hang unused on his belt. On the floor beside the blue pipe lies a new length of blue pipe, ready. LEFT, on a windowsill: a small neat thyme bush sits in a glazed pot with a paper tag reading 99. RIGHT: a pale maid with heavily drooping eyelids leans on the wall, her broom slipping from her limp fingers.
+story:
+في ردهة البيت، خلف الباب مباشرة، كبرت شجيرة الزعتر حتّى صارت وحشًا.
+حطّمت أصيصها، ولفّت أذرعها الخشبيّة حول أنبوبي البيت العظيمين، الأزرق والأحمر، حتّى انسحق الأزرق بين أصابعها.
+وعلى النافذة أختها الصغيرة، ما زالت مهذّبةً في أصيصها المزجّج. وعلى بطاقتها: تسعة وتسعون.
+دخل البستانيّ بروخور، ومقصّه الكبير معلّق في حزامه.
+«اقطعها الآن يا بروخور!» توسّلت الخادمة أكولينا، وجفناها متهدّلان، والمكنسة تسقط من يدها الواهنة.
+«لو قطعتها الآن لقطعت الأنبوبين معها.» قال بروخور، ولم يمسّ مقصّه.
+رفع إبريق السقي الأسود أوّلًا، وأغرق الوحش بمائه الأسود.
+فذبلت الأغصان وانكمشت، وأرخت قبضتها عن الأنبوبين.
+«الآن فقط يأتي دور المقصّ. وإن لم ينج الأنبوب الأزرق، فهذه القطعة الجديدة تنتظر مكانه على الأرض.»
+نظر بروخور إلى الأنبوبين الأسيرين، اللذين لم يطلبا من الدنيا إلّا أن يتركا حرّين، وقال:
+quote: «ليس للإنسان همّ أشدّ عذابًا، من أن يجد من يسلّمه بأسرع ما يمكن، هبة الحرّيّة الّتي ولد بها.»
+source: الإخوة كارامازوف
+explanation:
+Thymomas are the most common tumours of the anterior mediastinum.
+Masaoka staging follows local extension: stage I is encapsulated, and complete resection gives a 10-year survival of 99%, not 50 to 60%.
+Stage III is macroscopic invasion of the pericardium, the lung or the great vessels.
+Total thymectomy is the treatment of choice; for stage III with involvement of the great vessels, and for stage IVa, neoadjuvant chemoradiotherapy is given first, which is the correct statement.
+A thymoma that invades the superior vena cava can still be resected by extended thymectomy, and the vein is reconstructed with a synthetic graft.
+A tissue biopsy is needed only when the clinical, biochemical and radiological features are not conclusive.
+Thymomas are found in 5 to 15% of patients with myasthenia gravis, not 40%.
+
+== 63
+# 1 a rotten length of chimney pipe high in a tower being lifted out = the diseased oesophagus resected
+# 2 a leather wineskin in the cellar cut and rolled into a long tube that must reach up the tower = the gastric conduit
+# 3 two red ribbons kept on the tube's RIGHT side; cut ribbons dangling on its left = it lives on the right gastric and right gastroepiploic arteries; the left gastric and left gastroepiploic are divided
+# 4 the tube is a hand too short; a COOK unpins the C-shaped iron hook that holds its foot to the wall, slides it to the middle, and now it reaches = the Kocher manoeuvre gives the extra length (ANSWER)
+# 5 a workman already busy in the cellar while the tower ladder stands empty = the abdominal part is done first
+# 6 a small notch cut in the tube's outlet ring            = pyloromyotomy to help emptying
+title: Gastric conduit too short? The Kocher manoeuvre
+titleAr: أنبوب المعدة قصير؟ مناورة كوخر
+tags: thoracic/oesophagus d:technique q:vignette l:3
+palette: cool stone tower greys, warm tan leather, two bright red ribbons, the cook's white hat as the brightest spot
+must: a cook in a tall white hat is pulling a large C-shaped iron hook out of the wall at the lower end of the leather tube; the two red ribbons are on the right side of the tube only
+scene: the inside of a tall stone tower seen in section from cellar to roof. HIGH UP: two masons lift out a rotten, crumbling length of chimney pipe, leaving a gap. From the cellar a long tube of tan leather, rolled from a cut-open wineskin, rises up the tower towards the gap, and its top stops one hand's breadth short of it. Along the RIGHT side of the leather tube run two bright red ribbons, alive and taut; on its left side several cut red ribbons dangle. BOTTOM, dominant and larger than life: at the tube's lower end a cook in a tall white hat and apron is pulling a large C-shaped iron hook out of the cellar wall, the hook that held the foot of the tube back, and sliding the foot towards the middle of the floor, so that the whole tube rises. Beside him a workman is already at work in the cellar with his tools while the tall ladder up the tower stands empty. The tube's outlet ring at the bottom has one small notch cut in it.
+story:
+في أعلى البرج الحجريّ قطعة من أنبوب المدخنة نخرها العفن. فرفعها البنّاءان وتركا مكانها فجوة.
+وفي القبو قربة من جلد. شقّوها ولفّوها أنبوبًا طويلًا، ليصعد في البرج ويسدّ الفجوة.
+«ابدؤوا من القبو أوّلًا.» أمر المعلّم كارب، والسّلّم الطويل واقف فارغًا. «من يصعد قبل أن ينظر تحت قدميه، يصعد عبثًا.»
+على يمين الأنبوب الجلديّ شريطان أحمران مشدودان، منهما حياته. أمّا أشرطة يساره فقطعت وتدلّت.
+صعد الأنبوب وصعد. ثمّ وقف دون الفجوة بشبر واحد.
+شدّوه فلم يطل. ولو شدّوه أكثر لانقطع شريطاه الأحمران.
+عندئذ نزل إلى القبو طبّاخ البرج، بقبّعته البيضاء العالية.
+«لا تشدّوا من فوق. العقدة هنا في الأسفل.» وانتزع من الجدار الكلّاب الحديديّ المعقوف، الّذي كان يمسك قدم الأنبوب.
+انزلقت القدم نحو الوسط، فارتفع الأنبوب كلّه، وبلغ الفجوة وزاد. وفي حلقة مخرجه حزّ صغير، كي لا يحبس ما يمرّ فيه.
+مسح الطبّاخ يديه بمئزره، غير مبال بالتّصفيق، وقال:
+quote: «الإنسان، ربّما مثل لاعب الشطرنج، لا يحبّ إلّا السعي إلى الغاية، لا الغاية نفسها.»
+source: رسائل من تحت الأرض
+explanation:
+The gastric conduit is made by dividing the left gastroepiploic and short gastric vessels and the left gastric artery; it then lives on the right gastric and right gastroepiploic arteries.
+When more length is needed, the Kocher manoeuvre, freeing the attachments of the first and second parts of the duodenum, lets the pylorus move towards the midline and gives the conduit additional length, which is the correct statement.
+A pyloromyotomy is commonly added to help gastric emptying after the vagotomy.
+In an Ivor-Lewis oesophagectomy the abdominal part is done first, to look for metastases that imaging did not show.
+The transhiatal approach avoids a thoracotomy and suits distal tumours and patients with respiratory problems; when locally advanced disease needs resection under direct vision with a complete lymphadenectomy, the Ivor-Lewis procedure is used.
+Tumours of the upper third need a cervical approach as well as a thoracotomy and a laparotomy, the McKeown oesophagectomy.
+
+== 64
+# 1 a brand-new glass-and-iron arcade into which the town's red crowd has just been turned = the bypass circuit, a surface that is not endothelium
+# 2 townspeople in heavy winter coats streaming in          = heparinised blood and its plasma proteins
+# 3 a lanky rope-maker, first of all, flinging himself flat against the glass and twisting into a new shape; medal 1 = fibrinogen is the first protein adsorbed and changes its conformation (ANSWER)
+# 4 behind him, arriving later: a fat egg-seller, a boy with 8 on his cap, a man with shears, a monk with the letter C = albumin, factor VIII, plasmin, protein C adsorb afterwards
+# 5 at the far end old figures peeling off the glass and new ones taking their places = adsorbed proteins desorb and are replaced
+title: Bypass circuit: fibrinogen sticks first
+titleAr: دارة المجازة: الفيبرينوجين أوّل اللاصقين
+tags: cardiac/cpb d:physiology q:recall l:2
+palette: cold glass green and iron black, a crowd in dark red, one figure in raw hemp yellow
+words: 1, 8, C
+must: the rope-maker is pressed flat against the glass wall ahead of everyone else, his body bent into an odd new shape, coils of rope round him, a medal with the number 1 on his chest
+scene: a brand-new arcade of glass and black iron, empty and gleaming, into which a crowd in dark red winter coats is pouring from the left. FOREGROUND RIGHT, dominant and larger than life: ahead of everyone, a lanky rope-maker in raw hemp yellow has flung himself flat against the glass wall, arms and legs spread, his body twisting into a strange new shape, coils of rope looped round him; on his chest a medal with the number 1. Behind him, still running and not yet touching the glass: a fat woman with a basket of white eggs, a boy with the number 8 on his cap, a man holding garden shears, and a monk whose robe bears the letter C. FAR END of the arcade: grey figures who stuck to the glass earlier are peeling off it like old posters, and new figures are stepping into their places.
+story:
+افتتح في المدينة رواق جديد من زجاج وحديد. جدرانه لامعة باردة، لم تلمسها يد قطّ.
+وفتحت الأبواب، فتدفّق إليه نهر من الناس بمعاطفهم الحمراء الداكنة.
+الجدران الغريبة تغري باللّمس. كلّ واحد منهم سيلتصق بها في النهاية. لكن من الأوّل؟
+سبقهم جميعًا فتّال الحبال فادّي، النحيل الطويل، بثوبه الأصفر ولفائف حباله.
+رمى نفسه على الزجاج، وانبسط عليه بذراعيه وساقيه. ثمّ التوى جسده واتّخذ هيئةً لم يعرفها من قبل.
+«أنا الأوّل! ولست بعد اليوم من كنت.» صاح، وعلى صدره الوسام رقم واحد.
+ومن ورائه يركض المتأخّرون: بائعة البيض السمينة، والصّبيّ ذو القبّعة رقم ثمانية، وصاحب المقصّ، والرّاهب الّذي على ردائه حرف.
+«سبقنا النحيل مرّةً أخرى!» لهثت بائعة البيض. «نحن أكثر منه عددًا، وهو دائمًا أسبق.»
+وفي آخر الرواق، كان الّذين التصقوا قبل ساعة يتقشّرون عن الزجاج كالملصقات القديمة، ويأخذ مكانهم قادمون جدد.
+ألصق فادّي خدّه بالزّجاج البارد، ونظر إلى الجمع الزاحف نحوه، وقال:
+quote: «أنا وحدي، وهم الجميع.»
+source: رسائل من تحت الأرض
+explanation:
+When heparinised blood meets a surface that is not endothelium, such as the bypass circuit, plasma proteins are instantly adsorbed onto it and form a protein layer.
+Fibrinogen is the first protein to be adsorbed, and it rapidly undergoes conformational change; fibrinogen is the answer.
+How much of each protein is adsorbed depends on its concentration in plasma and on the surface activity of the material.
+All proteins adsorb to some extent, albumin among them.
+With time the adsorbed proteins desorb or are degraded, and are replaced by new ones.
+
+== 65
+# 1 little waiters in a tavern, each carrying a stack of small plates, each with a badge 4 = platelets with platelet factor 4
+# 2 a slippery black eel coiled round one waiter's badge   = heparin bound to platelet factor 4
+# 3 the tavern's own mastiffs savaging only the waiters that carry an eel; broken plates everywhere = antibodies against the heparin/PF4 complex: the platelets fall
+# 4 wine spurting from the barrels with nobody to stop it  = bleeding
+# 5 the innkeeper wheeling in a barrow of fresh plates, which are pressed onto the leaks = give platelets for HIT-associated bleeding (ANSWER)
+# 6 the eel barrel nailed shut and the wedding garlands being taken down = stop heparin; postpone elective surgery
+title: Bleeding in heparin-induced thrombocytopenia: give platelets
+titleAr: النزف في نقص الصفيحات بالهيبارين: أعطِ الصفيحات
+tags: cardiac/perioperative d:pharmacology d:complications q:recall l:2
+palette: tavern amber and oak brown, wine crimson, china white plates, one glistening black eel
+words: 4
+must: the innkeeper's barrow is piled with clean white plates and a plate is being pressed over a spurting barrel hole; the mastiffs attack only a waiter who has a black eel coiled round his chest
+scene: the hall of a country tavern prepared for a wedding. CENTRE, dominant and larger than life: the innkeeper wheels in a barrow piled high with clean white plates, and his wife presses one of the plates over a hole in a great barrel from which crimson wine was spurting; other barrels along the wall still spurt wine with nobody to stop them. LEFT: two of the tavern's own mastiffs have pulled down a small waiter; a glistening black eel is coiled round the brass badge on his chest, a badge bearing the number 4, and his stack of plates lies smashed on the floor; a second small waiter with no eel walks past the dogs untouched, his plates whole. RIGHT: a large barrel of eels is being nailed shut by a potboy. BACK: two maids on a ladder take down the wedding garlands.
+story:
+في حانة العرس ندل صغار، يحمل كلّ منهم رزمةً من الصحون الصغيرة، وعلى صدره شارة نحاسيّة رقمها أربعة.
+بصحونهم تسدّ ثقوب البراميل. لولاهم لسال النبيذ كلّه على الأرض.
+ثمّ جيء إلى الحانة ببرميل الأنقليس. وانسلّ أنقليس أسود لزج، والتفّ حول شارة أحد الندل.
+كلاب الحانة تعرف ندلها وتحبّهم. لكنّها ما إن رأت النادل والأنقليس معًا، حتّى جنّت وانقضّت عليه.
+تحطّمت الصحون. أمّا النادل الّذي لا أنقليس عليه، فمرّ بالكلاب سالمًا.
+ولم يبق من يسدّ الثقوب. فانبجس النبيذ القاني من البراميل نافورات.
+«سمّروا برميل الأنقليس!» أمر صاحب الحانة سيدور. «وأنزلوا أكاليل العرس. لا عرس اليوم.»
+ثمّ دفع عربته إلى القاعة، محمّلةً بصحون بيضاء جديدة. وضغطت زوجته صحنًا على الثقب النازف، فسكت.
+«لا شمع ولا خرق. الثقب الّذي ينقصه صحن، لا يسدّه إلّا صحن.»
+نظر سيدور إلى كلابه الّتي مزّقت خدم بيتها، وهزّ رأسه، وقال:
+quote: «أفضل تعريف للإنسان: كائن يمشي على قدمين، وجاحد.»
+source: رسائل من تحت الأرض
+explanation:
+Heparin-induced thrombocytopenia occurs in about 5% of patients receiving heparin.
+Antibodies are directed against the complex of heparin and platelet factor 4.
+Cardiac patients receive heparin routinely and can be sensitised even by small amounts of heparin flush.
+The platelet count falls, and if heparin is stopped the platelets recover.
+The diagnosis can be confirmed by platelet aggregation in the presence of the patient's serum, and elective cardiac surgery should be postponed.
+If the patient is bleeding from the thrombocytopenia, the treatment is to give platelets, which is the answer.
+Cryoprecipitate, fresh frozen plasma and vitamin K replace clotting factors, which are not what is missing, and warfarin is an anticoagulant.
+note: When there is no bleeding, platelet transfusion is generally avoided in heparin-induced thrombocytopenia; the question asks only about the bleeding patient.
+
