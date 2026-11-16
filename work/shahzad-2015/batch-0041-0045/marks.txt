@@ -1,0 +1,40 @@
+book: shahzad-2015
+== 42
+1: 50 15 13 | Dark round hole high under the cornice | Supracristal VSD: high in the outlet septum, under the aortic and pulmonary valves
+2: 25 13 9 | The number 7 chalked on the wall | Least common VSD in the West: about 5 to 7%
+3: 58 17 8 | Dust streaming through the hole | Fast left-to-right shunt creates a Venturi effect
+4: 67 27 13 | Red curtain dragged into the hole | Right coronary cusp is pulled in: aortic insufficiency
+5: 13 66 13 | Boy at the three-leaved side door | Not seen through the right atrium; tricuspid valve not involved
+6: 93 45 10 | Staircase to the upper gallery | Usually approached through the pulmonary artery
+7: 47 82 10 | Bell wire low on the wall | Conduction tissue lies inferior to the defect
+question: 1
+answer: 2
+== 43
+1: 14 13 10 | House number 15 over the door | The gene lies on chromosome 15
+2: 31 22 14 | Tall thin weaver with spidery fingers | Autosomal dominant: one affected parent is enough
+3: 52 44 9 | Silver thread in the children's hands | Fully penetrant: every carrier shows it, each differently
+4: 46 10 9 | Eldest son, head at the ceiling beam | Tall stature
+5: 58 32 7 | Spectacle lens slipped out of place | Ectopia lentis
+6: 73 50 11 | Waterskin with a swollen neck | Aortic root dilatation, with a risk of dissection
+7: 67 18 11 | Frayed spool numbered 1 on the loom | Fibrillin-1 (FBN1): microfibrils of the lens ligament and the aorta
+8: 90 21 10 | Crier's horn marked with a beta | TGF-beta signalling: the final common pathway
+question: 2
+answer: 3
+== 44
+1: 45 70 28 | Street map: one trunk, three streets | Coronary lesions suitable for both CABG and PCI
+2: 88 30 14 | Old engineer with his road plans | CABG: strongest recommendation for almost every pattern
+3: 15 31 13 | Young tinsmith gripping a small ring | PCI with a stent
+4: 55 49 12 | Ledger open at 33 | SYNTAX 33 or more, left main, three-vessel disease: CABG
+5: 49 62 8 | Start of the middle street | Proximal LAD involved: CABG
+6: 28 28 9 | Clerk's hand pointing at the tinsmith | 1- or 2-vessel disease without proximal LAD: PCI is first choice
+question: 1
+answer: 6
+== 45
+1: 14 20 14 | Sluice keeper gripping the shut gate | ADH keeps acting: the kidney goes on retaining water
+2: 26 60 10 | Scale pointer below the line at 135 | Dilutional hyponatraemia: sodium below 135 mmol/L
+3: 88 66 8 | Gutter spout with one thin trickle | Urine inappropriately concentrated (over 100) and still losing sodium
+4: 85 14 11 | Dry loaves on the high shelf | Serum bicarbonate stays normal
+5: 50 42 21 | Old soldier unmoved in swirling water | Serum potassium remains unchanged
+6: 12 86 12 | Salt sacks dissolving in the flood | Everything is diluted: anion gap reduced, urea low
+question: 1 2
+answer: 5
