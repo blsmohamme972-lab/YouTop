@@ -1,0 +1,176 @@
+book: shahzad-2015
+# Written "table first": under each question the '#' lines list the picture's elements and the fact
+# each stands for (they become the lesson's marks once the picture exists). The story lines come
+# from voice.txt (tools/content/voice.py fill), so text and recorded voice are one source.
+
+== 41
+# 1 watchman striking the iron rail      = QRS: ventricular depolarisation starts the phase
+# 2 blacksmith crushing the bellows      = ventricular contraction, pressure rising
+# 3 double door slamming, big leaf first = mitral then tricuspid close (ANSWER)
+# 4 two boys holding the leaves by ropes = papillary muscles and chordae
+# 5 chimney door still shut, bellows taut= all valves closed, volume unchanged, max dP/dt
+# 6 old woman counting one knock         = first heart sound
+title: Mitral valve closes in isovolumetric contraction
+titleAr: الصمام التاجي يُغلق في الانقباض متساوي الحجم
+tags: cardiac/foundations d:physiology q:recall l:1 x:high-yield
+palette: cold blue snow dawn through the window, the smithy lit by one blaze of orange forge fire
+scene: inside a snowbound village smithy at dawn. CENTRE, dominant and larger than life: a huge bearded blacksmith with bare arms crushing an enormous leather bellows against his chest with both arms; the bellows is swollen and stretched tight like a drum. LEFT: a tall double door whose two leaves are slamming shut inward, the left leaf large and the right leaf small; two frightened boys each pull a thick rope tied to one leaf, holding it from swinging outward. RIGHT: a small iron chimney door, shut tight, a rim of orange glow around its edges. UPPER LEFT, seen through a frosted window: a watchman in a greatcoat striking a hanging length of iron rail with a hammer. LOWER RIGHT corner: a very old woman on a stool, one hand cupped behind her ear, the other hand raising a single finger.
+story:
+في فجر أزرق، في حدادة القرية الغارقة في الثلج، وقف الحدّاد ماكار ينتظر الإشارة.
+ضرب الحارس سكّة الحديد ضربةً واحدةً حادّة، فانتفض كلّ من في الحدادة.
+أطبق ماكار ذراعيه على المنفاخ العظيم، وعصره عصرًا.
+فاندفعت الريح في جوفه، وصفقت باب الدخول ذا المصراعين: المصراع الأيسر الكبير أوّلًا، ثمّ الأيمن الصغير بعده بطرفة عين.
+«شدّوا الحبال!» صاح الصبيّان، وتشبّثا بحبلين مربوطين بالمصراعين، كي لا ينقلبا إلى الخارج.
+أمّا باب المدخنة في الطرف الآخر فظلّ موصدًا. فانحبست الريح، وتوتّر جلد المنفاخ كالطّبل، ولم ينقص من حجمه شيء.
+في الزاوية جلست الجدّة أغافيا، ثقيلة السمع، تعدّ على أصابعها. «الطرقة الأولى! هذه هي الأولى.»
+«لا باب مفتوحًا الآن، لا للدّاخل ولا للخارج.» زمجر ماكار، والعرق يسيل على جبينه. «الآن فقط تعرف قوّتي!»
+وحين بلغ الضغط أشدّه، انفتح باب المدخنة دفعةً واحدة، وتوهّج الجمر.
+مسح ماكار جبينه، ونظر إلى الصبيّين المرتجفين، وقال:
+quote: «العذاب هو المصدر الوحيد للوعي.»
+source: رسائل من تحت الأرض
+explanation:
+The QRS complex marks ventricular depolarisation and starts the phase of isovolumetric contraction.
+As the ventricle contracts, its pressure rises above atrial pressure and the mitral and tricuspid valves close.
+The mitral valve closes just before the tricuspid, so the first heart sound is normally split by about 0.04 seconds.
+The papillary muscles contract with the ventricle and, through the chordae tendineae, stop the leaflets from bulging back into the atria.
+With the aortic valve still shut, all valves are closed: pressure climbs at its fastest rate, maximal dP/dt, while the volume does not change.
+Closure of the atrioventricular valves is heard as the first heart sound, S1.
+Ejection begins only when ventricular pressure exceeds aortic pressure and the aortic valve opens.
+So the mitral valve closes in isovolumetric contraction, not during atrial contraction, which is the last part of filling.
+
+== 42
+# 1 hole high under the cornice between two halls = supracristal VSD, high in the outlet septum
+# 2 chalk tally 7 on the wall                     = least common type in the West, 5-7% (ANSWER)
+# 3 wind rushing left hall to right               = fast left-to-right shunt, Venturi effect
+# 4 right curtain of the three sucked into hole   = right coronary cusp prolapses, aortic insufficiency
+# 5 boy at the three-leaved side door sees nothing= not seen through right atrium / tricuspid valve
+# 6 stair to the upper gallery                    = approached through the pulmonary artery
+# 7 bell wire low on the wall                     = conduction tissue lies inferior
+title: Supracristal VSD: the rarest, and it pulls the aortic cusp
+titleAr: الفتحة فوق العُرف: أندرها، وتسحب شرفة الأبهر
+tags: cardiac/congenital d:anatomy d:technique q:recall l:2
+palette: dusty ochre and plaster white, one shaft of pale light, a single deep red curtain
+words: 7
+scene: a high crumbling plastered wall inside an old widow's house, dividing a left hall from a right hall. UPPER CENTRE, dominant: a dark round hole high in the wall just under the carved cornice, with a visible gust of dust streaming through it from left to right. A plasterer on a tall ladder beside it, trowel in hand, pointing at the hole. Chalked large on the wall near him: the number 7. Right beside the hole: a grand doorway hung with three heavy curtains; the right-hand curtain, deep red, is dragged sideways with its edge sucked into the hole. An old widow in black wrings her hands under that doorway. LOWER LEFT: a small side door with three narrow leaves, a boy leaning through it looking up, puzzled, shading his eyes. FAR RIGHT: a narrow wooden staircase climbing to an upper gallery. ALONG THE BOTTOM of the wall: a thin bell wire running to a small brass bell, far below the hole.
+story:
+في بيت الأرملة القديم ثقب في الجدار، عال تحت الإفريز، بين القاعة اليسرى والقاعة اليمنى.
+جاء المبيّض إيليا ليسدّه. وقد سدّ في المدينة مئة ثقب، فلم يجد في هذا العلوّ إلّا سبعة.
+«سبعة من مئة.» تمتم إيليا. «أندر الثقوب وأخبثها.»
+كانت الريح تندفع من القاعة اليسرى إلى اليمنى، سريعةً كالسّهم.
+وبجوار الثقب تمامًا، باب عظيم بثلاث ستائر. فشدّت الريح الستارة اليمنى شدًّا، حتّى انسحب طرفها في الثقب.
+«بابي لم يعد يغلق!» ناحت الأرملة. «كلّ ما يخرج منه يعود إليه.»
+دخل الصبيّ من الباب الجانبيّ ذي المصاريع الثلاثة، كعادة العمّال، ونظر طويلًا. «لا أرى ثقبًا يا معلّم!»
+«لن تراه من هناك. اصعد من درج الشرفة العليا.»
+ثمّ أشار إيليا إلى سلك الجرس الممدود في أسفل الجدار، بعيدًا تحت الثقب. «والسّلك في أمان. هنا أضرب بلا خوف.»
+نزل عن سلّمه، ونفض الجير عن كفّيه، ونظر إلى الستارة الأسيرة، وقال:
+quote: «كلّ شيء في يد الإنسان، وهو يدع كلّ شيء يفلت منه، من الجبن وحده.»
+source: الجريمة والعقاب
+explanation:
+A supracristal, or doubly committed, ventricular septal defect lies high in the outlet septum, just beneath the aortic and pulmonary valves.
+It is the least common type in the Western Hemisphere, about 5 to 7% of ventricular septal defects.
+Blood shunting from left to right through it at speed creates a Venturi effect.
+That pull draws aortic valve tissue, usually the right coronary cusp, into the defect, so aortic insufficiency commonly develops.
+The defect is not near the tricuspid valve, which takes no part in closing it, and it may not be seen through the standard right atriotomy.
+It is usually approached through the pulmonary artery instead.
+Conduction tissue lies inferior to the defect, away from the sutures, unless a large defect extends down into the perimembranous septum.
+
+== 43
+# 1 house number 15 over the door            = gene on chromosome 15
+# 2 tall thin weaver, spider fingers, short wife = autosomal dominant: one affected parent is enough
+# 3 every child holding the thread is marked, each differently = fully penetrant, variable expression (ANSWER)
+# 4 tallest son / slipped spectacle lens / girl's waterskin with swollen neck = tall stature, ectopia lentis, aortic root dilatation
+# 5 spool numbered 1 with frayed slack thread on the loom = fibrillin-1 (FBN1), microfibrils
+# 6 crier blowing a horn marked with the letter β = TGF-beta signalling, final common pathway
+title: Marfan syndrome: dominant and fully penetrant
+titleAr: متلازمة مارفان: سائدة وكاملة النفاذ
+tags: cardiac/aorta d:pathology q:recall l:2
+palette: warm candle amber on dark walnut wood, with one long silver thread catching the light
+words: 15, 1, β
+scene: a family posing for a portrait painter in a weaver's cottage. CENTRE, dominant: a very tall, very thin weaver with extremely long spidery fingers, holding one long silver thread that runs through the hands of his children. Beside him his short, sturdy wife, counting the children on her fingers. The children who hold the thread: the eldest son so tall his head touches the ceiling beam; the middle son wearing spectacles with one lens slipped out of place; the youngest daughter hugging a leather waterskin whose neck is swollen as if about to split. Two other children stand apart, ordinary, not holding the thread. Over the door, large: the house number 15. BEHIND THEM: a wooden loom with a big spool marked with the number 1, its thread frayed and slack. AT THE WINDOW, right: a town crier blowing a brass horn engraved with the letter β. FAR LEFT: the painter at his easel, arm raised.
+story:
+في البيت رقم خمسة عشر، وقف النسّاج الطويل تيموفي مع أولاده أمام الرسّام.
+كان هو وحده طويلًا نحيلًا، أصابعه كأرجل العنكبوت. أمّا زوجته فقصيرة كسائر النساء.
+«واحد منّا يكفي.» قالت الزوجة وهي تعدّ الأولاد. «نصفهم ورث خيطه.»
+وكلّ من ورث الخيط ظهر عليه؛ ما أفلت منهم واحد. لكنّ الخيط لم يرسم على اثنين منهم الرسم نفسه.
+فالبكر طال حتّى لامس السقف. والأوسط انزلقت عدسة نظّارته عن موضعها. والصّغرى تحمل قربةً انتفخ عنقها حتّى كاد ينشقّ.
+وعلى النول خلفهم بكرة كتب عليها الرقم واحد، وخيطها مهترئ رخو؛ منه تنسج شباك البيت كلّها.
+وعند النافذة مناد ينفخ في بوق نقش عليه حرف غريب، يصيح بلا انقطاع، ولا يسكته أحد.
+«قف مستقيمًا يا تيموفي!» صاح الرسّام.
+«لا أستطيع أن أخفي شيئًا. من حمل خيطي حمل علامتي.»
+ثمّ ضمّ الصغرى إلى صدره، ونظر إلى قربتها المنتفخة، وقال:
+quote: «الجمال سينقذ العالم.»
+source: الأبله
+explanation:
+The gene of Marfan syndrome lies on chromosome 15, not 13.
+The syndrome is transmitted as an autosomal dominant trait, so one affected parent is enough and each child has a one in two chance.
+It is fully penetrant: everyone who carries the mutation shows the disease, though its features vary widely between families and within one family.
+Typical features are tall stature with long fingers, ectopia lentis, mitral valve prolapse, and aortic root dilatation that can end in dissection.
+The gene is fibrillin-1, FBN1, not fibrillin-2: fibrillin builds the microfibrils of the lens's suspensory ligament and the scaffold for elastin in the aorta.
+Abnormal signalling through transforming growth factor beta, TGF-beta, not vascular endothelial growth factor, appears to be the final common pathway.
+
+== 44
+# 1 map: three streets and the front avenue    = coronary anatomy, lesions suitable for both
+# 2 old engineer, builder of side roads        = CABG
+# 3 young tinsmith with one small metal ring   = PCI (stent)
+# 4 clerk's ledger open at 33; the great trunk = SYNTAX >= 33, left main, three-vessel: CABG
+# 5 head of the front avenue                   = proximal LAD: CABG
+# 6 clerk raising two fingers                  = 1- or 2-vessel disease without proximal LAD: the only place PCI is superior (ANSWER)
+title: CABG or PCI: the one case where PCI wins
+titleAr: المجازة أم القسطرة: الحالة الوحيدة التي تفوز فيها القسطرة
+tags: cardiac/coronary d:evidence d:indications q:recall l:2 x:guideline
+palette: deep green baize and candle gold in a dark council chamber, rain-blue windows
+words: 33
+scene: a town council chamber at night during a flood, rain on the tall windows. CENTRE, dominant: a long table covered by a large hand-drawn street map showing one thick trunk road dividing into three streets, the front avenue drawn boldest. STANDING BEHIND THE TABLE, larger than life: a clerk holding up two fingers of one hand, his other hand on an open ledger where the number 33 is written large. RIGHT of the table: an old white-bearded engineer, calm, a roll of road plans under his arm and a surveyor's chain at his feet. LEFT of the table: a red-faced young tinsmith in a leather apron gripping one small shining metal ring in his fist. The clerk's two raised fingers point toward the young tinsmith.
+story:
+اجتمع مجلس المدينة في ليلة الفيضان، وعلى المائدة خريطة بثلاثة شوارع، تتقدّمها الجادّة الأماميّة.
+عن يمين المائدة جلس المهندس الشيخ غريغوري، باني الطرق الجانبيّة. وعن يسارها السمكريّ الفتى فانيا، وفي كفّه حلقة صغيرة من معدن.
+فتح الكاتب سجلّه وقرأ الأحكام. «الجذع الكبير الّذي يتفرّع منه كلّ شيء: للمهندس.»
+«الشوارع الثلاثة معًا: للمهندس. وكلّ خراب بلغ في السجلّ ثلاثةً وثلاثين: للمهندس.»
+«ورأس الجادّة الأماميّة: للمهندس.»
+احمرّ وجه الفتى، وشدّ على حلقته حتّى ابيضّت أصابعه.
+ثمّ رفع الكاتب إصبعين. «إلّا حالةً واحدة. شارعان فقط، ورأس الجادّة سليم: هذه للسّمكريّ وحلقته.»
+«واحدة!» صاح فانيا. «لكنّها لي!»
+ابتسم الشيخ غريغوري، ودفع إليه الخريطة بيده المعروقة، وقال:
+quote: «مئة أرنب لا تصنع حصانًا، ومئة شبهة لا تصنع دليلًا.»
+source: الجريمة والعقاب
+explanation:
+The 2010 guidelines of the European Society of Cardiology compared CABG and PCI for lesions suitable for both, in patients with low predicted operative mortality.
+CABG received the strongest recommendation for almost every anatomical pattern.
+That includes left main disease, three-vessel disease, and above all complex disease with a SYNTAX score of 33 or more.
+It also includes one- or two-vessel disease that involves the proximal left anterior descending artery.
+The single exception is one- or two-vessel disease without proximal LAD involvement: there PCI is the first choice and CABG has only a weak recommendation.
+A low SYNTAX score makes PCI an acceptable alternative in left main or three-vessel disease, but it does not make PCI superior.
+note: These are the guidelines the book refers to; later ESC guidelines changed details, but complex disease and proximal LAD disease still favour surgery.
+
+== 45
+# 1 stubborn sluice keeper gripping the shut gate = ADH acting when it should be off: water retained
+# 2 salt seller, sacks dissolved, scale under 135 = dilutional hyponatraemia, sodium < 135
+# 3 gutter outside: thin dark salty trickle       = urine inappropriately concentrated (> 100), sodium still lost (> 20)
+# 4 baker's loaves dry on the high shelf          = bicarbonate unchanged
+# 5 old soldier Kuzma unmoved in the swirling water = potassium unchanged (ANSWER; K for Kuzma)
+title: SIADH: sodium falls, potassium stays
+titleAr: فرط الهرمون المضادّ لإدرار البول: الصوديوم يهبط والبوتاسيوم ثابت
+tags: cardiac/perioperative d:physiology d:diagnosis q:recall l:2
+palette: murky green-grey flood water under lantern yellow, one soldier's coat in faded scarlet
+words: 135
+scene: a flooded tavern cellar, water up to the knees, lit by hanging lanterns. CENTRE, dominant and larger than life: an old soldier in a faded scarlet greatcoat standing rigidly at attention, musket at his shoulder, the water swirling in rings around his legs while he does not move. UPPER LEFT, through an arch: a stubborn sluice keeper with both hands clamped on the wheel of a shut wooden sluice gate, water piled high behind it. LEFT foreground: a weeping woman salt seller, her sacks half dissolved in the water, holding up a brass balance scale whose pointer has dropped below a painted line marked 135. RIGHT: a tavern keeper shouting toward the sluice keeper with one arm flung out. HIGH on the right wall: a shelf with a neat row of dry round loaves, untouched. LOWER RIGHT, at a barred window: a gutter spout letting out only one thin dark thread of water.
+story:
+غمر الماء قبو الحانة حتّى الركب، وحارس السدّ العنيد ما زال قابضًا على بوّابته، لا يرفعها.
+«ارفعها يا رجل! لقد شبعنا ماءً!» صاح صاحب الحانة.
+لكنّ الحارس لم يسمع. وظلّ الماء يحبس، والقبو يمتلئ.
+بكت بائعة الملح: ذابت أكياسها في السيل، وهبط لسان ميزانها تحت الخطّ المرسوم عند مئة وخمسة وثلاثين. «حسائي صار ماءً بلا طعم!»
+ومن العجب أنّ المزراب في الخارج لم يخرج إلّا خيطًا رفيعًا داكنًا مالحًا، والقبو غارق.
+على الرفّ العالي بقيت أرغفة الخبّاز كما هي، جافّةً لم ينقص منها رغيف.
+وفي وسط القبو وقف الجنديّ العجوز كوزما في نوبته، والماء يدور حوله، وهو لا يتزحزح شبرًا.
+«كلّ شيء هنا رقّ وذاب، إلّا أنا. أنا كما كنت.»
+نظر إليه صاحب الحانة مبهوتًا، ثمّ ضرب جبهته بكفّه وقال:
+quote: «أقسم لكم يا سادة، إنّ الإفراط في الوعي مرض، مرض حقيقيّ تامّ.»
+source: رسائل من تحت الأرض
+explanation:
+In SIADH antidiuretic hormone goes on acting when it should be switched off, so the kidney keeps retaining water.
+The retained water dilutes the serum: a sodium below 135 mmol/L with a serum osmolality below 280 mOsm/kg defines the syndrome.
+Yet the urine is inappropriately concentrated, usually above 100 mOsm/kg, and goes on losing sodium, usually more than 20 mmol/L.
+Serum bicarbonate stays within the reference range.
+Serum potassium concentration generally remains unchanged, which is the correct answer.
+The anion gap is reduced, not increased, because sodium and chloride are diluted equally while bicarbonate is unaffected.
+Blood urea nitrogen is unusually low, typically below 10 mg/dL, because urea is diluted in the expanded body water.
