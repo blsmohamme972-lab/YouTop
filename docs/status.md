@@ -75,8 +75,7 @@ table sits **under** the picture, **fixed**, its rows scrolling. Built, APK hand
   with `content/voices.json` (see the skill, step 6): one audio file per track, parts made one by
   one, joined with chosen pauses, each sentence's start written as `t`.
 - **Lessons 41-45 are published** this way (story: narrator + characters; explanation: one English
-  voice), written "table first" (elements = facts as `#` lines in `batch.txt`). No pictures yet:
-  the owner was sent `image-prompts-41-45.json`. Work files: `work/shahzad-2015/batch-0041-0045/`.
+  voice), written "table first" (elements = facts as `#` lines in `batch.txt`). The owner made the pictures from `image-prompts-41-45.json` (see below). Work files: `work/shahzad-2015/batch-0041-0045/`.
 - **Nobody has heard these files.** A session cannot listen. Not known: whether the vowelling is
   right everywhere, whether "old" voices (slower, lower pitch; the service has no aged voices)
   convince, whether the pauses feel natural, whether Vivienne and Thalita (French and Portuguese
@@ -89,11 +88,10 @@ table sits **under** the picture, **fixed**, its rows scrolling. Built, APK hand
 - Not done: the automatic check of the audio by speech recognition (planned, not built); voice for
   lessons 11-30 (phone voice) and the English explanations of 1-40; whether to replace the owner's
   own recordings of 1-10 and 31-40 (they did not say).
-- **Pictures 42-45 arrived and are published** (2026-11-16) with spots and marks (6 to 8 each;
+- **Pictures 41-45 arrived and are published** (2026-11-16) with spots and marks (6 to 8 each;
   `spots.txt`, `marks.txt` in the batch's work folder). All four match their stories; in 44 the
   clerk points one finger at the tinsmith where the story says he raises two fingers (left as is).
-  **Picture 41 was not in the Drive folder**: the owner was told; when it arrives do
-  `batch.py pictures`, spots and marks for 41 from its `#` table.
+  Picture 41 arrived a little later and is published the same way (6 marks).
 - Ideas discussed and not built, for quality at low cost: a fixed cast of characters per concept, a
   symbol dictionary (same fact, same symbol), a style sheet from sentences the owner likes, a cheap
   reviewing agent, a verified quotation bank. The owner listened and moved on to the voice.
