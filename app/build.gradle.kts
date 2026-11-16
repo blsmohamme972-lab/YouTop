@@ -15,8 +15,8 @@ android {
         applicationId = "app.youtop"
         minSdk = 26
         targetSdk = 35
-        versionCode = 13
-        versionName = "2.2"
+        versionCode = 14
+        versionName = "2.3"
 
         // Where lessons are published: the `content` branch of this repository (see docs/content-guide.md).
         buildConfigField("String", "CONTENT_URL", "\"${providers.gradleProperty("youtop.contentUrl").getOrElse("")}\"")

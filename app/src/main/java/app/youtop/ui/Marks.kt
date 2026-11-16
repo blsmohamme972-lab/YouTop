@@ -3,7 +3,12 @@ package app.youtop.ui
 import androidx.compose.foundation.background
 import androidx.compose.foundation.border
 import androidx.compose.foundation.clickable
-import androidx.compose.foundation.gestures.detectDragGestures
+import androidx.compose.foundation.gestures.detectTapGestures
+import androidx.compose.foundation.layout.ColumnScope
+import androidx.compose.foundation.layout.fillMaxHeight
+import androidx.compose.foundation.layout.navigationBarsPadding
+import androidx.compose.foundation.rememberScrollState
+import androidx.compose.foundation.verticalScroll
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.BoxWithConstraints
@@ -86,10 +91,10 @@ fun MarkBadge(number: Int, modifier: Modifier = Modifier) {
 }
 
 /**
- * "All circles": a small translucent table of every numbered circle — its number in its colour,
- * what is in the picture, and what that stands for. Always English and left to right, whatever
- * the phone's language. It floats over the lesson and is dragged with a finger when it covers
- * something; a tap on a row singles out that circle.
+ * "All circles": the table of every numbered circle — its number in its colour, what is in the
+ * picture, and what that stands for. Always English and left to right, whatever the phone's
+ * language. It is fixed under the picture (which moves up to make room, see [DockShare]) and its
+ * rows scroll; a tap on a row singles out that circle.
  */
 @Composable
 fun MarksTable(
@@ -97,92 +102,75 @@ fun MarksTable(
     selected: Int?,
     onSelect: (Int?) -> Unit,
     onClose: () -> Unit,
-    /** Where the table first appears, as a share of the free height (0 = top, 1 = bottom). */
-    startBias: Float,
     modifier: Modifier = Modifier,
 ) {
     CompositionLocalProvider(LocalLayoutDirection provides LayoutDirection.Ltr) {
-        BoxWithConstraints(modifier.fillMaxSize()) {
-            val density = LocalDensity.current
-            val edge = with(density) { 8.dp.toPx() }
-            val top = with(density) { 36.dp.toPx() }
-            val w = constraints.maxWidth.toFloat()
-            val h = constraints.maxHeight.toFloat()
-            var size by remember { mutableStateOf(IntSize.Zero) }
-            // Null until the learner has moved it: until then it sits where [startBias] puts it.
-            var moved by remember { mutableStateOf<Offset?>(null) }
-            fun clamp(o: Offset) = Offset(
-                o.x.coerceIn(edge, (w - size.width - edge).coerceAtLeast(edge)),
-                o.y.coerceIn(top, (h - size.height - edge).coerceAtLeast(top)),
-            )
-            val start = clamp(Offset((w - size.width) / 2f, top + (h - size.height - top - edge) * startBias))
-            val at = moved?.let(::clamp) ?: start
+        DockPanel(modifier.semantics { contentDescription = "All circles table" }) {
             val closeLabel = stringResource(R.string.close)
-
-            Column(
-                Modifier
-                    .offset { IntOffset(at.x.roundToInt(), at.y.roundToInt()) }
-                    .alpha(if (size == IntSize.Zero) 0f else 1f)
-                    .widthIn(max = 372.dp)
-                    .onSizeChanged { size = it }
-                    .clip(RoundedCornerShape(18.dp))
-                    .background(Ink.copy(alpha = 0.66f))
-                    .border(1.dp, Color.White.copy(alpha = 0.16f), RoundedCornerShape(18.dp))
-                    .pointerInput(Unit) {
-                        detectDragGestures { change, drag ->
-                            change.consume()
-                            moved = clamp((moved ?: start) + drag)
-                        }
-                    }
-                    .semantics { contentDescription = "All circles table" }
-                    .padding(start = 10.dp, end = 6.dp, bottom = 8.dp),
-            ) {
-                // The grip says "drag me"; the cross closes.
-                Box(Modifier.fillMaxWidth().height(26.dp)) {
-                    Box(Modifier.align(Alignment.Center).width(34.dp).height(4.dp).clip(CircleShape).background(Color.White.copy(alpha = 0.38f)))
-                    Box(
-                        Modifier.align(Alignment.CenterEnd).size(26.dp).clip(CircleShape).clickable(onClickLabel = closeLabel, onClick = onClose),
-                        contentAlignment = Alignment.Center,
-                    ) {
-                        Icon(Icons.Rounded.Close, closeLabel, tint = Color.White.copy(alpha = 0.8f), modifier = Modifier.size(16.dp))
-                    }
+            val head = TextStyle(fontFamily = Ui, fontSize = 10.sp, lineHeight = 13.sp, fontWeight = FontWeight.SemiBold, letterSpacing = 0.8.sp, textDirection = TextDirection.Ltr)
+            Row(Modifier.padding(start = 14.dp, end = 6.dp, top = 6.dp), verticalAlignment = Alignment.CenterVertically, horizontalArrangement = Arrangement.spacedBy(10.dp)) {
+                Text("#", color = Faint, style = head, modifier = Modifier.width(22.dp).padding(start = 7.dp))
+                Text("IN THE PICTURE", color = Faint, style = head, modifier = Modifier.weight(0.40f))
+                Text("STANDS FOR", color = Faint, style = head, modifier = Modifier.weight(0.60f))
+                Box(
+                    Modifier.size(34.dp).clip(CircleShape).background(Color.White.copy(alpha = 0.10f)).clickable(onClickLabel = closeLabel, onClick = onClose),
+                    contentAlignment = Alignment.Center,
+                ) {
+                    Icon(Icons.Rounded.Close, closeLabel, tint = Color.White, modifier = Modifier.size(18.dp))
                 }
-                val head = TextStyle(fontFamily = Ui, fontSize = 9.sp, lineHeight = 12.sp, fontWeight = FontWeight.SemiBold, letterSpacing = 0.8.sp, textDirection = TextDirection.Ltr)
-                Row(Modifier.padding(end = 6.dp, bottom = 3.dp), horizontalArrangement = Arrangement.spacedBy(8.dp)) {
-                    Text("#", color = Faint, style = head, modifier = Modifier.width(20.dp).padding(start = 6.dp))
-                    Text("IN THE PICTURE", color = Faint, style = head, modifier = Modifier.weight(0.40f))
-                    Text("STANDS FOR", color = Faint, style = head, modifier = Modifier.weight(0.60f))
-                }
+            }
+            Column(Modifier.weight(1f).verticalScroll(rememberScrollState()).padding(start = 14.dp, end = 14.dp, bottom = 10.dp)) {
                 marks.forEachIndexed { i, mark ->
                     val number = i + 1
                     val colour = markColor(number)
                     val on = selected == number
-                    Box(Modifier.fillMaxWidth().padding(end = 4.dp).height(1.dp).background(Color.White.copy(alpha = 0.09f)))
+                    Box(Modifier.fillMaxWidth().height(1.dp).background(Color.White.copy(alpha = 0.09f)))
                     Row(
                         Modifier
                             .fillMaxWidth()
-                            .padding(end = 4.dp)
-                            .clip(RoundedCornerShape(8.dp))
-                            .background(if (on) colour.copy(alpha = 0.20f) else Color.Transparent)
+                            .clip(RoundedCornerShape(10.dp))
+                            .background(if (on) colour.copy(alpha = 0.18f) else Color.Transparent)
                             .clickable { onSelect(if (on) null else number) }
-                            .padding(vertical = 5.dp),
-                        horizontalArrangement = Arrangement.spacedBy(8.dp),
+                            .padding(vertical = 8.dp),
+                        horizontalArrangement = Arrangement.spacedBy(10.dp),
                     ) {
-                        MarkBadge(number)
+                        MarkBadge(number, Modifier.padding(start = 1.dp))
                         Text(
                             mark.what, color = colour,
-                            style = TextStyle(fontFamily = Ui, fontSize = 11.5.sp, lineHeight = 15.sp, fontWeight = FontWeight.SemiBold, textDirection = TextDirection.Ltr),
+                            style = TextStyle(fontFamily = Ui, fontSize = 13.sp, lineHeight = 18.sp, fontWeight = FontWeight.SemiBold, textDirection = TextDirection.Ltr),
                             modifier = Modifier.weight(0.40f),
                         )
                         Text(
                             mark.means, color = Color.White.copy(alpha = 0.94f),
-                            style = TextStyle(fontFamily = Ui, fontSize = 11.5.sp, lineHeight = 15.sp, textDirection = TextDirection.Ltr),
+                            style = TextStyle(fontFamily = Ui, fontSize = 13.sp, lineHeight = 18.sp, textDirection = TextDirection.Ltr),
                             modifier = Modifier.weight(0.60f),
                         )
                     }
                 }
-                Spacer(Modifier.height(1.dp))
             }
         }
+    }
+}
+
+/**
+ * The fixed panel under a docked picture: the bottom [DockShare] of the screen, clear of the
+ * phone's own buttons. What does not fit scrolls inside it; nothing of it lies over the picture.
+ */
+@Composable
+fun DockPanel(modifier: Modifier = Modifier, content: @Composable ColumnScope.() -> Unit) {
+    Box(Modifier.fillMaxSize()) {
+        Column(
+            modifier
+                .align(Alignment.BottomCenter)
+                .fillMaxWidth()
+                .fillMaxHeight(DockShare)
+                .clip(RoundedCornerShape(topStart = 22.dp, topEnd = 22.dp))
+                .background(Surface1)
+                .border(1.dp, Color.White.copy(alpha = 0.10f), RoundedCornerShape(topStart = 22.dp, topEnd = 22.dp))
+                // Touches on the panel are the panel's: they never reach the picture behind it.
+                .pointerInput(Unit) { detectTapGestures { } }
+                .navigationBarsPadding(),
+            content = content,
+        )
     }
 }

@@ -19,8 +19,8 @@ the owner says and for screenshots.
   `Question.marks` = numbers shown while the question is asked, `Question.answerMarks` = numbers that
   appear once it is answered. Colours by number: `MarkColors` in `ui/Marks.kt`, same list in `batch.py`.
 - **"All circles"**: button on the lesson's rail ("Circles") and in the question. Shows every numbered
-  circle and a translucent English table (# | in the picture | stands for) that is dragged with a
-  finger; tapping a row singles out its circle. It pauses the narration.
+  circle and an English table (# | in the picture | stands for; since 2.3 fixed under the picture,
+  see below); tapping a row singles out its circle. It pauses the narration.
 - **No lesson left unanswered** (`FeedScreen.kt`, `MainViewModel.reachable/holds/pass/heldBack`): the
   pager ends at the first lesson whose question is unanswered; a swipe there pulls the page a little,
   it springs back and the question opens. A lesson with several questions holds until the last is
@@ -40,9 +40,31 @@ the owner says and for screenshots.
   spring-back, Arabic phone layout of the question (the table itself is always left-to-right English).
 - New lessons need marks too: `batch.py marks` (see the skill, step 5). Lessons 21-30 have none (no pictures).
 
+### 2.3 (versionCode 14), same day: what the owner found on their phone in 2.2, fixed
+
+The owner sent two screenshots of 2.2: the floating table covered half the picture while the top of
+the screen stood empty; after an answer a long stem, five options and the explanation covered the
+picture and its circles. They asked for: on "Circles" the picture goes up, the texts above it go, the
+table sits **under** the picture, **fixed**, its rows scrolling. Built, APK handed over 2026-11-16:
+
+- **Docked picture** (`SpotlightImage(docked = …)`, `DockShare` = 43 % of the height): with the
+  table open, or once a question is answered, the picture moves up under the status bar and
+  shrinks, whole, to sit above a fixed panel (`DockPanel` in `Marks.kt`). Nothing lies over it.
+- The table is that panel (no longer dragged); its rows scroll. Opened from a question it replaces
+  the question until closed.
+- After an answer the panel holds: the stem as one line (tap = all of it), the right option, the
+  wrong pick if any, the whole explanation (scrolls), and "Watch / Next review / Next" fixed at the
+  bottom. The other options are not shown again.
+- Before the answer the owner's layout stays (stem top, options bottom, over the picture), but a
+  stem longer than three lines is cut with "More" / "Less". A question's circle can still lie
+  under the translucent options there; if the owner minds, dock the picture before the answer too.
+- Lesson learned: the owner's phone shows long stems and bigger type than the starter book; look at
+  real long lessons (1, 36) seeded for a moment before handing an APK over. Done for 2.3; still not
+  run on a real phone.
+
 ## App
 
-- **2.2 (versionCode 13)** is on `main` (see above); before it 2.1 (versionCode 12), handed to the
+- **2.3 (versionCode 14)** is on `main` (see above); before it 2.2 and 2.1 (versionCode 12), handed to the
   owner on 2026-11-16 (the third APK that day, after 1.9 and 2.0). A screenshot they sent later that day shows 2.0 or 2.1 running on
   their phone with a real lesson (buttons with names, "Home" at the top right).
 - New in 2.1, asked for by the owner: **progress by topic across books.** On the Topics page every

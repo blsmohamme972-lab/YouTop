@@ -249,4 +249,7 @@
     <string name="all_circles">كل الدوائر</string>
     <string name="circles">الدوائر</string>
     <string name="answer_first">أجب عن السؤال أولًا</string>
+    <string name="whole_question">السؤال كاملًا</string>
+    <string name="show_all">المزيد</string>
+    <string name="show_less">أقل</string>
 </resources>

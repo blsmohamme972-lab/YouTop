@@ -210,4 +210,7 @@
     <string name="all_circles">All circles</string>
     <string name="circles">Circles</string>
     <string name="answer_first">Answer the question first</string>
+    <string name="whole_question">Whole question</string>
+    <string name="show_all">More</string>
+    <string name="show_less">Less</string>
 </resources>
