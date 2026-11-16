@@ -89,7 +89,11 @@ table sits **under** the picture, **fixed**, its rows scrolling. Built, APK hand
 - Not done: the automatic check of the audio by speech recognition (planned, not built); voice for
   lessons 11-30 (phone voice) and the English explanations of 1-40; whether to replace the owner's
   own recordings of 1-10 and 31-40 (they did not say).
-- When pictures 41-45 arrive: `batch.py pictures`, spots, then `batch.py marks` from the `#` tables.
+- **Pictures 42-45 arrived and are published** (2026-11-16) with spots and marks (6 to 8 each;
+  `spots.txt`, `marks.txt` in the batch's work folder). All four match their stories; in 44 the
+  clerk points one finger at the tinsmith where the story says he raises two fingers (left as is).
+  **Picture 41 was not in the Drive folder**: the owner was told; when it arrives do
+  `batch.py pictures`, spots and marks for 41 from its `#` table.
 - Ideas discussed and not built, for quality at low cost: a fixed cast of characters per concept, a
   symbol dictionary (same fact, same symbol), a style sheet from sentences the owner likes, a cheap
   reviewing agent, a verified quotation bank. The owner listened and moved on to the voice.
