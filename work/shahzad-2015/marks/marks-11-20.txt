@@ -1,0 +1,111 @@
+book: shahzad-2015
+# Per circle:  <number>: x y r | what is in the picture | what it stands for   (English only)
+
+== 11
+1: 52 50 20 | Old stoker in bed under a thick grey felt | Malignant pleural mesothelioma: a thick rind of tumour over the chest
+2: 28 25 18 | Young doctor brandishing a big saw | Radical surgery (extrapleural pneumonectomy): better prognosis was never confirmed
+3: 78 32 19 | Old doctor peeling off one strip of felt | Pleurectomy/decortication: the lesser operation, outcome equal or better
+4: 45 33 13 | Brass scale labelled MARS | MARS trial: weighed radical surgery and found no benefit from extrapleural pneumonectomy
+5: 14 8 12 | The big lantern shining on the bed | Radical hemithoracic radiotherapy: no survival benefit over best supportive care
+6: 11 43 12 | Three bottles tied with one red ribbon | Combination platinum-based chemotherapy beats a single agent
+7: 28 71 19 | Nun opening a small tap into a basin | Palliation: drain the effusion and stop it returning, to ease breathlessness and pain
+8: 60 93 27 | Guard dogs asleep under the bed | Immunotherapy: promising in the laboratory, limited success in clinical trials
+question: 1
+answer: 3 4
+
+== 12
+1: 42 39 11 | Smooth round sack hanging by one rope | Solitary fibrous tumour of the pleura: rare, localised
+2: 85 50 16 | Clerk striking a line from the family ledger | Mesenchymal, not mesothelial, in origin: 'localised mesothelioma' was dropped
+3: 41 29 8 | Long shears cutting the rope at its root | Simple excision is the treatment; no recurrence if resection is microscopically complete
+4: 62 10 28 | 12% sign, seven white doves and one crow | Only about 12% are malignant
+5: 50 72 35 | Man and woman carrying a level yoke | Men and women are affected equally
+6: 60 46 11 | Smiling white-haired old man with a cane | Peak in the sixth and seventh decades of life
+question: 1
+answer: 6
+
+== 13
+1: 45 44 15 | Secret chute with dark laundry and a rat | PAVM: a pulmonary artery joined directly to a pulmonary vein
+2: 50 78 25 | Steaming washtubs the chute skips | The capillary bed is bypassed, so the shunt is right-to-left
+3: 60 9 22 | Scholar clutching his head, rat on his books | Hypoxaemia and paradoxical embolism: stroke and brain abscess
+4: 43 27 15 | Three generations with red dots on their faces | Hereditary haemorrhagic telangiectasia: autosomal dominant; screen these patients
+5: 9 28 12 | Boy blowing soap bubbles on the blue side | Transthoracic contrast (bubble) echocardiography: the most sensitive test
+6: 70 38 13 | Locksmith pushing a brass coil into the chute | Transcatheter embolotherapy is the treatment of choice
+7: 90 27 9 | Carpenter standing idle with his saw | Surgery is rarely needed
+question: 1
+answer: 5
+
+== 14
+1: 64 36 15 | Huge cracked black iron pot with rusty holes | Thymic carcinoma: large, firm mass with cystic change and necrosis
+2: 58 47 8 | The pot's claws dug into the table | Infiltrating, invasive growth: cytologically malignant, unlike thymoma
+3: 15 48 15 | Middle-aged man coughing into his fist | Occurs predominantly in middle-aged men
+4: 88 55 15 | Man clutching his chest | Usual presentation: cough, breathlessness, chest pain; SVC syndrome is not typical
+5: 45 83 22 | Small four-rung ladder broken in two | Masaoka staging (used for thymoma) is not a useful prognostic tool here
+6: 35 27 18 | Blacksmith gripping the pot with great tongs | Complete surgical resection is the treatment of choice and can be curative
+question: 1
+answer: 6
+
+== 15
+1: 13 15 10 | Door plate reading 40-50 | Highest incidence in the fourth and fifth decades of life
+2: 28 50 22 | Moon-faced red man, full belly, thin legs | Associated with Cushing syndrome
+3: 32 21 9 | Three bells hanging on one rope | Associated with multiple endocrine neoplasia
+4: 79 56 21 | Big bulging wicker basket | Large, lobulated, invasive anterior mediastinal mass
+5: 85 20 19 | Carrier pigeons flying off with letters | Metastasis is common: nodal and distant spread in two-thirds of patients
+6: 89 38 10 | Carpenter carrying the whole basket out | Treatment is complete surgical resection
+7: 51 17 10 | Dusty lantern and medicine bottle on a shelf | Radiotherapy and chemotherapy have minimal effect
+question: 4
+answer: 5
+
+== 16
+1: 93 27 9 | Milestone buried in snow outside the window | Germ cells that fail to complete their migration in the embryo
+2: 56 31 14 | Innkeeper counting on his fingers | Mediastinal germ cell tumours: about 15% of adult anterior mediastinal masses
+3: 27 80 27 | Old chest of teeth, braids, bones, part chalk | Benign teratoma: bone, teeth, hair, fat; up to 26% calcified; excise completely
+4: 76 47 22 | Young man made of ice, melting | Seminoma: most often men aged 20 to 40
+5: 68 12 10 | Lantern shining down on the ice man | Radiation therapy: seminoma is uniquely sensitive to it
+6: 28 10 22 | Two banners reading AFP and hCG | Non-seminomatous tumours often secrete alpha-fetoprotein and hCG
+7: 21 30 19 | Rowdy youths coughing and clutching chests | Non-seminomatous: 85% symptomatic at diagnosis; 20% have Klinefelter syndrome
+question: 1
+answer: 4 5
+
+== 17
+1: 71 37 20 | Round sack sewn from two unlike fabrics | Neuroenteric cyst: enteric and neural tissue, in the posterior mediastinum
+2: 88 53 9 | Brass speaking tube squeezed by the sack | Tracheobronchial compression, not vascular compression
+3: 55 73 16 | Wheezing baby in the cradle | Symptoms come from the compressed airway in infancy
+4: 62 90 12 | Cake with a single candle and a 1 | Almost all are found by the age of one year
+5: 62 14 22 | Crooked back stairs: fused, half, missing steps | Multiple vertebral anomalies: scoliosis, spina bifida, hemivertebra, fusion
+6: 38 46 16 | Old nurse lifting the sack with both hands | Complete surgical excision is curative
+question: 1
+answer: 5
+
+== 18
+1: 56 13 28 | Bloated intruder bursting through the rafters | Pancoast tumour: lung apex, invading the apical chest wall or thoracic inlet
+2: 60 39 17 | Tenant with drooping lid, red line down his arm | Pancoast-Tobias syndrome: Horner, ulnar arm pain, hand wasting, arm oedema
+3: 57 24 8 | Faint T3 written on the beam | By definition T3 or T4 tumours
+4: 28 39 16 | Torch bearer and man with a green bottle go up | Induction chemo-radiotherapy first: standard of care if potentially resectable
+5: 18 76 26 | Two carpenters waiting below with saws | Then en bloc resection with the lung, preferably an upper lobectomy
+6: 75 77 11 | Sign reading 5% | Surgery carries about 5% mortality, not 50%
+question: 1
+answer: 4
+
+== 19
+1: 50 7 16 | Banner reading NETT | National Emphysema Treatment Trial: LVRS versus medical therapy in severe emphysema
+2: 14 80 22 | Porters rolling the barrels away in the street | Lung-volume-reduction surgery: removing the useless emphysematous lung
+3: 23 51 12 | Old man now climbing his steps | Overall, surgery increases the chance of improved exercise capacity
+4: 48 58 13 | Puzzled clerk writing in his notebook | Overall, no survival advantage over medical therapy
+5: 18 22 18 | Barrels thrown from the top floor, left house | Upper-lobe emphysema with low exercise capacity: here surgery improves survival
+6: 85 76 13 | Barrels stored in the cellar, right house | Non-upper-lobe emphysema
+7: 72 50 11 | Strong young man running up the steps | High baseline exercise capacity: negligible functional gain
+8: 87 42 11 | Doctor in the doorway raising his hand | Poor candidates for surgery: higher mortality
+question: 1 2
+answer: 3
+
+== 20
+1: 49 5 9 | A single crow on top of the great chimney | The chimney is the trachea: primary tumours are rare, 2% of upper airway tumours
+2: 12 75 8 | Wall plaque reading 1:100 | About one tracheal tumour for every hundred bronchial tumours
+3: 80 11 18 | Huge flock of crows crowding in from the roof | Secondary invasion from larynx, thyroid, oesophagus, lung is commoner than primary
+4: 50 57 11 | Big pile of nests low down, above the fork | 40-50% lie in the lower trachea and bifurcation
+5: 49 18 8 | Nest near the mouth of the chimney | 30-35% lie in the upper trachea
+6: 51 39 10 | Only a nest or two in the middle | Only 10-15% lie in the middle trachea
+7: 40 90 11 | Child holding a white dove | In children 90% are benign; in adults most are malignant
+8: 80 40 13 | Choking lodger at his flung-open window | He asks if the chicks fly far: distant mucosal metastases are very rare
+question: 1
+answer: 8

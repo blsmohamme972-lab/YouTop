@@ -1,0 +1,111 @@
+book: shahzad-2015
+# Per circle:  <number>: x y r | what is in the picture | what it stands for   (English only)
+
+== 31
+1: 7 56 12 | Purple foxglove bells in the vase | Digitalis (digoxin): a narrow margin between dose and toxicity
+2: 68 30 13 | Four closed tins on the shelf | Class I antiarrhythmics: block the fast sodium channels of rapid depolarisation
+3: 91 28 10 | The open fifth tin of red bark | Quinidine (class Ia): the drug that enhances digitalis toxicity
+4: 31 57 12 | Red bark dripping into the purple cup | Quinidine raises plasma digoxin: a dose that was safe becomes toxic
+5: 44 20 27 | Red heart clock, hands and pendulum a blur | Digitalis toxicity: the heart thrown into arrhythmia
+6: 72 78 20 | The empty barrel marked K | Hypokalaemia: low potassium makes the heart more sensitive to digitalis
+question: 1, 2
+answer: 3, 4
+
+== 32
+1: 20 68 24 | Porters bent under sacks of salt | Sodium: its rapid entry into the cell sets the slope of phase 0
+2: 68 62 27 | Red-coated soldier blocking the gate | Class I antiarrhythmic: binds to and blocks the fast sodium channels
+3: 31 24 8 | The red 0 on the sheer cliff | Phase 0, rapid depolarisation: the phase class I drugs affect
+4: 41 31 8 | The lift cage hanging part-way up | Blocked channels: lower slope of phase 0 and lower action potential amplitude
+5: 66 16 28 | The 1, 2 and 3 further along the mountain | Later phases of the fast-response action potential of myocytes and Purkinje tissue
+6: 9 38 11 | Small church ringing its bell far off | SA and AV nodes: phase 0 is carried by calcium, so no direct effect
+question: 2
+answer: 3
+
+== 33
+1: 41 33 19 | The huge groom with the great shears | Disopyramide: the class IA drug with the strongest anticholinergic action
+2: 14 37 16 | Two smaller brothers with smaller shears | Quinidine, then procainamide: weaker anticholinergic action
+3: 64 25 9 | The cut reins flying loose | Vagal brake cut: SA rate and AV conduction increase
+4: 84 31 18 | The grey horse bolting | Tachycardia; in flutter the ventricular rate may rise (add a beta-blocker)
+5: 15 72 20 | The dry, cracked fountain | Dry mouth
+6: 15 19 12 | Stationmaster wiping his fogged glasses | Blurred vision
+7: 72 84 24 | Watering can with a knotted spout | Urinary retention
+8: 72 10 19 | Overloaded cart stuck in the gateway | Constipation
+question: 4, 5
+answer: 1
+
+== 34
+1: 22 60 22 | Skaters in yellow coats reaching hands | Platelets linking together through GP IIb/IIIa receptors
+2: 15 22 14 | Giant with a mouse's head, gripping hard | Abciximab: large mouse-human antibody fragment, high affinity, nonspecific
+3: 31 14 13 | The big hourglass marked 48 | Abciximab: inhibition lasts 24-48 hours though half-life is only 30 minutes
+4: 59 56 10 | Small tin soldier with a wind-up key | Tirofiban: synthetic nonpeptide, rapidly reversible, highly specific
+5: 63 46 8 | Hourglass marked 8 | Tirofiban: inhibition lasts 4-8 hours, half-life 2 hours
+6: 83 54 15 | Girl tossing a ring of beads; hourglass 4 | Eptifibatide: cyclic heptapeptide, rapidly reversible, effect lasts 2-4 hours
+question: 1
+answer: 4
+
+== 35
+1: 12 14 14 | The round stone tower in front | Aortic valve: the mitral valve lies obliquely behind it
+2: 28 22 8 | Gate's straight edge fixed to the tower | Straight border of the D-shaped annulus: posterior to the aortic valve
+3: 42 40 13 | The large front leaf of the gate | Anterior leaflet: attached to the aortic root, spared by atrial enlargement
+4: 78 27 15 | Ivy creeping over the smaller rear leaf | Left atrial myocardium on the proximal posterior leaflet: big atrium, regurgitation
+5: 45 12 11 | Thick rope arching over the gate | Annulus: a fibrous ring, not fibromuscular, and not a continuous ring
+6: 62 55 10 | The rope looping down along the ground | Annulus acts as a sphincter in systole; dilatation gives regurgitation
+7: 15 47 12 | Monk hauling a thin cord from the leaf | Papillary muscle and chordae tendineae, parts of the mitral apparatus
+8: 30 65 14 | Visiting engineer holding compasses | Prosthetic valves are circular; the natural annulus is D-shaped
+question: 3
+answer: 2
+
+== 36
+1: 78 87 17 | Pool of red wine spreading on the floor | Increased chest drain losses after aortic valve replacement
+2: 7 33 6 | Green card showing 6 | R time 6 min (normal 5-10): no clotting factor deficiency
+3: 19 33 8 | Green cards showing 2 and 58 | K time 2 min (1-3) and alpha angle 58 (53-72): fibrinogen is adequate
+4: 35 33 6 | Green card showing 60 | MA 60 mm (normal 50-70): clot strength, platelets and fibrin, is normal
+5: 46 33 6 | Green card showing 5 | LY30 5% (normal 0-8%): no excessive fibrinolysis
+6: 58 30 9 | The cellar owner who blamed the glue | Every value is normal: this patient has normal coagulation
+7: 80 24 18 | Shelves of glue pots he calls for | Cryoprecipitate or clotting factors: not what this bleeding needs
+8: 87 54 9 | Wine running from a hole in the hoop | A surgical source of bleeding: suspect it when coagulation is normal
+question: 1
+answer: 6
+
+== 37
+1: 50 11 14 | The swollen reservoir behind the dam | Pulmonary artery systolic pressure: the pressure to be estimated
+2: 40 34 10 | Wooden gate leaf that does not seal | Tricuspid valve that does not close fully
+3: 52 46 18 | White jet bursting back through the gap | Tricuspid regurgitation jet: echo measures its maximal velocity
+4: 62 32 8 | The 3 chalked on the middle leaf | Vmax = 3 m/s
+5: 67 70 11 | The keeper's raised hand, four fingers | Modified Bernoulli: gradient = 4 x Vmax squared = 4 x 3 x 3 = 36 mmHg
+6: 93 55 8 | Gauge post in the calm pool reading 7 | Right atrial pressure (CVP 7 mmHg): must be added to the gradient
+7: 76 20 16 | Big 43 chalked on the dam wall | PA systolic pressure = 36 + 7 = 43 mmHg
+question: 1, 3
+answer: 7
+
+== 38
+1: 52 31 8 | Peak of the bell-shaped heap of gold | Normal distribution: the 68-95-99.7 (three-sigma, empirical) rule describes it
+2: 52 38 10 | Dark blue ribbon marked 68 | 68.27% lie within one standard deviation (34.1% on each side)
+3: 52 50 10 | Blue ribbon marked 95 | 95.45% lie within two standard deviations of the mean
+4: 52 60 13 | Pale ribbon marked 99.7 | 99.73%, nearly all, lie within three standard deviations
+5: 4 58 6 | One coin thrown to the far edge | Beyond three standard deviations: almost nothing lies out here
+question: 1
+answer: 3
+
+== 39
+1: 30 12 20 | Exhausted giant slumped over the pump | The failing left ventricle the balloon pump is there to help
+2: 40 64 26 | The long swollen skin lying in the channel | IABP: inflates at the onset of diastole, deflates just before systole
+3: 13 46 14 | Wheat patch watered by the backflow | Inflation raises diastolic pressure and DPTI: more coronary flow and oxygen supply
+4: 77 73 11 | Boy's hands on the tied neck of the skin | Deflation before systole lowers afterload, so TTI and oxygen demand fall
+5: 58 34 10 | Loaf of bread on the lower scale pan | DPTI: myocardial oxygen supply
+6: 83 31 9 | Stone on the higher scale pan | TTI: myocardial oxygen demand
+7: 69 21 9 | The balance beam tipping toward the bread | EVR = DPTI / TTI: should increase if the balloon pump works optimally
+8: 14 89 15 | Overturned jug spilling sour milk | Coronary sinus lactate falls, not rises, when the pump works well
+question: 1, 2
+answer: 7
+
+== 40
+1: 62 46 12 | The broken gap in the stone bridge | Interrupted aortic arch: classified into three types by site
+2: 42 30 8 | The middle tower of three on the bridge | Left common carotid artery, the landmark between the types
+3: 93 30 8 | Sign A beyond the third tower | Type A: distal to the left subclavian origin; about one third of cases
+4: 63 32 11 | Sign B between second and third towers | Type B: between left common carotid and left subclavian; about two thirds
+5: 28 33 9 | Sign C between first and second towers | Type C: proximal to the left common carotid origin; under 1% of cases
+6: 72 66 22 | Rope bridge slung across below the gap | Ductus arteriosus: carries blood to the descending aorta
+7: 10 52 12 | Wide breach in the wall beside the road | Nonrestrictive ventricular septal defect: usually accompanies it
+question: 1
+answer: 3

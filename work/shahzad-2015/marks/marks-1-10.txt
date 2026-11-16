@@ -1,0 +1,106 @@
+book: shahzad-2015
+# Per circle:  <number>: x y r | what is in the picture | what it stands for   (English only)
+
+== 1
+1: 27 40 17 | Curved wooden ribs of the boat's frame | The thoracic cage: 12 paired ribs, each with a head, neck and tubercle behind
+2: 33 76 9 | Round rib ends resting on wooden blocks | Head of the rib articulates with the body of the same-numbered vertebra
+3: 14 68 9 | Side pegs roped to the rib ends | Tubercle articulates with the transverse process, not the vertebral body
+4: 92 31 23 | Front rib ends with tags 7, 3 and 2 | Anterior articulation: 7 true ribs reach the sternum, 3 false join cartilage above, 2 float
+5: 50 26 14 | Coloured cords running under each rib | Costal groove on the inferior border carries the neurovascular bundle
+6: 69 55 12 | The old man's hammer and nail at the rib | Chest drain or needle goes just above the upper border of the rib below
+question: 1
+answer: 4
+
+== 2
+1: 43 60 22 | Innkeeper hauling the canvas dome down | Diaphragm contracts downward: the main muscle of inspiration
+2: 72 13 14 | Wide blue pipe through hole 8 | Caval hiatus at T8: inferior vena cava and right phrenic branches
+3: 68 33 11 | Brass horn in hole 10, ringed by rope | Oesophageal hiatus at T10, wrapped by crural fibres: oesophagus and both vagal trunks
+4: 67 48 9 | Thick red pipe at hole 12 by the back wall | Aortic hiatus at T12: aorta, azygos vein and thoracic duct
+5: 80 85 12 | Plate of ten eggs before the hungry clerk | Mnemonic "I ate 10 eggs at 12": IVC at T8, oesophagus at T10, aorta at T12
+6: 16 28 15 | Boy at a gap over the door, two red pipes | Foramen of Morgagni, anterior: superior epigastric vessels from the internal mammary
+question: 1
+answer: 6
+
+== 3
+1: 50 46 12 | The detective with his lantern | Staging lung cancer: searching the lymph node stations, numbered 1 to 14
+2: 37 31 12 | N2 banner over the red-lamp sentry boxes | Single-digit stations 1 to 9 are mediastinal: at least N2 disease
+3: 86 28 14 | N1 banner and green lamps among the trees | Stations 10 to 14, hilar to subsegmental: N1 when on the same side
+4: 54 17 10 | The great iron gate at the top of the avenue | Cervical mediastinoscopy: reaches stations 2 and 4 and subcarinal station 7
+5: 54 27 7 | Lone red lamp hanging below the gate | Station 9 lies along the pulmonary ligament
+6: 11 68 11 | Dark sentry box under the stone bridge | Stations 5 and 6: aortopulmonary window and in front of the aortic arch
+7: 30 72 17 | Policeman opening a small door in the wall | Anterior mediastinoscopy: the way in to stations 5 and 6
+question: 1
+answer: 7, 6
+
+== 4
+1: 85 14 13 | Wall plaque with the year 1995 | Lung Cancer Study Group trial, 1995: lobectomy versus sublobar resection, stage I NSCLC
+2: 30 80 20 | The saw and the whole branch cut off | Lobectomy: the whole lobe is removed
+3: 84 40 14 | Wedge notch with rotten apples marked x3 | Wedge resection: local recurrence three times higher (segmentectomy 2.4 times)
+4: 32 55 9 | Monk wiping his brow, as tired as the other | No difference between the groups in morbidity or long-term lung function
+5: 78 69 9 | Tiny rotten apple in the gentle monk's palm | Tumour size did not change recurrence, even under 1 cm
+6: 20 48 8 | Clean cut stump on the left tree | Lobectomy stays the standard of care for early-stage disease
+question: 1
+answer: 5
+
+== 5
+1: 25 56 10 | Small round hut standing apart from the house | Sequestration: lung tissue with no communication with the tracheobronchial tree
+2: 7 93 9 | Thick red hose coming in from the street | Systemic artery, usually from the thoracic aorta, enters at the base, not the hilum
+3: 58 72 20 | Three men and one woman, 3:1 in the snow | Males are affected three times as often as females
+4: 25 69 10 | The hut's own coat tied with a belt | Extralobar type (a quarter of cases): separate, with its own visceral pleura
+5: 56 7 9 | Pale lodger at the attic window | Intralobar type: inside the lung, no pleura of its own, three times as common
+6: 32 84 9 | Brick cellar dome under the hut | Lies just above the diaphragm, 90% at the left base
+7: 9 50 9 | Blue pipe climbing over the wall | Extralobar type drains to systemic veins such as the azygos
+question: 1
+answer: 4
+
+== 6
+1: 87 78 13 | Old midwife waiting at the door with a lamp | Lung development before birth: forty weeks, four phases
+2: 45 84 14 | Groove in the foundation stone, two shoots | Embryonic, weeks 1-5: median pharyngeal groove on day 22, lung buds by week 4
+3: 47 54 18 | Coppersmiths hanging a full tree of pipes | Pseudoglandular, weeks 5-16: bronchial tree and pulmonary arteries complete
+4: 50 33 17 | Plasterers carving fine channels in the wall | Canalicular, weeks 16-26: respiratory bronchioles and alveolar ducts
+5: 42 15 16 | Washerwoman blowing soap bubbles into rooms | Terminal sac, weeks 26-40: primitive alveoli; type II pneumocytes make surfactant
+6: 53 5 9 | Boy still laying bricks on the roof | Not complete at birth: new acini form until about 8 years of age
+question: 1
+answer: 2
+
+== 7
+1: 61 35 9 | Seamstress jammed in the narrow doorway | Thoracic outlet syndrome: neurovascular structures compressed in the outlet
+2: 68 54 9 | Thick yellow rope crushed on her shoulder | Neurogenic TOS: 90-95% of cases (the other two types are venous and arterial)
+3: 83 40 8 | Swollen blue hose behind the door | Venous TOS: may progress to Paget-Schroetter effort thrombosis
+4: 85 27 13 | Sleeping porter's huge arm blocking the gap | Causes: scalene hypertrophy, narrow costoclavicular space, cervical rib, trauma
+5: 33 63 11 | Young doctor feeling her wrist pulse | Provocative tests: Adson, Roos, Wright, costoclavicular; the Allen test is not one
+6: 33 27 19 | Four women and one man waiting behind | Women are affected four times as often as men
+7: 59 4 14 | Sign 20-40 over the doorway | Most common between 20 and 40 years of age
+question: 1
+answer: 7
+
+== 8
+1: 52 48 11 | Swollen brass samovar on the table | Thymoma: commonest primary tumour of the thymus and the anterior mediastinum
+2: 60 20 32 | Level scale holding a man and a woman, 50-60 | Men and women equally affected; usually presents at 50 to 60 years
+3: 32 44 9 | Man with drooping eyelids letting his cup fall | Myasthenia gravis develops in one-third to one-half of thymoma patients
+4: 80 43 12 | Wax-pale man holding up an empty carafe | Red cell aplasia in about 5-10%; hypogammaglobulinaemia in about 10%
+5: 9 90 10 | Bundle hidden under a chair | Almost 20% have another malignancy: lymphoma, lung or thyroid carcinoma
+6: 30 62 11 | Guest quietly sipping tea, nobody coughing | Compression of the central airways is not a routine presentation
+question: 1
+answer: 2
+
+== 9
+1: 77 10 9 | Smooth round bulge under the wallpaper | Leiomyoma: the commonest benign oesophageal tumour, more than half of them
+2: 80 36 21 | Three bulges, each wrapped in its own cloth | Muscle and fibrous bands inside a well-defined capsule; 30% in the middle third
+3: 82 63 15 | Crowded lower bulges bracketed 60% | About 60% lie in the distal third of the oesophagus
+4: 25 17 20 | Tenants going down the stairs with loaves | Patients are usually asymptomatic, even with a large mass
+5: 38 72 17 | Fat baker stuck with his huge loaf | When there are symptoms, dysphagia is the most common
+6: 64 69 9 | Old woman with a candle, palm on dry paper | Rarely ulcerates, so haematemesis is extremely rare
+question: 1
+answer: 3
+
+== 10
+1: 53 38 8 | A wooden block sitting on its bar | Each study is a square placed at its measure of effect, e.g. an odds ratio
+2: 55 21 12 | Tiny block on the top bar, arms spread wide | Horizontal line: the study's confidence interval (a small study, a wide one)
+3: 53 57 11 | The biggest block, on the lowest bar | The area of a square is proportional to the study's weight in the meta-analysis
+4: 18 61 15 | Fat merchant hugging the heaviest purse | The study that carries the most weight
+5: 30 83 20 | Brass scales marked WEIGHT, purse in the pan | Square size shows weight, not the number of studies or the study's duration
+6: 53 71 10 | Diamond on a velvet cushion | The overall, meta-analysed measure of effect
+7: 53 12 7 | Taut thread dropping from the chandelier | Vertical line marking the overall effect
+question: 1
+answer: 3, 5
