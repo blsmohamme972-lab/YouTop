@@ -5,6 +5,11 @@ and every sentence's start time is written into the lesson, so the circle moves 
     voice.py fill  voice.txt batch.txt            put the story lines and the quotation into batch.txt
     voice.py make  voice.txt [--folder F] [--only 41 42] [--no-explanation]
                                                   the audio into F/books/<id>/media and 't' into the lessons
+    voice.py check voice.txt [--folder F] [--only 41 42]
+                                                  "listens" to the audio made: a speech recogniser on this machine
+                                                  writes down what it hears, sentence by sentence, and every
+                                                  sentence that does not match its text is listed (needs
+                                                  `pip install faster-whisper`; nothing is sent anywhere)
 
 Needs the `edge-tts` package (a virtualenv is fine: <venv>/bin/python tools/content/voice.py ...) and
 ffmpeg. It sends the lesson text to Microsoft's speech service; the owner allowed that on
@@ -262,12 +267,70 @@ def cmd_make(args):
         print(f"warning: {lid} is not a lesson in {book_dir} (build it first)")
 
 
+# ---- listening back ---------------------------------------------------------------
+
+def plain(text, arabic):
+    """Text reduced to what a recogniser can be compared on: no vowels, no punctuation, one spelling."""
+    if arabic:
+        text = re.sub("[\u064b-\u0652\u0670\u0640]", "", text)
+        text = re.sub("[\u0623\u0625\u0622\u0671]", "\u0627", text).replace("\u0649", "\u064a").replace("\u0629", "\u0647")
+        text = text.replace("\u0624", "\u0648").replace("\u0626", "\u064a")
+    return re.sub(r"[\W_]+", " ", text.lower()).strip()
+
+
+def cmd_check(args):
+    import difflib
+    import numpy as np
+    from faster_whisper import WhisperModel
+    book, say, lessons = parse(args.voice)
+    bookcfg = json.loads((ROOT / "content" / "books" / f"{book}.json").read_text(encoding="utf-8"))
+    book_dir = pathlib.Path(args.folder).resolve() / "books" / book
+    wanted = {f"{bookcfg['short']}-q{l['n']:04d}" for l in lessons if not args.only or l["n"] in args.only}
+    model = WhisperModel(args.model, device="cpu", compute_type="int8")
+    doubtful = 0
+    for path in sorted((book_dir / "chapters").glob("*.json")):
+        for lesson in json.loads(path.read_text(encoding="utf-8"))["lessons"]:
+            if lesson["id"] not in wanted:
+                continue
+            for track in lesson["tracks"]:
+                if not track.get("audio") or any("t" not in s for s in track["segments"]):
+                    continue
+                name = track["audio"].rsplit("/", 1)[-1]
+                src = book_dir / "media" / name
+                if not src.is_file():       # not made here: take the published file
+                    src = book_dir.parent.parent / "voice-cache" / name
+                    src.parent.mkdir(parents=True, exist_ok=True)
+                    src.write_bytes(subprocess.run(["git", "cat-file", "-p", f"origin/content:books/{book}/media/{name}"], cwd=ROOT, capture_output=True).stdout)
+                raw = subprocess.run(["ffmpeg", "-v", "error", "-i", str(src), "-f", "f32le", "-ac", "1", "-ar", "16000", "pipe:1"], capture_output=True).stdout
+                if not raw:
+                    print(f"{lesson['id']} {track['kind']}: the audio file {name} could not be read")
+                    doubtful += 1
+                    continue
+                arabic = track["lang"].startswith("ar")
+                heard, _ = model.transcribe(np.frombuffer(raw, np.float32), language=track["lang"][:2], word_timestamps=True, beam_size=5)
+                words = [(w.start * 1000, w.word) for seg in heard for w in seg.words]
+                starts = [s["t"] for s in track["segments"]] + [10 ** 9]
+                print(f"{lesson['id']} {track['kind']} ({name})")
+                for i, seg in enumerate(track["segments"]):
+                    got = " ".join(w for t, w in words if starts[i] - 250 <= t < starts[i + 1] - 250)
+                    score = difflib.SequenceMatcher(None, plain(seg["text"], arabic), plain(got, arabic)).ratio()
+                    if score < args.threshold:
+                        doubtful += 1
+                        print(f"  sentence {i + 1}: {score:.2f}  LISTEN TO THIS ONE\n      text : {seg['text']}\n      heard: {got.strip()}")
+                    else:
+                        print(f"  sentence {i + 1}: {score:.2f}")
+    print(f"\n{doubtful} sentence(s) to look at." if doubtful else "\nEvery sentence was heard as written (a wrong vowel can still slip through: the owner's ear decides).")
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     sub = ap.add_subparsers(dest="cmd", required=True)
     p = sub.add_parser("fill"); p.add_argument("voice"); p.add_argument("batch"); p.set_defaults(fn=cmd_fill)
     p = sub.add_parser("make"); p.add_argument("voice"); p.add_argument("--folder", default=str(ROOT / ".content-work"))
     p.add_argument("--only", type=int, nargs="+"); p.add_argument("--no-explanation", action="store_true"); p.set_defaults(fn=cmd_make)
+    p = sub.add_parser("check"); p.add_argument("voice"); p.add_argument("--folder", default=str(ROOT / ".content-work"))
+    p.add_argument("--only", type=int, nargs="+"); p.add_argument("--model", default="small"); p.add_argument("--threshold", type=float, default=0.7)
+    p.set_defaults(fn=cmd_check)
     args = ap.parse_args()
     args.fn(args)
 
