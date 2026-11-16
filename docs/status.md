@@ -4,11 +4,58 @@ Updated 2026-11-16. Whoever works on YouTop next: read `CLAUDE.md`, then this, t
 `docs/content-guide.md`. Rewrite this file whenever the state changes (it replaces the
 `status-<n>.txt` files in the Drive folder "YouTop private", which stop at 7).
 
+## NEXT TASK, asked by the owner on 2026-11-16 and NOT STARTED
+
+The owner sent a screenshot of a real lesson (so **2.0 or 2.1 is on their phone**: the buttons had
+their names under them) and described this, in several messages, each time asking only "did you
+understand?". Nothing of it is built. They said every circle on the picture "means something" and
+they want the circles used in the question.
+
+1. **The question, laid over the picture without hiding it.** At the end of the lesson the question
+   appears at the **top**, transparent, in a fairly small type; the options at the **bottom**, fairly
+   small too; the picture stays visible in the middle. (Today `QuizOverlay.kt` shades the picture
+   and fills most of the screen.)
+2. **Only the circles that matter.** While the question is up, show the circles that belong to the
+   question and to the correct answer, and no others.
+3. **A button "all circles".** It shows every circle of the picture at once, each with a **number**
+   and its **own colour**, and a **small, good-looking, translucent table**, in **English only**:
+   number | the character, object or event in the picture | what it stands for (the medical fact).
+   The table row carries the **same number and the same colour** as its circle. The table can be
+   **dragged with a finger** when it covers something.
+4. **No leaving a lesson unanswered.** Swiping away from a lesson before its question is answered
+   does not go to the next lesson: a quick, pleasant motion brings the lesson back with its
+   **question open**, even if the story or explanation was not finished. Once answered, the lesson
+   is done for the day and goes to the scheduler, and **then** the owner may swipe on when they
+   want (they did not ask for an automatic move). This replaces the old rule "quick swipe =
+   nothing" in `CLAUDE.md`; change that line when it is built.
+
+Asked of the owner and **not answered** (they moved on); the defaults offered to them, to use
+unless they say otherwise:
+- A wrong answer: the lesson still comes back the same day after minutes, as now.
+- The question's circles show before answering; the correct answer's circle shows after answering.
+- The "all circles" button is there at any time in a lesson, not only during the question.
+- The long English explanation after an answer stays, in a smaller type.
+
+What it needs, as far as was thought through (the next builder decides):
+- **Content.** Lessons hold only a `spot` per sentence today; nothing says what a circle shows or
+  means, and many sentences share a spot. A lesson needs a list of numbered marks (spot, "what",
+  "means", both English), and its question needs to say which marks are the question's and which
+  the answer's. Keep the new fields optional (`Models.kt`), let `validate.py` and `batch.py` (the
+  spots file) carry them, and publish with `publish.py` — no Drive writes. The 30 lessons that
+  have pictures (1-20 and 31-40) need their marks written: "means" follows the explanation
+  sentence that uses the spot; "what" needs a look at the picture (`batch.py` can draw the numbered
+  circles to check). The story and explanation text of lessons 1-10 and 31-40 must not change
+  (recorded voice); adding marks does not touch them.
+- **App.** `QuizOverlay.kt`, `Spotlight.kt` (several numbered, coloured circles at once),
+  `FeedScreen.kt` (the pager: hold the swipe until answered; lessons without a question stay
+  free; going back to earlier lessons stays free), `MainViewModel.finish`. A lesson without marks
+  must still work (old content, the starter book). Add steps to `ScreensTest` and look at the pictures.
+
 ## App
 
 - **2.1 (versionCode 12)** is on `main`; the APK was handed to the owner on 2026-11-16 (the third
-  that day, after 1.9 and 2.0). Whether they have installed any of them is not known; 1.6
-  (versionCode 7), reading Drive, was the last version known to be on their phone.
+  that day, after 1.9 and 2.0). A screenshot they sent later that day shows 2.0 or 2.1 running on
+  their phone with a real lesson (buttons with names, "Home" at the top right).
 - New in 2.1, asked for by the owner: **progress by topic across books.** On the Topics page every
   specialty and subtopic is a cover (a picture from the web, built into the app) with the same
   six-colour bar and numbers as a book (new, studied 1×, 2×, 3×, 4×, 5×+); the other tag groups are
