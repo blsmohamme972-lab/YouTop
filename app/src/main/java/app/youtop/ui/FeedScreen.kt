@@ -316,8 +316,10 @@ private fun LessonPage(entry: FeedEntry, active: Boolean, vm: MainViewModel, onN
     val info = item.lesson
     // The title and picture are known at once; narration and questions are read from disk.
     // Keyed on the chapter file too: after a sync replaces it, the page reads the new text.
-    var read by remember(item.key, item.chapter.source) { mutableStateOf(false) }
-    val full by produceState<Lesson?>(null, item.key, item.chapter.source) { value = vm.lesson(item); read = true }
+    // (Read and its result in one value: "read, and it has no question" must never be seen half-way.)
+    val loaded by produceState<Pair<Boolean, Lesson?>>(false to null, item.key, item.chapter.source) { value = true to vm.lesson(item) }
+    val full = loaded.second
+    val read = loaded.first
     val lesson = full ?: Lesson(id = info.id, title = info.title, titleAr = info.titleAr, image = info.image, tags = info.tags)
     val trackIndex = (vm.trackChoice[entry.id] ?: 0).coerceIn(0, (lesson.tracks.size - 1).coerceAtLeast(0))
     val track = lesson.tracks.getOrNull(trackIndex)
