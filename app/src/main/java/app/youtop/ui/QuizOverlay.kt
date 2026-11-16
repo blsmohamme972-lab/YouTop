@@ -106,9 +106,9 @@ class QuizState {
 }
 
 /**
- * The lesson's questions, laid over the picture without hiding it: the question sits at the top
- * and the options at the bottom, both small and translucent, and the middle of the picture stays
- * free for the circles that belong to the question. Reports each answer; after the last one the
+ * The lesson's questions, in a fixed panel under the picture (see [DockPanel]): the picture is
+ * docked above it, whole, so neither the question nor its options hide the circles that belong
+ * to the question. Reports each answer; after the last one the
  * learner moves on when they choose to (nothing moves by itself).
  */
 @Composable
@@ -242,7 +242,7 @@ fun QuizOverlay(
             Modifier
                 .fillMaxWidth()
                 .clip(RoundedCornerShape(13.dp))
-                .background(if (answered) tone.copy(alpha = 0.16f) else panel)
+                .background(if (answered) tone.copy(alpha = 0.16f) else Color.White.copy(alpha = 0.06f))
                 .border(BorderStroke(1.dp, tone.copy(alpha = if (answered) 0.7f else 0.30f)), RoundedCornerShape(13.dp))
                 .clickable(enabled = !answered) {
                     val correct = option == question.answer
@@ -252,7 +252,7 @@ fun QuizOverlay(
                     onAnswer(correct, System.currentTimeMillis() - shownAt)
                     if (last) { state.done = true; onDone() }
                 }
-                .padding(horizontal = 11.dp, vertical = 7.dp),
+                .padding(horizontal = 11.dp, vertical = 6.dp),
             verticalAlignment = Alignment.CenterVertically,
             horizontalArrangement = Arrangement.spacedBy(9.dp),
         ) {
@@ -267,142 +267,117 @@ fun QuizOverlay(
             Text(
                 question.options[option],
                 color = Color.White,
-                style = TextStyle(fontFamily = Ui, fontSize = 13.5.sp, lineHeight = 18.sp, fontWeight = FontWeight.Medium, shadow = if (answered) null else TextShadow, textDirection = direction),
+                style = TextStyle(fontFamily = Ui, fontSize = 13.5.sp, lineHeight = 18.sp, fontWeight = FontWeight.Medium, textDirection = direction),
                 modifier = Modifier.weight(1f),
             )
         }
     }
 
-    Box(Modifier.fillMaxSize()) {
-        // ---- before the answer: the question at the top, the options at the bottom, the picture between ----
-        AnimatedVisibility(visible = !answered, enter = fadeIn(tween(200)), exit = fadeOut(tween(120))) {
-            Box(
-                Modifier
-                    .fillMaxSize()
-                    // Taps here must not reach the picture underneath (they would start the narration).
-                    .pointerInput(Unit) { detectTapGestures { } }
-            ) {
+    // The picture is docked above, whole and uncovered, from the moment the question appears; the
+    // question, its options and later the answer live in this fixed panel under it.
+    DockPanel {
+        Box(Modifier.padding(start = 14.dp, end = 10.dp, top = 8.dp, bottom = 4.dp)) { header() }
+        val panelScroll = if (answered) explainScroll else scroll
+        Box(Modifier.weight(1f)) {
+        Column(
+            Modifier.fillMaxSize().verticalScroll(panelScroll).padding(horizontal = 12.dp).padding(bottom = 8.dp),
+            verticalArrangement = Arrangement.spacedBy(5.dp),
+        ) {
+            if (!answered) {
+                // A long stem shows three lines, so the options stay in sight; a tap opens it.
                 Column(
-                    Modifier
-                        .align(Alignment.TopStart)
-                        .statusBarsPadding()
-                        .padding(start = 10.dp, top = 8.dp, end = 64.dp)
-                        .fillMaxWidth()
-                        .clip(RoundedCornerShape(16.dp))
-                        .background(panel)
-                        .padding(start = 12.dp, end = 8.dp, top = 6.dp, bottom = 9.dp),
-                    verticalArrangement = Arrangement.spacedBy(5.dp),
+                    Modifier.fillMaxWidth().clip(RoundedCornerShape(10.dp))
+                        .clickable(enabled = long || open, onClickLabel = stringResource(R.string.whole_question)) { open = !open }
+                        .padding(horizontal = 2.dp),
                 ) {
-                    header()
-                    Column(
-                        Modifier
-                            .fillMaxWidth()
-                            .padding(end = 4.dp)
-                            .clickable(enabled = long || open, onClickLabel = stringResource(R.string.whole_question)) { open = !open }
-                            .then(if (open) Modifier.heightIn(max = screen * 0.42f).verticalScroll(stemScroll) else Modifier),
-                    ) {
+                    Text(
+                        question.q, color = Color.White, style = stemStyle.copy(shadow = null),
+                        maxLines = if (open) Int.MAX_VALUE else 3, overflow = TextOverflow.Ellipsis,
+                        onTextLayout = { if (!open) long = it.hasVisualOverflow },
+                        modifier = Modifier.fillMaxWidth(),
+                    )
+                    if (long || open) {
                         Text(
-                            question.q, color = Color.White, style = stemStyle,
-                            maxLines = if (open) Int.MAX_VALUE else 3, overflow = TextOverflow.Ellipsis,
-                            onTextLayout = { if (!open) long = it.hasVisualOverflow },
-                            modifier = Modifier.fillMaxWidth(),
+                            stringResource(if (open) R.string.show_less else R.string.show_all), color = Accent,
+                            style = TextStyle(fontFamily = Ui, fontSize = 11.5.sp, fontWeight = FontWeight.SemiBold),
+                            modifier = Modifier.padding(top = 1.dp),
                         )
-                        if (long || open) {
-                            Text(
-                                stringResource(if (open) R.string.show_less else R.string.show_all), color = Accent,
-                                style = TextStyle(fontFamily = Ui, fontSize = 11.5.sp, fontWeight = FontWeight.SemiBold, shadow = TextShadow),
-                                modifier = Modifier.padding(top = 2.dp),
-                            )
-                        }
                     }
-                    Box(Modifier.padding(end = 4.dp)) { figure() }
                 }
-                Column(
-                    Modifier
-                        .align(Alignment.BottomCenter)
-                        .fillMaxWidth()
-                        .navigationBarsPadding()
-                        .heightIn(max = screen * 0.5f)
-                        .verticalScroll(scroll)
-                        .padding(horizontal = 10.dp)
-                        .padding(bottom = 10.dp),
-                    verticalArrangement = Arrangement.spacedBy(5.dp, Alignment.Bottom),
+                figure()
+                order.forEach { optionRow(it) }
+            } else {
+                // The question, as one line; a tap shows all of it.
+                Row(
+                    Modifier.fillMaxWidth().clip(RoundedCornerShape(10.dp)).clickable(onClickLabel = stringResource(R.string.whole_question)) { open = !open }
+                        .padding(horizontal = 2.dp, vertical = 2.dp),
+                    verticalAlignment = Alignment.Top, horizontalArrangement = Arrangement.spacedBy(6.dp),
                 ) {
-                    order.forEach { optionRow(it) }
+                    Text(
+                        question.q, color = Color.White.copy(alpha = 0.72f),
+                        style = stemStyle.copy(fontSize = 13.sp, lineHeight = 18.sp, fontWeight = FontWeight.Normal, shadow = null),
+                        maxLines = if (open) Int.MAX_VALUE else 1, overflow = TextOverflow.Ellipsis,
+                        modifier = Modifier.weight(1f),
+                    )
+                    Icon(
+                        if (open) Icons.Rounded.KeyboardArrowUp else Icons.Rounded.KeyboardArrowDown, null,
+                        tint = Accent, modifier = Modifier.size(18.dp),
+                    )
+                }
+                if (open) figure()
+                optionRow(question.answer)
+                picked?.takeIf { it != question.answer }?.let { optionRow(it) }
+                if (question.explain.isNotBlank()) {
+                    Text(
+                        question.explain,
+                        color = Color.White.copy(alpha = 0.94f),
+                        style = TextStyle(fontFamily = Ui, fontSize = 13.sp, lineHeight = 19.sp, textDirection = direction),
+                        modifier = Modifier.fillMaxWidth().padding(horizontal = 2.dp),
+                    )
                 }
             }
         }
-
-        // ---- after the answer: the picture moves up, whole and uncovered, and this panel sits under it ----
-        AnimatedVisibility(
-            visible = answered,
-            enter = fadeIn(tween(260)) + slideInVertically(tween(320)) { it / 4 }, exit = fadeOut(tween(120)),
-        ) {
-            DockPanel {
-                Box(Modifier.padding(start = 14.dp, end = 10.dp, top = 8.dp, bottom = 4.dp)) { header() }
-                Column(
-                    Modifier.weight(1f).verticalScroll(explainScroll).padding(horizontal = 12.dp).padding(bottom = 8.dp),
-                    verticalArrangement = Arrangement.spacedBy(7.dp),
-                ) {
-                    // The question, as one line; a tap shows all of it.
-                    Row(
-                        Modifier.fillMaxWidth().clip(RoundedCornerShape(10.dp)).clickable(onClickLabel = stringResource(R.string.whole_question)) { open = !open }
-                            .padding(horizontal = 2.dp, vertical = 2.dp),
-                        verticalAlignment = Alignment.Top, horizontalArrangement = Arrangement.spacedBy(6.dp),
-                    ) {
-                        Text(
-                            question.q, color = Color.White.copy(alpha = 0.72f),
-                            style = stemStyle.copy(fontSize = 13.sp, lineHeight = 18.sp, fontWeight = FontWeight.Normal, shadow = null),
-                            maxLines = if (open) Int.MAX_VALUE else 1, overflow = TextOverflow.Ellipsis,
-                            modifier = Modifier.weight(1f),
-                        )
-                        Icon(
-                            if (open) Icons.Rounded.KeyboardArrowUp else Icons.Rounded.KeyboardArrowDown, null,
-                            tint = Accent, modifier = Modifier.size(18.dp),
-                        )
-                    }
-                    if (open) figure()
-                    optionRow(question.answer)
-                    picked?.takeIf { it != question.answer }?.let { optionRow(it) }
-                    if (question.explain.isNotBlank()) {
-                        Text(
-                            question.explain,
-                            color = Color.White.copy(alpha = 0.94f),
-                            style = TextStyle(fontFamily = Ui, fontSize = 13.sp, lineHeight = 19.sp, textDirection = direction),
-                            modifier = Modifier.fillMaxWidth().padding(horizontal = 2.dp),
-                        )
-                    }
-                }
-                Box(Modifier.fillMaxWidth().height(1.dp).background(Color.White.copy(alpha = 0.09f)))
+        // More lies below (a fifth option, the rest of the explanation): say so, so nothing is missed.
+        if (panelScroll.canScrollForward) {
+            Box(
+                Modifier.align(Alignment.BottomCenter).fillMaxWidth().height(34.dp)
+                    .background(Brush.verticalGradient(listOf(Color.Transparent, Surface1))),
+                contentAlignment = Alignment.BottomCenter,
+            ) {
+                Icon(Icons.Rounded.KeyboardArrowDown, stringResource(R.string.more_below), tint = Accent, modifier = Modifier.size(22.dp))
+            }
+        }
+        }
+        if (answered) {
+            Box(Modifier.fillMaxWidth().height(1.dp).background(Color.White.copy(alpha = 0.09f)))
+            Row(
+                Modifier.padding(horizontal = 12.dp, vertical = 8.dp),
+                horizontalArrangement = Arrangement.spacedBy(8.dp), verticalAlignment = Alignment.CenterVertically,
+            ) {
+                // Watch (or re-watch) the lesson behind this question.
                 Row(
-                    Modifier.padding(horizontal = 12.dp, vertical = 8.dp),
-                    horizontalArrangement = Arrangement.spacedBy(8.dp), verticalAlignment = Alignment.CenterVertically,
+                    Modifier.height(40.dp).clip(CircleShape).background(Color.White.copy(alpha = 0.10f))
+                        .clickable(onClick = onWatch).padding(horizontal = 13.dp),
+                    verticalAlignment = Alignment.CenterVertically,
                 ) {
-                    // Watch (or re-watch) the lesson behind this question.
-                    Row(
-                        Modifier.height(40.dp).clip(CircleShape).background(Color.White.copy(alpha = 0.10f))
-                            .clickable(onClick = onWatch).padding(horizontal = 13.dp),
-                        verticalAlignment = Alignment.CenterVertically,
-                    ) {
-                        Icon(Icons.Rounded.PlayArrow, null, tint = Color.White, modifier = Modifier.size(18.dp))
-                        Text(stringResource(R.string.watch), color = Color.White, fontSize = 13.sp, fontWeight = FontWeight.SemiBold)
+                    Icon(Icons.Rounded.PlayArrow, null, tint = Color.White, modifier = Modifier.size(18.dp))
+                    Text(stringResource(R.string.watch), color = Color.White, fontSize = 13.sp, fontWeight = FontWeight.SemiBold)
+                }
+                if (nextReview != null && state.done) {
+                    Row(Modifier.weight(1f), verticalAlignment = Alignment.CenterVertically, horizontalArrangement = Arrangement.Center) {
+                        Icon(Icons.Rounded.Schedule, null, tint = Accent, modifier = Modifier.size(14.dp))
+                        Spacer(Modifier.width(5.dp))
+                        Text(stringResource(R.string.next_review, nextReview), color = Color.White.copy(alpha = 0.85f), fontSize = 11.5.sp, fontWeight = FontWeight.Medium, maxLines = 2, lineHeight = 15.sp)
                     }
-                    if (nextReview != null && state.done) {
-                        Row(Modifier.weight(1f), verticalAlignment = Alignment.CenterVertically, horizontalArrangement = Arrangement.Center) {
-                            Icon(Icons.Rounded.Schedule, null, tint = Accent, modifier = Modifier.size(14.dp))
-                            Spacer(Modifier.width(5.dp))
-                            Text(stringResource(R.string.next_review, nextReview), color = Color.White.copy(alpha = 0.85f), fontSize = 11.5.sp, fontWeight = FontWeight.Medium, maxLines = 2, lineHeight = 15.sp)
-                        }
-                    } else Spacer(Modifier.weight(1f))
-                    Row(
-                        Modifier.height(40.dp).clip(CircleShape).background(Accent)
-                            .clickable { if (last) onNext() else { index++; picked = null } }
-                            .padding(horizontal = 16.dp),
-                        verticalAlignment = Alignment.CenterVertically,
-                    ) {
-                        if (last) Icon(Icons.Rounded.KeyboardArrowUp, null, tint = OnAccent, modifier = Modifier.size(20.dp))
-                        Text(stringResource(R.string.next), color = OnAccent, fontSize = 13.sp, fontWeight = FontWeight.SemiBold)
-                    }
+                } else Spacer(Modifier.weight(1f))
+                Row(
+                    Modifier.height(40.dp).clip(CircleShape).background(Accent)
+                        .clickable { if (last) onNext() else { index++; picked = null } }
+                        .padding(horizontal = 16.dp),
+                    verticalAlignment = Alignment.CenterVertically,
+                ) {
+                    if (last) Icon(Icons.Rounded.KeyboardArrowUp, null, tint = OnAccent, modifier = Modifier.size(20.dp))
+                    Text(stringResource(R.string.next), color = OnAccent, fontSize = 13.sp, fontWeight = FontWeight.SemiBold)
                 }
             }
         }

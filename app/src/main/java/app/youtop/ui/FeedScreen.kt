@@ -452,15 +452,15 @@ private fun LessonPage(entry: FeedEntry, active: Boolean, vm: MainViewModel, onN
             seed = item.key.hashCode(),
             marks = circles,
             focus = if (showAll) pickedMark else null,
-            // The table, or the answer with its explanation, takes the bottom; the picture moves up, whole.
-            docked = showAll || (showQuiz && quiz.picked != null),
+            // The table, or the question and its answer, takes the bottom; the picture moves up, whole.
+            docked = showAll || showQuiz,
             modifier = Modifier
                 .fillMaxSize()
                 .pointerInput(Unit) { detectTapGestures { if (plain.value) vm.narrator.toggle() } },
         )
 
         // Soft shading behind the floating text and buttons (none over a docked picture: nothing floats on it).
-        if (!(showAll || (showQuiz && quiz.picked != null))) {
+        if (!(showAll || showQuiz)) {
             Box(
                 Modifier.fillMaxWidth().height(170.dp).align(Alignment.TopCenter)
                     .background(Brush.verticalGradient(listOf(Ink.copy(alpha = 0.62f), Color.Transparent)))
