@@ -65,6 +65,14 @@ table sits **under** the picture, **fixed**, its rows scrolling. Built, APK hand
   real long lessons (1, 36) seeded for a moment before handing an APK over. Done for 2.3; still not
   run on a real phone.
 
+## Standard way of making lessons — the owner said "make this the standard" (2026-11-16, night)
+
+After seeing lessons 41-45 complete, the owner made their method the standard and added one rule:
+**the agent gives the image prompts first** (`batch.py prompts`), so the owner makes the pictures
+while the agent writes stories, explanations and voice. It is written in the skill ("The standard
+order") and in `CLAUDE.md`. Next batch: questions 46 onwards. The owner has still not said how
+the voices sound; ask when they have listened.
+
 ## Lessons 41-45 and the machine voice (2026-11-16, evening) — WAITING FOR THE OWNER'S EAR AND PICTURES
 
 - The owner gave up recording ChatGPT's voice and asked for the best Arabic voice a session can
