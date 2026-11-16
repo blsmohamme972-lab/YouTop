@@ -1,0 +1,20 @@
+{
+  "about": "Who speaks in the lessons' recorded voice (tools/content/voice.py). Voices are Microsoft neural voices reached through the edge-tts package. The owner chose (2026-11-16): narrators are women only, a different one from lesson to lesson and one per lesson; each character speaks with a voice that fits what the picture shows; the multilingual voices ('like Brian') over the Arabic ones.",
+  "narrators": ["en-US-AvaMultilingualNeural", "en-US-EmmaMultilingualNeural", "fr-FR-VivienneMultilingualNeural", "pt-BR-ThalitaMultilingualNeural"],
+  "narration": {"rate": "-8%", "pitch": "-2Hz"},
+  "quotation": {"rate": "-15%", "pitch": "-6Hz", "before": 700},
+  "explanation": {"voices": ["en-US-AvaMultilingualNeural", "en-US-EmmaMultilingualNeural"], "rate": "-4%", "pitch": "+0Hz"},
+  "roles": {
+    "man": {"voice": "en-US-BrianMultilingualNeural", "rate": "-6%", "pitch": "-2Hz"},
+    "man2": {"voice": "it-IT-GiuseppeMultilingualNeural", "rate": "-6%", "pitch": "-4Hz"},
+    "young": {"voice": "en-AU-WilliamMultilingualNeural", "rate": "+0%", "pitch": "+8Hz"},
+    "old-man": {"voice": "fr-FR-RemyMultilingualNeural", "rate": "-16%", "pitch": "-22Hz"},
+    "woman": {"female": true, "rate": "-4%", "pitch": "+6Hz"},
+    "old-woman": {"female": true, "rate": "-17%", "pitch": "-20Hz"}
+  },
+  "moods": {
+    "!": {"rate": 10, "pitch": 10, "volume": "+8%"},
+    "~": {"rate": -4, "pitch": -2, "volume": "-18%"}
+  },
+  "pause": {"segment": 600, "part": 280}
+}

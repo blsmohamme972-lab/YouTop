@@ -99,6 +99,33 @@ characters) and `means` (the medical fact, at most 110, from the explanation), E
 
 It never touches lesson text. Keep the marks file under `work/<book>/marks/`.
 
+## 6. Table first, and the recorded voice (since 2026-11-16, lessons 41-45 are the worked set)
+
+**Table first.** Before the scene and the story, write for each question the 5 to 7 elements of
+the picture and the fact each stands for, as `#` lines under `== N` in `batch.txt`; mark the one
+that is the ANSWER and make it the picture's dominant element. Scene, story and explanation are
+then written from that table, in its order, and it becomes the lesson's marks (step 5) when the
+picture arrives. A fact with no element, or an element with no fact, is a sign to redo the table.
+
+**The voice.** The owner chose machine voice over recording ChatGPT: a woman narrates (a different
+one from lesson to lesson), each character speaks with a voice that fits it, and each sentence's
+start time is exact. Write the story **once**, in `voice.txt` (format at the top of
+`tools/content/voice.py`): one line per sentence, parts `role: text` joined by ` || `, the Arabic
+**fully vowelled** with a sukun where the voice should stop. Keep a line to one speaker where the
+story allows it, so the circle can sit on whoever speaks. Then:
+
+    python3 tools/content/voice.py fill voice.txt batch.txt     # story lines and quotation into batch.txt
+    python3 tools/content/batch.py build batch.txt --master <file>
+    <venv>/bin/python tools/content/voice.py make voice.txt      # needs: pip install edge-tts (in a virtualenv)
+
+`make` writes `media/<id>-story-ar.m4a` and `-explanation-en.m4a`, sets each segment's `t`, and
+refuses when a lesson's sentences differ from the voice file. Voices and pauses are in
+`content/voices.json`. It takes about three minutes a lesson; parts are cached in
+`.content-work/voice-cache`, so a rerun only makes what changed. In a cloud session the package's
+certificate store needs the session's proxy certificate first:
+`cat /root/.ccr/ca-bundle.crt >> $(<venv>/bin/python -c "import certifi;print(certifi.where())")`.
+Nobody can hear the result but the owner: ask them how it sounds and fix what they name.
+
 ## Rules that are never broken
 
 - Nothing is uploaded to Drive (every write prompts the owner). Publishing is `git push` only.
