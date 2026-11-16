@@ -74,7 +74,7 @@ fun SpotlightImage(model: Any?, spot: Spot?, seed: Int, modifier: Modifier = Mod
         val glide = tween<Float>(durationMillis = 450, easing = FastOutSlowInEasing)
         val cx by animateFloatAsState(left + last.x * drawnW, glide, label = "cx")
         val cy by animateFloatAsState(top + last.y * drawnH, glide, label = "cy")
-        val radius by animateFloatAsState(last.r * drawnW, glide, label = "r")
+        val radius by animateFloatAsState(last.r.coerceIn(0.03f, 0.6f) * drawnW, glide, label = "r")
         val dim by animateFloatAsState(if (spot != null) 1f else 0f, tween(350), label = "dim")
 
         val pulse by rememberInfiniteTransition(label = "pulse").animateFloat(

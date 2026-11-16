@@ -28,7 +28,7 @@ plainly, send them the APK file itself, and never ask them to run commands.
 | Work status | `docs/status.md` (the old `status-<n>.txt` files in YouTop private stop at 7). |
 | Source PDFs, question files | **YouTop private/source books** and **YouTop private/books/`<book id>`**. Read-only now. |
 | Tag system | `content/taxonomy.txt` in this repository. |
-| How to make lessons | `docs/content-guide.md`. |
+| How to make lessons | The `youtop-lessons` skill and `tools/content/batch.py`; reference: `docs/content-guide.md`. Each book's facts: `content/books/<book id>.json`. |
 
 If the Google Drive connector is missing in your session, or is signed in to a different account,
 that is the one thing only the owner can fix: ask them to connect Google Drive as
@@ -74,7 +74,7 @@ Then send the owner the APK file, and commit and push the code.
 
 There is no device. `tools/build.sh` runs:
 
-- `SchedulerTest` — the spaced-repetition rules.
+- `SchedulerTest` — the spaced-repetition rules (smart scheduling and the classic rules).
 - `ScaleTest` — syncs a made-up 5,500-lesson book and fails if anything done per swipe gets slow.
 - `ContentTest` — the bundled starter book and the Drive folder parser.
 - `GitHubSyncTest` — sync from a pretend GitHub, the fall-back to Drive, `gh:` media, and a damaged
@@ -103,6 +103,10 @@ something looks wrong on theirs.
   file when it is about to be shown. Keep it that way: the library will hold thousands.
 - `study/Tags.kt` — tag matching ("focus") and per-tag statistics.
 - `study/Scheduler.kt` — spaced repetition and "what to show next" (pure Kotlin, well tested).
+  "Smart scheduling" (default) is the FSRS-4.5 memory model (`Memory`): each lesson has a stability and
+  a difficulty, and comes back when the chance of recall falls to `StudySettings.retention`. The
+  classic SM-2 rules remain behind `smart = false`. Learned lessons are due by the day
+  (`Scheduler.dayEnd`), lessons in their learning steps by the minute.
   `study/Progress.kt` — stores each lesson's memory state on the phone.
 - `player/Narrator.kt` — plays a narration from an audio file, or the phone's voice, or silently.
 - `MainViewModel.kt` — the feed queue and everything the screens call.
@@ -126,7 +130,11 @@ stays), repeated ids are dropped, and a question without a valid answer is not a
 
 ## Updating content (no APK needed)
 
-Follow `docs/content-guide.md`. In short: lessons are JSON files on the `content` branch; the app
+**Making lessons: use the `youtop-lessons` skill** (`.claude/skills/youtop-lessons/SKILL.md`). It is
+the short path: `tools/content/batch.py` does every mechanical step (copies the questions, builds
+lessons and image prompts, converts pictures, draws spots, checks the owner's rules), so a session
+writes only the stories, explanations, tags and scenes. `docs/content-guide.md` is the full
+reference. In short: lessons are JSON files on the `content` branch; the app
 reads `catalog.json`, which lists each book's file, which lists chapter files of about 100
 lessons; pictures and audio sit beside them in `media/`. To change anything:
 
@@ -146,6 +154,8 @@ under `book/chapter/lesson` on their phone.
   on the `content` branch (and the old Drive folder as a spare).
 - Content is published through this public GitHub repository, unencrypted, and never by
   uploading to Drive (see the rules above).
+- Smart scheduling is the default since 1.9; lessons studied before it are taken over from their
+  interval and ease at their next review (nothing is reset).
 - Ratings are inferred, never asked: right answer = good (fast = easy), wrong = again, watched
   without answering = hard, quick swipe = nothing.
 - The picture is never zoomed or cropped; only a spotlight moves over it, in step with the voice.

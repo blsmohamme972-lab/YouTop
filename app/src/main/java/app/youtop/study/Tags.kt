@@ -20,6 +20,14 @@ object Tags {
         return focus.groupBy(::facet).all { (_, wanted) -> tags.any { t -> wanted.any { under(t, it) } } }
     }
 
+    /**
+     * Choosing or letting go of [tag]. Choosing a subtopic replaces a chosen parent (narrowing),
+     * and choosing a parent drops its chosen subtopics (they are inside it already).
+     */
+    fun toggle(focus: Set<String>, tag: String): Set<String> =
+        if (tag in focus) focus - tag
+        else focus.filterNotTo(LinkedHashSet()) { it != tag && (under(tag, it) || under(it, tag)) } + tag
+
     /** The tag and all its ancestors: "a/b/c" gives "a", "a/b", "a/b/c". */
     fun withAncestors(tag: String): List<String> {
         val prefix = if (':' in tag) tag.substringBefore(':') + ":" else ""
@@ -36,7 +44,7 @@ object Tags {
     }
 
     /** Totals for every tag (each lesson also counts towards its tags' ancestors). */
-    fun stats(lessons: List<Pair<String, List<String>>>, cards: Map<String, CardState>, now: Long): Map<String, Stat> {
+    fun stats(lessons: List<Pair<String, List<String>>>, cards: Map<String, CardState>, now: Long, dayEnd: Long = now): Map<String, Stat> {
         val out = HashMap<String, Stat>()
         for ((key, tags) in lessons) {
             val card = cards[key]
@@ -48,7 +56,7 @@ object Tags {
                     s.seen++
                     s.reps += card.reps
                     s.lapses += card.lapses
-                    if (card.due <= now) s.due++
+                    if (Scheduler.isDue(card, now, dayEnd)) s.due++
                 }
             }
         }

@@ -169,4 +169,29 @@
     <string name="nothing_matches">Nothing to show</string>
     <string name="nothing_matches_body">No lesson matches the books and topics you chose.</string>
     <string name="show_everything">Show everything</string>
+    <string name="focus_all_hint">Tap a specialty, a subtopic or any tag below to study only that. Tap it again to let it go.</string>
+    <string name="focus_title">Studying only</string>
+    <string name="focus_remove">Remove</string>
+    <string name="focus_study">Study these</string>
+    <plurals name="focus_study_n">
+        <item quantity="one">Study %1$d lesson</item>
+        <item quantity="other">Study %1$d lessons</item>
+    </plurals>
+    <string name="focus_choose">Study only %1$s</string>
+    <string name="topic_empty">No lessons yet</string>
+    <string name="retention">How well to remember</string>
+    <string name="retention_light">Lighter · 85%</string>
+    <string name="retention_balanced">Balanced · 90%</string>
+    <string name="retention_strong">Exam · 94%</string>
+    <string name="retention_hint">A lesson comes back when your chance of still knowing it has dropped to this. Higher means more reviews each day.</string>
+    <string name="smart">Smart scheduling</string>
+    <string name="smart_hint">Follows how firmly you hold each lesson and how hard it is for you (the method Anki now uses). Off: the classic ease rules.</string>
+    <string name="memory">Memory</string>
+    <string name="memory_body">Your chance, right now, of still knowing a lesson you have learned.</string>
+    <plurals name="slipping">
+        <item quantity="one">%1$d lesson keeps slipping</item>
+        <item quantity="other">%1$d lessons keep slipping</item>
+    </plurals>
+    <string name="slipping_hint">Missed five times or more. Watch the story again: the picture is what makes it stick.</string>
+    <string name="next_review">Next review: %1$s</string>
 </resources>

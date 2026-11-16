@@ -7,65 +7,65 @@
 
 @ topic |  | Topics | المواضيع
 cardiac | Cardiac surgery | جراحة القلب
-  foundations | Anatomy, physiology and imaging
-  cpb | Bypass and myocardial protection
-  coronary | Coronary disease and CABG
-  aortic-valve | Aortic valve
-  mitral-tricuspid | Mitral and tricuspid valves
-  aorta | Thoracic aorta and dissection
-  congenital | Congenital heart disease
-  heart-failure | Transplant and mechanical support
-  arrhythmia | Arrhythmia surgery and devices
-  perioperative | Perioperative and intensive care
-  other | Pericardium, tumours, trauma, embolism
+  foundations | Anatomy, physiology and imaging | التشريح والفيزيولوجيا والتصوير
+  cpb | Bypass and myocardial protection | المجازة القلبية الرئوية وحماية العضلة
+  coronary | Coronary disease and CABG | الشرايين التاجية وجراحة المجازات
+  aortic-valve | Aortic valve | الصمام الأبهري
+  mitral-tricuspid | Mitral and tricuspid valves | الصمامان التاجي وثلاثي الشرف
+  aorta | Thoracic aorta and dissection | الأبهر الصدري والتسلّخ
+  congenital | Congenital heart disease | أمراض القلب الخَلقية
+  heart-failure | Transplant and mechanical support | زرع القلب والدعم الميكانيكي
+  arrhythmia | Arrhythmia surgery and devices | جراحة اضطراب النظم والأجهزة
+  perioperative | Perioperative and intensive care | الرعاية حول الجراحة والعناية المركزة
+  other | Pericardium, tumours, trauma, embolism | التامور والأورام والرضوض والانصمام
 thoracic | Thoracic surgery | جراحة الصدر
-  foundations | Anatomy, physiology and assessment
-  lung-cancer | Lung cancer
-  lung-benign | Benign lung disease and infection
-  pleura | Pleura
-  mediastinum | Mediastinum and thymus
-  airway | Trachea and bronchi
-  oesophagus | Oesophagus
-  chest-wall | Chest wall and diaphragm
-  trauma | Thoracic trauma
-  transplant | Lung transplantation
+  foundations | Anatomy, physiology and assessment | التشريح والفيزيولوجيا والتقييم
+  lung-cancer | Lung cancer | سرطان الرئة
+  lung-benign | Benign lung disease and infection | أمراض الرئة الحميدة والإنتانات
+  pleura | Pleura | الجنبة
+  mediastinum | Mediastinum and thymus | المنصف والتوتة
+  airway | Trachea and bronchi | الرغامى والقصبات
+  oesophagus | Oesophagus | المريء
+  chest-wall | Chest wall and diaphragm | جدار الصدر والحجاب الحاجز
+  trauma | Thoracic trauma | رضوض الصدر
+  transplant | Lung transplantation | زرع الرئة
 vascular | Vascular surgery | جراحة الأوعية الدموية
-  foundations | Anatomy, haemodynamics and medical therapy
-  aorta | Aortic aneurysm and dissection
-  carotid | Carotid and cerebrovascular
-  peripheral | Limb arterial disease
-  visceral | Mesenteric and renal
-  venous | Venous and lymphatic disease
-  access | Dialysis access
-  endovascular | Endovascular technique and devices
-  trauma | Vascular trauma
-  other | Vasculitis, thoracic outlet, rare disease
+  foundations | Anatomy, haemodynamics and medical therapy | التشريح وديناميكا الدم والعلاج الدوائي
+  aorta | Aortic aneurysm and dissection | أمّ دم الأبهر والتسلّخ
+  carotid | Carotid and cerebrovascular | السباتي والأوعية الدماغية
+  peripheral | Limb arterial disease | أمراض شرايين الأطراف
+  visceral | Mesenteric and renal | الأوعية المساريقية والكلوية
+  venous | Venous and lymphatic disease | أمراض الأوردة واللمف
+  access | Dialysis access | مداخل الغسيل الكلوي
+  endovascular | Endovascular technique and devices | التقنيات داخل الأوعية وأدواتها
+  trauma | Vascular trauma | رضوض الأوعية
+  other | Vasculitis, thoracic outlet, rare disease | التهاب الأوعية ومخرج الصدر والأمراض النادرة
 
 @ d | d: | Knowledge type | نوع المعرفة
-anatomy | Anatomy and embryology
-physiology | Physiology and pathophysiology
-pathology | Pathology
-pharmacology | Pharmacology
-diagnosis | Presentation and investigation
-indications | Indications and decisions
-technique | Operative technique
-postoperative | Postoperative care
-complications | Complications
-evidence | Trials, guidelines and outcomes
+anatomy | Anatomy and embryology | التشريح وعلم الجنين
+physiology | Physiology and pathophysiology | الفيزيولوجيا والفيزيولوجيا المرضية
+pathology | Pathology | علم الأمراض
+pharmacology | Pharmacology | علم الأدوية
+diagnosis | Presentation and investigation | الأعراض والاستقصاءات
+indications | Indications and decisions | الاستطبابات والقرارات
+technique | Operative technique | التقنية الجراحية
+postoperative | Postoperative care | الرعاية بعد الجراحة
+complications | Complications | المضاعفات
+evidence | Trials, guidelines and outcomes | الدراسات والتوصيات والنتائج
 
 @ q | q: | Question style | نوع السؤال
-recall | Direct recall
-vignette | Clinical vignette
-next-step | Next best step
-numbers | Numbers and thresholds
+recall | Direct recall | استذكار مباشر
+vignette | Clinical vignette | حالة سريرية
+next-step | Next best step | الخطوة التالية
+numbers | Numbers and thresholds | أرقام وعتبات
 
 @ l | l: | Level | المستوى
-1 | Core
-2 | Intermediate
-3 | Advanced
+1 | Core | أساسي
+2 | Intermediate | متوسط
+3 | Advanced | متقدم
 
 @ x | x: | Flags | علامات
-high-yield | High yield
-trap | Commonly missed
-guideline | Guideline-based
-key-corrected | Answer key corrected
+high-yield | High yield | عالي الأهمية
+trap | Commonly missed | يُخطأ فيه كثيرًا
+guideline | Guideline-based | مبني على التوصيات
+key-corrected | Answer key corrected | مفتاح الإجابة مصحَّح

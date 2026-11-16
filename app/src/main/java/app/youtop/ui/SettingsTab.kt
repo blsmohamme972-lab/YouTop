@@ -89,6 +89,7 @@ fun SettingsTab(vm: MainViewModel) {
                 fun paced(p: StudySettings) = p.copy(
                     questionFirst = s.questionFirst, autoContinue = s.autoContinue, autoAdvance = s.autoAdvance, shuffleOptions = s.shuffleOptions,
                     speakQuiz = s.speakQuiz, excludedBooks = s.excludedBooks, focus = s.focus, weakFirst = s.weakFirst, afterGoal = s.afterGoal, randomNewOrder = s.randomNewOrder,
+                    smart = s.smart,
                 )
                 listOf(
                     R.string.preset_relaxed to StudySettings.Relaxed,
@@ -99,6 +100,16 @@ fun SettingsTab(vm: MainViewModel) {
             Stepper(stringResource(R.string.new_per_day), s.newPerDay.toFloat(), 5f, 0f..500f) { set(s.copy(newPerDay = it.roundToInt())) }
             Stepper(stringResource(R.string.daily_goal), s.dailyGoal.toFloat(), 5f, 5f..1000f) { set(s.copy(dailyGoal = it.roundToInt())) }
             Stepper(stringResource(R.string.reviews_per_new), s.reviewsPerNew.toFloat(), 1f, 0f..20f) { set(s.copy(reviewsPerNew = it.roundToInt())) }
+            if (s.smart) {
+                // The one dial of smart scheduling: how sure to be of a lesson when it comes back.
+                Label(stringResource(R.string.retention))
+                FlowRow(horizontalArrangement = Arrangement.spacedBy(8.dp), verticalArrangement = Arrangement.spacedBy(8.dp)) {
+                    listOf(0.85f to R.string.retention_light, 0.90f to R.string.retention_balanced, 0.94f to R.string.retention_strong).forEach { (value, label) ->
+                        Chip(stringResource(label), kotlin.math.abs(s.retention - value) < 0.005f) { set(s.copy(retention = value)) }
+                    }
+                }
+                Text(stringResource(R.string.retention_hint), color = Faint, fontSize = 12.sp, lineHeight = 17.sp)
+            }
             Label(stringResource(R.string.after_goal))
             FlowRow(horizontalArrangement = Arrangement.spacedBy(8.dp), verticalArrangement = Arrangement.spacedBy(8.dp)) {
                 listOf("more" to R.string.after_more, "ahead" to R.string.after_ahead, "stop" to R.string.after_stop).forEach { (value, label) ->
@@ -130,15 +141,21 @@ fun SettingsTab(vm: MainViewModel) {
             }
             if (advanced) {
                 Text(stringResource(R.string.advanced_hint), color = Faint, fontSize = 12.sp, lineHeight = 17.sp)
+                Toggle(stringResource(R.string.smart), s.smart, stringResource(R.string.smart_hint)) { set(s.copy(smart = it)) }
                 Steps(stringResource(R.string.learning_steps), s.learningSteps) { set(s.copy(learningSteps = it)) }
                 Steps(stringResource(R.string.relearning_steps), s.relearningSteps) { set(s.copy(relearningSteps = it)) }
-                Stepper(stringResource(R.string.graduating_days), s.graduatingDays, 1f, 1f..30f) { set(s.copy(graduatingDays = it)) }
                 Stepper(stringResource(R.string.easy_days), s.easyDays, 1f, 1f..60f) { set(s.copy(easyDays = it)) }
-                Stepper(stringResource(R.string.starting_ease), s.startingEase, 0.1f, 1.3f..4f, percent = true) { set(s.copy(startingEase = it)) }
-                Stepper(stringResource(R.string.easy_bonus), s.easyBonus, 0.05f, 1f..2f, percent = true) { set(s.copy(easyBonus = it)) }
-                Stepper(stringResource(R.string.hard_factor), s.hardFactor, 0.05f, 1f..1.5f, percent = true) { set(s.copy(hardFactor = it)) }
-                Stepper(stringResource(R.string.interval_modifier), s.intervalModifier, 0.05f, 0.3f..2f, percent = true) { set(s.copy(intervalModifier = it)) }
-                Stepper(stringResource(R.string.lapse_factor), s.lapseFactor, 0.1f, 0f..1f, percent = true) { set(s.copy(lapseFactor = it)) }
+                if (s.smart) {
+                    Stepper(stringResource(R.string.retention), s.retention, 0.01f, 0.75f..0.97f, percent = true) { set(s.copy(retention = it)) }
+                } else {
+                    // The classic rules' own dials; smart scheduling works these out for each lesson.
+                    Stepper(stringResource(R.string.graduating_days), s.graduatingDays, 1f, 1f..30f) { set(s.copy(graduatingDays = it)) }
+                    Stepper(stringResource(R.string.starting_ease), s.startingEase, 0.1f, 1.3f..4f, percent = true) { set(s.copy(startingEase = it)) }
+                    Stepper(stringResource(R.string.easy_bonus), s.easyBonus, 0.05f, 1f..2f, percent = true) { set(s.copy(easyBonus = it)) }
+                    Stepper(stringResource(R.string.hard_factor), s.hardFactor, 0.05f, 1f..1.5f, percent = true) { set(s.copy(hardFactor = it)) }
+                    Stepper(stringResource(R.string.interval_modifier), s.intervalModifier, 0.05f, 0.3f..2f, percent = true) { set(s.copy(intervalModifier = it)) }
+                    Stepper(stringResource(R.string.lapse_factor), s.lapseFactor, 0.1f, 0f..1f, percent = true) { set(s.copy(lapseFactor = it)) }
+                }
                 Stepper(stringResource(R.string.max_days), s.maxDays, 5f, 1f..3650f) { set(s.copy(maxDays = it)) }
                 TextButton(onClick = { confirmReset = true }) { Text(stringResource(R.string.reset_progress), color = Bad) }
             }

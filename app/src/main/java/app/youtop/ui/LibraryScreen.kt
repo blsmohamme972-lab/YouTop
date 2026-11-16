@@ -85,11 +85,12 @@ fun LibraryScreen(vm: MainViewModel, tab: LibraryTab, onTab: (LibraryTab) -> Uni
                     vm, onContinue = onClose,
                     onOpenBook = { openBook = it; onTab(LibraryTab.BOOKS) },
                     onOpenTopics = { onTab(LibraryTab.TOPICS) },
+                    onOpenLesson = open,
                 )
 
                 LibraryTab.BOOKS -> BooksTab(vm, books, settings.saved, openBook, { openBook = it }, open)
 
-                LibraryTab.TOPICS -> TopicsTab(vm)
+                LibraryTab.TOPICS -> TopicsTab(vm, onStudy = onClose)
 
                 LibraryTab.SAVED -> {
                     val saved = remember(books, settings.saved) { books.flatten().filter { it.key in settings.saved } }

@@ -23,6 +23,10 @@ data class Dashboard(
     /** Reviews coming due on each of the next seven days, tomorrow first. */
     val forecast: List<Int> = List(7) { 0 },
     val books: List<BookStat> = emptyList(),
+    /** Lessons that keep being forgotten ([CardState.isLeech]), hardest first: their keys. */
+    val leeches: List<String> = emptyList(),
+    /** Average chance, right now, of still knowing a learned lesson; null when nothing is learned yet. */
+    val recall: Float? = null,
 ) {
     companion object {
         /**
@@ -32,6 +36,9 @@ data class Dashboard(
         fun of(books: List<BookInfo>, excluded: Set<String>, progress: Progress, today: Long, now: Long, zoneOffsetMs: Int): Dashboard {
             var total = 0; var due = 0; var learning = 0; var learned = 0
             val forecast = IntArray(7)
+            val dayEnd = Scheduler.dayEnd(now, zoneOffsetMs)
+            val leeches = ArrayList<Pair<String, Int>>()
+            var recallSum = 0.0; var recallCount = 0
             val stats = books.map { book ->
                 var bTotal = 0; var bStarted = 0; var bLearned = 0; var bDue = 0
                 val counts = book.id !in excluded
@@ -40,14 +47,20 @@ data class Dashboard(
                     val chapterPrefix = prefix + chapter.id + "/"
                     for (lesson in chapter.lessons) {
                         bTotal++
-                        val card = progress.cards[chapterPrefix + lesson.id] ?: continue
+                        val key = chapterPrefix + lesson.id
+                        val card = progress.cards[key] ?: continue
                         if (card.phase == Phase.NEW) continue
                         bStarted++
-                        val isDue = card.due <= now
+                        val isDue = Scheduler.isDue(card, now, dayEnd)
                         if (isDue) bDue++
                         if (card.phase == Phase.REVIEW) bLearned++
                         if (!counts) continue
                         if (card.phase == Phase.REVIEW) learned++ else learning++
+                        if (card.isLeech) leeches += key to card.lapses
+                        if (card.phase == Phase.REVIEW && card.seen > 0L) {
+                            val held = if (card.stability > 0f) card.stability else card.interval
+                            recallSum += Memory.recall((now - card.seen).toFloat() / 86_400_000L, held); recallCount++
+                        }
                         if (isDue) due++ else {
                             val inDays = Scheduler.dayOf(card.due, zoneOffsetMs) - today
                             if (inDays in 1..7) forecast[(inDays - 1).toInt()]++
@@ -68,6 +81,8 @@ data class Dashboard(
                 total = total, due = due, learning = learning, learned = learned, fresh = total - learning - learned,
                 week = week, accuracy = if (done >= 5) 1f - again.toFloat() / done else null,
                 forecast = forecast.toList(), books = stats,
+                leeches = leeches.sortedByDescending { it.second }.map { it.first },
+                recall = if (recallCount > 0) (recallSum / recallCount).toFloat() else null,
             )
         }
     }

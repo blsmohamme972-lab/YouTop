@@ -1,6 +1,17 @@
 package app.youtop.ui
 
+import androidx.compose.animation.core.Spring
+import androidx.compose.animation.core.animateFloatAsState
+import androidx.compose.animation.core.spring
 import androidx.compose.foundation.background
+import androidx.compose.foundation.interaction.MutableInteractionSource
+import androidx.compose.foundation.interaction.collectIsPressedAsState
+import androidx.compose.foundation.layout.heightIn
+import androidx.compose.material3.ripple
+import androidx.compose.ui.graphics.Brush
+import androidx.compose.ui.graphics.graphicsLayer
+import androidx.compose.ui.semantics.Role
+import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.foundation.border
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
@@ -45,7 +56,8 @@ import kotlin.math.roundToInt
 
 // Building blocks shared by the library's pages.
 
-private val CardShape = RoundedCornerShape(20.dp)
+private val CardShape = RoundedCornerShape(22.dp)
+private val CardBrush = Brush.verticalGradient(listOf(Color(0xFF1D1A17), Surface1))
 
 /** A raised panel that groups related things. */
 @Composable
@@ -57,8 +69,8 @@ fun Card(
     content: @Composable ColumnScope.() -> Unit,
 ) {
     Column(
-        modifier.fillMaxWidth().clip(CardShape).background(Surface1)
-            .border(1.dp, Color.White.copy(alpha = 0.06f), CardShape)
+        modifier.fillMaxWidth().clip(CardShape).background(CardBrush)
+            .border(1.dp, Color.White.copy(alpha = 0.07f), CardShape)
             .then(if (onClick != null) Modifier.clickable(onClick = onClick) else Modifier)
             .padding(16.dp),
         verticalArrangement = Arrangement.spacedBy(spacing),
@@ -83,9 +95,10 @@ fun Chip(text: String, selected: Boolean, onClick: () -> Unit) {
         color = if (selected) OnAccent else Color.White,
         fontSize = 14.sp, fontWeight = FontWeight.SemiBold,
         modifier = Modifier.clip(CircleShape)
-            .background(if (selected) Accent else Color.White.copy(alpha = 0.09f))
+            .background(if (selected) Accent else Color.White.copy(alpha = 0.07f))
+            .border(1.dp, if (selected) Accent else Color.White.copy(alpha = 0.16f), CircleShape)
             .clickable(onClick = onClick)
-            .padding(horizontal = 14.dp, vertical = 7.dp),
+            .padding(horizontal = 14.dp, vertical = 8.dp),
     )
 }
 
@@ -155,9 +168,9 @@ fun Steps(label: String, steps: List<Int>, onChange: (List<Int>) -> Unit) {
 
 /** A thin bar: how much of something is done. [second] is drawn over [first] (e.g. learned over started). */
 @Composable
-fun ProgressLine(first: Float, modifier: Modifier = Modifier, second: Float = 0f, height: Dp = 4.dp) {
+fun ProgressLine(first: Float, modifier: Modifier = Modifier, second: Float = 0f, height: Dp = 4.dp, color: Color = Accent) {
     Box(modifier.fillMaxWidth().height(height).clip(CircleShape).background(Color.White.copy(alpha = 0.10f))) {
-        Box(Modifier.fillMaxWidth(first.coerceIn(0f, 1f)).height(height).clip(CircleShape).background(Accent))
+        Box(Modifier.fillMaxWidth(first.coerceIn(0f, 1f)).height(height).clip(CircleShape).background(color))
         Box(Modifier.fillMaxWidth(second.coerceIn(0f, 1f)).height(height).clip(CircleShape).background(Good))
     }
 }
@@ -175,29 +188,46 @@ fun EmptyState(icon: ImageVector, title: String, body: String? = null, modifier:
     }
 }
 
-/** The main action of a page: amber, full width. */
+/** Shrinks a little while a finger is on it, so a button feels pressed. */
+@Composable
+private fun Modifier.pressable(enabled: Boolean = true, onClick: () -> Unit): Modifier {
+    val source = remember { MutableInteractionSource() }
+    val pressed by source.collectIsPressedAsState()
+    val scale by animateFloatAsState(if (pressed) 0.96f else 1f, spring(stiffness = Spring.StiffnessMedium), label = "press")
+    return graphicsLayer { scaleX = scale; scaleY = scale }
+        .clickable(source, ripple(color = Color.White), enabled = enabled, role = Role.Button, onClick = onClick)
+}
+
+private val ButtonShape = RoundedCornerShape(18.dp)
+private val AccentBrush = Brush.verticalGradient(listOf(Color(0xFFFFDC85), Color(0xFFF9BE3F)))
+
+/** The main action of a page: amber, with a soft sheen. */
 @Composable
 fun PrimaryButton(text: String, icon: ImageVector? = null, modifier: Modifier = Modifier, enabled: Boolean = true, onClick: () -> Unit) {
     Row(
-        modifier.clip(CircleShape).background(if (enabled) Accent else Color.White.copy(alpha = 0.16f))
-            .clickable(enabled = enabled, onClick = onClick).padding(horizontal = 22.dp, vertical = 13.dp),
+        modifier.heightIn(min = 48.dp).clip(ButtonShape)
+            .then(if (enabled) Modifier.background(AccentBrush) else Modifier.background(Color.White.copy(alpha = 0.14f)))
+            .border(1.dp, Color.White.copy(alpha = if (enabled) 0.35f else 0.06f), ButtonShape)
+            .pressable(enabled, onClick).padding(horizontal = 22.dp, vertical = 12.dp),
         verticalAlignment = Alignment.CenterVertically, horizontalArrangement = Arrangement.Center,
     ) {
         val ink = if (enabled) OnAccent else Color.White.copy(alpha = 0.6f)
         if (icon != null) { Icon(icon, null, tint = ink, modifier = Modifier.size(20.dp)); Box(Modifier.width(8.dp)) }
-        Text(text, color = ink, fontSize = 15.sp, fontWeight = FontWeight.SemiBold)
+        Text(text, color = ink, fontSize = 15.sp, fontWeight = FontWeight.SemiBold, maxLines = 1, overflow = TextOverflow.Ellipsis)
     }
 }
 
-/** A quieter action. */
+/** A quieter action: an outlined pill. */
 @Composable
 fun SecondaryButton(text: String, icon: ImageVector? = null, modifier: Modifier = Modifier, tint: Color = Color.White, onClick: () -> Unit) {
     Row(
-        modifier.clip(CircleShape).background(Color.White.copy(alpha = 0.09f)).clickable(onClick = onClick).padding(horizontal = 16.dp, vertical = 11.dp),
+        modifier.heightIn(min = 44.dp).clip(ButtonShape).background(Color.White.copy(alpha = 0.07f))
+            .border(1.dp, Color.White.copy(alpha = 0.16f), ButtonShape)
+            .pressable(onClick = onClick).padding(horizontal = 16.dp, vertical = 10.dp),
         verticalAlignment = Alignment.CenterVertically, horizontalArrangement = Arrangement.Center,
     ) {
         if (icon != null) { Icon(icon, null, tint = tint, modifier = Modifier.size(18.dp)); Box(Modifier.width(8.dp)) }
-        Text(text, color = tint, fontSize = 14.sp, fontWeight = FontWeight.SemiBold)
+        Text(text, color = tint, fontSize = 14.sp, fontWeight = FontWeight.SemiBold, maxLines = 1, overflow = TextOverflow.Ellipsis)
     }
 }
 

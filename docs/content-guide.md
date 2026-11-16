@@ -2,6 +2,14 @@
 
 For whoever turns the owner's MCQ books into lessons. Read `CLAUDE.md` first.
 
+**The short path is the `youtop-lessons` skill** (`.claude/skills/youtop-lessons/SKILL.md`) with
+`tools/content/batch.py`: you fill in one text file per batch (titles, tags, scene, story,
+quotation, explanation) and the tool does the rest — questions copied from the master file, lessons
+and image prompts built, pictures converted, spots applied and drawn, the rules below checked,
+texts with a recorded voice protected. This guide is the reference behind it: the reasons, the
+formats, and what to do for a new book or a recording. The older batches' own scripts
+(`work/shahzad-2015/batch03/batch03.py` …) are history; do not copy that way of working.
+
 The library is planned to pass **5,000 questions** in cardiac, thoracic and vascular surgery.
 Everything below is shaped by that size: lessons are published in chapter files of about 100,
 the app loads only a light index, and every lesson is tagged so the owner can study by topic.
@@ -119,8 +127,8 @@ The owner found the first twenty pictures not good enough (they were all brown, 
 with small things). Since lesson 21 every prompt also asks for: one dominant focal point drawn
 larger than life; only the few elements described, each big and in its own area with empty space
 between; a bold colour scheme named for that picture; and a different setting each time (dawn at
-a gate, a forge at dusk, a summer fair, a monastery at evening…). The frame is the `prompt`
-function in `work/shahzad-2015/batch03/batch03.py` on `content`; reuse it.
+a gate, a forge at dusk, a summer fair, a monastery at evening…). The frame is built into
+`tools/content/batch.py` (`image_prompt`), with the book's style from `content/books/<book id>.json`.
 
 ### Step 4 — quotations
 

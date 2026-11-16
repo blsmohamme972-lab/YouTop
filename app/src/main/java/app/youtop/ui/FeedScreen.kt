@@ -329,6 +329,13 @@ private fun LessonPage(entry: FeedEntry, active: Boolean, vm: MainViewModel, onN
     val rtl = track?.let { isRtl(it.lang) } ?: false
     val context = LocalContext.current
 
+    // After the question is answered: when the scheduler will bring this lesson back.
+    val progress by vm.progress.collectAsStateWithLifecycle()
+    val nextReview = if (!quiz.done) null else progress.cards[item.key]?.takeIf { it.phase != app.youtop.study.Phase.NEW }?.let {
+        val now = System.currentTimeMillis()
+        android.text.format.DateUtils.getRelativeTimeSpanString(maxOf(it.due, now + 60_000), now, android.text.format.DateUtils.MINUTE_IN_MILLIS).toString()
+    }
+
     // Back closes an open question instead of leaving the app.
     BackHandler(enabled = active && showQuiz && !vm.covered) { vm.narrator.stopSaying(); showQuiz = false }
 
@@ -372,7 +379,7 @@ private fun LessonPage(entry: FeedEntry, active: Boolean, vm: MainViewModel, onN
                 maxLines = 1,
                 overflow = TextOverflow.Ellipsis,
             )
-            val topic = Tags.mainTopic(info.tags)?.let { taxonomy.titles[it] }
+            val topic = Tags.mainTopic(info.tags)?.let { taxonomy.label(it, rtl) }
             if (topic != null) {
                 Text(
                     topic.uppercase(),
@@ -524,6 +531,7 @@ private fun LessonPage(entry: FeedEntry, active: Boolean, vm: MainViewModel, onN
                 onDone = report,
                 onNext = { vm.narrator.stopSaying(); onNext() },
                 onClose = { vm.narrator.stopSaying(); showQuiz = false },
+                nextReview = nextReview,
                 onWatch = {
                     vm.narrator.stopSaying()
                     watching = true
