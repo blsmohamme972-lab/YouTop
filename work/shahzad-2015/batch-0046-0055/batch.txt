@@ -35,7 +35,7 @@ explanation:
 The bronchial arteries arise from the thoracic aorta at the level of T5 to T6.
 There are usually two on the left, a superior and an inferior, arising directly from the anterior surface of the aorta.
 The single right bronchial artery shares its origin with an intercostal artery, as the intercostobronchial trunk, from the right posterolateral aspect of the aorta.
-They carry most of the oxygen supply of the lung, and supply the trachea and bronchi, lymph nodes, the visceral pleura and the middle third of the oesophagus.
+They supply the trachea and bronchi, lymph nodes, the visceral pleura and the middle third of the oesophagus, and the book credits them with most of the oxygen supply of the lung tissue itself.
 The classic pattern of two on the left and one on the right is found in only 60% of patients.
 They also supply the vasa vasorum of the aorta, the pulmonary artery and the pulmonary vein, which is the correct statement.
 
@@ -92,11 +92,11 @@ scene: a village at night seen from a hill, a road running up the middle of the 
 story:
 في ليلة بلا قمر، شبّت النار في بيت الخبّاز، على الجانب الأيسر من الطريق.
 لم يصرخ رئيس الإطفاء كوزميتش، ولم يركض. غرس عصاه المخطّطة أمام اللهب، وقرأ.
-«جاوزت الثلاثة، ولم تبلغ الخمسة. اعقد عقدةً يا بيتيا.»
+«جاوزت الثلاثة، ولم تجاوز الخمسة. اعقد عقدةً يا بيتيا.»
 ثمّ تبع بعينيه خيط الشرر الطائر، حتّى برج الأجراس في وسط القرية.
 هناك اشتعل قنديلان، على جانب النار نفسه. أمّا البرج الّذي يقابله عبر الطريق فظلّ معتمًا.
 «بلغت الوسط، ولم تعبر الطريق. عقدة ثانية يا ولد.»
-وأخيرًا نظر بعيدًا، وراء النهر. المعديّة مقيّدة بسلسلتها، وعلى جنبها صفر بالطّبشور. والطّاحونة سليمة تحت النجوم.
+وأخيرًا نظر بعيدًا، وراء النهر. المعدّية مقيّدة بسلسلتها، وعلى جنبها صفر بالطّبشور. والطّاحونة سليمة تحت النجوم.
 «لم يركب الشرر الماء. هذه هي الثالثة.»
 «ثلاث عقد يا عمّي!» هتف الصبيّ وهو يرفع الحبل. «الآن نعرف عدوّنا باسمه الكامل.»
 حدّق كوزميتش في اللهب الّذي بدأ صغيرًا حرًّا، وقال:
@@ -203,7 +203,7 @@ story:
 فدار الماء من فوق الصخر حوله، وبلغ الحقول السفلى من طرق خفيّة.
 وفي المرج الشاحب يلعب الصغير ميشكا بقاربه الخشبيّ، مورّد الخدّين، لا يدري بشيء.
 «انظروا إليه يلعب! من يراه يحسب الوادي بخير.»
-هزّ تروفيم رأسه أمام دولابه الواقف، وقال:
+هزّ تروفيم رأسه أمام دولابه المتثاقل، وقال:
 quote: «الفقر ليس رذيلة، هذه حقيقة. لكنّ البؤس يا سيّدي الكريم، البؤس رذيلة.»
 source: الجريمة والعقاب
 explanation:
@@ -240,7 +240,7 @@ story:
 ثمّ جاؤوا بمهد قبل أوانه، ووضعوه عند كرسيّ فارغ. لم يكن صانع تلك الزاوية قد وصل بعد.
 فانطبقت الفقاقيع حول المهد واحدةً واحدة، جلودًا مبتلّةً بلا نفس.
 «أين صاحب هذا الكرسيّ؟» صرخت القابلة. «نساء الملاءات لا يصنعن صابونًا!»
-ترك غافريلا قدره ليسند ملاءةً مزّقها السقوط، ونظر إلى الطفل الأزرق، وقال:
+ترك أحد رفاقه قدره ليسند ملاءةً مزّقها السقوط. أمّا غافريلا فنظر إلى الطفل الأزرق، وقال:
 quote: «الانسجام كلّه لا يساوي دمعة طفل معذّب واحد.»
 source: الإخوة كارامازوف
 explanation:
@@ -275,7 +275,7 @@ story:
 «من أيّ بيت جاءتني هذه اللعنة؟» زمجر الطحّان أرخيب وهو ينزعها بكلّابه.
 «من المترهّل؟ من المنقلب؟ من الموبوء؟ لا فرق. كلّهم يرمون في الماء نفسه.»
 ثمّ رفع عينيه إلى البيوت الثلاثة البعيدة، ولان صوته، وقال:
-quote: «في أغلب الأحوال، يكون الناس، حتّى الأشرار منهم، أبسط وأطيب قلبًا ممّا نظنّ. ونحن أنفسنا كذلك.»
+quote: «في أغلب الأحوال، يكون الناس، حتّى الأشرار منهم، أكثر سذاجةً وبساطة قلب ممّا نظنّ. ونحن أنفسنا كذلك.»
 source: الإخوة كارامازوف
 explanation:
 The three conditions look unalike, but each can send emboli into the systemic circulation.
@@ -339,7 +339,7 @@ must: the silver coin stands spinning on its edge exactly above the cradle; the 
 scene: a tall narrow nursery in an old house at night, divided down the middle by light: one half golden candlelight, the other half deep shadow. CENTRE, dominant and larger than life: a great silver coin spins on its edge in the air exactly above a cradle that stands half in the light and half in the dark; the number 50 is engraved on the coin; in the cradle an ordinary, round, sleeping baby. Bending over it is the father, extremely tall and thin, with very long spidery fingers, a white bandage across his chest under his open shirt, and a monocle that has slipped sideways off his eye. BACK WALL: four ancestor portraits in a row, three of them of very tall thin people who look alike, the fourth of a short, stout stranger. LEFT: a clerk bent over a huge ledger with a magnifying glass; several of the ledger's pages are completely blank. RIGHT, under a carved family crest above the door: a judge pressing a single wax seal on a paper, a second unused seal lying beside it.
 story:
 في غرفة الطفل قسم الضوء العالم نصفين: نصف من ذهب الشموع، ونصف من ظلام.
-انحنى الأب إيلاريون على المهد. طويل نحيل كسارية، أصابعه كأرجل العنكبوت، على صدره ضماد، ونظّارته المفردة منزلقة عن عينه.
+انحنى الوالد إيلاريون على المهد. طويل نحيل كسارية، أصابعه كأرجل العنكبوت، على صدره ضماد، ونظّارته المفردة منزلقة عن عينه.
 وفوق المهد تمامًا، درهم فضّيّ عظيم يدور على حافّته، وعليه الرقم خمسون.
 «وجه لي، ووجه لأمّه.» همس الأب. «ليس لابني الوحيد إلّا هذه الرمية.»
 نام الرضيع مستديرًا ككلّ الرضّع، نصفه في النور ونصفه في العتمة. لا شيء فيه ينبئ بشيء. ستمرّ سنوات قبل أن يبوح جسده بسرّه.
@@ -356,4 +356,5 @@ Spontaneous mutations account for only about 25% of patients; most cases are inh
 Some manifestations do not appear until adolescence, so the diagnosis can be very difficult in early childhood.
 The major criteria are aortic aneurysm, aortic dissection, ectopia lentis, dural ectasia and at least four skeletal manifestations.
 With a positive family history, one major criterion and the involvement of another organ system are enough; without one, at least two major criteria are needed.
+note: These are the criteria the book uses; the revised Ghent criteria of 2010, in use now, are built differently, around aortic root dilatation, ectopia lentis, a systemic score and FBN1 testing. The 50% chance for each child is the same either way.
 
