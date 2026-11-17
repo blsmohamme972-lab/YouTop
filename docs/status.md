@@ -21,7 +21,14 @@ Updated 2026-11-17 (evening). Whoever works on YouTop next: read `CLAUDE.md`, th
   voice read "open parenthesis".
 - **Pictures 21 and 22 arrived and are published** with spots and marks (`work/shahzad-2015/batch03/`).
 - **Lessons 76-105 are complete** (pictures, spots, marks); see the git log of `content` and the work folders.
-- **Pictures still missing: 23-30, 46-75, 106-125.** Next round: lessons 126-145.
+- **Round 2 (2026-11-17, 22:42 to about 01:30 UTC): lessons 126-145 published** with text and voice (work files
+  `work/shahzad-2015/batch-0126-0135/`, `batch-0136-0145/`); figures of 138-140 published. Checkers found 3 errors,
+  all fixed before the voice (verb vowels in 126 and 141, "ابنة الستّ والثلاثين" in 132) and 11 warnings, fixed:
+  127, 132 (unnamed speakers now introduced), 133 explanation (the book's "enucleation" means resection; plexus
+  invasion "uncommon"), 137 (a whole paw, not a claw), 141, 143, 145 (feeding, not drinking; the duct may heal,
+  not "often"), names that began with a sukun. Left on purpose: 143's story is set in a hospital because its scene
+  is. `voice.py check`: every sentence heard (two flags were digits and a clipped word).
+- **Pictures still missing: 23-30, 46-75, 106-145.** Next round: lessons 146-165.
 - Lesson learned this round: never run `voice.py make` and `batch.py build` on the same chapter at the same
   time; the second one to write the chapter file overwrites the other's changes.
 
