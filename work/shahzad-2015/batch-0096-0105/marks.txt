@@ -1,0 +1,107 @@
+book: shahzad-2015
+== 96
+1: 40 53 12 | The long iron blowpipe | The trachea
+2: 50 38 28 | Two blue wineskins squeezing the blowpipe | Huge tortuous pulmonary arteries lie across the trachea and compress it
+3: 72 50 12 | The glassblower purple in the face | Severe respiratory distress
+4: 10 68 11 | The glass bubble sagging, not blown up | No air gets through: the airway is obstructed
+5: 82 13 15 | Blue doorway with empty hinges, door gone | Tetralogy with absent pulmonary valve: the arteries become hugely dilated
+6: 11 28 11 | The mason pointing, nobody listening | VSD and right ventricular hypertrophy belong to the tetralogy, not the cause
+7: 31 25 7 | Hole in the thick brick wall | The septal defect and thick right ventricle do not obstruct the airway
+8: 19 12 7 | Iron ring hanging unused on its nail | Not a vascular ring: here the pulmonary arteries are simply huge
+question: 3 5
+answer: 2
+== 97
+1: 60 57 20 | Clay conduit weeping into a row of pails | The Blalock-Taussig shunt leaking serous fluid that keeps draining
+2: 13 85 12 | Jug of white milk beside the puddle | Chyle would be milky; this fluid has no triglycerides
+3: 32 86 12 | The cat turning its back on the puddle | Not chyle, so parenteral nutrition is not the treatment
+4: 82 73 15 | Boy emptying pail after pail | Draining the fluid does not stop it
+5: 88 43 11 | Man holding a clay patch | Revising the same shunt does not stop it
+6: 28 27 20 | Vinedresser raising his pick | Remove the shunt and place a classic shunt on the other side
+7: 18 60 11 | The old conduit broken open | The weeping right shunt is removed
+8: 82 20 13 | New conduit on the opposite hillside | A classic BT shunt on the other side, using the child's own artery
+question: 1 2
+answer: 6 7 8
+== 98
+1: 37 38 16 | Hose bulging hard above the pinch | High pressure above the narrowing: the arm pressure
+2: 48 52 7 | Old stitched patch, narrowed again | Recoarctation at the site of the earlier repair
+3: 52 61 9 | Pink bladder blown up inside the pinch | Balloon dilatation of the recoarctation
+4: 15 70 12 | Thin side hoses tied round the pinch | Large collaterals and adhesions make a second operation dangerous
+5: 87 90 8 | Limp hose end, nozzle only dribbling | Low pressure in the legs: the arm-leg gradient
+6: 30 22 13 | Boy blowing into the cane at the pump end | The balloon is passed in from inside the vessel: no reoperation
+7: 85 30 15 | Fireman with knife waiting on his bench | Surgical revision is the second choice, if dilatation fails
+question: 2 1 5
+answer: 3 6
+== 99
+1: 50 28 12 | Boat that must put out into the storm now | Emergency coronary surgery after failed stenting
+2: 75 11 22 | Caulkers with mittens tied on, arms raised | Abciximab blocks IIb/IIIa receptors: platelets cannot aggregate
+3: 82 42 14 | Seams in the hull weeping water | Exaggerated bleeding after bypass
+4: 12 25 12 | Gentleman walking off with a bag of mittens | The cardiologist gave the drug for a stent that could not be placed
+5: 65 22 12 | Harbour master beckoning from the deck | Order something besides the routine products
+6: 35 50 28 | Rowboat of fresh caulkers, bare hands linked | Fresh platelets after bypass restore platelet function
+7: 85 80 15 | Red barrels left on the quay | Extra units of blood replace loss but do not restore clotting
+8: 70 90 11 | Glue pot and small brown bottle | Cryoprecipitate, fibrinogen and aprotinin are not what is missing
+question: 1 3 4
+answer: 6
+== 100
+1: 43 47 26 | Stagehands sawing open the middle boards | Redo sternotomy: the saw passes in the midline, behind the sternum
+2: 26 76 16 | Swollen blue bellows under the boards | Enlarged right ventricle against the sternum, easily lacerated
+3: 70 76 16 | Second bulging blue bag | Enlarged right atrium, also at risk at re-entry
+4: 50 90 12 | Fat red pipe marked 6 at the bottom | Ascending aorta dilated to 6 cm: at risk at re-entry
+5: 80 82 7 | Green hose crossing under the saw | Patent vein graft to the RCA crossing the front of the heart
+6: 8 18 10 | Thin red pipe on the far wall, child on it | In-situ LIMA to circumflex runs laterally: no added risk
+7: 87 35 12 | Old prompter covering his eyes | He knows what lies under the boards: the dangers of re-entry
+question: 1
+answer: 6
+== 101
+1: 42 68 22 | New iron gate caked in dark red crust | Mechanical aortic valve thrombosed despite anticoagulation
+2: 85 22 16 | The great mill wheel hanging still | The left ventricle that will not recover
+3: 10 30 11 | Steam pump with five chalk strokes | The LVAD, five days on: little blood crosses the new valve
+4: 35 88 14 | Still water in front of the gate | Minimal flow across the valve lets thrombus form
+5: 47 34 13 | Daughter lowering a lantern down the shaft | Transoesophageal echocardiography to look at the valve
+6: 87 52 12 | Man bringing a second pump on a cart | A right-sided device or ECMO: not before excluding a correctable cause
+7: 85 72 15 | Man carrying a whole new wheel | Transplant: not before excluding a correctable cause
+8: 68 45 9 | Old miller waving the others away | Patients failing to wean after valve replacement: suspect thrombosis
+question: 2 3
+answer: 5
+== 102
+1: 58 10 15 | One great chimney, a mason dividing it | Truncus arteriosus under repair
+2: 50 25 10 | Empty cobwebbed sentry box above the door | The thymus is absent
+3: 64 40 6 | House number 22 on the doorpost | 22q11 deletion: DiGeorge syndrome
+4: 38 82 22 | Lime barrel almost empty, boy scraping it | Parathyroids missing too: low calcium levels
+5: 23 50 13 | Master pointing into the barrel | Watch the calcium during and after the repair
+6: 78 28 8 | Whitewash flaking off the wall | What low calcium does
+7: 50 52 11 | Baby's cradle trembling in the doorway | Hypocalcaemia: trembling and tetany
+8: 85 50 15 | Wine casks rolled through an arch of light | Depressed immunity: blood must be irradiated
+question: 1 2
+answer: 4
+== 103
+1: 63 15 12 | Empty door frame in its proper place | The tricuspid annulus in its normal position
+2: 50 50 22 | Huge door leaf sunk far below its frame | Ebstein anomaly: leaflets displaced down into the right ventricle
+3: 25 22 18 | Vast empty upper room | Part of the right ventricle is atrialised
+4: 28 62 13 | Old porter on the stairs making all wait | The atrioventricular node
+5: 93 52 8 | Hidden chute in the outer wall | Accessory pathway in the right ventricular free wall
+6: 83 70 12 | Boy shooting down the chute, laughing | Conduction bypassing the AV node
+7: 55 87 20 | Wet footprints running in a ring | Re-entrant tachycardia of Wolff-Parkinson-White
+question: 5 7
+answer: 2 3
+== 104
+1: 66 55 8 | Small gap in the green hedge | An isolated ventricular septal defect
+2: 66 27 7 | Young shoots growing at the gap's edges | It may close by itself
+3: 83 80 14 | Rosy baby playing calmly on the grass | No symptoms: watched in hope of spontaneous closure
+4: 52 38 14 | Cake with one tall burning candle | Elective closure by the age of 1 year
+5: 33 26 8 | The mother asking how long to wait | When should an asymptomatic VSD be closed?
+6: 82 32 14 | Gardener holding a woven hurdle | Closure: after 1 year spontaneous closure becomes unlikely
+7: 12 13 10 | Stone gateway being walled up far off | Canal and subarterial defects never close: repaired early
+question: 1 3
+answer: 4
+== 105
+1: 33 38 14 | Exhausted grey horse, head hanging | Cardiac index 1.8 and systolic 80: low cardiac output
+2: 85 64 12 | Iron brake blocks red-hot and smoking | SVR 2,800: very high afterload
+3: 15 82 16 | Boy with pails by the brim-full trough | Wedge 15: filling is adequate, no more fluid
+4: 17 24 15 | Carter with raised whip, arm caught | Adrenaline or dobutamine: more whip with the brake still on
+5: 55 42 13 | Young groom in a white shirt | Milrinone: inotrope and afterload reducer at once
+6: 29 52 8 | Bag of oats under the horse's mouth | Milrinone raises the cardiac output
+7: 86 44 8 | Groom spinning the brake wheel loose | Milrinone lowers the afterload and the wedge pressure
+8: 79 22 12 | Big man waiting to push the wagon | The balloon pump is kept for when drugs fail
+question: 1 2
+answer: 5 6 7

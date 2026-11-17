@@ -1,0 +1,99 @@
+book: shahzad-2015
+== 76
+1: 77 69 17 | The steward stepping back from the torrent | The right atrium opened: a large flow comes through the coronary sinus
+2: 43 55 22 | The small back door stretched to a huge mouth | A very large coronary sinus with a large flow
+3: 71 30 9 | The usual stream falling from the upper right | The normal right superior vena cava
+4: 12 33 14 | Second stream from the upper left, by a turret | A persistent left superior vena cava, behind the left atrial appendage, joining the sinus
+5: 46 12 17 | The broken footbridge at the top | The innominate vein is absent
+6: 18 80 16 | A workman fitting the stream with its own pipe | The left superior vena cava must be cannulated for work inside the heart
+7: 90 60 9 | The neighbour manor's red hall turning violet | Unroofed coronary sinus: it enters the left atrium, a right-to-left shunt with mild cyanosis
+question: 1 2
+answer: 4
+== 77
+1: 14 22 12 | A young woman with a blue ribbon at her neck | A long-term jugular venous line
+2: 9 39 9 | The ribbon's end trailing in the blue canal | A patient with a long-term venous line most likely has a clot on it
+3: 38 82 17 | The left mill wheel frozen white | The cold left leg: an embolus in a leg artery
+4: 14 80 14 | A plumber hacking at the frozen wheel | A femoral angiogram or venogram looks at the leg and misses the hole in the heart
+5: 55 24 24 | Old tuner with fork and ear trumpet on the wall | An echocardiogram shows the hole in the heart
+6: 74 58 9 | A hidden cat-flap, a pebble slipping through | Paradoxical embolus through a patent foramen ovale or atrial septal defect
+question: 1 3
+answer: 5
+== 78
+1: 22 19 13 | The old keeper with his hand on the old pump | In a heterotopic transplant the patient's own heart is left in place
+2: 62 44 14 | The old worn copper pump | The patient's own heart, not removed
+3: 85 36 12 | A young brass pump strapped on its shoulder | The donor heart connected beside it: a double heart
+4: 68 28 8 | The two red outlets bolted mouth to mouth | The aorta and the left atrium are joined directly
+5: 52 61 12 | A grey canvas sleeve between the blue pipes | A conduit is needed to reconstruct the pulmonary artery
+6: 57 88 15 | A short blue pipe on the floor, kinked and split | The donor pulmonary artery is too short: tension and kinking without a conduit
+question: 2 3
+answer: 5
+== 79
+1: 42 90 13 | The great drain plugged by a red cork and hose | A retrograde cardioplegia catheter lies in the coronary sinus and blocks it
+2: 14 70 14 | A man pumping water in backwards | Cardioplegia given retrogradely through the coronary sinus
+3: 5 47 6 | Blue channels in the walls running backwards | Cardioplegia running backwards through the cardiac veins
+4: 42 46 13 | The housekeeper looking up, apron spread | With the coronary sinus blocked, venous drainage goes by other routes
+5: 22 32 20 | Pinholes weeping into the left basins | The Thebesian veins drain the heart into all four chambers
+6: 74 32 22 | The right-hand basins filling and overflowing | Thebesian veins empty mostly into the right chambers
+7: 80 69 17 | Small porters with tiny pails, a board with 5 | About 5% leaves through the lymphatics
+question: 1 2
+answer: 5 6
+== 80
+1: 16 46 13 | The horse asleep beside a violet K lick-stone | Potassium causes the arrest
+2: 70 15 18 | A woman wrapping the bells in grey felt | Magnesium decreases the action potentials
+3: 61 80 9 | A small pail of white lime | Calcium stabilises the membrane; some must be in the induction solution
+4: 72 45 10 | The whitewashed half of the wall, standing firm | Where calcium is present the cells stay stable
+5: 90 62 10 | The unwashed half crumbling to red dust | Absent calcium leads to membrane instability and lysis of cells
+6: 38 36 10 | The spring man at the gate, his pail upside down | Calcium is left out of the reperfusate, to prevent reperfusion injury
+question: 5
+answer: 3
+== 81
+1: 7 10 6 | A small pipe overhead tied with a red cord | Ligation of a patent ductus arteriosus
+2: 16 22 13 | The dazed rope-man, his hand bandaged | Phrenic nerve injury, a rare complication of ductus ligation
+3: 22 38 12 | The left half of the floor canvas risen, slack | The elevated left hemidiaphragm
+4: 10 55 13 | A seamstress with a great needle | Plication only if the child cannot be weaned from the ventilator
+5: 52 45 17 | The grandmother knitting, raising one hand | The child is extubated: supportive treatment, observation
+6: 85 55 13 | A small boy playing with his ball | The child is extubated and breathing on his own
+7: 85 33 13 | The big bellows covered in the corner | The ventilator is not needed
+question: 1 3
+answer: 5
+== 82
+1: 16 70 11 | Fresh white patches on the hull | The heart just after repair of tetralogy of Fallot
+2: 34 73 7 | The limp pennant | Low cardiac output: poor perfusion, hypotension, acidosis, falling urine
+3: 19 43 14 | The thin left rower in red, rowing hard | The left ventricle is not the cause
+4: 60 45 20 | The swollen, slack right-hand rower | A dilated, hypocontractile right ventricle: right ventricular dysfunction
+5: 88 72 15 | A row of stakes in front of his oar | Residual right ventricular outflow obstruction, the commonest reason
+6: 46 32 11 | Water heaped in a mound behind him | Right-sided filling pressures are usually raised
+7: 83 25 13 | A nurse laying cold cloths on the right rower | Ventilatory and pressor support for three to four days
+question: 1 2
+answer: 4
+== 83
+1: 10 46 11 | The old gate hanging broken open | Severe aortic regurgitation: cardioplegia cannot go into the aortic root
+2: 93 55 8 | A new gate leaning ready | The aortic valve is being replaced
+3: 9 28 8 | The pump and hose into the back drain | Retrograde cardioplegia through the coronary sinus
+4: 27 18 12 | A man about to pump harder, a hand stops him | More volume, oxygen or pressure does not correct the poor distribution
+5: 83 39 5 | The right-hand spout still running dark | Desaturated effluent from the right coronary ostium: poor retrograde perfusion
+6: 42 77 30 | Ten pails, three tipped in the ditch; board 30 | About 30% of retrograde flow is non-nutritive
+7: 74 49 7 | The watering can held to the spout | Give antegrade cardioplegia directly through the coronary ostia
+question: 1 5
+answer: 7
+== 84
+1: 77 59 10 | The crusted, crumbling plaster arch | Atherosclerotic debris from the ascending aorta and arch
+2: 45 38 13 | Dust and chips flying up the stairwell | Embolic debris travelling to the brain
+3: 55 9 17 | The lamp keeper; lamps going out at the top | Stroke: neurological injury in 3 to 9% of patients
+4: 13 37 13 | A crew only hanging a door, a small puff | Isolated valve surgery: lower stroke risk
+5: 74 37 12 | A crew only laying pipes, a small puff | Isolated coronary bypass: lower stroke risk
+6: 93 22 6 | A man alone at a small side window | Minimally invasive direct coronary bypass: hardly any risk
+7: 37 76 30 | The double crew under the arch, the big cloud | Combined valve and coronary bypass surgery: the highest risk of stroke
+question: 2 3
+answer: 7
+== 85
+1: 25 75 25 | The great red pipe, crusted along its front | Atherosclerotic plaques lie mostly in the anterior ascending aorta
+2: 55 8 18 | Lamp room above, chips flying up, a lamp out | Plaque debris reaching the brain causes most strokes
+3: 15 50 15 | The foreman shrugging, palm on the pipe | Direct palpation is not sensitive enough to find the plaques
+4: 82 55 15 | A woman pressing a listening horn to the pipe | Epiaortic scanning is the best method
+5: 89 27 11 | A clean side pipe with a spare tap | Another cannulation site: axillary, femoral, subclavian or innominate artery
+6: 50 47 17 | The workman swinging his mallet | The highest stroke risk is when the aorta is cannulated
+7: 49 66 10 | The brass tap driven into the pipe's front | Aortic cannulation through the plaques
+8: 17 25 13 | The iron clamp on the wall, a black ribbon | Such an aorta should never be cross-clamped
+question: 1 2
+answer: 6 7

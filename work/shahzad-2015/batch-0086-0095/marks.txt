@@ -1,0 +1,102 @@
+book: shahzad-2015
+== 86
+1: 84 47 14 | Wide green pipe joined to a narrow red pipe | A saphenous vein graft sewn to a much narrower coronary artery
+2: 50 48 25 | Green pipe sawn open, lined with grey felt | Intimal hyperplasia: commonest cause of vein graft narrowing in year one
+3: 60 61 18 | Twelve notches cut in the bench edge | Diffuse intimal thickening is found in practically every graft by one year
+4: 22 42 18 | Boy pushing one rod through both pipes | Lumen of the vein remodels to match the artery; smooth, diffuse, not progressive
+5: 36 15 18 | Old pipe on the shelf full of rusty lumps | Atherosclerosis causes late failure, years after the operation
+6: 78 78 18 | Crooked leaking joint in the corner | Technical error explains failures in the first weeks, not this
+7: 75 20 16 | Old plumber staring, hand on his chin | The lining grows by itself; hyperplasia is inversely related to graft flow
+question: 1
+answer: 2
+== 87
+1: 32 16 20 | Bricked-up cellar door overgrown with roots | A second bypass means reopening a chest full of adhesions
+2: 84 56 13 | Axe a finger from a live old pipe in the wall | Patent old grafts lie in the way and can be injured during re-entry
+3: 81 12 14 | Brass alarm bell clanging at night | Emergency surgery: the highest risk factor in redo coronary bypass
+4: 48 40 22 | Two men hacking at the wall in panic | Emergency: rapid, safe access to the heart and aorta is difficult
+5: 8 16 9 | Lantern flickering, almost out | Emergency redo patients are usually hypotensive
+6: 12 55 12 | Boy shouting and pointing at the pipe | Old patent grafts can be injured during re-entry
+7: 87 83 14 | Heavy bell-shaped iron weight | Emergency outweighs every other risk factor listed
+8: 55 89 15 | Four small iron weights | Female sex, age, poor LV function, lung disease add less risk
+question: 1 8
+answer: 3 4 7
+== 88
+1: 59 32 11 | Blue door being sawn out with its frame | The pulmonary valve is excised as the autograft: the difficult step
+2: 18 74 15 | Empty red doorway of the left room | The autograft replaces the aortic valve (Ross procedure)
+3: 38 31 8 | Thin red wire hidden in the wall | First septal branch of the LAD runs just behind the pulmonary root
+4: 44 55 8 | Sparks where the saw nicks the wire | Damage to the septal coronary branch: the cause of the arrhythmias
+5: 73 52 16 | Carpenter sawing too close to the frame | An incision too close to the leaflet attachment can injure the artery
+6: 20 18 17 | Big wall clock with wildly spinning hands | Ventricular arrhythmias after the Ross procedure
+7: 17 48 11 | Old master clutching his head in the doorway | Poor myocardial protection tempts, but the septal artery is the hazard
+question: 1 6
+answer: 4
+== 89
+1: 49 63 8 | Narrow slit gate in the stone dam | A severely stenosed aortic valve: the answer
+2: 45 42 28 | Strongman pushing the river through the gate | Thick left ventricle behind aortic stenosis needs good perfusion pressure
+3: 50 12 14 | Woman scattering poppy petals over him | Induction of anaesthesia lowers the blood pressure
+4: 49 84 8 | Water at the gate shrunk to a thread | The thick ventricle is no longer perfused and the heart arrests
+5: 86 11 8 | Town clock stopped | Cardiac arrest on the table at induction
+6: 89 50 12 | Man hanging over the gorge on one rope | Significant left main coronary disease carries the same risk
+7: 15 17 14 | Master running in, pulled by a boy | The surgeon should be in theatre while the patient is put to sleep
+question: 3 5
+answer: 1 2
+== 90
+1: 56 36 9 | Stiff new double door forced into the frame | Difficult mitral valve replacement in an elderly woman
+2: 46 25 6 | Crack by the door hinge, red thread running | Rupture of the left ventricle at the atrioventricular groove
+3: 40 50 16 | Six pails marked 100 under the sign 6 | Bleeding 100 ml an hour for six hours: surgical until proved otherwise
+4: 6 55 9 | Neighbours bringing pots of glue | More cryoprecipitate or platelets: she already had plasma and still bleeds
+5: 20 33 10 | Man peering through a fogged window | Poor TTE windows; TOE or subxiphoid window only delays treatment
+6: 23 55 10 | Old woman wringing her hands | Elderly woman still bleeding after mitral valve replacement
+7: 78 45 22 | Builder hauling the house into the workshop | Return to theatre; the coagulopathy is corrected there too
+question: 2 3
+answer: 7
+== 91
+1: 30 18 22 | Two new canals shining with water | Triple-vessel disease: three new grafts
+2: 88 15 12 | Man who cannot let go of the pump handle | The patient cannot be weaned from cardiopulmonary bypass
+3: 25 90 18 | Lower field lying grey and still | Poor motion of the inferior wall on TOE
+4: 42 74 14 | Gate leaking water backwards | New moderate mitral regurgitation from ischaemia, not a diseased valve
+5: 86 84 10 | Leaning post holding the gate chain | The muscle that holds the valve is not perfused
+6: 78 30 16 | Right-hand canal kinked and dry | The inferior wall is fed by the right coronary: its graft has failed
+7: 56 45 18 | Digger re-cutting the right-hand canal | Redo the right coronary graft on bypass
+8: 12 52 13 | Gate-maker with a new gate sent away | The valve is normal: repairing or replacing it is the wrong answer
+question: 3 4
+answer: 7
+== 92
+1: 37 11 16 | Conductor on the top floor beating time | The sinus node, which no longer sets the rhythm
+2: 47 45 17 | Little drummer drumming furiously | Junctional ectopic tachycardia: an automatic focus near the AV junction
+3: 49 88 17 | Baby in a cradle among patched walls | An infant after repair of tetralogy of Fallot
+4: 82 43 16 | Three people holding out bottles | Beta blockers, verapamil and potassium do not reliably stop it
+5: 20 48 14 | Nurse packing snow around the drummer | Cooling slows and terminates junctional ectopic tachycardia
+6: 52 62 18 | Snow piled up to the drummer's chest | Cooling the child terminates it
+question: 2 3
+answer: 5 6
+== 93
+1: 62 42 10 | Hole high in the wall under the balcony | A subarterial VSD lies in the outlet septum, under the arterial valves
+2: 67 26 10 | Right-hand curtain sagging into the hole | The unsupported right coronary cusp prolapses into the defect
+3: 55 31 4 | A few drops falling from the balcony | Mild aortic regurgitation
+4: 30 47 16 | Mason bricking up the hole | Close the VSD only: it gives the cusp its support back
+5: 12 75 10 | Tailor holding up a big needle | Aortic valve repair is more than a mildly leaking valve needs
+6: 43 82 15 | Draper with a new red curtain | Aortic valve replacement is not needed
+7: 81 82 16 | Man carrying a blue curtain | A Ross procedure is not needed
+8: 90 45 11 | Old house nearby: torn curtain, pouring water | Prolonged regurgitation may end in aortic valve replacement
+question: 1 2 3
+answer: 4
+== 94
+1: 45 30 18 | Carpenter nailing a pale patch over the gap | Partial AV canal: the primum defect is closed with a patch
+2: 27 59 4 | Small round drain at the gap's lower edge | The coronary sinus, displaced inferiorly
+3: 54 70 9 | Brass bell-box with its wire | The AV node, between the coronary sinus and the septal crest
+4: 42 52 10 | Line of nails curving wide of the drain | Stitches go round the far side of the sinus to prevent conduction block
+5: 18 64 7 | Thin blue thread trickling into the red side | Small right-to-left shunt: minimal desaturation, well tolerated
+6: 54 82 13 | Chalk line through the bell-box, crossed out | A suture line straight across that area can cause heart block
+7: 82 47 15 | Boy with a lamp pointing at the bell-box | The conduction tissue is spared
+question: 1 2
+answer: 4
+== 95
+1: 76 40 16 | Two men catching blue streams in buckets | Bicaval cannulation diverts systemic venous blood from the heart
+2: 22 80 20 | Left hall filling with purple water | Blood keeps welling into the left atrial field
+3: 20 14 18 | Third stream falling through a roofless passage | Unroofed coronary sinus: a left SVC drains to the left atrium
+4: 77 82 18 | Wooden patch waiting on the floor | Partial atrioventricular canal being corrected
+5: 93 29 8 | Toy goose with a long bent neck | Goose-neck deformity: angiographic sign of AV canal
+6: 22 40 16 | Builder pointing up at the open sky | A persistent left SVC through the unroofed sinus: right-to-left shunt
+question: 1 2
+answer: 3
