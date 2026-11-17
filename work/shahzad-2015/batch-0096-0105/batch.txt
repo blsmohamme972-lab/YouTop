@@ -9,11 +9,31 @@ book: shahzad-2015
 # 5 a mason pointing at a hole in the wall and at the thick wall around it, nobody listening = the septal defect and the thick right ventricle are there but are not the cause
 # 6 an iron ring hanging unused on a nail                      = it is not a vascular ring
 title: Fallot with huge pulmonary arteries: the trachea is squeezed
-titleAr: فالو مع شرايين رئوية هائلة: الرغامى مضغوطة
+titleAr: رباعية فالو مع شرايين رئوية هائلة: الرغامى مضغوطة
 tags: cardiac/congenital thoracic/airway d:pathology d:diagnosis q:recall l:2
 palette: furnace orange and soot black, two great wineskins of deep cobalt blue, one drooping bubble of pale green glass
 must: two huge swollen blue wineskins lie across the long iron blowpipe and flatten it; the glassblower's glass bubble at the end of the pipe is sagging; the blue doorway behind has empty hinges and no door
 scene: a glassworks lit by its furnace. A glassblower holds a long iron blowpipe to his lips, a bubble of pale green glass at its far end sagging and collapsing. CENTRE, dominant and larger than life: two enormous swollen cobalt-blue wineskins, each bigger than a man, lie across the middle of the blowpipe and squeeze it flat between them; the glassblower's face is purple, his eyes wide, one hand clawing at his collar. BEHIND, upper right: a blue doorway with empty hinges and no door, from which the necks of the two wineskins swell out. LEFT: a mason points at a hole in a thick brick wall, and nobody looks at him. On a nail above him hangs an iron ring, unused.
+story:
+في مصنع الزجاج، أمام الفرن المتوهّج، رفع النافخ قصبته الحديديّة الطويلة إلى شفتيه.
+نفخ بكلّ صدره. لكنّ الفقّاعة الخضراء في طرف القصبة لم تنتفخ. ترهّلت وهوت.
+احتقن وجهه حتّى صار بنفسجيًّا، واتّسعت عيناه، وشدّ ياقته بيده كالمخنوق.
+«العلّة في الجدار!» صاح البنّاء من اليسار، وهو يشير إلى ثقب في الآجرّ السميك. «انظروا إلى هذا الثقب، وإلى غلظ الجدار حوله!»
+لم يلتفت إليه أحد. الثقب قديم، والجدار غليظ منذ سنين، وكان النافخ ينفخ معهما كلّ يوم.
+والحلقة الحديديّة معلّقة على مسمارها، لم يمسّها أحد. لا طوق حول القصبة.
+إنّما العلّة في وسط المصنع: قربتان زرقاوان هائلتان، كلّ منهما أعظم من رجل، انتفختا حتّى رقدتا على القصبة، وسحقتاها بينهما.
+ومن أين جاءتا؟ من الباب الأزرق في الخلف. مفاصله فارغة، ومصراعه غائب. فلا شيء يردّ ما يندفع منه، ولا شيء يمنع القربتين أن تتمدّدا.
+أخيرًا أدار البنّاء رأسه عن ثقبه. «القربتان! ارفعوا القربتين عن القصبة!»
+هرع البنّاء فزحزحهما قليلًا. فشهق النافخ شهقته الأولى، وقال لاهثًا:
+quote: «أن يحبّ المرء الحياة قبل المنطق، حتمًا قبل المنطق، وعندئذ فقط يفهم معناها.»
+source: الإخوة كارامازوف
+explanation:
+In tetralogy of Fallot the pulmonary arteries are usually small.
+At the other extreme, as in tetralogy with an absent pulmonary valve, they are hugely dilated, almost aneurysmal.
+These large arteries lie across the trachea and the main bronchi, compress them and cause tracheomalacia.
+Tracheal compression is therefore the cause of the severe respiratory distress, which is the answer.
+The ventricular septal defect, the right ventricular hypertrophy and the pulmonary stenosis belong to the tetralogy but do not obstruct the airway.
+A vascular ring also compresses the trachea, but it is an anomaly of the arch vessels encircling it; here the pulmonary arteries are simply huge.
 
 == 97
 # 1 a new clay water-conduit laid along the terrace of the near hillside, feeding a dry orchard = the right Blalock-Taussig shunt
@@ -27,6 +47,29 @@ tags: cardiac/congenital d:complications d:postoperative q:next-step l:3
 palette: terraced vineyard greens under a hazy white sky, terracotta conduits, the leaking water pale straw-gold, one jug of pure white milk
 must: the conduit on the near hillside sweats clear straw-coloured drops along its whole length; a second, new conduit runs on the opposite hillside across the stream; the jug of milk is white and the leaking water is clear
 scene: two terraced hillsides facing each other across a small stream, a thirsty orchard at the head of the valley. On the NEAR hillside, lower half of the picture, a new terracotta conduit sweats clear straw-coloured drops along its whole length into a row of pails; a boy empties a pail, a man stands holding a clay patch, useless. A cat sits with its back turned to the puddle; beside it stands a jug brim-full of white milk. CENTRE, dominant and larger than life: the vinedresser, his pick raised, is breaking up the sweating conduit, and with his other arm he points across the stream to the OPPOSITE hillside, where a second new terracotta conduit, dry outside and whole, already carries bright water to the orchard.
+story:
+كان البستان في رأس الوادي عطشان. فمدّ له الكرّام قناةً من فخّار جديد، على مدرّج السفح القريب.
+بعد يومين، أخذت القناة تعرق. قطرات صافية بلون القشّ، ترشح من طولها كلّه، في صفّ من السطول.
+وضع الكرّام إلى جانب ما تجمّع من الرشح إبريقًا من الحليب الأبيض، ليقارن. الرشح صاف لا بياض فيه. والقطّ شمّه ثمّ أدار له ظهره.
+«ليس حليبًا إذن. القطّ لا يخطئ.»
+ظلّ الصبيّ يفرغ سطلًا بعد سطل، والقناة تعرق. «أفرغت السطول مرّةً بعد مرّة يا عمّ، ولم تجفّ!»
+ووقف رجل برقعة من طين. «أرقّعها حيث هي! رقعة واحدة وتكفّ.»
+«وأين تضع رقعتك؟ إنّها ترشح من جلدها كلّه. لا ثقب فيها ليرقّع.»
+رفع الكرّام معوله، وحطّم القناة الراشحة. وبذراعه الأخرى أشار عبر الجدول، إلى السفح المقابل.
+هناك قناة ثانية جديدة، جافّة الظاهر سليمة، تحمل الماء اللامع إلى البستان نفسه.
+هوى المعول مرّةً أخيرة، وصاح الكرّام:
+quote: «كفى! بعدًا للسّراب، بعدًا للمخاوف المصطنعة، بعدًا للأشباح! ثمّة حياة!»
+source: الجريمة والعقاب
+explanation:
+A Blalock-Taussig shunt takes blood from the subclavian artery to the pulmonary artery.
+Its complications include thrombosis, chylothorax, Horner's syndrome and phrenic nerve injury.
+Very rarely serous, plasma-like fluid leaks after the shunt and goes on draining from the chest.
+Because the fluid contains no triglycerides it is not chyle, so parenteral nutrition is not the treatment.
+Draining it or revising the same shunt does not stop it.
+Removing the shunt alone would leave a child with tricuspid atresia without blood flow to the lungs, so a new shunt is needed.
+Once chylothorax is excluded, the treatment is to remove the shunt and place a classic Blalock-Taussig shunt on the other side, which is the answer.
+A classic shunt uses the child's own subclavian artery, so there is no prosthetic graft to weep.
+note: This complication is very rare; the answer is the book's own.
 
 == 98
 # 1 a long canvas fire hose pinched narrow again exactly at an old stitched patch = recoarctation at the site of the earlier repair
@@ -40,6 +83,25 @@ tags: cardiac/congenital d:indications q:recall l:1 x:high-yield
 palette: fire-station red and polished brass, wet grey canvas hose, the ox-bladder pale pink inside the hose
 must: the hose is narrow at one old stitched patch, bulging above it and limp below it; a boy blows through a long cane that enters the open end of the hose, and a round bladder is swelling inside the hose exactly at the narrow patch; a man with a knife sits on a bench, waiting
 scene: the yard of a fire station. A long grey canvas hose runs from a brass pump at the upper left down across the yard to a nozzle at the lower right. In the middle of its length the hose is pinched narrow at an old stitched patch that is wound about with tarred rope and knots, and several thin side hoses are tied round the place; above the pinch the hose bulges hard as a drum, below it the hose lies limp and the nozzle only dribbles. CENTRE, dominant and larger than life: a boy has unscrewed the nozzle end, pushed a long cane up inside the hose and blows into it with full cheeks; exactly at the pinch a round pink ox-bladder is swelling inside the hose, seen through the wet canvas, and the pinch is widening. RIGHT: a fireman with a big knife and a threaded needle sits on a bench, made to wait, arms folded.
+story:
+في ساحة الإطفاء خرطوم طويل من قنّب رماديّ، يمتدّ من المضخّة النحاسيّة إلى الفوّهة.
+قبل سنين، ضاق في وسطه فشقّ ورقّع. واليوم عاد يضيق في الموضع نفسه، عند الرقعة القديمة تمامًا.
+فوق الضيق انتفخ الخرطوم صلبًا كالطّبل. وتحته ارتخى، والفوّهة لا تقطر إلّا قطرًا.
+نهض الإطفائيّ بسكّينه الكبيرة وإبرته. «أشقّه وأخيطه كما فعلنا أوّل مرّة!»
+قال صبيّ الساحة: «مهلًا يا عمّ، انظر قبل أن تشقّ! الرقعة غارقة في حبال القطران وعقدها. وحولها خراطيم صغيرة، تدور بالماء حول الضيق. سكّينك تقطع هذا كلّه قبل أن تبلغ الضيق.»
+فكّ الصبيّ الفوّهة، ودسّ في جوف الخرطوم قصبةً طويلة، في رأسها مثانة ثور فارغة. دفعها حتّى بلغت الضيق.
+ثمّ نفخ في القصبة بملء خدّيه. فانتفخت المثانة الورديّة في داخل الخرطوم، عند الضيق تمامًا، وأخذ الضيق يتّسع من الداخل.
+جلس الإطفائيّ على مقعده، وطوى ذراعيه، وسكّينه في يده. «إن عجزت مثانتك يا ولد، فأنا هنا.»
+ضحك الصبيّ والقصبة ما زالت بين شفتيه، ثمّ رفع رأسه وقال:
+quote: «لكي يتصرّف المرء بذكاء، لا يكفي الذكاء وحده.»
+source: الجريمة والعقاب
+explanation:
+Coarctation can recur after any type of repair, most often when the first operation was done in early infancy.
+It shows as a pressure gradient between the arms and the legs.
+A second operation is difficult: there are adhesions and large collaterals, and the spinal cord is at risk.
+Recurrent coarctation is therefore best treated by balloon dilatation, which is the answer.
+Surgical revision is the second choice, for when dilatation fails.
+Antihypertensive medication treats the pressure and leaves the obstruction.
 
 == 99
 # 1 a boat that must put out into the storm this very minute   = emergency coronary surgery
@@ -54,6 +116,25 @@ tags: cardiac/coronary cardiac/perioperative d:pharmacology q:vignette l:1 x:hig
 palette: storm slate and sea green, the caulkers' caps bright yellow, thick grey mittens, one lantern on the quay
 must: the caulkers on the big boat all wear thick mittens tied at the wrist; the caulkers arriving in the small boat have bare hands and yellow caps; red barrels, a glue pot and a small brown bottle stand untouched on the quay
 scene: a harbour under a storm sky. A fishing boat strains at its rope, ordered out to sea at once, water weeping through the seams of its hull. On its deck stands its crew of small caulkers in bright yellow caps, every one with thick grey mittens tied on at the wrists, holding their hands up helplessly, unable to grip one another. UPPER LEFT, walking away along the quay: a gentleman in a frock coat carrying a bag of mittens and a bent wire spring. CENTRE, dominant and larger than life: a second, smaller boat is rowed alongside, crowded with fresh caulkers in the same yellow caps, their bare hands already joined in a chain; the harbour master on the big boat's deck beckons them aboard with both arms. LOWER RIGHT on the quay, untouched: a stack of red barrels, a pot of glue, a small brown bottle.
+story:
+تحت سماء العاصفة، جاء الأمر إلى مركب الصيد: أن يبحر الآن، في هذه الدقيقة.
+والماء قد بدأ يرشح من شقوق بدنه.
+على ظهر المركب طاقمه من السدّادين الصغار، بقبّعاتهم الصفراء. عملهم أن يتشابكوا بالأيدي سلسلةً واحدة، فيسدّوا كلّ شقّ.
+لكنّ في يدي كلّ منهم قفّازين سميكين مربوطين عند الرسغين. رفعوا أيديهم عاجزين: لا يد تقبض على يد.
+وعلى الرصيف يبتعد سيّد بمعطف طويل، يحمل كيس القفّازات، ولولبًا من سلك أعوج. ألبسهم قفّازاته لعمل أراده، ثمّ لم يفلح عمله.
+صاح أحد السدّادين: «على الرصيف براميل حمراء، وقدر غراء، وقارورة بنّيّة! أنأخذها يا رئيس؟»
+«دعوها مكانها يا أولاد!» صاح رئيس الميناء من ظهر المركب. «لا ينقصني غراء ولا براميل. تنقصني أيد عارية!»
+ولوّح بذراعيه كلتيهما لقارب صغير يقترب، مملوء بسدّادين جدد، بالقبّعات الصفراء نفسها، وقد تشابكت أيديهم العارية سلسلة.
+صعدوا واحدًا واحدًا، وسدّوا الشقوق. فنظر رئيس الميناء إلى السلسلة وقال:
+quote: «أوّلًا وقبل كلّ شيء، لنكن طيّبين. ثمّ شرفاء. ثمّ لا ينس أحدنا الآخر أبدًا.»
+source: الإخوة كارامازوف
+explanation:
+Abciximab blocks the glycoprotein IIb/IIIa receptor, so the patient's platelets cannot aggregate.
+When such a patient goes urgently to coronary surgery, the bleeding after bypass is exaggerated.
+The defect is in platelet function, and the remedy is fresh platelets given after bypass.
+So in addition to the routine orders the anaesthetist should order platelets, which is the answer.
+Extra units of blood replace what is lost but do not restore clotting.
+Cryoprecipitate and fibrinogen are not what is missing, and aprotinin does not reverse the receptor blockade.
 
 == 100
 # 1 stagehands sawing open the middle boards of a stage that was nailed shut after an earlier play = re-entry through the old sternotomy
@@ -63,12 +144,33 @@ scene: a harbour under a storm sky. A fishing boat strains at its rope, ordered 
 # 5 a green hose that crosses just under the saw                = a patent vein graft to the right coronary artery
 # 6 far off against the side wall, well away from the saw: a thin red pipe running down the wall, a child sitting safely on it = a patent in-situ left mammary artery to the circumflex lies lateral: no added risk (ANSWER)
 title: Redo sternotomy: a mammary graft to the circumflex is out of the saw's way
-titleAr: إعادة شقّ القصّ: الثديي إلى المنعطف بعيدٌ عن المنشار
+titleAr: إعادة شقّ القصّ: الشريان الثديي إلى المنعطف بعيدٌ عن المنشار
 tags: cardiac/coronary d:technique d:anatomy q:recall l:2 x:trap
 palette: dusty theatre gold and worn stage wood, two blue bags and one fat red pipe under the boards, a single thin red pipe on the far wall
 words: 6
 must: the saw cuts the MIDDLE boards of the stage; directly under the saw are two swollen blue bags, a fat red pipe marked 6 and a green hose; the thin red pipe runs down the far side wall, nowhere near the saw, and a child sits on it
 scene: the stage of an old theatre seen cut open from the front, so that the space under its boards shows. Two stagehands with a long saw are cutting open the MIDDLE boards, which were nailed shut after an earlier play. Directly under their saw, pressed up against the boards: a swollen blue leather bellows, a second bulging blue bag beside it, a fat red boiler pipe with a large 6 painted on it, and a green hose crossing just beneath the blade; an old prompter covers his eyes. FAR LEFT, dominant and larger than life: against the side wall, a long way from the saw, a thin bright red pipe comes down from above and runs along the wall and away behind everything; a child sits on it swinging his legs and eating bread, perfectly safe.
+story:
+بعد المسرحيّة الأولى، سمّرت ألواح الخشبة الوسطى وأغلقت. واليوم جاء عاملان بمنشار طويل، ليفتحاها مرّةً ثانية.
+الملقّن العجوز يعرف ما تحت الألواح. فغطّى عينيه بيديه.
+«تحت منشاركما تمامًا منفاخ أزرق منتفخ، ملتصق بالخشب! وإلى جانبه كيس أزرق ثان.»
+«وأنبوب المرجل الأحمر، انتفخ حتّى كتب عليه الرقم ستّة، وصار يلمس الألواح!»
+«وخرطوم أخضر ما زال الماء يجري فيه، يعبر تحت النصل مباشرة!»
+توقّف العاملان والمنشار في الخشب. «وذاك الأنبوب الأحمر النحيل هناك؟ أنخاف عليه أيضًا؟»
+فتح الملقّن عينًا واحدة، ونظر إلى أقصى اليسار. هناك أنبوب أحمر رفيع لامع، ينزل من الأعلى، ويمضي ملاصقًا للجدار الجانبيّ، بعيدًا بعيدًا عن الوسط.
+وعليه طفل جالس يؤرجح ساقيه، ويأكل خبزه.
+«ذاك؟ ذاك في أمان. منشاركما في الوسط، وهو عند الجدار. اسألا الطفل.»
+مضغ الطفل لقمته، ونظر إلى الرجال الخائفين في وسط الخشبة، وقال:
+quote: «الحياة جنّة، ونحن جميعًا في الجنّة، لكنّنا لا نريد أن نعلم ذلك.»
+source: الإخوة كارامازوف
+explanation:
+At a redo sternotomy the saw passes in the midline, just in front of whatever lies behind the sternum.
+An enlarged right ventricle or right atrium is pressed against the back of the bone and is easily lacerated.
+A dilated ascending aorta of 6 cm is at the same risk.
+A patent vein graft to the right coronary artery crosses the front of the heart, in the path of the saw.
+An in-situ left internal mammary artery grafted to the circumflex runs laterally, well away from the midline.
+It therefore does not increase the risk of re-entry, which is the answer.
+This holds only because this graft lies lateral: a patent mammary graft to the anterior descending artery that crosses behind the sternum is very much at risk.
 
 == 101
 # 1 a mill whose race has a brand-new iron gate of two leaves   = the mechanical aortic valve just implanted
@@ -84,6 +186,26 @@ palette: wet mill timber and green-black still water, the iron gate grey with a 
 words: 5
 must: the lantern hangs on a chain inside a narrow shaft directly behind the iron gate and lights it; the iron gate is caked with a dark red crust; the mill wheel is not turning; a steam pump on a cart stands beside the mill
 scene: an old watermill seen cut open. Its great wheel hangs perfectly still. In the millrace stands a brand-new iron gate of two leaves, and the water before it lies still and green-black. LEFT: a steam pump on a cart, puffing, carries the water round the mill through a thick hose; five chalk strokes and a large 5 are marked on its boiler. CENTRE, dominant and larger than life: a narrow shaft runs down just behind the iron gate, and the miller's daughter, leaning over its mouth, lowers a lantern on a chain; its yellow light falls on the gate and shows a dark red crust of clay and weed caking both leaves so that they cannot move; the old miller beside her stares down, open-mouthed. RIGHT, waved away by the miller's hand: a man arriving with a second pump on a cart, and a man carrying a new wheel on his back.
+story:
+ركّبوا في ساقية الطاحونة بوّابةً جديدةً من حديد، ذات مصراعين. لكنّ الدولاب العظيم لم يدر بعدها.
+فجاءوا بمضخّة بخار على عربة، تلتفّ بالماء حول الطاحونة في خرطوم غليظ، ريثما يستريح الدولاب.
+وكلّ يوم خطّ الطحّان على مرجلها خطًّا بالطّباشير. وها هي الخطوط خمسة، والدّولاب ما زال معلّقًا لا يتحرّك.
+أقبل رجل بمضخّة ثانية على عربة. «مضخّة واحدة لا تكفي! ضعوا هذه على الجانب الآخر.»
+وأقبل آخر يحمل دولابًا جديدًا على ظهره. «دولابكم مات! ارموه وخذوا هذا.»
+«مهلًا يا أبي. قبل المضخّات والدّواليب، هل نظر أحد إلى البوّابة الجديدة؟» قالت ابنة الطحّان. «الماء أمامها راكد منذ خمسة أيّام. والماء الراكد يترك رواسبه.»
+خلف البوّابة تمامًا بئر ضيّقة. فانحنت الفتاة على فمها، وأنزلت فيها قنديلًا بسلسلة.
+سقط الضوء الأصفر على البوّابة من خلفها. فإذا على مصراعيها قشرة حمراء داكنة، من الطين والعشب، ألصقتهما فلا يتحرّكان.
+فغر الطحّان العجوز فاه. ثمّ ردّ بيده صاحب المضخّة وصاحب الدولاب، وقال:
+quote: «الإنسان لا يبحث عن الله بقدر ما يبحث عن المعجزات.»
+source: الإخوة كارامازوف
+explanation:
+After a mechanical aortic valve replacement the left ventricle failed, and a left ventricular assist device was placed.
+Such patients are supported for a few days, anticoagulated, and then weaned slowly.
+While the device carries the circulation, very little blood passes through the ventricle and across the new valve.
+A valve can therefore thrombose in spite of anticoagulation, and a patient who fails to wean after a valve replacement must be suspected of it.
+The next step is transoesophageal echocardiography to look at the valve, which is the answer.
+A right-sided device, ECMO or a transplant are the tempting escalations, but a correctable cause must be excluded first.
+Cardiac catheterisation looks for coronary disease, which is not the likely cause at 38 years after a valve replacement.
 
 == 102
 # 1 a house with one single great chimney rising from two hearths, a mason dividing it = truncus arteriosus under repair
@@ -99,6 +221,26 @@ palette: chalk white and lime dust against raw brick red, the empty sentry box d
 words: 22
 must: the sentry box above the door is empty; the large lime barrel in the foreground is almost empty and a boy scrapes its bottom; the number 22 is on the doorpost; one single chimney rises from the house
 scene: the front of a brick house under repair. From its roof rises one single great chimney, and a mason on the roof is building a wall down its middle to divide it in two. Above the front door a wooden sentry box stands empty and cobwebbed, no sentry in it; the number 22 is painted on the doorpost. FOREGROUND CENTRE, dominant and larger than life: a huge lime barrel, almost empty, tipped towards the viewer; a boy leans into it scraping the last white from the bottom, and the master builder points into it with alarm. Behind them the whitewash is flaking off the wall and a cradle in the doorway trembles, its bells shaking. RIGHT: two men roll wine casks through an archway of fierce white light before bringing them to the house.
+story:
+للبيت رقم اثنين وعشرين مدخنة واحدة عظيمة، وكان يجب أن تكون له مدخنتان. فصعد بنّاء إلى السطح، يبني في وسطها جدارًا يقسمها.
+وقف المعلّم في الأسفل يراقب. ثمّ وقعت عينه على ما فوق الباب.
+كشك الحارس الخشبيّ فارغ. لا حارس فيه، ولا أثر لحارس. نسجت العناكب على بابه.
+«بيت بلا حارس فوق بابه؟ إذن فلننظر في برميل الجير حالًا!»
+«وما شأن الحارس بالجير يا معلّم؟»
+«في البيوت الّتي تحمل هذا الرقم، من نسي الحارس نسي خازن الجير معه. هكذا بنيت.»
+انحنى الصبيّ في البرميل العظيم، فإذا هو يكاد يفرغ. كشط آخر البياض من قاعه. وأشار المعلّم إلى قاعه فزعًا.
+وخلفهما أخذ الطلاء الأبيض يتقشّر عن الجدار، وارتجف المهد في المدخل، حتّى اهتزّت أجراسه.
+وعلى اليمين رجلان يدحرجان براميل النبيذ إلى البيت. فصاح بهما المعلّم: «لا يدخل برميل قبل أن يمرّ تحت قوس النور الأبيض! بيت بلا حارس، لا يحتمل ضيفًا غريبًا.»
+ثمّ جثا المعلّم عند المهد المرتجف، وسأل بصوت خافت:
+quote: «لماذا الناس فقراء؟ لماذا الطفل فقير؟ لماذا السهل أجرد؟»
+source: الإخوة كارامازوف
+explanation:
+Truncus arteriosus is one of the conotruncal defects associated with the 22q11 deletion, DiGeorge syndrome.
+An absent thymus at operation points to it.
+The parathyroid glands are missing or underdeveloped as well, so the calcium is low.
+The surgeon should therefore watch for low calcium levels, which is the answer.
+Immunity is depressed too, so blood must be irradiated to prevent graft-versus-host disease.
+An aberrant parathyroid or a thymus lying elsewhere is the tempting distraction; the practical danger is hypocalcaemia.
 
 == 103
 # 1 a blue hall whose doorway stands in the right place but whose door hangs far below it, sunk down into the lower room = the tricuspid leaflets displaced down into the right ventricle
@@ -113,6 +255,25 @@ tags: cardiac/congenital cardiac/arrhythmia d:pathology q:recall l:1 x:high-yiel
 palette: blue-lit rooms and pale ash wood, one vast door leaf the colour of sailcloth, a ring of wet footprints shining
 must: the great sail-like door leaf hangs far below its empty door frame, down inside the lower room; a boy slides down a chute hidden in the outer wall while an old porter sits on the staircase in the middle; wet footprints make a closed ring
 scene: a house seen cut open, lit blue, with an upper room and a lower room. The door frame between them stands empty in its proper place, but the door itself hangs far below it, sunk down inside the lower room. CENTRE, dominant and larger than life: that sunken door has one enormous leaf the colour of sailcloth, billowing like a ship's sail and filling the lower room, so that the upper room has become vast and the lower room small. In the MIDDLE of the house a proper staircase goes down, and on it sits an old porter holding up his palm to make a queue of messengers wait. RIGHT: inside the outer wall a hidden chute, down which a barefoot boy shoots past the porter, laughing; a ring of his wet footprints shines on the floors, down the chute, across the lower room, up the staircase behind the porter's back and round again.
+story:
+في البيت الأزرق غرفة عليا وغرفة سفلى، وبينهما إطار باب في موضعه الصحيح. لكنّ الإطار فارغ.
+فالباب نفسه معلّق أسفل منه بكثير، غائص في الغرفة السفلى.
+وله مصراع واحد هائل، بلون قماش الأشرعة، ينتفخ كشراع سفينة، ويملأ الغرفة السفلى.
+فصارت الغرفة العليا شاسعة، وضاقت السفلى.
+في وسط البيت السلّم المعهود، وعليه بوّاب عجوز، يرفع كفّه في وجه الرسل. «قف وانتظر دورك. لا ينزل أحد إلّا بإذني.»
+لكنّ بيتًا بني بابه في غير موضعه، قلّما يخلو من عيب آخر. ففي جداره الخارجيّ مزلق خفيّ، لم يرسمه بنّاء.
+انزلق فيه صبيّ حاف يضحك، فتجاوز البوّاب وصفّ المنتظرين. «لا أحتاج إلى إذنك يا جدّي! أنا أعرف طريقًا أخرى!»
+نزل من المزلق، وعبر الغرفة السفلى، وصعد السلّم من وراء ظهر البوّاب، ثمّ نزل من المزلق ثانية. وآثار قدميه المبتلّتين ترسم حلقةً مغلقةً تلمع.
+دار ودار حتّى دار البيت كلّه معه، وهو يصيح ضاحكًا:
+quote: «أريد أن أحيا، وأنا أحيا، ولو خالفت المنطق.»
+source: الإخوة كارامازوف
+explanation:
+In Ebstein's anomaly the septal and posterior leaflets of the tricuspid valve are displaced down into the right ventricle.
+The anterior leaflet is large and sail-like.
+Part of the right ventricle is thereby atrialised, and the right ventricle that remains works poorly.
+Accessory pathways are frequent in this anomaly, in the right ventricular free wall and the posterior septum.
+They bypass the atrioventricular node and provide the circuit for a re-entrant tachycardia, which uses the node in one direction and the pathway in the other.
+Ebstein's anomaly is therefore the congenital heart disorder with the highest incidence of Wolff-Parkinson-White syndrome, which is the answer.
 
 == 104
 # 1 a hedge between a red garden and a blue garden, with one small gap in it = an isolated ventricular septal defect
@@ -128,6 +289,27 @@ palette: spring hedge green between a rose-red garden and a cool blue garden, on
 words: 1
 must: the cake has exactly one tall candle, burning; the gap in the hedge is small and young shoots grow into it from its edges; the gardener holds a woven hurdle and is waiting, not working
 scene: a tall green hedge divides a rose-red garden on the left from a cool blue garden on the right. In the hedge is one small gap, and young bright shoots are growing in from all its edges. On the grass beneath, a rosy baby plays calmly. CENTRE, dominant and larger than life: the mother walks towards the gap carrying a round white cake with exactly ONE tall burning candle, shaped like the number 1, its flame the brightest thing in the picture. Beside the gap the old gardener stands ready, a woven willow hurdle exactly the size of the gap under his arm, watching the candle and waiting. FAR BACK, small: a stone gateway in a garden wall, bare of any shoot, which a mason is already walling up with bricks.
+story:
+بين الحديقة الورديّة والحديقة الزرقاء سياج أخضر عال، وفي السياج فرجة صغيرة واحدة.
+وعلى العشب تحتها رضيع مورّد الخدّين، يلعب هادئًا، لا يشكو شيئًا.
+وقف البستانيّ العجوز عند الفرجة، وتحت ذراعه حصيرة مضفورة من الصفصاف، على قدر الفرجة تمامًا.
+سألته أمّ الرضيع: «ألا تسدّها اليوم يا عمّ؟ الحصيرة تحت ذراعك!»
+«انظري إلى حوافّها يا ابنتي. براعم خضراء فتيّة، تنبت من كلّ جانب، وتزحف نحو الوسط. الصغير بخير، فلنعط السياج فرصته أن يلتئم وحده.»
+«وإلى متى ننتظر يا عمّ؟»
+«إلى أن تحملي إليه كعكةً فيها شمعة واحدة. بعد الشمعة الأولى، قلّما يغلق سياج نفسه. عندئذ أضع حصيرتي.»
+وفي آخر الحديقة بوّابة من حجر، عارية لا ينبت عليها برعم. تلك لا تنتظر شمعة: وقد شرع بنّاء يسدّها بالآجرّ.
+وجاء اليوم. أقبلت الأمّ بكعكة بيضاء مستديرة، وعليها شمعة واحدة طويلة مشتعلة، على صورة الرقم واحد.
+نظر البستانيّ إلى الشمعة، ثمّ إلى ورقة صغيرة نبتت على حافّة الفرجة، ورفع حصيرته وقال:
+quote: «الورقة حسنة. كلّ شيء حسن.»
+source: الشياطين
+explanation:
+An isolated ventricular septal defect may close by itself.
+An infant with symptoms is repaired early, and so is one older than six months with a raised pulmonary vascular resistance.
+A child without symptoms and with a low pulmonary vascular resistance is watched in the hope of spontaneous closure.
+Elective closure is then done by the age of 1 year, which is the answer; after that the likelihood of spontaneous closure decreases.
+Six months or three months is too early for a silent defect, and five years is needlessly late.
+Atrioventricular canal and subarterial defects have no tendency to close and are repaired early.
+note: The book's answer is 1 year. In current practice a small defect that causes no symptoms and no volume load is often simply followed.
 
 == 105
 # 1 an exhausted grey horse hardly moving a loaded wagon on a steep street = a low cardiac index and a low pressure
@@ -142,3 +324,25 @@ tags: cardiac/perioperative d:pharmacology d:postoperative q:vignette l:2 x:high
 palette: wet cobbles and winter dusk violet, the grey horse steaming, brake blocks glowing dull red, the groom's shirt a clear white
 must: one groom does two things at once: one hand holds a bag of oats under the horse's mouth, the other hand turns the brake wheel of the wagon; the brake blocks on the wheels smoke; the water trough is brim-full
 scene: a steep cobbled street at winter dusk. An exhausted grey horse, steaming, head down, can hardly move a loaded wagon uphill; the wagon's iron brake blocks are screwed tight against its wheels, glowing dull red and smoking. CENTRE, dominant and larger than life: a young groom in a white shirt stands between horse and wagon doing two things at once: with one hand he holds a bag of oats under the horse's mouth, with the other he spins the brake wheel loose, and the horse's head is already lifting. LEFT: a carter with a raised whip, his arm caught by an old man. LOWER LEFT: a water trough brim-full and overflowing, and a boy with two more pails being turned away. BEHIND the wagon: a big man with his hands ready to push, told to wait.
+story:
+في الشارع الصاعد عند الغسق، وقف الحصان الرماديّ منكّس الرأس، يتصاعد البخار من جسده، والعربة المحمّلة خلفه لا تكاد تتحرّك.
+ملأ الصبيّ الحوض حتّى فاض، ثمّ عاد بسطلين آخرين. فقال شيخ واقف هناك: «كفى ماءً يا ولد. الحوض يطفح، والحصان ليس عطشان.»
+رفع الحوذيّ سوطه. «السوط ينهضه! دعوني أضربه!»
+فأمسك الشيخ ذراعه في الهواء. «تضرب حصانًا منهكًا، وعربته مكبوحة؟ انظر إلى العجلات أوّلًا.»
+كانت كوابح الحديد مشدودةً على العجلات، حتّى احمرّت ودخّنت. الحصان يجرّ العربة والكابح معًا.
+وخلف العربة رجل ضخم، مدّ يديه ليدفع. «وأنت انتظر. لم يأت دورك بعد.»
+ثمّ تقدّم السائس الشابّ بقميصه الأبيض، ووقف بين الحصان والعربة، وفعل أمرين في آن واحد.
+بيد مدّ كيس العلف تحت فم الحصان. وبالأخرى أدار عجلة الكابح فأرخاه.
+خفّ الحمل واشتدّ الظهر معًا، فرفع الحصان رأسه.
+مسح السائس عنق الحصان المبتلّ، وتذكّر خيلًا أخرى لم تجد من يرخي كابحها، وتمتم:
+quote: «كفى! حان الوقت! وداعًا أيّتها المسكينة! أنهكوا الفرس! لقد انقصمت!»
+source: الجريمة والعقاب
+explanation:
+A cardiac index of 1.8 with a systolic pressure of 80 is a low cardiac output state.
+The systemic vascular resistance of 2,800 is very high: the ventricle is working against a heavy afterload.
+The wedge pressure of 15 shows that filling is adequate, so more fluid will not help.
+What the patient needs is afterload reduction together with inotropic support.
+Milrinone gives both: it increases the cardiac output, lowers the afterload and lowers the wedge pressure, so the answer is to start milrinone.
+Dobutamine is the tempting choice and adrenaline the forceful one, but the book prefers milrinone because here the afterload must come down.
+A balloon pump is kept for when drugs fail.
+note: This is the book's answer. Milrinone can lower the blood pressure further, so in practice it is started carefully, often with a vasopressor at hand.

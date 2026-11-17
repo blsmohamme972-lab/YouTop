@@ -1,5 +1,1 @@
-Lessons 86-95: ONLY the tables and scenes exist (batch.txt) and the image prompts (image-prompts-86-95.json), which WERE
-handed to the owner on 2026-11-17, so the scenes must not change. No story, quotation, explanation or voice yet.
-The owner stopped the work; wait for their word, then continue the standard way (stories in voice.txt, etc.).
-Quotations of Dostoevsky already used are listed by `batch.py quotes shahzad-2015` plus those in batch-0076-0085/batch.txt.
-Lessons 96-105 are not started (101-105 need the second question file, mcqs-0101-0200, and open the chapter q0101-0200).
+Done on 2026-11-17: these lessons were finished, checked and published (text and voice). Nothing left to do here but the pictures.
