@@ -1,0 +1,324 @@
+book: shahzad-2015
+# Lessons 76-85. Written "table first" (see the batch of 46-55).
+
+== 76
+# 1 the right hall of the manor, thrown open by the steward = the right atrium, opened
+# 2 its small back door stretched to a huge mouth, a torrent pouring through = a very large coronary sinus with a large flow
+# 3 a second stream coming down from the upper LEFT, slipping behind a little turret and into that back door = a persistent left superior vena cava, behind the left atrial appendage, joining the coronary sinus (ANSWER)
+# 4 a footbridge at the top, broken away, that should have carried it across to the right-hand stream = the innominate vein is absent
+# 5 a workman fitting it with a drain pipe of its own = it must be cannulated for work inside the heart
+# 6 the neighbouring manor: the same stream falling through a roofless passage into the red left hall, turning its water violet = unroofed coronary sinus: right-to-left shunt, mild cyanosis
+title: A huge coronary sinus means a left superior vena cava
+titleAr: جيبٌ إكليليٌّ ضخم معناه وريدٌ أجوف علويٌّ أيسر
+tags: cardiac/congenital cardiac/cpb d:anatomy d:technique q:vignette l:2
+palette: cobalt water against warm ochre stone, the left hall of the far manor the only red-violet note
+must: the second stream comes from the upper left, passes behind a small turret and enters the enlarged back door; the footbridge at the top is broken with a gap in its middle
+scene: an ochre stone manor seen cut open, with a great right hall. CENTRE, dominant and larger than life: at the back of the right hall a small door has been stretched into a huge round mouth, and a cobalt torrent pours through it into the hall, the steward who has just thrown the hall open stepping back with his keys. From the UPPER LEFT a second cobalt stream comes down the outside of the manor, slips behind a little pointed turret on the left side and runs into that stretched back door. UPPER RIGHT: the manor's ordinary stream comes straight down into the hall from above. TOP, between the two streams: a wooden footbridge that once joined them, broken away, a gap in its middle. LOWER LEFT: a workman fits a drain pipe of its own to the left-hand stream. FAR RIGHT, small: a neighbouring manor where the same left-hand stream falls through a roofless passage into a red left hall whose water has turned violet.
+story:
+فتح الوكيل القاعة اليمنى من القصر، فتراجع مذعورًا.
+الباب الخلفيّ الصغير، الّذي لا يمرّ منه عادةً إلّا جدول نحيل، قد اتّسع حتّى صار فمًا عظيمًا، والسّيل الأزرق يتدفّق منه إلى القاعة.
+«من أين كلّ هذا الماء؟ باب كهذا لا يتّسع من تلقاء نفسه!»
+خرج الوكيل يتبع الماء إلى منبعه. جدول القصر المعهود ينزل من الأعلى الأيمن كعادته.
+لكنّ جدولًا ثانيًا ينزل من الأعلى الأيسر. ينسلّ خلف البرج الصغير المدبّب، ويصبّ في الباب الخلفيّ نفسه.
+وفي القمّة، بين الجدولين، جسر خشبيّ مكسور. لو بقي سليمًا لحمل الأيسر إلى الأيمن، ولما عرف الباب الخلفيّ هذا السيل.
+«لا تخف منه يا سيّدي.» قال العامل العجوز وهو يركّب للجدول الأيسر مزرابًا خاصًّا به. «هو أهون العيوب. أعطه مجراه فقط، واعمل في قاعتك جافًّا.»
+ثمّ أشار إلى القصر المجاور. هناك يسقط الجدول نفسه من ممرّ بلا سقف، في القاعة اليسرى الحمراء، فيصير ماؤها بنفسجيًّا.
+نظر الوكيل إلى الجدول الضالّ الّذي وجد طريقه إلى البيت على أيّ حال، وقال:
+quote: «استسلم للحياة مباشرة، دون تفكير. لا تقلق، ستحملك إلى الشاطئ، وتوقفك على قدميك.»
+source: الجريمة والعقاب
+explanation:
+A large amount of blood coming through the coronary sinus should make you look at the size of the sinus.
+A large coronary sinus is associated with an absent innominate vein and a persistent left superior vena cava, which is the answer.
+The left superior vena cava runs behind the left atrial appendage and joins the coronary sinus just behind it.
+It is the most benign anomaly of the superior vena cava.
+It does need to be cannulated if work is being done inside the heart.
+Occasionally the left superior vena cava enters the left atrium instead, causing a right-to-left shunt and mild cyanosis; that is an unroofed coronary sinus, a type of atrial septal defect.
+
+== 77
+# 1 a young woman with a long blue ribbon tied at her neck, its end trailing in the blue canal = a long-term jugular venous line
+# 2 a dark pebble grown on the ribbon and washed away      = a clot from the line
+# 3 a hidden cat-flap in the wall between the blue room and the red room, the pebble slipping through = a patent foramen ovale: paradoxical embolus
+# 4 the pebble jammed in the LEFT branch of the red canal, the left mill wheel frozen white = the cold left leg
+# 5 a piano tuner striking his tuning fork on the dividing wall and listening with an ear trumpet = the echocardiogram finds the hole (ANSWER)
+# 6 a plumber hacking at the frozen left mill               = an angiogram of the leg looks at the wrong end
+title: A venous clot and a cold leg: look for the hole with an echo
+titleAr: جلطةٌ وريدية وساقٌ باردة: ابحث عن الثقب بالصدى
+tags: cardiac/congenital cardiac/other d:diagnosis q:next-step l:2 x:trap
+palette: a blue room and a red room side by side, frost white at the lower left, brass tuning fork gleaming
+must: the wall between the blue room and the red room has a small cat-flap with a dark pebble passing through it; the tuner holds a tuning fork to that wall and an ear trumpet to his ear; the frozen mill wheel is on the left
+scene: a house seen cut open: a blue room on the left of the picture's upper half and a red room beside it, divided by one wall; a blue canal enters the blue room and a red canal leaves the red room, forking at the bottom into a left branch and a right branch, each turning a small mill wheel. UPPER LEFT: a pale young woman sits by the blue canal with a long blue ribbon tied round her neck, its end trailing in the water. CENTRE, dominant and larger than life: an old piano tuner presses a brass tuning fork against the dividing wall and holds an ear trumpet to his ear, his eyes wide; low in that wall, right where he listens, is a small hidden cat-flap, and a dark pebble is slipping through it from the blue room into the red room. LOWER LEFT: the left branch of the red canal is blocked by a dark pebble and its mill wheel is frozen white with frost, while a plumber hacks uselessly at the ice with a pick. LOWER RIGHT: the right wheel turns freely.
+story:
+كانت الفتاة الشاحبة تنتظر دورها منذ شهور، وفي عنقها شريط أزرق طويل، يتدلّى طرفه في القناة الزرقاء.
+وعلى الشريط نمت حصاة داكنة. ثمّ انفلتت، وحملها الماء إلى الغرفة الزرقاء.
+بعد يومين، تجمّد دولاب الطاحونة اليسرى، في آخر القناة الحمراء. ابيضّ من الصقيع ووقف.
+هجم السبّاك على الجليد بمعوله. «العلّة هنا، عند الدولاب! أفتح القناة وأنظر.»
+«مهلًا يا رجل.» قال مصلح البيانو العجوز. «حصاة من القناة الزرقاء، كيف بلغت القناة الحمراء؟ بينهما جدار!»
+لم ينظر العجوز إلى الدولاب قطّ. مشى إلى الجدار الفاصل بين الغرفتين، وضرب عليه شوكته الرنّانة، وألصق بوق السمع بأذنه.
+ردّ الجدار صداه مصمتًا، مصمتًا، ثمّ أجوف.
+هناك، في أسفل الجدار، باب قطط صغير لم يعلم به أحد. وحصاة ثانية تنسلّ منه في تلك اللحظة، من الأزرق إلى الأحمر.
+رفع العجوز شوكته الّتي ما زالت ترنّ، وهتف:
+quote: «رأيت الحقيقة. لم أخترعها بعقلي، بل رأيتها، رأيتها!»
+source: حلم رجل مضحك
+explanation:
+A patient with a long-term venous line most likely has a clot on it.
+A venous clot can only reach a leg artery by crossing from the right side of the heart to the left.
+So a cold leg in this patient means a paradoxical embolus through a patent foramen ovale or an atrial septal defect.
+The test that shows it is an echocardiogram, which is the answer.
+A femoral angiogram or a venogram would look at the leg or the vein and miss the hole in the heart.
+
+== 78
+# 1 an old worn pump left standing in its place              = the patient's own heart is not removed
+# 2 a young pump strapped piggyback on its right shoulder    = the donor heart, placed beside it
+# 3 their two red outlets joined mouth to mouth              = aorta sewn to aorta directly
+# 4 their two left tanks joined by one doorway               = the left atria joined
+# 5 the young pump's blue outlet too short: a grey canvas sleeve bridges the gap to the old blue pipe = a prosthetic conduit for the pulmonary artery (ANSWER)
+# 6 a short blue pipe thrown away on the ground, kinked and split = without it: tension and kinking
+title: Piggyback heart transplant: the graft is for the pulmonary artery
+titleAr: زرع القلب الرديف: الرقعة الأنبوبية للشريان الرئوي
+tags: cardiac/heart-failure d:technique q:recall l:3
+palette: tarnished old copper beside bright new brass, red and blue pipes, one plain grey canvas sleeve
+must: the grey canvas sleeve joins the blue outlet of the small new pump to the blue pipe of the old pump; the two red outlets touch directly with no sleeve
+scene: a village pump-house. An old, dented, tarnished copper pump stands in its place, still working slowly. Strapped piggyback onto its right shoulder with leather belts is a smaller, bright new brass pump. Their two red outlet pipes meet mouth to mouth and are bolted directly together. Their two left tanks are joined by a single open doorway. CENTRE, dominant and larger than life: the blue outlet of the new pump stops well short of the old pump's blue pipe, and a mechanic is fastening a plain grey canvas sleeve between them to bridge the gap, smooth and without a bend. On the floor lies a short blue pipe that was tried first, kinked and split, leaking. An old pump-keeper watches with his hand on the old pump as on an old friend's shoulder.
+story:
+في بيت المضخّة القديم، مضخّة من نحاس باهت، خدمت القرية ستّين عامًا، ولم تعد تقوى على الحمل وحدها.
+«نقتلعها ونضع الجديدة مكانها.» قال الميكانيكيّ.
+«لا تقتلعها.» قال حارس المضخّة، ويده عليها كما تكون على كتف صديق. «دعها في مكانها، وأركب الجديدة على كتفها.»
+فشدّوا المضخّة الصغيرة اللامعة على كتف العجوز اليمنى، بأحزمة من جلد.
+التقى مخرجاهما الأحمران فمًا لفم، وشدّا بالبراغي مباشرة. وانفتح بين خزّانيهما الأيسرين باب واحد.
+لكنّ المخرج الأزرق للصّغيرة قصر عن بلوغ الأنبوب الأزرق القديم.
+جرّبوا أن يشدّوه إليه قسرًا، فالتوى وانشقّ. وها هو ملقًى على الأرض يرشح.
+«لا يشدّ القصير حتّى ينقطع. يوصل بما يكمله.» وثبّت الميكانيكيّ بين الأزرقين كمًّا من قماش رماديّ، أملس بلا ثنية.
+دارت المضخّتان معًا، العجوز والفتيّة. فربّت الحارس على النحاس الباهت وقال:
+quote: «أن تكون إنسانًا بين الناس، وأن تبقى إنسانًا إلى الأبد، مهما نزل بك من مصائب، ألّا تيأس وألّا تسقط: هذه هي الحياة، وهذه غايتها.»
+source: رسالة إلى أخيه ميخائيل، 22 ديسمبر 1849
+explanation:
+In a heterotopic transplant the patient's own heart is left in place and the donor heart is connected beside it, a double heart.
+A conduit is usually required to reconstruct the pulmonary artery, which is the answer.
+The donor's main pulmonary artery is not long enough to reach without undesirable tension and kinking of the anastomosis.
+The other connections, including the aorta and the left atrium, are made directly.
+
+== 79
+# 1 the great blue drain at the foot of the house plugged by a swollen cork with a hose through it, a man pumping cold water IN = the retrograde catheter with its balloon in the coronary sinus
+# 2 the water creeping backwards up the blue channels in the walls = cardioplegia running backwards through the veins
+# 3 a thousand pinholes in the inner walls weeping into four stone basins, most of all into the two right-hand ones = the Thebesian veins drain into all four chambers, mostly the right (ANSWER)
+# 4 a few small porters carrying away tiny pails, a board with 5 = the lymphatics take 5%
+title: With the coronary sinus blocked, the heart drains through the Thebesian veins
+titleAr: إذا سُدَّ الجيب الإكليلي صرّف القلب عبر أوردة ثيبيزيوس
+tags: cardiac/cpb d:physiology d:anatomy q:recall l:2
+palette: cold slate interior, pale icy blue water, countless glittering drops, one dull red cork
+words: 5
+must: the big drain is plugged by a swollen cork with a hose; the inner walls weep through countless tiny holes into four basins and the two basins on the right are the fullest
+scene: the inside of a stone house with four rooms, two on the left and two on the right, each with a stone basin on its floor. BOTTOM LEFT: the great blue drain of the house is plugged tight by a swollen dull-red cork with a hose through it, and a man works a hand pump that forces icy water IN through the hose; pale blue water can be seen creeping backwards up channels inside the walls. CENTRE, dominant and larger than life: the inner walls of all four rooms are weeping through countless pinholes, thousands of glittering drops running down into the four basins; the two basins on the right are brimming, the two on the left only half full. An astonished housekeeper holds out her apron under the weeping wall. LOWER RIGHT: three tiny porters carry away very small pails beside a board that reads 5.
+story:
+للبيت الحجريّ ذي الغرف الأربع مصرف أزرق عظيم، منه يخرج كلّ مائه.
+في ذلك اليوم سدّوه بسدادة منتفخة يخترقها خرطوم. ووقف رجل على المضخّة، يدفع فيه ماءً مثلّجًا، عكس مجراه.
+صعد الماء البارد في قنوات الجدران راجعًا، حيث لم يمش ماء من قبل في هذا الاتّجاه.
+«سددتم بابه الوحيد!» صرخت مدبّرة البيت. «سيغرق البيت من داخله، وليس للماء مخرج.»
+لكنّ البيت لم يغرق. بدأت جدرانه الداخليّة تبكي.
+ألف ثقب كرأس الإبرة، لم يرها أحد من قبل، ترشح قطرات لامعة، وتسيل إلى أحواض الغرف الأربع.
+والحوضان الأيمنان يمتلئان قبل الأيسرين. مدّت المدبّرة مئزرها تحت الجدار الباكي، مبهوتة.
+وفي الركن ثلاثة حمّالين صغار، ينقلون في سطولهم الضئيلة خمسةً من كلّ مئة، لا أكثر.
+لمست المدبّرة الثقوب الّتي أنقذت البيت وهي لا ترى، وقالت:
+quote: «الورقة حسنة. كلّ شيء حسن.»
+source: الشياطين
+explanation:
+A retrograde cardioplegia catheter lies in the coronary sinus and blocks it.
+When the coronary sinus is obstructed the heart's venous drainage goes by other routes.
+About 5% leaves through the lymphatics.
+The rest is by the Thebesian veins, which is the answer.
+They empty into all four chambers, but mostly on the right.
+
+== 80
+# 1 a house being put to sleep for the winter                = the heart arrested for the operation
+# 2 the violet lick-stone marked K, beside the horse already asleep = potassium causes the arrest
+# 3 a woman wrapping the house bells in felt                 = magnesium damps the action potentials
+# 4 a small pail of white lime: where the mason has brushed it the bricks hold, where he forgot the wall is crumbling to dust = calcium stabilises the membrane; without it, instability and lysis (ANSWER)
+# 5 at the door, the spring waker with a pail turned upside down, empty on purpose = calcium is left out of the reperfusate
+title: Induction cardioplegia needs a little calcium
+titleAr: محلول الشلل القلبي الأوّل يحتاج قليلًا من الكالسيوم
+tags: cardiac/cpb d:pharmacology q:recall l:2
+palette: autumn dusk browns, chalk-white lime as the brightest thing, violet lick-stone, grey felt
+words: K
+must: half of the wall is brushed white with lime and solid, the other unbrushed half is crumbling into red dust; the mason holds a small pail of white lime
+scene: the yard of a country house at autumn dusk, being closed up for the winter. CENTRE, dominant and larger than life: a mason with a small pail of chalk-white lime and a brush stands before the house wall; the half he has brushed is white and solid, the half he forgot is crumbling, bricks falling apart into red dust, and he stares at it in dismay. LEFT: in an open stable a horse lies asleep beside a violet lick-stone marked with the letter K. RIGHT: a woman on a ladder wraps the house bells in thick grey felt. AT THE GATE in the background: a man in a straw hat, carrying spring flowers, holds a pail turned upside down, plainly empty.
+story:
+في آخر الخريف، كان أهل الضيعة ينيمون بيتهم للشّتاء الطويل.
+في الإسطبل لعق الحصان حجره البنفسجيّ ذا الحرف الواحد، ونام. «هذا الحجر ينيم. لكنّه لا يحرس النائم.»
+وعلى السلّم امرأة تلفّ أجراس البيت باللّبّاد الرماديّ، كي لا يوقظه رنين.
+بقي أمر واحد صغير: سطل من الجير الأبيض، يدهن به البنّاء الجدار قبل النوم.
+«وما حاجة بيت نائم إلى الجير؟ دعنا نوفّره للرّبيع.»
+دهن البنّاء نصف الجدار، ثمّ أصغى إلى الصبيّ وترك النصف الآخر.
+فما كاد البيت يغفو، حتّى أخذ النصف المتروك يتفتّت. انحلّ آجرّه واحدةً واحدة، وسال غبارًا أحمر على الأرض. أمّا النصف المدهون فبقي أبيض صلبًا.
+«قليل من الجير عند النوم، وإلّا فلا جدار يستيقظ.» قال البنّاء العجوز وهو يحدّق في الغبار.
+وعند البوّابة وقف رجل الربيع، بقبّعة القشّ وأزهاره، وسطله مقلوب فارغ. «أمّا عند اليقظة فلا جير في سطلي. لكلّ ساعة حكمها.»
+جلس البنّاء بين نصفه القائم ونصفه المنهار، وسأل نفسه:
+quote: «أيّهما أفضل: سعادة رخيصة، أم عذاب سام؟»
+source: رسائل من تحت الأرض
+explanation:
+The ions needed in cardioplegia are potassium to cause the arrest, magnesium to decrease the action potentials, and calcium to stabilise the membrane.
+Absent calcium is thought to lead to membrane instability and lysis of cells.
+So some calcium has to be present in the initial, induction solution; calcium is the answer.
+In the reperfusate, by contrast, calcium is left out, to prevent reperfusion injury.
+The initial solution contains potassium, magnesium, procaine, steroids, oxygen, glucose and calcium, and is given cold.
+
+== 81
+# 1 a small pipe overhead tied off with a red cord            = the ligated ductus arteriosus
+# 2 the rope-man of the LEFT canvas sitting dazed beside it, his hand bandaged = the phrenic nerve bruised near the ductus
+# 3 the left half of the tent's floor canvas risen and slack  = the raised left hemidiaphragm
+# 4 a three-year-old boy playing on the right half, breathing freely; the big bellows machine standing idle in the corner = extubated and well
+# 5 the grandmother sitting with her knitting, simply watching = observation (ANSWER)
+# 6 a seamstress with a great needle, come to pleat the slack canvas, waved back = plication only for a child who cannot come off the ventilator
+title: Raised diaphragm after duct ligation in an extubated child: observe
+titleAr: حجابٌ مرتفع بعد ربط القناة والطفل يتنفّس وحده: راقِب
+tags: cardiac/congenital d:complications d:postoperative q:next-step l:2
+palette: fairground tent stripes of cream and faded red, warm lamplight, the grandmother's wool sky blue
+must: the left half of the floor canvas bulges upward and hangs slack while the right half is flat and taut; the grandmother sits calmly knitting; the bellows machine in the corner is not in use
+scene: inside a small fairground tent. Its floor is a great canvas in two halves. The LEFT half has risen into a slack upward bulge; the RIGHT half is flat and taut, and on it a rosy three-year-old boy plays with a ball, breathing easily. CENTRE, dominant and larger than life: a grandmother sits on a stool between the two halves, knitting sky-blue wool and calmly watching the boy over her spectacles; with one raised hand she waves back a seamstress who has come with a huge needle and thread to pleat the slack canvas. UPPER LEFT: a small pipe under the tent roof is tied off with a red cord, and beside it the rope-man who holds up the left canvas sits dazed, his hand bandaged, his rope hanging loose. BACK RIGHT corner: a large bellows machine stands idle under a dust sheet.
+story:
+في خيمة السوق أرضيّة من قماش في نصفين، يشدّ كلّ نصف رجل بحبله.
+تحت سقف الخيمة أنبوب صغير كان يجب أن يغلق. فصعد العامل وربطه بخيط أحمر.
+وبجوار الأنبوب تمامًا يجلس صاحب الحبل الأيسر. فأصابته ضربة في الزحام، وجلس دائخًا، يده مضمودة، وحبله مرتخ.
+فارتفع النصف الأيسر من الأرضيّة، وانتفخ إلى الأعلى رخوًا.
+أقبلت الخيّاطة بإبرتها العظيمة. «أطويه وأخيطه الآن! لا يترك قماش مرتخيًا.»
+لكنّ الجدّة الجالسة بين النصفين لم تترك صوفها الأزرق. رفعت يدًا واحدةً فأوقفتها.
+«انظري إلى الصغير أوّلًا.» كان ابن الثلاث سنوات يلعب بكرته على النصف الأيمن، يتنفّس وحده ملء صدره. والمنفاخ الكبير في الزاوية مغطًّى، لا حاجة به إليه.
+«من يتنفّس وحده ينتظر عليه. لو كان ما زال معلّقًا بالمنفاخ، لناديت إبرتك بنفسي.»
+وعادت الجدّة إلى صوفها، تعدّ الغرز وتراقب الطفل الضاحك، وقالت:
+quote: «خلق الناس للسّعادة. ومن كان سعيدًا تمامًا، فله الحقّ أن يقول لنفسه: لقد أتممت وصيّة الله على هذه الأرض.»
+source: الإخوة كارامازوف
+explanation:
+Phrenic nerve injury is a rare complication of ligating a patent ductus arteriosus, and shows as an elevated hemidiaphragm.
+Fluoroscopy can confirm it if there is doubt.
+If the child is extubated, supportive treatment is all that is needed: observation is the answer.
+If the child were still intubated, a diaphragmatic plication might have to be done to help weaning from the ventilator.
+
+== 82
+# 1 a two-man rowing boat with fresh patches on its hull      = the heart just after repair of tetralogy of Fallot
+# 2 the boat hardly moving, its pennant limp                  = low cardiac output
+# 3 the right-hand rower swollen and slack, barely pulling     = a dilated, hypocontractile right ventricle (ANSWER)
+# 4 a row of stakes still pinching the channel in front of his oar = residual obstruction of the right ventricular outflow, the commonest reason
+# 5 water heaped up in a mound behind him                      = raised right-sided filling pressures
+# 6 the left-hand rower fit, rowing well, looking across puzzled = the left ventricle is not the cause
+# 7 a nurse on the bank laying cold cloths on the right rower  = support for three or four days
+title: Low output after Fallot repair: the right ventricle
+titleAr: نتاجٌ قلبيٌّ منخفض بعد إصلاح فالو: البطين الأيمن
+tags: cardiac/congenital d:postoperative d:complications q:recall l:2
+palette: grey-green river at dawn, the right rower's shirt a sickly swollen white, the left rower's shirt strong red
+must: the rower on the right side of the boat is bloated and slumped over his oar; the rower on the left sits upright and strong; a row of wooden stakes narrows the water directly in front of the right oar
+scene: a grey-green river at dawn, seen from the front of a two-man rowing boat whose hull shows fresh pale patches. The boat hardly moves; the pennant at its bow hangs limp. RIGHT SIDE of the boat, dominant and larger than life: the right-hand rower is bloated, pale and slack, slumped over an oar he can barely pull; directly in front of his oar a row of wooden stakes pinches the channel narrow; behind him the water has heaped into a mound. LEFT SIDE: the other rower, lean and strong in a red shirt, pulls well and looks across at his partner, puzzled. ON THE BANK at the right: a nurse reaches out to lay cold wet cloths on the swollen rower's neck.
+story:
+خرج القارب ذو المجدافين من يد النجّار عند الفجر، ورقعه الأربع ما زالت بيضاء طريّة.
+قال الناس: أصلح كلّ شيء، فليطر الآن. لكنّ القارب يكاد لا يتحرّك، ورايته متهدّلة.
+«ما بالك يا أخي؟» سأل المجدّف الأيسر، النحيل القويّ بقميصه الأحمر. «أنا أجدّف بكلّ ما فيّ، والقارب واقف!»
+كان المجدّف الأيمن منتفخًا شاحبًا مرتخيًا، منكبًّا على مجداف لا يقوى على جرّه.
+وأمام مجدافه تمامًا، صفّ من الأوتاد ما زال يخنق المجرى. نسيه النجّار أو لم يقدر عليه.
+ومن خلفه تكوّم الماء تلًّا، لا يجد من يدفعه إلى الأمام.
+«لست كسولًا يا أخي.» لهث الأيمن. «جدّفت عمري كلّه في مجرًى مخنوق، حتّى انتفخت ووهنت. والأوتاد ما زالت أمامي.»
+مدّت الممرّضة يدها من الضفّة، ووضعت على عنقه خرقًا باردة. «ثلاثة أيّام أو أربعة. نحمله فيها حتّى يعود إليه ذراعاه.»
+شدّ الأيمن على مجدافه مرّةً أخرى، والألم في كتفيه، وقال:
+quote: «أن تقبل العذاب، وتفتدي نفسك به: هذا ما يجب.»
+source: الجريمة والعقاب
+explanation:
+After repair of tetralogy of Fallot some patients have poor peripheral perfusion, hypotension, acidosis and a falling urine output.
+Right-sided filling pressures are usually raised.
+An echocardiogram may show a residual ventricular septal defect, but generally the cause is a dilated, hypocontractile right ventricle: right ventricular dysfunction is the answer.
+The most common reason for it is residual obstruction of the right ventricular outflow tract, either pulmonary stenosis or infundibular obstruction.
+Occasionally these patients need ventilatory and pressor support for three to four days.
+
+== 83
+# 1 a house whose front gate hangs broken open, a new gate leaning ready = aortic regurgitation; the valve is being replaced
+# 2 a man forcing water in backwards through the back drain   = retrograde cardioplegia
+# 3 of the two spouts at the front, the right-hand one still runs dark and muddy = desaturated effluent from the right coronary ostium: poor perfusion
+# 4 ten pails in a row, three of them tipped into a side ditch; board 30 = 30% of retrograde flow is non-nutritive
+# 5 the gardener holding a small watering can straight to the mouth of each front spout = antegrade cardioplegia directly into the coronary ostia (ANSWER)
+# 6 a man about to pump harder, stopped by the gardener's hand = not more pressure, not more volume
+title: Dark effluent after retrograde cardioplegia: give it antegrade through the ostia
+titleAr: دمٌ داكن بعد الشلل الراجع: أعطِه أماميًّا عبر الفوهتين
+tags: cardiac/cpb d:technique q:next-step l:2
+palette: wet garden greens and clay, clear water against one muddy brown stream, a bright tin can
+words: 30
+must: there are exactly two spouts at the front of the house; the right-hand spout pours dark muddy water and the left-hand spout pours clear water; the gardener holds a small tin watering can directly against the mouth of the right-hand spout
+scene: the front of a small house in a wet garden. Its front gate hangs broken open on one hinge, and a new gate leans against the wall ready to be hung. Low on the front wall are two spouts: the left-hand one runs clear water, the right-hand one still runs dark and muddy. CENTRE, dominant and larger than life: a gardener holds a small bright tin watering can directly against the mouth of the right-hand spout and pours clean water straight into it; with his other hand he stops a second man who is about to throw his weight on the handle of a pump. That pump stands at the BACK of the house, where a hose forces water in through the back drain. LOWER LEFT: ten pails in a row, three of them tipped over into a side ditch, and a board reading 30.
+story:
+بوّابة البيت الأماميّة مخلوعة تتدلّى على مفصل واحد، والبوّابة الجديدة مسندة إلى الجدار تنتظر.
+وما دامت البوّابة مخلوعة، فلا ماء يحبس في الحوض الأماميّ. فقرّروا أن يسقوا البيت من خلفه: دفعوا الماء في المصرف الخلفيّ عكس مجراه.
+ثمّ وقفوا أمام المزرابين في الواجهة ينتظرون.
+سال المزراب الأيسر صافيًا. أمّا الأيمن فبقي يسيل داكنًا عكرًا.
+«اضغطوا أكثر! زيدوا الماء من الخلف!» وهمّ الرجل أن يلقي بثقله على ذراع المضخّة.
+«قف مكانك.» قال البستانيّ وأمسك بيده. «من كلّ عشرة سطول ندفعها من الخلف، ثلاثة تذهب إلى الخندق ولا تسقي شيئًا. انظر إلى اللوحة: ثلاثون.»
+«الطريق الخلفيّ لا يبلغ الجانب الأيمن. فلماذا أدور حول البيت، والفم أمامي؟»
+أخذ إبريقه الصغير من الصفيح، وألصقه بفم المزراب الأيمن مباشرة، وصبّ فيه الماء النظيف.
+وحين صفا المزراب أخيرًا، مسح البستانيّ يديه وقال:
+quote: «لا أفهم شيئًا، ولا أريد الآن أن أفهم شيئًا. أريد أن أبقى مع الواقعة.»
+source: الإخوة كارامازوف
+explanation:
+Dark effluent blood from a coronary ostium suggests poor perfusion by the retrograde technique.
+About 30% of the flow given retrogradely is non-nutritive.
+The answer is to give antegrade cardioplegia directly through the coronary ostia.
+With severe aortic regurgitation it cannot simply be given into the aortic root, which is why the ostia are used.
+More volume, more oxygen or more pressure in the retrograde catheter does not correct the poor distribution.
+
+== 84
+# 1 a crusted, crumbling plaster arch over the entrance of a tall house = the atherosclerotic ascending aorta and arch
+# 2 chips of plaster flying up the stairwell to the lamp room at the very top, where lamps are going out = debris reaching the brain: stroke
+# 3 the crew that hangs a new door AND lays new pipes on the same day, under the biggest cloud of dust = combined valve and coronary surgery: the highest risk of stroke (ANSWER)
+# 4 a crew that only hangs a door and a crew that only lays pipes, each under a small cloud = isolated valve surgery, isolated coronary surgery
+# 5 a man working alone through a small side window, hardly any dust = minimally invasive direct coronary bypass
+title: Stroke risk is highest when valve and coronary surgery are combined
+titleAr: خطر السكتة أعلاه حين تُجمَع جراحة الصمام والشرايين
+tags: cardiac/perioperative d:complications d:evidence q:recall l:1
+palette: plaster white dust in shafts of light against dark timber, the lamp room at the top glowing amber
+must: the crew in the centre is doing two jobs at once, one man hanging a door and one laying pipes, under by far the largest dust cloud; lamps in the top room above them are going dark
+scene: a tall narrow house seen cut open, with an old crusted, crumbling plaster arch over its entrance at the bottom and a lamp room full of small amber lamps at the very top, joined by an open stairwell. CENTRE, dominant and larger than life: under the arch a double crew works at once, one man hanging a heavy new door while another lays new pipes along the wall, and from the arch above them a great cloud of plaster dust and chips bursts out and streams up the stairwell; in the lamp room at the top several lamps have gone dark and a lamp-keeper beats at the dust with her apron. LEFT, smaller: a crew that only hangs a door, under a small puff of dust. RIGHT, smaller: a crew that only lays pipes, under a small puff. FAR RIGHT: one man works through a small side window, with hardly any dust at all.
+story:
+في البيت العالي مدخل يعلوه قوس من جبس قديم، متقشّر متفتّت. وفي أعلاه غرفة القناديل، وبينهما بئر السلّم مفتوحة.
+كلّ من يعمل تحت القوس يهزّه. وكلّ ما يسقط منه لا يسقط إلى الأسفل، بل يطير مع التيّار إلى الأعلى.
+جاء فريق يعلّق بابًا فقط. فارتفعت نفخة غبار صغيرة.
+وجاء فريق يمدّ الأنابيب فقط. نفخة صغيرة أخرى.
+ورجل وحيد يعمل من نافذة جانبيّة صغيرة، ولا يكاد يثير ذرّة.
+ثمّ جاء الفريق المزدوج. «نحن نعلّق الباب ونمدّ الأنابيب في يوم واحد! عملان بأجرة يوم.»
+فانفجرت من القوس سحابة عظيمة من الغبار والشّظايا، وصعدت في بئر السلّم كالدّخان.
+وفي الأعلى انطفأت القناديل واحدًا بعد واحد. «قناديلي! كلّما عملوا عملين تحت ذاك القوس، أظلمت غرفتي.»
+نزلت حارسة القناديل وفي يدها قنديل ميّت، ووضعته أمام الفريق المزدوج، وقالت:
+quote: «من كان له ضمير، فليتعذّب إن أدرك خطأه. ذلك عقابه، فضلًا عن الأشغال الشاقّة.»
+source: الجريمة والعقاب
+explanation:
+Neurological injury after cardiac surgery affects 3 to 9% of patients and is related mainly to embolic episodes or defects of brain perfusion.
+Combined valve and coronary bypass surgery carries the highest risk of stroke, which is the answer.
+The main source of stroke is atherosclerotic debris from the ascending aorta and arch.
+Despite recent innovations the incidence of stroke is unchanged.
+
+== 85
+# 1 the great red pipe of the house, pale and crusted along its FRONT = the atherosclerotic ascending aorta; the plaques are mostly anterior
+# 2 a workman driving the tap into that front with a mallet, crust bursting upward to the lamp room = aortic cannulation: the moment of highest stroke risk (ANSWER)
+# 3 the foreman passing his palm over the pipe and shrugging    = palpation is not sensitive
+# 4 a woman pressing a listening horn to the pipe, her eyes wide = epiaortic scanning is the best method
+# 5 a clean side pipe at the shoulder of the house with a spare tap beside it = another site: axillary or femoral artery
+# 6 the great iron clamp hung on the wall, a black ribbon tied round it = such an aorta is never cross-clamped
+title: The stroke happens when the aorta is cannulated
+titleAr: السكتة تقع لحظة إدخال القُنيّة في الأبهر
+tags: cardiac/perioperative cardiac/cpb d:complications d:technique q:recall l:2 x:high-yield
+palette: boiler-room shadow, one great pipe of pale sick red with grey crust, brass tap, amber lamps above
+must: the mallet is striking a brass tap into the FRONT of the big crusted pipe and flakes of crust are flying upward; the woman holds a horn-shaped listening trumpet against the pipe
+scene: the boiler room of a tall house, with a lamp room visible high above through an open shaft. A great pipe of pale, sickly red crosses the room, its front covered in grey crust. CENTRE, dominant and larger than life: a workman swings a mallet and drives a brass tap into the crusted front of the pipe, and flakes of crust burst off and fly up the shaft towards the amber lamps above, one lamp already flickering out. LEFT: the foreman passes his bare palm along the pipe and shrugs. RIGHT: a woman presses a horn-shaped listening trumpet to the pipe, her eyes wide with alarm, her other hand raised to stop the workman. UPPER RIGHT: a clean, smooth side pipe at the shoulder of the house, with an unused brass tap lying beside it. ON THE BACK WALL: a great iron clamp hangs on a hook with a black ribbon tied round it.
+story:
+في غرفة المرجل، يعبر الأنبوب الأحمر العظيم، شاحبًا عليلًا، ووجهه الأماميّ مكسوّ بقشرة رماديّة.
+وفي الأعلى، من فتحة البئر، تلوح غرفة القناديل الكهرمانيّة.
+مرّ رئيس العمّال بكفّه العارية على الأنبوب، وهزّ كتفيه. «أملس تحت يدي. لا أحسّ شيئًا. اضرب.»
+«يدك لا تسمع!» قالت المرأة وهي تلصق بوق السمع بالأنبوب، وعيناها متّسعتان. «أنا أسمع القشرة تحت الجلد. لا تضربوا هنا!»
+وأشارت إلى كتف البيت، حيث أنبوب جانبيّ نظيف أملس، وإلى جانبه صنبور لم يستعمل.
+لكنّ العامل كان قد رفع مطرقته.
+هوت المطرقة، وانغرز الصنبور النحاسيّ في وجه الأنبوب. فتطايرت القشرة شظايا، وصعدت في البئر إلى القناديل، وانطفأ أوّلها.
+وعلى الجدار الخلفيّ ملزمة الحديد العظيمة، معلّقة بشريط أسود: ممنوعة على أنبوب كهذا.
+نظرت المرأة إلى رئيس العمّال الّذي صدّق كفّه وكذّب أذنها، وقالت:
+quote: «كلّ امرئ يعنى بنفسه. وأسعد الناس عيشًا، أمهرهم في خداع نفسه.»
+source: الجريمة والعقاب
+explanation:
+Most atherosclerotic plaques lie in the anterior part of the ascending aorta, and they are responsible for the majority of strokes.
+The highest risk is when the aorta is cannulated, which is the answer.
+A pale, tethered aorta suggests atherosclerosis, but direct palpation is not sensitive enough to find the plaques.
+The best method is epiaortic scanning.
+When plaques are found, another site is used for cannulation: the axillary, femoral, subclavian or innominate artery, or the arch.
+If no site is available the operation may be done on a fibrillating heart with hypothermia and a left ventricular vent.
+Such an aorta should never be cross-clamped.
+

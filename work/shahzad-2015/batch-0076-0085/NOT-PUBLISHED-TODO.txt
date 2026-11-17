@@ -1,0 +1,22 @@
+Lessons 76-85: WRITTEN, NOT PUBLISHED (the owner stopped the work on 2026-11-17 about 03:15 UTC; wait for their word).
+batch.txt = tables, scenes, stories, quotations, explanations; voice.txt = vowelled story lines. The image prompts
+(image-prompts-76-85.json) WERE handed to the owner, so the scenes must not change.
+Voice was made only for 76 and 77 and then stopped; nothing of it is published. To finish: fix the points below in
+voice.txt / batch.txt, then  voice.py fill, batch.py build --master <mcqs-0001-0100.json>, voice.py make, voice.py check, publish.
+
+A second agent checked these ten (medicine agrees with the book in all; all ten quotations recognised as genuine).
+Still to fix, from its report:
+78  "old-man: لا تقتلعها." is a spoken part of two words: make it three or more (e.g. add "يا بنيّ").
+78  the story says the new pump's own blue outlet split and lies on the floor; in the scene a SEPARATE short blue pipe,
+    tried first, lies kinked on the floor. Reword that sentence. "قَصُرَ عن" -> "قَصَرَ عن".
+79  the quotation "الورقة حسنة. كلّ شيء حسن." (Kirillov, Demons) has no leaf to refer to in the story: choose another
+    genuine line (not yet used) or give it a referent.
+80  the boy who speaks is never introduced and is not in the scene; say who he is before his line, and say who speaks
+    the line about the lick-stone. Last sentence: the mason stands before the wall; "نصفه" should be the wall's halves.
+81  "ابن الثلاث سنوات" -> "ابن ثلاث سنوات"; "يجلس ... فأصابته" -> "كان يجلس ... فأصابته"; "لا حاجة به إليه" -> "لا حاجة للصغير إليه".
+82  "ورقعه الأربع": the scene gives no count of patches; drop "الأربع".
+83  "man: قف مكانك." is two words: lengthen. "بِثِقَلِهِ" -> "بِثِقْلِهِ". (Scene: the pump is at the back of the house while the
+    gardener at the front stops the pump man with his hand: decide from the picture.)
+85  the story has the crust plainly on the pipe's face and also "under the skin": make the dialogue consistent with a
+    visible crust (the scene shows it). "معلّقة بشريط أسود" -> the clamp hangs on a hook with a black ribbon tied round it.
+77  "وَهَتَفَ:" -> "وَهَتَفْ:" (pause form, like the other lead-ins).
