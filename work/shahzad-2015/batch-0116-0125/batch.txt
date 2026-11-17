@@ -1,0 +1,335 @@
+book: shahzad-2015
+# Lessons 116-125. Written "table first".
+
+== 116
+# 1 a small, stiff, thick-walled stone cistern that a sudden flood pours back into = a normal-sized, non-compliant LV hit by sudden severe AR
+# 2 the cistern's water level shooting up, its gauge needle leaping = LV end-diastolic and left atrial pressure rising fast
+# 3 the outlet gauge on the street: high and low marks almost touching, the gap between them narrow = in acute severe AR the pulse pressure is NOT wide (ANSWER)
+# 4 the cistern's lid slammed shut early by the pressure, a dull muffled bang = the mitral valve closes early: a soft first sound
+# 5 the house water drained and the people inside gasping, a frantic pump racing = falling forward output, tachycardia, pulmonary oedema
+# 6 the cistern no bigger than before                      = no cardiomegaly
+title: Acute severe aortic regurgitation: no wide pulse pressure
+titleAr: القصور الأبهري الحادّ الشديد: لا ضغط نبض عريض
+tags: cardiac/aortic-valve d:physiology d:diagnosis q:recall l:2
+palette: wet slate and lamp black, cold flood water, two brass needles nearly touching
+must: the street gauge has two needles, a high one and a low one, pressed close together with only a thin gap between them; the cistern is small and thick-walled and water pours BACK into it
+scene: night in a stone house; a sudden flood bursts through a broken gate and pours BACKWARDS into a small, thick-walled stone cistern, whose water level shoots up as its own gauge needle leaps. The cistern's iron lid has been slammed shut by the pressure, and a woman covers her ears at the dull muffled bang. In the rooms above, the taps run dry and a family gasps for air while a little pump races madly. CENTRE, dominant and larger than life: on the street outside a big brass gauge with two needles, a high one and a low one, pressed almost together with only a thin gap between them; an old water inspector holds up two fingers almost touching and frowns.
+story:
+في ليلة من ليالي آذار، انكسرت البوّابة فجأة، وانقضّ السيل على بيت التاجر فوما الحجريّ.
+لكنّ الماء لم يجر إلى الأمام كعادته، بل ارتدّ إلى الوراء، وانصبّ في صهريج حجريّ صغير غليظ الجدران.
+صهريج صغير عنيد، لا يتّسع ولا يلين. فقفز الماء فيه إلى حافّته، ووثبت إبرة مقياسه وثبة الملدوغ.
+ومن ضغط الماء، انصفق غطاؤه الحديديّ قبل أوانه، بضربة مكتومة كالسّعال، فسدّت الخادمة دونيا أذنيها.
+وفي الغرف العليا جفّت الصنابير، وشهق فوما وأولاده كالغرقى على اليابسة، والمضخّة الصغيرة تدقّ وتدقّ كالمجنونة بلا طائل.
+وهرع الكاتب الشابّ بافل إلى المقياس النحاسيّ الكبير في الشارع، وصاح مطمئنًّا: «في كتبنا يباعد السيل بين الإبرتين مباعدةً! وهما هنا متلاصقتان، فلا خطر في البيت!»
+لكنّ مفتّش المياه العجوز يغور، رفع إصبعين لا تكاد تمرّ بينهما شعرة، وقطّب جبينه.
+«إبرة عالية وإبرة واطئة، وبينهما خيط رفيع. كتبك تحكي عن صهاريج واسعة تمدّدت على مهل، أمّا السيل المباغت في صهريج صغير فهكذا يتكلّم!»
+ثمّ أشار إلى الصهريج: لم يكبر قيد إصبع، هو كما كان أمس تمامًا. «لا تنتظر أن ينتفخ لتصدّق، فليس لديه وقت لذلك!»
+فأغلق بافل كتابه خجلًا، ونظر إليه يغور وقال:
+quote: «العقل شيء ممتاز، لا جدال في ذلك. لكنّ العقل ليس إلّا عقلًا، ولا يشبع إلّا الجانب العاقل من طبيعة الإنسان.»
+source: رسائل من تحت الأرض
+explanation:
+In acute severe aortic regurgitation a large regurgitant volume suddenly enters a left ventricle of normal size and stiffness that has had no time to adapt.
+Working on the steep part of its pressure-volume curve, the ventricle's end-diastolic pressure and the left atrial pressure rise rapidly and dramatically.
+In acute severe aortic regurgitation a wide pulse pressure is not seen, which is the answer: systolic pressure falls and aortic diastolic pressure equalises with the high ventricular diastolic pressure.
+The high ventricular diastolic pressure closes the mitral valve early, so the first heart sound is soft, not loud.
+Forward stroke volume falls rather than rises; tachycardia tries to compensate, and patients present with pulmonary oedema or cardiogenic shock.
+The heart is not enlarged, so cardiomegaly is absent, and a ventricle already thickened by pressure overload tolerates acute regurgitation even worse.
+
+== 117
+# 1 a coach builder fitting a new wheel to the FRONT axle of a carriage whose rear wheels are already iron = an aortic valve replacement in a patient with a mechanical mitral or tricuspid valve
+# 2 an iron wheel chosen to match the iron ones = a mechanical prosthesis is recommended: Class I (ANSWER)
+# 3 the coachman already taking his daily bitter draught for the iron wheels = he is on warfarin anyway
+# 4 a stand of wooden wheels with signs: one for an old traveller over 65, one for a young woman, one for a burning carriage = Class IIa and IIb choices: bioprosthesis at 65+, woman of childbearing age, homograft in endocarditis
+# 5 a gold medal with the Roman numeral I on the iron wheel = Class I
+title: Mechanical mitral valve already? Then a mechanical aortic valve: Class I
+titleAr: صمامٌ تاجيٌّ معدنيٌّ أصلًا؟ إذن صمامٌ أبهريٌّ معدنيّ: توصية من الصنف الأول
+tags: cardiac/aortic-valve d:indications d:evidence q:recall l:2 x:guideline
+palette: blackened iron and polished brass against pale ash wood, one gold medal
+words: I
+must: the carriage's rear wheels are iron; the new front wheel being fitted is also iron and bears a gold medal with the letter I; the wooden wheels stand aside unused
+scene: a coach builder's yard. CENTRE, dominant and larger than life: the builder is fitting a heavy black iron wheel to the FRONT axle of a carriage whose two rear wheels are already iron; a round gold medal bearing the letter I hangs from the new wheel's hub. On the carriage step the coachman sips a small cup of bitter dark draught, as he does every day. LEFT: a stand of pale wooden wheels, unused, beside an old grey-haired traveller, a young woman with a baby, and a scorched carriage still smoking.
+story:
+في ساحة صانع العربات ماكار، وقفت عربة الحوذيّ تيخون، ومحورها الأماميّ عار ينتظر عجلته.
+عجلتاها الخلفيّتان من حديد أسود، ركّبتا منذ سنين، وطالما هدرتا على حجارة الطريق.
+وعلى سلّم العربة جلس تيخون يرشف فنجانًا صغيرًا من شراب أسود مرّ، كما يفعل كلّ يوم منذ ركّب الحديد.
+وأشار تيخون إلى اليسار، إلى حامل من العجلات الخشبيّة الشاحبة. «أعطني عجلةً من خشب يا ماكار، خفيفةً كتلك، وأرحني من هذا المرّ!»
+لم يمسّ أحد تلك العجلات. وإلى جانبها شيخ مسافر أشيب، وامرأة شابّة تحمل طفلها، وعربة محترقة ما زال الدخان يتصاعد منها.
+لم يرفع ماكار رأسه. حمل العجلة الحديديّة الثقيلة بكلتا يديه، ودفعها على المحور الأماميّ. «الخشب لأولئك يا تيخون، للشّيخ والأمّ والعربة المحترقة. قد يصلح لهم، وقد لا يصلح.»
+«أمّا أنت فتشرب المرّ كلّ يوم من أجل حديدك الخلفيّ، وستشربه بخشب أو بغير خشب. فالحديد يتبع الحديد، ولا قد هنا ولا لعلّ!»
+ثمّ علّق على قبّ العجلة وسامًا ذهبيًّا مستديرًا، نقش عليه الرقم الرومانيّ واحد. «هذا هو الأوّل يا تيخون، وليس بعده كلام.»
+فعبس تيخون ورفع ذقنه كالمهان، فوضع ماكار يده الثقيلة على كتفه وقال:
+quote: «تواضع أيّها الإنسان المتكبّر، وقبل كلّ شيء اكسر كبرياءك.»
+source: يوميات كاتب، خطاب بوشكين
+explanation:
+The question is which valve to choose for aortic valve replacement.
+A mechanical prosthesis is recommended for aortic valve replacement in a patient who already has a mechanical mitral or tricuspid valve: a Class I recommendation, which is the answer.
+That patient needs lifelong warfarin for the existing mechanical valve anyway, so a bioprosthesis would spare him nothing.
+A bioprosthesis at 65 or older without thromboembolic risk factors, and a homograft for active prosthetic valve endocarditis, are Class IIa; a bioprosthesis in a woman of childbearing age is Class IIb.
+A mechanical valve under 65 without a contraindication to anticoagulation is also only Class IIa, "reasonable", which makes it the most tempting wrong option.
+The other Class I statement is a bioprosthesis for patients of any age who will not or cannot take warfarin.
+note: These are the classes of the ACC/AHA 2006 valve guidelines with their 2008 focused update, which the book uses; later guidelines changed the age thresholds and some classes.
+
+== 118
+# 1 a narrow mountain gorge through which a whole river must be forced = the stenotic aortic valve
+# 2 a measuring frame across the gorge marking its width per stone of the boat's weight, reading under 0.6 = valve area index under 0.6 cm2 per m2: severe (ANSWER)
+# 3 a jet of water from the gorge flying past a mark 4    = jet velocity over 4 m/s is severe; 3.5 is moderate
+# 4 a fall from upper pool to lower pool, mark 40 = mean gradient over 40 is severe; 35 is moderate
+# 5 a second, wider gorge with a sign 1.2 and calm water = an area of 1.2 cm2 is only moderate
+title: Severe aortic stenosis: valve area index under 0.6
+titleAr: تضيّق الأبهر الشديد: مؤشّر مساحة الصمام أقلّ من 0.6
+tags: cardiac/aortic-valve d:diagnosis q:numbers l:1 x:high-yield
+palette: dark granite and foaming white water, one bright brass measuring frame
+words: 0.6, 4, 40
+must: a brass measuring frame across the narrow gorge reads 0.6 at the gap; the jet flies past a post marked 4; the drop between pools has a mark 40
+scene: a river forced through an extremely narrow granite gorge. CENTRE, dominant and larger than life: across the gorge a brass measuring frame, held by a surveyor dangling from a rope, reads 0.6 exactly at the gap; the surveyor has also hung his own heavy boots on the frame to show the scale is per weight. Out of the gorge a white jet flies past a post marked 4. Below, the drop from the upper pool to the lower pool is marked 40 on the rock. RIGHT, far off: a second, wider gorge with calm water and a small sign.
+story:
+في وادي الغرانيت الأسود، يحشر النهر كلّه في شقّ ضيّق، لا يتّسع لذراعي رجل.
+وفوق الشقّ، تدلّى المسّاح سيميون من حبل طويل، يثبّت إطارًا نحاسيًّا لامعًا من صخرة إلى صخرة.
+في القرية يسمّونه المجنون، لأنّه لا يقيس الشيء وحده، بل يقيسه على قدر صاحبه وثقله.
+ولهذا علّق على الإطار حذاءيه الثقيلين أيضًا. «كلّ شبر من الشقّ بقدر ثقل هذين الحذاءين! هكذا يقاس الممرّ!»
+ثمّ قرّب عينه من الثغرة، وقرأ على النحاس بصوت يرتجف: «صفر، فاصلة، ستّة! ستّة أعشار لا غير!»
+ومن فم الشقّ انطلقت نافورة بيضاء كالسّهم، فتجاوزت العمود المكتوب عليه أربعة، ولم تلتفت إليه.
+وتحتها هوى الماء من البركة العليا إلى البركة السفلى، على صخرة نقش عليها: أربعون.
+وبعيدًا إلى اليمين، شقّ ثان أوسع، ماؤه ساكن يتثاءب، وعنده لافتة صغيرة لا يأبه لها أحد. «هناك يمشي النهر مشيًا، أمّا هنا فيعصر عصرًا!»
+وتأرجح سيميون على حبله فوق الهدير، وضحك من نفسه قبل أن يضحكوا، وقال:
+quote: «أنا رجل مضحك. وهم يسمّونني الآن مجنونًا. ولكانت هذه ترقيةً في الرتبة، لو لم أبق في نظرهم مضحكًا كما كنت من قبل.»
+source: حلم رجل مضحك
+explanation:
+In aortic stenosis the whole cardiac output is forced through a narrowed valve, and severity is graded by valve area, jet velocity and mean gradient.
+A valve area index under 0.6 cm2 per m2 of body surface area marks severe stenosis, which is the answer.
+A jet velocity over 4 m/s is severe; 3.5 m/s is moderate.
+A mean gradient over 40 mmHg is severe; 35 mmHg is moderate.
+A valve area of 1.2 cm2 is only moderate, since severe is under 1.0 cm2, and an index of 1.6 cm2 per m2 is far above the severe limit.
+note: The cut-offs are those of the book's table (ACC/AHA 2006): moderate is 3.0-4.0 m/s and 25-40 mmHg; later guidelines keep the same limits for severe stenosis.
+
+== 119
+# 1 a gardener in a hothouse spraying a fine tonic on a transplanted tree = cyclosporine after a transplant
+# 2 the spray falls only on the wasps' nest of soldier wasps, leaving bees, butterflies and ants alone = selective: it blocks calcineurin, spares macrophages, neutrophils, suppressor T cells, some B cells
+# 3 a measuring cup with a tiny gap between the green line 'enough' and the red line 'poison' = a low therapeutic index (ANSWER)
+# 4 a kidney-shaped bean plant wilting where the spray drifts = nephrotoxicity (not reduced by it)
+# 5 a plaque with the number 11 on the spray flask = an 11-amino-acid cyclic peptide (not 15)
+title: Cyclosporine has a low therapeutic index
+titleAr: السيكلوسبورين: هامشٌ علاجيٌّ ضيّق
+tags: cardiac/heart-failure d:pharmacology q:recall l:2
+palette: misty hothouse green, glass and brass, one green and one red line on the cup
+words: 11
+must: the measuring cup has a green line and a red line almost touching; the spray falls only on a nest of striped wasps and not on the bees, butterflies or ants
+scene: a steamy glass hothouse where a young tree has just been transplanted into a great pot. CENTRE, dominant and larger than life: a careful old gardener holds up a glass measuring cup against the light; on it a green line and a red line are drawn almost touching, and he pours drop by drop. With the other hand he sprays a fine mist from a brass flask marked 11, and the mist falls only on a hanging nest of striped wasps, which go still, while bees, butterflies and a line of ants carry on untouched. LOWER RIGHT: a bean plant with kidney-shaped beans wilting where a little mist has drifted.
+story:
+في البيت الزجاجيّ المشبع بالبخار، غرست أمس في أصيص عظيم شجرة فتيّة، نقلت إليه من بستان غريب.
+وما كادت تستقرّ حتّى طنّ فوقها عشّ الدبابير المخطّطة المعلّق: جنود لا يطيقون غريبًا في البستان.
+فجاء البستانيّ العجوز لوقا بقارورة من نحاس، نقش عليها الرقم أحد عشر.
+رشّ منها رذاذًا ناعمًا، فسقط على العشّ وحده. فسكنت الدبابير كالنّائمة، ومضى النحل والفراش وطابور النمل في عملها، كأن لم يكن شيء.
+وبيده الأخرى رفع كأس قياس زجاجيّةً في وجه الضوء: عليها خطّ أخضر وخطّ أحمر، متلاصقان لا يفصل بينهما إلّا شعرة.
+وأخذ يصبّ فيها قطرةً بعد قطرة، ويكلّم الشجرة كما يكلّم طفل مريض: «الأخضر يحميك يا صغيرتي، والأحمر يقتلك، وبينهما قطرة واحدة!»
+وفي الزاوية السفلى عن اليمين، شرد قليل من الرذاذ إلى نبتة فول حبّاتها على شكل الكلى، فذبلت ومالت.
+فهمس لوقا للنّبتة الذابلة: «صبرًا يا جارتي، لا شيء يحمي الغريب بلا ثمن.»
+ثمّ نظر إلى النحل والفراش والنّمل السائر في طابوره، وابتسم ابتسامة شيخ رأى كثيرًا، وقال:
+quote: «أحبّوا الحيوانات: فقد وهبها الله بدايات الفكر، وفرحًا صافيًا لا يعكّره شيء. فلا تعكّروه، ولا تعذّبوها، ولا تسلبوها فرحها.»
+source: الإخوة كارامازوف
+explanation:
+Cyclosporine is given after heart transplantation to prevent rejection.
+It is selective: it blocks the calcineurin pathway in T lymphocytes and spares macrophages, neutrophils, suppressor T cells and some B cells, so immunosuppression is not widespread.
+Cyclosporine has a low therapeutic index, which is the answer: the gap between an effective and a toxic level is narrow and absorption varies between patients, so trough levels are monitored closely.
+It is nephrotoxic, so it did not improve transplantation by reducing nephropathy; its benefit came mainly from fewer deaths from infection.
+It is an 11-amino-acid cyclic peptide made by the fungus Tolypocladium inflatum, not a 15-amino-acid one.
+
+== 120
+# 1 two caravans racing to a far city across a desert, one by a straight new tunnel (stents), one over the old mountain road (bypass) = PCI and CABG in the SYNTAX trial
+# 2 a finish-line board showing almost equal numbers of fallen camels on both sides, 37 and 31 = no significant difference in overall MACCE at 5 years (ANSWER)
+# 3 the tunnel caravan doubling back again and again to dig fresh tunnels = more repeat revascularisation with PCI
+# 4 more riders thrown at the mountain pass on the bypass road = more stroke with CABG
+# 5 in the tangled high-score dunes the tunnel caravan losing far more = MACCE worse with PCI at high SYNTAX scores
+title: SYNTAX at five years: no overall difference in MACCE
+titleAr: تجربة SYNTAX بعد خمس سنوات: لا فرق إجمالي في الأحداث القلبية الكبرى
+tags: cardiac/coronary d:evidence q:recall l:3
+palette: desert ochre and evening violet, two long camel caravans, one white finish board
+words: 37, 31
+must: the finish board shows two numbers side by side, 37 and 31; the tunnel caravan has men going back to dig new tunnels; riders are thrown on the mountain road
+scene: a vast desert at evening with a city on the far horizon. Two camel caravans have travelled for five years: the LEFT one through a row of straight new tunnels bored through the dunes, the RIGHT one over an old winding mountain road. At the mountain pass on the right, riders are thrown from their camels. On the left, men from the tunnel caravan keep turning back to dig fresh tunnels. In the far tangled dunes the tunnel caravan has lost many camels. CENTRE, dominant and larger than life: at the city gate a white finish board with the two numbers 37 and 31 side by side, and an old judge in a turban shrugging with both palms up, as if to say: almost the same.
+story:
+قبل خمس سنين، تراهن التاجران سليم ومراد: أيّهما يبلغ المدينة البعيدة بأقلّ خسارة.
+سلك سليم عن اليسار، في صفّ من الأنفاق الجديدة المستقيمة المحفورة في الكثبان. وسلك مراد عن اليمين، طريق الجبل القديم الملتوي.
+كانت أنفاق سليم سريعة، لكنّها تنسدّ بالرّمل. فظلّ رجاله يرجعون القهقرى مرّةً بعد مرّة، ليحفروا أنفاقًا جديدة.
+وعند ممرّ الجبل على اليمين، كانت الجمال تجفل على الحافّة، فتطرح ركبانها عن ظهورها. ومراد يعضّ كمّه عند كلّ منعطف.
+أمّا في الكثبان المتشابكة البعيدة، حيث تلتفّ الرمال على نفسها، فقد خسر سليم كثيرًا من جماله.
+وفي مساء السنة الخامسة، بلغت القافلتان باب المدينة. وعلى الباب لوح أبيض كبير، كتب عليه القاضي ما خسر كلّ منهما: سبعة وثلاثون لسليم، وواحد وثلاثون لمراد.
+صاح مراد في وجه القاضي العجوز ذي العمامة: «ستّة أقلّ! ستّة جمال يا شيخ! الرهان لي!»
+فهزّ القاضي كتفيه، ورفع كفّيه مفتوحتين. «ستّة على طريق خمس سنين لا تفصل بين رجلين. أنتما تقريبًا سواء.»
+«أنت يا سليم حفرت ثمّ حفرت، وأنت يا مراد أسقطت رجالك على الجبل. فبأيّ وجه يأخذ أحدكما الرهان؟»
+ثمّ نظر إلى الصحراء المظلمة وراءهما، كمن ينتظر جوابًا لم يأت بعد، وقال:
+quote: «أريد أن أكون هنا، حين يعرف الجميع فجأةً، لماذا كان كلّ شيء على ما كان.»
+source: الإخوة كارامازوف
+explanation:
+The SYNTAX trial randomised patients with left main or three-vessel coronary disease to PCI with paclitaxel-eluting stents or to CABG.
+In the left main group at 5 years, MACCE was 36.9% after PCI and 31.0% after CABG, a difference that was not significant: no overall difference, which is the answer.
+Repeat revascularisation was significantly more frequent after PCI.
+Stroke was significantly more frequent after CABG.
+MACCE was similar with low and intermediate SYNTAX scores but significantly higher after PCI with high scores of 33 or more, so "similar at high scores" is the tempting wrong option.
+note: These are the 5-year figures of the SYNTAX left main cohort (705 patients) that the book quotes; in the whole trial, including three-vessel disease, MACCE was significantly higher after PCI.
+
+== 121
+# 1 a newborn's tiny boat whose one half is missing, rebuilt into a single-hulled raft in a first operation = Norwood procedure for hypoplastic left heart
+# 2 the first stretch of river after the shipyard, full of rocks and sunk rafts = most late deaths occur before the second stage (ANSWER)
+# 3 the second harbour with a crane ready to add a new mast = the bidirectional cavopulmonary shunt
+# 4 at the shipyard gate a board: 20 = hospital mortality about 20% at experienced centres
+# 5 a buoy marked 60 a year down the river = one-year survival about 60%
+title: After the Norwood operation, most late deaths come before the second stage
+titleAr: بعد عملية نوروود: أغلب الوفيات المتأخّرة قبل المرحلة الثانية
+tags: cardiac/congenital d:evidence q:recall l:3
+palette: river mist grey-green, a tiny red raft, dark rocks, one lit crane at the far harbour
+words: 20, 60
+must: the stretch of river between the shipyard and the second harbour is full of black rocks and sunken rafts; the river beyond the harbour is calm; a board reads 20 and a buoy reads 60
+scene: a misty river seen from above. UPPER LEFT: a small shipyard where a tiny boat missing its whole left half has just been rebuilt into a single-hulled red raft, a board on the gate reading 20. CENTRE, dominant and larger than life: the stretch of river after the shipyard is full of black rocks and the wrecks of sunken rafts; the little red raft, with a mother and a baby in it, threads between the rocks, an old ferryman poling hard. LOWER RIGHT: the second harbour, with a crane lit and waiting to add a mast; beyond it the river runs calm. A buoy in the water halfway reads 60.
+story:
+ولد القارب الصغير ناقصًا: نصفه الأيسر كلّه غائب، كأنّ يدًا انتزعته قبل أن يولد.
+فأعاد صانع السفن نيكولا بناءه في حوضه الصغير، طوفًا أحمر ببدن واحد.
+وعلى بوّابة الحوض لوح مكتوب عليه: عشرون. وكانت الأمّ سونيا تعرف معناه: من كلّ مئة طوف يبنى هنا، عشرون لا تخرج من البوّابة.
+وخرج طوفها، وفيه طفلها. لكنّ النهر بعد الحوض مقبرة: صخور سود كالأنياب، وبينها حطام أطواف غرقت هنا، بعد أن خرجت سالمة.
+وفي مؤخّرة الطوف وقف الملّاح العجوز غراسيم، يدفع بعصاه الطويلة دفع من يصارع.
+«لا تنظري إلى الحطام يا سونيا. هنا، بين هذه الصخور، يهلك أكثر من يهلك!»
+وفي منتصف الطريق مرّوا بعوّامة مكتوب عليها: ستّون. فهمست سونيا: «ستّون من كلّ مئة يبلغون تمام العام. أنكون منهم؟»
+وفي الزاوية السفلى عن اليمين، لاح الميناء الثاني من خلل الضباب، وفيه رافعة مضاءة تنتظر أن تنصب للطّوف صاريًا. ومن ورائه يجري النهر هادئًا كالزّيت.
+«أكثر الخطر قبل الرافعة يا ابنتي، لا بعدها. هناك يهدأ الماء.»
+وضمّت سونيا طفلها، فانحنى غراسيم على الصغير، وقال بصوت أجشّ:
+quote: «آه يا أطفال، آه يا أصدقائي الأعزّاء، لا تخافوا الحياة! ما أجمل الحياة حين يفعل المرء شيئًا خيّرًا صادقًا!»
+source: الإخوة كارامازوف
+explanation:
+The Norwood procedure is the first stage of reconstruction for hypoplastic left heart syndrome, rebuilding a single outflow to the body from the right ventricle.
+Most late deaths occur in the interval before the second stage, which is the answer.
+The second stage is the bidirectional cavopulmonary shunt, after which the circulation is more stable.
+Hospital mortality at experienced centres is about 20%, not 5%.
+One-year survival is about 60%, not under 30%.
+A small ascending aorta has not been shown to raise the risk at experienced centres, and residual gradients occur at the distal aortic arch, not at the pulmonary valve.
+note: The figures are the book's; results have improved since in many centres.
+
+== 122
+# 1 a six-year-old shepherd boy and a narrowed garden hose = a child with coarctation
+# 2 an old woman cutting a strip from the side branch pipe and stitching it into the narrowed hose as a patch = the subclavian flap
+# 3 a height mark on the barn door at 10, the boy below it = the subclavian flap is best for children under 10 (ANSWER)
+# 4 a big lad taller than the 10 mark getting a new length of hose instead = older children and adults: interposition graft
+# 5 small side spigots on the hose held shut with little clothes-pegs, not cut = intercostals controlled with small temporary clamps
+# 6 the main tap opened slowly by the grandfather with a spoon of soda = slow declamping and bicarbonate avoid the declamping syndrome
+title: Subclavian flap repair suits children under ten
+titleAr: رقعة تحت الترقوة تناسب الأطفال دون العاشرة
+tags: cardiac/congenital vascular/aorta d:technique q:recall l:2
+palette: sunny farmyard straw and green, a red rubber hose, white chalk marks on the barn door
+words: 10
+must: a chalk height mark labelled 10 on the barn door, the small boy standing well below it; the old woman stitches a strip cut from the side pipe into the narrow part of the hose; clothes-pegs pinch small side spigots
+scene: a sunny farmyard. CENTRE, dominant and larger than life: an old woman sits on a stool stitching a strip cut from a small side branch pipe into the pinched, narrow part of a red garden hose, widening it; a six-year-old shepherd boy holds the hose for her. Behind them, on the barn door, a chalk height mark labelled 10, with the boy's head far below it. Small side spigots along the hose are pinched shut with wooden clothes-pegs. RIGHT: a tall lad, well above the 10 mark, is being handed a whole new length of hose instead. At the wall tap the grandfather turns the tap open very slowly, a spoon of white soda in his other hand.
+story:
+في فناء المزرعة المشمس، كان الخرطوم الأحمر مخنوقًا من وسطه منذ صنع، كخصر شدّ بحبل، والماء لا يمرّ فيه إلّا قطرًا.
+فجلست الجدّة داريا على كرسيّها الواطئ، وأمسك لها الخرطوم الراعي الصغير فانيا، ابن ستّ سنين.
+قصّت داريا شريطًا من الأنبوب الجانبيّ الصغير، فلم ترمه، بل بسطته على الموضع المخنوق، وأخذت تخيطه فيه غرزةً غرزةً حتّى اتّسع الخصر.
+وعلى باب الحظيرة خلفهما خطّ من الطباشير، عليه الرقم عشرة، ورأس فانيا تحته بكثير. «ما دمت تحت العشرة يا فانيا، فخرطومك يرقّع من نفسه.»
+وعلى طول الخرطوم صنابير جانبيّة صغيرة، لم تقطعها الجدّة ولم تعقدها، بل قرصت كلًّا منها بملقط غسيل خشبيّ. «هذه هشّة كقشر البيض، تقرص قليلًا ثمّ تترك.»
+وإلى اليمين، وقف ابن عمّه غريشا، طويلًا يعلو رأسه علامة العشرة بشبرين. فلم يرقّع له أحد، بل ناولوه خرطومًا جديدًا كاملًا.
+وعند صنبور الجدار، وقف الجدّ أكيم يدير الصنبور ببطء شديد، وفي يده الأخرى ملعقة من الصودا البيضاء.
+«من يفتح الماء دفعةً واحدةً يا فانيا، يفجّر الخرطوم كلّه. قليلًا قليلًا، ومعه ملعقة الصودا.»
+واندفع الماء أخيرًا في الخرطوم عريضًا لامعًا، فصفّق فانيا، ونظر إليه الجدّ طويلًا وقال:
+quote: «أحبّوا الأطفال خاصّة، فهم أيضًا بلا خطيئة كالملائكة، يحيون ليرقّقوا قلوبنا ويطهّروها، وكأنّهم هداية لنا.»
+source: الإخوة كارامازوف
+explanation:
+In coarctation repair by the subclavian flap, the left subclavian artery is divided, opened and turned down over the narrowed segment as a patch.
+The subclavian flap technique is best suited to children up to the age of 10, which is the answer.
+Older children and adults are better treated with an interposition graft.
+Intercostal arteries can be friable and are best controlled with small temporary clamps, not ligation and division.
+The declamping syndrome is intractable ventricular fibrillation, not hypoxia from ductal ligation; slow release of the clamp and bicarbonate avoid it.
+A residual gradient usually means an incompletely resected shelf or a short distal incision, and distal arch hypoplasia is treated with an end-to-side distal aorta to arch anastomosis.
+note: Many surgeons now prefer resection with an extended end-to-end anastomosis, and use the subclavian flap mainly in infants; the answer is the book's.
+
+== 123
+# 1 a nobleman's private aqueduct (a coronary artery) secretly tapped by a hidden pipe = a coronary arteriovenous fistula
+# 2 nine of ten such secret pipes running to the RIGHT bank's lower town = up to 90% open into the right heart (ANSWER)
+# 3 the right-hand aqueduct tapped in at least half the cases, a mark 50 = the right coronary is involved in at least half
+# 4 the aqueduct itself perfectly ordinary in its course = the coronary artery is usually not anomalous
+# 5 a single lonely house with no other works around it = most fistulae are isolated lesions
+title: Coronary arteriovenous fistulae mostly open into the right heart
+titleAr: النواسير الإكليلية الوريدية تصبّ غالبًا في القلب الأيمن
+tags: cardiac/congenital cardiac/coronary d:anatomy q:recall l:2
+palette: sun-washed stone aqueduct, deep red water, blue river on the right
+words: 9, 50
+must: of ten secret pipes, nine run down to the town on the right bank and one to the left; the right-hand aqueduct has a mark 50
+scene: a hillside where a nobleman's stone aqueduct carries red water past a single lonely house. From it, ten thin hidden pipes have been secretly tapped; CENTRE, dominant and larger than life: nine of them run down to a crowded lower town on the RIGHT bank of a blue river, a big painted 9 on the town gate, and only one goes to the LEFT bank. A thief with a lantern crouches over one of the taps. The aqueduct itself runs straight and ordinary. On the right-hand branch of the aqueduct a stone mark reads 50.
+story:
+على سفح التلّ، تحمل قناة الكونت الحجريّة ماءً أحمر قانيًا، وتمرّ ببيت وحيد لا جار له.
+كان وكيل الكونت إيفان يعدّ الماء كلّ صباح، فيجده ناقصًا، ولا يدري أين يذهب.
+وفي ليلة تبع ضوء فانوس، فوجد لصًّا مقرفصًا فوق القناة، قد دسّ فيها أنبوبًا رفيعًا خفيًّا.
+ثمّ رأى الأنابيب كلّها: عشرة أنابيب رفيعة مخفيّة، دسّت في قناة سيّده واحدًا بعد واحد.
+تسعة منها تنحدر إلى المدينة المزدحمة على الضفّة اليمنى من النهر الأزرق، وعلى بابها رقم كبير مدهون: تسعة. وواحد فقط يذهب إلى الضفّة اليسرى.
+وعلى الفرع الأيمن من القناة علامة حجريّة نقش عليها: خمسون. فقال اللصّ مطأطئًا: «نصف ما أسرق على الأقلّ يا سيّدي، من هذا الفرع الأيمن.»
+سأله إيفان: «والقناة نفسها؟ أعوّجتها أم هدمت منها شيئًا؟» «ما مسست منها حجرًا، هي مستقيمة كما بناها جدّ الكونت.»
+ونظر إيفان إلى البيت الوحيد: لا طاحونة حوله ولا ساقية، ولا سرقة أخرى في الوادي كلّه. لصّ واحد، وقناة واحدة.
+ثمّ صمت طويلًا، وتذكّر أنابيبه هو، الّتي لم يرها أحد قطّ، وقال:
+quote: «ثمّة أشياء يخشى الإنسان أن يكشفها حتّى لنفسه، ومن هذه الأشياء يتراكم لدى كلّ إنسان محترم قدر غير قليل.»
+source: رسائل من تحت الأرض
+explanation:
+A coronary arteriovenous fistula is a direct connection from a coronary artery to a cardiac chamber or vein, bypassing the capillary bed.
+Up to 90% of these fistulae open into the right heart or vessels connected to it, which is the answer.
+The right coronary artery is involved in at least half of cases, not in under 10%.
+The involved coronary artery is usually not anomalous in its origin.
+Most fistulae are isolated lesions, not part of complex anomalies, and fistulae into the left heart do not cause a left-to-right shunt.
+
+== 124
+# 1 a farm whose main water channel was wrongly connected at birth to the swamp instead of the clean river = ALCAPA
+# 2 the farmer damming the swamp connection shut with one stone = ligation of the anomalous artery
+# 3 the fields beginning to drink from neighbouring channels; the water flow rising in a gauge = ligation increases coronary blood flow (ANSWER)
+# 4 a second farm where the channel is cut and re-joined to the clean river, water at higher pressure = translocation gives a higher perfusion pressure
+# 5 the farm's water wheel turning strongly again             = LV function improves substantially
+# 6 a gate that still leaks on one in three farms             = mitral regurgitation persists in up to a third
+title: ALCAPA: tying the anomalous artery increases coronary flow
+titleAr: الشريان الإكليلي الأيسر الشاذّ من الرئوي: ربطه يزيد الجريان الإكليلي
+tags: cardiac/congenital cardiac/coronary d:physiology d:technique q:recall l:3
+palette: murky swamp green against clear river blue, golden wheat, one grey stone
+must: the farmer drops one big grey stone into the channel that leads to the swamp; right after, the flow gauge on the fields rises and the water wheel turns faster
+scene: a farm on a strip of land between a murky green swamp and a clear blue river. Its main water channel was dug, long ago, into the swamp. CENTRE, dominant and larger than life: the farmer drops one big grey stone into the mouth of that channel, closing it, and at once water from the neighbouring channels flows into his fields and a flow gauge beside them rises, the farm's water wheel turning strongly. RIGHT, small: a neighbouring farm whose channel has been cut and re-joined straight to the blue river, the water there spurting harder. LOWER LEFT: a water gate that still drips.
+story:
+يوم ولدت مزرعة بروخور، حفرت قناتها الكبرى خطأً إلى المستنقع الأخضر العكر، لا إلى النهر الأزرق الصافي على الجانب الآخر.
+وظلّ القمح سنين يصفرّ قبل أوانه، لأنّ القناة لا تسقي الحقول، بل تسرق ماءها إلى المستنقع.
+وفي صباح رفع بروخور حجرًا رماديًّا كبيرًا فوق رأسه، وألقاه في فم القناة، فانسدّت بضربة واحدة.
+وفي الحال انساب الماء إلى الحقول من القنوات المجاورة، وارتفع مؤشّر المقياس إلى جانبها. «انظروا! سددت قناةً، فجاءني ماء أكثر!»
+وأخذ دولاب الماء يدور بقوّة من جديد، يطحن ويغنّي، كأنّه صحا من نوم طويل.
+وعن اليمين من بعيد، ضحك جاره ستيبان. فقد قطع قناته ووصلها رأسًا بالنّهر الأزرق، وماؤه يتدفّق أشدّ وأعلى. «ماؤك يا بروخور يزحف زحفًا، ومائي يقفز قفزًا!»
+«يزحف أو يقفز، الحقول تشرب! وحجر واحد خير من مستنقع يشرب عنّي!»
+وفي الزاوية اليسرى السفلى بقيت بوّابة ماء عتيقة تقطر، لا يسدّها حجر ولا قناة جديدة. هكذا تقطر في مزرعة من كلّ ثلاث.
+فجلس بروخور على حافّة القناة المسدودة، ورفع عينيه إلى السماء الزرقاء، وقال:
+quote: «هبني لا أومن بنظام الأشياء، فإنّ الأوراق الصغيرة اللزجة الّتي تتفتّح في الربيع عزيزة عليّ، والسّماء الزرقاء عزيزة عليّ.»
+source: الإخوة كارامازوف
+explanation:
+In ALCAPA the left coronary artery arises from the pulmonary artery, and blood can run backwards through it into the low-pressure pulmonary artery.
+Ligating the anomalous artery at its origin stops this runoff, so collateral flow fills the left coronary system: ligation increases coronary blood flow, which is the answer.
+Its perfusion pressure, however, is lower than after translocation of the artery to the aorta, which creates a two-coronary system.
+As a rule left ventricular function improves substantially after repair, so "remains depressed" is wrong.
+Mitral regurgitation persists in up to a third of patients, so it does not improve in nearly all.
+After a Takeuchi operation, absence of symptoms says nothing about patency, and most two-coronary repairs have operative mortality under 15%, not over 25%.
+
+== 125
+# 1 a fleet of repaired ships setting out on a long voyage = patients after coronary bypass
+# 2 one ship whose hull is weak and whose sails hang slack, falling behind = impaired ventricular function: the risk factor for late death (ANSWER)
+# 3 a ship that once had a storm (unstable angina) sailing fine  = unstable angina and non-Q infarction do little to survival
+# 4 a ship fitted with two strong new masts from its own timber, sailing best = bilateral mammary grafts may help survival
+# 5 a lighthouse keeper counting the years with notches        = late mortality over time
+title: Late death after bypass: impaired ventricular function
+titleAr: الوفاة المتأخّرة بعد المجازة: ضعف وظيفة البطين
+tags: cardiac/coronary d:evidence q:recall l:1
+palette: dawn sea in pewter and rose, white sails, one grey slack sail
+must: one ship has a sagging grey sail and a thin weak hull and lags far behind the others; another ship has two tall matching new masts and leads
+scene: a harbour mouth at dawn. A fleet of freshly repaired ships sails out to sea. CENTRE, dominant and larger than life: one ship lags far behind, its hull thin and weak, its grey sails hanging slack, sailors pumping water out; an old captain stands at its rail. Ahead, a ship fitted with two tall matching new masts leads the fleet. Another ship whose deck still shows signs of a past storm sails well enough. On a cliff, a lighthouse keeper cuts notches in his doorpost, counting the years.
+story:
+في فجر بلون الرصاص والورد، خرجت من فم الميناء سفن رمّمت لتوّها، واحدةً بعد واحدة، إلى رحلة طويلة.
+وعلى الجرف، حزّ حارس المنارة يعقوب بسكّينه حزّةً في عمود بابه. حزّة لكلّ عام، ليعرف من يعود ومن لا يعود.
+لكنّ سفينةً واحدةً تخلّفت وراء الجميع: بدنها رقيق واهن كالقشرة، وأشرعتها الرماديّة متهدّلة لا تمتلئ بالرّيح.
+على ظهرها بحّارة يضخّون الماء من جوفها بلا توقّف، وعند حافّتها يقف قبطانها العجوز كيريل صامتًا.
+ثمّ نادى كيريل حارس المنارة: «رمّموا ما رمّموا يا يعقوب، لكنّ الخشب الواهن يبقى واهنًا، والشّراع الّذي لا يمتلئ لا يحمل أحدًا.»
+وفي المقدّمة تقود الأسطول سفينة نصب لها صاريان جديدان طويلان متشابهان، قطعا من خشبها هي، فهي تسبق الجميع.
+وبينهما سفينة ما زالت آثار عاصفة قديمة على سطحها، لكنّها لم تبال بها، ومضت مع الأسطول كأن لم تكن عاصفة.
+كان كيريل يعرف ما سيحزّه يعقوب في عموده ذات عام. فخلع قبّعته للفجر الورديّ، وقال:
+quote: «الحياة هبة، الحياة سعادة، وكلّ دقيقة كان يمكن أن تكون دهرًا من السعادة.»
+source: رسالة إلى أخيه ميخائيل، 22 ديسمبر 1849
+explanation:
+After coronary artery bypass grafting, the state of the left ventricle is a major determinant of long-term survival.
+Impaired ventricular function, a depressed ejection fraction or heart failure, raises the risk of death over time, which is the answer.
+Unstable angina and non-Q-wave infarction before surgery have little effect on long-term survival.
+Bilateral internal mammary artery grafting may improve survival rather than worsen it.
+Multivessel disease is the usual reason for bypass; the book's keyed risk factor for late death is impaired ventricular function.
+

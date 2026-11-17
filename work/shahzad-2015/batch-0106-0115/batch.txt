@@ -1,0 +1,341 @@
+book: shahzad-2015
+# Lessons 106-115. Written "table first".
+
+== 106
+# 1 a mechanical iron horse newly harnessed to the LEFT shaft of a cart = a left ventricular assist device after a hard bypass
+# 2 the right-hand horse, a weary old mare, straining against a steep hill = the failing right ventricle facing high pulmonary resistance
+# 3 a gauge on the left reading low, a gauge on the right reading high = left atrial pressure under 15, right atrial pressure over 20, cardiac index under 2
+# 4 a girl releasing a cloud of sweet white vapour from a glass flask in front of the mare, and the hill before it flattening into a gentle slope = inhaled nitric oxide: a pulmonary vasodilator first (ANSWER)
+# 5 a second iron horse waiting in the yard, still in its crate = a right ventricular assist device only if that fails
+# 6 a man about to pour more water into the cart's tank, held back = more fluid is wrong when the right side is already full
+title: Right heart failing after an LVAD: try nitric oxide first
+titleAr: البطين الأيمن يعجز بعد جهاز المساعدة الأيسر: جرّب أكسيد النيتريك أولًا
+tags: cardiac/heart-failure cardiac/perioperative d:postoperative q:next-step l:3
+palette: grey iron and sooty rain, the mare's chestnut coat, a soft milk-white vapour as the brightest thing
+words: 15, 20
+must: the mechanical horse is on the left shaft and the tired real mare on the right; the white vapour flows over the hill in front of the mare and that part of the hill is visibly lower and gentler; the crated iron horse is unused
+scene: a muddy village road climbing a steep hill in grey rain. A heavy cart is harnessed to two beasts: on the LEFT shaft a newly fitted mechanical horse of black iron with a ticking brass heart, pulling steadily; on the RIGHT shaft an old chestnut mare, foaming and trembling, unable to climb the steep hill rising right in front of her. On the cart two round gauges: the left one reads 15 and points low, the right one reads 20 and points high. CENTRE, dominant and larger than life: a young girl kneels before the mare and opens a glass flask from which a soft milk-white vapour rolls out over the slope, and where the vapour spreads the hill in front of the mare sinks into a gentle rise; the mare lifts her head and leans into the collar. In the yard behind, a second iron horse still stands in its wooden crate. At the cart's side a man holding a full bucket over the water tank is stopped by an old driver's raised hand.
+story:
+في مطر رماديّ لا ينقطع، كانت عربة العجوز بورفيري تصعد طريق القرية الموحل نحو التلّ.
+مشدود إلى يسار العربة حصان من حديد أسود ركّب أمس، يدقّ في صدره قلب من نحاس، فهو يجرّ ولا يتعب.
+وإلى يمينها فرسه العجوز الكميت، يتطاير الزبد من فمها، وترتجف قوائمها، أمام تلّ ينتصب في وجهها كالجدار.
+على العربة ساعتان مستديرتان: إبرة اليسرى هابطة عند الخمسة عشر، وإبرة اليمنى صاعدة عند العشرين.
+أقبل سيميون ابن أخيه بدلو ملآن، ورفعه فوق خزّان الماء في جنب العربة. «اسقوها ماءً كثيرًا، فالماء يقوّي كلّ دابّة!»
+فرفع بورفيري يده في وجهه. «لا تصبّ قطرةً واحدةً يا سيميون! خزّانها ملآن إلى الحافّة، والتّلّ هو الّذي يقتلها.»
+وفي الفناء خلفهم، وقف الحدّاد عند حصان حديديّ ثان، ما زال في صندوقه الخشبيّ. «أأفكّ الصندوق يا بورفيري؟» «ليس بعد، ليس بعد.»
+عندئذ ركعت حفيدته ناستيا في الوحل أمام الفرس، وفتحت قارورةً من زجاج، فتدحرج منها بخار أبيض كالحليب، ناعم حلو، وانساب على المنحدر.
+وحيث انتشر البخار، خفض التلّ رأسه أمام الفرس، ولان حتّى صار ربوةً هيّنة.
+فرفعت الفرس رأسها، ومالت بصدرها على الطوق. فنظر بورفيري إلى الصندوق المغلق وإلى الدلو الملآن، وقال:
+quote: «بدلًا من الجدل حلّت الحياة، وكان لا بدّ أن يتكوّن في الوعي شيء آخر تمامًا.»
+source: الجريمة والعقاب
+explanation:
+An LVAD unloads the left ventricle after a difficult operation, but it can only pump what the right ventricle delivers to it across the lungs.
+A right ventricle that is stunned, or faces a raised pulmonary vascular resistance, may fail once the device is running.
+A right atrial pressure over 20 with a left atrial pressure under 15 and a cardiac index under 2 is exactly that picture: the right side is full and the LVAD is underfilled.
+The first step is to lower the right ventricle's afterload with a pulmonary vasodilator, inhaled nitric oxide, which is the answer, usually together with inotropic support.
+A right ventricular assist device is the tempting choice, but it is placed only if right heart failure persists despite these measures.
+More fluid would only distend a right ventricle that is already failing, and a balloon pump or redo grafting does not treat the right heart.
+note: The answer is the book's. In practice nitric oxide is given together with inotropes, and a right-sided device follows early if the haemodynamics do not improve.
+
+== 107
+# 1 a long water main along a rope-maker's walk, cracked at one point, about to be shut off with a great valve = clamping the descending aorta to repair a transection
+# 2 beyond the valve a whole row of rope-twisting wheels fed by thin side pipes from the main = the spinal cord fed by intercostal branches
+# 3 a big hourglass above the valve, its upper bulb marked 30 = the clamp time: under 30 minutes no shunt, over 30 some form of bypass
+# 4 the rope-twisters downstream sitting frozen and white-faced the moment the water stops; one already slumped = paraplegia: the most important risk to consider (ANSWER)
+# 5 a boy with a bypass hose carrying water round the valve to the wheels = a shunt or distal bypass when the clamp will be long
+# 6 one wheel that stops not at once but hours later, a lamp lit in the dark = paraplegia can be delayed, and is usually permanent
+title: Repairing a traumatic aortic tear: the danger is paraplegia
+titleAr: إصلاح تمزّق الأبهر الرضّي: الخطر الأكبر هو الشلل السفلي
+tags: cardiac/aorta thoracic/trauma d:complications d:technique q:recall l:2 x:high-yield
+palette: hemp gold and sawdust, steel-blue water in the main, grey faces, one boy's red cap
+words: 30
+must: the twisters downstream of the shut valve sit frozen with white faces; the hourglass shows 30 on its upper bulb; a boy carries a hose of water round the valve to the wheels
+scene: a long covered rope-walk, a straight steel-blue water main running its length at shoulder height, with thin side pipes dropping from it to a row of rope-twisting wheels. Near the middle the main has a fresh crack and a workman is closing a great brass valve just above it. Above the valve hangs a big hourglass whose upper bulb is marked 30. CENTRE RIGHT, dominant and larger than life: beyond the valve, as the water stops, the rope-twisters at their wheels sit frozen, faces gone white, hands slack on the cranks; one has slumped against his wheel. LOWER LEFT: a boy in a red cap runs a canvas hose from upstream round the valve to the nearest wheels, and those twisters still turn. FAR END, in the dusk: one wheel standing still under a lamp lit hours later.
+story:
+في ممشى الحبال الطويل المسقوف، يجري أنبوب ماء بزرقة الفولاذ على علوّ الأكتاف، وتنزل منه أنابيب رفيعة إلى صفّ من دواليب الفتل.
+في ذلك الصباح انشقّ الأنبوب في وسطه شقًّا جديدًا، فقبض العامل غريغوري على الصمام النحاسيّ الكبير فوق الشقّ ليغلقه.
+وفوق الصمام ساعة رمليّة كبيرة، كتب على قارورتها العليا: ثلاثون. «ثلاثون دقيقةً لا أكثر، ثمّ أفتح لكم!»
+وأدار غريغوري الصمام، فانقطع الماء.
+وفي الحال، خلف الصمام، تجمّد الفتّالون عند دواليبهم: ابيضّت وجوههم، وارتخت أيديهم على المقابض، وهوى أحدهم على دولابه كالميّت.
+صرخ شيخ الممشى أفاناسي: «لست أخاف على الأنبوب يا غريغوري! أخاف على رجالي الّذين لا يتحرّكون!»
+ومن أسفل اليسار، ركض الصبيّ فانيا بقبّعته الحمراء، يجرّ خرطومًا من قماش من أعلى المجرى، ويلفّ به حول الصمام إلى أقرب الدواليب.
+فظلّت تلك الدواليب تدور، وظلّ فتّالوها يفتلون. «خذوا الماء من هنا، من حول الصمام!»
+وفي آخر الممشى، حين أشعل القنديل في الغسق بعد ساعات طوال، توقّف دولاب واحد فجأةً، ولم يدر بعدها أبدًا.
+فوقف أفاناسي تحت القنديل، ينظر إلى الرجال الساكنين على طول الممشى، وقال بصوت مكسور:
+quote: «كم من شباب دفن عبثًا بين هذه الجدران، وكم من قوًى عظيمة هلكت هنا سدًى!»
+source: مذكرات من البيت الميت
+explanation:
+Repairing a traumatic transection of the descending thoracic aorta usually means cross-clamping the aorta.
+Below the clamp the spinal cord loses part of its blood supply, which arrives through intercostal branches of the descending aorta.
+The book's plan rests on the expected clamp time: under 30 minutes no shunt is used; over 30 minutes some form of bypass should be used, and the clamp time should never be underestimated.
+The most important factor to consider in the repair is therefore the risk of paraplegia, which is the answer.
+A shunt or a distal (left heart or femoral) bypass keeps blood flowing to the aorta beyond the clamp when the clamp will be long.
+Paraplegia may appear at once, or only hours or a few days later, and once present it is usually permanent.
+The timing of repair is the tempting option, and age, kidneys and coronary disease matter too, but none is as decisive as protecting the cord.
+note: The 30-minute rule is the book's classic guide. Today many traumatic tears are treated by endovascular stent grafting (TEVAR), which avoids the clamp.
+
+== 108
+# 1 a dam in a mountain pass split open, a torrent bursting through = a transected aorta with torrential bleeding in the open chest
+# 2 a gatekeeper slamming a great iron sluice clamp across the burst and his mate already sewing the breach with a sail-needle = clamp and sew (ANSWER)
+# 3 an engineer unrolling plans for a long bypass channel round the mountain, ignored = femoro-femoral or left heart bypass take time there is none of
+# 4 a man with a small pipe shunt, ignored                  = a Gott shunt
+# 5 villagers throwing sandbags and buckets into the flood    = packing and transfusing will not stop it
+# 6 a clock on the cliff with its hand moving fast            = time: mortality climbs by the minute
+title: Torrential bleeding from a torn aorta: clamp and sew
+titleAr: نزفٌ جارف من أبهرٍ ممزّق: اقبض وخِط
+tags: cardiac/aorta thoracic/trauma d:technique q:next-step l:2
+palette: storm grey rock and white water foam, black iron of the clamp, one red sail-needle thread
+must: the gatekeeper is closing a huge iron clamp across the breach with both arms while a second man already sews the breach with a big curved needle and red thread; the engineer's plans and the man with the small pipe are ignored
+scene: a stone dam in a narrow mountain pass under a storm sky; it has split open and a white torrent bursts through the breach, flooding the valley. CENTRE, dominant and larger than life: a broad gatekeeper slams a huge black iron clamp shut across the breach with both arms, the torrent narrowing to a spurt, and right beside him his mate already drives a big curved sail-needle with red thread through the torn stones. LEFT: an engineer unrolls long plans for a channel round the mountain, nobody looking at him. RIGHT: a man holds up a small length of pipe, ignored. BELOW: villagers throwing sandbags and buckets into the flood, uselessly. ON THE CLIFF above: a big clock whose minute hand is visibly racing.
+story:
+تحت سماء العاصفة، في مضيق بين جبلين، انشقّ السدّ الحجريّ، فاندفع من شقّه سيل أبيض يهدر نحو الوادي.
+وعلى الجرف فوقهم ساعة كبيرة، عقرب دقائقها يركض ركضًا، وكلّ دقيقة تجرف بيتًا من بيوت القرية.
+في الأسفل رمى القرويّون أكياس الرمل والدّلاء في الطوفان، فابتلعها الماء كأنّها قشّ.
+وعلى اليسار بسط المهندس بافل لفائفه الطويلة. «قناة حول الجبل! أمهلوني أيّامًا قليلةً وسترون!»
+لم ينظر إليه أحد. وعلى اليمين رفع رجل آخر قطعة أنبوب صغيرة، ولوّح بها، فلم ينظر إليه أحد أيضًا.
+وفي الوسط، وثب البوّاب ماتفي العريض الكتفين، وأطبق على الشقّ بذراعيه كلتيهما ملزمةً هائلةً من حديد أسود.
+فضاق السيل حتّى صار نافورةً رفيعة. وإلى جانبه رفيقه تيخون، قد غرز في الحجارة الممزّقة إبرة أشرعة كبيرةً مقوّسة، بخيط أحمر.
+«لا قنوات ولا أنابيب الآن! أنا أمسك، وأنت تخيط!» صاح ماتفي في أذن رفيقه.
+وكانت عين ماتفي على الساعة الراكضة فوق الجرف، فتذكّر ما قاله له يومًا رجل عفي عنه قبيل الإعدام بدقائق:
+quote: «ماذا لو لم أمت! ماذا لو أعيدت إليّ الحياة، يا لها من لانهاية! ولكان هذا كلّه لي! إذن لحوّلت كلّ دقيقة دهرًا كاملًا، ولما أضعت شيئًا، ولعددت كلّ دقيقة عدًّا، ولما بدّدت شيئًا سدًى!»
+source: الأبله
+explanation:
+When the chest is opened over a transected aorta and the bleeding is torrential, the patient will die within minutes.
+In a frank rupture there is only one option: cross-clamp the aorta and sew the tear, which is the answer.
+Femoro-femoral bypass or partial left atrial-femoral bypass would protect the spinal cord, but setting it up takes time this patient does not have.
+A Gott shunt, the most tempting of the cord-protecting options, also needs time to place.
+Packing and transfusing blood products cannot control bleeding from a free aortic rupture.
+Every minute counts: the best one can do is to keep the cross-clamp time as short as possible.
+
+== 109
+# 1 a seamstress has just finished mending a ruffled, billowing curtain hung across a doorway between two rooms = a mitral repair for Barlow's disease
+# 2 a weather-vane gauge on the back room's wall swinging up in tall peaks each time the wind blows = large v waves in the left atrial tracing
+# 3 gusts still blowing BACK through the mended curtain       = ongoing regurgitation: the repair has failed
+# 4 the seamstress pulling the room back onto its trestles and taking up her needle again = go back on bypass and re-evaluate the repair (ANSWER)
+# 5 others offering a fan, a funnel, a balloon and a bottle, waved away = diuretics, afterload reduction, a balloon pump, adrenaline
+# 6 in the next house a curtain replaced by a stiff new door, its gauge high too but the woman there looks through a spyglass instead = after replacement high v waves are not reliable: use TOE
+title: Large v waves after mitral repair: go back on bypass
+titleAr: موجات v كبيرة بعد إصلاح التاجي: عُد إلى المجازة القلبية الرئوية
+tags: cardiac/mitral-tricuspid d:postoperative d:diagnosis q:next-step l:2
+palette: billowing ivory curtain lace against deep teal walls, the gauge needle and its peaks drawn in red
+must: the gauge on the wall shows a red line with tall sharp peaks; wind visibly blows back through the mended curtain; the seamstress is lifting the room back onto its trestles with her needle in her teeth
+scene: a theatre workshop with a little two-room house built on wooden trestles. Across the doorway between its rooms hangs a ruffled, billowing ivory curtain with a fresh seam. On the back room's wall a gauge draws a red line with tall, sharp peaks, a peak rising with each gust. CENTRE, dominant and larger than life: wind still blows back through the mended curtain into the back room, and the seamstress, needle between her teeth, is heaving the little house back up onto its trestles to work on it again. Around her: one helper offering a fan, another a funnel, another an inflated balloon, a fourth a small bottle, all waved away. FAR RIGHT, a second little house whose curtain has been replaced by a stiff new door; its gauge too shows high peaks, but the woman there ignores it and looks into the room through a brass spyglass.
+story:
+في ورشة المسرح، أنهت الخيّاطة داريا رتق الستارة العاجيّة المتموّجة، المعلّقة في الباب بين غرفتي البيت الصغير.
+ثمّ أنزلوا البيت عن حوامله الخشبيّة، فقد قالت لهم داريا: «الدرزة متينة يا إخوتي، ولن تمرّ منها نسمة!»
+ثمّ هبّت الريح، فارتدّت عائدةً عبر الستارة المرتوقة، إلى الغرفة الخلفيّة.
+وعلى جدار الغرفة الخلفيّة عدّاد يرسم خطًّا أحمر، فكلّما هبّت هبّة وثب الخطّ قمّةً عاليةً حادّةً كالنّاب.
+فالتفّ المساعدون حولها: واحد بمروحة، وآخر بقمع، وثالث ببالون منفوخ، ورابع بقارورة صغيرة. «خذي هذه يا داريا، تهدأ الريح قليلًا!»
+فلوّحت لهم بيدها، وردّتهم جميعًا. «هذه تهدّئ الريح يومًا، والدّرزة مفتوقة تحتها!»
+ثمّ وضعت الإبرة بين أسنانها، ورفعت البيت الصغير بكلّ ظهرها، تعيده إلى حوامله الخشبيّة لتعمل فيه من جديد.
+وفي أقصى اليمين، بيت صغير آخر نزعت ستارته، وركّب مكانها باب جديد صلب. وعدّاده أيضًا يرسم قممًا عالية.
+لكنّ صاحبته أولغا لا تلتفت إلى العدّاد، فهو يرسم قممه عاليةً منذ ركّب الباب. إنّها تنظر إلى الغرفة بمنظار نحاسيّ.
+أمّا داريا، فقالت من بين أسنانها، والإبرة فيها، وعيناها على درزتها الكاذبة:
+quote: «يا صديقي، لقد كذبت طوال حياتي. حتّى حين كنت أقول الحقّ.»
+source: الشياطين
+explanation:
+In Barlow's disease the mitral leaflets are bulky and billowing, and the valve is usually repaired.
+After the repair it is assessed by transoesophageal echocardiography (TOE) and by the left atrial or wedge pressure tracing.
+Large v waves in the left atrial tracing after a repair may mean that the repair is still leaking.
+The next step is to return to cardiopulmonary bypass and re-evaluate the repair, which is the answer.
+Diuretics, afterload reduction, a balloon pump or adrenaline would only treat the effects of a leaking valve that can still be fixed.
+After mitral valve replacement, by contrast, the left atrial pressure and v waves are often high anyway, so they are not a reliable sign of regurgitation and TOE should be used.
+note: Today TOE, not the v wave alone, usually decides whether to go back on bypass; the book's answer assumes the large v waves reflect a leaking repair.
+
+== 110
+# 1 a mill whose huge wheel is the heart, a bell on it ringing 70 times a minute = the heart, heart rate 70
+# 2 a miller's wife weighing the flour the whole village eats each minute: scale reads 500 = whole-body oxygen consumption 500 ml/min
+# 3 a sack-filler: full sacks going out marked 0.24, empty-ish sacks coming back marked 0.16 = arterial and venous oxygen content
+# 4 a boy dividing on a slate: 500 over the difference 0.08, and writing 6.25 large = Fick: CO = VO2 / (CaO2 - CvO2) = 6.25 L/min (ANSWER)
+title: Cardiac output by the Fick principle: 6.25 L/min
+titleAr: النتاج القلبي بمبدأ فيك: 6.25 لتر في الدقيقة
+tags: cardiac/foundations d:physiology q:numbers l:1 x:high-yield
+palette: flour white and warm wheat gold, slate black, one bright copper scale
+words: 0.24, 0.16, 6.25
+must: full sacks leaving the mill are labelled 0.24 and the sacks coming back are labelled 0.16; the boy's slate shows 6.25 in large chalk figures
+scene: the yard of a busy watermill in harvest light. The great wheel turns, a small bell on it ringing. LEFT: the miller's wife at a big copper scale piled with five great loaves, weighing the flour the village eats each minute. A chain of porters: full white sacks marked 0.24 go out of the mill on one side, and lighter, half-empty sacks marked 0.16 come back in on the other. CENTRE, dominant and larger than life: a barefoot boy sits on an upturned barrel with a slate on his knees, chalking a division under the two numbers, and writes 6.25 large at the bottom, triumphant; the miller looks over his shoulder.
+story:
+في ضوء الحصاد الذهبيّ، كان دولاب الطاحونة العظيم يدور، وجرس صغير عليه يرنّ سبعين مرّةً في الدقيقة.
+وعلى اليسار، كدّست زوجة الطحّان على الميزان النحاسيّ خمسة أرغفة ضخمة. «خمسمئة بالتّمام! هذا ما تأكله القرية كلّ دقيقة!»
+وسلسلة الحمّالين لا تنقطع: أكياس بيضاء ملأى تخرج من الطاحونة، وعليها: صفر فاصلة أربعة وعشرين.
+وأكياس أخفّ، نصفها فارغ، تعود من الجانب الآخر، وعليها: صفر فاصلة ستّة عشر.
+سأل الطحّان كوزما، وهو يمسح الدقيق عن جبينه: «كم يمرّ من بابي في الدقيقة الواحدة يا ترى؟»
+لم يجبه أحد إلّا صبيّ حاف اسمه ميشا، جالس على برميل مقلوب، وعلى ركبتيه لوح أسود.
+كتب الرقمين بالطّباشير، وطرح الصغير من الكبير، فبقي صفر فاصلة صفر ثمانية. ثمّ قسم الخمسمئة على الباقي.
+وفي أسفل اللوح، كتب بخطّ كبير: ستّة فاصلة خمسة وعشرين. «أرأيت يا عمّي كوزما؟ وجدته بنفسي!»
+فانحنى الطحّان فوق كتفه، ووضع على رأسه يدًا بيضاء من الدقيق، وقال:
+quote: «كونوا على يقين أنّ كولومبوس كان سعيدًا، لا حين اكتشف أمريكا، بل حين كان يكتشفها.»
+source: الأبله
+explanation:
+By the Fick principle, the oxygen the body takes up each minute equals the blood flow times the difference in oxygen content between arterial and mixed venous blood.
+The heart rate of 70 is not needed for the cardiac output; it is used for the stroke volume.
+Whole-body oxygen consumption is 500 ml per minute.
+Arterial oxygen content is 0.24 and venous 0.16 ml of oxygen per ml of blood, so each ml of blood gives up 0.08 ml of oxygen.
+Cardiac output is the oxygen consumption divided by the difference in oxygen content: 0.24 minus 0.16 is 0.08, and 500 divided by 0.08 is 6250 ml per minute, that is 6.25 litres per minute, which is the answer.
+5.00 L/min is a typical resting value and so is tempting, but it is not what these figures give.
+note: The stem labels the oxygen contents 'ml O2/min'; they are ml of oxygen per ml of blood. The book's working writes 0.8 for 0.08; the answer, 6.25 L/min, is right.
+
+== 111
+# 1 the same mill, its wheel paddles each scooping one bucket per turn = stroke volume: the volume moved each beat
+# 2 the 6.25 from the boy's slate now painted on the mill's water tower = cardiac output 6.25 L/min
+# 3 a metronome on the mill wall ticking, plate 70           = heart rate 70
+# 4 a girl pouring the tower's 6.25 into 70 small cups in a row; each cup holds 90 = SV = CO / HR = about 90 ml (ANSWER)
+title: Stroke volume from cardiac output: about 90 ml
+titleAr: حجم الضربة من النتاج القلبي: نحو 90 مل
+tags: cardiac/foundations d:physiology q:numbers l:1
+palette: clear blue water and pale pine wood, seventy shining tin cups
+words: 6.25, 70, 90
+must: a long row of small identical tin cups stands under the girl's jug; one cup is labelled 90; the tower shows 6.25 and the metronome plate 70
+scene: the same kind of watermill on a clear morning. A tall wooden water tower stands beside it with 6.25 painted on its side; a metronome on the mill wall ticks above a brass plate reading 70; the wheel's paddles each scoop one bucket as they turn. CENTRE, dominant and larger than life: a girl tips a big jug from the tower's tap and fills a long row of small identical tin cups, one after another, so many that the row runs out of the picture; the cup in front of her, full to the brim, is labelled 90. An old miller counts the cups on his fingers.
+story:
+في صباح صاف، كان كلّ لوح من ألواح الدولاب يغرف دلوًا واحدًا، ثمّ يصعد به ويدور.
+وإلى جانب الطاحونة برج ماء عال من خشب، كتب على جنبه: ستّة فاصلة خمسة وعشرين.
+وعلى جدار الطاحونة رقّاص يدقّ دقّاته، فوق لوحة من نحاس مكتوب عليها: سبعون.
+قال الطحّان العجوز فيليب لحفيدته ليزا: «مع كلّ دقّة كوب واحد، حتّى يفرغ البرج في دقيقة!»
+فملأت ليزا إبريقًا كبيرًا من صنبور البرج، وأخذت تصبّ منه في أكواب صغيرة من الصفيح، متشابهة كالتّوائم، كوبًا بعد كوب مع كلّ دقّة.
+وامتدّ صفّ الأكواب اللامعة طويلًا طويلًا، حتّى خرج من الساحة، ولم ير آخره.
+وأخذ الجدّ يعدّ الأكواب على أصابعه، يضيع منه العدّ فيبدأ من جديد. «ستّون... خمسة وستّون... سبعون!»
+ثمّ نظرت ليزا إلى الكوب الّذي أمامها، ملآن إلى حافّته، وعليه رقم: تسعون. «هذا نصيب الدقّة يا جدّي، تسعون بالتّمام!»
+لم تسقط من إبريقها قطرة واحدة على الأرض. فأغمض الجدّ عينيه، وأصغى إلى دقّات الرقّاص، وقال:
+quote: «ثمّة لحظات، تبلغ لحظات، وإذا الزمن يتوقّف فجأة، ويكون أبديًّا.»
+source: الشياطين
+explanation:
+Stroke volume is the volume of blood the heart ejects with each beat.
+From the Fick calculation of the previous question, the cardiac output is 6.25 L/min, that is 6250 ml per minute.
+The heart rate is 70 beats per minute.
+Stroke volume is the cardiac output divided by the heart rate: 6250 divided by 70 is about 89 ml, so about 90 ml, which is the answer.
+
+== 112
+# 1 a long canal running uphill from a pumping station to a reservoir = the pulmonary circulation from the right ventricle to the left atrium
+# 2 the water level at the pump end marked by a float swinging between 15 and 25, its middle notch marked 18 = mean pulmonary artery pressure = 15 + (25-15)/3, about 18
+# 3 the far reservoir's level marked 5                       = wedge pressure 5
+# 4 a flow meter reading 6.25                                = cardiac output 6.25
+# 5 a lock-keeper dividing the drop (18 - 5) by 6.25 on a chalkboard and writing 2 = PVR = about 2 resistance units (ANSWER)
+title: Pulmonary vascular resistance: about 2 units
+titleAr: مقاومة الأوعية الرئوية: نحو وحدتين
+tags: cardiac/foundations d:physiology q:numbers l:2
+palette: green canal water, red brick pumping house, white chalk numbers
+words: 18, 5, 2
+must: a float at the pump end bobs beside a tall post with a notch marked 18 in its middle; the reservoir gauge reads 5; the chalkboard shows a large 2
+scene: a long green canal climbs gently from a red-brick pumping house in the lower left to a still reservoir at the upper right. At the pump end a float bobs up and down a tall striped post, between a low mark and a high mark, with a notch marked 18 between them. At the reservoir a gauge reads 5. Beside the canal a brass flow meter spins. CENTRE, dominant and larger than life: a lock-keeper at a chalkboard on the towpath divides the drop between the two levels by the flow and writes a large 2, chalk dust on his sleeve; a girl on his shoulders points from the float to the reservoir.
+story:
+من بيت المضخّة الأحمر في أسفل اليسار، تصعد قناة خضراء طويلة صعودًا هيّنًا، إلى خزّان ساكن في أعلى اليمين.
+عند المضخّة عوّامة تعلو وتهبط على عمود مخطّط طويل، بين علامة سفلى وعلامة عليا، لا تستقرّ على حال.
+وبين العلامتين حزّ كتب عنده: ثمانية عشر.
+وكان حارس الهويس ستيبان يقول دائمًا: «لا تصدّقوا العوّامة إذا علت، ولا إذا هبطت. صدّقوا الحزّ!»
+وفي الطرف الآخر، عند الخزّان، يقف المقياس على خمسة. وإلى جانب القناة عدّاد نحاسيّ للجريان، يدور ويدور، ويشير إلى ستّة وربع.
+وقف ستيبان أمام لوح أسود على الطريق المحاذي للقناة، وعلى كتفيه ابنته الصغيرة ماشا.
+«من هناك إلى هناك يا أبي!» قالت ماشا، وأشارت بإصبعها من العوّامة إلى الخزّان.
+فطرح ستيبان الخمسة من الثمانية عشر، وقسم ما بقي على ما يعدّه العدّاد، وغبار الطباشير يتناثر على كمّه.
+ثمّ كتب على اللوح رقمًا كبيرًا: اثنان. «اثنان فقط يا ماشا، قناتنا طيّعة لا تعاند الماء.»
+ثمّ رفع ستيبان رأسه إلى ما وراء الخزّان، حيث لا عوّامة ولا مقياس، وقال:
+quote: «ناموس الوجود الإنسانيّ كلّه، إنّما هو في أن يقدر الإنسان دائمًا على أن ينحني أمام العظيم الّذي لا يقاس.»
+source: الشياطين
+explanation:
+Pulmonary vascular resistance is the pressure drop across the lungs divided by the flow through them: the mean pulmonary artery pressure minus the wedge pressure, divided by the cardiac output.
+The mean pulmonary artery pressure is the diastolic pressure plus one third of the difference between systolic and diastolic: 15 plus 10 divided by 3, about 18 mmHg.
+The wedge pressure, which stands for the left atrial pressure, is 5 mmHg.
+The cardiac output, from the Fick calculation, is 6.25 L/min.
+18.3 minus 5 is 13.3, and 13.3 divided by 6.25 is about 2.1, so about 2 resistance units, which is the answer.
+Using the systolic pressure instead of the mean, 25 minus 5 divided by 6.25 gives 3.2, and would wrongly point to the option of 3.0 units.
+note: The book's last line has a slip (13.5/5.25); the right working is 13.3/6.25 = 2.1, and the answer is still about 2 units.
+
+== 113
+# 1 an old shipyard worker blowing up a huge bellows-shaped wineskin and squeezing it out = breathing in and out: vital capacity
+# 2 a glass gauge on the bellows measuring only what goes in and out = a spirometer measures only changes in volume
+# 3 a sealed pocket inside the wineskin that never empties, however hard he squeezes = residual volume (ANSWER: cannot be measured directly with a spirometer)
+# 4 a doctor dropping the whole wineskin into a sealed glass box and reading a dial, and another pouring in a coloured gas = body plethysmography, inert gas dilution
+# 5 grey ship dust caked on the wineskin, stiffening it       = the patient's fibrosis
+title: Residual volume cannot be measured with a spirometer
+titleAr: الحجم المتبقّي لا يقيسه مقياس التنفّس
+tags: thoracic/foundations d:physiology q:recall l:1
+palette: shipyard greys and rust, a dark purple wineskin, one bright amber glass box
+must: inside the squeezed wineskin a sealed inner pocket stays full and round; the glass gauge on the bellows shows only the air moving in and out; a second wineskin sits inside a sealed glass box with a dial
+scene: a shipyard workshop full of grey dust. CENTRE, dominant and larger than life: an old shipyard worker, his beard grey with dust, squeezes a huge purple wineskin with all his strength; the skin is caked with grey dust and stiff, and through it can be seen a sealed inner pocket that stays full and round however hard he squeezes. A glass gauge on its neck shows only the air puffing in and out. RIGHT: a doctor has dropped a second wineskin into a sealed amber glass box and reads a dial on the box; beside him an assistant pours a coloured gas into a third skin from a flask.
+story:
+في ورشة لبناء السفن، حيث يكسو الغبار الرماديّ كلّ شيء، عمل العجوز تيموفي أربعين سنة.
+صارت لحيته رماديّةً من الغبار. وصار الغبار نفسه قشرةً على قربته البنفسجيّة الهائلة، فيبست وتصلّبت.
+كان ينفخها حتّى تمتلئ، ثمّ يعصرها بكلّ قوّته لتفرغ. وعلى عنقها مقياس من زجاج، لا يرى إلّا الهواء الداخل والخارج.
+لكن في جوف القربة جيب مختوم، يبقى ملآن مستديرًا، مهما عصر ومهما شدّ.
+«أعصرها منذ أربعين سنة، وهذا الجيب لا يفرغ أبدًا!» قال تيموفي، والعرق يشقّ الغبار على وجهه.
+والمقياس الزجاجيّ على العنق لا يدري بالجيب. إنّه لا يعدّ إلّا ما يدخل وما يخرج، وما لا يخرج أبدًا، لا يراه أبدًا.
+وعلى اليمين، ألقى الطبيب أنطون قربةً ثانيةً في صندوق من زجاج كهرمانيّ محكم الإغلاق، وأخذ ينظر في مؤشّر على جنبه.
+وإلى جانبه مساعده، يصبّ من قارورة غازًا ملوّنًا في قربة ثالثة. «هنا نرى ما لا يراه زجاجك يا عمّ!»
+فلم يفلت تيموفي قربته، بل عصرها مرّةً أخرى بلا جدوى، وقال:
+quote: «لو أرادوا أن يسحقوا إنسانًا سحقًا تامًّا، وأن يبيدوه ويعاقبوه بأفظع عقاب... لكفاهم أن يجعلوا لعمله طابع اللاجدوى الكاملة واللّامعنى التامّ.»
+source: مذكرات من البيت الميت
+explanation:
+A spirometer records the air breathed in and out, such as the tidal volume and the vital capacity.
+It measures only changes in volume: the air that passes through its mouthpiece.
+Residual volume is the air left in the lungs after a maximal expiration; it never leaves them, so it cannot be measured directly with a spirometer, which is the answer.
+It is measured by body plethysmography or by inert gas dilution, and so are the functional residual capacity and the total lung capacity, which contain it.
+Residual volume is not part of the vital capacity or of the expiratory reserve volume; the resting volume of the lungs is residual volume plus expiratory reserve volume.
+The lungs recoil inward at every volume down to well below residual volume, so the option of outward recoil is wrong too; fibrosis stiffens the lungs but does not change how residual volume is measured.
+
+== 114
+# 1 a man in a hospital bed whose chest is strapped by a broken corset of planks = flail chest after rib fractures, ventilated
+# 2 a bellows machine pumping the room's air, now slowed to half its strokes = alveolar ventilation halved
+# 3 a stove in the corner still burning the same amount of coal = CO2 production unchanged
+# 4 a smoke gauge on the wall whose needle has doubled, from 40 to 80 = PaCO2 doubles (ANSWER)
+# 5 a window plant wilting a little                           = PaO2 falls, does not double
+title: Halve alveolar ventilation and PaCO2 doubles
+titleAr: إذا انتصفت التهوية السنخية تضاعف ضغط ثاني أكسيد الكربون
+tags: thoracic/foundations thoracic/trauma d:physiology q:recall l:1
+palette: warm stove orange against cold hospital white, grey smoke, one red needle
+words: 40, 80
+must: the smoke gauge on the wall shows the needle moved from a mark 40 to a mark 80; the bellows machine shows a slower stroke; the stove keeps burning brightly
+scene: a small ward at night. A man lies in bed, his chest held by a broken corset of planks, a long tube from a bellows machine at his side. A nurse has turned the machine's wheel down so its bellows rises and falls at half the pace. In the corner a stove burns as brightly as ever, coal heaped beside it. CENTRE, dominant and larger than life: on the wall a big round smoke gauge whose red needle has swung from the mark 40 to the mark 80, a ghost of the old needle still at 40; grey smoke hangs thick under the ceiling. On the windowsill a potted plant droops a little.
+story:
+في عنبر صغير في جوف الليل، رقد سيرغي، وصدره مشدود بمشدّ من ألواح مكسّرة، منذ أن اصطدمت عربته بعربة أخرى وجهًا لوجه.
+وإلى جانبه آلة ذات منفاخ، يمتدّ منها إليه أنبوب طويل، تتنفّس عنه لأنّ صدره لا يقدر.
+وعند منتصف الليل جاءت الممرّضة أغرافينا، وأدارت عجلة الآلة إلى النصف. «ليسترح المسكين قليلًا، فقد أتعبته الآلة.»
+فصار المنفاخ يعلو ويهبط على مهل: نفخة واحدة حيث كانت نفختان.
+أمّا الموقد في الزاوية فلم يعلم بشيء. ظلّ يتّقد كما كان، والفحم مكوّم إلى جانبه، يأكل منه ما كان يأكل كلّ ليلة.
+وعلى الجدار، في عدّاد الدخان الكبير المستدير، وثبت الإبرة الحمراء من الأربعين إلى الثمانين، وبقي طيفها القديم عند الأربعين كالشّبح.
+وتكاثف الدخان الرماديّ تحت السقف، ثقيلًا كاللّباد. وعلى حافّة النافذة أطرقت النبتة في أصيصها، قليلًا، قليلًا فقط.
+فاستيقظ الطبيب العجوز لوكا في كرسيّه، ونظر إلى العدّاد. «نصف النفس يا أغرافينا، وضعف الدخان! والموقد لا يسأل أحدًا!»
+ومدّ يده المرتعشة إلى العجلة، وقال وهو ينظر إلى النار:
+quote: «إنّ قانون تدمير الذات وقانون حفظ الذات، قويّان في البشريّة بالقدر نفسه!»
+source: الأبله
+explanation:
+A flail chest from multiple rib fractures often needs ventilation, and the ventilator then sets the alveolar ventilation.
+Alveolar PCO2 is proportional to CO2 production divided by alveolar ventilation.
+If CO2 production stays the same, halving the alveolar ventilation doubles the alveolar PCO2.
+Arterial PCO2 is virtually the same as alveolar PCO2, so the arterial PaCO2 doubles, for example from 40 to 80 mmHg, which is the answer.
+Halving the alveolar PCO2 would need the opposite change: doubling the ventilation.
+Oxygen goes the other way: unless more oxygen is given, alveolar and arterial PO2 fall; they neither double nor stay the same.
+
+== 115
+# 1 a nurse pouring pure blue oxygen into every room of a house = breathing 100% oxygen
+# 2 rooms with thin, stuffy, half-closed windows filling up with blue until they glow = diffusion and V/Q problems are corrected by 100% oxygen
+# 3 a secret passage from the back stair straight to the front door, by which grey unwashed water bypasses every room = an anatomic right-to-left shunt
+# 4 the jug at the front door filling with water only faintly blue, a label 125 = PaO2 125 instead of about 670: shunt (ANSWER)
+# 5 a jug in the healthy house next door, deep blue, label 670 = the normal response
+title: PaO2 of 125 on 100% oxygen: a right-to-left shunt
+titleAr: ضغط أكسجين 125 مع أكسجين صافٍ: تحويلة من اليمين إلى اليسار
+tags: thoracic/foundations cardiac/perioperative d:physiology d:diagnosis q:vignette l:2 x:high-yield
+palette: grey water and glowing sapphire blue, white plaster house cut open
+words: 125, 670
+must: a narrow hidden passage carries grey water from the back stair straight to the front jug without passing through any room; the front jug's water is only faintly blue and labelled 125; the neighbour's jug is deep blue and labelled 670
+scene: a white house seen cut open, its rooms filled with glowing sapphire-blue air poured in by a nurse from a great jug at the top; even rooms with half-closed, stuffy windows glow blue. Water runs down through the rooms, turning blue as it passes. CENTRE, dominant and larger than life: a narrow hidden passage, painted grey, leads from the back stair straight to the front door, bypassing every room, and grey water runs through it into the jug at the front door, which fills only faintly blue; its label reads 125; a man stares into it, puzzled. RIGHT, small: the neighbouring healthy house, whose front jug is deep blue and labelled 670.
+story:
+في بيت أبيض مفتوح الجنب كبيت الدمى، صعدت الممرّضة يلينا إلى أعلاه، وأمالت إبريقًا عظيمًا يسيل منه هواء أزرق يتوهّج كالياقوت.
+فامتلأت الغرف كلّها زرقةً. حتّى الغرف الخانقة ذات النوافذ المواربة، أخذت تتوهّج كأخواتها.
+وكان الماء ينزل من غرفة إلى غرفة، فيزرقّ كلّما مرّ، حتّى يبلغ إبريقًا عند الباب الأماميّ.
+وقف صاحب البيت نيكولاي عند الإبريق ينتظر أن يمتلئ زرقةً. لكنّ الماء جاء باهتًا، فيه زرقة لا تكاد ترى، وعلى الإبريق رقم: مئة وخمسة وعشرون.
+«كلّ غرفي زرقاء، فمن أين جاءني هذا الرماديّ؟» همس نيكولاي، وهو يحدّق في الإبريق.
+وما كان يعلم أنّ في بيته ممرًّا خفيًّا ضيّقًا مطليًّا بالرّماديّ، ينزل من الدرج الخلفيّ إلى الباب الأماميّ مباشرة.
+لا يدخل غرفةً واحدة. يجري فيه ماء رماديّ لم يمسّه الأزرق قطّ، فيصبّ في الإبريق ويطفئ زرقته.
+وصبّت يلينا أكثر وأكثر، فازدادت الغرف توهّجًا، ولم يتغيّر إبريق الباب إلّا قليلًا.
+وعلى اليمين بيت الجار السليم، وإبريقه عند الباب أزرق عميق، وعليه: ستّمئة وسبعون.
+فنظر نيكولاي طويلًا إلى بيته البديع المتوهّج، وكان كالرّجل الّذي قيل فيه:
+quote: «كانت برودة لا تفسير لها تهبّ عليه دائمًا من هذا المنظر البديع؛ وكانت هذه اللوحة الفخمة مليئةً عنده بروح خرساء صمّاء.»
+source: الجريمة والعقاب
+explanation:
+Breathing 100% oxygen fills every ventilated alveolus with oxygen.
+In diffusion abnormalities, ventilation/perfusion inequality and hypoventilation, every alveolus that receives any air becomes rich in oxygen, so the PaO2 rises greatly.
+In an anatomic right-to-left shunt, for example through a septal defect, venous blood bypasses the alveoli altogether and never meets the extra oxygen.
+So a PaO2 of only 125 mmHg on 100% oxygen points to anatomic right-to-left shunting, which is the answer; the small rise comes from extra dissolved oxygen in blood that does pass ventilated alveoli.
+A healthy person would reach almost 670 mmHg, close to the alveolar value, so 125 is far from the normal response.
+Ventilation/perfusion inequality is the most tempting wrong option, but it is largely corrected by 100% oxygen; a shunt is not.
+
