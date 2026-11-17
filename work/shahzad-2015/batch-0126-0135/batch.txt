@@ -1,0 +1,334 @@
+book: shahzad-2015
+# Lessons 126-135. Written "table first".
+
+== 126
+# 1 an old ferryman refusing to board, pointing at a chart of three rivers = a man reluctant about treatment for multivessel coronary disease
+# 2 a steep testing hill where travellers are made to run; the faster one collapses on the slope, the more red flags are planted along it = a strongly positive exercise test means lower survival (ANSWER)
+# 3 three rivers: the left main river, which feeds the most, crossed by a dam with a board 40 to 60 = left main stenosis: five-year survival only 40-60%
+# 4 the front river (LAD) silting at its source threatens more fields than the right river = proximal LAD disease worse than RCA disease
+# 5 a milestone 60 beside the three-river delta = ten-year survival in three-vessel disease about 60%, not over 75%
+title: Prognosis of coronary disease: a strongly positive exercise test means lower survival
+titleAr: مآل مرض الشرايين الإكليلية: اختبار الجهد الإيجابي بقوّة يعني بقاءً أقلّ
+tags: cardiac/coronary d:evidence q:recall l:2
+palette: autumn hillside russet and grey river silver, a long line of small red flags climbing the slope
+words: 40, 60
+must: a steep hill with a line of red flags; a runner has collapsed on the slope near the top flags; the left river has a dam with a board reading 40 and 60
+scene: a river valley in autumn, seen from a height. Three rivers come down from the hills: a broad one on the LEFT blocked by a stone dam with a board reading 40 and 60 hung on it, a FRONT river whose source is silting up so that many fields beside it are already brown, and a RIGHT river whose single field is drying. A milestone marked 60 stands where the three rivers meet. CENTRE, dominant and larger than life: a steep testing hill up which young men are made to run; one runner has collapsed on the slope, and an official plants red flags along the hill wherever a runner fails, the flags climbing thick near the bottom. LOWER RIGHT: an old ferryman with folded arms stands beside his boat, refusing to board, an anxious daughter tugging his sleeve.
+story:
+عند ملتقى الأنهار الثلاثة، وقف الملّاح العجوز إيليا إلى جانب قاربه، عاقدًا ذراعيه على صدره، لا يركب ولا يبرح.
+وكانت ابنته فاريا تشدّ كمّه وتبكي بلا صوت. «اركب يا أبي، فالماء لا ينتظر أحدًا!»
+«لن أركب حتّى أعرف ما يخبّئه لي الماء!» صاح إيليا، وأشار بذقنه إلى التلّ.
+في وسط الوادي تلّ شاهق، يرغم الفتيان على صعوده عدوًا، وهناك هوى عدّاء على المنحدر ككيس فارغ.
+وكلّما خار عدّاء، غرس المراقب رايةً حمراء حيث سقط، حتّى تكاثفت الرايات عند أسفل التلّ. «من سقط أبكر، وكثرت راياته، قصر طريقه الباقي!»
+وإلى اليسار نهر عريض يسقي أكثر الحقول، قطعه سدّ من حجر، علّقت عليه لوحة كتب فيها: أربعون، ستّون.
+وفي الأمام نهر يطمر الطين منبعه، فاسمرّت على ضفّتيه حقول كثيرة، ونهر اليمين لا يذبل عنده إلّا حقل واحد.
+وحيث تلتقي الأنهار الثلاثة انتصب حجر ميل نقش عليه: ستّون. «ستّون من كلّ مئة يبلغون آخر الطريق، فمن يضمن لي أن أكون منهم؟»
+فألقت فاريا رأسها على صدره ولم تقل شيئًا، فارتجف العجوز كلّه، ورفع عينيه إلى السماء وقال:
+quote: «آه، لو كنت وحيدًا ولم يحبّني أحد، ولم أحبّ أنا أحدًا قطّ! لما كان شيء من هذا كلّه!»
+source: الجريمة والعقاب
+explanation:
+The outlook in coronary artery disease depends on how many vessels are narrowed, which ones, how much muscle is at risk and how well the left ventricle works.
+A strongly positive graded exercise test is associated with lower survival, which is the answer: the earlier and the more severe the ischaemia on exercise, the worse the prognosis.
+Untreated left main stem stenosis reduces five-year survival to only about forty to sixty per cent, not eighty per cent.
+Single-vessel disease of the left anterior descending artery, especially proximal, carries a worse outlook than single-vessel disease of the right coronary artery, because it supplies far more muscle.
+Ten-year survival in three-vessel disease is about sixty per cent, not over seventy-five, and five-year survival in two-vessel disease is about eighty-five to ninety per cent, not over ninety-five.
+
+== 127
+# 1 a two-doored old hall (left and right doors both rotten from the same old fever) being re-hung with two new doors = double valve replacement for rheumatic aortic and mitral disease
+# 2 the hall's great beam sagging and creaking the very night the doors are hung = the most common mode of early death is acute heart failure (ANSWER)
+# 3 a crack running along the floor where the two door frames meet = atrioventricular rupture and haemorrhage also occur
+# 4 an extra team cutting new channels in the walls at the same time, a board with 2x = adding bypass doubles operative mortality
+# 5 the third, small door at the far side leaking more each year = tricuspid regurgitation develops over time
+# 6 one new door of iron, one of wood, both standing equally long = no survival difference between mechanical and biological prostheses
+title: After double valve replacement, early death is mostly acute heart failure
+titleAr: بعد استبدال الصمامين: الوفاة المبكّرة غالبًا من قصور القلب الحادّ
+tags: cardiac/mitral-tricuspid cardiac/aortic-valve d:complications d:postoperative q:recall l:3
+palette: old timber brown and smoky lamplight, one sagging cracked black beam, new doors pale
+words: 2x
+must: two new doors are being hung in the old hall; the great roof beam above them is visibly sagging and cracked; a small third door at the far side drips water
+scene: an old village hall at night. Two new doors have just been hung in its two doorways, one of black iron on the left and one of pale wood on the right; the old rotten doors lie on the floor. CENTRE, dominant and larger than life: the great black roof beam above them sags in the middle and splits with a crack, the carpenters looking up in horror, plaster falling. Along the floor a crack runs between the two door frames. At the side, an extra team of masons is cutting channels in the wall, a board beside them marked 2x. At the far side of the hall a small third door drips water onto the floor.
+story:
+في قاعة القرية العتيقة، أنزل النجّار جيراسيم البابين القديمين، وقد نخرهما سوس واحد قديم، فتهاويا على الأرض كجثّتين.
+وفي ليلة واحدة، علّق في المدخل الأيسر بابًا من حديد أسود، وفي المدخل الأيمن بابًا من خشب شاحب.
+وصاح صبيّه فانيا فرحًا: «هذا حديد وذاك خشب، وكلاهما سيعيش العمر نفسه يا معلّمي!»
+وفي جانب القاعة فريق آخر من البنّائين، يشقّ في الجدار قنوات جديدةً في الليلة نفسها، وإلى جانبهم لوحة كتب عليها: ضعفان.
+وتمتم كبيرهم وهو يضرب بإزميله: «كلّ قناة نشقّها الليلة، تضاعف الخطر على البيت!»
+وفي منتصف الليل، سمع فوق رؤوسهم أنين طويل: العارضة السوداء الكبرى تهبط من وسطها، ثمّ تنشقّ بصوت كالرّعد.
+وانهمر الجصّ على النجّارين، فرفعوا أعينهم مذعورين، وصرخ جيراسيم: «ليس البابان ما يقتل القاعة الليلة، بل العارضة الّتي أنهكها الحمل سنين طوالًا!»
+وعلى الأرض انشقّ صدع طويل، يجري بين إطاري البابين حيث يلتقيان.
+وفي أقصى القاعة باب ثالث صغير لم يمسّه أحد، أخذ يرشح ماءً، قطرةً بعد قطرة. «وذاك الباب الصغير يا معلّمي، سيبكي أكثر في كلّ عام!»
+فجلس جيراسيم على الباب القديم الملقى، وحدّق في العارضة المشقوقة، وقال لصبيّه بصوت خفيض:
+quote: «إنّ أسباب أفعال البشر في العادة، أعقد وأشدّ تنوّعًا بما لا يحصى، ممّا نفسّرها به دائمًا فيما بعد.»
+source: الأبله
+explanation:
+Combined aortic and mitral valve replacement is most often done for rheumatic disease, which has usually damaged both valves and the heart over many years.
+The most common mode of early death is acute heart failure, which is the answer: the long-burdened ventricle fails, not the new valves.
+Rupture at the atrioventricular junction, with haemorrhage, is also a recognised early hazard of this operation.
+Adding coronary artery bypass grafting does not reduce operative mortality; it roughly doubles it.
+Tricuspid regurgitation is common, but it tends to develop over the years after surgery, even when absent at the operation, rather than early.
+Long-term survival does not differ between mechanical and biological prostheses, and according to the book patients with rheumatic disease, not non-rheumatic disease, have the better long-term survival.
+
+== 128
+# 1 a burnt wall between two rooms with a hole in it, the carpenter nailing a patch that spares the scorched wood = post-infarction septal defect repaired without resecting the septum
+# 2 ten lamps, four out, a board 40                          = hospital mortality approaching 40%
+# 3 after the patching, light still leaking through gaps round the patch in four houses of ten = up to 40% have a residual defect (ANSWER)
+# 4 a slumped, swollen right-hand room and a fallen chimney  = cardiogenic shock and right ventricular dysfunction are the main risks
+# 5 the patient's household fading, not bleeding              = the main mode of death is heart failure, not haemorrhage
+title: After post-infarction VSD repair, up to 40% have a residual defect
+titleAr: بعد إصلاح ثقب الحاجز التالي للاحتشاء: يبقى ثقبٌ متبقٍّ عند ما يصل إلى 40%
+tags: cardiac/coronary d:complications d:postoperative q:recall l:2
+palette: charred black and ash, lamplight gold, thin blades of light slipping round a pale patch
+words: 40
+must: thin rays of lamplight still shine through gaps around the edge of the newly nailed patch; ten lanterns hang in a row and four are dark
+scene: a house seen cut open after a fire, its two rooms divided by a charred wall in which a hole has burnt through. CENTRE, dominant and larger than life: a carpenter has nailed a pale patch over the hole, carefully leaving the scorched wood around it, but thin blades of lamplight still shine through gaps around the patch's edge from the next room, and he stares at them. Ten lanterns hang in a row along the beam, four of them dark, beside a board reading 40. The right-hand room is slumped and swollen, its chimney fallen. An old woman in the doorway is pale and fading in her chair.
+story:
+بعد الحريق، بقي بيت الأرملة أغافيا مفتوحًا كرمّانة مشقوقة، وفي الجدار المتفحّم بين غرفتيه ثقب أسود.
+فجاء النجّار لوكا، وسمّر على الثقب رقعةً شاحبة، وترك الخشب المحترق حولها كما هو، لم يقطع منه شبرًا. «من ينحت الخشب المحروق، يوسّع الثقب بيديه!»
+وعلى العارضة عشرة فوانيس في صفّ واحد، أربعة منها مطفأة، وإلى جانبها لوحة كتب عليها: أربعون.
+لكنّ لوكا رأى خيوط النور تنسلّ من الغرفة المجاورة حول حافّة الرقعة، رفيعةً حادّةً كالشّفرات.
+«سمّرت رقاعًا في عشرة بيوت، وفي أربعة منها بقي النور يتسلّل!» همس لوكا، ولم يرفع عينيه عن الشقوق.
+وفي الجهة اليمنى انهارت المدخنة، وتهدّلت الغرفة وانتفخت جدرانها كخدّ وارم.
+وعند الباب جلست أغافيا في كرسيّها شاحبةً تذوي، لا جرح فيها ولا دم، بل تنطفئ كما انطفأت الفوانيس الأربعة.
+«لا تلم نفسك يا لوكا، فليس خشبك ما يخونني، بل البيت كلّه قد تعب.»
+فركع لوكا عند قدميها كالمذنب، فوضعت يدها الباردة على رأسه وقالت:
+quote: «العذاب شيء عظيم... في العذاب فكرة.»
+source: الجريمة والعقاب
+explanation:
+A ventricular septal rupture after myocardial infarction is closed with a patch while the septum is spared; extensive resection of the necrotic muscle is not required.
+Hospital mortality remains high, approaching forty per cent, far above ten to fifteen per cent.
+Up to forty per cent of patients have a residual ventricular septal defect after surgery, which is the answer, because sutures hold poorly in soft, necrotic muscle.
+The two main risk factors for early death are cardiogenic shock and associated right ventricular dysfunction.
+The most common mode of death after surgery is heart failure, not postoperative haemorrhage.
+
+== 129
+# 1 an old clockmaker whose shop door is narrowing with rust year by year = aortic stenosis
+# 2 a calendar page marking the day the clock first stopped and chimed wrongly; beside it only two or three pages left = after symptoms, average survival 2-3 years
+# 3 a hundred quiet clocks on the wall and only one has stopped dead with a crack = sudden death in fewer than 1% of asymptomatic patients a year (ANSWER)
+# 4 the clock's spring thickening; a scale with marks 200 and 300 = systolic dysfunction from LV mass 200, severe over 300 g/m2
+# 5 a second clock in the next shop with a leaking pendulum ticking calmly for years = aortic regurgitation has a long latent period
+title: Aortic stenosis: sudden death is under 1% a year without symptoms
+titleAr: تضيّق الأبهر: الموت المفاجئ أقلّ من 1% سنويًا قبل الأعراض
+tags: cardiac/aortic-valve d:pathology d:evidence q:recall l:2
+palette: brass and walnut clock shop, dusty gold light, one black cracked clock face
+words: 1, 200, 300
+must: of about a hundred clocks on the wall exactly one has stopped with a cracked black face and a small tag 1; a calendar shows only two or three pages left
+scene: a cramped clockmaker's shop in dusty gold light. Its shop door has rusted narrow over the years, the old clockmaker squeezing sideways through it. CENTRE, dominant and larger than life: the back wall is covered with about a hundred clocks all ticking quietly, and exactly one among them has stopped dead, its face black and cracked, a tiny tag reading 1 hanging under it. On the counter: a tear-off calendar with only two or three pages left, and a scale with two marks, 200 and 300, on which lies a thick, coiled clock spring. Through the window, in the next shop, a clock with a leaking, dripping pendulum ticks calmly on.
+story:
+في دكّان ضيّق يسبح في غبار ذهبيّ، عاش الساعاتيّ العجوز كوزما عمره كلّه بين ساعاته.
+وكان باب دكّانه يضيق عامًا بعد عام، يأكله الصدأ ويزحف عليه، حتّى صار كوزما ينسلّ منه بجنبه كاللّصّ.
+وعلى الجدار الخلفيّ مئة ساعة تتكتّك بهدوء، كقلب راهب نائم.
+إلّا واحدةً منها توقّفت فجأةً في الليل، واسودّ وجهها وانشقّ، وتحتها بطاقة صغيرة كتب عليها: واحد.
+فقال كوزما وهو لا يصدّق عينيه: «واحدة من مئة في العام، بل أقلّ، فساعاتي الهادئة لا تموت هكذا إلّا نادرًا!»
+ثمّ نظر إلى التقويم على المنضدة، وقد تساقطت أوراقه منذ صار ينسلّ من الباب بجنبه، فلم يبق فيه إلّا ورقتان أو ثلاث.
+وعلى الميزان إلى جانبه نابض ملفوف غلظ وثقل، تجاوز علامة المئتين، ودنا من علامة الثلاثمئة.
+ومن النافذة، كانت ساعة في الدكّان المجاور يقطر بندولها، وهي تتكتّك مطمئنّةً منذ سنين. «تلك تقطر وتعيش طويلًا، وأنا أضيق وأعدّ الأوراق!»
+فنزع كوزما ورقةً من التقويم، وطواها بأصابع ترتجف، وهمس:
+quote: «كلّ دقيقة، كلّ لحظة من الحياة، يجب أن تكون نعيمًا للإنسان... يجب، يجب حتمًا!»
+source: الشياطين
+explanation:
+Aortic stenosis narrows the outflow of the left ventricle slowly, and patients may stay free of symptoms for many years.
+Once symptoms appear, average survival without valve replacement is only about two to three years, not five.
+In asymptomatic patients sudden cardiac death occurs in less than one per cent per year, which is the answer, and this is why careful follow-up is reasonable before symptoms.
+Systolic dysfunction begins when left ventricular mass reaches about two hundred grams per square metre, and can be severe above three hundred, not one hundred and fifty.
+Chronic heart failure in aortic stenosis is mostly due to the ventricle's own declining contractility, not to coexisting coronary disease.
+Aortic regurgitation behaves differently: it has a long latent period, and patients with mild or no symptoms can be safely followed.
+
+== 130
+# 1 a rotting wooden figurehead on a ship's prow, covered in clumps of weed = endocarditis vegetations on the aortic valve
+# 2 big clumps breaking off and flying downstream into the town's fountain, blocking it = embolic stroke; larger and growing vegetations embolise more
+# 3 a golden staphylococcus-like cluster of grapes nailed to the prow, the clumps there biggest = Staphylococcus aureus increases neurological complications (ANSWER)
+# 4 a little bulge on the fountain's pipe that shrinks once the prow is cleaned = a mycotic aneurysm may regress: not a contraindication to early surgery
+# 5 the town fountain blocked; no abscess, only the blockage = stroke is the commonest neurological event, not abscess
+title: Endocarditis: Staphylococcus aureus raises the risk to the brain
+titleAr: التهاب الشغاف: المكوّرات العنقودية الذهبية ترفع خطر المضاعفات الدماغية
+tags: cardiac/aortic-valve cardiac/other d:complications q:recall l:2
+palette: sea-green weed on dark wet wood, one bunch of golden grapes, the town fountain white marble
+must: a cluster of golden grapes is nailed to the prow and the weed around it is thickest; clumps fly from the prow towards a marble fountain whose spout is blocked
+scene: a harbour town. A ship's carved wooden figurehead at the prow is rotting and covered in clumps of green weed. CENTRE, dominant and larger than life: a cluster of golden grapes is nailed to the figurehead, and around it the weed grows thickest; big clumps break off and fly over the quay into the white marble fountain in the square, blocking its spout, while townspeople stare. On the fountain's feed pipe a small bulge swells. A shipwright on a ladder scrapes the prow with a long blade.
+story:
+في ميناء البلدة رست سفينة التاجر سامسونوف، وتمثالها الخشبيّ على المقدّم يتعفّن تحت كتل الطحلب الأخضر.
+وكان التاجر قد سمّر على صدر التمثال عنقودًا من عنب ذهبيّ، يتفاءل به ويباهي به الموانئ.
+لكنّ الطحلب أحبّ الذهب، فحول العنقود نبت أكثف ما يكون، وتكتّل كتلًا عظيمةً كرؤوس الخراف.
+وهبّت ريح البحر، فانخلعت الكتل الكبرى، وطارت فوق الرصيف كالغربان المبلولة.
+وهوت في النافورة الرخاميّة البيضاء وسط الساحة، فسدّت فمها، ووقف الناس حولها مشدوهين.
+وصاح بائع سمك من بينهم: «كلّما كبرت الكتلة وازدادت، طارت أبعد وسدّت أحكم!»
+وعلى أنبوب النافورة انتفخت حدبة صغيرة كالبيضة، فارتاع الناس منها أكثر ممّا ارتاعوا من السدّ.
+فصعد صانع السفن فيدوت السلّم إلى المقدّم، وأخذ يكشط التمثال بنصل طويل. «نظّفوا السفينة أوّلًا، فتضمر الحدبة من تلقاء نفسها!»
+ولمّا بلغ نصله العنقود الذهبيّ، توقّف يزنه بعينه، وابتسم ابتسامة من قضى في الأغلال سنين طوالًا، وقال:
+quote: «المال حرّيّة مسكوكة، ولذلك فهو أغلى عشر مرّات، عند من حرم الحرّيّة كلّها.»
+source: مذكرات من البيت الميت
+explanation:
+In infective endocarditis of the aortic valve, fragments of vegetation can break off and be carried to the brain.
+Vegetations that are large or growing in size carry a higher risk of embolisation, so size does matter.
+Staphylococcus aureus infection increases the risk of neurological complications, which is the answer: it is aggressive and destructive and forms large, friable vegetations.
+A mycotic aneurysm may regress once the cardiac infection is removed, and it is not a contraindication to early surgery.
+Stroke is the most common neurological event, far more common than brain abscess.
+The book adds that a neurological event does not by itself increase the overall mortality of the disease, so the figure of fifty per cent is wrong.
+note: The book states that neurological events do not raise overall mortality; many series find that major neurological complications, especially intracranial haemorrhage, do worsen survival. The keyed answer is not affected.
+
+== 131
+# 1 a big hall whose front wall has a scarred patch that balloons OUTWARD every time the hall's bellows push = dyskinesia: associated with adverse outcome (ANSWER)
+# 2 the neighbouring hall's scarred patch that merely stays still, not moving = akinesia: not the adverse marker
+# 3 no side-canal reaching the burnt patch; the main canal blocked completely = no collaterals and total occlusion make aneurysms
+# 4 a calendar: the bulge stopped growing after the sixth page = aneurysms do not grow after 6 months
+# 5 the small right-hand room squeezed and sagging            = right ventricular function is often impaired
+title: Left ventricular aneurysm: dyskinesia carries the worse outcome
+titleAr: تمدّد البطين الأيسر: الحركة المعاكسة تنذر بمآلٍ أسوأ
+tags: cardiac/coronary cardiac/heart-failure d:pathology q:recall l:2
+palette: canvas tent cream and ox-blood red, a bulge in the wall catching the lamplight
+words: 6
+must: when the bellows push, a scarred patch of the left hall's wall balloons outwards; in the other hall a similar patch stays flat and still
+scene: two great canvas halls side by side, each worked by a big bellows inside. LEFT HALL, dominant and larger than life: as the bellows push, a scarred, thin patch of its wall balloons OUTWARDS like a sail in the wrong direction, ropes straining, a worried keeper bracing it with a pole; a small right-hand room built against it is squeezed and sagging. A calendar on a post beside it shows the number 6, its later pages blank. A main water canal leading to the hall is completely blocked by a boulder, and no side channel reaches the scarred patch. RIGHT HALL: a similar scarred patch in its wall stays flat and still while the bellows push.
+story:
+في السهل قاعتان عظيمتان من القماش، في قلب كلّ منهما منفاخ كبير ينفخ ويشهق ليل نهار.
+وقبل أشهر سدّت صخرة قناة الماء الكبرى إلى القاعة اليسرى سدًّا تامًّا، ولم تبلغ جدارها ساقية جانبيّة واحدة.
+فجفّت رقعة من ذلك الجدار، ورقّت وتندّبت، كجلد أحرقته الشمس.
+والآن، كلّما دفع المنفاخ هواءه، انتفخت الرقعة إلى الخارج كشراع يمتلئ في الاتّجاه الخاطئ، والحبال تئنّ مشدودة.
+والحارس بروخور يسندها بعمود طويل ويصيح: «كلّ نفخة تهرب من هنا، تسرق الهواء من القاعة كلّها!»
+وفي القاعة اليمنى رقعة متندّبة مثلها، لكنّها تبقى مسطّحةً ساكنةً حين ينفخ المنفاخ. «ليت رقعتي ميّتة ساكتة مثل تلك، لا تعاند المنفاخ!»
+والغرفة الصغيرة المبنيّة على يمين القاعة انضغطت وتهدّلت، كأنّها تحمل ثقل جارتها على كتفيها.
+وعلى عمود قريب تقويم يقف عند الرقم ستّة، وما بعده أوراق بيضاء، فمنذ الشهر السادس لم تكبر الرقعة شعرة.
+فألقى بروخور ثقله على العمود، ونظر إلى المنفاخ الجبّار يلهث بلا جدوى، وقال:
+quote: «جرّبت قوّتي في كلّ مكان... فإذا هي بلا حدود. ولكن إلام أوجّه هذه القوّة؟ هذا ما لم أره قطّ، ولا أراه الآن.»
+source: الشياطين
+explanation:
+A left ventricular aneurysm is a thin, scarred segment of the ventricular wall left after a transmural infarction.
+Dyskinesia, the paradoxical outward bulging of that segment in systole, is associated with an adverse outcome, which is the answer; akinesia, a scar that simply does not move, is not.
+Aneurysms form after total occlusion of the artery when collaterals are absent, so extensive collaterals protect against them rather than being a prerequisite.
+Aneurysms typically stop enlarging after about six months rather than expanding indefinitely.
+Right ventricular function is usually impaired, through septal dyskinesia, poor apical wall motion or raised pulmonary artery pressure.
+Size matters too: increasing aneurysm size is a risk factor for death in patients who do not undergo surgery.
+
+== 132
+# 1 a young woman of thirty-six in a house whose upper floors are full of swollen, clogged pipes = cystic fibrosis with bronchiectasis
+# 2 the clogging worst in the TOP floors of the house = upper lobe involvement suggests cystic fibrosis (ANSWER)
+# 3 three kinds of pests in the pipes: a little H-shaped beetle, a green-blue slug, a chain of beads = Haemophilus, Pseudomonas, Streptococcus, not Staphylococcus
+# 4 a plumber plugging one bleeding pipe from inside with a cork through a long rod = embolisation for massive haemoptysis
+# 5 a cart bringing a PAIR of new pipe-stacks to replace both = double lung transplant preferred
+title: Bronchiectasis in the upper lobes points to cystic fibrosis
+titleAr: توسّع القصبات في الفصوص العليا يشير إلى التليّف الكيسي
+tags: thoracic/lung-benign d:diagnosis q:vignette l:2
+palette: damp attic greens and rust, the top floors darkest, one bright copper cart outside
+must: the swollen clogged pipes are in the top floors of the house and the lower floors are nearly clear; a cart outside carries two matching stacks of pipes
+scene: a tall narrow house seen cut open. CENTRE, dominant and larger than life: the pipes of its TOP floors are swollen, knotted and clogged with green sludge, while the lower floors are nearly clear; a young woman of thirty-six on the stairs coughs into a handkerchief. In the clogged pipes crawl a small beetle shaped like the letter H, a green-blue slug and a chain of little beads. In the middle floor a plumber pushes a long rod with a cork on its tip into a pipe that drips red. OUTSIDE, a copper cart brings a pair of matching new pipe-stacks.
+story:
+في بيت طويل نحيل على ضفّة القناة، عاشت ليزا ابنة الستّ والثّلاثين، وأنابيب بيتها تختنق منذ ولدت.
+وكان الاختناق أشدّ ما يكون في الطوابق العليا، فهناك تورّمت الأنابيب وتعقّدت وامتلأت بوحل أخضر، والطّوابق السفلى تكاد تكون نظيفة.
+وفي الوحل تدبّ ثلاث آفات: خنفساء صغيرة على هيئة حرف غريب بساقين وجسر، وبزّاقة خضراء زرقاء، وسلسلة من خرز صغير.
+وليزا على الدرج تسعل في منديلها سعالًا طويلًا، ثمّ تطويه بسرعة كي لا يراه أحد.
+وفي الطابق الأوسط أخذ أنبوب يقطر أحمر، فما هدم السبّاك مكسيم الجدار، بل دسّ في الأنبوب قضيبًا طويلًا على رأسه سدادة من فلّين.
+«لا معول الليلة يا ليزا، سدادة صغيرة من الداخل تكفي!» قال مكسيم، فانقطع القطر الأحمر.
+وعند الباب وقفت عربة نحاسيّة لامعة، تحمل كدسين من الأنابيب الجديدة، متماثلين كتوأمين.
+وصاح الحوذيّ: «اثنان معًا يا ليزا لا واحد، فلو أبقينا قديمًا إلى جانب جديد، لأفسد وحله الجديد في شهر!»
+فنزلت ليزا الدرج، ولمست النحاس البارد كما يلمس وجه حبيب. فسألها الحوذيّ: «من أين لك هذا الصبر كلّه يا ليزا؟» فهمست:
+quote: «وماذا كنت أكون بغير الله؟»
+source: الجريمة والعقاب
+explanation:
+Cystic fibrosis is a congenital disease that causes diffuse bronchiectasis and repeated chest infections in young adults.
+Upper lobe involvement on computed tomography is suggestive of cystic fibrosis, which is the answer, whereas most other causes of bronchiectasis favour the lower lobes.
+The most frequently isolated organisms in bronchiectasis are Haemophilus influenzae, Pseudomonas aeruginosa and Streptococcus pneumoniae, not Staphylococcus aureus.
+Massive haemoptysis is best managed first by bronchial artery embolisation, not by emergency surgery.
+Patients with cystic fibrosis are good transplant candidates, and a double lung transplant is preferred, so that an infected native lung cannot contaminate the graft.
+Diffuse bronchiectasis, not the focal form, is the one more commonly due to a congenital disorder.
+note: In children with cystic fibrosis, Staphylococcus aureus is a common early organism; the book's list refers to bronchiectasis in general, where Haemophilus and Pseudomonas dominate.
+
+== 133
+# 1 a tough, fibrous woody vine grown from the scar of an old wound in the garden wall = desmoid: fibromatosis from musculo-aponeurotic tissue, at old scars
+# 2 it squeezes the stones around it but sends no seeds elsewhere = locally aggressive, no metastasis
+# 3 a gardener cutting it out with a wide margin of wall, and a lamp beam shining on the stump = resection (enucleation) and radiotherapy (ANSWER)
+# 4 the wall's owner is a woman; a family tree on the wall with polyps drawn as mushrooms = female predominance, familial adenomatous polyposis
+# 5 the vine does not touch the big pipes behind the wall or the bell-wires = it does not typically invade vessels, nerves or mediastinum
+title: Chest wall desmoid: resect it and add radiotherapy
+titleAr: الورم الليفي الغازي في جدار الصدر: الاستئصال ثم الأشعّة
+tags: thoracic/chest-wall d:indications q:recall l:3
+palette: grey stone wall, one tough brown woody vine, a warm lamp beam on the cut
+must: the vine grows out of an old repaired crack in the wall; the gardener cuts it out together with a wide margin of stones; a lamp beam shines on the empty bed afterwards
+scene: an old garden wall of grey stone. From an old repaired crack in it grows a tough, fibrous brown woody vine that has squeezed and cracked the stones around it, yet has no seeds or fruit. CENTRE, dominant and larger than life: a gardener with a pick and a saw cuts the vine out together with a wide margin of stones, and his assistant shines a strong lamp beam into the empty bed left behind. Behind the wall run big pipes and bell-wires that the vine has not touched. On the wall hangs a painted family tree with mushrooms drawn on some branches; the owner of the garden, a woman, holds the ladder.
+story:
+في بستان ماريا تيموفيفنا سور رماديّ قديم، فيه شقّ رمّم منذ سنين، يوم ضربه زوجها الراحل بقبضته في سورة غضب.
+ومن تلك الندبة بالذّات، نبتت كرمة سمراء خشبيّة قاسية كالعصب، لا زهر فيها ولا ثمر ولا بذرة.
+لكنّها عصرت الحجارة من حولها عصرًا حتّى تشقّقت، ولم ترسل قطّ غصنًا إلى بستان آخر.
+وخلف السور تمرّ أنابيب غليظة وأسلاك الأجراس، فلم تمسّها الكرمة ولم تلتفّ عليها.
+وعلى السور لوحة مرسومة لشجرة العائلة، على بعض أغصانها فطر صغير، يتوارثه جيل عن جيل.
+فجاء البستانيّ إغنات بالمعول والمنشار، وماريا تمسك له السلّم بيدين ثابتتين. «لا أقطع الكرمة وحدها يا سيّدتي، بل آخذ معها حجارةً سليمةً من كلّ جهة!»
+واقتلعها بحاشية عريضة من السور، حجرًا بعد حجر، حتّى صار مكانها حوضًا فارغًا.
+ثمّ رفع صبيّه مصباحًا قويًّا، وسلّط شعاعه على المهد الفارغ. «إن بقي فيه جذر واحد، فهذا النور يحرقه يا معلّمي!»
+فنظرت ماريا إلى موضع قبضة زوجها القديمة، وقالت بصوت لا يرتجف:
+quote: «الطغيان عادة، وقد وهب القدرة على النموّ، فهو ينمو، حتّى يصير آخر الأمر مرضًا.»
+source: مذكرات من البيت الميت
+explanation:
+A desmoid tumour is a deep fibromatosis arising from musculo-aponeurotic tissue, sometimes at a site of earlier trauma, surgical scars or irradiation.
+Its histology is benign and it does not metastasise, yet it infiltrates and compresses the tissues around it.
+The book's keyed answer says enucleation and radiotherapy, and by it means surgical removal with radiotherapy: radical resection with free margins is the first choice, and radiotherapy is an effective alternative or addition when wide excision is limited.
+Desmoids are more common in women and are associated with familial adenomatous polyposis.
+Invasion of the mediastinum, occlusion of major vessels and erosion of the brachial plexus are uncommon, although desmoids near the shoulder girdle can encase the plexus and vessels.
+They usually present in young and middle-aged adults, not in infancy.
+note: The book's key says enucleation and radiotherapy; mainstream practice is resection with clear margins, radiotherapy when margins are limited, and today often a period of active surveillance first.
+
+== 134
+# 1 a new-born river whose upper channel ends blind in the sand, far short of the lower channel = oesophageal atresia without fistula, a long gap
+# 2 engineers waiting months, letting both ends grow towards each other, then joining them = delayed primary anastomosis
+# 3 or a new aqueduct brought from elsewhere to bridge the gap = oesophageal replacement (ANSWER: both)
+# 4 the usual approach to such work from the RIGHT bank, and from the left only where the great road runs on the right = right thoracotomy, left only with a right-sided arch
+# 5 a tiny premature frog waiting patiently on a lily pad = delay is fine even in low birth weight
+title: Isolated oesophageal atresia: delayed primary anastomosis or replacement
+titleAr: رتق المريء المعزول: مفاغرة أوّلية مؤجّلة أو استبدال المريء
+tags: thoracic/oesophagus d:technique q:recall l:3
+palette: spring meadow green and pale sand, a silver channel, a stone aqueduct in warm light
+must: the upper channel ends blind in sand with a wide dry gap before the lower channel; one gang slowly digs both ends towards each other while another brings an aqueduct section
+scene: a spring meadow where a new-born river runs down from the hills. Its upper channel ends blind in the sand, and far below a lower channel begins, with a wide dry gap between them. CENTRE, dominant and larger than life: patient engineers have marked a calendar of months and are slowly digging both ends towards each other, the gap visibly narrowing; on the other side a team hauls in a section of stone aqueduct to bridge the gap instead. On the RIGHT bank the engineers' camp is pitched; a great road runs along the left bank. A tiny frog sits waiting on a lily pad in the lower channel.
+story:
+في مرج ربيعيّ، ولد نهر صغير من التلال، فجرى خطوات، ثمّ انتهى مجراه الأعلى في الرمل أعمى، لا يفضي إلى شيء.
+وبعيدًا في الأسفل يبدأ مجرًى آخر، وبينهما فجوة يابسة واسعة، لا يعبرها الماء ولا يطمع فيها.
+فصاح مهندس شابّ متعجّل: «نشدّ الطرفين اليوم بالقوّة، ونصلهما قبل المساء!»
+لكنّ كبير المهندسين نيكانور علّق تقويمًا من الشهور، وأخذ يحفر الطرفين نحو بعضهما على مهل، شبرًا في كلّ شهر.
+والفجوة تضيق وتضيق، كيدين تتقاربان في الظلام. «دع الطرفين يكبران، ثمّ يلتقيان بلا شدّ ولا تمزيق!»
+وعلى الجانب الآخر فريق يجرّ قطعةً من قنطرة ماء حجريّة، جيء بها من بعيد، ليعبر عليها النهر إن أبت الفجوة أن تلتئم.
+وصاح رئيس الفريق من تحت الحجر: «إمّا أن يلتقي النهر بنفسه، وإمّا أن نعيره جسرًا من حجر!»
+وضربوا خيامهم على الضفّة اليمنى كعادتهم، لأنّ الطريق الكبير يجري على اليسرى، ولو جرى على اليمنى لعبروا إلى اليسرى.
+وفي المجرى الأسفل ضفدع ضئيل ولد قبل أوانه، يجلس على ورقة زنبق وينتظر معهم بلا شكوى.
+فضحك نيكانور وهو يشطب شهرًا آخر من التقويم، وقال للمهندس الشابّ:
+quote: «يكفي أن يكون المرء مرّةً واحدةً في حياته حصيفًا صبورًا، وهذا كلّ شيء!»
+source: المقامر
+explanation:
+Oesophageal atresia without a fistula usually leaves a long gap between the upper and lower pouches.
+Isolated oesophageal atresia is best managed with delayed primary anastomosis or oesophageal replacement, which is the answer.
+In delayed primary anastomosis the surgeon waits weeks to months, letting both ends grow towards each other, and then joins them without tension.
+When the ends still cannot be brought together, the oesophagus is replaced, for example with stomach or colon.
+The standard approach is a right posterolateral thoracotomy; a left thoracotomy is used only when the aortic arch is on the right.
+Low birth weight is not a reason to avoid delayed primary anastomosis, since waiting also lets the baby grow.
+
+== 135
+# 1 a great tree in the front garden of a town hall          = thymic tumour, the commonest anterior mediastinal tumour
+# 2 men and women sitting under it in equal numbers          = equal sex incidence
+# 3 four stone steps with survival numbers 90, 70, 55, 35, the third step lit = 10-year survival after complete resection: stage III 55% (ANSWER)
+# 4 one young man of 35 with drooping eyelids and an old man of 65 = peak 30-40 with myasthenia, 60-70 without
+# 5 a few people with no complaints under the tree, about three in ten = about 30% of thymomas are asymptomatic
+title: Thymic tumours: stage III completely resected, 55% at ten years
+titleAr: أورام التوتة: المرحلة الثالثة المستأصلة كليًا، 55% بعد عشر سنوات
+tags: thoracic/mediastinum d:evidence q:recall l:2
+palette: civic stone grey, one great green tree, four steps lit in descending warmth
+words: 90, 70, 55
+must: four stone steps lead up to the town hall door; the first three are carved 90, 70 and 55 and the third step (55) is lit by a beam of sun
+scene: the front garden of a stone town hall, with a great green tree in it. Under the tree sit men and women in equal numbers on benches; among them a young man of about 35 with heavily drooping eyelids, and an old man of about 65; a few others sit at ease, smiling. CENTRE, dominant and larger than life: four stone steps lead up to the town hall door; the first three are carved 90, 70 and 55, the fourth is plain; a beam of sunlight falls on the step carved 55, where a woman climbing with a cane has paused, looking up.
+story:
+أمام دار البلديّة الحجريّة شجرة خضراء عظيمة، يتّسع ظلّها للبلدة كلّها.
+وتحتها على المقاعد رجال ونساء بعدد سواء، لا يزيد هؤلاء على أولئك واحدًا.
+بينهم شابّ في الخامسة والثّلاثين، جفناه ثقيلان متهدّلان، يرفعهما بجهد كمن يرفع ستارتين من حديد.
+وإلى جانبه شيخ في الخامسة والسّتّين، عيناه صافيتان مفتوحتان. «كلّما طال النهار يا عمّ، ثقل جفناي أكثر!»
+«كلّ منّا جاء في موسمه يا بنيّ، أنت في شبابك، وأنا في شيخوختي!»
+وبعضهم، نحو ثلاثة من كلّ عشرة، جالس مرتاحًا يبتسم، لا يشكو شيئًا، ولا يدري لماذا دعي إلى هنا.
+وفي الوسط أربع درجات من حجر تصعد إلى باب الدار: نقش على الأولى تسعون، وعلى الثانية سبعون، وعلى الثالثة خمسة وخمسون، والرّابعة ملساء بلا رقم.
+وعلى الدرجة الثالثة وقفت آنا بعصاها، وقد سقط عليها شعاع من الشمس، فرفعت رأسها إليه وتوقّفت.
+«عشر سنين وأنا أصعدها يا جيراني، وها أنا على الخمسة والخمسين ما زلت واقفة!»
+فصفّق لها الشيخ من تحت الشجرة، فلم تلتفت، بل رفعت عصاها نحو الباب وقالت:
+quote: «لا يحيا إنسان حيّ بغير غاية، وبغير سعي إلى بلوغها.»
+source: مذكرات من البيت الميت
+explanation:
+Thymic tumours are the most frequent anterior mediastinal tumours in adults.
+Men and women are affected with about the same frequency.
+Ten-year survival after resection is about ninety, seventy, fifty-five and thirty-five per cent for stages one, two, three and four A, so fifty-five per cent for completely resected stage three is the answer.
+The peak age is thirty to forty years in patients with myasthenia gravis and sixty to seventy years in those without it, so the option has it reversed.
+About thirty per cent of patients with thymoma have no symptoms, not sixty per cent.
+Superior vena cava obstruction is a feature of invasive tumours, not of encapsulated ones.
+

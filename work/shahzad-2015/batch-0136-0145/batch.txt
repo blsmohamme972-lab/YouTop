@@ -1,0 +1,324 @@
+book: shahzad-2015
+# Lessons 136-145. Written "table first".
+
+== 136
+# 1 a squatter's hut built into the very top corner of a lighthouse, cracking the first two steps of its stair = a Pancoast tumour at the lung apex, invading the first ribs
+# 2 the keeper with a drooping eyelid and a numb hand, his shoulder aching = Horner syndrome, shoulder and ulnar pain, hand atrophy
+# 3 workmen first flooding the hut with smoke and fire from outside before any demolition = induction chemoradiotherapy first
+# 4 two demolition gangs, one from the back, one from the front through the neck of the tower = the posterior Shaw-Paulson and the anterior transcervical approaches
+# 5 a man laying a glowing seed of ember inside the hole after demolition, and a judge's scale beside it perfectly level = intraoperative brachytherapy does not change recurrence or survival (ANSWER)
+title: Pancoast tumour: intraoperative brachytherapy changes nothing
+titleAr: ورم بانكوست: المعالجة الإشعاعية الموضعية أثناء الجراحة لا تغيّر شيئًا
+tags: thoracic/lung-cancer d:evidence d:technique q:recall l:3
+palette: storm-grey sea and white lighthouse, one glowing orange ember, a brass scale
+must: a man places a single glowing ember into the hole left in the top of the tower, and right beside him a brass balance hangs perfectly level
+scene: a white lighthouse on a cliff in a storm. In its very top corner a squatter's hut has been built into the stone, cracking the first two steps of the spiral stair. The keeper on the gallery has one drooping eyelid and holds a limp, wasted hand to his aching shoulder. Workmen have flooded the hut with smoke and fire from outside before touching it. Two demolition gangs then attack it, one from the back of the tower and one from the front through the narrow neck below the lamp. CENTRE, dominant and larger than life: in the hole left behind, a man in a leather apron lays one glowing orange ember, and right beside him hangs a brass balance with its two pans perfectly level; a clerk records it with a shrug.
+story:
+في ليلة عاصفة على الجرف، كانت المنارة البيضاء تئنّ تحت الريح أنين شيخ مريض.
+ففي أعلى زاوية منها، بنى متشرّد غريب كوخه في الحجر نفسه، فتشقّقت تحته الدرجتان الأوليان من السلّم اللولبيّ.
+وعلى الشرفة وقف الحارس سافيلي، جفنه متهدّل على عين واحدة، ويده الذابلة مرتخية يضمّها إلى كتفه. «هذا الكوخ لا يسكن الحجر وحده، إنّه يسكن كتفي وعيني ويدي!»
+فلم يمسّ العمّال الكوخ أوّل الأمر، بل أغرقوه من الخارج بالدّخان والنّار، حتّى اسودّ طينه وانكمش.
+ثمّ زحفت عليه فرقتان من الهدّامين: واحدة من ظهر البرج، وأخرى من صدره، عبر العنق الضيّق تحت المصباح.
+وحين سقط الكوخ وبقيت مكانه حفرة سوداء، تقدّم الحدّاد بروخور في مئزره الجلديّ، ووضع فيها جمرةً برتقاليّةً واحدةً تتوهّج.
+وصاح بفخر: «هذه الجمرة ستحرس الحفرة من بعدنا، فلا يعود إليها غريب أبدًا!»
+لكنّ الميزان النحاسيّ المعلّق إلى جانبه لم يتحرّك، وبقيت كفّتاه مستويتين كماء راكد: لا الجمرة رجّحت شيئًا، ولا غيابها كان سينقص شيئًا.
+فكتب الكاتب زخار في دفتره سطرًا قصيرًا، ثمّ هزّ كتفيه وقال:
+quote: «شعرت فجأةً أنّه سيّان عندي، أكان العالم موجودًا، أم لم يكن في أيّ مكان شيء على الإطلاق.»
+source: حلم رجل مضحك
+explanation:
+A Pancoast, or superior sulcus, tumour arises at the lung apex and invades the apical chest wall and the structures of the thoracic inlet, often the first and second ribs.
+It typically causes Horner syndrome, severe shoulder pain radiating along the ulnar side of the arm, and wasting of the hand muscles.
+Induction chemoradiotherapy, followed by an attempt at complete resection, is the standard of care for a potentially resectable Pancoast tumour.
+The posterior Shaw-Paulson approach suits posterior tumours but is not adequate for anterior invasion, so it does not clear every structure of the inlet, and the anterior transcervical approach has lower, not higher, morbidity.
+Loco-regional recurrence and survival are not influenced by intraoperative brachytherapy, which is the answer.
+Invasion of the vertebral body is not a contraindication to resection, though it belongs in centres experienced in spinal surgery, and recurrence is mainly distant, especially in the brain.
+
+== 137
+# 1 a sealed glass bell jar with a creature inside = an encapsulated thymoma, stage I
+# 2 the creature's claws poking through the glass only under a magnifying glass = stage IIA: microscopic invasion through the capsule
+# 3 the creature's whole paw broken out through the glass, plainly visible, grasping the fat lard on the plate around the jar = macroscopic invasion into the surrounding fatty tissue: stage IIB (ANSWER)
+# 4 a neighbouring jar whose creature has smashed into the next dish, and little seeds scattered on the tablecloth = stage III, stage IVA
+title: Thymoma: macroscopic invasion into fat is Masaoka stage IIB
+titleAr: الورم التوتي: الغزو العياني للدهون هو المرحلة IIB حسب ماساوكا
+tags: thoracic/mediastinum d:pathology q:recall l:2
+palette: candlelit kitchen table, clear glass, pale yellow lard, one dark claw
+words: I, II, B
+must: the creature's paw has broken out of the glass jar and is plainly grasping the lard on the plate around it; a small card by the jar reads II and B
+scene: a candlelit kitchen table. On a plate lies a thick ring of pale yellow lard, and on it stands a glass bell jar with a dark spiny creature inside. CENTRE, dominant and larger than life: the creature has broken one whole paw out through the glass, and it plainly grasps the lard around the jar; a card propped against the jar reads II and B. LEFT: a second jar, sealed and whole, its card reading I. An old cook peers through a magnifying glass at a third jar where only the tips of claws show through the glass. RIGHT, far end of the table: a jar smashed into the next dish, little seeds scattered on the cloth.
+story:
+في مطبخ قديم على ضوء الشموع، صفّ الطبّاخ العجوز يفيم نواقيس من زجاج على المائدة، تحت كلّ منها مخلوق أسود شائك صاده الصبية من النهر.
+عن اليسار ناقوس محكم سليم، وإلى جانبه بطاقة عليها الرقم الرومانيّ واحد، ومخلوقه نائم فيه كطفل في مهده.
+وانحنى يفيم بعدسته المكبّرة على ناقوس آخر، فرأى أطراف مخالب دقيقة قد نفذت في الزجاج، لا تراها العين وحدها.
+«هذه لا يراها إلّا من انحنى عليها طويلًا!»
+أمّا في الوسط، فعلى طبق فيه حلقة غليظة من الشحم الأصفر الشاحب، قام الناقوس الكبير.
+وفي منتصف الليل دوّى صوت كسر خفيف: لقد حطّم مخلوقه الزجاج، وأخرج منه كفًّا كاملةً، وأنشبه في الشحم حوله.
+هنا لم يحتج يفيم إلى عدسة. قرأ البطاقة المسندة إلى الناقوس وصاح: «الرقم الرومانيّ اثنان، وإلى جانبه حرف بي!»
+وفي الطرف البعيد من المائدة عن اليمين، ناقوس تحطّم كلّه، واقتحم مخلوقه الصحن المجاور، وتناثرت على المفرش بذور صغيرة.
+فعاد يفيم إلى المخلب القابض على الشحم: «أنت لم تبلغ الصحن المجاور بعد، ولكنّك لم تعد سجين زجاجك.»
+ثمّ قرّب الشمعة من المخلب، وقال كأنّه يتكلّم عن نفسه:
+quote: «الإنسان لا يحتاج إلّا إلى شيء واحد: إرادة مستقلّة، مهما كلّفته هذه الاستقلاليّة، وأينما قادته.»
+source: رسائل من تحت الأرض
+explanation:
+Masaoka staging describes how far a thymoma has spread at operation, and a completely encapsulated tumour is stage I.
+Stage IIA is microscopic invasion through the capsule, seen only under the microscope.
+Macroscopic invasion into the surrounding fatty tissue is stage IIB, which is the answer.
+Stage III is macroscopic invasion into adjacent organs, stage IVA is pleural or pericardial implants, and stage IVB is lymphatic or blood-borne metastasis.
+Stage IIA is the tempting wrong option: it also breaches the capsule, but only microscopically, whereas invasion seen with the naked eye makes it IIB.
+note: The book's printed table is muddled (IIA 'microscopic invasion through the capsule into surrounding fatty tissue', IIB 'macroscopic invasion into capsule'); its answer follows the usual definitions used here: IIA microscopic transcapsular invasion, IIB macroscopic invasion into the surrounding fat.
+
+== 138
+# 1 an old furnace in the neck of a house, the chimney-gland that once made a pleasant tea = the thyroid
+# 2 a wild, shapeless black fire that has burst out of the furnace and crept down into the front hall below, the asterisk of sparks in its heart = an ill-defined anaplastic mass extending into the anterior and superior mediastinum (ANSWER)
+# 3 the fire refuses the iodine tea the old woman offers   = no iodine uptake, no thyroglobulin
+# 4 an old man of seventy who has lived here               = peak in the sixth to seventh decade
+# 5 calm smooth things in the other rooms: a fat lump of butter, a sack of water, a little extra pot = lipoma, lymphangioma, ectopic parathyroid are not the answer
+title: Ill-defined enhancing mass from neck to mediastinum: anaplastic thyroid cancer
+titleAr: كتلةٌ غير محدّدة من العنق إلى المنصف: سرطان الدرقية الكشمي
+tags: thoracic/mediastinum d:diagnosis q:vignette l:3
+palette: soot black and furnace red, ragged black flame, the old woman's tea cup copper
+must: a ragged shapeless black-red fire has crept from the furnace in the neck of the house down the stairs into the front hall; a star of sparks burns at its centre; the fire turns away a cup of tea
+scene: a narrow old house with a furnace built into its neck, just under the roof. CENTRE, dominant and larger than life: a wild, shapeless black and red fire has burst out of the furnace and crept down the stairs into the front hall below, ragged at every edge, a star of bright sparks at its heart. An old woman holds out a copper cup of tea to it, and the flames turn away from the cup. An old man of seventy stands frozen on the landing. In the side rooms, untouched: a fat smooth lump of butter on a shelf, a soft sack of water, and a small extra pot.
+story:
+في عنق بيت قديم ضيّق، تحت السقف مباشرة، كان فرن عتيق يدفئ أهله، ويغلي لهم شايًا طيّبًا منذ عمر طويل.
+وفي ليلة من ليالي الشتاء، انفجرت منه نار لم يعرفها أحد: سوداء حمراء، بلا شكل ولا حدّ، ممزّقة الأطراف كخرقة في الريح.
+ولم تبق في عنق البيت، بل زحفت على الدرج إلى البهو الأماميّ في الأسفل، وفي قلبها نجمة من الشرر تلمع كعين لا تنام.
+وعلى بسطة الدرج، وقف صاحب البيت الشيخ إيليا، ابن السبعين، جامدًا كالحجر. «سبعون سنةً وهذا الفرن يسقينا الشاي، والآن يأكل بيتنا!»
+أمّا زوجته العجوز بلاجيا، فتقدّمت إلى النار بفنجان نحاسيّ من الشاي الحارّ، كما كان الفرن يأخذه من يدها كلّ صباح. «خذي يا نار واشربي، فأنت ابنة بيتنا!»
+لكنّ اللهب أشاح عن الفنجان كما يشيح الغريب عن خبز عدوّه، ولم يمسّ من الشاي قطرةً واحدة.
+وفي الغرف الجانبيّة بقي كلّ شيء ساكنًا أملس: كتلة الزبدة السمينة على الرفّ، وكيس الماء الليّن، والقدر الصغير الزائد. لم تقربها النار، ولم تشبهها في شيء.
+فهمست بلاجيا: «ليست نارًا غريبةً يا إيليا، خرجت من فرننا نحن، لكنّها نسيت من أين جاءت!»
+فأطرق الشيخ، ونظر إلى النجمة المشتعلة في قلب اللهب، وقال:
+quote: «أظنّ أنّ الشيطان إن لم يكن موجودًا، وكان الإنسان إذن هو الّذي خلقه، فقد خلقه على صورته ومثاله.»
+source: الإخوة كارامازوف
+explanation:
+The thyroid lies in the neck, and its tumours can grow down behind the sternum into the mediastinum.
+An ill-defined, heterogeneously enhancing mass in the anterior mediastinum that extends into the superior mediastinum, in a 70-year-old, is most likely undifferentiated, or anaplastic, carcinoma of the thyroid, which is the answer.
+Anaplastic thyroid cancer arises from follicular cells but has lost their features, so it neither takes up iodine nor makes thyroglobulin, and it infiltrates the surrounding fat, trachea, oesophagus and muscle.
+It peaks in the sixth and seventh decades, often arises from a pre-existing differentiated cancer, and is almost always fatal, with a median survival of a few months.
+A lipoma or liposarcoma would usually contain fat, a lymphangioma is a fluid-filled cystic lesion, and an ectopic parathyroid adenoma is a small, well-defined nodule, so none fits an ill-defined invasive mass.
+
+== 139
+# 1 a smooth, thin-walled water balloon tucked into the lower RIGHT corner where the heart-shaped chest meets the floor = a pericardial cyst in the right cardiophrenic angle (ANSWER)
+# 2 it stays clear: a lamp shone into it shows no light caught, no partitions = thin-walled, homogeneous, no septa, non-enhancing
+# 3 a thin string that does not connect it to the chest's lid = no communication with the pericardial space
+# 4 a 35-year-old man rubbing his chest and coughing dryly = vague chest tightness and dry cough
+# 5 other bundles kept higher on the shelves                = bronchogenic or foregut cysts lie elsewhere
+title: Smooth fluid-filled lesion at the right cardiophrenic angle: pericardial cyst
+titleAr: آفة ملساء ممتلئة بالسائل عند الزاوية القلبية الحجابية اليمنى: كيسة التامور
+tags: thoracic/mediastinum d:diagnosis q:vignette l:1
+palette: warm cedar chest and floorboards, one clear water balloon catching the lamp
+must: a clear smooth water balloon sits in the lower right corner between a heart-shaped cedar chest and the floor; a lamp shone into it shows it plain and empty inside with no partitions
+scene: an attic in warm lamplight. A large heart-shaped cedar chest stands on the floorboards. CENTRE, dominant and larger than life: tucked into the lower RIGHT corner where the chest meets the floor sits a smooth, thin-walled, perfectly clear water balloon; a girl shines a lamp into it and it shows plain and empty inside, with no partitions and nothing caught. A thin loose string lies beside it, not tied to the chest's lid. On the left a man of thirty-five, rubbing his chest, coughs dryly into his fist. On high shelves other bundles are stored.
+story:
+في علّيّة بيت خشبيّ على ضوء مصباح دافئ، يقوم على ألواح الأرض صندوق كبير من خشب الأرز، على شكل قلب.
+وعن اليسار، جلس ميخائيل، رجل في الخامسة والثّلاثين، يفرك صدره ويسعل في قبضته سعالًا جافًّا لا يخرج شيئًا.
+«في صدري ضيق لا أعرف له اسمًا، كأنّ في هذه العلّيّة شيئًا خبيئًا يتربّص بي!»
+فحملت أخته الصغيرة ليزا المصباح، وفتّشت كلّ زاوية في العلّيّة، حتّى وجدته.
+في الزاوية السفلى عن اليمين، حيث يلتقي الصندوق بالأرض، قبع بالون من ماء صاف، أملس رقيق الجدار.
+فسلّطت عليه ضوء المصباح، فعبره النور كما يعبر دمعةً: لا حواجز في داخله، ولا شيء عالق فيه، صاف فارغ من أوّله إلى آخره.
+وإلى جانبه خيط رقيق مرتخ، لم يربط بغطاء الصندوق، فلا البالون يدخل الصندوق، ولا الصندوق يصبّ فيه شيئًا.
+فضحكت ليزا: «ليس إلّا ماءً يا ميشا، ماءً بريئًا في زاويته اليمنى!»
+أمّا الصرر الأخرى المربوطة، فقد نامت على الرفوف العالية، لها أماكنها هناك فوق، لا في هذه الزاوية.
+ثمّ وضعت ليزا يدها على كتف أخيها، وردّدت ما قاله الشيخ زوسيما لامرأة خائفة في الدير:
+quote: «لا تخافي شيئًا، ولا تخافي أبدًا، ولا تحزني.»
+source: الإخوة كارامازوف
+explanation:
+A smooth, well-defined lesion of fluid attenuation at the right cardiophrenic angle is most likely a pericardial cyst, which is the answer.
+Pericardial cysts are benign congenital lesions, and most lie in the cardiophrenic angles, more often on the right.
+On CT they are thin-walled, sharply demarcated and homogeneous, without septa, they do not enhance with contrast, and their attenuation is that of water.
+They do not communicate with the pericardial space, which distinguishes them from a pericardial diverticulum.
+Many are found by chance, and symptoms such as vague chest tightness and a dry cough are nonspecific.
+A bronchogenic or foregut duplication cyst is the tempting alternative, but these usually lie near the carina or the oesophagus in the middle or posterior mediastinum, and thymoma and lymphoma are solid, enhancing masses.
+
+== 140
+# 1 a family's manor (the right lung) with three wings: upper, middle, lower = the right lung's lobes
+# 2 a burglar in the upper wing, the primary tumour        = the primary in the right upper lobe
+# 3 a second burglar of the same gang already in the LOWER wing of the same house = a nodule in another ipsilateral lobe: T4 (ANSWER)
+# 4 a gang member in the same upper wing would be only a lesser charge, a sign T3 on that door = a nodule in the same lobe is T3
+# 5 the house across the river untouched                     = contralateral lung nodules would be M1a
+title: A second nodule in another lobe of the same lung is T4
+titleAr: عقدةٌ ثانية في فصٍّ آخر من الرئة نفسها: T4
+tags: thoracic/lung-cancer d:diagnosis q:vignette l:2 x:high-yield
+palette: night manor greys, two lantern beams catching two masked burglars
+words: T3, T4
+must: one burglar is in the upper wing and a second burglar of the same gang is in the lower wing of the same house; the lower wing's door bears a sign T4 and the upper wing's door a sign T3; the house across the river is dark and untouched
+scene: a manor at night with three wings stacked one above another like floors: upper, middle and lower. CENTRE, dominant and larger than life: a masked burglar with a lantern is in the upper wing, and a second burglar from the same gang, same mask, is already in the lower wing; a constable points from one to the other. On the upper wing's door hangs a sign T3, on the lower wing's door a sign T4. Across a river a second manor stands dark and untouched.
+story:
+في ليلة بلا قمر، نام قصر التاجر سامسونوف بأجنحته الثلاثة، بعضها فوق بعض كالطّوابق: الأعلى، والأوسط، والأسفل.
+وفي الجناح الأعلى تسلّل لصّ مقنّع يحمل فانوسًا، يقلّب الخزائن ويحبس أنفاسه.
+فجاء ضابط الشرطة نيكولاي، وقرأ على باب الجناح لافتةً صغيرة: «تي ثلاثة! هذه تهمته لو اجتمع هو ورفيقه في جناح واحد.»
+ثمّ نظر إلى الأسفل، فإذا في الجناح الأسفل لصّ ثان، من العصابة نفسها، وعلى وجهه القناع نفسه.
+فمدّ إصبعه من اللصّ الأعلى إلى اللصّ الأسفل، كمن يشدّ بينهما خيطًا: «قناع واحد، وعصابة واحدة، وبيت واحد!»
+وعلى باب الجناح الأسفل قرأ لافتةً أخرى: «تي أربعة! جناح آخر من البيت نفسه، فالتّهمة أثقل!»
+وعبر النهر قام قصر ثان غارقًا في الظلام، لم يطأه أحد. «لو عبروا النهر إلى ذلك القصر، لكانت قضيّةً أخرى تمامًا.»
+فضحك اللصّ الأسفل من وراء قناعه، وقال بصوت فتيّ وقح:
+quote: «فكرتي هي أن أصير روتشيلد، أن أصير غنيًّا كروتشيلد؛ لا غنيًّا فحسب، بل كروتشيلد بالذّات.»
+source: المراهق
+explanation:
+The right lung has three lobes, and where a second tumour nodule lies decides how it is staged.
+Here the primary tumour is in the right upper lobe.
+A second tumour nodule in the right lower lobe, a different lobe of the same lung, is T4 in the 7th edition of the TNM classification used by the book, which is the answer.
+A separate nodule in the same lobe as the primary would be T3, the tempting wrong option.
+Nodules in the contralateral lung, or pleural dissemination, are M1a, and distant metastasis is M1b.
+note: The book uses the 7th edition of TNM, built on the IASLC survival analysis that moved nodules in another ipsilateral lobe from M1 to T4; the 8th edition keeps the same rules, T3 for the same lobe and T4 for another lobe of the same lung.
+
+== 141
+# 1 shepherd dogs and a great herd of sheep             = Echinococcus granulosus, the dog tapeworm, in herding country
+# 2 children's small balloons floating mostly from their chests, adults' mostly from their bellies = lung to liver ratio higher in children (ANSWER)
+# 3 most of the balloon-carriers walking about cheerfully, unaware = most infected people are asymptomatic
+# 4 a balloon so big it pushes its owner over            = symptoms come from mass effect
+# 5 a doctor with a pin to pop it surgically, a bottle of pills set aside = surgery is the main therapy, not drugs
+title: Hydatid disease: lungs more than liver in children
+titleAr: الداء العداري: الرئة أكثر من الكبد عند الأطفال
+tags: thoracic/lung-benign d:pathology q:recall l:2
+palette: green hill pasture, white sheep, pale translucent balloons, sky blue
+must: the children's balloons float up from their chests and the adults' balloons from their bellies; most people walk about smiling; one man is pushed over by a huge balloon
+scene: a green pasture full of white sheep and shepherd dogs. Villagers walk among them with pale translucent balloons tied to them. CENTRE, dominant and larger than life: a group of children whose balloons are tied at their chests, floating up, and beside them adults whose balloons are tied at their bellies. Most of them walk about smiling, unaware. On the right one man is being pushed over by a balloon grown huge. A doctor approaches him with a long pin, a bottle of pills left behind on a rock.
+story:
+في مرعًى أخضر على التلال، ترعى قطعان من الغنم البيضاء، وتدور حولها كلاب الرعاة لا تنام.
+وبين الغنم يمشي أهل القرية، وقد ربط بكلّ منهم بالون شاحب شفّاف، لا يدري أحد متى ربط.
+وفي الوسط جماعة من الأطفال، بالوناتهم مربوطة إلى صدورهم، تطفو منها نحو السماء الزرقاء.
+وإلى جانبهم الكبار، بالوناتهم مربوطة إلى بطونهم. فقالت أمّ منهم اسمها أغرافينا: «انظروا! الصغار يحملونها على الصدور، ونحن نحملها على البطون!»
+ومع ذلك كانوا جميعًا يمشون في المرعى مبتسمين، لا يشعر أكثرهم بما يحمل، كأنّ البالون قطعة من جسده.
+إلّا الراعي فاسيلي عن اليمين: لم ينفجر بالونه، بل كبر وكبر حتّى صار كالسّحابة، فدفعه وألقاه أرضًا. «كان خفيفًا كالرّيشة سنين طويلة، فما باله الآن يصرعني؟»
+فأقبل عليه الطبيب فارفينسكي بدبّوس طويل، وترك وراءه على صخرة قارورة حبوب لم يفتحها.
+وقال لفاسيلي برفق: «الحبوب لمن لا يبلغه دبّوسي، أمّا أنت فتعال، وعلى مهل، كي لا يتناثر منه شيء على العشب!»
+ثمّ التفت إلى القرية كلّها، إلى الصغار والكبار المبتسمين ببالوناتهم، وقال بحزن:
+quote: «لقد فقدنا جميعًا عادة الحياة، كلّنا نعرج، كلّ منّا بقدر يزيد أو ينقص.»
+source: رسائل من تحت الأرض
+explanation:
+Cystic echinococcosis is caused by the larva of the dog tapeworm Echinococcus granulosus, and it is common where dogs tend large herds of sheep.
+The ratio of lung to liver involvement is higher in children than in adults, which is the answer.
+Most infected people remain asymptomatic until the cyst grows large, and many lung cysts are found by chance on a chest X-ray.
+Most symptoms come from the mass effect of the growing cyst, not from rupture; rupture is a complication that changes the picture with cough, chest pain, haemoptysis or vomica.
+Surgery is the main treatment, removing the parasite without spilling it, while benzimidazoles are given around surgery or when surgery is not possible.
+Diagnosis rests on imaging supported by serology, not on the Casoni skin test.
+
+== 142
+# 1 a fleet of damaged ships (old battles, weak sails) in harbour = patients after myocardial infarction with ejection fraction 30% or less
+# 2 a crate of small brass cannons fitted to some ships, which fire by themselves when a storm wave rises = an implantable defibrillator
+# 3 the fitted ships surviving more: a board showing 30 fewer lost = a 30% reduction in mortality; the trial stopped early
+# 4 the harbour master's ledger with columns for old, young, men, women, sail size and crew ranks, the same tick in every column = benefit similar across subgroups (ANSWER)
+# 5 no ship being test-fired before fitting                 = no electrophysiological testing required
+title: MADIT-II: the defibrillator helped every subgroup alike
+titleAr: تجربة MADIT-II: مزيل الرجفان أفاد كلّ المجموعات الفرعية بالقدر نفسه
+tags: cardiac/arrhythmia cardiac/heart-failure d:evidence q:recall l:3
+palette: pewter harbour and white spray, small brass cannons glinting, a ledger's cream page
+words: 30
+must: the harbour master's open ledger shows a row of identical ticks across all its columns; some ships carry small brass cannons on deck; a board reads 30
+scene: a stormy harbour full of battered ships with patched hulls and weak sails. Some of them have small brass cannons fitted on deck, and as a great wave rises one fires by itself, smashing the wave. Fewer of the fitted ships are sinking; a board on the quay reads 30. CENTRE, dominant and larger than life: the harbour master at a desk under an awning, his ledger open with columns headed by small drawings (an old man, a young man, a woman, a big sail, a small sail, a narrow hull), and the same tick mark in every column; he taps the row of identical ticks.
+story:
+في ميناء كرونشتادت، تحت سماء بلون القصدير، رست سفن محطّمة عادت من معارك قديمة، هياكلها مرقّعة، وأشرعتها واهنة لا تمتلئ بالرّيح.
+وعلى ظهور بعضها ركّبت مدافع نحاسيّة صغيرة، لا يقف عندها أحد ولا يلمسها أحد.
+فإذا ارتفعت موجة عاصفة عظيمة، انطلق المدفع من تلقاء نفسه، وحطّم الموجة قبل أن تبتلع السفينة.
+وعلى الرصيف لوح كتب عليه: ثلاثون. فمن كلّ مئة سفينة كانت ستغرق، نجت ثلاثون بفضل مدفع صغير يسهر عليها.
+وفي الوسط، تحت مظلّة من القماش، جلس آمر الميناء الشيخ سيلفستر إلى مكتبه، ودفتره الكبير مفتوح أمامه.
+في رأس كلّ عمود رسم صغير: شيخ، وشابّ، وامرأة، وشراع كبير، وشراع صغير، وهيكل ضيّق. وتحت كلّ منها علامة واحدة، هي هي، لا تزيد ولا تنقص.
+فنقر سيلفستر بإصبعه على صفّ العلامات المتشابهة: «الشيخ والشّابّ والمرأة، والشّراع الكبير والصّغير: نفعهم المدفع جميعًا بقدر واحد!»
+ثمّ أضاف: «ولم نجرّب مدفعًا قبل أن نركّبه، فحسب السفينة أنّها عادت من المعركة محطّمة الأشرعة.»
+ثمّ نظر إلى السفن كلّها، وتذكّر كلمةً سمعها في موسكو يوم تكلّموا عن بوشكين، وقال:
+quote: «أن تصير روسيًّا حقًّا، روسيًّا تمامًا، قد لا يعني في النهاية إلّا أن تصير أخًا لجميع الناس، إنسانًا كونيًّا، إن شئتم.»
+source: يوميات كاتب، خطاب بوشكين
+explanation:
+MADIT-II enrolled patients with a prior myocardial infarction and an ejection fraction of 30% or less, with no arrhythmia entry criteria.
+They were randomised, in a 3 to 2 ratio rather than 1 to 1, to a prophylactic implantable defibrillator or conventional medical therapy.
+The trial was stopped early because the defibrillator reduced death from any cause by about 30%.
+The effect of the defibrillator on survival was similar in subgroups stratified by age, sex, ejection fraction, NYHA class and QRS interval, which is the answer.
+Unlike the first MADIT trial, no invasive electrophysiological testing was required for entry.
+
+== 143
+# 1 a stabbed man brought in on a stretcher, a witness who saw his heart still beating on the way = penetrating thoracic injury with witnessed cardiac activity, now arrested
+# 2 the surgeon opening the door of his chest-house at once with a crowbar, in the hallway = emergency room thoracotomy: an accepted indication (ANSWER)
+# 3 a second man crushed under a cart, nobody ever saw his heart beat; the surgeon turns from him = blunt injury without witnessed activity: a contraindication
+# 4 a jug showing 500 at the chest-tube, not alarming    = losses of 500 ml are not an indication (more than 1500 is)
+title: Emergency room thoracotomy: penetrating injury with witnessed cardiac activity
+titleAr: فتح الصدر في غرفة الطوارئ: إصابة نافذة مع نشاطٍ قلبيٍّ مشهود
+tags: thoracic/trauma d:indications q:recall l:2 x:guideline
+palette: hospital corridor green and white, one red stab wound, a crowbar steel bright
+words: 500
+must: a witness on the left holds up a hand mimicking a beating heart while the surgeon opens the stabbed man's chest-house at once; the crushed man on the right is turned away from
+scene: a hospital corridor at night. LEFT: a stabbed man on a stretcher, and beside him a witness, a young woman, holding up her hand opening and closing to show that his heart was beating on the way. CENTRE, dominant and larger than life: the surgeon, without waiting, levers open with a steel crowbar a little door in the man's chest, which is drawn as the door of a small house, light pouring out. RIGHT: a man crushed under a cart wheel whom nobody saw breathe, and the surgeon has turned away from him. On a trolley a glass jug reads 500.
+story:
+في ممرّ المستشفى بعد منتصف الليل، جيء على نقّالة برجل مطعون في صدره، اسمه ديمتري.
+وإلى جانبه شابّة اسمها كاتيا، ركضت وراءه طول الطريق، ترفع يدها وتفتحها وتغلقها كنبض عنيد. «كان قلبه يدقّ في الطريق! رأيته بعينيّ، هكذا، هكذا!»
+والآن سكن ديمتري سكونًا تامًّا، وصار وجهه كالشّمع.
+فلم ينتظر الجرّاح أركادي لحظةً واحدة: أخذ عتلةً من فولاذ، وفتح بها في صدر الرجل بابًا صغيرًا كباب بيت صغير، هنا في الممرّ نفسه، فانسكب منه النور.
+وقال وهو يشدّ العتلة: «رأت قلبه يدقّ، فالباب يفتح الآن، لا بعد دقيقة!»
+وعن اليمين، رجل آخر تحت عجلة عربة سحقته، لم يره أحد يتنفّس، ولم يشهد أحد لقلبه بدقّة واحدة.
+فأدار أركادي وجهه عنه، وفي عينيه ألم لا يقوله.
+وعلى طاولة ذات عجلات إبريق زجاجيّ كتب عليه: خمسمئة. نظر إليه الجرّاح ولم يأبه، فليس هذا القدر ممّا تفتح له الأبواب.
+وحين سألته كاتيا لماذا لم ينتظر، قال كمن يتذكّر جرحًا قديمًا في حياته:
+quote: «خمس دقائق، خمس دقائق فقط، لا أكثر، هي كلّ تأخّري! لو جئت قبلها بخمس دقائق، لمرّت اللحظة كما تمرّ السحابة.»
+source: الوديعة
+explanation:
+A patient in traumatic arrest after a penetrating chest injury, whose cardiac activity was witnessed before or in hospital, is the clearest case for opening the chest at once.
+This is an accepted indication for emergency room thoracotomy, which is the answer.
+Blunt thoracic injury with no witnessed cardiac activity is a contraindication, as are multiple blunt trauma and severe head injury.
+A chest tube loss of 500 ml or less is not an indication, whereas rapid exsanguination of more than 1500 ml from the chest tube is.
+Penetrating injury with hypotension that responds to resuscitation is not an indication either; only hypotension that does not respond, below about 70 mmHg, is accepted.
+Aortic transection is managed in the operating room or by endovascular repair, not by thoracotomy in the emergency room.
+note: The book calls these a suggested set of guidelines, not absolute rules: indications for emergency room thoracotomy vary with local resources and skill, and the book lists this one as an accepted indication.
+
+== 144
+# 1 a castle whose cellar door to the kitchen keeps letting sour kitchen smoke back up into the stairwell = gastroesophageal reflux
+# 2 a guard who sits on the stair for twenty-four hours with an hourglass and a sour-meter, ticking each time smoke comes up = ambulatory 24-hour pH monitoring: the most accurate test (ANSWER)
+# 3 others: a man measuring the door's springs, a man peering in with a candle, a man drawing a picture of the castle = manometry, endoscopy, radiology
+# 4 the hourglass marked 24                              = twenty-four hours
+title: Recurrent reflux is confirmed by 24-hour pH monitoring
+titleAr: يُؤكَّد الارتجاع المتكرّر بمراقبة الحموضة على مدى 24 ساعة
+tags: thoracic/oesophagus d:diagnosis q:recall l:1
+palette: castle stone grey, a yellow-green sour smoke, the guard's red cloak
+words: 24
+must: the guard sits on the stair with an hourglass marked 24 and a gauge, making tally marks on the wall each time a puff of yellow-green smoke rises from the cellar door
+scene: a castle stairwell above a cellar door that leads to the kitchen; puffs of sour yellow-green smoke keep rising up through the door. CENTRE, dominant and larger than life: a guard in a red cloak sits on the stair beside an hourglass marked 24 and a small gauge; each time a puff rises he scratches a tally mark on the wall, which is covered in marks. Around him three others: a man measuring the door's spring with calipers, a man peering in with a candle, and a man sketching the castle on a board.
+story:
+في قلعة قديمة من حجر رماديّ، كان دخان حامض أصفر مخضرّ يصعد من باب القبو المؤدّي إلى المطبخ، نفثةً بعد نفثة، ويملأ بئر الدرج.
+فجاء ثلاثة من علماء المدينة يبحثون عن العلّة: الأوّل يقيس نابض الباب بفرجار دقيق، والثّاني يطلّ في الشقّ بشمعة، والثّالث يرسم القلعة على لوح خشبيّ.
+فقال صاحب الشمعة متأفّفًا: «نظرت فلم أر الآن دخانًا، ولعلّه لم يكن قطّ!»
+لكنّ الحارس غريغوري، في عباءته الحمراء، جلس على الدرج لا يقيس ولا يرسم، وإلى جانبه ساعة رمليّة نقش عليها: أربعة وعشرون.
+ومعه مقياس صغير، ترتعش إبرته كلّما مرّ به الحامض.
+وكلّما صعدت نفثة، خدش بسكّينه علامةً على الجدار، حتّى امتلأ الجدار بالعلامات.
+ليلًا ونهارًا، أربعًا وعشرين ساعةً كاملة، لم تفته نفثة واحدة: كم مرّةً صعد الدخان، وكم طال بقاؤه.
+وفي الصباح أشار إلى الجدار المخدوش: «هذا هو الدليل، لا فرجاركم ولا شمعتكم ولا رسومكم!»
+ثمّ قلب الساعة الرمليّة من جديد، وخدش علامةً أخرى، وقال ضاحكًا:
+quote: «يبدو أنّ عمل الإنسان كلّه إنّما هو حقًّا في أن يثبت لنفسه كلّ دقيقة أنّه إنسان، لا مسمار صغير!»
+source: رسائل من تحت الأرض
+explanation:
+Gastro-oesophageal reflux is the abnormal return of gastric contents into the distal oesophagus.
+Ambulatory 24-hour pH monitoring is the most accurate test to confirm it, which is the answer: it records how often and how long acid reaches the distal oesophagus over a whole day.
+Manometry measures the sphincter and oesophageal motility, endoscopy shows damage, and radiology shows anatomy, but none of them measures the reflux itself.
+The probe sits 5 cm above the lower oesophageal sphincter, and the exposure to acid is combined into a composite score that correlates with mucosal damage.
+Combined impedance-pH monitoring is the tempting option, since it also detects non-acid reflux, but the book names 24-hour pH monitoring as the most sensitive and specific test.
+
+== 145
+# 1 a cellar pipe of milky white liquid cut during the rebuilding of a tower = the thoracic duct injured at oesophagectomy
+# 2 milky liquid flooding the right side of the cellar = chylothorax: cloudy, high triglycerides, lymphocytes
+# 3 a cook stopping the kitchen fat-cart and feeding the household through a drip from a bottle instead = parenteral nutrition, nothing fatty by mouth (ANSWER part)
+# 4 a workman draining the flood with a pump and hose  = chest drainage (ANSWER part)
+# 5 builders with picks waiting at the door, held back for now = surgery only if conservative treatment fails
+title: Chylothorax after oesophagectomy: start with drainage and IV nutrition
+titleAr: انصباب الكيلوس بعد استئصال المريء: ابدأ بالتصريف والتغذية الوريدية
+tags: thoracic/oesophagus d:postoperative d:complications q:next-step l:2
+palette: stone cellar shadows, milk-white flood, one glass bottle catching the light
+must: the cook has halted a cart of butter and fat and is feeding the household from a glass bottle on a tall stand; a workman pumps the milky flood out through a hose; builders with picks wait at the door
+scene: the cellar of a tower being rebuilt. A pipe of milky white liquid has been cut by the workmen and a milky flood spreads over the right side of the cellar. CENTRE, dominant and larger than life: the cook has halted a cart loaded with butter and fat at the stairs and instead feeds the household from a glass bottle on a tall stand, a thin tube running from it; beside her a workman pumps the milky flood out through a long hose. AT THE DOOR: builders with picks and lanterns wait, held back by the cook's raised hand.
+story:
+في قبو برج يعاد بناؤه، ضرب أحد العمّال بمعوله خطأً، فقطع أنبوبًا يجري فيه سائل أبيض كالحليب.
+فتدفّق السائل وانتشر على الجانب الأيمن من القبو، طوفانًا أبيض عكرًا يعلو ساعةً بعد ساعة.
+وكانت الطبّاخة مارفا تنزل على الدرج عربةً محمّلةً بالزّبدة والشّحم، فأوقفتها في مكانها. «لا زبدة اليوم ولا شحم! كلّ دسم ينزل من هنا يصبّ في ذلك الأنبوب!»
+وعلّقت على حامل طويل قارورةً من زجاج تلمع في الضوء، يخرج منها أنبوب رفيع، وأخذت تطعم منها أهل البرج قطرةً قطرة.
+وإلى جانبها أخذ العامل إيغنات يضخّ الطوفان الأبيض بمضخّة وخرطوم طويل، حتّى يجفّ القبو وتلتصق جدرانه من جديد.
+وقال وهو يضخّ: «جفّفي عنه الدسم يا مارفا، وأجفّف أنا القبو، فقد يلتئم الأنبوب إن جفّ القبو!»
+وعند الباب وقف البنّاؤون بمعاولهم وفوانيسهم، يتحرّقون إلى الحفر والهدم. «دعينا نصل الأنبوب بأيدينا الآن!»
+فرفعت مارفا يدها في وجوههم: «ليس الآن! إن لم ينفع الضخّ والقارورة، ناديتكم، أمّا قبل ذلك فلا!»
+ثمّ نظرت إلى القارورة المتلألئة، وإلى أهل البرج يتغذّون منها قطرةً بعد قطرة، وقالت:
+quote: «أطعمهم، ثمّ اطلب منهم الفضيلة!»
+source: الإخوة كارامازوف
+explanation:
+Injury to the thoracic duct or its branches during oesophagectomy lets chyle leak into the chest.
+Cloudy pleural fluid with high triglycerides and many lymphocytes, days after the operation, means chylothorax, and persistent loss causes malnutrition, lymphopenia and infection.
+The first treatment is conservative: intravenous alimentation and chest drainage, which is the answer.
+Stopping enteral fat and feeding by vein reduces the flow of chyle, and medium-chain fats or somatostatin may help.
+Chest drainage with full re-expansion of the lung helps the leak to seal.
+Surgery, such as thoracoscopic or open ligation of the thoracic duct, is kept for a leak that persists despite conservative treatment, so laparotomy and duct resection is not the first step.
+
