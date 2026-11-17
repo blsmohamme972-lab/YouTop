@@ -1,8 +1,6 @@
 Paste this into a new Claude Code session on the repository blsmohamme972-lab/YouTop:
 
 Read CLAUDE.md, then docs/status.md (section "START HERE"), then use the youtop-lessons skill.
-The newest docs/status.md is on the branch `ccr-c96c1543-jfc0u3` if it has not been merged into `main` yet
-(git fetch origin ccr-c96c1543-jfc0u3; read it from there and merge it).
 Answer the owner in plain Arabic, never ask them to run commands, send files themselves.
 Lessons 46-105 are published with text and voice and wait only for the owner's pictures. The image prompts
 handed to the owner are under work/shahzad-2015/batch-*/ on the `content` branch (image-prompts-*.json, and
