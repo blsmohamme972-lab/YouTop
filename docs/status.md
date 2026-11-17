@@ -1,8 +1,43 @@
 # Where the work stands
 
-Updated 2026-11-16. Whoever works on YouTop next: read `CLAUDE.md`, then this, then
+Updated 2026-11-17. Whoever works on YouTop next: read `CLAUDE.md`, then this, then
 `docs/content-guide.md`. Rewrite this file whenever the state changes (it replaces the
 `status-<n>.txt` files in the Drive folder "YouTop private", which stop at 7).
+
+## Lessons 46-75 (night of 2026-11-16 to 17) — IN PROGRESS, THE OWNER IS ASLEEP AND ASKED FOR AUTOMATIC WORK
+
+The owner asked for "the next 30 lessons", with symbols and stories "creative to a very great degree",
+then: finish their voices and everything they need, and **five hours after that message (it came at
+about 21:40 UTC on 2026-11-16) start the following thirty (76-105)**, automatically, without mistakes.
+A scheduled message fires in the session that did this work at 02:40 UTC on 2026-11-17.
+
+- **Published, the standard way** (table first, prompts first): lessons 46-75, text complete (story,
+  quotation, explanation, tags, question, figure of question 48). Work files on `content`:
+  `work/shahzad-2015/batch-0046-0055/`, `batch-0056-0065/`, `batch-0066-0075/` (`batch.txt` with the
+  tables, `voice.txt`, `image-prompts-*.json`).
+- **Image prompts 46-75 were handed to the owner** as files (json and plain text) before the stories
+  were written. **No picture 46-75 exists yet**; when they arrive: skill steps 4, 5 and 7 (look at each,
+  spots, marks, second agent).
+- **Voice: all of 46-75 is made, checked and published** (2026-11-17, about 03:30 UTC). `voice.py check`
+  heard every sentence; its only flags were false alarms (the short quotation of 46, re-listened by
+  itself and spoken in full; "mmHg" and "Ivor-Lewis lymphadenectomy" spelled differently by the
+  recogniser). Nobody has heard the files: ask the owner how they sound.
+- **A second agent checked each batch** (medicine, consistency, Arabic, quotations; it recognised all
+  thirty quotations as genuine, from memory). Fixed from its findings, then voice remade: a wrong verb
+  vowel (63 "نخرها", 48 "اعقد", 52 "ليسند"), story lines that contradicted the picture's scene or the
+  numbers (52, 57, 61, 67, 69, 70, 74, 75), the translation of 53's quotation, explanation wording
+  (46, 61, 65, 67, 68) and notes where the book differs from current teaching (55 Ghent criteria, 60
+  seminoma treatment, 65 platelets in HIT, 68 option C). Left as they are, on purpose: characters who
+  speak in a story but are not in the scene (a narrator's device; when the pictures come, the story
+  follows the picture); 59's scene has the middle carter going down the back gully though the vein
+  runs up (the prompt was already handed over; decide when the picture arrives); wrong options that
+  the book itself does not discuss are not all explained.
+- Because of the remake, the audio of 46-55 is published as `...-v2.m4a` (the first files stay on
+  `content`, unused).
+- Decisions taken without the owner (they were asleep): quotations are well-known lines from memory,
+  as before (never checked against a printed Arabic translation); key notes were added where the
+  book's key is debatable (47, 51, 65, 66, 68, 72) and 74 uses the corrected key D; question 38's
+  kind of problem did not recur.
 
 ## Last task: circles in the question (app 2.2), done 2026-11-16, NOT YET SEEN BY THE OWNER ON THEIR PHONE
 
