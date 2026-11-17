@@ -4,24 +4,26 @@ Updated 2026-11-17 (evening). Whoever works on YouTop next: read `CLAUDE.md`, th
 `docs/content-guide.md`. Rewrite this file whenever the state changes (it replaces the
 `status-<n>.txt` files in the Drive folder "YouTop private", which stop at 7).
 
-## START HERE (2026-11-17, night): lessons 76-105 are complete; 21-30 and 46-75 wait for pictures
+## START HERE (2026-11-17, night): automatic rounds of 20 lessons every two hours
 
-- **Lessons 76-105 are complete** (2026-11-17): the owner's 30 pictures arrived, were looked at one by one
-  against their stories, and got spots and numbered marks (6 to 8 each). Work files on `content`:
-  `work/shahzad-2015/batch-0076-0085/`, `batch-0086-0095/`, `batch-0096-0105/` (`batch.txt`, `voice.txt`,
-  `spots.txt`, `marks.txt`, prompts). Three helper agents placed spots and marks; their drawings were checked.
-- **Four story lines were changed to match the pictures** (the picture wins), and only those stories' voices
-  were remade (`...-story-ar-v2.m4a`; `voice.py check` heard every sentence): 76 (the left stream goes into a
-  pipe under the ground towards the back door, as painted), 87 (two men, not three; the older one holds a
-  sledgehammer), 98 (the boy pushes the cane in at the pump end; the nozzle stays on), 100 (the red pipe marked
-  6 lies under the two blue bags, not against the boards).
-- Left as painted, noted in the marks: 103 shows the door leaf sunk below its frame clearly but the upper room
-  is not much larger than the lower (answer circles: the sunk leaf and the empty upper room); 94's row of nails
-  does not clearly swing round the drain; 83's dark spout seems to pour into the can; 98's pink bladder is faint.
-- **Pictures still missing: 21-30 and 46-75 (40 pictures).** Their prompts are on `content` under
-  `work/shahzad-2015/` (21-30 in `batch03/`). The owner was given, on 2026-11-17, one file with the prompts of
-  83, 86, 88-105 and 21-30; 76-105 then all arrived. When more arrive: skill steps 4, 5 and 7.
-- Nobody has listened to the voices of 46-105: ask the owner. Next new lessons: 106 onwards, when asked.
+- **The owner asked (2026-11-17, ~20:40 UTC):** every two hours make 20 new lessons with the highest accuracy
+  and creativity, save the progress at the end of each round, and **do not stop until they say stop**. A
+  scheduled task "YouTop: 20 new lessons every 2 hours" (trig_01TXiqB1Lo3S8bobTNg4WmKU) fires into session
+  session_012MyNmqRZ5VoyLaDGc4zwec at minute 42 of every even hour UTC; its prompt lists the steps
+  (catch up, pictures, 20 new lessons the standard way, save, message the owner). If the owner says stop,
+  disable it with update_trigger (enabled=false).
+- **Round 1 (2026-11-17, 20:40-23:00 UTC): lessons 106-125 published** with text and voice (work files
+  `work/shahzad-2015/batch-0106-0115/`, `batch-0116-0125/`). Image prompts handed to the owner first.
+  Two writer agents wrote the stories and explanations from my tables and scenes; a checker agent per ten
+  found 0 errors and 11 warnings; fixed: tags of 119, story wording in 117, 120, 121, 123, explanation wording
+  in 109, 111, 125, a word in 110. Left on purpose: characters who speak but are not painted (106, 107, 114,
+  116). `voice.py check`: every sentence heard; the formulas of 110-112 were rewritten in words because the
+  voice read "open parenthesis".
+- **Pictures 21 and 22 arrived and are published** with spots and marks (`work/shahzad-2015/batch03/`).
+- **Lessons 76-105 are complete** (pictures, spots, marks); see the git log of `content` and the work folders.
+- **Pictures still missing: 23-30, 46-75, 106-125.** Next round: lessons 126-145.
+- Lesson learned this round: never run `voice.py make` and `batch.py build` on the same chapter at the same
+  time; the second one to write the chapter file overwrites the other's changes.
 
 ## Lessons 46-75 (night of 2026-11-16 to 17) — done except pictures
 
