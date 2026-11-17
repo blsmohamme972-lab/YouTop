@@ -1,0 +1,7 @@
+Paste this into a new Claude Code session on the repository blsmohamme972-lab/YouTop:
+
+Read CLAUDE.md, then docs/status.md (section "START HERE"), then use the youtop-lessons skill.
+Answer the owner in plain Arabic, never ask them to run commands, send files themselves.
+The image prompts already handed to the owner are under work/shahzad-2015/batch-*/ on the
+`content` branch (image-prompts-*.json, and the same as plain text in image-prompts-*.txt).
+Do not change a scene whose prompt was handed over. Lessons 76 onwards wait for the owner's word.
