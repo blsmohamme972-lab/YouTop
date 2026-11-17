@@ -1,0 +1,21 @@
+book: shahzad-2015
+== 21
+1: 45 42 40 | The narrow white stone ring of the only gate | Thoracic inlet: a hole surrounded by a bony ring
+2: 48 47 12 | Sweeper carrying a ribbed pipe upright | Trachea passes through the inlet
+3: 33 68 13 | Water-carrier's soft hose right behind him | Oesophagus lies directly behind the trachea
+4: 62 38 12 | Riders in scarlet riding out uphill | Arteries leaving the chest: carotids, brachiocephalic, subclavians
+5: 18 42 15 | Riders in blue coming back down | Veins returning: internal jugular, brachiocephalic, subclavian
+6: 12 62 15 | Runner with yellow ribbon turning back | Nerves pass; the left recurrent laryngeal loops back up
+7: 82 22 16 | Rope-maker with a golden rope on the wall | Brachial plexus: over the first rib to the arm, outside the ring
+8: 85 55 15 | Old gatekeeper counting on his fingers | Everything else counted passes through the inlet
+question: 1 8
+answer: 7
+== 22
+1: 68 72 30 | Heavy swollen sack hanging outside the wall | Goitre: variable obstruction outside the chest
+2: 70 45 9 | Soft canvas neck pinched where the sack hangs | Inspiration sucks the obstruction in: inspiratory loop flattened
+3: 42 30 18 | Great leather bellows blowing hard inside | Forced expiration pushes it out: expiratory loop normal
+4: 17 20 12 | Chalk drawing: a peak above, a flat bowl below | The loop shown: normal peak, flat inspiratory plateau
+5: 30 45 15 | Blacksmith about to cut the bellows open | Tracheal stenosis (fixed) would flatten both halves
+6: 10 33 10 | Old woman pointing outside | Look outside the chest: goitre, vocal cord palsy, laryngeal tumour
+question: 4
+answer: 1 2
