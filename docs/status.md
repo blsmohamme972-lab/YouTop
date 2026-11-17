@@ -4,6 +4,21 @@ Updated 2026-11-17. Whoever works on YouTop next: read `CLAUDE.md`, then this, t
 `docs/content-guide.md`. Rewrite this file whenever the state changes (it replaces the
 `status-<n>.txt` files in the Drive folder "YouTop private", which stop at 7).
 
+## START HERE (2026-11-17, 03:20 UTC): the owner stopped the work and is deleting that session
+
+- **Lessons 46-75 are complete except for pictures** (details in the next section). When the owner
+  says pictures are in the Drive images folder: skill steps 4, 5 and 7.
+- **Lessons 76-105 were begun too early and the owner interrupted.** Their last instruction was
+  "start the next batch five hours later; now only finish the first thirty". **Do not continue 76+
+  until the owner says so.** What exists, all unpublished as lessons, saved on `content`:
+  - `work/shahzad-2015/batch-0076-0085/`: complete text (tables, scenes, stories, quotations,
+    explanations, `voice.txt`) and `NOT-PUBLISHED-TODO.txt` with a second agent's findings still to fix.
+  - `work/shahzad-2015/batch-0086-0095/`: tables and scenes only.
+  - **The image prompts of 76-85 and 86-95 were already handed to the owner** (they may make those
+    pictures), so those scenes are fixed. 96-105: nothing yet.
+- A scheduled message ("YouTop: start lessons 76-105") belonged to the deleted session and has fired; ignore it.
+- Ask the owner how the voices of 46-75 sound; nobody has heard them.
+
 ## Lessons 46-75 (night of 2026-11-16 to 17) — IN PROGRESS, THE OWNER IS ASLEEP AND ASKED FOR AUTOMATIC WORK
 
 The owner asked for "the next 30 lessons", with symbols and stories "creative to a very great degree",
