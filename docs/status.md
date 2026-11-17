@@ -4,27 +4,24 @@ Updated 2026-11-17 (evening). Whoever works on YouTop next: read `CLAUDE.md`, th
 `docs/content-guide.md`. Rewrite this file whenever the state changes (it replaces the
 `status-<n>.txt` files in the Drive folder "YouTop private", which stop at 7).
 
-## START HERE (2026-11-17, evening): lessons 76-105 are published; every lesson from 46 to 105 waits only for its picture
+## START HERE (2026-11-17, night): lessons 76-105 are complete; 21-30 and 46-75 wait for pictures
 
-- The owner said "do next 30 lessons" on 2026-11-17. **Lessons 76-105 are published, the standard way**: text
-  (story, quotation, explanation, tags, question) and recorded voice. 101-105 opened the chapter `q0101-0200`.
-  Work files on `content`: `work/shahzad-2015/batch-0076-0085/`, `batch-0086-0095/`, `batch-0096-0105/`
-  (`batch.txt` with the tables, `voice.txt`, `image-prompts-*.json` and `.txt`).
-- **Image prompts 76-105 were all handed to the owner** (96-105 on 2026-11-17, before their stories were
-  written), so no scene may change. **No picture from 46 to 105 exists yet** (the Drive images folder ends
-  at 45; 21-30 never got pictures). When the owner says pictures are there: skill steps 4, 5 and 7.
-- **Checks done on 76-105.** A second agent read each ten (story against scene, Arabic, quotations, medicine);
-  its findings were fixed before the voice was made (speakers introduced before they speak, a few vowels and
-  gender agreements, titles in Arabic, some explanation sentences, notes on 97, 104 and 105 where the book's
-  answer differs from or needs care beside current practice). It recognised every quotation as genuine, from
-  memory, except 93's first choice (replaced) — still never checked against a printed Arabic translation.
-  `voice.py check` heard every sentence of all thirty as written; the one flag (83, a shouted part) was
-  remade without the shout mood and then heard. Nobody has listened to any of it: ask the owner.
-- Left as they are, on purpose: 92's quotation ("conscious inertia") after an active treatment; 96 and 103
-  quote the same conversation of The Brothers Karamazov; 103's boy runs down the side chute and up the stairs
-  (the less common direction of the circuit; the scene was already handed over, the explanation covers both);
-  105's quotation is a deathbed cry spoken over a horse that recovers.
-- Next: questions 106 onwards when the owner asks; and the owner's answer on how the voices of 46-105 sound.
+- **Lessons 76-105 are complete** (2026-11-17): the owner's 30 pictures arrived, were looked at one by one
+  against their stories, and got spots and numbered marks (6 to 8 each). Work files on `content`:
+  `work/shahzad-2015/batch-0076-0085/`, `batch-0086-0095/`, `batch-0096-0105/` (`batch.txt`, `voice.txt`,
+  `spots.txt`, `marks.txt`, prompts). Three helper agents placed spots and marks; their drawings were checked.
+- **Four story lines were changed to match the pictures** (the picture wins), and only those stories' voices
+  were remade (`...-story-ar-v2.m4a`; `voice.py check` heard every sentence): 76 (the left stream goes into a
+  pipe under the ground towards the back door, as painted), 87 (two men, not three; the older one holds a
+  sledgehammer), 98 (the boy pushes the cane in at the pump end; the nozzle stays on), 100 (the red pipe marked
+  6 lies under the two blue bags, not against the boards).
+- Left as painted, noted in the marks: 103 shows the door leaf sunk below its frame clearly but the upper room
+  is not much larger than the lower (answer circles: the sunk leaf and the empty upper room); 94's row of nails
+  does not clearly swing round the drain; 83's dark spout seems to pour into the can; 98's pink bladder is faint.
+- **Pictures still missing: 21-30 and 46-75 (40 pictures).** Their prompts are on `content` under
+  `work/shahzad-2015/` (21-30 in `batch03/`). The owner was given, on 2026-11-17, one file with the prompts of
+  83, 86, 88-105 and 21-30; 76-105 then all arrived. When more arrive: skill steps 4, 5 and 7.
+- Nobody has listened to the voices of 46-105: ask the owner. Next new lessons: 106 onwards, when asked.
 
 ## Lessons 46-75 (night of 2026-11-16 to 17) — done except pictures
 
