@@ -57,7 +57,7 @@ story:
 وامتلأ المشمّع الّذي يلفّ البيت ماءً، فضاق عليه وعصره، حتّى خفت دخان المدخنة إلى خيط.
 «دائمًا تصاب الواجهة!» قال الحارس العجوز وهو يعدّ الندوب القديمة. «كلّ الرماح تصيب الغرف الكبيرة. أمّا الخلفيّة فجدارها أملس كخدّ طفل.»
 صعد النجّار ستيبان سلّمه. خاط الجدار السميك غرزةً غرزة، كلّ غرزة وحدها، وتحت كلّ غرزة وسادة من لبّاد أبيض.
-«الجدار السميك يمزّق الخيط العاري. لا بدّ لكلّ غرزة من وسادتها.»
+«الخيط العاري يمزّق الجدار السميك. لا بدّ لكلّ غرزة من وسادتها.»
 وعلى الجدار ساق لبلاب أحمر. فأنزل إبرته عميقًا ومرّ من تحتها، ولم يخنقها بخيطه.
 وفي الخلف كانت الصبيّة دونيا ترفو الجدار الرقيق، بخيط واحد جار لا ينقطع.
 وحين انتفخت الغرفة بالماء وشدّت على الغرز، قرصوا أنبوبي الدخول، وقلبوا الساعة الرمليّة: ثلاث دقائق، لا تزيد.
@@ -166,7 +166,7 @@ story:
 والثّاني رجل من ثلج. شاحب أملس، لا علم له ولا صوت.
 رفع مشعل القناديل فيلات فانوسه العظيم في وجهه.
 فما إن لمسه الشعاع حتّى أخذ يذوب. نصفه صار بركةً لامعةً على الألواح، والنّصف الآخر في الطريق.
-«هذا أطوعهم للضّوء!» ضحك فيلات. «لا مبضع ولا سمّ. الشعاع وحده يكفيه.»
+«هذا أطوعهم للضّوء!» ضحك فيلات. «لا مقصّ ولا سمّ. الشعاع وحده يكفيه.»
 أمّا الثالث فليس واحدًا، بل عصابة من أربعة لا يتشابهون، تحت علم أصفر عليه حرف واحد.
 هؤلاء لا يذيبهم فانوس. صبّ لهم الصيدليّ شرابًا أسود في كؤوسهم. «حيث يرفع العلم الأصفر، لا يكون رجل الثلج وحده.»
 وعند المدخنة وقف الكنّاس بمجرفته، ينتظر ما يبقى بعد الضوء والشّراب.
@@ -181,6 +181,7 @@ Seminomas are very radiosensitive, so radiotherapy is their first-line treatment
 Non-seminomas, that is yolk sac tumours, choriocarcinomas, embryonal cell carcinomas and teratocarcinomas, are treated with chemotherapy.
 Any rise in alpha-fetoprotein excludes a pure seminoma; raised AFP, LDH and beta-hCG point to a mixed or non-seminomatous tumour.
 In either malignant group surgery is reserved for a residual mass after radiotherapy or chemotherapy.
+note: The book gives radiotherapy as first-line treatment for seminoma; current practice for mediastinal seminoma favours cisplatin-based chemotherapy. The answer, the better cure rate of seminoma, is the same either way.
 
 == 61
 # 1 a baker's table in a house where a girl has just been born = a newborn with a cystic malformation of one lobe
@@ -205,7 +206,7 @@ story:
 على المائدة رغيف ثان، ثقوبه صغيرة منتظمة. لا يطير ولا يغرق.
 وإلى جانبه رغيف ثالث داكن مصمت، ثقوبه كوخز الإبر. ثقيل كالحجر، حتّى تشقّقت المائدة تحته.
 ورغيف رابع ما زال ملفوفًا في خرقته المبتلّة. يبدو صخرةً صمّاء، ولن يعرف ما في جوفه حتّى يجفّ.
-«لا تخف من الثقب الكبير يا نيكيتا.» قالت الجدّة. «خف من الرغيف الّذي لا ثقب فيه.»
+«لا تخف من الثقب الكبير يا نيكيتا.» قالت الجدّة. «خف من الرغيف المصمت الثقيل.»
 حدّق الخبّاز في ابنته المعلّقة برغيفها الطائر، وضحك وبكى، وقال:
 quote: «أوافق على أنّ اثنين في اثنين أربعة شيء ممتاز. لكن إن كنّا نمدح كلّ شيء، فإنّ اثنين في اثنين خمسة، لشيء لطيف جدًّا أحيانًا.»
 source: رسائل من تحت الأرض
@@ -214,7 +215,8 @@ In congenital cystic adenomatoid malformation, hamartomatous change of the termi
 The cysts communicate with the rest of the bronchial tree.
 It can present with polyhydramnios, not oligohydramnios.
 A chest radiograph at birth can mislead: the cysts may look solid until their fluid is absorbed and they fill with air, so CT makes the diagnosis and defines the extent.
-In the Stocker classification type I lesions have cysts larger than 1 cm; they are the most common and, despite their pressure effects, have a favourable prognosis, so large lesions do better than small ones, which is the correct statement.
+In the Stocker classification type I lesions have cysts larger than 1 cm; they are the most common and, despite their pressure effects, have a favourable prognosis.
+So lesions with large cysts do better than lesions with small cysts, which is what the correct statement means.
 Type II cysts are smaller than 1 cm, and type III cysts, under 0.5 cm with a solid component and usually involving the whole lobe, carry a poor survival.
 Not every lesion is resected: without symptoms surgery may wait under CT follow-up, some lesions resolve, and those that grow or cause symptoms are removed, usually by lobectomy.
 
@@ -354,6 +356,6 @@ Cardiac patients receive heparin routinely and can be sensitised even by small a
 The platelet count falls, and if heparin is stopped the platelets recover.
 The diagnosis can be confirmed by platelet aggregation in the presence of the patient's serum, and elective cardiac surgery should be postponed.
 If the patient is bleeding from the thrombocytopenia, the treatment is to give platelets, which is the answer.
-Cryoprecipitate, fresh frozen plasma and vitamin K replace clotting factors, which are not what is missing, and warfarin is an anticoagulant.
-note: When there is no bleeding, platelet transfusion is generally avoided in heparin-induced thrombocytopenia; the question asks only about the bleeding patient.
+Cryoprecipitate, fresh frozen plasma and vitamin K act on clotting factors, which are not what is missing, and warfarin is an anticoagulant.
+note: Heparin-induced thrombocytopenia is mainly a clotting disorder: its usual management is to stop heparin and give a different anticoagulant, and platelets are generally avoided unless the patient is bleeding, which is the case the question asks about.
 

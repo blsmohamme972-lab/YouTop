@@ -58,7 +58,7 @@ story:
 والثّالث دبّ عظيم. لم يمت ولم يتحجّر. تكوّر عند الدولاب، ونام تحت الثلج ينتظر.
 ثمّ صعد الصبيّ سينكا إلى الساقية، ودحرج الحجارة حجرًا حجرًا.
 «الماء عاد يا ناس! انظروا إليه ينزل أحمر كالجمر!»
-لم يتحرّك الطحّان الحجريّ. ولم تشتدّ بطن الفزّاعة.
+لم يتحرّك الطحّان الحجريّ. ولم يشتدّ بطن الفزّاعة.
 وعلى الضفّة عامل رابع جالس، يمسك رأسه الدائخ بكفّيه، والماء يجري عند قدميه. «أمهلوني قليلًا. الماء عاد، وأنا لم أعد بعد.»
 أمّا الدبّ، فما إن بلغه الماء الأحمر حتّى فتح عينيه، ونفض الثلج، وقبض على الدولاب. فدار الدولاب كأنّ الشتاء لم يكن.
 وقفت زوجة الطحّان بين زوجها الحجريّ والدّبّ المستيقظ، وقالت:
@@ -69,6 +69,7 @@ Hibernating myocardium is muscle that contracts poorly at rest because its coron
 If the flow is restored it recovers: hibernating myocardium reverts to normal after successful coronary artery bypass grafting, which is the answer.
 Infarcted myocardium is irreversibly damaged and cannot improve with any intervention.
 An aneurysm is thinned scar that bulges and does not contract.
+Ischaemic and akinetic only describe muscle that is short of blood or is not moving; they do not say whether it will recover.
 Stunned myocardium is dysfunction without cell death that persists after blood flow has already been restored following ischaemia; it is reversible, and its treatment is supportive, with drugs and an intra-aortic balloon pump.
 It is thought to result from calcium overload, free radicals and a generalised inflammatory state.
 Patients with neither hibernating nor stunned myocardium are better served by medical management or transplantation.
@@ -108,8 +109,8 @@ Very early it gives the conus branch and the sinoatrial nodal branch; these do n
 Dominance is decided at the back of the heart: the artery that gives the posterior descending artery, in the posterior interventricular groove, is the dominant one.
 In 85% of people that is the right coronary artery, and through it the atrioventricular node is supplied, which is the correct answer.
 In the remaining 15% the circumflex is dominant and supplies that branch.
-Supplying the conus, the sinoatrial node or most of the right ventricle is true of the right coronary artery whatever the dominance.
-note: Strictly, the artery to the atrioventricular node arises from the dominant artery at the back of the heart, near the origin of the posterior descending artery, rather than from the posterior descending artery itself; the book's wording is kept.
+The conus branch, usually the sinoatrial nodal branch, and the supply of most of the right ventricle come from the right coronary artery whatever the dominance, so they do not define it.
+note: Strictly, the artery to the atrioventricular node arises from the dominant artery at the back of the heart, near the origin of the posterior descending artery, rather than from the posterior descending artery itself; the book's wording is kept. The posterior septum is supplied through the posterior descending artery as well, so option C is also defensible; the book's key is B.
 
 == 69
 # 1 a house whose wall is charred through its whole thickness, over a quarter of its length = a transmural, extensive infarct
@@ -127,14 +128,14 @@ scene: a street a week after a great fire. CENTRE, dominant and larger than life
 story:
 بعد الحريق الكبير بأسبوع، مشى البنّاء العجوز إغنات في الزقاق يعدّ ما بقي واقفًا.
 توقّف عند بيت احترق جداره الفاصل بسمكه كلّه، من وجه إلى وجه، على ربع طوله وأكثر.
-في طرف الجدار الأماميّ ثقب مستدير نظيف، ينفذ مستقيمًا من غرفة إلى غرفة.
-وفي طرفه الخلفيّ الأسفل نفق ملتو كجحر الأفعى. وذيل الأفعى ما زال يغيب فيه.
+في الطرف الأماميّ من الجدار ثقب مستدير نظيف، ينفذ مستقيمًا من غرفة إلى غرفة.
+وفي الطرف الخلفيّ الأسفل منه نفق ملتو كجحر الأفعى. وذيل الأفعى ما زال يغيب فيه.
 «الثقب المستقيم للأمام، والجحر الملتوي للخلف. هكذا رأيتهما دائمًا.»
 نجا هذا البيت من ثقبه، وبقي واقفًا. لكنّ النجاة لم تكن آخر الحكاية.
 فجداره الخارجيّ انتفخ إلى الخارج ككيس عظيم شاحب، متشقّق لا يحمله إلّا ثلاث دعائم من خشب.
 «نجونا من النار ومن الثقب! أفلا نستريح الآن؟» سأل ربّ البيت.
 أشار إغنات إلى البيت المجاور. احترق هو الآخر، لكن بلا ثقب. جداره مستقيم سليم، وعليه اللوحة: اثنا عشر.
-«من أمثال جارك ينتفخ اثنا عشر من كلّ مئة. ومن أمثالك أنت، نصف الناجين أو أكثر.»
+«من أمثال جارك ينتفخ اثنا عشر من كلّ مئة. ومن أمثالك أنت، من ثلث الناجين إلى ثلثيهم.»
 وعلى العتبة جلس الجدّ السكّير يرفع كأسه إلى الجدار المنتفخ، ويقول:
 quote: «أشرب، لأنّني أريد أن أتعذّب عذابًا مضاعفًا!»
 source: الجريمة والعقاب
@@ -162,7 +163,7 @@ words: 30
 must: two canals side by side, each split lengthwise by a plank wall into a wide channel and a narrow side channel; in the left canal the narrow channel flows and its bank bulges and cracks; in the right canal the narrow channel is filled with solid black ice
 scene: two brick-red canals run side by side from the top of the picture towards the viewer, each with a fresh pale stone patch at its head, and each divided lengthwise by a thin plank wall into a wide main channel and a narrow side channel. LEFT CANAL, dominant and larger than life: water still streams fast down its narrow side channel; the outer bank beside it has swollen into a bulge and is splitting, bricks falling, water seeping through; a board on the bank reads 30; a frightened family watches from above. RIGHT CANAL: its narrow side channel is choked solid with black ice from end to end, and its bank stands perfectly straight and dry. TOP CENTRE, between the canals: a sluice-keeper leans on a great brake wheel, slowing the surge of the water. LOWER RIGHT: a workman with a bandaged arm walks away cheerfully along the towpath with his bundle on a stick.
 story:
-بعد أن رقّع البنّاؤون رأس القناتين الحمراوين، قال الناس: انتهى الخطر.
+بعد أن رقّع البنّاؤون رأسي القناتين الحمراوين، قال الناس: انتهى الخطر.
 لكنّ في جوف كلّ قناة حاجزًا رقيقًا من ألواح، يشقّها طولًا إلى مجريين: مجرًى واسع صادق، ومجرًى جانبيّ ضيّق لم يحفره أحد.
 في القناة اليمنى اختنق المجرى الجانبيّ بجليد أسود من أوّله إلى آخره. فبقيت ضفّتها مستقيمةً جافّة.
 أمّا في القناة اليسرى، فما زال الماء يجري في المجرى الكاذب سريعًا خفيًّا.
@@ -303,7 +304,7 @@ story:
 رقّعوا الثقب في الجدار الفاصل بين الغرفتين. وها هي الرقعة بعد كلّ هذه السنين، محكمة جافّة كما تركوها.
 ووسّعوا الباب الأزرق الضيّق في الغرفة اليمنى. شقّوه واسعًا، وثبّتوه مفتوحًا برقعة من خشب جديد، ونزعوا مصراعيه.
 يومها تنفّس البيت. وعاش بافل فيه صباه وشبابه لا يشكو شيئًا.
-لكنّه اليوم قرأ على قائمة الباب الرقم المحفور: عشرون. عشرون شتاءً والباب بلا مصراع.
+لكنّه اليوم قرأ على قائمة الباب الرقم المحفور: عشرون. عشرون شتاءً والباب بلا مصراعين.
 ومع كلّ موجة، كان الماء الّذي خرج يعود فيدخل من الباب المفتوح. حتّى انتفخت جدران الغرفة اليمنى وتدلّت.
 «ليست الرقعة القديمة ما خانني. ولا الباب ضاق من جديد. إنّه الباب الّذي لم يعد يغلق.»
 ومن الخارج أقبل نجّار يحمل على ظهره بابًا أزرق جديدًا. وآخر يدخل من النافذة بابًا مطويًّا. «اختر يا سيّدي: من الباب أم من النافذة؟»
@@ -343,7 +344,7 @@ story:
 فامتلأت غرف الطبقة العليا ضبابًا أبيض كثيفًا. وفي المهد هناك ازرقّت شفتا المولودة.
 وظلّت الردهة اليسرى معتمةً خاوية، لا يطرق بابها قنديل.
 «الأنوار في القبو يا ناس! ردّوها إلى الردهة قبل أن تختنق الصغيرة.»
-حدّقت المربّية في ظلمة القبو الّتي ابتلعت كلّ ذلك النور، وتذكّرت قول رجل لا يؤمن بشيء:
+حدّقت المربّية في القبو الّذي ابتلع كلّ ذلك النور، وتذكّرت قول رجل لا يؤمن بشيء:
 quote: «ماذا لو لم يكن هناك إلّا غرفة صغيرة، كحمّام القرية، مسودّة بالسّخام، وفي زواياها كلّها عناكب، وهذه هي الأبديّة كلّها؟»
 source: الجريمة والعقاب
 explanation:
