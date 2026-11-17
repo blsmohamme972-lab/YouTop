@@ -18,12 +18,22 @@ A scheduled message fires in the session that did this work at 02:40 UTC on 2026
 - **Image prompts 46-75 were handed to the owner** as files (json and plain text) before the stories
   were written. **No picture 46-75 exists yet**; when they arrive: skill steps 4, 5 and 7 (look at each,
   spots, marks, second agent).
-- **Voice**: 46-55 made and published; `voice.py check` heard every sentence (two flags were false
-  alarms: the quotation of 46 is spoken in full, and "mmHg" read as "millimetres of mercury").
-  56-75: see `batch.py status`; if they still lack voice, run `voice.py make` on the two voice files
-  from the work folders, then `voice.py check`, then publish.
-- A second agent per batch was asked to look for errors in medicine, consistency, Arabic and
-  quotations; what it found and what was changed is listed below when done.
+- **Voice: all of 46-75 is made, checked and published** (2026-11-17, about 03:30 UTC). `voice.py check`
+  heard every sentence; its only flags were false alarms (the short quotation of 46, re-listened by
+  itself and spoken in full; "mmHg" and "Ivor-Lewis lymphadenectomy" spelled differently by the
+  recogniser). Nobody has heard the files: ask the owner how they sound.
+- **A second agent checked each batch** (medicine, consistency, Arabic, quotations; it recognised all
+  thirty quotations as genuine, from memory). Fixed from its findings, then voice remade: a wrong verb
+  vowel (63 "نخرها", 48 "اعقد", 52 "ليسند"), story lines that contradicted the picture's scene or the
+  numbers (52, 57, 61, 67, 69, 70, 74, 75), the translation of 53's quotation, explanation wording
+  (46, 61, 65, 67, 68) and notes where the book differs from current teaching (55 Ghent criteria, 60
+  seminoma treatment, 65 platelets in HIT, 68 option C). Left as they are, on purpose: characters who
+  speak in a story but are not in the scene (a narrator's device; when the pictures come, the story
+  follows the picture); 59's scene has the middle carter going down the back gully though the vein
+  runs up (the prompt was already handed over; decide when the picture arrives); wrong options that
+  the book itself does not discuss are not all explained.
+- Because of the remake, the audio of 46-55 is published as `...-v2.m4a` (the first files stay on
+  `content`, unused).
 - Decisions taken without the owner (they were asleep): quotations are well-known lines from memory,
   as before (never checked against a printed Arabic translation); key notes were added where the
   book's key is debatable (47, 51, 65, 66, 68, 72) and 74 uses the corrected key D; question 38's
