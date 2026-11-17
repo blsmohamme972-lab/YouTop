@@ -1,25 +1,32 @@
 # Where the work stands
 
-Updated 2026-11-17. Whoever works on YouTop next: read `CLAUDE.md`, then this, then
+Updated 2026-11-17 (evening). Whoever works on YouTop next: read `CLAUDE.md`, then this, then
 `docs/content-guide.md`. Rewrite this file whenever the state changes (it replaces the
 `status-<n>.txt` files in the Drive folder "YouTop private", which stop at 7).
 
-## START HERE (2026-11-17, 03:20 UTC): the owner stopped the work and is deleting that session
+## START HERE (2026-11-17, evening): lessons 76-105 are published; every lesson from 46 to 105 waits only for its picture
 
-- **Lessons 46-75 are complete except for pictures** (details in the next section). When the owner
-  says pictures are in the Drive images folder: skill steps 4, 5 and 7.
-- **Lessons 76-105 were begun too early and the owner interrupted.** Their last instruction was
-  "start the next batch five hours later; now only finish the first thirty". **Do not continue 76+
-  until the owner says so.** What exists, all unpublished as lessons, saved on `content`:
-  - `work/shahzad-2015/batch-0076-0085/`: complete text (tables, scenes, stories, quotations,
-    explanations, `voice.txt`) and `NOT-PUBLISHED-TODO.txt` with a second agent's findings still to fix.
-  - `work/shahzad-2015/batch-0086-0095/`: tables and scenes only.
-  - **The image prompts of 76-85 and 86-95 were already handed to the owner** (they may make those
-    pictures), so those scenes are fixed. 96-105: nothing yet.
-- A scheduled message ("YouTop: start lessons 76-105") belonged to the deleted session and has fired; ignore it.
-- Ask the owner how the voices of 46-75 sound; nobody has heard them.
+- The owner said "do next 30 lessons" on 2026-11-17. **Lessons 76-105 are published, the standard way**: text
+  (story, quotation, explanation, tags, question) and recorded voice. 101-105 opened the chapter `q0101-0200`.
+  Work files on `content`: `work/shahzad-2015/batch-0076-0085/`, `batch-0086-0095/`, `batch-0096-0105/`
+  (`batch.txt` with the tables, `voice.txt`, `image-prompts-*.json` and `.txt`).
+- **Image prompts 76-105 were all handed to the owner** (96-105 on 2026-11-17, before their stories were
+  written), so no scene may change. **No picture from 46 to 105 exists yet** (the Drive images folder ends
+  at 45; 21-30 never got pictures). When the owner says pictures are there: skill steps 4, 5 and 7.
+- **Checks done on 76-105.** A second agent read each ten (story against scene, Arabic, quotations, medicine);
+  its findings were fixed before the voice was made (speakers introduced before they speak, a few vowels and
+  gender agreements, titles in Arabic, some explanation sentences, notes on 97, 104 and 105 where the book's
+  answer differs from or needs care beside current practice). It recognised every quotation as genuine, from
+  memory, except 93's first choice (replaced) — still never checked against a printed Arabic translation.
+  `voice.py check` heard every sentence of all thirty as written; the one flag (83, a shouted part) was
+  remade without the shout mood and then heard. Nobody has listened to any of it: ask the owner.
+- Left as they are, on purpose: 92's quotation ("conscious inertia") after an active treatment; 96 and 103
+  quote the same conversation of The Brothers Karamazov; 103's boy runs down the side chute and up the stairs
+  (the less common direction of the circuit; the scene was already handed over, the explanation covers both);
+  105's quotation is a deathbed cry spoken over a horse that recovers.
+- Next: questions 106 onwards when the owner asks; and the owner's answer on how the voices of 46-105 sound.
 
-## Lessons 46-75 (night of 2026-11-16 to 17) — IN PROGRESS, THE OWNER IS ASLEEP AND ASKED FOR AUTOMATIC WORK
+## Lessons 46-75 (night of 2026-11-16 to 17) — done except pictures
 
 The owner asked for "the next 30 lessons", with symbols and stories "creative to a very great degree",
 then: finish their voices and everything they need, and **five hours after that message (it came at
