@@ -1,0 +1,338 @@
+book: shahzad-2015
+# Lessons 146-155. Written "table first".
+
+== 146
+# 1 the stage trapdoor of a provincial opera house, its opening narrowed with fresh boards nailed round it = the hiatus closed at the fundoplication
+# 2 a huge round stuffed sack with a red ribbon collar tied neatly round its neck, bursting back UP through the trapdoor onto the stage, collar still intact, new boards splintering = the commonest failure: recurrent (herniated) hernia, the wrap whole but up in the chest (ANSWER)
+# 3 in the wings, a second sack whose ribbon collar has slipped down round its belly = slipped fundoplication: a real pattern, but less common
+# 4 a singer clutching a collar tied far too tight, unable to get his note down = tight fundoplication: dysphagia
+# 5 sour yellowish smoke seeping up through the gaps round the trapdoor, the chorus coughing = recurrent reflux is the commonest symptom of failure
+title: After laparoscopic Nissen fundoplication, the commonest failure is recurrent hernia
+titleAr: بعد تثنية نيسن بالمنظار: الفتق المتكرّر هو أشيع أنماط الفشل
+tags: thoracic/oesophagus d:complications d:postoperative q:recall l:2
+palette: velvet crimson and gilt of a provincial opera house, footlights gold, one red ribbon bright on pale canvas
+must: the round sack bursts up through the narrowed trapdoor with its red ribbon collar still neatly tied round its neck; in the wings a second sack's collar has slipped down round its belly
+scene: a provincial opera house in the middle of a performance, seen from the side of the stage. The stage trapdoor has been narrowed with fresh pale boards nailed round its opening. CENTRE, dominant and larger than life: a huge round stuffed canvas sack with a broad red ribbon collar tied neatly in a bow round its neck bursts back UP through the trapdoor onto the stage, splintering the new boards, its collar still perfectly in place, the singers leaping back. LEFT, in the wings: a second sack stands with its red ribbon collar slipped down round its belly. RIGHT: a singer in a costume clutches a collar tied far too tight round his throat, unable to get his note down. Sour yellowish smoke seeps up through the gaps round the trapdoor, and the chorus coughs behind their hands.
+story:
+في دار الأوبرا بمدينة ريفيّة، بين المخمل القرمزيّ والذّهب الكابي، كانت الفرقة تغنّي ليلة العرض الأولى، وأضواء الخشبة تلتهب ذهبًا.
+وكان الباب المسحور في أرض الخشبة قد ضيّق بالأمس، وسمّرت حول فتحته ألواح جديدة شاحبة، ما زالت تفوح برائحة الصنوبر.
+وفي ذروة اللحن الأخير، انشقّت الألواح الجديدة وتطايرت شظايا، واندفع من الفتحة صاعدًا كيس هائل مستدير محشوّ، كأنّ الأرض تقذفه من جوفها.
+وحول عنقه طوق من شريط أحمر عريض، معقود عقدةً أنيقة، لم يتزحزح عن مكانه قيد شعرة.
+فوثب المغنّون إلى الوراء، وصرخ كبيرهم إغنات: «الطوق سليم يا إخوتي، والكيس كلّه صعد إلينا!»
+وفي الكواليس عن اليسار، وقف كيس ثان صامتًا، قد انزلق طوقه الأحمر عن عنقه، وتدلّى حول بطنه كحزام سكّير.
+وعن اليمين، قبض المغنّي متروفان على طوق مشدود حول حلقه أضيق ممّا ينبغي، وهمس: «نغمتي عالقة هنا، لا تنزل ولا تخرج!»
+وراح دخان أصفر حامض يتسلّل من الشقوق حول الباب المسحور، فسعل رجال الجوقة خلف أكفّهم، ومات اللحن في أفواههم.
+فدنا إغنات من الكيس العائد، وربت على عقدته السليمة، وقال ساخرًا: «ما أنت إلّا الزائر المعتاد، أكثر من يعود إلينا من تحت الخشبة!»
+فارتجّ الكيس كأنّما طعن في كبريائه، فما أصدق القول:
+quote: «لا شيء أشدّ إهانةً لإنسان زماننا وقومنا، من أن يقال له إنّه غير أصيل، ضعيف الطبع، بلا مواهب خاصّة، وإنّه إنسان عاديّ.»
+source: الأبله
+explanation:
+At a laparoscopic Nissen fundoplication the hiatus is narrowed with sutures and the fundus is wrapped all the way round the lower oesophagus.
+The commonest anatomical pattern of failure is recurrent hernia: the wrap stays intact but herniates up through the hiatus into the chest, which is the answer.
+A slipped fundoplication, with the wrap sliding down round the upper stomach, is a real pattern and the most tempting wrong option, but it is less common after the laparoscopic operation.
+A wrap that is too tight or too long causes dysphagia, while adhesive obstruction and gastric volvulus are rare.
+Recurrent reflux is the commonest symptom of failure, followed by dysphagia, and most patients can be treated medically, with only a few needing reoperation.
+note: The book lists the failure patterns described after open fundoplication, where a slipped wrap was the classic failure; after laparoscopic repair, herniation of an intact wrap through the hiatus is the commonest pattern in most series.
+
+== 147
+# 1 an old hollow-log beehive, full of golden comb in all its parts except its lower right section, which is swollen, its cells widened into dark sagging pockets = localised bronchiectasis of the right lower lobe
+# 2 four dried dark-red streaks of honey down the log beneath that section, a painted 4, the newest one already stopped = the fourth episode of haemoptysis, now ceased
+# 3 the rest of the hive strong and heavy with golden comb = reasonable lung function (FEV1 1.6 L)
+# 4 the beekeeper, a sturdy woman of about sixty, lifting the whole rotten lower section out of the hive in one piece = resection of the involved area: it removes the source (ANSWER)
+# 5 a boy pressing a lump of wax into a hole, red already oozing round it = embolisation: for active bleeding, a temporary stop
+# 6 an old grandfather dozing on a bench with a teapot, waiting = observation and antibiotics leave the source in place
+title: Recurrent haemoptysis from localised bronchiectasis with fair lung function: resect it
+titleAr: نفث الدم المتكرّر من توسّع قصبات موضّع مع وظيفة رئوية مقبولة: الاستئصال
+tags: thoracic/lung-benign d:indications q:vignette l:2
+palette: summer apiary greens and birch white, honey gold everywhere, one dark-red rotten section
+words: 4
+must: the beekeeper lifts the whole swollen dark lower section out of the hive while the rest stays full of golden comb; four dried red streaks run down the log beside a painted 4; a boy presses wax into another hole
+scene: a sunny summer apiary at the edge of a birch wood, tall old hollow-log hives standing on posts in the grass. The biggest hive is strong and full of golden comb in all its parts except its lower right section, which is swollen, its comb cells widened into dark sagging pockets. Down the log beneath that section run four dried dark-red streaks of honey, a painted 4 beside them; the newest streak has already stopped. CENTRE, dominant and larger than life: the beekeeper, a sturdy woman of about sixty in a veil, lifts the whole rotten section out of the hive in one piece with both arms, the healthy golden comb above it untouched, bees circling her calmly. LEFT: a boy presses a lump of wax into a hole in the log, red already oozing round the wax. RIGHT foreground: an old grandfather dozes on a bench beside a teapot, waiting.
+story:
+في ظهيرة صيف مشمسة، على حافّة غابة من البتولا، قامت خلايا النحل من جذوع مجوّفة على أعمدتها في العشب، كشيوخ وقوف ينتظرون.
+وكانت أعظمها ملأى بالشّهد الذهبيّ في كلّ أجزائها، إلّا قسمها الأسفل عن اليمين: قد انتفخ، واتّسعت عيون شمعه جيوبًا داكنةً متهدّلة.
+وتحته سالت على الجذع أربعة خيوط من عسل أحمر قاتم قد جفّ، وإلى جانبها رسم الرقم أربعة، وأحدثها قد توقّف عن السيلان.
+فعدّتها صاحبة المنحل مارفا، امرأة صلبة في نحو الستّين، بإصبع غليظة من تحت نقابها، وقالت: «أربع مرّات بكت هذه الزاوية عسلًا أحمر، ولن أنتظر الخامسة!»
+وعن اليسار، كان الصبيّ سينكا يضغط كتلةً من الشمع في ثقب من الجذع، والأحمر ينزّ من حولها، وهو يصيح: «سأسدّه يا جدّتي، سأسدّه بالشّمع!»
+وفي المقدّمة عن اليمين، نعس الجدّ كوزما على مقعد إلى جانب إبريق الشاي، وتمتم بين نومتين: «دعوها يا أولاد، ننتظر ونرى ما يكون.»
+لكنّ مارفا لم تنتظر، ولم تسدّ ثقبًا: أدخلت ذراعيها كلتيهما في الخليّة، ورفعت القسم الفاسد كلّه قطعةً واحدة.
+وبقيت الخليّة فوقه قويّةً ثقيلةً بشهدها الذهبيّ، لم تمسّ منه شيئًا، ودار النحل حولها هادئًا، كأنّه يعرف يديها منذ عمر طويل.
+ثمّ نظرت إلى الصبيّ وشمعه، وإلى الجدّ وإبريقه، وضحكت منهما ومن نفسها، وقالت:
+quote: «الحمقاء ذات القلب بلا عقل، حمقاء تعيسة، مثلها مثل الحمقاء ذات العقل بلا قلب.»
+source: الأبله
+explanation:
+Localised bronchiectasis, here confined to the right lower lobe, is a common cause of recurrent haemoptysis.
+This is the patient's fourth episode, and the bleeding has already stopped, so there is time to plan.
+With an FEV1 of 1.6 litres her lung function is reasonable, enough to tolerate removal of the diseased lobe.
+Surgery is the most definitive treatment because it removes the source of bleeding, so resection of the involved area is the answer.
+Bronchial artery embolisation is the tempting option, but it is mainly for active or massive bleeding, and bleeding often returns afterwards.
+Observation and antibiotics leave the source in place, and further bleeding is unpredictable.
+
+== 148
+# 1 a post windmill on the steppe whose upper left grain bin was hollowed long ago by an old fire = a pre-existing cavity (old abscess) in the left upper lobe
+# 2 a great grey-green furry ball of mould rolling loose in that hollow, mice fleeing = a large mobile aspergilloma, a fungus ball in an old cavity
+# 3 red dust trickling from the bin onto the white flour sacks below = haemoptysis, the commonest symptom, increasing
+# 4 the miller and his two sons lowering the whole upper bin out of the mill in one piece, mould ball inside = left upper lobectomy, anatomical resection, the gold standard when lung function allows (ANSWER)
+# 5 the plank wall the bin leaned against left whole, a carpenter with a saw waved away from it = the mass only abuts the chest wall: no en-bloc chest wall resection
+# 6 a woman pouring green potion into the bin through a crack, running out uselessly; a boy with a long spoon waiting at a small window = amphotericin disappoints; cavernostomy is only for those too frail to resect
+title: Large aspergilloma in a fit patient: anatomical lobectomy, sparing the chest wall
+titleAr: ورم رشاشيّ كبير عند مريض يحتمل الجراحة: استئصال الفصّ مع الإبقاء على جدار الصدر
+tags: thoracic/lung-benign d:indications q:vignette l:2
+palette: golden steppe at harvest, weathered silver-grey mill timber, one grey-green mould ball, flour white
+must: the miller and his sons lower the whole upper bin out of the mill with the mould ball still inside it; the mill's plank wall that the bin leaned on stays whole, a carpenter with a saw waved away from it
+scene: a wooden post windmill on the golden steppe at harvest time, cut open on one side like a doll's house so its inside shows. In the UPPER LEFT of the mill an old grain bin has been scorched and hollowed by a fire long ago, and in that hollow a great grey-green furry ball of mould rolls loose while mice flee; red dust trickles from the bin onto white flour sacks below. CENTRE, dominant and larger than life: the old miller and his two sons lower the whole upper bin out of the mill in one piece on ropes, the mould ball still inside it; the plank wall of the mill that the bin leaned against stays whole, and a carpenter with a saw is waved away from it. LOWER RIGHT: a woman pours a jug of green potion into the bin through a crack and it runs uselessly out below; a boy with a long spoon waits at a small window in the bin.
+story:
+في السهوب الذهبيّة أيّام الحصاد، قامت طاحونة هواء خشبيّة على عمودها، وقد انشقّ جنبها كبيت دمًى، فبان ما في جوفها.
+وفي أعلاها عن اليسار، صندوق حبوب قديم أحرقته نار منذ زمن بعيد، فصار جوفًا أسود فارغًا.
+وفي ذلك الجوف تدحرجت كرة عظيمة من العفن الرماديّ المخضرّ، كثّة الوبر، تروح وتجيء طليقةً، والفئران تفرّ من أمامها مذعورة.
+ومن الصندوق راح غبار أحمر يتساقط على أكياس الدقيق البيضاء في الأسفل، كلّ يوم أكثر من سابقه.
+وفي الأسفل عن اليمين، صبّت أكولينا، زوجة الطحّان، جرّةً من شراب أخضر في شقّ من الصندوق، فسال من أسفله على الأرض بلا نفع.
+وعند نافذة صغيرة في الصندوق، وقف الصبيّ غريشكا بمغرفة طويلة، ينتظر دوره، وقال: «دعوني أغرف العفن من النافذة، شيئًا فشيئًا!»
+لكنّ الطحّان العجوز أفيركي هزّ رأسه، وصاح بابنيه ستيبان وفيدوت: «الصندوق كلّه يا ولديّ، الصندوق كلّه بما فيه!»
+فشدّ الثلاثة الحبال، وأنزلوا الصندوق الأعلى كلّه من الطاحونة قطعةً واحدة، وكرة العفن ما زالت في جوفه تتخبّط.
+وبقي الجدار الخشبيّ الّذي كان الصندوق يتّكئ عليه سليمًا، فلمّا أقبل النجّار لوكا بمنشاره، لوّح له أفيركي: «الجدار لم يمسّه شيء يا لوكا، فلا تمسّه أنت!»
+وحين بلغ الصندوق الأرض، بكى أفيركي فجأة، واعترف أنّ غليونه هو الّذي أشعل تلك النار في شبابه، فقالت له أكولينا ما قالته سونيا لرجل أثقله سرّه:
+quote: «قم! اذهب الآن، في هذه الدقيقة نفسها، وقف عند مفترق الطرق، وانحن، وقبّل أوّلًا الأرض الّتي دنّستها، ثمّ انحن للعالم كلّه، على الجهات الأربع!»
+source: الجريمة والعقاب
+explanation:
+An aspergilloma is a fungus ball of Aspergillus, most often Aspergillus fumigatus, that forms in a pre-existing lung cavity, classically an old tuberculous cavity, here an old abscess in the left upper lobe.
+Haemoptysis is the commonest presenting symptom, and it can become massive.
+When lung function allows, anatomical resection is the gold standard, so left upper lobectomy is the answer.
+The mass only abuts the chest wall, which is contact, not invasion, so an en bloc chest wall resection is not needed.
+Antifungal drugs such as intravenous amphotericin are disappointing against an established fungus ball, and percutaneous drainage does not remove it.
+Cavernostomy with a limited thoracoplasty is reserved for high-risk patients who could not tolerate an anatomical resection.
+
+== 149
+# 1 the left of two great vats, emptied of its old brew and sealed with a lid = the space after left pneumonectomy
+# 2 a chalk line drawn high on it, and the murky liquid inside now sunk well below the line = a falling air-fluid level
+# 3 a crack in the sealed pipe joining the two vats, the murky liquid trickling through into the right vat = a bronchopleural fistula: the space fluid spills into the remaining lung
+# 4 the right vat of fresh golden kvass foaming over, the drinkers at its tap coughing and spitting = copious sputum, the remaining lung in danger of drowning
+# 5 the kvass-master driving a tap into the bottom of the left vat with a mallet, the murky liquid gushing out into a trough = immediate pleural drainage is the best first step (ANSWER)
+# 6 an apprentice peering into the pipe with a candle and another holding up a sample cup, both waved aside = bronchoscopy, aspiration and culture come later
+title: Bronchopleural fistula after pneumonectomy: drain the space first
+titleAr: الناسور القصبي الجنبي بعد استئصال الرئة: التصريف الجنبي أولًا
+tags: thoracic/pleura thoracic/lung-cancer d:complications d:postoperative q:next-step l:2 x:high-yield
+palette: frosty morning steam, oak-brown vats, murky brown against bright golden kvass foam
+must: a chalk line is drawn high on the sealed left vat and the murky liquid inside has sunk well below it; murky liquid trickles through a cracked pipe into the right vat; the kvass-master hammers a tap into the left vat's bottom
+scene: a kvass brewery yard on a frosty morning, steam rising into the cold air. Two huge oak vats stand side by side, joined low down by a short pipe. The LEFT vat has been emptied of its old brew and sealed with a lid; a chalk line is drawn high on its side, and through an open stave one sees the murky brown liquid inside has sunk well below the line. Through a crack in the sealed pipe the murky liquid trickles into the RIGHT vat of fresh golden kvass, which foams over, and the drinkers at its tap cough and spit. CENTRE, dominant and larger than life: the kvass-master, a huge bearded man in a leather apron, drives a tap into the bottom of the left vat with a mallet, and the murky liquid gushes out into a trough on the frozen ground. BACKGROUND: an apprentice peering into the pipe with a candle and another holding up a small sample cup are waved aside.
+story:
+في صباح متجمّد، في ساحة مصنع للكفاس، كان البخار يصعد في الهواء البارد كأنفاس خيل متعبة.
+وهناك قام دنّان عظيمان من خشب البلّوط، جنبًا إلى جنب، يصل بين أسفليهما أنبوب قصير.
+أمّا الدنّ الأيسر فقد أفرغ من نقيعه القديم، وأحكم عليه غطاؤه، وخطّ عليه المعلّم تيخون، رجل عملاق ملتح في مئزر جلديّ، خطًّا عاليًا بالطّباشير.
+وفي هذا الصباح نظر تيخون من لوح مفتوح في جنب الدنّ، فإذا السائل البنّيّ العكر في داخله قد هبط بعيدًا تحت الخطّ، فزمجر: «من يشرب من دنّي المختوم؟»
+وما لبث أن عرف: من شقّ في الأنبوب المسدود، كان السائل العكر يتسلّل خيطًا بنّيًّا إلى الدنّ الأيمن.
+وفي الدنّ الأيمن كان الكفاس الذهبيّ الطازج يفور ويطفح بالرّغوة، والشّاربون عند حنفيّته يسعلون ويبصقون.
+وفي الخلف أقبل صبيّ بشمعة يحدّق في الأنبوب، ورفع صبيّ آخر كوبًا صغيرًا لعيّنة، فدفعهما تيخون جانبًا وصاح: «ليس الآن يا صبيان، ابتعدوا عن طريقي!»
+ثمّ رفع مطرقته الثقيلة، ودقّ حنفيّةً في قاع الدنّ الأيسر بضربة واحدة، فتدفّق السائل العكر في حوض على الأرض المتجمّدة.
+فخفّ الخيط البنّيّ إلى الدنّ الأيمن، فمسح تيخون لحيته الكثّة، والتفت إلى الشاربين المختنقين عند الحنفيّة وناداهم برفق كما ينادي الداعي في حلم مارميلادوف:
+quote: «اخرجوا إليّ يا سكارى، اخرجوا إليّ يا ضعفاء، اخرجوا يا أهل الخزي!»
+source: الجريمة والعقاب
+explanation:
+After pneumonectomy the empty space gradually fills with fluid, so the air-fluid level should rise over the following days.
+A falling level with fever and copious sputum on day five means a bronchopleural fistula: the bronchial stump has opened and the infected space fluid is draining into the airway.
+That fluid can spill into the only remaining lung and drown it, which is the immediate danger.
+Until a drain is in, the patient should lie with the operated side down, so the fluid stays away from the good lung.
+Immediate pleural drainage with a chest tube is therefore the best first step, which is the answer.
+Bronchoscopy to see the stump, aspiration and culture of the fluid, and antibiotics all follow, but none of them empties the space first.
+Intubation and ventilation is the tempting option for a patient who is drowning, but positive pressure through an open stump makes the air leak worse, and draining the space comes first.
+
+== 150
+# 1 a glass bubble blown from a long pipe that has swollen to a giant size, filling the whole left half of a glassworks = a giant bulla
+# 2 delicate glass vessels squashed flat against the wall behind it, beginning to round out once it is lifted away = compressed lung, progressive breathlessness, which re-expands
+# 3 the master glassblower cutting the giant bubble free at its narrow neck with great shears, assistants carrying it out of the doors = excision of the lesion (bullectomy) (ANSWER)
+# 4 an apprentice with an iron spike about to stab the bubble, stopped by the master's boot = a chest tube into a bulla is wrong and dangerous
+# 5 a shelf of small glass bubbles left untouched = most bullous disease is managed medically; the giant bulla is the one to remove
+title: Giant bulla: excise it
+titleAr: الفقاعة الرئوية العملاقة: الاستئصال
+tags: thoracic/lung-benign d:indications q:vignette l:1
+palette: furnace orange and molten gold in a dark glassworks, one vast clear bubble catching the fire, snow blue beyond the doors
+must: the master cuts the giant bubble free at its narrow neck with great iron shears; an apprentice holding an iron spike against it is stopped by the master's boot
+scene: a glassworks at night, lit orange by the furnace. In the LEFT half of the workshop a glass bubble blown from a long iron pipe has swollen to a giant size, clear and thin, filling that whole half from floor to rafters. Behind it, delicate glass vessels are squashed flat against the wall. CENTRE, dominant and larger than life: the master glassblower, sleeves rolled, cuts the giant bubble free at its narrow neck with great iron shears, and two assistants carry it out through the wide doors into the snow; behind it the squashed vessels begin to round out again. In front of the master a young apprentice with an iron spike, about to stab the bubble, is stopped by the master's boot. RIGHT: a shelf of small glass bubbles stands untouched.
+story:
+في معمل للزّجاج ليلًا، كان الفرن يصبغ الجدران برتقاليًّا، والزّجاج المصهور يتوهّج ذهبًا في أطراف القصبات.
+وفي تلك الليلة نفخت في قصبة حديديّة طويلة فقّاعة من زجاج، ثمّ أبت أن تتوقّف.
+كبرت وكبرت، صافيةً رقيقةً، حتّى ملأت النصف الأيسر من المعمل كلّه، من الأرض إلى العوارض، والنّار ترقص في جدارها.
+ومن خلفها انضغطت الآنية الزجاجيّة الرقيقة على الجدار، مسطّحةً كأوراق مكبوسة في كتاب، لا تجد موضعًا تتنفّس فيه.
+فرفع الصبيّ ميتيا سيخًا من حديد، وصاح: «سأثقبها يا معلّمي، ضربةً واحدةً وينتهي كلّ شيء!»
+لكنّ المعلّم كوندراتي، وقد شمّر عن ساعديه، أوقفه بحذائه الثقيل قبل أن يطعن، وزجره: «لا تطعنها يا أحمق، ستتشظّى علينا جميعًا!»
+ثمّ رفع مقصّه الحديديّ العظيم، وقطع الفقّاعة من عنقها الضيّق قطعةً واحدةً نظيفة.
+فحملها مساعدان وخرجا بها من الباب الواسع إلى الثلج الأزرق، ووراءها أخذت الآنية المضغوطة تستدير من جديد كصدور تأخذ نفسًا عميقًا.
+أمّا عن اليمين فبقي رفّ الفقّاعات الصغيرة ساكنًا لم يمسّه أحد، كلّ فقّاعة في مكانها قانعة بحجمها.
+فأشار كوندراتي إلى الرفّ، ثمّ إلى الباب الّذي خرجت منه العملاقة، وقال لميتيا ساخرًا، كما قال المحقّق للطّالب المغرور:
+quote: «العاديّون يجب أن يعيشوا في الطاعة، وليس لهم الحقّ في أن يتخطّوا القانون، لأنّهم، كما ترى، عاديّون. أمّا غير العاديّين، فلهم الحقّ في أن يرتكبوا كلّ الجرائم، وأن يتخطّوا القانون بكلّ سبيل، لا لشيء إلّا لأنّهم غير عاديّين.»
+source: الجريمة والعقاب
+explanation:
+A giant bulla is an air space in emphysematous lung that occupies at least a third of the hemithorax.
+It compresses the more normal lung around it, which causes progressive breathlessness.
+Surgical excision, a bullectomy, is the treatment of choice for a giant bulla, which is the answer, and the compressed lung can then re-expand.
+A tube thoracostomy is the most dangerous wrong option: a bulla can be mistaken for a pneumothorax, and a tube placed into it can cause a persistent air leak and infection.
+Bronchoscopic drainage is for a lung abscess, not for a bulla.
+Most bullous disease is managed medically, with bronchodilators, physiotherapy and rehabilitation, but a giant bulla should be referred for surgery.
+
+== 151
+# 1 the first ox cart at the town barrier carrying one small, slightly scorched crate and nothing else wrong = a small operable lung cancer, T1bN0
+# 2 a strange round lumpy sack strapped on the cart's right front corner, just noticed by the guards = a right adrenal mass found at staging
+# 3 the town gate standing open behind the barrier, waiting = curative surgery depends on what the mass is
+# 4 the customs officer plunging a long thin hollow iron probe into the sack and drawing out a core of its contents = needle biopsy: safe, sensitive, it decides (ANSWER)
+# 5 a clerk studying the sack from afar through a spyglass = scans (ultrasound, MRI) only look; they do not prove
+# 6 men with crowbars held back from ripping the cart apart = laparoscopy or resection are not the first step
+title: Adrenal mass at staging of operable lung cancer: needle biopsy next
+titleAr: كتلة كظرية عند تصنيف سرطان رئة قابل للجراحة: الخزعة بالإبرة أولًا
+tags: thoracic/lung-cancer d:diagnosis q:next-step l:2
+palette: dusty summer evening amber, ox carts brown, the officer's green uniform, one long steel probe shining
+must: the officer plunges a long thin hollow probe into the round sack and draws out a core of what is inside; a clerk on the steps peers at the sack through a spyglass; men with crowbars are held back
+scene: a customs post at a provincial town gate on a dusty summer evening. A line of ox carts waits at the striped barrier. The first cart carries one small, slightly scorched crate, and nothing else on it is wrong; but strapped on its right front corner is a strange round lumpy sack that the guards have just noticed. CENTRE, dominant and larger than life: the customs officer in a green uniform plunges a long thin hollow steel probe deep into the round sack and draws it out, holding up a core of what is inside. LEFT: a clerk on the customs-house steps studies the sack from afar through a spyglass. RIGHT: men with crowbars, eager to rip the cart apart, are held back by a guard. Behind the barrier the town gate stands open, waiting.
+story:
+في مساء صيف مغبرّ، عند بوّابة مدينة ريفيّة، اصطفّت عربات الثيران أمام حاجز الجمرك المخطّط، والغبار يتوهّج كالكهرمان.
+وكانت العربة الأولى لا تحمل إلّا صندوقًا صغيرًا واحدًا، محترق الأطراف قليلًا، ولم يكن فيها عيب غيره.
+لكنّ الحرّاس لمحوا فجأةً كيسًا غريبًا مستديرًا متكتّلًا، مشدودًا إلى زاويتها الأماميّة اليمنى.
+وخلف الحاجز كانت بوّابة المدينة مفتوحةً تنتظر، كأنّها تأبى أن تغلق في وجه أحد بغير برهان.
+وعن اليسار وقف الكاتب بانكرات على درج دار الجمرك، يتأمّل الكيس من بعيد بمنظاره المقرّب، وقال: «أراه مستديرًا، وأراه متكتّلًا، ولا أرى ما في جوفه!»
+وعن اليمين اندفع رجال بالعتلات الحديديّة، يريدون أن يمزّقوا العربة كلّها، فردّهم حارس شابّ بذراعيه وصاح: «مهلًا يا قوم! ما ذنب العربة كلّها؟»
+ثمّ تقدّم ضابط الجمرك كيريل في بزّته الخضراء، وبيده مسبار طويل رفيع مجوّف من الفولاذ، يلمع في الشمس الغاربة.
+فغرزه في الكيس المستدير عميقًا، ثمّ سحبه ورفعه للنّاس، وفي جوفه لباب ممّا في داخل الكيس، وقال: «هذا هو الجواب، لا المنظار ولا العتلات!»
+ثمّ نظر إلى الرجال الّذين ما زالوا يقبضون على عتلاتهم بأيد ترتجف شوقًا، وقال في نفسه:
+quote: «إنّ صفات الجلّاد كامنة في بذرتها، في كلّ إنسان معاصر تقريبًا.»
+source: مذكرات من البيت الميت
+explanation:
+This patient has a small, operable squamous cell carcinoma, clinical T1bN0, and a right adrenal mass found at staging.
+Many adrenal masses found this way are benign adenomas, so a single mass must not take away the chance of curative surgery without proof.
+Needle biopsy is safe, minimally invasive and sensitive, and it gives a tissue answer, which is the answer.
+Ultrasound and magnetic resonance imaging can suggest whether the mass is benign, but they cannot prove that it is not a metastasis.
+Laparoscopy or adrenal resection are too invasive as a first diagnostic step.
+note: Today PET-CT is usually part of staging and characterises many adrenal masses; a suspicious one still needs tissue proof, usually by needle biopsy, before the patient is denied curative surgery.
+
+== 152
+# 1 a big grey wolf in its den under pine roots at the forest edge, LOWER LEFT = the operable lung primary, T2aN0
+# 2 a single wolf cub that has climbed high into the village church belfry, UPPER RIGHT = a solitary brain metastasis
+# 3 two parties of hunters acting at the same moment: one drags the wolf out of the den, the other lifts the cub from the belfry in a net = resect both the brain metastasis and the lung primary (ANSWER)
+# 4 an old tracker with a lantern walking the snow between forest and village, finding no other tracks = a thorough search for other disease (mediastinoscopy for N2) must be negative first
+# 5 a man below the church waving a smoking censer up at the cub, ignored = radiotherapy is not the choice when both can be removed completely
+title: Operable lung cancer with a solitary brain metastasis: resect both
+titleAr: سرطان رئة قابل للجراحة مع نقيلة دماغية وحيدة: استئصال الاثنين
+tags: thoracic/lung-cancer d:indications q:vignette l:2
+palette: moonlit winter blue snow, black pines, two clusters of orange torchlight
+must: one party of hunters drags the grey wolf from its den while, at the same moment, another on a ladder lifts the single cub out of the belfry in a net; an old tracker with a lantern finds no other tracks
+scene: a snowy village at the edge of a pine forest on a moonlit winter night. LOWER LEFT: a big grey wolf in its den under the roots of a pine at the forest edge. UPPER RIGHT: a single wolf cub has climbed high into the open belfry of the village's wooden church and crouches beside the bell. CENTRE, dominant and larger than life: two parties of hunters with torches act at the same moment: one drags the wolf out of its den with a noose pole, the other, on a long ladder against the belfry, lifts the cub out in a net. In the middle ground an old tracker with a lantern walks the clean snow between the forest and the village, finding no other tracks. Below the church a man waves a smoking censer up at the cub, and nobody heeds him.
+story:
+في ليلة شتويّة مقمرة، على حافّة غابة الصنوبر السوداء، نامت قرية صغيرة تحت الثلج الأزرق.
+وفي الأسفل عن اليسار، تحت جذور صنوبرة عند طرف الغابة، ربض ذئب رماديّ كبير في وجاره، وعيناه تلمعان كجمرتين.
+وفي الأعلى عن اليمين، تسلّق جرو واحد من جرائه إلى برج الأجراس المفتوح في كنيسة القرية الخشبيّة، وجثم إلى جانب الجرس يرتجف.
+وتحت الكنيسة راح القندلفت بارامون يلوّح بمبخرته المدخّنة نحو الجرو ويرتّل: «انزل يا مسكين، انزل على دخان البخور!» فلم يلتفت إليه أحد، ولا الجرو نفسه.
+وكان الشيخ يريمي، قصّاص الأثر والنّقيب القديم في الجيش، يمشي بفانوسه على الثلج النظيف بين الغابة والقرية، يبحث عن أثر آخر.
+ثمّ رجع ورفع فانوسه وقال: «لا أثر غير هذين الاثنين، ولا ذئب ثالث في الثلج!»
+فانقسم الصيّادون فريقين بالمشاعل، وصاح كبيرهم غافريلا: «معًا، في لحظة واحدة، وإلّا أفلت أحدهما منّا!»
+فجرّ الفريق الأوّل الذئب من وجاره بعصًا في رأسها أنشوطة، وفي اللحظة نفسها صعد الفريق الثاني سلّمًا طويلًا إلى البرج، وانتشل الجرو في شبكة.
+فرسم الشيخ يريمي على صدره إشارة الصليب، ونظر إلى الجرس الساكن، وقال قولة نقيب عجوز مثله:
+quote: «إن لم يكن الله موجودًا، فأيّ نقيب أكون أنا إذن؟»
+source: الشياطين
+explanation:
+Here the primary is an operable lung cancer, T2aN0.
+The brain shows a single, solitary metastasis.
+Curative treatment is possible only if both the brain metastasis and the primary tumour can be completely resected, so resection of both is the answer.
+A thorough search for other disease must be negative first, and mediastinoscopy is reasonable, because patients with N2 or N3 nodes are poor candidates.
+Radiotherapy to the brain or the lung is the tempting alternative, but it is not the choice when both lesions can be removed completely.
+The histological type does not change this.
+note: Stereotactic radiosurgery is now often used for a solitary brain metastasis instead of craniotomy; the book's key, resection of both, remains a standard answer when both can be removed completely.
+
+== 153
+# 1 a strong, cheerful Indian farmer in a white turban working on a Volga threshing floor, sheepdogs lying in the straw = an asymptomatic expatriate farmer from dog-and-sheep country
+# 2 a small, perfectly round, clear water-bladder the size of a plum nestled in the sheaf against his chest, a painted 2 = a 2 cm pulmonary hydatid cyst
+# 3 a paper on the post behind him with three red wax seals = Casoni, haemagglutination and Western blot all positive: the diagnosis needs no biopsy
+# 4 his wife dropping small white pellets from a clay jar onto the bladder, which has visibly shrunk, a calendar of many months behind = albendazole, long courses over months (ANSWER)
+# 5 a man with a long awl about to prick the bladder, held back = needle biopsy or puncture is wrong: spillage
+# 6 in the barn a huge bladder as big as a barrel, untouched by pellets, men with pickaxes beside it = large cysts respond poorly to drugs; surgery for those
+title: Small asymptomatic lung hydatid cyst: albendazole
+titleAr: كيسة عدارية رئوية صغيرة بلا أعراض: الألبيندازول
+tags: thoracic/lung-benign d:pharmacology d:indications q:next-step l:2
+palette: late-summer straw gold and Volga blue, a white turban and a saffron sari, one clear little bladder catching the sun
+words: 2
+must: a small clear round water-bladder sits in the sheaf with a painted 2 beside it, visibly shrinking as white pellets fall on it from a clay jar; a calendar of many months hangs behind; a man with an awl is held back
+scene: a threshing floor on a Volga estate near Astrakhan in late-summer sun, sheepdogs lying in the straw. LEFT: a strong, cheerful Indian farmer in a white turban stands holding a sheaf of wheat against his chest; nestled in it is a small, perfectly round, clear water-bladder the size of a plum, a painted 2 beside it. On a post behind him is nailed a paper with three red wax seals. CENTRE, dominant and larger than life: his wife in a saffron sari drops small white pellets from a clay jar onto the little bladder, which has visibly shrunk; behind her hangs a calendar with many months. RIGHT: a man with a long awl, about to prick the bladder, is held back by the farmer's raised arm. In the open barn behind, a huge water-bladder as big as a barrel lies untouched by the pellets, men with pickaxes standing beside it.
+story:
+في أواخر الصيف، على بيدر في ضيعة على نهر الفولغا قرب أستراخان، استلقت كلاب الرعاة في القشّ الذهبيّ تلهث من الشمس.
+وعن اليسار وقف الفلّاح الهنديّ رافي، قويًّا ضاحكًا في عمامته البيضاء، يضمّ إلى صدره حزمةً من القمح.
+وفي الحزمة عند صدره استكنّت كرة صغيرة من ماء صاف، رقيقة الغشاء، مستديرة تمامًا بحجم حبّة البرقوق، وإلى جانبها رسم الرقم اثنان.
+وعلى العمود خلفه ورقة مسمّرة عليها ثلاثة أختام من الشمع الأحمر، فأشار إليها رافي ضاحكًا: «ثلاثة أختام تشهد، فلا حاجة إلى شاهد رابع!»
+وفي الوسط أقبلت زوجته سافيتري في ساريها الزعفرانيّ، تسقط على الكرة الصغيرة حبيبات بيضاء من جرّة من الفخّار، حبّةً بعد حبّة.
+وخلفها يتدلّى تقويم بشهور كثيرة، والكرة تنكمش تحت الحبيبات انكماشًا تراه العين، فقالت له: «صبرًا يا رافي، الشهور أطول من الأيّام، لكنّها تمرّ.»
+وعن اليمين اقترب فيدكا بمخرز طويل، يريد أن يثقب الكرة ليرى ما فيها، فرفع رافي ذراعه في وجهه وصاح: «إيّاك يا فيدكا! إن ثقبتها سال شرّها على البيدر كلّه!»
+وفي الحظيرة المفتوحة خلفهم، رقدت كرة ماء هائلة بحجم البرميل، لم تبلغها الحبيبات وما كانت لتنفعها، وإلى جانبها رجال بالمعاول ينتظرون.
+فنظر رافي إلى زوجته وإلى التقويم الطويل وابتسم، وخطرت له كلمات قرأها عن عاشقين في سيبيريا:
+quote: «سبع سنين، سبع سنين فقط! في أوّل سعادتهما، وفي بعض اللحظات، كانا كلاهما مستعدّين أن ينظرا إلى هذه السنين السبع، كأنّها سبعة أيّام.»
+source: الجريمة والعقاب
+explanation:
+Hydatid disease is caused by the larva of the dog tapeworm Echinococcus granulosus, and it is common where dogs and sheep live together.
+This man has a small 2 cm cyst in the lung and no symptoms.
+The CT and three positive tests, Casoni, haemagglutination and Western blot, make the diagnosis secure, so no biopsy is needed.
+For a small, asymptomatic cyst the book advises medical treatment with albendazole, given in long courses over several months, which is the answer.
+Needle biopsy or puncture of a hydatid cyst is dangerous, because spilled fluid can cause anaphylaxis and seed new cysts.
+Large cysts respond poorly to drugs, and surgery remains the main treatment for them.
+note: Many surgeons would remove even a small lung hydatid cyst, since surgery is the main treatment for lung cysts and drugs can make a lung cyst rupture; the book's key follows the WHO advice on medical treatment for a small, uncomplicated cyst. The Casoni skin test is obsolete.
+
+== 154
+# 1 an empty hollow corner where the upper right room of a log house was pulled down, filled with foul green stagnant water, steaming = an infected pleural space (empyema) after right upper lobectomy
+# 2 an inspector's lantern on the remaining walls: logs sound, no crack, no new rot = no bronchopleural fistula, no recurrence
+# 3 peasants folding a great broad flap of living turf from the meadow behind the house, still rooted along one edge, in through the back window, packing the hollow full = muscle transposition (latissimus dorsi) fills the dead space (ANSWER)
+# 4 the meadow behind the house whole, never cut by a trench = the latissimus is usable only if no posterolateral thoracotomy divided it
+# 5 a carpenter with a raised axe, ready to pull down the whole right half of the house, stopped = completion pneumonectomy is not needed
+# 6 two men about to lever the roof beams down onto the hollow, waved off = thoracoplasty, the old mutilating way
+title: Empyema space after lobectomy without fistula: fill it with a muscle flap
+titleAr: جوف الدبيلة بعد استئصال الفصّ دون ناسور: املأه بسديلة عضلية
+tags: thoracic/pleura d:complications d:technique q:vignette l:3
+palette: wet autumn greys and rain-dark logs, foul green water, one great flap of fresh living turf bright green
+must: the turf flap is still rooted to the meadow along one edge as it is folded in through the window and packs the hollow full; the lantern shows the remaining log walls sound, without any crack
+scene: a log house in a village on a wet autumn day, seen cut open. Its UPPER RIGHT room has been pulled down, leaving an empty hollow corner, and the hollow has filled with foul green stagnant water, steaming, flies buzzing over it. An inspector holds a lantern to the remaining walls: the logs are sound, with no crack and no new rot. CENTRE, dominant and larger than life: peasants peel a great broad flap of living green turf from the meadow behind the house, still rooted to the ground along one edge, and fold it in through the back window, packing the hollow so full that no gap remains; the meadow behind is whole, never cut by a trench. LEFT: a carpenter with a raised axe, ready to pull down the whole right half of the house, is stopped. On the roof two men about to lever the roof beams down onto the hollow are waved off.
+story:
+في يوم خريفيّ مبتلّ، في قرية تحت المطر، وقف بيت من جذوع الخشب قد اسودّت أخشابه من البلل، وقد انشقّ جنبه فبان ما في داخله.
+كانت غرفته العليا عن اليمين قد هدمت، فبقي مكانها ركن أجوف فارغ، امتلأ بماء أخضر آسن يتصاعد منه البخار، والذّباب يطنّ فوقه.
+فجاء المفتّش سيميون بفانوسه، وطاف به على الجدران الباقية جذعًا جذعًا، ثمّ قال: «الخشب سليم، لا شقّ فيه ولا عفن جديد!»
+وعن اليسار رفع النجّار أرتيمي فأسه عاليًا وصاح: «نهدم النصف الأيمن كلّه، ونستريح من هذا الركن إلى الأبد!» فأمسك سيميون بذراعه، فتوقّفت الفأس في الهواء.
+وعلى السطح همّ رجلان أن يسقطا عوارض السقف بعتلتيهما على الركن الأجوف، فلوّح لهما سيميون أن انزلا.
+ثمّ خرج الفلّاحون إلى المرج خلف البيت، المرج السليم الّذي لم يشقّه خندق قطّ، وسلخوا منه رقعةً عريضةً عظيمةً من العشب الحيّ.
+وتركوها متّصلةً بالأرض من طرف واحد بجذورها، وطووها من النافذة الخلفيّة إلى الركن الأجوف، وحشوه بها حتّى لم تبق فيه فرجة واحدة.
+وكان شيخهم دانيلا يدوس العشب في مكانه ويصيح: «احشوه يا أولادي، احشوه حتّى لا يبقى للماء موضع!»
+فرفع سيميون فانوسه على البيت الّذي صار نصفه خشبًا ونصفه مرجًا حيًّا، وتذكّر كلمات قرأها عن بيت آخر:
+quote: «هنا كان عالم خاصّ، لا يشبه شيئًا آخر؛ هنا كانت قوانينه الخاصّة، وأزياؤه، وأخلاقه وعاداته، وبيت ميّت وهو حيّ، وحياة لا كمثلها في مكان، وأناس من طراز خاصّ.»
+source: مذكرات من البيت الميت
+explanation:
+Five months after a right upper lobectomy, fever, cough and weight loss with a residual space mean a chronic empyema, an infected pleural space.
+Bronchoscopy shows no bronchopleural fistula and no recurrence, so the remaining lung and bronchus are sound.
+The best definitive treatment is muscle transposition, which is the answer: an extrathoracic muscle is brought into the cavity, and enough of it must be used that no dead space remains.
+The latissimus dorsi is the largest and most reliable flap, provided it was not divided at a posterolateral thoracotomy.
+Completion pneumonectomy is not needed when there is no fistula and no recurrence.
+Thoracoplasty collapses the chest wall onto the space, an old and mutilating operation now largely replaced by muscle flaps.
+After a lobectomy the remaining lung often cannot fill the space, so decortication alone is unlikely to close it, and permanent drainage is not a definitive cure.
+
+== 155
+# 1 the thick wooden floor between the two storeys of an inn, with one opening where the stair goes up = the diaphragm and its hiatus
+# 2 the old porter standing exactly at his usual post at the foot of the stair, on his painted mark, his little door shut, unmoved = the lower oesophageal sphincter stays at its normal position (ANSWER)
+# 3 a big brown dancing bear in a sackcloth hood squeezing up through the same opening beside him, alongside the stair = the gastric fundus rolling up beside the oesophagus, in a true hernia sac
+# 4 guests upstairs fleeing, a supper table tipped over = symptoms from the stomach in the chest
+# 5 through the window, the inn across the street, whose porter is being carried bodily up his own stairs by a crowd = a sliding hernia: there the junction moves above its normal place
+title: True paraoesophageal hernia: the lower oesophageal sphincter stays in its normal place
+titleAr: الفتق جانب المريء الحقيقي: تبقى المصرّة المريئية السفلية في موضعها الطبيعي
+tags: thoracic/oesophagus d:diagnosis d:physiology q:recall l:2 x:trap
+palette: spring fair mud and sunshine, warm pine boards, the porter's red shirt, the bear dark brown
+must: the porter stands calm on his painted mark at the foot of the stair, not moved at all, while the bear squeezes up past him through the same opening; across the street another porter is carried up his stairs
+scene: a two-storey wooden inn at a spring fair, mud and sunshine outside, the house seen cut open. A thick plank floor divides the ground floor from the upper room, with one opening in it where the stair goes up. CENTRE FOREGROUND, dominant and larger than life: the inn's old porter, a huge grey-bearded man in a red shirt, stands exactly at his usual post at the foot of the stair, on a painted mark on the floor, his little door shut behind him, calm and unmoved. Right beside him, through the same opening, a big brown dancing bear in a sackcloth hood squeezes UP into the upper room, rolling past him alongside the stair. UPPER: in the upper room guests flee and a supper table tips over. Through the window, in the inn across the street, a crowd is carrying another porter bodily up his own stairs.
+story:
+في سوق الربيع، بين الوحل والشّمس، قام نزل خشبيّ من طابقين، تفصل بينهما أرض غليظة من ألواح الصنوبر، فيها فتحة واحدة يصعد منها الدرج.
+وعند أسفل الدرج، في موضعه الّذي لم يغيّره منذ عرفه الناس، وقف البوّاب العجوز نكيفور، عملاقًا أشيب اللحية في قميص أحمر.
+كانت قدماه على علامة مدهونة في الأرض، وبابه الصغير مغلق خلفه، ووجهه هادئ كوجه قدّيس في أيقونة.
+وفجأةً، انحشر إلى جانبه تمامًا، في الفتحة نفسها، دبّ بنّيّ راقص ضخم في قلنسوة من الخيش، يتدحرج صاعدًا بمحاذاة الدرج إلى الغرفة العليا.
+فاحتكّ فروه بكتف نكيفور، ولم يتزحزح البوّاب عن علامته قيد إصبع، بل قال للدّبّ بهدوء: «اصعد إن شئت يا أخي، أمّا أنا فمكاني هنا.»
+وفي الغرفة العليا فرّ الضيوف صارخين، وانقلبت مائدة العشاء بصحونها وشموعها، وصاح تاجر سمين منهم: «دبّ في الطابق الأعلى، دبّ على عشائنا!»
+ومن النافذة بدا النزل المقابل عبر الشارع، حيث حمل جمع من الناس بوّابه فيلات على أكتافهم، وصعدوا به درجه هو، وهو يركل الهواء.
+وكان فيلات يصيح من فوق الأكتاف: «أنزلوني إلى مكاني، أنزلوني إلى موضعي عند الباب!»
+فهزّ نكيفور رأسه الأشيب، وهو ثابت على علامته بين الدبّ الصاعد والبوّاب المحمول، وقال:
+quote: «هذه مدينة أنصاف المجانين.»
+source: الجريمة والعقاب
+explanation:
+A true paraoesophageal, or rolling, hernia is an uncommon type of hiatal hernia.
+In it the gastro-oesophageal junction and the lower oesophageal sphincter stay at their normal position, which is the answer.
+The gastric fundus rolls up beside the oesophagus into the chest, inside a true hernia sac of peritoneum.
+Symptoms come from the stomach in the chest, such as pain and fullness after meals, and the stomach can twist or bleed.
+In a sliding hernia, by contrast, the junction itself moves above the diaphragm, so above the normal position is the tempting wrong option.
+note: In practice most paraoesophageal hernias are mixed, type three, in which the junction has also moved up; the question asks about the pure type, type two, with the junction in its normal place.
+
