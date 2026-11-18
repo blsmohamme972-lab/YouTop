@@ -35,8 +35,14 @@ Updated 2026-11-17 (evening). Whoever works on YouTop next: read `CLAUDE.md`, th
   and 8 warnings, all fixed before the voice: quotation lead-ins of 148 (cut before "I killed") and 149 ("come
   forth to me"), unattributed speech in 160, 161, 165, explanation of 154, 158 (the left main bronchus crosses in
   front) and 159 (why lymph node metastases is tempting). `voice.py check`: every sentence heard.
-- Because of the usage limit, the round after this one starts with 166-185.
-- **Pictures still missing: 23-30, 46-75, 106-165.**
+- **Round 4 (2026-11-18, 04:43 to about 07:15 UTC): lessons 166-185 published** with text and voice (work files
+  `batch-0166-0175/`, `batch-0176-0185/`); figure of 173 published. Checkers: 1 error (172: "statins lower LDL more
+  than any other class" removed) and 13 warnings; fixed: 170's unit, 172's candle that is not painted, 177 vowel,
+  180 "2,3-DPG" read aloud, 182, 184, 185 Arabic. Left on purpose: quotations of 170, 172, 173 come from passages
+  near earlier quotations of the same chapters (different sentences); 180's cynical line in a kind mouth; a few
+  stories mention a voice that is not painted (166 Prokhor through the speaking tube). `voice.py check`: all heard.
+- **Next round: lessons 186-200 (the last fifteen of the book).**
+- **Pictures still missing: 23-30, 46-75, 106-185.**
 - Lesson learned this round: never run `voice.py make` and `batch.py build` on the same chapter at the same
   time; the second one to write the chapter file overwrites the other's changes.
 
