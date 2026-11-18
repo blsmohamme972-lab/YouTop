@@ -1,0 +1,342 @@
+book: shahzad-2015
+# Lessons 176-185. Written "table first".
+
+== 176
+# 1 a sugar refinery buried in sugar, two identical great syrup pipelines clogged solid with crystallised sugar = diabetic patients with left main and/or three-vessel disease
+# 2 LEFT, a crew forcing small shining tin rings into the clogged pipe; RIGHT, a crew laying a new pipe round the clog = PCI with paclitaxel-eluting stents against CABG
+# 3 a board painted 5 over the refinery gate = the five-year results
+# 4 by the ringed pipe only, workmen coming back again and again with ladders, a growing heap of extra rings = with PCI repeat revascularisation and MACCE were clearly higher, not similar
+# 5 a great brass balance between the crews, the same three heavy black weights on each pan (a coffin-shaped one, a cracked red one, a zig-zag one like lightning), hanging perfectly level = the composite of death, stroke and MI was similar with PCI and CABG; neither stroke nor MI alone differed in diabetics (ANSWER)
+title: SYNTAX, diabetics at five years: death, stroke and MI similar with PCI and CABG
+titleAr: تجربة SYNTAX عند السكّريين بعد خمس سنوات: الوفاة والسكتة والاحتشاء متشابهة بين التوسيع والمجازات
+tags: cardiac/coronary d:evidence q:recall l:3
+palette: winter white sugar dust, dark red brick, steam, a gleaming brass balance, shining tin
+words: 5
+must: the balance hangs perfectly level with the same three black weights on each pan; the returning ladders and the heap of extra rings are only on the tin-ring side
+scene: a sugar refinery in the Kiev province on a winter day, everything in its yard dusted white with sugar, sugar-loaves stacked high, a board painted 5 over the gate. Two identical great syrup pipelines run across the yard, both clogged solid with crystallised sugar. LEFT: one crew forces small shining tin rings into the clogged pipe, and beside it workmen keep coming back with ladders while a heap of extra rings grows. RIGHT: the other crew lays a new pipe round the clog. CENTRE, dominant and larger than life: between the two crews stands a great brass balance; on each of its pans sits the same set of three heavy black weights, a coffin-shaped one, a cracked red one and a zig-zag one like lightning, and the balance hangs perfectly level, the foremen of both crews staring at it.
+story:
+في يوم شتويّ من أيّام ريف كييف، كان فناء مصنع السكّر كلّه مغبّرًا بسكّر أبيض كأنّ الثلج نفسه قد حلا، وأقماع السكّر مكدّسة حتّى السطوح.
+وفوق البوّابة لوح طلي عليه رقم واحد: خمسة، فقد مرّت خمس سنين على رهان عقده رئيسا العمّال.
+يومها انسدّ أنبوبا الشراب العظيمان التوأمان، يعبران الفناء جنبًا إلى جنب، بسكّر متبلّر صلب كالحجر.
+فعلى اليسار، راح رئيس العمّال بروخور وفرقته يدسّون في الأنبوب المسدود حلقات صغيرةً من صفيح لامع، حلقةً بعد حلقة.
+وعلى اليمين، مدّ رئيس العمّال الآخر سافيلي وفرقته أنبوبًا جديدًا يلتفّ حول الانسداد ولا يمسّه.
+لكنّ عمّال بروخور ظلّوا يعودون بالسّلالم مرّةً بعد مرّة، وكومة الحلقات الزائدة عند أنبوبهم تعلو شتاءً بعد شتاء.
+فضحك سافيلي وقال له: «سلالمك لا تنقطع يا بروخور، فلنسأل الميزان إذن من منّا الخاسر!»
+وفي وسط الفناء، أعظم من كلّ ما حوله، قام ميزان نحاسيّ هائل، في كلّ كفّة من كفّتيه الأثقال الثلاثة نفسها: ثقل أسود على هيئة تابوت، وثقل أحمر مشقوق، وثقل أسود متعرّج كالبرق.
+فوقف الرجلان يحدّقان فيه طويلًا، والميزان معلّق مستو تمامًا، لا تميل كفّة منه شعرةً واحدة.
+فخلع بروخور قبّعته أمام الميزان المستوي، وقال لصاحبه بصوت خفيض:
+quote: «اذكر خاصّةً أنّك لا تستطيع أن تكون قاضيًا على أحد.»
+source: الإخوة كارامازوف
+explanation:
+In the SYNTAX trial, patients with left main or three-vessel coronary disease were randomised to PCI or CABG, and this subgroup analysis looked at the 452 patients with diabetes.
+PCI was done with paclitaxel-eluting stents, a first-generation drug-eluting stent, and was compared with CABG.
+The results asked about are those at five years.
+In diabetic patients, major adverse cardiac or cerebrovascular events and repeat revascularisation were both clearly higher after PCI, so the options calling them similar are wrong.
+The composite safety end point of death from any cause, stroke and myocardial infarction was similar after PCI and CABG, which is the answer.
+Taken alone, neither stroke nor myocardial infarction differed significantly in diabetics, so a lower stroke rate or a higher infarction rate with PCI is also wrong; more infarctions after PCI were seen only in patients without diabetes.
+note: A subgroup of 452 patients was probably too small to show a difference in death, stroke and infarction. The FREEDOM trial, a randomised trial in diabetics with multivessel disease, later found fewer deaths and infarctions after CABG, which remains the usual recommendation.
+
+== 177
+# 1 a Tula samovar workshop drowned in sugar, two rows of big brass samovars with their pipes clogged = diabetic patients with multivessel coronary disease
+# 2 LEFT, a master forcing small tin rings into the clogged pipes; RIGHT, another soldering a new pipe round each clog = PCI with drug-eluting stents against CABG, all on full medical therapy
+# 3 the guild elder holding high a heavy iron chain of three great links (one black, one red and cracked, one bent zig-zag like lightning), the only thing his clerk counts = the primary outcome: a composite of death from any cause, nonfatal MI or nonfatal stroke (ANSWER)
+# 4 a much higher heap of fallen chains under the tin-ring row, black and red links most of all = the primary outcome, death and MI were more frequent after PCI
+# 5 under the soldered row a smaller heap, but in it a little pile of zig-zag links higher than on the other side = stroke was more frequent after CABG
+title: FREEDOM: the primary outcome was death, nonfatal MI or nonfatal stroke
+titleAr: تجربة FREEDOM: النتيجة الأولية مركّبة من الوفاة والاحتشاء غير المميت والسكتة غير المميتة
+tags: cardiac/coronary d:evidence q:recall l:2
+palette: winter morning, polished brass and copper glow, white lump sugar, a black iron chain with one red link
+must: the chain the elder holds high has exactly three links, one black, one red and cracked, one zig-zag; the heap of fallen chains is far higher under the tin-ring row, but the zig-zag links pile higher on the soldered side
+scene: a samovar workshop in Tula on a winter morning, sugar-loaves and lump sugar everywhere, the air thick with sweet steam. Two rows of big brass samovars stand with their inner pipes clogged with sugar. LEFT: one master forces small shining tin rings into the clogged pipes. RIGHT: another master solders a new pipe round each clog. CENTRE, dominant and larger than life: the guild elder, a towering grey-bearded man, holds high above his head a heavy iron chain of three great links, one black, one red and cracked, one bent zig-zag like lightning, while his clerk writes down nothing else. On the floor beneath the tin-ring row lies a much higher heap of such fallen chains, black and red links most of all; beneath the soldered row lies a smaller heap, but in it a little pile of zig-zag links stands higher than on the tin-ring side.
+story:
+في صباح شتويّ في تولا، في مصنع للسّماورات، كان السكّر في كلّ مكان أقماعًا وكتلًا بيضاء، والهواء غليظ ببخار حلو يلتصق بالشّفاه.
+وفي صفّين طويلين وقفت سماورات نحاسيّة كبيرة، قد انسدّت أنابيبها في جوفها بالسّكّر، فلا تغلي ولا تصفّر.
+فعلى اليسار راح المعلّم غيراسيم يدسّ في الأنابيب المسدودة حلقات صغيرةً من صفيح لامع، وعلى اليمين راح المعلّم تروفيم يلحم حول كلّ انسداد أنبوبًا جديدًا.
+وفي الوسط، أطول من الجميع، وقف شيخ النقابة أفاناسي إيليتش، عملاق رماديّ اللحية، يرفع فوق رأسه سلسلةً حديديّةً ثقيلةً من ثلاث حلقات عظيمة: واحدة سوداء، وأخرى حمراء مشقوقة، وثالثة معوجّة متعرّجة كالبرق.
+ثمّ قال لكاتبه الشابّ بيتروشا بصوت يرجّ النوافذ: «هذه وحدها تحصيها يا بنيّ، ولا تكتب شيئًا سواها!»
+فلم يكتب بيتروشا غيرها، وكلّما هربت عيناه إلى السماورات وبخارها، عادتا إلى السلسلة رغمًا عنه.
+وعلى الأرض تحت صفّ الحلقات الصفيحيّة كومة من السلاسل الساقطة، أعلى بكثير ممّا تحت الصفّ الملحوم، وأكثر حلقاتها سود وحمر.
+أمّا تحت الصفّ الملحوم فكومة أصغر، إلّا أنّ فيها كدسًا صغيرًا من الحلقات المتعرّجة كالبرق، أعلى ممّا عند جارها.
+فضرب غيراسيم كفًّا بكفّ وقال: «كومتي أعلى يا تروفيم، لكنّ برقك أنت أكثر!»
+فضحك الشيخ في لحيته، وقال للكاتب الّذي ما زالت عيناه تعودان إلى السلسلة:
+quote: «جرّب أن تفرض على نفسك هذه المهمّة: ألّا تتذكّر الدبّ الأبيض، وسترى أنّ هذا الملعون سيخطر لك كلّ دقيقة.»
+source: ملاحظات شتوية عن انطباعات صيفية
+explanation:
+FREEDOM randomised about 1900 patients with diabetes and multivessel coronary disease to PCI with drug-eluting stents or to CABG.
+Every patient received current recommended medical therapy for cholesterol, blood pressure and glycated haemoglobin.
+The primary outcome was a composite of death from any cause, nonfatal myocardial infarction or nonfatal stroke, which is the answer.
+The primary outcome occurred more often after PCI, in 26.6 against 18.7 per cent at five years, so it was not more frequent after CABG.
+The benefit of CABG came from fewer myocardial infarctions and fewer deaths from any cause, so infarction was not higher after CABG and death rates were not similar.
+Stroke was the one component that was more frequent after CABG, 5.2 against 2.4 per cent at five years, so stroke rates were not similar either.
+
+== 178
+# 1 two identical old almshouses with their front doors rusted almost shut, old masons with picks refusing to break the walls = severe aortic stenosis in patients unfit for surgical valve replacement (PARTNER-B)
+# 2 LEFT house: a caretaker only dripping oil on the rusted hinges = standard therapy
+# 3 a black cart at the left house's gate with a board painted 60 = risk of death 60% a year with standard therapy (not 90%)
+# 4 the long lane winding up from the foot of the hill, by which the locksmith came = the transfemoral route, from the groin
+# 5 RIGHT house: the locksmith unfolding a new folding iron frame inside the old jammed doorway, the old people walking out into the sun, a small black cart at its gate with a board painted 20 = transfemoral TAVR cut the risk of death to 20% a year (ANSWER)
+title: PARTNER-B: transfemoral TAVR cut the risk of death from 60% to 20% a year
+titleAr: تجربة PARTNER-B: خفّض زرع الصمام الأبهري عبر الفخذ خطر الوفاة من 60٪ إلى 20٪ في السنة
+tags: cardiac/aortic-valve d:evidence q:recall l:3
+palette: low winter sun, blue snow, weathered grey timber, rust red, one bright new iron frame
+words: 60, 20
+must: the black cart at the oiled house bears 60; the locksmith unfolds the new iron frame inside the old jammed doorway of the other house, whose smaller cart bears 20; the lane he came by winds up from the foot of the hill
+scene: two identical old wooden almshouses side by side on a snowy hill in a provincial town, low winter sun. Their front doors have rusted almost shut, and frail old people peer out through the narrow gaps; old masons with picks stand by and shake their heads, refusing to break the walls. LEFT house: a caretaker only drips oil on the rusted hinges, and a black cart waits at its gate with a board painted 60. A long lane winds up the hill from its foot at the bottom of the picture to the right house. CENTRE-RIGHT, dominant and larger than life: at the right house a locksmith, who has come all the way up that long lane, unfolds a new folding iron door-frame inside the old jammed doorway, pushing the rusted leaves aside, and the old people walk out into the sun; the small black cart at this gate bears a board painted 20.
+story:
+على تلّة مكسوّة بالثّلج في بلدة من بلدات الأقاليم، تحت شمس شتاء واطئة، قام ملجآن خشبيّان قديمان للعجزة، توأمان جنبًا إلى جنب.
+وقد صدئ باباهما حتّى كادا ينغلقان، فلا يطلّ الشيوخ الواهنون إلّا من شقوق ضيّقة، كالأسرى خلف القضبان.
+ووقف البنّاؤون الشيوخ بمعاولهم يهزّون رؤوسهم، وقال كبيرهم يرمولاي: «لن نهدم جدارًا على هؤلاء، فالجدار أقوى منهم وأبقى!»
+فأمّا الملجأ الأيسر، فاكتفى حارسه لوكا بأن يقطّر الزيت على المفاصل الصدئة، قطرةً بعد قطرة، والباب لا يتحرّك شعرة.
+وعند بوّابته عربة سوداء تنتظر، عليها لوح كتب فيه: ستّون.
+وأمّا الملجأ الأيمن، فقد صعد إليه القفّال إغنات، في درب طويل يتلوّى من سفح التلّة في أسفل البلدة.
+ثمّ نشر في المدخل القديم المحشور إطار باب حديديًّا جديدًا ينطوي وينبسط، ودفع به المصراعين الصدئين جانبًا كمن يزيح ستارة.
+فخرج الشيوخ إلى الشمس يطرفون، وصاحت العجوز مارفا وهي تتشبّث بكمّه: «يا بنيّ، لقد نسيت أنّ للشّمس دفئًا!»
+وعند هذه البوّابة عربة سوداء أصغر، عليها لوح كتب فيه: عشرون، فنظرت إليها مارفا ولم تخف.
+ثمّ رفعت وجهها المتغضّن إلى الشمس، وقالت للقفّال:
+quote: «الجنّة مخبوءة في كلّ واحد منّا، وها هي الآن كامنة فيّ أنا أيضًا، ولو شئت لحلّت لي غدًا حقًّا، وبقيت لي العمر كلّه.»
+source: الإخوة كارامازوف
+explanation:
+The PARTNER trial studied severe aortic stenosis in patients at high surgical risk or unfit for surgery.
+Cohort A compared TAVR with surgical valve replacement in high-risk patients; cohort B, the one in the answer, compared TAVR with standard therapy in patients who could not have surgery.
+Standard therapy was medical treatment, often with balloon aortic valvuloplasty, which does not relieve the stenosis for long.
+With standard therapy the risk of death was about 60 per cent a year, not 90 per cent.
+In cohort B the valve was placed by the transfemoral route, through the femoral artery in the groin.
+Transfemoral TAVR reduced the risk of death to about 20 per cent a year, which is the answer.
+In cohort A early survival was better after transfemoral TAVR, not after surgery, and by two years survival was similar.
+note: The figures of 60 and 20 per cent a year are annual risks from a later analysis of when and how patients died. The main report of cohort B gave death from any cause at one year as about 51 per cent with standard therapy against about 31 per cent with transfemoral TAVR.
+
+== 179
+# 1 the whole broad river pouring over a paper mill's huge waterwheel = the pulmonary circulation: the whole flow passes the alveoli
+# 2 the wheel's thick wooden spokes and axle, dry and cracking in the sun = the conducting airways, which need their own supply
+# 3 the miller's daughter directing a tiny thread of water from a little tank painted 2 onto the spokes and axle, the wood darkening where it falls = the bronchial circulation receives about 2% of the cardiac output (ANSWER)
+# 4 the thin pipe feeding that tank from the miller's house high up the hill, not from the river = bronchial arteries come from the aorta and its branches: systemic, from the left heart
+# 5 the used trickle dripping off the spokes back into the race below the wheel, darkening it a little = about two-thirds of bronchial blood drains into the pulmonary veins
+title: The bronchial circulation receives about 2% of the cardiac output
+titleAr: يتلقّى الدوران القصبي نحو 2٪ من النتاج القلبي
+tags: thoracic/foundations d:anatomy d:physiology q:numbers l:2
+palette: spring river silver and white foam, dark wet timber, fresh green banks, one thin bright thread of water
+words: 2
+must: the thin thread of water comes from the little tank painted 2, fed by a pipe from the house up the hill and not from the river; the whole river pours over the wheel while only that thread wets its spokes
+scene: a paper mill on a fast river in spring, a huge wooden waterwheel turning. LEFT and CENTRE BACK: the whole broad river pours over the great wheel in a white roar. The wheel's thick wooden spokes and axle are dry and cracking in the sun. CENTRE, dominant and larger than life: the miller's daughter stands on a beam with a small tin spout and directs a tiny thread of water from a little tank, painted 2, onto the spokes and the axle, and the cracked wood darkens and swells where it falls. UPPER RIGHT: the little tank is fed by a thin pipe running down from the miller's house high up the hill, not from the river. Below the wheel the used trickle drips off the spokes back into the race, darkening it a little.
+story:
+في ربيع تذوب فيه الثلوج وتجنّ المياه، كانت عجلة مطحنة الورق الخشبيّة العظيمة تدور على النهر ليل نهار.
+كان النهر العريض كلّه ينصبّ عليها في هدير أبيض، من يسارها ومن خلفها، كأنّ الربيع كلّه قد انكبّ على عجلة واحدة.
+ومع ذلك كانت أذرعها الخشبيّة الغليظة ومحورها جافّةً تتشقّق في الشمس، فالماء يضرب أطرافها ولا يبلغ قلبها.
+وكانت دونيا، ابنة الطحّان، وحدها تعرف هذا، فوقفت على عارضة فوق الهدير، في يدها ميزاب صغير من صفيح.
+ومن خزّان صغير طلي عليه رقم: اثنان، أرسلت خيطًا رفيعًا من الماء على الأذرع والمحور، فاسودّ الخشب المشقوق وانتفخ حيث يسقط.
+ولم يكن الخزّان يشرب من النهر، بل من أنبوب رفيع ينحدر إليه من بيت أبيها، عاليًا على التلّ إلى اليمين.
+فقالت دونيا للنّهر الهادر ضاحكة: «أنت تديرها كلّها أيّها النهر، ولا تروي عطشها بقطرة!»
+ثمّ قطر الماء المستعمل عن الأذرع إلى المجرى تحت العجلة، فأدكنه قليلًا، كأنّ دمعةً اختلطت بنهر صاف.
+ولم يرها أحد، ولم يشكرها أحد، فمسحت يديها في مئزرها وقالت في نفسها:
+quote: «افهموني: إنّ التضحية بالنّفس كلّها في سبيل الجميع، طوعًا، عن وعي تامّ، دون أن يكره عليها أحد، هي في رأيي علامة أسمى ما تبلغه الشخصيّة من نموّ.»
+source: ملاحظات شتوية عن انطباعات صيفية
+explanation:
+The lung has two circulations: the pulmonary circulation carries the whole output of the right heart past the alveoli for gas exchange.
+The conducting airways and the supporting tissues of the lung need a nutrient supply of their own.
+That is the bronchial circulation, and it receives only about 2 per cent of the cardiac output, which is the answer.
+It is systemic, fed by the left heart: the bronchial arteries arise from the aorta or its branches, such as the intercostal, subclavian or internal mammary arteries, and their pressures are systemic.
+About a third of bronchial venous blood returns to the right atrium through the azygos and hemiazygos veins, but about two-thirds drains into the pulmonary veins.
+That poorly oxygenated blood joins the freshly oxygenated blood going to the left heart, as part of the normal physiological shunt.
+Larger figures such as 12 or 20 per cent are wrong, although the bronchial arteries can enlarge greatly in chronic inflammatory lung disease.
+
+== 180
+# 1 a stout pie-seller with a deep basket of hot steaming pies = haemoglobin carrying oxygen
+# 2 LEFT: idle gentlemen in furs standing shivering and calm by the frosty fence, the seller clutching her basket tight and giving them nothing = cold, alkalosis, low PCO2 and low 2,3-DPG raise the affinity: the curve shifts left, oxygen is held
+# 3 RIGHT, larger than life: a young skater who has just raced, red-faced, panting and sweating, the seller flinging pies to him freely = exercise shifts the curve to the right: oxygen is let go (ANSWER)
+# 4 the clouds of hot breath and steam round the racer = the heat, carbon dioxide and acid of working muscle
+# 5 a big S-shaped curve carved by skate blades in the ice, and a second identical S carved further to the right beside the racer = the sigmoid curve and its shift to the right
+title: Exercise shifts the oxygen-haemoglobin curve to the right
+titleAr: الجهد يزيح منحنى تفارق الأكسجين عن الهيموغلوبين إلى اليمين
+tags: thoracic/foundations d:physiology q:recall l:1 x:high-yield
+palette: frosty blue-white afternoon, rosy cheeks, steaming golden pies, red flags
+must: the seller clutches her basket tight before the calm gentlemen in furs but flings pies freely to the steaming racer; the second S curve on the ice is carved further to the right, beside the racer
+scene: a skating rink on a frozen Moscow pond on a frosty afternoon, red flags and a band pavilion. CENTRE BACK: a stout pie-seller in a shawl with a deep basket of hot steaming pies. LEFT: a group of idle gentlemen in furs stand shivering and calm by the frosty fence; she clutches her basket tight to herself and gives them nothing. RIGHT, dominant and larger than life: a young skater who has just won a race, red-faced, panting and sweating, wrapped in clouds of hot breath and steam; the pie-seller flings pies to him freely and he catches them. On the ice skate blades have carved a big S-shaped curve, and beside the racer a second, identical S is carved shifted further to the RIGHT.
+story:
+في عصر قارس على بركة متجمّدة في موسكو، رفرفت الرايات الحمر فوق حلبة التزلّج، وعزفت الفرقة في سرادقها.
+وفي وسط الحلبة من خلف، وقفت بائعة الفطائر ماتريونا، بدينةً ملفوفةً في شالها، على ذراعها سلّة عميقة من الفطائر الساخنة يتصاعد منها البخار.
+وعلى اليسار، عند السياج المكسوّ بالصّقيع، وقف سادة عاطلون في فرائهم، يرتجفون من البرد في هدوء وكسل.
+فمدّ إليها أحدهم قفّازه وقال متثائبًا: «هاتي فطيرةً يا امرأة، فنحن نتجمّد هنا منذ ساعة!»
+فضمّت ماتريونا سلّتها إلى صدرها ضمًّا شديدًا، ولم تعطهم شيئًا.
+وعلى اليمين، أكبر من الجميع، توقّف سيريوجا، الفتى المتزلّج الّذي فاز بالسّباق لتوّه، أحمر الوجه، يلهث ويتصبّب عرقًا، ملفوفًا في سحب من أنفاسه الحارّة وبخار جسده.
+فرمت إليه ماتريونا الفطائر واحدةً بعد واحدة بلا حساب، فالتقطها في الهواء وصاح: «بارك الله يديك يا خالة، فأنا أحترق جوعًا!»
+وعلى الجليد حفرت النصال خطًّا كبيرًا ينعطف مرّتين كالأفعى، وإلى جانب الفتى خطًّا ثانيًا مثله تمامًا، قد انزاح أبعد نحو اليمين.
+فالتفتت ماتريونا إلى السادة في فرائهم، ثمّ إلى الفتى يلتهم فطائره، وقالت:
+quote: «أن تحبّ قريبك ولا تحتقره، أمر مستحيل.»
+source: المراهق
+explanation:
+Haemoglobin carries oxygen and binds it more or less tightly depending on conditions around it.
+Cold, acute alkalosis, a fall in carbon dioxide tension and a fall in two three diphosphoglycerate all raise its affinity for oxygen and shift the curve to the left, so oxygen is held: these are the four wrong options.
+Exercise shifts the curve to the right, which is the answer, so haemoglobin gives up its oxygen more easily to working muscle.
+Working muscle is warmer and produces carbon dioxide and acid; the effect of acid and carbon dioxide on the curve is called the Bohr effect.
+The curve is sigmoid, flat at the high oxygen tensions of the lung and steep at those of the tissues, so a shift to the right releases much more oxygen for the same fall in tension.
+
+== 181
+# 1 the low starting platform of a small roller ride, painted 15 = mean pulmonary artery pressure about 15 mm Hg
+# 2 the landing at the bottom of the track, painted 5 = left atrial pressure about 5 mm Hg
+# 3 the gentle drop between them with a big 10 painted on the track, a carriage of laughing ladies gliding all the way = the pulmonary driving pressure is about 10 mm Hg (ANSWER)
+# 4 the track long, wide, smooth and well greased, so that the small drop is enough = low pulmonary vascular resistance
+# 5 far behind, a towering roller mountain many times higher, its carriage plunging down a sheer drop = the systemic driving pressure, nearly 100 mm Hg
+title: The driving pressure of the pulmonary circulation is about 10 mm Hg
+titleAr: ضغط الدفع في الدوران الرئوي نحو 10 ملم زئبقي
+tags: thoracic/foundations d:physiology q:numbers l:2
+palette: summer dusk violet, coloured paper lanterns, pale pine track, the ladies' white dresses
+words: 15, 5, 10
+must: the carriage glides down the gentle track from the platform painted 15 to the landing painted 5, with the big 10 painted on the track between them; the towering ride stays far behind, unlabelled
+scene: a summer pleasure garden in Petersburg at dusk, coloured paper lanterns in the trees. CENTRE, dominant and larger than life: a small, gentle wooden roller ride: a carriage of laughing ladies in white dresses rolls off a low starting platform painted 15 down a long, wide, smooth, gently sloping track to a landing painted 5, gliding easily all the way; a big 10 is painted on the side of the track between them. BACKGROUND, far behind: a towering wooden roller mountain many times higher, its carriage plunging down a sheer drop while its riders scream.
+story:
+في غسق صيف بنفسجيّ في حديقة ملاه ببطرسبورغ، تأرجحت الفوانيس الورقيّة الملوّنة بين الأشجار كثمار من نار.
+وفي وسطها، أكبر من كلّ ما فيها، منزلق خشبيّ صغير وديع، تنساب عربته على سكّة هيّنة الانحدار.
+وقد ركبت العربة سيّدات ضاحكات في ثياب بيض، تتقدّمهنّ ليزافيتا بتروفنا، أرملة مرحة لا تكفّ عن الضحك.
+فانطلقت العربة من منصّة واطئة طلي عليها رقم: خمسة عشر، ونزلت على سكّة طويلة عريضة ملساء مدهونة بالشّحم.
+وعلى جانب السكّة بين البداية والنّهاية رقم كبير مرسوم: عشرة، وما كانت العربة تحتاج إلى أكثر منه لتنساب.
+فصاحت ليزافيتا بتروفنا وضحكها يعلو فوق الموسيقى: «انظرن، لا نسقط ولا نتعثّر، بل ننساب كالزّورق على الماء!»
+ثمّ حطّت العربة برفق على رصيف طلي عليه رقم: خمسة، ولم تنقطع ضحكة واحدة في الطريق.
+وبعيدًا في الخلف يقوم جبل تزحلق خشبيّ شاهق أعلى منه أضعافًا، تهوي عربته في هوّة عموديّة، وراكبوه يصرخون صراخ الهالكين.
+فنظرت ليزافيتا بتروفنا إلى الصارخين هناك وهم يهوون، وقالت لصاحباتها مبتسمة:
+quote: «في اليأس بالذّات تكون أشدّ اللذّات حرقة، ولا سيّما حين يعي المرء وعيًا شديدًا أنّه لا مخرج له.»
+source: رسائل من تحت الأرض
+explanation:
+Driving pressure is the difference between inflow and outflow pressure.
+In the pulmonary circulation the inflow pressure is the mean pulmonary artery pressure, about 15 millimetres of mercury.
+The outflow pressure is the left atrial pressure, about 5 millimetres of mercury.
+The mean driving pressure is therefore about 10 millimetres of mercury, which is the answer.
+So small a pressure difference is enough because pulmonary vascular resistance is very low.
+In the systemic circulation, aortic pressure minus right atrial pressure gives nearly 100 millimetres of mercury, which is the tempting wrong option.
+
+== 182
+# 1 the old narrow stone arch of the town bridge, painted 16, sheep jammed in it = a narrow vessel with a resistance of 16 PRU
+# 2 the shepherd's measuring rope, the width of the old arch, laid twice end to end across the new one = the diameter doubled
+# 3 the new arch exactly twice as wide, painted 1, the flock pouring through it freely like water = the resistance falls to one sixteenth, 1 PRU, because it varies with the fourth power of the radius (ANSWER)
+# 4 the long road of thick mud the flock comes along = length and viscosity also raise resistance, but only in simple proportion
+# 5 a merchant on horseback, who expected it to be only twice as easy, gaping in astonishment = not halved to 8 PRU: sixteen times less
+title: Double the diameter and the resistance falls sixteenfold
+titleAr: ضاعِف القطر تنخفضِ المقاومة ستة عشر ضعفًا
+tags: vascular/foundations d:physiology q:numbers l:1
+palette: hot dusty morning, ochre stone, cream-white fleece, a hard blue sky
+words: 16, 1
+must: the new arch is exactly twice as wide as the old one, the measuring rope laid twice across it; the narrow arch is painted 16 and the wide one 1
+scene: a southern market town in Bessarabia on a hot dusty morning, a huge flock of sheep driven in along a long road of thick mud. LEFT: the old narrow stone arch of the town bridge, painted 16; sheep jam in it, bleating, pressed together, barely moving. CENTRE-RIGHT, dominant and larger than life: beside it a new arch exactly twice as wide, painted 1, and the flock pours through it freely like water; across its opening the shepherd has laid his measuring rope, the width of the narrow arch, twice end to end. RIGHT: a merchant on horseback, who expected the new arch to be only twice as easy, gapes in astonishment.
+story:
+في صباح قائظ مغبرّ من صباحات بسارابيا، ساق الراعي دانيلا إلى سوق البلدة قطيعًا هائلًا من الغنم، على طريق طويل من الوحل الغليظ.
+وكانت الأغنام تخوض الوحل حتّى الركب، تجرّ أرجلها جرًّا، كأنّ الأرض تمسك بها.
+وعلى اليسار قام القوس الحجريّ القديم لجسر البلدة، ضيّقًا عتيقًا، طلي عليه رقم: ستّة عشر.
+فانحشرت فيه الأغنام تثغو، يضغط بعضها بعضًا، لا تكاد تتقدّم شبرًا.
+وإلى جانبه قوس جديد هو أعظم ما في الطريق، عرضه ضعف عرض القديم تمامًا، طلي عليه رقم: واحد.
+وقد مدّ دانيلا على فتحته حبل قياسه، وطوله عرض القوس الضيّق، مرّتين طرفًا إلى طرف.
+فلمّا ساق القطيع إليه، تدفّقت الأغنام منه حرّةً كالماء، كأنّ سدًّا قد انهار.
+وعلى اليمين، كان التاجر أفدي سيليتش على حصانه يظنّ أنّ القوس الجديد لن يكون إلّا أيسر مرّتين، فصاح فاغرًا فاه: «عرض مضاعف لا غير، والغنم تجري كأنّ الجسر اتّسع ستّة عشر ضعفًا!»
+فضحك دانيلا وقال: «الحساب في دفاترك يا سيّدي، أمّا الغنم فلها حساب آخر!»
+فهزّ أفدي سيليتش رأسه ونظر إلى القوسين حائرًا، وقال:
+quote: «لي عقل إقليديّ أرضيّ، فأنّى لنا أن نقضي في ما ليس من هذا العالم؟»
+source: الإخوة كارامازوف
+explanation:
+A narrow vessel here has a resistance of 16 PRU, peripheral resistance units.
+By the Poiseuille-Hagen law, resistance is inversely proportional to the fourth power of the radius, so doubling the diameter doubles the radius.
+Two to the fourth power is sixteen, so resistance falls to one sixteenth, from 16 PRU to 1 PRU, which is the answer.
+Length and viscosity also raise resistance, but only in simple proportion, not to the fourth power.
+The tempting answer of 8 PRU assumes resistance merely halves when the diameter doubles, which ignores the fourth power.
+
+== 183
+# 1 the double front door, a brass letter-slot in each leaf, one slot bent and crushed shut, the other sound; the postman's letters sealed with a big β jamming in the bent one = a heterozygous mutation in a TGF-β receptor gene (receptor 1 or 2): one of the two copies faulty (ANSWER)
+# 2 the father handing his twisted cane down to his small son = autosomal dominant: one parent passes it on (not recessive)
+# 3 father and son both with eyes set strikingly wide apart = the typical face (hypertelorism, with cleft palate or bifid uvula): type 1 has it
+# 4 their canes and the drainpipes of the house all twisted like corkscrews = arterial tortuosity, the most consistent vascular finding (not enlargement of the arch)
+# 5 LEFT, a thin slender drainpipe split open; RIGHT, the neighbour's hugely swollen drainpipe still holding = dissection at smaller diameters than in Marfan syndrome
+title: Loeys-Dietz syndrome: heterozygous mutations of TGF-beta receptor 1 or 2
+titleAr: متلازمة لويس-ديتز: طفرات متغايرة الزيجوت في مستقبل TGF-β الأول أو الثاني
+tags: cardiac/aorta d:pathology q:recall l:2
+palette: Odessa summer, pale yellow and blue plaster, acacia green, gleaming brass, red wax seals
+words: β
+must: of the two letter-slots one is bent shut and the letters sealed β jam there while the other slot works; the father hands his twisted cane to his son; the thin drainpipe has split while the neighbour's fat one holds
+scene: a sunny street in Odessa in summer, acacia trees, a pale yellow house with a tall double front door, each leaf with its own brass letter-slot. CENTRE, dominant and larger than life: the double door, and the postman pushing thick letters sealed with a big red wax seal marked β into the slots; one slot is bent and crushed shut and the letters jam there, while the other slot works and the letters slip in. On the steps a father and his small son stand together, both with eyes set strikingly wide apart, both with canes twisted like corkscrews; the father is just handing his twisted cane down to the boy. The drainpipes of the house twist like corkscrews too. LEFT: one thin, slender drainpipe has split open and gushes water. RIGHT, on the neighbour's house: a fat, hugely swollen drainpipe still holds.
+story:
+في شارع مشمس من شوارع أوديسا في الصيف، تحت أشجار السنط الخضراء، قام بيت أصفر باهت، له باب أماميّ عال بمصراعين.
+وفي كلّ مصراع شقّ نحاسيّ للرّسائل، يلمع في الشمس كسنّ من ذهب.
+فأقبل ساعي البريد زاخار برسائل غليظة، مختومة بختم كبير من الشمع الأحمر، عليه الحرف اليونانيّ: بيتا.
+فانزلقت الرسائل في أحد الشقّين كما ينزلق السمك في الماء، أمّا الشقّ الآخر فكان معوجًّا مسحوقًا مغلقًا، فانحشرت فيه الرسائل.
+فدفعها زاخار بإبهامه وتذمّر قائلًا: «شقّ يعمل وشقّ معطوب، وأنا وحدي أدفع الثمن!»
+وعلى الدرجات وقف الأب نيكانور وابنه الصغير فاسيا، وكلاهما عيناه متباعدتان تباعدًا عجيبًا، وبيد كلّ منهما عصًا ملتوية كاللّولب.
+وكانت ميازيب البيت كلّها ملتويةً كاللّولب هي أيضًا، وعلى اليسار انشقّ منها ميزاب رفيع نحيل يتدفّق منه الماء.
+أمّا على اليمين، في بيت الجار، فقد صمد ميزاب سمين منتفخ انتفاخًا هائلًا.
+فضحك فاسيا وقال: «انظر يا أبي، ميزابنا الرفيع انشقّ، وميزاب جارنا السمين لم ينشقّ بعد!»
+فانحنى نيكانور وناول الصبيّ عصاه الملتوية، كما ناوله أبوه مثلها يومًا، وقال بابتسامة حزينة:
+quote: «أنا ابن العصر، وابن عدم الإيمان والشّكّ، إلى اليوم، بل، وأنا أعلم ذلك، إلى غطاء التابوت.»
+source: رسالة إلى ناتاليا فونفيزينا، 1854
+explanation:
+Loeys-Dietz syndrome is caused by heterozygous mutations in the genes encoding transforming growth factor beta receptor 1 or 2, which is the answer.
+A single faulty copy is enough: inheritance is autosomal dominant, not recessive.
+Type 1 has the typical face, with hypertelorism, cleft palate or bifid uvula, and craniosynostosis, so a lack of these features is wrong.
+Arterial tortuosity, especially of the neck vessels, is the most consistent vascular finding, rather than enlargement of the aortic arch; the aortic root is where aneurysms typically form.
+Aortic dissection happens at smaller diameters than in Marfan syndrome, so the option of larger diameters is wrong, and surgery is advised earlier.
+note: Later work found mutations in other genes of the same TGF beta signalling pathway, such as SMAD3, causing closely related forms now counted as further types of Loeys-Dietz syndrome.
+
+== 184
+# 1 a circus big top whose central pole was knocked askew and half sunk by an old storm, the canvas sagging and bulging outward = left ventricular remodelling after myocardial infarction
+# 2 the two entrance flaps tied by ropes to stakes pushed far apart, pulled open so they cannot meet, rain pouring through = displaced papillary muscles tether the leaflets: ischaemic mitral regurgitation
+# 3 a great wheel of fortune at the entrance, well over half its rim painted black and marked 60, its hub marked 5, spun by the grim ringmaster = 5-year mortality over 60% (ANSWER)
+# 4 a rigger cutting one tethering rope, its flap swinging nearer its partner = chordal cutting reduces recurrent regurgitation; it does not increase it
+# 5 two menders, one stitching the old flaps, one hanging a new canvas flap, both equally soaked and grim = repair did not clearly give better 5-year survival than replacement (similar in the highest risk)
+title: Ischaemic mitral regurgitation: 5-year mortality over 60%
+titleAr: القلس التاجي الإقفاري: الوفيات خلال خمس سنوات تتجاوز 60٪
+tags: cardiac/mitral-tricuspid d:evidence d:pathology q:recall l:3
+palette: wet autumn dusk, faded red-and-white striped canvas, lantern gold, a black-and-gold wheel
+words: 60, 5
+must: well over half of the wheel's rim is black, marked 60 in white, with 5 on its hub; the entrance flaps are held apart by their ropes so they cannot meet
+scene: a travelling circus on a wet autumn evening at the edge of a provincial town. BACKGROUND: the big top, whose central pole was knocked askew and half sunk by an old storm, so the striped canvas sags and bulges outward. At its entrance the two door-flaps are tied by ropes to stakes the storm pushed far apart; the ropes pull the flaps open so they cannot meet, and rain pours in through the gap. LEFT: a rigger cuts one of the tethering ropes and that flap swings nearer its partner. RIGHT: two menders, one stitching the old flaps, the other hanging a new canvas flap, both equally soaked and grim. CENTRE FOREGROUND, dominant and larger than life: a great wheel of fortune at the entrance, taller than a man, black over well more than half of its rim with only a narrow gold part left; the black part is marked 60 in white and the hub 5, and the ringmaster in a top hat spins it, grim.
+story:
+في مساء خريفيّ ماطر على طرف بلدة من بلدات الأقاليم، حطّ سيرك جوّال رحاله في الوحل.
+وفي الخلف خيمته الكبرى، قد ضربتها عاصفة قديمة فمال عمودها الأوسط وغاص نصفه في الأرض، فترهّل قماشها المخطّط وانتفخ إلى الخارج كشراع ممزّق.
+وعند المدخل شدّت الحبال المصراعين إلى أوتاد دفعتها العاصفة بعيدًا، فبقيا مفتوحين لا يلتقيان، والمطر ينهمر من الفرجة إلى الداخل.
+وعلى اليسار، قطع فيدكا، فتى الحبال، أحد الحبلين بسكّينه، فاقترب مصراعه من صاحبه، فصاح فرحًا: «أرأيتم؟ حبل واحد أقلّ، والمصراعان يتعارفان من جديد!»
+وعلى اليمين رقّاعان مبتلّان عابسان كلاهما: أكيم يخيط المصراعين القديمين، وبروكوفي يعلّق مصراعًا جديدًا من القماش.
+فقال بروكوفي دون أن يرفع رأسه: «سواء خطت أنت أو علّقت أنا، فالمطر يبلّلنا كلينا سواء!»
+وفي المقدّمة، أعظم من كلّ شيء، عجلة حظّ هائلة أطول من رجل، سوداء على أكثر من نصف إطارها بكثير، لا يبقى من ذهبها إلّا شريط ضيّق.
+وعلى السواد رقم أبيض: ستّون، وعلى المحور: خمسة، وقد أدارها مدير الحلبة كارل إيفانوفيتش في قبّعته العالية، متجهّمًا.
+فدارت العجلة ودارت، ثمّ وقفت على السواد كما تقف كلّ ليلة، فقال كارل إيفانوفيتش: «لا تعجبوا يا أولاد، فهذه العجلة لا تكاد تعرف لونًا غيره!»
+فرفع أكيم رأسه عن إبرته والمطر يسيل على وجهه، وقال:
+quote: «لا بدّ أن نكابد سعادتنا المقبلة من جديد بطريقة ما، وأن نشتريها بآلام جديدة ما. بالعذاب يتطهّر كلّ شيء.»
+source: مذلّون مهانون
+explanation:
+Ischaemic mitral regurgitation usually follows left ventricular remodelling after myocardial infarction.
+The papillary muscles are displaced and tether the leaflets so that they cannot meet, although the leaflets themselves are normal.
+Ischaemic mitral regurgitation after infarction is associated with a 5-year mortality in excess of 60 per cent, which is the answer.
+Cutting secondary chords is a way to relieve tethering; it reduces recurrent regurgitation rather than increasing it, and it has not been shown to harm ventricular function.
+In the Cleveland Clinic series, repair was not clearly superior to replacement for 5-year survival, 58 against 36 per cent without statistical significance, and survival was similar in the highest-risk patients.
+Poor reverse remodelling is predicted by an end-diastolic dimension above 65 millimetres, not 45.
+note: The CTSN randomised trial in severe ischaemic mitral regurgitation later found no difference in survival between repair and chordal-sparing replacement, and more recurrent regurgitation after repair.
+
+== 185
+# 1 LEFT tower: the clock stopped, its pendulum held still, a hand-cranked iron machine turned by an apprentice ringing the bells in its place = on-pump CABG: the heart stopped while a machine takes over
+# 2 RIGHT tower: the clock still running, its pendulum swinging, a nimble clockmaker working round it = off-pump CABG on the beating heart
+# 3 the two master clockmakers leaning out towards each other, each holding up a bundle of exactly three new shining brass rods, alike, a painted 3 between them = a similar number of grafts on and off pump (median 3) (ANSWER)
+# 4 the right master already packing his tools, the floor under his clock clean, oil puddled under the left one = off-pump: a shorter operation and ventilation, less blood loss
+# 5 below, the calm town square, the same few strollers under both towers = death, stroke, balloon pump and renal support low and alike
+# 6 one tiny extra screw on the right clock = repeat revascularisation only marginally higher off pump, not significantly
+title: ART: on-pump and off-pump surgery gave a similar number of grafts
+titleAr: تجربة ART: عدد متماثل من الطعوم في الجراحة مع المضخة ودونها
+tags: cardiac/coronary cardiac/cpb d:evidence d:technique q:recall l:3
+palette: bright spring day, white town hall, blue sky, gleaming brass clockworks, black iron machine
+words: 3
+must: each master holds up a bundle of exactly three new shining brass rods, alike; the left clock is stopped while a hand-cranked machine rings its bells, the right one keeps ticking
+scene: a provincial town hall with twin clock towers on a bright spring day, both clocks opened for repair, their great faces swung aside so the brass works show. LEFT tower: the clock is stopped, its pendulum held still, and a big hand-cranked iron machine turned by an apprentice rings the bells in its place, oil puddled on the floor beneath. RIGHT tower: the clock still runs, its pendulum swinging, and a nimble clockmaker works round it; one tiny extra screw shines on it, and the floor beneath is clean. CENTRE, dominant and larger than life: the two master clockmakers lean out of their towers towards each other and hold up their work side by side, each a bundle of exactly three new shining brass rods, alike, with a big painted 3 between them; the right master is already packing his tools. Below, the town square is calm, the same few strollers under both towers.
+story:
+في يوم ربيعيّ ساطع تحت سماء زرقاء، فتح ساعاتيّان ساعتي البرجين التوأمين لدار البلديّة البيضاء، وأزاحا وجهيهما الكبيرين جانبًا، فبدت الآلات النحاسيّة تلمع كخليّة نحل من ذهب.
+وكان الساعاتيّان خصمين منذ زمن طويل: العجوز أوسيب ماكاريتش في البرج الأيسر، والخفيف السريع ياكوف في البرج الأيمن، لا يكلّم أحدهما الآخر.
+أمّا أوسيب فقد أوقف ساعته وأمسك بندولها ساكنًا، وأقام الصبيّ فانكا عند آلة حديديّة كبيرة تدار باليد، تقرع الأجراس مكانها، وتحتها بركة سوداء من الزيت.
+فصاح فانكا وهو يدير المقبض لاهثًا: «الأجراس تقرع يا معلّمي، لكنّ ذراعي ستسقط!»
+وأمّا ياكوف فقد ترك ساعته تدقّ وبندولها يتأرجح، وراح يعمل حولها خفيفًا كالسّنجاب، والأرض تحته نظيفة.
+ثمّ أطلّ المعلّمان من برجيهما أحدهما نحو الآخر، ورفع كلّ منهما عمله: حزمةً من ثلاثة قضبان نحاسيّة جديدة لامعة، متشابهتين تمامًا، وبينهما رقم كبير مرسوم: ثلاثة.
+فعدّ أوسيب قضبان خصمه ودهش وقال: «ثلاثة وثلاثة يا ياكوف! أكلّ هذا الزمن نتعادى على لا شيء؟»
+وكان ياكوف قد أخذ يجمع أدواته، وعلى ساعته برغيّ صغير زائد يلمع، فضحك ولم يجب.
+وفي الساحة الهادئة تحتهما تمشّى المتنزّهون القليلون أنفسهم تحت هذا البرج وذاك، فنظر أوسيب إليهم، ثمّ إلى ياكوف، وقال:
+quote: «لماذا لا نكون جميعًا كالإخوة مع الإخوة؟ لماذا يبدو أفضل الناس دائمًا كأنّه يخفي عن الآخر شيئًا ويسكت عنه؟»
+source: الليالي البيضاء
+explanation:
+ART, the Arterial Revascularisation Trial, randomised about 3100 patients having CABG to one or both internal mammary arteries, and 41 per cent of the operations were done off pump.
+On pump, the heart is stopped and the heart-lung machine takes over; off pump, the grafts are sewn onto the beating heart.
+A similar number of grafts was performed with on-pump and off-pump surgery, a median of three, which is the answer.
+Off-pump surgery was 20 to 30 minutes shorter, ventilation about two hours shorter, and blood loss and platelet transfusion were lower.
+Death, stroke and infarction were low and alike, and the need for a balloon pump or renal support did not differ, so the options of significant differences are wrong.
+Repeat revascularisation was only marginally higher off pump, at 30 days and at 1 year, not significantly higher.
+note: These on-pump and off-pump figures come from the 1-year interim report and are observational, since ART randomised the number of mammary arteries, not the use of the pump. Its 10-year result found no difference in survival between one and two mammary arteries by intention to treat.
+
