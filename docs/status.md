@@ -28,7 +28,15 @@ Updated 2026-11-17 (evening). Whoever works on YouTop next: read `CLAUDE.md`, th
   invasion "uncommon"), 137 (a whole paw, not a claw), 141, 143, 145 (feeding, not drinking; the duct may heal,
   not "often"), names that began with a sukun. Left on purpose: 143's story is set in a hospital because its scene
   is. `voice.py check`: every sentence heard (two flags were digits and a clipped word).
-- **Pictures still missing: 23-30, 46-75, 106-145.** Next round: lessons 146-165.
+- **Round 3 (2026-11-18, 00:43 to about 04:30 UTC, interrupted by the usage limit at about 01:10 and resumed at
+  02:43): lessons 146-165 published** with text and voice (work files `batch-0146-0155/`, `batch-0156-0165/`);
+  figures of 150, 154, 156 published. The tables and scenes were drafted by a designer agent this time and
+  checked against the book's keys before the prompts were sent. Checkers: 1 error (164, Crimea mis-vowelled)
+  and 8 warnings, all fixed before the voice: quotation lead-ins of 148 (cut before "I killed") and 149 ("come
+  forth to me"), unattributed speech in 160, 161, 165, explanation of 154, 158 (the left main bronchus crosses in
+  front) and 159 (why lymph node metastases is tempting). `voice.py check`: every sentence heard.
+- Because of the usage limit, the round after this one starts with 166-185.
+- **Pictures still missing: 23-30, 46-75, 106-165.**
 - Lesson learned this round: never run `voice.py make` and `batch.py build` on the same chapter at the same
   time; the second one to write the chapter file overwrites the other's changes.
 
