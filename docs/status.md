@@ -41,8 +41,17 @@ Updated 2026-11-17 (evening). Whoever works on YouTop next: read `CLAUDE.md`, th
   180 "2,3-DPG" read aloud, 182, 184, 185 Arabic. Left on purpose: quotations of 170, 172, 173 come from passages
   near earlier quotations of the same chapters (different sentences); 180's cynical line in a kind mouth; a few
   stories mention a voice that is not painted (166 Prokhor through the speaking tube). `voice.py check`: all heard.
-- **Next round: lessons 186-200 (the last fifteen of the book).**
-- **Pictures still missing: 23-30, 46-75, 106-185.**
+- **Round 5 (2026-11-18, 06:42 to about 10:00 UTC): lessons 186-200 published, the last fifteen. All 200
+  questions of the Shahzad book are now lessons with text and voice.** Work files `batch-0186-0195/`,
+  `batch-0196-0200/` (no figures needed). Checkers: 0 errors, 6 warnings, all fixed before the voice: 196 (Masha
+  now died last night and lies at home, so the quotation about a body carried out tomorrow fits), 197 (DOORS
+  mortality "no significant difference", not which arm was lower), 190 and 195 (quotation lead-ins), 191 (an
+  invented "stapled closure" sentence removed; Lavrenty now says "fruit of one field" before the quotation
+  recalls it), 192 (salt "settled", not "peeled"). `voice.py check`: all heard; 196's whispered line was
+  missed by the whole-sentence check but heard when checked alone.
+- **Next rounds: no new lessons (the book is finished; do not invent a new book).** Each round only checks the
+  pictures folder and, for pictures that arrived, does pictures, spots and marks and publishes them.
+- **Pictures still missing: 23-30, 46-75, 106-200** (none new at 2026-11-18 ~09:30 UTC).
 - Lesson learned this round: never run `voice.py make` and `batch.py build` on the same chapter at the same
   time; the second one to write the chapter file overwrites the other's changes.
 
