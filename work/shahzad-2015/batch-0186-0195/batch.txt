@@ -1,0 +1,353 @@
+book: shahzad-2015
+# Lessons 186-195. Written "table first".
+
+== 186
+# 1 a brand-new canvas hose laid from the laundry boiler to the wash-tubs only a short while ago, the clock over the boiler door painted 2 = the spasm comes early, within about two hours of the operation, just after leaving bypass
+# 2 the hose wringing itself tight like a wrung sheet, nothing at all blocking it inside = coronary artery spasm, typically in a normal artery without stenosis
+# 3 a red signal flag shooting up its pole on the bridge above = marked ST-segment elevation
+# 4 the wash-tubs running dry, the steam dying, a young laundress sinking faint onto a bench = severe hypotension and circulatory collapse
+# 5 a burly stoker working the boiler's hand-pump harder and harder, the hose wringing tighter at every stroke = inotropes and pressors (dobutamine, adrenaline, dopamine, amrinone) do not relieve spasm and can worsen it
+# 6 two calm old laundresses each pouring warm golden oil from a big jug painted N over the twisted hose, which untwists under the oil and gushes hot water again = nitroglycerin and nifedipine: vasodilators that relieve the spasm, given even in hypotension (ANSWER)
+title: Coronary spasm after CABG: nitroglycerin and nifedipine
+titleAr: تشنّج الشريان التاجي بعد المجازات: النتروغليسرين والنيفيديبين
+tags: cardiac/perioperative cardiac/coronary d:postoperative d:pharmacology q:next-step l:2 x:trap
+palette: grey Petersburg autumn morning, white steam, wet granite, one red flag, warm golden oil
+words: 2, N
+must: the hose is wrung tight like a twisted sheet though nothing blocks it inside; both old laundresses' jugs are painted N and the hose untwists where their oil runs; the stoker's pumping only wrings it tighter
+scene: a riverside public laundry under a granite bridge on a Petersburg canal on a grey autumn morning, white steam, wet stone, wooden wash-tubs in a long row. UPPER LEFT: the laundry's copper boiler, a clock over its door painted 2. From the boiler a brand-new canvas hose, laid only a short while ago, runs across the floor to the tubs; it has suddenly wrung itself tight in the middle like a wet sheet twisted by giant invisible hands, though nothing at all blocks it inside. UPPER RIGHT, on the bridge above: a red signal flag shoots up its pole. RIGHT: the wash-tubs run dry, the steam dies, and a young laundress sinks faint onto a bench. LEFT FOREGROUND: a burly stoker works the boiler's hand-pump harder and harder, and at every stroke the hose wrings tighter. CENTRE, dominant and larger than life: two calm old laundresses in headscarves kneel over the twisted hose, each pouring warm golden oil from a big earthenware jug painted N, and where the oil runs the hose untwists and hot water gushes on again.
+story:
+في صباح خريفيّ رماديّ على قناة من قنوات بطرسبورغ، كانت مغسلة العامّة تحت جسر الغرانيت تغلي بخارًا أبيض، والأحواض الخشبيّة صفّ طويل على الحجر المبتلّ.
+وفي الأعلى من اليسار مرجل نحاسيّ فوق بابه ساعة عليها رقم: اثنان، ومنه خرطوم جديد من القماش لم يمدّ إلى الأحواض إلّا منذ ساعتين.
+وفجأةً التوى الخرطوم في وسطه، وانفتل على نفسه كملاءة مبتلّة تعصرها يدان عملاقتان لا تريان، وليس في جوفه شيء يسدّه.
+وعلى الجسر في الأعلى من اليمين، صعدت بغتةً في ساريتها راية إشارة حمراء كصرخة في السماء الرماديّة.
+وجفّت الأحواض حوضًا بعد حوض، وخمد البخار، وتهاوت الغسّالة الشابّة داشا على مقعد إلى اليمين شاحبةً كالملاءات الّتي تغسلها.
+فصاح الوقّاد ميتروفان في المقدّمة على اليسار، رجل ضخم عريض الكتفين، وهو يهوي على ذراع المضخّة: «سأدفع الماء دفعًا ولو تمزّق الخرطوم!»
+لكنّ الخرطوم كان ينعصر أشدّ مع كلّ ضغطة، كأنّ يدي الوقّاد هما اللتان تفتلانه.
+حينئذ ركعت في الوسط عجوزان هادئتان في مناديل الرأس، أغافيا وماتريونا، في يد كلّ منهما جرّة فخّاريّة كبيرة عليها حرف إن.
+فسكبتا على الخرطوم المفتول زيتًا ذهبيًّا دافئًا، فانحلّ حيث سال الزيت، وتدفّق الماء الساخن من جديد.
+ثمّ التفتت أغافيا إلى الوقّاد اللاهث ويده ما تزال على المضخّة، وقالت له بلين:
+quote: «كفى انجرافًا، فقد آن أن نخدم العقل أيضًا.»
+source: الأبله
+explanation:
+Coronary artery spasm after bypass surgery usually comes early, often just after weaning from cardiopulmonary bypass and within about two hours of the operation.
+It typically strikes a normal coronary artery with no stenosis, which closes by its own contraction rather than by any blockage.
+Its commonest signs are marked ST-segment elevation together with severe, life-threatening hypotension and circulatory collapse.
+Inotropes such as amrinone or dobutamine and pressors such as dopamine or epinephrine do not treat the spasm itself, and conventional support of this kind can even make it worse.
+Epinephrine with sublingual nifedipine is the most tempting wrong option, but epinephrine is a vasoconstricting catecholamine that can worsen the spasm.
+The aim is to relax the spasm with vasodilators, nitroglycerin and a calcium channel blocker, alone or together, so nitroglycerin and sublingual nifedipine is the answer.
+They are given even though the blood pressure is low, and they act better when given into the coronary artery or graft than intravenously.
+note: Sublingual nifedipine is rarely used today because its fall in blood pressure is abrupt and hard to control; nitroglycerin and calcium channel blockers given intravenously or into the graft are the usual choice.
+
+== 187
+# 1 an open trench across a Petersburg square at lamp-lighting time, gas mains in it feeding the street lamps; on the LEFT the old rusted mains have new bright pipes soldered round their rusted parts, and their lamps burn steadily = grafted arteries with proximal disease (left anterior descending or right): lower risk of spasm
+# 2 a half-finished new pipe lying on the edge of the trench, never joined = incomplete revascularisation: not the highest risk
+# 3 a slim clean pipe on the left, never touched, its lamps burning steadily = an ungrafted normal left anterior descending artery: lower risk
+# 4 on the RIGHT the broadest main of all, clean, shining, never touched by the workmen, painted R, feeding the grandest row of lamps; it suddenly clenches in its middle like a fist and the lamps along it shrink to blue sparks = spasm is most frequent in an ungrafted normal (often dominant) right coronary artery (ANSWER)
+# 5 the gas engineer frozen with his hand on the big valve wheel, afraid to open it wider = conventional treatment can worsen spasm, and reluctance to give vasodilators must be overcome
+title: Spasm after CABG strikes an ungrafted normal right coronary artery
+titleAr: التشنّج بعد المجازات يصيب أكثر ما يصيب الشريان التاجي الأيمن السليم غير المطعَّم
+tags: cardiac/coronary cardiac/perioperative d:complications q:recall l:3
+palette: blue winter dusk, yellow gaslight, black iron, fresh brass solder, a few cold blue sparks
+words: R
+must: the broadest main, on the right, is clean, untouched and painted R, and it alone is clenched shut while its lamps shrink to blue sparks; the soldered old mains on the left burn steadily
+scene: a great square in Petersburg at blue winter dusk, lamp-lighting time, snow on the cobbles. Across the square runs an open trench dug for repairs, and in it lie the gas mains that feed the street lamps. LEFT: the old rusted mains, round whose rusted parts workmen have soldered new bright brass pipes; their row of lamps burns steadily yellow; beside them a slim clean pipe, never touched, feeds its own lamps steadily too. FOREGROUND, on the edge of the trench: a half-finished new pipe lies abandoned, never joined. CENTRE-RIGHT, dominant and larger than life: the broadest main of all, clean and shining, never touched by the workmen, painted R; it feeds the grandest row of lamps along a palace front, and it has suddenly clenched in its middle like a gripping fist, so that every lamp along it shrinks to a cold blue spark. RIGHT: the gas engineer in a fur cap stands frozen with his hand on a big valve wheel, afraid to open it wider.
+story:
+في غسق شتاء أزرق على ساحة عظيمة في بطرسبورغ، ساعة إيقاد الفوانيس، كان خندق مفتوح يشقّ الثلج، وفي قاعه أنابيب الغاز الّتي تطعم المصابيح.
+فعلى اليسار أنابيب قديمة صدئة، لحم العمّال حول مواضع الصدإ منها أنابيب جديدةً من نحاس أصفر لامع، فمصابيحها تشتعل صفراء ثابتة.
+وعلى حافّة الخندق في المقدّمة، رقد أنبوب جديد تركوه في منتصف العمل، فلم يوصل بشيء قطّ.
+وإلى جانب الأنابيب الملحومة أنبوب نحيل نظيف لم تمسّه يد، ومصابيحه هو أيضًا تشتعل بلا رجفة.
+أمّا في الوسط إلى اليمين، فأعظم الأنابيب كلّها وأعرضها، نظيف لامع لم يلمسه عامل قطّ، وعليه حرف آر.
+كان يطعم أفخم صفّ من المصابيح على واجهة قصر، فإذا هو ينقبض في وسطه بغتةً كقبضة تعتصر، فينكمش كلّ مصباح على طوله شرارةً زرقاء باردة.
+وعلى اليمين وقف المهندس أركادي سيميونوفيتش في قلنسوة من الفرو، يده على عجلة الصمام الكبيرة، متجمّدًا كتمثال من ثلج.
+وهمس لنفسه ولم يجرؤ أن يديرها أكثر: «لو فتحتها أوسع لانفجر الأنبوب واحترق القصر!»
+ثمّ رفع عينيه إلى الأنبوب العظيم الّذي أضاء القصر سنين طويلةً بلا شكوى، وقال وهو يعضّ شفته:
+quote: «أحيانًا يكون باردًا عديم الإحساس حتّى اللاإنسانيّة، والحقّ أنّه كأنّ فيه طبعين متضادّين يتعاقبان.»
+source: الجريمة والعقاب
+explanation:
+Grafted arteries with proximal disease, whether the left anterior descending or the right coronary artery, are not where spasm after bypass surgery is most frequent.
+Incomplete revascularisation is not the factor the reports link to postoperative spasm.
+An ungrafted normal left anterior descending artery is the most tempting wrong option, but it is not the vessel singled out.
+Spasm is most frequent in an ungrafted, relatively normal right coronary artery, especially a dominant one, which is the answer; angina at rest before the operation is another warning sign.
+Sudden hypotension is often the first sign, and conventional treatment can worsen the spasm.
+Nitroglycerin given into the coronary artery or graft, or calcium channel blockers, reverse it, and reluctance to give vasodilators must be overcome even when the blood pressure is low.
+
+== 188
+# 1 a powerful, glossy, perfectly healthy draught horse straining in the shafts of a heavy wagon = the heart, with normal left ventricular function
+# 2 its feed trough and water trough full to a mark painted 13, no more wanted = the filling pressure (wedge 13) is normal: a fluid bolus is not the answer
+# 3 every wheel of the wagon gripped by a brake shoe screwed down hard, the great brake wheel painted 4100 = systemic vascular resistance index very high (4100; normal about 1800-2400)
+# 4 the wagon creeping, barely moving despite the horse's effort and the steep strain = a low cardiac index (1.7) with a good blood pressure
+# 5 a young coachman lashing the horse with a whip, its flanks foaming = inotropes (dobutamine, adrenaline) drive a normal heart against the clamped brakes: the wrong choice
+# 6 an old ostler pouring golden oil from a can painted N on the screw of the great brake wheel and loosening it, the brake shoes lifting off the wheels and the wagon starting to roll freely = nitroglycerin: a vasodilator to lower the resistance (ANSWER)
+title: High vascular resistance after CABG: start nitroglycerin
+titleAr: ارتفاع المقاومة الوعائية الجهازية بعد المجازات: ابدأ بالنتروغليسرين
+tags: cardiac/perioperative d:postoperative d:physiology q:next-step l:2
+palette: hot August dust of a horse fair, chestnut and black horses, painted wagon red, iron grey, golden oil
+words: 4100, 13, N
+must: every wheel is clamped by a brake shoe and the great brake wheel is painted 4100; the troughs are full to the mark 13; the old ostler pours oil from a can painted N on the brake screw and the shoes lift off
+scene: the great horse fair at Nizhny Novgorod on a hot August afternoon, dust, bright canvas booths, crowds of dealers. CENTRE: a powerful, glossy, perfectly healthy draught horse strains in the shafts of a heavy red wagon loaded with barrels; every wheel of the wagon is gripped by a brake shoe screwed down hard, and the wagon only creeps. LEFT: the horse's feed trough and water trough stand full to a mark painted 13, untouched. FOREGROUND LEFT: a young coachman lashes the horse with a whip and its flanks foam. CENTRE-RIGHT, dominant and larger than life: at the back of the wagon the great brake wheel, painted 4100, and an old ostler in a leather apron pouring golden oil from a can painted N onto its screw and turning it loose; the brake shoes lift off the wheels and the wagon begins to roll freely.
+story:
+في سوق الخيل الكبرى بنيجني نوفغورود، في عصر يوم قائظ من أيّام أغسطس، كان الغبار يعلو ذهبيًّا فوق الخيام الملوّنة وصياح التجّار.
+وفي الوسط كان بويان، حصان جرّ قويّ لامع الشعر لا علّة فيه، يشدّ بكلّ عضلاته عربةً حمراء ثقيلةً محمّلةً بالبراميل.
+وعلى اليسار معلفه وحوض مائه مملوءان إلى علامة عليها رقم: ثلاثة عشر، ولم يمسّهما، فما به جوع ولا عطش.
+لكنّ كلّ عجلة من عجلات العربة كان يعضّ عليها فكّ كابح حديديّ شدّ لولبه إلى آخره، فلا تكاد العربة تزحف.
+وفي مؤخّر العربة عجلة الكابح الكبرى، عليها رقم: أربعة آلاف ومئة.
+فاحمرّ وجه الحوذيّ الشابّ سيمكا في المقدّمة، وصاح وهو يلهب ظهر الحصان بسوطه: «تحرّك يا كسول، تحرّك وإلّا سلخت جلدك!»
+فأزبدت خاصرتا بويان، وشدّ حتّى ارتجفت ركبه، والعربة لا تتقدّم إلّا شبرًا بعد شبر.
+حينئذ جاء السائس العجوز يفيم في مئزره الجلديّ، وسكب من علبة عليها حرف إن زيتًا ذهبيًّا على لولب العجلة الكبرى، وأرخاه دورةً بعد دورة.
+فارتفعت الفكوك عن العجلات كلّها، وانطلقت العربة تتدحرج حرّة، وبويان يمشي بها كأنّها فارغة.
+فربت يفيم على عنق الحصان المبتلّ، ثمّ التفت إلى الحوذيّ والسّوط ما يزال في يده، وقال له بصوت جهير:
+quote: «الإنسان مستبدّ بطبعه، ويحبّ أن يكون معذّبًا.»
+source: المقامر
+explanation:
+This man had normal left ventricular function and an uneventful operation, so his heart muscle is not the problem.
+His pulmonary artery wedge pressure of 13 millimetres of mercury is normal, so filling is adequate and a fluid bolus is not the first step.
+His systemic vascular resistance index of 4100 is far above the normal range of about 1800 to 2400, so the circulation is clamped down.
+That is why the cardiac index is low at 1.7 litres per minute per square metre while the blood pressure is a good 130 over 84.
+Driving a normal heart with dobutamine or epinephrine against this resistance is the wrong first move.
+The first step is to lower the afterload with a vasodilator, so nitroglycerin at 1.0 micrograms per kilogram per minute is the answer.
+Sodium nitroprusside also lowers the resistance, but after coronary surgery nitroglycerin is usually preferred because it also dilates the coronary arteries and grafts.
+
+== 189
+# 1 the accordion pulled open enormously wide at every breath of the song, its bellows painted 1000 = a tidal volume of 1,000 cc, far too large
+# 2 the leather folds of the bellows straining and splitting at the seams with a shriek = a very high peak inspiratory pressure (45 cm H2O)
+# 3 the accordion player sitting on a merchant's big grain scale whose dial shows 70 = a 70 kg man
+# 4 the wedding dancers whirling too fast, light-headed and giddy, some swooning = over-ventilation: respiratory alkalosis (pH 7.49), carbon dioxide blown off
+# 5 an old woman closing the window shutters against the fresh air = lowering the FiO2: not the most important first change
+# 6 the bride's grandfather squeezing the bellows back to a chalk mark painted 700 and holding them there, the song turning sweet and the dancers steady = decrease the tidal volume to 700 cc, about 10 cc per kg (ANSWER)
+title: Tidal volume 10 cc per kg: 700 cc for a 70 kg man
+titleAr: الحجم المدّي 10 مل لكل كيلوغرام: 700 مل لرجل وزنه 70 كيلوغرامًا
+tags: cardiac/perioperative d:postoperative d:physiology q:next-step l:1 x:high-yield
+palette: warm golden light of a village wedding, embroidered red and white, birch-green garlands, dark timber
+words: 1000, 700, 70
+must: the player sits on a grain scale whose dial shows 70; the bellows painted 1000 are stretched so wide the seams split; the grandfather holds them squeezed back to the chalk mark painted 700
+scene: a peasant wedding in a big log hut on a summer evening, golden lamplight, embroidered red-and-white towels, birch garlands. LEFT: the accordion player sits on a merchant's big grain scale whose round dial shows 70, and he pulls his accordion open enormously wide at every breath of the song; the bellows are painted 1000 and their leather folds strain and split at the seams. CENTRE BACK: the wedding dancers whirl too fast, light-headed and giddy, and some swoon into the arms of others. RIGHT: an old woman closes the window shutters against the fresh evening air. CENTRE, dominant and larger than life: the bride's white-bearded grandfather has seized the accordion from both ends and squeezes the bellows back to a chalk mark painted 700 on them, and holds them there; the song turns sweet and the dancers nearest him steady.
+story:
+في مساء صيفيّ في كوخ كبير من جذوع الشجر، كان عرس قرويّ، والمناشف المطرّزة بالأحمر والأبيض تتدلّى بين أكاليل البتولا في ضوء السرج الذهبيّ.
+وعلى اليسار جلس عازف الأكورديون كوزما على ميزان حبوب كبير لتاجر، على قرصه المستدير رقم: سبعون.
+وكان يفتح آلته مع كلّ نفس من أنفاس الأغنية فتحًا هائلًا، وعلى منفاخها رقم: ألف.
+فتمطّت طيّات الجلد وصرّت صريرًا حادًّا، وانفتقت دروزها درزًا بعد درز.
+وفي الوسط خلفه راح الراقصون يدورون أسرع ممّا ينبغي، دائخين خفاف الرؤوس، حتّى خرّ بعضهم مغشيًّا عليه في أذرع بعض.
+وعلى اليمين راحت العجوز فيوكلا تغلق مصاريع النافذة في وجه نسيم المساء، وهي تتمتم: «هذا الهواء أدار رؤوسكم يا أولاد!»
+لكنّ جدّ العروس الأبيض اللحية سيلانتي قام في الوسط كالعملاق، وقبض على الأكورديون من طرفيه.
+فضمّ المنفاخ حتّى بلغ علامةً بالطّباشير عليها رقم: سبعمئة، وأمسكه عندها لا يدعه يتجاوزها.
+فعذبت الأغنية ورقّت، وثبتت أقدام الراقصين الأقربين إليه، وتنفّس الكوخ كلّه.
+ثمّ مال الجدّ على كوزما المبهوت، وقال له ضاحكًا في لحيته:
+quote: «الروس عمومًا أناس واسعون، واسعون كأرضهم، ميّالون جدًّا إلى الخياليّ وإلى الفوضويّ؛ لكنّ البلاء أن يكون المرء واسعًا بلا عبقريّة خاصّة.»
+source: الجريمة والعقاب
+explanation:
+A tidal volume of 1000 millilitres is far too large for this patient.
+It produces a high peak inspiratory pressure of 45 centimetres of water, which strains the lungs.
+The usual tidal volume is about 8 to 10 millilitres per kilogram, so for a 70 kilogram man it is about 700 millilitres.
+The pH of 7.49 shows an alkalosis from over-ventilation.
+Lowering the FiO2 to 0.6 is reasonable later, since an oxygen tension of 160 is generous, but it does not correct the oversized breaths.
+So the most important first change is to decrease the tidal volume to 700 millilitres, which is the answer.
+note: Lung-protective ventilation today uses about 6 to 8 millilitres per kilogram of predicted body weight; the book's 10 is older teaching, but 1000 is too much by either measure.
+
+== 190
+# 1 a great new bronze bell hoisted on ropes and a windlass up into the cathedral belfry, the archpriest waving it on upward and the crowd pulling = proceed with the coronary bypass operation now (ANSWER, with 6)
+# 2 the narrow wooden stair up to the ringer's chamber at the top of the tower, half filled by a stack of firewood painted 50 = a 50% internal carotid stenosis
+# 3 the young bell-ringer climbing past the woodpile with ease, whistling = asymptomatic: no neurological symptoms
+# 4 a chalk line painted 80 high on the stair wall, far above the top of the woodpile = only an asymptomatic stenosis of 80% or more calls for carotid repair before or with CABG
+# 5 LEFT, a fussy official shouting to stop the hoist and send a surveyor up first, and a carpenter wanting the stair cleared first while the bell waits on the ground = cancelling for an angiogram, carotid repair first, staged or combined repair: all wrong here
+# 6 a boy with a lantern and a notched tally stick sitting at the foot of the stair to look at the woodpile again and again = follow up the carotid with serial Duplex examinations (ANSWER, with 1)
+title: Asymptomatic 50% carotid stenosis before CABG: operate, then follow with Duplex
+titleAr: تضيّق سباتي 50٪ بلا أعراض قبل المجازات: أجرِ العملية ثم تابع بالدوبلكس
+tags: vascular/carotid cardiac/coronary d:indications q:next-step l:2 x:guideline
+palette: clear spring morning, white stone and gold domes, dark bronze bell, hemp rope, a lantern's warm glow
+words: 50, 80
+must: the woodpile on the stair is painted 50 and the chalk line far above it 80; the ringer climbs past it easily; the bell keeps rising while the boy with the lantern and tally stick watches the woodpile
+scene: a provincial cathedral town on a clear spring morning, white stone, gold domes, a great crowd in the square. CENTRE, dominant and larger than life: a great new bronze bell swings upward on hemp ropes and a creaking windlass towards the open arches of the belfry, while the archpriest in gold vestments waves it on upward and the crowd hauls. RIGHT: the tower is seen cut open; inside, a narrow wooden stair climbs to the ringer's chamber at the top, half filled by a stack of firewood painted 50, and the young bell-ringer climbs past it with ease, whistling; high above the woodpile a chalk line on the stair wall is painted 80. At the foot of that stair a boy sits with a lantern and a notched tally stick, looking up at the woodpile. LEFT: a fussy official in a cocked hat shouts to stop the hoist and send a surveyor up first, and a carpenter with a saw points at the stair as if it must be cleared before the bell may rise; nobody listens.
+story:
+في صباح ربيعيّ صاف في بلدة من بلدات الأقاليم، بين الحجارة البيضاء والقباب الذهبيّة، كان الناس يحتشدون في ساحة الكاتدرائيّة.
+وفي الوسط، أعظم من كلّ شيء، راح جرس برونزيّ جديد هائل يصعد على حبال القنّب ومرفاع خشبيّ يصرّ، نحو أقواس برج الأجراس المفتوحة.
+وكبير الكهنة الأب بائيسي في حلّته الذهبيّة يلوّح له أن اصعد، والجمهور يشدّ الحبال شدّة رجل واحد.
+وعلى اليمين بدا البرج مشقوقًا للنّاظر، في جوفه درج خشبيّ ضيّق إلى غرفة القارع في القمّة، قد ملأت نصفه كومة حطب عليها رقم: خمسون.
+وصعد قارع الأجراس الشابّ تيموشا بجانب الحطب خفيفًا يصفّر، كأنّ الدرج كلّه له.
+وعاليًا فوق رأس الكومة خطّ بالطّباشير على جدار الدرج عليه رقم: ثمانون، والحطب بعيد عنه بعدًا كبيرًا.
+أمّا على اليسار فصاح الموظّف المتحذلق دودكين في قبّعته المثلّثة: «أوقفوا الجرس، وليصعد مسّاح أوّلًا فيقيس الدرج!»
+وأشار النجّار يغور بمنشاره إلى الدرج وقال: «لا يرتفع جرس قبل أن نخلي الدرج!» فلم يلتفت إليهما أحد.
+وعند أسفل الدرج جلس الصبيّ سينكا بفانوس وعصا عدّ محزّزة، يرفع عينيه إلى الحطب، ويحزّ في عصاه حزًّا كلّما نظر.
+فابتسم الأب بائيسي والجرس يعلو فوق رأسه، وأشار إليه ضاحكًا من نفسه، وقال للموظّف المحمرّ الوجه:
+quote: «أجل، أحيانًا ترسخ في الرأس أشدّ الأفكار جموحًا، أشدّها استحالةً في الظاهر، رسوخًا يجعلك تحسبها آخر الأمر شيئًا ممكن التحقيق.»
+source: المقامر
+explanation:
+This man needs elective coronary bypass surgery, and the carotid finding should not hold it up.
+Duplex shows a 50 per cent stenosis of the right internal carotid artery, a moderate narrowing.
+He has had no neurological symptoms, so the stenosis is asymptomatic.
+The ACC and AHA guidelines quoted by the book advise carotid endarterectomy for an asymptomatic stenosis only from 80 per cent, either before or together with coronary surgery.
+Cancelling for an angiogram, repairing the carotid first, or staging or combining the two operations are therefore all wrong here; combined or staged repair belongs to severe disease, where the best order is still debated.
+The right plan is to proceed with myocardial revascularisation and follow the carotid with serial Duplex examinations, which is the answer.
+note: Later guidelines use somewhat different thresholds, but none advises carotid repair for an asymptomatic 50 per cent stenosis before coronary surgery.
+
+== 191
+# 1 two identical tall wooden dovecotes on neighbouring Moscow rooftops, a board painted 1 nailed between them: both were repaired a year ago after rats had gnawed one corner of each = two patients with a small lung cancer, one year after resection
+# 2 LEFT dovecote: a whole tier sawn away cleanly long ago, its cut edges bound tight with iron bands = lobectomy (stapled, closed tight)
+# 3 RIGHT dovecote: only one small compartment cut out, its edges stuffed by hand with rags, wind whistling through and feathers leaking out = segmentectomy by the stripping technique without a stapler: more air leak and pleural complications, not fewer
+# 4 rats creeping back into the RIGHT dovecote beside a painted 3, none at the left = local recurrence about three times higher after segmentectomy, not equivalent
+# 5 from both dovecotes two equal great flocks of white doves rising and wheeling into the sky, the two owners on the roofs gaping at how alike they are = pulmonary function one year after operation is similar to lobectomy (ANSWER)
+title: Segmentectomy: lung function at one year similar to lobectomy
+titleAr: الاستئصال القطعي: وظيفة الرئة بعد سنة تماثل استئصال الفص
+tags: thoracic/lung-cancer d:technique d:evidence q:recall l:2
+palette: wide pale blue sky over green and rust-red Moscow roofs, white doves, weathered grey timber, black iron bands
+words: 1, 3
+must: the two flocks rising from the two dovecotes are equally large; the left dovecote's cut is bound with iron bands, the right one's stuffed with rags and leaking feathers; rats creep back only into the right one, by the painted 3
+scene: the rooftops of an old Moscow quarter on a bright windy spring morning, green and rust-red iron roofs, church domes far behind. On two neighbouring roofs stand two identical tall wooden dovecotes, a board painted 1 nailed to the chimney between them. LEFT dovecote: a whole tier was sawn away cleanly long ago, and its cut edges are bound tight with black iron bands. RIGHT dovecote: only one small compartment was cut out, and its edges are stuffed by hand with rags; the wind whistles through them and feathers leak out; rats creep back up its post into it, beside a painted 3. CENTRE and UPPER SKY, dominant and larger than life: from both dovecotes at once two equal great flocks of white doves burst up and wheel together into the sky, and the two owners, each on his roof with a long pole, gape at how alike the flocks are.
+story:
+في صباح ربيعيّ مشرق عاصف فوق السطوح الخضر والحمر لحيّ قديم في موسكو، قام على سطحين متجاورين برجا حمام خشبيّان طويلان توأمان.
+وبينهما على المدخنة لوح مسمّر عليه رقم: واحد، فقد مضت سنة واحدة منذ قرضت الفئران زاويةً من كلّ منهما، فأصلحهما صاحباهما.
+فأمّا فيرابونت صاحب البرج الأيسر، فقد نشر منه طبقةً كاملةً نشرًا نظيفًا، وشدّ حوافّ القطع بأطواق من حديد أسود.
+وأمّا لافرنتي صاحب البرج الأيمن، فلم يقطع إلّا خانةً صغيرةً واحدة، وحشا حوافّها بالخرق بيده، فالرّيح تصفر فيها والرّيش يتسرّب منها.
+وعلى عمود برجه، بجانب رقم مطليّ: ثلاثة، راحت الفئران تتسلّق عائدةً إليه، وليس عند البرج الأيسر فأر واحد.
+فصاح به فيرابونت ساخرًا من سطحه: «فئرانك عادت يا لافرنتي، وخرقك تصفّر كالنّاي!»
+فردّ عليه لافرنتي هادئًا: «انتظر قليلًا يا فيرابونت، فسترى أنّنا من ثمار حقل واحد.»
+وفي تلك اللحظة نفسها اندفع من البرجين معًا سربان عظيمان من الحمام الأبيض، وحلّقا في السماء يدوران جناحًا إلى جناح.
+وكان السربان متساويين كأنّهما سرب واحد وصورته في الماء، لا يزيد أحدهما على الآخر جناحًا.
+فوقف الرجلان كلّ على سطحه بعصاه الطويلة فاغرًا فاه، حتّى صاح لافرنتي عبر الريح:
+quote: «ألم أقل الحقّ حين قلت إنّنا من ثمار حقل واحد؟»
+source: الجريمة والعقاب
+explanation:
+The Lung Cancer Study Group randomised patients with small, node-negative lung cancers to lobectomy or a lesser resection.
+Lobectomy removes the whole lobe, and it was the standard against which the lesser resections were measured.
+Segmentectomy done with the classic stripping technique, without a stapler, gives more air leaks, bleeding and pleural space problems than lobectomy, not fewer.
+In that trial local recurrence was about three times higher after the lesser resection, so it was not equivalent, and mortality was not reduced either.
+At one year, pulmonary function did not differ between lobectomy and lesser resection, which is the answer.
+note: Newer trials in small peripheral tumours of 2 centimetres or less, JCOG0802 and CALGB 140503, found segmentectomy or sublobar resection not inferior to lobectomy, so the old Lung Cancer Study Group result no longer settles the question.
+
+== 192
+# 1 long rows of wooden brine pipes running from the salt well to the boiling pans, salt crusting inside them overnight = vein grafts after CABG, which clot early
+# 2 the LEFT row, tended by one old scraper-man alone: more of its wooden pipes crusted shut = early vein-graft occlusion higher with single therapy (aspirin alone)
+# 3 the RIGHT row, tended by two scraper-men working side by side: fewer pipes shut = dual therapy (aspirin plus clopidogrel) reduces early vein-graft occlusion (not similar)
+# 4 in each row one great iron pipe running clear and white, untouched by the crust = arterial graft patency was not affected
+# 5 the two men's hands nicked by the scrapers, a few red drops only a little more than the lone man's = only a trend to more major bleeding with dual therapy, not a significant increase
+# 6 on the wall of the works' chapel two black mourning boards: over the LEFT row a big heavy one painted 1.9, over the RIGHT row a small light one painted 0.8, a board 30 above = in-hospital or 30-day mortality lower with dual anti-platelet therapy (0.8% vs 1.9%) (ANSWER)
+title: Dual antiplatelet therapy after CABG lowers 30-day mortality
+titleAr: العلاج المزدوج المضاد للصفيحات بعد المجازات يخفّض الوفيات خلال 30 يومًا
+tags: cardiac/coronary d:pharmacology d:evidence q:recall l:3
+palette: white salt crust and grey winter light, black wooden boiling sheds, rusty iron, one warm chapel lamp
+words: 30, 1.9, 0.8
+must: the left row has one scraper-man and more pipes crusted shut, the right row two men and fewer; the mourning board over the left row is big and painted 1.9, the one over the right row small and painted 0.8
+scene: an old salt works on the Kama river on a grey winter morning, black timber boiling sheds, white salt crust on everything. Long rows of wooden brine pipes run from the tall salt-well tower to the steaming boiling pans, and overnight salt has crusted inside them. LEFT: one row tended by a lone old scraper-man with an iron scraper; many of its wooden pipes are crusted shut. RIGHT: a second row tended by two scraper-men working side by side; fewer of its pipes are shut. In each row one great iron pipe runs clear, white water pouring from it, untouched by the crust. FOREGROUND: the scraper-men's hands are nicked, a few red drops on the white salt, only a little more by the pair than by the lone man. CENTRE BACK, dominant and larger than life: the little wooden chapel of the works, a warm lamp at its door, a board painted 30 over the door, and on its wall two black mourning boards: over the left row a big, heavy one painted 1.9, over the right row a small, light one painted 0.8.
+story:
+في صباح شتويّ رماديّ على نهر الكاما، في مملحة قديمة سوداء السقائف، كان الملح الأبيض قشرةً على كلّ شيء.
+ومن برج البئر المالحة العالي تمتدّ صفوف طويلة من أنابيب الخشب إلى قدور الغلي المتبخّرة، وقد ترسّب الملح في جوفها ليلة أمس.
+فعلى اليسار صفّ لا يرعاه إلّا العجوز نيكانور وحده بمكشطته الحديديّة، وكثير من أنابيبه قد انسدّ بالملح تمامًا.
+وعلى اليمين صفّ يعمل فيه فوما ويريمي كتفًا إلى كتف، فلم ينسدّ من أنابيبه إلّا الأقلّ.
+وفي كلّ صفّ أنبوب حديديّ عظيم لا تعلق به قشرة، يصبّ ماءً أبيض صافيًا كأنّ الملح يهابه.
+وقد جرحت المكاشط أيدي الرجال الثلاثة، فتناثرت على الملح قطرات حمر، عند الاثنين أكثر قليلًا ممّا عند العجوز.
+وفي الخلف تعلو كنيسة المملحة الخشبيّة الصغيرة، عند بابها سراج دافئ، وفوق الباب لوح عليه رقم: ثلاثون.
+وعلى جدارها لوحا حداد أسودان: فوق صفّ العجوز لوح كبير ثقيل عليه واحد فاصلة تسعة، وفوق صفّ الاثنين لوح صغير خفيف عليه صفر فاصلة ثمانية.
+فنظر نيكانور إلى اللوح الثقيل فوق صفّه طويلًا، ثمّ خلع قبّعته، ومسح يده الجريحة في ثوبه ولم يقل شيئًا.
+فوضع يريمي مكشطته وهمّ أن يعبر إليه ساخرًا، فأمسكه فوما من كمّه وقال له بصوت خفيض:
+quote: «كلّ إنسان، أيًّا كان، ومهما بلغ هوانه، يطلب، ولو بالغريزة، ولو دون وعي، أن تحترم كرامته الإنسانيّة.»
+source: مذكرات من البيت الميت
+explanation:
+Early occlusion of saphenous vein grafts is a main concern after coronary bypass surgery.
+In the meta-analysis quoted by the book, vein grafts were lost more often with aspirin alone, 10.8 against 6.6 per cent.
+Adding clopidogrel reduced early graft occlusion, so occlusion rates were not similar.
+There was no effect on arterial graft patency, so single therapy did not increase arterial graft loss.
+Major bleeding showed only a trend upward with dual therapy, not a significant increase, and angina or perioperative infarction did not differ.
+In-hospital or 30-day mortality was lower with aspirin plus clopidogrel, 0.8 against 1.9 per cent, which is the answer.
+note: Most of the 25728 patients came from observational studies and the randomised trials held fewer than a thousand, so the lower mortality is weaker evidence than the better vein-graft patency.
+
+== 193
+# 1 two pipes laid side by side long ago from the hot spring to the bath-house of a Caucasian spa: one hollowed from soft pale wood, one of slim, supple, hammered copper = saphenous vein graft against radial artery graft, randomised in the same patient
+# 2 a weathered board painted 1, where the commission once opened every pipe with lanterns at the first year whether anyone had complained or not = protocol angiography at one year (not symptom-directed); the primary end point was graft occlusion, not death; even then fewer copper pipes were blocked
+# 3 one single copper pipe pinched thin as a thread, lying beside a wide open stream that took its water = the string sign, in about 7% of radial grafts (not 30%), commoner where the native vessel is not severely narrowed
+# 4 the commission's clerk counting pipes in his ledger, not funerals = the end point was graft patency, not all-cause death
+# 5 years later, under a big board painted 5, workmen have dug both up: the wooden pipes lie split and choked with grey silt, while the copper pipes still pour clear hot water into the bath = in the long term functional occlusion was lower in radial artery grafts than in vein grafts (ANSWER)
+title: RAPS: radial artery grafts occlude less than vein grafts in the long term
+titleAr: تجربة RAPS: طعوم الشريان الكعبري تنسدّ أقلّ من الطعوم الوريدية على المدى البعيد
+tags: cardiac/coronary d:evidence q:recall l:3
+palette: bright Caucasian summer, blue mountains, white steam, gleaming copper, grey silt and pale wood
+words: 1, 5
+must: under the board painted 5 the copper pipes still pour clear hot water while the wooden pipes lie split and choked with silt; only one copper pipe is pinched thin as a thread, beside an open stream
+scene: a spa town in the Caucasus on a bright summer day, blue mountains behind, a white colonnade and a steaming hot spring. A commission of engineers in white summer coats has dug up the pipes laid long ago from the spring to the bath-house: two kinds side by side, ones hollowed from soft pale wood and ones of slim, supple, hammered copper. CENTRE, dominant and larger than life: under a big board painted 5, the workmen lift them out: the wooden pipes lie split and choked with grey silt, while the copper pipes still pour clear hot water into the bath, ladies on the colonnade pointing. LEFT: an old weathered board painted 1 stands where the commission once opened every pipe with lanterns. RIGHT: one single copper pipe lies pinched thin as a thread beside a wide open stream that took its water. FOREGROUND: the commission's clerk sits on a crate counting pipes in his ledger.
+story:
+في يوم صيفيّ ساطع في بلدة مياه من بلدات القوقاز، والجبال الزرقاء خلفها، كان ينبوع حارّ ينفث بخاره الأبيض أمام رواق من الأعمدة البيض.
+وقد جاءت لجنة من المهندسين في معاطف صيفيّة بيضاء، فنبشت الأنابيب الّتي مدّت قبل سنين طويلة من الينبوع إلى الحمّام.
+وكانت من نوعين جنبًا إلى جنب: أنابيب محفورة في خشب شاحب ليّن، وأنابيب نحيلة طيّعة من نحاس مطروق أصرّ عليها يومئذ مهندس شابّ اسمه ماتفي إيليتش.
+وعلى اليسار لوح قديم بال عليه رقم: واحد، حيث فتحت اللجنة ذات مرّة كلّ أنبوب بالفوانيس، سواء شكا منه أحد أم لم يشك أحد.
+وحتّى يومئذ كان المسدود من النحاس أقلّ من المسدود من الخشب.
+وعلى اليمين أنبوب نحاسيّ واحد لا غير، قد انضغط حتّى صار رفيعًا كالخيط، إلى جانب جدول مكشوف عريض أخذ ماءه.
+وفي المقدّمة جلس كاتب اللجنة زوسيموف على صندوق يعدّ الأنابيب في دفتره، ويقول لمن يسأله: «للموتى دفاتر أخرى يا سادة، أمّا دفتري فللأنابيب!»
+وفي الوسط تحت لوح كبير عليه رقم: خمسة، رفع العمّال الأنابيب من التراب، فإذا الخشبيّة مشقوقة مخنوقة بطمي رماديّ.
+وإذا النحاسيّة ما تزال تصبّ في الحمّام ماءً حارًّا صافيًا، كأنّها مدّت أمس.
+فأشارت السيّدات من الرواق صائحات، ونادت منهنّ الأميرة فارفارا المهندس العجوز ماتفي إيليتش، وقد شاب وانحنى، وقالت له أمام اللجنة كلّها:
+quote: «هنا الجميع، الجميع لا يساوون خنصرك، ولا عقلك ولا قلبك! أنت أشرف الجميع، وأنبل الجميع، وخير الجميع، وأطيب الجميع، وأذكى الجميع!»
+source: الأبله
+explanation:
+RAPS randomised, within the same patient, a radial artery graft to one coronary territory and a saphenous vein graft to the other, while the left internal thoracic artery went to the anterior wall.
+Angiography was done by protocol at about one year, not only when symptoms appeared, and already then fewer radial grafts were completely occluded, 8.2 against 13.6 per cent, so the one-year rates were not similar.
+Diffuse narrowing, the string sign, affected 7 per cent of radial grafts, not 30, and was commoner when the native artery was not severely narrowed.
+The primary end point was graft occlusion, not death from any cause.
+At late angiography, a mean of 7.7 years after surgery, functional occlusion was lower in radial artery grafts than in vein grafts, 12.0 against 19.7 per cent, which is the answer.
+note: The option speaks of five years, but the late RAPS angiograms were done at a mean of 7.7 years after surgery; the book's key is kept.
+
+== 194
+# 1 a triangular gap in a fairground: in front a tall striped mast, behind it a high brick wall, below a stone arch, above a wooden crossbeam = the retrotracheal space: trachea in front, spine behind, aortic arch below, thoracic inlet above
+# 2 two huge pale balloons swelling in from both sides and filling the whole triangle, light shining through them = both lungs fill the space and make it radiolucent: lung is a normal content (ANSWER)
+# 3 where one balloon presses against the back of the mast, a thin bright white seam running down the mast's back = the posterior tracheal line, made by lung touching the back of the trachea; it forms the FRONT margin of the space
+# 4 a crooked extra iron arch looping strangely behind the stone arch, workmen pointing at it = the commonest lesions there are vascular: anomalies of the aortic arch (not neurogenic)
+# 5 a thin cord hooking under the stone arch and running back up, painted L = the left recurrent laryngeal nerve is a content of the space (not the right)
+title: The retrotracheal space: the lungs are a normal content
+titleAr: المسافة خلف الرغامى: الرئتان من محتوياتها الطبيعية
+tags: thoracic/mediastinum thoracic/foundations d:anatomy d:diagnosis q:recall l:3
+palette: pale summer sky, two luminous ivory balloons, red-and-white striped mast, dark red brick, grey stone
+words: L
+must: the two balloons fill the triangle between the striped mast, the brick wall, the stone arch and the crossbeam; a thin white seam runs down the back of the mast where a balloon presses on it; the cord painted L hooks under the stone arch
+scene: a pleasure ground on the edge of Petersburg on a still summer afternoon, a crowd gathered for an aeronaut's ascent. CENTRE: a tall triangular gap: in front a tall red-and-white striped mast, behind it a high dark brick wall, below a grey stone arch, and above a wooden crossbeam closing the top. CENTRE, dominant and larger than life: two huge pale ivory balloons swell in from both sides and fill the whole triangle, glowing as the light shines through them; where one presses against the back of the mast a thin bright white seam runs down the mast's back. LOWER RIGHT: behind the stone arch a crooked extra iron arch loops strangely, and two workmen point at it. LOWER LEFT: a thin cord hooks under the stone arch and runs back up, painted L.
+story:
+في عصر يوم صيفيّ ساكن في متنزّه على أطراف بطرسبورغ، كان الناس يحتشدون ليروا صعود ملّاح المناطيد.
+وفي الوسط فرجة عالية مثلّثة: أمامها سارية طويلة مخطّطة بالأحمر والأبيض، وخلفها جدار عال من آجرّ داكن.
+ومن تحتها قوس من حجر رماديّ، ومن فوقها عارضة خشبيّة تغلق رأسها.
+فإذا منطادان هائلان بلون العاج ينتفخان من الجانبين، حتّى ملآ المثلّث كلّه، والنّور ينفذ فيهما فيتوهّجان كقنديلين عظيمين.
+وحيث ضغط أحدهما على ظهر السارية، سال على ظهرها من أعلاها إلى أسفلها درز أبيض رفيع لامع كخيط من ضوء.
+وفي الأسفل إلى اليمين خلف القوس الحجريّ، كان يلتفّ قوس حديديّ زائد معوجّ التفافًا غريبًا، لا يدري أحد من ركّبه.
+فأشار إليه عاملان هما فيدوت وأكيم، وقال فيدوت لصاحبه: «هذا القوس الأعوج أصل كلّ بلاء هنا!»
+وفي الأسفل إلى اليسار حبل رفيع يلتفّ تحت القوس الحجريّ ثمّ يصعد راجعًا، وعليه حرف إل.
+وكان بين الجمهور معلّم رسم عجوز فقير اسمه تيخون، لم يذق طعامًا منذ الصباح، فوقف يحدّق في المنطادين المتوهّجين وقد نسي جوعه.
+ثمّ قال لمن حوله وعيناه تدمعان:
+quote: «يمكن العيش بلا علم، يمكن بلا خبز، أمّا بلا الجمال وحده فمستحيل، إذ لن يبقى في الدنيا شيء يفعل!»
+source: الشياطين
+explanation:
+On a lateral chest radiograph the retrotracheal space is a lucent triangle bounded by the trachea in front, the spine behind, the aortic arch below and the thoracic inlet above.
+Both lungs reach into it and make it lucent, the right lung behind the trachea and the left lung above the aortic arch, so lung is a normal content, which is the answer.
+The posterior tracheal line is made by lung in contact with the back wall of the trachea, not by the oesophagus, and it forms the anterior margin of the space, not the posterior one.
+The commonest lesions there are vascular, developmental anomalies of the aortic arch, rather than neurogenic tumours.
+Its normal contents are the oesophagus, the left recurrent laryngeal nerve, the thoracic duct, lymph nodes and lung, so the right recurrent laryngeal nerve is wrong.
+
+== 195
+# 1 a tall slender clay chimney-pipe standing upright in a pottery yard, taller than two men, freshly drawn from the kiln = the oesophagus
+# 2 on its lower part a smooth round twin bubble of clay grown out beside the pipe's wall, a big 60 painted on it, the upper part of the pipe bare = about 60% of oesophageal duplication cysts lie in the lower oesophagus (ANSWER)
+# 3 the bubble filled with clear still water, the same all through, light shining through it = on CT usually homogeneous, of water attenuation (not heterogeneous)
+# 4 one small patch of red glaze inside the bubble, on one side only = ectopic gastric mucosa only in some cysts, not in most
+# 5 long rows of hundreds of good pots and pipes all round the yard, only this one with a bubble = rare: only about 0.5-2.5% of oesophageal tumours and tumour-like lesions, not 25%
+# 6 the master potter raising a taut cutting wire to cut the bubble away whole = complete surgical excision, not conservative treatment
+title: Oesophageal duplication cysts: about 60% lie in the lower oesophagus
+titleAr: كيسات المريء المضاعِفة: نحو 60٪ منها في الجزء السفلي من المريء
+tags: thoracic/oesophagus d:pathology d:diagnosis q:recall l:2
+palette: warm terracotta and ochre, kiln-fire orange, cool clear water, one patch of red glaze
+words: 60
+must: the bubble grows only on the lower part of the tall pipe and is painted 60; it is filled with clear still water; the potter holds the cutting wire to take it away whole
+scene: a potters' village on the Volga on a late summer afternoon, a brick kiln still glowing orange, the yard full of long rows of finished pots and pipes drying in the sun. CENTRE, dominant and larger than life: a tall slender clay chimney-pipe, taller than two men, freshly drawn from the kiln, stands upright, and low down on its lower part a smooth round twin bubble of clay has grown out beside its wall, a big 60 painted on it, while the upper part of the pipe stays bare. The bubble is filled with clear still water, the same all through, the light shining through it, and only one small patch of red glaze shows inside it on one side. RIGHT: the master potter, a grey-bearded man in a clay-stained apron, raises a taut cutting wire to cut the bubble away whole. LEFT and BACKGROUND: the long rows of good pots and pipes, not one other with a bubble, and the potter's apprentices staring.
+story:
+في عصر من أواخر الصيف في قرية للفخّارين على الفولغا، كان الأتّون الآجرّيّ ما يزال يتوهّج برتقاليًّا، والسّاحة ملأى بصفوف الجرار والأنابيب تجفّ في الشمس.
+وفي الوسط، أعظم من كلّ ما حوله، قام أنبوب مدخنة من الطين نحيل أطول من رجلين، أخرج لتوّه من الأتّون.
+وفي أسفله وحده، وأعلاه عار أملس، نبتت إلى جانب جداره فقّاعة من الطين مستديرة ملساء كتوأم له، عليها رقم كبير: ستّون.
+وكانت الفقّاعة مملوءةً بماء صاف ساكن لا يختلف منه شيء عن شيء، والضّوء ينفذ فيها من جانب إلى جانب.
+ولم يكن فيها إلّا رقعة صغيرة من طلاء أحمر لامع، على جانب واحد منها لا غير.
+وحول الساحة مئات الجرار والأنابيب السليمة صفوفًا طويلة، ليس في واحد منها فقّاعة، فوقف الصبية يحدّقون في هذا الغريب وحده.
+فقال الصبيّ ميتكا وهو يمدّ إصبعه إليها: «دعها يا معلّم، فهي لا تؤذي أحدًا وهي جميلة!»
+لكنّ المعلّم العجوز بروكوبي، الأشيب اللحية، في مئزره الملطّخ بالطّين، رفع على اليمين سلك القطع مشدودًا بين يديه، ليقطع الفقّاعة كلّها دفعةً واحدة.
+وقال لميتكا: «كلّ فقّاعة هادئة تنفجر يومًا يا بنيّ، فلا نترك منها شيئًا!»
+ثمّ نظر طويلًا إلى الفقّاعة الجميلة وإلى السلك في يده، وقد تنازعه قول الصبيّ وقوله هو معًا، فقال مبتسمًا في لحيته:
+quote: «فكرتان اجتمعتا معًا، وهذا يحدث كثيرًا جدًّا. ومعي أنا بلا انقطاع.»
+source: الأبله
+explanation:
+Oesophageal duplication cysts are congenital malformations lying in or beside the wall of the oesophagus.
+About 60 per cent of them are in the lower part of the oesophagus, which is the answer.
+On CT they are usually homogeneous spherical or tubular masses of water attenuation, not heterogeneous, although bleeding or protein-rich contents can raise their attenuation.
+Ectopic gastric mucosa lines only some cysts, where it can cause complications, not most of them.
+They are rare, only 0.5 to 2.5 per cent of oesophageal tumours and tumour-like lesions, not 25 per cent.
+Whether or not they cause symptoms, they are treated by complete surgical excision to prevent complications, not managed conservatively.
+
