@@ -87,6 +87,21 @@ def parse(path):
     return book, say, lessons
 
 
+def words_for_symbols(t):
+    """The English text as it should be heard: a voice reads "(" as "open parenthesis" and "4-8" as
+    "four minus eight", so symbols between numbers or words are said in words. Only what is spoken
+    changes; the text the learner reads stays as written."""
+    t = re.sub(r"\s*\(([^()]*)\)", r", \1,", t)                    # (bubble) -> , bubble,
+    t = re.sub(r"(\d)\s*[-–]\s*(?=\d)", r"\1 to ", t)               # 5-10 -> 5 to 10
+    t = re.sub(r"(\d)\s*[x×]\s*(?=\d)", r"\1 times ", t)            # 4 x 3 -> 4 times 3
+    t = re.sub(r"\s+[x×]\s+(?=\d)", " times ", t)                    # 2.6 litres x 16
+    t = re.sub(r"(\d)\s*\+\s*(?=\d)", r"\1 plus ", t)               # 36 + 7
+    t = re.sub(r"\s*=\s*", " equals ", t)
+    t = re.sub(r"(\d)\s*/\s*(?=\d)", r"\1 over ", t)                # 16/19 -> 16 over 19
+    t = re.sub(r"(\w)/(?=\w)", r"\1 ", t)                           # pleurectomy/decortication, and/or
+    return re.sub(r",\s*([,.;:])", r"\1", t)
+
+
 def display(parts):
     """A sentence's parts as one caption: a character's words between « »."""
     out = []
@@ -243,7 +258,7 @@ def cmd_make(args):
                     def spoken(t):
                         for a, b in say.items():
                             t = re.sub(rf"\b{re.escape(a)}\b", b, t)
-                        return t
+                        return words_for_symbols(t)
                     plan = [[(spoken(seg["text"]), spec, pause["segment"])] for seg in segs]
                     name = f"{lesson['id']}-explanation-en.m4a"
                 else:
