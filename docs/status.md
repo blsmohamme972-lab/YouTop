@@ -49,6 +49,17 @@ Updated 2026-11-17 (evening). Whoever works on YouTop next: read `CLAUDE.md`, th
   invented "stapled closure" sentence removed; Lavrenty now says "fruit of one field" before the quotation
   recalls it), 192 (salt "settled", not "peeled"). `voice.py check`: all heard; 196's whispered line was
   missed by the whole-sentence check but heard when checked alone.
+- **Every lesson now has a recorded voice (2026-11-18, ~11:00 UTC); the phone voice is never used.** The owner
+  asked "جميع الاصوات انت تصنعها احذف الالي" (all voices, you make them; remove the machine/phone voice). So
+  lessons 1-40 got a story voice and an English explanation voice made by `voice.py`, **replacing the owner's own
+  recordings of 1-10 and 31-40** (their files stay on `content` under the old names; the new ones are `-v2`).
+  The story text was not rewritten: two agents only vowelled it (`work/shahzad-2015/voice-0001-0040/`), two
+  checkers found 0 errors; the published text only gained the voice file's marks (shadda, tanwin fath) and, in
+  ~55 sentences, a full stop or comma moved inside the closing ». Three speeches that the narrator read (2.10,
+  13.9, 15.9) now have a character's voice and « ». `voice.py` now says symbols in English explanations as
+  words (5-10, 4 x 3, =, /, +, parentheses). `voice.py check`: all heard (40.3 "A و B و C" is read letter by
+  letter, poorly recognised). `batch.py status`: no lesson without story or explanation voice. The app's
+  phone-voice fallback was NOT removed from the code (it now only plays if an audio file cannot be downloaded).
 - **Next rounds: no new lessons (the book is finished; do not invent a new book).** Each round only checks the
   pictures folder and, for pictures that arrived, does pictures, spots and marks and publishes them.
 - **Pictures still missing: 23-30, 46-75, 106-200** (none new at 2026-11-18 ~09:30 UTC).
