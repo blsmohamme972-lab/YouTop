@@ -1,0 +1,88 @@
+book: shahzad-2015
+== 46
+1: 50 20 30 | Red aqueduct at arches 5 and 6 | Bronchial arteries arise from the thoracic aorta at T5-T6
+2: 20 38 12 | Two copper pipes down the front to the left tree | Usually two left bronchial arteries, from the front of the aorta
+3: 85 40 10 | One pipe on the right side | One right artery: the intercostobronchial trunk
+4: 22 55 20 | The great tree kept green | They supply airways, nodes, pleura and lung tissue
+5: 55 82 12 | Old surveyor at milestone 60 | The classic pattern is seen in only 60%
+6: 60 20 15 | Thin pipe watering the wall's own gardens | They supply the vasa vasorum of the aorta
+question: 1 5
+answer: 6
+== 47
+1: 25 42 12 | Liza's face flushing crimson | Facial blushing
+2: 42 50 18 | Two strings of lamps up the white column | Sympathetic chains on each side of the spine
+3: 40 92 8 | Single lamp at the bottom, the cat watching | The two chains join at the ganglion impar
+4: 70 12 20 | Star lamp wired to the heart-shaped clock | Stellate ganglion gives the inferior cardiac branch
+5: 42 3 8 | String vanishing round the red pipe in the dome | Enters the skull on the internal carotid, not foramen magnum
+6: 50 36 7 | Lamp 2, cut by Fedka's scissors | Blushing: chain blocked at T2
+7: 54 47 10 | Lamps 3 and 4 | Sweaty hands: T3-T4
+8: 61 72 8 | Gloves still dripping on the nail | Compensatory sweating, the commonest side effect
+question: 1 2
+answer: 6
+== 48
+1: 14 40 12 | Striped pole: flames between 3 and 5 | T2a: tumour more than 3 cm, not more than 5 cm
+2: 8 40 12 | The burning baker's house | The primary tumour
+3: 38 32 8 | Two lanterns lit in the tower on the fire's side | N2: same-side mediastinal node lights up on PET
+4: 88 28 10 | Tower across the road, dark | Opposite-side nodes would be N3
+5: 60 30 10 | Ferry chained, chalked zero | M0: no distant metastasis
+6: 65 80 12 | Boy holding the rope with three knots | Stage in three parts: T2a N2 M0
+question: 2 6
+answer: 1 3 5
+== 49
+1: 12 38 12 | Elderly people on crutches | Inoperable patients with severe aortic stenosis
+2: 30 35 15 | Giant forcing the rusty gate with a bladder | Standard therapy incl. balloon valvuloplasty: relief fades
+3: 72 30 20 | New ivory gate of calfskin | Bovine pericardial valve put in through the femoral artery
+4: 22 66 10 | Crosses marked 51 | One-year death with standard therapy: 50.7%
+5: 86 72 8 | Crosses marked 31 | One-year death with TAVI: 30.7%
+6: 40 88 15 | Hauler fallen by the frayed red rope | More strokes and vascular complications after TAVI
+7: 70 13 15 | Twelve moons on the new gate | No valve deterioration in the year after TAVI
+question: 1 3
+answer: 7
+== 50
+1: 18 30 15 | Brown bear holding the gate, post 25 | Resting pressure 25 mmHg: a closed sphincter
+2: 44 28 9 | Scale on the gate falling to 5 | Relaxes to 5 mmHg on swallowing: lower oesophageal sphincter
+3: 12 60 12 | Vanya playing his pipe | The swallow
+4: 30 48 9 | Bread cart passing through | Bolus passes, then the sphincter closes again
+5: 70 35 18 | White bear with wax in his ears | Achalasia: the sphincter does not relax
+6: 83 26 9 | Scale stuck at 30 | Normal or raised pressure (30) that fails to fall
+7: 72 77 15 | Boy blowing, carts piled up | Food held back above the sphincter
+question: 3 1
+answer: 2
+== 52
+1: 62 50 15 | Squat Gavrila ladling a film onto a bubble | Type II pneumocytes secrete surfactant
+2: 70 50 15 | Bubble round and shining, not collapsing | Surfactant lowers surface tension, keeps alveoli open
+3: 70 22 15 | Thin women stretching grey sheets | Type I pneumocytes: cover most of the surface
+4: 24 9 10 | Painted numbers 60 and 5 | Type II: 60% of cells but under 5% of the surface
+5: 15 70 12 | Soap cakes layered like a cut onion | Surfactant stored in lamellar bodies
+6: 78 85 15 | Cradle by the empty stool, bubbles collapsed | Premature infant without surfactant: alveoli collapse
+7: 12 38 12 | Squat worker holding up a torn sheet | Type II cells can replace damaged type I cells
+question: 6 3
+answer: 1
+== 53
+1: 15 20 15 | Sagging barn, old man at a huge bellows | Dilated cardiomyopathy: weak, dilated heart
+2: 52 20 12 | Neat cottage, curtain billowing inwards | Mitral valve prolapse (18-year-old girl)
+3: 85 20 12 | House with wasp nests, feverish young man | Infective endocarditis
+4: 50 33 35 | Dark red clots falling from every door | All three can throw emboli
+5: 65 75 22 | Mill wheel jammed, bridge choked, well bucket | Systemic emboli: spleen, kidney, liver, gut, limbs
+6: 20 75 15 | Miller pulling out clots with a hook | What they share: risk of systemic thromboembolism
+question: 1 2 3
+answer: 4 5
+== 54
+1: 50 45 45 | Walled garden split by a hedge | The heart: left ventricle large, right small
+2: 7 22 6 | Plaque with 8 | Left dominance in about 8%
+3: 20 55 12 | Boulder in the side channel at the fork | Occlusion at the origin of the circumflex
+4: 35 25 25 | Orchard dead | Lateral left ventricular wall infarcted
+5: 64 22 12 | Back half of the hedge dead | Posterior septum: dominant circumflex gives the PDA
+6: 64 70 12 | Front of the hedge and garden green | Apex and anterior septum: LAD, spared
+7: 85 45 15 | Small right garden green, own stream | Right ventricle: right coronary artery
+question: 2 3
+answer: 4 5
+== 55
+1: 45 25 15 | Tall thin father, spider fingers, bandaged chest | Marfan syndrome after aortic dissection repair
+2: 50 50 9 | Silver coin marked 50 spinning | Autosomal dominant: each child 50% chance
+3: 52 68 10 | Baby asleep, half in light, half dark | Features may not show until adolescence
+4: 70 10 8 | Short fat fourth portrait | Spontaneous mutation in about 25%
+5: 15 50 15 | Clerk finding blank pages in the register | FBN1 mutation not found in 10-30%
+6: 88 55 12 | Judge pressing one seal under the crest | Family history: one major criterion suffices
+question: 1 3
+answer: 2
