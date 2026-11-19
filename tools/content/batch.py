@@ -79,7 +79,7 @@ import argparse, json, pathlib, re, shutil, subprocess, sys, unicodedata
 ROOT = pathlib.Path(__file__).resolve().parents[2]
 DEFAULT_FOLDER = ROOT / ".content-work"
 LATIN = re.compile(r"[A-Za-z]")
-KEYS = {"title", "titleAr", "tags", "palette", "words", "must", "keywords", "scene", "story", "quote", "source", "explanation", "note", "key"}
+KEYS = {"title", "titleAr", "tags", "palette", "words", "must", "keywords", "scene", "story", "quote", "source", "explanation", "note", "key", "option"}
 MULTI = {"story", "explanation"}
 
 
@@ -284,6 +284,14 @@ def lint(cfg, b, q, used, problems, warnings):
             problems.append(f"{w}: a corrected key needs the tag x:key-corrected")
         if not b.get("note"):
             problems.append(f"{w}: a corrected key needs a 'note:' saying what the book's key was and why it is wrong")
+    if b.get("option") and q is not None:
+        fixed = option_override(b, q)
+        if fixed is None:
+            problems.append(f"{w}: write the corrected option as 'option: C = the corrected text'")
+        if "x:key-corrected" not in (b.get("tags") or ""):
+            problems.append(f"{w}: a corrected option needs the tag x:key-corrected")
+        if not b.get("note"):
+            problems.append(f"{w}: a corrected option needs a 'note:' saying what the book printed and why it is wrong")
     if cfg.get("soundAlikes") and not b.get("keywords"):
         warnings.append(f"{w}: no 'keywords' (the owner's rule 2: every abstract term of the answer as a concrete sound-alike object)")
     story, expl = b.get("story") or [], b.get("explanation") or []
@@ -317,7 +325,7 @@ def lint(cfg, b, q, used, problems, warnings):
     if b.get("words") and len(b["words"]) > 40:
         warnings.append(f"{w}: 'words' is long; image generators misspell more than a few short labels")
     if q is not None and expl:
-        answer = q["options"][q["answer"]]
+        answer = (option_override(b, q) or q["options"])[q["answer"]]
         key_words = [x for x in re.findall(r"[A-Za-z]{5,}", answer.lower())]
         text = " ".join(expl).lower()
         if key_words and not any(x in text for x in key_words):
@@ -332,6 +340,16 @@ def key_override(b, q):
     return sorted({ord(x.upper()) - ord("A") for x in letters})
 
 
+def option_override(b, q):
+    """The options with a clear misprint corrected ('option: C = text'), or None when there is none or it is unreadable."""
+    m = re.fullmatch(r"\s*([A-Za-z])\s*=\s*(.+?)\s*", b.get("option") or "")
+    if not m or not 0 <= ord(m.group(1).upper()) - ord("A") < len(q["options"]):
+        return None
+    options = list(q["options"])
+    options[ord(m.group(1).upper()) - ord("A")] = m.group(2)
+    return options
+
+
 def build_lesson(cfg, b, q, book_dir, old, force, problems, warnings):
     n = b["n"]
     lid = lesson_id(cfg, n)
@@ -340,7 +358,7 @@ def build_lesson(cfg, b, q, book_dir, old, force, problems, warnings):
     story = [{"text": t} for t in b["story"]] + [{"text": b["quote"], "quote": source}]
     explain = " ".join(b["explanation"]) + (" " + b["note"] if b.get("note") else "")
     right = key_override(b, q) or sorted(set(q.get("answers") or [q["answer"]]))
-    quiz = {"q": fix(q["stem"]), "options": [fix(o) for o in q["options"]], "answer": right[0],
+    quiz = {"q": fix(q["stem"]), "options": [fix(o) for o in (option_override(b, q) or q["options"])], "answer": right[0],
             "explain": explain, "lang": "en", "source": f"{cfg['sourceLabel']}, Q{n}"}
     if len(right) > 1:
         quiz["answers"] = right  # "choose all that apply": the app ticks and checks them together (since 2.5)

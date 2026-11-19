@@ -89,6 +89,14 @@ a batch that draws a listed concept any other way is refused by `batch.py`.
 | coronary artery bypass grafting | big green cabbage leaves laid as bridges over the tar-clogged spikes of the Liberty crown | CABG is said 'cabbage'; the leaves bridge the blocked parts | 10/10 | medcosmos-cardiac |
 | angina pectoris | a heavy stone angel sitting on a man's chest | ANGINA ~ angel; the weight on the chest | 10/10 | medcosmos-cardiac |
 | ejection fraction | a nightclub bouncer ejecting guests out of the red engine room's door, a counter showing the share thrown out | EJECTION = thrown out; the FRACTION thrown out with each beat | 9/10 | medcosmos-cardiac |
+| diabetes mellitus | a man sitting on a mountain of white sugar cubes | sugar in the blood | 10/10 | medcosmos-cardiac |
+| PTCA, PCI, angioplasty and stents | a coiled metal Slinky spring pushed on a long wire into a clogged pipe to hold it open | a stent is a metal coil that springs a narrowed artery open | 9/10 | medcosmos-cardiac |
+| sternal wound infection, mediastinitis | the opened stern of a ship rotting with green mould along its white centre line | the sternotomy (the ship's stern) gone rotten | 9/10 | medcosmos-cardiac |
+| internal mammary (thoracic) artery graft | a green lima bean vine growing down from the chest wall onto the front of the Liberty crown | LIMA = lima bean; a living vine, not a cut-off piece | 10/10 | medcosmos-cardiac |
+| saphenous vein graft | a chain of blue sapphires laid as a bridge over a clogged spike of the Liberty crown | SAPHenous = sapphire, blue like a vein | 10/10 | medcosmos-cardiac |
+| gated equilibrium radionuclide study (MUGA, gated blood pool) | a big glowing green coffee mug filled slowly, drip by drip, over many beats | MUGA = mug; it is built up over hundreds of beats | 10/10 | medcosmos-cardiac |
+| first-pass (initial-transit) radionuclide study | one glowing green shot glass downed in a single gulp | the bolus is seen on its first, single pass | 9/10 | medcosmos-cardiac |
+| cardioplegia, cardioplegic arrest | a bucket of ice-cold water full of bananas poured over the hotel so that its fans stop dead | the solution is cold and rich in potassium (bananas); it stops the heart still | 9/10 | medcosmos-cardiac |
 
 ## Rejected (never use them)
 

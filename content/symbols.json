@@ -2156,6 +2156,255 @@
    "status": "approved",
    "reason": "total 9/10",
    "audited": "2026-11-19"
+  },
+  {
+   "id": "diabetes",
+   "concept": "diabetes mellitus",
+   "terms": [
+    "diabetes",
+    "diabetic",
+    "diabetes mellitus",
+    "diabetics"
+   ],
+   "symbol": "a man sitting on a mountain of white sugar cubes",
+   "anchors": [
+    "sugar"
+   ],
+   "kind": "literal",
+   "why": "sugar in the blood",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "pci",
+   "concept": "PTCA, PCI, angioplasty and stents",
+   "terms": [
+    "ptca",
+    "pci",
+    "percutaneous coronary intervention",
+    "angioplasty",
+    "percutaneous transluminal coronary angioplasty",
+    "coronary angioplasty",
+    "balloon angioplasty",
+    "stent",
+    "stents",
+    "stenting",
+    "failed ptca"
+   ],
+   "symbol": "a coiled metal Slinky spring pushed on a long wire into a clogged pipe to hold it open",
+   "anchors": [
+    "slinky"
+   ],
+   "kind": "literal",
+   "why": "a stent is a metal coil that springs a narrowed artery open",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "sternal-infection",
+   "concept": "sternal wound infection, mediastinitis",
+   "terms": [
+    "mediastinitis",
+    "sternal wound infection",
+    "sternal wound infections",
+    "sternal infection",
+    "deep sternal wound infection",
+    "sternal wound complications"
+   ],
+   "symbol": "the opened stern of a ship rotting with green mould along its white centre line",
+   "anchors": [
+    "mould"
+   ],
+   "kind": "literal",
+   "why": "the sternotomy (the ship's stern) gone rotten",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "lima",
+   "concept": "internal mammary (thoracic) artery graft",
+   "terms": [
+    "internal mammary artery",
+    "internal thoracic artery",
+    "left internal mammary artery",
+    "right internal mammary artery",
+    "ima",
+    "lima",
+    "rima",
+    "mammary artery",
+    "internal mammary",
+    "ima graft",
+    "internal mammary artery bypass graft"
+   ],
+   "symbol": "a green lima bean vine growing down from the chest wall onto the front of the Liberty crown",
+   "anchors": [
+    "lima bean"
+   ],
+   "kind": "sound-alike",
+   "why": "LIMA = lima bean; a living vine, not a cut-off piece",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "svg",
+   "concept": "saphenous vein graft",
+   "terms": [
+    "saphenous vein graft",
+    "saphenous vein grafts",
+    "saphenous vein",
+    "svg",
+    "vein graft",
+    "vein grafts"
+   ],
+   "symbol": "a chain of blue sapphires laid as a bridge over a clogged spike of the Liberty crown",
+   "anchors": [
+    "sapphire"
+   ],
+   "kind": "sound-alike",
+   "why": "SAPHenous = sapphire, blue like a vein",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "muga",
+   "concept": "gated equilibrium radionuclide study (MUGA, gated blood pool)",
+   "terms": [
+    "gated equilibrium",
+    "muga",
+    "multigated acquisition",
+    "gated blood pool",
+    "gated equilibrium techniques",
+    "gated equilibrium study"
+   ],
+   "symbol": "a big glowing green coffee mug filled slowly, drip by drip, over many beats",
+   "anchors": [
+    "mug"
+   ],
+   "kind": "sound-alike",
+   "why": "MUGA = mug; it is built up over hundreds of beats",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "first-pass",
+   "concept": "first-pass (initial-transit) radionuclide study",
+   "terms": [
+    "first-pass",
+    "first pass",
+    "initial-transit",
+    "initial transit",
+    "initial-transit methods",
+    "initial-transit study"
+   ],
+   "symbol": "one glowing green shot glass downed in a single gulp",
+   "anchors": [
+    "shot glass"
+   ],
+   "kind": "literal",
+   "why": "the bolus is seen on its first, single pass",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "cardioplegia",
+   "concept": "cardioplegia, cardioplegic arrest",
+   "terms": [
+    "cardioplegia",
+    "cardioplegic",
+    "cardioplegic arrest",
+    "cardioplegic solution",
+    "cold cardioplegia",
+    "blood cardioplegia",
+    "crystalloid cardioplegia"
+   ],
+   "symbol": "a bucket of ice-cold water full of bananas poured over the hotel so that its fans stop dead",
+   "anchors": [
+    "banana"
+   ],
+   "kind": "literal",
+   "why": "the solution is cold and rich in potassium (bananas); it stops the heart still",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
   }
  ]
 }

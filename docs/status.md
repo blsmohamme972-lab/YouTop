@@ -19,21 +19,20 @@ Updated 2026-11-19 (evening). Whoever works on YouTop next: read `CLAUDE.md`, th
   ends: while it runs, never build, set pictures, spots or marks, or publish. Start make as a round's last step.
 - **Unpublished work** lives in `.content-work/work/medcosmos-cardiac/batch-*/` (batch, voice, spots, marks) and is
   backed up on the work branch under `drafts/medcosmos-cardiac/` until it is published to `content`.
-- **Where things stand (2026-11-19, 22:00 UTC):**
-  - **1-20 PUBLISHED** (first MedCosmos publish, recorded voices, spots and marks looked at). Pictures 2 and 4 are still
-    missing from the owner's folder; when they arrive: `batch.py pictures`, spots and marks for 2 and 4 (the texts for
-    them are already in `work/medcosmos-cardiac/batch-0001-0020/`), look, publish.
-  - 21-30: built; recording running (log: scratchpad `voice-make-21.log`). It rewrites chapter `q0001-0100` when it
-    ends, so nothing else may write that chapter (31-40 too) until it is done. NEXT: `voice.py check`, and when the
-    owner's pictures 21-30 arrive: `batch.py pictures`, spots, marks, look, publish.
-  - 31-40: scenes and prompts written (`work/medcosmos-cardiac/batch-0031-0040/`), prompts SENT to the owner
-    (22:45 local). 13 new recurring symbols approved by the audit (fontan = fountain, glenn = astronaut, hypoplastic =
-    plastic hippo, truncus = tree trunk, arterial-switch = switch lever, atrial-switch = mustard, balloon-septostomy =
-    party balloon, oxygen = ox, hyperventilation = paper bag, pvr = wooden blocks, arrhythmia = pirate, conduit =
-    waterslide, cyanosis = blue lips). NEXT: stories, explanations and the vowelled voice.txt for 31-40, then build
-    and `voice.py make` once 21-30 has finished recording.
-  - Work files are also published with the content (the `work/` folder of the content branch) and copied to the work
-    branch under `drafts/medcosmos-cardiac/`.
+- **Where things stand (2026-11-19, 22:55 UTC):**
+  - **1-20 PUBLISHED.** Pictures 2 and 4 still missing (texts, spots and marks for them are in
+    `work/medcosmos-cardiac/batch-0001-0020/`; when they arrive: `batch.py pictures`, spots, marks, look, publish).
+  - 21-30: built and RECORDED; `voice.py check` (log: scratchpad `voice-check-21.log`). Waiting for the owner's
+    pictures 21-30; then `batch.py pictures`, spots, marks, look at every drawing, publish.
+  - 31-40 and 41-50: written, built, prompts SENT; recording running (log: scratchpad `voice-make-31.log`; it rewrites
+    chapter `q0001-0100` at the end of EACH make, so nothing else may write that chapter until `exit41` appears).
+    Then `voice.py check` both.
+  - 51-60: scenes and prompts written and SENT. NEXT: stories (vowelled voice.txt), explanations, build, make.
+    Q56's option C is printed reversed in the book; corrected with the new `option: C = ...` line (batch.py),
+    tag x:key-corrected and a note.
+  - New recurring symbols (all approved by `symbols.py audit`, 83 in all): see `content/symbols.md`.
+  - Work files are published with the content (`work/` on the content branch) and copied to the work branch
+    under `drafts/medcosmos-cardiac/`.
 - **Question 82** has a matching key and is refused by build; plan: split it into four questions in one lesson.
 
 ## NEW BOOK (2026-11-19): MedCosmos Cardiac, 156 questions — New York City, quotations of Rumi
