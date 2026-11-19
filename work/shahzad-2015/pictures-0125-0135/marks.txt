@@ -1,0 +1,92 @@
+book: shahzad-2015
+== 125
+1: 70 25 25 | Freshly repaired ships setting out | Patients after CABG
+2: 20 35 15 | Ship with thin hull and limp sails | Impaired ventricular function: worse late survival
+3: 12 65 12 | Sailors pumping water nonstop | Heart failure
+4: 12 17 10 | Keeper notching a post each year | Long-term survival
+5: 85 22 10 | Leading ship with two new masts | Bilateral mammary grafts may improve survival
+6: 60 26 10 | Ship with old storm marks sailing on | Unstable angina or non-Q MI: little effect late
+question: 1 4
+answer: 2 3
+== 126
+1: 50 25 25 | Runners forced up the steep hill | Graded exercise test
+2: 30 42 15 | Red flags where runners fell | Strongly positive test: lower survival
+3: 18 26 12 | Dam marked 40 60 | Untreated left main: 40-60% five-year survival
+4: 20 65 15 | Front river silted, fields brown | LAD disease: more muscle at risk than RCA
+5: 54 47 8 | Milestone 60 | Three-vessel disease: about 60% at ten years
+6: 85 70 15 | Ilya refusing to board | Prognosis decides treatment
+question: 6 1
+answer: 2
+== 127
+1: 25 85 15 | Old doors lying on the floor | Rheumatic aortic and mitral valves removed
+2: 50 45 22 | Iron door and wooden door | Double valve replacement, mechanical or biological
+3: 50 18 15 | Great beam cracking overhead | Early death: acute heart failure
+4: 50 75 12 | Crack in the floor between the frames | Rupture at the atrioventricular junction
+5: 8 32 8 | Sign 2x by the builders | Adding CABG doubles operative mortality
+6: 92 50 10 | Small door seeping water | Tricuspid regurgitation develops over the years
+question: 1 2
+answer: 3
+== 128
+1: 20 35 15 | Pale patch nailed over the charred hole | Post-infarction VSD closed with a patch
+2: 20 35 12 | Light leaking round the patch edges | Residual VSD in up to 40%
+3: 50 12 20 | Ten lanterns, four dark, sign 40 | Hospital mortality near 40%
+4: 85 45 15 | Collapsed chimney, sagging room | Right ventricular dysfunction: a major risk
+5: 67 52 10 | Agafya fading in her chair | Death from heart failure, not bleeding
+question: 1 3
+answer: 2
+== 129
+1: 5 60 8 | Rusting door narrowing each year | Aortic stenosis
+2: 15 45 15 | Kuzma squeezing through sideways | Symptoms have begun
+3: 52 25 10 | One stopped clock, label 1 | Sudden death under 1% a year without symptoms
+4: 47 73 9 | Calendar with two or three pages left | After symptoms: 2-3 years without surgery
+5: 77 62 15 | Spring on scale past 200 | LV mass over 200 g/m2: systolic dysfunction
+6: 92 30 10 | Dripping clock next door ticking calmly | Aortic regurgitation: long latent period
+question: 1 2
+answer: 3
+== 130
+1: 45 30 20 | Rotting figurehead covered in moss | Aortic valve endocarditis: vegetations
+2: 55 32 10 | Golden grape cluster | Staphylococcus aureus
+3: 45 30 15 | Densest moss clumps around the gold | Large, friable vegetations
+4: 75 55 15 | Clumps flying off | Emboli
+5: 80 62 15 | Fountain choked | Stroke: the commonest neurological event
+6: 92 52 8 | Small bulge on the fountain pipe | Mycotic aneurysm: may regress after surgery
+7: 15 45 15 | Fedot scraping the figurehead | Remove the source: early surgery
+question: 1 5
+answer: 2 3
+== 131
+1: 55 78 15 | Boulder blocking the canal | Total occlusion with no collaterals
+2: 50 38 15 | Thin scarred patch of canvas | Left ventricular aneurysm
+3: 55 38 12 | Patch bulging out with each blow | Dyskinesia: adverse outcome
+4: 92 40 10 | Flat, still patch on the other hall | Akinesia: no adverse effect
+5: 65 52 12 | Small room squashed beside it | Right ventricular function impaired
+6: 8 32 8 | Calendar stopped at 6 | Aneurysms stop enlarging after about 6 months
+question: 2 4
+answer: 3
+== 132
+1: 18 40 12 | Liza coughing into her handkerchief | Young adult with bronchiectasis
+2: 50 20 20 | Swollen sludge-filled pipes upstairs | Upper lobe involvement: cystic fibrosis
+3: 47 25 15 | Beetle, slug and beads in the sludge | H. influenzae, Pseudomonas, S. pneumoniae
+4: 55 45 15 | Plumber corking the bleeding pipe | Haemoptysis: bronchial artery embolisation
+5: 88 72 12 | Cart with twin new pipes | Double lung transplant
+6: 30 75 20 | Lower floors almost clean | Most other causes favour the lower lobes
+question: 1 6
+answer: 2
+== 134
+1: 50 62 25 | Dry gap between two river ends | Long-gap isolated oesophageal atresia
+2: 60 50 20 | Men digging ends closer month by month | Delayed primary anastomosis
+3: 30 20 20 | Team hauling an aqueduct section | Oesophageal replacement
+4: 85 45 12 | Young man wanting to pull them together now | Tension anastomosis: avoid
+5: 85 18 12 | Tents on the right bank | Right posterolateral thoracotomy
+6: 10 92 7 | Tiny premature frog waiting | Low birth weight: waiting also lets the baby grow
+question: 1 4
+answer: 2 3
+== 135
+1: 70 30 25 | Town hall | Thymic tumour, anterior mediastinum
+2: 50 65 40 | Men and women in equal numbers | Equal sex incidence
+3: 8 55 8 | Young man with heavy eyelids | Myasthenia: peak age 30-40
+4: 18 52 7 | Old man with clear eyes | Without myasthenia: peak 60-70
+5: 80 72 15 | Smiling people with no complaints | About 30% have no symptoms
+6: 70 58 8 | Step marked 55 | Completely resected stage III: 55% at ten years
+7: 50 45 12 | Anna standing on the 55 step | Ten-year survival
+question: 1 7
+answer: 6
