@@ -16,6 +16,27 @@ keywords: heart -> the old hotel with a stag's head; double-outlet right ventric
 must: BOTH the orca and the dollar pipe rise out of the BLUE engine room, none out of the red one; the red canvas tunnel runs from the first hole straight into the orca's mouth; the cherry vendor stands at the second hole, right under the dollar pipe, with the switch lever and the flat patch beside him; the third hole is far from both, and the fountain is outside that window
 scene: The ground floor of the old Brooklyn hotel with a stag's head over its door, seen cut open like a doll's house in warm late-afternoon light: the blue engine room on the viewer's left, the red engine room on the right, each with a huge ventilation fan, and a thick brick party wall between them with three holes in it. A giant orca parade balloon AND a pipe stuffed with green dollar bills BOTH rise out of the BLUE engine room through its ceiling; nothing rises out of the red room. CENTRE, dominant, larger than life and brightest: a tunnel of bright red canvas laid inside the blue engine room from the first hole, just under the orca, straight up into the orca's open mouth. RIGHT OF IT: at the second hole, right under the dollar pipe, a street vendor with a cart tosses Bing cherries through the hole; beside him a subway switchman pulls a big railway switch lever, and a workman holds up a flat square patch, ready to nail it over that hole. FAR LEFT, LOW: a third hole far from both the orca and the pipe; two workmen beside it point out of the window at a grey stone fountain in the courtyard.
 
+story:
+في عصر دافئ من أيّام الخريف، نزل المعلّم العجوز فرانك إلى غرفتي المحرّكات تحت فندق الأيّل، ومعه تلميذته روزا.
+وكان في هذا الفندق عجب: الحوت القاتل وأنبوب الدولارات يخرجان معًا من الغرفة الزرقاء، ولا يخرج من الغرفة الحمراء شيء.
+وفي الجدار الفاصل بينهما ثلاث ثغر، ليس للغرفة الحمراء مخرج إلّا منها.
+فوقف فرانك عند الثغرة الأولى، تحت الحوت مباشرةً، وقال: «هذه قريبة من صاحبها؛ نمدّ منها نفقًا إلى فم الحوت، فيعبر إليه الهواء الأحمر وحده.»
+ففرشت روزا نفقًا من القماش الأحمر اللامع، من الثغرة إلى فم الحوت المفتوح رأسًا.
+وعند الثغرة الثانية، تحت أنبوب الدولارات، وقف بائع متجوّل يرمي منها حبّات الكرز إلى الداخل.
+فقال فرانك: «لهذه طريقان: نفق مثل الأوّل، أو رقعة مسطّحة تسدّها، ثمّ يشدّ عامل القطارات ذراعه فيبدّل الحوت والأنبوب مكانيهما.»
+ثمّ مشيا إلى الثغرة الثالثة في الزاوية البعيدة، لا هي قرب الحوت ولا قرب الأنبوب.
+فأشار العاملان من النافذة إلى نافورة حجريّة في الفناء، فقال فرانك: «بعض هذه لا يبلغها نفق؛ فنترك الداخل ونبني النافورة في الخارج.»
+فسألته روزا كيف تعرف الطريق، فابتسم وقال:
+quote: «ظلّ الحقّ على رأس العبد، والطّالب في العاقبة واجد.»
+source: المثنوي، الكتاب الثالث
+explanation:
+In double-outlet right ventricle, the repair depends on where the VSD lies in relation to the great arteries.
+With a subaortic or doubly committed VSD, an intraventricular tunnel is usually built from the VSD to the aorta, so the left ventricle ejects through the aorta: statement A is true.
+The Taussig-Bing heart, with a subpulmonary VSD, can be repaired with an intraventricular tunnel, or by closing the VSD with a straight patch to the pulmonary artery and adding an arterial switch: statement B is true.
+When the VSD is noncommitted, far from both great arteries, a tunnel may be impossible, and some of these hearts must be repaired with a modified Fontan operation: statement D is true.
+So A, B and D are the answer.
+Statement C is false: hospital mortality is lowest with a subaortic VSD and highest with a noncommitted VSD and complex anatomy.
+
 == 32
 # Tricuspid atresia in the first month -> A (systemic-to-pulmonary shunt), B (observation), D (pulmonary artery banding).
 # C (bidirectional Glenn) and E (Fontan) are false: they wait until pulmonary resistance falls (Glenn after about 3-6 months).
@@ -30,6 +51,26 @@ palette: snowy night, cool blue lobby, warm lamp light, green banknotes, rusted 
 keywords: heart -> the old hotel with a stag's head; tricuspid atresia -> a trident welded shut under a thick iron cap; systemic-to-pulmonary shunt -> a hose joining the orca's flipper to the pipe of dollar bills; banding -> a leather belt buckled tight around the pipe of dollar bills; observation -> a night watchman sitting calmly with binoculars; pulmonary -> a pipe of green dollar bills; aorta -> the orca parade balloon
 must: the doorway between the blue lobby and the blue engine room is a trident welded shut; the hose joins the orca's flipper to the dollar pipe; the belt is buckled round the dollar pipe; the watchman only watches, holding nothing else
 scene: The blue wing of the old Brooklyn hotel with a stag's head over its door, seen cut open like a doll's house on a snowy night. Upstairs, the blue glass lobby; in it a newborn baby sleeps in a small crib. The doorway down from the lobby to the blue engine room is a big iron trident, welded shut under a thick rusted iron cap. CENTRE, dominant and brightest: a pipe stuffed with green dollar bills, and the three men gathered round it, each ready with his own remedy: a plumber holds a hose joining the flipper of a giant orca parade balloon to the pipe; a second worker buckles a leather belt tight around the pipe; and between them the old night watchman sits calmly on a stool, watching the pipe through binoculars.
+
+story:
+في ليلة ثلجيّة، ولدت في فندق الأيّل طفلة صغيرة، فنامت في مهد في البهو الأزرق.
+لكنّ الباب النازل من البهو إلى غرفة المحرّكات الزرقاء كان رمحًا حديديًّا ثلاثيّ الشعب، قد لحم وأغلق بغطاء صدئ ثقيل.
+فاجتمع ثلاثة رجال حول أنبوب الدولارات، وكلّ منهم يحمل علاجه.
+قال السبّاك توني وفي يده خرطوم: «إن قلّ المال في الأنبوب وصلته بزعنفة الحوت، فيجري إليه منها.»
+وقال لويس وهو يشدّ حزامًا جلديًّا حول الأنبوب: «وإن فاض المال حتّى انتفخ الأنبوب شددته بهذا الحزام.»
+أمّا الحارس العجوز آب فجلس على كرسيّه الصغير، ينظر إلى الأنبوب بمنظاره، ولا يحمل شيئًا غيره.
+فقال: «وإن جرى المال بقدره، لا قليلًا ولا كثيرًا، فحسبنا أن ننظر وننتظر.»
+فسأله توني عن رائد الفضاء وباني النافورة، فقال آب: «ليس هذا شهرهما؛ يأتيان حين تكبر الصغيرة أشهرًا.»
+ثمّ أطفأ الحارس مصباحه، ونظر إلى المهد النائم، وقال:
+quote: «العشق، إن كان من هذا الجانب أو من ذاك، يقودنا في العاقبة إلى هناك.»
+source: المثنوي، الكتاب الأول
+explanation:
+In tricuspid atresia, the operation in the first month of life is chosen by the amount of pulmonary blood flow.
+If pulmonary blood flow is too little and the baby is deeply cyanotic, a systemic artery to pulmonary artery shunt is created: statement A.
+If pulmonary blood flow is excessive, with heart failure, the pulmonary artery is banded: statement D.
+If the flow is balanced, the infant can simply be observed: statement B.
+So A, B and D are the answer.
+A bidirectional Glenn is not done in the first month, because pulmonary vascular resistance is still high; it usually waits until about 3 to 6 months, and the Fontan comes later still.
 
 == 33
 # Contraindications to a Fontan -> C (left ventricular end-diastolic pressure 18 mm Hg) and E (pulmonary vascular resistance 6 Wood units).
@@ -46,6 +87,27 @@ keywords: heart -> the old hotel with a stag's head; Fontan -> a stone fountain 
 must: the fountain has no pump, and is fed from the chimney; exactly six wooden blocks are jammed in the clear dollar pipe; the gauge on the red engine room's wall reads 18 in the red; the water backs up and spills over the fountain's rim
 scene: The courtyard of the old Brooklyn hotel with a stag's head over its door, at dusk. The blue wing's brick chimney bends down into the courtyard and feeds a round grey stone fountain; there is no pump. From the fountain's basin the water should run on into a clear glass pipe stuffed with green dollar bills, which leads back into the hotel. CENTRE, dominant and brightest: the fountain's water backing up and spilling over the stone rim onto the cobbles, because exactly six pale wooden blocks are jammed one behind another inside the clear dollar pipe. RIGHT, through the cut-open wall: the red engine room with its slow fan, and on its wall a big round pressure gauge reading 18, its needle deep in the red. An old engineer stands between the fountain and the pipe, shaking his head.
 
+story:
+عند الغروب، فتح المهندس العجوز وولتر نافورة الفناء في فندق الأيّل.
+كانت نافورةً حجريّةً مستديرةً بلا مضخّة، تملؤها المدخنة الزرقاء الّتي انحنت إليها.
+ومن حوضها ينبغي أن يجري الماء وحده في أنبوب زجاجيّ محشوّ بالدّولارات، عائدًا إلى الفندق.
+لكنّ الماء ارتدّ، وفاض من حافّة الحجر على البلاط.
+فانحنى وولتر على الأنبوب الزجاجيّ وعدّ: «واحدة، اثنتان، ثلاث... ستّ قطع من الخشب، واحدة خلف الأخرى!»
+ثمّ نظر من خلال الجدار المفتوح إلى غرفة المحرّكات الحمراء، حيث تدور المروحة ببطء.
+وعلى جدارها عدّاد كبير، إبرته عند الرقم ثمانية عشر في عمق الأحمر.
+فهزّ وولتر رأسه وقال: «ماء بلا مضخّة لا يجري إلى مكان ضغطه ثمانية عشر، ولا يعبر أنبوبًا سدّته ستّ قطع من الخشب.»
+ثمّ قال وهو يمسح يديه: «أمّا عمر صاحب الفندق، وما يصلحه المفتاح في يومه، فلا يوقف النافورة؛ هذان وحدهما يوقفانها.»
+ونظر إلى الحوض الفائض وقال:
+quote: «لا تطلب الماء كثيرًا، بل اطلب العطش، حتّى يتفجّر لك الماء من فوق ومن تحت.»
+source: المثنوي، الكتاب الثالث
+explanation:
+The Fontan circulation has no pump to the lungs: systemic venous blood flows passively through the lungs to the heart.
+It therefore needs a low pulmonary vascular resistance and a low filling pressure in the systemic ventricle.
+A left ventricular end-diastolic pressure of 18 mm Hg is too high and contraindicates the operation: statement C.
+A pulmonary vascular resistance of 6 Wood units is also too high; above about 4 Wood units per square metre the Fontan is generally contraindicated: statement E.
+So C and E are the answer.
+An age of 25 years is not a contraindication, and mitral insufficiency and right pulmonary artery stenosis can be repaired at the same operation.
+
 == 34
 # Initial management of a newborn with hypoplastic left heart syndrome -> A only: intravenous PGE1.
 # B (oxygen) and C (hyperventilation) are false: they lower pulmonary resistance and steal flow from the body; D (routine catheter septostomy) is false.
@@ -58,6 +120,26 @@ palette: golden beer, shiny silver tape, toy-red plastic, warm tavern light, gre
 keywords: heart -> the old hotel with a stag's head; hypoplastic left heart syndrome -> a little plastic toy hippo wedged into a red wing shrunk to doll size; prostaglandin -> a raised beer stein propping the duct-tape tunnel open; ductus arteriosus -> a tunnel of shiny silver duct tape between the pipe of dollar bills and the orca; pulmonary -> a pipe of green dollar bills; aorta -> the orca parade balloon; ventricle -> engine room with a huge ventilation fan
 must: the red wing is tiny, toy-sized, with a plastic hippo wedged in it; the big blue engine room pumps into the dollar pipe; the beer stein holds the duct-tape tunnel open; dollar bills flow through the tunnel into the orca
 scene: The old Brooklyn hotel with a stag's head over its door, seen cut open like a doll's house: the blue wing on the viewer's left is big and strong, its engine room fan roaring; the red wing on the right has shrunk to the size of a doll's house, and a little plastic toy hippo is wedged inside it. From the blue engine room a pipe stuffed with green dollar bills rises. CENTRE, dominant, larger than life and brightest: a short tunnel of shiny silver duct tape joining that pipe to a giant orca parade balloon, the tunnel sagging shut, and a big raised beer stein of golden beer, held up by a cheerful bartender, propping the tunnel wide open so the dollar bills pour through it into the orca.
+
+story:
+في ليلة دافئة، فتح فندق الأيّل أبوابه على عجب لم يره أحد من قبل.
+كان جناحه الأزرق كبيرًا قويًّا، تهدر مروحته في غرفة المحرّكات.
+أمّا جناحه الأحمر فقد صغر حتّى صار بحجم بيت دمية، وانحشر فيه فرس نهر صغير من البلاستيك.
+فصار الجناح الأزرق يعمل وحده، يدفع المال صاعدًا في أنبوب الدولارات.
+ومن ذلك الأنبوب نفق قصير من الشريط اللاصق الفضّيّ، هو وحده يوصل المال إلى الحوت الكبير وإلى المدينة كلّها.
+لكنّ النفق أخذ يترهّل وينغلق، فصاحت الطبّاخة من النافذة: «النفق يغلق! إن أغلق جاعت المدينة كلّها!»
+فجاء الساقي مورفي ضاحكًا، ورفع كأسه الكبيرة من البيرة الذهبيّة، وصاح: «بروست!»
+ثمّ أسند الكأس تحت النفق فانفتح على سعته، وتدفّقت الدولارات منه إلى الحوت.
+فقال مورفي: «هذه الكأس أوّلًا، وقبل كلّ شيء.»
+ونظر إلى فرس النهر الصغير في جناحه الضيّق وقال:
+quote: «ما لم تبك السحابة فمتى يضحك المرج؟ وما لم يبك الطفل فمتى يجيش اللبن؟»
+source: المثنوي، الكتاب الخامس
+explanation:
+In hypoplastic left heart syndrome the right ventricle supplies the lungs and, through the ductus arteriosus, the whole body.
+The first step in the newborn is an intravenous infusion of PGE1 to keep the ductus open: statement A is correct.
+Supplemental oxygen and hyperventilation lower pulmonary vascular resistance, so more blood goes to the lungs and less to the body, with acidosis and shock; they should be avoided.
+Routine intubation is not needed, and balloon atrial septostomy is not a routine first step; it is kept for the few infants with a restrictive atrial septum.
+So A alone is the answer.
 
 == 35
 # The bidirectional Glenn as the second stage for hypoplastic left heart -> A, C, D true; B false (saturation stays about 75-85%, not above 90%).
@@ -74,6 +156,27 @@ keywords: heart -> the old hotel with a stag's head; Glenn -> an astronaut in a 
 must: the astronaut has a big 2 on his helmet and joins the chimney straight into the dollar pipe; the flood water drains out of the blue engine room; the plumber works on the dollar pipe and the orca's back at the same time; the coffin is EMPTY and is wheeled AWAY from the fountain
 scene: The old Brooklyn hotel with a stag's head over its door, seen cut open like a doll's house on a bright morning; its red wing has shrunk to doll size with a little plastic toy hippo wedged inside, so the big blue wing does all the work. CENTRE, dominant and brightest: on the roof an astronaut in a white spacesuit, a big 2 painted on his helmet, bends the blue wing's brick chimney down and plugs it straight into a pipe stuffed with green dollar bills. BELOW: the blue engine room, knee-deep in flood water a moment ago, is draining through a wide drain, and its huge ventilation fan now turns easily. RIGHT: on a ladder a plumber with a big wrench loosens a pinch in the dollar pipe with one hand and a pinch in the arched back of a giant orca parade balloon with the other. FOREGROUND, in the courtyard: a grey stone fountain waits, still dry, and an undertaker wheels an empty coffin away from it.
 
+story:
+في صباح مشرق، كان فندق الأيّل متعبًا: جناحه الأحمر صغير كبيت دمية فيه فرس نهر من البلاستيك، وجناحه الأزرق يحمل العمل كلّه.
+فهبط على سطحه رائد فضاء في بدلة بيضاء، على خوذته رقم كبير: اثنان.
+فأمسك مدخنة الجناح الأزرق بيديه، وحناها إلى الأسفل، ووصلها رأسًا بأنبوب الدولارات.
+وقال للنّاس في الشارع: «هذه الخطوة الثانية؛ ما ينزل من المدخنة يذهب إلى المال وحده، دون أن يمرّ بالغرفة الزرقاء.»
+وفي الأسفل، كانت غرفة المحرّكات الزرقاء غارقةً إلى الركب قبل لحظات، فأخذ الماء ينصرف من بالوعة واسعة، ودارت مروحتها بيسر.
+وعلى سلّم إلى اليمين، كان السبّاك بيت يرخي بمفتاحه الكبير عقدةً في أنبوب الدولارات، وبيده الأخرى عقدةً في ظهر الحوت المقوّس.
+فقال ضاحكًا: «ما دام السقف مفتوحًا، أصلح الضيقين معًا في زيارة واحدة.»
+وفي الفناء نافورة حجريّة جافّة تنتظر دورها، وحانوتيّ عجوز يدفع تابوتًا فارغًا بعيدًا عنها.
+فسأله رائد الفضاء إلى أين يمضي، فقال العجوز: «بعد خطوتك هذه، لم يبق لي عند النافورة عمل كثير.»
+فرفع رائد الفضاء عينيه إلى السماء وقال:
+quote: «إن ضقت بكلّ جرح يصيبك، فكيف تصير مرآةً بلا صقل؟»
+source: المثنوي، الكتاب الأول
+explanation:
+After the first (Norwood) stage for hypoplastic left heart syndrome, the second stage is usually a bidirectional superior cavopulmonary (Glenn) anastomosis at about 3 to 6 months.
+Superior vena caval blood now goes straight to the lungs, so the single right ventricle no longer pumps the shunt flow, and its volume load falls: statement A is true.
+The operation also allows stenoses of the pulmonary arteries or the aortic arch to be repaired at the same time: statement C is true.
+Doing the Glenn first, as a staging step, lowers the mortality and morbidity of the later Fontan: statement D is true.
+So A, C and D are the answer.
+Statement B is false: after a Glenn, inferior vena caval blood still returns unoxygenated to the heart, so saturations usually stay around 75 to 85 percent.
+
 == 36
 # Truncus arteriosus statements -> B, C, D true; A false (most die in infancy without an operation).
 # one thick tree trunk astride the hole in the party wall, the orca and the dollar pipes branching off it -> truncus arteriosus
@@ -88,6 +191,27 @@ keywords: heart -> the old hotel with a stag's head; truncus arteriosus -> one t
 must: ONE tree trunk rises from both engine rooms over the hole, and both the orca and the dollar pipes branch off it; the waterslide tube runs from the blue engine room to the dollar pipes; the baby's lips are bright blue; the taxis outside do not move
 scene: The ground floor of the old Brooklyn hotel with a stag's head over its door, seen cut open like a doll's house on a rainy evening: the blue engine room on the viewer's left, the red one on the right, each with a huge ventilation fan, and a hole in the party wall between them. Out of BOTH rooms, astride the hole, rises ONE thick tree trunk; high up, a giant orca parade balloon and pipes stuffed with green dollar bills branch off it. CENTRE, dominant and brightest: two workers have sawn the dollar pipes off the trunk and are fitting a clear, twisting waterslide tube from the blue engine room up to them. LEFT FOREGROUND: a young mother holds a baby whose lips and fingertips are bright blue. Through the window behind: yellow taxis gridlocked bumper to bumper in the rain.
 
+story:
+في مساء ماطر، نبتت في فندق الأيّل شجرة عجيبة.
+جذع واحد غليظ خرج من غرفتي المحرّكات معًا، فوق الثغرة الّتي في الجدار بينهما.
+وفي أعلاه تفرّع منه الحوت الكبير وأنابيب الدولارات كلّها، كما تتفرّع الأغصان.
+وفي البهو وقفت الأمّ الشابّة غريس تحمل رضيعها، وشفتاه وأطراف أصابعه زرقاء زاهية.
+ومن النافذة خلفها كانت سيّارات الأجرة الصفراء متلاصقةً في المطر، لا يتحرّك منها شيء.
+فقالت غريس بقلق: «يلهث ولا يرضع، وشفتاه زرقاوان، كأنّ الشارع كلّه واقف في صدره.»
+فقال لها العامل داني: «لا تنتظري أن يكبر هكذا يا سيّدتي؛ أكثر هؤلاء الصغار لا يبلغون عامهم الأوّل إن تركوا.»
+ثمّ نشر هو وزميله أنابيب الدولارات عن الجذع، وأخذا يركّبان أنبوب تزحلق شفّافًا ملتويًا من الغرفة الزرقاء إليها.
+فسألته غريس لماذا أنبوب التزحلق، فقال داني: «لأنّ الغرفة الزرقاء لا طريق لها إلى المال إلّا إذا بنيناه.»
+فضمّت غريس صغيرها، ونظرت إلى الجذع الواحد وقالت:
+quote: «كنّا منبسطين جوهرًا واحدًا كلّنا، كالشّمس بلا عقد، صافين كالماء.»
+source: المثنوي، الكتاب الأول
+explanation:
+In truncus arteriosus a single arterial trunk arises from both ventricles over a VSD and gives rise to the aorta, the pulmonary arteries and the coronary arteries.
+Pulmonary blood flow becomes torrential as pulmonary resistance falls, so most infants present in the first weeks with congestive heart failure: statement C is true.
+Because systemic and pulmonary blood mix in the trunk, most infants also have some, usually mild, cyanosis: statement B is true.
+Repair closes the VSD so the left ventricle ejects into the trunk, detaches the pulmonary arteries and joins them to the right ventricle with a conduit: statement D is true.
+So B, C and D are the answer.
+Statement A is false: without an operation most infants die within the first year, so repair is done in the newborn period or early infancy.
+
 == 37
 # Anatomic components of truncus arteriosus -> A (VSD), B (abnormal origin of the pulmonary arteries), D (a single ventricular outflow valve). C (subaortic stenosis) is false.
 # the tree trunk astride the party wall -> truncus arteriosus
@@ -101,6 +225,27 @@ palette: lantern light, dark bark, warm brick, green banknotes, one golden trapd
 keywords: heart -> the old hotel with a stag's head; truncus arteriosus -> one thick tree trunk rising astride the hole in the party wall; pulmonary arteries -> pipes of green dollar bills sprouting from the side of the tree trunk like branches; single outflow valve -> one round golden trapdoor at the foot of the trunk; ventricle -> ground-floor engine rooms with huge ventilation fans; aorta -> the orca parade balloon
 must: the large hole is in the party wall directly under the trunk; there is only ONE trapdoor, at the foot of the trunk, opening into both rooms; the dollar pipes grow out of the trunk's side, not out of any room
 scene: The ground floor of the old Brooklyn hotel with a stag's head over its door, seen cut open like a doll's house at night, lit by one lantern: the blue engine room on the viewer's left, the red one on the right, each with a huge ventilation fan. CENTRE, dominant and brightest: a large hole broken through the party wall between the rooms, and directly over it ONE thick tree trunk; at the trunk's foot a single round golden trapdoor opens into both rooms at once. Halfway up, pipes stuffed with green dollar bills sprout from the side of the trunk like branches; higher up the trunk becomes a giant orca parade balloon. An old tree surgeon holds the lantern up to the trunk.
+
+story:
+في ليلة هادئة، نزل البستانيّ العجوز هانك إلى الطابق الأرضيّ في فندق الأيّل، يحمل فانوسًا واحدًا.
+فرفع الفانوس إلى جذع الشجرة العجيبة الّتي نبتت بين غرفتي المحرّكات.
+وأخذ يعدّ بصوت مسموع: «ثلاثة أشياء تصنع هذه الشجرة، لا رابع لها.»
+فأنزل الفانوس أوّلًا إلى ثغرة واسعة في الجدار الفاصل، تحت الجذع مباشرةً.
+وقال: «واحد: الثغرة؛ عليها يقوم الجذع، ومن تحته تلتقي الغرفتان.»
+ثمّ أشار إلى باب ذهبيّ مستدير عند قدم الجذع، ينفتح على الغرفتين معًا.
+وقال: «اثنان: باب واحد للخروج، ليس للشّجرة غيره.»
+ثمّ رفع الفانوس إلى أنابيب الدولارات النابتة من جنب الجذع كالأغصان.
+وقال: «ثلاثة: المال لا يخرج من غرفة، بل ينبت من الجذع نفسه.»
+ثمّ نظر إلى الحوت الّذي صار إليه أعلى الجذع وقال:
+quote: «لا تقس عمل الأطهار على نفسك؛ فالأسد واللّبن يكتبان في لغتهم بحروف واحدة.»
+source: المثنوي، الكتاب الأول
+explanation:
+Truncus arteriosus has three essential components.
+There is a VSD, usually large and lying just beneath the truncal valve: statement A is correct.
+The pulmonary arteries arise abnormally, from the common trunk itself, either from a short main pulmonary segment or as separate branches: statement B is correct.
+There is a single semilunar (truncal) valve through which both ventricles eject: statement D is correct.
+So A, B and D are the answer.
+Subaortic stenosis is not a component of truncus arteriosus; the outflow beneath the truncal valve is usually unobstructed.
 
 == 38
 # Newborn transposition {S,D,D} with intact ventricular septum -> A (PGE1 for the duct), B (intravenous fluid), E (balloon atrial septostomy).
@@ -117,6 +262,27 @@ keywords: heart -> the old hotel with a stag's head; transposition -> the orca a
 must: the orca rises out of the BLUE engine room and the dollar pipe out of the RED one; the lower party wall is whole, with no hole; the party balloon is pulled through the UPPER wall between the lobbies; blue and red streams mix through the torn hole
 scene: The old Brooklyn hotel with a stag's head over its door, seen cut open like a doll's house at night, everything swapped as in a mirror: a giant orca parade balloon rises out of the BLUE engine room on the viewer's left, a pipe stuffed with green dollar bills out of the RED engine room on the right; the lower party wall between the engine rooms is solid, with no hole. CENTRE, dominant and brightest: upstairs, between the blue and red glass lobbies, a nurse yanks a round red party balloon on a string through the upper party wall, tearing its small hole wide open, and blue and red streams swirl together through the tear. ABOVE: a short tunnel of shiny silver duct tape joins the orca to the dollar pipe, propped wide open by a raised beer stein. ON THE ROOF: a plumber fills the hotel's round wooden water tower to the brim with a hose, water spilling over its top.
 
+story:
+في ليلة عجيبة، استيقظ فندق الأيّل فإذا كلّ شيء فيه مقلوب كما في المرآة.
+صار الحوت الكبير يخرج من غرفة المحرّكات الزرقاء، وأنبوب الدولارات من الحمراء.
+والجدار بين الغرفتين في الأسفل صلب سليم، لا ثغرة فيه؛ فلا يلتقي الأزرق بالأحمر هناك أبدًا.
+فصعدت الممرّضة لوسي إلى البهوين الزجاجيّين، ومعها بالون حفلات أحمر مستدير على خيط.
+فأدخلته من ثقب صغير في الجدار العلويّ، ثمّ نفخته وجذبته بقوّة، فمزّق الثقب ووسّعه.
+فتدفّق التيّاران الأزرق والأحمر من الشقّ، ودارا معًا واختلطا.
+وفي الأعلى كاد نفق الشريط اللاصق بين الحوت وأنبوب المال ينغلق، فأسنده الحارس سام بكأس بيرة مرفوعة وصاح: «بروست!»
+وعلى السطح، ملأ سبّاك خزّان الماء الخشبيّ المستدير حتّى فاض من أعلاه.
+فقالت لوسي: «ثلاثة تنفع الليلة: البالون والكأس والخزّان الملآن؛ أمّا الثور وقناعه، ومن يلهث في كيس الورق، فلا مكان لهما هنا.»
+فنظر سام إلى التيّارين وهما يختلطان وقال:
+quote: «لغة المحرميّة شيء آخر؛ وأن تتّحد القلوب خير من أن تتّحد الألسن.»
+source: المثنوي، الكتاب الأول
+explanation:
+In transposition with an intact ventricular septum, the systemic and pulmonary circulations run in parallel, and the baby lives only on the mixing between them.
+A PGE1 infusion to maintain duct patency keeps the ductus arteriosus open, which adds mixing and pulmonary blood flow: statement A is correct.
+Intravenous fluid raises intravascular volume and atrial filling, which helps mixing at the atrial level: statement B is correct.
+Balloon atrial septostomy tears the atrial septum wider and is the most effective way to improve atrial mixing: statement E is correct.
+So A, B and E are the answer.
+Extra oxygen raises the arterial oxygen tension very little, because the problem is mixing between parallel circulations, and hyperventilation is not part of the treatment.
+
 == 39
 # What rules out a one-stage arterial switch for transposition -> A (older than 6 weeks with left ventricular pressure under 50% of systemic) and D (valvar pulmonary stenosis).
 # B (dynamic LV outflow obstruction), C (intramural coronary anatomy) and E (subpulmonary VSD) are false: they are managed during the switch.
@@ -132,6 +298,26 @@ keywords: heart -> the old hotel with a stag's head; arterial switch -> a subway
 must: the orca rises out of the blue engine room and the dollar pipe out of the red one; the red room's fan is dusty and slow, the calendar shows 6 WEEKS, and the gauge needle is BELOW 50%; the clamp is right at the dollar pipe's mouth
 scene: The old Brooklyn hotel with a stag's head over its door, seen cut open like a doll's house at a cold grey dawn, its arteries swapped: a giant orca parade balloon rises out of the blue engine room on the viewer's left, a pipe stuffed with green dollar bills out of the red engine room on the right. In front of them a subway switchman strains with both hands at a big railway switch lever that will not move. CENTRE, dominant and brightest: the red engine room, its huge ventilation fan dusty and turning slowly, cobwebs in its blades; on its wall a calendar shows 6 WEEKS and a pressure gauge's needle lies below the 50% mark. RIGHT, just as bright: a heavy iron clamp squeezes the dollar pipe narrow right at its mouth, where it leaves the red room.
 
+story:
+في فجر رماديّ بارد، جاء إدي، عامل تحويلة القطارات، إلى فندق الأيّل المقلوب، حيث يخرج الحوت من الغرفة الزرقاء وأنبوب الدولارات من الحمراء.
+فأمسك ذراع التحويلة الحديديّة الكبيرة بيديه، ليعيد كلًّا منهما إلى غرفته.
+فشدّ وشدّ، فلم تتحرّك الذراع شبرًا.
+فأطلّت الميكانيكيّة العجوز دورا على غرفة المحرّكات الحمراء، فإذا مروحتها مغبّرة تدور ببطء، وبين ريشها خيوط العنكبوت.
+وعلى الجدار تقويم مكتوب عليه: ستّة أسابيع، وإلى جانبه عدّاد إبرته دون نصف الطريق.
+فقالت دورا: «هذه المروحة أمضت ستّة أسابيع تدفع شيئًا خفيفًا؛ لو حمّلتها الحوت الآن لانكسرت.»
+ثمّ أشارت إلى أنبوب الدولارات، فإذا ملزمة حديديّة ثقيلة تعصره عند فمه، حيث يغادر الغرفة الحمراء.
+وقالت: «وهذا الفم الضيّق سيصير فم الحوت الجديد؛ فلا تبدّل وهو على هذه الحال.»
+فترك إدي الذراع ومسح جبينه، ونظر إلى التقويم طويلًا، فقالت له دورا:
+quote: «إذا ذهب الورد وانقضى البستان، فلن تسمع بعدها من البلبل حكاية.»
+source: المثنوي، الكتاب الأول
+explanation:
+After birth, the left ventricle in transposition pumps only into the low-pressure pulmonary circulation, and within weeks it loses muscle mass.
+If the infant is older than about 6 weeks and the left ventricular pressure is under half of systemic pressure, the left ventricle may fail after a one-stage switch: statement A is correct.
+Such a ventricle is first retrained with a pulmonary artery band and a shunt, and switched later.
+Valvar pulmonary stenosis also rules out the switch, because the pulmonary valve becomes the new aortic valve: statement D is correct.
+So A and D are the answer.
+Dynamic left ventricular outflow obstruction usually disappears after the switch, intramural coronary arteries can be transferred with special techniques, and a subpulmonary VSD is closed at the same operation.
+
 == 40
 # Common complications of the atrial (Senning and Mustard) repairs -> A (atrial arrhythmias), B (systemic or pulmonary venous obstruction), D (systemic ventricular failure).
 # C (right ventricular outflow obstruction) and E (progressive pulmonary vascular resistance) are false.
@@ -146,3 +332,24 @@ palette: mustard yellow, blue and red wings, smoke grey, black pirate hat, green
 keywords: heart -> the old hotel with a stag's head; atrial switch -> a giant squeeze bottle of yellow mustard drawing a thick mustard wall across the upper lobbies that crosses the two streams over; arrhythmia -> a pirate shouting ARRR and dancing a wild jig out of step with the music; superior vena cava -> the chimney of the blue wing; pulmonary veins -> a returning pipe of green dollar bills; transposition -> the orca and the pipe of dollar bills swapped; ventricle -> the blue engine room's huge ventilation fan, smoking and failing
 must: the mustard wall runs across BOTH upper lobbies; the pirate dances on top of it; the chimney and the returning dollar pipe are pinched exactly where they enter the mustard channels; the orca still rises out of the BLUE engine room, whose fan smokes
 scene: The old Brooklyn hotel with a stag's head over its door, seen cut open like a doll's house; its arteries are swapped: a giant orca parade balloon rises out of the blue engine room on the viewer's left. Upstairs, a giant squeeze bottle of yellow mustard has drawn a thick, winding mustard wall across both glass lobbies, crossing the two streams over. CENTRE, dominant and brightest: on top of the mustard wall a pirate in a black hat shouts ARRR and dances a wild jig out of step with a street band below. AT THE TOP CORNERS: the blue wing's brick chimney and a returning pipe of green dollar bills are both pinched tight exactly where they enter the mustard channels. BELOW: the blue engine room's huge ventilation fan smokes and stutters, and the orca above it sags.
+
+story:
+بعد سنوات من إصلاحه، كان فندق الأيّل ما يزال مقلوبًا: الحوت يخرج من غرفة المحرّكات الزرقاء.
+وكانت قنّينة خردل عملاقة، «مسترد» كما يسمّيه أهل المدينة، قد رسمت جدارًا أصفر غليظًا عبر البهوين الزجاجيّين، فتقاطع التيّاران وتبادلا الطريق.
+وكانت مديرة الفندق العجوز بيرل تقول: «جدار الخردل أنقذنا سنين؛ لكنّ له ثمنًا يأتي مع الأيّام.»
+وفي تلك الليلة قفز قرصان بقبّعة سوداء فوق جدار الخردل، وصاح: «آررر!»
+ثمّ أخذ يرقص رقصةً جامحة، لا توافق إيقاع الفرقة الّتي تعزف في الشارع.
+وفي الزاويتين العلويّتين، ضاقت المدخنة الزرقاء وأنبوب الدولارات العائد، كلاهما عند مدخله إلى قنوات الخردل.
+فقالت بيرل: «الطرق الّتي رسمها الخردل تضيق مع السنين، من هنا ومن هناك.»
+وفي الأسفل، أخذت مروحة الغرفة الزرقاء تدخّن وتتعثّر، وترهّل الحوت فوقها.
+فقالت: «هذه المروحة لم تصنع لتدفع الحوت العمر كلّه.»
+ثمّ نظرت إلى جدار الخردل اللامع وقالت:
+quote: «في كلّ نفس يتجدّد العالم ونحن لا ندري، وهو يبدو لنا باقيًا على حاله.»
+source: المثنوي، الكتاب الأول
+explanation:
+The atrial switch, the Senning or the Mustard operation, redirects venous blood with baffles inside the atria, but leaves the right ventricle as the systemic ventricle.
+Long atrial suture lines injure the sinus node and the atrial muscle, so late atrial arrhythmias, especially sinus node dysfunction and atrial flutter, are common: statement A is correct.
+The baffles can narrow, causing systemic venous or pulmonary venous obstruction: statement B is correct.
+The right ventricle, left to support the systemic circulation for life, often fails over the years: statement D is correct.
+So A, B and D are the answer.
+Right ventricular outflow obstruction and a progressive rise in pulmonary vascular resistance are not among the common complications of these operations.
