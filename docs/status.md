@@ -4,15 +4,18 @@ Updated 2026-11-19 (evening). Whoever works on YouTop next: read `CLAUDE.md`, th
 `docs/content-guide.md`. Rewrite this file whenever the state changes (it replaces the
 `status-<n>.txt` files in the Drive folder "YouTop private", which stop at 7).
 
-## START HERE (2026-11-19, night): automatic rounds every hour until MedCosmos lessons 1-100 are done
+## START HERE (2026-11-19, night): automatic rounds every hour until the whole MedCosmos book (156) is done
 
-- **The owner's plan:** finish MedCosmos Cardiac lessons 1-100 with the highest accuracy, in automatic rounds, by
+- **Answer keys (the owner, 2026-11-19):** correct only a clear medical error in the book's key on which there is no
+  disagreement; no complex medical review. In the batch: `key: C` (letters), the tag `x:key-corrected`, and a `note:`
+  saying what the book's key was and why; `batch.py build` refuses a corrected key without both.
+- **The owner's plan:** finish the whole MedCosmos Cardiac book (questions 1-156; first 1-100) with the highest accuracy, in automatic rounds, by
   this one agent **alone (no subagents, no other sessions; the owner said so twice)**. A scheduled task "YouTop:
-  MedCosmos lessons 1-100, every hour" (trig_01CgSmtZZ33N4gFXAr9mtxZy) fires into session
+  MedCosmos whole book (156), every hour" (trig_01CgSmtZZ33N4gFXAr9mtxZy) fires into session
   session_01TX4PEBKfzepCPexupsMsgY at minute 14 of every hour; its prompt lists the round. It also carries the
   work over a usage-limit pause: a firing during the pause fails, the next one resumes. Disable it with
-  update_trigger (enabled=false) when lessons 1-100 are all published, or when the owner says stop.
-- **One chapter holds lessons 1-100** (`q0001-0100`). `voice.py make` reads it when it starts and rewrites it when it
+  update_trigger (enabled=false) when all 156 lessons are published, or when the owner says stop.
+- **One chapter holds lessons 1-100** (`q0001-0100`), another 101-156 (`q0101-0200`). `voice.py make` reads it when it starts and rewrites it when it
   ends: while it runs, never build, set pictures, spots or marks, or publish. Start make as a round's last step.
 - **Unpublished work** lives in `.content-work/work/medcosmos-cardiac/batch-*/` (batch, voice, spots, marks) and is
   backed up on the work branch under `drafts/medcosmos-cardiac/` until it is published to `content`.
