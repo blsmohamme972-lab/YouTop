@@ -1,0 +1,691 @@
+book: medcosmos-cardiac
+# MedCosmos Cardiac, questions 1-20. The first set written to the owner's five picture rules
+# (2026-11-19, see the youtop-lessons skill) and to content/symbols.md (all symbols still "proposed").
+# Theme: New York City today. Quotations: Jalal al-Din Rumi, the Masnavi, translated into Arabic
+# from the Persian (from memory; to be checked against a printed translation).
+
+== 1
+# Which is NOT true of CPR? -> A: "closed chest massage is as effective as open chest massage" (it is not).
+# tourist collapsed, Liberty crown clogged with tar -> ischaemic heart disease, commonest cause of sudden death (keyword: coronary -> crown)
+# officer pushing a CLOSED manhole cover, thin trickle, gauge 15 -> closed-chest compression gives <15% of normal coronary/cerebral flow (keyword: CPR -> cop)
+# ANSWER: officer squeezing the pump bulb by hand in the OPEN manhole, huge fountain -> open massage is far more effective: "as effective" is false
+# street sign 30-60 -> out-of-hospital success may reach 30-60%
+# fountain reaches the tourist, he lifts his head -> resuscitation can succeed
+title: CPR: open-chest massage is far more effective than closed-chest compression
+titleAr: الإنعاش القلبي الرئوي: التدليك على القلب المكشوف أنجع بكثير من الضغط على الصدر المغلق
+tags: cardiac/perioperative d:physiology q:recall l:1
+palette: Times Square neon magenta and electric blue on wet black asphalt, one blazing silver fountain
+words: 15, 30-60
+keywords: CPR -> two New York police officers pushing down with straight locked arms ("COP-eR"); coronary artery -> a green foam Statue-of-Liberty crown (corona = crown)
+must: the left officer pushes on a CLOSED manhole cover and gets only a thin trickle; the right officer squeezes the pump bulb by hand inside the OPEN manhole and makes a huge fountain
+scene: Times Square at night after rain, the giant screens glowing. FOREGROUND LEFT: a tourist lies collapsed on the wet sidewalk, wearing a green foam Statue-of-Liberty crown whose seven spikes are clogged and dripping with thick black tar. LEFT: a New York police officer kneels on a CLOSED round iron manhole cover and pushes down on it with straight, locked arms; only a thin, weak trickle of water seeps from the holes of the cover and runs to a round brass gauge on a fire hydrant whose needle points at 15. CENTRE-RIGHT, dominant, larger than life and in the brightest light: a second officer, a woman, has thrown the iron cover aside and kneels over the OPEN manhole, squeezing with both bare hands a huge red rubber pump bulb inside it; a mighty silver fountain bursts up from the open manhole and arcs down onto the collapsed tourist, who is lifting his head. RIGHT: a street sign on a lamppost reads 30-60.
+story:
+في ليلة ماطرة من ليالي ساحة التايمز، والأضواء تسيل على الإسفلت ألوانًا، سقط سائح على الرصيف كما تسقط ورقة عن غصنها.
+وكان على رأسه تاج أخضر من الإسفنج، تاج تمثال الحرّية الّذي يُباع للزّائرين، وقد انسدّت أشواكه السبع بقار أسود يقطر.
+فجثا الشرطيّ دانيال على غطاء حديديّ مغلق في الشارع، وراح يضغطه بذراعين مستقيمتين، ضغطةً بعد ضغطة، كمن يوقظ نائمًا.
+فلم يخرج من ثقوب الغطاء إلّا خيط ماء واهن، يزحف إلى عدّاد على صنبور الحريق، فلا تتجاوز إبرته خمسة عشر.
+أمّا زميلته روزا، فقد خلعت الغطاء عن فوّهة البئر ورمته جانبًا، ومدّت يديها العاريتين إلى الجوف.
+وقبضت على منفاخ مطّاطيّ أحمر عظيم، تعصره بكفّيها عصرًا مباشرًا، فانبثقت من البئر نافورة فضّيّة شقّت الليل.
+وانحنت النافورة على السائح الساقط، فرفع رأسه، وسعل، وفتح عينيه على الأضواء.
+فصاح دانيال وهو يلهث فوق غطائه المغلق: «يداي على الحديد ويداكِ على الجوهر، فكيف نكون سواء؟»
+وكانت على عمود النور لافتة كُتب عليها: ثلاثون، ستّون؛ فقالت روزا: «ثلاثون من كلّ مئة ينهضون، وقد يصيرون ستّين إذا جاءت اليد في وقتها.»
+ثمّ نظر السائح المبلّل إلى السماء الّتي تلمع فيها اللافتات، وتذكّر بيتًا كان جدّه يردّده:
+quote: «متُّ جمادًا فصرتُ نباتًا، ومتُّ نباتًا فصرتُ حيوانًا، ومتُّ حيوانًا فصرتُ إنسانًا؛ فممَّ أخاف؟ ومتى نقصتُ بالموت؟»
+source: المثنوي، الكتاب الثالث
+explanation:
+Sudden cardiac death is most often caused by ischaemic heart disease, with the coronary arteries narrowed by atheroma.
+Standard closed-chest compression is weak: it generally provides less than 15% of normal coronary and cerebral blood flow.
+Open-chest cardiac massage, squeezing the heart directly by hand, produces far more flow and pressure than closed-chest compression.
+So the statement that closed-chest massage is as effective as open-chest massage is not true, and it is the answer.
+In the best circumstances, such as a witnessed collapse with early defibrillation, out-of-hospital resuscitation may succeed in 30% to 60%, so that statement is true.
+Open massage is now used mainly for arrest after cardiac surgery or penetrating chest trauma, when the chest is already open or must be opened.
+
+== 2
+# Which manoeuvre is NOT performed early before chest compression in BLS outside hospital? -> C: electrical cardioversion.
+# landing 1, woman shouting into a payphone -> call for help first
+# landing 2, porter pulling the jammed gate open, wind rushes in -> open the airway
+# landing 3, boy blowing with a bellows -> ventilation
+# officer at the bottom pushing with locked arms -> chest compression (keyword: CPR -> cop)
+# ANSWER: taxi at the curb, driver with sparking jumper cables blocked by a barrier -> electrical cardioversion is not an early step (keyword: cardioversion -> CAR jump-start)
+title: Basic life support outside hospital: no cardioversion before chest compression
+titleAr: الإنعاش الأساسي خارج المستشفى: لا صدمة كهربائية قبل الضغط على الصدر
+tags: cardiac/perioperative d:technique q:recall l:1
+palette: blue-grey snowy dawn, the warm yellow of a taxi and its headlights, electric-blue sparks
+words: 1, 2, 3
+keywords: cardioversion -> a car being jump-started with sparking jumper cables ("CAR-dioversion"); CPR -> a New York police officer pushing down with straight locked arms ("COP-eR")
+must: the sparking jumper cables stay up at the curb, blocked by the barrier; they never go down the stairs
+scene: A snowy dawn at a subway entrance in Midtown Manhattan, seen from the street. The stairway goes down in three landings painted with big numbers 1, 2 and 3, and at the very bottom lies a collapsed old man. Landing 1: a young woman shouts for help into a public payphone. Landing 2: a big porter pulls the jammed iron gate of the stairway wide open, and a gust of snowy wind rushes through. Landing 3: a boy works a large leather bellows, blowing a strong stream of air down toward the old man. At the bottom: a New York police officer kneels beside the old man and pushes down with straight, locked arms. UP AT THE CURB, dominant, larger than life and lit by its own headlights: a yellow taxi with its hood open; its driver holds two jumper cables crackling with blue sparks and tries to rush down the stairs, but a crossing guard blocks him with an orange barrier and a raised palm.
+story:
+في فجر مثلج من فجور مانهاتن، زلّت قدم العجوز إلياس على درج محطّة القطار تحت الأرض، فتدحرج حتّى استقرّ في قاعه.
+وكان للدّرج ثلاث بسطات، على كلّ واحدة منها رقم مطليّ: واحد، اثنان، ثلاثة.
+فعلى البسطة الأولى أمسكت الطالبة ليلى سمّاعة الهاتف العموميّ وصرخت فيها: «النجدة! رجل سقط في المحطّة!»
+وعلى الثانية شدّ الحمّال الضخم ماركوس البوّابة الحديديّة العالقة حتّى انفتحت، فاندفعت فيها ريح الثلج.
+وعلى الثالثة راح الصبيّ تيدي ينفخ بمنفاخ جلديّ كبير، فيرسل الهواء تيّارًا قويًّا إلى الأسفل.
+وفي القاع جثا الشرطيّ فرانك، وأخذ يضغط بذراعين مستقيمتين ضغطًا لا يفتر.
+أمّا عند الرصيف في الأعلى، فقد وقفت سيّارة أجرة صفراء مرفوعة الغطاء، وفي يدي سائقها سلكان يقدحان شررًا أزرق.
+فاندفع بالسلكين نحو الدرج وهو يصيح: «دعوني أنزل بشرري! سأوقظه بضربة واحدة!»
+فوقف في وجهه حارس العبور بحاجز برتقاليّ، ورفع كفّه وقال: «ليس الآن يا صاحبي؛ للدّرج ترتيب، وشررك ليس أوّل درجاته.»
+ثمّ التفت الحارس إلى البسطات الثلاث، فرأى كلّ يد في موضعها، وتذكّر قول الرومي:
+quote: «في هذا الطريق انحتْ واكشطْ، ولا تكنْ حتّى النفَس الأخير فارغًا نفَسًا واحدًا.»
+source: المثنوي، الكتاب الأول
+explanation:
+Basic life support outside hospital starts with steps that need no equipment, done in a fixed order.
+First the rescuer checks that the victim is unresponsive and calls for help, so that a defibrillator and trained help are on their way.
+Then the airway is opened and rescue breaths are given, in the A-B-C order the book uses.
+Chest compressions follow and continue without interruption.
+Electrical cardioversion or defibrillation is not an early step before compression: it needs a defibrillator and a shockable rhythm, so it is the answer.
+Current guidelines start compressions even earlier, before airway and breathing (C-A-B), and give a shock as soon as a defibrillator arrives.
+
+== 3
+# Which treatment would be least effective for asystole? -> C: intravenous calcium gluconate.
+# nun lying perfectly still on a straight white line -> asystole, a flat line (keyword: asystole -> "a SISTER")
+# drummer beating, her fingers twitch -> external pacemaker (keyword: pacemaker -> drummer)
+# firework rocket bursting, eyelids flutter -> epinephrine 1 mg (keyword: adrenaline -> firework rush)
+# singer striking a gold trophy, her foot twitches -> atropine (keyword: atropine -> TROPHY)
+# ANSWER: janitor pouring chalky glue, it hardens, nothing moves -> calcium gluconate is the least effective (keyword: GLU-conate -> glue, calcium -> chalk)
+title: Asystole: calcium is the least effective treatment
+titleAr: توقّف القلب اللاانقباضي: الكالسيوم أضعف العلاجات نفعًا
+tags: cardiac/perioperative d:pharmacology q:recall l:2
+palette: cathedral candle gold against deep blue stone shadow, one stark white crust
+keywords: asystole -> an elderly nun, "a SISTER", lying perfectly still on a flat white line; pacemaker -> a marching drummer keeping the beat; epinephrine -> a lit red firework rocket (the adrenaline rush); atropine -> a shining gold trophy cup ("a-TRO-pine"); calcium gluconate -> a big can of white chalky glue ("GLU-conate")
+must: the glue sets into a white crust on her hands and nothing moves; the drum, the firework and the trophy each make a small part of her move
+scene: Night inside a great Gothic cathedral on Fifth Avenue, candles burning. CENTRE: along the stone aisle a long, perfectly straight white line is painted on the floor, and on it an elderly nun in a black-and-white habit lies perfectly flat and still. Around her, helpers try to wake her: LEFT, a young marching drummer beats a steady rhythm on a snare drum, and her fingers twitch in time; UPPER LEFT, a guard holds up a lit red firework rocket that bursts into light above her, and her eyelids flutter; RIGHT, a singer in a choir robe raises a shining gold trophy cup and strikes it so it rings, and her foot twitches. FOREGROUND, dominant, larger than life and in the brightest light: a clumsy janitor pours a big can of thick white chalky glue over her hands, where it hardens into a stiff white crust and nothing moves; the three other helpers glare at him.
+story:
+في كنيسة عظيمة على الجادّة الخامسة، بعد أن انصرف المصلّون، وُجدت الأخت أغنيس ممدودةً على أرض الممرّ، ساكنةً كخطّ مستقيم.
+وكان على البلاط خطّ أبيض طويل لا ينحني، كأنّ يدًا رسمته تحت جسدها رسمًا.
+فجاء قارع الطبل الصغير من فرقة الكنيسة، وجعل يقرع إلى جانبها قرعًا منتظمًا، فارتعشت أصابعها على إيقاعه.
+وأشعل الحارس توم صاروخًا من الألعاب الناريّة، فانفجر فوقها ضوءًا أحمر، فرفّت أجفانها.
+ورفعت المغنّية دولوريس كأسًا ذهبيّة من كؤوس الجوائز، ونقرتها فرنّت، فتحرّكت قدم الأخت.
+ثمّ أقبل عامل الصيانة بيرت بعلبة كبيرة من غراء أبيض كالطّباشير، وقال: «هذا يشدّ كلّ شيء!»
+فسكبه على يديها، فجمد عليهما قشرةً بيضاء صلبة، ولم يتحرّك فيهما شيء.
+فصاح به الطبّال: «طبلي حرّك أصابعها، وصاروخ توم فتح عينيها، وكأس دولوريس أيقظت قدمها، وأنت يا بيرت جمّدت يديها!»
+فخجل بيرت، وأنزل علبته، ورجع إلى آخر الصفوف.
+فركعت دولوريس عند رأس الأخت، وهمست لها بما كانت تحبّه من شعر الرومي:
+quote: «لقد خُلق كلّ امرئ لعمل، ووُضع الميل إليه في قلبه.»
+source: المثنوي، الكتاب الثالث
+explanation:
+Asystole is the absence of any electrical activity of the heart, a flat line, and it has the worst outlook of all arrest rhythms.
+In the book's era an external pacemaker was tried in asystole, especially when P waves were still present; current guidelines no longer advise routine pacing.
+Epinephrine, 1 mg intravenously (10 ml of 1:10,000), is the main drug, repeated every 3 to 5 minutes.
+Atropine was also given to block vagal tone in asystole, although it has since been dropped from routine use.
+Intravenous calcium has no benefit in asystole and is given only for hyperkalaemia, hypocalcaemia or calcium-channel-blocker overdose, so calcium gluconate is the least effective treatment and the answer.
+
+== 4
+# The most important factor influencing the outcome of penetrating cardiac injuries -> C: coronary artery injury.
+# assistant against a round target board with four coloured panels -> the heart's chambers
+# one panel shattered by one knife -> comminuted tear of a single chamber
+# two knives in two panels -> multiple-chamber injury
+# one knife grazing the edge and skidding off -> tangential injury, the least dangerous
+# ANSWER: the smallest knife slices her Liberty crown, she sinks -> coronary artery injury decides the outcome (keyword: coronary -> crown)
+title: Penetrating cardiac injury: a coronary artery injury weighs most on the outcome
+titleAr: جروح القلب النافذة: إصابة الشريان التاجي أثقل ما يحدّد المصير
+tags: cardiac/other d:pathology q:recall l:2
+palette: Coney Island sunset orange and candy red, one cold spotlight on a green crown
+keywords: coronary artery -> a green Statue-of-Liberty crown (corona = crown)
+must: only the knife that cut the crown makes her fall; the other knives damage only the board
+scene: Coney Island at dusk, a sideshow stage on the boardwalk. CENTRE: a woman assistant stands against a big round wooden target board divided into four coloured panels, wearing a green Statue-of-Liberty crown on her head. Knives have struck the board: one panel is shattered into splinters by a single knife; two knives are stuck in two different panels; one knife has only grazed the edge of the board and skidded sideways into the sand. CENTRE, dominant, in the brightest spotlight: the last and smallest knife has sliced through her crown; its green spikes are falling and she is sinking to her knees, pale. RIGHT: the knife thrower, a showman with a moustache, drops his knives in horror.
+story:
+في مساء صيفيّ على شاطئ كوني آيلاند، اجتمع الناس حول خيمة المهرّجين ليروا راميَ السكاكين الكبير سانتو.
+وكانت مساعدته كلارا تقف أمام لوح خشبيّ مستدير، مقسوم إلى أربع خانات ملوّنة، وعلى رأسها تاج أخضر كتاج تمثال الحرّية.
+فرمى سانتو السكّين الأولى، فأصابت خانةً واحدة وفتّتتها شظايا، فصفّق الناس.
+ثمّ رمى سكّينين، فانغرزتا في خانتين، فارتجّ اللوح كلّه وصاح الأطفال.
+ورمى الرابعة، فمسّت حافّة اللوح مسًّا، وانزلقت جانبًا إلى الرمل.
+ثمّ أخذ أصغر سكاكينه وأخفّها، ورماها وهو يبتسم.
+فقطعت التاج على رأس كلارا، فتساقطت أشواكه الخضراء، وهوت كلارا على ركبتيها شاحبة.
+فرمى سانتو ما في يده، وجرى إليها يصيح: «فتّتُّ اللوح فما سقطتِ، وشققت خانتين فما سقطتِ، فكيف أسقطكِ جرح تاج صغير؟»
+فأمسكت كلارا بيده وقالت بصوت واهن: «لأنّ التاج يا سانتو هو الّذي يسقي اللوح كلّه.»
+فبكى سانتو، وتذكّر ما كانت أمّه تقوله له كلّما رمى بلا حساب:
+quote: «هذه الدنيا جبل، وفعلُنا نداء، وإلينا يعود صدى النداءات.»
+source: المثنوي، الكتاب الأول
+explanation:
+Penetrating cardiac injuries from stabs and gunshots are judged by which structures the weapon strikes and how.
+A comminuted tear of a single chamber and injuries to several chambers are serious, but they can often be repaired with sutures if the patient reaches the operating room quickly.
+A tangential injury that only grazes the heart is usually the least dangerous.
+In the book's key, injury to a coronary artery is the factor that most influences the outcome, because it adds acute myocardial ischaemia to the bleeding: this is the answer.
+A small distal branch can be tied off, but a major proximal artery needs repair or a bypass graft, often on cardiopulmonary bypass.
+
+== 5
+# The most useful incision in the operating room for penetrating cardiac injury -> D: median sternotomy.
+# hatch in the tug's left side, darkness -> left anterior thoracotomy
+# hatch in its right side, reaches halfway -> right anterior thoracotomy
+# long gash across both sides -> bilateral thoracotomy
+# small yellow submarine poking the belly -> subxiphoid (keyword: SUB-xiphoid -> submarine)
+# ANSWER: the welder opening the STERN down its exact middle, whole engine room visible -> median sternotomy (keyword: STERN-otomy -> ship's stern; median -> centre line)
+title: Penetrating cardiac injury in the operating room: median sternotomy
+titleAr: جرح القلب النافذ في غرفة العمليات: شقّ القصّ الناصف
+tags: cardiac/other d:technique q:recall l:1
+palette: cold sunrise pink and steel grey on the river, one red hull, one white centre line
+keywords: sternotomy -> the broad STERN of a red tugboat; median -> a painted white centre line down its middle; subxiphoid -> a small yellow SUBmarine; thoracotomy -> small hatches cut in the sides
+must: the stern is opened straight down its exact middle along the white centre line and swings open into two halves that show the whole inside
+scene: A Hudson River pier at a cold sunrise. CENTRE: a big red tugboat seen from behind, its broad STERN facing us, moored at the pier; deep inside its engine room a jet of water sprays from a hidden hole. LEFT: a small hatch has been cut in the tug's left side, and a sailor peers into it, seeing only darkness. RIGHT: another small hatch cut in its right side, a second sailor reaching in only halfway. Across both sides runs one long crooked gash, a third sailor exhausted beside it. BELOW the waterline: a small yellow submarine pokes a narrow hole into the tug's belly. CENTRE, dominant, larger than life and in the brightest light: an old welder has opened the stern straight down its exact middle along a painted white centre line, and the two halves swing wide open like doors, showing the whole engine room and the spraying hole within easy reach.
+story:
+على رصيف من أرصفة نهر هدسن، عند شروق بارد، رست قاطرة بحريّة حمراء، وفي جوف محرّكها ماء يتدفّق من ثقب لا يُرى.
+فجاء البحّارة يطلبون الثقب: فتح أحدهم كوّةً صغيرةً في جنبها الأيسر، فلم ير إلّا الظلام.
+وفتح آخر كوّةً في جنبها الأيمن، فلم تبلغ يده إلّا نصف المحرّك.
+وشقّ ثالث جنبيها معًا شقًّا طويلًا معوجًّا، فتعب وأتعبها، والماء ما زال يتدفّق.
+ودفع رابع غوّاصةً صفراء صغيرة تحت بطنها، فنقرت ثقبًا ضيّقًا لا يتّسع لأكثر من نظرة.
+ثمّ أقبل اللّحّام العجوز ميغيل، ونظر طويلًا إلى مؤخّرة القاطرة، فرأى عليها خطًّا أبيض يقسمها نصفين.
+فشقّها على ذلك الخطّ من أعلاها إلى أسفلها، شقًّا مستقيمًا في وسطها تمامًا.
+فانفتح النصفان كبابين، وبان جوف المحرّك كلّه في ضوء الصباح، والثّقب في متناول اليد.
+فقال ميغيل للبحّارة وهو يمدّ يده إلى الثقب: «من الجنب ترون جنبًا، ومن الوسط ترون كلّ شيء.»
+ثمّ ابتسم وهو يسدّ الثقب، وقال كلمةً سمعها من شيخ في قونية:
+quote: «الفكر ما يفتح طريقًا، والطريق ما يُقبل منه ملك.»
+source: المثنوي، الكتاب الثاني
+explanation:
+In the operating room the surgeon repairing a penetrating cardiac wound needs exposure of the whole heart and the great vessels.
+Median sternotomy, splitting the sternum down the midline, exposes all the chambers, the great vessels and the coronary arteries, and allows cardiopulmonary bypass: it is the answer.
+A left anterior thoracotomy is the incision for resuscitation in the emergency department, but it exposes the right side of the heart poorly.
+A right anterior thoracotomy reaches only the right side, and a bilateral thoracotomy gives wide access at the price of a larger and more painful wound.
+A subxiphoid window is used to diagnose or drain blood in the pericardium, not to repair the heart.
+
+== 6
+# With a penetrating chest injury, heart injury is most likely with -> D: all of the above (hypotension, distended neck veins, decreased heart sounds).
+# knife stuck in the water tank above the stage -> penetrating wound
+# glass tank filling with red water around the trio -> blood in the pericardium, tamponade (keyword: tamponade -> tank squeezing them)
+# 1: limp, drooping tuba -> hypotension
+# 2: singer's neck veins bulging like ropes -> distended neck veins
+# 3: drums muffled with wet towels -> decreased heart sounds
+# ANSWER: all three brothers together in the tank -> all of the above, Beck's triad (keyword: Beck's triad -> the Beck brothers' TRIO)
+title: Penetrating chest injury: hypotension, distended neck veins and muffled heart sounds all point to the heart
+titleAr: جرح الصدر النافذ: هبوط الضغط وانتفاخ أوردة العنق وخفوت أصوات القلب تشير كلّها إلى القلب
+tags: cardiac/other d:diagnosis q:recall l:1 x:high-yield
+palette: Harlem jazz-club blue smoke and brass gold, one rising pool of red
+words: 1, 2, 3
+keywords: Beck's triad -> a jazz TRIO of three brothers; tamponade -> a glass tank filling with red water and squeezing them; hypotension -> a limp, drooping tuba; muffled heart sounds -> drums wrapped in wet towels
+must: all three musicians are inside the same glass tank filling with red water; the tuba hangs limp, the singer's neck veins bulge, the drums are muffled by towels
+scene: A Harlem jazz club late at night, blue smoke. The stage is a big clear glass tank; inside it three brothers of a jazz trio play side by side, and red water is rising around them, pouring from a kitchen knife stuck in a water tank above the stage; the rising water squeezes them together. Each stands at a music stand painted 1, 2 or 3. At 1: the tuba player, whose big tuba sags limp and droops like a deflated balloon. At 2: the singer, the thick veins of his neck bulging like ropes as he strains to sing. At 3: the drummer, whose drums are wrapped in thick wet towels so that his beats come out as small grey puffs. Dominant, larger than life, in a cold spotlight: the three brothers together inside the filling tank. FOREGROUND RIGHT: the old woman who owns the club raises her cane to smash the glass.
+story:
+في نادٍ للجاز في هارلم، تحت دخان أزرق، كانت فرقة الإخوة بيك الثلاثة تعزف كلّ ليلة على منصّة من زجاج.
+وفي تلك الليلة رمى سكّير غاضب سكّينه، فانغرزت في خزّان الماء المعلّق فوق المنصّة.
+فانهمر من الثقب ماء أحمر، وكانت المنصّة حوضًا زجاجيًّا قديمًا، فأخذ الماء يعلو حول الإخوة الثلاثة ويضيق عليهم.
+فأمّا الأكبر، عازف التوبا، فقد ارتخت آلته بين يديه وتهدّلت، كأنّ نفَسها انقطع.
+وأمّا الأوسط، المغنّي، فقد انتفخت عروق عنقه كالحبال وهو يجاهد ليغنّي.
+وأمّا الأصغر، الطبّال، فقد التفّت المناشف المبتلّة على طبوله، فصارت ضرباته نفخات رماديّة لا تكاد تُسمع.
+وكان أمام كلّ منهم حامل نوتة عليه رقم مطليّ: واحد، اثنان، ثلاثة.
+فصاحت صاحبة النادي، العجوز إيتا: «لو رأيتُ واحدةً منها لقلت: تعب؛ أمّا الثلاث معًا فالماء قد بلغ قلب الفرقة!»
+فحطّمت الحوض بعصاها، فانسكب الماء الأحمر، فعاد صوت الطبول، وانتصبت التوبا، وهدأت عروق المغنّي.
+ثمّ أخذت إيتا نايًا قديمًا عن الحائط، ونفخت فيه نغمةً حزينة، وقالت:
+quote: «استمعْ إلى هذا النّاي كيف يشكو، ومن الفراق يحكي.»
+source: المثنوي، الكتاب الأول
+explanation:
+In a penetrating chest injury, blood leaking from a cardiac wound collects in the pericardium and compresses the heart: cardiac tamponade.
+The compressed heart fills poorly, so cardiac output and blood pressure fall: hypotension.
+Venous return backs up, so the neck veins distend, unless the patient is also very hypovolaemic.
+Blood around the heart damps its sounds, so the heart sounds are decreased or muffled.
+Together these make Beck's triad, and each of them makes a cardiac injury more likely, so all of the above is the answer.
+The full triad is present in only a minority of patients, so its absence does not rule out a cardiac injury, and ultrasound is used to look for blood in the pericardium.
+
+== 7
+# Acceptable repair for a neonate with symptomatic isolated coarctation -> A and C: resection with end-to-end anastomosis; subclavian flap aortoplasty.
+# baby orca pinched by a rope at its waist -> neonatal coarctation (keywords: aorta -> ORCA, coarctation -> rope pinch, neonate -> baby)
+# ANSWER A: pinched ring cut out, two halves sewn end to end -> resection with end-to-end anastomosis
+# ANSWER C: the orca's own left flipper folded down over the waist -> subclavian flap aortoplasty (keyword: subclavian -> flipper, it feeds the arm)
+# plastic patch and plastic tube thrown in the bin -> prosthetic patch and tube graft are not acceptable
+# last year's grown orca strangled by a rigid plastic ring -> prosthetic material does not grow
+title: Neonatal coarctation: resection with end-to-end anastomosis, or subclavian flap aortoplasty
+titleAr: تضيّق برزخ الأبهر عند الوليد: الاستئصال مع المفاغرة طرفًا لطرف، أو رأب الأبهر بشريحة تحت الترقوة
+tags: cardiac/congenital d:technique q:recall l:2
+palette: night-time work lamps, black-and-white balloon skins, one warm pool of light
+keywords: aorta -> a giant orca parade balloon ("a-OR-ta" / "OR-ca"); coarctation -> a rope pinching the orca's waist; neonate -> a BABY orca balloon; subclavian artery -> the orca's left flipper (it feeds the arm)
+must: the left baby orca has its pinched ring cut out and its two ends sewn end to end; the right baby orca has its own left flipper folded down as a patch over its narrow waist
+scene: The night before the Thanksgiving parade on the Upper West Side, giant balloons sleeping under nets on the street. CENTRE, dominant, under one bright work lamp: two BABY orca balloons, black and white, newly inflated. LEFT baby orca: an old engineer holds up in his hands the short, narrow ring of balloon skin he has just cut out of its waist, still tied by the strangling rope, and behind him the two halves of the orca are stitched together end to end with a neat seam; the orca is full of air down to its tail. RIGHT baby orca: a young woman engineer has folded the orca's own LEFT FLIPPER down over its narrow waist and is sewing it on as a patch, widening the waist; air rushes past it to the tail. FOREGROUND RIGHT: a crew chief throws a plastic patch and a plastic tube into a trash bin. BACKGROUND: last year's big adult orca balloon, strangled in its middle by a too-small rigid plastic ring.
+story:
+في ليلة نفخ البالونات قبل موكب عيد الشكر، امتلأ شارع في غرب مانهاتن ببالونات عملاقة تنام تحت الشِّباك.
+وكان بينها حوتان قاتلان صغيران، أسودان أبيضان، نُفخا في تلك الليلة نفسها، وعلى خصر كلّ منهما حبل مشدود يخنقه.
+فلم يكن الهواء يجاوز الحبل، فتورّم صدر كلّ صغير، وتدلّى ذيله فارغًا ذابلًا.
+فجاء المهندس العجوز هارولد إلى الصغير الأوّل، فقصّ الحلقة المخنوقة كلّها، ثمّ خاط الطرفين أحدهما بالآخر خياطةً محكمة.
+وجاءت المهندسة الشابّة ناتالي إلى الصغير الثاني، فطوت زعنفته اليسرى على موضع الخنق، وخاطتها عليه رقعةً من جلده هو.
+فاندفع الهواء في الصغيرين حتّى ذيليهما، فارتفعا تحت الشِّباك يتمايلان.
+وأقبل فتى متحمّس برقعة من البلاستيك وأنبوب من البلاستيك، فأخذهما منه رئيس العمّال ورماهما في البرميل.
+ثمّ أشار إلى حوت كبير من موكب العام الماضي، قد خنقته في وسطه حلقة بلاستيكيّة ضاقت عليه حين كبر.
+وقال للفتى: «الصغير يكبر يا بنيّ، والبلاستيك لا يكبر معه؛ فرقّع الصغير من نفسه.»
+فنظرت ناتالي إلى الصغيرين يرتفعان، وقالت:
+quote: «كلّ من بَعُد عن أصله، يعود فيطلب زمان وصله.»
+source: المثنوي، الكتاب الأول
+explanation:
+A neonate with symptomatic isolated coarctation has a tight narrowing of the aorta just beyond the left subclavian artery, near the ductus, and needs repair.
+Resection of the narrowed segment with end-to-end anastomosis (today usually an extended end-to-end repair) removes all the abnormal tissue and is an accepted method.
+The subclavian flap aortoplasty turns the left subclavian artery down over the narrowing to widen it with the child's own tissue, and is also accepted.
+Both use living tissue that grows with the child, so A and C are the answer.
+A prosthetic patch is avoided because an aneurysm can form opposite the patch, and a prosthetic tube cannot grow, so the narrowing returns as the infant grows.
+
+== 8
+# Which constitutes a true vascular ring? -> B: double aortic arch.
+# lamppost and hot-dog-cart pole side by side -> trachea and oesophagus (air and food)
+# ANSWER: two orcas arching round both poles and meeting behind, a closed ring squeezing them -> double aortic arch (keyword: aorta -> ORCA)
+# sling of dollar bills looping only the front of the lamppost -> pulmonary artery sling, not a ring of arches (keyword: pulmonary -> PULL MONEY)
+# orca whose right flipper hangs from the far end, passing behind -> anomalous right subclavian from the descending aorta
+# orca floating up at rooftop level -> cervical aortic arch
+title: The true vascular ring: double aortic arch
+titleAr: الحلقة الوعائية الحقيقية: القوس الأبهرية المضاعفة
+tags: cardiac/congenital d:anatomy q:recall l:1
+palette: crisp autumn blue, orange leaves, black-and-white balloons
+keywords: aorta -> giant orca parade balloons ("a-OR-ta" / "OR-ca"); double aortic arch -> TWO orcas closing a ring; pulmonary artery sling -> a sling of green dollar bills ("PULL-MONEY"); subclavian artery -> an orca's flipper
+must: the two orcas close a complete ring around both poles; the dollar-bill sling does not close
+scene: Thanksgiving parade morning on Central Park West, cold wind. CENTRE, dominant and larger than life: a tall lamppost and the tall umbrella pole of a hot-dog cart stand close side by side, and TWO orca balloons, one from each side, arch around them and meet behind them, so that their two bodies form one complete closed ring that squeezes the two poles together; the poles bend, and the hot-dog vendor shouts. LEFT: a man swings a sling made of green dollar bills that loops only around the front of the lamppost and does not close. RIGHT: a third orca balloon, whose right flipper hangs from the far end of its back, passes behind the poles without closing anything. UPPER BACKGROUND: a fourth orca floats unusually high, up at the level of the rooftops.
+story:
+في صباح موكب عيد الشكر، والريح باردة على جادّة سنترال بارك الغربيّة، طار حوتان قاتلان من بالونات الموكب، واحد من اليمين وآخر من اليسار.
+وفي طريقهما وقف عمود نور طويل، وإلى جانبه عمود مظلّة لعربة بائع النقانق، لصيقين متجاورين.
+فالتفّ الحوتان على العمودين من الجانبين، والتقيا خلفهما، فصار جسداهما حلقةً مغلقة لا فرجة فيها.
+وضاقت الحلقة، فانحنى العمودان، وصرخ بائع النقانق ساي: «عمود نوري وعمود خبزي! لقد خنقاهما معًا!»
+وكان قريبًا منه رجل يلوّح بمقلاع من أوراق الدولار، يلفّه على عمود النور من أمامه، فلا يطبق ولا يُقفل.
+وطار حوت ثالث تتدلّى زعنفته اليمنى من آخر ظهره، فمرّ خلف العمودين ولم يغلق عليهما شيئًا.
+وحوت رابع ارتفع ظهره عاليًا حتّى حاذى السطوح، بعيدًا عن العمودين كلّه.
+فجاء رئيس الموكب، الشيخ أبرام، ونظر إلى الحوتين المتعانقين حول العمودين، وقال: «المقلاع يلفّ، والزعنفة تمرّ، أمّا هذان فقد أغلقا الدائرة.»
+ثمّ أمر بقطع أصغر الحوتين، فانفتحت الحلقة، واستقام العمودان، وتنفّس ساي.
+فنظر أبرام إلى الحوت المقطوع يهبط برفق، وقال:
+quote: «الماء في السفينة هلاك السفينة، والماء تحت السفينة سندها.»
+source: المثنوي، الكتاب الأول
+explanation:
+A vascular ring is an anomaly of the aortic arch system in which vessels encircle the trachea and the oesophagus.
+A double aortic arch is a true, complete ring: both the right and the left arch persist, pass on either side and join behind, encircling and compressing the trachea and oesophagus; this is the answer.
+A pulmonary artery sling, the left pulmonary artery arising from the right one and passing between trachea and oesophagus, compresses the airway but is not a ring of arches.
+An anomalous right subclavian artery from the descending aorta passes behind the oesophagus but does not close a ring by itself.
+A cervical aortic arch rises high into the neck and is not a ring by itself.
+A double arch is treated by dividing the smaller of the two arches.
+
+== 9
+# Findings in a young adult with coarctation -> A, B and C: posterior systolic murmur between the scapulae; diminished femoral pulses; higher blood pressure in the left arm than the right.
+# orca balloon pinched at the waist above him -> coarctation (keywords: aorta -> ORCA, coarctation -> rope)
+# huge upper body, thin trembling legs -> high pressure above, low below: diminished femoral pulses (ANSWER B)
+# whistle between his shoulder blades -> posterior systolic murmur between the scapulae (ANSWER A)
+# gauge L higher than gauge R -> higher pressure in the left arm (ANSWER C)
+# unopened bucket of blue paint, pink fingers -> no peripheral cyanosis
+title: Coarctation in a young adult: murmur between the scapulae, weak femoral pulses, unequal arm pressures
+titleAr: تضيّق برزخ الأبهر عند الشابّ: نفخة بين لوحَي الكتف، وضعف نبض الفخذ، وفرق ضغط الذراعين
+tags: cardiac/congenital d:diagnosis q:recall l:2
+palette: bright cold parade morning, black-and-white balloon, one brass glint between the shoulder blades
+words: L, R
+keywords: aorta -> a giant orca parade balloon ("OR-ca"); coarctation -> a rope pinching the orca's waist
+must: we see the young man from behind; the whistle is between his shoulder blades; his upper body is huge and his legs thin; the gauge marked L reads higher than the gauge marked R
+scene: Parade morning on Broadway. CENTRE, dominant: a young balloon handler stands with his BACK to us, holding the ropes of a big orca balloon above him whose waist is pinched tight by a rope. His upper body is huge and muscular, shoulders like doors, arms like tree trunks; his legs are thin and weak like a bird's, and his knees tremble. Between his shoulder blades a small brass whistle is strapped, whistling loudly. On each of his upper arms is a round pressure gauge: on the arm on the viewer's left the gauge is marked L and its needle points high; on the arm on the viewer's right the gauge is marked R and its needle is lower. At his feet stands an unopened bucket of blue paint; his fingers are pink.
+story:
+في صباح الموكب على برودواي، أمسك الشابّ جيك بحبال الحوت القاتل، وكان الحوت مخنوق الخصر بحبل مشدود.
+وكان جيك عملاقًا من أعلاه: كتفان كالأبواب، وذراعان كجذعي شجرة؛ أمّا ساقاه فنحيلتان واهنتان كساقي طائر.
+فكان كلّما شدّ الحبال ارتجفت ركبتاه، كأنّ القوّة كلّها صعدت إلى أعلاه ولم تنزل.
+وكانت بين لوحَي كتفيه صفّارة نحاسيّة صغيرة مربوطة، تصفر مع كلّ دفعة صفيرًا طويلًا يسمعه كلّ من يمشي خلفه.
+وفي كلّ ذراع من ذراعيه عدّاد ضغط: على اليسرى حرف إل، وعلى اليمنى حرف آر، وإبرة اليسرى أعلى من أختها.
+فضحكت صديقته كارمن من الرصيف وصاحت: «يُسراك يا جيك تحمل ما لا تحمله يُمناك!»
+وكان عند قدميه دلو من الطلاء الأزرق، أراد مهرّج أن يصبغ به أصابعه، فأبى جيك وقال: «أصابعي ورديّة، فدعها كما هي!»
+ومضى الحوت المخنوق فوقه، يجرّه جيك بكتفيه الهائلتين وساقيه المرتجفتين.
+فلمّا انتهى الموكب جلس على الرصيف يلهث، فجلست كارمن إلى جانبه، وقالت ما حفظته من الرومي:
+quote: «إن كان العطاش يطلبون الماء في الدنيا، فالماء أيضًا يطلب العطاش في العالم.»
+source: المثنوي، الكتاب الأول
+explanation:
+In a young adult with coarctation, the narrowing of the descending aorta keeps the pressure high above it and low below it.
+Flow through the narrowing and through enlarged collateral arteries makes a systolic murmur heard best at the back, between the scapulae.
+The femoral pulses are weak and delayed compared with the radial pulses, and the legs have lower pressure than the arms.
+The arm pressures may differ: the book counts a higher pressure in the left arm than in the right as a possible finding, as when an anomalous right subclavian artery arises below the coarctation; more often the right arm is higher.
+So A, B and C are the answer.
+Peripheral cyanosis is not a feature of coarctation in a young adult, so D is wrong.
+
+== 10
+# Premature infant with hyaline membrane disease, cannot be weaned from the ventilator; signs of a significant PDA -> A and B: continuous murmur; hyperactive precordium with bounding pulses.
+# tiny premature penguin chick, the bellows cannot be taken away -> premature infant on the ventilator
+# open silver duct-tape tunnel between the orca and the money pipe, a stream rushing -> patent ductus arteriosus, aorta to pulmonary artery (keywords: duct tape, ORCA, PULL MONEY)
+# cement mixer roaring without a pause -> continuous (machinery) murmur (ANSWER A)
+# chick's chest thumping, feet bouncing as on springs -> hyperactive precordium, bounding pulses (ANSWER B)
+# old vet pointing at the open tunnel -> the duct is the cause
+title: A premature infant who cannot be weaned: continuous murmur and bounding pulses mean a significant PDA
+titleAr: الخديج الّذي لا يُفطم عن جهاز التنفّس: النفخة المستمرّة والنبض القافز يعنيان قناة شريانية مهمّة
+tags: cardiac/congenital d:diagnosis q:vignette l:2
+palette: warm nursery amber against cold night blue, one silver gleam of tape
+keywords: patent ductus arteriosus -> a wide-open tunnel of shiny silver DUCT tape; aorta -> a toy orca; pulmonary artery -> a pipe full of green dollar bills ("PULL-MONEY"); continuous murmur -> a cement mixer roaring without a pause
+must: the chick's chest thumps and its feet bounce; the duct-tape tunnel is wide open with a stream rushing through it
+scene: Night in the penguin nursery of the Central Park Zoo. CENTRE, dominant, larger than life and in the warmest light: a tiny premature penguin chick in a glass box, its chest visibly thumping and its little feet bouncing as if on springs; a small hand-worked bellows blows air at its beak, and the keeper, a young woman, cannot take it away. ABOVE the box: a wide-open tunnel made of shiny silver duct tape connects a toy orca to a pipe full of green dollar bills, and a strong stream rushes through it, shaking it. RIGHT, behind a glass wall: a cement mixer turns on a building site, roaring without a pause. LEFT: an old zoo vet with his ear against the glass points at the open tunnel.
+story:
+في حديقة حيوان سنترال بارك، في ليلة شتويّة، فقس فرخ بطريق قبل أوانه، صغيرًا كقبضة طفل.
+فوضعته الحارسة جون في صندوق زجاجيّ دافئ، وجعلت منفاخًا صغيرًا ينفخ الهواء عند منقاره نفخةً بعد نفخة.
+وكانت كلّما أبعدت المنفاخ عنه لهث الفرخ وارتجف، فتعيده إليه وتقول: «لا يقدر أن يتنفّس وحده بعد!»
+وكان فوق الصندوق نفق من شريط لاصق فضّيّ، مفتوح على سعته، يصل بين حوت قاتل من الألعاب وأنبوب يجري فيه المال.
+فكان يندفع فيه تيّار لا يهدأ، فيرتجّ النفق كلّه.
+وفي ورشة البناء خلف الجدار الزجاجيّ، دارت خلّاطة إسمنت ليل نهار، بهدير مستمرّ لا ينقطع لحظة.
+وكان صدر الفرخ الصغير يخفق خفقًا يُرى من بعيد، وقدماه تقفزان كأنّ تحتهما نوابض.
+فجاء الطبيب البيطريّ العجوز سول، ووضع أذنه على الزجاج، ثمّ أشار إلى النفق المفتوح وقال: «من هنا يتسرّب نفَسه.»
+فمسحت جون على جناحه الصغير بإصبعها، وقالت:
+quote: «نارٌ صوتُ هذا النّاي، لا ريح؛ ومن لم تكن فيه هذه النار فليكن عدمًا.»
+source: المثنوي، الكتاب الأول
+explanation:
+Premature infants with hyaline membrane disease often keep the ductus arteriosus open, and as the lung disease improves, blood shunts from the aorta into the pulmonary artery through it.
+The extra pulmonary blood flow floods the lungs, which is why such an infant cannot be weaned from the ventilator.
+A haemodynamically significant duct gives a continuous, machinery murmur, although in a ventilated premature infant it may be heard only in systole.
+The run-off from the aorta gives a hyperactive precordium and bounding peripheral pulses with a wide pulse pressure.
+So A and B are the answer.
+Jaundice has nothing to do with the duct, and diminished femoral pulses point to coarctation instead.
+
+== 11
+# Optimal method of confirming a PDA in an infant -> D: two-dimensional echocardiography with continuous-wave and colour-flow Doppler.
+# mother whispering in the Whispering Gallery, the echo travels along the arch -> echocardiography (keyword: ECHO)
+# ANSWER: where the echo arrives, the blanket glows red and blue and shows the open duct-tape tunnel -> 2-D echo with colour-flow Doppler (keywords: Doppler -> red and blue police lights, ductus -> duct tape)
+# old man's blurry instant photo -> chest film, only indirect signs
+# plumber offering a long hose -> cardiac catheterisation, invasive
+# man with a doll and a squeeze bottle of dye -> retrograde aortography via an umbilical catheter, invasive
+title: Confirming a PDA in an infant: two-dimensional echocardiography with Doppler
+titleAr: تأكيد القناة الشريانية عند الرضيع: تخطيط صدى القلب ثنائي الأبعاد مع الدوبلر
+tags: cardiac/congenital d:diagnosis q:recall l:1
+palette: warm terracotta tiles, one thread of white light, flashes of red and blue
+keywords: echocardiography -> an ECHO travelling along the arch of the Whispering Gallery; colour-flow Doppler -> flashing red and blue police-car lights; ductus arteriosus -> a silver DUCT-tape tunnel between a toy orca and a pipe of dollar bills
+must: the whisper's echo lights the duct-tape tunnel in red and blue and shows it open
+scene: The Whispering Gallery under Grand Central Terminal, a low arched ceiling of warm herringbone tiles. LEFT corner: a young mother whispers into the corner of the arch; her whisper travels along the curved tiled ceiling as a visible glowing thread of light and comes back down in the opposite corner. RIGHT corner, dominant, larger than life: her baby in a stroller holds a toy wrapped in a blanket: a small orca and a pipe of dollar bills joined by a silver duct-tape tunnel; where the echo arrives, the blanket glows with flashing RED and BLUE light like a passing police car, showing the tunnel wide open with a stream running through it. FOREGROUND: an old man holds out a blurry instant photograph in which nothing can be seen; a plumber offers a long hose; another man holds a doll and a squeeze bottle of dye. The mother waves them all away.
+story:
+تحت محطّة غراند سنترال، في رواق الهمس ذي القوس المبلّط، جلست الأمّ سارة برضيعها توبي في إحدى الزوايا.
+وكان في حضن الرضيع لعبته الّتي لا تفارقه: حوت قاتل صغير، وأنبوب فيه نقود، ونفق من شريط لاصق فضّيّ بينهما، مخبوء تحت بطّانيّة.
+وكانت سارة تريد أن تعرف: أمفتوح ذلك النفق أم مغلق؟
+فاقترح عليها عجوز أن يصوّره بآلته الفوريّة، فخرجت الصورة ضبابيّةً لا يبين فيها شيء.
+واقترح سبّاك أن يدسّ في النفق خرطومًا طويلًا، واقترح آخر أن يدفع فيه صبغًا من سرّة دمية، فهزّت سارة رأسها: «لا أريد أن أُدخل فيه شيئًا.»
+ثمّ همست في زاوية القوس همسةً خفيفة، فسرت الهمسة على السقف المقوّس خيطًا من نور، ورجع صداها في الزاوية الأخرى.
+فلمّا بلغ الصدى البطّانيّة، أضاء ما تحتها بنور أحمر ونور أزرق، كأنوار سيّارة شرطة عابرة.
+فبان النفق كلّه، مفتوحًا على سعته، والتيّار يجري فيه من جهة الحوت إلى جهة النقود.
+فضحكت سارة وقبّلت توبي، وقالت: «همسة واحدة وصداها رأيا ما لم تره الصورة، ولم يبلغه الخرطوم.»
+ثمّ تذكّرت حكاية الفيل في البيت المظلم، وقالت:
+quote: «لو كان في كفّ كلّ واحد منهم شمعة، لزال الاختلاف من أقوالهم.»
+source: المثنوي، الكتاب الثالث
+explanation:
+In an infant with a suspected patent ductus arteriosus, the best test shows the duct itself and the flow through it, without harm.
+Two-dimensional echocardiography shows the duct directly, and continuous-wave and colour-flow Doppler show the direction and speed of flow through it: it is the optimal method and the answer.
+Echocardiography also estimates the size of the shunt and the pulmonary artery pressure, and excludes other lesions that depend on the duct.
+A chest film shows only indirect signs, such as cardiomegaly and increased pulmonary blood flow.
+Cardiac catheterisation and retrograde aortography through an umbilical artery catheter can show the duct, but they are invasive and no longer needed for the diagnosis.
+
+== 12
+# Complications of untreated coarctation -> A, C and D: endocarditis; cerebrovascular accident; congestive heart failure.
+# orca still pinched by the rope, nobody untied it -> untreated coarctation (keywords: ORCA, rope)
+# playing cards sprouting broccoli at the pinch -> endocarditis (ANSWER A; keyword: endo-CARD-itis, vegetations)
+# lightning striking the orca's head -> stroke, cerebrovascular accident (ANSWER C)
+# gridlocked taxis below -> congestive heart failure (ANSWER D; keyword: congestion -> traffic jam)
+# man pulling a rope of dollar bills, untouched -> no pulmonary vascular disease (keyword: PULL MONEY)
+title: Untreated coarctation: endocarditis, stroke and heart failure
+titleAr: تضيّق برزخ الأبهر غير المعالج: التهاب الشغاف، والسكتة الدماغية، وقصور القلب
+tags: cardiac/congenital d:complications q:recall l:2
+palette: storm-dark slate sky, taxi yellow, one white-hot lightning bolt
+keywords: aorta -> a giant orca parade balloon; coarctation -> a rope pinching its waist; stroke -> a lightning bolt striking its head; congestive heart failure -> a traffic jam of yellow taxis; endocarditis -> playing CARDS sprouting broccoli and moss ("endo-CARD-itis"); pulmonary -> a man pulling a rope of dollar bills ("PULL-MONEY")
+must: the rope pinching the orca is still tied; lightning strikes its head; playing cards sprouting broccoli are stuck at the pinch; the taxis are jammed solid below
+scene: A stormy afternoon over Fifth Avenue. CENTRE, dominant, larger than life: a big orca parade balloon flies over the avenue with a rope still tied tight around its waist, pinching it. Three disasters strike around it: ABOVE, a lightning bolt from a black cloud hits the orca's head; AT THE PINCH, a cluster of playing cards is stuck to the balloon, and green broccoli and moss are sprouting from the cards; BELOW, the avenue is gridlocked, yellow taxis jammed bumper to bumper, drivers leaning on their horns. FOREGROUND RIGHT: a man walks freely along the sidewalk pulling a rope of green dollar bills behind him, untouched by any of it. LEFT: an old baker woman stands in her shop door, looking up.
+story:
+نسي رجال الموكب الحبل مشدودًا على خصر الحوت القاتل، وأطلقوه فوق الجادّة الخامسة، وقالوا: «نحلّه غدًا.»
+ومرّت الأعوام، وبقي الحبل، والحوت يطير كلّ عام مخنوقًا كما هو.
+فعند موضع الخنق علقت أوراق لعب نسيها مقامر في الريح، فنبت عليها قرنبيط أخضر وطحلب، ورقةً بعد ورقة.
+وتحت الحوت انعقد السير: سيّارات الأجرة الصفراء متلاصقة لا تتقدّم ولا تتأخّر، والأبواق تصرخ.
+فصاح السائق موشيه من نافذته: «منذ أن خنقوا ذلك الحوت، والجادّة كلّها مخنوقة وراءه!»
+ثمّ اسودّت السماء، فنزلت صاعقة على رأس الحوت، فاهتزّ كلّه وانطفأت عيناه لحظة.
+أمّا الرجل الّذي يجرّ حبلًا من الدولارات على الرصيف، فمضى في طريقه لا يصيبه من ذلك كلّه شيء.
+فخرجت العجوز إستر من مخبزها، ونظرت إلى الحوت والحبل والصاعقة والسيّارات، وقالت: «حبل صغير لم يُحلّ في وقته صار مصيبةً بثلاثة وجوه.»
+ثمّ رفعت عينيها إلى الحوت المخنوق، وقالت:
+quote: «كلّ من كان أشدّ يقظةً كان أشدّ ألمًا، وكلّ من كان أشدّ وعيًا كان أشدّ اصفرارًا.»
+source: المثنوي، الكتاب الأول
+explanation:
+Coarctation left untreated keeps the upper body hypertensive, and before surgery most patients died young.
+Infective endocarditis or endarteritis can settle on the coarctation itself or on an associated bicuspid aortic valve.
+Hypertension, and the berry aneurysms that often go with coarctation, lead to cerebrovascular accidents: stroke and cerebral haemorrhage.
+The left ventricle, working for years against high pressure, finally fails: congestive heart failure.
+So A, C and D are the answer.
+Pulmonary vascular disease is not a complication, because isolated coarctation has no left-to-right shunt that floods the lungs.
+
+== 13
+# The ASD most commonly associated with partial anomalous pulmonary venous return -> B: sinus venosus defect.
+# the HART Hotel: blue wing = right heart, red wing = left heart, glass atrium lobbies upstairs, party wall = septum (keyword: hart -> heart)
+# money pipes from outside into the red lobby -> pulmonary veins drain to the left atrium (keyword: PULL MONEY)
+# ANSWER: Venus in a hole at the very top of the wall under the blue chimney, two money pipes pouring into the BLUE lobby beside her -> sinus venosus ASD with PAPVR (keyword: VEN-osus -> Venus)
+# small clock in the middle, prime rib at the bottom, unlit -> secundum and primum defects, not the ones with anomalous veins
+# manager on a ladder pointing at Venus -> where to look
+title: The ASD that goes with partial anomalous pulmonary venous return: sinus venosus
+titleAr: الفتحة الأذينية المرافقة للعَود الوريدي الرئوي الشاذّ الجزئي: فتحة الجيب الوريدي
+tags: cardiac/congenital d:anatomy q:recall l:1
+palette: Brooklyn night blue, one blue wing and one red wing lit warm from inside, white marble
+keywords: heart -> an old hotel with a stag's head (a "hart") over its door; atrium -> glass-roofed atrium lobbies; sinus venosus -> a white marble VENUS statue; pulmonary veins -> pipes stuffed with green dollar bills ("PULL-MONEY"); superior vena cava -> the chimney of the blue wing
+must: Venus stands in a hole at the very top of the party wall, just under the blue wing's chimney; the money pipes that empty into the BLUE lobby enter right beside her
+scene: Night on a Brooklyn street corner. CENTRE, dominant, larger than life: a narrow old hotel seen cut open like a doll's house, with a stag's head with great antlers over its door. It has two wings divided by a central party wall: the wing on the viewer's left painted BLUE, the wing on the right painted RED, each with two floors; the upper floor of each wing is a glass-roofed atrium lobby, the lower floor an engine room with a big fan. On the upper party wall, at the very TOP, just below where the chimney of the blue wing comes down, there is a hole, and in it stands a white marble statue of Venus, lit brightly. Pipes stuffed with green dollar bills come in from outside: most of them empty into the RED lobby, but the two upper pipes enter right beside Venus and pour their dollar bills onto the floor of the BLUE lobby. Lower on the same wall, small and unlit: a round clock with a second hand in the middle, and a plate of prime rib at the bottom. RIGHT: the hotel manager on a ladder points at Venus; an old cleaning lady gathers the dollar bills from the blue floor.
+story:
+في بروكلين، على ناصية شارع قديم، قام فندق صغير اسمه فندق الأيّل، فوق بابه رأس أيّل عظيم القرون.
+وكان الفندق جناحين: جناحًا أزرق وجناحًا أحمر، بينهما جدار فاصل، وفي طابقه العلويّ بهوان سقفاهما من زجاج.
+وكانت أنابيب المال تأتي من خارج الفندق محمّلةً بأوراق الدولار الخضراء، لتصبّ كلّها في البهو الأحمر حيث الخزنة.
+وفي أعلى الجدار الفاصل، تحت مدخنة الجناح الأزرق مباشرة، ثغرة قديمة وقف فيها تمثال فينوس من رخام أبيض.
+وإلى جانب فينوس دخل أنبوبان من أنابيب المال إلى البهو الأزرق، فتناثرت الأوراق على أرضه بدل أن تذهب إلى الخزنة.
+وفي وسط الجدار ساعة كبيرة بعقرب ثوانٍ، وفي أسفله طبق من لحم الضلع الفاخر، وكلاهما ساكن في موضعه.
+فصعد المدير الجديد، السيّد وايت، يتتبّع المال الضائع، فوجد الثغرة والتمثال، ووجد الأنبوبين يصبّان إلى جانبهما.
+فصاح: «حيث وقفت فينوس في أعلى الجدار، ضلّ المال طريقه إلى الجناح الأزرق!»
+فقالت عاملة التنظيف العجوز مارغريت، وهي تجمع الأوراق عن البلاط الأزرق: «يا سيّدي، الجميل لا يأتي وحده، يأتي ومعه ضيوفه.»
+ثمّ رفعت عينيها إلى التمثال، وقالت:
+quote: «صار كلّ امرئ صديقي من ظنّه، ولم يطلب أسراري من داخلي.»
+source: المثنوي، الكتاب الأول
+explanation:
+The upper floor of the heart holds the two atria, divided by the atrial septum, and atrial septal defects are named by where they lie in it.
+The sinus venosus defect lies high in the septum, at the entry of the superior vena cava.
+It is the ASD most commonly associated with partial anomalous pulmonary venous return: the right upper, and often the middle, pulmonary veins drain into the superior vena cava or the right atrium beside the defect; this is the answer.
+The secundum defect in the middle, at the fossa ovalis, is the commonest ASD but is only occasionally associated with anomalous veins.
+The ostium primum defect lies low, just above the atrioventricular valves, and goes with a cleft mitral valve rather than anomalous veins.
+A sinus venosus defect is repaired with a patch that closes the hole and baffles the anomalous veins into the left atrium.
+
+== 14
+# The direction of an intracardiac shunt at the atrial level is controlled by -> B: the compliance of the right and left ventricles.
+# the HART Hotel, hole in the middle of the upstairs party wall -> an ASD
+# red balls rolling from the red lobby through the hole into the blue lobby -> left-to-right shunt
+# ANSWER: the blue ground floor is a soft bouncy castle that swallows them; the red ground floor a stiff steel vault -> the more compliant (right) ventricle draws the flow (keyword: compliance -> bouncy castle)
+# carpenter measuring the hole and shrugging -> the size of the defect does not set the direction
+# girl jumping into the bouncy castle -> flow goes where filling is easiest
+title: An atrial shunt flows toward the more compliant ventricle
+titleAr: اتجاه التحويلة على مستوى الأذينين تحدّده مطاوعة البطينين
+tags: cardiac/congenital d:physiology q:recall l:2
+palette: rainy night blue outside, party colours inside, one glossy red stream of balls
+keywords: heart -> the old hotel with a stag's head (a "hart"); atrium -> glass-roofed atrium lobbies; ventricle -> ground-floor rooms with VENTilation fans; compliance -> a soft, stretchy bouncy castle against a stiff steel vault
+must: the balls roll through the hole from the red lobby to the blue lobby and fall into the soft bouncy castle below; the red ground floor is a stiff steel vault
+scene: A rainy evening, a children's party in the same Brooklyn hotel, seen cut open like a doll's house: the blue wing on the viewer's left, the red wing on the right, glass-roofed atrium lobbies upstairs, rooms with big fans downstairs, a party wall between the wings, a stag's head over the door. In the MIDDLE of the upstairs party wall is a big round hole where a clock used to be. Dozens of glossy red rubber balls roll from the RED lobby through the hole into the BLUE lobby and bounce down the stairs into the blue wing's ground floor, which is a huge, soft, inflatable bouncy castle that swallows them gently: dominant, larger than life, brightest. The red wing's ground floor is a stiff steel vault with thick walls; the balls bounce off its closed door. A carpenter measures the hole with a tape measure and shrugs; a little girl jumps into the bouncy castle.
+story:
+في مساء ماطر فتح فندق الأيّل في بروكلين أبوابه لحفلة الأطفال، وملأ طابقه العلويّ بكرات مطّاطيّة حمراء.
+وفي وسط الجدار الفاصل بين البهو الأحمر والبهو الأزرق ثغرة مستديرة كبيرة، كانت يومًا ساعةً فنُزعت.
+وكان الطابق السفليّ من الجناح الأزرق قلعةً منفوخةً ليّنة، تبتلع كلّ ما يسقط فيها برفق.
+أمّا الطابق السفليّ من الجناح الأحمر فقبو فولاذيّ صلب الجدران، يرتدّ عن بابه كلّ شيء.
+فتدحرجت الكرات الحمر من البهو الأحمر، وعبرت الثغرة إلى البهو الأزرق، ثمّ نزلت على الدرج إلى القلعة المنفوخة.
+فجاء النجّار بيل بشريط القياس، فقاس الثغرة وقال: «لو صغّرتها أو كبّرتها، لما غيّر ذلك وجهة الكرات.»
+فضحكت الطفلة ميا وصاحت: «الكرات لا تسأل عن الثغرة، الكرات تسأل: أين الحضن الليّن؟»
+ثمّ قفزت في القلعة المنفوخة، فتبعتها الكرات كأنّها تعرف الطريق.
+فنظرت أمّها إلى القبو الفولاذيّ الصامت، ثمّ إلى القلعة الضاحكة، وقالت:
+quote: «حيثما كان ألمٌ مضى إليه الدواء، وحيثما كان منخفضٌ جرى إليه الماء.»
+source: المثنوي، الكتاب الثاني
+explanation:
+When there is an atrial septal defect, the direction of flow across it is set mainly in diastole, when both atria empty into their ventricles.
+Blood takes the easier path, into the ventricle that fills more readily: the more compliant one.
+The thin-walled right ventricle is normally more compliant than the thick left ventricle, so the shunt is left to right; the compliance of the two ventricles is the answer.
+The size of the defect decides how much can flow, not which way, and across a large defect the two atrial pressures are almost equal.
+If the right ventricle becomes stiff, from pulmonary hypertension or pulmonary stenosis, the shunt can reverse and become right to left.
+
+== 15
+# The ASD most commonly associated with mitral insufficiency -> C: ostium primum defect.
+# the HART Hotel; trapdoor in the red lobby floor shaped like a bishop's mitre -> mitral valve (keyword: MITR-al -> mitre)
+# ANSWER: prime rib pushed through the hole at the very bottom of the wall, beside the trapdoor -> ostium primum, just above the valves (keyword: PRIM-um -> prime rib)
+# front leaf of the mitre trapdoor split, red wine spraying back up -> cleft mitral leaflet, mitral insufficiency
+# Venus at the top and the clock in the middle, unlit -> sinus venosus and secundum defects leave the mitral valve normal
+title: The ASD that goes with mitral insufficiency: ostium primum
+titleAr: الفتحة الأذينية المرافقة لقصور الصمام التاجي: الفتحة الأوّلية
+tags: cardiac/congenital d:anatomy q:recall l:1
+palette: warm Sunday light, spraying red wine, the white and gold of a mitre
+keywords: heart -> the old hotel with a stag's head (a "hart"); ostium primum -> a PRIME rib roast pushed through the lowest hole; mitral valve -> a trapdoor shaped like a bishop's MITRE; cleft leaflet -> the mitre split in two
+must: the prime rib hole is at the very bottom of the party wall, right next to the mitre-shaped trapdoor; the trapdoor's front leaf is split and red wine sprays back up through the split
+scene: Sunday lunch in the Brooklyn hotel seen cut open like a doll's house: the blue wing on the viewer's left, the red wing on the right, glass-roofed atrium lobbies upstairs, rooms with big fans downstairs, a stag's head over the door. In the floor of the RED lobby a trapdoor leads down to the kitchen; its two leaves are shaped and embroidered exactly like a bishop's tall white-and-gold mitre. At the very BOTTOM of the upstairs party wall, right beside the trapdoor, there is a hole, through which a cook pushes a silver platter with a big prime rib roast. Dominant, larger than life, brightest: the front leaf of the mitre-shaped trapdoor is split in two down its middle, and through the split a fountain of red wine sprays back up into the red lobby. A bishop in robes stands beside it, holding his own identical mitre in his hands, dismayed. Higher on the wall, small and unlit: the Venus statue at the top and the round clock in the middle.
+story:
+في ظهيرة يوم أحد أقام فندق الأيّل غداءً كبيرًا، وكان الأسقف بنديكت ضيف الشرف في البهو الأحمر.
+وكان في أرض البهو باب سحريّ ينزل إلى المطبخ، بمصراعين صُنعا على هيئة تاج الأسقف الطويل، مطرّزين بالذّهب.
+وفي أسفل الجدار الفاصل، لصق الأرض ولصق الباب، ثغرة مدّ منها الطبّاخ طبقًا فضّيًّا عليه ضلع لحم فاخر.
+ولم يكن في الجدار غير هذه الثغرة الواطئة؛ أمّا فينوس في أعلاه والساعة في وسطه فبقيتا ساكنتين في موضعيهما.
+فلمّا مدّ الطبّاخ الطبق، اصطدم بالمصراع الأماميّ من الباب، فانشقّ من وسطه نصفين.
+فصار الخدم كلّما صبّوا النبيذ الأحمر إلى المطبخ تحته، ارتدّت منه نافورة إلى البهو من ذلك الشقّ.
+فنظر الأسقف إلى تاجه في يديه، ثمّ إلى الباب المشقوق على هيئته، وقال ضاحكًا من حزنه: «انشقّ تاجي وأنا جالس!»
+فقال مدير الفندق: «لا عجب يا سيّدي؛ الثغرة الواطئة جارة الباب، ومن جاور الثغرة أصابه شقّها.»
+ثمّ رفع الأسقف كأسه، والنبيذ يتناثر حوله، وقال:
+quote: «بالمحبّة يصير المرّ حلوًا، وبالمحبّة يصير النحاس ذهبًا.»
+source: المثنوي، الكتاب الثاني
+explanation:
+The ostium primum defect lies at the very bottom of the atrial septum, directly above the atrioventricular valves; it is a partial atrioventricular septal defect.
+In this defect the anterior leaflet of the mitral valve is almost always cleft, split in two.
+Blood leaks back through the cleft into the left atrium, so the ostium primum defect is the ASD most commonly associated with mitral insufficiency: this is the answer.
+At repair the cleft is closed with sutures and the defect with a patch, keeping clear of the conduction tissue near its lower edge.
+Secundum and sinus venosus defects lie higher in the septum and leave the mitral valve normal.
+
+== 16
+# Systolic ejection murmur with incomplete bundle branch block in the precordial leads -> A: secundum ASD.
+# the HART Hotel; round clock-hole in the MIDDLE of the upstairs wall -> secundum ASD (keyword: SECUND-um -> second hand)
+# ANSWER: porter carrying a bundle of branches through the clock-hole, only the right-hand branch caught halfway -> incomplete right bundle branch block (keyword: bundle branch -> bundle of branches)
+# soft whistle of wind through the hole -> soft systolic ejection murmur (extra flow)
+# cold fireplace in the blue lobby -> the right heart receives the extra flow
+# Venus at the top and prime rib at the bottom, unlit -> the other ASD types
+title: Ejection murmur with incomplete right bundle branch block: secundum ASD
+titleAr: نفخة قذفية مع حصار غير تامّ في الحزمة: الفتحة الأذينية الثانوية
+tags: cardiac/congenital d:diagnosis q:recall l:2
+palette: snow blue outside, a cold blue lobby and a warm red lobby, the gold rim of a clock
+keywords: heart -> the old hotel with a stag's head (a "hart"); secundum -> a big round clock with a sweeping SECOND hand; bundle branch block -> a BUNDLE of dry BRANCHES with one branch caught
+must: the clock-hole is in the middle of the wall; only the right-hand branch of the bundle is caught halfway on its rim, all the others pass through
+scene: A snowy winter night in the Brooklyn hotel seen cut open like a doll's house: the blue wing on the viewer's left, the red wing on the right, glass-roofed atrium lobbies upstairs, a stag's head over the door. In the MIDDLE of the upstairs party wall is a big round clock whose glass and face are gone, leaving a round hole framed by the clock's gold rim, its long second hand still sweeping. Dominant, larger than life, brightest: an old porter carries a big bundle of dry branches from the red lobby through the clock-hole toward a cold fireplace in the blue lobby; all the branches pass, except one branch on the RIGHT side of the bundle, which is caught halfway on the clock's rim. A soft whistle of wind blows through the hole, shown as thin silver lines. Small and unlit: Venus at the top of the wall, the prime rib at the bottom.
+story:
+في ليلة ثلجيّة انطفأت مدفأة البهو الأزرق في فندق الأيّل، فارتجف النزلاء تحت سقفه الزجاجيّ.
+فحمل الحمّال العجوز أوتيس حزمةً كبيرة من الأغصان الجافّة من البهو الأحمر، يريد بها المدفأة.
+ولم يكن له إلى البهو الأزرق طريق إلّا الثغرة المستديرة في وسط الجدار، حيث كانت الساعة الكبيرة بعقرب ثوانيها.
+فدخل بالحزمة من إطار الساعة، والعقرب يدور فوق رأسه ثانيةً بعد ثانية.
+فمرّت الأغصان كلّها، إلّا غصنًا في يمين الحزمة علق نصفه بإطار الساعة، فلا هو مرّ ولا هو انقطع.
+وكانت الريح تمرّ من الثغرة مع كلّ دفعة، فتصفر في البهو الأزرق صفيرًا خفيفًا ناعمًا.
+فشدّ أوتيس الغصن العالق، وقال لابنه: «انظر يا بنيّ: صفير ناعم، وغصن عالق في اليمين؛ هكذا تُعرف الثغرة الّتي في الوسط.»
+ثمّ أوقد المدفأة، فدفئ البهو الأزرق، وظلّ الغصن العالق يتأرجح في إطار الساعة.
+فجلس أوتيس أمام النار، ونظر إلى عقرب الثواني يدور، وقال:
+quote: «خلق الحقّ مئة ألف كيمياء، فما رأى آدم كيمياءً كالصبر.»
+source: المثنوي، الكتاب الثالث
+explanation:
+A secundum ASD lies in the middle of the atrial septum, at the fossa ovalis, and is the commonest type.
+Its left-to-right shunt loads the right heart, and the extra flow across the pulmonary valve gives a soft systolic ejection murmur, often with fixed splitting of the second heart sound.
+The stretched right ventricle slows conduction in the right bundle branch, so the ECG shows an incomplete right bundle branch block (rSR' in the right precordial leads), usually with right axis deviation.
+A systolic ejection murmur with incomplete right bundle branch block is therefore most consistent with a secundum ASD: this is the answer.
+Ostium primum and complete atrioventricular canal defects also show a right bundle branch pattern, but with left axis deviation, which points away from the secundum type.
+
+== 17
+# Which ASD can also be safely closed primarily without a patch? -> A: secundum ASD.
+# the HART Hotel renovation, three holes in the upstairs wall -> the ASD types on their places
+# mason patching the Venus hole and the money pipes beside it -> sinus venosus with PAPVR needs a patch and baffle (keywords: VENUS, PULL MONEY)
+# second mason nailing a patch on the prime-rib hole by the mitre trapdoor -> ostium primum needs a patch (keywords: PRIME rib, MITRE)
+# ANSWER: old tailor sewing the middle clock-hole shut edge to edge with red thread, her patch unused -> secundum can be closed primarily (keyword: SECOND hand)
+title: The ASD that can be closed primarily without a patch: secundum
+titleAr: الفتحة الأذينية الّتي تُغلق بالخياطة المباشرة بلا رقعة: الفتحة الثانوية
+tags: cardiac/congenital d:technique q:recall l:1
+palette: daylight renovation dust, white cloth patches, one line of red thread
+keywords: heart -> the old hotel with a stag's head (a "hart"); secundum -> the round hole of a clock with a SECOND hand, in the middle; sinus venosus -> a VENUS statue at the top; ostium primum -> a PRIME rib at the bottom; mitral valve -> a mitre-shaped trapdoor
+must: the tailor closes the middle hole by stitching its edges directly together, with no patch; the top and bottom holes get cloth patches
+scene: Renovation day in the Brooklyn hotel seen cut open like a doll's house: the blue wing on the viewer's left, the red wing on the right, glass-roofed atrium lobbies upstairs, a stag's head over the door. Three holes in the upstairs party wall, each with a worker. TOP: at the hole with the Venus statue under the chimney, a mason holds up a large white cloth patch that covers both the hole and the two money pipes beside it. BOTTOM: at the hole with the prime rib, beside the mitre-shaped trapdoor, a second mason nails another white cloth patch over it. MIDDLE, dominant, larger than life and in the brightest light: at the round hole where the clock used to be, an old woman tailor sews the edges of the hole directly together with a big needle and thick red thread, pulling them shut stitch by stitch; her own cloth patch lies unused on the floor.
+story:
+في يوم ترميم فندق الأيّل، جاء ثلاثة صنّاع يسدّون ثغرات الجدار الفاصل، ومع كلّ واحد رقعة كبيرة من القماش.
+فأمّا البنّاء ليون فصعد إلى أعلى الجدار، إلى ثغرة فينوس، وفرد رقعته عليها وعلى الأنبوبين اللذين يصبّان إلى جانبها.
+وأمّا البنّاء جو فنزل إلى أسفل الجدار، إلى ثغرة ضلع اللحم عند باب الأسقف، وسمّر رقعته عليها.
+وأمّا الخيّاطة العجوز بيرل فوقفت أمام الثغرة المستديرة في وسط الجدار، حيث كانت الساعة، وتأمّلت حوافّها.
+فإذا هي حوافّ ليّنة متينة، قريب بعضها من بعض.
+فتركت رقعتها على الأرض، وأخرجت إبرةً كبيرة وخيطًا أحمر غليظًا، وخاطت الحافّة إلى الحافّة غرزةً بعد غرزة.
+فانغلقت الثغرة كأنّها لم تكن، ولم يبق منها إلّا خطّ رفيع من الغرز الحمراء.
+فقال ليون من أعلى السلّم: «يا بيرل، أين رقعتك؟» فقالت: «من كانت حافّتاه قريبتين، لم يحتج إلى غريب بينهما.»
+ثمّ قطعت الخيط بأسنانها، وقالت:
+quote: «لا تقلْ: ليس لنا إلى ذلك الملك سبيل؛ فليس على الكرماء أمر عسير.»
+source: المثنوي، الكتاب الأول
+explanation:
+Every atrial septal defect can be closed with a pericardial or prosthetic patch.
+A secundum defect lies in the middle of the septum, surrounded by septal rims, and when it is small or moderate its edges can be brought together without tension.
+So a secundum ASD can safely be closed primarily, by direct suture, without a patch: this is the answer; many are now closed with a catheter device instead.
+A sinus venosus defect needs a patch that both closes the hole and baffles the anomalous pulmonary veins into the left atrium.
+Ostium primum and complete atrioventricular canal defects lie next to the valves and the conduction tissue, so they need a patch sewn away from the conduction bundle.
+
+== 18
+# Obstruction to pulmonary venous return is associated with -> B, C, D and E: infracardiac TAPVC; pulmonary vein stenosis; cor triatriatum; supracardiac TAPVC.
+# money pipes meant to empty into the red lobby -> pulmonary veins to the left atrium (keyword: PULL MONEY)
+# ANSWER B: pipe diving under the street, crushed under the subway rails -> infracardiac TAPVC, almost always obstructed
+# ANSWER E: pipe climbing over the roof, pinched between beams -> supracardiac TAPVC, vertical vein can be obstructed
+# ANSWER C: pipes narrowed by rings of rust -> pulmonary vein stenosis
+# ANSWER D: an extra glass partition painted 3 in the red lobby, one tiny hole, bills piled behind -> cor triatriatum (keyword: TRI-atriatum -> a third atrium lobby)
+# the one pipe into the blue chimney flowing freely -> partial anomalous connection to the SVC is not obstructed
+title: Obstructed pulmonary venous return: infracardiac and supracardiac TAPVC, vein stenosis, cor triatriatum
+titleAr: انسداد العَود الوريدي الرئوي: الاتصال الشاذّ الكلّي تحت القلب وفوقه، وتضيّق الأوردة، والقلب ثلاثيّ الأذينات
+tags: cardiac/congenital d:pathology q:recall l:3
+palette: grey panic daylight, green banknotes, rust orange
+words: 3
+keywords: pulmonary veins -> pipes stuffed with green dollar bills ("PULL-MONEY"); cor triatriatum -> a THIRD atrium lobby made by an extra glass partition; heart -> the old hotel with a stag's head (a "hart"); superior vena cava -> the chimney of the blue wing
+must: the pipe under the street, the pipe over the roof, the rusty narrowed pipes and the extra glass partition all hold the money back; only the pipe into the blue wing's chimney flows freely
+scene: A gloomy day of a banking panic. The Brooklyn hotel seen cut open like a doll's house: the blue wing on the viewer's left, the red wing on the right, glass-roofed atrium lobbies upstairs, a stag's head over the door, and below the street a subway tunnel. Pipes stuffed with green dollar bills are meant to carry money into the RED lobby, where a vault stands, but they are jammed: one pipe dives DOWN under the street into the subway tunnel and is crushed flat under the rails, its bills stuck; one pipe climbs UP over the roof and loops back down, and is pinched between two roof beams; several pipes are narrowed by thick rings of rust. CENTRE, dominant, larger than life: inside the red lobby stands an extra glass partition, painted 3, dividing the lobby in two, with only one tiny hole in it; dollar bills are piled up behind it to the ceiling. Only ONE pipe flows freely: it is hooked into the chimney of the blue wing, and bills flutter out of it loosely. An old accountant and his granddaughter follow the pipes with a lantern.
+story:
+في يوم من أيّام الذعر المصرفيّ، تعطّلت أنابيب المال الّتي تحمل الدولارات إلى خزنة فندق الأيّل.
+فخرج المحاسب العجوز هيرمان يتتبّع الأنابيب واحدًا واحدًا، ومعه حفيدته زوي بفانوس.
+فوجد أنبوبًا غاص تحت الشارع إلى نفق القطار، وانضغط هناك تحت القضبان، فتكدّست فيه الأوراق لا تتحرّك.
+ووجد آخر صعد إلى ما فوق السطح ثمّ التفّ ليعود، فانحشر بين عارضتين من خشب السقف، فاختنق المال فيه.
+ووجد أنابيب أخرى ضيّقتها حلقات الصدأ، فلا يمرّ منها إلّا خيط من الورق.
+ثمّ دخل البهو الأحمر، فإذا فيه جدار زجاجيّ لم يره من قبل، يقسمه بهوين، ليس فيه إلّا ثقب صغير، والأوراق متراكمة خلفه حتّى السقف.
+فقالت زوي: «جدّي، هذا بهو ثالث! من أين جاء؟» وكان على الزجاج رقم مطليّ: ثلاثة.
+ولم يجد هيرمان أنبوبًا يجري حرًّا إلّا أنبوبًا واحدًا ضلّ إلى مدخنة الجناح الأزرق، تتطاير منه الأوراق طليقة.
+فضحك هيرمان رغم حزنه وقال: «الّذي ضلّ قليلًا جرى حرًّا، والّذين ضلّوا بعيدًا أو ضاقوا انحبسوا!»
+ثمّ جلس على درج الفندق، ونظر إلى أكداس المال المحبوس، وقال:
+quote: «بِعِ الذكاء واشترِ الحيرة؛ فالذكاء ظنّ، والحيرة نظر.»
+source: المثنوي، الكتاب الرابع
+explanation:
+Pulmonary venous return is obstructed when blood leaving the lungs meets a narrowing on its way to the heart, causing severe pulmonary venous congestion.
+In infracardiac (type III) total anomalous pulmonary venous connection, the common vein runs down through the diaphragm to the portal system and is almost always obstructed.
+In supracardiac (type I) TAPVC, the vertical vein can be obstructed, for example where it is squeezed between the left pulmonary artery and the left bronchus.
+Congenital pulmonary vein stenosis narrows the veins themselves.
+In cor triatriatum a membrane with a small opening divides the left atrium in two and obstructs the flow from the pulmonary veins.
+So B, C, D and E are the answer; partial anomalous connection of one or two veins to the superior vena cava is usually unobstructed.
+
+== 19
+# Postoperative complications of TAPVC repair -> B and D: acute pulmonary hypertensive crisis; pulmonary venous obstruction.
+# money pipes re-joined to the red bank vault with a fresh weld -> the pulmonary veins reconnected to the left atrium (keyword: PULL MONEY)
+# ANSWER B: the ticker board blazing red, bills flying, traders screaming -> acute pulmonary hypertensive crisis (keyword: Wall Street crash)
+# ANSWER D: scar ring tightening at the fresh weld, bills piling up -> pulmonary venous obstruction
+# old engineer watching the board with a hand on the weld -> the two dangers to watch
+# vault wires and dry floor untouched -> heart block and pleural effusions are not the typical complications
+title: After TAPVC repair: pulmonary hypertensive crisis and pulmonary venous obstruction
+titleAr: بعد إصلاح الاتصال الوريدي الرئوي الشاذّ الكلّي: نوبة ارتفاع الضغط الرئوي، وانسداد الأوردة الرئوية
+tags: cardiac/congenital d:complications q:recall l:2
+palette: Wall Street at night, cold steel and banknote green, a blazing red board
+keywords: pulmonary -> pipes stuffed with green dollar bills ("PULL-MONEY"); pulmonary hypertensive crisis -> a Wall Street crash on a giant ticker board; pulmonary venous obstruction -> a ring of scar tightening at the new weld
+must: the ticker board shows only red arrows and lights, no letters; the scar ring is at the fresh weld where the pipe joins the vault
+scene: Wall Street at night. CENTRE: the money pipes, stuffed with green dollar bills, have just been re-joined to the round steel door of a big red bank vault with a fresh, shining weld. ABOVE, dominant, larger than life: the giant electronic ticker board over the street suddenly blazes with red arrows plunging and soaring (no letters, only arrows and lights); the pressure in the pipes bursts, bills fly into the air, and traders scream with their hands on their heads. AT THE FRESH WELD: a thick ring of grey scar is slowly tightening around the pipe, squeezing it narrow, and bills begin to pile up before it. LEFT: an old woman engineer keeps one hand on the tightening weld while she watches the board. The vault's electric wires and its dry floor are untouched.
+story:
+بعد أشهر من الضياع، أعاد المهندسون أنابيب المال كلّها إلى خزنة حمراء واحدة في شارع وول، ولحموها في بابها لحامًا جديدًا يلمع.
+فتدفّقت الدولارات في الأنابيب إلى الخزنة، وصفّق الموظّفون، وظنّوا أنّ العسر قد انتهى.
+لكنّ كبيرة المهندسين، العجوز أوفيليا، لم تصفّق، وظلّت تراقب أمرين.
+فأمّا الأوّل فلوحة الأسعار الكبرى فوق الشارع: ففي ليلة هادئة اشتعلت فجأةً بالسّهام الحمر، وانفجر الضغط في الأنابيب، وتطايرت الأوراق، وصرخ الوسطاء.
+فأسرعت أوفيليا تهدّئ الأنابيب، وتفتح لها المنافذ، وتطفئ الذعر، حتّى خمدت اللوحة.
+وأمّا الثاني فأبطأ وأخبث: عند موضع اللحام الجديد أخذت حلقة من الندب تشتدّ يومًا بعد يوم، وتضيّق الأنبوب.
+فبدأت الأوراق تتكدّس قبلها، وقلّ ما يصل منها إلى الخزنة.
+فقال لها مساعدها الشابّ: «ألا نخاف على أسلاك الخزنة، ومن الماء في أرضها؟» فقالت: «لا يا بنيّ؛ عيني على اللوحة وعلى اللحام.»
+ثمّ وضعت يدها على اللحام الّذي يضيق، وقالت:
+quote: «طِبْ نفسًا أيّها العشق، يا طيّب الهوى، يا طبيب علّاتنا كلّها.»
+source: المثنوي، الكتاب الأول
+explanation:
+After repair of total anomalous pulmonary venous connection, the pulmonary veins drain again into the left atrium through a new anastomosis.
+The small, muscular pulmonary arteries of these infants react violently, so acute pulmonary hypertensive crises are a main early danger, treated with sedation, ventilation and nitric oxide.
+Pulmonary venous obstruction, at the anastomosis or in the veins themselves, is the main late complication, in roughly one patient in ten, and carries a poor outlook.
+So B and D are the answer.
+Complete heart block is not typical, because the repair is away from the conduction tissue, and pleural effusions are not a characteristic complication of this repair.
+
+== 20
+# Which statements about VSDs are correct? -> A, C and D (B is wrong).
+# the HART Hotel ground floor: engine rooms with ventilation fans, brick party wall -> the ventricles and the interventricular septum (keyword: VENT-ricle)
+# ANSWER A: hole high on the wall beside a drum skin, where two prongs of a trident meet -> perimembranous VSD near the anteroseptal commissure of the tricuspid (keywords: MEMBRANE -> drum skin, TRI-cuspid -> trident)
+# ANSWER D: sparking bundle of branches along the lower back edge of that hole -> the conduction bundle runs along the posteroinferior rim (keyword: bundle of branches)
+# ANSWER C: trophy marked 1 -> VSD is the most commonly recognised congenital heart defect
+# small hole lower down, brick on every side -> a muscular VSD is bordered by muscle all round: B is wrong
+title: VSD facts: perimembranous near the tricuspid commissure, the commonest defect, conduction along the posteroinferior rim
+titleAr: حقائق الفتحة بين البطينين: حول الغشائية قرب صِوار ثلاثي الشُّرف، وهي أشيع العيوب، والحزمة على حافّتها الخلفية السفلية
+tags: cardiac/congenital d:anatomy q:recall l:3
+palette: engine-room amber, red brick, electric-blue sparks, a gold trophy
+words: 1
+keywords: ventricle -> ground-floor engine rooms with huge VENTilation fans; perimembranous -> a hole beside a thin drum skin (a MEMBRANE); tricuspid valve -> a three-pronged TRIDENT; conduction bundle -> a BUNDLE of branches crackling with electric sparks; heart -> the old hotel with a stag's head (a "hart")
+must: the sparking bundle runs along the lower back edge of the upper hole, beside the drum skin; the lower hole is surrounded by brick on every side
+scene: The ground floor of the Brooklyn hotel seen cut open like a doll's house: the blue wing on the viewer's left, the red wing on the right; each ground-floor room is an engine room with a huge ventilation fan turning, and a thick brick party wall divides them. HIGH on this lower party wall, dominant, larger than life and brightest: a hole right beside a thin, taut drum skin set into the wall, and next to it a big three-pronged trident fixed to the wall, the hole lying exactly where two of its prongs meet. Along the LOWER BACK edge of this hole runs a bundle of branches crackling with electric sparks, which drives the fans; an old electrician points to it, warning his young apprentice. On the wall hangs a gold trophy cup marked 1. LOWER DOWN in the thick brick, a second, smaller hole is surrounded by brick on every side, with no drum skin and no trident near it.
+story:
+في الطابق السفليّ من فندق الأيّل، حيث تدور المراوح العظيمة في غرفتي المحرّكات، انفتحت في الجدار الفاصل ثغرة.
+كانت في أعلى الجدار، لصق جلد طبل رقيق مشدود، وإلى جانبها رمح ثلاثيّ الشُّعب، عند الموضع الّذي تلتقي فيه شعبتان منه.
+وعلى حافّتها الخلفيّة السفلى امتدّت حزمة من الأغصان تسري فيها شرارات الكهرباء، تسوق المراوح كلّها.
+فجاء الكهربائيّ العجوز إغناسيو، ووضع إصبعه على الحزمة وقال لتلميذه: «إن خِطت هذه الثغرة فخِط بعيدًا عن هنا، وإلّا أطفأت الفندق كلّه.»
+وكانت على الجدار كأس ذهبيّة عليها رقم: واحد، فهذه الثغرة أولى ثغرات الجدران في المدينة وأكثرها وقوعًا.
+وفي أسفل الجدار، في لحمه الآجرّيّ الغليظ، ثغرة أخرى صغيرة، يحيط بها الآجرّ من كلّ جانب، لا طبل عندها ولا رمح.
+فقال التلميذ: «وهذه الثانية تحدّها الأبواب من فوقها؟» فضحك إغناسيو: «بل يحدّها الآجرّ من كلّ جهة؛ ومن قال لك غير ذلك فقد أخطأ.»
+ثمّ نظر إلى الثغرتين، وإلى الحزمة الّتي تسري فيها الشرارات، وقال:
+quote: «يا أخي، أنت الفكرة وحدها، وما بقي منك عظم وألياف.»
+source: المثنوي، الكتاب الثاني
+explanation:
+Ventricular septal defects are named by where they lie in the interventricular septum.
+A perimembranous defect lies in the region of the membranous septum, close to the anteroseptal commissure of the tricuspid valve, so statement A is correct.
+The conduction bundle runs along the posteroinferior rim of a perimembranous defect, so sutures are placed away from that edge: statement D is correct.
+In its isolated form, a VSD is the most commonly recognised congenital heart defect: statement C is correct.
+Statement B is wrong: a muscular VSD is bordered by muscle on all sides; a defect bordered above by the aortic and pulmonary valve annulus is a doubly committed subarterial defect.
+So A, C and D are the answer.
