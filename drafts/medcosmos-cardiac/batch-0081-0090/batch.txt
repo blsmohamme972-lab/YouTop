@@ -1,0 +1,136 @@
+book: medcosmos-cardiac
+# MedCosmos Cardiac, questions 81-90, written to the owner's five picture rules and the audited symbols
+# (content/symbols.json). Theme: New York City. Quotations: Rumi, the Masnavi (from memory, translated).
+
+== 81
+# AV node re-entry tachycardia with dual AV node pathways is most likely with -> C, proximal ANTEGRADE block in the FAST pathway.
+# the knot on top of the sparking branches with two tracks round it, express (fast) and local (slow) -> dual AV node pathways
+# ANSWER C: a red stop signal at the top of the EXPRESS track blocking the way DOWN; the toy train goes down the local and comes back up the express, round and round -> antegrade block in the fast pathway starts the re-entry
+title: AV node re-entry starts when an early beat is blocked going down the fast pathway
+titleAr: يبدأ تسرّع القلب بعودة الدخول في العقدة الأذينية البطينية حين يُحجب النبض النازل في المسار السريع
+tags: cardiac/arrhythmia d:physiology q:recall l:3
+palette: subway tunnel light, express-train red, local-train green, electric blue sparks
+keywords: AV node re-entry tachycardia -> a toy train circling forever round a loop of two tracks, express and local, at the knot on top of the sparking branches; fast pathway -> the express track, with a red stop signal at its top blocking the way down; slow pathway -> the local track; conduction -> the bundle of branches crackling with electric sparks
+must: the red signal is at the TOP of the EXPRESS track and blocks only the way DOWN; the train goes DOWN the LOCAL track and comes back UP the EXPRESS track
+scene: Inside the party wall of the old Brooklyn hotel with a stag's head, a bundle of branches crackling with electric blue sparks runs down from the lobbies to the engine rooms; at its top is a knot. CENTRE, dominant and brightest: round the knot runs a small loop of two subway tracks, a red EXPRESS track and a green LOCAL track; a red stop signal at the top of the express track blocks the way down, so a toy train runs DOWN the local track and comes back UP the express track, round and round, faster and faster.
+
+== 82
+# A matching question: four operations for atrial fibrillation and the harms of AF each corrects: (1) the feeling of an irregular rhythm, (2) loss of AV synchrony, (3) thromboembolism.
+# The book's key: His bundle ablation 1; left atrial isolation 1 and 2; corridor 1; maze 1, 2 and 3. Asked as four questions in one lesson (asks:).
+# Pinocchio, his nose growing, trembling in the lobbies -> atrial fibrillation; four doors along a hotel corridor, each with gold stars for the harms it cures
+# His bundle ablation: a blowtorch burns the knot and a drummer keeps time in the engine room, ONE gold star -> only the irregular feeling
+# Corridor procedure: a narrow corridor from the orchestra conductor to the knot, Pinocchio still trembling on both sides, ONE gold star -> only the irregular feeling
+# Left atrial isolation: a glass wall around the red lobby with Pinocchio shut inside, the conductor leading the blue lobby and the engine rooms together, TWO gold stars -> rhythm and AV synchrony
+# ANSWER-rich: Maze: a green hedge maze across both lobbies leading the beat from the conductor to the knot, Pinocchio gone, the bowling balls back in their rack, THREE gold stars -> all three harms
+title: Four operations for atrial fibrillation: His ablation and the corridor fix the rhythm only, left atrial isolation adds AV synchrony, the maze fixes all three
+titleAr: أربع عمليات للرجفان الأذيني: قطع حزمة هيس والممرّ يصلحان الإحساس بالنظم فقط، وعزل الأذين الأيسر يضيف التزامن، والمتاهة تصلح الثلاثة
+tags: cardiac/arrhythmia d:technique q:recall l:3
+palette: a long warm hotel corridor, gold stars, hedge green, blowtorch blue flame, black bowling balls
+asks:
+Which harms of atrial fibrillation does His bundle ablation (with a pacemaker) correct? | The patient's sensation of an irregular heart rhythm. | Haemodynamic compromise from loss of AV synchrony. | Increased vulnerability to thromboembolism. = A
+Which harms of atrial fibrillation does the left atrial isolation procedure correct? | The patient's sensation of an irregular heart rhythm. | Haemodynamic compromise from loss of AV synchrony. | Increased vulnerability to thromboembolism. = A,B
+Which harms of atrial fibrillation does the corridor procedure correct? | The patient's sensation of an irregular heart rhythm. | Haemodynamic compromise from loss of AV synchrony. | Increased vulnerability to thromboembolism. = A
+Which harms of atrial fibrillation does the maze procedure correct? | The patient's sensation of an irregular heart rhythm. | Haemodynamic compromise from loss of AV synchrony. | Increased vulnerability to thromboembolism. = A,B,C
+note: The book prints this as a matching question with the key "A-1. B-1,2. C-1. D-1,2,3"; it is asked here as four questions, one for each operation, with the same three harms as options and the book's key.
+keywords: atrial fibrillation -> Pinocchio, his long nose growing, trembling all over in the upper glass lobby; His bundle ablation -> a blowtorch burning the knot at the top of the sparking branches black; pacemaker -> a marching drummer keeping a steady beat in the engine room; corridor procedure -> a narrow corridor from the orchestra conductor straight to the knot; left atrial isolation -> a glass wall shutting Pinocchio inside the red atrium lobby; maze procedure -> a green hedge maze grown across both upper lobbies, leading the beat from the top to the knot; thromboembolism -> black bowling balls back in their rack
+must: the doors carry ONE, ONE, TWO and THREE gold stars; in the hedge-maze room Pinocchio is gone and the bowling balls sit in their rack
+scene: A long, warmly lit corridor inside the old Brooklyn hotel with a stag's head, with four open doors side by side, each with gold stars nailed above it. FIRST door, ONE gold star: a worker burns the knot at the top of a sparking bundle of branches black with a blowtorch, and a marching drummer keeps a steady beat in the engine room below. SECOND door, ONE gold star: a narrow corridor runs straight from an orchestra conductor down to the knot, while Pinocchio, his nose growing, still trembles on both sides of it. THIRD door, TWO gold stars: a glass wall shuts the trembling Pinocchio inside the red lobby, while the conductor leads the blue lobby and the engine rooms in step. FOURTH door, CENTRE of attention, dominant and brightest, THREE gold stars: a green hedge maze grown across both lobbies leads the beat from the conductor to the knot, Pinocchio is gone, and the black bowling balls sit safely back in their rack.
+
+== 83
+# Nonischaemic ventricular tachyarrhythmias: all true EXCEPT -> D: they usually arise from automaticity rather than re-entry (they are usually re-entrant).
+# True: usually in the right ventricle, with a left bundle branch block pattern, and more refractory to drugs than ischaemic ones.
+# ANSWER (the false statement): a toy train circling round and round a loop in the BLUE engine room (re-entry, not a lone drummer starting beats by himself) -> nonischaemic VT is re-entrant
+# the left branch of the sparking bundle tied off with a ribbon; pill bottles bouncing off the train -> left bundle branch block pattern; refractory to drugs
+title: Nonischaemic ventricular tachycardia comes from re-entry, not automaticity, usually in the right ventricle
+titleAr: تسرّع القلب البطيني غير الإقفاري ينشأ عن عودة الدخول لا عن التلقائية، وغالبًا في البطين الأيمن
+tags: cardiac/arrhythmia d:physiology q:recall l:3 x:trap
+palette: blue engine room, green toy train, electric sparks, white pill bottles
+keywords: re-entry -> a toy train circling forever round a loop of two tracks in the blue engine room; ventricle -> the blue engine room with its huge ventilation fan; left bundle branch block -> the left one of the sparking branches tied off with a red ribbon; medical therapy -> white pill bottles bouncing off the circling train
+must: the circling train is in the BLUE engine room; the LEFT branch is tied off; the pill bottles BOUNCE OFF
+scene: The blue engine room of the old Brooklyn hotel with a stag's head, seen cut open, its huge ventilation fan whirring too fast. CENTRE, dominant and brightest: a toy train circles round and round a small loop of two tracks laid on the engine room floor. Down the party wall runs a bundle of branches crackling with sparks; its LEFT branch is tied off with a red ribbon. White pill bottles thrown at the train bounce off it.
+
+== 84
+# Left atrial myxoma -> A (by site and histology the most common primary cardiac tumour), C (its symptoms can mimic collagen vascular disease), D (it grows into the cavity).
+# B (best diagnosed by catheterization; echocardiography is) and E (multicentric origin; it arises from one stalk at the fossa ovalis) are false.
+# a wobbling ball of green jelly on a stalk hanging from the clock on the party wall into the red lobby -> left atrial myxoma, intracavitary, from the fossa ovalis
+# ANSWER A: a big blue first-prize rosette pinned to the jelly -> the most common primary cardiac tumour
+# ANSWER C: a guest with swollen knuckles, a fever thermometer and a rash, looking rheumatic -> mimics collagen vascular disease
+# a bat with rings of sound finding the jelly -> echocardiography makes the diagnosis
+title: Left atrial myxoma: the most common primary cardiac tumour, growing into the cavity, and able to mimic collagen vascular disease
+titleAr: الورم المخاطي في الأذين الأيسر: أشيع أورام القلب الأولية، ينمو داخل التجويف، وقد يشبه أمراض النسيج الضامّ
+tags: cardiac/other d:pathology q:recall l:1 x:high-yield
+palette: red lobby light, translucent lime-green jelly, a blue rosette, pale feverish skin
+keywords: myxoma -> a wobbling ball of green jelly on a stalk, hanging from the clock on the party wall into the red lobby; most common -> a big blue first-prize rosette pinned to the jelly; collagen vascular disease -> a guest with swollen knuckles, a fever thermometer and a rash; echocardiography -> a bat sending out rings of sound and seeing the jelly by their echoes
+must: the jelly hangs on ONE stalk from the clock on the party wall and swings INSIDE the red lobby; the rosette is pinned to it; the bat finds it
+scene: The red upper lobby of the old Brooklyn hotel with a stag's head, seen cut open. CENTRE, dominant and brightest: from the round clock on the party wall hangs, on a single stalk, a wobbling ball of translucent green jelly that swings into the middle of the red lobby, a big blue first-prize rosette pinned to it. A bat flying overhead sends out rings of sound towards it. RIGHT: a hotel guest sits with swollen knuckles, a fever thermometer in his mouth and a rash on his arms.
+
+== 85
+# Malignant cardiac tumours -> A (sarcomas are the most frequent primary malignancy) and B (metastatic tumours are usually asymptomatic).
+# C (adjuvant chemotherapy and irradiation prolong survival), D (atrial extension of a renal tumour forbids resection) and E (constrictive physiology is an indication for operation) are false.
+# ANSWER A: a big red crab wearing a Russian czar's crown on a throne in the hotel lobby -> SARcoma, the commonest primary malignancy
+# ANSWER B: many small red crabs hiding quietly in the walls, guests walking by unaware -> metastases are usually silent
+title: Malignant cardiac tumours: sarcomas are the commonest primary malignancy, and metastases are usually silent
+titleAr: أورام القلب الخبيثة: الساركومات أشيع الأورام الخبيثة الأولية، والنقائل غالبًا صامتة
+tags: cardiac/other d:pathology q:recall l:2
+palette: dim lobby light, crab red, czar gold, calm guests in grey
+keywords: sarcoma -> a big red crab wearing a Russian czar's crown on a throne; metastatic tumors -> many small red crabs hiding quietly in the walls while guests walk by unaware
+must: the czar crab is the BIGGEST and sits on the throne; the small crabs hide in the walls and NOBODY notices them
+scene: The lobby of the old Brooklyn hotel with a stag's head, in dim light. CENTRE, dominant and brightest: a big red crab wearing a Russian czar's golden crown sits on a throne. In the walls all around, many small red crabs hide quietly in cracks, while hotel guests in grey coats walk past, chatting, unaware of them.
+
+== 86
+# Disadvantages of transcutaneous (skin electrode) pacing: all EXCEPT -> C, ventricular fibrillation.
+# Skin burns, painful chest muscle contractions and failure to capture ARE disadvantages.
+# a drummer beating on a man's bare chest: red burn marks, chest muscles jerking, one stroke that fails to sound -> burns, pain, failure to pace
+# ANSWER (the exception): the red engine room's fan turning steadily and NO trembling Pinocchio in it -> it does not cause ventricular fibrillation
+title: Skin-electrode pacing burns, hurts and may fail to capture, but it does not cause ventricular fibrillation
+titleAr: التنظيم عبر الجلد يحرق ويؤلم وقد يفشل في الالتقاط، لكنّه لا يسبّب الرجفان البطيني
+tags: cardiac/arrhythmia d:complications q:recall l:2 x:trap
+palette: harsh ambulance light, skin tones with red burn marks, a steady red room
+keywords: transcutaneous pacing -> a marching drummer beating his drum straight on a man's bare chest; skin burns -> red burn marks where the drumsticks strike; ventricle -> the red engine room's fan turning steadily, with no trembling Pinocchio anywhere
+must: the drumsticks leave red burn marks and the chest muscles jerk; the red engine room behind is CALM, with no Pinocchio
+scene: The back of an ambulance parked on a Manhattan street, in harsh light. CENTRE, dominant and brightest: a marching drummer beats his drum straight on the bare chest of a man lying on a stretcher; red burn marks glow where the sticks strike, and the man's chest muscles jerk painfully with each beat; one stroke makes no sound at all. BEHIND, through the cut-open wall of the old hotel with a stag's head: the red engine room's fan turns steadily, calm, with no trembling Pinocchio anywhere.
+
+== 87
+# The most common cause of acquired complete heart block in adults -> B, sclerodegenerative disease (fibrosis of the conduction system with age).
+# the drawbridge between the upper lobby and the engine room stuck raised, its chains and the knot of the sparking branches turned to grey stone with age -> sclerodegenerative complete heart block
+title: In adults, acquired complete heart block is most often sclerodegenerative
+titleAr: أشيع أسباب الإحصار القلبي التام المكتسب عند البالغين هو التليّف التنكّسي
+tags: cardiac/arrhythmia d:pathology q:recall l:2
+palette: grey old stone, rust, dim old-hotel light, a few dying sparks
+keywords: complete heart block -> a raised drawbridge between the upper lobby and the engine room, so no signal can cross; sclerodegenerative disease -> the drawbridge's chains and the knot of the branches turned to grey stone with age; conduction -> the bundle of branches with only a few dying sparks
+must: the drawbridge is stuck RAISED; its chains and the knot are turned to GREY STONE, cracked with age; nothing else is wrong with the hotel
+scene: The old Brooklyn hotel with a stag's head over its door, seen cut open like a doll's house, very old, dim light. CENTRE, dominant and brightest: between the upper lobbies and the engine rooms, a drawbridge stuck in its raised position, so the sparks coming down the bundle of branches cannot cross; its chains and the knot at the top of the branches have turned to grey, cracked stone with age. Everything else in the hotel is in order; an old caretaker taps the stone chains with his cane.
+
+== 88
+# The most common indication for permanent pacing -> D, sick sinus syndrome.
+# the orchestra conductor at the top of the blue lobby sick in bed with a thermometer, his baton dropped; a drummer taking over -> sick sinus syndrome is the commonest reason for a pacemaker
+title: Sick sinus syndrome is the most common indication for permanent pacing
+titleAr: متلازمة العقدة الجيبية المريضة هي أشيع أسباب زرع منظّم دائم
+tags: cardiac/arrhythmia d:indications q:recall l:1 x:high-yield
+palette: soft morning in the blue lobby, white bed linen, a red drum
+keywords: sick sinus syndrome -> the orchestra conductor at the top of the blue lobby beside the chimney, sick in bed with a thermometer, his baton dropped; pacemaker -> a marching drummer keeping a steady beat in his place
+must: the conductor is SICK in bed at the top of the blue lobby; the drummer beats in his place
+scene: The blue upper lobby of the old Brooklyn hotel with a stag's head, seen cut open, beside the brick chimney. CENTRE, dominant and brightest: the hotel's orchestra conductor lies sick in a small bed at the top of the lobby, a thermometer in his mouth, his baton dropped on the floor. Beside the bed a marching drummer in a red uniform keeps a steady beat in his place, and the musicians below follow the drum.
+
+== 89
+# Decreasing the pacemaker electrode tip size -> A, lower pacing thresholds.
+# two drummers: one with a needle-thin drumstick tip barely tapping and the drum booming, one with a fat club swinging hard and the drum barely sounding -> a smaller tip concentrates the current: lower threshold
+title: A smaller pacing electrode tip gives a lower pacing threshold
+titleAr: رأس قطب التنظيم الأصغر يعطي عتبة تنظيم أدنى
+tags: cardiac/arrhythmia d:technique q:recall l:3
+palette: stage spotlight, two red drums, a needle-thin silver tip, a heavy wooden club
+keywords: pacemaker -> two marching drummers keeping a steady beat; small electrode tip -> a needle-thin silver drumstick tip barely tapping the drum, which booms; large electrode tip -> a fat wooden club swung hard against a drum that barely sounds
+must: the THIN tip barely touches and the drum BOOMS; the FAT club swings hard and the drum barely sounds
+scene: A small stage in a Harlem jazz club, under a spotlight. CENTRE, dominant and brightest: a drummer touches his drum ever so lightly with a needle-thin silver drumstick tip, and the drum booms out, sound rings spreading. RIGHT, in shadow: a second drummer swings a fat wooden club with all his strength, and his drum barely makes a sound.
+
+== 90
+# Lead resistance measured at 5 volts at implantation -> C, 300 to 800 ohms.
+# a yogi sitting cross-legged on the lead wire between the drummer's battery and the engine room, chanting OM, a sign 300-800 -> lead resistance 300-800 ohms
+title: Pacing lead resistance at 5 volts should be 300 to 800 ohms
+titleAr: يجب أن تكون مقاومة سلك التنظيم عند 5 فولت بين 300 و800 أوم
+tags: cardiac/arrhythmia d:technique q:numbers l:3
+palette: calm saffron, copper wire, a red drum, a blue engine room
+words: 300-800, 5V
+keywords: lead resistance in ohms -> a yogi sitting cross-legged on the lead wire chanting OM; pacemaker -> a marching drummer whose drum is wired to a battery marked 5V; ventricle -> the engine room with its ventilation fan at the end of the wire
+must: the yogi sits ON the copper lead wire between the battery and the engine room; the sign reads 300-800; the battery reads 5V
+scene: A copper wire runs from a drummer's battery, marked 5V, into the engine room of the old Brooklyn hotel with a stag's head, where a ventilation fan turns. CENTRE, dominant and brightest: halfway along the wire sits a calm yogi in saffron robes, cross-legged, eyes closed, chanting OM, with a wooden sign beside him reading 300-800.

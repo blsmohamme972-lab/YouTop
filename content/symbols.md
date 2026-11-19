@@ -116,7 +116,7 @@ a batch that draws a listed concept any other way is refused by `batch.py`.
 | warfarin, oral anticoagulation | a rat in a soldier's helmet | WAR-farin = war; it began as a rat poison | 10/10 | medcosmos-cardiac |
 | opening snap of mitral stenosis | a black umbrella snapping open | the stiff valve snaps open just after the second sound | 10/10 | medcosmos-cardiac |
 | Wolff-Parkinson-White syndrome, accessory pathway | a grey wolf digging a shortcut tunnel straight from an upper lobby down to an engine room, past the sparking bundle of branches | WOLFF = a wolf; the accessory pathway is his shortcut | 10/10 | medcosmos-cardiac |
-| re-entry circuit (AV node re-entry and other re-entrant tachycardias) | a toy subway train circling forever round a loop of two tracks, express and local | the impulse goes round and round a loop of two pathways | 10/10 | medcosmos-cardiac |
+| re-entry circuit (AV node re-entry and other re-entrant tachycardias) | a toy train (a little subway train) circling forever round a loop of two tracks, express and local | the impulse goes round and round a loop of two pathways | 10/10 | medcosmos-cardiac |
 | maze procedure (Cox) | a green hedge maze grown across both upper lobbies, leading the beat from the top to the knot | the operation is named after the maze it makes | 10/10 | medcosmos-cardiac |
 | ablation (surgical or catheter) | a blowtorch burning a spot black | tissue is burnt to stop it conducting | 9/10 | medcosmos-cardiac |
 | myxoma | a wobbling ball of green jelly on a stalk, hanging from the clock on the party wall into the lobby | MYXO = mucus, slime: a jelly on a stalk from the fossa ovalis (the clock) | 10/10 | medcosmos-cardiac |
