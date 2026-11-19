@@ -133,6 +133,11 @@ a batch that draws a listed concept any other way is refused by `batch.py`.
 | heparin | a fast brown hare | HEpARin ~ hare: quick on, quick off | 9/10 | medcosmos-cardiac |
 | aspirin | a small asp snake coiled round a white tablet | ASPirin = an asp | 10/10 | medcosmos-cardiac |
 | pacemaker sensing | a brass ear trumpet held up to listen | the pacemaker listens before it beats | 9/10 | medcosmos-cardiac |
+| cardiopulmonary bypass, the heart-lung machine | a big roller-pump truck parked beside the hotel, its hoses plugged into the chimney and the orca | the roller pump of the heart-lung machine takes over the circulation | 9/10 | medcosmos-cardiac |
+| intra-aortic balloon pump (counterpulsation) | a long sausage-shaped balloon inside the orca's belly, swelling when the fans rest and shrinking just before they push | a long balloon in the aorta that inflates in diastole and deflates before systole | 10/10 | medcosmos-cardiac |
+| total artificial heart | a tin man with a clockwork heart | the man of tin who was given a heart | 10/10 | medcosmos-cardiac |
+| univentricular heart, single ventricle | one single big engine room with no party wall, both lobby doors opening into it | one ventricle receiving both inlets | 9/10 | medcosmos-cardiac |
+| bicuspid aortic valve | a bicycle wedged in the orca's mouth, its two wheels for the two lips | BI-cuspid = BI-cycle, two | 10/10 | medcosmos-cardiac |
 
 ## Rejected (never use them)
 

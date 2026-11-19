@@ -458,8 +458,8 @@
    "terms": [
     "ischaemic heart disease",
     "ischemic heart disease",
-    "ischaemia",
-    "ischemia"
+    "myocardial ischaemia",
+    "myocardial ischemia"
    ],
    "symbol": "the Liberty crown with its spikes clogged by black tar",
    "anchors": [
@@ -3460,6 +3460,157 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "cpb",
+   "concept": "cardiopulmonary bypass, the heart-lung machine",
+   "terms": [
+    "cardiopulmonary bypass",
+    "cpb",
+    "heart-lung machine",
+    "extracorporeal circulation",
+    "bypass machine"
+   ],
+   "symbol": "a big roller-pump truck parked beside the hotel, its hoses plugged into the chimney and the orca",
+   "anchors": [
+    "roller-pump",
+    "roller pump"
+   ],
+   "kind": "literal",
+   "why": "the roller pump of the heart-lung machine takes over the circulation",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "iabp",
+   "concept": "intra-aortic balloon pump (counterpulsation)",
+   "terms": [
+    "intra-aortic balloon",
+    "intra-aortic balloon pump",
+    "intra-aortic balloon pumping",
+    "intra-aortic balloon counterpulsation",
+    "iabp",
+    "balloon pump",
+    "counterpulsation"
+   ],
+   "symbol": "a long sausage-shaped balloon inside the orca's belly, swelling when the fans rest and shrinking just before they push",
+   "anchors": [
+    "sausage"
+   ],
+   "kind": "literal",
+   "why": "a long balloon in the aorta that inflates in diastole and deflates before systole",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "tah",
+   "concept": "total artificial heart",
+   "terms": [
+    "artificial heart",
+    "artificial hearts",
+    "total artificial heart",
+    "pneumatic artificial heart",
+    "permanent artificial heart",
+    "permanent artificial hearts",
+    "tah"
+   ],
+   "symbol": "a tin man with a clockwork heart",
+   "anchors": [
+    "tin man"
+   ],
+   "kind": "literal",
+   "why": "the man of tin who was given a heart",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "single-ventricle",
+   "concept": "univentricular heart, single ventricle",
+   "terms": [
+    "univentricular heart",
+    "single ventricle",
+    "uvh",
+    "double-inlet left ventricle",
+    "double-inlet right ventricle",
+    "double-inlet ventricle",
+    "univentricular"
+   ],
+   "symbol": "one single big engine room with no party wall, both lobby doors opening into it",
+   "anchors": [
+    "one engine room",
+    "single engine room"
+   ],
+   "kind": "literal",
+   "why": "one ventricle receiving both inlets",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "bicuspid",
+   "concept": "bicuspid aortic valve",
+   "terms": [
+    "bicuspid aortic valve",
+    "bicuspid valve",
+    "bicuspid"
+   ],
+   "symbol": "a bicycle wedged in the orca's mouth, its two wheels for the two lips",
+   "anchors": [
+    "bicycle"
+   ],
+   "kind": "sound-alike",
+   "why": "BI-cuspid = BI-cycle, two",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
    "audited": "2026-11-19"
   }
  ]

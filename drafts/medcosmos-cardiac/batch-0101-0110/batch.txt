@@ -1,0 +1,128 @@
+book: medcosmos-cardiac
+# MedCosmos Cardiac, questions 101-110, written to the owner's five picture rules and the audited symbols
+# (content/symbols.json). Theme: New York City. Quotations: Rumi, the Masnavi (from memory, translated).
+
+== 101
+# The humoral amplification system activated by cardiopulmonary bypass -> E: the coagulation cascade, the fibrinolytic cascade and complement (A, B and C).
+# the roller-pump truck plugged into the hotel, and three waterfalls starting at once beside it: one turning to red jelly, one dissolving a net of threads, one full of a waiter throwing bouquets of compliments -> coagulation, fibrinolysis, complement all at once
+title: Cardiopulmonary bypass sets off three cascades at once: coagulation, fibrinolysis and complement
+titleAr: المجازة القلبية الرئوية تطلق ثلاث سلاسل معًا: التخثّر وحلّ الفبرين والمتمّمة
+tags: cardiac/cpb d:physiology q:recall l:2
+palette: grey morning, steel truck, three waterfalls: blood red, silver, rose pink
+keywords: cardiopulmonary bypass -> a big roller-pump truck parked beside the hotel, its hoses plugged into the chimney and the orca; coagulation cascade -> a waterfall turning into thick red jelly; fibrinolytic cascade -> a waterfall dissolving a net of threads; complement activation -> a waterfall full of a waiter throwing bouquets of compliments
+must: ALL THREE waterfalls start at the same moment the pump starts; each looks clearly different
+scene: The old Brooklyn hotel with a stag's head over its door on a grey morning; beside it a big roller-pump truck is parked, its hoses plugged into the hotel's chimney and into a giant orca parade balloon, its rollers starting to turn. CENTRE, dominant and brightest: three waterfalls burst out of the hotel wall side by side at the same moment: the first turns into thick red jelly as it falls, the second dissolves a net of threads hanging across it, and in the third a waiter in a white jacket throws bouquets of roses (compliments) down with the water.
+
+== 102
+# Adequate flow during cardiopulmonary bypass is best shown by -> C, a mixed venous haemoglobin saturation of 78%.
+# the roller-pump truck running; on the blue chimney where the used water comes back, a gauge reading 78%, and an ox in an oxygen mask nodding beside it; the other dials ignored -> mixed venous saturation tells whether the flow is enough
+title: The best sign of adequate bypass flow is a mixed venous saturation around 78%
+titleAr: أفضل دليل على كفاية الجريان أثناء المجازة إشباع الدم الوريدي المختلط نحو 78%
+tags: cardiac/cpb d:physiology q:numbers l:2
+palette: morning light, steel truck, red brick chimney, a glowing green gauge
+words: 78%
+keywords: cardiopulmonary bypass -> a big roller-pump truck parked beside the hotel, its hoses plugged into the chimney and the orca; mixed venous oxygen saturation -> a gauge reading 78% on the blue chimney where the used water comes back, with a huge ox in an oxygen mask nodding beside it
+must: the 78% gauge is on the chimney where the water RETURNS; the ox nods at it; the other dials are covered with cloths
+scene: The old Brooklyn hotel with a stag's head, a big roller-pump truck parked beside it, its hoses plugged into the brick chimney of the blue wing and into a giant orca parade balloon. CENTRE, dominant and brightest: on the chimney, where the used water comes back to the truck, a big round gauge glowing green reads 78%, and a huge ox wearing a clear oxygen mask nods at it with satisfaction. The truck's other dials are covered with cloths.
+
+== 103
+# What does NOT typically happen in the first few minutes of bypass -> A, an increase in interstitial fluid.
+# In the first minutes the flow becomes nonpulsatile, platelets fall, complement is activated and systemic vascular resistance falls.
+# a stopwatch at 3 minutes; around the pump: the pulse line flattening into a smooth stream, little white plates being stuck to the hoses, the compliment waiter, the city gates swinging open; CENTRE: a sponge in the hotel wall still DRY -> interstitial fluid has not yet increased
+title: In the first minutes of bypass the flow turns nonpulsatile, platelets and resistance fall and complement is activated; interstitial fluid rises later
+titleAr: في الدقائق الأولى من المجازة يصير الجريان غير نابض، وتنخفض الصفائح والمقاومة، وتتنشّط المتمّمة؛ أمّا السائل الخلالي فيزيد لاحقًا
+tags: cardiac/cpb d:physiology q:recall l:3 x:trap
+palette: clinical white, steel truck, a dry yellow sponge, a ticking stopwatch
+words: 3 min
+keywords: cardiopulmonary bypass -> a big roller-pump truck parked beside the hotel, its hoses plugged into the chimney and the orca; interstitial fluid -> a yellow sponge set in the hotel's wall, still bone DRY; nonpulsatile flow -> a pulse line on a screen flattening into a smooth stream; platelets -> little white plates sticking to the inside of the hoses; complement activation -> a waiter throwing bouquets of compliments; systemic vascular resistance falls -> the city's gates swinging open by themselves
+must: the stopwatch shows 3 min; the sponge in the wall is completely DRY; everything else is already happening
+scene: Beside the old Brooklyn hotel with a stag's head, a big roller-pump truck has just started, its hoses plugged into the chimney and a giant orca parade balloon; a stopwatch on its dashboard reads 3 min. Around it: a screen where a pulse line flattens into a smooth stream, little white plates sticking to the inside of the clear hoses, a waiter throwing bouquets of compliments, and the city's gates swinging open by themselves. CENTRE, dominant and brightest: a big yellow sponge set into the hotel's wall, still completely bone dry, with an inspector pressing it and finding no water.
+
+== 104
+# Benefits of intra-aortic balloon counterpulsation to the ischaemic ventricle -> B (afterload reduction), C (more coronary blood flow), D (lower ventricular end-diastolic pressure).
+# A (preload reduction) is not one of them as such.
+# a long sausage balloon inside the orca's belly: it SWELLS while the fan rests, pushing water back up into the Liberty crown; it SHRINKS just before the fan pushes, so the fan pushes into an empty orca; the water in the red engine room sinks lower -> more coronary flow, less afterload, lower end-diastolic pressure
+title: Intra-aortic balloon counterpulsation: less afterload, more coronary flow, lower end-diastolic pressure
+titleAr: المضخّة البالونية داخل الأبهر: حِمل لاحق أقلّ، وجريان تاجيّ أكثر، وضغط انبساطي أدنى
+tags: cardiac/heart-failure d:physiology q:recall l:2 x:high-yield
+palette: night, black-and-white orca, a glowing pink sausage balloon, green copper crown, silver water
+keywords: intra-aortic balloon pump -> a long sausage-shaped balloon inside the orca's belly, swelling when the fans rest and shrinking just before they push; coronary -> the Statue of Liberty's green crown, filling with water pushed back up; afterload reduction -> the red engine room's fan pushing easily into the emptied orca; ventricular end-diastolic pressure -> the water level in the red engine room with its ventilation fan sinking lower
+must: the balloon SWELLS while the fan rests and the water rushes UP into the crown; the water level in the red engine room is LOWER than its old mark
+scene: The old Brooklyn hotel with a stag's head, at night. A giant orca parade balloon rises out of the red engine room, and inside its see-through belly lies a long, glowing pink sausage-shaped balloon. CENTRE, dominant and brightest: the sausage balloon swells while the fan below rests, pushing water back up into the Statue of Liberty's green crown, which fills and glows; a small inset shows it shrinking just before the fan pushes, so the fan pushes easily. In the red engine room the water level has sunk well below an old high-water mark.
+
+== 105
+# Major indications for an intra-aortic balloon pump -> A (medically refractory angina), B (acute papillary muscle rupture), D (ventricular failure after cardiac surgery), E (failed PTCA).
+# C (a left main lesion by itself) is not, in the book.
+# the sausage balloon being slipped into the orca, and four people waiting for it: a man whose stone angel will not lift despite a pile of pill bottles; a broken harp post with the mitre flapping; a ship with its stern freshly closed whose red engine room fan is failing; a man with a snapped Slinky in his crown -> the four indications
+title: Indications for an intra-aortic balloon pump: refractory angina, papillary muscle rupture, failure after cardiac surgery, failed PTCA
+titleAr: دواعي المضخّة البالونية داخل الأبهر: ذبحة معنّدة، تمزّق العضلة الحليمية، فشل البطين بعد جراحة القلب، فشل التوسيع بالبالون
+tags: cardiac/heart-failure d:indications q:recall l:2
+palette: evening hospital corridor, glowing pink balloon, grey stone angel, golden harp, steel springs
+keywords: intra-aortic balloon pump -> a long sausage-shaped balloon being slipped into the orca's belly; angina -> a heavy stone angel sitting on a man's chest that will not lift despite a pile of pill bottles; papillary muscle rupture -> the post holding the golden harp strings snapped, the bishop's mitre flapping loose; ventricular failure after cardiac surgery -> a ship's stern freshly closed while the red engine room fan below sputters; failed PTCA -> a coiled metal Slinky spring snapped inside a spike of a foam Liberty crown
+must: the angel stays DESPITE the pills; the harp post is SNAPPED; the fan sputters right after the stern was closed; the Slinky is snapped
+scene: A hospital corridor at evening beside the old Brooklyn hotel with a stag's head. CENTRE, dominant and brightest: a nurse slips a long glowing pink sausage-shaped balloon into the belly of a giant orca parade balloon. Waiting along the wall: a man with a heavy stone angel sitting on his chest beside a pile of pill bottles that did not move it; a hotel red lobby where the post holding the golden harp strings has snapped and the bishop's mitre flaps loose; a ship whose white stern has just been closed while the red engine room fan below it sputters; and a man in a green foam Liberty crown with a snapped Slinky spring stuck in one spike.
+
+== 106
+# The most frequent complication of intra-aortic balloon counterpulsation -> B, limb ischaemia.
+# the sausage balloon's tube entering through the groin, the leg below it pale, cold and blue with frost -> limb ischaemia
+title: The most frequent complication of the intra-aortic balloon pump is limb ischaemia
+titleAr: أشيع مضاعفات المضخّة البالونية داخل الأبهر نقص التروية في الطرف
+tags: cardiac/heart-failure d:complications q:recall l:1 x:high-yield
+palette: cold blue light, frost white, a glowing pink tube
+keywords: intra-aortic balloon pump -> a long sausage-shaped balloon fed through a tube from the groin up into the orca; limb ischaemia -> the leg below the tube pale, cold and blue, covered in frost
+must: the tube enters at the GROIN; only THAT leg is frosted and blue, the other is warm and pink
+scene: A patient lies on a bed in a cool hospital room in Manhattan. A glowing pink tube enters his right groin and runs up towards a giant orca parade balloon in which a long sausage-shaped balloon swells. CENTRE, dominant and brightest: his right leg, below the tube, is pale, cold and blue, covered in white frost, with icicles at the toes; his left leg is warm and pink.
+
+== 107
+# Wireless transfer of electrical energy to an implanted artificial heart works by -> B, inductive coupling.
+# a tin man with a clockwork heart; a glowing copper coil on a pad outside his tin chest, a matching coil inside, and the energy jumping between them through the tin as rings of light -> inductive coupling
+title: Implanted artificial hearts receive power through the skin by inductive coupling
+titleAr: القلوب الصناعية المزروعة تتلقّى الطاقة عبر الجلد بالاقتران الحثّي
+tags: cardiac/heart-failure d:technique q:recall l:3
+palette: workshop light, bright tin, glowing copper coils, rings of blue light
+keywords: total artificial heart -> a tin man with a clockwork heart; inductive coupling -> two glowing copper coils facing each other through the tin wall of his chest, energy jumping between them as rings of light
+must: one coil OUTSIDE the chest, one INSIDE, NO wire between them; rings of light cross the tin
+scene: A clockmaker's workshop in the West Village. CENTRE, dominant and brightest: a tin man with a clockwork heart sits on a stool; on the outside of his tin chest a glowing copper coil is pressed on a pad, and right behind the tin a matching coil glows inside him; rings of blue light jump between the two coils through the metal, with no wire between them, and the clockwork heart ticks.
+
+== 108
+# The pneumatic artificial heart -> A (can support the circulation for over a year), B (can be complicated by infection or thromboembolism), E (is implanted much like a heart transplant).
+# C (will become the ideal permanent substitute) and D (is the ideal bridge to transplantation) are false.
+# the tin man with air hoses through his chest wall to a big air-compressor cart; a calendar with more than 12 pages torn off; playing cards sprouting broccoli where the hoses enter; bowling balls rolling out; surgeons fitting the tin heart into the hotel's frame the way they would a new heart -> over a year, infection and embolism, transplant technique
+title: The pneumatic artificial heart: support for over a year, infection and embolism, and an implant much like a transplant
+titleAr: القلب الصناعي الهوائي: دعم لأكثر من عام، والعدوى والصمّات، وزرع يشبه زرع القلب
+tags: cardiac/heart-failure d:complications q:recall l:3
+palette: hospital light, bright tin, grey air hoses, broccoli green, black bowling balls
+keywords: total artificial heart -> a tin man with a clockwork heart; pneumatic -> thick air hoses from his chest wall to a big air-compressor cart; infection -> playing cards sprouting broccoli and moss where the hoses enter the skin; thromboembolism -> black bowling balls rolling out of his chest; heart transplant technique -> surgeons fitting the tin heart into place by the same marks used for a new heart
+must: the hoses go THROUGH the chest wall to the compressor; the calendar has more than 12 pages torn off; the cards with broccoli sit exactly where the hoses enter
+scene: A hospital room in Manhattan. CENTRE, dominant and brightest: a tin man with a clockwork heart walks beside a big air-compressor cart, thick grey air hoses running from his chest wall to it; playing cards sprouting broccoli and moss sit where the hoses enter his skin, and a few black bowling balls roll out from under his chest plate. On the wall, a calendar with more than twelve pages torn off. In the background, two surgeons hold a spare tin heart against chalk outlines on a hotel's frame, the same outlines used for fitting a new heart.
+
+== 109
+# A cyanotic infant with a univentricular heart -> B (to count as a ventricle a chamber must receive at least half of an inlet valve), C (a good candidate for a Blalock-Taussig shunt), D (the best final repair sends all caval blood to the lungs: the Fontan), E (without pulmonary stenosis it presents with heart failure).
+# A (double-inlet RIGHT ventricle is the most common form) is false: double-inlet LEFT ventricle is.
+# one single big RED engine room with no party wall, both lobby doors opening into it -> a univentricular heart, usually a double-inlet LEFT ventricle
+# ANSWER B: an inspector measuring that the room takes at least HALF of a door in its ceiling -> the 50% rule
+# ANSWER C: a baby with blue lips, and a plumber joining a hose from the orca's flipper to the dollar pipe -> a BT shunt for the cyanotic infant
+# ANSWER D: through the window, a stone fountain fed by the chimney straight into the dollar pipes -> the Fontan as the final repair
+# ANSWER E: on the far side, a hotel with a wide-open dollar pipe and a traffic jam of taxis outside -> without pulmonary stenosis: heart failure
+title: Univentricular heart: the 50% rule, a shunt for the cyanotic infant, heart failure without pulmonary stenosis, and the Fontan as the final repair
+titleAr: القلب وحيد البطين: قاعدة الخمسين بالمئة، وتحويلة للرضيع المزرقّ، وقصور القلب دون تضيّق رئوي، وفونتان إصلاحًا نهائيًّا
+tags: cardiac/congenital d:pathology q:recall l:3
+palette: warm afternoon, one big red engine room, cyan blue lips, grey stone fountain, taxi yellow
+keywords: univentricular heart -> a single engine room, big and red, with no party wall, both lobby doors opening into it; inlet valve -> a door in the engine room's ceiling, at least half of it over the room; cyanosis -> a baby with bright blue lips; Blalock-Taussig shunt -> a hose joining the orca's flipper to the pipe of dollar bills; Fontan -> a stone fountain fed by the blue wing's chimney, running straight into the pipes of dollar bills; congestive heart failure -> a traffic jam of yellow taxis
+must: there is ONE engine room only, and it is RED; the inspector's tape shows at least HALF of a door over it; the hose joins flipper to dollar pipe; the fountain waits outside
+scene: The old Brooklyn hotel with a stag's head, seen cut open like a doll's house on a warm afternoon. CENTRE, dominant and brightest: its ground floor is ONE single big red engine room with no party wall, and both lobby doors open down into it; an inspector stretches a tape under one of the ceiling doors, showing that at least half of it lies over the room. In the lobby a mother holds a baby with bright blue lips, while a plumber joins a hose from the flipper of a giant orca parade balloon to a pipe stuffed with green dollar bills. Through the window: a stone fountain in the courtyard, fed by the chimney straight into the dollar pipes. FAR RIGHT, smaller: a second hotel whose dollar pipe is wide open, yellow taxis gridlocked outside.
+
+== 110
+# A 9-year-old boy with hypertension and no femoral pulses, coarctation suspected -> A (bicuspid aortic valve is the commonest associated lesion), B (rib notching on the chest film), D (in infancy, a pink upper body and a cyanotic lower body).
+# C (inflammatory aortitis as the cause) and E (paradoxical hypertension after repair means residual stenosis) are false.
+# a rope pinching the orca's waist, a gauge in the red above it, the legs of the statue below pale with no pulse -> coarctation with hypertension and absent femoral pulses
+# ANSWER A: a bicycle wedged in the orca's mouth -> bicuspid aortic valve
+# ANSWER B: the hotel's iron railings notched by thick vines squeezing past them -> rib notching from collaterals
+# ANSWER D: a baby pink above the waist and blue below it -> differential cyanosis in infancy
+title: Coarctation: bicuspid aortic valve, rib notching, and in infancy a pink upper and blue lower body
+titleAr: تضيّق برزخ الأبهر: صمام أبهري ثنائي الشرف، وتثلّم الأضلاع، وعند الرضيع جسم علوي ورديّ وسفلي أزرق
+tags: cardiac/congenital d:diagnosis q:vignette l:2 x:high-yield
+palette: late afternoon, black-and-white orca, rope brown, a gauge glowing red, bicycle chrome, cyan blue
+keywords: coarctation -> a rope pinching the orca balloon's waist just past its left flipper; bicuspid aortic valve -> a bicycle wedged in the orca's mouth, its two wheels for the two lips; hypertension -> a big round pressure gauge with its needle swung into the red zone above the rope; rib notching -> the hotel's iron railings notched by thick vines squeezing past them; pink upper body and blue lower body -> a baby pink above the waist and blue below it
+must: the gauge in the red is ABOVE the rope; the bicycle is IN the orca's mouth; the railings show notches cut by the vines; the baby is pink ABOVE and blue BELOW the waist
+scene: In front of the old Brooklyn hotel with a stag's head, late afternoon. CENTRE, dominant and brightest: a giant orca parade balloon with a rope pinching its waist just past its left flipper; above the rope a big pressure gauge glows deep in the red, and a bicycle is wedged in the orca's mouth, its two wheels like two lips. Along the hotel's front, the iron railings are notched where thick vines squeeze past them. LEFT FOREGROUND: a nurse holds a baby who is pink above the waist and blue below it. RIGHT: a nine-year-old boy whose legs look pale while a doctor feels in vain for a pulse at his groin.
