@@ -1,0 +1,91 @@
+book: shahzad-2015
+== 149
+1: 8 30 10 | Emptied sealed vat, level fallen below the chalk | After pneumonectomy: air-fluid level falls
+2: 70 53 8 | Brown thread leaking through the pipe | Bronchopleural fistula: space fluid into the airway
+3: 85 60 15 | Drinkers coughing at the frothing vat | Fluid spilling into the remaining lung
+4: 10 70 12 | Tikhon hammering in a tap low on the vat | Immediate chest drainage
+5: 55 42 12 | Boys with a candle and a sample cup | Bronchoscopy and culture: after draining
+question: 1 3
+answer: 4
+== 151
+1: 15 52 10 | Small charred crate on the cart | Small operable lung cancer (T1bN0)
+2: 42 62 15 | Round lumpy sack at the cart's corner | Adrenal mass at staging
+3: 85 20 15 | City gate open | Do not deny curative surgery without proof
+4: 10 15 10 | Clerk looking through a spyglass | Imaging cannot prove it is not a metastasis
+5: 85 50 15 | Men with crowbars held back | Laparoscopy or adrenalectomy: too invasive
+6: 38 25 10 | Hollow steel probe with a core | Needle biopsy
+question: 1 2
+answer: 6
+== 152
+1: 30 85 18 | Grey wolf in its den | Primary lung cancer, T2aN0
+2: 88 14 10 | Cub in the bell tower | Solitary brain metastasis
+3: 40 42 8 | Old tracker finding no other tracks | No other disease on full staging
+4: 85 60 15 | Two teams acting at once | Resect both lesions
+5: 82 40 12 | Sexton waving incense | Radiotherapy: not the choice here
+question: 1 2
+answer: 4
+== 153
+1: 15 45 15 | Strong farmer with no complaints | Asymptomatic patient
+2: 33 55 10 | Small clear ball labelled 2 | 2 cm hydatid cyst in the lung
+3: 5 20 8 | Three red seals on the post | Three positive tests: no biopsy needed
+4: 30 40 10 | White beads poured from the jar | Albendazole
+5: 45 15 12 | Calendar of many months | Long courses over months
+6: 85 40 12 | Man with an awl held back | Never puncture: anaphylaxis and spread
+7: 80 20 15 | Huge cyst in the barn, men with picks | Large cysts: surgery
+8: 25 88 12 | Sheepdogs in the straw | Dog tapeworm, Echinococcus granulosus
+question: 1 2
+answer: 4
+== 155
+1: 45 60 20 | Old porter standing on his painted mark | GE junction at its normal position
+2: 45 85 12 | Painted circle on the floor | The normal position of the sphincter
+3: 85 60 18 | Bear climbing beside him through the opening | Fundus rolling up into the chest
+4: 60 25 20 | Guests fleeing, table overturned | Stomach in the chest: pain, fullness
+5: 35 20 12 | Porter across the road carried upstairs | Sliding hernia: junction moves up
+question: 3 5
+answer: 1 2
+== 156
+1: 40 25 15 | Plump young confectioner short of breath | Obese adult with breathlessness
+2: 30 55 18 | Dough and sausages pushing up | Omentum and transverse colon in the sac
+3: 35 80 12 | Trapdoor M at the very front | Foramen of Morgagni: anterior, retrosternal
+4: 80 35 12 | Back trapdoor B, nailed, empty cradle | Bochdalek: posterolateral, in newborns
+5: 58 12 8 | Smooth water skin hanging | Pericardial cyst: fluid, not fat and bowel
+6: 80 60 15 | Carpenter with boards and hammer | Repair it: risk of strangulation
+question: 1 2
+answer: 3
+== 157
+1: 50 50 45 | Long wooden water chute | The oesophagus
+2: 33 14 10 | Narrow gate marked 15 | Cricopharyngeus at 15 cm: narrowest, tablets pass
+3: 55 58 12 | Cheese stuck under the stone arch | Tablet lodged at the aortic arch
+4: 88 45 8 | Post marked 23 | 23 cm: aortic arch and left main bronchus
+5: 75 92 10 | Gap in the wall marked 40 | 40 cm: diaphragm, lower sphincter
+6: 15 12 12 | Elderly Anfisa | The elderly are most at risk
+question: 2 6
+answer: 3 4
+== 159
+1: 60 25 25 | Huge grey wasps' nest in the wall | Mediastinal paraganglioma
+2: 55 50 20 | Nest roots gripping beams and posts | Local invasion at surgery: sign of malignancy
+3: 15 47 15 | Scholars counting and staining wasps | Histology cannot tell benign from malignant
+4: 85 50 12 | Sweating red-faced man with headache | Functional tumour: catecholamine excess
+5: 85 85 12 | Smoke pot and poison bottles ignored | No response to chemo or radiotherapy
+6: 45 65 15 | Sawing out the nest with its beams | Complete resection with invaded structures
+question: 1 3
+answer: 2
+== 160
+1: 75 78 12 | Nozzle half blocked, hose taut | Distal obstruction: motility disorder
+2: 28 82 12 | Round bulge on a narrow neck | Epiphrenic pulsion diverticulum
+3: 15 20 12 | Woman choking on water spraying back | Regurgitation and aspiration
+4: 85 30 12 | Second hose bursting at its seam | Diverticulectomy alone: leak and recurrence
+5: 40 70 12 | Chief cutting off the bulge | Diverticulectomy
+6: 70 65 12 | Slitting the tight leather lengthwise | Long oesophagomyotomy
+question: 2 4
+answer: 5 6
+== 161
+1: 15 25 15 | Rot only in the top storey | Upper-lobe emphysema
+2: 15 32 10 | Frail old man breathing freely | Low exercise capacity: surgery lowered mortality
+3: 75 40 20 | Rot in the lower floors | Non-upper-lobe emphysema
+4: 70 70 15 | Strong porter buried in the collapse | High exercise capacity: higher mortality
+5: 92 70 8 | Hearse marked 2 | About twice the deaths after surgery
+6: 38 70 15 | Scale in balance | Overall mortality the same
+7: 15 60 10 | Register 1218 | 1218 patients randomised
+question: 3 6
+answer: 4 5
