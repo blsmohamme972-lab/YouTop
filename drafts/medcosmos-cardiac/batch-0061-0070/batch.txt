@@ -1,0 +1,129 @@
+book: medcosmos-cardiac
+# MedCosmos Cardiac, questions 61-70, written to the owner's five picture rules and the audited symbols
+# (content/symbols.json). Theme: New York City. Quotations: Rumi, the Masnavi (from memory, translated).
+
+== 61
+# Left ventricular aneurysm -> B (no collaterals to the area of an acutely blocked artery favours an aneurysm), D (repair can improve valve dysfunction), E (persistent ST elevation suggests an aneurysm).
+# A (systemic embolization is common) and C (posterobasal more common than anteroapical) are false: most are anteroapical, and embolization is uncommon.
+# a big pink bubble-gum bubble bulging out of the FRONT BOTTOM corner of the red engine room -> an anteroapical left ventricular aneurysm
+# ANSWER B: through the window, the front spike of the Liberty crown clogged with tar and NO threads reaching it from its neighbours -> no collaterals to the blocked artery's territory
+# ANSWER D: a worker cutting the bubble away while, upstairs, the bishop's leaking mitre closes snugly -> aneurysm repair improves mitral regurgitation
+# ANSWER E: outside the door, a street elevator platform stuck in its raised position -> persistent ST elevation
+title: Left ventricular aneurysm: favoured by absent collaterals, signalled by persistent ST elevation, and its repair can improve valve function
+titleAr: أمّ الدم في البطين الأيسر: يساعد على تكوّنها غياب الدوران الجانبي، وينبّه إليها بقاء ارتفاع ST، وإصلاحها قد يحسّن عمل الصمام
+tags: cardiac/coronary d:pathology q:recall l:2
+palette: warm afternoon, bubble-gum pink, red brick, green copper with black tar, purple and gold mitre
+keywords: aneurysm -> a big pink bubble-gum bubble bulging out of the front bottom corner of the red engine room; ventricle -> the red engine room with its ventilation fan; coronary -> the Statue of Liberty's green crown; collaterals -> thin threads between the crown's spikes, none reaching the clogged front spike; mitral -> the bishop's leaking mitre closing snugly; ST segment elevation -> a street-corner elevator platform stuck in its raised position
+must: the bubble bulges from the FRONT BOTTOM corner of the red engine room; the clogged front spike has NO threads from its neighbours; the street elevator is stuck UP
+scene: The old Brooklyn hotel with a stag's head over its door, seen cut open like a doll's house on a warm afternoon. CENTRE, dominant and brightest: a huge pink bubble-gum bubble bulging out of the front bottom corner of the red engine room, its fan beside it, and a worker with long shears cutting the bubble away at its base. ABOVE, in the red lobby: a bishop's mitre that had been leaking now closes snugly. THROUGH THE WINDOW behind: the Statue of Liberty's green crown, its front spike clogged with black tar and no threads reaching it from the spikes beside it. FOREGROUND, outside the door: a street-corner elevator platform stuck in its raised position.
+
+== 62
+# Factors that do NOT increase early mortality of left ventricular aneurysm repair -> B (size of the aneurysm) and E (its location).
+# A (class IV status), C (left main disease) and D (emergency operation) DO raise mortality.
+# two hotels with bubble-gum bubbles, one huge at the front, one small at the back, and beside BOTH the undertaker shrugging with his tape rolled up -> size and location do not change the risk
+# behind: an ambulance, a bedridden owner and the crown clogged at its main root, each with a coffin -> emergency, class IV and left main disease do
+title: Early mortality of ventricular aneurysm repair does not depend on the aneurysm's size or its location
+titleAr: وفيات إصلاح أمّ الدم البطينية المبكرة لا تتعلّق بحجمها ولا بموضعها
+tags: cardiac/coronary d:evidence q:recall l:3 x:trap
+palette: overcast day, two brick hotels, bubble-gum pink, an undertaker in black
+keywords: aneurysm -> big pink bubble-gum bubbles bulging out of the red engine rooms of two hotels; mortality -> an undertaker shrugging beside both bubbles, his coffin cart empty
+must: one bubble is HUGE at the front, the other SMALL at the back; the undertaker shrugs with his tape rolled up beside BOTH; the coffins stand only by the ambulance, the bedridden man and the clogged root
+scene: Two old brick hotels with stags' heads over their doors, side by side, seen cut open like doll's houses on an overcast day. CENTRE, dominant and brightest: out of the first hotel's red engine room bulges a HUGE pink bubble-gum bubble at the front; out of the second a SMALL one at the back; between them an undertaker in black stands with his tape measure rolled up, shrugging at both. BEHIND them, smaller: an ambulance with its lights on, a hotel owner lying exhausted in bed, and a model of the Statue of Liberty's crown clogged at its main left root, and a coffin beside each of these three.
+
+== 63
+# The most effective medical treatment in Kawasaki disease, for the symptoms and against giant coronary aneurysms -> D, gamma globulin.
+# a feverish child on a green Kawasaki motorcycle, bubble-gum bubbles swelling on the spikes of a Liberty crown on his helmet; a nurse holding up a snow globe glowing with green gamma rays that shrinks them -> intravenous gamma globulin
+title: Kawasaki disease: intravenous gamma globulin relieves the illness and prevents giant coronary aneurysms
+titleAr: داء كاواساكي: الغلوبولين المناعي الوريدي يخفّف المرض ويمنع أمّهات الدم التاجية العملاقة
+tags: cardiac/coronary d:pharmacology q:recall l:1 x:high-yield
+palette: bright street light, Kawasaki green, fever red, bubble-gum pink, glowing gamma green
+keywords: Kawasaki disease -> a bright green Kawasaki motorcycle ridden by a feverish child; coronary artery aneurysms -> pink bubble-gum bubbles swelling on the spikes of the Liberty crown on his helmet; gamma globulin -> a glass snow globe glowing with green gamma rays
+must: the bubbles on the crown spikes SHRINK in the glow of the snow globe; the motorcycle is green; the child is flushed with fever
+scene: A Manhattan street in bright light. A feverish, flushed child with red lips sits on a bright green Kawasaki motorcycle, wearing a helmet shaped like the Statue of Liberty's green crown; pink bubble-gum bubbles are swelling on its spikes. CENTRE, dominant and brightest: a nurse holds up a glass snow globe glowing with green gamma rays, and in its glow the bubbles shrink back.
+
+== 64
+# Indication for surgery in Kawasaki disease -> D, progressive stenosis of the left anterior descending.
+# A (multiple aneurysms), B (infarction with severe LV dysfunction) and C (a 5 mm right coronary aneurysm) are not, by themselves, indications.
+# three calendar pages showing the lad's front slide on the Kawasaki rider's crown narrowing more each month, the gardener laying a cabbage leaf over it -> progressive LAD stenosis: bypass
+# the bubble-gum bubbles on the other spikes left alone -> aneurysms alone are not an indication
+title: Surgery in Kawasaki disease is for progressive stenosis, such as of the left anterior descending, not for aneurysms alone
+titleAr: الجراحة في داء كاواساكي لتضيّق متفاقم كتضيّق الأمامي النازل، لا لأمّهات الدم وحدها
+tags: cardiac/coronary d:indications q:recall l:2
+palette: soft morning, Kawasaki green, bubble-gum pink, black tar, fresh cabbage green
+keywords: Kawasaki disease -> a bright green Kawasaki motorcycle parked by the curb; left anterior descending -> a young lad on the front slide of a big Liberty crown, the slide narrowing with tar; coronary artery bypass -> a big green cabbage leaf laid as a bridge over the narrowed front slide; coronary artery aneurysms -> pink bubble-gum bubbles on the other spikes, left alone
+must: three calendar pages show the front slide getting NARROWER each month; the cabbage leaf goes ONLY on the front slide; the bubbles are left alone
+scene: A quiet garden in Queens on a soft morning; a bright green Kawasaki motorcycle is parked by the curb. CENTRE, dominant and brightest: a big model of the Statue of Liberty's crown; on its front slide a young lad, the slide narrowing with black tar, and three calendar pages pinned beside it showing the slide narrower each month; an old gardener lays a big green cabbage leaf as a bridge over that front slide. On the other spikes, pink bubble-gum bubbles sit untouched.
+
+== 65
+# The pathophysiology of Ebstein's anomaly -> A (the tricuspid valve is usually insufficient), C (the redundant anterior leaflet may obstruct the right ventricular outflow), E (a high neonatal pulmonary resistance worsens tricuspid regurgitation and cyanosis).
+# B (a left-to-right shunt across the ASD; it is right-to-left) and D (pulmonary hypertension as a common late complication) are false.
+# Einstein, wild white hair, pushing the trident down into the blue engine room -> Ebstein's anomaly
+# ANSWER A: water spraying back UP past the trident into the blue lobby -> tricuspid insufficiency
+# ANSWER C: a huge sail of white canvas hanging from the trident and blocking the doorway to the dollar pipe -> the redundant anterior leaflet obstructs the outflow
+# ANSWER E: wooden blocks jammed in the dollar pipe of a newborn's crib-side model, the backspray worse and the baby's lips blue -> high neonatal PVR worsens regurgitation and cyanosis
+title: Ebstein's anomaly: a leaking tricuspid valve, a sail-like leaflet that can block the outflow, worse in the newborn while pulmonary resistance is high
+titleAr: شذوذ إبشتاين: صمام ثلاثي الشرف راجع، وشُرفة أمامية كالشراع قد تسدّ المخرج، ويشتدّ عند الوليد ما دامت المقاومة الرئوية عالية
+tags: cardiac/congenital d:physiology q:recall l:3
+palette: blue wing at night, white sail canvas, silver spray, pale wood, cyan blue lips
+keywords: Ebstein's anomaly -> Einstein, wild white hair, pushing the trident down into the blue engine room; tricuspid -> the trident; tricuspid regurgitation -> water spraying back up past the trident into the blue lobby; anterior leaflet -> a huge sail of white canvas hanging from the trident, blocking the doorway to the pipe of dollar bills; pulmonary vascular resistance -> wooden blocks jammed in the pipe of dollar bills; cyanosis -> a newborn baby with bright blue lips
+must: the trident is pushed DOWN into the engine room, not at the lobby floor; water sprays back UP; the sail blocks the doorway to the dollar pipe; the newborn's lips are blue
+scene: The blue wing of the old Brooklyn hotel with a stag's head over its door, seen cut open like a doll's house at night. CENTRE, dominant and brightest: Einstein, with wild white hair, pushes the big iron trident DOWN from the floor of the blue lobby deep into the blue engine room, and a jet of water sprays back up past it into the lobby. From the trident hangs a huge sail of white canvas that billows across and blocks the doorway to a pipe stuffed with green dollar bills. In the lobby a newborn baby with bright blue lips lies in a crib, and the dollar pipe above the crib is jammed with pale wooden blocks.
+
+== 66
+# Surgery for Ebstein's anomaly -> A (in neonates the tricuspid orifice may be oversewn and a systemic-pulmonary shunt made) and D (a replacement valve is sewn ABOVE the coronary sinus to spare the conduction system).
+# B (repairs do not use plication of the atrialized ventricle; they often do), C (closing the ASD alone is enough) and E (mechanical valves are recommended; bioprostheses do well in the tricuspid position) are false.
+# LEFT: in a newborn's hotel, the trident welded shut and a hose joining the orca's flipper to the dollar pipe -> the neonatal operation (oversew the tricuspid valve, add a shunt)
+# ANSWER D: RIGHT: a new trident being fitted ABOVE the little green-crowned sink, the sparking bundle of branches left untouched below -> replacement valve sewn above the coronary sinus
+title: Surgery for Ebstein's anomaly: in the newborn, close the tricuspid orifice and add a shunt; a replacement valve goes above the coronary sinus
+titleAr: جراحة شذوذ إبشتاين: عند الوليد يُغلق الصمام ثلاثي الشرف وتضاف تحويلة، والصمام البديل يُخاط فوق الجيب التاجي
+tags: cardiac/congenital d:technique q:recall l:3
+palette: warm workshop light, rusted iron, a new silver trident, green crown, electric sparks
+keywords: Ebstein's anomaly -> Einstein, wild white hair, watching from the door; tricuspid -> the trident; systemic-pulmonary shunt -> a hose joining the orca's flipper to the pipe of dollar bills; coronary sinus -> a sink with a little green crown, set in the floor of the blue lobby; conduction -> a bundle of branches crackling with electric sparks
+must: on the LEFT the trident is welded shut AND the hose joins flipper to dollar pipe; on the RIGHT the new trident is fitted ABOVE the sink, and the sparking branches lie untouched below it
+scene: Two blue lobbies of the old Brooklyn hotel with a stag's head, side by side, seen cut open like doll's houses; Einstein, wild white hair, watches from the doorway between them. LEFT, a newborn's lobby: the trident in the floor is welded shut under a thick iron cap, and a plumber joins a hose from the flipper of a giant orca parade balloon to a pipe stuffed with green dollar bills. RIGHT, CENTRE of attention, dominant and brightest: a craftsman fits a shiny new silver trident into the floor ABOVE a sink with a little green crown on its tap, while below the sink a bundle of branches crackling with electric sparks lies untouched.
+
+== 67
+# The congenital coronary lesion with a murmur like that of a PDA -> C, coronary artery fistula.
+# a fist punching a hole from a spike of the Liberty crown straight into the blue lobby, and beside it a cement mixer roaring nonstop, the same as the one beside the duct-tape tunnel -> a coronary fistula gives a continuous murmur like a PDA
+title: A coronary artery fistula gives a continuous murmur like that of a PDA
+titleAr: الناسور الشرياني التاجي يُحدث نفخة مستمرّة كنفخة القناة الشريانية
+tags: cardiac/congenital d:diagnosis q:recall l:2
+palette: dusk, green copper, blue lobby glass, cement-mixer orange, shiny silver tape
+keywords: coronary artery fistula -> a fist punching a hole straight through from a spike of the Liberty crown into the blue lobby; continuous murmur -> a cement mixer roaring nonstop; ductus arteriosus -> a tunnel of shiny silver duct tape with an identical cement mixer beside it
+must: the fist punches from the CROWN SPIKE into the BLUE lobby; the two cement mixers are identical
+scene: Dusk in New York. LEFT, CENTRE of attention, dominant and brightest: a giant fist punches a hole straight through from one spike of the Statue of Liberty's green crown into the blue glass lobby of the old hotel with a stag's head, and water gushes through; right beside it an orange cement mixer roars nonstop. RIGHT, smaller: a tunnel of shiny silver duct tape with an identical cement mixer roaring beside it.
+
+== 68
+# The congenital coronary lesion most likely to kill in infancy -> B, origin of the left coronary artery from the pulmonary artery (ALCAPA).
+# Al Capone in a pinstripe suit bolting the LEFT spike of the Liberty crown onto the pipe of dollar bills, a tiny coffin beside a crib -> ALCAPA kills in infancy
+title: Origin of the left coronary artery from the pulmonary artery is the coronary anomaly most likely to kill in infancy
+titleAr: نشوء الشريان التاجي الأيسر من الشريان الرئوي هو الشذوذ التاجي الأكثر قتلًا في الرضاعة
+tags: cardiac/congenital d:pathology q:recall l:1 x:high-yield
+palette: 1920s night, pinstripe grey, green copper, green banknotes, a small white coffin
+keywords: ALCAPA -> Al Capone in a pinstripe suit bolting the left spike of the Liberty crown onto the pipe of dollar bills; mortality -> a tiny white coffin beside an empty crib
+must: it is the LEFT spike that Capone bolts onto the dollar pipe; the coffin is tiny, for a baby
+scene: A smoky 1920s night under the Brooklyn Bridge. CENTRE, dominant and brightest: Al Capone in a pinstripe suit and fedora bolts the left spike of the Statue of Liberty's green crown onto a pipe stuffed with green dollar bills, grinning. RIGHT, in the shadow: an empty crib and a tiny white coffin beside it.
+
+== 69
+# The congenital coronary lesion with minimal or absent symptoms and a nearly normal life expectancy -> D, origin of the RIGHT coronary artery from the pulmonary artery.
+# the RIGHT spike of a Liberty crown growing quietly out of a pipe of dollar bills over a park chess table, and an old man of ninety playing chess calmly beneath it -> a right coronary from the pulmonary artery hardly matters
+title: Origin of the right coronary artery from the pulmonary artery: few or no symptoms and a nearly normal life
+titleAr: نشوء الشريان التاجي الأيمن من الشريان الرئوي: أعراض قليلة أو معدومة وعمر شبه طبيعي
+tags: cardiac/congenital d:pathology q:recall l:2
+palette: sunny Washington Square Park, green copper, green banknotes, white hair
+words: 90
+keywords: coronary -> a small Liberty crown; right coronary artery from the pulmonary artery -> the right spike of the crown growing quietly out of a pipe of dollar bills; life expectancy -> an old man of ninety playing chess calmly
+must: only the RIGHT spike grows out of the dollar pipe; the old man is calm and healthy; a birthday cake shows 90
+scene: Washington Square Park on a sunny afternoon. Over a stone chess table hangs a pipe stuffed with green dollar bills, and out of it, quietly, grows the RIGHT spike of a small green Statue of Liberty crown. CENTRE, dominant and brightest: beneath it a calm, healthy old man with white hair plays chess, a small birthday cake with a 90 candle beside the board.
+
+== 70
+# Indications for aortic valve replacement in aortic stenosis -> A (syncope), B (congestive heart failure), C (angina).
+# D (a 35 mm Hg gradient without symptoms) is false.
+# a dentist fitting brand-new dentures into the orca's narrowed mouth, three people in his waiting room: a man fainting onto a red velvet couch, a stone angel on a man's chest, a window full of gridlocked taxis -> AVR for syncope, angina and heart failure
+title: Aortic stenosis: replace the valve once there is syncope, angina or heart failure
+titleAr: تضيّق الصمام الأبهري: يُستبدل الصمام متى ظهر الإغماء أو الذبحة أو قصور القلب
+tags: cardiac/aortic-valve d:indications q:recall l:1 x:high-yield
+palette: clean dental-office white, red velvet, grey stone, taxi yellow, black-and-white orca
+keywords: aortic valve replacement -> a dentist fitting brand-new dentures into the orca balloon's mouth; aortic stenosis -> the orca balloon's mouth narrowed to a slit; syncope -> a man fainting backwards onto a red velvet couch; angina -> a heavy stone angel sitting on a man's chest; congestive heart failure -> a traffic jam of yellow taxis seen through the window
+must: the orca's mouth is narrowed to a slit and the dentist is fitting NEW dentures; the three people wait in the same room
+scene: A dentist's office on Fifth Avenue, clean and white. CENTRE, dominant and brightest: a giant orca parade balloon floats in the dentist's chair, its mouth narrowed to a slit; the dentist fits a set of brand-new dentures into it. In the waiting room: a man fainting backwards onto a red velvet couch, and a man on a bench with a heavy stone angel sitting on his chest; through the big window, yellow taxis stand gridlocked bumper to bumper.

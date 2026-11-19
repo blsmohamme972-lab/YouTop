@@ -1240,7 +1240,10 @@
     "subclavian-to-pulmonary artery shunt",
     "blalock-taussig shunt",
     "bt shunt",
-    "systemic-to-pulmonary shunt"
+    "systemic-to-pulmonary shunt",
+    "systemic-pulmonary shunt",
+    "systemic artery-to-pulmonary artery shunt",
+    "systemic artery to pulmonary artery shunt"
    ],
    "symbol": "a hose joining the orca's flipper to the pipe of dollar bills",
    "anchors": [
@@ -2404,6 +2407,298 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "aneurysm",
+   "concept": "aneurysm (ventricular, coronary, aortic)",
+   "terms": [
+    "aneurysm",
+    "aneurysms",
+    "aneurysmal",
+    "ventricular aneurysm",
+    "left ventricular aneurysm",
+    "coronary aneurysm",
+    "coronary artery aneurysm",
+    "coronary artery aneurysms",
+    "giant coronary artery aneurysms",
+    "congenital coronary aneurysm"
+   ],
+   "symbol": "a big pink bubble-gum bubble bulging out of a wall",
+   "anchors": [
+    "bubble-gum",
+    "bubble gum"
+   ],
+   "kind": "literal",
+   "why": "a thin-walled bulge that can burst",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "st-elevation",
+   "concept": "ST segment elevation",
+   "terms": [
+    "st elevation",
+    "st segment elevation",
+    "st-segment elevation",
+    "persistent st segment elevation",
+    "st-elevation"
+   ],
+   "symbol": "a street-corner elevator platform stuck in its raised position",
+   "anchors": [
+    "elevator"
+   ],
+   "kind": "sound-alike",
+   "why": "ST = STreet, elevation = ELEVATOR stuck up",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "kawasaki",
+   "concept": "Kawasaki disease",
+   "terms": [
+    "kawasaki",
+    "kawasaki's disease",
+    "kawasaki disease",
+    "mucocutaneous lymph node syndrome"
+   ],
+   "symbol": "a bright green Kawasaki motorcycle ridden by a feverish child",
+   "anchors": [
+    "motorcycle"
+   ],
+   "kind": "sound-alike",
+   "why": "KAWASAKI = the motorcycle brand",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "gamma-globulin",
+   "concept": "intravenous gamma globulin (immunoglobulin)",
+   "terms": [
+    "gamma globulin",
+    "immunoglobulin",
+    "ivig",
+    "intravenous immunoglobulin",
+    "intravenous gamma globulin"
+   ],
+   "symbol": "a glass snow globe glowing with green gamma rays",
+   "anchors": [
+    "snow globe"
+   ],
+   "kind": "sound-alike",
+   "why": "GLOBulin = globe; gamma = the glowing rays",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "ebstein",
+   "concept": "Ebstein's anomaly (tricuspid valve displaced down into the right ventricle)",
+   "terms": [
+    "ebstein",
+    "ebstein's anomaly",
+    "ebstein anomaly",
+    "ebstein's malformation",
+    "ebstein malformation"
+   ],
+   "symbol": "Einstein, wild white hair, pushing the trident down into the blue engine room",
+   "anchors": [
+    "einstein"
+   ],
+   "kind": "sound-alike",
+   "why": "EBSTEIN ~ Einstein; the tricuspid valve is pushed down into the ventricle",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "fistula",
+   "concept": "fistula (coronary, arteriovenous)",
+   "terms": [
+    "fistula",
+    "fistulas",
+    "coronary artery fistula",
+    "coronary fistula",
+    "congenital coronary artery fistula",
+    "arteriovenous fistula",
+    "av fistula"
+   ],
+   "symbol": "a fist punching a hole straight through from one pipe into its neighbour",
+   "anchors": [
+    "fist"
+   ],
+   "kind": "sound-alike",
+   "why": "FIST-ula = a fist punched through",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "continuous-murmur",
+   "concept": "continuous (machinery) murmur",
+   "terms": [
+    "continuous murmur",
+    "machinery murmur",
+    "continuous machinery murmur"
+   ],
+   "symbol": "a cement mixer roaring nonstop",
+   "anchors": [
+    "cement mixer"
+   ],
+   "kind": "literal",
+   "why": "a machine that never stops, through systole and diastole",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "alcapa",
+   "concept": "anomalous origin of the left coronary artery from the pulmonary artery (ALCAPA)",
+   "terms": [
+    "alcapa",
+    "origin of the left coronary artery from the pulmonary artery",
+    "anomalous origin of the left coronary artery",
+    "anomalous left coronary artery from the pulmonary artery",
+    "bland-white-garland syndrome"
+   ],
+   "symbol": "Al Capone in a pinstripe suit bolting the left spike of the Liberty crown onto the pipe of dollar bills",
+   "anchors": [
+    "capone"
+   ],
+   "kind": "sound-alike",
+   "why": "ALCAPA ~ Al Capone, who puts the crown on the money",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "syncope",
+   "concept": "syncope",
+   "terms": [
+    "syncope",
+    "fainting",
+    "faint"
+   ],
+   "symbol": "a man fainting backwards onto a red velvet couch",
+   "anchors": [
+    "fainting"
+   ],
+   "kind": "literal",
+   "why": "the faint itself",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "avr",
+   "concept": "aortic valve replacement",
+   "terms": [
+    "aortic valve replacement",
+    "avr",
+    "aortic valve replacement for aortic stenosis",
+    "replacement of the aortic valve"
+   ],
+   "symbol": "a dentist fitting brand-new dentures into the orca balloon's mouth",
+   "anchors": [
+    "dentures"
+   ],
+   "kind": "literal",
+   "why": "a new 'mouth' for the orca",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
    "audited": "2026-11-19"
   }
  ]

@@ -97,6 +97,16 @@ a batch that draws a listed concept any other way is refused by `batch.py`.
 | gated equilibrium radionuclide study (MUGA, gated blood pool) | a big glowing green coffee mug filled slowly, drip by drip, over many beats | MUGA = mug; it is built up over hundreds of beats | 10/10 | medcosmos-cardiac |
 | first-pass (initial-transit) radionuclide study | one glowing green shot glass downed in a single gulp | the bolus is seen on its first, single pass | 9/10 | medcosmos-cardiac |
 | cardioplegia, cardioplegic arrest | a bucket of ice-cold water full of bananas poured over the hotel so that its fans stop dead | the solution is cold and rich in potassium (bananas); it stops the heart still | 9/10 | medcosmos-cardiac |
+| aneurysm (ventricular, coronary, aortic) | a big pink bubble-gum bubble bulging out of a wall | a thin-walled bulge that can burst | 9/10 | medcosmos-cardiac |
+| ST segment elevation | a street-corner elevator platform stuck in its raised position | ST = STreet, elevation = ELEVATOR stuck up | 10/10 | medcosmos-cardiac |
+| Kawasaki disease | a bright green Kawasaki motorcycle ridden by a feverish child | KAWASAKI = the motorcycle brand | 10/10 | medcosmos-cardiac |
+| intravenous gamma globulin (immunoglobulin) | a glass snow globe glowing with green gamma rays | GLOBulin = globe; gamma = the glowing rays | 10/10 | medcosmos-cardiac |
+| Ebstein's anomaly (tricuspid valve displaced down into the right ventricle) | Einstein, wild white hair, pushing the trident down into the blue engine room | EBSTEIN ~ Einstein; the tricuspid valve is pushed down into the ventricle | 10/10 | medcosmos-cardiac |
+| fistula (coronary, arteriovenous) | a fist punching a hole straight through from one pipe into its neighbour | FIST-ula = a fist punched through | 10/10 | medcosmos-cardiac |
+| continuous (machinery) murmur | a cement mixer roaring nonstop | a machine that never stops, through systole and diastole | 10/10 | medcosmos-cardiac |
+| anomalous origin of the left coronary artery from the pulmonary artery (ALCAPA) | Al Capone in a pinstripe suit bolting the left spike of the Liberty crown onto the pipe of dollar bills | ALCAPA ~ Al Capone, who puts the crown on the money | 10/10 | medcosmos-cardiac |
+| syncope | a man fainting backwards onto a red velvet couch | the faint itself | 9/10 | medcosmos-cardiac |
+| aortic valve replacement | a dentist fitting brand-new dentures into the orca balloon's mouth | a new 'mouth' for the orca | 10/10 | medcosmos-cardiac |
 
 ## Rejected (never use them)
 
