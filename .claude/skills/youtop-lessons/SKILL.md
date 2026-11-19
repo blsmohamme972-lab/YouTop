@@ -44,16 +44,21 @@ MedCosmos Cardiac (lessons 1-20 are the first set written to them) onwards.
    wall), and the order of the route is the order of the facts. Fixed locations give a ready
    retrieval path that keeps the sequence (Twomey & Kroneisen 2021, meta-analysis).
 5. **Recurring symbols, the same in every book.** A concept that comes back (the heart's chambers,
-   the aorta, CPR, stroke, a drug) always has the same symbol, from `content/symbols.md`. A bad
-   recurring symbol spoils all later work, so a new one is added there only with great care:
-   concrete, a sound-alike or something that sticks at first sight, unmistakable, easy to draw,
-   and approved by the owner before any picture uses it. Never invent a second symbol for a
-   concept that already has one; propose a change in `symbols.md` instead.
+   the aorta, CPR, stroke, a drug) always has the same symbol, from `content/symbols.json` (readable
+   list: `content/symbols.md`). A bad recurring symbol spoils all later work, so a new one is added
+   only with great care: write it into the json with its terms, the anchor words a prompt must
+   contain, a reason, and a score 0-2 for link (sound-alike), concrete, unmistakable, drawable and
+   sticky; then run `python3 tools/content/symbols.py audit`. The owner asked this audit to decide
+   for them (2026-11-19): it approves a symbol only with every score at least 1, a total of at least
+   8, and anchors no other concept uses; it keeps rejected ones so nobody proposes them again. Score
+   honestly: the audit is only as good as the scores. `batch.py prompts` and `build` refuse a batch
+   whose `keywords:` draw a listed concept any other way (`symbols.py check batch.txt` shows why).
+   Never invent a second symbol for a concept that already has one.
 
 Before handing over a prompt, read it against the five rules: does every element interact? Has every
 abstract term of the answer a concrete keyword? Is the answer the brightest, largest thing? Is
 anything decorative left? Is ordered information on a route? Are recurring concepts drawn with
-their symbol from `symbols.md`?
+their audited symbol (`symbols.py check`)?
 
 ## The standard order (the owner's decision, 2026-11-16; lessons 41-45 are the worked set)
 

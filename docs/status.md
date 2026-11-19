@@ -9,11 +9,12 @@ Updated 2026-11-19 (evening). Whoever works on YouTop next: read `CLAUDE.md`, th
 - **The owner's five picture rules (2026-11-19)** are now in the `youtop-lessons` skill ("The picture prompt is
   the most important step") and in `tools/content/batch.py` (`keywords:` field, prompt frame): interacting scene;
   abstract terms as concrete English sound-alike objects; answer signalled, decoration removed; memory palace for
-  order; recurring symbols from `content/symbols.md`. **Every symbol there is still `proposed`**: the owner must
-  approve them (the HART Hotel for the heart's interior, ORCA = aorta, PULL-MONEY = pulmonary, COP = CPR, …).
+  order; recurring symbols from `content/symbols.json`. The owner asked for an audit to approve symbols instead of
+  them: `tools/content/symbols.py audit` (36 approved, 3 rejected on 2026-11-19: the Wall Street crash, the echo in
+  the Whispering Gallery, Shahzad's split red weight); `batch.py` refuses prompts that draw a listed concept otherwise.
 - Book facts: `content/books/medcosmos-cardiac.json` (id `medcosmos-cardiac`, lessons `medcos-q0001`…). The question
   file is a .jsonl in Drive (`03 MedCosmos Cardiac 156 Q`, file `1vymXJ2XpnuyoU5_twkwYxlQu0H2SOng4`), not yet in the
-  master format `batch.py` reads; `imagesFolder` is empty until the owner gives a pictures folder.
+  master format `batch.py` reads. Pictures go to "YouTop books/MedCosmos Cardiac/images" (`14D6AQoOofKzp8Z1jwMzGEqaOI5_GaGKm`, made 2026-11-19).
 - **Questions 1-20 are written** (titles, tags, table, keywords, scene, story, Rumi quotation, explanation) in
   `work/medcosmos-cardiac/batch-0001-0020/batch.txt` on `content`, with `image-prompts-1-20.json`. The owner asked for
   these three things only: **no voice, not built, not published as lessons yet.** Quotations are from the Masnavi,
