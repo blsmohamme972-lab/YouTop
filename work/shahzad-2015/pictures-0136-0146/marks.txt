@@ -1,0 +1,89 @@
+book: shahzad-2015
+== 136
+1: 40 35 15 | Squatter's hut built into the tower top | Pancoast tumour at the lung apex
+2: 80 10 12 | Keeper with drooping eye and limp hand | Horner syndrome, arm pain, hand wasting
+3: 25 25 20 | Hut smoked and burned from outside | Induction chemoradiotherapy
+4: 80 35 15 | Demolition teams from back and front | Resection: posterior and anterior approaches
+5: 35 73 12 | Smith placing one glowing ember | Intraoperative brachytherapy
+6: 50 58 15 | Brass scale perfectly level | Brachytherapy changes neither recurrence nor survival
+question: 1 5
+answer: 6
+== 137
+1: 12 45 10 | Intact bell jar labelled I | Stage I: encapsulated thymoma
+2: 80 40 10 | Claw tips through the glass, seen by lens | Stage IIA: microscopic capsular invasion
+3: 60 72 12 | Whole paw gripping the yellow fat | Macroscopic invasion into fat
+4: 32 62 10 | Card IIB | Stage IIB
+5: 88 52 10 | Shattered jar, seeds on the next dish | Stage III-IV: organs, implants, spread
+question: 1 2
+answer: 3 4
+== 138
+1: 42 12 10 | Old stove high in the house's neck | Thyroid in the neck
+2: 50 50 30 | Shapeless black-red fire spreading down | Ill-defined invasive mass to the mediastinum
+3: 45 38 8 | Star of sparks at its heart | Heterogeneous enhancement
+4: 82 20 12 | Old man of seventy on the landing | Elderly patient (6th-7th decade)
+5: 25 67 15 | Fire refusing the cup of tea | Anaplastic cancer does not take up iodine
+6: 15 40 15 | Butter, soft water bag, small pot untouched | Not lipoma, lymphangioma or parathyroid adenoma
+question: 2 4
+answer: 1 5
+== 139
+1: 20 20 15 | Man rubbing his chest, dry cough | Vague chest tightness and dry cough
+2: 65 50 30 | Heart-shaped chest | The heart and pericardium
+3: 83 82 10 | Clear water balloon in the right lower corner | Pericardial cyst at the right cardiophrenic angle
+4: 83 82 7 | Lamp light passing straight through | Thin-walled, fluid density, no septa
+5: 85 92 8 | Loose string, not tied to the chest | Does not communicate with the pericardium
+6: 80 15 15 | Tied bundles on high shelves | Other cysts lie higher, near carina or oesophagus
+question: 1 2
+answer: 3 4
+== 140
+1: 60 50 40 | Three-storey palace | Right lung, three lobes
+2: 75 20 12 | Masked thief in the top wing | Primary tumour in the right upper lobe
+3: 90 12 8 | Sign T3 | A second nodule in the same lobe: T3
+4: 75 82 10 | Second masked thief in the lower wing | Second nodule in the right lower lobe
+5: 87 78 8 | Sign T4 | Different lobe, same lung: T4
+6: 20 30 12 | Dark palace across the river | Contralateral lung: M1a
+question: 2 4
+answer: 5
+== 142
+1: 50 30 25 | Battered ships with limp sails | Prior MI, ejection fraction 30% or less
+2: 45 24 10 | Small cannon firing by itself | Implantable defibrillator
+3: 80 20 15 | Great wave shattered | Fatal arrhythmia stopped
+4: 10 23 10 | Board 30 | Mortality reduced by about 30%
+5: 50 85 25 | Ledger: same tick under every column | Same benefit in all subgroups
+6: 40 45 15 | Harbour master Silvester | No electrophysiology test needed to enter
+question: 1 2
+answer: 5
+== 143
+1: 15 60 15 | Stabbed man on the stretcher | Penetrating chest injury in arrest
+2: 15 30 12 | Katya showing the heartbeat | Witnessed cardiac activity
+3: 28 65 12 | Door opened in his chest | Emergency room thoracotomy
+4: 85 72 12 | Crushed man under the cart, ignored | Blunt injury, no witnessed activity: not indicated
+5: 92 38 8 | Jug marked 500 | Chest tube loss of 500 ml: not an indication
+question: 1 4
+answer: 2 3
+== 144
+1: 55 55 15 | Yellow-green smoke rising from the cellar | Gastro-oesophageal reflux
+2: 20 70 15 | Scholar measuring the door spring | Manometry measures the sphincter, not reflux
+3: 80 80 12 | Scholar peering with a candle | Endoscopy sees damage, not reflux itself
+4: 90 40 7 | Hourglass marked 24 | 24-hour ambulatory pH monitoring
+5: 85 15 10 | Tally of scratches on the wall | Counts every acid episode and its duration
+6: 75 40 8 | Small gauge twitching | The pH probe
+question: 1 2 3
+answer: 4 5
+== 145
+1: 88 35 10 | Cut pipe gushing milky fluid | Thoracic duct injured in oesophagectomy
+2: 75 75 20 | Milky flood rising in the cellar | Chylothorax
+3: 15 65 15 | Cart of butter and fat stopped | Stop enteral fat
+4: 70 25 8 | Glass bottle on a stand with a tube | Intravenous nutrition
+5: 60 65 10 | Ignat pumping it out | Chest drainage
+6: 15 22 12 | Builders with picks held back | Duct ligation only if conservative care fails
+question: 2 6
+answer: 4 5
+== 146
+1: 45 60 25 | Sack bursting up through the stage boards | Recurrent hiatal hernia: commonest failure
+2: 58 52 12 | Red bow tied round its neck, intact | The wrap itself is intact
+3: 40 75 15 | New boards round the trapdoor shattered | Hiatus repair gave way
+4: 10 40 10 | Sack in the wings, bow slipped down | Slipped fundoplication: less common
+5: 88 30 12 | Singer gripping a too-tight collar | Tight wrap: dysphagia
+6: 30 65 15 | Yellow acid smoke from the cracks | Recurrent reflux symptoms
+question: 3 6
+answer: 1 2
