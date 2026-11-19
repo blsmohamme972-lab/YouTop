@@ -1,0 +1,57 @@
+book: shahzad-2015
+== 169
+1: 78 23 10 | Horse's head and bit | Sinoatrial node sets the heart rate
+2: 38 33 9 | Old driver who held the reins tight | Vagal tone, the brake at rest
+3: 55 32 7 | Reins hanging slack | Parasympathetic inhibited: rate rises
+4: 55 52 11 | Hindquarters the reins never touch | Ventricles: little parasympathetic supply
+5: 8 45 8 | Groom's whip on the hindquarters | Sympathetic: stronger contraction
+6: 95 45 6 | Striped fence posts unchanged | Peripheral resistance almost unchanged
+question: 1 4 5 6
+answer: 2 3
+== 179
+1: 30 18 20 | Whole river pouring over the wheel | Pulmonary circulation: all right heart output
+2: 15 60 14 | Dry, cracking spokes and axle | Airways and lung tissue need own supply
+3: 24 45 6 | Thin thread of water from the spout | Bronchial circulation
+4: 85 22 6 | Little tank painted 2 | About 2% of the cardiac output
+5: 90 11 6 | Pipe from the house on the hill | Systemic: bronchial arteries from the aorta
+6: 12 87 9 | Used trickle darkening the race | Drains to pulmonary veins: normal shunt
+question: 1 2 5 6
+answer: 3 4
+== 181
+1: 15 33 7 | Starting platform 15 | Mean pulmonary artery pressure ~15 mmHg
+2: 85 82 8 | Landing 5 | Left atrial pressure ~5 mmHg
+3: 32 65 7 | Big 10 on the track | Driving pressure ~10 mmHg
+4: 55 72 12 | Smooth, greased, gentle track | Very low pulmonary vascular resistance
+5: 82 30 14 | Towering ride far behind | Systemic circulation: nearly 100 mmHg
+question: 1 2 4 5
+answer: 3
+== 193
+1: 75 43 10 | Copper pipes still pouring clear water | Radial artery grafts
+2: 33 55 13 | Wooden pipes split and choked with silt | Saphenous vein grafts
+3: 40 10 9 | Board 5 | Late angiography, years after surgery
+4: 6 25 5 | Old board 1 | Protocol angiography at one year
+5: 70 82 7 | One copper pipe pinched thin as a thread | String sign: 7% of radial grafts
+6: 20 75 15 | Clerk counting pipes in his ledger | End point: graft occlusion, not death
+question: 4 5 6
+answer: 1 2 3
+== 194
+1: 50 30 6 | Striped mast in front | Trachea, the front boundary
+2: 25 11 6 | Brick wall behind | Spine, the back boundary
+3: 50 64 13 | Grey stone arch below | Aortic arch, the lower boundary
+4: 78 35 17 | Ivory balloons filling the triangle | Lungs: a normal content
+5: 55 30 3 | White seam down the mast's back | Posterior tracheal line: lung on trachea
+6: 40 82 9 | Crooked iron arch behind the stone one | Aortic arch anomalies: commonest lesions
+7: 6 53 5 | Cord L hooking under the arch | Left recurrent laryngeal nerve
+question: 1 2 3 5 6 7
+answer: 4
+== 197
+1: 95 38 5 | Door board 70 | Patients older than 70
+2: 12 63 8 | Iron hand-pump by the left group | On-pump: cardiopulmonary bypass
+3: 85 58 12 | Right group, with no pump | Off-pump, on the beating heart
+4: 46 58 6 | Bouquet mostly wide open | More grafts open on-pump: 86 vs 79%
+5: 82 62 5 | Closed and wilted buds | Fewer grafts open off-pump
+6: 36 25 10 | Big radiant portrait 6, left | Quality of life improved at 6 months
+7: 70 25 10 | Big radiant portrait 6, right | Improved in both groups alike
+8: 70 42 5 | Small black-framed portrait | Six-month mortality similar
+question: 1 2 3 4 5 8
+answer: 6 7
