@@ -1,0 +1,20 @@
+book: shahzad-2015
+== 199
+1: 50 22 13 | Pig on the scale | Freestyle stentless porcine valve
+2: 82 25 11 | Fedka on the scale | Homograft, a human donor valve
+3: 40 80 27 | Two heavy sheepskin coats left behind | Thick, heavy left ventricle
+4: 63 12 6 | Level beam of the scale | Comparable fall in LV mass index
+5: 62 6 4 | Lantern marked 8 | Eight-year survival comparable
+6: 52 52 24 | Pig and boy swimming stroke for stroke | Hospital mortality comparable
+question: 1 2
+answer: 3 4
+== 200
+1: 58 55 20 | Sealed room with no door | Lung tissue cut off from the bronchi
+2: 50 25 13 | Pipes from the aqueduct | Anomalous systemic arteries
+3: 72 47 6 | 15 painted beside it | Multiple supply arteries in 15%
+4: 9 63 6 | 75 on the old house | Intralobar: about 75%
+5: 22 60 13 | Sealed rooms inside the house | Intralobar: within the lobe's pleura
+6: 85 76 12 | Small annex with its own roof | Extralobar: its own pleural covering
+7: 87 83 5 | Cradle in the window | Extralobar often presents in infancy
+question: 1 4 5 6 7
+answer: 2 3
