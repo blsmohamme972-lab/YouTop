@@ -1038,6 +1038,360 @@
    "status": "rejected",
    "reason": "total 7/10 is below 8",
    "audited": "2026-11-19"
+  },
+  {
+   "id": "aortic-valve",
+   "concept": "Aortic valve, aortic regurgitation",
+   "terms": [
+    "aortic valve",
+    "aortic insufficiency",
+    "aortic regurgitation",
+    "aortic incompetence",
+    "aortic valve incompetence"
+   ],
+   "symbol": "the orca balloon's mouth, where the orca leaves the red engine room; a sagging mouth that drips water back is a leaking valve",
+   "anchors": [
+    "mouth"
+   ],
+   "kind": "meaning",
+   "why": "the door by which blood enters the aorta (the orca)",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "MedCosmos 21",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "tetralogy",
+   "concept": "Tetralogy of Fallot",
+   "terms": [
+    "tetralogy of fallot",
+    "tetralogy",
+    "tof",
+    "fallot"
+   ],
+   "symbol": "a giant falling Tetris piece of four glowing blocks, one feature in each block",
+   "anchors": [
+    "tetris"
+   ],
+   "kind": "sound-alike",
+   "why": "TETRA-logy = Tetris, four blocks; of FALL-ot = falling",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "MedCosmos 25",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "overriding-aorta",
+   "concept": "Overriding aorta (dextroposition)",
+   "terms": [
+    "overriding aorta",
+    "aortic overriding",
+    "dextroposition of the aorta",
+    "dextroposition"
+   ],
+   "symbol": "the orca balloon sitting astride the party wall, half over each engine room",
+   "anchors": [
+    "astride"
+   ],
+   "kind": "literal",
+   "why": "it rides over both ventricles",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 1,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "MedCosmos 25",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "pulmonary-stenosis",
+   "concept": "Pulmonary stenosis, right ventricular outflow obstruction",
+   "terms": [
+    "pulmonary stenosis",
+    "pulmonary valve stenosis",
+    "outflow obstruction",
+    "degree of pulmonary stenosis"
+   ],
+   "symbol": "a pipe of dollar bills squeezed narrow by an iron clamp",
+   "anchors": [
+    "clamp"
+   ],
+   "kind": "sound-alike + literal",
+   "why": "pull money + a narrowing you can tighten",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "MedCosmos 25",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "rvh",
+   "concept": "Right ventricular hypertrophy",
+   "terms": [
+    "right ventricular hypertrophy",
+    "rvh"
+   ],
+   "symbol": "the blue engine room with its walls swollen into thick red muscle",
+   "anchors": [
+    "thick"
+   ],
+   "kind": "literal",
+   "why": "a thick-walled right ventricle",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 1,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "MedCosmos 25",
+   "status": "approved",
+   "reason": "total 8/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "prostaglandin",
+   "concept": "Prostaglandin E1 (keeps the duct open)",
+   "terms": [
+    "prostaglandin",
+    "prostaglandins",
+    "pge1",
+    "pge 1"
+   ],
+   "symbol": "a raised beer stein, \"Prost!\", propping the duct-tape tunnel open",
+   "anchors": [
+    "stein"
+   ],
+   "kind": "sound-alike",
+   "why": "PROST-aglandin = Prost!, the toast",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "MedCosmos 28",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "banding",
+   "concept": "Pulmonary artery banding",
+   "terms": [
+    "banding",
+    "pulmonary artery banding",
+    "band"
+   ],
+   "symbol": "a leather belt buckled tight around the pipe of dollar bills",
+   "anchors": [
+    "belt"
+   ],
+   "kind": "literal",
+   "why": "a band around the pulmonary artery",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "MedCosmos 28",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "bt-shunt",
+   "concept": "Systemic-to-pulmonary (Blalock-Taussig, subclavian) shunt",
+   "terms": [
+    "subclavian-to-pulmonary artery shunt",
+    "blalock-taussig shunt",
+    "bt shunt",
+    "systemic-to-pulmonary shunt"
+   ],
+   "symbol": "a hose joining the orca's flipper to the pipe of dollar bills",
+   "anchors": [
+    "hose"
+   ],
+   "kind": "literal",
+   "why": "subclavian (flipper) to pulmonary (dollars)",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 1,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "MedCosmos 28",
+   "status": "approved",
+   "reason": "total 8/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "atresia",
+   "concept": "Atresia (a valve or vessel closed from birth)",
+   "terms": [
+    "atresia",
+    "pulmonary atresia"
+   ],
+   "symbol": "a pipe welded shut with a thick iron cap",
+   "anchors": [
+    "welded shut"
+   ],
+   "kind": "literal",
+   "why": "no opening at all",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "MedCosmos 29",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "taussig-bing",
+   "concept": "Taussig-Bing anomaly (DORV with subpulmonary VSD)",
+   "terms": [
+    "taussig-bing"
+   ],
+   "symbol": "a vendor tossing Bing cherries through the hole under the dollar pipe",
+   "anchors": [
+    "cherries"
+   ],
+   "kind": "sound-alike",
+   "why": "TAUSSIG-Bing = tossing Bing cherries",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "MedCosmos 30",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "transposition",
+   "concept": "Transposition of the great arteries",
+   "terms": [
+    "transposition of the great arteries",
+    "transposition",
+    "tga"
+   ],
+   "symbol": "the orca and the dollar pipe swapped: the orca leaving the blue engine room, the dollar pipe the red one",
+   "anchors": [
+    "swapped"
+   ],
+   "kind": "literal",
+   "why": "the great arteries trade places",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 1,
+    "drawable": 1,
+    "sticky": 2
+   },
+   "notes": "Say it in 'must': generators blur which pipe leaves which room.",
+   "firstUsed": "MedCosmos 30",
+   "status": "approved",
+   "reason": "total 8/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "dorv",
+   "concept": "Double-outlet right ventricle",
+   "terms": [
+    "double-outlet right ventricle",
+    "double outlet right ventricle",
+    "dorv"
+   ],
+   "symbol": "both the orca and the dollar pipe rising out of the blue engine room",
+   "anchors": [
+    "both"
+   ],
+   "kind": "literal",
+   "why": "two outlets from the right ventricle",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 1,
+    "drawable": 1,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "MedCosmos 30",
+   "status": "approved",
+   "reason": "total 8/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "eisenmenger",
+   "concept": "Eisenmenger syndrome (reversed shunt)",
+   "terms": [
+    "eisenmenger",
+    "eisenmenger's complex",
+    "eisenmenger syndrome"
+   ],
+   "symbol": "an iceman pushing blue blocks of ice back through the hole, from the blue side to the red",
+   "anchors": [
+    "iceman"
+   ],
+   "kind": "sound-alike",
+   "why": "EISEN-menger = ice-man; blue (venous) pushed into the red side",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
   }
  ]
 }

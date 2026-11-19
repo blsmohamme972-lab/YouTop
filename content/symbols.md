@@ -50,6 +50,19 @@ a batch that draws a listed concept any other way is refused by `batch.py`.
 | Median sternotomy | the stern of a ship opened straight down a white centre line | STERN-otomy; the median line | 9/10 | MedCosmos 5 |
 | Death, mortality | a coffin | death itself | 10/10 | Shahzad 2015 |
 | Myocardial infarction (heart attack) | a hart (a stag) brought down by an arrow (Replaces the rejected 'split red weight' of Shahzad 2015 for every new book (pictures already published stay).) | heart attack = HART attack | 10/10 | - |
+| Aortic valve, aortic regurgitation | the orca balloon's mouth, where the orca leaves the red engine room; a sagging mouth that drips water back is a leaking valve | the door by which blood enters the aorta (the orca) | 9/10 | MedCosmos 21 |
+| Tetralogy of Fallot | a giant falling Tetris piece of four glowing blocks, one feature in each block | TETRA-logy = Tetris, four blocks; of FALL-ot = falling | 10/10 | MedCosmos 25 |
+| Overriding aorta (dextroposition) | the orca balloon sitting astride the party wall, half over each engine room | it rides over both ventricles | 9/10 | MedCosmos 25 |
+| Pulmonary stenosis, right ventricular outflow obstruction | a pipe of dollar bills squeezed narrow by an iron clamp | pull money + a narrowing you can tighten | 9/10 | MedCosmos 25 |
+| Right ventricular hypertrophy | the blue engine room with its walls swollen into thick red muscle | a thick-walled right ventricle | 8/10 | MedCosmos 25 |
+| Prostaglandin E1 (keeps the duct open) | a raised beer stein, "Prost!", propping the duct-tape tunnel open | PROST-aglandin = Prost!, the toast | 10/10 | MedCosmos 28 |
+| Pulmonary artery banding | a leather belt buckled tight around the pipe of dollar bills | a band around the pulmonary artery | 9/10 | MedCosmos 28 |
+| Systemic-to-pulmonary (Blalock-Taussig, subclavian) shunt | a hose joining the orca's flipper to the pipe of dollar bills | subclavian (flipper) to pulmonary (dollars) | 8/10 | MedCosmos 28 |
+| Atresia (a valve or vessel closed from birth) | a pipe welded shut with a thick iron cap | no opening at all | 9/10 | MedCosmos 29 |
+| Taussig-Bing anomaly (DORV with subpulmonary VSD) | a vendor tossing Bing cherries through the hole under the dollar pipe | TAUSSIG-Bing = tossing Bing cherries | 10/10 | MedCosmos 30 |
+| Transposition of the great arteries | the orca and the dollar pipe swapped: the orca leaving the blue engine room, the dollar pipe the red one (Say it in 'must': generators blur which pipe leaves which room.) | the great arteries trade places | 8/10 | MedCosmos 30 |
+| Double-outlet right ventricle | both the orca and the dollar pipe rising out of the blue engine room | two outlets from the right ventricle | 8/10 | MedCosmos 30 |
+| Eisenmenger syndrome (reversed shunt) | an iceman pushing blue blocks of ice back through the hole, from the blue side to the red | EISEN-menger = ice-man; blue (venous) pushed into the red side | 10/10 | - |
 
 ## Rejected (never use them)
 
