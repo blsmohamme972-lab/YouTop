@@ -1,0 +1,102 @@
+book: shahzad-2015
+== 174
+1: 38 11 8 | Iron ring painted 3 | T1 ends at 3 cm
+2: 37 16 9 | Spiky green fruit stuck in the ring | Spiculated tumour of 3.3 cm
+3: 35 23 5 | Tag 2 on the fruit | T2a: just over 3 cm
+4: 15 12 9 | Dark knots with tag 1 on the same branch | Ipsilateral peribronchial nodes: N1
+5: 60 55 18 | Clean trunk and fork | No mediastinal or subcarinal nodes: not N2
+6: 85 80 13 | Old guard Luka smoking and coughing | Heavy smoker with a chronic cough
+question: 2 4 5 6
+answer: 1 3
+== 175
+1: 51 32 7 | Brass knot where the rod splits | Carina, where the trachea divides
+2: 51 38 6 | Wasp nest under the knot, tag 2 | Subcarinal nodes are mediastinal: N2
+3: 77 17 8 | Two soot lumps on one upper tier | Tumour and a second nodule in the same lobe
+4: 78 23 4 | Tag 3 on that tier | Separate nodule in the same lobe: T3
+5: 87 30 11 | Clean chandeliers along the ceiling | No distant spread: M0
+6: 33 57 8 | The two lumps in Avdotya's hands | The 2.1 cm tumour alone would be T1
+question: 1 3 5 6
+answer: 2 4
+== 176
+1: 16 16 7 | Gate sign 5 | Results at five years
+2: 25 65 17 | Small tin rings pushed into the pipe | PCI with paclitaxel-eluting stents
+3: 75 62 17 | New pipe around the blockage | CABG
+4: 20 87 14 | Pile of spare rings | Repeat revascularisation higher after PCI
+5: 50 41 23 | Giant balanced scale | Composite similar after PCI and CABG
+6: 31 41 4 | Coffin weight | Death from any cause
+7: 37 41 4 | Split red weight | Myocardial infarction
+8: 42 41 4 | Lightning weight | Stroke
+question: 1 2 3 4
+answer: 5 6 7 8
+== 177
+1: 50 12 22 | Chain of three links held overhead | Composite primary outcome
+2: 33 12 6 | Black link | Death from any cause
+3: 50 12 6 | Split red link | Nonfatal myocardial infarction
+4: 68 12 6 | Zigzag link | Nonfatal stroke
+5: 22 52 14 | Tin rings pushed into the pipes | PCI with drug-eluting stents
+6: 78 52 14 | New pipe welded around the blockage | CABG
+7: 25 85 20 | Higher heap of black and red links | Primary outcome more often after PCI
+8: 82 80 11 | Zigzag pile under the welded row | Stroke more frequent after CABG
+question: 5 6 7 8
+answer: 1 2 3 4
+== 178
+1: 20 38 10 | Rusted doors barely open | Severe aortic stenosis
+2: 12 45 12 | Old builders who will not knock down walls | Unfit for surgery
+3: 28 51 8 | Cart 60 at the oiled door | Standard therapy: about 60% die a year
+4: 20 42 6 | Oil dripped on the hinges | Medical therapy and balloon valvuloplasty
+5: 60 75 24 | Long path up from the town | Transfemoral route, through the groin
+6: 62 42 13 | Folding iron door frame | New valve expanded inside the old: TAVR
+7: 92 52 8 | Cart 20 at the new door | Transfemoral TAVR: about 20% die a year
+question: 1 2 4
+answer: 3 5 6 7
+== 180
+1: 75 45 22 | Sweating skater who won the race | Exercise
+2: 85 40 10 | Pies he catches | Oxygen given up easily to muscle
+3: 33 31 9 | Basket clutched to the chest | Oxygen held tightly: higher affinity
+4: 12 25 13 | Idle gentlemen shivering in furs | Cold, alkalosis, low CO2, low 2,3-DPG
+5: 82 30 12 | Steam and hot breath | Heat, CO2 and acid: the Bohr effect
+6: 30 70 20 | S-shaped track on the ice | Sigmoid oxygen-haemoglobin curve
+7: 80 72 16 | Same track shifted to the right | Curve shifted to the right
+question: 3 4 6
+answer: 1 2 5 7
+== 182
+1: 12 27 7 | Sign 16 on the old arch | 16 PRU
+2: 11 48 10 | Sheep jammed in the narrow arch | High resistance
+3: 55 40 22 | Rope twice the old width | Diameter doubled, so radius doubled
+4: 63 21 7 | Sign 1 on the new arch | 1 PRU: resistance falls sixteenfold
+5: 50 56 18 | Sheep pouring through | Low resistance, free flow
+6: 85 55 14 | Merchant expecting it twice as easy | The wrong answer of 8 PRU
+7: 20 85 17 | Thick mud on the road | Viscosity raises resistance in proportion
+question: 1 2 3 6 7
+answer: 4 5
+== 183
+1: 40 36 5 | Red seals marked beta | Transforming growth factor beta
+2: 38 34 8 | Crushed slot jamming the letters | One faulty receptor gene
+3: 60 34 6 | Working slot | The normal copy: heterozygous
+4: 38 53 8 | Father's wide-set eyes | Hypertelorism
+5: 70 72 8 | Son with the same face and cane | Autosomal dominant inheritance
+6: 25 20 10 | Twisted drainpipes | Arterial tortuosity
+7: 7 50 9 | Thin pipe that burst | Dissection at smaller diameters
+8: 90 37 10 | Neighbour's fat pipe still intact | Marfan: dissection at larger diameters
+question: 4 5 6 7 8
+answer: 1 2 3
+== 184
+1: 60 20 28 | Torn tent with sunken centre pole | Left ventricle remodelled after infarction
+2: 45 28 13 | Flaps tied apart by ropes | Tethered leaflets that cannot meet
+3: 78 40 5 | Peg pulled away | Displaced papillary muscle
+4: 15 35 10 | Fedka cutting one rope | Cutting chords reduces regurgitation
+5: 80 28 13 | Menders sewing and hanging a flap | Repair vs replacement: no clear difference
+6: 66 52 10 | 60 on the black | 5-year mortality over 60%
+7: 71 67 7 | 5 on the hub | At 5 years
+question: 1 2 3 4 5
+answer: 6 7
+== 185
+1: 22 30 12 | Stopped pendulum | On pump: the heart is stopped
+2: 15 47 12 | Boy cranking, oil pool beneath | Heart-lung machine, more blood loss
+3: 80 30 13 | Clock still ticking | Off pump: grafts on the beating heart
+4: 50 37 10 | Two bundles of three rods | Grafts done in each operation
+5: 50 25 10 | Big number 3 | A median of three, similar in both
+6: 87 47 9 | Yakov packing up early | Off pump was shorter
+7: 50 88 30 | Same strollers under both towers | Death, stroke and MI low and alike
+question: 1 2 3 6 7
+answer: 4 5
