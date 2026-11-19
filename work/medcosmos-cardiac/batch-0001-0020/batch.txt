@@ -1,6 +1,6 @@
 book: medcosmos-cardiac
 # MedCosmos Cardiac, questions 1-20. The first set written to the owner's five picture rules
-# (2026-11-19, see the youtop-lessons skill) and to content/symbols.md (all symbols still "proposed").
+# (2026-11-19, see the youtop-lessons skill) and to the audited symbols of content/symbols.json.
 # Theme: New York City today. Quotations: Jalal al-Din Rumi, the Masnavi, translated into Arabic
 # from the Persian (from memory; to be checked against a printed translation).
 
@@ -355,28 +355,28 @@ Jaundice has nothing to do with the duct, and diminished femoral pulses point to
 
 == 11
 # Optimal method of confirming a PDA in an infant -> D: two-dimensional echocardiography with continuous-wave and colour-flow Doppler.
-# mother whispering in the Whispering Gallery, the echo travels along the arch -> echocardiography (keyword: ECHO)
-# ANSWER: where the echo arrives, the blanket glows red and blue and shows the open duct-tape tunnel -> 2-D echo with colour-flow Doppler (keywords: Doppler -> red and blue police lights, ductus -> duct tape)
+# a bat circling the blanket, sending out rings of sound -> echocardiography, seeing by echoes (keyword: echo -> bat)
+# ANSWER: where the bat's echoes come back, the blanket glows red and blue and shows the open duct-tape tunnel -> 2-D echo with colour-flow Doppler (keywords: Doppler -> red and blue police-car lights, ductus -> duct tape)
 # old man's blurry instant photo -> chest film, only indirect signs
 # plumber offering a long hose -> cardiac catheterisation, invasive
 # man with a doll and a squeeze bottle of dye -> retrograde aortography via an umbilical catheter, invasive
 title: Confirming a PDA in an infant: two-dimensional echocardiography with Doppler
 titleAr: تأكيد القناة الشريانية عند الرضيع: تخطيط صدى القلب ثنائي الأبعاد مع الدوبلر
 tags: cardiac/congenital d:diagnosis q:recall l:1
-palette: warm terracotta tiles, one thread of white light, flashes of red and blue
-keywords: echocardiography -> an ECHO travelling along the arch of the Whispering Gallery; colour-flow Doppler -> flashing red and blue police-car lights; ductus arteriosus -> a silver DUCT-tape tunnel between a toy orca and a pipe of dollar bills
-must: the whisper's echo lights the duct-tape tunnel in red and blue and shows it open
-scene: The Whispering Gallery under Grand Central Terminal, a low arched ceiling of warm herringbone tiles. LEFT corner: a young mother whispers into the corner of the arch; her whisper travels along the curved tiled ceiling as a visible glowing thread of light and comes back down in the opposite corner. RIGHT corner, dominant, larger than life: her baby in a stroller holds a toy wrapped in a blanket: a small orca and a pipe of dollar bills joined by a silver duct-tape tunnel; where the echo arrives, the blanket glows with flashing RED and BLUE light like a passing police car, showing the tunnel wide open with a stream running through it. FOREGROUND: an old man holds out a blurry instant photograph in which nothing can be seen; a plumber offers a long hose; another man holds a doll and a squeeze bottle of dye. The mother waves them all away.
+palette: warm terracotta tiles, a black bat, flashes of red and blue
+keywords: echocardiography -> a small black bat sending out visible rings of sound (a bat sees by echoes); colour-flow Doppler -> flashing red and blue police-car lights; ductus arteriosus -> a silver DUCT-tape tunnel between a toy orca and a pipe of dollar bills
+must: the bat's rings of sound bounce off the blanket, and where they come back the blanket glows red and blue and shows the duct-tape tunnel open
+scene: The Whispering Gallery under Grand Central Terminal, a low arched ceiling of warm herringbone tiles. CENTRE-RIGHT, dominant, larger than life and in the strongest light: a baby in a stroller holds a toy wrapped in a blanket: a small orca and a pipe of dollar bills joined by a silver duct-tape tunnel; a small black bat has flown down from the arch and circles the blanket, sending out visible rings of sound; where the rings bounce back, the blanket glows with flashing RED and BLUE light like a passing police car, showing the tunnel inside wide open with a stream running through it. LEFT: the young mother watches, amazed. FOREGROUND: an old man holds out a blurry instant photograph in which nothing can be seen; a plumber offers a long hose; another man holds a doll and a squeeze bottle of dye. The mother waves them all away.
 story:
 تحت محطّة غراند سنترال، في رواق الهمس ذي القوس المبلّط، جلست الأمّ سارة برضيعها توبي في إحدى الزوايا.
 وكان في حضن الرضيع لعبته الّتي لا تفارقه: حوت قاتل صغير، وأنبوب فيه نقود، ونفق من شريط لاصق فضّيّ بينهما، مخبوء تحت بطّانيّة.
 وكانت سارة تريد أن تعرف: أمفتوح ذلك النفق أم مغلق؟
 فاقترح عليها عجوز أن يصوّره بآلته الفوريّة، فخرجت الصورة ضبابيّةً لا يبين فيها شيء.
 واقترح سبّاك أن يدسّ في النفق خرطومًا طويلًا، واقترح آخر أن يدفع فيه صبغًا من سرّة دمية، فهزّت سارة رأسها: «لا أريد أن أُدخل فيه شيئًا.»
-ثمّ همست في زاوية القوس همسةً خفيفة، فسرت الهمسة على السقف المقوّس خيطًا من نور، ورجع صداها في الزاوية الأخرى.
-فلمّا بلغ الصدى البطّانيّة، أضاء ما تحتها بنور أحمر ونور أزرق، كأنوار سيّارة شرطة عابرة.
+فإذا خفّاش صغير يسكن بين أقواس الرواق ينزل من السقف، ويحوم حول البطّانيّة، يرسل صيحاته الّتي لا تسمعها الأذن، حلقةً بعد حلقة.
+فلمّا ارتدّ صدى صيحاته عن البطّانيّة، أضاء ما تحتها بنور أحمر ونور أزرق، كأنوار سيّارة شرطة عابرة.
 فبان النفق كلّه، مفتوحًا على سعته، والتيّار يجري فيه من جهة الحوت إلى جهة النقود.
-فضحكت سارة وقبّلت توبي، وقالت: «همسة واحدة وصداها رأيا ما لم تره الصورة، ولم يبلغه الخرطوم.»
+فضحكت سارة وقبّلت توبي، وقالت: «خفّاش يرى بأذنيه رأى ما لم تره الصورة، ولم يبلغه الخرطوم.»
 ثمّ تذكّرت حكاية الفيل في البيت المظلم، وقالت:
 quote: «لو كان في كفّ كلّ واحد منهم شمعة، لزال الاختلاف من أقوالهم.»
 source: المثنوي، الكتاب الثالث
@@ -626,26 +626,26 @@ So B, C, D and E are the answer; partial anomalous connection of one or two vein
 == 19
 # Postoperative complications of TAPVC repair -> B and D: acute pulmonary hypertensive crisis; pulmonary venous obstruction.
 # money pipes re-joined to the red bank vault with a fresh weld -> the pulmonary veins reconnected to the left atrium (keyword: PULL MONEY)
-# ANSWER B: the ticker board blazing red, bills flying, traders screaming -> acute pulmonary hypertensive crisis (keyword: Wall Street crash)
-# ANSWER D: scar ring tightening at the fresh weld, bills piling up -> pulmonary venous obstruction
-# old engineer watching the board with a hand on the weld -> the two dangers to watch
+# ANSWER B: the pressure gauge on the money pipe jumps into the red, the pipe swells and bursts -> acute pulmonary hypertensive crisis (keyword: hypertension -> gauge in the red)
+# ANSWER D: scar ring tightening around the money pipe at the fresh weld, bills piling up -> pulmonary venous obstruction
+# old engineer watching the gauge with a hand on the weld -> the two dangers to watch
 # vault wires and dry floor untouched -> heart block and pleural effusions are not the typical complications
 title: After TAPVC repair: pulmonary hypertensive crisis and pulmonary venous obstruction
 titleAr: بعد إصلاح الاتصال الوريدي الرئوي الشاذّ الكلّي: نوبة ارتفاع الضغط الرئوي، وانسداد الأوردة الرئوية
 tags: cardiac/congenital d:complications q:recall l:2
-palette: Wall Street at night, cold steel and banknote green, a blazing red board
-keywords: pulmonary -> pipes stuffed with green dollar bills ("PULL-MONEY"); pulmonary hypertensive crisis -> a Wall Street crash on a giant ticker board; pulmonary venous obstruction -> a ring of scar tightening at the new weld
-must: the ticker board shows only red arrows and lights, no letters; the scar ring is at the fresh weld where the pipe joins the vault
-scene: Wall Street at night. CENTRE: the money pipes, stuffed with green dollar bills, have just been re-joined to the round steel door of a big red bank vault with a fresh, shining weld. ABOVE, dominant, larger than life: the giant electronic ticker board over the street suddenly blazes with red arrows plunging and soaring (no letters, only arrows and lights); the pressure in the pipes bursts, bills fly into the air, and traders scream with their hands on their heads. AT THE FRESH WELD: a thick ring of grey scar is slowly tightening around the pipe, squeezing it narrow, and bills begin to pile up before it. LEFT: an old woman engineer keeps one hand on the tightening weld while she watches the board. The vault's electric wires and its dry floor are untouched.
+palette: Wall Street at night, cold steel and banknote green, one gauge glowing red
+keywords: pulmonary -> pipes stuffed with green dollar bills ("PULL-MONEY"); pulmonary hypertensive crisis -> a big round pressure gauge on the money pipe with its needle in the red zone, the pipe swelling and bursting; pulmonary venous obstruction -> a ring of scar tightening around the money pipe at the new weld
+must: the gauge's needle is in the red and the money pipe bursts beside it; the scar ring is at the fresh weld where the pipe joins the vault
+scene: Wall Street at night. CENTRE: the money pipes, stuffed with green dollar bills, have just been re-joined to the round steel door of a big red bank vault with a fresh, shining weld. ABOVE THE WELD, dominant, larger than life and in the strongest light: a big round pressure gauge on the main money pipe has its needle swung hard into the red zone, and the pipe beside it swells like a balloon and bursts in a spray of dollar bills. AT THE FRESH WELD: a thick ring of grey scar is slowly tightening around the money pipe, squeezing it narrow, and bills begin to pile up before it. LEFT: an old woman engineer keeps one hand on the tightening weld while she watches the gauge. The vault's electric wires and its dry floor are untouched.
 story:
 بعد أشهر من الضياع، أعاد المهندسون أنابيب المال كلّها إلى خزنة حمراء واحدة في شارع وول، ولحموها في بابها لحامًا جديدًا يلمع.
 فتدفّقت الدولارات في الأنابيب إلى الخزنة، وصفّق الموظّفون، وظنّوا أنّ العسر قد انتهى.
 لكنّ كبيرة المهندسين، العجوز أوفيليا، لم تصفّق، وظلّت تراقب أمرين.
-فأمّا الأوّل فلوحة الأسعار الكبرى فوق الشارع: ففي ليلة هادئة اشتعلت فجأةً بالسّهام الحمر، وانفجر الضغط في الأنابيب، وتطايرت الأوراق، وصرخ الوسطاء.
-فأسرعت أوفيليا تهدّئ الأنابيب، وتفتح لها المنافذ، وتطفئ الذعر، حتّى خمدت اللوحة.
+فأمّا الأوّل فعدّاد الضغط الكبير على الأنبوب: ففي ليلة هادئة قفزت إبرته فجأةً إلى الأحمر، فانتفخ الأنبوب وانفجر، وتطايرت الأوراق في الشارع.
+فأسرعت أوفيليا تهدّئ الأنبوب، وتفتح له المنافذ، حتّى رجعت الإبرة عن الأحمر.
 وأمّا الثاني فأبطأ وأخبث: عند موضع اللحام الجديد أخذت حلقة من الندب تشتدّ يومًا بعد يوم، وتضيّق الأنبوب.
 فبدأت الأوراق تتكدّس قبلها، وقلّ ما يصل منها إلى الخزنة.
-فقال لها مساعدها الشابّ: «ألا نخاف على أسلاك الخزنة، ومن الماء في أرضها؟» فقالت: «لا يا بنيّ؛ عيني على اللوحة وعلى اللحام.»
+فقال لها مساعدها الشابّ: «ألا نخاف على أسلاك الخزنة، ومن الماء في أرضها؟» فقالت: «لا يا بنيّ؛ عيني على العدّاد وعلى اللحام.»
 ثمّ وضعت يدها على اللحام الّذي يضيق، وقالت:
 quote: «طِبْ نفسًا أيّها العشق، يا طيّب الهوى، يا طبيب علّاتنا كلّها.»
 source: المثنوي، الكتاب الأول
