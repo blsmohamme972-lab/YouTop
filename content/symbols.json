@@ -1,0 +1,1043 @@
+{
+ "about": "Recurring symbols (the owner's rule 5). Source of truth; tools/content/symbols.py audits it and writes content/symbols.md. Scores 0-2: link (sound-alike or literal tie to the term), concrete, unmistakable, drawable (an image generator gets it right), sticky (remembered at first sight). A symbol is approved when every score is at least 1, the total is at least 8, and its anchor words are its own. Terms starting with '=' match only a keyword term that is exactly that word.",
+ "symbols": [
+  {
+   "id": "hart-hotel",
+   "concept": "Heart, its interior and chambers",
+   "terms": [
+    "=heart",
+    "heart chambers",
+    "=heart interior"
+   ],
+   "symbol": "the HART Hotel: a narrow old hotel seen cut open like a doll's house, a stag's head (a hart) over its door; blue wing on the viewer's left = right heart, red wing on the right = left heart; glass-roofed atrium lobbies upstairs, engine rooms with ventilation fans downstairs; the party wall = the septum",
+   "anchors": [
+    "hotel"
+   ],
+   "kind": "sound-alike + memory palace",
+   "why": "hart = heart; one fixed map for every intracardiac lesson",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "The stag's head is small; the building carries the meaning. Keep the colours (blue = right, red = left) in every picture: generators get colours right more often than left and right.",
+   "firstUsed": "MedCosmos 13",
+   "status": "approved",
+   "reason": "total 8/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "atrium",
+   "concept": "Atrium",
+   "terms": [
+    "atrium",
+    "atria",
+    "atrial"
+   ],
+   "symbol": "a glass-roofed atrium lobby on the upper floor of the HART Hotel",
+   "anchors": [
+    "atrium"
+   ],
+   "kind": "literal",
+   "why": "the word itself",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "MedCosmos 13",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "ventricle",
+   "concept": "Ventricle",
+   "terms": [
+    "ventricle",
+    "ventricles",
+    "ventricular"
+   ],
+   "symbol": "a ground-floor engine room of the HART Hotel with a huge ventilation fan and thick brick walls",
+   "anchors": [
+    "fan",
+    "vent"
+   ],
+   "kind": "sound-alike",
+   "why": "VENT-ricle",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 1,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "MedCosmos 14",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "svc",
+   "concept": "Superior vena cava",
+   "terms": [
+    "superior vena cava",
+    "svc"
+   ],
+   "symbol": "the chimney of the HART Hotel's blue wing",
+   "anchors": [
+    "chimney"
+   ],
+   "kind": "meaning",
+   "why": "blood comes down into the right atrium from above",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "MedCosmos 13",
+   "status": "approved",
+   "reason": "total 8/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "sinus-venosus",
+   "concept": "Sinus venosus ASD",
+   "terms": [
+    "sinus venosus"
+   ],
+   "symbol": "a white marble Venus statue in a hole at the very top of the upper party wall, under the chimney",
+   "anchors": [
+    "venus"
+   ],
+   "kind": "sound-alike",
+   "why": "VEN-osus = Venus",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "MedCosmos 13",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "secundum",
+   "concept": "Secundum ASD",
+   "terms": [
+    "secundum"
+   ],
+   "symbol": "a round clock with a sweeping second hand in the middle of the upper party wall",
+   "anchors": [
+    "clock"
+   ],
+   "kind": "sound-alike",
+   "why": "SECUND-um = second",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "MedCosmos 13",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "primum",
+   "concept": "Ostium primum ASD",
+   "terms": [
+    "ostium primum",
+    "primum"
+   ],
+   "symbol": "a prime rib roast in a hole at the very bottom of the upper party wall, beside the valve doors",
+   "anchors": [
+    "prime rib",
+    "rib"
+   ],
+   "kind": "sound-alike",
+   "why": "PRIM-um = prime",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 1,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Say 'prime rib roast on a platter' so it is not just any meat.",
+   "firstUsed": "MedCosmos 15",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "coronary-sinus",
+   "concept": "Coronary sinus (and its ASD)",
+   "terms": [
+    "coronary sinus"
+   ],
+   "symbol": "a sink with a little green crown, set in the floor of the blue lobby",
+   "anchors": [
+    "sink"
+   ],
+   "kind": "sound-alike",
+   "why": "corona + sinus = crown + sink",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 1,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 8/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "aorta",
+   "concept": "Aorta, aortic arch",
+   "terms": [
+    "aorta",
+    "aortic arch",
+    "aortic"
+   ],
+   "symbol": "a giant orca parade balloon; its arched back is the aortic arch",
+   "anchors": [
+    "orca"
+   ],
+   "kind": "sound-alike",
+   "why": "a-OR-ta / OR-ca",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "MedCosmos 7",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "coarctation",
+   "concept": "Coarctation",
+   "terms": [
+    "coarctation"
+   ],
+   "symbol": "a rope pinching the orca's waist just past its left flipper",
+   "anchors": [
+    "rope"
+   ],
+   "kind": "literal",
+   "why": "a narrowing you can see",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "MedCosmos 7",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "subclavian",
+   "concept": "Subclavian artery",
+   "terms": [
+    "subclavian"
+   ],
+   "symbol": "the orca balloon's flipper",
+   "anchors": [
+    "flipper"
+   ],
+   "kind": "meaning",
+   "why": "the subclavian feeds the arm; the flipper is the orca's arm",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Left and right flippers are easy to confuse: say which one in 'must'.",
+   "firstUsed": "MedCosmos 7",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "pulmonary",
+   "concept": "Pulmonary (artery, veins, circulation, lungs)",
+   "terms": [
+    "pulmonary",
+    "pulmonary artery",
+    "pulmonary veins",
+    "pulmonary vein",
+    "lung",
+    "lungs"
+   ],
+   "symbol": "pipes, ropes or slings of green dollar bills",
+   "anchors": [
+    "dollar",
+    "money"
+   ],
+   "kind": "sound-alike",
+   "why": "PUL-MON-ary = pull money",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "MedCosmos 8",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "hypertension",
+   "concept": "Hypertension, high pressure",
+   "terms": [
+    "hypertension",
+    "hypertensive",
+    "high pressure"
+   ],
+   "symbol": "a big round pressure gauge with its needle swung into the red zone",
+   "anchors": [
+    "gauge"
+   ],
+   "kind": "literal",
+   "why": "pressure, read off a gauge; red = too high",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "MedCosmos 19",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19",
+   "family": "pressure"
+  },
+  {
+   "id": "pulmonary-hypertensive-crisis",
+   "concept": "Pulmonary hypertensive crisis",
+   "terms": [
+    "pulmonary hypertensive crisis",
+    "pulmonary hypertension"
+   ],
+   "symbol": "a pipe of dollar bills whose pressure gauge jumps into the red; the pipe swells and bursts",
+   "anchors": [
+    "gauge"
+   ],
+   "kind": "sound-alike + literal",
+   "why": "pull money + a gauge in the red",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Replaces the rejected Wall Street crash.",
+   "firstUsed": "MedCosmos 19",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19",
+   "family": "pressure"
+  },
+  {
+   "id": "wall-street-crash",
+   "concept": "Pulmonary hypertensive crisis (first proposal)",
+   "terms": [],
+   "symbol": "a Wall Street crash on a red ticker board",
+   "anchors": [
+    "ticker"
+   ],
+   "kind": "meaning",
+   "why": "money + panic",
+   "scores": {
+    "link": 1,
+    "concrete": 1,
+    "unmistakable": 1,
+    "drawable": 1,
+    "sticky": 2
+   },
+   "notes": "Rejected by the audit: a crash is an event, not a thing, and ticker boards come out as gibberish text.",
+   "firstUsed": "",
+   "status": "rejected",
+   "reason": "total 6/10 is below 8",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "ductus",
+   "concept": "Ductus arteriosus",
+   "terms": [
+    "ductus arteriosus",
+    "ductus",
+    "pda"
+   ],
+   "symbol": "a tunnel of shiny silver duct tape between the orca and the money pipe",
+   "anchors": [
+    "duct"
+   ],
+   "kind": "sound-alike",
+   "why": "DUCT-us = duct tape",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "MedCosmos 10",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "coronary",
+   "concept": "Coronary artery",
+   "terms": [
+    "coronary artery",
+    "coronary arteries",
+    "coronary"
+   ],
+   "symbol": "the green crown of the Statue of Liberty, seven spikes",
+   "anchors": [
+    "crown"
+   ],
+   "kind": "sound-alike",
+   "why": "corona = crown; CORON-ary",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "MedCosmos 1",
+   "family": "corona",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "ischaemic-heart-disease",
+   "concept": "Ischaemic heart disease",
+   "terms": [
+    "ischaemic heart disease",
+    "ischemic heart disease",
+    "ischaemia",
+    "ischemia"
+   ],
+   "symbol": "the Liberty crown with its spikes clogged by black tar",
+   "anchors": [
+    "crown"
+   ],
+   "kind": "meaning",
+   "why": "the crown that feeds the heart is blocked",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Shares the crown with 'coronary' on purpose: same family.",
+   "firstUsed": "MedCosmos 1",
+   "family": "corona",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "mitral",
+   "concept": "Mitral valve",
+   "terms": [
+    "mitral valve",
+    "mitral"
+   ],
+   "symbol": "a bishop's mitre, two leaves meeting at a point",
+   "anchors": [
+    "mitre"
+   ],
+   "kind": "sound-alike",
+   "why": "MITR-al = mitre; the classic image",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "MedCosmos 15",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "tricuspid",
+   "concept": "Tricuspid valve",
+   "terms": [
+    "tricuspid valve",
+    "tricuspid"
+   ],
+   "symbol": "a trident, three prongs",
+   "anchors": [
+    "trident"
+   ],
+   "kind": "sound-alike",
+   "why": "TRI-cuspid = three points",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "MedCosmos 20",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "conduction",
+   "concept": "Conduction system, bundle of His, bundle branches",
+   "terms": [
+    "conduction bundle",
+    "bundle branch",
+    "bundle branch block",
+    "bundle of his",
+    "conduction"
+   ],
+   "symbol": "a bundle of branches crackling with electric sparks",
+   "anchors": [
+    "branches"
+   ],
+   "kind": "literal",
+   "why": "the bundle and its branches, literally",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 1,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "The sparks tell it from firewood.",
+   "firstUsed": "MedCosmos 16",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "cpr",
+   "concept": "CPR, chest compression",
+   "terms": [
+    "cpr",
+    "chest compression",
+    "cardiopulmonary resuscitation"
+   ],
+   "symbol": "a New York police officer pushing down with straight, locked arms",
+   "anchors": [
+    "police",
+    "cop"
+   ],
+   "kind": "sound-alike + action",
+   "why": "C-P-R = COP-eR, and the compression itself",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "MedCosmos 1",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "cardioversion",
+   "concept": "Electrical cardioversion, defibrillation",
+   "terms": [
+    "cardioversion",
+    "defibrillation",
+    "defibrillator"
+   ],
+   "symbol": "a car being jump-started with sparking jumper cables",
+   "anchors": [
+    "car",
+    "jumper cables"
+   ],
+   "kind": "sound-alike",
+   "why": "CAR-dioversion; an electric shock",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "MedCosmos 2",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "pacemaker",
+   "concept": "Pacemaker, pacing",
+   "terms": [
+    "pacemaker",
+    "pacing"
+   ],
+   "symbol": "a marching drummer keeping a steady beat",
+   "anchors": [
+    "drummer"
+   ],
+   "kind": "meaning",
+   "why": "the one who makes the pace",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Never put a drummer in a picture for decoration.",
+   "firstUsed": "MedCosmos 3",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "asystole",
+   "concept": "Asystole",
+   "terms": [
+    "asystole"
+   ],
+   "symbol": "a nun, 'a sister', lying perfectly still on a flat white line",
+   "anchors": [
+    "nun"
+   ],
+   "kind": "sound-alike",
+   "why": "a-SIS-tole = a sister; the flat line",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "MedCosmos 3",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "epinephrine",
+   "concept": "Epinephrine (adrenaline)",
+   "terms": [
+    "epinephrine",
+    "adrenaline"
+   ],
+   "symbol": "a lit red firework rocket",
+   "anchors": [
+    "firework"
+   ],
+   "kind": "meaning",
+   "why": "the adrenaline rush",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "The weakest approved symbol (no sound-alike); replace it if a better one is found.",
+   "firstUsed": "MedCosmos 3",
+   "status": "approved",
+   "reason": "total 8/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "atropine",
+   "concept": "Atropine",
+   "terms": [
+    "atropine"
+   ],
+   "symbol": "a shining gold trophy cup",
+   "anchors": [
+    "trophy"
+   ],
+   "kind": "sound-alike",
+   "why": "a-TRO-pine = TRO-phy",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "MedCosmos 3",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "calcium-gluconate",
+   "concept": "Calcium gluconate",
+   "terms": [
+    "calcium gluconate",
+    "calcium"
+   ],
+   "symbol": "a big can of white chalky glue",
+   "anchors": [
+    "glue"
+   ],
+   "kind": "sound-alike",
+   "why": "GLU-conate = glue; calcium = chalk",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 1,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "MedCosmos 3",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "echo",
+   "concept": "Echocardiography, ultrasound",
+   "terms": [
+    "echocardiography",
+    "echocardiogram",
+    "echo",
+    "ultrasound"
+   ],
+   "symbol": "a bat sending out rings of sound and seeing by their echoes",
+   "anchors": [
+    "bat"
+   ],
+   "kind": "sound-alike + meaning",
+   "why": "ECHO-cardiography; a bat sees by echoes, as ultrasound does",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Replaces the rejected 'echo in the Whispering Gallery'.",
+   "firstUsed": "MedCosmos 11",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "echo-gallery",
+   "concept": "Echocardiography (first proposal)",
+   "terms": [],
+   "symbol": "an echo travelling along the Whispering Gallery as a thread of light",
+   "anchors": [
+    "whispering"
+   ],
+   "kind": "sound-alike",
+   "why": "echo",
+   "scores": {
+    "link": 2,
+    "concrete": 1,
+    "unmistakable": 1,
+    "drawable": 1,
+    "sticky": 2
+   },
+   "notes": "Rejected by the audit: an echo is not a thing; a thread of light can mean anything.",
+   "firstUsed": "",
+   "status": "rejected",
+   "reason": "total 7/10 is below 8",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "doppler",
+   "concept": "Doppler, colour flow",
+   "terms": [
+    "doppler",
+    "colour-flow doppler",
+    "color-flow doppler",
+    "colour flow"
+   ],
+   "symbol": "flashing red and blue police-car lights",
+   "anchors": [
+    "police-car",
+    "red and blue"
+   ],
+   "kind": "meaning",
+   "why": "the two colours of colour Doppler; a passing siren is the Doppler effect",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "In a Doppler picture say 'red and blue police-car lights'; a police officer alone means CPR.",
+   "firstUsed": "MedCosmos 11",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "stroke",
+   "concept": "Stroke, cerebrovascular accident",
+   "terms": [
+    "stroke",
+    "cerebrovascular accident",
+    "cva"
+   ],
+   "symbol": "a lightning bolt striking the head",
+   "anchors": [
+    "lightning"
+   ],
+   "kind": "sound-alike",
+   "why": "a stroke of lightning",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "Shahzad 2015",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "chf",
+   "concept": "Congestive heart failure",
+   "terms": [
+    "congestive heart failure",
+    "heart failure",
+    "chf"
+   ],
+   "symbol": "a traffic jam: yellow taxis gridlocked bumper to bumper",
+   "anchors": [
+    "traffic jam",
+    "gridlock",
+    "jam"
+   ],
+   "kind": "sound-alike",
+   "why": "congestion",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "MedCosmos 12",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "endocarditis",
+   "concept": "Endocarditis",
+   "terms": [
+    "endocarditis",
+    "infective endocarditis"
+   ],
+   "symbol": "playing cards sprouting broccoli and moss",
+   "anchors": [
+    "cards"
+   ],
+   "kind": "sound-alike",
+   "why": "endo-CARD-itis; vegetations",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 1,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "MedCosmos 12",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "compliance",
+   "concept": "Compliance of a chamber",
+   "terms": [
+    "compliance",
+    "compliant"
+   ],
+   "symbol": "a soft bouncy castle (compliant) against a stiff steel vault",
+   "anchors": [
+    "bouncy castle"
+   ],
+   "kind": "meaning",
+   "why": "soft fills easily",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "MedCosmos 14",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "sternotomy",
+   "concept": "Median sternotomy",
+   "terms": [
+    "median sternotomy",
+    "sternotomy"
+   ],
+   "symbol": "the stern of a ship opened straight down a white centre line",
+   "anchors": [
+    "stern"
+   ],
+   "kind": "sound-alike",
+   "why": "STERN-otomy; the median line",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 1,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "MedCosmos 5",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "death",
+   "concept": "Death, mortality",
+   "terms": [
+    "death",
+    "mortality",
+    "all-cause death"
+   ],
+   "symbol": "a coffin",
+   "anchors": [
+    "coffin"
+   ],
+   "kind": "literal",
+   "why": "death itself",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "Shahzad 2015",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "mi",
+   "concept": "Myocardial infarction (heart attack)",
+   "terms": [
+    "myocardial infarction",
+    "infarction",
+    "heart attack",
+    "mi"
+   ],
+   "symbol": "a hart (a stag) brought down by an arrow",
+   "anchors": [
+    "stag",
+    "hart"
+   ],
+   "kind": "sound-alike",
+   "why": "heart attack = HART attack",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Replaces the rejected 'split red weight' of Shahzad 2015 for every new book (pictures already published stay).",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "split-weight",
+   "concept": "Myocardial infarction (Shahzad 2015)",
+   "terms": [],
+   "symbol": "a split red weight",
+   "anchors": [
+    "weight"
+   ],
+   "kind": "meaning",
+   "why": "",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 1,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Rejected by the audit: nothing in it says 'infarction'.",
+   "firstUsed": "Shahzad 2015",
+   "status": "rejected",
+   "reason": "total 7/10 is below 8",
+   "audited": "2026-11-19"
+  }
+ ]
+}

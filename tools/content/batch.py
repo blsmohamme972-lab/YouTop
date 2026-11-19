@@ -342,6 +342,8 @@ def build_lesson(cfg, b, q, book_dir, old, force, problems, warnings):
 def cmd_build(args):
     head, items = parse(args.batch)
     cfg = book_config(head["book"])
+    if cfg.get("soundAlikes"):
+        symbol_check(items)
     master = load_master(args.master)
     folder = pathlib.Path(args.folder).resolve()
     book_dir = ensure_folder(folder, cfg)
@@ -387,6 +389,18 @@ def cmd_build(args):
     print(f"Publish:  python3 tools/content/publish.py {folder} -m \"{cfg['sourceLabel']}: lessons {min(numbers)}-{max(numbers)}\"")
 
 
+def symbol_check(items):
+    """The owner's rule 5: a recurring concept is drawn with its audited symbol (tools/content/symbols.py)."""
+    import symbols
+    problems, local = symbols.check_items(items)
+    if local:
+        print(f"{len(local)} keyword(s) are not recurring symbols (fine for one-offs; add one to content/symbols.json if it will come back):")
+        for line in local:
+            print("   ", line)
+    if problems:
+        die("recurring symbols:\n  " + "\n  ".join(problems))
+
+
 def cmd_prompts(args):
     """The image prompts from 'palette', 'scene' and 'words' alone, so the owner can start on the pictures at once."""
     head, items = parse(args.batch)
@@ -394,6 +408,7 @@ def cmd_prompts(args):
     missing = [str(b["n"]) for b in items if not (b.get("scene") and b.get("palette"))]
     if missing or not items:
         die("these questions have no 'scene' and 'palette' yet: " + (", ".join(missing) or "none in the file"))
+    symbol_check(items)
     numbers = [b["n"] for b in items]
     out = pathlib.Path(args.output or pathlib.Path(args.batch).with_name(f"image-prompts-{min(numbers)}-{max(numbers)}.json"))
     out.write_text(json.dumps({"items": [{"info": image_prompt(cfg, b)} for b in items]}, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")

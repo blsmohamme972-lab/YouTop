@@ -135,7 +135,7 @@ a gate, a forge at dusk, a summer fair, a monastery at evening…). The frame is
 (2) every abstract term becomes a concrete English sound-alike object (`keywords:`); (3) the
 answer is signalled (centre, size, light) and every decorative element is removed; (4) ordered
 facts sit on a route (a memory palace); (5) recurring concepts use the same symbol in every book,
-from `content/symbols.md`, where new symbols are added only with the owner's approval. The prompt
+from `content/symbols.json`, where new symbols are added only after `tools/content/symbols.py audit` approves them (the owner's decision: the audit decides). The prompt
 is the most important step of the work, the story the second.
 
 ### Step 4 — quotations
