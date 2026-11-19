@@ -1,0 +1,100 @@
+book: shahzad-2015
+== 186
+1: 20 13 7 | Clock at 2 over the boiler | Spasm within about two hours of surgery
+2: 45 73 10 | New hose twisted, nothing inside | Spasm of a normal artery, no stenosis
+3: 90 5 7 | Red signal flag | Marked ST-segment elevation
+4: 90 50 9 | Washerwoman Dasha collapsed | Severe hypotension, circulatory collapse
+5: 12 40 11 | Stoker forcing the pump | Inotropes and pressors can worsen the spasm
+6: 31 55 8 | Jar marked N, left | Nitroglycerin
+7: 70 55 8 | Jar marked N, right | Sublingual nifedipine
+8: 50 66 6 | Warm oil loosening the twist | Vasodilators relax the spasm
+question: 1 2 3 4 5
+answer: 6 7 8
+== 187
+1: 15 50 13 | Rusty pipes with brass welded round | Grafted arteries with proximal disease
+2: 15 85 11 | New pipe left unconnected | Incomplete revascularisation
+3: 31 60 5 | Thin clean pipe beside them | Ungrafted normal left anterior descending
+4: 74 42 16 | Great clean pipe marked R | Ungrafted normal dominant right coronary
+5: 43 38 9 | Pipe clenched like a fist | Coronary spasm
+6: 87 22 9 | Palace lamps shrunk to blue sparks | Sudden hypotension
+7: 77 75 12 | Valve wheel he dares not open | Reluctance to give vasodilators
+question: 1 2 3 5 6 7
+answer: 4
+== 188
+1: 35 35 16 | Strong, healthy draught horse | Normal left ventricular function
+2: 18 82 14 | Trough filled to 13 | Wedge pressure 13 mmHg: filling adequate
+3: 85 34 10 | Brake wheel 4100 | SVR index 4100: far above normal
+4: 58 52 13 | Brake jaws clamped on every wheel | The circulation is clamped down
+5: 12 35 11 | Driver whipping the horse | Dobutamine or epinephrine: wrong first move
+6: 74 14 6 | Can marked N | Nitroglycerin 1.0 mcg/kg/min
+7: 79 21 5 | Oil loosening the brake screw | Lowering the afterload
+question: 1 2 3 4 5
+answer: 6 7
+== 189
+1: 22 30 14 | Bellows opened to 1000 | Tidal volume 1000 ml: far too large
+2: 30 22 6 | Seams splitting | Peak inspiratory pressure 45 cmH2O
+3: 15 57 8 | Scale showing 70 | A 70 kg man
+4: 55 30 15 | Dizzy, swooning dancers | Alkalosis, pH 7.49, from over-ventilation
+5: 88 30 11 | Fyokla shutting the window | Lowering FiO2: later, not first
+6: 63 74 14 | Bellows held at 700 | Decrease the tidal volume to 700 ml
+question: 1 2 3 4 5
+answer: 6
+== 190
+1: 43 22 18 | New bell being hoisted | Elective CABG goes ahead
+2: 88 48 9 | Stairway half filled with firewood | Right internal carotid stenosis
+3: 82 43 5 | Woodpile marked 50 | 50% stenosis
+4: 82 25 9 | Bell-ringer climbing freely | No neurological symptoms
+5: 94 12 6 | Chalk line at 80 | Endarterectomy only from 80%
+6: 13 48 12 | Official and carpenter shouting stop | Delay or carotid surgery first: wrong
+7: 80 57 7 | Boy with lantern and tally stick | Serial Duplex follow-up
+question: 2 3 4 5 6
+answer: 1 7
+== 191
+1: 48 68 8 | Sign 1 on the chimney | At one year
+2: 13 40 12 | Left tower cut by a whole tier | Lobectomy
+3: 80 47 7 | Small stuffed hole, right tower | Segmentectomy without a stapler
+4: 93 45 5 | Painted 3 | Local recurrence about three times higher
+5: 50 20 26 | Two equal flocks of doves | Similar lung function at one year
+question: 2 3 4
+answer: 1 5
+== 192
+1: 35 65 13 | Left row, many pipes clogged | Aspirin alone: more vein grafts lost
+2: 80 72 13 | Right row, fewer clogged | Clopidogrel added: less occlusion
+3: 15 90 10 | Iron pipe with no crust | Arterial grafts: patency unchanged
+4: 30 82 9 | Red drops on the salt | Major bleeding: only a trend upward
+5: 58 30 7 | 30 over the church door | At 30 days
+6: 41 33 7 | Heavy plaque 1.9 | Mortality 1.9% with aspirin alone
+7: 75 33 5 | Small plaque 0.8 | Mortality 0.8% with dual therapy
+question: 1 2 3 4
+answer: 5 6 7
+== 195
+1: 40 30 13 | Clay chimney pipe | The oesophagus
+2: 50 74 13 | Round bubble at the base of the pipe | Duplication cyst, lower oesophagus
+3: 52 73 6 | 60 on the bubble | About 60% of cases
+4: 55 63 4 | Clear still water inside | Homogeneous, water attenuation on CT
+5: 35 70 5 | Red glaze on one side only | Gastric mucosa in only some cysts
+6: 15 52 13 | Hundreds of sound jars | Rare: 0.5 to 2.5% of lesions
+7: 68 50 15 | Cutting wire in the potter's hands | Complete surgical excision
+question: 1 4 5 6 7
+answer: 2 3
+== 196
+1: 57 20 20 | Ice elephant, trunk into the hole | Frozen elephant trunk
+2: 52 48 13 | Organ pipes all cracked at once | Multiple organ failure
+3: 50 33 9 | Black mourning ribbon | Death
+4: 8 12 7 | Black flag 8 | Early mortality about 8%
+5: 85 72 10 | Sledge boy stiff by peg 5 | Spinal cord injury about 5%
+6: 15 20 11 | Three heavy hourglasses | Bypass, ischaemic and arrest times
+7: 28 19 3 | Light hourglass on a thread | Cerebral perfusion time: only moderate
+question: 4 5 6 7
+answer: 1 2 3
+== 198
+1: 54 16 6 | Sign 5 on the lock house | EuroSCORE 5 or more
+2: 25 18 18 | Drained lock with horse-driven pump | On-pump: heart stopped, bypass
+3: 75 25 17 | Lock left running with water | Off-pump, on the beating heart
+4: 20 30 10 | Three new oak beams, left | About 3.3 grafts on-pump
+5: 72 30 9 | Three new oak beams, right | About 3.2 grafts off-pump
+6: 28 72 14 | Heap marked 15 | Composite outcome 15%
+7: 74 72 14 | Heap marked 17 | Composite outcome 17%
+8: 50 50 18 | The two foremen shrugging | No significant difference at 30 days
+question: 1 2 3 4 5
+answer: 6 7 8
