@@ -1,0 +1,15 @@
+{
+  "id": "medcosmos-cardiac",
+  "short": "medcos",
+  "sourceLabel": "MedCosmos Cardiac",
+  "questions": 156,
+  "chapterSize": 100,
+  "author": "جلال الدين الرومي",
+  "theme": "New York City today; stories end with a real line of Rumi (the Masnavi), in Arabic",
+  "soundAlikes": true,
+  "imagesFolder": "",
+  "masters": {
+    "medcosmos-cardiac-156-q.jsonl": "1vymXJ2XpnuyoU5_twkwYxlQu0H2SOng4"
+  },
+  "style": "a vivid, cinematic realist painting set in present-day New York City, rich oil-paint texture, dramatic directional light and deep shadow, saturated colour, every object crisp and instantly recognisable"
+}

@@ -36,6 +36,9 @@ The batch file (UTF-8 text). A line "== 41" starts question 41; then "key: value
     must: the clerk holds up exactly two fingers; the left door leaf is the larger one
                                           (optional: the few details the story depends on; the prompt
                                            repeats them at its end as things that must be exactly so)
+    keywords: atropine -> a gold TROPHY ("a-TRO-pine"); asystole -> a nun, "a SISTER", lying still
+                                          (the owner's rule 2: every abstract term of the answer as a
+                                           concrete sound-alike object; recurring ones from content/symbols.md)
     scene: dawn at the only gate of a small hill fortress. ...
     story:
     كان لقلعة التلّ بابٌ واحد ...
@@ -72,7 +75,7 @@ import argparse, json, pathlib, re, shutil, subprocess, sys, unicodedata
 ROOT = pathlib.Path(__file__).resolve().parents[2]
 DEFAULT_FOLDER = ROOT / ".content-work"
 LATIN = re.compile(r"[A-Za-z]")
-KEYS = {"title", "titleAr", "tags", "palette", "words", "must", "scene", "story", "quote", "source", "explanation", "note"}
+KEYS = {"title", "titleAr", "tags", "palette", "words", "must", "keywords", "scene", "story", "quote", "source", "explanation", "note"}
 MULTI = {"story", "explanation"}
 
 
@@ -198,23 +201,41 @@ def parse(path, multi=MULTI, keys=KEYS):
 
 
 def image_prompt(cfg, b):
+    """The owner's frame, with the five rules of 2026-11-19 (see the youtop-lessons skill)."""
     words = b.get("words", "").strip()
     labels = (f"No written text anywhere except exactly these short labels, large and clearly legible, spelled exactly: {words}. "
               if words else "No written text, letters or numbers anywhere in the image. ")
+    # Only the objects go into the prompt ("term -> object (why)" keeps the right-hand side, without the why):
+    # medical words in a prompt tempt the generator to draw anatomy or write text.
+    objects = []
+    for part in b.get("keywords", "").split(";"):
+        part = re.split(r"->|→", part)[-1]
+        part = re.sub(r"\([^)]*\)|\"[^\"]*\"|“[^”]*”", "", part)
+        part = re.sub(r"\s+", " ", re.sub(r"\s*,\s*,", ",", part)).strip().strip(",").strip().rstrip(".")
+        # Capitals mark the sound-alike for the writer; in a prompt they tempt the generator to letter the word.
+        part = re.sub(r"\b\w*[A-Z]{2,}\w*\b", lambda m: m.group(0).lower(), part)
+        if part:
+            objects.append(part)
+    keywords = "; ".join(objects)
+    folder = cfg.get("imagesFolder")
+    where = (f"Save the image with the file name {b['n']} and upload it to: https://drive.google.com/drive/folders/{folder}"
+             if folder else f"Save the image with the file name {b['n']}.")
     return (f"{b['n']}. Generate one highly memorable image. Vertical 9:16 aspect ratio. "
             f"Style: {cfg['style']}. "
             f"Colour scheme: {b['palette']}. "
-            "Composition: ONE dominant focal point that the eye finds at once, drawn boldly and larger than life; only the few "
-            "elements described below, each of them big, clearly separated from the others and placed in its own area of the "
-            "frame, with calm empty space between them. No crowd of small details, no clutter, no extra people, nothing that "
-            "is not described. Faces full of feeling. "
-            "Scene: " + b["scene"].rstrip() +
-            " Every object must be visually meaningful, distinctive and easy to recall, and all of them must be linked by "
+            "Composition: ONE dominant focal point that the eye finds at once, drawn boldly and larger than life, in the "
+            "centre and in the strongest light: it carries the main message. Only the few elements described below, each of "
+            "them big, clearly separated from the others and placed in its own area of the frame, with calm empty space between "
+            "them. Nothing decorative: no crowd, no extra people, no props or background details that are not described. "
+            "Faces full of feeling. "
+            "Scene: " + b["scene"].rstrip() + " " +
+            (f"These objects carry the meaning, so each must be big, unmistakable and clearly recognisable for what it is: "
+             f"{keywords}. " if keywords else "") +
+            "Every object must be visually meaningful, distinctive and easy to recall, and all of them must be linked by "
             "physical interaction and cause-and-effect inside this one scene. No literal anatomy, no organs, no medical "
             "equipment, no unrelated objects. " + labels +
             (f"These details matter most and must be painted exactly as stated: {b['must'].strip().rstrip('.')}. " if b.get("must") else "") +
-            f"Save the image with the file name {b['n']} and upload it to: "
-            f"https://drive.google.com/drive/folders/{cfg['imagesFolder']}")
+            where)
 
 
 def lint(cfg, b, q, used, problems, warnings):
@@ -224,6 +245,8 @@ def lint(cfg, b, q, used, problems, warnings):
             problems.append(f"{w}: '{key}' is missing")
     if q is None:
         problems.append(f"{w}: not in the master question file(s) given")
+    if cfg.get("soundAlikes") and not b.get("keywords"):
+        warnings.append(f"{w}: no 'keywords' (the owner's rule 2: every abstract term of the answer as a concrete sound-alike object)")
     story, expl = b.get("story") or [], b.get("explanation") or []
     if story and not 8 <= len(story) <= 11:
         warnings.append(f"{w}: the story has {len(story)} sentences (the guide asks for 8 to 11)")
@@ -409,7 +432,7 @@ def cmd_new(args):
         lines += [f"== {n}", "# " + q["stem"].replace("\n", " "), "# answer: " + q["options"][q["answer"]]]
         if q.get("figure"):
             lines.append("# this question has a figure (it is shown above the options)")
-        lines += ["title: ", "titleAr: ", "tags: ", "palette: ", "words: ", "scene: ", "story:", "quote: ", "source: ", "explanation:", ""]
+        lines += ["title: ", "titleAr: ", "tags: ", "palette: ", "words: ", "keywords: ", "scene: ", "story:", "quote: ", "source: ", "explanation:", ""]
     pathlib.Path(args.output).write_text("\n".join(lines), encoding="utf-8")
     print(f"wrote {args.output}: fill it in, then  python3 tools/content/batch.py build {args.output} --master ...")
 
