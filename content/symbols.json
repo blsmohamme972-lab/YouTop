@@ -2966,6 +2966,222 @@
    "status": "approved",
    "reason": "total 10/10",
    "audited": "2026-11-19"
+  },
+  {
+   "id": "reentry",
+   "concept": "re-entry circuit (AV node re-entry and other re-entrant tachycardias)",
+   "terms": [
+    "re-entry",
+    "reentry",
+    "av node re-entry",
+    "av node re-entry tachycardia",
+    "av nodal re-entry",
+    "avnrt",
+    "re-entrant",
+    "reentrant"
+   ],
+   "symbol": "a toy subway train circling forever round a loop of two tracks, express and local",
+   "anchors": [
+    "toy train"
+   ],
+   "kind": "literal",
+   "why": "the impulse goes round and round a loop of two pathways",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "maze",
+   "concept": "maze procedure (Cox)",
+   "terms": [
+    "maze",
+    "maze procedure",
+    "cox maze",
+    "cox-maze"
+   ],
+   "symbol": "a green hedge maze grown across both upper lobbies, leading the beat from the top to the knot",
+   "anchors": [
+    "hedge maze"
+   ],
+   "kind": "literal",
+   "why": "the operation is named after the maze it makes",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "ablation",
+   "concept": "ablation (surgical or catheter)",
+   "terms": [
+    "ablation",
+    "his bundle ablation",
+    "catheter ablation",
+    "surgical ablation",
+    "ablated"
+   ],
+   "symbol": "a blowtorch burning a spot black",
+   "anchors": [
+    "blowtorch"
+   ],
+   "kind": "literal",
+   "why": "tissue is burnt to stop it conducting",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "myxoma",
+   "concept": "myxoma",
+   "terms": [
+    "myxoma",
+    "atrial myxoma",
+    "left atrial myxoma",
+    "cardiac myxoma",
+    "myxomas"
+   ],
+   "symbol": "a wobbling ball of green jelly on a stalk, hanging from the clock on the party wall into the lobby",
+   "anchors": [
+    "jelly"
+   ],
+   "kind": "sound-alike",
+   "why": "MYXO = mucus, slime: a jelly on a stalk from the fossa ovalis (the clock)",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "malignancy",
+   "concept": "malignant tumour, cancer, sarcoma, metastasis",
+   "terms": [
+    "malignant",
+    "malignancy",
+    "cancer",
+    "carcinoma",
+    "sarcoma",
+    "sarcomas",
+    "malignant tumor",
+    "malignant tumors",
+    "malignant cardiac tumors",
+    "metastatic tumors",
+    "metastases",
+    "metastasis",
+    "renal neoplasms",
+    "primary malignancy"
+   ],
+   "symbol": "a red crab",
+   "anchors": [
+    "crab"
+   ],
+   "kind": "literal",
+   "why": "cancer = the crab (Hippocrates' karkinos)",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "heart-block",
+   "concept": "heart block (atrioventricular block)",
+   "terms": [
+    "heart block",
+    "complete heart block",
+    "acquired complete heart block",
+    "av block",
+    "atrioventricular block",
+    "second-degree av block",
+    "third-degree heart block"
+   ],
+   "symbol": "a raised drawbridge between the upper lobby and the engine room, so no signal can cross",
+   "anchors": [
+    "drawbridge"
+   ],
+   "kind": "literal",
+   "why": "the signal cannot cross from atria to ventricles",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "sinus-node",
+   "concept": "sinus node, sick sinus syndrome",
+   "terms": [
+    "sinus node",
+    "sa node",
+    "sinoatrial node",
+    "sick sinus syndrome",
+    "sinus node dysfunction"
+   ],
+   "symbol": "an orchestra conductor at the top of the blue lobby beside the chimney, beating time with his baton",
+   "anchors": [
+    "orchestra conductor"
+   ],
+   "kind": "literal",
+   "why": "the sinus node sets the time for the whole heart",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
   }
  ]
 }
