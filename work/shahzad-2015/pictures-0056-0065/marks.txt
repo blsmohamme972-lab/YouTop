@@ -1,0 +1,99 @@
+book: shahzad-2015
+== 56
+1: 15 25 15 | Brass pump surging on as the horses stop | Sudden deceleration: heart and arch keep moving
+2: 50 8 20 | Hose arching up with three brass taps | Aortic arch and its three branches
+3: 88 16 8 | Iron bolt pinning the hose just past tap three | Descending aorta held fast just beyond the left subclavian
+4: 78 14 12 | Hose bulging, held only by its outer skin | Contained tear at the isthmus: a pseudoaneurysm
+5: 15 55 12 | Cellar barrel bursting | Other life-threatening bleeding is treated first
+6: 82 85 12 | Tinsmith sliding a tin sleeve inside the hose | Endovascular stent graft
+7: 45 80 12 | Boy watering the lower flowerbeds | Distal perfusion during clamping lowers paraplegia risk
+question: 1 5
+answer: 3 4
+== 57
+1: 50 18 30 | Tarpaulin full of water squeezing the house | Cardiac tamponade
+2: 70 45 15 | Spear through the thick front wall | Ventricular wounds are more common than atrial ones
+3: 45 30 15 | Old scars all over the front wall | The ventricles lie in front and take most blades
+4: 45 44 12 | Single stitches each over a felt pad | Ventricle: interrupted pledgeted mattress sutures
+5: 15 40 10 | Dunya darning the thin back wall | Atrium: continuous 4-0 polypropylene
+6: 60 33 12 | Red ivy stem, stitched beneath | Near a coronary: sutures pass under the vessel
+7: 25 82 15 | Clamped inflow pipes, hourglass 3 | Caval inflow occlusion for under 3 minutes
+question: 1 3
+answer: 2
+== 58
+1: 35 43 15 | Carpenter nailing a wide patch | Post-infarction VSD: patch larger than the hole
+2: 13 35 8 | Burnt water pipe cut off | Anterior infarct: occluded LAD, antero-apical septum
+3: 50 68 18 | Boy inflating the long bag beneath the house | Intra-aortic balloon pump: early support
+4: 8 70 10 | Surveyor with rolled maps pushed aside | Angiography only if stable; it must not delay surgery
+5: 40 60 15 | Ten lanterns, four dark, plaque 40 | Hospital mortality despite repair: 30-40%
+6: 82 58 10 | Twin house, all dark, plaque 100 | Without surgery mortality is 100%
+question: 1 3
+answer: 5
+== 59
+1: 55 40 25 | Front groove of the ochre hill | Anterior interventricular groove
+2: 75 40 15 | Red runner carrying the torch down | Left anterior descending artery
+3: 30 45 25 | Blue giant hauling barrels up beside him | Great cardiac vein drains the anterior groove
+4: 15 13 10 | Middle-sized blue man in the back groove | Middle cardiac vein: posterior groove
+5: 88 12 8 | Small blue boy with one bucket on the right | Small cardiac vein: right ventricle
+6: 55 6 15 | Great blue cistern on the hilltop | Coronary sinus, where these veins end
+7: 85 82 12 | Small holes dripping straight into the pool | Thebesian veins drain directly into the chambers
+question: 1 2
+answer: 3
+== 60
+1: 50 40 45 | Three strangers in the front attic | Germ cell tumours of the anterior mediastinum
+2: 15 28 15 | Plump man carried out on his sack | Teratoma: benign, complete surgical resection
+3: 50 60 18 | Snowman melting in the lamp's beam | Seminoma: very radiosensitive, better cure rate
+4: 45 30 10 | Filat's great lantern | Radiotherapy is first-line for seminoma
+5: 85 30 15 | Gang of four under the yellow flag A | Non-seminomas; raised AFP rules out pure seminoma
+6: 75 40 10 | Pharmacist pouring black drink | Non-seminomas are treated with chemotherapy
+7: 60 22 8 | Sweeper waiting with his shovel | Surgery only for a residual mass
+question: 1 5
+answer: 3
+== 61
+1: 55 15 25 | Loaf with huge holes | CCAM type I: cysts over 1 cm
+2: 58 38 15 | Basket with the baby lifted by the loaf | Large cysts: favourable prognosis
+3: 78 8 8 | Steam whistling through the reed | Cysts communicate with the bronchial tree
+4: 15 85 15 | Dough trough overflowing water | Polyhydramnios
+5: 49 58 12 | Loaf with small even holes | Type II: cysts under 1 cm
+6: 82 60 15 | Dark dense loaf cracking the table | Type III: tiny cysts, solid, poor survival
+7: 40 67 12 | Loaf still wrapped in a wet cloth | At birth the cysts may look solid until fluid clears
+question: 4 7
+answer: 2
+== 62
+1: 62 45 25 | Thyme bush grown monstrous behind the door | Thymoma in the anterior mediastinum
+2: 62 30 18 | Branches crushing the blue and red pipes | Stage III: invading the great vessels
+3: 8 33 8 | Small potted sister on the sill, label 99 | Stage I, encapsulated: 99% 10-year survival
+4: 37 30 10 | Black watering can poured first | Neoadjuvant chemotherapy before surgery
+5: 13 60 10 | Shears left hanging on the belt | Resection comes after the chemotherapy
+6: 80 92 12 | New blue pipe section on the floor | Invaded SVC replaced with a synthetic graft
+7: 90 55 12 | Maid with drooping eyelids dropping her broom | Myasthenia gravis
+question: 1 7
+answer: 4 2
+== 63
+1: 45 5 15 | Masons lifting out the rotten pipe | Oesophagus resected for cancer
+2: 50 50 15 | Leather tube rising up the tower | Gastric conduit pulled up to replace it
+3: 57 50 8 | Two taut red ribbons on its right | Right gastric and right gastroepiploic arteries
+4: 40 40 8 | Cut ribbons dangling on its left | Left gastric and short gastric vessels divided
+5: 80 87 10 | Iron hook pulled from the wall | Kocher manoeuvre: frees the duodenum
+6: 60 90 12 | Tube's foot sliding to the middle | Pylorus moves to the midline: extra conduit length
+7: 15 70 15 | Cook in the tall white hat | The surgeon's fix from below, not pulling from above
+question: 2 4
+answer: 5 6
+== 64
+1: 70 50 25 | Faddei flattened against the glass | Plasma proteins adsorb onto the bypass circuit
+2: 84 41 6 | Medal number 1 | Fibrinogen is adsorbed first
+3: 85 23 8 | His body twisted into a new shape | Fibrinogen changes its conformation
+4: 30 40 20 | Egg-seller, boy 8, shears man, monk C | Other proteins arrive later (albumin, etc.)
+5: 30 15 30 | The new glass arcade | A foreign, non-endothelial surface
+6: 45 22 12 | People peeling off at the far end | Adsorbed proteins desorb and are replaced
+question: 5 4
+answer: 2 1
+== 65
+1: 30 80 10 | Eel coiled round the waiter's badge 4 | Antibodies against heparin bound to platelet factor 4
+2: 30 70 20 | Tavern dogs savaging that waiter | Immune destruction of platelets
+3: 10 40 10 | Waiter with a stack of small plates | Platelets plug the holes
+4: 25 90 12 | Smashed plates on the floor | Thrombocytopenia
+5: 45 25 12 | Wine spurting from the barrels | Bleeding
+6: 85 72 15 | Barrel of eels being nailed shut | Stop all heparin
+7: 45 45 15 | Cart of new white plates | Bleeding in HIT: give platelets
+question: 1 5
+answer: 7
