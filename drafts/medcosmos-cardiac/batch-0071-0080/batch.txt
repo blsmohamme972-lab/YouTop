@@ -1,0 +1,137 @@
+book: medcosmos-cardiac
+# MedCosmos Cardiac, questions 71-80, written to the owner's five picture rules and the audited symbols
+# (content/symbols.json). Theme: New York City. Quotations: Rumi, the Masnavi (from memory, translated).
+
+== 71
+# When medical management of aortic insufficiency is logical -> A: moderate AI with a NORMAL left ventricular end-systolic dimension.
+# B (cardiomegaly), C (heart failure symptoms) and D (end-systolic dimension 70 mm) call for operation.
+# the orca's sagging mouth dripping water back into the red engine room; an inspector's tape across the room reading NORMAL; a pharmacist handing over a pill bottle instead of dentures -> moderate AI, normal ESD: medicines and follow-up
+title: Moderate aortic insufficiency with a normal end-systolic dimension: medical management and follow-up
+titleAr: قصور الصمام الأبهري المتوسّط مع قطر انقباضي طبيعي للبطين الأيسر: علاج دوائي ومتابعة
+tags: cardiac/aortic-valve d:indications q:vignette l:2
+palette: calm morning, red engine room, silver dripping water, a white pill bottle, a yellow tape measure
+words: NORMAL
+keywords: aortic insufficiency -> the orca balloon's sagging mouth dripping water back into the red engine room; left ventricle -> the red engine room with its ventilation fan, measured by an inspector's yellow tape that reads NORMAL; medical management -> a pharmacist handing over a white bottle of pills; aortic valve replacement -> a dentist with new dentures, told to wait
+must: the water only DRIPS back (moderate); the tape across the red room reads NORMAL; the pharmacist hands over pills while the dentist waits with his dentures
+scene: The old Brooklyn hotel with a stag's head over its door, seen cut open like a doll's house on a calm morning. A giant orca parade balloon rises out of the red engine room; its sagging mouth drips water back into the room. CENTRE, dominant and brightest: an inspector stretches a yellow tape measure across the red engine room and its ventilation fan; the tape reads NORMAL. Beside him a pharmacist hands the hotel's owner a white bottle of pills, while a dentist holding brand-new dentures stands by the door, waiting.
+
+== 72
+# Indications for operation in mitral stenosis -> all four: A (systemic embolization), B (infective endocarditis), C (onset of atrial fibrillation), D (worsening pulmonary hypertension).
+# the bishop's mitre in the floor of the red lobby squeezed narrow -> mitral stenosis
+# ANSWER A: black bowling balls rolling out through the orca and knocking things over in the street -> systemic embolization
+# ANSWER B: playing cards sprouting broccoli stuck on the mitre -> infective endocarditis
+# ANSWER C: Pinocchio, his nose growing, trembling in the red lobby above the mitre -> onset of atrial fibrillation
+# ANSWER D: the gauge on the dollar pipe swinging further into the red -> worsening pulmonary hypertension
+title: Mitral stenosis: operate for embolism, endocarditis, new atrial fibrillation or worsening pulmonary hypertension
+titleAr: تضيّق الصمام التاجي: الجراحة عند الصمّة أو التهاب الشغاف أو بدء الرجفان الأذيني أو تفاقم ارتفاع الضغط الرئوي
+tags: cardiac/mitral-tricuspid d:indications q:recall l:2 x:high-yield
+palette: evening light, purple and gold mitre, black bowling balls, broccoli green, a gauge glowing red
+keywords: mitral stenosis -> a bishop's mitre squeezed narrow in the floor of the red lobby; systemic embolization -> black bowling balls rolling out through the orca balloon and knocking over things in the street; infective endocarditis -> playing cards sprouting broccoli and moss stuck on the mitre; atrial fibrillation -> Pinocchio, his long nose growing, trembling all over in the red upper lobby; pulmonary hypertension -> a pipe of dollar bills whose pressure gauge swings further into the red
+must: the mitre is squeezed NARROW; Pinocchio trembles in the RED lobby just above it; the bowling balls come OUT through the orca; the gauge is swinging deeper into the red
+scene: The old Brooklyn hotel with a stag's head over its door, seen cut open like a doll's house in evening light. CENTRE, dominant and brightest: in the floor of the red upper lobby, the doorway is a bishop's mitre squeezed narrow, with playing cards sprouting broccoli and moss stuck on it. Just above it, Pinocchio, his long nose growing, trembles all over in the red lobby. BELOW: black bowling balls roll out through a giant orca parade balloon and knock over a fruit stand in the street. ABOVE LEFT: a pipe stuffed with green dollar bills, its pressure gauge swinging further into the red.
+
+== 73
+# Which are NOT true -> C (tricuspid regurgitation is most often caused by leaflet abnormalities) and D (mitral replacement requires resecting the leaflets and chordae).
+# The truth the picture shows: TR is usually from a stretched ring, and the chordae are kept at mitral replacement.
+# A (operation improves survival in severe symptomatic mitral disease) and B (LV dilatation with class I-II failure is an indication in MR) are true.
+# ANSWER C: the trident's prongs perfectly normal, only its ring stretched wide -> tricuspid regurgitation comes from annular dilatation, not the leaflets
+# ANSWER D: a new mitre being fitted while the old harp strings are kept tied to it -> chordae are preserved at mitral replacement
+title: Not true: tricuspid regurgitation mostly comes from the leaflets; mitral replacement must remove the chordae
+titleAr: ليس صحيحًا: أنّ قصور ثلاثي الشرف ينشأ غالبًا من الشُّرف نفسها، وأنّ استبدال التاجي يتطلّب استئصال الحبال الوترية
+tags: cardiac/mitral-tricuspid d:technique q:recall l:2 x:trap
+palette: warm workshop light, purple and gold mitre, golden harp strings, an iron trident with a stretched ring
+keywords: tricuspid regurgitation -> a trident with perfectly normal prongs whose ring is stretched wide, water leaking around it; mitral valve replacement -> a craftsman fitting a brand-new mitre into the floor of the red lobby; chordae -> golden harp strings kept tied from the new mitre down to the floor of the red engine room
+must: the trident's PRONGS are normal and only its RING is stretched; the harp strings are KEPT and tied to the new mitre
+scene: The old Brooklyn hotel with a stag's head over its door, seen cut open like a doll's house in warm workshop light. CENTRE, dominant and brightest: in the floor of the red lobby a craftsman fits a brand-new bishop's mitre, carefully keeping the old golden harp strings tied from it down to the floor of the red engine room. LEFT, in the floor of the blue lobby: an iron trident with perfectly normal prongs, but its ring stretched wide, so water leaks around it.
+
+== 74
+# Which are generally NOT symptoms of tricuspid valve disease -> A (pulmonary oedema) and D (hoarseness).
+# B (hepatic failure) and C (anasarca) ARE: they come from back pressure into the systemic veins.
+# the trident in the blue lobby floor leaking, the whole blue wing swollen and puffy -> tricuspid disease: venous congestion, anasarca, liver failure
+# ANSWER A and D: at the blue wing's door, the doorman turning away a hoarse horse and a man carrying soggy dripping dollar bills, pointing them to the red wing -> pulmonary oedema and hoarseness belong to the left side (mitral disease)
+title: Pulmonary oedema and hoarseness are not symptoms of tricuspid valve disease
+titleAr: الوذمة الرئوية وبحّة الصوت ليستا من أعراض مرض الصمام ثلاثي الشرف
+tags: cardiac/mitral-tricuspid d:diagnosis q:recall l:2 x:trap
+palette: grey rainy day, swollen blue wing, a brown horse, soggy green banknotes
+keywords: tricuspid regurgitation -> the trident in the floor of the blue lobby leaking water back; anasarca -> the whole blue wing swollen and puffy like a sponge; pulmonary edema -> soggy dollar bills dripping with water in a man's arms; hoarseness -> a hoarse brown horse
+must: the BLUE wing is swollen; the doorman of the BLUE wing turns away the horse and the soggy dollars and points them to the RED wing
+scene: The old Brooklyn hotel with a stag's head over its door on a grey, rainy day. Its BLUE wing, on the viewer's left, is swollen and puffy like a soaked sponge, and in the floor of its blue lobby the trident leaks water back. CENTRE, dominant and brightest: at the blue wing's door a stern doorman holds up his hand to turn away a hoarse brown horse and a man carrying an armful of soggy dollar bills dripping with water, pointing them over to the red wing.
+
+== 75
+# Relative indication for mitral REPLACEMENT rather than repair -> A, extensive leaflet calcification.
+# B (mitral regurgitation), C (rupture of anterior leaflet chordae) and D (annular dilatation) are usually repairable.
+# a bishop lifting off a mitre turned to solid white stone and putting on a new one; beside him, a leaking mitre, a snapped harp string and a stretched ring being mended with needle and thread -> calcified leaflets: replace; the others: repair
+title: Extensive leaflet calcification favours mitral replacement over repair
+titleAr: التكلّس الواسع في الشُّرف يرجّح استبدال الصمام التاجي على إصلاحه
+tags: cardiac/mitral-tricuspid d:indications q:recall l:2
+palette: cathedral light, chalk-white stone, purple and gold, golden thread
+keywords: calcification -> a mitre turned to solid white stone; mitral valve replacement -> the bishop putting on a brand-new mitre; mitral valve repair -> a tailor mending a leaking mitre, a snapped harp string and a stretched ring with needle and thread; chordal rupture -> one snapped golden harp string
+must: the STONE mitre is the one being replaced; the leaking mitre, the snapped harp string and the stretched ring are only being MENDED
+scene: The red lobby of the old Brooklyn hotel with a stag's head, lit like a cathedral. CENTRE, dominant and brightest: a bishop lifts off a mitre that has turned into solid, cracked white stone and puts on a brand-new purple and gold mitre. BESIDE HIM, smaller: a tailor with needle and golden thread mends a leaking mitre, reties one snapped golden harp string and takes in a stretched ring.
+
+== 76
+# Which are NOT true -> B: mitral replacement with EITHER a bioprosthesis or a mechanical valve requires warfarin (only the mechanical valve needs it for life).
+# A (annular TR alone generally does not need replacement), C (tricuspid replacement favours a tissue valve) and D (chronic renal failure as a relative indication for tissue valves) are taken as true by the book.
+# ANSWER B: in the red lobby floor, a mitre made of a tissue box, a helmeted rat walking away from it after a calendar of 3 months; next door a mitre made of a clanking steel robot with the helmeted rat sitting on it for good -> only the mechanical valve needs lifelong warfarin
+title: Not true: every mitral prosthesis needs warfarin; only the mechanical valve needs it for life
+titleAr: ليس صحيحًا أنّ كلّ صمام تاجي صناعي يحتاج الوارفارين؛ الصمام الميكانيكي وحده يحتاجه مدى الحياة
+tags: cardiac/mitral-tricuspid d:postoperative q:recall l:2 x:trap
+palette: clean light, soft white tissues, bright steel, a grey rat in a green helmet
+words: 3
+keywords: tissue valve -> a soft paper tissue box set in as the mitre in the floor of the red lobby; mechanical valve -> a clanking little steel robot set in as the mitre in the next lobby; warfarin -> a rat in a soldier's helmet
+must: the rat WALKS AWAY from the tissue-box valve after the calendar's 3 months; the rat STAYS on the robot valve for good
+scene: Two red lobbies of the old Brooklyn hotel with a stag's head, side by side, seen cut open like doll's houses. LEFT: in the floor, a soft paper tissue box set in as the valve; a rat wearing a little green soldier's helmet walks away from it, past a calendar showing 3 months. RIGHT, CENTRE of attention, dominant and brightest: in the floor, a clanking little steel robot set in as the valve, and the same helmeted rat sitting on its head, settled in for good.
+
+== 77
+# Relative indication for a MECHANICAL rather than a tissue valve -> A, a patient younger than 30.
+# B (a young woman who wants children), C (an elderly patient) and D (tricuspid replacement) favour a TISSUE valve.
+# a young man under 30 receiving a clanking steel robot valve, with a helmeted rat on his shoulder; behind him a pregnant woman, an old man and the trident each getting a tissue box -> young patients get mechanical valves
+title: A patient younger than 30 is a reason to choose a mechanical valve
+titleAr: المريض الأصغر من ثلاثين عامًا سبب لاختيار الصمام الميكانيكي
+tags: cardiac/mitral-tricuspid d:indications q:recall l:1
+palette: bright day at a Coney Island stall, bright steel, soft white tissues
+words: <30
+keywords: mechanical valve -> a clanking little steel robot handed to a young man; tissue valve -> soft paper tissue boxes handed to the others; warfarin -> a rat in a soldier's helmet on the young man's shoulder; tricuspid -> a trident
+must: ONLY the young man gets the robot (and the rat); the pregnant woman, the old man and the trident each get a tissue box; the sign reads <30
+scene: A prize stall at Coney Island on a bright day. CENTRE, dominant and brightest: a young man in his twenties, under a sign reading <30, is handed a clanking little steel robot; a rat in a soldier's helmet sits on his shoulder. Behind him in the queue, smaller: a pregnant young woman, an old man with a cane and an iron trident on a cart are each handed a soft paper tissue box.
+
+== 78
+# Which are NOT true -> all four: A (bioprostheses have a high rate of haemolysis), B (bioprostheses have a lower rate of endocarditis), C (mechanical valves fail structurally after 7-10 years), D (warfarin deaths approach 5% per patient-year).
+# The truths in the picture: the steel robot still clanking after 30 years; the tissue box wearing out instead; equal cards with broccoli on both; the helmeted rat only rarely deadly.
+# ANSWER C: a steel robot valve still clanking happily beside a calendar of 30 years -> mechanical valves do not wear out in 7-10 years
+# ANSWER A: no red balloons bursting around the tissue box -> haemolysis is not a problem of bioprostheses
+# ANSWER B: playing cards sprouting broccoli, one on each valve, equally -> endocarditis risk is similar
+# ANSWER D: the helmeted rat with a tiny sign under 1% -> warfarin deaths are far below 5% a year
+title: Not true: haemolysis with bioprostheses, less endocarditis with them, mechanical failure at 7-10 years, 5% warfarin deaths a year
+titleAr: ليس صحيحًا: انحلال الدم مع الصمامات الحيوية، ولا قلّة التهاب الشغاف معها، ولا تعطّل الميكانيكي بعد 7-10 سنوات، ولا وفيات الوارفارين 5% سنويًا
+tags: cardiac/mitral-tricuspid d:complications q:recall l:3 x:trap
+palette: warm museum light, bright steel, soft white tissues, broccoli green, a grey rat in a green helmet
+words: 30, <1%
+keywords: mechanical valve -> a clanking little steel robot still working beside a calendar of 30 years; tissue valve -> a worn soft paper tissue box, with no red balloons bursting around it; infective endocarditis -> playing cards sprouting broccoli, one on each valve; warfarin -> a rat in a soldier's helmet holding a tiny sign under 1%
+must: the robot is still WORKING at 30 years; the tissue box has NO bursting balloons; each valve has exactly ONE card with broccoli; the rat's sign reads <1%
+scene: A display case in a city museum of valves, in warm light. CENTRE, dominant and brightest: a clanking little steel robot, still working happily beside a calendar showing 30 years. RIGHT: a soft paper tissue box, worn and frayed at the edges, with no red balloons bursting anywhere near it. Each of the two has exactly one playing card sprouting broccoli on it. FOREGROUND: a rat in a little green soldier's helmet holds up a tiny sign reading <1%.
+
+== 79
+# Mitral stenosis WITHOUT regurgitation: what is NOT generally associated -> C, left ventricular dilatation.
+# KEY CORRECTED: the book marks A, B and D, but pulmonary hypertension, pulmonary oedema and an opening snap are the classic features of mitral stenosis; only LV dilatation is not.
+# the mitre squeezed narrow; ABOVE it everything overloaded (swollen red lobby, soggy dollars, gauge in the red, umbrella snapping open); BELOW it the red engine room small and quiet -> MS spares the left ventricle
+title: Pure mitral stenosis does not dilate the left ventricle; pulmonary hypertension, oedema and an opening snap belong to it
+titleAr: تضيّق التاجي الصرف لا يوسّع البطين الأيسر؛ أمّا ارتفاع الضغط الرئوي والوذمة الرئوية والطقّة الافتتاحية فمن علاماته
+tags: cardiac/mitral-tricuspid d:physiology q:recall l:2 x:key-corrected
+key: C
+note: The book's key marks A, B and D, which reverses the question: pulmonary hypertension, pulmonary oedema and an opening snap after the second sound are the classic findings of mitral stenosis. Left ventricular dilatation is the one feature not generally associated with pure mitral stenosis, so the answer is C.
+palette: dusk, purple and gold mitre, swollen red lobby, soggy green banknotes, a black umbrella, a small calm red room
+keywords: mitral stenosis -> a bishop's mitre squeezed narrow in the floor of the red lobby; ventricle -> the red engine room below it, small and quiet, its ventilation fan turning slowly; pulmonary edema -> soggy dollar bills dripping with water above the mitre; pulmonary hypertension -> a pipe of dollar bills whose pressure gauge is in the red; opening snap -> a black umbrella snapping open
+must: everything ABOVE the mitre is overloaded; the red engine room BELOW it is SMALL and calm, not swollen
+scene: The red wing of the old Brooklyn hotel with a stag's head, seen cut open like a doll's house at dusk. In the floor of the red lobby, the doorway is a bishop's mitre squeezed narrow. ABOVE it everything is overloaded: the red lobby swells, soggy dollar bills drip with water from the pipes, a dollar pipe's pressure gauge points deep into the red, and a black umbrella snaps open just beside the mitre. CENTRE, dominant and brightest: BELOW the mitre, the red engine room is small, neat and calm, its ventilation fan turning slowly.
+
+== 80
+# The most common site of accessory pathways in Wolff-Parkinson-White syndrome -> A, the left free wall.
+# a grey wolf digging a shortcut tunnel down the OUTER wall of the RED wing, from the red lobby straight into the red engine room, far from the sparking bundle of branches in the middle wall -> left free wall pathway
+title: In Wolff-Parkinson-White syndrome, accessory pathways lie most often in the left free wall
+titleAr: في متلازمة وولف-باركنسون-وايت تقع المسارات الإضافية غالبًا في الجدار الحرّ الأيسر
+tags: cardiac/arrhythmia d:anatomy q:recall l:2 x:high-yield
+palette: moonlit night, red brick, grey wolf, electric blue sparks
+keywords: Wolff-Parkinson-White syndrome -> a grey wolf digging a shortcut tunnel straight from the red lobby down to the red engine room; conduction -> a bundle of branches crackling with electric sparks in the middle party wall
+must: the wolf digs in the OUTER wall of the RED wing, not in the middle party wall; the sparking branches run down the middle wall untouched
+scene: The old Brooklyn hotel with a stag's head over its door, seen cut open like a doll's house on a moonlit night. Down the middle party wall runs a bundle of branches crackling with electric blue sparks. CENTRE, dominant and brightest: on the far right, in the OUTER wall of the red wing, a grey wolf digs a shortcut tunnel straight from the red upper lobby down into the red engine room, far from the sparking branches.

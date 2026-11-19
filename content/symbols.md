@@ -107,6 +107,15 @@ a batch that draws a listed concept any other way is refused by `batch.py`.
 | anomalous origin of the left coronary artery from the pulmonary artery (ALCAPA) | Al Capone in a pinstripe suit bolting the left spike of the Liberty crown onto the pipe of dollar bills | ALCAPA ~ Al Capone, who puts the crown on the money | 10/10 | medcosmos-cardiac |
 | syncope | a man fainting backwards onto a red velvet couch | the faint itself | 9/10 | medcosmos-cardiac |
 | aortic valve replacement | a dentist fitting brand-new dentures into the orca balloon's mouth | a new 'mouth' for the orca | 10/10 | medcosmos-cardiac |
+| embolism (systemic or pulmonary) | a black bowling ball rolling out through the pipes and knocking things over | em-BOWL-us = a bowling ball that travels and blocks | 10/10 | medcosmos-cardiac |
+| atrial fibrillation | Pinocchio, his long nose growing, trembling all over in the upper glass lobby | FIB-rillation = fibbing, Pinocchio; he quivers, he never beats | 10/10 | medcosmos-cardiac |
+| chordae tendineae | harp strings tying the bishop's mitre down to the floor of the red engine room | CHORDae = the chords (strings) of a harp | 10/10 | medcosmos-cardiac |
+| pulmonary oedema | soggy dollar bills dripping with water, spilling from the money pipes | the lungs (money) waterlogged | 9/10 | medcosmos-cardiac |
+| tissue (biological) valve, bioprosthesis | a soft paper tissue box set in as the valve | TISSUE valve = a box of tissues: soft, wears out, needs no rat poison | 10/10 | medcosmos-cardiac |
+| mechanical prosthetic valve | a clanking little steel robot set in as the valve | a machine: lasts for ever, needs warfarin for ever | 10/10 | medcosmos-cardiac |
+| warfarin, oral anticoagulation | a rat in a soldier's helmet | WAR-farin = war; it began as a rat poison | 10/10 | medcosmos-cardiac |
+| opening snap of mitral stenosis | a black umbrella snapping open | the stiff valve snaps open just after the second sound | 10/10 | medcosmos-cardiac |
+| Wolff-Parkinson-White syndrome, accessory pathway | a grey wolf digging a shortcut tunnel straight from an upper lobby down to an engine room, past the sparking bundle of branches | WOLFF = a wolf; the accessory pathway is his shortcut | 10/10 | medcosmos-cardiac |
 
 ## Rejected (never use them)
 

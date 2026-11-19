@@ -2700,6 +2700,272 @@
    "status": "approved",
    "reason": "total 10/10",
    "audited": "2026-11-19"
+  },
+  {
+   "id": "embolism",
+   "concept": "embolism (systemic or pulmonary)",
+   "terms": [
+    "embolism",
+    "embolus",
+    "emboli",
+    "embolization",
+    "systemic embolization",
+    "thromboembolism",
+    "embolic",
+    "pulmonary embolism",
+    "systemic arterial embolization"
+   ],
+   "symbol": "a black bowling ball rolling out through the pipes and knocking things over",
+   "anchors": [
+    "bowling ball"
+   ],
+   "kind": "sound-alike",
+   "why": "em-BOWL-us = a bowling ball that travels and blocks",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "atrial-fibrillation",
+   "concept": "atrial fibrillation",
+   "terms": [
+    "atrial fibrillation",
+    "fibrillation",
+    "afib",
+    "onset of atrial fibrillation"
+   ],
+   "symbol": "Pinocchio, his long nose growing, trembling all over in the upper glass lobby",
+   "anchors": [
+    "pinocchio"
+   ],
+   "kind": "sound-alike",
+   "why": "FIB-rillation = fibbing, Pinocchio; he quivers, he never beats",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "chordae",
+   "concept": "chordae tendineae",
+   "terms": [
+    "chordae",
+    "chordae tendineae",
+    "chordal",
+    "chordal rupture",
+    "chordal preservation",
+    "chords"
+   ],
+   "symbol": "harp strings tying the bishop's mitre down to the floor of the red engine room",
+   "anchors": [
+    "harp"
+   ],
+   "kind": "sound-alike",
+   "why": "CHORDae = the chords (strings) of a harp",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "pulmonary-edema",
+   "concept": "pulmonary oedema",
+   "terms": [
+    "pulmonary edema",
+    "pulmonary oedema",
+    "acute pulmonary edema"
+   ],
+   "symbol": "soggy dollar bills dripping with water, spilling from the money pipes",
+   "anchors": [
+    "soggy"
+   ],
+   "kind": "literal",
+   "why": "the lungs (money) waterlogged",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "tissue-valve",
+   "concept": "tissue (biological) valve, bioprosthesis",
+   "terms": [
+    "tissue valve",
+    "tissue valves",
+    "bioprosthesis",
+    "bioprostheses",
+    "bioprosthetic",
+    "bioprosthetic valve",
+    "bioprosthetic valves",
+    "biological valve"
+   ],
+   "symbol": "a soft paper tissue box set in as the valve",
+   "anchors": [
+    "tissue box"
+   ],
+   "kind": "sound-alike",
+   "why": "TISSUE valve = a box of tissues: soft, wears out, needs no rat poison",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "mechanical-valve",
+   "concept": "mechanical prosthetic valve",
+   "terms": [
+    "mechanical valve",
+    "mechanical valves",
+    "mechanical prosthesis",
+    "mechanical prostheses",
+    "mechanical valve replacement"
+   ],
+   "symbol": "a clanking little steel robot set in as the valve",
+   "anchors": [
+    "robot"
+   ],
+   "kind": "literal",
+   "why": "a machine: lasts for ever, needs warfarin for ever",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "warfarin",
+   "concept": "warfarin, oral anticoagulation",
+   "terms": [
+    "warfarin",
+    "coumadin",
+    "anticoagulation",
+    "anticoagulant",
+    "oral anticoagulation",
+    "warfarin anticoagulation",
+    "warfarin therapy"
+   ],
+   "symbol": "a rat in a soldier's helmet",
+   "anchors": [
+    "rat"
+   ],
+   "kind": "sound-alike",
+   "why": "WAR-farin = war; it began as a rat poison",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "opening-snap",
+   "concept": "opening snap of mitral stenosis",
+   "terms": [
+    "opening snap"
+   ],
+   "symbol": "a black umbrella snapping open",
+   "anchors": [
+    "umbrella"
+   ],
+   "kind": "literal",
+   "why": "the stiff valve snaps open just after the second sound",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "wpw",
+   "concept": "Wolff-Parkinson-White syndrome, accessory pathway",
+   "terms": [
+    "wolff-parkinson-white",
+    "wolff-parkinson-white syndrome",
+    "wpw",
+    "accessory pathway",
+    "accessory pathways",
+    "pre-excitation",
+    "preexcitation"
+   ],
+   "symbol": "a grey wolf digging a shortcut tunnel straight from an upper lobby down to an engine room, past the sparking bundle of branches",
+   "anchors": [
+    "wolf"
+   ],
+   "kind": "sound-alike",
+   "why": "WOLFF = a wolf; the accessory pathway is his shortcut",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
   }
  ]
 }
