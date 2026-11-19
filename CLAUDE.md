@@ -177,6 +177,9 @@ under `book/chapter/lesson` on their phone.
   Only leaving through the library skips a question (watched to the end = hard, otherwise nothing).
 - Since 2.2 the question shows only the circles that belong to it (the answer's after answering), and
   "All circles" shows every numbered, coloured circle with an English table.
+- Since 2.5 a question can have several right answers (`answers` in the content, 83 of the 156 MedCosmos
+  questions): the owner ticks every option they think is right and presses "Check"; it counts as right only
+  when exactly the right ones are ticked. The owner left this decision to the agent (2026-11-19).
 - Since 2.4 nothing is ever laid over the picture: the table, and the question with its options,
   answer and explanation, sit in a fixed panel under the picture, which moves up and shrinks,
   whole (the owner asked for exactly this after seeing 2.2 and 2.3 on their phone).

@@ -2,6 +2,10 @@ package app.youtop
 
 import app.youtop.data.Book
 import app.youtop.data.ContentJson
+import app.youtop.data.Question
+import app.youtop.data.correct
+import app.youtop.data.isUsable
+import app.youtop.data.multi
 import app.youtop.data.DriveClient
 import app.youtop.data.Taxonomy
 import app.youtop.study.Tags
@@ -20,12 +24,33 @@ class ContentTest {
         for (lesson in lessons) {
             assertEquals(listOf("story", "explanation"), lesson.tracks.map { it.kind })
             assertTrue(lesson.quiz.isNotEmpty())
-            lesson.quiz.forEach { assertTrue(it.answer in it.options.indices) }
+            lesson.quiz.forEach { assertTrue(it.isUsable()) }
             lesson.tracks.flatMap { it.segments }.mapNotNull { it.spot }.forEach {
                 assertTrue(it.x in 0f..1f && it.y in 0f..1f && it.r > 0f)
             }
             assertTrue(File("src/main/assets/" + lesson.image!!.removePrefix("asset:")).exists())
         }
+    }
+
+    /** "Choose all that apply": [Question.answers] lists every right option, and [Question.answer] is the first. */
+    @Test
+    fun questionsWithSeveralAnswers() {
+        val four = listOf("a", "b", "c", "d")
+        val one = Question("q", four, answer = 2)
+        assertEquals(false, one.multi)
+        assertEquals(setOf(2), one.correct)
+        val several = Question("q", four, answer = 0, answers = listOf(0, 2, 3))
+        assertEquals(true, several.multi)
+        assertEquals(setOf(0, 2, 3), several.correct)
+        assertTrue(several.isUsable())
+        // Content is never trusted: an answer outside the options, or a first answer not among them, is not asked.
+        assertEquals(false, Question("q", four, answer = 0, answers = listOf(0, 4)).isUsable())
+        assertEquals(false, Question("q", four, answer = 1, answers = listOf(0, 2)).isUsable())
+        // Content written before the field still reads: no "answers" means the single "answer".
+        val old = ContentJson.decodeFromString<Question>("""{"q":"q","options":["a","b"],"answer":1}""")
+        assertEquals(setOf(1), old.correct)
+        val book = ContentJson.decodeFromString<Book>(File("src/main/assets/seed/starter.json").readText())
+        assertTrue(book.chapters.flatMap { it.lessons }.flatMap { it.quiz }.any { it.multi })
     }
 
     @Test

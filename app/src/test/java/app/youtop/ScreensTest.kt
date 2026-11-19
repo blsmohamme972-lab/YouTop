@@ -148,7 +148,7 @@ class ScreensTest {
         text("In circles").performClick()
         shot("5b-quiz-answered") // the picture moves up; the right answer, the wrong pick and the explanation sit under it
 
-        // The lesson has three more questions: until the last is answered, a swipe does not leave it.
+        // The lesson has four more questions: until the last is answered, a swipe does not leave it.
         rule.onAllNodes(isRoot())[0].performTouchInput { swipeUp() }
         rule.waitForIdle()
         rule.mainClock.advanceTimeBy(1500)
@@ -162,9 +162,22 @@ class ScreensTest {
             text(answer).performClick()
             rule.waitForIdle()
         }
+        // The last question has several right answers: each tap ticks one, "Check" answers.
+        text("Next").performClick()
+        rule.waitForIdle()
+        text("Choose all that apply").assertExists()
+        shot("5f-quiz-choose-all")
+        assertEquals(true, vm.holds(0))
+        for (option in listOf("The Sun", "A candle flame", "A firefly")) text(option).performClick()
+        rule.waitForIdle()
+        assertEquals(true, vm.holds(0)) // ticking is not answering
+        shot("5g-quiz-choose-all-ticked")
+        text("Check").performClick()
+        rule.waitForIdle()
+        text("The Moon").assertDoesNotExist() // not picked and not right: no longer shown
         shot("5e-quiz-last-answered")
         assertEquals(false, vm.holds(0))
-        // Answering is what feeds the scheduler: one wrong of four counts as hard, and the lesson is done for now.
+        // Answering is what feeds the scheduler: one wrong of five, and the lesson is done for now.
         assertEquals(1, vm.progress.value.doneToday)
         assertEquals(1, vm.progress.value.cards.getValue("starter/examples/how-light-travels").reps)
         // Now the swipe goes on to the next lesson.

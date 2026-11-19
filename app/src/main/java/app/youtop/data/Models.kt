@@ -121,7 +121,18 @@ data class Question(
     val marks: List<Int> = emptyList(),
     /** Numbers of the marks that stand for the correct answer; they appear once the question is answered. */
     val answerMarks: List<Int> = emptyList(),
+    /**
+     * Every correct option when more than one is right ("choose all that apply"); [answer] is then the
+     * first of them, so content and apps from before this field still read a valid single answer.
+     */
+    val answers: List<Int> = emptyList(),
 )
+
+/** The options that are right: several for a "choose all that apply" question, otherwise just [Question.answer]. */
+val Question.correct: Set<Int> get() = if (answers.size > 1) answers.toSet() else setOf(answer)
+
+/** True when the learner must tick every right option and then check. */
+val Question.multi: Boolean get() = correct.size > 1
 
 // ---- What the app keeps in memory ------------------------------------------
 // With thousands of lessons the full text stays on disk. Only this light index is loaded;
@@ -163,8 +174,9 @@ data class BookInfo(
 @Serializable
 data class LibraryIndex(val books: List<BookInfo> = emptyList())
 
-/** A question the quiz can show: at least two options and an answer that is one of them. */
-fun Question.isUsable() = options.size >= 2 && answer in options.indices && q.isNotBlank()
+/** A question the quiz can show: at least two options and an answer (or answers) among them. */
+fun Question.isUsable() = options.size >= 2 && answer in options.indices && q.isNotBlank() &&
+    answers.all { it in options.indices } && (answers.isEmpty() || answer in answers)
 
 /**
  * A lesson as the app shows it: questions that cannot be asked are dropped rather than crash the

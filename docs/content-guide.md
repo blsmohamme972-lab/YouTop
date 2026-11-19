@@ -71,11 +71,16 @@ shahzad-2015 /** in Drive; read them from there. For a new book, keep these file
           "stem": "…exactly as printed…",
           "options": ["…", "…", "…", "…"],
           "answer": 2,                         // index into options, 0-based, after any correction
+          "answers": [0, 2, 3],                // only when several options are right ("choose all"); answer = the first
           "explanation": "…the book's own explanation, exactly, or empty…",
           "figure": "gh:books/kaplan/media/figure-q0017.png",   // only if the stem needs it
           "corrections": [ { "field": "answer", "was": "B", "now": "C", "why": "…" } ]
         } ]
     }
+
+An extraction file (`<book>.jsonl`, one question per line with option labels and a letter key such as
+`"ACD"`) can be given to `batch.py` as `--master` directly: it is turned into this form, several letters
+into `answers`. A matching key ("A-1. B-1,2") cannot be asked yet and is refused at build.
 
 Reading the files that are in Drive: use the Drive connector's **download** tool (base64) — its
 "read" tool reformats text and corrupts JSON.
@@ -185,6 +190,7 @@ question files and quotation log. Nothing is shared between books except the tag
       ],
       "quiz": [ { "q": "<stem as printed>", "options": ["…"], "answer": 2,
                   "explain": "…", "lang": "en", "source": "Kaplan p. 88, Q142" } ]
+    // a "choose all that apply" question adds  "answers": [0, 2, 3]  (since app 2.5; answer = answers[0])
     }
 
 How to write it:
