@@ -27,11 +27,11 @@ Updated 2026-11-19 (evening). Whoever works on YouTop next: read `CLAUDE.md`, th
   - 31-40 and 41-50: built, prompts SENT; recording running (log: scratchpad `voice-make-31.log`; it rewrites chapter
     `q0001-0100` at the end of EACH make, so nothing else may write that chapter until `exit41` appears). Then
     `voice.py check` both.
-  - 51-60 and 61-70: prompts SENT; stories, explanations and vowelled voice.txt written and checked (dry run).
-    NEXT: `batch.py build` both (master: scratchpad `medcosmos/medcosmos-cardiac-156-q.jsonl`), then `voice.py make`.
+  - 51-60, 61-70 and 71-80: prompts SENT; stories, explanations and vowelled voice.txt written and checked (dry run).
+    NEXT: `batch.py build` them (master: scratchpad `medcosmos/medcosmos-cardiac-156-q.jsonl`), then `voice.py make`.
     Q56's option C is printed reversed in the book; corrected with `option: C = ...` (new in batch.py), tag
     x:key-corrected and a note.
-  - NEXT batches: 71-80 (then 81-90 with Q82 split into four questions in one lesson, 91-100, then 101-156).
+  - Q79: key corrected to C (the book reversed it). NEXT batches: 81-90 with Q82 split into four questions in one lesson, 91-100, then 101-156).
   - New recurring symbols (all approved by `symbols.py audit`, 93 in all): see `content/symbols.md`.
   - Work files are published with the content (`work/` on the content branch) and copied to the work branch
     under `drafts/medcosmos-cardiac/`.
