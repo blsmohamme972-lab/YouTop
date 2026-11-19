@@ -1,0 +1,148 @@
+book: medcosmos-cardiac
+# MedCosmos Cardiac, questions 31-40, written to the owner's five picture rules and the audited symbols
+# (content/symbols.json). Theme: New York City. Quotations: Rumi, the Masnavi (from memory, translated).
+
+== 31
+# DORV repair statements -> A, B, D true; C false (mortality is highest with a NONcommitted VSD, not a subaortic one).
+# both the orca and the dollar pipe rise out of the blue engine room -> double-outlet right ventricle (keywords: both)
+# ANSWER A: a red canvas tunnel from the hole under the orca straight into the orca's mouth -> subaortic or doubly committed VSD: tunnel repair to its artery
+# ANSWER B: cherry vendor at the hole under the dollar pipe, beside a switch lever and a flat square patch -> Taussig-Bing: tunnel, or straight patch + arterial switch
+# ANSWER D: a hole far from both, workmen pointing out of the window at a stone fountain -> some noncommitted VSDs need a Fontan-type repair
+title: DORV repair: a tunnel to the committed artery, Taussig-Bing by tunnel or by switch, a Fontan for some remote defects
+titleAr: إصلاح البطين الأيمن مزدوج المخرج: نفق إلى الشريان الملتزم، وتاوسيغ-بينغ بالنفق أو بالتبديل، وفونتان لبعض الفتحات البعيدة
+tags: cardiac/congenital d:technique q:recall l:3
+palette: warm late-afternoon light, cool blue engine room, bright red canvas, cherry red, pale grey stone
+keywords: heart -> the old hotel with a stag's head; double-outlet right ventricle -> both the orca balloon and the pipe of dollar bills rising out of the blue engine room; ventricle -> ground-floor engine rooms with huge ventilation fans; aorta -> the orca parade balloon; pulmonary -> a pipe of green dollar bills; Taussig-Bing -> a street vendor tossing Bing cherries through the hole under the dollar pipe; arterial switch -> a subway switchman pulling a big railway switch lever; Fontan -> a stone fountain in the courtyard
+must: BOTH the orca and the dollar pipe rise out of the BLUE engine room, none out of the red one; the red canvas tunnel runs from the first hole straight into the orca's mouth; the cherry vendor stands at the second hole, right under the dollar pipe, with the switch lever and the flat patch beside him; the third hole is far from both, and the fountain is outside that window
+scene: The ground floor of the old Brooklyn hotel with a stag's head over its door, seen cut open like a doll's house in warm late-afternoon light: the blue engine room on the viewer's left, the red engine room on the right, each with a huge ventilation fan, and a thick brick party wall between them with three holes in it. A giant orca parade balloon AND a pipe stuffed with green dollar bills BOTH rise out of the BLUE engine room through its ceiling; nothing rises out of the red room. CENTRE, dominant, larger than life and brightest: a tunnel of bright red canvas laid inside the blue engine room from the first hole, just under the orca, straight up into the orca's open mouth. RIGHT OF IT: at the second hole, right under the dollar pipe, a street vendor with a cart tosses Bing cherries through the hole; beside him a subway switchman pulls a big railway switch lever, and a workman holds up a flat square patch, ready to nail it over that hole. FAR LEFT, LOW: a third hole far from both the orca and the pipe; two workmen beside it point out of the window at a grey stone fountain in the courtyard.
+
+== 32
+# Tricuspid atresia in the first month -> A (systemic-to-pulmonary shunt), B (observation), D (pulmonary artery banding).
+# C (bidirectional Glenn) and E (Fontan) are false: they wait until pulmonary resistance falls (Glenn after about 3-6 months).
+# a trident welded shut at the door between the blue lobby and the blue engine room, a newborn in a crib -> tricuspid atresia, first month
+# ANSWER A: a plumber with a hose from the orca's flipper to a thin dollar pipe -> too little lung flow: a systemic-to-pulmonary shunt
+# ANSWER D: a worker buckling a leather belt round a bulging dollar pipe -> too much lung flow: pulmonary artery banding
+# ANSWER B: the night watchman sitting calmly with binoculars -> balanced flow: observation
+title: Tricuspid atresia in the first month: a shunt, a band or simply watching; the Glenn and the Fontan come later
+titleAr: رتق الصمام ثلاثي الشرف في الشهر الأول: تحويلة أو ربط أو مراقبة فقط، أمّا غلين وفونتان فبعد ذلك
+tags: cardiac/congenital d:indications q:recall l:2
+palette: snowy night, cool blue lobby, warm lamp light, green banknotes, rusted iron
+keywords: heart -> the old hotel with a stag's head; tricuspid atresia -> a trident welded shut under a thick iron cap; systemic-to-pulmonary shunt -> a hose joining the orca's flipper to the pipe of dollar bills; banding -> a leather belt buckled tight around the pipe of dollar bills; observation -> a night watchman sitting calmly with binoculars; pulmonary -> a pipe of green dollar bills; aorta -> the orca parade balloon
+must: the doorway between the blue lobby and the blue engine room is a trident welded shut; the hose joins the orca's flipper to the dollar pipe; the belt is buckled round the dollar pipe; the watchman only watches, holding nothing else
+scene: The blue wing of the old Brooklyn hotel with a stag's head over its door, seen cut open like a doll's house on a snowy night. Upstairs, the blue glass lobby; in it a newborn baby sleeps in a small crib. The doorway down from the lobby to the blue engine room is a big iron trident, welded shut under a thick rusted iron cap. CENTRE, dominant and brightest: a pipe stuffed with green dollar bills, and the three men gathered round it, each ready with his own remedy: a plumber holds a hose joining the flipper of a giant orca parade balloon to the pipe; a second worker buckles a leather belt tight around the pipe; and between them the old night watchman sits calmly on a stool, watching the pipe through binoculars.
+
+== 33
+# Contraindications to a Fontan -> C (left ventricular end-diastolic pressure 18 mm Hg) and E (pulmonary vascular resistance 6 Wood units).
+# A (age 25), B (severe mitral insufficiency, can be repaired) and D (right pulmonary artery stenosis, can be repaired) are false.
+# the fountain fed by the chimney, its water backing up and spilling over the rim -> a Fontan circulation fails
+# ANSWER E: six wooden blocks jammed in the dollar pipe -> pulmonary vascular resistance of 6 Wood units
+# ANSWER C: a gauge reading 18 in the red on the wall of the red engine room -> left ventricular end-diastolic pressure of 18
+title: Fontan contraindications: a left ventricular end-diastolic pressure of 18 and a pulmonary resistance of 6 Wood units
+titleAr: موانع عملية فونتان: ضغط انبساطي في البطين الأيسر قدره 18، ومقاومة رئوية قدرها 6 وحدات وود
+tags: cardiac/congenital d:indications q:numbers l:2 x:high-yield
+palette: dusk in a city courtyard, grey stone, silver water, green banknotes, pale wood, one gauge glowing red
+words: 18, 6
+keywords: heart -> the old hotel with a stag's head; Fontan -> a stone fountain fed by the blue wing's chimney, its water running into the pipe of dollar bills with no pump; superior vena cava -> the chimney of the blue wing; pulmonary vascular resistance -> six wooden blocks jammed inside the pipe of dollar bills; left ventricular end-diastolic pressure -> a pressure gauge reading 18 deep in the red, on the wall of the red engine room beside its slow fan; pulmonary -> a pipe of green dollar bills
+must: the fountain has no pump, and is fed from the chimney; exactly six wooden blocks are jammed in the clear dollar pipe; the gauge on the red engine room's wall reads 18 in the red; the water backs up and spills over the fountain's rim
+scene: The courtyard of the old Brooklyn hotel with a stag's head over its door, at dusk. The blue wing's brick chimney bends down into the courtyard and feeds a round grey stone fountain; there is no pump. From the fountain's basin the water should run on into a clear glass pipe stuffed with green dollar bills, which leads back into the hotel. CENTRE, dominant and brightest: the fountain's water backing up and spilling over the stone rim onto the cobbles, because exactly six pale wooden blocks are jammed one behind another inside the clear dollar pipe. RIGHT, through the cut-open wall: the red engine room with its slow fan, and on its wall a big round pressure gauge reading 18, its needle deep in the red. An old engineer stands between the fountain and the pipe, shaking his head.
+
+== 34
+# Initial management of a newborn with hypoplastic left heart syndrome -> A only: intravenous PGE1.
+# B (oxygen) and C (hyperventilation) are false: they lower pulmonary resistance and steal flow from the body; D (routine catheter septostomy) is false.
+# a plastic toy hippo in a doll-sized red wing -> hypoplastic left heart syndrome
+# ANSWER A: a raised beer stein propping the duct-tape tunnel open, the money flowing on into the orca -> PGE1 keeps the duct open; the body depends on it
+title: Hypoplastic left heart at birth: start intravenous PGE1 to keep the duct open
+titleAr: نقص تنسّج القلب الأيسر عند الولادة: ابدأ PGE1 وريديًا لإبقاء القناة الشريانية مفتوحة
+tags: cardiac/congenital d:pharmacology q:next-step l:2 x:trap
+palette: golden beer, shiny silver tape, toy-red plastic, warm tavern light, green banknotes
+keywords: heart -> the old hotel with a stag's head; hypoplastic left heart syndrome -> a little plastic toy hippo wedged into a red wing shrunk to doll size; prostaglandin -> a raised beer stein propping the duct-tape tunnel open; ductus arteriosus -> a tunnel of shiny silver duct tape between the pipe of dollar bills and the orca; pulmonary -> a pipe of green dollar bills; aorta -> the orca parade balloon; ventricle -> engine room with a huge ventilation fan
+must: the red wing is tiny, toy-sized, with a plastic hippo wedged in it; the big blue engine room pumps into the dollar pipe; the beer stein holds the duct-tape tunnel open; dollar bills flow through the tunnel into the orca
+scene: The old Brooklyn hotel with a stag's head over its door, seen cut open like a doll's house: the blue wing on the viewer's left is big and strong, its engine room fan roaring; the red wing on the right has shrunk to the size of a doll's house, and a little plastic toy hippo is wedged inside it. From the blue engine room a pipe stuffed with green dollar bills rises. CENTRE, dominant, larger than life and brightest: a short tunnel of shiny silver duct tape joining that pipe to a giant orca parade balloon, the tunnel sagging shut, and a big raised beer stein of golden beer, held up by a cheerful bartender, propping the tunnel wide open so the dollar bills pour through it into the orca.
+
+== 35
+# The bidirectional Glenn as the second stage for hypoplastic left heart -> A, C, D true; B false (saturation stays about 75-85%, not above 90%).
+# an astronaut with a 2 on his helmet bending the chimney into the money pipe, the toy hippo in the doll-sized red wing -> a Glenn as stage two in HLHS
+# ANSWER A: flood water draining out of the single blue engine room, its fan turning easily -> relief of the volume load on the single right ventricle
+# ANSWER C: a plumber loosening a pinch in the dollar pipe and in the orca's arched back at the same time -> concomitant repair of pulmonary or arch stenoses
+# ANSWER D: the fountain waiting in the courtyard, an undertaker wheeling an empty coffin away from it -> lower mortality and morbidity of the later Fontan
+title: The Glenn as stage two: less volume load, pulmonary and arch repairs at the same time, a safer Fontan later
+titleAr: عملية غلين مرحلةً ثانية: حِمل حجميّ أقلّ، وإصلاح الشريان الرئوي والقوس معها، وفونتان أسلم بعدها
+tags: cardiac/congenital d:technique q:recall l:3
+palette: bright morning, white spacesuit, red brick chimney, green banknotes, black-and-white orca, grey stone
+words: 2
+keywords: heart -> the old hotel with a stag's head; Glenn -> an astronaut in a white spacesuit bending the blue wing's chimney down and plugging it into the pipe of dollar bills; hypoplastic left heart syndrome -> a little plastic toy hippo wedged into a red wing shrunk to doll size; ventricle -> the blue engine room with its huge ventilation fan; pulmonary artery -> a pipe of green dollar bills; aortic arch -> the orca balloon's arched back; Fontan -> a stone fountain in the courtyard; mortality -> an empty coffin
+must: the astronaut has a big 2 on his helmet and joins the chimney straight into the dollar pipe; the flood water drains out of the blue engine room; the plumber works on the dollar pipe and the orca's back at the same time; the coffin is EMPTY and is wheeled AWAY from the fountain
+scene: The old Brooklyn hotel with a stag's head over its door, seen cut open like a doll's house on a bright morning; its red wing has shrunk to doll size with a little plastic toy hippo wedged inside, so the big blue wing does all the work. CENTRE, dominant and brightest: on the roof an astronaut in a white spacesuit, a big 2 painted on his helmet, bends the blue wing's brick chimney down and plugs it straight into a pipe stuffed with green dollar bills. BELOW: the blue engine room, knee-deep in flood water a moment ago, is draining through a wide drain, and its huge ventilation fan now turns easily. RIGHT: on a ladder a plumber with a big wrench loosens a pinch in the dollar pipe with one hand and a pinch in the arched back of a giant orca parade balloon with the other. FOREGROUND, in the courtyard: a grey stone fountain waits, still dry, and an undertaker wheels an empty coffin away from it.
+
+== 36
+# Truncus arteriosus statements -> B, C, D true; A false (most die in infancy without an operation).
+# one thick tree trunk astride the hole in the party wall, the orca and the dollar pipes branching off it -> truncus arteriosus
+# ANSWER C: yellow taxis gridlocked outside the window -> most infants present with congestive heart failure
+# ANSWER B: a baby with bright blue lips -> most infants have some cyanosis
+# ANSWER D: workers fitting a clear waterslide tube from the blue engine room to the dollar pipes -> repair needs a right ventricle to pulmonary artery conduit
+title: Truncus arteriosus: infants come with heart failure and cyanosis; repair needs a right ventricle to pulmonary artery conduit
+titleAr: الجذع الشرياني المشترك: يأتي الرضّع بقصور القلب وبالزرقة، ويحتاج الإصلاح أنبوبًا من البطين الأيمن إلى الشريان الرئوي
+tags: cardiac/congenital d:diagnosis q:recall l:2
+palette: rainy evening, bark brown, taxi yellow, cyan blue lips, clear glass, green banknotes
+keywords: heart -> the old hotel with a stag's head; truncus arteriosus -> one thick tree trunk rising from both engine rooms, astride the hole in the party wall, with the orca and the pipes of dollar bills branching off it; congestive heart failure -> a traffic jam of yellow taxis; cyanosis -> a baby with bright blue lips; conduit -> a clear twisting waterslide tube from the blue engine room to the pipes of dollar bills; ventricle -> ground-floor engine rooms with huge ventilation fans; aorta -> the orca parade balloon; pulmonary -> pipes of green dollar bills
+must: ONE tree trunk rises from both engine rooms over the hole, and both the orca and the dollar pipes branch off it; the waterslide tube runs from the blue engine room to the dollar pipes; the baby's lips are bright blue; the taxis outside do not move
+scene: The ground floor of the old Brooklyn hotel with a stag's head over its door, seen cut open like a doll's house on a rainy evening: the blue engine room on the viewer's left, the red one on the right, each with a huge ventilation fan, and a hole in the party wall between them. Out of BOTH rooms, astride the hole, rises ONE thick tree trunk; high up, a giant orca parade balloon and pipes stuffed with green dollar bills branch off it. CENTRE, dominant and brightest: two workers have sawn the dollar pipes off the trunk and are fitting a clear, twisting waterslide tube from the blue engine room up to them. LEFT FOREGROUND: a young mother holds a baby whose lips and fingertips are bright blue. Through the window behind: yellow taxis gridlocked bumper to bumper in the rain.
+
+== 37
+# Anatomic components of truncus arteriosus -> A (VSD), B (abnormal origin of the pulmonary arteries), D (a single ventricular outflow valve). C (subaortic stenosis) is false.
+# the tree trunk astride the party wall -> truncus arteriosus
+# ANSWER A: a large hole in the party wall right under the trunk -> a VSD
+# ANSWER B: dollar pipes sprouting from the side of the trunk like branches -> the pulmonary arteries arise from the trunk
+# ANSWER D: one single round trapdoor at the foot of the trunk -> a single (truncal) outflow valve
+title: Truncus arteriosus anatomy: a VSD, pulmonary arteries arising from the trunk, one outflow valve
+titleAr: تشريح الجذع الشرياني المشترك: فتحة بين البطينين، وشرايين رئوية تخرج من الجذع، وصمام مخرج واحد
+tags: cardiac/congenital d:anatomy q:recall l:1 x:high-yield
+palette: lantern light, dark bark, warm brick, green banknotes, one golden trapdoor
+keywords: heart -> the old hotel with a stag's head; truncus arteriosus -> one thick tree trunk rising astride the hole in the party wall; pulmonary arteries -> pipes of green dollar bills sprouting from the side of the tree trunk like branches; single outflow valve -> one round golden trapdoor at the foot of the trunk; ventricle -> ground-floor engine rooms with huge ventilation fans; aorta -> the orca parade balloon
+must: the large hole is in the party wall directly under the trunk; there is only ONE trapdoor, at the foot of the trunk, opening into both rooms; the dollar pipes grow out of the trunk's side, not out of any room
+scene: The ground floor of the old Brooklyn hotel with a stag's head over its door, seen cut open like a doll's house at night, lit by one lantern: the blue engine room on the viewer's left, the red one on the right, each with a huge ventilation fan. CENTRE, dominant and brightest: a large hole broken through the party wall between the rooms, and directly over it ONE thick tree trunk; at the trunk's foot a single round golden trapdoor opens into both rooms at once. Halfway up, pipes stuffed with green dollar bills sprout from the side of the trunk like branches; higher up the trunk becomes a giant orca parade balloon. An old tree surgeon holds the lantern up to the trunk.
+
+== 38
+# Newborn transposition {S,D,D} with intact ventricular septum -> A (PGE1 for the duct), B (intravenous fluid), E (balloon atrial septostomy).
+# C (hyperventilation) and D (oxygen to raise arterial oxygen tension) are false.
+# the orca and the dollar pipe swapped, a solid party wall downstairs -> transposition with intact ventricular septum
+# ANSWER E: a red party balloon yanked through the upper party wall, tearing the hole wider, blue and red streams mixing -> balloon atrial septostomy improves mixing
+# ANSWER A: a raised beer stein propping the duct-tape tunnel open -> PGE1 keeps the duct open
+# ANSWER B: a plumber filling the hotel's rooftop water tower to the brim -> intravenous fluid to increase intravascular volume
+title: Newborn transposition with an intact septum: PGE1, intravenous fluid and balloon atrial septostomy
+titleAr: تبدّل الشرايين الكبيرة عند الوليد مع حاجز سليم بين البطينين: PGE1 وسوائل وريدية وفغر الحاجز الأذيني بالبالون
+tags: cardiac/congenital d:indications q:next-step l:2
+palette: night, red and blue wings mirrored, a bright red party balloon, golden beer, silver water
+keywords: heart -> the old hotel with a stag's head; transposition -> the orca and the pipe of dollar bills swapped: the orca rising out of the blue engine room, the dollar pipe out of the red one; balloon atrial septostomy -> a round red party balloon on a string, yanked through the upper party wall so that it tears the hole wider; prostaglandin -> a raised beer stein propping the duct-tape tunnel open; ductus arteriosus -> a tunnel of shiny silver duct tape between the orca and the dollar pipe; intravenous fluid -> a plumber filling the hotel's rooftop water tower to the brim with a hose; atrium -> the glass-roofed atrium lobbies; ventricle -> engine rooms with huge ventilation fans
+must: the orca rises out of the BLUE engine room and the dollar pipe out of the RED one; the lower party wall is whole, with no hole; the party balloon is pulled through the UPPER wall between the lobbies; blue and red streams mix through the torn hole
+scene: The old Brooklyn hotel with a stag's head over its door, seen cut open like a doll's house at night, everything swapped as in a mirror: a giant orca parade balloon rises out of the BLUE engine room on the viewer's left, a pipe stuffed with green dollar bills out of the RED engine room on the right; the lower party wall between the engine rooms is solid, with no hole. CENTRE, dominant and brightest: upstairs, between the blue and red glass lobbies, a nurse yanks a round red party balloon on a string through the upper party wall, tearing its small hole wide open, and blue and red streams swirl together through the tear. ABOVE: a short tunnel of shiny silver duct tape joins the orca to the dollar pipe, propped wide open by a raised beer stein. ON THE ROOF: a plumber fills the hotel's round wooden water tower to the brim with a hose, water spilling over its top.
+
+== 39
+# What rules out a one-stage arterial switch for transposition -> A (older than 6 weeks with left ventricular pressure under 50% of systemic) and D (valvar pulmonary stenosis).
+# B (dynamic LV outflow obstruction), C (intramural coronary anatomy) and E (subpulmonary VSD) are false: they are managed during the switch.
+# the switchman blocked at the big railway switch lever -> the one-stage arterial switch cannot go ahead
+# ANSWER A: the red engine room's fan dusty and slow, a calendar at 6 weeks, its gauge below the halfway mark -> a deconditioned left ventricle after 6 weeks, pressure under 50%
+# ANSWER D: an iron clamp on the dollar pipe's mouth, the part that would become the new aortic valve -> valvar pulmonary stenosis
+title: What forbids a one-stage arterial switch: a deconditioned left ventricle after 6 weeks, valvar pulmonary stenosis
+titleAr: ما يمنع التبديل الشرياني على مرحلة واحدة: بطين أيسر ضعُف بعد ستة أسابيع، وتضيّق الصمام الرئوي
+tags: cardiac/congenital d:indications q:numbers l:3
+palette: cold grey dawn, dusty red engine room, black iron, green banknotes, a subway signal light
+words: 6, 50%
+keywords: heart -> the old hotel with a stag's head; arterial switch -> a subway switchman at a big railway switch lever that will not move; transposition -> the orca and the pipe of dollar bills swapped; ventricle -> the red engine room's huge ventilation fan, dusty and slow; left ventricular pressure -> a gauge beside the red engine room's slow ventilation fan, its needle below the 50% mark; pulmonary stenosis -> a pipe of dollar bills squeezed narrow by an iron clamp at its mouth
+must: the orca rises out of the blue engine room and the dollar pipe out of the red one; the red room's fan is dusty and slow, the calendar shows 6 WEEKS, and the gauge needle is BELOW 50%; the clamp is right at the dollar pipe's mouth
+scene: The old Brooklyn hotel with a stag's head over its door, seen cut open like a doll's house at a cold grey dawn, its arteries swapped: a giant orca parade balloon rises out of the blue engine room on the viewer's left, a pipe stuffed with green dollar bills out of the red engine room on the right. In front of them a subway switchman strains with both hands at a big railway switch lever that will not move. CENTRE, dominant and brightest: the red engine room, its huge ventilation fan dusty and turning slowly, cobwebs in its blades; on its wall a calendar shows 6 WEEKS and a pressure gauge's needle lies below the 50% mark. RIGHT, just as bright: a heavy iron clamp squeezes the dollar pipe narrow right at its mouth, where it leaves the red room.
+
+== 40
+# Common complications of the atrial (Senning and Mustard) repairs -> A (atrial arrhythmias), B (systemic or pulmonary venous obstruction), D (systemic ventricular failure).
+# C (right ventricular outflow obstruction) and E (progressive pulmonary vascular resistance) are false.
+# a thick mustard wall across the upper lobbies, crossing the streams; arteries still swapped -> an atrial switch for transposition
+# ANSWER A: a pirate shouting ARRR and dancing a wild jig out of step on the mustard wall -> atrial arrhythmias
+# ANSWER B: the chimney and a returning dollar pipe pinched where they enter the mustard channels -> systemic or pulmonary venous obstruction
+# ANSWER D: the blue engine room's fan smoking and failing, the orca sagging above it -> failure of the systemic (right) ventricle
+title: After a Senning or Mustard repair: atrial arrhythmias, venous obstruction and failure of the systemic right ventricle
+titleAr: بعد إصلاح سنينغ أو ماستارد: اضطراب النظم الأذيني، وانسداد المسارات الوريدية، وفشل البطين الأيمن الذي يضخّ للجسم
+tags: cardiac/congenital d:complications q:recall l:2 x:high-yield
+palette: mustard yellow, blue and red wings, smoke grey, black pirate hat, green banknotes
+keywords: heart -> the old hotel with a stag's head; atrial switch -> a giant squeeze bottle of yellow mustard drawing a thick mustard wall across the upper lobbies that crosses the two streams over; arrhythmia -> a pirate shouting ARRR and dancing a wild jig out of step with the music; superior vena cava -> the chimney of the blue wing; pulmonary veins -> a returning pipe of green dollar bills; transposition -> the orca and the pipe of dollar bills swapped; ventricle -> the blue engine room's huge ventilation fan, smoking and failing
+must: the mustard wall runs across BOTH upper lobbies; the pirate dances on top of it; the chimney and the returning dollar pipe are pinched exactly where they enter the mustard channels; the orca still rises out of the BLUE engine room, whose fan smokes
+scene: The old Brooklyn hotel with a stag's head over its door, seen cut open like a doll's house; its arteries are swapped: a giant orca parade balloon rises out of the blue engine room on the viewer's left. Upstairs, a giant squeeze bottle of yellow mustard has drawn a thick, winding mustard wall across both glass lobbies, crossing the two streams over. CENTRE, dominant and brightest: on top of the mustard wall a pirate in a black hat shouts ARRR and dances a wild jig out of step with a street band below. AT THE TOP CORNERS: the blue wing's brick chimney and a returning pipe of green dollar bills are both pinched tight exactly where they enter the mustard channels. BELOW: the blue engine room's huge ventilation fan smokes and stutters, and the orca above it sags.
