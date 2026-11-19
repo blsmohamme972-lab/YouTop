@@ -19,18 +19,20 @@ Updated 2026-11-19 (evening). Whoever works on YouTop next: read `CLAUDE.md`, th
   ends: while it runs, never build, set pictures, spots or marks, or publish. Start make as a round's last step.
 - **Unpublished work** lives in `.content-work/work/medcosmos-cardiac/batch-*/` (batch, voice, spots, marks) and is
   backed up on the work branch under `drafts/medcosmos-cardiac/` until it is published to `content`.
-- **Where things stand (2026-11-19, 22:55 UTC):**
+- **Where things stand (2026-11-19, 22:40 UTC):**
   - **1-20 PUBLISHED.** Pictures 2 and 4 still missing (texts, spots and marks for them are in
     `work/medcosmos-cardiac/batch-0001-0020/`; when they arrive: `batch.py pictures`, spots, marks, look, publish).
-  - 21-30: built and RECORDED; `voice.py check` (log: scratchpad `voice-check-21.log`). Waiting for the owner's
-    pictures 21-30; then `batch.py pictures`, spots, marks, look at every drawing, publish.
-  - 31-40 and 41-50: written, built, prompts SENT; recording running (log: scratchpad `voice-make-31.log`; it rewrites
-    chapter `q0001-0100` at the end of EACH make, so nothing else may write that chapter until `exit41` appears).
-    Then `voice.py check` both.
-  - 51-60: scenes and prompts written and SENT. NEXT: stories (vowelled voice.txt), explanations, build, make.
-    Q56's option C is printed reversed in the book; corrected with the new `option: C = ...` line (batch.py),
-    tag x:key-corrected and a note.
-  - New recurring symbols (all approved by `symbols.py audit`, 83 in all): see `content/symbols.md`.
+  - 21-30: built, RECORDED and voice-checked. Waiting for the owner's pictures 21-30; then `batch.py pictures`,
+    write spots.txt and marks.txt from the pictures, look at every drawing, publish.
+  - 31-40 and 41-50: built, prompts SENT; recording running (log: scratchpad `voice-make-31.log`; it rewrites chapter
+    `q0001-0100` at the end of EACH make, so nothing else may write that chapter until `exit41` appears). Then
+    `voice.py check` both.
+  - 51-60 and 61-70: prompts SENT; stories, explanations and vowelled voice.txt written and checked (dry run).
+    NEXT: `batch.py build` both (master: scratchpad `medcosmos/medcosmos-cardiac-156-q.jsonl`), then `voice.py make`.
+    Q56's option C is printed reversed in the book; corrected with `option: C = ...` (new in batch.py), tag
+    x:key-corrected and a note.
+  - NEXT batches: 71-80 (then 81-90 with Q82 split into four questions in one lesson, 91-100, then 101-156).
+  - New recurring symbols (all approved by `symbols.py audit`, 93 in all): see `content/symbols.md`.
   - Work files are published with the content (`work/` on the content branch) and copied to the work branch
     under `drafts/medcosmos-cardiac/`.
 - **Question 82** has a matching key and is refused by build; plan: split it into four questions in one lesson.
