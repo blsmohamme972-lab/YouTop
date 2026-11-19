@@ -130,6 +130,14 @@ between; a bold colour scheme named for that picture; and a different setting ea
 a gate, a forge at dusk, a summer fair, a monastery at evening…). The frame is built into
 `tools/content/batch.py` (`image_prompt`), with the book's style from `content/books/<book id>.json`.
 
+**Since 2026-11-19 every prompt follows the owner's five rules** (the full text is in the skill,
+"The picture prompt is the most important step"): (1) one scene in which the elements interact;
+(2) every abstract term becomes a concrete English sound-alike object (`keywords:`); (3) the
+answer is signalled (centre, size, light) and every decorative element is removed; (4) ordered
+facts sit on a route (a memory palace); (5) recurring concepts use the same symbol in every book,
+from `content/symbols.md`, where new symbols are added only with the owner's approval. The prompt
+is the most important step of the work, the story the second.
+
 ### Step 4 — quotations
 
 The Arabic story ends with a **real** quotation from the book's author, chosen to fit that

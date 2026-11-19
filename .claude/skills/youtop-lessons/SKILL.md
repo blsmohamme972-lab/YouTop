@@ -13,6 +13,48 @@ Read first, and only these: `docs/status.md` (what is done, what must not change
 sections "The story is a story" and "Tags" of `docs/content-guide.md`. The rest of the guide is
 reference for when something unusual comes up (a new book).
 
+## The picture prompt is the most important step (the owner's rules, 2026-11-19)
+
+The image prompt is the most important step of all the work; the story is the second. Every prompt
+is written to these five rules. They come from memory research, and they apply to every book from
+MedCosmos Cardiac (lessons 1-20 are the first set written to them) onwards.
+
+1. **One interacting scene.** The elements act on each other inside one meaningful event (one
+   pushes, squeezes, cuts or feeds another), never stand side by side. An interacting image binds
+   the items into one memory unit, so recalling one part brings back the others. This is the most
+   replicated finding about mnemonics (Bower 1970; Wollen et al. 1972).
+2. **Abstract terms become concrete sound-alike objects (VERY IMPORTANT).** Every abstract term the
+   answer depends on (a drug, a disease, a structure, a procedure, an eponym, a trial) gets a
+   concrete *keyword*: an everyday thing whose English name sounds like the term (atropine →
+   a gold TROPHY; secundum → a clock's SECOND hand; asystole → "a SISTER", a nun lying still),
+   drawn big and doing something in the scene. Concrete things are far easier to picture and keep
+   than abstract words (Paivio, dual coding; Atkinson & Raugh 1975, keyword method). Sound-alikes are
+   English words. When no sound-alike exists, take the thing the term literally names (a duct, a
+   bundle of branches, a crown for "corona"). Write each one in the batch file's `keywords:` line
+   (`term → object (why it sounds alike)`): the prompt repeats them, and they feed the marks.
+3. **Signal the answer, strip everything else.** The element that carries the answer is the
+   dominant one: centre, largest, brightest light, the thing a gesture or a path points to. Every
+   element that does not encode a fact is removed: no decorative people, crowds, props or
+   background details. Decorative detail competes for attention and lowers recall of the main point
+   (Harp & Mayer 1998; meta-analyses of signalling). A wrong option may have an element only if the
+   picture shows *why* it is wrong.
+4. **A memory palace for ordered information.** Steps, sequences, pathways, types and
+   classifications go on fixed places along one route that the eye follows (landings of a
+   stairway numbered 1-2-3, floors of a building, left to right along a street, top to bottom of a
+   wall), and the order of the route is the order of the facts. Fixed locations give a ready
+   retrieval path that keeps the sequence (Twomey & Kroneisen 2021, meta-analysis).
+5. **Recurring symbols, the same in every book.** A concept that comes back (the heart's chambers,
+   the aorta, CPR, stroke, a drug) always has the same symbol, from `content/symbols.md`. A bad
+   recurring symbol spoils all later work, so a new one is added there only with great care:
+   concrete, a sound-alike or something that sticks at first sight, unmistakable, easy to draw,
+   and approved by the owner before any picture uses it. Never invent a second symbol for a
+   concept that already has one; propose a change in `symbols.md` instead.
+
+Before handing over a prompt, read it against the five rules: does every element interact? Has every
+abstract term of the answer a concrete keyword? Is the answer the brightest, largest thing? Is
+anything decorative left? Is ordered information on a route? Are recurring concepts drawn with
+their symbol from `symbols.md`?
+
 ## The standard order (the owner's decision, 2026-11-16; lessons 41-45 are the worked set)
 
 The owner makes the pictures by hand, and that is the slow part. So **the image prompts go to the
@@ -49,10 +91,12 @@ Per question (format at the top of `batch.py`):
 - `title` / `titleAr`: the teaching point, short.
 - `tags`: 1-2 topics, 1-2 `d:`, exactly one `q:`, exactly one `l:`, any `x:` — from
   `content/taxonomy.txt`. Tag what the question *tests*, not its chapter.
-- `palette`, `scene`, optional `words`: the picture. One dominant focal point; few, large
-  elements, each in its own area and each standing for one fact of the answer; a different
-  setting and colour scheme every time; metaphors, no anatomy. `words` = at most three short
-  labels or numbers painted in it.
+- `palette`, `scene`, `keywords`, optional `words`: the picture, written to the five rules above.
+  One dominant focal point that carries the answer; few, large elements, each in its own area,
+  each standing for one fact and acting on another; a different colour scheme every time; the
+  book's theme (`theme` in its json, e.g. New York City); metaphors, no anatomy. `keywords` = the
+  sound-alike objects (rule 2) and recurring symbols (rule 5) the scene uses. `words` = at most
+  three short labels or numbers painted in it.
 - `story:` 8-11 short Arabic sentences, one per line. A real story in the manner of the book's
   author (people with names, an event, a turn), in eloquent, forceful classical Arabic. Every
   object of the scene appears and *does* something; numbers painted in the picture are said.
@@ -120,8 +164,10 @@ It never touches lesson text. Keep the marks file under `work/<book>/marks/`.
 ## 6. Table first, and the recorded voice (since 2026-11-16, lessons 41-45 are the worked set)
 
 **Table first.** Before the scene and the story, write for each question the 5 to 7 elements of
-the picture and the fact each stands for, as `#` lines under `== N` in `batch.txt`; mark the one
-that is the ANSWER and make it the picture's dominant element. Scene, story and explanation are
+the picture and the fact each stands for, as `#` lines under `== N` in `batch.txt`
+(`# element → fact (keyword: term → object)`); mark the one that is the ANSWER and make it the
+picture's dominant element. A question with several correct options has one element per correct
+option, all of them lit together. Scene, story and explanation are
 then written from that table, in its order, and it becomes the lesson's marks (step 5) when the
 picture arrives. A fact with no element, or an element with no fact, is a sign to redo the table.
 
