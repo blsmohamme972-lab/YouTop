@@ -123,6 +123,16 @@ a batch that draws a listed concept any other way is refused by `batch.py`.
 | malignant tumour, cancer, sarcoma, metastasis | a red crab | cancer = the crab (Hippocrates' karkinos) | 10/10 | medcosmos-cardiac |
 | heart block (atrioventricular block) | a raised drawbridge between the upper lobby and the engine room, so no signal can cross | the signal cannot cross from atria to ventricles | 10/10 | medcosmos-cardiac |
 | sinus node, sick sinus syndrome | an orchestra conductor at the top of the blue lobby beside the chimney, beating time with his baton | the sinus node sets the time for the whole heart | 9/10 | medcosmos-cardiac |
+| ACE inhibitors (captopril, enalapril) | a tennis player serving an ace at the US Open in Queens | ACE inhibitor = a tennis ace | 10/10 | medcosmos-cardiac |
+| dopamine | a coal miner with a lamp on his helmet, pushing hard | dopa-MINE = a miner | 10/10 | medcosmos-cardiac |
+| phosphodiesterase inhibitors (milrinone, amrinone) | a tall windmill turning its sails | MIL-rinone = a mill; amrinone its older twin | 9/10 | medcosmos-cardiac |
+| dobutamine | a strong Doberman dog pulling on its leash | DOBUtamine = a Doberman | 10/10 | medcosmos-cardiac |
+| digitalis, digoxin | a tall purple foxglove flower | digitalis comes from the foxglove (Digitalis purpurea) | 10/10 | medcosmos-cardiac |
+| sodium nitroprusside, afterload reduction | a Prussian soldier in a spiked helmet throwing the city's gates wide open | nitro-PRUSSIDE = a Prussian; it opens the arteries (afterload) | 10/10 | medcosmos-cardiac |
+| furosemide (Lasix), diuretics | a cowboy's lasso pulling water out of a flooded room | LASIX = lasso; it pulls the water out | 10/10 | medcosmos-cardiac |
+| heparin | a fast brown hare | HEpARin ~ hare: quick on, quick off | 9/10 | medcosmos-cardiac |
+| aspirin | a small asp snake coiled round a white tablet | ASPirin = an asp | 10/10 | medcosmos-cardiac |
+| pacemaker sensing | a brass ear trumpet held up to listen | the pacemaker listens before it beats | 9/10 | medcosmos-cardiac |
 
 ## Rejected (never use them)
 

@@ -3182,6 +3182,285 @@
    "status": "approved",
    "reason": "total 9/10",
    "audited": "2026-11-19"
+  },
+  {
+   "id": "ace-inhibitor",
+   "concept": "ACE inhibitors (captopril, enalapril)",
+   "terms": [
+    "ace inhibitor",
+    "ace inhibitors",
+    "captopril",
+    "enalapril",
+    "lisinopril",
+    "angiotensin-converting enzyme inhibitor"
+   ],
+   "symbol": "a tennis player serving an ace at the US Open in Queens",
+   "anchors": [
+    "tennis"
+   ],
+   "kind": "sound-alike",
+   "why": "ACE inhibitor = a tennis ace",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "dopamine",
+   "concept": "dopamine",
+   "terms": [
+    "dopamine"
+   ],
+   "symbol": "a coal miner with a lamp on his helmet, pushing hard",
+   "anchors": [
+    "miner"
+   ],
+   "kind": "sound-alike",
+   "why": "dopa-MINE = a miner",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "pde-inhibitor",
+   "concept": "phosphodiesterase inhibitors (milrinone, amrinone)",
+   "terms": [
+    "milrinone",
+    "melrinone",
+    "amrinone",
+    "phosphodiesterase inhibitor",
+    "phosphodiesterase inhibitors",
+    "pde inhibitor"
+   ],
+   "symbol": "a tall windmill turning its sails",
+   "anchors": [
+    "windmill"
+   ],
+   "kind": "sound-alike",
+   "why": "MIL-rinone = a mill; amrinone its older twin",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "dobutamine",
+   "concept": "dobutamine",
+   "terms": [
+    "dobutamine"
+   ],
+   "symbol": "a strong Doberman dog pulling on its leash",
+   "anchors": [
+    "doberman"
+   ],
+   "kind": "sound-alike",
+   "why": "DOBUtamine = a Doberman",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "digitalis",
+   "concept": "digitalis, digoxin",
+   "terms": [
+    "digitalis",
+    "digoxin",
+    "digitalis compounds",
+    "intravenous digitalis"
+   ],
+   "symbol": "a tall purple foxglove flower",
+   "anchors": [
+    "foxglove"
+   ],
+   "kind": "literal",
+   "why": "digitalis comes from the foxglove (Digitalis purpurea)",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "nitroprusside",
+   "concept": "sodium nitroprusside, afterload reduction",
+   "terms": [
+    "nitroprusside",
+    "sodium nitroprusside"
+   ],
+   "symbol": "a Prussian soldier in a spiked helmet throwing the city's gates wide open",
+   "anchors": [
+    "spiked helmet"
+   ],
+   "kind": "sound-alike",
+   "why": "nitro-PRUSSIDE = a Prussian; it opens the arteries (afterload)",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "furosemide",
+   "concept": "furosemide (Lasix), diuretics",
+   "terms": [
+    "furosemide",
+    "lasix",
+    "diuresis",
+    "diuretic",
+    "diuretics",
+    "loop diuretic"
+   ],
+   "symbol": "a cowboy's lasso pulling water out of a flooded room",
+   "anchors": [
+    "lasso"
+   ],
+   "kind": "sound-alike",
+   "why": "LASIX = lasso; it pulls the water out",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "heparin",
+   "concept": "heparin",
+   "terms": [
+    "heparin",
+    "intravenous heparin",
+    "unfractionated heparin",
+    "low molecular weight heparin",
+    "heparinization"
+   ],
+   "symbol": "a fast brown hare",
+   "anchors": [
+    "hare"
+   ],
+   "kind": "sound-alike",
+   "why": "HEpARin ~ hare: quick on, quick off",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "aspirin",
+   "concept": "aspirin",
+   "terms": [
+    "aspirin",
+    "acetylsalicylic acid"
+   ],
+   "symbol": "a small asp snake coiled round a white tablet",
+   "anchors": [
+    "asp"
+   ],
+   "kind": "sound-alike",
+   "why": "ASPirin = an asp",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "sensing",
+   "concept": "pacemaker sensing",
+   "terms": [
+    "sensing",
+    "undersensing",
+    "oversensing",
+    "ventricular sensing",
+    "atrial sensing",
+    "inappropriate ventricular sensing"
+   ],
+   "symbol": "a brass ear trumpet held up to listen",
+   "anchors": [
+    "ear trumpet"
+   ],
+   "kind": "literal",
+   "why": "the pacemaker listens before it beats",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
   }
  ]
 }
