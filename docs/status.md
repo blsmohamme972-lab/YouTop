@@ -4,6 +4,22 @@ Updated 2026-11-19 (evening). Whoever works on YouTop next: read `CLAUDE.md`, th
 `docs/content-guide.md`. Rewrite this file whenever the state changes (it replaces the
 `status-<n>.txt` files in the Drive folder "YouTop private", which stop at 7).
 
+## START HERE (2026-11-19, night): automatic rounds every hour until MedCosmos lessons 1-100 are done
+
+- **The owner's plan:** finish MedCosmos Cardiac lessons 1-100 with the highest accuracy, in automatic rounds, by
+  this one agent **alone (no subagents, no other sessions; the owner said so twice)**. A scheduled task "YouTop:
+  MedCosmos lessons 1-100, every hour" (trig_01CgSmtZZ33N4gFXAr9mtxZy) fires into session
+  session_01TX4PEBKfzepCPexupsMsgY at minute 14 of every hour; its prompt lists the round. It also carries the
+  work over a usage-limit pause: a firing during the pause fails, the next one resumes. Disable it with
+  update_trigger (enabled=false) when lessons 1-100 are all published, or when the owner says stop.
+- **One chapter holds lessons 1-100** (`q0001-0100`). `voice.py make` reads it when it starts and rewrites it when it
+  ends: while it runs, never build, set pictures, spots or marks, or publish. Start make as a round's last step.
+- **Unpublished work** lives in `.content-work/work/medcosmos-cardiac/batch-*/` (batch, voice, spots, marks) and is
+  backed up on the work branch under `drafts/medcosmos-cardiac/` until it is published to `content`.
+- **Where 1-20 stand (21:15 UTC):** 18 pictures in (2 and 4 missing). Recording of 1-20 restarted at 21:10 (1-10 from
+  the cache). Spots and marks files written for the 18 pictures, not applied yet. Nothing of MedCosmos published yet.
+- **Question 82** has a matching key and is refused by build; plan: split it into four questions in one lesson.
+
 ## NEW BOOK (2026-11-19): MedCosmos Cardiac, 156 questions — New York City, quotations of Rumi
 
 - **The owner's five picture rules (2026-11-19)** are now in the `youtop-lessons` skill ("The picture prompt is
