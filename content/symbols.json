@@ -1240,7 +1240,10 @@
     "subclavian-to-pulmonary artery shunt",
     "blalock-taussig shunt",
     "bt shunt",
-    "systemic-to-pulmonary shunt"
+    "systemic-to-pulmonary shunt",
+    "systemic-pulmonary shunt",
+    "systemic artery-to-pulmonary artery shunt",
+    "systemic artery to pulmonary artery shunt"
    ],
    "symbol": "a hose joining the orca's flipper to the pipe of dollar bills",
    "anchors": [
@@ -1760,6 +1763,1692 @@
    ],
    "kind": "sound-alike",
    "why": "CYAN-osis = cyan blue",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "ross",
+   "concept": "Ross operation (pulmonary autograft to the aortic position)",
+   "terms": [
+    "ross",
+    "ross procedure",
+    "ross operation",
+    "pulmonary autograft",
+    "transfer of the pulmonary valve"
+   ],
+   "symbol": "a gardener moving a red rose from the mouth of the pipe of dollar bills to the orca balloon's mouth",
+   "anchors": [
+    "rose"
+   ],
+   "kind": "sound-alike",
+   "why": "ROSS = rose; the patient's own pulmonary valve is moved to the aortic position",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "porcine",
+   "concept": "porcine (pig) bioprosthetic valve",
+   "terms": [
+    "porcine",
+    "porcine valve",
+    "porcine valve prosthesis",
+    "porcine bioprosthesis",
+    "porcine xenograft"
+   ],
+   "symbol": "a pink pig",
+   "anchors": [
+    "pig"
+   ],
+   "kind": "literal",
+   "why": "porcine = pig",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "commissurotomy",
+   "concept": "commissurotomy, valvotomy (cutting fused valve leaflets apart)",
+   "terms": [
+    "commissurotomy",
+    "valvotomy",
+    "surgical valvotomy",
+    "open valvotomy",
+    "incision of fused commissures",
+    "fused commissures"
+   ],
+   "symbol": "a tailor's big scissors snipping apart lips that have been sewn together",
+   "anchors": [
+    "scissors"
+   ],
+   "kind": "literal",
+   "why": "the fused commissures are cut apart like a seam",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "subaortic-stenosis",
+   "concept": "subaortic (subvalvular aortic) stenosis, the subaortic membrane",
+   "terms": [
+    "subaortic stenosis",
+    "subvalvular aortic stenosis",
+    "subaortic membrane",
+    "discrete subaortic stenosis",
+    "subaortic"
+   ],
+   "symbol": "a shower curtain stretched across the red engine room's doorway just below the orca's mouth",
+   "anchors": [
+    "curtain"
+   ],
+   "kind": "literal",
+   "why": "a membrane hung just below the aortic valve",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "myectomy",
+   "concept": "septal myectomy (Morrow)",
+   "terms": [
+    "myectomy",
+    "septal myectomy",
+    "morrow myectomy",
+    "morrow procedure"
+   ],
+   "symbol": "a sculptor chiselling a block out of the bulging lower party wall",
+   "anchors": [
+    "chisel"
+   ],
+   "kind": "literal",
+   "why": "muscle is carved out of the septum",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "hcm",
+   "concept": "hypertrophic (obstructive) cardiomyopathy",
+   "terms": [
+    "hypertrophic obstructive cardiomyopathy",
+    "hypertrophic cardiomyopathy",
+    "hocm",
+    "hcm",
+    "asymmetric septal hypertrophy",
+    "idiopathic hypertrophic subaortic stenosis",
+    "ihss"
+   ],
+   "symbol": "the lower party wall swollen into the huge bulging biceps of a bodybuilder, crowding the red room's doorway to the orca",
+   "anchors": [
+    "bodybuilder"
+   ],
+   "kind": "literal",
+   "why": "a muscle-bound septum that blocks the outflow",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "beta-blocker",
+   "concept": "beta-blockers (propranolol, metoprolol, esmolol)",
+   "terms": [
+    "beta-blocker",
+    "beta blocker",
+    "beta-blockers",
+    "beta blockers",
+    "beta-adrenergic blockade",
+    "propranolol",
+    "metoprolol",
+    "esmolol",
+    "atenolol"
+   ],
+   "symbol": "an ice-hockey goalkeeper slamming his big blocker pad against the puck",
+   "anchors": [
+    "goalkeeper"
+   ],
+   "kind": "sound-alike",
+   "why": "a goalie's 'blocker' pad: the blocker that stops the beat-raising shots",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "calcium-channel-blocker",
+   "concept": "calcium channel blockers (verapamil, diltiazem, nifedipine)",
+   "terms": [
+    "calcium channel blocker",
+    "calcium channel blockers",
+    "calcium-channel blocker",
+    "verapamil",
+    "diltiazem",
+    "nifedipine"
+   ],
+   "symbol": "a canal (a channel) dammed by a spilled can of white chalky glue",
+   "anchors": [
+    "canal"
+   ],
+   "kind": "sound-alike",
+   "why": "calcium = chalky glue (as for calcium), channel = canal, blocked",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "supravalvular-stenosis",
+   "concept": "supravalvular aortic stenosis",
+   "terms": [
+    "supravalvular aortic stenosis",
+    "supravalvar aortic stenosis",
+    "supravalvular stenosis",
+    "supravalvular"
+   ],
+   "symbol": "a tight pearl necklace choking the orca balloon just above its mouth",
+   "anchors": [
+    "necklace"
+   ],
+   "kind": "literal",
+   "why": "a narrowing just ABOVE the valve, like a necklace above the mouth",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "lad",
+   "concept": "left anterior descending coronary artery",
+   "terms": [
+    "left anterior descending",
+    "left anterior descending artery",
+    "anterior descending",
+    "anterior descending coronary artery",
+    "lad"
+   ],
+   "symbol": "a young lad sliding down the front of the Statue of Liberty's green crown",
+   "anchors": [
+    "lad"
+   ],
+   "kind": "sound-alike",
+   "why": "LAD = a lad, sliding down the FRONT (anterior, descending)",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "cabg",
+   "concept": "coronary artery bypass grafting",
+   "terms": [
+    "coronary artery bypass grafting",
+    "coronary artery bypass",
+    "coronary bypass",
+    "coronary bypass procedures",
+    "cabg",
+    "bypass grafting",
+    "bypass surgery"
+   ],
+   "symbol": "big green cabbage leaves laid as bridges over the tar-clogged spikes of the Liberty crown",
+   "anchors": [
+    "cabbage"
+   ],
+   "kind": "sound-alike",
+   "why": "CABG is said 'cabbage'; the leaves bridge the blocked parts",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "angina",
+   "concept": "angina pectoris",
+   "terms": [
+    "angina",
+    "angina pectoris",
+    "stable angina",
+    "unstable angina",
+    "anginal"
+   ],
+   "symbol": "a heavy stone angel sitting on a man's chest",
+   "anchors": [
+    "angel"
+   ],
+   "kind": "sound-alike",
+   "why": "ANGINA ~ angel; the weight on the chest",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "ejection-fraction",
+   "concept": "ejection fraction",
+   "terms": [
+    "ejection fraction",
+    "lvef",
+    "left ventricular ejection fraction",
+    "ef"
+   ],
+   "symbol": "a nightclub bouncer ejecting guests out of the red engine room's door, a counter showing the share thrown out",
+   "anchors": [
+    "bouncer"
+   ],
+   "kind": "literal",
+   "why": "EJECTION = thrown out; the FRACTION thrown out with each beat",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "diabetes",
+   "concept": "diabetes mellitus",
+   "terms": [
+    "diabetes",
+    "diabetic",
+    "diabetes mellitus",
+    "diabetics"
+   ],
+   "symbol": "a man sitting on a mountain of white sugar cubes",
+   "anchors": [
+    "sugar"
+   ],
+   "kind": "literal",
+   "why": "sugar in the blood",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "pci",
+   "concept": "PTCA, PCI, angioplasty and stents",
+   "terms": [
+    "ptca",
+    "pci",
+    "percutaneous coronary intervention",
+    "angioplasty",
+    "percutaneous transluminal coronary angioplasty",
+    "coronary angioplasty",
+    "balloon angioplasty",
+    "stent",
+    "stents",
+    "stenting",
+    "failed ptca"
+   ],
+   "symbol": "a coiled metal Slinky spring pushed on a long wire into a clogged pipe to hold it open",
+   "anchors": [
+    "slinky"
+   ],
+   "kind": "literal",
+   "why": "a stent is a metal coil that springs a narrowed artery open",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "sternal-infection",
+   "concept": "sternal wound infection, mediastinitis",
+   "terms": [
+    "mediastinitis",
+    "sternal wound infection",
+    "sternal wound infections",
+    "sternal infection",
+    "deep sternal wound infection",
+    "sternal wound complications"
+   ],
+   "symbol": "the opened stern of a ship rotting with green mould along its white centre line",
+   "anchors": [
+    "mould"
+   ],
+   "kind": "literal",
+   "why": "the sternotomy (the ship's stern) gone rotten",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "lima",
+   "concept": "internal mammary (thoracic) artery graft",
+   "terms": [
+    "internal mammary artery",
+    "internal thoracic artery",
+    "left internal mammary artery",
+    "right internal mammary artery",
+    "ima",
+    "lima",
+    "rima",
+    "mammary artery",
+    "internal mammary",
+    "ima graft",
+    "internal mammary artery bypass graft"
+   ],
+   "symbol": "a green lima bean vine growing down from the chest wall onto the front of the Liberty crown",
+   "anchors": [
+    "lima bean"
+   ],
+   "kind": "sound-alike",
+   "why": "LIMA = lima bean; a living vine, not a cut-off piece",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "svg",
+   "concept": "saphenous vein graft",
+   "terms": [
+    "saphenous vein graft",
+    "saphenous vein grafts",
+    "saphenous vein",
+    "svg",
+    "vein graft",
+    "vein grafts"
+   ],
+   "symbol": "a chain of blue sapphires laid as a bridge over a clogged spike of the Liberty crown",
+   "anchors": [
+    "sapphire"
+   ],
+   "kind": "sound-alike",
+   "why": "SAPHenous = sapphire, blue like a vein",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "muga",
+   "concept": "gated equilibrium radionuclide study (MUGA, gated blood pool)",
+   "terms": [
+    "gated equilibrium",
+    "muga",
+    "multigated acquisition",
+    "gated blood pool",
+    "gated equilibrium techniques",
+    "gated equilibrium study"
+   ],
+   "symbol": "a big glowing green coffee mug filled slowly, drip by drip, over many beats",
+   "anchors": [
+    "mug"
+   ],
+   "kind": "sound-alike",
+   "why": "MUGA = mug; it is built up over hundreds of beats",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "first-pass",
+   "concept": "first-pass (initial-transit) radionuclide study",
+   "terms": [
+    "first-pass",
+    "first pass",
+    "initial-transit",
+    "initial transit",
+    "initial-transit methods",
+    "initial-transit study"
+   ],
+   "symbol": "one glowing green shot glass downed in a single gulp",
+   "anchors": [
+    "shot glass"
+   ],
+   "kind": "literal",
+   "why": "the bolus is seen on its first, single pass",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "cardioplegia",
+   "concept": "cardioplegia, cardioplegic arrest",
+   "terms": [
+    "cardioplegia",
+    "cardioplegic",
+    "cardioplegic arrest",
+    "cardioplegic solution",
+    "cold cardioplegia",
+    "blood cardioplegia",
+    "crystalloid cardioplegia"
+   ],
+   "symbol": "a bucket of ice-cold water full of bananas poured over the hotel so that its fans stop dead",
+   "anchors": [
+    "banana"
+   ],
+   "kind": "literal",
+   "why": "the solution is cold and rich in potassium (bananas); it stops the heart still",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "aneurysm",
+   "concept": "aneurysm (ventricular, coronary, aortic)",
+   "terms": [
+    "aneurysm",
+    "aneurysms",
+    "aneurysmal",
+    "ventricular aneurysm",
+    "left ventricular aneurysm",
+    "coronary aneurysm",
+    "coronary artery aneurysm",
+    "coronary artery aneurysms",
+    "giant coronary artery aneurysms",
+    "congenital coronary aneurysm"
+   ],
+   "symbol": "a big pink bubble-gum bubble bulging out of a wall",
+   "anchors": [
+    "bubble-gum",
+    "bubble gum"
+   ],
+   "kind": "literal",
+   "why": "a thin-walled bulge that can burst",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "st-elevation",
+   "concept": "ST segment elevation",
+   "terms": [
+    "st elevation",
+    "st segment elevation",
+    "st-segment elevation",
+    "persistent st segment elevation",
+    "st-elevation"
+   ],
+   "symbol": "a street-corner elevator platform stuck in its raised position",
+   "anchors": [
+    "elevator"
+   ],
+   "kind": "sound-alike",
+   "why": "ST = STreet, elevation = ELEVATOR stuck up",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "kawasaki",
+   "concept": "Kawasaki disease",
+   "terms": [
+    "kawasaki",
+    "kawasaki's disease",
+    "kawasaki disease",
+    "mucocutaneous lymph node syndrome"
+   ],
+   "symbol": "a bright green Kawasaki motorcycle ridden by a feverish child",
+   "anchors": [
+    "motorcycle"
+   ],
+   "kind": "sound-alike",
+   "why": "KAWASAKI = the motorcycle brand",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "gamma-globulin",
+   "concept": "intravenous gamma globulin (immunoglobulin)",
+   "terms": [
+    "gamma globulin",
+    "immunoglobulin",
+    "ivig",
+    "intravenous immunoglobulin",
+    "intravenous gamma globulin"
+   ],
+   "symbol": "a glass snow globe glowing with green gamma rays",
+   "anchors": [
+    "snow globe"
+   ],
+   "kind": "sound-alike",
+   "why": "GLOBulin = globe; gamma = the glowing rays",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "ebstein",
+   "concept": "Ebstein's anomaly (tricuspid valve displaced down into the right ventricle)",
+   "terms": [
+    "ebstein",
+    "ebstein's anomaly",
+    "ebstein anomaly",
+    "ebstein's malformation",
+    "ebstein malformation"
+   ],
+   "symbol": "Einstein, wild white hair, pushing the trident down into the blue engine room",
+   "anchors": [
+    "einstein"
+   ],
+   "kind": "sound-alike",
+   "why": "EBSTEIN ~ Einstein; the tricuspid valve is pushed down into the ventricle",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "fistula",
+   "concept": "fistula (coronary, arteriovenous)",
+   "terms": [
+    "fistula",
+    "fistulas",
+    "coronary artery fistula",
+    "coronary fistula",
+    "congenital coronary artery fistula",
+    "arteriovenous fistula",
+    "av fistula"
+   ],
+   "symbol": "a fist punching a hole straight through from one pipe into its neighbour",
+   "anchors": [
+    "fist"
+   ],
+   "kind": "sound-alike",
+   "why": "FIST-ula = a fist punched through",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "continuous-murmur",
+   "concept": "continuous (machinery) murmur",
+   "terms": [
+    "continuous murmur",
+    "machinery murmur",
+    "continuous machinery murmur"
+   ],
+   "symbol": "a cement mixer roaring nonstop",
+   "anchors": [
+    "cement mixer"
+   ],
+   "kind": "literal",
+   "why": "a machine that never stops, through systole and diastole",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "alcapa",
+   "concept": "anomalous origin of the left coronary artery from the pulmonary artery (ALCAPA)",
+   "terms": [
+    "alcapa",
+    "origin of the left coronary artery from the pulmonary artery",
+    "anomalous origin of the left coronary artery",
+    "anomalous left coronary artery from the pulmonary artery",
+    "bland-white-garland syndrome"
+   ],
+   "symbol": "Al Capone in a pinstripe suit bolting the left spike of the Liberty crown onto the pipe of dollar bills",
+   "anchors": [
+    "capone"
+   ],
+   "kind": "sound-alike",
+   "why": "ALCAPA ~ Al Capone, who puts the crown on the money",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "syncope",
+   "concept": "syncope",
+   "terms": [
+    "syncope",
+    "fainting",
+    "faint"
+   ],
+   "symbol": "a man fainting backwards onto a red velvet couch",
+   "anchors": [
+    "fainting"
+   ],
+   "kind": "literal",
+   "why": "the faint itself",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "avr",
+   "concept": "aortic valve replacement",
+   "terms": [
+    "aortic valve replacement",
+    "avr",
+    "aortic valve replacement for aortic stenosis",
+    "replacement of the aortic valve"
+   ],
+   "symbol": "a dentist fitting brand-new dentures into the orca balloon's mouth",
+   "anchors": [
+    "dentures"
+   ],
+   "kind": "literal",
+   "why": "a new 'mouth' for the orca",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "embolism",
+   "concept": "embolism (systemic or pulmonary)",
+   "terms": [
+    "embolism",
+    "embolus",
+    "emboli",
+    "embolization",
+    "systemic embolization",
+    "thromboembolism",
+    "embolic",
+    "pulmonary embolism",
+    "systemic arterial embolization"
+   ],
+   "symbol": "a black bowling ball rolling out through the pipes and knocking things over",
+   "anchors": [
+    "bowling ball"
+   ],
+   "kind": "sound-alike",
+   "why": "em-BOWL-us = a bowling ball that travels and blocks",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "atrial-fibrillation",
+   "concept": "atrial fibrillation",
+   "terms": [
+    "atrial fibrillation",
+    "fibrillation",
+    "afib",
+    "onset of atrial fibrillation"
+   ],
+   "symbol": "Pinocchio, his long nose growing, trembling all over in the upper glass lobby",
+   "anchors": [
+    "pinocchio"
+   ],
+   "kind": "sound-alike",
+   "why": "FIB-rillation = fibbing, Pinocchio; he quivers, he never beats",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "chordae",
+   "concept": "chordae tendineae",
+   "terms": [
+    "chordae",
+    "chordae tendineae",
+    "chordal",
+    "chordal rupture",
+    "chordal preservation",
+    "chords"
+   ],
+   "symbol": "harp strings tying the bishop's mitre down to the floor of the red engine room",
+   "anchors": [
+    "harp"
+   ],
+   "kind": "sound-alike",
+   "why": "CHORDae = the chords (strings) of a harp",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "pulmonary-edema",
+   "concept": "pulmonary oedema",
+   "terms": [
+    "pulmonary edema",
+    "pulmonary oedema",
+    "acute pulmonary edema"
+   ],
+   "symbol": "soggy dollar bills dripping with water, spilling from the money pipes",
+   "anchors": [
+    "soggy"
+   ],
+   "kind": "literal",
+   "why": "the lungs (money) waterlogged",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "tissue-valve",
+   "concept": "tissue (biological) valve, bioprosthesis",
+   "terms": [
+    "tissue valve",
+    "tissue valves",
+    "bioprosthesis",
+    "bioprostheses",
+    "bioprosthetic",
+    "bioprosthetic valve",
+    "bioprosthetic valves",
+    "biological valve"
+   ],
+   "symbol": "a soft paper tissue box set in as the valve",
+   "anchors": [
+    "tissue box"
+   ],
+   "kind": "sound-alike",
+   "why": "TISSUE valve = a box of tissues: soft, wears out, needs no rat poison",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "mechanical-valve",
+   "concept": "mechanical prosthetic valve",
+   "terms": [
+    "mechanical valve",
+    "mechanical valves",
+    "mechanical prosthesis",
+    "mechanical prostheses",
+    "mechanical valve replacement"
+   ],
+   "symbol": "a clanking little steel robot set in as the valve",
+   "anchors": [
+    "robot"
+   ],
+   "kind": "literal",
+   "why": "a machine: lasts for ever, needs warfarin for ever",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "warfarin",
+   "concept": "warfarin, oral anticoagulation",
+   "terms": [
+    "warfarin",
+    "coumadin",
+    "anticoagulation",
+    "anticoagulant",
+    "oral anticoagulation",
+    "warfarin anticoagulation",
+    "warfarin therapy"
+   ],
+   "symbol": "a rat in a soldier's helmet",
+   "anchors": [
+    "rat"
+   ],
+   "kind": "sound-alike",
+   "why": "WAR-farin = war; it began as a rat poison",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "opening-snap",
+   "concept": "opening snap of mitral stenosis",
+   "terms": [
+    "opening snap"
+   ],
+   "symbol": "a black umbrella snapping open",
+   "anchors": [
+    "umbrella"
+   ],
+   "kind": "literal",
+   "why": "the stiff valve snaps open just after the second sound",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "wpw",
+   "concept": "Wolff-Parkinson-White syndrome, accessory pathway",
+   "terms": [
+    "wolff-parkinson-white",
+    "wolff-parkinson-white syndrome",
+    "wpw",
+    "accessory pathway",
+    "accessory pathways",
+    "pre-excitation",
+    "preexcitation"
+   ],
+   "symbol": "a grey wolf digging a shortcut tunnel straight from an upper lobby down to an engine room, past the sparking bundle of branches",
+   "anchors": [
+    "wolf"
+   ],
+   "kind": "sound-alike",
+   "why": "WOLFF = a wolf; the accessory pathway is his shortcut",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "reentry",
+   "concept": "re-entry circuit (AV node re-entry and other re-entrant tachycardias)",
+   "terms": [
+    "re-entry",
+    "reentry",
+    "av node re-entry",
+    "av node re-entry tachycardia",
+    "av nodal re-entry",
+    "avnrt",
+    "re-entrant",
+    "reentrant"
+   ],
+   "symbol": "a toy train (a little subway train) circling forever round a loop of two tracks, express and local",
+   "anchors": [
+    "toy train"
+   ],
+   "kind": "literal",
+   "why": "the impulse goes round and round a loop of two pathways",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "maze",
+   "concept": "maze procedure (Cox)",
+   "terms": [
+    "maze",
+    "maze procedure",
+    "cox maze",
+    "cox-maze"
+   ],
+   "symbol": "a green hedge maze grown across both upper lobbies, leading the beat from the top to the knot",
+   "anchors": [
+    "hedge maze"
+   ],
+   "kind": "literal",
+   "why": "the operation is named after the maze it makes",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "ablation",
+   "concept": "ablation (surgical or catheter)",
+   "terms": [
+    "ablation",
+    "his bundle ablation",
+    "catheter ablation",
+    "surgical ablation",
+    "ablated"
+   ],
+   "symbol": "a blowtorch burning a spot black",
+   "anchors": [
+    "blowtorch"
+   ],
+   "kind": "literal",
+   "why": "tissue is burnt to stop it conducting",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "myxoma",
+   "concept": "myxoma",
+   "terms": [
+    "myxoma",
+    "atrial myxoma",
+    "left atrial myxoma",
+    "cardiac myxoma",
+    "myxomas"
+   ],
+   "symbol": "a wobbling ball of green jelly on a stalk, hanging from the clock on the party wall into the lobby",
+   "anchors": [
+    "jelly"
+   ],
+   "kind": "sound-alike",
+   "why": "MYXO = mucus, slime: a jelly on a stalk from the fossa ovalis (the clock)",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "malignancy",
+   "concept": "malignant tumour, cancer, sarcoma, metastasis",
+   "terms": [
+    "malignant",
+    "malignancy",
+    "cancer",
+    "carcinoma",
+    "sarcoma",
+    "sarcomas",
+    "malignant tumor",
+    "malignant tumors",
+    "malignant cardiac tumors",
+    "metastatic tumors",
+    "metastases",
+    "metastasis",
+    "renal neoplasms",
+    "primary malignancy"
+   ],
+   "symbol": "a red crab",
+   "anchors": [
+    "crab"
+   ],
+   "kind": "literal",
+   "why": "cancer = the crab (Hippocrates' karkinos)",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "heart-block",
+   "concept": "heart block (atrioventricular block)",
+   "terms": [
+    "heart block",
+    "complete heart block",
+    "acquired complete heart block",
+    "av block",
+    "atrioventricular block",
+    "second-degree av block",
+    "third-degree heart block"
+   ],
+   "symbol": "a raised drawbridge between the upper lobby and the engine room, so no signal can cross",
+   "anchors": [
+    "drawbridge"
+   ],
+   "kind": "literal",
+   "why": "the signal cannot cross from atria to ventricles",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "sinus-node",
+   "concept": "sinus node, sick sinus syndrome",
+   "terms": [
+    "sinus node",
+    "sa node",
+    "sinoatrial node",
+    "sick sinus syndrome",
+    "sinus node dysfunction"
+   ],
+   "symbol": "an orchestra conductor at the top of the blue lobby beside the chimney, beating time with his baton",
+   "anchors": [
+    "orchestra conductor"
+   ],
+   "kind": "literal",
+   "why": "the sinus node sets the time for the whole heart",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "ace-inhibitor",
+   "concept": "ACE inhibitors (captopril, enalapril)",
+   "terms": [
+    "ace inhibitor",
+    "ace inhibitors",
+    "captopril",
+    "enalapril",
+    "lisinopril",
+    "angiotensin-converting enzyme inhibitor"
+   ],
+   "symbol": "a tennis player serving an ace at the US Open in Queens",
+   "anchors": [
+    "tennis"
+   ],
+   "kind": "sound-alike",
+   "why": "ACE inhibitor = a tennis ace",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "dopamine",
+   "concept": "dopamine",
+   "terms": [
+    "dopamine"
+   ],
+   "symbol": "a coal miner with a lamp on his helmet, pushing hard",
+   "anchors": [
+    "miner"
+   ],
+   "kind": "sound-alike",
+   "why": "dopa-MINE = a miner",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "pde-inhibitor",
+   "concept": "phosphodiesterase inhibitors (milrinone, amrinone)",
+   "terms": [
+    "milrinone",
+    "melrinone",
+    "amrinone",
+    "phosphodiesterase inhibitor",
+    "phosphodiesterase inhibitors",
+    "pde inhibitor"
+   ],
+   "symbol": "a tall windmill turning its sails",
+   "anchors": [
+    "windmill"
+   ],
+   "kind": "sound-alike",
+   "why": "MIL-rinone = a mill; amrinone its older twin",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "dobutamine",
+   "concept": "dobutamine",
+   "terms": [
+    "dobutamine"
+   ],
+   "symbol": "a strong Doberman dog pulling on its leash",
+   "anchors": [
+    "doberman"
+   ],
+   "kind": "sound-alike",
+   "why": "DOBUtamine = a Doberman",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "digitalis",
+   "concept": "digitalis, digoxin",
+   "terms": [
+    "digitalis",
+    "digoxin",
+    "digitalis compounds",
+    "intravenous digitalis"
+   ],
+   "symbol": "a tall purple foxglove flower",
+   "anchors": [
+    "foxglove"
+   ],
+   "kind": "literal",
+   "why": "digitalis comes from the foxglove (Digitalis purpurea)",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "nitroprusside",
+   "concept": "sodium nitroprusside, afterload reduction",
+   "terms": [
+    "nitroprusside",
+    "sodium nitroprusside"
+   ],
+   "symbol": "a Prussian soldier in a spiked helmet throwing the city's gates wide open",
+   "anchors": [
+    "spiked helmet"
+   ],
+   "kind": "sound-alike",
+   "why": "nitro-PRUSSIDE = a Prussian; it opens the arteries (afterload)",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "furosemide",
+   "concept": "furosemide (Lasix), diuretics",
+   "terms": [
+    "furosemide",
+    "lasix",
+    "diuresis",
+    "diuretic",
+    "diuretics",
+    "loop diuretic"
+   ],
+   "symbol": "a cowboy's lasso pulling water out of a flooded room",
+   "anchors": [
+    "lasso"
+   ],
+   "kind": "sound-alike",
+   "why": "LASIX = lasso; it pulls the water out",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "heparin",
+   "concept": "heparin",
+   "terms": [
+    "heparin",
+    "intravenous heparin",
+    "unfractionated heparin",
+    "low molecular weight heparin",
+    "heparinization"
+   ],
+   "symbol": "a fast brown hare",
+   "anchors": [
+    "hare"
+   ],
+   "kind": "sound-alike",
+   "why": "HEpARin ~ hare: quick on, quick off",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "aspirin",
+   "concept": "aspirin",
+   "terms": [
+    "aspirin",
+    "acetylsalicylic acid"
+   ],
+   "symbol": "a small asp snake coiled round a white tablet",
+   "anchors": [
+    "asp"
+   ],
+   "kind": "sound-alike",
+   "why": "ASPirin = an asp",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "sensing",
+   "concept": "pacemaker sensing",
+   "terms": [
+    "sensing",
+    "undersensing",
+    "oversensing",
+    "ventricular sensing",
+    "atrial sensing",
+    "inappropriate ventricular sensing"
+   ],
+   "symbol": "a brass ear trumpet held up to listen",
+   "anchors": [
+    "ear trumpet"
+   ],
+   "kind": "literal",
+   "why": "the pacemaker listens before it beats",
    "scores": {
     "link": 2,
     "concrete": 2,

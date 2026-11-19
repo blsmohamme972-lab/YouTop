@@ -76,6 +76,63 @@ a batch that draws a listed concept any other way is refused by `batch.py`.
 | arrhythmia | a pirate shouting ARRR and dancing a wild jig out of step with the music | ARRR-rhythm-ia = a pirate's ARRR + a broken rhythm | 10/10 | medcosmos-cardiac |
 | conduit (right ventricle to pulmonary artery) | a clear twisting waterslide tube from the blue engine room to the pipe of dollar bills | a conduit is a tube built to carry flow; a waterslide tube is the one nobody forgets | 9/10 | medcosmos-cardiac |
 | cyanosis | a child with bright blue (cyan) lips and fingertips | CYAN-osis = cyan blue | 9/10 | medcosmos-cardiac |
+| Ross operation (pulmonary autograft to the aortic position) | a gardener moving a red rose from the mouth of the pipe of dollar bills to the orca balloon's mouth | ROSS = rose; the patient's own pulmonary valve is moved to the aortic position | 10/10 | medcosmos-cardiac |
+| porcine (pig) bioprosthetic valve | a pink pig | porcine = pig | 10/10 | medcosmos-cardiac |
+| commissurotomy, valvotomy (cutting fused valve leaflets apart) | a tailor's big scissors snipping apart lips that have been sewn together | the fused commissures are cut apart like a seam | 9/10 | medcosmos-cardiac |
+| subaortic (subvalvular aortic) stenosis, the subaortic membrane | a shower curtain stretched across the red engine room's doorway just below the orca's mouth | a membrane hung just below the aortic valve | 9/10 | medcosmos-cardiac |
+| septal myectomy (Morrow) | a sculptor chiselling a block out of the bulging lower party wall | muscle is carved out of the septum | 9/10 | medcosmos-cardiac |
+| hypertrophic (obstructive) cardiomyopathy | the lower party wall swollen into the huge bulging biceps of a bodybuilder, crowding the red room's doorway to the orca | a muscle-bound septum that blocks the outflow | 10/10 | medcosmos-cardiac |
+| beta-blockers (propranolol, metoprolol, esmolol) | an ice-hockey goalkeeper slamming his big blocker pad against the puck | a goalie's 'blocker' pad: the blocker that stops the beat-raising shots | 9/10 | medcosmos-cardiac |
+| calcium channel blockers (verapamil, diltiazem, nifedipine) | a canal (a channel) dammed by a spilled can of white chalky glue | calcium = chalky glue (as for calcium), channel = canal, blocked | 9/10 | medcosmos-cardiac |
+| supravalvular aortic stenosis | a tight pearl necklace choking the orca balloon just above its mouth | a narrowing just ABOVE the valve, like a necklace above the mouth | 10/10 | medcosmos-cardiac |
+| left anterior descending coronary artery | a young lad sliding down the front of the Statue of Liberty's green crown | LAD = a lad, sliding down the FRONT (anterior, descending) | 10/10 | medcosmos-cardiac |
+| coronary artery bypass grafting | big green cabbage leaves laid as bridges over the tar-clogged spikes of the Liberty crown | CABG is said 'cabbage'; the leaves bridge the blocked parts | 10/10 | medcosmos-cardiac |
+| angina pectoris | a heavy stone angel sitting on a man's chest | ANGINA ~ angel; the weight on the chest | 10/10 | medcosmos-cardiac |
+| ejection fraction | a nightclub bouncer ejecting guests out of the red engine room's door, a counter showing the share thrown out | EJECTION = thrown out; the FRACTION thrown out with each beat | 9/10 | medcosmos-cardiac |
+| diabetes mellitus | a man sitting on a mountain of white sugar cubes | sugar in the blood | 10/10 | medcosmos-cardiac |
+| PTCA, PCI, angioplasty and stents | a coiled metal Slinky spring pushed on a long wire into a clogged pipe to hold it open | a stent is a metal coil that springs a narrowed artery open | 9/10 | medcosmos-cardiac |
+| sternal wound infection, mediastinitis | the opened stern of a ship rotting with green mould along its white centre line | the sternotomy (the ship's stern) gone rotten | 9/10 | medcosmos-cardiac |
+| internal mammary (thoracic) artery graft | a green lima bean vine growing down from the chest wall onto the front of the Liberty crown | LIMA = lima bean; a living vine, not a cut-off piece | 10/10 | medcosmos-cardiac |
+| saphenous vein graft | a chain of blue sapphires laid as a bridge over a clogged spike of the Liberty crown | SAPHenous = sapphire, blue like a vein | 10/10 | medcosmos-cardiac |
+| gated equilibrium radionuclide study (MUGA, gated blood pool) | a big glowing green coffee mug filled slowly, drip by drip, over many beats | MUGA = mug; it is built up over hundreds of beats | 10/10 | medcosmos-cardiac |
+| first-pass (initial-transit) radionuclide study | one glowing green shot glass downed in a single gulp | the bolus is seen on its first, single pass | 9/10 | medcosmos-cardiac |
+| cardioplegia, cardioplegic arrest | a bucket of ice-cold water full of bananas poured over the hotel so that its fans stop dead | the solution is cold and rich in potassium (bananas); it stops the heart still | 9/10 | medcosmos-cardiac |
+| aneurysm (ventricular, coronary, aortic) | a big pink bubble-gum bubble bulging out of a wall | a thin-walled bulge that can burst | 9/10 | medcosmos-cardiac |
+| ST segment elevation | a street-corner elevator platform stuck in its raised position | ST = STreet, elevation = ELEVATOR stuck up | 10/10 | medcosmos-cardiac |
+| Kawasaki disease | a bright green Kawasaki motorcycle ridden by a feverish child | KAWASAKI = the motorcycle brand | 10/10 | medcosmos-cardiac |
+| intravenous gamma globulin (immunoglobulin) | a glass snow globe glowing with green gamma rays | GLOBulin = globe; gamma = the glowing rays | 10/10 | medcosmos-cardiac |
+| Ebstein's anomaly (tricuspid valve displaced down into the right ventricle) | Einstein, wild white hair, pushing the trident down into the blue engine room | EBSTEIN ~ Einstein; the tricuspid valve is pushed down into the ventricle | 10/10 | medcosmos-cardiac |
+| fistula (coronary, arteriovenous) | a fist punching a hole straight through from one pipe into its neighbour | FIST-ula = a fist punched through | 10/10 | medcosmos-cardiac |
+| continuous (machinery) murmur | a cement mixer roaring nonstop | a machine that never stops, through systole and diastole | 10/10 | medcosmos-cardiac |
+| anomalous origin of the left coronary artery from the pulmonary artery (ALCAPA) | Al Capone in a pinstripe suit bolting the left spike of the Liberty crown onto the pipe of dollar bills | ALCAPA ~ Al Capone, who puts the crown on the money | 10/10 | medcosmos-cardiac |
+| syncope | a man fainting backwards onto a red velvet couch | the faint itself | 9/10 | medcosmos-cardiac |
+| aortic valve replacement | a dentist fitting brand-new dentures into the orca balloon's mouth | a new 'mouth' for the orca | 10/10 | medcosmos-cardiac |
+| embolism (systemic or pulmonary) | a black bowling ball rolling out through the pipes and knocking things over | em-BOWL-us = a bowling ball that travels and blocks | 10/10 | medcosmos-cardiac |
+| atrial fibrillation | Pinocchio, his long nose growing, trembling all over in the upper glass lobby | FIB-rillation = fibbing, Pinocchio; he quivers, he never beats | 10/10 | medcosmos-cardiac |
+| chordae tendineae | harp strings tying the bishop's mitre down to the floor of the red engine room | CHORDae = the chords (strings) of a harp | 10/10 | medcosmos-cardiac |
+| pulmonary oedema | soggy dollar bills dripping with water, spilling from the money pipes | the lungs (money) waterlogged | 9/10 | medcosmos-cardiac |
+| tissue (biological) valve, bioprosthesis | a soft paper tissue box set in as the valve | TISSUE valve = a box of tissues: soft, wears out, needs no rat poison | 10/10 | medcosmos-cardiac |
+| mechanical prosthetic valve | a clanking little steel robot set in as the valve | a machine: lasts for ever, needs warfarin for ever | 10/10 | medcosmos-cardiac |
+| warfarin, oral anticoagulation | a rat in a soldier's helmet | WAR-farin = war; it began as a rat poison | 10/10 | medcosmos-cardiac |
+| opening snap of mitral stenosis | a black umbrella snapping open | the stiff valve snaps open just after the second sound | 10/10 | medcosmos-cardiac |
+| Wolff-Parkinson-White syndrome, accessory pathway | a grey wolf digging a shortcut tunnel straight from an upper lobby down to an engine room, past the sparking bundle of branches | WOLFF = a wolf; the accessory pathway is his shortcut | 10/10 | medcosmos-cardiac |
+| re-entry circuit (AV node re-entry and other re-entrant tachycardias) | a toy train (a little subway train) circling forever round a loop of two tracks, express and local | the impulse goes round and round a loop of two pathways | 10/10 | medcosmos-cardiac |
+| maze procedure (Cox) | a green hedge maze grown across both upper lobbies, leading the beat from the top to the knot | the operation is named after the maze it makes | 10/10 | medcosmos-cardiac |
+| ablation (surgical or catheter) | a blowtorch burning a spot black | tissue is burnt to stop it conducting | 9/10 | medcosmos-cardiac |
+| myxoma | a wobbling ball of green jelly on a stalk, hanging from the clock on the party wall into the lobby | MYXO = mucus, slime: a jelly on a stalk from the fossa ovalis (the clock) | 10/10 | medcosmos-cardiac |
+| malignant tumour, cancer, sarcoma, metastasis | a red crab | cancer = the crab (Hippocrates' karkinos) | 10/10 | medcosmos-cardiac |
+| heart block (atrioventricular block) | a raised drawbridge between the upper lobby and the engine room, so no signal can cross | the signal cannot cross from atria to ventricles | 10/10 | medcosmos-cardiac |
+| sinus node, sick sinus syndrome | an orchestra conductor at the top of the blue lobby beside the chimney, beating time with his baton | the sinus node sets the time for the whole heart | 9/10 | medcosmos-cardiac |
+| ACE inhibitors (captopril, enalapril) | a tennis player serving an ace at the US Open in Queens | ACE inhibitor = a tennis ace | 10/10 | medcosmos-cardiac |
+| dopamine | a coal miner with a lamp on his helmet, pushing hard | dopa-MINE = a miner | 10/10 | medcosmos-cardiac |
+| phosphodiesterase inhibitors (milrinone, amrinone) | a tall windmill turning its sails | MIL-rinone = a mill; amrinone its older twin | 9/10 | medcosmos-cardiac |
+| dobutamine | a strong Doberman dog pulling on its leash | DOBUtamine = a Doberman | 10/10 | medcosmos-cardiac |
+| digitalis, digoxin | a tall purple foxglove flower | digitalis comes from the foxglove (Digitalis purpurea) | 10/10 | medcosmos-cardiac |
+| sodium nitroprusside, afterload reduction | a Prussian soldier in a spiked helmet throwing the city's gates wide open | nitro-PRUSSIDE = a Prussian; it opens the arteries (afterload) | 10/10 | medcosmos-cardiac |
+| furosemide (Lasix), diuretics | a cowboy's lasso pulling water out of a flooded room | LASIX = lasso; it pulls the water out | 10/10 | medcosmos-cardiac |
+| heparin | a fast brown hare | HEpARin ~ hare: quick on, quick off | 9/10 | medcosmos-cardiac |
+| aspirin | a small asp snake coiled round a white tablet | ASPirin = an asp | 10/10 | medcosmos-cardiac |
+| pacemaker sensing | a brass ear trumpet held up to listen | the pacemaker listens before it beats | 9/10 | medcosmos-cardiac |
 
 ## Rejected (never use them)
 

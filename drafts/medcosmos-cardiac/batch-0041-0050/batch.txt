@@ -1,0 +1,334 @@
+book: medcosmos-cardiac
+# MedCosmos Cardiac, questions 41-50, written to the owner's five picture rules and the audited symbols
+# (content/symbols.json). Theme: New York City. Quotations: Rumi, the Masnavi (from memory, translated).
+
+== 41
+# Critical aortic stenosis in the neonate -> B (with coarctation, PDA and mitral stenosis) and D (valvotomy succeeds only if the left ventricle is adequate).
+# A (commissural fusion of a trileaflet valve; it is usually a unicuspid or bicuspid dysplastic valve) and C (medical management until valve replacement) are false.
+# a BABY orca balloon whose mouth is sewn nearly shut -> critical neonatal aortic stenosis
+# ANSWER B: the same baby orca pinched by a rope at its waist, a duct-tape tunnel at its back, a mitre squeezed narrow at the red lobby's floor -> coarctation, PDA, mitral stenosis go with it
+# ANSWER D: a tailor's scissors snipping the lips apart while an inspector measures the red engine room with a tape -> valvotomy works only if the left ventricle is big enough
+title: Critical neonatal aortic stenosis: it comes with coarctation, a PDA and mitral stenosis; valvotomy succeeds only with an adequate left ventricle
+titleAr: تضيّق الصمام الأبهري الحرج عند الوليد: يرافقه تضيّق البرزخ والقناة الشريانية وتضيّق الصمام التاجي، ولا ينجح شقّ الصمام إلا ببطين أيسر كافٍ
+tags: cardiac/congenital d:pathology q:recall l:3
+palette: dawn light, black-and-white baby orca, gold scissors, shiny silver tape, a purple and gold mitre
+keywords: heart -> the old hotel with a stag's head; aortic stenosis -> a baby orca balloon whose mouth is sewn nearly shut; valvotomy -> a tailor's big scissors snipping apart the sewn lips; coarctation -> a rope pinching the baby orca's waist; ductus arteriosus -> a short tunnel of silver duct tape from the baby orca's back to the pipe of dollar bills; mitral stenosis -> a bishop's mitre squeezed narrow in the floor of the red upper lobby; left ventricle -> the red engine room with its ventilation fan, measured by an inspector with a long tape
+must: the baby orca's lips are sewn almost shut and the tailor is snipping them; the same baby orca also has the rope, the duct-tape tunnel and the narrow mitre; the inspector measures the red engine room
+scene: The old Brooklyn hotel with a stag's head over its door, seen cut open like a doll's house at dawn. Out of the red engine room rises a BABY orca parade balloon whose lips are sewn almost shut with thick thread. CENTRE, dominant and brightest: an old tailor on a ladder snips the sewn lips apart with big golden scissors. On the same baby orca: a rope pinches its waist, and a short tunnel of shiny silver duct tape joins its back to a pipe stuffed with green dollar bills. ABOVE, in the floor of the red upper lobby, the doorway is a bishop's mitre squeezed narrow. BELOW, just as bright: a stern inspector stretches a long tape measure across the red engine room and its ventilation fan, checking whether the room is big enough.
+
+story:
+عند الفجر، ولد في فندق الأيّل حوت صغير من البالونات، وشفتاه مخيطتان بخيط غليظ لا يكاد ينفذ منهما هواء.
+فصعد الخيّاط العجوز عزرا على سلّمه، وأخرج مقصّه الذهبيّ الكبير.
+وقال: «لا ينتظر هذا الصغير أن يكبر؛ نفتح فمه اليوم، لا غدًا.»
+لكنّه نظر إلى الحوت الصغير، فرأى أنّ الشفتين ليستا كلّ ما به.
+فحبل يخنق خصره، ونفق من الشريط اللاصق الفضّيّ يصل ظهره بأنبوب الدولارات.
+وفي أرض البهو الأحمر فوقه، كان الباب تاج أسقف معصورًا ضيّقًا.
+فقال عزرا: «هؤلاء إخوة يأتون معًا: الحبل والنّفق والتّاج الضيّق.»
+وفي الأسفل، كانت المفتّشة كوالسكي تمدّ شريط قياس طويلًا عبر غرفة المحرّكات الحمراء ومروحتها.
+فقالت: «افتح فمه ما شئت يا عزرا؛ إن لم تكن هذه الغرفة كبيرةً بما يكفي، فلن ينفعه مقصّك.»
+فنزل عزرا درجةً، ونظر إلى الشريط في يدها، وقال:
+quote: «المشورة تعطي الإدراك واليقظة، والعقول تعين العقل.»
+source: المثنوي، الكتاب الأول
+explanation:
+Critical aortic stenosis in the newborn is usually caused by a thickened, dysplastic unicuspid or bicuspid valve, not by commissural fusion of a trileaflet valve, so statement A is false.
+It is often part of a wider left heart obstruction, with coarctation of the aorta, a patent ductus arteriosus and mitral stenosis: statement B is true.
+The newborn cannot wait for a valve replacement; the valve must be opened promptly, by balloon or surgical valvotomy, so statement C is false.
+Whether valvotomy succeeds depends mainly on whether the left ventricle is big enough to carry the systemic circulation: statement D is true.
+So B and D are the answer.
+If the left ventricle is too small, the infant is treated along the lines of hypoplastic left heart syndrome instead.
+
+== 42
+# Aortic valve surgery in an older child -> A (enlarging the aortic annulus), B (incising fused commissures), D (the Ross operation).
+# C (a porcine valve) is false: animal valves calcify and fail quickly in children.
+# a teenage orca balloon on the hotel roof with a stiff, narrow mouth -> aortic valve disease in an older child
+# ANSWER B: a tailor's scissors snipping the fused lips apart -> commissurotomy
+# ANSWER A: two workers sawing open the orca's collar and stitching in a wide patch -> enlargement of the aortic annulus
+# ANSWER D: a gardener moving a red rose from the dollar pipe's mouth to the orca's mouth -> the Ross operation
+title: Aortic valve surgery in an older child: commissurotomy, enlarging the annulus, or the Ross operation
+titleAr: جراحة الصمام الأبهري عند الطفل الأكبر: شقّ الشُّرَف الملتحمة، وتوسيع الحلقة، أو عملية روس
+tags: cardiac/congenital cardiac/aortic-valve d:technique q:recall l:2
+palette: bright noon on a rooftop, black-and-white orca, gold scissors, a vivid red rose, green banknotes
+keywords: heart -> the old hotel with a stag's head; aortic valve -> the orca balloon's stiff, narrow mouth; commissurotomy -> a tailor's big scissors snipping apart lips sewn together; enlargement of the aortic annulus -> two workers sawing open the orca's tight collar and stitching in a wide patch; Ross -> a gardener moving a red rose from the mouth of the pipe of dollar bills to the orca balloon's mouth; pulmonary -> a pipe of green dollar bills
+must: the scissors, the collar patch and the rose all work on the SAME orca mouth; the rose comes out of the dollar pipe's mouth and goes into the orca's mouth
+scene: The flat roof of the old Brooklyn hotel with a stag's head over its door, at bright noon. A teenage-sized orca parade balloon rises out of the roof; its mouth is stiff and narrow, its lips grown together at the corners. CENTRE, dominant and brightest: a gardener lifts a vivid red rose out of the mouth of a pipe stuffed with green dollar bills and plants it in the orca's mouth. LEFT: an old tailor snips the grown-together corners of the lips apart with big golden scissors. RIGHT: two workers saw open the tight collar round the orca's mouth and stitch a wide patch into the gap.
+
+story:
+في ظهر مشرق، كان الحوت على سطح فندق الأيّل قد كبر حتّى صار فتًى.
+لكنّ فمه كان ضيّقًا قاسيًا، قد التصقت شفتاه عند الزاويتين.
+فجاءه ثلاثة، لكلّ منهم طريقته.
+صعد الخيّاط عزرا إلى اليسار، وقصّ بمقصّه الذهبيّ زاويتي الفم الملتصقتين.
+وإلى اليمين، نشر عاملان الطوق الضيّق حول فم الحوت، وخاطا في الشقّ رقعةً واسعة.
+فقال أحدهما: «إذا ضاق الطوق وسّعناه، حتّى يتّسع لفم أكبر.»
+وفي الوسط، رفعت البستانيّة أوليفيا وردةً حمراء من فم أنبوب الدولارات، وغرستها في فم الحوت.
+فقالت: «هذه الوردة من بيته هو؛ تكبر معه ولا تشيخ قبله.»
+ومرّ تاجر يجرّ خنزيرًا ورديًّا ويعرض فمًا من عنده، فقال عزرا: «لا يا صاحبي؛ فم خنزيرك يتحجّر في الصغار سريعًا.»
+فنظرت أوليفيا إلى الوردة في فم الحوت وقالت:
+quote: «متى يخضرّ الحجر في الربيع؟ كن ترابًا، لتنبت فيك الأزهار ألوانًا.»
+source: المثنوي، الكتاب الأول
+explanation:
+In an older child the aortic valve can be repaired or replaced in several ways.
+When fused commissures are the main problem, they are incised, a commissurotomy: statement B is true.
+When the annulus is small, it is enlarged, for example by the Konno or the Nicks operation, so an adequate valve can be placed: statement A is true.
+The Ross operation moves the child's own pulmonary valve to the aortic position, where it can grow, and replaces the pulmonary valve with a homograft: statement D is true.
+So A, B and D are the answer.
+A porcine valve is avoided in children, because it calcifies and degenerates rapidly.
+
+== 43
+# Subvalvular aortic stenosis -> C (the membrane is approached through the aorta and aortic valve) and D (a septal myectomy as well lowers recurrence).
+# A (most present in early infancy with severe heart failure) and B (an ejection click is specific for it; a click belongs to VALVAR stenosis) are false.
+# a shower curtain across the red engine room's doorway just below the orca's mouth -> the subaortic membrane
+# ANSWER C: a plumber climbing in through the orca's open mouth with a lamp to cut the curtain down -> the approach is through the aorta and the aortic valve
+# ANSWER D: a sculptor chiselling a block out of the bulging party wall beside the curtain -> a septal myectomy reduces recurrence
+title: Subaortic stenosis: the membrane is reached through the aortic valve, and a myectomy lowers recurrence
+titleAr: التضيّق تحت الأبهري: يُبلَغ الغشاء من خلال الصمام الأبهري، واستئصال جزء من الحاجز يقلّل عودته
+tags: cardiac/congenital d:technique q:recall l:2
+palette: warm lamplight inside the red engine room, a white shower curtain, grey stone dust, black-and-white orca
+keywords: heart -> the old hotel with a stag's head; subaortic membrane -> a shower curtain stretched across the red engine room's doorway just below the orca's mouth; aortic valve -> the orca balloon's open mouth; aorta -> the orca parade balloon; septal myectomy -> a sculptor with a chisel cutting a block out of the bulging lower party wall; ventricle -> the red engine room with its ventilation fan
+must: the curtain hangs just BELOW the orca's mouth, inside the red engine room's doorway; the plumber comes IN through the orca's mouth from above; the sculptor chisels the party wall right beside the curtain
+scene: The ground floor of the old Brooklyn hotel with a stag's head over its door, seen cut open like a doll's house, the red engine room lit by warm lamplight, its ventilation fan turning. A giant orca parade balloon rises from the red room's doorway; just BELOW the orca's open mouth, a white shower curtain is stretched tight across the doorway. CENTRE, dominant and brightest: a plumber with a head lamp climbs down INTO the room through the orca's open mouth and cuts the curtain down with a knife. RIGHT, beside the curtain: a sculptor chisels a big block out of the bulging brick party wall, stone dust flying.
+
+story:
+في ليلة دافئة، كانت غرفة المحرّكات الحمراء تحت فندق الأيّل مضاءةً بمصباح دافئ، ومروحتها تدور.
+وعند بابها، تحت فم الحوت مباشرةً، شدّت ستارة حمّام بيضاء عبر الباب كلّه.
+فكان الهواء يصطدم بها قبل أن يبلغ الحوت.
+فجاء السبّاك ماركو، ولم يدخل من باب الغرفة، بل تسلّق الحوت.
+ثمّ نزل إلى الداخل من فمه المفتوح، ومصباحه على رأسه، وقطع الستارة بسكّينه.
+وقال: «من فوق أراها كلّها؛ فم الحوت هو الباب إليها.»
+وإلى جانب الستارة، وقفت النحّاتة ناديا بإزميلها، تقطع كتلةً من الجدار الآجرّيّ المنتفخ، والغبار يتطاير.
+فسألها ماركو: «ولم الجدار؟ الستارة سقطت!»
+فقالت: «إن تركنا الجدار منتفخًا علّقوا ستارةً جديدةً بعد سنين؛ وإن نحتناه قلّما تعود.»
+فابتسم ماركو وهو يصعد عائدًا من فم الحوت وقال:
+quote: «قال النبيّ: إذا ظللت تطرق بابًا، خرج إليك من ذلك الباب في العاقبة أحد.»
+source: المثنوي، الكتاب الثالث
+explanation:
+Discrete subaortic stenosis is usually a fibromuscular membrane just below the aortic valve.
+It rarely presents in early infancy with severe heart failure; it usually appears later in childhood and progresses, so statement A is false.
+An ejection click is a sign of valvar aortic stenosis, not of subaortic stenosis, so statement B is false.
+The membrane is reached through an aortotomy, working through the aortic valve: statement C is true.
+Adding a septal myectomy to the resection of the membrane lowers the rate of recurrence: statement D is true.
+So C and D are the answer.
+
+== 44
+# Management of hypertrophic obstructive cardiomyopathy -> A (propranolol and verapamil), C (dual-chamber pacing), D (septal myectomy with mitral plication).
+# B (aortic valve replacement) is false: the obstruction is below a normal valve.
+# the lower party wall swollen into a bodybuilder's bulging biceps, crowding the red room's doorway -> HOCM
+# ANSWER A: an ice-hockey goalkeeper blocking a puck, and a canal dammed with chalky glue -> propranolol (beta-blocker) and verapamil (calcium channel blocker)
+# ANSWER C: two drummers, one in the red lobby and one in the red engine room, beating one after the other -> dual-chamber sequential pacing
+# ANSWER D: a sculptor chiselling the bulge while a bishop folds and stitches his floppy mitre -> septal myectomy and mitral plication
+title: Hypertrophic obstructive cardiomyopathy: beta-blockers and verapamil, dual-chamber pacing, myectomy with mitral plication
+titleAr: اعتلال العضلة القلبية الضخامي الانسدادي: حاصرات بيتا والفيراباميل، والتنظيم بحجرتين، واستئصال الحاجز مع ثني الصمام التاجي
+tags: cardiac/other d:indications q:recall l:2
+palette: gym light, red brick muscle, ice-white hockey kit, chalk-white glue, purple and gold mitre
+keywords: heart -> the old hotel with a stag's head; hypertrophic obstructive cardiomyopathy -> the lower party wall swollen into the huge bulging biceps of a bodybuilder, crowding the red room's doorway to the orca; propranolol -> an ice-hockey goalkeeper slamming his big blocker pad against the puck; verapamil -> a canal dammed by a spilled can of white chalky glue; dual-chamber pacing -> two drummers, one in the red lobby and one in the red engine room, beating one after the other; septal myectomy -> a sculptor with a chisel cutting a block out of the bulging party wall; mitral -> a bishop folding and stitching his floppy mitre; aorta -> the orca parade balloon
+must: the bulging wall is muscle like a bodybuilder's arm and it crowds the doorway under the orca; one drummer is UPSTAIRS and one DOWNSTAIRS; the bishop stitches a fold into his own mitre
+scene: The red wing of the old Brooklyn hotel with a stag's head over its door, seen cut open like a doll's house. CENTRE, dominant and brightest: the lower party wall has swollen into the huge bulging biceps of a bodybuilder, crowding the doorway under a giant orca parade balloon, and a sculptor stands on it chiselling a block out of the bulge. Just above, in the red lobby, a bishop folds his floppy mitre and stitches the fold. RIGHT: two drummers, one upstairs in the red lobby and one downstairs in the red engine room, beat one after the other. LEFT FOREGROUND: an ice-hockey goalkeeper slams his blocker pad against a puck, and beside him a small canal is dammed by a spilled can of white chalky glue.
+
+story:
+في الجناح الأحمر من فندق الأيّل، انتفخ الجدار الفاصل السفليّ حتّى صار عضلةً كعضد لاعب كمال الأجسام.
+وزحمت العضلة الباب الّذي تحت الحوت، فما يكاد يمرّ منه شيء، مع أنّ فم الحوت نفسه سليم لا عيب فيه.
+فوقف حارس مرمًى بزيّ الهوكي الأبيض، وصدّ القرص بوسادته الكبيرة، فهدأ اللعب كلّه.
+وإلى جانبه قناة صغيرة سدّتها علبة غراء أبيض كالطّباشير انسكبت فيها، فصار الماء يجري هادئًا.
+فقالت المديرة بيرل: «هذان أوّل العلاج: الحارس والغراء، يهدّئان العضلة ويتركان الغرفة تمتلئ.»
+ثمّ ضرب قارعا طبل، واحد في البهو الأحمر فوق، وواحد في غرفة المحرّكات تحت، الواحد بعد الآخر.
+فتغيّر وقع العضلة، وانفرج الباب قليلًا.
+وحين لم يكف ذلك، صعدت النحّاتة ناديا على الانتفاخ بإزميلها، وقطعت منه كتلةً كبيرة.
+وفي البهو فوقها، ثنى الأسقف تاجه الرخو وخاط الثنية، كي لا يتدلّى إلى الباب.
+فقالت بيرل وهي تنظر إلى الباب المفتوح أخيرًا:
+quote: «قال النبيّ بصوت عال: مع التوكّل اعقل ركبة الجمل.»
+source: المثنوي، الكتاب الأول
+explanation:
+In hypertrophic obstructive cardiomyopathy the thickened septum obstructs the left ventricular outflow, helped by systolic anterior motion of the mitral valve.
+Beta-blockers such as propranolol and calcium channel blockers such as verapamil reduce contractility and improve filling, and are the first treatment: statement A is correct.
+Dual-chamber sequential pacing changes the order of septal contraction and can lower the gradient in selected patients: statement C is correct.
+Septal myectomy, sometimes combined with mitral valve plication or repair, relieves the obstruction surgically: statement D is correct.
+So A, C and D are the answer.
+The aortic valve itself is normal, so replacing it does not relieve the obstruction.
+
+== 45
+# Supravalvular aortic stenosis -> C (the diffuse form may obstruct the branches of the aortic arch) and D (after repair of the discrete form, reoperation is rare unless the valve itself is abnormal).
+# A (repair only when the gradient exceeds 75 mm Hg) and B (simple excision of a membrane usually suffices; a patch aortoplasty is needed) are false.
+# a tight pearl necklace choking the orca just above its mouth -> supravalvular aortic stenosis
+# ANSWER C: on a second orca, the pearls run all along its back and pinch the strings rising from it -> the diffuse form obstructs the arch branches
+# ANSWER D: a repaired orca floating away free, only an orca with a crooked mouth coming back to the workshop -> reoperation is rare unless the valve is abnormal
+title: Supravalvular aortic stenosis: the diffuse form can narrow the arch branches; after a discrete repair, reoperation is rare unless the valve is abnormal
+titleAr: التضيّق فوق الصمام الأبهري: قد يضيّق الشكل المنتشر فروع القوس، ونادرًا ما يُعاد إصلاح الشكل المحدود إلا إذا كان الصمام نفسه معيبًا
+tags: cardiac/congenital d:pathology q:recall l:3
+palette: soft evening, pearl white, black-and-white orcas, warm workshop light
+keywords: heart -> the old hotel with a stag's head; supravalvular aortic stenosis -> a tight pearl necklace choking the orca balloon just above its mouth; aortic arch -> the orca balloon's arched back; arch branches -> the strings rising from the orca's back that hold it to the ground; aortic valve -> the orca balloon's mouth
+must: the necklace sits just ABOVE the mouth; on the diffuse orca the pearls run along the whole back and pinch the strings; the returning orca's mouth is crooked
+scene: A balloon workshop in a Brooklyn warehouse, soft evening light, the old hotel with a stag's head visible through the big window. CENTRE, dominant and brightest: a giant orca parade balloon with a tight pearl necklace choking it just above its mouth. LEFT: a second orca whose pearls run along the whole length of its arched back and pinch the strings rising from its back to the floor. RIGHT, through the open door: a repaired orca, its necklace gone and a neat patch above its mouth, floats away free; only one orca with a crooked mouth is coming back in through the door.
+
+story:
+في مساء هادئ، في ورشة للبالونات في بروكلين، كان فندق الأيّل يطلّ من النافذة الكبيرة.
+وفي وسط الورشة حوت كبير يخنقه عقد من اللؤلؤ فوق فمه مباشرةً.
+فقال الحرفيّ العجوز إسحاق لتلميذته آنّا: «لا تقطعي الخيط وتظنّي أنّك انتهيت؛ اللؤلؤ صار من جلده، فلا بدّ من رقعة توسّعه.»
+ثمّ أشار إلى حوت ثان إلى اليسار، قد جرى اللؤلؤ على ظهره المقوّس كلّه.
+وكانت الخيوط الصاعدة من ظهره إلى الأرض مخنوقةً باللّؤلؤ هي أيضًا.
+فقال إسحاق: «هذا هو المنتشر؛ لا يقف عند الفم، بل يخنق الخيوط الّتي تتفرّع من الظهر.»
+ومن الباب المفتوح إلى اليمين، كان حوت أصلح من قبل يطفو بعيدًا حرًّا، فوق فمه رقعة أنيقة.
+ولم يرجع إلى الورشة إلّا حوت واحد، فمه أعوج.
+فقال إسحاق: «من أصلحناه لا يعود إلينا، إلّا من كان العيب في فمه نفسه.»
+فأمسكت آنّا حبّة لؤلؤ سقطت على الأرض، فقال لها:
+quote: «من اشترى رخيصًا باع رخيصًا؛ والطّفل يعطي الجوهرة برغيف خبز.»
+source: المثنوي، الكتاب الأول
+explanation:
+Supravalvular aortic stenosis is a narrowing of the ascending aorta just above the sinuses, often seen with Williams syndrome.
+Repair is indicated at gradients well below 75 mm Hg, usually about 50 mm Hg or when there are symptoms, so statement A is false.
+It is a thickening of the aortic wall, not a simple membrane, so it needs patch enlargement of the aorta rather than simple excision: statement B is false.
+The diffuse form can involve the whole ascending aorta and arch and narrow the branches of the arch: statement C is true.
+After repair of the discrete form, reoperation is rare unless the aortic valve itself is abnormal: statement D is true.
+So C and D are the answer.
+
+== 46
+# Deaths each year in the US from coronary artery disease (the book's time) -> C, about 500,000.
+# the Statue of Liberty's crown clogged with black tar, a long line of coffins on Liberty Island, a sign 500,000 -> half a million deaths a year
+title: Coronary artery disease killed about 500,000 Americans a year
+titleAr: مرض الشرايين التاجية يقتل نحو 500,000 أمريكي في العام
+tags: cardiac/coronary d:evidence q:numbers l:1
+palette: grey dusk over the harbour, green copper, black tar, dark wood
+words: 500,000
+keywords: coronary artery disease -> the Statue of Liberty's green crown with its spikes clogged by black tar; mortality -> a long line of coffins
+must: the crown's spikes are clogged with black tar; the coffins stretch in a line to the horizon; the sign reads 500,000
+scene: Liberty Island at grey dusk. CENTRE, dominant and brightest: the Statue of Liberty's green crown, its seven spikes clogged and dripping with black tar. From the foot of the statue a long line of dark wooden coffins stretches away along the shore to the horizon. A ferry captain at the pier holds up a big sign: 500,000.
+
+story:
+في غسق رماديّ على جزيرة الحرّيّة، رست العبّارة الأخيرة عند الرصيف.
+ورفع الركّاب أعينهم إلى تاج التمثال الأخضر، فإذا أشعّته السبع مسدودة بقار أسود يقطر منها.
+ومن قدمي التمثال، امتدّ صفّ طويل من التوابيت الخشبيّة على الشاطئ حتّى الأفق.
+فسأل صبيّ أباه: «كم تابوتًا هناك يا أبي؟»
+فرفع قبطان العبّارة جو لافتةً كبيرةً كتب عليها: خمسمئة ألف.
+وقال: «هذا عددهم في عام واحد يا بنيّ؛ نصف مليون كلّ عام، كلّهم من هذا القار في التاج.»
+فصمت الركّاب، وأخذوا يعدّون التوابيت بأعينهم حتّى تعبوا.
+فقال جو: «لا تعدّوا؛ لو وقفتم هنا عامًا كاملًا لما انتهى الصفّ.»
+ثمّ أطلق صفّارة العبّارة إيذانًا بالرّحيل، ونظر إلى التاج المسدود وقال:
+quote: «موت كلّ امرئ يا بنيّ على لونه: عدوّ للعدوّ، وصديق للصّديق.»
+source: المثنوي، الكتاب الثالث
+explanation:
+When this book was written, coronary artery disease killed about 500,000 Americans each year, more than any other single cause.
+Many of these deaths were sudden, from myocardial infarction or arrhythmia, before the patient reached hospital.
+So C is the answer.
+The number has fallen since then, to roughly 370,000 deaths a year, but coronary disease is still the leading cause of death in the United States.
+
+== 47
+# The artery most likely to have serious atherosclerosis -> C, the anterior descending.
+# a lad sliding down the FRONT of the Liberty crown, his slide the most clogged with tar -> the left anterior descending artery is most often involved
+title: The left anterior descending is the coronary artery most often seriously diseased
+titleAr: الشريان الأمامي النازل هو أكثر الشرايين التاجية إصابةً بالتصلّب الشديد
+tags: cardiac/coronary d:pathology q:recall l:1 x:high-yield
+palette: clear morning, green copper, black tar, a boy's red jacket
+keywords: left anterior descending -> a young lad sliding down the front of the Statue of Liberty's green crown; coronary -> the Statue of Liberty's green crown; atherosclerosis -> thick black tar clogging the crown's slides
+must: the lad slides down the FRONT of the crown; his slide is by far the most clogged with tar; the slides on the sides and back are much cleaner
+scene: The Statue of Liberty's green copper crown seen close up on a clear morning, its spikes turned into playground slides. CENTRE, dominant and brightest: a young lad in a red jacket sliding down the slide on the FRONT of the crown, which is thick with black tar, so he is stuck halfway. The slides on the left side, the right side and around the back carry only thin streaks of tar, and children slide down them easily.
+
+story:
+في صباح صاف، صارت أشعّة تاج تمثال الحرّيّة مزالق يلعب عليها الأطفال.
+كان الأطفال ينزلقون على مزالق الجانبين والخلف بسهولة، لا يعلق بهم إلّا خيوط رقيقة من القار.
+أمّا المزلق الأماميّ، النازل في وجه التاج، فكان القار عليه أسود غليظًا.
+فانطلق عليه فتًى صغير اسمه لاد، في سترة حمراء، فعلق في منتصفه لا يتقدّم ولا يتأخّر.
+فصاح: «علقت! المزلق الأماميّ مسدود!»
+فقالت الحارسة العجوز مارثا وهي تمدّ له يدها: «هذا المزلق الأماميّ النازل أكثرها انسدادًا دائمًا يا لاد.»
+ثمّ قالت: «وهو أهمّها أيضًا؛ عليه ينزل أكثر الأطفال.»
+فنظر لاد إلى المزالق النظيفة حوله وقال: «لماذا أنا وحدي؟»
+فابتسمت مارثا وقالت:
+quote: «إذا جاء القضاء نام العلم، واسودّ القمر وانكسفت الشمس.»
+source: المثنوي، الكتاب الأول
+explanation:
+Serious atherosclerosis is found most often in the proximal left anterior descending artery.
+The right coronary artery and the circumflex are involved less often.
+So C is the answer.
+Because the anterior descending supplies much of the left ventricle and the septum, its disease carries the greatest danger.
+
+== 48
+# Collaterals in the normal coronary circulation -> B: minimal effective collaterals.
+# A (rich and effective) and C (absolute anatomic end-arteries) are false: there are tiny collaterals, but they are of little use.
+# the spikes of the Liberty crown joined only by a few hair-thin threads, a climber unable to cross -> minimal effective collaterals
+title: The normal coronary circulation has minimal effective collaterals
+titleAr: الدوران التاجي الطبيعي فيه القليل من الدوران الجانبي الفعّال
+tags: cardiac/coronary d:anatomy q:recall l:1
+palette: windy afternoon, green copper, silver thread
+keywords: coronary -> the Statue of Liberty's green crown; collaterals -> a few hair-thin threads stretched between the crown's spikes
+must: the threads between the spikes are only a few and hair-thin; the climber cannot use them to cross; the spikes are NOT completely unconnected
+scene: The Statue of Liberty's green copper crown seen close up on a windy afternoon. Between its spikes are stretched only a few hair-thin silver threads. CENTRE, dominant and brightest: a window cleaner who has stepped onto one of those threads to cross from one spike to the next; the thread sags and he clings to his own spike, unable to cross.
+
+story:
+في عصر عاصف، كان ماسح النوافذ توماس ينظّف تاج تمثال الحرّيّة، شعاعًا بعد شعاع.
+وبين الأشعّة خيوط فضّيّة قليلة، رقيقة كالشّعر، تصل الشعاع بجاره.
+فأراد أن يعبر إلى الشعاع المجاور دون أن ينزل.
+فوضع قدمه على أحد الخيوط، فترهّل تحته وكاد ينقطع.
+فتشبّث بشعاعه وصاح: «هذه الخيوط لا تحمل عصفورًا!»
+فقال له زميله من تحت: «هي موجودة يا توماس، فليست الأشعّة مقطوعةً تمامًا؛ لكنّها لا تغني عند الحاجة.»
+فقال توماس وهو يلتقط أنفاسه: «إن سدّ شعاع فجأةً، فلن ينقذه جاره بخيط كهذا.»
+فقال الزميل: «إلّا إذا جاء الانسداد ببطء على السنين، فتغلظ الخيوط شيئًا فشيئًا.»
+فعاد توماس إلى شعاعه، ونظر إلى الخيط المترهّل وقال:
+quote: «رجل أهل الاستدلال من خشب، والرّجل الخشبيّة واهية لا تثبت.»
+source: المثنوي، الكتاب الأول
+explanation:
+In the normal heart there are small collateral channels between the coronary arteries, so they are not absolute anatomic end-arteries.
+But these channels are tiny and carry little blood, so when an artery is suddenly blocked they cannot protect the muscle beyond it.
+So B is the answer: the normal coronary bed has minimal effective collaterals.
+Collaterals can enlarge over time when a stenosis develops slowly.
+
+== 49
+# Coronary sinus saturation when coronary arterial blood is 100% saturated -> D, about 35%.
+# an ox pouring a FULL bucket into the top of the Liberty crown; at the sink with a little green crown in the blue lobby the bucket coming out is only a third full, sign 35 -> the heart extracts about two thirds of the oxygen
+title: Coronary sinus blood is only about 35% saturated: the heart extracts most of its oxygen
+titleAr: الدم في الجيب التاجي مشبع بنحو 35% فقط: القلب يستخلص معظم أكسجينه
+tags: cardiac/coronary cardiac/foundations d:physiology q:numbers l:2
+palette: bright day, green copper, clear silver water, blue lobby
+words: 100%, 35%
+keywords: oxygen -> a huge ox wearing a clear oxygen mask; coronary -> the Statue of Liberty's green crown; coronary sinus -> a sink with a little green crown, set in the floor of the blue lobby
+must: the ox pours a FULL bucket marked 100% into the crown; what comes out at the sink fills only a third of the bucket marked 35%
+scene: A split view on a bright day. ABOVE: a huge ox wearing a clear oxygen mask stands on the Statue of Liberty's green crown and pours a FULL bucket of shining water, marked 100%, into its spikes. BELOW, CENTRE, dominant and brightest: the blue glass lobby of the old hotel with a stag's head over its door; in its floor a sink with a little green crown on its tap, and a worker holding under it a bucket that has caught only a third of a bucket, marked 35%.
+
+story:
+في نهار مشرق، وقف ثور ضخم يلبس قناعًا شفّافًا على تاج تمثال الحرّيّة.
+وصبّ في أشعّته دلوًا مليئًا بماء لامع، مكتوب عليه: مئة في المئة.
+فجرى الماء في التاج كلّه، يشرب منه كلّ شعاع ما شاء.
+وفي الأسفل، في البهو الأزرق من فندق الأيّل، حوض في الأرض على صنبوره تاج أخضر صغير.
+وتحت الصنبور عامل يحمل دلوًا، ينتظر ما يعود من التاج.
+فلمّا توقّف الماء، نظر في دلوه فإذا فيه ثلثه فقط، وعليه مكتوب: خمسة وثلاثون في المئة.
+فصاح إلى الثور: «صببت دلوًا كاملًا، فأين ذهب الباقي؟»
+فقالت مديرة الفندق بيرل: «شربه التاج؛ هذا التاج أشدّ عطشًا من كلّ ما في المدينة، يأخذ الثلثين وهو ساكن.»
+ثمّ قالت: «فإن أراد أكثر، فلا طريق له إلّا أن يطلب دلاءً أكثر.»
+ونظرت إلى الدلو القليل وقالت:
+quote: «كلّ من عدا السمك يشبع من مائه، وكلّ من لا رزق له طال يومه.»
+source: المثنوي، الكتاب الأول
+explanation:
+The heart extracts much more oxygen from its blood than other organs, even at rest: about 65 to 75 percent.
+So if coronary arterial blood is 100% saturated, coronary sinus blood is only about 35% saturated, one of the lowest venous saturations in the body.
+So D is the answer.
+Because extraction is already almost maximal, the heart can meet a higher demand only by increasing coronary blood flow.
+
+== 50
+# What coronary bypass has been shown to do -> all four: A (fewer myocardial infarctions), B (relief of angina), C (longer life), D (better ejection fraction in many with a depressed one).
+# green cabbage leaves bridging the tar-clogged spikes of the Liberty crown -> coronary bypass grafting
+# ANSWER A: an arrow bouncing off a cabbage leaf in front of a stag -> fewer myocardial infarctions
+# ANSWER B: a stone angel lifting off a man's chest -> relief of angina
+# ANSWER C: an old man unrolling a very long calendar -> a longer life
+# ANSWER D: in the red engine room a bouncer throwing out more guests than before -> a better ejection fraction
+title: What coronary bypass does: fewer infarctions, relief of angina, longer life, a better ejection fraction in many
+titleAr: ما تفعله جراحة المجازة التاجية: احتشاءات أقلّ، وزوال الذبحة، وعمر أطول، وكسر قذف أفضل عند كثيرين
+tags: cardiac/coronary d:evidence q:recall l:2
+palette: spring morning, green copper, fresh cabbage green, white stone angel, warm red room
+keywords: coronary artery bypass grafting -> big green cabbage leaves laid as bridges over the tar-clogged spikes of the Liberty crown; myocardial infarction -> a stag brought down by an arrow; angina -> a heavy stone angel sitting on a man's chest; ejection fraction -> a nightclub bouncer ejecting guests out of the red engine room's door; life span -> an old man unrolling a very long calendar
+must: the cabbage leaves bridge OVER the tar; the arrow BOUNCES OFF a cabbage leaf so the stag stays standing; the angel is LIFTING OFF the man's chest; the bouncer throws out many guests
+scene: Liberty Island on a spring morning. CENTRE, dominant and brightest: the Statue of Liberty's green crown, its spikes clogged with black tar, and big fresh green cabbage leaves laid as bridges over the clogged parts. LEFT: a hunter's arrow bounces off a cabbage leaf held up in front of a proud stag, which stays standing. RIGHT: a heavy stone angel rises off the chest of a man lying on a bench, and he breathes freely. FOREGROUND: an old man unrolls a very long calendar along the path. BEHIND, through the cut-open wall of the old hotel with a stag's head: in the red engine room a nightclub bouncer throws a whole crowd of guests out of its door.
+
+story:
+في صباح ربيعيّ، كانت أشعّة تاج الحرّيّة مسدودةً بالقار الأسود.
+فجاء البستانيّ هانك بأوراق «كابيج»، ملفوف أخضر كبير، ومدّها جسورًا فوق القار، فعاد الماء يجري من فوقها.
+وإلى اليسار، أطلق صيّاد سهمًا نحو أيّل شامخ، فارتدّ السهم عن ورقة ملفوف رفعت أمامه، وبقي الأيّل واقفًا.
+وإلى اليمين، كان رجل مستلق على مقعد يجثم على صدره ملاك من الحجر، فارتفع الملاك عنه، فتنفّس الرجل ملء صدره.
+وفي المقدّمة، أخذ عجوز يفرد تقويمًا طويلًا جدًّا على الممرّ، ويقول: «أيّام أخرى، وأيّام أخرى!»
+ومن خلفهم، في غرفة المحرّكات الحمراء في فندق الأيّل، أخذ حارس الملهى يطرد من الباب جموعًا أكثر ممّا كان يطرد من قبل.
+فقال الحارس: «كنت أطرد القليل لأنّي كنت جائعًا نعسان؛ فلمّا جاءني الماء استيقظت.»
+فقال هانك: «أربع في يوم واحد: سهم مردود، وملاك مرفوع، وعمر أطول، وباب يعمل.»
+ثمّ مسح يديه بورقة ملفوف وقال:
+quote: «يا دواء كبريائنا وغرورنا، يا أفلاطوننا وجالينوسنا.»
+source: المثنوي، الكتاب الأول
+explanation:
+Coronary bypass grafting relieves angina in most patients: statement B is true.
+In high-risk groups, such as left main or three-vessel disease with reduced left ventricular function, it prolongs life compared with medical therapy: statement C is true.
+Long-term follow-up also shows fewer myocardial infarctions after complete revascularization: statement A is true.
+In many patients whose ejection fraction is depressed by ischaemic but still living muscle, revascularization improves the ejection fraction: statement D is true.
+So A, B, C and D are all the answer.

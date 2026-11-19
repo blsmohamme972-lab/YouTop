@@ -114,7 +114,11 @@ Per question (format at the top of `batch.py`):
   teaching point, why the answer is right, the most tempting wrong option. Mainstream surgical
   knowledge only; leave out any number you are not sure of. If the book's key is debatable, keep
   it and say so in `note:`. Only a clear, undisputed medical error in the key is corrected (the owner,
-  2026-11-19; no complex medical review): `key: C`, the tag `x:key-corrected`, and a `note:` with the book's key and why.
+  2026-11-19; no complex medical review): `key: C`, the tag `x:key-corrected`, and a `note:` with the book's key and why. A clear misprint in an option's
+  text (for example a comparison printed the wrong way round) is corrected the same way with `option: C = the
+  corrected text` (the tag and a `note:` are required too). A question the app cannot ask as printed (a matching
+  key, "A-1. B-1,2") is asked as several questions in one lesson: an `asks:` block, one line per question,
+  `question | option | option ... = A,C`, and a `note:` saying how they come from the book's key.
 
 Quality bar: would the picture alone let the owner recall the answer a month later? If the
 scene does not encode the *answer*, redo the scene before writing the story.

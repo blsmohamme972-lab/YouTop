@@ -79,8 +79,8 @@ import argparse, json, pathlib, re, shutil, subprocess, sys, unicodedata
 ROOT = pathlib.Path(__file__).resolve().parents[2]
 DEFAULT_FOLDER = ROOT / ".content-work"
 LATIN = re.compile(r"[A-Za-z]")
-KEYS = {"title", "titleAr", "tags", "palette", "words", "must", "keywords", "scene", "story", "quote", "source", "explanation", "note", "key"}
-MULTI = {"story", "explanation"}
+KEYS = {"title", "titleAr", "tags", "palette", "words", "must", "keywords", "scene", "story", "quote", "source", "explanation", "note", "key", "option", "asks"}
+MULTI = {"story", "explanation", "asks"}
 
 
 def die(msg):
@@ -274,7 +274,7 @@ def lint(cfg, b, q, used, problems, warnings):
             problems.append(f"{w}: '{key}' is missing")
     if q is None:
         problems.append(f"{w}: not in the master question file(s) given")
-    elif q.get("unsupported") and not b.get("key"):
+    elif q.get("unsupported") and not b.get("key") and not b.get("asks"):
         problems.append(f"{w}: {q['unsupported']}; the app cannot ask it yet")
     if b.get("key") and q is not None:
         right = key_override(b, q)
@@ -284,6 +284,20 @@ def lint(cfg, b, q, used, problems, warnings):
             problems.append(f"{w}: a corrected key needs the tag x:key-corrected")
         if not b.get("note"):
             problems.append(f"{w}: a corrected key needs a 'note:' saying what the book's key was and why it is wrong")
+    for i, line in enumerate(b.get("asks") or [], 1):
+        a = parse_ask(line)
+        if a is None:
+            problems.append(f"{w}: asks line {i} is not 'question | option | option ... = letters'")
+    if b.get("asks") and not b.get("note"):
+        problems.append(f"{w}: questions written in 'asks:' need a 'note:' saying how they come from the book's question and key")
+    if b.get("option") and q is not None:
+        fixed = option_override(b, q)
+        if fixed is None:
+            problems.append(f"{w}: write the corrected option as 'option: C = the corrected text'")
+        if "x:key-corrected" not in (b.get("tags") or ""):
+            problems.append(f"{w}: a corrected option needs the tag x:key-corrected")
+        if not b.get("note"):
+            problems.append(f"{w}: a corrected option needs a 'note:' saying what the book printed and why it is wrong")
     if cfg.get("soundAlikes") and not b.get("keywords"):
         warnings.append(f"{w}: no 'keywords' (the owner's rule 2: every abstract term of the answer as a concrete sound-alike object)")
     story, expl = b.get("story") or [], b.get("explanation") or []
@@ -316,8 +330,8 @@ def lint(cfg, b, q, used, problems, warnings):
         warnings.append(f"{w}: 'must' is long; name only the two or three details the story cannot do without")
     if b.get("words") and len(b["words"]) > 40:
         warnings.append(f"{w}: 'words' is long; image generators misspell more than a few short labels")
-    if q is not None and expl:
-        answer = q["options"][q["answer"]]
+    if q is not None and expl and not b.get("asks"):
+        answer = (option_override(b, q) or q["options"])[q["answer"]]
         key_words = [x for x in re.findall(r"[A-Za-z]{5,}", answer.lower())]
         text = " ".join(expl).lower()
         if key_words and not any(x in text for x in key_words):
@@ -332,6 +346,29 @@ def key_override(b, q):
     return sorted({ord(x.upper()) - ord("A") for x in letters})
 
 
+def parse_ask(line):
+    """One line of 'asks:': "question | option | option ... = A,C" -> {"q", "options", "right"}, or None."""
+    m = re.fullmatch(r"(.+?)\s*=\s*([A-Za-z][A-Za-z ,]*)", line.strip())
+    if not m:
+        return None
+    parts = [x.strip() for x in m.group(1).split("|")]
+    stem, options = parts[0], [x for x in parts[1:] if x]
+    right = sorted({ord(x.upper()) - ord("A") for x in re.findall(r"[A-Za-z]", m.group(2))})
+    if not stem or len(options) < 2 or not right or any(not 0 <= i < len(options) for i in right):
+        return None
+    return {"q": stem, "options": options, "right": right}
+
+
+def option_override(b, q):
+    """The options with a clear misprint corrected ('option: C = text'), or None when there is none or it is unreadable."""
+    m = re.fullmatch(r"\s*([A-Za-z])\s*=\s*(.+?)\s*", b.get("option") or "")
+    if not m or not 0 <= ord(m.group(1).upper()) - ord("A") < len(q["options"]):
+        return None
+    options = list(q["options"])
+    options[ord(m.group(1).upper()) - ord("A")] = m.group(2)
+    return options
+
+
 def build_lesson(cfg, b, q, book_dir, old, force, problems, warnings):
     n = b["n"]
     lid = lesson_id(cfg, n)
@@ -340,10 +377,20 @@ def build_lesson(cfg, b, q, book_dir, old, force, problems, warnings):
     story = [{"text": t} for t in b["story"]] + [{"text": b["quote"], "quote": source}]
     explain = " ".join(b["explanation"]) + (" " + b["note"] if b.get("note") else "")
     right = key_override(b, q) or sorted(set(q.get("answers") or [q["answer"]]))
-    quiz = {"q": fix(q["stem"]), "options": [fix(o) for o in q["options"]], "answer": right[0],
+    quiz = {"q": fix(q["stem"]), "options": [fix(o) for o in (option_override(b, q) or q["options"])], "answer": right[0],
             "explain": explain, "lang": "en", "source": f"{cfg['sourceLabel']}, Q{n}"}
     if len(right) > 1:
         quiz["answers"] = right  # "choose all that apply": the app ticks and checks them together (since 2.5)
+    quizzes = [quiz]
+    if b.get("asks"):
+        # A question the app cannot ask as printed (a matching key) is asked as several questions in one lesson.
+        quizzes = []
+        for a in filter(None, map(parse_ask, b["asks"])):
+            one = {"q": fix(a["q"]), "options": [fix(o) for o in a["options"]], "answer": a["right"][0],
+                   "explain": explain, "lang": "en", "source": f"{cfg['sourceLabel']}, Q{n}"}
+            if len(a["right"]) > 1:
+                one["answers"] = a["right"]
+            quizzes.append(one)
     if q.get("figure"):
         name = f"figure-q{n:04d}.png"
         published = subprocess.run(["git", "cat-file", "-e", f"origin/content:books/{cfg['id']}/media/{name}"], cwd=ROOT, capture_output=True).returncode == 0
@@ -355,7 +402,7 @@ def build_lesson(cfg, b, q, book_dir, old, force, problems, warnings):
     lesson = {"id": lid, "title": b["title"], "titleAr": b["titleAr"], "tags": b["tags"].replace(",", " ").split(),
               "tracks": [{"kind": "story", "lang": "ar", "segments": story},
                          {"kind": "explanation", "lang": "en", "segments": [{"text": t} for t in b["explanation"]]}],
-              "quiz": [quiz]}
+              "quiz": quizzes}
     if old:
         # Keep what later steps added (picture, spots, recorded voice) wherever the text is unchanged.
         if old.get("image"):
@@ -365,7 +412,8 @@ def build_lesson(cfg, b, q, book_dir, old, force, problems, warnings):
             lesson["marks"] = old["marks"]
             for k in ("marks", "answerMarks"):
                 if old.get("quiz") and k in old["quiz"][0]:
-                    quiz[k] = old["quiz"][0][k]
+                    for one in quizzes:
+                        one[k] = old["quiz"][0][k]
         for new_track in lesson["tracks"]:
             old_track = next((t for t in old.get("tracks", []) if t.get("kind") == new_track["kind"]), None)
             if not old_track:
@@ -753,12 +801,13 @@ def cmd_marks(args):
                 problems.append(f"{w}: 'answer:' must name at least one circle")
             if set(b["question"]) & set(b["answer"]):
                 problems.append(f"{w}: a circle is in both 'question:' and 'answer:'; the question's circles must not give the answer away")
-            if len(lesson.get("quiz", [])) != 1:
-                problems.append(f"{w}: the lesson has {len(lesson.get('quiz', []))} questions; this file format serves lessons with one")
+            if not lesson.get("quiz"):
+                problems.append(f"{w}: the lesson has no question")
                 continue
             lesson["marks"] = marks
-            lesson["quiz"][0]["marks"] = b["question"]
-            lesson["quiz"][0]["answerMarks"] = b["answer"]
+            for one in lesson["quiz"]:  # a lesson with several questions shows the same circles for each
+                one["marks"] = b["question"]
+                one["answerMarks"] = b["answer"]
             changed = True
             drawn.append(lesson)
         if changed:
