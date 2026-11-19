@@ -1,0 +1,76 @@
+book: shahzad-2015
+== 23
+1: 40 25 14 | Piper's buttoned coat hiding a bundle | A mass compressing the intrathoracic trachea
+2: 42 16 8 | One flat, level note from the chanter | Expiratory flow is capped: the expiratory limb is flattened
+3: 85 47 8 | Board: flat-topped hill above the line | Loop A: flattened expiratory part (variable intrathoracic)
+4: 85 55 8 | Board: deep full arc below the line | Inspiratory part normal: the mass is pulled away on inspiration
+5: 75 32 15 | Dancers frozen, waiting for the tune | Air cannot get out fast enough
+6: 12 52 14 | The bride, pale | Breathing in is easy, breathing out is not
+question: 1 5
+answer: 3 4
+== 24
+1: 94 72 8 | Post A beside the full red barrel | Point A: the end-diastolic point
+2: 82 58 15 | Barrel full to the brim, both taps shut | Filling complete; both valves closed before contraction
+3: 63 63 18 | Old man pushing the barrel uphill | A to B: isovolumic contraction, pressure rises, volume constant
+4: 85 9 10 | Red tap at B bursting open | B: aortic valve opens, ejection begins
+5: 21 19 10 | Nearly empty barrel at C | C: end-systolic point, aortic valve closes
+6: 11 45 10 | Barrel rolling down to D | C to D: isovolumic relaxation
+7: 13 72 12 | Blue tap open at D | D: mitral valve opens, diastolic filling to A
+question: 3 6
+answer: 1 2
+== 25
+1: 72 35 25 | Right tower: 3, 2 and 5 bells | Right lung: 10 segments (upper 3, middle 2, lower 5)
+2: 17 40 14 | Left tower: 3, 2 and 4 bells | Left lung: 9 segments; 19 in all
+3: 86 26 14 | Top three bells blackened by the pipe | Right upper lobe (3 segments) to be removed
+4: 87 85 12 | Milestone 2.6 | Preoperative FEV1 2.6 litres
+5: 24 77 15 | Board: 19 crossed out, 16 | Segments left after right upper lobectomy: 16 of 19
+6: 55 71 7 | Milestone 2.2 | Predicted postoperative FEV1 = 2.6 x 16/19 = 2.2 litres
+question: 3 4
+answer: 5 6
+== 26
+1: 46 40 15 | Long crimson sleeve from beam to basket | The oesophagus
+2: 47 62 8 | Thin silver ring sewn inside the sleeve | Schatzki ring: a fixed mucosal ring in the distal oesophagus
+3: 46 55 11 | Whole meat pie stuck above the ring | A large solid bolus sticks: intermittent dysphagia for solids
+4: 25 55 15 | Chickpeas pouring straight through | Small food and liquids pass freely
+5: 50 13 10 | Hot tea poured from the samovar | Food can be forced down by drinking liquids
+6: 77 30 22 | A row of sleeves, each with a ring | Lower rings are common; most never cause symptoms
+question: 3 5
+answer: 2
+== 27
+1: 45 35 30 | The long log slide down to the river | The oesophagus in achalasia
+2: 60 33 15 | Empty stools with only caps left | Loss of intrinsic nerves of the body: the correct statement
+3: 28 8 12 | Two men still pushing at the top | Loss starts at the sphincter and spreads upwards
+4: 10 20 10 | Post with ten notches | By about 10 years ganglion cells are largely gone
+5: 19 38 8 | Key hanging unused under the lantern | Inhibitory nerves of the sphincter are lost: it does not relax
+6: 80 10 12 | Broken telegraph wire | Extrinsic (vagal) nerves may degenerate too
+7: 35 65 18 | Fyodor gripping the gate shut | The lower oesophageal sphincter fails to relax
+8: 22 92 9 | Green bottle | Drugs alter sphincter pressure (edrophonium up, atropine down)
+question: 7 1
+answer: 2
+== 28
+1: 55 45 15 | Knot growing inwards from plank 5 | A bony outgrowth from a rib, growing into the chest
+2: 57 55 8 | Pearly white cap on the knot | Cartilage cap: osteochondroma
+3: 65 75 22 | Punctured bladder hissing and dripping red | Haemopneumothorax from the inward exostosis
+4: 22 58 18 | Seventeen-year-old Mitya clutching his side | Teenager with sudden pleuritic chest pain
+5: 85 35 15 | Black triangular shadow on the wall | Seen by chance on imaging when it grows inwards
+6: 33 30 15 | Master reaching for the saw | Treatment: resect the exostosis
+question: 3 4
+answer: 1 2
+== 29
+1: 33 37 10 | Nikifor coughing into a cloth | Paroxysms of cough with expectoration
+2: 75 62 15 | Long white ribbon from the dog's collar | The tapeworm Echinococcus granulosus (dog the host)
+3: 85 50 15 | Sheep sleeping in the same room | Herbivore intermediate hosts; man infected by living with them
+4: 20 72 20 | Great round glass flask | Smooth round cyst filled with clear fluid
+5: 20 55 12 | Air filling the top half of the flask | Rupture into a bronchus: air-fluid level
+6: 18 63 12 | Crumpled white membrane floating | Water-lily sign: collapsed endocyst floating on the fluid
+question: 1 3
+answer: 2 6
+== 30
+1: 45 20 30 | Ribbon twisting above and below the rope | QRS complexes twisting around the baseline
+2: 15 60 15 | Old drummer slowing his beat | Long QT interval between beats
+3: 30 45 10 | Pedlar with a bottle of medicine | Drug cause: flecainide (class Ic)
+4: 60 42 15 | Katya falling into the net | Syncope: the rhythm does not perfuse
+5: 62 80 25 | Heap of tangled ribbons below | May degenerate into ventricular fibrillation
+6: 87 30 15 | Photographer's white flash | Treatment: magnesium, shorten QT, defibrillate VF
+question: 3 4
+answer: 1

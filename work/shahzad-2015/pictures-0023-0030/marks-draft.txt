@@ -1,0 +1,274 @@
+book: shahzad-2015
+# Per circle:  <number>: x y r | what is in the picture | what it stands for   (English only)
+# The '#' lines under a circle are the sentences spoken over it (S story, E explanation); delete them or leave them.
+
+== 23
+# Q: A 46-year-old patient with a mass compressing the intra-thoracic portion of trachea undergoes spirometry as a part of pre-assessment for surgery. Which of the following flow-volume loops is likely to be obtained in this patient?
+# ANSWER: A
+# other options: B / C / D / E
+1: 45 45 30 | WHAT | MEANS
+#    S1 في عرس بحانة القرية وقف الزمّار لوكا في معطفه القرمزيّ، وقد زرّره حتّى الذقن.
+2: 40 22 12 | WHAT | MEANS
+#    S2 وتحت المعطف، لصيق القصبة، انتفخت صرّة دسّها هناك ولم يطلع عليها مخلوقًا.
+3: 40 25 18 | WHAT | MEANS
+#    S3 كان يسحب الهواء فيدخل صدره طليقًا عميقًا، كما يدخل النهر البحر.
+4: 55 25 15 | WHAT | MEANS
+#    S4 فإذا عصر القربة ليخرج اللحن شدّ المعطف على الصرّة، وجثمت الصرّة على القصبة.
+5: 42 16 8 | WHAT | MEANS
+#    S5 فلا يخرج منها إلّا أنين واحد ممدود، مستو كحدّ السكّين، لا يعلو ولا ينخفض.
+6: 75 32 15 | WHAT | MEANS
+#    S6 ووقف الراقصون وأقدامهم معلّقة في الهواء، ينتظرون نغمةً لا تجيء.
+7: 85 50 15 | WHAT | MEANS
+#    S7 ورسمت ابنة صاحب الحانة على لوحها ما سمعته: تلًّا مبتور الرأس فوق الخطّ، ومن تحت الخطّ قوسًا عميقًا تامًّا.
+8: 40 30 15 | WHAT | MEANS
+#    S8 صاح العريس: «قربتك مثقوبة يا لوكا!» فهزّ رأسه: «القربة سليمة. الداء هنا، تحت الأزرار.»
+9: 12 55 15 | WHAT | MEANS
+#    S9 ثمّ مال على العروس وعيناه تلمعان: «آخذ من الدنيا ما أشاء، ولا أقدر أن أردّ إليها شيئًا. أتعرفين عذابًا فوق هذا؟»
+10: 10 50 12 | WHAT | MEANS
+#    S10 فشحب وجهها، وذكرت كلمة الشيخ الناسك في الدير:
+11: 40 25 12 | WHAT | MEANS
+#    E1 A mass compressing the intrathoracic trachea is a variable intrathoracic obstruction, the opposite of an extrathoracic one.
+12: 85 54 8 | WHAT | MEANS
+#    E2 During inspiration the mass is pushed outwards, away from the airway, so the inspiratory part of the loop is normal.
+13: 85 47 8 | WHAT | MEANS
+#    E3 During expiration it is pushed into the trachea and partly blocks it, so the expiratory part is flattened: loop A.
+question: 
+answer: 
+
+== 24
+# Q: In the left ventricular pressure-volume loop shown below, point A corresponds to
+# ANSWER: end-diastolic point
+# other options: ejection / end-systolic point / ventricular filling / diastolic filling phase
+1: 50 50 45 | WHAT | MEANS
+#    S1 على سفح التلّ فناء مربّع، في كلّ ركن منه عمود عليه حرف، وحول الأعمدة يدور السقّاء كوزما منذ أربعين شتاءً.
+2: 82 63 15 | WHAT | MEANS
+#    S2 عند العمود A، في الركن الأسفل الأيمن، يقف برميله الأحمر ممتلئًا حتّى الحافّة، وقد أحكم صنبوراه كلاهما.
+3: 82 52 12 | WHAT | MEANS
+#    S3 تلك لحظته: لم تبق قطرة تدخل، ولم تخرج قطرة بعد. امتلاء تامّ، وسكون يسبق العاصفة.
+4: 63 63 18 | WHAT | MEANS
+#    S4 ثمّ يسند كتفه إلى البرميل ويدفعه صعدًا في المنحدر؛ لا ينقص ماؤه ولا يزيد، وعروق عنقه تكاد تتفجّر.
+#    E2 Pressure rises above atrial pressure and the mitral valve closes; the aortic valve is still closed, so from A to B the volume is constant: isovolumic contraction.
+5: 85 9 10 | WHAT | MEANS
+#    S5 وعند B في الأعلى ينفتح الصنبور الأحمر قسرًا، فيندفع الماء هادرًا إلى ساقية المدينة.
+#    E3 At B the pressure becomes higher than aortic pressure, the aortic valve opens and ejection begins; from B to C the volume falls.
+6: 21 19 10 | WHAT | MEANS
+#    S6 وعند C يكاد البرميل يفرغ، فينغلق الأحمر.
+7: 13 72 12 | WHAT | MEANS
+#    S7 ثمّ ينحدر به خفيفًا إلى D، والصّنبوران مغلقان؛ وهناك ينفتح الأزرق، ويعود الماء من الصهريج هادئًا حتّى يبلغ A من جديد.
+#    E6 At D the pressure falls below atrial pressure and the mitral valve opens; DA is the diastolic filling period, completed by atrial contraction.
+8: 50 45 45 | WHAT | MEANS
+#    S8 هكذا يدور، عكس عقارب الساعة، دورةً في إثر دورة، لا يملّ ولا يشكو.
+#    E7 Each loop is formed anticlockwise, and its width is the stroke volume.
+9: 94 72 8 | WHAT | MEANS
+#    S10 فأشار إلى A، إلى برميله الممتلئ قبل الدفعة، وقال بصوت متهدّج:
+#    E1 Point A is the end-diastolic point: filling is complete and this is where contraction begins.
+10: 13 13 8 | WHAT | MEANS
+#    E4 C is the end-systolic point, where the aortic valve closes.
+11: 11 45 10 | WHAT | MEANS
+#    E5 From C to D both valves are closed again and pressure falls at constant volume: isovolumic relaxation.
+question: 
+answer: 
+
+== 25
+# Q: A 48-year-old male smoker is to undergo right upper lobectomy for squamous cell carcinoma. His FEV1 is 2.6 litres (80% of predicted normal). What is his predicted postoperative FEV1?
+# ANSWER: 2.2 litres
+# other options: 2.5 litres / 1.6 litres / 1.8 litres / 1.1 litres
+1: 50 38 45 | WHAT | MEANS
+#    S1 لدير القدّيس نيقولا برجان، وفيهما تسعة عشر جرسًا: عشرة في البرج الأيمن، وتسعة في الأيسر.
+#    E2 There are normally 19 segments: 10 in the right lung (3 upper, 2 middle, 5 lower) and 9 in the left (3, 2 and 4).
+2: 72 35 25 | WHAT | MEANS
+#    S2 في الأيمن ثلاثة في الذروة، واثنان في الوسط، وخمسة في القاعدة؛ وفي الأيسر ثلاثة واثنان وأربعة.
+3: 87 85 12 | WHAT | MEANS
+#    S3 وكانت إذا قرعت جميعًا بلغ صوتها الحجر المنقوش عليه 2.6 على طريق السهل.
+4: 86 28 12 | WHAT | MEANS
+#    S4 لكنّ الأب بافنوتي دخّن غليونه أربعين سنةً تحت أجراس الذروة اليمنى، حتّى اسودّت الثلاثة وتصدّعت.
+5: 70 20 18 | WHAT | MEANS
+#    S5 قال رئيس الدير: «تنزل الثلاثة الليلة، قبل أن تفسد أخواتها.»
+#    E3 A right upper lobectomy removes 3 segments and leaves 16.
+6: 62 33 15 | WHAT | MEANS
+#    S6 فضجّ الرهبان بالبكاء: «سيخرس الدير! سينسانا الله والنّاس!»
+7: 24 77 15 | WHAT | MEANS
+#    S7 أمّا المبتدئ أليوشا فلم يبك؛ أخذ لوحه، وشطب التسعة عشر، وكتب تحتها: ستّة عشر.
+#    E1 Predicted postoperative FEV1 is the preoperative FEV1 multiplied by the number of bronchopulmonary segments that will remain and divided by the total number of segments.
+8: 55 71 7 | WHAT | MEANS
+#    S8 ثمّ مشى على الطريق حتّى وقف عند الحجر 2.2، وقال: «إلى هنا يبلغ صوتنا غدًا، لا أبعد ولا أدنى. وهذا يكفي لنحيا.»
+#    E4 So 2.6 litres x 16/19 = 2.19, about 2.2 litres.
+9: 12 62 10 | WHAT | MEANS
+#    S9 حدّق فيه الرئيس طويلًا، ثمّ قال وفي صوته رهبة من برودة الحساب:
+question: 
+answer: 
+
+== 26
+# Q: A 36-year-old man complains of intermittent dysphagia for solids that is short-lived. He describes that food may become stuck in the oesophagus but can be forced down by drinking liquids or may be regurgitated. Which one of the following oesophageal disorders is this patient most likely to have?
+# ANSWER: Schatzki ring
+# other options: diffuse oesophageal spasm / nutcracker oesophagus / hypertensive lower oesophageal sphincter / focal oesophageal carcinoma
+1: 46 50 15 | WHAT | MEANS
+#    S1 في سوق الصيف نصب الغجريّ ميخاي لعبته: كمّ طويل من حرير قرمزيّ، يتدلّى من العارضة إلى سلّة من خوص.
+2: 47 62 8 | WHAT | MEANS
+#    S2 وفي أسفل الكمّ، قبيل السلّة، خاط من داخله حلقةً رفيعةً من فضّة؛ ثابتةً لا تتّسع ولا تضيق.
+#    E2 It is a fixed mucosal ring in the distal oesophagus.
+3: 25 55 15 | WHAT | MEANS
+#    S4 ألقى الأطفال حبّات الحمّص فانسابت انسياب الماء، وما وقف منها شيء.
+4: 46 55 12 | WHAT | MEANS
+#    S5 ثمّ أقبل التاجر السمين بفطيرة لحم كاملة، لم يكسرها ولم يتمهّل، وقذف بها في الكمّ.
+5: 46 56 11 | WHAT | MEANS
+#    S6 هوت الفطيرة حتّى بلغت الحلقة، فوقفت؛ وانتفخ الحرير فوقها كعنق إوزّة ابتلعت تفّاحة.
+6: 73 50 15 | WHAT | MEANS
+#    S7 هزّ التاجر الكمّ وسبّ ولعن واحمرّ حتّى أذنيه، والفطيرة لا تتزحزح.
+7: 45 12 13 | WHAT | MEANS
+#    S8 فصعد صبيّ السماور على كرسيّه، وصبّ فوقها كوبًا من الشاي الساخن؛ فانزلقت ومضت إلى السلّة كأن لم يكن شيء.
+8: 77 30 22 | WHAT | MEANS
+#    S9 ضحك الناس: «تعلق مرّةً وتمرّ عشرًا!» ومن خلفهم أربعة عشر كمًّا مثله، في كلّ منها حلقة، وما اشتكى منها أحد.
+#    E3 Lower oesophageal rings are found in 6-14% of routine barium examinations and the vast majority cause no symptoms; rings that cause symptoms, the true Schatzki rings, are found in only 0.5%.
+9: 76 46 10 | WHAT | MEANS
+#    S10 أمّا التاجر فرفع كوبه عاليًا، وأقسم أمام السوق كلّه:
+10: 50 13 10 | WHAT | MEANS
+#    E1 Intermittent, short-lived dysphagia for solids, in which the food can be forced down with liquids or regurgitated, is typical of a Schatzki ring.
+question: 
+answer: 
+
+== 27
+# Q: Achalasia is the best defined primary motility disorder and the only one with an established pathology. Which one of the following statements regarding the pathology of achalasia is correct?
+# ANSWER: Achalasia is characterized by a loss of intrinsic acetylcholine-containing nerves.
+# other options: The predominant neuropathologic process of achalasia involves the loss of muscle cells from the wall of the oesophagus. / Extrinsic nerves are never involved. / Edrophonium decreases lower oesophageal sphincter pressure. / Atropine increases lower oesophageal sphincter pressure.
+1: 45 35 30 | WHAT | MEANS
+#    S1 على سفح الغابة مزلق طويل من خشب، تنحدر فيه الجذوع من القمّة إلى النهر، وفي أسفله بوّابة ثقيلة.
+#    E1 Achalasia is the best defined primary motility disorder and the only one with an established pathology.
+2: 28 8 12 | WHAT | MEANS
+#    S2 وكان على طول المزلق رجال على مقاعدهم، يدفع كلّ منهم الجذع إلى جاره بعصاه، فتمضي الجذوع كأنّها موجة واحدة.
+3: 35 65 18 | WHAT | MEANS
+#    S3 وعند البوّابة رجلان: فيدور العابس الّذي يشدّها، وصاحب المفتاح الوديع الّذي يهمس له: «أرخ يدك،» فتنفتح.
+4: 63 38 12 | WHAT | MEANS
+#    S4 ثمّ أخذ الرجال يختفون؛ من أسفل المزلق أوّلًا، ثمّ الّذي فوقه، ثمّ الّذي فوقه.
+5: 10 20 10 | WHAT | MEANS
+#    S5 حفر فيدور في العمود حزًّا لكلّ سنة؛ فلمّا بلغت الحزوز عشرةً لم يبق على المقاعد إلّا القبّعات.
+#    E3 The loss parallels the duration of the disease: at 10 years ganglion cells are likely to be completely absent.
+6: 19 38 8 | WHAT | MEANS
+#    S6 وغاب صاحب المفتاح مع الغائبين، وبقي مفتاحه معلّقًا على مسماره تحت فانوس منطفئ.
+#    E4 At the sphincter the inhibitory nerves are lost, shown by loss of staining for nitric oxide synthase and VIP.
+7: 80 10 12 | WHAT | MEANS
+#    S7 حتّى السلك الآتي من المحطّة البعيدة تهرّأ وانقطع، فلم يعد يبلغ البوّابة أمر ولا خبر.
+#    E6 Extrinsic nerves may also be affected, with Wallerian degeneration within the vagus nerve and its dorsal motor nucleus.
+8: 60 50 20 | WHAT | MEANS
+#    S8 فبقي فيدور وحده، قابضًا على البوّابة لا يرخيها، والجذوع تتراكم خلفها حتّى انتفخ المزلق انتفاخ الغريق.
+9: 55 70 12 | WHAT | MEANS
+#    S9 سقوه من القارورة الخضراء فازدادت قبضته تشنّجًا؛ وناولته الصبيّة عنقودًا من التوت الأسود فارتخت أصابعه قليلًا.
+10: 35 60 12 | WHAT | MEANS
+#    S10 ووقف الحطّاب الشيخ ينظر إلى الطريق الّذي شقّه بيديه وقد صار خرابًا، وقال:
+11: 55 35 20 | WHAT | MEANS
+#    E2 The predominant process is the loss of ganglion cells, not muscle cells, from the wall of the oesophagus, starting at the lower oesophageal sphincter and developing proximally.
+12: 60 30 15 | WHAT | MEANS
+#    E5 In the oesophageal body achalasia is characterised by a loss of intrinsic acetylcholine-containing nerves, which is the correct statement.
+13: 22 92 9 | WHAT | MEANS
+#    E7 Edrophonium increases lower oesophageal sphincter pressure and atropine decreases it, which probably explains why botulinum toxin, an inhibitor of acetylcholine release, can help.
+question: 
+answer: 
+
+== 28
+# Q: A 17-year-old adolescent boy presented to the paediatrician with intermittent shortness of breath and sudden onset of pleuritic chest pain. A chest x-ray demonstrated a left-sided haemopneumothorax and triangular opacity in the left chest. A computed tomographic scan of the chest revealed a mass arising from the anterior aspect of the fifth rib and growing inwards. Which one of the following lesions is most likely to be responsible for these findings?
+# ANSWER: osteochondroma
+# other options: enchondroma / chondroblastoma / chondromyxoid fibroma / chondrosarcoma
+1: 22 58 18 | WHAT | MEANS
+#    S1 نام الفتى ميتيا، ابن السابعة عشرة، في جوف البرميل العظيم الّذي يصنعه معلّمه، كما اعتاد أن ينام منذ طفولته.
+#    E6 A teenager with pleuritic pain, a haemopneumothorax and a mass growing inwards from a rib therefore fits an osteochondroma.
+2: 65 75 22 | WHAT | MEANS
+#    S2 كان البرميل بيته: ألواحه المقوّسة جدرانه، وفي حضنه قربة منتفخة تعلو وتهبط كأنّها تتنفّس معه.
+3: 55 40 18 | WHAT | MEANS
+#    S3 ومن اللوح الخامس، في صدر البرميل، نبتت عقدة من الخشب نفسه، على رأسها قلنسوة بيضاء لامعة كاللّؤلؤ.
+4: 57 52 10 | WHAT | MEANS
+#    S4 لم تنبت إلى الخارج فتراها عين؛ نبتت إلى الداخل، في العتمة، صامتةً كسرّ قديم.
+5: 50 35 15 | WHAT | MEANS
+#    S5 كبرت معه عامًا بعد عام، تطول كلّما طال، ولم توجعه يومًا.
+6: 63 66 8 | WHAT | MEANS
+#    S6 وفي تلك الليلة تقلّب في نومه، فانغرزت في القربة.
+7: 60 75 15 | WHAT | MEANS
+#    S7 صحا على طعنة في جنبه مع كلّ نفس؛ والقربة تصفر هواءً، وتقطر أحمر قانيًا على القشّ.
+#    E5 A large inward one can present with acute chest pain and complications such as haemothorax, haemopneumothorax, pleural or pericardial effusion and diaphragmatic rupture.
+8: 85 35 15 | WHAT | MEANS
+#    S8 رفع المعلّم شمعته، فارتمى ظلّ العقدة على الجدار مثلّثًا أسود.
+9: 33 30 15 | WHAT | MEANS
+#    S9 قال وهو يتناول المنشار: «خفت عليك من الريح والبرد والذّئاب، وما كان العدوّ إلّا من ألواحنا نحن.»
+10: 13 48 9 | WHAT | MEANS
+#    S10 فابتسم الفتى في وجعه، وردّد ما قرأه في رسالة سجين إلى أخيه:
+11: 57 55 8 | WHAT | MEANS
+#    E1 An osteochondroma is a cartilage-capped outgrowth of bone, a developmental defect of growth, and it stops growing at skeletal maturity.
+12: 60 16 8 | WHAT | MEANS
+#    E2 Primary tumours of the thoracic cage make up 5-8% of primary bone tumours, and osteochondroma of a rib is exceedingly rare.
+13: 50 40 15 | WHAT | MEANS
+#    E4 One that projects outwards may be felt as a swelling on the chest; one that projects inwards is generally symptomless and found by chance on a chest radiograph.
+14: 25 38 12 | WHAT | MEANS
+#    E7 An exostosis that penetrates an intrathoracic structure can be life-threatening and needs to be resected.
+question: 
+answer: 
+
+== 29
+# Q: A 32-year-old farmer presented with a history of paroxysms of cough with expectoration. He owned livestock and lived alongside them. Physical examination was unremarkable except for reduced air entry in the left infra-axillary and infrascapular areas. His chest x-ray and CT scan with the abnormality marked are shown below. What one of the following is the most likely diagnosis?
+# ANSWER: Cystic echinococcosis
+# other options: Aspergilloma / Cavitating squamous cell carcinoma / Lung abscess / Necrotizing Klebsiella pneumonia
+1: 50 45 30 | WHAT | MEANS
+#    S1 عاش الفلّاح نيكيفور مع غنمه وكلبه تحت سقف واحد؛ يأكلون من قصعة واحدة، وينامون على قشّ واحد.
+2: 75 62 15 | WHAT | MEANS
+#    S2 وفي عنق الكلب شريط أبيض طويل، ينسلّ طرفه بين قوائم الغنم، ولا يدري أحد أين ينتهي.
+3: 20 70 20 | WHAT | MEANS
+#    S3 وفي الركن الأسفل الأيسر من الكوخ قارورة مستديرة عظيمة، ملساء الجدار، لبثت سنين مملوءةً ماءً صافيًا لا يمسّها أحد.
+#    E2 The plain chest radiograph is the most valuable test: an uncomplicated cyst is a homogeneous round or oval mass with smooth borders, from 1 to 20 cm across.
+4: 20 72 18 | WHAT | MEANS
+#    S4 كانت تكبر في صمت، وهو لا يراها تكبر.
+5: 33 37 10 | WHAT | MEANS
+#    S5 ثمّ جاءه السعال: نوبات تهزّه هزًّا وتطويه طيًّا، يلفظ في إثرها ماءً مالحًا كماء البحر.
+#    S10 وتمتم بما سمعه يومًا من سيّد شابّ محموم العينين:
+#    E4 If the cyst ruptures into the bronchial tree its contents are coughed up and an air-fluid level appears.
+6: 20 62 18 | WHAT | MEANS
+#    S6 وذات مساء التفت إلى القارورة فارتاع: هبط ماؤها إلى النصف، واحتلّ الهواء نصفها الأعلى.
+7: 18 63 12 | WHAT | MEANS
+#    S7 وعلى وجه الماء طفا غشاء أبيض متجعّد، كزنبقة ماء على بركة ساكنة.
+#    S8 قال جاره: «ما أجملها!» فقال نيكيفور: «ليست زهرة. هذا كفن ما كان يسكن جوفها.»
+#    E5 When the endocyst has collapsed completely, its crumpled membrane floats on the remaining fluid: the water-lily sign, pathognomonic of a collapsed endocyst and seen in this patient's images.
+8: 57 53 12 | WHAT | MEANS
+#    S9 ثمّ نظر إلى الكلب يلعق يده، وإلى الغنم الوادعة، فلم يجد في قلبه عليها ضغينة.
+9: 60 60 15 | WHAT | MEANS
+#    E1 Cystic echinococcosis, or hydatid disease, is the larval cystic stage of the small tapeworm Echinococcus granulosus; its intermediate hosts are herbivorous animals, and people are infected accidentally.
+10: 20 52 12 | WHAT | MEANS
+#    E3 As the cyst grows it erodes bronchioles and air enters between its layers, giving the crescent or meniscus sign, which some consider a sign of impending rupture.
+11: 20 75 15 | WHAT | MEANS
+#    E6 CT shows the cystic nature of the mass, with contents close to the density of water, and localises it for surgery.
+12: 85 50 15 | WHAT | MEANS
+#    E7 A farmer who lives alongside his livestock, with this picture, has cystic echinococcosis rather than an aspergilloma, an abscess or a cavitating carcinoma.
+question: 
+answer: 
+
+== 30
+# Q: The ECG shown below was obtained in a patient complaining of palpitations and syncopal symptoms. The patient was administered flecainide for supraventricular tachycardia. What one of the following is the most likely diagnosis?
+# ANSWER: Torsade de pointes
+# other options: AV nodal re-entrant tachycardia / Wolff-Parkinson-White syndrome / Ventricular fibrillation / Atrial fibrillation with variable block
+1: 50 24 40 | WHAT | MEANS
+#    S1 في سوق المساء شدّ حبل مستقيم بين عمودين؛ عليه ترقص كاتيا، ومن تحته يضبط الطبّال الشيخ خطاها.
+2: 15 60 15 | WHAT | MEANS
+#    S2 دقّة فخطوة، دقّة فخطوة؛ هكذا عاشا عشرين عامًا، لا يسبق أحدهما الآخر.
+#    E3 Between episodes the ECG shows a long QT interval after correction for heart rate; normal values average about 0.44 seconds.
+3: 30 45 10 | WHAT | MEANS
+#    S3 في تلك الليلة شكا الطبّال رجفةً في يده، فدسّ له بائع العقاقير الجوّال قارورةً صغيرة: «جرعة واحدة، ويستقيم كلّ شيء.»
+#    E4 It most commonly results from a drug, usually a class Ia, Ic or III antiarrhythmic, and flecainide is class Ic; tricyclic antidepressants, phenothiazines and certain antivirals and antifungals can also induce it.
+4: 22 93 6 | WHAT | MEANS
+#    S4 شرب. فطالت الوقفة بين الدقّة وأختها؛ طالت حتّى حبس الناس أنفاسهم.
+5: 50 20 20 | WHAT | MEANS
+#    S5 وفي تلك الهوّة الطويلة انفلت الشريط القرمزيّ من يد كاتيا.
+6: 45 22 30 | WHAT | MEANS
+#    S6 راح يلتفّ حول الحبل؛ يتّسع ثمّ يضيق ثمّ يتّسع، يعلوه مرّةً ويهوي تحته مرّة، كمغزل أصابه الجنون.
+7: 60 42 15 | WHAT | MEANS
+#    S7 دارت بها الدنيا، وهوت مغشيًّا عليها في الشبكة.
+#    E5 The rate of 200 to 250 beats per minute does not perfuse, so patients present with syncope, and palpitations if conscious.
+8: 62 80 25 | WHAT | MEANS
+#    S8 وتحت الحبل كومة من شرائط متشابكة، لا رأس لها ولا ذيل: إليها ينتهي كلّ شريط يترك لجنونه.
+#    E6 It may cease spontaneously or degenerate into ventricular fibrillation.
+9: 87 30 15 | WHAT | MEANS
+#    S9 عندئذ أشعل المصوّر مسحوقه الأبيض، فغمر الساحة وميض كالبرق؛ وسكن الشريط، واستوى على حبله.
+#    E7 Treatment is intravenous magnesium, measures to shorten the QT interval, and direct-current defibrillation when ventricular fibrillation is precipitated.
+10: 75 43 6 | WHAT | MEANS
+#    S10 فتحت كاتيا عينيها ويداها ترتجفان، وهمست بما يهمس به كلّ من وقف على الحافّة:
+11: 45 20 30 | WHAT | MEANS
+#    E1 Torsade de pointes is a specific form of polymorphic ventricular tachycardia in patients with a long QT interval.
+12: 30 25 15 | WHAT | MEANS
+#    E2 Its rapid, irregular QRS complexes appear to twist around the ECG baseline, their polarity shifting from one side to the other.
+question: 
+answer: 
