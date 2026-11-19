@@ -1,0 +1,91 @@
+book: shahzad-2015
+== 115
+1: 30 10 15 | Nurse pouring glowing blue air from the top | Breathing 100% oxygen
+2: 25 45 25 | Every room glowing blue | All ventilated alveoli fill with oxygen
+3: 55 35 15 | Hidden grey passage bypassing every room | Anatomic right-to-left shunt
+4: 50 77 12 | Pale jug at the door marked 125 | PaO2 only 125 on 100% oxygen
+5: 92 67 10 | Neighbour's deep blue jug, 670 | Normal response: about 670 mmHg
+question: 1 4
+answer: 3
+== 116
+1: 85 50 15 | Gate broken, flood surging back | Acute severe aortic regurgitation
+2: 80 82 15 | Small thick-walled cistern, not enlarged | Normal-sized ventricle: no cardiomegaly
+3: 75 73 12 | Iron lid slamming shut early | Early mitral closure: soft first heart sound
+4: 15 10 15 | Family gasping upstairs, taps dry | Pulmonary oedema, low forward output
+5: 46 40 22 | Gauge needles close together | No wide pulse pressure in acute AR
+6: 30 45 12 | Inspector's two fingers almost touching | Narrow, not wide, pulse pressure
+question: 1 2
+answer: 5 6
+== 117
+1: 75 10 10 | Tikhon sipping bitter black drink | Lifelong warfarin already
+2: 50 30 15 | Iron rear wheels fitted years ago | Existing mechanical mitral or tricuspid valve
+3: 66 63 12 | Iron wheel pushed onto the front axle | Mechanical aortic valve
+4: 66 63 8 | Gold medal I on the hub | Class I recommendation
+5: 10 50 15 | Rack of pale wooden wheels | Bioprostheses
+6: 18 30 15 | Old man, young mother, burnt cart | Bioprosthesis: 65+, childbearing age, endocarditis
+question: 2 1
+answer: 3 4
+== 118
+1: 50 60 25 | River squeezed through a narrow cleft | Aortic stenosis: flow forced through a narrow valve
+2: 50 19 10 | Brass frame reading 0.6 | Valve area index under 0.6 cm2/m2: severe
+3: 35 27 10 | Boots hanging on the frame | Indexed to body size
+4: 10 22 8 | Post marked 4 | Jet velocity over 4 m/s: severe
+5: 25 65 12 | Drop marked 40 | Mean gradient over 40 mmHg: severe
+6: 92 30 8 | Wide calm gap far right | Moderate stenosis
+question: 1 6
+answer: 2
+== 119
+1: 50 60 15 | Young transplanted tree in its pot | Heart transplant
+2: 85 33 12 | Wasps' nest | T lymphocytes attacking the graft
+3: 25 45 12 | Copper sprayer marked 11 | Cyclosporine: 11-amino-acid cyclic peptide
+4: 70 35 15 | Mist falling only on the nest | Selective: blocks calcineurin in T cells
+5: 15 10 12 | Bees and butterflies unharmed | Other immune cells largely spared
+6: 60 10 10 | Glass with green and red lines touching | Low therapeutic index
+7: 90 80 12 | Bean plant with kidney-shaped beans wilting | Nephrotoxicity
+question: 1 3
+answer: 6
+== 120
+1: 25 30 15 | Straight tunnels dug in the dunes | PCI with stents
+2: 15 40 15 | Men going back to dig again | More repeat revascularisation after PCI
+3: 85 22 12 | Camels throwing riders on the mountain | More strokes after CABG
+4: 20 15 15 | Tangled far dunes | High SYNTAX score: PCI worse
+5: 50 75 25 | Board 37 and 31 | MACCE 36.9% PCI vs 31.0% CABG
+6: 50 45 15 | Judge shrugging, palms open | Not significant: no overall difference
+question: 1 3
+answer: 5 6
+== 121
+1: 15 10 12 | Half-built boat in the yard | Hypoplastic left heart
+2: 70 52 20 | Single-hulled red boat | Norwood: single right ventricle outflow
+3: 37 8 8 | Gate marked 20 | Hospital mortality about 20%
+4: 30 35 20 | Rocks and wrecks downstream | Most late deaths before stage two
+5: 88 15 8 | Buoy marked 60 | One-year survival about 60%
+6: 80 85 15 | Lit crane at the second port | Second stage: bidirectional cavopulmonary shunt
+question: 2 6
+answer: 4
+== 122
+1: 45 55 12 | Hose pinched at the waist | Coarctation of the aorta
+2: 45 40 15 | Grandmother sewing a strip from the side tube | Subclavian flap: subclavian turned down as patch
+3: 20 15 10 | Chalk mark 10 on the door | Best for children under 10
+4: 60 15 12 | Taller cousin given a new hose | Older children: interposition graft
+5: 67 58 12 | Clothes pegs on the side taps | Intercostals: temporary clamps, not ligation
+6: 88 25 12 | Grandfather opening the tap slowly | Slow declamping and bicarbonate
+question: 1 4
+answer: 2 3
+== 123
+1: 50 30 30 | Red canal with secret thin pipes | Coronary AV fistula
+2: 60 45 25 | Ten thin pipes | Coronary artery to chamber, bypassing capillaries
+3: 75 75 15 | Nine pipes into the town marked 9 | Up to 90% open into the right heart
+4: 92 25 8 | Stone marked 50 | Right coronary involved in at least half
+5: 35 20 12 | Thief with his lantern | The artery itself has a normal origin
+6: 85 5 10 | Lonely house | Usually an isolated lesion
+question: 1 2
+answer: 3
+== 124
+1: 50 85 15 | Swamp the canal drained into | Anomalous left coronary from the pulmonary artery
+2: 25 38 12 | Wheat yellowing | Ischaemic left ventricle
+3: 55 65 15 | Prokhor's boulder blocking the canal | Ligation of the anomalous artery
+4: 10 35 10 | Water gauge rising | Ligation increases coronary blood flow
+5: 80 28 12 | Neighbour's canal joined to the blue river | Translocation to the aorta: higher pressure
+6: 15 75 12 | Old gate still dripping | Mitral regurgitation persists in up to a third
+question: 1 2
+answer: 3 4
