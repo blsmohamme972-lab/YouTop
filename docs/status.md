@@ -1,6 +1,6 @@
 # Where the work stands
 
-Updated 2026-11-17 (evening). Whoever works on YouTop next: read `CLAUDE.md`, then this, then
+Updated 2026-11-19. Whoever works on YouTop next: read `CLAUDE.md`, then this, then
 `docs/content-guide.md`. Rewrite this file whenever the state changes (it replaces the
 `status-<n>.txt` files in the Drive folder "YouTop private", which stop at 7).
 
@@ -62,7 +62,14 @@ Updated 2026-11-17 (evening). Whoever works on YouTop next: read `CLAUDE.md`, th
   phone-voice fallback was NOT removed from the code (it now only plays if an audio file cannot be downloaded).
 - **Next rounds: no new lessons (the book is finished; do not invent a new book).** Each round only checks the
   pictures folder and, for pictures that arrived, does pictures, spots and marks and publishes them.
-- **Pictures still missing: 23-30, 46-75, 106-200** (none new at 2026-11-18 ~09:30 UTC).
+- **2026-11-19: every picture that had arrived is published with spots and marks**, done alone in batches of
+  about ten, each grid, spots drawing and marks drawing looked at before publishing (the owner asked: follow the
+  quality rules, no extra agents). Work folders `work/shahzad-2015/pictures-0023-0030/` ... `pictures-0199-0200/`.
+  Picture 60 is published as `shahzad-q0060-b.webp` (an interrupted run had left an empty `shahzad-q0060.webp`,
+  which stays unchanged). For 198 the newest of three uploads was used.
+- **Pictures still missing (2026-11-19): 69, 133, 141, 147, 148, 150, 154, 158, 168, 169, 179, 181, 193, 194, 197.**
+  Those lessons show their book figure (if any) or no picture. When one arrives: `batch.py pictures`, spots,
+  marks, look, publish (skill steps 4, 5, 7).
 - Lesson learned this round: never run `voice.py make` and `batch.py build` on the same chapter at the same
   time; the second one to write the chapter file overwrites the other's changes.
 
