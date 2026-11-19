@@ -1,0 +1,90 @@
+book: shahzad-2015
+== 162
+1: 45 88 15 | Triangular stone tank of milk | Cisterna chyli at L2
+2: 47 75 12 | Milk pipe rising beside the red water pipe | Through the aortic opening with the aorta
+3: 55 40 20 | Pipe behind the chute and copper pot | Behind oesophagus and pericardium
+4: 60 35 15 | Linen sheet R hanging between them | Recess of the right pleura separates it from the pericardium
+5: 55 5 10 | Chimney neck on the roof | It ascends to the root of the neck
+question: 1 2
+answer: 4
+== 163
+1: 50 80 20 | Map: four narrows drawn, one crossed out | Three oesophageal constrictions, not four
+2: 50 25 20 | Brick aqueduct and wooden bridge together | Aortic arch and left main bronchus cross it
+3: 77 43 8 | Milestone 23 | At 23 cm from the incisors
+4: 85 45 10 | Frozen stream on the right | Azygos vein on the right
+5: 90 15 10 | Rock pillar R with a gap | Through the right crus of the diaphragm
+question: 1 5
+answer: 2 3
+== 164
+1: 75 10 12 | Spring from the narrow cleft | Cervical: inferior thyroid artery
+2: 50 25 25 | River with many small channels | Thoracic: bronchial and aortic branches
+3: 40 35 10 | Gate on the dam marked L | Abdominal: left phrenic artery
+4: 45 55 15 | Water poured on the lowest vines | Supply to the abdominal oesophagus
+5: 30 85 12 | Small channel up from the round pool | Left gastric artery branches
+6: 90 75 12 | Neighbours' dry channels | Right gastric, gastroepiploic, splenic: not its supply
+question: 1 2
+answer: 3 4
+== 165
+1: 50 50 25 | Two gentlemen in sagging overcoats | Ischaemic heart failure, dilated LV
+2: 35 22 10 | Same new braces on both | CABG in both groups
+3: 30 12 10 | Platon's coat taken in | Surgical ventricular reconstruction added
+4: 47 25 8 | Board 19 and 6 | Volume index fell 19% vs 6%
+5: 45 60 25 | Both walking out equally breathless | No greater improvement in symptoms
+6: 85 35 12 | Hearse waiting for both | Death or hospitalisation the same
+question: 3 4
+answer: 5
+== 166
+1: 77 12 12 | Boy cutting the bell rope above bell 1 | Sympathetic trunk cut at T1
+2: 77 75 12 | Ilya dry, skin smooth after ice water | No sweating, no gooseflesh
+3: 92 40 10 | Valve wheels hanging loose | Loss of vascular tone
+4: 70 45 8 | Stove flap stuck halfway | Visceral reflexes lost
+5: 30 40 25 | Gerasim still lashing with birch branches | Voluntary muscle activity intact
+6: 10 30 8 | Brass speaking tube | Somatic motor nerves, outside the trunk
+question: 1 2
+answer: 5
+== 167
+1: 50 22 15 | Air bag filling the tank down to hoop 8 | Lower lung edge at the 8th rib
+2: 40 60 15 | Dark water at the bottom | Effusion in the pleural recess
+3: 30 45 10 | Wire under each hoop | Neurovascular bundle under each rib
+4: 25 30 10 | Boy's awl high under hoop 8 | Top of a space: hits lung and bundle
+5: 55 60 10 | Akim's tap just above hoop 9 | Bottom of interspace 9, midaxillary line
+6: 8 82 10 | Man chipping at the base | Interspace 11: too low, diaphragm, liver
+question: 2 4
+answer: 5
+== 170
+1: 12 20 12 | Fountain leaping briefly, then low | Pressure stays near diastolic most of the cycle
+2: 27 35 10 | Ribbon at the middle of the pole | Plain average (100): the error
+3: 30 66 8 | Red ribbon at 90 | Mean = diastolic + 1/3 pulse pressure = 90
+4: 85 75 15 | Waterwheel marked 5 | Cardiac output 5 L/min
+5: 75 30 20 | Iron gate marked 18 | Resistance 90/5 = 18 mmHg·min/L
+question: 1 4
+answer: 3 5
+== 171
+1: 15 20 15 | Clay pipe from the cellar uphill | Umbilical vein: best-oxygenated blood
+2: 30 45 15 | Host and keeper drink first | Liver and heart get very high saturation
+3: 80 55 15 | Wine watered down the table | Lower body gets less saturated blood
+4: 85 33 12 | Boy asleep, jug passes his door | Lungs bypassed via the ductus
+5: 50 35 10 | Small door propped open, ribbon | Foramen ovale stays open until birth
+6: 60 85 15 | Child's cup pulling the wine eagerly | Foetal haemoglobin: curve shifted left
+question: 1 4
+answer: 2
+== 172
+1: 50 25 20 | Great cauldron making fat | Liver cholesterol synthesis
+2: 35 15 12 | Inspector closing the brass valve | Statin blocks HMG-CoA reductase
+3: 30 75 20 | Heap of yellow fat in the street | LDL cholesterol
+4: 50 70 15 | A quarter cut cleanly away | LDL falls
+5: 80 85 12 | Board 25 | By 20-25%
+6: 8 25 8 | Small jar of clear oil barely changed | HDL rises only a little
+7: 80 30 12 | Barrel lowered by another man's key | Triglycerides: fibrates lower them more
+question: 1 3
+answer: 4 5
+== 173
+1: 15 45 15 | Belted woman, pale, clutching her chest | Shock with chest pain to the back
+2: 50 50 40 | Sledge hitting the oak head-on | Sudden deceleration
+3: 75 22 15 | Swan neck swinging forward | Mobile aortic arch
+4: 45 50 15 | Straight pipe fixed in the cooling tub | Descending aorta held fixed
+5: 57 30 8 | Torn pipe at the hemp rope | Aortic transection at the isthmus
+6: 50 85 20 | Red stain spreading in the snow | Mediastinal haematoma
+7: 85 55 15 | Hose, cloth, apples unharmed | Diaphragm, oesophagus, spleen: less likely
+question: 1 2
+answer: 5
