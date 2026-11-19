@@ -406,7 +406,8 @@ def cmd_build(args):
     label = f"{min(numbers):04d}-{max(numbers):04d}"
     work = folder / "work" / cfg["id"] / f"batch-{label}"
     work.mkdir(parents=True, exist_ok=True)
-    shutil.copyfile(args.batch, work / "batch.txt")
+    if pathlib.Path(args.batch).resolve() != (work / "batch.txt").resolve():
+        shutil.copyfile(args.batch, work / "batch.txt")
     prompts = work / f"image-prompts-{min(numbers)}-{max(numbers)}.json"
     with_scene = [b for b in items if b.get("scene") and b.get("palette")]
     prompts.write_text(json.dumps({"items": [{"info": image_prompt(cfg, b)} for b in with_scene]}, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
