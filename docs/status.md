@@ -67,7 +67,13 @@ Updated 2026-11-19. Whoever works on YouTop next: read `CLAUDE.md`, then this, t
   quality rules, no extra agents). Work folders `work/shahzad-2015/pictures-0023-0030/` ... `pictures-0199-0200/`.
   Picture 60 is published as `shahzad-q0060-b.webp` (an interrupted run had left an empty `shahzad-q0060.webp`,
   which stays unchanged). For 198 the newest of three uploads was used.
-- **Pictures still missing (2026-11-19): 69, 133, 141, 147, 148, 150, 154, 158, 168, 169, 179, 181, 193, 194, 197.**
+- **Later on 2026-11-19: 69, 141, 147, 148, 150, 158, 168, 169, 179, 181, 193, 194, 197 arrived and are published**
+  (`pictures-0069-0168/`, `pictures-0169-0197/`). **Lesson 40 has a new picture** (`shahzad-q0040-b.webp`,
+  `pictures-0040-b/`): the owner found the three identical towers easy to forget, so a new prompt made them
+  different and numbered (1 broad, road splitting in two = brachiocephalic; 2 tallest, road straight up = left
+  carotid; 3 low and round, road sideways = left subclavian); the story was not changed.
+- **Pictures still missing: 133, 154 only.** (Superseded list below kept for history.)
+- Earlier list, pictures missing at midday 2026-11-19: 69, 133, 141, 147, 148, 150, 154, 158, 168, 169, 179, 181, 193, 194, 197.
   Those lessons show their book figure (if any) or no picture. When one arrives: `batch.py pictures`, spots,
   marks, look, publish (skill steps 4, 5, 7).
 - Lesson learned this round: never run `voice.py make` and `batch.py build` on the same chapter at the same
