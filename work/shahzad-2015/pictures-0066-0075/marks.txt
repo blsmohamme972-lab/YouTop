@@ -1,0 +1,89 @@
+book: shahzad-2015
+== 66
+1: 10 35 12 | Horse galloping on the spot, huge sack | Empty beating heart: highest oxygen demand
+2: 30 35 12 | Horse with trembling skin, big sack | Fibrillating heart: still high demand
+3: 50 40 12 | Horse knee-deep in snow, small sack | Hypothermia lowers demand, but less than arrest
+4: 69 54 8 | Purple lick stone marked K | Potassium cardioplegia
+5: 78 45 15 | White horse asleep, one handful of oats | Potassium-arrested heart: least oxygen demand
+6: 50 66 25 | Thin mice at the holes in the inner wall | Subendocardium suffers first when oxygen is short
+question: 1 2 3
+answer: 4 5
+== 67
+1: 30 15 15 | Stones blocking the red mill race | Coronary flow reduced
+2: 13 50 15 | Miller turned to grey stone | Infarcted myocardium: irreversible
+3: 85 30 12 | Scarecrow with a soft bulging sack belly | Aneurysm: thin scar that bulges, never contracts
+4: 45 45 15 | Great bear curled asleep at the wheel | Hibernating myocardium: alive but not contracting
+5: 20 12 10 | Senka rolling the stones away | Revascularisation (CABG) restores flow
+6: 55 30 15 | Bear's paw gripping the turning wheel | Hibernating muscle recovers once flow returns
+7: 80 60 15 | Worker holding his dizzy head | Stunned myocardium: slow to recover after reflow
+question: 1 2 3
+answer: 4 6
+== 68
+1: 12 55 12 | Signalman's hut at the back junction | Crux: where the back groove meets the AV groove
+2: 75 45 15 | Right rider on the white horse | Right coronary artery
+3: 10 40 8 | Left rider reined in before the junction | Circumflex stops short: not dominant
+4: 78 10 12 | Coin to the drummer, ribbon on the tower | Conus and sinoatrial branches: not what defines dominance
+5: 30 58 12 | Boy riding down the back lane | Posterior descending artery from the RCA
+6: 20 57 8 | The lantern he lights | The AV node, supplied through it
+7: 10 65 7 | Plaque 85 | Right dominance in 85%
+question: 2 3 1
+answer: 5 6
+== 70
+1: 50 15 25 | Heads of both channels freshly repaired | Aortic dissection after repair
+2: 33 50 20 | Channel split lengthwise by a thin partition | True and false lumens
+3: 25 60 8 | Water still racing in the narrow side channel | Patent false lumen: a bad sign
+4: 15 45 12 | Bank bulging, cracking, bricks falling | Aneurysmal dilatation and rupture
+5: 10 30 8 | Plaque 30 | About 30% need reoperation within five years
+6: 90 35 8 | Side channel choked with black ice | Thrombosed false lumen: favourable
+7: 60 10 12 | Vlas leaning on the brake wheel | Strict blood pressure control
+8: 85 60 15 | Bandaged worker walking home early | Early discharge is safe after uncomplicated repair
+question: 1 2
+answer: 3
+== 71
+1: 40 30 20 | Golden palace doors | The aortic valve
+2: 55 72 12 | Tear just past the threshold, flag 1 | Commonest tear: a few cm above the aortic valve
+3: 85 38 10 | Second tear past the iron nail, flag 2 | Second commonest: just beyond the left subclavian
+4: 35 50 20 | Gendarme stamping at the threshold | Highest stress at the start of the ascending aorta
+5: 5 70 6 | Tent peg driven into the carpet | Cannulation during bypass as a cause
+6: 50 77 15 | Carpet lining peeling both ways | Dissection spreads backward and forward
+question: 1 4
+answer: 2
+== 72
+1: 15 55 18 | Young Grisha jerking his rope in a flash | Fibres shortening fast
+2: 30 30 10 | Red column leaping up the glass tube | Rate of rise of ventricular pressure: dP/dt
+3: 50 45 12 | Judge with a silver watch | dP/dt measures speed, not height
+4: 15 18 12 | Plaque 1600 | Normal maximum about 1600 mmHg/s
+5: 74 33 10 | Plaque 1200 | Under 1200 mmHg/s: diseased myocardium
+6: 80 55 12 | Old wrestler pulling slowly | Weak myocardium contracts slowly
+7: 95 60 8 | Man letting his rope out, ignored | Relaxation is not what dP/dt measures
+question: 3 7
+answer: 1 2
+== 73
+1: 42 64 6 | Small flap lifted from the canal lining | Small iatrogenic aortic flap from the guide wire
+2: 80 75 15 | Boatman's pole in the water | Guide wire in the femoral approach
+3: 20 20 18 | Men with axe, tin sleeve and spyglass | Surgery, stent graft, more imaging: not needed now
+4: 55 25 15 | Zosim barring their way with his staff | Observe the stable patient
+5: 42 66 10 | Downstream current pressing the flap flat | Antegrade flow folds the flap closed
+6: 85 55 12 | Boatman turning back, hat in hand | Catheterisation cancelled, repeated later
+7: 90 15 8 | Hourglass on the wall | Follow-up
+question: 1 3
+answer: 4
+== 74
+1: 55 45 12 | Grey-bearded Pavel home again | Adult years after tetralogy repair
+2: 45 35 10 | Old patch on the partition, still tight | VSD closed early; it holds
+3: 85 13 8 | Wooden patch holding the door wide | Outflow widened with a patch
+4: 75 40 15 | Blue door with no leaves | Pulmonary valve that cannot close
+5: 75 60 18 | Waves flowing back in, walls bulging | Regurgitation dilates the right ventricle
+6: 93 27 6 | Number 20 on the door post | Returns after one or two decades
+7: 22 50 18 | Carpenters bringing a new blue door | Homograft or percutaneous valve replacement
+question: 2 3
+answer: 4 5
+== 75
+1: 18 45 15 | Empty left hall, table laid | Left atrium: the pulmonary veins never arrive
+2: 55 40 12 | Lamplighters jammed in the narrow shaft | Common vein through the diaphragm, often obstructed
+3: 55 80 15 | Boat glowing with all their lanterns | Lung blood enters the portal system
+4: 75 75 8 | Woman in the shawl at the oars | Raised oxygen in the umbilical vein
+5: 75 18 10 | Fog upstairs, baby's lips blue | Obstruction: pulmonary oedema and cyanosis
+6: 45 18 8 | Nanny at the hatch, aghast | Needs surgical correction
+question: 5 1
+answer: 3 4
