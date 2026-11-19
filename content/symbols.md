@@ -50,6 +50,32 @@ a batch that draws a listed concept any other way is refused by `batch.py`.
 | Median sternotomy | the stern of a ship opened straight down a white centre line | STERN-otomy; the median line | 9/10 | MedCosmos 5 |
 | Death, mortality | a coffin | death itself | 10/10 | Shahzad 2015 |
 | Myocardial infarction (heart attack) | a hart (a stag) brought down by an arrow (Replaces the rejected 'split red weight' of Shahzad 2015 for every new book (pictures already published stay).) | heart attack = HART attack | 10/10 | - |
+| Aortic valve, aortic regurgitation | the orca balloon's mouth, where the orca leaves the red engine room; a sagging mouth that drips water back is a leaking valve | the door by which blood enters the aorta (the orca) | 9/10 | MedCosmos 21 |
+| Tetralogy of Fallot | a giant falling Tetris piece of four glowing blocks, one feature in each block | TETRA-logy = Tetris, four blocks; of FALL-ot = falling | 10/10 | MedCosmos 25 |
+| Overriding aorta (dextroposition) | the orca balloon sitting astride the party wall, half over each engine room | it rides over both ventricles | 9/10 | MedCosmos 25 |
+| Pulmonary stenosis, right ventricular outflow obstruction | a pipe of dollar bills squeezed narrow by an iron clamp | pull money + a narrowing you can tighten | 9/10 | MedCosmos 25 |
+| Right ventricular hypertrophy | the blue engine room with its walls swollen into thick red muscle | a thick-walled right ventricle | 8/10 | MedCosmos 25 |
+| Prostaglandin E1 (keeps the duct open) | a raised beer stein, "Prost!", propping the duct-tape tunnel open | PROST-aglandin = Prost!, the toast | 10/10 | MedCosmos 28 |
+| Pulmonary artery banding | a leather belt buckled tight around the pipe of dollar bills | a band around the pulmonary artery | 9/10 | MedCosmos 28 |
+| Systemic-to-pulmonary (Blalock-Taussig, subclavian) shunt | a hose joining the orca's flipper to the pipe of dollar bills | subclavian (flipper) to pulmonary (dollars) | 8/10 | MedCosmos 28 |
+| Atresia (a valve or vessel closed from birth) | a pipe welded shut with a thick iron cap | no opening at all | 9/10 | MedCosmos 29 |
+| Taussig-Bing anomaly (DORV with subpulmonary VSD) | a vendor tossing Bing cherries through the hole under the dollar pipe | TAUSSIG-Bing = tossing Bing cherries | 10/10 | MedCosmos 30 |
+| Transposition of the great arteries | the orca and the dollar pipe swapped: the orca leaving the blue engine room, the dollar pipe the red one (Say it in 'must': generators blur which pipe leaves which room.) | the great arteries trade places | 8/10 | MedCosmos 30 |
+| Double-outlet right ventricle | both the orca and the dollar pipe rising out of the blue engine room | two outlets from the right ventricle | 8/10 | MedCosmos 30 |
+| Eisenmenger syndrome (reversed shunt) | an iceman pushing blue blocks of ice back through the hole, from the blue side to the red | EISEN-menger = ice-man; blue (venous) pushed into the red side | 10/10 | - |
+| Fontan operation (venous blood to the lungs with no pumping ventricle) | a stone fountain in the hotel courtyard, fed by the blue wing's chimney, its water running straight into the pipes of dollar bills by gravity, with no pump | FONTAN = fountain (Italian fontana); a fountain flows with no pump, as Fontan blood reaches the lungs with no ventricle | 10/10 | medcosmos-cardiac |
+| Glenn shunt (bidirectional superior cavopulmonary anastomosis) | an astronaut in a white spacesuit (John Glenn) bending the blue wing's chimney down and plugging it straight into the pipe of dollar bills | GLENN = John Glenn, the astronaut New York welcomed with a ticker-tape parade; he joins the chimney (SVC) to the money pipe (pulmonary artery) | 10/10 | medcosmos-cardiac |
+| hypoplasia; hypoplastic left heart syndrome | a little plastic toy hippo wedged into a red wing shrunk to doll size | HYPO-PLASTIC = hippo + plastic; the red (left) wing is shrunk to a toy | 10/10 | medcosmos-cardiac |
+| truncus arteriosus (one common arterial trunk) | one thick tree trunk rising from both engine rooms, astride the hole in the party wall, with the orca and the pipes of dollar bills branching off it (anchor is 'tree trunk', not 'trunk', to leave 'elephant trunk' (the arch operation) free) | TRUNCUS = trunk: one trunk, all branches off it | 10/10 | medcosmos-cardiac |
+| arterial switch operation (Jatene) | a subway switchman pulling a big railway switch lever that swings the orca and the pipe of dollar bills back to their own engine rooms, the Liberty crowns riding along with the orca | SWITCH: the great arteries are switched back; the coronaries go with the new aorta | 9/10 | medcosmos-cardiac |
+| atrial switch (Senning and Mustard operations) | a giant squeeze bottle of yellow mustard drawing a thick mustard wall across the upper lobbies that crosses the two streams over | MUSTARD (the surgeon's name) = mustard; the baffle in the atria redirects the streams. Senning is the same idea | 10/10 | medcosmos-cardiac |
+| balloon atrial septostomy (Rashkind) | a round red party balloon on a string, yanked through the upper party wall so that it tears the hole wider | the procedure is literally a balloon pulled through the atrial septum | 10/10 | medcosmos-cardiac |
+| oxygen (given or measured) | a huge ox wearing a clear oxygen mask | OX-ygen = ox | 10/10 | medcosmos-cardiac |
+| hyperventilation (to lower PCO2) | a man breathing fast into a brown paper bag | the paper bag is the picture everyone knows for hyperventilation | 9/10 | medcosmos-cardiac |
+| pulmonary vascular resistance (Wood units) | wooden blocks stacked inside the pipe of dollar bills, one block for each Wood unit | WOOD units = wooden blocks that resist the flow of money | 10/10 | medcosmos-cardiac |
+| arrhythmia | a pirate shouting ARRR and dancing a wild jig out of step with the music | ARRR-rhythm-ia = a pirate's ARRR + a broken rhythm | 10/10 | medcosmos-cardiac |
+| conduit (right ventricle to pulmonary artery) | a clear twisting waterslide tube from the blue engine room to the pipe of dollar bills | a conduit is a tube built to carry flow; a waterslide tube is the one nobody forgets | 9/10 | medcosmos-cardiac |
+| cyanosis | a child with bright blue (cyan) lips and fingertips | CYAN-osis = cyan blue | 9/10 | medcosmos-cardiac |
 
 ## Rejected (never use them)
 

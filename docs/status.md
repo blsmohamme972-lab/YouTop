@@ -4,6 +4,38 @@ Updated 2026-11-19 (evening). Whoever works on YouTop next: read `CLAUDE.md`, th
 `docs/content-guide.md`. Rewrite this file whenever the state changes (it replaces the
 `status-<n>.txt` files in the Drive folder "YouTop private", which stop at 7).
 
+## START HERE (2026-11-19, night): automatic rounds every hour until the whole MedCosmos book (156) is done
+
+- **Answer keys (the owner, 2026-11-19):** correct only a clear medical error in the book's key on which there is no
+  disagreement; no complex medical review. In the batch: `key: C` (letters), the tag `x:key-corrected`, and a `note:`
+  saying what the book's key was and why; `batch.py build` refuses a corrected key without both.
+- **The owner's plan:** finish the whole MedCosmos Cardiac book (questions 1-156; first 1-100) with the highest accuracy, in automatic rounds, by
+  this one agent **alone (no subagents, no other sessions; the owner said so twice)**. A scheduled task "YouTop:
+  MedCosmos whole book (156), every hour" (trig_01CgSmtZZ33N4gFXAr9mtxZy) fires into session
+  session_01TX4PEBKfzepCPexupsMsgY at minute 14 of every hour; its prompt lists the round. It also carries the
+  work over a usage-limit pause: a firing during the pause fails, the next one resumes. Disable it with
+  update_trigger (enabled=false) when all 156 lessons are published, or when the owner says stop.
+- **One chapter holds lessons 1-100** (`q0001-0100`), another 101-156 (`q0101-0200`). `voice.py make` reads it when it starts and rewrites it when it
+  ends: while it runs, never build, set pictures, spots or marks, or publish. Start make as a round's last step.
+- **Unpublished work** lives in `.content-work/work/medcosmos-cardiac/batch-*/` (batch, voice, spots, marks) and is
+  backed up on the work branch under `drafts/medcosmos-cardiac/` until it is published to `content`.
+- **Where things stand (2026-11-19, 22:00 UTC):**
+  - **1-20 PUBLISHED** (first MedCosmos publish, recorded voices, spots and marks looked at). Pictures 2 and 4 are still
+    missing from the owner's folder; when they arrive: `batch.py pictures`, spots and marks for 2 and 4 (the texts for
+    them are already in `work/medcosmos-cardiac/batch-0001-0020/`), look, publish.
+  - 21-30: built; recording running (log: scratchpad `voice-make-21.log`). It rewrites chapter `q0001-0100` when it
+    ends, so nothing else may write that chapter (31-40 too) until it is done. NEXT: `voice.py check`, and when the
+    owner's pictures 21-30 arrive: `batch.py pictures`, spots, marks, look, publish.
+  - 31-40: scenes and prompts written (`work/medcosmos-cardiac/batch-0031-0040/`), prompts SENT to the owner
+    (22:45 local). 13 new recurring symbols approved by the audit (fontan = fountain, glenn = astronaut, hypoplastic =
+    plastic hippo, truncus = tree trunk, arterial-switch = switch lever, atrial-switch = mustard, balloon-septostomy =
+    party balloon, oxygen = ox, hyperventilation = paper bag, pvr = wooden blocks, arrhythmia = pirate, conduit =
+    waterslide, cyanosis = blue lips). NEXT: stories, explanations and the vowelled voice.txt for 31-40, then build
+    and `voice.py make` once 21-30 has finished recording.
+  - Work files are also published with the content (the `work/` folder of the content branch) and copied to the work
+    branch under `drafts/medcosmos-cardiac/`.
+- **Question 82** has a matching key and is refused by build; plan: split it into four questions in one lesson.
+
 ## NEW BOOK (2026-11-19): MedCosmos Cardiac, 156 questions — New York City, quotations of Rumi
 
 - **The owner's five picture rules (2026-11-19)** are now in the `youtop-lessons` skill ("The picture prompt is

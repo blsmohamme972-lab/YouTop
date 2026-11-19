@@ -113,7 +113,8 @@ Per question (format at the top of `batch.py`):
 - `explanation:` 4-8 English sentences, one per line, in the order of the story's objects: the
   teaching point, why the answer is right, the most tempting wrong option. Mainstream surgical
   knowledge only; leave out any number you are not sure of. If the book's key is debatable, keep
-  it and say so in `note:`.
+  it and say so in `note:`. Only a clear, undisputed medical error in the key is corrected (the owner,
+  2026-11-19; no complex medical review): `key: C`, the tag `x:key-corrected`, and a `note:` with the book's key and why.
 
 Quality bar: would the picture alone let the owner recall the answer a month later? If the
 scene does not encode the *answer*, redo the scene before writing the story.

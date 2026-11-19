@@ -49,6 +49,10 @@ The batch file (UTF-8 text). A line "== 41" starts question 41; then "key: value
     Isovolumetric contraction begins when ...
     ... 4 to 8 sentences
     note: The book's key is B; ...        (optional: added to what is shown after answering)
+    key: C                                (optional: corrects the book's answer key, as option letters,
+                                           "A C" for several; ONLY for a clear, undisputed medical error
+                                           (the owner's rule, 2026-11-19). Needs the tag x:key-corrected
+                                           and a 'note:' that says what the book's key was and why.)
 
 The spots file: per question, one position per sentence, "x y r" as hundredths of the picture's
 width/height (r of the width), "-" for a sentence about nothing visible. The quotation takes none.
@@ -75,7 +79,7 @@ import argparse, json, pathlib, re, shutil, subprocess, sys, unicodedata
 ROOT = pathlib.Path(__file__).resolve().parents[2]
 DEFAULT_FOLDER = ROOT / ".content-work"
 LATIN = re.compile(r"[A-Za-z]")
-KEYS = {"title", "titleAr", "tags", "palette", "words", "must", "keywords", "scene", "story", "quote", "source", "explanation", "note"}
+KEYS = {"title", "titleAr", "tags", "palette", "words", "must", "keywords", "scene", "story", "quote", "source", "explanation", "note", "key"}
 MULTI = {"story", "explanation"}
 
 
@@ -270,8 +274,16 @@ def lint(cfg, b, q, used, problems, warnings):
             problems.append(f"{w}: '{key}' is missing")
     if q is None:
         problems.append(f"{w}: not in the master question file(s) given")
-    elif q.get("unsupported"):
+    elif q.get("unsupported") and not b.get("key"):
         problems.append(f"{w}: {q['unsupported']}; the app cannot ask it yet")
+    if b.get("key") and q is not None:
+        right = key_override(b, q)
+        if any(not 0 <= i < len(q["options"]) for i in right):
+            problems.append(f"{w}: 'key: {b['key']}' names an option the question does not have")
+        if "x:key-corrected" not in (b.get("tags") or ""):
+            problems.append(f"{w}: a corrected key needs the tag x:key-corrected")
+        if not b.get("note"):
+            problems.append(f"{w}: a corrected key needs a 'note:' saying what the book's key was and why it is wrong")
     if cfg.get("soundAlikes") and not b.get("keywords"):
         warnings.append(f"{w}: no 'keywords' (the owner's rule 2: every abstract term of the answer as a concrete sound-alike object)")
     story, expl = b.get("story") or [], b.get("explanation") or []
@@ -312,6 +324,14 @@ def lint(cfg, b, q, used, problems, warnings):
             warnings.append(f"{w}: the explanation never mentions the correct answer ('{answer[:50]}')")
 
 
+def key_override(b, q):
+    """The corrected key of a 'key:' line, as option indexes, or None when the book's key stands."""
+    letters = re.findall(r"[A-Za-z]", b.get("key") or "")
+    if not letters:
+        return None
+    return sorted({ord(x.upper()) - ord("A") for x in letters})
+
+
 def build_lesson(cfg, b, q, book_dir, old, force, problems, warnings):
     n = b["n"]
     lid = lesson_id(cfg, n)
@@ -319,10 +339,11 @@ def build_lesson(cfg, b, q, book_dir, old, force, problems, warnings):
     source = b["source"] if cfg["author"] in b["source"] else f"{cfg['author']}، {b['source']}"
     story = [{"text": t} for t in b["story"]] + [{"text": b["quote"], "quote": source}]
     explain = " ".join(b["explanation"]) + (" " + b["note"] if b.get("note") else "")
-    quiz = {"q": fix(q["stem"]), "options": [fix(o) for o in q["options"]], "answer": q["answer"],
+    right = key_override(b, q) or sorted(set(q.get("answers") or [q["answer"]]))
+    quiz = {"q": fix(q["stem"]), "options": [fix(o) for o in q["options"]], "answer": right[0],
             "explain": explain, "lang": "en", "source": f"{cfg['sourceLabel']}, Q{n}"}
-    if len(q.get("answers") or []) > 1:
-        quiz["answers"] = q["answers"]  # "choose all that apply": the app ticks and checks them together (since 2.5)
+    if len(right) > 1:
+        quiz["answers"] = right  # "choose all that apply": the app ticks and checks them together (since 2.5)
     if q.get("figure"):
         name = f"figure-q{n:04d}.png"
         published = subprocess.run(["git", "cat-file", "-e", f"origin/content:books/{cfg['id']}/media/{name}"], cwd=ROOT, capture_output=True).returncode == 0
@@ -406,7 +427,8 @@ def cmd_build(args):
     label = f"{min(numbers):04d}-{max(numbers):04d}"
     work = folder / "work" / cfg["id"] / f"batch-{label}"
     work.mkdir(parents=True, exist_ok=True)
-    shutil.copyfile(args.batch, work / "batch.txt")
+    if pathlib.Path(args.batch).resolve() != (work / "batch.txt").resolve():
+        shutil.copyfile(args.batch, work / "batch.txt")
     prompts = work / f"image-prompts-{min(numbers)}-{max(numbers)}.json"
     with_scene = [b for b in items if b.get("scene") and b.get("palette")]
     prompts.write_text(json.dumps({"items": [{"info": image_prompt(cfg, b)} for b in with_scene]}, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")

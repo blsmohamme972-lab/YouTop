@@ -1,0 +1,349 @@
+book: medcosmos-cardiac
+# MedCosmos Cardiac, questions 21-30, written to the owner's five picture rules and the audited symbols
+# (content/symbols.json). Theme: New York City. Quotations: Rumi, the Masnavi (from memory, translated).
+
+== 21
+# VSD statements -> A, B, D true; C false.
+# the HART Hotel ground floor, large hole in the lower party wall -> a large VSD (keywords: hotel, engine rooms with fans)
+# ANSWER A: baby orca pinched by a rope carried in under a calendar showing 3 -> coarctation with VSD: large lesions, repair before 3 months
+# ANSWER B: the big orca's mouth sagging, water dripping back, an hourglass -> aortic valve incompetence develops over time and progresses
+# ANSWER D: duct-tape tunnel with a sign 1/4, gridlocked taxis outside -> a PDA in about a quarter of infants with VSD and heart failure
+# (C, doubly committed VSD most often with aortic insufficiency in the US, is false: no element)
+title: VSD facts: coarctation in large defects, progressive aortic regurgitation, PDA in a quarter of failing infants
+titleAr: حقائق الفتحة بين البطينين: التضيّق مع الفتحات الكبيرة، وقصور الصمام الأبهري المتفاقم، والقناة الشريانية عند ربع الرضّع
+tags: cardiac/congenital d:pathology q:recall l:3
+palette: rainy night blue, warm amber engine rooms, black-and-white orca skin, taxi yellow
+words: 3, 1/4
+keywords: heart -> the old hotel with a stag's head; ventricle -> ground-floor engine rooms with huge ventilation fans; coarctation -> a rope pinching a baby orca's waist; aortic valve incompetence -> the big orca balloon's sagging mouth dripping water back; ductus arteriosus -> a tunnel of silver duct tape; pulmonary -> a pipe of green dollar bills; congestive heart failure -> a traffic jam of yellow taxis
+must: the large hole is in the lower party wall between the two engine rooms; the big orca's mouth sags and drips water back into the red engine room; the baby orca is pinched by a rope at its waist
+scene: The ground floor of the old Brooklyn hotel with a stag's head over its door, seen cut open like a doll's house on a rainy night: the blue engine room on the viewer's left, the red engine room on the right, each with a huge ventilation fan, and a thick brick party wall between them. CENTRE, dominant, larger than life and brightest: a LARGE hole broken through that party wall. A giant orca parade balloon rises out of the red engine room through the ceiling; its open mouth hangs just above the red room, its lips sag, and a thin trickle of water drips back from its mouth into the red room; a big hourglass stands beside the mouth, its sand half run out. LEFT FOREGROUND: at the front door a young nurse carries in a BABY orca balloon pinched at its waist by a tight rope, under a wall calendar showing a big 3. ABOVE: a short tunnel of shiny silver duct tape joins the big orca to a pipe stuffed with green dollar bills, with a small sign 1/4 hanging from it; through the window behind, yellow taxis stand gridlocked in the rain.
+
+story:
+في ليلة ماطرة من ليالي بروكلين، كان المطر يضرب زجاج فندق الأيّل، والمراوح تهدر في غرفتي المحرّكات تحت الأرض.
+وفي الجدار الآجرّيّ بين الغرفتين ثغرة واسعة، يتدفّق منها الهواء الدافئ من الغرفة الحمراء إلى الغرفة الزرقاء.
+فدخلت الممرّضة الشابّة لوسي من الباب الأماميّ تحمل حوتًا قاتلًا صغيرًا من البالونات، قد خنق خصره حبل مشدود.
+ونظرت إلى التقويم على الحائط، وعليه رقم كبير: ثلاثة، وقالت: «مثله لا ينتظر؛ قبل أن تنقضي ثلاثة أشهر نحلّ حبله ونسدّ الثغرة.»
+وفوق الغرفة الحمراء كان فم الحوت الكبير يتدلّى، قد ارتخت شفتاه، فيقطر منه الماء راجعًا إلى الغرفة قطرةً بعد قطرة.
+وإلى جانب فمه ساعة رمليّة كبيرة نزل نصف رملها، فقال الحارس العجوز سام: «كلّ عام يرتخي فمه أكثر من العام الّذي قبله.»
+وفي الأعلى نفق قصير من الشريط اللاصق الفضّيّ يصل الحوت الكبير بأنبوب الدولارات، تتدلّى منه لافتة صغيرة: ربع.
+ومن النافذة كانت سيّارات الأجرة الصفراء متلاصقةً في المطر، لا تتقدّم شبرًا.
+فقالت لوسي وهي تضمّ الحوت الصغير: «ربعهم يا سام، ربع الصغار الّذين يختنق سيرهم يحملون هذا النفق!»
+فهزّ سام رأسه، ونظر إلى الثغرة في الجدار، وقال:
+quote: «هذه الدنيا سجن ونحن السجناء؛ فاحفر في السجن ثغرةً وخلّص نفسك.»
+source: المثنوي، الكتاب الأول
+explanation:
+A large ventricular septal defect often comes with other lesions, and several of the statements about them are true.
+When coarctation of the aorta accompanies a VSD, it usually occurs in infants with large defects who need repair within the first three months of life.
+In some patients an aortic valve cusp prolapses into the defect, and aortic incompetence develops over time and progresses.
+A patent ductus arteriosus is present in about a quarter of infants with a VSD and congestive heart failure.
+So A, B and D are the answer.
+Statement C is false: in the United States aortic insufficiency is seen most often with perimembranous defects; doubly committed (juxta-arterial) defects, which carry the highest risk of it, are common mainly in Asian patients.
+
+== 22
+# VSD statements -> B, C, D correct; A wrong (a large VSD is about the size of the AORTIC orifice, not the pulmonary).
+# a large hole exactly as wide as the orca's open mouth beside it -> a large VSD is the size of the aortic valve orifice (why A is wrong)
+# ANSWER B: dollar pipes flooding the red upper lobby so its glass walls bulge -> high pulmonary flow enlarges the left atrium on chest x-ray
+# ANSWER C: a tiny keyhole hole, the dollar pipe's gauge calm in the green -> a small restrictive VSD: normal pressures and resistance
+# ANSWER D: padlocked operating door beside a gauge at 12 in the red -> pulmonary vascular resistance above 10-12 units: no operation
+title: VSD facts: enlarged left atrium, normal pressures with small defects, PVR above 10-12 units forbids repair
+titleAr: حقائق الفتحة بين البطينين: تضخّم الأذين الأيسر، وضغوط طبيعية مع الفتحات الصغيرة، ومقاومة فوق 10-12 وحدة تمنع الجراحة
+tags: cardiac/congenital d:physiology q:recall l:3
+palette: bright Brooklyn morning, red and blue wings, green banknotes, one gauge glowing red
+words: 12
+keywords: heart -> the old hotel with a stag's head; atrium -> the glass-roofed atrium lobby; aortic valve -> the orca balloon's open mouth; pulmonary -> pipes of green dollar bills; hypertension -> a pressure gauge with its needle in the red zone
+must: the large hole is exactly as wide as the orca's open mouth beside it; the red upper lobby bulges outward with money; the small hole's gauge is in the green and the padlocked door's gauge reads 12 in the red
+scene: The old Brooklyn hotel with a stag's head over its door, seen cut open like a doll's house on a bright morning: blue wing on the viewer's left, red wing on the right, glass-roofed atrium lobbies upstairs, engine rooms with big fans downstairs. LOWER PARTY WALL, LEFT PART: a large hole, and right beside it the open mouth of an orca parade balloon pressed against the wall, the hole and the mouth exactly the same size. UPPER RIGHT, dominant, larger than life: pipes stuffed with green dollar bills pour so much money into the RED upper lobby that its glass walls bulge outward like a balloon about to burst. LOWER PARTY WALL, RIGHT PART: a tiny keyhole-sized hole; the dollar pipe beside it carries a round pressure gauge whose needle rests calmly in the green. FOREGROUND: the hotel's operating-room door is padlocked with a heavy chain, and a second gauge on a narrowed dollar pipe beside it points at 12, deep in the red.
+
+story:
+في صباح مشرق، فتح فندق الأيّل أبوابه للمفتّشة العجوز روث، وفي يدها دفتر ومسطرة.
+فوقفت أمام الثغرة الكبيرة في أسفل الجدار الفاصل، وإلى جانبها فم الحوت مفتوح على الجدار، فقاستهما معًا فإذا هما سواء.
+فقالت لمساعدها: «الثغرة الكبيرة تقاس بفم الحوت، لا بأنبوب المال.»
+ثمّ صعدت إلى البهو الأحمر، فإذا أنابيب الدولارات تصبّ فيه حتّى انتفخت جدرانه الزجاجيّة إلى الخارج كبالون يوشك أن ينفجر.
+وفي الطرف الآخر من الجدار ثغرة صغيرة كثقب المفتاح، وإلى جانبها عدّاد على أنبوب المال، إبرته ساكنة في الأخضر.
+فابتسمت روث وقالت: «ثقب صغير وعدّاد مطمئنّ؛ لا شيء هنا يقلقني.»
+ثمّ وصلت إلى باب غرفة العمليّات، فإذا هو مقفل بسلسلة ثقيلة وقفل كبير.
+وإلى جانبه عدّاد آخر على أنبوب ضيّق، إبرته عند الرقم اثني عشر في عمق الأحمر.
+فقال لها البوّاب كارلوس: «فات أوان هذا الباب يا سيّدتي؛ منذ بلغت الإبرة اثني عشر أقفلوه.»
+فكتبت روث في دفترها، ونظرت إلى البهو المنتفخ بالمال، وقالت:
+quote: «كوز عين الحريصين لم يمتلئ، وما لم تقنع الصدفة لم تمتلئ درًّا.»
+source: المثنوي، الكتاب الأول
+explanation:
+A large VSD is about the size of the aortic valve orifice or larger, not the pulmonary valve orifice, so statement A is wrong.
+A large VSD with high pulmonary blood flow returns much blood to the left atrium, which enlarges and shows so on the chest x-ray: statement B is correct.
+A small, restrictive VSD lets little blood across, so right ventricular and pulmonary artery pressures and pulmonary vascular resistance stay normal, with no pulmonary vascular disease: statement C is correct.
+A pulmonary vascular resistance above 10 to 12 units per square metre is considered a contraindication to operation, because closing the defect would no longer help: statement D is correct.
+So B, C and D are the answer.
+
+== 23
+# VSD statements -> A, B, D correct; C wrong (Eisenmenger means high resistance and a reversed shunt).
+# ANSWER A: holes in the party walls of several rooms sealing themselves with new bricks, a sign 25-50 -> spontaneous closure in 25% to 50% of children
+# ANSWER B: a thin child panting beside a large hole -> tachypnoea and failure to thrive with a large VSD
+# ANSWER D: the mitre-shaped trapdoor at the bottom corner of the red room rumbling loudly -> mid-diastolic murmur at the apex (extra flow across the mitral valve)
+# the iceman, absent: blue ice is NOT pushed back through the hole; red water flows to the blue side -> normal resistance and left-to-right shunt is not Eisenmenger
+title: VSD facts: spontaneous closure in 25-50%, tachypnoea and failure to thrive, a mid-diastolic murmur at the apex
+titleAr: حقائق الفتحة بين البطينين: انغلاق تلقائي عند 25-50%، وتسرّع التنفّس وتأخّر النموّ، ونفخة منتصف الانبساط عند القمّة
+tags: cardiac/congenital d:diagnosis q:recall l:2
+palette: warm kindergarten colours in the brick hotel, soft spring light, one rumbling red trapdoor
+words: 25-50
+keywords: heart -> the old hotel with a stag's head; ventricle -> ground-floor engine rooms with ventilation fans; mitral valve -> a trapdoor shaped like a bishop's mitre; Eisenmenger -> an iceman pushing blue ice
+must: some small holes are closing by themselves with fresh bricks; the large hole stays open and the thin child pants beside it; the mitre trapdoor rumbles with sound waves
+scene: A spring afternoon in the old Brooklyn hotel with a stag's head over its door, now a kindergarten, seen cut open like a doll's house: blue wing on the viewer's left, red wing on the right, engine rooms with fans downstairs. LEFT: along a corridor of small rooms, several small holes in the walls are sealing themselves as fresh red bricks grow over them, and a painted sign reads 25-50. CENTRE, dominant, larger than life and brightest: in the lower party wall a LARGE hole stays wide open, and beside it a very thin little boy pants hard, his ribs showing, a full plate of food untouched. RIGHT: in the floor of the red room a trapdoor shaped like a bishop's tall mitre rumbles loudly, visible sound waves rolling out of it toward the lowest corner of the building. Red water flows through the large hole from the red side to the blue side. OUTSIDE THE WINDOW: an iceman with a cart of blue ice blocks walks past and does not come in.
+
+story:
+في عصر ربيعيّ صار فندق الأيّل روضةً للأطفال، تملأ الضحكات غرفه الصغيرة.
+وكانت في جدران الغرف الصغيرة ثغرات صغيرة، أخذ الآجرّ الأحمر ينبت فيها من تلقاء نفسه حتّى يسدّها.
+وعلى الجدار لافتة مطليّة: خمسة وعشرون، خمسون؛ فقالت المعلّمة جويس: «من كلّ مئة ثغرة يغلق ربعها أو نصفها وحده قبل أن يكبر الأطفال.»
+لكنّ الثغرة الكبيرة في أسفل الجدار الفاصل بقيت مفتوحةً على سعتها، يجري فيها ماء أحمر من الجانب الأحمر إلى الأزرق.
+وإلى جانبها جلس الصبيّ تومي، نحيلًا تبرز أضلاعه، يلهث لهاثًا سريعًا، وأمامه صحن طعام لم يمسّه.
+فقالت جويس وهي تمسح على رأسه: «يأكل الهواء ولا يأكل الطعام، ولا يكبر يا مسكين.»
+وفي أرض الغرفة الحمراء باب سحريّ على هيئة تاج الأسقف، يهدر هديرًا عاليًا، وتتدحرج منه أمواج الصوت نحو أدنى زوايا البناء.
+ومن النافذة مرّ بائع الثلج بعربته الزرقاء، فلم يدخل، ومضى في طريقه.
+فقالت جويس: «ليس هذا يوم بائع الثلج؛ الماء هنا ما زال يجري من الأحمر إلى الأزرق.»
+ثمّ نظرت إلى الثغرات الصغيرة تنغلق، وقالت:
+quote: «إذا اختبأت الحبّة في الأرض، صار سرّها خضرة البستان.»
+source: المثنوي، الكتاب الأول
+explanation:
+Many VSDs close or shrink by themselves: spontaneous closure occurs in 25% to 50% of patients during childhood, so statement A is correct.
+A large VSD floods the lungs, so the infant breathes fast (tachypnoea), feeds poorly and fails to thrive: statement B is correct.
+With a large defect and low pulmonary vascular resistance, the extra blood returning to the left heart crosses the mitral valve and causes a mid-diastolic rumble at the apex: statement D is correct.
+Eisenmenger's complex means pulmonary vascular resistance so high that the shunt reverses to right-to-left; normal resistance with a left-to-right shunt is the opposite, so statement C is wrong.
+So A, B and D are the answer.
+
+== 24
+# Surgical treatment of VSDs -> B true; A, C, D false.
+# the surgeon (a tailor) climbs down from the BLUE upper lobby through the trident-shaped hatch -> most perimembranous VSDs are repaired through the right atrium and tricuspid valve, not the right ventricle (why A is wrong)
+# ANSWER B: two clients at the tailor's table: an exhausted crying toddler and a calm baby whose dollar-pipe gauge creeps toward red -> repair for intractable symptoms, and for asymptomatic infants with rising pulmonary vascular resistance
+# the sparking bundle of branches along the hole's edge left untouched, still sparking -> complete heart block is uncommon (why C is wrong)
+# a tiny coffin-shaped box, nearly empty notice board -> hospital mortality is low, not 20% (why D is wrong)
+title: VSD repair: for intractable symptoms or rising pulmonary vascular resistance
+titleAr: إصلاح الفتحة بين البطينين: للأعراض المستعصية أو لارتفاع المقاومة الوعائية الرئوية
+tags: cardiac/congenital d:indications q:recall l:2
+palette: evening lamplight in the hotel, tailor's gold thread, blue sparks, one gauge turning red
+keywords: heart -> the old hotel with a stag's head; atrium -> the blue glass-roofed atrium lobby; tricuspid valve -> a hatch shaped like a trident; conduction bundle -> a bundle of branches crackling with electric sparks; rising pulmonary pressure -> a pressure gauge on a dollar pipe creeping into the red
+must: the tailor goes down into the hole through the trident-shaped hatch in the floor of the blue upper lobby; the sparking bundle along the hole's edge is untouched
+scene: Evening in the old Brooklyn hotel with a stag's head over its door, seen cut open like a doll's house: blue wing on the viewer's left, red wing on the right, glass-roofed atrium lobbies upstairs, engine rooms with big fans downstairs. In the floor of the BLUE upper lobby is a hatch shaped like a three-pronged trident; an old tailor with a needle and gold thread climbs down through it to reach a hole in the lower party wall. Along the lower back edge of that hole runs a bundle of branches crackling with electric sparks, which the tailor carefully avoids. CENTRE FOREGROUND, dominant, larger than life and brightest: at the tailor's table wait two clients: an exhausted toddler crying and gasping, and a calm, smiling baby holding a pipe of green dollar bills whose round gauge needle is creeping into the red. A small notice board on the wall is almost empty.
+
+story:
+في مساء هادئ، فتح الخيّاط العجوز أبراهام دكّانه في فندق الأيّل، فهو وحده يعرف كيف تخاط الثغرات بين غرفتي المحرّكات.
+ولم يدخل من باب الغرفة الزرقاء السفلى، بل نزل من البهو الأزرق العلويّ، من فتحة في أرضه على هيئة رمح ثلاثيّ الشعب.
+وقال لتلميذته: «من هذا الطريق نبلغ الثغرة ولا نجرح جدار الغرفة.»
+وعلى الحافّة الخلفيّة السفلى للثّغرة امتدّت حزمة الأغصان الّتي تسري فيها الشرارات، فمرّ أبراهام بإبرته حولها ولم يمسّها.
+وعلى طاولته انتظره زبونان: طفل منهك يبكي ويلهث، لم يهدأ منذ أيّام، وقد عجزت عنه كلّ حيلة.
+ورضيع هادئ يبتسم، في يده أنبوب من الدولارات، تزحف إبرة عدّاده نحو الأحمر يومًا بعد يوم.
+فقالت الأمّ: «طفلي هذا لا يشكو شيئًا، فلماذا جئت به؟» فقال أبراهام: «لا تنظري إلى ابتسامته، انظري إلى الإبرة.»
+ثمّ خاط الثغرتين كلتيهما، وبقيت الشرارات تسري في الحزمة كما كانت.
+وعلى الحائط لوحة كانت تكتب عليها أسماء من لم ينج، فلم يكن فيها إلّا القليل.
+فأطفأ أبراهام مصباحه، وقال لتلميذته:
+quote: «لا ننظر إلى اللسان والقول، بل ننظر إلى الروح والحال.»
+source: المثنوي، الكتاب الثاني
+explanation:
+Most perimembranous VSDs are repaired through the right atrium and the tricuspid valve, not through the right ventricle, so statement A is wrong.
+Intracardiac repair is advised for patients with intractable symptoms, and for asymptomatic infants with evidence of increasing pulmonary vascular resistance, before the lung vessels are damaged for good: statement B is correct and the answer.
+The conduction bundle runs along the posteroinferior rim of the defect, and sutures placed away from it make complete heart block uncommon, so statement C is wrong.
+Hospital mortality after VSD repair in infants is low, a few per cent at most, not near 20%, so statement D is wrong.
+
+== 25
+# Tetralogy of Fallot consists of all except -> A: ASD.
+# a giant falling four-block Tetris piece -> tetralogy of Fallot (keyword: TETRA-logy, FALL-ot)
+# block 1: a hole in a brick wall -> VSD
+# block 2: the orca sitting astride a wall -> overriding (dextroposed) aorta
+# block 3: a dollar pipe squeezed by an iron clamp -> pulmonary stenosis
+# block 4: the blue room with thick swollen muscle walls -> right ventricular hypertrophy
+# ANSWER: a fifth block holding the round clock-hole tumbles away, it does not fit -> an ASD is not part of the tetralogy
+title: Tetralogy of Fallot: four features, and an ASD is not one of them
+titleAr: رباعية فالو: أربع صفات ليس بينها الفتحة بين الأذينين
+tags: cardiac/congenital d:anatomy q:recall l:1 x:high-yield
+palette: Times Square night, four glowing coloured blocks, one cold spotlight on the falling fifth
+words: 4
+keywords: tetralogy of Fallot -> a giant falling Tetris piece of four glowing blocks; secundum ASD -> a round clock with a second hand; overriding aorta -> an orca balloon sitting astride a wall; pulmonary stenosis -> a dollar pipe squeezed by an iron clamp; right ventricular hypertrophy -> a blue room with thick swollen muscle walls
+must: exactly four blocks are joined into the Tetris piece, each showing one scene; the fifth block with the clock-hole falls away separately and does not fit
+scene: Times Square at night. CENTRE: a giant Tetris piece made of four glowing glass blocks joined together falls slowly between the billboards, a big 4 lit on it. Inside each block is one small scene: block 1, a brick wall with a hole broken through it; block 2, an orca parade balloon sitting astride a wall, half on each side; block 3, a pipe stuffed with green dollar bills squeezed narrow by a big iron clamp; block 4, a blue room whose walls are swollen into thick red muscle. RIGHT, dominant, in the strongest cold spotlight: a FIFTH glass block holding a round clock with a sweeping second hand tumbles away on its own, rejected, unable to fit into the piece.
+
+story:
+في ليلة صاخبة في ساحة التايمز، توقّفت اللعبة الكبرى على الشاشات، وسقط من السماء حجر عملاق من أحجار لعبة التتريس.
+كان مصنوعًا من أربع كتل زجاجيّة مضيئة ملتصقة، وعليه رقم مضيء: أربعة، وفي كلّ كتلة مشهد صغير.
+ففي الكتلة الأولى جدار من آجرّ انفتحت فيه ثغرة.
+وفي الثانية حوت قاتل من البالونات يجلس على جدار راكبًا، نصفه على هذا الجانب ونصفه على ذاك.
+وفي الثالثة أنبوب من الدولارات يعتصره ملزم حديديّ كبير حتّى ضاق.
+وفي الرابعة غرفة زرقاء انتفخت جدرانها لحمًا أحمر غليظًا.
+وجاءت كتلة خامسة تهوي، فيها ساعة مستديرة بعقرب ثوان، تريد أن تلتصق بالحجر.
+فلم تجد لها موضعًا، فانزلقت عنه وسقطت وحدها في الضوء البارد.
+فصاح الفتى رافي من الرصيف: «أربع كتل تصنع الحجر، والخامسة غريبة عنه!»
+فضحك جدّه وهو يرى الحجر يستقرّ، وقال:
+quote: «وإن كانوا آلافًا فما هم إلّا واحد، وليس ثمّة إلّا خيالات من يفكّر في العدد.»
+source: المثنوي، الكتاب الأول
+explanation:
+Tetralogy of Fallot has four features, which all follow from the forward displacement of the outlet septum.
+The first is a large ventricular septal defect, usually perimembranous and non-restrictive.
+The second is an overriding aorta, displaced to the right (dextroposition) so that it sits astride the defect.
+The third is pulmonary stenosis, that is right ventricular outflow tract obstruction, often at several levels.
+The fourth is right ventricular hypertrophy, which follows the obstruction.
+An atrial septal defect is not one of the four, so it is the answer; when it is present, the combination is sometimes called the pentalogy of Fallot.
+
+== 26
+# Greatest impact on the physiology of tetralogy of Fallot -> C: the degree of pulmonary stenosis.
+# arcade machine shaped like a Tetris piece -> tetralogy of Fallot
+# ANSWER: a boy turning the iron clamp on the dollar pipe; the tighter it turns, the bluer the faces of a row of children -> the degree of right ventricular outflow obstruction decides the shunt and the cyanosis
+# a man measuring the hole, shrugging -> the size of the VSD (large anyway) matters little
+# a man pushing the orca, shrugging -> the amount of aortic overriding matters little
+title: Tetralogy of Fallot: the degree of pulmonary stenosis decides the physiology
+titleAr: رباعية فالو: درجة تضيّق الصمام الرئوي هي الّتي تحدّد الفيزيولوجيا
+tags: cardiac/congenital d:physiology q:recall l:2
+palette: Coney Island arcade neon, a gradient of children's faces from pink to deep blue
+keywords: tetralogy of Fallot -> an arcade machine shaped like a Tetris piece; pulmonary stenosis -> a dollar pipe squeezed by an iron clamp; overriding aorta -> an orca balloon sitting astride a wall
+must: the clamp is the one thing that changes the children's colour, from pink when loose to deep blue when tight
+scene: An arcade on Coney Island at night. LEFT: a big arcade machine shaped like a Tetris piece. CENTRE, dominant, larger than life and brightest: a boy turns the big iron wheel of a clamp on a pipe stuffed with green dollar bills, squeezing it narrower and narrower; beside it a row of five children, and the tighter the clamp, the bluer their faces, from pink at one end to deep blue at the other. RIGHT BACKGROUND: one man measures a hole in a wall with a tape measure and shrugs; another pushes an orca balloon sitting astride a wall and shrugs; nothing changes in the children's faces.
+
+story:
+في ليلة صيفيّة في صالة ألعاب على كوني آيلاند، وقف جهاز ألعاب عظيم على هيئة حجر من أحجار التتريس.
+وكان فيه أنبوب من الدولارات، عليه ملزم حديديّ له عجلة كبيرة.
+فأمسك الصبيّ ليو بالعجلة، وأخذ يديرها، فيضيق الأنبوب شيئًا فشيئًا.
+وكان إلى جانب الجهاز خمسة أطفال في صفّ، فكلّما شدّ ليو الملزم ازرقّت وجوههم، من الورديّ في أوّل الصفّ إلى الأزرق الداكن في آخره.
+فصاحت أخته نينا: «أرخه يا ليو، أرخه! انظر إلى وجوههم!»
+فأرخاه قليلًا، فعادت الحمرة إلى الوجوه.
+وفي الخلف رجل يقيس ثغرةً في جدار بشريط القياس، ثمّ يهزّ كتفيه، فلا يتغيّر في الوجوه شيء.
+ورجل آخر يدفع حوتًا قاتلًا جالسًا على جدار، يزيحه يمنةً ويسرة، ثمّ يهزّ كتفيه هو أيضًا، فلا يتغيّر شيء.
+فقالت نينا: «الملزم وحده يلوّن الوجوه؛ أمّا الثغرة والحوت فلا يقدّمان ولا يؤخّران.»
+فنظر ليو إلى الوجوه الزرقاء، وتذكّر بيتًا كانت جدّته تقوله له:
+quote: «وضعت أمام عينيك زجاجًا أزرق، فلذلك بدا لك العالم أزرق.»
+source: المثنوي، الكتاب الأول
+explanation:
+In tetralogy of Fallot the VSD is large and non-restrictive, so the two ventricles share one pressure.
+Where the blood goes then depends on the resistance to flow into the lungs, that is, on the degree of pulmonary stenosis (right ventricular outflow obstruction): this is the answer.
+Mild obstruction lets most blood reach the lungs and the child may be pink (a "pink tet"); severe obstruction pushes blue blood across the VSD into the aorta, and the child is deeply cyanosed.
+The size of the VSD, the amount of aortic overriding and the size of any ASD change the picture much less.
+
+== 27
+# Not associated with tetralogy of Fallot -> E: primary pulmonary hypertension.
+# falling Tetris piece -> tetralogy of Fallot
+# the orca balloon curving round to the RIGHT -> right aortic arch (associated)
+# the dollar pipe with its left branch missing, a cut stump -> absent left pulmonary artery (associated)
+# the orca's flipper passing behind the hot-dog cart pole -> retro-oesophageal subclavian artery (associated)
+# a spike of the Liberty crown crossing in front of the dollar pipe -> LAD from the right coronary crossing the outflow tract (associated; matters at repair)
+# ANSWER: a man trying to bolt a red-zone pressure gauge onto the dollar pipe is turned away; the pipe's own gauge reads low -> primary pulmonary hypertension does not belong (in tetralogy the pulmonary pressure is low)
+title: Tetralogy of Fallot: primary pulmonary hypertension is not one of its associations
+titleAr: رباعية فالو: ارتفاع الضغط الرئوي البدئي ليس من مرافقاتها
+tags: cardiac/congenital d:anatomy q:recall l:2
+palette: autumn Central Park, golden leaves, black-and-white orca, one red gauge rejected
+keywords: tetralogy of Fallot -> a giant falling Tetris piece; aorta -> an orca parade balloon; pulmonary -> a pipe of green dollar bills; subclavian -> the orca's flipper; coronary -> a spike of the green Liberty crown; hypertension -> a pressure gauge with its needle in the red zone
+must: the orca curves to the RIGHT side; the dollar pipe has only one branch, the other a cut stump; the red-zone gauge is refused and the pipe's own gauge reads low
+scene: An autumn morning at the edge of Central Park. UPPER BACKGROUND: a giant Tetris piece of four glowing blocks floats down. CENTRE: an orca parade balloon curves round to the RIGHT side of a tall lamppost; its flipper passes BEHIND the pole of a hot-dog cart. In front, a pipe stuffed with green dollar bills splits into only one branch; where its left branch should be there is a cut stump. One spike of a green Statue-of-Liberty crown crosses right in front of the dollar pipe. The dollar pipe's own round gauge reads LOW, its needle at the bottom. FOREGROUND RIGHT, dominant, larger than life and brightest: a salesman tries to bolt a big pressure gauge with its needle in the red zone onto the dollar pipe, and the hot-dog vendor pushes him away with both hands.
+
+story:
+في صباح خريفيّ عند طرف سنترال بارك، هبط من السماء حجر تتريس عظيم من أربع كتل مضيئة، كأنّه جاء يجمع أهله.
+فالتفّ حوت قاتل من البالونات حول عمود النور من جهة اليمين، ومرّت زعنفته خلف عمود عربة النقانق.
+وأمامه أنبوب من الدولارات لم يتفرّع إلّا فرعًا واحدًا، وحيث كان ينبغي أن يكون فرعه الأيسر لم يبق إلّا جذع مقطوع.
+وعبرت أمام الأنبوب شوكة من تاج تمثال الحرّيّة الأخضر، فقال بائع النقانق إدي: «احذروا هذه الشوكة إذا شققتم الأنبوب يومًا.»
+وكان على الأنبوب عدّاد صغير، إبرته عند أدنى حدّ.
+فأقبل بائع جوّال يحمل عدّادًا كبيرًا إبرته في الأحمر، وقال: «دعني أركّب هذا على أنبوبك يا صاحبي!»
+فدفعه إدي بكلتا يديه وقال: «عدّادك لا يليق بأنبوبي؛ أنبوبي ضغطه منخفض، وعدّادك لا يعرف إلّا الأحمر!»
+فوقف البائع حائرًا، وعدّاده الأحمر في يده لا يجد له مكانًا.
+فضحك إدي، ونظر إلى الحوت والزّعنفة والجذع والشّوكة، وقال:
+quote: «لقد جعلت لكلّ امرئ سيرة، وأعطيت كلّ امرئ لغة.»
+source: المثنوي، الكتاب الثاني
+explanation:
+Tetralogy of Fallot comes with several associated anomalies.
+A right aortic arch occurs in about a quarter of patients.
+Absence of the left pulmonary artery and an aberrant (retro-oesophageal) subclavian artery are recognised associations.
+So is an anomalous left anterior descending coronary artery from the right coronary artery, crossing the right ventricular outflow tract, which an incision across the outflow tract could cut.
+Primary pulmonary hypertension is not associated: in tetralogy the outflow obstruction keeps the pulmonary artery pressure low, so it is the answer.
+
+== 28
+# Surgical treatment of tetralogy can include all except -> B: banding of the pulmonary artery in an acyanotic patient.
+# ambulance, a raised beer stein ("Prost!") propping the duct-tape tunnel open -> PGE1 keeps the duct open during transfer
+# a hose from the orca's flipper on the side away from its arch to the dollar pipe, a cradle marked 3 -> a subclavian-to-pulmonary shunt opposite the arch, 3-day-old
+# a tailor sewing a patch straight across the ring of the dollar pipe and closing the hole, a cradle marked 2 -> complete repair with transannular patch, 2-day-old
+# ANSWER: a man buckling a leather belt round the dollar pipe of a pink, smiling Tetris piece, stopped -> banding an acyanotic tetralogy is not done (the outflow is already narrow)
+title: Tetralogy of Fallot: pulmonary artery banding is never part of its treatment
+titleAr: رباعية فالو: ربط الشريان الرئوي ليس من علاجها
+tags: cardiac/congenital d:technique q:recall l:2
+palette: snowy night by an ambulance, warm golden beer, black-and-white orca, one pink Tetris piece
+words: 2, 3
+keywords: prostaglandin -> a raised beer stein propping a duct-tape tunnel open; ductus arteriosus -> a tunnel of silver duct tape; tetralogy of Fallot -> a giant Tetris piece; subclavian-to-pulmonary artery shunt -> a hose joining the orca's flipper to the pipe of dollar bills; banding -> a leather belt buckled round the dollar pipe; pulmonary -> a pipe of green dollar bills
+must: the beer stein holds the duct-tape tunnel open; the man with the belt is stopped by the others before he can buckle it
+scene: A snowy night outside a children's hospital in Manhattan. LEFT: an ambulance with its doors open; inside, a paramedic raises a big beer stein of golden beer that props open a short tunnel of silver duct tape. CENTRE LEFT: a cradle marked 3; above it a hose joins an orca balloon's flipper, on the side away from the orca's arch, to a pipe of green dollar bills. CENTRE RIGHT: a cradle marked 2; above it an old tailor sews a patch straight across the ring where the dollar pipe begins and closes a hole in a wall with the same thread. RIGHT, dominant, larger than life and brightest: a pink, smiling Tetris piece of four blocks, and a man trying to buckle a leather belt tight around its dollar pipe; the paramedic and the tailor both grab his arms and stop him.
+
+story:
+في ليلة مثلجة أمام مستشفًى للأطفال في مانهاتن، وقفت سيّارة إسعاف مفتوحة الأبواب.
+وفي داخلها رفع المسعف الضاحك هانز كأسًا عظيمةً من الجعة الذهبيّة، فأسند بها نفقًا قصيرًا من الشريط اللاصق الفضّيّ لئلّا ينغلق، وصاح: «بروست يا أصحاب!»
+وفي الداخل مهد عليه رقم: ثلاثة، وفوقه خرطوم يصل زعنفة الحوت، من الجهة البعيدة عن قوسه، بأنبوب الدولارات.
+وإلى جانبه مهد آخر عليه رقم: اثنان، وفوقه خيّاط عجوز يخيط رقعةً عرض حلقة الأنبوب، ويسدّ ثغرةً في الجدار بالخيط نفسه.
+وفي الطرف الآخر وقف حجر تتريس ورديّ يبتسم، لا زرقة في وجهه.
+فأقبل رجل غريب بحزام جلديّ، يريد أن يشدّه على أنبوب الحجر الورديّ حتّى يضيق.
+فقفز إليه هانز والخيّاط معًا، وأمسكا بذراعيه، وصاح الخيّاط: «أتخنق أنبوبًا ضاق من نفسه؟»
+فقال الرجل محرجًا: «ظننته يحتاج إلى ما احتاج إليه غيره.»
+فقال هانز: «لكلّ واحد هنا ما يصلحه؛ أمّا هذا الحزام فلا يصلح أحدًا.»
+ثمّ رفع كأسه ثانيةً، وقال:
+quote: «أنت جئت لتصل، لا جئت لتفصل.»
+source: المثنوي، الكتاب الثاني
+explanation:
+A newborn with tetralogy and severe cyanosis can be kept alive with prostaglandin E1, which keeps the ductus arteriosus open and the lungs perfused while the baby is transferred.
+A systemic-to-pulmonary shunt, such as a subclavian-to-pulmonary artery (Blalock-Taussig) shunt placed on the side opposite the aortic arch, is an accepted palliation for a cyanosed infant.
+Complete repair, closing the VSD and enlarging the outflow tract with a transannular patch, can be done even in the first days of life.
+Pulmonary artery banding is never used in tetralogy: the outflow is already obstructed, and banding an acyanotic patient would only cut the pulmonary blood flow further, so it is the answer.
+
+== 29
+# Pulmonary atresia with intact ventricular septum: outcome depends on -> C: the size of the right ventricular cavity and tricuspid valve.
+# dollar pipe welded shut where it leaves the blue room -> pulmonary atresia (keyword: atresia -> welded shut)
+# the party wall solid, no hole -> intact ventricular septum
+# ANSWER: two hotels side by side: one with a roomy blue engine room and a big trident whose fan spins; one with a cramped tiny blue room and a tiny trident whose fan barely turns -> RV cavity and tricuspid size decide the outcome
+title: Pulmonary atresia with intact septum: the right ventricle and tricuspid valve decide the outcome
+titleAr: انسداد الصمام الرئوي مع حاجز سليم: حجم البطين الأيمن والصمام ثلاثي الشرف يحدّد المصير
+tags: cardiac/congenital d:pathology q:recall l:3
+palette: winter dusk in Brooklyn, two lit hotels, blue rooms, one golden trident large and one tiny
+keywords: atresia -> a dollar pipe welded shut with a thick iron cap; ventricle -> a blue ground-floor engine room with a ventilation fan; tricuspid valve -> a three-pronged trident; heart -> the old hotel with a stag's head
+must: in both hotels the dollar pipe is welded shut and the lower party wall has no hole; only the size of the blue room and its trident differ
+scene: Winter dusk on a Brooklyn street: two identical old hotels with a stag's head over each door, side by side, both seen cut open like doll's houses. In BOTH, the pipe of green dollar bills leaving the blue ground-floor engine room is welded shut with a thick iron cap, and the brick party wall between the blue and red engine rooms is solid, without any hole. LEFT HOTEL, dominant, larger than life and brightest: its blue engine room is roomy and tall, a big golden trident stands in its doorway, and its big fan spins fast; a family inside smiles. RIGHT HOTEL: its blue engine room is cramped and tiny, a tiny trident stands in its narrow doorway, and its small fan barely turns; a worried man looks in.
+
+story:
+في غسق شتويّ في بروكلين، قام فندقان توأمان متجاوران، فوق باب كلّ منهما رأس أيّل عظيم القرون.
+وفي كليهما أنبوب الدولارات الخارج من غرفة المحرّكات الزرقاء ملحوم الفوّهة بغطاء حديديّ غليظ، فلا يخرج منه شيء.
+وفي كليهما الجدار الفاصل بين الغرفتين السفليّتين سليم، لا ثغرة فيه.
+لكنّ غرفة الفندق الأيسر الزرقاء رحبة عالية، وفي بابها رمح ذهبيّ كبير ثلاثيّ الشعب، ومروحتها تدور مسرعة.
+وكانت عائلة كارتر تجلس فيها مبتسمةً، تقول: «في غرفتنا متّسع لكلّ شيء.»
+أمّا غرفة الفندق الأيمن الزرقاء فضيّقة صغيرة، وفي بابها الضيّق رمح صغير، ومروحتها لا تكاد تدور.
+فوقف على بابها السيّد غرين قلقًا، ينظر في الغرفة الضيّقة ولا يعرف ماذا يفعل.
+فجاءه المهندس العجوز ليفي وقال: «لا تسأل عن الغطاء الملحوم ولا عن عمرك؛ اسأل عن سعة غرفتك وعن رمحك.»
+ثمّ نظر إلى الغرفة الصغيرة، وقال:
+quote: «لو صببت البحر في كوز، فكم يسع؟ نصيب يوم واحد.»
+source: المثنوي، الكتاب الأول
+explanation:
+In pulmonary atresia with intact ventricular septum the pulmonary valve is closed and there is no VSD, so the right ventricle has no outlet.
+The right ventricle and the tricuspid valve are often small, sometimes tiny, and their size varies greatly from one patient to another.
+The size of the right ventricular cavity and of the tricuspid valve decides whether a two-ventricle repair is possible, or only a one-and-a-half or single-ventricle pathway: it is the predominant determinant of outcome and the answer.
+Coronary sinusoids and a right ventricle-dependent coronary circulation, found mostly with the smallest ventricles, add to the risk.
+The size of the ASD, the age at presentation, the shape of the closed pulmonary valve and the level of hypoxaemia matter far less.
+
+== 30
+# Double-outlet right ventricle -> A, C, D true; B false (in Taussig-Bing the VSD is subpulmonary, not noncommitted).
+# both the orca and the dollar pipe rising out of the BLUE engine room -> double-outlet right ventricle
+# ANSWER A: the red room's only way out is a hole in the party wall -> a VSD is usually present
+# ANSWER C: left hotel: the hole sits under the orca, and the dollar pipe is clamped -> subaortic VSD usually with pulmonary stenosis
+# ANSWER D: right hotel: the hole sits under the dollar pipe, a vendor tossing Bing cherries through it; a mirror shows the orca and dollar pipe swapped -> Taussig-Bing behaves like transposition with VSD
+title: Double-outlet right ventricle: a VSD, pulmonary stenosis with a subaortic VSD, Taussig-Bing like transposition
+titleAr: البطين الأيمن مزدوج المخرج: فتحة بين البطينين، وتضيّق رئوي مع الفتحة تحت الأبهرية، وتاوسيغ-بينغ تحاكي تبدّل الشرايين
+tags: cardiac/congenital d:anatomy q:recall l:3
+palette: summer afternoon in Brooklyn, red cherries, black-and-white orcas, green banknotes
+keywords: double-outlet right ventricle -> both the orca and the dollar pipe rising out of the blue engine room; aorta -> an orca parade balloon; pulmonary -> a pipe of green dollar bills; pulmonary stenosis -> the dollar pipe squeezed by an iron clamp; Taussig-Bing -> a vendor tossing Bing cherries; transposition -> a mirror showing the orca and the dollar pipe swapped
+must: in both hotels BOTH the orca and the dollar pipe come out of the blue engine room; the red room's only way out is a hole in the party wall; the cherry hole is under the dollar pipe
+scene: A summer afternoon on a Brooklyn street: two old hotels with a stag's head over each door, side by side, seen cut open like doll's houses, blue engine room on the left of each, red on the right. In BOTH hotels, an orca parade balloon AND a pipe of green dollar bills both rise out of the BLUE engine room, and the red engine room's only way out is a hole in the party wall. LEFT HOTEL: the hole sits right under the orca, and the dollar pipe is squeezed narrow by a big iron clamp. RIGHT HOTEL, dominant, larger than life and brightest: the hole sits right under the dollar pipe, and a cheerful street vendor tosses red Bing cherries through it from a paper bag; beside him a tall mirror shows the orca and the dollar pipe the other way round, swapped.
+story:
+في عصر صيفيّ في بروكلين، قام فندقان متجاوران، فوق باب كلّ منهما رأس أيّل.
+وفي كليهما خرج الحوت القاتل وأنبوب الدولارات كلاهما من غرفة المحرّكات الزرقاء.
+ولم يكن للغرفة الحمراء في كليهما مخرج إلّا ثغرة في الجدار الفاصل.
+ففي الفندق الأيسر كانت الثغرة تحت الحوت مباشرةً، وكان أنبوب الدولارات يعتصره ملزم حديديّ كبير.
+فقال حارسه العجوز: «إذا انفتحت الثغرة تحت الحوت، ضاق أنبوب المال في أكثر الأحيان.»
+أمّا في الفندق الأيمن فكانت الثغرة تحت أنبوب الدولارات، وكان بائع الكرز المرح توني يقذف فيها حبّات الكرز الأحمر من كيس ورقيّ.
+فصاح وهو يقذف: «كرز بينغ، أطيب كرز في المدينة كلّها!»
+وإلى جانبه مرآة طويلة، يظهر فيها الحوت وأنبوب الدولارات مقلوبين، كلّ منهما في مكان صاحبه.
+فقالت سيّدة عابرة: «انظر إلى المرآة يا توني؛ فندقك يشبه الفندق المقلوب حتّى لتحسبه هو!»
+فضحك توني، ونظر إلى المرآة طويلًا، وقال:
+quote: «أتدري لماذا لا تنمّ مرآتك؟ لأنّ الصدأ لم ينفصل عن وجهها.»
+source: المثنوي، الكتاب الأول
+explanation:
+In double-outlet right ventricle both great arteries arise wholly or mainly from the right ventricle.
+The left ventricle's only outlet is then a ventricular septal defect, which is almost always present: statement A is true.
+When the VSD lies under the aorta (subaortic), pulmonary stenosis is usually present, and the picture resembles tetralogy of Fallot: statement C is true.
+In the Taussig-Bing malformation the VSD lies under the pulmonary artery (subpulmonary), not away from both arteries (noncommitted), so statement B is false.
+With a subpulmonary VSD, oxygenated left ventricular blood streams into the pulmonary artery and blue blood into the aorta, so these patients behave like transposition of the great arteries with VSD: statement D is true.
+So A, C and D are the answer.

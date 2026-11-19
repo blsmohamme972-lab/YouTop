@@ -1038,6 +1038,740 @@
    "status": "rejected",
    "reason": "total 7/10 is below 8",
    "audited": "2026-11-19"
+  },
+  {
+   "id": "aortic-valve",
+   "concept": "Aortic valve, aortic regurgitation",
+   "terms": [
+    "aortic valve",
+    "aortic insufficiency",
+    "aortic regurgitation",
+    "aortic incompetence",
+    "aortic valve incompetence"
+   ],
+   "symbol": "the orca balloon's mouth, where the orca leaves the red engine room; a sagging mouth that drips water back is a leaking valve",
+   "anchors": [
+    "mouth"
+   ],
+   "kind": "meaning",
+   "why": "the door by which blood enters the aorta (the orca)",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "MedCosmos 21",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "tetralogy",
+   "concept": "Tetralogy of Fallot",
+   "terms": [
+    "tetralogy of fallot",
+    "tetralogy",
+    "tof",
+    "fallot"
+   ],
+   "symbol": "a giant falling Tetris piece of four glowing blocks, one feature in each block",
+   "anchors": [
+    "tetris"
+   ],
+   "kind": "sound-alike",
+   "why": "TETRA-logy = Tetris, four blocks; of FALL-ot = falling",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "MedCosmos 25",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "overriding-aorta",
+   "concept": "Overriding aorta (dextroposition)",
+   "terms": [
+    "overriding aorta",
+    "aortic overriding",
+    "dextroposition of the aorta",
+    "dextroposition"
+   ],
+   "symbol": "the orca balloon sitting astride the party wall, half over each engine room",
+   "anchors": [
+    "astride"
+   ],
+   "kind": "literal",
+   "why": "it rides over both ventricles",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 1,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "MedCosmos 25",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "pulmonary-stenosis",
+   "concept": "Pulmonary stenosis, right ventricular outflow obstruction",
+   "terms": [
+    "pulmonary stenosis",
+    "pulmonary valve stenosis",
+    "outflow obstruction",
+    "degree of pulmonary stenosis"
+   ],
+   "symbol": "a pipe of dollar bills squeezed narrow by an iron clamp",
+   "anchors": [
+    "clamp"
+   ],
+   "kind": "sound-alike + literal",
+   "why": "pull money + a narrowing you can tighten",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "MedCosmos 25",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "rvh",
+   "concept": "Right ventricular hypertrophy",
+   "terms": [
+    "right ventricular hypertrophy",
+    "rvh"
+   ],
+   "symbol": "the blue engine room with its walls swollen into thick red muscle",
+   "anchors": [
+    "thick"
+   ],
+   "kind": "literal",
+   "why": "a thick-walled right ventricle",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 1,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "MedCosmos 25",
+   "status": "approved",
+   "reason": "total 8/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "prostaglandin",
+   "concept": "Prostaglandin E1 (keeps the duct open)",
+   "terms": [
+    "prostaglandin",
+    "prostaglandins",
+    "pge1",
+    "pge 1"
+   ],
+   "symbol": "a raised beer stein, \"Prost!\", propping the duct-tape tunnel open",
+   "anchors": [
+    "stein"
+   ],
+   "kind": "sound-alike",
+   "why": "PROST-aglandin = Prost!, the toast",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "MedCosmos 28",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "banding",
+   "concept": "Pulmonary artery banding",
+   "terms": [
+    "banding",
+    "pulmonary artery banding",
+    "band"
+   ],
+   "symbol": "a leather belt buckled tight around the pipe of dollar bills",
+   "anchors": [
+    "belt"
+   ],
+   "kind": "literal",
+   "why": "a band around the pulmonary artery",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "MedCosmos 28",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "bt-shunt",
+   "concept": "Systemic-to-pulmonary (Blalock-Taussig, subclavian) shunt",
+   "terms": [
+    "subclavian-to-pulmonary artery shunt",
+    "blalock-taussig shunt",
+    "bt shunt",
+    "systemic-to-pulmonary shunt"
+   ],
+   "symbol": "a hose joining the orca's flipper to the pipe of dollar bills",
+   "anchors": [
+    "hose"
+   ],
+   "kind": "literal",
+   "why": "subclavian (flipper) to pulmonary (dollars)",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 1,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "MedCosmos 28",
+   "status": "approved",
+   "reason": "total 8/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "atresia",
+   "concept": "Atresia (a valve or vessel closed from birth)",
+   "terms": [
+    "atresia",
+    "pulmonary atresia"
+   ],
+   "symbol": "a pipe welded shut with a thick iron cap",
+   "anchors": [
+    "welded shut"
+   ],
+   "kind": "literal",
+   "why": "no opening at all",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "MedCosmos 29",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "taussig-bing",
+   "concept": "Taussig-Bing anomaly (DORV with subpulmonary VSD)",
+   "terms": [
+    "taussig-bing"
+   ],
+   "symbol": "a vendor tossing Bing cherries through the hole under the dollar pipe",
+   "anchors": [
+    "cherries"
+   ],
+   "kind": "sound-alike",
+   "why": "TAUSSIG-Bing = tossing Bing cherries",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "MedCosmos 30",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "transposition",
+   "concept": "Transposition of the great arteries",
+   "terms": [
+    "transposition of the great arteries",
+    "transposition",
+    "tga"
+   ],
+   "symbol": "the orca and the dollar pipe swapped: the orca leaving the blue engine room, the dollar pipe the red one",
+   "anchors": [
+    "swapped"
+   ],
+   "kind": "literal",
+   "why": "the great arteries trade places",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 1,
+    "drawable": 1,
+    "sticky": 2
+   },
+   "notes": "Say it in 'must': generators blur which pipe leaves which room.",
+   "firstUsed": "MedCosmos 30",
+   "status": "approved",
+   "reason": "total 8/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "dorv",
+   "concept": "Double-outlet right ventricle",
+   "terms": [
+    "double-outlet right ventricle",
+    "double outlet right ventricle",
+    "dorv"
+   ],
+   "symbol": "both the orca and the dollar pipe rising out of the blue engine room",
+   "anchors": [
+    "both"
+   ],
+   "kind": "literal",
+   "why": "two outlets from the right ventricle",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 1,
+    "drawable": 1,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "MedCosmos 30",
+   "status": "approved",
+   "reason": "total 8/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "eisenmenger",
+   "concept": "Eisenmenger syndrome (reversed shunt)",
+   "terms": [
+    "eisenmenger",
+    "eisenmenger's complex",
+    "eisenmenger syndrome"
+   ],
+   "symbol": "an iceman pushing blue blocks of ice back through the hole, from the blue side to the red",
+   "anchors": [
+    "iceman"
+   ],
+   "kind": "sound-alike",
+   "why": "EISEN-menger = ice-man; blue (venous) pushed into the red side",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "fontan",
+   "concept": "Fontan operation (venous blood to the lungs with no pumping ventricle)",
+   "terms": [
+    "fontan",
+    "fontan procedure",
+    "fontan operation",
+    "fontan circulation",
+    "total cavopulmonary connection"
+   ],
+   "symbol": "a stone fountain in the hotel courtyard, fed by the blue wing's chimney, its water running straight into the pipes of dollar bills by gravity, with no pump",
+   "anchors": [
+    "fountain"
+   ],
+   "kind": "sound-alike",
+   "why": "FONTAN = fountain (Italian fontana); a fountain flows with no pump, as Fontan blood reaches the lungs with no ventricle",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "glenn",
+   "concept": "Glenn shunt (bidirectional superior cavopulmonary anastomosis)",
+   "terms": [
+    "glenn",
+    "glenn shunt",
+    "bidirectional glenn",
+    "glenn anastomosis",
+    "bidirectional superior cavopulmonary anastomosis",
+    "superior cavopulmonary anastomosis",
+    "bidirectional cavopulmonary anastomosis",
+    "cavopulmonary anastomosis"
+   ],
+   "symbol": "an astronaut in a white spacesuit (John Glenn) bending the blue wing's chimney down and plugging it straight into the pipe of dollar bills",
+   "anchors": [
+    "astronaut"
+   ],
+   "kind": "sound-alike",
+   "why": "GLENN = John Glenn, the astronaut New York welcomed with a ticker-tape parade; he joins the chimney (SVC) to the money pipe (pulmonary artery)",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "hypoplastic",
+   "concept": "hypoplasia; hypoplastic left heart syndrome",
+   "terms": [
+    "hypoplastic left heart syndrome",
+    "hypoplastic left heart",
+    "hlhs",
+    "hypoplastic",
+    "hypoplasia"
+   ],
+   "symbol": "a little plastic toy hippo wedged into a red wing shrunk to doll size",
+   "anchors": [
+    "hippo"
+   ],
+   "kind": "sound-alike",
+   "why": "HYPO-PLASTIC = hippo + plastic; the red (left) wing is shrunk to a toy",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "truncus",
+   "concept": "truncus arteriosus (one common arterial trunk)",
+   "terms": [
+    "truncus arteriosus",
+    "truncus",
+    "common arterial trunk",
+    "persistent truncus arteriosus"
+   ],
+   "symbol": "one thick tree trunk rising from both engine rooms, astride the hole in the party wall, with the orca and the pipes of dollar bills branching off it",
+   "anchors": [
+    "tree trunk"
+   ],
+   "kind": "sound-alike",
+   "why": "TRUNCUS = trunk: one trunk, all branches off it",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "anchor is 'tree trunk', not 'trunk', to leave 'elephant trunk' (the arch operation) free",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "arterial-switch",
+   "concept": "arterial switch operation (Jatene)",
+   "terms": [
+    "arterial switch",
+    "arterial switch operation",
+    "arterial switch procedure",
+    "arterial switch reconstruction",
+    "jatene"
+   ],
+   "symbol": "a subway switchman pulling a big railway switch lever that swings the orca and the pipe of dollar bills back to their own engine rooms, the Liberty crowns riding along with the orca",
+   "anchors": [
+    "switch lever"
+   ],
+   "kind": "literal",
+   "why": "SWITCH: the great arteries are switched back; the coronaries go with the new aorta",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 1,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "atrial-switch",
+   "concept": "atrial switch (Senning and Mustard operations)",
+   "terms": [
+    "atrial switch",
+    "mustard",
+    "senning",
+    "mustard procedure",
+    "senning procedure",
+    "mustard operation",
+    "senning operation",
+    "atrial repair",
+    "atrial repairs",
+    "atrial baffle",
+    "baffle"
+   ],
+   "symbol": "a giant squeeze bottle of yellow mustard drawing a thick mustard wall across the upper lobbies that crosses the two streams over",
+   "anchors": [
+    "mustard"
+   ],
+   "kind": "sound-alike",
+   "why": "MUSTARD (the surgeon's name) = mustard; the baffle in the atria redirects the streams. Senning is the same idea",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "balloon-septostomy",
+   "concept": "balloon atrial septostomy (Rashkind)",
+   "terms": [
+    "balloon atrial septostomy",
+    "atrial septostomy",
+    "balloon septostomy",
+    "septostomy",
+    "rashkind"
+   ],
+   "symbol": "a round red party balloon on a string, yanked through the upper party wall so that it tears the hole wider",
+   "anchors": [
+    "party balloon"
+   ],
+   "kind": "literal",
+   "why": "the procedure is literally a balloon pulled through the atrial septum",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "oxygen",
+   "concept": "oxygen (given or measured)",
+   "terms": [
+    "oxygen",
+    "supplemental oxygen",
+    "oxygen administration",
+    "o2"
+   ],
+   "symbol": "a huge ox wearing a clear oxygen mask",
+   "anchors": [
+    "ox"
+   ],
+   "kind": "sound-alike",
+   "why": "OX-ygen = ox",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "hyperventilation",
+   "concept": "hyperventilation (to lower PCO2)",
+   "terms": [
+    "hyperventilation",
+    "hyperventilate",
+    "hyperventilating"
+   ],
+   "symbol": "a man breathing fast into a brown paper bag",
+   "anchors": [
+    "paper bag"
+   ],
+   "kind": "literal",
+   "why": "the paper bag is the picture everyone knows for hyperventilation",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "pvr",
+   "concept": "pulmonary vascular resistance (Wood units)",
+   "terms": [
+    "pulmonary vascular resistance",
+    "pvr",
+    "wood units",
+    "woods units",
+    "wood unit"
+   ],
+   "symbol": "wooden blocks stacked inside the pipe of dollar bills, one block for each Wood unit",
+   "anchors": [
+    "wooden block"
+   ],
+   "kind": "sound-alike",
+   "why": "WOOD units = wooden blocks that resist the flow of money",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "arrhythmia",
+   "concept": "arrhythmia",
+   "terms": [
+    "arrhythmia",
+    "arrhythmias",
+    "atrial arrhythmia",
+    "atrial arrhythmias",
+    "dysrhythmia",
+    "dysrhythmias"
+   ],
+   "symbol": "a pirate shouting ARRR and dancing a wild jig out of step with the music",
+   "anchors": [
+    "pirate"
+   ],
+   "kind": "sound-alike",
+   "why": "ARRR-rhythm-ia = a pirate's ARRR + a broken rhythm",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "conduit",
+   "concept": "conduit (right ventricle to pulmonary artery)",
+   "terms": [
+    "conduit",
+    "rv-pa conduit",
+    "valved conduit",
+    "right ventricle to pulmonary artery conduit"
+   ],
+   "symbol": "a clear twisting waterslide tube from the blue engine room to the pipe of dollar bills",
+   "anchors": [
+    "waterslide"
+   ],
+   "kind": "literal",
+   "why": "a conduit is a tube built to carry flow; a waterslide tube is the one nobody forgets",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "cyanosis",
+   "concept": "cyanosis",
+   "terms": [
+    "cyanosis",
+    "cyanotic",
+    "cyanosed"
+   ],
+   "symbol": "a child with bright blue (cyan) lips and fingertips",
+   "anchors": [
+    "blue lips"
+   ],
+   "kind": "sound-alike",
+   "why": "CYAN-osis = cyan blue",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
   }
  ]
 }
