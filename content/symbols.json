@@ -1772,6 +1772,390 @@
    "status": "approved",
    "reason": "total 9/10",
    "audited": "2026-11-19"
+  },
+  {
+   "id": "ross",
+   "concept": "Ross operation (pulmonary autograft to the aortic position)",
+   "terms": [
+    "ross",
+    "ross procedure",
+    "ross operation",
+    "pulmonary autograft",
+    "transfer of the pulmonary valve"
+   ],
+   "symbol": "a gardener moving a red rose from the mouth of the pipe of dollar bills to the orca balloon's mouth",
+   "anchors": [
+    "rose"
+   ],
+   "kind": "sound-alike",
+   "why": "ROSS = rose; the patient's own pulmonary valve is moved to the aortic position",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "porcine",
+   "concept": "porcine (pig) bioprosthetic valve",
+   "terms": [
+    "porcine",
+    "porcine valve",
+    "porcine valve prosthesis",
+    "porcine bioprosthesis",
+    "porcine xenograft"
+   ],
+   "symbol": "a pink pig",
+   "anchors": [
+    "pig"
+   ],
+   "kind": "literal",
+   "why": "porcine = pig",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "commissurotomy",
+   "concept": "commissurotomy, valvotomy (cutting fused valve leaflets apart)",
+   "terms": [
+    "commissurotomy",
+    "valvotomy",
+    "surgical valvotomy",
+    "open valvotomy",
+    "incision of fused commissures",
+    "fused commissures"
+   ],
+   "symbol": "a tailor's big scissors snipping apart lips that have been sewn together",
+   "anchors": [
+    "scissors"
+   ],
+   "kind": "literal",
+   "why": "the fused commissures are cut apart like a seam",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "subaortic-stenosis",
+   "concept": "subaortic (subvalvular aortic) stenosis, the subaortic membrane",
+   "terms": [
+    "subaortic stenosis",
+    "subvalvular aortic stenosis",
+    "subaortic membrane",
+    "discrete subaortic stenosis",
+    "subaortic"
+   ],
+   "symbol": "a shower curtain stretched across the red engine room's doorway just below the orca's mouth",
+   "anchors": [
+    "curtain"
+   ],
+   "kind": "literal",
+   "why": "a membrane hung just below the aortic valve",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "myectomy",
+   "concept": "septal myectomy (Morrow)",
+   "terms": [
+    "myectomy",
+    "septal myectomy",
+    "morrow myectomy",
+    "morrow procedure"
+   ],
+   "symbol": "a sculptor chiselling a block out of the bulging lower party wall",
+   "anchors": [
+    "chisel"
+   ],
+   "kind": "literal",
+   "why": "muscle is carved out of the septum",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "hcm",
+   "concept": "hypertrophic (obstructive) cardiomyopathy",
+   "terms": [
+    "hypertrophic obstructive cardiomyopathy",
+    "hypertrophic cardiomyopathy",
+    "hocm",
+    "hcm",
+    "asymmetric septal hypertrophy",
+    "idiopathic hypertrophic subaortic stenosis",
+    "ihss"
+   ],
+   "symbol": "the lower party wall swollen into the huge bulging biceps of a bodybuilder, crowding the red room's doorway to the orca",
+   "anchors": [
+    "bodybuilder"
+   ],
+   "kind": "literal",
+   "why": "a muscle-bound septum that blocks the outflow",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "beta-blocker",
+   "concept": "beta-blockers (propranolol, metoprolol, esmolol)",
+   "terms": [
+    "beta-blocker",
+    "beta blocker",
+    "beta-blockers",
+    "beta blockers",
+    "beta-adrenergic blockade",
+    "propranolol",
+    "metoprolol",
+    "esmolol",
+    "atenolol"
+   ],
+   "symbol": "an ice-hockey goalkeeper slamming his big blocker pad against the puck",
+   "anchors": [
+    "goalkeeper"
+   ],
+   "kind": "sound-alike",
+   "why": "a goalie's 'blocker' pad: the blocker that stops the beat-raising shots",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "calcium-channel-blocker",
+   "concept": "calcium channel blockers (verapamil, diltiazem, nifedipine)",
+   "terms": [
+    "calcium channel blocker",
+    "calcium channel blockers",
+    "calcium-channel blocker",
+    "verapamil",
+    "diltiazem",
+    "nifedipine"
+   ],
+   "symbol": "a canal (a channel) dammed by a spilled can of white chalky glue",
+   "anchors": [
+    "canal"
+   ],
+   "kind": "sound-alike",
+   "why": "calcium = chalky glue (as for calcium), channel = canal, blocked",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "supravalvular-stenosis",
+   "concept": "supravalvular aortic stenosis",
+   "terms": [
+    "supravalvular aortic stenosis",
+    "supravalvar aortic stenosis",
+    "supravalvular stenosis",
+    "supravalvular"
+   ],
+   "symbol": "a tight pearl necklace choking the orca balloon just above its mouth",
+   "anchors": [
+    "necklace"
+   ],
+   "kind": "literal",
+   "why": "a narrowing just ABOVE the valve, like a necklace above the mouth",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "lad",
+   "concept": "left anterior descending coronary artery",
+   "terms": [
+    "left anterior descending",
+    "left anterior descending artery",
+    "anterior descending",
+    "anterior descending coronary artery",
+    "lad"
+   ],
+   "symbol": "a young lad sliding down the front of the Statue of Liberty's green crown",
+   "anchors": [
+    "lad"
+   ],
+   "kind": "sound-alike",
+   "why": "LAD = a lad, sliding down the FRONT (anterior, descending)",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "cabg",
+   "concept": "coronary artery bypass grafting",
+   "terms": [
+    "coronary artery bypass grafting",
+    "coronary artery bypass",
+    "coronary bypass",
+    "coronary bypass procedures",
+    "cabg",
+    "bypass grafting",
+    "bypass surgery"
+   ],
+   "symbol": "big green cabbage leaves laid as bridges over the tar-clogged spikes of the Liberty crown",
+   "anchors": [
+    "cabbage"
+   ],
+   "kind": "sound-alike",
+   "why": "CABG is said 'cabbage'; the leaves bridge the blocked parts",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "angina",
+   "concept": "angina pectoris",
+   "terms": [
+    "angina",
+    "angina pectoris",
+    "stable angina",
+    "unstable angina",
+    "anginal"
+   ],
+   "symbol": "a heavy stone angel sitting on a man's chest",
+   "anchors": [
+    "angel"
+   ],
+   "kind": "sound-alike",
+   "why": "ANGINA ~ angel; the weight on the chest",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 10/10",
+   "audited": "2026-11-19"
+  },
+  {
+   "id": "ejection-fraction",
+   "concept": "ejection fraction",
+   "terms": [
+    "ejection fraction",
+    "lvef",
+    "left ventricular ejection fraction",
+    "ef"
+   ],
+   "symbol": "a nightclub bouncer ejecting guests out of the red engine room's door, a counter showing the share thrown out",
+   "anchors": [
+    "bouncer"
+   ],
+   "kind": "literal",
+   "why": "EJECTION = thrown out; the FRACTION thrown out with each beat",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "medcosmos-cardiac",
+   "status": "approved",
+   "reason": "total 9/10",
+   "audited": "2026-11-19"
   }
  ]
 }

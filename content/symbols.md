@@ -76,6 +76,19 @@ a batch that draws a listed concept any other way is refused by `batch.py`.
 | arrhythmia | a pirate shouting ARRR and dancing a wild jig out of step with the music | ARRR-rhythm-ia = a pirate's ARRR + a broken rhythm | 10/10 | medcosmos-cardiac |
 | conduit (right ventricle to pulmonary artery) | a clear twisting waterslide tube from the blue engine room to the pipe of dollar bills | a conduit is a tube built to carry flow; a waterslide tube is the one nobody forgets | 9/10 | medcosmos-cardiac |
 | cyanosis | a child with bright blue (cyan) lips and fingertips | CYAN-osis = cyan blue | 9/10 | medcosmos-cardiac |
+| Ross operation (pulmonary autograft to the aortic position) | a gardener moving a red rose from the mouth of the pipe of dollar bills to the orca balloon's mouth | ROSS = rose; the patient's own pulmonary valve is moved to the aortic position | 10/10 | medcosmos-cardiac |
+| porcine (pig) bioprosthetic valve | a pink pig | porcine = pig | 10/10 | medcosmos-cardiac |
+| commissurotomy, valvotomy (cutting fused valve leaflets apart) | a tailor's big scissors snipping apart lips that have been sewn together | the fused commissures are cut apart like a seam | 9/10 | medcosmos-cardiac |
+| subaortic (subvalvular aortic) stenosis, the subaortic membrane | a shower curtain stretched across the red engine room's doorway just below the orca's mouth | a membrane hung just below the aortic valve | 9/10 | medcosmos-cardiac |
+| septal myectomy (Morrow) | a sculptor chiselling a block out of the bulging lower party wall | muscle is carved out of the septum | 9/10 | medcosmos-cardiac |
+| hypertrophic (obstructive) cardiomyopathy | the lower party wall swollen into the huge bulging biceps of a bodybuilder, crowding the red room's doorway to the orca | a muscle-bound septum that blocks the outflow | 10/10 | medcosmos-cardiac |
+| beta-blockers (propranolol, metoprolol, esmolol) | an ice-hockey goalkeeper slamming his big blocker pad against the puck | a goalie's 'blocker' pad: the blocker that stops the beat-raising shots | 9/10 | medcosmos-cardiac |
+| calcium channel blockers (verapamil, diltiazem, nifedipine) | a canal (a channel) dammed by a spilled can of white chalky glue | calcium = chalky glue (as for calcium), channel = canal, blocked | 9/10 | medcosmos-cardiac |
+| supravalvular aortic stenosis | a tight pearl necklace choking the orca balloon just above its mouth | a narrowing just ABOVE the valve, like a necklace above the mouth | 10/10 | medcosmos-cardiac |
+| left anterior descending coronary artery | a young lad sliding down the front of the Statue of Liberty's green crown | LAD = a lad, sliding down the FRONT (anterior, descending) | 10/10 | medcosmos-cardiac |
+| coronary artery bypass grafting | big green cabbage leaves laid as bridges over the tar-clogged spikes of the Liberty crown | CABG is said 'cabbage'; the leaves bridge the blocked parts | 10/10 | medcosmos-cardiac |
+| angina pectoris | a heavy stone angel sitting on a man's chest | ANGINA ~ angel; the weight on the chest | 10/10 | medcosmos-cardiac |
+| ejection fraction | a nightclub bouncer ejecting guests out of the red engine room's door, a counter showing the share thrown out | EJECTION = thrown out; the FRACTION thrown out with each beat | 9/10 | medcosmos-cardiac |
 
 ## Rejected (never use them)
 
