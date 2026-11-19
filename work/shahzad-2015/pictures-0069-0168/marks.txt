@@ -1,0 +1,67 @@
+book: shahzad-2015
+== 69
+1: 22 40 12 | Wall burnt through its whole thickness | Transmural, extensive infarct
+2: 21 30 5 | Clean round hole at the front | Anterior: simple, direct rupture (LAD)
+3: 3 58 6 | Winding burrow with a snake's tail | Posterior: complex, serpiginous tract
+4: 57 45 14 | Outer wall bulging like a sack | Ventricular aneurysm in 35-68% of survivors
+5: 95 40 6 | Sign 12 on the neighbour's straight wall | 12% after infarction without rupture
+question: 1 2 3
+answer: 4 5
+== 141
+1: 90 79 9 | Shepherd dog among the sheep | Dog tapeworm, where dogs tend sheep
+2: 30 62 18 | Children's balloons at their chests | Children: more lung than liver cysts
+3: 20 33 12 | Adults' balloons at their bellies | Adults: liver cysts more often
+4: 85 25 14 | Man pushed over by a huge balloon | Symptoms from the mass of the cyst
+5: 62 22 7 | Doctor's long pin | Surgery, removing it without spilling
+6: 83 46 4 | Bottle of pills left on a rock | Benzimidazoles around or instead of surgery
+question: 1 4 5 6
+answer: 2 3
+== 147
+1: 52 37 11 | Swollen dark rotten section | Localised bronchiectasis, right lower lobe
+2: 60 44 7 | Four dried red streaks | Recurrent haemoptysis
+3: 67 41 4 | Painted 4 | Fourth episode, bleeding stopped
+4: 60 18 13 | Rest of the hive full of golden comb | FEV1 1.6 L: enough lung left
+5: 37 40 14 | Beekeeper lifting the section out whole | Resection of the involved area
+6: 8 33 7 | Boy pressing wax into a hole | Embolisation: bleeding often returns
+7: 82 60 14 | Grandfather dozing by the teapot | Observation: more bleeding unpredictable
+question: 1 2 3 4 6 7
+answer: 5
+== 148
+1: 13 15 10 | Mould ball in the old burnt-out bin | Aspergilloma in an old cavity
+2: 15 35 10 | Red dust on the flour sacks | Haemoptysis, the commonest symptom
+3: 72 50 18 | Whole bin lowered out in one piece | Anatomical lobectomy
+4: 82 28 10 | Carpenter with a saw waved away | No chest wall resection: contact only
+5: 88 68 10 | Green potion running out below | Antifungal drugs disappoint
+6: 75 60 5 | Boy with a spoon at the window | Cavernostomy: only for high-risk patients
+question: 1 2 4 5 6
+answer: 3
+== 150
+1: 12 45 14 | Giant bubble filling half the workshop | Giant bulla: a third of the hemithorax
+2: 30 10 13 | Delicate vessels pressed to the wall | Compressed normal lung
+3: 40 43 7 | Great shears at the narrow neck | Bullectomy: surgical excision
+4: 75 15 10 | Bubble carried out into the snow | The compressed lung re-expands
+5: 17 68 8 | Apprentice's iron spike | Chest tube: persistent air leak, infection
+6: 92 40 7 | Shelf of small bubbles left alone | Most bullous disease managed medically
+question: 1 2 5 6
+answer: 3 4
+== 158
+1: 12 45 12 | Back shaft carrying ore buckets | Oesophagus, behind the airway
+2: 6 30 6 | Black rot and scorch on its wall | Tumour, or radiotherapy or laser
+3: 36 33 14 | Great ragged hole above the fork | Fistula into the trachea
+4: 83 32 8 | Board 53 | Trachea: 53%
+5: 22 81 6 | Board 22 | Left main bronchus: 22%
+6: 82 81 6 | Board 16 | Right bronchus: 16%
+7: 48 10 11 | Miner coughing into his fist | Cough on swallowing, chest infections
+question: 1 2 5 6 7
+answer: 3 4
+== 168
+1: 74 60 10 | Stream from the open bung hole | Dilute urine lost without vasopressin
+2: 55 34 5 | Broken roof tile on the barrel | The stroke
+3: 55 25 12 | Bucket after bucket poured in | Water intake adjusted to the loss
+4: 45 13 10 | Thirsty carrier in a red shirt | Thirst
+5: 55 45 15 | Barrel brimful to its chalk line | Blood volume stays near normal
+6: 18 34 8 | Clerk with a sealed letter | Renin-angiotensin: short-term only
+7: 85 25 10 | Cook shaking flour into the barrel | Oncotic pressure: short-term only
+8: 75 88 10 | Policeman's boot on the stream | Sympathetic reflexes: extreme stimuli only
+question: 1 2 6 7 8
+answer: 3 4 5
