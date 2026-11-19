@@ -414,12 +414,12 @@ private fun LessonPage(entry: FeedEntry, active: Boolean, vm: MainViewModel, onN
     // The circles on the picture: all of them when asked for; under a question only the ones that
     // belong to it, and the correct answer's once it is answered.
     val asked = if (showQuiz) lesson.quiz.getOrNull(quiz.index) else null
-    val circles = remember(lesson.marks, showAll, asked, quiz.picked) {
+    val circles = remember(lesson.marks, showAll, asked, quiz.answered) {
         when {
             showAll -> lesson.marks.numbered(1..lesson.marks.size)
             asked != null -> lesson.marks.numbered(
-                asked.marks + (if (quiz.picked != null) asked.answerMarks else emptyList()),
-                pulse = if (quiz.picked != null) asked.answerMarks.toSet() else emptySet(),
+                asked.marks + (if (quiz.answered) asked.answerMarks else emptyList()),
+                pulse = if (quiz.answered) asked.answerMarks.toSet() else emptySet(),
             )
             else -> emptyList()
         }

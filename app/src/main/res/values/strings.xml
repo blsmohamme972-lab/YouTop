@@ -214,4 +214,6 @@
     <string name="show_all">More</string>
     <string name="show_less">Less</string>
     <string name="more_below">More below</string>
+    <string name="choose_all">Choose all that apply</string>
+    <string name="check_answers">Check</string>
 </resources>

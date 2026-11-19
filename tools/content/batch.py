@@ -90,10 +90,35 @@ def book_config(book):
     return json.loads(path.read_text(encoding="utf-8"))
 
 
+def from_extraction(record):
+    """One line of an extraction .jsonl ({"number", "stem", "options": [{"label", "text"}], "answer": "ACD"})
+    as a master question. Several letters become "answers" (choose all that apply). A matching key
+    ("A-1. B-1,2") cannot be asked as options yet: the question is returned with "unsupported" set."""
+    labels = [o["label"].strip().upper() for o in record["options"]]
+    q = {"n": record["number"], "stem": record["stem"], "options": [o["text"] for o in record["options"]]}
+    key = str(record.get("answer") or "").upper()
+    letters = re.findall(r"[A-Z]", key)
+    if not letters or re.search(r"\d", key) or any(x not in labels for x in letters):
+        q.update(answer=0, unsupported=f"answer key '{record.get('answer')}' is not a set of option letters")
+        return q
+    picks = sorted({labels.index(x) for x in letters})
+    q["answer"] = picks[0]
+    if len(picks) > 1:
+        q["answers"] = picks
+    if record.get("note"):
+        q["explanation"] = record["note"]
+    return q
+
+
 def load_master(paths):
     questions = {}
     for p in paths or []:
-        for q in json.loads(pathlib.Path(p).read_text(encoding="utf-8"))["questions"]:
+        text = pathlib.Path(p).read_text(encoding="utf-8")
+        if str(p).endswith(".jsonl"):
+            records = [from_extraction(json.loads(line)) for line in text.splitlines() if line.strip()]
+        else:
+            records = json.loads(text)["questions"]
+        for q in records:
             questions[q["n"]] = q
     if not questions:
         die("give the book's question file(s) with --master (from Drive, see content/books/<book>.json)")
@@ -245,6 +270,8 @@ def lint(cfg, b, q, used, problems, warnings):
             problems.append(f"{w}: '{key}' is missing")
     if q is None:
         problems.append(f"{w}: not in the master question file(s) given")
+    elif q.get("unsupported"):
+        problems.append(f"{w}: {q['unsupported']}; the app cannot ask it yet")
     if cfg.get("soundAlikes") and not b.get("keywords"):
         warnings.append(f"{w}: no 'keywords' (the owner's rule 2: every abstract term of the answer as a concrete sound-alike object)")
     story, expl = b.get("story") or [], b.get("explanation") or []
@@ -294,6 +321,8 @@ def build_lesson(cfg, b, q, book_dir, old, force, problems, warnings):
     explain = " ".join(b["explanation"]) + (" " + b["note"] if b.get("note") else "")
     quiz = {"q": fix(q["stem"]), "options": [fix(o) for o in q["options"]], "answer": q["answer"],
             "explain": explain, "lang": "en", "source": f"{cfg['sourceLabel']}, Q{n}"}
+    if len(q.get("answers") or []) > 1:
+        quiz["answers"] = q["answers"]  # "choose all that apply": the app ticks and checks them together (since 2.5)
     if q.get("figure"):
         name = f"figure-q{n:04d}.png"
         published = subprocess.run(["git", "cat-file", "-e", f"origin/content:books/{cfg['id']}/media/{name}"], cwd=ROOT, capture_output=True).returncode == 0
@@ -426,8 +455,9 @@ def cmd_questions(args):
             continue
         print(f"== {n}" + ("   [needs its figure: " + q["figure"] + "]" if q.get("figure") else ""))
         print(q["stem"])
+        right = set(q.get("answers") or [q["answer"]])
         for i, o in enumerate(q["options"]):
-            print(("  * " if i == q["answer"] else "  - ") + o)
+            print(("  * " if i in right else "  - ") + o)
         if q.get("explanation"):
             print("Book: " + q["explanation"])
         for c in q.get("corrections", []):

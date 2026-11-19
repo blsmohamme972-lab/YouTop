@@ -214,6 +214,23 @@
               "answerMarks": [
                 1
               ]
+            },
+            {
+              "q": "Which of these give off their own light? Choose all that apply.",
+              "options": [
+                "The Sun",
+                "A candle flame",
+                "The Moon",
+                "A firefly"
+              ],
+              "answer": 0,
+              "answers": [
+                0,
+                1,
+                3
+              ],
+              "explain": "The Sun, a flame and a firefly make their own light; the Moon only reflects the light of the Sun.",
+              "lang": "en"
             }
           ],
           "marks": [

@@ -98,6 +98,11 @@ def check_lesson(lesson, where, strict_tags=True):
             bad(where, f"question {i} needs a stem and at least two options")
         if not isinstance(q.get("answer"), int) or not 0 <= q["answer"] < len(options):
             bad(where, f"question {i} answer index is out of range")
+        answers = q.get("answers")
+        if answers is not None and (not isinstance(answers, list) or len(answers) < 2 or len(set(answers)) != len(answers)
+                                    or any(not isinstance(a, int) or not 0 <= a < len(options) for a in answers)
+                                    or q.get("answer") != answers[0]):
+            bad(where, f"question {i} 'answers' must list two or more different option indexes, the first equal to 'answer'")
         if len(set(options)) != len(options):
             bad(where, f"question {i} has duplicate options")
         figure = q.get("image")
@@ -146,6 +151,11 @@ def check_file(path):
                 bad(where, "needs a stem and at least two options")
             if not isinstance(q.get("answer"), int) or not 0 <= q["answer"] < len(options):
                 bad(where, "answer index is out of range")
+            answers = q.get("answers")
+            if answers is not None and (not isinstance(answers, list) or len(answers) < 2
+                                        or any(not isinstance(a, int) or not 0 <= a < len(options) for a in answers)
+                                        or q.get("answer") != answers[0]):
+                bad(where, "'answers' must list two or more option indexes, the first equal to 'answer'")
             figure = q.get("figure")
             if figure and not MEDIA.fullmatch(figure):
                 bad(where, f"figure '{figure}' is not a media reference")

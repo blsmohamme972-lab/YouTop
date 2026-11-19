@@ -80,6 +80,10 @@ import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.window.Dialog
 import androidx.compose.ui.window.DialogProperties
 import app.youtop.data.MediaCache
+import app.youtop.data.correct
+import app.youtop.data.multi
+import androidx.compose.material.icons.rounded.CheckBox
+import androidx.compose.material.icons.rounded.CheckBoxOutlineBlank
 import app.youtop.data.Question
 import coil3.compose.AsyncImage
 import kotlinx.coroutines.delay
@@ -99,6 +103,14 @@ fun optionOrder(question: Question, shuffle: Boolean): List<Int> =
 class QuizState {
     var index by mutableIntStateOf(0)
     var picked by mutableStateOf<Int?>(null)
+    /** The options ticked so far in a question with several right answers. */
+    var chosen by mutableStateOf<Set<Int>>(emptySet())
+    /** True once a question with several right answers has been checked. */
+    var checked by mutableStateOf(false)
+    /** True once the question on screen has been answered, by a tap or by "Check". */
+    val answered: Boolean get() = picked != null || checked
+    /** Clears the answer, for the next question. */
+    fun clear() { picked = null; chosen = emptySet(); checked = false }
     /** True once the last question has been answered. */
     var done by mutableStateOf(false)
     /** The shuffled order each question was first shown in, so it does not change when reopened. */
@@ -147,24 +159,33 @@ fun QuizOverlay(
     val panel = Ink.copy(alpha = 0.52f)
 
     LaunchedEffect(index) {
-        if (picked == null) { stemScroll.scrollTo(0); scroll.scrollTo(0) }
+        if (!state.answered) { stemScroll.scrollTo(0); scroll.scrollTo(0) }
         shownAt = System.currentTimeMillis()
-        if (speak && picked == null) onSay(question.q + ". " + order.joinToString(". ") { question.options[it] }, question.lang)
+        if (speak && !state.answered) onSay(question.q + ". " + order.joinToString(". ") { question.options[it] }, question.lang)
     }
     // The answer's panel opens at its top: the right answer first, then the explanation.
-    LaunchedEffect(picked) { if (picked != null) explainScroll.scrollTo(0) }
-
-    val answered = picked != null
+    // A long stem shows its first lines; a tap opens it, another closes it.
+    var open by remember(index) { mutableStateOf(false) }
+    val answered = state.answered
+    LaunchedEffect(answered) { if (answered) explainScroll.scrollTo(0) }
+    val multi = question.multi
+    val right = question.correct
     val sayIt = {
-        val answer = picked
         onSay(
-            if (answer == null) question.q + ". " + order.joinToString(". ") { question.options[it] }
-            else question.options[question.answer] + ". " + question.explain,
+            if (!answered) question.q + ". " + order.joinToString(". ") { question.options[it] }
+            else order.filter { it in right }.joinToString(". ") { question.options[it] } + ". " + question.explain,
             question.lang,
         )
     }
-    // A long stem shows its first lines; a tap opens it, another closes it.
-    var open by remember(index) { mutableStateOf(false) }
+    // A question with several right answers: tick them all, then check them together.
+    val check = {
+        val correct = state.chosen == right
+        haptics.performHapticFeedback(if (correct) HapticFeedbackType.TextHandleMove else HapticFeedbackType.LongPress)
+        state.checked = true
+        open = false
+        onAnswer(correct, System.currentTimeMillis() - shownAt)
+        if (last) { state.done = true; onDone() }
+    }
     var long by remember(index) { mutableStateOf(false) }
     val stemStyle = TextStyle(
         fontFamily = Ui, fontSize = 14.sp, lineHeight = 20.sp, fontWeight = FontWeight.Medium,
@@ -231,20 +252,26 @@ fun QuizOverlay(
         }
     }
     val optionRow: @Composable (Int) -> Unit = { option ->
-        val isAnswer = option == question.answer
-        val isPicked = option == picked
+        val isAnswer = option in right
+        val isPicked = if (multi) option in state.chosen else option == picked
         val tone = when {
             answered && isAnswer -> Good
             answered && isPicked -> Bad
+            multi && isPicked -> Accent
             else -> Color.White
         }
         Row(
             Modifier
                 .fillMaxWidth()
                 .clip(RoundedCornerShape(13.dp))
-                .background(if (answered) tone.copy(alpha = 0.16f) else Color.White.copy(alpha = 0.06f))
-                .border(BorderStroke(1.dp, tone.copy(alpha = if (answered) 0.7f else 0.30f)), RoundedCornerShape(13.dp))
+                .background(if (answered || (multi && isPicked)) tone.copy(alpha = 0.16f) else Color.White.copy(alpha = 0.06f))
+                .border(BorderStroke(1.dp, tone.copy(alpha = if (answered || (multi && isPicked)) 0.7f else 0.30f)), RoundedCornerShape(13.dp))
                 .clickable(enabled = !answered) {
+                    if (multi) {
+                        haptics.performHapticFeedback(HapticFeedbackType.TextHandleMove)
+                        state.chosen = if (option in state.chosen) state.chosen - option else state.chosen + option
+                        return@clickable
+                    }
                     val correct = option == question.answer
                     haptics.performHapticFeedback(if (correct) HapticFeedbackType.TextHandleMove else HapticFeedbackType.LongPress)
                     picked = option
@@ -261,6 +288,8 @@ fun QuizOverlay(
                 when {
                     answered && isAnswer -> Icon(Icons.Rounded.CheckCircle, null, tint = Good, modifier = Modifier.size(18.dp))
                     answered && isPicked -> Icon(Icons.Rounded.Cancel, null, tint = Bad, modifier = Modifier.size(18.dp))
+                    multi && isPicked -> Icon(Icons.Rounded.CheckBox, null, tint = Accent, modifier = Modifier.size(18.dp))
+                    multi -> Icon(Icons.Rounded.CheckBoxOutlineBlank, null, tint = Color.White.copy(alpha = 0.7f), modifier = Modifier.size(18.dp))
                     else -> Box(Modifier.size(14.dp).border(1.5.dp, Color.White.copy(alpha = 0.7f), CircleShape))
                 }
             }
@@ -305,7 +334,28 @@ fun QuizOverlay(
                     }
                 }
                 figure()
+                if (multi) {
+                    Text(
+                        stringResource(R.string.choose_all), color = Accent,
+                        style = TextStyle(fontFamily = Ui, fontSize = 11.5.sp, fontWeight = FontWeight.SemiBold, textDirection = direction),
+                        modifier = Modifier.padding(horizontal = 2.dp),
+                    )
+                }
                 order.forEach { optionRow(it) }
+                if (multi) {
+                    val ready = state.chosen.isNotEmpty()
+                    Row(
+                        Modifier.fillMaxWidth().height(40.dp).clip(CircleShape)
+                            .background(if (ready) Accent else Color.White.copy(alpha = 0.10f))
+                            .clickable(enabled = ready) { check() },
+                        verticalAlignment = Alignment.CenterVertically, horizontalArrangement = Arrangement.Center,
+                    ) {
+                        Text(
+                            stringResource(R.string.check_answers),
+                            color = if (ready) OnAccent else Color.White.copy(alpha = 0.5f), fontSize = 13.sp, fontWeight = FontWeight.SemiBold,
+                        )
+                    }
+                }
             } else {
                 // The question, as one line; a tap shows all of it.
                 Row(
@@ -325,8 +375,10 @@ fun QuizOverlay(
                     )
                 }
                 if (open) figure()
-                optionRow(question.answer)
-                picked?.takeIf { it != question.answer }?.let { optionRow(it) }
+                // The right option(s) first, then the wrong pick(s).
+                order.filter { it in right }.forEach { optionRow(it) }
+                if (multi) order.filter { it in state.chosen && it !in right }.forEach { optionRow(it) }
+                else picked?.takeIf { it != question.answer }?.let { optionRow(it) }
                 if (question.explain.isNotBlank()) {
                     Text(
                         question.explain,
@@ -372,7 +424,7 @@ fun QuizOverlay(
                 } else Spacer(Modifier.weight(1f))
                 Row(
                     Modifier.height(40.dp).clip(CircleShape).background(Accent)
-                        .clickable { if (last) onNext() else { index++; picked = null } }
+                        .clickable { if (last) onNext() else { index++; state.clear() } }
                         .padding(horizontal = 16.dp),
                     verticalAlignment = Alignment.CenterVertically,
                 ) {

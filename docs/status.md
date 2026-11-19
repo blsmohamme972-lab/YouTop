@@ -13,15 +13,17 @@ Updated 2026-11-19 (evening). Whoever works on YouTop next: read `CLAUDE.md`, th
   them: `tools/content/symbols.py audit` (36 approved, 3 rejected on 2026-11-19: the Wall Street crash, the echo in
   the Whispering Gallery, Shahzad's split red weight); `batch.py` refuses prompts that draw a listed concept otherwise.
 - Book facts: `content/books/medcosmos-cardiac.json` (id `medcosmos-cardiac`, lessons `medcos-q0001`…). The question
-  file is a .jsonl in Drive (`03 MedCosmos Cardiac 156 Q`, file `1vymXJ2XpnuyoU5_twkwYxlQu0H2SOng4`), not yet in the
-  master format `batch.py` reads. Pictures go to "YouTop books/MedCosmos Cardiac/images" (`14D6AQoOofKzp8Z1jwMzGEqaOI5_GaGKm`, made 2026-11-19).
+  file is a .jsonl in Drive (`03 MedCosmos Cardiac 156 Q`, file `1vymXJ2XpnuyoU5_twkwYxlQu0H2SOng4`); download it and
+  pass it to `batch.py` as `--master` under its own name (`medcosmos-cardiac-156-q.jsonl`). Pictures go to "YouTop books/MedCosmos Cardiac/images" (`14D6AQoOofKzp8Z1jwMzGEqaOI5_GaGKm`, made 2026-11-19).
 - **Questions 1-20 are written** (titles, tags, table, keywords, scene, story, Rumi quotation, explanation) in
   `work/medcosmos-cardiac/batch-0001-0020/batch.txt` on `content`, with `image-prompts-1-20.json`. The owner asked for
   these three things only: **no voice, not built, not published as lessons yet.** Quotations are from the Masnavi,
   translated from the Persian from memory; check them before recording.
-- **Before building:** 84 of the 156 questions have several correct options (`AC`, `ABC`, matching); 7 of the first
-  20 (7, 9, 10, 12, 18, 19, 20). The app's quiz takes exactly one answer (`Question.answer`), so either the app
-  learns multiple answers (an APK) or those questions are reworded; ask the owner.
+- **Several right answers: done in app 2.5 (versionCode 16, 2026-11-19).** 83 of the 156 questions have several
+  correct options (7 of the first 20: 7, 9, 10, 12, 18, 19, 20). The owner left the choice to the agent: the app now
+  takes `answers` (tick every right option, then "Check"; right only when exactly those are ticked). `batch.py` reads
+  the extraction `.jsonl` directly as `--master` and turns letter keys into `answers`. Question 82 has a matching
+  key ("A-1. B-1,2 ...") and cannot be asked yet: `build` refuses it; decide later (rewrite as several questions?).
 
 ## START HERE (2026-11-17, night): automatic rounds of 20 lessons every two hours
 
