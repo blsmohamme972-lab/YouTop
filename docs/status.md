@@ -19,8 +19,16 @@ Updated 2026-11-19 (evening). Whoever works on YouTop next: read `CLAUDE.md`, th
   ends: while it runs, never build, set pictures, spots or marks, or publish. Start make as a round's last step.
 - **Unpublished work** lives in `.content-work/work/medcosmos-cardiac/batch-*/` (batch, voice, spots, marks) and is
   backed up on the work branch under `drafts/medcosmos-cardiac/` until it is published to `content`.
-- **Where 1-20 stand (21:15 UTC):** 18 pictures in (2 and 4 missing). Recording of 1-20 restarted at 21:10 (1-10 from
-  the cache). Spots and marks files written for the 18 pictures, not applied yet. Nothing of MedCosmos published yet.
+- **Where things stand (2026-11-19, 21:30 UTC):**
+  - 1-20: built in `.content-work` (lessons in `books/medcosmos-cardiac/chapters/q0001-0100.json`); 18 pictures set (2 and 4
+    missing). Recording of all 20 running (log: scratchpad `voice-make.log`; venv with edge-tts and faster-whisper in
+    the scratchpad `venv/`). NEXT when it ends: `batch.py spots` and `batch.py marks` with the files already written in
+    `work/medcosmos-cardiac/batch-0001-0020/` (spots.txt, marks.txt), look at every `<n>-spots.jpg` and `<n>-marks.jpg`,
+    `voice.py check`, then publish 1-20 (first MedCosmos publish).
+  - 21-30: batch.txt (scenes, stories, explanations), voice.txt (vowelled, filled) and prompts written; prompts sent to
+    the owner. NEXT after 1-20 are published: `batch.py build` with `--master <scratchpad>/medcosmos/medcosmos-cardiac-156-q.jsonl`
+    (download it from Drive, id in the book json, if the scratchpad is gone), then `voice.py make` for 21-30.
+  - Copies of every unpublished work file are on the work branch under `drafts/medcosmos-cardiac/`.
 - **Question 82** has a matching key and is refused by build; plan: split it into four questions in one lesson.
 
 ## NEW BOOK (2026-11-19): MedCosmos Cardiac, 156 questions — New York City, quotations of Rumi
