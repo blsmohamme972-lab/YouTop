@@ -45,7 +45,10 @@ Updated 2026-11-19 (evening). Whoever works on YouTop next: read `CLAUDE.md`, th
   - Restart notes: the old `.content` worktree from an earlier session refused to update ("unrelated histories");
     delete `.content` and `git worktree prune`, then export. `publish.py --export` writes books only: copy
     `.content/work/medcosmos-cardiac` into `.content-work/work/` by hand.
-  - NEXT: questions 111-156, prompts first.
+  - Questions 111-120: tables, scenes and prompts written (no key corrected; 120 C "restrictive" at half-systemic RV
+    pressure is the book's key, keep it with a note); prompts sent to the owner with those of 1, 91, 93, 104.
+    Drafts in `drafts/medcosmos-cardiac/batch-0111-0120/`. NEXT: their stories, voice file, explanations, build, record;
+    then 121-156.
 - **Where things stand (2026-11-20, 10:30 UTC):** texts and voices for 1-110 done. **96 lessons PUBLISHED** (complete
   only), published with `publish.py <scratchpad>/pub-mc --complete-only` (pub-mc links only `books/medcosmos-cardiac`
   and `work`).
