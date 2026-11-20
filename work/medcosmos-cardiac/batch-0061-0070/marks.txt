@@ -1,0 +1,58 @@
+book: medcosmos-cardiac
+== 61
+1: 45 72 14 | Bubble-gum bubble at the front bottom corner | Anteroapical LV aneurysm
+2: 78 22 11 | Front spike of the crown with no threads | No collaterals to the blocked artery
+3: 15 30 9 | Street elevator stuck up | Persistent ST elevation
+4: 62 45 10 | Mitre closing snugly | Repair improves valve function
+5: 75 78 10 | Worker cutting the bubble away | Aneurysm repair
+question: 1
+answer: 2 3 4 5
+== 63
+1: 75 65 15 | Green Kawasaki motorcycle | Kawasaki disease
+2: 75 32 11 | Bubble-gum bubbles on the crown helmet | Coronary aneurysms
+3: 45 17 10 | Snow globe glowing with gamma rays | Intravenous gamma globulin
+question: 1 2
+answer: 3
+== 64
+1: 10 62 8 | Green Kawasaki motorcycle | Kawasaki disease
+2: 33 12 8 | Pink bubbles on the spikes | Aneurysms: medicines and follow-up
+3: 85 60 12 | Three pages, the slide narrower each month | Progressive LAD stenosis
+4: 52 75 12 | Cabbage leaf over the front slide | Bypass surgery
+question: 1 2
+answer: 3 4
+== 65
+1: 43 28 11 | Einstein pushing the trident down | Ebstein's anomaly
+2: 52 80 12 | Trident deep in the engine room | Displaced tricuspid valve
+3: 55 52 10 | Water spraying back up | Tricuspid regurgitation
+4: 75 33 14 | Huge white sail | Redundant anterior leaflet blocking the outflow
+5: 75 15 10 | Wooden blocks in the dollar pipe | High neonatal pulmonary resistance
+6: 30 35 9 | Newborn with blue lips | Cyanosis
+question: 1 2
+answer: 3 4 5 6
+== 66
+1: 48 48 9 | Einstein watching | Ebstein's anomaly
+2: 15 83 10 | Iron cap welded shut | Tricuspid orifice closed in the newborn
+3: 22 48 12 | Hose from the orca to the dollar pipe | Systemic-to-pulmonary shunt
+4: 78 38 11 | New silver trident | Tricuspid valve replacement
+5: 70 72 9 | Sink with the green crown, below the trident | Sewn above the coronary sinus
+6: 72 88 10 | Sparking branches left untouched | Conduction system spared
+question: 1
+answer: 2 3 4 5 6
+== 67
+1: 20 42 12 | Fist punching from the crown into the blue lobby | Coronary artery fistula
+2: 48 60 10 | Cement mixer roaring nonstop | Continuous murmur
+3: 85 55 11 | Duct-tape tunnel with an identical mixer | Like the murmur of a PDA
+question: 2 3
+answer: 1
+== 68
+1: 48 40 12 | Al Capone | ALCAPA
+2: 28 70 12 | Left spike bolted onto the dollar pipe | Left coronary from the pulmonary artery
+3: 88 48 9 | Tiny white coffin by an empty crib | Death in infancy
+question: 1 2
+answer: 3
+== 69
+1: 62 25 11 | Right spike growing out of the dollar pipe | Right coronary from the pulmonary artery
+2: 55 45 13 | Calm old man playing chess | Few or no symptoms
+3: 85 72 9 | Cake with a 90 candle | Nearly normal life expectancy
+question: 1
+answer: 2 3

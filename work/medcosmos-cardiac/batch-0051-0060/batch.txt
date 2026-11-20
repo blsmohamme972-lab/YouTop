@@ -1,0 +1,335 @@
+book: medcosmos-cardiac
+# MedCosmos Cardiac, questions 51-60, written to the owner's five picture rules and the audited symbols
+# (content/symbols.json). Theme: New York City. Quotations: Rumi, the Masnavi (from memory, translated).
+
+== 51
+# Patients best treated with CABG -> B (unstable angina, three-vessel disease, EF 35%) and D (diabetic, class IV angina, proximal LAD and proximal RCA disease).
+# A (single proximal RCA lesion, class II, normal function) and C (focal discrete mid-vessel lesions) are better treated with PTCA or medicines.
+# four men in a queue, each wearing a green foam Statue of Liberty crown -> four patients and their coronary arteries
+# ANSWER B: the man with THREE tar-clogged spikes, a stone angel wobbling on his chest, a card 35% -> three-vessel disease, unstable angina, EF 35%: bypass
+# ANSWER D: the man sitting on sugar cubes, the front slide clogged at its top where a lad is stuck, the right spike clogged at its root, the angel crushing him -> diabetic, proximal LAD and RCA, class IV angina: bypass
+# the gardener laying cabbage leaves on THOSE two crowns; a plumber with Slinky springs for the other two -> CABG for B and D
+title: Who is best served by bypass: three-vessel disease with unstable angina and a low EF, and the diabetic with proximal LAD and right disease
+titleAr: من تنفعه جراحة المجازة أكثر: مرض الأوعية الثلاثة مع ذبحة غير مستقرة وكسر قذف منخفض، والسكّري مع إصابة قريبة في الأمامي النازل والأيمن
+tags: cardiac/coronary d:indications q:vignette l:2 x:high-yield
+palette: bright Battery Park morning, foam-green crowns, black tar, white sugar, fresh cabbage green, steel springs
+words: 35%
+keywords: coronary -> green foam Statue of Liberty crowns worn by four men; coronary artery bypass grafting -> big green cabbage leaves laid as bridges over the tar-clogged spikes of the Liberty crowns; unstable angina -> a heavy stone angel wobbling on his chest; diabetes -> a man sitting on a mountain of white sugar cubes; left anterior descending -> a young lad stuck at the top of the front slide of his crown; PCI -> a plumber pushing coiled metal Slinky springs on long wires into small tar spots
+must: ONLY the man with three clogged spikes and the man on the sugar cubes get cabbage leaves; the other two get Slinky springs; the card reads 35%
+scene: Battery Park on a bright morning, the Statue of Liberty far behind across the water. Four sixty-year-old men stand in a queue, each wearing a green foam Statue of Liberty crown. CENTRE, dominant and brightest: an old gardener lays big green cabbage leaves as bridges over the tar on the crowns of TWO of them: the second man, whose crown has THREE spikes clogged with black tar, a heavy stone angel wobbling on his chest, and a card reading 35% in his hand; and the fourth man, who sits on a mountain of white sugar cubes under a crushing stone angel, with the front spike of his crown clogged at its top, where a young lad is stuck on the slide, and the right spike clogged at its root. AT THE SIDES: a plumber pushes small coiled metal Slinky springs on long wires into the single small tar spots on the crowns of the first and third men.
+
+story:
+في صباح مشرق في حديقة باتري، وقف أربعة رجال في الستّين في صفّ، على رأس كلّ منهم تاج أخضر من الإسفنج كتاج الحرّيّة.
+وأمامهم البستانيّ العجوز هانك بأوراق الملفوف، والسّبّاك توني بزنبركاته المعدنيّة الملفوفة.
+كان في تاج الأوّل بقعة قار واحدة صغيرة في الشعاع الأيمن، وكان يقف مستريحًا.
+فدفع توني فيها زنبركًا صغيرًا على سلك طويل، وقال: «هذه يكفيها زنبرك، لا حاجة إلى الملفوف.»
+أمّا الثاني فكانت ثلاثة من أشعّة تاجه مسدودةً بالقار، وعلى صدره ملاك حجريّ يتأرجح، وفي يده بطاقة: خمسة وثلاثون في المئة.
+فمدّ هانك أوراق الملفوف جسورًا فوق الأشعّة الثلاثة، وقال: «ثلاثة مسدودة، وملاك لا يستقرّ، وباب ضعيف؛ هذا للملفوف لا لغيره.»
+وكان في تاج الثالث بقعتان صغيرتان في وسط شعاعين جانبيّين، فدفع توني فيهما زنبركين.
+وكان الرابع جالسًا على جبل من مكعّبات السكّر الأبيض، تحت ملاك حجريّ يسحق صدره.
+وفي أعلى المزلق الأماميّ من تاجه علق الفتى لاد، والشّعاع الأيمن مسدود من جذره؛ فمدّ له هانك الملفوف أيضًا.
+فسأله توني لماذا لم يعطه زنبركًا، فقال هانك:
+quote: «كم من إبليس بوجه إنسان! فلا ينبغي أن تضع يدك في كلّ يد.»
+source: المثنوي، الكتاب الأول
+explanation:
+Coronary bypass is preferred where it improves survival or where angioplasty does poorly.
+A patient with unstable angina, three-vessel disease and an ejection fraction of 35% gains the most survival from bypass: statement B.
+A diabetic with severe angina and proximal disease of the left anterior descending and right coronary arteries also does better with bypass than with angioplasty: statement D.
+So B and D are the answer.
+A single proximal right coronary lesion with mild angina and normal function, or focal discrete lesions in the mid right and circumflex arteries, are well treated with angioplasty or medicines.
+
+== 52
+# Mortality of sternal wound infection spreading to the mediastinum (mediastinitis), in the book -> D, less than 15%.
+# a ship's opened stern rotting with green mould along its white centre line; of a hundred sailors only a few coffins, sign under 15% -> mediastinitis kills fewer than 15%
+title: Mediastinitis after sternotomy: mortality under 15% in this book
+titleAr: التهاب المنصف بعد شقّ القص: الوفيات أقلّ من 15% في هذا الكتاب
+tags: cardiac/perioperative d:complications q:numbers l:2
+palette: grey dry dock, white hull, sickly green mould, dark wood
+words: 15%
+keywords: mediastinitis -> the opened stern of a ship rotting with green mould along its white centre line; mortality -> a few coffins
+must: the green mould runs along the white centre line of the opened stern; only a FEW coffins beside a whole crew; the sign reads under 15%
+scene: A dry dock at the Brooklyn Navy Yard under a grey sky. CENTRE, dominant and brightest: the stern of a big white ship, opened straight down a white centre line, rotting with sickly green mould all along the opening. On the dock a whole crew of a hundred sailors stands in rows; at the end of the rows, only a few dark wooden coffins. A dockmaster holds up a sign: under 15%.
+
+story:
+في حوض جافّ في مرسى بروكلين، تحت سماء رماديّة، رقدت سفينة بيضاء كبيرة.
+كانت مؤخّرتها قد فتحت على خطّها الأبيض في الوسط، ثمّ أغلقت.
+لكنّ عفنًا أخضر أخذ ينمو على طول الشقّ، يأكل الخشب من الداخل.
+فوقف البحّارة على الرصيف صفوفًا، مئة بحّار ينظرون إلى العفن بخوف.
+وفي آخر الصفوف، لم يكن إلّا توابيت قليلة من الخشب الداكن.
+فرفع مدير الحوض غاس لافتةً كتب عليها: أقلّ من خمسة عشر في المئة.
+وقال: «هذا العفن خطير يا رجال؛ لكن من كلّ مئة يصيبهم، لا نفقد إلّا أقلّ من خمسة عشر.»
+فقال بحّار شابّ: «وكيف ننجو؟»
+فقال غاس: «نكشط العفن مبكّرًا، وننظّف الشقّ، ونغطّيه بخشب سليم.»
+ثمّ نظر إلى المؤخّرة المفتوحة وقال:
+quote: «من مزّق ثوبه من عشق، طهر من الحرص والعيب كلّه.»
+source: المثنوي، الكتاب الأول
+explanation:
+Mediastinitis after median sternotomy is uncommon, occurring in about 1 to 2 percent of patients.
+With early debridement, drainage and flap closure, its mortality in the series this book relies on was under 15 percent.
+So D is the answer.
+It is still a serious complication; its risk factors include diabetes, obesity, harvesting both internal mammary arteries and reoperation for bleeding.
+
+== 53
+# Perioperative myocardial infarction after coronary bypass -> D, less than 5%.
+# a herd of a hundred stags beside the cabbage-bridged Liberty crown; only a handful struck by arrows, sign under 5% -> perioperative MI under 5%
+title: Perioperative myocardial infarction after coronary bypass: under 5%
+titleAr: احتشاء العضلة القلبية حول جراحة المجازة التاجية: أقلّ من 5%
+tags: cardiac/coronary d:complications q:numbers l:1
+palette: golden evening on Liberty Island, fresh cabbage green, brown stags
+words: 5%
+keywords: coronary artery bypass -> big green cabbage leaves laid as bridges over the tar-clogged spikes of the Liberty crown; myocardial infarction -> a stag brought down by an arrow
+must: almost all the stags stand unhurt; only a handful are down with arrows; the sign reads under 5%
+scene: Liberty Island on a golden evening. Behind, the Statue of Liberty's green crown, its clogged spikes bridged with big green cabbage leaves. CENTRE, dominant and brightest: a great herd of a hundred brown stags grazing peacefully on the lawn; only a handful of them lie down, each with an arrow in its side. A park ranger holds up a sign: under 5%.
+
+story:
+في مساء ذهبيّ على جزيرة الحرّيّة، كانت أشعّة التاج المسدودة قد جسرت بأوراق الملفوف الخضراء.
+وعلى العشب أمام التمثال، كان قطيع من مئة أيّل يرعى في سلام.
+وهي الأيائل الّتي مرّ عليها البستانيّ بملفوفه هذا العام.
+فعدّت الحارسة ريتا القطيع واحدًا واحدًا.
+فإذا لم يسقط منها إلّا قلّة قليلة، في جنب كلّ منها سهم.
+فرفعت لافتةً كتب عليها: أقلّ من خمسة في المئة.
+وقالت: «من كلّ مئة مرّ عليها الملفوف، لا يصيب السهم في أيّامه الأولى إلّا أقلّ من خمسة.»
+فسألها سائح: «ومن أين تأتي هذه السهام القليلة؟»
+فقالت: «من جسر لم يكتمل، أو تاج لم يحفظ جيّدًا وقت العمل.»
+ثمّ نظرت إلى الأيائل الساقطة وقالت:
+quote: «في كلّ جمع بكيت وانتحبت، وصرت رفيق سيّئي الحال وحسني الحال.»
+source: المثنوي، الكتاب الأول
+explanation:
+Perioperative myocardial infarction after coronary bypass occurs in fewer than 5 percent of patients in most series.
+So D is the answer.
+It is diagnosed by new Q waves, a large rise in cardiac enzymes or troponin, or a new wall motion abnormality.
+Incomplete revascularization, poor myocardial protection and problems with the grafts are its main causes.
+
+== 54
+# Ventricular septal defect after acute myocardial infarction -> D, 2% or less.
+# a street of identical old hotels, a stag's head pierced by an arrow over every door; only two have a hole broken in the lower party wall, sign 2% -> post-infarction VSD in 2% or less
+title: Ventricular septal rupture after myocardial infarction: 2% or less
+titleAr: تمزّق الحاجز بين البطينين بعد احتشاء العضلة القلبية: 2% أو أقلّ
+tags: cardiac/coronary d:complications q:numbers l:2
+palette: rainy dusk, rows of brick hotels, warm windows, one red engine room glowing through a hole
+words: 2%
+keywords: myocardial infarction -> a stag's head over each door pierced by an arrow; ventricular septal defect -> a hole broken through the lower party wall between the engine rooms with their ventilation fans
+must: EVERY hotel has a stag's head pierced by an arrow; only TWO show a hole in the lower party wall; the sign reads 2%
+scene: A long Brooklyn street at rainy dusk lined with dozens of identical old brick hotels, each seen cut open like a doll's house, each with a stag's head over its door pierced by an arrow. CENTRE, dominant and brightest: two of the hotels, side by side, where a hole has broken through the lower party wall between the blue and red engine rooms and their ventilation fans; in all the others the wall is whole. A street sweeper holds up a sign: 2%.
+
+story:
+في غسق ماطر، امتدّ شارع طويل في بروكلين تصطفّ فيه عشرات الفنادق القديمة المتشابهة.
+وفوق باب كلّ فندق رأس أيّل قد اخترقه سهم.
+فمشى الكنّاس سال على الرصيف، ينظر في الفنادق المفتوحة واحدًا بعد الآخر.
+كان الجدار بين غرفتي المحرّكات سليمًا في الفندق الأوّل، والثّاني، والعاشر، والعشرين.
+حتّى بلغ فندقين متجاورين، قد انكسر في كلّ منهما الجدار السفليّ، وصار فيه ثقب بين المروحتين.
+فوقف سال مبهوتًا، ورفع لافتته: اثنان في المئة.
+وقال لصاحب الدكّان المقابل: «من كلّ مئة أيّل يصيبه السهم، لا ينكسر الجدار إلّا في اثنين أو أقلّ.»
+فقال صاحب الدكّان: «وإن انكسر، ففي الأيّام الأولى بعد السهم، ولا يحتمل صاحبه الانتظار طويلًا.»
+ثمّ أضاف: «الثقب يتّسع يا سال؛ لا يصلحه إلّا البنّاؤون، وسريعًا.»
+فنظر سال إلى الجدار المكسور بين الغرفتين وقال:
+quote: «لمّا صار ما لا لون له أسير اللون، صار موسى يحارب موسى.»
+source: المثنوي، الكتاب الأول
+explanation:
+Rupture of the ventricular septum complicates about 1 to 2 percent of acute myocardial infarctions, and fewer since early reperfusion became routine.
+So D is the answer.
+It usually appears within the first week, with a new harsh pansystolic murmur and sudden heart failure or shock.
+Most patients need urgent surgical repair, because the defect enlarges and medical treatment alone carries a very high mortality.
+
+== 55
+# Higher mortality after emergency CABG for failed PTCA -> A (multivessel disease), C (cardiogenic shock before CABG), D (previous bypass surgery).
+# B (rescue atherectomy) and E (all of the above) are false.
+# a Slinky spring snapped and stuck in a spike of the Liberty crown, an ambulance racing to the island -> emergency bypass after failed PTCA
+# ANSWER A: many spikes clogged with tar -> multivessel disease
+# ANSWER C: through the cut-open hotel, the fans stopped dead and a guest slumped grey in a chair -> cardiogenic shock before the operation
+# ANSWER D: old wilted cabbage leaves from an earlier operation still on the crown -> previous bypass surgery
+# the undertaker measuring for a coffin beside all three -> each raises mortality
+title: After failed PTCA, emergency bypass is deadlier with multivessel disease, cardiogenic shock or a previous bypass
+titleAr: بعد فشل توسيع الشريان بالبالون، تزداد وفيات المجازة الطارئة مع مرض متعدّد الأوعية أو صدمة قلبية أو مجازة سابقة
+tags: cardiac/coronary d:indications q:recall l:2
+palette: storm light, flashing ambulance red, black tar, wilted yellow-green leaves, grey faces
+keywords: failed PTCA -> a coiled metal Slinky spring snapped and stuck inside a clogged spike of the Liberty crown; multivessel disease -> many spikes of the crown clogged with tar; cardiogenic shock -> the hotel's fans stopped dead and a guest slumped grey in a chair; previous bypass surgery -> old wilted cabbage leaves still lying on the crown; mortality -> an undertaker measuring for a coffin
+must: the Slinky is snapped and stuck in one spike; MANY spikes are clogged; the old cabbage leaves are wilted; the undertaker measures beside each of the three
+scene: Liberty Island under storm light; an ambulance with flashing lights races up the path. CENTRE, dominant and brightest: the Statue of Liberty's green crown, a coiled metal Slinky spring snapped and stuck inside one of its spikes, and MANY of its spikes clogged with black tar; old wilted cabbage leaves from an earlier operation still lie across two spikes. LEFT, through the cut-open wall of the old hotel with a stag's head: its ventilation fans have stopped dead, and a guest slumps grey-faced in a chair. An undertaker with a tape measure moves between the clogged spikes, the wilted leaves and the slumped guest, measuring for coffins.
+
+story:
+في ضوء عاصفة، انطلقت سيّارة إسعاف بأضوائها الحمراء نحو جزيرة الحرّيّة.
+فقد دفع السبّاك زنبركًا في شعاع من أشعّة التاج، فانكسر الزنبرك وعلق في داخله.
+فصاح السائق: «إلى الملفوف حالًا، لا وقت للانتظار!»
+وعند التاج، كان الحانوتيّ العجوز موريس يتنقّل بشريط قياسه.
+وقف أوّلًا عند الأشعّة الكثيرة المسدودة بالقار، وأخذ يقيس.
+ثمّ نظر من خلال جدار الفندق المفتوح، فإذا المراوح قد توقّفت، وضيف متهاو في كرسيّه بوجه رماديّ، فقاس هناك أيضًا.
+ثمّ وقف عند أوراق ملفوف قديمة ذابلة، باقية من عمل سابق على شعاعين، فقاس مرّةً ثالثة.
+فقال: «ثلاث تطيل شريطي: أشعّة كثيرة مسدودة، ومراوح واقفة قبل العمل، وملفوف قديم على التاج.»
+فسأله السائق عن الكاشط الّذي يحكّ القار لينقذ الزنبرك، فقال موريس: «ذاك لا يطيل شريطي.»
+ثمّ طوى شريطه وقال:
+quote: «من رأى سمًّا وترياقًا مثل الناي؟ ومن رأى أنيسًا ومشتاقًا مثل الناي؟»
+source: المثنوي، الكتاب الأول
+explanation:
+When angioplasty fails and emergency bypass is needed, certain features raise the operative mortality.
+Multivessel disease leaves more myocardium at risk: statement A.
+Cardiogenic shock before the operation is the strongest predictor of death: statement C.
+Previous bypass surgery makes the operation slower and myocardial protection harder: statement D.
+So A, C and D are the answer.
+Rescue atherectomy is not one of them, so "all of the above" is wrong.
+
+== 56
+# Elective CABG (X) against emergency CABG after failed PTCA (Y): both operative mortality and perioperative infarction are HIGHER IN Y.
+# The book's option C is printed the wrong way round ("higher in X than in Y"); corrected to "higher in Y than in X" with option: and the tag x:key-corrected.
+# LEFT, under a calm X sign: a quiet queue with an appointment card, one stag down, no coffin -> elective bypass
+# ANSWER (C, corrected): RIGHT, under a Y sign: an ambulance with a snapped Slinky, more stags with arrows and more coffins -> emergency bypass after failed PTCA: more deaths and more infarctions
+title: Emergency bypass after failed PTCA carries a higher mortality and more infarctions than elective bypass
+titleAr: المجازة الطارئة بعد فشل التوسيع بالبالون أعلى وفياتٍ وأكثر احتشاءً من المجازة المخطّط لها
+tags: cardiac/coronary d:evidence q:recall l:2 x:key-corrected
+palette: calm blue on the left, flashing ambulance red on the right, brown stags, dark coffins
+words: X, Y
+option: C = The operative mortality and perioperative incidence of myocardial infarction are higher in Y than in X.
+note: The book prints option C as "higher in X than in Y", which reverses the comparison; emergency operation after failed PTCA (Y) is the one with the higher mortality and the higher rate of infarction, so the option is shown corrected.
+keywords: coronary bypass -> big green cabbage leaves laid as bridges over the tar-clogged spikes of the Liberty crown; failed PTCA -> a coiled metal Slinky spring snapped inside a spike of a foam Liberty crown; mortality -> dark wooden coffins; myocardial infarction -> stags brought down by arrows
+must: the LEFT side is calm, with a big X; the RIGHT side is an emergency, with a big Y, and has clearly MORE coffins and MORE stags with arrows
+scene: Two waiting rooms side by side in a bright hospital-like hall on Liberty Island, each opening onto the gardener's cabbage stall. LEFT, under a big calm blue letter X: a quiet line of men in green foam Liberty crowns holding appointment cards; beside them one stag lies with an arrow and there is no coffin. RIGHT, CENTRE of attention, dominant and brightest, under a big flashing red letter Y: an ambulance bursts in carrying a man whose foam crown has a snapped Slinky spring stuck in a spike; around him several stags lie with arrows and three dark coffins stand ready.
+
+story:
+في قاعة مضيئة على جزيرة الحرّيّة، فتحت غرفتا انتظار إلى جانب كشك الملفوف.
+فوق الغرفة اليسرى حرف أزرق هادئ: إكس، وفيها صفّ من الرجال بتيجان خضراء يحملون بطاقات مواعيدهم.
+وإلى جانبهم أيّل واحد فيه سهم، ولا تابوت هناك.
+وفوق الغرفة اليمنى حرف أحمر يلمع: واي.
+فاندفعت إليها سيّارة إسعاف تحمل رجلًا في تاجه زنبرك مكسور عالق.
+وحوله عدّة أيائل فيها سهام، وثلاثة توابيت داكنة قائمة.
+فقالت الممرّضة لوسي: «انظر يا سام: في غرفة واي توابيت أكثر، وسهام أكثر.»
+فقال سام: «نعم؛ من جاء على عجل بعد زنبرك مكسور، جاء وتاجه يختنق من قبل أن نبدأ.»
+ثمّ أشار إلى لافتة قديمة مقلوبة تقول العكس، فقلبها بيده حتّى استقامت.
+ونظر إلى الغرفة الحمراء المزدحمة وقال:
+quote: «صارت الأيّام في حزننا بلا أوقات، ورافقت الأيّام الحرق.»
+source: المثنوي، الكتاب الأول
+explanation:
+Bypass done as an emergency after a failed PTCA carries a higher operative mortality than elective bypass.
+The rate of perioperative myocardial infarction is also higher, because the myocardium is already ischaemic when the operation begins.
+So the corrected option C is the answer: both are higher in Y, the emergency group, than in X.
+The book prints option C the other way round, which reverses the comparison.
+
+== 57
+# After an internal mammary artery graft at the primary CABG -> B (left ventricular function better preserved at reoperation), D (a light clamp on the IMA pedicle during cardioplegic arrest), E (a functional study showing a large area at risk before reoperation).
+# A (higher reoperative risk) and C (more sternal complications with the other IMA) are false in the book.
+# a living lima bean vine from the statue's chest onto the front of the crown -> the IMA graft to the LAD
+# ANSWER B: the red engine room's fan still turning strongly years later -> left ventricular function preserved
+# ANSWER D: a gardener pinching the lima vine with a small wooden clothes-peg while ice and bananas are poured over the hotel -> light clamp on the IMA during cardioplegia
+# ANSWER E: an inspector holding up a glowing heat map of the crown with a large area lit red -> a functional study showing much myocardium at risk
+title: Reoperation after an internal mammary graft: better ventricular function, a light clamp on the IMA during cardioplegia, a functional study first
+titleAr: إعادة المجازة بعد طُعم الشريان الثديي الداخلي: وظيفة بطين أفضل، وملقط خفيف على الشريان أثناء شلل القلب، ودراسة وظيفية أوّلًا
+tags: cardiac/coronary d:technique q:recall l:3
+palette: cool morning, living bean-green vine, ice blue, banana yellow, a heat map glowing red
+keywords: internal mammary artery -> a green lima bean vine growing down from the chest wall onto the front of the Liberty crown; ventricle -> the red engine room's ventilation fan still turning strongly; light clamp -> a small wooden clothes-peg pinching the lima bean vine; cardioplegic arrest -> a bucket of ice-cold water full of bananas poured over the hotel so that its fans stop dead; functional study -> an inspector holding up a glowing heat map of the crown with a large area lit red
+must: the lima vine is ALIVE and runs down onto the FRONT of the crown; the clothes-peg pinches the vine lightly while the ice and bananas pour; the heat map shows a LARGE red area
+scene: The Statue of Liberty seen close on a cool morning, beside the cut-open old hotel with a stag's head. CENTRE, dominant and brightest: a living green lima bean vine grows down from the statue's chest wall onto the front of her crown, and an old gardener pinches it lightly with a small wooden clothes-peg while workers pour a bucket of ice-cold water full of bananas over the hotel. RIGHT, through the hotel's cut-open wall: the red engine room's ventilation fan still turns strongly. LEFT: an inspector holds up a glowing heat map of the crown with a large area lit red.
+
+story:
+في صباح بارد، بعد سنوات من العمل الأوّل، كانت كرمة فول الليما ما تزال حيّةً خضراء.
+تنبت من جدار صدر التمثال، وتنزل على مقدّمة تاجه، فوق المزلق الأماميّ.
+ومن خلال جدار الفندق المفتوح، كانت مروحة الغرفة الحمراء ما تزال تدور بقوّة.
+فقال هانك: «هذه الكرمة حرست الغرفة الحمراء كلّ هذه السنين؛ لذلك بقيت المروحة قويّة.»
+وقبل أن يبدأ العمل الثاني، رفع المفتّش خريطةً حراريّةً للتّاج، يتوهّج فيها جزء كبير بالأحمر.
+وقال: «لا نفتح إلّا إذا كان ما يتهدّده الخطر كبيرًا؛ وهذا كبير.»
+ثمّ صبّ العمّال على الفندق دلوًا من الماء المثلّج مليئًا بالموز، فوقفت المراوح ساكنة.
+وفي تلك اللحظة، قرص هانك كرمة الليما قرصًا خفيفًا بملقط غسيل خشبيّ صغير.
+وقال: «لو تركت نسغها الدافئ يجري الآن، لغسل البرد وأدفأ الفندق قبل أوانه.»
+ثمّ نظر إلى الكرمة الحيّة تصعد إلى الصدر وقال:
+quote: «جسم التراب صعد بالعشق إلى الأفلاك، والجبل رقص وصار خفيفًا.»
+source: المثنوي، الكتاب الأول
+explanation:
+A patent internal mammary graft to the left anterior descending protects the left ventricle, so its function is better preserved at the time of reoperation: statement B is correct.
+At reoperation, a light clamp is placed on the mammary pedicle during cardioplegic arrest, because flow through it would wash out the cardioplegia and warm the heart: statement D is correct.
+Before reoperation, a functional study should show that a large area of myocardium is at risk, so that the operation is worth its risk: statement E is correct.
+So B, D and E are the answer.
+In the book's view, a mammary graft does not itself raise the risk of reoperation, and taking the other mammary artery at reoperation does not greatly increase sternal wound complications.
+
+== 58
+# Coronary reoperation compared with primary CABG: the INCORRECT statement is D: angina returns SOONER after reoperation, not later.
+# The other statements are true: higher morbidity and mortality, deaths mostly cardiac, late survival nearly equal, harder myocardial protection.
+# a ship's stern opened a second time along an old scar, crusted sapphire chains and tar on every spike of the crown -> reoperation, old vein grafts, diffuse disease
+# ANSWER (the incorrect statement): the stone angel flying straight back onto the man's chest while a clock shows only a short time -> angina returns EARLIER after reoperation
+title: After coronary reoperation angina returns sooner, not later, than after a first bypass
+titleAr: بعد إعادة جراحة المجازة تعود الذبحة أسرع لا أبطأ ممّا بعد المجازة الأولى
+tags: cardiac/coronary d:evidence q:recall l:3 x:trap
+palette: overcast harbour, white hull with an old pink scar, crusted blue sapphires, black tar, grey stone angel
+keywords: sternotomy -> the stern of a ship opened a second time along an old scar; saphenous vein graft -> chains of blue sapphires crusted and cracked with tar; coronary -> the Statue of Liberty's green crown; angina -> a heavy stone angel flying straight back onto a man's chest
+must: the stern is opened along an OLD scar; the sapphire chains are crusted with tar; the angel is flying BACK onto the man's chest and the clock shows only a short time
+scene: An overcast harbour. LEFT: the stern of a white ship opened a second time along an old pink scar. RIGHT, behind: the Statue of Liberty's green crown, every spike streaked with tar, and old chains of blue sapphires bridging two spikes, crusted and cracked with tar. CENTRE, dominant and brightest: a man lying on a bench on the pier, and a heavy stone angel flying straight back down onto his chest; beside him a clock whose hands have moved only a little.
+
+story:
+في ميناء غائم، رست سفينة بيضاء فتحت مؤخّرتها مرّةً ثانيةً على ندبة قديمة.
+ومن خلفها تاج الحرّيّة، كلّ أشعّته مخطّطة بالقار.
+وعلى شعاعين منها سلاسل قديمة من الياقوت الأزرق، قد تقشّرت وتشقّقت وعلاها القار.
+فقال النجّار العجوز: «الفتحة الثانية أصعب من الأولى؛ الندبة تلتصق، والسّلاسل القديمة تتفتّت في اليد.»
+وعلى مقعد في الرصيف، استلقى ليو، الّذي أصلح تاجه مرّتين.
+فإذا الملاك الحجريّ الثقيل يطير عائدًا إلى صدره مباشرةً.
+وإلى جانبه ساعة لم تتحرّك عقاربها إلّا قليلًا.
+فصاح ليو: «ما أسرع عودته هذه المرّة! في المرّة الأولى غاب سنين!»
+فقال النجّار: «بعد الفتحة الثانية يعود الملاك أسرع لا أبطأ؛ أمّا من يخرج سالمًا فيعيش كمن أصلح مرّةً واحدة.»
+ثمّ وضع يده على الندبة القديمة وقال:
+quote: «أريد صدرًا ممزّقًا قطعًا قطعًا من الفراق، لأشرح ألم الشوق.»
+source: المثنوي، الكتاب الأول
+explanation:
+The question asks for the incorrect statement.
+After coronary reoperation, angina returns sooner, not later, than after a first bypass, so statement D is incorrect and is the answer.
+The other statements are correct: reoperation carries higher morbidity and mortality, and its deaths are mostly cardiac.
+Once patients leave hospital, their survival is close to that after a first bypass.
+Myocardial protection is harder because of noncoronary collaterals, patent but diseased vein grafts that can embolize, and more diffuse coronary disease.
+
+== 59
+# Gated equilibrium against initial-transit (first-pass) radionuclide studies -> B: gated equilibrium imaging takes at least 10 times as long.
+# A (gated is more accurate for EF), C (same radiopharmaceuticals) and D (both need a bolus) are false: only first-pass needs a bolus.
+# a barista filling a big glowing green coffee mug drip by drip over many beats of a metronome, a customer downing one glowing shot glass in a gulp, sign x10 -> MUGA imaging time is at least 10 times first-pass
+title: Gated equilibrium (MUGA) imaging takes at least ten times as long as a first-pass study
+titleAr: التصوير المتوازن المبوّب (MUGA) يستغرق عشرة أضعاف وقت دراسة المرور الأول على الأقل
+tags: cardiac/foundations d:diagnosis q:recall l:3
+palette: warm Greenwich Village café, glowing radioactive green, brass metronome
+words: x10
+keywords: gated equilibrium -> a big glowing green coffee mug filled slowly, drip by drip, over many beats; initial-transit -> one glowing green shot glass downed in a single gulp
+must: the mug fills slowly drip by drip in time with a ticking metronome; the shot glass is downed in ONE gulp; the sign reads x10
+scene: A warm café in Greenwich Village. CENTRE, dominant and brightest: a barista fills a big glowing green coffee mug drop by drop from a tap, each drop falling in time with a brass metronome ticking beside it; the mug is only half full. RIGHT: at the counter a customer downs one glowing green shot glass in a single gulp. A chalkboard behind them reads x10.
+
+story:
+في مقهًى دافئ في غرينتش فيليج، وقفت النادلة ميا تملأ كوبًا كبيرًا أخضر يتوهّج.
+كانت تملؤه قطرةً قطرةً من الصنبور، كلّ قطرة مع دقّة من دقّات بندول إيقاع نحاسيّ إلى جانبها.
+ومرّت مئات الدقّات، والكوب لم يمتلئ إلّا نصفه.
+وعند الطاولة، طلب زبون مستعجل كأسًا صغيرةً خضراء تتوهّج أيضًا.
+فشربها دفعةً واحدةً في جرعة واحدة، ووضع الكأس فارغة.
+فقال ضاحكًا: «أنا رأيت ما أريد في مرور واحد؛ وأنت ما زلت تعدّين الدقّات!»
+فأشارت ميا إلى السبّورة خلفهما، وعليها: عشرة أضعاف.
+وقالت: «كوبي يأخذ عشرة أضعاف وقت كأسك على الأقلّ؛ لكنّ ما يقوله قريب ممّا تقوله كأسك.»
+ثمّ قالت: «وكأسك وحدها تحتاج أن تصبّ دفعةً واحدة؛ أمّا كوبي فيصبر.»
+ونظرت إلى الكوب المتوهّج وقالت:
+quote: «سرّي ليس بعيدًا عن أنيني، لكنّ العين والأذن ليس لهما ذلك النور.»
+source: المثنوي، الكتاب الأول
+explanation:
+Both methods measure left ventricular function with a radioactive tracer.
+The first-pass (initial-transit) study records a single bolus on its first passage through the heart, in a few seconds.
+The gated equilibrium (MUGA) study waits until the tracer is mixed in the blood and adds up hundreds of beats, so its imaging time is at least ten times longer: statement B is correct.
+So B is the answer.
+The two give similar ejection fractions, they can use different tracers, and only the first-pass study needs a bolus injection.
+
+== 60
+# The radionuclide variable with the most prognostic information in coronary disease -> A, the exercise ejection fraction.
+# a bouncer ejecting guests out of the red engine room's door while running on a treadmill, a fortune teller reading him in her crystal ball -> exercise ejection fraction predicts the outcome best
+title: The exercise ejection fraction carries the most prognostic information in coronary artery disease
+titleAr: كسر القذف أثناء الجهد يحمل أكبر قدر من المعلومات عن مآل مرض الشرايين التاجية
+tags: cardiac/coronary d:diagnosis q:recall l:2
+palette: neon nightclub red, a silver treadmill, a violet crystal ball
+keywords: exercise ejection fraction -> a nightclub bouncer ejecting guests out of the red engine room's door while running on a treadmill; prognosis -> a fortune teller gazing into a crystal ball
+must: the bouncer RUNS on the treadmill while throwing guests out; the fortune teller's crystal ball shows that same scene
+scene: The red engine room of the old hotel with a stag's head, turned into a nightclub with neon light. CENTRE, dominant and brightest: a big nightclub bouncer running hard on a silver treadmill while throwing guests out of the door one after another. LEFT: a fortune teller in a shawl gazes into a violet crystal ball, in which the same running bouncer can be seen.
+
+story:
+في غرفة المحرّكات الحمراء من فندق الأيّل، صار المكان ملهًى ليليًّا بأضواء النيون.
+وعند بابه حارس الملهى مايك، يطرد الضيوف من الباب واحدًا بعد واحد.
+في ساعات الهدوء كان يطردهم وهو واقف؛ أمّا الليلة فقد وضعوه على جهاز ركض فضّيّ.
+فأخذ يركض بكلّ قوّته، ويطرد الضيوف في الوقت نفسه.
+وفي الزاوية جلست العرّافة العجوز زورا، تنظر في كرة بلّوريّة بنفسجيّة.
+فرأت فيها مايك نفسه يركض ويطرد.
+فقالت: «لا يهمّني كيف يطرد وهو واقف؛ أخبروني كم يطرد وهو يركض، أخبركم بما سيكون.»
+ثمّ قالت: «إن قلّ طرده وهو يركض، فالأيّام القادمة صعبة.»
+فضحك مايك وهو يلهث، وزاد سرعته.
+فابتسمت زورا وقالت:
+quote: «ليس الجسد مستورًا عن الروح ولا الروح عن الجسد، لكن لم يؤذن لأحد أن يرى الروح.»
+source: المثنوي، الكتاب الأول
+explanation:
+In coronary artery disease, the ejection fraction measured during exercise is the radionuclide variable that carries the most prognostic information.
+It reflects both the extent of ischaemia and the underlying left ventricular function.
+So A is the answer.
+A fall in ejection fraction with exercise marks a large area of myocardium at risk and a worse outlook.

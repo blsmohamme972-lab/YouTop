@@ -1,0 +1,306 @@
+book: medcosmos-cardiac
+# MedCosmos Cardiac, questions 91-100, written to the owner's five picture rules and the audited symbols
+# (content/symbols.json). Theme: New York City. Quotations: Rumi, the Masnavi (from memory, translated).
+
+== 91
+# A ventricular inhibited demand pacemaker in the ICHD code -> B, VVI (paces the Ventricle, senses the Ventricle, Inhibited by a sensed beat).
+# in the engine room a drummer with an ear trumpet listening to the fan; when the fan beats on its own he holds his sticks still; a sign VVI -> VVI
+title: A ventricular inhibited demand pacemaker is coded VVI
+titleAr: المنظّم البطيني المثبَّط عند الطلب رمزه VVI
+tags: cardiac/arrhythmia d:technique q:recall l:1
+palette: warm engine room light, red drum, brass ear trumpet
+words: VVI
+keywords: pacemaker -> a marching drummer in the engine room keeping a steady beat; sensing -> a brass ear trumpet held to the ventilation fan; inhibited -> the drummer holding his sticks still in the air when he hears the fan beat on its own; ventricle -> the engine room with its ventilation fan
+must: the drummer is in the ENGINE ROOM, listening to its fan with an ear trumpet, sticks held STILL; the sign reads VVI
+scene: The red engine room of the old Brooklyn hotel with a stag's head, in warm light. CENTRE, dominant and brightest: a marching drummer stands beside the big ventilation fan, holding a brass ear trumpet to it; the fan has just turned by itself, so he holds his drumsticks still in the air, waiting. A small sign on his drum reads VVI.
+
+story:
+في غرفة المحرّكات الحمراء من فندق الأيّل، وقف عازف طبل إلى جانب المروحة الكبيرة.
+وكان يمسك بوقًا نحاسيًّا للسّمع، يضعه على المروحة ويصغي.
+فإذا تأخّرت المروحة عن دورتها، ضرب طبله فدارت.
+وإذا دارت المروحة وحدها، رفع عصويه في الهواء وسكت.
+وعلى طبله لافتة صغيرة فيها ثلاثة أحرف: في، في، آي.
+فسأله الحارس سام: «ما معنى أحرفك؟»
+فقال العازف: «الأوّل: أضرب في غرفة المحرّكات؛ والثّاني: أصغي إلى غرفة المحرّكات.»
+ثمّ قال: «والثّالث: إذا سمعتها تعمل وحدها، أمسكت عن الضرب.»
+فدارت المروحة وحدها، فرفع عصويه وابتسم وقال:
+quote: «من نحن يا روح أرواحنا، حتّى نكون معك في الوسط؟»
+source: المثنوي، الكتاب الأول
+explanation:
+Pacemaker codes give, in order, the chamber paced, the chamber sensed and the response to a sensed beat.
+A ventricular inhibited demand pacemaker paces the ventricle (V), senses the ventricle (V) and is inhibited (I) when it senses a spontaneous beat.
+So it is coded VVI: B is the answer.
+VOO paces the ventricle at a fixed rate without sensing, DVI paces both chambers but senses only the ventricle, and VDD paces the ventricle and senses both chambers.
+
+== 92
+# The physiological parameter most often used by rate-modulated pacemakers -> D, body motion (activity sensors).
+# a drummer riding piggyback on a jogger in Central Park, drumming faster the faster the jogger runs -> body motion sets the pacing rate
+title: Rate-modulated pacemakers most often follow body motion
+titleAr: المنظّمات المتكيّفة مع الجهد تعتمد في الغالب على حركة الجسم
+tags: cardiac/arrhythmia d:technique q:recall l:2
+palette: Central Park morning, autumn leaves, a red drum, jogging clothes
+keywords: pacemaker -> a marching drummer keeping the beat; body motion -> a jogger running, carrying the drummer piggyback
+must: the drummer rides ON the jogger's back and drums faster as the jogger speeds up
+scene: Central Park on an autumn morning. CENTRE, dominant and brightest: a jogger runs along the path carrying a marching drummer piggyback on his back; the faster the jogger runs, the faster the drummer beats his drum, motion lines streaming behind them.
+
+story:
+في صباح خريفيّ في سنترال بارك، خرج العدّاء جيمي يركض.
+وعلى ظهره عازف طبل صغير يركبه ركوبًا، يضرب طبله.
+كان جيمي يمشي أوّلًا، فكان الطبل بطيئًا هادئًا.
+ثمّ أسرع في الركض، فأسرع الطبل معه.
+ثمّ انطلق بكلّ قوّته على الطريق، وأوراق الخريف تتطاير خلفه، فصار الطبل يهدر.
+فقال العازف من فوق ظهره: «لا أنظر إلى الميزان ولا إلى الحرارة؛ أشعر باهتزاز جسدك فأضرب على قدره.»
+فقال جيمي لاهثًا: «هكذا يعمل أكثركم، أليس كذلك؟»
+فقال العازف: «بلى؛ الحركة أسهل ما نشعر به، فنتبعها.»
+ثمّ أبطأ جيمي عند البحيرة، فأبطأ الطبل، وقال العازف:
+quote: «ريحنا ووجودنا من عطائك، ووجودنا كلّه من إيجادك.»
+source: المثنوي، الكتاب الأول
+explanation:
+Rate-modulated pacemakers raise the pacing rate with a sensor when the patient's own sinus node cannot.
+The sensor used most often detects body motion, with a piezoelectric crystal or an accelerometer in the generator.
+So D is the answer.
+The QT interval, venous blood temperature, mixed venous oxygen saturation and minute ventilation have also been used, but less often.
+
+== 93
+# The commonest pacing mode in symptomatic bradycardia with an underlying sinus rhythm -> C, DDD.
+# two drummers, one in the upper lobby and one in the engine room, each with an ear trumpet, beating one after the other; sign DDD -> dual chamber: paces both, senses both, both ways
+title: Symptomatic bradycardia with an underlying sinus rhythm is paced most often in DDD mode
+titleAr: بطء القلب العرضي مع نظم جيبي كامن يُنظَّم غالبًا بنمط DDD
+tags: cardiac/arrhythmia d:technique q:recall l:2
+palette: warm hotel light, two red drums, brass ear trumpets
+words: DDD
+keywords: pacemaker -> two marching drummers, one in the upper lobby and one in the engine room; sensing -> a brass ear trumpet held by each drummer; atrium -> the glass-roofed atrium lobby; ventricle -> the engine room with its ventilation fan
+must: ONE drummer upstairs, ONE downstairs, each listening with an ear trumpet, beating one AFTER the other; the sign reads DDD
+scene: The old Brooklyn hotel with a stag's head, seen cut open like a doll's house. CENTRE, dominant and brightest: two marching drummers, one in the glass upper lobby and one in the engine room below, each holding a brass ear trumpet to listen, beating their drums one after the other in step. A banner between the floors reads DDD.
+
+story:
+في فندق الأيّل، كان قائد الأوركسترا في البهو الأزرق يقود بإيقاعه الطبيعيّ.
+لكنّ الجسر بين الأبهاء وغرف المحرّكات كان يتعثّر أحيانًا، فتبطؤ المراوح.
+فجاء عازفا طبل: واحد في البهو الزجاجيّ فوق، وواحد في غرفة المحرّكات تحت.
+وفي يد كلّ منهما بوق نحاسيّ للسّمع.
+فكان عازف الأعلى يصغي إلى القائد، فإن سكت القائد ضرب هو.
+وكان عازف الأسفل يصغي إلى ما ينزل من فوق، فيضرب بعده بلحظة، ويمسك إذا دارت مروحته وحدها.
+وبين الطابقين لافتة: دي، دي، دي.
+فقالت المديرة بيرل: «اثنان يضربان، واثنان يصغيان، ويعملان بالطّريقتين؛ والفندق يمشي على إيقاع قائده.»
+ثمّ قالت: «وهذا أكثر ما نضع لمن بقي قائده حيًّا.»
+فنظرت إلى العازفين يضربان الواحد بعد الآخر وقالت:
+quote: «كلتا القصبتين شربت من مورد واحد، فهذه فارغة وتلك مملوءة سكّرًا.»
+source: المثنوي، الكتاب الأول
+explanation:
+In a patient with symptomatic bradycardia and an underlying sinus rhythm, a dual-chamber pacemaker keeps atrioventricular synchrony and lets the ventricle follow the sinus rate.
+The DDD mode paces both chambers, senses both chambers, and both triggers and inhibits.
+So DDD is the most common mode: C is the answer.
+AAI suits isolated sinus node disease with intact AV conduction, and VVI suits chronic atrial fibrillation.
+
+== 94
+# Where to place a transvenous pacemaker pocket -> A, over the anteromedial chest wall on the non-dominant side.
+# a tailor sewing a small pocket into the upper chest of a right-handed man's jacket, on the LEFT side, toward the middle, below the collarbone, and slipping the drummer's little drum into it -> non-dominant side, anteromedial
+title: A pacemaker pocket goes over the anteromedial chest wall on the non-dominant side
+titleAr: يوضع جيب المولّد فوق الجدار الأمامي الإنسي للصدر في الجهة غير المسيطرة
+tags: cardiac/arrhythmia d:technique q:recall l:2
+palette: a Garment District tailor's shop, navy wool, white chalk lines, a small red drum
+keywords: pacemaker generator -> a small red drum taken from the drummer; pocket on the non-dominant anteromedial chest -> a tailor sewing a pocket into the LEFT upper chest of a right-handed man's jacket, toward the middle, below the collarbone
+must: the man holds a pen in his RIGHT hand; the pocket is on the LEFT, high and toward the MIDDLE of the chest, below the collarbone
+scene: A tailor's shop in the Garment District. CENTRE, dominant and brightest: a man stands in a navy jacket, writing with a pen in his right hand, while an old tailor sews a small pocket into the left upper chest of the jacket, toward the middle, just below the collarbone, and slips a small red drum into it. White chalk lines mark the spot.
+
+story:
+في دكّان خيّاط في حيّ الثياب، وقف رجل بسترة كحليّة، يكتب بقلم في يده اليمنى.
+وكان قد جاء بطبل أحمر صغير أخذه من عازف الطبل، يريد أن يحمله معه أينما ذهب.
+فقال الخيّاط العجوز عزرا: «أيّ يد تكتب بها؟»
+فقال الرجل: «اليمنى.»
+فأخذ عزرا طبشورته، ورسم على الجهة اليسرى من صدر السترة، تحت عظم الترقوة، نحو الوسط.
+ثمّ خاط هناك جيبًا صغيرًا، وأدخل فيه الطبل الأحمر.
+فقال: «الجيب على الجهة الّتي لا تكتب بها، كي لا تزعجه يدك كلّ يوم.»
+ثمّ قال: «ونحو الوسط، لا نحو الإبط؛ هناك يتحرّك ويحتكّ ويشدّ خيوطه.»
+فحرّك الرجل ذراعه اليمنى بحرّيّة، والطّبل ساكن في جيبه، فقال عزرا:
+quote: «لو لم يكن اختيار، فما هذا الحياء؟ وما هذا الأسف والخجل والحشمة؟»
+source: المثنوي، الكتاب الأول
+explanation:
+A transvenous pacemaker pocket is made on the non-dominant side, so that the arm used most does not disturb the generator and the leads.
+It lies over the anteromedial chest wall, below the clavicle, on the pectoral fascia: A is the answer.
+A pocket placed laterally, towards the axilla, is uncomfortable, lets the generator migrate, and pulls on the leads with shoulder movement.
+An inferior pocket on the chest wall has the same problems and makes the leads longer.
+
+== 95
+# The cause of pacemaker-mediated tachycardia -> B, sensing of retrograde atrial activation.
+# the engine room drummer's beat travelling back UP to the upper lobby; the upper drummer hears it with his ear trumpet, takes it for a new beat and drums again; round and round, faster -> retrograde P waves sensed by a dual-chamber pacemaker
+title: Pacemaker-mediated tachycardia comes from sensing retrograde atrial activation
+titleAr: تسرّع القلب المحدَث بالمنظّم ينشأ عن استشعار التنشيط الأذيني الراجع
+tags: cardiac/arrhythmia d:complications q:recall l:3
+palette: dim hotel light, red drums, a glowing echo arrow
+keywords: pacemaker -> two marching drummers, one upstairs and one downstairs; retrograde atrial activation -> a glowing echo of the downstairs drum travelling back UP the wall to the upper atrium lobby; sensing -> the upstairs drummer's brass ear trumpet catching the echo
+must: the echo travels UP from the engine room to the upper lobby; the upstairs drummer hears it and starts again; the loop is endless
+scene: The old Brooklyn hotel with a stag's head, seen cut open. Two marching drummers, one in the upper lobby, one in the engine room. CENTRE, dominant and brightest: a glowing echo of the downstairs drum rises back UP through the party wall to the upper lobby, where the upstairs drummer catches it in his brass ear trumpet and beats again, sending a new beat down; glowing arrows show the loop going round and round, faster and faster.
+
+story:
+في ليلة خافتة في فندق الأيّل، كان عازف الطبل في البهو يصغي ببوقه النحاسيّ، وعازف غرفة المحرّكات يضرب بعده.
+فضرب عازف الأسفل ضربة، فصعد صداها راجعًا في الجدار إلى البهو الأعلى.
+فسمع عازف الأعلى الصدى في بوقه، فظنّه إشارةً جديدةً من القائد.
+فأرسل إلى الأسفل أن اضرب، فضرب عازف الأسفل.
+فصعد الصدى من جديد، وسمعه الأعلى من جديد، فدارت الحلقة أسرع فأسرع.
+فصاح الحارس سام: «من يقود هذا الإيقاع؟ القائد نائم!»
+فقالت المديرة بيرل: «لا أحد؛ إنّه الصدى الراجع إلى فوق، يسمعه عازفنا فيحسبه نبضًا جديدًا.»
+ثمّ قالت: «نجعله يسدّ أذنه لحظةً بعد كلّ ضربة تحت، فيمرّ الصدى ولا يسمعه.»
+فسكتت الحلقة، وعاد الفندق إلى هدوئه، فقالت بيرل:
+quote: «انظر مئة ألف من هذه الأشباه، وانظر الفرق بينها مسيرة سبعين سنة.»
+source: المثنوي، الكتاب الأول
+explanation:
+In pacemaker-mediated tachycardia, a dual-chamber pacemaker senses a retrograde P wave conducted back from the ventricle to the atrium.
+It takes this as a new atrial beat and paces the ventricle again, which again conducts back to the atrium, so an endless-loop tachycardia follows.
+So B is the answer.
+It is prevented by lengthening the post-ventricular atrial refractory period, so that the retrograde P wave falls while the atrial channel is not listening.
+
+== 96
+# Agents safe during abdominal surgery in a 75-year-old woman with hypertension and mild coronary disease -> A (nifedipine), B (atenolol), D (captopril).
+# C (hydralazine: reflex tachycardia) and E (reserpine) are not.
+# an elderly lady in a hospital bed with a pressure gauge in the red calming down, helped by an ice-hockey goalkeeper, a tennis player serving an ace and a small canal dammed with chalky glue -> atenolol, captopril, nifedipine
+title: In an elderly hypertensive patient with coronary disease, atenolol, nifedipine and captopril are safe around surgery
+titleAr: عند المسنّة المصابة بارتفاع الضغط ومرض الشرايين التاجية: الأتينولول والنيفيديبين والكابتوبريل آمنة حول الجراحة
+tags: cardiac/perioperative d:pharmacology q:recall l:2
+palette: bright hospital room, ice-hockey white, tennis-ball yellow, chalk white
+keywords: hypertension -> a big round pressure gauge with its needle swinging back out of the red zone; atenolol -> an ice-hockey goalkeeper slamming his big blocker pad against the puck; captopril -> a tennis player serving an ace at the US Open; nifedipine -> a small canal dammed by a spilled can of white chalky glue; coronary artery disease -> a small green Liberty crown on her bedside table with a little tar on one spike
+must: the three helpers stand round the SAME lady; the gauge needle moves back OUT of the red
+scene: A bright hospital room overlooking Queens. CENTRE, dominant and brightest: an elderly lady of seventy-five sits up in bed beside a big round pressure gauge whose needle is swinging back out of the red zone. Around her bed: an ice-hockey goalkeeper slamming his blocker pad against a puck, a tennis player serving an ace, and a small canal beside the bed dammed by a spilled can of white chalky glue. On her bedside table, a small green Liberty crown with a little tar on one spike.
+
+story:
+في غرفة مشرقة تطلّ على كوينز، جلست الجدّة إيديث في سريرها، في الخامسة والسّبعين.
+كان إلى جانبها عدّاد كبير تميل إبرته إلى الأحمر، وعلى طاولتها تاج حرّيّة صغير على أحد أشعّته قليل من القار.
+وكان عليها أن تدخل غدًا لعمل في بطنها.
+فوقف حول سريرها حارس مرمى هوكي يصدّ القرص بوسادته، ولاعب تنس يرسل ضربةً لا تردّ.
+وإلى جانب السرير قناة صغيرة سدّتها علبة غراء أبيض انسكبت فيها.
+فأخذت الإبرة تعود من الأحمر شيئًا فشيئًا.
+فقالت الممرّضة لوسي: «هؤلاء الثلاثة آمنون معك يا جدّة، قبل العمل وبعده؛ ولا يفارقك الحارس فجأةً.»
+ثمّ طرق الباب رجل يحمل دواءً يرخي العروق فيسرع الطبل معه، وآخر يحمل دواءً قديمًا يفرغ الفندق من حرّاسه.
+فردّتهما لوسي عن الباب: «لا؛ الأوّل يتعب التاج، والثّاني يسقط الضغط تحت النوم.»
+فنظرت إيديث إلى الإبرة الهادئة وقالت:
+quote: «كلا النوعين من النحل أكل من مكان واحد، لكن صار من ذاك لسع، ومن هذا عسل.»
+source: المثنوي، الكتاب الأول
+explanation:
+An elderly patient with hypertension and coronary disease can safely be given beta-blockers such as atenolol, calcium channel blockers such as nifedipine, and ACE inhibitors such as captopril around abdominal surgery.
+So A, B and D are the answer.
+Hydralazine causes reflex tachycardia, which can provoke ischaemia in coronary disease, and reserpine depletes catecholamines and can cause hypotension under anaesthesia.
+Beta-blockers, in particular, should not be stopped abruptly before an operation.
+
+== 97
+# Inotropes safe in elderly patients with mild postoperative heart failure -> B (dopamine), C (amrinone), D (milrinone), E (dobutamine).
+# A (digitalis compounds) is not: narrow margin of safety in the elderly.
+# a taxi jam being cleared by a coal miner pushing, a windmill blowing the cars along and a Doberman pulling; a pot of purple foxglove turned away at the curb -> dopamine, amrinone and milrinone, dobutamine; not digitalis
+title: For mild postoperative heart failure in the elderly: dopamine, dobutamine, amrinone and milrinone, not digitalis
+titleAr: لقصور القلب الخفيف بعد الجراحة عند المسنّين: الدوبامين والدوبوتامين والأمرينون والميلرينون، لا الديجيتال
+tags: cardiac/perioperative d:pharmacology q:recall l:2
+palette: evening traffic, taxi yellow, coal black, windmill white, Doberman black and tan, foxglove purple
+keywords: congestive heart failure -> a traffic jam of yellow taxis; dopamine -> a coal miner with a lamp on his helmet, pushing a taxi; milrinone -> a tall windmill turning its sails and blowing the taxis along; dobutamine -> a strong Doberman dog pulling a taxi on its leash; digitalis -> a pot of tall purple foxglove flowers turned away at the curb
+must: the miner, the windmill and the Doberman are all MOVING the jam; the foxglove pot is turned AWAY
+scene: A Manhattan avenue at evening, yellow taxis gridlocked bumper to bumper. CENTRE, dominant and brightest: a coal miner with a lamp on his helmet pushes a taxi forward, a strong Doberman pulls another on its leash, and a tall windmill on a rooftop turns its sails and blows the cars along. At the curb a traffic officer turns away a woman carrying a pot of tall purple foxglove flowers.
+
+story:
+في مساء على جادّة في مانهاتن، تلاصقت سيّارات الأجرة الصفراء لا تتحرّك.
+كان ذلك بعد عمل كبير في فندق قديم لرجل مسنّ، والزّحمة خفيفة لكنّها لا تنحلّ.
+فجاء عامل منجم على خوذته مصباح، فأخذ يدفع سيّارةً إلى الأمام.
+وجاء كلب دوبرمان قويّ، فشدّ سيّارةً أخرى بحبله.
+وعلى سطح قريب دارت طاحونة هواء طويلة، فنفخت السيّارات إلى الأمام.
+فأخذت الزحمة تتحرّك شيئًا فشيئًا.
+ثمّ جاءت امرأة تحمل أصيصًا من زهور الديجيتال البنفسجيّة الطويلة، تريد أن تساعد.
+فردّها شرطيّ المرور: «ليس الليلة يا سيّدتي؛ زهورك جميلة، لكنّ الحدّ بين نفعها وأذاها رفيع عند الكبار.»
+فقالت المرأة: «وقد كانت تنفع أبي!»
+فأشار الشرطيّ إلى العامل والكلب والطّاحونة، وقال:
+quote: «كلا الغزالين أكل العشب وشرب الماء، فصار من هذا روث، ومن ذاك مسك خالص.»
+source: المثنوي، الكتاب الأول
+explanation:
+In elderly patients with mild postoperative heart failure, dopamine, dobutamine and the phosphodiesterase inhibitors amrinone and milrinone can be used safely with monitoring.
+So B, C, D and E are the answer.
+Digitalis compounds have a narrow margin of safety in the elderly, whose renal function, potassium and magnesium shift after surgery, so toxicity is common.
+Inotropes are given at the lowest effective dose, with close monitoring of rhythm and blood pressure.
+
+== 98
+# A 72-year-old man with a mechanical valve on warfarin before elective colon resection -> D: stop warfarin 5 days before and start intravenous heparin as the prothrombin time normalizes.
+# the clanking steel robot valve; the helmeted rat leaving it as a calendar shows 5 days, and a fast brown hare taking its place on the robot -> bridging with heparin
+title: Mechanical valve before elective surgery: stop warfarin 5 days ahead and bridge with intravenous heparin
+titleAr: صمام ميكانيكي قبل جراحة مخطّطة: أوقف الوارفارين قبل 5 أيام وجسّر بالهيبارين الوريدي
+tags: cardiac/perioperative d:postoperative q:next-step l:2 x:high-yield
+palette: clean morning light, bright steel, a grey rat in a green helmet, a brown hare
+words: 5
+keywords: mechanical valve -> a clanking little steel robot set in as the valve; warfarin -> a rat in a soldier's helmet walking away; heparin -> a fast brown hare hopping onto the robot in the rat's place
+must: the rat LEAVES as the calendar shows 5 days; the hare takes its place ON the robot, so the robot is never left alone
+scene: The red lobby of the old Brooklyn hotel with a stag's head, in clean morning light; in its floor a clanking little steel robot sits as the valve. CENTRE, dominant and brightest: a rat in a little green soldier's helmet climbs down off the robot and walks away past a calendar showing 5 days, while a fast brown hare hops onto the robot in its place. Through the window, a surgeon waits by a hospital door.
+
+story:
+في صباح نظيف في البهو الأحمر من فندق الأيّل، كان في الأرض روبوت صغير من الفولاذ يقعقع.
+وعلى رأسه جرذ بخوذة جنديّ خضراء لا يفارقه.
+وكان صاحب الفندق العجوز، في الثانية والسّبعين، ينتظر عملًا في أمعائه بعد أيّام.
+فقال الجرّاح: «لا أعمل والجرذ جالس؛ ينزف الجرح.»
+فقالت المديرة بيرل: «ولا نترك الروبوت وحده يومًا واحدًا؛ فإنّه يصدأ ويتجلّط.»
+فنزل الجرذ عن الروبوت قبل العمل بخمسة أيّام، ومضى مارًّا بالتّقويم.
+وما إن نزل حتّى قفز أرنب برّيّ بنّيّ سريع إلى رأس الروبوت مكانه.
+فقالت بيرل: «الأرنب يأتي سريعًا ويذهب سريعًا؛ ننزله قبيل العمل بساعات، ثمّ يعود بعده.»
+فنظر الجرّاح إلى الأرنب على الروبوت مطمئنًّا، فقال الأرنب كأنّه يتكلّم:
+quote: «قال الأرنب: يا رفاق أمهلوني، حتّى تنجوا بحيلتي من البلاء.»
+source: المثنوي، الكتاب الأول
+explanation:
+A mechanical heart valve needs anticoagulation without a gap, because a few days without it can cause valve thrombosis or embolism.
+So warfarin is stopped about 5 days before the operation, and intravenous heparin is started as the prothrombin time returns to normal and stopped shortly before surgery: D is the answer.
+Stopping warfarin on the day of operation leaves the patient anticoagulated, and fresh frozen plasma reverses it only briefly.
+Stopping it with no heparin cover, or replacing it with aspirin, leaves the valve unprotected.
+
+== 99
+# Moderate to severe heart failure after major abdominal surgery -> C (afterload reduction with nitroprusside plus dopamine) and D (close monitoring and milrinone).
+# A (aggressive epinephrine), B (aggressive diuresis with dopamine) and E (intravenous digitalis with furosemide) are not.
+# a taxi jam; a Prussian soldier in a spiked helmet throwing the city's gates wide open while a coal miner pushes the taxis through -> nitroprusside with dopamine
+# beside it, a nurse watching a wall of monitors while a windmill blows the taxis along -> close monitoring with milrinone
+title: Heart failure after major surgery: nitroprusside with dopamine, or milrinone with close monitoring
+titleAr: قصور القلب بعد جراحة كبرى: النيتروبروسيد مع الدوبامين، أو الميلرينون مع مراقبة دقيقة
+tags: cardiac/perioperative d:postoperative q:next-step l:2
+palette: dusk at the city gates, taxi yellow, Prussian blue, coal black, windmill white, monitor green
+keywords: congestive heart failure -> a traffic jam of yellow taxis; nitroprusside -> a Prussian soldier in a spiked helmet throwing the city's gates wide open; dopamine -> a coal miner with a lamp on his helmet pushing the taxis; milrinone -> a tall windmill turning its sails; close monitoring -> a nurse watching a wall of glowing monitors
+must: the Prussian opens the gates AND the miner pushes, together; the windmill turns while the nurse watches the monitors
+scene: The great arched gates of a city wall at the end of a Manhattan avenue, at dusk, a jam of yellow taxis stuck before them. CENTRE, dominant and brightest: a Prussian soldier in a spiked helmet throws the gates wide open while a coal miner with a lamp on his helmet pushes the first taxis through. RIGHT: a tall windmill turns its sails, blowing the cars along, beside a nurse who watches a wall of glowing green monitors.
+
+story:
+عند الغسق، وقفت سيّارات الأجرة الصفراء متلاصقةً أمام بوّابات المدينة العظيمة.
+كان ذلك بعد عمل كبير في بطن رجل في الثامنة والسّتّين، والزّحمة شديدة.
+فجاء جنديّ بروسيّ على رأسه خوذة ذات سنّ، ففتح البوّابات على مصراعيها.
+وفي الوقت نفسه، أخذ عامل المنجم ذو المصباح يدفع السيّارات الأولى عبرها.
+فقال الحارس سام: «الأوّل يوسّع الطريق أمامها، والثّاني يدفعها؛ فتخفّ الزحمة من الجهتين.»
+وإلى اليمين، دارت طاحونة هواء تنفخ السيّارات إلى الأمام، وإلى جانبها ممرّضة تراقب جدارًا من الشاشات المضيئة.
+فقالت الممرّضة لوسي: «وهذه الطاحونة تدفع وتوسّع معًا؛ لكن لا نتركها بلا عين تراقب.»
+فجاء رجل يحمل صاروخ ألعاب ناريّة يريد أن يطلقه في الزحمة، فردّه سام: «هذا يشعل السيّارات ويضيّق البوّابة!»
+فانفرجت الزحمة شيئًا فشيئًا، فقال سام:
+quote: «في كلّ نفس نحن أسرى شرك جديد، ولو صار كلّ منّا بازًا أو عنقاء.»
+source: المثنوي، الكتاب الأول
+explanation:
+In moderate to severe heart failure after a major operation, the aim is to unload the heart and support its contraction while watching it closely.
+Afterload reduction with nitroprusside combined with dopamine does both: statement C is appropriate.
+Close perioperative monitoring with milrinone, an inotrope that also dilates the vessels, is also appropriate: statement D.
+So C and D are the answer.
+Epinephrine alone raises afterload and oxygen demand, aggressive diuresis can drop the cardiac output, and intravenous digitalis is weak and risky after surgery.
+
+== 100
+# Atrial fibrillation with mild hypotension and a rapid ventricular response after partial gastrectomy -> A (correct electrolytes and blood chemistry), B (look for myocardial infarction), D (slow the ventricular response with digitalis).
+# C (intravenous lidocaine) and E (immediate cardioversion) are not.
+# Pinocchio trembling in the upper lobby, the engine room fan racing; a nurse balancing salt and bananas on a scale; an inspector checking the stag over the door for an arrow; purple foxglove calming the engine room's fan -> electrolytes, rule out MI, digitalis
+title: New atrial fibrillation after gastric surgery: correct the electrolytes, look for infarction, slow the rate with digitalis
+titleAr: رجفان أذيني جديد بعد جراحة المعدة: صحّح الأملاح، وابحث عن احتشاء، وأبطئ الاستجابة بالديجيتال
+tags: cardiac/perioperative d:postoperative q:next-step l:2
+palette: hospital night light, foxglove purple, banana yellow, salt white, brown stag
+keywords: atrial fibrillation -> Pinocchio, his long nose growing, trembling all over in the upper glass lobby; electrolytes -> a nurse balancing a salt shaker and a bunch of bananas on a brass scale; myocardial infarction -> an inspector checking the stag's head over the door for an arrow; digitalis -> tall purple foxglove flowers laid beside the engine room fan, slowing it
+must: the fan slows where the foxglove lies; the inspector LOOKS for an arrow in the stag; the scale balances salt and bananas
+scene: The old Brooklyn hotel with a stag's head over its door, seen cut open at night. In the upper glass lobby Pinocchio trembles all over, his nose growing, and below him the engine room's fan races. CENTRE, dominant and brightest: a nurse lays tall purple foxglove flowers beside the racing fan, and it slows. LEFT: another nurse balances a salt shaker and a bunch of bananas on a brass scale. AT THE DOOR: an inspector on a ladder examines the stag's head for an arrow.
+
+story:
+في ليلة بعد عمل في معدة امرأة في الخامسة والسّتّين، أخذ بينوكيو يرتجف في البهو الزجاجيّ من فندق الأيّل.
+فأسرعت مروحة غرفة المحرّكات تحته حتّى كادت تطير، وهبط ضغط الفندق قليلًا.
+فقالت الممرّضة لوسي: «لا نطلق السيّارة بأسلاك الشحن الآن؛ الفندق متعب لكنّه لم يسقط.»
+ثمّ أخذت زميلتها توازن على ميزان نحاسيّ علبة ملح وعنقودًا من الموز.
+وقالت: «كثيرًا ما يوقظ بينوكيو ملح ناقص أو موز قليل.»
+وصعد مفتّش على سلّم عند الباب، يفحص رأس الأيّل بحثًا عن سهم.
+فقال: «إن كان هنا سهم خفيّ، فهو الّذي أيقظه.»
+ووضعت لوسي زهور الديجيتال البنفسجيّة إلى جانب المروحة المسرعة، فأخذت تهدأ دورةً بعد دورة.
+فتنفّس الفندق، وبقي بينوكيو يرتجف وحده فوق، فقالت لوسي:
+quote: «الغضب والشّهوة يجعلان الرجل أحول، ويبدّلان الروح عن استقامتها.»
+source: المثنوي، الكتاب الأول
+explanation:
+New atrial fibrillation after an abdominal operation is often provoked by electrolyte imbalance, hypoxia or ischaemia, so electrolytes and blood chemistry are corrected first: statement A.
+A myocardial infarction must be looked for, because it can present this way: statement B.
+The rapid ventricular response is slowed, for example with digitalis: statement D.
+So A, B and D are the answer.
+Lidocaine has no role in atrial fibrillation, and with only mild hypotension immediate cardioversion is not needed; it is kept for unstable patients.

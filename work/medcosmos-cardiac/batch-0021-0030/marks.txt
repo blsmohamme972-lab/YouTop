@@ -1,0 +1,62 @@
+book: medcosmos-cardiac
+== 21
+1: 25 62 11 | Baby orca pinched by a rope | Coarctation with a large VSD
+2: 12 50 7 | Calendar showing 3 | Repair within 3 months
+3: 72 21 11 | The big orca's sagging, dripping mouth | Aortic incompetence
+4: 92 42 8 | Hourglass half run | It develops over time and progresses
+5: 55 62 11 | Duct-tape tunnel | Patent ductus arteriosus
+6: 82 62 8 | Sign 1/4 | In about a quarter
+7: 55 88 14 | Gridlocked taxis | Infants in heart failure
+8: 55 38 12 | Large hole in the party wall | Large VSD
+question: 8
+answer: 1 3 5 6 7
+== 22
+1: 25 64 13 | Large hole as wide as the orca's mouth | A large VSD is the size of the aortic orifice
+2: 73 25 15 | Red lobby bulging with money | High pulmonary flow enlarges the left atrium
+3: 63 64 5 | Keyhole-sized hole | Small restrictive VSD
+4: 85 60 7 | Gauge calm in the green | Normal pressures and resistance
+5: 48 82 11 | Padlocked operating door | No operation
+6: 86 79 9 | Gauge at 12 in the red | PVR above 10-12 units
+question: 1 3
+answer: 2 4 5 6
+== 24
+1: 27 28 9 | Trident-shaped hatch in the blue lobby floor | Approach through right atrium and tricuspid valve
+2: 28 75 11 | Exhausted crying toddler | Intractable symptoms
+3: 66 70 11 | Calm baby with a dollar pipe | Asymptomatic infant
+4: 12 62 9 | Gauge creeping into the red | Rising pulmonary vascular resistance
+5: 45 87 12 | Sparking branches left untouched | Heart block is uncommon
+6: 87 60 9 | Nearly empty board | Low hospital mortality
+question: 1 5 6
+answer: 2 3 4
+== 25
+1: 50 12 9 | Hole in the brick wall | VSD
+2: 50 25 9 | Orca astride the wall | Overriding aorta
+3: 50 40 9 | Clamp squeezing the dollar pipe | Pulmonary stenosis
+4: 45 57 10 | Walls swollen into thick muscle | Right ventricular hypertrophy
+5: 78 70 10 | Clock block that does not fit | ASD is not one of the four
+6: 18 40 8 | The number 4 | Four features
+question: 1 2 3 4 6
+answer: 5
+== 28
+1: 21 41 8 | Beer stein propping the duct-tape tunnel | PGE1 keeps the duct open
+2: 40 45 10 | Hose from the flipper to the dollar pipe | Systemic-to-pulmonary (BT) shunt
+3: 87 57 10 | Tailor patching the pipe's ring and the hole | Complete repair, transannular patch
+4: 55 55 9 | Man with a leather belt | Pulmonary artery banding
+5: 75 25 13 | Smiling pink Tetris piece | Acyanotic tetralogy
+question: 1 2 3
+answer: 4 5
+== 29
+1: 45 45 7 | Dollar pipe welded shut | Pulmonary atresia
+2: 35 52 14 | Large blue room with a big trident | Good RV and tricuspid size
+3: 77 56 9 | Tiny blue room with a small trident | Small RV and tricuspid valve
+4: 77 66 6 | Worried Mr Green | The outcome depends on RV size
+question: 1
+answer: 2 3 4
+== 30
+1: 45 28 18 | Orca and dollar pipe both from the blue room | Double-outlet right ventricle
+2: 53 48 6 | Hole in the party wall | A VSD is usually present
+3: 17 46 8 | Left hotel: clamp on the pipe, hole under orca | Subaortic VSD with pulmonary stenosis
+4: 62 52 10 | Cherries tossed into the hole under the pipe | Taussig-Bing: subpulmonary VSD
+5: 88 55 12 | Mirror showing the swapped hotel | Behaves like transposition
+question: 1
+answer: 2 3 4 5

@@ -1,0 +1,1905 @@
+{
+ "lessons": [
+  {
+   "id": "medcos-q0101",
+   "title": "Cardiopulmonary bypass sets off three cascades at once: coagulation, fibrinolysis and complement",
+   "titleAr": "المجازة القلبية الرئوية تطلق ثلاث سلاسل معًا: التخثّر وحلّ الفبرين والمتمّمة",
+   "tags": [
+    "cardiac/cpb",
+    "d:physiology",
+    "q:recall",
+    "l:2"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في صباح رماديّ، وقفت إلى جانب فندق الأيّل شاحنة كبيرة ذات مضخّة دوّارة.",
+       "t": 0,
+       "spot": {
+        "x": 0.85,
+        "y": 0.7,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فوصل العمّال خراطيمها بمدخنة الجناح الأزرق وبالحوت الكبير، لتحمل عن الفندق عمله ساعةً.",
+       "t": 7851,
+       "spot": {
+        "x": 0.55,
+        "y": 0.15,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "فلمّا دارت بكرات المضخّة، انفجرت من جدار الفندق ثلاثة شلّالات في لحظة واحدة.",
+       "t": 16679,
+       "spot": {
+        "x": 0.45,
+        "y": 0.45,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "الأوّل يتحوّل وهو يسقط هلامًا أحمر غليظًا.",
+       "t": 24576,
+       "spot": {
+        "x": 0.3,
+        "y": 0.5,
+        "r": 0.13
+       }
+      },
+      {
+       "text": "والثّاني يذيب شبكةً من الخيوط مشدودةً أمامه.",
+       "t": 29303,
+       "spot": {
+        "x": 0.48,
+        "y": 0.4,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "وفي الثالث، وقف نادل بسترة بيضاء يرمي باقات الورد مع الماء ويصيح بالمديح.",
+       "t": 34030,
+       "spot": {
+        "x": 0.65,
+        "y": 0.45,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فقال الحارس سام: «ما بال الجدار يفيض هكذا؟ لم يلمسه أحد!»",
+       "t": 41759,
+       "spot": {
+        "x": 0.45,
+        "y": 0.45,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "فقالت المديرة بيرل: «لمسته الخراطيم الغريبة؛ كلّ ما يمرّ فيها يوقظ الشلّالات الثلاثة معًا.»",
+       "t": 48585,
+       "spot": {
+        "x": 0.75,
+        "y": 0.6,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "ثمّ قالت: «الجلط، وحلّ الخيوط، والمديح الصاخب؛ ومنها يأتي نزف ما بعد العمل وتورّمه.»",
+       "t": 57536,
+       "spot": {
+        "x": 0.45,
+        "y": 0.45,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "فنظر سام إلى الشلّالات الثلاثة وقال:",
+       "t": 67166,
+       "spot": {
+        "x": 0.45,
+        "y": 0.45,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "«كان الفيل في بيت مظلم، جاء به الهنود ليعرضوه.»",
+       "quote": "جلال الدين الرومي، المثنوي، الكتاب الثالث",
+       "t": 71846
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0101-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "Cardiopulmonary bypass exposes the blood to foreign surfaces and to shear, which activates the humoral amplification system.",
+       "t": 0,
+       "spot": {
+        "x": 0.8,
+        "y": 0.6,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "This system includes the coagulation cascade, the fibrinolytic cascade and complement, together with the kallikrein-kinin system.",
+       "t": 8550,
+       "spot": {
+        "x": 0.45,
+        "y": 0.45,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "So A, B and C are all included: E is the answer.",
+       "t": 17264,
+       "spot": {
+        "x": 0.45,
+        "y": 0.45,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "Their activation drives the bleeding, the capillary leak and the inflammatory response seen after bypass.",
+       "t": 21172,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.45
+       }
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0101-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "The damaging effects of cardiopulmonary bypass are, to a large degree, due to activation of the humoral amplification system. The humoral amplification system includes which of the following?",
+     "options": [
+      "The coagulation cascade.",
+      "The fibrinolytic cascade.",
+      "Complement activation.",
+      "A and C.",
+      "A, B, and C."
+     ],
+     "answer": 4,
+     "explain": "Cardiopulmonary bypass exposes the blood to foreign surfaces and to shear, which activates the humoral amplification system. This system includes the coagulation cascade, the fibrinolytic cascade and complement, together with the kallikrein-kinin system. So A, B and C are all included: E is the answer. Their activation drives the bleeding, the capillary leak and the inflammatory response seen after bypass.",
+     "lang": "en",
+     "source": "MedCosmos Cardiac, Q101",
+     "marks": [
+      1
+     ],
+     "answerMarks": [
+      2,
+      3,
+      4
+     ]
+    }
+   ],
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0101.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.85,
+      "y": 0.68,
+      "r": 0.12
+     },
+     "what": "Roller-pump truck plugged into the hotel",
+     "means": "Cardiopulmonary bypass"
+    },
+    {
+     "spot": {
+      "x": 0.3,
+      "y": 0.5,
+      "r": 0.11
+     },
+     "what": "Waterfall turning to red jelly",
+     "means": "Coagulation cascade"
+    },
+    {
+     "spot": {
+      "x": 0.48,
+      "y": 0.4,
+      "r": 0.1
+     },
+     "what": "Waterfall dissolving a net of threads",
+     "means": "Fibrinolytic cascade"
+    },
+    {
+     "spot": {
+      "x": 0.65,
+      "y": 0.45,
+      "r": 0.11
+     },
+     "what": "Waiter throwing bouquets",
+     "means": "Complement activation"
+    }
+   ]
+  },
+  {
+   "id": "medcos-q0104",
+   "title": "Intra-aortic balloon counterpulsation: less afterload, more coronary flow, lower end-diastolic pressure",
+   "titleAr": "المضخّة البالونية داخل الأبهر: حِمل لاحق أقلّ، وجريان تاجيّ أكثر، وضغط انبساطي أدنى",
+   "tags": [
+    "cardiac/heart-failure",
+    "d:physiology",
+    "q:recall",
+    "l:2",
+    "x:high-yield"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في ليلة هادئة، كانت مروحة غرفة المحرّكات الحمراء متعبةً، والماء في الغرفة مرتفع فوق علامته القديمة.",
+       "t": 0,
+       "spot": {
+        "x": 0.4,
+        "y": 0.75,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "فأدخلت الممرّضة لوسي في بطن الحوت بالونًا طويلًا ورديًّا كالنّقانق.",
+       "t": 8815,
+       "spot": {
+        "x": 0.45,
+        "y": 0.4,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فإذا استراحت المروحة، انتفخ البالون في بطن الحوت، فدفع الماء راجعًا إلى تاج الحرّيّة.",
+       "t": 14215,
+       "spot": {
+        "x": 0.5,
+        "y": 0.25,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "فامتلأ التاج الأخضر وتوهّجت أشعّته، يشرب في راحة المروحة ما لم يكن يشرب.",
+       "t": 21530,
+       "spot": {
+        "x": 0.5,
+        "y": 0.1,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "وقبيل أن تدفع المروحة، انكمش البالون فجأةً، فصار بطن الحوت فارغًا.",
+       "t": 28146,
+       "spot": {
+        "x": 0.8,
+        "y": 0.62,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فدفعت المروحة الماء إلى حوت فارغ بلا عناء.",
+       "t": 34288,
+       "spot": {
+        "x": 0.8,
+        "y": 0.7,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فقالت لوسي: «انظر يا سام: الماء في الغرفة ينزل تحت علامته القديمة.»",
+       "t": 38180,
+       "spot": {
+        "x": 0.4,
+        "y": 0.8,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فقال سام: «ثلاث ببالون واحد: دفع أسهل، وتاج يشرب، وغرفة تفرغ.»",
+       "t": 44587,
+       "spot": {
+        "x": 0.5,
+        "y": 0.45,
+        "r": 0.4
+       }
+      },
+      {
+       "text": "ثمّ قال ضاحكًا: «أمّا ما يدخل الغرفة من فوق، فلا يغيّره البالون كثيرًا.»",
+       "t": 53370,
+       "spot": {
+        "x": 0.5,
+        "y": 0.45,
+        "r": 0.4
+       }
+      },
+      {
+       "text": "فنظرت لوسي إلى البالون ينتفخ وينكمش كالموج وقالت:",
+       "t": 60789,
+       "spot": {
+        "x": 0.45,
+        "y": 0.4,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«حركة الزبد من البحر ليلًا ونهارًا؛ ترى الزبد ولا ترى البحر، يا للعجب!»",
+       "quote": "جلال الدين الرومي، المثنوي، الكتاب الثالث",
+       "t": 66084
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0104-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "The intra-aortic balloon inflates in diastole and deflates just before systole.",
+       "t": 0,
+       "spot": {
+        "x": 0.6,
+        "y": 0.45,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "Deflation lowers the pressure the ventricle ejects against, reducing afterload: statement B is true.",
+       "t": 5793,
+       "spot": {
+        "x": 0.8,
+        "y": 0.7,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "Inflation in diastole raises the diastolic aortic pressure and so the coronary blood flow: statement C is true.",
+       "t": 12755,
+       "spot": {
+        "x": 0.5,
+        "y": 0.1,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "With easier emptying, left ventricular end-diastolic pressure falls: statement D is true.",
+       "t": 20433,
+       "spot": {
+        "x": 0.4,
+        "y": 0.8,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "So B, C and D are the answer.",
+       "t": 27017,
+       "spot": {
+        "x": 0.5,
+        "y": 0.45,
+        "r": 0.4
+       }
+      },
+      {
+       "text": "Preload reduction is not a direct effect of the balloon.",
+       "t": 30306,
+       "spot": {
+        "x": 0.4,
+        "y": 0.77,
+        "r": 0.12
+       }
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0104-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which of the following are physiologic benefits of intra-aortic balloon counterpulsation to the ischemic ventricle?",
+     "options": [
+      "Preload reduction.",
+      "Afterload reduction.",
+      "Coronary blood flow enhancement.",
+      "Decreased ventricular end-diastolic pressure."
+     ],
+     "answer": 1,
+     "explain": "The intra-aortic balloon inflates in diastole and deflates just before systole. Deflation lowers the pressure the ventricle ejects against, reducing afterload: statement B is true. Inflation in diastole raises the diastolic aortic pressure and so the coronary blood flow: statement C is true. With easier emptying, left ventricular end-diastolic pressure falls: statement D is true. So B, C and D are the answer. Preload reduction is not a direct effect of the balloon.",
+     "lang": "en",
+     "source": "MedCosmos Cardiac, Q104",
+     "answers": [
+      1,
+      2,
+      3
+     ],
+     "marks": [
+      1
+     ],
+     "answerMarks": [
+      2,
+      3,
+      4
+     ]
+    }
+   ],
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0104.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.45,
+      "y": 0.4,
+      "r": 0.13
+     },
+     "what": "Pink sausage balloon in the orca",
+     "means": "Intra-aortic balloon pump"
+    },
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.1,
+      "r": 0.14
+     },
+     "what": "Crown filling with water",
+     "means": "More coronary blood flow"
+    },
+    {
+     "spot": {
+      "x": 0.8,
+      "y": 0.7,
+      "r": 0.1
+     },
+     "what": "Balloon shrinking before the fan pushes",
+     "means": "Afterload reduction"
+    },
+    {
+     "spot": {
+      "x": 0.4,
+      "y": 0.8,
+      "r": 0.12
+     },
+     "what": "Water level sinking in the red room",
+     "means": "Lower end-diastolic pressure"
+    }
+   ]
+  },
+  {
+   "id": "medcos-q0105",
+   "title": "Indications for an intra-aortic balloon pump: refractory angina, papillary muscle rupture, failure after cardiac surgery, failed PTCA",
+   "titleAr": "دواعي المضخّة البالونية داخل الأبهر: ذبحة معنّدة، تمزّق العضلة الحليمية، فشل البطين بعد جراحة القلب، فشل التوسيع بالبالون",
+   "tags": [
+    "cardiac/heart-failure",
+    "d:indications",
+    "q:recall",
+    "l:2"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في مساء في ممرّ إلى جانب فندق الأيّل، كانت لوسي تدخل بالون النقانق الورديّ في بطن الحوت.",
+       "t": 0,
+       "spot": {
+        "x": 0.4,
+        "y": 0.28,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "وعلى طول الجدار، انتظر أربعة دورهم.",
+       "t": 8340,
+       "spot": {
+        "x": 0.5,
+        "y": 0.6,
+        "r": 0.4
+       }
+      },
+      {
+       "text": "الأوّل رجل يجثم على صدره ملاك حجريّ، وإلى جانبه كومة من قناني الحبوب لم تزحزحه.",
+       "t": 12794,
+       "spot": {
+        "x": 0.25,
+        "y": 0.55,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "والثّاني بهو أحمر انكسر فيه العمود الّذي يشدّ أوتار القيثارة، فأخذ تاج الأسقف يخفق رخوًا.",
+       "t": 21419,
+       "spot": {
+        "x": 0.72,
+        "y": 0.45,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "والثّالث سفينة أغلقت مؤخّرتها لتوّها، ومروحة غرفتها الحمراء تتعثّر.",
+       "t": 30143,
+       "spot": {
+        "x": 0.22,
+        "y": 0.82,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "والرّابع رجل على تاجه الإسفنجيّ زنبرك مكسور عالق في أحد الأشعّة.",
+       "t": 37855,
+       "spot": {
+        "x": 0.68,
+        "y": 0.8,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فقالت لوسي: «هؤلاء الأربعة يأخذون البالون أوّلًا؛ يحملهم حتّى يشفوا أو يصلوا إلى العمل.»",
+       "t": 44351,
+       "spot": {
+        "x": 0.35,
+        "y": 0.25,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فجاء خامس على تاجه قار في جذره الأيسر، وهو هادئ مرتاح.",
+       "t": 52360,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.45
+       }
+      },
+      {
+       "text": "فقالت لوسي: «أنت يصلحك الملفوف قريبًا؛ أمّا البالون فلمن يتهاوى.»",
+       "t": 58426,
+       "spot": {
+        "x": 0.4,
+        "y": 0.28,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "ثمّ نظرت إلى الأربعة وقالت:",
+       "t": 64709,
+       "spot": {
+        "x": 0.5,
+        "y": 0.6,
+        "r": 0.4
+       }
+      },
+      {
+       "text": "«عين الحسّ مثل كفّ اليد فحسب، وليس للكفّ أن يحيط به كلّه.»",
+       "quote": "جلال الدين الرومي، المثنوي، الكتاب الثالث",
+       "t": 68610
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0105-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "The intra-aortic balloon pump supports an ischaemic or failing ventricle as a bridge to recovery or to operation.",
+       "t": 0,
+       "spot": {
+        "x": 0.4,
+        "y": 0.28,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "Its major indications include angina refractory to medical treatment, acute rupture of a papillary muscle, ventricular failure after cardiac surgery, and failed PTCA.",
+       "t": 7184,
+       "spot": {
+        "x": 0.5,
+        "y": 0.6,
+        "r": 0.4
+       }
+      },
+      {
+       "text": "So A, B, D and E are the answer.",
+       "t": 19683,
+       "spot": {
+        "x": 0.5,
+        "y": 0.6,
+        "r": 0.4
+       }
+      },
+      {
+       "text": "A left main coronary lesion alone, without instability, is not in itself an indication in this book, though the pump is often used in unstable patients with left main disease.",
+       "t": 22274,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.45
+       }
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0105-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which of the following are the major indications for instituting intra-aortic balloon pumping?",
+     "options": [
+      "Medically refractory angina.",
+      "Acute papillary muscle rupture.",
+      "Left main coronary artery lesion.",
+      "Ventricular failure after cardiac surgery.",
+      "PTCA failure."
+     ],
+     "answer": 0,
+     "explain": "The intra-aortic balloon pump supports an ischaemic or failing ventricle as a bridge to recovery or to operation. Its major indications include angina refractory to medical treatment, acute rupture of a papillary muscle, ventricular failure after cardiac surgery, and failed PTCA. So A, B, D and E are the answer. A left main coronary lesion alone, without instability, is not in itself an indication in this book, though the pump is often used in unstable patients with left main disease.",
+     "lang": "en",
+     "source": "MedCosmos Cardiac, Q105",
+     "answers": [
+      0,
+      1,
+      3,
+      4
+     ],
+     "marks": [
+      1
+     ],
+     "answerMarks": [
+      2,
+      3,
+      4,
+      5
+     ]
+    }
+   ],
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0105.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.45,
+      "y": 0.25,
+      "r": 0.12
+     },
+     "what": "Pink sausage balloon slipped into the orca",
+     "means": "Intra-aortic balloon pump"
+    },
+    {
+     "spot": {
+      "x": 0.25,
+      "y": 0.55,
+      "r": 0.13
+     },
+     "what": "Angel unmoved by the pills",
+     "means": "Medically refractory angina"
+    },
+    {
+     "spot": {
+      "x": 0.75,
+      "y": 0.5,
+      "r": 0.12
+     },
+     "what": "Snapped harp post, mitre flapping",
+     "means": "Acute papillary muscle rupture"
+    },
+    {
+     "spot": {
+      "x": 0.22,
+      "y": 0.82,
+      "r": 0.12
+     },
+     "what": "Ship just closed, fan failing",
+     "means": "Ventricular failure after cardiac surgery"
+    },
+    {
+     "spot": {
+      "x": 0.75,
+      "y": 0.75,
+      "r": 0.09
+     },
+     "what": "Snapped Slinky in the crown",
+     "means": "Failed PTCA"
+    }
+   ]
+  },
+  {
+   "id": "medcos-q0106",
+   "title": "The most frequent complication of the intra-aortic balloon pump is limb ischaemia",
+   "titleAr": "أشيع مضاعفات المضخّة البالونية داخل الأبهر نقص التروية في الطرف",
+   "tags": [
+    "cardiac/heart-failure",
+    "d:complications",
+    "q:recall",
+    "l:1",
+    "x:high-yield"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في غرفة باردة في مانهاتن، رقد رجل على سريره، وأنبوب ورديّ مضيء يدخل من أعلى فخذه الأيمن.",
+       "t": 0,
+       "spot": {
+        "x": 0.35,
+        "y": 0.5,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "كان الأنبوب يصعد في جسمه حتّى يبلغ بالون النقانق في بطن الحوت.",
+       "t": 8538,
+       "spot": {
+        "x": 0.4,
+        "y": 0.3,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "وفي الليل، أخذت ساقه اليمنى تبرد شيئًا فشيئًا.",
+       "t": 13812,
+       "spot": {
+        "x": 0.25,
+        "y": 0.7,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فلمّا أصبح، كانت الساق تحت الأنبوب شاحبةً زرقاء، يكسوها صقيع أبيض، وفي أصابعها جليد.",
+       "t": 18345,
+       "spot": {
+        "x": 0.22,
+        "y": 0.85,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "أمّا ساقه اليسرى فكانت دافئةً ورديّة.",
+       "t": 26984,
+       "spot": {
+        "x": 0.7,
+        "y": 0.7,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فصاحت الممرّضة لوسي: «ساقه! الأنبوب يسدّ عليها طريقها!»",
+       "t": 30668,
+       "spot": {
+        "x": 0.25,
+        "y": 0.7,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فقال الطبيب: «هذا أكثر ما يصيب أصحاب البالون؛ أكثر من الصاعقة والقرصان والجلطة في الحوت.»",
+       "t": 36616,
+       "spot": {
+        "x": 0.3,
+        "y": 0.6,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "ثمّ قال: «ويكثر عند النساء، وأصحاب السكّر، ومن ضاقت شرايين سيقانهم من قبل.»",
+       "t": 44993,
+       "spot": {
+        "x": 0.3,
+        "y": 0.6,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "فنقلوا الأنبوب، فعاد الدفء إلى الساق رويدًا، فقالت لوسي:",
+       "t": 52848,
+       "spot": {
+        "x": 0.3,
+        "y": 0.48,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "«نحن كالسّفن يصطدم بعضنا ببعض؛ عيوننا مظلمة، ونحن في الماء الصافي.»",
+       "quote": "جلال الدين الرومي، المثنوي، الكتاب الثالث",
+       "t": 59177
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0106-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "The most frequent complication of intra-aortic balloon counterpulsation is ischaemia of the leg used for insertion, from the catheter obstructing the femoral or iliac artery.",
+       "t": 0,
+       "spot": {
+        "x": 0.28,
+        "y": 0.6,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "So B is the answer.",
+       "t": 10361,
+       "spot": {
+        "x": 0.28,
+        "y": 0.6,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "The risk is higher in women, in diabetics and in patients with peripheral vascular disease.",
+       "t": 12473,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.45
+       }
+      },
+      {
+       "text": "Stroke, arrhythmias and aortic thrombosis are much less common.",
+       "t": 18282,
+       "spot": {
+        "x": 0.6,
+        "y": 0.2,
+        "r": 0.2
+       }
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0106-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which of the following are the most frequent complications of intra-aortic balloon counterpulsation?",
+     "options": [
+      "Stroke.",
+      "Limb ischemia.",
+      "Arrhythmias.",
+      "Aortic thrombosis."
+     ],
+     "answer": 1,
+     "explain": "The most frequent complication of intra-aortic balloon counterpulsation is ischaemia of the leg used for insertion, from the catheter obstructing the femoral or iliac artery. So B is the answer. The risk is higher in women, in diabetics and in patients with peripheral vascular disease. Stroke, arrhythmias and aortic thrombosis are much less common.",
+     "lang": "en",
+     "source": "MedCosmos Cardiac, Q106",
+     "marks": [
+      1,
+      2
+     ],
+     "answerMarks": [
+      3,
+      4
+     ]
+    }
+   ],
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0106.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.6,
+      "y": 0.2,
+      "r": 0.14
+     },
+     "what": "Sausage balloon in the orca",
+     "means": "Intra-aortic balloon pump"
+    },
+    {
+     "spot": {
+      "x": 0.3,
+      "y": 0.48,
+      "r": 0.08
+     },
+     "what": "Tube entering at the groin",
+     "means": "Femoral insertion"
+    },
+    {
+     "spot": {
+      "x": 0.25,
+      "y": 0.72,
+      "r": 0.13
+     },
+     "what": "Frozen blue leg",
+     "means": "Limb ischaemia, the commonest complication"
+    },
+    {
+     "spot": {
+      "x": 0.72,
+      "y": 0.7,
+      "r": 0.11
+     },
+     "what": "Warm pink leg",
+     "means": "The other leg is fine"
+    }
+   ]
+  },
+  {
+   "id": "medcos-q0107",
+   "title": "Implanted artificial hearts receive power through the skin by inductive coupling",
+   "titleAr": "القلوب الصناعية المزروعة تتلقّى الطاقة عبر الجلد بالاقتران الحثّي",
+   "tags": [
+    "cardiac/heart-failure",
+    "d:technique",
+    "q:recall",
+    "l:3"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في ورشة ساعاتيّ في الويست فيليج، جلس رجل من الصفيح على كرسيّ.",
+       "t": 0,
+       "spot": {
+        "x": 0.45,
+        "y": 0.35,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "وفي صدره قلب من التروس والنّوابض، يدقّ دقًّا منتظمًا.",
+       "t": 5782,
+       "spot": {
+        "x": 0.7,
+        "y": 0.45,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "لكنّ القلب يحتاج إلى طاقة لا تنقطع، ولا يريد الساعاتيّ أن يثقب صدره بسلك.",
+       "t": 11352,
+       "spot": {
+        "x": 0.5,
+        "y": 0.45,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "فوضع على صدر الرجل من الخارج لفيفةً نحاسيّةً مضيئة.",
+       "t": 18431,
+       "spot": {
+        "x": 0.3,
+        "y": 0.45,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "وكانت خلف الصفيح من الداخل لفيفة مثلها تمامًا.",
+       "t": 23554,
+       "spot": {
+        "x": 0.55,
+        "y": 0.45,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "فأخذت حلقات من الضوء الأزرق تقفز بين اللفيفتين عبر المعدن، بلا سلك بينهما.",
+       "t": 28185,
+       "spot": {
+        "x": 0.42,
+        "y": 0.45,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فقال الساعاتيّ: «الطاقة تعبر كما يحرّك المغناطيس إبرةً خلف ورقة؛ والجلد يبقى سليمًا مغلقًا.»",
+       "t": 35482,
+       "spot": {
+        "x": 0.42,
+        "y": 0.45,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فسأله الرجل الصفيحيّ: «ولم لا تمدّ لي سلكًا وتستريح؟»",
+       "t": 45138,
+       "spot": {
+        "x": 0.5,
+        "y": 0.15,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فقال الساعاتيّ: «كلّ ثقب في الجلد باب للعفن؛ وأنت تريد أن تعيش طويلًا.»",
+       "t": 50651,
+       "spot": {
+        "x": 0.42,
+        "y": 0.45,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فدقّ القلب المعدنيّ منتظمًا، فقال الساعاتيّ:",
+       "t": 58389,
+       "spot": {
+        "x": 0.7,
+        "y": 0.45,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«يا أخي، الحكاية كالمكيال، والمعنى فيها مثل الحبّة.»",
+       "quote": "جلال الدين الرومي، المثنوي، الكتاب الثاني",
+       "t": 63611
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0107-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "A permanently implanted artificial heart cannot have wires crossing the skin without a constant risk of infection.",
+       "t": 0,
+       "spot": {
+        "x": 0.7,
+        "y": 0.45,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "Energy is therefore transmitted through the intact skin by inductive coupling: an external coil induces a current in an implanted coil.",
+       "t": 7260,
+       "spot": {
+        "x": 0.42,
+        "y": 0.45,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "So B is the answer.",
+       "t": 16154,
+       "spot": {
+        "x": 0.42,
+        "y": 0.45,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "Infrared, thermionic and chromatographic methods play no part in power transmission.",
+       "t": 18018,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.45
+       }
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0107-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Permanent artificial hearts are being developed that are electrically powered. Wireless techniques are used to transmit the electrical energy across the body wall using the principle of:",
+     "options": [
+      "Infrared sensor.",
+      "Inductive coupling.",
+      "Thermionic coupling.",
+      "High-pressure liquid chromatography (HPLC).",
+      "Infrared spectroscopy."
+     ],
+     "answer": 1,
+     "explain": "A permanently implanted artificial heart cannot have wires crossing the skin without a constant risk of infection. Energy is therefore transmitted through the intact skin by inductive coupling: an external coil induces a current in an implanted coil. So B is the answer. Infrared, thermionic and chromatographic methods play no part in power transmission.",
+     "lang": "en",
+     "source": "MedCosmos Cardiac, Q107",
+     "marks": [
+      1
+     ],
+     "answerMarks": [
+      2,
+      3,
+      4
+     ]
+    }
+   ],
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0107.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.45,
+      "y": 0.35,
+      "r": 0.18
+     },
+     "what": "Tin man with a clockwork heart",
+     "means": "Implanted artificial heart"
+    },
+    {
+     "spot": {
+      "x": 0.3,
+      "y": 0.45,
+      "r": 0.09
+     },
+     "what": "Copper coil outside the chest",
+     "means": "External coil"
+    },
+    {
+     "spot": {
+      "x": 0.55,
+      "y": 0.45,
+      "r": 0.09
+     },
+     "what": "Matching coil inside",
+     "means": "Implanted coil"
+    },
+    {
+     "spot": {
+      "x": 0.42,
+      "y": 0.45,
+      "r": 0.08
+     },
+     "what": "Rings of light, no wire",
+     "means": "Inductive coupling"
+    }
+   ]
+  },
+  {
+   "id": "medcos-q0108",
+   "title": "The pneumatic artificial heart: support for over a year, infection and embolism, and an implant much like a transplant",
+   "titleAr": "القلب الصناعي الهوائي: دعم لأكثر من عام، والعدوى والصمّات، وزرع يشبه زرع القلب",
+   "tags": [
+    "cardiac/heart-failure",
+    "d:complications",
+    "q:recall",
+    "l:3"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في غرفة في مانهاتن، كان رجل الصفيح يمشي إلى جانب عربة كبيرة فيها ضاغط هواء.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.35
+       }
+      },
+      {
+       "text": "ومن صدره خرجت خراطيم هواء غليظة رماديّة، تمرّ من جلده إلى العربة.",
+       "t": 6772,
+       "spot": {
+        "x": 0.55,
+        "y": 0.5,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "وعلى الحائط تقويم قطعت منه أكثر من اثنتي عشرة ورقة؛ فقد عاش به أكثر من عام.",
+       "t": 12919,
+       "spot": {
+        "x": 0.9,
+        "y": 0.2,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "لكن عند مدخل الخراطيم في جلده، نبتت أوراق لعب عليها بروكّلي وطحلب.",
+       "t": 19960,
+       "spot": {
+        "x": 0.28,
+        "y": 0.38,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "ومن تحت صفيحة صدره، تدحرجت بعض كرات البولينغ السوداء.",
+       "t": 26107,
+       "spot": {
+        "x": 0.45,
+        "y": 0.72,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "وفي الخلف، كان جرّاحان يثبّتان قلبًا من الصفيح على خطوط من الطبشور، هي نفسها الّتي يثبّت عليها القلب الجديد المنقول.",
+       "t": 31180,
+       "spot": {
+        "x": 0.6,
+        "y": 0.2,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "فقال رجل الصفيح: «يا ليتني أبقى هكذا أبدًا!»",
+       "t": 40664,
+       "spot": {
+        "x": 0.3,
+        "y": 0.17,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فقالت الممرّضة لوسي: «ليس هذا بالبيت الدائم؛ العفن عند الخراطيم، والكرات الهاربة، لا تترك أحدًا طويلًا.»",
+       "t": 45332,
+       "spot": {
+        "x": 0.35,
+        "y": 0.55,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "ثمّ قالت: «وليس أفضل جسر إلى القلب الجديد أيضًا.»",
+       "t": 55580,
+       "spot": {
+        "x": 0.6,
+        "y": 0.2,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "فنظر رجل الصفيح إلى العربة الّتي يجرّها، فقالت لوسي:",
+       "t": 60476,
+       "spot": {
+        "x": 0.8,
+        "y": 0.6,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "«يأخذ العاقل حبّة المعنى، ولا ينظر إلى المكيال إن تغيّر.»",
+       "quote": "جلال الدين الرومي، المثنوي، الكتاب الثاني",
+       "t": 66405
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0108-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "The pneumatic artificial heart is driven by air through drivelines that cross the chest wall to an external console.",
+       "t": 0,
+       "spot": {
+        "x": 0.65,
+        "y": 0.55,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "It has supported patients for more than a year, and it is implanted with techniques much like those of heart transplantation: statements A and E are true.",
+       "t": 7016,
+       "spot": {
+        "x": 0.75,
+        "y": 0.2,
+        "r": 0.22
+       }
+      },
+      {
+       "text": "Infection along the drivelines and thromboembolism are its main complications: statement B is true.",
+       "t": 17575,
+       "spot": {
+        "x": 0.35,
+        "y": 0.55,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "So A, B and E are the answer.",
+       "t": 24774,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.45
+       }
+      },
+      {
+       "text": "Because of these complications it is not an ideal permanent heart, and in the book's view not an ideal bridge to transplantation either.",
+       "t": 27754,
+       "spot": {
+        "x": 0.25,
+        "y": 0.45,
+        "r": 0.2
+       }
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0108-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "The following statements about the pneumatic artificial heart is/are correct:",
+     "options": [
+      "It can support the circulation for over 1 year.",
+      "It may be complicated by infection or thromboembolism.",
+      "When further developed, it will be an ideal permanent heart substitute.",
+      "It is an ideal “bridge” for transplantation.",
+      "It can be implanted using techniques similar to those used for heart transplantation."
+     ],
+     "answer": 0,
+     "explain": "The pneumatic artificial heart is driven by air through drivelines that cross the chest wall to an external console. It has supported patients for more than a year, and it is implanted with techniques much like those of heart transplantation: statements A and E are true. Infection along the drivelines and thromboembolism are its main complications: statement B is true. So A, B and E are the answer. Because of these complications it is not an ideal permanent heart, and in the book's view not an ideal bridge to transplantation either.",
+     "lang": "en",
+     "source": "MedCosmos Cardiac, Q108",
+     "answers": [
+      0,
+      1,
+      4
+     ],
+     "marks": [
+      1
+     ],
+     "answerMarks": [
+      2,
+      3,
+      4,
+      5
+     ]
+    }
+   ],
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0108.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.3,
+      "y": 0.45,
+      "r": 0.15
+     },
+     "what": "Tin man with air hoses to a compressor",
+     "means": "Pneumatic artificial heart"
+    },
+    {
+     "spot": {
+      "x": 0.9,
+      "y": 0.2,
+      "r": 0.1
+     },
+     "what": "Calendar with over twelve pages torn off",
+     "means": "Support for over a year"
+    },
+    {
+     "spot": {
+      "x": 0.28,
+      "y": 0.38,
+      "r": 0.09
+     },
+     "what": "Cards with broccoli at the hose entry",
+     "means": "Infection"
+    },
+    {
+     "spot": {
+      "x": 0.45,
+      "y": 0.72,
+      "r": 0.1
+     },
+     "what": "Bowling balls rolling out",
+     "means": "Thromboembolism"
+    },
+    {
+     "spot": {
+      "x": 0.6,
+      "y": 0.2,
+      "r": 0.13
+     },
+     "what": "Surgeons fitting the heart on chalk marks",
+     "means": "Implanted much like a transplant"
+    }
+   ]
+  },
+  {
+   "id": "medcos-q0109",
+   "title": "Univentricular heart: the 50% rule, a shunt for the cyanotic infant, heart failure without pulmonary stenosis, and the Fontan as the final repair",
+   "titleAr": "القلب وحيد البطين: قاعدة الخمسين بالمئة، وتحويلة للرضيع المزرقّ، وقصور القلب دون تضيّق رئوي، وفونتان إصلاحًا نهائيًّا",
+   "tags": [
+    "cardiac/congenital",
+    "d:pathology",
+    "q:recall",
+    "l:3"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في عصر دافئ، فتح فندق الأيّل كبيت دمية، فإذا طابقه الأرضيّ غرفة محرّكات واحدة كبيرة حمراء.",
+       "t": 0,
+       "spot": {
+        "x": 0.4,
+        "y": 0.75,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "لا جدار فاصل فيها، وبابا البهوين كلاهما ينفتحان إليها.",
+       "t": 9842,
+       "spot": {
+        "x": 0.4,
+        "y": 0.75,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "فمدّ المفتّش شريطه تحت أحد البابين في السقف، وقال: «لتحسب غرفةً، يجب أن يقع نصف الباب على الأقلّ فوقها؛ وهذه تأخذ البابين كليهما.»",
+       "t": 15701,
+       "spot": {
+        "x": 0.45,
+        "y": 0.65,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "وقال: «وأكثر ما تكون هذه الغرفة الوحيدة حمراء، لا زرقاء.»",
+       "t": 29225,
+       "spot": {
+        "x": 0.4,
+        "y": 0.75,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "وفي البهو، حملت أمّ رضيعها، وشفتاه زرقاوان زاهيتان.",
+       "t": 35514,
+       "spot": {
+        "x": 0.18,
+        "y": 0.48,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فجاء السبّاك توني، ووصل خرطومًا من زعنفة الحوت إلى أنبوب الدولارات.",
+       "t": 41725,
+       "spot": {
+        "x": 0.45,
+        "y": 0.35,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "وقال: «الصغير ينقصه المال؛ هذا الخرطوم يعطيه ما يكفي حتّى يكبر.»",
+       "t": 48443,
+       "spot": {
+        "x": 0.35,
+        "y": 0.45,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "وفي فندق آخر إلى اليمين، كان أنبوب المال مفتوحًا على سعته، وسيّارات الأجرة متلاصقة خارجه.",
+       "t": 55016,
+       "spot": {
+        "x": 0.85,
+        "y": 0.7,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "ومن النافذة لاحت النافورة الحجريّة في الفناء، تنتظر أن تأخذ ما تحمله المدخنة كلّه إلى المال رأسًا.",
+       "t": 64248,
+       "spot": {
+        "x": 0.62,
+        "y": 0.45,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "فقال المفتّش وهو يطوي شريطه:",
+       "t": 73525,
+       "spot": {
+        "x": 0.4,
+        "y": 0.8,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«لم يعلموا هذا من عماهم: أنّ بينهما فرقًا لا نهاية له.»",
+       "quote": "جلال الدين الرومي، المثنوي، الكتاب الأول",
+       "t": 77633
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0109-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "In a univentricular heart both atrioventricular valves, or a common valve, open into one ventricular chamber.",
+       "t": 0,
+       "spot": {
+        "x": 0.4,
+        "y": 0.75,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "To be classed as a ventricle, a chamber must receive at least half of an inlet valve: statement B is true.",
+       "t": 7954,
+       "spot": {
+        "x": 0.45,
+        "y": 0.65,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "The most common form is double-inlet left ventricle, not right, so statement A is false.",
+       "t": 15226,
+       "spot": {
+        "x": 0.4,
+        "y": 0.75,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "A cyanotic infant, with too little pulmonary blood flow, is a good candidate for a Blalock-Taussig shunt: statement C is true.",
+       "t": 21516,
+       "spot": {
+        "x": 0.3,
+        "y": 0.42,
+        "r": 0.22
+       }
+      },
+      {
+       "text": "Without pulmonary stenosis, pulmonary flow is excessive and the infant presents with congestive heart failure: statement E is true.",
+       "t": 30605,
+       "spot": {
+        "x": 0.85,
+        "y": 0.7,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "The best final repair is the Fontan, which sends all caval blood straight to the pulmonary arteries: statement D is true, so B, C, D and E are the answer.",
+       "t": 39520,
+       "spot": {
+        "x": 0.62,
+        "y": 0.45,
+        "r": 0.1
+       }
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0109-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "A cyanotic infant has echocardiographic evidence of a univentricular heart (UVH). The following is/are true:",
+     "options": [
+      "The most common form of the disorder is a double-inlet right ventricle",
+      "To be classified as a ventricle, the chamber must receive at least half of an inlet valve",
+      "This infant is a good candidate for a Blalock-Taussig shunt",
+      "Optimal correction of UVH diverts all vena caval blood flow into the pulmonary arteries (Fontan procedure)",
+      "In the absence of pulmonic stenosis, UVH usually presents as congestive heart failure"
+     ],
+     "answer": 1,
+     "explain": "In a univentricular heart both atrioventricular valves, or a common valve, open into one ventricular chamber. To be classed as a ventricle, a chamber must receive at least half of an inlet valve: statement B is true. The most common form is double-inlet left ventricle, not right, so statement A is false. A cyanotic infant, with too little pulmonary blood flow, is a good candidate for a Blalock-Taussig shunt: statement C is true. Without pulmonary stenosis, pulmonary flow is excessive and the infant presents with congestive heart failure: statement E is true. The best final repair is the Fontan, which sends all caval blood straight to the pulmonary arteries: statement D is true, so B, C, D and E are the answer.",
+     "lang": "en",
+     "source": "MedCosmos Cardiac, Q109",
+     "answers": [
+      1,
+      2,
+      3,
+      4
+     ],
+     "marks": [
+      1
+     ],
+     "answerMarks": [
+      2,
+      3,
+      4,
+      5,
+      6
+     ]
+    }
+   ],
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0109.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.4,
+      "y": 0.77,
+      "r": 0.18
+     },
+     "what": "One big red engine room, no party wall",
+     "means": "Univentricular heart (usually double-inlet left ventricle)"
+    },
+    {
+     "spot": {
+      "x": 0.45,
+      "y": 0.62,
+      "r": 0.09
+     },
+     "what": "Tape under the ceiling door",
+     "means": "At least half of an inlet valve"
+    },
+    {
+     "spot": {
+      "x": 0.18,
+      "y": 0.48,
+      "r": 0.09
+     },
+     "what": "Baby with blue lips",
+     "means": "Cyanotic infant"
+    },
+    {
+     "spot": {
+      "x": 0.45,
+      "y": 0.35,
+      "r": 0.11
+     },
+     "what": "Hose from the flipper to the dollar pipe",
+     "means": "Blalock-Taussig shunt"
+    },
+    {
+     "spot": {
+      "x": 0.86,
+      "y": 0.72,
+      "r": 0.11
+     },
+     "what": "Open dollar pipe and gridlocked taxis",
+     "means": "No pulmonary stenosis: heart failure"
+    },
+    {
+     "spot": {
+      "x": 0.62,
+      "y": 0.45,
+      "r": 0.08
+     },
+     "what": "Fountain in the courtyard",
+     "means": "Fontan as the final repair"
+    }
+   ]
+  },
+  {
+   "id": "medcos-q0110",
+   "title": "Coarctation: bicuspid aortic valve, rib notching, and in infancy a pink upper and blue lower body",
+   "titleAr": "تضيّق برزخ الأبهر: صمام أبهري ثنائي الشرف، وتثلّم الأضلاع، وعند الرضيع جسم علوي ورديّ وسفلي أزرق",
+   "tags": [
+    "cardiac/congenital",
+    "d:diagnosis",
+    "q:vignette",
+    "l:2",
+    "x:high-yield"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في عصر متأخّر أمام فندق الأيّل، طفا حوت كبير من البالونات يخنق خصره حبل بعد زعنفته اليسرى.",
+       "t": 0,
+       "spot": {
+        "x": 0.55,
+        "y": 0.25,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "وفوق الحبل عدّاد كبير يتوهّج في عمق الأحمر.",
+       "t": 8390,
+       "spot": {
+        "x": 0.65,
+        "y": 0.15,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "وإلى اليمين، صبيّ في التاسعة ساقاه شاحبتان، والطّبيب يتحسّس أعلى فخذه فلا يجد نبضًا.",
+       "t": 12620,
+       "spot": {
+        "x": 0.8,
+        "y": 0.7,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "فقال الطبيب: «الضغط عال فوق الحبل، والسّاقان لا تأخذان نصيبهما.»",
+       "t": 20708,
+       "spot": {
+        "x": 0.72,
+        "y": 0.45,
+        "r": 0.35
+       }
+      },
+      {
+       "text": "وفي فم الحوت علقت درّاجة، عجلتاها كشفتين اثنتين.",
+       "t": 27349,
+       "spot": {
+        "x": 0.23,
+        "y": 0.25,
+        "r": 0.13
+       }
+      },
+      {
+       "text": "فقال الطبيب: «وهذه أكثر ما يأتي مع الحبل: فم بشفتين لا بثلاث.»",
+       "t": 32479,
+       "spot": {
+        "x": 0.23,
+        "y": 0.25,
+        "r": 0.13
+       }
+      },
+      {
+       "text": "وعلى واجهة الفندق، كانت الأسيجة الحديديّة مثلّمةً حيث تمرّ بها كروم غليظة تحمل الماء حول الحبل.",
+       "t": 39368,
+       "spot": {
+        "x": 0.55,
+        "y": 0.55,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "وإلى اليسار، حملت الممرّضة لوسي رضيعًا ورديًّا فوق خصره، أزرق تحته.",
+       "t": 48037,
+       "spot": {
+        "x": 0.25,
+        "y": 0.7,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فقالت: «هكذا يأتي الحبل أحيانًا في الصغر: نصفه من الحوت ونصفه من نفق الشريط.»",
+       "t": 54761,
+       "spot": {
+        "x": 0.25,
+        "y": 0.65,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "ثمّ نظر الطبيب إلى الحبل وقال:",
+       "t": 61579,
+       "spot": {
+        "x": 0.6,
+        "y": 0.3,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«ضحك الناس من قياسه، إذ ظنّ صاحب الخرقة مثل نفسه.»",
+       "quote": "جلال الدين الرومي، المثنوي، الكتاب الأول",
+       "t": 65250
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0110-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "The most common associated anomaly in coarctation of the aorta is a bicuspid aortic valve: statement A is true.",
+       "t": 0,
+       "spot": {
+        "x": 0.23,
+        "y": 0.25,
+        "r": 0.13
+       }
+      },
+      {
+       "text": "In an older child, enlarged intercostal collateral arteries erode the lower borders of the ribs, so the chest film shows rib notching: statement B is true.",
+       "t": 8204,
+       "spot": {
+        "x": 0.55,
+        "y": 0.55,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "In infancy, with a patent ductus supplying the lower body, the upper body can be pink and the lower body cyanotic: statement D is true.",
+       "t": 18877,
+       "spot": {
+        "x": 0.25,
+        "y": 0.7,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "So A, B and D are the answer.",
+       "t": 27642,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.45
+       }
+      },
+      {
+       "text": "Coarctation is a congenital narrowing, not an inflammatory aortitis, and paradoxical hypertension after repair is a reflex response, not a sign of residual stenosis.",
+       "t": 30932,
+       "spot": {
+        "x": 0.6,
+        "y": 0.3,
+        "r": 0.15
+       }
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0110-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "A 9-year-old boy with hypertension has no palpable femoral pulses. Coarctation of the aorta is suspected. The following is/are true:",
+     "options": [
+      "The most common associated abnormality is a bicuspid aortic valve",
+      "Chest radiograph is likely to show rib notching",
+      "The etiology is felt to be secondary to an inflammatory aortitis",
+      "In infancy, coarctation may present with a pink upper body and cyanotic lower body",
+      "“Paradoxical hypertension” seen after operative repair indicates residual stenosis from incomplete correction"
+     ],
+     "answer": 0,
+     "explain": "The most common associated anomaly in coarctation of the aorta is a bicuspid aortic valve: statement A is true. In an older child, enlarged intercostal collateral arteries erode the lower borders of the ribs, so the chest film shows rib notching: statement B is true. In infancy, with a patent ductus supplying the lower body, the upper body can be pink and the lower body cyanotic: statement D is true. So A, B and D are the answer. Coarctation is a congenital narrowing, not an inflammatory aortitis, and paradoxical hypertension after repair is a reflex response, not a sign of residual stenosis.",
+     "lang": "en",
+     "source": "MedCosmos Cardiac, Q110",
+     "answers": [
+      0,
+      1,
+      3
+     ],
+     "marks": [
+      1,
+      2,
+      3
+     ],
+     "answerMarks": [
+      4,
+      5,
+      6
+     ]
+    }
+   ],
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0110.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.6,
+      "y": 0.3,
+      "r": 0.1
+     },
+     "what": "Rope pinching the orca",
+     "means": "Coarctation"
+    },
+    {
+     "spot": {
+      "x": 0.65,
+      "y": 0.15,
+      "r": 0.08
+     },
+     "what": "Gauge in the red above the rope",
+     "means": "Hypertension in the upper body"
+    },
+    {
+     "spot": {
+      "x": 0.85,
+      "y": 0.72,
+      "r": 0.11
+     },
+     "what": "Pale legs, no pulse at the groin",
+     "means": "Absent femoral pulses"
+    },
+    {
+     "spot": {
+      "x": 0.23,
+      "y": 0.25,
+      "r": 0.11
+     },
+     "what": "Bicycle wedged in the orca's mouth",
+     "means": "Bicuspid aortic valve"
+    },
+    {
+     "spot": {
+      "x": 0.55,
+      "y": 0.55,
+      "r": 0.11
+     },
+     "what": "Railings notched by thick vines",
+     "means": "Rib notching"
+    },
+    {
+     "spot": {
+      "x": 0.25,
+      "y": 0.7,
+      "r": 0.11
+     },
+     "what": "Baby pink above, blue below",
+     "means": "Differential cyanosis in infancy"
+    }
+   ]
+  }
+ ]
+}
