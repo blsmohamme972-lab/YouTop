@@ -1,0 +1,10 @@
+book: medcosmos-cardiac
+== 38
+1: 20 45 12 | Orca rising from the blue room | Aorta from the right ventricle
+2: 85 50 11 | Dollar pipe rising from the red room | Pulmonary artery from the left ventricle
+3: 50 70 8 | Solid lower party wall | Intact ventricular septum
+4: 47 26 10 | Party balloon yanked through the upper wall | Balloon atrial septostomy
+5: 52 52 10 | Beer stein propping the tunnel | PGE1
+6: 80 12 10 | Water tower filled to the brim | Intravenous fluid
+question: 1 2 3
+answer: 4 5 6

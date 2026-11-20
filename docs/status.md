@@ -19,16 +19,17 @@ Updated 2026-11-19 (evening). Whoever works on YouTop next: read `CLAUDE.md`, th
   ends: while it runs, never build, set pictures, spots or marks, or publish. Start make as a round's last step.
 - **Unpublished work** lives in `.content-work/work/medcosmos-cardiac/batch-*/` (batch, voice, spots, marks) and is
   backed up on the work branch under `drafts/medcosmos-cardiac/` until it is published to `content`.
-- **Where things stand (2026-11-20, 07:30 UTC):** texts and voices for 1-110 done. **83 lessons PUBLISHED** (complete
-  only: picture, voice, spots, marks), published with `publish.py <F> --complete-only` where F links only
-  `books/medcosmos-cardiac` and `work` (scratchpad `pub-mc/`).
-  - Still waiting for pictures: 2, 23, 26, 27, 47, 49, 52, 54, 56, 62, 70, 73, 80, 86-96, 99, 102, 103. Their texts,
-    voices are ready; when a picture arrives: `batch.py pictures`, look at the grid, add spots/marks lines to the
-    batch's spots.txt/marks.txt, apply, look, publish complete-only.
-  - Picture folder note: the owner uploaded two files named 22.png; the clearer one was used.
+- **Where things stand (2026-11-20, 09:30 UTC):** texts and voices for 1-110 done. **89 lessons PUBLISHED** (complete
+  only), published with `publish.py <scratchpad>/pub-mc --complete-only` (pub-mc links only `books/medcosmos-cardiac`
+  and `work`).
+  - **The owner is redrawing all pictures (2026-11-20)** with the same prompts and deleted the old ones from the Drive
+    folder. New pictures are set with `batch.py pictures medcosmos-cardiac <folder> --replace b` (a published media name
+    never changes), then NEW spots and marks go in each batch's `spots-v2.txt` / `marks-v2.txt`. Done: 2-4, 6-9,
+    11-15, 17-20, 22-24, 26-30, 32-37, 39-44, 46-50. Still on the old pictures: 1, 5, 10, 16, 21, 25, 31, 38, 45 and
+    51-110. The owner uploaded the ox picture (49) also as 38 and 45; those two keep their old pictures for now.
+  - Never had a picture: 52, 54, 56, 62, 70, 73, 80, 86-96, 99, 102, 103.
   - NEXT writing: 111-156 (when fewer than 20 prompts wait).
-  - Key fixes: Q56 (`option:`), Q79 (`key: C`), Q82 (`asks:`, four questions).
-  - Recurring symbols: 124 approved; see `content/symbols.md`.
+  - New symbols must join two or three layers (sound, meaning, place); `symbols.py audit` rejects fewer.
 
 ## NEW BOOK (2026-11-19): MedCosmos Cardiac, 156 questions — New York City, quotations of Rumi
 
