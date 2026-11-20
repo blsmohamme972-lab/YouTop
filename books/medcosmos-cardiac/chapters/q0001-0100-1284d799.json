@@ -1,0 +1,4392 @@
+{
+ "lessons": [
+  {
+   "id": "medcos-q0001",
+   "title": "CPR: open-chest massage is far more effective than closed-chest compression",
+   "titleAr": "الإنعاش القلبي الرئوي: التدليك على القلب المكشوف أنجع بكثير من الضغط على الصدر المغلق",
+   "tags": [
+    "cardiac/perioperative",
+    "d:physiology",
+    "q:recall",
+    "l:1"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في ليلة ماطرة من ليالي ساحة التايمز، والأضواء تسيل على الإسفلت ألوانًا، سقط سائح على الرصيف كما تسقط ورقة عن غصنها.",
+       "t": 0,
+       "spot": {
+        "x": 0.3,
+        "y": 0.8,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "وكان على رأسه تاج أخضر من الإسفنج، تاج تمثال الحرّيّة الّذي يباع للزّائرين، وقد انسدّت أشواكه السبع بقار أسود يقطر.",
+       "t": 11333,
+       "spot": {
+        "x": 0.22,
+        "y": 0.72,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فجثا الشرطيّ دانيال على غطاء حديديّ مغلق في الشارع، وراح يضغطه بذراعين مستقيمتين، ضغطةً بعد ضغطة، كمن يوقظ نائمًا.",
+       "t": 22801,
+       "spot": {
+        "x": 0.22,
+        "y": 0.32,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "فلم يخرج من ثقوب الغطاء إلّا خيط ماء واهن، يزحف إلى عدّاد على صنبور الحريق، فلا تتجاوز إبرته خمسة عشر.",
+       "t": 34786,
+       "spot": {
+        "x": 0.18,
+        "y": 0.52,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "أمّا زميلته روزا، فقد خلعت الغطاء عن فوّهة البئر ورمته جانبًا، ومدّت يديها العاريتين إلى الجوف.",
+       "t": 45224,
+       "spot": {
+        "x": 0.65,
+        "y": 0.5,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "وقبضت على منفاخ مطّاطيّ أحمر عظيم، تعصره بكفّيها عصرًا مباشرًا، فانبثقت من البئر نافورة فضّيّة شقّت الليل.",
+       "t": 54705,
+       "spot": {
+        "x": 0.6,
+        "y": 0.4,
+        "r": 0.28
+       }
+      },
+      {
+       "text": "وانحنت النافورة على السائح الساقط، فرفع رأسه، وسعل، وفتح عينيه على الأضواء.",
+       "t": 65720,
+       "spot": {
+        "x": 0.3,
+        "y": 0.75,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "فصاح دانيال وهو يلهث فوق غطائه المغلق: «يداي على الحديد ويداك على الجوهر، فكيف نكون سواء؟»",
+       "t": 73966,
+       "spot": {
+        "x": 0.22,
+        "y": 0.28,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "وكانت على عمود النور لافتة كتب عليها: ثلاثون، ستّون؛ فقالت روزا: «ثلاثون من كلّ مئة ينهضون، وقد يصيرون ستّين إذا جاءت اليد في وقتها.»",
+       "t": 82783,
+       "spot": {
+        "x": 0.85,
+        "y": 0.13,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "ثمّ نظر السائح المبلّل إلى السماء الّتي تلمع فيها اللافتات، وتذكّر بيتًا كان جدّه يردّده:",
+       "t": 96091,
+       "spot": {
+        "x": 0.25,
+        "y": 0.78,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«متّ جمادًا فصرت نباتًا، ومتّ نباتًا فصرت حيوانًا، ومتّ حيوانًا فصرت إنسانًا؛ فممّ أخاف؟ ومتى نقصت بالموت؟»",
+       "quote": "جلال الدين الرومي، المثنوي، الكتاب الثالث",
+       "t": 105293
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0001-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "Sudden cardiac death is most often caused by ischaemic heart disease, with the coronary arteries narrowed by atheroma.",
+       "t": 0,
+       "spot": {
+        "x": 0.22,
+        "y": 0.72,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "Standard closed-chest compression is weak: it generally provides less than 15% of normal coronary and cerebral blood flow.",
+       "t": 7701,
+       "spot": {
+        "x": 0.2,
+        "y": 0.45,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "Open-chest cardiac massage, squeezing the heart directly by hand, produces far more flow and pressure than closed-chest compression.",
+       "t": 16470,
+       "spot": {
+        "x": 0.68,
+        "y": 0.52,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "So the statement that closed-chest massage is as effective as open-chest massage is not true, and it is the answer.",
+       "t": 25042,
+       "spot": {
+        "x": 0.45,
+        "y": 0.45,
+        "r": 0.4
+       }
+      },
+      {
+       "text": "In the best circumstances, such as a witnessed collapse with early defibrillation, out-of-hospital resuscitation may succeed in 30% to 60%, so that statement is true.",
+       "t": 32245,
+       "spot": {
+        "x": 0.85,
+        "y": 0.13,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "Open massage is now used mainly for arrest after cardiac surgery or penetrating chest trauma, when the chest is already open or must be opened.",
+       "t": 44246,
+       "spot": {
+        "x": 0.68,
+        "y": 0.55,
+        "r": 0.15
+       }
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0001-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which is not true of cardiopulmonary resuscitation (CPR)?",
+     "options": [
+      "Closed chest massage is as effective as open chest massage.",
+      "The success rate for out-of-hospital resuscitation may be as high as 30% to 60%.",
+      "The most common cause of sudden death is ischemic heart disease.",
+      "Standard chest massage generally provides less than 15% of normal coronary and cerebral blood flow."
+     ],
+     "answer": 0,
+     "explain": "Sudden cardiac death is most often caused by ischaemic heart disease, with the coronary arteries narrowed by atheroma. Standard closed-chest compression is weak: it generally provides less than 15% of normal coronary and cerebral blood flow. Open-chest cardiac massage, squeezing the heart directly by hand, produces far more flow and pressure than closed-chest compression. So the statement that closed-chest massage is as effective as open-chest massage is not true, and it is the answer. In the best circumstances, such as a witnessed collapse with early defibrillation, out-of-hospital resuscitation may succeed in 30% to 60%, so that statement is true. Open massage is now used mainly for arrest after cardiac surgery or penetrating chest trauma, when the chest is already open or must be opened.",
+     "lang": "en",
+     "source": "MedCosmos Cardiac, Q1",
+     "marks": [
+      1,
+      2,
+      6
+     ],
+     "answerMarks": [
+      4,
+      5
+     ]
+    }
+   ],
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0001.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.22,
+      "y": 0.72,
+      "r": 0.11
+     },
+     "what": "Green Liberty crown clogged with tar",
+     "means": "Ischaemic heart disease: commonest cause of sudden death"
+    },
+    {
+     "spot": {
+      "x": 0.22,
+      "y": 0.33,
+      "r": 0.12
+     },
+     "what": "Officer pushing a closed manhole cover",
+     "means": "Closed-chest compression"
+    },
+    {
+     "spot": {
+      "x": 0.18,
+      "y": 0.52,
+      "r": 0.08
+     },
+     "what": "Gauge reading 15",
+     "means": "Closed compression: under 15% of normal coronary and cerebral flow"
+    },
+    {
+     "spot": {
+      "x": 0.68,
+      "y": 0.52,
+      "r": 0.13
+     },
+     "what": "Officer squeezing the pump in the open manhole",
+     "means": "Open-chest massage"
+    },
+    {
+     "spot": {
+      "x": 0.55,
+      "y": 0.3,
+      "r": 0.15
+     },
+     "what": "The huge fountain",
+     "means": "Open massage gives far more flow: \"as effective\" is not true"
+    },
+    {
+     "spot": {
+      "x": 0.85,
+      "y": 0.13,
+      "r": 0.08
+     },
+     "what": "Street sign 30-60",
+     "means": "Out-of-hospital success may reach 30-60%"
+    }
+   ]
+  },
+  {
+   "id": "medcos-q0003",
+   "title": "Asystole: calcium is the least effective treatment",
+   "titleAr": "توقّف القلب اللاانقباضي: الكالسيوم أضعف العلاجات نفعًا",
+   "tags": [
+    "cardiac/perioperative",
+    "d:pharmacology",
+    "q:recall",
+    "l:2"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في كنيسة عظيمة على الجادّة الخامسة، بعد أن انصرف المصلّون، وجدت الأخت أغنيس ممدودةً على أرض الممرّ، ساكنةً كخطّ مستقيم.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.75,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "وكان على البلاط خطّ أبيض طويل لا ينحني، كأنّ يدًا رسمته تحت جسدها رسمًا.",
+       "t": 11238,
+       "spot": {
+        "x": 0.47,
+        "y": 0.92,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "فجاء قارع الطبل الصغير من فرقة الكنيسة، وجعل يقرع إلى جانبها قرعًا منتظمًا، فارتعشت أصابعها على إيقاعه.",
+       "t": 18634,
+       "spot": {
+        "x": 0.2,
+        "y": 0.5,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "وأشعل الحارس توم صاروخًا من الألعاب الناريّة، فانفجر فوقها ضوءًا أحمر، فرفّت أجفانها.",
+       "t": 28361,
+       "spot": {
+        "x": 0.38,
+        "y": 0.1,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "ورفعت المغنّية دولوريس كأسًا ذهبيّةً من كؤوس الجوائز، ونقرتها فرنّت، فتحرّكت قدم الأخت.",
+       "t": 36389,
+       "spot": {
+        "x": 0.78,
+        "y": 0.2,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "ثمّ أقبل عامل الصيانة بيرت بعلبة كبيرة من غراء أبيض كالطّباشير، وقال: «هذا يشدّ كلّ شيء يا جماعة!»",
+       "t": 44684,
+       "spot": {
+        "x": 0.72,
+        "y": 0.45,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "فسكبه على يديها، فجمد عليهما قشرةً بيضاء صلبة، ولم يتحرّك فيهما شيء.",
+       "t": 54472,
+       "spot": {
+        "x": 0.52,
+        "y": 0.62,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فصاح به الطبّال: «طبلي حرّك أصابعها، وصاروخ توم فتح عينيها، وكأس دولوريس أيقظت قدمها، وأنت يا بيرت جمّدت يديها!»",
+       "t": 61970,
+       "spot": {
+        "x": 0.2,
+        "y": 0.4,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فخجل بيرت، وأنزل علبته، ورجع إلى آخر الصفوف.",
+       "t": 71817,
+       "spot": {
+        "x": 0.72,
+        "y": 0.4,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فركعت دولوريس عند رأس الأخت، وهمست لها بما كانت تحبّه من شعر الروميّ:",
+       "t": 77262,
+       "spot": {
+        "x": 0.5,
+        "y": 0.58,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "«لقد خلق كلّ امرئ لعمل، ووضع الميل إليه في قلبه.»",
+       "quote": "جلال الدين الرومي، المثنوي، الكتاب الثالث",
+       "t": 84303
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0003-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "Asystole is the absence of any electrical activity of the heart, a flat line, and it has the worst outlook of all arrest rhythms.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.72,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "In the book's era an external pacemaker was tried in asystole, especially when P waves were still present; current guidelines no longer advise routine pacing.",
+       "t": 8692,
+       "spot": {
+        "x": 0.2,
+        "y": 0.5,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "Epinephrine, 1 mg intravenously (10 ml of 1:10,000), is the main drug, repeated every 3 to 5 minutes.",
+       "t": 19096,
+       "spot": {
+        "x": 0.38,
+        "y": 0.1,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "Atropine was also given to block vagal tone in asystole, although it has since been dropped from routine use.",
+       "t": 28580,
+       "spot": {
+        "x": 0.78,
+        "y": 0.18,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "Intravenous calcium has no benefit in asystole and is given only for hyperkalaemia, hypocalcaemia or calcium-channel-blocker overdose, so calcium gluconate is the least effective treatment and the answer.",
+       "t": 35613,
+       "spot": {
+        "x": 0.52,
+        "y": 0.62,
+        "r": 0.12
+       }
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0003-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which treatment would be least effective for asystole?",
+     "options": [
+      "External pacemaker.",
+      "Intravenous epinephrine, 10 ml. of 1:10,000.",
+      "Intravenous calcium gluconate, 10 ml. of 10% solution.",
+      "Intravenous atropine, 0.5 mg."
+     ],
+     "answer": 2,
+     "explain": "Asystole is the absence of any electrical activity of the heart, a flat line, and it has the worst outlook of all arrest rhythms. In the book's era an external pacemaker was tried in asystole, especially when P waves were still present; current guidelines no longer advise routine pacing. Epinephrine, 1 mg intravenously (10 ml of 1:10,000), is the main drug, repeated every 3 to 5 minutes. Atropine was also given to block vagal tone in asystole, although it has since been dropped from routine use. Intravenous calcium has no benefit in asystole and is given only for hyperkalaemia, hypocalcaemia or calcium-channel-blocker overdose, so calcium gluconate is the least effective treatment and the answer.",
+     "lang": "en",
+     "source": "MedCosmos Cardiac, Q3",
+     "marks": [
+      1,
+      2,
+      3,
+      4
+     ],
+     "answerMarks": [
+      5,
+      6
+     ]
+    }
+   ],
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0003.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.72,
+      "r": 0.22
+     },
+     "what": "Nun lying still on a flat white line",
+     "means": "Asystole (\"a sister\"): a flat line"
+    },
+    {
+     "spot": {
+      "x": 0.2,
+      "y": 0.5,
+      "r": 0.13
+     },
+     "what": "Drummer beating, her fingers twitch",
+     "means": "External pacemaker"
+    },
+    {
+     "spot": {
+      "x": 0.38,
+      "y": 0.1,
+      "r": 0.13
+     },
+     "what": "Firework rocket bursting",
+     "means": "Epinephrine (adrenaline)"
+    },
+    {
+     "spot": {
+      "x": 0.78,
+      "y": 0.18,
+      "r": 0.09
+     },
+     "what": "Gold trophy rung",
+     "means": "Atropine (\"trophy\")"
+    },
+    {
+     "spot": {
+      "x": 0.52,
+      "y": 0.62,
+      "r": 0.11
+     },
+     "what": "Chalky glue hardening on her hands",
+     "means": "Calcium gluconate: no benefit in asystole"
+    },
+    {
+     "spot": {
+      "x": 0.72,
+      "y": 0.42,
+      "r": 0.14
+     },
+     "what": "Janitor with the glue can",
+     "means": "Calcium only for hyperkalaemia or hypocalcaemia"
+    }
+   ]
+  },
+  {
+   "id": "medcos-q0005",
+   "title": "Penetrating cardiac injury in the operating room: median sternotomy",
+   "titleAr": "جرح القلب النافذ في غرفة العمليات: شقّ القصّ الناصف",
+   "tags": [
+    "cardiac/other",
+    "d:technique",
+    "q:recall",
+    "l:1"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "على رصيف من أرصفة نهر هدسن، عند شروق بارد، رست قاطرة بحريّة حمراء، وفي جوف محرّكها ماء يتدفّق من ثقب لا يرى.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.35,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "فجاء البحّارة يطلبون الثقب: فتح أحدهم كوّةً صغيرةً في جنبها الأيسر، فلم ير إلّا الظلام.",
+       "t": 11910,
+       "spot": {
+        "x": 0.12,
+        "y": 0.38,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "وفتح آخر كوّةً في جنبها الأيمن، فلم تبلغ يده إلّا نصف المحرّك.",
+       "t": 20967,
+       "spot": {
+        "x": 0.88,
+        "y": 0.38,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "وشقّ ثالث جنبيها معًا شقًّا طويلًا معوجًّا، فتعب وأتعبها، والماء ما زال يتدفّق.",
+       "t": 27656,
+       "spot": {
+        "x": 0.22,
+        "y": 0.52,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "ودفع رابع غوّاصةً صفراء صغيرةً تحت بطنها، فنقرت ثقبًا ضيّقًا لا يتّسع لأكثر من نظرة.",
+       "t": 36342,
+       "spot": {
+        "x": 0.75,
+        "y": 0.85,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "ثمّ أقبل اللحّام العجوز ميغيل، ونظر طويلًا إلى مؤخّرة القاطرة، فرأى عليها خطًّا أبيض يقسمها نصفين.",
+       "t": 45203,
+       "spot": {
+        "x": 0.5,
+        "y": 0.6,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فشقّها على ذلك الخطّ من أعلاها إلى أسفلها، شقًّا مستقيمًا في وسطها تمامًا.",
+       "t": 55366,
+       "spot": {
+        "x": 0.5,
+        "y": 0.4,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "فانفتح النصفان كبابين، وبان جوف المحرّك كلّه في ضوء الصباح، والثّقب في متناول اليد.",
+       "t": 62774,
+       "spot": {
+        "x": 0.55,
+        "y": 0.35,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "فقال ميغيل للبحّارة وهو يمدّ يده إلى الثقب: «من الجنب ترون جنبًا، ومن الوسط ترون كلّ شيء.»",
+       "t": 71335,
+       "spot": {
+        "x": 0.57,
+        "y": 0.38,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "ثمّ ابتسم وهو يسدّ الثقب، وقال كلمةً سمعها من شيخ في قونية:",
+       "t": 81016,
+       "spot": {
+        "x": 0.57,
+        "y": 0.38,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«الفكر ما يفتح طريقًا، والطّريق ما يقبل منه ملك.»",
+       "quote": "جلال الدين الرومي، المثنوي، الكتاب الثاني",
+       "t": 88097
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0005-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "In the operating room the surgeon repairing a penetrating cardiac wound needs exposure of the whole heart and the great vessels.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.35,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "Median sternotomy, splitting the sternum down the midline, exposes all the chambers, the great vessels and the coronary arteries, and allows cardiopulmonary bypass: it is the answer.",
+       "t": 7616,
+       "spot": {
+        "x": 0.5,
+        "y": 0.35,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "A left anterior thoracotomy is the incision for resuscitation in the emergency department, but it exposes the right side of the heart poorly.",
+       "t": 20021,
+       "spot": {
+        "x": 0.12,
+        "y": 0.38,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "A right anterior thoracotomy reaches only the right side, and a bilateral thoracotomy gives wide access at the price of a larger and more painful wound.",
+       "t": 29038,
+       "spot": {
+        "x": 0.55,
+        "y": 0.45,
+        "r": 0.45
+       }
+      },
+      {
+       "text": "A subxiphoid window is used to diagnose or drain blood in the pericardium, not to repair the heart.",
+       "t": 38916,
+       "spot": {
+        "x": 0.75,
+        "y": 0.85,
+        "r": 0.15
+       }
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0005-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "The most useful incision in the operating room for patients with penetrating cardiac injury is:",
+     "options": [
+      "Left anterior thoracotomy.",
+      "Right anterior thoracotomy.",
+      "Bilateral anterior thoracotomy.",
+      "Median sternotomy.",
+      "Subxyphoid."
+     ],
+     "answer": 3,
+     "explain": "In the operating room the surgeon repairing a penetrating cardiac wound needs exposure of the whole heart and the great vessels. Median sternotomy, splitting the sternum down the midline, exposes all the chambers, the great vessels and the coronary arteries, and allows cardiopulmonary bypass: it is the answer. A left anterior thoracotomy is the incision for resuscitation in the emergency department, but it exposes the right side of the heart poorly. A right anterior thoracotomy reaches only the right side, and a bilateral thoracotomy gives wide access at the price of a larger and more painful wound. A subxiphoid window is used to diagnose or drain blood in the pericardium, not to repair the heart.",
+     "lang": "en",
+     "source": "MedCosmos Cardiac, Q5",
+     "marks": [
+      2,
+      3,
+      4,
+      5,
+      6
+     ],
+     "answerMarks": [
+      1
+     ]
+    }
+   ],
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0005.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.35,
+      "r": 0.18
+     },
+     "what": "Stern opened down its white centre line",
+     "means": "Median sternotomy: the whole heart exposed"
+    },
+    {
+     "spot": {
+      "x": 0.12,
+      "y": 0.38,
+      "r": 0.11
+     },
+     "what": "Hatch in the left side",
+     "means": "Left anterior thoracotomy: for resuscitation"
+    },
+    {
+     "spot": {
+      "x": 0.88,
+      "y": 0.38,
+      "r": 0.11
+     },
+     "what": "Hatch in the right side",
+     "means": "Right anterior thoracotomy: right side only"
+    },
+    {
+     "spot": {
+      "x": 0.22,
+      "y": 0.5,
+      "r": 0.13
+     },
+     "what": "Long gash across both sides",
+     "means": "Bilateral thoracotomy: a bigger wound"
+    },
+    {
+     "spot": {
+      "x": 0.75,
+      "y": 0.85,
+      "r": 0.13
+     },
+     "what": "Small yellow submarine below",
+     "means": "Subxiphoid window: diagnosis and drainage only"
+    },
+    {
+     "spot": {
+      "x": 0.57,
+      "y": 0.38,
+      "r": 0.09
+     },
+     "what": "Hole spraying inside, within reach",
+     "means": "The cardiac wound, reached and repaired"
+    }
+   ]
+  },
+  {
+   "id": "medcos-q0006",
+   "title": "Penetrating chest injury: hypotension, distended neck veins and muffled heart sounds all point to the heart",
+   "titleAr": "جرح الصدر النافذ: هبوط الضغط وانتفاخ أوردة العنق وخفوت أصوات القلب تشير كلّها إلى القلب",
+   "tags": [
+    "cardiac/other",
+    "d:diagnosis",
+    "q:recall",
+    "l:1",
+    "x:high-yield"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في ناد للجاز في هارلم، تحت دخان أزرق، كانت فرقة الإخوة بيك الثلاثة تعزف كلّ ليلة على منصّة من زجاج.",
+       "t": 0,
+       "spot": {
+        "x": 0.45,
+        "y": 0.45,
+        "r": 0.4
+       }
+      },
+      {
+       "text": "وفي تلك الليلة رمى سكّير غاضب سكّينه، فانغرزت في خزّان الماء المعلّق فوق المنصّة.",
+       "t": 9193,
+       "spot": {
+        "x": 0.45,
+        "y": 0.06,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "فانهمر من الثقب ماء أحمر، وكانت المنصّة حوضًا زجاجيًّا قديمًا، فأخذ الماء يعلو حول الإخوة الثلاثة ويضيق عليهم.",
+       "t": 16445,
+       "spot": {
+        "x": 0.45,
+        "y": 0.5,
+        "r": 0.35
+       }
+      },
+      {
+       "text": "فأمّا الأكبر، عازف التوبا، فقد ارتخت آلته بين يديه وتهدّلت، كأنّ نفسها انقطع.",
+       "t": 26373,
+       "spot": {
+        "x": 0.15,
+        "y": 0.5,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "وأمّا الأوسط، المغنّي، فقد انتفخت عروق عنقه كالحبال وهو يجاهد ليغنّي.",
+       "t": 34536,
+       "spot": {
+        "x": 0.42,
+        "y": 0.35,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "وأمّا الأصغر، الطبّال، فقد التفّت المناشف المبتلّة على طبوله، فصارت ضرباته نفخات رماديّةً لا تكاد تسمع.",
+       "t": 41728,
+       "spot": {
+        "x": 0.72,
+        "y": 0.45,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "وكان أمام كلّ منهم حامل نوتة عليه رقم مطليّ: واحد، اثنان، ثلاثة.",
+       "t": 51499,
+       "spot": {
+        "x": 0.45,
+        "y": 0.59,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "فصاحت صاحبة النادي، العجوز إيتا: «لو رأيت واحدةً منها لقلت: تعب؛ أمّا الثلاث معًا فالماء قد بلغ قلب الفرقة!»",
+       "t": 58878,
+       "spot": {
+        "x": 0.85,
+        "y": 0.75,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فحطّمت الحوض بعصاها، فانسكب الماء الأحمر، فعاد صوت الطبول، وانتصبت التوبا، وهدأت عروق المغنّي.",
+       "t": 69959,
+       "spot": {
+        "x": 0.75,
+        "y": 0.7,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "ثمّ أخذت إيتا نايًا قديمًا عن الحائط، ونفخت فيه نغمةً حزينة، وقالت:",
+       "t": 79222,
+       "spot": {
+        "x": 0.85,
+        "y": 0.8,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«استمع إلى هذا الناي كيف يشكو، ومن الفراق يحكي.»",
+       "quote": "جلال الدين الرومي، المثنوي، الكتاب الأول",
+       "t": 86895
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0006-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "In a penetrating chest injury, blood leaking from a cardiac wound collects in the pericardium and compresses the heart: cardiac tamponade.",
+       "t": 0,
+       "spot": {
+        "x": 0.45,
+        "y": 0.5,
+        "r": 0.35
+       }
+      },
+      {
+       "text": "The compressed heart fills poorly, so cardiac output and blood pressure fall: hypotension.",
+       "t": 9472,
+       "spot": {
+        "x": 0.15,
+        "y": 0.52,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "Venous return backs up, so the neck veins distend, unless the patient is also very hypovolaemic.",
+       "t": 15551,
+       "spot": {
+        "x": 0.42,
+        "y": 0.35,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "Blood around the heart damps its sounds, so the heart sounds are decreased or muffled.",
+       "t": 23426,
+       "spot": {
+        "x": 0.72,
+        "y": 0.45,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "Together these make Beck's triad, and each of them makes a cardiac injury more likely, so all of the above is the answer.",
+       "t": 28958,
+       "spot": {
+        "x": 0.45,
+        "y": 0.4,
+        "r": 0.4
+       }
+      },
+      {
+       "text": "The full triad is present in only a minority of patients, so its absence does not rule out a cardiac injury, and ultrasound is used to look for blood in the pericardium.",
+       "t": 36637,
+       "spot": {
+        "x": 0.45,
+        "y": 0.59,
+        "r": 0.3
+       }
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0006-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "In patients who present with a penetrating chest injury, injury to the heart is most likely when the following physical sign(s) is/are present:",
+     "options": [
+      "Hypotension.",
+      "Distended neck veins.",
+      "Decreased heart sound.",
+      "All of the above."
+     ],
+     "answer": 3,
+     "explain": "In a penetrating chest injury, blood leaking from a cardiac wound collects in the pericardium and compresses the heart: cardiac tamponade. The compressed heart fills poorly, so cardiac output and blood pressure fall: hypotension. Venous return backs up, so the neck veins distend, unless the patient is also very hypovolaemic. Blood around the heart damps its sounds, so the heart sounds are decreased or muffled. Together these make Beck's triad, and each of them makes a cardiac injury more likely, so all of the above is the answer. The full triad is present in only a minority of patients, so its absence does not rule out a cardiac injury, and ultrasound is used to look for blood in the pericardium.",
+     "lang": "en",
+     "source": "MedCosmos Cardiac, Q6",
+     "marks": [
+      1,
+      2
+     ],
+     "answerMarks": [
+      3,
+      4,
+      5,
+      6
+     ]
+    }
+   ],
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0006.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.45,
+      "y": 0.06,
+      "r": 0.09
+     },
+     "what": "Knife stuck in the water tank above",
+     "means": "Penetrating wound of the heart"
+    },
+    {
+     "spot": {
+      "x": 0.45,
+      "y": 0.5,
+      "r": 0.3
+     },
+     "what": "Glass tank filling with red water",
+     "means": "Blood in the pericardium: tamponade"
+    },
+    {
+     "spot": {
+      "x": 0.15,
+      "y": 0.52,
+      "r": 0.13
+     },
+     "what": "Limp, drooping tuba",
+     "means": "Hypotension"
+    },
+    {
+     "spot": {
+      "x": 0.42,
+      "y": 0.34,
+      "r": 0.09
+     },
+     "what": "Singer's bulging neck veins",
+     "means": "Distended neck veins"
+    },
+    {
+     "spot": {
+      "x": 0.72,
+      "y": 0.45,
+      "r": 0.13
+     },
+     "what": "Drums muffled with towels",
+     "means": "Decreased, muffled heart sounds"
+    },
+    {
+     "spot": {
+      "x": 0.45,
+      "y": 0.59,
+      "r": 0.26
+     },
+     "what": "Stands 1, 2 and 3 together",
+     "means": "All three together: Beck's triad"
+    }
+   ]
+  },
+  {
+   "id": "medcos-q0007",
+   "title": "Neonatal coarctation: resection with end-to-end anastomosis, or subclavian flap aortoplasty",
+   "titleAr": "تضيّق برزخ الأبهر عند الوليد: الاستئصال مع المفاغرة طرفًا لطرف، أو رأب الأبهر بشريحة تحت الترقوة",
+   "tags": [
+    "cardiac/congenital",
+    "d:technique",
+    "q:recall",
+    "l:2"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في ليلة نفخ البالونات قبل موكب عيد الشكر، امتلأ شارع في غرب مانهاتن ببالونات عملاقة تنام تحت الشباك.",
+       "t": 0,
+       "spot": {
+        "x": 0.55,
+        "y": 0.15,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "وكان بينها حوتان قاتلان صغيران، أسودان أبيضان، نفخا في تلك الليلة نفسها، وعلى خصر كلّ منهما حبل مشدود يخنقه.",
+       "t": 8843,
+       "spot": {
+        "x": 0.47,
+        "y": 0.45,
+        "r": 0.35
+       }
+      },
+      {
+       "text": "فلم يكن الهواء يجاوز الحبل، فتورّم صدر كلّ صغير، وتدلّى ذيله فارغًا ذابلًا.",
+       "t": 19746,
+       "spot": {
+        "x": 0.47,
+        "y": 0.6,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "فجاء المهندس العجوز هارولد إلى الصغير الأوّل، فقصّ الحلقة المخنوقة كلّها، ثمّ خاط الطرفين أحدهما بالآخر خياطةً محكمة.",
+       "t": 27552,
+       "spot": {
+        "x": 0.18,
+        "y": 0.45,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "وجاءت المهندسة الشابّة ناتالي إلى الصغير الثاني، فطوت زعنفته اليسرى على موضع الخنق، وخاطتها عليه رقعةً من جلده هو.",
+       "t": 37972,
+       "spot": {
+        "x": 0.6,
+        "y": 0.47,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فاندفع الهواء في الصغيرين حتّى ذيليهما، فارتفعا تحت الشباك يتمايلان.",
+       "t": 48105,
+       "spot": {
+        "x": 0.47,
+        "y": 0.4,
+        "r": 0.35
+       }
+      },
+      {
+       "text": "وأقبل فتًى متحمّس برقعة من البلاستيك وأنبوب من البلاستيك، فأخذهما منه رئيس العمّال ورماهما في البرميل.",
+       "t": 54367,
+       "spot": {
+        "x": 0.72,
+        "y": 0.82,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "ثمّ أشار إلى حوت كبير من موكب العام الماضي، قد خنقته في وسطه حلقة بلاستيكيّة ضاقت عليه حين كبر.",
+       "t": 63859,
+       "spot": {
+        "x": 0.7,
+        "y": 0.12,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "وقال للفتى: «الصغير يكبر يا بنيّ، والبلاستيك لا يكبر معه؛ فرقّع الصغير من نفسه.»",
+       "t": 72724,
+       "spot": {
+        "x": 0.88,
+        "y": 0.7,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فنظرت ناتالي إلى الصغيرين يرتفعان، وقالت:",
+       "t": 81093,
+       "spot": {
+        "x": 0.55,
+        "y": 0.48,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "«كلّ من بعد عن أصله، يعود فيطلب زمان وصله.»",
+       "quote": "جلال الدين الرومي، المثنوي، الكتاب الأول",
+       "t": 86185
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0007-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "A neonate with symptomatic isolated coarctation has a tight narrowing of the aorta just beyond the left subclavian artery, near the ductus, and needs repair.",
+       "t": 0,
+       "spot": {
+        "x": 0.47,
+        "y": 0.5,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "Resection of the narrowed segment with end-to-end anastomosis (today usually an extended end-to-end repair) removes all the abnormal tissue and is an accepted method.",
+       "t": 10357,
+       "spot": {
+        "x": 0.2,
+        "y": 0.45,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "The subclavian flap aortoplasty turns the left subclavian artery down over the narrowing to widen it with the child's own tissue, and is also accepted.",
+       "t": 21268,
+       "spot": {
+        "x": 0.62,
+        "y": 0.47,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "Both use living tissue that grows with the child, so A and C are the answer.",
+       "t": 31135,
+       "spot": {
+        "x": 0.47,
+        "y": 0.45,
+        "r": 0.35
+       }
+      },
+      {
+       "text": "A prosthetic patch is avoided because an aneurysm can form opposite the patch, and a prosthetic tube cannot grow, so the narrowing returns as the infant grows.",
+       "t": 36045,
+       "spot": {
+        "x": 0.72,
+        "y": 0.82,
+        "r": 0.15
+       }
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0007-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which of the following would be an acceptable method of repair for a neonate with symptomatic isolated coarctation of the aorta?",
+     "options": [
+      "Resection with end-to-end anastomosis.",
+      "Prosthetic patch aortoplasty.",
+      "Subclavian flap aortoplasty.",
+      "Prosthetic tube graft repair."
+     ],
+     "answer": 0,
+     "explain": "A neonate with symptomatic isolated coarctation has a tight narrowing of the aorta just beyond the left subclavian artery, near the ductus, and needs repair. Resection of the narrowed segment with end-to-end anastomosis (today usually an extended end-to-end repair) removes all the abnormal tissue and is an accepted method. The subclavian flap aortoplasty turns the left subclavian artery down over the narrowing to widen it with the child's own tissue, and is also accepted. Both use living tissue that grows with the child, so A and C are the answer. A prosthetic patch is avoided because an aneurysm can form opposite the patch, and a prosthetic tube cannot grow, so the narrowing returns as the infant grows.",
+     "lang": "en",
+     "source": "MedCosmos Cardiac, Q7",
+     "answers": [
+      0,
+      2
+     ],
+     "marks": [
+      1
+     ],
+     "answerMarks": [
+      2,
+      3,
+      4
+     ]
+    }
+   ],
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0007.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.47,
+      "y": 0.48,
+      "r": 0.25
+     },
+     "what": "Two baby orcas",
+     "means": "Neonate with symptomatic isolated coarctation"
+    },
+    {
+     "spot": {
+      "x": 0.18,
+      "y": 0.42,
+      "r": 0.1
+     },
+     "what": "Pinched ring cut out",
+     "means": "Resection of the narrowed segment"
+    },
+    {
+     "spot": {
+      "x": 0.27,
+      "y": 0.48,
+      "r": 0.1
+     },
+     "what": "Seam joining the two halves",
+     "means": "End-to-end anastomosis"
+    },
+    {
+     "spot": {
+      "x": 0.62,
+      "y": 0.47,
+      "r": 0.11
+     },
+     "what": "Own left flipper sewn over the waist",
+     "means": "Subclavian flap aortoplasty"
+    },
+    {
+     "spot": {
+      "x": 0.72,
+      "y": 0.82,
+      "r": 0.12
+     },
+     "what": "Plastic patch and tube thrown away",
+     "means": "Prosthetic patch or tube: not acceptable"
+    },
+    {
+     "spot": {
+      "x": 0.7,
+      "y": 0.12,
+      "r": 0.12
+     },
+     "what": "Last year's orca strangled by a plastic ring",
+     "means": "Prosthetic material cannot grow"
+    }
+   ]
+  },
+  {
+   "id": "medcos-q0008",
+   "title": "The true vascular ring: double aortic arch",
+   "titleAr": "الحلقة الوعائية الحقيقية: القوس الأبهرية المضاعفة",
+   "tags": [
+    "cardiac/congenital",
+    "d:anatomy",
+    "q:recall",
+    "l:1"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في صباح موكب عيد الشكر، والرّيح باردة على جادّة سنترال بارك الغربيّة، طار حوتان قاتلان من بالونات الموكب، واحد من اليمين وآخر من اليسار.",
+       "t": 0,
+       "spot": {
+        "x": 0.45,
+        "y": 0.28,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "وفي طريقهما وقف عمود نور طويل، وإلى جانبه عمود مظلّة لعربة بائع النقانق، لصيقين متجاورين.",
+       "t": 11543,
+       "spot": {
+        "x": 0.45,
+        "y": 0.45,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فالتفّ الحوتان على العمودين من الجانبين، والتقيا خلفهما، فصار جسداهما حلقةً مغلقةً لا فرجة فيها.",
+       "t": 20214,
+       "spot": {
+        "x": 0.45,
+        "y": 0.28,
+        "r": 0.28
+       }
+      },
+      {
+       "text": "وضاقت الحلقة، فانحنى العمودان، وصرخ بائع النقانق ساي: «عمود نوري وعمود خبزي! لقد خنقاهما معًا!»",
+       "t": 28918,
+       "spot": {
+        "x": 0.82,
+        "y": 0.62,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "وكان قريبًا منه رجل يلوّح بمقلاع من أوراق الدولار، يلفّه على عمود النور من أمامه، فلا يطبق ولا يقفل.",
+       "t": 38877,
+       "spot": {
+        "x": 0.15,
+        "y": 0.65,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "وطار حوت ثالث تتدلّى زعنفته اليمنى من آخر ظهره، فمرّ خلف العمودين ولم يغلق عليهما شيئًا.",
+       "t": 47920,
+       "spot": {
+        "x": 0.88,
+        "y": 0.4,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "وحوت رابع ارتفع ظهره عاليًا حتّى حاذى السطوح، بعيدًا كلّ البعد عن العمودين.",
+       "t": 55927,
+       "spot": {
+        "x": 0.65,
+        "y": 0.05,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فجاء رئيس الموكب، الشيخ أبرام، ونظر إلى الحوتين المتعانقين حول العمودين، وقال: «المقلاع يلفّ، والزّعنفة تمرّ، أمّا هذان فقد أغلقا الدائرة.»",
+       "t": 62672,
+       "spot": {
+        "x": 0.45,
+        "y": 0.28,
+        "r": 0.28
+       }
+      },
+      {
+       "text": "ثمّ أمر بقطع أصغر الحوتين، فانفتحت الحلقة، واستقام العمودان، وتنفّس ساي.",
+       "t": 76879,
+       "spot": {
+        "x": 0.45,
+        "y": 0.45,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فنظر أبرام إلى الحوت المقطوع يهبط برفق، وقال:",
+       "t": 84195,
+       "spot": {
+        "x": 0.45,
+        "y": 0.28,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "«الماء في السفينة هلاك السفينة، والماء تحت السفينة سندها.»",
+       "quote": "جلال الدين الرومي، المثنوي، الكتاب الأول",
+       "t": 89467
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0008-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "A vascular ring is an anomaly of the aortic arch system in which vessels encircle the trachea and the oesophagus.",
+       "t": 0,
+       "spot": {
+        "x": 0.45,
+        "y": 0.3,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "A double aortic arch is a true, complete ring: both the right and the left arch persist, pass on either side and join behind, encircling and compressing the trachea and oesophagus; this is the answer.",
+       "t": 7671,
+       "spot": {
+        "x": 0.45,
+        "y": 0.28,
+        "r": 0.28
+       }
+      },
+      {
+       "text": "A pulmonary artery sling, the left pulmonary artery arising from the right one and passing between trachea and oesophagus, compresses the airway but is not a ring of arches.",
+       "t": 21769,
+       "spot": {
+        "x": 0.15,
+        "y": 0.62,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "An anomalous right subclavian artery from the descending aorta passes behind the oesophagus but does not close a ring by itself.",
+       "t": 33039,
+       "spot": {
+        "x": 0.88,
+        "y": 0.4,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "A cervical aortic arch rises high into the neck and is not a ring by itself.",
+       "t": 41223,
+       "spot": {
+        "x": 0.65,
+        "y": 0.05,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "A double arch is treated by dividing the smaller of the two arches.",
+       "t": 46812,
+       "spot": {
+        "x": 0.45,
+        "y": 0.28,
+        "r": 0.28
+       }
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0008-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which of the following constitutes a true vascular ring?",
+     "options": [
+      "Pulmonary artery sling.",
+      "Double aortic arch.",
+      "Anomalous origin of right subclavian artery from the descending aorta.",
+      "Cervical aortic arch."
+     ],
+     "answer": 1,
+     "explain": "A vascular ring is an anomaly of the aortic arch system in which vessels encircle the trachea and the oesophagus. A double aortic arch is a true, complete ring: both the right and the left arch persist, pass on either side and join behind, encircling and compressing the trachea and oesophagus; this is the answer. A pulmonary artery sling, the left pulmonary artery arising from the right one and passing between trachea and oesophagus, compresses the airway but is not a ring of arches. An anomalous right subclavian artery from the descending aorta passes behind the oesophagus but does not close a ring by itself. A cervical aortic arch rises high into the neck and is not a ring by itself. A double arch is treated by dividing the smaller of the two arches.",
+     "lang": "en",
+     "source": "MedCosmos Cardiac, Q8",
+     "marks": [
+      2,
+      3,
+      4,
+      5
+     ],
+     "answerMarks": [
+      1
+     ]
+    }
+   ],
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0008.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.45,
+      "y": 0.28,
+      "r": 0.25
+     },
+     "what": "Two orcas closing a ring",
+     "means": "Double aortic arch: a true, complete ring"
+    },
+    {
+     "spot": {
+      "x": 0.45,
+      "y": 0.45,
+      "r": 0.1
+     },
+     "what": "Lamppost and umbrella pole squeezed",
+     "means": "Trachea and oesophagus compressed"
+    },
+    {
+     "spot": {
+      "x": 0.15,
+      "y": 0.63,
+      "r": 0.13
+     },
+     "what": "Sling of dollar bills, not closed",
+     "means": "Pulmonary artery sling: not a ring of arches"
+    },
+    {
+     "spot": {
+      "x": 0.88,
+      "y": 0.4,
+      "r": 0.11
+     },
+     "what": "Orca with its flipper from the far end",
+     "means": "Anomalous right subclavian: no ring alone"
+    },
+    {
+     "spot": {
+      "x": 0.65,
+      "y": 0.05,
+      "r": 0.1
+     },
+     "what": "Orca flying at rooftop height",
+     "means": "Cervical aortic arch: not a ring"
+    }
+   ]
+  },
+  {
+   "id": "medcos-q0009",
+   "title": "Coarctation in a young adult: murmur between the scapulae, weak femoral pulses, unequal arm pressures",
+   "titleAr": "تضيّق برزخ الأبهر عند الشابّ: نفخة بين لوحَي الكتف، وضعف نبض الفخذ، وفرق ضغط الذراعين",
+   "tags": [
+    "cardiac/congenital",
+    "d:diagnosis",
+    "q:recall",
+    "l:2"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في صباح الموكب على برودواي، أمسك الشابّ جيك بحبال الحوت القاتل، وكان الحوت مخنوق الخصر بحبل مشدود.",
+       "t": 0,
+       "spot": {
+        "x": 0.45,
+        "y": 0.25,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "وكان جيك عملاقًا من أعلاه: كتفان كالأبواب، وذراعان كجذعي شجرة؛ أمّا ساقاه فنحيلتان واهنتان كساقي طائر.",
+       "t": 9644,
+       "spot": {
+        "x": 0.5,
+        "y": 0.65,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "فكان كلّما شدّ الحبال ارتجفت ركبتاه، كأنّ القوّة كلّها صعدت إلى أعلاه ولم تنزل.",
+       "t": 20367,
+       "spot": {
+        "x": 0.48,
+        "y": 0.82,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "وكانت بين لوحي كتفيه صفّارة نحاسيّة صغيرة مربوطة، تصفر مع كلّ دفعة صفيرًا طويلًا يسمعه كلّ من يمشي خلفه.",
+       "t": 28454,
+       "spot": {
+        "x": 0.52,
+        "y": 0.46,
+        "r": 0.07
+       }
+      },
+      {
+       "text": "وفي كلّ ذراع من ذراعيه عدّاد ضغط: على اليسرى حرف إل، وعلى اليمنى حرف آر، وإبرة اليسرى أعلى من أختها.",
+       "t": 39439,
+       "spot": {
+        "x": 0.5,
+        "y": 0.57,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "فضحكت صديقته كارمن من الرصيف وصاحت: «يسراك يا جيك تحمل ما لا تحمله يمناك!»",
+       "t": 49216,
+       "spot": {
+        "x": 0.22,
+        "y": 0.57,
+        "r": 0.09
+       }
+      },
+      {
+       "text": "وكان عند قدميه دلو من الطلاء الأزرق، أراد مهرّج أن يصبغ به أصابعه، فأبى جيك وقال: «أصابعي ورديّة، فدعها كما هي!»",
+       "t": 56402,
+       "spot": {
+        "x": 0.78,
+        "y": 0.88,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "ومضى الحوت المخنوق فوقه، يجرّه جيك بكتفيه الهائلتين وساقيه المرتجفتين.",
+       "t": 68248,
+       "spot": {
+        "x": 0.45,
+        "y": 0.2,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "فلمّا انتهى الموكب جلس على الرصيف يلهث، فجلست كارمن إلى جانبه، وقالت ما حفظته من الروميّ:",
+       "t": 75855,
+       "spot": {
+        "x": 0.5,
+        "y": 0.65,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "«إن كان العطاش يطلبون الماء في الدنيا، فالماء أيضًا يطلب العطاش في العالم.»",
+       "quote": "جلال الدين الرومي، المثنوي، الكتاب الأول",
+       "t": 85439
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0009-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "In a young adult with coarctation, the narrowing of the descending aorta keeps the pressure high above it and low below it.",
+       "t": 0,
+       "spot": {
+        "x": 0.45,
+        "y": 0.27,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "Flow through the narrowing and through enlarged collateral arteries makes a systolic murmur heard best at the back, between the scapulae.",
+       "t": 7523,
+       "spot": {
+        "x": 0.52,
+        "y": 0.46,
+        "r": 0.07
+       }
+      },
+      {
+       "text": "The femoral pulses are weak and delayed compared with the radial pulses, and the legs have lower pressure than the arms.",
+       "t": 15810,
+       "spot": {
+        "x": 0.48,
+        "y": 0.82,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "The arm pressures may differ: the book counts a higher pressure in the left arm than in the right as a possible finding, as when an anomalous right subclavian artery arises below the coarctation; more often the right arm is higher.",
+       "t": 22905,
+       "spot": {
+        "x": 0.5,
+        "y": 0.57,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "So A, B and C are the answer.",
+       "t": 36990,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.4
+       }
+      },
+      {
+       "text": "Peripheral cyanosis is not a feature of coarctation in a young adult, so D is wrong.",
+       "t": 39448,
+       "spot": {
+        "x": 0.78,
+        "y": 0.88,
+        "r": 0.08
+       }
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0009-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which of the following may be physical examination findings in a young adult with coarctation of the aorta?",
+     "options": [
+      "Posterior systolic murmur between the scapulas.",
+      "Diminished femoral pulses.",
+      "Elevated blood pressure in left arm as compared with right arm.",
+      "Peripheral cyanosis."
+     ],
+     "answer": 0,
+     "explain": "In a young adult with coarctation, the narrowing of the descending aorta keeps the pressure high above it and low below it. Flow through the narrowing and through enlarged collateral arteries makes a systolic murmur heard best at the back, between the scapulae. The femoral pulses are weak and delayed compared with the radial pulses, and the legs have lower pressure than the arms. The arm pressures may differ: the book counts a higher pressure in the left arm than in the right as a possible finding, as when an anomalous right subclavian artery arises below the coarctation; more often the right arm is higher. So A, B and C are the answer. Peripheral cyanosis is not a feature of coarctation in a young adult, so D is wrong.",
+     "lang": "en",
+     "source": "MedCosmos Cardiac, Q9",
+     "answers": [
+      0,
+      1,
+      2
+     ],
+     "marks": [
+      1
+     ],
+     "answerMarks": [
+      2,
+      3,
+      4,
+      5
+     ]
+    }
+   ],
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0009.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.45,
+      "y": 0.27,
+      "r": 0.11
+     },
+     "what": "Rope pinching the orca's waist",
+     "means": "Coarctation of the aorta"
+    },
+    {
+     "spot": {
+      "x": 0.52,
+      "y": 0.46,
+      "r": 0.06
+     },
+     "what": "Whistle between the shoulder blades",
+     "means": "Systolic murmur between the scapulae"
+    },
+    {
+     "spot": {
+      "x": 0.48,
+      "y": 0.82,
+      "r": 0.12
+     },
+     "what": "Thin, trembling legs",
+     "means": "Diminished, delayed femoral pulses"
+    },
+    {
+     "spot": {
+      "x": 0.22,
+      "y": 0.57,
+      "r": 0.08
+     },
+     "what": "Gauge L reading high",
+     "means": "Higher pressure in the left arm (the book's key)"
+    },
+    {
+     "spot": {
+      "x": 0.78,
+      "y": 0.57,
+      "r": 0.08
+     },
+     "what": "Gauge R reading lower",
+     "means": "Lower right-arm pressure"
+    },
+    {
+     "spot": {
+      "x": 0.78,
+      "y": 0.88,
+      "r": 0.07
+     },
+     "what": "Unopened blue paint, pink fingers",
+     "means": "No peripheral cyanosis"
+    }
+   ]
+  },
+  {
+   "id": "medcos-q0010",
+   "title": "A premature infant who cannot be weaned: continuous murmur and bounding pulses mean a significant PDA",
+   "titleAr": "الخديج الّذي لا يُفطم عن جهاز التنفّس: النفخة المستمرّة والنبض القافز يعنيان قناة شريانية مهمّة",
+   "tags": [
+    "cardiac/congenital",
+    "d:diagnosis",
+    "q:vignette",
+    "l:2"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في حديقة حيوان سنترال بارك، في ليلة شتويّة، فقس فرخ بطريق قبل أوانه، صغيرًا كقبضة طفل.",
+       "t": 0,
+       "spot": {
+        "x": 0.35,
+        "y": 0.72,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فوضعته الحارسة جون في صندوق زجاجيّ دافئ، وجعلت منفاخًا صغيرًا ينفخ الهواء عند منقاره نفخةً بعد نفخة.",
+       "t": 9266,
+       "spot": {
+        "x": 0.75,
+        "y": 0.65,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "وكانت كلّما أبعدت المنفاخ عنه لهث الفرخ وارتجف، فتعيده إليه وتقول: «لا يقدر أن يتنفّس وحده بعد!»",
+       "t": 18373,
+       "spot": {
+        "x": 0.85,
+        "y": 0.5,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "وكان فوق الصندوق نفق من شريط لاصق فضّيّ، مفتوح على سعته، يصل بين حوت قاتل من الألعاب وأنبوب يجري فيه المال.",
+       "t": 27567,
+       "spot": {
+        "x": 0.35,
+        "y": 0.2,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "فكان يندفع فيه تيّار لا يهدأ، فيرتجّ النفق كلّه.",
+       "t": 37661,
+       "spot": {
+        "x": 0.4,
+        "y": 0.25,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "وفي ورشة البناء خلف الجدار الزجاجيّ، دارت خلّاطة إسمنت ليل نهار، بهدير مستمرّ لا ينقطع لحظة.",
+       "t": 42702,
+       "spot": {
+        "x": 0.9,
+        "y": 0.32,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "وكان صدر الفرخ الصغير يخفق خفقًا يرى من بعيد، وقدماه تقفزان كأنّ تحتهما نوابض.",
+       "t": 51591,
+       "spot": {
+        "x": 0.35,
+        "y": 0.72,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فجاء الطبيب البيطريّ العجوز سول، ووضع أذنه على الزجاج، ثمّ أشار إلى النفق المفتوح وقال: «من هنا يتسرّب نفسه.»",
+       "t": 58770,
+       "spot": {
+        "x": 0.18,
+        "y": 0.32,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فمسحت جون على جناحه الصغير بإصبعها، وقالت:",
+       "t": 69047,
+       "spot": {
+        "x": 0.85,
+        "y": 0.52,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«نار صوت هذا الناي، لا ريح؛ ومن لم تكن فيه هذه النار فليكن عدمًا.»",
+       "quote": "جلال الدين الرومي، المثنوي، الكتاب الأول",
+       "t": 74497
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0010-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "Premature infants with hyaline membrane disease often keep the ductus arteriosus open, and as the lung disease improves, blood shunts from the aorta into the pulmonary artery through it.",
+       "t": 0,
+       "spot": {
+        "x": 0.35,
+        "y": 0.2,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "The extra pulmonary blood flow floods the lungs, which is why such an infant cannot be weaned from the ventilator.",
+       "t": 11692,
+       "spot": {
+        "x": 0.5,
+        "y": 0.7,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "A haemodynamically significant duct gives a continuous, machinery murmur, although in a ventilated premature infant it may be heard only in systole.",
+       "t": 18811,
+       "spot": {
+        "x": 0.9,
+        "y": 0.32,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "The run-off from the aorta gives a hyperactive precordium and bounding peripheral pulses with a wide pulse pressure.",
+       "t": 29359,
+       "spot": {
+        "x": 0.35,
+        "y": 0.72,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "So A and B are the answer.",
+       "t": 36488,
+       "spot": {
+        "x": 0.45,
+        "y": 0.45,
+        "r": 0.45
+       }
+      },
+      {
+       "text": "Jaundice has nothing to do with the duct, and diminished femoral pulses point to coarctation instead.",
+       "t": 39316
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0010-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "In a premature infant with hyaline membrane disease and inability to be weaned from mechanical ventilation, which of the following would suggest hemodynamically significant patent ductus arteriosus (PDA)?",
+     "options": [
+      "Continuous murmur.",
+      "Hyperactive precordium with bounding peripheral pulses.",
+      "Jaundice.",
+      "Diminished femoral pulses."
+     ],
+     "answer": 0,
+     "explain": "Premature infants with hyaline membrane disease often keep the ductus arteriosus open, and as the lung disease improves, blood shunts from the aorta into the pulmonary artery through it. The extra pulmonary blood flow floods the lungs, which is why such an infant cannot be weaned from the ventilator. A haemodynamically significant duct gives a continuous, machinery murmur, although in a ventilated premature infant it may be heard only in systole. The run-off from the aorta gives a hyperactive precordium and bounding peripheral pulses with a wide pulse pressure. So A and B are the answer. Jaundice has nothing to do with the duct, and diminished femoral pulses point to coarctation instead.",
+     "lang": "en",
+     "source": "MedCosmos Cardiac, Q10",
+     "answers": [
+      0,
+      1
+     ],
+     "marks": [
+      3,
+      5
+     ],
+     "answerMarks": [
+      1,
+      2,
+      4
+     ]
+    }
+   ],
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0010.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.35,
+      "y": 0.72,
+      "r": 0.13
+     },
+     "what": "Premature chick with thumping chest",
+     "means": "Hyperactive precordium"
+    },
+    {
+     "spot": {
+      "x": 0.35,
+      "y": 0.82,
+      "r": 0.08
+     },
+     "what": "Feet bouncing as on springs",
+     "means": "Bounding peripheral pulses"
+    },
+    {
+     "spot": {
+      "x": 0.35,
+      "y": 0.2,
+      "r": 0.15
+     },
+     "what": "Wide-open duct-tape tunnel",
+     "means": "Patent ductus arteriosus"
+    },
+    {
+     "spot": {
+      "x": 0.9,
+      "y": 0.32,
+      "r": 0.11
+     },
+     "what": "Cement mixer roaring nonstop",
+     "means": "Continuous (machinery) murmur"
+    },
+    {
+     "spot": {
+      "x": 0.79,
+      "y": 0.84,
+      "r": 0.12
+     },
+     "what": "Bellows the keeper cannot take away",
+     "means": "Cannot be weaned from the ventilator"
+    },
+    {
+     "spot": {
+      "x": 0.18,
+      "y": 0.32,
+      "r": 0.11
+     },
+     "what": "Vet pointing at the tunnel",
+     "means": "The duct floods the lungs"
+    }
+   ]
+  },
+  {
+   "id": "medcos-q0011",
+   "title": "Confirming a PDA in an infant: two-dimensional echocardiography with Doppler",
+   "titleAr": "تأكيد القناة الشريانية عند الرضيع: تخطيط صدى القلب ثنائي الأبعاد مع الدوبلر",
+   "tags": [
+    "cardiac/congenital",
+    "d:diagnosis",
+    "q:recall",
+    "l:1"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "تحت محطّة غراند سنترال، في رواق الهمس ذي القوس المبلّط، جلست الأمّ سارة برضيعها توبي في إحدى الزوايا.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.3,
+        "r": 0.4
+       }
+      },
+      {
+       "text": "وكان في حضن الرضيع لعبته الّتي لا تفارقه: حوت قاتل صغير، وأنبوب فيه نقود، ونفق من شريط لاصق فضّيّ بينهما، مخبوء تحت بطّانيّة.",
+       "t": 9065,
+       "spot": {
+        "x": 0.62,
+        "y": 0.45,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "وكانت سارة تريد أن تعرف: أمفتوح ذلك النفق أم مغلق؟",
+       "t": 21952,
+       "spot": {
+        "x": 0.25,
+        "y": 0.22,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فاقترح عليها عجوز أن يصوّره بآلته الفوريّة، فخرجت الصورة ضبابيّةً لا يبين فيها شيء.",
+       "t": 27289,
+       "spot": {
+        "x": 0.2,
+        "y": 0.82,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "واقترح سبّاك أن يدسّ في النفق خرطومًا طويلًا، واقترح آخر أن يدفع فيه صبغًا من سرّة دمية، فهزّت سارة رأسها: «لا أريد أن أدخل فيه شيئًا.»",
+       "t": 35444,
+       "spot": {
+        "x": 0.5,
+        "y": 0.65,
+        "r": 0.4
+       }
+      },
+      {
+       "text": "فإذا خفّاش صغير يسكن بين أقواس الرواق ينزل من السقف، ويحوم حول البطّانيّة، يرسل صيحاته الّتي لا تسمعها الأذن، حلقةً بعد حلقة.",
+       "t": 47705,
+       "spot": {
+        "x": 0.55,
+        "y": 0.12,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فلمّا ارتدّ صدى صيحاته عن البطّانيّة، أضاء ما تحتها بنور أحمر ونور أزرق، كأنوار سيّارة شرطة عابرة.",
+       "t": 59490,
+       "spot": {
+        "x": 0.62,
+        "y": 0.45,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "فبان النفق كلّه، مفتوحًا على سعته، والتّيّار يجري فيه من جهة الحوت إلى جهة النقود.",
+       "t": 68854,
+       "spot": {
+        "x": 0.6,
+        "y": 0.52,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فضحكت سارة وقبّلت توبي، وقالت: «خفّاش يرى بأذنيه رأى ما لم تره الصورة، ولم يبلغه الخرطوم.»",
+       "t": 76795,
+       "spot": {
+        "x": 0.25,
+        "y": 0.22,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "ثمّ تذكّرت حكاية الفيل في البيت المظلم، وقالت:",
+       "t": 85272,
+       "spot": {
+        "x": 0.25,
+        "y": 0.22,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«لو كان في كفّ كلّ واحد منهم شمعة، لزال الاختلاف من أقوالهم.»",
+       "quote": "جلال الدين الرومي، المثنوي، الكتاب الثالث",
+       "t": 90380
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0011-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "In an infant with a suspected patent ductus arteriosus, the best test shows the duct itself and the flow through it, without harm.",
+       "t": 0,
+       "spot": {
+        "x": 0.6,
+        "y": 0.5,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "Two-dimensional echocardiography shows the duct directly, and continuous-wave and colour-flow Doppler show the direction and speed of flow through it: it is the optimal method and the answer.",
+       "t": 8551,
+       "spot": {
+        "x": 0.58,
+        "y": 0.3,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "Echocardiography also estimates the size of the shunt and the pulmonary artery pressure, and excludes other lesions that depend on the duct.",
+       "t": 19756,
+       "spot": {
+        "x": 0.62,
+        "y": 0.45,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "A chest film shows only indirect signs, such as cardiomegaly and increased pulmonary blood flow.",
+       "t": 28756,
+       "spot": {
+        "x": 0.2,
+        "y": 0.82,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "Cardiac catheterisation and retrograde aortography through an umbilical artery catheter can show the duct, but they are invasive and no longer needed for the diagnosis.",
+       "t": 35245,
+       "spot": {
+        "x": 0.5,
+        "y": 0.65,
+        "r": 0.4
+       }
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0011-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "In an infant with suspected PDA, which of the following would be the optimal method of confirming the diagnosis?",
+     "options": [
+      "Chest film.",
+      "Cardiac catheterization.",
+      "Retrograde aortography via an umbilical artery catheter.",
+      "Two-dimensional echocardiography with continuous-wave and color-flow Doppler echocardiography."
+     ],
+     "answer": 3,
+     "explain": "In an infant with a suspected patent ductus arteriosus, the best test shows the duct itself and the flow through it, without harm. Two-dimensional echocardiography shows the duct directly, and continuous-wave and colour-flow Doppler show the direction and speed of flow through it: it is the optimal method and the answer. Echocardiography also estimates the size of the shunt and the pulmonary artery pressure, and excludes other lesions that depend on the duct. A chest film shows only indirect signs, such as cardiomegaly and increased pulmonary blood flow. Cardiac catheterisation and retrograde aortography through an umbilical artery catheter can show the duct, but they are invasive and no longer needed for the diagnosis.",
+     "lang": "en",
+     "source": "MedCosmos Cardiac, Q11",
+     "marks": [
+      3
+     ],
+     "answerMarks": [
+      1,
+      2
+     ]
+    }
+   ],
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0011.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.55,
+      "y": 0.12,
+      "r": 0.11
+     },
+     "what": "Bat sending out rings of sound",
+     "means": "Echocardiography: seeing by echoes"
+    },
+    {
+     "spot": {
+      "x": 0.62,
+      "y": 0.45,
+      "r": 0.16
+     },
+     "what": "Blanket glowing red and blue",
+     "means": "Colour-flow Doppler"
+    },
+    {
+     "spot": {
+      "x": 0.6,
+      "y": 0.52,
+      "r": 0.12
+     },
+     "what": "Open duct-tape tunnel shown",
+     "means": "The PDA seen directly, with its flow"
+    },
+    {
+     "spot": {
+      "x": 0.2,
+      "y": 0.82,
+      "r": 0.11
+     },
+     "what": "Blurry instant photograph",
+     "means": "Chest film: indirect signs only"
+    },
+    {
+     "spot": {
+      "x": 0.25,
+      "y": 0.48,
+      "r": 0.12
+     },
+     "what": "Plumber's long hose",
+     "means": "Cardiac catheterisation: invasive"
+    },
+    {
+     "spot": {
+      "x": 0.85,
+      "y": 0.72,
+      "r": 0.11
+     },
+     "what": "Doll and bottle of dye",
+     "means": "Umbilical aortography: invasive"
+    }
+   ]
+  },
+  {
+   "id": "medcos-q0012",
+   "title": "Untreated coarctation: endocarditis, stroke and heart failure",
+   "titleAr": "تضيّق برزخ الأبهر غير المعالج: التهاب الشغاف، والسكتة الدماغية، وقصور القلب",
+   "tags": [
+    "cardiac/congenital",
+    "d:complications",
+    "q:recall",
+    "l:2"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "نسي رجال الموكب الحبل مشدودًا على خصر الحوت القاتل، وأطلقوه فوق الجادّة الخامسة، وقالوا: «سنحلّه في الغد يا رفاق.»",
+       "t": 0,
+       "spot": {
+        "x": 0.4,
+        "y": 0.3,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "ومرّت الأعوام، وبقي الحبل، والحوت يطير كلّ عام مخنوقًا كما هو.",
+       "t": 9978,
+       "spot": {
+        "x": 0.45,
+        "y": 0.28,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "فعند موضع الخنق علقت أوراق لعب نسيها مقامر في الريح، فنبت عليها قرنبيط أخضر وطحلب، ورقةً بعد ورقة.",
+       "t": 16104,
+       "spot": {
+        "x": 0.38,
+        "y": 0.36,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "وتحت الحوت انعقد السير: سيّارات الأجرة الصفراء متلاصقة لا تتقدّم ولا تتأخّر، والأبواق تصرخ.",
+       "t": 25637,
+       "spot": {
+        "x": 0.3,
+        "y": 0.7,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "فصاح السائق موشيه من نافذته: «منذ أن خنقوا ذلك الحوت، والجادّة كلّها مخنوقة وراءه!»",
+       "t": 33957,
+       "spot": {
+        "x": 0.34,
+        "y": 0.64,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "ثمّ اسودّت السماء، فنزلت صاعقة على رأس الحوت، فاهتزّ كلّه وانطفأت عيناه لحظة.",
+       "t": 41364,
+       "spot": {
+        "x": 0.62,
+        "y": 0.1,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "أمّا الرجل الّذي يجرّ حبلًا من الدولارات على الرصيف، فمضى في طريقه لا يصيبه من ذلك كلّه شيء.",
+       "t": 48654,
+       "spot": {
+        "x": 0.75,
+        "y": 0.75,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فخرجت العجوز إستر من مخبزها، ونظرت إلى الحوت والحبل والصّاعقة والسّيّارات، وقالت: «حبل صغير لم يحلّ في وقته صار مصيبةً بثلاثة وجوه.»",
+       "t": 56442,
+       "spot": {
+        "x": 0.1,
+        "y": 0.68,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "ثمّ رفعت عينيها إلى الحوت المخنوق، وقالت:",
+       "t": 69681,
+       "spot": {
+        "x": 0.45,
+        "y": 0.28,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "«كلّ من كان أشدّ يقظةً كان أشدّ ألمًا، وكلّ من كان أشدّ وعيًا كان أشدّ اصفرارًا.»",
+       "quote": "جلال الدين الرومي، المثنوي، الكتاب الأول",
+       "t": 74439
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0012-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "Coarctation left untreated keeps the upper body hypertensive, and before surgery most patients died young.",
+       "t": 0,
+       "spot": {
+        "x": 0.38,
+        "y": 0.4,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "Infective endocarditis or endarteritis can settle on the coarctation itself or on an associated bicuspid aortic valve.",
+       "t": 7440,
+       "spot": {
+        "x": 0.38,
+        "y": 0.36,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "Hypertension, and the berry aneurysms that often go with coarctation, lead to cerebrovascular accidents: stroke and cerebral haemorrhage.",
+       "t": 16332,
+       "spot": {
+        "x": 0.62,
+        "y": 0.1,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "The left ventricle, working for years against high pressure, finally fails: congestive heart failure.",
+       "t": 25444,
+       "spot": {
+        "x": 0.3,
+        "y": 0.7,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "So A, C and D are the answer.",
+       "t": 32918,
+       "spot": {
+        "x": 0.45,
+        "y": 0.45,
+        "r": 0.45
+       }
+      },
+      {
+       "text": "Pulmonary vascular disease is not a complication, because isolated coarctation has no left-to-right shunt that floods the lungs.",
+       "t": 35959,
+       "spot": {
+        "x": 0.75,
+        "y": 0.75,
+        "r": 0.15
+       }
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0012-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which of the following are potential complications of untreated coarctation of the aorta?",
+     "options": [
+      "Endocarditis.",
+      "Pulmonary vascular disease.",
+      "Cerebrovascular accident.",
+      "Congestive heart failure."
+     ],
+     "answer": 0,
+     "explain": "Coarctation left untreated keeps the upper body hypertensive, and before surgery most patients died young. Infective endocarditis or endarteritis can settle on the coarctation itself or on an associated bicuspid aortic valve. Hypertension, and the berry aneurysms that often go with coarctation, lead to cerebrovascular accidents: stroke and cerebral haemorrhage. The left ventricle, working for years against high pressure, finally fails: congestive heart failure. So A, C and D are the answer. Pulmonary vascular disease is not a complication, because isolated coarctation has no left-to-right shunt that floods the lungs.",
+     "lang": "en",
+     "source": "MedCosmos Cardiac, Q12",
+     "answers": [
+      0,
+      2,
+      3
+     ],
+     "marks": [
+      1
+     ],
+     "answerMarks": [
+      2,
+      3,
+      4
+     ]
+    }
+   ],
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0012.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.43,
+      "r": 0.12
+     },
+     "what": "Rope still pinching the orca",
+     "means": "Coarctation left untreated"
+    },
+    {
+     "spot": {
+      "x": 0.53,
+      "y": 0.34,
+      "r": 0.09
+     },
+     "what": "Cards sprouting broccoli at the pinch",
+     "means": "Endocarditis (vegetations)"
+    },
+    {
+     "spot": {
+      "x": 0.62,
+      "y": 0.1,
+      "r": 0.11
+     },
+     "what": "Lightning striking the orca's head",
+     "means": "Stroke, cerebrovascular accident"
+    },
+    {
+     "spot": {
+      "x": 0.3,
+      "y": 0.7,
+      "r": 0.22
+     },
+     "what": "Taxis jammed solid below",
+     "means": "Congestive heart failure"
+    },
+    {
+     "spot": {
+      "x": 0.75,
+      "y": 0.75,
+      "r": 0.13
+     },
+     "what": "Man with dollars walking free",
+     "means": "No pulmonary vascular disease"
+    }
+   ]
+  },
+  {
+   "id": "medcos-q0013",
+   "title": "The ASD that goes with partial anomalous pulmonary venous return: sinus venosus",
+   "titleAr": "الفتحة الأذينية المرافقة للعَود الوريدي الرئوي الشاذّ الجزئي: فتحة الجيب الوريدي",
+   "tags": [
+    "cardiac/congenital",
+    "d:anatomy",
+    "q:recall",
+    "l:1"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في بروكلين، على ناصية شارع قديم، قام فندق صغير اسمه فندق الأيّل، فوق بابه رأس أيّل عظيم القرون.",
+       "t": 0,
+       "spot": {
+        "x": 0.48,
+        "y": 0.7,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "وكان الفندق جناحين: جناحًا أزرق وجناحًا أحمر، بينهما جدار فاصل، وفي طابقه العلويّ بهوان سقفاهما من زجاج.",
+       "t": 10244,
+       "spot": {
+        "x": 0.5,
+        "y": 0.4,
+        "r": 0.45
+       }
+      },
+      {
+       "text": "وكانت أنابيب المال تأتي من خارج الفندق محمّلةً بأوراق الدولار الخضراء، لتصبّ كلّها في البهو الأحمر حيث الخزنة.",
+       "t": 21353,
+       "spot": {
+        "x": 0.75,
+        "y": 0.35,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "وفي أعلى الجدار الفاصل، تحت مدخنة الجناح الأزرق مباشرةً، ثغرة قديمة وقف فيها تمثال فينوس من رخام أبيض.",
+       "t": 31590,
+       "spot": {
+        "x": 0.42,
+        "y": 0.22,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "وإلى جانب فينوس دخل أنبوبان من أنابيب المال إلى البهو الأزرق، فتناثرت الأوراق على أرضه بدل أن تذهب إلى الخزنة.",
+       "t": 42121,
+       "spot": {
+        "x": 0.25,
+        "y": 0.38,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "وفي وسط الجدار ساعة كبيرة بعقرب ثوان، وفي أسفله طبق من لحم الضلع الفاخر، وكلاهما ساكن في موضعه.",
+       "t": 52360,
+       "spot": {
+        "x": 0.47,
+        "y": 0.52,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "فصعد المدير الجديد، السيّد وايت، يتتبّع المال الضائع، فوجد الثغرة والتّمثال، ووجد الأنبوبين يصبّان إلى جانبهما.",
+       "t": 62612,
+       "spot": {
+        "x": 0.6,
+        "y": 0.35,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "فصاح: «حيث وقفت فينوس في أعلى الجدار، ضلّ المال طريقه إلى الجناح الأزرق!»",
+       "t": 74171,
+       "spot": {
+        "x": 0.6,
+        "y": 0.35,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "فقالت عاملة التنظيف العجوز مارغريت، وهي تجمع الأوراق عن البلاط الأزرق: «يا سيّدي، الجميل لا يأتي وحده، يأتي ومعه ضيوفه.»",
+       "t": 80912,
+       "spot": {
+        "x": 0.15,
+        "y": 0.48,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "ثمّ رفعت عينيها إلى التمثال، وقالت:",
+       "t": 93181,
+       "spot": {
+        "x": 0.42,
+        "y": 0.22,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "«صار كلّ امرئ صديقي من ظنّه، ولم يطلب أسراري من داخلي.»",
+       "quote": "جلال الدين الرومي، المثنوي، الكتاب الأول",
+       "t": 98013
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0013-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "The upper floor of the heart holds the two atria, divided by the atrial septum, and atrial septal defects are named by where they lie in it.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.35,
+        "r": 0.45
+       }
+      },
+      {
+       "text": "The sinus venosus defect lies high in the septum, at the entry of the superior vena cava.",
+       "t": 8753,
+       "spot": {
+        "x": 0.42,
+        "y": 0.22,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "It is the ASD most commonly associated with partial anomalous pulmonary venous return: the right upper, and often the middle, pulmonary veins drain into the superior vena cava or the right atrium beside the defect; this is the answer.",
+       "t": 15309,
+       "spot": {
+        "x": 0.25,
+        "y": 0.38,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "The secundum defect in the middle, at the fossa ovalis, is the commonest ASD but is only occasionally associated with anomalous veins.",
+       "t": 30728,
+       "spot": {
+        "x": 0.47,
+        "y": 0.47,
+        "r": 0.06
+       }
+      },
+      {
+       "text": "The ostium primum defect lies low, just above the atrioventricular valves, and goes with a cleft mitral valve rather than anomalous veins.",
+       "t": 40150,
+       "spot": {
+        "x": 0.47,
+        "y": 0.56,
+        "r": 0.07
+       }
+      },
+      {
+       "text": "A sinus venosus defect is repaired with a patch that closes the hole and baffles the anomalous veins into the left atrium.",
+       "t": 49538,
+       "spot": {
+        "x": 0.35,
+        "y": 0.28,
+        "r": 0.18
+       }
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0013-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "The atrial septal defect (ASD) most commonly associated with partial anomalous pulmonary venous return (PAPVR) is:",
+     "options": [
+      "Secundum defect.",
+      "Sinus venosus defect.",
+      "Ostium primum defect.",
+      "Complete atrioventricular (AV) canal defect.",
+      "Coronary sinus defect."
+     ],
+     "answer": 1,
+     "explain": "The upper floor of the heart holds the two atria, divided by the atrial septum, and atrial septal defects are named by where they lie in it. The sinus venosus defect lies high in the septum, at the entry of the superior vena cava. It is the ASD most commonly associated with partial anomalous pulmonary venous return: the right upper, and often the middle, pulmonary veins drain into the superior vena cava or the right atrium beside the defect; this is the answer. The secundum defect in the middle, at the fossa ovalis, is the commonest ASD but is only occasionally associated with anomalous veins. The ostium primum defect lies low, just above the atrioventricular valves, and goes with a cleft mitral valve rather than anomalous veins. A sinus venosus defect is repaired with a patch that closes the hole and baffles the anomalous veins into the left atrium.",
+     "lang": "en",
+     "source": "MedCosmos Cardiac, Q13",
+     "marks": [
+      3,
+      4
+     ],
+     "answerMarks": [
+      2
+     ]
+    }
+   ],
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0013.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.48,
+      "y": 0.7,
+      "r": 0.07
+     },
+     "what": "Stag's head over the hotel door",
+     "means": "Heart (\"hart\"): the HART Hotel"
+    },
+    {
+     "spot": {
+      "x": 0.42,
+      "y": 0.22,
+      "r": 0.09
+     },
+     "what": "Venus at the top of the wall",
+     "means": "Sinus venosus ASD"
+    },
+    {
+     "spot": {
+      "x": 0.27,
+      "y": 0.36,
+      "r": 0.12
+     },
+     "what": "Money pipes pouring into the blue lobby",
+     "means": "Right pulmonary veins draining to the right side"
+    },
+    {
+     "spot": {
+      "x": 0.25,
+      "y": 0.08,
+      "r": 0.07
+     },
+     "what": "Chimney of the blue wing",
+     "means": "Superior vena cava"
+    },
+    {
+     "spot": {
+      "x": 0.47,
+      "y": 0.47,
+      "r": 0.06
+     },
+     "what": "Clock in the middle",
+     "means": "Secundum ASD"
+    },
+    {
+     "spot": {
+      "x": 0.47,
+      "y": 0.56,
+      "r": 0.06
+     },
+     "what": "Prime rib at the bottom",
+     "means": "Ostium primum ASD"
+    }
+   ]
+  },
+  {
+   "id": "medcos-q0014",
+   "title": "An atrial shunt flows toward the more compliant ventricle",
+   "titleAr": "اتجاه التحويلة على مستوى الأذينين تحدّده مطاوعة البطينين",
+   "tags": [
+    "cardiac/congenital",
+    "d:physiology",
+    "q:recall",
+    "l:2"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في مساء ماطر فتح فندق الأيّل في بروكلين أبوابه لحفلة الأطفال، وملأ طابقه العلويّ بكرات مطّاطيّة حمراء.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.3,
+        "r": 0.4
+       }
+      },
+      {
+       "text": "وفي وسط الجدار الفاصل بين البهو الأحمر والبهو الأزرق ثغرة مستديرة كبيرة، كانت يومًا ساعةً فنزعت.",
+       "t": 9228,
+       "spot": {
+        "x": 0.44,
+        "y": 0.27,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "وكان الطابق السفليّ من الجناح الأزرق قلعةً منفوخةً ليّنة، تبتلع كلّ ما يسقط فيها برفق.",
+       "t": 17977,
+       "spot": {
+        "x": 0.35,
+        "y": 0.75,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "أمّا الطابق السفليّ من الجناح الأحمر فقبو فولاذيّ صلب الجدران، يرتدّ عن بابه كلّ شيء.",
+       "t": 25646,
+       "spot": {
+        "x": 0.88,
+        "y": 0.75,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فتدحرجت الكرات الحمر من البهو الأحمر، وعبرت الثغرة إلى البهو الأزرق، ثمّ نزلت على الدرج إلى القلعة المنفوخة.",
+       "t": 32689,
+       "spot": {
+        "x": 0.25,
+        "y": 0.45,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "فجاء النجّار بيل بشريط القياس، فقاس الثغرة وقال: «لو صغّرتها أو كبّرتها، لما غيّر ذلك وجهة الكرات.»",
+       "t": 41999,
+       "spot": {
+        "x": 0.8,
+        "y": 0.3,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "فضحكت الطفلة ميا وصاحت: «الكرات لا تسأل عن الثغرة، الكرات تسأل: أين الحضن الليّن؟»",
+       "t": 51953,
+       "spot": {
+        "x": 0.45,
+        "y": 0.7,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "ثمّ قفزت في القلعة المنفوخة، فتبعتها الكرات كأنّها تعرف الطريق.",
+       "t": 58981,
+       "spot": {
+        "x": 0.4,
+        "y": 0.72,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "فنظرت أمّها إلى القبو الفولاذيّ الصامت، ثمّ إلى القلعة الضاحكة، وقالت:",
+       "t": 64927,
+       "spot": {
+        "x": 0.55,
+        "y": 0.75,
+        "r": 0.4
+       }
+      },
+      {
+       "text": "«حيثما كان ألم مضى إليه الدواء، وحيثما كان منخفض جرى إليه الماء.»",
+       "quote": "جلال الدين الرومي، المثنوي، الكتاب الثاني",
+       "t": 72262
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0014-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "When there is an atrial septal defect, the direction of flow across it is set mainly in diastole, when both atria empty into their ventricles.",
+       "t": 0,
+       "spot": {
+        "x": 0.44,
+        "y": 0.27,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "Blood takes the easier path, into the ventricle that fills more readily: the more compliant one.",
+       "t": 8877,
+       "spot": {
+        "x": 0.3,
+        "y": 0.55,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "The thin-walled right ventricle is normally more compliant than the thick left ventricle, so the shunt is left to right; the compliance of the two ventricles is the answer.",
+       "t": 15182,
+       "spot": {
+        "x": 0.35,
+        "y": 0.75,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "The size of the defect decides how much can flow, not which way, and across a large defect the two atrial pressures are almost equal.",
+       "t": 25241,
+       "spot": {
+        "x": 0.7,
+        "y": 0.28,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "If the right ventricle becomes stiff, from pulmonary hypertension or pulmonary stenosis, the shunt can reverse and become right to left.",
+       "t": 34423,
+       "spot": {
+        "x": 0.88,
+        "y": 0.75,
+        "r": 0.12
+       }
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0014-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "The direction of an intracardiac shunt at the atrial level is controlled by:",
+     "options": [
+      "The size of the defect",
+      "The compliance of the right and left ventricles.",
+      "The systemic oxygen saturation.",
+      "Right atrial pressure.",
+      "The presence or absence of an associated ventricular septal defect (VSD)."
+     ],
+     "answer": 1,
+     "explain": "When there is an atrial septal defect, the direction of flow across it is set mainly in diastole, when both atria empty into their ventricles. Blood takes the easier path, into the ventricle that fills more readily: the more compliant one. The thin-walled right ventricle is normally more compliant than the thick left ventricle, so the shunt is left to right; the compliance of the two ventricles is the answer. The size of the defect decides how much can flow, not which way, and across a large defect the two atrial pressures are almost equal. If the right ventricle becomes stiff, from pulmonary hypertension or pulmonary stenosis, the shunt can reverse and become right to left.",
+     "lang": "en",
+     "source": "MedCosmos Cardiac, Q14",
+     "marks": [
+      1,
+      2,
+      5
+     ],
+     "answerMarks": [
+      3,
+      4
+     ]
+    }
+   ],
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0014.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.44,
+      "y": 0.27,
+      "r": 0.08
+     },
+     "what": "Round hole in the party wall",
+     "means": "Atrial septal defect"
+    },
+    {
+     "spot": {
+      "x": 0.25,
+      "y": 0.45,
+      "r": 0.15
+     },
+     "what": "Red balls rolling to the blue side",
+     "means": "Left-to-right shunt"
+    },
+    {
+     "spot": {
+      "x": 0.35,
+      "y": 0.75,
+      "r": 0.22
+     },
+     "what": "Soft bouncy castle downstairs",
+     "means": "Compliant right ventricle"
+    },
+    {
+     "spot": {
+      "x": 0.88,
+      "y": 0.75,
+      "r": 0.11
+     },
+     "what": "Stiff steel vault",
+     "means": "Stiffer left ventricle"
+    },
+    {
+     "spot": {
+      "x": 0.75,
+      "y": 0.28,
+      "r": 0.12
+     },
+     "what": "Carpenter measuring the hole",
+     "means": "Defect size: how much, not which way"
+    }
+   ]
+  },
+  {
+   "id": "medcos-q0015",
+   "title": "The ASD that goes with mitral insufficiency: ostium primum",
+   "titleAr": "الفتحة الأذينية المرافقة لقصور الصمام التاجي: الفتحة الأوّلية",
+   "tags": [
+    "cardiac/congenital",
+    "d:anatomy",
+    "q:recall",
+    "l:1"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في ظهيرة يوم أحد أقام فندق الأيّل غداءً كبيرًا، وكان الأسقف بندكت ضيف الشرف في البهو الأحمر.",
+       "t": 0,
+       "spot": {
+        "x": 0.85,
+        "y": 0.4,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "وكان في أرض البهو باب سحريّ ينزل إلى المطبخ، بمصراعين صنعا على هيئة تاج الأسقف الطويل، مطرّزين بالذّهب.",
+       "t": 8228,
+       "spot": {
+        "x": 0.65,
+        "y": 0.55,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "وفي أسفل الجدار الفاصل، لصق الأرض ولصق الباب، ثغرة مدّ منها الطبّاخ طبقًا فضّيًّا عليه ضلع لحم فاخر.",
+       "t": 17667,
+       "spot": {
+        "x": 0.45,
+        "y": 0.55,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "ولم يكن في الجدار غير هذه الثغرة الواطئة؛ أمّا فينوس في أعلاه والسّاعة في وسطه فبقيتا ساكنتين في موضعيهما.",
+       "t": 26950,
+       "spot": {
+        "x": 0.42,
+        "y": 0.22,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فلمّا مدّ الطبّاخ الطبق، اصطدم بالمصراع الأماميّ من الباب، فانشقّ من وسطه نصفين.",
+       "t": 36568,
+       "spot": {
+        "x": 0.65,
+        "y": 0.55,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "فصار الخدم كلّما صبّوا النبيذ الأحمر إلى المطبخ تحته، ارتدّت منه نافورة إلى البهو من ذلك الشقّ.",
+       "t": 44083,
+       "spot": {
+        "x": 0.62,
+        "y": 0.38,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فنظر الأسقف إلى تاجه في يديه، ثمّ إلى الباب المشقوق على هيئته، وقال ضاحكًا من حزنه: «انشقّ تاجي وأنا جالس!»",
+       "t": 52090,
+       "spot": {
+        "x": 0.85,
+        "y": 0.4,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فقال مدير الفندق: «لا عجب يا سيّدي؛ الثغرة الواطئة جارة الباب، ومن جاور الثغرة أصابه شقّها.»",
+       "t": 62541,
+       "spot": {
+        "x": 0.55,
+        "y": 0.55,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "ثمّ رفع الأسقف كأسه، والنّبيذ يتناثر حوله، وقال:",
+       "t": 71953,
+       "spot": {
+        "x": 0.85,
+        "y": 0.4,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«بالمحبّة يصير المرّ حلوًا، وبالمحبّة يصير النحاس ذهبًا.»",
+       "quote": "جلال الدين الرومي، المثنوي، الكتاب الثاني",
+       "t": 78076
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0015-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "The ostium primum defect lies at the very bottom of the atrial septum, directly above the atrioventricular valves; it is a partial atrioventricular septal defect.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.55,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "In this defect the anterior leaflet of the mitral valve is almost always cleft, split in two.",
+       "t": 11353,
+       "spot": {
+        "x": 0.65,
+        "y": 0.55,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "Blood leaks back through the cleft into the left atrium, so the ostium primum defect is the ASD most commonly associated with mitral insufficiency: this is the answer.",
+       "t": 17775,
+       "spot": {
+        "x": 0.62,
+        "y": 0.38,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "At repair the cleft is closed with sutures and the defect with a patch, keeping clear of the conduction tissue near its lower edge.",
+       "t": 28873,
+       "spot": {
+        "x": 0.65,
+        "y": 0.55,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "Secundum and sinus venosus defects lie higher in the septum and leave the mitral valve normal.",
+       "t": 36944,
+       "spot": {
+        "x": 0.42,
+        "y": 0.22,
+        "r": 0.12
+       }
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0015-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "The ASD most commonly associated with mitral insufficiency is:",
+     "options": [
+      "Secundum defect",
+      "Sinus venosus defect",
+      "Ostium primum defect.",
+      "Coronary sinus defect."
+     ],
+     "answer": 2,
+     "explain": "The ostium primum defect lies at the very bottom of the atrial septum, directly above the atrioventricular valves; it is a partial atrioventricular septal defect. In this defect the anterior leaflet of the mitral valve is almost always cleft, split in two. Blood leaks back through the cleft into the left atrium, so the ostium primum defect is the ASD most commonly associated with mitral insufficiency: this is the answer. At repair the cleft is closed with sutures and the defect with a patch, keeping clear of the conduction tissue near its lower edge. Secundum and sinus venosus defects lie higher in the septum and leave the mitral valve normal.",
+     "lang": "en",
+     "source": "MedCosmos Cardiac, Q15",
+     "marks": [
+      3
+     ],
+     "answerMarks": [
+      1,
+      2
+     ]
+    }
+   ],
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0015.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.45,
+      "y": 0.55,
+      "r": 0.08
+     },
+     "what": "Prime rib through the lowest hole",
+     "means": "Ostium primum ASD"
+    },
+    {
+     "spot": {
+      "x": 0.65,
+      "y": 0.55,
+      "r": 0.1
+     },
+     "what": "Mitre-shaped trapdoor, front leaf split",
+     "means": "Cleft anterior mitral leaflet"
+    },
+    {
+     "spot": {
+      "x": 0.62,
+      "y": 0.38,
+      "r": 0.13
+     },
+     "what": "Wine spraying back up",
+     "means": "Mitral insufficiency"
+    },
+    {
+     "spot": {
+      "x": 0.85,
+      "y": 0.4,
+      "r": 0.11
+     },
+     "what": "Bishop holding his own mitre",
+     "means": "Mitral valve"
+    },
+    {
+     "spot": {
+      "x": 0.42,
+      "y": 0.22,
+      "r": 0.11
+     },
+     "what": "Venus and the clock higher up",
+     "means": "Sinus venosus and secundum: mitral normal"
+    }
+   ]
+  },
+  {
+   "id": "medcos-q0016",
+   "title": "Ejection murmur with incomplete right bundle branch block: secundum ASD",
+   "titleAr": "نفخة قذفية مع حصار غير تامّ في الحزمة: الفتحة الأذينية الثانوية",
+   "tags": [
+    "cardiac/congenital",
+    "d:diagnosis",
+    "q:recall",
+    "l:2"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في ليلة ثلجيّة انطفأت مدفأة البهو الأزرق في فندق الأيّل، فارتجف النزلاء تحت سقفه الزجاجيّ.",
+       "t": 0,
+       "spot": {
+        "x": 0.15,
+        "y": 0.25,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فحمل الحمّال العجوز أوتيس حزمةً كبيرةً من الأغصان الجافّة من البهو الأحمر، يريد بها المدفأة.",
+       "t": 7667,
+       "spot": {
+        "x": 0.45,
+        "y": 0.28,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "ولم يكن له إلى البهو الأزرق طريق إلّا الثغرة المستديرة في وسط الجدار، حيث كانت الساعة الكبيرة بعقرب ثوانيها.",
+       "t": 15229,
+       "spot": {
+        "x": 0.5,
+        "y": 0.22,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "فدخل بالحزمة من إطار الساعة، والعقرب يدور فوق رأسه ثانيةً بعد ثانية.",
+       "t": 24049,
+       "spot": {
+        "x": 0.48,
+        "y": 0.25,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فمرّت الأغصان كلّها، إلّا غصنًا في يمين الحزمة علق نصفه بإطار الساعة، فلا هو مرّ ولا هو انقطع.",
+       "t": 30506,
+       "spot": {
+        "x": 0.75,
+        "y": 0.28,
+        "r": 0.06
+       }
+      },
+      {
+       "text": "وكانت الريح تمرّ من الثغرة مع كلّ دفعة، فتصفر في البهو الأزرق صفيرًا خفيفًا ناعمًا.",
+       "t": 39066,
+       "spot": {
+        "x": 0.3,
+        "y": 0.18,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "فشدّ أوتيس الغصن العالق، وقال لابنه: «انظر يا بنيّ: صفير ناعم، وغصن عالق في اليمين؛ هكذا تعرف الثغرة الّتي في الوسط.»",
+       "t": 46311,
+       "spot": {
+        "x": 0.45,
+        "y": 0.25,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "ثمّ أوقد المدفأة، فدفئ البهو الأزرق، وظلّ الغصن العالق يتأرجح في إطار الساعة.",
+       "t": 58355,
+       "spot": {
+        "x": 0.1,
+        "y": 0.35,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "فجلس أوتيس أمام النار، ونظر إلى عقرب الثواني يدور، وقال:",
+       "t": 65253,
+       "spot": {
+        "x": 0.55,
+        "y": 0.15,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "«خلق الحقّ مئة ألف كيمياء، فما رأى آدم كيمياءً كالصّبر.»",
+       "quote": "جلال الدين الرومي، المثنوي، الكتاب الثالث",
+       "t": 71771
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0016-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "A secundum ASD lies in the middle of the atrial septum, at the fossa ovalis, and is the commonest type.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.22,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "Its left-to-right shunt loads the right heart, and the extra flow across the pulmonary valve gives a soft systolic ejection murmur, often with fixed splitting of the second heart sound.",
+       "t": 7882,
+       "spot": {
+        "x": 0.3,
+        "y": 0.18,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "The stretched right ventricle slows conduction in the right bundle branch, so the ECG shows an incomplete right bundle branch block (rSR' in the right precordial leads), usually with right axis deviation.",
+       "t": 19113,
+       "spot": {
+        "x": 0.75,
+        "y": 0.28,
+        "r": 0.06
+       }
+      },
+      {
+       "text": "A systolic ejection murmur with incomplete right bundle branch block is therefore most consistent with a secundum ASD: this is the answer.",
+       "t": 31953,
+       "spot": {
+        "x": 0.55,
+        "y": 0.25,
+        "r": 0.22
+       }
+      },
+      {
+       "text": "Ostium primum and complete atrioventricular canal defects also show a right bundle branch pattern, but with left axis deviation, which points away from the secundum type.",
+       "t": 41440
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0016-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "An electrocardiogram (ECG) in a patient with a systolic ejection murmur that shows an incomplete bundle branch block in the precordial lead is most consistent with:",
+     "options": [
+      "A secundum ASD.",
+      "A sinus venosus ASD with PAPVR.",
+      "An ostium primum ASD.",
+      "A complete AV canal defect."
+     ],
+     "answer": 0,
+     "explain": "A secundum ASD lies in the middle of the atrial septum, at the fossa ovalis, and is the commonest type. Its left-to-right shunt loads the right heart, and the extra flow across the pulmonary valve gives a soft systolic ejection murmur, often with fixed splitting of the second heart sound. The stretched right ventricle slows conduction in the right bundle branch, so the ECG shows an incomplete right bundle branch block (rSR' in the right precordial leads), usually with right axis deviation. A systolic ejection murmur with incomplete right bundle branch block is therefore most consistent with a secundum ASD: this is the answer. Ostium primum and complete atrioventricular canal defects also show a right bundle branch pattern, but with left axis deviation, which points away from the secundum type.",
+     "lang": "en",
+     "source": "MedCosmos Cardiac, Q16",
+     "marks": [
+      3,
+      4
+     ],
+     "answerMarks": [
+      1
+     ]
+    }
+   ],
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0016.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.22,
+      "r": 0.16
+     },
+     "what": "Clock-hole in the middle of the wall",
+     "means": "Secundum ASD"
+    },
+    {
+     "spot": {
+      "x": 0.45,
+      "y": 0.28,
+      "r": 0.13
+     },
+     "what": "Bundle of branches carried through",
+     "means": "The conduction bundle and its branches"
+    },
+    {
+     "spot": {
+      "x": 0.75,
+      "y": 0.28,
+      "r": 0.06
+     },
+     "what": "Right-hand branch caught halfway",
+     "means": "Incomplete right bundle branch block"
+    },
+    {
+     "spot": {
+      "x": 0.3,
+      "y": 0.18,
+      "r": 0.09
+     },
+     "what": "Soft whistle of wind",
+     "means": "Soft systolic ejection murmur"
+    },
+    {
+     "spot": {
+      "x": 0.1,
+      "y": 0.35,
+      "r": 0.08
+     },
+     "what": "Cold fireplace in the blue lobby",
+     "means": "The right heart takes the extra flow"
+    }
+   ]
+  },
+  {
+   "id": "medcos-q0017",
+   "title": "The ASD that can be closed primarily without a patch: secundum",
+   "titleAr": "الفتحة الأذينية الّتي تُغلق بالخياطة المباشرة بلا رقعة: الفتحة الثانوية",
+   "tags": [
+    "cardiac/congenital",
+    "d:technique",
+    "q:recall",
+    "l:1"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في يوم ترميم فندق الأيّل، جاء ثلاثة صنّاع يسدّون ثغرات الجدار الفاصل، ومع كلّ واحد رقعة كبيرة من القماش.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.45,
+        "r": 0.4
+       }
+      },
+      {
+       "text": "فأمّا البنّاء ليون فصعد إلى أعلى الجدار، إلى ثغرة فينوس، وفرد رقعته عليها وعلى الأنبوبين اللذين يصبّان إلى جانبها.",
+       "t": 10650,
+       "spot": {
+        "x": 0.42,
+        "y": 0.12,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "وأمّا البنّاء جو فنزل إلى أسفل الجدار، إلى ثغرة ضلع اللحم عند باب الأسقف، وسمّر رقعته عليها.",
+       "t": 21585,
+       "spot": {
+        "x": 0.55,
+        "y": 0.72,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "وأمّا الخيّاطة العجوز بيرل فوقفت أمام الثغرة المستديرة في وسط الجدار، حيث كانت الساعة، وتأمّلت حوافّها.",
+       "t": 30908,
+       "spot": {
+        "x": 0.55,
+        "y": 0.38,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فإذا هي حوافّ ليّنة متينة، قريب بعضها من بعض.",
+       "t": 41324,
+       "spot": {
+        "x": 0.52,
+        "y": 0.35,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "فتركت رقعتها على الأرض، وأخرجت إبرةً كبيرةً وخيطًا أحمر غليظًا، وخاطت الحافّة إلى الحافّة غرزةً بعد غرزة.",
+       "t": 46632,
+       "spot": {
+        "x": 0.62,
+        "y": 0.38,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "فانغلقت الثغرة كأنّها لم تكن، ولم يبق منها إلّا خطّ رفيع من الغرز الحمراء.",
+       "t": 57435,
+       "spot": {
+        "x": 0.52,
+        "y": 0.35,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "فقال ليون من أعلى السلّم: «يا بيرل، أين رقعتك؟» فقالت: «من كانت حافّتاه قريبتين، لم يحتج إلى غريب بينهما.»",
+       "t": 64739,
+       "spot": {
+        "x": 0.7,
+        "y": 0.4,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "ثمّ قطعت الخيط بأسنانها، وقالت:",
+       "t": 76205,
+       "spot": {
+        "x": 0.7,
+        "y": 0.4,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "«لا تقل: ليس لنا إلى ذلك الملك سبيل؛ فليس على الكرماء أمر عسير.»",
+       "quote": "جلال الدين الرومي، المثنوي، الكتاب الأول",
+       "t": 81134
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0017-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "Every atrial septal defect can be closed with a pericardial or prosthetic patch.",
+       "t": 0,
+       "spot": {
+        "x": 0.45,
+        "y": 0.45,
+        "r": 0.4
+       }
+      },
+      {
+       "text": "A secundum defect lies in the middle of the septum, surrounded by septal rims, and when it is small or moderate its edges can be brought together without tension.",
+       "t": 5675,
+       "spot": {
+        "x": 0.5,
+        "y": 0.35,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "So a secundum ASD can safely be closed primarily, by direct suture, without a patch: this is the answer; many are now closed with a catheter device instead.",
+       "t": 15580,
+       "spot": {
+        "x": 0.52,
+        "y": 0.35,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "A sinus venosus defect needs a patch that both closes the hole and baffles the anomalous pulmonary veins into the left atrium.",
+       "t": 26683,
+       "spot": {
+        "x": 0.42,
+        "y": 0.12,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "Ostium primum and complete atrioventricular canal defects lie next to the valves and the conduction tissue, so they need a patch sewn away from the conduction bundle.",
+       "t": 34889,
+       "spot": {
+        "x": 0.55,
+        "y": 0.72,
+        "r": 0.15
+       }
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0017-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "ASDs can all be closed with a pericardial or prosthetic patch. Which of the following ASDs can also be safely closed primarily without the use of a patch?",
+     "options": [
+      "Secundum ASD.",
+      "Sinus venosus ASD with PAPVR.",
+      "An ostium primum ASD.",
+      "A complete AV canal defect."
+     ],
+     "answer": 0,
+     "explain": "Every atrial septal defect can be closed with a pericardial or prosthetic patch. A secundum defect lies in the middle of the septum, surrounded by septal rims, and when it is small or moderate its edges can be brought together without tension. So a secundum ASD can safely be closed primarily, by direct suture, without a patch: this is the answer; many are now closed with a catheter device instead. A sinus venosus defect needs a patch that both closes the hole and baffles the anomalous pulmonary veins into the left atrium. Ostium primum and complete atrioventricular canal defects lie next to the valves and the conduction tissue, so they need a patch sewn away from the conduction bundle.",
+     "lang": "en",
+     "source": "MedCosmos Cardiac, Q17",
+     "marks": [
+      3,
+      4
+     ],
+     "answerMarks": [
+      1,
+      2
+     ]
+    }
+   ],
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0017.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.35,
+      "r": 0.11
+     },
+     "what": "Clock-hole sewn edge to edge",
+     "means": "Secundum ASD: primary closure, no patch"
+    },
+    {
+     "spot": {
+      "x": 0.3,
+      "y": 0.52,
+      "r": 0.06
+     },
+     "what": "Unused patch on the floor",
+     "means": "No patch needed"
+    },
+    {
+     "spot": {
+      "x": 0.42,
+      "y": 0.12,
+      "r": 0.11
+     },
+     "what": "Patch over Venus and the pipes",
+     "means": "Sinus venosus: patch and baffle"
+    },
+    {
+     "spot": {
+      "x": 0.55,
+      "y": 0.72,
+      "r": 0.13
+     },
+     "what": "Patch over the prime-rib hole",
+     "means": "Ostium primum: patch, away from conduction"
+    }
+   ]
+  },
+  {
+   "id": "medcos-q0018",
+   "title": "Obstructed pulmonary venous return: infracardiac and supracardiac TAPVC, vein stenosis, cor triatriatum",
+   "titleAr": "انسداد العَود الوريدي الرئوي: الاتصال الشاذّ الكلّي تحت القلب وفوقه، وتضيّق الأوردة، والقلب ثلاثيّ الأذينات",
+   "tags": [
+    "cardiac/congenital",
+    "d:pathology",
+    "q:recall",
+    "l:3"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في يوم من أيّام الذعر المصرفيّ، تعطّلت أنابيب المال الّتي تحمل الدولارات إلى خزنة فندق الأيّل.",
+       "t": 0,
+       "spot": {
+        "x": 0.45,
+        "y": 0.35,
+        "r": 0.35
+       }
+      },
+      {
+       "text": "فخرج المحاسب العجوز هيرمان يتتبّع الأنابيب واحدًا واحدًا، ومعه حفيدته زوي بفانوس.",
+       "t": 7723,
+       "spot": {
+        "x": 0.12,
+        "y": 0.63,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "فوجد أنبوبًا غاص تحت الشارع إلى نفق القطار، وانضغط هناك تحت القضبان، فتكدّست فيه الأوراق لا تتحرّك.",
+       "t": 15666,
+       "spot": {
+        "x": 0.4,
+        "y": 0.88,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "ووجد آخر صعد إلى ما فوق السطح ثمّ التفّ ليعود، فانحشر بين عارضتين من خشب السقف، فاختنق المال فيه.",
+       "t": 24901,
+       "spot": {
+        "x": 0.45,
+        "y": 0.1,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "ووجد أنابيب أخرى ضيّقتها حلقات الصدأ، فلا يمرّ منها إلّا خيط من الورق.",
+       "t": 33831,
+       "spot": {
+        "x": 0.3,
+        "y": 0.42,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "ثمّ دخل البهو الأحمر، فإذا فيه جدار زجاجيّ لم يره من قبل، يقسمه بهوين، ليس فيه إلّا ثقب صغير، والأوراق متراكمة خلفه حتّى السقف.",
+       "t": 40501,
+       "spot": {
+        "x": 0.72,
+        "y": 0.35,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فقالت زوي: «جدّي، هذا بهو ثالث! من أين جاء؟» وكان على الزجاج رقم مطليّ: ثلاثة.",
+       "t": 52615,
+       "spot": {
+        "x": 0.72,
+        "y": 0.35,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "ولم يجد هيرمان أنبوبًا يجري حرًّا إلّا أنبوبًا واحدًا ضلّ إلى مدخنة الجناح الأزرق، تتطاير منه الأوراق طليقة.",
+       "t": 61576,
+       "spot": {
+        "x": 0.15,
+        "y": 0.12,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "فضحك هيرمان رغم حزنه وقال: «الّذي ضلّ قليلًا جرى حرًّا، والّذين ضلّوا بعيدًا أو ضاقوا انحبسوا!»",
+       "t": 70537,
+       "spot": {
+        "x": 0.1,
+        "y": 0.63,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "ثمّ جلس على درج الفندق، ونظر إلى أكداس المال المحبوس، وقال:",
+       "t": 79677,
+       "spot": {
+        "x": 0.45,
+        "y": 0.5,
+        "r": 0.4
+       }
+      },
+      {
+       "text": "«بع الذكاء واشتر الحيرة؛ فالذّكاء ظنّ، والحيرة نظر.»",
+       "quote": "جلال الدين الرومي، المثنوي، الكتاب الرابع",
+       "t": 86412
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0018-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "Pulmonary venous return is obstructed when blood leaving the lungs meets a narrowing on its way to the heart, causing severe pulmonary venous congestion.",
+       "t": 0,
+       "spot": {
+        "x": 0.45,
+        "y": 0.35,
+        "r": 0.35
+       }
+      },
+      {
+       "text": "In infracardiac (type III) total anomalous pulmonary venous connection, the common vein runs down through the diaphragm to the portal system and is almost always obstructed.",
+       "t": 9180,
+       "spot": {
+        "x": 0.4,
+        "y": 0.88,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "In supracardiac (type I) TAPVC, the vertical vein can be obstructed, for example where it is squeezed between the left pulmonary artery and the left bronchus.",
+       "t": 20952,
+       "spot": {
+        "x": 0.45,
+        "y": 0.1,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "Congenital pulmonary vein stenosis narrows the veins themselves.",
+       "t": 32481,
+       "spot": {
+        "x": 0.3,
+        "y": 0.42,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "In cor triatriatum a membrane with a small opening divides the left atrium in two and obstructs the flow from the pulmonary veins.",
+       "t": 37498,
+       "spot": {
+        "x": 0.72,
+        "y": 0.35,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "So B, C, D and E are the answer; partial anomalous connection of one or two veins to the superior vena cava is usually unobstructed.",
+       "t": 46176,
+       "spot": {
+        "x": 0.15,
+        "y": 0.12,
+        "r": 0.1
+       }
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0018-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Obstruction to pulmonary venous return is associated with which of the following anomalies?",
+     "options": [
+      "Partial anomalous pulmonary venous connection (PAPVC) to the superior vena cava.",
+      "Infracardiac (Type III) total anomalous pulmonary venous connection (TAPVC).",
+      "Pulmonary vein stenosis.",
+      "Cor triatriatum.",
+      "Supracardiac (Type I) TAPVC."
+     ],
+     "answer": 1,
+     "explain": "Pulmonary venous return is obstructed when blood leaving the lungs meets a narrowing on its way to the heart, causing severe pulmonary venous congestion. In infracardiac (type III) total anomalous pulmonary venous connection, the common vein runs down through the diaphragm to the portal system and is almost always obstructed. In supracardiac (type I) TAPVC, the vertical vein can be obstructed, for example where it is squeezed between the left pulmonary artery and the left bronchus. Congenital pulmonary vein stenosis narrows the veins themselves. In cor triatriatum a membrane with a small opening divides the left atrium in two and obstructs the flow from the pulmonary veins. So B, C, D and E are the answer; partial anomalous connection of one or two veins to the superior vena cava is usually unobstructed.",
+     "lang": "en",
+     "source": "MedCosmos Cardiac, Q18",
+     "answers": [
+      1,
+      2,
+      3,
+      4
+     ],
+     "marks": [
+      5
+     ],
+     "answerMarks": [
+      1,
+      2,
+      3,
+      4
+     ]
+    }
+   ],
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0018.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.4,
+      "y": 0.88,
+      "r": 0.14
+     },
+     "what": "Pipe crushed in the subway tunnel",
+     "means": "Infracardiac TAPVC: almost always obstructed"
+    },
+    {
+     "spot": {
+      "x": 0.45,
+      "y": 0.1,
+      "r": 0.14
+     },
+     "what": "Pipe looping over the roof, pinched",
+     "means": "Supracardiac TAPVC: vertical vein obstructed"
+    },
+    {
+     "spot": {
+      "x": 0.3,
+      "y": 0.42,
+      "r": 0.11
+     },
+     "what": "Pipes narrowed by rust rings",
+     "means": "Pulmonary vein stenosis"
+    },
+    {
+     "spot": {
+      "x": 0.72,
+      "y": 0.35,
+      "r": 0.13
+     },
+     "what": "Extra glass partition marked 3",
+     "means": "Cor triatriatum"
+    },
+    {
+     "spot": {
+      "x": 0.15,
+      "y": 0.12,
+      "r": 0.09
+     },
+     "what": "Pipe into the chimney, flowing free",
+     "means": "PAPVC to the SVC: unobstructed"
+    }
+   ]
+  },
+  {
+   "id": "medcos-q0019",
+   "title": "After TAPVC repair: pulmonary hypertensive crisis and pulmonary venous obstruction",
+   "titleAr": "بعد إصلاح الاتصال الوريدي الرئوي الشاذّ الكلّي: نوبة ارتفاع الضغط الرئوي، وانسداد الأوردة الرئوية",
+   "tags": [
+    "cardiac/congenital",
+    "d:complications",
+    "q:recall",
+    "l:2"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "بعد أشهر من الضياع، أعاد المهندسون أنابيب المال كلّها إلى خزنة حمراء واحدة في شارع وول، ولحموها في بابها لحامًا جديدًا يلمع.",
+       "t": 0,
+       "spot": {
+        "x": 0.35,
+        "y": 0.45,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فتدفّقت الدولارات في الأنابيب إلى الخزنة، وصفّق الموظّفون، وظنّوا أنّ العسر قد انتهى.",
+       "t": 11328,
+       "spot": {
+        "x": 0.6,
+        "y": 0.48,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "لكنّ كبيرة المهندسين، العجوز أوفيليا، لم تصفّق، وظلّت تراقب أمرين.",
+       "t": 18871,
+       "spot": {
+        "x": 0.15,
+        "y": 0.55,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فأمّا الأوّل فعدّاد الضغط الكبير على الأنبوب: ففي ليلة هادئة قفزت إبرته فجأةً إلى الأحمر، فانتفخ الأنبوب وانفجر، وتطايرت الأوراق في الشارع.",
+       "t": 26341,
+       "spot": {
+        "x": 0.7,
+        "y": 0.3,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "فأسرعت أوفيليا تهدّئ الأنبوب، وتفتح له المنافذ، حتّى رجعت الإبرة عن الأحمر.",
+       "t": 38588,
+       "spot": {
+        "x": 0.25,
+        "y": 0.48,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "وأمّا الثاني فأبطأ وأخبث: عند موضع اللحام الجديد أخذت حلقة من الندب تشتدّ يومًا بعد يوم، وتضيّق الأنبوب.",
+       "t": 45878,
+       "spot": {
+        "x": 0.45,
+        "y": 0.48,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "فبدأت الأوراق تتكدّس قبلها، وقلّ ما يصل منها إلى الخزنة.",
+       "t": 55654,
+       "spot": {
+        "x": 0.6,
+        "y": 0.48,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فقال لها مساعدها الشابّ: «ألا نخاف على أسلاك الخزنة، ومن الماء في أرضها؟» فقالت: «لا يا بنيّ؛ عيني على العدّاد وعلى اللحام.»",
+       "t": 61425,
+       "spot": {
+        "x": 0.15,
+        "y": 0.5,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "ثمّ وضعت يدها على اللحام الّذي يضيق، وقالت:",
+       "t": 73175,
+       "spot": {
+        "x": 0.3,
+        "y": 0.45,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "«طب نفسًا أيّها العشق، يا طيّب الهوى، يا طبيب علّاتنا كلّها.»",
+       "quote": "جلال الدين الرومي، المثنوي، الكتاب الأول",
+       "t": 78084
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0019-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "After repair of total anomalous pulmonary venous connection, the pulmonary veins drain again into the left atrium through a new anastomosis.",
+       "t": 0,
+       "spot": {
+        "x": 0.3,
+        "y": 0.45,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "The small, muscular pulmonary arteries of these infants react violently, so acute pulmonary hypertensive crises are a main early danger, treated with sedation, ventilation and nitric oxide.",
+       "t": 8995,
+       "spot": {
+        "x": 0.6,
+        "y": 0.2,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "Pulmonary venous obstruction, at the anastomosis or in the veins themselves, is the main late complication, in roughly one patient in ten, and carries a poor outlook.",
+       "t": 21861,
+       "spot": {
+        "x": 0.45,
+        "y": 0.48,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "So B and D are the answer.",
+       "t": 32825,
+       "spot": {
+        "x": 0.5,
+        "y": 0.35,
+        "r": 0.35
+       }
+      },
+      {
+       "text": "Complete heart block is not typical, because the repair is away from the conduction tissue, and pleural effusions are not a characteristic complication of this repair.",
+       "t": 35119
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0019-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Postoperative complications associated with repair of TAPVC include:",
+     "options": [
+      "Complete heart block.",
+      "Acute pulmonary hypertensive crisis.",
+      "Pleural effusions.",
+      "Pulmonary venous obstruction."
+     ],
+     "answer": 1,
+     "explain": "After repair of total anomalous pulmonary venous connection, the pulmonary veins drain again into the left atrium through a new anastomosis. The small, muscular pulmonary arteries of these infants react violently, so acute pulmonary hypertensive crises are a main early danger, treated with sedation, ventilation and nitric oxide. Pulmonary venous obstruction, at the anastomosis or in the veins themselves, is the main late complication, in roughly one patient in ten, and carries a poor outlook. So B and D are the answer. Complete heart block is not typical, because the repair is away from the conduction tissue, and pleural effusions are not a characteristic complication of this repair.",
+     "lang": "en",
+     "source": "MedCosmos Cardiac, Q19",
+     "answers": [
+      1,
+      3
+     ],
+     "marks": [
+      1
+     ],
+     "answerMarks": [
+      2,
+      3,
+      4
+     ]
+    }
+   ],
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0019.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.3,
+      "y": 0.45,
+      "r": 0.12
+     },
+     "what": "Pipes re-joined to the vault",
+     "means": "TAPVC repaired into the left atrium"
+    },
+    {
+     "spot": {
+      "x": 0.6,
+      "y": 0.2,
+      "r": 0.11
+     },
+     "what": "Gauge needle in the red",
+     "means": "Acute pulmonary hypertensive crisis"
+    },
+    {
+     "spot": {
+      "x": 0.85,
+      "y": 0.45,
+      "r": 0.13
+     },
+     "what": "Money pipe bursting",
+     "means": "The crisis: a sudden early danger"
+    },
+    {
+     "spot": {
+      "x": 0.45,
+      "y": 0.48,
+      "r": 0.08
+     },
+     "what": "Ring of scar narrowing at the weld",
+     "means": "Pulmonary venous obstruction"
+    },
+    {
+     "spot": {
+      "x": 0.15,
+      "y": 0.55,
+      "r": 0.13
+     },
+     "what": "Engineer watching gauge and weld",
+     "means": "The two dangers to watch"
+    }
+   ]
+  },
+  {
+   "id": "medcos-q0020",
+   "title": "VSD facts: perimembranous near the tricuspid commissure, the commonest defect, conduction along the posteroinferior rim",
+   "titleAr": "حقائق الفتحة بين البطينين: حول الغشائية قرب صِوار ثلاثي الشُّرف، وهي أشيع العيوب، والحزمة على حافّتها الخلفية السفلية",
+   "tags": [
+    "cardiac/congenital",
+    "d:anatomy",
+    "q:recall",
+    "l:3"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في الطابق السفليّ من فندق الأيّل، حيث تدور المراوح العظيمة في غرفتي المحرّكات، انفتحت في الجدار الفاصل ثغرة.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.45,
+        "r": 0.45
+       }
+      },
+      {
+       "text": "كانت في أعلى الجدار، لصق جلد طبل رقيق مشدود، وإلى جانبها رمح ثلاثيّ الشعب، عند الموضع الّذي تلتقي فيه شعبتان منه.",
+       "t": 8641,
+       "spot": {
+        "x": 0.47,
+        "y": 0.35,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "وعلى حافّتها الخلفيّة السفلى امتدّت حزمة من الأغصان تسري فيها شرارات الكهرباء، تسوق المراوح كلّها.",
+       "t": 18679,
+       "spot": {
+        "x": 0.5,
+        "y": 0.46,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فجاء الكهربائيّ العجوز إغناسيو، ووضع إصبعه على الحزمة وقال لتلميذه: «إن خطت هذه الثغرة فخط بعيدًا عن هنا، وإلّا أطفأت الفندق كلّه.»",
+       "t": 26723,
+       "spot": {
+        "x": 0.3,
+        "y": 0.62,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "وكانت على الجدار كأس ذهبيّة عليها رقم: واحد، فهذه الثغرة أولى ثغرات الجدران في المدينة وأكثرها وقوعًا.",
+       "t": 38989,
+       "spot": {
+        "x": 0.5,
+        "y": 0.55,
+        "r": 0.06
+       }
+      },
+      {
+       "text": "وفي أسفل الجدار، في لحمه الآجرّيّ الغليظ، ثغرة أخرى صغيرة، يحيط بها الآجرّ من كلّ جانب، لا طبل عندها ولا رمح.",
+       "t": 48101,
+       "spot": {
+        "x": 0.62,
+        "y": 0.75,
+        "r": 0.06
+       }
+      },
+      {
+       "text": "فقال التلميذ: «وهذه الثانية تحدّها الأبواب من فوقها؟» فضحك إغناسيو: «بل يحدّها الآجرّ من كلّ جهة؛ ومن قال لك غير ذلك فقد أخطأ.»",
+       "t": 58141,
+       "spot": {
+        "x": 0.4,
+        "y": 0.68,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "ثمّ نظر إلى الثغرتين، وإلى الحزمة الّتي تسري فيها الشرارات، وقال:",
+       "t": 70709,
+       "spot": {
+        "x": 0.52,
+        "y": 0.55,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "«يا أخي، أنت الفكرة وحدها، وما بقي منك عظم وألياف.»",
+       "quote": "جلال الدين الرومي، المثنوي، الكتاب الثاني",
+       "t": 77305
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0020-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "Ventricular septal defects are named by where they lie in the interventricular septum.",
+       "t": 0,
+       "spot": {
+        "x": 0.55,
+        "y": 0.55,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "A perimembranous defect lies in the region of the membranous septum, close to the anteroseptal commissure of the tricuspid valve, so statement A is correct.",
+       "t": 5954,
+       "spot": {
+        "x": 0.42,
+        "y": 0.35,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "The conduction bundle runs along the posteroinferior rim of a perimembranous defect, so sutures are placed away from that edge: statement D is correct.",
+       "t": 16315,
+       "spot": {
+        "x": 0.5,
+        "y": 0.46,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "In its isolated form, a VSD is the most commonly recognised congenital heart defect: statement C is correct.",
+       "t": 26363,
+       "spot": {
+        "x": 0.5,
+        "y": 0.55,
+        "r": 0.06
+       }
+      },
+      {
+       "text": "Statement B is wrong: a muscular VSD is bordered by muscle on all sides; a defect bordered above by the aortic and pulmonary valve annulus is a doubly committed subarterial defect.",
+       "t": 34773,
+       "spot": {
+        "x": 0.62,
+        "y": 0.75,
+        "r": 0.06
+       }
+      },
+      {
+       "text": "So A, C and D are the answer.",
+       "t": 47540,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.4
+       }
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0020-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which of the following statements about VSDs is/are correct?",
+     "options": [
+      "Perimembranous lesions are located in the region of the membranous portion of the interventricular septum near the anteroseptal commissure of the tricuspid valve.",
+      "Muscular VSDs are holes in the interventricular septum that are bordered by muscle on three sides and by the pulmonary and the aortic valve annulus superiorly.",
+      "VSD, in its isolated form, is the most commonly recognized congenital heart defect.",
+      "The conduction bundle runs along the posteroinferior rim of a perimembranous VSD."
+     ],
+     "answer": 0,
+     "explain": "Ventricular septal defects are named by where they lie in the interventricular septum. A perimembranous defect lies in the region of the membranous septum, close to the anteroseptal commissure of the tricuspid valve, so statement A is correct. The conduction bundle runs along the posteroinferior rim of a perimembranous defect, so sutures are placed away from that edge: statement D is correct. In its isolated form, a VSD is the most commonly recognised congenital heart defect: statement C is correct. Statement B is wrong: a muscular VSD is bordered by muscle on all sides; a defect bordered above by the aortic and pulmonary valve annulus is a doubly committed subarterial defect. So A, C and D are the answer.",
+     "lang": "en",
+     "source": "MedCosmos Cardiac, Q20",
+     "answers": [
+      0,
+      2,
+      3
+     ],
+     "marks": [
+      6
+     ],
+     "answerMarks": [
+      1,
+      2,
+      3,
+      4
+     ]
+    }
+   ],
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0020.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.47,
+      "y": 0.33,
+      "r": 0.08
+     },
+     "what": "Hole beside the drum skin",
+     "means": "Perimembranous VSD"
+    },
+    {
+     "spot": {
+      "x": 0.32,
+      "y": 0.33,
+      "r": 0.09
+     },
+     "what": "Trident beside the hole",
+     "means": "Near the tricuspid anteroseptal commissure"
+    },
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.46,
+      "r": 0.13
+     },
+     "what": "Sparking bundle along the lower back edge",
+     "means": "Conduction bundle on the posteroinferior rim"
+    },
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.55,
+      "r": 0.06
+     },
+     "what": "Trophy marked 1",
+     "means": "Commonest congenital heart defect"
+    },
+    {
+     "spot": {
+      "x": 0.62,
+      "y": 0.75,
+      "r": 0.06
+     },
+     "what": "Small hole ringed by brick",
+     "means": "Muscular VSD: muscle on every side"
+    },
+    {
+     "spot": {
+      "x": 0.15,
+      "y": 0.55,
+      "r": 0.11
+     },
+     "what": "Engine-room fans",
+     "means": "The ventricles"
+    }
+   ]
+  }
+ ]
+}
