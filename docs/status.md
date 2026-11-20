@@ -30,6 +30,22 @@ Updated 2026-11-19 (evening). Whoever works on YouTop next: read `CLAUDE.md`, th
   edge-tts and faster-whisper for `voice.py`. Pictures still wanted: 1, 10, 16, 21, 25, 31, 38, 45, 60, 65, 76,
   81-110 (86-96, 99, 102, 103 never had one). The hourly scheduled task trig_01CgSmtZZ33N4gFXAr9mtxZy fires into
   THIS session; a new session should disable it (update_trigger enabled=false) and create its own if wanted.
+- **2026-11-20, evening (a new session, alone): 108 lessons PUBLISHED.** 37 of the 41 wanted pictures arrived
+  (14:08-14:11 UTC) and are published with new spots and marks, every grid and every circle drawing looked at:
+  redrawn 10, 16, 21, 25, 31, 38, 45, 60, 65, 76, 81-85, 97, 98, 100, 101, 105-110 (`--replace b`), and the first
+  pictures of 86-90, 92, 94-96, 99, 102, 103. Those 14 lessons were never published, so their audio was not on
+  `content`: they were rebuilt from their batches and their voices made again (`voice.py make --only ...`;
+  `voice.py check`: every sentence heard). Work files: `work/medcosmos-cardiac/pictures-2026-11-20/`
+  (spots, marks, notes). **Pictures still wanted: 1, 91, 93, 104** (`drafts/medcosmos-cardiac/prompts-missing.txt`);
+  91 and 93 are written and recorded but held back until their picture comes.
+  - Found when looking (left as published; the owner decides): 25 lacks the "brick wall with a hole" block (VSD), the
+    big 4 fills that block; 105 lacks the snapped harp post (papillary muscle rupture, one of the four answers);
+    106 shows a woman (the story says a man) and the frozen leg is not the one the tube enters; 31's third hole is not
+    visible; 84's thermometer looks like a cigarette.
+  - Restart notes: the old `.content` worktree from an earlier session refused to update ("unrelated histories");
+    delete `.content` and `git worktree prune`, then export. `publish.py --export` writes books only: copy
+    `.content/work/medcosmos-cardiac` into `.content-work/work/` by hand.
+  - NEXT: questions 111-156, prompts first.
 - **Where things stand (2026-11-20, 10:30 UTC):** texts and voices for 1-110 done. **96 lessons PUBLISHED** (complete
   only), published with `publish.py <scratchpad>/pub-mc --complete-only` (pub-mc links only `books/medcosmos-cardiac`
   and `work`).

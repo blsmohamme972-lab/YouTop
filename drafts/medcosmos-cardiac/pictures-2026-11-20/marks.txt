@@ -1,0 +1,286 @@
+book: medcosmos-cardiac
+== 10
+1: 28 72 9 | Premature chick with thumping chest | Hyperactive precordium
+2: 28 86 8 | Feet bouncing as on springs | Bounding peripheral pulses
+3: 45 18 20 | Wide-open duct-tape tunnel | Patent ductus arteriosus
+4: 85 42 14 | Cement mixer roaring nonstop | Continuous (machinery) murmur
+5: 57 67 10 | Bellows the keeper cannot take away | Cannot be weaned from the ventilator
+6: 18 33 14 | Vet pointing at the tunnel | The duct floods the lungs
+question: 3 5
+answer: 1 2 4
+== 16
+1: 50 30 20 | Clock-hole in the middle of the wall | Secundum ASD
+2: 40 35 14 | Bundle of branches carried through | The conduction bundle and its branches
+3: 74 30 10 | Right-hand branch caught on the rim | Incomplete right bundle branch block
+4: 12 25 10 | Soft whistle of wind | Soft systolic ejection murmur
+5: 9 42 11 | Cold fireplace in the blue lobby | The right heart takes the extra flow
+question: 3 4
+answer: 1
+== 21
+1: 26 69 9 | Baby orca pinched by a rope | Coarctation with a large VSD
+2: 21 48 7 | Calendar showing 3 | Repair within 3 months
+3: 57 55 12 | The big orca's sagging, dripping mouth | Aortic incompetence
+4: 88 60 9 | Hourglass half run | It develops over time and progresses
+5: 68 12 9 | Duct-tape tunnel | Patent ductus arteriosus
+6: 87 17 8 | Sign 1/4 | In about a quarter
+7: 38 25 11 | Gridlocked taxis | Infants in heart failure
+8: 45 62 22 | Large hole in the party wall | Large VSD
+question: 8
+answer: 1 3 5 6 7
+== 25
+1: 65 25 13 | Orca astride the wall | Overriding aorta
+2: 28 45 12 | Clamp squeezing the dollar pipe | Pulmonary stenosis
+3: 22 63 14 | Walls swollen into thick muscle | Right ventricular hypertrophy
+4: 78 70 14 | Clock block that does not fit | ASD is not one of the four
+5: 30 22 12 | The number 4 | Four features
+question: 1 2 3 5
+answer: 4
+== 31
+1: 40 20 20 | Orca and dollar pipe both from the blue room | DORV
+2: 35 30 15 | Red canvas tunnel into the orca's mouth | Tunnel repair (subaortic or doubly committed VSD)
+3: 38 55 11 | Cherries tossed into the hole under the pipe | Taussig-Bing
+4: 42 62 9 | Switchman pulling the lever | Arterial switch
+5: 55 56 9 | Workman with a flat patch | Straight patch closure of the VSD
+6: 8 57 8 | Stone fountain outside | Fontan for some noncommitted VSDs
+question: 1
+answer: 2 3 4 5 6
+== 38
+1: 25 35 13 | Orca rising from the blue room | Aorta from the right ventricle
+2: 78 38 11 | Dollar pipe rising from the red room | Pulmonary artery from the left ventricle
+3: 50 57 9 | Solid lower party wall | Intact ventricular septum
+4: 57 37 9 | Party balloon yanked through the upper wall | Balloon atrial septostomy
+5: 47 30 9 | Beer stein propping the tunnel | PGE1
+6: 62 12 13 | Water tower filled to the brim | Intravenous fluid
+question: 1 2 3
+answer: 4 5 6
+== 45
+1: 60 64 16 | Pearl necklace just above the mouth | Supravalvular aortic stenosis
+2: 22 31 14 | Pearls along the whole back | The diffuse form
+3: 17 45 9 | Strings from the back pinched | Arch branches narrowed
+4: 88 17 10 | Repaired orca floating away free | Reoperation rare after discrete repair
+5: 88 37 10 | Orca coming back | Unless the valve itself is abnormal
+question: 1
+answer: 2 3 4 5
+== 60
+1: 60 35 22 | Bouncer ejecting guests while running | Exercise ejection fraction
+2: 22 80 14 | Fortune teller's crystal ball | Prognostic information
+question: 2
+answer: 1
+== 65
+1: 35 38 12 | Einstein pushing the trident down | Ebstein's anomaly
+2: 48 78 12 | Trident deep in the engine room | Displaced tricuspid valve
+3: 42 28 12 | Water spraying back up | Tricuspid regurgitation
+4: 68 32 13 | Huge white sail | Redundant anterior leaflet blocking the outflow
+5: 82 16 10 | Wooden blocks in the dollar pipe | High neonatal pulmonary resistance
+6: 85 49 9 | Newborn with blue lips | Cyanosis
+question: 1 2
+answer: 3 4 5 6
+== 76
+1: 12 67 10 | Tissue box set in as the valve | Bioprosthesis
+2: 75 62 15 | Steel robot valve | Mechanical valve
+3: 30 72 10 | Rat walking away after 3 months | Warfarin only for the first months
+4: 78 41 11 | Rat staying on the robot | Lifelong warfarin
+question: 1 2
+answer: 3 4
+== 81
+1: 50 47 14 | Sparking branches at the knot | AV node
+2: 78 42 10 | Red express track | Fast pathway
+3: 18 48 9 | Green local track | Slow pathway
+4: 51 27 8 | Red signal at the top of the express track | Antegrade block in the fast pathway
+5: 25 55 9 | Train going round and round | Re-entry tachycardia
+question: 1 2 3
+answer: 4 5
+== 82
+1: 8 50 12 | Blowtorch on the knot, drummer below: one star | His bundle ablation: the rhythm only
+2: 25 50 11 | Corridor, Pinocchio on both sides: one star | Corridor procedure: the rhythm only
+3: 45 52 12 | Pinocchio shut behind glass: two stars | Left atrial isolation: rhythm and AV synchrony
+4: 78 45 16 | Hedge maze: three stars | Maze: all three harms
+5: 90 65 9 | Bowling balls back in their rack | No thromboembolism
+question: 1 2 3 4
+answer: 5
+== 83
+1: 75 15 16 | Fan of the blue engine room racing | VT in the right ventricle
+2: 50 62 22 | Toy train circling a loop | Re-entry, not automaticity
+3: 9 42 9 | Left branch tied with a red ribbon | Left bundle branch block pattern
+4: 50 57 10 | Pill bottles bouncing off | Refractory to drugs
+question: 1 3 4
+answer: 2
+== 84
+1: 42 52 20 | Jelly ball on one stalk, swinging in the lobby | Left atrial myxoma growing into the cavity
+2: 55 55 11 | First-prize rosette | The most common primary cardiac tumour
+3: 86 60 13 | Guest with swollen joints and a rash | Mimics collagen vascular disease
+4: 27 12 13 | Bat finding it by echo | Diagnosed by echocardiography
+5: 60 22 10 | Single stalk from the clock | One origin at the fossa ovalis
+question: 4 5
+answer: 1 2 3
+== 85
+1: 50 38 26 | Crab in a czar's crown on the throne | Sarcoma: the commonest primary malignancy
+2: 12 24 10 | Small crabs hidden in the cracks | Metastatic tumours
+3: 30 80 22 | Guests walking past unaware | Usually asymptomatic
+question: 2
+answer: 1 3
+== 86
+1: 50 40 22 | Drummer beating on the bare chest | Transcutaneous pacing; at times it fails to capture
+2: 34 73 8 | Red burn marks under the sticks | Skin burns
+3: 50 80 14 | Chest muscles jerking | Painful chest wall muscle contractions
+4: 82 28 13 | Calm red fan, no Pinocchio | It does not cause ventricular fibrillation
+question: 1 2 3
+answer: 4
+== 87
+1: 55 40 22 | Drawbridge stuck raised | Complete heart block
+2: 40 18 9 | Chains turned to grey, cracked stone | Sclerodegenerative disease: fibrosis of the conduction system
+3: 52 68 13 | Knot of the sparking branches | AV node and bundle
+4: 25 25 11 | Old caretaker tapping the stone | Age is the usual cause
+question: 1
+answer: 2
+== 88
+1: 65 35 17 | Conductor sick in bed with a thermometer | Sick sinus syndrome
+2: 55 63 7 | Baton dropped on the floor | The sinus node fails: slow, stopping or erratic rhythm
+3: 25 40 15 | Drummer keeping a steady beat | Permanent pacemaker
+4: 60 88 18 | Musicians following the drum | The heart follows the paced rhythm
+question: 3
+answer: 1 2
+== 89
+1: 28 47 9 | Needle-thin drumstick tip | Small electrode tip concentrates the current
+2: 30 57 18 | Drum booming at a light touch | Capture at low output: lower pacing threshold
+3: 85 48 13 | Fat club, drum barely sounding | Large tip spreads the current: higher threshold
+question: 1 3
+answer: 2
+== 90
+1: 12 68 10 | Battery marked 5V | Measured at 5 volts, near the pacing output
+2: 45 48 18 | Yogi sitting on the wire, chanting OM | Lead resistance (impedance)
+3: 65 35 12 | Sign 300-800 | 300 to 800 ohms
+4: 88 50 11 | Wire running to the engine-room fan | Pacing lead to the ventricle
+question: 1 2 4
+answer: 3
+== 92
+1: 45 20 20 | Drummer riding on the jogger's back | Rate-modulated pacemaker
+2: 50 55 22 | Jogger running hard | Body motion: the sensor used most often
+3: 45 80 14 | Legs racing, leaves flying | Faster movement, faster pacing
+question: 1
+answer: 2 3
+== 94
+1: 15 80 13 | Pen in the right hand | The dominant side
+2: 57 52 12 | Pocket on the left upper chest, near the middle | Generator pocket over the anteromedial chest wall
+3: 57 42 8 | Small red drum slipped in | The pacemaker generator
+question: 1 3
+answer: 2
+== 95
+1: 62 32 15 | Upstairs drummer | Atrial channel of a dual-chamber pacemaker
+2: 40 78 16 | Engine-room drummer | Ventricular pacing
+3: 28 45 13 | Echo rising back up | Retrograde atrial activation
+4: 42 18 10 | Ear trumpet catching the echo | Sensed as a new atrial beat
+5: 75 60 12 | Arrows looping round | Endless-loop tachycardia
+question: 1 2 5
+answer: 3 4
+== 96
+1: 80 20 14 | Pressure gauge swinging back out of the red | Hypertension under control
+2: 50 38 15 | Lady of seventy-five in bed | Elderly patient before abdominal surgery
+3: 15 55 13 | Ice-hockey goalkeeper blocking the puck | Atenolol (beta-blocker): safe
+4: 15 18 12 | Tennis player serving an ace | Captopril (ACE inhibitor): safe
+5: 55 80 13 | Canal dammed by chalky glue | Nifedipine (calcium channel blocker): safe
+6: 78 57 11 | Liberty crown with tar on one spike | Mild coronary artery disease
+question: 1 2 6
+answer: 3 4 5
+== 97
+1: 25 40 14 | Taxis gridlocked | Postoperative heart failure
+2: 55 55 18 | Coal miner pushing a taxi | Dopamine
+3: 15 57 12 | Doberman pulling a taxi | Dobutamine
+4: 32 15 16 | Windmill blowing the taxis along | Amrinone and milrinone
+5: 90 28 10 | Foxglove pot turned away | Digitalis: not safe in the elderly
+question: 1 5
+answer: 2 3 4
+== 98
+1: 40 62 16 | Steel robot valve | Mechanical valve
+2: 80 70 13 | Rat walking away | Warfarin stopped
+3: 85 40 9 | Calendar at 5 | Five days before operation
+4: 45 40 14 | Hare hopping onto the robot | Intravenous heparin bridge
+5: 13 38 10 | Surgeon waiting | Elective operation
+question: 1 5
+answer: 2 3 4
+== 99
+1: 25 52 12 | Taxis jammed before the gates | Heart failure after major surgery
+2: 32 35 15 | Prussian soldier throwing the gates open | Nitroprusside: afterload reduction
+3: 35 65 16 | Coal miner pushing the taxis | Dopamine: inotropic support
+4: 82 20 15 | Windmill blowing the cars along | Milrinone
+5: 85 40 12 | Nurse watching the monitors | Close perioperative monitoring
+question: 1
+answer: 2 3 4 5
+== 100
+1: 25 28 13 | Pinocchio trembling upstairs | New atrial fibrillation
+2: 55 55 16 | Fan racing below | Rapid ventricular response
+3: 20 52 10 | Salt and bananas balanced on a scale | Correct the electrolytes
+4: 85 45 12 | Inspector checking the stag for an arrow | Look for myocardial infarction
+5: 55 78 13 | Foxglove beside the fan | Slow the rate with digitalis
+question: 1 2
+answer: 3 4 5
+== 101
+1: 75 78 18 | Roller-pump truck plugged into the hotel | Cardiopulmonary bypass
+2: 18 62 14 | Waterfall turning to red jelly | Coagulation cascade
+3: 38 48 11 | Waterfall dissolving a net of threads | Fibrinolytic cascade
+4: 63 40 13 | Waiter throwing bouquets | Complement activation
+question: 1
+answer: 2 3 4
+== 102
+1: 75 72 20 | Roller-pump truck with its hoses | Cardiopulmonary bypass
+2: 40 45 13 | Gauge on the chimney reading 78% | Mixed venous saturation about 78%: the flow is adequate
+3: 20 62 13 | Ox in an oxygen mask nodding | The tissues receive enough oxygen
+4: 82 70 12 | Other dials covered with cloths | Pressure, arterial PO2, CVP and lactate tell less
+question: 1 4
+answer: 2 3
+== 103
+1: 80 80 9 | Stopwatch at 3 min | The first few minutes of bypass
+2: 82 68 11 | Pulse line flattening | Flow becomes nonpulsatile
+3: 70 60 10 | White plates sticking inside the hoses | Platelet count falls
+4: 12 80 11 | Waiter throwing bouquets | Complement is activated
+5: 25 65 12 | City gates swinging open | Systemic vascular resistance falls
+6: 75 35 17 | Sponge in the wall, still dry | Interstitial fluid has not risen yet
+question: 1 2 3 4 5
+answer: 6
+== 105
+1: 50 48 20 | Pink sausage balloon slipped into the orca | Intra-aortic balloon pump
+2: 18 25 15 | Angel unmoved by the pills | Medically refractory angina
+3: 20 82 15 | Ship just closed, fan failing | Ventricular failure after cardiac surgery
+4: 82 72 12 | Snapped Slinky in the crown | Failed PTCA
+question: 1
+answer: 2 3 4
+== 106
+1: 60 15 20 | Sausage balloon in the orca | Intra-aortic balloon pump
+2: 58 48 9 | Tube entering at the groin | Femoral insertion
+3: 30 72 18 | Frozen blue leg | Limb ischaemia, the commonest complication
+4: 70 75 16 | Warm pink leg | The other leg is fine
+question: 1 2
+answer: 3 4
+== 107
+1: 68 47 13 | Tin man with a clockwork heart | Implanted artificial heart
+2: 30 47 9 | Copper coil outside the chest | External coil
+3: 55 47 8 | Matching coil inside | Implanted coil
+4: 42 47 9 | Rings of light, no wire | Inductive coupling
+question: 1
+answer: 2 3 4
+== 108
+1: 75 55 20 | Tin man with air hoses to a compressor | Pneumatic artificial heart
+2: 87 20 11 | Calendar with over twelve pages torn off | Support for over a year
+3: 57 35 9 | Cards with broccoli at the hose entry | Infection
+4: 25 75 14 | Bowling balls rolling out | Thromboembolism
+5: 17 25 14 | Surgeons fitting the heart on chalk marks | Implanted much like a transplant
+question: 1
+answer: 2 3 4 5
+== 109
+1: 40 75 25 | One big red engine room, no party wall | Univentricular heart (usually double-inlet left ventricle)
+2: 35 57 11 | Tape under the ceiling door | At least half of an inlet valve
+3: 20 32 9 | Baby with blue lips | Cyanotic infant
+4: 40 32 12 | Hose from the orca joined by the plumber | Blalock-Taussig shunt
+5: 92 72 10 | Open dollar pipe and gridlocked taxis | No pulmonary stenosis: heart failure
+6: 68 28 12 | Fountain in the courtyard | Fontan as the final repair
+question: 1
+answer: 2 3 4 5 6
+== 110
+1: 30 37 16 | Rope pinching the orca | Coarctation
+2: 20 25 9 | Gauge in the red above the rope | Hypertension in the upper body
+3: 80 75 14 | Pale legs, no pulse at the groin | Absent femoral pulses
+4: 62 26 13 | Bicycle wedged in the orca's mouth | Bicuspid aortic valve
+5: 75 50 13 | Railings notched by thick vines | Rib notching
+6: 25 70 11 | Baby pink above, blue below | Differential cyanosis in infancy
+question: 1 2 3
+answer: 4 5 6
