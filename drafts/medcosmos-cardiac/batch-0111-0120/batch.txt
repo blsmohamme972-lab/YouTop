@@ -18,6 +18,26 @@ words: 1
 keywords: myxoma -> a wobbling ball of green jelly on a stalk, hanging from the clock on the party wall into the red lobby; echocardiography -> a bat sending out rings of sound and seeing the jelly by their echoes; syncope -> a woman fainting backwards onto a red velvet couch; excision with the adjacent septum -> a surgeon lifting the jelly out together with a round disc of wallpaper and brick cut out around its stalk; angiosarcoma (malignant) -> one big red crab wearing a gold first-place medal
 must: the surgeon cuts out a round disc of the WALL together with the stalk; the crab wears a gold medal with the number 1
 scene: The red upper lobby of the old Brooklyn hotel with a stag's head over its door, seen cut open like a doll's house, evening light. CENTRE, dominant and brightest: a surgeon in a white coat lifts a wobbling ball of translucent green jelly out of the lobby; its single stalk was attached to the round clock on the party wall, and the surgeon has cut out a whole round disc of wallpaper and brick around the stalk, which comes out with the jelly, leaving a clean round opening that a second surgeon is patching. Above, a bat sends rings of sound toward the jelly. LEFT: a woman faints backwards onto a red velvet couch. RIGHT, on a shelf: one big red crab wearing a shining gold medal with the number 1 on it.
+story:
+في مساء أحمر في فندق الأيّل، سقطت السيّدة مارثا مغشيًّا عليها على أريكة من المخمل الأحمر.
+كانت تسقط هكذا مرّةً بعد مرّة، ثمّ تقوم كأنّ شيئًا لم يكن.
+فطار الخفّاش فوق البهو الأحمر يرسل حلقات الصوت، فرأى كرةً من الهلام الأخضر معلّقةً بساق واحدة من الساعة.
+كانت الكرة تتأرجح، فتسدّ الباب الّذي في الأرض حينًا، فتسقط مارثا.
+فجاء الجرّاح وقطع حول الساق قرصًا مستديرًا من الجدار نفسه، ورفع الهلام والقرص معًا.
+فقال الحارس سام: «لماذا تأخذ من الجدار قطعةً؟ الهلام وحده يكفي!»
+فقال الجرّاح: «إن تركت جذره في الجدار عاد؛ فنأخذه مع ما حوله، ثمّ نرقع الثقب.»
+وعلى رفّ قريب جلس سرطان بحر أحمر كبير، يلبس وسامًا ذهبيًّا عليه رقم واحد.
+فقالت المديرة بيرل: «أكثر ما ينبت في جدراننا لا يؤذي؛ لكنّ هذا أوّل الخبثاء.»
+ففتحت مارثا عينيها على الأريكة، فقالت بيرل:
+quote: «هذا الإنسان دار ضيافة، يأتيها في كلّ صباح ضيف جديد.»
+source: المثنوي، الكتاب الخامس
+explanation:
+A left atrial mass in an adult is most often a myxoma, and episodes of syncope come from the tumour swinging into the mitral orifice.
+Transseptal puncture is not used for diagnosis; echocardiography is enough, and needles or catheters may dislodge tumour fragments.
+A myxoma attached to the atrial septum is excised together with a full-thickness piece of the adjacent septum, and the defect is patched, to prevent recurrence: statement C is true.
+Most primary cardiac tumours are benign, and the commonest primary malignant tumour of the heart is angiosarcoma: statement E is true.
+So C and E are the answer.
+In infancy the commonest cardiac tumour is rhabdomyoma, a benign tumour, not rhabdomyosarcoma.
 
 == 112
 # A 2-month-old with cyanosis, a pulmonic ejection murmur and a boot-shaped heart -> A (echocardiography alone confirms tetralogy), B (spells may be treated with propranolol), D (increasing spells are the commonest indication for operation).
@@ -34,6 +54,25 @@ palette: icy winter blue, glowing amber Tetris blocks, white ice rink, warm nurs
 keywords: tetralogy of Fallot -> a giant falling Tetris piece of four glowing blocks; boot-shaped heart -> the old hotel with a stag's head built in the shape of a big boot; echocardiography -> a bat sending out rings of sound and seeing the whole Tetris piece by its echoes; propranolol (beta-blocker) -> an ice-hockey goalkeeper slamming his big blocker pad against a blue puck; cyanosis -> a baby with bright blue lips; cyanotic spells -> a stack of photographs of the baby's blue lips getting bluer
 must: the hotel's whole outline is a BOOT; the bat sees the Tetris piece while a long catheter reel lies unused on the floor; the goalkeeper blocks the blue puck BEFORE it reaches the baby
 scene: A snowy night in Brooklyn; the old hotel with a stag's head over its door is built in the shape of a giant boot. CENTRE, dominant and brightest: a giant Tetris piece of four glowing amber blocks hangs in front of the boot-shaped hotel, and a bat sends rings of sound at it and sees it whole, while a long reel of catheter tubing lies unused on the snow. In front, a baby with bright blue lips lies in a warm bassinet; an ice-hockey goalkeeper in full gear slams his big blocker pad against a blue puck flying at the baby, stopping it. RIGHT: a nurse hands a surgeon a tall, growing stack of photographs, each showing the baby turning blue.
+story:
+في ليلة ثلجيّة في بروكلين، بدا فندق الأيّل كلّه على هيئة حذاء عظيم.
+وفي مهد دافئ أمامه رقد رضيع في شهره الثاني، ولد سليمًا ثمّ ازرقّت شفتاه.
+وفوق الفندق علّق حجر عملاق من أحجار التتريس، من أربع كتل مضيئة.
+فطار الخفّاش حوله يرسل حلقات الصوت، فرآه كلّه؛ وبقيت بكرة الأنبوب الطويل مطروحةً في الثلج لا يمسّها أحد.
+فقالت الممرّضة لوسي: «الخفّاش وحده رأى كلّ شيء؛ لا حاجة بنا إلى الأنبوب.»
+وفجأةً طار قرص أزرق نحو المهد، فازرقّ الرضيع واختنق بكاؤه.
+فوثب حارس مرمى الهوكي بعدّته كلّها، وصدّ القرص بوسادته الكبيرة قبل أن يبلغه.
+ثمّ ناولت لوسي الجرّاح رزمةً من الصور، تزداد يومًا بعد يوم، وفي كلّ صورة شفتان أشدّ زرقة.
+فقال الجرّاح: «حين تكثر النوبات هكذا، فقد حان وقت العمل.»
+فنظرت لوسي إلى الحارس الثابت أمام المهد وقالت:
+quote: «المؤمن مرآة المؤمن.»
+source: المثنوي، الكتاب الأول
+explanation:
+A cyanotic infant with a pulmonary ejection murmur and a boot-shaped heart most likely has tetralogy of Fallot.
+Echocardiography alone is usually sufficient to confirm the diagnosis: statement A is true.
+Cyanotic (hypercyanotic) spells may be treated with propranolol, which relaxes the infundibular spasm: statement B is true.
+Increasing cyanotic spells are the commonest indication for operation: statement D is true, so A, B and D are the answer.
+The Blalock-Taussig shunt joins the subclavian artery to the pulmonary artery, not the right ventricle, and the outflow repair is often extended across the pulmonary valve with a transannular patch.
 
 == 113
 # A 12-year-old with an aortic ejection murmur, a thrill and a normal heart size -> D (valvar stenosis with a gradient of 80 mmHg: operate whatever the symptoms) and E (membranous subvalvar stenosis with a gradient of 40 mmHg: operate).
@@ -50,6 +89,25 @@ words: 80, 40
 keywords: valvar aortic stenosis -> the orca balloon's mouth pinched narrow; subaortic membrane -> a shower curtain stretched across the red engine room's doorway just below the orca's mouth; pressure gradient -> a brass dial with a big number; precordial thrill -> a hand on the boy's chest feeling it buzz like a phone
 must: the dial reading 80 is beside the narrow MOUTH; the dial reading 40 is beside the CURTAIN below it; the boy smiles, he has no symptoms
 scene: A school courtyard in Manhattan in bright morning light; behind it the old hotel with a stag's head, of perfectly normal size. CENTRE, dominant and brightest: a giant orca parade balloon rises from the hotel's red engine room; its mouth is pinched narrow, and a brass dial beside the mouth reads 80; a surgeon on a ladder works on the mouth while a smiling twelve-year-old boy watches, perfectly well. Just below the orca's mouth, across the red engine room's doorway, hangs a shower curtain, with a second brass dial beside it reading 40, and a second surgeon cuts the curtain away with big scissors. LEFT: a school nurse rests her hand on the boy's chest and feels it buzz like a phone on vibrate.
+story:
+في صباح مشمس في فناء مدرسة في مانهاتن، وقف الفتى ليو، في الثانية عشرة، يبتسم ولا يشكو شيئًا.
+فوضعت ممرّضة المدرسة يدها على صدره، فأحسّت به يهتزّ كهاتف صامت.
+وخلف الفناء كان فندق الأيّل بحجمه المعتاد، لا هو كبير ولا منتفخ.
+ومن غرفته الحمراء ارتفع الحوت الكبير، وقد ضاق فمه حتّى صار كالشّقّ.
+وإلى جانب الفم قرص نحاسيّ يقرأ رقمًا كبيرًا: ثمانين.
+فصعد جرّاح على سلّمه إلى الفم، فقال ليو: «لكنّني بخير يا سيّدي! لا يؤلمني شيء.»
+فقال الجرّاح: «عند الثمانين لا ننتظر شكواك؛ نعمل وإن ضحكت.»
+وتحت الفم تمامًا، على باب الغرفة الحمراء، ستارة حمّام مشدودة، وإلى جانبها قرص آخر يقرأ: أربعين.
+فقصّها جرّاح ثان بمقصّ كبير وقال: «هذه الستارة تكفيها الأربعون لنقصّها، فإنّها تعود وتفسد الفم.»
+فصفّق ليو للجرّاحين، فقالت الممرّضة:
+quote: «هيّن أسد يكسر الصفوف؛ إنّما الأسد من يكسر نفسه.»
+source: المثنوي، الكتاب الأول
+explanation:
+An ejection murmur with a thrill in a child with a normal heart size suggests aortic stenosis, valvar or subvalvar.
+In valvar aortic stenosis, a peak gradient of about 80 mmHg is an indication for intervention whatever the symptoms: statement D is true.
+A discrete membranous subvalvar stenosis is operated on at a lower gradient, about 40 mmHg, because it progresses and damages the aortic valve: statement E is true.
+So D and E are the answer.
+An ejection click points to a valvar stenosis, not a supravalvar one; echocardiography, not catheterization, measures the gradient; and syncope signals severe obstruction, not a brain lesion.
 
 == 114
 # A baby cyanotic within 2 hours of birth, heart like an egg on its side -> A (transposition is the commonest cause of cyanosis this early) and B (in transposition, the posterior vessel leaving the left ventricle is the pulmonary artery).
@@ -66,6 +124,24 @@ palette: dawn pink over the East River, pearl-white egg, black-and-white orca, c
 keywords: transposition of the great arteries -> the orca and the dollar pipe swapped: the orca leaving the blue engine room, the dollar pipe the red one; egg on its side -> the old hotel with a stag's head shaped like a giant egg lying on its side; cyanosis -> a newborn with bright blue lips; most common -> a big blue first-prize rosette; echocardiography -> a bat sending out rings of sound; posterior -> the dollar pipe running out at the very BACK of the building
 must: the orca rises from the BLUE engine room at the FRONT; the dollar pipe rises from the RED engine room at the BACK; the rosette is pinned on the swapped pair
 scene: Dawn on the East River; the old hotel with a stag's head over its door is shaped like a giant white egg lying on its side, seen cut open like a doll's house. CENTRE, dominant and brightest: everything swapped: a giant orca parade balloon rises at the front out of the BLUE engine room, while a pipe stuffed with green dollar bills rises out of the RED engine room and runs out at the very back of the building; a big blue first-prize rosette is pinned where the two cross. A bat circles, sending rings of sound and seeing the swap. FOREGROUND: in a midwife's arms, a newborn baby only two hours old, with bright blue lips.
+story:
+عند الفجر على النهر الشرقيّ، بدا فندق الأيّل كبيضة بيضاء عملاقة ملقاة على جنبها.
+وفي ذراعي القابلة رضيعة لم يمض على ولادتها ساعتان، وشفتاها زرقاوان زاهيتان.
+فطار الخفّاش حول البيضة يرسل حلقات الصوت، فرأى عجبًا: كلّ شيء مقلوب.
+فالحوت الكبير يخرج في المقدّمة من الغرفة الزرقاء، وأنبوب الدولارات يخرج من الغرفة الحمراء.
+ويمضي الأنبوب إلى الوراء، حتّى يخرج من ظهر المبنى.
+وحيث يتقاطعان علّقت شارة زرقاء كبيرة للجائزة الأولى.
+فقالت القابلة: «من ازرقّ في ساعاته الأولى، فأكثر ما يكون سببه هذا القلب المقلوب.»
+فسألها الحارس سام: «وكيف تعرفين أيّ الوعاءين هو؟»
+فقالت: «الّذي يخرج من الحمراء ويمضي إلى الخلف، هو أنبوب المال.»
+فضمّت القابلة الرضيعة إلى صدرها وقالت:
+quote: «لو اجتمعت عشرة مصابيح في مكان واحد، لاختلفت صورها، وما فرّق أحد بين نورها.»
+source: المثنوي، الكتاب الأول
+explanation:
+A baby who is clearly cyanotic within hours of birth most often has transposition of the great arteries, and the heart on the film looks like an egg on its side: statement A is true.
+In transposition the aorta arises in front from the right ventricle, and the posterior vessel leaving the left ventricle is the pulmonary artery, which echocardiography shows: statement B is true.
+So A and B are the answer.
+Catheterization still adds information, and is often used for balloon septostomy; the ECG is not diagnostic; and prostaglandin keeps the duct open, it does not raise pulmonary resistance.
 
 == 115
 # A 1-year-old thought to have tetralogy has double-outlet right ventricle -> A (spontaneous closure of the VSD is rare) and E (a doubly committed VSD is named for its relation to the great arteries).
@@ -81,6 +157,25 @@ palette: honey afternoon light, sky-blue engine room, gold rings glinting, grey 
 keywords: double-outlet right ventricle -> both the orca and the dollar pipe rising out of the blue engine room; tetralogy of Fallot -> a faded Tetris piece of four blocks propped in a corner; doubly committed -> two gold wedding rings on ribbons from the hole's rim, one tied to the orca and one to the dollar pipe; spontaneous closure rare -> a dusty bucket of cement covered in cobwebs beside the still-open hole
 must: BOTH the orca and the dollar pipe rise out of the BLUE engine room; the two rings tie the hole to BOTH; the cement bucket is untouched and cobwebbed
 scene: The ground floor of the old Brooklyn hotel with a stag's head over its door, seen cut open like a doll's house in honey afternoon light: the blue engine room on the viewer's left, the red one on the right, a thick brick party wall between them. CENTRE, dominant and brightest: a ragged hole in the party wall, high up; a giant orca parade balloon AND a pipe stuffed with green dollar bills BOTH rise out of the blue engine room right above it, and from the hole's rim two ribbons with gold wedding rings run up, one tied to the orca, one to the dollar pipe. Beside the hole an old caretaker dozes on a chair next to a dusty bucket of cement covered in cobwebs, never used. In the far corner, a faded Tetris piece of four blocks leans against the wall, forgotten.
+story:
+في عصر عسليّ في فندق الأيّل، كان في ركن غرفة المحرّكات حجر تتريس باهت، من أربع كتل.
+فقد ظنّوا الفندق زمنًا من أهل ذلك الحجر، حتّى نزلوا ورأوا بأعينهم.
+فإذا الحوت الكبير وأنبوب الدولارات يخرجان كلاهما من الغرفة الزرقاء.
+وفي الجدار الفاصل ثغرة عالية، تخرج من حافّتها شريطتان في كلّ منهما خاتم زواج ذهبيّ.
+الأولى مشدودة إلى الحوت، والثّانية إلى أنبوب المال.
+فقالت المديرة بيرل: «هذه ثغرة مخطوبة للاثنين معًا؛ بهما تعرف، لا بغيرهما.»
+وإلى جانب الثغرة نام القيّم العجوز على كرسيّه، وبجواره دلو إسمنت علاه الغبار ونسج عليه العنكبوت.
+فقال الحارس سام: «ينتظر أن تنسدّ وحدها منذ سنين.»
+فقالت بيرل: «هذه لا تنسدّ من تلقاء نفسها إلّا نادرًا؛ أيقظه، فالدّلو ينتظر الجرّاح.»
+ثمّ نظرت إلى حجر التتريس الباهت وقالت:
+quote: «من الأسماء وقع الخلاف بين الناس؛ فإذا بلغوا المعنى سكنوا.»
+source: المثنوي، الكتاب الثاني
+explanation:
+Double-outlet right ventricle may be mistaken for tetralogy of Fallot, because both great arteries arise mostly from the right ventricle and a VSD is present.
+In DORV the VSD is the left ventricle's only outlet, and its spontaneous closure is rare: statement A is true.
+A doubly committed VSD is named for its relation to the great arteries, lying beneath both of them: statement E is true.
+So A and E are the answer.
+The site of the VSD strongly affects cyanosis, double-outlet left ventricle does exist, and DORV with aortic stenosis is compatible with life.
 
 == 116
 # A 5-year-old with a pulmonic flow murmur, fixed splitting and a right ventricular lift -> B (a "scimitar syndrome" report on the chest film calls for an arteriogram).
@@ -96,6 +191,24 @@ palette: cool green-grey morning, gleaming steel scimitar curve, glowing magenta
 keywords: secundum ASD -> a round clock with a sweeping second hand in the middle of the upper party wall, its face gone, leaving a hole; scimitar syndrome -> the right-hand pipe of green dollar bills curving down like a giant Turkish scimitar sword through the floor into the drain of the basement; arteriogram -> a photographer spraying the scimitar pipe with glowing magenta dye and photographing it with a big flash camera; fixed splitting -> twin church bells ringing the same double stroke over and over
 must: the scimitar-shaped pipe runs DOWN on the RIGHT side into the basement drain; the photographer sprays dye and photographs it
 scene: The old Brooklyn hotel with a stag's head over its door, seen cut open like a doll's house on a cool morning. In the middle of the upper party wall is a round clock whose face is gone, leaving a round hole, its second hand still sweeping. CENTRE, dominant and brightest: on the right side of the building a pipe stuffed with green dollar bills curves down like a giant Turkish scimitar sword, through the floor and into the drain of the basement; a photographer on a ladder sprays it with glowing magenta dye and photographs it with a big flash camera. On the roof, twin church bells ring the same double stroke again and again.
+story:
+في صباح بارد في فندق الأيّل، جاءت طفلة في الخامسة إلى الفحص المعتاد.
+وفي وسط الجدار العلويّ، ساعة مستديرة ذهب وجهها، فصارت ثغرة، وعقرب ثوانيها ما زال يدور.
+وعلى السطح جرسا كنيسة توأمان، يدقّان الدقّتين نفسيهما مرّةً بعد مرّة، لا يتغيّر ما بينهما.
+وفي الجانب الأيمن من المبنى، انحنى أنبوب من أنابيب الدولارات كسيف تركيّ معقوف.
+ونزل عبر الأرض، حتّى صبّ في مصرف القبو، لا في البهو الأحمر.
+فقالت المديرة بيرل: «هذا السيف لا يكفي أن نراه من بعيد؛ نريد أن نعرف من أين يأتي وإلى أين يذهب.»
+فصعد مصوّر على سلّمه، ورشّ الأنبوب بصبغ أرجوانيّ مضيء.
+ثمّ التقط له صورةً بومضة كبيرة، فبان السيف كلّه من أوّله إلى آخره.
+فقال الحارس سام: «الآن عرفنا طريقه؛ فليبدإ العمل.»
+فابتسمت بيرل وهي تنظر إلى الصورة وقالت:
+quote: «متى كان السماع مثل الرؤية؟»
+source: المثنوي، الكتاب الثاني
+explanation:
+A pulmonary flow murmur, fixed splitting of the second sound and a right ventricular lift point to an atrial septal defect.
+A chest film showing the scimitar sign, a curved right pulmonary vein running down to the inferior vena cava, calls for an arteriogram to show the anomalous drainage and the arterial supply of the right lung: statement B is true, and it is the answer.
+Cardiomegaly alone does not call for catheterization, and an ostium secundum defect does not imply an anomalous pulmonary vein.
+A resistance of 14 Wood units per square metre makes repair dangerous rather than urgent, and a shunt with Qp/Qs of 1.8 is closed electively, not watched until symptoms appear.
 
 == 117
 # A 2-month-old with ischaemia on the ECG and ALCAPA on echo -> D (if the infant deteriorates, ligation of the coronary at its origin is a viable option).
@@ -111,6 +224,24 @@ palette: smoky 1920s speakeasy amber, green copper crown, sickly pale baby, a ro
 keywords: anomalous origin of the left coronary artery from the pulmonary artery -> Al Capone in a pinstripe suit bolting the left spike of the Statue of Liberty's green crown onto the pipe of dollar bills; coronary steal -> the crown spike's green light draining backward into the dollar pipe; ligation -> a plumber tying the bolted spike off with a thick rope knot right where it meets the pipe
 must: the knot is tied exactly where the LEFT spike joins the dollar pipe; the light drains BACKWARD into the pipe
 scene: A smoky 1920s speakeasy in the basement of the old Brooklyn hotel with a stag's head, amber light. A giant green crown of the Statue of Liberty stands on a table; Al Capone in a pinstripe suit has bolted its left spike onto a pipe stuffed with green dollar bills, and the spike's green light drains backward into the pipe. CENTRE, dominant and brightest: a plumber in overalls ties off the bolted spike with a thick rope knot, right where it meets the dollar pipe. In a cot beside the table, a pale two-month-old baby sleeps restlessly.
+story:
+في قبو فندق الأيّل، كانت حانة سرّيّة من أيّام المنع، يملؤها دخان كهرمانيّ.
+وعلى المائدة تاج تمثال الحرّيّة الأخضر، وقد ربط آل كابوني شعاعه الأيسر بأنبوب الدولارات.
+فأخذ الضوء الأخضر يسيل من الشعاع راجعًا إلى الأنبوب، بدل أن يضيء التاج.
+وفي مهد إلى جانب المائدة نام رضيع في شهره الثاني، شاحبًا، يتقلّب ويتعرّق.
+فقالت الممرّضة لوسي: «يزداد ضعفًا كلّ يوم؛ لا وقت للانتظار.»
+فجاء سبّاك في ثياب العمل، وشدّ على الشعاع المربوط عقدةً من حبل غليظ.
+شدّها تمامًا حيث يلتقي الشعاع بالأنبوب، فتوقّف الضوء عن السيلان راجعًا.
+فصاح آل كابوني: «أتوقف تجارتي بعقدة حبل واحدة؟»
+فقال السبّاك: «إذا تدهور الصغير، فهذه العقدة عند المنشإ طريق من الطرق.»
+فهدأ الرضيع في مهده، فرفع كابوني كأسه وقال:
+quote: «الخمر سكرت منّا، لا نحن منها.»
+source: المثنوي، الكتاب الأول
+explanation:
+In anomalous origin of the left coronary artery from the pulmonary artery, the myocardial ischaemia comes from low perfusion pressure and from blood flowing backward out of the left coronary into the pulmonary artery, not from poorly oxygenated blood.
+If the infant deteriorates, ligation of the coronary artery at its origin from the pulmonary artery stops that steal and is a viable option: statement D is the answer.
+Today a two-coronary repair, by reimplantation into the aorta, is preferred whenever possible.
+Waiting for the artery to grow is wrong, selective angiography is not forbidden, and some patients are found only in later life.
 
 == 118
 # A 2-month-old with heart failure and signs of a VSD -> C (medical treatment only, with digitalis and diuretics) and E (a restrictive VSD may close by itself, so repair is delayed).
@@ -125,6 +256,24 @@ palette: spring green ivy, yellow taxis in rain, purple foxglove, cowboy leather
 keywords: congestive heart failure -> a traffic jam: yellow taxis gridlocked bumper to bumper; digitalis -> a tall purple foxglove flower; diuretics -> a cowboy's lasso pulling water out of a flooded room; restrictive VSD closing -> a small hole in the lower party wall that ivy is slowly growing over
 must: the hole is SMALL and the ivy is already half covering it; the surgeons wait with folded arms, tools down
 scene: The old Brooklyn hotel with a stag's head over its door, seen cut open like a doll's house on a rainy spring evening; outside, yellow taxis are gridlocked bumper to bumper. CENTRE, dominant and brightest: a small hole in the lower party wall between the two engine rooms, and fresh green ivy is slowly growing over it, already covering half. Beside it two surgeons stand waiting with folded arms, their tools laid down, under a wall calendar. In the flooded room beside them a cowboy pulls the water out with his lasso, and a nurse sets a tall purple foxglove flower by the cradle of a two-month-old baby.
+story:
+في مساء ربيعيّ ماطر، تلاصقت سيّارات الأجرة الصفراء أمام فندق الأيّل، لا تتقدّم شبرًا.
+وفي المهد رضيع في شهره الثاني، يلهث ويتعرّق، ولا يزيد وزنه.
+وفي الجدار بين غرفتي المحرّكات ثغرة صغيرة، واللّبلاب الأخضر ينمو فوقها على مهل.
+وقد غطّى نصفها حتّى الآن.
+ووقف إلى جانبها جرّاحان، وضعا أدواتهما، وعقدا أذرعهما تحت التقويم.
+وفي الغرفة المغمورة إلى جانبهما، أخذ راعي بقر يخرج الماء بأنشوطته.
+ووضعت الممرّضة لوسي زهرة ديجيتال بنفسجيّةً طويلةً إلى جانب المهد.
+فسأل الحارس سام: «ألا تسدّان الثغرة الآن، والزّحمة على الباب؟»
+فقال أحد الجرّاحين: «الزهرة والأنشوطة تكفيانه الآن؛ وهذه الثغرة الصغيرة قد يسدّها اللبلاب وحده.»
+فنظرت لوسي إلى اللبلاب يزحف على الثغرة وقالت:
+quote: «الصبر مفتاح الفرج.»
+source: المثنوي، الكتاب الأول
+explanation:
+An infant of two months in heart failure from a VSD is first treated medically, with digitalis and diuretics: statement C is true.
+A restrictive VSD may close spontaneously, so operation is delayed while the infant thrives: statement E is true.
+So C and E are the answer.
+Pulmonary artery banding and urgent closure are not the first step, and at two months pulmonary vascular resistance is rarely too high for repair.
 
 == 119
 # A 1-year-old in heart failure with an atrioventricular septal defect -> A (the second sound shows fixed splitting), B (catheterization is still needed to assess pulmonary resistance) and D (AVSD is classified by the anterior leaflet of the common valve).
@@ -142,6 +291,25 @@ words: A, B, C
 keywords: atrioventricular septal defect -> a cross-shaped hole where the upper and lower party walls meet, with ONE shared door across it; anterior leaflet -> the shared door's front leaf; fixed splitting -> twin church bells ringing the same double stroke over and over; cardiac catheterization -> a long thin probe lowered on a reel into the pipe of dollar bills; pulmonary vascular resistance -> wooden blocks stacked inside the pipe of dollar bills; congestive heart failure -> yellow taxis gridlocked in a traffic jam
 must: ONE shared door spans the cross-shaped hole; the inspector compares its FRONT leaf with cards A, B, C; the probe reaches the wooden blocks
 scene: The old Brooklyn hotel with a stag's head over its door, seen cut open like a doll's house at dusk; outside, yellow taxis are gridlocked in a jam. CENTRE, dominant and brightest: where the upper and lower party walls meet there is one big cross-shaped hole, and a single shared copper door with front and back leaves swings across it; an inspector holds up three cards marked A, B and C beside the door's FRONT leaf, comparing its shape. RIGHT: a technician lowers a long thin probe on a reel into a pipe stuffed with green dollar bills, where wooden blocks are stacked, and counts them. On the roof, twin church bells ring the same double stroke again and again.
+story:
+عند الغسق أمام فندق الأيّل، تلاصقت سيّارات الأجرة في زحمة لا تنحلّ.
+وفي الداخل طفلة في عامها الأوّل، تلهث ولا تحسن الرضاع.
+وحيث يلتقي الجدار العلويّ بالجدار السفليّ، ثغرة كبيرة على هيئة صليب، يعبرها باب نحاسيّ واحد مشترك.
+فرفع المفتّش ثلاث بطاقات مكتوب عليها: أ، ب، ج، يقارن بها شكل الدرفة الأماميّة من الباب.
+وقال: «بهذه الدرفة الأماميّة وحدها نعرف نوع الثغرة.»
+وعلى السطح جرسا كنيسة توأمان، يدقّان الدقّتين نفسيهما، لا يتغيّر ما بينهما أبدًا.
+وإلى اليمين، أدلى فنّيّ مسبارًا طويلًا رفيعًا من بكرته في أنبوب الدولارات، يعدّ ما فيه من قطع الخشب.
+فقالت المديرة بيرل: «رأى الخفّاش الثغرة، لكنّه لا يعدّ الأخشاب؛ ولا نغلق قبل أن نعرف عددها.»
+فقال الحارس سام: «فلنعجّل إذن؛ كلّما انتظرنا كثرت الأخشاب.»
+فنظرت بيرل إلى الباب المشترك وقالت:
+quote: «لست أنت واحدًا أيّها الرفيق الطيّب؛ بل أنت فلك وبحر عميق.»
+source: المثنوي، الكتاب الثالث
+explanation:
+In an atrioventricular septal defect, the atrial component gives fixed splitting of the second heart sound: statement A is true.
+Even with a diagnostic echocardiogram, catheterization is indicated at this age to measure pulmonary vascular resistance, which rises early in this lesion: statement B is true.
+The complete form is classified by the anatomy of the anterior (superior bridging) leaflet of the common valve, the Rastelli types A, B and C: statement D is true.
+So A, B and D are the answer.
+Repair is done in infancy, before resistance becomes fixed, not after two years, and banding is now rarely used.
 
 == 120
 # The same child: a VSD with Qp/Qs 2.0 and right ventricular pressure half systemic -> A (with aortic insufficiency the defect is likely subpulmonic), C (the data indicate a restrictive VSD), D (if resistance falls with tolazoline, closure is safe), E (closure without ventriculotomy is possible).
@@ -158,3 +326,24 @@ words: 2, 1/2
 keywords: subpulmonic VSD -> a hole in the lower party wall high up, right under the pipe of dollar bills; aortic insufficiency -> the orca balloon's mouth sagging and dripping water back; pulmonary vascular resistance -> wooden blocks stacked inside the pipe of dollar bills; tolazoline -> a TOLL booth gate lifting so the wooden blocks tumble out of the dollar pipe; tricuspid valve -> a trident; closure without ventriculotomy -> a surgeon reaching down through the upper lobby's trident door, the engine room's brick wall left untouched
 must: the hole is RIGHT UNDER the dollar pipe; the orca's mouth drips; the dial reads 1/2; the surgeon goes in from ABOVE, through the trident door, not through the engine room wall
 scene: The old Brooklyn hotel with a stag's head over its door, seen cut open like a doll's house in clean white light. CENTRE, dominant and brightest: a surgeon leans down through the trident-shaped door in the floor of the upper blue lobby and patches a hole high in the lower party wall, right under a pipe stuffed with green dollar bills; the engine room's brick outer wall is untouched. Beside the hole a giant orca parade balloon rises, its mouth sagging and dripping water back. On the blue engine room's wall, a dial reads 1/2 and a sign reads 2. RIGHT: an orange toll-booth gate lifts on the dollar pipe, and wooden blocks tumble out of it.
+story:
+في ضوء أبيض نظيف في فندق الأيّل، عاد المفتّشون بأرقامهم.
+على جدار الغرفة الزرقاء لوحة تقول: اثنان، وقرص يقول: نصف.
+فقالت المديرة بيرل: «يمرّ إلى المال ضعف ما يمرّ إلى الحوت، والغرفة الزرقاء نصف قوّة الحمراء؛ فالثّغرة تضيّق على نفسها.»
+وكانت الثغرة عاليةً في الجدار السفليّ، تحت أنبوب الدولارات تمامًا.
+وإلى جانبها الحوت الكبير، قد ارتخى فمه، فالماء يقطر منه راجعًا.
+فقال الحارس سام: «إذا رأيت الفم يقطر، فابحث عن الثغرة تحت أنبوب المال.»
+وعلى أنبوب الدولارات ارتفع حاجز كشك الرسوم البرتقاليّ، فتدحرجت منه قطع الخشب.
+فقالت بيرل: «ما دامت الأخشاب تخرج هكذا، فإغلاق الثغرة آمن.»
+فانحنى الجرّاح من باب الرمح الثلاثيّ في أرض البهو الأزرق، ورقع الثغرة من فوق، ولم يمسّ جدار الغرفة الآجرّيّ.
+فلمّا فرغ قال:
+quote: «أمّ الأصنام صنم نفوسكم.»
+source: المثنوي، الكتاب الأول
+explanation:
+A VSD with a Qp/Qs of 2.0 and right ventricular pressure half systemic is, in the book's terms, a restrictive defect: statement C is true.
+Aortic insufficiency with a VSD suggests a subpulmonic (subarterial) defect, which lets an aortic cusp prolapse: statement A is true.
+If pulmonary vascular resistance falls with tolazoline, the vessels are still reactive and closure is safe: statement D is true.
+Most VSDs can be closed through the right atrium and the tricuspid valve, or through the pulmonary artery, without a ventriculotomy: statement E is true, so A, C, D and E are the answer.
+Aortic stenosis, often subaortic, is not rare with a VSD.
+note: The book counts right ventricular pressure at half systemic as restrictive; many surgeons would call such a defect moderately restrictive.
+
