@@ -19,44 +19,44 @@
        "text": "في صباح رماديّ، وقفت إلى جانب فندق الأيّل شاحنة كبيرة ذات مضخّة دوّارة.",
        "t": 0,
        "spot": {
-        "x": 0.85,
-        "y": 0.7,
-        "r": 0.15
+        "x": 0.75,
+        "y": 0.78,
+        "r": 0.2
        }
       },
       {
        "text": "فوصل العمّال خراطيمها بمدخنة الجناح الأزرق وبالحوت الكبير، لتحمل عن الفندق عمله ساعةً.",
        "t": 7851,
        "spot": {
-        "x": 0.55,
-        "y": 0.15,
-        "r": 0.3
+        "x": 0.5,
+        "y": 0.2,
+        "r": 0.35
        }
       },
       {
        "text": "فلمّا دارت بكرات المضخّة، انفجرت من جدار الفندق ثلاثة شلّالات في لحظة واحدة.",
        "t": 16679,
        "spot": {
-        "x": 0.45,
-        "y": 0.45,
-        "r": 0.3
+        "x": 0.4,
+        "y": 0.55,
+        "r": 0.32
        }
       },
       {
        "text": "الأوّل يتحوّل وهو يسقط هلامًا أحمر غليظًا.",
        "t": 24576,
        "spot": {
-        "x": 0.3,
-        "y": 0.5,
-        "r": 0.13
+        "x": 0.18,
+        "y": 0.62,
+        "r": 0.15
        }
       },
       {
        "text": "والثّاني يذيب شبكةً من الخيوط مشدودةً أمامه.",
        "t": 29303,
        "spot": {
-        "x": 0.48,
-        "y": 0.4,
+        "x": 0.38,
+        "y": 0.5,
         "r": 0.12
        }
       },
@@ -64,45 +64,45 @@
        "text": "وفي الثالث، وقف نادل بسترة بيضاء يرمي باقات الورد مع الماء ويصيح بالمديح.",
        "t": 34030,
        "spot": {
-        "x": 0.65,
-        "y": 0.45,
-        "r": 0.15
+        "x": 0.63,
+        "y": 0.4,
+        "r": 0.14
        }
       },
       {
        "text": "فقال الحارس سام: «ما بال الجدار يفيض هكذا؟ لم يلمسه أحد!»",
        "t": 41759,
        "spot": {
-        "x": 0.45,
+        "x": 0.5,
         "y": 0.45,
-        "r": 0.3
+        "r": 0.35
        }
       },
       {
        "text": "فقالت المديرة بيرل: «لمسته الخراطيم الغريبة؛ كلّ ما يمرّ فيها يوقظ الشلّالات الثلاثة معًا.»",
        "t": 48585,
        "spot": {
-        "x": 0.75,
-        "y": 0.6,
-        "r": 0.25
+        "x": 0.5,
+        "y": 0.2,
+        "r": 0.35
        }
       },
       {
        "text": "ثمّ قالت: «الجلط، وحلّ الخيوط، والمديح الصاخب؛ ومنها يأتي نزف ما بعد العمل وتورّمه.»",
        "t": 57536,
        "spot": {
-        "x": 0.45,
-        "y": 0.45,
-        "r": 0.3
+        "x": 0.4,
+        "y": 0.55,
+        "r": 0.32
        }
       },
       {
        "text": "فنظر سام إلى الشلّالات الثلاثة وقال:",
        "t": 67166,
        "spot": {
-        "x": 0.45,
-        "y": 0.45,
-        "r": 0.3
+        "x": 0.4,
+        "y": 0.55,
+        "r": 0.32
        }
       },
       {
@@ -121,36 +121,31 @@
        "text": "Cardiopulmonary bypass exposes the blood to foreign surfaces and to shear, which activates the humoral amplification system.",
        "t": 0,
        "spot": {
-        "x": 0.8,
-        "y": 0.6,
-        "r": 0.25
+        "x": 0.75,
+        "y": 0.78,
+        "r": 0.2
        }
       },
       {
        "text": "This system includes the coagulation cascade, the fibrinolytic cascade and complement, together with the kallikrein-kinin system.",
        "t": 8550,
        "spot": {
-        "x": 0.45,
-        "y": 0.45,
-        "r": 0.3
+        "x": 0.4,
+        "y": 0.55,
+        "r": 0.32
        }
       },
       {
        "text": "So A, B and C are all included: E is the answer.",
-       "t": 17264,
-       "spot": {
-        "x": 0.45,
-        "y": 0.45,
-        "r": 0.3
-       }
+       "t": 17264
       },
       {
        "text": "Their activation drives the bleeding, the capillary leak and the inflammatory response seen after bypass.",
        "t": 21172,
        "spot": {
-        "x": 0.5,
-        "y": 0.5,
-        "r": 0.45
+        "x": 0.4,
+        "y": 0.55,
+        "r": 0.32
        }
       }
      ],
@@ -181,43 +176,482 @@
      ]
     }
    ],
-   "image": "gh:books/medcosmos-cardiac/media/medcos-q0101.webp",
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0101-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.85,
-      "y": 0.68,
-      "r": 0.12
+      "x": 0.75,
+      "y": 0.78,
+      "r": 0.18
      },
      "what": "Roller-pump truck plugged into the hotel",
      "means": "Cardiopulmonary bypass"
     },
     {
      "spot": {
-      "x": 0.3,
-      "y": 0.5,
-      "r": 0.11
+      "x": 0.18,
+      "y": 0.62,
+      "r": 0.14
      },
      "what": "Waterfall turning to red jelly",
      "means": "Coagulation cascade"
     },
     {
      "spot": {
-      "x": 0.48,
-      "y": 0.4,
-      "r": 0.1
+      "x": 0.38,
+      "y": 0.48,
+      "r": 0.11
      },
      "what": "Waterfall dissolving a net of threads",
      "means": "Fibrinolytic cascade"
     },
     {
      "spot": {
-      "x": 0.65,
-      "y": 0.45,
-      "r": 0.11
+      "x": 0.63,
+      "y": 0.4,
+      "r": 0.13
      },
      "what": "Waiter throwing bouquets",
      "means": "Complement activation"
+    }
+   ]
+  },
+  {
+   "id": "medcos-q0102",
+   "title": "The best sign of adequate bypass flow is a mixed venous saturation around 78%",
+   "titleAr": "أفضل دليل على كفاية الجريان أثناء المجازة إشباع الدم الوريدي المختلط نحو 78%",
+   "tags": [
+    "cardiac/cpb",
+    "d:physiology",
+    "q:numbers",
+    "l:2"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في صباح صاف، كانت شاحنة المضخّة الدوّارة تحمل عمل فندق الأيّل، وخراطيمها في المدخنة والحوت.",
+       "t": 0,
+       "spot": {
+        "x": 0.75,
+        "y": 0.72,
+        "r": 0.22
+       }
+      },
+      {
+       "text": "وعلى لوحتها عدّادات كثيرة: ضغط وماء وهواء وأرقام من كلّ نوع.",
+       "t": 8516,
+       "spot": {
+        "x": 0.85,
+        "y": 0.7,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "فأخذ العامل الجديد ينظر إليها كلّها حائرًا.",
+       "t": 14738
+      },
+      {
+       "text": "فغطّت المديرة بيرل العدّادات بالخرق واحدًا واحدًا، وتركت عدّادًا واحدًا على المدخنة.",
+       "t": 19009,
+       "spot": {
+        "x": 0.82,
+        "y": 0.7,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "وهو عند الموضع الّذي يرجع فيه الماء المستعمل إلى الشاحنة، ويضيء بالأخضر: ثمانية وسبعون في المئة.",
+       "t": 26336,
+       "spot": {
+        "x": 0.4,
+        "y": 0.45,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "وإلى جانبه ثور ضخم يلبس قناعًا شفّافًا، يومئ برأسه راضيًا.",
+       "t": 34760,
+       "spot": {
+        "x": 0.2,
+        "y": 0.62,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فقالت بيرل: «هذا العدّاد يخبرك كم بقي في الماء بعد أن شربت منه الغرف كلّها.»",
+       "t": 40779,
+       "spot": {
+        "x": 0.4,
+        "y": 0.45,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "ثمّ قالت: «إن بقي نحو ثمانية وسبعين، فقد شبعت الغرف والجريان كاف؛ أمّا الضغط وحده فقد يخدعك.»",
+       "t": 48631,
+       "spot": {
+        "x": 0.4,
+        "y": 0.45,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فابتسم العامل ونزع عينيه عن العدّادات المغطّاة، فقالت بيرل:",
+       "t": 59806,
+       "spot": {
+        "x": 0.82,
+        "y": 0.7,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "«عين البحر شيء والزّبد شيء آخر؛ دع الزبد، وانظر بعين البحر.»",
+       "quote": "جلال الدين الرومي، المثنوي، الكتاب الثالث",
+       "t": 66025
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0102-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "The best single measure of adequate perfusion during bypass is the mixed venous oxygen saturation, which shows whether the tissues receive enough oxygen for their needs.",
+       "t": 0,
+       "spot": {
+        "x": 0.4,
+        "y": 0.45,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "A saturation of about 75 to 80 percent, such as 78%, means the flow is adequate: C is the answer.",
+       "t": 10315,
+       "spot": {
+        "x": 0.4,
+        "y": 0.45,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "Blood pressure depends on vascular resistance as much as on flow, and a high arterial PO2 says nothing about delivery to the tissues.",
+       "t": 19427,
+       "spot": {
+        "x": 0.82,
+        "y": 0.7,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "A very low central venous pressure only shows good drainage, and a lactate of 6 mg per dl is normal but rises late.",
+       "t": 28522
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0102-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Adequate flow during cardiopulmonary bypass is best indicated by:",
+     "options": [
+      "Systemic blood pressure of 90/50 mm. Hg.",
+      "Arterial PO 2 of 230 mm. Hg.",
+      "Mixed venous hemoglobin saturation of 78%.",
+      "Central venous pressure of 1 mm. Hg.",
+      "Plasma lactate value of 6 mg. per dl."
+     ],
+     "answer": 2,
+     "explain": "The best single measure of adequate perfusion during bypass is the mixed venous oxygen saturation, which shows whether the tissues receive enough oxygen for their needs. A saturation of about 75 to 80 percent, such as 78%, means the flow is adequate: C is the answer. Blood pressure depends on vascular resistance as much as on flow, and a high arterial PO2 says nothing about delivery to the tissues. A very low central venous pressure only shows good drainage, and a lactate of 6 mg per dl is normal but rises late.",
+     "lang": "en",
+     "source": "MedCosmos Cardiac, Q102",
+     "marks": [
+      1,
+      4
+     ],
+     "answerMarks": [
+      2,
+      3
+     ]
+    }
+   ],
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0102.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.75,
+      "y": 0.72,
+      "r": 0.2
+     },
+     "what": "Roller-pump truck with its hoses",
+     "means": "Cardiopulmonary bypass"
+    },
+    {
+     "spot": {
+      "x": 0.4,
+      "y": 0.45,
+      "r": 0.13
+     },
+     "what": "Gauge on the chimney reading 78%",
+     "means": "Mixed venous saturation about 78%: the flow is adequate"
+    },
+    {
+     "spot": {
+      "x": 0.2,
+      "y": 0.62,
+      "r": 0.13
+     },
+     "what": "Ox in an oxygen mask nodding",
+     "means": "The tissues receive enough oxygen"
+    },
+    {
+     "spot": {
+      "x": 0.82,
+      "y": 0.7,
+      "r": 0.12
+     },
+     "what": "Other dials covered with cloths",
+     "means": "Pressure, arterial PO2, CVP and lactate tell less"
+    }
+   ]
+  },
+  {
+   "id": "medcos-q0103",
+   "title": "In the first minutes of bypass the flow turns nonpulsatile, platelets and resistance fall and complement is activated; interstitial fluid rises later",
+   "titleAr": "في الدقائق الأولى من المجازة يصير الجريان غير نابض، وتنخفض الصفائح والمقاومة، وتتنشّط المتمّمة؛ أمّا السائل الخلالي فيزيد لاحقًا",
+   "tags": [
+    "cardiac/cpb",
+    "d:physiology",
+    "q:recall",
+    "l:3",
+    "x:trap"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "بدأت شاحنة المضخّة الدوّارة تعمل إلى جانب فندق الأيّل، وعلى لوحتها ساعة توقيت تشير إلى ثلاث دقائق.",
+       "t": 0,
+       "spot": {
+        "x": 0.8,
+        "y": 0.8,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "وفي هذه الدقائق القليلة، تغيّرت أشياء كثيرة.",
+       "t": 9370,
+       "spot": {
+        "x": 0.6,
+        "y": 0.8,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "فعلى شاشة صغيرة، صار خطّ النبض المتموّج نهرًا مستويًا لا يعلو ولا ينخفض.",
+       "t": 13993,
+       "spot": {
+        "x": 0.82,
+        "y": 0.68,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "وفي الخراطيم الشفّافة، التصقت صحون بيضاء صغيرة بالجدران فقلّ عددها في الماء.",
+       "t": 20902,
+       "spot": {
+        "x": 0.7,
+        "y": 0.6,
+        "r": 0.13
+       }
+      },
+      {
+       "text": "وأخذ النادل ذو السترة البيضاء يرمي باقات المديح.",
+       "t": 28284,
+       "spot": {
+        "x": 0.12,
+        "y": 0.8,
+        "r": 0.13
+       }
+      },
+      {
+       "text": "وانفتحت بوّابات المدينة وحدها، فصار الماء يجري بلا عناء.",
+       "t": 32761,
+       "spot": {
+        "x": 0.25,
+        "y": 0.65,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "فجاء المفتّش إلى إسفنجة صفراء كبيرة في جدار الفندق، فضغطها بيده.",
+       "t": 38395,
+       "spot": {
+        "x": 0.6,
+        "y": 0.35,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "فإذا هي جافّة تمامًا، لم تشرب قطرةً بعد.",
+       "t": 44866,
+       "spot": {
+        "x": 0.75,
+        "y": 0.35,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "فقال المفتّش: «هذه تبتلّ فيما بعد، حين يتسرّب الماء من الجدران على مهل؛ لا في الدقائق الأولى.»",
+       "t": 49331,
+       "spot": {
+        "x": 0.45,
+        "y": 0.32,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "ثمّ نظر إلى الساعة وإلى الإسفنجة الجافّة وقال:",
+       "t": 58666,
+       "spot": {
+        "x": 0.75,
+        "y": 0.35,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "«اختلف قولهم باختلاف موضع نظرهم؛ هذا سمّاه دالًا، وذاك ألفًا.»",
+       "quote": "جلال الدين الرومي، المثنوي، الكتاب الثالث",
+       "t": 63703
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0103-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "In the first minutes of bypass, flow becomes nonpulsatile, platelets fall by dilution and adhesion to the circuit, complement is activated, and systemic vascular resistance falls with haemodilution.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.65,
+        "r": 0.4
+       }
+      },
+      {
+       "text": "An increase in interstitial fluid is not typical in these first minutes; it develops later, from capillary leak and haemodilution.",
+       "t": 12963,
+       "spot": {
+        "x": 0.75,
+        "y": 0.35,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "So A is the answer.",
+       "t": 21691
+      },
+      {
+       "text": "The early fall in resistance is caused mainly by the lower viscosity of the diluted blood.",
+       "t": 23575,
+       "spot": {
+        "x": 0.25,
+        "y": 0.65,
+        "r": 0.14
+       }
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0103-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which of the following does not typically occur during the first few minutes of cardiopulmonary bypass?",
+     "options": [
+      "Interstitial fluid increases.",
+      "Blood flow becomes nonpulsatile.",
+      "Platelet count decreases.",
+      "Complement is activated.",
+      "Systemic vascular resistance falls."
+     ],
+     "answer": 0,
+     "explain": "In the first minutes of bypass, flow becomes nonpulsatile, platelets fall by dilution and adhesion to the circuit, complement is activated, and systemic vascular resistance falls with haemodilution. An increase in interstitial fluid is not typical in these first minutes; it develops later, from capillary leak and haemodilution. So A is the answer. The early fall in resistance is caused mainly by the lower viscosity of the diluted blood.",
+     "lang": "en",
+     "source": "MedCosmos Cardiac, Q103",
+     "marks": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ],
+     "answerMarks": [
+      6
+     ]
+    }
+   ],
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0103.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.8,
+      "y": 0.8,
+      "r": 0.09
+     },
+     "what": "Stopwatch at 3 min",
+     "means": "The first few minutes of bypass"
+    },
+    {
+     "spot": {
+      "x": 0.82,
+      "y": 0.68,
+      "r": 0.11
+     },
+     "what": "Pulse line flattening",
+     "means": "Flow becomes nonpulsatile"
+    },
+    {
+     "spot": {
+      "x": 0.7,
+      "y": 0.6,
+      "r": 0.1
+     },
+     "what": "White plates sticking inside the hoses",
+     "means": "Platelet count falls"
+    },
+    {
+     "spot": {
+      "x": 0.12,
+      "y": 0.8,
+      "r": 0.11
+     },
+     "what": "Waiter throwing bouquets",
+     "means": "Complement is activated"
+    },
+    {
+     "spot": {
+      "x": 0.25,
+      "y": 0.65,
+      "r": 0.12
+     },
+     "what": "City gates swinging open",
+     "means": "Systemic vascular resistance falls"
+    },
+    {
+     "spot": {
+      "x": 0.75,
+      "y": 0.35,
+      "r": 0.17
+     },
+     "what": "Sponge in the wall, still dry",
+     "means": "Interstitial fluid has not risen yet"
     }
    ]
   },
@@ -239,93 +673,93 @@
      "segments": [
       {
        "text": "في ليلة هادئة، كانت مروحة غرفة المحرّكات الحمراء متعبةً، والماء في الغرفة مرتفع فوق علامته القديمة.",
-       "t": 0,
        "spot": {
         "x": 0.4,
         "y": 0.75,
         "r": 0.18
-       }
+       },
+       "t": 0
       },
       {
        "text": "فأدخلت الممرّضة لوسي في بطن الحوت بالونًا طويلًا ورديًّا كالنّقانق.",
-       "t": 8815,
        "spot": {
         "x": 0.45,
         "y": 0.4,
         "r": 0.15
-       }
+       },
+       "t": 8815
       },
       {
        "text": "فإذا استراحت المروحة، انتفخ البالون في بطن الحوت، فدفع الماء راجعًا إلى تاج الحرّيّة.",
-       "t": 14215,
        "spot": {
         "x": 0.5,
         "y": 0.25,
         "r": 0.25
-       }
+       },
+       "t": 14215
       },
       {
        "text": "فامتلأ التاج الأخضر وتوهّجت أشعّته، يشرب في راحة المروحة ما لم يكن يشرب.",
-       "t": 21530,
        "spot": {
         "x": 0.5,
         "y": 0.1,
         "r": 0.18
-       }
+       },
+       "t": 21530
       },
       {
        "text": "وقبيل أن تدفع المروحة، انكمش البالون فجأةً، فصار بطن الحوت فارغًا.",
-       "t": 28146,
        "spot": {
         "x": 0.8,
         "y": 0.62,
         "r": 0.12
-       }
+       },
+       "t": 28146
       },
       {
        "text": "فدفعت المروحة الماء إلى حوت فارغ بلا عناء.",
-       "t": 34288,
        "spot": {
         "x": 0.8,
         "y": 0.7,
         "r": 0.12
-       }
+       },
+       "t": 34288
       },
       {
        "text": "فقالت لوسي: «انظر يا سام: الماء في الغرفة ينزل تحت علامته القديمة.»",
-       "t": 38180,
        "spot": {
         "x": 0.4,
         "y": 0.8,
         "r": 0.15
-       }
+       },
+       "t": 38180
       },
       {
        "text": "فقال سام: «ثلاث ببالون واحد: دفع أسهل، وتاج يشرب، وغرفة تفرغ.»",
-       "t": 44587,
        "spot": {
         "x": 0.5,
         "y": 0.45,
         "r": 0.4
-       }
+       },
+       "t": 44587
       },
       {
        "text": "ثمّ قال ضاحكًا: «أمّا ما يدخل الغرفة من فوق، فلا يغيّره البالون كثيرًا.»",
-       "t": 53370,
        "spot": {
         "x": 0.5,
         "y": 0.45,
         "r": 0.4
-       }
+       },
+       "t": 53370
       },
       {
        "text": "فنظرت لوسي إلى البالون ينتفخ وينكمش كالموج وقالت:",
-       "t": 60789,
        "spot": {
         "x": 0.45,
         "y": 0.4,
         "r": 0.15
-       }
+       },
+       "t": 60789
       },
       {
        "text": "«حركة الزبد من البحر ليلًا ونهارًا؛ ترى الزبد ولا ترى البحر، يا للعجب!»",
@@ -341,57 +775,57 @@
      "segments": [
       {
        "text": "The intra-aortic balloon inflates in diastole and deflates just before systole.",
-       "t": 0,
        "spot": {
         "x": 0.6,
         "y": 0.45,
         "r": 0.3
-       }
+       },
+       "t": 0
       },
       {
        "text": "Deflation lowers the pressure the ventricle ejects against, reducing afterload: statement B is true.",
-       "t": 5793,
        "spot": {
         "x": 0.8,
         "y": 0.7,
         "r": 0.12
-       }
+       },
+       "t": 5793
       },
       {
        "text": "Inflation in diastole raises the diastolic aortic pressure and so the coronary blood flow: statement C is true.",
-       "t": 12755,
        "spot": {
         "x": 0.5,
         "y": 0.1,
         "r": 0.18
-       }
+       },
+       "t": 12755
       },
       {
        "text": "With easier emptying, left ventricular end-diastolic pressure falls: statement D is true.",
-       "t": 20433,
        "spot": {
         "x": 0.4,
         "y": 0.8,
         "r": 0.15
-       }
+       },
+       "t": 20433
       },
       {
        "text": "So B, C and D are the answer.",
-       "t": 27017,
        "spot": {
         "x": 0.5,
         "y": 0.45,
         "r": 0.4
-       }
+       },
+       "t": 27017
       },
       {
        "text": "Preload reduction is not a direct effect of the balloon.",
-       "t": 30306,
        "spot": {
         "x": 0.4,
         "y": 0.77,
         "r": 0.12
-       }
+       },
+       "t": 30306
       }
      ],
      "audio": "gh:books/medcosmos-cardiac/media/medcos-q0104-explanation-en.m4a"
@@ -484,9 +918,9 @@
        "text": "في مساء في ممرّ إلى جانب فندق الأيّل، كانت لوسي تدخل بالون النقانق الورديّ في بطن الحوت.",
        "t": 0,
        "spot": {
-        "x": 0.4,
-        "y": 0.28,
-        "r": 0.18
+        "x": 0.45,
+        "y": 0.48,
+        "r": 0.22
        }
       },
       {
@@ -494,71 +928,61 @@
        "t": 8340,
        "spot": {
         "x": 0.5,
-        "y": 0.6,
-        "r": 0.4
+        "y": 0.5,
+        "r": 0.45
        }
       },
       {
        "text": "الأوّل رجل يجثم على صدره ملاك حجريّ، وإلى جانبه كومة من قناني الحبوب لم تزحزحه.",
        "t": 12794,
        "spot": {
-        "x": 0.25,
-        "y": 0.55,
-        "r": 0.18
+        "x": 0.18,
+        "y": 0.25,
+        "r": 0.16
        }
       },
       {
        "text": "والثّاني بهو أحمر انكسر فيه العمود الّذي يشدّ أوتار القيثارة، فأخذ تاج الأسقف يخفق رخوًا.",
-       "t": 21419,
-       "spot": {
-        "x": 0.72,
-        "y": 0.45,
-        "r": 0.18
-       }
+       "t": 21419
       },
       {
        "text": "والثّالث سفينة أغلقت مؤخّرتها لتوّها، ومروحة غرفتها الحمراء تتعثّر.",
        "t": 30143,
        "spot": {
-        "x": 0.22,
+        "x": 0.2,
         "y": 0.82,
-        "r": 0.15
+        "r": 0.16
        }
       },
       {
        "text": "والرّابع رجل على تاجه الإسفنجيّ زنبرك مكسور عالق في أحد الأشعّة.",
        "t": 37855,
        "spot": {
-        "x": 0.68,
+        "x": 0.8,
         "y": 0.8,
-        "r": 0.15
+        "r": 0.14
        }
       },
       {
        "text": "فقالت لوسي: «هؤلاء الأربعة يأخذون البالون أوّلًا؛ يحملهم حتّى يشفوا أو يصلوا إلى العمل.»",
        "t": 44351,
        "spot": {
-        "x": 0.35,
-        "y": 0.25,
-        "r": 0.12
+        "x": 0.3,
+        "y": 0.45,
+        "r": 0.15
        }
       },
       {
        "text": "فجاء خامس على تاجه قار في جذره الأيسر، وهو هادئ مرتاح.",
-       "t": 52360,
-       "spot": {
-        "x": 0.5,
-        "y": 0.5,
-        "r": 0.45
-       }
+       "t": 52360
       },
       {
        "text": "فقالت لوسي: «أنت يصلحك الملفوف قريبًا؛ أمّا البالون فلمن يتهاوى.»",
        "t": 58426,
        "spot": {
-        "x": 0.4,
-        "y": 0.28,
-        "r": 0.18
+        "x": 0.3,
+        "y": 0.45,
+        "r": 0.15
        }
       },
       {
@@ -566,8 +990,8 @@
        "t": 64709,
        "spot": {
         "x": 0.5,
-        "y": 0.6,
-        "r": 0.4
+        "y": 0.5,
+        "r": 0.45
        }
       },
       {
@@ -586,9 +1010,9 @@
        "text": "The intra-aortic balloon pump supports an ischaemic or failing ventricle as a bridge to recovery or to operation.",
        "t": 0,
        "spot": {
-        "x": 0.4,
-        "y": 0.28,
-        "r": 0.18
+        "x": 0.5,
+        "y": 0.45,
+        "r": 0.22
        }
       },
       {
@@ -596,27 +1020,17 @@
        "t": 7184,
        "spot": {
         "x": 0.5,
-        "y": 0.6,
-        "r": 0.4
+        "y": 0.5,
+        "r": 0.45
        }
       },
       {
        "text": "So A, B, D and E are the answer.",
-       "t": 19683,
-       "spot": {
-        "x": 0.5,
-        "y": 0.6,
-        "r": 0.4
-       }
+       "t": 19683
       },
       {
        "text": "A left main coronary lesion alone, without instability, is not in itself an indication in this book, though the pump is often used in unstable patients with left main disease.",
-       "t": 22274,
-       "spot": {
-        "x": 0.5,
-        "y": 0.5,
-        "r": 0.45
-       }
+       "t": 22274
       }
      ],
      "audio": "gh:books/medcosmos-cardiac/media/medcos-q0105-explanation-en.m4a"
@@ -648,54 +1062,44 @@
      "answerMarks": [
       2,
       3,
-      4,
-      5
+      4
      ]
     }
    ],
-   "image": "gh:books/medcosmos-cardiac/media/medcos-q0105.webp",
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0105-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.45,
-      "y": 0.25,
-      "r": 0.12
+      "x": 0.5,
+      "y": 0.48,
+      "r": 0.2
      },
      "what": "Pink sausage balloon slipped into the orca",
      "means": "Intra-aortic balloon pump"
     },
     {
      "spot": {
-      "x": 0.25,
-      "y": 0.55,
-      "r": 0.13
+      "x": 0.18,
+      "y": 0.25,
+      "r": 0.15
      },
      "what": "Angel unmoved by the pills",
      "means": "Medically refractory angina"
     },
     {
      "spot": {
-      "x": 0.75,
-      "y": 0.5,
-      "r": 0.12
-     },
-     "what": "Snapped harp post, mitre flapping",
-     "means": "Acute papillary muscle rupture"
-    },
-    {
-     "spot": {
-      "x": 0.22,
+      "x": 0.2,
       "y": 0.82,
-      "r": 0.12
+      "r": 0.15
      },
      "what": "Ship just closed, fan failing",
      "means": "Ventricular failure after cardiac surgery"
     },
     {
      "spot": {
-      "x": 0.75,
-      "y": 0.75,
-      "r": 0.09
+      "x": 0.82,
+      "y": 0.72,
+      "r": 0.12
      },
      "what": "Snapped Slinky in the crown",
      "means": "Failed PTCA"
@@ -722,36 +1126,36 @@
        "text": "في غرفة باردة في مانهاتن، رقد رجل على سريره، وأنبوب ورديّ مضيء يدخل من أعلى فخذه الأيمن.",
        "t": 0,
        "spot": {
-        "x": 0.35,
-        "y": 0.5,
-        "r": 0.18
+        "x": 0.5,
+        "y": 0.45,
+        "r": 0.25
        }
       },
       {
        "text": "كان الأنبوب يصعد في جسمه حتّى يبلغ بالون النقانق في بطن الحوت.",
        "t": 8538,
        "spot": {
-        "x": 0.4,
+        "x": 0.7,
         "y": 0.3,
-        "r": 0.2
+        "r": 0.15
        }
       },
       {
        "text": "وفي الليل، أخذت ساقه اليمنى تبرد شيئًا فشيئًا.",
        "t": 13812,
        "spot": {
-        "x": 0.25,
-        "y": 0.7,
-        "r": 0.15
+        "x": 0.3,
+        "y": 0.72,
+        "r": 0.18
        }
       },
       {
        "text": "فلمّا أصبح، كانت الساق تحت الأنبوب شاحبةً زرقاء، يكسوها صقيع أبيض، وفي أصابعها جليد.",
        "t": 18345,
        "spot": {
-        "x": 0.22,
-        "y": 0.85,
-        "r": 0.12
+        "x": 0.3,
+        "y": 0.75,
+        "r": 0.2
        }
       },
       {
@@ -759,44 +1163,39 @@
        "t": 26984,
        "spot": {
         "x": 0.7,
-        "y": 0.7,
-        "r": 0.15
+        "y": 0.72,
+        "r": 0.18
        }
       },
       {
        "text": "فصاحت الممرّضة لوسي: «ساقه! الأنبوب يسدّ عليها طريقها!»",
        "t": 30668,
        "spot": {
-        "x": 0.25,
-        "y": 0.7,
-        "r": 0.15
+        "x": 0.3,
+        "y": 0.72,
+        "r": 0.18
        }
       },
       {
        "text": "فقال الطبيب: «هذا أكثر ما يصيب أصحاب البالون؛ أكثر من الصاعقة والقرصان والجلطة في الحوت.»",
        "t": 36616,
        "spot": {
-        "x": 0.3,
-        "y": 0.6,
-        "r": 0.25
+        "x": 0.6,
+        "y": 0.15,
+        "r": 0.2
        }
       },
       {
        "text": "ثمّ قال: «ويكثر عند النساء، وأصحاب السكّر، ومن ضاقت شرايين سيقانهم من قبل.»",
-       "t": 44993,
-       "spot": {
-        "x": 0.3,
-        "y": 0.6,
-        "r": 0.25
-       }
+       "t": 44993
       },
       {
        "text": "فنقلوا الأنبوب، فعاد الدفء إلى الساق رويدًا، فقالت لوسي:",
        "t": 52848,
        "spot": {
         "x": 0.3,
-        "y": 0.48,
-        "r": 0.1
+        "y": 0.72,
+        "r": 0.18
        }
       },
       {
@@ -815,37 +1214,22 @@
        "text": "The most frequent complication of intra-aortic balloon counterpulsation is ischaemia of the leg used for insertion, from the catheter obstructing the femoral or iliac artery.",
        "t": 0,
        "spot": {
-        "x": 0.28,
-        "y": 0.6,
-        "r": 0.25
+        "x": 0.3,
+        "y": 0.75,
+        "r": 0.2
        }
       },
       {
        "text": "So B is the answer.",
-       "t": 10361,
-       "spot": {
-        "x": 0.28,
-        "y": 0.6,
-        "r": 0.25
-       }
+       "t": 10361
       },
       {
        "text": "The risk is higher in women, in diabetics and in patients with peripheral vascular disease.",
-       "t": 12473,
-       "spot": {
-        "x": 0.5,
-        "y": 0.5,
-        "r": 0.45
-       }
+       "t": 12473
       },
       {
        "text": "Stroke, arrhythmias and aortic thrombosis are much less common.",
-       "t": 18282,
-       "spot": {
-        "x": 0.6,
-        "y": 0.2,
-        "r": 0.2
-       }
+       "t": 18282
       }
      ],
      "audio": "gh:books/medcosmos-cardiac/media/medcos-q0106-explanation-en.m4a"
@@ -874,40 +1258,40 @@
      ]
     }
    ],
-   "image": "gh:books/medcosmos-cardiac/media/medcos-q0106.webp",
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0106-b.webp",
    "marks": [
     {
      "spot": {
       "x": 0.6,
-      "y": 0.2,
-      "r": 0.14
+      "y": 0.15,
+      "r": 0.2
      },
      "what": "Sausage balloon in the orca",
      "means": "Intra-aortic balloon pump"
     },
     {
      "spot": {
-      "x": 0.3,
+      "x": 0.58,
       "y": 0.48,
-      "r": 0.08
+      "r": 0.09
      },
      "what": "Tube entering at the groin",
      "means": "Femoral insertion"
     },
     {
      "spot": {
-      "x": 0.25,
+      "x": 0.3,
       "y": 0.72,
-      "r": 0.13
+      "r": 0.18
      },
      "what": "Frozen blue leg",
      "means": "Limb ischaemia, the commonest complication"
     },
     {
      "spot": {
-      "x": 0.72,
-      "y": 0.7,
-      "r": 0.11
+      "x": 0.7,
+      "y": 0.75,
+      "r": 0.16
      },
      "what": "Warm pink leg",
      "means": "The other leg is fine"
@@ -933,27 +1317,27 @@
        "text": "في ورشة ساعاتيّ في الويست فيليج، جلس رجل من الصفيح على كرسيّ.",
        "t": 0,
        "spot": {
-        "x": 0.45,
-        "y": 0.35,
-        "r": 0.25
+        "x": 0.5,
+        "y": 0.4,
+        "r": 0.3
        }
       },
       {
        "text": "وفي صدره قلب من التروس والنّوابض، يدقّ دقًّا منتظمًا.",
        "t": 5782,
        "spot": {
-        "x": 0.7,
-        "y": 0.45,
-        "r": 0.12
+        "x": 0.68,
+        "y": 0.47,
+        "r": 0.14
        }
       },
       {
        "text": "لكنّ القلب يحتاج إلى طاقة لا تنقطع، ولا يريد الساعاتيّ أن يثقب صدره بسلك.",
        "t": 11352,
        "spot": {
-        "x": 0.5,
-        "y": 0.45,
-        "r": 0.2
+        "x": 0.68,
+        "y": 0.47,
+        "r": 0.14
        }
       },
       {
@@ -961,7 +1345,7 @@
        "t": 18431,
        "spot": {
         "x": 0.3,
-        "y": 0.45,
+        "y": 0.47,
         "r": 0.1
        }
       },
@@ -970,8 +1354,8 @@
        "t": 23554,
        "spot": {
         "x": 0.55,
-        "y": 0.45,
-        "r": 0.1
+        "y": 0.47,
+        "r": 0.09
        }
       },
       {
@@ -979,7 +1363,7 @@
        "t": 28185,
        "spot": {
         "x": 0.42,
-        "y": 0.45,
+        "y": 0.47,
         "r": 0.12
        }
       },
@@ -988,7 +1372,7 @@
        "t": 35482,
        "spot": {
         "x": 0.42,
-        "y": 0.45,
+        "y": 0.47,
         "r": 0.12
        }
       },
@@ -996,27 +1380,22 @@
        "text": "فسأله الرجل الصفيحيّ: «ولم لا تمدّ لي سلكًا وتستريح؟»",
        "t": 45138,
        "spot": {
-        "x": 0.5,
+        "x": 0.45,
         "y": 0.15,
         "r": 0.12
        }
       },
       {
        "text": "فقال الساعاتيّ: «كلّ ثقب في الجلد باب للعفن؛ وأنت تريد أن تعيش طويلًا.»",
-       "t": 50651,
-       "spot": {
-        "x": 0.42,
-        "y": 0.45,
-        "r": 0.15
-       }
+       "t": 50651
       },
       {
        "text": "فدقّ القلب المعدنيّ منتظمًا، فقال الساعاتيّ:",
        "t": 58389,
        "spot": {
-        "x": 0.7,
-        "y": 0.45,
-        "r": 0.12
+        "x": 0.68,
+        "y": 0.47,
+        "r": 0.14
        }
       },
       {
@@ -1035,9 +1414,9 @@
        "text": "A permanently implanted artificial heart cannot have wires crossing the skin without a constant risk of infection.",
        "t": 0,
        "spot": {
-        "x": 0.7,
-        "y": 0.45,
-        "r": 0.12
+        "x": 0.68,
+        "y": 0.47,
+        "r": 0.14
        }
       },
       {
@@ -1045,27 +1424,17 @@
        "t": 7260,
        "spot": {
         "x": 0.42,
-        "y": 0.45,
-        "r": 0.15
+        "y": 0.47,
+        "r": 0.18
        }
       },
       {
        "text": "So B is the answer.",
-       "t": 16154,
-       "spot": {
-        "x": 0.42,
-        "y": 0.45,
-        "r": 0.15
-       }
+       "t": 16154
       },
       {
        "text": "Infrared, thermionic and chromatographic methods play no part in power transmission.",
-       "t": 18018,
-       "spot": {
-        "x": 0.5,
-        "y": 0.5,
-        "r": 0.45
-       }
+       "t": 18018
       }
      ],
      "audio": "gh:books/medcosmos-cardiac/media/medcos-q0107-explanation-en.m4a"
@@ -1095,13 +1464,13 @@
      ]
     }
    ],
-   "image": "gh:books/medcosmos-cardiac/media/medcos-q0107.webp",
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0107-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.45,
-      "y": 0.35,
-      "r": 0.18
+      "x": 0.68,
+      "y": 0.47,
+      "r": 0.13
      },
      "what": "Tin man with a clockwork heart",
      "means": "Implanted artificial heart"
@@ -1109,7 +1478,7 @@
     {
      "spot": {
       "x": 0.3,
-      "y": 0.45,
+      "y": 0.47,
       "r": 0.09
      },
      "what": "Copper coil outside the chest",
@@ -1118,8 +1487,8 @@
     {
      "spot": {
       "x": 0.55,
-      "y": 0.45,
-      "r": 0.09
+      "y": 0.47,
+      "r": 0.08
      },
      "what": "Matching coil inside",
      "means": "Implanted coil"
@@ -1127,8 +1496,8 @@
     {
      "spot": {
       "x": 0.42,
-      "y": 0.45,
-      "r": 0.08
+      "y": 0.47,
+      "r": 0.09
      },
      "what": "Rings of light, no wire",
      "means": "Inductive coupling"
@@ -1154,25 +1523,25 @@
        "text": "في غرفة في مانهاتن، كان رجل الصفيح يمشي إلى جانب عربة كبيرة فيها ضاغط هواء.",
        "t": 0,
        "spot": {
-        "x": 0.5,
+        "x": 0.65,
         "y": 0.5,
-        "r": 0.35
+        "r": 0.3
        }
       },
       {
        "text": "ومن صدره خرجت خراطيم هواء غليظة رماديّة، تمرّ من جلده إلى العربة.",
        "t": 6772,
        "spot": {
-        "x": 0.55,
-        "y": 0.5,
-        "r": 0.18
+        "x": 0.65,
+        "y": 0.45,
+        "r": 0.15
        }
       },
       {
        "text": "وعلى الحائط تقويم قطعت منه أكثر من اثنتي عشرة ورقة؛ فقد عاش به أكثر من عام.",
        "t": 12919,
        "spot": {
-        "x": 0.9,
+        "x": 0.87,
         "y": 0.2,
         "r": 0.12
        }
@@ -1181,17 +1550,17 @@
        "text": "لكن عند مدخل الخراطيم في جلده، نبتت أوراق لعب عليها بروكّلي وطحلب.",
        "t": 19960,
        "spot": {
-        "x": 0.28,
-        "y": 0.38,
-        "r": 0.12
+        "x": 0.57,
+        "y": 0.35,
+        "r": 0.1
        }
       },
       {
        "text": "ومن تحت صفيحة صدره، تدحرجت بعض كرات البولينغ السوداء.",
        "t": 26107,
        "spot": {
-        "x": 0.45,
-        "y": 0.72,
+        "x": 0.25,
+        "y": 0.75,
         "r": 0.15
        }
       },
@@ -1199,36 +1568,36 @@
        "text": "وفي الخلف، كان جرّاحان يثبّتان قلبًا من الصفيح على خطوط من الطبشور، هي نفسها الّتي يثبّت عليها القلب الجديد المنقول.",
        "t": 31180,
        "spot": {
-        "x": 0.6,
-        "y": 0.2,
-        "r": 0.18
+        "x": 0.17,
+        "y": 0.25,
+        "r": 0.16
        }
       },
       {
        "text": "فقال رجل الصفيح: «يا ليتني أبقى هكذا أبدًا!»",
        "t": 40664,
        "spot": {
-        "x": 0.3,
+        "x": 0.52,
         "y": 0.17,
-        "r": 0.12
+        "r": 0.1
        }
       },
       {
        "text": "فقالت الممرّضة لوسي: «ليس هذا بالبيت الدائم؛ العفن عند الخراطيم، والكرات الهاربة، لا تترك أحدًا طويلًا.»",
        "t": 45332,
        "spot": {
-        "x": 0.35,
-        "y": 0.55,
-        "r": 0.25
+        "x": 0.57,
+        "y": 0.35,
+        "r": 0.1
        }
       },
       {
        "text": "ثمّ قالت: «وليس أفضل جسر إلى القلب الجديد أيضًا.»",
        "t": 55580,
        "spot": {
-        "x": 0.6,
-        "y": 0.2,
-        "r": 0.18
+        "x": 0.17,
+        "y": 0.25,
+        "r": 0.16
        }
       },
       {
@@ -1236,8 +1605,8 @@
        "t": 60476,
        "spot": {
         "x": 0.8,
-        "y": 0.6,
-        "r": 0.18
+        "y": 0.65,
+        "r": 0.15
        }
       },
       {
@@ -1256,46 +1625,36 @@
        "text": "The pneumatic artificial heart is driven by air through drivelines that cross the chest wall to an external console.",
        "t": 0,
        "spot": {
-        "x": 0.65,
+        "x": 0.75,
         "y": 0.55,
-        "r": 0.25
+        "r": 0.2
        }
       },
       {
        "text": "It has supported patients for more than a year, and it is implanted with techniques much like those of heart transplantation: statements A and E are true.",
        "t": 7016,
        "spot": {
-        "x": 0.75,
+        "x": 0.87,
         "y": 0.2,
-        "r": 0.22
+        "r": 0.12
        }
       },
       {
        "text": "Infection along the drivelines and thromboembolism are its main complications: statement B is true.",
        "t": 17575,
        "spot": {
-        "x": 0.35,
+        "x": 0.4,
         "y": 0.55,
-        "r": 0.25
+        "r": 0.3
        }
       },
       {
        "text": "So A, B and E are the answer.",
-       "t": 24774,
-       "spot": {
-        "x": 0.5,
-        "y": 0.5,
-        "r": 0.45
-       }
+       "t": 24774
       },
       {
        "text": "Because of these complications it is not an ideal permanent heart, and in the book's view not an ideal bridge to transplantation either.",
-       "t": 27754,
-       "spot": {
-        "x": 0.25,
-        "y": 0.45,
-        "r": 0.2
-       }
+       "t": 27754
       }
      ],
      "audio": "gh:books/medcosmos-cardiac/media/medcos-q0108-explanation-en.m4a"
@@ -1331,30 +1690,30 @@
      ]
     }
    ],
-   "image": "gh:books/medcosmos-cardiac/media/medcos-q0108.webp",
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0108-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.3,
-      "y": 0.45,
-      "r": 0.15
+      "x": 0.75,
+      "y": 0.55,
+      "r": 0.2
      },
      "what": "Tin man with air hoses to a compressor",
      "means": "Pneumatic artificial heart"
     },
     {
      "spot": {
-      "x": 0.9,
+      "x": 0.87,
       "y": 0.2,
-      "r": 0.1
+      "r": 0.11
      },
      "what": "Calendar with over twelve pages torn off",
      "means": "Support for over a year"
     },
     {
      "spot": {
-      "x": 0.28,
-      "y": 0.38,
+      "x": 0.57,
+      "y": 0.35,
       "r": 0.09
      },
      "what": "Cards with broccoli at the hose entry",
@@ -1362,18 +1721,18 @@
     },
     {
      "spot": {
-      "x": 0.45,
-      "y": 0.72,
-      "r": 0.1
+      "x": 0.25,
+      "y": 0.75,
+      "r": 0.14
      },
      "what": "Bowling balls rolling out",
      "means": "Thromboembolism"
     },
     {
      "spot": {
-      "x": 0.6,
-      "y": 0.2,
-      "r": 0.13
+      "x": 0.17,
+      "y": 0.25,
+      "r": 0.14
      },
      "what": "Surgeons fitting the heart on chalk marks",
      "means": "Implanted much like a transplant"
@@ -1401,7 +1760,7 @@
        "spot": {
         "x": 0.4,
         "y": 0.75,
-        "r": 0.25
+        "r": 0.3
        }
       },
       {
@@ -1409,16 +1768,16 @@
        "t": 9842,
        "spot": {
         "x": 0.4,
-        "y": 0.75,
-        "r": 0.25
+        "y": 0.7,
+        "r": 0.32
        }
       },
       {
        "text": "فمدّ المفتّش شريطه تحت أحد البابين في السقف، وقال: «لتحسب غرفةً، يجب أن يقع نصف الباب على الأقلّ فوقها؛ وهذه تأخذ البابين كليهما.»",
        "t": 15701,
        "spot": {
-        "x": 0.45,
-        "y": 0.65,
+        "x": 0.3,
+        "y": 0.57,
         "r": 0.15
        }
       },
@@ -1436,25 +1795,25 @@
        "t": 35514,
        "spot": {
         "x": 0.18,
-        "y": 0.48,
-        "r": 0.12
+        "y": 0.33,
+        "r": 0.15
        }
       },
       {
        "text": "فجاء السبّاك توني، ووصل خرطومًا من زعنفة الحوت إلى أنبوب الدولارات.",
        "t": 41725,
        "spot": {
-        "x": 0.45,
+        "x": 0.42,
         "y": 0.35,
-        "r": 0.18
+        "r": 0.15
        }
       },
       {
        "text": "وقال: «الصغير ينقصه المال؛ هذا الخرطوم يعطيه ما يكفي حتّى يكبر.»",
        "t": 48443,
        "spot": {
-        "x": 0.35,
-        "y": 0.45,
+        "x": 0.45,
+        "y": 0.33,
         "r": 0.12
        }
       },
@@ -1462,27 +1821,27 @@
        "text": "وفي فندق آخر إلى اليمين، كان أنبوب المال مفتوحًا على سعته، وسيّارات الأجرة متلاصقة خارجه.",
        "t": 55016,
        "spot": {
-        "x": 0.85,
+        "x": 0.92,
         "y": 0.7,
-        "r": 0.15
+        "r": 0.12
        }
       },
       {
        "text": "ومن النافذة لاحت النافورة الحجريّة في الفناء، تنتظر أن تأخذ ما تحمله المدخنة كلّه إلى المال رأسًا.",
        "t": 64248,
        "spot": {
-        "x": 0.62,
-        "y": 0.45,
-        "r": 0.1
+        "x": 0.68,
+        "y": 0.28,
+        "r": 0.13
        }
       },
       {
        "text": "فقال المفتّش وهو يطوي شريطه:",
        "t": 73525,
        "spot": {
-        "x": 0.4,
-        "y": 0.8,
-        "r": 0.12
+        "x": 0.3,
+        "y": 0.57,
+        "r": 0.15
        }
       },
       {
@@ -1503,16 +1862,16 @@
        "spot": {
         "x": 0.4,
         "y": 0.75,
-        "r": 0.25
+        "r": 0.3
        }
       },
       {
        "text": "To be classed as a ventricle, a chamber must receive at least half of an inlet valve: statement B is true.",
        "t": 7954,
        "spot": {
-        "x": 0.45,
-        "y": 0.65,
-        "r": 0.15
+        "x": 0.35,
+        "y": 0.57,
+        "r": 0.12
        }
       },
       {
@@ -1529,26 +1888,26 @@
        "t": 21516,
        "spot": {
         "x": 0.3,
-        "y": 0.42,
-        "r": 0.22
+        "y": 0.35,
+        "r": 0.2
        }
       },
       {
        "text": "Without pulmonary stenosis, pulmonary flow is excessive and the infant presents with congestive heart failure: statement E is true.",
        "t": 30605,
        "spot": {
-        "x": 0.85,
-        "y": 0.7,
-        "r": 0.15
+        "x": 0.92,
+        "y": 0.75,
+        "r": 0.1
        }
       },
       {
        "text": "The best final repair is the Fontan, which sends all caval blood straight to the pulmonary arteries: statement D is true, so B, C, D and E are the answer.",
        "t": 39520,
        "spot": {
-        "x": 0.62,
-        "y": 0.45,
-        "r": 0.1
+        "x": 0.68,
+        "y": 0.28,
+        "r": 0.13
        }
       }
      ],
@@ -1587,30 +1946,30 @@
      ]
     }
    ],
-   "image": "gh:books/medcosmos-cardiac/media/medcos-q0109.webp",
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0109-b.webp",
    "marks": [
     {
      "spot": {
       "x": 0.4,
-      "y": 0.77,
-      "r": 0.18
+      "y": 0.75,
+      "r": 0.25
      },
      "what": "One big red engine room, no party wall",
      "means": "Univentricular heart (usually double-inlet left ventricle)"
     },
     {
      "spot": {
-      "x": 0.45,
-      "y": 0.62,
-      "r": 0.09
+      "x": 0.35,
+      "y": 0.57,
+      "r": 0.11
      },
      "what": "Tape under the ceiling door",
      "means": "At least half of an inlet valve"
     },
     {
      "spot": {
-      "x": 0.18,
-      "y": 0.48,
+      "x": 0.2,
+      "y": 0.32,
       "r": 0.09
      },
      "what": "Baby with blue lips",
@@ -1618,27 +1977,27 @@
     },
     {
      "spot": {
-      "x": 0.45,
-      "y": 0.35,
-      "r": 0.11
+      "x": 0.4,
+      "y": 0.32,
+      "r": 0.12
      },
-     "what": "Hose from the flipper to the dollar pipe",
+     "what": "Hose from the orca joined by the plumber",
      "means": "Blalock-Taussig shunt"
     },
     {
      "spot": {
-      "x": 0.86,
+      "x": 0.92,
       "y": 0.72,
-      "r": 0.11
+      "r": 0.1
      },
      "what": "Open dollar pipe and gridlocked taxis",
      "means": "No pulmonary stenosis: heart failure"
     },
     {
      "spot": {
-      "x": 0.62,
-      "y": 0.45,
-      "r": 0.08
+      "x": 0.68,
+      "y": 0.28,
+      "r": 0.12
      },
      "what": "Fountain in the courtyard",
      "means": "Fontan as the final repair"
@@ -1665,17 +2024,17 @@
        "text": "في عصر متأخّر أمام فندق الأيّل، طفا حوت كبير من البالونات يخنق خصره حبل بعد زعنفته اليسرى.",
        "t": 0,
        "spot": {
-        "x": 0.55,
-        "y": 0.25,
-        "r": 0.3
+        "x": 0.3,
+        "y": 0.35,
+        "r": 0.25
        }
       },
       {
        "text": "وفوق الحبل عدّاد كبير يتوهّج في عمق الأحمر.",
        "t": 8390,
        "spot": {
-        "x": 0.65,
-        "y": 0.15,
+        "x": 0.2,
+        "y": 0.25,
         "r": 0.1
        }
       },
@@ -1683,44 +2042,44 @@
        "text": "وإلى اليمين، صبيّ في التاسعة ساقاه شاحبتان، والطّبيب يتحسّس أعلى فخذه فلا يجد نبضًا.",
        "t": 12620,
        "spot": {
-        "x": 0.8,
+        "x": 0.75,
         "y": 0.7,
-        "r": 0.18
+        "r": 0.2
        }
       },
       {
        "text": "فقال الطبيب: «الضغط عال فوق الحبل، والسّاقان لا تأخذان نصيبهما.»",
        "t": 20708,
        "spot": {
-        "x": 0.72,
-        "y": 0.45,
-        "r": 0.35
+        "x": 0.65,
+        "y": 0.72,
+        "r": 0.13
        }
       },
       {
        "text": "وفي فم الحوت علقت درّاجة، عجلتاها كشفتين اثنتين.",
        "t": 27349,
        "spot": {
-        "x": 0.23,
-        "y": 0.25,
-        "r": 0.13
+        "x": 0.62,
+        "y": 0.26,
+        "r": 0.14
        }
       },
       {
        "text": "فقال الطبيب: «وهذه أكثر ما يأتي مع الحبل: فم بشفتين لا بثلاث.»",
        "t": 32479,
        "spot": {
-        "x": 0.23,
-        "y": 0.25,
-        "r": 0.13
+        "x": 0.62,
+        "y": 0.26,
+        "r": 0.14
        }
       },
       {
        "text": "وعلى واجهة الفندق، كانت الأسيجة الحديديّة مثلّمةً حيث تمرّ بها كروم غليظة تحمل الماء حول الحبل.",
        "t": 39368,
        "spot": {
-        "x": 0.55,
-        "y": 0.55,
+        "x": 0.75,
+        "y": 0.5,
         "r": 0.15
        }
       },
@@ -1728,8 +2087,8 @@
        "text": "وإلى اليسار، حملت الممرّضة لوسي رضيعًا ورديًّا فوق خصره، أزرق تحته.",
        "t": 48037,
        "spot": {
-        "x": 0.25,
-        "y": 0.7,
+        "x": 0.2,
+        "y": 0.72,
         "r": 0.15
        }
       },
@@ -1738,17 +2097,17 @@
        "t": 54761,
        "spot": {
         "x": 0.25,
-        "y": 0.65,
-        "r": 0.18
+        "y": 0.7,
+        "r": 0.12
        }
       },
       {
        "text": "ثمّ نظر الطبيب إلى الحبل وقال:",
        "t": 61579,
        "spot": {
-        "x": 0.6,
-        "y": 0.3,
-        "r": 0.12
+        "x": 0.3,
+        "y": 0.37,
+        "r": 0.18
        }
       },
       {
@@ -1767,17 +2126,17 @@
        "text": "The most common associated anomaly in coarctation of the aorta is a bicuspid aortic valve: statement A is true.",
        "t": 0,
        "spot": {
-        "x": 0.23,
-        "y": 0.25,
-        "r": 0.13
+        "x": 0.62,
+        "y": 0.26,
+        "r": 0.14
        }
       },
       {
        "text": "In an older child, enlarged intercostal collateral arteries erode the lower borders of the ribs, so the chest film shows rib notching: statement B is true.",
        "t": 8204,
        "spot": {
-        "x": 0.55,
-        "y": 0.55,
+        "x": 0.75,
+        "y": 0.5,
         "r": 0.15
        }
       },
@@ -1787,25 +2146,20 @@
        "spot": {
         "x": 0.25,
         "y": 0.7,
-        "r": 0.15
+        "r": 0.12
        }
       },
       {
        "text": "So A, B and D are the answer.",
-       "t": 27642,
-       "spot": {
-        "x": 0.5,
-        "y": 0.5,
-        "r": 0.45
-       }
+       "t": 27642
       },
       {
        "text": "Coarctation is a congenital narrowing, not an inflammatory aortitis, and paradoxical hypertension after repair is a reflex response, not a sign of residual stenosis.",
        "t": 30932,
        "spot": {
-        "x": 0.6,
-        "y": 0.3,
-        "r": 0.15
+        "x": 0.3,
+        "y": 0.37,
+        "r": 0.18
        }
       }
      ],
@@ -1843,49 +2197,49 @@
      ]
     }
    ],
-   "image": "gh:books/medcosmos-cardiac/media/medcos-q0110.webp",
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0110-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.6,
-      "y": 0.3,
-      "r": 0.1
+      "x": 0.3,
+      "y": 0.37,
+      "r": 0.16
      },
      "what": "Rope pinching the orca",
      "means": "Coarctation"
     },
     {
      "spot": {
-      "x": 0.65,
-      "y": 0.15,
-      "r": 0.08
+      "x": 0.2,
+      "y": 0.25,
+      "r": 0.09
      },
      "what": "Gauge in the red above the rope",
      "means": "Hypertension in the upper body"
     },
     {
      "spot": {
-      "x": 0.85,
-      "y": 0.72,
-      "r": 0.11
+      "x": 0.8,
+      "y": 0.75,
+      "r": 0.14
      },
      "what": "Pale legs, no pulse at the groin",
      "means": "Absent femoral pulses"
     },
     {
      "spot": {
-      "x": 0.23,
-      "y": 0.25,
-      "r": 0.11
+      "x": 0.62,
+      "y": 0.26,
+      "r": 0.13
      },
      "what": "Bicycle wedged in the orca's mouth",
      "means": "Bicuspid aortic valve"
     },
     {
      "spot": {
-      "x": 0.55,
-      "y": 0.55,
-      "r": 0.11
+      "x": 0.75,
+      "y": 0.5,
+      "r": 0.13
      },
      "what": "Railings notched by thick vines",
      "means": "Rib notching"
