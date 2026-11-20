@@ -22,7 +22,7 @@ Updated 2026-11-19 (evening). Whoever works on YouTop next: read `CLAUDE.md`, th
 - **Handover (2026-11-20, 13:30 UTC): the owner is closing this conversation.** Everything is on GitHub: main holds
   the tools, symbols and this file; `content` holds the 96 published lessons and every batch's work files under
   `work/medcosmos-cardiac/`; `drafts/medcosmos-cardiac/` on main holds the same files plus
-  `prompts-missing.txt` / `image-prompts-missing.json` (the 46 pictures still wanted, prompts unchanged).
+  `prompts-missing.txt` / `image-prompts-missing.json` (the 41 pictures still wanted, prompts unchanged).
   To restart: `python3 tools/content/publish.py --export .content-work` rebuilds the scratch folder (media are on
   `content`); download the master `.jsonl` from Drive (id in `content/books/medcosmos-cardiac.json`); make a venv with
   edge-tts and faster-whisper for `voice.py`. Pictures still wanted: 1, 10, 16, 21, 25, 31, 38, 45, 60, 65, 76,
