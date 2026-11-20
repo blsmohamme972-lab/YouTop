@@ -1,0 +1,64 @@
+book: medcosmos-cardiac
+== 32
+1: 60 35 12 | Trident welded shut | Tricuspid atresia
+2: 63 17 9 | Newborn in a crib | First month of life
+3: 42 57 10 | Hose to the dollar pipe | Systemic-to-pulmonary shunt
+4: 68 65 10 | Leather belt on the dollar pipe | Pulmonary artery banding
+5: 45 73 10 | Watchman with binoculars | Observation
+question: 1 2
+answer: 3 4 5
+== 33
+1: 25 68 15 | Fountain with no pump, fed by the chimney | Fontan circulation
+2: 62 55 10 | Six wooden blocks in the dollar pipe | PVR of 6 Wood units
+3: 85 37 9 | Gauge at 18 in the red | LVEDP of 18 mm Hg
+4: 25 82 12 | Water spilling over the rim | The Fontan fails
+question: 1
+answer: 2 3 4
+== 34
+1: 88 65 9 | Plastic hippo in the doll-sized red wing | Hypoplastic left heart syndrome
+2: 15 57 12 | Big blue wing with its roaring fan | The right ventricle does all the work
+3: 45 38 11 | Duct-tape tunnel to the orca | The ductus feeds the body
+4: 55 47 8 | Raised beer stein propping the tunnel | Intravenous PGE1
+question: 1 2 3
+answer: 4
+== 35
+1: 30 8 11 | Astronaut with a 2 on his helmet | Glenn as stage two
+2: 48 25 10 | Chimney plugged into the dollar pipe | SVC to pulmonary artery
+3: 60 35 8 | Plastic hippo in the red wing | Hypoplastic left heart
+4: 30 65 12 | Flood draining from the blue engine room | Less volume load on the single RV
+5: 80 38 12 | Plumber fixing the pipe and the orca's back | PA and arch stenoses repaired together
+6: 35 82 12 | Undertaker taking an empty coffin away | Lower mortality of the later Fontan
+7: 87 75 11 | Dry fountain waiting its turn | The later Fontan
+question: 1 2 3
+answer: 4 5 6 7
+== 36
+1: 65 30 13 | One tree trunk | Truncus arteriosus
+2: 15 45 10 | Gridlocked taxis outside | Congestive heart failure
+3: 30 82 8 | Baby with bright blue lips | Cyanosis
+4: 52 52 13 | Clear waterslide tube to the dollar pipes | Right ventricle to pulmonary artery conduit
+question: 1
+answer: 2 3 4
+== 37
+1: 50 40 13 | One tree trunk | Truncus arteriosus
+2: 50 78 8 | Gap under the trunk between the rooms | VSD
+3: 75 50 12 | Dollar pipes sprouting from the trunk | Pulmonary arteries arise from the trunk
+4: 55 90 10 | Single golden trapdoor | One truncal valve
+question: 1
+answer: 2 3 4
+== 39
+1: 35 80 13 | Switch lever that will not move | No one-stage arterial switch
+2: 30 20 12 | Orca rising from the blue room | Transposition
+3: 65 40 13 | Dusty, slow fan in the red room | Deconditioned left ventricle
+4: 83 60 8 | Calendar at 6 weeks | Older than 6 weeks
+5: 58 60 8 | Gauge below 50% | LV pressure under half of systemic
+6: 80 28 10 | Clamp at the dollar pipe's mouth | Valvar pulmonary stenosis
+question: 1 2
+answer: 3 4 5 6
+== 40
+1: 50 32 14 | Mustard wall across the lobbies | Atrial switch (Senning or Mustard)
+2: 55 15 12 | Pirate dancing out of step | Atrial arrhythmias
+3: 15 20 8 | Chimney pinched at the mustard channel | Systemic venous obstruction
+4: 88 18 8 | Returning dollar pipe pinched | Pulmonary venous obstruction
+5: 22 75 13 | Smoking fan in the blue room under the orca | Failure of the systemic right ventricle
+question: 1
+answer: 2 3 4 5

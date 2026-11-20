@@ -1,0 +1,66 @@
+book: medcosmos-cardiac
+== 41
+1: 45 42 10 | Baby orca's lips sewn almost shut | Critical neonatal aortic stenosis
+2: 25 45 10 | Tailor's scissors snipping the lips | Valvotomy
+3: 55 55 10 | Rope at the baby orca's waist | Coarctation
+4: 87 43 10 | Duct-tape tunnel to the dollar pipe | PDA
+5: 60 15 9 | Mitre squeezed narrow | Mitral stenosis
+6: 55 85 13 | Inspector measuring the red engine room | Success depends on an adequate LV
+question: 1 2
+answer: 3 4 5 6
+== 42
+1: 45 35 11 | The orca's stiff, narrow mouth | Aortic valve disease in an older child
+2: 20 38 10 | Tailor's scissors at the fused corners | Incision of fused commissures
+3: 80 38 12 | Workers sawing the collar and stitching a patch | Enlarging the aortic annulus
+4: 42 40 9 | Red rose planted in the orca's mouth | Ross operation
+5: 45 68 10 | Pipe of dollar bills the rose came from | The pulmonary valve as autograft
+question: 1
+answer: 2 3 4 5
+== 43
+1: 50 75 15 | White curtain under the orca's mouth | Subaortic membrane
+2: 50 47 12 | Plumber coming in through the orca's mouth | Approach through the aorta and aortic valve
+3: 80 70 12 | Sculptor chiselling the bulging wall | Septal myectomy lowers recurrence
+question: 1
+answer: 2 3
+== 44
+1: 40 55 15 | Wall swollen into a bodybuilder's biceps | Hypertrophic obstructive cardiomyopathy
+2: 15 78 11 | Ice-hockey goalkeeper | Propranolol (beta-blocker)
+3: 52 85 10 | Canal dammed with chalky glue | Verapamil (calcium channel blocker)
+4: 85 45 12 | Two drummers, upstairs and downstairs | Dual-chamber pacing
+5: 70 40 10 | Sculptor chiselling the bulge | Septal myectomy
+6: 55 28 10 | Bishop stitching his mitre | Mitral plication
+question: 1
+answer: 2 3 4 5 6
+== 46
+1: 50 15 18 | Liberty crown clogged with tar | Coronary artery disease
+2: 30 75 17 | Endless line of coffins | Deaths each year
+3: 77 82 11 | Sign 500,000 | About 500,000 a year
+question: 1 2
+answer: 3
+== 47
+1: 55 55 18 | Lad stuck on the front slide, thick tar | Left anterior descending: most diseased
+2: 85 25 11 | Clean slides at the sides and back | Right and circumflex: less often
+question: 2
+answer: 1
+== 48
+1: 80 45 15 | The Liberty crown's spikes | Coronary arteries
+2: 60 40 10 | Few hair-thin threads between spikes | Minimal effective collaterals
+3: 25 30 15 | Climber unable to cross | No help when an artery is suddenly blocked
+question: 1
+answer: 2 3
+== 50
+1: 60 15 17 | Cabbage leaves over the tar-clogged crown | Coronary bypass grafting
+2: 20 47 12 | Arrow bouncing off a leaf before the stag | Fewer myocardial infarctions
+3: 80 42 13 | Stone angel rising off the man's chest | Relief of angina
+4: 45 85 13 | Old man unrolling a long calendar | Longer life
+5: 25 35 11 | Bouncer throwing a crowd out of the red room | Better ejection fraction
+question: 1
+answer: 2 3 4 5
+== 49
+1: 30 15 15 | Ox in an oxygen mask pouring | Oxygen delivered
+2: 25 20 9 | Full bucket marked 100% | Coronary arterial blood 100% saturated
+3: 50 35 18 | The thirsty Liberty crown | The heart extracts most of the oxygen
+4: 42 72 9 | Sink with a green crown in the blue lobby | Coronary sinus
+5: 55 85 9 | Bucket a third full, marked 35% | Coronary sinus saturation about 35%
+question: 1 2 3 4
+answer: 5

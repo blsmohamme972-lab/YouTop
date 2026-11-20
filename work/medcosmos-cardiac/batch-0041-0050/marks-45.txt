@@ -1,0 +1,9 @@
+book: medcosmos-cardiac
+== 45
+1: 50 53 13 | Pearl necklace just above the mouth | Supravalvular aortic stenosis
+2: 20 35 14 | Pearls along the whole back | The diffuse form
+3: 12 62 9 | Strings from the back pinched | Arch branches narrowed
+4: 88 25 10 | Repaired orca floating away free | Reoperation rare after discrete repair
+5: 88 58 10 | Orca coming back | Unless the valve itself is abnormal
+question: 1
+answer: 2 3 4 5
