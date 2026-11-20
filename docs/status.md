@@ -19,21 +19,21 @@ Updated 2026-11-19 (evening). Whoever works on YouTop next: read `CLAUDE.md`, th
   ends: while it runs, never build, set pictures, spots or marks, or publish. Start make as a round's last step.
 - **Unpublished work** lives in `.content-work/work/medcosmos-cardiac/batch-*/` (batch, voice, spots, marks) and is
   backed up on the work branch under `drafts/medcosmos-cardiac/` until it is published to `content`.
-- **Where things stand (2026-11-20, ~00:00 UTC):** ALL of 1-100 are written (prompts SENT for every batch).
-  - **1-20 PUBLISHED.** Pictures 2 and 4 still missing (texts, spots and marks for them are in
+- **Where things stand (2026-11-20, 01:25 UTC):** texts for 1-110 written; prompts for 21-110 SENT (90 pictures
+  waiting, so no new batch is written until fewer than 20 prompts wait, as the round rules say).
+  - **The owner (2026-11-20): publish only complete lessons.** 1, 3 and 5-20 are published (18); 2 and 4 were taken
+    out until their pictures arrive. Publish MedCosmos with `publish.py F --complete-only` from a folder F that
+    links only `books/medcosmos-cardiac` (and `work`), as the skill says; never publish `.content-work` whole.
+  - **1-20:** pictures 2 and 4 still missing (texts, spots and marks for them are in
     `work/medcosmos-cardiac/batch-0001-0020/`; when they arrive: `batch.py pictures`, spots, marks, look, publish).
-  - 21-40: built, RECORDED; 21-30 voice-checked, 31-40 NEXT `voice.py check`. Waiting for the owner's pictures.
-  - 41-50: built; recording running (log: scratchpad `voice-make-31.log`; it rewrites chapter `q0001-0100` at the end,
-    so nothing else may write that chapter until `exit41` appears). Then `voice.py check`.
-  - 51-100: stories, explanations and vowelled voice.txt written and checked (dry run of the build's checks). NEXT:
-    `batch.py build` each batch (master: scratchpad `medcosmos/medcosmos-cardiac-156-q.jsonl`; download it from Drive,
-    id in the book json, if the scratchpad is gone), then ONE `voice.py make` per batch, one after another.
+  - 21-110: built, RECORDED and voice-checked (silent sentences in 38, 54, 65, 76 re-recorded and passing; small
+    word-boundary misses left in 76 s9, 91 s6, 94 s4 'اليمنى'). Nothing is running. Waiting for the owner's pictures.
   - When pictures arrive for any batch: `batch.py pictures`, write spots.txt and marks.txt from the pictures (as in
     batch-0001-0020), look at every drawing, `voice.py check`, publish, merge status to main.
   - Key fixes: Q56 option C reversed in the book (`option:`), Q79 key reversed (`key: C`), Q82 matching key asked as
     four questions (`asks:`), all with x:key-corrected or a note. Debated but kept: Q4, Q9, Q33 (MR), Q50, Q52, Q76.
-  - NEXT writing: 101-156 (chapter `q0101-0200`, so it can be built while 1-100 record).
-  - Recurring symbols: 119 approved by `symbols.py audit`; see `content/symbols.md`.
+  - NEXT writing (only when fewer than 20 prompts wait): 111-156.
+  - Recurring symbols: 124 approved by `symbols.py audit`; see `content/symbols.md`.
   - Work files are published with the content (`work/` on the content branch) and copied to the work branch
     under `drafts/medcosmos-cardiac/`.
 

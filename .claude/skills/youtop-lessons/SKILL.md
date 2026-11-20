@@ -128,6 +128,12 @@ scene does not encode the *answer*, redo the scene before writing the story.
     python3 tools/content/batch.py build <scratch>/batch.txt --master <file>
     python3 tools/content/publish.py .content-work -m "Shahzad 2015: lessons 41-50"
 
+**Only complete lessons are published (the owner, 2026-11-20).** A lesson without its picture is held
+back: publish with `--complete-only`, and from a folder that holds only the book being published, so other
+books are not touched, e.g. `mkdir -p F/books && ln -s $PWD/.content-work/books/<book> F/books/<book> &&
+ln -s $PWD/.content-work/work F/work`, then `publish.py F --complete-only -m "..."`. Held-back lessons come
+in by themselves at the first publish after their picture is set; the phone keeps progress meanwhile.
+
 `build` copies stems and options from the master file, keeps pictures/spots/recordings of
 lessons that already exist, refuses to change a text that has a recorded voice, checks the
 owner's rules and writes `image-prompts-<a>-<b>.json`. Fix every problem it prints; read its
