@@ -1,0 +1,68 @@
+book: medcosmos-cardiac
+== 22
+1: 20 55 13 | Large hole as wide as the orca's mouth | A large VSD is the size of the aortic orifice
+2: 65 25 15 | Red lobby bulging with money | High pulmonary flow enlarges the left atrium
+3: 68 58 5 | Keyhole-sized hole | Small restrictive VSD
+4: 85 53 8 | Gauge calm in the green | Normal pressures and resistance
+5: 47 75 11 | Padlocked operating door | No operation
+6: 67 69 9 | Gauge at 12 in the red | PVR above 10-12 units
+question: 1 3
+answer: 2 4 5 6
+== 23
+1: 15 42 9 | Holes sealing themselves with brick | Spontaneous closure
+2: 12 30 8 | Sign 25-50 | In 25% to 50%
+3: 45 50 12 | Thin boy panting, plate untouched | Tachypnoea and failure to thrive
+4: 85 55 11 | Mitre trapdoor rumbling | Mid-diastolic murmur at the apex
+5: 15 63 11 | Red water flowing to the blue side | Left-to-right shunt, not Eisenmenger
+6: 60 32 9 | Iceman passing by | Eisenmenger is not present
+question: 5 6
+answer: 1 2 3 4
+== 24
+1: 25 28 10 | Trident-shaped hatch in the blue lobby floor | Approach through right atrium and tricuspid valve
+2: 22 85 11 | Exhausted crying toddler | Intractable symptoms
+3: 65 80 11 | Calm baby with a dollar pipe | Asymptomatic infant
+4: 88 68 9 | Gauge creeping into the red | Rising pulmonary vascular resistance
+5: 45 42 10 | Sparking branches left untouched | Heart block is uncommon
+6: 70 61 8 | Nearly empty board | Low hospital mortality
+question: 1 5 6
+answer: 2 3 4
+== 26
+1: 20 25 13 | Arcade machine like a Tetris piece | Tetralogy of Fallot
+2: 50 47 13 | Boy tightening the clamp on the dollar pipe | Degree of pulmonary stenosis
+3: 50 62 15 | Children's faces turning blue | Shunt and cyanosis follow the stenosis
+4: 72 25 11 | Man measuring the hole, shrugging | Size of the VSD matters little
+5: 62 13 11 | Man pushing the orca, shrugging | Amount of overriding matters little
+question: 1 4 5
+answer: 2 3
+== 27
+1: 32 10 12 | Falling Tetris piece | Tetralogy of Fallot
+2: 75 25 14 | Orca curving to the right | Right aortic arch
+3: 15 80 9 | Dollar pipe with one branch missing | Absent left pulmonary artery
+4: 50 45 9 | Flipper behind the pole | Retro-oesophageal subclavian artery
+5: 25 90 10 | Crown spike crossing in front of the pipe | LAD from the right coronary
+6: 75 55 12 | Red gauge turned away; pipe's gauge low | Primary pulmonary hypertension: not associated
+question: 1 2 3 4 5
+answer: 6
+== 28
+1: 18 47 10 | Beer stein propping the duct-tape tunnel | PGE1 keeps the duct open
+2: 40 45 13 | Hose from the flipper to the dollar pipe | Systemic-to-pulmonary (BT) shunt
+3: 55 55 11 | Tailor patching the pipe's ring | Complete repair, transannular patch
+4: 70 76 12 | Man with a leather belt | Pulmonary artery banding
+5: 75 32 14 | Smiling pink Tetris piece | Acyanotic tetralogy
+question: 1 2 3
+answer: 4 5
+== 29
+1: 50 83 8 | Dollar pipe welded shut | Pulmonary atresia
+2: 33 70 13 | Large blue room with a big trident | Good RV and tricuspid size
+3: 75 73 10 | Tiny blue room with a small trident | Small RV and tricuspid valve
+4: 83 70 8 | Worried Mr Green | The outcome depends on RV size
+question: 1
+answer: 2 3 4
+== 30
+1: 45 30 16 | Orca and dollar pipe both from the blue room | Double-outlet right ventricle
+2: 20 50 6 | Hole in the party wall | A VSD is usually present
+3: 15 40 10 | Left hotel: clamp on the pipe, hole under orca | Subaortic VSD with pulmonary stenosis
+4: 60 43 9 | Cherries tossed into the hole under the pipe | Taussig-Bing: subpulmonary VSD
+5: 87 30 12 | Mirror showing the swapped hotel | Behaves like transposition
+question: 1
+answer: 2 3 4 5
