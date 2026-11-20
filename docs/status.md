@@ -1,6 +1,6 @@
 # Where the work stands
 
-Updated 2026-11-19 (evening). Whoever works on YouTop next: read `CLAUDE.md`, then this, then
+Updated 2026-11-20 (night). Whoever works on YouTop next: read `CLAUDE.md`, then this, then
 `docs/content-guide.md`. Rewrite this file whenever the state changes (it replaces the
 `status-<n>.txt` files in the Drive folder "YouTop private", which stop at 7).
 
@@ -69,7 +69,13 @@ Updated 2026-11-19 (evening). Whoever works on YouTop next: read `CLAUDE.md`, th
     and behind, I am a mountain, I strike the sword for God, since they cut me from the reed-bed, love is the soul of
     Sinai, love wills this speech shown forth, ask God for courtesy; Book II: the Masnavi delayed till blood became
     milk, until your fortune bears a new child, love's religion is apart, the ruby without a seal; Book IV: the gardens
-    are in the heart). 111-120 recorded; 121-140 built and recording; 141-156 waiting to be built and recorded.
+    are in the heart).
+  - **ALL 156 ARE BUILT AND RECORDED (2026-11-20, night);** `voice.py check` heard every sentence of 111-156 (and the
+    re-recorded stories of 112 and 120: 112's quotation is now the hadith "the believer is the mirror of the believer",
+    120's S10 lead-in was lengthened). The audio of 111-156 exists only in the session's `.content-work` until it is
+    published; if it is lost, rebuild the batches and run `voice.py make` again (same voice files, same result).
+  - **NEXT: pictures 1, 91, 93, 104 and 111-156** from the owner. When they come: `batch.py pictures` (`--replace b`
+    for published 1 and 104), spots, marks, look at every drawing, publish with `--complete-only`.
 - **Where things stand (2026-11-20, 10:30 UTC):** texts and voices for 1-110 done. **96 lessons PUBLISHED** (complete
   only), published with `publish.py <scratchpad>/pub-mc --complete-only` (pub-mc links only `books/medcosmos-cardiac`
   and `work`).
