@@ -1,0 +1,148 @@
+book: medcosmos-cardiac
+# MedCosmos Cardiac, questions 141-150, written to the owner's five picture rules and the audited symbols
+# (content/symbols.json). Theme: New York City. Quotations: Rumi, the Masnavi (from memory, translated).
+
+== 141
+# A 52-year-old woman with chest pain considered for coronary arteriography -> B (atypical patients with a borderline positive stress test should have arteriography).
+# A (every typical angina), C (valve patients do not need it) and D (every transplant candidate in refractory failure) are false in the book.
+# ANSWER B: a woman with only a small, half-carved stone angel on her chest, on a treadmill whose needle quivers exactly on the red line, and a photographer spraying the Liberty crown with glowing dye -> atypical symptoms plus a borderline stress test: arteriography
+title: An atypical patient with a borderline positive stress test should have coronary arteriography
+titleAr: المريض ذو الأعراض غير النموذجية مع اختبار جهد إيجابي حدّي يحتاج تصوير الشرايين التاجية
+tags: cardiac/coronary d:indications d:diagnosis q:vignette l:2
+palette: clinic white, half-carved grey stone, a quivering red needle, glowing magenta dye on green copper
+keywords: angina -> a small, half-carved stone angel sitting on a woman's chest; borderline stress test -> a treadmill whose dial needle quivers exactly on the red line; coronary artery -> the green crown of the Statue of Liberty, seven spikes; arteriography -> a photographer spraying the crown with glowing magenta dye and photographing it with a big flash camera
+must: the angel is SMALL and only half carved; the needle sits EXACTLY on the red line
+scene: A bright clinic in Manhattan. A 52-year-old woman walks on a treadmill with a small, half-carved stone angel on her chest; the treadmill's big dial needle quivers exactly on the red line. CENTRE, dominant and brightest: beside her, a giant green crown of the Statue of Liberty stands on a stand, and a photographer sprays it with glowing magenta dye and photographs it with a big flash camera.
+
+== 142
+# The same patient, unsuitable for PTCA, is considered for CABG -> A (CABG relieves angina and improves work capacity better than medical treatment), B (late outcome in unstable angina is no different from stable), C (the left internal mammary artery is the commonest arterial graft).
+# D (arterial grafts improve long-term patency but early mortality is no different) is false in the book.
+# ANSWER A: a man whose Liberty crown is bridged with cabbage leaves carries heavy crates up the stairs, the stone angel gone; a man on pills alone still sits under his angel -> CABG beats medicine for angina and work capacity
+# ANSWER B: two runners crossing the finish line together, one who came in a storm, one in calm -> unstable and stable cohorts, same late outcome
+# ANSWER C: a green lima bean vine growing down from the chest wall onto the front of the crown -> the left internal mammary artery, the commonest arterial graft
+title: CABG beats medicine for angina and work capacity, unstable patients do as well late, and the internal mammary is the usual arterial graft
+titleAr: المجازة تتفوّق على الأدوية في الذبحة والقدرة على العمل، والمرضى غير المستقرّين بالنتائج نفسها لاحقًا، والشريان الثديي الداخلي أشيع طعم شرياني
+tags: cardiac/coronary d:evidence d:technique q:vignette l:2
+palette: sunny warehouse gold, cabbage green, lima-bean green vine, grey stone angel
+keywords: coronary artery bypass grafting -> big green cabbage leaves laid as bridges over the tar-clogged spikes of the Liberty crown; angina -> a heavy stone angel sitting on a man's chest; internal mammary artery -> a green lima bean vine growing down from the chest wall onto the front of the Liberty crown; unstable angina -> a runner who came through a storm with a stone angel's shadow on his chest
+must: the cabbage-bridged man carries crates with NO angel; the pill-only man is still under his angel; the two runners cross TOGETHER
+scene: A sunny warehouse in Brooklyn. CENTRE, dominant and brightest: a man whose green Statue of Liberty crown is bridged with big cabbage leaves, and down whose front a green lima bean vine grows from his chest wall, carries heavy crates up the stairs with ease, no angel on him. Beside him, a man holding only a bottle of pills still sits under a heavy stone angel. At the top of the stairs, two runners cross a finish line together, one soaked from a storm with a stone angel's shadow on his chest, one dry.
+
+== 143
+# Workup of a 45-year-old with suspected coronary disease -> A (thyroid tests to rule out hyperthyroidism).
+# B (a positive stress ECG shows ST elevation; it shows depression), C (dipyridamole raises perfusion pressure) and D (fixed thallium defects mean reversible ischaemia) are false.
+# ANSWER A: a doctor checking a bright butterfly at the man's throat that beats its wings frantically, a racing hotel fan behind -> rule out hyperthyroidism
+# a street-corner elevator platform going DOWN during the treadmill test -> exercise ischaemia shows ST depression, not elevation
+title: In the workup of coronary disease, thyroid tests rule out hyperthyroidism
+titleAr: في استقصاء مرض الشرايين التاجية: تُجرى فحوص الغدّة الدرقية لاستبعاد فرط نشاطها
+tags: cardiac/coronary d:diagnosis q:vignette l:1
+palette: morning blue, a fiery orange butterfly, chrome treadmill, street-corner elevator grey
+keywords: hyperthyroidism -> a fiery orange butterfly at the man's throat beating its wings frantically; ventricle -> the red engine room's huge ventilation fan racing; ST segment depression -> a street-corner elevator platform sinking DOWN
+must: the butterfly sits at the THROAT; the elevator platform goes DOWN, not up
+scene: A morning clinic in Manhattan. A 45-year-old man walks on a treadmill. CENTRE, dominant and brightest: at his throat sits a fiery orange butterfly beating its wings frantically, and a doctor leans in with a magnifying glass to check it; behind him, through a cut-open wall of the old hotel with a stag's head, the red engine room's fan races. On the street corner outside the window, an elevator platform sinks down.
+
+== 144
+# Recurrent chest pain 24 hours after successful thrombolysis -> C (catheterization and PTCA if single-vessel disease) and D (multivessel disease means bypass).
+# A (repeat thrombolysis alone), B (early elective PTCA would have prevented it) and E (wait 30 days before bypass) are false.
+# a stone angel back on the man's chest the next day -> recurrent angina after thrombolysis
+# ANSWER C: one clogged spike of the Liberty crown opened by a Slinky spring on a wire -> single-vessel disease: PTCA
+# ANSWER D: a second crown with tar in several spikes, bridged by big cabbage leaves -> multivessel disease: bypass
+title: Recurrent pain after thrombolysis: catheterize; one vessel gets PTCA, several get bypass
+titleAr: عودة الألم بعد حلّ الخثرة: قسطرة؛ والشريان الواحد يُوسّع بالبالون، والشرايين المتعدّدة تُعالج بالمجازة
+tags: cardiac/coronary d:indications q:vignette l:2
+palette: evening hospital blue, Slinky silver, cabbage green, tar black
+keywords: angina -> a heavy stone angel sitting on a man's chest; coronary artery -> the green crown of the Statue of Liberty, seven spikes; PTCA -> a coiled metal Slinky spring pushed on a long wire into a clogged spike to hold it open; coronary artery bypass grafting -> big green cabbage leaves laid as bridges over the tar-clogged spikes of the Liberty crown
+must: the LEFT crown has ONE clogged spike, opened by the Slinky; the RIGHT crown has SEVERAL clogged spikes, bridged by cabbage
+scene: An evening hospital room in Manhattan; a man sits up with a heavy stone angel back on his chest. CENTRE, dominant and brightest: two giant green Statue of Liberty crowns side by side. On the left crown only one spike is clogged with tar, and a doctor pushes a coiled metal Slinky spring on a long wire into it, holding it open. On the right crown several spikes are clogged, and a surgeon lays big green cabbage leaves as bridges over them.
+
+== 145
+# Low cardiac output after a four-graft CABG -> B (if it persists despite optimal support, insert an intra-aortic balloon pump) and D (the balloon inflates in diastole).
+# A (an inotrope first), C (low filling pressures suggest tamponade) are false.
+# green cabbage leaves bridging four spikes of the Liberty crown -> four bypass grafts
+# a dial reading under 2 and only a trickle of taxis leaving -> low cardiac output
+# ANSWER B: after the nurses have tried everything (fluids, a coal miner, a windmill), a long sausage balloon slipped into the orca's belly -> IABP when output stays low despite support
+# ANSWER D: the sausage swelling only while the engine-room fans rest, shrinking as they push -> inflation in diastole
+title: Low output after CABG despite full support: a balloon pump, inflating in diastole
+titleAr: نتاج منخفض بعد المجازة رغم الدعم الكامل: مضخة بالونية تنتفخ في الانبساط
+tags: cardiac/perioperative d:postoperative q:vignette l:2
+palette: night ICU green screens, sausage-balloon pink, cabbage green, dim blue
+words: 4, 2
+keywords: coronary artery bypass grafting -> big green cabbage leaves laid as bridges over the tar-clogged spikes of the Liberty crown; dopamine -> a coal miner with a lamp on his helmet, pushing hard; milrinone -> a tall windmill turning its sails; intra-aortic balloon pump -> a long sausage-shaped balloon inside the orca's belly, swelling when the fans rest and shrinking just before they push; low cardiac output -> a dial reading under 2
+must: the sausage SWELLS while the fans are STILL and shrinks when they push; the dial reads under 2
+scene: A night intensive care unit beside the old Brooklyn hotel with a stag's head. A green Statue of Liberty crown on the wall has four spikes bridged with cabbage leaves, marked 4. A dial on the hotel reads under 2. Nurses have tried everything: a coal miner pushes, a windmill turns. CENTRE, dominant and brightest: a long pink sausage-shaped balloon inside the belly of a giant orca parade balloon swells while the engine-room fans stand still, and shrinks as they push.
+
+== 146
+# A 42-year-old asymptomatic lawyer with a positive exercise test -> B (he could progress to heart failure from ischaemic cardiomyopathy), C (typical angina is promptly relieved by rest), D (dyspnoea on exertion can be an angina equivalent).
+# A (silent ischaemia is rare, under 5%) is false: it is common.
+# a lawyer smiling with a quiet black tar plug in one spike of his crown -> silent ischaemia is common
+# ANSWER B: a faint future shadow of yellow taxis gridlocked behind him -> could progress to heart failure from ischaemic cardiomyopathy
+# ANSWER C: a man who sits down on a bench and the stone angel lifts off his chest -> typical angina is relieved by rest
+# ANSWER D: a man out of breath on the stairs, the angel's shadow on his chest -> dyspnoea as an angina equivalent
+title: Silent ischaemia: an angina equivalent can be breathlessness, rest relieves typical angina, and failure may follow
+titleAr: الإقفار الصامت: قد يكون ضيق النفس بديلًا للذبحة، والراحة تريح الذبحة النموذجية، وقد يتبعه قصور القلب
+tags: cardiac/coronary d:diagnosis q:vignette l:2
+palette: law-office walnut, Liberty-crown green, grey stone angel, faint yellow taxis
+keywords: coronary artery -> the green crown of the Statue of Liberty, seven spikes; myocardial ischaemia -> a quiet black tar plug in one spike of the Liberty crown; congestive heart failure -> a faint, ghostly traffic jam of yellow taxis gridlocked; angina -> a heavy stone angel sitting on a man's chest
+must: the lawyer SMILES, feeling nothing; the angel LIFTS when the man sits; the third man is breathless with only the angel's SHADOW on him
+scene: A wood-panelled law office in Manhattan. CENTRE, dominant and brightest: a smiling 42-year-old lawyer in a suit holds a positive stress-test printout, a small green Statue of Liberty crown on his head with a quiet black tar plug in one spike; behind him, faint and ghostly, a jam of yellow taxis. LEFT: a man sits down on a bench and the heavy stone angel lifts off his chest. RIGHT: a man halfway up the stairs is out of breath, only the shadow of an angel falling on his chest.
+
+== 147
+# Postoperative supraventricular tachycardia at 180/min with hypotension -> C (atrial overdrive pacing for paroxysmal atrial tachycardia) and D (IV verapamil for rate control).
+# A (180 is tolerated, so look elsewhere), B (a vagal manoeuvre that breaks it means flutter) and E (cardioversion preferred on digoxin) are false.
+# a toy train racing round a small loop in the upper lobby at 180 -> paroxysmal (re-entrant) atrial tachycardia
+# a dial sinking -> hypotension
+# ANSWER C: a marching drummer beating faster than the train until it falls into his rhythm and stops -> atrial overdrive pacing
+# ANSWER D: a canal dammed by white chalky glue slowing the water to the engine room -> IV verapamil slows the rate
+title: Postoperative SVT at 180 with hypotension: overdrive pacing for atrial tachycardia, IV verapamil for the rate
+titleAr: تسرّع فوق بطيني بعد الجراحة بمعدّل ١٨٠ مع هبوط الضغط: تنظيم بالتسريع للتسرّع الأذيني، وفيراباميل وريدي لضبط المعدّل
+tags: cardiac/arrhythmia d:postoperative q:vignette l:2
+palette: upper-lobby glass blue, drummer red uniform, chalk white glue, toy-train silver
+words: 180
+keywords: re-entry -> a toy train circling forever round a small loop of two tracks in the upper glass lobby; pacemaker -> a marching drummer keeping a steady beat; calcium channel blocker -> a canal (a channel) dammed by a spilled can of white chalky glue; hypotension -> a dial sinking low
+must: the drummer beats FASTER than the train, then it stops; the glue dams the canal that feeds the engine room
+scene: The upper glass lobby of the old Brooklyn hotel with a stag's head, seen cut open; a sign reads 180. CENTRE, dominant and brightest: a toy train races round a small loop of two tracks, and a marching drummer stands over it beating faster and faster until the train falls into his rhythm and stops. Below, a canal running down to the engine room is dammed by a spilled can of white chalky glue, slowing the water. On the wall, a dial sinks low.
+
+== 148
+# A 77-year-old with a healed transmural MI and a medically refractory ventricular arrhythmia -> B (inducible at EP study: an indication for operation), C (a recent MI contraindicates operation), D (ventricular failure contraindicates operation), in the book.
+# A (catheter DC ablation usually succeeds) and E (monomorphic VT is least amenable to resection) are false.
+# a pirate dancing a wild jig in the red engine room, pills bouncing off him -> refractory ventricular arrhythmia
+# ANSWER B: a technician touching the scar with a sparking wand and the pirate starting to dance at once, a surgeon stepping forward -> inducible at EP study: operate
+# ANSWER C: a fresh bleeding arrow wound in the stag, a red stop sign hung on it -> recent MI: no operation
+# ANSWER D: yellow taxis gridlocked with a red stop sign -> ventricular failure: no operation
+title: Refractory ventricular arrhythmia after an old MI: operate if it is inducible, not after a recent MI or with ventricular failure
+titleAr: اضطراب نظم بطيني معنّد بعد احتشاء قديم: الجراحة إن أمكن تحريضه، لا بعد احتشاء حديث ولا مع قصور البطين
+tags: cardiac/arrhythmia d:indications q:vignette l:3
+palette: engine-room red, pirate black and gold, sparking blue wand, two red stop signs
+keywords: arrhythmia -> a pirate shouting ARRR and dancing a wild jig out of step with the music; ventricle -> the red engine room with its huge ventilation fan; electrophysiology study -> a technician touching the old scar with a sparking blue wand; myocardial infarction -> a hart (a stag) brought down by an arrow; congestive heart failure -> a traffic jam of yellow taxis gridlocked
+must: the pirate starts dancing the MOMENT the wand touches the scar; the TWO stop signs hang on the fresh arrow wound and on the taxi jam
+scene: The red engine room of the old Brooklyn hotel with a stag's head, seen cut open. On its wall an old, healed white scar. CENTRE, dominant and brightest: a technician touches the scar with a sparking blue wand, and at once a pirate leaps out shouting ARRR and dances a wild jig out of step with the music; white pill bottles thrown at him bounce off; a surgeon steps forward with his tools. LEFT: a stag with a fresh, bleeding arrow wound has a red stop sign hung on it. RIGHT: outside the window yellow taxis are gridlocked, with a second red stop sign.
+
+== 149
+# A 68-year-old resuscitated from sudden cardiac death -> A (the likeliest cause is a ventricular arrhythmia) and B (30-40% chance of recurrence in one year).
+# C (empiric antiarrhythmic drugs improve survival), D (inducible VT carries a good prognosis) and E (aneurysm resection alone is enough) are false.
+# a New York police officer doing chest compressions and a car being jump-started -> resuscitated sudden cardiac death
+# ANSWER A: a pirate who had danced a wild jig in the engine room, now caught -> a ventricular arrhythmia was the cause
+# ANSWER B: a one-year wall calendar of 12 pages, 4 of them torn off in black -> about a third recur within a year
+title: Survivors of sudden cardiac death: the cause is usually a ventricular arrhythmia, and 30-40% recur within a year
+titleAr: الناجون من الموت القلبي المفاجئ: السبب غالبًا اضطراب نظم بطيني، ويتكرّر عند ٣٠-٤٠٪ خلال سنة
+tags: cardiac/arrhythmia d:pathology q:vignette l:2
+palette: street-night blue, police-car red and white, jumper-cable sparks, black calendar pages
+words: 12, 4
+keywords: cardiopulmonary resuscitation -> a New York police officer pushing down with straight, locked arms; defibrillation -> a car being jump-started with sparking jumper cables; arrhythmia -> a pirate shouting ARRR and dancing a wild jig out of step with the music; ventricle -> the red engine room with its huge ventilation fan; recurrence in a year -> a wall calendar of 12 pages with 4 of them torn off in black
+must: the calendar has 12 pages and 4 are BLACK; the pirate is in the ENGINE ROOM
+scene: A street in Manhattan at night beside the old Brooklyn hotel with a stag's head. A police officer does chest compressions with straight, locked arms on a 68-year-old man while a car beside them is jump-started with sparking jumper cables. CENTRE, dominant and brightest: inside the hotel's red engine room, a pirate who has been dancing a wild jig is caught by the collar. On the hotel wall, a big one-year calendar of 12 pages, 4 of them torn off in black.
+
+== 150
+# Anatomy of the conduction system -> A (no special conduction path from SA to AV node), C (the bundle of His is the only normal muscular connection between atria and ventricles), D (no supraventricular accessory pathways at the aortomitral continuity), E (the sinus node artery arises from the right or circumflex artery).
+# B (the AV node is supplied by the anterior descending artery) is false.
+# ANSWER A: the orchestra conductor's beat travelling across the open lobby air to the knot, with no wire between them -> no special internodal path
+# ANSWER C: the sparking bundle of branches as the only bridge between the upper lobbies and the engine rooms -> the bundle of His is the only connection
+# ANSWER D: the strip of floor between the orca's mouth and the bishop's mitre, where a grey wolf tries to dig and cannot -> no accessory pathway at the aortomitral continuity
+# ANSWER E: a spike from the right side, or from the back-left, of the Liberty crown feeding the conductor's stand -> the sinus node artery from the right or circumflex
+title: Conduction anatomy: no special SA-to-AV path, the bundle of His the only bridge, no pathways at the aortomitral continuity, the sinus node artery from the right or circumflex
+titleAr: تشريح جهاز التوصيل: لا مسار خاصّ بين العقدتين، وحزمة هيس الجسر الوحيد، ولا مسارات إضافية عند الاتّصال الأبهري التاجي، وشريان العقدة الجيبية من الأيمن أو المنعطف
+tags: cardiac/foundations d:anatomy q:recall l:3
+palette: concert-hall gold, electric blue sparks, wolf grey, Liberty green
+keywords: sinus node -> an orchestra conductor at the top of the blue lobby beside the chimney, beating time with his baton; conduction bundle -> a bundle of branches crackling with electric sparks; Wolff-Parkinson-White accessory pathway -> a grey wolf digging a shortcut tunnel from an upper lobby down to an engine room; aortic valve -> the orca balloon's mouth; mitral valve -> a bishop's mitre; coronary artery -> the green crown of the Statue of Liberty, seven spikes
+must: NO wire between the conductor and the knot; the sparking bundle is the ONLY bridge between the floors; the wolf CANNOT dig in the strip between the orca's mouth and the mitre
+scene: The old Brooklyn hotel with a stag's head over its door, seen cut open like a doll's house, warm concert-hall light. CENTRE, dominant and brightest: at the top of the blue lobby beside the chimney an orchestra conductor beats time with his baton, and the beat travels as golden ripples across the open air of the lobby to a knot, with no wire between them; from the knot, a bundle of branches crackling with electric sparks is the only bridge down to the engine rooms. In the red lobby floor, between the orca's mouth and a bishop's mitre, a grey wolf scratches at a strip of floor and cannot dig. On the roof, a green Statue of Liberty crown sends one spike down from its right side to the conductor's stand.
