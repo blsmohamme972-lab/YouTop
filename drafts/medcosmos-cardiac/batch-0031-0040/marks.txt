@@ -1,0 +1,82 @@
+book: medcosmos-cardiac
+== 31
+1: 40 34 13 | Orca and dollar pipe both from the blue room | DORV
+2: 70 52 13 | Red canvas tunnel from the hole to the orca | Tunnel repair (subaortic or doubly committed VSD)
+3: 42 66 8 | Cherries tossed into the hole under the pipe | Taussig-Bing
+4: 65 73 9 | Switchman pulling the lever | Arterial switch
+5: 90 70 8 | Workman with a flat patch | Straight patch closure of the VSD
+6: 12 62 9 | Stone fountain outside | Fontan for some noncommitted VSDs
+question: 1
+answer: 2 3 4 5 6
+== 32
+1: 37 45 11 | Trident welded shut | Tricuspid atresia
+2: 55 15 9 | Newborn in a crib | First month of life
+3: 58 50 11 | Hose to the dollar pipe | Systemic-to-pulmonary shunt
+4: 70 75 11 | Leather belt on the dollar pipe | Pulmonary artery banding
+5: 28 65 11 | Watchman with binoculars | Observation
+question: 1 2
+answer: 3 4 5
+== 33
+1: 25 65 14 | Fountain with no pump, fed by the chimney | Fontan circulation
+2: 72 51 11 | Six wooden blocks in the dollar pipe | PVR of 6 Wood units
+3: 88 30 9 | Gauge at 18 in the red | LVEDP of 18 mm Hg
+4: 30 76 13 | Water spilling over the rim | The Fontan fails
+question: 1
+answer: 2 3 4
+== 34
+1: 82 38 8 | Plastic hippo in the doll-sized red wing | Hypoplastic left heart syndrome
+2: 12 25 12 | Big blue wing with its roaring fan | The right ventricle does all the work
+3: 55 25 11 | Duct-tape tunnel to the orca | The ductus feeds the body
+4: 52 35 9 | Raised beer stein propping the tunnel | Intravenous PGE1
+question: 1 2 3
+answer: 4
+== 35
+1: 30 13 11 | Astronaut with a 2 on his helmet | Glenn as stage two
+2: 47 32 12 | Chimney plugged into the dollar pipe | SVC to pulmonary artery
+3: 73 60 8 | Plastic hippo in the red wing | Hypoplastic left heart
+4: 25 60 12 | Flood draining from the blue engine room | Less volume load on the single RV
+5: 82 25 12 | Plumber fixing the pipe and the orca's back | PA and arch stenoses repaired together
+6: 25 79 12 | Undertaker taking an empty coffin away | Lower mortality of the later Fontan
+7: 82 82 12 | Dry fountain waiting its turn | The later Fontan
+question: 1 2 3
+answer: 4 5 6 7
+== 36
+1: 58 50 14 | One tree trunk over the hole | Truncus arteriosus
+2: 15 55 10 | Gridlocked taxis outside | Congestive heart failure
+3: 30 87 9 | Baby with bright blue lips | Cyanosis
+4: 55 45 14 | Clear waterslide tube to the dollar pipes | Right ventricle to pulmonary artery conduit
+question: 1
+answer: 2 3 4
+== 37
+1: 50 45 12 | One tree trunk | Truncus arteriosus
+2: 50 57 13 | Large hole under the trunk | VSD
+3: 55 33 13 | Dollar pipes sprouting from the trunk | Pulmonary arteries arise from the trunk
+4: 50 63 9 | Single golden trapdoor | One truncal valve
+question: 1
+answer: 2 3 4
+== 38
+1: 20 45 12 | Orca rising from the blue room | Aorta from the right ventricle
+2: 85 50 11 | Dollar pipe rising from the red room | Pulmonary artery from the left ventricle
+3: 50 70 8 | Solid lower party wall | Intact ventricular septum
+4: 47 26 10 | Party balloon yanked through the upper wall | Balloon atrial septostomy
+5: 52 52 10 | Beer stein propping the tunnel | PGE1
+6: 80 12 10 | Water tower filled to the brim | Intravenous fluid
+question: 1 2 3
+answer: 4 5 6
+== 39
+1: 30 80 12 | Switch lever that will not move | No one-stage arterial switch
+2: 15 40 11 | Orca rising from the blue room | Transposition
+3: 60 40 13 | Dusty, slow fan in the red room | Deconditioned left ventricle
+4: 35 45 8 | Calendar at 6 weeks | Older than 6 weeks
+5: 73 55 8 | Gauge below 50% | LV pressure under half of systemic
+6: 87 43 10 | Clamp at the dollar pipe's mouth | Valvar pulmonary stenosis
+question: 1 2
+answer: 3 4 5 6
+== 40
+1: 30 32 13 | Mustard wall across the lobbies | Atrial switch (Senning or Mustard)
+2: 60 22 12 | Pirate dancing out of step | Atrial arrhythmias
+3: 25 17 7 | Chimney pinched at the mustard channel | Systemic venous obstruction
+4: 88 22 7 | Returning dollar pipe pinched | Pulmonary venous obstruction
+5: 20 72 12 | Smoking fan in the blue room under the orca | Failure of the systemic right ventricle
+question: 1
+answer: 2 3 4 5
