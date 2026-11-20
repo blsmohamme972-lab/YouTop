@@ -1023,15 +1023,15 @@
        "t": 0,
        "spot": {
         "x": 0.5,
-        "y": 0.35,
-        "r": 0.3
+        "y": 0.4,
+        "r": 0.35
        }
       },
       {
        "text": "فجاء البحّارة يطلبون الثقب: فتح أحدهم كوّةً صغيرةً في جنبها الأيسر، فلم ير إلّا الظلام.",
        "t": 11910,
        "spot": {
-        "x": 0.12,
+        "x": 0.22,
         "y": 0.38,
         "r": 0.12
        }
@@ -1040,7 +1040,7 @@
        "text": "وفتح آخر كوّةً في جنبها الأيمن، فلم تبلغ يده إلّا نصف المحرّك.",
        "t": 20967,
        "spot": {
-        "x": 0.88,
+        "x": 0.8,
         "y": 0.38,
         "r": 0.12
        }
@@ -1049,8 +1049,8 @@
        "text": "وشقّ ثالث جنبيها معًا شقًّا طويلًا معوجًّا، فتعب وأتعبها، والماء ما زال يتدفّق.",
        "t": 27656,
        "spot": {
-        "x": 0.22,
-        "y": 0.52,
+        "x": 0.85,
+        "y": 0.5,
         "r": 0.15
        }
       },
@@ -1058,8 +1058,8 @@
        "text": "ودفع رابع غوّاصةً صفراء صغيرةً تحت بطنها، فنقرت ثقبًا ضيّقًا لا يتّسع لأكثر من نظرة.",
        "t": 36342,
        "spot": {
-        "x": 0.75,
-        "y": 0.85,
+        "x": 0.55,
+        "y": 0.72,
         "r": 0.15
        }
       },
@@ -1068,8 +1068,8 @@
        "t": 45203,
        "spot": {
         "x": 0.5,
-        "y": 0.6,
-        "r": 0.12
+        "y": 0.5,
+        "r": 0.15
        }
       },
       {
@@ -1077,35 +1077,35 @@
        "t": 55366,
        "spot": {
         "x": 0.5,
-        "y": 0.4,
-        "r": 0.2
+        "y": 0.45,
+        "r": 0.25
        }
       },
       {
        "text": "فانفتح النصفان كبابين، وبان جوف المحرّك كلّه في ضوء الصباح، والثّقب في متناول اليد.",
        "t": 62774,
        "spot": {
-        "x": 0.55,
-        "y": 0.35,
-        "r": 0.18
+        "x": 0.5,
+        "y": 0.45,
+        "r": 0.25
        }
       },
       {
        "text": "فقال ميغيل للبحّارة وهو يمدّ يده إلى الثقب: «من الجنب ترون جنبًا، ومن الوسط ترون كلّ شيء.»",
        "t": 71335,
        "spot": {
-        "x": 0.57,
-        "y": 0.38,
-        "r": 0.12
+        "x": 0.55,
+        "y": 0.45,
+        "r": 0.15
        }
       },
       {
        "text": "ثمّ ابتسم وهو يسدّ الثقب، وقال كلمةً سمعها من شيخ في قونية:",
        "t": 81016,
        "spot": {
-        "x": 0.57,
-        "y": 0.38,
-        "r": 0.12
+        "x": 0.55,
+        "y": 0.45,
+        "r": 0.15
        }
       },
       {
@@ -1125,8 +1125,8 @@
        "t": 0,
        "spot": {
         "x": 0.5,
-        "y": 0.35,
-        "r": 0.3
+        "y": 0.45,
+        "r": 0.25
        }
       },
       {
@@ -1134,15 +1134,15 @@
        "t": 7616,
        "spot": {
         "x": 0.5,
-        "y": 0.35,
-        "r": 0.2
+        "y": 0.45,
+        "r": 0.25
        }
       },
       {
        "text": "A left anterior thoracotomy is the incision for resuscitation in the emergency department, but it exposes the right side of the heart poorly.",
        "t": 20021,
        "spot": {
-        "x": 0.12,
+        "x": 0.22,
         "y": 0.38,
         "r": 0.12
        }
@@ -1151,17 +1151,17 @@
        "text": "A right anterior thoracotomy reaches only the right side, and a bilateral thoracotomy gives wide access at the price of a larger and more painful wound.",
        "t": 29038,
        "spot": {
-        "x": 0.55,
-        "y": 0.45,
-        "r": 0.45
+        "x": 0.8,
+        "y": 0.4,
+        "r": 0.15
        }
       },
       {
        "text": "A subxiphoid window is used to diagnose or drain blood in the pericardium, not to repair the heart.",
        "t": 38916,
        "spot": {
-        "x": 0.75,
-        "y": 0.85,
+        "x": 0.55,
+        "y": 0.72,
         "r": 0.15
        }
       }
@@ -1195,49 +1195,49 @@
      ]
     }
    ],
-   "image": "gh:books/medcosmos-cardiac/media/medcos-q0005.webp",
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0005-b.webp",
    "marks": [
     {
      "spot": {
       "x": 0.5,
-      "y": 0.35,
-      "r": 0.18
+      "y": 0.45,
+      "r": 0.2
      },
      "what": "Stern opened down its white centre line",
      "means": "Median sternotomy: the whole heart exposed"
     },
     {
      "spot": {
-      "x": 0.12,
+      "x": 0.22,
       "y": 0.38,
-      "r": 0.11
+      "r": 0.09
      },
      "what": "Hatch in the left side",
      "means": "Left anterior thoracotomy: for resuscitation"
     },
     {
      "spot": {
-      "x": 0.88,
+      "x": 0.8,
       "y": 0.38,
-      "r": 0.11
+      "r": 0.09
      },
      "what": "Hatch in the right side",
      "means": "Right anterior thoracotomy: right side only"
     },
     {
      "spot": {
-      "x": 0.22,
-      "y": 0.5,
-      "r": 0.13
+      "x": 0.85,
+      "y": 0.52,
+      "r": 0.1
      },
-     "what": "Long gash across both sides",
+     "what": "Gash along the side",
      "means": "Bilateral thoracotomy: a bigger wound"
     },
     {
      "spot": {
-      "x": 0.75,
-      "y": 0.85,
-      "r": 0.13
+      "x": 0.58,
+      "y": 0.72,
+      "r": 0.1
      },
      "what": "Small yellow submarine below",
      "means": "Subxiphoid window: diagnosis and drainage only"
@@ -1245,7 +1245,7 @@
     {
      "spot": {
       "x": 0.57,
-      "y": 0.38,
+      "y": 0.45,
       "r": 0.09
      },
      "what": "Hole spraying inside, within reach",
@@ -12215,8 +12215,8 @@
        "t": 0,
        "spot": {
         "x": 0.5,
-        "y": 0.52,
-        "r": 0.4
+        "y": 0.5,
+        "r": 0.45
        }
       },
       {
@@ -12224,16 +12224,16 @@
        "t": 10548,
        "spot": {
         "x": 0.5,
-        "y": 0.35,
-        "r": 0.4
+        "y": 0.25,
+        "r": 0.35
        }
       },
       {
        "text": "كان في تاج الأوّل بقعة قار واحدة صغيرة في الشعاع الأيمن، وكان يقف مستريحًا.",
        "t": 18477,
        "spot": {
-        "x": 0.18,
-        "y": 0.52,
+        "x": 0.15,
+        "y": 0.45,
         "r": 0.12
        }
       },
@@ -12241,17 +12241,17 @@
        "text": "فدفع توني فيها زنبركًا صغيرًا على سلك طويل، وقال: «هذه يكفيها زنبرك، لا حاجة إلى الملفوف.»",
        "t": 25860,
        "spot": {
-        "x": 0.17,
-        "y": 0.4,
-        "r": 0.12
+        "x": 0.15,
+        "y": 0.35,
+        "r": 0.15
        }
       },
       {
        "text": "أمّا الثاني فكانت ثلاثة من أشعّة تاجه مسدودةً بالقار، وعلى صدره ملاك حجريّ يتأرجح، وفي يده بطاقة: خمسة وثلاثون في المئة.",
        "t": 35319,
        "spot": {
-        "x": 0.32,
-        "y": 0.68,
+        "x": 0.3,
+        "y": 0.6,
         "r": 0.25
        }
       },
@@ -12259,17 +12259,17 @@
        "text": "فمدّ هانك أوراق الملفوف جسورًا فوق الأشعّة الثلاثة، وقال: «ثلاثة مسدودة، وملاك لا يستقرّ، وباب ضعيف؛ هذا للملفوف لا لغيره.»",
        "t": 47039,
        "spot": {
-        "x": 0.55,
-        "y": 0.45,
-        "r": 0.25
+        "x": 0.3,
+        "y": 0.35,
+        "r": 0.18
        }
       },
       {
        "text": "وكان في تاج الثالث بقعتان صغيرتان في وسط شعاعين جانبيّين، فدفع توني فيهما زنبركين.",
        "t": 60739,
        "spot": {
-        "x": 0.65,
-        "y": 0.4,
+        "x": 0.5,
+        "y": 0.45,
         "r": 0.12
        }
       },
@@ -12277,18 +12277,18 @@
        "text": "وكان الرابع جالسًا على جبل من مكعّبات السكّر الأبيض، تحت ملاك حجريّ يسحق صدره.",
        "t": 68810,
        "spot": {
-        "x": 0.55,
-        "y": 0.78,
-        "r": 0.15
+        "x": 0.8,
+        "y": 0.75,
+        "r": 0.2
        }
       },
       {
        "text": "وفي أعلى المزلق الأماميّ من تاجه علق الفتى لاد، والشّعاع الأيمن مسدود من جذره؛ فمدّ له هانك الملفوف أيضًا.",
        "t": 76327,
        "spot": {
-        "x": 0.82,
-        "y": 0.5,
-        "r": 0.13
+        "x": 0.85,
+        "y": 0.4,
+        "r": 0.15
        }
       },
       {
@@ -12296,8 +12296,8 @@
        "t": 85822,
        "spot": {
         "x": 0.5,
-        "y": 0.5,
-        "r": 0.4
+        "y": 0.25,
+        "r": 0.35
        }
       },
       {
@@ -12316,17 +12316,17 @@
        "text": "Coronary bypass is preferred where it improves survival or where angioplasty does poorly.",
        "t": 0,
        "spot": {
-        "x": 0.55,
-        "y": 0.45,
-        "r": 0.25
+        "x": 0.5,
+        "y": 0.3,
+        "r": 0.35
        }
       },
       {
        "text": "A patient with unstable angina, three-vessel disease and an ejection fraction of 35% gains the most survival from bypass: statement B.",
        "t": 6244,
        "spot": {
-        "x": 0.32,
-        "y": 0.68,
+        "x": 0.3,
+        "y": 0.6,
         "r": 0.25
        }
       },
@@ -12334,9 +12334,9 @@
        "text": "A diabetic with severe angina and proximal disease of the left anterior descending and right coronary arteries also does better with bypass than with angioplasty: statement D.",
        "t": 16438,
        "spot": {
-        "x": 0.7,
-        "y": 0.65,
-        "r": 0.25
+        "x": 0.8,
+        "y": 0.7,
+        "r": 0.22
        }
       },
       {
@@ -12352,9 +12352,9 @@
        "text": "A single proximal right coronary lesion with mild angina and normal function, or focal discrete lesions in the mid right and circumflex arteries, are well treated with angioplasty or medicines.",
        "t": 30197,
        "spot": {
-        "x": 0.4,
-        "y": 0.38,
-        "r": 0.3
+        "x": 0.15,
+        "y": 0.45,
+        "r": 0.12
        }
       }
      ],
@@ -12389,12 +12389,12 @@
      ]
     }
    ],
-   "image": "gh:books/medcosmos-cardiac/media/medcos-q0051.webp",
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0051-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.55,
-      "y": 0.45,
+      "x": 0.3,
+      "y": 0.33,
       "r": 0.14
      },
      "what": "Cabbage leaves laid over the crowns",
@@ -12402,8 +12402,8 @@
     },
     {
      "spot": {
-      "x": 0.25,
-      "y": 0.85,
+      "x": 0.33,
+      "y": 0.65,
       "r": 0.09
      },
      "what": "Card reading 35%",
@@ -12411,9 +12411,9 @@
     },
     {
      "spot": {
-      "x": 0.55,
-      "y": 0.78,
-      "r": 0.11
+      "x": 0.75,
+      "y": 0.85,
+      "r": 0.12
      },
      "what": "Sugar cubes",
      "means": "Diabetes"
@@ -12421,20 +12421,240 @@
     {
      "spot": {
       "x": 0.85,
-      "y": 0.15,
-      "r": 0.1
+      "y": 0.6,
+      "r": 0.11
      },
      "what": "Stone angel",
      "means": "Unstable or severe angina"
     },
     {
      "spot": {
-      "x": 0.4,
-      "y": 0.38,
-      "r": 0.12
+      "x": 0.15,
+      "y": 0.35,
+      "r": 0.11
      },
      "what": "Slinky springs pushed into single spots",
      "means": "Angioplasty for focal disease"
+    }
+   ]
+  },
+  {
+   "id": "medcos-q0052",
+   "title": "Mediastinitis after sternotomy: mortality under 15% in this book",
+   "titleAr": "التهاب المنصف بعد شقّ القص: الوفيات أقلّ من 15% في هذا الكتاب",
+   "tags": [
+    "cardiac/perioperative",
+    "d:complications",
+    "q:numbers",
+    "l:2"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في حوض جافّ في مرسى بروكلين، تحت سماء رماديّة، رقدت سفينة بيضاء كبيرة.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.25,
+        "r": 0.35
+       }
+      },
+      {
+       "text": "كانت مؤخّرتها قد فتحت على خطّها الأبيض في الوسط، ثمّ أغلقت.",
+       "t": 6950,
+       "spot": {
+        "x": 0.5,
+        "y": 0.25,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "لكنّ عفنًا أخضر أخذ ينمو على طول الشقّ، يأكل الخشب من الداخل.",
+       "t": 12352,
+       "spot": {
+        "x": 0.5,
+        "y": 0.3,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "فوقف البحّارة على الرصيف صفوفًا، مئة بحّار ينظرون إلى العفن بخوف.",
+       "t": 18030,
+       "spot": {
+        "x": 0.2,
+        "y": 0.75,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "وفي آخر الصفوف، لم يكن إلّا توابيت قليلة من الخشب الداكن.",
+       "t": 24068,
+       "spot": {
+        "x": 0.55,
+        "y": 0.65,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فرفع مدير الحوض غاس لافتةً كتب عليها: أقلّ من خمسة عشر في المئة.",
+       "t": 29198,
+       "spot": {
+        "x": 0.85,
+        "y": 0.55,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "وقال: «هذا العفن خطير يا رجال؛ لكن من كلّ مئة يصيبهم، لا نفقد إلّا أقلّ من خمسة عشر.»",
+       "t": 35140,
+       "spot": {
+        "x": 0.85,
+        "y": 0.55,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فقال بحّار شابّ: «وكيف ننجو؟»",
+       "t": 44801,
+       "spot": {
+        "x": 0.2,
+        "y": 0.75,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "فقال غاس: «نكشط العفن مبكّرًا، وننظّف الشقّ، ونغطّيه بخشب سليم.»",
+       "t": 47962,
+       "spot": {
+        "x": 0.5,
+        "y": 0.3,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "ثمّ نظر إلى المؤخّرة المفتوحة وقال:",
+       "t": 56236,
+       "spot": {
+        "x": 0.5,
+        "y": 0.25,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "«من مزّق ثوبه من عشق، طهر من الحرص والعيب كلّه.»",
+       "quote": "جلال الدين الرومي، المثنوي، الكتاب الأول",
+       "t": 60329
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0052-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "Mediastinitis after median sternotomy is uncommon, occurring in about 1 to 2 percent of patients.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.3,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "With early debridement, drainage and flap closure, its mortality in the series this book relies on was under 15 percent.",
+       "t": 6963,
+       "spot": {
+        "x": 0.85,
+        "y": 0.55,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "So D is the answer.",
+       "t": 15228,
+       "spot": {
+        "x": 0.55,
+        "y": 0.65,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "It is still a serious complication; its risk factors include diabetes, obesity, harvesting both internal mammary arteries and reoperation for bleeding.",
+       "t": 17572,
+       "spot": {
+        "x": 0.5,
+        "y": 0.3,
+        "r": 0.2
+       }
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0052-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Sternal wound infections that spread to the mediastinum are associated with a mortality rate of:",
+     "options": [
+      "60%.",
+      "30%.",
+      "25%.",
+      "Less than 15%."
+     ],
+     "answer": 3,
+     "explain": "Mediastinitis after median sternotomy is uncommon, occurring in about 1 to 2 percent of patients. With early debridement, drainage and flap closure, its mortality in the series this book relies on was under 15 percent. So D is the answer. It is still a serious complication; its risk factors include diabetes, obesity, harvesting both internal mammary arteries and reoperation for bleeding.",
+     "lang": "en",
+     "source": "MedCosmos Cardiac, Q52",
+     "marks": [
+      1,
+      2,
+      3
+     ],
+     "answerMarks": [
+      4
+     ]
+    }
+   ],
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0052-b.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.3,
+      "r": 0.18
+     },
+     "what": "Stern opened and rotting with green mould",
+     "means": "Mediastinitis after sternotomy"
+    },
+    {
+     "spot": {
+      "x": 0.2,
+      "y": 0.72,
+      "r": 0.15
+     },
+     "what": "A whole crew of sailors",
+     "means": "All patients with mediastinitis"
+    },
+    {
+     "spot": {
+      "x": 0.55,
+      "y": 0.65,
+      "r": 0.1
+     },
+     "what": "Only a few coffins",
+     "means": "Few deaths"
+    },
+    {
+     "spot": {
+      "x": 0.85,
+      "y": 0.55,
+      "r": 0.11
+     },
+     "what": "Sign: under 15%",
+     "means": "Mortality under 15%"
     }
    ]
   },
@@ -12468,7 +12688,7 @@
        "spot": {
         "x": 0.5,
         "y": 0.5,
-        "r": 0.3
+        "r": 0.35
        }
       },
       {
@@ -12476,16 +12696,16 @@
        "t": 14875,
        "spot": {
         "x": 0.5,
-        "y": 0.5,
-        "r": 0.3
+        "y": 0.15,
+        "r": 0.25
        }
       },
       {
        "text": "فعدّت الحارسة ريتا القطيع واحدًا واحدًا.",
        "t": 20166,
        "spot": {
-        "x": 0.2,
-        "y": 0.6,
+        "x": 0.7,
+        "y": 0.65,
         "r": 0.15
        }
       },
@@ -12493,8 +12713,8 @@
        "text": "فإذا لم يسقط منها إلّا قلّة قليلة، في جنب كلّ منها سهم.",
        "t": 24377,
        "spot": {
-        "x": 0.8,
-        "y": 0.72,
+        "x": 0.2,
+        "y": 0.78,
         "r": 0.15
        }
       },
@@ -12502,17 +12722,17 @@
        "text": "فرفعت لافتةً كتب عليها: أقلّ من خمسة في المئة.",
        "t": 30278,
        "spot": {
-        "x": 0.27,
-        "y": 0.72,
-        "r": 0.14
+        "x": 0.7,
+        "y": 0.8,
+        "r": 0.15
        }
       },
       {
        "text": "وقالت: «من كلّ مئة مرّ عليها الملفوف، لا يصيب السهم في أيّامه الأولى إلّا أقلّ من خمسة.»",
        "t": 35837,
        "spot": {
-        "x": 0.2,
-        "y": 0.6,
+        "x": 0.7,
+        "y": 0.8,
         "r": 0.15
        }
       },
@@ -12520,9 +12740,9 @@
        "text": "فسألها سائح: «ومن أين تأتي هذه السهام القليلة؟»",
        "t": 43371,
        "spot": {
-        "x": 0.8,
-        "y": 0.72,
-        "r": 0.15
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.3
        }
       },
       {
@@ -12538,8 +12758,8 @@
        "text": "ثمّ نظرت إلى الأيائل الساقطة وقالت:",
        "t": 54204,
        "spot": {
-        "x": 0.8,
-        "y": 0.72,
+        "x": 0.2,
+        "y": 0.78,
         "r": 0.15
        }
       },
@@ -12559,26 +12779,26 @@
        "text": "Perioperative myocardial infarction after coronary bypass occurs in fewer than 5 percent of patients in most series.",
        "t": 0,
        "spot": {
-        "x": 0.27,
-        "y": 0.72,
-        "r": 0.14
+        "x": 0.7,
+        "y": 0.8,
+        "r": 0.15
        }
       },
       {
        "text": "So D is the answer.",
        "t": 8071,
        "spot": {
-        "x": 0.5,
-        "y": 0.5,
-        "r": 0.45
+        "x": 0.7,
+        "y": 0.8,
+        "r": 0.15
        }
       },
       {
        "text": "It is diagnosed by new Q waves, a large rise in cardiac enzymes or troponin, or a new wall motion abnormality.",
        "t": 9963,
        "spot": {
-        "x": 0.8,
-        "y": 0.72,
+        "x": 0.2,
+        "y": 0.78,
         "r": 0.15
        }
       },
@@ -12618,7 +12838,7 @@
      ]
     }
    ],
-   "image": "gh:books/medcosmos-cardiac/media/medcos-q0053.webp",
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0053-b.webp",
    "marks": [
     {
      "spot": {
@@ -12631,8 +12851,8 @@
     },
     {
      "spot": {
-      "x": 0.5,
-      "y": 0.5,
+      "x": 0.45,
+      "y": 0.55,
       "r": 0.18
      },
      "what": "Herd of a hundred stags",
@@ -12640,21 +12860,231 @@
     },
     {
      "spot": {
-      "x": 0.8,
-      "y": 0.72,
-      "r": 0.12
+      "x": 0.2,
+      "y": 0.78,
+      "r": 0.11
      },
      "what": "A few stags down with arrows",
      "means": "Perioperative myocardial infarction"
     },
     {
      "spot": {
-      "x": 0.27,
-      "y": 0.72,
+      "x": 0.7,
+      "y": 0.8,
       "r": 0.12
      },
      "what": "Sign: under 5%",
      "means": "Less than 5%"
+    }
+   ]
+  },
+  {
+   "id": "medcos-q0054",
+   "title": "Ventricular septal rupture after myocardial infarction: 2% or less",
+   "titleAr": "تمزّق الحاجز بين البطينين بعد احتشاء العضلة القلبية: 2% أو أقلّ",
+   "tags": [
+    "cardiac/coronary",
+    "d:complications",
+    "q:numbers",
+    "l:2"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في غسق ماطر، امتدّ شارع طويل في بروكلين تصطفّ فيه عشرات الفنادق القديمة المتشابهة.",
+       "t": 0,
+       "spot": {
+        "x": 0.3,
+        "y": 0.4,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "وفوق باب كلّ فندق رأس أيّل قد اخترقه سهم.",
+       "t": 7622,
+       "spot": {
+        "x": 0.6,
+        "y": 0.15,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "فمشى الكنّاس سال على الرصيف، ينظر في الفنادق المفتوحة واحدًا بعد الآخر.",
+       "t": 11928,
+       "spot": {
+        "x": 0.3,
+        "y": 0.75,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "كان الجدار بين غرفتي المحرّكات سليمًا في الفندق الأوّل، والثّاني، والعاشر، والعشرين.",
+       "t": 18119,
+       "spot": {
+        "x": 0.5,
+        "y": 0.3,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "حتّى بلغ فندقين متجاورين، قد انكسر في كلّ منهما الجدار السفليّ، وصار فيه ثقب بين المروحتين.",
+       "t": 25872,
+       "spot": {
+        "x": 0.55,
+        "y": 0.58,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فوقف سال مبهوتًا، ورفع لافتته: اثنان في المئة.",
+       "t": 34634,
+       "spot": {
+        "x": 0.35,
+        "y": 0.8,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "وقال لصاحب الدكّان المقابل: «من كلّ مئة أيّل يصيبه السهم، لا ينكسر الجدار إلّا في اثنين أو أقلّ.»",
+       "t": 40060,
+       "spot": {
+        "x": 0.55,
+        "y": 0.58,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فقال صاحب الدكّان: «وإن انكسر، ففي الأيّام الأولى بعد السهم، ولا يحتمل صاحبه الانتظار طويلًا.»",
+       "t": 48790,
+       "spot": {
+        "x": 0.55,
+        "y": 0.58,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "ثمّ أضاف: «الثقب يتّسع يا سال؛ لا يصلحه إلّا البنّاؤون، وسريعًا.»",
+       "t": 58672,
+       "spot": {
+        "x": 0.65,
+        "y": 0.6,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فنظر سال إلى الجدار المكسور بين الغرفتين وقال:",
+       "t": 66417,
+       "spot": {
+        "x": 0.55,
+        "y": 0.58,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«لمّا صار ما لا لون له أسير اللون، صار موسى يحارب موسى.»",
+       "quote": "جلال الدين الرومي، المثنوي، الكتاب الأول",
+       "t": 71413
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0054-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "Rupture of the ventricular septum complicates about 1 to 2 percent of acute myocardial infarctions, and fewer since early reperfusion became routine.",
+       "t": 0,
+       "spot": {
+        "x": 0.55,
+        "y": 0.58,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "So D is the answer.",
+       "t": 9739,
+       "spot": {
+        "x": 0.35,
+        "y": 0.8,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "It usually appears within the first week, with a new harsh pansystolic murmur and sudden heart failure or shock.",
+       "t": 12082,
+       "spot": {
+        "x": 0.65,
+        "y": 0.6,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "Most patients need urgent surgical repair, because the defect enlarges and medical treatment alone carries a very high mortality.",
+       "t": 19534,
+       "spot": {
+        "x": 0.55,
+        "y": 0.58,
+        "r": 0.15
+       }
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0054-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Following acute myocardial infarction, ventricular septal defects occur in:",
+     "options": [
+      "20%.",
+      "10%.",
+      "15%",
+      "2% or less."
+     ],
+     "answer": 3,
+     "explain": "Rupture of the ventricular septum complicates about 1 to 2 percent of acute myocardial infarctions, and fewer since early reperfusion became routine. So D is the answer. It usually appears within the first week, with a new harsh pansystolic murmur and sudden heart failure or shock. Most patients need urgent surgical repair, because the defect enlarges and medical treatment alone carries a very high mortality.",
+     "lang": "en",
+     "source": "MedCosmos Cardiac, Q54",
+     "marks": [
+      1,
+      2
+     ],
+     "answerMarks": [
+      3
+     ]
+    }
+   ],
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0054-b.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.6,
+      "y": 0.15,
+      "r": 0.12
+     },
+     "what": "Stag's head pierced by an arrow on every hotel",
+     "means": "Myocardial infarction"
+    },
+    {
+     "spot": {
+      "x": 0.65,
+      "y": 0.6,
+      "r": 0.09
+     },
+     "what": "Two hotels with a broken lower wall",
+     "means": "Ventricular septal rupture"
+    },
+    {
+     "spot": {
+      "x": 0.35,
+      "y": 0.8,
+      "r": 0.12
+     },
+     "what": "Sign: 2%",
+     "means": "2% or less"
     }
    ]
   },
@@ -12678,7 +13108,7 @@
        "t": 0,
        "spot": {
         "x": 0.88,
-        "y": 0.72,
+        "y": 0.7,
         "r": 0.12
        }
       },
@@ -12686,9 +13116,9 @@
        "text": "فقد دفع السبّاك زنبركًا في شعاع من أشعّة التاج، فانكسر الزنبرك وعلق في داخله.",
        "t": 6907,
        "spot": {
-        "x": 0.88,
-        "y": 0.13,
-        "r": 0.1
+        "x": 0.65,
+        "y": 0.1,
+        "r": 0.12
        }
       },
       {
@@ -12696,7 +13126,7 @@
        "t": 14249,
        "spot": {
         "x": 0.88,
-        "y": 0.72,
+        "y": 0.7,
         "r": 0.12
        }
       },
@@ -12704,18 +13134,18 @@
        "text": "وعند التاج، كان الحانوتيّ العجوز موريس يتنقّل بشريط قياسه.",
        "t": 19161,
        "spot": {
-        "x": 0.62,
+        "x": 0.5,
         "y": 0.55,
-        "r": 0.15
+        "r": 0.18
        }
       },
       {
        "text": "وقف أوّلًا عند الأشعّة الكثيرة المسدودة بالقار، وأخذ يقيس.",
        "t": 24842,
        "spot": {
-        "x": 0.6,
-        "y": 0.22,
-        "r": 0.22
+        "x": 0.35,
+        "y": 0.25,
+        "r": 0.25
        }
       },
       {
@@ -12723,44 +13153,44 @@
        "t": 30743,
        "spot": {
         "x": 0.18,
-        "y": 0.62,
-        "r": 0.2
+        "y": 0.75,
+        "r": 0.15
        }
       },
       {
        "text": "ثمّ وقف عند أوراق ملفوف قديمة ذابلة، باقية من عمل سابق على شعاعين، فقاس مرّةً ثالثة.",
        "t": 41612,
        "spot": {
-        "x": 0.3,
-        "y": 0.2,
-        "r": 0.13
+        "x": 0.25,
+        "y": 0.3,
+        "r": 0.15
        }
       },
       {
        "text": "فقال: «ثلاث تطيل شريطي: أشعّة كثيرة مسدودة، ومراوح واقفة قبل العمل، وملفوف قديم على التاج.»",
        "t": 50577,
        "spot": {
-        "x": 0.62,
+        "x": 0.5,
         "y": 0.55,
-        "r": 0.15
+        "r": 0.18
        }
       },
       {
        "text": "فسأله السائق عن الكاشط الّذي يحكّ القار لينقذ الزنبرك، فقال موريس: «ذاك لا يطيل شريطي.»",
        "t": 62092,
        "spot": {
-        "x": 0.88,
-        "y": 0.13,
-        "r": 0.1
+        "x": 0.65,
+        "y": 0.1,
+        "r": 0.12
        }
       },
       {
        "text": "ثمّ طوى شريطه وقال:",
        "t": 70461,
        "spot": {
-        "x": 0.62,
+        "x": 0.5,
         "y": 0.55,
-        "r": 0.12
+        "r": 0.18
        }
       },
       {
@@ -12779,18 +13209,18 @@
        "text": "When angioplasty fails and emergency bypass is needed, certain features raise the operative mortality.",
        "t": 0,
        "spot": {
-        "x": 0.88,
-        "y": 0.13,
-        "r": 0.1
+        "x": 0.65,
+        "y": 0.1,
+        "r": 0.12
        }
       },
       {
        "text": "Multivessel disease leaves more myocardium at risk: statement A.",
        "t": 7035,
        "spot": {
-        "x": 0.6,
-        "y": 0.22,
-        "r": 0.22
+        "x": 0.35,
+        "y": 0.25,
+        "r": 0.25
        }
       },
       {
@@ -12798,17 +13228,17 @@
        "t": 11835,
        "spot": {
         "x": 0.18,
-        "y": 0.62,
-        "r": 0.2
+        "y": 0.75,
+        "r": 0.15
        }
       },
       {
        "text": "Previous bypass surgery makes the operation slower and myocardial protection harder: statement D.",
        "t": 18054,
        "spot": {
-        "x": 0.3,
-        "y": 0.2,
-        "r": 0.13
+        "x": 0.25,
+        "y": 0.3,
+        "r": 0.15
        }
       },
       {
@@ -12824,9 +13254,9 @@
        "text": "Rescue atherectomy is not one of them, so \"all of the above\" is wrong.",
        "t": 27586,
        "spot": {
-        "x": 0.88,
-        "y": 0.13,
-        "r": 0.1
+        "x": 0.65,
+        "y": 0.1,
+        "r": 0.12
        }
       }
      ],
@@ -12864,12 +13294,12 @@
      ]
     }
    ],
-   "image": "gh:books/medcosmos-cardiac/media/medcos-q0055.webp",
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0055-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.88,
-      "y": 0.13,
+      "x": 0.62,
+      "y": 0.1,
       "r": 0.08
      },
      "what": "Snapped Slinky in a spike",
@@ -12878,7 +13308,7 @@
     {
      "spot": {
       "x": 0.88,
-      "y": 0.72,
+      "y": 0.7,
       "r": 0.09
      },
      "what": "Ambulance racing in",
@@ -12886,8 +13316,8 @@
     },
     {
      "spot": {
-      "x": 0.6,
-      "y": 0.24,
+      "x": 0.45,
+      "y": 0.25,
       "r": 0.15
      },
      "what": "Many spikes clogged with tar",
@@ -12896,16 +13326,16 @@
     {
      "spot": {
       "x": 0.18,
-      "y": 0.65,
-      "r": 0.13
+      "y": 0.75,
+      "r": 0.12
      },
      "what": "Stopped fans and a grey, slumped guest",
      "means": "Cardiogenic shock before operation"
     },
     {
      "spot": {
-      "x": 0.3,
-      "y": 0.2,
+      "x": 0.2,
+      "y": 0.28,
       "r": 0.1
      },
      "what": "Old wilted cabbage leaves",
@@ -12913,12 +13343,243 @@
     },
     {
      "spot": {
-      "x": 0.55,
-      "y": 0.55,
-      "r": 0.12
+      "x": 0.5,
+      "y": 0.6,
+      "r": 0.13
      },
      "what": "Undertaker measuring",
      "means": "Higher mortality"
+    }
+   ]
+  },
+  {
+   "id": "medcos-q0056",
+   "title": "Emergency bypass after failed PTCA carries a higher mortality and more infarctions than elective bypass",
+   "titleAr": "المجازة الطارئة بعد فشل التوسيع بالبالون أعلى وفياتٍ وأكثر احتشاءً من المجازة المخطّط لها",
+   "tags": [
+    "cardiac/coronary",
+    "d:evidence",
+    "q:recall",
+    "l:2",
+    "x:key-corrected"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في قاعة مضيئة على جزيرة الحرّيّة، فتحت غرفتا انتظار إلى جانب كشك الملفوف.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.4,
+        "r": 0.4
+       }
+      },
+      {
+       "text": "فوق الغرفة اليسرى حرف أزرق هادئ: إكس، وفيها صفّ من الرجال بتيجان خضراء يحملون بطاقات مواعيدهم.",
+       "t": 6783,
+       "spot": {
+        "x": 0.2,
+        "y": 0.3,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "وإلى جانبهم أيّل واحد فيه سهم، ولا تابوت هناك.",
+       "t": 15271,
+       "spot": {
+        "x": 0.3,
+        "y": 0.5,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "وفوق الغرفة اليمنى حرف أحمر يلمع: واي.",
+       "t": 20032,
+       "spot": {
+        "x": 0.8,
+        "y": 0.15,
+        "r": 0.13
+       }
+      },
+      {
+       "text": "فاندفعت إليها سيّارة إسعاف تحمل رجلًا في تاجه زنبرك مكسور عالق.",
+       "t": 24045,
+       "spot": {
+        "x": 0.65,
+        "y": 0.45,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "وحوله عدّة أيائل فيها سهام، وثلاثة توابيت داكنة قائمة.",
+       "t": 29830,
+       "spot": {
+        "x": 0.6,
+        "y": 0.75,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "فقالت الممرّضة لوسي: «انظر يا سام: في غرفة واي توابيت أكثر، وسهام أكثر.»",
+       "t": 35291,
+       "spot": {
+        "x": 0.6,
+        "y": 0.75,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "فقال سام: «نعم؛ من جاء على عجل بعد زنبرك مكسور، جاء وتاجه يختنق من قبل أن نبدأ.»",
+       "t": 42582,
+       "spot": {
+        "x": 0.65,
+        "y": 0.45,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "ثمّ أشار إلى لافتة قديمة مقلوبة تقول العكس، فقلبها بيده حتّى استقامت.",
+       "t": 51870,
+       "spot": {
+        "x": 0.5,
+        "y": 0.4,
+        "r": 0.4
+       }
+      },
+      {
+       "text": "ونظر إلى الغرفة الحمراء المزدحمة وقال:",
+       "t": 58640,
+       "spot": {
+        "x": 0.75,
+        "y": 0.55,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "«صارت الأيّام في حزننا بلا أوقات، ورافقت الأيّام الحرق.»",
+       "quote": "جلال الدين الرومي، المثنوي، الكتاب الأول",
+       "t": 62905
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0056-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "Bypass done as an emergency after a failed PTCA carries a higher operative mortality than elective bypass.",
+       "t": 0,
+       "spot": {
+        "x": 0.6,
+        "y": 0.65,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "The rate of perioperative myocardial infarction is also higher, because the myocardium is already ischaemic when the operation begins.",
+       "t": 8154,
+       "spot": {
+        "x": 0.5,
+        "y": 0.75,
+        "r": 0.22
+       }
+      },
+      {
+       "text": "So the corrected option C is the answer: both are higher in Y, the emergency group, than in X.",
+       "t": 17274,
+       "spot": {
+        "x": 0.75,
+        "y": 0.55,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "The book prints option C the other way round, which reverses the comparison.",
+       "t": 24405,
+       "spot": {
+        "x": 0.5,
+        "y": 0.4,
+        "r": 0.4
+       }
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0056-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which statement(s) about operative mortality and perioperative incidence of myocardial infarction for elective CABG (X) versus emergency CABG following failed PTCA (Y) is/are accurate?",
+     "options": [
+      "The operative mortality is higher for Y but the incidence of perioperative myocardial infarction is unchanged between X and Y.",
+      "The operative mortality is unchanged between X and Y but the perioperative incidence of myocardial infarction is higher in Y.",
+      "The operative mortality and perioperative incidence of myocardial infarction are higher in Y than in X.",
+      "The operative mortality and perioperative incidence of myocardial infarction are no different for X and for Y."
+     ],
+     "answer": 2,
+     "explain": "Bypass done as an emergency after a failed PTCA carries a higher operative mortality than elective bypass. The rate of perioperative myocardial infarction is also higher, because the myocardium is already ischaemic when the operation begins. So the corrected option C is the answer: both are higher in Y, the emergency group, than in X. The book prints option C the other way round, which reverses the comparison. The book prints option C as \"higher in X than in Y\", which reverses the comparison; emergency operation after failed PTCA (Y) is the one with the higher mortality and the higher rate of infarction, so the option is shown corrected.",
+     "lang": "en",
+     "source": "MedCosmos Cardiac, Q56",
+     "marks": [
+      1,
+      2,
+      3
+     ],
+     "answerMarks": [
+      4,
+      5
+     ]
+    }
+   ],
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0056-b.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.2,
+      "y": 0.1,
+      "r": 0.09
+     },
+     "what": "Calm room under a blue X",
+     "means": "Elective bypass"
+    },
+    {
+     "spot": {
+      "x": 0.75,
+      "y": 0.15,
+      "r": 0.09
+     },
+     "what": "Red Y over the emergency room",
+     "means": "Emergency bypass after failed PTCA"
+    },
+    {
+     "spot": {
+      "x": 0.72,
+      "y": 0.25,
+      "r": 0.09
+     },
+     "what": "Snapped Slinky in the crown",
+     "means": "Failed PTCA"
+    },
+    {
+     "spot": {
+      "x": 0.85,
+      "y": 0.75,
+      "r": 0.13
+     },
+     "what": "More coffins on the Y side",
+     "means": "Higher operative mortality"
+    },
+    {
+     "spot": {
+      "x": 0.45,
+      "y": 0.72,
+      "r": 0.15
+     },
+     "what": "Stags down with arrows",
+     "means": "More perioperative infarctions"
     }
    ]
   },
@@ -12941,8 +13602,8 @@
        "text": "في صباح بارد، بعد سنوات من العمل الأوّل، كانت كرمة فول الليما ما تزال حيّةً خضراء.",
        "t": 0,
        "spot": {
-        "x": 0.55,
-        "y": 0.55,
+        "x": 0.45,
+        "y": 0.3,
         "r": 0.2
        }
       },
@@ -12950,8 +13611,8 @@
        "text": "تنبت من جدار صدر التمثال، وتنزل على مقدّمة تاجه، فوق المزلق الأماميّ.",
        "t": 8269,
        "spot": {
-        "x": 0.5,
-        "y": 0.7,
+        "x": 0.45,
+        "y": 0.3,
         "r": 0.2
        }
       },
@@ -12959,53 +13620,53 @@
        "text": "ومن خلال جدار الفندق المفتوح، كانت مروحة الغرفة الحمراء ما تزال تدور بقوّة.",
        "t": 15987,
        "spot": {
-        "x": 0.82,
-        "y": 0.45,
-        "r": 0.13
+        "x": 0.8,
+        "y": 0.4,
+        "r": 0.15
        }
       },
       {
        "text": "فقال هانك: «هذه الكرمة حرست الغرفة الحمراء كلّ هذه السنين؛ لذلك بقيت المروحة قويّة.»",
        "t": 23579,
        "spot": {
-        "x": 0.78,
-        "y": 0.68,
-        "r": 0.15
+        "x": 0.45,
+        "y": 0.35,
+        "r": 0.2
        }
       },
       {
        "text": "وقبل أن يبدأ العمل الثاني، رفع المفتّش خريطةً حراريّةً للتّاج، يتوهّج فيها جزء كبير بالأحمر.",
        "t": 32880,
        "spot": {
-        "x": 0.3,
-        "y": 0.58,
-        "r": 0.14
+        "x": 0.35,
+        "y": 0.8,
+        "r": 0.18
        }
       },
       {
        "text": "وقال: «لا نفتح إلّا إذا كان ما يتهدّده الخطر كبيرًا؛ وهذا كبير.»",
        "t": 42545,
        "spot": {
-        "x": 0.15,
-        "y": 0.6,
-        "r": 0.12
+        "x": 0.35,
+        "y": 0.8,
+        "r": 0.18
        }
       },
       {
        "text": "ثمّ صبّ العمّال على الفندق دلوًا من الماء المثلّج مليئًا بالموز، فوقفت المراوح ساكنة.",
        "t": 49413,
        "spot": {
-        "x": 0.25,
-        "y": 0.2,
-        "r": 0.18
+        "x": 0.8,
+        "y": 0.25,
+        "r": 0.2
        }
       },
       {
        "text": "وفي تلك اللحظة، قرص هانك كرمة الليما قرصًا خفيفًا بملقط غسيل خشبيّ صغير.",
        "t": 57356,
        "spot": {
-        "x": 0.6,
-        "y": 0.78,
+        "x": 0.48,
+        "y": 0.33,
         "r": 0.1
        }
       },
@@ -13013,17 +13674,17 @@
        "text": "وقال: «لو تركت نسغها الدافئ يجري الآن، لغسل البرد وأدفأ الفندق قبل أوانه.»",
        "t": 65011,
        "spot": {
-        "x": 0.78,
-        "y": 0.68,
-        "r": 0.15
+        "x": 0.48,
+        "y": 0.33,
+        "r": 0.1
        }
       },
       {
        "text": "ثمّ نظر إلى الكرمة الحيّة تصعد إلى الصدر وقال:",
        "t": 73144,
        "spot": {
-        "x": 0.55,
-        "y": 0.5,
+        "x": 0.45,
+        "y": 0.3,
         "r": 0.2
        }
       },
@@ -13043,17 +13704,17 @@
        "text": "A patent internal mammary graft to the left anterior descending protects the left ventricle, so its function is better preserved at the time of reoperation: statement B is correct.",
        "t": 0,
        "spot": {
-        "x": 0.68,
-        "y": 0.5,
-        "r": 0.25
+        "x": 0.8,
+        "y": 0.4,
+        "r": 0.15
        }
       },
       {
        "text": "At reoperation, a light clamp is placed on the mammary pedicle during cardioplegic arrest, because flow through it would wash out the cardioplegia and warm the heart: statement D is correct.",
        "t": 11496,
        "spot": {
-        "x": 0.6,
-        "y": 0.78,
+        "x": 0.48,
+        "y": 0.33,
         "r": 0.1
        }
       },
@@ -13061,9 +13722,9 @@
        "text": "Before reoperation, a functional study should show that a large area of myocardium is at risk, so that the operation is worth its risk: statement E is correct.",
        "t": 23763,
        "spot": {
-        "x": 0.3,
-        "y": 0.58,
-        "r": 0.14
+        "x": 0.35,
+        "y": 0.8,
+        "r": 0.18
        }
       },
       {
@@ -13079,8 +13740,8 @@
        "text": "In the book's view, a mammary graft does not itself raise the risk of reoperation, and taking the other mammary artery at reoperation does not greatly increase sternal wound complications.",
        "t": 36934,
        "spot": {
-        "x": 0.55,
-        "y": 0.55,
+        "x": 0.45,
+        "y": 0.3,
         "r": 0.2
        }
       }
@@ -13118,49 +13779,49 @@
      ]
     }
    ],
-   "image": "gh:books/medcosmos-cardiac/media/medcos-q0057.webp",
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0057-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.55,
-      "y": 0.5,
-      "r": 0.15
+      "x": 0.48,
+      "y": 0.28,
+      "r": 0.12
      },
      "what": "Living lima bean vine down onto the crown",
      "means": "Internal mammary artery graft"
     },
     {
      "spot": {
-      "x": 0.82,
-      "y": 0.45,
-      "r": 0.11
+      "x": 0.85,
+      "y": 0.4,
+      "r": 0.1
      },
      "what": "Red room fan still strong",
      "means": "Left ventricular function preserved"
     },
     {
      "spot": {
-      "x": 0.6,
-      "y": 0.78,
-      "r": 0.08
+      "x": 0.48,
+      "y": 0.33,
+      "r": 0.06
      },
      "what": "Clothes-peg on the vine",
      "means": "Light clamp on the IMA"
     },
     {
      "spot": {
-      "x": 0.25,
-      "y": 0.2,
-      "r": 0.13
+      "x": 0.8,
+      "y": 0.18,
+      "r": 0.12
      },
      "what": "Ice and bananas poured over the hotel",
      "means": "Cardioplegic arrest"
     },
     {
      "spot": {
-      "x": 0.3,
-      "y": 0.58,
-      "r": 0.12
+      "x": 0.35,
+      "y": 0.8,
+      "r": 0.13
      },
      "what": "Heat map with a large red area",
      "means": "Functional study before reoperation"
@@ -13187,18 +13848,18 @@
        "text": "في ميناء غائم، رست سفينة بيضاء فتحت مؤخّرتها مرّةً ثانيةً على ندبة قديمة.",
        "t": 0,
        "spot": {
-        "x": 0.12,
-        "y": 0.4,
-        "r": 0.13
+        "x": 0.15,
+        "y": 0.2,
+        "r": 0.18
        }
       },
       {
        "text": "ومن خلفها تاج الحرّيّة، كلّ أشعّته مخطّطة بالقار.",
        "t": 7445,
        "spot": {
-        "x": 0.8,
-        "y": 0.3,
-        "r": 0.18
+        "x": 0.7,
+        "y": 0.25,
+        "r": 0.2
        }
       },
       {
@@ -13214,17 +13875,17 @@
        "text": "فقال النجّار العجوز: «الفتحة الثانية أصعب من الأولى؛ الندبة تلتصق، والسّلاسل القديمة تتفتّت في اليد.»",
        "t": 19774,
        "spot": {
-        "x": 0.12,
-        "y": 0.4,
-        "r": 0.13
+        "x": 0.15,
+        "y": 0.2,
+        "r": 0.18
        }
       },
       {
        "text": "وعلى مقعد في الرصيف، استلقى ليو، الّذي أصلح تاجه مرّتين.",
        "t": 30242,
        "spot": {
-        "x": 0.4,
-        "y": 0.7,
+        "x": 0.3,
+        "y": 0.75,
         "r": 0.18
        }
       },
@@ -13232,8 +13893,8 @@
        "text": "فإذا الملاك الحجريّ الثقيل يطير عائدًا إلى صدره مباشرةً.",
        "t": 36046,
        "spot": {
-        "x": 0.5,
-        "y": 0.45,
+        "x": 0.4,
+        "y": 0.6,
         "r": 0.18
        }
       },
@@ -13242,25 +13903,25 @@
        "t": 40918,
        "spot": {
         "x": 0.85,
-        "y": 0.75,
-        "r": 0.08
+        "y": 0.55,
+        "r": 0.1
        }
       },
       {
        "text": "فصاح ليو: «ما أسرع عودته هذه المرّة! في المرّة الأولى غاب سنين!»",
        "t": 45472,
        "spot": {
-        "x": 0.4,
-        "y": 0.7,
-        "r": 0.15
+        "x": 0.3,
+        "y": 0.75,
+        "r": 0.18
        }
       },
       {
        "text": "فقال النجّار: «بعد الفتحة الثانية يعود الملاك أسرع لا أبطأ؛ أمّا من يخرج سالمًا فيعيش كمن أصلح مرّةً واحدة.»",
        "t": 51758,
        "spot": {
-        "x": 0.5,
-        "y": 0.45,
+        "x": 0.4,
+        "y": 0.6,
         "r": 0.18
        }
       },
@@ -13268,9 +13929,9 @@
        "text": "ثمّ وضع يده على الندبة القديمة وقال:",
        "t": 62396,
        "spot": {
-        "x": 0.12,
-        "y": 0.4,
-        "r": 0.13
+        "x": 0.15,
+        "y": 0.2,
+        "r": 0.18
        }
       },
       {
@@ -13298,27 +13959,27 @@
        "text": "After coronary reoperation, angina returns sooner, not later, than after a first bypass, so statement D is incorrect and is the answer.",
        "t": 3066,
        "spot": {
-        "x": 0.6,
+        "x": 0.4,
         "y": 0.6,
-        "r": 0.25
+        "r": 0.18
        }
       },
       {
        "text": "The other statements are correct: reoperation carries higher morbidity and mortality, and its deaths are mostly cardiac.",
        "t": 12388,
        "spot": {
-        "x": 0.12,
-        "y": 0.4,
-        "r": 0.13
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.4
        }
       },
       {
        "text": "Once patients leave hospital, their survival is close to that after a first bypass.",
        "t": 20477,
        "spot": {
-        "x": 0.4,
-        "y": 0.7,
-        "r": 0.15
+        "x": 0.3,
+        "y": 0.75,
+        "r": 0.18
        }
       },
       {
@@ -13358,13 +14019,13 @@
      ]
     }
    ],
-   "image": "gh:books/medcosmos-cardiac/media/medcos-q0058.webp",
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0058-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.12,
-      "y": 0.4,
-      "r": 0.1
+      "x": 0.15,
+      "y": 0.2,
+      "r": 0.13
      },
      "what": "Ship's stern reopened along an old scar",
      "means": "Coronary reoperation"
@@ -13380,18 +14041,18 @@
     },
     {
      "spot": {
-      "x": 0.5,
-      "y": 0.45,
-      "r": 0.14
+      "x": 0.4,
+      "y": 0.6,
+      "r": 0.15
      },
      "what": "Stone angel flying back onto the chest",
      "means": "Angina returns sooner"
     },
     {
      "spot": {
-      "x": 0.85,
-      "y": 0.75,
-      "r": 0.07
+      "x": 0.87,
+      "y": 0.5,
+      "r": 0.09
      },
      "what": "Clock that has barely moved",
      "means": "After a short time"
@@ -13417,45 +14078,45 @@
        "text": "في مقهًى دافئ في غرينتش فيليج، وقفت النادلة ميا تملأ كوبًا كبيرًا أخضر يتوهّج.",
        "t": 0,
        "spot": {
-        "x": 0.35,
-        "y": 0.55,
-        "r": 0.25
+        "x": 0.3,
+        "y": 0.7,
+        "r": 0.2
        }
       },
       {
        "text": "كانت تملؤه قطرةً قطرةً من الصنبور، كلّ قطرة مع دقّة من دقّات بندول إيقاع نحاسيّ إلى جانبها.",
        "t": 7360,
        "spot": {
-        "x": 0.25,
-        "y": 0.7,
-        "r": 0.18
+        "x": 0.75,
+        "y": 0.65,
+        "r": 0.15
        }
       },
       {
        "text": "ومرّت مئات الدقّات، والكوب لم يمتلئ إلّا نصفه.",
        "t": 15986,
        "spot": {
-        "x": 0.42,
-        "y": 0.72,
-        "r": 0.12
+        "x": 0.3,
+        "y": 0.75,
+        "r": 0.18
        }
       },
       {
        "text": "وعند الطاولة، طلب زبون مستعجل كأسًا صغيرةً خضراء تتوهّج أيضًا.",
        "t": 20670,
        "spot": {
-        "x": 0.8,
-        "y": 0.38,
-        "r": 0.15
+        "x": 0.85,
+        "y": 0.22,
+        "r": 0.12
        }
       },
       {
        "text": "فشربها دفعةً واحدةً في جرعة واحدة، ووضع الكأس فارغة.",
        "t": 27323,
        "spot": {
-        "x": 0.8,
-        "y": 0.35,
-        "r": 0.1
+        "x": 0.85,
+        "y": 0.22,
+        "r": 0.12
        }
       },
       {
@@ -13463,7 +14124,7 @@
        "t": 33078,
        "spot": {
         "x": 0.85,
-        "y": 0.45,
+        "y": 0.3,
         "r": 0.15
        }
       },
@@ -13472,7 +14133,7 @@
        "t": 40388,
        "spot": {
         "x": 0.65,
-        "y": 0.15,
+        "y": 0.12,
         "r": 0.15
        }
       },
@@ -13481,7 +14142,7 @@
        "t": 46283,
        "spot": {
         "x": 0.5,
-        "y": 0.4,
+        "y": 0.5,
         "r": 0.4
        }
       },
@@ -13489,18 +14150,18 @@
        "text": "ثمّ قالت: «وكأسك وحدها تحتاج أن تصبّ دفعةً واحدة؛ أمّا كوبي فيصبر.»",
        "t": 54279,
        "spot": {
-        "x": 0.8,
-        "y": 0.35,
-        "r": 0.1
+        "x": 0.85,
+        "y": 0.22,
+        "r": 0.12
        }
       },
       {
        "text": "ونظرت إلى الكوب المتوهّج وقالت:",
        "t": 60705,
        "spot": {
-        "x": 0.42,
-        "y": 0.72,
-        "r": 0.12
+        "x": 0.3,
+        "y": 0.75,
+        "r": 0.18
        }
       },
       {
@@ -13528,9 +14189,9 @@
        "text": "The first-pass (initial-transit) study records a single bolus on its first passage through the heart, in a few seconds.",
        "t": 4939,
        "spot": {
-        "x": 0.8,
-        "y": 0.35,
-        "r": 0.1
+        "x": 0.85,
+        "y": 0.22,
+        "r": 0.12
        }
       },
       {
@@ -13547,7 +14208,7 @@
        "t": 24854,
        "spot": {
         "x": 0.65,
-        "y": 0.15,
+        "y": 0.12,
         "r": 0.15
        }
       },
@@ -13587,30 +14248,30 @@
      ]
     }
    ],
-   "image": "gh:books/medcosmos-cardiac/media/medcos-q0059.webp",
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0059-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.42,
-      "y": 0.72,
-      "r": 0.11
+      "x": 0.3,
+      "y": 0.75,
+      "r": 0.14
      },
      "what": "Glowing mug filled drop by drop",
      "means": "Gated equilibrium (MUGA) study"
     },
     {
      "spot": {
-      "x": 0.15,
-      "y": 0.75,
-      "r": 0.08
+      "x": 0.75,
+      "y": 0.65,
+      "r": 0.12
      },
      "what": "Metronome ticking",
      "means": "Hundreds of beats added together"
     },
     {
      "spot": {
-      "x": 0.8,
-      "y": 0.35,
+      "x": 0.82,
+      "y": 0.22,
       "r": 0.08
      },
      "what": "Shot glass downed in one gulp",
@@ -13618,9 +14279,9 @@
     },
     {
      "spot": {
-      "x": 0.65,
-      "y": 0.15,
-      "r": 0.12
+      "x": 0.68,
+      "y": 0.12,
+      "r": 0.11
      },
      "what": "Chalkboard x10",
      "means": "At least ten times longer"
@@ -13846,8 +14507,8 @@
        "text": "في عصر دافئ، انتفخت فقاعة علك ورديّة ضخمة من الزاوية الأماميّة السفلى لغرفة المحرّكات الحمراء.",
        "t": 0,
        "spot": {
-        "x": 0.45,
-        "y": 0.72,
+        "x": 0.8,
+        "y": 0.75,
         "r": 0.18
        }
       },
@@ -13855,16 +14516,16 @@
        "text": "كان جدار تلك الزاوية قد رقّ حتّى صار كالعلك الممضوغ، فكلّما دارت المروحة انتفخ أكثر.",
        "t": 9688,
        "spot": {
-        "x": 0.6,
-        "y": 0.7,
-        "r": 0.25
+        "x": 0.8,
+        "y": 0.75,
+        "r": 0.18
        }
       },
       {
        "text": "فنظرت المديرة بيرل من النافذة إلى تاج الحرّيّة، فإذا الشعاع الأماميّ مسدود بالقار.",
        "t": 17988,
        "spot": {
-        "x": 0.75,
+        "x": 0.65,
         "y": 0.2,
         "r": 0.15
        }
@@ -13873,35 +14534,35 @@
        "text": "وقالت: «لم يصله خيط واحد من جيرانه؛ فمات الجدار كلّه ورقّ، وانتفخ هكذا.»",
        "t": 26035,
        "spot": {
-        "x": 0.75,
-        "y": 0.2,
-        "r": 0.15
+        "x": 0.7,
+        "y": 0.15,
+        "r": 0.12
        }
       },
       {
        "text": "وأمام الباب، كانت منصّة مصعد الشارع عالقةً في الأعلى، لا تنزل منذ أسابيع.",
        "t": 34155,
        "spot": {
-        "x": 0.15,
-        "y": 0.3,
-        "r": 0.12
+        "x": 0.18,
+        "y": 0.33,
+        "r": 0.13
        }
       },
       {
        "text": "فقالت: «وهذا المصعد العالق يخبرني بالفقاعة قبل أن أراها.»",
        "t": 41634,
        "spot": {
-        "x": 0.15,
-        "y": 0.3,
-        "r": 0.12
+        "x": 0.18,
+        "y": 0.33,
+        "r": 0.13
        }
       },
       {
        "text": "فجاء العامل راي بمقصّ طويل، وقصّ الفقاعة من قاعدتها، وخاط الجدار مشدودًا.",
        "t": 47643,
        "spot": {
-        "x": 0.75,
-        "y": 0.78,
+        "x": 0.5,
+        "y": 0.8,
         "r": 0.15
        }
       },
@@ -13909,26 +14570,26 @@
        "text": "وفي البهو الأحمر فوقه، كان تاج الأسقف يرشح منذ انتفخت الغرفة، فلمّا شدّ الجدار انغلق محكمًا.",
        "t": 55673,
        "spot": {
-        "x": 0.62,
-        "y": 0.45,
-        "r": 0.12
+        "x": 0.65,
+        "y": 0.42,
+        "r": 0.13
        }
       },
       {
        "text": "فقال الأسقف مبتسمًا: «لم يلمسني أحد، ومع ذلك صلح تاجي!»",
        "t": 65217,
        "spot": {
-        "x": 0.62,
-        "y": 0.45,
-        "r": 0.12
+        "x": 0.65,
+        "y": 0.42,
+        "r": 0.13
        }
       },
       {
        "text": "فنظرت بيرل إلى الفقاعة المقصوصة وقالت:",
        "t": 72202,
        "spot": {
-        "x": 0.45,
-        "y": 0.72,
+        "x": 0.8,
+        "y": 0.75,
         "r": 0.18
        }
       },
@@ -13948,8 +14609,8 @@
        "text": "A left ventricular aneurysm forms after a transmural infarction, usually of the anterior wall and apex supplied by the left anterior descending, so anteroapical aneurysms are far more common than posterobasal ones.",
        "t": 0,
        "spot": {
-        "x": 0.45,
-        "y": 0.72,
+        "x": 0.8,
+        "y": 0.75,
         "r": 0.18
        }
       },
@@ -13957,27 +14618,27 @@
        "text": "It forms most readily when the territory of the occluded artery has no collateral circulation, so the whole wall dies and thins: statement B is true.",
        "t": 14563,
        "spot": {
-        "x": 0.75,
-        "y": 0.2,
-        "r": 0.15
+        "x": 0.7,
+        "y": 0.15,
+        "r": 0.12
        }
       },
       {
        "text": "Persistent ST segment elevation weeks after the infarction suggests an aneurysm: statement E is true.",
        "t": 24454,
        "spot": {
-        "x": 0.15,
-        "y": 0.3,
-        "r": 0.12
+        "x": 0.18,
+        "y": 0.33,
+        "r": 0.13
        }
       },
       {
        "text": "Repair can improve associated valve dysfunction, such as mitral regurgitation from a distorted ventricle: statement D is true.",
        "t": 31899,
        "spot": {
-        "x": 0.62,
-        "y": 0.45,
-        "r": 0.12
+        "x": 0.65,
+        "y": 0.42,
+        "r": 0.13
        }
       },
       {
@@ -13993,8 +14654,8 @@
        "text": "Mural thrombus is common in an aneurysm, but systemic embolization is uncommon, so statement A is false, and statement C is false as well.",
        "t": 43396,
        "spot": {
-        "x": 0.45,
-        "y": 0.72,
+        "x": 0.8,
+        "y": 0.75,
         "r": 0.18
        }
       }
@@ -14032,39 +14693,39 @@
      ]
     }
    ],
-   "image": "gh:books/medcosmos-cardiac/media/medcos-q0061.webp",
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0061-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.45,
-      "y": 0.72,
-      "r": 0.14
+      "x": 0.8,
+      "y": 0.75,
+      "r": 0.15
      },
      "what": "Bubble-gum bubble at the front bottom corner",
      "means": "Anteroapical LV aneurysm"
     },
     {
      "spot": {
-      "x": 0.78,
-      "y": 0.22,
-      "r": 0.11
+      "x": 0.7,
+      "y": 0.15,
+      "r": 0.09
      },
      "what": "Front spike of the crown with no threads",
      "means": "No collaterals to the blocked artery"
     },
     {
      "spot": {
-      "x": 0.15,
-      "y": 0.3,
-      "r": 0.09
+      "x": 0.18,
+      "y": 0.33,
+      "r": 0.11
      },
      "what": "Street elevator stuck up",
      "means": "Persistent ST elevation"
     },
     {
      "spot": {
-      "x": 0.62,
-      "y": 0.45,
+      "x": 0.67,
+      "y": 0.42,
       "r": 0.1
      },
      "what": "Mitre closing snugly",
@@ -14072,12 +14733,258 @@
     },
     {
      "spot": {
-      "x": 0.75,
-      "y": 0.78,
-      "r": 0.1
+      "x": 0.5,
+      "y": 0.82,
+      "r": 0.12
      },
      "what": "Worker cutting the bubble away",
      "means": "Aneurysm repair"
+    }
+   ]
+  },
+  {
+   "id": "medcos-q0062",
+   "title": "Early mortality of ventricular aneurysm repair does not depend on the aneurysm's size or its location",
+   "titleAr": "وفيات إصلاح أمّ الدم البطينية المبكرة لا تتعلّق بحجمها ولا بموضعها",
+   "tags": [
+    "cardiac/coronary",
+    "d:evidence",
+    "q:recall",
+    "l:3",
+    "x:trap"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في يوم غائم، وقف فندقان قديمان متجاوران، في غرفة محرّكات كلّ منهما فقاعة علك ورديّة.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.55,
+        "r": 0.4
+       }
+      },
+      {
+       "text": "في الأوّل فقاعة ضخمة في الأمام، وفي الثاني فقاعة صغيرة في الخلف.",
+       "t": 8854,
+       "spot": {
+        "x": 0.25,
+        "y": 0.6,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "فجاء الحانوتيّ موريس ومعه صبيّه الجديد، فأسرع الصبيّ يقيس الفقاعة الضخمة.",
+       "t": 14932,
+       "spot": {
+        "x": 0.6,
+        "y": 0.7,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فقال موريس: «اطو شريطك يا ولد؛ لا يهمّني كبرها ولا موضعها.»",
+       "t": 21657,
+       "spot": {
+        "x": 0.6,
+        "y": 0.7,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "ثمّ هزّ كتفيه أمام الفقاعتين معًا، وعربة توابيته فارغة إلى جانبه.",
+       "t": 28564,
+       "spot": {
+        "x": 0.85,
+        "y": 0.75,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "وأشار إلى الخلف، حيث سيّارة إسعاف تضيء أنوارها، وإلى جانبها تابوت.",
+       "t": 35303,
+       "spot": {
+        "x": 0.4,
+        "y": 0.38,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "وإلى صاحب فندق منهك لا يقوى على القيام من فراشه، وإلى جانبه تابوت.",
+       "t": 41978,
+       "spot": {
+        "x": 0.55,
+        "y": 0.38,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "وإلى تاج مسدود من جذره الأيسر الكبير، وإلى جانبه تابوت ثالث.",
+       "t": 48219,
+       "spot": {
+        "x": 0.7,
+        "y": 0.38,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فقال: «هنا يعمل شريطي: العجلة، والتّعب الشديد، والجذر المسدود؛ أمّا الفقاعة فلا.»",
+       "t": 54154,
+       "spot": {
+        "x": 0.55,
+        "y": 0.38,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فسكت الصبيّ، فقال له موريس:",
+       "t": 63953,
+       "spot": {
+        "x": 0.6,
+        "y": 0.7,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«الناي يحكي حديث الطريق المليء بالدّم، ويروي قصص عشق المجنون.»",
+       "quote": "جلال الدين الرومي، المثنوي، الكتاب الأول",
+       "t": 68100
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0062-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "Early mortality after repair of a left ventricular aneurysm depends on the patient and the circumstances, not on the aneurysm itself.",
+       "t": 0,
+       "spot": {
+        "x": 0.6,
+        "y": 0.7,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "Class IV heart failure, left main coronary disease and an emergency operation all raise the risk.",
+       "t": 8747,
+       "spot": {
+        "x": 0.55,
+        "y": 0.38,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "The size of the aneurysm and its location do not, so B and E are the answer.",
+       "t": 15714,
+       "spot": {
+        "x": 0.25,
+        "y": 0.6,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "What matters most is the function of the remaining ventricle and how completely the heart can be revascularized.",
+       "t": 21676,
+       "spot": {
+        "x": 0.6,
+        "y": 0.7,
+        "r": 0.15
+       }
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0062-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which of the following factors does/do not increase early mortality associated with repair of left ventricular aneurysm?",
+     "options": [
+      "Class IV cardiac status.",
+      "Size of aneurysm.",
+      "Presence of left main coronary disease.",
+      "Emergent operation.",
+      "Location of aneurysm."
+     ],
+     "answer": 1,
+     "explain": "Early mortality after repair of a left ventricular aneurysm depends on the patient and the circumstances, not on the aneurysm itself. Class IV heart failure, left main coronary disease and an emergency operation all raise the risk. The size of the aneurysm and its location do not, so B and E are the answer. What matters most is the function of the remaining ventricle and how completely the heart can be revascularized.",
+     "lang": "en",
+     "source": "MedCosmos Cardiac, Q62",
+     "answers": [
+      1,
+      4
+     ],
+     "marks": [
+      4,
+      5,
+      6
+     ],
+     "answerMarks": [
+      1,
+      2,
+      3
+     ]
+    }
+   ],
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0062-b.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.25,
+      "y": 0.6,
+      "r": 0.15
+     },
+     "what": "Huge bubble at the front",
+     "means": "Large aneurysm"
+    },
+    {
+     "spot": {
+      "x": 0.88,
+      "y": 0.55,
+      "r": 0.06
+     },
+     "what": "Small bubble at the back",
+     "means": "Small aneurysm"
+    },
+    {
+     "spot": {
+      "x": 0.63,
+      "y": 0.68,
+      "r": 0.12
+     },
+     "what": "Undertaker shrugging, cart empty",
+     "means": "Size and location do not raise early mortality"
+    },
+    {
+     "spot": {
+      "x": 0.4,
+      "y": 0.38,
+      "r": 0.08
+     },
+     "what": "Ambulance with a coffin",
+     "means": "Emergency operation raises it"
+    },
+    {
+     "spot": {
+      "x": 0.57,
+      "y": 0.37,
+      "r": 0.08
+     },
+     "what": "Exhausted owner in bed",
+     "means": "Class IV status raises it"
+    },
+    {
+     "spot": {
+      "x": 0.75,
+      "y": 0.38,
+      "r": 0.08
+     },
+     "what": "Crown clogged at its left root",
+     "means": "Left main disease raises it"
     }
    ]
   },
@@ -14101,8 +15008,8 @@
        "text": "في شارع مضيء في مانهاتن، جلس الصغير داني على درّاجة كاواساكي خضراء لامعة.",
        "t": 0,
        "spot": {
-        "x": 0.75,
-        "y": 0.6,
+        "x": 0.8,
+        "y": 0.7,
         "r": 0.22
        }
       },
@@ -14110,54 +15017,54 @@
        "text": "كان وجهه محمرًّا من الحمّى منذ أيّام، وشفتاه حمراوان متشقّقتان.",
        "t": 6930,
        "spot": {
-        "x": 0.73,
-        "y": 0.44,
-        "r": 0.1
+        "x": 0.75,
+        "y": 0.4,
+        "r": 0.15
        }
       },
       {
        "text": "وعلى رأسه خوذة على شكل تاج الحرّيّة الأخضر، وعلى أشعّتها فقاعات علك ورديّة تنتفخ يومًا بعد يوم.",
        "t": 13519,
        "spot": {
-        "x": 0.75,
-        "y": 0.33,
-        "r": 0.15
+        "x": 0.8,
+        "y": 0.3,
+        "r": 0.18
        }
       },
       {
        "text": "فجرّب أهله كلّ شيء، فما صغرت فقاعة واحدة.",
        "t": 22711,
        "spot": {
-        "x": 0.73,
-        "y": 0.45,
-        "r": 0.12
+        "x": 0.8,
+        "y": 0.3,
+        "r": 0.18
        }
       },
       {
        "text": "فجاءت الممرّضة لوسي، ورفعت كرةً زجاجيّةً من كرات الثلج، تتوهّج بأشعّة خضراء.",
        "t": 27637,
        "spot": {
-        "x": 0.4,
-        "y": 0.25,
-        "r": 0.18
+        "x": 0.3,
+        "y": 0.5,
+        "r": 0.25
        }
       },
       {
        "text": "فما إن أضاء وهجها على الخوذة، حتّى أخذت الفقاعات تنكمش واحدةً بعد واحدة.",
        "t": 35723,
        "spot": {
-        "x": 0.65,
-        "y": 0.3,
-        "r": 0.2
+        "x": 0.5,
+        "y": 0.4,
+        "r": 0.3
        }
       },
       {
        "text": "وبرد وجه داني، وابتسم لأوّل مرّة منذ أيّام.",
        "t": 42876,
        "spot": {
-        "x": 0.73,
-        "y": 0.44,
-        "r": 0.1
+        "x": 0.75,
+        "y": 0.4,
+        "r": 0.15
        }
       },
       {
@@ -14165,8 +15072,8 @@
        "t": 48108,
        "spot": {
         "x": 0.3,
-        "y": 0.4,
-        "r": 0.22
+        "y": 0.5,
+        "r": 0.25
        }
       },
       {
@@ -14174,8 +15081,8 @@
        "t": 55960,
        "spot": {
         "x": 0.3,
-        "y": 0.4,
-        "r": 0.22
+        "y": 0.45,
+        "r": 0.25
        }
       },
       {
@@ -14194,18 +15101,18 @@
        "text": "Kawasaki disease is an acute vasculitis of young children that can cause coronary artery aneurysms.",
        "t": 0,
        "spot": {
-        "x": 0.75,
-        "y": 0.55,
-        "r": 0.25
+        "x": 0.8,
+        "y": 0.7,
+        "r": 0.22
        }
       },
       {
        "text": "Intravenous gamma globulin, given early, shortens the fever and the illness and greatly reduces the risk of giant coronary aneurysms.",
        "t": 6925,
        "spot": {
-        "x": 0.45,
-        "y": 0.17,
-        "r": 0.12
+        "x": 0.3,
+        "y": 0.5,
+        "r": 0.25
        }
       },
       {
@@ -14213,17 +15120,17 @@
        "t": 16004,
        "spot": {
         "x": 0.5,
-        "y": 0.5,
-        "r": 0.45
+        "y": 0.4,
+        "r": 0.4
        }
       },
       {
        "text": "Aspirin is given with it, but aspirin alone does not prevent aneurysms; antibiotics and antiviral agents do nothing, and steroids are not the standard first treatment.",
        "t": 17896,
        "spot": {
-        "x": 0.45,
-        "y": 0.17,
-        "r": 0.12
+        "x": 0.3,
+        "y": 0.5,
+        "r": 0.25
        }
       }
      ],
@@ -14253,31 +15160,31 @@
      ]
     }
    ],
-   "image": "gh:books/medcosmos-cardiac/media/medcos-q0063.webp",
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0063-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.75,
-      "y": 0.65,
-      "r": 0.15
+      "x": 0.8,
+      "y": 0.7,
+      "r": 0.18
      },
      "what": "Green Kawasaki motorcycle",
      "means": "Kawasaki disease"
     },
     {
      "spot": {
-      "x": 0.75,
-      "y": 0.32,
-      "r": 0.11
+      "x": 0.8,
+      "y": 0.3,
+      "r": 0.14
      },
      "what": "Bubble-gum bubbles on the crown helmet",
      "means": "Coronary aneurysms"
     },
     {
      "spot": {
-      "x": 0.45,
-      "y": 0.17,
-      "r": 0.1
+      "x": 0.3,
+      "y": 0.5,
+      "r": 0.18
      },
      "what": "Snow globe glowing with gamma rays",
      "means": "Intravenous gamma globulin"
@@ -14303,90 +15210,90 @@
        "text": "في صباح ناعم في حديقة في كوينز، وقفت درّاجة الكاواساكي الخضراء عند الرصيف.",
        "t": 0,
        "spot": {
-        "x": 0.1,
-        "y": 0.62,
-        "r": 0.1
+        "x": 0.85,
+        "y": 0.77,
+        "r": 0.13
        }
       },
       {
        "text": "وفي الحديقة مجسّم كبير لتاج الحرّيّة، على أشعّته فقاعات علك ورديّة بقيت من تلك الحمّى القديمة.",
        "t": 6533,
        "spot": {
-        "x": 0.55,
-        "y": 0.25,
-        "r": 0.3
+        "x": 0.5,
+        "y": 0.3,
+        "r": 0.35
        }
       },
       {
        "text": "فكان البستانيّ هانك يمرّ بها كلّ شهر، ينظر إليها ويتركها.",
        "t": 14941,
        "spot": {
-        "x": 0.3,
-        "y": 0.65,
-        "r": 0.15
+        "x": 0.25,
+        "y": 0.6,
+        "r": 0.18
        }
       },
       {
        "text": "فسأله داني: «لماذا لا تغطّي الفقاعات بالملفوف؟»",
        "t": 20580,
        "spot": {
-        "x": 0.6,
-        "y": 0.5,
-        "r": 0.12
+        "x": 0.55,
+        "y": 0.4,
+        "r": 0.15
        }
       },
       {
        "text": "فقال هانك: «الفقاعات وحدها لا تدعوني يا بنيّ، ولو كثرت؛ يكفيها الدواء والنّظر.»",
        "t": 25233,
        "spot": {
-        "x": 0.3,
-        "y": 0.65,
-        "r": 0.15
+        "x": 0.25,
+        "y": 0.6,
+        "r": 0.18
        }
       },
       {
        "text": "لكنّه كان يعلّق عند المزلق الأماميّ ورقةً من تقويم كلّ شهر.",
        "t": 33782,
        "spot": {
-        "x": 0.85,
-        "y": 0.6,
-        "r": 0.15
+        "x": 0.7,
+        "y": 0.5,
+        "r": 0.18
        }
       },
       {
        "text": "وعلى الأوراق الثلاث، كان المزلق يضيق بالقار شهرًا بعد شهر، والفتى لاد يعلق عليه أكثر.",
        "t": 39019,
        "spot": {
-        "x": 0.72,
-        "y": 0.6,
-        "r": 0.22
+        "x": 0.55,
+        "y": 0.45,
+        "r": 0.18
        }
       },
       {
        "text": "فلمّا رأى الورقة الثالثة، أخرج ورقة ملفوف خضراء كبيرة، ومدّها جسرًا فوق المزلق الأماميّ.",
        "t": 46734,
        "spot": {
-        "x": 0.52,
-        "y": 0.75,
-        "r": 0.15
+        "x": 0.4,
+        "y": 0.7,
+        "r": 0.18
        }
       },
       {
        "text": "وقال: «هذا ما يدعوني: ضيق يزداد، في أهمّ المزالق.»",
        "t": 54863,
        "spot": {
-        "x": 0.4,
-        "y": 0.72,
-        "r": 0.18
+        "x": 0.55,
+        "y": 0.5,
+        "r": 0.2
        }
       },
       {
        "text": "ثمّ نظر إلى الفقاعات الساكنة على الأشعّة الأخرى وقال:",
        "t": 61259,
        "spot": {
-        "x": 0.55,
-        "y": 0.25,
-        "r": 0.3
+        "x": 0.3,
+        "y": 0.3,
+        "r": 0.25
        }
       },
       {
@@ -14405,27 +15312,27 @@
        "text": "Most coronary aneurysms in Kawasaki disease are managed medically, with antiplatelet or anticoagulant drugs and close follow-up.",
        "t": 0,
        "spot": {
-        "x": 0.55,
-        "y": 0.25,
-        "r": 0.3
+        "x": 0.3,
+        "y": 0.3,
+        "r": 0.25
        }
       },
       {
        "text": "So multiple aneurysms, or a 5 mm aneurysm, are not by themselves indications for an operation.",
        "t": 9415,
        "spot": {
-        "x": 0.55,
-        "y": 0.25,
-        "r": 0.3
+        "x": 0.3,
+        "y": 0.3,
+        "r": 0.25
        }
       },
       {
        "text": "Surgery, usually bypass grafting with arterial conduits, is indicated for progressive stenosis that threatens the myocardium, such as stenosis of the left anterior descending.",
        "t": 17123,
        "spot": {
-        "x": 0.52,
-        "y": 0.7,
-        "r": 0.18
+        "x": 0.5,
+        "y": 0.6,
+        "r": 0.25
        }
       },
       {
@@ -14474,40 +15381,40 @@
      ]
     }
    ],
-   "image": "gh:books/medcosmos-cardiac/media/medcos-q0064.webp",
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0064-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.1,
-      "y": 0.62,
-      "r": 0.08
+      "x": 0.85,
+      "y": 0.77,
+      "r": 0.11
      },
      "what": "Green Kawasaki motorcycle",
      "means": "Kawasaki disease"
     },
     {
      "spot": {
-      "x": 0.33,
-      "y": 0.12,
-      "r": 0.08
+      "x": 0.3,
+      "y": 0.25,
+      "r": 0.11
      },
      "what": "Pink bubbles on the spikes",
      "means": "Aneurysms: medicines and follow-up"
     },
     {
      "spot": {
-      "x": 0.85,
-      "y": 0.6,
-      "r": 0.12
+      "x": 0.7,
+      "y": 0.5,
+      "r": 0.15
      },
      "what": "Three pages, the slide narrower each month",
      "means": "Progressive LAD stenosis"
     },
     {
      "spot": {
-      "x": 0.52,
-      "y": 0.75,
-      "r": 0.12
+      "x": 0.4,
+      "y": 0.7,
+      "r": 0.13
      },
      "what": "Cabbage leaf over the front slide",
      "means": "Bypass surgery"
@@ -14797,8 +15704,8 @@
        "text": "في ورشة دافئة، وقف أينشتاين ذو الشعر الأبيض عند الباب بين بهوين أزرقين، ينظر.",
        "t": 0,
        "spot": {
-        "x": 0.48,
-        "y": 0.48,
+        "x": 0.47,
+        "y": 0.45,
         "r": 0.12
        }
       },
@@ -14806,8 +15713,8 @@
        "text": "في البهو الأيسر، بهو وليد صغير، لحم الرمح الثلاثيّ وأغلق بغطاء حديديّ غليظ.",
        "t": 7333,
        "spot": {
-        "x": 0.15,
-        "y": 0.85,
+        "x": 0.22,
+        "y": 0.68,
         "r": 0.12
        }
       },
@@ -14815,62 +15722,62 @@
        "text": "ووصل السبّاك توني خرطومًا من زعنفة الحوت إلى أنبوب الدولارات.",
        "t": 14654,
        "spot": {
-        "x": 0.22,
+        "x": 0.2,
         "y": 0.5,
-        "r": 0.2
+        "r": 0.18
        }
       },
       {
        "text": "فقال توني: «الصغير لا يحتمل رمحًا يرشح؛ نغلقه، ويأتي المال من الزعنفة.»",
        "t": 19719,
        "spot": {
-        "x": 0.28,
+        "x": 0.2,
         "y": 0.5,
-        "r": 0.12
+        "r": 0.18
        }
       },
       {
        "text": "وفي البهو الأيمن، كان الحرفيّ آيك يركّب رمحًا ثلاثيًّا جديدًا لامعًا من الفضّة.",
        "t": 27321,
        "spot": {
-        "x": 0.78,
-        "y": 0.4,
-        "r": 0.18
+        "x": 0.82,
+        "y": 0.35,
+        "r": 0.15
        }
       },
       {
        "text": "فركّبه فوق الحوض الصغير الّذي على صنبوره تاج أخضر، لا تحته.",
        "t": 33821,
        "spot": {
-        "x": 0.72,
-        "y": 0.65,
-        "r": 0.18
+        "x": 0.82,
+        "y": 0.7,
+        "r": 0.15
        }
       },
       {
        "text": "وتحت الحوض، كانت حزمة الأغصان تطقطق بالشّرر، فلم يمسّها.",
        "t": 39338,
        "spot": {
-        "x": 0.72,
-        "y": 0.88,
-        "r": 0.14
+        "x": 0.82,
+        "y": 0.85,
+        "r": 0.15
        }
       },
       {
        "text": "فقال آيك: «لو نزلت بإبرتي تحت الحوض، لقطعت الأغصان وانطفأ الشرر؛ فأبقى فوقه.»",
        "t": 45295,
        "spot": {
-        "x": 0.85,
-        "y": 0.45,
-        "r": 0.12
+        "x": 0.82,
+        "y": 0.35,
+        "r": 0.15
        }
       },
       {
        "text": "فهزّ أينشتاين رأسه راضيًا، وقال:",
        "t": 53143,
        "spot": {
-        "x": 0.48,
-        "y": 0.48,
+        "x": 0.47,
+        "y": 0.45,
         "r": 0.12
        }
       },
@@ -14892,15 +15799,15 @@
        "spot": {
         "x": 0.2,
         "y": 0.6,
-        "r": 0.28
+        "r": 0.25
        }
       },
       {
        "text": "When the tricuspid valve must be replaced, the prosthesis is sewn above the coronary sinus, so that the sutures stay away from the atrioventricular node and the conduction system: statement D is true.",
        "t": 13442,
        "spot": {
-        "x": 0.72,
-        "y": 0.7,
+        "x": 0.82,
+        "y": 0.6,
         "r": 0.25
        }
       },
@@ -14956,12 +15863,12 @@
      ]
     }
    ],
-   "image": "gh:books/medcosmos-cardiac/media/medcos-q0066.webp",
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0066-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.48,
-      "y": 0.48,
+      "x": 0.47,
+      "y": 0.45,
       "r": 0.09
      },
      "what": "Einstein watching",
@@ -14969,45 +15876,45 @@
     },
     {
      "spot": {
-      "x": 0.15,
-      "y": 0.83,
-      "r": 0.1
+      "x": 0.22,
+      "y": 0.7,
+      "r": 0.11
      },
      "what": "Iron cap welded shut",
      "means": "Tricuspid orifice closed in the newborn"
     },
     {
      "spot": {
-      "x": 0.22,
-      "y": 0.48,
-      "r": 0.12
+      "x": 0.2,
+      "y": 0.45,
+      "r": 0.13
      },
      "what": "Hose from the orca to the dollar pipe",
      "means": "Systemic-to-pulmonary shunt"
     },
     {
      "spot": {
-      "x": 0.78,
-      "y": 0.38,
-      "r": 0.11
+      "x": 0.82,
+      "y": 0.35,
+      "r": 0.13
      },
      "what": "New silver trident",
      "means": "Tricuspid valve replacement"
     },
     {
      "spot": {
-      "x": 0.7,
-      "y": 0.72,
-      "r": 0.09
+      "x": 0.82,
+      "y": 0.7,
+      "r": 0.11
      },
      "what": "Sink with the green crown, below the trident",
      "means": "Sewn above the coronary sinus"
     },
     {
      "spot": {
-      "x": 0.72,
-      "y": 0.88,
-      "r": 0.1
+      "x": 0.82,
+      "y": 0.87,
+      "r": 0.11
      },
      "what": "Sparking branches left untouched",
      "means": "Conduction system spared"
@@ -15033,17 +15940,17 @@
        "text": "عند الغسق في نيويورك، خرجت قبضة عملاقة من أحد أشعّة تاج الحرّيّة.",
        "t": 0,
        "spot": {
-        "x": 0.25,
-        "y": 0.4,
-        "r": 0.18
+        "x": 0.3,
+        "y": 0.3,
+        "r": 0.3
        }
       },
       {
        "text": "فلكمت زجاج البهو الأزرق في فندق الأيّل، وثقبته ثقبًا مستقيمًا.",
        "t": 6500,
        "spot": {
-        "x": 0.2,
-        "y": 0.4,
+        "x": 0.4,
+        "y": 0.55,
         "r": 0.18
        }
       },
@@ -15051,27 +15958,27 @@
        "text": "فاندفع الماء من الشعاع إلى البهو، لا يتوقّف ليلًا ولا نهارًا.",
        "t": 12772,
        "spot": {
-        "x": 0.15,
-        "y": 0.65,
-        "r": 0.18
+        "x": 0.35,
+        "y": 0.7,
+        "r": 0.2
        }
       },
       {
        "text": "وإلى جانب الثقب خلّاط إسمنت برتقاليّ يهدر بلا توقّف.",
        "t": 18497,
        "spot": {
-        "x": 0.5,
-        "y": 0.6,
-        "r": 0.12
+        "x": 0.12,
+        "y": 0.72,
+        "r": 0.15
        }
       },
       {
        "text": "فوقفت المفتّشة روث تستمع، ثمّ قالت: «هذا الصوت أعرفه!»",
        "t": 23613,
        "spot": {
-        "x": 0.35,
-        "y": 0.3,
-        "r": 0.25
+        "x": 0.5,
+        "y": 0.4,
+        "r": 0.4
        }
       },
       {
@@ -15079,8 +15986,8 @@
        "t": 29494,
        "spot": {
         "x": 0.85,
-        "y": 0.58,
-        "r": 0.14
+        "y": 0.65,
+        "r": 0.18
        }
       },
       {
@@ -15088,7 +15995,7 @@
        "t": 37347,
        "spot": {
         "x": 0.7,
-        "y": 0.6,
+        "y": 0.65,
         "r": 0.25
        }
       },
@@ -15105,18 +16012,18 @@
        "text": "فقالت: «بالمكان، وبالعين.»",
        "t": 52904,
        "spot": {
-        "x": 0.2,
-        "y": 0.4,
-        "r": 0.15
+        "x": 0.35,
+        "y": 0.5,
+        "r": 0.25
        }
       },
       {
        "text": "ثمّ أشارت إلى القبضة وقالت:",
        "t": 56769,
        "spot": {
-        "x": 0.2,
-        "y": 0.4,
-        "r": 0.15
+        "x": 0.4,
+        "y": 0.55,
+        "r": 0.18
        }
       },
       {
@@ -15135,18 +16042,18 @@
        "text": "A coronary artery fistula connects a coronary artery directly to a cardiac chamber or a vein, most often on the right side of the heart.",
        "t": 0,
        "spot": {
-        "x": 0.2,
-        "y": 0.4,
-        "r": 0.18
+        "x": 0.4,
+        "y": 0.5,
+        "r": 0.25
        }
       },
       {
        "text": "Blood flows through it in both systole and diastole, so it produces a continuous murmur like that of a patent ductus arteriosus.",
        "t": 8898,
        "spot": {
-        "x": 0.5,
-        "y": 0.6,
-        "r": 0.12
+        "x": 0.12,
+        "y": 0.72,
+        "r": 0.15
        }
       },
       {
@@ -15162,9 +16069,9 @@
        "text": "The murmur is usually heard lower on the chest than that of a ductus, over the chamber into which the fistula drains.",
        "t": 19678,
        "spot": {
-        "x": 0.7,
-        "y": 0.6,
-        "r": 0.25
+        "x": 0.85,
+        "y": 0.65,
+        "r": 0.18
        }
       }
      ],
@@ -15193,22 +16100,22 @@
      ]
     }
    ],
-   "image": "gh:books/medcosmos-cardiac/media/medcos-q0067.webp",
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0067-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.2,
-      "y": 0.42,
-      "r": 0.12
+      "x": 0.4,
+      "y": 0.5,
+      "r": 0.13
      },
      "what": "Fist punching from the crown into the blue lobby",
      "means": "Coronary artery fistula"
     },
     {
      "spot": {
-      "x": 0.48,
-      "y": 0.6,
-      "r": 0.1
+      "x": 0.12,
+      "y": 0.72,
+      "r": 0.12
      },
      "what": "Cement mixer roaring nonstop",
      "means": "Continuous murmur"
@@ -15216,8 +16123,8 @@
     {
      "spot": {
       "x": 0.85,
-      "y": 0.55,
-      "r": 0.11
+      "y": 0.62,
+      "r": 0.14
      },
      "what": "Duct-tape tunnel with an identical mixer",
      "means": "Like the murmur of a PDA"
@@ -15244,18 +16151,18 @@
        "text": "في ليلة مدخّنة تحت جسر بروكلين، في زمن العصابات القديم، ظهر رجل ببدلة مخطّطة وقبّعة مائلة.",
        "t": 0,
        "spot": {
-        "x": 0.5,
-        "y": 0.2,
-        "r": 0.25
+        "x": 0.45,
+        "y": 0.15,
+        "r": 0.3
        }
       },
       {
        "text": "كان آل كابوني نفسه، يحمل مفتاحًا كبيرًا وبرغيًّا.",
        "t": 8732,
        "spot": {
-        "x": 0.5,
-        "y": 0.4,
-        "r": 0.18
+        "x": 0.4,
+        "y": 0.35,
+        "r": 0.25
        }
       },
       {
@@ -15263,24 +16170,24 @@
        "t": 13390,
        "spot": {
         "x": 0.3,
-        "y": 0.72,
-        "r": 0.18
+        "y": 0.75,
+        "r": 0.25
        }
       },
       {
        "text": "وقال ضاحكًا: «التاج على المال، والمال لي!»",
        "t": 19298,
        "spot": {
-        "x": 0.5,
-        "y": 0.35,
-        "r": 0.12
+        "x": 0.45,
+        "y": 0.4,
+        "r": 0.15
        }
       },
       {
        "text": "فصار الشعاع يشرب من أنبوب المال ماءً باهتًا ضعيفًا، بدل الماء الأحمر القويّ.",
        "t": 23630,
        "spot": {
-        "x": 0.4,
+        "x": 0.35,
         "y": 0.85,
         "r": 0.15
        }
@@ -15289,45 +16196,45 @@
        "text": "ثمّ أخذ الماء يهرب من الشعاع نفسه إلى الأنبوب، فجفّ ما تحته.",
        "t": 30062,
        "spot": {
-        "x": 0.25,
-        "y": 0.65,
-        "r": 0.12
+        "x": 0.35,
+        "y": 0.85,
+        "r": 0.15
        }
       },
       {
        "text": "وفي الظلّ إلى اليمين، مهد فارغ، وإلى جانبه تابوت أبيض صغير.",
        "t": 35620,
        "spot": {
-        "x": 0.85,
-        "y": 0.45,
-        "r": 0.12
+        "x": 0.8,
+        "y": 0.75,
+        "r": 0.15
        }
       },
       {
        "text": "فقالت العجوز الّتي تبيع الورد على الجسر: «من بين كلّ حيله في التيجان، هذه أشدّها على الصغار؛ قليل منهم يبلغ عامه الأوّل.»",
        "t": 41364,
        "spot": {
-        "x": 0.85,
-        "y": 0.45,
-        "r": 0.12
+        "x": 0.8,
+        "y": 0.75,
+        "r": 0.15
        }
       },
       {
        "text": "ثمّ أضافت: «إلّا إذا أعاد أحد الشعاع إلى الحوت مبكّرًا.»",
        "t": 53110,
        "spot": {
-        "x": 0.6,
+        "x": 0.3,
         "y": 0.7,
-        "r": 0.2
+        "r": 0.25
        }
       },
       {
        "text": "ونظرت إلى المهد الفارغ وقالت:",
        "t": 58591,
        "spot": {
-        "x": 0.85,
-        "y": 0.4,
-        "r": 0.1
+        "x": 0.8,
+        "y": 0.75,
+        "r": 0.15
        }
       },
       {
@@ -15347,8 +16254,8 @@
        "t": 0,
        "spot": {
         "x": 0.3,
-        "y": 0.72,
-        "r": 0.18
+        "y": 0.75,
+        "r": 0.25
        }
       },
       {
@@ -15356,17 +16263,17 @@
        "t": 8205,
        "spot": {
         "x": 0.3,
-        "y": 0.72,
-        "r": 0.18
+        "y": 0.75,
+        "r": 0.25
        }
       },
       {
        "text": "Infants develop ischaemia, infarction and heart failure in the first months of life, and most die in the first year without an operation.",
        "t": 16225,
        "spot": {
-        "x": 0.85,
-        "y": 0.45,
-        "r": 0.12
+        "x": 0.8,
+        "y": 0.75,
+        "r": 0.15
        }
       },
       {
@@ -15382,9 +16289,9 @@
        "text": "Treatment is reimplantation of the left coronary artery into the aorta, to create a two-coronary system.",
        "t": 27616,
        "spot": {
-        "x": 0.6,
+        "x": 0.3,
         "y": 0.7,
-        "r": 0.2
+        "r": 0.25
        }
       }
      ],
@@ -15413,31 +16320,31 @@
      ]
     }
    ],
-   "image": "gh:books/medcosmos-cardiac/media/medcos-q0068.webp",
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0068-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.48,
-      "y": 0.4,
-      "r": 0.12
+      "x": 0.45,
+      "y": 0.3,
+      "r": 0.15
      },
      "what": "Al Capone",
      "means": "ALCAPA"
     },
     {
      "spot": {
-      "x": 0.28,
-      "y": 0.7,
-      "r": 0.12
+      "x": 0.3,
+      "y": 0.75,
+      "r": 0.17
      },
      "what": "Left spike bolted onto the dollar pipe",
      "means": "Left coronary from the pulmonary artery"
     },
     {
      "spot": {
-      "x": 0.88,
-      "y": 0.48,
-      "r": 0.09
+      "x": 0.8,
+      "y": 0.75,
+      "r": 0.11
      },
      "what": "Tiny white coffin by an empty crib",
      "means": "Death in infancy"
@@ -15463,8 +16370,8 @@
        "text": "في عصر مشمس في حديقة واشنطن سكوير، تدلّى فوق طاولة الشطرنج أنبوب محشوّ بالدّولارات.",
        "t": 0,
        "spot": {
-        "x": 0.3,
-        "y": 0.15,
+        "x": 0.25,
+        "y": 0.2,
         "r": 0.2
        }
       },
@@ -15472,72 +16379,72 @@
        "text": "ومنه في هدوء، نبت الشعاع الأيمن من تاج حرّيّة أخضر صغير.",
        "t": 8351,
        "spot": {
-        "x": 0.62,
-        "y": 0.27,
-        "r": 0.14
+        "x": 0.65,
+        "y": 0.2,
+        "r": 0.15
        }
       },
       {
        "text": "وتحته جلس العجوز مويشا يلعب الشطرنج بهدوء، وإلى جانب الرقعة كعكة عليها شمعة التسعين.",
        "t": 14484,
        "spot": {
-        "x": 0.6,
-        "y": 0.6,
-        "r": 0.3
+        "x": 0.5,
+        "y": 0.55,
+        "r": 0.25
        }
       },
       {
        "text": "فقال له خصمه الشابّ: «يا عمّ، ألا ترى الشعاع النابت من أنبوب المال فوق رأسك؟»",
        "t": 23226,
        "spot": {
-        "x": 0.55,
-        "y": 0.22,
-        "r": 0.18
+        "x": 0.65,
+        "y": 0.2,
+        "r": 0.15
        }
       },
       {
        "text": "فقال مويشا: «هو هناك منذ ولدت؛ ولم يزعجني يومًا واحدًا.»",
        "t": 30224,
        "spot": {
-        "x": 0.55,
+        "x": 0.5,
         "y": 0.45,
-        "r": 0.15
+        "r": 0.2
        }
       },
       {
        "text": "ثمّ قال: «الشعاع الأيمن صغير، وإخوته من الجهة الأخرى يسقون التاج كلّه.»",
        "t": 37023,
        "spot": {
-        "x": 0.62,
-        "y": 0.27,
-        "r": 0.14
+        "x": 0.65,
+        "y": 0.2,
+        "r": 0.15
        }
       },
       {
        "text": "ثمّ ضحك: «ولو نبت الشعاعان كلاهما من الأنبوب، لما جلست هنا ألعب معك.»",
        "t": 44768,
        "spot": {
-        "x": 0.55,
-        "y": 0.45,
-        "r": 0.15
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.3
        }
       },
       {
        "text": "وحرّك وزيره وقال: «كش ملك.»",
        "t": 52313,
        "spot": {
-        "x": 0.45,
-        "y": 0.72,
-        "r": 0.12
+        "x": 0.5,
+        "y": 0.7,
+        "r": 0.15
        }
       },
       {
        "text": "فضحك الشابّ، ونظر مويشا إلى الشعاع الساكن وقال:",
        "t": 55900,
        "spot": {
-        "x": 0.62,
-        "y": 0.27,
-        "r": 0.14
+        "x": 0.65,
+        "y": 0.2,
+        "r": 0.15
        }
       },
       {
@@ -15556,17 +16463,17 @@
        "text": "When only the right coronary artery arises from the pulmonary artery, the left coronary system supplies most of the myocardium at systemic pressure.",
        "t": 0,
        "spot": {
-        "x": 0.62,
-        "y": 0.27,
-        "r": 0.14
+        "x": 0.6,
+        "y": 0.2,
+        "r": 0.18
        }
       },
       {
        "text": "Symptoms are few or absent, and life expectancy is nearly normal.",
        "t": 9425,
        "spot": {
-        "x": 0.7,
-        "y": 0.6,
+        "x": 0.5,
+        "y": 0.45,
         "r": 0.25
        }
       },
@@ -15614,34 +16521,270 @@
      ]
     }
    ],
-   "image": "gh:books/medcosmos-cardiac/media/medcos-q0069.webp",
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0069-b.webp",
    "marks": [
     {
      "spot": {
       "x": 0.62,
-      "y": 0.25,
-      "r": 0.11
+      "y": 0.2,
+      "r": 0.13
      },
      "what": "Right spike growing out of the dollar pipe",
      "means": "Right coronary from the pulmonary artery"
     },
     {
      "spot": {
-      "x": 0.55,
+      "x": 0.5,
       "y": 0.45,
-      "r": 0.13
+      "r": 0.15
      },
      "what": "Calm old man playing chess",
      "means": "Few or no symptoms"
     },
     {
      "spot": {
-      "x": 0.85,
-      "y": 0.72,
+      "x": 0.88,
+      "y": 0.67,
       "r": 0.09
      },
      "what": "Cake with a 90 candle",
      "means": "Nearly normal life expectancy"
+    }
+   ]
+  },
+  {
+   "id": "medcos-q0070",
+   "title": "Aortic stenosis: replace the valve once there is syncope, angina or heart failure",
+   "titleAr": "تضيّق الصمام الأبهري: يُستبدل الصمام متى ظهر الإغماء أو الذبحة أو قصور القلب",
+   "tags": [
+    "cardiac/aortic-valve",
+    "d:indications",
+    "q:recall",
+    "l:1",
+    "x:high-yield"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في عيادة أسنان بيضاء في الجادّة الخامسة، طفا حوت ضخم من البالونات في كرسيّ الطبيب.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.45
+       }
+      },
+      {
+       "text": "كان فمه قد ضاق حتّى صار شقًّا رفيعًا، لا يكاد يمرّ منه نفس.",
+       "t": 7120,
+       "spot": {
+        "x": 0.62,
+        "y": 0.28,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "وفي غرفة الانتظار جاء معه ثلاثة رفقاء.",
+       "t": 12912,
+       "spot": {
+        "x": 0.3,
+        "y": 0.6,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "رجل سقط مغشيًّا عليه إلى الخلف على أريكة من المخمل الأحمر.",
+       "t": 16742,
+       "spot": {
+        "x": 0.15,
+        "y": 0.4,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "ورجل على مقعد يجثم على صدره ملاك ثقيل من الحجر.",
+       "t": 21990,
+       "spot": {
+        "x": 0.25,
+        "y": 0.8,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "ومن النافذة الكبيرة، سيّارات الأجرة الصفراء متلاصقة لا تتحرّك.",
+       "t": 26984,
+       "spot": {
+        "x": 0.88,
+        "y": 0.3,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فقال الطبيب إيلاي: «ما دام الفم ضيّقًا ولا شيء من هذا، أنتظر؛ أمّا الآن فقد جاء الثلاثة.»",
+       "t": 33204,
+       "spot": {
+        "x": 0.8,
+        "y": 0.4,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "ثمّ نزع الفم الضيّق، وركّب للحوت طقم أسنان جديدًا لامعًا.",
+       "t": 41748,
+       "spot": {
+        "x": 0.62,
+        "y": 0.28,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "ففتح الحوت فمه واسعًا، واستيقظ الرجل على الأريكة، وطار الملاك عن الصدر.",
+       "t": 47260,
+       "spot": {
+        "x": 0.5,
+        "y": 0.45,
+        "r": 0.4
+       }
+      },
+      {
+       "text": "فنظر إيلاي إلى الرجل الّذي أفاق لتوّه وقال:",
+       "t": 54138,
+       "spot": {
+        "x": 0.15,
+        "y": 0.4,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«لا يعرف سرّ هذا الوعي إلّا من غاب عن وعيه، ولا مشتري للّسان إلّا الأذن.»",
+       "quote": "جلال الدين الرومي، المثنوي، الكتاب الأول",
+       "t": 58932
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0070-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "In aortic stenosis, the onset of symptoms is the turning point: once angina, syncope or congestive heart failure appear, survival without an operation falls to a few years.",
+       "t": 0,
+       "spot": {
+        "x": 0.62,
+        "y": 0.28,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "So syncope, heart failure and angina are all indications for aortic valve replacement: A, B and C are the answer.",
+       "t": 12855,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.45
+       }
+      },
+      {
+       "text": "A gradient of 35 mm Hg without symptoms is mild and is not an indication.",
+       "t": 21881,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.45
+       }
+      },
+      {
+       "text": "Average survival after symptoms begin is about five years with angina, three with syncope and two with heart failure.",
+       "t": 29036,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.45
+       }
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0070-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which of the following is/are indications for aortic valve replacement for aortic stenosis?",
+     "options": [
+      "Syncope.",
+      "Congestive heart failure.",
+      "Angina.",
+      "Transvalvar gradient of 35 mm. Hg without symptoms."
+     ],
+     "answer": 0,
+     "explain": "In aortic stenosis, the onset of symptoms is the turning point: once angina, syncope or congestive heart failure appear, survival without an operation falls to a few years. So syncope, heart failure and angina are all indications for aortic valve replacement: A, B and C are the answer. A gradient of 35 mm Hg without symptoms is mild and is not an indication. Average survival after symptoms begin is about five years with angina, three with syncope and two with heart failure.",
+     "lang": "en",
+     "source": "MedCosmos Cardiac, Q70",
+     "answers": [
+      0,
+      1,
+      2
+     ],
+     "marks": [
+      2
+     ],
+     "answerMarks": [
+      1,
+      3,
+      4,
+      5
+     ]
+    }
+   ],
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0070-b.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.62,
+      "y": 0.28,
+      "r": 0.1
+     },
+     "what": "Dentist fitting new dentures in the orca",
+     "means": "Aortic valve replacement"
+    },
+    {
+     "spot": {
+      "x": 0.55,
+      "y": 0.3,
+      "r": 0.08
+     },
+     "what": "Orca's mouth narrowed to a slit",
+     "means": "Aortic stenosis"
+    },
+    {
+     "spot": {
+      "x": 0.15,
+      "y": 0.42,
+      "r": 0.12
+     },
+     "what": "Man fainted on the red couch",
+     "means": "Syncope"
+    },
+    {
+     "spot": {
+      "x": 0.25,
+      "y": 0.82,
+      "r": 0.13
+     },
+     "what": "Stone angel on a man's chest",
+     "means": "Angina"
+    },
+    {
+     "spot": {
+      "x": 0.88,
+      "y": 0.3,
+      "r": 0.1
+     },
+     "what": "Gridlocked taxis through the window",
+     "means": "Congestive heart failure"
     }
    ]
   },
@@ -15665,7 +16808,7 @@
        "t": 0,
        "spot": {
         "x": 0.65,
-        "y": 0.3,
+        "y": 0.2,
         "r": 0.18
        }
       },
@@ -15673,34 +16816,34 @@
        "text": "فجاء طبيب الأسنان إيلاي بطقم أسنان جديد، ووقف عند الباب مستعدًّا.",
        "t": 9079,
        "spot": {
-        "x": 0.1,
-        "y": 0.62,
-        "r": 0.12
+        "x": 0.15,
+        "y": 0.75,
+        "r": 0.13
        }
       },
       {
        "text": "لكنّ المفتّشة روث قالت: «انتظر يا إيلاي؛ دعني أقيس الغرفة أوّلًا.»",
        "t": 15722,
        "spot": {
-        "x": 0.42,
+        "x": 0.4,
         "y": 0.55,
-        "r": 0.15
+        "r": 0.12
        }
       },
       {
        "text": "فمدّت شريط قياس أصفر عبر الغرفة الحمراء ومروحتها، فإذا عليه مكتوب: طبيعيّ.",
        "t": 22726,
        "spot": {
-        "x": 0.55,
-        "y": 0.55,
-        "r": 0.18
+        "x": 0.65,
+        "y": 0.5,
+        "r": 0.2
        }
       },
       {
        "text": "وقالت: «الغرفة بحجمها، والمروحة تدور بقوّتها، والقطر قليل.»",
        "t": 30485,
        "spot": {
-        "x": 0.7,
+        "x": 0.75,
         "y": 0.5,
         "r": 0.2
        }
@@ -15709,45 +16852,45 @@
        "text": "فتقدّم الصيدلانيّ وناول صاحب الفندق قنّينةً بيضاء من الحبوب.",
        "t": 37822,
        "spot": {
-        "x": 0.75,
-        "y": 0.75,
-        "r": 0.15
+        "x": 0.7,
+        "y": 0.85,
+        "r": 0.13
        }
       },
       {
        "text": "وقال: «هذه الحبوب، وتعود روث تقيس الغرفة كلّ عام.»",
        "t": 43606,
        "spot": {
-        "x": 0.75,
-        "y": 0.72,
-        "r": 0.1
+        "x": 0.7,
+        "y": 0.85,
+        "r": 0.13
        }
       },
       {
        "text": "فسأل إيلاي: «ومتى يأتي دوري؟»",
        "t": 49256,
        "spot": {
-        "x": 0.1,
-        "y": 0.62,
-        "r": 0.12
+        "x": 0.15,
+        "y": 0.75,
+        "r": 0.13
        }
       },
       {
        "text": "فقالت روث: «إذا اتّسعت الغرفة كثيرًا، أو تعبت المروحة، أو ضاق النفس بصاحبها؛ يومها تدخل قبل أن يفوت الأوان.»",
        "t": 52737,
        "spot": {
-        "x": 0.42,
+        "x": 0.4,
         "y": 0.55,
-        "r": 0.15
+        "r": 0.12
        }
       },
       {
        "text": "ثمّ نظرت إلى صاحب الفندق المطمئنّ وقالت:",
        "t": 63847,
        "spot": {
-        "x": 0.88,
-        "y": 0.72,
-        "r": 0.12
+        "x": 0.85,
+        "y": 0.85,
+        "r": 0.13
        }
       },
       {
@@ -15767,7 +16910,7 @@
        "t": 0,
        "spot": {
         "x": 0.65,
-        "y": 0.3,
+        "y": 0.2,
         "r": 0.18
        }
       },
@@ -15776,26 +16919,26 @@
        "t": 8521,
        "spot": {
         "x": 0.65,
-        "y": 0.65,
-        "r": 0.25
+        "y": 0.5,
+        "r": 0.2
        }
       },
       {
        "text": "Cardiomegaly on the chest film, symptoms of heart failure, or an end-systolic dimension as large as 70 mm all point to operation.",
        "t": 19827,
        "spot": {
-        "x": 0.1,
-        "y": 0.62,
-        "r": 0.12
+        "x": 0.15,
+        "y": 0.75,
+        "r": 0.13
        }
       },
       {
        "text": "An end-systolic dimension above about 50 to 55 mm warns that the ventricle is beginning to fail, and the valve should be replaced before the damage is permanent.",
        "t": 29251,
        "spot": {
-        "x": 0.55,
-        "y": 0.55,
-        "r": 0.18
+        "x": 0.65,
+        "y": 0.5,
+        "r": 0.2
        }
       }
      ],
@@ -15825,40 +16968,40 @@
      ]
     }
    ],
-   "image": "gh:books/medcosmos-cardiac/media/medcos-q0071.webp",
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0071-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.65,
-      "y": 0.32,
-      "r": 0.13
+      "x": 0.6,
+      "y": 0.2,
+      "r": 0.15
      },
      "what": "Orca's sagging mouth dripping back",
      "means": "Moderate aortic insufficiency"
     },
     {
      "spot": {
-      "x": 0.55,
-      "y": 0.55,
-      "r": 0.13
+      "x": 0.65,
+      "y": 0.5,
+      "r": 0.15
      },
      "what": "Tape across the red room: NORMAL",
      "means": "Normal end-systolic dimension"
     },
     {
      "spot": {
-      "x": 0.75,
-      "y": 0.72,
-      "r": 0.09
+      "x": 0.7,
+      "y": 0.85,
+      "r": 0.11
      },
      "what": "Pharmacist handing over pills",
      "means": "Medical management"
     },
     {
      "spot": {
-      "x": 0.1,
-      "y": 0.62,
-      "r": 0.1
+      "x": 0.15,
+      "y": 0.75,
+      "r": 0.11
      },
      "what": "Dentist waiting with new dentures",
      "means": "Valve replacement can wait"
@@ -15886,8 +17029,8 @@
        "t": 0,
        "spot": {
         "x": 0.45,
-        "y": 0.3,
-        "r": 0.12
+        "y": 0.35,
+        "r": 0.15
        }
       },
       {
@@ -15895,7 +17038,7 @@
        "t": 6051,
        "spot": {
         "x": 0.45,
-        "y": 0.35,
+        "y": 0.45,
         "r": 0.3
        }
       },
@@ -15904,7 +17047,7 @@
        "t": 12177,
        "spot": {
         "x": 0.45,
-        "y": 0.15,
+        "y": 0.22,
         "r": 0.12
        }
       },
@@ -15912,9 +17055,9 @@
        "text": "ومن تحت خرجت كرات بولينغ سوداء من الحوت، فتدحرجت في الشارع وأسقطت عربة الفاكهة.",
        "t": 18106,
        "spot": {
-        "x": 0.55,
-        "y": 0.78,
-        "r": 0.25
+        "x": 0.5,
+        "y": 0.8,
+        "r": 0.2
        }
       },
       {
@@ -15922,17 +17065,17 @@
        "t": 25124,
        "spot": {
         "x": 0.45,
-        "y": 0.38,
-        "r": 0.3
+        "y": 0.4,
+        "r": 0.12
        }
       },
       {
        "text": "وفي الأعلى، أخذ عدّاد أنبوب الدولارات يميل أعمق فأعمق في الأحمر.",
        "t": 30920,
        "spot": {
-        "x": 0.25,
-        "y": 0.08,
-        "r": 0.1
+        "x": 0.28,
+        "y": 0.1,
+        "r": 0.12
        }
       },
       {
@@ -15940,7 +17083,7 @@
        "t": 36572,
        "spot": {
         "x": 0.45,
-        "y": 0.35,
+        "y": 0.45,
         "r": 0.3
        }
       },
@@ -15950,15 +17093,15 @@
        "spot": {
         "x": 0.5,
         "y": 0.5,
-        "r": 0.45
+        "r": 0.4
        }
       },
       {
        "text": "ثمّ نظرت إلى الكرات المتدحرجة في الشارع وقالت:",
        "t": 53963,
        "spot": {
-        "x": 0.4,
-        "y": 0.78,
+        "x": 0.7,
+        "y": 0.8,
         "r": 0.18
        }
       },
@@ -15979,7 +17122,7 @@
        "t": 0,
        "spot": {
         "x": 0.45,
-        "y": 0.3,
+        "y": 0.4,
         "r": 0.12
        }
       },
@@ -16006,8 +17149,8 @@
        "t": 21710,
        "spot": {
         "x": 0.45,
-        "y": 0.45,
-        "r": 0.4
+        "y": 0.22,
+        "r": 0.12
        }
       }
      ],
@@ -16044,31 +17187,31 @@
      ]
     }
    ],
-   "image": "gh:books/medcosmos-cardiac/media/medcos-q0072.webp",
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0072-b.webp",
    "marks": [
     {
      "spot": {
       "x": 0.45,
-      "y": 0.3,
-      "r": 0.1
+      "y": 0.48,
+      "r": 0.09
      },
      "what": "Mitre squeezed narrow",
      "means": "Mitral stenosis"
     },
     {
      "spot": {
-      "x": 0.35,
-      "y": 0.8,
-      "r": 0.13
+      "x": 0.5,
+      "y": 0.82,
+      "r": 0.15
      },
      "what": "Bowling balls rolling out of the orca",
      "means": "Systemic embolization"
     },
     {
      "spot": {
-      "x": 0.2,
-      "y": 0.35,
-      "r": 0.1
+      "x": 0.4,
+      "y": 0.4,
+      "r": 0.07
      },
      "what": "Cards sprouting broccoli",
      "means": "Infective endocarditis"
@@ -16076,20 +17219,244 @@
     {
      "spot": {
       "x": 0.45,
-      "y": 0.15,
-      "r": 0.1
+      "y": 0.2,
+      "r": 0.11
      },
      "what": "Pinocchio trembling",
      "means": "New atrial fibrillation"
     },
     {
      "spot": {
-      "x": 0.25,
-      "y": 0.08,
-      "r": 0.08
+      "x": 0.28,
+      "y": 0.1,
+      "r": 0.1
      },
      "what": "Gauge sinking into the red",
      "means": "Worsening pulmonary hypertension"
+    }
+   ]
+  },
+  {
+   "id": "medcos-q0073",
+   "title": "Not true: tricuspid regurgitation mostly comes from the leaflets; mitral replacement must remove the chordae",
+   "titleAr": "ليس صحيحًا: أنّ قصور ثلاثي الشرف ينشأ غالبًا من الشُّرف نفسها، وأنّ استبدال التاجي يتطلّب استئصال الحبال الوترية",
+   "tags": [
+    "cardiac/mitral-tricuspid",
+    "d:technique",
+    "q:recall",
+    "l:2",
+    "x:trap"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في ورشة دافئة، كان الحرفيّ آيك يركّب تاج أسقف جديدًا في أرض البهو الأحمر.",
+       "t": 0,
+       "spot": {
+        "x": 0.65,
+        "y": 0.35,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "وكانت تحت التاج القديم أوتار قيثارة ذهبيّة، تربطه بأرض غرفة المحرّكات.",
+       "t": 7420,
+       "spot": {
+        "x": 0.65,
+        "y": 0.6,
+        "r": 0.22
+       }
+      },
+      {
+       "text": "فقال صبيّه: «أقصّ الأوتار يا معلّم؟ التاج جديد!»",
+       "t": 14976,
+       "spot": {
+        "x": 0.5,
+        "y": 0.4,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فقال آيك: «لا تقصّها؛ هذه الأوتار تمسك جدران الغرفة أن تترهّل؛ نربطها بالتّاج الجديد.»",
+       "t": 20444,
+       "spot": {
+        "x": 0.65,
+        "y": 0.6,
+        "r": 0.22
+       }
+      },
+      {
+       "text": "فربط الأوتار القديمة بالتّاج الجديد واحدًا واحدًا.",
+       "t": 29339,
+       "spot": {
+        "x": 0.65,
+        "y": 0.55,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "ثمّ ذهب إلى البهو الأزرق، حيث كان الماء يتسرّب حول الرمح الثلاثيّ.",
+       "t": 34294,
+       "spot": {
+        "x": 0.2,
+        "y": 0.4,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "فنظر الصبيّ إلى شعب الرمح وقال: «الشعب مكسورة إذن!»",
+       "t": 40823,
+       "spot": {
+        "x": 0.22,
+        "y": 0.35,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فقال آيك: «انظر جيّدًا: الشعب سليمة كلّها؛ إنّما اتّسعت الحلقة حولها، فلم تعد تلتقي.»",
+       "t": 46403,
+       "spot": {
+        "x": 0.22,
+        "y": 0.45,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "ثمّ قال: «وهكذا أكثر ما يرشح من هذا الرمح: الحلقة، لا الشعب.»",
+       "t": 55773,
+       "spot": {
+        "x": 0.22,
+        "y": 0.45,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فأخذ الصبيّ يضمّ الأوتار إلى التاج الجديد بحنوّ، فقال آيك:",
+       "t": 62442,
+       "spot": {
+        "x": 0.65,
+        "y": 0.4,
+        "r": 0.22
+       }
+      },
+      {
+       "text": "«فتح ذراعيه واحتضنه، وأخذه في قلبه وروحه كالعشق.»",
+       "quote": "جلال الدين الرومي، المثنوي، الكتاب الأول",
+       "t": 69339
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0073-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "The question asks which statements are not true.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.45
+       }
+      },
+      {
+       "text": "Tricuspid regurgitation is most often functional, from annular dilatation secondary to left-sided disease and pulmonary hypertension, not from abnormal leaflets, so statement C is not true.",
+       "t": 3297,
+       "spot": {
+        "x": 0.22,
+        "y": 0.45,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "Mitral valve replacement does not require resection of the leaflets and chordae; preserving the chordae protects left ventricular function, so statement D is not true.",
+       "t": 16607,
+       "spot": {
+        "x": 0.65,
+        "y": 0.55,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "So C and D are the answer.",
+       "t": 27436,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.45
+       }
+      },
+      {
+       "text": "Statements A and B are true: operation improves survival in severe symptomatic mitral disease, and left ventricular dilatation is an indication even with mild symptoms.",
+       "t": 29733,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.45
+       }
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0073-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which of the following is/are not true?",
+     "options": [
+      "Operation improves survival in patients with severe, symptomatic mitral valve disease.",
+      "Left ventricular dilatation with class I or class II heart failure is an indication for operation with mitral regurgitation.",
+      "Tricuspid regurgitation is most commonly caused by abnormalities of the leaflets themselves.",
+      "Mitral valve replacement requires resection of the mitral valve leaflets and chordae."
+     ],
+     "answer": 2,
+     "explain": "The question asks which statements are not true. Tricuspid regurgitation is most often functional, from annular dilatation secondary to left-sided disease and pulmonary hypertension, not from abnormal leaflets, so statement C is not true. Mitral valve replacement does not require resection of the leaflets and chordae; preserving the chordae protects left ventricular function, so statement D is not true. So C and D are the answer. Statements A and B are true: operation improves survival in severe symptomatic mitral disease, and left ventricular dilatation is an indication even with mild symptoms.",
+     "lang": "en",
+     "source": "MedCosmos Cardiac, Q73",
+     "answers": [
+      2,
+      3
+     ],
+     "marks": [
+      2
+     ],
+     "answerMarks": [
+      1,
+      3
+     ]
+    }
+   ],
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0073-b.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.22,
+      "y": 0.38,
+      "r": 0.13
+     },
+     "what": "Trident's prongs normal, ring stretched",
+     "means": "TR from annular dilatation, not the leaflets"
+    },
+    {
+     "spot": {
+      "x": 0.68,
+      "y": 0.28,
+      "r": 0.12
+     },
+     "what": "Brand-new mitre being fitted",
+     "means": "Mitral valve replacement"
+    },
+    {
+     "spot": {
+      "x": 0.65,
+      "y": 0.45,
+      "r": 0.11
+     },
+     "what": "Golden harp strings kept tied to it",
+     "means": "Chordae preserved"
     }
    ]
   },
@@ -16113,17 +17480,17 @@
        "text": "في يوم رماديّ ماطر، انتفخ الجناح الأزرق من فندق الأيّل كإسفنجة مبلولة.",
        "t": 0,
        "spot": {
-        "x": 0.15,
-        "y": 0.3,
-        "r": 0.18
+        "x": 0.2,
+        "y": 0.25,
+        "r": 0.22
        }
       },
       {
        "text": "فقد كان الرمح الثلاثيّ في أرض البهو الأزرق يرجع الماء إلى الوراء، فيمتلئ الجناح وما خلفه من شوارع.",
        "t": 6578,
        "spot": {
-        "x": 0.4,
-        "y": 0.55,
+        "x": 0.3,
+        "y": 0.52,
         "r": 0.15
        }
       },
@@ -16131,8 +17498,8 @@
        "text": "وانتفخت الجدران والأرض والمخزن الكبير في الخلف، حتّى توقّف المخزن عن العمل.",
        "t": 14620,
        "spot": {
-        "x": 0.25,
-        "y": 0.35,
+        "x": 0.2,
+        "y": 0.25,
         "r": 0.22
        }
       },
@@ -16140,26 +17507,26 @@
        "text": "وعند باب الجناح الأزرق وقف البوّاب كارلوس.",
        "t": 21186,
        "spot": {
-        "x": 0.63,
+        "x": 0.55,
         "y": 0.55,
-        "r": 0.15
+        "r": 0.18
        }
       },
       {
        "text": "فجاءه حصان بنّيّ أجشّ الصوت يطلب الدخول.",
        "t": 25115,
        "spot": {
-        "x": 0.25,
-        "y": 0.45,
-        "r": 0.13
+        "x": 0.2,
+        "y": 0.55,
+        "r": 0.15
        }
       },
       {
        "text": "وجاء بعده رجل يحمل دولارات مبتلّةً يقطر منها الماء.",
        "t": 29287,
        "spot": {
-        "x": 0.25,
-        "y": 0.7,
+        "x": 0.2,
+        "y": 0.8,
         "r": 0.15
        }
       },
@@ -16169,7 +17536,7 @@
        "spot": {
         "x": 0.5,
         "y": 0.45,
-        "r": 0.1
+        "r": 0.15
        }
       },
       {
@@ -16177,7 +17544,7 @@
        "t": 38769,
        "spot": {
         "x": 0.85,
-        "y": 0.35,
+        "y": 0.45,
         "r": 0.15
        }
       },
@@ -16185,8 +17552,8 @@
        "text": "فمضى الحصان والرّجل إلى الجناح الأحمر، وبقي كارلوس ينظر إلى جناحه المنتفخ ويقول:",
        "t": 47822,
        "spot": {
-        "x": 0.63,
-        "y": 0.55,
+        "x": 0.85,
+        "y": 0.45,
         "r": 0.15
        }
       },
@@ -16207,7 +17574,7 @@
        "t": 0,
        "spot": {
         "x": 0.2,
-        "y": 0.35,
+        "y": 0.25,
         "r": 0.22
        }
       },
@@ -16215,8 +17582,8 @@
        "text": "Pulmonary oedema is a feature of left-sided disease such as mitral stenosis, not of isolated tricuspid disease.",
        "t": 11447,
        "spot": {
-        "x": 0.25,
-        "y": 0.7,
+        "x": 0.2,
+        "y": 0.8,
         "r": 0.15
        }
       },
@@ -16224,18 +17591,18 @@
        "text": "Hoarseness, from compression of the left recurrent laryngeal nerve by a large left atrium (Ortner's syndrome), also belongs to mitral disease.",
        "t": 19521,
        "spot": {
-        "x": 0.25,
-        "y": 0.45,
-        "r": 0.13
+        "x": 0.2,
+        "y": 0.55,
+        "r": 0.15
        }
       },
       {
        "text": "So A and D are the answer.",
        "t": 29497,
        "spot": {
-        "x": 0.5,
-        "y": 0.5,
-        "r": 0.45
+        "x": 0.85,
+        "y": 0.45,
+        "r": 0.15
        }
       }
      ],
@@ -16270,40 +17637,40 @@
      ]
     }
    ],
-   "image": "gh:books/medcosmos-cardiac/media/medcos-q0074.webp",
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0074-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.4,
-      "y": 0.58,
-      "r": 0.1
+      "x": 0.3,
+      "y": 0.48,
+      "r": 0.08
      },
      "what": "Trident leaking in the blue lobby",
      "means": "Tricuspid valve disease"
     },
     {
      "spot": {
-      "x": 0.15,
-      "y": 0.3,
-      "r": 0.14
+      "x": 0.2,
+      "y": 0.25,
+      "r": 0.18
      },
      "what": "Blue wing swollen like a sponge",
      "means": "Venous congestion, anasarca, liver failure"
     },
     {
      "spot": {
-      "x": 0.25,
-      "y": 0.45,
-      "r": 0.1
+      "x": 0.15,
+      "y": 0.52,
+      "r": 0.11
      },
      "what": "Hoarse brown horse turned away",
      "means": "Hoarseness: not tricuspid"
     },
     {
      "spot": {
-      "x": 0.25,
-      "y": 0.72,
-      "r": 0.11
+      "x": 0.2,
+      "y": 0.8,
+      "r": 0.12
      },
      "what": "Soggy dollars turned away",
      "means": "Pulmonary oedema: not tricuspid"
@@ -16311,8 +17678,8 @@
     {
      "spot": {
       "x": 0.85,
-      "y": 0.35,
-      "r": 0.12
+      "y": 0.45,
+      "r": 0.11
      },
      "what": "The red wing he points to",
      "means": "They belong to mitral disease"
@@ -16338,35 +17705,35 @@
        "text": "في البهو الأحمر المضاء كالكاتدرائيّة، جلس الأسقف وعلى رأسه تاج ثقيل.",
        "t": 0,
        "spot": {
-        "x": 0.4,
-        "y": 0.3,
-        "r": 0.25
+        "x": 0.5,
+        "y": 0.2,
+        "r": 0.2
        }
       },
       {
        "text": "كان تاجه القديم قد تحوّل حجرًا أبيض صلبًا متشقّقًا، لا ينثني ولا ينفتح.",
        "t": 6527,
        "spot": {
-        "x": 0.22,
-        "y": 0.12,
-        "r": 0.12
+        "x": 0.15,
+        "y": 0.25,
+        "r": 0.15
        }
       },
       {
        "text": "فجاء الخيّاط عزرا بإبرته وخيطه الذهبيّ، فحاول أن يخيطه، فانكسرت الإبرة.",
        "t": 13535,
        "spot": {
-        "x": 0.5,
+        "x": 0.7,
         "y": 0.65,
-        "r": 0.18
+        "r": 0.22
        }
       },
       {
        "text": "فقال عزرا: «ما صار حجرًا لا تدخله إبرة؛ هذا يبدّل ولا يخاط.»",
        "t": 20674,
        "spot": {
-        "x": 0.7,
-        "y": 0.5,
+        "x": 0.15,
+        "y": 0.25,
         "r": 0.15
        }
       },
@@ -16374,17 +17741,17 @@
        "text": "فخلع الأسقف التاج الحجريّ، ولبس تاجًا جديدًا أرجوانيًّا وذهبيًّا.",
        "t": 27838,
        "spot": {
-        "x": 0.42,
-        "y": 0.18,
-        "r": 0.1
+        "x": 0.45,
+        "y": 0.2,
+        "r": 0.12
        }
       },
       {
        "text": "وإلى جانبهما جاء أصحاب تيجان أخرى: تاج يرشح، وتاج انقطع أحد أوتاره، وتاج اتّسعت حلقته.",
        "t": 34233,
        "spot": {
-        "x": 0.4,
-        "y": 0.7,
+        "x": 0.5,
+        "y": 0.75,
         "r": 0.3
        }
       },
@@ -16392,7 +17759,7 @@
        "text": "فأخذ عزرا يخيط الأوّل، ويربط الوتر المقطوع، ويضيّق الحلقة المتّسعة.",
        "t": 43654,
        "spot": {
-        "x": 0.5,
+        "x": 0.7,
         "y": 0.7,
         "r": 0.25
        }
@@ -16402,17 +17769,17 @@
        "t": 50481,
        "spot": {
         "x": 0.7,
-        "y": 0.5,
-        "r": 0.15
+        "y": 0.7,
+        "r": 0.25
        }
       },
       {
        "text": "فنظر الأسقف إلى تاجه الحجريّ على الأرض، فقال عزرا:",
        "t": 56629,
        "spot": {
-        "x": 0.22,
-        "y": 0.12,
-        "r": 0.12
+        "x": 0.15,
+        "y": 0.25,
+        "r": 0.15
        }
       },
       {
@@ -16431,8 +17798,8 @@
        "text": "Most regurgitant mitral valves can be repaired, including those with ruptured chordae or a dilated annulus.",
        "t": 0,
        "spot": {
-        "x": 0.4,
-        "y": 0.7,
+        "x": 0.5,
+        "y": 0.75,
         "r": 0.3
        }
       },
@@ -16440,27 +17807,27 @@
        "text": "Extensive calcification of the leaflets makes repair unreliable, so it is a relative indication for replacement: A is the answer.",
        "t": 7461,
        "spot": {
-        "x": 0.22,
-        "y": 0.12,
-        "r": 0.12
+        "x": 0.15,
+        "y": 0.25,
+        "r": 0.15
        }
       },
       {
        "text": "Mitral regurgitation itself, chordal rupture of the anterior leaflet and annular dilatation are all usually repairable.",
        "t": 16704,
        "spot": {
-        "x": 0.4,
+        "x": 0.7,
         "y": 0.7,
-        "r": 0.3
+        "r": 0.25
        }
       },
       {
        "text": "Repair, when possible, is preferred, because it preserves ventricular function and avoids lifelong anticoagulation.",
        "t": 24778,
        "spot": {
-        "x": 0.6,
-        "y": 0.6,
-        "r": 0.25
+        "x": 0.45,
+        "y": 0.2,
+        "r": 0.12
        }
       }
      ],
@@ -16491,49 +17858,49 @@
      ]
     }
    ],
-   "image": "gh:books/medcosmos-cardiac/media/medcos-q0075.webp",
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0075-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.22,
-      "y": 0.12,
-      "r": 0.1
+      "x": 0.15,
+      "y": 0.25,
+      "r": 0.12
      },
      "what": "Mitre turned to stone",
      "means": "Extensive leaflet calcification"
     },
     {
      "spot": {
-      "x": 0.42,
+      "x": 0.45,
       "y": 0.18,
-      "r": 0.09
+      "r": 0.1
      },
      "what": "Brand-new mitre",
      "means": "Valve replacement"
     },
     {
      "spot": {
-      "x": 0.3,
-      "y": 0.72,
-      "r": 0.1
+      "x": 0.15,
+      "y": 0.78,
+      "r": 0.11
      },
      "what": "Leaking mitre being mended",
      "means": "Mitral regurgitation: repair"
     },
     {
      "spot": {
-      "x": 0.12,
-      "y": 0.55,
-      "r": 0.09
+      "x": 0.82,
+      "y": 0.58,
+      "r": 0.11
      },
      "what": "Harp string being retied",
      "means": "Chordal rupture: repair"
     },
     {
      "spot": {
-      "x": 0.65,
-      "y": 0.85,
-      "r": 0.08
+      "x": 0.5,
+      "y": 0.87,
+      "r": 0.09
      },
      "what": "Stretched ring taken in",
      "means": "Annular dilatation: repair"
@@ -16789,17 +18156,17 @@
        "text": "تحت لافتة مكتوب عليها: دون الثلاثين، وقف شابّ في العشرينات.",
        "t": 6004,
        "spot": {
-        "x": 0.6,
-        "y": 0.3,
-        "r": 0.25
+        "x": 0.3,
+        "y": 0.18,
+        "r": 0.15
        }
       },
       {
        "text": "فناوله صاحب الكشك روبوتًا صغيرًا من الفولاذ يقعقع، وقفز جرذ بخوذة جنديّ إلى كتفه.",
        "t": 12570,
        "spot": {
-        "x": 0.65,
-        "y": 0.42,
+        "x": 0.25,
+        "y": 0.55,
         "r": 0.18
        }
       },
@@ -16807,26 +18174,26 @@
        "text": "فقال صاحب الكشك: «أمامك عمر طويل؛ علبة المناديل تبلى عند الشباب سريعًا، والرّوبوت يبقى معك.»",
        "t": 21293,
        "spot": {
-        "x": 0.9,
-        "y": 0.4,
-        "r": 0.12
+        "x": 0.25,
+        "y": 0.55,
+        "r": 0.15
        }
       },
       {
        "text": "وخلفه وقفت امرأة شابّة حامل، فناولها علبة مناديل ناعمة.",
        "t": 30482,
        "spot": {
-        "x": 0.33,
-        "y": 0.5,
-        "r": 0.12
+        "x": 0.62,
+        "y": 0.55,
+        "r": 0.15
        }
       },
       {
        "text": "وقال: «الجرذ لا يصلح لمن تحمل طفلًا.»",
        "t": 37155,
        "spot": {
-        "x": 0.33,
-        "y": 0.5,
+        "x": 0.62,
+        "y": 0.55,
         "r": 0.12
        }
       },
@@ -16834,8 +18201,8 @@
        "text": "ثمّ ناول شيخًا على عكّازه علبة مناديل أخرى، فقال الشيخ: «تكفيني سنيني الباقية.»",
        "t": 41570,
        "spot": {
-        "x": 0.2,
-        "y": 0.45,
+        "x": 0.78,
+        "y": 0.55,
         "r": 0.12
        }
       },
@@ -16843,8 +18210,8 @@
        "text": "وفي آخر الصفّ، وضعت علبة مناديل ثالثة على عربة تحمل رمحًا ثلاثيًّا من الحديد.",
        "t": 49799,
        "spot": {
-        "x": 0.08,
-        "y": 0.45,
+        "x": 0.9,
+        "y": 0.55,
         "r": 0.1
        }
       },
@@ -16852,8 +18219,8 @@
        "text": "فنظر الشابّ إلى الروبوت في يده، فقال له صاحب الكشك:",
        "t": 57834,
        "spot": {
-        "x": 0.7,
-        "y": 0.45,
+        "x": 0.25,
+        "y": 0.55,
         "r": 0.15
        }
       },
@@ -16873,35 +18240,35 @@
        "text": "Mechanical valves last for decades but need lifelong warfarin; tissue valves avoid warfarin but wear out, and faster in the young.",
        "t": 0,
        "spot": {
-        "x": 0.5,
-        "y": 0.45,
-        "r": 0.4
+        "x": 0.25,
+        "y": 0.55,
+        "r": 0.18
        }
       },
       {
        "text": "So a patient younger than 30 is a relative indication for a mechanical valve: A is the answer.",
        "t": 8523,
        "spot": {
-        "x": 0.65,
-        "y": 0.3,
-        "r": 0.25
+        "x": 0.3,
+        "y": 0.18,
+        "r": 0.15
        }
       },
       {
        "text": "A young woman who wants children is usually given a tissue valve, because warfarin harms the fetus.",
        "t": 15312,
        "spot": {
-        "x": 0.33,
-        "y": 0.5,
-        "r": 0.12
+        "x": 0.62,
+        "y": 0.55,
+        "r": 0.15
        }
       },
       {
        "text": "Elderly patients and tricuspid replacements also favour tissue valves.",
        "t": 21832,
        "spot": {
-        "x": 0.15,
-        "y": 0.45,
+        "x": 0.78,
+        "y": 0.55,
         "r": 0.15
        }
       }
@@ -16934,58 +18301,58 @@
      ]
     }
    ],
-   "image": "gh:books/medcosmos-cardiac/media/medcos-q0077.webp",
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0077-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.75,
-      "y": 0.13,
-      "r": 0.1
+      "x": 0.3,
+      "y": 0.18,
+      "r": 0.15
      },
      "what": "Sign: <30",
      "means": "Patient younger than 30"
     },
     {
      "spot": {
-      "x": 0.75,
-      "y": 0.45,
-      "r": 0.1
+      "x": 0.18,
+      "y": 0.52,
+      "r": 0.11
      },
      "what": "Steel robot handed to the young man",
      "means": "Mechanical valve"
     },
     {
      "spot": {
-      "x": 0.47,
-      "y": 0.38,
-      "r": 0.07
+      "x": 0.45,
+      "y": 0.47,
+      "r": 0.08
      },
      "what": "Rat on his shoulder",
      "means": "Lifelong warfarin"
     },
     {
      "spot": {
-      "x": 0.33,
-      "y": 0.5,
-      "r": 0.09
+      "x": 0.62,
+      "y": 0.58,
+      "r": 0.11
      },
      "what": "Pregnant woman with a tissue box",
      "means": "Wants children: tissue valve"
     },
     {
      "spot": {
-      "x": 0.2,
-      "y": 0.42,
-      "r": 0.09
+      "x": 0.77,
+      "y": 0.55,
+      "r": 0.1
      },
      "what": "Old man with a tissue box",
      "means": "Elderly: tissue valve"
     },
     {
      "spot": {
-      "x": 0.08,
-      "y": 0.45,
-      "r": 0.08
+      "x": 0.9,
+      "y": 0.58,
+      "r": 0.09
      },
      "what": "Trident on a cart with a tissue box",
      "means": "Tricuspid position: tissue valve"
@@ -17013,70 +18380,70 @@
        "t": 0,
        "spot": {
         "x": 0.5,
-        "y": 0.45,
-        "r": 0.4
+        "y": 0.5,
+        "r": 0.45
        }
       },
       {
        "text": "الأوّل روبوت صغير من الفولاذ، ما زال يقعقع فرحًا، وإلى جانبه تقويم مكتوب عليه: ثلاثون.",
        "t": 6643,
        "spot": {
-        "x": 0.45,
-        "y": 0.32,
-        "r": 0.22
+        "x": 0.2,
+        "y": 0.4,
+        "r": 0.15
        }
       },
       {
        "text": "فقال الدليل: «يقولون إنّ الروبوت يتعطّل بعد سبع سنين أو عشر؛ وهذا يعمل منذ ثلاثين.»",
        "t": 15489,
        "spot": {
-        "x": 0.3,
-        "y": 0.35,
-        "r": 0.15
+        "x": 0.23,
+        "y": 0.22,
+        "r": 0.13
        }
       },
       {
        "text": "والثّاني علبة مناديل ناعمة، بليت أطرافها، ولا بالون أحمر ينفجر حولها.",
        "t": 23956,
        "spot": {
-        "x": 0.78,
-        "y": 0.5,
-        "r": 0.15
+        "x": 0.8,
+        "y": 0.55,
+        "r": 0.13
        }
       },
       {
        "text": "فقال: «ويقولون إنّ المناديل تفجّر البالونات الحمراء؛ فأروني بالونًا واحدًا!»",
        "t": 30866,
        "spot": {
-        "x": 0.78,
-        "y": 0.5,
-        "r": 0.15
+        "x": 0.8,
+        "y": 0.55,
+        "r": 0.13
        }
       },
       {
        "text": "وعلى كلّ باب منهما ورقة لعب واحدة ينبت منها البروكّلي.",
        "t": 38259,
        "spot": {
-        "x": 0.45,
-        "y": 0.55,
-        "r": 0.3
+        "x": 0.65,
+        "y": 0.3,
+        "r": 0.2
        }
       },
       {
        "text": "فقال: «ورقة هنا وورقة هناك؛ ليست المناديل أبعد عنها من الروبوت.»",
        "t": 43324,
        "spot": {
-        "x": 0.45,
-        "y": 0.55,
-        "r": 0.3
+        "x": 0.65,
+        "y": 0.3,
+        "r": 0.2
        }
       },
       {
        "text": "وفي المقدّمة رفع الجرذ ذو الخوذة لافتةً صغيرة: أقلّ من واحد في المئة.",
        "t": 50343,
        "spot": {
-        "x": 0.4,
-        "y": 0.8,
+        "x": 0.6,
+        "y": 0.78,
         "r": 0.15
        }
       },
@@ -17084,8 +18451,8 @@
        "text": "فقال الدليل ضاحكًا: «لا خمسة في المئة كلّ عام كما يقولون؛ الجرذ أقلّ خطرًا من سمعته.»",
        "t": 56742,
        "spot": {
-        "x": 0.4,
-        "y": 0.8,
+        "x": 0.6,
+        "y": 0.78,
         "r": 0.15
        }
       },
@@ -17094,8 +18461,8 @@
        "t": 65153,
        "spot": {
         "x": 0.5,
-        "y": 0.45,
-        "r": 0.4
+        "y": 0.5,
+        "r": 0.45
        }
       },
       {
@@ -17115,43 +18482,43 @@
        "t": 0,
        "spot": {
         "x": 0.5,
-        "y": 0.45,
-        "r": 0.4
+        "y": 0.5,
+        "r": 0.45
        }
       },
       {
        "text": "Haemolysis is not a typical problem of bioprostheses, so statement A is not true.",
        "t": 4615,
        "spot": {
-        "x": 0.78,
-        "y": 0.5,
-        "r": 0.15
+        "x": 0.8,
+        "y": 0.55,
+        "r": 0.13
        }
       },
       {
        "text": "The risk of prosthetic valve endocarditis is similar with bioprosthetic and mechanical valves, so statement B is not true.",
        "t": 10684,
        "spot": {
-        "x": 0.45,
-        "y": 0.55,
-        "r": 0.3
+        "x": 0.65,
+        "y": 0.3,
+        "r": 0.2
        }
       },
       {
        "text": "Modern mechanical valves rarely fail structurally, even after decades; it is tissue valves that wear out after 10 to 15 years, so statement C is not true.",
        "t": 18928,
        "spot": {
-        "x": 0.45,
-        "y": 0.32,
-        "r": 0.22
+        "x": 0.23,
+        "y": 0.22,
+        "r": 0.13
        }
       },
       {
        "text": "Fatal bleeding on warfarin occurs in well under 1 percent of patients a year, nowhere near 5 percent, so statement D is not true.",
        "t": 29960,
        "spot": {
-        "x": 0.4,
-        "y": 0.8,
+        "x": 0.6,
+        "y": 0.78,
         "r": 0.15
        }
       },
@@ -17160,8 +18527,8 @@
        "t": 38938,
        "spot": {
         "x": 0.5,
-        "y": 0.45,
-        "r": 0.4
+        "y": 0.5,
+        "r": 0.45
        }
       }
      ],
@@ -17198,30 +18565,30 @@
      ]
     }
    ],
-   "image": "gh:books/medcosmos-cardiac/media/medcos-q0078.webp",
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0078-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.3,
-      "y": 0.35,
-      "r": 0.12
+      "x": 0.2,
+      "y": 0.4,
+      "r": 0.13
      },
      "what": "Robot still working",
      "means": "Mechanical valve"
     },
     {
      "spot": {
-      "x": 0.6,
-      "y": 0.3,
-      "r": 0.09
+      "x": 0.23,
+      "y": 0.22,
+      "r": 0.11
      },
      "what": "Calendar at 30",
      "means": "It does not fail in 7-10 years"
     },
     {
      "spot": {
-      "x": 0.78,
-      "y": 0.5,
+      "x": 0.8,
+      "y": 0.58,
       "r": 0.11
      },
      "what": "Worn tissue box, no bursting balloons",
@@ -17229,17 +18596,17 @@
     },
     {
      "spot": {
-      "x": 0.45,
-      "y": 0.55,
-      "r": 0.18
+      "x": 0.65,
+      "y": 0.32,
+      "r": 0.17
      },
      "what": "One card with broccoli on each",
      "means": "Same endocarditis risk"
     },
     {
      "spot": {
-      "x": 0.4,
-      "y": 0.8,
+      "x": 0.63,
+      "y": 0.78,
       "r": 0.11
      },
      "what": "Rat holding <1%",
@@ -17267,43 +18634,43 @@
        "text": "عند الغسق، كان الباب في أرض البهو الأحمر تاج أسقف معصورًا ضيّقًا.",
        "t": 0,
        "spot": {
-        "x": 0.5,
-        "y": 0.62,
-        "r": 0.12
+        "x": 0.42,
+        "y": 0.55,
+        "r": 0.15
        }
       },
       {
        "text": "ففوقه امتلأ كلّ شيء: انتفخ البهو الأحمر، وقطرت الدولارات المبتلّة من الأنابيب.",
        "t": 6214,
        "spot": {
-        "x": 0.4,
-        "y": 0.35,
-        "r": 0.25
+        "x": 0.3,
+        "y": 0.2,
+        "r": 0.22
        }
       },
       {
        "text": "ومال عدّاد أنبوب المال عميقًا في الأحمر.",
        "t": 13735,
        "spot": {
-        "x": 0.85,
-        "y": 0.2,
-        "r": 0.1
+        "x": 0.75,
+        "y": 0.25,
+        "r": 0.13
        }
       },
       {
        "text": "وكلّما انفتح التاج الضيّق، انفتحت إلى جانبه مظلّة سوداء بطقّة عالية.",
        "t": 17496,
        "spot": {
-        "x": 0.82,
+        "x": 0.65,
         "y": 0.5,
-        "r": 0.12
+        "r": 0.15
        }
       },
       {
        "text": "أمّا تحت التاج، فكانت غرفة المحرّكات الحمراء صغيرةً مرتّبةً هادئة، مروحتها تدور ببطء.",
        "t": 24210,
        "spot": {
-        "x": 0.55,
+        "x": 0.45,
         "y": 0.85,
         "r": 0.15
        }
@@ -17330,7 +18697,7 @@
        "text": "ثمّ قالت: «الغرفة السفلى لا تتّسع مع التاج الضيّق وحده؛ إنّما تتّسع إذا رشح التاج إلى الوراء.»",
        "t": 53882,
        "spot": {
-        "x": 0.55,
+        "x": 0.45,
         "y": 0.85,
         "r": 0.15
        }
@@ -17339,9 +18706,9 @@
        "text": "فأغلق المفتّش دفتره خجلًا، فقالت روث:",
        "t": 63742,
        "spot": {
-        "x": 0.5,
-        "y": 0.5,
-        "r": 0.45
+        "x": 0.42,
+        "y": 0.55,
+        "r": 0.15
        }
       },
       {
@@ -17360,25 +18727,25 @@
        "text": "Mitral stenosis obstructs flow into the left ventricle, so pressure builds up behind the valve while the ventricle itself is spared.",
        "t": 0,
        "spot": {
-        "x": 0.5,
-        "y": 0.62,
-        "r": 0.12
+        "x": 0.42,
+        "y": 0.55,
+        "r": 0.15
        }
       },
       {
        "text": "Left atrial and pulmonary pressures rise, causing pulmonary oedema and later pulmonary hypertension, and the stiff valve gives an opening snap after the second heart sound.",
        "t": 8090,
        "spot": {
-        "x": 0.6,
-        "y": 0.35,
-        "r": 0.35
+        "x": 0.5,
+        "y": 0.3,
+        "r": 0.3
        }
       },
       {
        "text": "The left ventricle receives less volume, not more, so left ventricular dilatation is not generally associated with pure mitral stenosis.",
        "t": 19391,
        "spot": {
-        "x": 0.55,
+        "x": 0.45,
         "y": 0.85,
         "r": 0.15
        }
@@ -17387,7 +18754,7 @@
        "text": "So C is the answer.",
        "t": 29007,
        "spot": {
-        "x": 0.55,
+        "x": 0.45,
         "y": 0.85,
         "r": 0.15
        }
@@ -17429,13 +18796,13 @@
      ]
     }
    ],
-   "image": "gh:books/medcosmos-cardiac/media/medcos-q0079.webp",
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0079-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.5,
-      "y": 0.62,
-      "r": 0.1
+      "x": 0.42,
+      "y": 0.55,
+      "r": 0.12
      },
      "what": "Mitre squeezed narrow",
      "means": "Mitral stenosis"
@@ -17443,38 +18810,230 @@
     {
      "spot": {
       "x": 0.3,
-      "y": 0.3,
-      "r": 0.13
+      "y": 0.18,
+      "r": 0.15
      },
      "what": "Soggy dollars above the mitre",
      "means": "Pulmonary oedema"
     },
     {
      "spot": {
-      "x": 0.85,
-      "y": 0.2,
-      "r": 0.09
+      "x": 0.75,
+      "y": 0.25,
+      "r": 0.11
      },
      "what": "Gauge deep in the red",
      "means": "Pulmonary hypertension"
     },
     {
      "spot": {
-      "x": 0.82,
+      "x": 0.68,
       "y": 0.5,
-      "r": 0.1
+      "r": 0.12
      },
      "what": "Umbrella snapping open",
      "means": "Opening snap"
     },
     {
      "spot": {
-      "x": 0.55,
+      "x": 0.45,
       "y": 0.85,
       "r": 0.12
      },
      "what": "Small, calm red engine room",
      "means": "No left ventricular dilatation"
+    }
+   ]
+  },
+  {
+   "id": "medcos-q0080",
+   "title": "In Wolff-Parkinson-White syndrome, accessory pathways lie most often in the left free wall",
+   "titleAr": "في متلازمة وولف-باركنسون-وايت تقع المسارات الإضافية غالبًا في الجدار الحرّ الأيسر",
+   "tags": [
+    "cardiac/arrhythmia",
+    "d:anatomy",
+    "q:recall",
+    "l:2",
+    "x:high-yield"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في ليلة مقمرة، كانت حزمة الأغصان تنزل في الجدار الأوسط من فندق الأيّل، تطقطق بشرر أزرق.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.35,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "كان الشرر ينزل عليها وحدها من الأبهاء إلى غرف المحرّكات، يتمهّل قليلًا عند عقدة في أعلاها.",
+       "t": 7831,
+       "spot": {
+        "x": 0.5,
+        "y": 0.35,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "لكنّ ذئبًا رماديًّا تسلّل إلى الجدار الخارجيّ للجناح الأحمر، بعيدًا عن الأغصان.",
+       "t": 15530,
+       "spot": {
+        "x": 0.88,
+        "y": 0.35,
+        "r": 0.13
+       }
+      },
+      {
+       "text": "فحفر نفقًا مختصرًا من البهو الأحمر إلى غرفة المحرّكات الحمراء رأسًا.",
+       "t": 22166,
+       "spot": {
+        "x": 0.88,
+        "y": 0.5,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فصار بعض الشرر يقفز في نفق الذئب قبل أوانه، فتدور المروحة الحمراء مبكّرةً.",
+       "t": 27717,
+       "spot": {
+        "x": 0.88,
+        "y": 0.5,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فجاء الحارس سام بمصباحه، وقال: «أين حفر هذه المرّة؟»",
+       "t": 34157,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.4
+       }
+      },
+      {
+       "text": "فقالت المديرة بيرل: «حيث يحفر أكثر الأحيان: في الجدار الخارجيّ الأيسر، جدار الجناح الأحمر.»",
+       "t": 39986,
+       "spot": {
+        "x": 0.88,
+        "y": 0.4,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "ثمّ قالت: «وأقلّ من ذلك في أسفل الجدار الأوسط من الخلف، ثمّ في الجناح الأزرق.»",
+       "t": 48830,
+       "spot": {
+        "x": 0.5,
+        "y": 0.75,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "فوجّه سام مصباحه إلى الجدار الأحمر الخارجيّ فوجد الذئب، وقال:",
+       "t": 56338,
+       "spot": {
+        "x": 0.88,
+        "y": 0.35,
+        "r": 0.13
+       }
+      },
+      {
+       "text": "«يا من لقاؤك جواب كلّ سؤال، بك تحلّ المشكلة بلا قيل ولا قال.»",
+       "quote": "جلال الدين الرومي، المثنوي، الكتاب الأول",
+       "t": 62632
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0080-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "In Wolff-Parkinson-White syndrome an accessory pathway bypasses the atrioventricular node and pre-excites the ventricle.",
+       "t": 0,
+       "spot": {
+        "x": 0.88,
+        "y": 0.45,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "Most pathways lie in the left free wall, followed by the posteroseptal region, the right free wall and the anteroseptal region.",
+       "t": 8116,
+       "spot": {
+        "x": 0.88,
+        "y": 0.45,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "So A is the answer.",
+       "t": 16637,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.4
+       }
+      },
+      {
+       "text": "Left free wall pathways are now usually ablated with a catheter; surgical division was the treatment when this book was written.",
+       "t": 18851,
+       "spot": {
+        "x": 0.88,
+        "y": 0.45,
+        "r": 0.15
+       }
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0080-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "The most common location of accessory pathways in patients with the Wolff-Parkinson-White syndrome is the:",
+     "options": [
+      "Left free wall.",
+      "Right free wall.",
+      "Posterior septum.",
+      "Anterior septum."
+     ],
+     "answer": 0,
+     "explain": "In Wolff-Parkinson-White syndrome an accessory pathway bypasses the atrioventricular node and pre-excites the ventricle. Most pathways lie in the left free wall, followed by the posteroseptal region, the right free wall and the anteroseptal region. So A is the answer. Left free wall pathways are now usually ablated with a catheter; surgical division was the treatment when this book was written.",
+     "lang": "en",
+     "source": "MedCosmos Cardiac, Q80",
+     "marks": [
+      2
+     ],
+     "answerMarks": [
+      1
+     ]
+    }
+   ],
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0080-b.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.88,
+      "y": 0.45,
+      "r": 0.13
+     },
+     "what": "Wolf digging in the outer red wall",
+     "means": "Accessory pathway in the left free wall"
+    },
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.35,
+      "r": 0.13
+     },
+     "what": "Sparking branches down the middle wall",
+     "means": "The normal conduction path"
     }
    ]
   },

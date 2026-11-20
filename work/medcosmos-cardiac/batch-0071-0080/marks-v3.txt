@@ -1,0 +1,68 @@
+book: medcosmos-cardiac
+== 71
+1: 60 20 15 | Orca's sagging mouth dripping back | Moderate aortic insufficiency
+2: 65 50 15 | Tape across the red room: NORMAL | Normal end-systolic dimension
+3: 70 85 11 | Pharmacist handing over pills | Medical management
+4: 15 75 11 | Dentist waiting with new dentures | Valve replacement can wait
+question: 1 2
+answer: 3 4
+== 72
+1: 45 48 9 | Mitre squeezed narrow | Mitral stenosis
+2: 50 82 15 | Bowling balls rolling out of the orca | Systemic embolization
+3: 40 40 7 | Cards sprouting broccoli | Infective endocarditis
+4: 45 20 11 | Pinocchio trembling | New atrial fibrillation
+5: 28 10 10 | Gauge sinking into the red | Worsening pulmonary hypertension
+question: 1
+answer: 2 3 4 5
+== 73
+1: 22 38 13 | Trident's prongs normal, ring stretched | TR from annular dilatation, not the leaflets
+2: 68 28 12 | Brand-new mitre being fitted | Mitral valve replacement
+3: 65 45 11 | Golden harp strings kept tied to it | Chordae preserved
+question: 2
+answer: 1 3
+== 74
+1: 30 48 8 | Trident leaking in the blue lobby | Tricuspid valve disease
+2: 20 25 18 | Blue wing swollen like a sponge | Venous congestion, anasarca, liver failure
+3: 15 52 11 | Hoarse brown horse turned away | Hoarseness: not tricuspid
+4: 20 80 12 | Soggy dollars turned away | Pulmonary oedema: not tricuspid
+5: 85 45 11 | The red wing he points to | They belong to mitral disease
+question: 1 2
+answer: 3 4 5
+== 75
+1: 15 25 12 | Mitre turned to stone | Extensive leaflet calcification
+2: 45 18 10 | Brand-new mitre | Valve replacement
+3: 15 78 11 | Leaking mitre being mended | Mitral regurgitation: repair
+4: 82 58 11 | Harp string being retied | Chordal rupture: repair
+5: 50 87 9 | Stretched ring taken in | Annular dilatation: repair
+question: 3 4 5
+answer: 1 2
+== 77
+1: 30 18 15 | Sign: <30 | Patient younger than 30
+2: 18 52 11 | Steel robot handed to the young man | Mechanical valve
+3: 45 47 8 | Rat on his shoulder | Lifelong warfarin
+4: 62 58 11 | Pregnant woman with a tissue box | Wants children: tissue valve
+5: 77 55 10 | Old man with a tissue box | Elderly: tissue valve
+6: 90 58 9 | Trident on a cart with a tissue box | Tricuspid position: tissue valve
+question: 4 5 6
+answer: 1 2 3
+== 78
+1: 20 40 13 | Robot still working | Mechanical valve
+2: 23 22 11 | Calendar at 30 | It does not fail in 7-10 years
+3: 80 58 11 | Worn tissue box, no bursting balloons | Bioprosthesis: haemolysis is not its problem
+4: 65 32 17 | One card with broccoli on each | Same endocarditis risk
+5: 63 78 11 | Rat holding <1% | Warfarin deaths far below 5% a year
+question: 1
+answer: 2 3 4 5
+== 79
+1: 42 55 12 | Mitre squeezed narrow | Mitral stenosis
+2: 30 18 15 | Soggy dollars above the mitre | Pulmonary oedema
+3: 75 25 11 | Gauge deep in the red | Pulmonary hypertension
+4: 68 50 12 | Umbrella snapping open | Opening snap
+5: 45 85 12 | Small, calm red engine room | No left ventricular dilatation
+question: 1 2 3 4
+answer: 5
+== 80
+1: 88 45 13 | Wolf digging in the outer red wall | Accessory pathway in the left free wall
+2: 50 35 13 | Sparking branches down the middle wall | The normal conduction path
+question: 2
+answer: 1

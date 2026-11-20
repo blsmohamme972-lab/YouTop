@@ -1,0 +1,68 @@
+book: medcosmos-cardiac
+== 51
+1: 30 33 14 | Cabbage leaves laid over the crowns | Coronary bypass (CABG)
+2: 33 65 9 | Card reading 35% | Ejection fraction of 35%
+3: 75 85 12 | Sugar cubes | Diabetes
+4: 85 60 11 | Stone angel | Unstable or severe angina
+5: 15 35 11 | Slinky springs pushed into single spots | Angioplasty for focal disease
+question: 4 5
+answer: 1 2 3
+== 52
+1: 50 30 18 | Stern opened and rotting with green mould | Mediastinitis after sternotomy
+2: 20 72 15 | A whole crew of sailors | All patients with mediastinitis
+3: 55 65 10 | Only a few coffins | Few deaths
+4: 85 55 11 | Sign: under 15% | Mortality under 15%
+question: 1 2 3
+answer: 4
+== 53
+1: 50 15 18 | Cabbage leaves over the crown | Coronary bypass
+2: 45 55 18 | Herd of a hundred stags | All the patients operated on
+3: 20 78 11 | A few stags down with arrows | Perioperative myocardial infarction
+4: 70 80 12 | Sign: under 5% | Less than 5%
+question: 1 2 3
+answer: 4
+== 54
+1: 60 15 12 | Stag's head pierced by an arrow on every hotel | Myocardial infarction
+2: 65 60 9 | Two hotels with a broken lower wall | Ventricular septal rupture
+3: 35 80 12 | Sign: 2% | 2% or less
+question: 1 2
+answer: 3
+== 55
+1: 62 10 8 | Snapped Slinky in a spike | Failed PTCA
+2: 88 70 9 | Ambulance racing in | Emergency bypass
+3: 45 25 15 | Many spikes clogged with tar | Multivessel disease
+4: 18 75 12 | Stopped fans and a grey, slumped guest | Cardiogenic shock before operation
+5: 20 28 10 | Old wilted cabbage leaves | Previous bypass surgery
+6: 50 60 13 | Undertaker measuring | Higher mortality
+question: 1 2
+answer: 3 4 5 6
+== 56
+1: 20 10 9 | Calm room under a blue X | Elective bypass
+2: 75 15 9 | Red Y over the emergency room | Emergency bypass after failed PTCA
+3: 72 25 9 | Snapped Slinky in the crown | Failed PTCA
+4: 85 75 13 | More coffins on the Y side | Higher operative mortality
+5: 45 72 15 | Stags down with arrows | More perioperative infarctions
+question: 1 2 3
+answer: 4 5
+== 57
+1: 48 28 12 | Living lima bean vine down onto the crown | Internal mammary artery graft
+2: 85 40 10 | Red room fan still strong | Left ventricular function preserved
+3: 48 33 6 | Clothes-peg on the vine | Light clamp on the IMA
+4: 80 18 12 | Ice and bananas poured over the hotel | Cardioplegic arrest
+5: 35 80 13 | Heat map with a large red area | Functional study before reoperation
+question: 1 4
+answer: 2 3 5
+== 58
+1: 15 20 13 | Ship's stern reopened along an old scar | Coronary reoperation
+2: 70 15 11 | Crusted sapphire chains | Diseased old vein grafts
+3: 40 60 15 | Stone angel flying back onto the chest | Angina returns sooner
+4: 87 50 9 | Clock that has barely moved | After a short time
+question: 1 2
+answer: 3 4
+== 59
+1: 30 75 14 | Glowing mug filled drop by drop | Gated equilibrium (MUGA) study
+2: 75 65 12 | Metronome ticking | Hundreds of beats added together
+3: 82 22 8 | Shot glass downed in one gulp | First-pass study
+4: 68 12 11 | Chalkboard x10 | At least ten times longer
+question: 1 3
+answer: 2 4

@@ -1,0 +1,10 @@
+book: medcosmos-cardiac
+== 5
+1: 50 45 20 | Stern opened down its white centre line | Median sternotomy: the whole heart exposed
+2: 22 38 9 | Hatch in the left side | Left anterior thoracotomy: for resuscitation
+3: 80 38 9 | Hatch in the right side | Right anterior thoracotomy: right side only
+4: 85 52 10 | Gash along the side | Bilateral thoracotomy: a bigger wound
+5: 58 72 10 | Small yellow submarine below | Subxiphoid window: diagnosis and drainage only
+6: 57 45 9 | Hole spraying inside, within reach | The cardiac wound, reached and repaired
+question: 2 3 4 5 6
+answer: 1
