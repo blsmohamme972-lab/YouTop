@@ -15,3 +15,11 @@ answer: 2 3 4
 5: 37 72 10 | Foxglove beside the fan | Slow the rate with digitalis
 question: 1 2
 answer: 3 4 5
+== 98
+1: 55 68 12 | Steel robot valve | Mechanical valve
+2: 22 70 12 | Rat walking away | Warfarin stopped
+3: 28 38 10 | Calendar at 5 | Five days before operation
+4: 70 45 14 | Hare hopping onto the robot | Intravenous heparin bridge
+5: 88 40 8 | Surgeon waiting | Elective operation
+question: 1 5
+answer: 2 3 4

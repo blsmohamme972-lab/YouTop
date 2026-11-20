@@ -17517,6 +17517,229 @@
    ]
   },
   {
+   "id": "medcos-q0098",
+   "title": "Mechanical valve before elective surgery: stop warfarin 5 days ahead and bridge with intravenous heparin",
+   "titleAr": "صمام ميكانيكي قبل جراحة مخطّطة: أوقف الوارفارين قبل 5 أيام وجسّر بالهيبارين الوريدي",
+   "tags": [
+    "cardiac/perioperative",
+    "d:postoperative",
+    "q:next-step",
+    "l:2",
+    "x:high-yield"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في صباح نظيف في البهو الأحمر من فندق الأيّل، كان في الأرض روبوت صغير من الفولاذ يقعقع.",
+       "t": 0,
+       "spot": {
+        "x": 0.55,
+        "y": 0.65,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "وعلى رأسه جرذ بخوذة جنديّ خضراء لا يفارقه.",
+       "t": 7379,
+       "spot": {
+        "x": 0.22,
+        "y": 0.7,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "وكان صاحب الفندق العجوز، في الثانية والسّبعين، ينتظر عملًا في أمعائه بعد أيّام.",
+       "t": 11868,
+       "spot": {
+        "x": 0.88,
+        "y": 0.4,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فقال الجرّاح: «لا أعمل والجرذ جالس؛ ينزف الجرح.»",
+       "t": 19114,
+       "spot": {
+        "x": 0.88,
+        "y": 0.4,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فقالت المديرة بيرل: «ولا نترك الروبوت وحده يومًا واحدًا؛ فإنّه يصدأ ويتجلّط.»",
+       "t": 24607,
+       "spot": {
+        "x": 0.55,
+        "y": 0.68,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فنزل الجرذ عن الروبوت قبل العمل بخمسة أيّام، ومضى مارًّا بالتّقويم.",
+       "t": 32387,
+       "spot": {
+        "x": 0.22,
+        "y": 0.7,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "وما إن نزل حتّى قفز أرنب برّيّ بنّيّ سريع إلى رأس الروبوت مكانه.",
+       "t": 38564,
+       "spot": {
+        "x": 0.7,
+        "y": 0.45,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "فقالت بيرل: «الأرنب يأتي سريعًا ويذهب سريعًا؛ ننزله قبيل العمل بساعات، ثمّ يعود بعده.»",
+       "t": 44088,
+       "spot": {
+        "x": 0.7,
+        "y": 0.45,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "فنظر الجرّاح إلى الأرنب على الروبوت مطمئنًّا، فقال الأرنب كأنّه يتكلّم:",
+       "t": 53057,
+       "spot": {
+        "x": 0.7,
+        "y": 0.45,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "«قال الأرنب: يا رفاق أمهلوني، حتّى تنجوا بحيلتي من البلاء.»",
+       "quote": "جلال الدين الرومي، المثنوي، الكتاب الأول",
+       "t": 60325
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0098-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "A mechanical heart valve needs anticoagulation without a gap, because a few days without it can cause valve thrombosis or embolism.",
+       "t": 0,
+       "spot": {
+        "x": 0.55,
+        "y": 0.65,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "So warfarin is stopped about 5 days before the operation, and intravenous heparin is started as the prothrombin time returns to normal and stopped shortly before surgery: D is the answer.",
+       "t": 8362,
+       "spot": {
+        "x": 0.28,
+        "y": 0.38,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "Stopping warfarin on the day of operation leaves the patient anticoagulated, and fresh frozen plasma reverses it only briefly.",
+       "t": 20038,
+       "spot": {
+        "x": 0.7,
+        "y": 0.45,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "Stopping it with no heparin cover, or replacing it with aspirin, leaves the valve unprotected.",
+       "t": 29302,
+       "spot": {
+        "x": 0.22,
+        "y": 0.7,
+        "r": 0.15
+       }
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0098-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which anticoagulation treatment plan(s) is/are appropriate for a 72-year-old man with a mechanical heart valve in place who takes Coumadin (warfarin) and now requires elective left colon resection?",
+     "options": [
+      "Discontinuation of Coumadin therapy on the day of the operation.",
+      "Discontinuation of Coumadin therapy on the day of the operation with replacement of clotting factors with fresh frozen plasma (FFP) before the start of the surgical procedure.",
+      "Discontinuation of Coumadin therapy 5 days before operation with no further anticoagulation therapy before surgery.",
+      "Discontinuation of Coumadin therapy 5 days before operation with the institution of intravenous heparin as the prothrombin time normalizes.",
+      "Discontinuation of Coumadin therapy 2 days before operation followed by large doses of aspirin."
+     ],
+     "answer": 3,
+     "explain": "A mechanical heart valve needs anticoagulation without a gap, because a few days without it can cause valve thrombosis or embolism. So warfarin is stopped about 5 days before the operation, and intravenous heparin is started as the prothrombin time returns to normal and stopped shortly before surgery: D is the answer. Stopping warfarin on the day of operation leaves the patient anticoagulated, and fresh frozen plasma reverses it only briefly. Stopping it with no heparin cover, or replacing it with aspirin, leaves the valve unprotected.",
+     "lang": "en",
+     "source": "MedCosmos Cardiac, Q98",
+     "marks": [
+      1,
+      5
+     ],
+     "answerMarks": [
+      2,
+      3,
+      4
+     ]
+    }
+   ],
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0098.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.55,
+      "y": 0.68,
+      "r": 0.12
+     },
+     "what": "Steel robot valve",
+     "means": "Mechanical valve"
+    },
+    {
+     "spot": {
+      "x": 0.22,
+      "y": 0.7,
+      "r": 0.12
+     },
+     "what": "Rat walking away",
+     "means": "Warfarin stopped"
+    },
+    {
+     "spot": {
+      "x": 0.28,
+      "y": 0.38,
+      "r": 0.1
+     },
+     "what": "Calendar at 5",
+     "means": "Five days before operation"
+    },
+    {
+     "spot": {
+      "x": 0.7,
+      "y": 0.45,
+      "r": 0.14
+     },
+     "what": "Hare hopping onto the robot",
+     "means": "Intravenous heparin bridge"
+    },
+    {
+     "spot": {
+      "x": 0.88,
+      "y": 0.4,
+      "r": 0.08
+     },
+     "what": "Surgeon waiting",
+     "means": "Elective operation"
+    }
+   ]
+  },
+  {
    "id": "medcos-q0100",
    "title": "New atrial fibrillation after gastric surgery: correct the electrolytes, look for infarction, slow the rate with digitalis",
    "titleAr": "رجفان أذيني جديد بعد جراحة المعدة: صحّح الأملاح، وابحث عن احتشاء، وأبطئ الاستجابة بالديجيتال",
