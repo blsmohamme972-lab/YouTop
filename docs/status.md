@@ -53,7 +53,12 @@ Updated 2026-11-19 (evening). Whoever works on YouTop next: read `CLAUDE.md`, th
   - Questions 121-130: tables, scenes and prompts written and sent (drafts `batch-0121-0130/`). Key of 130 kept
     on purpose: the book says gram-negative and fungal organisms; Staphylococcus aureus is in truth the commonest
     (a golden grape cluster in the picture, and a note); correcting it would leave no right option.
-    NEXT: stories of 121-130, then 131-156, prompts first.
+    Stories, Rumi lines (Book I opening: raw and ripe, burst your chains, lip of my confidant, days gone,
+    every night You free the spirits, reed companion, the pen split, tongue like stone and iron, reason like an ass
+    in mud, parted from one who speaks your tongue) and explanations written (`batch-0121-0130/`), not yet built.
+  - Questions 131-140: tables, scenes and prompts written and sent (`batch-0131-0140/`). 136's key is kept with a
+    note (the book says tPA is no better than streptokinase; GUSTO found it slightly better).
+    NEXT: build and record 121-130 (after 111-120's recording ends: same chapter file), stories of 131-140, 141-156.
 - **Where things stand (2026-11-20, 10:30 UTC):** texts and voices for 1-110 done. **96 lessons PUBLISHED** (complete
   only), published with `publish.py <scratchpad>/pub-mc --complete-only` (pub-mc links only `books/medcosmos-cardiac`
   and `work`).
