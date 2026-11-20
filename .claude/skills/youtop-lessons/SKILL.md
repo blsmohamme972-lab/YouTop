@@ -53,7 +53,11 @@ MedCosmos Cardiac (lessons 1-20 are the first set written to them) onwards.
    8, and anchors no other concept uses; it keeps rejected ones so nobody proposes them again. Score
    honestly: the audit is only as good as the scores. The model the owner liked (2026-11-20): endocarditis =
    playing cards sprouting broccoli, a sound-alike in the name (endo-CARD-itis) joined to the meaning
-   (vegetations), placed on the valve it affects. Aim for that: sound and meaning in one object. `batch.py prompts` and `build` refuse a batch
+   (vegetations), placed on the valve it affects. **Required since 2026-11-20 (the owner):** every new
+   symbol joins at least two layers in one object, three when the place matters: `"layers": {"sound": ...,
+   "meaning": ..., "place": ...}` in symbols.json. The audit rejects a new symbol with fewer than two.
+   Older symbols are marked `legacy`; when one of them is next used, give it a second layer if it can take one.
+   The same goes for one-off keywords in a scene: join the sound-alike to the meaning wherever possible. `batch.py prompts` and `build` refuse a batch
    whose `keywords:` draw a listed concept any other way (`symbols.py check batch.txt` shows why).
    Never invent a second symbol for a concept that already has one.
 

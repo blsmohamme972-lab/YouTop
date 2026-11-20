@@ -30,6 +30,9 @@ def load():
     return json.loads(SOURCE.read_text(encoding="utf-8"))
 
 
+LAYERS = ("sound", "meaning", "place")
+
+
 def verdict(s):
     scores = s.get("scores", {})
     missing = [c for c in CRITERIA if not isinstance(scores.get(c), int) or not 0 <= scores[c] <= 2]
@@ -43,7 +46,12 @@ def verdict(s):
         return "rejected", f"total {total}/10 is below {PASS_TOTAL}"
     if not s.get("terms"):
         return "rejected", "no terms: nothing would ever use it"
-    return "approved", f"total {total}/10"
+    # The owner (2026-11-20): every new symbol joins at least two layers in one object, as endocarditis does
+    # (a sound-alike of the name + the meaning of the disease, + where it sits when that matters).
+    layers = {k: v for k, v in (s.get("layers") or {}).items() if k in LAYERS and str(v).strip()}
+    if not s.get("legacy") and len(layers) < 2:
+        return "rejected", f"only {len(layers)} layer(s); a symbol must join at least two of {', '.join(LAYERS)}"
+    return "approved", f"total {total}/10" + (f", {len(layers)} layers" if layers else "")
 
 
 def audit(data):
@@ -90,6 +98,10 @@ def write_readable(data):
         "least 1, the total is at least 8, and no other concept is drawn with the same thing. The owner asked for this",
         "audit to decide (2026-11-19). A new symbol is added to the json with its scores and a reason, then audited;",
         "a batch that draws a listed concept any other way is refused by `batch.py`.", "",
+        "Since 2026-11-20 (the owner) every new symbol joins at least two **layers** in one object: **sound** (a",
+        "sound-alike of the name), **meaning** (what the thing is or does) and, when it matters, **place** (where it",
+        "sits in the picture). The model is endocarditis: playing CARDs (sound) sprouting broccoli, the vegetations",
+        "(meaning), on the valve it infects (place). Symbols made before that are marked legacy.", "",
         "## Approved", "",
         "| Concept | Drawn as | Why | Score | First used |", "|---|---|---|---|---|"]
     rows, rejected = [], []
