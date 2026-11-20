@@ -1,0 +1,63 @@
+book: medcosmos-cardiac
+== 101
+1: 85 68 12 | Roller-pump truck plugged into the hotel | Cardiopulmonary bypass
+2: 30 50 11 | Waterfall turning to red jelly | Coagulation cascade
+3: 48 40 10 | Waterfall dissolving a net of threads | Fibrinolytic cascade
+4: 65 45 11 | Waiter throwing bouquets | Complement activation
+question: 1
+answer: 2 3 4
+== 104
+1: 45 40 13 | Pink sausage balloon in the orca | Intra-aortic balloon pump
+2: 50 10 14 | Crown filling with water | More coronary blood flow
+3: 80 70 10 | Balloon shrinking before the fan pushes | Afterload reduction
+4: 40 80 12 | Water level sinking in the red room | Lower end-diastolic pressure
+question: 1
+answer: 2 3 4
+== 105
+1: 45 25 12 | Pink sausage balloon slipped into the orca | Intra-aortic balloon pump
+2: 25 55 13 | Angel unmoved by the pills | Medically refractory angina
+3: 75 50 12 | Snapped harp post, mitre flapping | Acute papillary muscle rupture
+4: 22 82 12 | Ship just closed, fan failing | Ventricular failure after cardiac surgery
+5: 75 75 9 | Snapped Slinky in the crown | Failed PTCA
+question: 1
+answer: 2 3 4 5
+== 106
+1: 60 20 14 | Sausage balloon in the orca | Intra-aortic balloon pump
+2: 30 48 8 | Tube entering at the groin | Femoral insertion
+3: 25 72 13 | Frozen blue leg | Limb ischaemia, the commonest complication
+4: 72 70 11 | Warm pink leg | The other leg is fine
+question: 1 2
+answer: 3 4
+== 107
+1: 45 35 18 | Tin man with a clockwork heart | Implanted artificial heart
+2: 30 45 9 | Copper coil outside the chest | External coil
+3: 55 45 9 | Matching coil inside | Implanted coil
+4: 42 45 8 | Rings of light, no wire | Inductive coupling
+question: 1
+answer: 2 3 4
+== 108
+1: 30 45 15 | Tin man with air hoses to a compressor | Pneumatic artificial heart
+2: 90 20 10 | Calendar with over twelve pages torn off | Support for over a year
+3: 28 38 9 | Cards with broccoli at the hose entry | Infection
+4: 45 72 10 | Bowling balls rolling out | Thromboembolism
+5: 60 20 13 | Surgeons fitting the heart on chalk marks | Implanted much like a transplant
+question: 1
+answer: 2 3 4 5
+== 109
+1: 40 77 18 | One big red engine room, no party wall | Univentricular heart (usually double-inlet left ventricle)
+2: 45 62 9 | Tape under the ceiling door | At least half of an inlet valve
+3: 18 48 9 | Baby with blue lips | Cyanotic infant
+4: 45 35 11 | Hose from the flipper to the dollar pipe | Blalock-Taussig shunt
+5: 86 72 11 | Open dollar pipe and gridlocked taxis | No pulmonary stenosis: heart failure
+6: 62 45 8 | Fountain in the courtyard | Fontan as the final repair
+question: 1
+answer: 2 3 4 5 6
+== 110
+1: 60 30 10 | Rope pinching the orca | Coarctation
+2: 65 15 8 | Gauge in the red above the rope | Hypertension in the upper body
+3: 85 72 11 | Pale legs, no pulse at the groin | Absent femoral pulses
+4: 23 25 11 | Bicycle wedged in the orca's mouth | Bicuspid aortic valve
+5: 55 55 11 | Railings notched by thick vines | Rib notching
+6: 25 70 11 | Baby pink above, blue below | Differential cyanosis in infancy
+question: 1 2 3
+answer: 4 5 6

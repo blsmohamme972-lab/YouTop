@@ -51,7 +51,9 @@ MedCosmos Cardiac (lessons 1-20 are the first set written to them) onwards.
    sticky; then run `python3 tools/content/symbols.py audit`. The owner asked this audit to decide
    for them (2026-11-19): it approves a symbol only with every score at least 1, a total of at least
    8, and anchors no other concept uses; it keeps rejected ones so nobody proposes them again. Score
-   honestly: the audit is only as good as the scores. `batch.py prompts` and `build` refuse a batch
+   honestly: the audit is only as good as the scores. The model the owner liked (2026-11-20): endocarditis =
+   playing cards sprouting broccoli, a sound-alike in the name (endo-CARD-itis) joined to the meaning
+   (vegetations), placed on the valve it affects. Aim for that: sound and meaning in one object. `batch.py prompts` and `build` refuse a batch
    whose `keywords:` draw a listed concept any other way (`symbols.py check batch.txt` shows why).
    Never invent a second symbol for a concept that already has one.
 

@@ -19,23 +19,16 @@ Updated 2026-11-19 (evening). Whoever works on YouTop next: read `CLAUDE.md`, th
   ends: while it runs, never build, set pictures, spots or marks, or publish. Start make as a round's last step.
 - **Unpublished work** lives in `.content-work/work/medcosmos-cardiac/batch-*/` (batch, voice, spots, marks) and is
   backed up on the work branch under `drafts/medcosmos-cardiac/` until it is published to `content`.
-- **Where things stand (2026-11-20, 01:25 UTC):** texts for 1-110 written; prompts for 21-110 SENT (90 pictures
-  waiting, so no new batch is written until fewer than 20 prompts wait, as the round rules say).
-  - **The owner (2026-11-20): publish only complete lessons.** 1, 3 and 5-20 are published (18); 2 and 4 were taken
-    out until their pictures arrive. Publish MedCosmos with `publish.py F --complete-only` from a folder F that
-    links only `books/medcosmos-cardiac` (and `work`), as the skill says; never publish `.content-work` whole.
-  - **1-20:** pictures 2 and 4 still missing (texts, spots and marks for them are in
-    `work/medcosmos-cardiac/batch-0001-0020/`; when they arrive: `batch.py pictures`, spots, marks, look, publish).
-  - 21-110: built, RECORDED and voice-checked (silent sentences in 38, 54, 65, 76 re-recorded and passing; small
-    word-boundary misses left in 76 s9, 91 s6, 94 s4 'اليمنى'). Nothing is running. Waiting for the owner's pictures.
-  - When pictures arrive for any batch: `batch.py pictures`, write spots.txt and marks.txt from the pictures (as in
-    batch-0001-0020), look at every drawing, `voice.py check`, publish, merge status to main.
-  - Key fixes: Q56 option C reversed in the book (`option:`), Q79 key reversed (`key: C`), Q82 matching key asked as
-    four questions (`asks:`), all with x:key-corrected or a note. Debated but kept: Q4, Q9, Q33 (MR), Q50, Q52, Q76.
-  - NEXT writing (only when fewer than 20 prompts wait): 111-156.
-  - Recurring symbols: 124 approved by `symbols.py audit`; see `content/symbols.md`.
-  - Work files are published with the content (`work/` on the content branch) and copied to the work branch
-    under `drafts/medcosmos-cardiac/`.
+- **Where things stand (2026-11-20, 07:30 UTC):** texts and voices for 1-110 done. **83 lessons PUBLISHED** (complete
+  only: picture, voice, spots, marks), published with `publish.py <F> --complete-only` where F links only
+  `books/medcosmos-cardiac` and `work` (scratchpad `pub-mc/`).
+  - Still waiting for pictures: 2, 23, 26, 27, 47, 49, 52, 54, 56, 62, 70, 73, 80, 86-96, 99, 102, 103. Their texts,
+    voices are ready; when a picture arrives: `batch.py pictures`, look at the grid, add spots/marks lines to the
+    batch's spots.txt/marks.txt, apply, look, publish complete-only.
+  - Picture folder note: the owner uploaded two files named 22.png; the clearer one was used.
+  - NEXT writing: 111-156 (when fewer than 20 prompts wait).
+  - Key fixes: Q56 (`option:`), Q79 (`key: C`), Q82 (`asks:`, four questions).
+  - Recurring symbols: 124 approved; see `content/symbols.md`.
 
 ## NEW BOOK (2026-11-19): MedCosmos Cardiac, 156 questions — New York City, quotations of Rumi
 

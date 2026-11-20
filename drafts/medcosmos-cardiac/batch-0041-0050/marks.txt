@@ -1,0 +1,61 @@
+book: medcosmos-cardiac
+== 41
+1: 40 40 9 | Baby orca's lips sewn almost shut | Critical neonatal aortic stenosis
+2: 25 42 9 | Tailor's scissors snipping the lips | Valvotomy
+3: 45 52 9 | Rope at the baby orca's waist | Coarctation
+4: 80 40 9 | Duct-tape tunnel to the dollar pipe | PDA
+5: 50 12 7 | Mitre squeezed narrow | Mitral stenosis
+6: 55 82 13 | Inspector measuring the red engine room | Success depends on an adequate LV
+question: 1 2
+answer: 3 4 5 6
+== 42
+1: 55 30 12 | The orca's stiff, narrow mouth | Aortic valve disease in an older child
+2: 20 35 9 | Tailor's scissors at the fused corners | Incision of fused commissures
+3: 80 32 11 | Workers sawing the collar and stitching a patch | Enlarging the aortic annulus
+4: 48 30 8 | Red rose planted in the orca's mouth | Ross operation
+5: 15 62 9 | Pipe of dollar bills the rose came from | The pulmonary valve as autograft
+question: 1
+answer: 2 3 4 5
+== 43
+1: 45 68 13 | White curtain under the orca's mouth | Subaortic membrane
+2: 50 45 11 | Plumber coming in through the orca's mouth | Approach through the aorta and aortic valve
+3: 85 58 10 | Sculptor chiselling the bulging wall | Septal myectomy lowers recurrence
+question: 1
+answer: 2 3
+== 44
+1: 55 45 14 | Wall swollen into a bodybuilder's biceps | Hypertrophic obstructive cardiomyopathy
+2: 22 77 12 | Ice-hockey goalkeeper | Propranolol (beta-blocker)
+3: 62 80 11 | Canal dammed with chalky glue | Verapamil (calcium channel blocker)
+4: 87 47 13 | Two drummers, upstairs and downstairs | Dual-chamber pacing
+5: 32 58 9 | Sculptor chiselling the bulge | Septal myectomy
+6: 58 8 8 | Bishop stitching his mitre | Mitral plication
+question: 1
+answer: 2 3 4 5 6
+== 45
+1: 50 53 13 | Pearl necklace just above the mouth | Supravalvular aortic stenosis
+2: 20 35 14 | Pearls along the whole back | The diffuse form
+3: 12 62 9 | Strings from the back pinched | Arch branches narrowed
+4: 88 25 10 | Repaired orca floating away free | Reoperation rare after discrete repair
+5: 88 58 10 | Orca coming back | Unless the valve itself is abnormal
+question: 1
+answer: 2 3 4 5
+== 46
+1: 50 10 12 | Liberty crown clogged with tar | Coronary artery disease
+2: 70 70 16 | Endless line of coffins | Deaths each year
+3: 28 85 14 | Sign 500,000 | About 500,000 a year
+question: 1 2
+answer: 3
+== 48
+1: 30 40 25 | The Liberty crown's spikes | Coronary arteries
+2: 35 25 15 | Few hair-thin threads between spikes | Minimal effective collaterals
+3: 70 18 12 | Climber unable to cross | No help when an artery is suddenly blocked
+question: 1
+answer: 2 3
+== 50
+1: 60 15 15 | Cabbage leaves over the tar-clogged crown | Coronary bypass grafting
+2: 25 52 12 | Arrow bouncing off a leaf before the stag | Fewer myocardial infarctions
+3: 75 57 13 | Stone angel rising off the man's chest | Relief of angina
+4: 35 80 13 | Old man unrolling a long calendar | Longer life
+5: 25 30 11 | Bouncer throwing a crowd out of the red room | Better ejection fraction
+question: 1
+answer: 2 3 4 5

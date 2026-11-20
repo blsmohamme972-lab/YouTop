@@ -1,0 +1,9 @@
+book: medcosmos-cardiac
+== 4
+1: 15 20 10 | Shattered single section | Comminuted single-chamber injury
+2: 45 25 10 | Two knives in two sections | Multiple-chamber injury
+3: 25 93 7 | Knife that grazed into the sand | Tangential injury
+4: 32 30 10 | The cut green crown | Coronary artery injury
+5: 30 58 14 | Clara falling to her knees | The injury that weighs most on outcome
+question: 1 2 3
+answer: 4 5
