@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Publishes lessons to the `content` branch of this repository, which the app reads.
 
-    python3 tools/content/publish.py <folder> [-m "what changed"] [--no-push] [--no-check]
+    python3 tools/content/publish.py <folder> [-m "what changed"] [--no-push] [--no-check] [--complete-only]
     python3 tools/content/publish.py --export <folder>
 
 <folder> is a plain folder, anywhere outside the repository's tracked files:
@@ -119,7 +119,7 @@ def published_ids(wt, book_id):
     return ids
 
 
-def publish_book(src, wt, problems):
+def publish_book(src, wt, problems, complete_only=False):
     book = load(src / "book.json")
     book_id = book.get("id", "")
     if book_id != src.name:
@@ -128,9 +128,26 @@ def publish_book(src, wt, problems):
     dest = wt / "books" / book_id
     before = published_ids(wt, book_id)
 
+    # --complete-only: a lesson without its picture is held back (not published, or taken out of the
+    # published book until it is complete); the phone keeps its progress under its id meanwhile.
+    chapters, held = {}, set()
+    for ch in book.get("chapters", []):
+        plain = ch.get("file")
+        if plain and not plain.startswith("gh:") and not HASHED.fullmatch(pathlib.Path(plain).name) and (src / plain).is_file():
+            obj = json.loads((src / plain).read_bytes())
+            if complete_only:
+                held |= {(ch["id"], lesson["id"]) for lesson in obj["lessons"] if not lesson.get("image")}
+                obj["lessons"] = [lesson for lesson in obj["lessons"] if lesson.get("image")]
+            chapters[ch["id"]] = obj
+    if complete_only:
+        book["chapters"] = [ch for ch in book.get("chapters", []) if ch["id"] not in chapters or chapters[ch["id"]]["lessons"]]
+        wanted = {ref.rsplit("/", 1)[-1] for obj in [*chapters.values(), book] for ref in GH_REF.findall(json.dumps(obj, ensure_ascii=False))}
+
     # Media: new files only. A published file never changes under the same name, because the
     # phone keeps what it downloaded under that name.
     for f in sorted((src / "media").glob("*")) if (src / "media").is_dir() else []:
+        if complete_only and f.name not in wanted:
+            continue
         target = dest / "media" / f.name
         if not re.fullmatch(r"[\w.-]+", f.name):
             problems.append(f"{f}: use only letters, digits, dot, dash and underscore in media names")
@@ -152,12 +169,14 @@ def publish_book(src, wt, problems):
             problems.append(f"{book_id} chapter '{ch['id']}': \"file\" must be a plain file in the folder, "
                             f"like chapters/q0001-0100.json (found '{plain}')")
             continue
-        data = path.read_bytes()
+        data = dump(chapters[ch["id"]]) if complete_only else path.read_bytes()
         texts.append(data.decode("utf-8"))
         now |= {(ch["id"], lesson["id"]) for lesson in json.loads(data)["lessons"]}
         ch["file"] = f"gh:books/{book_id}/chapters/" + write_hashed(dest / "chapters", path.stem, data)
 
-    gone = sorted(before - now)
+    gone = sorted(before - now - held)
+    if held:
+        print(f"{book_id}: held back until they have their picture: {', '.join(sorted(l for _, l in held))}")
     if gone:
         problems.append(f"{book_id}: published lessons would disappear or move to another chapter, and the owner's "
                         f"progress with them: {', '.join('/'.join(g) for g in gone[:10])}{' …' if len(gone) > 10 else ''}")
@@ -232,6 +251,8 @@ def main():
     ap.add_argument("--export", action="store_true", help="write the published content into <folder> instead of publishing")
     ap.add_argument("--no-push", action="store_true", help="commit in .content/ but do not push")
     ap.add_argument("--no-check", action="store_true", help="do not read the files back from the public address")
+    ap.add_argument("--complete-only", action="store_true",
+                    help="publish only lessons that have their picture; the others are held back (or taken out) until they do")
     args = ap.parse_args()
     folder = args.folder.resolve()
     if args.export:
@@ -250,7 +271,7 @@ def main():
     catalog = load(catalog_path) if catalog_path.exists() else {"books": []}
     problems = []
     for src in books:
-        entry = publish_book(src, wt, problems)
+        entry = publish_book(src, wt, problems, args.complete_only)
         if entry:
             catalog["books"] = [entry if b["id"] == entry["id"] else b for b in catalog["books"]]
             if entry not in catalog["books"]:

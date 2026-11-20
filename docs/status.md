@@ -21,7 +21,10 @@ Updated 2026-11-19 (evening). Whoever works on YouTop next: read `CLAUDE.md`, th
   backed up on the work branch under `drafts/medcosmos-cardiac/` until it is published to `content`.
 - **Where things stand (2026-11-20, 01:25 UTC):** texts for 1-110 written; prompts for 21-110 SENT (90 pictures
   waiting, so no new batch is written until fewer than 20 prompts wait, as the round rules say).
-  - **1-20 PUBLISHED.** Pictures 2 and 4 still missing (texts, spots and marks for them are in
+  - **The owner (2026-11-20): publish only complete lessons.** 1, 3 and 5-20 are published (18); 2 and 4 were taken
+    out until their pictures arrive. Publish MedCosmos with `publish.py F --complete-only` from a folder F that
+    links only `books/medcosmos-cardiac` (and `work`), as the skill says; never publish `.content-work` whole.
+  - **1-20:** pictures 2 and 4 still missing (texts, spots and marks for them are in
     `work/medcosmos-cardiac/batch-0001-0020/`; when they arrive: `batch.py pictures`, spots, marks, look, publish).
   - 21-110: built, RECORDED and voice-checked (silent sentences in 38, 54, 65, 76 re-recorded and passing; small
     word-boundary misses left in 76 s9, 91 s6, 94 s4 'اليمنى'). Nothing is running. Waiting for the owner's pictures.
