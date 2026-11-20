@@ -19,6 +19,8 @@ Updated 2026-11-19 (evening). Whoever works on YouTop next: read `CLAUDE.md`, th
   ends: while it runs, never build, set pictures, spots or marks, or publish. Start make as a round's last step.
 - **Unpublished work** lives in `.content-work/work/medcosmos-cardiac/batch-*/` (batch, voice, spots, marks) and is
   backed up on the work branch under `drafts/medcosmos-cardiac/` until it is published to `content`.
+- **No automatic work (the owner, 2026-11-20):** do NOT create scheduled tasks or hourly rounds unless the owner
+  asks for it in their own words. Work only when the owner asks.
 - **Handover (2026-11-20, 13:30 UTC): the owner is closing this conversation.** Everything is on GitHub: main holds
   the tools, symbols and this file; `content` holds the 96 published lessons and every batch's work files under
   `work/medcosmos-cardiac/`; `drafts/medcosmos-cardiac/` on main holds the same files plus
