@@ -19,6 +19,15 @@ Updated 2026-11-19 (evening). Whoever works on YouTop next: read `CLAUDE.md`, th
   ends: while it runs, never build, set pictures, spots or marks, or publish. Start make as a round's last step.
 - **Unpublished work** lives in `.content-work/work/medcosmos-cardiac/batch-*/` (batch, voice, spots, marks) and is
   backed up on the work branch under `drafts/medcosmos-cardiac/` until it is published to `content`.
+- **Handover (2026-11-20, 13:30 UTC): the owner is closing this conversation.** Everything is on GitHub: main holds
+  the tools, symbols and this file; `content` holds the 96 published lessons and every batch's work files under
+  `work/medcosmos-cardiac/`; `drafts/medcosmos-cardiac/` on main holds the same files plus
+  `prompts-missing.txt` / `image-prompts-missing.json` (the 46 pictures still wanted, prompts unchanged).
+  To restart: `python3 tools/content/publish.py --export .content-work` rebuilds the scratch folder (media are on
+  `content`); download the master `.jsonl` from Drive (id in `content/books/medcosmos-cardiac.json`); make a venv with
+  edge-tts and faster-whisper for `voice.py`. Pictures still wanted: 1, 10, 16, 21, 25, 31, 38, 45, 60, 65, 76,
+  81-110 (86-96, 99, 102, 103 never had one). The hourly scheduled task trig_01CgSmtZZ33N4gFXAr9mtxZy fires into
+  THIS session; a new session should disable it (update_trigger enabled=false) and create its own if wanted.
 - **Where things stand (2026-11-20, 10:30 UTC):** texts and voices for 1-110 done. **96 lessons PUBLISHED** (complete
   only), published with `publish.py <scratchpad>/pub-mc --complete-only` (pub-mc links only `books/medcosmos-cardiac`
   and `work`).
