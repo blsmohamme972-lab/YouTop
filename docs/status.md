@@ -19,15 +19,16 @@ Updated 2026-11-19 (evening). Whoever works on YouTop next: read `CLAUDE.md`, th
   ends: while it runs, never build, set pictures, spots or marks, or publish. Start make as a round's last step.
 - **Unpublished work** lives in `.content-work/work/medcosmos-cardiac/batch-*/` (batch, voice, spots, marks) and is
   backed up on the work branch under `drafts/medcosmos-cardiac/` until it is published to `content`.
-- **Where things stand (2026-11-20, 09:30 UTC):** texts and voices for 1-110 done. **89 lessons PUBLISHED** (complete
+- **Where things stand (2026-11-20, 10:30 UTC):** texts and voices for 1-110 done. **96 lessons PUBLISHED** (complete
   only), published with `publish.py <scratchpad>/pub-mc --complete-only` (pub-mc links only `books/medcosmos-cardiac`
   and `work`).
   - **The owner is redrawing all pictures (2026-11-20)** with the same prompts and deleted the old ones from the Drive
     folder. New pictures are set with `batch.py pictures medcosmos-cardiac <folder> --replace b` (a published media name
-    never changes), then NEW spots and marks go in each batch's `spots-v2.txt` / `marks-v2.txt`. Done: 2-4, 6-9,
-    11-15, 17-20, 22-24, 26-30, 32-37, 39-44, 46-50. Still on the old pictures: 1, 5, 10, 16, 21, 25, 31, 38, 45 and
-    51-110. The owner uploaded the ox picture (49) also as 38 and 45; those two keep their old pictures for now.
-  - Never had a picture: 52, 54, 56, 62, 70, 73, 80, 86-96, 99, 102, 103.
+    never changes), then NEW spots and marks go in each batch's `spots-v2.txt`/`marks-v2.txt` (round 2) or
+    `spots-v3.txt`/`marks-v3.txt` (round 3). Redrawn: 2-9, 11-15, 17-20, 22-24, 26-30, 32-37, 39-44, 46-59, 61-64,
+    66-75, 77-80. Still on the old pictures: 1, 10, 16, 21, 25, 31, 38, 45, 60, 65, 76, 81-85, 97, 98, 100, 101,
+    104-110. 38 and 45 were uploaded as copies of 49; two files named 52 came, the clearer one was used.
+  - Never had a picture: 86-96, 99, 102, 103.
   - NEXT writing: 111-156 (when fewer than 20 prompts wait).
   - New symbols must join two or three layers (sound, meaning, place); `symbols.py audit` rejects fewer.
 
