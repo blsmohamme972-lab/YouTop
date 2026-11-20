@@ -58,7 +58,13 @@ Updated 2026-11-19 (evening). Whoever works on YouTop next: read `CLAUDE.md`, th
     in mud, parted from one who speaks your tongue) and explanations written (`batch-0121-0130/`), not yet built.
   - Questions 131-140: tables, scenes and prompts written and sent (`batch-0131-0140/`). 136's key is kept with a
     note (the book says tPA is no better than streptokinase; GUSTO found it slightly better).
-    NEXT: build and record 121-130 (after 111-120's recording ends: same chapter file), stories of 131-140, 141-156.
+    Stories of 131-140 written (Rumi: endure the lancet, lion of God, lion without tail, bird without wings,
+    the Beloved is all, listen to this tale, the Greeks polished their breasts, imitation, the fool's love is the
+    bear's, love makes the sea boil).
+  - Questions 141-156: tables, scenes and prompts written and sent (`batch-0141-0150/`, `batch-0151-0156/`). 156's
+    option D corrected (`option: D = ...`, x:key-corrected): the book says class 3 drugs "inhibit potassium influx";
+    they block the outward potassium current. ALL 156 PROMPTS ARE NOW WITH THE OWNER.
+    NEXT: stories of 141-156; build and record 121-156 batch by batch (one chapter file: never two writers at once).
 - **Where things stand (2026-11-20, 10:30 UTC):** texts and voices for 1-110 done. **96 lessons PUBLISHED** (complete
   only), published with `publish.py <scratchpad>/pub-mc --complete-only` (pub-mc links only `books/medcosmos-cardiac`
   and `work`).
