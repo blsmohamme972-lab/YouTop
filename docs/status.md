@@ -64,7 +64,12 @@ Updated 2026-11-19 (evening). Whoever works on YouTop next: read `CLAUDE.md`, th
   - Questions 141-156: tables, scenes and prompts written and sent (`batch-0141-0150/`, `batch-0151-0156/`). 156's
     option D corrected (`option: D = ...`, x:key-corrected): the book says class 3 drugs "inhibit potassium influx";
     they block the outward potassium current. ALL 156 PROMPTS ARE NOW WITH THE OWNER.
-    NEXT: stories of 141-156; build and record 121-156 batch by batch (one chapter file: never two writers at once).
+  - ALL 156 QUESTIONS ARE WRITTEN (2026-11-20, night). Stories of 141-156 with Rumi lines (Book I: "they did
+    not say 'if God wills'", love's green garden, only the senseless is confidant, effort and medicine are real, before
+    and behind, I am a mountain, I strike the sword for God, since they cut me from the reed-bed, love is the soul of
+    Sinai, love wills this speech shown forth, ask God for courtesy; Book II: the Masnavi delayed till blood became
+    milk, until your fortune bears a new child, love's religion is apart, the ruby without a seal; Book IV: the gardens
+    are in the heart). 111-120 recorded; 121-140 built and recording; 141-156 waiting to be built and recorded.
 - **Where things stand (2026-11-20, 10:30 UTC):** texts and voices for 1-110 done. **96 lessons PUBLISHED** (complete
   only), published with `publish.py <scratchpad>/pub-mc --complete-only` (pub-mc links only `books/medcosmos-cardiac`
   and `work`).

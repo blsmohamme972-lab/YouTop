@@ -15,6 +15,25 @@ palette: theatre lobby gold, salt white, chalk white, banana yellow
 keywords: sodium fast channel -> a fast revolving door through which salt crystals rush in; calcium slow channel -> a slow heavy door through which white chalky glue oozes in; potassium leaving the cell -> bananas tumbling out through a back door; hypokalaemia -> only a few bananas left in the street outside; automaticity -> a jittery doorman ringing his bell by himself
 must: the revolving door is FAST and the glue door SLOW; bananas go OUT the back; few bananas in the street and the doorman rings by himself
 scene: A theatre-style room inside the old Brooklyn hotel with a stag's head, warm gold light. CENTRE, dominant and brightest: a doorman rings a bell, and at once a fast revolving door spins and salt crystals rush in, while a slow heavy door beside it creaks open and white chalky glue oozes in. At the back, bananas tumble out through a back door as the room calms. Outside in the street only a few bananas lie on the pavement, and a second doorman, jittery, rings his bell by himself again and again.
+story:
+في قاعة كقاعات المسارح داخل فندق الأيّل، وقف بوّاب يمسك جرسًا ذهبيًّا.
+فلمّا قرع الجرس، دار باب دوّار سريع، فاندفعت منه بلّورات الملح إلى الداخل.
+وإلى جانبه صرّ باب ثقيل بطيء، فسال منه غراء أبيض كالطّباشير على مهل.
+فقالت المديرة بيرل: «باب سريع للملح وباب بطيء للغراء؛ كلاهما ينفتح إذا قرع الجرس.»
+ثمّ أخذت ثمرات الموز تتدحرج خارجةً من الباب الخلفيّ، فهدأت القاعة سريعًا.
+فقال الحارس سام: «كلّما خرج الموز عادت القاعة إلى سكونها.»
+وفي الشارع خارج القاعة، لم يبق على الرصيف إلّا قليل من الموز.
+فإذا بوّاب ثان عصبيّ، يقرع جرسه وحده مرّةً بعد مرّة، ولا أحد أمره.
+فقالت بيرل: «إذا قلّ الموز في الشارع، صار البوّابون يقرعون من تلقاء أنفسهم.»
+فأصغت إلى الأجراس وقالت:
+quote: «صار العشق روح الطور أيّها العاشق؛ فسكر الطور، وخرّ موسى صعقًا.»
+source: المثنوي، الكتاب الأول
+explanation:
+A physical or electrical stimulus opens the fast sodium channels and then the slow calcium channels of the myocyte: statement A is true.
+Rapid repolarization follows the outflow of potassium from the cell: statement C is true.
+In the book, extracellular hypokalaemia increases automaticity: statement D is true.
+So A, C and D are the answer.
+During the effective refractory period the fast sodium channels are inactivated, not only the slow calcium channels, and catecholamines do not act by increasing outward potassium flow.
 
 == 152
 # The goals of an EP study in a 72-year-old with ventricular tachycardia -> A (the goal is to induce sustained or non-sustained VT) and B (fewer than 5 repetitive complexes counts as non-inducible).
@@ -29,6 +48,24 @@ words: 4, 5
 keywords: electrophysiology study -> a technician touching the old scar with a sparking blue wand; arrhythmia -> a pirate shouting ARRR and dancing a wild jig out of step with the music; ventricle -> the red engine room with its huge ventilation fan; non-inducible -> the pirate stopping after only 4 steps, short of a sign marked 5
 must: the pirate's chalked footprints number exactly FOUR and stop before the sign 5
 scene: The red engine room of the old Brooklyn hotel with a stag's head, seen cut open, dim light, its huge fan turning. On the wall an old healed white scar. CENTRE, dominant and brightest: a technician touches the scar with a sparking blue wand to make a pirate dance; the pirate takes a few wild jig steps, his footprints chalked on the floor, and stops after the fourth, just short of a wooden sign marked 5. A 72-year-old man watches from a chair.
+story:
+في الغرفة الحمراء من فندق الأيّل، وتحت ضوء خافت، جلس شيخ في الثانية والسّبعين على كرسيّ.
+كان القرصان قد رقص في غرفته مرّات عدّة، ثمّ اختفى.
+فجاء فنّيّ بعصًا زرقاء تقدح الشرر، ولمس بها الندبة القديمة على الجدار.
+وقال: «لا أريد أن أداويه الآن؛ أريد أن أراه يرقص، طويلًا كان رقصه أو قصيرًا.»
+فخرج القرصان يرقص، وعلى الأرض تبقى آثار أقدامه بالطّباشير.
+خطوة، ثمّ خطوة، ثمّ خطوة، ثمّ الرابعة.
+ثمّ وقف قبل لافتة خشبيّة عليها رقم خمسة، ولم يبلغها.
+فقال الفنّيّ: «أربع خطوات لا تكفي؛ ما دون الخمس نعدّه كأنّه لم يرقص.»
+فتنفّس الشيخ وقال: «إذن لم توقظوه هذه المرّة.»
+فطوى الفنّيّ عصاه وقال:
+quote: «العشق يريد أن يخرج هذا الكلام إلى الظهور؛ فإن لم تعكس المرآة فكيف يكون؟»
+source: المثنوي، الكتاب الأول
+explanation:
+The goal of programmed stimulation at an electrophysiological study is to induce the patient's ventricular tachycardia, whether sustained or non-sustained: statement A is true.
+Fewer than five repetitive ventricular responses to stimulation are considered non-inducible: statement B is true.
+So A and B are the answer.
+An induced re-entrant tachycardia is generally pathological, and in the book post-infarction tachycardias are not described as micro-reentry, nor ischaemic ones as macro-reentry.
 
 == 153
 # EP study in suspected WPW -> B (pacing uses stimuli at twice the diastolic threshold) and E (if neither left nor right bundle branch block prolongs the VA interval, the pathway is septal).
@@ -44,6 +81,24 @@ words: 2x
 keywords: Wolff-Parkinson-White accessory pathway -> a grey wolf digging a shortcut tunnel straight from an upper lobby down to an engine room; pacemaker -> a marching drummer keeping a steady beat; twice the diastolic threshold -> the drummer striking twice as hard as the faintest beat that works; bundle branch block -> the left and the right branches of the sparking bundle tied off with ribbons; septum -> the middle party wall
 must: the wolf's tunnel runs through the MIDDLE party wall; BOTH branches are tied off and the wolf is no slower; the sign reads 2x
 scene: The old Brooklyn hotel with a stag's head over its door at night, seen cut open like a doll's house. CENTRE, dominant and brightest: a grey wolf digs a shortcut tunnel straight down through the middle party wall from the upper lobby to the engine rooms, and runs back up it; beside it, the left and the right branches of a sparking bundle of branches are both tied off with ribbons, yet the wolf's return trip is no slower, as a stopwatch shows. LEFT: a marching drummer strikes his drum twice as hard as the faintest beat that works, beside a sign reading 2x.
+story:
+في ليلة زرقاء في فندق الأيّل، شكا شابّ في التاسعة والعشرين من قلب يسرع فجأةً ويهدأ فجأة.
+فنزلوا يبحثون، فإذا ذئب رماديّ قد حفر نفقًا مختصرًا من البهو العلويّ إلى غرف المحرّكات.
+فوقف عازف الطبل يضرب ليكشف طريق الذئب.
+وكان يضرب ضعف أخفّ ضربة تنفع، وإلى جانبه لافتة: ضعفان.
+فقال: «لا أضرب بأخفّ ما ينفع فأخطئ، ولا بأشدّ ما أقدر فأفسد؛ ضعف الحدّ يكفي.»
+ثمّ ربطوا الفرع الأيسر من حزمة الأغصان بشريطة، ثمّ الفرع الأيمن.
+فلم يبطؤ الذئب في رجوعه إلى الأعلى، لا مع هذا ولا مع ذاك، كما قالت ساعة الإيقاف.
+فقالت المديرة بيرل: «إن لم يبطئه ربط أيّ من الفرعين، فنفقه في الجدار الأوسط.»
+فنظروا، فإذا النفق يمرّ في وسط الجدار الفاصل تمامًا.
+فابتسمت بيرل للذّئب وقالت:
+quote: «ملّة العشق عن الأديان كلّها منفصلة؛ للعشّاق ملّة ومذهب: هو الله.»
+source: المثنوي، الكتاب الثاني
+explanation:
+In the electrophysiological study of WPW, pacing stimuli are delivered at twice the diastolic threshold: statement B is true.
+If neither left nor right bundle branch block prolongs the VA interval during reciprocating tachycardia, the accessory pathway lies in the septum: statement E is true.
+So B and E are the answer.
+In the book, the catheter set listed in A is not obligatory; earliest atrial activity at the coronary sinus catheter points to a left free wall pathway, and at the right atrial catheter to a right free wall pathway, the reverse of statements C and D.
 
 == 154
 # A 62-year-old with poor LV function, no aneurysm, non-inducible at EP study -> B (an appropriate AICD improves mortality by about 50% over drugs) and E (an AICD gives antitachycardia pacing as well as defibrillation).
@@ -58,6 +113,25 @@ words: 2, 4
 keywords: implantable cardioverter-defibrillator -> a tiny bodyguard living inside the hotel; pacemaker -> a marching drummer keeping a steady beat, here drumsticks in the bodyguard's hand; defibrillation -> a car being jump-started with sparking jumper cables, here cables in the bodyguard's other hand; mortality -> coffins
 must: the bodyguard holds DRUMSTICKS and JUMPER CABLES; TWO coffins behind his hotel and FOUR behind the pill-bottle hotel
 scene: Two copies of the old Brooklyn hotel with a stag's head stand side by side. CENTRE, dominant and brightest: inside the left hotel, a tiny bodyguard in a dark suit stands ready in the engine room, holding drumsticks in one hand and sparking jumper cables in the other; behind this hotel stand two coffins. The right hotel relies only on a heap of white pill bottles at its door, and four coffins stand behind it.
+story:
+وقف فندقان من فنادق الأيّل جنبًا إلى جنب، وكلاهما ضعيف المراوح منذ زمن.
+في غرفة المحرّكات من الأيسر، وقف حارس شخصيّ صغير ببدلة داكنة، يسكن الفندق ولا يفارقه.
+في يد يمسك عصوي طبل، وفي الأخرى أسلاك شحن تقدح الشرر.
+فإذا أسرعت المروحة قليلًا، ضرب بعصويه إيقاعًا أسرع منها حتّى تتبعه ثمّ تهدأ.
+وإذا رقص القرصان رقصته المجنونة، أطلق عليه أسلاك الشحن فأسكته.
+أمّا الفندق الأيمن، فلم يكن عند بابه إلّا كومة من قناني الحبوب البيضاء.
+وخلف الفندق الأيسر تابوتان، وخلف الأيمن أربعة.
+فقالت المديرة بيرل: «الحارس الصغير ينقص التوابيت إلى النصف؛ ولا تمنعه مراوح ضعيفة، ولا انتظار قلب جديد.»
+فقال الحارس سام: «ويعرف القرصان السريع كما يعرف الرجفة.»
+فنظرت بيرل إلى الحارس الصغير وقالت:
+quote: «البساتين والثّمار داخل القلب؛ وعكس لطفها على هذا الماء والطّين.»
+source: المثنوي، الكتاب الرابع
+explanation:
+In a patient with depressed left ventricular function who is non-inducible at EP study, an automatic implantable cardioverter-defibrillator may still be appropriate.
+In the book, an AICD improves mortality by about 50% compared with drug therapy: statement B is true.
+Modern devices recognise ventricular tachycardia as well as fibrillation and give antitachycardia pacing as well as shocks: statement E is true.
+So B and E are the answer.
+Poor ventricular function is not a contraindication, and an AICD is often used as a bridge in patients awaiting transplantation.
 
 == 155
 # A surgery resident with WPW -> B (dangerous ventricular responses come from the accessory pathway's short refractory period), D (about half have VA block after successful division, in the book), E (radiofrequency and surgical ablation give excellent results with low morbidity).
@@ -72,6 +146,25 @@ palette: blowtorch blue flame, wolf grey, electric sparks, surgical green
 keywords: Wolff-Parkinson-White accessory pathway -> a grey wolf digging a shortcut tunnel straight from an upper lobby down to an engine room; AV node -> the knot at the top of the bundle of branches; ablation -> a blowtorch burning the wolf's tunnel shut; short refractory period -> sparks rushing through the tunnel one after another without rest while the knot pauses
 must: sparks pour through the tunnel WITHOUT pause while the knot RESTS; the tunnel is closed both by a blowtorch inside and a surgeon outside
 scene: The old Brooklyn hotel with a stag's head over its door, seen cut open like a doll's house. CENTRE, dominant and brightest: a grey wolf's shortcut tunnel runs from the upper lobby down to the engine room, and sparks rush through it one after another without pause, while beside it the knot at the top of the sparking bundle of branches rests between sparks. Inside the tunnel a blowtorch burns it shut; outside, a surgeon closes its other end; both smile. On half of the hotel's staircases, a sign with an arrow pointing up is crossed out.
+story:
+في فندق الأيّل، كان طبيب مقيم في الجراحة، في السابعة والعشرين، يشكو نوبات من القلب السريع.
+فوجدوا نفق ذئب رماديّ يصل البهو العلويّ بغرفة المحرّكات.
+وكان الشرر يندفع في النفق شرارةً بعد شرارة، بلا راحة بينها.
+أمّا العقدة في أعلى حزمة الأغصان، فكانت تستريح بين كلّ شرارتين.
+فقالت المديرة بيرل: «العقدة تتمهّل فتحمي الغرف؛ والنّفق لا يتمهّل، فإذا ارتجف الأعلى صبّ كلّ شيء في الأسفل.»
+فدخل رجل بمشعل لحم إلى النفق من الداخل، فأحرقه وسدّه.
+ومن الخارج، أغلق جرّاح طرفه الآخر، وكلاهما يبتسم.
+فقال الحارس سام: «المشعل والجرّاح كلاهما يحسن، وقلّما يؤذي.»
+ثمّ شطبت على نصف سلالم الفندق لافتة عليها سهم إلى الأعلى.
+فنظرت بيرل إلى النفق المسدود وقالت:
+quote: «إن لم يكن على الياقوت ختم فلا بأس؛ العشق في بحر الغمّ لا يغتمّ.»
+source: المثنوي، الكتاب الثاني
+explanation:
+In WPW syndrome, a dangerously fast ventricular response, for example in atrial fibrillation, comes from the short refractory period of the accessory pathway, which does not slow conduction as the AV node does: statement B is true.
+In the book, about half of patients show VA block after successful division of the accessory pathway: statement D is true.
+Both radiofrequency catheter ablation and surgical division give excellent results with low morbidity: statement E is true.
+So B, D and E are the answer.
+More than one accessory pathway may be present, and finding a pathway in a patient without symptoms is not by itself an indication to interrupt it.
 
 == 156
 # Antiarrhythmic drugs -> A (class 1 membrane stabilizers block sodium channels), D (bretylium and class 3 drugs block the outward potassium current, corrected wording), E (calcium channel blockers act directly on the SA and AV nodes).
@@ -87,3 +180,24 @@ option: D = Bretylium and other Class 3 drugs inhibit potassium efflux (the outw
 keywords: class 1 local anaesthetic -> a dentist's numbing needle jamming a fast revolving door so salt crystals cannot rush in; bretylium -> a big BRETzel-shaped pretzel jammed in the back door so the bananas cannot tumble out; calcium channel blocker -> a canal (a channel) dammed by a spilled can of white chalky glue; sinus node -> an orchestra conductor at the top of the blue lobby beside the chimney, beating time with his baton; AV node -> the knot at the top of the bundle of branches
 must: the needle JAMS the revolving door; the pretzel BLOCKS the bananas from going out; the glue dams the canals feeding BOTH the conductor and the knot
 scene: The old Brooklyn hotel with a stag's head over its door, seen cut open like a doll's house, clean clinic light. CENTRE, dominant and brightest: a dentist jams a big numbing needle into a fast revolving door so the salt crystals waiting outside cannot rush in. At the back, a big pretzel is wedged in a back door so the bananas inside cannot tumble out. Above, two little canals running to an orchestra conductor at the top of the blue lobby and to the knot at the top of a sparking bundle of branches are both dammed by spilled white chalky glue, and the conductor's baton and the sparks slow down.
+story:
+في ضوء أبيض نظيف في فندق الأيّل، جاء طبيب أسنان بإبرة تخدير كبيرة.
+فغرزها في الباب الدوّار السريع، فتوقّف الدوران، وبقيت بلّورات الملح في الخارج لا تندفع.
+فقال: «هذه الإبرة تخدّر الباب السريع؛ ولا تقصّر وقت راحته.»
+وفي الخلف، علقت كعكة بريتزل كبيرة في الباب الخلفيّ، فلم يستطع الموز أن يخرج.
+فقالت المديرة بيرل: «ما دام الموز لا يخرج، طال وقت هدوء القاعة.»
+وفي الأعلى قناتان صغيرتان، إحداهما إلى قائد الأوركسترا، والأخرى إلى العقدة.
+فانسكب فيهما غراء أبيض كالطّباشير فسدّهما، فأبطأت عصا القائد وأبطأ الشرر.
+فقال الحارس سام: «الغراء يصل إلى القائد والعقدة رأسًا.»
+ثمّ مرّ حارس مرمًى بباب الفندق يصدّ رسل القلق كلّهم، من جاء في الأعصاب ومن جاء في الدم.
+فنظرت بيرل إلى الأبواب الهادئة وقالت:
+quote: «من الله نطلب التوفيق إلى الأدب؛ فمن لا أدب له حرم لطف الربّ.»
+source: المثنوي، الكتاب الأول
+explanation:
+Class 1 antiarrhythmics, the membrane-stabilizing local anaesthetic drugs, act by blocking the fast sodium channels: statement A is true.
+Class 3 drugs such as bretylium block the outward potassium current that repolarizes the cell, prolonging the action potential and the refractory period: statement D, as corrected, is true.
+Class 4 calcium channel blockers act directly on the SA and AV nodes, slowing the rate and AV conduction: statement E is true.
+So A, D and E are the answer.
+Class 1 drugs do not shorten the refractory period, and beta-blockers block the effects of circulating catecholamines as well as those of sympathetic nerves.
+note: The book's option D reads 'inhibit potassium influx into cells'; class 3 drugs block the outward potassium current (efflux), so the wording is corrected and the key kept.
+
