@@ -23,9 +23,8 @@ Updated 2026-11-19 (evening). Whoever works on YouTop next: read `CLAUDE.md`, th
   waiting, so no new batch is written until fewer than 20 prompts wait, as the round rules say).
   - **1-20 PUBLISHED.** Pictures 2 and 4 still missing (texts, spots and marks for them are in
     `work/medcosmos-cardiac/batch-0001-0020/`; when they arrive: `batch.py pictures`, spots, marks, look, publish).
-  - 21-110: built and RECORDED (all makes ended, exit 0). Voice checks passed for 21-50 and 81-90; lesson 38 fixed.
-    Sentences heard as silent in 54 (s9), 65 (s9-10) and 76 (s5) are being re-recorded, then 91-110 checked
-    (scratchpad `voice-fix.log`; wait for `exitall` before building or publishing).
+  - 21-110: built, RECORDED and voice-checked (silent sentences in 38, 54, 65, 76 re-recorded and passing; small
+    word-boundary misses left in 76 s9, 91 s6, 94 s4 'اليمنى'). Nothing is running. Waiting for the owner's pictures.
   - When pictures arrive for any batch: `batch.py pictures`, write spots.txt and marks.txt from the pictures (as in
     batch-0001-0020), look at every drawing, `voice.py check`, publish, merge status to main.
   - Key fixes: Q56 option C reversed in the book (`option:`), Q79 key reversed (`key: C`), Q82 matching key asked as
