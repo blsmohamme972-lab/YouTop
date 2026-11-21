@@ -1,0 +1,325 @@
+book: johns-hopkins-2016
+# Lessons 171-180 (book 35.1-36.5: mitral valve replacement and repair). Written 2026-11-21, night.
+# Each story: a hook, a wrong try that fails, the answer acting, a payoff line that names the symbol, and a lead-in
+# that says who speaks the quotation and why it fits.
+
+== 171
+# book 35.1: mitral valve replacement is indicated for -> C, a 55-year-old woman, breathless on minimal activity, moderate MS with thick leaflets and severe fibrosis and shortening of the chordae, not amenable to balloon valvuloplasty.
+# a woman sailor gasping after one step of a tower's stairs -> breathless on minimal activity
+# the bishop's mitre turned to stone, pinched to a slit, its leaves thick -> mitral stenosis (audited stone)
+# the harp strings scarred, thick and short -> severe fibrosis and shortening of the chordae (audited harp)
+# a big red balloon on a fishing line bouncing off the stone mitre -> not suitable for balloon valvuloplasty
+# ANSWER: Franky lifting the stone mitre out and setting a brand-new mitre in its place -> mitral valve replacement (audited mitre)
+# Buggy offended by "big red round" -> comic payoff
+title: Mitral stenosis with thick leaflets and short, fibrosed chords, unfit for a balloon: replace the valve
+titleAr: تضيّق التاجيّ مع وريقات ثخينة وحبال ليفيّة قصيرة لا يصلح لها البالون: تبديل الصمّام
+tags: cardiac/mitral-tricuspid d:indications q:vignette l:2
+palette: stone grey, circus red and fresh gold
+keywords: breathless on minimal activity -> a woman sailor gasping after climbing a single step of a tall tower's stairs; mitral stenosis -> the bishop's mitre turned to grey stone, pinched to a narrow slit, its two leaves thick; fibrosed, shortened chordae -> the golden harp strings under the mitre scarred, thick and short; not suitable for balloon valvuloplasty -> a big red balloon on a fishing line bouncing off the stone mitre without widening it; mitral valve replacement -> Franky lifting the stone mitre out with his metal arms and setting a brand-new mitre in its place; Buggy the clown -> a clown with a big round red nose passing by, furious
+must: the red balloon bounces off and the slit stays narrow; the new mitre replaces the stone one
+scene: An island harbour with a tall tower whose stairs climb into the clouds. LEFT: a woman sailor gasping on the first step of the tower's stairs, a little HART Hotel drawn on her chest. CENTRE, dominant and brightest: inside that little hotel, the bishop's mitre turned to grey stone, pinched to a narrow slit, its leaves thick, the golden harp strings beneath it scarred, thick and short; Usopp pushes a big red balloon on a fishing line into the slit and it bounces off; Franky lifts the stone mitre out with his huge metal arms and sets a brand-new shining mitre in its place. RIGHT: Buggy the clown, with his big round red nose, passing by and turning round furious; Chopper pointing at the short strings.
+story:
+على جزيرة فيها برج يصعد درجه إلى الغيوم، صعدت بحّارة في الخامسة والخمسين درجةً واحدة، فوقفت تلهث.
+وفي صدرها فندق صغير، قد تحجّر فيه تاج الأسقف، فلا ينفتح إلّا شقًّا ضيّقًا، وورقتاه غليظتان.
+وتحته أوتار القيثارة قد تليّفت، فصارت غليظةً قصيرةً تشدّ الورقتين إلى أسفل.
+«ننفخ فيه بالونًا على خيط فيتّسع!» قال أوسوب، ودفع بالونًا أحمر كبيرًا على خيط صيد نحو التاج.
+لكنّ البالون ارتدّ عن الحجر كأنّه يرتطم بصخرة، ولم يتّسع الشقّ شعرةً واحدة.
+«الحجر غليظ، والأوتار قصيرة، فلا ينفع البالون!» قال تشوبر.
+فرفع فرانكي التاج الحجريّ من مكانه بذراعيه الحديديّتين، ووضع مكانه تاجًا جديدًا لامعًا.
+فصعدت البحّارة الدرج كلّه دفعةً واحدة، تضحك وتتنفّس بسهولة.
+«تاج من حجر، وأوتار قصيرة، وبالون يرتدّ: نبدّل التاج كلّه!» قال تشوبر.
+«انظروا إلى ذلك البالون الأحمر الكبير المستدير!» ضحك أوسوب، فإذا باغي المهرّج يمرّ بهم، فظنّه يعني أنفه، والتفت غاضبًا:
+quote: «من الّذي تسمّيه صاحب الأنف الأحمر الكبير؟!»
+source: باغي المهرّج
+explanation:
+Mitral valve replacement is indicated for the breathless woman with mitral stenosis whose valve cannot be opened by a balloon: C.
+Her leaflets are thick and her chords are severely fibrosed and short, the stone mitre and the short scarred strings, so percutaneous balloon valvuloplasty cannot work, the red balloon bouncing off.
+With symptoms on minimal activity and a valve that cannot be repaired or ballooned, the valve is replaced, Franky setting in a new mitre.
+Severe regurgitation from a prolapsing posterior leaflet is repaired, not replaced; a large vegetation is an indication for surgery but repair is tried first; and ischaemic regurgitation with three-vessel disease is treated with bypass, the regurgitation itself often with an annuloplasty.
+Memory hook: a stone mitre, short scarred strings and a balloon that bounces off: replace the whole mitre.
+
+== 172
+# book 35.2: a bioprosthetic valve is preferable to a mechanical valve for MV replacement in -> B, a 35-year-old woman with rheumatic MS who wishes to conceive.
+# the mitre stiffened by scarlet beads, turned to stone -> rheumatic mitral stenosis (audited scarlet beads)
+# the empty cradle beside the young woman -> she wishes to conceive
+# the rat in a soldier's helmet creeping toward the cradle -> warfarin harms the unborn child (audited rat)
+# the clanking little steel robot pushed aside -> a mechanical valve needs lifelong warfarin (audited robot)
+# ANSWER: a soft tissue box set in as the new mitre -> a bioprosthesis needs no warfarin (audited tissue box)
+# Luffy ordering Sogeking to shoot the rat's flag -> comic payoff
+title: A young woman who wants to conceive: choose a bioprosthetic mitral valve
+titleAr: شابّة تريد الحمل: نختار صمّامًا تاجيًّا حيويًّا
+tags: cardiac/mitral-tricuspid d:indications q:vignette l:2 x:high-yield
+palette: flower-island pink, cradle white and scarlet
+keywords: rheumatic mitral stenosis -> the bishop's mitre stiffened by a chain of scarlet beads, turned to stone; wish to conceive -> an empty baby cradle beside a young woman of 35; warfarin -> a rat in a soldier's helmet creeping toward the cradle with a tiny black flag; mechanical valve -> a clanking little steel robot pushed aside; bioprosthetic valve -> a soft paper tissue box set in as the new mitre
+must: the rat creeps toward the empty cradle; the tissue box, not the robot, sits in the mitre's place
+scene: An island of flowers in soft pink light. LEFT: a young woman of 35 sitting beside an empty baby cradle, a little HART Hotel drawn on her chest, its bishop's mitre stiffened by a chain of scarlet beads and turned to stone. CENTRE, dominant and brightest: Franky setting a soft paper tissue box in as the new mitre, while Usopp drags a clanking little steel robot aside; a rat in a soldier's helmet creeps toward the cradle, holding up a tiny black flag. RIGHT: Luffy pointing at the rat's flag and shouting; Chopper standing guard over the cradle.
+story:
+على جزيرة الزهور، جلست شابّة في الخامسة والثّلاثين بجانب مهد فارغ، تحلم بطفل يملؤه.
+لكنّ تاج الأسقف في فندقها قد يبّسه خرز قرمزيّ، حتّى صار حجرًا لا ينفتح إلّا قليلًا.
+«نضع مكانه روبوتًا فولاذيًّا، يعيش ألف سنة!» قال أوسوب، وجرّ روبوتًا صغيرًا يقعقع.
+لكنّ الروبوت لا يعمل إلّا ومعه جرذ في خوذة جنديّ، يرافقه ليل نهار.
+وما إن رأى الجرذ المهد الفارغ، حتّى زحف نحوه يريد أن يؤذي الطفل القادم.
+«الجرذ يؤذي الطفل الّذي لم يولد، فلا روبوت لهذه الأمّ!» صاح تشوبر.
+فأبعد فرانكي الروبوت، ووضع مكان التاج علبة مناديل ناعمة، لا تحتاج إلى جرذ ولا إلى خوذة.
+«علبة المناديل للأمّ الّتي تنتظر طفلًا، والرّوبوت وجرذه لغيرها!» قال تشوبر.
+فرفع الجرذ رايةً سوداء صغيرةً يعلن بها الحرب، فالتفت لوفي إلى أوسوب، وأمره كما أمره يومًا في إينيس لوبي:
+quote: «سوغيكينغ! أطلق النار على ذلك العلم!»
+source: مونكي دي لوفي
+explanation:
+For a young woman who wishes to become pregnant, a bioprosthetic valve, the soft tissue box, is preferable to a mechanical one: B.
+A mechanical valve, the clanking robot, needs lifelong warfarin, the rat in the helmet, and warfarin crosses the placenta and can harm the unborn child, the rat creeping to the cradle.
+Pregnancy with a mechanical valve also carries a high risk of valve thrombosis whichever anticoagulant is used, while a bioprosthesis needs none, at the price of earlier degeneration in the young.
+A patient already on warfarin for atrial fibrillation gains nothing by avoiding a mechanical valve.
+Memory hook: no robot and no rat beside the cradle; the young mother gets the tissue box.
+
+== 173
+# book 35.3: order of procedures for combined AVR, MV replacement and LIMA-LAD plus SVG-OM -> D, distal anastomoses, excise the aortic valve, MV replacement, AVR, proximal anastomosis.
+# a wooden staircase of five landings, left to right, 1 to 5 -> the order is a route
+# landing 1: the ends of the lima bean vine and the sapphire chain tied onto the crown (the lad's slide and the acrobat's spike) -> distal anastomoses first (audited lima bean, sapphire, lad, acrobat)
+# landing 2: Zoro pulling out the orca's old stone mouth -> excise the aortic valve
+# landing 3: a new bishop's mitre lowered in -> mitral valve replacement (audited mitre)
+# landing 4: a dentist fitting new dentures into the orca's mouth -> aortic valve replacement (audited dentures)
+# landing 5: the top end of the sapphire chain sewn onto the orca -> proximal anastomosis last
+title: AVR plus MVR plus CABG: distals, excise the aortic valve, mitral, aortic, proximals
+titleAr: تبديل الأبهريّ والتاجيّ مع المجازة: الأطراف البعيدة، استئصال الأبهريّ، التاجيّ، الأبهريّ، الأطراف القريبة
+tags: cardiac/coronary cardiac/mitral-tricuspid d:technique q:recall l:3
+palette: dockyard timber brown, sapphire blue and lima green
+words: 1, 5
+keywords: left internal mammary artery to the LAD -> a green lima bean vine tied onto the lad's slide on the front of the crown, on landing 1; saphenous vein graft to the obtuse marginal -> a chain of blue sapphires whose lower end is tied onto the acrobat's spike at the back-left of the crown, on landing 1; excise the aortic valve -> Zoro pulling out the orca's old stone mouth on landing 2; mitral valve replacement -> a new bishop's mitre lowered into place on landing 3; aortic valve replacement -> a dentist fitting new dentures into the orca's mouth on landing 4; proximal anastomosis -> the top end of the sapphire chain sewn onto the orca's back on landing 5
+must: five landings climb from left to right in this order; the sapphire chain's top end is sewn on only at the last landing
+scene: A repair dock in Water 7. A wooden staircase of five landings climbs from left to right, painted 1 on the first and 5 on the last. Landing 1: Sanji tying the end of a green lima bean vine onto the lad's slide on the front of the green crown, and the lower end of a chain of blue sapphires onto the acrobat's spike at the crown's back-left. Landing 2: Zoro pulling out the killer-whale balloon's old stone mouth. Landing 3: a new bishop's mitre lowered into place. Landing 4: a dentist fitting brand-new dentures into the orca's mouth. Landing 5, dominant and brightest: Franky sewing the top end of the sapphire chain onto the orca's back. Luffy counting the landings on his fingers; Chopper at the top.
+story:
+في حوض الإصلاح بووتر سيفن، قام درج خشبيّ من خمس منصّات، يصعد من اليسار إلى اليمين.
+على المنصّة الأولى، ربط سانجي طرف كرمة فول الليما بمزلقة الفتى على وجه التاج، وطرف سلسلة الياقوت الأزرق بشوكة البهلوان.
+«الحوت أوّلًا، ثمّ التاج في الآخر!» قال أوسوب.
+«أطراف الجسور الدقيقة أوّلًا، قبل أن يمتلئ المكان بالأسنان والتّيجان!» قال فرانكي.
+وعلى المنصّة الثانية، انتزع زورو فم الحوت الحجريّ القديم، فانفتح الطريق إلى الأسفل.
+وعلى الثالثة، أنزل تاج أسقف جديد مكان القديم، وعلى الرابعة، ركّب طبيب الأسنان في فم الحوت أسنانًا جديدة.
+وعلى المنصّة الخامسة والأخيرة، خاط فرانكي رأس سلسلة الياقوت بظهر الحوت.
+«الأطراف على التاج، ثمّ نزع الفم، ثمّ التاج الجديد، ثمّ الأسنان، ثمّ رأس الياقوت على الحوت!» قال تشوبر.
+فعدّ لوفي المنصّات الخمس بأصابعه، وتذكّر ترتيب حلمه الّذي صاح به في وجه شانكس وهو صغير:
+quote: «سأجمع طاقمًا يفوق طاقمك، وأجد أعظم كنز في العالم، وأصبح ملك القراصنة!»
+source: مونكي دي لوفي
+explanation:
+For combined aortic and mitral valve replacement with two bypass grafts, the order is: distal anastomoses, excise the aortic valve, mitral valve replacement, aortic valve replacement, proximal anastomosis: D.
+The distal ends of the grafts, the lima bean vine on the lad's slide and the sapphire chain on the acrobat's spike, are sewn first, while the heart is empty and can be lifted to reach the back.
+Removing the aortic valve first gives the best view of the mitral valve and its annulus, so the mitral prosthesis goes in before the aortic one, the mitre before the dentures.
+The proximal anastomosis to the aorta comes last, the top of the sapphire chain sewn on at the final landing.
+Memory hook: five landings, ends, out, mitre, dentures, tops.
+
+== 174
+# book 35.4: the chordal-sparing technique of MV replacement -> D, it is associated with better LV function than the non-sparing technique.
+# a new mitre set in place with the old golden harp strings still tied to the floor -> chordal-sparing MV replacement (audited mitre, harp)
+# ANSWER: the room keeping its shape, the big fan pushing hard, the bouncer ejecting a crowd -> better left ventricular function (audited fan, bouncer)
+# the room next door, all strings cut, its walls sagging round, its fan weak -> the non-sparing technique
+title: Chordal-sparing mitral replacement preserves left ventricular function
+titleAr: تبديل التاجيّ مع الحفاظ على الحبال الوتريّة يحفظ وظيفة البطين الأيسر
+tags: cardiac/mitral-tricuspid d:technique q:recall l:2
+palette: engine-room red, harp gold and night-sea blue
+keywords: chordal-sparing mitral valve replacement -> a new bishop's mitre set in place with its old golden harp strings still tied to the engine-room floor; better ventricular function -> the engine room keeping its shape, its big fan pushing hard, a nightclub bouncer at its door ejecting a crowd of guests; chords cut -> in the room next door all the harp strings cut, its walls sagging round like a ball and its fan weak
+must: in the answer room the old harp strings are still attached; next door they are all cut
+scene: Two engine rooms of the HART Hotel side by side, cut open. CENTRE, dominant and brightest: Brook, the skeleton in a top hat, has kept the old golden harp strings tied to the floor and ties a new bishop's mitre to them; the room keeps its shape, its big fan pushes hard and a nightclub bouncer at its door ejects a crowd of guests. LEFT: the room next door, where all the harp strings are cut and lie on the floor; its walls sag round like a ball and its fan turns weakly; Zoro's sword is still drawn there. Chopper between the rooms.
+story:
+في غرفة المحرّك الحمراء، أخرج فرانكي تاج الأسقف القديم، ليضع مكانه تاجًا جديدًا.
+«نقطع أوتار القيثارة كلّها، فلا حاجة لها بعد اليوم!» قال زورو، ويده على سيفه.
+ففعل ذلك في الغرفة المجاورة، فتهدّلت جدرانها واستدارت كالكرة، وضعفت مروحتها.
+أمّا هنا، فأمسك بروك بيد زورو، وترك الأوتار القديمة مشدودةً إلى الأرض، وربط بها التاج الجديد.
+فبقيت الغرفة على شكلها، ودفعت مروحتها الماء بقوّة.
+وعند الباب، أخذ بوّاب الملهى يطرد الضيوف جموعًا جموعًا، وعدّاده يرتفع.
+«الأوتار المبقاة تحفظ شكل الغرفة، فتقوى المروحة ويطرد البوّاب أكثر!» قال تشوبر.
+فربت بروك على الأوتار القديمة كأنّها أوتار كمانه، وأنشد الأغنية الّتي غنّاها خمسين عامًا وحيدًا في البحر:
+quote: «يو هو هو هو، يو هو هو هو... سنحمل شراب بينكس!»
+source: بروك
+explanation:
+Sparing the chords during mitral valve replacement, leaving the old harp strings tied to the floor, is associated with better left ventricular function than cutting them: D.
+The chords and papillary muscles are part of the ventricle's architecture: they tie the annulus to the wall and keep the chamber's shape, so the fan pushes hard and the bouncer ejects a crowd.
+Cutting them lets the ventricle become spherical and weaker, the room next door sagging round.
+Preserving the posterior leaflet and its chords also lowers, not raises, the risk of left ventricular rupture; and chordal sparing has been linked with better survival, not with fewer thromboembolic events.
+Memory hook: keep the old strings and the room keeps its shape.
+
+== 175
+# book 35.5: thromboembolic risk after MV replacement -> A, it is higher with a mechanical mitral prosthesis on anticoagulation than with a mechanical AVR on anticoagulation.
+# two clanking steel robots, each guarded by a rat in a helmet -> mechanical valves on warfarin (audited robot, rat)
+# the robot in the orca's mouth, washed by a fast clear river -> mechanical aortic valve: lower risk (audited mouth)
+# ANSWER: the robot in the mitre's place, in a slow, still lake, beavers building dams round it despite the rat, bowling balls rolling out toward the head lantern -> the mitral position carries the higher thromboembolic risk (audited mitre, beaver, bowling ball)
+# a bowling ball zooming past Usopp's nose -> Kizaru's line
+title: A mechanical mitral valve carries a higher embolic risk than a mechanical aortic valve
+titleAr: الصمّام التاجيّ الآليّ أكثر خطرًا للانصمام من الصمّام الأبهريّ الآليّ
+tags: cardiac/mitral-tricuspid d:complications q:recall l:2
+palette: river silver, still-lake green and bowling-ball black
+keywords: mechanical valve -> a clanking little steel robot; anticoagulation -> a rat in a soldier's helmet standing guard beside each robot; mechanical aortic valve -> one robot in the orca's mouth, washed by a fast, clear river; mechanical mitral valve -> the other robot in the bishop's mitre's place, sitting in a slow, still lake in the red lobby; thromboembolism -> beavers building dams round the mitral robot despite its rat, black bowling balls rolling out toward a head-shaped lantern
+must: the beavers' dams are only round the robot in the still lake; the robot in the fast river stays clean
+scene: Two little HART Hotels side by side. LEFT: a clanking little steel robot sits in a killer-whale balloon's mouth, washed by a fast, clear rushing river; a rat in a soldier's helmet stands guard beside it; the robot shines clean. CENTRE, dominant and brightest: a second steel robot sits in the bishop's mitre's place in a slow, still lake in the red lobby; its own helmeted rat stands guard, yet beavers build dams all round it, and black bowling balls roll out of the dams toward a head-shaped lantern. RIGHT: one bowling ball zooms past Usopp's nose; Chopper pointing at the still lake.
+story:
+في فندقين متجاورين، وضع روبوتان فولاذيّان صغيران مكان بابين قديمين، وبجانب كلّ منهما جرذ في خوذة جنديّ يحرسه.
+الأوّل في فم الحوت القاتل، حيث يندفع النهر سريعًا صافيًا.
+والثّاني مكان تاج الأسقف، في بحيرة ساكنة بطيئة في الردهة الحمراء.
+«الجرذان متشابهان، فالخطر واحد في الفندقين!» قال أوسوب.
+لكنّ القنادس جاءت إلى البحيرة الساكنة، وبنت سدودها حول الروبوت الثاني رغم أنف الجرذ.
+وتدحرجت من سدودها كرات بولينغ سوداء، تنطلق نحو الفانوس الّذي على هيئة رأس.
+أمّا الروبوت الأوّل، فظلّ نظيفًا لامعًا، يغسله النهر السريع كلّ لحظة.
+«روبوت تاج الأسقف في الماء الساكن، تكثر حوله السدود أكثر من روبوت فم الحوت!» قال تشوبر.
+ومرّت كرة بولينغ بسرعة خاطفة أمام أنف أوسوب، فتذكّر الأميرال كيزارو وسؤاله المرعب:
+quote: «هل ركلت يومًا بسرعة الضوء؟»
+source: الأميرال كيزارو
+explanation:
+After valve replacement with a mechanical prosthesis and anticoagulation, the thromboembolic risk is higher for a mitral prosthesis than for an aortic one: A.
+The mitral position sits in slower flow, often with a large left atrium and atrial fibrillation, the still lake where the beavers build, while the aortic valve is washed by fast flow, the clean robot in the river.
+Even with warfarin, the rat on guard, the risk is not negligible, and poor ventricular function raises it further.
+A mechanical valve on warfarin carries roughly the same embolic risk as a bioprosthesis without it, not a lower one.
+Memory hook: the robot in the still lake gathers the beavers; the robot in the river stays clean.
+
+== 176
+# book 36.1: the sliding repair technique was developed to -> B, reduce the risk of post-repair systolic anterior motion.
+# Uncle Sam yanking the mitre's front leaf into the orca's doorway -> SAM after repair (audited uncle sam)
+# the back leaf of the mitre too tall, pushing the closing line forward -> a tall posterior leaflet causes SAM
+# Usopp's smaller brass ring making it worse -> a small ring increases SAM (audited brass ring)
+# ANSWER: Chopper cutting the back leaf and lowering what is left like a playground SLIDE, the closing line moving back out of Uncle Sam's reach -> the sliding plasty reduces SAM
+# Nami's lightning striking Uncle Sam -> comic payoff
+title: Why the sliding repair was devised: to prevent SAM after mitral repair
+titleAr: لماذا ابتُكر الإصلاح الانزلاقيّ: لمنع الحركة الأماميّة الانقباضيّة بعد الإصلاح
+tags: cardiac/mitral-tricuspid d:technique q:recall l:3
+palette: stars-and-stripes red and blue, playground yellow and thunder white
+keywords: systolic anterior motion -> Uncle Sam in a star-spangled top hat reaching to yank the front leaf of the bishop's mitre into the orca's doorway; a tall back leaf -> the back leaf of the mitre grown too tall, pushing the closing line forward toward the doorway; small annuloplasty ring -> Usopp fitting an even smaller brass ring round the mitre, the front leaf pushed closer to the doorway; sliding plasty -> Chopper cutting the back leaf and lowering what is left like a playground slide, shorter and lower, so the closing line moves back out of Uncle Sam's reach
+must: after the slide, Uncle Sam's hand can no longer reach the front leaf
+scene: Inside the HART Hotel at a harbour, under a stormy sky. CENTRE, dominant and brightest: Chopper has cut the bishop's mitre's tall back leaf and lowered what is left like a yellow playground slide, shorter and lower, so the closing line has moved back away from the orca's doorway; Uncle Sam, in a star-spangled top hat, stretches his hand toward the front leaf and cannot reach it. LEFT: Usopp holding an even smaller brass ring that made things worse. RIGHT: Nami raising her weather staff, a lightning bolt about to strike Uncle Sam.
+story:
+في ميناء تحت سماء عاصفة، أصلح تشوبر تاج أسقف كان يسرّب، فطوّقه بحلقة نحاسيّة جديدة.
+لكنّ الورقة الخلفيّة كانت طويلةً جدًّا، فدفعت خطّ الانطباق إلى الأمام نحو باب الحوت.
+فظهر العمّ سام بقبّعته المرصّعة بالنّجوم، ومدّ يده يشدّ الورقة الأماميّة إلى باب الحوت ليسدّه.
+«نضيّق الحلقة النحاسيّة أكثر، فتنطبق الورقتان جيّدًا!» قال أوسوب، وركّب حلقةً أصغر.
+فاندفعت الورقة الأماميّة أقرب إلى الباب، وأمسكها العمّ سام بسهولة أكبر.
+فقصّ تشوبر جزءًا من الورقة الخلفيّة، وأنزل ما بقي منها كمزلقة ملعب صفراء، أقصر وأدنى.
+فرجع خطّ الانطباق إلى الوراء، بعيدًا عن باب الحوت، ولم تعد يد العمّ سام تبلغ الورقة.
+«الورقة الخلفيّة تنزلق إلى أسفل، فيبتعد الخطّ، ويعجز العمّ سام!» قال تشوبر.
+فلمّا مدّ العمّ سام يده مرّةً ثالثة، رفعت نامي عصا الطقس نحو السماء، وصاحت باسم صاعقتها الشهيرة:
+quote: «ثاندر بولت تيمبو!»
+source: نامي
+explanation:
+The sliding repair was developed to lower the risk of systolic anterior motion after mitral repair: B.
+When the posterior leaflet is too tall, the back leaf pushing the closing line forward, the anterior leaflet is pushed into the outflow tract and Uncle Sam can pull it into the orca's doorway.
+A smaller ring makes this worse, Usopp's tighter brass ring.
+Cutting part of the posterior leaflet and sliding the rest down, the playground slide, lowers its height and moves the closing line back, out of the outflow tract.
+Memory hook: slide the tall back leaf down, and Uncle Sam can no longer reach the front one.
+
+== 177
+# book 36.2: an important advantage of triangular over quadrangular resection -> D, it obviates the need for annular plication sutures.
+# the mitre's back leaf as three scallop shells, the middle one billowing like a sail -> P2 prolapse (audited scallop, sail)
+# Usopp's square cut down to the brass collar, the collar then pinched with thick stitches -> quadrangular resection needs annular plication (audited collar)
+# ANSWER: Sanji's pizza-slice triangle cut from the middle shell, its point stopping short of the collar, which needs no stitch -> triangular resection needs no annular plication
+title: Triangular resection needs no annular plication sutures
+titleAr: الاستئصال المثلّثيّ لا يحتاج إلى غرز طيّ الحلقة
+tags: cardiac/mitral-tricuspid d:technique q:recall l:3
+palette: seashell pink, brass and pizza-crust gold
+keywords: P2 prolapse -> the middle of three scallop shells forming the mitre's back leaf billowing up like a sail; quadrangular resection -> a square cut out of the middle scallop right down to the brass collar, the collar then pinched together with thick stitches; triangular resection -> a pizza-slice triangle cut from the middle scallop, its point stopping short of the brass collar, which is left untouched
+must: the triangle's point stops short of the collar; only the square cut reaches the collar
+scene: The galley of the Baratie, warm light. CENTRE, dominant and brightest: Sanji cutting a pizza-slice triangle from the middle of three scallop shells that form the bishop's mitre's back leaf, the triangle's point stopping just short of the brass collar, which stays untouched; the cut edges meet and the leaf closes. LEFT: Usopp's attempt on another mitre, a square cut right down to the brass collar, and Franky pinching the torn collar together with thick stitches. RIGHT: Chopper; Luffy watching.
+story:
+في مطبخ الباراتي، كانت الورقة الخلفيّة لتاج الأسقف ثلاث أصداف متجاورة، والصّدفة الوسطى منها تنتفخ كالشّراع.
+«أقصّ منها مربّعًا كاملًا حتّى الطوق!» قال أوسوب، وقصّ مربّعًا بلغ الحلقة النحاسيّة.
+فانشقّ الطوق، واضطرّ فرانكي إلى أن يضمّ طرفيه بغرز غليظة تشدّه.
+فأخذ سانجي صدفةً أخرى مثلها، وقطع من وسطها مثلّثًا كقطعة البيتزا.
+وتوقّف رأس المثلّث قبل الطوق بقليل، فبقي الطوق سليمًا لا يحتاج إلى غرزة واحدة.
+ثمّ التقت حافّتا المثلّث المقصوص، فانطبقت الورقة، وسكن الشراع.
+«المثلّث لا يبلغ الطوق، فلا غرز فيه؛ أمّا المربّع فيشقّه ويحتاج إلى الخياطة!» قال تشوبر.
+فنظر سانجي إلى القطعة الصغيرة الّتي ضحّى بها، وابتسم كما ابتسم شانكس يوم قال للوفي الصغير:
+quote: «ذراع واحدة ثمن رخيص... يكفي أنّك بخير!»
+source: شانكس
+explanation:
+The advantage of triangular over quadrangular resection is that it needs no annular plication sutures: D.
+A triangle cut from the prolapsing middle scallop, P2, the billowing shell, stops short of the annulus, so the annulus does not have to be pinched together.
+A quadrangular resection takes the segment right down to the annulus, and the gap in the annulus must then be closed with plication sutures, Franky's thick stitches, or a sliding repair.
+Triangular resection is not more successful in itself and does not lower the risk of SAM; its advantage is the untouched annulus, not a special use in Barlow's disease.
+Memory hook: the pizza slice stops before the collar; the square cut reaches it and needs stitches.
+
+== 178
+# book 36.3: what to avoid with artificial chordae -> C, excessive tension when tying them.
+# Brook tying new white nylon harp strings from the red pillar to the mitre's leaf -> artificial chordae (audited harp, pillar)
+# Hancock pulling one string far too tight, the leaf dragged down into a tent, water gurgling back -> excessive tension restricts the leaflet and causes regurgitation (audited gurgling)
+# ANSWER: Brook loosening it and tying it gently at exactly the right length, the leaf meeting its partner -> avoid excessive tension when tying
+title: Artificial chords: never tie them under too much tension
+titleAr: الحبال الوتريّة الصناعيّة: لا تُربط أبدًا بشدّ زائد
+tags: cardiac/mitral-tricuspid d:technique q:recall l:2
+palette: palace jade green, nylon white and snake gold
+keywords: artificial chordae -> new white nylon harp strings tied from the red pillar to the bishop's mitre's leaf; excessive tension -> one string pulled far too tight, dragging the leaf down into a tent, water gurgling back through the gap; correct tension -> the string tied gently at exactly the right length, the leaf meeting its partner
+must: the over-tight string drags the leaf down; the gently tied string lets the leaves meet
+scene: A jade-green hall in the palace of Amazon Lily. CENTRE, dominant and brightest: Brook, the skeleton in a top hat, gently tying a new white nylon harp string from a red pillar to the bishop's mitre's leaf at exactly the right length, the two leaves meeting. LEFT: Boa Hancock, the beautiful pirate empress, pulling another nylon string far too tight with both hands, dragging the leaf down into a tent, water gurgling back through the gap. RIGHT: Usopp nervously pointing at Hancock's knot; Chopper.
+story:
+في قصر أمازون ليلي، جلس بروك يربط أوتارًا جديدةً من النايلون الأبيض، من العمود الأحمر إلى ورقة تاج الأسقف.
+وكان كلّ وتر جديد يحلّ محلّ وتر قديم تمزّق.
+«دعني أشدّها أنا، فالأقوى أجمل!» قالت بوا هانكوك، وشدّت وترًا بكلّ قوّتها.
+فانجرّت الورقة إلى أسفل، وصارت خيمةً لا تلقى أختها، وأخذ الماء يقرقر راجعًا من الفرجة.
+فرفع بروك يده العظميّة، وأرخى الوتر قليلًا، كما يرخي وتر كمانه إذا صرخ.
+ثمّ ربطه برفق، بطوله الصحيح تمامًا، فارتفعت الورقة ولاقت أختها، وسكت الماء.
+«الوتر الجديد يربط برفق لا بقوّة؛ إن شدّ أكثر من حقّه جرّ الورقة وفتح الفرجة!» قال تشوبر.
+«لقد أفسدت العقدة يا سيّدتي!» قال أوسوب بحذر، فرمت هانكوك شعرها إلى الوراء بكبرياء، وقالت:
+quote: «كلّ ما أفعله مغفور... لأنّني جميلة!»
+source: بوا هانكوك
+explanation:
+With artificial chordae the most important thing to avoid is excessive tension when tying them: C.
+A chord tied too tight or too short pulls the leaflet down into the ventricle, Hancock's string dragging it into a tent, so the leaflets no longer meet and the valve leaks or is restricted.
+The new chord must restore the leaflet's natural height, tied gently at the right length, as Brook does.
+Several chords are often used, and their number, spacing and attachment near the free edge are not the problem.
+Memory hook: tie the new string gently; pulled too tight, it drags the leaf down.
+
+== 179
+# book 36.4: NOT a contraindication to mitral repair through a right mini-thoracotomy -> E, obesity.
+# a small hatch in the right side of the treasure chest -> right mini-thoracotomy (audited hatch)
+# hoses from the top of the thigh beside the thigh bone -> femoral cannulation (audited thigh bone)
+# the obstacles: thin thigh pipes under a sign 7, the orca's dripping mouth, the excavator's hollow, black tar in the lilac branches -> small femoral vessels, aortic insufficiency, pectus excavatum, iliofemoral atherosclerosis (audited)
+# ANSWER: a jolly fat sailor walking happily through the hatch -> obesity is not a contraindication
+title: Right mini-thoracotomy mitral repair: obesity is not a contraindication
+titleAr: إصلاح التاجيّ عبر شقّ صدريّ أيمن صغير: السمنة ليست مانعًا
+tags: cardiac/mitral-tricuspid d:indications q:recall l:3
+palette: deck-wood brown, lilac purple and sunset orange
+words: 7
+keywords: right mini-thoracotomy -> a small hatch cut in the right side of the treasure chest; femoral vessels under 7 mm -> two thin red pipes beside the long white thigh bone, under a sign painted 7; moderate-to-severe aortic insufficiency -> the orca balloon's sagging mouth dripping water back; pectus excavatum -> a yellow excavator digging a deep hollow in the front of the treasure chest; iliofemoral atherosclerosis -> black tar clogging the two lilac sprays at the orca's tail; obesity -> a jolly fat sailor walking happily through the hatch
+must: the fat sailor passes through the hatch easily; the four obstacles are turned away
+scene: The deck of the Thousand Sunny at sunset. CENTRE, dominant and brightest: a small hatch cut in the right side of a big treasure chest, and a jolly fat sailor walking happily through it, laughing and patting his belly. Around the hatch, turned away by Franky: two thin red pipes beside a long white thigh bone under a sign painted 7; a killer-whale balloon whose sagging mouth drips water back; a yellow excavator digging a deep hollow in the front of another treasure chest; black tar clogging the two lilac sprays at an orca's tail. Usopp pointing at the fat sailor in disbelief; Brook, the skeleton in a top hat, watching nervously, his hand on his chest; Chopper.
+story:
+على ظهر الثاوزند صني عند الغروب، فتح فرانكي في جانب صندوق الكنز الأيمن كوّةً صغيرة، ليصلح تاج الأسقف من خلالها.
+ومدّ خراطيم آلة المجازة من أعلى الفخذ، بجانب عظم الفخذ الأبيض الطويل.
+«هذا البحّار سمين جدًّا، فلن يمرّ من الكوّة أبدًا!» قال أوسوب.
+لكنّ البحّار السمين دخل من الكوّة ضاحكًا، يهزّ بطنه، ولم يعلق لحظةً واحدة.
+أمّا الّذين ردّهم فرانكي عن الكوّة، فأنابيب فخذ رفيعة تحت لافتة سبعة، وفم حوت يقطر ماؤه راجعًا.
+وحفرة عميقة حفرتها جرّافة صفراء في صدر صندوق آخر، وقطران أسود يسدّ غصني الليلك عند ذيل الحوت.
+«الأنابيب الرفيعة، والفم الّذي يقطر، والحفرة، واللّيلك المسدود تمنع الكوّة؛ أمّا السمنة فلا!» قال تشوبر.
+وكان بروك يراقب الكوّة الضيّقة متوتّرًا، فوضع يده العظميّة على صدره وضحك:
+quote: «قلبي يكاد يقفز من صدري... مع أنّه ليس لي قلب! يو هو هو هو!»
+source: بروك
+explanation:
+Obesity is not a contraindication to mitral repair through a right mini-thoracotomy: E, the fat sailor walking through the hatch.
+Small femoral vessels, under 7 mm, and significant iliofemoral atherosclerosis are contraindications, because bypass is run through the groin, the thin pipes and the tarred lilac.
+Moderate-to-severe aortic insufficiency, the dripping mouth, makes it hard to arrest and protect the heart through the small approach.
+Pectus excavatum, the excavator's hollow, distorts the chest and narrows the access to the heart.
+Memory hook: thin pipes, a dripping mouth, a hollow chest and tarred lilac are turned away; the fat sailor walks through.
+
+== 180
+# book 36.5: the best clinical outcomes after mitral repair -> A, early operation, before symptoms or significant change in cardiac structure or function.
+# a mitre leaking back while the guest still runs merrily -> severe MR before symptoms (audited gurgling)
+# ANSWER: Chopper repairing it at dawn, at the first cock-crow, while the rooms are still small and the fan strong -> early operation gives the best results (audited fan)
+# the hotel next door, repaired too late: its lobby stretched huge, its engine room ballooned, Pinocchio trembling -> late operation: dilatation, atrial fibrillation, worse outcome (audited pinocchio)
+title: Mitral repair works best early, before symptoms or enlargement of the heart
+titleAr: إصلاح التاجيّ أنجح مبكّرًا، قبل الأعراض وقبل أن يتّسع القلب
+tags: cardiac/mitral-tricuspid d:indications q:recall l:2 x:high-yield
+palette: dawn rose, village green and cock's-comb red
+keywords: mitral regurgitation -> water gurgling back through a bishop's mitre in a small, healthy hotel; early operation -> Chopper repairing the mitre at dawn, a rooster crowing, while the rooms are still small and the fan strong; late operation -> the hotel next door repaired too late, its lobby stretched huge, its engine room ballooned, Pinocchio trembling in the lobby
+must: the early hotel's rooms are small and normal; the late hotel's rooms are swollen
+scene: Dawn in Syrup Village, rose light. CENTRE, dominant and brightest: Chopper repairing the bishop's mitre of a small, healthy HART Hotel at the first light, a rooster crowing on the roof, the rooms still small and the fan strong, while the guest inside still runs merrily. LEFT: the hotel next door, repaired too late, its glass lobby stretched huge, its engine room ballooned, and Pinocchio trembling in the lobby. RIGHT: Usopp jumping onto the village fence, shouting; the village mayor shrugging.
+story:
+عند الفجر في قرية سيروب، كان تاج الأسقف في فندق صغير يسرّب الماء راجعًا، والنّزيل ما زال يركض مرحًا لا يشكو شيئًا.
+«لا شكوى ولا تعب، فلننتظر حتّى يمرض!» قال عمدة القرية.
+لكنّ تشوبر كان قد رأى الفندق المجاور، الّذي انتظر أهله طويلًا.
+فقد تمدّدت ردهته حتّى صارت ضخمة، وانتفخت غرفة محرّكه، وأخذ بينوكيو يرتجف في الردهة، فلم يعد الإصلاح يردّه كما كان.
+فأصلح تشوبر التاج هنا مع صياح الديك الأوّل، والغرف صغيرة كما هي، والمروحة قويّة.
+فعاش الفندق الصغير سنين طويلةً كأنّ شيئًا لم يكن.
+«الإصلاح مع الفجر، قبل التعب وقبل أن تتمدّد الغرف، يعطي أطول العمر!» قال تشوبر.
+فقفز أوسوب على السور، وصاح بإنذاره القديم الّذي كان يوقظ به قريته كلّ صباح، وقد جاء هذه المرّة في وقته تمامًا:
+quote: «القراصنة قادمون! القراصنة قادمون!»
+source: أوسوب
+explanation:
+The best outcomes after mitral repair come with early operation, before symptoms and before the heart's structure and function change: A.
+Severe regurgitation slowly enlarges the left atrium and ventricle, the swollen rooms next door, brings atrial fibrillation, Pinocchio, and lowers ventricular function, and these changes may not reverse after a late repair.
+Repaired early, the heart stays normal and survival matches that of the general population, the small hotel living on as if nothing had happened.
+The approach, minimally invasive or sternotomy, and the size of the ring matter far less than the timing.
+Memory hook: repair at the first cock-crow, while the rooms are still small.

@@ -13,6 +13,15 @@ Updated 2026-11-21 (evening). Whoever works on YouTop next: read `CLAUDE.md`, th
 and merged to main as it is done. The owner asked for it overnight, with an hourly wake-up scheduled task
 (trig_01PU9vpvigNUp6wUdpdP37Yc) to resume after a usage-limit pause; disable it when 422 is reached. Other sessions:
 do not write 151+ in parallel; pictures, voices and publishing of 1-150 are unaffected.
+- Progress (update as it goes): **151-180 written** (tables, scenes, prompts, vowelled stories, quotations, explanations;
+  `drafts/johns-hopkins-2016/batch-0151-0160` ... `batch-0171-0180`, prompts for the owner: `prompts-jh-151-180.txt`,
+  not yet sent). Voices: 151-160 recorded, 161-170 recording (audio only in this container; rebuild + `voice.py make`
+  reproduces it). Since 151 each quotation has a lead-in saying who speaks it and why, so it is understood on its own
+  (the owner, 2026-11-21: "not cut, not incomprehensible").
+- **Quotation pool is running out**: with each line allowed twice, 20 lessons apart, almost every genuine One Piece line
+  I am sure of is now used twice. New sure lines are added one by one; when none is left, ask the owner (a third use,
+  or another genuine source) rather than inventing or adapting one.
+- `content/symbols.json`: the VSD symbol also covers ventricular septal rupture after infarction (same hole, same drawing).
 
 **Update (2026-11-21, ~15:45 UTC, a new session): JOHNS HOPKINS 2016: 82 LESSONS PUBLISHED.**
 - The owner had uploaded 82 JH pictures (11:06-11:52 UTC; the handoff below missed them). All 82 are published
