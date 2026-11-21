@@ -1,6 +1,6 @@
 # Where the work stands
 
-Updated 2026-11-20 (night). Whoever works on YouTop next: read `CLAUDE.md`, then this, then
+Updated 2026-11-21 (morning). Whoever works on YouTop next: read `CLAUDE.md`, then this, then
 `docs/content-guide.md`. Rewrite this file whenever the state changes (it replaces the
 `status-<n>.txt` files in the Drive folder "YouTop private", which stop at 7).
 
@@ -30,6 +30,17 @@ Updated 2026-11-20 (night). Whoever works on YouTop next: read `CLAUDE.md`, then
   edge-tts and faster-whisper for `voice.py`. Pictures still wanted: 1, 10, 16, 21, 25, 31, 38, 45, 60, 65, 76,
   81-110 (86-96, 99, 102, 103 never had one). The hourly scheduled task trig_01CgSmtZZ33N4gFXAr9mtxZy fires into
   THIS session; a new session should disable it (update_trigger enabled=false) and create its own if wanted.
+- **2026-11-21, morning: 151 of 156 lessons PUBLISHED.** 45 of the 50 wanted pictures arrived (05:26-05:29 UTC):
+  1 and 104 (`--replace b`), 91, 93, and 112-156 except the five below. Every grid, every spots drawing and every
+  circle drawing was looked at (by this agent alone; the owner asked for no subagents, so the skill's second-agent
+  check was not done). Work files: `work/medcosmos-cardiac/pictures-2026-11-21/` (spots, marks, notes), also in
+  `drafts/medcosmos-cardiac/pictures-2026-11-21/`. **Pictures still wanted: 111, 123, 125, 128, 149**
+  (`drafts/medcosmos-cardiac/prompts-missing.txt`); those five lessons are written and recorded, held back until their
+  picture comes. Found when looking (left; the owner decides), in `notes.txt`: 93 drummers seem to blow the trumpets;
+  104 water seems to fall from the crown; 114 egg upright, not on its side; 118 the baby smiles; 122 the narrow trunk door
+  is not visible; 127 the rosette hides the narrow mouth; 130 the surgeon carrying the trident is not painted; 142 the
+  pill man has no crown; 155 the wolf holds the blowtorch and the knot sits inside the tunnel; 156 the goalkeeper is
+  not painted.
 - **2026-11-20, evening (a new session, alone): 108 lessons PUBLISHED.** 37 of the 41 wanted pictures arrived
   (14:08-14:11 UTC) and are published with new spots and marks, every grid and every circle drawing looked at:
   redrawn 10, 16, 21, 25, 31, 38, 45, 60, 65, 76, 81-85, 97, 98, 100, 101, 105-110 (`--replace b`), and the first
@@ -74,7 +85,7 @@ Updated 2026-11-20 (night). Whoever works on YouTop next: read `CLAUDE.md`, then
     re-recorded stories of 112 and 120: 112's quotation is now the hadith "the believer is the mirror of the believer",
     120's S10 lead-in was lengthened). The audio of 111-156 exists only in the session's `.content-work` until it is
     published; if it is lost, rebuild the batches and run `voice.py make` again (same voice files, same result).
-  - **NEXT: pictures 1, 91, 93, 104 and 111-156** from the owner. When they come: `batch.py pictures` (`--replace b`
+  - (Done 2026-11-21, see above.) Was: pictures 1, 91, 93, 104 and 111-156 from the owner. When they come: `batch.py pictures` (`--replace b`
     for published 1 and 104), spots, marks, look at every drawing, publish with `--complete-only`.
 - **Where things stand (2026-11-20, 10:30 UTC):** texts and voices for 1-110 done. **96 lessons PUBLISHED** (complete
   only), published with `publish.py <scratchpad>/pub-mc --complete-only` (pub-mc links only `books/medcosmos-cardiac`
