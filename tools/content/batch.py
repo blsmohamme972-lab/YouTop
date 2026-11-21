@@ -194,7 +194,7 @@ def used_quotes(book_dir, skip_ids=()):
         for track in lesson.get("tracks", []):
             for seg in track.get("segments", []):
                 if seg.get("quote"):
-                    out[normal(seg["text"])] = (lesson["id"], seg["text"], seg["quote"])
+                    out.setdefault(normal(seg["text"]), []).append((lesson["id"], seg["text"], seg["quote"]))
     return out
 
 
@@ -330,10 +330,18 @@ def lint(cfg, b, q, used, problems, warnings):
     if quote:
         if LATIN.search(quote):
             problems.append(f"{w}: the quotation must be in Arabic")
-        hit = used.get(normal(quote))
-        if hit:
-            problems.append(f"{w}: this quotation is already used in {hit[0]}")
-        used[normal(quote)] = (lesson_id(cfg, b["n"]), quote, "")
+        # A quotation is used once per book, unless the book allows a few repeats far apart
+        # ("quoteRepeats": {"max": 2, "gap": 20}: the owner chose this for Johns Hopkins 2016, 2026-11-21).
+        rule = cfg.get("quoteRepeats") or {}
+        most, gap = rule.get("max", 1), rule.get("gap", 0)
+        hits = used.get(normal(quote), [])
+        if len(hits) >= most:
+            problems.append(f"{w}: this quotation is already used in {', '.join(h[0] for h in hits)}")
+        else:
+            near = [h[0] for h in hits if abs(int(h[0][-4:]) - b["n"]) < gap]
+            if near:
+                problems.append(f"{w}: this quotation is used in {', '.join(near)}, fewer than {gap} lessons away")
+        used.setdefault(normal(quote), []).append((lesson_id(cfg, b["n"]), quote, ""))
     if b.get("must") and len(b["must"]) > 260:
         warnings.append(f"{w}: 'must' is long; name only the two or three details the story cannot do without")
     if b.get("words") and len(b["words"]) > 40:
@@ -563,7 +571,7 @@ def cmd_new(args):
 def cmd_quotes(args):
     cfg = book_config(args.book)
     book_dir = ensure_folder(pathlib.Path(args.folder).resolve(), cfg)
-    for lid, text, source in sorted(used_quotes(book_dir).values()):
+    for lid, text, source in sorted(e for entries in used_quotes(book_dir).values() for e in entries):
         print(f"{lid[-4:]}  {source.replace(cfg['author'] + '، ', '')}: {text}")
 
 

@@ -48,6 +48,10 @@ Updated 2026-11-21 (morning). Whoever works on YouTop next: read `CLAUDE.md`, th
     LES (a drawstring), reflux (acid soup splashing up), Barrett (barrel staves), achalasia (a chalice in the drawstring),
     fundoplication (the pot's rim as a scarf), thymus (thyme), pectus excavatum (an excavator). Key CORRECTED: 61 (book D,
     now E: about half have other anomalies, and CHARGE includes heart defects). Keys kept with a note: 78, 80, 88.
+  - Lessons 51-100: stories, explanations and quotations written and built; recording (2026-11-21). The owner chose
+    (2026-11-21) that One Piece quotations may repeat: each line at most twice in a book, at least 20 lessons apart
+    (`quoteRepeats` in the book's json; `batch.py build` enforces it). Lessons 71-100 reuse lines from 1-80.
+    Lesson 5's line S7 was misheard by the voice check; it was rewritten and re-recorded.
   - **Restart warning (fixed 2026-11-21):** `batch.py build` for a NEW book used to run `publish.py --export` into
     `.content-work`, which overwrote the other books' unpublished lessons with their published copies (it wiped
     MedCosmos 111, 123, 125, 128, 149; they were rebuilt from their batches and their voices re-timed from the cache).
