@@ -1,0 +1,137 @@
+book: johns-hopkins-2016
+# Johns Hopkins 2016, lessons 81-90 = book questions 17.1-18.5. Theme: One Piece; quotations from One Piece (Arabic, from memory).
+
+== 81
+# book 17.1: thymomas -> C, neoadjuvant therapy can be used for large malignant tumours.
+# a huge bushy thyme plant grown at the very front of the chest cabin, crab claws among its leaves -> a large malignant thymoma (audited symbols)
+# ANSWER: before Zoro cuts it, Usopp shines violet rays and Chopper pours a potion on it, and it shrinks -> neoadjuvant therapy first
+# a needle put away -> fine-needle aspiration is not the preferred diagnosis (E is wrong)
+title: Large malignant thymomas can be shrunk with neoadjuvant therapy before resection
+titleAr: الأورام التوتية الخبيثة الكبيرة يمكن تصغيرها بالعلاج قبل الجراحة
+tags: thoracic/mediastinum d:indications q:recall l:2
+palette: thyme green, ray violet and potion teal
+keywords: large malignant thymoma -> a huge bushy thyme plant grown at the very front of the chest cabin, red crab claws poking out among its leaves; neoadjuvant therapy -> Usopp shining violet rays and Chopper pouring a teal potion on it before Zoro cuts, the bush shrinking; resection -> Zoro waiting with his sword for it to shrink; fine-needle aspiration -> a thin needle put away in a box
+must: the thyme bush SHRINKS under the rays and potion BEFORE Zoro cuts
+scene: The front of a ship's chest cabin, sunlight through the bow windows. CENTRE, dominant and brightest: a huge bushy thyme plant has grown at the very front of the cabin, red crab claws poking out among its leaves; Usopp, the long-nosed sniper, shines violet rays on it from a lamp and Tony Tony Chopper, the little reindeer doctor, pours a teal potion on its roots, and the bush visibly shrinks. Roronoa Zoro waits beside it with his sword sheathed, a thin needle lying put away in a box at his feet.
+
+== 82
+# book 17.2: mediastinal embryology -> B, the mediastinal space arises from the ventral and dorsal oesophageal mesenteries together.
+# the long pink sofa slide hanging in the middle of the chest cabin -> the oesophagus (audited symbol)
+# ANSWER part 1: a curtain hanging from the FRONT wall to the slide -> the ventral mesentery
+# ANSWER part 2: a curtain hanging from the BACK wall to the slide -> the dorsal mesentery
+# the space between the two curtains glowing -> the mediastinum forms from both
+title: The mediastinum arises from the ventral and dorsal oesophageal mesenteries together
+titleAr: ينشأ المنصف من المساريقتين البطنية والظهرية للمريء معًا
+tags: thoracic/mediastinum d:anatomy q:recall l:3
+palette: curtain crimson, glowing amber and sofa pink
+keywords: oesophagus -> a long pink sofa slide hanging down the middle of the chest cabin; ventral mesentery -> a crimson curtain hanging from the FRONT wall to the slide; dorsal mesentery -> a second curtain hanging from the BACK wall to the slide; mediastinum from both -> the space between the two curtains glowing warm amber
+must: one curtain comes from the FRONT wall, the other from the BACK wall, both reaching the slide
+scene: A ship's chest cabin seen from the side like a stage. A long pink sofa slide hangs down the middle of the cabin. CENTRE, dominant and brightest: a crimson curtain hangs from the front wall to the slide, and a second curtain hangs from the back wall to the slide, and the space between and around them glows warm amber. Nico Robin, the dark-haired archaeologist, stands at one side drawing the two curtains in her notebook.
+
+== 83
+# book 17.3: neurogenic tumours -> D, the posterior mediastinum is the commonest site of thoracic neuroblastoma.
+# the chest cabin divided into front, middle and back rooms -> anterior, middle and posterior mediastinum (memory palace, front to back)
+# ANSWER: a blast of neon light bursting from a tangle of nerve-like glowing wires against the BACK wall, along the keel -> neuroblastoma (keyword: NEURO-BLAST -> a NEON BLAST) in the posterior mediastinum
+# a baby crawling toward it -> neuroblastoma is a tumour of young children (A is wrong)
+title: Thoracic neuroblastoma is most common in the posterior mediastinum
+titleAr: الورم الأرومي العصبي الصدري أشيع في المنصف الخلفي
+tags: thoracic/mediastinum d:anatomy q:recall l:2
+palette: neon pink and electric blue in a dark cabin
+keywords: front, middle and back mediastinum -> a chest cabin divided into a front room, a middle room and a back room against the ship's keel; neuroblastoma in the posterior mediastinum -> a blast of neon light bursting from a tangle of glowing nerve-like wires against the BACK wall along the keel (NEURO-BLAST = neon blast); young children -> a baby crawling toward the light
+must: the neon blast is in the BACK room against the keel
+scene: A dark ship's chest cabin cut open from the side, divided by two thin walls into a front room, a middle room and a back room against the ship's keel. CENTRE-RIGHT, dominant and brightest: in the back room, along the keel, a tangle of glowing nerve-like wires bursts into a blast of pink and blue neon light. A baby crawls toward the light from the middle room, and Tony Tony Chopper, the little reindeer doctor, scoops the baby up.
+
+== 84
+# book 17.4: germ cell tumours -> B, nonseminomatous tumours are associated with Klinefelter's syndrome.
+# a tall, long-limbed man in a felt hat -> Klinefelter's syndrome (keyword: KLINE-FELT-er -> a FELT hat), XXY
+# ANSWER: he carries a strange cracked egg glowing at the front of his chest cabin, its shell rough and multicoloured -> a nonseminomatous germ cell tumour (keyword: germ cell -> an egg)
+# letters X, X and Y stitched on his hat band -> XXY
+title: Nonseminomatous germ cell tumours are associated with Klinefelter's syndrome
+titleAr: أورام الخلايا الجنسية غير المنوية مرتبطة بمتلازمة كلاينفلتر
+tags: thoracic/mediastinum d:pathology q:recall l:2
+palette: felt grey, egg shell rainbow and stitch red
+words: X, Y
+keywords: Klinefelter's syndrome -> a very tall, long-limbed man in a grey felt hat (KLINE-FELT-er), letters X, X and Y stitched on its band; nonseminomatous germ cell tumour -> a strange cracked egg with a rough multicoloured shell glowing at the front of his chest
+must: the hat band shows X X Y; the egg sits at the FRONT of his chest
+scene: A misty dock on a Grand Line island. CENTRE, dominant and brightest: a very tall, long-limbed young man in a grey felt hat with the letters X, X and Y stitched on its band holds against the front of his chest a strange cracked egg with a rough multicoloured shell, glowing from within. Tony Tony Chopper, the little reindeer doctor, stands on a crate to examine the egg, magnifier in hand.
+
+== 85
+# book 17.5: vena caval thrombosis -> D, anticoagulation after thrombolysis, and aspirin after stent placement.
+# a chimney clogged by a dark clot -> superior vena cava thrombosis (SVC = chimney, audited)
+# a chemist pouring a dissolving potion down the chimney -> thrombolysis
+# ANSWER part 1: then a rat in a soldier's helmet standing guard at the chimney -> anticoagulation after thrombolysis (audited symbol)
+# ANSWER part 2: in a second chimney a coiled metal Slinky spring holds it open, a small asp coiled round a white tablet beside it -> aspirin after stent placement (audited symbols)
+title: Vena caval thrombosis: anticoagulate after thrombolysis, give aspirin after a stent
+titleAr: خثار الوريد الأجوف: مضادّ تخثّر بعد إذابة الخثرة، وأسبرين بعد الدعامة
+tags: thoracic/mediastinum d:postoperative q:recall l:3 x:guideline
+palette: soot black, potion emerald and slinky silver
+keywords: superior vena cava thrombosis -> a ship's chimney clogged by a dark clot; thrombolysis -> a chemist pouring an emerald dissolving potion down the chimney; anticoagulation -> a rat in a soldier's helmet standing guard at the cleared chimney; stent placement -> a coiled metal Slinky spring holding a second chimney open; aspirin -> a small asp coiled round a white tablet beside the Slinky chimney
+must: the rat guards the chimney the potion cleared; the asp sits by the chimney with the Slinky
+scene: The rooftop of a ship's cabin with two tall chimneys at dusk. LEFT: a chemist pours an emerald potion down the first chimney, the dark clot inside it dissolving, and then a rat in a little soldier's helmet stands guard at its top. RIGHT, dominant and brightest: inside the second chimney a coiled metal Slinky spring holds it wide open, and beside it a small asp snake coils round a white tablet. Franky, the blue-haired cyborg shipwright, gives a thumbs-up from the roof.
+
+== 86
+# book 18.1: 76-year-old, enlarging mass at the anterior costochondral arch, biopsy inconclusive -> A, evidence of invasion indicates chondrosarcoma.
+# a crab made of white gristle at the front of a rib where it meets its cartilage -> chondrosarcoma (sarcoma -> crab; CHONDRO -> cartilage, gristle)
+# ANSWER: its claws boring into the neighbouring planks -> invasion means chondrosarcoma
+# an old man of 76 -> older adults
+title: An invasive anterior costochondral mass in an older adult is a chondrosarcoma
+titleAr: كتلة غازية عند الوصل الضلعي الغضروفي الأمامي عند مسنّ هي ساركومة غضروفية
+tags: thoracic/chest-wall d:diagnosis q:vignette l:2
+palette: gristle white, plank brown and claw red
+keywords: chondrosarcoma -> a crab made of white gristle sitting at the front of a rib where it meets its cartilage; invasion -> its claws boring into the neighbouring planks of the chest wall; older adult -> an old man of 76 with a white beard
+must: the gristle crab's claws BORE INTO the neighbouring planks
+scene: The front of a wooden ship's hull drawn like a chest, its curved planks like ribs, beside an old white-bearded sailor of 76 who holds his side. CENTRE, dominant and brightest: where one curved plank meets a strip of white cartilage at the front, a crab made of white gristle sits, and its claws bore deep into the neighbouring planks, splintering them. Tony Tony Chopper, the little reindeer doctor, points at the splinters, frowning.
+
+== 87
+# book 18.2: 11-year-old, tender rib lesion after a baseball, amorphous calcified appearance -> A, fibrous dysplasia.
+# a boy hit on the rib by a baseball -> the event that drew attention to it
+# ANSWER: the rib, a wooden plank, swollen and filled with frosted glass threaded with fibres -> fibrous dysplasia (amorphous ground-glass calcification)
+# the boy otherwise well, smiling -> a benign lesion
+title: A ground-glass, amorphously calcified rib lesion in a child is fibrous dysplasia
+titleAr: آفة ضلعية بمظهر الزجاج المصنفر والتكلّس غير المنتظم عند طفل هي خلل تنسّج ليفي
+tags: thoracic/chest-wall d:diagnosis q:vignette l:2
+palette: frosted glass white, baseball red stitch and plank brown
+keywords: baseball injury -> a baseball bouncing off an 11-year-old boy's side; fibrous dysplasia -> one rib, a wooden plank, swollen and filled with frosted glass threaded with fibres (FIBROUS = fibres, and ground glass); benign -> the boy smiling despite the bump
+must: the swollen rib is filled with FROSTED GLASS and fibres
+scene: A sandy beach on a summer island, a baseball game. LEFT: a baseball bounces off the side of an 11-year-old boy. CENTRE, dominant and brightest: on the boy's side one rib, drawn as a curved wooden plank, is swollen and filled with frosted glass threaded with fine white fibres, glowing softly. The boy rubs it, smiling; Luffy, the boy in the straw hat, peers at the glassy rib, amazed.
+
+== 88
+# book 18.3: chest wall diffuse large B-cell lymphoma, no other disease -> D in the book, surgical resection with radiation for positive margins (key kept; a note says chemotherapy, usually with radiotherapy, is the standard).
+# a swarm of bees in a nest in the chest wall -> B-cell lymphoma (keyword: B cell -> a BEE)
+# ANSWER (book): Zoro cutting the nest out of the planks -> surgical resection
+# ANSWER (book): Usopp shining rays on the edges where a few bees remain -> radiation for positive margins
+# no other nests anywhere else on the ship -> no other sites of disease
+title: Solitary chest wall lymphoma: the book's key is resection with radiotherapy for positive margins
+titleAr: لمفومة جدار الصدر المنفردة: مفتاح الكتاب الاستئصال مع الأشعة للحواف الإيجابية
+tags: thoracic/chest-wall d:indications q:vignette l:3 x:trap
+palette: honey gold, bee black and ray violet
+note: Today a solitary diffuse large B-cell lymphoma is treated mainly with chemotherapy (R-CHOP), usually followed by radiotherapy; surgery is for diagnosis.
+keywords: diffuse large B-cell lymphoma -> a swarm of bees in a big nest built into the chest wall planks (B cell = bee); surgical resection -> Zoro cutting the whole nest out of the planks; radiation for positive margins -> Usopp shining violet rays on the edges where a few bees remain; no other sites -> no other nests anywhere on the ship
+must: Zoro cuts the nest OUT; a few bees at the EDGES get Usopp's rays
+scene: The side of a pirate ship's hull, warm afternoon. CENTRE, dominant and brightest: a big honey-gold nest buzzing with bees is built into the chest-wall planks, and Roronoa Zoro cuts the whole nest out with one sweep of his sword, while Usopp, the long-nosed sniper, shines violet rays from a lamp on the edges of the hole where a few bees remain. Nami searches the rest of the ship with a spyglass and finds no other nest.
+
+== 89
+# book 18.4: commonest chest wall sarcoma in adults -> B, chondrosarcoma.
+# a crab made of white gristle -> chondrosarcoma (sarcoma -> crab; CHONDRO -> gristle)
+# ANSWER: the gristle crab standing on the winner's podium wearing a gold medal -> the commonest adult chest wall sarcoma
+# a lamb, a spindle crab and a blood-red crab on the lower steps -> Ewing's, rhabdomyosarcoma and angiosarcoma are rarer in adults
+title: Chondrosarcoma is the commonest chest wall sarcoma in adults
+titleAr: الساركومة الغضروفية أشيع ساركومة في جدار الصدر عند البالغين
+tags: thoracic/chest-wall d:pathology q:recall l:1 x:high-yield
+palette: medal gold, gristle white and podium blue
+keywords: chondrosarcoma -> a crab made of white gristle on the top step of a winner's podium, a gold medal round its neck; rarer sarcomas -> a lamb nibbling an onion and a blood-red crab on the lower steps
+must: the white gristle crab stands on the TOP step with the gold medal
+scene: A festival square on a Grand Line island, blue sky. CENTRE, dominant and brightest: on the top step of a winner's podium stands a crab made of white gristle, a big gold medal round its neck, raising its claws in triumph. On the lower steps stand a lamb nibbling an onion and a blood-red crab. Luffy, the boy in the straw hat, hangs the medal, laughing.
+
+== 90
+# book 18.5: 6-year-old, 3-cm tender rib mass, onion-peel appearance -> A, Ewing's sarcoma.
+# a young lamb (a ewe's lamb) with a small red crab in its wool -> Ewing's sarcoma (keyword: EWING -> a EWE's lamb; sarcoma -> crab)
+# ANSWER: the lamb chewing an onion whose layers peel open around the rib, layer upon layer -> the onion-peel periosteal reaction of Ewing's sarcoma
+# a 6-year-old child holding the tender rib -> children and young people
+title: An onion-peel rib lesion in a young child suggests Ewing's sarcoma
+titleAr: آفة ضلعية بمظهر قشر البصل عند طفل صغير توحي بساركومة يوينغ
+tags: thoracic/chest-wall d:diagnosis q:vignette l:1 x:high-yield
+palette: onion purple, lamb wool white and meadow green
+keywords: Ewing's sarcoma -> a young lamb, a ewe's lamb (EWE-ing), a small red crab clinging in its wool; onion-peel appearance -> the lamb chewing an onion whose layers peel open in rings around the child's rib; child -> a 6-year-old boy holding his tender side
+must: the onion layers peel open in RINGS around the rib
+scene: A green meadow on a sky island. A 6-year-old boy sits on the grass holding his tender side. CENTRE, dominant and brightest: a young fluffy lamb, a small red crab clinging in its wool, nuzzles the boy's side and chews a big purple onion, whose layers peel open in rings around one of the boy's ribs, layer upon layer like an onion skin. Tony Tony Chopper, the little reindeer doctor, kneels beside them, examining the rings.

@@ -43,6 +43,11 @@ Updated 2026-11-21 (morning). Whoever works on YouTop next: read `CLAUDE.md`, th
     actinomycosis), 38 (repair usually waits until the patient is off the ventilator), 24 (the book's 30 percent).
   - Stories (vowelled `voice.txt`), One Piece quotations (from memory; sources named per lesson) and explanations
     for 1-50 written and built; 1-10 recorded; 11-50 recording (2026-11-21). NEXT: voice check, then the pictures.
+  - Lessons 51-100 (book 11.1-20.5: transplant, oesophagus, mediastinum, chest wall, pleura): scenes and prompts written and
+    SENT (`prompts-jh-51-100.txt`). New audited symbols: oesophagus (a pink sofa slide), stomach (a copper cooking pot),
+    LES (a drawstring), reflux (acid soup splashing up), Barrett (barrel staves), achalasia (a chalice in the drawstring),
+    fundoplication (the pot's rim as a scarf), thymus (thyme), pectus excavatum (an excavator). Key CORRECTED: 61 (book D,
+    now E: about half have other anomalies, and CHARGE includes heart defects). Keys kept with a note: 78, 80, 88.
   - **Restart warning (fixed 2026-11-21):** `batch.py build` for a NEW book used to run `publish.py --export` into
     `.content-work`, which overwrote the other books' unpublished lessons with their published copies (it wiped
     MedCosmos 111, 123, 125, 128, 149; they were rebuilt from their batches and their voices re-timed from the cache).

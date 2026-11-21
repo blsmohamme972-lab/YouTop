@@ -149,6 +149,15 @@ sits in the picture). The model is endocarditis: playing CARDs (sound) sprouting
 | mediastinal lymph node stations (numbered) | numbered railway stations along a sea-train line that runs down beside the ribbed hose (the trachea) and forks under it (Paint only the one or two station numbers the question needs (words:).) | the nodes are literally called stations; a line of stations keeps their order | 9/10 | johns-hopkins-2016 |
 | trachea, windpipe (and the carina where it forks) | a big ribbed hose of stacked white C-shaped rings that forks into two hoses at its lower end | the trachea is a ringed hose; its fork is the carina | 8/10 | johns-hopkins-2016 |
 | tuberculosis | a brass tuba riddled with holes, soft white cheese oozing from them (Miliary TB = the tuba spraying a fine millet of tiny seeds everywhere.) | tuba = TUBerculosis; holes and cheese = cavities and caseation | 10/10 | johns-hopkins-2016 |
+| oesophagus (esophagus) | a long pink sofa stretched into a slide, down which food slides from the mouth to a cooking pot (Say 'a long pink sofa stretched into a slide' so it reads as a chute, not a seat.) | e-SOFA-gus; food slides down it | 9/10 | johns-hopkins-2016 |
+| stomach (and a gastric conduit) | a big copper cooking pot that receives the food at the bottom of the sofa slide | the stomach cooks the food; first used in lesson 10 (the pot through the torn deck) | 9/10 | johns-hopkins-2016 10 |
+| lower oesophageal sphincter (LES) | a drawstring purse-neck tied round the bottom of the sofa slide where it enters the cooking pot | a sphincter is a purse-string ring | 8/10 | johns-hopkins-2016 |
+| gastro-oesophageal reflux (GERD, reflux oesophagitis) | bubbling green acid soup splashing back UP out of the cooking pot into the sofa slide, scorching it | reflux = flowing back; the burn of heartburn | 10/10 | johns-hopkins-2016 |
+| Barrett's oesophagus (intestinal metaplasia) | the lowest stretch of the sofa slide relined with wooden barrel staves, like the inside of a barrel | Barrett = barrel; the lining replaced near the GE junction | 10/10 | johns-hopkins-2016 |
+| achalasia | a golden chalice jammed in the drawstring at the bottom of the sofa slide, food piling up above it and the slide bulging wide | achalasia = a chalice stuck in the outlet | 10/10 | johns-hopkins-2016 |
+| fundoplication (Nissen, partial) | the rim of the cooking pot folded up and wrapped round the bottom of the sofa slide like a scarf (A partial wrap = the scarf only half way round.) | a wrap of the stomach round the oesophagus | 9/10 | johns-hopkins-2016 |
+| thymus, thymoma | a bushy pot of thyme growing at the very front of the chest cabin (A thymoma = the thyme bush grown huge.) | thymus = thyme, and it sits in front | 9/10 | johns-hopkins-2016 |
+| pectus excavatum (funnel chest) | a yellow excavator digging a deep hollow in the front of a treasure chest | excavatum = dug out | 10/10 | johns-hopkins-2016 |
 
 ## Rejected (never use them)
 
