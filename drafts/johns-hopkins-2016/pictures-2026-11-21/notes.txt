@@ -1,0 +1,49 @@
+Johns Hopkins 2016: what the pictures show against the story (looked at by the agent alone; the owner asked for no subagents)
+3: Chopper points down to the hotel but does not put his ear on the man's chest (S7); left
+7: the nun lies on the deck but no flat white line is visible; Robin (S8) is not painted; left
+9: wounded men lying in blood at the bottom, not asked for (decorative, grim); left
+13: the confused conductor does not hold sign 7 above the fork (S4-S5); Franky already holds 7 under the fork; left
+20: the swollen pink lobe is a ball beside the baby's face, not clearly part of the money sack he hugs (S2); left
+27: the frightened audience of S2 is not painted (no spot); left
+33: the coffin beside a man whose needle is under 20 (table) is not painted; the story does not need it; left
+35: Nami (S5, S9) is not painted; Luffy's arms go round the sack once, not twice (S8); left
+40: the hose is wrapped by the rope but is not visibly cut in two (S2); left
+41: Chopper (S7-S8) and Luffy (S9-S10) are not painted; those sentences have no circle; left
+43: drawn as two columns of crabs (one crab per cause, growing on the left, unchanged under the xenon lamps on the right) rather than one crab; Zoro (S9) is not painted; left
+44: Luffy claps beside the podium; he does not jump onto it (S9); left
+46: Usopp (S7) is not painted; left
+48: the coiled sausage hides a dry crab as asked; the frail old man of the table is not painted (not in the story either); fine
+51: Chopper is painted twice (handing the sack at the top, stopping the cigar man and the crown on the stair below); the story reads well with it; left
+53: the coffin at the end of the road is very small, a dot at the far end; Usopp (S3) is not painted; left
+55: the red-hot hose is completely hidden in the smoke, so only the smoke is seen (the story says the smoke covers it all); the sack's red sparks are tiny; the judge with the X card is clear; left
+58: the cat slices its loaf with a knife, not a claw (S7); left
+61: the knight is drawn as Luffy in armour; fine
+63: the green acid seems to pour DOWN the slide into the pot from the top (where the child sits), rather than splash UP out of the pot (S5, the meaning: reflux); the child is painted twice; the 40 flag and the narrowed seam are right. Worth a redraw if the owner agrees; left
+68: the second sailor in the hammock is Luffy, hanging above the second slide; fine
+69: the 'second slide' with barrel staves is drawn as a big barrel with dark spots, and the scorched slide as a red armchair; the story still reads; left
+70: the man still in bed is in the LEFT (keyhole) cabin, while S8 says the open-door patient lies in bed; left
+71: Luffy (S10) is not painted; left
+72: Usopp (S7) and Chopper (S9) are not painted; left
+73: the slide leaks clear water from the start, beside the full hourglass, so the puddle is seen at both hourglasses; the full and the empty hourglass and the bubbles are right; left
+75: Luffy (S10) is not painted; left
+77: the crab reaches the third (purple) layer and the bat's rings stop there, as the story says; the cat holds a knife; good
+78: the 'straight to the sword' hourglass is not separated from the treated one; both run out together, which is the point; left
+79: the 'short band of barrel staves' is a short barrel standing in the acid inside the pot, not a band lining the slide's foot (S2); the crab rises from it; Usopp (S4) and Luffy (S9-S10) are not painted; left
+82: the curtains hang from the left and right side walls rather than clearly front and back; left
+83: the tangle of glowing wires is at the stern end of the hull (right), not along the keel; the baby is already in Chopper's arms; left
+84: the tall young man of the story is drawn as Luffy in a felt hat; fine
+85: the chemist is a pirate woman; the man of the thumbs-up is a blue-haired cyborg, like Franky; fine
+86: the crab's body is white gristle and its claws are red, boring into the planks either side of the white cartilage strip; fine
+87: the boy looks like a young Luffy, Luffy beside him; fine
+88: the nest is a big honeycomb in the planks; Zoro's sword is mid-cut; fine
+89: the spindle crab of the table is not painted; the lamb eats an onion; Luffy hangs the medal from the step below, not jumping onto the top (S9); left
+91: the boy of the story (Roy) is drawn as Luffy, growing up a green beanstalk; fine
+93: the healthy parents are drawn as Luffy and Nami; the two key halves join above the baby; fine
+95: the 'winded sailor' who breathes easily (S8-S9) is Usopp, lying back laughing; fine
+97: the first sailor is Luffy, the second Zoro; fine
+100: Franky is drawn as a blue-haired woman mechanic; the milk still pours from the crack after the rope is tied (S7 says it stopped), and it pours into the sea, not into the cabin; left
+
+Voice check (voice.py check, this container, 2026-11-21): JH 1-100, 1,459 sentences, 3 flagged, all false alarms after
+transcribing each clip alone: 49 S11 (Brook's quotation, heard "but I'm already dead, yohoho"), 66 E2 ("mm Hg" spoken as
+"millimetres of mercury"), 80 S11 (the One Piece quotation, heard whole when alone).
+Second-agent check: not done (the owner asked for no subagents).
