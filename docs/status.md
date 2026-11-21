@@ -8,6 +8,16 @@ Updated 2026-11-21 (afternoon). Whoever works on YouTop next: read `CLAUDE.md`, 
 
 **Two books are in progress. Nothing is waiting on the agent except what the owner asks; work only when asked.**
 
+**Update (2026-11-21, ~14:00 UTC, a new session):**
+- **82 JH pictures ARE in the Drive folder** `11gZ6LUEbDqbeyBc45sVLsKRQ6gpwLtdx` (uploaded 11:06-11:52 UTC, before the
+  handoff below was written; it missed them). Present: 1-10, 12, 13, 15-22, 24, 25, 27-30, 32-35, 37, 39-53, 55-58,
+  60-63, 66-75, 77-79, 82-89, 91, 93-97, 100. **Missing: 11, 14, 23, 26, 31, 36, 38, 54, 59, 64, 65, 76, 80, 81, 90,
+  92, 98, 99, and all of 101-150.**
+- All 15 JH batches (1-150) and the three MedCosmos batches with 111, 123, 125, 128, 149 were rebuilt in this
+  container, and recording + voice check of all of them started at 14:02 (JH 1-150 first, then the five MedCosmos).
+- Lesson 38's `keywords:` line was refused by the symbol check (the oesophagus symbol came after its prompt was sent).
+  Its term now reads `trachea (... the prompt was sent before the oesophagus symbol existed)`; the scene is unchanged.
+
 1. **MedCosmos Cardiac (`medcosmos-cardiac`, 156 lessons): 151 published.** Lessons 111, 123, 125, 128, 149 are written
    (batches in `drafts/medcosmos-cardiac/`) but held back until their pictures arrive (prompts:
    `drafts/medcosmos-cardiac/prompts-missing.txt`). When they arrive: rebuild those batches, re-record them
