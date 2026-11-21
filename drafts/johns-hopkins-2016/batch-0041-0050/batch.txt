@@ -14,6 +14,25 @@ palette: sea glass green, crab red and pearl white
 keywords: lung -> a big sack of green dollar bills; adenocarcinoma -> a red crab clinging at the OUTER edge of the sack; pleural retraction -> the crab's claws pulling the sack's outer skin inward into a puckered dimple; central endobronchial tumour -> the ribbed hose in the middle of the sack, with no crab in it
 must: the crab sits at the OUTER edge and the sack's skin is pulled INWARD into a dimple
 scene: A pearl-white beach on Fishman Island, sea-glass green light. A big sack of green dollar bills lies on the sand, a white ribbed hose running into its middle. CENTRE, dominant and brightest: a red crab clings to the very outer edge of the sack and pulls the sack's skin inward with both claws, so the outer skin puckers into a deep dimple. Nami, the orange-haired navigator, points at the dimple, horrified.
+story:
+على شاطئ أبيض كاللّؤلؤ في جزيرة رجال السمك، تحت ضوء أخضر كزجاج البحر، رقد كيس كبير من الدولارات.
+وكان خرطوم أبيض مضلّع يدخل في وسطه، ليس فيه شيء غريب.
+ثمّ زحف سرطان أحمر إلى الحافة الخارجيّة للكيس، بعيدًا عن الوسط.
+فتشبّث بها، وأخذ يشدّ جلد الكيس إلى الداخل بملقطيه.
+فتجعّد الجلد الخارجيّ، وانطوى نقرةً عميقة.
+«انظروا إلى الجلد! يسحب إلى الداخل كأنّ شيئًا يعضّه من تحت!» صاحت نامي.
+فجاء تشوبر، ونظر إلى الوسط أوّلًا، ثمّ إلى الحافة.
+«هذا النوع لا يسكن الوسط غالبًا؛ يسكن الأطراف، ويشدّ الجلد نحوه.»
+فأمسكت نامي ذراع لوفي خائفةً على الكيس.
+فنظر إليها لوفي، وقال لها ما قاله يوم وضع قبّعته على رأسها:
+quote: «نامي! أنت رفيقتي!»
+source: مونكي دي لوفي
+explanation:
+Adenocarcinoma is now the commonest type of lung cancer.
+Its commonest growth pattern is a peripheral tumour, often with retraction (puckering) of the overlying pleura: E is the answer.
+Central endobronchial tumours are typical of squamous cell and small cell carcinoma.
+A pneumonia-like consolidation is a less common pattern of adenocarcinoma.
+
 
 == 42
 # book 9.2: which histology pattern is correct -> D, small cell: ill-defined borders and absent nucleoli.
@@ -28,6 +47,24 @@ palette: oat beige, blur grey and one pearl white
 keywords: small cell carcinoma -> a red crab's shell heaped with tiny oat grains (the OAT cell); ill-defined borders -> the grains melting into each other with blurred edges; absent nucleoli -> each grain cracked open with NO kernel inside; keratin pearls (squamous) -> a single big pearl lying apart in another dish
 must: the oat grains are BLURRED into each other and EMPTY inside; the pearl is in a separate dish
 scene: Sanji's galley on the Thousand Sunny, warm morning light. CENTRE, dominant and brightest: the empty shell of a big red crab, used as a bowl, heaped with tiny oat grains whose edges blur and melt into each other, and each grain Sanji, the blond cook, cracks open with his knife is empty, with no kernel inside; he stares at them in surprise. RIGHT: in a separate small dish lies a single big shining pearl.
+story:
+في مطبخ الثاوزند صني، تحت ضوء صباح دافئ، كانت صدفة سرطان أحمر كبير فارغةً كالوعاء.
+وفيها كومة من حبوب الشوفان الصغيرة.
+وكانت حوافّ الحبوب ضبابيّةً، يذوب بعضها في بعض، فلا يعرف أين تنتهي حبّة وتبدأ أخرى.
+فأخذ سانجي يشقّ الحبوب بسكّينه، حبّةً بعد حبّة.
+فإذا كلّ حبّة فارغة من الداخل، ليس فيها لبّ واحد.
+«حبوب صغيرة بلا حدود، وبلا لبّ؛ ما رأيت شوفانًا كهذا قطّ!»
+وإلى اليمين، في صحن صغير منفصل، لؤلؤة واحدة كبيرة لامعة.
+«وهذه اللؤلؤة ليست من هذه الطبخة؛ لها صحنها وأهلها!»
+فضحك سانجي، وغسل يديه، وأعاد الصدفة إلى الرفّ.
+وتذكّر يوم ركع على سطح المطعم العائم يودّع الرجل الّذي ربّاه، وصاح باكيًا:
+quote: «أيّها المدير زيف! شكرًا على كلّ ما فعلته لي!»
+source: سانجي
+explanation:
+Small cell carcinoma, the "oat cell" cancer, is made of small cells with scant cytoplasm, finely granular chromatin, ill-defined borders and absent or inconspicuous nucleoli: D is the answer.
+Squamous carcinoma shows keratin pearls and intercellular bridges, not atypical carcinoid.
+A typical carcinoid has fewer than 2 mitoses per 10 high-power fields and no necrosis; an atypical carcinoid has 2 to 10 mitoses or necrosis.
+
 
 == 43
 # book 9.3: which is NOT a risk factor for lung cancer -> A, xenon exposure.
@@ -42,6 +79,25 @@ palette: headlamp blue-white, smoke grey and coin silver
 keywords: lung cancer -> a red crab clamped on a sack of green dollar bills; smoking -> a Marine captain blowing cigar smoke onto the crab, which grows; second-hand smoke -> a sailor beside him breathing the drifting smoke; asbestos -> grey fibrous threads dropped onto the crab; nickel -> a nickel coin dropped onto the crab; xenon -> a bright blue xenon headlamp shining on the crab while it does not grow at all
 must: the smoke, fibres and coin make the crab GROW; under the xenon headlamp's light it does NOT grow
 scene: The dark hold of a Marine ship. A red crab is clamped on a big sack of green dollar bills. LEFT: a Marine captain blows thick cigar smoke onto it, a sailor beside him coughing in the drifting smoke, and Usopp drops grey fibrous threads and a shiny nickel coin onto the crab, which swells bigger with each. CENTRE, dominant and brightest: Franky, the blue-haired cyborg shipwright, shines a bright blue xenon headlamp straight at the crab, and in its beam the crab stays exactly the same size, unbothered.
+story:
+في عنبر مظلم من سفن البحريّة، تشبّث سرطان أحمر بكيس كبير من الدولارات.
+فنفخ قبطان من البحريّة عليه دخان سيجاره الكثيف، فكبر السرطان.
+وسعل بحّار إلى جانبه من الدخان الّذي يصل إليه، فكبر أكثر.
+وألقى أوسوب عليه خيوطًا رماديّةً ليفيّة، وقطعة نيكل لامعة.
+«كلّ شيء يلقى عليه يطعمه!» قال أوسوب مذعورًا.
+ثمّ جاء فرانكي بمصباح زينون أزرق ساطع، وسلّطه على السرطان مباشرةً.
+فبقي السرطان في الضوء بحجمه نفسه، لا يكبر شعرة.
+«مصباحي لا يطعمه يا أوسوب؛ هذا الضوء بريء!»
+فتأمّل زورو المشهد من الباب، وقبض على سيوفه الثلاثة.
+ثمّ قال كلمته الّتي عاش لها منذ صغره:
+quote: «سأصبح أعظم مبارز في العالم!»
+source: رورونوا زورو
+explanation:
+Smoking is the main risk factor for lung cancer, and second-hand smoke raises the risk too.
+Occupational exposures such as asbestos, nickel, arsenic and chromium also raise it, as does radon gas in homes and mines.
+Xenon, a harmless noble gas used in lamps, is not a risk factor: A is the answer.
+Radon, a radioactive gas, is the one that causes lung cancer, not xenon.
+
 
 == 44
 # book 9.4: correct TNM 7th-edition stage -> C, a T2a tumour of 4 cm (N0) is stage IB.
@@ -56,6 +112,25 @@ words: 4, 1, B
 keywords: T2a tumour of 4 cm -> a red crab with a yellow measuring tape round its shell reading 4; N0 -> the railway stations along the line beside it all empty; stage IB -> the crab standing on a podium step painted 1, holding a flag painted B
 must: the tape reads 4; the step is 1 and the flag is B; every railway station is EMPTY
 scene: A festival square on a Grand Line island with a sea-train line running behind it, golden light. Behind the square, along the line, little railway stations stand all empty, with no crab at any of them. CENTRE, dominant and brightest: a red crab with a yellow measuring tape wrapped round its shell reading 4 stands proudly on a winner's podium step painted 1, waving a flag painted B. Luffy, the boy in the straw hat, claps from the side.
+story:
+في ساحة احتفال على جزيرة من جزر الخطّ الكبير، يمرّ خلفها خطّ قطار البحر، كان الضوء ذهبيًّا.
+وعلى طول الخطّ، محطّات صغيرة كلّها فارغة، ليس عند واحدة منها سرطان.
+وفي الوسط، وقف سرطان أحمر فخور على منصّة الفائزين.
+وقد لفّ حول صدفته شريط قياس أصفر يقرأ: أربعة.
+وكانت درجته على المنصّة مكتوبًا عليها: واحد.
+وفي ملقطه راية مكتوب عليها حرف بي.
+«أربعة في القياس، ولا أحد في المحطّات؛ فمكانك الدرجة الأولى، ورايتك بي!» قال لوفي.
+فلوّح السرطان برايته زهوًا، وصفّق لوفي من الجانب.
+ثمّ قفز لوفي على المنصّة نفسها، ورفع قبّعته القشّيّة إلى السماء.
+وصاح في الساحة كلّها بالكلمة الّتي يعرّف بها نفسه أينما ذهب:
+quote: «أنا لوفي، الرجل الّذي سيصبح ملك القراصنة!»
+source: مونكي دي لوفي
+explanation:
+In the 7th edition of the TNM staging of non-small cell lung cancer, a T2a tumour measures more than 3 cm and up to 5 cm.
+A T2a tumour of 4 cm with no nodal disease (N0) is stage IB: C is the answer.
+T3 with N2 disease is stage IIIA, not IIIB, and T1 with N3 is stage IIIB, not IIIA.
+T2b with N1 is stage IIB, and a T4 tumour invading a vertebral body is at least stage IIIA.
+
 
 == 45
 # book 9.5: lung cancer trials -> A, ACOSOG Z0030 showed no survival difference between lymph node sampling and complete dissection.
@@ -71,6 +146,25 @@ words: Z
 keywords: Z0030 trial -> a big Z slashed by Zoro's swords into the starting line; lymph node sampling -> a runner picking just a few parcels from the railway stations along the track; complete lymph node dissection -> a second runner digging out every parcel from every railway station; no survival difference -> both runners crossing the finish line at exactly the same moment, side by side
 must: the two runners cross the finish line TOGETHER, neck and neck
 scene: A long racetrack beside a sea-train line, little railway stations along it, bright sky. At the start, a big letter Z is slashed into the starting line, and Roronoa Zoro stands beside it with his swords. One runner carries only a few parcels picked from the stations; the other carries a huge pile of parcels dug out of every station. CENTRE, dominant and brightest: both runners burst through the finish-line tape at exactly the same moment, side by side, neck and neck, Usopp at the line waving two flags at once.
+story:
+على مضمار سباق طويل إلى جانب خطّ قطار البحر، تحت سماء صافية، وقفت محطّات صغيرة على طول الطريق.
+وعند البداية، شقّ زورو بسيوفه حرف زد كبيرًا في خطّ الانطلاق.
+فانطلق عدّاءان، الأوّل يلتقط من المحطّات طرودًا قليلةً فقط.
+والثّاني يحفر كلّ طرد من كلّ محطّة، حتّى صار يحمل كومةً هائلة.
+«صاحب الكومة سيسبق لا شكّ!» قال أوسوب عند خطّ النهاية.
+لكنّ العدّاءين اقتربا من النهاية معًا، كتفًا إلى كتف.
+فاخترقا شريط النهاية في اللحظة نفسها تمامًا.
+فرفع أوسوب رايتيه كلتيهما في آن واحد.
+«لا فائز ولا خاسر؛ قليل الطرود وكثيرها بلغا النهاية معًا!»
+فضحك زورو، وتذكّر كلمة قرصان متعجرف في معطف من الريش الورديّ يوم الحرب الكبرى:
+quote: «العدالة ستنتصر؟ بالطّبع ستنتصر! فالمنتصر هو من يصير العدالة!»
+source: دونكيخوتي دوفلامينغو
+explanation:
+The ACOSOG Z0030 trial compared mediastinal lymph node sampling with complete mediastinal lymph node dissection in early lung cancer.
+It found no difference in survival between the two: A is the answer.
+Complete dissection did find some extra nodal disease, but it did not lengthen life.
+Adjuvant cisplatin-based chemotherapy, as in the IALT, improved overall survival as well as disease-free survival.
+
 
 == 46
 # book 10.1: NOT a criterion for pulmonary metastasectomy -> B, fewer than three nodules.
@@ -86,6 +180,24 @@ palette: island green, cage iron and baby-crab pink
 keywords: pulmonary metastases -> baby crabs settled on a big sack of green dollar bills, far from their mother; primary controlled -> the mother crab locked in an iron cage; no extrathoracic metastases -> empty islands on the horizon with no baby crabs on them; number of nodules -> Zoro happily picking off a whole row of baby crabs without counting; pulmonary reserve -> the sack of dollar bills still big and full after the crabs are taken off
 must: Zoro removes a LONG row of baby crabs; the mother crab is caged; the islands on the horizon are empty
 scene: A green island shore. LEFT: the mother red crab sits locked in an iron cage. Far on the horizon lie small empty islands with no crabs on them. CENTRE, dominant and brightest: a big sack of green dollar bills is dotted with a long row of little pink baby crabs, and Roronoa Zoro, grinning, picks them off one after another with the tip of his sword, not counting, while the sack stays big and full. Nami keeps watch on the horizon with a spyglass.
+story:
+على شاطئ جزيرة خضراء، جلست أمّ السرطانات الحمراء محبوسةً في قفص حديديّ.
+وفي الأفق البعيد، جزر صغيرة خالية، ليس عليها سرطان واحد.
+فوقفت نامي تراقب الأفق بمنظارها، تتأكّد أنّه خال.
+«الأمّ في القفص، والجزر البعيدة خالية؛ لم يبق إلّا الكيس!»
+وكان على كيس كبير من الدولارات صفّ طويل من صغار السرطانات الورديّة.
+فأخذ زورو يلتقطها بطرف سيفه واحدًا بعد واحد، مبتسمًا.
+«كم عددها يا زورو؟ ثلاثة؟ أكثر؟» سأل أوسوب.
+«لا أعدّها؛ ما دام الكيس يبقى كبيرًا بعدها، آخذها كلّها.»
+وبقي الكيس كبيرًا ممتلئًا، وإن أخذت منه الصغار كلّها.
+فمسح زورو سيفه، وقال كلمةً قالها يومًا وهو يواجه أقوى مبارز في العالم:
+quote: «يوم قرّرت أن أصبح أعظم مبارز في العالم، تخلّيت عن حياتي!»
+source: رورونوا زورو
+explanation:
+The criteria for pulmonary metastasectomy are a controlled primary tumour, no extrathoracic metastases, enough pulmonary reserve for the planned resection, and nodules that can all be removed.
+The number of nodules is not a criterion in itself: patients with many nodules can be operated on if all of them can be removed: B is the answer.
+The number does affect the prognosis, but completeness of resection matters most.
+
 
 == 47
 # book 10.2: most important factor in resection of pulmonary metastases -> D, completeness of resection.
@@ -99,6 +211,24 @@ palette: lantern gold, jar glass and spotless green
 keywords: pulmonary metastases -> little pink baby crabs on a big sack of green dollar bills; completeness of resection -> Chopper sweeping the sack with a lantern and finding not one crab left, the very last baby crab dropped into a glass jar; incomplete resection -> one baby crab left hidden in a fold of a second sack, glowing red
 must: the main sack is COMPLETELY clean; one crab hides in the second sack's fold
 scene: The infirmary of the Thousand Sunny at night, one lantern. CENTRE, dominant and brightest: a big sack of green dollar bills lies spotless and clean, and Tony Tony Chopper, the little reindeer doctor in a pink top hat, sweeps it with a lantern, finds not one crab left, and drops the very last little pink baby crab into a glass jar already full of them, beaming. RIGHT, in the shadows: a second sack has one baby crab hidden in a fold, glowing red.
+story:
+في ليلة هادئة في مستوصف الثاوزند صني، لم يكن يضيء إلّا فانوس واحد.
+وعلى المائدة كيس كبير من الدولارات الخضراء، كانت عليه صغار السرطانات.
+فأخذ تشوبر الفانوس، ومسح به الكيس شبرًا شبرًا.
+«لن أترك واحدًا؛ فالواحد الّذي يبقى يعيدهم كلّهم!»
+فوجد آخر سرطان ورديّ صغير في طيّة خفيّة.
+فألقاه في جرّة زجاجيّة ممتلئة بإخوته، وأغلقها.
+فصار الكيس نظيفًا تمامًا، ليس عليه سرطان واحد.
+وفي الظلّ على اليمين، كيس ثان لم يمسح جيّدًا، في طيّته سرطان يتوهّج أحمر.
+«وذاك الكيس لم يكمل صاحبه عمله؛ سيعود إليه الشرّ.»
+فابتسم تشوبر إلى الجرّة الممتلئة، وتذكّر ما قاله ملك القراصنة للعالم يوم إعدامه:
+quote: «كنزي؟ إن أردتموه فهو لكم. ابحثوا عنه! لقد تركت كلّ شيء في ذلك المكان!»
+source: غول دي روجر
+explanation:
+In the resection of pulmonary metastases, the most important factor for survival is a complete resection.
+Patients whose metastases are all removed survive far longer than those left with disease: D is the answer.
+The number of metastases, the disease-free interval and the tumour doubling time also affect the prognosis, but less strongly.
+
 
 == 48
 # book 10.3: best candidate for immediate pulmonary metastasectomy -> D, a 50-year-old with stage II colon cancer 4 years ago and two nodules, one in each hemithorax.
@@ -113,6 +243,25 @@ words: 4
 keywords: colon cancer 4 years ago -> a red crab curled inside a long coiled sausage, beside a calendar painted 4; bilateral pulmonary metastases -> two little pink baby crabs, one on each of two sacks of green dollar bills; metastasectomy -> Zoro removing both baby crabs with two swords at once
 must: there is exactly ONE baby crab on EACH of the two sacks; the calendar reads 4
 scene: Sanji's galley-dining room on the Thousand Sunny, warm light. LEFT: on a wall shelf a long coiled sausage with a small red crab curled inside it, dried and still, beside a big calendar painted 4. CENTRE, dominant and brightest: two big sacks of green dollar bills hang side by side, each with exactly one little pink baby crab on it, and Roronoa Zoro, swords in both hands, flicks off both baby crabs at the same instant. A healthy fifty-year-old sailor, the owner of the sacks, gives a thumbs-up.
+story:
+في غرفة الطعام على الثاوزند صني، تحت ضوء دافئ، كانت على رفّ في الجدار نقانق طويلة ملفوفة.
+وفي داخلها سرطان أحمر صغير جافّ ساكن، منذ زمن بعيد.
+وإلى جانبها رزنامة كبيرة مكتوب عليها: أربعة.
+«هذا السرطان سكن نقانقي قبل أربع سنوات، ولم يتحرّك منذ ذلك اليوم.» قال بحّار قويّ في الخمسين.
+وفي الوسط، تدلّى كيسان كبيران من الدولارات جنبًا إلى جنب.
+وعلى كلّ كيس منهما سرطان ورديّ صغير واحد، لا غير.
+فسلّ زورو سيفين بيديه، وأزاح السرطانين في اللحظة نفسها.
+«واحد هنا وواحد هناك، بعد أربع سنوات من السكون؛ هذان يستحقّان سيفي.»
+فرفع البحّار إبهامه راضيًا، وبقي الكيسان سليمين.
+فتذكّر زورو أميرةً ودّعتهم على الشاطئ يومًا، وسألتهم بصوت مرتجف:
+quote: «إن التقينا يومًا من جديد، أتنادونني رفيقتكم؟»
+source: نفرتاري فيفي
+explanation:
+A good candidate for pulmonary metastasectomy has a controlled primary, a long disease-free interval, no metastases outside the chest and nodules that can all be removed with enough lung left.
+The 50-year-old with stage II colon cancer treated 4 years ago and one nodule in each hemithorax fulfils all of these: D is the answer.
+Bilateral nodules do not rule out resection.
+Nodules appearing 2 months after treatment, a positive internal mammary node outside the lung, or rising tumour markers after a germ cell tumour point to uncontrolled disease that needs other treatment first.
+
 
 == 49
 # book 10.4: NOT a treatment option for pulmonary metastases with poor lung function -> A, isolated lung perfusion.
@@ -128,6 +277,24 @@ palette: tub copper, blowtorch blue, ray violet and pill white
 keywords: poor pulmonary function -> an old sailor holding a small shrivelled sack of green dollar bills; radiofrequency ablation -> a small blowtorch burning one baby crab black on the sack; stereotactic body radiotherapy -> thin pinpoint rays crossing on another baby crab; systemic chemotherapy -> a tray of pills; isolated lung perfusion -> a big copper tub with tubes for lifting the whole sack of dollar bills out and bathing it alone, pushed away by Chopper
 must: the blowtorch, rays and pills are used ON the crabs; the copper tub is pushed AWAY, unused
 scene: A quiet cabin of the Thousand Sunny. An old thin sailor holds a small shrivelled sack of green dollar bills with two little pink baby crabs on it. Usopp's small blowtorch burns one baby crab black, thin pinpoint violet rays cross on the other, and a tray of white pills waits on his knee. CENTRE, dominant and brightest: Tony Tony Chopper, the little reindeer doctor in a pink top hat, pushes away a big copper tub with tubes, made for lifting the whole sack out and bathing it alone, shaking his head firmly.
+story:
+في قمرة هادئة على الثاوزند صني، جلس بحّار عجوز نحيل يحمل كيسًا صغيرًا منكمشًا من الدولارات.
+وعلى الكيس سرطانان ورديّان صغيران.
+«كيسي صغير، وأنفاسي قليلة؛ فماذا بقي لي؟»
+فأحرق أوسوب أحد السرطانين بمشعل لحم صغير حتّى اسودّ.
+وتقاطعت على السرطان الآخر أشعّة بنفسجيّة رفيعة كالإبر.
+وعلى ركبته صينيّة من الحبوب البيضاء تنتظر.
+ثمّ جاء أحدهم يجرّ حوضًا نحاسيًّا كبيرًا بأنابيب، ليخرج الكيس كلّه ويحمّمه وحده.
+فدفع تشوبر الحوض بعيدًا، وهزّ رأسه بحزم.
+«ليس لكيس صغير كهذا؛ هذا الحوض يتعبه أكثر ممّا ينقذه.»
+فضحك العجوز ضحكةً طويلة، وردّد نكتة هيكل عظميّ موسيقيّ عرفه في شبابه:
+quote: «لكنّني ميّت أصلًا! يو هو هو هو!»
+source: بروك
+explanation:
+A patient with pulmonary metastases and poor pulmonary function needs treatments that spare the lung.
+Systemic chemotherapy, radiofrequency ablation and stereotactic body radiotherapy are all options for such a patient.
+Isolated lung perfusion needs a thoracotomy and isolation of the whole lung, and is still experimental, so it is not an option here: A is the answer.
+
 
 == 50
 # book 10.5: the gold standard for imaging pulmonary metastases -> B, computed tomography.
@@ -142,3 +309,22 @@ palette: medal gold, bread brown and X-ray grey
 keywords: pulmonary metastases -> tiny pink baby crabs hidden inside a loaf shaped like a sack of dollar bills; CT -> a cat slicing that loaf into very thin slices with one sharp claw, each slice showing the tiny baby crabs, a gold medal round the cat's neck; PET -> a glowing puppy sniffing beside it, with no medal; plain chest radiography -> a plain grey X-ray plate showing only a blur
 must: the gold medal hangs on the CAT; the puppy and the grey plate have none
 scene: A prize-giving on the deck of the Thousand Sunny, golden light. CENTRE, dominant and brightest: a sleek grey cat with one sharp claw slices a long loaf shaped like a sack of dollar bills into very thin slices, and every slice shows tiny pink baby crabs hidden inside; Luffy, the boy in the straw hat, hangs a big gold medal round the cat's neck. LEFT: a glowing puppy sniffs at the loaf, with no medal. RIGHT: a plain grey X-ray plate leans on a barrel, showing only a blur.
+story:
+في حفل الجوائز على سطح الثاوزند صني، تحت ضوء ذهبيّ، كان على برميل رغيف طويل على هيئة كيس من الدولارات.
+وقد اختبأت في داخله صغار سرطانات ورديّة لا ترى من الخارج.
+فتقدّم لوح أشعّة رماديّ عاديّ، فلم ير إلّا ضبابًا.
+وجاء جرو متوهّج يتشمّم الرغيف من حوله.
+ثمّ جاء قطّ رماديّ رشيق، وقطّع الرغيف بمخلب واحد إلى شرائح رقيقة جدًّا.
+فبانت في كلّ شريحة صغار السرطانات كلّها، واحدةً واحدة.
+«الميداليّة الذهبيّة للقطّ!» صاح لوفي.
+وعلّق في عنقه ميداليّةً ذهبيّةً كبيرة، وبقي الجرو واللّوح بلا ميداليّة.
+«الشرائح الرقيقة لا تخفي شيئًا؛ هذا هو المعيار الذهبيّ!»
+فرفع الطاقم أكوابهم، وتذكّروا صيحة قرصان عجوز عظيم هزّت العالم في آخر لحظة من عمره:
+quote: «الون بيس... إنّه موجود!»
+source: إدوارد نيوغيت (اللحية البيضاء)
+explanation:
+Computed tomography is the gold standard for imaging pulmonary metastases: B is the answer.
+Its thin sections find nodules much smaller than a plain chest film can show.
+PET adds information about metastases elsewhere, but misses small nodules, under about 1 cm.
+Even CT misses some nodules, which the surgeon finds by feeling the lung at operation.
+

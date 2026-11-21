@@ -41,7 +41,12 @@ Updated 2026-11-21 (morning). Whoever works on YouTop next: read `CLAUDE.md`, th
     slicing a loaf), PET (a glowing puppy), lymph node stations (numbered railway stations), trachea (a ribbed hose that
     forks), tuberculosis (a holed tuba oozing cheese). Keys kept with a note: 28 (sulfur granules are classically
     actinomycosis), 38 (repair usually waits until the patient is off the ventilator), 24 (the book's 30 percent).
-  - NEXT: stories (vowelled `voice.txt`), One Piece quotations, explanations, build, record; then the pictures.
+  - Stories (vowelled `voice.txt`), One Piece quotations (from memory; sources named per lesson) and explanations
+    for 1-50 written and built; 1-10 recorded; 11-50 recording (2026-11-21). NEXT: voice check, then the pictures.
+  - **Restart warning (fixed 2026-11-21):** `batch.py build` for a NEW book used to run `publish.py --export` into
+    `.content-work`, which overwrote the other books' unpublished lessons with their published copies (it wiped
+    MedCosmos 111, 123, 125, 128, 149; they were rebuilt from their batches and their voices re-timed from the cache).
+    It now exports only into an empty folder.
 - **2026-11-21, morning: 151 of 156 lessons PUBLISHED.** 45 of the 50 wanted pictures arrived (05:26-05:29 UTC):
   1 and 104 (`--replace b`), 91, 93, and 112-156 except the five below. Every grid, every spots drawing and every
   circle drawing was looked at (by this agent alone; the owner asked for no subagents, so the skill's second-agent

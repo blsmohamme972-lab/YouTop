@@ -15,6 +15,25 @@ words: 10
 keywords: VO2max below 10 -> a huge ox in a clear oxygen mask climbing a rope up a snowy cliff, a brass gauge on its back with the needle sunk to 10; most specific predictor -> the ox slipping back down the rope as the needle sinks; lung resection -> Zoro's sword raised over a sack of green dollar bills, held back by Chopper; mortality -> a dark coffin half buried in the snow below
 must: the gauge reads 10 and the ox is slipping DOWN; Zoro has NOT cut the sack
 scene: The snowy cliffs of Drum Island below the castle, ice-blue light. CENTRE, dominant and brightest: a huge brown ox wearing a clear oxygen mask hangs on a long rope up the white cliff; a big brass gauge strapped to its back shows its needle sunk to a red 10, and the ox is slipping back down the rope, hooves scraping the ice. BELOW LEFT: Roronoa Zoro, the green-haired swordsman, raises his sword over a big sack stuffed with green dollar bills, but Tony Tony Chopper, the little reindeer doctor in a pink top hat, grips his arm and holds it back. BELOW RIGHT: a dark coffin lies half buried in the snow.
+story:
+على جروف جزيرة الطبول المثلجة، تحت القلعة البيضاء، تدلّى حبل طويل على الجليد.
+وكان ثور ضخم في قناع شفّاف يتسلّقه، يشدّ نفسه إلى الأعلى شبرًا شبرًا.
+وعلى ظهره عدّاد نحاسيّ كبير، تهبط إبرته رويدًا رويدًا.
+حتّى استقرّت على رقم أحمر: عشرة.
+فانزلق الثور على الحبل إلى الأسفل، وحوافره تخدش الجليد.
+وفي الأسفل، رفع زورو سيفه فوق كيس كبير من الدولارات الخضراء.
+فقبض تشوبر على ذراعه بكلّ قوّته، وأمسكها.
+«لا تقطع يا زورو! من لا يصعد فوق العشرة، لا يحتمل أن تأخذ من كيسه.»
+وعند قدميهما تابوت داكن نصفه مدفون في الثلج.
+فأغمد زورو سيفه، ونظر تشوبر إلى القلعة الّتي تعلّم فيها، وتذكّر معلّمه الأوّل يصيح:
+quote: «لا يوجد في هذا العالم مرض لا يمكن شفاؤه!»
+source: الدكتور هيلولوك
+explanation:
+Maximal oxygen consumption on exercise testing, VO2max, is the most specific predictor of complications after lung resection.
+A VO2max below 10 mL/kg/min marks a very high risk of complications and death, and generally rules resection out: E is the answer.
+An FEV1 below 0.8 L, a DLco below 40 percent of predicted, a raised A-a gradient and a PaCO2 above 44 mmHg all raise the risk, but less specifically.
+Above 15 to 20 mL/kg/min, the risk is low.
+
 
 == 12
 # book 3.2: what elevates DLco -> C, congestive heart failure.
@@ -29,6 +48,24 @@ palette: river red, smoke grey and taxi yellow on canal stone
 keywords: lung -> a sack of green dollar bills whose wall is a fishnet; DLco -> grey smoke puffs (carbon monoxide) passing through the fishnet into a red river below; congestive heart failure -> a traffic jam of yellow taxis on the bridge downstream, damming the red river so it swells high against the net; anaemia -> a thin pale pink stream beside it, taking almost no puffs
 must: the red river is swollen HIGH against the net and takes in many puffs; the pale stream takes almost none
 scene: A canal city like Water 7, stone bridges and blue sky. A huge sack stuffed with green dollar bills hangs over the canal; its lower wall is a fishnet, and grey smoke puffs drift out through the net down into the water. CENTRE, dominant and brightest: on the bridge downstream a traffic jam of yellow taxis stands bumper to bumper and dams the canal, so the red river below the sack swells high against the net and drinks in a great many smoke puffs. LEFT: beside it, a thin pale pink stream runs low and takes almost no puffs. Nami, the orange-haired navigator, leans over the parapet watching the puffs.
+story:
+في مدينة القنوات، تحت سماء زرقاء وجسور من حجر، تدلّى فوق القناة كيس هائل من الدولارات الخضراء.
+وكان جداره السفليّ شبكة صيد، تتسرّب منها نفثات من الدخان الرماديّ إلى الماء.
+وتحت الكيس نهر أحمر يشرب ما ينزل من الدخان.
+ثمّ وقفت على الجسر زحمة من سيّارات الأجرة الصفراء، لا تتقدّم شبرًا.
+فسدّت القناة، فارتفع النهر الأحمر حتّى لامس الشبكة.
+فأخذ يشرب من النفثات أكثر ممّا كان يشرب بكثير.
+«عجيب! الزحمة جعلت النهر أعطش!» قالت نامي وهي تنحني على الحاجز.
+وإلى جانبه جدول ورديّ شاحب نحيل، يجري منخفضًا، لا يكاد يأخذ نفثةً واحدة.
+«وهذا الجدول الشاحب فقير، لا يقدر على الشرب.»
+فأخذت نامي تعدّ النفثات كما تعدّ الكنوز، وتذكّرت كلمةً قالها قائدها يومًا:
+quote: «لا أريد أن أحكم أيّ شيء... أظنّ أنّ أكثر الناس حرّيّةً في البحر هو ملك القراصنة!»
+source: مونكي دي لوفي
+explanation:
+The diffusing capacity for carbon monoxide, DLco, depends on the alveolar membrane and on the volume of blood in the lung capillaries.
+Anything that adds blood to the pulmonary capillaries can raise it, and congestive heart failure, with its congested capillaries, is the answer here: C.
+Emphysema destroys the membrane, pulmonary fibrosis thickens it, pulmonary hypertension narrows the vessels and anaemia lowers the haemoglobin: all of them lower DLco.
+
 
 == 13
 # book 3.3: which lymph node station is incorrect -> E, station 7 is subcarinal (below the carina), not cephalad to it.
@@ -44,6 +81,25 @@ words: 1, 7, 9
 keywords: trachea and carina -> a big ribbed hose of stacked white C-shaped rings forking into two at its lower end; lymph node stations -> numbered railway station signs along a sea-train line beside the hose; station 7 -> railway station sign 7 planted UNDER the fork; station 9 -> railway station sign 9 low down beside a rope tying a sack of dollar bills to the floor (pulmonary ligament)
 must: Franky plants sign 7 UNDER the fork of the hose; sign 1 is at the very TOP
 scene: A sea-train line like Water 7's, its tracks running down beside a giant hose. CENTRE: a big ribbed hose of stacked white C-shaped rings stands upright and forks into two hoses at its lower end; railway station signs stand beside it, sign 1 at the very top. Dominant and brightest, at the fork: a confused sea-train conductor holds up the railway station sign 7 ABOVE the fork, and Franky, the blue-haired cyborg shipwright, grabs it and plants it firmly UNDER the fork, grinning. LOW RIGHT: railway station sign 9 stands beside a thick rope tying a sack of green dollar bills down to the floor.
+story:
+على خطّ من خطوط قطار البحر، كانت السكّة تنزل إلى جانب خرطوم عملاق مضلّع.
+وكان الخرطوم من حلقات بيضاء متراصّة، ينقسم في أسفله إلى خرطومين.
+وإلى جانبه لافتات المحطّات، في أعلاها كلّها لافتة رقم واحد.
+فجاء مراقب قطار حائر، يحمل لافتة المحطّة رقم سبعة.
+فرفعها فوق موضع الانقسام، وهو يبحث لها عن مكان.
+«لا يا صاحبي، ليس هناك!» صاح فرانكي.
+فانتزعها من يده، وغرسها بقوّة تحت موضع الانقسام.
+«السابعة تحت الشوكة، دائمًا تحتها، لا فوقها أبدًا!»
+وفي الأسفل على اليمين، وقفت لافتة رقم تسعة، قرب حبل غليظ يشدّ كيسًا من الدولارات إلى الأرض.
+فأطلق القطار صفيره، وضحك فرانكي وتذكّر كلمةً سمعها في حانة من قرصان ضخم شرس:
+quote: «أحلام الناس لا تنتهي أبدًا!»
+source: مارشال دي تيتش (اللحية السوداء)
+explanation:
+The mediastinal lymph nodes are mapped as numbered stations.
+Station 1 lies highest, above the brachiocephalic vein, station 6 lies anterior and lateral to the ascending aorta, and station 9 lies within the pulmonary ligament.
+Station 7 is the subcarinal station, below the carina, not cephalad to it, so that statement is the incorrect one: E is the answer.
+Station 4L lies to the left of the trachea, as the book's "station 4l" option says.
+
 
 == 14
 # book 3.4: node best reached by a Chamberlain procedure (anterior mediastinotomy) -> C, station 6.
@@ -58,6 +114,25 @@ words: 6
 keywords: Chamberlain procedure -> a royal chamberlain in a powdered wig with a ring of keys unlocking a small window at the FRONT LEFT of a big treasure chest; station 6 -> railway station 6 inside, sitting beside the arched back of an orca; aortic arch -> the orca's arched back; trachea -> a big ribbed hose standing far behind, out of his reach
 must: the small window is at the FRONT LEFT of the chest; station 6 is right beside the orca's arched back
 scene: A royal palace hall like Alabasta's, purple and gold. A big treasure chest stands in the centre, and inside it, seen through its open front, a giant orca balloon arches its back, a little railway station 6 sitting right beside the arch, and a big ribbed hose of white rings stands far at the back. CENTRE, dominant and brightest: a royal chamberlain in a white powdered wig, a big ring of golden keys in one hand, has unlocked a small window at the FRONT LEFT of the chest and reaches in to lift out a glowing parcel from railway station 6, beside the orca. Luffy, the boy in the straw hat, watches over his shoulder, amazed.
+story:
+في قصر ملكيّ أرجوانيّ ذهبيّ، وقف صندوق كنز كبير في وسط القاعة.
+وفي داخله حوت قاتل عملاق يقوّس ظهره، وإلى جانب قوسه محطّة قطار صغيرة رقمها ستّة.
+وفي آخر الصندوق خرطوم مضلّع أبيض، بعيد لا تبلغه يد.
+فدخل حاجب القصر، في شعر مستعار أبيض مذرّر، وفي يده حلقة من المفاتيح الذهبيّة.
+فلم يفتح الصندوق كلّه، بل فتح نافذةً صغيرةً في جهته الأماميّة اليسرى.
+«لكلّ غرفة في هذا القصر باب، ولهذه المحطّة نافذتها.»
+ثمّ مدّ يده من النافذة، فرفع طردًا مضيئًا من المحطّة السادسة إلى جانب الحوت.
+«والخرطوم هناك في الخلف؟» سأل لوفي من فوق كتفه.
+«ذاك لا تبلغه هذه النافذة؛ له طريق آخر من فوق.»
+فصفّق لوفي مدهوشًا، وتذكّر يوم أعطاه رجل أحمر الشعر قبّعته وقال له:
+quote: «هذه القبّعة أعدها إليّ يومًا، حين تصبح قرصانًا عظيمًا.»
+source: شانكس
+explanation:
+The Chamberlain procedure is an anterior mediastinotomy, usually through the left second intercostal space or the bed of the second costal cartilage.
+It reaches the nodes of the aortopulmonary window and the para-aortic region, stations 5 and 6, which cervical mediastinoscopy cannot reach: station 6 is the answer, C.
+The paratracheal and subcarinal stations, 2, 4 and 7, are reached by cervical mediastinoscopy or EBUS.
+Stations 8 and 10 are reached by other routes, such as oesophageal ultrasound or EBUS.
+
 
 == 15
 # book 3.5: EBUS is superior to mediastinoscopy in all EXCEPT -> C, negative predictive value.
@@ -72,6 +147,25 @@ palette: electric teal, periscope brass and medal gold
 keywords: EBUS -> an electric bus with a bat on its roof driving down inside a big ribbed hose (endobronchial ultrasound: bat = echo); mediastinoscopy -> a diver pushing a brass periscope down beside the hose from the top; superior sensitivity, specificity and yield -> three gold medals hung on the bus; negative predictive value -> both holding up an EMPTY net, a balance between the two empty nets hanging exactly level
 must: the balance between the two EMPTY nets is perfectly LEVEL; the bus carries three medals, the diver none
 scene: Inside a giant transparent ribbed hose of white rings, teal light. LEFT: a small electric bus with a bat perched on its roof, sending out rings of sound, drives down inside the hose, three gold medals hanging from its front. RIGHT, outside the hose: a diver in a brass helmet pushes a long brass periscope down beside it from the top. CENTRE, dominant and brightest: the bus driver and the diver each hold up an EMPTY fishing net, and the two nets hang from the two arms of a big balance that stays perfectly level. Usopp, the long-nosed sniper, stands under the balance pointing at it in surprise.
+story:
+في داخل خرطوم مضلّع شفّاف عملاق، تحت ضوء فيروزيّ، نزلت حافلة كهربائيّة صغيرة.
+وعلى سقفها خفّاش يرسل حلقات الصوت، فيرى بها ما حول الخرطوم.
+وخارج الخرطوم، دفع غوّاص في خوذة نحاسيّة منظارًا طويلًا من الأعلى إلى جانبه.
+وعلى مقدّمة الحافلة ثلاث ميداليّات ذهبيّة تلمع.
+«ثلاث ميداليّات للحافلة، ولا شيء للغوّاص!» قال أوسوب.
+ثمّ رفع السائق والغوّاص شبكتين فارغتين، لم يجدا فيهما شيئًا.
+فعلّقت الشبكتان على ذراعي ميزان كبير.
+فبقي الميزان مستويًا تمامًا، لا يميل إلى هذه ولا إلى تلك.
+«إذا قال الاثنان لا شيء هنا، فكلاهما يصدّق بالقدر نفسه!»
+فضحك أوسوب من دهشته، وصاح كعادته حين يتظاهر بالشّجاعة:
+quote: «أنا الكابتن أوسوب، ولي ثمانية آلاف تابع!»
+source: أوسوب
+explanation:
+Endobronchial ultrasound (EBUS) samples mediastinal nodes through the airway, guided by ultrasound.
+In the trials that compared them, EBUS was superior to mediastinoscopy in sensitivity, specificity and overall diagnostic yield.
+Its negative predictive value was not better, so a negative EBUS is trusted no more than a negative mediastinoscopy: C is the answer.
+A negative EBUS in a patient with a high suspicion of nodal disease is often confirmed by mediastinoscopy.
+
 
 == 16
 # book 4.1: bronchogenic cysts -> D, segmental resection is appropriate for peripheral lesions.
@@ -86,6 +180,25 @@ palette: orange-wedge green, water-balloon clear blue, steel silver
 keywords: lung segments -> a big sack of green dollar bills built of wedges like an orange; bronchogenic cyst -> a clear water balloon budding off a twig of a ribbed hose, at the outer edge of one wedge; segmental resection -> Zoro slicing out only that one wedge with the balloon in it
 must: the balloon is at the OUTER edge of the sack; Zoro removes only ONE wedge and the rest stays whole
 scene: The deck of the Going Merry, a small pirate caravel with a sheep figurehead, bright noon. A big sack stuffed with green dollar bills is shaped and divided into wedges like a giant orange, and twigs of a white ribbed hose run into it. CENTRE, dominant and brightest: at the outer edge of one wedge a clear water balloon has budded off a twig of the hose, and Roronoa Zoro, the green-haired swordsman, slices out only that one wedge, balloon and all, with one clean stroke, while the rest of the sack stays whole. Near the fork of the hose a second, smaller water balloon waits, untouched.
+story:
+على ظهر الغوينغ ميري، السفينة الصغيرة ذات رأس الخروف، كانت شمس الظهر ساطعة.
+وعلى السطح كيس كبير من الدولارات الخضراء، مقسوم أقسامًا كفصوص البرتقالة.
+وتدخله أغصان رفيعة من خرطوم أبيض مضلّع.
+وعند الحافة الخارجيّة لأحد الأقسام، تبرعم بالون ماء شفّاف على غصن صغير.
+«هذا لا يحتاج أن آخذ الكيس كلّه.»
+فسلّ زورو سيفه، وقطع ذلك القسم وحده بضربة واحدة نظيفة.
+فسقط القسم والبالون فيه، وبقي الكيس كلّه سليمًا.
+وقرب موضع انقسام الخرطوم، انتظر بالون ثان أصغر، لم يمسّه أحد.
+«وذاك القريب من الوسط له يوم آخر وطريق آخر.»
+فأعاد زورو سيفه إلى غمده، وقال وهو ينظر إلى البحر:
+quote: «لن أخسر مرّةً أخرى أبدًا!»
+source: رورونوا زورو
+explanation:
+Bronchogenic cysts are fluid-filled buds of the primitive foregut, usually spherical and lined with respiratory, not intestinal, epithelium.
+Most lie in the mediastinum near the carina; fewer lie within the lung.
+They are removed because they tend to become infected or compress, and a peripheral intrapulmonary cyst can be removed by segmental resection: D is the answer.
+They do not regress by themselves.
+
 
 == 17
 # book 4.2: CPAM -> B, it is usually localized to one lobe.
@@ -100,6 +213,25 @@ palette: tin blue and SPAM pink on cradle cream
 keywords: congenital -> a newborn sea-king cub sleeping in a cradle; lung lobes -> a sack of green dollar bills tied into three lobes with string; CPAM -> tins of SPAM bulging with bubbles (SEE-PAM = SPAM) crammed into ONE lobe; lobectomy -> Sanji lifting that one lobe out by its string
 must: the SPAM tins are ALL in one lobe; the other two lobes hold only dollar bills
 scene: The nursery cabin of a pirate ship, soft cream light. A newborn sea-king cub, a little blue sea serpent, sleeps in a wooden cradle, and beside it hangs a big sack of green dollar bills tied with string into three round lobes. CENTRE, dominant and brightest: only one of the three lobes is crammed full of shiny blue tins of SPAM, each bulging with round bubbles, while the other two lobes hold nothing but dollar bills; Sanji, the blond cook in a black suit, lifts that one lobe away by its string with a careful smile.
+story:
+في غرفة الأطفال على سفينة قراصنة، تحت ضوء كريميّ ناعم، نام صغير من ملوك البحر في مهده.
+وكان ثعبان بحر أزرق صغيرًا، ولد للتّوّ.
+وإلى جانبه كيس كبير من الدولارات، مربوط بالخيط ثلاثة فصوص مستديرة.
+فلمّا نظر سانجي، وجد فصًّا واحدًا من الثلاثة محشوًّا بعلب سبام زرقاء لامعة.
+وكانت كلّ علبة منتفخةً بفقاعات مستديرة.
+أمّا الفصّان الآخران، فليس فيهما إلّا الدولارات.
+«كلّ العلب في فصّ واحد؛ ما أكرمها! جمعت نفسها لي في مكان واحد.»
+فأمسك سانجي خيط ذلك الفصّ، ورفعه بحذر وابتسامة.
+وبقي الصغير نائمًا، والفصّان الباقيان معلّقين إلى جانبه.
+فوضع سانجي العلب جانبًا، وتذكّر كلمةً قالها عملاق طيّب ضحوك لطفلة وحيدة:
+quote: «لا أحد يولد في هذا العالم ليكون وحيدًا!»
+source: سول
+explanation:
+Congenital pulmonary adenomatoid malformation (CPAM) is a cystic lesion of the lung that comes from abnormal growth of the terminal bronchioles.
+It is usually confined to one lobe: B is the answer.
+Type 1, with a few large cysts, is the commonest; type 2 is the one most often associated with other congenital anomalies.
+Symptomatic lesions, and most asymptomatic ones, are treated by lobectomy.
+
 
 == 18
 # book 4.3: CPAM -> A, it may grow or regress by unclear mechanisms.
@@ -114,6 +246,25 @@ palette: fog grey and lantern amber with SPAM-tin blue
 keywords: CPAM grows -> a blue tin of SPAM (SEE-PAM = SPAM) swelling huge; CPAM regresses -> a second tin of SPAM shrinking tiny; unclear mechanisms -> one clockwork driving both tins, hidden inside a thick cloud of fog; nobody knows -> Robin peering into the fog with a lantern and unable to see the gears
 must: one tin GROWS and the other SHRINKS; the clockwork stays hidden in the fog
 scene: The foggy deck of a ghost ship like Thriller Bark, grey mist and one amber lantern. LEFT: a blue tin of SPAM swells huge, its sides bulging. RIGHT: a second tin of SPAM shrinks to the size of a thimble. CENTRE, dominant and brightest: a thick cloud of fog between them hides a turning clockwork whose spinning shafts reach out to both tins; only the shafts are visible, the gears stay hidden. Nico Robin, the dark-haired archaeologist, holds up a lantern and peers into the fog with a puzzled frown.
+story:
+على سطح سفينة أشباح يلفّها الضباب، لم يكن يضيء إلّا فانوس كهرمانيّ واحد.
+وعلى اليسار، أخذت علبة سبام زرقاء تنتفخ وتنتفخ، حتّى برزت جوانبها.
+وعلى اليمين، أخذت علبة ثانية تصغر، حتّى صارت بحجم كشتبان.
+وبينهما سحابة كثيفة من الضباب، تخرج منها أعمدة دوّارة إلى العلبتين.
+فرفعت روبين الفانوس، وحدّقت في الضباب بعينين ضيّقتين.
+«أرى الأعمدة تدور، ولا أرى التروس الّتي تديرها.»
+وظلّت التروس مختبئةً في الضباب مهما قرّبت النور.
+«واحدة تكبر، وأخرى تصغر، والسّبب لا يعرفه أحد بعد.»
+فأنزلت روبين الفانوس، وابتسمت كمن وجد لغزًا يستحقّ البحث.
+وتذكّرت يوم أنقذها رفاقها، وصوتها وهي تصرخ باكيةً:
+quote: «أريد أن أعيش! خذوني معكم إلى البحر!»
+source: نيكو روبين
+explanation:
+The course of a CPAM before birth varies: a lesion may grow or regress, by mechanisms that are not understood: A is the answer.
+A large lesion can cause hydrops in the foetus or respiratory distress at birth.
+Lobectomy, not a wedge resection, is the preferred operation, because a wedge often leaves part of the lesion behind.
+A small risk of malignancy, including pleuropulmonary blastoma, is one reason for removing asymptomatic lesions.
+
 
 == 19
 # book 4.4: pulmonary sequestration -> C, most occur in the left lower lobe.
@@ -129,6 +280,25 @@ words: L
 keywords: sequestration -> a piece of a sack of green dollar bills locked in an iron jail cell (SEQUESTERED); left lower lobe -> the cell hanging at the LOWER part of a sack marked L; systemic arterial supply -> its own small pipe running straight up to it from the belly of an orca balloon; no bronchial connection -> the twigs of a ribbed hose stopping at the cell's bars
 must: the jail cell is at the BOTTOM of the sack marked L; a small pipe runs to it from the orca
 scene: The jail deck of a Marine warship, white and blue, iron bars. Two big sacks stuffed with green dollar bills hang side by side; the one on the right of the picture is marked with a big L. CENTRE, dominant and brightest: at the bottom of the L sack, a piece of it is locked inside a small iron jail cell, and a Marine guard turns the key; the twigs of a white ribbed hose reach the bars and stop. A small separate pipe runs up to the cell from the belly of a giant orca balloon floating below. Luffy, the boy in the straw hat, rattles the bars, grinning.
+story:
+على سطح السجن في سفينة من سفن البحريّة، تدلّى كيسان كبيران من الدولارات جنبًا إلى جنب.
+وعلى الكيس الّذي على يمين الصورة حرف كبير: إل.
+وفي أسفل ذلك الكيس، حبست قطعة منه في زنزانة حديديّة صغيرة.
+فأدار حارس من البحريّة المفتاح، وقال بصرامة:
+«هذه القطعة معزولة؛ لا تأكل من مائدة الكيس ولا تتكلّم معه.»
+ومدّ الخرطوم المضلّع أغصانه إليها، فوقفت عند القضبان لا تدخل.
+لكنّ أنبوبًا صغيرًا خاصًّا كان يصعد إليها من بطن حوت قاتل عملاق تحتها.
+فهزّ لوفي القضبان ضاحكًا، وقال:
+«تطعمونها من الحوت مباشرةً، وتحبسونها في أسفل الكيس الأيسر؟ يا لها من سجينة مدلّلة!»
+فضحك الحارس رغمًا عنه، وصاح لوفي وهو يشدّ القضبان:
+quote: «قرّرت أن أصبح ملك القراصنة، وإن متّ في سبيل ذلك فلا بأس!»
+source: مونكي دي لوفي
+explanation:
+A pulmonary sequestration is a mass of nonfunctioning lung with no normal connection to the airway, supplied by a systemic artery, most often from the descending aorta.
+Most sequestrations occur in the left lower lobe: C is the answer.
+The majority are intralobar, not extralobar, and most feeding arteries arise above the diaphragm.
+It is the extralobar form that is associated with other congenital anomalies.
+
 
 == 20
 # book 4.5: congenital lobar emphysema -> B, presentation after 6 months is unusual.
@@ -144,3 +314,22 @@ words: 6
 keywords: congenital lobar emphysema -> a baby's small sack of green dollar bills with ONE lobe blown up huge like a balloon; first 6 months -> a wall calendar whose pages up to 6 are torn off and scattered round the baby; after 6 months -> the later calendar pages hanging clean and untouched
 must: page 6 is the LAST torn page; the pages after it are clean and untouched
 scene: A cosy cabin on the Thousand Sunny, pastel blue light. A baby lies in a cradle, crying and breathless, hugging a small sack of green dollar bills whose one lobe has blown up huge like a pink balloon. Tony Tony Chopper, the little reindeer doctor in a pink top hat, gently presses the swollen lobe. CENTRE, dominant and brightest: a big wall calendar above the cradle: its pages have been torn off up to the page 6, which is the last one torn and flutters down onto the cradle, while all the later pages hang clean and untouched.
+story:
+في قمرة دافئة على الثاوزند صني، تحت ضوء أزرق هادئ، بكى رضيع في مهده يلهث.
+وكان يضمّ إليه كيسًا صغيرًا من الدولارات، انتفخ فصّ واحد منه كبالون ورديّ هائل.
+فجاء تشوبر، وضغط على الفصّ المنتفخ برفق.
+وفوق المهد رزنامة كبيرة على الجدار.
+وقد قطعت أوراقها واحدةً بعد واحدة، حتّى بلغت الورقة السادسة.
+فكانت السادسة آخر ورقة تسقط، وترفرف نازلةً على المهد.
+وما بعدها من الأوراق بقي معلّقًا نظيفًا، لم يمسّه أحد.
+«كلّ ما يحدث لهذا الفصّ، يحدث قبل الورقة السادسة.»
+فهدأ الرضيع قليلًا، وأمسك بحافر تشوبر الصغير.
+فتذكّر تشوبر ليلةً بكى فيها بحّار على أخيه، وقال له صوت حكيم:
+quote: «لا تعدّ ما فقدته! ما ذهب قد ذهب. اسأل نفسك: ما الّذي بقي لك؟»
+source: جينبي
+explanation:
+Congenital lobar emphysema is the overinflation of one lobe, caused by a check-valve obstruction of its bronchus or by abnormal cartilage.
+It presents with respiratory distress in the newborn period or the first months of life, and presentation after 6 months is unusual: B is the answer.
+The lobe most often involved is the left upper lobe, not the right upper lobe.
+A symptomatic infant is treated by lobectomy; positive pressure ventilation can make the overinflation worse.
+
