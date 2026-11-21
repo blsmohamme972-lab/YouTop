@@ -3943,6 +3943,313 @@
    "status": "approved",
    "reason": "total 10/10, 2 layers",
    "audited": "2026-11-21"
+  },
+  {
+   "id": "oesophagus",
+   "concept": "oesophagus (esophagus)",
+   "terms": [
+    "oesophagus",
+    "esophagus",
+    "oesophageal",
+    "esophageal",
+    "food pipe"
+   ],
+   "symbol": "a long pink sofa stretched into a slide, down which food slides from the mouth to a cooking pot",
+   "anchors": [
+    "sofa"
+   ],
+   "kind": "sound-alike + meaning + place",
+   "family": "gut",
+   "layers": {
+    "sound": "e-SOFA-gus = a sofa",
+    "meaning": "food slides down it into the stomach",
+    "place": "it runs down behind the ribbed hose (the trachea), through the deck (the diaphragm), into the cooking pot (the stomach)"
+   },
+   "why": "e-SOFA-gus; food slides down it",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 1,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Say 'a long pink sofa stretched into a slide' so it reads as a chute, not a seat.",
+   "firstUsed": "johns-hopkins-2016",
+   "status": "approved",
+   "reason": "total 9/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "stomach",
+   "concept": "stomach (and a gastric conduit)",
+   "terms": [
+    "stomach",
+    "gastric",
+    "gastric conduit",
+    "gastric pull-up",
+    "intrathoracic stomach"
+   ],
+   "symbol": "a big copper cooking pot that receives the food at the bottom of the sofa slide",
+   "anchors": [
+    "cooking pot"
+   ],
+   "kind": "meaning + place",
+   "family": "gut",
+   "layers": {
+    "meaning": "the pot where the food is churned and cooked, as the stomach digests",
+    "place": "below the deck (the diaphragm), at the foot of the sofa slide; pulled up into the chest it is the gastric conduit"
+   },
+   "why": "the stomach cooks the food; first used in lesson 10 (the pot through the torn deck)",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "johns-hopkins-2016 10",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "les",
+   "concept": "lower oesophageal sphincter (LES)",
+   "terms": [
+    "lower oesophageal sphincter",
+    "lower esophageal sphincter",
+    "LES",
+    "sphincter",
+    "gastroesophageal junction",
+    "GE junction"
+   ],
+   "symbol": "a drawstring purse-neck tied round the bottom of the sofa slide where it enters the cooking pot",
+   "anchors": [
+    "drawstring"
+   ],
+   "kind": "meaning + place",
+   "family": "gut",
+   "layers": {
+    "meaning": "a ring that squeezes shut and opens, as the sphincter does",
+    "place": "exactly where the sofa slide (oesophagus) enters the cooking pot (stomach)"
+   },
+   "why": "a sphincter is a purse-string ring",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "johns-hopkins-2016",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "reflux",
+   "concept": "gastro-oesophageal reflux (GERD, reflux oesophagitis)",
+   "terms": [
+    "reflux",
+    "GERD",
+    "GORD",
+    "gastroesophageal reflux",
+    "gastro-oesophageal reflux",
+    "gastroesophageal reflux disease",
+    "reflux oesophagitis",
+    "reflux esophagitis",
+    "heartburn"
+   ],
+   "symbol": "bubbling green acid soup splashing back UP out of the cooking pot into the sofa slide, scorching it",
+   "anchors": [
+    "acid soup"
+   ],
+   "kind": "meaning + place",
+   "family": "gut",
+   "layers": {
+    "meaning": "acid stomach contents flowing the wrong way and burning the lining",
+    "place": "from the pot (stomach) back up into the sofa slide (oesophagus)"
+   },
+   "why": "reflux = flowing back; the burn of heartburn",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "johns-hopkins-2016",
+   "status": "approved",
+   "reason": "total 10/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "barrett",
+   "concept": "Barrett's oesophagus (intestinal metaplasia)",
+   "terms": [
+    "Barrett",
+    "Barrett's",
+    "Barrett's oesophagus",
+    "Barrett's esophagus",
+    "Barrett mucosa",
+    "Barrett's mucosa"
+   ],
+   "symbol": "the lowest stretch of the sofa slide relined with wooden barrel staves, like the inside of a barrel",
+   "anchors": [
+    "barrel staves"
+   ],
+   "kind": "sound-alike + meaning + place",
+   "family": "gut",
+   "layers": {
+    "sound": "BARRETT = barrel",
+    "meaning": "the lining changed into another kind (metaplasia), as cloth changed to staves",
+    "place": "at the bottom of the slide, just above the pot, where the acid soup splashes"
+   },
+   "why": "Barrett = barrel; the lining replaced near the GE junction",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "johns-hopkins-2016",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "achalasia",
+   "concept": "achalasia",
+   "terms": [
+    "achalasia"
+   ],
+   "symbol": "a golden chalice jammed in the drawstring at the bottom of the sofa slide, food piling up above it and the slide bulging wide",
+   "anchors": [
+    "chalice"
+   ],
+   "kind": "sound-alike + meaning + place",
+   "family": "gut",
+   "layers": {
+    "sound": "a-CHALA-sia = a chalice",
+    "meaning": "the outlet does not open, so food piles up and the oesophagus dilates",
+    "place": "stuck in the lower sphincter (the drawstring)"
+   },
+   "why": "achalasia = a chalice stuck in the outlet",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "johns-hopkins-2016",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "fundoplication",
+   "concept": "fundoplication (Nissen, partial)",
+   "terms": [
+    "fundoplication",
+    "Nissen",
+    "Nissen fundoplication",
+    "partial fundoplication",
+    "antireflux procedure",
+    "antireflux surgery"
+   ],
+   "symbol": "the rim of the cooking pot folded up and wrapped round the bottom of the sofa slide like a scarf",
+   "anchors": [
+    "scarf"
+   ],
+   "kind": "meaning + place",
+   "family": "gut",
+   "layers": {
+    "meaning": "the fundus of the stomach wrapped round the oesophagus to stop reflux",
+    "place": "the pot's own rim (the fundus) round the foot of the slide"
+   },
+   "why": "a wrap of the stomach round the oesophagus",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "A partial wrap = the scarf only half way round.",
+   "firstUsed": "johns-hopkins-2016",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "thymoma",
+   "concept": "thymus, thymoma",
+   "terms": [
+    "thymus",
+    "thymoma",
+    "thymomas",
+    "thymic"
+   ],
+   "symbol": "a bushy pot of thyme growing at the very front of the chest cabin",
+   "anchors": [
+    "thyme"
+   ],
+   "kind": "sound-alike + place",
+   "layers": {
+    "sound": "THYM-oma = thyme",
+    "place": "the thymus lies in the anterior mediastinum: the front of the cabin"
+   },
+   "why": "thymus = thyme, and it sits in front",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "A thymoma = the thyme bush grown huge.",
+   "firstUsed": "johns-hopkins-2016",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "pectus-excavatum",
+   "concept": "pectus excavatum (funnel chest)",
+   "terms": [
+    "pectus excavatum",
+    "funnel chest",
+    "pectus"
+   ],
+   "symbol": "a yellow excavator digging a deep hollow in the front of a treasure chest",
+   "anchors": [
+    "excavator"
+   ],
+   "kind": "sound-alike + meaning",
+   "layers": {
+    "sound": "EXCAVATUM = excavator",
+    "meaning": "the front of the chest is dug in, hollow"
+   },
+   "why": "excavatum = dug out",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "johns-hopkins-2016",
+   "status": "approved",
+   "reason": "total 10/10, 2 layers",
+   "audited": "2026-11-21"
   }
  ]
 }
