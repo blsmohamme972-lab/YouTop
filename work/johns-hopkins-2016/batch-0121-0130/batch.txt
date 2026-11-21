@@ -1,0 +1,331 @@
+book: johns-hopkins-2016
+# Johns Hopkins 2016, lessons 121-130 = book questions 25.1-26.5 (cardioplegia, care after heart surgery).
+# Heart = the HART Hotel (narrow old hotel, stag's head, cut open: blue wing = right heart, red wing = left; atrium lobbies upstairs, engine rooms with fans downstairs). Cardioplegia = banana juice.
+
+== 121
+# book 25.1: NOT a basic requirement of cardioplegic arrest -> D, retrograde cardioplegia.
+# banana juice poured into the crown, the fans stopping -> cardioplegic arrest (audited)
+# a mopped dry floor, the fans' sparks gone out, an ox asleep, the juice spreading evenly into every room -> dry field, electromechanical arrest, less oxygen demand, uniform delivery ARE requirements
+# ANSWER: a second banana hose for the sink at the back, lying coiled and unused with a "spare" tag -> retrograde delivery is an option, not a requirement
+title: Retrograde cardioplegia is an option, not a basic requirement of cardioplegic arrest
+titleAr: شلل القلب الراجع خيار وليس شرطًا أساسيًا لإيقاف القلب
+tags: cardiac/cpb d:technique q:recall l:2 x:trap
+palette: banana yellow, dry-floor beige and sleepy ox brown
+keywords: cardioplegic arrest -> a bucket of banana juice poured into the crown on the hotel's roof, both fans stopping; dry bloodless field -> a sailor mopping the floor perfectly dry; cessation of electromechanical activity -> the sparks around the fans gone out; reduction of myocardial oxygen demand -> an ox lying asleep in the red engine room; uniform delivery -> the banana juice spreading evenly into every room; retrograde cardioplegia -> a second banana hose for the sink at the back, lying coiled and unused with a spare tag
+must: the second hose to the sink lies COILED and UNUSED; the juice reaches every room evenly
+scene: The old hotel with a stag's head over its door, cut open like a doll's house. On its roof Sanji pours a big bucket of banana juice into a green crown, and the juice runs evenly into every room; both fans have stopped, their sparks gone out, a sailor mops the floor perfectly dry, and an ox sleeps in the red engine room. CENTRE, dominant and brightest: at the back of the hotel, beside a small sink, a second hose of banana juice lies coiled and unused on a hook, a paper tag reading spare tied to it.
+story:
+في الفندق القديم ذي رأس الأيّل، صبّ سانجي دلوًا كبيرًا من عصير الموز في التاج الأخضر.
+فجرى العصير بالتّساوي إلى كلّ غرفة، وتوقّفت المروحتان، وانطفأت شراراتهما.
+ومسح بحّار الأرض حتّى جفّت تمامًا، ونام ثور في الغرفة الحمراء.
+«أرض جافّة، مراوح ساكنة، ثور نائم، وعصير في كلّ غرفة. هذا كلّ ما نحتاجه!» قال سانجي.
+«والخرطوم الخلفيّ إلى الحوض؟ ألا نحتاجه أيضًا؟» سأل لوفي.
+فنظروا إلى خلف الفندق، حيث الحوض الصغير.
+وهناك خرطوم ثان من عصير الموز ملفوف على خطّاف، مربوطة به ورقة مكتوب عليها: احتياطيّ.
+«نستعمله إذا شئنا، وينجح الأمر بدونه أيضًا.» قال سانجي.
+وظلّ الخرطوم ملفوفًا في مكانه، والفندق ساكن هادئ.
+فأدار زورو ظهره للخرطوم الخلفيّ، وقال كلمته المعروفة:
+quote: «الندوب على الظهر عار على المبارز.»
+source: رورونوا زورو
+explanation:
+The basic requirements of cardioplegic arrest are a dry, bloodless field, rapid cessation of electromechanical activity, a reduction of myocardial oxygen demand, and uniform delivery of cardioplegia to all of the myocardium.
+Retrograde cardioplegia is one way of delivering it, useful with severe coronary disease or aortic insufficiency, but it is not a basic requirement: D is the answer.
+Antegrade delivery alone meets all four requirements in most patients.
+Memory hook: a dry floor, stopped fans, a sleeping ox and juice in every room; the back hose to the sink hangs coiled as a spare.
+
+
+== 122
+# book 25.2: blood cardioplegia -> B, allows complete recovery of function after 4 h of arrest.
+# a bucket of banana juice swirled with red blood -> blood cardioplegia (audited)
+# ANSWER: a big wall clock with its hour hand at 4, and after it the fan spinning back at full speed -> complete recovery after 4 hours of arrest
+title: Blood cardioplegia allows complete recovery after four hours of arrest
+titleAr: شلل القلب الدموي يسمح بتعافٍ كامل بعد أربع ساعات من الإيقاف
+tags: cardiac/cpb d:technique q:recall l:2
+palette: banana yellow, blood red and clock brass
+words: 4
+keywords: blood cardioplegia -> a bucket of banana juice swirled with red blood, poured into the crown on the hotel's roof; 4 hours of arrest -> a big brass wall clock with its hour hand on 4; complete recovery of function -> the red engine room's fan spinning back at full speed once the clock reaches 4
+must: the clock shows 4; the fan spins at FULL speed afterwards
+scene: The cut-open old hotel with a stag's head over its door. On the roof a bucket of banana juice swirled with red blood is being poured into a green crown. CENTRE, dominant and brightest: in the red engine room a big brass wall clock stands with its hour hand on 4, and beside it the huge fan has just burst back into motion at full speed, blowing papers about. Nami, the orange-haired navigator, taps the clock face with a smile.
+story:
+في الفندق القديم، صبّوا في التاج الأخضر دلوًا من عصير الموز ممزوجًا بالدّم الأحمر.
+فسكنت المروحة العملاقة في الغرفة الحمراء، ومرّت ساعة، ثمّ ساعتان.
+«أسرعوا! بعد ساعتين لن تعود المروحة أبدًا!» صاح أوسوب.
+لكنّ نامي جلست بهدوء أمام ساعة الحائط النحاسيّة.
+«اصبر يا أوسوب، فعصير الموز الأحمر يحفظها.» قالت نامي.
+ومرّت الساعة الثالثة، ثمّ وصل عقرب الساعات إلى الرابعة.
+فنقرت نامي زجاج الساعة مبتسمة.
+وفي الحال، اندفعت المروحة تدور بكلّ سرعتها، وطارت الأوراق في الغرفة.
+«عادت كاملةً، كأنّها لم تنم قطّ!» صاح تشوبر.
+وكان لوفي قد وقف أمام المروحة الساكنة طوال الساعات الأربع، يصرخ فيها:
+quote: «قولي إنّك تريدين أن تعيشي!»
+source: مونكي دي لوفي
+explanation:
+Blood cardioplegia allows complete recovery of function even after 4 hours of arrest: B is the answer.
+The blood carries oxygen, buffers and natural antioxidants to the arrested heart.
+It is not the only method of arrest, it is not limited to arrests shorter than 2 hours, and it can be given warm as well as cold.
+Memory hook: the clock reaches 4, and the fan bursts back into motion at full speed.
+
+
+== 123
+# book 25.3: composition of blood cardioplegia -> C, may contain amino acid substrates to hasten recovery.
+# Sanji dropping colourful building blocks into the bucket of banana-blood juice -> amino acid substrates (keyword: AMINO acids = building blocks of protein)
+# ANSWER: the fan starting sooner after the blocks are added, Sanji's stopwatch -> hastens recovery
+# the bucket's measuring marks: 4 parts red to 1 part banana -> typically 4:1 blood to crystalloid, not 1:1 (E is wrong)
+title: Blood cardioplegia may contain amino acids to hasten recovery
+titleAr: شلل القلب الدموي قد يحتوي أحماضًا أمينية لتسريع التعافي
+tags: cardiac/cpb d:technique q:recall l:3
+palette: banana yellow, block rainbow and blood red
+words: 4 1
+keywords: blood cardioplegia -> a bucket of banana juice and red blood, marked 4 parts red to 1 part banana; amino acid substrates -> colourful building blocks that Sanji drops into the bucket; hasten recovery -> the fan starting sooner, Sanji clicking a stopwatch
+must: the building blocks fall INTO the bucket
+scene: The ship's galley turned into a lab, beside a small cut-open hotel with a stag's head. A tall bucket of banana juice and red blood has measuring marks on its side reading 4 parts red to 1 part banana. CENTRE, dominant and brightest: Sanji, the blond cook with a curly eyebrow, drops a handful of colourful building blocks into the bucket like spices, and in the hotel beside it the fan already starts to turn, Sanji clicking a stopwatch in his other hand.
+story:
+في مطبخ السفينة، وقف دلو طويل من عصير الموز والدّم الأحمر، بجانب فندق صغير ساكن.
+وعلى جنب الدلو علامات تقول: أربعة أجزاء من الأحمر، وجزء واحد من الموز.
+«نصف من الدم ونصف من الموز، هذا أعدل!» قال أوسوب.
+«العلامات تقول أربعةً إلى واحد، فلا تغيّرها.» قالت نامي.
+وكانت مروحة الفندق الصغير تنتظر أن تعود.
+فأخرج سانجي من جيبه حفنةً من مكعّبات البناء الملوّنة.
+وألقاها في الدلو كما يلقي التوابل في القدر.
+فبدأت المروحة تدور أبكر من كلّ مرّة، وسانجي يضغط ساعة التوقيت بيده الأخرى.
+«مكعّبات صغيرة، تبني المروحة وتعيدها أسرع!» قال سانجي.
+فضحك لوفي، وتذكّر جدّه وهو يطعمه ويدرّبه صغيرًا، ويصيح فيه:
+quote: «ستصبح جنديًّا قويًّا في البحريّة!»
+source: مونكي دي غارب
+explanation:
+Blood cardioplegia is usually 4 parts blood to 1 part crystalloid, with a high potassium content to arrest the heart and a low calcium content.
+It is slightly hyperosmolar, not hypo-osmolar.
+It may contain amino acid substrates, such as glutamate and aspartate, to hasten metabolic recovery: C is the answer.
+Memory hook: Sanji drops building blocks into the 4-to-1 bucket, and the fan starts sooner.
+
+
+== 124
+# book 25.4: retrograde cardioplegia -> D, can be given simultaneously with antegrade cardioplegia.
+# one bucket of banana juice poured down into the crown on the roof -> antegrade
+# a second bucket pushed backward up through the sink at the back -> retrograde, through the coronary sinus (audited)
+# ANSWER: both poured at the same moment by two crewmates, the juice meeting in the middle -> both at once
+title: Retrograde cardioplegia can be given at the same time as antegrade
+titleAr: يمكن إعطاء شلل القلب الراجع في الوقت نفسه مع الأمامي
+tags: cardiac/cpb d:technique q:recall l:2
+palette: banana yellow, sink steel and crown green
+keywords: antegrade cardioplegia -> a bucket of banana juice poured down into the crown on the hotel's roof; retrograde cardioplegia -> a second bucket of banana juice pushed backward up through the sink at the back of the hotel; coronary sinus -> the small sink at the back; simultaneously -> both buckets poured at the same moment, the juice meeting in the middle of the walls
+must: BOTH buckets pour at the SAME moment
+scene: The cut-open old hotel with a stag's head over its door. CENTRE, dominant and brightest: at the same moment, Sanji on the roof pours a bucket of banana juice down into a green crown, and Zoro at the back pushes a second bucket of banana juice backward up through a small sink, and the two streams meet in the middle of the walls. Luffy counts "one, two, three!" between them, both arms raised.
+story:
+في الفندق القديم ذي رأس الأيّل، أرادت نامي أن تصبّ عصير الموز وحدها.
+تصبّ دلوًا من فوق في التاج، ثمّ تركض إلى الخلف لتصبّ دلوًا في الحوض.
+«واحدًا بعد الآخر، لا يمكن أن يكونا معًا!» قالت نامي وهي تلهث.
+فوقف لوفي في وسط الطريق ومدّ ذراعيه.
+فصعد سانجي إلى السطح بدلو، ووقف زورو خلف الفندق بدلو آخر.
+«واحد، اثنان، ثلاثة!» صاح لوفي.
+فصبّ سانجي العصير نزولًا في التاج الأخضر، ودفع زورو العصير صعودًا من الحوض الصغير في الخلف، في اللحظة نفسها.
+فالتقى التيّاران في وسط الجدران، ولم تبق زاوية بلا عصير.
+«من فوق ومن خلف، في وقت واحد!» قال تشوبر.
+وكان لوفي قد قال لنامي قبل أن يبدؤوا:
+quote: «على الأقلّ خاطري بحياتنا نحن أيضًا! ألسنا أصدقاءك؟»
+source: مونكي دي لوفي
+explanation:
+Retrograde cardioplegia is delivered backwards through the coronary sinus, and it can be given simultaneously with antegrade cardioplegia: D is the answer.
+It reaches muscle beyond blocked arteries, but it perfuses the right ventricle and septum poorly, so it does not perfuse the same areas as antegrade delivery.
+The catheter is usually placed blindly through the right atrium, without bicaval cannulation, and it has proven clinical benefit.
+Memory hook: Sanji pours from the crown while Zoro pushes from the sink, both at the same moment.
+
+
+== 125
+# book 25.5: cardioplegia delivery -> C, retrograde infusion pressures above 50 mm Hg require repositioning of the catheter.
+# a hose of banana juice pushed backward into the sink -> retrograde infusion through the coronary sinus (audited)
+# ANSWER part 1: a gauge on the hose with its needle past 50 into the red -> pressure above 50
+# ANSWER part 2: Franky pulling the hose back a little to set it again -> reposition the catheter
+title: Retrograde pressure above 50 mm Hg means the catheter must be repositioned
+titleAr: ضغط الشلل الراجع فوق 50 ملم زئبق يعني وجوب إعادة وضع القثطار
+tags: cardiac/cpb d:technique q:numbers l:3
+palette: banana yellow, gauge red and sink steel
+words: 50
+keywords: retrograde infusion -> a hose of banana juice pushed backward into the small sink at the back of the hotel; coronary sinus -> the small sink; pressure above 50 -> a round gauge on the hose with its needle past 50 into the red; reposition the catheter -> Franky pulling the hose back a little to set it again
+must: the needle is PAST 50, in the red; Franky's hands pull the hose BACK
+scene: The back of the cut-open old hotel with a stag's head, where a small steel sink sits in the wall. A hose of banana juice is pushed backward into the sink. CENTRE, dominant and brightest: a round gauge on the hose shows its needle past 50 into the red, and Franky, the blue-haired cyborg shipwright, pulls the hose back a little with both huge hands to set it again, sweat on his brow.
+story:
+خلف الفندق القديم، حيث الحوض الفولاذيّ الصغير في الجدار، دفع أوسوب خرطوم عصير الموز إلى الداخل بكلّ قوّته.
+«كلّما دخل أعمق، كان أفضل!» قال أوسوب.
+فارتفعت إبرة المقياس المستدير على الخرطوم.
+عشرون، ثلاثون، أربعون، ثمّ تجاوزت الخمسين إلى الأحمر.
+وأخذ الحوض يئنّ وينتفخ.
+«فوق الخمسين؟ الخرطوم في غير مكانه!» صاح فرانكي.
+فأمسك فرانكي الخرطوم بيديه العملاقتين، وسحبه إلى الوراء قليلًا، ثمّ ثبّته من جديد.
+فعادت الإبرة تحت الخمسين، وهدأ الحوض.
+«الإبرة في الأحمر؟ اسحب الخرطوم وأعد وضعه!» قال تشوبر.
+فطأطأ أوسوب رأسه خجلًا، كما طأطأه يومًا أمام رفاقه، وقال:
+quote: «أنا آسف يا لوفي! أرجوك، دعني أعود إليكم!»
+source: أوسوب
+explanation:
+During retrograde delivery, an infusion pressure above about 50 mm Hg suggests that the catheter is malpositioned, for example wedged in a small vein, and it risks injury to the coronary sinus.
+The catheter must then be repositioned: C is the answer.
+Manual palpation and the perfusion line pressure do not show adequate delivery; the pressure that matters is the pressure in the coronary sinus itself, together with arrest and cooling of the heart.
+Memory hook: the needle swings past 50 into the red, and Franky pulls the hose back to set it again.
+
+
+== 126
+# book 26.1: atrial fibrillation after CABG in an 87-year-old -> B, amiodarone given after surgery could have prevented it.
+# cabbage leaves bridging the crown -> after CABG (audited)
+# a wooden Pinocchio puppet trying to climb into the upstairs atrium lobby -> postoperative atrial fibrillation (audited)
+# ANSWER: boxes of ammo stacked at the atrium lobby's door, a guard keeping Pinocchio out -> amiodarone prevents it (audited)
+# an ox at the window, a rat and a long stay are not what stops him -> oxygen, warfarin, longer ICU stay are wrong
+title: Amiodarone after surgery helps prevent atrial fibrillation after CABG
+titleAr: الأميودارون بعد الجراحة يساعد على منع الرجفان الأذيني بعد جراحة المجازة
+tags: cardiac/perioperative cardiac/coronary d:postoperative q:vignette l:2 x:high-yield
+palette: cabbage green, puppet wood and ammo brass
+keywords: coronary artery bypass grafting -> cabbage leaves bridging the crown on the hotel's roof; atrial fibrillation -> a wooden Pinocchio puppet trying to climb into the upstairs atrium lobby through the window, his nose growing; amiodarone -> boxes of brass ammo stacked at the atrium lobby's window, Usopp firing from them and keeping Pinocchio out
+must: Pinocchio stays OUTSIDE the lobby window
+scene: The cut-open old hotel with a stag's head over its door, big cabbage leaves bridging the green crown on its roof; an old sailor rests in a rocking chair on the ground floor. CENTRE, dominant and brightest: at the window of the upstairs atrium lobby, a wooden Pinocchio puppet with a long growing nose tries to climb in, and Usopp, the long-nosed sniper, crouches behind stacked boxes of brass ammo and fires pellets that keep him outside. Pinocchio hangs on the sill, scowling.
+story:
+في الفندق القديم ذي رأس الأيّل، كانت أوراق الملفوف الكبيرة قد جسرت أشواك التاج الأخضر.
+وفي الطابق الأرضيّ، كان بحّار عجوز يستريح على كرسيّ هزّاز.
+وبعد يومين، ظهرت عند نافذة الردهة العلويّة دمية خشبيّة، بينوكيو، أنفه يطول ويطول.
+وأراد أن يتسلّق إلى الداخل، وقلبه الخشبيّ يطقطق بلا نظام.
+«نعطي العجوز هواءً أكثر، ونطيل بقاءه في الفراش!» قالت نامي.
+لكنّ بينوكيو ظلّ يتسلّق.
+فجثا أوسوب خلف صناديق الذخيرة النحاسيّة المكدّسة عند النافذة.
+وأطلق منها الكريّات واحدةً بعد واحدة، فبقي بينوكيو معلّقًا على الحافّة في الخارج.
+«صناديق الذخيرة عند النافذة، ولا يدخل بينوكيو!» قال تشوبر.
+فعبس بينوكيو على الحافّة، ووقف أوسوب شجاعًا، وقال:
+quote: «يأتي وقت يجب فيه على الرجل أن يقف ويقاتل؛ حين يسخر الناس من أحلام أصدقائه!»
+source: أوسوب
+explanation:
+Atrial fibrillation is common after coronary bypass, especially in elderly patients, and it can cause haemodynamic collapse.
+Prophylactic amiodarone after surgery reduces its incidence, and could have prevented this complication: B is the answer.
+His electrolytes were normal and there was no ischaemia; more oxygen, thick liquids, a longer stay in intensive care or warfarin would not have prevented it.
+Memory hook: Usopp's ammo boxes at the atrium window keep Pinocchio out after the cabbage.
+
+
+== 127
+# book 26.2: labile pressure and CVP 3 after septal myectomy for HOCM -> D, volume resuscitation.
+# a chisel beside a fresh groove carved in the thick wall between the two engine rooms -> septal myectomy (audited)
+# the thick wall carved in the shape of a bodybuilder's flexed arm -> HOCM (audited)
+# a water gauge in the blue lobby reading 3, the tank almost empty, a needle swinging wildly -> CVP 3, labile pressure
+# ANSWER: Sanji pouring big buckets of water into the hotel, the needle calming -> give volume
+title: Labile pressure with a low CVP after myectomy: give volume
+titleAr: ضغط متقلّب مع ضغط وريدي مركزي منخفض بعد استئصال العضلة: أعطِ السوائل
+tags: cardiac/perioperative d:postoperative q:next-step l:3
+palette: water blue, chisel steel and muscle red
+words: 3
+keywords: septal myectomy -> a chisel lying beside a fresh groove carved in the thick wall between the two engine rooms; hypertrophic obstructive cardiomyopathy -> the thick wall bulging like a bodybuilder's flexed arm; CVP of 3 -> a water gauge in the blue lobby reading 3, its tank almost empty; labile blood pressure -> a pressure dial on the wall with its needle swinging wildly; volume resuscitation -> Sanji pouring big buckets of water into the hotel, the swinging needle calming
+must: the tank is nearly EMPTY at the start; water is POURED in
+scene: The cut-open old hotel with a stag's head over its door. The thick wall between its two engine rooms bulges like a bodybuilder's flexed arm, a fresh groove carved into it and a chisel lying beside it. In the blue lobby a water gauge reads 3, its glass tank almost empty, and a pressure dial on the wall swings its needle wildly. CENTRE, dominant and brightest: Sanji, the blond cook, pours one big bucket of water after another into the hotel, and the needle begins to calm.
+story:
+في الفندق القديم ذي رأس الأيّل، كان الجدار السميك بين غرفتي المحرّك منتفخًا كذراع رافع أثقال مثنيّة.
+وقد حفر فيه أخدود جديد، وبجانبه إزميل ملقًى.
+وفي الردهة الزرقاء، كان مقياس الماء يقرأ ثلاثةً، وخزّانه الزجاجيّ شبه فارغ.
+وعلى الحائط، كانت إبرة مقياس الضغط تتأرجح بجنون، من فوق إلى تحت.
+«نوسّع الأبواب بالدّواء، ونسرع الطبل إلى مئة!» قال فرانكي.
+فتأرجحت الإبرة أكثر، وصار الجدار المنتفخ ينطبق على الغرفة الفارغة.
+«الخزّان فارغ يا فرانكي! الفندق عطشان!» قال سانجي.
+فأخذ سانجي يصبّ في الفندق دلوًا كبيرًا من الماء بعد دلو.
+فارتفع الماء في الخزّان، وأخذت الإبرة تهدأ شيئًا فشيئًا.
+«كان عطشان فقط! املأه، فيهدأ!» قال تشوبر.
+ومع كلّ دلو، كان الفندق كأنّه يقول ما قاله القرصان الأحمر الشعر يومًا:
+quote: «اسكب عليّ الشراب أو الطعام وسأضحك... لكنّي لا أغفر أبدًا لمن يؤذي صديقي!»
+source: شانكس
+explanation:
+After septal myectomy for hypertrophic obstructive cardiomyopathy, a labile blood pressure with a low central venous pressure means the ventricle is underfilled.
+An underfilled, thick ventricle can obstruct its own outflow again, so the treatment is volume resuscitation: D is the answer.
+Vasodilators such as nitroprusside, inotropes such as milrinone and fast pacing reduce filling or increase obstruction, and make it worse.
+Memory hook: the tank reads 3, Sanji pours bucket after bucket, and the swinging needle calms.
+
+
+== 128
+# book 26.3: greatest likelihood of tracheostomy -> D, 80-year-old, 100 pack-years, redo sternotomy, CABG and redo mitral, bypass 270 min, IABP to come off bypass.
+# an old sailor with a mountain of 100 cigarette packs, a stern sawn open a second time along an old scar, the roller-pump truck with a clock at 270, a sausage balloon inside the orca -> every risk at once
+# ANSWER: a short ribbed hose coming out of a hole in the front of his neck, joined to a bellows -> tracheostomy
+# four other patients each carrying only one weight -> the other options carry fewer risks
+title: Old age, heavy smoking, redo surgery, long bypass and a balloon pump: tracheostomy likeliest
+titleAr: الشيخوخة والتدخين الكثيف والجراحة المعادة وطول المجازة والبالون: فغر الرغامى هو الأرجح
+tags: cardiac/perioperative d:postoperative q:vignette l:3
+palette: smoke grey, stern wood and ribbed-hose white
+words: 100 270
+keywords: 100 pack-years -> a mountain of 100 cigarette packs behind an old sailor; redo sternotomy -> a ship's stern on his chest sawn open a second time along an old scar; cardiopulmonary bypass of 270 minutes -> the roller-pump truck beside him with a clock reading 270; intra-aortic balloon pump -> a fat sausage-shaped balloon inside the orca in his chest; tracheostomy -> a short ribbed hose coming out of a hole in the front of his neck, joined to a bellows
+must: the OLD sailor carries ALL the weights; the ribbed hose comes from the FRONT of his neck
+scene: An infirmary on a Grand Line island with five beds in a row. CENTRE, dominant and brightest: in the middle bed lies a very old sailor with a white beard; behind him rises a mountain of 100 cigarette packs, a ship's stern drawn on his chest is sawn open a second time along an old scar, a fat sausage-shaped balloon pulses inside a small orca in his chest, and a roller-pump truck beside the bed shows a clock reading 270; a short ribbed hose comes out of a hole in the front of his neck to a bellows. The four other patients each carry only one small weight. Chopper checks the bellows.
+story:
+في مستوصف على جزيرة من الغراند لاين، خمسة أسرّة في صفّ، وعلى أربعة من المرضى ثقل صغير واحد.
+أمّا في السرير الأوسط، فبحّار عجوز جدًّا، ذو لحية بيضاء، يحمل الأثقال كلّها.
+خلفه جبل من مئة علبة سجائر، وعلى صدره مؤخّرة سفينة تنشر مرّةً ثانيةً على ندبة قديمة.
+وفي صدره حوت قاتل صغير تنبض فيه بالونة سمينة كالنّقانق، وبجانبه شاحنة المضخّة وساعتها تقرأ مئتين وسبعين.
+«سيقوم غدًا ويتنفّس وحده كالآخرين!» قال أوسوب متفائلًا.
+«من يحمل ثقلًا واحدًا يقوم سريعًا؛ أمّا من يحملها كلّها فيحتاج وقتًا طويلًا.» همس تشوبر.
+ومرّت الأيّام ولم يقم، والآخرون قاموا واحدًا بعد واحد.
+فصنع له تشوبر ثقبًا صغيرًا في مقدّم عنقه، ووصل منه خرطومًا مضلّعًا قصيرًا إلى منفاخ.
+فتنفّس العجوز بهدوء، وابتسم.
+وتذكّر سفينةً صغيرةً قالت لرفاقها في ليلتها الأخيرة:
+quote: «كنت سعيدةً حقًّا... شكرًا لكم على كلّ شيء.»
+source: غوينغ ميري
+explanation:
+The risk of prolonged ventilation and tracheostomy after heart surgery rises with age, heavy smoking, reoperation, a long bypass time and the need for a balloon pump to come off bypass.
+The 80-year-old, 100-pack-year smoker after a redo sternotomy, a 270-minute bypass and an intraoperative balloon pump carries all of these risks together: D is the answer.
+Each of the other patients carries only one of them.
+Memory hook: the old sailor carries every weight at once, and the ribbed hose comes out of the front of his neck.
+
+
+== 129
+# book 26.4: inferior ST elevation, right ventricular failure and low output after CABG with an unbridged RCA -> A, immediately place an IABP.
+# a lima bean vine to the front spike where a lad stands, a sapphire bridge to another spike -> LIMA-LAD and a vein graft (audited)
+# the crown's right spike still clogged with tar, no bridge on it -> unrevascularized RCA
+# an elevator rising at the bottom floor, the blue engine room swelling, its fan weak -> inferior ST elevation, right ventricular failure
+# ANSWER: a fat sausage-shaped balloon slid into the orca right now, inflating and deflating -> intra-aortic balloon pump at once
+title: Right ventricular ischaemia with low output after CABG: place an IABP at once
+titleAr: نقص تروية البطين الأيمن مع نتاج منخفض بعد المجازة: ضع البالون داخل الأبهر فورًا
+tags: cardiac/perioperative cardiac/coronary d:postoperative q:next-step l:3 x:high-yield
+palette: tar black, sausage pink and venous blue
+keywords: LIMA to LAD -> a lima bean vine growing to the crown's front spike where a young lad stands; saphenous vein graft -> a sapphire bridge to a second spike; unrevascularized right coronary artery -> the crown's right spike still clogged with tar, no bridge on it; inferior ST segment elevation -> an elevator rising at the bottom floor of the hotel; right ventricular failure -> the blue engine room swollen, its fan turning weakly; intra-aortic balloon pump -> a fat sausage-shaped balloon slid into the orca beside the hotel right now, swelling and shrinking
+must: the RIGHT spike has NO bridge; the balloon goes in NOW
+scene: The cut-open old hotel with a stag's head over its door. On its green crown a lima bean vine grows to the front spike where a young lad stands, and a sapphire bridge reaches a second spike, but the right spike is still clogged with black tar and has no bridge. An elevator rises at the bottom floor, and the blue engine room swells, its fan turning weakly. CENTRE, dominant and brightest: Franky, the blue-haired cyborg shipwright, slides a fat sausage-shaped balloon into a big orca curving out of the hotel, and it swells and shrinks with each beat.
+story:
+في الفندق القديم ذي رأس الأيّل، كانت كرمة فول الليما تصل إلى الشوكة الأماميّة حيث يقف فتًى صغير.
+وجسر من الياقوت الأزرق يصل إلى شوكة ثانية، أمّا الشوكة اليمنى، فما زالت مسدودةً بالقطران، لا جسر عليها.
+وبعد ساعتين، أخذ مصعد يرتفع في الطابق السفليّ.
+وانتفخت غرفة المحرّك الزرقاء، ومروحتها تدور بضعف.
+«نرسله إلى المرسى ليمدّوا زنبركًا في الشوكة اليمنى!» قال أوسوب.
+لكنّ الغرفة الزرقاء كانت تخفت، والطّريق إلى المرسى طويل.
+«لا وقت للطّريق! الآن، وهنا!» صاح فرانكي.
+وأدخل بالونةً سمينةً كالنّقانق في الحوت القاتل الكبير الخارج من الفندق.
+فأخذت تنتفخ وتنكمش مع كلّ نبضة، وعادت المروحة الزرقاء تدور شيئًا فشيئًا.
+«النقانق في الحوت، الآن وليس غدًا!» قال تشوبر مرتاحًا.
+فتنفّس لوفي، وتذكّر يومًا سقط فيه وظنّ أنّه انتهى، فقال لرفاقه:
+quote: «يا زورو، يا سانجي، يا أوسوب، يا نامي... آسف، يبدو أنّني متّ!»
+source: مونكي دي لوفي
+explanation:
+Inferior ST elevation, bradycardia, and a rising central venous pressure with no change in the pulmonary artery diastolic pressure, after bypass with an ungrafted right coronary artery, mean right ventricular ischaemia.
+With a low cardiac index and mixed venous saturation despite epinephrine and pacing, the next step is to place an intra-aortic balloon pump immediately: A is the answer.
+It improves coronary perfusion and unloads the heart; dobutamine raises oxygen demand, stopping pacing loses rate and atrioventricular timing, and the distal right coronary artery was too poor to treat.
+Memory hook: the right spike has no bridge, the blue room swells, and Franky slides the sausage balloon into the orca right now.
+
+
+== 130
+# book 26.5: reducing hospital infections after heart surgery -> C, remove the urinary catheter as soon as the patient is extubated, stable and mobile.
+# little green germ bugs crawling up the hoses of a patient's bed -> hospital infection
+# ANSWER: the patient, breathing tube gone, walking on his own while Chopper pulls the thin yellow hose out early, the germs falling off with it -> early removal of the urinary catheter
+title: Remove the urinary catheter as soon as the patient is extubated, stable and mobile
+titleAr: انزع القثطار البولي حالما يُنزع أنبوب التنفّس ويستقرّ المريض ويتحرّك
+tags: cardiac/perioperative d:postoperative q:recall l:2
+palette: hospital white, hose yellow and germ green
+keywords: nosocomial infection -> little green germ bugs crawling up the hoses of a hospital bed; urinary catheter -> a thin yellow hose from a bag hanging on the bed; extubated, stable and mobile -> the patient with no breathing tube, standing and walking on his own; early removal -> Chopper pulling the yellow hose out, the green germs falling off with it
+must: the patient WALKS, no breathing tube; the germs fall away WITH the hose
+scene: A bright infirmary on the Thousand Sunny. An empty bed with a bag hanging on its side, little green germ bugs crawling up its hoses. CENTRE, dominant and brightest: the patient, a cheerful sailor with no breathing tube, has stood up and walks away on his own, while Tony Tony Chopper, the little reindeer doctor, pulls a thin yellow hose out and away from him, the green germs tumbling off it to the floor.
+story:
+في مستوصف مضيء على الثاوزند صني، كانت جراثيم خضراء صغيرة تزحف على خراطيم سرير.
+وكان المريض بحّارًا مرحًا، نزع أنبوب تنفّسه أمس.
+«نبقي الخرطوم الأصفر أسبوعًا آخر، احتياطًا!» قال أوسوب.
+فزحفت الجراثيم الخضراء أعلى فأعلى على الخرطوم.
+لكنّ البحّار نهض من سريره، ووقف على قدميه، ومشى وحده.
+«يتنفّس وحده، ومستقرّ، ويمشي؟ إذن لا حاجة لهذا الخرطوم!» قال تشوبر.
+فسحب تشوبر الخرطوم الأصفر الرفيع بعيدًا عنه في الحال.
+فتساقطت الجراثيم الخضراء عنه إلى الأرض، ولم تجد طريقًا تصعد فيه.
+ومشى البحّار نحو الباب ضاحكًا، والبحر يلمع خلفه.
+فصاح في رفاقه بكلمة قالتها روبين يومًا:
+quote: «أريد أن أعيش! خذوني معكم إلى البحر!»
+source: نيكو روبين
+explanation:
+To reduce hospital infections after open heart surgery, the urinary catheter is removed as soon as the patient is extubated, stable and mobile: C is the answer.
+Central venous catheters are not changed routinely every 72 hours, and antibiotics are not continued for as long as the patient is ventilated.
+Early nutrition is encouraged, and blood glucose is controlled with insulin from the start, not only once the patient eats.
+Memory hook: the patient walks, so Chopper pulls the yellow hose, and the green germs fall off with it.
+

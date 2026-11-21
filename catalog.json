@@ -7,6 +7,10 @@
   {
    "id": "medcosmos-cardiac",
    "file": "gh:books/medcosmos-cardiac/book-542400eb.json"
+  },
+  {
+   "id": "johns-hopkins-2016",
+   "file": "gh:books/johns-hopkins-2016/book-e455f53b.json"
   }
  ]
 }

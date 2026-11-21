@@ -1,0 +1,320 @@
+book: johns-hopkins-2016
+# Johns Hopkins 2016, lessons 71-80 = book questions 15.1-16.5. Theme: One Piece; quotations from One Piece (Arabic, from memory).
+
+== 71
+# book 15.1: oesophageal injury -> C, the thoracic oesophagus is the commonest site of rupture.
+# a long pink sofa slide running down through three floors: neck, chest cabin, belly -> the cervical, thoracic and abdominal oesophagus (memory palace, top to bottom)
+# ANSWER: the big tear is in the MIDDLE floor, the chest cabin, dirty water spilling out there -> the thoracic oesophagus ruptures most often
+# a periscope lying beside the slide -> instruments still cause injuries (B is wrong)
+title: The thoracic oesophagus is the commonest site of oesophageal rupture
+titleAr: المريء الصدري هو المكان الأشيع لانثقاب المريء
+tags: thoracic/oesophagus d:pathology q:recall l:2
+palette: three floors of blue, gold and green, with a dark tear
+keywords: oesophagus through neck, chest and abdomen -> a long pink sofa slide running down through three stacked floors of a ship: a narrow neck floor, a big chest cabin and a belly hold; thoracic oesophageal rupture -> a big tear in the sofa slide on the MIDDLE floor, dirty water spilling out into the chest cabin; instrument injury -> a brass periscope lying beside the slide
+must: the tear is on the MIDDLE floor (the chest cabin), not the top or the bottom
+scene: A pirate ship cut open like a doll's house: a narrow blue top floor, a big golden middle cabin, a green lower hold. A long pink sofa slide runs down through all three floors into a copper cooking pot in the hold. CENTRE, dominant and brightest: on the middle floor the slide has a big ragged tear, and dirty water spills out across the golden cabin floor. Franky, the blue-haired cyborg shipwright, rushes in with a toolbox. A brass periscope lies on the top floor beside the slide.
+story:
+في سفينة قراصنة مكشوفة كبيت الدمى، طابق علويّ أزرق ضيّق، وقمرة وسطى ذهبيّة واسعة، وعنبر أخضر في الأسفل.
+وعبر الطوابق الثلاثة نزل منزلق طويل من أريكة ورديّة، إلى قدر طبخ في العنبر.
+وفي الطابق العلويّ إلى جانبه، منظار نحاسيّ ملقًى.
+ثمّ انشقّ المنزلق شقًّا كبيرًا ممزّقًا في الطابق الأوسط.
+فانسكب الماء القذر على أرض القمرة الذهبيّة.
+«الشقّ في الوسط مرّةً أخرى!» صاح فرانكي وهو يركض بصندوق أدواته.
+«الطابق الأوسط أطول الطوابق وأكثرها تمزّقًا؛ هنا أجد أكثر الشقوق.»
+فجثا فرانكي عند الشقّ في القمرة الذهبيّة، وأخرج إبرته وخيطه.
+والماء القذر يصل إلى ركبتيه، وهو يعمل ولا يتوقّف.
+فصاح لوفي من الطابق العلويّ يشجّعه:
+quote: «إن لم تخاطر بحياتك، فلن تصنع المستقبل!»
+source: مونكي دي لوفي
+explanation:
+The oesophagus runs through the neck, the chest and the abdomen.
+The thoracic oesophagus is the commonest site of rupture, whether from instruments or from Boerhaave syndrome: C is the answer.
+Instrumentation, not trauma, is the commonest cause of oesophageal perforation, and instrumentation injuries still occur with modern techniques.
+
+
+== 72
+# book 15.2: instrumental injury of the oesophagus -> A, instrumentation causes over 50 percent of all oesophageal perforations.
+# a heap of pierced sofa slides in a repair yard -> oesophageal perforations
+# ANSWER: most of them pierced by brass periscopes still stuck in them, a sign painted 50 with an arrow pointing up -> instruments cause more than half
+# a few pierced by a fish bone or cracked by a fall, a smaller pile -> other causes are fewer
+title: Instruments cause more than half of all oesophageal perforations
+titleAr: الأدوات تسبّب أكثر من نصف حالات انثقاب المريء
+tags: thoracic/oesophagus d:pathology q:numbers l:2
+palette: brass, sofa pink and repair-yard grey
+words: 50
+keywords: oesophageal perforations -> a repair yard with pierced long pink sofa slides; instrumentation over 50 percent -> the bigger heap of slides each pierced by a brass periscope still stuck in it, under a sign painted 50 with an arrow pointing up; other causes -> a smaller heap pierced by fish bones or cracked by falls
+must: the periscope heap is clearly BIGGER than the other heap
+scene: A repair yard in Water 7, grey sky. CENTRE, dominant and brightest: a big heap of long pink sofa slides, each pierced by a brass periscope still stuck in it, under a wooden sign painted 50 with a big arrow pointing up. RIGHT: a much smaller heap of slides pierced by fish bones or cracked by falls. Franky, the blue-haired cyborg shipwright, pulls one periscope out, shaking his head.
+story:
+في ساحة إصلاح في مدينة الماء، تحت سماء رماديّة، تكدّست منزلقات ورديّة مثقوبة.
+وكانت الكومة الكبرى كلّها مثقوبةً بمناظير نحاسيّة ما زالت عالقةً فيها.
+وفوقها لافتة خشبيّة مكتوب عليها: خمسون، وسهم كبير يشير إلى الأعلى.
+وإلى اليمين كومة أصغر بكثير، ثقبتها عظام السمك، أو شقّتها السقطات.
+«أكثر من نصف ما يصلني مثقوب بيد من أراد أن ينظر فيه!»
+فانتزع فرانكي منظارًا من أحد المنزلقات، وهزّ رأسه.
+«المنظار ينقذ إذا رأى، ويثقب إذا أخطأ.» قال أوسوب.
+وأخذ فرانكي يرقّع المنزلق الأوّل من الكومة الكبرى.
+وجاء تشوبر يعينه على الثقوب، واحدًا بعد واحد.
+فلمّا انتهيا من أوّل منزلق، صاح تشوبر بحلمه الّذي لا يتعب منه:
+quote: «سأصبح طبيبًا يقدر على شفاء أيّ مرض!»
+source: توني توني تشوبر
+explanation:
+Instrumentation causes more than half of all oesophageal perforations: A is the answer.
+In a normal oesophagus, iatrogenic injuries happen most often at Killian's triangle, the narrow area just above the cricopharyngeus, not at the gastro-oesophageal junction.
+Rigid endoscopy carries a higher risk of perforation than flexible endoscopy.
+
+
+== 73
+# book 15.3: diagnosis of oesophageal perforation -> C, a pleural effusion is a LATE finding.
+# a torn sofa slide leaking into the chest cabin -> oesophageal perforation
+# an hourglass on the wall, sand nearly run out -> time
+# air bubbles in the cabin while the hourglass is still full -> air (pneumomediastinum) comes early
+# ANSWER: a puddle of water spreading over the cabin floor only when the hourglass is nearly empty -> pleural effusion is late
+title: In oesophageal perforation, a pleural effusion is a late finding
+titleAr: في انثقاب المريء، الانصباب الجنبي علامة متأخّرة
+tags: thoracic/oesophagus d:diagnosis q:recall l:2
+palette: hourglass sand, bubble white and puddle blue
+keywords: oesophageal perforation -> a torn long pink sofa slide leaking into a chest cabin; early air -> air bubbles floating in the cabin beside an hourglass that is still full; late pleural effusion -> a puddle of water spreading over the cabin floor beside a second hourglass that has almost run out
+must: the puddle appears with the hourglass that has almost RUN OUT; bubbles with the full one
+scene: A chest cabin of a pirate ship, a long pink sofa slide running down through it with a tear. LEFT: beside an hourglass that is still full of sand, air bubbles float up from the tear. CENTRE-RIGHT, dominant and brightest: beside a second hourglass whose sand has almost run out, a wide puddle of water spreads across the cabin floor, reaching the walls. Tony Tony Chopper, the little reindeer doctor, stands in the puddle, pointing at the empty hourglass.
+story:
+في قمرة صدر على سفينة قراصنة، نزل منزلق ورديّ طويل وفيه شقّ.
+وعلى اليسار ساعة رمليّة ما زالت ممتلئة.
+فصعدت إلى جانبها فقاعات هواء من الشقّ، تطفو في القمرة.
+«الهواء أوّل من يهرب؛ والسّاعة ما زالت في أوّلها.» قال تشوبر.
+وعلى اليمين ساعة رمليّة ثانية، كاد رملها ينفد.
+وإلى جانبها بركة ماء واسعة تنتشر على الأرض حتّى بلغت الجدران.
+«أمّا البركة فلا تأتي إلّا متأخّرة، حين يكاد الرمل ينفد.»
+فوقف تشوبر في البركة، يشير إلى الساعة الفارغة.
+«لا تنتظروا البركة لتعرفوا الشقّ؛ إذا رأيتموها فقد تأخّرتم.»
+ثمّ رفع رأسه عازمًا، وتذكّر معلّمه الأوّل يصيح في الثلج:
+quote: «لا يوجد في هذا العالم مرض لا يمكن شفاؤه!»
+source: الدكتور هيلولوك
+explanation:
+After an oesophageal perforation, air in the mediastinum or soft tissues is an early sign on imaging.
+A pleural effusion is a late finding, appearing as contamination spreads into the pleura: C is the answer.
+Water-soluble contrast is used first, and thin barium follows when it is negative, because water-soluble contrast misses a significant share of leaks.
+CT is useful in many patients, but an unstable or ventilated patient may need bedside tests.
+
+
+== 74
+# book 15.4: surgical approach to oesophageal perforation -> B, approach on the side of pleural contamination.
+# a torn sofa slide spilling dirty water into the RIGHT side of the chest cabin -> pleural contamination on one side
+# ANSWER: Franky flinging open the side lid of the treasure chest on that SAME side, where the dirty water lies -> approach through the side that is contaminated (thoracotomy = a chest opened from its side)
+# the other side's lid kept shut -> not the clean side
+title: Approach an oesophageal perforation from the side of pleural contamination
+titleAr: يُقارَب انثقاب المريء من جهة تلوّث الجنبة
+tags: thoracic/oesophagus d:technique q:recall l:2
+palette: muddy brown water, treasure gold and clean blue
+keywords: oesophageal perforation -> a torn long pink sofa slide inside a big treasure chest; pleural contamination -> dirty brown water spilling into one side of the chest only; thoracotomy on the contaminated side -> Franky flinging open the side lid of the chest on that SAME side where the dirty water lies; clean side -> the other side lid kept shut, its water clean
+must: Franky opens the lid on the SAME side as the dirty water
+scene: A big golden treasure chest seen from the front, its insides visible through glass. A long pink sofa slide runs down its middle with a tear, and dirty brown water spills out into the right half of the chest only, while the left half stays clean and blue. CENTRE-RIGHT, dominant and brightest: Franky, the blue-haired cyborg shipwright, flings open the side lid of the chest on the dirty side and reaches in, while the clean side's lid stays shut. Zoro holds a lantern up for him.
+story:
+كان صندوق كنز ذهبيّ كبير يرى من أمامه، وداخله ظاهر من وراء زجاج.
+وفي وسطه نزل منزلق ورديّ مشقوق.
+فانسكب من الشقّ ماء بنّيّ قذر في النصف الأيمن من الصندوق وحده.
+أمّا النصف الأيسر، فبقي ماؤه صافيًا أزرق.
+«أيّ غطاء أفتح؟» سأل فرانكي.
+«الّذي في جهة القذارة!» أجاب زورو وهو يرفع الفانوس.
+ففتح فرانكي الغطاء الجانبيّ في الجهة القذرة، ومدّ يده إلى الداخل.
+وبقي غطاء الجهة النظيفة مغلقًا لم يمسّ.
+«من هنا أنظّف القذارة وأصلح الشقّ معًا.»
+فأمسك زورو الفانوس ثابتًا حتّى انتهى، ثمّ قال كلمته القديمة:
+quote: «لن أخسر مرّةً أخرى أبدًا!»
+source: رورونوا زورو
+explanation:
+A thoracic oesophageal perforation is approached through the side of the pleural contamination, so that the soiled pleura can be drained and decorticated at the same operation: B is the answer.
+Without one-sided contamination, perforations of the middle third are usually approached through the right chest and those of the lower third through the left.
+Perforations in the neck are approached through a left neck incision.
+
+
+== 75
+# book 15.5: perforation with achalasia -> A, close the mucosa and the muscle, a complete myotomy on the OPPOSITE side, and a partial fundoplication.
+# a golden chalice jammed in the drawstring at the foot of the sofa slide, a tear on one side above it -> perforation in achalasia (audited symbol)
+# ANSWER part 1: Franky stitching the tear in two layers, inner and outer -> mucosal and muscle closure
+# ANSWER part 2: Zoro slitting the muscle ring on the OPPOSITE side down past the chalice, which falls free -> complete myotomy on the opposite side
+# ANSWER part 3: a half scarf wrapped part way round the foot -> partial fundoplication (audited symbol)
+title: Perforation in achalasia: two-layer repair, myotomy on the opposite side, partial fundoplication
+titleAr: الانثقاب مع الأكالازيا: إصلاح بطبقتين وبضع عضلي في الجهة المقابلة وتثنية جزئية
+tags: thoracic/oesophagus d:technique q:recall l:3
+palette: chalice gold, stitch black and scarf red
+keywords: achalasia with perforation -> a golden chalice jammed in the drawstring at the foot of a long pink sofa slide, with a tear on one side above it; two-layer closure -> Franky stitching the tear in two layers, inner then outer; myotomy on the opposite side -> Zoro slitting the muscle ring on the OPPOSITE side down past the chalice, which falls free into the pot; partial fundoplication -> a red scarf wrapped only half way round the foot of the slide
+must: Zoro's slit is on the OPPOSITE side from the stitched tear; the scarf goes only HALF way round
+scene: The galley of the Thousand Sunny, cut open. A long pink sofa slide runs down to a copper cooking pot, and a golden chalice is jammed in the drawstring at its foot. CENTRE, dominant and brightest: on the left side of the slide Franky, the blue-haired cyborg shipwright, stitches a tear shut in two neat layers, while on the right side Roronoa Zoro slits the muscle ring straight down past the chalice, which falls free into the pot. Sanji wraps a red scarf only half way round the foot of the slide.
+story:
+في مطبخ الثاوزند صني، نزل منزلق الأريكة إلى قدر الطبخ، وفي أسفله كأس ذهبيّة عالقة.
+وفوق الكأس شقّ في جهة من المنزلق.
+فخاط فرانكي الشقّ في الجهة اليسرى بطبقتين متقنتين، الداخليّة ثمّ الخارجيّة.
+«طبقة للبطانة، وطبقة للعضل؛ هكذا لا يعود الشقّ.»
+وفي الجهة اليمنى المقابلة، شقّ زورو حلقة العضل نزولًا حتّى تجاوز الكأس.
+فسقطت الكأس حرّةً في القدر.
+«في الجهة الأخرى، بعيدًا عن خياطتك يا فرانكي.»
+ثمّ لفّ سانجي وشاحًا أحمر حول أسفل المنزلق إلى نصفه فقط.
+«نصف وشاح، يحرس من الحمض ولا يخنق المنزلق.»
+فنظر لوفي إلى رفاقه الثلاثة يعملون معًا، ورفع رأسه وصاح:
+quote: «ما زال لديّ رفاقي!»
+source: مونكي دي لوفي
+explanation:
+A perforation in a patient with achalasia must treat the achalasia too, or the repair will fail behind the closed sphincter.
+The mucosa is closed, then the overlying muscle, and a complete myotomy is made on the opposite side of the oesophagus, followed by a partial fundoplication: A is the answer.
+With severe reflux disease an antireflux procedure is added, and with an associated cancer or a severe caustic injury, resection rather than primary repair is usually needed.
+
+
+== 76
+# book 16.1: LEAST associated with oesophageal squamous cell carcinoma -> E, obesity.
+# a scaly crab clamped in the sofa slide -> squamous cell carcinoma of the oesophagus (cancer -> crab; squamous -> scales)
+# alcohol poured on it, pickled-fish smoke (nitrosamines) puffed at it, a golden chalice beside it -> alcohol, nitrosamines and achalasia feed it
+# ANSWER: a jolly fat man sitting beside it eating, the scaly crab ignoring him -> obesity is linked to adenocarcinoma, not squamous cancer
+title: Obesity is the factor least associated with oesophageal squamous cell carcinoma
+titleAr: السمنة أقلّ العوامل ارتباطًا بسرطان المريء شائك الخلايا
+tags: thoracic/oesophagus d:pathology q:recall l:2 x:trap
+palette: crab red scales, bottle green and pickle brown
+keywords: oesophageal squamous cell carcinoma -> a red crab covered in scales clamped in a long pink sofa slide; alcohol -> a bottle of rum poured over the crab, which grows; nitrosamines -> smoke from a jar of pickled fish puffed at it; achalasia -> a golden chalice jammed below it; obesity -> a jolly fat man sitting beside it eating, the crab ignoring him
+must: the rum, the pickle smoke and the chalice make the crab GROW; the fat man does not
+scene: A tavern kitchen at night. A long pink sofa slide runs down the wall to a copper pot, a golden chalice jammed at its foot, and a red crab covered in scales clamps its wall. LEFT: a pirate pours a bottle of rum over the crab, and a jar of pickled fish puffs brown smoke at it; the crab swells. CENTRE-RIGHT, dominant and brightest: a jolly fat man sits beside the slide happily eating a huge meal, and the scaly crab turns its back on him, not growing at all. Sanji watches, arms crossed.
+story:
+في مطبخ حانة ليلًا، نزل منزلق ورديّ على الجدار إلى قدر نحاسيّة، وفي أسفله كأس ذهبيّة عالقة.
+وأطبق على جداره سرطان أحمر مغطًّى بالقشور.
+فصبّ قرصان عليه زجاجة روم، فانتفخ السرطان.
+ونفثت عليه جرّة سمك مخلّل دخانًا بنّيًّا، فانتفخ أكثر.
+«الروم والمخلّل والكأس العالقة تطعمه كلّها!» قال سانجي وهو يعقد ذراعيه.
+وإلى جانب المنزلق، جلس رجل سمين مرح يأكل وليمةً هائلةً سعيدًا.
+فأدار السرطان ذو القشور ظهره له، ولم يكبر شعرة.
+«هذا السرطان لا يأكل من مائدة السمين؛ تلك مائدة سرطان آخر.»
+فضحك السمين وتابع أكله، وطلب طبقًا آخر.
+فدخل لوفي المطبخ وعيناه على الوليمة، وصاح:
+quote: «لا أريد أن أكون بطلًا؛ البطل يقاسم الناس لحمه، وأنا أريد اللحم كلّه لي!»
+source: مونكي دي لوفي
+explanation:
+Oesophageal squamous cell carcinoma is linked with alcohol, smoking, N-nitrosamines in the diet, deficiencies such as molybdenum, achalasia and caustic injury.
+Obesity is linked with adenocarcinoma of the oesophagus, through reflux and Barrett's oesophagus, not with squamous cell carcinoma: E is the answer.
+
+
+== 77
+# book 16.2: best study for depth of tumour invasion (T stage) -> C, endoscopic ultrasound.
+# the sofa slide's wall drawn as five coloured layers, a crab's claws reaching into them -> T stage = depth of invasion
+# ANSWER: a periscope down the slide with a bat at its tip, its sound rings measuring exactly which layer the claws reach -> endoscopic ultrasound (echo = bat, audited)
+# a cat slicing a loaf outside, unable to tell the thin layers apart -> CT is poorer for T stage
+title: Endoscopic ultrasound is the best test for the T stage of oesophageal cancer
+titleAr: الأمواج فوق الصوتية بالمنظار أفضل فحص لعمق غزو سرطان المريء
+tags: thoracic/oesophagus d:diagnosis q:recall l:1
+palette: five layered colours, sound-ring teal and crab red
+keywords: depth of invasion -> the wall of a long pink sofa slide drawn as five coloured layers, a red crab's claws reaching into them; endoscopic ultrasound -> a periscope down the slide with a bat at its tip, its sound rings measuring which layer the claws reach; CT -> a cat slicing a loaf outside, puzzled, unable to tell the thin layers apart
+must: the wall shows FIVE clearly coloured layers; the bat's rings mark how deep the claws go
+scene: A cross-section of a long pink sofa slide, enormous, its wall drawn as five clearly coloured layers like a cake, a red crab's claws reaching into the third layer. CENTRE, dominant and brightest: a brass periscope runs down inside the slide, and a bat at its tip sends glowing rings of sound that stop exactly at the claws' tips, marking the layer. RIGHT, outside: a grey cat slicing a loaf scratches its head, unable to tell the thin layers apart. Robin takes notes.
+story:
+كان مقطع عرضيّ لمنزلق ورديّ هائل، جداره خمس طبقات ملوّنة كطبقات الكعكة.
+ومدّ سرطان أحمر ملاقطه في الجدار، حتّى بلغ الطبقة الثالثة.
+«إلى أيّ طبقة وصل؟ هذا ما يقرّر كلّ شيء.» قالت روبين.
+فدفع في داخل المنزلق منظار نحاسيّ، على رأسه خفّاش.
+فأرسل الخفّاش حلقات مضيئةً من الصوت، فتوقّفت عند رؤوس الملاقط تمامًا.
+فعرفوا الطبقة الّتي بلغها السرطان بالضّبط.
+ومن الخارج، حكّ قطّ رماديّ رأسه أمام رغيفه.
+«القطّ لا يفرّق بين هذه الطبقات الرقيقة؛ أمّا الخفّاش فيعدّها واحدةً واحدة!»
+فدوّنت روبين رقم الطبقة في دفترها، وأغلقته.
+ثمّ تذكّرت ما قاله أعظم مبارز في العالم لرفيقها زورو:
+quote: «اعرف العالم، واعرف نفسك، وكن قويًّا يا رورونوا! سأنتظرك في القمّة مهما طال الزمن.»
+source: دراكول ميهوك
+explanation:
+The T stage of oesophageal cancer is the depth to which the tumour invades the layers of the wall.
+Endoscopic ultrasound shows these layers and is the best test for the T stage: C is the answer.
+CT and PET are used for distant spread, barium swallow shows the lumen, and bronchoscopy looks for invasion of the airway.
+
+
+== 78
+# book 16.3: neoadjuvant chemoradiation for oesophageal cancer -> A, most randomized studies found no significant survival difference (the book's era).
+# two hourglasses: one wrapped in violet rays and a potion bottle before Zoro's sword, the other going straight to the sword -> neoadjuvant chemoradiation versus surgery alone
+# ANSWER: both hourglasses run out at exactly the same moment -> no significant survival difference in most randomized trials
+# a T4 crab gripping the orca, not shrunk by the rays -> invasion of the aorta is not downstaged into resectability (B is wrong)
+title: Neoadjuvant chemoradiation: most randomized trials of the book's era found no survival difference
+titleAr: العلاج الكيميائي الشعاعي قبل الجراحة: معظم الدراسات العشوائية في زمن الكتاب لم تجد فرقًا في البقيا
+tags: thoracic/oesophagus d:evidence q:recall l:3
+palette: ray violet, potion green and hourglass sand
+keywords: neoadjuvant chemoradiation -> an hourglass wrapped in violet rays and a green potion bottle before it reaches Zoro's sword; surgery alone -> a second hourglass going straight to the sword; no survival difference -> both hourglasses running out at exactly the same moment; aortic invasion -> a crab gripping an orca balloon, not shrunk by the rays
+must: both hourglasses EMPTY at the same moment
+scene: The infirmary of the Thousand Sunny. LEFT: an hourglass wrapped in violet rays and a green potion bottle stands before Zoro's sword; RIGHT: a second hourglass goes straight to the sword. CENTRE, dominant and brightest: the last grain of sand falls in both hourglasses at exactly the same moment, and Tony Tony Chopper, the little reindeer doctor, looks from one to the other in surprise. BACKGROUND: a red crab grips the arched back of an orca balloon, the violet rays bouncing off it.
+story:
+في مستوصف الثاوزند صني، وقفت ساعتان رمليّتان أمام سيف زورو.
+الأولى لفّت بأشعّة بنفسجيّة، وإلى جانبها قنّينة جرعة خضراء، قبل أن تصل إلى السيف.
+والثّانية ذهبت إلى السيف مباشرةً، بلا أشعّة ولا جرعة.
+«الّتي أخذت الأشعّة والجرعة ستعيش أطول، لا شكّ!» قال أوسوب.
+فسقطت آخر حبّة رمل في الساعتين في اللحظة نفسها تمامًا.
+فنظر تشوبر إلى هذه ثمّ إلى تلك متعجّبًا.
+«أكثر التجارب في زمن كتابنا انتهت هكذا؛ لا فرق بينهما يعتدّ به.»
+وفي الخلف، تشبّث سرطان أحمر بظهر حوت قاتل عملاق، والأشعّة البنفسجيّة ترتدّ عنه.
+«ومن أمسك بالحوت لا تصغّره الأشعّة حتّى يقطع.»
+فقلب تشوبر الساعتين ليبدأ الرمل من جديد، وتذكّر سؤال معلّمه القديم:
+quote: «متى يموت الإنسان؟ ... حين ينساه الناس.»
+source: الدكتور هيلولوك
+note: Later trials, such as CROSS (2012), showed a survival benefit for neoadjuvant chemoradiotherapy.
+explanation:
+In the book, most randomized studies of neoadjuvant chemoradiation before oesophagectomy found no significant difference in survival: A is the answer.
+A complete pathological response, seen in about a quarter of patients, is a good prognostic sign.
+Invasion of the aorta (T4b) is not made resectable by neoadjuvant treatment.
+Surgery is usually done about 4 to 8 weeks after chemoradiation, not within 2 weeks.
+
+
+== 79
+# book 16.4: Barrett mucosa -> B, adenocarcinoma can develop within SHORT-segment Barrett mucosa.
+# only a short band of barrel staves at the very bottom of the sofa slide -> short-segment Barrett's (audited symbol)
+# ANSWER: a red crab sprouting even from that short band -> adenocarcinoma can arise there
+# the acid soup splashing up from the pot onto it -> Barrett's comes from reflux, not from birth (A is wrong)
+title: Adenocarcinoma can arise even in short-segment Barrett's oesophagus
+titleAr: قد ينشأ السرطان الغدّي حتى في مريء باريت قصير القطعة
+tags: thoracic/oesophagus d:pathology q:recall l:2
+palette: barrel oak, acid green and crab red
+keywords: short-segment Barrett's oesophagus -> only a short band of wooden barrel staves at the very bottom of a long pink sofa slide; adenocarcinoma -> a red crab sprouting from that short band; reflux -> green acid soup splashing up from the copper cooking pot onto it
+must: the band of staves is SHORT, and the crab grows out of it
+scene: The galley of the Thousand Sunny, cut open. A long pink sofa slide runs down into a copper cooking pot; only a short band at its very bottom is lined with wooden barrel staves, and green acid soup splashes up onto them from the pot. CENTRE, dominant and brightest: a red crab sprouts right out of that short band of staves, waving its claws. Nami, the orange-haired navigator, points at it in shock.
+story:
+في مطبخ الثاوزند صني، نزل منزلق الأريكة إلى قدر الطبخ.
+ولم يكن مبطّنًا بألواح البرميل إلّا شريط قصير في أسفله تمامًا.
+وكان حساء الحمض الأخضر يرتشّ من القدر على ذلك الشريط.
+«شريط قصير كهذا لا يخيف!» قال أوسوب.
+فخرج من ذلك الشريط القصير نفسه سرطان أحمر يلوّح بملاقطه.
+«من الشريط القصير؟ ظننت القصير آمنًا!» صاحت نامي مذعورة.
+«القصر لا يحمي؛ قد يولد السرطان في شريط قصير كما يولد في الطويل.»
+فأمسكت نامي ذراع لوفي، وهي تحدّق في السرطان.
+فوقف لوفي بينها وبين المنزلق مبتسمًا.
+وقال لها ما قاله يوم وضع قبّعته على رأسها:
+quote: «نامي! أنت رفيقتي!»
+source: مونكي دي لوفي
+explanation:
+Barrett's oesophagus is an acquired intestinal metaplasia caused by chronic reflux, not a congenital condition.
+Adenocarcinoma can develop within short-segment Barrett's mucosa, not only within long segments: B is the answer.
+Barrett's raises the risk of adenocarcinoma, not of squamous cell carcinoma.
+Surveillance without dysplasia is every 3 to 5 years, not every 3 months.
+
+
+== 80
+# book 16.5: transhiatal oesophagectomy -> B, potentially curative in 20 percent (the book's figure).
+# the sofa slide pulled out through the hole in the deck from below and from the neck above, without opening the chest -> transhiatal oesophagectomy
+# the copper pot pulled up and stretched into a long tube on a green vine from its right side -> the gastric conduit on the right gastroepiploic artery (C is wrong)
+# ANSWER: a flag painted 20 above one cured, smiling sailor -> curative in about 20 percent
+title: Transhiatal oesophagectomy is potentially curative in about 20 percent (the book's figure)
+titleAr: استئصال المريء عبر الفتحة الحجابية شافٍ محتملًا في نحو 20 بالمئة (رقم الكتاب)
+tags: thoracic/oesophagus d:technique q:numbers l:3
+palette: deck brown, copper and vine green
+words: 20
+keywords: transhiatal oesophagectomy -> a long pink sofa slide pulled out through the hole in the deck from below and from the neck above, the chest cabin never opened; gastric conduit -> the copper cooking pot pulled up and stretched into a long tube, fed by a green vine on its right side; curative in 20 percent -> a flag painted 20 above one cured, smiling sailor
+must: the chest cabin stays CLOSED; the flag reads 20
+scene: A pirate ship cut open, three floors. Franky pulls a long pink sofa slide out through a hole in the deck from below, while Zoro draws it up through the neck from above; the chest cabin between them stays closed. The copper cooking pot is being pulled up and stretched into a long tube, fed by a green vine on its right side. CENTRE, dominant and brightest: a flag painted 20 waves above one cured sailor, who stands smiling with his arms raised.
+story:
+في سفينة قراصنة مكشوفة بثلاثة طوابق، سحب فرانكي منزلق الأريكة الورديّة من ثقب في السطح من الأسفل.
+وسحبه زورو من العنق من الأعلى.
+أمّا قمرة الصدر بينهما، فبقيت مغلقةً لم تفتح.
+«لا حاجة لفتح القمرة؛ نسحبه من فوق ومن تحت!»
+ثمّ سحبت قدر الطبخ النحاسيّة إلى الأعلى، ومطّت أنبوبًا طويلًا.
+وكانت كرمة خضراء على جانبها الأيمن تطعمها طوال الطريق.
+«الكرمة اليمنى تبقيها حيّة؛ والأنبوب الأعرض أسلم من الضيّق.»
+وفوق الجميع رفرفت راية مكتوب عليها: عشرون.
+وتحتها وقف بحّار واحد شفي تمامًا، رافعًا ذراعيه يبتسم.
+فصفّق له الطاقم كلّه، وصاح لوفي بصيحة القرصان العجوز العظيم:
+quote: «الون بيس... إنّه موجود!»
+source: إدوارد نيوغيت (اللحية البيضاء)
+explanation:
+A transhiatal oesophagectomy removes the oesophagus through the abdomen and the neck without a thoracotomy.
+The stomach is made into a conduit based on the right gastroepiploic artery, not the left, and a wider conduit drains better than a narrow one.
+In the book, esophagectomy is potentially curative in about 20 percent of patients: B is the answer.
+Involvement of a periesophageal lymph node does not contraindicate the operation.
+

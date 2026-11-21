@@ -1,0 +1,330 @@
+book: johns-hopkins-2016
+# Johns Hopkins 2016, lessons 111-120 = book questions 23.1-24.5 (heart physiology, cardiopulmonary bypass).
+# Heart = the HART Hotel (narrow old hotel, stag's head, cut open: blue wing = right heart, red wing = left; atrium lobbies upstairs, engine rooms with fans downstairs).
+
+== 111
+# book 23.1: hibernating myocardium -> B, it decreases its force of contraction in response to an inadequate energy supply.
+# the green Liberty crown on the hotel clogged with tar, only a trickle of coal reaching the red engine room -> inadequate supply (ischaemic heart disease, audited)
+# ANSWER: a brown bear asleep in the red engine room, turning the fan slowly with one lazy paw to save its strength -> hibernating myocardium turns its force down to match the poor supply (audited symbol)
+# a second panel: cabbage leaves bridging the crown, coal pouring in, the same bear wide awake spinning the fan fast -> it recovers once supply returns (C is wrong)
+title: Hibernating myocardium turns down its contraction to match a poor energy supply
+titleAr: العضلة القلبية السُّباتية تخفّض قوّة انقباضها لتوافق نقص الإمداد بالطاقة
+tags: cardiac/coronary d:physiology q:recall l:2 x:high-yield
+palette: cave brown, coal black and Liberty green
+keywords: ischaemic heart disease -> the green Statue of Liberty crown on the hotel clogged with black tar, only a trickle of coal reaching the red engine room; hibernating myocardium -> a brown bear asleep in the red engine room, turning the fan slowly with one lazy paw; recovery after revascularization -> a second small panel: cabbage leaves bridging the crown, coal pouring in, the bear wide awake spinning the fan fast
+must: in the main scene the bear is ASLEEP and the fan turns SLOWLY; in the small panel the bear is AWAKE and the fan spins fast
+scene: The old hotel with a stag's head over its door, seen cut open like a doll's house at dusk; a green Statue of Liberty crown on its roof is clogged with black tar, and only a thin trickle of coal runs down a chute into the red engine room. CENTRE, dominant and brightest: in the red engine room a big brown bear lies asleep beside the huge fan, turning it slowly with one lazy paw. Small panel in the top corner: big green cabbage leaves now bridge the crown's spikes, coal pours down, and the same bear is wide awake spinning the fan fast. Tony Tony Chopper, the little reindeer doctor, tiptoes past the sleeping bear.
+story:
+في غسق يوم بارد، انسدّ التاج الأخضر فوق الفندق القديم بالقطران الأسود.
+فلم يعد ينزل إلى غرفة المحرّك الحمراء إلّا خيط رفيع من الفحم.
+وفي الغرفة دبّ بنّيّ كبير، استلقى نائمًا بجانب المروحة العملاقة.
+وظلّ يديرها ببطء، بمخلب واحد كسول.
+«لقد مات الدبّ! انتهت المروحة!» صاح أوسوب.
+«ليس ميّتًا، إنّه نائم يوفّر قوّته. قليل من الفحم، قليل من الدوران.» همس تشوبر وهو يمشي على رؤوس أصابعه.
+وفي الصباح، وضع سانجي أوراق ملفوف خضراء كبيرةً فوق أشواك التاج.
+فانهمر الفحم في الغرفة، واستيقظ الدبّ يدير المروحة بكلّ قوّته.
+«نام حين قلّ الفحم، واستيقظ حين جاء الملفوف!» قال تشوبر فرحًا.
+وكان تشوبر في الليل قد غطّى الدبّ النائم ببطّانيّة، وتذكّر كلمة طبّاخ عجوز لتلميذه يوم الفراق:
+quote: «يا سانجي... لا تصب بالبرد.»
+source: زيف
+explanation:
+Hibernating myocardium is living muscle that decreases its force of contraction in response to an inadequate supply of blood and energy: B is the answer.
+It is still viable, and its function recovers after revascularization.
+Muscle that keeps contracting poorly after the supply has returned is stunned myocardium, and muscle with no metabolic activity at all is dead.
+Memory hook: the bear sleeps and turns the fan slowly while the coal is short, and wakes when the cabbage brings the coal back.
+
+
+== 112
+# book 23.2: endothelium -> C, it limits the initiation of clots by covering tissue factor.
+# the inside of a red pipe lined with smooth white tiles -> the endothelium
+# behind the tiles, a rough wall full of crackling red sparks -> tissue factor
+# ANSWER: where the tiles are whole, the river flows smoothly and no clot forms; the tiles COVER the sparks -> endothelium limits clot initiation by covering tissue factor
+# where one tile has fallen off, the sparks touch the river and a black clot instantly grows -> exposed tissue factor starts clotting
+title: The endothelium prevents clotting by covering tissue factor
+titleAr: البطانة تمنع بدء التخثّر بتغطيتها العامل النسيجي
+tags: cardiac/foundations d:physiology q:recall l:2
+palette: tile white, spark red and clot black
+keywords: endothelium -> smooth white tiles lining the inside of a red pipe; tissue factor -> a rough wall full of crackling red sparks behind the tiles; covering tissue factor -> where the tiles are whole the river flows smoothly and no clot forms; exposed tissue factor -> where one tile has fallen off the sparks touch the river and a black clot instantly grows
+must: the clot grows ONLY where a tile is missing
+scene: A cut-open red pipe as big as a tunnel, a red river flowing through it. Its inside is lined with smooth white tiles, and behind them, through the gaps at the cut edge, a rough wall crackles with red sparks. CENTRE, dominant and brightest: along the whole tiled stretch the river flows smoothly and clear; at one spot a single tile has fallen off, the sparks touch the river there and a black clot grows instantly. Franky, the blue-haired cyborg shipwright, holds up a new tile to press back into the gap.
+story:
+في أنبوب أحمر كبير كالنّفق، كان نهر أحمر يجري بهدوء.
+وكان داخل الأنبوب مبطّنًا ببلاط أبيض أملس.
+وخلف البلاط، جدار خشن تطقطق فيه شرارات حمراء، تتمنّى لو تلمس النهر.
+وذات يوم سقطت بلاطة واحدة.
+فلمست الشرارات النهر، ونمت في الحال جلطة سوداء تسدّ المجرى.
+«نكسر الجلطة بالمطرقة وننتهي!» قال أوسوب.
+فكسرها، فنمت مكانها جلطة أخرى، ما دامت الشرارات تلمس النهر.
+فجاء فرانكي ببلاطة جديدة، وضغطها في الفراغ.
+«البلاط يغطّي الشرر، فلا يلتقي الشرر بالنّهر.» قال فرانكي.
+فجرى النهر صافيًا على طول البلاط، ولم تنم جلطة واحدة.
+فتذكّر الرفاق أميرةً وقفت يومًا بين جيشين، تصرخ:
+quote: «أرجوكم، توقّفوا عن القتال!»
+source: نفرتاري فيفي
+explanation:
+An intact endothelium limits the initiation of clots by covering the tissue factor in the wall beneath it: C is the answer.
+It also carries thrombomodulin and releases nitric oxide and prostacyclin, which keep the surface anticoagulant.
+When the endothelium is damaged, tissue factor meets the blood and clotting begins.
+Memory hook: the white tiles cover the red sparks; where one tile falls off, a black clot grows.
+
+
+== 113
+# book 23.3: what influences the SPEED of myocardial contraction -> E, none of the above (resting length, sudden stretch, rapid repeated contraction).
+# the huge fan of the red engine room with a speedometer showing how fast each blade sweeps -> the speed of contraction (ventricle = fan, audited)
+# a sailor pulling the blades longer before the start, a second giving the fan a sudden yank, a third making it spin again and again quickly -> resting length, sudden stretch, rapid repeated contraction
+# ANSWER: the speedometer needle staying exactly where it was through all three, Franky shrugging -> none of them changes the speed
+title: Speed of myocardial contraction: none of these three factors changes it
+titleAr: سرعة انقباض العضلة القلبية: لا يغيّرها أيّ من هذه العوامل الثلاثة
+tags: cardiac/foundations d:physiology q:recall l:3 x:trap
+palette: engine-room red, speedometer brass and blade silver
+keywords: speed of contraction -> a brass speedometer on the huge fan of the red engine room; resting length -> a sailor pulling the fan's blades longer before the start; sudden stretch -> a second sailor giving the fan a sudden yank; rapid repeated contraction -> a third sailor making it spin again and again quickly; none of the above -> the speedometer needle staying exactly where it was through all three
+must: the speedometer needle stays EXACTLY in place
+scene: The red engine room of the old hotel with a stag's head, a huge fan in the middle. Three sailors try three tricks on it: the first pulls its blades longer, the second gives it a sudden yank, the third spins it again and again as fast as he can. CENTRE, dominant and brightest: a big brass speedometer on the fan keeps its needle exactly where it was, not moving a hair, and Franky, the blue-haired cyborg shipwright, shrugs at it with both huge arms.
+story:
+في غرفة المحرّك الحمراء، كانت المروحة العملاقة تدور، وعليها عدّاد سرعة نحاسيّ.
+فجاء ثلاثة بحّارة، كلّ منهم يحلف أنّه يعرف حيلةً تزيد سرعتها.
+فشدّ الأوّل ريشها حتّى طال قبل أن تبدأ.
+وهزّها الثاني هزّةً مفاجئة.
+وأدارها الثالث، وهو أوسوب، مرّةً بعد مرّة بأسرع ما يستطيع.
+والجميع ينظرون إلى العدّاد، فإذا بالإبرة في مكانها تمامًا، لم تتحرّك شعرةً واحدة.
+«لا الطول، ولا الهزّة، ولا التكرار. لا شيء من هذا يحرّك الإبرة.» قال فرانكي وهو يهزّ كتفيه العملاقين.
+«لكنّ حيلتي أنا كانت أسرع قليلًا، أليس كذلك؟» قال أوسوب.
+فلم يجبه أحد، والإبرة ثابتة كالصّخر.
+فنفخ أوسوب صدره وقال:
+quote: «أنا الكابتن أوسوب، ولي ثمانية آلاف تابع!»
+source: أوسوب
+explanation:
+According to the book, the speed of myocardial contraction is not influenced by the resting length of the myocyte, by a sudden stretch, or by rapid repeated contraction: E, none of the above, is the answer.
+Resting length and stretch change the force of contraction, through the Frank-Starling mechanism, not its speed.
+The speed is treated as a property of the muscle itself, set by its contractile proteins.
+Memory hook: three sailors try three tricks, and the brass needle does not move a hair.
+
+
+== 114
+# book 23.4: remodelling after surgery -> B, in ischaemic heart disease, complete revascularization raises the LVEF and lowers the LVEDV.
+# a red engine room swollen too big, its fan weak -> a dilated, failing left ventricle
+# ANSWER part 1: big green cabbage leaves laid over EVERY clogged spike of the Liberty crown -> complete revascularization (CABG, audited)
+# ANSWER part 2: the room shrinking back to a smaller size -> LVEDV falls
+# ANSWER part 3: the bouncer at its door now throwing out far more guests, his counter climbing -> LVEF rises (ejection fraction, audited)
+title: Complete revascularization raises the ejection fraction and shrinks the left ventricle
+titleAr: إعادة التروية الكاملة ترفع الكسر القذفي وتصغّر البطين الأيسر
+tags: cardiac/coronary d:postoperative q:recall l:2
+palette: cabbage green, red-room crimson and counter brass
+keywords: complete revascularization -> big green cabbage leaves laid over EVERY clogged spike of the Statue of Liberty crown on the hotel; left ventricular end-diastolic volume falls -> the swollen red engine room with its huge fan shrinking back to a smaller size; ejection fraction rises -> the bouncer at the red room's door now throwing out far more guests, his counter climbing
+must: EVERY spike is bridged; the room is visibly SMALLER than its old outline; the counter climbs
+scene: The old hotel with a stag's head over its door, cut open. On its roof a green Statue of Liberty crown has every one of its tar-clogged spikes bridged by big green cabbage leaves. CENTRE, dominant and brightest: the red engine room below is shrinking back from a faded, swollen old outline to a smaller, firmer size, and the bouncer at its door throws guests out one after another, his brass counter climbing fast. Sanji lays the last cabbage leaf, grinning.
+story:
+كانت غرفة المحرّك الحمراء في الفندق القديم منتفخةً كبيرة، ومروحتها ضعيفة.
+والحارس على بابها متعب، لا يطرد إلّا ضيفًا واحدًا بين حين وحين.
+وفوق السطح، كانت أشواك التاج الأخضر مسدودةً بالقطران.
+فوضع أوسوب ورقة ملفوف على شوكة واحدة، وجلس ينتظر.
+فلم تصغر الغرفة إلّا قليلًا.
+«شوكة واحدة لا تكفي! كلّ الأشواك، أو لا شيء!» قال سانجي.
+فوضع سانجي ورقة ملفوف كبيرةً على كلّ شوكة مسدودة، حتّى آخر شوكة.
+فأخذت الغرفة الحمراء تصغر عن حدودها القديمة الباهتة، وتشتدّ جدرانها.
+ونهض الحارس يطرد الضيوف واحدًا بعد واحد، وعدّاده النحاسيّ يصعد بسرعة.
+«الغرفة صغرت، والحارس صار أقوى!» صاح لوفي.
+فابتسم سانجي وهو يضع آخر ورقة، وقال حلمه القديم:
+quote: «سأجد البحر الأزرق الكلّيّ!»
+source: سانجي
+explanation:
+In ischaemic heart disease, complete revascularization leads to reverse remodelling: the left ventricular ejection fraction rises and the end-diastolic volume falls: B is the answer.
+The more completely the ischaemic muscle is revascularized, the more of it recovers.
+Recovery after valve operations is slower and less predictable than the other statements claim.
+Memory hook: cabbage on every spike, and the swollen red room shrinks while the bouncer throws out more guests.
+
+
+== 115
+# book 23.5: myocardial function -> B, diastole is more energy-dependent than systole.
+# the huge fan of the red engine room pushing (systole) and then pulled back open to rest (diastole) -> the cardiac cycle (ventricle = fan, audited)
+# ANSWER: two stokers shovelling coal: a HUGE pile shovelled at the moment the fan is pulled back open to relax, a small pile when it pushes -> relaxation costs more energy than contraction
+# the furnace fed mostly from barrels of oil, a few sugar cubes aside -> the main fuel is fatty acids, not glucose (A is wrong)
+title: Diastole is more energy-dependent than systole
+titleAr: الانبساط يعتمد على الطاقة أكثر من الانقباض
+tags: cardiac/foundations d:physiology q:recall l:2 x:trap
+palette: furnace orange, coal black and oil amber
+keywords: systole and diastole -> the huge fan of the red engine room pushing, then being pulled back open to rest; diastole needs more energy -> two stokers: a HUGE pile of coal shovelled at the moment the fan is pulled back open, only a small pile when it pushes; fatty acids, not glucose -> the furnace fed mostly from barrels of oil, a few sugar cubes left aside
+must: the BIGGER coal pile goes with the RELAXING (opening) moment
+scene: The red engine room of the old hotel with a stag's head, furnace glowing orange. The huge fan has two moments drawn side by side: on the left it pushes hard, on the right it is being pulled back open to rest. CENTRE, dominant and brightest: on the right, a stoker shovels a huge mountain of coal into the furnace just as the fan is pulled back open, while on the left another stoker shovels only a small pile as it pushes. Big barrels of oil feed the furnace, and a few sugar cubes sit aside on a shelf.
+story:
+في غرفة المحرّك الحمراء، كان الفرن يتوهّج برتقاليًّا، والمروحة العملاقة تعمل بحركتين.
+تدفع بقوّة، ثمّ تشدّ إلى الوراء لتنفتح وتستريح.
+«الدفع هو العمل الحقيقيّ! كلّ الفحم للدّفع!» قال أوسوب.
+فجرّبوا ذلك، فعلقت المروحة نصف مفتوحة، لا تستريح ولا تدفع.
+فوقف وقّادان عند الفرن.
+فإذا دفعت المروحة، ألقى الأوّل في الفرن كومةً صغيرة.
+وإذا شدّت إلى الوراء لتنفتح، ألقى الثاني جبلًا كاملًا من الفحم.
+فعادت المروحة تنفتح واسعةً، ثمّ تدفع قويّة.
+«الراحة تأكل أكثر! مثلي تمامًا حين أنام!» قال لوفي وهو يضحك.
+وكان الفرن يأكل من براميل الزيت أكثر ممّا يأكل من قطع السكّر على الرفّ.
+فلمّا انفتحت المروحة واستراحت، صاح لوفي فيها:
+quote: «معركتنا لم تنته بعد! سنعود ونتقاتل من جديد!»
+source: مونكي دي لوفي
+explanation:
+Diastole is more energy dependent than systole: B is the answer.
+Relaxation needs energy to pump calcium back into the sarcoplasmic reticulum and to release the actin and myosin cross-bridges.
+The main fuel of the heart is fatty acids, not glucose, and a thicker wall lowers wall stress rather than raising it.
+Memory hook: the biggest pile of coal goes in when the fan is pulled open to rest, and the furnace runs on oil barrels, not sugar.
+
+
+== 116
+# book 24.1: who pioneered cross-circulation -> C, Lillehei.
+# a parent and a child on two beds side by side, joined by two hoses, the parent's hotel pumping for both -> cross-circulation (the parent as the heart-lung machine)
+# ANSWER: a white lily growing out of a bale of hay at the foot of the beds -> Lillehei (keyword: LILLE-HEI -> lily + hay)
+# a gibbon ape cranking a roller-pump truck far behind -> Gibbon built the heart-lung machine, not cross-circulation (A is wrong)
+title: Lillehei pioneered cross-circulation
+titleAr: ليليهاي رائد الدوران المتصالب
+tags: cardiac/cpb d:evidence q:recall l:2
+palette: lily white, hay gold and hose red
+keywords: cross-circulation -> a parent and a child on two beds side by side, joined by two hoses, the parent's small hotel with a stag's head pumping for both; Lillehei -> a white lily growing out of a bale of hay at the foot of the beds (LILLE-HEI = lily + hay); Gibbon and the heart-lung machine -> a gibbon ape cranking a roller-pump truck far in the background
+must: the TWO hoses join parent and child; the lily grows out of the hay bale
+scene: A clean white infirmary on a Grand Line island. CENTRE, dominant and brightest: a father and his small son lie on two beds side by side, joined by two red hoses, and a little hotel with a stag's head drawn on the father's chest pumps for both; at the foot of the beds a big white lily grows out of a bale of golden hay. FAR BACKGROUND: a gibbon ape cranks a roller-pump truck. Tony Tony Chopper, the little reindeer doctor, watches the hoses in awe.
+story:
+في مستوصف أبيض على جزيرة من الغراند لاين، كان الفندق الصغير في صدر ولد صغير يحتاج أن يسكت ليصلح.
+وكانت الشاحنة ذات المضخّة الدوّارة بعيدةً، يديرها قرد جيبون، ولم تكتمل بعد.
+فانتظروها يومًا ويومين، والولد يضعف.
+فاستلقى أبوه على سرير بجانبه، ووصلوا بينهما خرطومين أحمرين.
+فصار الفندق الصغير في صدر الأب يضخّ له ولابنه معًا.
+وعند طرف السريرين، نبتت زنبقة بيضاء كبيرة من حزمة قشّ ذهبيّ.
+«زنبقة، ليلي، في قشّ، هاي: ليليهاي!» قال تشوبر مدهوشًا.
+وراقب تشوبر الخرطومين، والدّم يمضي ويعود بين الأب وابنه.
+وفي آخر الليل، كان الولد يتنفّس، والأب يبتسم له متعبًا.
+فتذكّرت نامي أمّها بيلمير، الّتي أعطت كلّ شيء لابنتيها، وكلمتها الأخيرة:
+quote: «نامي، نوجيكو... أحبّكما!»
+source: بيلمير
+explanation:
+Walton Lillehei pioneered controlled cross-circulation in 1954, using a parent's heart and lungs to support a child during open heart repair: C is the answer.
+Gibbon performed the first successful operation with a heart-lung machine in 1953, and Bigelow pioneered hypothermia.
+Kirklin developed the pump oxygenator further at the Mayo Clinic.
+Memory hook: a lily grows out of the hay, Lille-hei, while the father pumps for his son.
+
+
+== 117
+# book 24.2: NOT an advantage of a roller pump over a centrifugal pump -> D, generation of microparticles.
+# a rolling pin squeezing a tube to push water along -> the roller pump
+# a spinning cone flinging water outward -> the centrifugal pump
+# ANSWER: the roller's squeezed tube shedding tiny white flakes into the water -> microparticles are a DISADVANTAGE of the roller pump
+# a small price tag and a small bucket of priming water beside the roller -> lower cost and low priming volume ARE advantages
+title: Microparticles from the tubing are a drawback, not an advantage, of the roller pump
+titleAr: الجسيمات الدقيقة من الأنبوب عيب للمضخّة الأسطوانية لا ميزة لها
+tags: cardiac/cpb d:technique q:recall l:3
+palette: tube clear, flake white and pump steel
+keywords: roller pump -> a big rolling pin squeezing a clear tube to push water along; centrifugal pump -> a spinning cone flinging water outward; microparticles -> the squeezed tube shedding tiny white flakes into the water; lower cost and low priming volume -> a small price tag and a small bucket of priming water beside the roller
+must: the white flakes come from the ROLLER's squeezed tube
+scene: Franky's workshop. LEFT: a big rolling pin rolls along a clear tube, squeezing water forward, a small price tag and a small bucket of water beside it. RIGHT: a spinning cone flings water outward in a smooth whirl. CENTRE, dominant and brightest: where the rolling pin squeezes, the tube sheds a cloud of tiny white flakes into the water, and Franky, the blue-haired cyborg shipwright, frowns at them through a magnifier.
+story:
+في ورشة فرانكي، وضعت مضخّتان جنبًا إلى جنب.
+الأولى شوبك كبير يتدحرج على أنبوب شفّاف، فيعصره ويدفع الماء إلى الأمام، وبجانبه بطاقة ثمن صغيرة ودلو ماء صغير.
+والثّانية مخروط يدور، فيقذف الماء إلى الخارج في دوّامة ناعمة.
+«الشوبك رخيص وصغير، فهو الأفضل في كلّ شيء!» قال أوسوب.
+فأخذ فرانكي عدسته المكبّرة، ونظر حيث يعصر الشوبك الأنبوب.
+فرأى سحابةً من رقائق بيضاء صغيرة تتساقط من الأنبوب في الماء.
+«الثمن الصغير ميزة، والدّلو الصغير ميزة، أمّا هذه الرقائق فعيبه هو!» قال فرانكي عابسًا.
+وظلّ المخروط يدور بهدوء، لا رقائق في دوّامته.
+«لكلّ مضخّة ما تحسنه وما لا تحسنه!» قال لوفي ضاحكًا.
+كما قال لوفي يومًا عن نفسه:
+quote: «لا أعرف المبارزة، ولا الملاحة، ولا الطبخ، ولا الكذب... أعرف أنّي أحتاج إلى غيري لأبقى حيًّا!»
+source: مونكي دي لوفي
+explanation:
+A roller pump is cheap, needs a low priming volume, keeps its flow despite changes in afterload, and can generate pulsatile flow.
+Squeezing the tubing sheds microparticles from its wall, and that is a disadvantage, not an advantage: D is the answer.
+Centrifugal pumps cause less blood trauma and cannot pump large volumes of air.
+Memory hook: the rolling pin is cheap and needs only a small bucket, but its squeezed tube sheds white flakes.
+
+
+== 118
+# book 24.3: NOT an advantage of an open venous reservoir over a closed one -> D, minimizing the air-blood interface.
+# an open bucket and a closed soft bag both collecting blue water -> open versus closed venous reservoir
+# ANSWER: in the open bucket, air touches the whole water surface and bubbles swirl into it -> the open reservoir INCREASES, not minimizes, the air-blood contact
+# a measuring scale on the bucket, a vent letting air out, its bigger size and a small price tag -> easier volume reading, easier air handling, larger capacity, lower cost ARE advantages
+title: An open venous reservoir increases, not minimizes, the air-blood interface
+titleAr: الخزّان الوريدي المفتوح يزيد تماسّ الهواء بالدم ولا يقلّله
+tags: cardiac/cpb d:technique q:recall l:3
+palette: bucket steel, bubble white and venous blue
+keywords: open venous reservoir -> an open steel bucket collecting blue water, with a measuring scale on its side, an air vent and a small price tag; closed venous reservoir -> a closed soft bag collecting blue water; air-blood interface -> in the open bucket air touching the whole water surface and bubbles swirling into it, while the bag holds no air
+must: air and bubbles touch the water in the OPEN bucket; the closed bag holds no air
+scene: The cardiac cabin of a ship. LEFT: a closed soft bag hangs, full of blue water, with no air inside. CENTRE, dominant and brightest: a big open steel bucket collects blue water from a hose; air touches its whole surface and bubbles swirl down into the water, while a measuring scale on its side, an air vent and a small price tag show its other qualities. Usopp, the long-nosed sniper, leans over the bucket blowing at the bubbles.
+story:
+في غرفة القلب على السفينة، كان ماء أزرق يتجمّع في وعاءين.
+الأوّل كيس طريّ مغلق، معلّق على اليسار، لا هواء فيه أبدًا.
+والثّاني دلو فولاذيّ كبير مفتوح، يصبّ فيه خرطوم.
+على جنبه مقياس يقرأ الكمّيّة، وفتحة يخرج منها الهواء، وبطاقة ثمن صغيرة.
+«الدلو أكبر وأرخص، ونقرأ فيه الكمّيّة بسهولة!» قالت نامي.
+لكنّ أوسوب انحنى فوق الدلو ينفخ فيه.
+فإذا بالهواء يلمس سطح الماء كلّه، والفقاعات تدور وتغوص فيه.
+«الدلو المفتوح يجعل الهواء يلمس الماء أكثر، لا أقلّ!» قال تشوبر.
+ثمّ حاول أوسوب أن ينفخ في الكيس المغلق، فلم يجد فيه فتحةً واحدة.
+فتراجع، وتظاهر بالمرض كعادته، وصاح:
+quote: «عندي مرض لا أستطيع دخول هذه الجزيرة!»
+source: أوسوب
+explanation:
+An open venous reservoir makes volume measurement easier, handles venous air more easily, holds more and costs less.
+It does not minimize the air-blood interface; it increases it, and that contact activates the blood: D is the answer.
+A closed, collapsible bag keeps air away from the blood.
+Memory hook: in the open bucket the air touches all the water, while the closed bag holds no air at all.
+
+
+== 119
+# book 24.4: NOT an advantage of centrifugal cell-saving over cardiotomy suction -> E, reduced haemodilution.
+# a washing machine spinning red beads clean and throwing away the dirty water -> centrifugal cell saving
+# a vacuum hose slurping everything, dirt and all, straight back into the pipes -> cardiotomy suction
+# the washed beads clean of grit, a calm brain-shaped cloud, a clear field -> fewer microparticles, less inflammation, fewer neuropsychological deficits, better visibility ARE advantages
+# ANSWER: the washed beads come back in a jug of plain water, pale pink, not thicker -> cell saving does NOT reduce haemodilution
+title: Cell saving does not reduce haemodilution compared with cardiotomy suction
+titleAr: إنقاذ الخلايا لا يقلّل تمديد الدم مقارنةً بشفط فتح القلب
+tags: cardiac/cpb d:technique q:recall l:3 x:trap
+palette: washing-machine white, bead red and pale pink
+keywords: centrifugal cell saving -> a washing machine spinning red beads clean and throwing the dirty water away; cardiotomy suction -> a vacuum hose slurping everything, dirt and all, straight back into the pipes; advantages -> the washed beads free of grit and the field clear; no reduction of haemodilution -> the washed beads coming back in a jug of plain water, pale pink, no thicker than before
+must: the returned jug is PALE PINK, watery
+scene: The laundry room of the Thousand Sunny. LEFT: a vacuum hose slurps up red beads together with grit and dirt and sends it all straight back into a pipe. CENTRE: a washing machine spins red beads clean and throws the dirty grey water away. RIGHT, dominant and brightest: the washed beads come back out in a big jug of plain water that is only pale pink, and Nami, the orange-haired navigator, holds it up to the light with a doubtful frown.
+story:
+في غرفة الغسيل على الثاوزند صني، كان خرطوم مكنسة يشفط خرزًا أحمر، ومعه الحصى والوسخ.
+ويعيد ذلك كلّه إلى الأنابيب مباشرة.
+وبجانبه غسّالة تدور، تغسل الخرز الأحمر نظيفًا، وترمي الماء الرماديّ الوسخ.
+«خرز نظيف بلا حصى، وميدان صاف نرى فيه كلّ شيء!» قال سانجي معجبًا.
+«إذن سيعود الخرز أيضًا أثخن وأحمر، أليس كذلك؟» قالت نامي.
+ففتحت الغسّالة، وخرج الخرز المغسول في إبريق كبير من الماء الصافي.
+ورفعت نامي الإبريق إلى الضوء، فإذا هو ورديّ باهت، ليس أثخن ممّا كان.
+«نظيف نعم، لكنّه ليس أثخن!» قالت نامي عابسة.
+فكتبت روبين كلّ شيء كما هو، ما تحسنه الغسّالة وما لا تحسنه.
+فهي لا ترضى إلّا بالحقيقة كاملة، كما قالت يومًا:
+quote: «أريد أن أعرف التاريخ الحقيقيّ لهذا العالم!»
+source: نيكو روبين
+explanation:
+Centrifugal cell saving washes shed blood and removes fat, microparticles and activated substances.
+Compared with returning cardiotomy suction blood directly, it reduces inflammation and neuropsychological deficits and gives a clearer field.
+Reduced hemodilution is not one of its advantages: the washed red cells come back suspended in saline, and plasma and platelets are lost: E is the answer.
+Memory hook: the washed beads come back clean, but in a pale pink jug of water, no thicker than before.
+
+
+== 120
+# book 24.5: alpha-stat management -> C, cerebral blood flow keeps its autoregulation.
+# snow falling on the hotel and on a head-shaped lantern above it -> cooling on bypass
+# ANSWER: a grey alpha wolf, leader of its pack, leaving the gas tanks closed while a self-turning valve at the head's inlet keeps the flow steady by itself -> alpha-stat keeps cerebral autoregulation (keyword: ALPHA -> the alpha wolf)
+# a man on the other side pumping extra CO2 gas into the head, the flow rushing and tiny black pebbles riding in with it -> pH-stat adds CO2, raises cerebral flow and emboli (D and E are wrong)
+title: Alpha-stat management preserves autoregulation of cerebral blood flow
+titleAr: إدارة ألفا-ستات تحافظ على التنظيم الذاتي لجريان الدم الدماغي
+tags: cardiac/cpb d:physiology q:recall l:3
+palette: snow blue, wolf grey and gas-tank yellow
+keywords: cooling on bypass -> snow falling on the hotel and on a head-shaped lantern above it; alpha-stat -> a grey alpha wolf, leader of its pack, leaving the yellow gas tanks closed; cerebral autoregulation -> a self-turning valve at the inlet of the head-shaped lantern keeping its flow steady by itself; pH-stat -> a man on the other side pumping extra CO2 gas into a second head lantern, the flow rushing in with tiny black pebbles
+must: the alpha wolf's tanks stay CLOSED and the self-turning valve keeps the flow STEADY
+scene: A snowy night on a winter island, snow falling on a small hotel with a stag's head; above it hangs a glowing lantern shaped like a head, fed by a pipe. CENTRE, dominant and brightest: a big grey alpha wolf sits beside two yellow gas tanks, leaving them closed, and a brass valve at the lantern's inlet turns by itself, keeping a calm, steady flow. RIGHT: a man pumps extra gas from a tank into a second head lantern, and its flow rushes in wildly, tiny black pebbles riding along. Chopper watches the wolf with admiration.
+story:
+في ليلة مثلجة على جزيرة شتويّة، تساقط الثلج على فندق صغير، وفوقه فانوس متوهّج على شكل رأس.
+وعلى اليمين، رجل يضخّ الغاز من خزّان أصفر في فانوس رأس آخر.
+فاندفع الجريان في فانوسه بجنون، وركبت معه حصًى سوداء صغيرة.
+أمّا في الوسط، فجلس ذئب رماديّ كبير، زعيم قطيعه، بجانب خزّانين أصفرين.
+فتركهما مغلقين، ولم يلمسهما.
+وعند مدخل فانوسه صمام نحاسيّ، يدور وحده، فيحفظ جريانًا هادئًا ثابتًا.
+«الذئب الزعيم لا يضخّ شيئًا، والصّمام يعرف عمله وحده!» قال تشوبر معجبًا.
+وظلّ فانوس الذئب يضيء بهدوء، والفانوس الآخر يرتجف.
+فأراد تشوبر أن يلحق بالذّئب ليتعلّم منه، فالتفت إلى الطبيبة العجوز الّتي ربّته.
+فقالت له من بين الثلوج:
+quote: «اذهب يا بنيّ!»
+source: الدكتورة كوريها
+explanation:
+In alpha-stat management, blood gases are measured at 37 degrees and kept at a pH of 7.40 without adding carbon dioxide during cooling.
+Cerebral blood flow keeps its autoregulation, matched to the brain's metabolism: C is the answer.
+pH-stat adds carbon dioxide to keep the pH at 7.40 at the patient's actual temperature; cerebral flow rises, autoregulation is lost and more microemboli reach the brain.
+Memory hook: the alpha wolf leaves the gas tanks closed, and the head's own valve keeps the flow steady.
+

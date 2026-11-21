@@ -1,0 +1,326 @@
+book: johns-hopkins-2016
+# Johns Hopkins 2016, lessons 141-150 = book questions 29.1-30.5 (reoperative CABG, carotid and coronary disease).
+# Heart = the HART Hotel (narrow old hotel, stag's head, cut open). Coronary arteries = the spikes of the green Liberty crown on its roof. Carotid = a big carrot pipe from the orca up to the head lantern.
+
+== 141
+# book 29.1: NOT an independent risk factor for recurrent angina after CABG -> D, diabetes.
+# a winged angel returning to hover over patients after cabbage surgery -> recurrent angina after CABG (audited)
+# the angel hovers over: a sailor with a stag's antler scar, a sailor whose crown holds only sapphire bridges, a sailor with one unbridged spike, a woman -> previous MI, vein grafts only, incomplete revascularization, female gender ARE risk factors
+# ANSWER: a man built of sugar cubes, the angel flying straight past him -> diabetes is not an independent risk factor
+title: Diabetes is not an independent risk factor for recurrent angina after CABG
+titleAr: السكري ليس عامل خطر مستقلًا لعودة الذبحة بعد المجازة
+tags: cardiac/coronary d:evidence q:recall l:3 x:trap
+palette: angel white, sugar crystal and cabbage green
+keywords: recurrent angina after coronary artery bypass -> a winged angel returning to hover over patients who wear cabbage leaves on their jackets; previous myocardial infarction -> a sailor with a stag's antler scar on his chest; vein grafts only -> a sailor whose small crown holds only sapphire bridges; incomplete revascularization -> a sailor whose crown still has one unbridged, tarred spike; female gender -> a woman sailor; diabetes -> a man built of sugar cubes, the angel flying straight past him
+must: the angel hovers over the four others and flies PAST the sugar-cube man
+scene: A sunny hospital garden where five patients with cabbage leaves on their jackets sit on a bench: a sailor with a stag's antler scar on his chest, a sailor whose little crown holds only sapphire bridges, a sailor whose crown still has one tarred spike, and a woman sailor. CENTRE, dominant and brightest: a winged angel glides low over these four, but flies straight past the fifth, a man built entirely of sugar cubes, who sparkles in the sun looking surprised. Chopper, the little reindeer doctor, takes notes.
+story:
+في حديقة مستشفًى مشمسة، جلس خمسة مرضى على مقعد طويل، على سترة كلّ منهم ورقة ملفوف.
+فإذا بملاك مجنّح يعود إليهم، يحوم منخفضًا فوق رؤوسهم.
+حام فوق بحّار على صدره ندبة قرن أيّل، وفوق بحّار ليس على تاجه الصغير إلّا جسور من الياقوت الأزرق.
+وحام فوق بحّار ما زالت في تاجه شوكة ملطّخة بالقطران، وفوق بحّارة امرأة.
+«الآن سيحوم فوق رجل السكّر بالتّأكيد!» قال أوسوب.
+فقد كان المريض الخامس رجلًا مبنيًّا كلّه من مكعّبات السكّر.
+لكنّ الملاك طار مباشرةً من فوقه دون أن يلتفت، ورجل السكّر يلمع في الشمس مندهشًا.
+«الملاك يعود إلى الأيّل والياقوت والقطران والمرأة؛ أمّا السكّر فيتجاوزه!» قال تشوبر وهو يدوّن.
+ثمّ عاد الملاك يحوم فوق المرأة، فقفز سانجي أمامها ليحميها.
+ولمّا اقترب الملاك منه، توقّفت رجل سانجي في الهواء، فالملاك أنثى، وصاح:
+quote: «لن أركل امرأةً أبدًا، حتّى لو كان في ذلك موتي!»
+source: سانجي
+explanation:
+Independent risk factors for recurrent angina after coronary bypass include a previous myocardial infarction, the use of vein grafts only, incomplete revascularization and female gender.
+Diabetes has not been identified as an independent risk factor for recurrent angina: D is the answer.
+Using an internal mammary artery graft and grafting every diseased vessel lower the risk.
+Memory hook: the angel returns to the stag scar, the sapphire bridges, the tarred spike and the woman, but flies straight past the sugar-cube man.
+
+
+== 142
+# book 29.2: predictor of reoperative CABG -> B, male gender.
+# a sailor climbing back onto the table, the stern on his chest to be sawn open a second time, new cabbage leaves ready -> reoperative CABG (sternotomy stern, audited)
+# ANSWER: the returning patients are all burly men with moustaches -> male gender
+# a younger man at his first operation; a sailor with a lima bean vine on his crown walking away healthy -> younger age predicts reoperation; the internal mammary graft protects (A and C are wrong)
+title: Male gender predicts reoperative CABG
+titleAr: الذكورة عامل تنبّؤ بإعادة جراحة المجازة التاجية
+tags: cardiac/coronary d:evidence q:recall l:3
+palette: stern wood, moustache black and cabbage green
+keywords: reoperative coronary artery bypass -> a sailor climbing back onto the operating table, the ship's stern on his chest about to be sawn open a second time, new cabbage leaves ready; male gender -> the returning sailor a burly man with a big moustache, the queue behind him all men; internal mammary artery protects -> a sailor with a lima bean vine on his crown walking away healthy
+must: the queue of returning patients is ALL men
+scene: The operating cabin of a hospital ship. CENTRE, dominant and brightest: a burly sailor with a big moustache climbs back onto the operating table, an old scar down the ship's stern drawn on his chest about to be sawn open a second time, fresh cabbage leaves waiting on a tray; behind him a queue of returning patients, all men with moustaches. RIGHT: a sailor with a lima bean vine on the little crown on his chest walks out the door, healthy and waving. Sanji holds the cabbage tray.
+story:
+في غرفة العمليّات على سفينة مستشفًى، تسلّق بحّار ضخم ذو شارب كبير إلى طاولة العمليّات من جديد.
+على صدره مؤخّرة سفينة عليها ندبة قديمة، ستنشر مرّةً ثانية، وأوراق ملفوف جديدة تنتظر على صينيّة.
+وخلفه طابور من العائدين، كلّهم رجال بشوارب.
+«لا بدّ أنّهم عادوا لأنّهم كبار في السنّ!» قالت نامي.
+فنظر سانجي إليهم، فإذا أكثرهم شبّان أقوياء.
+«ليسوا كبارًا؛ إنّهم رجال، كلّهم رجال!» قال سانجي وهو يحمل صينيّة الملفوف.
+وعند الباب، خرج بحّار على تاجه الصغير كرمة فول ليما، سليمًا يلوّح بيده، لا يعود أبدًا.
+«الكرمة تحميه، أمّا الرجال ذوو الشوارب فيعودون أكثر!» قال تشوبر.
+واستلقى البحّار الضخم على الطاولة، عنيدًا لا يخاف.
+فضحك لوفي، وقال كلمته القديمة:
+quote: «قرّرت أن أصبح ملك القراصنة، وإن متّ في سبيل ذلك فلا بأس!»
+source: مونكي دي لوفي
+explanation:
+Male gender is a predictor of reoperative coronary bypass: B is the answer.
+Younger, not older, age at the first operation predicts reoperation, because those patients live long enough for their grafts and native vessels to fail.
+Use of an internal mammary artery graft protects against reoperation, and single-vessel disease and preserved functional status do not predict it.
+Memory hook: the queue back to the operating table is all moustaches, while the lima vine walks out healthy.
+
+
+== 143
+# book 29.3: commonest cause of operative death in reoperative CABG -> A, myocardial infarction.
+# a row of coffins behind the hospital -> operative mortality (audited)
+# ANSWER: a stag with an arrow in its chest lying on the BIGGEST coffin -> MI (audited)
+# smaller coffins with a pirate hat, a puddle of blood, a split stern, a lightning bolt -> arrhythmia, bleeding, sternal dehiscence, stroke are less common
+title: Myocardial infarction is the commonest cause of operative death in redo CABG
+titleAr: احتشاء العضلة القلبية أشيع سبب للوفاة الجراحية في المجازة المعادة
+tags: cardiac/coronary d:complications q:recall l:2
+palette: graveyard grey, stag brown and arrow red
+keywords: operative mortality -> a row of coffins of different sizes behind the hospital; myocardial infarction -> a stag with an arrow in its chest lying on the BIGGEST coffin; arrhythmia, bleeding, sternal dehiscence and stroke -> smaller coffins with a pirate hat, a puddle of blood, a split ship's stern and a lightning bolt carved on them; reoperative CABG -> each coffin with a cabbage leaf and a stern scar carved on it
+must: the stag lies on the BIGGEST coffin
+scene: A misty graveyard behind a hospital on a Grand Line island at dusk, a row of coffins of different sizes, each with a cabbage leaf carved on its lid. CENTRE, dominant and brightest: on the biggest coffin lies a stag with an arrow in its chest. The smaller coffins carry a pirate hat, a puddle of blood, a split ship's stern and a lightning bolt. Brook, the skeleton musician, stands bowing his head with his top hat in hand.
+story:
+خلف مستشفًى على جزيرة من الغراند لاين، في مقبرة ضبابيّة عند الغسق، اصطفّت توابيت بأحجام مختلفة.
+وعلى غطاء كلّ تابوت ورقة ملفوف منقوشة.
+«لا بدّ أنّ النزيف صاحب أكبر تابوت!» قال أوسوب.
+لكنّ تابوت بقعة الدم كان صغيرًا.
+وكذلك تابوت قبّعة القرصان، وتابوت مؤخّرة السفينة المشقوقة، وتابوت الصاعقة.
+أمّا أكبر تابوت في الصفّ، فقد رقد عليه أيّل في صدره سهم.
+«الأيّل المصاب هو صاحب أكبر تابوت.» همس تشوبر.
+فوقف بروك، العازف الهيكليّ، يحني رأسه وقبّعته في يده.
+وعزف لحنًا هادئًا فوق التوابيت كلّها.
+وتذكّر تشوبر معلّمه الأوّل، وآخر ما قاله:
+quote: «لقد كانت حياةً جميلة!»
+source: الدكتور هيلولوك
+explanation:
+The commonest cause of operative death in reoperative coronary bypass is myocardial infarction: A is the answer.
+It can come from debris shed by diseased old vein grafts, from injury to patent grafts during re-entry, or from incomplete protection of the heart.
+Arrhythmias, bleeding, sternal dehiscence and stroke cause fewer deaths.
+Memory hook: the stag with the arrow lies on the biggest coffin.
+
+
+== 144
+# book 29.4: old vein grafts when a new arterial graft goes to the same vessel -> C, left in place.
+# an old, slightly worn sapphire bridge on a spike of the crown, crumbly with yellow flakes -> the old vein graft (audited)
+# a fresh lima bean vine growing to the same spike -> the new internal mammary artery graft (audited)
+# ANSWER: the old sapphire bridge left exactly where it is, Sanji tying the vine beside it and touching nothing -> leave old vein grafts in place (handling them can shake loose debris)
+title: Leave old vein grafts in place when adding a new arterial graft
+titleAr: اترك طعوم الوريد القديمة مكانها عند وضع طعم شرياني جديد
+tags: cardiac/coronary d:technique q:recall l:3
+palette: sapphire blue, lima green and flake yellow
+keywords: old vein graft -> an old, worn sapphire bridge on a spike of the crown, crumbly with yellow flakes; new internal mammary artery graft -> a fresh lima bean vine growing to the same spike; left in place -> the old sapphire bridge left exactly where it is, Sanji tying the vine beside it with his hands held well away from the old bridge
+must: NOBODY touches the old sapphire bridge
+scene: The roof of the old hotel with a stag's head over its door, a green crown on it. On one spike an old, worn sapphire bridge sits crumbly with yellow flakes. CENTRE, dominant and brightest: Sanji, the blond cook, ties a fresh lima bean vine to the same spike right beside the old bridge, holding his elbows high so nothing touches it, while a few yellow flakes hang in the air. Robin watches, a finger to her lips.
+story:
+على سطح الفندق القديم، في شوكة من شوكات التاج الأخضر، جسر قديم من الياقوت الأزرق.
+كان الجسر متآكلًا، تتفتّت منه رقائق صفراء.
+«نقطع الجسر القديم ونرميه، ثمّ نبني الجديد!» قال زورو، ويده على سيفه.
+فلمّا اقترب منه، تطايرت الرقائق الصفراء في الهواء، وانسابت إلى داخل الشوكة.
+«لا تلمسه يا زورو، كلّ لمسة ترسل رقائقه إلى الداخل.» همست روبين وإصبعها على شفتيها.
+فجاء سانجي بكرمة فول ليما جديدة، وربطها في الشوكة نفسها بجانب الجسر القديم.
+ورفع مرفقيه عاليًا، فلم يلمس الجسر القديم أبدًا.
+«الجسر القديم يبقى في مكانه، والكرمة الجديدة بجانبه!» قال تشوبر.
+وظلّ الجسر القديم على حاله، والكرمة الخضراء تنمو قربه.
+فوقف سانجي بين زورو والجسر، كما وقف قرصان أحمر الشعر يومًا بين جيشين، وقال:
+quote: «جئت لأنهي هذه الحرب!»
+source: شانكس
+explanation:
+When a new arterial graft is placed on a vessel already bypassed with a vein graft, the old vein graft should be left in place: C is the answer.
+Old vein grafts are often filled with soft, crumbly atheroma, and handling, dividing or excising them can send debris into the coronary artery.
+Leaving them alone avoids that risk, and the new arterial graft takes over as the old graft fails.
+Memory hook: Sanji ties the new lima vine beside the crumbly sapphire bridge with his elbows held high.
+
+
+== 145
+# book 29.5: NOT used to assess myocardial viability before redo CABG -> D, coronary angiography.
+# a brown bear asleep in the red engine room -> hibernating myocardium whose viability is checked (audited)
+# a glowing green lamp, a giant horseshoe magnet, a doberman barking while a bat listens, a glowing puppy sniffing the bear -> nuclear stress test, MRI, dobutamine echo, PET all test viability (audited)
+# ANSWER: a photographer pouring dark dye into the crown and photographing only its pipes, his back to the bear -> coronary angiography shows the arteries, not whether the muscle is alive
+title: Coronary angiography does not assess myocardial viability
+titleAr: تصوير الشرايين التاجية لا يقيّم حيوية العضلة القلبية
+tags: cardiac/coronary d:diagnosis q:recall l:3 x:trap
+palette: cave brown, dye black and puppy glow
+keywords: hibernating myocardium -> a brown bear asleep in the red engine room; nuclear stress testing -> a glowing green lamp shining on the bear; magnetic resonance imaging -> a giant horseshoe magnet hanging over the room; dobutamine echocardiography -> a doberman barking to wake the bear while a bat listens to its breathing; cardiac PET scanning -> a glowing puppy sniffing the bear; coronary angiography -> a photographer pouring dark dye into the crown on the roof and photographing only its pipes, his back to the bear
+must: the photographer's BACK is turned to the bear
+scene: The cut-open old hotel with a stag's head over its door. In the red engine room a brown bear sleeps beside the fan, and around it a glowing green lamp shines, a giant horseshoe magnet hangs, a doberman barks while a bat listens to the bear's breathing, and a glowing puppy sniffs its paw. CENTRE, dominant and brightest: on the roof, a photographer pours dark dye into the green crown and snaps pictures of its pipes only, his back turned to the bear. Usopp shouts at him from below, pointing at the bear.
+story:
+في الفندق القديم ذي رأس الأيّل، نام دبّ بنّيّ بجانب المروحة في الغرفة الحمراء.
+وأراد الرفاق أن يعرفوا: أهو حيّ نائم، أم ميّت لا يعود؟
+فأضاء عليه مصباح أخضر متوهّج، وتدلّى فوقه مغناطيس عملاق على شكل حدوة.
+ونبح كلب دوبرمان ليوقظه، وخفّاش يسمع أنفاسه، وجرو متوهّج يشمّ مخلبه.
+«كلّهم يسألون الدبّ نفسه: هل أنت حيّ؟» قال تشوبر.
+أمّا على السطح، فوقف مصوّر يصبّ صبغًا داكنًا في التاج الأخضر.
+ويلتقط صورًا لأنابيبه فقط، وظهره إلى الدبّ.
+«صورك ترينا الأنابيب، لا الدبّ! أهو حيّ أم لا؟» صاح أوسوب من الأسفل.
+فلم يلتفت المصوّر، واستمرّ يصوّر الأنابيب.
+فقال له تشوبر ما قاله القرصان ذو اللحية البيضاء لمن ظنّ نفسه المنتظر:
+quote: «لست أنت الرجل الّذي ينتظره روجر!»
+source: إدوارد نيوغيت (اللحية البيضاء)
+explanation:
+Myocardial viability before reoperation is assessed with nuclear stress imaging, magnetic resonance imaging, dobutamine echocardiography and cardiac PET scanning.
+Coronary angiography shows the anatomy of the arteries and grafts, not whether the muscle they supply is alive: D is the answer.
+Viable but hibernating muscle is worth revascularizing; scar is not.
+Memory hook: the lamp, the magnet, the doberman with the bat and the glowing puppy all examine the bear, while the photographer photographs only the pipes.
+
+
+== 146
+# book 30.1: perioperative stroke -> D, carotid disease is a risk factor for aortic arch atherosclerosis.
+# a big carrot pipe rising to the head-shaped lantern, crusted with black tar -> carotid disease (audited)
+# ANSWER: the arching back of the orca from which the carrot rises, crusted with the same black tar, a tar trail linking them -> aortic arch atherosclerosis goes with it
+title: Carotid disease is a risk factor for aortic arch atherosclerosis
+titleAr: مرض الشريان السباتي عامل خطر لتصلّب قوس الأبهر
+tags: cardiac/coronary vascular/carotid d:pathology q:recall l:3
+palette: carrot orange, tar black and orca black-and-white
+keywords: carotid disease -> a big orange carrot pipe rising to the head-shaped lantern, crusted with black tar; aortic arch atherosclerosis -> the arching back of the orca from which the carrot rises, crusted with the same black tar; risk factor -> a black tar trail running down from the carrot onto the orca's arch
+must: the SAME tar coats both the carrot and the orca's arch
+scene: Beside the old hotel with a stag's head over its door, a big orca arches out of the hotel, and from the top of its arching back a big orange carrot pipe rises to a glowing lantern shaped like a head. CENTRE, dominant and brightest: the carrot is crusted with black tar, and a trail of the same tar runs down onto the orca's arching back, which is crusted too. Chopper scrapes a sample of the tar into a jar.
+story:
+بجانب الفندق القديم، كان حوت قاتل كبير يخرج منه مقوّسًا.
+ومن أعلى ظهره المقوّس تصعد جزرة برتقاليّة كبيرة كالأنبوب، إلى فانوس على شكل رأس.
+وكانت الجزرة مغطّاةً بقشرة من القطران الأسود.
+«القطران على الجزرة وحدها، أمّا الحوت فنظيف بالتّأكيد!» قال فرانكي.
+لكنّ تشوبر تتبّع بعينيه خيطًا من القطران، ينزل من الجزرة إلى ظهر الحوت.
+فإذا ظهر الحوت المقوّس مغطًّى بالقطران نفسه.
+«حيث تتلطّخ الجزرة، يتلطّخ ظهر الحوت أيضًا!» قال تشوبر.
+فكشط عيّنةً من القطران في جرّة زجاجيّة، ورفعها إلى الضوء.
+وكان أوسوب قد رأى خيط القطران قبل الجميع من بعيد.
+فلبس قناعه، وصاح:
+quote: «أنا سوغيكينغ، ملك القنّاصين!»
+source: أوسوب
+explanation:
+Carotid disease is a risk factor for, and a marker of, atherosclerosis of the aortic arch: D is the answer.
+Emboli from the diseased aorta are a major cause of stroke after coronary bypass, so most patients with a perioperative stroke do not have significant carotid disease.
+The risk of stroke rises with the degree of carotid disease and is highest with an occluded carotid artery.
+Memory hook: the tar on the carrot runs down onto the orca's arching back.
+
+
+== 147
+# book 30.2: lowest incidence of stroke -> B, carotid endarterectomy first, then CABG.
+# ANSWER part 1: on the first step of a staircase, Zoro scraping the tar out of a big carrot pipe -> carotid endarterectomy first (audited)
+# ANSWER part 2: on the second step, Sanji laying cabbage leaves on the crown -> then CABG (audited)
+# the head lantern above glowing calm, no lightning near it -> lowest stroke (audited)
+title: Carotid endarterectomy first, then CABG: the lowest stroke rate
+titleAr: استئصال بطانة السباتي أولًا ثم المجازة: أقلّ نسبة للسكتة
+tags: cardiac/coronary vascular/carotid d:evidence q:recall l:3 x:trap
+palette: carrot orange, cabbage green and calm lantern gold
+words: 1 2
+keywords: carotid endarterectomy first -> on step 1 of a staircase, Zoro scraping the tar out of a big carrot pipe; then CABG -> on step 2, Sanji laying cabbage leaves on the crown of a small hotel; lowest stroke -> the head-shaped lantern above glowing calm, no lightning anywhere near it
+must: the CARROT is on step 1, the CABBAGE on step 2
+scene: A grand staircase on a sunny island with two big steps marked 1 and 2. CENTRE, dominant and brightest: on step 1 Zoro scrapes the black tar out of a big orange carrot pipe with the back of his sword; on step 2 Sanji lays cabbage leaves on the green crown of a small hotel with a stag's head. Above the stairs a glowing lantern shaped like a head shines calm and steady, the sky around it clear, no lightning anywhere.
+story:
+على جزيرة مشمسة، سلّم عظيم بدرجتين كبيرتين، مكتوب عليهما واحد، واثنان.
+وفوق السلّم فانوس متوهّج على شكل رأس.
+«الملفوف أوّلًا! الفندق أهمّ من كلّ شيء!» قال سانجي.
+فلمّا جرّبوا ذلك على نموذج صغير، ومض برق قرب فانوس الرأس.
+فصعد زورو إلى الدرجة الأولى، وكشط القطران الأسود من الجزرة البرتقاليّة بظهر سيفه.
+ثمّ صعد سانجي إلى الدرجة الثانية، ووضع أوراق الملفوف على تاج فندق صغير.
+فظلّ فانوس الرأس يضيء هادئًا ثابتًا، والسّماء حوله صافية، لا برق فيها.
+«الجزرة أوّلًا، ثمّ الملفوف، فلا يقترب البرق من الرأس!» قال لوفي.
+فنزل زورو عن الدرجة الأولى، يمسح سيفه.
+وسأله أوسوب ألم يخف أن يكون أوّل من يصعد، فقال زورو:
+quote: «يوم قرّرت أن أصبح أعظم مبارز في العالم، تخلّيت عن حياتي!»
+source: رورونوا زورو
+explanation:
+When a patient needs both carotid endarterectomy and coronary bypass, the staged approach of endarterectomy first, then bypass, has the lowest incidence of stroke: B is the answer.
+Bypass first carries a higher stroke rate, and the synchronous operation lies in between.
+The choice depends on which disease is more urgent and more symptomatic.
+Memory hook: the carrot on step 1, the cabbage on step 2, and the head lantern stays calm.
+
+
+== 148
+# book 30.3: lowest incidence of myocardial infarction -> C, CABG first, then carotid endarterectomy.
+# ANSWER part 1: on step 1, Sanji laying cabbage leaves on the crown -> CABG first (audited)
+# ANSWER part 2: on step 2, Zoro scraping the tar out of the carrot -> then carotid endarterectomy (audited)
+# a healthy stag grazing calmly beside the hotel, no arrow in it -> lowest MI (audited)
+title: CABG first, then carotid endarterectomy: the lowest heart-attack rate
+titleAr: المجازة أولًا ثم استئصال بطانة السباتي: أقلّ نسبة للاحتشاء
+tags: cardiac/coronary vascular/carotid d:evidence q:recall l:3 x:trap
+palette: cabbage green, carrot orange and meadow green
+words: 1 2
+keywords: CABG first -> on step 1 of a staircase, Sanji laying cabbage leaves on the crown of a small hotel; then carotid endarterectomy -> on step 2, Zoro scraping the tar out of a big carrot pipe; lowest myocardial infarction -> a healthy stag grazing calmly beside the hotel, no arrow in it
+must: the CABBAGE is on step 1, the CARROT on step 2; the stag is UNHARMED
+scene: The same grand staircase with two big steps marked 1 and 2, now in a green meadow. CENTRE, dominant and brightest: on step 1 Sanji lays cabbage leaves on the green crown of a small hotel with a stag's head; on step 2 Zoro scrapes the black tar out of a big orange carrot pipe. At the foot of the stairs a healthy stag grazes calmly, no arrow anywhere near it, and Luffy pats its neck.
+story:
+على السلّم العظيم نفسه، في مرج أخضر، درجتان كبيرتان مكتوب عليهما واحد، واثنان.
+وعند أسفل السلّم، يرعى أيّل هادئ قرب الفندق الصغير.
+«الجزرة أوّلًا كالمرّة الماضية!» قال زورو.
+فلمّا جرّبوا ذلك على نموذج صغير، طار سهم نحو أيّل صغير.
+«هذه المرّة نحمي الأيّل، فليبدأ الملفوف!» قالت نامي.
+فصعد سانجي إلى الدرجة الأولى، ووضع أوراق الملفوف على التاج الأخضر للفندق الصغير.
+ثمّ صعد زورو إلى الدرجة الثانية، وكشط القطران من الجزرة البرتقاليّة.
+وظلّ الأيّل يرعى بهدوء، لا سهم قربه، ولوفي يربّت على عنقه.
+«الملفوف أوّلًا، ثمّ الجزرة، فيسلم الأيّل!» قال تشوبر.
+ولو جاء سهم واحد، لكان لوفي جاهزًا له بقبضته، يصيح:
+quote: «غومو غومو نو... بيستول!»
+source: مونكي دي لوفي
+explanation:
+When a patient needs both operations, the staged approach of coronary bypass first, then carotid endarterectomy, has the lowest incidence of myocardial infarction: C is the answer.
+Endarterectomy first protects the brain but leaves the heart exposed, and carries the highest infarction rate.
+It is the mirror image of the stroke question: whichever organ is treated first is protected best.
+Memory hook: the cabbage on step 1, the carrot on step 2, and the stag grazes safely.
+
+
+== 149
+# book 30.4: carotid endarterectomy trials -> book key A, NASCET identified a 15 percent absolute reduction in stroke risk.
+# a big bird's nest built on top of a carrot pipe -> NASCET (keyword: NAS-CET sounds like "nest")
+# ANSWER: a sign reading 15 on the nest, and only a few lightning bolts reaching the head lantern where many struck before -> 15 percent absolute reduction in stroke (audited)
+# Zoro having scraped the carrot clean -> carotid endarterectomy (audited)
+title: NASCET (book): carotid endarterectomy cut stroke risk by about 15 percent
+titleAr: دراسة NASCET (حسب الكتاب): استئصال بطانة السباتي خفّض خطر السكتة نحو 15 بالمئة
+tags: vascular/carotid d:evidence q:numbers l:3
+palette: nest brown, carrot orange and storm violet
+words: 15
+note: In NASCET, for symptomatic stenosis of 70 to 99 percent, the 2-year stroke risk fell from 26 to 9 percent, an absolute reduction of about 17 percent; the book rounds it to 15.
+keywords: NASCET -> a big bird's nest built on top of a carrot pipe (NAS-CET sounds like nest); 15 percent absolute reduction in stroke -> a sign reading 15 on the nest, and only a few lightning bolts reaching the head-shaped lantern where many struck before; carotid endarterectomy -> Zoro having scraped the carrot pipe clean of its tar
+must: the sign shows 15; FEWER lightning bolts after
+scene: A stormy sky over an island. A big orange carrot pipe rises to a glowing lantern shaped like a head; the carrot has just been scraped clean of black tar, Zoro wiping his sword beside it. CENTRE, dominant and brightest: on top of the carrot a big bird's nest has been built, with a wooden sign reading 15 stuck in it; LEFT, before: many lightning bolts strike the head lantern; RIGHT, after: only a few bolts reach it. A seagull sits in the nest.
+story:
+تحت سماء عاصفة، تصعد جزرة برتقاليّة كبيرة إلى فانوس متوهّج على شكل رأس.
+وكانت الصواعق تضرب الفانوس كثيرًا.
+«الصواعق قدر، لا يوقفها أحد!» قال أوسوب.
+فكشط زورو الجزرة حتّى نظفت من القطران الأسود، ومسح سيفه بجانبها.
+وعلى رأس الجزرة، بنى طائر عشًّا كبيرًا، وغرست فيه لافتة خشبيّة مكتوب عليها خمسة عشر.
+«العشّ بالإنجليزيّة نست، وهذه هي ناسكت!» قال تشوبر.
+وبعد الكشط، صارت الصواعق الّتي تبلغ الفانوس قليلةً، أقلّ بكثير ممّا كانت.
+«خمسة عشر من كلّ مئة نجوا من الصاعقة!» قالت نامي.
+وجلس نورس في العشّ مطمئنًّا.
+فرفعت نامي عصاها نحو الغيوم تمزح، فهي وحدها من يرسل الصواعق على هذه السفينة، وصاحت:
+quote: «ثاندر بولت تيمبو!»
+source: نامي
+explanation:
+NASCET studied symptomatic patients with severe carotid stenosis and found that endarterectomy reduced the absolute risk of stroke by about 15 percent in the book's figure: A is the answer.
+ACAS, in asymptomatic stenosis, showed an absolute reduction of about 6 percent over 5 years, not 20 percent.
+CASANOVA did not show a significant benefit of endarterectomy.
+Memory hook: a nest on the carrot carries the sign 15, and far fewer bolts reach the head.
+
+
+== 150
+# book 30.5: carotid stenting compared with endarterectomy -> C, a lower incidence of cranial nerve injury.
+# a slinky spring pushed up inside the carrot through a long thin tube from far below -> carotid stenting (audited)
+# Zoro opening the neck with a blade to scrape the carrot, nicking one of the yellow strings beside it -> endarterectomy can injure cranial nerves
+# ANSWER: on the stenting side the yellow guitar strings in the neck stay untouched and humming -> less cranial nerve injury
+title: Carotid stenting causes fewer cranial nerve injuries than endarterectomy
+titleAr: دعامة الشريان السباتي تسبّب إصابات أقلّ للأعصاب القحفية من استئصال البطانة
+tags: vascular/carotid d:evidence q:recall l:3
+palette: carrot orange, string yellow and steel grey
+keywords: carotid stenting -> a slinky spring pushed up inside the carrot pipe through a long thin tube from far below; cranial nerve injury -> yellow guitar strings running beside the carrot in the neck, one snapped; carotid endarterectomy -> Zoro opening the neck with a blade to scrape the carrot, nicking one of the yellow strings; lower incidence -> on the stenting side the yellow strings stay untouched and humming
+must: on the SLINKY side the strings are whole; on the BLADE side one string snaps
+scene: A split panel of two necks drawn like open cabinets, each with a big orange carrot pipe running up through it and yellow guitar strings beside it. LEFT: Zoro opens the cabinet with a blade to scrape the carrot, and one yellow string snaps with a twang. CENTRE-RIGHT, dominant and brightest: a slinky spring is pushed up inside the other carrot through a long thin tube from far below, and all its yellow strings stay untouched, humming softly. Brook plays the whole strings with a smile.
+story:
+في لوحة مقسومة نصفين، عنقان مرسومان كخزانتين مفتوحتين.
+في كلّ منهما جزرة برتقاليّة كبيرة تصعد كالأنبوب، وبجانبها أوتار جيتار صفراء.
+على اليسار، فتح زورو الخزانة بشفرته ليكشط الجزرة.
+فأصابت الشفرة وترًا أصفر، فانقطع وهو يرنّ.
+«هذه الأوتار قريبة جدًّا من الجزرة!» قال زورو.
+وعلى اليمين، دفع زنبرك لولبيّ إلى داخل الجزرة الأخرى، عبر أنبوب رفيع طويل من بعيد تحت.
+فلم تفتح الخزانة أبدًا، وبقيت أوتارها الصفراء كلّها سليمةً تدندن بهدوء.
+«الزنبرك من الداخل، فلا يلمس الأوتار!» قال تشوبر.
+فجاء بروك، ومرّر أصابعه العظميّة على الأوتار السليمة.
+فعزف عليها أغنية القراصنة القديمة، وغنّى:
+quote: «يو هو هو هو، يو هو هو هو... سنحمل شراب بينكس!»
+source: بروك
+explanation:
+Compared with endarterectomy, carotid stenting has a lower incidence of cranial nerve injury, because there is no incision in the neck: C is the answer.
+Stenting has a higher rate of periprocedural stroke and a lower rate of myocardial infarction.
+Intermediate-term outcomes, and the need for repeat carotid procedures, are similar.
+Memory hook: Zoro's blade snaps a yellow string, while the slinky slides up inside the carrot and leaves every string humming.
+
