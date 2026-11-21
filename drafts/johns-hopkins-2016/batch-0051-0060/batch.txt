@@ -12,7 +12,7 @@ titleAr: مرور 10 سنوات دون سرطان لا يمنع زرع الرئ�
 tags: thoracic/transplant d:indications q:recall l:2
 palette: harbour blue, fresh dollar green and bleached bone white
 words: 10
-keywords: lung transplantation -> Chopper handing a brand-new sack of green dollar bills to an old sailor at the gangway; malignancy 10 years ago -> an empty bleached crab shell lying under a calendar painted 10; current tobacco use -> a man puffing a cigar stopped at the gangway by a raised hoof; uncorrectable coronary artery disease -> a green Statue of Liberty crown clogged with black tar, turned back
+keywords: new lungs (lung transplantation, drawn before the transplant symbol existed) -> Chopper handing a brand-new sack of green dollar bills to an old sailor at the gangway; malignancy 10 years ago -> an empty bleached crab shell lying under a calendar painted 10; current tobacco use -> a man puffing a cigar stopped at the gangway by a raised hoof; uncorrectable coronary artery disease -> a green Statue of Liberty crown clogged with black tar, turned back
 must: the old sailor with the empty crab shell is let ABOARD; the cigar smoker is STOPPED
 scene: The gangway of the Thousand Sunny at a sunny harbour. CENTRE, dominant and brightest: an old sailor stands at the top of the gangway, an empty bleached crab shell at his feet under a big calendar painted 10, and Tony Tony Chopper, the little reindeer doctor in a pink top hat, hands him a brand-new sack of green dollar bills with a smile. BELOW on the gangway: a man puffing a cigar is stopped by Chopper's raised hoof, and beside him a green Statue of Liberty crown clogged with black tar is turned back down the plank.
 story:
@@ -109,7 +109,7 @@ titleAr: أكثر من نصف المزروعة لهم رئة أحياء بعد 5
 tags: thoracic/transplant d:evidence q:numbers l:2
 palette: dawn gold, milestone stone grey and lantern light
 words: 5
-keywords: lung transplant recipient -> a sailor carrying a fresh sack of green dollar bills along a road; five years -> a stone milestone painted 5; survival over 50 percent -> a balance beside it whose side with a lit lantern outweighs the side with a coffin; ventilator before transplant -> a second sailor still tied to a breathing bellows, lagging far behind
+keywords: the recipient of new lungs (lung transplant, drawn before the transplant symbol existed) -> a sailor carrying a fresh sack of green dollar bills along a road; five years -> a stone milestone painted 5; survival over 50 percent -> a balance beside it whose side with a lit lantern outweighs the side with a coffin; ventilator before transplant -> a second sailor still tied to a breathing bellows, lagging far behind
 must: the LANTERN side of the balance is LOWER (heavier) than the coffin side
 scene: A road through the green hills of a Grand Line island at dawn. CENTRE, dominant and brightest: a sailor carrying a fresh sack of green dollar bills on his back strides past a stone milestone painted 5, and beside the milestone stands a big balance: the pan holding a brightly lit lantern hangs low and heavy, the pan holding a small coffin rides high. FAR BEHIND on the road, a second sailor still tied to a big breathing bellows trudges slowly, lagging.
 story:
@@ -142,7 +142,7 @@ titleAr: تصنيف رفض الرئة: الالتهاب القصبي غير ال
 tags: thoracic/transplant d:pathology q:recall l:3
 palette: smoke grey, judge's table red and card white
 words: X
-keywords: rejection grading -> judges at a long table holding up score cards in front of transplanted hoses and sacks; ungradeable airway inflammation -> a red-hot ribbed hose hidden in thick smoke, its judge unable to see it and holding up a card painted X; acute rejection -> a sack of green dollar bills with a few red sparks, judged on its own
+keywords: rejection grading -> judges at a long table holding up score cards in front of transplanted hoses and sacks; ungradeable airway inflammation -> a red-hot ribbed hose hidden in thick smoke, its judge unable to see it and holding up a card painted X; the body attacking the new lungs (acute rejection, drawn before the rejection symbol existed) -> a sack of green dollar bills with a few red sparks, judged on its own
 must: the hose is HIDDEN in smoke and its judge holds the card X
 scene: A contest stage on a festive island. Behind a long red judges' table stand a transplanted sack of green dollar bills with a few red sparks on it and a red-hot white ribbed hose. CENTRE, dominant and brightest: the hose is hidden inside a thick cloud of grey smoke, and the judge in front of it, squinting and unable to see anything, holds up a big white card painted X. Usopp, the long-nosed sniper, fans the smoke with his hat, trying to see.
 story:

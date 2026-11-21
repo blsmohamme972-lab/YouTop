@@ -1,12 +1,34 @@
 # Where the work stands
 
-Updated 2026-11-21 (afternoon). Whoever works on YouTop next: read `CLAUDE.md`, then this, then
+Updated 2026-11-21 (evening). Whoever works on YouTop next: read `CLAUDE.md`, then this, then
 `docs/content-guide.md` and the `youtop-lessons` skill. Rewrite this file whenever the state changes (it replaces the
 `status-<n>.txt` files in the Drive folder "YouTop private", which stop at 7).
 
 ## HANDOFF (2026-11-21, ~13:15 UTC): the owner closed this conversation; start here
 
 **Two books are in progress. Nothing is waiting on the agent except what the owner asks; work only when asked.**
+
+**100 new recurring symbols (2026-11-21, evening, a new session, alone):** the owner asked for 100 new reusable
+symbols, "better than the earlier ones, because they cannot be fixed later", built on sound-alikes joined logically
+with the meaning, for fast memory with understanding. `content/symbols.json` now holds 245 approved (was 145).
+- Chosen by evidence: every stem and option of the three masters (778 questions: Johns Hopkins, MedCosmos, Shahzad)
+  was searched for concepts that recur and had no symbol, plus core vascular concepts for the planned vascular books.
+- Where earlier pictures had already drawn a concept, the symbol keeps that drawing so old and new pictures join one
+  memory: the knot (AV node), bananas (potassium), the bodyguard (ICD), nitro dynamite, the woodcutter (Norwood),
+  the right spike of the crown (RCA), the post/pillar (papillary muscle), the orca's collar (annulus), valves pinched
+  narrow (stenosis, now also turned to STONE), the horseshoe magnet, stereo, scales, podium, potion, violet rays,
+  periscope, keyhole, fishnet, brass horn, ox in a treadmill wheel, bull balloon, milk pipe, jail cell, cracked egg,
+  bees, the photographer, the hoarse horse, the lights going out (shock).
+- Bare words that mean two things were kept out of the terms (dissection, leak, flutter, effusion of the pericardium,
+  segmental resection, rib fractures, induction therapy, Chamberlain, extrapleural pneumonectomy, scimitar, cooling).
+- Two existing symbols got a `family` only (drawing unchanged): atrial fibrillation (shares Pinocchio with the new
+  ventricular fibrillation, moved into the engine room) and cardioplegia (shares bananas with potassium).
+- 17 keyword terms in older drafts named a concept that now has a symbol but was drawn otherwise (prompts already
+  sent). As with lesson 38, only the term on the left of `->` was reworded, with "(X, drawn before the X symbol
+  existed)"; the prompt side is byte-for-byte the same. `symbols.py check` passes on all 31 draft batches.
+  The `content` branch's own work copies of MedCosmos 0001-0020, 0101-0110 and 0121-0130 still carry the 4 old
+  terms: rebuild those batches from `drafts/medcosmos-cardiac/`, not from the `content` copies.
+- Readable list: `content/symbols.md` (all 245). New symbols are used from the next batch on (Johns Hopkins 151+).
 
 **Update (2026-11-21, ~14:00 UTC, a new session):**
 - **82 JH pictures ARE in the Drive folder** `11gZ6LUEbDqbeyBc45sVLsKRQ6gpwLtdx` (uploaded 11:06-11:52 UTC, before the

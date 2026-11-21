@@ -12,7 +12,7 @@ titleAr: استهلاك أقصى للأكسجين أقلّ من 10 مل/كغ/د 
 tags: thoracic/foundations d:physiology q:numbers l:2 x:high-yield
 palette: snow white, ice blue, ox brown and one red gauge
 words: 10
-keywords: VO2max below 10 -> a huge ox in a clear oxygen mask climbing a rope up a snowy cliff, a brass gauge on its back with the needle sunk to 10; most specific predictor -> the ox slipping back down the rope as the needle sinks; lung resection -> Zoro's sword raised over a sack of green dollar bills, held back by Chopper; mortality -> a dark coffin half buried in the snow below
+keywords: peak oxygen uptake below 10 (VO2max, drawn before the VO2max symbol existed) -> a huge ox in a clear oxygen mask climbing a rope up a snowy cliff, a brass gauge on its back with the needle sunk to 10; most specific predictor -> the ox slipping back down the rope as the needle sinks; lung resection -> Zoro's sword raised over a sack of green dollar bills, held back by Chopper; mortality -> a dark coffin half buried in the snow below
 must: the gauge reads 10 and the ox is slipping DOWN; Zoro has NOT cut the sack
 scene: The snowy cliffs of Drum Island below the castle, ice-blue light. CENTRE, dominant and brightest: a huge brown ox wearing a clear oxygen mask hangs on a long rope up the white cliff; a big brass gauge strapped to its back shows its needle sunk to a red 10, and the ox is slipping back down the rope, hooves scraping the ice. BELOW LEFT: Roronoa Zoro, the green-haired swordsman, raises his sword over a big sack stuffed with green dollar bills, but Tony Tony Chopper, the little reindeer doctor in a pink top hat, grips his arm and holds it back. BELOW RIGHT: a dark coffin lies half buried in the snow.
 story:
