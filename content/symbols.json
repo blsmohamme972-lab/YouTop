@@ -921,7 +921,10 @@
    "concept": "Endocarditis",
    "terms": [
     "endocarditis",
-    "infective endocarditis"
+    "infective endocarditis",
+    "vegetation",
+    "vegetations",
+    "infected vegetation"
    ],
    "symbol": "playing cards sprouting broccoli and moss",
    "anchors": [
@@ -11818,6 +11821,47 @@
    "firstUsed": "Johns Hopkins (a leather bellows)",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "antibiotics",
+   "concept": "Antibiotics (penicillin and the others; treatment and prophylaxis)",
+   "terms": [
+    "antibiotic",
+    "antibiotics",
+    "antibiotic therapy",
+    "antibiotic treatment",
+    "intravenous antibiotics",
+    "iv antibiotics",
+    "antimicrobial",
+    "antimicrobials",
+    "antimicrobial therapy",
+    "penicillin",
+    "antibiotic prophylaxis",
+    "prophylactic antibiotics"
+   ],
+   "symbol": "a giant PENCIL in Chopper's hand drawing a ring round the germs and crossing them out",
+   "anchors": [
+    "pencil"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "PENCIL-lin = penicillin, the first antibiotic",
+    "meaning": "the pencil rings the germs and crosses them out: the drug kills them",
+    "place": "in Chopper's hand (the doctor), over the infected spot"
+   },
+   "why": "PENCIL-lin; the pencil crosses the germs out",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Johns Hopkins 27 (actinomycosis) drew Chopper raising a giant pencil for penicillin; this makes it the symbol for every antibiotic. Prophylaxis: the pencil draws the ring before any germ arrives.",
+   "firstUsed": "Johns Hopkins 27",
+   "status": "approved",
+   "reason": "total 9/10, 3 layers",
    "audited": "2026-11-21"
   }
  ]

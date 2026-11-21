@@ -364,6 +364,7 @@ sits in the picture). The model is endocarditis: playing CARDs (sound) sprouting
 | ball-and-cage valve (Starr-Edwards) | a silver STAR-shaped ball rattling inside a little BIRDCAGE set into the doorway (Modern mechanical valves are bileaflet (the little steel robot).) | a star ball in a cage | 10/10 | - |
 | dilated cardiomyopathy | the engine rooms stretched wide and floppy like an over-pulled ACCORDION that can barely squeeze a note (Leads to the Vader (VAD) or the flowerpot (transplant).) | a stretched accordion | 9/10 | - |
 | mechanical ventilation, ventilator | a big leather BELLOWS pumping air down the ribbed hose into the sacks of dollar bills (Johns Hopkins drew the bellows several times.) | the bellows | 9/10 | Johns Hopkins (a leather bellows) |
+| Antibiotics (penicillin and the others; treatment and prophylaxis) | a giant PENCIL in Chopper's hand drawing a ring round the germs and crossing them out (Johns Hopkins 27 (actinomycosis) drew Chopper raising a giant pencil for penicillin; this makes it the symbol for every antibiotic. Prophylaxis: the pencil draws the ring before any germ arrives.) | PENCIL-lin; the pencil crosses the germs out | 9/10 | Johns Hopkins 27 |
 
 ## Rejected (never use them)
 

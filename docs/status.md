@@ -13,14 +13,21 @@ Updated 2026-11-21 (evening). Whoever works on YouTop next: read `CLAUDE.md`, th
 and merged to main as it is done. The owner asked for it overnight, with an hourly wake-up scheduled task
 (trig_01PU9vpvigNUp6wUdpdP37Yc) to resume after a usage-limit pause; disable it when 422 is reached. Other sessions:
 do not write 151+ in parallel; pictures, voices and publishing of 1-150 are unaffected.
-- Progress (update as it goes): **151-180 written** (tables, scenes, prompts, vowelled stories, quotations, explanations;
-  `drafts/johns-hopkins-2016/batch-0151-0160` ... `batch-0171-0180`, prompts for the owner: `prompts-jh-151-180.txt`,
-  not yet sent). Voices: 151-160 recorded, 161-170 recording (audio only in this container; rebuild + `voice.py make`
-  reproduces it). Since 151 each quotation has a lead-in saying who speaks it and why, so it is understood on its own
-  (the owner, 2026-11-21: "not cut, not incomprehensible").
-- **Quotation pool is running out**: with each line allowed twice, 20 lessons apart, almost every genuine One Piece line
-  I am sure of is now used twice. New sure lines are added one by one; when none is left, ask the owner (a third use,
-  or another genuine source) rather than inventing or adapting one.
+- Progress (update as it goes): **151-190 written** (tables, scenes, prompts, vowelled stories, quotations, explanations;
+  `drafts/johns-hopkins-2016/batch-0151-0160` ... `batch-0181-0190`; prompts for the owner: `prompts-jh-151-180.txt`,
+  `prompts-jh-181-190.txt`, not yet sent). Voices: 151-180 recorded, 181-190 recording (audio only in this container;
+  rebuild + `voice.py make` reproduces it); `voice.py check` of 151-180 running. Since 151 each quotation has a lead-in
+  saying who speaks it and why, so it is understood on its own (the owner, 2026-11-21: "not cut, not incomprehensible").
+- **Quotation pool**: after 190 every line used in 1-190 is used twice except five (Buggy's nose 171, "Sogeking, shoot
+  that flag" 172, "a crew better than yours" 173, Kizaru's light-speed kick 175, Hancock "forgiven because I am
+  beautiful" 178), usable again from 191-198. New lines are taken only when sure: checked against Wikiquote's One Piece
+  page or several quote lists, or famous scenes (Robin "I never asked you to save me", Zoro "if I die here...",
+  Kureha "have a safe trip, my stupid son", Zoro "the injury to my reputation is worse than the one to my gut",
+  Nami's 100 million berries, Shanks "guns are not for threats", Doflamingo on children who never knew peace...).
+  The bank of sure lines will not reach 422: when it is empty, ask the owner (a third use, or another genuine source)
+  rather than inventing or adapting one; meanwhile tables, scenes, prompts and explanations can go on.
+- `content/symbols.json`: new symbol **antibiotics = a giant pencil** (PENCIL-lin = penicillin; Johns Hopkins 27
+  already drew it); "vegetation" now also names the endocarditis cards.
 - `content/symbols.json`: the VSD symbol also covers ventricular septal rupture after infarction (same hole, same drawing).
 
 **Update (2026-11-21, ~15:45 UTC, a new session): JOHNS HOPKINS 2016: 82 LESSONS PUBLISHED.**
@@ -84,7 +91,7 @@ with the meaning, for fast memory with understanding. `content/symbols.json` now
   existed)"; the prompt side is byte-for-byte the same. `symbols.py check` passes on all 31 draft batches.
   The `content` branch's own work copies of MedCosmos 0001-0020, 0101-0110 and 0121-0130 still carry the 4 old
   terms: rebuild those batches from `drafts/medcosmos-cardiac/`, not from the `content` copies.
-- Readable list: `content/symbols.md` (all 245). New symbols are used from the next batch on (Johns Hopkins 151+).
+- Readable list: `content/symbols.md` (all of them; 346 approved after the antibiotics pencil, 2026-11-21 night). New symbols are used from the next batch on (Johns Hopkins 151+).
 
 1. **MedCosmos Cardiac (`medcosmos-cardiac`, 156 lessons): 151 published.** Lessons 111, 123, 125, 128, 149 are written
    (batches in `drafts/medcosmos-cardiac/`) but held back until their pictures arrive (prompts:
