@@ -20,8 +20,9 @@ Updated 2026-11-21 (evening). Whoever works on YouTop next: read `CLAUDE.md`, th
   pour down into the pot instead of splashing up out of it).
 - Voices: JH 1-150 and MedCosmos 111, 123, 125, 128, 149 were recorded again in this container (14:06-14:48 UTC).
   `voice.py check` of JH 1-100: 1,459 sentences, 3 flagged, all three false alarms (each clip transcribed alone:
-  49 S11 and 80 S11 are short quotations, 66 E2 says "mm Hg" as "millimetres of mercury"). Checks of 101-150 and of
-  the five MedCosmos lessons were still running at the time of writing (`pictures-2026-11-21/notes.txt` gets the result).
+  49 S11 and 80 S11 are short quotations, 66 E2 says "mm Hg" as "millimetres of mercury"). Checks of 101-150 (764
+  sentences, 5 flagged) and of the five MedCosmos lessons (80 sentences, 1 flagged): every flagged clip was heard whole
+  when transcribed alone, so all recordings passed (details in `pictures-2026-11-21/notes.txt`).
   **The audio of every unpublished lesson exists only in this container**: if it is lost, rebuild and `voice.py make`
   again as below (same voice files, same result).
 - Lesson 38's `keywords:` line was refused by the symbol check (the oesophagus symbol came after its prompt was sent).
