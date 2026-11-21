@@ -120,6 +120,11 @@ def load_master(paths):
         text = pathlib.Path(p).read_text(encoding="utf-8")
         if str(p).endswith(".jsonl"):
             records = [from_extraction(json.loads(line)) for line in text.splitlines() if line.strip()]
+            for i, q in enumerate(records, 1):
+                # A book numbered by chapter ("47.3") is numbered 1, 2, 3... in the order of the file;
+                # its own number is kept as "ref" and shown with the question.
+                if not isinstance(q["n"], int):
+                    q["ref"], q["n"] = str(q["n"]), i
         else:
             records = json.loads(text)["questions"]
         for q in records:
@@ -378,7 +383,7 @@ def build_lesson(cfg, b, q, book_dir, old, force, problems, warnings):
     explain = " ".join(b["explanation"]) + (" " + b["note"] if b.get("note") else "")
     right = key_override(b, q) or sorted(set(q.get("answers") or [q["answer"]]))
     quiz = {"q": fix(q["stem"]), "options": [fix(o) for o in (option_override(b, q) or q["options"])], "answer": right[0],
-            "explain": explain, "lang": "en", "source": f"{cfg['sourceLabel']}, Q{n}"}
+            "explain": explain, "lang": "en", "source": f"{cfg['sourceLabel']}, Q{q.get('ref', n)}"}
     if len(right) > 1:
         quiz["answers"] = right  # "choose all that apply": the app ticks and checks them together (since 2.5)
     quizzes = [quiz]
@@ -387,7 +392,7 @@ def build_lesson(cfg, b, q, book_dir, old, force, problems, warnings):
         quizzes = []
         for a in filter(None, map(parse_ask, b["asks"])):
             one = {"q": fix(a["q"]), "options": [fix(o) for o in a["options"]], "answer": a["right"][0],
-                   "explain": explain, "lang": "en", "source": f"{cfg['sourceLabel']}, Q{n}"}
+                   "explain": explain, "lang": "en", "source": f"{cfg['sourceLabel']}, Q{q.get('ref', n)}"}
             if len(a["right"]) > 1:
                 one["answers"] = a["right"]
             quizzes.append(one)
@@ -523,7 +528,7 @@ def cmd_questions(args):
         if not q:
             print(f"== {n}: NOT IN THE FILES GIVEN\n")
             continue
-        print(f"== {n}" + ("   [needs its figure: " + q["figure"] + "]" if q.get("figure") else ""))
+        print(f"== {n}" + (f"   (book number {q['ref']})" if q.get("ref") else "") + ("   [needs its figure: " + q["figure"] + "]" if q.get("figure") else ""))
         print(q["stem"])
         right = set(q.get("answers") or [q["answer"]])
         for i, o in enumerate(q["options"]):
@@ -544,7 +549,7 @@ def cmd_new(args):
         q = master.get(n)
         if not q:
             die(f"question {n} is not in the master file(s) given")
-        lines += [f"== {n}", "# " + q["stem"].replace("\n", " "), "# answer: " + q["options"][q["answer"]]]
+        lines += [f"== {n}"] + ([f"# book number {q['ref']}"] if q.get("ref") else []) + ["# " + q["stem"].replace("\n", " "), "# answer: " + q["options"][q["answer"]]]
         if q.get("figure"):
             lines.append("# this question has a figure (it is shown above the options)")
         lines += ["title: ", "titleAr: ", "tags: ", "palette: ", "words: ", "keywords: ", "scene: ", "story:", "quote: ", "source: ", "explanation:", ""]

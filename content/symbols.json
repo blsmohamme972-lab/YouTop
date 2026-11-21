@@ -26,7 +26,7 @@
    "firstUsed": "MedCosmos 13",
    "status": "approved",
    "reason": "total 8/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -54,7 +54,7 @@
    "firstUsed": "MedCosmos 13",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -83,7 +83,7 @@
    "firstUsed": "MedCosmos 14",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -110,7 +110,7 @@
    "firstUsed": "MedCosmos 13",
    "status": "approved",
    "reason": "total 8/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -136,7 +136,7 @@
    "firstUsed": "MedCosmos 13",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -162,7 +162,7 @@
    "firstUsed": "MedCosmos 13",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -190,7 +190,7 @@
    "firstUsed": "MedCosmos 15",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -216,7 +216,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 8/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -244,7 +244,7 @@
    "firstUsed": "MedCosmos 7",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -270,7 +270,7 @@
    "firstUsed": "MedCosmos 7",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -296,7 +296,7 @@
    "firstUsed": "MedCosmos 7",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -328,7 +328,7 @@
    "firstUsed": "MedCosmos 8",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -356,7 +356,7 @@
    "firstUsed": "MedCosmos 19",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "family": "pressure",
    "legacy": true
   },
@@ -384,7 +384,7 @@
    "firstUsed": "MedCosmos 19",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "family": "pressure",
    "legacy": true
   },
@@ -409,7 +409,7 @@
    "firstUsed": "",
    "status": "rejected",
    "reason": "total 6/10 is below 8",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -437,7 +437,7 @@
    "firstUsed": "MedCosmos 10",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -466,7 +466,7 @@
    "family": "corona",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -496,7 +496,7 @@
    "family": "corona",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -523,7 +523,7 @@
    "firstUsed": "MedCosmos 15",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -550,7 +550,7 @@
    "firstUsed": "MedCosmos 20",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -580,7 +580,7 @@
    "firstUsed": "MedCosmos 16",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -609,7 +609,7 @@
    "firstUsed": "MedCosmos 1",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -638,7 +638,7 @@
    "firstUsed": "MedCosmos 2",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -665,7 +665,7 @@
    "firstUsed": "MedCosmos 3",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -691,7 +691,7 @@
    "firstUsed": "MedCosmos 3",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -718,7 +718,7 @@
    "firstUsed": "MedCosmos 3",
    "status": "approved",
    "reason": "total 8/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -744,7 +744,7 @@
    "firstUsed": "MedCosmos 3",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -771,7 +771,7 @@
    "firstUsed": "MedCosmos 3",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -800,7 +800,7 @@
    "firstUsed": "MedCosmos 11",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -824,7 +824,7 @@
    "firstUsed": "",
    "status": "rejected",
    "reason": "total 7/10 is below 8",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -854,7 +854,7 @@
    "firstUsed": "MedCosmos 11",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -882,7 +882,7 @@
    "firstUsed": "Shahzad 2015",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -912,7 +912,7 @@
    "firstUsed": "MedCosmos 12",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -939,7 +939,7 @@
    "firstUsed": "MedCosmos 12",
    "status": "approved",
    "reason": "total 9/10, 3 layers",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "layers": {
     "sound": "endo-CARD-itis = playing cards",
     "meaning": "vegetations = broccoli and moss sprouting from them",
@@ -970,7 +970,7 @@
    "firstUsed": "MedCosmos 14",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -997,7 +997,7 @@
    "firstUsed": "MedCosmos 5",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -1025,7 +1025,7 @@
    "firstUsed": "Shahzad 2015",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -1055,7 +1055,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -1079,7 +1079,7 @@
    "firstUsed": "Shahzad 2015",
    "status": "rejected",
    "reason": "total 7/10 is below 8",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -1109,7 +1109,7 @@
    "firstUsed": "MedCosmos 21",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -1138,7 +1138,7 @@
    "firstUsed": "MedCosmos 25",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -1167,7 +1167,7 @@
    "firstUsed": "MedCosmos 25",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -1196,7 +1196,7 @@
    "firstUsed": "MedCosmos 25",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -1223,7 +1223,7 @@
    "firstUsed": "MedCosmos 25",
    "status": "approved",
    "reason": "total 8/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -1252,7 +1252,7 @@
    "firstUsed": "MedCosmos 28",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -1280,7 +1280,7 @@
    "firstUsed": "MedCosmos 28",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -1312,7 +1312,7 @@
    "firstUsed": "MedCosmos 28",
    "status": "approved",
    "reason": "total 8/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -1339,7 +1339,7 @@
    "firstUsed": "MedCosmos 29",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -1365,7 +1365,7 @@
    "firstUsed": "MedCosmos 30",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -1393,7 +1393,7 @@
    "firstUsed": "MedCosmos 30",
    "status": "approved",
    "reason": "total 8/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -1421,7 +1421,7 @@
    "firstUsed": "MedCosmos 30",
    "status": "approved",
    "reason": "total 8/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -1449,7 +1449,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -1479,7 +1479,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -1512,7 +1512,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -1542,7 +1542,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -1571,7 +1571,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -1601,7 +1601,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -1637,7 +1637,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -1667,7 +1667,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -1696,7 +1696,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -1724,7 +1724,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -1754,7 +1754,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -1785,7 +1785,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -1814,7 +1814,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -1842,7 +1842,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -1872,7 +1872,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -1902,7 +1902,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -1933,7 +1933,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -1963,7 +1963,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -1992,7 +1992,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -2024,7 +2024,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -2058,7 +2058,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -2089,7 +2089,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -2118,7 +2118,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -2148,7 +2148,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -2180,7 +2180,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -2210,7 +2210,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -2239,7 +2239,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -2268,7 +2268,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -2304,7 +2304,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -2335,7 +2335,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -2371,7 +2371,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -2402,7 +2402,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -2433,7 +2433,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -2464,7 +2464,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -2496,7 +2496,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -2532,7 +2532,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -2562,7 +2562,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -2591,7 +2591,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -2621,7 +2621,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -2651,7 +2651,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -2683,7 +2683,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -2711,7 +2711,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -2741,7 +2741,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -2769,7 +2769,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -2798,7 +2798,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -2832,7 +2832,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -2861,7 +2861,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -2892,7 +2892,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -2920,7 +2920,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -2953,7 +2953,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -2983,7 +2983,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -3015,7 +3015,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -3041,7 +3041,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -3073,7 +3073,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -3106,7 +3106,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -3135,7 +3135,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -3165,7 +3165,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -3195,7 +3195,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -3212,10 +3212,11 @@
     "malignant tumors",
     "malignant cardiac tumors",
     "metastatic tumors",
-    "metastases",
-    "metastasis",
     "renal neoplasms",
-    "primary malignancy"
+    "primary malignancy",
+    "lung cancer",
+    "bronchogenic carcinoma",
+    "NSCLC"
    ],
    "symbol": "a red crab",
    "anchors": [
@@ -3230,12 +3231,13 @@
     "drawable": 2,
     "sticky": 2
    },
-   "notes": "",
+   "notes": "Lung cancer = the crab clamping a sack of dollar bills (the lung). Metastases are its baby crabs (own symbol, same family).",
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
-   "legacy": true
+   "audited": "2026-11-21",
+   "legacy": true,
+   "family": "cancer"
   },
   {
    "id": "heart-block",
@@ -3266,7 +3268,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -3296,7 +3298,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -3327,7 +3329,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -3353,7 +3355,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -3384,7 +3386,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -3410,7 +3412,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -3439,7 +3441,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -3466,7 +3468,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -3497,7 +3499,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -3527,7 +3529,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -3554,7 +3556,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -3585,7 +3587,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -3616,7 +3618,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -3648,7 +3650,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -3680,7 +3682,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -3713,7 +3715,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
   },
   {
@@ -3741,8 +3743,206 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-20",
+   "audited": "2026-11-21",
    "legacy": true
+  },
+  {
+   "id": "metastasis",
+   "concept": "metastasis, metastases, metastasectomy",
+   "terms": [
+    "metastasis",
+    "metastases",
+    "pulmonary metastases",
+    "pulmonary metastasis",
+    "metastasectomy",
+    "pulmonary metastasectomy"
+   ],
+   "symbol": "baby crabs that have scuttled away from the mother crab and settled somewhere else",
+   "anchors": [
+    "baby crab"
+   ],
+   "kind": "meaning + place",
+   "family": "cancer",
+   "layers": {
+    "meaning": "offspring of the cancer crab that left it and grew elsewhere, as metastases leave the primary",
+    "place": "they sit far from the mother crab (the primary), on another sack, island or organ"
+   },
+   "why": "the cancer's children, travelled away from it",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Same family as lung cancer (the crab) on purpose.",
+   "firstUsed": "johns-hopkins-2016",
+   "status": "approved",
+   "reason": "total 10/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "ct-scan",
+   "concept": "CT scan, computed tomography",
+   "terms": [
+    "CT",
+    "CT scan",
+    "computed tomography",
+    "CAT scan"
+   ],
+   "symbol": "a cat slicing a long loaf of bread into very thin slices with one sharp claw",
+   "anchors": [
+    "cat"
+   ],
+   "kind": "sound-alike + meaning",
+   "layers": {
+    "sound": "a CAT scan, as everyone calls it",
+    "meaning": "the scanner cuts the body into thin cross-sections, as the cat slices the loaf"
+   },
+   "why": "CAT scan = a cat; tomography = slices",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Say 'thin slices of a loaf' so the cat is not just a pet.",
+   "firstUsed": "johns-hopkins-2016",
+   "status": "approved",
+   "reason": "total 10/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "pet-scan",
+   "concept": "PET scan, positron emission tomography (FDG)",
+   "terms": [
+    "PET",
+    "PET scan",
+    "positron emission tomography",
+    "PET-CT",
+    "FDG-PET"
+   ],
+   "symbol": "a glowing puppy (a pet) sniffing out the spots that eat sugar cubes and making them glow",
+   "anchors": [
+    "puppy"
+   ],
+   "kind": "sound-alike + meaning",
+   "layers": {
+    "sound": "PET = a pet puppy",
+    "meaning": "FDG is sugar: tissues that eat sugar fast (cancer, infection) light up where the puppy sniffs"
+   },
+   "why": "PET = pet; it finds sugar-hungry tissue",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 1,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Combined PET-CT = the cat and the puppy together.",
+   "firstUsed": "johns-hopkins-2016",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "node-stations",
+   "concept": "mediastinal lymph node stations (numbered)",
+   "terms": [
+    "lymph node station",
+    "lymph node stations",
+    "nodal station",
+    "nodal stations",
+    "mediastinal lymph nodes"
+   ],
+   "symbol": "numbered railway stations along a sea-train line that runs down beside the ribbed hose (the trachea) and forks under it",
+   "anchors": [
+    "railway station"
+   ],
+   "kind": "sound-alike + place",
+   "layers": {
+    "sound": "a lymph node STATION is a railway station",
+    "place": "each numbered station stands where its nodes lie: high ones near the top of the hose, 7 under the fork (the carina), 10 at the branches"
+   },
+   "why": "the nodes are literally called stations; a line of stations keeps their order",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Paint only the one or two station numbers the question needs (words:).",
+   "firstUsed": "johns-hopkins-2016",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "trachea",
+   "concept": "trachea, windpipe (and the carina where it forks)",
+   "terms": [
+    "trachea",
+    "tracheal",
+    "windpipe",
+    "carina"
+   ],
+   "symbol": "a big ribbed hose of stacked white C-shaped rings that forks into two hoses at its lower end",
+   "anchors": [
+    "ribbed hose"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the windpipe itself: a ringed tube that carries all the air",
+    "place": "it runs down from the neck and forks into two at the bottom (the carina and the main bronchi)"
+   },
+   "why": "the trachea is a ringed hose; its fork is the carina",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "johns-hopkins-2016",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "tuberculosis",
+   "concept": "tuberculosis",
+   "terms": [
+    "tuberculosis",
+    "TB",
+    "tuberculous",
+    "miliary tuberculosis",
+    "DR-TB"
+   ],
+   "symbol": "a brass tuba riddled with holes, soft white cheese oozing from them",
+   "anchors": [
+    "tuba"
+   ],
+   "kind": "sound-alike + meaning",
+   "layers": {
+    "sound": "TUBerculosis = tuba",
+    "meaning": "the holes are cavities, the cheese is caseating necrosis"
+   },
+   "why": "tuba = TUBerculosis; holes and cheese = cavities and caseation",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Miliary TB = the tuba spraying a fine millet of tiny seeds everywhere.",
+   "firstUsed": "johns-hopkins-2016",
+   "status": "approved",
+   "reason": "total 10/10, 2 layers",
+   "audited": "2026-11-21"
   }
  ]
 }

@@ -1,0 +1,16 @@
+{
+  "id": "johns-hopkins-2016",
+  "short": "jh",
+  "sourceLabel": "Johns Hopkins 2016",
+  "questions": 422,
+  "chapterSize": 100,
+  "author": "ون بيس",
+  "theme": "the world of the One Piece anime: the Straw Hat pirates sail the Grand Line on the Thousand Sunny; the ship's doctor Chopper is the recurring healer; stories end with a real line from One Piece, in Arabic",
+  "soundAlikes": true,
+  "imagesFolder": "11gZ6LUEbDqbeyBc45sVLsKRQ6gpwLtdx",
+  "masters": {
+    "john-hopkin-s-2016-450-q.jsonl": "1JmU8REE6sMtOSk6Ty664l8Q9__jtRogW"
+  },
+  "numbering": "The book numbers its questions by chapter (47.3); lessons are numbered 1-422 in the order of the jsonl, and the quiz shows the book's own number.",
+  "style": "a vivid anime illustration in the style of the One Piece anime (Eiichiro Oda's manga style): bold clean ink outlines, bright saturated cel-shaded colour, expressive exaggerated characters, dynamic adventurous composition, every object crisp and instantly recognisable"
+}

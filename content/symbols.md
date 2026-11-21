@@ -125,7 +125,7 @@ sits in the picture). The model is endocarditis: playing CARDs (sound) sprouting
 | maze procedure (Cox) | a green hedge maze grown across both upper lobbies, leading the beat from the top to the knot | the operation is named after the maze it makes | 10/10 | medcosmos-cardiac |
 | ablation (surgical or catheter) | a blowtorch burning a spot black | tissue is burnt to stop it conducting | 9/10 | medcosmos-cardiac |
 | myxoma | a wobbling ball of green jelly on a stalk, hanging from the clock on the party wall into the lobby | MYXO = mucus, slime: a jelly on a stalk from the fossa ovalis (the clock) | 10/10 | medcosmos-cardiac |
-| malignant tumour, cancer, sarcoma, metastasis | a red crab | cancer = the crab (Hippocrates' karkinos) | 10/10 | medcosmos-cardiac |
+| malignant tumour, cancer, sarcoma, metastasis | a red crab (Lung cancer = the crab clamping a sack of dollar bills (the lung). Metastases are its baby crabs (own symbol, same family).) | cancer = the crab (Hippocrates' karkinos) | 10/10 | medcosmos-cardiac |
 | heart block (atrioventricular block) | a raised drawbridge between the upper lobby and the engine room, so no signal can cross | the signal cannot cross from atria to ventricles | 10/10 | medcosmos-cardiac |
 | sinus node, sick sinus syndrome | an orchestra conductor at the top of the blue lobby beside the chimney, beating time with his baton | the sinus node sets the time for the whole heart | 9/10 | medcosmos-cardiac |
 | ACE inhibitors (captopril, enalapril) | a tennis player serving an ace at the US Open in Queens | ACE inhibitor = a tennis ace | 10/10 | medcosmos-cardiac |
@@ -143,6 +143,12 @@ sits in the picture). The model is endocarditis: playing CARDs (sound) sprouting
 | total artificial heart | a tin man with a clockwork heart | the man of tin who was given a heart | 10/10 | medcosmos-cardiac |
 | univentricular heart, single ventricle | one single big engine room with no party wall, both lobby doors opening into it | one ventricle receiving both inlets | 9/10 | medcosmos-cardiac |
 | bicuspid aortic valve | a bicycle wedged in the orca's mouth, its two wheels for the two lips | BI-cuspid = BI-cycle, two | 10/10 | medcosmos-cardiac |
+| metastasis, metastases, metastasectomy | baby crabs that have scuttled away from the mother crab and settled somewhere else (Same family as lung cancer (the crab) on purpose.) | the cancer's children, travelled away from it | 10/10 | johns-hopkins-2016 |
+| CT scan, computed tomography | a cat slicing a long loaf of bread into very thin slices with one sharp claw (Say 'thin slices of a loaf' so the cat is not just a pet.) | CAT scan = a cat; tomography = slices | 10/10 | johns-hopkins-2016 |
+| PET scan, positron emission tomography (FDG) | a glowing puppy (a pet) sniffing out the spots that eat sugar cubes and making them glow (Combined PET-CT = the cat and the puppy together.) | PET = pet; it finds sugar-hungry tissue | 9/10 | johns-hopkins-2016 |
+| mediastinal lymph node stations (numbered) | numbered railway stations along a sea-train line that runs down beside the ribbed hose (the trachea) and forks under it (Paint only the one or two station numbers the question needs (words:).) | the nodes are literally called stations; a line of stations keeps their order | 9/10 | johns-hopkins-2016 |
+| trachea, windpipe (and the carina where it forks) | a big ribbed hose of stacked white C-shaped rings that forks into two hoses at its lower end | the trachea is a ringed hose; its fork is the carina | 8/10 | johns-hopkins-2016 |
+| tuberculosis | a brass tuba riddled with holes, soft white cheese oozing from them (Miliary TB = the tuba spraying a fine millet of tiny seeds everywhere.) | tuba = TUBerculosis; holes and cheese = cavities and caseation | 10/10 | johns-hopkins-2016 |
 
 ## Rejected (never use them)
 
