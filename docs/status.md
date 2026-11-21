@@ -1,6 +1,6 @@
 # Where the work stands
 
-Updated 2026-11-21 (15:45 UTC). Whoever works on YouTop next: read `CLAUDE.md`, then this, then
+Updated 2026-11-21 (evening). Whoever works on YouTop next: read `CLAUDE.md`, then this, then
 `docs/content-guide.md` and the `youtop-lessons` skill. Rewrite this file whenever the state changes (it replaces the
 `status-<n>.txt` files in the Drive folder "YouTop private", which stop at 7).
 
@@ -26,8 +26,49 @@ Updated 2026-11-21 (15:45 UTC). Whoever works on YouTop next: read `CLAUDE.md`, 
   again as below (same voice files, same result).
 - Lesson 38's `keywords:` line was refused by the symbol check (the oesophagus symbol came after its prompt was sent).
   Its term now reads `trachea (... the prompt was sent before the oesophagus symbol existed)`; the scene is unchanged.
+- The keyword terms reworded by the symbol sessions (#71, #72) are now also in the `content` branch's work copies
+  (published 2026-11-21 evening), so `content` and `drafts/` agree again.
 - Restart note: `voice.py make` rewrites a whole chapter, and checks are slow (about 5 minutes per 10 lessons), so
   record every batch first and check afterwards; `batch.py pictures/spots/marks` only rewrite the chapters they change.
+
+**100 more symbols, for heart surgery (2026-11-21, night, same session):** the owner asked for "100 you think missing
+and important for heart surgery". `content/symbols.json` now holds 345 approved. Chosen from the heart chapters still
+to come (Johns Hopkins 151-422, MedCosmos) and the cardiac surgery syllabus: physiology (Starling, afterload, Laplace,
+output), bypass (cannons, X-tongs, rolling pin, spinning cone, air embolism, octopus off-pump), clotting (ACT magician,
+protamine tamer, ant jockey, clogs, leech), valve repair (Uncle Sam = SAM, bow tie, carpenter, scallops), aorta
+(blood blister, pothole, elephant trunk, porcelain), rhythm (ballerina = torsades, two drummers = CRT, island = PVI),
+congenital (Saint George, key ring, treasure map, porthole, mirror, jester = lusoria, the Count = LeCompte) and more.
+- Kept the earlier drawings where they existed (Johns Hopkins: spinning cone, fans turning off-pump, bellows, white
+  tiles, side lid; MedCosmos: city gates, compliments, drum skin, submarine, third lobby, two orcas closing a ring,
+  scimitar, blue wand, lion's den, numbing needle, gold-medal crab).
+- Families added (drawing unchanged): echo + TEE share the bat; rheumatic + viridans are the strep family (scarlet vs
+  green beads); nitroglycerin + inhaled nitric oxide are the nitro family.
+- 2 more old MedCosmos keyword terms marked "drawn before the symbol existed" (104 afterload, 145 low cardiac output);
+  prompts unchanged; `symbols.py check` passes on all 31 draft batches.
+- `tools/content/symbols.py`: term and anchor patterns are now compiled once (with 3,000+ terms the check had become
+  minutes long; now about a second). Same results (checked on a sample of real keywords).
+
+**100 new recurring symbols (2026-11-21, evening, a new session, alone):** the owner asked for 100 new reusable
+symbols, "better than the earlier ones, because they cannot be fixed later", built on sound-alikes joined logically
+with the meaning, for fast memory with understanding. `content/symbols.json` now holds 245 approved (was 145).
+- Chosen by evidence: every stem and option of the three masters (778 questions: Johns Hopkins, MedCosmos, Shahzad)
+  was searched for concepts that recur and had no symbol, plus core vascular concepts for the planned vascular books.
+- Where earlier pictures had already drawn a concept, the symbol keeps that drawing so old and new pictures join one
+  memory: the knot (AV node), bananas (potassium), the bodyguard (ICD), nitro dynamite, the woodcutter (Norwood),
+  the right spike of the crown (RCA), the post/pillar (papillary muscle), the orca's collar (annulus), valves pinched
+  narrow (stenosis, now also turned to STONE), the horseshoe magnet, stereo, scales, podium, potion, violet rays,
+  periscope, keyhole, fishnet, brass horn, ox in a treadmill wheel, bull balloon, milk pipe, jail cell, cracked egg,
+  bees, the photographer, the hoarse horse, the lights going out (shock).
+- Bare words that mean two things were kept out of the terms (dissection, leak, flutter, effusion of the pericardium,
+  segmental resection, rib fractures, induction therapy, Chamberlain, extrapleural pneumonectomy, scimitar, cooling).
+- Two existing symbols got a `family` only (drawing unchanged): atrial fibrillation (shares Pinocchio with the new
+  ventricular fibrillation, moved into the engine room) and cardioplegia (shares bananas with potassium).
+- 17 keyword terms in older drafts named a concept that now has a symbol but was drawn otherwise (prompts already
+  sent). As with lesson 38, only the term on the left of `->` was reworded, with "(X, drawn before the X symbol
+  existed)"; the prompt side is byte-for-byte the same. `symbols.py check` passes on all 31 draft batches.
+  The `content` branch's own work copies of MedCosmos 0001-0020, 0101-0110 and 0121-0130 still carry the 4 old
+  terms: rebuild those batches from `drafts/medcosmos-cardiac/`, not from the `content` copies.
+- Readable list: `content/symbols.md` (all 245). New symbols are used from the next batch on (Johns Hopkins 151+).
 
 1. **MedCosmos Cardiac (`medcosmos-cardiac`, 156 lessons): 151 published.** Lessons 111, 123, 125, 128, 149 are written
    (batches in `drafts/medcosmos-cardiac/`) but held back until their pictures arrive (prompts:
