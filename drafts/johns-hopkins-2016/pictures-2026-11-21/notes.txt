@@ -47,3 +47,7 @@ Voice check (voice.py check, this container, 2026-11-21): JH 1-100, 1,459 senten
 transcribing each clip alone: 49 S11 (Brook's quotation, heard "but I'm already dead, yohoho"), 66 E2 ("mm Hg" spoken as
 "millimetres of mercury"), 80 S11 (the One Piece quotation, heard whole when alone).
 Second-agent check: not done (the owner asked for no subagents).
+JH 101-150 (not yet published, no pictures): 764 sentences, 5 flagged, all heard whole when transcribed alone
+(104 S4, 108 S9, 113 S10 short lead-in lines; 138 S2; 150 S11 Binks' Sake quotation).
+MedCosmos 111, 123, 125, 128, 149: 80 sentences, 1 flagged (128 S4, "148 over 45" heard whole alone).
+So every recording made in this container passed; none needed re-recording.
