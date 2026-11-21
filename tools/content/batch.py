@@ -147,13 +147,16 @@ def chapter_of(cfg, n):
 def ensure_folder(folder, cfg):
     """The scratch folder holds the book as published; export it the first time."""
     book_dir = folder / "books" / cfg["id"]
-    if not (book_dir / "book.json").is_file():
+    started = (folder / "books").is_dir() and any((folder / "books").iterdir())
+    if not (book_dir / "book.json").is_file() and not started:
+        # Only an empty folder is filled from what is published: exporting into a folder that already holds
+        # work would overwrite other books' unpublished lessons with their published copies.
         catalog = subprocess.run(["git", "ls-remote", "--exit-code", "--heads", "origin", "content"], cwd=ROOT, capture_output=True)
         if catalog.returncode == 0:
             subprocess.run([sys.executable, str(ROOT / "tools/content/publish.py"), "--export", str(folder)], check=True)
-        if not (book_dir / "book.json").is_file():
-            (book_dir / "chapters").mkdir(parents=True, exist_ok=True)
-            (book_dir / "book.json").write_text(json.dumps({"id": cfg["id"], "title": cfg["sourceLabel"], "chapters": []}, ensure_ascii=False, indent=1), encoding="utf-8")
+    if not (book_dir / "book.json").is_file():
+        (book_dir / "chapters").mkdir(parents=True, exist_ok=True)
+        (book_dir / "book.json").write_text(json.dumps({"id": cfg["id"], "title": cfg["sourceLabel"], "chapters": []}, ensure_ascii=False, indent=1), encoding="utf-8")
     return book_dir
 
 

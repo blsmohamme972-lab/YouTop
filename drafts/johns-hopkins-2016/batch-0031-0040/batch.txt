@@ -14,6 +14,25 @@ palette: smoke grey, ember orange and faded dollar green
 keywords: lung -> a sack of green dollar bills; smoking -> a Marine captain puffing two fat cigars into the sack; tissue destruction -> the smoke eating away the thin walls between the bills, leaving big empty holes; mucus production -> a dry mop leaning unused beside the sack
 must: the smoke EATS the walls into big empty holes; the mop stays dry and unused
 scene: The deck of a Marine warship, grey smoke and ember light. LEFT: a big Marine captain in a white coat puffs two fat cigars at once and blows thick smoke into a big sack of green dollar bills. CENTRE, dominant and brightest: where the smoke swirls, it eats away the thin walls between the bills, leaving big empty holes edged with glowing embers, and the bills drift loose. A dry mop leans against the mast, unused. Tony Tony Chopper, the little reindeer doctor in a pink top hat, fans the smoke away in alarm.
+story:
+على ظهر سفينة حربيّة من سفن البحريّة، وقف قبطان ضخم في معطف أبيض، يدخّن سيجارين غليظين معًا.
+فنفخ الدخان الكثيف في كيس كبير من الدولارات الخضراء.
+«لا شيء أطيب من سيجار على البحر!»
+فأخذ الدخان يأكل الجدران الرقيقة بين الأوراق.
+حتّى صارت ثقوبًا كبيرةً فارغة، حوافّها جمر متوهّج.
+فتطايرت الأوراق من الكيس واحدةً بعد واحدة.
+وكانت ممسحة جافّة مستندةً إلى الصاري، لم يحتج إليها أحد.
+«ليس في الكيس ماء يمسح؛ الدخان يهدم جدرانه هدمًا!»
+وأخذ تشوبر يبعد الدخان بحافريه فزعًا، فضحك القبطان وسمّاه راكونًا صغيرًا.
+فاحمرّ وجه تشوبر غضبًا، وصاح:
+quote: «أنا لست راكونًا! أنا رنّة!»
+source: توني توني تشوبر
+explanation:
+Emphysema is the permanent enlargement of the air spaces beyond the terminal bronchioles, with destruction of their walls.
+Its pathogenesis is smoking-related tissue destruction, through an imbalance of proteases and antiproteases set off by the smoke: B is the answer.
+The increase in mucus production that smoking causes belongs to chronic bronchitis, not to emphysema.
+Ageing alone does not cause it, and alpha-1 antitrypsin deficiency is the main nonsmoking cause.
+
 
 == 32
 # book 7.2: emphysema destruction is most severe in -> A, the upper lobes.
@@ -28,6 +47,24 @@ palette: dusk purple, smoke grey and lantern gold
 keywords: lungs -> two sacks of green dollar bills hanging upright side by side; smoking -> a cigar smouldering on the floor below them, its smoke rising; upper lobes -> big empty holes only at the TOP of both sacks; where to look -> Usopp holding a lantern up to the top holes
 must: the holes are ONLY at the top of both sacks; the bottoms are whole
 scene: A dim cabin at dusk, purple light. Two big sacks of green dollar bills hang upright side by side from the ceiling beam. A fat cigar smoulders on the floor below them, and its smoke rises straight up. CENTRE, dominant and brightest: at the TOP of both sacks the smoke has eaten big empty holes, while their bottoms stay whole and full; Usopp, the long-nosed sniper, stands on a stool holding a lantern up to the holes, eyes wide.
+story:
+في قمرة معتمة عند الغسق، تحت ضوء بنفسجيّ، تدلّى من السقف كيسان كبيران من الدولارات جنبًا إلى جنب.
+وعلى الأرض تحتهما سيجار غليظ يحترق على مهل.
+فكان دخانه يصعد مستقيمًا إلى الأعلى، كما يصعد كلّ دخان.
+فصعد أوسوب على كرسيّ صغير، ورفع فانوسه إلى الكيسين.
+«انظروا! الثقوب كلّها في الأعلى!»
+فقد أكل الدخان رأسي الكيسين ثقوبًا كبيرةً فارغة.
+أمّا أسفلهما، فبقي سليمًا ممتلئًا بالأوراق.
+«الدخان يصعد، فيأكل أعلى الكيس قبل أسفله.»
+فأنزل أوسوب الفانوس، وداس السيجار حتّى انطفأ.
+ثمّ تذكّر فتًى ورديّ الشعر كان يخاف من كلّ شيء، ثمّ صاح يومًا:
+quote: «سأصبح أميرالًا في البحريّة!»
+source: كوبي
+explanation:
+Smoking-related (centrilobular) emphysema destroys the lung most severely in the upper lobes: A is the answer.
+This upper-lobe pattern is what makes a patient a good candidate for lung volume reduction surgery.
+Emphysema from alpha-1 antitrypsin deficiency, by contrast, is panlobular and worst in the lower lobes.
+
 
 == 33
 # book 7.3: best candidate for lung volume reduction surgery -> C, FEV1 20-40 percent of predicted with an increased TLC.
@@ -43,6 +80,25 @@ words: 20, 40
 keywords: FEV1 -> a pirate blowing a brass horn for one second, its dial needle between the marks 20 and 40; increased TLC -> his sack of green dollar bills swollen so big it bulges out over the barrel that holds it; lung volume reduction surgery -> Zoro trimming off the holed, puffed-up top of the sack of dollar bills
 must: the horn's needle sits BETWEEN 20 and 40; the sack bulges OUT over the barrel; Zoro trims only the top
 scene: The deck of the Thousand Sunny on a bright morning. CENTRE, dominant and brightest: a thin pirate blows hard into a brass horn whose round dial has its needle between the marks 20 and 40; behind him his sack of green dollar bills is swollen so big that it bulges out over the wooden barrel that holds it, its top full of empty holes. Roronoa Zoro, the green-haired swordsman, trims off the holed, puffed-up top of the sack with one neat stroke, and the rest of the sack settles comfortably into the barrel.
+story:
+في صباح مشرق على ظهر الثاوزند صني، وقف قرصان نحيل اسمه ريد ينفخ في بوق نحاسيّ.
+فتحرّكت إبرة البوق ووقفت بين علامتين: عشرين وأربعين.
+«لا أستطيع أن أنفخ أقوى من هذا!»
+وخلفه كيسه من الدولارات، انتفخ حتّى برز من فوق البرميل الّذي يحمله.
+وكان أعلاه مليئًا بالثّقوب الفارغة.
+«كيسك أكبر من برميله، وأعلاه لا ينفعك بشيء!»
+فاقترب زورو، وقصّ أعلى الكيس المثقّب المنتفخ بضربة واحدة أنيقة.
+فاستقرّ ما بقي من الكيس في البرميل مرتاحًا.
+فنفخ ريد في البوق مرّةً أخرى، وتنفّس بسهولة لم يعرفها منذ سنين.
+فنظر إلى الجزء المقطوع بلا ندم، وتذكّر كلمة رجل أحمر الشعر فقد ذراعه راضيًا:
+quote: «راهنت بذراعي على العصر الجديد.»
+source: شانكس
+explanation:
+Lung volume reduction surgery removes the most destroyed, hyperinflated parts of an emphysematous lung, so that the rest can work better.
+The best candidates have an FEV1 of about 20 to 40 percent of predicted with hyperinflation, an increased total lung capacity and residual volume: C is the answer.
+An FEV1 under 20 percent, especially with a DLco under 20 percent or homogeneous disease, carries a high risk of death.
+A decreased total lung capacity means restriction, not hyperinflation, and argues against the operation.
+
 
 == 34
 # book 7.4: measures shown to reduce air leak after LVRS -> E, none of the above.
@@ -58,6 +114,24 @@ palette: canvas beige, spray-can red and air-bubble white
 keywords: air leak after LVRS -> a sack of green dollar bills hissing air from its trimmed edge; pleural tent -> a small canvas tent pitched over the edge; biological sealant -> a red spray can spraying glue on it; buttressing the staple line -> a strip of leather nailed along the cut; none of them work -> the air still hissing out through all three while Franky throws up his hands
 must: air keeps hissing out THROUGH the tent, the glue and the leather strip alike
 scene: Franky's workshop on the Thousand Sunny, wood shavings and tools. A big sack of green dollar bills lies on the workbench, its trimmed edge hissing jets of air. A small canvas tent is pitched over one part of the edge, a red spray can sprays glue on another, and a strip of leather is nailed along the rest of the cut. CENTRE, dominant and brightest: the air keeps hissing out in white jets through the tent, through the glue and through the leather strip alike, and Franky, the blue-haired cyborg shipwright, throws up both his huge arms in defeat.
+story:
+في ورشة فرانكي على الثاوزند صني، بين نشارة الخشب والأدوات، رقد كيس كبير من الدولارات.
+وكان الهواء يصفر خارجًا من حافته المقصوصة نفثات بيضاء.
+«لا تقلقوا، عندي لكلّ تسرّب علاج!»
+فنصب فوق جزء من الحافة خيمةً صغيرةً من القماش.
+ورشّ على جزء آخر غراءً من علبة رشّ حمراء.
+وسمّر على بقيّة القطع شريطًا من الجلد.
+لكنّ الهواء ظلّ يصفر خارجًا من تحت الخيمة، ومن خلال الغراء، ومن تحت الجلد سواءً.
+فرفع فرانكي ذراعيه الضخمتين يائسًا.
+«الخيمة، والغراء، والجلد... لا واحد منها أوقف الصفير!»
+فجلس إلى جانب الكيس صامتًا، وتذكّر سفينةً صغيرةً مثقّبةً ودّعتهم يومًا بصوت خافت:
+quote: «كنت سعيدةً حقًّا... شكرًا لكم على كلّ شيء.»
+source: غوينغ ميري
+explanation:
+A prolonged air leak is the commonest complication after lung volume reduction surgery.
+In the trials that tested them, a pleural tent, biological sealant spray and buttressing of the staple line did not reduce the duration and severity of the air leak.
+So the answer is E: none of the above.
+
 
 == 35
 # book 7.5: giant bullae -> E, they compress adjacent lung parenchyma.
@@ -71,6 +145,25 @@ palette: bull red, dollar green and sky blue
 keywords: giant bulla -> a giant red inflatable bull balloon swelling inside a sack of green dollar bills (BULLA = bull); compresses adjacent lung -> the bull balloon squashing the dollar bills beside it flat against the side of the sack; re-expansion -> Luffy stretching his rubber arms round the sack, ready to pull the bull out
 must: the bills beside the bull are squashed FLAT against the sack's side
 scene: A beach on a sunny Grand Line island. CENTRE, dominant and brightest: inside a big transparent sack of green dollar bills a giant red inflatable bull balloon swells bigger and bigger and squashes the bills next to it flat against the side of the sack. Monkey D. Luffy, the boy in the straw hat, stretches his long rubber arms all the way round the sack, grinning, ready to pull the bull out.
+story:
+على شاطئ مشمس في جزيرة من جزر الخطّ الكبير، رقد كيس كبير شفّاف من الدولارات.
+وفي داخله ثور أحمر منفوخ كالبالون، يكبر ويكبر.
+فكلّما كبر الثور، ضغط الأوراق الّتي إلى جانبه.
+حتّى سحقها مسطّحةً على جدار الكيس.
+«الثور لا يتنفّس، ويأخذ مكان الأوراق الّتي تتنفّس!» صاحت نامي.
+فجاء لوفي ضاحكًا، ومطّ ذراعيه المطّاطيّتين حول الكيس كلّه.
+«سأخرج هذا الثور، فتعود الأوراق تنتفخ من جديد!»
+وشدّ ذراعيه حتّى التفّتا حول الكيس مرّتين.
+فسألته نامي كيف تمتدّ ذراعاه هكذا.
+فضحك لوفي كما ضحك يوم سأله أوّل عدوّ لقيه، وقال:
+quote: «أنا رجل من مطّاط!»
+source: مونكي دي لوفي
+explanation:
+A giant bulla is an air-filled space that takes up at least a third of the hemithorax.
+It compresses the adjacent, more normal lung parenchyma: E is the answer.
+Removing it lets the compressed lung re-expand, and that is when surgery helps most.
+Giant bullae arise in emphysematous lungs, can be resected by VATS, do not regress when the patient stops smoking, and are not by themselves an indication for surgery.
+
 
 == 36
 # book 8.1: predictors of anastomotic complications after tracheal resection, EXCEPT -> C, female gender.
@@ -87,6 +180,25 @@ palette: hose white, sugar white and Nami's orange
 keywords: tracheal anastomosis -> a big ribbed hose cut and sewn back together with a stitched seam; diabetes -> a man sitting on a mountain of white sugar cubes pulling at the seam; reoperation -> an old scarred seam just beside the new one; length of resection -> a long measuring tape laid across the cut-out length; age under 18 -> a young boy tugging at the seam; female gender -> Nami standing lightly on the seam while it holds
 must: the others pull at the seam and it strains; Nami stands on it and it does NOT strain
 scene: A shipyard in Water 7, bright sun. A big ribbed hose of white rings lies across two trestles, cut and sewn back together with a thick stitched seam, an old scarred seam just beside it and a long measuring tape laid across the cut-out length. A man sitting on a mountain of white sugar cubes pulls at the seam, and a young boy tugs at it from the other side, and the stitches strain. CENTRE, dominant and brightest: Nami, the orange-haired navigator, stands lightly on the seam with one foot, smiling, and the seam under her holds perfectly.
+story:
+في حوض بناء السفن في مدينة الماء، تحت شمس ساطعة، رقد خرطوم مضلّع كبير على حاملين.
+وكان قد قطع ثمّ خيط طرفاه بدرزة غليظة، وإلى جانبها درزة قديمة من عمل سبق.
+ومدّ عبره شريط قياس طويل، يدلّ على طول ما قطع منه.
+فجلس رجل على جبل من مكعّبات السكّر الأبيض، وأخذ يشدّ الدرزة.
+وشدّها من الجهة الأخرى صبيّ صغير، فتوتّرت الغرز وكادت تتمزّق.
+«السكّر، والدّرزة القديمة، وطول القطع، والصّغر؛ كلّها تشدّ الدرزة!» قال أوسوب.
+ثمّ وقفت نامي على الدرزة بقدم واحدة خفيفة، وهي تبتسم.
+فلم تتحرّك غرزة واحدة تحتها.
+«أنا لا أشدّ أيّ درزة يا أوسوب؛ ابحث عن الخطر في مكان آخر!»
+فضحك أوسوب، وتذكّر يومًا بكت فيه نامي في قريتها، وما قيل بينها وبين قائدها:
+quote: «لوفي... ساعدني... — بالطّبع!»
+source: نامي ومونكي دي لوفي
+explanation:
+After tracheal resection, the main risk is breakdown of the anastomosis.
+Its predictors include diabetes, a reoperation on the trachea, a long resection (more than 4 cm) and an age under 18 years.
+Female gender is not a predictor: C is the answer.
+Laryngotracheal resection and a preoperative tracheostomy are further predictors.
+
 
 == 37
 # book 8.2: 4-cm cervical tracheal resection for adenoid cystic carcinoma, positive distal margin 4 cm above the carina -> A, partial sternotomy, laryngeal release, more resection with primary reconstruction, and postoperative radiotherapy.
@@ -103,6 +215,25 @@ words: 4
 keywords: adenoid cystic carcinoma at the margin -> a red crab's claw still gripping the lower cut end of a ribbed hose; partial sternotomy -> Franky opening the ship's stern only part way down its white centre line; laryngeal release -> the brass bell at the top of the hose untied and lowered on its ropes; further resection with primary reconstruction -> Zoro cutting off one more ring section with the claw and sewing the ends together; postoperative radiotherapy -> Usopp shining a glowing violet ray lamp on the seam
 must: the stern is opened only PART way down; the bell at the TOP is lowered; Zoro removes the ring section WITH the claw
 scene: The stern of the Thousand Sunny at night, lanterns lit. Franky, the blue-haired cyborg shipwright, has opened the ship's stern only part way down its white centre line, and inside it a big ribbed hose of white rings runs downward, a yellow tape across it reading 4. At the hose's top its brass bell has been untied and is lowered on two ropes by Luffy. CENTRE, dominant and brightest: at the lower cut end of the hose a red crab's claw still grips the rings, and Roronoa Zoro cuts off one more ring section together with the claw and sews the two ends neatly together. Usopp, the long-nosed sniper, shines a glowing violet ray lamp onto the new seam.
+story:
+في ليلة عند مؤخّرة الثاوزند صني، والفوانيس مضاءة، فتح فرانكي مؤخّرة السفينة جزئيًّا على خطّها الأبيض.
+فبان في داخلها خرطوم مضلّع كبير ينزل إلى الأسفل، وعبره شريط أصفر يقرأ: أربعة.
+وعند طرفه السفليّ المقطوع، ما زال ملقط سرطان أحمر يقبض على الحلقات.
+«قطعت أربعةً من فوق، وما زال الملقط في الطرف!»
+فصعد لوفي إلى رأس الخرطوم، وأنزل جرسه النحاسيّ على حبلين، فارتخى الخرطوم إلى الأسفل.
+فقطع زورو حلقةً أخرى مع الملقط نفسه.
+ثمّ خاط الطرفين معًا بغرز متقنة.
+وسلّط أوسوب على الدرزة الجديدة مصباح أشعّة بنفسجيّة متوهّجة.
+«وهذا الضوء لما يختبئ ولا تراه العين!»
+فنظر الطاقم إلى عملهم المشترك، وتذكّر زورو يومًا خسر فيه قائدهم كلّ شيء، ثمّ رفع رأسه وصاح:
+quote: «ما زال لديّ رفاقي!»
+source: مونكي دي لوفي
+explanation:
+Adenoid cystic carcinoma spreads far along the airway under the mucosa, so margins are often positive.
+With a positive distal margin, more trachea is resected if it can be done safely: a partial sternotomy gives access, and a laryngeal release gains length for a primary reconstruction: A is the answer.
+Postoperative radiotherapy is given, because adenoid cystic carcinoma responds to it.
+When no more airway can be removed safely, a microscopically positive margin is accepted and treated with radiotherapy.
+
 
 == 38
 # book 8.3: tracheoesophageal fistula after prolonged ventilation and tracheostomy -> B in the book, immediate repair with muscle interposition (key kept; a note says repair usually waits until the patient is off the ventilator).
@@ -117,6 +248,26 @@ palette: muscle red, hose white and bellows leather brown
 keywords: trachea and oesophagus -> a big ribbed hose lying against a soft pink food pipe; tracheoesophageal fistula -> a fist punched through from the hose into the food pipe; prolonged mechanical ventilation -> a big leather bellows pumping air into the top of the hose; muscle interposition -> Franky laying a thick living slab of red muscle between the two closed holes
 must: the fist has punched a hole FROM the hose INTO the food pipe; the red slab lies BETWEEN them after both holes are closed
 scene: Franky's workshop, warm lamplight. A big ribbed hose of white rings lies against a soft pink food pipe, and a big leather bellows pumps air into the top of the hose with a whoosh. A fist has punched a hole from the hose straight into the food pipe. CENTRE, dominant and brightest: Franky, the blue-haired cyborg shipwright, has stitched both holes shut and now lays a thick living slab of red muscle between the hose and the food pipe, pressing it in place with his big hands. Tony Tony Chopper, the little reindeer doctor in a pink top hat, holds the bellows' handle still.
+story:
+في ورشة فرانكي، تحت ضوء مصباح دافئ، رقد خرطوم مضلّع أبيض إلى جانب أنبوب طعام ورديّ ليّن.
+وكان منفاخ جلديّ كبير ينفخ الهواء في رأس الخرطوم منذ أيّام وأيّام.
+فمن طول النفخ، اخترقت قبضة ثقبًا من الخرطوم إلى أنبوب الطعام مباشرةً.
+«الطعام يدخل طريق الهواء، والهواء يدخل طريق الطعام!» قال صاحب الخرطوم العجوز.
+فأمسك تشوبر مقبض المنفاخ وأوقفه.
+وخاط فرانكي الثقبين كليهما.
+ثمّ وضع بين الخرطوم والأنبوب قطعةً غليظةً حيّةً من العضل الأحمر.
+«هذه الحيّة تفصل بينهما، فلا يلتقيان بعد اليوم!»
+وضغطها في مكانها بيديه الكبيرتين، فابتسم العجوز ابتسامةً طويلة.
+وتذكّر تشوبر طبيبًا عجوزًا ضحك في آخر لحظة من عمره وقال:
+quote: «لقد كانت حياةً جميلة!»
+source: الدكتور هيلولوك
+note: Repair of a tracheoesophageal fistula is usually delayed until the patient no longer needs the ventilator; meanwhile a cuffed tube is placed below the fistula and a gastrostomy and jejunostomy are made (option C).
+explanation:
+An acquired tracheoesophageal fistula after prolonged ventilation comes from pressure of the cuff against the tracheal wall and a nasogastric tube.
+The book's key is B: repair of the fistula, closing both openings, with muscle interposition between the trachea and the oesophagus.
+The muscle flap keeps the two suture lines apart so that the fistula does not recur.
+A stent is kept for malignant fistulas, not for this one.
+
 
 == 39
 # book 8.4: known postintubation stenosis, distress after a cold, can't speak in full sentences -> A, rigid bronchoscopy with dilation in the operating room.
@@ -131,6 +282,25 @@ palette: operating-room white, steel silver and scar red
 keywords: postintubation tracheal stenosis -> a ribbed hose pinched by a hard red ring of scar; respiratory distress -> a sailor clutching his throat, gasping only short words; rigid bronchoscopy with dilation -> Chopper pushing a long straight steel telescope down the hose and stretching the scar ring wide with a widening steel cone; in the operating room -> under the ship's bright operating lamp; flexible bronchoscopy -> a thin bendy rubber tube lying dropped on the floor
 must: the telescope is STRAIGHT and rigid steel; the scar ring is being stretched WIDER
 scene: The operating room of the Thousand Sunny, bright white lamp. A frightened sailor lies on the table clutching his throat, gasping. Above him stands a giant transparent ribbed hose of white rings, pinched in the middle by a hard red ring of scar. CENTRE, dominant and brightest: Tony Tony Chopper, the little reindeer doctor in a pink top hat, in a surgeon's cap, pushes a long straight steel telescope down the hose and, with a widening steel cone on its tip, stretches the scar ring wide open, and air rushes through. On the floor lies a thin bendy rubber tube, dropped and ignored.
+story:
+في غرفة العمليّات على الثاوزند صني، تحت مصباح أبيض ساطع، رقد بحّار خائف اسمه نوح.
+كان يمسك حلقه ويلهث، ولا يقدر إلّا على كلمات قصيرة.
+«لا... أستطيع... التنفّس!»
+وفوقه خرطوم مضلّع شفّاف عملاق، تضغطه في وسطه حلقة حمراء صلبة من الندب.
+وعلى الأرض، أنبوب مطّاطيّ رفيع ليّن، ألقاه تشوبر جانبًا.
+«ليس هذا وقت الأنبوب الليّن؛ هنا، في غرفتي، وبالمنظار الصلب!»
+فدفع تشوبر في الخرطوم منظارًا فولاذيًّا طويلًا مستقيمًا.
+وعلى رأسه مخروط فولاذيّ يتّسع، فمطّ حلقة الندب حتّى انفتحت.
+فاندفع الهواء في الخرطوم، وتنفّس نوح نفسًا طويلًا كاملًا.
+فأمسك نوح بحافر تشوبر، وقال لرفاقه ما قاله رجل ناريّ يومًا لمن أحبّوه:
+quote: «شكرًا لكم... لأنّكم أحببتموني!»
+source: بورتغاس دي إيس
+explanation:
+A known postintubation tracheal stenosis that becomes critical after a respiratory infection is an emergency.
+The safest first treatment is rigid bronchoscopy with dilation in the operating room, which secures the airway and opens the stenosis: A is the answer.
+Flexible bronchoscopy in the emergency department, or a blind intubation, can obstruct the airway completely.
+A tracheostomy or a definitive resection is planned later, once the airway is safe.
+
 
 == 40
 # book 8.5: does NOT decrease tension during tracheal resection -> C, circumferential tracheal dissection.
@@ -145,3 +315,22 @@ palette: vine green, rope tan and hose white
 keywords: anastomotic tension -> the two cut ends of a ribbed hose pulled together by a rope stretched tight; neck flexion -> Luffy bending his chin down to his chest so the rope slackens; laryngeal release -> the bell at the top of the hose lowered on its ropes; circumferential dissection -> Zoro stripping the hose bare all round its circumference, its green feeding vines withering, while the rope stays just as tight
 must: where Zoro strips the hose ALL ROUND, the vines wither and the rope does NOT slacken
 scene: A sunny deck of the Thousand Sunny. A big ribbed hose of white rings, wrapped in fresh green vines that feed it, has been cut in the middle, and its two ends are pulled together by a rope stretched tight. At the top, a bell is lowered on its ropes, and Monkey D. Luffy, the boy in the straw hat, bends his chin down to his chest, making part of the rope slacken. CENTRE, dominant and brightest: Roronoa Zoro strips one length of the hose bare all the way round, the green vines there wither brown and fall away, and the rope at that point stays just as tight as before.
+story:
+في يوم مشمس على ظهر الثاوزند صني، رقد خرطوم مضلّع أبيض تلتفّ حوله كروم خضراء تطعمه.
+وكان قد قطع في وسطه، وشدّ طرفاه بحبل مشدود كالوتر.
+«الحبل مشدود أكثر من اللازم؛ ستنفكّ الدرزة!»
+فأنزل الجرس الّذي في رأس الخرطوم على حباله.
+وأحنى لوفي ذقنه إلى صدره، فارتخى جزء من الحبل.
+«هكذا؟ صار الحبل ألين!»
+ثمّ أخذ زورو يعرّي جزءًا من الخرطوم من كلّ جهاته، حوله كلّه.
+فذبلت الكروم الخضراء هناك، واسمرّت وتساقطت.
+وبقي الحبل عند ذلك الموضع مشدودًا كما كان، لم يرتخ شعرة.
+فتوقّف زورو نادمًا، وتذكّر كلمته الّتي يعيش عليها:
+quote: «الندوب على الظهر عار على المبارز.»
+source: رورونوا زورو
+explanation:
+Tension on a tracheal anastomosis is lowered by neck flexion, by freeing the pretracheal plane, by a suprahyoid laryngeal release and by a pericardial hilar release.
+Circumferential dissection of the trachea does not decrease the tension: C is the answer.
+It also destroys the segmental blood supply that comes in from the sides, risking breakdown of the anastomosis.
+So the dissection stays close to the trachea and is limited to about 1 to 2 cm beyond each cut end.
+

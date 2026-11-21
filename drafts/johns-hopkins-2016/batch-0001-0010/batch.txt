@@ -17,6 +17,27 @@ words: 25
 keywords: shuttle walk test -> an old pirate walking back and forth between two small white space shuttles standing upright as turning markers (SHUTTLE); prohibitive risk -> Chopper bolting the infirmary door with a big red iron bar; mortality -> a dark wooden coffin standing by the door
 must: the old pirate collapses BEFORE he reaches the chalk mark 25; the infirmary door is barred shut
 scene: The grass lawn deck of the Thousand Sunny, the Straw Hat pirates' ship, at sunset. CENTRE, dominant and in the brightest light: an old grey-bearded pirate, exhausted, walks back and forth between two small white space shuttles standing upright on the grass as turning markers, and collapses onto his knees just before a big chalk line marked 25 painted across the grass. RIGHT: Tony Tony Chopper, the little reindeer doctor in a pink top hat, slams the infirmary door shut and bolts it with a heavy red iron bar; beside the door stands a dark wooden coffin.
+story:
+عند الغروب، على عشب سفينة الثاوزند صني، وقف قرصان عجوز أشيب اللحية اسمه دوريان.
+وكان على العشب مكّوكان فضائيّان صغيران أبيضان، منتصبان كعلامتين للدّوران.
+«سأمشي بينهما ذهابًا وإيابًا، حتّى تروا أنّي ما زلت قويًّا!»
+فمشى بينهما مرّةً بعد مرّة، وتشوبر يعدّ خطاه بالطّباشير.
+وكان على العشب خطّ من الطباشير مكتوب عنده: خمسة وعشرون.
+فلمّا اقترب من الخطّ، خارت ركبتاه، فسقط قبل أن يبلغه.
+«لم تبلغ الخمسة والعشرين يا دوريان!» صاح تشوبر.
+ثمّ ركض الطبيب الصغير إلى باب المستوصف، فأغلقه وأحكمه بقضيب حديديّ أحمر ثقيل.
+وإلى جانب الباب تابوت خشبيّ داكن، كأنّه ينتظر من يدخل.
+«لن يفتح هذا الباب لك؛ فما وراءه أخطر عليك ممّا تظنّ.»
+فجلس العجوز على العشب يلهث، وتذكّر كلمة طبيب قديم من جزيرة الثلج:
+quote: «متى يموت الإنسان؟ ... حين ينساه الناس.»
+source: الدكتور هيلولوك
+explanation:
+Functional status helps decide whether a patient can survive a lung resection.
+In the shuttle walk test the patient walks back and forth between two cones 10 metres apart, faster at every level.
+Fewer than 25 shuttles, that is under 250 metres, is considered a prohibitive operative risk: D is the answer.
+A Karnofsky score of 10 percent describes a moribund patient, a very high risk, and a Zubrod score of 0, not 10, is normal.
+A drop in oxygen saturation of more than 4 percent during exercise, not 2 percent, is the significant one.
+
 
 == 2
 # book 1.2: pulmonary function -> D, VO2max is the most specific predictor of complications after lung resection.
@@ -31,6 +52,25 @@ palette: deck wood brown, ox brown, brass gold and sea blue
 keywords: VO2max -> a huge ox in a clear oxygen mask galloping flat out inside a giant wooden treadmill wheel, a brass gauge on the wheel with its needle at the very end of the dial (oxygen used at its maximum); most specific -> Chopper reading that gauge through a huge magnifying glass; pulmonary resection -> Zoro with his sword raised over a big sack of green dollar bills; FEV1 and DLco -> a small brass horn and a sponge lying unused on the deck
 must: the ox's gauge needle is at the far END of the dial; Zoro waits with his sword raised, he has NOT cut yet
 scene: The deck of the Thousand Sunny under a clear blue sky. CENTRE, dominant and brightest: a huge brown ox wearing a clear oxygen mask gallops flat out inside a giant wooden treadmill wheel; a big brass gauge fixed to the wheel shows its needle swung to the very end of the dial, and Tony Tony Chopper, the little reindeer doctor in a pink top hat, stands on a barrel reading the gauge through a huge magnifying glass. LEFT: Roronoa Zoro, the green-haired swordsman, waits with his sword raised above a big bulging sack stuffed with green dollar bills, looking at Chopper for the signal. FOREGROUND: a small brass horn and a yellow sponge lie forgotten on the planks.
+story:
+في صباح صاف على ظهر الثاوزند صني، وقف زورو وسيفه مرفوع فوق كيس منتفخ من الدولارات الخضراء.
+«أيّها الطبيب الصغير، أأقطع الآن أم أنتظر؟»
+فأشار تشوبر إلى عجلة خشبيّة عملاقة، يركض فيها ثور ضخم في قناع شفّاف.
+وكان الثور يعدو بكلّ ما فيه من قوّة، والهواء يدخل قناعه ويخرج.
+وعلى العجلة عدّاد نحاسيّ كبير، اندفعت إبرته حتّى آخر القرص.
+فصعد تشوبر على برميل، وقرّب عدسةً مكبّرةً هائلةً من العدّاد.
+وكان على الألواح بوق نحاسيّ صغير وإسفنجة صفراء، لا يلتفت إليهما أحد.
+«لا البوق يخبرني ولا الإسفنجة؛ هذه الإبرة وحدها تقول الحقّ.»
+«الثور يحتمل يا زورو؛ اقطع بأمان!»
+فابتسم زورو وشدّ قبضته على سيفه، وقال تشوبر وعيناه تلمعان:
+quote: «سأصبح طبيبًا يقدر على شفاء أيّ مرض!»
+source: توني توني تشوبر
+explanation:
+Before a lung resection, exercise testing measures the maximal oxygen consumption, VO2max (MVO2).
+VO2max is the most specific predictor of pulmonary complications after resection: D is the answer.
+A VO2max above 15 to 20 mL/kg/min means a low risk, not a high one.
+An FEV1 above 1.5 L for a lobectomy, not 1 L, needs no further testing, and predicted postoperative FEV1 and DLco above 40 percent, not 25 or 20 percent, mark a low risk.
+
 
 == 3
 # book 1.3: cardiac assessment -> E, a patient who cannot climb more than two flights of stairs should have formal cardiology evaluation.
@@ -46,6 +86,25 @@ words: 1, 2, 3
 keywords: flights of stairs -> a spiral stair up the mast with landings painted 1, 2 and 3; cardiology evaluation -> Chopper pointing the man to a narrow old hotel with a stag's head over its door (the HART Hotel = heart); congestive heart failure -> a traffic jam of yellow taxis bumper to bumper on the quay
 must: the man is stopped on landing 2 and has NOT reached landing 3; the hotel has a stag's head over its door
 scene: Night in a harbour of the Grand Line, the Thousand Sunny moored at a lantern-lit quay. CENTRE, dominant and brightest: a heavy middle-aged pirate climbing the spiral stair up the ship's mast has stopped, gasping and clutching the rail, on the landing painted 2; the landing painted 1 is below him and the landing painted 3 above him is still far away. Tony Tony Chopper, the little reindeer doctor in a pink top hat, presses his ear to the man's chest and points with his hoof down to the quay, at a narrow old hotel with a stag's head over its door. On the quay in front of the hotel, yellow taxis are gridlocked bumper to bumper.
+story:
+في ليلة مقمرة في ميناء من موانئ الخطّ الكبير، رست السفينة عند رصيف تضيئه الفوانيس.
+وكان قرصان ثقيل اسمه بورغ يصعد الدرج اللولبيّ حول الصاري، ليبلغ عشّ المراقبة.
+فتجاوز المنبسط الأوّل، وعليه رقم واحد.
+ثمّ بلغ المنبسط الثاني، وعليه رقم اثنين، فتشبّث بالدّرابزين يلهث.
+«لا أستطيع أن أصعد درجةً أخرى!»
+وكان المنبسط الثالث فوقه بعيدًا، كأنّه في السحاب.
+فصعد إليه تشوبر، ووضع أذنه على صدره يصغي.
+«من وقف قبل المنبسط الثالث، فليذهب أوّلًا إلى فندق الأيّل!»
+وأشار بحافره إلى فندق ضيّق قديم على الرصيف، فوق بابه رأس أيّل، وأمامه زحمة من سيّارات الأجرة الصفراء.
+فنزل بورغ الدرج، وهو يردّد كلمةً سمعها يومًا في سجن تحت البحر:
+quote: «المعجزات لا تحدث إلّا لمن لا يستسلمون!»
+source: إيفانكوف
+explanation:
+Cardiac complications are among the commonest serious complications after thoracic surgery, so cardiac risk is assessed before every resection.
+Stair climbing is a simple, useful screen: a patient who cannot climb more than two flights of stairs should have a formal cardiology evaluation: E is the answer.
+Diabetes and congestive heart failure are cardiac risk factors that call for further testing.
+The first tests are noninvasive; cardiac catheterization is not the initial screen.
+
 
 == 4
 # book 1.4: Thoracoscore -> B, female gender is NOT associated with increased mortality (male sex is).
@@ -61,6 +120,25 @@ palette: tavern amber, coffin black and Nami's orange
 keywords: Thoracoscore -> a giant wooden scoreboard balance standing on a treasure chest, its pan sinking toward a coffin (THORACO = chest, SCORE); age -> an old man's walking cane dropped onto the pan; malignant diagnosis -> a red crab dropped onto the pan; performance status -> a sick man lying in a hammock lowered onto the pan; female gender -> Nami stepping onto the pan while the needle stays still
 must: the cane, the crab and the hammock make the pan sink; when Nami stands on it the needle does NOT move
 scene: A tavern on a Grand Line island, warm amber light. A giant wooden scoreboard balance stands on top of a big treasure chest; its pan hangs over a black coffin and its needle points at a dial. Usopp, the long-nosed sniper, drops an old man's walking cane and a red crab onto the pan, and Sanji, the blond cook, lowers a sick man lying in a hammock onto it; with each one the pan sinks lower toward the coffin. CENTRE, dominant and brightest: Nami, the orange-haired navigator, steps lightly onto the pan with a smile, and the needle stays perfectly still.
+story:
+في حانة على جزيرة من جزر الخطّ الكبير، وقف ميزان خشبيّ عملاق فوق صندوق كنز.
+وكانت كفّته معلّقةً فوق تابوت أسود، وإبرته تشير إلى قرص كبير.
+«كلّما ثقلت الكفّة، اقتربت من التابوت!» قال أوسوب.
+ثمّ ألقى عليها عكّاز رجل عجوز، فهبطت الكفّة.
+وألقى بعده سرطانًا أحمر يفتح ملقطيه، فهبطت أكثر.
+وأنزل سانجي عليها رجلًا مريضًا راقدًا في أرجوحته، فكادت تلمس التابوت.
+ثمّ خطت نامي على الكفّة بخفّة، وهي تبتسم.
+فلم تتحرّك الإبرة شعرةً واحدة.
+«أرأيتم؟ هذا الميزان لا يعدّني عبئًا عليه!»
+فضحك الجميع، وصاح سانجي وهو ينحني لها:
+quote: «لن أركل امرأةً أبدًا، حتّى لو كان في ذلك موتي!»
+source: سانجي
+explanation:
+The Thoracoscore estimates the risk of death after general thoracic surgery from a handful of factors.
+Older age, the ASA rating, performance status and a malignant diagnosis all raise the predicted mortality.
+Sex is in the model, but it is male sex that carries the extra risk.
+Female gender is not associated with increased mortality: B is the answer.
+
 
 == 5
 # book 1.5: STS-GTDB models -> C, liver dysfunction is NOT associated with increased mortality.
@@ -76,6 +154,24 @@ palette: galley steel blue, flame red and liver brown
 keywords: STS model -> Sanji's huge black cooking pot shaped like a coffin (the risk of death); age -> an hourglass dropped into the pot; induction therapy -> an induction cooker plate glowing red under the pot (INDUCTION); Zubrod score -> a zebra-striped rolling pin dropped into the pot (ZU-BROD = zebra rod); liver dysfunction -> a slab of raw liver thrown out of the pot into the sea
 must: the hourglass and the striped rolling pin go INTO the pot; the slab of liver is thrown OUT of it
 scene: The galley of the Baratie, the floating sea restaurant, steel blue and flame red. A huge black cooking pot shaped like a coffin bubbles on a glowing red induction cooker plate. Luffy, the boy in the straw hat, drops an hourglass into the pot, and Zoro drops in a zebra-striped rolling pin. CENTRE, dominant and brightest: Sanji, the blond cook in a black suit, flings a big slab of raw dark-red liver OUT of the pot and through the open porthole toward the sea, kicking the pot's lid shut behind it.
+story:
+في مطبخ الباراتي، المطعم العائم على البحر، كانت قدر سوداء هائلة على هيئة تابوت تغلي.
+وتحتها لوح طبخ بالحثّ، يتوهّج أحمر بلا نار.
+«هذه القدر لا تقبل إلّا ما يزيد الخطر!» قال سانجي.
+فألقى لوفي فيها ساعةً رمليّة، ففارت.
+وألقى زورو فيها شوبكًا مخطّطًا كالحمار الوحشيّ، ففارت أكثر.
+ثمّ أخرج سانجي منها قطعةً كبيرةً من الكبد النيء.
+«وأنت؟ ما الّذي أدخلك هنا؟ لست من هذه الطبخة!»
+وقذف بها من الكوّة المفتوحة نحو البحر.
+ثمّ ركل غطاء القدر، فانغلق خلفها بصوت كالرّعد.
+فصاح لوفي وهو يراقب القدر جائعًا:
+quote: «لا أريد أن أكون بطلًا؛ البطل يقاسم الناس لحمه، وأنا أريد اللحم كلّه لي!»
+source: مونكي دي لوفي
+explanation:
+The STS General Thoracic Surgery Database models predict the risk of death after lung resection.
+Older age, the Zubrod (performance) score, the ASA rating and induction chemotherapy or radiotherapy before surgery are among its predictors of mortality.
+Liver dysfunction is not one of the factors associated with increased mortality in these models: C is the answer.
+
 
 == 6
 # book 2.1: multiple right-sided rib fractures after a high-speed collision -> D, thoracic epidural analgesia improves outcomes.
@@ -91,6 +187,25 @@ palette: snow white and cool blue against rust and coal black
 keywords: high-speed collision -> the Sea Train Puffing Tom derailed against a rock; rib fractures -> the sailor's right side cracked like broken wooden barrel staves; thoracic epidural analgesia -> Chopper slipping a thin straw into the middle of the sailor's spine, cool blue snow-light flowing through it; incentive spirometry -> a toy breathing whistle with little floating balls in the sailor's hand; elderly patients -> an old sailor on the next stretcher groaning louder
 must: the cracks are on the sailor's RIGHT side; the blue light flows from the straw in his BACK and he breathes deeply and smiles
 scene: Beside the tracks of the Sea Train Puffing Tom, which lies derailed against a black rock, cold snow-blue light. CENTRE, dominant and brightest: a young sailor sits up on a stretcher; his right side is cracked like broken wooden barrel staves, but Tony Tony Chopper, the little reindeer doctor in a pink top hat, slips a thin straw into the middle of his back, and cool blue snow-light flows from it around the cracks; the sailor breathes in deeply and smiles. In his hand he holds a toy breathing whistle whose little balls float up as he breathes. On the next stretcher an old grey sailor with the same cracks groans much louder.
+story:
+في ضوء أزرق بارد، انقلب قطار البحر بفنغ توم، وارتطم بصخرة سوداء.
+وعلى نقّالة قرب السكّة، جلس بحّار شابّ اسمه كين، وجانبه الأيمن مشقّق كألواح برميل مكسور.
+«لا أستطيع أن أتنفّس دون أن يطعنني الألم!»
+فجاء تشوبر، وأدخل مصّاصةً رفيعةً في وسط ظهره.
+فسال منها ضوء أزرق بارد كثلج جزيرته، وأحاط بالشّقوق كلّها.
+فتنفّس كين نفسًا عميقًا لأوّل مرّة، وابتسم.
+وكانت في يده صفّارة تنفّس صغيرة، تطفو كراتها كلّما نفخ.
+«انظر إلى الكرات؛ هي تخبرني عن حالك أكثر من كلامك!»
+وعلى النقّالة المجاورة بحّار أشيب بالشّقوق نفسها، يئنّ أعلى منه بكثير.
+فسأل تشوبر زورو عن حاله، وقد رأى الدم على ضماداته، فقال زورو:
+quote: «لم يحدث أيّ شيء.»
+source: رورونوا زورو
+explanation:
+Multiple rib fractures cause real morbidity, mostly because pain stops the patient from breathing deeply and coughing.
+Good analgesia is the core of treatment, and thoracic epidural analgesia has been shown to improve outcomes: D is the answer.
+Multiple rib fractures are an indication for an epidural, not a contraindication, and incentive spirometry does help predict who will do badly.
+A chest tube is not placed prophylactically, and elderly patients fare worse than young ones, not better.
+
 
 == 7
 # book 2.2: resuscitative thoracotomy in the ED -> D, a penetrating anterior chest wound in a patient who becomes tachycardic and then pulseless (witnessed arrest after penetrating trauma).
@@ -105,6 +220,25 @@ palette: emergency red and white, with treasure gold
 keywords: penetrating anterior chest wound -> a sword wound in the front of a woman's chest; tachycardia then pulselessness -> a little drum beating faster and faster beside her, then its sticks falling still; resuscitative thoracotomy -> Chopper flinging open the side lid of the treasure chest she clutches (a CHEST opened from its side); asystole -> a nun lying perfectly still on a flat white line under the mast
 must: the woman's wound is in the FRONT of her chest; Chopper opens the treasure chest at once, right where she fell; the nun lies on a flat white line far behind
 scene: The infirmary of the Thousand Sunny, harsh red emergency light and white sheets. CENTRE, dominant and brightest: a young woman pirate with a sword wound in the front of her chest has just collapsed to the floor, still clutching a golden treasure chest against her; beside her a little drum that was beating faster and faster has fallen silent, its sticks dropped. Tony Tony Chopper, the little reindeer doctor in a pink top hat, kneels and flings open the side lid of the treasure chest at once, light pouring out. FAR BACKGROUND, through the open door, under the mast: a nun lies perfectly still on a flat white line, and nobody runs to her.
+story:
+في ضوء أحمر قاس في مستوصف السفينة، سقطت قرصانة شابّة اسمها ليلا، وفي مقدّم صدرها جرح سيف.
+وكانت تضمّ إلى صدرها صندوق كنز ذهبيًّا لا تفلته.
+وإلى جانبها طبل صغير يدقّ أسرع فأسرع.
+ثمّ سكت الطبل فجأةً، وسقطت عصيّه على الأرض.
+«سكت الآن أمام عينيّ! لا وقت لحملها إلى أيّ مكان!»
+فجثا تشوبر، وفتح غطاء الصندوق الجانبيّ في الحال، فاندفع منه النور.
+وفي البعيد، تحت الصاري، رقدت راهبة ساكنة تمامًا على خطّ أبيض مستو.
+«وتلك؟ ألا تفتح صندوقها أيضًا؟» سألت روبين.
+«تلك سقطت من الصاري، ولم يبق فيها نبض منذ البداية؛ أمّا ليلا فسكتت أمامي.»
+فعاد الطبل يدقّ رويدًا، فتذكّر تشوبر كلمةً يردّدها قائده:
+quote: «إن لم تخاطر بحياتك، فلن تصنع المستقبل!»
+source: مونكي دي لوفي
+explanation:
+Resuscitative thoracotomy in the emergency department gives its best results after penetrating chest trauma in a patient who loses signs of life in front of the team.
+A penetrating anterior chest wound in a patient who becomes tachycardic and then pulseless is that case: D is the answer.
+A blunt-trauma patient found pulseless with no electrical activity at the scene, or one with no cardiac activity after a fall, almost never survives it.
+A hypotensive patient who still has a pulse belongs in the operating room, not on the emergency department floor.
+
 
 == 8
 # book 2.3: stable transmediastinal gunshot wound, normal chest film -> B, CT scan.
@@ -119,6 +253,25 @@ palette: gunpowder grey, loaf gold and calm sky blue
 keywords: transmediastinal gunshot wound -> a cannonball hole straight through a pirate's chest from one side to the other; CT scan -> a cat slicing a long loaf of bread, with the same tunnel through it, into very thin slices with one sharp claw; sternotomy -> Franky about to saw open the ship's stern down its white centre line, held back by many arms sprouting from the deck
 must: the pirate stands calm and smiling; the cat's thin slices show the tunnel's track; Franky has NOT cut
 scene: The deck of the Thousand Sunny under a calm sky after a sea battle. LEFT: a pirate with a neat round cannonball hole straight through his chest from one side to the other stands calm, breathing easily and smiling. CENTRE, dominant and brightest: on a barrel in front of him, a sleek grey cat with one sharp claw slices a long loaf of golden bread, which has the same round tunnel straight through it, into very thin slices, and each slice shows where the tunnel runs. RIGHT, at the ship's stern: Franky, the blue-haired cyborg shipwright, lifts a saw to cut the stern open down its white centre line, but many slender arms sprouting from the deck hold his wrists back.
+story:
+بعد معركة بحريّة تحت سماء هادئة، وقف قرصان اسمه موس على سطح الثاوزند صني.
+وفي صدره ثقب مستدير نظيف، اخترقته قذيفة مدفع من جانب إلى جانب.
+«أنا بخير، أتنفّس ولا أشعر بشيء!» قال موس ضاحكًا.
+فركض فرانكي إلى مؤخّرة السفينة، ورفع منشاره ليشقّها على خطّها الأبيض.
+فنبتت من السطح أذرع نحيلة كثيرة، وأمسكت معصميه.
+«مهلًا يا فرانكي؛ لنعرف أوّلًا أين مرّت القذيفة.»
+وكان على برميل أمامه رغيف طويل ذهبيّ، فيه النفق نفسه من جانب إلى جانب.
+فجاء قطّ رماديّ رشيق، وأخذ يقطّع الرغيف بمخلب واحد إلى شرائح رقيقة جدًّا.
+فبان في كلّ شريحة موضع النفق، فعرفوا طريق القذيفة كلّه.
+فأنزل فرانكي منشاره، وتذكّر موس سؤالًا غريبًا سمعه يومًا من عملاق صامت:
+quote: «لو كان بوسعك أن تسافر، فإلى أين تريد أن تذهب؟»
+source: بارثولوميو كوما
+explanation:
+A gunshot wound that crosses the mediastinum can injure the heart, the great vessels, the airway or the oesophagus.
+In a haemodynamically stable patient with a clear chest film, the next step is a CT scan, which shows the missile's track and tells who needs further tests: B is the answer.
+Unstable patients go straight to the operating room.
+Sternotomy for exploration is not the first step in a stable patient.
+
 
 == 9
 # book 2.4: haemopneumothorax with a chest tube -> E, an air leak is NOT an indication for thoracotomy.
@@ -134,6 +287,25 @@ words: 2000
 keywords: chest tube -> a garden hose coming out of a sailor's side; blood drained -> red pouring from the hose into a bucket painted 2000; ongoing loss -> a second bucket filling steadily beside an hourglass; thoracotomy -> a treasure chest flung open from its side; air leak -> the hose of another sailor bubbling only air into a clear water jar, his treasure chest padlocked with Chopper sitting on it
 must: the bubbling sailor's treasure chest stays PADLOCKED; the bleeding sailor's chest is open
 scene: The lower deck of a pirate ship after a battle, lantern light on weathered timber. LEFT: a sailor with a garden hose coming out of his side pours red into a big bucket painted 2000, and a second bucket fills steadily beside an hourglass; above them his treasure chest is flung open from its side by Zoro. CENTRE-RIGHT, dominant and brightest: another sailor sits calmly, his garden hose bubbling only clear air into a big glass jar of water, and Tony Tony Chopper, the little reindeer doctor in a pink top hat, sits cross-armed on top of this sailor's treasure chest, which is shut with a big padlock.
+story:
+بعد المعركة، في ضوء الفوانيس على السطح السفليّ، جلس بحّاران جريحان.
+الأوّل يخرج من جنبه خرطوم حديقة، يصبّ أحمر في دلو كبير مكتوب عليه: ألفان.
+وإلى جانبه دلو ثان يمتلئ بلا توقّف، قرب ساعة رمليّة.
+«افتحوا صندوقه الآن، لا تنتظروا!» صاح زورو.
+ففتح زورو صندوق كنز الرجل من جانبه في الحال.
+أمّا البحّار الثاني، فكان خرطومه لا يخرج إلّا فقاعات هواء صافيةً في جرّة ماء.
+فجاء تشوبر، وجلس معقود الذراعين فوق صندوقه المقفل بقفل كبير.
+«هذا الصندوق يبقى مغلقًا؛ الفقاعات وحدها لا تفتحه!»
+فتنفّس البحّار الثاني بهدوء، والفقاعات تصعد في الجرّة واحدةً بعد واحدة.
+فمدحه زورو على حكمته، فقال تشوبر وهو يرقص فرحًا:
+quote: «مدحك لا يسعدني أبدًا، أيّها الأحمق!»
+source: توني توني تشوبر
+explanation:
+After a chest tube for a haemothorax, thoracotomy is indicated for a large initial drainage, as with 2000 mL of blood here.
+It is also indicated for ongoing loss of more than 200 to 250 mL an hour for several hours, a haemothorax that persists despite a second tube, or haemodynamic instability.
+An air leak alone is not an indication for thoracotomy; it is managed with the chest tube: E is the answer.
+A large or persistent air leak may point to a bronchial injury, which is looked for with bronchoscopy.
+
 
 == 10
 # book 2.5: side impact, abdominal pain, dyspnoea, left chest opaque -> E, insert a nasogastric tube (suspected diaphragmatic rupture with the stomach in the chest).
@@ -148,3 +320,22 @@ palette: steam white, copper pot orange and train green
 keywords: side-impact collision -> the side of a Sea Train carriage crushed in; diaphragmatic rupture -> a torn deck between the hold and the cabin; stomach in the chest -> Sanji's big copper cooking pot that has climbed up through the torn deck into the boy's left side; nasogastric tube -> a long thin garden hose slid in through the boy's nose down to the pot, letting its steam out; chest tube -> Zoro about to stab a spike into the boy's left side
 must: the pot sits on the boy's LEFT side, above the torn deck; Zoro's spike is stopped BEFORE it goes in
 scene: Inside a Sea Train carriage whose side has been crushed in by the crash, green walls and hissing steam. CENTRE, dominant and brightest: a young passenger holds his belly in pain; on his left side a big copper cooking pot has climbed up through a torn hole in the deck floor and sits high up beside his chest, and Tony Tony Chopper, the little reindeer doctor in a pink top hat, slides a long thin garden hose in through the boy's nose and down to the pot, so a jet of steam whistles out of it. RIGHT: Zoro raises a sharp iron spike toward the boy's left side, but Chopper's raised hoof stops him.
+story:
+في عربة من عربات قطار البحر، انسحق جانبها في الصدمة، والبخار يصفر.
+وجلس مسافر شابّ اسمه تيمو يمسك بطنه من الألم، وأنفاسه قصيرة.
+وفي أرض العربة شقّ ممزّق، صعدت منه قدر طبخ نحاسيّة كبيرة.
+فاستقرّت القدر عاليةً إلى جانب صدره الأيسر.
+فرفع زورو مسمارًا حديديًّا حادًّا ليطعن به جنبه الأيسر.
+«قف يا زورو! ستثقب القدر!» صاح تشوبر، ورفع حافره.
+ثمّ أدخل تشوبر خرطومًا رفيعًا طويلًا من أنف تيمو، حتّى بلغ القدر.
+فانطلق منها البخار صافرًا، وخفّ ضغطها على صدره.
+«آه... صرت أتنفّس من جديد!» قال تيمو.
+فأعاد زورو مسماره إلى حزامه، وتذكّر تشوبر كلمةً قالها قائده يومًا:
+quote: «لا أعرف المبارزة، ولا الملاحة، ولا الطبخ، ولا الكذب... أعرف أنّي أحتاج إلى غيري لأبقى حيًّا!»
+source: مونكي دي لوفي
+explanation:
+After a side impact, abdominal pain with an opaque left chest suggests a ruptured diaphragm with the stomach in the chest.
+The next step is a nasogastric tube, which decompresses the stomach and, when its tip is seen in the chest, confirms the diagnosis: E is the answer.
+A chest tube placed first could perforate the herniated stomach.
+The tear is then repaired, usually through the abdomen in the acute setting.
+

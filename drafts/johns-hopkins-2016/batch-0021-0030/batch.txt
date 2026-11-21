@@ -14,6 +14,25 @@ palette: honey gold, bread crust brown and twilight violet
 keywords: CT scan -> a cat slicing a long loaf of bread into very thin slices with one sharp claw; honeycombing -> golden honeycomb packed along the crust edges and the bottom of the loaf; traction bronchiectasis -> tiny ribbed twigs in the slices pulled wide open by little ropes; idiopathic pulmonary fibrosis -> an old fisherman with a dry wheezing cough, clutching a stiff shrunken sack of dollar bills
 must: the honeycomb is along the EDGES and at the BOTTOM of the slices; the twigs are pulled WIDE by ropes
 scene: A fisherman's hut on Fishman Island's shore at twilight, violet light. LEFT: an old grey fisherman sits coughing dry, clutching a stiff shrunken sack of green dollar bills. CENTRE, dominant and brightest: on the table a sleek grey cat with one sharp claw slices a long loaf of bread into very thin slices, and every slice shows golden honeycomb packed along its crust edges and thickest at the bottom, with tiny ribbed twigs inside pulled wide open by little ropes. Nico Robin, the dark-haired archaeologist, holds up one slice to the lamp and studies it.
+story:
+عند الغسق، في كوخ صيّاد على شاطئ جزيرة رجال السمك، جلس صيّاد عجوز يسعل سعالًا جافًّا.
+وكان يضمّ إليه كيسًا متيبّسًا منكمشًا من الدولارات، لا يتّسع لنفس واحد.
+«صدري كأنّه خشب يابس، وسعالي لا يخرج شيئًا!»
+وعلى المائدة أمامه رغيف طويل، جاء إليه قطّ رماديّ رشيق بمخلب حادّ.
+فأخذ القطّ يقطّعه إلى شرائح رقيقة جدًّا، شريحةً بعد شريحة.
+فبان في كلّ شريحة قرص عسل ذهبيّ، متراصّ على حوافّها، وأكثف ما يكون في أسفلها.
+وفي داخل الشرائح أغصان مضلّعة صغيرة، تشدّها حبال دقيقة فتتّسع.
+فرفعت روبين شريحةً إلى المصباح، وتأمّلتها طويلًا.
+«قرص العسل على الحوافّ وفي الأسفل، والأغصان مشدودة بالحبال؛ هذه علامته الّتي لا تخطئ.»
+فضحك العجوز رغم سعاله، وتذكّر طبيبةً عجوزًا من جزيرة الثلج كانت تسأل كلّ من تلقاه:
+quote: «تريد أن تعرف سرّ شبابي؟»
+source: الدكتورة كوريها
+explanation:
+Idiopathic pulmonary fibrosis is a progressive fibrosing lung disease of older adults, usually presenting after 50 with dyspnoea and a dry cough.
+The fibrosis predominates in the subpleural regions and the lower zones, not the upper zones.
+Its classic CT findings are honeycombing and traction bronchiectasis: C is the answer.
+Pulmonary function tests show a restrictive pattern with a low DLco, and transbronchial biopsies are usually not enough for the diagnosis.
+
 
 == 22
 # book 5.2: cryptogenic organizing pneumonia -> D, transbronchial biopsy is often insufficient for the diagnosis.
@@ -28,6 +47,25 @@ palette: crypt stone grey, fluff white and tweezer silver
 keywords: cryptogenic organizing pneumonia -> a stone crypt inside a sack of green dollar bills where a fussy organizer stacks little plugs of white fluff into neat boxes; transbronchial biopsy -> a long pair of tweezers pushed down a ribbed hose pulling out only one tiny crumb; insufficient -> Chopper frowning at the crumb through a magnifier; surgical lung biopsy -> Zoro holding up a big wedge cut cleanly from the sack of dollar bills
 must: the tweezers bring out only a TINY crumb; Zoro's wedge is big and shows the boxes
 scene: Inside a giant sack of green dollar bills drawn like a dim stone crypt with many tiny rooms. LEFT: a fussy organizer in round spectacles stacks little plugs of white fluff into neat boxes in each tiny room. CENTRE, dominant and brightest: a long pair of silver tweezers, pushed down a white ribbed hose from above, pulls out only one tiny crumb, and Tony Tony Chopper, the little reindeer doctor in a pink top hat, frowns at it through a magnifier. RIGHT: Roronoa Zoro holds up a big clean wedge he has cut from the sack, its neat boxes plainly visible.
+story:
+في داخل كيس عملاق من الدولارات، بدا المكان سردابًا حجريًّا معتمًا، فيه غرف صغيرة كثيرة.
+وكان منظّم مدقّق في نظّارتين مستديرتين يرتّب سدادات من الزغب الأبيض.
+فيضعها في صناديق أنيقة متراصّة، في كلّ غرفة صندوق.
+ثمّ نزل من فوق ملقاط فضّيّ طويل، في خرطوم أبيض مضلّع.
+فالتقط فتاتةً واحدةً صغيرةً جدًّا، وخرج بها.
+فنظر إليها تشوبر بعدسته المكبّرة، وعبس.
+«هذه الفتاتة أصغر من أن تريني الصناديق؛ لا أستطيع أن أحكم بها!»
+فتقدّم زورو، ورفع قطعةً كبيرةً نظيفةً قطعها من الكيس.
+فبانت فيها الصناديق الأنيقة كلّها، واضحةً لكلّ عين.
+فقال له تشوبر إنّه أنقذ المريض، فأجاب زورو بكلمة قالها يومًا عن قائده:
+quote: «إن لم أستطع حماية حلم قائدي، فطموحي ليس إلّا كلامًا فارغًا!»
+source: رورونوا زورو
+explanation:
+Cryptogenic organizing pneumonia fills the small airways and alveoli with plugs of granulation tissue.
+It most often presents as a pneumonia that does not resolve, with cough, fever and patchy consolidation.
+Transbronchial biopsy is often insufficient to make the diagnosis, and a surgical lung biopsy may be needed: D is the answer.
+It responds well to steroids, usually given for six months or longer, not just two to three months.
+
 
 == 23
 # book 5.3: sarcoidosis -> C, Löfgren syndrome = erythema nodosum, polyarthralgias and hilar adenopathy (an acute presentation).
@@ -43,6 +81,25 @@ palette: desert sand, sarcophagus gold and bread green
 keywords: sarcoidosis -> a young dancer sitting on a golden stone sarcophagus (SARCO-idosis); Löfgren syndrome -> a green loaf of bread held in her hands (LOAF-GREEN); erythema nodosum -> tender red lumps on both her shins; polyarthralgia -> bandages wrapped round every joint, wincing; hilar adenopathy -> swollen clusters of pearls at the necks of the two sacks of green dollar bills she carries
 must: red lumps on BOTH shins; pearls swollen at the necks of BOTH sacks
 scene: A desert tomb in Alabasta, sand gold light. CENTRE, dominant and brightest: a young dancer sits on a golden stone sarcophagus holding a green loaf of bread; tender red lumps rise on both her shins, every joint of her arms and legs is wrapped in white bandages and she winces as she moves, and on her shoulders hang two sacks of green dollar bills whose necks are swollen with big clusters of pearls. Tony Tony Chopper, the little reindeer doctor in a pink top hat, kneels and gently touches the lumps on her shin.
+story:
+في مقبرة صحراويّة في ألاباستا، تحت ضوء ذهبيّ كالرّمل، جلست راقصة شابّة اسمها نادية.
+وكانت تجلس على تابوت حجريّ ذهبيّ من توابيت الفراعنة.
+وفي يديها رغيف أخضر من الخبز، لم تأكل منه شيئًا.
+«كنت أرقص أمس، واليوم لا أقدر على خطوة واحدة!»
+وقد برزت على ساقيها كلتيهما كتل حمراء مؤلمة.
+ولفّت كلّ مفاصلها بضمادات بيضاء، تتألّم كلّما تحرّكت.
+وعلى كتفيها كيسان من الدولارات، انتفخ عنق كلّ منهما بعناقيد كبيرة من اللؤلؤ.
+فجثا تشوبر، ولمس الكتل على ساقها برفق.
+«الكتل الحمراء، والمفاصل المتألّمة، واللّؤلؤ عند العنقين؛ ثلاثتها معًا وفجأةً!»
+فابتسمت نادية رغم الألم، وتذكّرت ما صاح به قرصان في قبّعة قشّ لأميرة هذه البلاد:
+quote: «على الأقلّ خاطري بحياتنا نحن أيضًا! ألسنا أصدقاءك؟»
+source: مونكي دي لوفي
+explanation:
+Sarcoidosis is a multisystem disease of noncaseating granulomas; the lungs are involved in about 90 percent of patients.
+Löfgren syndrome is its acute presentation: erythema nodosum, polyarthralgias and bilateral hilar adenopathy, often with fever: C is the answer.
+Asymptomatic hilar adenopathy is a common presentation, not a rare one, and the disease favours the upper and middle lung zones.
+The granulomas are noncaseating; caseation points to tuberculosis or fungal infection.
+
 
 == 24
 # book 5.4: allergic bronchopulmonary aspergillosis -> A, it occurs in nearly 30 percent of steroid-dependent asthmatics (the book's figure).
@@ -58,6 +115,25 @@ words: 30
 keywords: steroid-dependent asthmatic -> a wheezing sailor hugging a big stereo boombox he cannot put down (STEROID = STEREO); aspergillosis -> green asparagus spears sprouting out of the top of a ribbed hose he wears like a windpipe (ASPER-gillus = asparagus); nearly 30 percent -> a flag painted 30 above him; allergic -> the sailor sneezing at the asparagus; steroids as cornerstone -> Chopper turning the stereo's volume knob up, a bottle of weed-killer left aside
 must: the asparagus grows OUT of the ribbed hose; he hugs the stereo and will not let it go
 scene: The deck of a merchant ship at noon. CENTRE, dominant and brightest: a sailor wheezing so hard that a whistle sounds from his lips hugs a big black stereo boombox to his chest, and out of the top of a white ribbed hose he wears like a windpipe green asparagus spears sprout, making him sneeze; above him flies a white flag painted 30. Tony Tony Chopper, the little reindeer doctor in a pink top hat, reaches up and turns the stereo's volume knob higher, while a bottle of weed-killer stands ignored on a barrel.
+story:
+في ظهر يوم على سطح سفينة تجاريّة، وقف بحّار اسمه هوغو يلهث، وصفير يخرج من شفتيه.
+وكان يضمّ إلى صدره جهاز استريو أسود كبيرًا، لا يفلته لحظةً واحدة.
+«لا أستطيع أن أعيش بدونه؛ إن أطفأتموه اختنقت!»
+ومن رأس خرطوم أبيض مضلّع يلبسه كقصبة هواء، نبتت أعواد هليون خضراء.
+فعطس هوغو من الهليون مرّةً بعد مرّة.
+وفوقه رفرفت راية بيضاء مكتوب عليها: ثلاثون.
+«ثلاثون من كلّ مئة ممّن يحملون الاستريو مثلي، ينبت في خراطيمهم هذا الهليون!»
+فجاء تشوبر، ومدّ حافره إلى الاستريو، وأدار زرّ الصوت إلى الأعلى.
+أمّا قنّينة مبيد الأعشاب فبقيت على البرميل لا يلتفت إليها أحد.
+فتنفّس هوغو أخيرًا، وصاح وهو يرفع الاستريو كأنّه درع:
+quote: «أريد أن أكون محاربًا شجاعًا من محاربي البحر!»
+source: أوسوب
+explanation:
+Allergic bronchopulmonary aspergillosis is a hypersensitivity reaction to Aspergillus in the airways of patients with asthma or cystic fibrosis.
+The book puts it at nearly 30 percent of steroid-dependent asthmatics: A is the answer.
+Its diagnosis rests on asthma, a positive skin test to Aspergillus, a total IgE above 1000 ng/mL (IgE, not IgA), eosinophilia and central bronchiectasis, not on the chest film alone.
+Steroids are the cornerstone of treatment; antifungals such as itraconazole are added to them.
+
 
 == 25
 # book 5.5: amiodarone pulmonary toxicity, most common presentation -> D, interstitial pneumonitis.
@@ -72,6 +148,25 @@ palette: brass yellow, ember red and night blue
 keywords: arrhythmia -> a pirate shouting ARRR and dancing a wild jig out of step with the music; amiodarone -> Usopp firing a bandolier of brass AMMO rounds at the dancer (AMMO-darone); interstitial pneumonitis -> the threads woven BETWEEN the dollar bills of a sack glowing red-hot and swelling; lung -> a sack of green dollar bills
 must: the red-hot glow is in the threads BETWEEN the bills, not on the bills themselves
 scene: A ship's deck at night, blue moonlight and brass lamps. LEFT: a pirate shouting ARRR dances a wild jig out of step with the music. Usopp, the long-nosed sniper, fires a long bandolier of brass ammo rounds at him, and the dancer slows and stops. CENTRE, dominant and brightest: the stray brass rounds have lodged in a big sack of green dollar bills behind the dancer, and all the threads woven between the bills glow red-hot and swell, while the bills themselves stay green. Small grey round stones and a little puddle lie dim on the planks beside it.
+story:
+في ليلة مقمرة على ظهر سفينة، خرج قرصان يصيح «آرّ» ويرقص رقصةً مجنونةً على غير إيقاع.
+فأخذ أوسوب حزامًا طويلًا من طلقات الذخيرة النحاسيّة، وأطلقها نحوه.
+«هذه الذخيرة توقف أيّ راقص مجنون!»
+فتباطأ القرصان رويدًا رويدًا، ثمّ وقف.
+لكنّ طلقات شاردةً استقرّت في كيس كبير من الدولارات خلفه.
+فتوهّجت الخيوط المنسوجة بين الأوراق حمرةً كالجمر، وانتفخت.
+أمّا الأوراق نفسها، فبقيت خضراء كما كانت.
+«النار بين الأوراق لا فيها! هذه أكثر ما تفعله ذخيرتي حين تشرد.»
+وعلى الألواح إلى جانب الكيس، حجارة رماديّة مستديرة وبركة ماء صغيرة، باهتة لا ينظر إليها أحد.
+فوقف أوسوب أمام الكيس المتوهّج يحميه، وصاح بكلمته الّتي لا ينساها أحد:
+quote: «يأتي وقت يجب فيه على الرجل أن يقف ويقاتل؛ حين يسخر الناس من أحلام أصدقائه!»
+source: أوسوب
+explanation:
+Amiodarone, an antiarrhythmic drug, can damage the lung, especially at higher doses and over long periods.
+Its commonest pulmonary presentation is interstitial pneumonitis: D is the answer.
+Less often it causes organizing pneumonia (BOOP), ARDS, nodules or pleural effusions.
+Treatment is to stop the drug, often with steroids.
+
 
 == 26
 # book 6.1: lung abscess, NOT an indication for resection -> A, cavity size over 4 cm.
@@ -87,6 +182,24 @@ words: 4
 keywords: lung abscess -> a festering hollow cave inside a sack of green dollar bills, a measuring tape across it reading 4; not an indication -> Zoro sliding his sword back into its sheath while Chopper pours blue medicine into the cave; suspected cancer -> a red crab hiding in a second cave, which Zoro cuts out; bronchopleural fistula -> a fist punching through from a cave into a ribbed hose
 must: Zoro SHEATHES his sword at the big cave marked 4; he cuts only where the crab hides
 scene: Inside a giant sack of green dollar bills drawn like a rocky island with caves, ochre light. CENTRE, dominant and brightest: a big festering hollow cave with a yellow measuring tape stretched across it reading 4; Tony Tony Chopper, the little reindeer doctor in a pink top hat, pours a bottle of glowing blue medicine into it, and Roronoa Zoro slides his sword back into its sheath with a nod. RIGHT: in a second small cave a red crab hides, and Zoro's other sword is already cutting it out. TOP: a fist punches through from a third cave into a white ribbed hose.
+story:
+في داخل كيس عملاق من الدولارات، بدت جزيرة صخريّة ذات كهوف، تحت ضوء أصفر ترابيّ دافئ.
+وفي وسطها كهف كبير أجوف متقيّح، مدّ عبره شريط قياس أصفر يقرأ: أربعة.
+«كهف بهذا الحجم؟ سأقطعه الآن!»
+فصبّ تشوبر فيه قنّينةً من الدواء الأزرق المضيء.
+«لا يا زورو؛ الحجم وحده لا يجعله لسيفك، دوائي يكفيه.»
+فأعاد زورو سيفه إلى غمده، وهزّ رأسه موافقًا.
+لكنّ سرطانًا أحمر كان يختبئ في كهف ثان صغير.
+فانطلق سيف زورو الآخر إليه، وقطعه مع كهفه.
+وفي الأعلى، اخترقت قبضة من كهف ثالث إلى خرطوم مضلّع أبيض، فأشار إليها تشوبر: وتلك أيضًا لسيفك.
+فابتسم زورو، وتذكّر ما قاله له أقوى مبارز في العالم يوم هزمه:
+quote: «اعرف العالم، واعرف نفسك، وكن قويًّا يا رورونوا! سأنتظرك في القمّة مهما طال الزمن.»
+source: دراكول ميهوك
+explanation:
+Most lung abscesses heal with antibiotics and drainage, so the size of the cavity alone is not an indication for resection: A is the answer.
+Resection is indicated when a cavitating cancer cannot be excluded, for an infected sequestration, for a bronchopleural fistula and for recurrent or massive haemoptysis.
+Failure of medical treatment is another indication; large cavities are more likely to fail, but are first treated medically.
+
 
 == 27
 # book 6.2: pulmonary actinomycosis, commonest reason for surgery -> D, suspected carcinoma.
@@ -101,6 +214,25 @@ palette: theatre curtain red, sulfur yellow and dollar green
 keywords: actinomycosis -> an ACTOR in a red crab costume clinging to a sack of green dollar bills (ACTINO = actor); suspected carcinoma -> the crab costume that looks like cancer, the crab; surgery -> Zoro cutting the actor out, thinking he is a real crab; sulfur granules -> yellow sulfur grains spilling from the cut costume; penicillin -> Chopper holding up a giant pencil (PENCIL-lin)
 must: the crab is plainly a COSTUME with an actor's face peeking out; yellow grains spill when Zoro cuts
 scene: The stage of a theatre on a festive island, red curtains and footlights. CENTRE, dominant and brightest: an actor wearing a red crab costume clings to a big sack of green dollar bills, his human face peeking out of the crab's head; Roronoa Zoro, the green-haired swordsman, slashes the costume open in one stroke, and a shower of bright yellow sulfur grains spills out over the stage. RIGHT: Tony Tony Chopper, the little reindeer doctor in a pink top hat, holds up a giant yellow pencil, laughing.
+story:
+على خشبة مسرح في جزيرة محتفلة، بين ستائر حمراء وأضواء ساطعة، تشبّث سرطان أحمر كبير بكيس من الدولارات.
+فصاح الناس فزعًا، وتراجعوا عن الخشبة.
+«سرطان على الكيس! لا بدّ من قطعه الآن!» صاح زورو.
+فشقّ زورو السرطان بضربة واحدة.
+فإذا هو ليس سرطانًا، بل ممثّل في زيّ سرطان، يطلّ وجهه من رأس الزيّ.
+وانهمرت من الزيّ المشقوق حبيبات صفراء ساطعة من الكبريت.
+«أخطأت الدور فقط! ظنّوني سرطانًا حقيقيًّا!» قال الممثّل مرتبكًا.
+فضحك تشوبر، ورفع قلم رصاص أصفر عملاقًا.
+«هذا الزيّ يخدع الجميع، وقلمي هذا يصلح ما بقي منه!»
+فأعاد زورو سيفه إلى غمده، وتذكّر كلمة أخ ناريّ لقائده مات مبتسمًا:
+quote: «أريد أن أعيش حياةً لا أندم فيها على شيء!»
+source: بورتغاس دي إيس
+explanation:
+Actinomycosis is a chronic infection that can form a mass with fibrosis, mimicking lung cancer.
+The commonest reason for operating on pulmonary actinomycosis is a suspected carcinoma: D is the answer.
+Sulfur granules in the tissue or pus show the organism.
+It is treated with high-dose penicillin for months, and surgery is kept for complications or doubt about cancer.
+
 
 == 28
 # book 6.3: nocardiosis -> B in the book: sulfur granules draining from a chest-wall sinus (classically a feature of actinomycosis; the key is kept with a note).
@@ -115,6 +247,26 @@ palette: hull timber brown, sulfur yellow and pale blue
 keywords: nocardiosis -> a big brass door knocker banging on a treasure chest (KNOCK-ardia); chest-wall sinus -> a tunnel bored right through the treasure chest's wall; sulfur granules -> yellow sulfur grains trickling out of the tunnel; immunosuppressed -> a pale sailor in a blanket whose shield lies broken beside him
 must: the yellow grains trickle OUT of a tunnel through the chest's wall
 scene: The hold of a pirate ship, timber brown and pale blue light. A pale thin sailor wrapped in a blanket, his shield lying broken beside him, clutches a big treasure chest. CENTRE, dominant and brightest: a big brass door knocker on the chest's lid bangs by itself, and from a tunnel bored right through the chest's side wall a stream of bright yellow sulfur grains trickles out onto the floor. Tony Tony Chopper, the little reindeer doctor in a pink top hat, crouches and catches the grains in his hoof, frowning.
+story:
+في عنبر سفينة قراصنة، تحت ضوء أزرق شاحب، جلس بحّار نحيل مصفرّ الوجه ملتفًّا ببطّانيّته.
+وكان درعه مكسورًا إلى جانبه، لا يحميه من شيء.
+وكان يضمّ إليه صندوق كنز كبيرًا.
+فأخذت مطرقة باب نحاسيّة على غطاء الصندوق تطرق وحدها: طقّ، طقّ، طقّ.
+«من يطرق صندوقي، وأنا لم أفتح لأحد؟»
+ثمّ خرج من نفق محفور في جدار الصندوق الجانبيّ، خيط من حبيبات الكبريت الصفراء.
+فانساب على الأرض يلمع تحت الضوء.
+فجثا تشوبر، وتلقّى الحبيبات بحافره، وعبس.
+«هذا الطارق لا يدخل إلّا على من انكسر درعه، وكتابنا يقول إنّ هذه الحبيبات تخرج من نفقه.»
+فضمّ تشوبر البحّار إليه، وتذكّر كلمة قرصان عجوز عظيم كان يسمّي رجاله أبناءه:
+quote: «كلّنا أبناء البحر!»
+source: إدوارد نيوغيت (اللحية البيضاء)
+note: The book's key is B. Sulfur granules draining from a chest-wall sinus are classically a feature of actinomycosis; nocardia rarely forms granules.
+explanation:
+Nocardiosis is an infection that strikes mainly immunosuppressed patients.
+It forms lung abscesses, often several of them, and spreads to the brain and the chest wall.
+The book's key is B: sulfur granules draining from a chest-wall sinus.
+It is treated with sulfonamides, not penicillin, and rarely needs a lobectomy.
+
 
 == 29
 # book 6.4: tuberculosis, NOT an indication for surgery -> E, miliary tuberculosis.
@@ -129,6 +281,24 @@ palette: brass gold, millet beige and asparagus green
 keywords: miliary tuberculosis -> a brass tuba riddled with holes spraying a fine mist of tiny millet seeds over the whole deck; not for surgery -> Chopper pushing Zoro's sword down; aspergilloma in a tuberculous cavity -> green asparagus growing in one big hole of a second tuba, which Zoro cuts out; bronchial stenosis -> a tight knot squeezing a ribbed hose
 must: the millet seeds cover the WHOLE deck; Zoro does not cut the spraying tuba
 scene: The deck of a pirate ship, golden afternoon. CENTRE, dominant and brightest: a big brass tuba riddled with holes, white cheese oozing from them, sprays a fine mist of tiny millet seeds over the whole deck, and Tony Tony Chopper, the little reindeer doctor in a pink top hat, pushes Zoro's sword down toward the planks, shaking his head. RIGHT: from one big hole of a second holed tuba green asparagus spears grow, and Zoro's other sword cuts them out. LEFT: a white ribbed hose is squeezed by a tight knot.
+story:
+في عصر ذهبيّ على سطح سفينة قراصنة، وقفت آلة توبا نحاسيّة كبيرة مليئة بالثّقوب.
+وكان الجبن الأبيض يسيل من ثقوبها كلّها.
+ثمّ نفخت من فوّهتها رذاذًا ناعمًا من بذور الدخن الصغيرة.
+فغطّى الرذاذ السطح كلّه، من المقدّمة إلى المؤخّرة.
+«سأقطع هذه التوبا من جذورها!» قال زورو.
+فدفع تشوبر سيفه إلى الألواح، وهزّ رأسه.
+«لا يا زورو! بذورها في كلّ مكان، وسيفك لا يبلغ كلّ مكان؛ هذه لدوائي.»
+وعلى اليمين، نبت هليون أخضر من ثقب كبير في توبا ثانية، فقطعه سيف زورو الآخر.
+وعلى اليسار، عقدة محكمة تعصر خرطومًا أبيض مضلّعًا، تنتظر دورها.
+فوقف تشوبر بين زورو والتّوبا يحميها، وتذكّر كلمة رجل أحمر الشعر في حانة قرية صغيرة:
+quote: «اسكب عليّ الشراب أو الطعام وسأضحك... لكنّي لا أغفر أبدًا لمن يؤذي صديقي!»
+source: شانكس
+explanation:
+Surgery in tuberculosis is reserved for complications or failure of drug treatment.
+Indications include diagnosis of mediastinal lymphadenopathy, a persistent cavity colonised by Aspergillus, persisting positive sputum in drug-resistant TB and bronchial stenosis.
+Miliary tuberculosis is spread through the blood to the whole body, so it is treated with drugs, not surgery: E is the answer.
+
 
 == 30
 # book 6.5: histoplasmosis, NOT an indication for surgery -> B, a healed solitary pulmonary nodule after adequate medical therapy.
@@ -143,3 +313,21 @@ palette: ancient stone grey, chalk white and sunset copper
 keywords: histoplasmosis -> a carved stone tablet of ancient history (HISTO-plasmosis = history), read by Robin; healed solitary nodule -> one small chalk-white pebble resting quietly in a sack of green dollar bills, Zoro sheathing his sword beside it; broncholithiasis -> a stone stuck in a ribbed hose being pulled out with pliers; superior vena cava obstruction -> a rope of scar choking a chimney pipe that brings dark water down
 must: Zoro SHEATHES his sword at the chalk-white pebble; the pliers pull a stone OUT of the hose
 scene: Ruins on Skypiea at sunset, copper light. LEFT: Nico Robin, the dark-haired archaeologist, reads a huge carved stone tablet of ancient history. CENTRE, dominant and brightest: a big sack of green dollar bills lies open on the stones; inside it one small chalk-white pebble rests quietly, and Roronoa Zoro slides his sword back into its sheath beside it with a calm nod. RIGHT: Franky pulls a stone out of a white ribbed hose with big pliers. TOP RIGHT: a rope of grey scar chokes a chimney pipe that brings dark water down.
+story:
+عند الغروب بين أطلال جزيرة السماء، تحت ضوء نحاسيّ، وقفت روبين تقرأ لوحًا حجريًّا عملاقًا من تاريخ قديم.
+«هذا الحجر يحفظ التاريخ كلّه، ولا ينسى شيئًا ممّا مرّ به.»
+وعلى الحجارة أمامها كيس كبير مفتوح من الدولارات الخضراء.
+وفي داخله حصاة واحدة صغيرة بيضاء كالطّباشير، ساكنة هادئة.
+فنظر إليها زورو طويلًا، ثمّ أعاد سيفه إلى غمده.
+«حصاة واحدة نامت بعد الدواء؛ لا شأن لسيفي بها.»
+وعلى اليمين، كان فرانكي ينتزع بكمّاشته الكبيرة حجرًا عالقًا في خرطوم مضلّع.
+وفي الأعلى، حبل رماديّ من الندب يخنق أنبوب مدخنة ينزل الماء الداكن.
+«الحجر العالق والحبل الخانق يؤذيان، فلهما العمل؛ أمّا الحصاة النائمة فدعوها.»
+فأنهت روبين قراءة اللوح، وقرأت كلمةً قالها ملك القراصنة قبل موته:
+quote: «الإرث المتوارث، وتيّار العصر، وأحلام الناس... هذه أشياء لا يوقفها أحد.»
+source: غول دي روجر
+explanation:
+Histoplasmosis is a fungal infection that usually heals by itself or with medical therapy, often leaving a calcified nodule.
+A healed solitary pulmonary nodule after adequate medical therapy is not an indication for surgery: B is the answer.
+Operations are kept for complications: the middle lobe syndrome, symptomatic broncholithiasis, superior vena cava obstruction from fibrosing mediastinitis and oesophageal obstruction.
+
