@@ -52,6 +52,14 @@ Updated 2026-11-21 (morning). Whoever works on YouTop next: read `CLAUDE.md`, th
     (2026-11-21) that One Piece quotations may repeat: each line at most twice in a book, at least 20 lessons apart
     (`quoteRepeats` in the book's json; `batch.py build` enforces it). Lessons 71-100 reuse lines from 1-80.
     Lesson 5's line S7 was misheard by the voice check; it was rewritten and re-recorded.
+  - Lessons 101-150 (book 21.1-30.5: pleura, diaphragm, heart physiology, bypass machine, cardioplegia, care after heart
+    surgery, CABG, off-pump CABG, redo CABG, carotid disease): scenes and prompts written and SENT
+    (`prompts-jh-101-150.txt`, `drafts/johns-hopkins-2016/batch-0101-0110` ... `0141-0150`). The owner asked for more work
+    on memory and stories. New audited symbols: carotid (a carrot pipe up to the head lantern), amiodarone (ammo),
+    diaphragm (a deck / trampoline), hiatal hernia (a widened hole in the deck), hibernating myocardium (a sleeping bear),
+    mesothelioma (a rind). Keys kept with a note: 138 (full-dose heparin; many centres use less off-pump), 139 (routine
+    shunts; many use them selectively), 149 (NASCET's absolute reduction was about 17 percent). NEXT: stories,
+    explanations, quotations, build (chapter q0101-0200), recording. No JH picture has arrived yet.
   - **Restart warning (fixed 2026-11-21):** `batch.py build` for a NEW book used to run `publish.py --export` into
     `.content-work`, which overwrote the other books' unpublished lessons with their published copies (it wiped
     MedCosmos 111, 123, 125, 128, 149; they were rebuilt from their batches and their voices re-timed from the cache).

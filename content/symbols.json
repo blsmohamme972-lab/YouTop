@@ -4250,6 +4250,201 @@
    "status": "approved",
    "reason": "total 10/10, 2 layers",
    "audited": "2026-11-21"
+  },
+  {
+   "id": "carotid",
+   "concept": "carotid artery (and carotid stenosis)",
+   "terms": [
+    "carotid",
+    "carotid artery",
+    "carotid arteries",
+    "carotid stenosis",
+    "carotid disease",
+    "internal carotid artery"
+   ],
+   "symbol": "a giant orange carrot standing upright as the pipe from the orca's arch up to the head",
+   "anchors": [
+    "carrot"
+   ],
+   "kind": "sound-alike + place",
+   "layers": {
+    "sound": "CAROT-id = carrot",
+    "place": "it rises from the orca's arch (the aorta) up the neck to the head"
+   },
+   "why": "carotid = carrot, the classic picture",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Carotid endarterectomy = the carrot slit open and its tar scraped out; carotid stenting = a Slinky inside the carrot.",
+   "firstUsed": "johns-hopkins-2016",
+   "status": "approved",
+   "reason": "total 10/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "amiodarone",
+   "concept": "amiodarone",
+   "terms": [
+    "amiodarone"
+   ],
+   "symbol": "a bandolier of brass AMMO rounds fired at the dancing pirate (the arrhythmia) to stop him",
+   "anchors": [
+    "ammo"
+   ],
+   "kind": "sound-alike + meaning",
+   "layers": {
+    "sound": "AMIO-darone = ammo",
+    "meaning": "an antiarrhythmic: it stops the pirate's out-of-step dance; stray rounds that lodge in the lung sack set its threads red-hot (pneumonitis)"
+   },
+   "why": "amio = ammo; first used in lesson 25",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "johns-hopkins-2016 25",
+   "status": "approved",
+   "reason": "total 10/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "diaphragm",
+   "concept": "diaphragm",
+   "terms": [
+    "diaphragm",
+    "diaphragmatic",
+    "hemidiaphragm",
+    "crus"
+   ],
+   "symbol": "the deck floor between the chest cabin above and the belly hold below, taut and springy like a trampoline",
+   "anchors": [
+    "deck",
+    "trampoline"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "a stretched sheet that bounces down and up with each breath",
+    "place": "the floor between the chest (above) and the belly (below); the sofa slide passes through a hole in it"
+   },
+   "why": "the diaphragm is a domed sheet that moves with breathing",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "First drawn as the deck in lessons 10, 56 and 68. Paralysis = the deck gone slack on one side.",
+   "firstUsed": "johns-hopkins-2016 10",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "hiatal-hernia",
+   "concept": "hiatal hernia (sliding and paraesophageal)",
+   "terms": [
+    "hiatal hernia",
+    "hiatus hernia",
+    "paraesophageal hernia",
+    "paraoesophageal hernia",
+    "sliding hernia",
+    "type I hiatal hernia"
+   ],
+   "symbol": "the copper cooking pot pushing up through a widened hole in the deck floor (the diaphragm)",
+   "anchors": [
+    "widened hole",
+    "big hole"
+   ],
+   "kind": "meaning + place",
+   "family": "gut",
+   "layers": {
+    "meaning": "the stomach slips up into the chest",
+    "place": "through the hole in the trampoline where the sofa slide passes; sliding = the drawstring rides up with the pot, paraesophageal = the pot rolls up beside the slide while the drawstring stays below"
+   },
+   "why": "the stomach through the widened hiatus",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "johns-hopkins-2016 68",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "hibernating",
+   "concept": "hibernating myocardium",
+   "terms": [
+    "hibernating myocardium",
+    "hibernation",
+    "hibernating"
+   ],
+   "symbol": "a brown bear asleep in the hotel's engine room, turning the fan slowly while little coal reaches it, waking when the coal returns",
+   "anchors": [
+    "bear"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "living muscle that slows down to match a poor supply and recovers when the supply is restored",
+    "place": "in the engine room (the ventricle), below a clogged Liberty crown"
+   },
+   "why": "a hibernating bear: alive, slowed down, wakes up",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "johns-hopkins-2016",
+   "status": "approved",
+   "reason": "total 10/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "mesothelioma",
+   "concept": "malignant mesothelioma",
+   "terms": [
+    "mesothelioma",
+    "malignant mesothelioma",
+    "malignant pleural mesothelioma"
+   ],
+   "symbol": "a red crab spinning a thick grey rind, like a melon rind, all round the sack of dollar bills and the lining of the chest",
+   "anchors": [
+    "rind"
+   ],
+   "kind": "meaning + place",
+   "family": "cancer",
+   "layers": {
+    "meaning": "a cancer of the pleura that encases the lung in a rind",
+    "place": "on the lining of the chest and around the lung sack"
+   },
+   "why": "the pleural rind of mesothelioma, spun by the cancer crab",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Same family as the crab.",
+   "firstUsed": "johns-hopkins-2016",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-21"
   }
  ]
 }
