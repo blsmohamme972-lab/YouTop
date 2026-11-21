@@ -17,7 +17,7 @@ The scores are a judgement, written into the json by whoever proposes the symbol
 catches the mechanical mistakes (two concepts drawn alike, one term claimed by two symbols, a batch
 that draws a known concept some other way, or with a symbol that was rejected).
 """
-import argparse, datetime, json, pathlib, re, sys
+import argparse, datetime, functools, json, pathlib, re, sys
 
 ROOT = pathlib.Path(__file__).resolve().parents[2]
 SOURCE = ROOT / "content" / "symbols.json"
@@ -116,6 +116,17 @@ def write_readable(data):
     READABLE.write_text("\n".join(body) + "\n", encoding="utf-8")
 
 
+@functools.lru_cache(maxsize=None)
+def _term_re(t):
+    # Compiled once per term: with thousands of terms, re's own small cache would recompile on every call.
+    return re.compile(r"(?<![\w-])" + re.escape(t) + r"(?![\w-])")
+
+
+@functools.lru_cache(maxsize=None)
+def _anchor_re(a):
+    return re.compile(r"(?<!\w)" + re.escape(a) + r"(?:s|es)?(?!\w)")
+
+
 def match(term, data):
     """The approved or rejected symbol a keyword term names, by its longest matching term."""
     term = re.sub(r"\([^)]*\)|\"[^\"]*\"", "", term).strip().lower()
@@ -124,7 +135,7 @@ def match(term, data):
         for t in s.get("terms", []):
             exact = t.startswith("=")
             t = t.lstrip("=").lower()
-            hit = term == t if exact else re.search(r"(?<![\w-])" + re.escape(t) + r"(?![\w-])", term)
+            hit = term == t if exact else _term_re(t).search(term)
             if hit and len(t) > best_len:
                 best, best_len = s, len(t)
     return best
@@ -132,7 +143,7 @@ def match(term, data):
 
 def has_anchor(obj, s):
     obj = obj.lower()
-    return any(re.search(r"(?<!\w)" + re.escape(a.lower()) + r"(?:s|es)?(?!\w)", obj) for a in s.get("anchors", []))
+    return any(_anchor_re(a.lower()).search(obj) for a in s.get("anchors", []))
 
 
 def check_items(items, data=None):

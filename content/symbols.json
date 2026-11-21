@@ -801,7 +801,8 @@
    "status": "approved",
    "reason": "total 10/10",
    "audited": "2026-11-21",
-   "legacy": true
+   "legacy": true,
+   "family": "echo"
   },
   {
    "id": "echo-gallery",
@@ -4794,7 +4795,8 @@
    "firstUsed": "MedCosmos (rheumatic heart disease)",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-21",
+   "family": "strep"
   },
   {
    "id": "tavr",
@@ -5845,7 +5847,8 @@
    "firstUsed": "MedCosmos (nitro dynamite)",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-21",
+   "family": "nitro"
   },
   {
    "id": "stress-test",
@@ -8286,6 +8289,3528 @@
    "firstUsed": "Johns Hopkins 147 (scraping the carrot)",
    "status": "approved",
    "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "frank-starling",
+   "concept": "Frank-Starling law, preload",
+   "terms": [
+    "frank-starling",
+    "frank-starling law",
+    "frank-starling mechanism",
+    "starling",
+    "starling's law",
+    "starling curve",
+    "preload"
+   ],
+   "symbol": "a STARLING bird pulling a rubber band back: the further it stretches the band before letting go, the harder it snaps",
+   "anchors": [
+    "starling"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "Frank-STARLING = a STARLING bird",
+    "meaning": "the more the muscle is stretched by filling (preload), the stronger the next beat, up to a limit",
+    "place": "inside the engine room, the band = the muscle fibres of its wall"
+   },
+   "why": "the starling stretches the band = more filling, stronger beat",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 1,
+    "sticky": 2
+   },
+   "notes": "Overstretched (a failing, dilated heart): the band frays and snaps weakly. Johns Hopkins showed resting length as a sailor pulling the fan's blades longer.",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 9/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "afterload",
+   "concept": "afterload, systemic vascular resistance (SVR)",
+   "terms": [
+    "afterload",
+    "systemic vascular resistance",
+    "svr",
+    "afterload reduction",
+    "increased afterload",
+    "high afterload"
+   ],
+   "symbol": "the heavy iron CITY GATES at the end of the orca that the red engine room must push its water through; half-shut gates = high afterload",
+   "anchors": [
+    "city gates",
+    "city's gates"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the resistance the ventricle pumps against after the valve opens",
+    "place": "the body's arteries beyond the aorta (the city)"
+   },
+   "why": "the gates the water must push through",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Nitroprusside's Prussian soldier throws the gates open (afterload reduction). MedCosmos drew falling SVR as the city's gates swinging open.",
+   "firstUsed": "MedCosmos (the city's gates)",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "pvi",
+   "concept": "pulmonary vein isolation (and the box lesion)",
+   "terms": [
+    "pulmonary vein isolation",
+    "pvi",
+    "box lesion",
+    "pulmonary vein antrum isolation",
+    "antral isolation"
+   ],
+   "symbol": "the doorways of the money pipes in the red lobby each turned into an ISLAND by a moat of burnt black ground round it, so their wild sparks cannot reach the rest of the lobby",
+   "anchors": [
+    "island"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "ISOLATION = an ISLAND (Latin insula)",
+    "meaning": "a ring of scar round the pulmonary veins blocks the triggers of atrial fibrillation, which mostly start there",
+    "place": "round the four pulmonary vein openings in the left atrium (a box round all four together)"
+   },
+   "why": "isolated = made an island",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 1,
+    "sticky": 2
+   },
+   "notes": "Made with the blowtorch (heat) or the ice wand (cold); the core of every maze.",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 9/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "laplace",
+   "concept": "law of Laplace, wall stress",
+   "terms": [
+    "laplace",
+    "law of laplace",
+    "laplace's law",
+    "wall stress",
+    "wall tension"
+   ],
+   "symbol": "a balloon of thin white LACE blown up wider and wider, its skin thinning and straining at every hole of the lace",
+   "anchors": [
+    "lace",
+    "skin thinning"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "la-PLACE = LACE",
+    "meaning": "wall tension rises with pressure and radius and falls with wall thickness: a wide, thin wall is under the most strain",
+    "place": "any round chamber or vessel: a dilated ventricle, an aneurysm"
+   },
+   "why": "a stretched lace balloon",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 1,
+    "sticky": 2
+   },
+   "notes": "Why big aneurysms burst and why a thick wall (hypertrophy) protects. MedCosmos drew a red balloon stretched wider, its skin thinning.",
+   "firstUsed": "MedCosmos (a balloon, its skin thinning)",
+   "status": "approved",
+   "reason": "total 9/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "cardiac-output",
+   "concept": "cardiac output, cardiac index, stroke volume",
+   "terms": [
+    "cardiac output",
+    "cardiac index",
+    "stroke volume",
+    "stroke volume index"
+   ],
+   "symbol": "a brass WATER METER on the orca where it leaves the hotel, its little wheel spinning to count the litres pumped each minute",
+   "anchors": [
+    "water meter",
+    "flow meter"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the volume pumped per minute (stroke volume times heart rate); cardiac index = per square metre of body",
+    "place": "where the orca leaves the red engine room"
+   },
+   "why": "a meter counting the flow",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Low output: the wheel barely turning. Shock keeps the hotel's lights going out.",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "red-cells",
+   "concept": "red blood cells, haematocrit, anaemia, haemodilution, transfusion, polycythaemia",
+   "terms": [
+    "red blood cells",
+    "red blood cell",
+    "red cells",
+    "red cell",
+    "hematocrit",
+    "haematocrit",
+    "hemoglobin",
+    "haemoglobin",
+    "anemia",
+    "anaemia",
+    "polycythemia",
+    "polycythaemia",
+    "hemodilution",
+    "haemodilution",
+    "packed red cells",
+    "red cell transfusion",
+    "blood transfusion",
+    "transfusion"
+   ],
+   "symbol": "little round RED DOUGHNUTS (red cells) floating in the river of blood; few of them, or the river thinned with water, and it turns pale pink",
+   "anchors": [
+    "red doughnuts",
+    "pale pink"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the oxygen carriers; their share of the blood is the haematocrit; diluted by the bypass prime, crowded in cyanotic children",
+    "place": "in the river of blood"
+   },
+   "why": "red cells are doughnut-shaped discs",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Polycythaemia: the river thick and sludgy with doughnuts. Johns Hopkins showed haemodilution as plain water turning the river pale pink.",
+   "firstUsed": "",
+   "family": "red-cells",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "sodium",
+   "concept": "sodium (hyponatraemia, sodium channels)",
+   "terms": [
+    "sodium",
+    "hyponatremia",
+    "hyponatraemia",
+    "hypernatremia",
+    "hypernatraemia",
+    "sodium channel",
+    "sodium channels",
+    "na+",
+    "serum sodium",
+    "fast sodium channel"
+   ],
+   "symbol": "white SALT crystals: crowded in the street outside the rooms, rushing in through a fast revolving door when a beat begins",
+   "anchors": [
+    "salt"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the main salt outside the cells; its fast inward rush starts each heartbeat (phase 0)",
+    "place": "mostly outside the cells, in the blood (the street)"
+   },
+   "why": "sodium = salt",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Pairs with potassium (bananas inside the rooms). Lidocaine and class I drugs jam the salt's revolving door. MedCosmos drew salt crystals rushing in through a revolving door.",
+   "firstUsed": "MedCosmos (salt through a revolving door)",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "complement",
+   "concept": "complement activation (inflammation on bypass)",
+   "terms": [
+    "complement",
+    "complement activation",
+    "complement cascade",
+    "complement system"
+   ],
+   "symbol": "a cascading WATERFALL down which a waiter tumbles, throwing bouquets of COMPLIMENTS in every direction, each bouquet setting off red swelling where it lands",
+   "anchors": [
+    "compliments"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "COMPLEMENT = COMPLIMENTS",
+    "meaning": "a cascade of blood proteins switched on when blood touches the bypass circuit: inflammation, leaky vessels",
+    "place": "in the blood flowing through the bypass circuit"
+   },
+   "why": "complement = compliments",
+   "scores": {
+    "link": 2,
+    "concrete": 1,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "MedCosmos used this waiter four times.",
+   "firstUsed": "MedCosmos (bouquets of compliments)",
+   "status": "approved",
+   "reason": "total 9/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "stunning",
+   "concept": "myocardial stunning",
+   "terms": [
+    "stunning",
+    "stunned myocardium",
+    "myocardial stunning",
+    "stunned"
+   ],
+   "symbol": "a STUN GUN zapped at the engine room: its fan reels, dazed, cartoon stars circling it, though the coal is flowing again; it recovers by itself over hours to days",
+   "anchors": [
+    "stun gun"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "STUNNING = STUN gun",
+    "meaning": "after a short ischaemia with the blood flow restored, the muscle stays weak for a while and then recovers",
+    "place": "the engine room after the crown's flow has returned"
+   },
+   "why": "stunned = dazed but alive",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Compare the hibernating bear (asleep because the coal is still short; wakes when the flow is restored).",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "membranous-septum",
+   "concept": "membranous septum (and perimembranous defects)",
+   "terms": [
+    "membranous septum",
+    "membranous",
+    "membranous ventricular septum",
+    "perimembranous"
+   ],
+   "symbol": "a small thin DRUM SKIN set into the party wall right under the orca's mouth, beside the trident's base and the knot",
+   "anchors": [
+    "drum skin"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "MEMBRANE = a drum skin",
+    "meaning": "the thin fibrous part of the septum; the commonest site of VSDs, close to the conduction tissue",
+    "place": "below the aortic valve, beside the tricuspid septal leaflet and the AV node"
+   },
+   "why": "membrane = drum skin",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Stitches here must avoid the knot (heart block). MedCosmos drew perimembranous VSD as a hole beside a thin drum skin.",
+   "firstUsed": "MedCosmos (a thin drum skin)",
+   "status": "approved",
+   "reason": "total 9/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "cannulation",
+   "concept": "cannulation for bypass (aortic, venous, bicaval)",
+   "terms": [
+    "cannulation",
+    "cannula",
+    "cannulas",
+    "cannulae",
+    "aortic cannulation",
+    "venous cannulation",
+    "arterial cannulation",
+    "bicaval cannulation",
+    "aortic cannula",
+    "venous cannula",
+    "axillary cannulation"
+   ],
+   "symbol": "small brass CANNONS pushed into the pipes and joined to the pump truck's hoses: one fires the pump's water into the orca, others draw the blue water out of the chimney and the drainpipe",
+   "anchors": [
+    "cannon"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "CANNULA = a little CANNON",
+    "meaning": "tubes that take blood out to the bypass machine and return it",
+    "place": "arterial: the orca (or the flipper root, or the groin); venous: the right atrium, chimney and drainpipe"
+   },
+   "why": "cannula = cannon",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Femoral cannulation keeps the thigh-bone symbol for the place.",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "cross-clamp",
+   "concept": "aortic cross-clamp, cross-clamp time",
+   "terms": [
+    "aortic cross-clamp",
+    "cross-clamp",
+    "cross clamp",
+    "cross-clamping",
+    "aortic cross-clamping",
+    "aortic clamping",
+    "cross-clamp time",
+    "aortic cross-clamp time",
+    "side-biting clamp",
+    "partial occlusion clamp"
+   ],
+   "symbol": "a giant pair of X-shaped iron TONGS clamped across the orca's front climb, cutting the hotel off from the flow, a stopwatch ticking beside them",
+   "anchors": [
+    "tongs"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "CROSS-clamp = X-shaped tongs",
+    "meaning": "closing the aorta so the heart can be arrested and opened; the clamp time is the heart's ischaemic time",
+    "place": "the ascending aorta, between the crown's origin and the cannon"
+   },
+   "why": "X-tongs across the orca",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Side-biting clamp: small tongs biting only an edge, for the vein grafts' top ends. Porcelain aorta: the tongs would shatter it.",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 8/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "roller-pump",
+   "concept": "roller pump",
+   "terms": [
+    "roller pump",
+    "roller pumps",
+    "occlusive pump",
+    "roller head"
+   ],
+   "symbol": "a big ROLLING PIN rolling round and round over a clear tube, squeezing the water along it",
+   "anchors": [
+    "rolling pin"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "ROLLER = a ROLLING pin",
+    "meaning": "an occlusive pump: pushes a fixed volume whatever the resistance; it can pump air and burst a blocked line",
+    "place": "inside the bypass truck"
+   },
+   "why": "roller = rolling pin",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Johns Hopkins drew the roller pump as a rolling pin squeezing a clear tube.",
+   "firstUsed": "Johns Hopkins (a rolling pin)",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "centrifugal-pump",
+   "concept": "centrifugal pump",
+   "terms": [
+    "centrifugal pump",
+    "centrifugal pumps",
+    "nonocclusive pump",
+    "non-occlusive pump",
+    "constrained vortex pump"
+   ],
+   "symbol": "a fast-SPINNING CONE whirling the water outward into the tube, like a top",
+   "anchors": [
+    "spinning cone"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "CENTRIFUGAL = a spinner",
+    "meaning": "a non-occlusive pump: flow falls when resistance rises; it de-primes with a big air bolus instead of pumping it; standard for ECMO and VADs",
+    "place": "inside the bypass truck or beside the ECMO gills"
+   },
+   "why": "centrifugal = spinning",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Compare the roller pump (the rolling pin). Johns Hopkins drew a spinning cone flinging water outward.",
+   "firstUsed": "Johns Hopkins (a spinning cone)",
+   "status": "approved",
+   "reason": "total 9/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "act",
+   "concept": "activated clotting time (ACT)",
+   "terms": [
+    "activated clotting time",
+    "activated clotting times",
+    "act level",
+    "act value",
+    "celite act",
+    "kaolin act"
+   ],
+   "symbol": "a MAGICIAN's stage ACT: he pours blood into a glass while a huge stopwatch counts the seconds until it sets",
+   "anchors": [
+    "magician"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "ACT = a stage ACT",
+    "meaning": "the seconds blood takes to clot: kept above about 400-480 on bypass, back near normal after protamine",
+    "place": "on the stage beside the bypass truck"
+   },
+   "why": "a timed magic act",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "protamine",
+   "concept": "protamine (heparin reversal) and protamine reaction",
+   "terms": [
+    "protamine",
+    "protamine sulfate",
+    "protamine sulphate",
+    "protamine reaction",
+    "heparin reversal",
+    "reversal of heparin"
+   ],
+   "symbol": "a LION TAMER with a whip and a chair taming the fast brown hare (heparin) until it lies still",
+   "anchors": [
+    "tamer"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "PROTA-mine = PRO TAMER",
+    "meaning": "a positively charged protein that binds and neutralises heparin after bypass",
+    "place": "given into the blood after the pump stops"
+   },
+   "why": "protamine tames the heparin hare",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Reaction: low pressure, sudden pulmonary hypertension (the gauge on the money pipes jumping), allergy (fish allergy, NPH insulin, vasectomy).",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "antithrombin",
+   "concept": "antithrombin (antithrombin III) and heparin resistance",
+   "terms": [
+    "antithrombin",
+    "antithrombin iii",
+    "antithrombin 3",
+    "at iii",
+    "at-iii",
+    "heparin resistance"
+   ],
+   "symbol": "a big red ANT in JOCKEY silks riding the brown hare; without its ant jockey the hare will not run",
+   "anchors": [
+    "jockey"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "ANTI-thrombin = an ANT",
+    "meaning": "heparin works only through antithrombin; low antithrombin = heparin resistance",
+    "place": "riding the heparin hare in the blood"
+   },
+   "why": "the ant jockey rides the heparin hare",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 1,
+    "drawable": 1,
+    "sticky": 2
+   },
+   "notes": "Treatment of resistance: give the jockey back (antithrombin concentrate or fresh frozen plasma).",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 8/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "fibrinogen",
+   "concept": "fibrinogen and fibrin, cryoprecipitate",
+   "terms": [
+    "fibrinogen",
+    "fibrin",
+    "cryoprecipitate",
+    "hypofibrinogenemia",
+    "hypofibrinogenaemia",
+    "fibrin glue",
+    "fibrin sealant"
+   ],
+   "symbol": "a SPOOL of sticky red thread unwinding to knit the white plates together into a firm plug",
+   "anchors": [
+    "spool"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "FIBRIN = FIBRE (thread)",
+    "meaning": "fibrinogen is turned into fibrin threads that hold the platelet plug together",
+    "place": "in the blood, at the bleeding point"
+   },
+   "why": "fibrin = thread",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Cryoprecipitate: a frozen spool. Low fibrinogen after bypass: the spool almost empty.",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 9/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "ffp",
+   "concept": "fresh frozen plasma (FFP), prothrombin complex concentrate, clotting factors",
+   "terms": [
+    "fresh frozen plasma",
+    "ffp",
+    "plasma transfusion",
+    "prothrombin complex concentrate",
+    "pcc",
+    "clotting factors",
+    "coagulation factors",
+    "coagulation factor"
+   ],
+   "symbol": "a big yellow ICE LOLLY of frozen plasma, little red spools and tools frozen inside it, melting into the river",
+   "anchors": [
+    "ice lolly",
+    "popsicle"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "FROZEN plasma = an ice lolly",
+    "meaning": "the yellow part of the blood carrying all the clotting factors",
+    "place": "melting into the blood"
+   },
+   "why": "frozen yellow plasma",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Prothrombin complex concentrate: the same factors squeezed into one small vial (fast warfarin reversal).",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "vitamin-k",
+   "concept": "vitamin K (warfarin reversal)",
+   "terms": [
+    "vitamin k",
+    "phytonadione",
+    "phytomenadione",
+    "vitamin k antagonist",
+    "vitamin k antagonists"
+   ],
+   "symbol": "a big letter-K-shaped bunch of green KALE chasing away the rat in the soldier's helmet (warfarin)",
+   "anchors": [
+    "kale"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "vitamin K = KALE (green leaves are full of it)",
+    "meaning": "the liver needs it to make clotting factors II, VII, IX, X; warfarin blocks it, so vitamin K reverses warfarin slowly",
+    "place": "beside the warfarin rat"
+   },
+   "why": "K = kale",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Fast reversal before urgent surgery: the ice lolly or the vial (FFP, PCC); vitamin K takes hours.",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "air-embolism",
+   "concept": "air embolism (massive air embolism on bypass, de-airing)",
+   "terms": [
+    "air embolism",
+    "air embolus",
+    "air emboli",
+    "gas embolism",
+    "massive air embolism",
+    "venous air embolism",
+    "arterial air embolism",
+    "de-airing",
+    "deairing",
+    "cerebral air embolism"
+   ],
+   "symbol": "a big clear SOAP BUBBLE rolling through the pipes like a bowling ball and lodging in the head lantern or a crown spike",
+   "anchors": [
+    "soap bubble"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "air that enters the circulation and blocks small vessels (brain, coronaries)",
+    "place": "from the opened heart or the circuit into the orca, the head lantern, the crown"
+   },
+   "why": "an air bubble travelling like the bowling ball",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Massive air on bypass: stop the pump, head down, clear the line, run the pump backwards up the chimney (retrograde cerebral perfusion), deep cooling. De-airing: shaking the bubbles out through a vent before the tongs come off.",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 10/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "off-pump",
+   "concept": "off-pump coronary artery bypass (OPCAB, beating-heart surgery)",
+   "terms": [
+    "off-pump",
+    "off pump",
+    "opcab",
+    "off-pump cabg",
+    "off-pump coronary artery bypass",
+    "beating heart surgery",
+    "beating-heart surgery",
+    "beating heart",
+    "tissue stabilizer",
+    "octopus stabilizer"
+   ],
+   "symbol": "an OCTOPUS gripping the beating hotel with its suckers to hold one spot still while cabbage leaves are laid, its fans still turning, the roller-pump truck parked with its engine off",
+   "anchors": [
+    "octopus",
+    "fans turning",
+    "fans keep turning"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "bypass grafting on the beating heart without the heart-lung machine; a suction stabiliser holds the target still",
+    "place": "on the surface of the beating heart"
+   },
+   "why": "the octopus stabiliser is the real device's name",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Johns Hopkins drew off-pump as a small hotel with its fans turning and the pump truck idle.",
+   "firstUsed": "Johns Hopkins (fans turning, the pump idle)",
+   "status": "approved",
+   "reason": "total 10/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "clopidogrel",
+   "concept": "clopidogrel and other P2Y12 antiplatelet drugs (ticagrelor, prasugrel), dual antiplatelet therapy",
+   "terms": [
+    "clopidogrel",
+    "plavix",
+    "ticagrelor",
+    "prasugrel",
+    "p2y12",
+    "p2y12 inhibitor",
+    "p2y12 inhibitors",
+    "dual antiplatelet therapy",
+    "dapt",
+    "thienopyridine",
+    "thienopyridines"
+   ],
+   "symbol": "a pair of wooden CLOGS stamping CLOP-CLOP on the little white plates, cracking them so they cannot stick; before surgery the clogs are left at the door for five days",
+   "anchors": [
+    "clogs"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "CLOP-idogrel = CLOP-CLOP clogs",
+    "meaning": "blocks the platelets' P2Y12 receptor for their whole life; stop about 5 days before surgery (ticagrelor 3-5, prasugrel 7)",
+    "place": "on the white plates in the river"
+   },
+   "why": "clopidogrel = clogs",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "With aspirin (the asp) = dual antiplatelet therapy.",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "bivalirudin",
+   "concept": "bivalirudin, argatroban and other direct thrombin inhibitors (heparin alternatives in HIT)",
+   "terms": [
+    "bivalirudin",
+    "argatroban",
+    "direct thrombin inhibitor",
+    "direct thrombin inhibitors",
+    "hirudin",
+    "lepirudin",
+    "dabigatran"
+   ],
+   "symbol": "a big black LEECH clinging to the beaver's dam and dissolving its red threads",
+   "anchors": [
+    "leech"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "bivali-RUDIN = hi-RUDIN, the leech's anticoagulant",
+    "meaning": "blocks thrombin directly, without antithrombin; used for bypass in heparin-induced thrombocytopenia; no protamine reversal",
+    "place": "in the blood"
+   },
+   "why": "a leech = hirudin",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "pfo",
+   "concept": "patent foramen ovale (PFO), paradoxical embolism",
+   "terms": [
+    "patent foramen ovale",
+    "pfo",
+    "foramen ovale",
+    "paradoxical embolism",
+    "paradoxical embolus"
+   ],
+   "symbol": "an OVAL CAT FLAP in the upper party wall that swings open towards the red lobby whenever the blue side pushes harder",
+   "anchors": [
+    "cat flap"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "foramen OVALE = an OVAL flap",
+    "meaning": "a flap-valve opening left from fetal life; it opens when right pressure rises and lets a clot cross (paradoxical embolism)",
+    "place": "the middle of the upper party wall (fossa ovalis)"
+   },
+   "why": "an oval cat flap",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "A bowling ball slipping through the cat flap into the red side = paradoxical embolism. Compare the clock (secundum ASD: a real hole).",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "laa",
+   "concept": "left atrial appendage (LAA) and its closure",
+   "terms": [
+    "left atrial appendage",
+    "laa",
+    "atrial appendage",
+    "appendage",
+    "left atrial appendage occlusion",
+    "laa occlusion",
+    "laa exclusion",
+    "appendage closure",
+    "atriclip",
+    "watchman"
+   ],
+   "symbol": "a floppy DOG'S EAR hanging off the red lobby, a dead-end pocket where clots settle; closed with a big clothes-peg clip at its base",
+   "anchors": [
+    "dog's ear",
+    "dog ear"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "auricle = a little EAR",
+    "meaning": "a blind pouch of the left atrium where most clots form in atrial fibrillation",
+    "place": "on the side of the left atrium, next to the crown's left spike"
+   },
+   "why": "appendage = auricle = ear",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "In atrial fibrillation (Pinocchio) a beaver builds his dam inside the ear. Closure: clipped, stapled, sewn or plugged (Watchman).",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "brachiocephalic",
+   "concept": "brachiocephalic (innominate) artery",
+   "terms": [
+    "brachiocephalic artery",
+    "brachiocephalic trunk",
+    "innominate artery"
+   ],
+   "symbol": "a long-necked BRACHIOSAURUS rising from the first hump of the orca's arch, its neck splitting into the right flipper (arm) and the right carrot (head)",
+   "anchors": [
+    "brachiosaurus"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "BRACHIO-cephalic = BRACHIOsaurus",
+    "meaning": "brachio = arm, cephalic = head: it splits into the right subclavian and right common carotid",
+    "place": "the first branch of the aortic arch, on the right"
+   },
+   "why": "brachiocephalic = brachiosaurus",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Cannulation for arch surgery is often here or under the armpit.",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "azygos",
+   "concept": "azygos vein (and azygos continuation)",
+   "terms": [
+    "azygos",
+    "azygos vein",
+    "azygos continuation",
+    "hemiazygos",
+    "hemiazygos vein"
+   ],
+   "symbol": "a blue pipe running ZIGZAG up beside the spine and arching over the right money pipe into the chimney",
+   "anchors": [
+    "zigzag",
+    "zig-zag"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "a-ZYG-os = ZIGZAG",
+    "meaning": "drains the back of the chest into the SVC; with an interrupted IVC it carries the whole lower body",
+    "place": "right of the spine, arching over the right main bronchus into the SVC"
+   },
+   "why": "azygos = zigzag",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Tied in a Glenn if it would steal flow; divided in oesophagectomy.",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 9/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "left-svc",
+   "concept": "persistent left superior vena cava",
+   "terms": [
+    "persistent left superior vena cava",
+    "left superior vena cava",
+    "persistent left svc",
+    "left svc",
+    "plsvc",
+    "bilateral svc",
+    "bilateral superior vena cava"
+   ],
+   "symbol": "a SECOND CHIMNEY on the left side of the hotel, its smoke running down into the sink in the blue lobby floor (coronary sinus)",
+   "anchors": [
+    "second chimney"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "a left SVC kept from fetal life, usually draining into the coronary sinus (which is then wide)",
+    "place": "left side of the heart, into the coronary sinus"
+   },
+   "why": "a second chimney",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "It matters for retrograde cardioplegia (the sink leaks the banana juice up the chimney) and for Glenn operations (both chimneys need joining).",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "thoracotomy",
+   "concept": "thoracotomy (right, left, anterolateral, posterolateral, resuscitative)",
+   "terms": [
+    "thoracotomy",
+    "thoracotomies",
+    "right thoracotomy",
+    "left thoracotomy",
+    "anterolateral thoracotomy",
+    "posterolateral thoracotomy",
+    "mini-thoracotomy",
+    "right mini-thoracotomy",
+    "resuscitative thoracotomy",
+    "emergency thoracotomy"
+   ],
+   "symbol": "the SIDE LID of the treasure chest flung open on its hinges (a small hatch for a mini-thoracotomy)",
+   "anchors": [
+    "side lid",
+    "hatch",
+    "open from its side"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "opening the chest between the ribs from the side",
+    "place": "the side of the chest, right or left"
+   },
+   "why": "the chest opened from the side",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Compare the median sternotomy (the ship's stern opened down its centre line). Johns Hopkins and MedCosmos drew the side lid and the hatches.",
+   "firstUsed": "Johns Hopkins (the side lid of the chest)",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "subxiphoid",
+   "concept": "subxiphoid approach (pericardial window, drains)",
+   "terms": [
+    "subxiphoid",
+    "subxyphoid",
+    "subxiphoid approach",
+    "subxiphoid window",
+    "subxiphoid incision",
+    "xiphoid"
+   ],
+   "symbol": "a small yellow SUBMARINE surfacing just below the tip of the breastbone, its periscope reaching up into the aquarium",
+   "anchors": [
+    "submarine"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "SUB-xiphoid = SUBmarine",
+    "meaning": "an approach just below the xiphoid to the pericardium (drainage, window) or the heart's underside",
+    "place": "below the tip of the sternum"
+   },
+   "why": "sub = submarine",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "MedCosmos used the yellow submarine three times.",
+   "firstUsed": "MedCosmos (a yellow submarine)",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "tee",
+   "concept": "transoesophageal echocardiography (TEE), intraoperative echo",
+   "terms": [
+    "transesophageal echocardiography",
+    "transoesophageal echocardiography",
+    "transesophageal echo",
+    "transoesophageal echo",
+    "transesophageal echocardiogram",
+    "transoesophageal echocardiogram",
+    "tee",
+    "intraoperative tee",
+    "intraoperative echocardiography",
+    "transesophageal"
+   ],
+   "symbol": "the bat (echo) sliding down INSIDE the pink sofa slide behind the hotel, its sound rings showing the hotel from behind",
+   "anchors": [
+    "bat"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "an ultrasound probe in the oesophagus, right behind the left atrium: sharp pictures of valves, clots and the aorta during surgery",
+    "place": "inside the oesophagus, behind the heart"
+   },
+   "why": "echo (bat) + oesophagus (sofa slide)",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Best for the left atrial ear (clots), the mitre, the aorta's dissection flap; blind to a small part of the upper ascending aorta.",
+   "firstUsed": "",
+   "family": "echo",
+   "status": "approved",
+   "reason": "total 10/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "sam",
+   "concept": "systolic anterior motion (SAM) of the mitral valve, LVOT obstruction",
+   "terms": [
+    "systolic anterior motion",
+    "sam",
+    "lvot obstruction",
+    "left ventricular outflow tract obstruction",
+    "dynamic outflow obstruction",
+    "dynamic lvot obstruction"
+   ],
+   "symbol": "UNCLE SAM in his star-spangled top hat grabbing the front leaf of the mitre and yanking it forward into the orca's doorway, blocking it and letting water gurgle back",
+   "anchors": [
+    "uncle sam"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "SAM = Uncle SAM",
+    "meaning": "the anterior mitral leaflet is pulled into the outflow tract in systole: obstruction plus mitral regurgitation",
+    "place": "between the mitre's front leaf and the outflow to the aorta"
+   },
+   "why": "Uncle Sam yanks the leaf",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "In HCM (the bodybuilder's wall) and after mitral repair with a long posterior leaflet or a small ring. Treatment: fill the room, slow the heart, stop inotropes; else revise.",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "alfieri",
+   "concept": "Alfieri edge-to-edge (bow-tie) repair and MitraClip",
+   "terms": [
+    "alfieri",
+    "alfieri stitch",
+    "alfieri repair",
+    "edge-to-edge repair",
+    "edge-to-edge",
+    "bow-tie repair",
+    "mitraclip",
+    "transcatheter edge-to-edge repair",
+    "teer",
+    "double-orifice"
+   ],
+   "symbol": "a black BOW TIE stitched across the middle of the mitre so that it opens as two small holes instead of one",
+   "anchors": [
+    "bow tie"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the free edges of the two leaflets are stitched (or clipped) together in the middle, making a double-orifice valve",
+    "place": "the centre of the mitral valve"
+   },
+   "why": "the repair's own nickname: the bow tie",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "MitraClip: the same bow tie put in through the fishing line.",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 10/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "carpentier",
+   "concept": "Carpentier functional classification of mitral regurgitation (types I, II, IIIa, IIIb)",
+   "terms": [
+    "carpentier classification",
+    "carpentier's classification",
+    "carpentier functional classification",
+    "carpentier's functional classification",
+    "functional classification of mitral regurgitation",
+    "restricted leaflet motion",
+    "excessive leaflet motion",
+    "leaflet tethering",
+    "tethering"
+   ],
+   "symbol": "a CARPENTER at his bench sorting valve doors into three bins by how their leaves move: I normal (but a hole or a wide frame), II too much (prolapse), III too little (stuck: a in both phases, b only in systole)",
+   "anchors": [
+    "carpenter"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "CARPENTIER = CARPENTER",
+    "meaning": "MR classified by leaflet motion: normal, excessive, restricted (IIIa rheumatic, IIIb ischaemic tethering)",
+    "place": "at the mitre"
+   },
+   "why": "Carpentier = carpenter",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Tethering (IIIb): harp strings pulled tight by a sagging engine room floor after a heart attack.",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "scallops",
+   "concept": "mitral leaflet scallops and segments (P1, P2, P3; A1, A2, A3)",
+   "terms": [
+    "scallop",
+    "scallops",
+    "p2 scallop",
+    "posterior leaflet",
+    "posterior mitral leaflet",
+    "mitral leaflet segments"
+   ],
+   "symbol": "the back leaf of the mitre made of three SCALLOP shells side by side (P1, P2, P3), facing three matching segments of the front leaf",
+   "anchors": [
+    "scallop"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the posterior leaflet has three scallops; P2, the middle one, prolapses most often",
+    "place": "the posterior leaflet of the mitral valve, P1 by the anterolateral commissure"
+   },
+   "why": "scallop shells = scallops",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "P2 prolapse: the middle shell billowing up like a sail; repair by cutting it out (resection) or new harp strings.",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "duke-criteria",
+   "concept": "Duke criteria for endocarditis",
+   "terms": [
+    "duke criteria",
+    "duke's criteria",
+    "modified duke criteria",
+    "duke clinical criteria"
+   ],
+   "symbol": "a DUKE in an ermine cloak reading a checklist: two big seals (positive blood cultures, a vegetation on echo) and a row of small ones (fever, risk, emboli, immune signs)",
+   "anchors": [
+    "duke"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "DUKE criteria = a DUKE",
+    "meaning": "major criteria: typical organism in blood cultures, echo evidence; minor: predisposition, fever, vascular and immunological signs",
+    "place": "beside the playing cards (endocarditis)"
+   },
+   "why": "the Duke's checklist",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Definite: 2 major, or 1 major + 3 minor, or 5 minor.",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 9/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "viridans",
+   "concept": "viridans streptococci (dental source of endocarditis)",
+   "terms": [
+    "viridans",
+    "streptococcus viridans",
+    "viridans streptococci",
+    "viridans group streptococci",
+    "streptococcus mutans",
+    "streptococcus sanguis",
+    "streptococcus sanguinis"
+   ],
+   "symbol": "a chain of GREEN BEADS spilling out of a bad tooth into the river and coiling round a valve",
+   "anchors": [
+    "green beads"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "VIRIDANS = green (Latin viridis)",
+    "meaning": "mouth streptococci, growing in chains; classic cause of subacute native-valve endocarditis after dental work",
+    "place": "from the mouth to the valves"
+   },
+   "why": "viridans = green chain",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 1,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Same family as the scarlet beads of rheumatic fever (both streptococci in chains), told apart by colour.",
+   "firstUsed": "",
+   "family": "strep",
+   "status": "approved",
+   "reason": "total 9/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "ppm",
+   "concept": "prosthesis-patient mismatch",
+   "terms": [
+    "prosthesis-patient mismatch",
+    "patient-prosthesis mismatch",
+    "effective orifice area index",
+    "indexed effective orifice area"
+   ],
+   "symbol": "a set of tiny CHILD-SIZE DENTURES fitted into the huge orca's mouth, the water squeezing through them",
+   "anchors": [
+    "child-size dentures"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "a new valve whose opening is too small for the patient's body size: the gradient stays high",
+    "place": "the orca's mouth after valve replacement"
+   },
+   "why": "dentures too small for the mouth",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Prevent it by enlarging the root (the orca's collar sawn open and patched) or choosing a bigger valve.",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "homograft",
+   "concept": "homograft (allograft) valve or root",
+   "terms": [
+    "homograft",
+    "homografts",
+    "aortic homograft",
+    "pulmonary homograft",
+    "allograft valve",
+    "allograft root",
+    "cryopreserved homograft",
+    "cryopreserved allograft"
+   ],
+   "symbol": "a human donor's own orca mouth and root taken out of a frosty tissue-bank FREEZER, ready to sew in",
+   "anchors": [
+    "freezer"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "HOMO-graft = from a HUMAN",
+    "meaning": "a valve or root from a human donor, kept frozen; resists infection, needs no warfarin",
+    "place": "the aortic or pulmonary position"
+   },
+   "why": "a valve from the human freezer",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Used for root abscess in endocarditis and to rebuild the right outflow (Ross, RV-PA conduits).",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 8/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "pseudoaneurysm",
+   "concept": "pseudoaneurysm (false aneurysm)",
+   "terms": [
+    "pseudoaneurysm",
+    "pseudoaneurysms",
+    "false aneurysm",
+    "false aneurysms",
+    "contained rupture",
+    "left ventricular pseudoaneurysm",
+    "anastomotic pseudoaneurysm"
+   ],
+   "symbol": "a bubble-gum bubble wearing a FAKE MOUSTACHE and glasses, bulging through a hole in the wall on a narrow neck, held only by the tissue round it",
+   "anchors": [
+    "fake moustache"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "PSEUDO = FAKE",
+    "meaning": "a contained rupture: a hole through the whole wall, the blood held by surrounding tissue; tends to burst",
+    "place": "after a heart attack (LV), at an old suture line, at a groin puncture"
+   },
+   "why": "a fake aneurysm",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "A true aneurysm (plain bubble gum) has all the layers of the wall and a wide neck.",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "intramural-hematoma",
+   "concept": "intramural haematoma of the aorta",
+   "terms": [
+    "intramural hematoma",
+    "intramural haematoma",
+    "aortic intramural hematoma",
+    "aortic intramural haematoma",
+    "imh"
+   ],
+   "symbol": "a dark purple BLOOD BLISTER inside the orca's skin, with no zipper torn open",
+   "anchors": [
+    "blood blister"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "bleeding into the aortic wall without an intimal tear; treated like a dissection of the same type",
+    "place": "in the wall of the aorta (type A if ascending)"
+   },
+   "why": "a blood blister in the wall",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "One of the three acute aortic syndromes, with the zipper (dissection) and the pothole (ulcer).",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "penetrating-ulcer",
+   "concept": "penetrating aortic ulcer",
+   "terms": [
+    "penetrating aortic ulcer",
+    "penetrating atherosclerotic ulcer",
+    "penetrating ulcer",
+    "pau"
+   ],
+   "symbol": "a deep POTHOLE eaten down through a patch of black tar on the inside of the orca's skin",
+   "anchors": [
+    "pothole"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "an atherosclerotic plaque that ulcerates through the inner layer into the wall; can bleed, dissect or rupture",
+    "place": "usually the descending thoracic aorta in elderly hypertensive patients"
+   },
+   "why": "a pothole in the tar",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "elephant-trunk",
+   "concept": "elephant trunk and frozen elephant trunk",
+   "terms": [
+    "elephant trunk",
+    "frozen elephant trunk",
+    "elephant trunk procedure",
+    "fet"
+   ],
+   "symbol": "a grey ELEPHANT'S TRUNK of fabric hanging from the new arch down into the orca's tail (stiffened with a Slinky in the frozen version)",
+   "anchors": [
+    "elephant trunk"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "a graft left dangling in the descending aorta at arch replacement, to make the later operation (or stent) easier",
+    "place": "from the replaced arch into the descending aorta"
+   },
+   "why": "the operation is named after it",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Frozen elephant trunk: the end is a stent graft (the sleeve), done in one stage.",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 10/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "blunt-aortic-injury",
+   "concept": "blunt (traumatic) aortic injury",
+   "terms": [
+    "blunt aortic injury",
+    "traumatic aortic injury",
+    "aortic transection",
+    "traumatic aortic rupture",
+    "aortic isthmus injury",
+    "blunt thoracic aortic injury",
+    "traumatic aortic transection"
+   ],
+   "symbol": "the orca balloon ripping open just past its left flipper, where its TETHER (the old duct tape) holds it down, as a car slams to a stop",
+   "anchors": [
+    "tether"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "in sudden deceleration the mobile arch swings on the fixed descending aorta and tears at the isthmus",
+    "place": "the isthmus, just beyond the left subclavian at the ligamentum arteriosum"
+   },
+   "why": "torn at its tether",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Best seen on CT angiography; today mostly repaired with the sleeve (TEVAR).",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "thoracoabdominal",
+   "concept": "thoracoabdominal aortic aneurysm and the Crawford extents (I to IV)",
+   "terms": [
+    "thoracoabdominal aortic aneurysm",
+    "thoracoabdominal aneurysm",
+    "thoracoabdominal",
+    "crawford classification",
+    "crawford extent",
+    "crawford type",
+    "taaa"
+   ],
+   "symbol": "a CRAWLING baby inching down the back of the orca from the flipper towards the kidney beans, stopping at mile-posts I to IV",
+   "anchors": [
+    "crawling baby"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "CRAWford = CRAWL",
+    "meaning": "an aneurysm spanning the chest and the abdomen; Crawford extents I-IV say where it starts and stops (II, the longest, carries the most paraplegia risk)",
+    "place": "the descending thoracic and abdominal aorta"
+   },
+   "why": "Crawford = crawling",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Spinal cord at risk: the kiwi.",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 9/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "porcelain-aorta",
+   "concept": "porcelain aorta",
+   "terms": [
+    "porcelain aorta",
+    "calcified aorta",
+    "heavily calcified aorta"
+   ],
+   "symbol": "the orca balloon turned to white PORCELAIN china, cracking if anyone clamps or cuts it",
+   "anchors": [
+    "porcelain"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "a circumferentially calcified ascending aorta: clamping or cannulating it risks stroke and tearing",
+    "place": "the ascending aorta"
+   },
+   "why": "named after porcelain",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Options: no-touch (off-pump with no clamp), different cannulation, replacement under circulatory arrest, or TAVR (the folded dentures).",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 10/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "radial-artery",
+   "concept": "radial artery graft",
+   "terms": [
+    "radial artery",
+    "radial artery graft",
+    "radial artery grafts",
+    "radial graft",
+    "allen test",
+    "allen's test"
+   ],
+   "symbol": "a long thin RADIO ANTENNA pulled out of the forearm and laid as a bridge over a crown spike, a nitro stick and a can of glue-blocker beside it to stop its spasm",
+   "anchors": [
+    "radio antenna"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "RADIal = RADIO",
+    "meaning": "an arterial graft from the forearm, good long-term but prone to spasm (calcium blockers, nitrates); check the hand's other artery first (Allen test)",
+    "place": "from the forearm to a coronary artery"
+   },
+   "why": "radial = radio antenna",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Best on a tightly narrowed artery; competitive flow (a mild narrowing) closes it.",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "statins",
+   "concept": "statins (HMG-CoA reductase inhibitors)",
+   "terms": [
+    "statin",
+    "statins",
+    "atorvastatin",
+    "rosuvastatin",
+    "simvastatin",
+    "pravastatin",
+    "hmg-coa reductase inhibitor",
+    "hmg-coa reductase inhibitors",
+    "statin therapy"
+   ],
+   "symbol": "a smooth SATIN cloth wiping the yellow fat off the inside of the pipes and smoothing over the tar so it cannot crack",
+   "anchors": [
+    "satin"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "STATIN = SATIN",
+    "meaning": "lower LDL cholesterol and stabilise plaque; continued around CABG; side effect: aching muscles",
+    "place": "inside the arteries"
+   },
+   "why": "statin = satin",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 1,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 8/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "nitric-oxide",
+   "concept": "inhaled nitric oxide",
+   "terms": [
+    "nitric oxide",
+    "inhaled nitric oxide",
+    "ino",
+    "no inhalation"
+   ],
+   "symbol": "a soft puff of NITRO SMOKE from the dynamite, breathed only into the money pipes, which relax wide open",
+   "anchors": [
+    "nitro smoke"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "NITRIC oxide = NITRO",
+    "meaning": "the very gas that nitroglycerin releases; inhaled, it opens only the lung vessels (pulmonary hypertension, RV failure)",
+    "place": "the pulmonary arteries, through the airways"
+   },
+   "why": "the nitro's own smoke",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 1,
+    "sticky": 2
+   },
+   "notes": "Stopping it suddenly: rebound (the gauge on the money pipes jumps); wean slowly.",
+   "firstUsed": "",
+   "family": "nitro",
+   "status": "approved",
+   "reason": "total 9/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "adenosine",
+   "concept": "adenosine",
+   "terms": [
+    "adenosine",
+    "adenosine stress"
+   ],
+   "symbol": "a LION waking in its DEN beneath the crown: one roar stops the knot for a moment and every crown spike's tap swings wide open",
+   "anchors": [
+    "den"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "ADENO-sine = A DEN",
+    "meaning": "blocks the AV node for seconds (ends AV-node re-entry, unmasks flutter) and dilates the coronary arteries (stress tests)",
+    "place": "at the base of the crown, beside the knot"
+   },
+   "why": "adenosine = a lion in its den",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "MedCosmos drew the lion waking in its den.",
+   "firstUsed": "MedCosmos (a lion in its den)",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "lidocaine",
+   "concept": "lidocaine (class I antiarrhythmic, local anaesthetic)",
+   "terms": [
+    "lidocaine",
+    "lignocaine",
+    "xylocaine",
+    "class ib",
+    "class i antiarrhythmic",
+    "class i antiarrhythmics",
+    "class 1 antiarrhythmic"
+   ],
+   "symbol": "a dentist's NUMBING NEEDLE jamming the fast revolving door so the salt crystals cannot rush in",
+   "anchors": [
+    "numbing needle"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the dentist's local anaesthetic is also an antiarrhythmic: it blocks the fast sodium channel (ventricular arrhythmias)",
+    "place": "at the cell's sodium door"
+   },
+   "why": "the dentist's numbing needle",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "MedCosmos and Shahzad drew class I drugs as the numbing needle.",
+   "firstUsed": "MedCosmos (a dentist's numbing needle)",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "troponin",
+   "concept": "troponin (cardiac biomarkers)",
+   "terms": [
+    "troponin",
+    "troponins",
+    "troponin i",
+    "troponin t",
+    "high-sensitivity troponin",
+    "ck-mb",
+    "cardiac enzymes",
+    "cardiac biomarkers",
+    "cardiac markers"
+   ],
+   "symbol": "a bright TROPICAL TOUCAN escaping through the broken window of a dying engine room, squawking the alarm",
+   "anchors": [
+    "toucan"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "TROP-onin = TROPical bird",
+    "meaning": "released only when heart muscle cells die: the marker of myocardial injury and perioperative MI",
+    "place": "out of the damaged engine room into the blood"
+   },
+   "why": "troponin = a tropical bird escaping",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "torsades",
+   "concept": "torsades de pointes, long QT",
+   "terms": [
+    "torsades",
+    "torsades de pointes",
+    "long qt",
+    "long qt syndrome",
+    "qt prolongation",
+    "prolonged qt",
+    "qt interval prolongation"
+   ],
+   "symbol": "a BALLERINA spinning faster and faster on the POINTS of her toes in the engine room, her skirt twisting round and round",
+   "anchors": [
+    "ballerina"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "torsades de POINTES = twisting on the POINTS (pointe shoes)",
+    "meaning": "polymorphic VT twisting round the baseline, on a long QT; treated with magnesium, pacing faster, removing the cause",
+    "place": "the engine room"
+   },
+   "why": "a ballerina twisting on her points",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Causes: low potassium (few bananas) and magnesium, drugs (amiodarone's ammo, sotalol), slow rates.",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "crt",
+   "concept": "cardiac resynchronisation therapy (biventricular pacing)",
+   "terms": [
+    "cardiac resynchronization therapy",
+    "cardiac resynchronisation therapy",
+    "cardiac resynchronization",
+    "crt",
+    "crt-d",
+    "biventricular pacing",
+    "biventricular pacemaker"
+   ],
+   "symbol": "TWO DRUMMERS, one in each engine room, striking their drums at exactly the same moment so both fans push together",
+   "anchors": [
+    "two drummers"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "pacing both ventricles together to correct the delay of left bundle branch block in heart failure",
+    "place": "a lead in the right ventricle and one on the left (through the coronary sinus or on its surface)"
+   },
+   "why": "two drummers in sync",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "With the bodyguard as well = CRT-D. A surgeon may place the left lead on the heart's surface through a small thoracotomy.",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "pericarditis",
+   "concept": "acute pericarditis and postpericardiotomy (Dressler) syndrome",
+   "terms": [
+    "pericarditis",
+    "acute pericarditis",
+    "postpericardiotomy syndrome",
+    "post-pericardiotomy syndrome",
+    "postpericardiotomy",
+    "dressler",
+    "dressler's syndrome",
+    "dressler syndrome",
+    "pericardial friction rub",
+    "friction rub"
+   ],
+   "symbol": "the glass aquarium round the hotel wearing a hot RED DRESS, steaming with fever and rubbing against the hotel like sandpaper",
+   "anchors": [
+    "red dress"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "DRESSler = a DRESS",
+    "meaning": "inflammation of the pericardium (weeks after surgery or a heart attack): chest pain, fever, a rub, effusion; treated with NSAIDs and colchicine",
+    "place": "the pericardium"
+   },
+   "why": "Dressler = a red dress",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "It can fill the tank (tamponade) or, years later, harden into the boa constrictor.",
+   "firstUsed": "",
+   "family": "pericardium",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "fibroelastoma",
+   "concept": "papillary fibroelastoma",
+   "terms": [
+    "papillary fibroelastoma",
+    "papillary fibroelastomas",
+    "fibroelastoma",
+    "fibroelastomas"
+   ],
+   "symbol": "a small pale SEA ANEMONE waving its fronds on a leaf of a valve door, bits breaking off and floating away",
+   "anchors": [
+    "sea anemone"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "a small benign frond-like tumour on a valve (most often aortic); its danger is embolism (stroke)",
+    "place": "on a valve leaflet"
+   },
+   "why": "a sea anemone = fronds",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "The commonest valve tumour. Removed when it is mobile or has embolised, sparing the valve.",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "rhabdomyoma",
+   "concept": "rhabdomyoma (and tuberous sclerosis)",
+   "terms": [
+    "rhabdomyoma",
+    "rhabdomyomas",
+    "cardiac rhabdomyoma",
+    "tuberous sclerosis"
+   ],
+   "symbol": "a soft white RABBIT nesting in the wall of a baby's engine room, slowly shrinking away by itself",
+   "anchors": [
+    "rabbit"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "RHABDO-myoma = RABBIT",
+    "meaning": "the commonest heart tumour of infants, linked to tuberous sclerosis; most shrink on their own",
+    "place": "in the walls of the ventricles"
+   },
+   "why": "rhabdo = rabbit",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Operate only if it blocks a valve or an outflow.",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "angiosarcoma",
+   "concept": "cardiac angiosarcoma (and primary cardiac sarcomas)",
+   "terms": [
+    "angiosarcoma",
+    "cardiac angiosarcoma",
+    "cardiac sarcoma",
+    "primary cardiac sarcoma",
+    "cardiac sarcomas"
+   ],
+   "symbol": "one big red crab made of tangled blood vessels, wearing a gold FIRST-PLACE MEDAL, clinging to the wall of the blue lobby",
+   "anchors": [
+    "first-place medal"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the commonest primary malignant heart tumour; vascular, in the right atrium; poor prognosis",
+    "place": "the right atrium"
+   },
+   "why": "the champion crab of the heart",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "MedCosmos drew the crab with a gold first-place medal.",
+   "firstUsed": "MedCosmos (a crab with a gold medal)",
+   "family": "cancer",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "cni",
+   "concept": "calcineurin inhibitors (cyclosporine, tacrolimus)",
+   "terms": [
+    "cyclosporine",
+    "ciclosporin",
+    "cyclosporin",
+    "cyclosporin a",
+    "tacrolimus",
+    "fk506",
+    "calcineurin inhibitor",
+    "calcineurin inhibitors",
+    "cni"
+   ],
+   "symbol": "a CYCLONE wrapped in a crisp TACO shell, sweeping the white soldier ants off the transplanted plant while wringing the kidney beans dry",
+   "anchors": [
+    "cyclone",
+    "taco"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "CYCLOsporine = CYCLONE; TACrolimus = TACO",
+    "meaning": "the main anti-rejection drugs: they switch off T cells; they harm the kidneys, raise pressure and sugar",
+    "place": "over the flowerpot"
+   },
+   "why": "cyclone and taco",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 1,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 9/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "interrupted-arch",
+   "concept": "interrupted aortic arch",
+   "terms": [
+    "interrupted aortic arch",
+    "interrupted arch",
+    "iaa",
+    "interruption of the aortic arch",
+    "aortic arch interruption"
+   ],
+   "symbol": "the orca balloon CUT IN TWO at its arch, a clear gap between the halves, the tail half fed only through the duct-tape tunnel",
+   "anchors": [
+    "cut in two"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "no continuity between the ascending and descending aorta; the lower body lives on the ductus (prostaglandin)",
+    "place": "type B (commonest, with DiGeorge) between the left carrot and the left flipper; A beyond the flipper; C between the two carrots"
+   },
+   "why": "an arch cut in two",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 1,
+    "sticky": 1
+   },
+   "notes": "Almost always with a VSD.",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "digeorge",
+   "concept": "DiGeorge syndrome (22q11 deletion)",
+   "terms": [
+    "digeorge",
+    "digeorge syndrome",
+    "22q11",
+    "22q11 deletion",
+    "22q11.2 deletion",
+    "22q11 deletion syndrome",
+    "velocardiofacial"
+   ],
+   "symbol": "SAINT GEORGE on his horse riding past an EMPTY pot of thyme and a knocked-over can of glue",
+   "anchors": [
+    "saint george",
+    "st george"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "Di-GEORGE = Saint GEORGE",
+    "meaning": "no thymus (weak immunity: irradiated blood only), low calcium (the glue), conotruncal heart defects (truncus, interrupted arch type B, tetralogy)",
+    "place": "beside the arch or trunk defect"
+   },
+   "why": "DiGeorge = Saint George",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "down-syndrome",
+   "concept": "Down syndrome (trisomy 21)",
+   "terms": [
+    "down syndrome",
+    "down's syndrome",
+    "trisomy 21"
+   ],
+   "symbol": "three identical FOOTBALL SHIRTS all numbered 21 hanging side by side on a washing line beside the cross-shaped hole",
+   "anchors": [
+    "football shirts"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "TRI-somy 21 = three 21s",
+    "meaning": "an extra chromosome 21; about 40 percent have heart defects, most typically the AV septal defect; early pulmonary hypertension",
+    "place": "beside the AVSD (the cross-shaped hole)"
+   },
+   "why": "three shirts numbered 21",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 9/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "turner",
+   "concept": "Turner syndrome (45,X)",
+   "terms": [
+    "turner",
+    "turner syndrome",
+    "turner's syndrome",
+    "45,x",
+    "45 x"
+   ],
+   "symbol": "a single TURNIP carved into the letter X, sitting beside the rope that pinches the orca's waist",
+   "anchors": [
+    "turnip"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "TURNER = TURNIP",
+    "meaning": "one X chromosome only: short girls; coarctation, bicuspid valve, aortic dissection",
+    "place": "beside the coarctation (the rope)"
+   },
+   "why": "Turner = turnip with one X",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 1,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 9/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "williams",
+   "concept": "Williams syndrome",
+   "terms": [
+    "williams",
+    "williams syndrome",
+    "williams-beuren",
+    "williams-beuren syndrome",
+    "elfin facies"
+   ],
+   "symbol": "a cheerful ELF at a cocktail party, chatting to everyone, wearing the tight pearl necklace that chokes the orca above its mouth",
+   "anchors": [
+    "elf"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "elfin face, very friendly, high calcium; supravalvular aortic stenosis and narrowed pulmonary branches (elastin gene)",
+    "place": "the necklace just above the aortic valve"
+   },
+   "why": "the elf with the pearl necklace",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "holt-oram",
+   "concept": "Holt-Oram syndrome (heart-hand syndrome)",
+   "terms": [
+    "holt-oram",
+    "holt-oram syndrome",
+    "heart-hand syndrome"
+   ],
+   "symbol": "a man HOLDing a RAM by its curly horns with an odd finger-like thumb, beside a hole in the upper party wall",
+   "anchors": [
+    "ram"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "HOLT-ORAM = HOLD a RAM",
+    "meaning": "an inherited defect of the thumbs and forearms with an ASD (or VSD) and conduction problems",
+    "place": "beside the upper party wall"
+   },
+   "why": "Holt-Oram = hold a ram",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 1,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 9/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "vascular-ring",
+   "concept": "vascular ring (double aortic arch, right arch with left ligamentum)",
+   "terms": [
+    "vascular ring",
+    "vascular rings",
+    "double aortic arch",
+    "complete vascular ring"
+   ],
+   "symbol": "two orca arches (or an arch and its duct-tape tether) closing a RING round both the ribbed hose and the pink sofa slide, tight as an iron key ring, so the child wheezes and chokes on food",
+   "anchors": [
+    "closing a ring",
+    "key ring"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "arch vessels encircling the trachea and oesophagus: noisy breathing, difficulty swallowing",
+    "place": "round the trachea and oesophagus at the top of the chest"
+   },
+   "why": "a ring round the hose and the slide",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Usually divided through a left thoracotomy (the side lid). MedCosmos drew a double arch as two orcas closing a ring.",
+   "firstUsed": "MedCosmos 8 (two orcas closing a ring)",
+   "status": "approved",
+   "reason": "total 10/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "pa-sling",
+   "concept": "pulmonary artery sling (and complete tracheal rings)",
+   "terms": [
+    "pulmonary artery sling",
+    "pa sling",
+    "pulmonary sling",
+    "ring-sling complex",
+    "ring sling"
+   ],
+   "symbol": "the left pipe of dollar bills looping like a SLING round the back of the ribbed hose, between the hose and the sofa slide",
+   "anchors": [
+    "sling"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the left pulmonary artery arises from the right one and loops behind the trachea; often with complete tracheal rings",
+    "place": "between the trachea and the oesophagus"
+   },
+   "why": "a sling round the windpipe",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 1,
+    "sticky": 2
+   },
+   "notes": "Complete rings: the ribbed hose made of full O-rings (no soft back wall), narrow (slide tracheoplasty).",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "mapca",
+   "concept": "major aortopulmonary collateral arteries (MAPCAs), unifocalisation",
+   "terms": [
+    "mapca",
+    "mapcas",
+    "major aortopulmonary collateral",
+    "major aortopulmonary collaterals",
+    "major aortopulmonary collateral arteries",
+    "aortopulmonary collaterals",
+    "unifocalization",
+    "unifocalisation"
+   ],
+   "symbol": "an old TREASURE MAP whose many winding dotted paths run from the orca's back to the sacks of dollar bills",
+   "anchors": [
+    "treasure map"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "MAP-ca = a MAP",
+    "meaning": "many collateral arteries from the descending aorta feed the lungs when the pulmonary artery is atretic (pulmonary atresia with VSD)",
+    "place": "from the descending aorta to the lungs"
+   },
+   "why": "MAPCA = map",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Unifocalisation: gathering all the paths into one road (one pulmonary artery).",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "ap-window",
+   "concept": "aortopulmonary window",
+   "terms": [
+    "aortopulmonary window",
+    "aorto-pulmonary window",
+    "ap window",
+    "aortopulmonary septal defect"
+   ],
+   "symbol": "a round brass PORTHOLE window cut between the orca and the pipe of dollar bills, just above their mouths",
+   "anchors": [
+    "porthole"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "a hole between the ascending aorta and the main pulmonary artery: a big left-to-right shunt",
+    "place": "between the two great arteries, above both valves"
+   },
+   "why": "a window between the two",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Closed early with a patch, before pulmonary vascular disease (the wooden blocks) sets in.",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 10/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "cor-triatriatum",
+   "concept": "cor triatriatum",
+   "terms": [
+    "cor triatriatum",
+    "cor triatriatum sinister",
+    "triatriatum",
+    "subdivided left atrium"
+   ],
+   "symbol": "a THIRD ATRIUM LOBBY made by an extra glass partition across the red lobby, the money pipes pouring into the upper part and only a small hole letting the water through",
+   "anchors": [
+    "third atrium lobby",
+    "third lobby"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "TRI-atriatum = a THIRD atrium",
+    "meaning": "a membrane divides the left atrium; the pulmonary veins drain above a narrow opening (like mitral stenosis)",
+    "place": "inside the left atrium, above the mitre and the dog's ear"
+   },
+   "why": "three atria",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "MedCosmos drew the third lobby.",
+   "firstUsed": "MedCosmos (a third atrium lobby)",
+   "status": "approved",
+   "reason": "total 9/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "cc-tga",
+   "concept": "congenitally corrected transposition of the great arteries (L-TGA)",
+   "terms": [
+    "congenitally corrected transposition",
+    "congenitally corrected transposition of the great arteries",
+    "cc-tga",
+    "cctga",
+    "l-tga",
+    "l-transposition"
+   ],
+   "symbol": "the HART Hotel standing before a big MIRROR: in it the engine rooms AND the outflow pipes are both swapped, so the water still ends up in the right place (two wrongs make a right)",
+   "anchors": [
+    "mirror"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "both the atrioventricular and the ventriculoarterial connections are discordant: physiology is corrected, but the right ventricle pumps to the body",
+    "place": "the whole heart"
+   },
+   "why": "doubly swapped = corrected",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 1,
+    "sticky": 2
+   },
+   "notes": "Problems: the systemic right ventricle fails, the trident leaks, heart block (the drawbridge). Double switch = sending both back.",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "scimitar",
+   "concept": "scimitar syndrome",
+   "terms": [
+    "scimitar",
+    "scimitar syndrome",
+    "scimitar vein"
+   ],
+   "symbol": "the right pipe of dollar bills curving down like a giant Turkish SCIMITAR sword through the deck into the drainpipe (IVC)",
+   "anchors": [
+    "scimitar"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "SCIMITAR = the sword's shape on X-ray",
+    "meaning": "partial anomalous drainage of the right lung into the IVC, with a small right lung and often a systemic feeding artery",
+    "place": "right side, down through the diaphragm into the IVC"
+   },
+   "why": "the scimitar shadow",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "MedCosmos drew the scimitar sword.",
+   "firstUsed": "MedCosmos 116 (a scimitar sword)",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "lusoria",
+   "concept": "aberrant right subclavian artery (arteria lusoria), dysphagia lusoria",
+   "terms": [
+    "aberrant right subclavian",
+    "aberrant right subclavian artery",
+    "arteria lusoria",
+    "lusoria",
+    "dysphagia lusoria",
+    "retroesophageal subclavian",
+    "kommerell",
+    "kommerell's diverticulum",
+    "kommerell diverticulum"
+   ],
+   "symbol": "a JESTER in a belled cap playing a trick: the right flipper pipe sneaking out last from the orca's arch and crossing BEHIND the pink sofa slide, pinching it as food goes down",
+   "anchors": [
+    "jester"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "LUSORIA = a jest, a trick (Latin lusus)",
+    "meaning": "the right subclavian arises last from the arch and runs behind the oesophagus; it may cause difficulty swallowing",
+    "place": "behind the oesophagus"
+   },
+   "why": "lusoria = the jester's trick",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 1,
+    "sticky": 2
+   },
+   "notes": "Kommerell's diverticulum: a bulge (bubble gum) at its origin.",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 9/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "cryoablation",
+   "concept": "cryoablation",
+   "terms": [
+    "cryoablation",
+    "cryothermy",
+    "cryolesion",
+    "cryolesions",
+    "cryoablation lines",
+    "cryoprobe"
+   ],
+   "symbol": "a frosted ICE WAND pressed against the wall, freezing a white line of frost through it",
+   "anchors": [
+    "ice wand"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "CRYO = frozen",
+    "meaning": "freezing the tissue to make a scar line that blocks electrical conduction (maze lines, round valve rings)",
+    "place": "on the atrial walls, the mitral and tricuspid rings"
+   },
+   "why": "a freezing wand",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Compare the blowtorch (radiofrequency heat ablation).",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 9/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "parachute-mitral",
+   "concept": "parachute mitral valve and Shone complex",
+   "terms": [
+    "parachute mitral valve",
+    "parachute mitral",
+    "parachute valve",
+    "shone",
+    "shone's complex",
+    "shone complex",
+    "shone syndrome"
+   ],
+   "symbol": "the bishop's mitre hanging from a single PARACHUTE: all its harp strings gathered to ONE pillar",
+   "anchors": [
+    "parachute"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "all the chords insert into a single papillary muscle: mitral stenosis; with supravalvar ring, subaortic stenosis and coarctation = Shone complex",
+    "place": "the mitral valve and its pillar"
+   },
+   "why": "it looks like a parachute",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Shone: the parachute, a ring above the mitre, the shower curtain below the orca's mouth and the rope round its waist.",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 10/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "cone-repair",
+   "concept": "cone reconstruction of the tricuspid valve (Ebstein)",
+   "terms": [
+    "cone repair",
+    "cone reconstruction",
+    "cone procedure",
+    "da silva",
+    "da silva cone"
+   ],
+   "symbol": "Einstein rolling the trident's displaced leaves into an ICE-CREAM CONE and sewing it back up at the proper ring",
+   "anchors": [
+    "ice-cream cone"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the leaflets are freed, turned into a cone and re-attached at the true tricuspid annulus",
+    "place": "the tricuspid valve in Ebstein's anomaly"
+   },
+   "why": "the cone repair",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 1,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "hemolysis",
+   "concept": "haemolysis",
+   "terms": [
+    "hemolysis",
+    "haemolysis",
+    "hemolytic",
+    "haemolytic",
+    "free hemoglobin",
+    "free haemoglobin",
+    "plasma free hemoglobin",
+    "hemoglobinuria",
+    "haemoglobinuria"
+   ],
+   "symbol": "red doughnuts SMASHED to crumbs against a rough part of the pipe, the river turning dark cola-red",
+   "anchors": [
+    "smashed doughnuts"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "haemo-LYSIS = blood broken",
+    "meaning": "red cells broken by pumps, a leaking or mechanical valve or a jet: dark urine, kidney injury",
+    "place": "where the jet or the pump hits them"
+   },
+   "why": "smashed red cells",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Classic in a paravalvular leak, a thrombosed VAD pump, a long bypass run.",
+   "firstUsed": "",
+   "family": "red-cells",
+   "status": "approved",
+   "reason": "total 9/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "cold-agglutinin",
+   "concept": "cold agglutinins",
+   "terms": [
+    "cold agglutinin",
+    "cold agglutinins",
+    "cold agglutinin disease",
+    "cold hemagglutinin",
+    "cold haemagglutinin"
+   ],
+   "symbol": "in the icy water, the red doughnuts sticking together into CLUMPED lumps that block the small pipes",
+   "anchors": [
+    "clumped doughnuts"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "AGGLUTININ = glue them together",
+    "meaning": "antibodies that clump red cells in the cold: avoid deep hypothermia and cold cardioplegia, keep warm",
+    "place": "wherever the blood is cooled (cardioplegia, the bypass circuit)"
+   },
+   "why": "cold clumped doughnuts",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "",
+   "family": "red-cells",
+   "status": "approved",
+   "reason": "total 9/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "vasoplegia",
+   "concept": "vasoplegia (and methylene blue)",
+   "terms": [
+    "vasoplegia",
+    "vasoplegic",
+    "vasoplegic syndrome",
+    "methylene blue",
+    "vasodilatory shock"
+   ],
+   "symbol": "every vase in the city gone LIMP and floppy like wet paper, the water pooling low; a bucket of bright blue paint (methylene blue) stiffens them again",
+   "anchors": [
+    "limp vases"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "VASO-PLEGIA = paralysed vases",
+    "meaning": "after bypass the vessels lose their tone: low pressure with a high cardiac output, needing pressors (or methylene blue)",
+    "place": "the arteries of the whole body"
+   },
+   "why": "limp vases",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "The pressing hands (vasopressors) squeeze the limp vases.",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "wound-vac",
+   "concept": "negative-pressure wound therapy (wound VAC)",
+   "terms": [
+    "vacuum-assisted closure",
+    "vacuum assisted closure",
+    "vac therapy",
+    "wound vac",
+    "vac",
+    "negative-pressure wound therapy",
+    "negative pressure wound therapy",
+    "npwt"
+   ],
+   "symbol": "a VACUUM CLEANER hose sealed over the opened, infected stern of the ship, sucking it clean until it can be closed",
+   "anchors": [
+    "vacuum cleaner"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "VAC = VACuum",
+    "meaning": "suction under a sealed dressing removes fluid and helps granulation before sternal closure or a flap",
+    "place": "the open sternal wound"
+   },
+   "why": "VAC = vacuum",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Used for deep sternal wound infection (the stern rotting with green mould).",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "occluder",
+   "concept": "transcatheter occluder devices (Amplatzer) for ASD, VSD, PFO, PDA",
+   "terms": [
+    "occluder",
+    "occluders",
+    "septal occluder",
+    "amplatzer",
+    "device closure",
+    "transcatheter closure",
+    "percutaneous closure",
+    "occluder device",
+    "percutaneous device closure"
+   ],
+   "symbol": "a pair of round silver CUFFLINKS clipped through the hole, one disc on each side of the wall",
+   "anchors": [
+    "cufflink"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "a double-disc device delivered by catheter that clamps both sides of a hole",
+    "place": "through the hole in the party wall (or the duct)"
+   },
+   "why": "a cufflink through a hole",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Needs rims of wall round the hole; a sinus venosus or primum hole (Venus, prime rib) cannot take one. Erosion: the disc rubbing through the orca.",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "lecompte",
+   "concept": "LeCompte manoeuvre (in the arterial switch)",
+   "terms": [
+    "lecompte",
+    "lecompte maneuver",
+    "lecompte manoeuvre",
+    "le compte"
+   ],
+   "symbol": "a vampire COUNT in a black cape lifting the pipe of dollar bills over the orca and setting it down IN FRONT of it",
+   "anchors": [
+    "vampire"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "LeCOMPTE = le COMTE, the Count",
+    "meaning": "the pulmonary artery is brought anterior to the aorta during the arterial switch",
+    "place": "the great arteries"
+   },
+   "why": "the Count lifts the pipe forward",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Alongside the switchman (arterial switch).",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "myocardial-bridge",
+   "concept": "myocardial bridge",
+   "terms": [
+    "myocardial bridge",
+    "myocardial bridging",
+    "intramyocardial course",
+    "intramyocardial coronary",
+    "tunneled coronary artery",
+    "tunnelled coronary artery"
+   ],
+   "symbol": "a small arching MUSCLE BRIDGE of red brick over the lad's slide, squeezing it flat with each beat",
+   "anchors": [
+    "muscle bridge"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "a coronary segment (usually the LAD) runs inside the muscle and is squeezed in systole",
+    "place": "the middle of the LAD"
+   },
+   "why": "a bridge of muscle",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Usually harmless; surgery (unroofing or bypass) only for clear ischaemia.",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "subclavian-steal",
+   "concept": "subclavian steal and coronary-subclavian steal",
+   "terms": [
+    "subclavian steal",
+    "coronary-subclavian steal",
+    "coronary subclavian steal",
+    "steal syndrome"
+   ],
+   "symbol": "a MAGPIE perched on a narrowed left flipper, stealing the water back down the lima bean vine (or up from the head) into the arm",
+   "anchors": [
+    "magpie"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "a narrowing at the start of the subclavian artery makes blood flow backwards from the vertebral artery, or from a LIMA graft, into the arm",
+    "place": "the left subclavian artery before the LIMA and vertebral branches"
+   },
+   "why": "a magpie steals",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Before or after CABG with a LIMA: angina when using the arm. Fixed by stenting or bypassing the flipper.",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "ep-study",
+   "concept": "electrophysiology study",
+   "terms": [
+    "electrophysiology study",
+    "electrophysiologic study",
+    "electrophysiological study",
+    "ep study",
+    "eps",
+    "programmed stimulation",
+    "programmed electrical stimulation"
+   ],
+   "symbol": "a technician touching the hotel's walls with a sparking BLUE WAND, trying to make the pirate start dancing",
+   "anchors": [
+    "blue wand"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "catheters stimulate the heart to map its circuits and to see whether a dangerous rhythm can be provoked",
+    "place": "inside the heart's rooms"
+   },
+   "why": "the wand provokes the pirate",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "MedCosmos drew the technician with the sparking blue wand five times.",
+   "firstUsed": "MedCosmos (a sparking blue wand)",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "free-wall-rupture",
+   "concept": "free wall rupture of the ventricle (after myocardial infarction)",
+   "terms": [
+    "free wall rupture",
+    "ventricular free wall rupture",
+    "left ventricular free wall rupture",
+    "cardiac rupture",
+    "myocardial rupture",
+    "left ventricular rupture"
+   ],
+   "symbol": "the outer brick wall of the engine room BLOWN OUT, red water gushing into the aquarium round the hotel",
+   "anchors": [
+    "blown out"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the infarcted wall tears through, usually within the first week: sudden tamponade",
+    "place": "the free wall of the left ventricle, into the pericardium"
+   },
+   "why": "the wall blown out",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "The three mechanical complications of a heart attack: the hole in the lower party wall (VSD), the snapped pillar (papillary rupture), the blown-out wall.",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "coaptation",
+   "concept": "leaflet coaptation (length, depth)",
+   "terms": [
+    "coaptation",
+    "coaptation length",
+    "coaptation depth",
+    "coaptation height",
+    "coaptation zone",
+    "leaflet coaptation",
+    "coapt"
+   ],
+   "symbol": "the two leaves of the mitre meeting in a long firm HANDSHAKE",
+   "anchors": [
+    "handshake"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "CO-APT = CO-operate",
+    "meaning": "the length over which the leaflets touch when closed; a good repair needs a long coaptation (at least about 5-8 mm)",
+    "place": "the closing edges of the valve leaflets"
+   },
+   "why": "leaves shaking hands",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 8/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "infundibulum",
+   "concept": "infundibulum (conus, right ventricular outflow tract), infundibular stenosis",
+   "terms": [
+    "infundibulum",
+    "infundibular",
+    "infundibular stenosis",
+    "conal septum",
+    "outlet septum",
+    "right ventricular outflow tract",
+    "rvot",
+    "rvot obstruction",
+    "right ventricular outflow tract obstruction"
+   ],
+   "symbol": "a kitchen FUNNEL leading from the blue engine room up into the pipe of dollar bills; in tetralogy its wall is pushed forward and squeezes it narrow",
+   "anchors": [
+    "funnel"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "INFUNDIBULUM = Latin for FUNNEL",
+    "meaning": "the muscular outflow of the right ventricle below the pulmonary valve",
+    "place": "between the right ventricle and the pulmonary valve"
+   },
+   "why": "infundibulum = funnel",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Tetralogy: the conal septum shifted forward narrows the funnel; muscle bundles are cut, or a patch widens it.",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "fontan-fenestration",
+   "concept": "Fontan fenestration",
+   "terms": [
+    "fontan fenestration",
+    "fenestrated fontan",
+    "fenestration closure"
+   ],
+   "symbol": "a small DRILLED HOLE in the stone basin of the fountain letting a little blue water spill into the red lobby",
+   "anchors": [
+    "drilled hole"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "FENESTRA = a little window",
+    "meaning": "a small hole from the Fontan pathway to the atrium: lowers the venous pressure and raises output at the cost of some blueness",
+    "place": "between the Fontan conduit and the atrium"
+   },
+   "why": "a window in the fountain",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 1,
+    "sticky": 1
+   },
+   "notes": "Closed later with the cufflinks if the child tolerates it.",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 8/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "nyha",
+   "concept": "New York Heart Association (NYHA) functional class",
+   "terms": [
+    "nyha",
+    "nyha class",
+    "nyha functional class",
+    "new york heart association",
+    "functional class"
+   ],
+   "symbol": "a man climbing the stairs of the EMPIRE STATE building: class I runs up freely, II tires on ordinary flights, III stops after a few steps, IV is breathless sitting at the bottom",
+   "anchors": [
+    "empire state"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "NEW YORK Heart Association = the EMPIRE STATE building",
+    "meaning": "symptoms graded by how much activity brings breathlessness or tiredness",
+    "place": "the stairs of the Empire State building, the HART Hotel's neighbour"
+   },
+   "why": "New York = the Empire State",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Questions on surgery timing in valve disease often turn on it (class III-IV).",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "alcohol-ablation",
+   "concept": "alcohol septal ablation",
+   "terms": [
+    "alcohol septal ablation",
+    "septal ablation",
+    "alcohol ablation",
+    "ethanol septal ablation",
+    "transcoronary alcohol septal ablation"
+   ],
+   "symbol": "a bottle of WHISKY poured down a little septal branch of the crown into the bodybuilder's bulging biceps, which wilt",
+   "anchors": [
+    "whisky"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "absolute alcohol injected into a septal artery makes a controlled heart attack that thins the bulging septum in HCM",
+    "place": "the first septal branch of the LAD, into the upper septum"
+   },
+   "why": "alcohol kills the bulge",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Compare myectomy (the sculptor's chisel): alcohol leaves more heart block (the drawbridge) and suits older, frailer patients.",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 10/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "endothelium",
+   "concept": "endothelium (and endothelial injury)",
+   "terms": [
+    "endothelium",
+    "endothelial",
+    "endothelial cells",
+    "endothelial dysfunction",
+    "endothelial injury",
+    "vascular endothelium"
+   ],
+   "symbol": "smooth WHITE TILES lining the inside of every pipe; where a tile falls off, sparks touch the river and a clot grows",
+   "anchors": [
+    "white tiles"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the living lining of the vessels: makes nitric oxide, keeps the blood from clotting; injured by bypass, smoking, high pressure",
+    "place": "the inner lining of all vessels"
+   },
+   "why": "white tiles = the lining",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Johns Hopkins drew smooth white tiles lining a red pipe.",
+   "firstUsed": "Johns Hopkins (smooth white tiles)",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "dor",
+   "concept": "surgical ventricular restoration (Dor procedure)",
+   "terms": [
+    "dor",
+    "dor procedure",
+    "dor operation",
+    "surgical ventricular restoration",
+    "ventricular restoration",
+    "endoventricular circular patch plasty",
+    "ventricular reconstruction"
+   ],
+   "symbol": "a round PATCH DOOR sewn into the scarred, ballooned part of the engine room's wall, shutting it off so the room is smaller again and keeps its proper shape",
+   "anchors": [
+    "patch door"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "DOR = DOOR",
+    "meaning": "excluding the dead, dilated part of the left ventricle with a circular patch to restore its size and shape",
+    "place": "the apex and front wall of the left ventricle after an anterior infarct"
+   },
+   "why": "Dor = a door",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 9/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "cardiac-box",
+   "concept": "penetrating cardiac injury and the cardiac box",
+   "terms": [
+    "cardiac box",
+    "penetrating cardiac injury",
+    "penetrating cardiac trauma",
+    "stab wound to the heart",
+    "cardiac stab wound",
+    "precordial stab wound",
+    "gunshot wound to the heart"
+   ],
+   "symbol": "a red DANGER BOX painted on the front of the chest, a dagger stuck inside it and red water filling the aquarium",
+   "anchors": [
+    "danger box"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "a wound inside the box (collarbones to costal margins, nipple to nipple) must be presumed to have hit the heart",
+    "place": "the front of the chest"
+   },
+   "why": "the danger box",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Then: tamponade (the flooding aquarium), subxiphoid window (the submarine), sternotomy or thoracotomy.",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "takotsubo",
+   "concept": "takotsubo (stress) cardiomyopathy",
+   "terms": [
+    "takotsubo",
+    "tako-tsubo",
+    "takotsubo cardiomyopathy",
+    "stress cardiomyopathy",
+    "broken heart syndrome",
+    "apical ballooning"
+   ],
+   "symbol": "the red engine room shaped like a Japanese CLAY POT with a narrow neck and a ballooned round bottom (an octopus trap), after a shock",
+   "anchors": [
+    "clay pot"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "TAKO-TSUBO = octopus pot (Japanese)",
+    "meaning": "after great stress the apex balloons and stops moving; mimics a heart attack with clean arteries; usually recovers",
+    "place": "the apex of the left ventricle"
+   },
+   "why": "the octopus-trap pot",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 1,
+    "sticky": 2
+   },
+   "notes": "Can follow surgery itself; watch for outflow obstruction (Uncle Sam).",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 9/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "bovine-pericardial",
+   "concept": "bovine pericardial bioprosthesis",
+   "terms": [
+    "bovine pericardial",
+    "bovine pericardium",
+    "bovine pericardial valve",
+    "bovine valve",
+    "pericardial valve",
+    "pericardial bioprosthesis"
+   ],
+   "symbol": "a valve sewn from brown-and-white COW LEATHER, set into the doorway",
+   "anchors": [
+    "cow leather"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "BOVINE = COW",
+    "meaning": "a tissue valve made from calf pericardium mounted on a frame; compare the pig (porcine) valve",
+    "place": "the aortic or mitral position"
+   },
+   "why": "bovine = cow",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Bovine pericardium is also a patch material (a strip of cow leather).",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 9/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "ball-cage",
+   "concept": "ball-and-cage valve (Starr-Edwards)",
+   "terms": [
+    "ball-and-cage",
+    "ball and cage",
+    "caged ball",
+    "caged-ball valve",
+    "starr-edwards",
+    "starr edwards",
+    "ball valve"
+   ],
+   "symbol": "a silver STAR-shaped ball rattling inside a little BIRDCAGE set into the doorway",
+   "anchors": [
+    "birdcage"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "STARR = a STAR",
+    "meaning": "the first durable mechanical valve: very thrombogenic, high gradient, needs strong anticoagulation",
+    "place": "the aortic or mitral position"
+   },
+   "why": "a star ball in a cage",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Modern mechanical valves are bileaflet (the little steel robot).",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "dcm",
+   "concept": "dilated cardiomyopathy",
+   "terms": [
+    "dilated cardiomyopathy",
+    "idiopathic dilated cardiomyopathy",
+    "ischemic cardiomyopathy",
+    "ischaemic cardiomyopathy",
+    "dcm",
+    "icm"
+   ],
+   "symbol": "the engine rooms stretched wide and floppy like an over-pulled ACCORDION that can barely squeeze a note",
+   "anchors": [
+    "accordion"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "big, thin-walled, weakly squeezing ventricles; the mitral ring stretches and leaks",
+    "place": "both ventricles, mostly the left"
+   },
+   "why": "a stretched accordion",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Leads to the Vader (VAD) or the flowerpot (transplant).",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-21"
+  },
+  {
+   "id": "ventilation",
+   "concept": "mechanical ventilation, ventilator",
+   "terms": [
+    "mechanical ventilation",
+    "ventilator",
+    "ventilators",
+    "ventilatory support",
+    "prolonged ventilation",
+    "prolonged mechanical ventilation",
+    "positive pressure ventilation",
+    "positive-pressure ventilation",
+    "ventilator dependence"
+   ],
+   "symbol": "a big leather BELLOWS pumping air down the ribbed hose into the sacks of dollar bills",
+   "anchors": [
+    "bellows"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "a machine breathes for the patient through a tube",
+    "place": "through the trachea into the lungs"
+   },
+   "why": "the bellows",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Johns Hopkins drew the bellows several times.",
+   "firstUsed": "Johns Hopkins (a leather bellows)",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
    "audited": "2026-11-21"
   }
  ]
