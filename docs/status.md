@@ -1,12 +1,29 @@
 # Where the work stands
 
-Updated 2026-11-21 (evening). Whoever works on YouTop next: read `CLAUDE.md`, then this, then
+Updated 2026-11-21 (night). Whoever works on YouTop next: read `CLAUDE.md`, then this, then
 `docs/content-guide.md` and the `youtop-lessons` skill. Rewrite this file whenever the state changes (it replaces the
 `status-<n>.txt` files in the Drive folder "YouTop private", which stop at 7).
 
 ## HANDOFF (2026-11-21, ~13:15 UTC): the owner closed this conversation; start here
 
 **Two books are in progress. Nothing is waiting on the agent except what the owner asks; work only when asked.**
+
+**100 more symbols, for heart surgery (2026-11-21, night, same session):** the owner asked for "100 you think missing
+and important for heart surgery". `content/symbols.json` now holds 345 approved. Chosen from the heart chapters still
+to come (Johns Hopkins 151-422, MedCosmos) and the cardiac surgery syllabus: physiology (Starling, afterload, Laplace,
+output), bypass (cannons, X-tongs, rolling pin, spinning cone, air embolism, octopus off-pump), clotting (ACT magician,
+protamine tamer, ant jockey, clogs, leech), valve repair (Uncle Sam = SAM, bow tie, carpenter, scallops), aorta
+(blood blister, pothole, elephant trunk, porcelain), rhythm (ballerina = torsades, two drummers = CRT, island = PVI),
+congenital (Saint George, key ring, treasure map, porthole, mirror, jester = lusoria, the Count = LeCompte) and more.
+- Kept the earlier drawings where they existed (Johns Hopkins: spinning cone, fans turning off-pump, bellows, white
+  tiles, side lid; MedCosmos: city gates, compliments, drum skin, submarine, third lobby, two orcas closing a ring,
+  scimitar, blue wand, lion's den, numbing needle, gold-medal crab).
+- Families added (drawing unchanged): echo + TEE share the bat; rheumatic + viridans are the strep family (scarlet vs
+  green beads); nitroglycerin + inhaled nitric oxide are the nitro family.
+- 2 more old MedCosmos keyword terms marked "drawn before the symbol existed" (104 afterload, 145 low cardiac output);
+  prompts unchanged; `symbols.py check` passes on all 31 draft batches.
+- `tools/content/symbols.py`: term and anchor patterns are now compiled once (with 3,000+ terms the check had become
+  minutes long; now about a second). Same results (checked on a sample of real keywords).
 
 **100 new recurring symbols (2026-11-21, evening, a new session, alone):** the owner asked for 100 new reusable
 symbols, "better than the earlier ones, because they cannot be fixed later", built on sound-alikes joined logically
