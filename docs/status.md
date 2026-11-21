@@ -1,12 +1,35 @@
 # Where the work stands
 
-Updated 2026-11-21 (night). Whoever works on YouTop next: read `CLAUDE.md`, then this, then
+Updated 2026-11-21 (evening). Whoever works on YouTop next: read `CLAUDE.md`, then this, then
 `docs/content-guide.md` and the `youtop-lessons` skill. Rewrite this file whenever the state changes (it replaces the
 `status-<n>.txt` files in the Drive folder "YouTop private", which stop at 7).
 
 ## HANDOFF (2026-11-21, ~13:15 UTC): the owner closed this conversation; start here
 
 **Two books are in progress. Nothing is waiting on the agent except what the owner asks; work only when asked.**
+
+**Update (2026-11-21, ~15:45 UTC, a new session): JOHNS HOPKINS 2016: 82 LESSONS PUBLISHED.**
+- The owner had uploaded 82 JH pictures (11:06-11:52 UTC; the handoff below missed them). All 82 are published
+  (`publish.py --complete-only`): 1-100 except the 18 still without a picture: **11, 14, 23, 26, 31, 36, 38, 54, 59,
+  64, 65, 76, 80, 81, 90, 92, 98, 99**. 101-150: no picture yet. Prompts for all 73 missing pictures (those 18,
+  JH 101-150, MedCosmos 111/123/125/128/149) were re-sent: `drafts/prompts-missing-2026-11-21.txt`.
+- Every grid, spots drawing and circle drawing was looked at (by this agent alone; the owner asked for no subagents,
+  so the skill's second-agent check was not done). Spots, marks, notes: `drafts/johns-hopkins-2016/pictures-2026-11-21/`
+  (also `work/johns-hopkins-2016/pictures-2026-11-21/` on `content`). Picture-against-story differences are in
+  `notes.txt` and were left as they are (the owner decides). The one worth a redraw: **63** (the green acid seems to
+  pour down into the pot instead of splashing up out of it).
+- Voices: JH 1-150 and MedCosmos 111, 123, 125, 128, 149 were recorded again in this container (14:06-14:48 UTC).
+  `voice.py check` of JH 1-100: 1,459 sentences, 3 flagged, all three false alarms (each clip transcribed alone:
+  49 S11 and 80 S11 are short quotations, 66 E2 says "mm Hg" as "millimetres of mercury"). Checks of 101-150 and of
+  the five MedCosmos lessons were still running at the time of writing (`pictures-2026-11-21/notes.txt` gets the result).
+  **The audio of every unpublished lesson exists only in this container**: if it is lost, rebuild and `voice.py make`
+  again as below (same voice files, same result).
+- Lesson 38's `keywords:` line was refused by the symbol check (the oesophagus symbol came after its prompt was sent).
+  Its term now reads `trachea (... the prompt was sent before the oesophagus symbol existed)`; the scene is unchanged.
+- The keyword terms reworded by the symbol sessions (#71, #72) are now also in the `content` branch's work copies
+  (published 2026-11-21 evening), so `content` and `drafts/` agree again.
+- Restart note: `voice.py make` rewrites a whole chapter, and checks are slow (about 5 minutes per 10 lessons), so
+  record every batch first and check afterwards; `batch.py pictures/spots/marks` only rewrite the chapters they change.
 
 **100 more symbols, for heart surgery (2026-11-21, night, same session):** the owner asked for "100 you think missing
 and important for heart surgery". `content/symbols.json` now holds 345 approved. Chosen from the heart chapters still
@@ -47,26 +70,15 @@ with the meaning, for fast memory with understanding. `content/symbols.json` now
   terms: rebuild those batches from `drafts/medcosmos-cardiac/`, not from the `content` copies.
 - Readable list: `content/symbols.md` (all 245). New symbols are used from the next batch on (Johns Hopkins 151+).
 
-**Update (2026-11-21, ~14:00 UTC, a new session):**
-- **82 JH pictures ARE in the Drive folder** `11gZ6LUEbDqbeyBc45sVLsKRQ6gpwLtdx` (uploaded 11:06-11:52 UTC, before the
-  handoff below was written; it missed them). Present: 1-10, 12, 13, 15-22, 24, 25, 27-30, 32-35, 37, 39-53, 55-58,
-  60-63, 66-75, 77-79, 82-89, 91, 93-97, 100. **Missing: 11, 14, 23, 26, 31, 36, 38, 54, 59, 64, 65, 76, 80, 81, 90,
-  92, 98, 99, and all of 101-150.**
-- All 15 JH batches (1-150) and the three MedCosmos batches with 111, 123, 125, 128, 149 were rebuilt in this
-  container, and recording + voice check of all of them started at 14:02 (JH 1-150 first, then the five MedCosmos).
-- **Prompts for every missing picture re-sent (2026-11-21, ~14:15):** `drafts/prompts-missing-2026-11-21.txt` (73 prompts: JH 18 gaps in 1-100, MedCosmos 111/123/125/128/149, JH 101-150), the exact texts sent before; each prompt's scene checked against its lesson's `scene:`.
-- Lesson 38's `keywords:` line was refused by the symbol check (the oesophagus symbol came after its prompt was sent).
-  Its term now reads `trachea (... the prompt was sent before the oesophagus symbol existed)`; the scene is unchanged.
-
 1. **MedCosmos Cardiac (`medcosmos-cardiac`, 156 lessons): 151 published.** Lessons 111, 123, 125, 128, 149 are written
    (batches in `drafts/medcosmos-cardiac/`) but held back until their pictures arrive (prompts:
    `drafts/medcosmos-cardiac/prompts-missing.txt`). When they arrive: rebuild those batches, re-record them
    (`voice.py make --only ...`), set pictures, spots, marks, look at every drawing, publish `--complete-only`.
-2. **Johns Hopkins 2016 (`johns-hopkins-2016`, 422 questions, One Piece style): 150 written, 0 published.**
+2. **Johns Hopkins 2016 (`johns-hopkins-2016`, 422 questions, One Piece style): 150 written, 82 published (see the update above).**
    - Lessons 1-150: scenes, stories (vowelled `voice.txt`), quotations, explanations all written, built and checked;
      everything is in `drafts/johns-hopkins-2016/batch-0001-0010` ... `batch-0141-0150` (batch.txt + voice.txt).
    - Picture prompts SENT to the owner: `prompts-jh-1-50.txt`, `prompts-jh-51-100.txt`, `prompts-jh-101-150.txt`.
-     **No JH picture has arrived yet.** The owner saves them as `N.png` in their Drive folder
+     82 pictures arrived 2026-11-21 (see the update above). The owner saves them as `N.png` in their Drive folder
      `11gZ6LUEbDqbeyBc45sVLsKRQ6gpwLtdx` (the book's `imagesFolder`; private, so download with the Drive connector).
    - Recording: 1-120 recorded and voice-checked in the old container (51-100: only lesson 66 needed a fix, done); 121-150
      were recording when the conversation closed. **The recordings lived only in that container**: a new session must
