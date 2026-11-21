@@ -1,0 +1,321 @@
+book: johns-hopkins-2016
+# Lessons 201-210 (book 41.1-42.5: aortic dissection, blunt aortic injury, thoracic endografts). Written 2026-11-21, night.
+# Each story: a hook, a wrong try that fails, the answer acting, a payoff line that names the symbol, and a lead-in
+# that says who speaks the quotation and why it fits.
+
+== 201
+# book 41.1: a dissection involving the ascending aorta. The book's key C (Stanford A and DeBakey III) is wrong: DeBakey III never
+# reaches the ascending aorta; the only correct option is A, Stanford A and DeBakey II (key corrected).
+# Sanji the BAKER (de-BAKE-y) piping zipper icing on numbered orca cakes -> the DeBakey types (audited zipper)
+# ANSWER: cake II, its zipper only on the orca's rising part, flag A -> DeBakey II, Stanford A
+# cake III, its zipper starting after the left flipper, flag B -> DeBakey III is always Stanford B (the book's wrong key)
+title: A dissection of the ascending aorta is Stanford A and DeBakey I or II
+titleAr: تسلّخ يشمل الأبهر الصاعد: ستانفورد A ودوباكي I أو II
+tags: cardiac/aorta d:anatomy q:recall l:1 x:key-corrected x:high-yield
+palette: Baratie kitchen copper, cream white and cherry red
+words: II, A, B
+key: A
+note: The book's key is C (Stanford A and DeBakey III), but a DeBakey type III dissection begins beyond the left subclavian artery and never involves the ascending aorta, so it is always Stanford B. A dissection of the ascending aorta is Stanford A and DeBakey I or II, so the only correct option is A and the key is corrected to A.
+keywords: aortic dissection -> a long zipper of icing torn open lengthwise along the skin of an orca-shaped cake; DeBakey classification -> the BAKER (de-BAKE-y), Sanji, piping zipper icing onto orca-shaped cakes numbered with Roman numerals; DeBakey type II -> the cake numbered II, its zipper confined to the orca's rising part, stopping before the arch; Stanford type A -> a little flag with A planted on cake II, because its zipper touches the rising part; DeBakey type III -> the second cake, whose zipper begins only beyond its left flipper and runs down its back, a little flag with B planted on it
+must: the zipper on cake II stays on the rising part only and carries the flag A; the other cake's zipper begins after the left flipper and carries the flag B
+scene: The kitchen of the floating restaurant Baratie, copper pans gleaming. CENTRE, dominant and brightest: Sanji, the blond cook with a curly eyebrow and a cigarette, piping a zipper of icing onto an orca-shaped cake numbered II; its zipper stays on the orca's rising part, before the arch, with a little flag A planted on it. LEFT: a second orca cake whose zipper begins only beyond its left flipper and runs down its back, with a little flag B; Usopp holding it up proudly. RIGHT: Lady Alvida, a huge pirate woman with freckles and a spiked iron club, the contest judge, glaring. Chopper.
+story:
+في مطبخ مطعم الباراتي العائم، أقيمت مسابقة للكعك، وخبّازها الأوّل سانجي.
+فصنع سانجي كعكتين على هيئة الحوت القاتل، كتب على إحداهما رقم اثنين وعلى الأخرى رقم ثلاثة، ورسم على كلّ منهما بالكريمة سحّابًا مفتوحًا.
+على كعكة الاثنين، بقي السحّاب على الجزء الصاعد من الحوت وحده، لا يتجاوز القوس.
+وعلى كعكة الثلاثة، بدأ السحّاب بعد الزعنفة اليسرى، ونزل على ظهر الحوت وحده.
+«أريد كعكةً يلمس سحّابها الجزء الصاعد!» صاحت ألفيدا، الحكم الضخمة ذات الهراوة الحديديّة المسنّنة.
+«هذه هي، كعكة الثلاثة!» قال أوسوب، ورفعها عاليًا.
+لكنّ ألفيدا رأت السحّاب يبدأ بعد الزعنفة، بعيدًا عن الجزء الصاعد، فغرست فيها رايةً عليها حرف بي.
+فقدّم سانجي كعكة الاثنين، فغرست فيها رايةً عليها حرف إيه.
+«إذا لمس السحّاب الجزء الصاعد فهو إيه، والخبّاز يكتب عليه واحدًا أو اثنين؛ أمّا الثلاثة فلا يلمسه أبدًا!» قال تشوبر.
+فانحنى سانجي ليقدّم لها الكعكة، فرفعت ألفيدا هراوتها، وسألته قبل أن تذوق سؤالها الّذي تسأله كلّ رجل يقف أمامها:
+quote: «من أجمل امرأة في البحار كلّها؟»
+source: ألفيدا
+explanation:
+A dissection that involves the ascending aorta is Stanford type A and DeBakey type I or II; of the options, only Stanford A with DeBakey II is correct: A.
+In the picture, the zipper on cake II stays on the orca's rising part, so it carries the flag A.
+DeBakey type I starts in the ascending aorta and runs on through the arch into the descending aorta; type II is confined to the ascending aorta.
+DeBakey type III starts beyond the left subclavian artery and never reaches the ascending aorta, so it is always Stanford B: the cake whose zipper begins after the flipper, flag B.
+There is no DeBakey type IV.
+Memory hook: if the zipper touches the rising part it is A, and the baker calls it one or two, never three.
+
+== 202
+# book 41.2: presentation of aortic dissection -> B, it presents at a younger age in men.
+# two young sailors and one grey-haired old woman, each with a torn zipper on the orca drawn on the chest -> twice as common in men; men younger (audited zipper)
+# snow falling at sunrise -> more in winter and in the morning (C and D wrong)
+title: Aortic dissection presents at a younger age in men
+titleAr: تسلّخ الأبهر يصيب الرجال في سنّ أصغر
+tags: cardiac/aorta d:diagnosis q:recall l:2
+palette: winter dawn pink, snow white and steel blue
+keywords: aortic dissection -> a long zipper torn open lengthwise along the orca balloon drawn on each patient's chest; men younger -> two young sailors with torn zippers striding ahead, and only one grey-haired old woman with a zipper slowly following them; winter -> snow falling; morning -> the sun just rising behind the clinic; Zoro dizzy -> Zoro sitting down suddenly in the snow, dizzy
+must: two young men ahead and one old woman behind; the sun is RISING and snow is falling
+scene: A snowy island at winter dawn, the sun just rising behind Chopper's clinic. CENTRE, dominant and brightest: two young sailors striding to the clinic door, each with a little HART Hotel drawn on his chest whose orca has a long torn zipper; one of them, Roronoa Zoro, the green-haired swordsman, sitting down suddenly in the snow, dizzy. BEHIND them: a grey-haired old woman with the same torn zipper, walking slowly. LEFT: Usopp pointing at the moon in the sky, wrongly. Chopper at the door.
+story:
+في فجر شتويّ على جزيرة مثلجة، والشّمس تشرق للتّوّ، وصل إلى عيادة تشوبر ثلاثة مرضى، في حوت كلّ منهم سحّاب ممزّق.
+شابّان في أوّل العمر، أحدهما زورو، وخلفهما عجوز شيباء تمشي على مهل.
+«لا بدّ أنّه مرض النساء، يأتي في ليالي الصيف!» قال أوسوب، وأشار إلى القمر الغارب.
+فأشار تشوبر إلى الثلج المتساقط، وإلى الشمس الطالعة، وإلى الشابّين يسبقان العجوز.
+«رجلان مقابل امرأة واحدة، والرّجال يأتون أصغر سنًّا؛ في الشتاء وفي الصباح!» قال تشوبر.
+فأطرق أوسوب خجلًا، والعجوز تصل أخيرًا إلى الباب تلهث.
+أمّا زورو، فكان يضغط على صدره بيده، والألم يمتدّ إلى ظهره.
+ثمّ جلس فجأةً في الثلج، وقال ما قاله يومًا بعد أن نزف دمًا كثيرًا في أورانج تاون:
+quote: «أشعر بدوار خفيف...»
+source: رورونوا زورو
+explanation:
+Aortic dissection presents at a younger age in men than in women: B.
+It is about twice as common in men, and women come later in life and often with less typical symptoms: the two young men ahead, the old woman behind.
+It is more frequent in winter and in the morning hours, not in summer or at night: the snow and the rising sun.
+Penetrating ulcers mostly involve the descending aorta, not the ascending.
+Memory hook: two young men run ahead in the winter dawn; the old woman follows.
+
+== 203
+# book 41.3: imaging of choice for aortic dissection -> D, CT.
+# a cat slicing an orca-shaped loaf into thin slices with one claw, the torn zipper showing in the slices -> CT (audited cat, zipper)
+# a photographer still setting up his magenta dye -> aortography (audited); a bat -> echo (audited); a horseshoe magnet humming slowly -> MRI (audited)
+# Usopp tapping the crust -> physical examination
+title: CT is the imaging of choice for aortic dissection
+titleAr: التصوير المقطعيّ هو الفحص الأوّل في تسلّخ الأبهر
+tags: cardiac/aorta d:diagnosis q:recall l:1 x:high-yield
+palette: Syrup Village green hills, crusty bread gold and magenta
+keywords: CT -> a cat slicing a long orca-shaped loaf of bread into very thin slices with one sharp claw; aortic dissection -> the torn zipper inside the loaf, showing in slice after slice; aortography -> a photographer still setting up his camera and his syringe of glowing magenta dye; echocardiography -> a bat sending rings of sound at the loaf; MRI -> a big red horseshoe magnet humming slowly over the loaf; physical examination -> Usopp tapping the crust with his finger
+must: the cat has ALREADY sliced the whole loaf and the zipper shows in the slices, while the others are still getting ready
+scene: A bakery stall in Syrup Village on green hills. CENTRE, dominant and brightest: a cat that has just sliced a long orca-shaped loaf of bread into very thin slices with one sharp claw, a torn zipper showing in slice after slice. AROUND it, still getting ready: a photographer setting up his camera and a syringe of glowing magenta dye; a bat sending rings of sound at the loaf; a big red horseshoe magnet humming slowly over it; Usopp tapping the crust with one finger. RIGHT: Chopper, the little reindeer doctor, looking sadly at his own hooves.
+story:
+في قرية سيروب، أقيم سباق عجيب: من يجد السحّاب الممزّق المخبوء في رغيف خبز طويل على هيئة حوت؟
+«أنا أجده بإصبعي!» قال أوسوب، وأخذ ينقر القشرة من الخارج، فلم يجد شيئًا.
+وجاء مصوّر يريد أن يحقن الرغيف بصبغ أرجوانيّ متوهّج، فما زال ينصب آلته ويجهّز إبره.
+وطار خفّاش يرسل حلقات الصوت، وأخذ مغناطيس أحمر على هيئة حدوة يطنّ فوق الرغيف ببطء.
+أمّا القطّة، فمدّت مخلبًا واحدًا حادًّا، وقطّعت الرغيف كلّه شرائح رقيقةً في لحظات.
+فظهر السحّاب الممزّق في الشرائح واحدةً بعد واحدة: من أين يبدأ، وإلى أين ينتهي.
+«القطّة تقطّع الرغيف كلّه في لحظات، قبل أن يفرغ الآخرون من تجهيز أدواتهم!» قال تشوبر.
+«ولماذا لا تقطّع الخبز بنفسك يا تشوبر؟» سأله أوسوب.
+فنظر تشوبر إلى حافريه الصغيرين حزينًا، وأجاب بما أجاب به لوفي يومًا على جبل الثلج:
+quote: «أنا رنّة! لي قرنان، ولي حوافر، وأنفي أزرق!»
+source: توني توني تشوبر
+explanation:
+CT angiography is the imaging of choice for suspected aortic dissection: fast, available everywhere, and showing the whole aorta, the entry tear and the branches: D.
+In the picture, the cat slices the whole loaf before the others are ready, and the torn zipper shows in every slice.
+Aortography, the photographer with magenta dye, is invasive and slower, and is now used mainly during endovascular treatment.
+Transoesophageal echocardiography, the bat, is excellent in unstable patients and in the operating room, but transthoracic echo misses much of the aorta.
+MRI, the horseshoe magnet, is accurate but slow and impractical in an acute illness, and physical examination alone misses many dissections.
+Memory hook: the cat slices the loaf first.
+
+== 204
+# book 41.4: surgery is indicated for -> D, an acute type A penetrating ulcer.
+# a deep pothole in the black tar on the orca's rising part -> penetrating ulcer of the ascending aorta: surgery (audited pothole)
+# a purple blood blister on the back beyond the flipper -> acute type B intramural haematoma: medical (audited blood blister)
+# a torn zipper on the back measured 5 -> type B dissection: medical unless complicated (audited zipper)
+title: An acute type A penetrating ulcer needs surgery
+titleAr: القرحة النافذة الحادّة في الأبهر الصاعد تحتاج إلى الجراحة
+tags: cardiac/aorta d:indications q:recall l:2
+palette: Foosha Village harbour blue, tar black and sunset orange
+words: 5
+note: Guidelines also count an acute type B dissection wider than about 5.5 cm, or one that grows fast, among high-risk features that may justify early endovascular repair; the book's answer, the type A ulcer, is the one clear indication among the options.
+keywords: penetrating aortic ulcer -> a deep pothole eaten down through black tar on the orca balloon's rising part, near the hotel; intramural hematoma -> a dark purple blood blister inside the skin of the orca's back beyond the left flipper, with no zipper torn open; type B dissection -> a torn zipper on the orca's back beyond the left flipper, a ruler beside it reading 5; surgery -> Chopper running to the pothole with his scalpel
+must: the pothole is on the RISING part near the hotel and gets the scalpel; the blister and the zipper on the back are only watched
+scene: The harbour of Foosha Village at sunset. CENTRE, dominant and brightest: a deep pothole eaten down through black tar on the orca balloon's rising part, near the hotel; Chopper, the little reindeer doctor, running to it with a scalpel. LEFT, dimmer, on the orca's back beyond its left flipper: a dark purple blood blister in its skin, and a torn zipper with a ruler beside it reading 5, both only watched. RIGHT: Usopp aiming his slingshot at the pothole without shooting; Shanks, a red-haired pirate captain with three scars over his left eye and a black cape, looking on.
+story:
+في ميناء قرية فوشا عند الغروب، ظهرت على بالون الحوت القاتل ثلاث علل.
+على ظهره بعد الزعنفة اليسرى، بثرة دمويّة بنفسجيّة تحت الجلد، وسحّاب ممزّق قاسته المسطرة خمسة.
+وعلى جزئه الصاعد قرب الفندق، حفرة عميقة أكلت القطران الأسود حتّى غاصت في الجلد.
+«نخيفها كلّها بالمقلاع وننتظر!» قال أوسوب، وصوّب مقلاعه نحو الحفرة ولم يرم.
+فظلّت البثرة والسّحّاب على الظهر هادئين تحت المراقبة، أمّا الحفرة على الجزء الصاعد فأخذت تتعمّق وتتعمّق.
+«الحفرة على الجزء الصاعد لا تنتظر؛ إلى غرفة العمليّات الآن!» صاح تشوبر، وركض إليها بمشرطه.
+وكان يقف هناك رجل أحمر الشعر، على عينه اليسرى ثلاثة جروح قديمة: القرصان شانكس.
+فرأى أوسوب ما زال يصوّب ولا يرمي، فتذكّر اللصوص الّذين شهروا عليه مسدّسًا في هذه القرية نفسها، وقال لأوسوب ما قاله لهم:
+quote: «المسدّسات ليست للتّهديد، إنّما هي للفعل!»
+source: شانكس
+explanation:
+An acute penetrating ulcer of the ascending aorta (type A) is treated with surgery, like a type A dissection, because it can rupture or dissect: D.
+In the picture, the pothole on the orca's rising part cannot be left to threats: it goes to the operating room.
+An acute type B intramural haematoma, the purple blister on the back, is usually treated with medicines and close imaging.
+An uncomplicated type B dissection is treated with medicines first; intervention is kept for rupture, malperfusion or fast growth, and a chronic one smaller than 5 cm is watched.
+A dissection confined to the infrarenal aorta and the iliac artery is not an indication by itself.
+Memory hook: a pothole on the rising part goes to theatre; the blister and the zipper on the back are watched.
+
+== 205
+# book 41.5: reduces reoperation after repair of aortic dissection -> D, beta-blocker therapy after the operation (printed "-Blocker").
+# the zipper still open along the orca's back after the rising part was replaced -> the residual distal dissection (audited zipper)
+# ANSWER: an ice-hockey goalkeeper blocking every puck fired at that zipper, year after year -> beta-blockade lowers the pressure pulses (audited goalkeeper)
+# Usopp's pot of glue cracking on the stitches -> biological glue does not reduce reoperation (E wrong)
+title: Beta-blockers after repair reduce reoperation for dissection
+titleAr: حاصرات بيتا بعد الإصلاح تقلّل إعادة الجراحة في التسلّخ
+tags: cardiac/aorta d:postoperative q:recall l:2 x:key-corrected
+palette: frozen-lake white, hockey-puck black and Red-Hair crimson
+option: D = Beta-blocker therapy after operation
+note: The book prints "-Blocker therapy after operation": the Greek letter beta was lost in printing, so the option is shown as "Beta-blocker therapy after operation". The key is unchanged.
+keywords: aortic dissection -> a long torn zipper still open along the orca balloon's back after its rising part was replaced by a white fabric tube; beta-blocker -> an ice-hockey goalkeeper slamming his big blocker pad against every puck fired at the zipper; pressure pulses -> heavy black hockey pucks raining on the zipper; biologic glue -> Usopp smearing a pot of glue along the stitches, the glue cracking; years -> a calendar with many years torn off behind the goalkeeper
+must: the goalkeeper blocks the pucks aimed at the zipper left open on the BACK; the glue on the stitches has cracked
+scene: A frozen lake at the Red-Hair Pirates' winter camp. CENTRE, dominant and brightest: the orca parade balloon lying on the ice, its rising part already replaced by a straight white fabric tube, but a long torn zipper still open along its back; an ice-hockey goalkeeper in full pads slamming his big blocker against a stream of heavy black pucks fired at the zipper; behind him a calendar with many years torn off. LEFT: Usopp smearing a pot of glue along the stitches, the glue cracking. RIGHT: the Red-Hair pirates watching; Ben Beckman, a tall calm man with a long black ponytail and a rifle, smoking. Chopper.
+story:
+على بحيرة متجمّدة في معسكر قراصنة ذي الشعر الأحمر، خرج بالون الحوت القاتل من العمليّة للتّوّ.
+أبدل جزؤه الصاعد بأنبوب أبيض، لكنّ السحّاب الممزّق ما زال مفتوحًا على طول ظهره.
+ومن كلّ صوب، أخذت أقراص هوكي سوداء ثقيلة تنهال على السحّاب، تريد أن تفتحه أكثر.
+«الغراء! ألصق الغرز بالغراء فلا تنفتح أبدًا!» قال أوسوب، ودهن الخياطة بقدر من الغراء.
+لكنّ الغراء جفّ وتشقّق، وظلّت الأقراص تضرب السحّاب.
+عندها وقف حارس مرمًى في عدّته الكاملة أمام الحوت، وأخذ يصدّ القرص بعد القرص بلوحه الكبير، يومًا بعد يوم، وسنةً بعد سنة.
+«الحارس يصدّ الأقراص عن السحّاب الباقي، فلا يعود الحوت إلى غرفة العمليّات!» قال تشوبر.
+فصاح لاعبو الفريق الآخر غاضبين: هؤلاء يلعبون بخشونة وقذارة!
+فنفث بن بيكمان، نائب القبطان ذو ذيل الحصان الأسود، دخان سيجارته بهدوء، وأجابهم كما أجاب اللصوص يومًا في قرية فوشا:
+quote: «لم نزعم يومًا أنّنا قدّيسون!»
+source: بن بيكمان
+explanation:
+Beta-blocker therapy after the operation lowers the pressure pulses on the aorta that is left, and reduces the need for reoperation after repair of a dissection: D (the option's beta sign was lost in print).
+In the picture, the goalkeeper blocks the pucks aimed at the zipper still open along the back, year after year.
+Most repairs of a type A dissection leave the dissection beyond the repair open, and its later enlargement is the commonest reason to operate again.
+Biological glue on the suture line, the cracked glue, can damage the aortic tissue and has not been shown to reduce reoperation.
+Memory hook: the goalkeeper keeps the pucks off the zipper for life.
+
+== 206
+# book 42.1: optimal study for blunt aortic injury -> C, computed tomography.
+# Zoro's cart slamming into a wall; his orca tearing just past its left flipper, where its tether holds it -> blunt aortic injury at the isthmus (audited tether)
+# ANSWER: the cat slicing an orca-shaped loaf into thin slices, the tear at the tether showing in one slice -> CT (audited cat)
+# Usopp's blurry grey picture showing only a wide shadow -> plain radiograph (A wrong); the photographer still unpacking -> aortography (B wrong); the bat outside the ribs -> transthoracic echo (D wrong)
+title: CT is the best study for blunt aortic injury
+titleAr: التصوير المقطعيّ أفضل فحص لإصابة الأبهر الكليلة
+tags: cardiac/aorta vascular/trauma d:diagnosis q:recall l:1
+palette: Water 7 canal blue, cart-wood brown and alarm red
+keywords: blunt aortic injury -> the orca balloon in Zoro's chest tearing open just past its left flipper, where its tether (the old duct tape) holds it down, as his cart slams into a wall; CT -> a cat slicing a long orca-shaped loaf of bread into very thin slices with one sharp claw, the tear at the tether showing clearly in one slice; plain radiography -> Usopp holding up a blurry grey picture that shows only a wide shadow; aortography -> a photographer still unpacking his magenta dye; transthoracic echocardiography -> a bat circling outside the chest, its sound rings bouncing off the ribs
+must: the tear is just past the LEFT flipper, at the tether; the cat's slice shows it
+scene: A street beside a canal in Water 7. A wooden cart has slammed into a wall; Roronoa Zoro, the green-haired swordsman, sits in the wreck, a little HART Hotel drawn on his chest whose orca balloon has torn open just past its left flipper, where its tether holds it down. CENTRE, dominant and brightest: a cat slicing a long orca-shaped loaf of bread into very thin slices with one sharp claw, the tear at the tether showing clearly in one slice. LEFT: Usopp holding up a blurry grey picture with only a wide shadow; a photographer still unpacking his magenta dye; a bat circling outside the chest. RIGHT: sailors laughing at Zoro. Chopper.
+story:
+في شوارع ووتر سيفن، قاد زورو عربةً مسرعة، وضلّ الطريق كعادته.
+فاصطدمت العربة بجدار وتوقّفت دفعةً واحدة، فاندفع الحوت في صدره إلى الأمام، وانشقّ بعد زعنفته اليسرى، حيث يشدّه رباطه القديم.
+«صورة بسيطة تكفي!» قال أوسوب، ورفع صورةً رماديّةً ضبابيّةً لا يبين فيها إلّا ظلّ عريض.
+وجاء المصوّر بصبغه الأرجوانيّ، فما زال يفكّ حقائبه، وحام الخفّاش خارج الصدر، ترتدّ حلقاته عن الأضلاع.
+أمّا القطّة، فقطّعت رغيفًا طويلًا على هيئة الحوت شرائح رقيقةً بمخلب واحد، فظهر الشقّ عند الرباط في إحداها واضحًا.
+«للحوت المشقوق عند رباطه، القطّة وشرائحها قبل كلّ شيء!» قال تشوبر.
+ولمّا رأى البحّارة زورو بين الحطام، ضحكوا: أضللت الطريق ثانيةً يا صائد القراصنة؟
+فتحسّس زورو صدره، ثمّ احمرّ وجهه، وقال ما قاله يومًا وبطنه مجروح في أورانج تاون:
+quote: «جرح سمعتي أسوأ بكثير من جرح بطني!»
+source: رورونوا زورو
+explanation:
+Computed tomography (CT angiography) is the best study for blunt aortic injury: quick, done with the rest of the trauma scan, and accurate: C.
+In the picture, the orca tore just past its left flipper, where the tether holds it, as the cart stopped dead; the cat's slice shows the tear.
+The tear is usually at the aortic isthmus, just beyond the left subclavian artery, where the mobile arch meets the fixed descending aorta.
+A plain chest radiograph only hints at it with a wide mediastinum, aortography is invasive and slower, transthoracic echo cannot see the isthmus well, and no blood test diagnoses it.
+Memory hook: the cart stops, the orca tears at its tether, and the cat finds it.
+
+== 207
+# book 42.2: endoleak -> A, type I is a poor seal between the graft and the proximal aorta.
+# the sleeve (a Slinky wrapped in white fabric) slid up inside the orca -> stent-graft (audited sleeve)
+# ANSWER: the sleeve's TOP end not gripping the orca's wall, water slipping round it into the bubble-gum bubble -> type Ia endoleak (audited bubble-gum)
+# a thin trickle flowing back from a small side pipe -> type II, from branches (B and D wrong); the fabric dry -> type IV is through the fabric (C wrong)
+title: Type I endoleak: a poor seal at the proximal end
+titleAr: التسريب الداخليّ من النمط الأوّل: إحكام ضعيف عند الطرف القريب
+tags: vascular/endovascular cardiac/aorta d:complications q:recall l:2 x:high-yield
+palette: dock-water turquoise, sailcloth white and bubble-gum pink
+keywords: stent-graft -> a coiled metal Slinky wrapped in white fabric, a sleeve, slid up from the groin inside the orca balloon to shut the bubble off from the flow; type I endoleak -> the sleeve's TOP end not gripping the orca's wall, water slipping round it into the bubble-gum bubble; aneurysm -> the big pink bubble-gum bubble that keeps swelling; type II endoleak -> a thin trickle flowing backwards from a small side pipe into the bubble, beside the sleeve
+must: the leak is at the sleeve's TOP end: water slips round it into the bubble
+scene: The repair dock of Water 7, turquoise water. CENTRE, dominant and brightest: the orca balloon with a big pink bubble-gum bubble on its side; inside it a sleeve, a coiled metal Slinky wrapped in white fabric, slid up from below; its TOP end does not grip the orca's wall, and water slips round it into the bubble, which keeps swelling; Chopper at the top end, pointing. LOWER: a thin trickle flowing back from a small side pipe into the bubble. LEFT: Franky, the blue-haired cyborg shipwright, ready to tighten the top end; Usopp holding up a dry piece of the fabric. RIGHT: Koby, a young pink-haired Marine with round glasses, watching and taking notes.
+story:
+في حوض ووتر سيفن، أدخل فرانكي في بالون الحوت كمًّا من قماش أبيض حول نابض معدنيّ، صعودًا من طرفه السفليّ، ليعزل فقّاعة العلك عن الماء.
+لكنّ الفقّاعة ظلّت تنتفخ.
+«القماش يرشح! نبدّل القماش كلّه!» قال أوسوب.
+ففحصوا القماش فإذا هو جافّ، ورأوا خيطًا رفيعًا من الماء يرجع من أنبوب جانبيّ صغير، لا يكاد يذكر.
+ثمّ صعد تشوبر إلى الطرف العلويّ للكمّ، فوجده لا يمسك جدار الحوت، والماء ينسلّ من حوله إلى الفقّاعة بقوّة.
+«الطرف العلويّ لا يمسك، فينسلّ الماء من حوله: هذا هو التسريب الأوّل!» قال تشوبر.
+فشدّ فرانكي الطرف العلويّ حتّى أمسك الجدار إمساكًا محكمًا، فكفّت الفقّاعة عن الانتفاخ.
+وكان كوبي، البحّار الصغير ذو النظّارة المستديرة، يراقب ذلك كلّه ويكتب.
+فانحنى لفرانكي وتشوبر، وقال لهما ما قاله يومًا للوفي وزورو حين افترقوا:
+quote: «لقد علّمتماني ما كنت لأتعلّمه وحدي: كيف أعيش لما أومن به!»
+source: كوبي
+explanation:
+A type I endoleak is a poor seal at an end of the stent-graft; type Ia, at the proximal end, lets blood flow round the top of the graft into the aneurysm sac: A.
+In the picture, the sleeve's top end does not grip the orca's wall, so water slips round it into the bubble, which keeps swelling.
+Type II is backflow from side branches (intercostal or lumbar arteries) into the sac, the thin trickle from the side pipe; a poor distal seal is type Ib, not type II.
+Type III is a defect or separation of the graft's parts, and type IV is seepage through porous fabric.
+Endoleaks are common, seen in more than one patient in ten, and type I needs prompt repair because the sac stays under pressure.
+Memory hook: leak number one: the top end of the sleeve does not grip.
+
+== 208
+# book 42.3: NOT associated with more spinal cord ischaemia during thoracic endovascular repair -> D, cerebrospinal fluid drainage (it protects).
+# the kiwi feeding the long spinal cable through thin straws, starved by four things -> spinal cord ischaemia (audited kiwi)
+# an old scar on the orca's belly -> prior aortic surgery; the water level falling -> haemodynamic instability; a very long sleeve over many straws -> length of coverage; the sleeve's top covering the left flipper -> left subclavian coverage (audited sleeve, flipper)
+# ANSWER: the tap at the bottom of the cable draining clear water into a bucket, the kiwi perking up -> CSF drainage protects
+title: CSF drainage protects the spinal cord during thoracic endografting
+titleAr: تصريف السائل الدماغيّ الشوكيّ يحمي النخاع في الإصلاح داخل الأبهر الصدريّ
+tags: vascular/endovascular cardiac/aorta d:complications q:recall l:2
+palette: Sunny deck green, kiwi brown and clear-water blue
+keywords: spinal cord ischemia -> a little brown kiwi bird on the orca's back, feeding the long cable of the spine through thin straws, growing weak; stent-graft -> a very long sleeve, a coiled metal Slinky wrapped in white fabric, inside the orca, covering many of the kiwi's straws; left subclavian coverage -> the sleeve's top end covering the orca's left flipper; prior aortic surgery -> an old scar sewn across the orca's belly, where some straws were cut long ago; hemodynamic instability -> the water level inside the orca falling; CSF drainage -> a tap at the lower end of the cable pouring clear water into a bucket, the kiwi perking up
+must: the open tap HELPS the kiwi (it perks up); the scar, the falling water, the long sleeve and the covered left flipper starve it
+scene: The lawn deck of the Thousand Sunny. CENTRE, dominant and brightest: a little brown kiwi bird on the orca balloon's back, feeding a long cable through thin straws; at the bottom of the cable a tap pours clear water into a bucket, and the kiwi perks up. Around it, starving it: a very long sleeve inside the orca covering many straws, its top end covering the orca's left flipper; an old scar sewn across the orca's belly; the water level inside the orca falling. LEFT: Usopp reaching to close the tap. RIGHT: Franky pumping the water back up, Zoro guarding the tap, Nami counting straws, and Luffy, the straw-hatted captain, grinning at his crew. Chopper.
+story:
+على ظهر الثاوزند صني، أدخل في بالون الحوت كمّ أبيض طويل من قماش ونابض، وعلى ظهر الحوت طائر الكيوي يطعم الحبل الطويل بمصّاصاته الرفيعة.
+لكنّ أربعة أشياء أخذت تجوّع الكيوي: ندبة قديمة على بطن الحوت قطعت عندها مصّاصات منذ زمن، وماء يهبط في الحوت حتّى تضعف الدفعة.
+والكمّ الطويل جدًّا يغطّي مصّاصات كثيرة، وطرفه العلويّ يغطّي الزعنفة اليسرى.
+«وهذا الصنبور في أسفل الحبل خامسها؛ أغلقوه!» قال أوسوب، وأشار إلى صنبور يصبّ ماءً صافيًا في دلو.
+فلمّا أغلقه، اشتدّ الضغط على الحبل، وضعف الكيوي أكثر.
+ففتحه تشوبر من جديد، فسال الماء الصافي، وانتعش الكيوي ورفع رأسه.
+«الندبة والماء الهابط والكمّ الطويل والزّعنفة المغطّاة تجوّع الكيوي؛ أمّا الصنبور فصديقه!» قال تشوبر.
+فأخذ فرانكي يرفع الماء في الحوت، ووقف زورو يحرس الصنبور، وجلست نامي تعدّ المصّاصات الباقية.
+فنظر لوفي إلى رفاقه يحرسون الطائر الصغير، وصاح بما صاح به في وجه شانكس وهو طفل على رصيف قرية فوشا:
+quote: «سأجمع طاقمًا يفوق طاقمك، وأجد أعظم كنز في العالم، وأصبح ملك القراصنة!»
+source: مونكي دي لوفي
+explanation:
+Cerebrospinal fluid drainage protects the spinal cord; it does not raise the risk of spinal cord ischaemia during thoracic endovascular repair: D.
+In the picture, closing the tap weakens the kiwi, and opening it lets the kiwi recover.
+Previous aortic surgery, the old scar, has already taken away part of the cord's blood supply.
+Low blood pressure, a long stretch of covered aorta and covering the left subclavian artery each cut the supply further: the falling water, the long sleeve and the covered left flipper.
+Memory hook: four things starve the kiwi; the tap is its friend.
+
+== 209
+# book 42.4: endovascular repair of the descending thoracic aorta -> A, the cost is equivalent to open repair.
+# a two-pan balance perfectly level: the costly sleeve with two nights in the sick bay, the cheap tube with many nights and bills -> equal cost (audited sleeve)
+title: Endovascular repair of the descending aorta costs about as much as open repair
+titleAr: إصلاح الأبهر النازل داخل الوعاء يكلّف مثل الجراحة المفتوحة تقريبًا
+tags: vascular/endovascular cardiac/aorta d:evidence q:recall l:2
+palette: tangerine orange, gold coins and sea green
+keywords: thoracic endovascular repair -> a sleeve, a coiled metal Slinky wrapped in white fabric, with a big price tag but only two nights' candles beside it; open repair -> a long straight white fabric tube with a small price tag but a long string of nights' candles and a pile of bills; equivalent cost -> a two-pan balance in Nami's hands, its pans perfectly level
+must: the two pans of the balance are perfectly level
+scene: The tangerine grove on the deck of the Thousand Sunny. CENTRE, dominant and brightest: Nami, the orange-haired navigator, holding up a two-pan balance whose pans are perfectly level; in one pan a sleeve, a coiled metal Slinky wrapped in white fabric, with a big price tag and only two small candles beside it; in the other a long straight white fabric tube with a small price tag, a long row of candles and a pile of bills. LEFT: Usopp whispering behind his hand to Sanji, pointing at Nami suspiciously. Chopper.
+story:
+عند بستان اليوسفيّ على ظهر الثاوزند صني، وضعت نامي ميزانًا ذا كفّتين.
+في الكفّة الأولى، الكمّ الأبيض ذو النابض المعدنيّ، عليه ثمن باهظ، وإلى جانبه شمعتان فقط: ليلتان في العيادة.
+وفي الكفّة الثانية، الأنبوب الأبيض الطويل للعمليّة المفتوحة، ثمنه زهيد، لكن إلى جانبه صفّ طويل من الشموع، وكومة من الفواتير.
+«الكمّ أغلى بكثير؛ ستهبط كفّته إلى الأرض!» قال أوسوب.
+لكنّ الكفّتين استوتا تمامًا، لا تميل إحداهما شعرة.
+«ثمن الكمّ وليلتيه يساوي ثمن الأنبوب ولياليه الطويلة!» قال تشوبر.
+«لا بدّ أنّ نامي سرقت من إحدى الكفّتين شيئًا حتّى استوتا!» همس أوسوب لسانجي.
+فسمعته نامي، والتفتت إليه وعيناها تلمعان بالمكر، وقالت للقرصان الخائف ما تقوله عن نفسها منذ لقيت لوفي:
+quote: «أنا لصّة لا تسرق إلّا القراصنة!»
+source: نامي
+explanation:
+In published comparisons, the overall cost of endovascular repair of the descending thoracic aorta is about the same as that of open repair: A.
+The stent-graft itself is expensive, but patients spend fewer days in intensive care and in hospital: the two pans balance.
+Early mortality is lower, not higher, after endovascular repair, and the technique has been used for ruptured aneurysms too.
+Several devices are approved, and technical success is high and consistent.
+Memory hook: the costly sleeve with two nights weighs the same as the cheap tube with many.
+
+== 210
+# book 42.5: NOT an indication for left subclavian revascularisation before covering it with a thoracic endograft -> D, a heavily calcified or stenotic origin.
+# a short hose from the carrot to the left flipper, made for four patients before the sleeve covers the flipper -> carotid-subclavian bypass (audited carrot, flipper)
+# their reasons: a lima bean vine from the left flipper onto the crown (patent LIMA graft); only the left thin pipe reaching the head lantern (absent right vertebral);
+#   a fist in the left arm for the washing machine (dialysis fistula); an old scar on the belly and a thin kiwi (prior abdominal aortic surgery) (audited lima bean, fist, kiwi)
+# ANSWER: Robin's flipper whose root has turned to stone gets no hose -> a calcified origin alone is not an indication
+title: A calcified left subclavian origin is not a reason to revascularise it
+titleAr: تكلّس منشأ الشريان تحت الترقوة الأيسر ليس سببًا لإعادة توعيته
+tags: vascular/endovascular cardiac/aorta d:indications q:recall l:3
+palette: Skypiea cloud white, vine green and stone grey
+keywords: left subclavian artery -> the orca's left flipper; carotid-subclavian bypass -> a short hose from the carrot to the left flipper, made before the sleeve covers the flipper; patent LIMA graft -> a green lima bean vine growing from the first patient's left flipper down onto the crown; absent right vertebral artery -> the second patient's head lantern fed only by the thin pipe from the left flipper, the right one missing; arteriovenous fistula in the left arm -> a fist punching between two pipes in the third patient's left arm, a washing machine churning beside him; prior abdominal aortic surgery -> an old scar across the fourth patient's belly, the kiwi on his orca already thin; calcified left subclavian origin -> Robin's left flipper whose root has turned to grey stone, getting no hose
+must: four patients get the hose from the carrot to the left flipper; Robin's stone-rooted flipper gets none
+scene: A clinic among the clouds of Skypiea. LEFT, in a row: four patients, each with a short hose already run from the carrot to the left flipper of the orca on his chest: one with a green lima bean vine growing from his left flipper onto the crown; one whose head lantern is fed only by a thin pipe from the left flipper; one with a fist punching between two pipes in his left arm and a washing machine beside him; one with an old scar across his belly and a thin kiwi on his orca. CENTRE, dominant and brightest: Nico Robin, the dark-haired archaeologist, her left flipper's root turned to grey stone, pushing away a hose that Usopp holds out to her with a hand sprouting from the air. Franky with more hoses. Chopper.
+story:
+في عيادة بين غيوم سكايبيا، اصطفّ خمسة مرضى، سيغطّي الكمّ الأبيض الزعنفة اليسرى لحوت كلّ منهم.
+فمدّ فرانكي لأربعة منهم خرطومًا قصيرًا من الجزرة إلى الزعنفة اليسرى، قبل أن تغطّى.
+الأوّل تنزل من زعنفته اليسرى كرمة فول الليما على التاج، والثّاني لا يصل إلى فانوس رأسه إلّا الأنبوب الرفيع الأيسر، فقد ضمر الأيمن.
+والثّالث في ذراعه اليسرى قبضة تصل أنبوبين من أجل الغسّالة، والرّابع على بطنه ندبة عمليّة قديمة، وكيويّه نحيل.
+ثمّ جاء دور الخامسة، روبين، وقد تحجّر أصل زعنفتها اليسرى حتّى صار كالصّخر.
+«هذه أحوجهم إلى الخرطوم؛ زعنفتها من حجر!» قال أوسوب، وحمل خرطومًا نحوها.
+«الكرمة، والأنبوب الوحيد، والقبضة في الذراع، والنّدبة القديمة: لهذه نمدّ الخرطوم؛ أمّا الحجر وحده فلا!» قال تشوبر.
+لكنّ أوسوب ألحّ عليها، ومدّ إليها الخرطوم مرّةً بعد مرّة.
+فدفعت روبين الخرطوم بيد أنبتتها في الهواء، وقالت ما قالته لرفاقها يومًا في إينيس لوبي:
+quote: «لم أطلب منكم أن تنقذوني!»
+source: نيكو روبين
+explanation:
+A heavily calcified or narrowed origin of the left subclavian artery is not one of the reasons to revascularise it before covering it with a thoracic endograft: D.
+Revascularisation, usually a carotid-subclavian bypass (the hose from the carrot), is advised when covering the artery would cut off something vital, such as a patent left internal mammary graft to the LAD, the lima bean vine.
+The same holds for an absent or atretic right vertebral artery, which leaves the left vertebral to feed the back of the brain, and for a left arm arteriovenous fistula for dialysis, the fist in the arm.
+Previous abdominal aortic surgery has already removed part of the spinal cord's collateral supply, so the left subclavian route is kept open to protect the cord, the thin kiwi.
+Memory hook: the vine, the lone pipe, the fist and the old scar get the hose; the stone flipper alone does not.
