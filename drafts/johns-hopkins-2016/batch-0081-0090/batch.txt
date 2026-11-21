@@ -13,6 +13,24 @@ palette: thyme green, ray violet and potion teal
 keywords: large malignant thymoma -> a huge bushy thyme plant grown at the very front of the chest cabin, red crab claws poking out among its leaves; neoadjuvant therapy -> Usopp shining violet rays and Chopper pouring a teal potion on it before Zoro cuts, the bush shrinking; resection -> Zoro waiting with his sword for it to shrink; fine-needle aspiration -> a thin needle put away in a box
 must: the thyme bush SHRINKS under the rays and potion BEFORE Zoro cuts
 scene: The front of a ship's chest cabin, sunlight through the bow windows. CENTRE, dominant and brightest: a huge bushy thyme plant has grown at the very front of the cabin, red crab claws poking out among its leaves; Usopp, the long-nosed sniper, shines violet rays on it from a lamp and Tony Tony Chopper, the little reindeer doctor, pours a teal potion on its roots, and the bush visibly shrinks. Roronoa Zoro waits beside it with his sword sheathed, a thin needle lying put away in a box at his feet.
+story:
+في مقدّم قمرة الصدر من سفينة قراصنة، والشّمس تدخل من نوافذ المقدّمة، نمت نبتة زعتر هائلة كثيفة.
+وبين أوراقها برزت ملاقط سرطان حمراء.
+«سأقطعها من جذورها الآن!» قال زورو.
+«ليس الآن يا زورو؛ إنّها أكبر من أن تقطع كلّها اليوم.»
+فسلّط أوسوب عليها أشعّةً بنفسجيّةً من مصباحه.
+وصبّ تشوبر على جذورها جرعةً فيروزيّة.
+فأخذت النبتة تصغر أمام أعينهم رويدًا رويدًا.
+وانتظر زورو إلى جانبها وسيفه في غمده، وعند قدميه إبرة رفيعة محفوظة في علبة.
+«حين تصغر، يأتي دور سيفك.»
+فابتسم زورو، وقال ما قاله يومًا عن قائده:
+quote: «إن لم أستطع حماية حلم قائدي، فطموحي ليس إلّا كلامًا فارغًا!»
+source: رورونوا زورو
+explanation:
+Thymomas are classified by their histology (the WHO types) and staged by their invasion (Masaoka), not by their size.
+Large, invasive malignant thymomas can be treated first with neoadjuvant chemotherapy, with or without radiotherapy, to make complete resection possible: C is the answer.
+Myasthenia gravis does not worsen the outcome, debulking is not the mainstay, and the diagnosis is made by core or surgical biopsy rather than fine-needle aspiration.
+
 
 == 82
 # book 17.2: mediastinal embryology -> B, the mediastinal space arises from the ventral and dorsal oesophageal mesenteries together.
@@ -27,6 +45,25 @@ palette: curtain crimson, glowing amber and sofa pink
 keywords: oesophagus -> a long pink sofa slide hanging down the middle of the chest cabin; ventral mesentery -> a crimson curtain hanging from the FRONT wall to the slide; dorsal mesentery -> a second curtain hanging from the BACK wall to the slide; mediastinum from both -> the space between the two curtains glowing warm amber
 must: one curtain comes from the FRONT wall, the other from the BACK wall, both reaching the slide
 scene: A ship's chest cabin seen from the side like a stage. A long pink sofa slide hangs down the middle of the cabin. CENTRE, dominant and brightest: a crimson curtain hangs from the front wall to the slide, and a second curtain hangs from the back wall to the slide, and the space between and around them glows warm amber. Nico Robin, the dark-haired archaeologist, stands at one side drawing the two curtains in her notebook.
+story:
+كانت قمرة الصدر في السفينة ترى من جانبها كخشبة مسرح.
+وفي وسطها تدلّى منزلق الأريكة الورديّة.
+فتدلّت ستارة قرمزيّة من الجدار الأماميّ حتّى بلغت المنزلق.
+وتدلّت ستارة ثانية من الجدار الخلفيّ حتّى بلغته أيضًا.
+فتوهّجت المساحة بين الستارتين وحولهما بضوء كهرمانيّ دافئ.
+«من هاتين الستارتين معًا ولدت هذه المساحة كلّها؛ لا من واحدة وحدها.» قالت روبين.
+وأخذت روبين ترسم الستارتين في دفترها، الأماميّة والخلفيّة.
+«هنا سيسكن كلّ ما يقع بين الرئتين.»
+ثمّ أغلقت الدفتر، ونظرت إلى الضوء الكهرمانيّ طويلًا.
+وقرأت في سرّها كلمةً قالها ملك القراصنة قبل موته:
+quote: «الإرث المتوارث، وتيّار العصر، وأحلام الناس... هذه أشياء لا يوقفها أحد.»
+source: غول دي روجر
+explanation:
+In the embryo, the oesophagus hangs in the middle of the body on a ventral and a dorsal mesentery.
+The mediastinal space arises from both of these mesenteries together: B is the answer.
+The junction of the superior vena cava with the right atrium lies in the middle mediastinum, and neurogenic tumours occur mostly in the posterior mediastinum.
+The lungs and pericardium do not arise from the dorsal mesoesophagus, and bronchogenic cysts come from abnormal budding of the ventral foregut.
+
 
 == 83
 # book 17.3: neurogenic tumours -> D, the posterior mediastinum is the commonest site of thoracic neuroblastoma.
@@ -40,6 +77,25 @@ palette: neon pink and electric blue in a dark cabin
 keywords: front, middle and back mediastinum -> a chest cabin divided into a front room, a middle room and a back room against the ship's keel; neuroblastoma in the posterior mediastinum -> a blast of neon light bursting from a tangle of glowing nerve-like wires against the BACK wall along the keel (NEURO-BLAST = neon blast); young children -> a baby crawling toward the light
 must: the neon blast is in the BACK room against the keel
 scene: A dark ship's chest cabin cut open from the side, divided by two thin walls into a front room, a middle room and a back room against the ship's keel. CENTRE-RIGHT, dominant and brightest: in the back room, along the keel, a tangle of glowing nerve-like wires bursts into a blast of pink and blue neon light. A baby crawls toward the light from the middle room, and Tony Tony Chopper, the little reindeer doctor, scoops the baby up.
+story:
+كانت قمرة الصدر المظلمة مكشوفةً من جانبها، مقسومةً إلى غرفة أماميّة، ووسطى، وخلفيّة عند عارضة السفينة.
+وفي الغرفة الخلفيّة، على طول العارضة، تشابكت أسلاك مضيئة كالأعصاب.
+ثمّ انفجرت منها دفقة من ضوء النيون الورديّ والأزرق.
+«في الخلف! كما توقّعت!» صاح تشوبر.
+ومن الغرفة الوسطى، أخذ رضيع يحبو نحو الضوء مسحورًا.
+فأسرع تشوبر، وحمل الرضيع بين حافريه.
+«هذا الضوء يحبّ الصغار، ويسكن الجدار الخلفيّ عند العارضة.»
+فضحك الرضيع وشدّ قبّعة تشوبر الورديّة.
+فنظر تشوبر إلى الضوء الخلفيّ، عازمًا على إطفائه.
+وتذكّر كلمة ملكة عجيبة في سجن تحت البحر:
+quote: «المعجزات لا تحدث إلّا لمن لا يستسلمون!»
+source: إيفانكوف
+explanation:
+Neuroblastoma is a tumour of young children, with a peak in the first years of life, not in adulthood.
+Within the chest, it arises most often in the posterior mediastinum, from the sympathetic chain along the spine: D is the answer.
+Thoracic neuroblastomas often behave better than adrenal ones, and resection can cure localized disease.
+Paragangliomas can secrete catecholamines; they are not nonfunctional by definition.
+
 
 == 84
 # book 17.4: germ cell tumours -> B, nonseminomatous tumours are associated with Klinefelter's syndrome.
@@ -54,6 +110,25 @@ words: X, Y
 keywords: Klinefelter's syndrome -> a very tall, long-limbed man in a grey felt hat (KLINE-FELT-er), letters X, X and Y stitched on its band; nonseminomatous germ cell tumour -> a strange cracked egg with a rough multicoloured shell glowing at the front of his chest
 must: the hat band shows X X Y; the egg sits at the FRONT of his chest
 scene: A misty dock on a Grand Line island. CENTRE, dominant and brightest: a very tall, long-limbed young man in a grey felt hat with the letters X, X and Y stitched on its band holds against the front of his chest a strange cracked egg with a rough multicoloured shell, glowing from within. Tony Tony Chopper, the little reindeer doctor, stands on a crate to examine the egg, magnifier in hand.
+story:
+على رصيف ضبابيّ في جزيرة من جزر الخطّ الكبير، وقف شابّ طويل جدًّا، طويل الأطراف، اسمه يوناس.
+وعلى رأسه قبّعة رماديّة من اللباد، طرّزت على شريطها ثلاثة أحرف: إكس، إكس، واي.
+«ولدت بحرف زائد، فصرت أطول من إخوتي!» قال يوناس ضاحكًا.
+وكان يضمّ إلى مقدّم صدره بيضةً غريبةً مشقوقة.
+قشرتها خشنة متعدّدة الألوان، تتوهّج من الداخل.
+فصعد تشوبر على صندوق خشبيّ، وفحص البيضة بعدسته.
+«هذه ليست البيضة الملساء الهادئة؛ هذه أختها الخشنة، وهي تحبّ أصحاب قبّعتك.»
+فنظر يوناس إلى الأحرف الثلاثة على قبّعته، ثمّ إلى البيضة.
+فأمسك تشوبر بيده وقاده إلى السفينة.
+وتذكّر يوناس سؤالًا غريبًا سمعه يومًا من عملاق صامت:
+quote: «لو كان بوسعك أن تسافر، فإلى أين تريد أن تذهب؟»
+source: بارثولوميو كوما
+explanation:
+Mediastinal germ cell tumours are the commonest extragonadal germ cell tumours, but the gonads, not the mediastinum, are the commonest primary site.
+Nonseminomatous mediastinal germ cell tumours are associated with Klinefelter's syndrome (XXY): B is the answer.
+Residual masses after chemotherapy for nonseminoma are resected, and serial beta-hCG and AFP levels are used to follow treatment.
+Seminomas are highly sensitive to chemotherapy and radiotherapy, not resistant.
+
 
 == 85
 # book 17.5: vena caval thrombosis -> D, anticoagulation after thrombolysis, and aspirin after stent placement.
@@ -68,6 +143,25 @@ palette: soot black, potion emerald and slinky silver
 keywords: superior vena cava thrombosis -> a ship's chimney clogged by a dark clot; thrombolysis -> a chemist pouring an emerald dissolving potion down the chimney; anticoagulation -> a rat in a soldier's helmet standing guard at the cleared chimney; stent placement -> a coiled metal Slinky spring holding a second chimney open; aspirin -> a small asp coiled round a white tablet beside the Slinky chimney
 must: the rat guards the chimney the potion cleared; the asp sits by the chimney with the Slinky
 scene: The rooftop of a ship's cabin with two tall chimneys at dusk. LEFT: a chemist pours an emerald potion down the first chimney, the dark clot inside it dissolving, and then a rat in a little soldier's helmet stands guard at its top. RIGHT, dominant and brightest: inside the second chimney a coiled metal Slinky spring holds it wide open, and beside it a small asp snake coils round a white tablet. Franky, the blue-haired cyborg shipwright, gives a thumbs-up from the roof.
+story:
+عند الغسق على سطح قمرة سفينة، ارتفعت مدخنتان طويلتان.
+وكانت المدخنة الأولى مسدودةً بخثرة داكنة، لا يخرج منها دخان.
+فصبّ فيها كيميائيّ جرعةً زمرّديّة، فذابت الخثرة وانفتحت المدخنة.
+ثمّ وقف في أعلاها فأر يلبس خوذة جنديّ صغيرة، يحرسها.
+«بعد أن تفتح، يبقى الفأر حارسًا كي لا تعود الخثرة!» قال فرانكي.
+وفي المدخنة الثانية، كان نابض معدنيّ ملفوف يبقيها مفتوحةً على سعتها.
+وإلى جانبه أفعًى صغيرة ملتفّة على قرص أبيض.
+«وبعد النابض، تبقى الأفعى إلى جانبه تحرسه.»
+فرفع فرانكي إبهامه من فوق السطح، والمدخنتان تتنفّسان بحرّيّة.
+فتذكّر كلمة قرصان عجوز عظيم كان يسمّي رجاله أبناءه:
+quote: «كلّنا أبناء البحر!»
+source: إدوارد نيوغيت (اللحية البيضاء)
+explanation:
+Thrombosis of the vena cava is treated with catheter-directed thrombolysis, angioplasty and stenting when needed.
+Recommended guidelines are anticoagulation after thrombolysis, and aspirin after stent placement: D is the answer.
+Most patients with superior vena cava syndrome today have a malignant cause, not a benign one.
+Acute mediastinitis needs surgical drainage, and steroids have not proved effective for sclerosing mediastinitis.
+
 
 == 86
 # book 18.1: 76-year-old, enlarging mass at the anterior costochondral arch, biopsy inconclusive -> A, evidence of invasion indicates chondrosarcoma.
@@ -81,6 +175,24 @@ palette: gristle white, plank brown and claw red
 keywords: chondrosarcoma -> a crab made of white gristle sitting at the front of a rib where it meets its cartilage; invasion -> its claws boring into the neighbouring planks of the chest wall; older adult -> an old man of 76 with a white beard
 must: the gristle crab's claws BORE INTO the neighbouring planks
 scene: The front of a wooden ship's hull drawn like a chest, its curved planks like ribs, beside an old white-bearded sailor of 76 who holds his side. CENTRE, dominant and brightest: where one curved plank meets a strip of white cartilage at the front, a crab made of white gristle sits, and its claws bore deep into the neighbouring planks, splintering them. Tony Tony Chopper, the little reindeer doctor, points at the splinters, frowning.
+story:
+كانت مقدّمة هيكل السفينة الخشبيّ كالصّدر، وألواحها المقوّسة كالأضلاع.
+وإلى جانبها وقف بحّار عجوز أبيض اللحية في السادسة والسّبعين، يمسك جنبه.
+«هذه الكتلة تكبر على مهل منذ شهور.»
+فحيث يلتقي لوح مقوّس بشريط أبيض من الغضروف في الأمام، جلس سرطان من الغضروف الأبيض.
+وكانت ملاقطه تحفر عميقًا في الألواح المجاورة، فتتشظّى.
+«الإبرة لم تخبرنا بشيء؛ لكنّ هذه الشظايا تخبرنا بكلّ شيء!» قال تشوبر.
+«سرطان من الغضروف يحفر في جيرانه؛ هذا ليس ضيفًا مسالمًا.»
+فأشار تشوبر إلى الشظايا عابسًا.
+فضحك العجوز رغم ألمه، وقال إنّه لا يخاف شيئًا في عمره هذا.
+ثمّ تذكّر طبيبةً عجوزًا من جزيرة الثلج كانت تسأل كلّ من تلقاه:
+quote: «تريد أن تعرف سرّ شبابي؟»
+source: الدكتورة كوريها
+explanation:
+A slowly growing mass at the anterior costochondral junction in an older adult is most likely a chondrosarcoma, the commonest primary malignant chest wall tumour.
+When a biopsy is inconclusive, evidence of invasion of the surrounding tissues points to chondrosarcoma: A is the answer.
+These tumours are treated by wide resection with clear margins and reconstruction of the chest wall.
+
 
 == 87
 # book 18.2: 11-year-old, tender rib lesion after a baseball, amorphous calcified appearance -> A, fibrous dysplasia.
@@ -94,6 +206,24 @@ palette: frosted glass white, baseball red stitch and plank brown
 keywords: baseball injury -> a baseball bouncing off an 11-year-old boy's side; fibrous dysplasia -> one rib, a wooden plank, swollen and filled with frosted glass threaded with fibres (FIBROUS = fibres, and ground glass); benign -> the boy smiling despite the bump
 must: the swollen rib is filled with FROSTED GLASS and fibres
 scene: A sandy beach on a summer island, a baseball game. LEFT: a baseball bounces off the side of an 11-year-old boy. CENTRE, dominant and brightest: on the boy's side one rib, drawn as a curved wooden plank, is swollen and filled with frosted glass threaded with fine white fibres, glowing softly. The boy rubs it, smiling; Luffy, the boy in the straw hat, peers at the glassy rib, amazed.
+story:
+على شاطئ رمليّ في جزيرة صيفيّة، كان الأطفال يلعبون البيسبول.
+فارتدّت كرة عن جنب صبيّ في الحادية عشرة اسمه تيدي.
+«آخ! كرتكم أصابت ضلعي!» صاح تيدي.
+فلمّا نظروا، وجدوا ضلعًا في جنبه كلوح خشبيّ مقوّس منتفخ.
+وكان ممتلئًا بزجاج مصنفر تتخلّله ألياف بيضاء دقيقة، يتوهّج برفق.
+فحدّق لوفي في الضلع الزجاجيّ مدهوشًا.
+«ضلع من زجاج وخيوط! هذا أجمل من ضلعي!» قال لوفي.
+«هذا الضلع لم تصنعه الكرة؛ الكرة دلّتنا عليه فقط، وهو هادئ لا يغزو شيئًا.» قال تشوبر.
+فدلك تيدي ضلعه مبتسمًا، وعاد إلى اللعب.
+وصاح وهو يرفع مضربه كالسّيف:
+quote: «أريد أن أكون محاربًا شجاعًا من محاربي البحر!»
+source: أوسوب
+explanation:
+Fibrous dysplasia is a benign developmental lesion in which normal bone is replaced by fibrous tissue and immature bone.
+On imaging it has a ground-glass, amorphously calcified appearance, often in a rib of a child or young adult: A is the answer.
+It is often found after minor trauma draws attention to it, and an asymptomatic lesion can be watched.
+
 
 == 88
 # book 18.3: chest wall diffuse large B-cell lymphoma, no other disease -> D in the book, surgical resection with radiation for positive margins (key kept; a note says chemotherapy, usually with radiotherapy, is the standard).
@@ -109,6 +239,24 @@ note: Today a solitary diffuse large B-cell lymphoma is treated mainly with chem
 keywords: diffuse large B-cell lymphoma -> a swarm of bees in a big nest built into the chest wall planks (B cell = bee); surgical resection -> Zoro cutting the whole nest out of the planks; radiation for positive margins -> Usopp shining violet rays on the edges where a few bees remain; no other sites -> no other nests anywhere on the ship
 must: Zoro cuts the nest OUT; a few bees at the EDGES get Usopp's rays
 scene: The side of a pirate ship's hull, warm afternoon. CENTRE, dominant and brightest: a big honey-gold nest buzzing with bees is built into the chest-wall planks, and Roronoa Zoro cuts the whole nest out with one sweep of his sword, while Usopp, the long-nosed sniper, shines violet rays from a lamp on the edges of the hole where a few bees remain. Nami searches the rest of the ship with a spyglass and finds no other nest.
+story:
+في عصر دافئ على جانب هيكل سفينة قراصنة، كان عشّ ذهبيّ كبير مبنيًّا في ألواح جدار الصدر.
+وكان العشّ يطنّ بالنّحل.
+فبحثت نامي في السفينة كلّها بمنظارها، فلم تجد عشًّا غيره.
+«عشّ واحد فقط في السفينة كلّها!»
+فقطع زورو العشّ كلّه من الألواح بضربة واحدة.
+وسلّط أوسوب أشعّةً بنفسجيّةً على حوافّ الفتحة، حيث بقيت نحلات قليلة.
+«ما بقي على الحوافّ، له أشعّتي!»
+«كتابنا يقطع هذا العشّ ويشعّ حوافّه؛ وأطبّاء اليوم يبدؤونه بالجرعات.» قال تشوبر.
+فطارت النحلات الأخيرة من الأشعّة هاربة.
+فتذكّرت نامي يومًا بكت فيه في قريتها، وما قيل بينها وبين قائدها:
+quote: «لوفي... ساعدني... — بالطّبع!»
+source: نامي ومونكي دي لوفي
+explanation:
+A solitary diffuse large B-cell lymphoma of the chest wall, with no disease elsewhere, is rare.
+The book's key is D: surgical resection, with radiation therapy for positive margins.
+The lymphoma is highly sensitive to chemotherapy and radiotherapy.
+
 
 == 89
 # book 18.4: commonest chest wall sarcoma in adults -> B, chondrosarcoma.
@@ -122,6 +270,24 @@ palette: medal gold, gristle white and podium blue
 keywords: chondrosarcoma -> a crab made of white gristle on the top step of a winner's podium, a gold medal round its neck; rarer sarcomas -> a lamb nibbling an onion and a blood-red crab on the lower steps
 must: the white gristle crab stands on the TOP step with the gold medal
 scene: A festival square on a Grand Line island, blue sky. CENTRE, dominant and brightest: on the top step of a winner's podium stands a crab made of white gristle, a big gold medal round its neck, raising its claws in triumph. On the lower steps stand a lamb nibbling an onion and a blood-red crab. Luffy, the boy in the straw hat, hangs the medal, laughing.
+story:
+في ساحة احتفال على جزيرة من جزر الخطّ الكبير، تحت سماء زرقاء، أقيمت منصّة الفائزين.
+فوقف على درجتها العليا سرطان من الغضروف الأبيض، رافعًا ملاقطه ظافرًا.
+وعلى الدرجات السفلى وقف حمل يقضم بصلة، وسرطان أحمر كالدّم.
+«الغضروفيّ هو الأوّل بين الكبار؛ أمّا الحمل فيفضّل الصغار!» قال تشوبر.
+فعلّق لوفي في عنق السرطان الغضروفيّ ميداليّةً ذهبيّةً كبيرة، ضاحكًا.
+«أنت الأكثر بين سرطانات جدران الصدور! خذ ميداليّتك!»
+فنظر الحمل والسّرطان الدمويّ إليه بحسد.
+وصفّق الجمهور في الساحة كلّها.
+ثمّ قفز لوفي إلى أعلى المنصّة بجانب السرطان.
+وصاح بالكلمة الّتي يعرّف بها نفسه أينما ذهب:
+quote: «أنا لوفي، الرجل الّذي سيصبح ملك القراصنة!»
+source: مونكي دي لوفي
+explanation:
+Chondrosarcoma is the commonest chest wall sarcoma in adults: B is the answer.
+It usually arises at the costochondral junctions or the sternum, grows slowly and is resistant to chemotherapy and radiotherapy.
+Ewing's sarcoma and rhabdomyosarcoma are tumours of children and young people.
+
 
 == 90
 # book 18.5: 6-year-old, 3-cm tender rib mass, onion-peel appearance -> A, Ewing's sarcoma.
@@ -135,3 +301,21 @@ palette: onion purple, lamb wool white and meadow green
 keywords: Ewing's sarcoma -> a young lamb, a ewe's lamb (EWE-ing), a small red crab clinging in its wool; onion-peel appearance -> the lamb chewing an onion whose layers peel open in rings around the child's rib; child -> a 6-year-old boy holding his tender side
 must: the onion layers peel open in RINGS around the rib
 scene: A green meadow on a sky island. A 6-year-old boy sits on the grass holding his tender side. CENTRE, dominant and brightest: a young fluffy lamb, a small red crab clinging in its wool, nuzzles the boy's side and chews a big purple onion, whose layers peel open in rings around one of the boy's ribs, layer upon layer like an onion skin. Tony Tony Chopper, the little reindeer doctor, kneels beside them, examining the rings.
+story:
+في مرج أخضر على جزيرة من جزر السماء، جلس صبيّ في السادسة اسمه بيبو يمسك جنبه المتألّم.
+«هنا كتلة تؤلمني، بحجم ثمرة جوز!»
+فجاء حمل صغير منفوش الصوف، تتشبّث في صوفه سرطانة حمراء صغيرة.
+فدفع جنب الصبيّ بأنفه، وأخذ يمضغ بصلةً بنفسجيّةً كبيرة.
+فتفتّحت طبقات البصلة حلقات حول ضلع من أضلاع الصبيّ، طبقةً فوق طبقة.
+فجثا تشوبر إلى جانبهما، يفحص الحلقات.
+«حلقات كقشر البصل، حول ضلع صبيّ صغير؛ أعرف هذا الحمل جيّدًا.» قال تشوبر.
+فحمل تشوبر الصبيّ إلى السفينة برفق، والحمل يتبعهما.
+وعلى السفينة، أعطى لوفي الصبيّ قبّعته القشّيّة ليحرسها حتّى يشفى.
+وقال له ما قاله له رجل أحمر الشعر يوم أعطاه القبّعة نفسها:
+quote: «هذه القبّعة أعدها إليّ يومًا، حين تصبح قرصانًا عظيمًا.»
+source: شانكس
+explanation:
+A tender rib mass in a young child with an onion-peel periosteal reaction on the radiograph is most likely Ewing's sarcoma: A is the answer.
+Ewing's sarcoma is a small round blue cell tumour of children and young adults, often with fever and pain.
+It is treated with chemotherapy, then local control by resection and, when needed, radiotherapy.
+
