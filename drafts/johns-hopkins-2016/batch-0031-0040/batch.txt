@@ -1,0 +1,147 @@
+book: johns-hopkins-2016
+# Johns Hopkins 2016, lessons 31-40 = book questions 7.1-8.5. Theme: One Piece; quotations from One Piece (Arabic, from memory).
+
+== 31
+# book 7.1: pathogenesis of emphysema -> B, smoking-related tissue destruction.
+# a sack of green dollar bills -> the lung (audited symbol)
+# a Marine captain puffing two fat cigars into the sack -> smoking
+# ANSWER: the smoke eats away the thin walls between the bills, leaving big empty holes -> smoking-related tissue DESTRUCTION
+# a dry mop beside the sack, unused -> not an increase in mucus (A is wrong)
+title: Emphysema comes from smoking-related destruction of lung tissue
+titleAr: ينشأ النفاخ الرئوي من تخريب نسيج الرئة المرتبط بالتدخين
+tags: thoracic/lung-benign d:pathology q:recall l:1
+palette: smoke grey, ember orange and faded dollar green
+keywords: lung -> a sack of green dollar bills; smoking -> a Marine captain puffing two fat cigars into the sack; tissue destruction -> the smoke eating away the thin walls between the bills, leaving big empty holes; mucus production -> a dry mop leaning unused beside the sack
+must: the smoke EATS the walls into big empty holes; the mop stays dry and unused
+scene: The deck of a Marine warship, grey smoke and ember light. LEFT: a big Marine captain in a white coat puffs two fat cigars at once and blows thick smoke into a big sack of green dollar bills. CENTRE, dominant and brightest: where the smoke swirls, it eats away the thin walls between the bills, leaving big empty holes edged with glowing embers, and the bills drift loose. A dry mop leans against the mast, unused. Tony Tony Chopper, the little reindeer doctor in a pink top hat, fans the smoke away in alarm.
+
+== 32
+# book 7.2: emphysema destruction is most severe in -> A, the upper lobes.
+# two sacks of green dollar bills hanging upright -> the two lungs (audited symbol)
+# a cigar's smoke rising from below -> smoke rises
+# ANSWER: the big empty holes are all at the TOP of both sacks, the bottoms intact -> centrilobular emphysema is worst in the upper lobes
+# Usopp holding a lantern up to the holes at the top -> where to look
+title: Smoking emphysema is most severe in the upper lobes
+titleAr: نفاخ المدخّنين يكون أشدّ في الفصوص العلوية
+tags: thoracic/lung-benign d:pathology q:recall l:1 x:high-yield
+palette: dusk purple, smoke grey and lantern gold
+keywords: lungs -> two sacks of green dollar bills hanging upright side by side; smoking -> a cigar smouldering on the floor below them, its smoke rising; upper lobes -> big empty holes only at the TOP of both sacks; where to look -> Usopp holding a lantern up to the top holes
+must: the holes are ONLY at the top of both sacks; the bottoms are whole
+scene: A dim cabin at dusk, purple light. Two big sacks of green dollar bills hang upright side by side from the ceiling beam. A fat cigar smoulders on the floor below them, and its smoke rises straight up. CENTRE, dominant and brightest: at the TOP of both sacks the smoke has eaten big empty holes, while their bottoms stay whole and full; Usopp, the long-nosed sniper, stands on a stool holding a lantern up to the holes, eyes wide.
+
+== 33
+# book 7.3: best candidate for lung volume reduction surgery -> C, FEV1 20-40 percent of predicted with an increased TLC.
+# a pirate blowing a brass horn for one second, its dial needle between the marks 20 and 40 -> FEV1 of 20 to 40 percent (keyword: one-second blow)
+# ANSWER part 2: his sack of dollar bills swollen so big it bulges over the barrel that holds it -> increased total lung capacity (hyperinflation)
+# Zoro trimming off the holed, puffed-up top of the sack -> lung volume reduction surgery
+# a coffin set beside a man whose needle sits below 20 -> too low (under 20 percent) is too dangerous
+title: Lung volume reduction: FEV1 20-40 percent with a raised total lung capacity
+titleAr: تصغير حجم الرئة: حجم الزفير في الثانية الأولى 20 إلى 40 بالمئة مع سعة رئوية كلّية مرتفعة
+tags: thoracic/lung-benign d:indications q:numbers l:2 x:high-yield
+palette: brass gold, barrel brown and bright green
+words: 20, 40
+keywords: FEV1 -> a pirate blowing a brass horn for one second, its dial needle between the marks 20 and 40; increased TLC -> his sack of green dollar bills swollen so big it bulges out over the barrel that holds it; lung volume reduction surgery -> Zoro trimming off the holed, puffed-up top of the sack of dollar bills
+must: the horn's needle sits BETWEEN 20 and 40; the sack bulges OUT over the barrel; Zoro trims only the top
+scene: The deck of the Thousand Sunny on a bright morning. CENTRE, dominant and brightest: a thin pirate blows hard into a brass horn whose round dial has its needle between the marks 20 and 40; behind him his sack of green dollar bills is swollen so big that it bulges out over the wooden barrel that holds it, its top full of empty holes. Roronoa Zoro, the green-haired swordsman, trims off the holed, puffed-up top of the sack with one neat stroke, and the rest of the sack settles comfortably into the barrel.
+
+== 34
+# book 7.4: measures shown to reduce air leak after LVRS -> E, none of the above.
+# a sack of dollar bills hissing air from its trimmed edge -> air leak after lung volume reduction
+# a small canvas tent pitched over it -> pleural tent: did not help
+# a spray can of sealant -> biological sealant: did not help
+# a strip of leather nailed along the cut -> buttressing the staple line: did not help
+# ANSWER: the air still hisses out through all three, and Franky throws up his hands -> none of the measures reduced the air leak
+title: After lung volume reduction, no measure tested reduced the air leak
+titleAr: بعد تصغير حجم الرئة لم يقلّل أيّ إجراء مختبَر من تسرّب الهواء
+tags: thoracic/lung-benign d:evidence q:recall l:3 x:trap
+palette: canvas beige, spray-can red and air-bubble white
+keywords: air leak after LVRS -> a sack of green dollar bills hissing air from its trimmed edge; pleural tent -> a small canvas tent pitched over the edge; biological sealant -> a red spray can spraying glue on it; buttressing the staple line -> a strip of leather nailed along the cut; none of them work -> the air still hissing out through all three while Franky throws up his hands
+must: air keeps hissing out THROUGH the tent, the glue and the leather strip alike
+scene: Franky's workshop on the Thousand Sunny, wood shavings and tools. A big sack of green dollar bills lies on the workbench, its trimmed edge hissing jets of air. A small canvas tent is pitched over one part of the edge, a red spray can sprays glue on another, and a strip of leather is nailed along the rest of the cut. CENTRE, dominant and brightest: the air keeps hissing out in white jets through the tent, through the glue and through the leather strip alike, and Franky, the blue-haired cyborg shipwright, throws up both his huge arms in defeat.
+
+== 35
+# book 7.5: giant bullae -> E, they compress adjacent lung parenchyma.
+# a giant inflatable bull swelling inside a sack of dollar bills -> a giant bulla (keyword: BULLA -> a BULL balloon)
+# ANSWER: the swelling bull balloon squashes the bills beside it flat against the sack's side -> giant bullae compress the adjacent lung
+# Luffy stretching his rubber arms round the sack -> the squashed lung re-expands once the bulla is removed
+title: Giant bullae compress the adjacent lung
+titleAr: الفقاعات العملاقة تضغط نسيج الرئة المجاور
+tags: thoracic/lung-benign d:pathology q:recall l:1
+palette: bull red, dollar green and sky blue
+keywords: giant bulla -> a giant red inflatable bull balloon swelling inside a sack of green dollar bills (BULLA = bull); compresses adjacent lung -> the bull balloon squashing the dollar bills beside it flat against the side of the sack; re-expansion -> Luffy stretching his rubber arms round the sack, ready to pull the bull out
+must: the bills beside the bull are squashed FLAT against the sack's side
+scene: A beach on a sunny Grand Line island. CENTRE, dominant and brightest: inside a big transparent sack of green dollar bills a giant red inflatable bull balloon swells bigger and bigger and squashes the bills next to it flat against the side of the sack. Monkey D. Luffy, the boy in the straw hat, stretches his long rubber arms all the way round the sack, grinning, ready to pull the bull out.
+
+== 36
+# book 8.1: predictors of anastomotic complications after tracheal resection, EXCEPT -> C, female gender.
+# a big ribbed hose cut and sewn back together, a stitched seam that may split -> tracheal anastomosis (audited symbol)
+# a man sitting on a mountain of sugar cubes, pulling at the seam -> diabetes is a predictor (audited symbol)
+# a scar of an old seam beside the new one -> reoperation is a predictor
+# a long measuring tape across the cut-out length -> length of resection is a predictor
+# a boy under 18 tugging at the seam -> young age is a predictor
+# ANSWER: Nami standing on the seam weighing nothing, the seam holding -> female gender is not a predictor
+title: Tracheal resection: female gender does not predict anastomotic complications
+titleAr: استئصال الرغامى: كون المريضة أنثى لا ينبئ بمضاعفات المفاغرة
+tags: thoracic/airway d:complications q:recall l:2
+palette: hose white, sugar white and Nami's orange
+keywords: tracheal anastomosis -> a big ribbed hose cut and sewn back together with a stitched seam; diabetes -> a man sitting on a mountain of white sugar cubes pulling at the seam; reoperation -> an old scarred seam just beside the new one; length of resection -> a long measuring tape laid across the cut-out length; age under 18 -> a young boy tugging at the seam; female gender -> Nami standing lightly on the seam while it holds
+must: the others pull at the seam and it strains; Nami stands on it and it does NOT strain
+scene: A shipyard in Water 7, bright sun. A big ribbed hose of white rings lies across two trestles, cut and sewn back together with a thick stitched seam, an old scarred seam just beside it and a long measuring tape laid across the cut-out length. A man sitting on a mountain of white sugar cubes pulls at the seam, and a young boy tugs at it from the other side, and the stitches strain. CENTRE, dominant and brightest: Nami, the orange-haired navigator, stands lightly on the seam with one foot, smiling, and the seam under her holds perfectly.
+
+== 37
+# book 8.2: 4-cm cervical tracheal resection for adenoid cystic carcinoma, positive distal margin 4 cm above the carina -> A, partial sternotomy, laryngeal release, more resection with primary reconstruction, and postoperative radiotherapy.
+# a red crab's claw still gripping the lower cut end of the ribbed hose -> adenoid cystic carcinoma at the distal margin (cancer -> crab, audited)
+# ANSWER part 1: Franky opening the ship's stern only PART way down its white centre line -> partial sternotomy (audited symbol)
+# ANSWER part 2: at the top, the hose's brass bell untied and lowered on its ropes -> laryngeal release to gain length
+# ANSWER part 3: Zoro cutting off one more ring section with the claw and sewing the ends together -> further resection with primary reconstruction
+# ANSWER part 4: Usopp shining a glowing ray lamp on the seam -> postoperative radiotherapy
+title: Positive distal margin in adenoid cystic carcinoma: more resection through a partial sternotomy, then radiotherapy
+titleAr: حافة سفلية إيجابية في السرطان الغدّاني الكيسي: استئصال إضافي عبر شقّ قصّ جزئي ثم علاج إشعاعي
+tags: thoracic/airway d:technique q:vignette l:3
+palette: stern timber brown, crab red and ray-lamp violet
+words: 4
+keywords: adenoid cystic carcinoma at the margin -> a red crab's claw still gripping the lower cut end of a ribbed hose; partial sternotomy -> Franky opening the ship's stern only part way down its white centre line; laryngeal release -> the brass bell at the top of the hose untied and lowered on its ropes; further resection with primary reconstruction -> Zoro cutting off one more ring section with the claw and sewing the ends together; postoperative radiotherapy -> Usopp shining a glowing violet ray lamp on the seam
+must: the stern is opened only PART way down; the bell at the TOP is lowered; Zoro removes the ring section WITH the claw
+scene: The stern of the Thousand Sunny at night, lanterns lit. Franky, the blue-haired cyborg shipwright, has opened the ship's stern only part way down its white centre line, and inside it a big ribbed hose of white rings runs downward, a yellow tape across it reading 4. At the hose's top its brass bell has been untied and is lowered on two ropes by Luffy. CENTRE, dominant and brightest: at the lower cut end of the hose a red crab's claw still grips the rings, and Roronoa Zoro cuts off one more ring section together with the claw and sews the two ends neatly together. Usopp, the long-nosed sniper, shines a glowing violet ray lamp onto the new seam.
+
+== 38
+# book 8.3: tracheoesophageal fistula after prolonged ventilation and tracheostomy -> B in the book, immediate repair with muscle interposition (key kept; a note says repair usually waits until the patient is off the ventilator).
+# a big ribbed hose lying against a soft food pipe -> trachea and oesophagus
+# a fist punched through from the hose into the food pipe -> tracheoesophageal fistula (fistula -> fist, audited)
+# a bellows pumping air into the hose's top -> prolonged mechanical ventilation (the cause)
+# ANSWER (book): Franky closing both holes and laying a living slab of red muscle between them at once -> immediate repair with muscle interposition
+title: Tracheoesophageal fistula after ventilation: repair and muscle interposition (the book's key)
+titleAr: ناسور رغامي مريئي بعد التهوية: إصلاح مع إقحام عضلة بينهما (مفتاح الكتاب)
+tags: thoracic/airway d:technique q:vignette l:3 x:trap
+palette: muscle red, hose white and bellows leather brown
+keywords: trachea and oesophagus -> a big ribbed hose lying against a soft pink food pipe; tracheoesophageal fistula -> a fist punched through from the hose into the food pipe; prolonged mechanical ventilation -> a big leather bellows pumping air into the top of the hose; muscle interposition -> Franky laying a thick living slab of red muscle between the two closed holes
+must: the fist has punched a hole FROM the hose INTO the food pipe; the red slab lies BETWEEN them after both holes are closed
+scene: Franky's workshop, warm lamplight. A big ribbed hose of white rings lies against a soft pink food pipe, and a big leather bellows pumps air into the top of the hose with a whoosh. A fist has punched a hole from the hose straight into the food pipe. CENTRE, dominant and brightest: Franky, the blue-haired cyborg shipwright, has stitched both holes shut and now lays a thick living slab of red muscle between the hose and the food pipe, pressing it in place with his big hands. Tony Tony Chopper, the little reindeer doctor in a pink top hat, holds the bellows' handle still.
+
+== 39
+# book 8.4: known postintubation stenosis, distress after a cold, can't speak in full sentences -> A, rigid bronchoscopy with dilation in the operating room.
+# a ribbed hose pinched by a hard ring of scar -> postintubation tracheal stenosis
+# a sailor clutching his throat, only able to gasp short words -> distress, cannot speak in full sentences
+# ANSWER: in the ship's operating room, Chopper pushes a long straight steel telescope down the hose and stretches the scar ring wide with a widening cone -> rigid bronchoscopy with dilation in the OR
+# a thin bendy rubber tube dropped on the deck -> flexible bronchoscopy in the ER is the wrong choice
+title: Critical postintubation stenosis: rigid bronchoscopy and dilation in the operating room
+titleAr: تضيّق ما بعد التنبيب الحرج: تنظير قصبي صلب وتوسيع في غرفة العمليات
+tags: thoracic/airway d:technique q:next-step l:2 x:high-yield
+palette: operating-room white, steel silver and scar red
+keywords: postintubation tracheal stenosis -> a ribbed hose pinched by a hard red ring of scar; respiratory distress -> a sailor clutching his throat, gasping only short words; rigid bronchoscopy with dilation -> Chopper pushing a long straight steel telescope down the hose and stretching the scar ring wide with a widening steel cone; in the operating room -> under the ship's bright operating lamp; flexible bronchoscopy -> a thin bendy rubber tube lying dropped on the floor
+must: the telescope is STRAIGHT and rigid steel; the scar ring is being stretched WIDER
+scene: The operating room of the Thousand Sunny, bright white lamp. A frightened sailor lies on the table clutching his throat, gasping. Above him stands a giant transparent ribbed hose of white rings, pinched in the middle by a hard red ring of scar. CENTRE, dominant and brightest: Tony Tony Chopper, the little reindeer doctor in a pink top hat, in a surgeon's cap, pushes a long straight steel telescope down the hose and, with a widening steel cone on its tip, stretches the scar ring wide open, and air rushes through. On the floor lies a thin bendy rubber tube, dropped and ignored.
+
+== 40
+# book 8.5: does NOT decrease tension during tracheal resection -> C, circumferential tracheal dissection.
+# the two cut ends of the ribbed hose pulled together by a stretched rope -> tension on the anastomosis
+# Luffy bending his chin down to his chest, the rope slackening -> neck flexion reduces tension
+# a bell at the top lowered on its ropes -> laryngeal release reduces tension
+# ANSWER: Zoro stripping the hose bare all round its circumference, its green feeding vines withering, while the rope stays just as tight -> circumferential dissection does not reduce tension (and spoils the blood supply)
+title: Circumferential dissection does not reduce tension in tracheal resection
+titleAr: التسليخ المحيطي للرغامى لا يقلّل التوتّر في استئصالها
+tags: thoracic/airway d:technique q:recall l:2 x:trap
+palette: vine green, rope tan and hose white
+keywords: anastomotic tension -> the two cut ends of a ribbed hose pulled together by a rope stretched tight; neck flexion -> Luffy bending his chin down to his chest so the rope slackens; laryngeal release -> the bell at the top of the hose lowered on its ropes; circumferential dissection -> Zoro stripping the hose bare all round its circumference, its green feeding vines withering, while the rope stays just as tight
+must: where Zoro strips the hose ALL ROUND, the vines wither and the rope does NOT slacken
+scene: A sunny deck of the Thousand Sunny. A big ribbed hose of white rings, wrapped in fresh green vines that feed it, has been cut in the middle, and its two ends are pulled together by a rope stretched tight. At the top, a bell is lowered on its ropes, and Monkey D. Luffy, the boy in the straw hat, bends his chin down to his chest, making part of the rope slacken. CENTRE, dominant and brightest: Roronoa Zoro strips one length of the hose bare all the way round, the green vines there wither brown and fall away, and the rope at that point stays just as tight as before.

@@ -30,6 +30,18 @@ Updated 2026-11-21 (morning). Whoever works on YouTop next: read `CLAUDE.md`, th
   edge-tts and faster-whisper for `voice.py`. Pictures still wanted: 1, 10, 16, 21, 25, 31, 38, 45, 60, 65, 76,
   81-110 (86-96, 99, 102, 103 never had one). The hourly scheduled task trig_01CgSmtZZ33N4gFXAr9mtxZy fires into
   THIS session; a new session should disable it (update_trigger enabled=false) and create its own if wanted.
+- **NEW BOOK (2026-11-21): Johns Hopkins 2016 (Cardiothoracic Surgery Board Review), 422 questions** — the owner's
+  folder "13 JOHN HOPKIN'S (2016) 450 Q" (`11gZ6LUEbDqbeyBc45sVLsKRQ6gpwLtdx`; master `.jsonl` id in
+  `content/books/johns-hopkins-2016.json`). The book numbers questions by chapter ("47.3"); `batch.py` now numbers such a
+  file 1-422 in file order and shows the book's own number in the quiz source (`ref`). The owner asked: first 50 lessons,
+  "great creativity", **One Piece style pictures and One Piece quotations** (stories in the Straw Hats' world, Chopper the
+  healer). The pictures go into that same Drive folder (`imagesFolder`), named 1.png ... 50.png.
+  - Lessons 1-50 (book 1.1-10.5, thoracic): tables, scenes and prompts written and SENT (`drafts/johns-hopkins-2016/`,
+    `prompts-jh-1-50.txt`). New audited symbols: metastasis (baby crabs; lung cancer = the existing crab), CT (a cat
+    slicing a loaf), PET (a glowing puppy), lymph node stations (numbered railway stations), trachea (a ribbed hose that
+    forks), tuberculosis (a holed tuba oozing cheese). Keys kept with a note: 28 (sulfur granules are classically
+    actinomycosis), 38 (repair usually waits until the patient is off the ventilator), 24 (the book's 30 percent).
+  - NEXT: stories (vowelled `voice.txt`), One Piece quotations, explanations, build, record; then the pictures.
 - **2026-11-21, morning: 151 of 156 lessons PUBLISHED.** 45 of the 50 wanted pictures arrived (05:26-05:29 UTC):
   1 and 104 (`--replace b`), 91, 93, and 112-156 except the five below. Every grid, every spots drawing and every
   circle drawing was looked at (by this agent alone; the owner asked for no subagents, so the skill's second-agent

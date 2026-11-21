@@ -1,0 +1,150 @@
+book: johns-hopkins-2016
+# Johns Hopkins 2016 (Cardiothoracic Surgery Board Review), lessons 1-10 = book questions 1.1-2.5.
+# Theme: the world of the One Piece anime, the Straw Hat crew; Chopper is the healer. Quotations: One Piece (Arabic, from memory).
+# Written to the owner's five picture rules and the audited symbols (content/symbols.json).
+
+== 1
+# book 1.1: functional status -> D, fewer than 25 shuttles = prohibitive operative risk.
+# old pirate walking back and forth between two small space shuttles stood upright as turning markers -> the shuttle walk test (keyword: shuttle -> a space shuttle)
+# ANSWER: he collapses before the chalk mark 25 on the tally board -> fewer than 25 shuttles = prohibitive risk
+# Chopper bolting the infirmary door with a red iron bar -> no operation: the risk is prohibitive
+# a coffin standing by the barred door -> the risk is death (mortality)
+title: Shuttle walk: fewer than 25 shuttles means a prohibitive operative risk
+titleAr: اختبار المشي المكوكي: أقلّ من 25 مكوكًا يعني خطرًا جراحيًّا مانعًا
+tags: thoracic/foundations d:diagnosis q:numbers l:2 x:high-yield
+palette: sunset orange and grass green, with a red iron bar
+words: 25
+keywords: shuttle walk test -> an old pirate walking back and forth between two small white space shuttles standing upright as turning markers (SHUTTLE); prohibitive risk -> Chopper bolting the infirmary door with a big red iron bar; mortality -> a dark wooden coffin standing by the door
+must: the old pirate collapses BEFORE he reaches the chalk mark 25; the infirmary door is barred shut
+scene: The grass lawn deck of the Thousand Sunny, the Straw Hat pirates' ship, at sunset. CENTRE, dominant and in the brightest light: an old grey-bearded pirate, exhausted, walks back and forth between two small white space shuttles standing upright on the grass as turning markers, and collapses onto his knees just before a big chalk line marked 25 painted across the grass. RIGHT: Tony Tony Chopper, the little reindeer doctor in a pink top hat, slams the infirmary door shut and bolts it with a heavy red iron bar; beside the door stands a dark wooden coffin.
+
+== 2
+# book 1.2: pulmonary function -> D, VO2max is the most specific predictor of complications after lung resection.
+# Zoro poised to slice a big sack of green dollar bills -> pulmonary resection (lung = dollar sack, the audited symbol)
+# ANSWER: an ox in a clear oxygen mask galloping flat out in a giant treadmill wheel, its brass gauge at the very end of the dial -> VO2max, maximal oxygen consumption (oxygen -> ox)
+# Chopper reading the ox's gauge through a huge magnifying glass -> the MOST SPECIFIC predictor: it decides whether Zoro may cut
+# a small brass horn and a sponge lying unused on the deck -> FEV1 and DLco, less specific
+title: Before lung resection, VO2max is the most specific predictor of complications
+titleAr: قبل استئصال الرئة: الاستهلاك الأقصى للأكسجين هو أدقّ منبئ بالمضاعفات
+tags: thoracic/foundations d:physiology q:recall l:2 x:high-yield
+palette: deck wood brown, ox brown, brass gold and sea blue
+keywords: VO2max -> a huge ox in a clear oxygen mask galloping flat out inside a giant wooden treadmill wheel, a brass gauge on the wheel with its needle at the very end of the dial (oxygen used at its maximum); most specific -> Chopper reading that gauge through a huge magnifying glass; pulmonary resection -> Zoro with his sword raised over a big sack of green dollar bills; FEV1 and DLco -> a small brass horn and a sponge lying unused on the deck
+must: the ox's gauge needle is at the far END of the dial; Zoro waits with his sword raised, he has NOT cut yet
+scene: The deck of the Thousand Sunny under a clear blue sky. CENTRE, dominant and brightest: a huge brown ox wearing a clear oxygen mask gallops flat out inside a giant wooden treadmill wheel; a big brass gauge fixed to the wheel shows its needle swung to the very end of the dial, and Tony Tony Chopper, the little reindeer doctor in a pink top hat, stands on a barrel reading the gauge through a huge magnifying glass. LEFT: Roronoa Zoro, the green-haired swordsman, waits with his sword raised above a big bulging sack stuffed with green dollar bills, looking at Chopper for the signal. FOREGROUND: a small brass horn and a yellow sponge lie forgotten on the planks.
+
+== 3
+# book 1.3: cardiac assessment -> E, a patient who cannot climb more than two flights of stairs should have formal cardiology evaluation.
+# a stair to the crow's nest with landings painted 1, 2, 3 -> flights of stairs (memory palace, in order)
+# ANSWER: the patient stops gasping on landing 2 and cannot go on -> cannot climb more than two flights
+# Chopper, his ear on the man's chest, pointing him down to the HART Hotel (narrow old hotel, stag's head) -> formal cardiology evaluation (heart = the HART Hotel, audited symbol)
+# yellow taxis gridlocked on the quay beside the hotel -> heart failure is a risk that needs testing (B is false)
+title: A patient who cannot climb two flights of stairs needs formal cardiology evaluation
+titleAr: من لا يستطيع صعود طابقين من الدرج يحتاج تقييمًا قلبيًّا رسميًّا
+tags: thoracic/foundations d:diagnosis q:recall l:1
+palette: night navy, lantern yellow and stag brown
+words: 1, 2, 3
+keywords: flights of stairs -> a spiral stair up the mast with landings painted 1, 2 and 3; cardiology evaluation -> Chopper pointing the man to a narrow old hotel with a stag's head over its door (the HART Hotel = heart); congestive heart failure -> a traffic jam of yellow taxis bumper to bumper on the quay
+must: the man is stopped on landing 2 and has NOT reached landing 3; the hotel has a stag's head over its door
+scene: Night in a harbour of the Grand Line, the Thousand Sunny moored at a lantern-lit quay. CENTRE, dominant and brightest: a heavy middle-aged pirate climbing the spiral stair up the ship's mast has stopped, gasping and clutching the rail, on the landing painted 2; the landing painted 1 is below him and the landing painted 3 above him is still far away. Tony Tony Chopper, the little reindeer doctor in a pink top hat, presses his ear to the man's chest and points with his hoof down to the quay, at a narrow old hotel with a stag's head over its door. On the quay in front of the hotel, yellow taxis are gridlocked bumper to bumper.
+
+== 4
+# book 1.4: Thoracoscore -> B, female gender is NOT associated with increased mortality (male sex is).
+# a giant scoreboard balance whose pan sinks toward a coffin -> the Thoracoscore: risk of death (keyword: THORACO-SCORE -> a scoreboard on a chest)
+# an old man's walking cane dropped on the pan -> age raises mortality
+# a red crab dropped on the pan -> malignant diagnosis raises mortality
+# a man lying in a hammock dropped on the pan -> poor performance status raises mortality
+# ANSWER: Nami steps onto the pan and the needle does not move at all -> female gender adds no risk
+title: Thoracoscore: female gender does not raise operative mortality
+titleAr: نموذج ثوراكوسكور: كون المريضة أنثى لا يزيد خطر الوفاة
+tags: thoracic/foundations d:evidence q:recall l:2
+palette: tavern amber, coffin black and Nami's orange
+keywords: Thoracoscore -> a giant wooden scoreboard balance standing on a treasure chest, its pan sinking toward a coffin (THORACO = chest, SCORE); age -> an old man's walking cane dropped onto the pan; malignant diagnosis -> a red crab dropped onto the pan; performance status -> a sick man lying in a hammock lowered onto the pan; female gender -> Nami stepping onto the pan while the needle stays still
+must: the cane, the crab and the hammock make the pan sink; when Nami stands on it the needle does NOT move
+scene: A tavern on a Grand Line island, warm amber light. A giant wooden scoreboard balance stands on top of a big treasure chest; its pan hangs over a black coffin and its needle points at a dial. Usopp, the long-nosed sniper, drops an old man's walking cane and a red crab onto the pan, and Sanji, the blond cook, lowers a sick man lying in a hammock onto it; with each one the pan sinks lower toward the coffin. CENTRE, dominant and brightest: Nami, the orange-haired navigator, steps lightly onto the pan with a smile, and the needle stays perfectly still.
+
+== 5
+# book 1.5: STS-GTDB models -> C, liver dysfunction is NOT associated with increased mortality.
+# Sanji's huge cooking pot shaped like a coffin -> the STS model's risk of death
+# an hourglass dropped into the pot -> age raises mortality
+# an induction cooker plate glowing under the pot -> induction therapy (chemotherapy or radiotherapy before surgery) raises mortality (keyword: INDUCTION hob)
+# a zebra-striped rolling pin dropped into the pot -> Zubrod score (performance status) raises mortality (keyword: ZU-BROD -> a ZEBRA ROD)
+# ANSWER: Sanji throws a slab of raw liver OUT of the pot into the sea -> liver dysfunction is not in the model's risk
+title: STS General Thoracic model: liver dysfunction is not a predictor of mortality
+titleAr: نموذج جمعية جرّاحي الصدر: اختلال وظيفة الكبد ليس منبئًا بالوفاة
+tags: thoracic/foundations d:evidence q:recall l:2
+palette: galley steel blue, flame red and liver brown
+keywords: STS model -> Sanji's huge black cooking pot shaped like a coffin (the risk of death); age -> an hourglass dropped into the pot; induction therapy -> an induction cooker plate glowing red under the pot (INDUCTION); Zubrod score -> a zebra-striped rolling pin dropped into the pot (ZU-BROD = zebra rod); liver dysfunction -> a slab of raw liver thrown out of the pot into the sea
+must: the hourglass and the striped rolling pin go INTO the pot; the slab of liver is thrown OUT of it
+scene: The galley of the Baratie, the floating sea restaurant, steel blue and flame red. A huge black cooking pot shaped like a coffin bubbles on a glowing red induction cooker plate. Luffy, the boy in the straw hat, drops an hourglass into the pot, and Zoro drops in a zebra-striped rolling pin. CENTRE, dominant and brightest: Sanji, the blond cook in a black suit, flings a big slab of raw dark-red liver OUT of the pot and through the open porthole toward the sea, kicking the pot's lid shut behind it.
+
+== 6
+# book 2.1: multiple right-sided rib fractures after a high-speed collision -> D, thoracic epidural analgesia improves outcomes.
+# the Sea Train Puffing Tom derailed against a rock -> high-speed collision
+# a sailor whose RIGHT side is cracked like broken wooden barrel staves -> multiple right-sided rib fractures
+# ANSWER: Chopper slips a thin straw into the middle of his spine, cool blue snow-light flows from it and he breathes deeply and smiles -> thoracic epidural analgesia improves outcomes
+# a toy breathing whistle with floating balls still in his hand -> incentive spirometry is useful (A is false)
+# an old sailor on the next stretcher groaning more -> the elderly fare worse (E is false)
+title: Multiple rib fractures: thoracic epidural analgesia improves outcomes
+titleAr: الكسور الضلعية المتعدّدة: التسكين فوق الجافية الصدري يحسّن النتائج
+tags: thoracic/trauma d:postoperative q:vignette l:1 x:high-yield
+palette: snow white and cool blue against rust and coal black
+keywords: high-speed collision -> the Sea Train Puffing Tom derailed against a rock; rib fractures -> the sailor's right side cracked like broken wooden barrel staves; thoracic epidural analgesia -> Chopper slipping a thin straw into the middle of the sailor's spine, cool blue snow-light flowing through it; incentive spirometry -> a toy breathing whistle with little floating balls in the sailor's hand; elderly patients -> an old sailor on the next stretcher groaning louder
+must: the cracks are on the sailor's RIGHT side; the blue light flows from the straw in his BACK and he breathes deeply and smiles
+scene: Beside the tracks of the Sea Train Puffing Tom, which lies derailed against a black rock, cold snow-blue light. CENTRE, dominant and brightest: a young sailor sits up on a stretcher; his right side is cracked like broken wooden barrel staves, but Tony Tony Chopper, the little reindeer doctor in a pink top hat, slips a thin straw into the middle of his back, and cool blue snow-light flows from it around the cracks; the sailor breathes in deeply and smiles. In his hand he holds a toy breathing whistle whose little balls float up as he breathes. On the next stretcher an old grey sailor with the same cracks groans much louder.
+
+== 7
+# book 2.2: resuscitative thoracotomy in the ED -> D, a penetrating anterior chest wound in a patient who becomes tachycardic and then pulseless (witnessed arrest after penetrating trauma).
+# a woman with a sword wound in the FRONT of her chest -> penetrating anterior chest wound
+# the drum of her heartbeat racing then falling silent, the drumsticks dropped -> tachycardic, then pulseless, in front of the doctor
+# ANSWER: Chopper flings open the side lid of the treasure chest she clutches, right there on the infirmary floor -> resuscitative thoracotomy in the emergency department (thoracotomy -> a treasure CHEST opened from its side)
+# a nun lying perfectly still on a flat white line under the mast, which Chopper passes by -> no cardiac activity after a fall: no thoracotomy (asystole, audited symbol)
+title: Resuscitative thoracotomy: for a penetrating chest wound that loses its pulse in front of you
+titleAr: فتح الصدر الإسعافي: لجرح صدري نافذ يفقد نبضه أمام الطبيب
+tags: thoracic/trauma d:indications q:vignette l:2 x:high-yield
+palette: emergency red and white, with treasure gold
+keywords: penetrating anterior chest wound -> a sword wound in the front of a woman's chest; tachycardia then pulselessness -> a little drum beating faster and faster beside her, then its sticks falling still; resuscitative thoracotomy -> Chopper flinging open the side lid of the treasure chest she clutches (a CHEST opened from its side); asystole -> a nun lying perfectly still on a flat white line under the mast
+must: the woman's wound is in the FRONT of her chest; Chopper opens the treasure chest at once, right where she fell; the nun lies on a flat white line far behind
+scene: The infirmary of the Thousand Sunny, harsh red emergency light and white sheets. CENTRE, dominant and brightest: a young woman pirate with a sword wound in the front of her chest has just collapsed to the floor, still clutching a golden treasure chest against her; beside her a little drum that was beating faster and faster has fallen silent, its sticks dropped. Tony Tony Chopper, the little reindeer doctor in a pink top hat, kneels and flings open the side lid of the treasure chest at once, light pouring out. FAR BACKGROUND, through the open door, under the mast: a nun lies perfectly still on a flat white line, and nobody runs to her.
+
+== 8
+# book 2.3: stable transmediastinal gunshot wound, normal chest film -> B, CT scan.
+# a cannonball hole straight through a pirate's chest from LEFT to RIGHT -> transmediastinal gunshot wound
+# the pirate standing calm and smiling, breathing easily -> haemodynamically stable, no distress
+# ANSWER: a cat slicing a long loaf, which has the same tunnel through it, into very thin slices to follow the track -> CT scan (the audited symbol)
+# Franky about to saw open the ship's stern down its centre line, held back by Robin's sprouted arms -> sternotomy is not the next step (D is false)
+title: Stable transmediastinal gunshot wound: CT scan next
+titleAr: طلق ناري عابر للمنصف عند مريض مستقرّ: الخطوة التالية تصوير مقطعي
+tags: thoracic/trauma d:diagnosis q:next-step l:2 x:high-yield
+palette: gunpowder grey, loaf gold and calm sky blue
+keywords: transmediastinal gunshot wound -> a cannonball hole straight through a pirate's chest from one side to the other; CT scan -> a cat slicing a long loaf of bread, with the same tunnel through it, into very thin slices with one sharp claw; sternotomy -> Franky about to saw open the ship's stern down its white centre line, held back by many arms sprouting from the deck
+must: the pirate stands calm and smiling; the cat's thin slices show the tunnel's track; Franky has NOT cut
+scene: The deck of the Thousand Sunny under a calm sky after a sea battle. LEFT: a pirate with a neat round cannonball hole straight through his chest from one side to the other stands calm, breathing easily and smiling. CENTRE, dominant and brightest: on a barrel in front of him, a sleek grey cat with one sharp claw slices a long loaf of golden bread, which has the same round tunnel straight through it, into very thin slices, and each slice shows where the tunnel runs. RIGHT, at the ship's stern: Franky, the blue-haired cyborg shipwright, lifts a saw to cut the stern open down its white centre line, but many slender arms sprouting from the deck hold his wrists back.
+
+== 9
+# book 2.4: haemopneumothorax with a chest tube -> E, an air leak is NOT an indication for thoracotomy.
+# a hose from a sailor's side pouring red into a bucket painted 2000 -> 2000 mL drained at once: thoracotomy (indication)
+# an hourglass beside a second bucket filling steadily -> ongoing loss over 250 mL an hour for 4 hours: thoracotomy (indication)
+# the treasure chest flung open over those buckets -> thoracotomy (a CHEST opened from its side)
+# ANSWER: a hose from another sailor bubbling only air into a water jar, and Chopper sitting on that sailor's padlocked treasure chest -> an air leak alone is not an indication
+title: An air leak alone is not an indication for thoracotomy after chest trauma
+titleAr: تسرّب الهواء وحده ليس استطبابًا لفتح الصدر بعد رضّ الصدر
+tags: thoracic/trauma d:indications q:numbers l:1
+palette: blood red and bubble blue on weathered timber
+words: 2000
+keywords: chest tube -> a garden hose coming out of a sailor's side; blood drained -> red pouring from the hose into a bucket painted 2000; ongoing loss -> a second bucket filling steadily beside an hourglass; thoracotomy -> a treasure chest flung open from its side; air leak -> the hose of another sailor bubbling only air into a clear water jar, his treasure chest padlocked with Chopper sitting on it
+must: the bubbling sailor's treasure chest stays PADLOCKED; the bleeding sailor's chest is open
+scene: The lower deck of a pirate ship after a battle, lantern light on weathered timber. LEFT: a sailor with a garden hose coming out of his side pours red into a big bucket painted 2000, and a second bucket fills steadily beside an hourglass; above them his treasure chest is flung open from its side by Zoro. CENTRE-RIGHT, dominant and brightest: another sailor sits calmly, his garden hose bubbling only clear air into a big glass jar of water, and Tony Tony Chopper, the little reindeer doctor in a pink top hat, sits cross-armed on top of this sailor's treasure chest, which is shut with a big padlock.
+
+== 10
+# book 2.5: side impact, abdominal pain, dyspnoea, left chest opaque -> E, insert a nasogastric tube (suspected diaphragmatic rupture with the stomach in the chest).
+# the side of the Sea Train carriage crushed in -> side-impact collision
+# Sanji's big cooking pot that has climbed up through a torn deck into the cabin on the boy's LEFT side -> the stomach herniated through a torn diaphragm (keyword: diaphragm -> the deck between the hold and the cabin)
+# ANSWER: Chopper slides a long thin garden hose in through the boy's nose down to the pot, letting out its steam -> nasogastric tube (decompresses and shows the stomach)
+# Zoro about to stab a spike into the boy's left side, stopped by Chopper's hoof -> a chest tube there could pierce the stomach (A is wrong)
+title: Opaque left chest after side impact: pass a nasogastric tube first
+titleAr: عتامة الصدر الأيسر بعد صدمة جانبية: أدخل أنبوبًا أنفيًّا معديًّا أوّلًا
+tags: thoracic/trauma d:diagnosis q:next-step l:2 x:trap
+palette: steam white, copper pot orange and train green
+keywords: side-impact collision -> the side of a Sea Train carriage crushed in; diaphragmatic rupture -> a torn deck between the hold and the cabin; stomach in the chest -> Sanji's big copper cooking pot that has climbed up through the torn deck into the boy's left side; nasogastric tube -> a long thin garden hose slid in through the boy's nose down to the pot, letting its steam out; chest tube -> Zoro about to stab a spike into the boy's left side
+must: the pot sits on the boy's LEFT side, above the torn deck; Zoro's spike is stopped BEFORE it goes in
+scene: Inside a Sea Train carriage whose side has been crushed in by the crash, green walls and hissing steam. CENTRE, dominant and brightest: a young passenger holds his belly in pain; on his left side a big copper cooking pot has climbed up through a torn hole in the deck floor and sits high up beside his chest, and Tony Tony Chopper, the little reindeer doctor in a pink top hat, slides a long thin garden hose in through the boy's nose and down to the pot, so a jet of steam whistles out of it. RIGHT: Zoro raises a sharp iron spike toward the boy's left side, but Chopper's raised hoof stops him.
