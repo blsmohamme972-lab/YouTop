@@ -8,6 +8,12 @@ Updated 2026-11-21 (evening). Whoever works on YouTop next: read `CLAUDE.md`, th
 
 **Two books are in progress. Nothing is waiting on the agent except what the owner asks; work only when asked.**
 
+**IN PROGRESS (2026-11-21, night, session_012MyNmqmmG9ub2J54gmSHZY, alone): Johns Hopkins 151-422 are being written**
+(tables, scenes, prompts, stories, quotations, explanations) in batches of ten, each saved to `drafts/johns-hopkins-2016/`
+and merged to main as it is done. The owner asked for it overnight, with an hourly wake-up scheduled task
+(trig_01PU9vpvigNUp6wUdpdP37Yc) to resume after a usage-limit pause; disable it when 422 is reached. Other sessions:
+do not write 151+ in parallel; pictures, voices and publishing of 1-150 are unaffected.
+
 **Update (2026-11-21, ~15:45 UTC, a new session): JOHNS HOPKINS 2016: 82 LESSONS PUBLISHED.**
 - The owner had uploaded 82 JH pictures (11:06-11:52 UTC; the handoff below missed them). All 82 are published
   (`publish.py --complete-only`): 1-100 except the 18 still without a picture: **11, 14, 23, 26, 31, 36, 38, 54, 59,
