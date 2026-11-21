@@ -1,0 +1,338 @@
+book: medcosmos-cardiac
+# MedCosmos Cardiac, questions 121-130, written to the owner's five picture rules and the audited symbols
+# (content/symbols.json). Theme: New York City. Quotations: Rumi, the Masnavi (from memory, translated).
+
+== 121
+# A premature infant in respiratory distress with a continuous machinery murmur -> B (with large pulmonary arteries a PDA is likely) and E (normal ductal closure depends on a rising oxygen saturation).
+# A (coarctation), C (prostaglandin constricts the duct), D (delay repair until the lungs improve) are false.
+# a tiny premature penguin chick gasping in a glass box -> premature infant in respiratory distress
+# cement mixer roaring nonstop -> continuous machinery murmur
+# ANSWER B: a wide-open duct-tape tunnel between the orca and the dollar pipes, the dollar pipes swollen huge -> large pulmonary arteries mean a PDA
+# ANSWER E: a huge ox in an oxygen mask breathing on the tunnel, which starts to pinch shut where its breath reaches -> rising oxygen closes the duct
+title: Machinery murmur in a premature infant: large pulmonary arteries mean a PDA, and oxygen closes the duct
+titleAr: نفخة آلية عند خديج: الشرايين الرئوية الكبيرة تعني قناة شريانية مفتوحة، والأكسجين يغلق القناة
+tags: cardiac/congenital d:physiology d:diagnosis q:vignette l:2
+palette: warm incubator amber, shiny silver duct tape, swollen green dollar pipes, cool blue night
+keywords: ductus arteriosus -> a tunnel of shiny silver duct tape between the orca and the money pipe; continuous murmur -> a cement mixer roaring nonstop; large pulmonary arteries -> the pipes of green dollar bills swollen huge; oxygen -> a huge ox wearing a clear oxygen mask; aorta -> a toy orca
+must: the dollar pipes are SWOLLEN huge; the ox's breath makes the tunnel pinch shut where it reaches
+scene: Night in the penguin nursery of the Central Park Zoo. A tiny premature penguin chick gasps in a warm glass box. CENTRE, dominant and brightest: above the box a wide-open tunnel of shiny silver duct tape joins a toy orca to two pipes stuffed with green dollar bills, and the dollar pipes are swollen huge, bulging at their seams. A huge ox wearing a clear oxygen mask breathes on the tunnel, and where its breath reaches, the tape starts to pinch shut. RIGHT, through the glass wall: a cement mixer on a building site roars nonstop.
+story:
+في ليلة باردة في حديقة حيوان سنترال بارك، فقس فرخ بطريق قبل أوانه، فأخذ يلهث في صندوقه الزجاجيّ.
+ومن ورشة البناء خلف الجدار الزجاجيّ، هدرت خلّاطة إسمنت هديرًا مستمرًّا لا ينقطع.
+فقالت الحارسة جون: «ليس هذا هدير الورشة وحدها؛ في صدر الصغير خلّاطة أخرى.»
+وكان فوق الصندوق نفق من شريط لاصق فضّيّ، مفتوح على سعته، بين حوت قاتل من الألعاب وأنبوبين من الدولارات.
+وقد انتفخ الأنبوبان حتّى كادت دروزهما تنفتق.
+فقال الطبيب البيطريّ العجوز سول: «إذا رأيت أنابيب المال منتفخةً هكذا، فالنّفق هو الجاني.»
+ثمّ جاء ثور ضخم يلبس قناعًا شفّافًا، فأخذ يتنفّس على النفق.
+فحيث بلغت أنفاسه، أخذ الشريط ينكمش وينغلق.
+فقال سول: «هكذا ينغلق النفق عند كلّ مولود؛ بالهواء الغنيّ يمرّ عليه.»
+فمسحت جون على رأس الفرخ الصغير وقالت:
+quote: «لا يدرك حال الناضج أيّ نيء؛ فينبغي أن يكون الكلام قصيرًا، والسّلام.»
+source: المثنوي، الكتاب الأول
+explanation:
+In a premature infant with respiratory distress, a continuous machinery murmur most likely comes from a patent ductus arteriosus, not coarctation.
+Large pulmonary arteries on imaging reflect the extra pulmonary flow of a left-to-right ductal shunt, so a PDA is likely: statement B is true.
+Normal closure of the duct after birth depends on the rise in oxygen tension, together with the fall in circulating prostaglandins: statement E is true.
+So B and E are the answer.
+Prostaglandin keeps the duct open rather than constricting it, and a significant duct in a ventilated premature infant is closed early, medically or surgically, not after the lungs improve.
+
+== 122
+# A neonate in heart failure with truncus arteriosus, a VSD and truncal valve stenosis -> A (natural history allows only about 20% one-year survival) and D (repair requires an extracardiac conduit).
+# B (the truncal valve is usually bicuspid; it is usually tricuspid), C (the pulmonary arteries' origin protects against obstructive disease) and E (repair at 6-12 months) are false.
+# one thick tree trunk rising from both engine rooms astride the hole, the orca and dollar pipes branching off it -> truncus arteriosus with a VSD
+# yellow taxis gridlocked -> heart failure
+# ANSWER A: a row of five baby cradles, only one of them lit at the end of the year -> about 20% survive one year untreated
+# ANSWER D: a clear twisting waterslide tube laid OUTSIDE the hotel wall from the blue engine room to the dollar pipes -> an extracardiac conduit
+title: Truncus arteriosus: only about one in five survive a year untreated, and repair needs an extracardiac conduit
+titleAr: الجذع الشرياني المشترك: يعيش نحو واحد من خمسة سنةً دون علاج، ويحتاج الإصلاح أنبوبًا خارج القلب
+tags: cardiac/congenital d:pathology d:technique q:vignette l:2
+palette: autumn bark brown, clear aqua waterslide, five white cradles, yellow taxis
+keywords: truncus arteriosus -> one thick tree trunk rising from both engine rooms, astride the hole in the party wall, with the orca and the pipes of dollar bills branching off it; congestive heart failure -> a traffic jam of yellow taxis gridlocked; conduit -> a clear twisting waterslide tube from the blue engine room to the pipe of dollar bills; one-year survival 20% -> five baby cradles in a row, only one still lit
+must: ONE trunk rises over the hole from BOTH engine rooms; the waterslide runs OUTSIDE the wall; of the five cradles only ONE is lit
+scene: The old Brooklyn hotel with a stag's head over its door, seen cut open like a doll's house on an autumn evening; yellow taxis are gridlocked outside. CENTRE, dominant and brightest: one thick tree trunk rises out of both engine rooms, astride a hole in the party wall, and a giant orca parade balloon and two pipes stuffed with green dollar bills branch off its top. A workman lays a clear, twisting waterslide tube along the OUTSIDE of the hotel wall, from the blue engine room up to the dollar pipes. FOREGROUND: five white baby cradles in a row, only one of them still lit.
+story:
+في مساء خريفيّ، تلاصقت سيّارات الأجرة أمام فندق الأيّل، لا تتقدّم شبرًا.
+وفي الداخل، ارتفع جذع شجرة واحد غليظ من غرفتي المحرّكات كلتيهما، راكبًا على الثغرة الّتي في الجدار.
+ومن أعلى الجذع تفرّع الحوت الكبير وأنبوبا الدولارات، كأغصان من شجرة واحدة.
+وكان باب الجذع ضيّقًا، يصفّر كلّما مرّ به الماء.
+وفي المقدّمة خمسة مهود بيضاء في صفّ، لم يبق مضيئًا منها إلّا واحد.
+فقالت المديرة بيرل: «من كلّ خمسة من أهل هذا الجذع، لا يبلغ عامه الأوّل إلّا واحد إن تركوا.»
+فجاء عامل بأنبوب زلّاقة مائيّة شفّاف ملتو، فمدّه على جدار الفندق من الخارج.
+من الغرفة الزرقاء إلى أنبوبي المال، فصار للمال طريقه وحده.
+فقال الحارس سام: «ولا ننتظر به الشهور؛ نصلحه وهو في مهده الأوّل.»
+فنظرت بيرل إلى المهد المضيء وقالت:
+quote: «اقطع القيد وكن حرًّا يا بنيّ؛ إلى متى تبقى أسير الفضّة والذّهب؟»
+source: المثنوي، الكتاب الأول
+explanation:
+In truncus arteriosus a single great artery leaves the heart over a VSD and gives rise to the aorta and the pulmonary arteries.
+Untreated, it carries a grim natural history, with only about 20% surviving the first year: statement A is true.
+Repair closes the VSD to the truncus and connects the right ventricle to the pulmonary arteries with an extracardiac conduit: statement D is true.
+So A and D are the answer.
+The truncal valve is most often tricuspid, the unrestricted pulmonary flow causes early pulmonary vascular disease, and repair is done in the neonatal period, not at 6 to 12 months.
+
+== 123
+# A neonate with hypoplastic left heart syndrome -> all true: A (prostaglandin first), B (keep PaCO2 about 40 mmHg), C (survival depends on an open ductus), D (transplant includes the donor aortic arch), E (the Norwood makes the pulmonary artery the outlet of the single ventricle).
+# a toy plastic hippo wedged into a red wing shrunk to doll size -> hypoplastic left heart
+# ANSWER A and C: a raised beer stein propping the duct-tape tunnel open, the whole hotel's flow going through it -> prostaglandin keeps the duct open; survival depends on it
+# ANSWER B: a ventilator dial pinned at 40, a nurse keeping the man with the paper bag away -> PaCO2 about 40, do not hyperventilate
+# ANSWER D: a crane lowering a whole new red wing with its orca arch attached -> transplant includes the donor arch
+# ANSWER E: a Norwegian woodcutter joining the dollar pipe to the orca's tail so the pipe becomes the main outlet -> Norwood reconstruction
+title: Hypoplastic left heart: prostaglandin, a PaCO2 near 40, then a Norwood or a transplant with the donor arch
+titleAr: متلازمة نقص تنسّج القلب الأيسر: بروستاغلاندين، وضغط ثاني أكسيد الكربون نحو ٤٠، ثم نوروود أو زرع مع قوس المتبرّع
+tags: cardiac/congenital d:technique d:postoperative q:vignette l:3
+palette: dawn violet, toy-hippo grey, foaming gold beer, Norwegian red flannel
+words: 40
+keywords: hypoplastic left heart syndrome -> a little plastic toy hippo wedged into a red wing shrunk to doll size; prostaglandin -> a raised beer stein, "Prost!", propping the duct-tape tunnel open; ductus arteriosus -> a tunnel of shiny silver duct tape between the orca and the money pipe; hyperventilation -> a man breathing fast into a brown paper bag; heart transplantation with the donor arch -> a crane lowering a whole new red wing with its own orca arch attached; Norwood -> a NORwegian WOODcutter in red flannel joining the dollar pipe to the orca's tail so the pipe becomes the main outlet
+must: the red wing is SHRUNK to doll size with the hippo wedged in; the stein props the tunnel OPEN; the paper-bag man is turned away; the crane's new wing carries its own orca arch
+scene: The old Brooklyn hotel with a stag's head over its door at dawn, seen cut open like a doll's house: its blue wing full size, its red wing shrunk to doll size with a little plastic toy hippo wedged inside it. CENTRE, dominant and brightest: all the hotel's flow pours through a wide tunnel of shiny silver duct tape joining a pipe of green dollar bills to a giant orca balloon, and a raised foaming beer stein props the tunnel open. LEFT: a Norwegian woodcutter in red flannel joins the dollar pipe to the orca's tail with an axe and rope, making the pipe the main outlet. RIGHT: a crane lowers a whole new red wing with its own orca arch attached. By the door, a nurse watches a ventilator dial pinned at 40 and turns away a man breathing fast into a brown paper bag.
+story:
+عند الفجر في فندق الأيّل، كان الجناح الأزرق بحجمه الكامل، والجناح الأحمر قد صغر حتّى صار كبيت دمية.
+وفي داخله فرس نهر صغير من البلاستيك، محشور لا يتحرّك.
+فكان ماء الفندق كلّه يمرّ من نفق الشريط اللاصق، من أنبوب المال إلى الحوت.
+فرفعت الممرّضة لوسي كأس بيرة مزبدةً وصاحت: «بروست!» ثمّ أسندت بها النفق ليبقى مفتوحًا.
+وقالت: «ما دام هذا النفق مفتوحًا عاش الصغير؛ فإن انغلق مات.»
+وعند الباب، كانت تراقب قرص جهاز التنفّس ثابتًا عند أربعين، وردّت رجلًا يلهث في كيس من الورق.
+وقالت له: «لا نريد لهاثك هنا؛ نبقيه عند الأربعين.»
+وإلى اليسار، وصل حطّاب نرويجيّ بقميص أحمر أنبوب المال بذيل الحوت، فصار الأنبوب هو المخرج الكبير.
+وإلى اليمين، أنزلت رافعة جناحًا أحمر جديدًا كاملًا، ومعه قوس حوته.
+فنظرت لوسي إلى الحطّاب والرّافعة وقالت:
+quote: «لو كنت مقرونًا بشفة صاحبي، لقلت مثل الناي ما ينبغي أن يقال.»
+source: المثنوي، الكتاب الأول
+explanation:
+In hypoplastic left heart syndrome the systemic circulation depends on the ductus arteriosus, so prostaglandin is started at once and survival depends on keeping the duct open: statements A and C are true.
+Ventilation keeps the PaCO2 around 40 mmHg, avoiding hyperventilation, which lowers pulmonary resistance and steals flow from the body: statement B is true.
+Transplantation for this lesion uses the donor aortic arch to rebuild the small recipient arch: statement D is true.
+The Norwood reconstruction makes the pulmonary artery the main outlet of the single functional ventricle: statement E is true.
+So all five statements are true: A, B, C, D and E.
+
+== 124
+# A 52-year-old with aortic stenosis, new angina and one syncope -> D (a gradient over 50 mmHg would be an indication for operation).
+# A (angina means coronary disease), B (balloon valvuloplasty), C (no operation without heart failure) are false.
+# the orca's mouth pinched narrow -> aortic stenosis
+# a heavy stone angel on the man's chest -> angina
+# the man fainting onto a red velvet couch -> syncope
+# ANSWER D: a brass dial beside the narrow mouth reading 50, a dentist arriving with new dentures -> a gradient over 50 mmHg: operate (valve replacement)
+title: Aortic stenosis with angina and syncope: a gradient over 50 mmHg means operation
+titleAr: تضيّق الأبهر مع ذبحة وغشي: مَمال يزيد على ٥٠ يعني الجراحة
+tags: cardiac/aortic-valve d:indications q:vignette l:2
+palette: late-afternoon gold, black-and-white orca, grey stone angel, red velvet couch
+words: 50
+keywords: aortic stenosis -> the orca balloon's mouth pinched narrow; angina -> a heavy stone angel sitting on a man's chest; syncope -> a man fainting backwards onto a red velvet couch; aortic valve replacement -> a dentist fitting brand-new dentures into the orca balloon's mouth; pressure gradient -> a brass dial with a big number
+must: the dial reading 50 is beside the narrow mouth; the dentist is on his way with new dentures
+scene: A hotel lobby in Manhattan, late afternoon gold light. CENTRE, dominant and brightest: a giant orca parade balloon's mouth is pinched narrow, and a brass dial beside the mouth reads 50; a dentist climbs a ladder toward it carrying a set of brand-new dentures. Below, a 52-year-old man faints backwards onto a red velvet couch, a heavy stone angel sitting on his chest.
+story:
+في عصر ذهبيّ في بهو فندق في مانهاتن، جلس السيّد هارولد، في الثانية والخمسين.
+وكان يعرف منذ سنين أنّ فم الحوت الكبير في فندقه قد ضاق.
+لكنّ ملاكًا حجريًّا ثقيلًا جلس على صدره في الأيّام الأخيرة.
+ثمّ سقط مرّةً مغشيًّا عليه إلى الوراء على أريكة المخمل الأحمر.
+فقال: «لم يتوقّف قلبي، ولم تتلاصق السيّارات؛ فلماذا العمل الآن؟»
+فأشارت الممرّضة لوسي إلى قرص نحاسيّ إلى جانب الفم الضيّق يقرأ: خمسين.
+وقالت: «الملاك والسّقوط يكفيان إنذارًا؛ وإذا جاوز القرص الخمسين فلا ننتظر القصور.»
+وصعد طبيب أسنان على سلّمه نحو فم الحوت، يحمل طقم أسنان جديدًا.
+فقال الحارس سام: «البالون الصغير لا يصلح لهذا الفم؛ الأسنان الجديدة هي الحلّ.»
+فتنهّد هارولد وهو يرى الطبيب يصعد، فقالت لوسي:
+quote: «إن مضت الأيّام فقل: امضي، لا بأس؛ وابق أنت، يا من لا طاهر مثلك.»
+source: المثنوي، الكتاب الأول
+explanation:
+In aortic stenosis, angina and syncope are themselves classic symptoms of severe obstruction, and they call for valve replacement.
+A measured transvalvular gradient over 50 mmHg is an operative indication: D is the answer.
+Angina in aortic stenosis can occur without coronary disease, from hypertrophy and raised wall stress.
+Balloon valvuloplasty gives poor and short-lived results in adults, and an operation is not deferred until heart failure appears.
+
+== 125
+# The patient (the book says with aortic insufficiency) in profound heart failure -> C (furosemide and nitroglycerin are appropriate) and D (valve replacement is necessary).
+# A (vasodilators contraindicated) and B (an intra-aortic balloon pump to raise output) are false: the balloon worsens aortic regurgitation.
+# the orca's mouth sagging and dripping water back -> aortic insufficiency
+# yellow taxis gridlocked -> profound heart failure
+# ANSWER C: a cowboy's lasso pulling water out of the flooded lobby, and a fizzing stick of nitro gently blasting the garage doors open -> furosemide and nitroglycerin
+# ANSWER D: a dentist fitting new dentures into the orca's mouth -> valve replacement is necessary
+# a sausage balloon left on the shelf, a nurse shaking her head -> no intra-aortic balloon in aortic insufficiency
+title: Aortic regurgitation in severe failure: furosemide and nitroglycerin now, valve replacement, no balloon pump
+titleAr: قلس الأبهر مع قصور شديد: فوروسيميد ونتروغليسرين الآن، ثم استبدال الصمام، ولا مضخة بالونية
+tags: cardiac/aortic-valve d:indications d:pharmacology q:vignette l:2
+palette: stormy grey dusk, dripping water silver, cowboy leather, fizzing dynamite orange
+keywords: aortic insufficiency -> the orca balloon's mouth sagging and dripping water back; congestive heart failure -> a traffic jam of yellow taxis gridlocked; furosemide -> a cowboy's lasso pulling water out of a flooded room; nitroglycerin -> a fizzing stick of NITRO dynamite gently blasting the garage doors open; aortic valve replacement -> a dentist fitting brand-new dentures into the orca balloon's mouth; intra-aortic balloon pump -> a long sausage-shaped balloon left on the shelf
+must: the orca's mouth DRIPS water back; the sausage balloon stays ON THE SHELF, not used
+scene: The old Brooklyn hotel with a stag's head over its door on a stormy dusk, seen cut open like a doll's house; outside, yellow taxis are gridlocked. CENTRE, dominant and brightest: a giant orca parade balloon's mouth sags and drips water back into the red room, and a dentist on a ladder fits brand-new dentures into it. In the flooded lobby a cowboy pulls the water out with his lasso, and a fizzing stick of nitro dynamite gently blasts the garage doors open so the taxis can move. On a shelf lies a long pink sausage-shaped balloon; a nurse beside it shakes her head.
+story:
+في غسق عاصف أمام فندق الأيّل، تلاصقت سيّارات الأجرة، لا تتحرّك.
+وفي الداخل، قد ارتخى فم الحوت الكبير، فالماء يقطر منه راجعًا إلى الغرفة الحمراء.
+حتّى غمر الماء البهو كلّه.
+فدخل راعي بقر بأنشوطته، وأخذ يخرج الماء من البهو ربقةً بعد ربقة.
+وأشعل عامل عود ديناميت صغيرًا، فانفتحت أبواب المرأب برفق، وتحرّكت السيّارات.
+وعلى رفّ قريب بالون نقانق ورديّ طويل، فهمّ الحارس سام أن يأخذه.
+فهزّت الممرّضة لوسي رأسها: «لا يا سام؛ هذا البالون يدفع الماء إلى الفم المفتوح، فيزيد الرجوع.»
+ثمّ صعد طبيب الأسنان على سلّمه، وركّب في فم الحوت طقمًا جديدًا.
+فقالت لوسي: «الأنشوطة والدّيناميت يريحانه الليلة؛ لكنّ الفم لا يصلحه إلّا الطقم الجديد.»
+فتوقّف القطر، فقالت لوسي:
+quote: «كلّ ليلة تخلّص الأرواح من شرك الجسد، وتمحو الألواح.»
+source: المثنوي، الكتاب الأول
+explanation:
+The book calls this patient's lesion aortic insufficiency, now with profound heart failure.
+Diuresis with furosemide and venodilation with nitroglycerin are appropriate medical measures: statement C is true.
+Valve replacement is necessary: statement D is true, so C and D are the answer.
+Peripheral vasodilators are useful in aortic regurgitation, not contraindicated, and the intra-aortic balloon pump is contraindicated, because diastolic inflation worsens the regurgitation.
+
+== 126
+# A 42-year-old woman with fatigue and an opening snap -> C (mural thrombi and thromboembolism are directly related to atrial fibrillation).
+# A (critical stenosis at 2 cm2; it is about 1 cm2), B (AF hardly changes output), D (low output from weak muscle) are false.
+# a bishop's mitre whose two leaves are fused nearly shut -> mitral stenosis
+# a black umbrella snapping open -> opening snap
+# ANSWER C: Pinocchio trembling in the red lobby, and black bowling balls forming in the still corner beside him and rolling out -> atrial fibrillation brings mural thrombi and emboli
+title: Mitral stenosis: thrombi and emboli come with atrial fibrillation
+titleAr: تضيّق الصمام التاجي: الخثرات والصمّات تأتي مع الرجفان الأذيني
+tags: cardiac/mitral-tricuspid d:pathology d:complications q:vignette l:2
+palette: deep crimson lobby, bishop's gold-and-white mitre, black umbrella, glossy black bowling balls
+keywords: mitral stenosis -> a bishop's mitre whose two leaves are fused nearly shut in the floor of the red lobby; opening snap -> a black umbrella snapping open; atrial fibrillation -> Pinocchio, his long nose growing, trembling all over in the upper glass lobby; thromboembolism -> black bowling balls rolling out through the pipes and knocking things over
+must: the bowling balls form in the corner WHERE Pinocchio trembles and roll out from there
+scene: The red upper lobby of the old Brooklyn hotel with a stag's head over its door, seen cut open like a doll's house. In its floor a bishop's mitre whose two leaves are fused almost shut, and beside it a black umbrella snaps open with a loud crack. CENTRE, dominant and brightest: Pinocchio, his long nose growing, trembles all over in the lobby, and in the still corner behind him black bowling balls slowly form and roll out through the pipes, knocking things over. A tired woman of forty-two leans on the stair rail, out of breath.
+story:
+في البهو الأحمر من فندق الأيّل، وقفت إيلين، في الثانية والأربعين، تلهث على درج السلّم.
+كانت تتعب كلّ يوم أسرع من اليوم الّذي قبله.
+وفي أرض البهو تاج أسقف قد التصقت دفّتاه حتّى كادتا تنغلقان.
+وإلى جانبه مظلّة سوداء تنفتح بطقّة عالية مع كلّ نبضة.
+ثمّ ظهر بينوكيو في البهو، وأنفه يطول، وأخذ يرتجف كلّه.
+وفي الزاوية الساكنة خلفه، أخذت كرات بولينغ سوداء تتكوّن على مهل.
+ثمّ تدحرجت منها كرة عبر الأنابيب، فأسقطت ما في طريقها.
+فقالت المديرة بيرل: «ما كانت الكرات تتكوّن قبله؛ حيث يرتجف بينوكيو يركد الماء وتولد الكرات.»
+فقال الحارس سام: «إذن نحرسها منه قبل أن نفتح التاج.»
+فأمسكت إيلين بالدّرابزين، فقالت بيرل:
+quote: «الناي رفيق كلّ من فارق حبيبًا، وأنغامه مزّقت حجبنا.»
+source: المثنوي، الكتاب الأول
+explanation:
+An opening snap and growing fatigue suggest mitral stenosis.
+Mural thrombi and thromboembolism in mitral stenosis are directly related to atrial fibrillation, which leaves blood stagnant in the left atrium: C is the answer.
+Critical mitral stenosis is an orifice of about 1 square centimetre, not 2.
+With a fixed orifice, the onset of atrial fibrillation lowers the cardiac output markedly, and the low output comes from the obstruction, not from weak muscle.
+
+== 127
+# Valvular heart disease -> C (stenosis is the commonest lesion of the aortic valve) and D (rheumatic heart disease is the commonest cause of valve dysfunction, in the book).
+# A (mitral stenosis is the commonest lesion) and B (the aortic valve is the most anterior; the pulmonary is) are false.
+# ANSWER C: the orca's mouth pinched narrow, wearing a blue first-prize rosette -> aortic stenosis is the commonest aortic lesion
+# ANSWER D: a long chain of red beads winding through every valve door of the hotel, scarring each one, with a blue rosette -> rheumatic heart disease, the commonest cause (worldwide)
+# the dollar pipe's mouth standing in front of all the others -> the pulmonary valve is the most anterior (B is false)
+title: Valve disease: stenosis is the commonest aortic lesion, and rheumatic disease the commonest cause
+titleAr: أمراض الصمامات: التضيّق أشيع آفات الصمام الأبهري، والحمّى الرثوية أشيع الأسباب
+tags: cardiac/aortic-valve cardiac/mitral-tricuspid d:pathology q:recall l:1
+palette: museum white light, black-and-white orca, scarlet bead chain, two blue rosettes
+keywords: aortic stenosis -> the orca balloon's mouth pinched narrow; rheumatic heart disease -> a long chain of scarlet beads winding through every valve door of the hotel and scarring each one; most common -> a big blue first-prize rosette; pulmonary valve -> the mouth of the pipe of dollar bills
+must: TWO blue rosettes, one on the narrow orca mouth and one on the bead chain; the dollar pipe's mouth stands in FRONT of all the others
+scene: The old Brooklyn hotel with a stag's head over its door, shown as a museum model under bright white light, cut open like a doll's house. CENTRE, dominant and brightest: a giant orca parade balloon's mouth pinched narrow, a big blue first-prize rosette pinned beside it. A long chain of scarlet beads winds through every valve door of the hotel, leaving a scar on each door it passes, and a second blue first-prize rosette hangs from the chain. At the very front of the model, ahead of all the others, stands the open mouth of a pipe stuffed with green dollar bills.
+story:
+في متحف في مانهاتن، وضع نموذج لفندق الأيّل تحت ضوء أبيض ساطع.
+فجاء معلّم عجوز بتلاميذه، وأشار إلى فم الحوت الضيّق في النموذج.
+وإلى جانب الفم شارة زرقاء كبيرة للجائزة الأولى.
+فقال: «أكثر ما يصيب هذا الفم أن يضيق، لا أن يسيل.»
+ثمّ أشار إلى سلسلة طويلة من الخرز القرمزيّ، تلتفّ على أبواب الفندق كلّها، وتترك على كلّ باب ندبة.
+وعلى السلسلة شارة زرقاء ثانية.
+فقال: «وهذه السلسلة في هذا الكتاب أكثر ما يفسد الأبواب، وما زالت كذلك في أكثر بلاد الدنيا.»
+فسألته تلميذة: «وأيّ الأبواب أقرب إلينا من الأمام؟»
+فأشار إلى فم أنبوب الدولارات قائمًا في مقدّمة النموذج قبل الجميع، ثمّ قال:
+quote: «كان القلم يسرع في الكتابة، فلمّا بلغ العشق انشقّ القلم على نفسه.»
+source: المثنوي، الكتاب الأول
+explanation:
+Stenosis is the commonest lesion of the aortic valve: statement C is true.
+In the book, rheumatic heart disease is the commonest cause of valve dysfunction, which remains true worldwide: statement D is true.
+So C and D are the answer.
+Mitral stenosis is not the commonest valve lesion overall, and the most anterior valve is the pulmonary valve, not the aortic.
+
+== 128
+# A 47-year-old with heart failure, an early diastolic murmur, an apical rumble and BP 148/45 -> A (the chest film shows cor bovinum).
+# B (the rumble is the Gallavardin phenomenon; it is the Austin Flint murmur), C (carotid shudder) and D (pulsatile liver) are false.
+# the orca's mouth sagging and dripping water back -> aortic regurgitation
+# a brass dial reading 148/45 -> wide pulse pressure
+# ANSWER A: a giant cow squeezed into the hotel, its walls bulging around her -> cor bovinum: a huge heart on the film
+# a flint stone striking sparks at the bishop's mitre -> the apical rumble is the Austin Flint murmur
+title: Chronic aortic regurgitation: a wide pulse pressure and a huge heart, cor bovinum
+titleAr: قلس الأبهر المزمن: فرق نبضي واسع وقلب ضخم كقلب البقر
+tags: cardiac/aortic-valve d:diagnosis q:vignette l:2
+palette: pastoral green and cream cow, brass dial, sparks of flint yellow, dusk blue
+words: 148/45
+keywords: aortic regurgitation -> the orca balloon's mouth sagging and dripping water back; cor bovinum -> a giant brown-and-white cow squeezed into the hotel, its walls bulging around her; wide pulse pressure -> a brass dial reading 148/45; Austin Flint murmur -> a flint stone striking sparks at the bishop's mitre; mitral valve -> a bishop's mitre
+must: the hotel bulges ALL ROUND the cow; the dial reads 148/45; the orca's mouth drips back
+scene: The old Brooklyn hotel with a stag's head over its door at dusk. CENTRE, dominant and brightest: a giant brown-and-white cow is squeezed inside the hotel, its walls, windows and roof bulging out all round her. Above the hotel a giant orca parade balloon's mouth sags and drips water back into it. On the front a brass dial reads 148/45. Inside, by the bishop's mitre in the floor of the red lobby, a man strikes a flint stone and sparks fly.
+story:
+عند الغسق أمام فندق الأيّل، وقف الناس يحدّقون مدهوشين.
+فقد انحشرت في الفندق بقرة عملاقة بنّيّة وبيضاء، فانتفخت جدرانه ونوافذه وسقفه من حولها.
+وفوق الفندق ارتخى فم الحوت الكبير، فالماء يقطر منه راجعًا إلى الداخل.
+وعلى الواجهة قرص نحاسيّ يقرأ: مئة وثمانية وأربعون على خمسة وأربعين.
+فقالت الممرّضة لوسي: «أعلاه مرتفع وأسفله هابط؛ هكذا يفعل الفم الّذي يرجع الماء.»
+وفي الداخل، عند تاج الأسقف في أرض البهو الأحمر، ضرب رجل حجر صوّان فتطاير الشرر.
+فقال الحارس سام: «هذا الهدير عند التاج من الماء الراجع يضرب دفّتيه، لا من عيب فيه.»
+ثمّ نظر إلى الجدران المنتفخة وقال: «سنين وهو يتّسع ليحمل هذا الماء كلّه، حتّى صار قلب بقرة.»
+فخارت البقرة في الداخل، فقالت لوسي:
+quote: «هذا اللسان كالحجر، وكالحديد أيضًا؛ وما يقدح من اللسان كالنّار.»
+source: المثنوي، الكتاب الأول
+explanation:
+An early diastolic murmur, a wide pulse pressure of 148/45 mmHg and heart failure point to chronic aortic regurgitation.
+The left ventricle dilates enormously, so the chest film shows cor bovinum, a huge heart: A is the answer.
+The apical diastolic rumble is the Austin Flint murmur, not the Gallavardin phenomenon, which belongs to aortic stenosis.
+A carotid shudder belongs to aortic stenosis, and a pulsatile liver to tricuspid regurgitation.
+
+== 129
+# Adaptation to valve dysfunction -> A (severe failure is more likely from acute than from chronic dysfunction) and B (valve dysfunction loads the heart with both volume and pressure).
+# C (early dilatation depresses output on the Frank-Starling curve) and D (Laplace: wall stress falls as the radius grows; it rises) are false.
+# ANSWER A: two hotels: one whose valve door was torn off overnight, its taxis jammed and its walls cracking; the other slowly stretched over years, calm -> acute dysfunction causes severe failure
+# ANSWER B: a worker carrying heavy water barrels in (volume) and another pushing against a stuck press (pressure) -> volume and pressure load
+# a balloon stretched wider and its skin thinning and straining -> Laplace: a bigger radius raises wall stress
+title: Valve dysfunction: acute lesions cause severe failure, and the heart bears both volume and pressure loads
+titleAr: خلل الصمامات: الحادّ يسبّب قصورًا شديدًا، والقلب يحمل عبء الحجم وعبء الضغط معًا
+tags: cardiac/foundations d:physiology q:recall l:2
+palette: split night and day, storm grey on the left, calm gold on the right, steel barrels
+keywords: acute valve dysfunction -> a valve door torn off overnight; congestive heart failure -> a traffic jam of yellow taxis gridlocked; volume load -> a worker hauling heavy barrels of water into the engine room; pressure load -> a worker straining against a stuck iron press; Laplace -> a red balloon stretched wider, its skin thinning and straining
+must: the torn-door hotel is in CRISIS and the slowly stretched one is CALM; both workers are in the same engine room
+scene: Two copies of the old Brooklyn hotel with a stag's head stand side by side, seen cut open like doll's houses. LEFT, dominant and brightest, in a stormy night: its valve door was torn off overnight, water floods back, its walls crack and yellow taxis are gridlocked outside. RIGHT, in calm golden daylight: the same hotel slowly stretched wider over years, still standing quietly. In the left hotel's engine room, one worker hauls heavy barrels of water in while another strains against a stuck iron press. On its roof a red balloon is stretched wider and wider, its skin thinning and straining.
+story:
+وقف فندقان من فنادق الأيّل جنبًا إلى جنب، كأنّهما أخوان توأمان.
+في الأيسر انخلع باب الصمام في ليلة واحدة، فاندفع الماء راجعًا، وتشقّقت الجدران.
+وتلاصقت سيّارات الأجرة أمامه في العاصفة، لا تتحرّك.
+وفي الأيمن، اتّسع الفندق على مهل سنين طويلة، فبقي هادئًا في ضوء النهار.
+فقالت المديرة بيرل: «الّذي يفاجأ في ليلة يسقط؛ والّذي يتّسع على مهل يتعلّم الحمل.»
+وفي غرفة المحرّكات من الفندق الأيسر، كان عامل يجرّ براميل الماء الثقيلة إلى الداخل.
+وعامل آخر يدفع بكلّ قوّته مكبسًا حديديًّا عالقًا.
+فقال الحارس سام: «الصمام المعطوب يحمّل الغرفة هذين معًا؛ ثقل الماء وشدّة الدفع.»
+وعلى سطحه بالون أحمر يتّسع ويتّسع، فيرقّ جلده ويشتدّ عليه.
+فنظرت بيرل إلى البالون المشدود وقالت:
+quote: «والعقل في شرحه نام كالحمار في الوحل.»
+source: المثنوي، الكتاب الأول
+explanation:
+Acute valve dysfunction causes severe heart failure more often than chronic dysfunction, because the heart has had no time to adapt: statement A is true.
+Valve dysfunction loads the heart with both volume and pressure: statement B is true.
+So A and B are the answer.
+Early dilatation moves the ventricle up the Frank-Starling curve and supports the output rather than depressing it, and by the law of Laplace wall stress rises, not falls, as the radius grows.
+
+== 130
+# A 31-year-old drug user with fever, chills and bilateral lung abscesses: right heart endocarditis -> A (organisms gram-negative and fungal), the book's key.
+# B (the pulmonary valve is most affected; it is the tricuspid), C (a negative echo excludes it) and D (valve replacement is needed after excision) are false.
+# ANSWER (book): grey mushrooms and pink rod-shaped sausages climbing the cards on the trident -> gram-negative and fungal organisms
+# playing cards sprouting broccoli on the trident in the blue engine room -> tricuspid endocarditis
+# little burst holes smoking in the pipes of dollar bills -> septic emboli and lung abscesses
+# a big cluster of golden grapes among them -> Staphylococcus aureus, in truth the commonest
+# a surgeon carrying the trident away and not replacing it -> tricuspid valvectomy without replacement is possible
+title: Right-sided endocarditis in a drug user: the tricuspid valve, septic lung emboli; the book names gram-negative and fungal organisms
+titleAr: التهاب شغاف القلب الأيمن عند متعاطي المخدّرات: الصمام ثلاثي الشرف وصمّات رئوية إنتانية؛ والكتاب يذكر الجراثيم سلبية الغرام والفطريات
+tags: cardiac/other d:pathology q:vignette l:2 x:trap
+palette: sickly green and grey, dark blue engine room, pink rods, a glint of gold grapes
+keywords: endocarditis -> playing cards sprouting broccoli and moss; tricuspid valve -> a trident; gram-negative organisms -> pink rod-shaped sausages climbing the cards; fungi -> grey mushrooms sprouting on the cards; lung abscesses -> little burst holes smoking in the pipes of green dollar bills; Staphylococcus aureus -> a big cluster of golden grapes
+must: the cards are on the TRIDENT in the BLUE engine room; mushrooms and pink rods climb them; a golden grape cluster sits among them
+scene: The blue engine room of the old Brooklyn hotel with a stag's head, seen cut open, in sickly green-grey light; a used syringe lies on the floor. CENTRE, dominant and brightest: a big iron trident stands in the floor of the blue lobby above, and playing cards sprouting broccoli and moss cling to its prongs; grey mushrooms and pink rod-shaped sausages climb over the cards, and a big cluster of golden grapes sits among them. Above, the pipes of green dollar bills are pocked with little burst holes that smoke. A young man, thirty-one, shivers with fever under a blanket.
+story:
+في ضوء رماديّ مريض في غرفة المحرّكات الزرقاء، ارتجف الشابّ كايل، في الحادية والثّلاثين، تحت بطّانيّته.
+وعلى الأرض إلى جانبه حقنة مستعملة.
+وفي أرض البهو الأزرق فوقه رمح ثلاثيّ كبير، تعلّقت بشعبه أوراق لعب ينبت عليها البروكلي والطّحلب.
+وتسلّقت الأوراق فطور رماديّة وقضبان ورديّة كالنّقانق.
+وبينها عنقود كبير من عنب ذهبيّ.
+وفوق ذلك امتلأت أنابيب الدولارات بثقوب صغيرة منفجرة، يتصاعد منها الدخان.
+فقالت الممرّضة لوسي: «كتابنا يقول إنّ الفطور والقضبان الورديّة أكثر ما يصيب أمثاله؛ لكنّ العنب الذهبيّ هو الأكثر في الحقيقة.»
+فحمل الجرّاح الرمح المريض ومضى به، ولم يضع مكانه شيئًا.
+فقال الحارس سام: «أتترك البهو بلا رمح؟» فقال الجرّاح: «يعيش بلا رمح زمنًا؛ ولا نضع في بهو من يعود إلى الحقنة بابًا جديدًا.»
+فنظرت لوسي إلى كايل وقالت:
+quote: «من فارق من يتكلّم لسانه، صار بلا لسان وإن كان له مئة نغم.»
+source: المثنوي، الكتاب الأول
+explanation:
+Fever with bilateral septic lung abscesses in an injecting drug user suggests right-sided endocarditis, which usually affects the tricuspid valve, not the pulmonary valve.
+The book's key gives A, gram-negative and fungal organisms, as the answer.
+In fact Staphylococcus aureus is the commonest organism in drug users; gram-negative organisms and fungi are only more frequent than in other patients.
+A negative echocardiogram does not exclude endocarditis, and an excised infected tricuspid valve need not be replaced at once.
+note: The book's key is A. Most current sources name Staphylococcus aureus as the commonest organism; the key is kept because the other options are clearly false.
+

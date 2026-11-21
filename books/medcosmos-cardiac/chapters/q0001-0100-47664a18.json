@@ -19,35 +19,35 @@
        "text": "في ليلة ماطرة من ليالي ساحة التايمز، والأضواء تسيل على الإسفلت ألوانًا، سقط سائح على الرصيف كما تسقط ورقة عن غصنها.",
        "t": 0,
        "spot": {
-        "x": 0.3,
+        "x": 0.18,
         "y": 0.8,
-        "r": 0.25
+        "r": 0.22
        }
       },
       {
        "text": "وكان على رأسه تاج أخضر من الإسفنج، تاج تمثال الحرّيّة الّذي يباع للزّائرين، وقد انسدّت أشواكه السبع بقار أسود يقطر.",
        "t": 11333,
        "spot": {
-        "x": 0.22,
-        "y": 0.72,
-        "r": 0.12
+        "x": 0.14,
+        "y": 0.66,
+        "r": 0.14
        }
       },
       {
        "text": "فجثا الشرطيّ دانيال على غطاء حديديّ مغلق في الشارع، وراح يضغطه بذراعين مستقيمتين، ضغطةً بعد ضغطة، كمن يوقظ نائمًا.",
        "t": 22801,
        "spot": {
-        "x": 0.22,
+        "x": 0.2,
         "y": 0.32,
-        "r": 0.14
+        "r": 0.18
        }
       },
       {
        "text": "فلم يخرج من ثقوب الغطاء إلّا خيط ماء واهن، يزحف إلى عدّاد على صنبور الحريق، فلا تتجاوز إبرته خمسة عشر.",
        "t": 34786,
        "spot": {
-        "x": 0.18,
-        "y": 0.52,
+        "x": 0.36,
+        "y": 0.32,
         "r": 0.1
        }
       },
@@ -55,54 +55,54 @@
        "text": "أمّا زميلته روزا، فقد خلعت الغطاء عن فوّهة البئر ورمته جانبًا، ومدّت يديها العاريتين إلى الجوف.",
        "t": 45224,
        "spot": {
-        "x": 0.65,
-        "y": 0.5,
-        "r": 0.18
+        "x": 0.76,
+        "y": 0.4,
+        "r": 0.22
        }
       },
       {
        "text": "وقبضت على منفاخ مطّاطيّ أحمر عظيم، تعصره بكفّيها عصرًا مباشرًا، فانبثقت من البئر نافورة فضّيّة شقّت الليل.",
        "t": 54705,
        "spot": {
-        "x": 0.6,
-        "y": 0.4,
-        "r": 0.28
+        "x": 0.78,
+        "y": 0.68,
+        "r": 0.16
        }
       },
       {
        "text": "وانحنت النافورة على السائح الساقط، فرفع رأسه، وسعل، وفتح عينيه على الأضواء.",
        "t": 65720,
        "spot": {
-        "x": 0.3,
-        "y": 0.75,
-        "r": 0.25
+        "x": 0.35,
+        "y": 0.68,
+        "r": 0.22
        }
       },
       {
        "text": "فصاح دانيال وهو يلهث فوق غطائه المغلق: «يداي على الحديد ويداك على الجوهر، فكيف نكون سواء؟»",
        "t": 73966,
        "spot": {
-        "x": 0.22,
-        "y": 0.28,
-        "r": 0.12
+        "x": 0.2,
+        "y": 0.26,
+        "r": 0.14
        }
       },
       {
        "text": "وكانت على عمود النور لافتة كتب عليها: ثلاثون، ستّون؛ فقالت روزا: «ثلاثون من كلّ مئة ينهضون، وقد يصيرون ستّين إذا جاءت اليد في وقتها.»",
        "t": 82783,
        "spot": {
-        "x": 0.85,
-        "y": 0.13,
-        "r": 0.1
+        "x": 0.84,
+        "y": 0.12,
+        "r": 0.12
        }
       },
       {
        "text": "ثمّ نظر السائح المبلّل إلى السماء الّتي تلمع فيها اللافتات، وتذكّر بيتًا كان جدّه يردّده:",
        "t": 96091,
        "spot": {
-        "x": 0.25,
-        "y": 0.78,
-        "r": 0.15
+        "x": 0.22,
+        "y": 0.72,
+        "r": 0.16
        }
       },
       {
@@ -121,27 +121,27 @@
        "text": "Sudden cardiac death is most often caused by ischaemic heart disease, with the coronary arteries narrowed by atheroma.",
        "t": 0,
        "spot": {
-        "x": 0.22,
-        "y": 0.72,
-        "r": 0.12
+        "x": 0.14,
+        "y": 0.66,
+        "r": 0.14
        }
       },
       {
        "text": "Standard closed-chest compression is weak: it generally provides less than 15% of normal coronary and cerebral blood flow.",
        "t": 7701,
        "spot": {
-        "x": 0.2,
-        "y": 0.45,
-        "r": 0.18
+        "x": 0.36,
+        "y": 0.32,
+        "r": 0.1
        }
       },
       {
        "text": "Open-chest cardiac massage, squeezing the heart directly by hand, produces far more flow and pressure than closed-chest compression.",
        "t": 16470,
        "spot": {
-        "x": 0.68,
-        "y": 0.52,
-        "r": 0.15
+        "x": 0.78,
+        "y": 0.68,
+        "r": 0.16
        }
       },
       {
@@ -149,27 +149,22 @@
        "t": 25042,
        "spot": {
         "x": 0.45,
-        "y": 0.45,
-        "r": 0.4
+        "y": 0.6,
+        "r": 0.22
        }
       },
       {
        "text": "In the best circumstances, such as a witnessed collapse with early defibrillation, out-of-hospital resuscitation may succeed in 30% to 60%, so that statement is true.",
        "t": 32245,
        "spot": {
-        "x": 0.85,
-        "y": 0.13,
-        "r": 0.1
+        "x": 0.84,
+        "y": 0.12,
+        "r": 0.12
        }
       },
       {
        "text": "Open massage is now used mainly for arrest after cardiac surgery or penetrating chest trauma, when the chest is already open or must be opened.",
-       "t": 44246,
-       "spot": {
-        "x": 0.68,
-        "y": 0.55,
-        "r": 0.15
-       }
+       "t": 44246
       }
      ],
      "audio": "gh:books/medcosmos-cardiac/media/medcos-q0001-explanation-en.m4a"
@@ -199,30 +194,30 @@
      ]
     }
    ],
-   "image": "gh:books/medcosmos-cardiac/media/medcos-q0001.webp",
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0001-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.22,
-      "y": 0.72,
-      "r": 0.11
+      "x": 0.14,
+      "y": 0.66,
+      "r": 0.12
      },
      "what": "Green Liberty crown clogged with tar",
      "means": "Ischaemic heart disease: commonest cause of sudden death"
     },
     {
      "spot": {
-      "x": 0.22,
-      "y": 0.33,
-      "r": 0.12
+      "x": 0.2,
+      "y": 0.32,
+      "r": 0.18
      },
      "what": "Officer pushing a closed manhole cover",
      "means": "Closed-chest compression"
     },
     {
      "spot": {
-      "x": 0.18,
-      "y": 0.52,
+      "x": 0.36,
+      "y": 0.32,
       "r": 0.08
      },
      "what": "Gauge reading 15",
@@ -230,27 +225,27 @@
     },
     {
      "spot": {
-      "x": 0.68,
-      "y": 0.52,
-      "r": 0.13
+      "x": 0.78,
+      "y": 0.66,
+      "r": 0.16
      },
      "what": "Officer squeezing the pump in the open manhole",
      "means": "Open-chest massage"
     },
     {
      "spot": {
-      "x": 0.55,
-      "y": 0.3,
-      "r": 0.15
+      "x": 0.45,
+      "y": 0.6,
+      "r": 0.18
      },
      "what": "The huge fountain",
      "means": "Open massage gives far more flow: \"as effective\" is not true"
     },
     {
      "spot": {
-      "x": 0.85,
-      "y": 0.13,
-      "r": 0.08
+      "x": 0.84,
+      "y": 0.12,
+      "r": 0.1
      },
      "what": "Street sign 30-60",
      "means": "Out-of-hospital success may reach 30-60%"
@@ -21149,6 +21144,221 @@
    ]
   },
   {
+   "id": "medcos-q0091",
+   "title": "A ventricular inhibited demand pacemaker is coded VVI",
+   "titleAr": "المنظّم البطيني المثبَّط عند الطلب رمزه VVI",
+   "tags": [
+    "cardiac/arrhythmia",
+    "d:technique",
+    "q:recall",
+    "l:1"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في غرفة المحرّكات الحمراء من فندق الأيّل، وقف عازف طبل إلى جانب المروحة الكبيرة.",
+       "t": 0,
+       "spot": {
+        "x": 0.55,
+        "y": 0.45,
+        "r": 0.35
+       }
+      },
+      {
+       "text": "وكان يمسك بوقًا نحاسيًّا للسّمع، يضعه على المروحة ويصغي.",
+       "t": 7215,
+       "spot": {
+        "x": 0.68,
+        "y": 0.36,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فإذا تأخّرت المروحة عن دورتها، ضرب طبله فدارت.",
+       "t": 13079,
+       "spot": {
+        "x": 0.35,
+        "y": 0.66,
+        "r": 0.16
+       }
+      },
+      {
+       "text": "وإذا دارت المروحة وحدها، رفع عصويه في الهواء وسكت.",
+       "t": 18154,
+       "spot": {
+        "x": 0.35,
+        "y": 0.54,
+        "r": 0.16
+       }
+      },
+      {
+       "text": "وعلى طبله لافتة صغيرة فيها ثلاثة أحرف: في، في، آي.",
+       "t": 23481,
+       "spot": {
+        "x": 0.34,
+        "y": 0.73,
+        "r": 0.09
+       }
+      },
+      {
+       "text": "فسأله الحارس سام: «ما معنى أحرفك؟»",
+       "t": 29783,
+       "spot": {
+        "x": 0.45,
+        "y": 0.33,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "فقال العازف: «الأوّل: أضرب في غرفة المحرّكات؛ والثّاني: أصغي إلى غرفة المحرّكات.»",
+       "t": 33652,
+       "spot": {
+        "x": 0.75,
+        "y": 0.38,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "ثمّ قال: «والثّالث: إذا سمعتها تعمل وحدها، أمسكت عن الضرب.»",
+       "t": 42204,
+       "spot": {
+        "x": 0.35,
+        "y": 0.54,
+        "r": 0.16
+       }
+      },
+      {
+       "text": "فدارت المروحة وحدها، فرفع عصويه وابتسم وقال:",
+       "t": 48969,
+       "spot": {
+        "x": 0.35,
+        "y": 0.54,
+        "r": 0.16
+       }
+      },
+      {
+       "text": "«من نحن يا روح أرواحنا، حتّى نكون معك في الوسط؟»",
+       "quote": "جلال الدين الرومي، المثنوي، الكتاب الأول",
+       "t": 54978
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0091-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "Pacemaker codes give, in order, the chamber paced, the chamber sensed and the response to a sensed beat.",
+       "t": 0,
+       "spot": {
+        "x": 0.34,
+        "y": 0.73,
+        "r": 0.09
+       }
+      },
+      {
+       "text": "A ventricular inhibited demand pacemaker paces the ventricle (V), senses the ventricle (V) and is inhibited (I) when it senses a spontaneous beat.",
+       "t": 7232,
+       "spot": {
+        "x": 0.7,
+        "y": 0.36,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "So it is coded VVI: B is the answer.",
+       "t": 18095,
+       "spot": {
+        "x": 0.34,
+        "y": 0.73,
+        "r": 0.09
+       }
+      },
+      {
+       "text": "VOO paces the ventricle at a fixed rate without sensing, DVI paces both chambers but senses only the ventricle, and VDD paces the ventricle and senses both chambers.",
+       "t": 21562
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0091-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "A ventricular inhibited-demand pacemaker using the Intersociety Commission for Heart Disease Resources (ICHD) code is designated as:",
+     "options": [
+      "DVI.",
+      "VVI.",
+      "VOO.",
+      "VDD."
+     ],
+     "answer": 1,
+     "explain": "Pacemaker codes give, in order, the chamber paced, the chamber sensed and the response to a sensed beat. A ventricular inhibited demand pacemaker paces the ventricle (V), senses the ventricle (V) and is inhibited (I) when it senses a spontaneous beat. So it is coded VVI: B is the answer. VOO paces the ventricle at a fixed rate without sensing, DVI paces both chambers but senses only the ventricle, and VDD paces the ventricle and senses both chambers.",
+     "lang": "en",
+     "source": "MedCosmos Cardiac, Q91",
+     "marks": [
+      1,
+      2,
+      3
+     ],
+     "answerMarks": [
+      5
+     ]
+    }
+   ],
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0091.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.45,
+      "y": 0.45,
+      "r": 0.2
+     },
+     "what": "Drummer beside the engine-room fan",
+     "means": "Paces the ventricle (first V)"
+    },
+    {
+     "spot": {
+      "x": 0.68,
+      "y": 0.36,
+      "r": 0.1
+     },
+     "what": "Brass ear trumpet on the fan",
+     "means": "Senses the ventricle (second V)"
+    },
+    {
+     "spot": {
+      "x": 0.35,
+      "y": 0.54,
+      "r": 0.12
+     },
+     "what": "Drumsticks held still",
+     "means": "Inhibited by a sensed beat (I)"
+    },
+    {
+     "spot": {
+      "x": 0.85,
+      "y": 0.42,
+      "r": 0.16
+     },
+     "what": "Fan turning on its own",
+     "means": "The heart's own ventricular beat"
+    },
+    {
+     "spot": {
+      "x": 0.34,
+      "y": 0.73,
+      "r": 0.08
+     },
+     "what": "Drum sign VVI",
+     "means": "Ventricular inhibited demand pacemaker = VVI"
+    }
+   ]
+  },
+  {
    "id": "medcos-q0092",
    "title": "Rate-modulated pacemakers most often follow body motion",
    "titleAr": "المنظّمات المتكيّفة مع الجهد تعتمد في الغالب على حركة الجسم",
@@ -21336,6 +21546,229 @@
      },
      "what": "Legs racing, leaves flying",
      "means": "Faster movement, faster pacing"
+    }
+   ]
+  },
+  {
+   "id": "medcos-q0093",
+   "title": "Symptomatic bradycardia with an underlying sinus rhythm is paced most often in DDD mode",
+   "titleAr": "بطء القلب العرضي مع نظم جيبي كامن يُنظَّم غالبًا بنمط DDD",
+   "tags": [
+    "cardiac/arrhythmia",
+    "d:technique",
+    "q:recall",
+    "l:2"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في فندق الأيّل، كان قائد الأوركسترا في البهو الأزرق يقود بإيقاعه الطبيعيّ.",
+       "t": 0,
+       "spot": {
+        "x": 0.45,
+        "y": 0.3,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "لكنّ الجسر بين الأبهاء وغرف المحرّكات كان يتعثّر أحيانًا، فتبطؤ المراوح.",
+       "t": 6846,
+       "spot": {
+        "x": 0.8,
+        "y": 0.72,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "فجاء عازفا طبل: واحد في البهو الزجاجيّ فوق، وواحد في غرفة المحرّكات تحت.",
+       "t": 14318,
+       "spot": {
+        "x": 0.42,
+        "y": 0.55,
+        "r": 0.4
+       }
+      },
+      {
+       "text": "وفي يد كلّ منهما بوق نحاسيّ للسّمع.",
+       "t": 22155,
+       "spot": {
+        "x": 0.48,
+        "y": 0.26,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "فكان عازف الأعلى يصغي إلى القائد، فإن سكت القائد ضرب هو.",
+       "t": 26181,
+       "spot": {
+        "x": 0.4,
+        "y": 0.35,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "وكان عازف الأسفل يصغي إلى ما ينزل من فوق، فيضرب بعده بلحظة، ويمسك إذا دارت مروحته وحدها.",
+       "t": 32214,
+       "spot": {
+        "x": 0.42,
+        "y": 0.8,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "وبين الطابقين لافتة: دي، دي، دي.",
+       "t": 41738,
+       "spot": {
+        "x": 0.45,
+        "y": 0.55,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "فقالت المديرة بيرل: «اثنان يضربان، واثنان يصغيان، ويعملان بالطّريقتين؛ والفندق يمشي على إيقاع قائده.»",
+       "t": 46421,
+       "spot": {
+        "x": 0.45,
+        "y": 0.55,
+        "r": 0.35
+       }
+      },
+      {
+       "text": "ثمّ قالت: «وهذا أكثر ما نضع لمن بقي قائده حيًّا.»",
+       "t": 57970,
+       "spot": {
+        "x": 0.45,
+        "y": 0.55,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "فنظرت إلى العازفين يضربان الواحد بعد الآخر وقالت:",
+       "t": 63780,
+       "spot": {
+        "x": 0.42,
+        "y": 0.55,
+        "r": 0.4
+       }
+      },
+      {
+       "text": "«كلتا القصبتين شربت من مورد واحد، فهذه فارغة وتلك مملوءة سكّرًا.»",
+       "quote": "جلال الدين الرومي، المثنوي، الكتاب الأول",
+       "t": 69608
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0093-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "In a patient with symptomatic bradycardia and an underlying sinus rhythm, a dual-chamber pacemaker keeps atrioventricular synchrony and lets the ventricle follow the sinus rate.",
+       "t": 0,
+       "spot": {
+        "x": 0.4,
+        "y": 0.35,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "The DDD mode paces both chambers, senses both chambers, and both triggers and inhibits.",
+       "t": 12010,
+       "spot": {
+        "x": 0.45,
+        "y": 0.55,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "So DDD is the most common mode: C is the answer.",
+       "t": 18580,
+       "spot": {
+        "x": 0.45,
+        "y": 0.55,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "AAI suits isolated sinus node disease with intact AV conduction, and VVI suits chronic atrial fibrillation.",
+       "t": 23079
+      }
+     ],
+     "audio": "gh:books/medcosmos-cardiac/media/medcos-q0093-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "The most common pacing mode used in patients with symptomatic bradycardia and an underlying sinus rhythm is:",
+     "options": [
+      "AAI.",
+      "DVI.",
+      "DDD.",
+      "VVI."
+     ],
+     "answer": 2,
+     "explain": "In a patient with symptomatic bradycardia and an underlying sinus rhythm, a dual-chamber pacemaker keeps atrioventricular synchrony and lets the ventricle follow the sinus rate. The DDD mode paces both chambers, senses both chambers, and both triggers and inhibits. So DDD is the most common mode: C is the answer. AAI suits isolated sinus node disease with intact AV conduction, and VVI suits chronic atrial fibrillation.",
+     "lang": "en",
+     "source": "MedCosmos Cardiac, Q93",
+     "marks": [
+      1,
+      2
+     ],
+     "answerMarks": [
+      5
+     ]
+    }
+   ],
+   "image": "gh:books/medcosmos-cardiac/media/medcos-q0093.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.42,
+      "y": 0.37,
+      "r": 0.16
+     },
+     "what": "Drummer in the glass lobby upstairs",
+     "means": "Paces and senses the atrium"
+    },
+    {
+     "spot": {
+      "x": 0.43,
+      "y": 0.82,
+      "r": 0.16
+     },
+     "what": "Drummer in the engine room below",
+     "means": "Paces and senses the ventricle"
+    },
+    {
+     "spot": {
+      "x": 0.49,
+      "y": 0.26,
+      "r": 0.08
+     },
+     "what": "Brass trumpet of each drummer",
+     "means": "Senses both chambers"
+    },
+    {
+     "spot": {
+      "x": 0.8,
+      "y": 0.72,
+      "r": 0.12
+     },
+     "what": "Engine-room fan",
+     "means": "Held back when the ventricle beats by itself"
+    },
+    {
+     "spot": {
+      "x": 0.45,
+      "y": 0.55,
+      "r": 0.18
+     },
+     "what": "Banner DDD",
+     "means": "DDD: the commonest mode with sinus rhythm kept"
     }
    ]
   },

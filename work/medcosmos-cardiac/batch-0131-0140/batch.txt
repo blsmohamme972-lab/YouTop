@@ -1,0 +1,334 @@
+book: medcosmos-cardiac
+# MedCosmos Cardiac, questions 131-140, written to the owner's five picture rules and the audited symbols
+# (content/symbols.json). Theme: New York City. Quotations: Rumi, the Masnavi (from memory, translated).
+
+== 131
+# Initial management of a suspected acute MI -> B (if chest pain persists, IV nitroglycerin to limit infarct size).
+# A (prophylactic oxygen and lidocaine), C (calcium channel blockers limit infarct size) and D (morphine has no therapeutic effect) are false.
+# a hart (stag) brought down by an arrow -> acute myocardial infarction
+# a stone angel still pressing on the man's chest -> chest pain persists
+# ANSWER B: a slow IV drip line feeding a fizzing stick of nitro dynamite that gently blasts open the crown's clogged spike, the dark wound around the arrow shrinking -> IV nitroglycerin limits infarct size
+title: Acute MI with ongoing pain: IV nitroglycerin limits the infarct
+titleAr: احتشاء حادّ مع ألم مستمر: النتروغليسرين الوريدي يحدّ من حجم الاحتشاء
+tags: cardiac/coronary d:pharmacology q:vignette l:2
+palette: emergency-room blue, a red stag, glowing nitro orange, green Liberty crown
+keywords: myocardial infarction -> a hart (a stag) brought down by an arrow; angina -> a heavy stone angel sitting on a man's chest; nitroglycerin -> a fizzing stick of NITRO dynamite fed by a slow IV drip, gently blasting open the clogged spike of the Liberty crown; coronary artery -> the green crown of the Statue of Liberty, seven spikes
+must: the dynamite is fed by a slow IV drip line; the dark patch around the arrow in the stag SHRINKS
+scene: An emergency room in Manhattan at night, blue light. A man lies on a stretcher, a heavy stone angel still pressing on his chest. CENTRE, dominant and brightest: a slow IV drip line feeds a fizzing stick of nitro dynamite that gently blasts open the tar-clogged spike of a green Statue of Liberty crown hanging above the bed. On the wall a stag's head with an arrow in it; the dark patch spreading around the arrow is shrinking.
+story:
+في ليلة زرقاء في غرفة الطوارئ بمانهاتن، رقد رجل على نقّالة، وعلى صدره ملاك حجريّ ثقيل.
+وعلى الحائط رأس أيّل قد أصابه سهم، وبقعة داكنة تتّسع حول السهم.
+فقالت الممرّضة لوسي: «الملاك لم يقم عن صدره؛ والبقعة تكبر ما دام الألم.»
+فعلّقت فوق السرير زجاجةً تقطر ببطء في أنبوب إلى عود صغير من الديناميت يفرقع.
+فانفجر الديناميت برفق في الشعاع المسدود بالقار من تاج الحرّيّة، فانفتح قليلًا.
+فأخذت البقعة حول السهم تصغر شيئًا فشيئًا.
+فقال الحارس سام: «ألا نعطيه المخدّر الّذي يمنع الرجفة قبل أن تأتي، وحاصر القناة؟»
+فقالت لوسي: «لا هذا ولا ذاك يصغّر البقعة؛ القطرة البطيئة هي الّتي تفعل.»
+فتنفّس الرجل أخيرًا، وخفّ الملاك عن صدره.
+فنظرت لوسي إلى القطرات وقالت:
+quote: «يا أخي، اصبر على وخز الإبرة، حتّى تنجو من سمّ نفسك الكافرة.»
+source: المثنوي، الكتاب الأول
+explanation:
+In a suspected acute myocardial infarction with chest pain that persists, intravenous nitroglycerin relieves ischaemia and can limit infarct size: B is the answer.
+Prophylactic lidocaine is not given, because it does not lower mortality and may raise it.
+Calcium channel blockers do not limit infarct size.
+Morphine relieves pain and anxiety and reduces preload, so it does have a therapeutic effect.
+
+== 132
+# Physiology of the coronary circulation -> C (adenosine is the most important metabolic regulator of coronary flow) and D (sympathetic stimulation constricts the coronaries despite the demand).
+# A (oxygen extraction can rise with demand; it is already near maximal) and B (coronary flow is maximal in systole; it is in diastole) are false.
+# ANSWER C: a lion asleep in its DEN at the base of the Liberty crown wakes as the fans work harder and opens every spike's tap wide -> adenosine, the main metabolic regulator
+# ANSWER D: a nervous sprinter firing a starting pistol, and the spikes squeezing narrower at the bang -> sympathetic stimulation constricts the coronaries
+# the crown's spikes filling only while the engine-room fans pause, and an ox's cup already nearly empty -> flow in diastole; extraction already near maximal
+title: Coronary flow: adenosine is the chief metabolic regulator, and sympathetic stimulation constricts the coronaries
+titleAr: الجريان التاجي: الأدينوزين أهمّ منظّم استقلابي، والتنبيه الودّي يقبّض الشرايين التاجية
+tags: cardiac/foundations d:physiology q:recall l:2
+palette: Liberty-crown green, lion gold, starting-pistol smoke grey, warm engine-room red
+keywords: coronary artery -> the green crown of the Statue of Liberty, seven spikes; adenosine -> a lion waking in its DEN at the base of the crown and opening every spike's tap wide; sympathetic stimulation -> a nervous sprinter firing a starting pistol, the spikes squeezing narrower at the bang; ventricle -> the red engine room with its huge ventilation fan; diastolic coronary flow -> the crown's spikes filling only while the fan pauses
+must: the lion opens the spike taps as the fan works harder; the spikes NARROW at the pistol's bang; the spikes fill when the fan pauses
+scene: A giant green crown of the Statue of Liberty stands on top of the red engine room of the old Brooklyn hotel with a stag's head, whose huge ventilation fan spins and pauses in turn. CENTRE, dominant and brightest: at the base of the crown a golden lion wakes in its den as the fan works harder and turns open every spike's tap, and green light rushes up the spikes while the fan pauses. RIGHT: a nervous sprinter fires a starting pistol into the air, and at the bang the spikes squeeze narrower.
+story:
+فوق الغرفة الحمراء في فندق الأيّل، وقف تاج تمثال الحرّيّة الأخضر بأشعّته السبعة.
+وكانت مروحة الغرفة تدور ثمّ تستريح، ثمّ تدور ثمّ تستريح.
+فلا يصعد الضوء الأخضر في الأشعّة إلّا حين تستريح المروحة.
+وعند قاعدة التاج عرين ينام فيه أسد ذهبيّ.
+فلمّا اشتدّ عمل المروحة، استيقظ الأسد، وفتح صنابير الأشعّة كلّها على سعتها.
+فقالت المديرة بيرل: «هذا الأسد أعلم بحاجة المروحة من كلّ من في الفندق.»
+ثمّ أطلق عدّاء عصبيّ مسدّس البداية في الهواء.
+فانضغطت الأشعّة عند الطلقة وضاقت، مع أنّ المروحة تريد المزيد.
+فقال الحارس سام: «عجيب هذا العدّاء؛ يستعجل المروحة ويضيّق عليها طريقها.»
+فضحكت بيرل وهي تنظر إلى الأسد وقالت:
+quote: «أنا أسد الحقّ، لا أسد الهوى.»
+source: المثنوي، الكتاب الأول
+explanation:
+Adenosine, released when myocardial oxygen demand outstrips supply, is the most important metabolic regulator of coronary blood flow: statement C is true.
+Sympathetic stimulation constricts the coronary arteries through alpha receptors even when cardiac output must rise: statement D is true.
+So C and D are the answer.
+The heart already extracts most of the oxygen from arterial blood at rest, so extra demand is met by more flow, not more extraction, and left coronary flow is greatest in diastole, not systole.
+
+== 133
+# Cardiac vascular anatomy -> B (the posterior descending artery gives off the AV nodal artery).
+# A (the posterior descending artery comes from the circumflex in 80-85%; it comes from the right coronary), C (the great cardiac vein runs with the right coronary; it runs with the LAD) and D (Thebesian veins drain only the ventricles) are false.
+# the green crown of the Statue of Liberty -> the coronary arteries
+# the RIGHT side of the crown sending a long spike down the back, in 8 of 10 crowns -> the right coronary gives the posterior descending artery (right dominance)
+# ANSWER B: from that back spike a thin copper tube runs into the sparking knot of the bundle of branches -> the posterior descending artery gives off the AV nodal artery
+title: The posterior descending artery gives off the AV nodal artery
+titleAr: الشريان الخلفي النازل يعطي شريان العقدة الأذينية البطينية
+tags: cardiac/foundations d:anatomy q:recall l:2
+palette: museum spotlight on green copper, electric blue sparks, warm brick
+keywords: coronary artery -> the green crown of the Statue of Liberty, seven spikes; right dominance -> the RIGHT side of the crown sending a long spike down the BACK of the hotel; AV node -> the knot at the top of the bundle of branches crackling with sparks; AV nodal artery -> a thin copper tube from the back spike into the knot
+must: the long back spike comes from the RIGHT side of the crown; the copper tube runs from THAT spike into the sparking knot
+scene: The back wall of the old Brooklyn hotel with a stag's head, seen from behind like a museum model under a spotlight. A giant green crown of the Statue of Liberty sits on its top. CENTRE, dominant and brightest: from the RIGHT side of the crown a long spike runs down the back of the building, and from it a thin glowing copper tube runs into a knot where a bundle of branches crackles with electric blue sparks.
+story:
+في متحف معتم، أدير نموذج فندق الأيّل، فبان ظهره تحت ضوء واحد.
+وعلى قمّته تاج تمثال الحرّيّة الأخضر.
+فقال المرشد للزّوّار: «انظروا من أين ينزل الشعاع الطويل على ظهر المبنى.»
+فإذا هو ينزل من الجانب الأيمن من التاج، كما ينزل في ثمانية من كلّ عشرة تيجان.
+وفي وسط الظهر حزمة أغصان تطقطق بشرر أزرق، وفي أعلاها عقدة.
+ومن الشعاع النازل خرج أنبوب نحاسيّ رفيع مضيء، فدخل في العقدة رأسًا.
+فقال المرشد: «هذا الأنبوب الصغير يطعم العقدة؛ فإذا سدّ الشعاع النازل، جاعت العقدة وبطؤ الشرر.»
+فسألته طفلة: «ولماذا من الأيمن لا من الأيسر؟»
+فقال: «في أكثر التيجان يكون الأيمن هو السيّد على الظهر.»
+ثمّ ابتسم وهو يدير النموذج وقال:
+quote: «أسد بلا ذيل ولا رأس ولا بطن، من رأى مثله؟ إنّ الله لم يخلق أسدًا كهذا.»
+source: المثنوي، الكتاب الأول
+explanation:
+The posterior descending artery arises from the right coronary artery in about 80-85% of hearts, which is right dominance, not from the circumflex.
+The AV nodal artery arises from the dominant artery at the crux, close to the origin of the posterior descending artery, as the book puts it: B is the answer.
+The great cardiac vein runs with the left anterior descending artery, not the right coronary artery, before it joins the coronary sinus.
+Thebesian veins drain directly into all four chambers, not only the ventricles.
+
+== 134
+# Medical management of coronary disease -> B (beta-blockers reduce myocardial oxygen demand) and C (calcium channel blockers reduce ventricular contractility).
+# A (nitroglycerin mainly dilates coronary arterioles; it mainly dilates veins and large arteries) and D (calcium blockers must be avoided in vasospasm; they treat it) are false.
+# ANSWER B: an ice-hockey goalkeeper blocking pucks so the red engine room's fan slows and needs less coal -> beta-blockers reduce oxygen demand
+# ANSWER C: a canal dammed with white chalky glue, the fan's push weakening -> calcium channel blockers reduce contractility
+# a fizzing nitro stick opening the big veins of the chimney -> nitroglycerin works mainly on veins and large arteries
+title: Coronary disease drugs: beta-blockers cut oxygen demand, calcium blockers reduce contractility
+titleAr: أدوية مرض الشرايين التاجية: حاصرات بيتا تخفّض حاجة القلب للأكسجين، وحاصرات الكالسيوم تقلّل قوّة الانقباض
+tags: cardiac/coronary d:pharmacology q:recall l:1
+palette: ice-rink white, chalk glue white, coal black, engine-room red
+keywords: beta-blocker -> an ice-hockey goalkeeper slamming his big blocker pad against the puck; calcium channel blocker -> a canal (a channel) dammed by a spilled can of white chalky glue; ventricle -> the red engine room with its huge ventilation fan; the heart's fuel need -> a coal scuttle feeding the fan's furnace; nitroglycerin -> a fizzing stick of NITRO dynamite gently blasting open the chimney
+must: the goalkeeper's blocks make the fan SLOW and the coal scuttle nearly untouched; the glue-dammed canal makes the fan's push WEAKER
+scene: The red engine room of the old Brooklyn hotel with a stag's head, seen cut open, its huge ventilation fan beside a furnace fed by a coal scuttle. CENTRE, dominant and brightest: an ice-hockey goalkeeper in full gear blocks puck after puck flying at the fan, which slows down, and the coal scuttle stays nearly full. Beside it a canal running into the fan is dammed by a spilled can of white chalky glue, and the fan's push weakens. Above, a fizzing stick of nitro dynamite gently blasts the chimney wider.
+story:
+في الغرفة الحمراء من فندق الأيّل، كانت المروحة الكبيرة تدور بجنون، والفحم ينفد من دلوها.
+وكانت الأقراص تتطاير نحوها من كلّ جهة، فتزيدها سرعة.
+فوقف أمامها حارس مرمى الهوكي بعدّته كلّها، وأخذ يصدّ الأقراص قرصًا بعد قرص.
+فأبطأت المروحة، وبقي دلو الفحم ملآن تقريبًا.
+فقالت المديرة بيرل: «كلّما أبطأت قلّ ما تأكل من الفحم.»
+وإلى جانبها قناة صغيرة تصبّ فيها، سدّتها علبة غراء أبيض انسكبت فيها.
+فضعفت دفعة المروحة، فصارت تدفع الهواء برفق لا بعنف.
+وفي الأعلى، وسّع عود من الديناميت المدخنة برفق، فخفّ الحمل عن الغرفة.
+فقال الحارس سام: «هكذا تهدأ الغرفة؛ واحد يبطئها، وآخر يضعف دفعها.»
+فنظرت بيرل إلى المروحة الهادئة وقالت:
+quote: «إذا لم يكن للعشق به عناية، بقي كطائر بلا جناح، فوا أسفاه عليه.»
+source: المثنوي، الكتاب الأول
+explanation:
+Beta-blockers slow the heart rate and reduce contractility, so they lower myocardial oxygen demand: statement B is true.
+Calcium channel blockers, especially verapamil and diltiazem, reduce ventricular contractility: statement C is true.
+So B and C are the answer.
+Nitroglycerin acts mainly on the veins and the large epicardial arteries, not the arterioles, and calcium channel blockers are the treatment of choice for coronary vasospasm.
+
+== 135
+# A 67-year-old with an acute MI in cardiogenic shock after 24 hours -> A (mortality more than ten times that without shock) and B (age, ejection fraction, infarct size and previous MI predict shock).
+# C (loss of more than 20% of myocardium; it takes about 40%) and D (emergency revascularization is contraindicated; it is indicated) are false.
+# a hart brought down by an arrow -> myocardial infarction
+# the hotel's lights going out, taxis frozen -> cardiogenic shock
+# ANSWER A: a row of ten coffins behind the shocked hotel, one coffin behind the hotel without shock -> mortality more than ten times higher
+# ANSWER B: four signs hanging on the stag: grey hair, a bouncer's counter showing few guests thrown out, a huge arrow, an old healed arrow scar -> age, low ejection fraction, large infarct, previous MI
+title: Cardiogenic shock after MI: mortality more than ten times higher, predicted by age, low ejection fraction, infarct size and a previous MI
+titleAr: الصدمة القلبية بعد الاحتشاء: وفيات أكثر بعشرة أضعاف، وتنبئ بها السنّ وضعف الكسر القذفي وحجم الاحتشاء واحتشاء سابق
+tags: cardiac/coronary d:complications q:vignette l:2
+palette: blackout dark blue, dim amber emergency lights, polished coffin wood, stag brown
+keywords: myocardial infarction -> a hart (a stag) brought down by an arrow, a huge arrow; previous myocardial infarction -> an old healed arrow scar on the stag; ejection fraction -> a nightclub bouncer ejecting only a few guests, his counter showing a low share; mortality -> coffins; cardiogenic shock -> the hotel's lights going out
+must: TEN coffins behind the hotel in shock, ONE behind the other; the stag has a huge new arrow AND an old scar
+scene: Two copies of the old Brooklyn hotel with a stag's head stand side by side at night. LEFT, dominant and brightest in dim amber emergency light: its lights are going out and its fans have stopped; its stag lies brought down by a huge arrow, with an old healed arrow scar beside it, grey hair, and a nightclub bouncer at its door who manages to throw out only a few guests, his counter showing a low share; behind this hotel stand ten coffins in a row. RIGHT, lit normally: the same hotel with a smaller arrow in its stag, and only one coffin behind it.
+story:
+في ليلة مظلمة، وقف فندقان من فنادق الأيّل جنبًا إلى جنب.
+في الأيسر أخذت الأنوار تنطفئ، ووقفت المراوح، بعد يوم واحد من سهم أصاب أيّله.
+كان سهمًا عظيمًا، وإلى جانبه ندبة قديمة من سهم سبق.
+وكان الأيّل أشيب الشعر، وعند بابه حارس ملهًى لا يطرد إلّا قليلًا من الضيوف.
+فقالت المديرة بيرل: «الشيب، والطّرد القليل، والسّهم العظيم، والنّدبة القديمة؛ هذه الّتي تطفئ الأنوار.»
+وخلف الفندق المظلم، صفّت عشرة توابيت.
+وفي الفندق الأيمن، سهم أصغر، والأنوار مضاءة، وخلفه تابوت واحد.
+فقال الحارس سام: «عشرة هناك وواحد هنا؛ فلنسرع إلى التاج نفتحه، ولا ننتظر.»
+فحمل الجرّاحون أدواتهم وركضوا إلى الفندق المظلم.
+فنظرت بيرل إلى التوابيت وقالت:
+quote: «المعشوق هو الكلّ، والعاشق حجاب؛ المعشوق حيّ، والعاشق ميّت.»
+source: المثنوي، الكتاب الأول
+explanation:
+Cardiogenic shock after an acute myocardial infarction raises mortality more than tenfold compared with patients without shock: statement A is true.
+Older age, a low ejection fraction, a large infarct and a previous infarction predict cardiogenic shock: statement B is true.
+So A and B are the answer.
+Shock usually follows the loss of about 40% of the left ventricle, not 20%, and emergency revascularization is indicated, not contraindicated, as the SHOCK trial showed.
+
+== 136
+# A 52-year-old with an acute MI on the ECG -> A (thrombolysis should be considered at once: the earlier, the greater the benefit).
+# B (tPA better than streptokinase or APSAC), C (thrombolysis needs intracoronary catheter delivery) and D (heparin and antiplatelet drugs add nothing) are false in the book.
+# a hart brought down by an arrow -> acute myocardial infarction
+# ANSWER A: a chemist pouring a dissolving potion over the black tar plug in the crown's spike, a big stopwatch beside him, the plug melting fastest at the first seconds -> thrombolysis: the earlier, the better
+# the potion poured into an arm vein from a simple bottle, no catheter -> given intravenously
+# an asp coiled round a white tablet and a fast hare helping -> aspirin and heparin add benefit
+title: Acute MI: give thrombolysis at once, because the earlier, the greater the benefit
+titleAr: احتشاء حادّ: يُعطى حالّ الخثرة فورًا، فكلّما بكّر عظمت الفائدة
+tags: cardiac/coronary d:pharmacology q:vignette l:2
+palette: clinical white, black tar, emerald dissolving potion, brass stopwatch
+keywords: myocardial infarction -> a hart (a stag) brought down by an arrow; coronary artery -> the green crown of the Statue of Liberty, seven spikes; thrombolysis -> a chemist pouring an emerald dissolving potion over the black tar plug in a crown spike; early -> a big brass stopwatch at its first seconds; aspirin -> a small asp snake coiled round a white tablet; heparin -> a fast brown hare
+must: the stopwatch shows the FIRST seconds and the plug melts fastest then; the potion runs from a simple drip bottle into an arm vein, no catheter
+scene: A hospital room in Manhattan, clean white light. On the wall a stag's head with an arrow in it. CENTRE, dominant and brightest: a chemist pours an emerald dissolving potion from a simple drip bottle down a tube into a man's arm vein, and above the bed the black tar plug in one spike of a giant green Statue of Liberty crown melts away fast; a big brass stopwatch beside him shows the first seconds. On the bedside table a small asp coils round a white tablet, and a fast brown hare sits ready.
+story:
+في غرفة مستشفًى بيضاء في مانهاتن، رقد رجل في الثانية والخمسين، وقلبه يسرع.
+وعلى الحائط رأس أيّل أصابه سهم منذ قليل.
+وفي أحد أشعّة تاج الحرّيّة فوق السرير، سدادة سوداء من القار.
+فجاء كيميائيّ بزجاجة بسيطة، وصبّ منها جرعةً زمرّديّةً في أنبوب إلى وريد ذراعه.
+فأخذت السدادة تذوب بسرعة، وإلى جانبه ساعة إيقاف نحاسيّة كبيرة في ثوانيها الأولى.
+فقال الكيميائيّ: «في الثواني الأولى تذوب أسرع؛ وكلّما تأخّرنا قلّ ما ننقذه.»
+فسأل الحارس سام: «ألا تدخل أنبوبًا طويلًا إلى التاج نفسه؟»
+فقال: «لا حاجة إلى ذلك؛ الوريد يحملها إلى هناك وحده.»
+وعلى الطاولة أفعًى صغيرة ملتفّة على قرص أبيض، وأرنب برّيّ سريع ينتظر دوره؛ فإنّهما يزيدان النفع.
+فنظر الكيميائيّ إلى الساعة وقال:
+quote: «اسمعوا يا أصحابي هذه الحكاية، فهي في الحقيقة نقد حالنا.»
+source: المثنوي، الكتاب الأول
+explanation:
+In an acute myocardial infarction, thrombolysis is considered at once, because its benefit is greatest when it is given early: A is the answer.
+Thrombolytic drugs are given intravenously; no catheter is needed.
+Aspirin adds a large benefit, as the ISIS-2 trial showed, and heparin is given with some agents.
+The book counts tPA as no better than streptokinase or APSAC, from the trials of its time.
+note: The book's view; the GUSTO-I trial (1993) later found accelerated tPA slightly better than streptokinase for mortality.
+
+== 137
+# After abdominal aortic aneurysm repair, severe chest pain, sweating, bradycardia and hypotension -> A (if an MI, the ECG most likely shows a prominent Q in lead III).
+# B (a Q wave means subendocardial), C (creatine kinase alone is diagnostic) and D (bradycardia rarely occurs with MI) are false.
+# a pink bubble-gum bubble on the orca's belly, freshly patched -> abdominal aortic aneurysm repaired
+# a hart brought down by an arrow from below -> inferior myocardial infarction
+# the fans turning slowly and a dial sinking -> bradycardia and hypotension
+# ANSWER A: a big letter Q painted on the third of three street lamps below the hotel -> a Q wave in lead III (inferior MI)
+title: Inferior MI after aortic surgery: bradycardia, hypotension and a Q wave in lead III
+titleAr: احتشاء سفلي بعد جراحة الأبهر: بطء القلب وهبوط الضغط وموجة Q في الاتجاه الثالث
+tags: cardiac/coronary d:diagnosis q:vignette l:2
+palette: night street amber lamps, bubble-gum pink, stag brown, sinking blue dial
+words: Q, 3
+keywords: abdominal aortic aneurysm -> a big pink bubble-gum bubble on the orca balloon's belly, freshly patched; myocardial infarction -> a hart (a stag) brought down by an arrow shot from BELOW; inferior lead III -> the third of three street lamps below the hotel, a big letter Q painted on it; bradycardia -> the engine room fans turning very slowly; hypotension -> a dial sinking low
+must: the arrow comes from BELOW; the Q is on the THIRD lamp, numbered 3; the fans turn slowly
+scene: A night street below the old Brooklyn hotel with a stag's head. Above, a giant orca parade balloon floats with a big pink bubble-gum bubble on its belly, freshly patched. CENTRE, dominant and brightest: the stag over the hotel door is brought down by an arrow shot from below, and below the hotel stand three street lamps in a row; the third one, numbered 3, has a big letter Q painted on it and glows brightest. Inside, the engine room fans turn very slowly, and a dial on the wall sinks low. A man of sixty-six sweats on a bench, clutching his chest.
+story:
+في ليلة تحت فندق الأيّل، كان الحوت الكبير يطفو، وعلى بطنه فقّاعة علك ورديّة رقعت للتّوّ.
+وعلى مقعد في الشارع، جلس رجل في السادسة والسّتّين، يتصبّب عرقًا ويقبض على صدره.
+وفي الداخل أخذت المراوح تدور ببطء شديد، وهبط القرص على الحائط إلى الأسفل.
+ثمّ رأوا الأيّل فوق الباب قد سقط بسهم رمي من الأسفل.
+فقال الحارس سام: «بطء وهبوط؛ ليس هذا من عمل البطن، هذا سهم من تحت.»
+وتحت الفندق ثلاثة مصابيح شارع في صفّ؛ وعلى الثالث منها حرف كبير: كيو.
+فقالت الممرّضة لوسي: «انظر إلى المصباح الثالث؛ هناك يكتب أثر السهم السفليّ.»
+ثمّ قالت: «والبطء يأتي مع هذا السهم كثيرًا، فلا تبحث عن سبب آخر.»
+فأسرع الأطبّاء إلى الرجل على المقعد.
+فنظرت لوسي إلى المصباح المضيء وقالت:
+quote: «الروم هم الصوفيّة يا بنيّ: بلا تكرار ولا كتاب ولا علم، لكنّهم صقلوا صدورهم.»
+source: المثنوي، الكتاب الأول
+explanation:
+Severe chest pain, sweating, bradycardia and hypotension after aortic surgery suggest an inferior myocardial infarction.
+An inferior infarction shows Q waves in leads II, III and aVF, so a prominent Q in lead III is most likely: A is the answer.
+Bradycardia is common with inferior infarction, from vagal reflexes and ischaemia of the AV node.
+A Q wave marks a transmural infarction, not a subendocardial one, and creatine kinase alone does not make the diagnosis, especially after an operation.
+
+== 138
+# A 70-year-old with intractable angina who prefers PTCA -> B (several obstructive lesions in the same artery are a contraindication to PTCA, in the book).
+# A (a long left main lesion suits PTCA), C (a 1 mm vessel allows PTCA) and D (restenosis under 10%) are false.
+# a heavy stone angel on the woman's chest -> intractable angina
+# ANSWER B: one long spike of the Liberty crown with three black tar plugs along it, a Slinky spring stuck at the first and unable to pass -> multiple lesions in one artery: not for PTCA
+# green cabbage leaves waiting beside it -> bypass instead
+title: PTCA is unsuitable for several obstructive lesions in one artery
+titleAr: توسيع الشريان بالبالون لا يصلح لتضيّقات متعدّدة في شريان واحد
+tags: cardiac/coronary d:indications q:vignette l:2
+palette: Liberty-crown green, tar black, Slinky silver, cabbage-leaf green
+keywords: angina -> a heavy stone angel sitting on a woman's chest; coronary artery -> the green crown of the Statue of Liberty, seven spikes; PTCA -> a coiled metal Slinky spring pushed on a long wire into a clogged spike; multiple lesions -> three black tar plugs along the same spike; coronary artery bypass grafting -> big green cabbage leaves laid as bridges over the clogged spikes
+must: THREE separate tar plugs along ONE spike; the Slinky is stuck at the first plug
+scene: A catheter laboratory in Manhattan, cool light. A woman of seventy lies with a heavy stone angel on her chest. CENTRE, dominant and brightest: above her a giant green crown of the Statue of Liberty; one long spike has three separate black tar plugs along it, and a coiled metal Slinky spring pushed on a long wire is stuck at the first plug, unable to pass. Beside the crown a surgeon waits holding big green cabbage leaves.
+story:
+في مختبر القسطرة في مانهاتن، رقدت السيّدة روث، في السبعين، وعلى صدرها ملاك حجريّ لا يقوم.
+فقالت: «لا أريد أن يفتحوا صدري؛ أريد النابض الصغير على السلك.»
+فوقها تاج تمثال الحرّيّة الأخضر، وفي شعاع واحد طويل منه ثلاث سدادات سوداء من القار.
+فدفع الطبيب نابضًا معدنيًّا ملفوفًا على سلك طويل في الشعاع.
+فعلق النابض عند السدادة الأولى، ولم يستطع المرور.
+فقال الطبيب: «سدادة واحدة قصيرة يفتحها النابض؛ أمّا ثلاث في شعاع واحد فلا.»
+وإلى جانب التاج وقف جرّاح يحمل أوراق ملفوف خضراء كبيرة.
+فقال الجرّاح: «هذه الأوراق تعبر فوق السدادات الثلاث معًا يا سيّدتي.»
+فنظرت روث إلى النابض العالق، ثمّ إلى أوراق الملفوف.
+فقال الطبيب مبتسمًا:
+quote: «لقد أطاح بي تقليدهم في الريح؛ فلتحلّ مئتا لعنة على هذا التقليد.»
+source: المثنوي، الكتاب الثاني
+explanation:
+In the book, several obstructive lesions in the same artery are a contraindication to PTCA, and bypass grafting is preferred: B is the answer.
+A long lesion in the left main coronary artery is not suitable for balloon angioplasty, and a vessel 1 mm wide is too small.
+After successful PTCA of a simple lesion, restenosis occurred in about a third of patients in the era of balloon angioplasty, far more than 10%.
+Stents have since lowered restenosis, but several lesions in one artery still favour bypass grafting.
+
+== 139
+# A 78-year-old candidate for CABG asks about risk -> A (operative mortality over 70 is more than double that of younger patients) and B (it is higher in a woman than in a man).
+# C (a previous CABG does not alter mortality; it raises it) and D (results are better with ischaemic cardiomyopathy than with hibernating myocardium; the reverse) are false.
+# green cabbage leaves laid as bridges over the tar-clogged spikes of the Liberty crown -> coronary bypass
+# ANSWER A: an old man of 78 beside two coffins, a young man beside one -> mortality more than double over 70
+# ANSWER B: an old woman beside a slightly larger coffin than the old man's -> higher risk for women
+# a sleeping bear curled in the crown, waking when the cabbage bridge is laid -> hibernating myocardium recovers
+title: CABG risk: more than double over 70, and higher in women
+titleAr: خطر جراحة المجازة: أكثر من الضعف بعد السبعين، وأعلى عند النساء
+tags: cardiac/coronary d:indications d:evidence q:vignette l:2
+palette: autumn Central Park gold, cabbage green, polished coffin wood, sleepy bear brown
+words: 78
+keywords: coronary artery bypass grafting -> big green cabbage leaves laid as bridges over the tar-clogged spikes of the Liberty crown; mortality -> coffins; hibernating myocardium -> a bear asleep curled in the crown, waking when the cabbage bridge is laid
+must: TWO coffins beside the old man and ONE beside the young man; the old woman's coffin is larger than the old man's
+scene: Autumn in Central Park. A giant green crown of the Statue of Liberty stands on the grass, and a surgeon lays big green cabbage leaves as bridges over its tar-clogged spikes; a bear asleep inside the crown wakes as the bridge is laid. CENTRE, dominant and brightest: a queue of patients: an old man with a sign 78 stands beside two coffins, a young man beside only one, and an old woman beside a coffin a little larger than the old man's.
+story:
+في خريف سنترال بارك، وقف على العشب تاج تمثال الحرّيّة الأخضر، وأشعّته مسدودة بالقار.
+فأخذ جرّاح يمدّ عليها أوراق الملفوف الخضراء جسورًا.
+وكان في التاج دبّ نائم ملتفّ على نفسه، فلمّا مدّ الجسر استيقظ وتمطّى.
+فقال الجرّاح: «هذا الدبّ النائم يصحو إذا جاءه الطعام؛ وأمثاله أحسن من نصلح.»
+وأمام التاج صفّ من المنتظرين.
+شيخ على صدره رقم ثمانية وسبعين، وإلى جانبه تابوتان؛ وشابّ إلى جانبه تابوت واحد.
+وعجوز إلى جانبها تابوت أكبر قليلًا من تابوت الشيخ.
+فسأل الشيخ قلقًا: «أيضاعف عمري الخطر؟» فقال الجرّاح: «بعد السبعين يزيد على الضعف، وعند النساء أكثر؛ لكنّ الجسر قد يستحقّ.»
+فأمسك الشيخ بيد العجوز إلى جانبه.
+فنظر الجرّاح إلى الدبّ المستيقظ وقال:
+quote: «محبّة الأحمق محبّة الدبّ، في كراهيته محبّة، وفي محبّته كراهية.»
+source: المثنوي، الكتاب الثاني
+explanation:
+Operative mortality of coronary bypass in patients over 70 is more than double that in younger patients: statement A is true.
+Women carry a higher operative risk than men: statement B is true.
+So A and B are the answer.
+A previous CABG raises mortality as well as complexity, and results are better when hibernating myocardium can recover than in fixed ischaemic cardiomyopathy.
+
+== 140
+# Four days after a transmural MI, hypotension and heart failure -> A (an intra-aortic balloon pump and catheterization) and C (a wedge tracing with giant V waves and no oxygen step-up suggests papillary muscle rupture).
+# B (after a posterior infarct this is most likely a VSD) and D (delay repair of a post-MI VSD for the muscle to firm up) are false.
+# a hart brought down by an arrow four days ago -> transmural MI
+# yellow taxis gridlocked -> heart failure
+# ANSWER A: a nurse slipping a long sausage balloon into the orca's belly while a technician threads a catheter -> IABP and catheterization
+# ANSWER C: the snapped harp strings of the bishop's mitre, giant V-shaped waves surging back up into the red lobby, and a huge ox in an oxygen mask standing still at the foot of the stairs, not stepping up -> papillary muscle rupture: V waves without an oxygen step-up
+title: Shock four days after an MI: a balloon pump and catheterization; giant V waves without an oxygen step-up mean papillary muscle rupture
+titleAr: صدمة بعد أربعة أيام من الاحتشاء: مضخة بالونية وقسطرة؛ وموجات V عملاقة دون قفزة في الأكسجين تعني تمزّق العضلة الحليمية
+tags: cardiac/coronary d:complications d:diagnosis q:vignette l:3
+palette: storm grey, harp gold, sausage-balloon pink, deep water blue waves
+words: V
+keywords: myocardial infarction -> a hart (a stag) brought down by an arrow; congestive heart failure -> a traffic jam of yellow taxis gridlocked; intra-aortic balloon pump -> a long sausage-shaped balloon slipped into the orca's belly; papillary muscle rupture -> the post holding the golden harp strings snapped, the bishop's mitre flapping loose; giant V waves -> huge V-shaped waves surging back up into the red lobby; no oxygen step-up -> a huge ox in an oxygen mask standing still at the foot of the stairs, not stepping up
+must: the harp post is SNAPPED and the waves surge UP in V shapes; the ox does NOT climb the stairs
+scene: The old Brooklyn hotel with a stag's head over its door on a stormy night, seen cut open like a doll's house; yellow taxis are gridlocked outside, and the stag above the door lies brought down by an arrow. CENTRE, dominant and brightest: in the red lobby, the post holding the golden harp strings has snapped, the bishop's mitre flaps loose, and huge V-shaped waves surge back up into the lobby. A huge ox in an oxygen mask stands still at the foot of the stairs, not stepping up. RIGHT: a nurse slips a long pink sausage-shaped balloon into the belly of a giant orca parade balloon while a technician threads a thin catheter.
+story:
+في ليلة عاصفة، سقط أيّل الفندق بسهم قبل أربعة أيّام، وصاحبه شيخ في الرابعة والسّبعين.
+ثمّ تلاصقت سيّارات الأجرة أمام الباب، وهبطت الأنوار.
+وفي البهو الأحمر، انكسر العمود الّذي يشدّ أوتار القيثارة الذهبيّة، فأخذ تاج الأسقف يخفق رخوًا.
+فاندفعت أمواج عظيمة على هيئة حرف «ڤي» راجعةً إلى البهو.
+وعند أسفل الدرج وقف ثور ضخم في قناعه الشفّاف، ساكنًا، لا يصعد درجةً واحدة.
+فقالت المديرة بيرل: «أمواج عظيمة والثّور لا يصعد؛ ليست ثغرةً في الجدار، بل هي أوتار القيثارة.»
+فأدخلت الممرّضة لوسي بالون النقانق الورديّ في بطن الحوت الكبير.
+وأدخل فنّيّ أنبوبًا رفيعًا ليرى الفندق من الداخل.
+فقال الحارس سام: «ولا ننتظر حتّى يشتدّ الجدار؛ نصلح وهو يتهاوى.»
+فنظرت بيرل إلى الأمواج وقالت:
+quote: «العشق يجعل البحر يغلي كالقدر.»
+source: المثنوي، الكتاب الخامس
+explanation:
+Hypotension and heart failure four days after a transmural infarction suggest a mechanical complication, either papillary muscle rupture or a ventricular septal defect.
+An intra-aortic balloon pump is placed and cardiac catheterization performed: statement A is true.
+Giant V waves in the pulmonary wedge tracing without an oxygen step-up in the right heart suggest papillary muscle rupture with acute mitral regurgitation: statement C is true.
+So A and C are the answer.
+A post-infarction VSD is repaired early, not delayed, and the book does not tie a posterior infarct most often to a VSD.
+
