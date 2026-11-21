@@ -14,6 +14,27 @@ palette: orca black-and-white, crown green and harbour blue
 keywords: congenital aortic stenosis -> a baby orca calf with a tiny, narrow, pursed mouth; left coronary dominance -> the LEFT side of the crown on the hotel's roof sending the long spike down the hotel's back wall; right dominance in most people -> the other hotels in the street with the long back spike coming from the RIGHT side of their crowns
 must: on the calf's hotel the long back spike comes from the LEFT side of the crown
 scene: A harbour street of narrow old hotels with stags' heads over their doors, each with a green crown on its roof; on most of them the long spike down the back wall comes from the right side of the crown. CENTRE, dominant and brightest: in front of one hotel a baby orca calf with a tiny, narrow, pursed mouth splashes in the harbour, and on that hotel the long spike down the back wall comes from the LEFT side of the crown. Robin, the dark-haired archaeologist, points at the left side with a sprouted extra hand.
+story:
+في شارع على الميناء، اصطفّت فنادق قديمة ضيّقة، فوق كلّ باب رأس أيّل، وعلى كلّ سطح تاج أخضر.
+ومن كلّ تاج تنزل شوكة طويلة على الجدار الخلفيّ، وفي أكثر الفنادق تنزل من جانب التاج الأيمن.
+«كلّ الفنادق هكذا، الشوكة الطويلة دائمًا من اليمين!» قال أوسوب.
+لكنّ روبين وقفت أمام فندق واحد، يلعب أمامه في الماء صغير حوت قاتل.
+وكان فم الصغير ضيّقًا جدًّا، مزمومًا كأنّه يصفّر.
+فأنبتت روبين يدًا زائدةً على السطح، وأشارت إلى الشوكة الطويلة.
+فإذا هي تنزل على الجدار الخلفيّ من جانب التاج الأيسر.
+«حيث يولد الحوت الصغير بفم ضيّق، كثيرًا ما تأتي الشوكة الطويلة من اليسار.» قالت روبين.
+والجانب الّذي يرسل الشوكة الطويلة هو سيّد الجدار الخلفيّ.
+«إذن اليسار هو السيّد هنا!» قال لوفي.
+فضحكت روبين، وتذكّرت قرصانًا بنظّارات ورديّة كان يقول عن السيادة:
+quote: «العدالة ستنتصر؟ بالطّبع ستنتصر! فالمنتصر هو من يصير العدالة!»
+source: دونكيخوتي دوفلامينغو
+explanation:
+Congenital aortic stenosis, like a bicuspid aortic valve, has a higher incidence of left coronary dominance: E is the answer.
+The dominant artery is the one that gives the posterior descending artery; about 70 to 80 percent of people are right dominant, not 90 percent.
+Coronary ostia are not rarely found outside their sinuses, for example above the sinotubular junction.
+The commonest anomaly is a circumflex artery arising from the right sinus or the right coronary artery, and such an aberrant circumflex is usually small.
+Memory hook: the orca calf has a narrow mouth, and on its hotel the long back spike comes from the LEFT of the crown.
+
 
 == 132
 # book 27.2: morphology of coronary disease -> C, the LAD and RCA are more commonly involved than the circumflex.
@@ -27,6 +48,25 @@ palette: tar black, crown green and silver shine
 keywords: left anterior descending -> the crown's front spike where a young lad stands, clogged with black tar; right coronary artery -> the crown's right spike clogged with black tar; circumflex -> the crown's back-left spike, clean and shining
 must: TWO spikes tarred (front and right), the back-left spike CLEAN
 scene: The roof of the old hotel with a stag's head over its door, a big green crown on it. CENTRE, dominant and brightest: the crown's front spike, where a young lad stands with a broom, and its right spike are both clogged with black tar, while the back-left spike stays clean and shines silver in the sun. Nami, the orange-haired navigator, holds a little flag on the clean spike.
+story:
+على سطح الفندق القديم، وقف تاج أخضر كبير بثلاث شوكات.
+الشوكة الأماميّة حيث يقف فتًى صغير بمكنسته، والشّوكة اليمنى، والشّوكة الخلفيّة اليسرى.
+وجاء القطران الأسود يسيل من السماء.
+«سيغطّي الشوكات الثلاث بالتّساوي، كالمطر!» قال أوسوب.
+لكنّ القطران سدّ الشوكة الأماميّة أوّلًا، حتّى غطّى قدمي الفتى.
+ثمّ سدّ الشوكة اليمنى.
+أمّا الشوكة الخلفيّة اليسرى، فبقيت نظيفةً تلمع فضّيّةً في الشمس.
+«الأماميّة واليمنى تتلطّخان كثيرًا، والخلفيّة اليسرى أقلّ بكثير!» قالت نامي.
+فغرست نامي رايةً صغيرةً على الشوكة النظيفة.
+ورفرفت الراية فوق القطران، فتذكّر تشوبر كلمة معلّمه الأوّل:
+quote: «علم القراصنة رمز للقناعة الراسخة!»
+source: الدكتور هيلولوك
+explanation:
+The left anterior descending and right coronary systems are diseased more often than the circumflex system: C is the answer.
+Most acute infarctions come from rupture of a plaque that was often only moderately narrowing, with a thrombus forming on it, not from a chronic, severely narrowed vessel.
+Complete occlusion of one coronary artery is commonly associated with significant lesions in the others, and transmural infarcts may still contain viable cells.
+Memory hook: tar fills the lad's front spike and the right spike, while the back-left spike shines clean.
+
 
 == 133
 # book 27.3: results of coronary bypass -> A, average 10-year survival is about 75 percent.
@@ -35,12 +75,32 @@ scene: The roof of the old hotel with a stag's head over its door, a big green c
 # ANSWER part 2: four lanterns beside it, three lit, and three of the four sailors walking past it -> about 75 percent
 title: About 75 percent are alive ten years after coronary bypass
 titleAr: نحو 75 بالمئة أحياء بعد عشر سنوات من المجازة التاجية
-tags: cardiac/coronary d:outcomes q:recall l:2 x:numbers
+tags: cardiac/coronary d:evidence q:numbers l:2
 palette: road dust, lantern gold and cabbage green
 words: 10
 keywords: coronary artery bypass -> four sailors walking a long road with big cabbage leaves pinned on their jackets; 10-year survival -> a stone milestone marked 10 beside the road; about 75 percent -> four lanterns on the milestone, three of them lit, and three of the four sailors walking past it
 must: THREE of the four pass the milestone; three of four lanterns lit
 scene: A long dusty road across a green island at sunset. Four sailors walk it with big cabbage leaves pinned on their jackets. CENTRE, dominant and brightest: a stone milestone marked 10 stands beside the road with four lanterns on top, three of them lit, and three of the sailors are walking past it waving; the fourth sits on a bench a little way back, smiling. Luffy walks with them, arms behind his head.
+story:
+على طريق طويل مغبرّ في جزيرة خضراء، مشى أربعة بحّارة عند الغروب.
+وعلى سترة كلّ منهم ورقة ملفوف كبيرة مثبّتة.
+«عشر سنوات طريق طويل، لن يصل إلّا واحد منهم!» قال أوسوب متشائمًا.
+ومشوا سنةً بعد سنة، حتّى ظهر على جانب الطريق حجر مسافة مكتوب عليه عشرة.
+وفوق الحجر أربعة فوانيس، ثلاثة منها مضاءة.
+ومرّ ثلاثة من البحّارة بالحجر يلوّحون، وجلس الرابع على مقعد قبله بقليل، مبتسمًا.
+«ثلاثة من أربعة! ثلاثة فوانيس مضاءة!» صاح لوفي، وهو يمشي معهم ويداه خلف رأسه.
+فنظر أوسوب إلى الفوانيس الثلاثة وسكت.
+وظلّ الطريق يمتدّ بعد الحجر إلى الأفق.
+فتذكّر لوفي ملك القراصنة الأوّل، وما قاله عن آخر الطريق:
+quote: «كنزي؟ إن أردتموه فهو لكم. ابحثوا عنه! لقد تركت كلّ شيء في ذلك المكان!»
+source: غول دي روجر
+explanation:
+After coronary artery bypass, average 10-year survival is about 75 percent: A is the answer.
+Internal mammary artery grafting lowers the late, third rising phase of the hazard of death.
+A longer cardiopulmonary bypass time is a procedural risk factor for death, and operating within days of an acute infarction raises the risk.
+The number of stenosed vessels affects the risk of death only weakly.
+Memory hook: three of the four lanterns are lit on the milestone marked 10.
+
 
 == 134
 # book 27.4: indications for coronary bypass -> C, CABG is indicated in two-vessel disease with depressed LV function.
@@ -54,6 +114,26 @@ palette: cabbage green, tar black and weary red
 keywords: two-vessel disease -> two of the crown's spikes on the hotel's roof clogged with black tar; depressed left ventricular function -> the red engine room's fan turning weakly and the bouncer slumped tired at its door; coronary artery bypass -> Sanji laying big cabbage leaves over both clogged spikes
 must: EXACTLY two spikes clogged, both getting cabbage
 scene: The cut-open old hotel with a stag's head over its door. In the red engine room the huge fan turns weakly and the bouncer at its door slumps tired against the wall. CENTRE, dominant and brightest: on the roof, two spikes of the green crown are clogged with black tar, and Sanji, the blond cook, lays big cabbage leaves over both of them, a cigarette in his mouth and determination in his eye.
+story:
+في الفندق القديم ذي رأس الأيّل، كانت المروحة العملاقة في الغرفة الحمراء تدور بضعف.
+والحارس على بابها متهالك على الجدار، لا يكاد يطرد أحدًا.
+وعلى السطح، شوكتان من شوكات التاج الأخضر مسدودتان بالقطران الأسود.
+«المروحة ضعيفة جدًّا، لا نلمسها، نتركها كما هي!» قال أوسوب خائفًا.
+فمرّت الأيّام، والمروحة تزداد ضعفًا.
+فصعد سانجي إلى السطح، والسّيجارة في فمه، والعزم في عينه.
+ووضع أوراق ملفوف كبيرةً على الشوكتين المسدودتين كلتيهما.
+فنزل الفحم إلى الغرفة الحمراء، واعتدل الحارس على بابها.
+«شوكتان مسدودتان ومروحة ضعيفة؟ هذا بالضّبط وقت الملفوف!» قال تشوبر.
+فسأل أوسوب لوفي إن كان يعرف أنّ سانجي سيقدر، فقال لوفي ما قاله يومًا لصديقه كوبي:
+quote: «ليست المسألة أن أقدر أو لا أقدر؛ سأفعلها لأنّي أريد ذلك!»
+source: مونكي دي لوفي
+explanation:
+Coronary bypass is indicated in two-vessel disease with depressed left ventricular function, where it improves survival: C is the answer.
+A left main stenosis of 50 percent or more is an indication for bypass, and three-vessel disease with good function and mild ischaemia does not need urgent operation.
+An ejection fraction below 20 percent is not an absolute indication; the amount of viable muscle decides.
+Haemodynamic instability after an acute infarction is an indication for emergency bypass, not a contraindication.
+Memory hook: two tarred spikes and a tired bouncer, so Sanji lays the cabbage.
+
 
 == 135
 # book 27.5: outcomes after CABG -> A, up to 75 percent have evidence of subtle neurobehavioural deficits.
@@ -62,12 +142,32 @@ scene: The cut-open old hotel with a stag's head over its door. In the red engin
 # ANSWER part 2: three of the four have the mist, a banner reading 75 -> up to 75 percent
 title: Up to 75 percent have subtle neurobehavioural deficits after CABG
 titleAr: ما يصل إلى 75 بالمئة لديهم اضطرابات عصبية سلوكية خفيفة بعد المجازة
-tags: cardiac/coronary d:outcomes q:recall l:3 x:numbers
+tags: cardiac/coronary d:complications q:numbers l:3
 palette: mist lilac, cabbage green and morning gold
 words: 75
 keywords: coronary artery bypass -> four sailors with big cabbage leaves pinned on their jackets; subtle neurobehavioral deficits -> a faint wisp of lilac mist curling around a sailor's head while he walks perfectly well, patting his pockets for a forgotten key; up to 75 percent -> three of the four sailors with the mist, under a banner reading 75
 must: the mist is FAINT (subtle); the sailors still walk and smile
 scene: The deck of a ship in the morning, a banner reading 75 strung across the mast. Four sailors with big cabbage leaves pinned on their jackets stroll about. CENTRE, dominant and brightest: three of them have a faint wisp of lilac mist curling around their heads, one patting his pockets for a forgotten key, one scratching his head for a word, one staring at a half-written letter, all walking perfectly well; the fourth has a clear head. Usopp watches them with a raised eyebrow.
+story:
+على سطح سفينة في الصباح، رفعت راية على الصاري مكتوب عليها خمسة وسبعون.
+وتمشّى أربعة بحّارة على سترهم أوراق ملفوف كبيرة.
+وحول رؤوس ثلاثة منهم خيط خفيف من ضباب بنفسجيّ.
+«انظروا! هؤلاء الثلاثة لن يستطيعوا المشي من الضباب!» صاح أوسوب.
+لكنّهم كانوا يمشون جيّدًا، ويبتسمون.
+غير أنّ أحدهم أخذ يتحسّس جيوبه بحثًا عن مفتاح نسيه، وحكّ الثاني رأسه يبحث عن كلمة، وحدّق الثالث في رسالة لم يكملها.
+«الضباب خفيف، لا يراه إلّا من يدقّق؛ لكنّه عند ثلاثة من أربعة!» قال تشوبر.
+والرّابع رأسه صاف تمامًا.
+ثمّ سمع من بعيد كمان بروك يعزف لحنًا قديمًا، فتوقّف الثلاثة يسمعون.
+فقد ينسى المفتاح والكلمة، أمّا الوعد فلا ينسى، كما قال بروك:
+quote: «وعدت لابون أن أعود إليه!»
+source: بروك
+explanation:
+Up to 75 percent of patients have evidence of subtle neurobehavioural deficits after coronary bypass, often temporary: A is the answer.
+Gross neurological deficits are far less common than 20 percent, even in patients over 75.
+Functional capacity improves after operation, and most patients have improvement in their regional perfusion defects.
+Hibernating segments that are akinetic, not only hypokinetic ones, can recover systolic function.
+Memory hook: a faint lilac mist curls around three of the four heads under the banner 75.
+
 
 == 136
 # book 28.1: the primary goal of off-pump CABG -> D, decreasing morbidity and mortality.
@@ -81,6 +181,25 @@ palette: cabbage green, coffin wood and quiet grey
 keywords: off-pump coronary artery bypass -> Sanji laying cabbage leaves on the crown while the hotel's fans keep turning, the roller-pump truck parked aside with its engine off; decreasing mortality -> a coffin-maker sitting idle with only one small coffin left in his shop; decreasing morbidity -> an empty rack of crutches by the door
 must: the fans KEEP TURNING; the truck is OFF; the coffin shop is nearly EMPTY
 scene: A quiet town square. LEFT: the cut-open old hotel with a stag's head over its door, its fans still turning, while Sanji lays cabbage leaves on the green crown on its roof; beside it a roller-pump truck is parked with its engine off and its key hanging on a hook. CENTRE, dominant and brightest: across the square a coffin-maker sits idle in his doorway, yawning, only one small coffin left in his shop, and an empty rack of crutches stands by his door.
+story:
+في ساحة بلدة هادئة، وقف الفندق القديم ذو رأس الأيّل، ومروحتاه تدوران كعادتهما.
+وعلى سطحه، أخذ سانجي يضع أوراق الملفوف على التاج الأخضر، دون أن يوقف شيئًا.
+وبجانب الفندق شاحنة المضخّة الدوّارة، محرّكها مطفأ، ومفتاحها معلّق على خطّاف.
+«لماذا كلّ هذا التعب؟ ليكون أرخص؟ أم ليكون الملفوف أكثر؟» سأل أوسوب.
+«لا هذا ولا ذاك. انظر إلى الجهة الأخرى من الساحة.» قال تشوبر.
+وهناك، جلس صانع التوابيت على باب دكّانه يتثاءب، لا عمل لديه.
+لم يبق في دكّانه إلّا تابوت صغير واحد.
+وبجانب بابه رفّ للعكّازات، فارغ تمامًا.
+«توابيت أقلّ، وعكّازات أقلّ؛ هذا هو الهدف!» قال تشوبر.
+فتذكّر الرفاق بحّارًا شابًّا وقف يومًا بين جيشين يصرخ:
+quote: «كفى! أوقفوا القتال! الأرواح تزهق بلا فائدة!»
+source: كوبي
+explanation:
+The primary goal of off-pump coronary bypass is to decrease morbidity and mortality: D is the answer.
+It avoids the inflammatory and embolic effects of cardiopulmonary bypass and, with careful technique, manipulation of the aorta.
+It does not aim at more grafts, all-arterial grafting, lower cost or more referrals.
+Memory hook: the fans keep turning, the pump truck sleeps, and the coffin-maker yawns with one small coffin left.
+
 
 == 137
 # book 28.2: the most appropriate setting for off-pump CABG -> A, elective.
@@ -94,6 +213,24 @@ palette: sunny yellow, calendar white and cabbage green
 keywords: off-pump coronary artery bypass -> cabbage leaves on a hotel's crown while its fans keep turning, the roller-pump truck beside it switched off; elective -> a calendar with one date circled long in advance, and a sailor arriving calmly with a suitcase on a sunny day; unstable patients in shock -> far in the background, a storm and a shaking hotel rushed towards a running roller-pump truck
 must: the foreground is CALM and sunny; the storm is only in the far background
 scene: A sunny harbour morning. On a clinic wall hangs a big calendar with one date circled in red long in advance. CENTRE, dominant and brightest: a sailor arrives calmly with a small suitcase, tipping his hat, while beside him a small hotel with a stag's head keeps its fans turning and gets cabbage leaves on its green crown, a roller-pump truck next to it switched off. FAR BACKGROUND: under a storm, a shaking hotel is rushed towards a running roller-pump truck. Brook, the skeleton musician, plays a calm tune.
+story:
+في صباح مشمس على الميناء، علّق على جدار العيادة تقويم كبير، وعليه يوم واحد محاط بدائرة حمراء منذ زمن بعيد.
+وجاء بحّار هادئ يحمل حقيبةً صغيرة، ورفع قبّعته مبتسمًا.
+وبجانبه فندق صغير ذو رأس أيّل، مروحتاه تدوران، وعلى تاجه أوراق الملفوف، وشاحنة المضخّة مطفأة بجانبه.
+«لنجرّب هذه الطريقة أيضًا على الفندق المرتجف في العاصفة!» قال أوسوب مشيرًا إلى البعيد.
+ففي الأفق البعيد، تحت عاصفة سوداء، كان فندق يرتجف ويدفع مسرعًا نحو شاحنة تعمل مضخّتها.
+«ذلك يحتاج الشاحنة الدائرة. هذه الطريقة للأيّام الهادئة الموعودة!» قال تشوبر.
+وعزف بروك لحنًا هادئًا، والبحّار يدخل في موعده تمامًا.
+ولمّا خرج سليمًا، نظر إلى الدائرة الحمراء في التقويم.
+وتذكّر أميرةً ودّعت الرفاق على الشاطئ، وسألتهم عن لقاء آخر:
+quote: «إن التقينا يومًا من جديد، أتنادونني رفيقتكم؟»
+source: نفرتاري فيفي
+explanation:
+Off-pump coronary bypass is most appropriate in elective patients: A is the answer.
+Unstable patients, such as those with an acute infarction and a cardiac index below 1, or with pulmonary oedema and a low index, are safer on cardiopulmonary bypass, which supports the circulation while the grafts are done.
+Converting to bypass in an emergency carries a high risk.
+Memory hook: a date circled long ago on a sunny calendar, while the shaking hotel in the storm goes to the running pump truck.
+
 
 == 138
 # book 28.3: anticoagulation for off-pump CABG -> book key D, A and C: full-dose heparin (300 units/kg) and a repeat ACT every 20 minutes.
@@ -101,13 +238,32 @@ scene: A sunny harbour morning. On a clinic wall hangs a big calendar with one d
 # ANSWER part 2: Nami turning over an hourglass marked 20 again and again -> repeat the clotting time every 20 minutes
 title: Off-pump CABG anticoagulation (book): full-dose heparin and an ACT every 20 minutes
 titleAr: منع التخثّر في المجازة دون مضخّة (حسب الكتاب): جرعة هيبارين كاملة وفحص كل 20 دقيقة
-tags: cardiac/coronary d:technique q:recall l:3 x:numbers
+tags: cardiac/coronary d:technique q:numbers l:3
 palette: hare brown, hourglass gold and cabbage green
 words: 300 20
 note: Practice varies: many centres give a reduced dose of about 150 to 200 units/kg for off-pump surgery and aim for an ACT above about 250 to 300 s. The book's key is full dose (300 units/kg) with an ACT every 20 minutes.
 keywords: full-dose heparin -> a full-size big hare standing tall, holding up a sign reading 300; repeat ACT every 20 minutes -> Nami turning over an hourglass marked 20 again and again; off-pump -> a small hotel beside them with its fans turning and cabbage on its crown, the roller-pump truck switched off
 must: the hare is BIG (full size); the hourglass shows 20
 scene: The cardiac cabin of the Thousand Sunny, a small hotel with a stag's head on the table, its fans still turning and cabbage leaves on its green crown, a roller-pump truck beside it switched off. CENTRE, dominant and brightest: a full-size big brown hare stands tall beside the hotel holding up a sign reading 300, and Nami, the orange-haired navigator, turns over a golden hourglass marked 20 for the third time, a tally of marks on the wall behind her.
+story:
+في غرفة القلب على الثاوزند صني، كان فندق صغير على الطاولة، مروحتاه تدوران، وعلى تاجه أوراق الملفوف.
+وشاحنة المضخّة بجانبه مطفأة.
+«الشاحنة مطفأة، فيكفينا أرنب صغير، نصف أرنب!» قال أوسوب.
+لكنّ أرنبًا بنّيًّا كبيرًا، بحجمه الكامل، قفز إلى جانب الفندق، ورفع لافتةً مكتوبًا عليها ثلاثمئة.
+«الأرنب يأتي هنا كاملًا، ثلاثمئة، لا نصف أرنب!» قالت نامي.
+ثمّ قلبت نامي ساعةً رمليّةً ذهبيّةً مكتوبًا عليها عشرون.
+فلمّا فرغت قلبتها مرّةً ثانية، ثمّ ثالثة، وخطّت على الحائط علامةً لكلّ مرّة.
+«كلّ عشرين دقيقةً تقلب الساعة، ولا تنسى مرّةً واحدة!» قال تشوبر.
+فدخل فرانكي، ورأى الأرنب الكبير واقفًا كالجبل.
+فضمّ ذراعيه فوق رأسه وصاح:
+quote: «أنا سوبر هذا الأسبوع!»
+source: فرانكي
+explanation:
+In the book, off-pump bypass uses full-dose heparin, 300 units per kilogram, and the activated clotting time is repeated every 20 minutes: D, A and C, is the answer.
+The book keeps the activated clotting time well above 250 seconds, so B is wrong.
+Without the pump, the coronary arteries are still opened and blood stagnates around the stabilizer, so clotting must be prevented.
+Memory hook: a full-size hare holds up 300, and Nami turns the 20-minute hourglass again and again.
+
 
 == 139
 # book 28.4: intracoronary shunts -> book key E, routinely after thorough simulator training.
@@ -122,6 +278,25 @@ note: Many surgeons use intracoronary shunts selectively (for example for a larg
 keywords: intracoronary shunt -> a tiny clear tube placed inside an opened spike of the crown, coal still flowing through it while the spike is sewn; routinely -> the same tube placed in every spike, one after another; thorough simulator training -> a practice dummy hotel on a workbench, covered in dozens of practice stitches
 must: coal keeps flowing THROUGH the tube while the spike is sewn
 scene: Franky's workshop. BACKGROUND: on a workbench sits a practice dummy hotel covered in dozens of practice stitches, with stacks of used tubes beside it. CENTRE, dominant and brightest: on the roof of a real old hotel with a stag's head, a spike of the green crown is opened and a tiny clear tube sits inside it, coal still flowing through, while Franky, the blue-haired cyborg shipwright, sews the spike with surprisingly delicate fingers; the next spikes already have their tubes waiting.
+story:
+في ورشة فرانكي، جلس على طاولة العمل فندق تدريبيّ مغطًّى بعشرات الغرز القديمة.
+وبجانبه أكوام من الأنابيب الصغيرة المستعملة، فقد تدرّب فرانكي عليه ليالي طويلة.
+ثمّ صعد إلى سطح فندق حقيقيّ، وفتح شوكةً من شوكات التاج الأخضر.
+«أوقف الفحم كلّه وأنت تخيط، فهذا أسرع!» قال أوسوب.
+فأخذت غرفة المحرّك تحتهم تئنّ، والمروحة تتباطأ.
+فأدخل فرانكي في الشوكة المفتوحة أنبوبًا صغيرًا شفّافًا.
+فظلّ الفحم يجري في الأنبوب، وفرانكي يخيط حوله بأصابع رقيقة عجيبة.
+«أنبوب في كلّ شوكة، كلّ مرّة؛ فقد تدرّبت يداي ألف مرّة!» قال فرانكي.
+وكانت الشوكات التالية تنتظر أنابيبها واحدةً بعد واحدة.
+فتذكّر الرفاق فتًى ضعيفًا تدرّب سنين طويلةً، وكان يصيح:
+quote: «سأصبح أميرالًا في البحريّة!»
+source: كوبي
+explanation:
+In the book, intracoronary shunts are used routinely, once the surgeon has trained thoroughly on a simulator: E is the answer.
+A shunt keeps blood flowing to the muscle while the anastomosis is sewn, prevents ischaemia and gives a dry field.
+Careful technique avoids injury to the endothelium, which is the main risk of a shunt.
+Memory hook: Franky's dummy hotel is covered in practice stitches, and then every spike gets its tube.
+
 
 == 140
 # book 28.5: outcomes after off-pump CABG -> C, the "no-touch" technique on the aorta has been repeatedly shown to reduce stroke.
@@ -130,8 +305,27 @@ scene: Franky's workshop. BACKGROUND: on a workbench sits a practice dummy hotel
 # the grafts come from a lima bean vine growing from the hotel's own wall, not sewn onto the orca -> in situ arterial grafts
 title: The no-touch technique on the aorta reduces stroke
 titleAr: تقنية عدم لمس الأبهر تقلّل السكتة الدماغية
-tags: cardiac/coronary d:outcomes q:recall l:2 x:high-yield
+tags: cardiac/coronary d:evidence q:recall l:2 x:high-yield
 palette: orca black-and-white, velvet red and lightning yellow
 keywords: no-touch technique on the aorta -> the orca curving out of the hotel left completely untouched, a red velvet rope around it and every hand kept away; reduces stroke -> a lightning bolt striking the sea harmlessly, far from the head-shaped lantern above the hotel; in situ arterial graft -> a lima bean vine growing from the hotel's own wall to the crown, not sewn onto the orca
 must: NO hand and NO clamp touches the orca; the lightning falls FAR from the head lantern
 scene: The cut-open old hotel with a stag's head over its door, a glowing lantern shaped like a head hanging above it. CENTRE, dominant and brightest: a big orca curving out of the hotel is left completely untouched, a red velvet rope around it, Zoro standing guard with his swords sheathed and his arms crossed; a lima bean vine grows from the hotel's own wall up to the crown. Far out at sea a lightning bolt strikes the water harmlessly, far from the head lantern.
+story:
+بجانب الفندق القديم، كان حوت قاتل كبير يخرج منه مقوّسًا، وفوقه فانوس متوهّج على شكل رأس.
+«نمسك الحوت بالملقط، ونخيط الجسور على ظهره!» قال أوسوب وهو يرفع ملقطًا كبيرًا.
+فوقف زورو بينه وبين الحوت، سيوفه في أغمادها، وذراعاه معقودتان.
+«لا يد تلمس هذا الحوت، ولا ملقط!» قال زورو.
+وأحاطوا الحوت بحبل من المخمل الأحمر.
+ونمت كرمة فول الليما من جدار الفندق نفسه إلى التاج، دون أن تخاط على الحوت أبدًا.
+وفي البحر البعيد، ضربت صاعقة الماء، بعيدًا جدًّا عن فانوس الرأس.
+«لم يلمسه أحد، فلم يسقط البرق على الرأس!» قال تشوبر.
+وظلّ زورو واقفًا كالحارس العجوز الّذي حرس ابتسامة فتاة صغيرة.
+ذلك الحارس الّذي قال يومًا:
+quote: «إن سلبت نامي ابتسامتها يومًا، فسأقتلك!»
+source: غينزو
+explanation:
+The no-touch technique, with no clamp and no anastomosis on the aorta, has repeatedly been shown to reduce stroke: C is the answer.
+Atheroemboli from handling the aorta are the main cause of stroke during the operation, and off-pump surgery does not raise that risk.
+Small cohorts rarely reach statistical significance for an outcome as uncommon as stroke, and high-risk patients show the clearest benefit.
+Memory hook: a red velvet rope surrounds the untouched orca, and the lightning falls far out at sea.
+
