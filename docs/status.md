@@ -15,6 +15,7 @@ Updated 2026-11-21 (afternoon). Whoever works on YouTop next: read `CLAUDE.md`, 
   92, 98, 99, and all of 101-150.**
 - All 15 JH batches (1-150) and the three MedCosmos batches with 111, 123, 125, 128, 149 were rebuilt in this
   container, and recording + voice check of all of them started at 14:02 (JH 1-150 first, then the five MedCosmos).
+- **Prompts for every missing picture re-sent (2026-11-21, ~14:15):** `drafts/prompts-missing-2026-11-21.txt` (73 prompts: JH 18 gaps in 1-100, MedCosmos 111/123/125/128/149, JH 101-150), the exact texts sent before; each prompt's scene checked against its lesson's `scene:`.
 - Lesson 38's `keywords:` line was refused by the symbol check (the oesophagus symbol came after its prompt was sent).
   Its term now reads `trachea (... the prompt was sent before the oesophagus symbol existed)`; the scene is unchanged.
 
