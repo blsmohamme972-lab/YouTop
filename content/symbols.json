@@ -4664,7 +4664,14 @@
     "subarterial vsd",
     "doubly committed vsd",
     "inlet vsd",
-    "outlet vsd"
+    "outlet vsd",
+    "ventricular septal rupture",
+    "post-infarction ventricular septal defect",
+    "postinfarction ventricular septal defect",
+    "post-infarction vsd",
+    "postinfarction vsd",
+    "septal rupture",
+    "vsr"
    ],
    "symbol": "a ragged hole knocked through the thick brick LOWER PARTY WALL between the two engine rooms, water rushing through it",
    "anchors": [
@@ -4683,7 +4690,7 @@
     "drawable": 2,
     "sticky": 2
    },
-   "notes": "Type by place: perimembranous = high, beside a thin drum skin near the trident and the orca's mouth; muscular = low in the brick; subarterial = right under the pipe of dollar bills. Left-to-right flow: red water pouring into the blue room. Reversed: Eisenmenger's iceman.",
+   "notes": "Type by place: perimembranous = high, beside a thin drum skin near the trident and the orca's mouth; muscular = low in the brick; subarterial = right under the pipe of dollar bills. Left-to-right flow: red water pouring into the blue room. Reversed: Eisenmenger's iceman. After a heart attack (ventricular septal rupture): the same hole, torn through the thin dead wall.",
    "firstUsed": "MedCosmos (many)",
    "family": "party-wall",
    "status": "approved",
