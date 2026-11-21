@@ -1,8 +1,69 @@
 # Where the work stands
 
-Updated 2026-11-21 (morning). Whoever works on YouTop next: read `CLAUDE.md`, then this, then
-`docs/content-guide.md`. Rewrite this file whenever the state changes (it replaces the
+Updated 2026-11-21 (afternoon). Whoever works on YouTop next: read `CLAUDE.md`, then this, then
+`docs/content-guide.md` and the `youtop-lessons` skill. Rewrite this file whenever the state changes (it replaces the
 `status-<n>.txt` files in the Drive folder "YouTop private", which stop at 7).
+
+## HANDOFF (2026-11-21, ~13:15 UTC): the owner closed this conversation; start here
+
+**Two books are in progress. Nothing is waiting on the agent except what the owner asks; work only when asked.**
+
+1. **MedCosmos Cardiac (`medcosmos-cardiac`, 156 lessons): 151 published.** Lessons 111, 123, 125, 128, 149 are written
+   (batches in `drafts/medcosmos-cardiac/`) but held back until their pictures arrive (prompts:
+   `drafts/medcosmos-cardiac/prompts-missing.txt`). When they arrive: rebuild those batches, re-record them
+   (`voice.py make --only ...`), set pictures, spots, marks, look at every drawing, publish `--complete-only`.
+2. **Johns Hopkins 2016 (`johns-hopkins-2016`, 422 questions, One Piece style): 150 written, 0 published.**
+   - Lessons 1-150: scenes, stories (vowelled `voice.txt`), quotations, explanations all written, built and checked;
+     everything is in `drafts/johns-hopkins-2016/batch-0001-0010` ... `batch-0141-0150` (batch.txt + voice.txt).
+   - Picture prompts SENT to the owner: `prompts-jh-1-50.txt`, `prompts-jh-51-100.txt`, `prompts-jh-101-150.txt`.
+     **No JH picture has arrived yet.** The owner saves them as `N.png` in their Drive folder
+     `11gZ6LUEbDqbeyBc45sVLsKRQ6gpwLtdx` (the book's `imagesFolder`; private, so download with the Drive connector).
+   - Recording: 1-120 recorded and voice-checked in the old container (51-100: only lesson 66 needed a fix, done); 121-150
+     were recording when the conversation closed. **The recordings lived only in that container**: a new session must
+     rebuild and re-record (below). Do not commit audio to main.
+   - Next questions: lesson 151 = book question 31.1 (`python3 tools/content/batch.py questions johns-hopkins-2016 151 160
+     --master <jsonl>`). The owner works in steps of 50 ("Next 50"), with the standard order: scenes + prompts first
+     (send the combined prompts file at once), then stories, explanations, quotations, build, record, voice check.
+   - The owner's wishes for this book: One Piece (Oda) style pictures; One Piece quotations, from memory but genuine,
+     source named; "highest creativity, understanding and memory". Since 101: each story = a hook, a wrong try that
+     fails, the answer acting, a payoff line naming the symbol; each explanation ends with a "Memory hook:" sentence.
+   - Quotations: each line at most twice per book, at least 20 lessons apart (`quoteRepeats` in
+     `content/books/johns-hopkins-2016.json`; `batch.py build` enforces it; `batch.py quotes johns-hopkins-2016` lists
+     them). After 150, 70 lines are used twice (finished) and only the 10 new lines of lessons 101-150 are left once
+     (Sogeking, Usopp's island disease, Whitebeard to Teach, Binks' Sake, Oni Giri, Franky SUPER and "not crying",
+     Gomu Gomu no Pistol, Luffy to Coby, Thunderbolt Tempo; usable again from lesson ~165): lessons 151+ need many
+     NEW genuine lines.
+   - Keys corrected: 61 (book D -> E). Keys kept with a note: 24, 28, 38, 78, 80, 88, 138, 139, 149.
+
+**How to restart in a new container (JH):**
+
+    tools/setup-env.sh   # only if an APK is needed; content work needs only python3 and ffmpeg
+    python3 tools/content/publish.py --export .content-work        # published books + their work files
+    # download the JH master with the Drive connector: file id 1JmU8REE6sMtOSk6Ty664l8Q9__jtRogW
+    #   (john-hopkin-s-2016-450-q.jsonl), save it outside the repo, pass it as --master
+    mkdir -p .content-work/work/johns-hopkins-2016 && cp -r drafts/johns-hopkins-2016/batch-* .content-work/work/johns-hopkins-2016/
+    for b in .content-work/work/johns-hopkins-2016/batch-*/; do python3 tools/content/batch.py build $b/batch.txt --master <jsonl>; done
+    python3 -m venv <venv> && <venv>/bin/pip install edge-tts faster-whisper
+    <venv>/bin/python tools/content/voice.py make .content-work/work/johns-hopkins-2016/batch-0001-0010/voice.txt   # each batch
+    <venv>/bin/python tools/content/voice.py check  ...same file...   # "LISTEN TO THIS ONE" = look; a short quote or
+    #   "mmHg" read as "millimeters of mercury" often scores low while correct: cut the clip with ffmpeg and transcribe it
+    #   alone (padded) before rewriting anything.
+
+  Recording 150 lessons takes about 2.5 hours; run it detached (`setsid nohup script &`), because a background job
+  is killed after 2 hours. `voice.py make` rewrites the whole chapter (`q0001-0100`, `q0101-0200`): never build or
+  publish into a chapter while make runs on it. MedCosmos: same, with `drafts/medcosmos-cardiac/` and its master id in
+  `content/books/medcosmos-cardiac.json`.
+
+**When JH pictures arrive:** download them from the folder above into a scratch folder, `batch.py pictures <batch>`,
+then `spots`, `marks`, look at every grid and every circle drawing yourself, write `notes.txt`, then publish with
+`publish.py --complete-only` from a folder that links only `books/johns-hopkins-2016` and `work`. Save spots/marks/notes
+to `drafts/johns-hopkins-2016/pictures-<date>/`, update this file, PR + merge to main.
+
+**Standing rules from the owner (all still in force):** work alone (no subagents, no other sessions); no scheduled
+tasks or automatic rounds unless the owner asks; correct an answer key only for a clear, undisputed error (`key:` +
+`x:key-corrected` + `note:`); never commit book text outside `drafts/` work files; never upload to Drive; save to
+GitHub as you go (PR + squash merge to main); explain plainly and send files directly. The old hourly task
+trig_01CgSmtZZ33N4gFXAr9mtxZy no longer exists.
 
 ## START HERE (2026-11-19, night): automatic rounds every hour until the whole MedCosmos book (156) is done
 
