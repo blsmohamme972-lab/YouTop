@@ -158,6 +158,12 @@ sits in the picture). The model is endocarditis: playing CARDs (sound) sprouting
 | fundoplication (Nissen, partial) | the rim of the cooking pot folded up and wrapped round the bottom of the sofa slide like a scarf (A partial wrap = the scarf only half way round.) | a wrap of the stomach round the oesophagus | 9/10 | johns-hopkins-2016 |
 | thymus, thymoma | a bushy pot of thyme growing at the very front of the chest cabin (A thymoma = the thyme bush grown huge.) | thymus = thyme, and it sits in front | 9/10 | johns-hopkins-2016 |
 | pectus excavatum (funnel chest) | a yellow excavator digging a deep hollow in the front of a treasure chest | excavatum = dug out | 10/10 | johns-hopkins-2016 |
+| carotid artery (and carotid stenosis) | a giant orange carrot standing upright as the pipe from the orca's arch up to the head (Carotid endarterectomy = the carrot slit open and its tar scraped out; carotid stenting = a Slinky inside the carrot.) | carotid = carrot, the classic picture | 10/10 | johns-hopkins-2016 |
+| amiodarone | a bandolier of brass AMMO rounds fired at the dancing pirate (the arrhythmia) to stop him | amio = ammo; first used in lesson 25 | 10/10 | johns-hopkins-2016 25 |
+| diaphragm | the deck floor between the chest cabin above and the belly hold below, taut and springy like a trampoline (First drawn as the deck in lessons 10, 56 and 68. Paralysis = the deck gone slack on one side.) | the diaphragm is a domed sheet that moves with breathing | 9/10 | johns-hopkins-2016 10 |
+| hiatal hernia (sliding and paraesophageal) | the copper cooking pot pushing up through a widened hole in the deck floor (the diaphragm) | the stomach through the widened hiatus | 9/10 | johns-hopkins-2016 68 |
+| hibernating myocardium | a brown bear asleep in the hotel's engine room, turning the fan slowly while little coal reaches it, waking when the coal returns | a hibernating bear: alive, slowed down, wakes up | 10/10 | johns-hopkins-2016 |
+| malignant mesothelioma | a red crab spinning a thick grey rind, like a melon rind, all round the sack of dollar bills and the lining of the chest (Same family as the crab.) | the pleural rind of mesothelioma, spun by the cancer crab | 9/10 | johns-hopkins-2016 |
 
 ## Rejected (never use them)
 
