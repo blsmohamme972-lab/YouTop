@@ -191,7 +191,7 @@ titleAr: جرح الصدر النافذ: هبوط الضغط وانتفاخ أو
 tags: cardiac/other d:diagnosis q:recall l:1 x:high-yield
 palette: Harlem jazz-club blue smoke and brass gold, one rising pool of red
 words: 1, 2, 3
-keywords: Beck's triad -> a jazz TRIO of three brothers; tamponade -> a glass tank filling with red water and squeezing them; hypotension -> a limp, drooping tuba; muffled heart sounds -> drums wrapped in wet towels
+keywords: Beck's triad -> a jazz TRIO of three brothers; tamponade -> a glass tank filling with red water and squeezing them; a falling pressure (hypotension, drawn before the hypotension symbol existed) -> a limp, drooping tuba; muffled heart sounds -> drums wrapped in wet towels
 must: all three musicians are inside the same glass tank filling with red water; the tuba hangs limp, the singer's neck veins bulge, the drums are muffled by towels
 scene: A Harlem jazz club late at night, blue smoke. The stage is a big clear glass tank; inside it three brothers of a jazz trio play side by side, and red water is rising around them, pouring from a kitchen knife stuck in a water tank above the stage; the rising water squeezes them together. Each stands at a music stand painted 1, 2 or 3. At 1: the tuba player, whose big tuba sags limp and droops like a deflated balloon. At 2: the singer, the thick veins of his neck bulging like ropes as he strains to sing. At 3: the drummer, whose drums are wrapped in thick wet towels so that his beats come out as small grey puffs. Dominant, larger than life, in a cold spotlight: the three brothers together inside the filling tank. FOREGROUND RIGHT: the old woman who owns the club raises her cane to smash the glass.
 story:

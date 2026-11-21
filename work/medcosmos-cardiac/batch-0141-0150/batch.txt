@@ -141,7 +141,7 @@ titleAr: نتاج منخفض بعد المجازة رغم الدعم الكام�
 tags: cardiac/perioperative d:postoperative q:vignette l:2
 palette: night ICU green screens, sausage-balloon pink, cabbage green, dim blue
 words: 4, 2
-keywords: coronary artery bypass grafting -> big green cabbage leaves laid as bridges over the tar-clogged spikes of the Liberty crown; dopamine -> a coal miner with a lamp on his helmet, pushing hard; milrinone -> a tall windmill turning its sails; intra-aortic balloon pump -> a long sausage-shaped balloon inside the orca's belly, swelling when the fans rest and shrinking just before they push; low cardiac output -> a dial reading under 2
+keywords: coronary artery bypass grafting -> big green cabbage leaves laid as bridges over the tar-clogged spikes of the Liberty crown; dopamine -> a coal miner with a lamp on his helmet, pushing hard; milrinone -> a tall windmill turning its sails; intra-aortic balloon pump -> a long sausage-shaped balloon inside the orca's belly, swelling when the fans rest and shrinking just before they push; a weak pump (low cardiac output, drawn before the cardiac-output symbol existed) -> a dial reading under 2
 must: the sausage SWELLS while the fans are STILL and shrinks when they push; the dial reads under 2
 scene: A night intensive care unit beside the old Brooklyn hotel with a stag's head. A green Statue of Liberty crown on the wall has four spikes bridged with cabbage leaves, marked 4. A dial on the hotel reads under 2. Nurses have tried everything: a coal miner pushes, a windmill turns. CENTRE, dominant and brightest: a long pink sausage-shaped balloon inside the belly of a giant orca parade balloon swells while the engine-room fans stand still, and shrinks as they push.
 story:
