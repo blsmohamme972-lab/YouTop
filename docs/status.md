@@ -58,8 +58,13 @@ Updated 2026-11-21 (morning). Whoever works on YouTop next: read `CLAUDE.md`, th
     on memory and stories. New audited symbols: carotid (a carrot pipe up to the head lantern), amiodarone (ammo),
     diaphragm (a deck / trampoline), hiatal hernia (a widened hole in the deck), hibernating myocardium (a sleeping bear),
     mesothelioma (a rind). Keys kept with a note: 138 (full-dose heparin; many centres use less off-pump), 139 (routine
-    shunts; many use them selectively), 149 (NASCET's absolute reduction was about 17 percent). NEXT: stories,
-    explanations, quotations, build (chapter q0101-0200), recording. No JH picture has arrived yet.
+    shunts; many use them selectively), 149 (NASCET's absolute reduction was about 17 percent).
+  - Lessons 101-150: stories (each: a hook, a wrong try that fails, the answer acting, a payoff line naming the symbol),
+    explanations (each now ends with a "Memory hook:" sentence) and quotations written and built (chapter q0101-0200).
+    41 lines reused once (each line now used at most twice in the book) plus new genuine lines: Franky "I'm not crying!"
+    and "SUPER this week!", Usopp's "can't-go-on-this-island disease" and Sogeking, Zoro's Oni Giri, Luffy to Coby,
+    Whitebeard to Teach, Gomu Gomu no Pistol, Nami's Thunderbolt Tempo, Brook's Binks' Sake. Recording 101-150 queued
+    after 51-100 (2026-11-21). No JH picture has arrived yet.
   - **Restart warning (fixed 2026-11-21):** `batch.py build` for a NEW book used to run `publish.py --export` into
     `.content-work`, which overwrote the other books' unpublished lessons with their published copies (it wiped
     MedCosmos 111, 123, 125, 128, 149; they were rebuilt from their batches and their voices re-timed from the cache).
