@@ -12014,6 +12014,394 @@
    "status": "approved",
    "reason": "total 9/10, 2 layers",
    "audited": "2026-11-22"
+  },
+  {
+   "id": "digit-0",
+   "concept": "the digit 0 (zero) in a number",
+   "terms": [
+    "=digit 0",
+    "=number 0"
+   ],
+   "symbol": "a big shiny GOLDEN WHISTLE (a referee's whistle with a round body) on a red cord",
+   "anchors": [
+    "golden whistle",
+    "whistle"
+   ],
+   "kind": "number symbol: sound + meaning + shape",
+   "family": "digits",
+   "digit": "0",
+   "ar": "الصفّارة الذهبية",
+   "layers": {
+    "sound": "صفّارة (whistle) and صفّر (to whistle; in Iraq also 'to reset to zero': صفّر العدّاد) carry the letters of صِفر",
+    "meaning": "the referee's whistle starts every match at nil-nil: zero",
+    "shape": "its round body is a 0",
+    "place": "on, or held by, the symbol of what the number measures (the orca wears 5.5 for an aortic size); the story names the digits in order and the picture draws the first digit biggest, each next one smaller"
+   },
+   "why": "صفّارة = صِفر; the kick-off whistle at 0-0; round like a 0",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Small: hang it on the symbol it belongs to (the unicorn wearing the whistle = 10). Never a ring, coin or doughnut (the annulus, a lung coin, red cells) and never an egg (germ-cell tumour).",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 9/10, 3 layers",
+   "audited": "2026-11-22"
+  },
+  {
+   "id": "digit-1",
+   "concept": "the digit 1 (one) in a number",
+   "terms": [
+    "=digit 1",
+    "=number 1"
+   ],
+   "symbol": "a white UNICORN with one long straight golden horn",
+   "anchors": [
+    "unicorn"
+   ],
+   "kind": "number symbol: sound + meaning + shape",
+   "family": "digits",
+   "digit": "1",
+   "ar": "وحيد القرن الأبيض",
+   "layers": {
+    "sound": "its Arabic name وحيد القرن begins with وحيد, the word واحد (one); English uni-corn = one horn",
+    "meaning": "one single horn",
+    "shape": "the horn stands straight up like a 1",
+    "place": "on, or held by, the symbol of what the number measures (the orca wears 5.5 for an aortic size); the story names the digits in order and the picture draws the first digit biggest, each next one smaller"
+   },
+   "why": "وحيد القرن = واحد; one horn; uni = one; the horn is a 1",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Always white with a golden horn, no reins and no rainbow mane: the brown horse is the recurrent laryngeal nerve and the rainbow is the right coronary artery.",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-22"
+  },
+  {
+   "id": "digit-2",
+   "concept": "the digit 2 (two) in a number",
+   "terms": [
+    "=digit 2",
+    "=number 2"
+   ],
+   "symbol": "an emerald-green DRAGON with two big wings and a small orange flame, its long neck curved like a 2",
+   "anchors": [
+    "dragon"
+   ],
+   "kind": "number symbol: sound + meaning + shape",
+   "family": "digits",
+   "digit": "2",
+   "ar": "التنّين الأخضر",
+   "layers": {
+    "sound": "تِنّين (dragon) is how 'two' is said in the Levant (تنين) and close to Iraqi ثنين and اتنين",
+    "meaning": "two big wings",
+    "shape": "the curved neck and the tail flat on the ground make a 2",
+    "place": "on, or held by, the symbol of what the number measures (the orca wears 5.5 for an aortic size); the story names the digits in order and the picture draws the first digit biggest, each next one smaller"
+   },
+   "why": "تنّين = اتنين; two wings; its neck curves like a 2",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Always with wings and flame, so it never reads as the brachiosaurus (brachiocephalic artery), which has neither.",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-22"
+  },
+  {
+   "id": "digit-3",
+   "concept": "the digit 3 (three) in a number",
+   "terms": [
+    "=digit 3",
+    "=number 3"
+   ],
+   "symbol": "a sleek red FOX with three big bushy white-tipped tails",
+   "anchors": [
+    "fox"
+   ],
+   "kind": "number symbol: sound + meaning + shape",
+   "family": "digits",
+   "digit": "3",
+   "ar": "الثعلب ذو الذيول الثلاثة",
+   "layers": {
+    "sound": "ثعلب is the ث word every Arab child learns (ث ثعلب), the letter that opens ثلاثة; English 'foxy'",
+    "meaning": "three tails",
+    "shape": "the three tails fan out side by side, three strokes",
+    "place": "on, or held by, the symbol of what the number measures (the orca wears 5.5 for an aortic size); the story names the digits in order and the picture draws the first digit biggest, each next one smaller"
+   },
+   "why": "ث ثعلب = ثلاثة; three tails; foxy",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 1,
+    "sticky": 2
+   },
+   "notes": "Always red-orange with exactly three tails: the grey wolf is WPW, the brown hare is heparin, and the purple foxglove flower is digoxin (a flower, never beside the fox).",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 8/10, 3 layers",
+   "audited": "2026-11-22"
+  },
+  {
+   "id": "digit-4",
+   "concept": "the digit 4 (four) in a number",
+   "terms": [
+    "=digit 4",
+    "=number 4"
+   ],
+   "symbol": "a black square GRADUATION CAP (mortarboard) with a golden tassel",
+   "anchors": [
+    "graduation cap",
+    "mortarboard"
+   ],
+   "kind": "number symbol: sound + meaning + shape",
+   "family": "digits",
+   "digit": "4",
+   "ar": "قبّعة التخرّج المربّعة",
+   "layers": {
+    "sound": "قبّعة rhymes with أربعة (-بعة), and it is مربّعة (square), from the same root as أربعة; English mortar-board ~ four",
+    "meaning": "a square: four corners",
+    "shape": "the flat square top has four corners",
+    "place": "on, or held by, the symbol of what the number measures (the orca wears 5.5 for an aortic size); the story names the digits in order and the picture draws the first digit biggest, each next one smaller"
+   },
+   "why": "قبّعة مربّعة = أربعة; four corners; the cap thrown in the air when the boards are passed",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Never pointed (the bishop's mitre is the mitral valve) and never a crown (the coronaries).",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-22"
+  },
+  {
+   "id": "digit-5",
+   "concept": "the digit 5 (five) in a number",
+   "terms": [
+    "=digit 5",
+    "=number 5"
+   ],
+   "symbol": "a blue HAMSA hand amulet: an open palm with five fingers, an eye in its centre, edged in gold",
+   "anchors": [
+    "hamsa"
+   ],
+   "kind": "number symbol: sound + meaning + shape",
+   "family": "digits",
+   "digit": "5",
+   "ar": "كفّ الخمسة الزرقاء",
+   "layers": {
+    "sound": "its name is خمسة (خمسة وخميسة); English 'high five'",
+    "meaning": "five fingers",
+    "shape": "an open hand is five",
+    "place": "on, or held by, the symbol of what the number measures (the orca wears 5.5 for an aortic size); the story names the digits in order and the picture draws the first digit biggest, each next one smaller"
+   },
+   "why": "the amulet is called خمسة; five fingers; high five",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Always open, blue, with the eye: a fist is a fistula and a handshake is coaptation.",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-22"
+  },
+  {
+   "id": "digit-6",
+   "concept": "the digit 6 (six) in a number",
+   "terms": [
+    "=digit 6",
+    "=number 6"
+   ],
+   "symbol": "the SITT: a glamorous lady in a shimmering GOLDEN GOWN, her long black hair falling over one shoulder into one big round curl",
+   "anchors": [
+    "golden gown",
+    "gold gown"
+   ],
+   "kind": "number symbol: sound + meaning + shape",
+   "family": "digits",
+   "digit": "6",
+   "ar": "الستّ",
+   "layers": {
+    "sound": "ستّ (lady) is ستّة without its ة; in English, six sounds like sexy",
+    "meaning": "the lady of the house, الستّ",
+    "shape": "her hair falls into one round curl: a 6",
+    "place": "on, or held by, the symbol of what the number measures (the orca wears 5.5 for an aortic size); the story names the digits in order and the picture draws the first digit biggest, each next one smaller"
+   },
+   "why": "الستّ = ستّة; six = sexy; her curl is a 6",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 1,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Always the golden gown and the curl, so she is not taken for a passer-by. Never red (the red dress is pericarditis), never white marble (Venus is sinus venosus), never on her toes (the ballerina is torsades).",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 9/10, 3 layers",
+   "audited": "2026-11-22"
+  },
+  {
+   "id": "digit-7",
+   "concept": "the digit 7 (seven) in a number",
+   "terms": [
+    "=digit 7",
+    "=number 7"
+   ],
+   "symbol": "a muscular SWIMMER in a red swim cap and goggles diving off the end of a high diving board; the board and his straight body make a 7",
+   "anchors": [
+    "swimmer"
+   ],
+   "kind": "number symbol: sound + meaning + shape",
+   "family": "digits",
+   "digit": "7",
+   "ar": "السبّاح",
+   "layers": {
+    "sound": "سبّاح is سبعة with a long ā: sab-bāḥ / sab-ʿa (ḥ and ʿ are twin sounds)",
+    "meaning": "the dive off the board",
+    "shape": "the flat board and his slanting body make a 7",
+    "place": "on, or held by, the symbol of what the number measures (the orca wears 5.5 for an aortic size); the story names the digits in order and the picture draws the first digit biggest, each next one smaller"
+   },
+   "why": "سبّاح = سبعة; board + body = 7",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 1,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "In the air or on the surface, never under water and never in a helmet (the deep-sea diver is mediastinoscopy). Write 'swimmer', never 'diver', in a prompt.",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 8/10, 3 layers",
+   "audited": "2026-11-22"
+  },
+  {
+   "id": "digit-8",
+   "concept": "the digit 8 (eight) in a number",
+   "terms": [
+    "=digit 8",
+    "=number 8"
+   ],
+   "symbol": "a glossy honey-brown VIOLIN standing upright, its curved body wide, narrow, wide",
+   "anchors": [
+    "violin"
+   ],
+   "kind": "number symbol: sound + meaning + shape",
+   "family": "digits",
+   "digit": "8",
+   "ar": "الكمان",
+   "layers": {
+    "sound": "كمان rhymes with ثمان (ثمانية)",
+    "meaning": "its body has two round halves",
+    "shape": "its waisted body is an 8",
+    "place": "on, or held by, the symbol of what the number measures (the orca wears 5.5 for an aortic size); the story names the digits in order and the picture draws the first digit biggest, each next one smaller"
+   },
+   "why": "كمان = ثمان; its curved body is an 8",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "A violin alone: no orchestra or conductor (the sinus node) and no harp strings (the chordae).",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-22"
+  },
+  {
+   "id": "digit-9",
+   "concept": "the digit 9 (nine) in a number",
+   "terms": [
+    "=digit 9",
+    "=number 9"
+   ],
+   "symbol": "a cheeky brown MONKEY hanging by its curled tail: the loop of the tail on top, the body hanging below, a 9",
+   "anchors": [
+    "monkey"
+   ],
+   "kind": "number symbol: sound + meaning + shape",
+   "family": "digits",
+   "digit": "9",
+   "ar": "السعدان",
+   "layers": {
+    "sound": "سعدان (monkey) carries the سع at the heart of تسعة",
+    "meaning": "a monkey hanging by its tail",
+    "shape": "the tail's loop on top and the hanging body make a 9",
+    "place": "on, or held by, the symbol of what the number measures (the orca wears 5.5 for an aortic size); the story names the digits in order and the picture draws the first digit biggest, each next one smaller"
+   },
+   "why": "سعدان = تسعة; hanging by its tail it is a 9",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Hang it from the symbol it belongs to, never from a bundle of branches (the conduction system).",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 9/10, 3 layers",
+   "audited": "2026-11-22"
+  },
+  {
+   "id": "decimal-point",
+   "concept": "the decimal point in a number",
+   "terms": [
+    "=decimal point",
+    "=point"
+   ],
+   "symbol": "one big GOLDEN DROP hanging between two digits",
+   "anchors": [
+    "golden drop"
+   ],
+   "kind": "number symbol: sound + meaning + shape",
+   "family": "digits",
+   "digit": ".",
+   "ar": "النقطة الذهبية",
+   "layers": {
+    "sound": "in Arabic نقطة is both a drop and the decimal point (خمسة نقطة خمسة); in English a point is a dot",
+    "meaning": "a dot between the whole and the fraction",
+    "shape": "a drop is a dot",
+    "place": "on, or held by, the symbol of what the number measures (the orca wears 5.5 for an aortic size); the story names the digits in order and the picture draws the first digit biggest, each next one smaller"
+   },
+   "why": "نقطة = drop = point",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 1,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Always golden and alone between two digits: drops of water or blood mean leaking (regurgitation).",
+   "firstUsed": "",
+   "status": "approved",
+   "reason": "total 8/10, 3 layers",
+   "audited": "2026-11-22"
   }
  ]
 }

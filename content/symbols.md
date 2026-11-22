@@ -15,6 +15,30 @@ sound-alike of the name), **meaning** (what the thing is or does) and, when it m
 sits in the picture). The model is endocarditis: playing CARDs (sound) sprouting broccoli, the vegetations
 (meaning), on the valve it infects (place). Symbols made before that are marked legacy.
 
+## Numbers: one symbol for each digit (the owner, 2026-11-22)
+
+Pictures carry no written numbers, so a number is drawn with these. Each digit's symbol sounds like the digit in
+Arabic (say its Arabic name in the story), holds the number (one horn, five fingers) and looks like the digit.
+To make a number: the story names the digits in order; the picture draws the first digit biggest and each next one
+smaller; a repeated digit is drawn twice (55 = two hamsa hands); the golden drop is the decimal point
+(5.5 = hamsa, golden drop, hamsa); the number sits on the symbol of what it measures; units are not drawn.
+In `keywords:` write `number 5.5 (what it measures) -> the objects`; `symbols.py check` makes sure every digit
+is drawn in order. A number counts as one of the lesson's three recurring symbols.
+
+| Digit | Drawn as | Say (Arabic) | Why it sticks |
+|---|---|---|---|
+| 0 | a big shiny GOLDEN WHISTLE (a referee's whistle with a round body) on a red cord | الصفّارة الذهبية | صفّارة = صِفر; the kick-off whistle at 0-0; round like a 0 |
+| 1 | a white UNICORN with one long straight golden horn | وحيد القرن الأبيض | وحيد القرن = واحد; one horn; uni = one; the horn is a 1 |
+| 2 | an emerald-green DRAGON with two big wings and a small orange flame, its long neck curved like a 2 | التنّين الأخضر | تنّين = اتنين; two wings; its neck curves like a 2 |
+| 3 | a sleek red FOX with three big bushy white-tipped tails | الثعلب ذو الذيول الثلاثة | ث ثعلب = ثلاثة; three tails; foxy |
+| 4 | a black square GRADUATION CAP (mortarboard) with a golden tassel | قبّعة التخرّج المربّعة | قبّعة مربّعة = أربعة; four corners; the cap thrown in the air when the boards are passed |
+| 5 | a blue HAMSA hand amulet: an open palm with five fingers, an eye in its centre, edged in gold | كفّ الخمسة الزرقاء | the amulet is called خمسة; five fingers; high five |
+| 6 | the SITT: a glamorous lady in a shimmering GOLDEN GOWN, her long black hair falling over one shoulder into one big round curl | الستّ | الستّ = ستّة; six = sexy; her curl is a 6 |
+| 7 | a muscular SWIMMER in a red swim cap and goggles diving off the end of a high diving board; the board and his straight body make a 7 | السبّاح | سبّاح = سبعة; board + body = 7 |
+| 8 | a glossy honey-brown VIOLIN standing upright, its curved body wide, narrow, wide | الكمان | كمان = ثمان; its curved body is an 8 |
+| 9 | a cheeky brown MONKEY hanging by its curled tail: the loop of the tail on top, the body hanging below, a 9 | السعدان | سعدان = تسعة; hanging by its tail it is a 9 |
+| . | one big GOLDEN DROP hanging between two digits | النقطة الذهبية | نقطة = drop = point |
+
 ## Approved
 
 | Concept | Drawn as | Why | Score | First used |

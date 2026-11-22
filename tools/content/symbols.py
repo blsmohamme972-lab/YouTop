@@ -6,6 +6,10 @@
     symbols.py check batch.txt  every recurring concept named in a batch's 'keywords:' lines must be
                                 drawn with its approved symbol (batch.py prompts/build run this too)
 
+Numbers (the owner, 2026-11-22): each digit 0-9 and the decimal point has its own symbol (family "digits",
+field "digit"). A keyword 'number 5.5 (what it measures) -> object' must draw every digit's symbol, in the
+order of the digits (5.5 = hamsa, golden drop, hamsa). A number counts once toward the three recurring symbols.
+
 A symbol is scored 0-2 on five things: link (a sound-alike or a literal tie to the term), concrete,
 unmistakable, drawable (an image generator gets it right) and sticky (remembered at first sight).
 It is APPROVED when every score is at least 1 and the total is at least 8, and when its anchor words
@@ -102,11 +106,25 @@ def write_readable(data):
         "sound-alike of the name), **meaning** (what the thing is or does) and, when it matters, **place** (where it",
         "sits in the picture). The model is endocarditis: playing CARDs (sound) sprouting broccoli, the vegetations",
         "(meaning), on the valve it infects (place). Symbols made before that are marked legacy.", "",
-        "## Approved", "",
+        "## Numbers: one symbol for each digit (the owner, 2026-11-22)", "",
+        "Pictures carry no written numbers, so a number is drawn with these. Each digit's symbol sounds like the digit in",
+        "Arabic (say its Arabic name in the story), holds the number (one horn, five fingers) and looks like the digit.",
+        "To make a number: the story names the digits in order; the picture draws the first digit biggest and each next one",
+        "smaller; a repeated digit is drawn twice (55 = two hamsa hands); the golden drop is the decimal point",
+        "(5.5 = hamsa, golden drop, hamsa); the number sits on the symbol of what it measures; units are not drawn.",
+        "In `keywords:` write `number 5.5 (what it measures) -> the objects`; `symbols.py check` makes sure every digit",
+        "is drawn in order. A number counts as one of the lesson's three recurring symbols.", "",
+        "| Digit | Drawn as | Say (Arabic) | Why it sticks |", "|---|---|---|---|"] + [
+        f"| {s['digit']} | {s['symbol']} | {s.get('ar', '')} | {s['why']} |"
+        for s in sorted((x for x in data["symbols"] if x.get("family") == "digits" and x["status"] == "approved"),
+                        key=lambda x: ("." in x["digit"], x["digit"]))] + [
+        "", "## Approved", "",
         "| Concept | Drawn as | Why | Score | First used |", "|---|---|---|---|---|"]
     rows, rejected = [], []
     for s in data["symbols"]:
         total = sum(s["scores"].get(c, 0) for c in CRITERIA)
+        if s["status"] == "approved" and s.get("family") == "digits":
+            continue
         if s["status"] == "approved":
             note = f" ({s['notes']})" if s.get("notes") else ""
             rows.append(f"| {s['concept']} | {s['symbol']}{note} | {s['why']} | {total}/10 | {s.get('firstUsed') or '-'} |")
@@ -146,6 +164,50 @@ def has_anchor(obj, s):
     return any(_anchor_re(a.lower()).search(obj) for a in s.get("anchors", []))
 
 
+NUMBER = re.compile(r"^(?:number|#)\s*(\d[\d,]*(?:\.\d+)?|\.\d+)$", re.I)
+
+
+def number_term(term):
+    """The digits of a number keyword ('number 5.5 (aortic size, cm)' -> '5.5'), or None."""
+    m = NUMBER.match(re.sub(r"\([^)]*\)|\"[^\"]*\"", "", term).strip())
+    return m.group(1).replace(",", "") if m else None
+
+
+def digit_symbols(data):
+    return {s["digit"]: s for s in data["symbols"] if s.get("family") == "digits" and s.get("digit") and s.get("status") == "approved"}
+
+
+COUNT_WORDS = {"two": 2, "twin": 2, "twins": 2, "pair": 2, "three": 3, "four": 4, "five": 5, "six": 6}
+
+
+def number_problem(digits, obj, data):
+    """None when the object draws every digit's symbol in the order of the digits, else what is missing.
+    A digit that repeats (55, 100) is named once per digit, or once with a count ('two hamsa hands',
+    'three golden whistles')."""
+    table, obj, at = digit_symbols(data), obj.lower(), 0
+    runs = []
+    for d in digits:
+        if runs and runs[-1][0] == d:
+            runs[-1][1] += 1
+        else:
+            runs.append([d, 1])
+    want = ", ".join(table[x]["anchors"][0] for x in digits if x in table)
+    for d, k in runs:
+        s = table.get(d)
+        if s is None:
+            return f"no approved symbol for '{d}'"
+        while k > 0:
+            hits = sorted((m for a in s["anchors"] for m in _anchor_re(a.lower()).finditer(obj, at)), key=lambda m: m.start())
+            if not hits:
+                return f"draw it as {want} (in this order); '{d}' ({s['anchors'][0]}) is missing or out of order"
+            m = hits[0]
+            before = re.findall(r"[a-z]+", obj[max(0, m.start() - 30):m.start()])
+            count = next((COUNT_WORDS[w] for w in reversed(before[-3:]) if w in COUNT_WORDS), 1)
+            k -= min(count, k)
+            at = m.end()
+    return None
+
+
 def check_items(items, data=None):
     """Problems and notes for the 'keywords:' lines of parsed batch items (see batch.py)."""
     data = data or load()
@@ -159,6 +221,12 @@ def check_items(items, data=None):
                 problems.append(f"question {b['n']}: keyword '{part.strip()}' is not written 'term -> object'")
                 continue
             term, obj = pieces[0].strip(), pieces[1].strip()
+            digits = number_term(term)
+            if digits is not None:
+                why = number_problem(digits, obj, data)
+                if why:
+                    problems.append(f"question {b['n']}: number {digits}: {why}")
+                continue
             s = match(term, data)
             if s is None:
                 local.append(f"question {b['n']}: '{term}' -> {obj[:60]}")
@@ -185,9 +253,17 @@ def lesson_symbols(b, data=None):
         pieces = re.split(r"->|→", part, maxsplit=1)
         if len(pieces) != 2:
             continue
+        digits = number_term(pieces[0].strip())
+        if digits is not None:
+            # A number is one recurring symbol, however many digits it has.
+            if number_problem(digits, pieces[1], data) is None and "number" not in found:
+                found.append("number")
+            continue
         s = match(pieces[0].strip(), data)
-        if s and s.get("status") == "approved" and s["id"] not in FRAME and has_anchor(pieces[1], s) and s["id"] not in found:
-            found.append(s["id"])
+        if s and s.get("status") == "approved" and s["id"] not in FRAME and has_anchor(pieces[1], s):
+            sid = "number" if s.get("family") == "digits" else s["id"]
+            if sid not in found:
+                found.append(sid)
     return found
 
 
