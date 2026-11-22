@@ -13,11 +13,11 @@ Updated 2026-11-21 (evening). Whoever works on YouTop next: read `CLAUDE.md`, th
 and merged to main as it is done. The owner asked for it overnight, with an hourly wake-up scheduled task
 (trig_01PU9vpvigNUp6wUdpdP37Yc) to resume after a usage-limit pause; disable it when 422 is reached. Other sessions:
 do not write 151+ in parallel; pictures, voices and publishing of 1-150 are unaffected.
-- Progress (update as it goes): **151-390 written** (tables, scenes, prompts, vowelled stories, quotations, explanations;
-  `drafts/johns-hopkins-2016/batch-0151-0160` ... `batch-0381-0390`; prompts for the owner: `prompts-jh-151-180.txt`,
-  `prompts-jh-181-190.txt` ... `prompts-jh-381-390.txt`; 151-300 were sent to the owner as one file on 2026-11-22). **Quotation pending** (story written up to the
+- Progress (update as it goes): **151-400 written** (tables, scenes, prompts, vowelled stories, quotations, explanations;
+  `drafts/johns-hopkins-2016/batch-0151-0160` ... `batch-0391-0400`; prompts for the owner: `prompts-jh-151-180.txt`,
+  `prompts-jh-181-190.txt` ... `prompts-jh-391-400.txt`; 151-300 were sent to the owner as one file on 2026-11-22). **Quotation pending** (story written up to the
   payoff, no lead-in or quotation yet, so not built or recorded): 242, 243, 246, 247, 248, 250, 251, 252, 254-259,
-  261-263, 265-267, 269-390. Voices: 151-241, 244, 245, 249, 253, 260, 264, 268 recorded (built one by one from `.content-work/work/johns-hopkins-2016/single-<n>/`,
+  261-263, 265-267, 269-400. Voices: 151-241, 244, 245, 249, 253, 260, 264, 268 recorded (built one by one from `.content-work/work/johns-hopkins-2016/single-<n>/`,
   because the validator refuses gaps). Audio only in this container; rebuild + `voice.py make` reproduces it; a worker
   restart at ~01:00 UTC interrupted 211-220, which were recorded again.
   `voice.py check` of 151-180: 5 sentences flagged, all false alarms when each clip was transcribed alone (155 and 180:
@@ -57,6 +57,10 @@ do not write 151+ in parallel; pictures, voices and publishing of 1-150 are unaf
   163, 237, 238) still carry the NUL in their quiz text until they are rebuilt or patched and published again.
   384 E prints "1 5 mm/year" (1.5 or 15? not known): the map keeps it as printed, and lesson 384 (key D) never states that number.
   387 C prints "late reintervention in aortic regurgitation"; the map reads it as "is" (key A kept; the explanation does not call C true).
+  392: option D printed corrected ("right-to-left" -> "left-to-left": a coronary fistula never shunts right-to-left), key D kept,
+  `x:key-corrected` + note. 397: key C ("mortality for PA sling repair is zero") kept with a note. **399: the book prints
+  80.2 (lesson 381) again as 85.2** (the real 85.2, on Ebstein's anomaly, is lost); so the owner is not asked the same
+  question twice, 399 asks the same five statements the other way round (`asks:`, "which are NOT true" = A, C, D, E), with a note.
 - 275 (PFO closure): the book's key "none of the above" was right when it was written; since October 2016 PFO
   closure IS FDA-approved for cryptogenic stroke thought to be paradoxical embolism. Key kept (not a book error);
   the story and the explanation teach both. The owner may prefer key A.
