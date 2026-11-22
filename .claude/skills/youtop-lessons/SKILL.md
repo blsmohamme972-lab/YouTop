@@ -60,6 +60,11 @@ MedCosmos Cardiac (lessons 1-20 are the first set written to them) onwards.
    The same goes for one-off keywords in a scene: join the sound-alike to the meaning wherever possible. `batch.py prompts` and `build` refuse a batch
    whose `keywords:` draw a listed concept any other way (`symbols.py check batch.txt` shows why).
    Never invent a second symbol for a concept that already has one.
+   **Required since 2026-11-22 (the owner): every lesson carries at least three recurring symbols**, each named in
+   `keywords:` (a term of the symbol -> an object containing its anchor) and drawn in the scene. The HART Hotel and
+   its lobbies and engine rooms, the frame of every heart picture, do not count. `symbols.py check` and
+   `batch.py prompts` refuse a lesson with fewer; `batch.py build` only warns, so lessons already drawn can be rebuilt.
+   If the lesson's concept has no symbol yet and will come back, make one (with the audit above).
 
 Before handing over a prompt, read it against the five rules: does every element interact? Has every
 abstract term of the answer a concrete keyword? Is the answer the brightest, largest thing? Is

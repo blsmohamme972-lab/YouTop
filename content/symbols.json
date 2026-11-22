@@ -11903,6 +11903,117 @@
    "status": "approved",
    "reason": "total 9/10, 3 layers",
    "audited": "2026-11-22"
+  },
+  {
+   "id": "antigen-presenting-cells",
+   "concept": "Antigen-presenting cells (dendritic cells, macrophages) showing pieces of foreign protein to T cells; direct and indirect allorecognition",
+   "terms": [
+    "antigen-presenting cell",
+    "antigen-presenting cells",
+    "antigen presenting cell",
+    "antigen presenting cells",
+    "apcs",
+    "dendritic cell",
+    "dendritic cells",
+    "allorecognition",
+    "direct allorecognition",
+    "indirect allorecognition"
+   ],
+   "symbol": "a TV PRESENTER with a microphone holding up pieces of a foreign plant's leaves on a little stand for the white soldier ants to see (one shelf = class I, two shelves = class II)",
+   "anchors": [
+    "tv presenter",
+    "presenter"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "antigen-PRESENTING cell = a TV PRESENTER",
+    "meaning": "it shows pieces of foreign protein to the T cells (the soldier ants), as a presenter shows things on air",
+    "place": "among the soldier ants beside the transplanted plant, holding the pieces up on a one- or two-shelf stand (MHC class I or II)"
+   },
+   "why": "the name itself: an antigen-PRESENTING cell is a presenter; the stand's shelves keep MHC class I and II apart",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Direct allorecognition: the new plant's own presenters, who came with it, show its fresh leaves. Indirect: the patient's own presenters gather the fallen leaves, boil them down and show the pieces.",
+   "firstUsed": "Johns Hopkins 241",
+   "status": "approved",
+   "reason": "total 9/10, 3 layers",
+   "audited": "2026-11-22"
+  },
+  {
+   "id": "mtor-inhibitors",
+   "concept": "mTOR (proliferation signal) inhibitors: sirolimus, everolimus; they stop cells from multiplying (G1 arrest), slow allograft vasculopathy and coat drug-eluting stents",
+   "terms": [
+    "mtor inhibitor",
+    "mtor inhibitors",
+    "tor inhibitor",
+    "tor inhibitors",
+    "proliferation signal inhibitor",
+    "proliferation signal inhibitors",
+    "regulatory kinase inhibitor",
+    "regulatory kinase inhibitors",
+    "sirolimus",
+    "everolimus",
+    "rapamycin"
+   ],
+   "symbol": "a gardener's PRUNING HOOK snipping off every new shoot, so that nothing can grow and multiply: the overgrowing walls of the new crown's spikes, or the soldier ants' swarm",
+   "anchors": [
+    "pruning hook"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "it stops growth and multiplication, as pruning stops new shoots",
+    "place": "on the walls of the transplanted crown's spikes (vasculopathy), on the soldier ants' nest (rejection), on a Slinky's coat (drug-eluting stent)"
+   },
+   "why": "pruning is what these drugs do to cells: they cut off proliferation",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Not a calcineurin inhibitor (the cyclone in a taco shell) and not an antimetabolite.",
+   "firstUsed": "Johns Hopkins 415",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-22"
+  },
+  {
+   "id": "protein-losing-enteropathy",
+   "concept": "Protein-losing enteropathy (after the Fontan operation): the gut leaks protein",
+   "terms": [
+    "protein-losing enteropathy",
+    "protein losing enteropathy",
+    "ple"
+   ],
+   "symbol": "a plate of SPAGHETTI (the gut) leaking white EGG-WHITE (protein) onto the table, usually beside the courtyard fountain (Fontan)",
+   "anchors": [
+    "egg-white",
+    "egg white"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "egg-white is protein, and it leaks out",
+    "place": "the spaghetti is the gut (the mesenteric symbol's bowel), beside the Fontan fountain whose high water pressure causes it"
+   },
+   "why": "what leaks (protein = egg-white) and where (the gut = spaghetti) in one object",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Late, uncommon and serious after a Fontan.",
+   "firstUsed": "Johns Hopkins 416",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-22"
   }
  ]
 }

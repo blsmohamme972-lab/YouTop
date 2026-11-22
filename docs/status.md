@@ -4,6 +4,44 @@ Updated 2026-11-22 (morning). Whoever works on YouTop next: read `CLAUDE.md`, th
 `docs/content-guide.md` and the `youtop-lessons` skill. Rewrite this file whenever the state changes (it replaces the
 `status-<n>.txt` files in the Drive folder "YouTop private", which stop at 7).
 
+## HANDOFF (2026-11-22, ~08:30 UTC): THREE RECURRING SYMBOLS PER LESSON, half done; start here
+
+The owner (2026-11-22): "every lesson contains 3 recurring symbols". Counted as at least three approved symbols from
+`content/symbols.json`, each named in the lesson's `keywords:` (a term of the symbol -> an object containing its anchor)
+and drawn; the HART Hotel and its lobbies and engine rooms (the frame) do not count. Written into the skill (rule 5),
+`CLAUDE.md` and the tools: `symbols.py` (`lesson_symbols`, `too_few`); `symbols.py check` and `batch.py prompts` refuse
+a lesson with fewer; `batch.py build` only warns, so lessons already drawn can still be rebuilt.
+- Measured before the fix: 239 of the 422 Johns Hopkins lessons had fewer than three (69 published with pictures,
+  170 without pictures).
+- New audited symbols: **antigen-presenting cells = a TV presenter** (JH 241), **mTOR inhibitors = a gardener's
+  pruning hook** (415, 417; it replaces 417's gate guard), **protein-losing enteropathy = spaghetti leaking egg-white**
+  (416, 422). 353 symbols, 350 approved.
+- **DONE: JH 151-422 all have three or more** (`drafts/johns-hopkins-2016/batch-*` and `.content-work` updated; prompts
+  regenerated into `drafts/johns-hopkins-2016/prompts-jh-*.txt` and sent to the owner as one corrected file, 151-422).
+  Most lessons only gained keyword lines naming symbols already in the picture. **33 got a new or changed object in the
+  picture:** 169, 195, 198, 199, 200, 202, 209, 215, 218, 219, 227, 230, 242, 247, 248, 249, 251, 254, 257, 261, 262,
+  264, 271, 276, 277, 284, 285, 289, 345, 372, 392, 411, 417. Their stories do not mention the new objects yet
+  (optional: one sentence in `voice.txt`, then `voice.py fill`; 151-241, 244, 245, 249, 253, 260, 264, 268 were
+  recorded and would need recording again).
+- **TO DO, next agent:**
+  1. **JH 1-150 without pictures, 54 lessons short:** 14, 23, 31, 36, 54, 59, 64, 65, 76, 80, 81, 90, 92, 98, 99,
+     101, 103-105, 107-125 (except 106, 126, 128, 129, 132), 127, 130, 131, 133-140, 142, 144, 146, 149, 150 (run
+     `python3 tools/content/symbols.py check drafts/johns-hopkins-2016/batch-0001-0010/batch.txt ...` for the exact
+     list). Easy ones, symbol already drawn, only a keyword line needed: 14 node-stations; 59 oesophagus + reflux;
+     76 oesophagus; 81 thymoma + chemotherapy; 99 chest-tube; 108 oesophagus; 110 stomach + les; 111 cabg; 114 cabg +
+     ischaemic-heart-disease; 121, 124, 142, 144 coronary; 131 aorta; 134 ejection-fraction; 136, 138 cabg; 137 cabg +
+     cpb; 140 lima; 149, 150 carotid. 98: rename the "recurrent pneumothorax" keyword so its term names the
+     pneumothorax symbol and draw the beach ball. The others need a meaningful symbol added to the picture. Then run
+     `batch.py prompts` on those batches and send the owner the corrected prompts.
+  2. **69 published JH lessons with fewer than three** (1-100 except the 18 without a picture): their pictures exist,
+     so fixing them means new pictures. Ask the owner first.
+  3. MedCosmos and the other books were not checked: run `symbols.py check` on their batches.
+- The owner was told (2026-11-22) to hold off making pictures for 101-422 and for the 18 missing ones until the
+  corrected prompts arrive: 151-422 are sent; 1-150 are still to send.
+- Method used here: for each short lesson, first name symbols the picture already shows (a keyword line whose
+  object quotes the scene's own words), then rename keyword terms to a symbol's term where the object already draws
+  it, and only then add an object to the scene, chosen for its meaning in that question.
+
 ## HANDOFF (2026-11-21, ~13:15 UTC): the owner closed this conversation; start here
 
 **Two books are in progress. Nothing is waiting on the agent except what the owner asks; work only when asked.**

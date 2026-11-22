@@ -14,7 +14,7 @@ title: In TGA, effective systemic blood flow equals the anatomic left-to-right s
 titleAr: في تبدّل الشريانين الكبيرين يساوي الجريان الجهازيّ الفعّال حجم التحويلة التشريحيّة من اليسار إلى اليمين
 tags: cardiac/congenital d:physiology q:recall l:3
 palette: twin-loop red and blue, bridge gold and city grey
-keywords: transposition of the great arteries -> the orca and the dollar pipe swapped: the orca leaving the blue engine room, the dollar pipe the red one; parallel circulations -> two separate water loops, a red one and a blue one, running side by side; effective systemic blood flow -> the only red water that reaches the city being what crosses little bridges from the red loop to the blue loop; mixing sites -> the little bridges (the hole in the upper wall, the duct-tape tunnel); PGE1 -> a raised beer stein propping the duct-tape tunnel open
+keywords: transposition of the great arteries -> the orca and the dollar pipe swapped: the orca leaving the blue engine room, the dollar pipe the red one; parallel circulations -> two separate water loops, a red one and a blue one, running side by side; effective systemic blood flow -> the only red water that reaches the city being what crosses little bridges from the red loop to the blue loop; mixing sites -> the little bridges (the hole in the upper wall, the duct-tape tunnel); PGE1 -> a raised beer stein propping the duct-tape tunnel open; ductus arteriosus -> a raised beer stein propping the duct-tape tunnel open; atrial septal defect -> a small hole in the upper party wall, a golden bridge where the two streams can mix
 must: the two loops never meet except at the little bridges; only the red water crossing the bridges reaches the city
 scene: A HART Hotel whose orca and pipe of dollar bills are swapped, seen from above: two separate water loops, a red one and a blue one, running side by side and never meeting, except at a few little golden bridges (a hole in the upper party wall, a tunnel of shiny silver duct tape propped open by a raised beer stein); only the red water that crosses the bridges flows on to the city. LEFT: Usopp pouring more red water into the red loop, none of it reaching the city. Chopper.
 story:
@@ -43,7 +43,7 @@ title: In TGA, a systolic murmur is often absent at birth
 titleAr: في تبدّل الشريانين الكبيرين كثيرًا ما تغيب النفخة الانقباضيّة عند الولادة
 tags: cardiac/congenital d:diagnosis q:recall l:2
 palette: nursery white, lip blue and whoosh gold
-keywords: transposition of the great arteries -> the orca and the dollar pipe swapped: the orca leaving the blue engine room, the dollar pipe the red one; cyanosis -> newborns with bright blue lips and fingertips; murmurs absent -> most of them lying silent, no whoosh from their hotels; murmurs present in a few -> only one or two hotels giving a loud whoosh; murmurs increase over time -> an older child's whoosh growing louder
+keywords: transposition of the great arteries -> the orca and the dollar pipe swapped: the orca leaving the blue engine room, the dollar pipe the red one; cyanosis -> newborns with bright blue lips and fingertips; murmurs absent -> most of them lying silent, no whoosh from their hotels; murmurs present in a few -> only one or two hotels giving a loud whoosh; murmurs increase over time -> an older child's whoosh growing louder; aorta -> each beside a small HART Hotel whose orca and dollar pipe are swapped
 must: of ten blue-lipped newborns, most are silent; only one or two whoosh
 scene: A hospital nursery at dawn. CENTRE, dominant and brightest: ten newborns with bright blue lips and fingertips in a row of cribs, each beside a small HART Hotel whose orca and dollar pipe are swapped; most of the hotels silent, only one or two giving a loud whoosh. LEFT: Usopp with an ear trumpet, expecting nine whooshes. Chopper.
 story:
@@ -98,7 +98,7 @@ title: The commonest reintervention after the arterial switch is supravalvar pul
 titleAr: أكثر أسباب إعادة التدخّل بعد التبديل الشريانيّ تضيّق الشريان الرئويّ فوق الصمّام
 tags: cardiac/congenital d:complications q:recall l:2
 palette: switch-yard iron, clamp grey and money green
-keywords: arterial switch -> a subway switchman pulling a big railway switch lever that swings the orca and the pipe of dollar bills back to their own engine rooms; supravalvar pulmonary stenosis -> an iron clamp pinching the pipe of dollar bills just above its door, where it was sewn during the switch; reintervention -> the switchman coming back with a balloon and a patch to widen it; good long-term survival -> most switched hotels standing well after ten years
+keywords: arterial switch -> a subway switchman pulling a big railway switch lever that swings the orca and the pipe of dollar bills back to their own engine rooms; supravalvar pulmonary stenosis -> an iron clamp pinching the pipe of dollar bills just above its door, where it was sewn during the switch; reintervention -> the switchman coming back with a balloon and a patch to widen it; good long-term survival -> most switched hotels standing well after ten years; coronary artery -> the green crown's buttons riding along with the orca
 must: the iron clamp pinches the money pipe just above its door, where the switch was sewn
 scene: A railway switch yard. CENTRE, dominant and brightest: a switched HART Hotel whose pipe of dollar bills is pinched by an iron clamp just above its door, where it was sewn during the switch; the subway switchman coming back with a balloon and a patch to widen it. AROUND, dimmer: many other switched hotels standing well in the sun. LEFT: Usopp checking the crown's buttons instead. Chopper.
 story:
@@ -267,7 +267,7 @@ title: The commonest form of HLHS is aortic atresia with mitral atresia
 titleAr: أكثر أشكال متلازمة نقص تنسّج القلب الأيسر شيوعًا رتق الأبهر مع رتق التاجيّ
 tags: cardiac/congenital d:pathology q:recall l:2
 palette: toy-shop pastel, hippo grey and weld orange
-keywords: hypoplastic left heart syndrome -> a little plastic toy hippo wedged into a red wing shrunk to doll size; aortic atresia -> the orca balloon's mouth welded shut with a thick iron cap; mitral atresia -> the bishop's mitre welded shut too; other forms -> narrow stone doors instead of welded ones, less often
+keywords: hypoplastic left heart syndrome -> a little plastic toy hippo wedged into a red wing shrunk to doll size; aortic atresia -> the orca balloon's mouth welded shut with a thick iron cap; mitral atresia -> the bishop's mitre welded shut too; other forms -> narrow stone doors instead of welded ones, less often; mitral valve -> the bishop's mitre welded shut too
 must: in the commonest form both doors of the doll-sized red wing, the orca's mouth and the mitre, are welded shut
 scene: A toy shop at night. CENTRE, dominant and brightest: a little plastic toy hippo wedged into a HART Hotel's red wing shrunk to doll size, both its doors welded shut with thick iron caps: the orca balloon's mouth and the bishop's mitre. AROUND, dimmer: other doll-sized red wings with narrow stone doors instead. LEFT: Usopp trying to pry the welded mitre open. Chopper.
 story:

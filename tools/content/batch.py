@@ -457,7 +457,7 @@ def cmd_build(args):
     head, items = parse(args.batch)
     cfg = book_config(head["book"])
     if cfg.get("soundAlikes"):
-        symbol_check(items)
+        symbol_check(items, few_is_problem=False)
     master = load_master(args.master)
     folder = pathlib.Path(args.folder).resolve()
     book_dir = ensure_folder(folder, cfg)
@@ -504,14 +504,22 @@ def cmd_build(args):
     print(f"Publish:  python3 tools/content/publish.py {folder} -m \"{cfg['sourceLabel']}: lessons {min(numbers)}-{max(numbers)}\"")
 
 
-def symbol_check(items):
-    """The owner's rule 5: a recurring concept is drawn with its audited symbol (tools/content/symbols.py)."""
+def symbol_check(items, few_is_problem=True):
+    """The owner's rule 5: a recurring concept is drawn with its audited symbol (tools/content/symbols.py), and every
+    lesson carries at least three recurring symbols (the owner, 2026-11-22). The prompts step refuses a lesson with
+    fewer; the build only warns, so that lessons already drawn can still be rebuilt."""
     import symbols
     problems, local = symbols.check_items(items)
+    few = symbols.too_few(items)
     if local:
         print(f"{len(local)} keyword(s) are not recurring symbols (fine for one-offs; add one to content/symbols.json if it will come back):")
         for line in local:
             print("   ", line)
+    if few_is_problem:
+        problems += few
+    else:
+        for line in few:
+            print("warning:", line)
     if problems:
         die("recurring symbols:\n  " + "\n  ".join(problems))
 

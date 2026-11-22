@@ -171,6 +171,38 @@ def check_items(items, data=None):
     return problems, local
 
 
+# The owner (2026-11-22): every lesson carries at least three recurring symbols. The HART Hotel and its lobbies and
+# engine rooms, the frame of every heart picture, do not count; each symbol must be named in 'keywords:' and drawn there.
+MIN_PER_LESSON = 3
+FRAME = {"hart-hotel", "atrium", "ventricle"}
+
+
+def lesson_symbols(b, data=None):
+    """The approved recurring symbols a lesson's 'keywords:' name and draw, the frame not counted."""
+    data = data or load()
+    found = []
+    for part in (b.get("keywords") or "").split(";"):
+        pieces = re.split(r"->|→", part, maxsplit=1)
+        if len(pieces) != 2:
+            continue
+        s = match(pieces[0].strip(), data)
+        if s and s.get("status") == "approved" and s["id"] not in FRAME and has_anchor(pieces[1], s) and s["id"] not in found:
+            found.append(s["id"])
+    return found
+
+
+def too_few(items, data=None, minimum=MIN_PER_LESSON):
+    """The lessons with fewer than `minimum` recurring symbols (the owner's rule, 2026-11-22)."""
+    data = data or load()
+    out = []
+    for b in items:
+        ids = lesson_symbols(b, data)
+        if len(ids) < minimum:
+            out.append(f"question {b['n']}: {len(ids)} recurring symbol(s) ({', '.join(ids) or 'none'}); every lesson needs "
+                       f"at least {minimum}, named in 'keywords:' and drawn (the owner, 2026-11-22; the hotel frame does not count)")
+    return out
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     sub = ap.add_subparsers(dest="cmd", required=True)
@@ -196,6 +228,7 @@ def main():
     for path in args.batch:
         _, items = batch.parse(path)
         problems, local = check_items(items, data)
+        problems += too_few(items, data)
         for p in problems:
             print("PROBLEM:", p)
         print(f"{path}: {len(problems)} problem(s); {len(local)} keyword(s) not in the symbol list (fine if they are one-offs):")

@@ -188,6 +188,8 @@ under `book/chapter/lesson` on their phone.
   make the pictures while the agent writes; the story told by a woman narrator with a voice for
   each character and exact timings (`voice.py`); then spots and numbered marks from the picture.
 - The picture is never zoomed or cropped; only a spotlight moves over it, in step with the voice.
+- Since 2026-11-22 every lesson carries at least three recurring symbols from `content/symbols.json`, named in its
+  keywords and drawn (the hotel and its rooms do not count); the tools refuse a new prompt with fewer.
 - The Arabic story is a real story with no medical explanation in it; the science is in the
   English explanation (see `docs/content-guide.md`, "The story is a story").
 - Each lesson plays story → explanation → question automatically, and waits there for the answer. "Question first"
