@@ -127,6 +127,7 @@ something looks wrong on theirs.
   studies only it), saved lessons,
   `SettingsTab.kt` (pace, lesson behaviour, sync, backup, advanced timing). `Parts.kt` holds the
   shared pieces (cards, switches, buttons); use them for anything new so pages keep one look.
+- `data/Feedback.kt`, `ui/RedoSheet.kt` — "Good" / "Redo" notes and the GitHub issue they are sent as.
 - `data/Backup.kt` — the learning history as a file the owner saves and restores from Settings.
 
 Keep new fields in `Models.kt` optional with defaults, so older content keeps loading, and keep
@@ -135,6 +136,29 @@ keep loading. Content is never trusted: a book that cannot be read is skipped (t
 stays), repeated ids are dropped, and a question without a valid answer is not asked
 (`Lesson.clean()`); keep it that way when the format grows. Every text the owner sees is in
 `res/values/strings.xml` and `res/values-ar/strings.xml`; add both.
+
+## Lesson feedback from the app (read it at the start of every session)
+
+Since 2.6 every lesson has two buttons on the left: **Good** ("good job": the owner likes this lesson, make
+more like it) and **Redo** (a window where the owner ticks what is wrong and writes what should change).
+The app keeps these notes on the phone and sends them as a **GitHub issue** on this repository titled
+`Lesson feedback: …` (the browser opens with it written in; the owner presses "Create"). "Good" alone
+waits until the next Redo, or Settings → Notes for the agent → Send.
+
+Each note in the issue body:
+
+    ### REDO <book id>/<chapter id>/<lesson id>
+    Title: …
+    Wrong: picture, story          (codes: picture spotlight circles story voice explanation question answer tags other)
+    Where: story, sentence 7 of 12: «first words of that sentence»
+    Note:
+    > the owner's words
+
+    ### GOOD <book id>/<chapter id>/<lesson id>
+
+What to do: list open issues whose title starts with `Lesson feedback` (GitHub MCP `list_issues`).
+Redo each REDO with the `youtop-lessons` skill (keep the ids); learn from each GOOD what the owner likes
+(note it in `docs/status.md`). When an issue is fully handled, comment what was done, with the footer, and close it.
 
 ## Updating content (no APK needed)
 

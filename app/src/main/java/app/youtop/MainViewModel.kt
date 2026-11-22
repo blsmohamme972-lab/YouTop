@@ -9,6 +9,8 @@ import app.youtop.data.Backup
 import app.youtop.data.ContentRepository
 import app.youtop.data.DriveClient
 import app.youtop.data.FeedItem
+import app.youtop.data.Feedback
+import app.youtop.data.Note
 import app.youtop.data.Lesson
 import app.youtop.data.MediaCache
 import app.youtop.data.Prefs
@@ -360,6 +362,25 @@ class MainViewModel(app: Application) : AndroidViewModel(app) {
     }
 
     fun toggleSaved(key: String) = viewModelScope.launch { prefs.toggleSaved(key) }
+
+    /** "Good job" on a lesson: kept, and sent to the agent with the next notes. Tapped again, taken back. */
+    fun toggleLiked(item: FeedItem, title: String) = viewModelScope.launch {
+        prefs.toggleLiked(item.key, Note(Feedback.GOOD, item.key, title, at = System.currentTimeMillis()))
+    }
+
+    fun addNote(note: Note) = viewModelScope.launch { prefs.addNote(note) }
+
+    /**
+     * Opens GitHub's "new issue" page with the waiting notes written in (the owner presses "Create"
+     * there, and the agent reads it). The notes it holds are taken off the phone's list once the page
+     * has opened. False when nothing waits or no browser could open it.
+     */
+    fun sendNotes(open: (String) -> Boolean): Boolean {
+        val (url, sent) = Feedback.issue(settings.value.notes, BuildConfig.VERSION_NAME) ?: return false
+        if (!open(url)) return false
+        viewModelScope.launch { prefs.sentNotes(sent) }
+        return true
+    }
 
     fun setStudy(study: StudySettings) = viewModelScope.launch { prefs.setStudy(study) }
 

@@ -27,6 +27,10 @@ data class Settings(
     val study: StudySettings = StudySettings(),
     /** The "swipe up for the next lesson" hint has been shown and acted on. */
     val hintSeen: Boolean = false,
+    /** Lessons the owner said "good job" to (kept after sending, so the button stays lit). */
+    val liked: Set<String> = emptySet(),
+    /** Notes for the agent not sent yet (see [Feedback]). */
+    val notes: List<Note> = emptyList(),
 )
 
 class Prefs(private val context: Context) {
@@ -39,6 +43,8 @@ class Prefs(private val context: Context) {
     private val saved = stringSetPreferencesKey("saved")
     private val study = stringPreferencesKey("study")
     private val hintSeen = booleanPreferencesKey("hint_seen")
+    private val liked = stringSetPreferencesKey("liked")
+    private val notes = stringPreferencesKey("feedback_notes")
 
     val settings: Flow<Settings> = context.store.data.map { p ->
         Settings(
@@ -51,6 +57,8 @@ class Prefs(private val context: Context) {
             saved = p[saved] ?: emptySet(),
             study = p[study]?.let { runCatching { ContentJson.decodeFromString<StudySettings>(it) }.getOrNull() } ?: StudySettings(),
             hintSeen = p[hintSeen] ?: false,
+            liked = p[liked] ?: emptySet(),
+            notes = p[notes]?.let { runCatching { ContentJson.decodeFromString<List<Note>>(it) }.getOrNull() } ?: emptyList(),
         )
     }
 
@@ -63,6 +71,28 @@ class Prefs(private val context: Context) {
     suspend fun setStudy(v: StudySettings) = context.store.edit { it[study] = ContentJson.encodeToString(v) }
     suspend fun setHintSeen() = context.store.edit { it[hintSeen] = true }
     suspend fun setSaved(v: Set<String>) = context.store.edit { it[saved] = v }
+    /** "Good job" on [key], or taken back; a like not sent yet is taken back with it. */
+    suspend fun toggleLiked(key: String, note: Note) = context.store.edit {
+        val cur = it[liked] ?: emptySet()
+        val waiting = readNotes(it[notes])
+        if (key in cur) {
+            it[liked] = cur - key
+            it[notes] = ContentJson.encodeToString(waiting.filterNot { n -> n.key == key && n.kind == Feedback.GOOD })
+        } else {
+            it[liked] = cur + key
+            it[notes] = ContentJson.encodeToString(Feedback.add(waiting, note))
+        }
+    }
+    suspend fun addNote(note: Note) = context.store.edit {
+        it[notes] = ContentJson.encodeToString(Feedback.add(readNotes(it[notes]), note))
+    }
+    /** Forgets the notes that were handed to GitHub. */
+    suspend fun sentNotes(sent: List<Note>) = context.store.edit {
+        it[notes] = ContentJson.encodeToString(readNotes(it[notes]).filterNot { n -> n in sent })
+    }
+    private fun readNotes(json: String?): List<Note> =
+        json?.let { runCatching { ContentJson.decodeFromString<List<Note>>(it) }.getOrNull() } ?: emptyList()
+
     suspend fun toggleSaved(key: String) = context.store.edit {
         val cur = it[saved] ?: emptySet()
         it[saved] = if (key in cur) cur - key else cur + key

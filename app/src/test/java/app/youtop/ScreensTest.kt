@@ -123,6 +123,28 @@ class ScreensTest {
         shot("3-explanation")
     }
 
+    /** "Good job" and "Redo" on the left: kept on the phone, then sent as a GitHub issue the agent reads. */
+    @Test
+    fun goodJobAndRedo() {
+        openFirstLesson()
+        seekToSentence(2)
+        button("Good job").performClick()
+        settle { rule.activity.viewModel().settings.value.notes.size == 1 }
+        shot("14-good-job")
+        button("Redo").performClick()
+        text("Picture").performClick()
+        text("Story (Arabic)").performClick()
+        rule.onNode(hasSetTextAction()).performTextInput("The bullets should come from the left.")
+        shot("14b-redo")
+        text("Submit").performClick()
+        settle { rule.activity.viewModel().settings.value.notes.isEmpty() }
+        val opened = org.robolectric.Shadows.shadowOf(rule.activity).nextStartedActivity
+        val url = java.net.URLDecoder.decode(opened.dataString, "UTF-8")
+        assert(url.startsWith("https://github.com/blsmohamme972-lab/YouTop/issues/new?")) { url }
+        assert("REDO " in url && "GOOD " in url && "Wrong: picture, story" in url && "bullets" in url) { url }
+        assertEquals(1, rule.activity.viewModel().settings.value.liked.size)
+    }
+
     @Test
     fun transcript() {
         openFirstLesson()
@@ -235,7 +257,7 @@ class ScreensTest {
         text("Settings").performClick()
         shot("8-settings")
         rule.onNode(hasText("BACKUP")).performScrollTo()
-        shot("8a-settings-content-backup")
+        shot("8a-settings-content-backup") // also "Notes for the agent"
         rule.onNode(hasText("ADVANCED TIMING")).performScrollTo().performClick()
         rule.onNode(hasText("Longest interval (days)")).performScrollTo()
         shot("8b-settings-advanced")
