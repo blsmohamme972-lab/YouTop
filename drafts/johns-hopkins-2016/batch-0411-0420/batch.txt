@@ -1,0 +1,291 @@
+book: johns-hopkins-2016
+# Lessons 411-420 (book 88.4-90.3: VAD problems in children; heart transplantation in children; adult congenital heart disease).
+# Written 2026-11-22, morning. Each story: a hook, a wrong try that fails, the answer acting, a payoff line that names
+# the symbol, and a lead-in that says who speaks the quotation and why it fits.
+# 414: a true/false item in the book (no options); asked with two options in 'asks:' (note).
+# 415: the book's key (B, ACE inhibitors) kept with a note.
+# OCR misprints of 411, 416 and 417 are mended by the book's 'typos' map ("LVA D", "CA V", "RossKonno", "Gl phase").
+# QUOTATION PENDING (all ten): the pool of One Piece lines allowed by quoteRepeats is exhausted; the owner decides.
+# The stories stop at the payoff; add the lead-in and Q lines before building.
+
+== 411
+# book 88.4: what could explain low saturation, low pressure and a CVP of 22 after a Berlin Heart LVAD -> E, all of the above.
+# ANSWER: in Navarone, all four warning lamps on Vader's chest light at once (audited vader, red water, fan)
+title: After a Berlin Heart LVAD, low saturation, low pressure and a high CVP can come from any of four causes
+titleAr: بعد تركيب جهاز برلين هارت: هبوط الإشباع والضغط مع ارتفاع الضغط الوريديّ قد ينتج عن أيٍّ من أربعة أسباب
+tags: cardiac/heart-failure d:postoperative q:vignette l:3
+palette: fortress grey, Vader black and warning-lamp amber
+words: 79, 60/30, 22
+keywords: LVAD -> Darth Vader with his little pump in the tip of the red engine room; inadequate LV decompression -> the red engine room still swollen full, its fan straining, Vader's pump sucking too little; outflow graft obstruction -> Vader's outflow hose to the orca kinked; tamponade -> the glass aquarium round the hotel filling fast with red water, squeezing the hotel; right heart dysfunction -> the blue engine room swollen, its fan barely turning; all of the above -> four warning lamps lit at once on Vader's chest
+must: all four lamps on Vader's chest light at once: swollen red room, kinked hose, red water in the aquarium, weak blue fan
+scene: The Marine fortress of Navarone at night. CENTRE, dominant and brightest: Darth Vader beside a child's HART Hotel, four warning lamps lit at once on his chest, each pointing to its cause: the red engine room still swollen full; his outflow hose to the orca kinked; the glass aquarium round the hotel filling with red water; the blue engine room's fan barely turning. A meter reading 79, a gauge reading 60/30 and a blue gauge reading 22. LEFT: Usopp pointing at only one lamp. Chopper.
+story:
+في قلعة نافارون البحريّة ليلًا، ركّب الجرّاح دارث فيدر بمضخّته الصغيرة في فندق طفل في الرابعة.
+فلمّا أطفئت شاحنة المضخّة، هبط عدّاد الطفل إلى تسعة وسبعين، والضّغط إلى ستّين على ثلاثين، وقفز المقياس الأزرق إلى اثنين وعشرين.
+وأضاءت على صدر فيدر أربعة مصابيح إنذار دفعةً واحدة.
+«هذا المصباح وحده هو الصادق؛ الغرفة الزرقاء تعبت، والباقي زينة!» قال أوسوب، وأشار إلى مصباح واحد.
+لكنّ تشوبر تتبّع المصابيح الأربعة واحدًا واحدًا: غرفة حمراء ما زالت ممتلئةً لم يفرغها فيدر، وأنبوب فيدر إلى الحوت ملويّ معقود.
+وحوض زجاجيّ حول الفندق يمتلئ بالماء الأحمر، ومروحة الغرفة الزرقاء لا تكاد تدور؛ وكلّ واحد منها يصنع هذه الأرقام نفسها.
+«بعد فيدر، تنذر المصابيح الأربعة بصوت واحد!» قال تشوبر.
+quote:
+source:
+explanation:
+Any of the four can explain the fall in saturation and blood pressure with a CVP of 22 after an LVAD: all of the above, E.
+Right heart dysfunction is the classic cause: the right ventricle cannot deliver blood to the pump, the CVP rises, the LVAD underfills and output falls, and right-to-left flow through a patent foramen ovale lowers saturation.
+Tamponade gives the same picture, with high filling pressures and low output.
+An obstructed outflow graft or a poorly decompressed left ventricle raises left atrial pressure, causes pulmonary oedema and hypoxia, loads the right ventricle and lowers systemic flow.
+Echocardiography sorts them out.
+In the picture, all four lamps on Vader's chest light at once.
+Memory hook: after Vader goes in, four lamps can warn alike.
+
+== 412
+# book 88.5: the condition least likely to be managed successfully with an LVAD -> D, a failing Fontan.
+# ANSWER: in Water 7's fountain square, Vader cannot push the sluggish fountain, while he helps the other four hotels (audited vader, fountain, accordion, lights going out, woodcutter)
+title: A failing Fontan is the condition least likely to be managed successfully with an LVAD
+titleAr: فونتان الفاشل هو الحالة الأقلّ احتمالًا أن تُعالَج بنجاح بجهاز مساعدة البطين الأيسر
+tags: cardiac/heart-failure d:indications q:recall l:3
+palette: canal-city blue, fountain stone and Vader black
+keywords: LVAD -> Darth Vader with his little pump bolted into the tip of the red engine room; failing Fontan -> a stone fountain in the hotel courtyard, its water running to the money pipes by gravity with no pump, now sluggish and spilling back, Vader's pump unable to push it; dilated cardiomyopathy -> engine rooms stretched like an over-pulled accordion, Vader working well; postcardiotomy failure -> a tired hotel just after an operation, Vader letting it rest; cardiogenic shock from myocarditis -> the hotel's lights going out one by one, Vader keeping them on until they recover; cardiac arrest after Norwood reconstruction -> a Norwegian woodcutter's new arch on a stopped hotel, Vader starting it again
+must: Vader cannot help the sluggish fountain; he helps the other four hotels
+scene: The fountain square of Water 7, city of canals. CENTRE, dominant and brightest: Darth Vader standing helpless beside a stone fountain in a hotel courtyard, its water running sluggishly to the pipes of dollar bills with no pump and spilling back, his little pump unable to push it. AROUND, dimmer, four hotels Vader is helping: one stretched like an over-pulled accordion; a tired one just operated on; one whose lights are going out; one with a Norwegian woodcutter's new arch. LEFT: Usopp. Chopper.
+story:
+في ساحة النوافير بووتر سفن، مدينة القنوات، جاء دارث فيدر بمضخّته الصغيرة يعين الفنادق المتعبة.
+فأعان فندقًا تمدّدت غرفتاه كأكورديون مشدود، وفندقًا متعبًا خرج لتوّه من طاولة الجرّاح، وفندقًا تنطفئ أضواؤه واحدًا بعد آخر، فأبقاها مضيئةً حتّى عادت.
+وأعاد الحياة إلى فندق توقّف بعد أن صنع له الحطّاب النرويجيّ قوسًا جديدًا.
+«وهذه النافورة البطيئة أيضًا؛ يدفعها فيدر فتعود تتدفّق!» قال أوسوب، وأشار إلى نافورة حجريّة في فناء فندق آخر.
+لكنّ ماء النافورة يجري إلى أنابيب الدولارات بالجاذبيّة وحدها، بلا مضخّة تدفعه؛ فمهما ضخّ فيدر في الحوت، ظلّ ماؤها بطيئًا يرتدّ.
+فوقف فيدر عاجزًا أمامها لأوّل مرّة.
+«فيدر يدفع الحوت، ولا يدفع النافورة!» قال تشوبر.
+quote:
+source:
+explanation:
+A failing Fontan is the condition least likely to be managed successfully with an LVAD: D.
+In a Fontan circulation there is no subpulmonary pump: blood flows passively from the venae cavae to the lungs, and failure usually comes from high venous pressure and pulmonary resistance, not only from a weak ventricle.
+An LVAD can empty the systemic ventricle but cannot push blood through the lungs, so results are poor.
+Dilated cardiomyopathy, postcardiotomy failure, myocarditis with shock and arrest after a Norwood operation are all supported, often successfully, as a bridge to recovery or transplantation.
+In the picture, Vader cannot help the sluggish fountain, while he helps the other four hotels.
+Memory hook: Vader can push the orca, not the fountain.
+
+== 413
+# book 89.1: NOT part of the toxicity profile of calcineurin inhibitors -> C, leukopenia.
+# ANSWER: on a candy island of Totto Land, the cyclone-taco brings sugar, hair, a flickering lantern and dry kidney beans, while the ants' nest stays full (audited cyclone, taco, sugar, kidney bean)
+title: Calcineurin inhibitors cause diabetes, hirsutism, neurotoxicity and nephrotoxicity, but not leukopenia
+titleAr: مثبّطات الكالسينيورين تسبّب السكّريّ والشعرانيّة والسمّيّة العصبيّة والكلويّة، لا نقصَ الكريّات البيض
+tags: cardiac/heart-failure d:pharmacology q:recall l:2
+palette: candy pink, taco gold and ant white
+keywords: calcineurin inhibitor -> a cyclone wrapped in a crisp taco shell, sweeping the white soldier ants off the transplanted plant while wringing the kidney beans dry; diabetes -> a man sitting on a mountain of white sugar cubes, swept up by the cyclone-taco; hirsutism -> a face sprouting thick hair in the cyclone's wind; neurotoxicity -> the head lantern flickering and the hands shaking in the wind; nephrotoxicity -> the kidney beans wrung dry by the cyclone-taco; leukopenia -> an empty ant nest far away beside a different jar, not the cyclone-taco's doing, while the nest by the cyclone stays full
+must: the cyclone-taco brings sugar, hair, a flickering lantern and dry kidney beans, but the ants' nest beside it stays full
+scene: A candy island of Totto Land. CENTRE, dominant and brightest: a cyclone wrapped in a crisp taco shell sweeping white soldier ants off a transplanted plant; in its wind a man on a mountain of white sugar cubes, a face sprouting thick hair, a head lantern flickering over shaking hands, and kidney beans wrung dry; the ants' nest beside it still full. AROUND, far off and dimmer: an empty ant nest beside a different jar. LEFT: Usopp pointing at the empty nest. Chopper.
+story:
+على جزيرة من الحلوى في توتّو لاند، هبّ إعصار ملفوف في قشرة تاكو مقرمشة، يكنس النمل الجنديّ الأبيض عن نبتة مزروعة حديثًا.
+فحمل في ريحه رجلًا جالسًا على جبل من مكعّبات السكّر الأبيض، ووجهًا نبت عليه شعر كثيف.
+وأخذ فانوس الرأس يرتجف والأيدي ترتعش، وعصر الإعصار حبّتي الفاصولياء حتّى جفّتا.
+«وهذا العشّ الفارغ؛ الإعصار أفرغه أيضًا!» قال أوسوب، وأشار إلى عشّ نمل فارغ بعيد.
+لكنّ تشوبر أراه عشّ النمل بجانب الإعصار نفسه، ما زال مليئًا عامرًا؛ فالإعصار يكنس النمل عن النبتة، ولا يفرغ عشّه.
+أمّا العشّ البعيد الفارغ، فبجانبه جرّة أخرى غير الإعصار، هي الّتي أفرغته.
+«إعصار التاكو يكنس النمل، ولا يفرغ عشّه أبدًا!» قال تشوبر.
+quote:
+source:
+explanation:
+Leukopenia is not part of the toxicity profile of calcineurin inhibitors: C.
+Cyclosporine and tacrolimus block T-cell activation without suppressing the bone marrow, so the white cell count is not lowered; leukopenia belongs to antiproliferative drugs such as azathioprine and mycophenolate.
+Their typical toxicities are nephrotoxicity, neurotoxicity such as tremor and seizures, hypertension, and post-transplant diabetes, more with tacrolimus, with hirsutism and gum overgrowth from cyclosporine.
+In the picture, the cyclone-taco brings sugar, hair, a flickering lantern and dry kidney beans, while the ants' nest stays full.
+Memory hook: the taco storm sweeps the ants away but never empties their nest.
+
+== 414
+# book 89.2: true/false, "complex congenital heart disease has been the most common indication for heart transplantation in infants under 12 months" -> True.
+# ANSWER: in Usopp's garden on the Sunny, most babies in the gardener's queue, each under one candle, carry wrongly built hotels (audited flowerpot, single engine room, woodcutter, accordion)
+title: In infants under 12 months, complex congenital heart disease has been the commonest indication for heart transplantation
+titleAr: عند الرضّع دون 12 شهرًا كانت أمراض القلب الخَلقيّة المعقّدة أشيعَ استطبابٍ لزرع القلب
+tags: cardiac/heart-failure d:indications q:recall l:2
+palette: garden green, flowerpot terracotta and candle gold
+words: 1
+note: The book prints this as a true/false item with the answer "True"; it is asked here with the two options True and False.
+asks:
+True or false: complex congenital heart disease has been the most common indication for heart transplantation in infants who are less than 12 months of age. | True | False = A
+keywords: heart transplantation in infants -> a gardener lifting a tiny new hotel out of a terracotta flowerpot for a baby; complex congenital heart disease -> a baby's hotel built all wrong: a single engine room, a Norwegian woodcutter's patched arch, holes in the walls; most common indication under 12 months -> most of the babies queuing at the flowerpots, each under ONE candle, carrying such wrongly built hotels; older children -> older children further back holding hotels stretched like over-pulled accordions
+must: most of the babies under one candle in the gardener's queue carry wrongly built hotels
+scene: Usopp's little garden on the deck of the Thousand Sunny. CENTRE, dominant and brightest: a gardener at a row of terracotta flowerpots holding tiny new HART Hotels; most of the babies in his queue, each under ONE candle, carry hotels built all wrong: a single engine room, a Norwegian woodcutter's patched arch, holes in the walls. AROUND, dimmer: older children further back holding hotels stretched like over-pulled accordions. LEFT: Usopp. Chopper.
+story:
+في حديقة أوسوب الصغيرة على سطح الثاوزند صني، وقف بستانيّ عند صفّ من الأصص الفخّاريّة، فيها فنادق جديدة صغيرة.
+فاصطفّ أمامه رضّع كثيرون، على كعكة كلّ منهم شمعة واحدة.
+«هؤلاء الصغار مثل الكبار: غرفهم ممطوطة كالأكورديون، ولهذا جاؤوا!» قال أوسوب.
+لكنّ تشوبر نظر في فنادقهم، فإذا أكثرها مبنيّ على غير وجهه منذ البداية.
+فيها غرفة محرّك واحدة بدل اثنتين، وقوس رقّعه الحطّاب النرويجيّ، وثقوب في الجدران.
+أمّا الفنادق الممطوطة كالأكورديون، فكانت في أيدي أطفال أكبر، يقفون في آخر الصفّ.
+«تحت الشمعة الأولى، الفندق المبنيّ خطأً هو أكثر ما يأتي بالأصيص!» قال تشوبر.
+quote:
+source:
+explanation:
+The statement is true: complex congenital heart disease has been the most common indication for heart transplantation in infants under 12 months.
+Many of these infants have hypoplastic left heart syndrome or other single-ventricle or complex lesions, either instead of staged palliation or after it has failed.
+In older children, cardiomyopathy becomes the leading indication.
+In the picture, most of the babies queuing at the gardener's flowerpots carry wrongly built hotels.
+Memory hook: under one candle, a wrongly built hotel is the commonest reason for a new one.
+
+== 415
+# book 89.3: NOT used to prevent cardiac allograft vasculopathy -> B, ACE inhibitors (book's key kept, note).
+# ANSWER: in Amazon Lily's palace garden, four guards keep the ants off the new crown's spikes; the tennis player is left out (audited soldier ants, cyclone, canal, satin, tennis)
+title: ACE inhibitors are not among the established measures to prevent cardiac allograft vasculopathy
+titleAr: مثبّطات الإنزيم المحوِّل ليست من وسائل الوقاية الثابتة من اعتلال الأوعية في القلب المزروع
+tags: cardiac/heart-failure d:pharmacology q:recall l:3
+palette: palace-garden green, crown green and satin silver
+note: The book's key is B. Some studies have suggested that ACE inhibitors may slow allograft vasculopathy, but they are not an established preventive measure, unlike the four others.
+keywords: cardiac allograft vasculopathy -> white soldier ants creeping into the green crown spikes of a transplanted hotel from the inside, all along their length; immunosuppression -> a cyclone in a taco shell sweeping the soldier ants away; calcium channel blocker -> a canal dammed by a spilled can of white chalky glue, keeping the crown's spikes open; lipid lowering agents -> a smooth satin cloth wiping the yellow fat off the inside of the crown spikes; regulatory kinase inhibitors -> a gardener's pruning hook trimming the overgrowing walls of the spikes; ACE inhibitors -> a tennis player serving an ace, left out of the guard
+must: four guards keep the ants off the crown spikes; the tennis player is left out
+scene: The palace garden of Amazon Lily. CENTRE, dominant and brightest: a transplanted HART Hotel in the garden, white soldier ants creeping into its green crown spikes from inside, and four guards keeping them off: a cyclone in a taco shell sweeping the ants; a canal dammed with chalky glue; a satin cloth wiping yellow fat off the spikes; a gardener's pruning hook trimming the spike walls. AROUND, to one side: a tennis player serving an ace, left out of the guard. LEFT: Usopp. Chopper.
+story:
+في حديقة القصر بجزيرة الأمازون ليلي، زرع فندق جديد، وأخذ النمل الجنديّ الأبيض يتسلّل إلى أشواك تاجه الأخضر من الداخل، على طولها كلّها.
+فوقف حوله أربعة حرّاس: إعصار في قشرة تاكو يكنس النمل، وقناة سدّها غراء طباشيريّ أبيض تبقي الأشواك مفتوحة.
+وقطعة ساتان ناعمة تمسح الدهن الأصفر من داخل الأشواك، وبستانيّ بمقصّ تقليم يشذّب جدرانها كلّما نمت.
+«ولاعب التنس هذا؛ ضمّوه إلى الحرس، فإرساله ساحق!» قال أوسوب.
+لكنّ المحاربات هززن رؤوسهنّ، فلم يثبت أنّ إرساله يردّ النمل عن التاج.
+فبقي لاعب التنس على طرف الحديقة، يرسل كراته وحده.
+«الإعصار والقناة والسّاتان ومقصّ التقليم يحرسون التاج الجديد، أمّا الإرسال الساحق فلا!» قال تشوبر.
+quote:
+source:
+explanation:
+ACE inhibitors are the exception: they are not among the established measures to prevent cardiac allograft vasculopathy, B.
+Allograft vasculopathy is a diffuse, concentric thickening of the inner layer of the graft's coronary arteries, driven by immune injury and by risk factors such as lipids.
+It is prevented by adequate immunosuppression, by statins, by calcium channel blockers such as diltiazem, and by proliferation signal (mTOR) inhibitors such as everolimus and sirolimus.
+In the picture, four guards keep the ants off the crown spikes, while the tennis player is left out.
+Memory hook: guard the new crown with the cyclone, the canal, the satin and the pruning hook; no ace is served here.
+
+== 416
+# book 89.4: NOT a correct indication for orthotopic heart transplantation -> D, a fixed pulmonary vascular resistance of 8 Wood units.
+# ANSWER: in Nanohana, the new hotel cannot push past the eight wooden blocks and is turned back; the three others are taken to the flowerpot (audited wooden block, flowerpot, fountain, rabbit, tachometer, soldier ants)
+title: A fixed pulmonary vascular resistance of 8 Wood units rules out orthotopic heart transplantation
+titleAr: مقاومة وعائيّة رئويّة ثابتة قدرها 8 وحدات وود تمنع زرع القلب في موضعه
+tags: cardiac/heart-failure d:indications q:vignette l:3
+palette: port-town sand, wooden-block brown and flowerpot terracotta
+words: 8
+keywords: pulmonary vascular resistance of 8 Wood units -> EIGHT wooden blocks stacked inside the pipe of dollar bills, none falling away when puffs of nitro smoke are blown in; orthotopic heart transplantation -> a gardener lifting a new hotel out of a terracotta flowerpot, its small blue engine room unable to push past the eight blocks, turned back; protein-losing enteropathy after Fontan -> a stone fountain whose overflow leaks white egg-white out of a plate of spaghetti, the child taken to the flowerpot; rhabdomyomas with incessant ventricular tachycardia -> soft white rabbits nesting in a baby's engine room walls, the tachometer needle slammed into the red, the baby taken to the flowerpot; retransplantation for allograft vasculopathy -> a young adult whose first new hotel's crown spikes are clogged by white soldier ants, taken to the flowerpot again
+must: the new hotel cannot push past the eight wooden blocks and is turned back; the three others are taken to the flowerpot
+scene: The port of Nanohana in Alabasta. CENTRE, dominant and brightest: a gardener lifting a new HART Hotel out of a terracotta flowerpot towards a girl of 14, but its small blue engine room cannot push past EIGHT wooden blocks stacked in her pipe of dollar bills, none falling away under puffs of nitro smoke; the new hotel turned back. AROUND, each taken to the flowerpot: a stone fountain whose overflow leaks white egg-white from a plate of spaghetti; soft white rabbits nesting in a baby's engine room walls, a tachometer needle in the red; a young adult whose first new hotel's crown spikes are clogged by white soldier ants. LEFT: Usopp. Chopper.
+story:
+في ميناء نانوهانا بألاباستا، رفع بستانيّ فندقًا جديدًا من أصيص فخّاريّ، لفتاة في الرابعة عشرة.
+لكنّ أنبوب دولاراتها كان محشوًّا بثماني مكعّبات خشبيّة، لا تسقط منها واحدة مهما نفخ فيه من دخان النترو.
+«الفندق جديد قويّ؛ سيدفع المكعّبات كلّها!» قال أوسوب.
+لكنّ الغرفة الزرقاء في الفندق الجديد صغيرة لم تعتد هذا الثقل، فعجزت أمام المكعّبات الثماني؛ فردّه البستانيّ إلى أصيصه.
+ثمّ أخذ الأصيص إلى طفل تفيض نافورته، ويسيل بياض البيض من صحن معكرونته، وإلى رضيع تعيش في جدران غرفته أرانب بيضاء، وإبرة عدّاده في الأحمر لا تهدأ.
+وإلى شابّ سدّ النمل الجنديّ أشواك تاج فندقه الجديد الأوّل، فجاء يطلب ثانيًا.
+«ثماني مكعّبات ثابتة، تبقي الفندق الجديد خارجًا!» قال تشوبر.
+quote:
+source:
+explanation:
+The 14-year-old with a pulmonary vascular resistance of 8 Wood units unresponsive to vasodilators is not a candidate for orthotopic heart transplantation: D.
+A donor right ventricle, unused to high resistance, fails acutely against a fixed high pulmonary vascular resistance; above about 6 Wood units that does not fall with vasodilators, heart-lung transplantation is considered instead.
+Protein-losing enteropathy after a Fontan operation, multiple large rhabdomyomas with incessant ventricular tachycardia in an infant, and severe allograft vasculopathy years after infant transplantation are accepted indications.
+In the picture, the new hotel cannot push past the eight wooden blocks, while the three others are taken to the flowerpot.
+Memory hook: eight fixed wooden blocks keep the new hotel out.
+
+== 417
+# book 89.5: mechanism of action of calcineurin inhibitors -> D, blocks IL-2 production by activated T cells.
+# ANSWER: in Marineford, the cyclone-taco blows out the bugler's bugle, so the soldier ants never rally (audited cyclone, taco, stereo)
+title: Calcineurin inhibitors block IL-2 production by activated T cells
+titleAr: مثبّطات الكالسينيورين تمنع إنتاجَ الإنترلوكين 2 من الخلايا التائيّة المنشَّطة
+tags: cardiac/heart-failure d:pharmacology q:recall l:2
+palette: Marine white, taco gold and bugle brass
+keywords: calcineurin inhibitor -> a cyclone wrapped in a crisp taco shell blowing out the bugler's bugle, so no call goes out; IL-2 production by activated T cells -> a bugler among the white soldier ants blowing the call that rallies the swarm onto the transplanted plant, silenced; mTOR inhibitor -> a guard stopping the ants at the gate of their nest; antimetabolite -> someone hiding the ants' food store; IL-2 receptor antibodies -> earplugs in the ants' ears so they cannot hear the bugle; steroids -> a big old stereo boombox turned down, quieting all the noise
+must: the cyclone-taco silences the bugler's call, so the ants never rally
+scene: The great plaza of Marineford. CENTRE, dominant and brightest: a cyclone wrapped in a crisp taco shell blowing out the bugle of a bugler among white soldier ants, so no call goes out and the ants never rally onto a transplanted plant. AROUND, dimmer: a guard at the gate of the ants' nest; someone hiding the ants' food store; earplugs in the ants' ears; a big old stereo boombox turned down. LEFT: Usopp. Chopper.
+story:
+في ساحة مارينفورد الكبرى، وقف بين النمل الجنديّ الأبيض نافخ بوق، يهمّ بأن ينفخ النداء الّذي يحشد النمل على النبتة المزروعة.
+«أعرف الحلّ: نسدّ آذان النمل كلّها، فلا تسمع البوق!» قال أوسوب، وأخرج كيسًا من سدّادات الآذان.
+«سدّادات الآذان حيلة حارس آخر؛ انظر ماذا يفعل الإعصار!» قال تشوبر.
+فهبّ إعصار في قشرة تاكو مقرمشة، فأطفأ النفخة في البوق قبل أن تخرج؛ فلم يسمع النمل نداءً، ولم يحتشد.
+فبقيت النبتة المزروعة خضراء سالمة، لا نملة عليها.
+وفي أرجاء الساحة، حارس يحبس النمل عند باب العشّ، وآخر يخفي مخزن طعامه، ومسجّل ضخم قديم أخفض صوته يسكت الضجيج كلّه.
+«إعصار التاكو يطفئ البوق قبل أن ينادي!» قال تشوبر.
+quote:
+source:
+explanation:
+Calcineurin inhibitors block IL-2 production by activated T cells: D.
+Cyclosporine, bound to cyclophilin, and tacrolimus, bound to FKBP-12, inhibit calcineurin, so the transcription factor NFAT is not activated, IL-2 is not made and T cells do not proliferate.
+TOR inhibitors such as sirolimus arrest the cell cycle in G1, antimetabolites such as azathioprine and mycophenolate block purine synthesis, basiliximab is an antibody to the IL-2 receptor, and steroids block cytokine production broadly.
+In the picture, the cyclone-taco silences the bugler's call, so the ants never rally.
+Memory hook: the taco storm blows out the IL-2 bugle.
+
+== 418
+# book 90.1: echocardiography is superior to CMR for -> B, detection of small mobile vegetations.
+# ANSWER: in Kuraigana's dark castle, the bat's quick rings catch the tiny flapping cards that the slow magnet misses (audited bat, cards, horseshoe magnet, tetris, fan, gurgling, treasure map)
+title: Echocardiography beats cardiac MRI at detecting small mobile vegetations
+titleAr: تخطيط صدى القلب يتفوّق على الرنين المغناطيسيّ في كشف التنبّتات الصغيرة المتحرّكة
+tags: cardiac/foundations d:diagnosis q:recall l:2
+palette: castle-night violet, bat black and magnet red
+keywords: echocardiography -> a bat sending out quick rings of sound and seeing by their echoes; small mobile vegetations -> tiny playing cards sprouting broccoli and moss, flapping fast on a valve door, caught by the bat's quick rings; CMR -> a giant red horseshoe magnet humming over the hotel, too slow to catch the flapping cards; RV volumes in tetralogy -> the horseshoe magnet measuring exactly the blue engine room and its fan in a Tetris hotel; pulmonary insufficiency -> the magnet counting the water gurgling back into the blue room; collaterals and arteriovenous malformations -> the magnet tracing an old treasure map of winding side paths
+must: the bat's quick rings catch the tiny flapping cards that the slow magnet misses
+scene: The dark castle of Kuraigana Island, full of bats. CENTRE, dominant and brightest: a bat sending quick rings of sound that catch tiny playing cards sprouting broccoli and moss, flapping fast on a valve door of a HART Hotel. AROUND, dimmer: a giant red horseshoe magnet, too slow for the flapping cards, but measuring the blue engine room of a Tetris hotel, counting water gurgling back into it and tracing an old treasure map. LEFT: Usopp. Chopper.
+story:
+في قلعة جزيرة كورايغانا المظلمة حيث تسكن الخفافيش، نبتت على باب من أبواب فندق أوراق لعب صغيرة يكسوها البروكّلي والطّحلب، ترفرف بسرعة مع كلّ دقّة.
+«نأتي بالمغناطيس الأحمر الكبير؛ فهو يرى كلّ شيء!» قال أوسوب، وجرّ مغناطيسًا على هيئة حدوة.
+فأخذ المغناطيس يطنّ فوق الفندق ببطء، يجمع صورته من دقّات كثيرة؛ فضاعت الأوراق الصغيرة المرفرفة في صوره.
+فأطلق تشوبر الخفّاش، فأرسل حلقات صوته سريعةً متلاحقة، والتقط الأوراق وهي ترفرف، واحدةً واحدة.
+لكنّ تشوبر لم يصرف المغناطيس؛ فهو الّذي يقيس بدقّة غرفة المحرّك الزرقاء في فندق التتريس، ويعدّ الماء الراجع إليها.
+وهو الّذي يرسم خريطة الكنز القديمة بطرقها الجانبيّة المتعرّجة.
+«للأوراق الصغيرة المرفرفة، أرسل الخفّاش!» قال تشوبر.
+quote:
+source:
+explanation:
+Echocardiography is superior to CMR for detecting small mobile vegetations: B.
+Its high frame rate and resolution, especially with transoesophageal echocardiography, show small, fast-moving masses on valves that CMR, which builds its images over many heartbeats, can miss.
+CMR is the reference for right ventricular volumes and function in tetralogy of Fallot, quantifies pulmonary regurgitation by phase-contrast flow, assesses the outflow tract and shows collaterals and arteriovenous malformations.
+In the picture, the bat's quick rings catch the tiny flapping cards that the slow magnet misses.
+Memory hook: for small flapping cards, send the bat.
+
+== 419
+# book 90.2: NOT a cause of cyanosis in an adult with an isolated ASD -> E, sudden left-to-right shunting.
+# ANSWER: in Shells Town, the red water spilling into the blue lobby leaves the lips pink; the four others turn them blue (audited upper party wall, blue lips, iceman, venus, drainpipe, bowling ball)
+title: Left-to-right shunting does not cause cyanosis in an adult with an atrial septal defect
+titleAr: التحويلة من اليسار إلى اليمين لا تسبّب الزرقة عند بالغ مصاب بفتحة بين الأذينين
+tags: cardiac/congenital d:physiology q:recall l:2
+palette: Marine-town white, lips pink and lips blue
+keywords: ASD -> a hole in the thin upper party wall between the two glass-roofed lobbies; cyanosis -> a man with bright blue lips; Eisenmenger syndrome -> an iceman pushing blue blocks of ice back through the hole, from the blue side to the red; sinus venosus defect, IVC type -> a marble Venus statue in a hole at the bottom of the upper party wall, where the big blue drainpipe pours straight through it into the red side; large Eustachian valve -> a big sail-like flap in the blue lobby, as in the subdivided atrium, steering the drainpipe's water through the hole; pulmonary embolism -> a black bowling ball jamming the pipe of dollar bills, blue water backing up through the hole; left-to-right shunting -> red water spilling through the hole into the blue lobby, the lips staying pink
+must: the red water spilling into the blue lobby leaves the lips pink; the four others turn them blue
+scene: Shells Town, the Marine base town. CENTRE, dominant and brightest: a man with PINK lips beside a HART Hotel where red water spills through a hole in the upper party wall into the blue lobby. AROUND, each beside a man with bright blue lips: an iceman pushing blue ice blocks back through the hole; a marble Venus statue in a hole at the bottom of the upper party wall, the big blue drainpipe pouring straight through it; a big sail-like flap in the blue lobby steering the drainpipe's water through the hole; a black bowling ball jamming the pipe of dollar bills. LEFT: Usopp. Chopper.
+story:
+في شلز تاون، بلدة قاعدة البحريّة، اجتمع خمسة رجال في الجدار العلويّ من فندق كلّ منهم ثقب؛ أربعة منهم شفاههم زرقاء.
+«والخامس أيضًا ستزرقّ شفتاه، فالماء يندفع في ثقبه بقوّة!» قال أوسوب.
+لكنّ الماء في ثقب الخامس كان أحمر ينسكب من الردهة الحمراء إلى الزرقاء، يرهق الجانب الأزرق ولا يزرّق الشفاه؛ فبقيت شفتاه ورديّتين.
+أمّا الأربعة الآخرون، فعند الأوّل رجل جليد يدفع كتل الثلج الزرقاء عبر الثقب إلى الجهة الحمراء.
+وعند الثاني تمثال فينوس في ثقب أسفل الجدار، يصبّ عبره أنبوب التصريف الأزرق الكبير مباشرةً، وعند الثالث رقعة كالشّراع توجّه ماء التصريف إلى الثقب.
+وعند الرابع كرة بولينغ سوداء سدّت أنبوب الدولارات، فارتدّ الماء الأزرق عبر الثقب.
+«الأحمر إلى الأزرق، يبقي الشفاه ورديّة!» قال تشوبر.
+quote:
+source:
+explanation:
+Sudden left-to-right shunting is not a cause of cyanosis in an adult with an isolated atrial septal defect: E.
+Left-to-right flow sends oxygenated blood back to the lungs, so it overloads the right heart but does not lower arterial saturation.
+Cyanosis needs right-to-left flow: Eisenmenger physiology, an inferior sinus venosus defect that lets IVC blood stream into the left atrium, or a large Eustachian valve directing IVC flow across the defect.
+A pulmonary embolism can do it too, by raising right-sided pressure and reversing the shunt.
+In the picture, the red water spilling into the blue lobby leaves the lips pink, while the four others turn them blue.
+Memory hook: red into blue keeps the lips pink.
+
+== 420
+# book 90.3: NOT an indication for intervention after tetralogy repair -> C, RV outflow tract calcification.
+# ANSWER: at Crocus's lighthouse on Twin Capes, the chalky spots on the funnel are left alone; the four other faults are mended (audited tetris, funnel, gurgling, fan, lower party wall, mouth, tachometer, atrium)
+title: Calcification of the RV outflow tract alone is not an indication for reintervention after tetralogy repair
+titleAr: تكلّس مخرج البطين الأيمن وحده ليس استطبابًا لإعادة التدخّل بعد إصلاح رباعيّة فالو
+tags: cardiac/congenital d:indications q:recall l:3
+palette: lighthouse white, funnel grey and Tetris blocks bright
+keywords: repaired tetralogy of Fallot -> a grown-up Tetris hotel, its four blocks mended long ago; RV outflow tract calcification -> white chalky spots on the kitchen funnel from the blue engine room, harmless, left alone; severe pulmonary insufficiency with RV dysfunction -> water gurgling back into a swollen blue engine room whose fan weakens, mended; residual VSD with LV dysfunction -> a hole still in the lower party wall, the red room's fan tiring, mended; aortic dilation with aortic insufficiency -> the orca's swelling salsa bowls and its mouth gurgling back, mended; atrial tachycardia -> a tachometer needle racing in the upper atrium lobbies, mended
+must: the chalky spots on the funnel are left alone; the four other faults are mended
+scene: Crocus's lighthouse on Twin Capes, Laboon the whale in the bay. CENTRE, dominant and brightest: white chalky spots on the kitchen funnel of a grown-up Tetris HART Hotel, left alone. AROUND, each being mended: water gurgling back into a swollen blue engine room with a weak fan; a hole still in the lower party wall, the red room's fan tiring; the orca's swelling salsa bowls with its mouth gurgling; a tachometer needle racing in the upper atrium lobbies. LEFT: Usopp. Chopper. Crocus, the old lighthouse keeper.
+story:
+في منارة الرأسين التوأمين عند مدخل الخطّ الكبير، ولابون يغنّي في الخليج، جاء فندق تتريس كبير رقّعت مكعّباته الأربعة منذ زمن بعيد.
+«لنر ما عندك أيّها الفندق العجوز!» قال كروكوس، حارس المنارة.
+«انظروا! بقع طباشيريّة بيضاء على قمع المطبخ؛ أصلحوها أوّلًا!» صاح أوسوب.
+لكنّ كروكوس ترك البقع في مكانها، فالقمع مفتوح لا يضيق، ولا يقرقر منه ماء.
+ثمّ أصلح مع تشوبر ما يستحقّ: ماءً يقرقر راجعًا إلى غرفة زرقاء انتفخت وضعفت مروحتها، وثقبًا باقيًا في الجدار السفليّ.
+وأطباق صلصة تنتفخ حول فم الحوت وهو يقرقر، وإبرة عدّاد تتسارع في الردهتين العلويّتين.
+«الطباشير على القمع يترك؛ أمّا التسرّب والثّقوب والإبر المسرعة فتصلح!» قال تشوبر.
+quote:
+source:
+explanation:
+Calcification of the right ventricular outflow tract is not, by itself, an indication for intervention after repair of tetralogy of Fallot: C.
+Calcium in a patch or conduit matters only if it causes obstruction or regurgitation.
+Indications include severe pulmonary regurgitation with right ventricular dilation or dysfunction, a residual ventricular septal defect with left ventricular volume overload or dysfunction, and aortic root dilation with aortic regurgitation.
+Arrhythmias such as atrial tachycardia also call for treatment and a search for residual lesions.
+In the picture, the chalky spots on the funnel are left alone, while the four other faults are mended.
+Memory hook: chalk on the funnel is left alone; leaks, holes and racing needles are mended.
