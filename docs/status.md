@@ -20,20 +20,6 @@ wrong, write what should change). They reach the agent as GitHub issues titled `
 the start of every session** (CLAUDE.md, "Lesson feedback from the app"). Not tested on a real phone; the owner must be
 signed in to GitHub in the phone's browser for "Create" to work.
 
-## STORY STYLE (2026-11-22, evening): the Arabic stories in the styles of the Quran's parables
-
-The owner: «تحديث إلى كتابة القصص العربية: القرآن أفضل كتاب لفهم اللغة وكتابة الأمثال. استخدم أساليب القرآن الكريم
-باحترام لها، لا تذكر آيات قرآنية أبداً لكن استخدم الأسلوب اللغوي», with their list of the devices of the Quran's
-parables (البيان، المعاني، دقّة الصيغة والأداة، البديع).
-- `content/story-style.md`: the rule, what it means (respect: never a verse, part of one, a near-paraphrase or a
-  Quranic parable retold; never ﴿ ﴾), a five-point checklist for every story, each device with our own example
-  sentence in the app's scenes, the owner's list itself (to understand the devices only), and the phrases `batch.py`
-  refuses (read without diacritics). Skill (`story:`), content guide and CLAUDE.md point to it.
-- `batch.py lint`: a story sentence or quotation containing one of those phrases is a problem (the build stops).
-  No story written so far contains any (all batch and voice files and the published chapters were scanned).
-- Applies to every story written from now on; the stories already recorded are unchanged unless the owner decides
-  to upgrade the 329 lessons still waiting for pictures (question asked, see rules 6 and 7 below).
-
 ## RULES 6 AND 7 (2026-11-22, evening): numbers drawn small; an anchor and twelve symbols per lesson
 
 The owner: "new rules, add them to the rules, and add the number rules. Some lessons have no anchor and not enough
