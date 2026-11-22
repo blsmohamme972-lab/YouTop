@@ -1,0 +1,298 @@
+book: johns-hopkins-2016
+# Lessons 331-340 (book 70.1-71.5: pulmonary stenosis and pulmonary atresia with intact septum; double-outlet right ventricle).
+# Written 2026-11-22, night. Each story: a hook, a wrong try that fails, the answer acting, a payoff line that names
+# the symbol, and a lead-in that says who speaks the quotation and why it fits.
+# OCR misprints of 331, 333-335, 337, 339 and 340 are mended by the book's 'typos' map.
+# 334: the book's key (E) is kept; options A and B describe strategies that are also used, said in a note.
+# QUOTATION PENDING (all ten): the pool of One Piece lines allowed by quoteRepeats is exhausted; the owner decides.
+# The stories stop at the payoff; add the lead-in and Q lines before building.
+
+== 331
+# book 70.1: correct about pulmonary stenosis -> C, the pulmonary annulus is normal or smaller than expected.
+# ANSWER: in Shakky's bar on Sabaody, the brass collar round the money pipe's door is normal or a little small, never wide; Usopp's huge collar will not fit (audited collar, clamp)
+# the door is domed like a tent with a hole at its top, not flat (A wrong); the blue room is thick, not small (B wrong); a swollen blue room is a bad sign (D wrong); the gauge must read higher than 30 (E wrong)
+title: In pulmonary stenosis the pulmonary annulus is normal or smaller than expected
+titleAr: في تضيّق الصمّام الرئويّ تكون الحلقة الرئويّة طبيعيّة أو أصغر من المتوقّع
+tags: cardiac/congenital d:anatomy q:recall l:2
+palette: Shakky's bar wood, brass gold and money green
+keywords: pulmonary stenosis -> the pipe of dollar bills squeezed narrow at its door by an iron clamp; pulmonary annulus -> the brass collar ring round the money pipe's door, normal or a little small, never wide; domed valve -> the money pipe's door domed up like a tent, its seams fused, a small hole at its top; RV hypertrophy -> the blue engine room with its walls swollen into thick red muscle; enlarged RV -> a swollen, tired blue room, a bad sign
+must: the brass collar round the money pipe's door is normal or a little small; the huge collar Usopp brings does not fit
+scene: Shakky's Rip-off Bar on Sabaody, warm lamplight. CENTRE, dominant and brightest: a HART Hotel's pipe of dollar bills squeezed at its door by an iron clamp, the door domed up like a tent with a small hole at its top, and round the doorway a brass collar ring that is normal or a little small; Usopp trying to fit a huge brass collar that does not fit. AROUND, dimmer: the blue engine room with its walls swollen into thick red muscle. Chopper.
+story:
+في حانة شاكي على ساباودي، جيء بفندق يعصر مشبك حديديّ باب أنبوب دولاراته، والباب منتفخ كالخيمة في أعلاه ثقب صغير.
+فأراد تشوبر أن يعرف حجم الطوق النحاسيّ حول الباب.
+«معي طوق عملاق! مثل هذه الأبواب الضيّقة تكون أطواقها واسعة!» قال أوسوب، وحاول أن يلبس الباب طوقًا هائلًا.
+لكنّ الطوق العملاق سقط على الأرض؛ فالطّوق الحقيقيّ حول الباب كان طبيعيّ الحجم، أو أصغر قليلًا.
+وكانت غرفة المحرّك الزرقاء قد غلظت جدرانها عضلًا أحمر وهي تدفع في الباب الضيّق، دون أن تتّسع.
+«لو انتفخت الغرفة الزرقاء وتعبت، لكان ذلك أسوأ بكثير!» قالت شاكي من خلف البار مبتسمة.
+«طوق الباب الضيّق طبيعيّ أو صغير؛ لا يكون واسعًا أبدًا!» قال تشوبر.
+quote:
+source:
+explanation:
+In pulmonary stenosis the pulmonary annulus is either normal or smaller than expected: C.
+The typical valve is dome-shaped, its commissures fused, with a small central opening at the top of the dome; a dysplastic valve has thick leaflets and a small annulus.
+The right ventricle is usually normal in size and hypertrophied; when it is enlarged and failing, the outlook is worse.
+Intervention, usually balloon valvuloplasty, is indicated for a peak gradient of about 40 to 50 mm Hg or more, or for any critical stenosis in a neonate.
+In the picture, the brass collar round the money pipe's door is normal or small, and Usopp's huge collar will not fit.
+Memory hook: the collar of a narrow door is never wide.
+
+== 332
+# book 70.2: true about treating pulmonary stenosis -> C, an open valvotomy should extend to the edge of the annulus.
+# ANSWER: in Crocodile's casino at Rainbase, the tailor's scissors snip the sewn seams of the money pipe's tented door all the way out to the brass collar (audited scissors, collar)
+# fireworks make the funnel squeeze tighter (B wrong); cutting away part of a thick door is fine (D wrong)
+title: Open pulmonary valvotomy should extend to the edge of the annulus
+titleAr: يجب أن يمتدّ شقّ الصمّام الرئويّ المفتوح إلى حافّة الحلقة
+tags: cardiac/congenital d:technique q:recall l:2
+palette: Rainbase casino gold, scissors steel and money green
+keywords: open valvotomy -> a tailor's big scissors snipping apart the sewn seams of the money pipe's domed door; to the edge of the annulus -> each snip running all the way out to the brass collar round the doorway; inotropes -> lit red firework rockets that make the funnel below the door squeeze tighter; partial valvectomy -> a thick, lumpy leaf of the door trimmed away
+must: the scissors' cuts run right out to the brass collar; half-way cuts leave the door still narrow
+scene: Rainbase, Crocodile's golden casino in the desert. CENTRE, dominant and brightest: a tailor's big scissors snipping apart the sewn seams of the domed door of a pipe of dollar bills, each cut running all the way out to the brass collar round the doorway, the door opening wide. AROUND, dimmer: Usopp's half-way snips leaving another door still narrow; lit red firework rockets making a funnel squeeze tighter; a thick, lumpy leaf being trimmed away. Chopper.
+story:
+في كازينو رينبيس الذهبيّ وسط الصحراء، أخذ تشوبر مقصّ الخيّاط الكبير، ليفكّ دروز باب أنبوب الدولارات الّتي التحمت فصار كالخيمة.
+«قصّة صغيرة تكفي، في وسط كلّ درز!» قال أوسوب، وقصّ نصف كلّ درز في باب آخر.
+فانفتح ذلك الباب قليلًا، وبقي ضيّقًا يعصر الماء.
+أمّا تشوبر، فمدّ كلّ قصّة حتّى بلغ الطوق النحاسيّ حول الباب، فانفتح الباب واسعًا.
+وحين وجد ورقةً غليظةً متكتّلة، قصّ جزءًا منها ورماه.
+«والآن نشعل الألعاب الناريّة ليعبر الماء أسرع!» قال أوسوب.
+لكنّ تشوبر أبعدها، فالألعاب الناريّة تجعل القمع تحت الباب ينعصر أكثر.
+«قصّ كلّ درز حتّى الطوق!» قال تشوبر.
+quote:
+source:
+explanation:
+An open pulmonary valvotomy should extend to the edge of the annulus: C.
+Each fused commissure is incised right out to the annulus, so the valve opens fully; stopping short leaves a residual gradient.
+Thick, dysplastic leaflets can be partly excised, and a transannular patch is added when the annulus itself is small.
+Inotropes are best avoided, since they increase dynamic infundibular obstruction, and systemic pressure is supported rather than allowed to fall.
+In the picture, the scissors' cuts run right out to the brass collar, while Usopp's half-way snips leave the door narrow.
+Memory hook: cut each seam all the way to the collar.
+
+== 333
+# book 70.3: correct about pulmonary atresia with intact septum -> B, untreated mortality approaches 85 percent at 6 months.
+# ANSWER: in the ruins of Shandora, of babies whose money-pipe door is welded shut with the lower wall whole, 85 in 100 lie in coffins by 6 months if the duct-tape tunnel is left to close (audited welded shut, coffin, duct)
+# the fists punching from the blue room into the crown come with a SMALL, tight blue room and a tight trident (C wrong); the lungs are fed by the duct-tape tunnel, not the upper wall's hole (D wrong); Einstein can push the trident down here too (E wrong) (audited fist, einstein)
+title: Untreated pulmonary atresia with intact septum: mortality approaches 85 percent at 6 months
+titleAr: رتق الشريان الرئويّ مع حاجز سليم دون علاج: تقارب الوفيات 85 في المئة في ستّة أشهر
+tags: cardiac/congenital d:pathology q:numbers l:2
+palette: Shandora ruin gold, cloud white and coffin black
+words: 85%
+keywords: pulmonary atresia with intact septum -> the door of the pipe of dollar bills welded shut with a thick iron cap, the lower party wall whole; duct-dependent lung blood flow -> the money pipe fed only through a tunnel of shiny silver duct tape from the orca; 85 percent mortality at 6 months -> 85 of 100 babies in coffins by six months when the tunnel closes untreated, 85% painted above; RV-to-coronary fistulas -> fists punching holes from a small, tight blue room into the crown's spikes; Ebstein's malformation -> Einstein pushing the trident down into the blue engine room
+must: when the duct-tape tunnel closes untreated, most of the babies lie in coffins by six months
+scene: The ruins of Shandora among the clouds of Skypiea. CENTRE, dominant and brightest: a row of coffins, 85 of 100, beside babies whose HART Hotels have the door of the pipe of dollar bills welded shut with a thick iron cap, the lower party wall whole, and the tunnel of shiny silver duct tape from the orca closing; 85% painted above. AROUND, dimmer: fists punching holes from a small, tight blue room into the green crown's spikes; Einstein pushing a trident down. LEFT: Usopp. Chopper holding a beer stein up to keep a tunnel open.
+story:
+في أطلال شاندورا بين الغيوم، ولد أطفال باب أنبوب دولاراتهم ملحم بغطاء حديديّ غليظ، وجدارهم السفليّ سليم لا ثقب فيه.
+فلا يبلغ أكياسهم ماء إلّا عبر نفق الشريط اللاصق الفضّيّ من الحوت.
+«الماء يعبر من ثقب الجدار العلويّ، والنّفق لا يهمّ! دعوه ينغلق!» قال أوسوب.
+فلمّا انغلق النفق عند بعضهم دون علاج، جفّت أكياسهم، وصفّ تشوبر التوابيت واحدًا بعد آخر.
+فلمّا بلغوا ستّة أشهر، كان خمسة وثمانون من كلّ مئة في التوابيت.
+فرفع تشوبر كأس الجعة عاليًا ليبقى نفق الباقين مفتوحًا، حتّى يفتح لهم طريق آخر.
+«باب ملحم ونفق ينغلق: خمسة وثمانون من مئة قبل الشهر السادس!» قال تشوبر.
+quote:
+source:
+explanation:
+Untreated patients with pulmonary atresia and intact ventricular septum have a mortality approaching 85 percent at 6 months: B.
+The lungs depend on the ductus, so when it closes the infant dies unless prostaglandin and an intervention follow.
+The plan rests on the size of the right ventricle and tricuspid valve and on the coronary circulation, not on the degree of hypertrophy.
+Fistulas from the right ventricle to the coronary arteries are most common with a small, hypertensive right ventricle and a competent tricuspid valve, and an Ebstein-like tricuspid valve can occur.
+In the picture, when the duct-tape tunnel closes untreated, 85 babies in 100 lie in coffins by six months.
+Memory hook: a welded door and a closing tunnel: 85 in 100 by six months.
+
+== 334
+# book 70.4: correct about PA-IVS with RV hypoplasia -> E, broad RV-to-coronary fistulas can be ligated directly on the surface of the heart.
+# ANSWER: in Onigashima, the surgeon ties off on the outer wall the broad tunnel punched by a fist from the blue room into a crown spike (audited fist, crown)
+# a severely small blue room is not saved by opening the door alone (C wrong); opening the blue room can shrink the narrow side channels (D wrong)
+title: Broad RV-to-coronary fistulas can be ligated on the surface of the heart
+titleAr: يمكن ربط الناسور الواسع بين البطين الأيمن والشريان التاجيّ على سطح القلب
+tags: cardiac/congenital d:technique q:recall l:3
+palette: Onigashima storm purple, crown green and ligature red
+note: The book's key is E. Options A and B also describe treatments in use (relieving the right ventricle with or without a shunt, according to its size); the answer follows the book.
+keywords: RV-to-coronary fistula -> a fist punching a broad tunnel from the blue engine room straight into a spike of the green crown; direct ligation -> the surgeon tying that broad tunnel off with a red cord on the outer wall of the blue room; severe RV hypoplasia -> a little plastic toy hippo wedged into a blue engine room shrunk to doll size, which opening the door alone cannot save; RV decompression -> the welded door of the money pipe opened, so the blue room no longer pushes so hard; sinusoids -> thin side channels in the blue room's wall shrinking once it is decompressed
+must: the broad tunnel from the blue room to the crown spike is tied off on the outside wall of the heart
+scene: Onigashima, the skull-shaped island of Wano, under a stormy sky. CENTRE, dominant and brightest: on the outer wall of a HART Hotel's blue engine room, a surgeon tying off with a red cord a broad tunnel that a fist has punched from the blue room straight into a spike of the green crown. AROUND, dimmer: a little plastic toy hippo wedged into a doll-sized blue room; a welded door being opened; thin side channels in a blue wall shrinking. LEFT: Usopp. Chopper holding the cord.
+story:
+في جزيرة أونيغاشيما تحت سماء العاصفة، وجد تشوبر في جدار غرفة محرّك زرقاء نفقًا عريضًا لكمته قبضة، يصل الغرفة بشوكة من التاج الأخضر.
+فكان الماء يهرب عبره من الغرفة الزرقاء إلى التاج، يسرق من شوكته طريقها.
+«نفتح الباب الملحم في أنبوب الدولارات؛ فيزول كلّ شيء وحده!» قال أوسوب.
+لكنّ النفق العريض ظلّ يسرق الماء، فهو أوسع من أن ينغلق وحده.
+فخرج تشوبر إلى الجدار الخارجيّ للغرفة الزرقاء، وربط النفق العريض بحبل أحمر حيث يمرّ على السطح.
+وفي الركن، فرس نهر بلاستيكيّ صغير عالق في غرفة زرقاء بحجم الدمية؛ فتلك لا ينقذها فتح الباب وحده.
+«نفق القبضة العريض إلى التاج، يربط من الخارج!» قال تشوبر.
+quote:
+source:
+explanation:
+Broad fistulas between the RV and the coronary arteries can be directly ligated on the surface of the heart: E.
+When the coronary circulation does not depend on the RV, a large fistula can be tied off where it runs on the epicardium, removing the steal into the coronary system.
+Treatment otherwise follows the size of the RV: with a reasonable RV it is decompressed (valvotomy or a transannular patch), often with a shunt; a severely hypoplastic RV, or an RV-dependent coronary circulation, leads to the single-ventricle path.
+Decompression can make narrow sinusoids regress, but decompressing an RV on which the coronaries depend can be fatal.
+In the picture, the broad tunnel from the blue room into the crown spike is tied off on the outside wall.
+Memory hook: a broad fist-tunnel to the crown is tied off on the outside.
+
+== 335
+# book 70.5: true about outcomes for PS and PA-IVS -> A, after surgical correction of PS a residual gradient is common.
+# ANSWER: in the Corrida Colosseum, after the clamp is taken off the money pipe, the gauge still shows a small difference across the door (audited clamp, gauge)
+title: After surgical relief of pulmonary stenosis, a residual gradient is common
+titleAr: بعد إصلاح تضيّق الصمّام الرئويّ جراحيًّا كثيرًا ما يبقى فرق ضغط متبقٍّ
+tags: cardiac/congenital d:evidence q:recall l:2
+palette: Corrida Colosseum sand, clamp iron and gauge green
+keywords: pulmonary stenosis -> the pipe of dollar bills squeezed narrow at its door by an iron clamp; surgical correction -> the iron clamp taken off and the door opened; residual gradient -> two small pressure gauges, before and after the door, still reading slightly different; PA-IVS outcomes -> a welded door, some children reaching two working engine rooms, some one and a half, some one
+must: after the clamp comes off, the two gauges still read slightly different
+scene: The Corrida Colosseum in Dressrosa. CENTRE, dominant and brightest: an iron clamp lifted off a HART Hotel's pipe of dollar bills, its door opened, and two small pressure gauges before and after the door still reading slightly different. AROUND, dimmer: three children with welded doors, reaching two engine rooms, one and a half, or one. LEFT: Usopp tapping a gauge, expecting both to match. Chopper.
+story:
+في حلبة كورّيدا بدريسروزا، رفع تشوبر المشبك الحديديّ عن أنبوب الدولارات، وفتح بابه الضيّق.
+وكان على جانبي الباب مقياسان صغيران للضّغط: واحد قبله وواحد بعده.
+«الآن سيتساوى المقياسان تمامًا، كأن لم يكن هناك مشبك قطّ!» قال أوسوب، وأخذ ينقر على المقياسين.
+لكنّ المقياسين ظلّا مختلفين قليلًا؛ فالطّوق الصغير والعضل تحت الباب ما زالا يضيّقان قليلًا.
+ثمّ مع الأشهر، أخذ العضل الغليظ تحت الباب يرقّ، فتقارب المقياسان أكثر.
+وفي المدرّجات، جلس أطفال كانت أبوابهم ملحمة: بعضهم بغرفتين عاملتين، وبعضهم بغرفة ونصف، وبعضهم بغرفة واحدة.
+«يرفع المشبك، ويبقى بين المقياسين فرق صغير!» قال تشوبر.
+quote:
+source:
+explanation:
+Following surgical correction of pulmonary stenosis, there is often a residual gradient: A.
+A small gradient commonly persists after valvotomy, from a small annulus or from muscle in the outflow tract, and much of the infundibular part falls as the hypertrophy regresses.
+Outcomes in pulmonary atresia with intact septum are poorer and depend on the size of the right ventricle: patients reach a biventricular, one-and-a-half or single-ventricle repair, and most now survive to a definitive operation.
+In the picture, after the clamp comes off, the two gauges across the door still read slightly different.
+Memory hook: the clamp comes off, but a small difference stays.
+
+== 336
+# book 71.1: NOT a recognized type of DORV -> C, mitral atresia type.
+# ANSWER: at Reverse Mountain, where the routes of the Grand Line part, four signposts mark the real DORV routes (VSD, Fallot, TGA, noncommitted); a fifth sign, "mitral atresia", is crossed out (audited both)
+title: Mitral atresia is not one of the recognized types of DORV
+titleAr: رتق الصمّام التاجيّ ليس من أنواع البطين الأيمن مزدوج المخرج المعترف بها
+tags: cardiac/congenital d:anatomy q:recall l:2
+palette: Reverse Mountain sea blue, signpost wood and mitre purple
+keywords: DORV -> both the orca and the pipe of dollar bills rising out of the blue engine room; VSD type -> a signpost to a hotel whose lower party wall has a hole under the orca; Fallot type -> a signpost with a giant Tetris piece on it; TGA type -> a signpost showing the orca and the dollar pipe swapped; noncommitted VSD type -> a signpost to a hole in the lower party wall far from both pipes; mitral atresia type -> a fifth sign showing a bishop's mitre welded shut, crossed out with a big X
+must: four signposts stand for the real routes; only the mitre-welded-shut sign is crossed out
+scene: Reverse Mountain, where the sea climbs and the routes of the Grand Line part. CENTRE, dominant and brightest: a HART Hotel with both an orca balloon and a pipe of dollar bills rising out of its blue engine room, and around it four wooden signposts: a hole in the lower party wall under the orca; a giant Tetris piece; the orca and the dollar pipe swapped; a hole in the lower party wall far from both pipes. A fifth sign showing a bishop's mitre welded shut, crossed out with a big X. LEFT: Usopp painting the fifth sign. Chopper.
+story:
+عند جبل ريفرس ماونتن، حيث تتفرّق طرق الخطّ الكبير، وقف فندق يخرج من غرفته الزرقاء الحوت وأنبوب الدولارات كلاهما.
+وحوله أربع لافتات خشبيّة: ثقب في الجدار السفليّ تحت الحوت، وقطعة تتريس عملاقة، وحوت وأنبوب تبادلا مكانيهما، وثقب بعيد عن الأنبوبين كليهما.
+«وأنا أضيف طريقًا خامسًا: تاج الأسقف الملحم!» قال أوسوب، وأخذ يرسم لافتةً خامسة.
+لكنّ الريح هبّت، فلم يجد للافتته طريقًا تشير إليه.
+فتاج الأسقف الملحم قد يرافق هذا الفندق أحيانًا، لكنّه ليس طريقًا من طرقه.
+فرسم تشوبر على اللافتة الخامسة علامة إكس كبيرة.
+«أربعة طرق من الغرفة الزرقاء؛ والتّاج الملحم ليس منها!» قال تشوبر.
+quote:
+source:
+explanation:
+Mitral atresia type is not a recognized type of DORV: C.
+DORV is classified by where the VSD lies and how the great arteries relate: the VSD type (subaortic VSD) and the Fallot type (subaortic VSD with pulmonary stenosis).
+The others are the TGA type (subpulmonary VSD, the Taussig-Bing heart) and the noncommitted (remote) VSD type.
+Mitral atresia can occur with DORV, but it is an associated lesion, not a type.
+In the picture, four signposts mark the real routes, and the mitre-welded-shut sign is crossed out.
+Memory hook: four routes from the blue room; the welded mitre is not one of them.
+
+== 337
+# book 71.2: correct about the VSD in DORV -> B, bilateral coni are present in over 75 percent of patients with a subaortic VSD.
+# ANSWER: in Gyoncorde Plaza on Fishman Island, three of four hotels with the hole under the orca have TWO funnels, one under the orca and one under the money pipe (audited both, funnel, lower party wall)
+# the hole under the orca is the commonest, not the rarest (A wrong); Bing cherries go through the hole under the MONEY PIPE (C wrong) (audited cherries)
+title: Bilateral coni are present in over 75 percent of DORV with a subaortic VSD
+titleAr: يوجد قمعان على الجانبين في أكثر من 75 في المئة من مرضى البطين الأيمن مزدوج المخرج مع فتحة تحت الأبهر
+tags: cardiac/congenital d:anatomy q:numbers l:3
+palette: Fishman Island coral, funnel copper and orca blue
+words: 75%
+keywords: DORV -> both the orca and the pipe of dollar bills rising out of the blue engine room; bilateral coni -> TWO kitchen funnels, one under the orca and one under the money pipe; VSD under the aorta -> a hole in the lower party wall right under the orca; over 75 percent -> three of four such hotels with two funnels, 75% painted above; Taussig-Bing heart -> a vendor tossing Bing cherries through a hole under the dollar pipe
+must: three of the four hotels with the hole under the orca have two funnels
+scene: Gyoncorde Plaza on Fishman Island. CENTRE, dominant and brightest: four HART Hotels with both an orca balloon and a pipe of dollar bills rising out of the blue engine room, each with a hole in the lower party wall right under the orca; three of them have TWO kitchen funnels, one under the orca and one under the money pipe; 75% painted above. AROUND, dimmer: a vendor tossing Bing cherries through a hole under the dollar pipe of another hotel. LEFT: Usopp. Chopper counting funnels.
+story:
+في ساحة جيونكورد على جزيرة الرجال السمك، اصطفّت أربعة فنادق يخرج من غرفة كلّ منها الزرقاء الحوت وأنبوب الدولارات كلاهما، وفي جدارها السفليّ ثقب تحت الحوت.
+«هذا الثقب تحت الحوت أندر الثقوب!» قال أوسوب.
+لكنّ تشوبر أشار إلى الساحة، فإذا أكثر فنادق هذا النوع ثقوبها تحت الحوت؛ هو أكثرها لا أندرها.
+ثمّ عدّ القموع: في ثلاثة فنادق من الأربعة، قمعان اثنان: واحد تحت الحوت، وواحد تحت أنبوب الدولارات.
+وفي فندق آخر بعيد، كان بائع يرمي كرز بينغ من ثقب تحت أنبوب الدولارات لا تحت الحوت.
+فصفّق الرجال السمك في الساحة، وأخذ أوسوب يعدّ القموع من جديد ليتأكّد.
+«قمعان في ثلاثة فنادق من أربعة: واحد تحت كلّ أنبوب!» قال تشوبر.
+quote:
+source:
+explanation:
+Bilateral coni are present in over 75 percent of patients with DORV and a subaortic VSD: B.
+In DORV both great arteries usually sit on muscular coni (infundibula), so neither semilunar valve is in fibrous continuity with the mitral valve.
+The subaortic VSD is the most common type; the Taussig-Bing heart has a subpulmonary VSD, and noncommitted VSDs go with complete AV canal defects.
+In the picture, three of the four hotels with the hole under the orca have two funnels, one under each great vessel.
+Memory hook: two funnels in three hotels of four.
+
+== 338
+# book 71.3: true about the presentation of DORV -> A, anterior deviation of the infundibular septum with a subaortic VSD presents with cyanosis.
+# ANSWER: in the Galley-La headquarters, the funnel's wall shoved forward under the money pipe, the hole under the orca, and the baby's lips turning blue, as in tetralogy (audited funnel, both, blue lips)
+# a hole under the money pipe (Bing cherries) often comes with a rope at the orca's waist (C wrong) (audited cherries, rope)
+title: DORV with anterior deviation of the infundibular septum and a subaortic VSD presents with cyanosis
+titleAr: البطين الأيمن مزدوج المخرج مع انحراف الحاجز القمعيّ أماميًّا وفتحة تحت الأبهر يظهر بالزرقة
+tags: cardiac/congenital d:diagnosis q:recall l:3
+palette: Galley-La shipyard wood, lip blue and funnel copper
+keywords: DORV -> both the orca and the pipe of dollar bills rising out of the blue engine room; anterior deviation of the infundibular septum -> the wall of the kitchen funnel under the money pipe shoved forward, squeezing it narrow; VSD under the aorta -> a hole in the lower party wall right under the orca; cyanosis -> a child with bright blue lips and fingertips; Taussig-Bing heart -> a vendor tossing Bing cherries through a hole under the dollar pipe; arch obstruction -> a rope pinching the orca's waist just past its left flipper
+must: with the funnel shoved narrow and the hole under the orca, the child's lips turn blue
+scene: The Galley-La shipyard headquarters in Water 7. CENTRE, dominant and brightest: a HART Hotel with both an orca balloon and a pipe of dollar bills rising out of its blue engine room; the wall of the kitchen funnel under the money pipe shoved forward, squeezing it narrow; a hole in the lower party wall right under the orca; beside it a child with bright blue lips and fingertips. AROUND, dimmer: a vendor tossing Bing cherries through a hole under the dollar pipe of another hotel, whose orca has a rope pinching its waist. LEFT: Usopp. Chopper.
+story:
+في مقرّ غالي لا بووتر سيفن، جيء بفندق يخرج من غرفته الزرقاء الحوت وأنبوب الدولارات كلاهما، وفي جداره السفليّ ثقب تحت الحوت.
+وكان جدار القمع تحت أنبوب الدولارات مدفوعًا إلى الأمام، يضيّقه.
+«ثقب تحت الحوت؟ إذن سيغرق صاحبه بالماء ويلهث، ولن يزرقّ!» قال أوسوب.
+لكنّ شفتي الطفل صارتا زرقاوين؛ فالقمع الضيّق لا يمرّر إلى الأكياس إلّا قليلًا، كما في طفل التتريس.
+فعلّق أحد نجّاري غالي لا رسم قطعة تتريس بجانب الفندق، فالشّبه لا يخطئه أحد.
+وفي فندق آخر، كان بائع يرمي كرز بينغ من ثقب تحت أنبوب الدولارات، وحبل يعصر خصر حوته.
+«القمع المدفوع والثّقب تحت الحوت: شفاه زرقاء كطفل التتريس!» قال تشوبر.
+quote:
+source:
+explanation:
+DORV with anterior deviation of the infundibular septum and a subaortic VSD presents with cyanosis: A.
+This is the Fallot type: the outflow to the lungs is narrowed, so the child is blue, as in tetralogy.
+With a subaortic VSD and no pulmonary stenosis, flow to the lungs is high and heart failure dominates; with a subpulmonary VSD (Taussig-Bing), cyanosis and heart failure combine, and arch obstruction is common.
+The presentation of a doubly committed or remote VSD depends on pulmonary stenosis, not on distance.
+In the picture, with the funnel shoved narrow and the hole under the orca, the child's lips turn blue.
+Memory hook: the Fallot-type funnel turns the lips blue.
+
+== 339
+# book 71.4: correct about DORV repair -> B, most centres repair DORV with a subaortic VSD and RV outflow obstruction within the first year.
+# ANSWER: in Ebisu Town, the surgeon builds the tunnel from the red room through the hole to the orca and widens the funnel before the first birthday cake (audited both, funnel)
+# a hole under the money pipe without a narrow funnel takes the switchman's lever, not the mustard wall (C wrong) (audited switch lever, mustard)
+title: DORV with a subaortic VSD and RV outflow obstruction is usually repaired in the first year
+titleAr: البطين الأيمن مزدوج المخرج مع فتحة تحت الأبهر وانسداد مخرج البطين الأيمن يُصلح عادة في السنة الأولى
+tags: cardiac/congenital d:technique q:recall l:3
+palette: Ebisu Town laughter yellow, tunnel white and funnel copper
+words: 1
+keywords: DORV -> both the orca and the pipe of dollar bills rising out of the blue engine room; VSD under the aorta with RVOTO -> a hole in the lower party wall under the orca and a narrow funnel under the money pipe; complete repair within the first year -> a white tunnel built from the red room through the hole to the orca and the funnel widened, before a birthday cake with one candle; subpulmonary VSD without RVOTO -> a hole in the lower party wall under the money pipe, fixed by a subway switchman pulling a big switch lever, not by a squeeze bottle of mustard drawing a wall
+must: the tunnel and the widened funnel are finished before the one-candle birthday cake is lit
+scene: Ebisu Town in Wano, everyone laughing. CENTRE, dominant and brightest: a surgeon building a white tunnel from a HART Hotel's red engine room through the hole in the lower party wall to the orca, and widening the narrow funnel under the money pipe, both rising out of the blue engine room; a birthday cake with one candle waiting, unlit. AROUND, dimmer: a subway switchman pulling a big switch lever; a squeeze bottle of mustard set aside. LEFT: Usopp waving a calendar of several years. Chopper.
+story:
+في بلدة إيبيسو الضاحكة بوانو، جيء بفندق صغير يخرج من غرفته الزرقاء الحوت وأنبوب الدولارات كلاهما، وفي جداره السفليّ ثقب تحت الحوت، وقمعه ضيّق.
+«نصبر سنوات قبل الإصلاح؛ وحين يكبر نصلح كلّ شيء!» قال أوسوب، ولوّح بتقويم من سنوات عدّة.
+لكنّ الجرّاح وضع كعكة ميلاد بشمعة واحدة لم تشعل بعد، وبدأ العمل.
+فبنى نفقًا أبيض من الغرفة الحمراء عبر الثقب إلى الحوت، ووسّع القمع تحت أنبوب الدولارات.
+فلمّا أشعلت الشمعة الأولى، كان الفندق قد أصلح كلّه في عمليّة واحدة.
+أمّا الفندق الّذي ثقبه تحت أنبوب الدولارات، فجاءه عامل التحويلة برافعته الكبيرة، لا زجاجة الخردل.
+«النفق والقمع قبل الشمعة الأولى!» قال تشوبر.
+quote:
+source:
+explanation:
+Most centres perform complete repair of DORV with a subaortic VSD and RV outflow tract obstruction within the first year of life: B.
+The left ventricle is tunnelled through the VSD to the aorta with a patch, and the right ventricular outflow is relieved, as in tetralogy; palliation first is seldom needed.
+A subpulmonary VSD without outflow obstruction (Taussig-Bing) is treated by an arterial switch with VSD closure, often with arch repair in one stage.
+A noncommitted VSD needs a complex tunnel or a single-ventricle route, not simple patch closure.
+In the picture, the tunnel and the widened funnel are finished before the first birthday cake is lit.
+Memory hook: tunnel and funnel before the first candle.
+
+== 340
+# book 71.5: true about outcomes after DORV repair -> C, neoaortic regurgitation after an arterial switch is more common in DORV than in simple transposition.
+# ANSWER: at the sea-train junction of Enies Lobby, two hotels switched by the switchman: the DORV one's new orca mouth gurgles back more than the simple-transposition one's (audited switch lever, gurgling, both)
+# a curtain under the orca's mouth comes back in more than 1 in 10 (E wrong) (audited curtain)
+title: After arterial switch, neoaortic regurgitation is more common in DORV than in simple transposition
+titleAr: بعد عمليّة التبديل الشريانيّ، يكثر قلس الأبهر الجديد في البطين الأيمن مزدوج المخرج أكثر من التبديل البسيط
+tags: cardiac/congenital d:complications q:recall l:3
+palette: sea-train junction iron, signal red and water blue
+keywords: arterial switch -> a subway switchman pulling a big railway switch lever that swings the orca and the pipe of dollar bills back to their own engine rooms; neoaortic valve regurgitation -> after the switch, the new orca's mouth (the old money-pipe door) gurgling water back; DORV -> both the orca and the pipe of dollar bills once rising out of the blue engine room; simple transposition -> a second hotel, its orca and dollar pipe once swapped, switched back, its new mouth staying almost dry; subaortic obstruction -> a shower curtain coming back across the doorway below the orca's mouth
+must: the switched DORV hotel's new orca mouth gurgles back more than the simple-transposition hotel's
+scene: The sea-train junction at Enies Lobby, iron rails and signals. CENTRE, dominant and brightest: a subway switchman pulling a big railway switch lever beside two switched HART Hotels: in the one that once had both the orca and the money pipe rising out of its blue room, the new orca's mouth gurgles water back; in the other, a simple transposition, the new mouth stays almost dry. AROUND, dimmer: a shower curtain coming back across a doorway below an orca's mouth. LEFT: Usopp. Chopper.
+story:
+عند مفترق قطار البحر في إنيس لوبي، شدّ عامل التحويلة رافعته الكبيرة، فأعاد الحوت وأنبوب الدولارات إلى غرفتيهما في فندقين.
+الأوّل فندق كان حوته وأنبوبه قد تبادلا مكانيهما فقط؛ والثّاني كانا يخرجان كلاهما من غرفته الزرقاء.
+«تحويلة واحدة، ونتيجة واحدة؛ الفندقان سواء!» قال أوسوب.
+لكنّ فم الحوت الجديد في الفندق الثاني، وهو باب أنبوب الدولارات القديم، أخذ يقرقر راجعًا أكثر، وجذره يتّسع.
+أمّا فم الفندق الأوّل الجديد، فبقي جافًّا تقريبًا.
+وفي بعض الفنادق الّتي بني فيها نفق إلى الحوت، عادت ستارة حمّام تمتدّ تحت فم الحوت من جديد.
+«بعد التحويلة، يسرّب فم فندق المخرجين أكثر!» قال تشوبر.
+quote:
+source:
+explanation:
+After an arterial switch, neoaortic valve regurgitation is more common in DORV than after the switch for simple transposition: C.
+In the Taussig-Bing heart the pulmonary root is often larger than the aortic root and the great vessels are side by side, so the new aortic root is more prone to dilate and leak.
+Early mortality after DORV repair is now about 5 percent, AV septal defects raise the risk, and subaortic obstruction recurs in more than 10 percent of tunnel repairs.
+In the picture, the switched DORV hotel's new orca mouth gurgles back more than the simple-transposition hotel's.
+Memory hook: after the switch, the DORV mouth leaks more.
