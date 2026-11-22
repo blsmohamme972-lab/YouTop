@@ -84,6 +84,14 @@ lines in the book; none used more than three times, uses always at least 20 less
 passed with no problem (repeat rule included). Nothing recorded or published: audio cannot be kept in the repository,
 so record each lesson only when its picture arrives, just before publishing.
 
+**Picture prompts as ONE JSON file (2026-11-22, evening; the owner asked "جيسون الصور", then "ملف واحد جيسون"), sent
+to the owner: `drafts/image-prompts-all-2026-11-22.json`**, 385 prompts = every picture still to make: Johns Hopkins 380
+in number order (68 never made: 11, 14, 23, 26, 31, 36, 38, 54, 59, 64, 65, 76, 80, 81, 90, 92, 98, 99, 101-150; the 40
+redos; 151-422), then MedCosmos 111, 123, 125, 128, 149, whose `info` starts "MedCosmos 111." etc. because the numbers
+collide with Johns Hopkins. Same format as `batch.py prompts` writes (`{"items": [{"info": "N. ..."}]}`), made from the
+current `batch.txt` files; every prompt is identical to the text files sent before (checked). (`validate.py` would only
+note the numbering gaps and the MedCosmos prefix; both on purpose.)
+
 **Next, in order:** pictures as they arrive (skill steps 4-5): build every batch **in order** from `drafts/` (the repeat
 check counts the lessons already built in the folder), `voice.py make` + `voice.py check` for the lessons being
 published (audio made in earlier containers is gone; every unpublished lesson is recorded again), spots, marks, look at
