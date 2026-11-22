@@ -13,11 +13,13 @@ Updated 2026-11-21 (evening). Whoever works on YouTop next: read `CLAUDE.md`, th
 and merged to main as it is done. The owner asked for it overnight, with an hourly wake-up scheduled task
 (trig_01PU9vpvigNUp6wUdpdP37Yc) to resume after a usage-limit pause; disable it when 422 is reached. Other sessions:
 do not write 151+ in parallel; pictures, voices and publishing of 1-150 are unaffected.
-- Progress (update as it goes): **151-240 written** (tables, scenes, prompts, vowelled stories, quotations, explanations;
-  `drafts/johns-hopkins-2016/batch-0151-0160` ... `batch-0231-0240`; prompts for the owner: `prompts-jh-151-180.txt`,
-  `prompts-jh-181-190.txt` ... `prompts-jh-231-240.txt`, not yet sent). Voices: 151-230 recorded, 231-240 recording
-  (audio only in this container; rebuild + `voice.py make` reproduces it; a worker restart at ~01:00 UTC interrupted
-  211-220, which were recorded again).
+- Progress (update as it goes): **151-250 written** (tables, scenes, prompts, vowelled stories, quotations, explanations;
+  `drafts/johns-hopkins-2016/batch-0151-0160` ... `batch-0241-0250`; prompts for the owner: `prompts-jh-151-180.txt`,
+  `prompts-jh-181-190.txt` ... `prompts-jh-241-250.txt`, not yet sent). **Quotation pending** (story written up to the
+  payoff, no lead-in or quotation yet, so not built or recorded): 242, 243, 246, 247, 248, 250. Voices: 151-240
+  recorded; 241, 244, 245, 249 recording (built one by one from `.content-work/work/johns-hopkins-2016/single-<n>/`,
+  because the validator refuses gaps). Audio only in this container; rebuild + `voice.py make` reproduces it; a worker
+  restart at ~01:00 UTC interrupted 211-220, which were recorded again.
   `voice.py check` of 151-180: 5 sentences flagged, all false alarms when each clip was transcribed alone (155 and 180:
   "Pirates are coming!" said twice, heard once; 164 S8: numbers heard as digits; 168 S10: "Gomu Gomu no... Pistol"
   heard whole alone; 174 S9: "Binks" heard as a different word, the rest right). Since 151 each quotation has a lead-in
