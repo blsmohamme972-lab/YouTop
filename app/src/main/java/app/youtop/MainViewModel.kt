@@ -124,17 +124,25 @@ class MainViewModel(app: Application) : AndroidViewModel(app) {
     private var autoSyncJob: Job? = null
     private var lastAutoAttempt = 0L
 
+    /**
+     * Lessons sent for a redo, with the version they had ([app.youtop.data.Lesson.rev]). They stay out
+     * of the feed (new and review alike) until a newer version of the same lesson is synced; that
+     * version then replaces the old one and starts as a new lesson.
+     */
+    private val redo = HashMap<String, Int>()
+
     init {
         viewModelScope.launch {
             val s = prefs.settings.first()
             narrator.setSpeed(s.speed)
             narrator.setMuted(s.muted)
             settings.first { it == s } // the scheduler reads its settings from this flow
+            redo.putAll(s.redo)
             store.load()
             repo.loadLocal()
             loaded.value = true
             // Rebuild what lies ahead whenever the books or the set of books in the feed change.
-            launch { repo.books.collect { lessons = it.flatten(); replan() } }
+            launch { repo.books.collect { lessons = it.flatten(); releaseRedone(); replan() } }
             // A changed pace or "when nothing is due" may allow another lesson right away.
             // (Books and topics are handled by the collector below, which rebuilds the pool first.)
             launch {
@@ -157,6 +165,27 @@ class MainViewModel(app: Application) : AndroidViewModel(app) {
 
     /** Lessons the feed may draw from: the chosen books and tags. Rebuilt in [replan]. */
     private var pool: List<FeedItem> = emptyList()
+
+
+    /** Lets back every held lesson whose newer version has arrived. */
+    private fun releaseRedone() {
+        if (redo.isEmpty()) return
+        val back = Feedback.redone(redo, lessons)
+        if (back.isEmpty()) return
+        back.forEach { redo.remove(it); store.forget(it) }
+        val now = HashMap(redo)
+        viewModelScope.launch { prefs.setRedo(now) }
+    }
+
+    /** How many lessons are waiting for their redo. */
+    val waitingForRedo: Int get() = settings.value.redo.size
+
+    /** Shows every held lesson again, as it is (for a redo that was never sent). */
+    fun bringBackRedo() {
+        redo.clear()
+        viewModelScope.launch { prefs.setRedo(emptyMap()) }
+        replan()
+    }
     private var topicOf: Map<String, String?> = emptyMap()
 
     /**
@@ -226,7 +255,7 @@ class MainViewModel(app: Application) : AndroidViewModel(app) {
         val s = study()
         // One book when one is chosen (and still exists); otherwise every book not left out.
         val only = s.book?.takeIf { id -> lessons.any { it.book.id == id } }
-        pool = lessons.filter { (if (only != null) it.book.id == only else it.book.id !in s.excludedBooks) && Tags.matches(it.lesson.tags, s.focus) }
+        pool = lessons.filter { it.key !in redo && (if (only != null) it.book.id == only else it.book.id !in s.excludedBooks) && Tags.matches(it.lesson.tags, s.focus) }
         topicOf = pool.associate { it.key to Tags.mainTopic(it.lesson.tags) }
         if (pool.isEmpty()) {
             // Nothing matches the chosen books and topics: an empty feed that says so, rather than
@@ -375,6 +404,32 @@ class MainViewModel(app: Application) : AndroidViewModel(app) {
      * there, and the agent reads it). The notes it holds are taken off the phone's list once the page
      * has opened. False when nothing waits or no browser could open it.
      */
+    /**
+     * Redo: keeps [note], takes the lesson out of the feed at once (it is not rated and does not come
+     * back for review) until its redone version arrives, and opens GitHub with every waiting note.
+     * False when GitHub could not be opened; the notes then wait on the phone.
+     */
+    fun submitRedo(entry: FeedEntry, note: Note, open: (String) -> Boolean): Boolean {
+        val key = entry.item.key
+        redo[key] = entry.item.lesson.rev
+        val held = HashMap(redo)
+        rated += entry.id
+        queue.filter { it.item.key == key }.forEach { pass(it.id); rated += it.id }
+        // What lies ahead was chosen with this lesson still in the pool: choose again without it.
+        replan()
+        // And the feed moves on to the next lesson by itself (none when nothing else is left).
+        if (queue.size > currentIndex + 1) jumps.tryEmit(currentIndex + 1)
+        val all = Feedback.add(settings.value.notes, note)
+        val (url, sent) = Feedback.issue(all, BuildConfig.VERSION_NAME)!!
+        val opened = open(url)
+        viewModelScope.launch {
+            prefs.setRedo(held)
+            prefs.addNote(note)
+            if (opened) prefs.sentNotes(sent)
+        }
+        return opened
+    }
+
     fun sendNotes(open: (String) -> Boolean): Boolean {
         val (url, sent) = Feedback.issue(settings.value.notes, BuildConfig.VERSION_NAME) ?: return false
         if (!open(url)) return false

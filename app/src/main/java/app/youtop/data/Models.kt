@@ -71,6 +71,11 @@ data class Lesson(
      * may share one.
      */
     val marks: List<Mark> = emptyList(),
+    /**
+     * The lesson's version: raised by publish.py (`--redone`) when the lesson is made again after
+     * the owner asked for a redo. A phone holding the lesson back for a redo shows it again once this rises.
+     */
+    val rev: Int = 0,
 )
 
 /**
@@ -149,6 +154,8 @@ data class LessonInfo(
     val audio: List<String> = emptyList(),
     /** Figures of the lesson's questions, so they are downloaded and kept with the lesson. */
     val figures: List<String> = emptyList(),
+    /** See [Lesson.rev]. */
+    val rev: Int = 0,
 )
 
 /** [source] says where the full lessons are: `asset:<path>`, `book:<fileId>` or `chapter:<fileId>`. */
@@ -200,7 +207,7 @@ fun BookInfo.withoutDuplicates(): BookInfo {
 
 fun Lesson.info() = clean().run { infoOf() }
 
-private fun Lesson.infoOf() = LessonInfo(id, title, titleAr, image, tags, quiz.size, tracks.mapNotNull { it.audio }, quiz.mapNotNull { it.image })
+private fun Lesson.infoOf() = LessonInfo(id, title, titleAr, image, tags, quiz.size, tracks.mapNotNull { it.audio }, quiz.mapNotNull { it.image }, rev)
 
 data class FeedItem(val book: BookInfo, val chapter: ChapterInfo, val lesson: LessonInfo) {
     val key: String = "${book.id}/${chapter.id}/${lesson.id}"

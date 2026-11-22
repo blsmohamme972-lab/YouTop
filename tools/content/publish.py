@@ -2,6 +2,7 @@
 """Publishes lessons to the `content` branch of this repository, which the app reads.
 
     python3 tools/content/publish.py <folder> [-m "what changed"] [--no-push] [--no-check] [--complete-only]
+                                              [--redone <book>/<chapter>/<lesson> ...]
     python3 tools/content/publish.py --export <folder>
 
 <folder> is a plain folder, anywhere outside the repository's tracked files:
@@ -105,36 +106,70 @@ def write_hashed(folder, stem, data: bytes) -> str:
 
 def published_ids(wt, book_id):
     """(chapter id, lesson id) of every lesson of the book as it is published now."""
+    return set(published_lessons(wt, book_id))
+
+
+def published_lessons(wt, book_id):
+    """{(chapter id, lesson id): lesson} for the book as it is published now."""
     catalog = wt / "catalog.json"
     if not catalog.exists():
-        return set()
-    ids = set()
+        return {}
+    ids = {}
     for ref in load(catalog).get("books", []):
         if ref["id"] != book_id:
             continue
         book = load(wt / ref["file"].removeprefix("gh:"))
         for ch in book.get("chapters", []):
             lessons = load(wt / ch["file"].removeprefix("gh:"))["lessons"] if ch.get("file") else ch.get("lessons", [])
-            ids |= {(ch["id"], lesson["id"]) for lesson in lessons}
+            ids.update({(ch["id"], lesson["id"]): lesson for lesson in lessons})
     return ids
 
 
-def publish_book(src, wt, problems, complete_only=False):
+def set_revisions(book_id, chapter_id, obj, published, redone, problems):
+    """Gives each lesson its "rev" (see Lesson.rev in the app). A lesson never goes back to a lower
+    rev than the published one; a lesson named in --redone gets one more, which tells the phone that
+    holds it back for a redo to show it again, as a new lesson. True if anything was changed."""
+    changed = False
+    for lesson in obj.get("lessons", []):
+        key = f"{book_id}/{chapter_id}/{lesson['id']}"
+        old = published.get((chapter_id, lesson["id"]))
+        prev = old.get("rev", 0) if old else 0
+        rev = max(prev, lesson.get("rev", 0))
+        if key in redone:
+            redone.discard(key)
+            strip = lambda d: {k: v for k, v in d.items() if k != "rev"}
+            if old is None:
+                problems.append(f"--redone {key}: this lesson is not published yet")
+                continue
+            if strip(old) == strip(lesson):
+                problems.append(f"--redone {key}: the lesson is exactly as published; make the change first")
+                continue
+            rev = prev + 1
+        if rev != lesson.get("rev", 0):
+            lesson["rev"] = rev
+            changed = True
+    return changed
+
+
+def publish_book(src, wt, problems, complete_only=False, redone=frozenset()):
     book = load(src / "book.json")
     book_id = book.get("id", "")
     if book_id != src.name:
         problems.append(f"{src}: the folder name must be the book id ('{book_id}')")
         return None
     dest = wt / "books" / book_id
-    before = published_ids(wt, book_id)
+    published = published_lessons(wt, book_id)
+    before = set(published)
 
     # --complete-only: a lesson without its picture is held back (not published, or taken out of the
     # published book until it is complete); the phone keeps its progress under its id meanwhile.
-    chapters, held = {}, set()
+    chapters, held, rewritten = {}, set(), set()
     for ch in book.get("chapters", []):
         plain = ch.get("file")
         if plain and not plain.startswith("gh:") and not HASHED.fullmatch(pathlib.Path(plain).name) and (src / plain).is_file():
             obj = json.loads((src / plain).read_bytes())
+            if set_revisions(book_id, ch["id"], obj, published, redone, problems):
+                rewritten.add(ch["id"])
             if complete_only:
                 held |= {(ch["id"], lesson["id"]) for lesson in obj["lessons"] if not lesson.get("image")}
                 obj["lessons"] = [lesson for lesson in obj["lessons"] if lesson.get("image")]
@@ -169,7 +204,7 @@ def publish_book(src, wt, problems, complete_only=False):
             problems.append(f"{book_id} chapter '{ch['id']}': \"file\" must be a plain file in the folder, "
                             f"like chapters/q0001-0100.json (found '{plain}')")
             continue
-        data = dump(chapters[ch["id"]]) if complete_only else path.read_bytes()
+        data = dump(chapters[ch["id"]]) if complete_only or ch["id"] in rewritten else path.read_bytes()
         texts.append(data.decode("utf-8"))
         now |= {(ch["id"], lesson["id"]) for lesson in json.loads(data)["lessons"]}
         ch["file"] = f"gh:books/{book_id}/chapters/" + write_hashed(dest / "chapters", path.stem, data)
@@ -253,6 +288,9 @@ def main():
     ap.add_argument("--no-check", action="store_true", help="do not read the files back from the public address")
     ap.add_argument("--complete-only", action="store_true",
                     help="publish only lessons that have their picture; the others are held back (or taken out) until they do")
+    ap.add_argument("--redone", nargs="+", default=[], metavar="BOOK/CHAPTER/LESSON",
+                    help="lessons made again after the owner's Redo: their version goes up, so the phone, which holds "
+                         "them back since the Redo, shows the new version in place of the old one (as a new lesson)")
     args = ap.parse_args()
     folder = args.folder.resolve()
     if args.export:
@@ -270,8 +308,9 @@ def main():
     catalog_path = wt / "catalog.json"
     catalog = load(catalog_path) if catalog_path.exists() else {"books": []}
     problems = []
+    redone = set(args.redone)
     for src in books:
-        entry = publish_book(src, wt, problems, args.complete_only)
+        entry = publish_book(src, wt, problems, args.complete_only, redone)
         if entry:
             catalog["books"] = [entry if b["id"] == entry["id"] else b for b in catalog["books"]]
             if entry not in catalog["books"]:
@@ -282,6 +321,8 @@ def main():
         catalog["taxonomy"] = "gh:" + write_hashed(wt, "taxonomy", data)
     if (folder / "work").is_dir():
         shutil.copytree(folder / "work", wt / "work", dirs_exist_ok=True)
+    for key in sorted(redone):
+        problems.append(f"--redone {key}: no such lesson in the folder (book/chapter/lesson, as in the feedback issue)")
     if problems:
         git("reset", "--hard", cwd=wt, check=False, quiet=True)
         git("clean", "-fd", cwd=wt, check=False, quiet=True)

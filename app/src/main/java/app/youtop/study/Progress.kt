@@ -118,6 +118,13 @@ class ProgressStore(context: Context, private val scope: CoroutineScope) {
         save()
     }
 
+    /** Forgets one lesson: it comes back as a new lesson (used when a redone lesson replaces the old one). */
+    fun forget(key: String) {
+        if (key !in _progress.value.cards) return
+        _progress.update { it.copy(cards = it.cards - key) }
+        save()
+    }
+
     fun reset() {
         _progress.value = Progress(day = today())
         save()

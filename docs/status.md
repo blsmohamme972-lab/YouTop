@@ -4,6 +4,15 @@ Updated 2026-11-22 (late). Whoever works on YouTop next: read `CLAUDE.md`, then 
 `docs/content-guide.md` and the `youtop-lessons` skill. Rewrite this file whenever the state changes (it replaces the
 `status-<n>.txt` files in the Drive folder "YouTop private", which stop at 7).
 
+## APP 2.8 (2026-11-22): a Redo holds the lesson back until it is redone
+
+The owner: after Redo the lesson must disappear and come back only when fixed, the new one in place of the old,
+with no mistake. Done: the phone keeps the lesson out of the feed (no review, no rating) until a newer `rev` of it is
+synced; then it comes back as a new lesson. **Publish every redone lesson with `publish.py --redone <key>`**
+(CLAUDE.md, "Lesson feedback from the app"). 2.7 added "Recurring symbols" and "English" to the Redo choices.
+Note: in this container `.content/` was out of step with GitHub (`merge --ff-only` refused: unrelated histories);
+the publish change was tested on its own (`set_revisions`), not by a real publish.
+
 ## APP 2.6 (2026-11-22): "Good" and "Redo" buttons on every lesson
 
 The owner asked for two buttons on the left of the lesson screen: Good (they like the lesson) and Redo (tick what is

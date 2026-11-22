@@ -31,6 +31,11 @@ data class Settings(
     val liked: Set<String> = emptySet(),
     /** Notes for the agent not sent yet (see [Feedback]). */
     val notes: List<Note> = emptyList(),
+    /**
+     * Lessons sent for a redo, with the version ([Lesson.rev]) they had: kept out of the feed until a
+     * newer version arrives.
+     */
+    val redo: Map<String, Int> = emptyMap(),
 )
 
 class Prefs(private val context: Context) {
@@ -45,6 +50,7 @@ class Prefs(private val context: Context) {
     private val hintSeen = booleanPreferencesKey("hint_seen")
     private val liked = stringSetPreferencesKey("liked")
     private val notes = stringPreferencesKey("feedback_notes")
+    private val redo = stringPreferencesKey("redo_held")
 
     val settings: Flow<Settings> = context.store.data.map { p ->
         Settings(
@@ -58,6 +64,7 @@ class Prefs(private val context: Context) {
             study = p[study]?.let { runCatching { ContentJson.decodeFromString<StudySettings>(it) }.getOrNull() } ?: StudySettings(),
             hintSeen = p[hintSeen] ?: false,
             liked = p[liked] ?: emptySet(),
+            redo = p[redo]?.let { runCatching { ContentJson.decodeFromString<Map<String, Int>>(it) }.getOrNull() } ?: emptyMap(),
             notes = p[notes]?.let { runCatching { ContentJson.decodeFromString<List<Note>>(it) }.getOrNull() } ?: emptyList(),
         )
     }
@@ -86,6 +93,7 @@ class Prefs(private val context: Context) {
     suspend fun addNote(note: Note) = context.store.edit {
         it[notes] = ContentJson.encodeToString(Feedback.add(readNotes(it[notes]), note))
     }
+    suspend fun setRedo(v: Map<String, Int>) = context.store.edit { it[redo] = ContentJson.encodeToString(v) }
     /** Forgets the notes that were handed to GitHub. */
     suspend fun sentNotes(sent: List<Note>) = context.store.edit {
         it[notes] = ContentJson.encodeToString(readNotes(it[notes]).filterNot { n -> n in sent })

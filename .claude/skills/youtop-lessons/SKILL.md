@@ -17,7 +17,8 @@ reference for when something unusual comes up (a new book).
 
 Before anything else, read the open GitHub issues titled `Lesson feedback: …` (sent by the app's Good and Redo
 buttons; format in CLAUDE.md, "Lesson feedback from the app"). Each REDO names the lesson
-(`book/chapter/lesson`), the wrong parts and what should change: fix it (same ids) and republish. Each GOOD says
+(`book/chapter/lesson`), the wrong parts and what should change: fix it (same ids) and republish **with `publish.py … --redone <book>/<chapter>/<lesson>`** for every
+lesson redone: the phone holds a reported lesson back until its version (`rev`) rises, and only `--redone` raises it. Each GOOD says
 which lessons the owner liked; make new ones in that spirit. Comment what was done and close the issue.
 
 ## The picture prompt is the most important step (the owner's rules, 2026-11-19)
