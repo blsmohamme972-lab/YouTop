@@ -1,0 +1,21 @@
+{
+ "file": "jh-q0241-explanation-en.m4a",
+ "sig": "88ae41b3d1cc6843e9f2c2a2f8638f019e8c3e9063555b5e5d7dcf604c9473cc",
+ "starts": [
+  0,
+  15640,
+  26380,
+  40132,
+  47459,
+  53404
+ ],
+ "seconds": 59.7,
+ "texts": [
+  "In indirect allorecognition, debris of dead donor cells is taken up by the recipient's own antigen-presenting cells, which process the donor antigens and display them on their own MHC class II molecules to CD4+ T cells: B.",
+  "In the picture, the patient's own presenters gather the fallen leaves of the new plant, boil them down and hold the pieces up on a stand marked II to the four-striped captain ants.",
+  "In the direct pathway, donor antigen-presenting cells carried in the graft present intact donor MHC to recipient T cells (option A); the transfer of MHC by exosomes is the semi-direct pathway.",
+  "Complement and Toll-like receptors belong to innate immunity, not to recognition of the graft by T cells.",
+  "The indirect pathway lasts as long as the graft and is thought to drive chronic rejection.",
+  "Memory hook: the patient's own presenters cook the fallen leaves and show them to the captains."
+ ]
+}
