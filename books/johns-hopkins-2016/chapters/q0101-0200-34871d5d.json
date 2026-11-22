@@ -1,0 +1,241 @@
+{
+ "lessons": [
+  {
+   "id": "jh-q0102",
+   "title": "A pleural abnormality on the chest film is best evaluated next by CT",
+   "titleAr": "آفة الجنبة على صورة الصدر يُستكمل تقييمها أفضل بالتصوير المقطعي",
+   "tags": [
+    "thoracic/pleura",
+    "d:diagnosis",
+    "q:next-step",
+    "l:1"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "على سطح الثاوزند صني، رفع أوسوب لوحًا رماديًّا، لا يظهر فيه إلّا ظلّ باهت عند طرف صدر مرسوم.",
+       "spot": {
+        "x": 0.22,
+        "y": 0.27,
+        "r": 0.14
+       },
+       "t": 0
+      },
+      {
+       "text": "«أين الكتلة بالضّبط؟ لا أرى إلّا ضبابًا!» قال أوسوب وهو يحكّ رأسه.",
+       "spot": {
+        "x": 0.15,
+        "y": 0.15,
+        "r": 0.12
+       },
+       "t": 8427
+      },
+      {
+       "text": "ووقف في الطابور خلفه خفّاش، وجرو متوهّج، ومغناطيس أحمر كبير، ينتظرون أن ينادوا.",
+       "spot": {
+        "x": 0.82,
+        "y": 0.3,
+        "r": 0.16
+       },
+       "t": 15152
+      },
+      {
+       "text": "لكنّ قطّةً رماديّةً رشيقةً قفزت قبلهم جميعًا.",
+       "spot": {
+        "x": 0.55,
+        "y": 0.4,
+        "r": 0.2
+       },
+       "t": 23808
+      },
+      {
+       "text": "وأمسكت رغيفًا طويلًا على شكل صندوق كنز، وقطّعته بمخلبها شرائح رقيقةً جدًّا.",
+       "spot": {
+        "x": 0.6,
+        "y": 0.65,
+        "r": 0.25
+       },
+       "t": 28402
+      },
+      {
+       "text": "وفي كلّ شريحة، ظهرت كتلة صغيرة جالسة على القشرة، في المكان نفسه.",
+       "spot": {
+        "x": 0.35,
+        "y": 0.82,
+        "r": 0.18
+       },
+       "t": 35765
+      },
+      {
+       "text": "«الشرائح تقول كلّ شيء: أين الكتلة، وكم حجمها، وماذا تلمس!» قالت نامي.",
+       "spot": {
+        "x": 0.35,
+        "y": 0.82,
+        "r": 0.18
+       },
+       "t": 42612
+      },
+      {
+       "text": "فعاد الخفّاش والجرو والمغناطيس إلى أماكنهم، دون أن يناديهم أحد.",
+       "spot": {
+        "x": 0.82,
+        "y": 0.3,
+        "r": 0.16
+       },
+       "t": 50323
+      },
+      {
+       "text": "ورمى أوسوب لوحه الرماديّ، وصفّق للقطّة.",
+       "spot": {
+        "x": 0.15,
+        "y": 0.25,
+        "r": 0.14
+       },
+       "t": 56193
+      },
+      {
+       "text": "وجمعت نامي الشرائح واحدةً واحدةً، ورسمت منها خريطةً، وقالت:",
+       "spot": {
+        "x": 0.35,
+        "y": 0.82,
+        "r": 0.18
+       },
+       "t": 60409
+      },
+      {
+       "text": "«سأرسم خريطةً للعالم كلّه!»",
+       "quote": "ون بيس، نامي",
+       "t": 67423
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0102-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "After a pleural abnormality is seen on a chest film, CT is the most useful next test: B is the answer.",
+       "spot": {
+        "x": 0.55,
+        "y": 0.45,
+        "r": 0.25
+       },
+       "t": 0
+      },
+      {
+       "text": "It shows the size and position of the lesion and its relation to the chest wall, mediastinum and lung, and it guides biopsy.",
+       "spot": {
+        "x": 0.35,
+        "y": 0.82,
+        "r": 0.18
+       },
+       "t": 7725
+      },
+      {
+       "text": "Ultrasound helps with fluid, PET with staging a known cancer, MRI with invasion of the chest wall or diaphragm, and thoracoscopy gives tissue.",
+       "spot": {
+        "x": 0.82,
+        "y": 0.3,
+        "r": 0.16
+       },
+       "t": 15555
+      },
+      {
+       "text": "Memory hook: the cat slices the loaf, and every slice shows exactly where the lump sits on the crust.",
+       "spot": {
+        "x": 0.45,
+        "y": 0.7,
+        "r": 0.25
+       },
+       "t": 25399
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0102-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which is the most useful imaging modality to further evaluate a pleural abnormality seen on chest x-ray?",
+     "options": [
+      "Chest ultrasound",
+      "CT scan",
+      "PET scan",
+      "MRI",
+      "Thoracoscopy"
+     ],
+     "answer": 1,
+     "explain": "After a pleural abnormality is seen on a chest film, CT is the most useful next test: B is the answer. It shows the size and position of the lesion and its relation to the chest wall, mediastinum and lung, and it guides biopsy. Ultrasound helps with fluid, PET with staging a known cancer, MRI with invasion of the chest wall or diaphragm, and thoracoscopy gives tissue. Memory hook: the cat slices the loaf, and every slice shows exactly where the lump sits on the crust.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q21.2",
+     "marks": [
+      1
+     ],
+     "answerMarks": [
+      2
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0102.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.22,
+      "y": 0.27,
+      "r": 0.12
+     },
+     "what": "Usopp's grey X-ray plate, a vague smudge",
+     "means": "Pleural abnormality on the chest film"
+    },
+    {
+     "spot": {
+      "x": 0.55,
+      "y": 0.42,
+      "r": 0.2
+     },
+     "what": "Grey cat slicing with one claw",
+     "means": "CT scan, the most useful next test (B)"
+    },
+    {
+     "spot": {
+      "x": 0.4,
+      "y": 0.82,
+      "r": 0.2
+     },
+     "what": "Thin slices, the lump on each crust",
+     "means": "Size, position and relations of the lesion"
+    },
+    {
+     "spot": {
+      "x": 0.7,
+      "y": 0.3,
+      "r": 0.07
+     },
+     "what": "Bat waiting in line",
+     "means": "Ultrasound: for fluid"
+    },
+    {
+     "spot": {
+      "x": 0.8,
+      "y": 0.3,
+      "r": 0.07
+     },
+     "what": "Glowing puppy waiting in line",
+     "means": "PET: for staging a known cancer"
+    },
+    {
+     "spot": {
+      "x": 0.93,
+      "y": 0.3,
+      "r": 0.07
+     },
+     "what": "Red horseshoe magnet waiting in line",
+     "means": "MRI: invasion of the chest wall or diaphragm"
+    }
+   ]
+  }
+ ]
+}
