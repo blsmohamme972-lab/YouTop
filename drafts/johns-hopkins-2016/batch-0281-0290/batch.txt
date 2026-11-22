@@ -26,8 +26,9 @@ story:
 فإذا الندبة الرماديّة الميّتة في الجدار تتوهّج بيضاء ساطعةً كالشّبح، والعضل الحيّ حولها مظلم.
 «شبح! شبح في الفندق!» صرخ أوسوب، واختبأ خلف تشوبر.
 «ليس شبحًا يا أوسوب؛ إنّها الندبة الميّتة تتوهّج في الصورة المتأخّرة، والعضل الحيّ يبقى مظلمًا!» قال تشوبر.
-quote:
-source:
+فمرّ شبح من أشباح بيرونا بأوسوب المرتجف، فلم يؤثّر فيه؛ فقد كان يتمتم من قبل بما يتمتم به ضحاياها:
+quote: «آسف لأنّني ولدت!»
+source: ضحايا أشباح بيرونا
 explanation:
 Delayed enhancement MRI is used for the detection of myocardial scar and infarction (nonviable myocardium): D.
 Gadolinium leaves normal muscle quickly but lingers in the wide spaces of scar, so on images taken about 10 minutes after the injection the scar is bright and living muscle is dark.
@@ -55,8 +56,9 @@ story:
 أمّا الخامس، فحبّتا فاصوليائه ذابلتان رماديّتان، مربوطتان إلى غسّالة تدور؛ فلم يجد الغبار بابًا يخرج منه.
 فاستقرّ الغبار في جلده، فصار جلده قاسيًا معرّقًا كالخشب، ولم يعد يقدر أن يثني ركبتيه.
 «الفاصولياء الذابلة تحبس الغبار الذهبيّ، فيصير الجلد خشبًا!» قال تشوبر.
-quote:
-source:
+فرفع رجل ضخم أسود اللحية كأسه في ركن الحانة، وضحك ضحكته الواسعة، وقال:
+quote: «أحلام الناس لا تنتهي أبدًا!»
+source: مارشال دي تيتش (اللحية السوداء)
 explanation:
 Patients undergoing gadolinium-enhanced MRI are at risk of nephrogenic systemic fibrosis (NSF) if they have renal failure: D.
 Gadolinium is cleared by the kidneys; when they fail, it stays in the body for a long time and can trigger fibrosis of the skin, the joints and internal organs.
@@ -85,8 +87,9 @@ story:
 وأخذ عدّاد الرادار يجمع ما يمضي إلى الأمام، وما يعود إلى الوراء، دقّةً بعد دقّة.
 «لا تفلت من راداري قطرة واحدة!» قال سموكر، ونفث دخان سيجاريه.
 «رادار المغناطيس يقيس كلّ قطرة، ويعدّ ما يرجع!» قال تشوبر.
-quote:
-source:
+فنظر سموكر إلى منصّة الإعدام القديمة في وسط لوغتاون، وتذكّر الكلمة الّتي قيلت عليها:
+quote: «كنزي؟ إن أردتموه فهو لكم. ابحثوا عنه! لقد تركت كلّ شيء في ذلك المكان!»
+source: غول دي روجر
 explanation:
 Valvular regurgitation is best quantified with velocity-encoded MRI: B.
 Velocity-encoded (phase-contrast) MRI measures the speed and direction of blood in every pixel of a plane across the vessel, so the forward and backward volumes through a valve can be calculated beat by beat.
@@ -114,8 +117,9 @@ story:
 أمّا اللفيفة الطويلة العموديّة، فأظهرت ورقتي التاج كاملتين من أعلاهما إلى أسفلهما، تنفتحان وتنغلقان.
 فجلس أوسوب أمام اللفيفة مبهورًا، ونسي كوب الشاي في يده حتّى برد.
 «علّقوا تاج الأسقف على لفيفة طويلة عموديّة، فتروه كلّه!» قال تشوبر.
-quote:
-source:
+فنظر زورو إلى اللفيفة الطويلة تمتدّ من الأرض إلى السقف، وتذكّر عهده القديم:
+quote: «سأصير أقوى! أقوى ممّا كانت هي! حتّى يبلغ اسمي السماء!»
+source: رورونوا زورو
 explanation:
 The vertical long axis is the best MR plane for imaging the mitral valve: D.
 This two-chamber view cuts through the left atrium and left ventricle along their length, so both mitral leaflets are seen from base to tip as they open and close.
@@ -142,8 +146,9 @@ story:
 فلمّا انقبض الجدار، انكمشت مربّعات الشبكة والتوت معه، كلّ مربّع بقدره.
 فأخرج تشوبر دفتره، وكتب كم انكمش كلّ مربّع، واحدًا واحدًا.
 «الشبكة على الجدار تعدّ الانقباض رقمًا رقمًا؛ والفيلم يري ولا يعدّ!» قال تشوبر.
-quote:
-source:
+فنظرت نامي إلى الشبكة المرسومة على الجدار كأنّها خطوط خريطة، وقالت:
+quote: «سأرسم خريطةً للعالم كلّه!»
+source: نامي
 explanation:
 Tagged MRI can be used to quantify regional wall motion: B.
 A grid of dark lines is laid magnetically on the myocardium at the start of systole, and the lines move with the muscle, so the deformation (strain) and twist of each segment can be measured.
@@ -170,8 +175,9 @@ story:
 فمع مرور الأيّام، أخذ انتفاخ السلاسل يهبط، وأخذ الجسر ينزل شيئًا فشيئًا، حتّى عاد إلى مكانه.
 فعبرت الإشارات من جديد، وشكر تشوبر الطبّال وصرفه.
 «الجسر الّذي رفعه البنّاؤون ينزل في الغالب بعد أيّام؛ والطّبّال يحفظ الدقّة حتّى ينزل!» قال تشوبر.
-quote:
-source:
+فلمّا عاد الجسر إلى مكانه، عزف بروك على كمانه نغمة فرح، وقال:
+quote: «وعدت لابون أن أعود إليه!»
+source: بروك
 explanation:
 Most cases of postoperative complete AV block are temporary: C.
 Swelling, bleeding or stitches near the conduction tissue can block it after repairs near the AV node; as the swelling settles, conduction usually returns within 7 to 10 days.
@@ -200,8 +206,9 @@ story:
 فأخرج تشوبر حبّةً زرقاء صغيرةً على شكل معيّن، وألقاها في أنبوب الدولارات.
 فذابت الحبّة، وطفت المكعّبات الخشبيّة مبتعدة، وجرى الماء في الأنبوب سهلًا.
 «الحبّة الزرقاء تغسل المكعّبات من أنبوب الدولارات؛ أمّا الليمون والشّفاه الزرقاء والنّهر الغليظ والصّراخ فتزيدها!» قال تشوبر.
-quote:
-source:
+فخجل أوسوب من ليمونته، ونظر إلى البحر من قريته القديمة، وقال حلمه الأوّل:
+quote: «أريد أن أكون محاربًا شجاعًا من محاربي البحر!»
+source: أوسوب
 explanation:
 Sildenafil decreases pulmonary vascular resistance: E.
 It blocks phosphodiesterase-5, so nitric oxide's messenger (cyclic GMP) lasts longer in the pulmonary arteries and they relax; it is also used to wean inhaled nitric oxide.
@@ -229,8 +236,9 @@ story:
 لكنّ إبرة الطفل الخامس كانت هادئةً في الأخضر قبل الجراحة، وبقيت هادئةً بعدها.
 فجدران أنبوبه ليّنة، لم ترهقها السنون، ولا تنقبض لكلّ سبب.
 «مقياس هادئ قبل الجراحة، يبقى هادئًا بعدها!» قال تشوبر.
-quote:
-source:
+فجثا تشوبر أمام الطفل الخامس الهادئ، وسأله كما سأل كوما يومًا:
+quote: «لو كان بوسعك أن تسافر، فإلى أين تريد أن تذهب؟»
+source: بارثولوميو كوما
 explanation:
 Patients with normal preoperative PA pressures are not at particular risk of postoperative pulmonary hypertension: D.
 Pulmonary hypertensive crises after surgery are most likely when the pulmonary arteries are reactive or remodelled: neonatal repair, obstructed total anomalous pulmonary venous return, large shunts repaired late in an older child, and Down syndrome.
@@ -258,8 +266,9 @@ story:
 فأخذ تشوبر مصفاةً، وعصر بها الماء الزائد من النهر، حتّى ازدحمت الكعكات الحمراء فيه كثيفة.
 فهدأ الفانوس، وأضاء ثابتًا هادئًا.
 «الثلج والأكياس والاندفاع وغاز النوم ترعش الفانوس؛ أمّا المصفاة الّتي تكثّف النهر فتهدّئه!» قال تشوبر.
-quote:
-source:
+فأطرق أوسوب خجلًا من دلوه، وقال كما قال يومًا وهو يبكي على رصيف البحر:
+quote: «أنا آسف يا لوفي! أرجوك، دعني أعود إليكم!»
+source: أوسوب
 explanation:
 Hemoconcentration is not a risk factor for neurologic injury: D.
 After bypass, ultrafiltration concentrates the diluted blood and raises the haematocrit; in infants, a low haematocrit on bypass has been linked to worse neurodevelopment, so concentrating the blood is protective rather than harmful.
@@ -286,8 +295,9 @@ story:
 «وهذا قوسه باهت رفيع؛ إذن هو أكثرهم خطرًا، فالضّعيف يمرض!» قال أوسوب، وأشار إلى الطفل الخامس.
 لكنّ نهر الطفل الخامس بقي نظيفًا لا بروكلي فيه؛ فقوسه الباهت يعني أنّه أقلّهم مرضًا.
 «قوس باهت رفيع، ونهر نظيف؛ القوس العريض الساطع هو الخطر!» قال تشوبر.
-quote:
-source:
+فشدّ الطفل الخامس أذن تشوبر ضاحكًا، وسمّاه راكونًا، فصاح تشوبر:
+quote: «أنا لست راكونًا! أنا رنّة!»
+source: توني توني تشوبر
 explanation:
 A lower PRISM score is not a risk factor for bloodstream infection in the paediatric ICU: B.
 PRISM (Pediatric Risk of Mortality) scores how sick a child is; a higher score, not a lower one, goes with more infections.

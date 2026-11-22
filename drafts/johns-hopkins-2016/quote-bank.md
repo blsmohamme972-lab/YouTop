@@ -43,3 +43,41 @@ shoot that flag!" (172, 192: done), "a crew better than yours" (173, 208: done),
 
 This bank will not reach lesson 422 on its own (each line serves two lessons). When it runs out, ask the owner: a
 third use of the best lines, or another genuine source. Do not fill the gap with doubtful lines.
+
+## From lesson 242 on (2026-11-22): a third use, then classical Arabic lines
+
+The owner, asked how to end the stories once every One Piece line had served twice, answered "اصنع اي شي قوي متناسق"
+(make anything strong and consistent). So: `quoteRepeats` is now `{"max": 3, "gap": 20}`; each lesson gets a One
+Piece line used a third time (at least 20 lessons from its other uses) when one fits its story, often by place (a story set
+in Loguetown gets Roger's words, one in Usopp's village his dream); when none fits, a famous classical Arabic line or
+proverb, read out by Robin (or said by a character) from an old book. Every one below is genuine and well known; the
+lead-in names the poet. Never invent or adapt a line.
+
+| Source | Line |
+|---|---|
+| القطامي | «قد يدرك المتأنّي بعض حاجته، وقد يكون مع المستعجل الزلل.» |
+| المتنبّي | «على قدر أهل العزم تأتي العزائم، وتأتي على قدر الكرام المكارم.» |
+| المتنبّي | «ما كلّ ما يتمنّى المرء يدركه، تجري الرياح بما لا تشتهي السفن.» |
+| المتنبّي | «إذا غامرت في شرف مروم، فلا تقنع بما دون النجوم.» |
+| المتنبّي | «وإذا كانت النفوس كبارًا، تعبت في مرادها الأجسام.» |
+| المتنبّي | «إذا رأيت نيوب الليث بارزةً، فلا تظنّنّ أنّ الليث يبتسم.» |
+| المتنبّي | «ومن يك ذا فم مرّ مريض، يجد مرًّا به الماء الزلالا.» |
+| المتنبّي | «لولا المشقّة ساد الناس كلّهم، الجود يفقر والإقدام قتّال.» |
+| طرفة بن العبد | «ستبدي لك الأيّام ما كنت جاهلًا، ويأتيك بالأخبار من لم تزوّد.» |
+| زهير بن أبي سلمى | «رأيت المنايا خبط عشواء: من تصب تمته، ومن تخطئ يعمّر فيهرم.» |
+| أبو القاسم الشابّي | «إذا الشعب يومًا أراد الحياة، فلا بدّ أن يستجيب القدر.» |
+| أبو القاسم الشابّي | «ومن لا يحبّ صعود الجبال، يعش أبد الدهر بين الحفر.» |
+| أحمد شوقي | «وما نيل المطالب بالتمنّي، ولكن تؤخذ الدنيا غلابا.» |
+| المتنبّي | «أنا الّذي نظر الأعمى إلى أدبي، وأسمعت كلماتي من به صمم.» |
+| أبو تمّام | «السيف أصدق إنباءً من الكتب، في حدّه الحدّ بين الجدّ واللعب.» |
+| مثل عربيّ | «إنّ الطيور على أشكالها تقع.» |
+| مثل عربيّ | «اتّسع الخرق على الراقع.» |
+| مثل عربيّ | «قبل الرماء تملأ الكنائن.» |
+| مثل عربيّ | «سبق السيف العذل.» |
+| مثل عربيّ | «لكلّ جواد كبوة، ولكلّ عالم هفوة.» |
+| مثل عربيّ | «عند الامتحان يكرم المرء أو يهان.» |
+| مثل عربيّ | «ربّ ضارّة نافعة.» |
+| مثل عربيّ | «معظم النار من مستصغر الشرر.» |
+| مثل عربيّ | «إنّ غدًا لناظره قريب.» |
+| مثل عربيّ | «ما لا يدرك كلّه لا يترك جلّه.» |
+| مثل عربيّ | «اضرب الحديد وهو حامٍ.» |

@@ -331,7 +331,8 @@ def lint(cfg, b, q, used, problems, warnings):
         if LATIN.search(quote):
             problems.append(f"{w}: the quotation must be in Arabic")
         # A quotation is used once per book, unless the book allows a few repeats far apart
-        # ("quoteRepeats": {"max": 2, "gap": 20}: the owner chose this for Johns Hopkins 2016, 2026-11-21).
+        # ("quoteRepeats": {"max": 2, "gap": 20}: the owner chose this for Johns Hopkins 2016, 2026-11-21; raised to
+        # "max": 3 on 2026-11-22, when the owner left the choice to the agent: "make anything strong and consistent").
         rule = cfg.get("quoteRepeats") or {}
         most, gap = rule.get("max", 1), rule.get("gap", 0)
         hits = used.get(normal(quote), [])
