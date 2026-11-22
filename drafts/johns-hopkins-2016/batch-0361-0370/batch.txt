@@ -72,7 +72,7 @@ title: A cavopulmonary anastomosis before 3 months of age is associated with mor
 titleAr: الوصلة الأجوفيّة الرئويّة قبل الشهر الثالث ترتبط بزيادة نقص الأكسجة
 tags: cardiac/congenital d:indications q:recall l:2
 palette: calendar white, chimney blue and lip violet
-keywords: bidirectional Glenn -> an astronaut in a white spacesuit bending the blue wing's chimney down to the pipe of dollar bills; before 3 months -> a calendar still short of its third month; pulmonary vascular resistance -> wooden blocks still stacked inside the money pipe; hypoxia -> the baby's bright blue lips and fingertips; hemi-Fontan -> a second builder laying the first half of a lateral tunnel, ready for the fountain later
+keywords: bidirectional Glenn -> an astronaut in a white spacesuit bending the blue wing's chimney down to the pipe of dollar bills; before 3 months -> a calendar still short of its third month; pulmonary vascular resistance -> wooden blocks still stacked inside the money pipe; hypoxia -> the baby's bright blue lips and fingertips; hemi-Fontan -> a second builder laying the first half of a lateral tunnel, ready for the fountain later; cyanosis -> the baby's bright blue lips and fingertips
 must: before the third month the wooden blocks are still stacked and the baby's lips turn blue
 scene: A HART Hotel's courtyard. CENTRE, dominant and brightest: an astronaut in a white spacesuit bending the blue wing's chimney down to the pipe of dollar bills too early, a calendar beside him still short of its third month, wooden blocks still stacked inside the money pipe, and the baby's lips turning bright blue. AROUND, dimmer: a second builder laying the first half of a tunnel inside the blue lobby. LEFT: Usopp tearing pages off the calendar. Chopper.
 story:
@@ -187,7 +187,7 @@ titleAr: العمر فوق سنة ليس من شروط عمليّة فونتان
 tags: cardiac/congenital d:indications q:recall l:2
 palette: fountain stone grey, checklist white and tick green
 words: 1
-keywords: Fontan procedure -> a stone fountain in the hotel courtyard, fed by the blue wing's chimney, its water running straight into the money pipes; unobstructed pulmonary venous drainage -> clear drains from the money sacks back to the lobby, ticked; adequate pulmonary arteries -> wide money pipes, ticked; adequate ventricular function -> the single engine room's fan turning strongly, ticked; mild or moderate AV valve leak -> a door that only drips a little, ticked; age over 1 year -> a card with a 1 on it, not on the checklist
+keywords: Fontan procedure -> a stone fountain in the hotel courtyard, fed by the blue wing's chimney, its water running straight into the money pipes; unobstructed pulmonary venous drainage -> clear drains from the money sacks back to the lobby, ticked; adequate pulmonary arteries -> wide money pipes, ticked; adequate ventricular function -> the single engine room's fan turning strongly, ticked; mild or moderate AV valve leak -> a door that only drips a little, ticked; age over 1 year -> a card with a 1 on it, not on the checklist; univentricular heart -> the single engine room's fan turning strongly, ticked
 must: the four ticks are on the fountain's checklist; the card with the 1 is left off
 scene: A hotel courtyard with a stone fountain. CENTRE, dominant and brightest: a big checklist beside the fountain with four green ticks: clear drains from the money sacks, wide money pipes, a strongly turning fan, a door that only drips a little; a card with a 1 on it lying off the list. LEFT: Usopp pinning the card to the list. Chopper.
 story:

@@ -43,7 +43,7 @@ titleAr: ربط الشريان الرئويّ لرضيع وزنه 2.8 كغ مع 
 tags: cardiac/congenital d:technique q:numbers l:3
 palette: Amazon Lily jungle green, belt leather brown and baby pink
 words: 23, 2.8
-keywords: multiple muscular VSDs -> the lower party wall between the two engine rooms riddled with many small ragged holes like a sieve; pulmonary artery banding -> a leather belt buckled round the pipe of dollar bills; Trusler's rule -> the belt's length counted as 20 plus the baby's weight in kilograms; 23 mm -> the belt buckled at the notch marked 23, the baby on the scales showing 2.8; too tight -> Usopp pulling the belt to a tighter notch, the baby turning blue
+keywords: multiple muscular VSDs -> the lower party wall between the two engine rooms riddled with many small ragged holes like a sieve; pulmonary artery banding -> a leather belt buckled round the pipe of dollar bills; Trusler's rule -> the belt's length counted as 20 plus the baby's weight in kilograms; 23 mm -> the belt buckled at the notch marked 23, the baby on the scales showing 2.8; too tight -> Usopp pulling the belt to a tighter notch, the baby turning blue; pulmonary -> a leather belt buckled round the pipe of dollar bills
 must: the belt is buckled at 23 while the scales show 2.8; pulled tighter, the baby turns blue
 scene: Amazon Lily, the jungle island of the warrior women. CENTRE, dominant and brightest: a leather belt buckled round the pipe of dollar bills of a tiny HART Hotel, fastened at the notch marked 23; beside it, a baby on the scales showing 2.8. In the hotel, the lower party wall between the two engine rooms riddled with many small ragged holes like a sieve. LEFT, dimmer: Usopp pulling the belt to a tighter notch and the baby turning blue. Chopper counting on his hooves.
 story:
@@ -192,7 +192,7 @@ titleAr: يكتمل الانغلاق الثاني للقناة الشرياني�
 tags: cardiac/congenital d:physiology q:numbers l:2
 palette: lighthouse white, sunrise orange and duct-tape silver
 words: 2-3
-keywords: ductus arteriosus -> a tunnel of shiny silver duct tape between the orca and the money pipe; first-stage closure -> the tunnel squeezing itself shut in the first hours as the first breath fills the room with fresh air; fall in prostaglandins -> the beer stein that propped the tunnel open put down on the table; second-stage closure -> by 2 to 3 weeks on the calendar, the squeezed tunnel fused into a solid white rope
+keywords: ductus arteriosus -> a tunnel of shiny silver duct tape between the orca and the money pipe; first-stage closure -> the tunnel squeezing itself shut in the first hours as the first breath fills the room with fresh air; fall in prostaglandins -> the beer stein that propped the tunnel open put down on the table; second-stage closure -> by 2 to 3 weeks on the calendar, the squeezed tunnel fused into a solid white rope; aorta -> a tunnel of shiny silver duct tape between the orca and the money pipe
 must: the beer stein is put down; by 2 to 3 weeks on the calendar the tunnel is a solid white rope
 scene: The lighthouse at Twin Cape at sunrise, the giant whale Laboon in the sea below. CENTRE, dominant and brightest: a tunnel of shiny silver duct tape between an orca balloon and a pipe of dollar bills, fused into a solid white rope, a calendar beside it showing 2-3 weeks. AROUND: the beer stein that propped the tunnel open put down on the table; the first breath of fresh air filling the room. RIGHT: Doctor Crocus, the old lighthouse keeper with a flower on his head, nodding. LEFT: Usopp lifting the beer stein again. Chopper.
 story:
