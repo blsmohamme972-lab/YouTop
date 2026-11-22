@@ -1,0 +1,17 @@
+{
+ "file": "medcos-q0149-explanation-en.m4a",
+ "sig": "85e907dc0116a2ddb12df18547196fd7ccd105598b2b7a623b2032d53d0fa0d1",
+ "starts": [
+  0,
+  10787,
+  18237,
+  20425
+ ],
+ "seconds": 33.0,
+ "texts": [
+  "Sudden cardiac death is most often caused by a ventricular arrhythmia, usually ventricular fibrillation or ventricular tachycardia: statement A is true.",
+  "In the book, survivors have a 30-40% chance of a recurrence within a year: statement B is true.",
+  "So A and B are the answer.",
+  "Empiric antiarrhythmic drugs have not been shown to improve survival, an inducible ventricular tachyarrhythmia carries a poor prognosis, and resecting an aneurysm alone does not treat the arrhythmia."
+ ]
+}

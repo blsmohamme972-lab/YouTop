@@ -1,0 +1,19 @@
+{
+ "file": "medcos-q0123-explanation-en.m4a",
+ "sig": "2c4f3b2c3af900fa4d57fd82729e7d9fda9f66c0b249246e0b464b646bd610f7",
+ "starts": [
+  0,
+  13396,
+  26028,
+  34203,
+  42310
+ ],
+ "seconds": 46.6,
+ "texts": [
+  "In hypoplastic left heart syndrome the systemic circulation depends on the ductus arteriosus, so prostaglandin is started at once and survival depends on keeping the duct open: statements A and C are true.",
+  "Ventilation keeps the PaCO2 around 40 mmHg, avoiding hyperventilation, which lowers pulmonary resistance and steals flow from the body: statement B is true.",
+  "Transplantation for this lesion uses the donor aortic arch to rebuild the small recipient arch: statement D is true.",
+  "The Norwood reconstruction makes the pulmonary artery the main outlet of the single functional ventricle: statement E is true.",
+  "So all five statements are true: A, B, C, D and E."
+ ]
+}
