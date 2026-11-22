@@ -233,9 +233,8 @@ under `book/chapter/lesson` on their phone.
   `keywords:` and drawn. The tools refuse a new prompt that falls short. Recurring symbols may be improved or edited
   (the owner allowed it), always through the audit.
 - The Arabic story is a real story with no medical explanation in it; the science is in the
-  English explanation (see `docs/content-guide.md`, "The story is a story"). Since 2026-11-22 it is written as a
-  parable in the linguistic styles of the Quran, with respect, never quoting a verse (`content/story-style.md`;
-  the owner: «استخدم أساليب القرآن الكريم باحترام لها، لا تذكر آيات قرآنية أبداً لكن استخدم الأسلوب اللغوي»).
+  English explanation (see `docs/content-guide.md`, "The story is a story"). The owner asked on 2026-11-22 for
+  stories in the linguistic style of the Quran, then cancelled that idea entirely the same evening: do not bring it back.
 - Each lesson plays story → explanation → question automatically, and waits there for the answer. "Question first"
   in Library → Study skips straight to the question.
 - The app is for the owner's personal use and is meant to be as engaging as possible.
