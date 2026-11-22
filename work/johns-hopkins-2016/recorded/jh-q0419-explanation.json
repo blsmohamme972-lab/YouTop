@@ -1,0 +1,21 @@
+{
+ "file": "jh-q0419-explanation-en.m4a",
+ "sig": "e738a4ceb95ed6d57aaa3f2511f7c6189ab0ca82b3ba3cb6b9f2e21d3f3ad7cc",
+ "starts": [
+  0,
+  7587,
+  16352,
+  31097,
+  37457,
+  44709
+ ],
+ "seconds": 48.4,
+ "texts": [
+  "Sudden left-to-right shunting is not a cause of cyanosis in an adult with an isolated atrial septal defect: E.",
+  "Left-to-right flow sends oxygenated blood back to the lungs, so it overloads the right heart but does not lower arterial saturation.",
+  "Cyanosis needs right-to-left flow: Eisenmenger physiology, an inferior sinus venosus defect that lets IVC blood stream into the left atrium, or a large Eustachian valve directing IVC flow across the defect.",
+  "A pulmonary embolism can do it too, by raising right-sided pressure and reversing the shunt.",
+  "In the picture, the red water spilling into the blue lobby leaves the lips pink, while the four others turn them blue.",
+  "Memory hook: red into blue keeps the lips pink."
+ ]
+}
