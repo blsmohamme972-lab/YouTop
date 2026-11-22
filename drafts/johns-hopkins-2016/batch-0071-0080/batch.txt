@@ -169,7 +169,7 @@ title: Obesity is the factor least associated with oesophageal squamous cell car
 titleAr: السمنة أقلّ العوامل ارتباطًا بسرطان المريء شائك الخلايا
 tags: thoracic/oesophagus d:pathology q:recall l:2 x:trap
 palette: crab red scales, bottle green and pickle brown
-keywords: oesophageal squamous cell carcinoma -> a red crab covered in scales clamped in a long pink sofa slide; alcohol -> a bottle of rum poured over the crab, which grows; nitrosamines -> smoke from a jar of pickled fish puffed at it; achalasia -> a golden chalice jammed below it; obesity -> a jolly fat man sitting beside it eating, the crab ignoring him
+keywords: oesophageal squamous cell carcinoma -> a red crab covered in scales clamped in a long pink sofa slide; alcohol -> a bottle of rum poured over the crab, which grows; nitrosamines -> smoke from a jar of pickled fish puffed at it; achalasia -> a golden chalice jammed below it; obesity -> a jolly fat man sitting beside it eating, the crab ignoring him; oesophagus -> a long pink sofa slide running down the wall to a copper pot
 must: the rum, the pickle smoke and the chalice make the crab GROW; the fat man does not
 scene: A tavern kitchen at night. A long pink sofa slide runs down the wall to a copper pot, a golden chalice jammed at its foot, and a red crab covered in scales clamps its wall. LEFT: a pirate pours a bottle of rum over the crab, and a jar of pickled fish puffs brown smoke at it; the crab swells. CENTRE-RIGHT, dominant and brightest: a jolly fat man sits beside the slide happily eating a huge meal, and the scaly crab turns its back on him, not growing at all. Sanji watches, arms crossed.
 story:
@@ -296,7 +296,7 @@ titleAr: استئصال المريء عبر الفتحة الحجابية شاف
 tags: thoracic/oesophagus d:technique q:numbers l:3
 palette: deck brown, copper and vine green
 words: 20
-keywords: transhiatal oesophagectomy -> a long pink sofa slide pulled out through the hole in the deck from below and from the neck above, the chest cabin never opened; gastric conduit -> the copper cooking pot pulled up and stretched into a long tube, fed by a green vine on its right side; curative in 20 percent -> a flag painted 20 above one cured, smiling sailor
+keywords: transhiatal oesophagectomy -> a long pink sofa slide pulled out through the hole in the deck from below and from the neck above, the chest cabin never opened; gastric conduit -> the copper cooking pot pulled up and stretched into a long tube, fed by a green vine on its right side; curative in 20 percent -> a flag painted 20 above one cured, smiling sailor; oesophagus -> the long pink sofa slide pulled out from below and from above; diaphragm -> the deck between the chest cabin and the hold, with the hole the slide is pulled through
 must: the chest cabin stays CLOSED; the flag reads 20
 scene: A pirate ship cut open, three floors. Franky pulls a long pink sofa slide out through a hole in the deck from below, while Zoro draws it up through the neck from above; the chest cabin between them stays closed. The copper cooking pot is being pulled up and stretched into a long tube, fed by a green vine on its right side. CENTRE, dominant and brightest: a flag painted 20 waves above one cured sailor, who stands smiling with his arms raised.
 story:

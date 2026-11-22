@@ -10,7 +10,7 @@ title: Large malignant thymomas can be shrunk with neoadjuvant therapy before re
 titleAr: الأورام التوتية الخبيثة الكبيرة يمكن تصغيرها بالعلاج قبل الجراحة
 tags: thoracic/mediastinum d:indications q:recall l:2
 palette: thyme green, ray violet and potion teal
-keywords: large malignant thymoma -> a huge bushy thyme plant grown at the very front of the chest cabin, red crab claws poking out among its leaves; treatment before surgery (neoadjuvant therapy, drawn before the adjuvant symbol existed) -> Usopp shining violet rays and Chopper pouring a teal potion on it before Zoro cuts, the bush shrinking; resection -> Zoro waiting with his sword for it to shrink; fine-needle aspiration -> a thin needle put away in a box
+keywords: large malignant thymoma -> a huge bushy thyme plant grown at the very front of the chest cabin, red crab claws poking out among its leaves; treatment before surgery (neoadjuvant therapy, drawn before the adjuvant symbol existed) -> Usopp shining violet rays and Chopper pouring a teal potion on it before Zoro cuts, the bush shrinking; resection -> Zoro waiting with his sword for it to shrink; fine-needle aspiration -> a thin needle put away in a box; thymoma -> a huge bushy thyme plant grown at the very front of the chest cabin; chemotherapy -> Chopper pouring a teal potion on its roots; radiotherapy -> Usopp shining violet rays on it from a lamp
 must: the thyme bush SHRINKS under the rays and potion BEFORE Zoro cuts
 scene: The front of a ship's chest cabin, sunlight through the bow windows. CENTRE, dominant and brightest: a huge bushy thyme plant has grown at the very front of the cabin, red crab claws poking out among its leaves; Usopp, the long-nosed sniper, shines violet rays on it from a lamp and Tony Tony Chopper, the little reindeer doctor, pours a teal potion on its roots, and the bush visibly shrinks. Roronoa Zoro waits beside it with his sword sheathed, a thin needle lying put away in a box at his feet.
 story:
@@ -294,13 +294,14 @@ Ewing's sarcoma and rhabdomyosarcoma are tumours of children and young people.
 # a young lamb (a ewe's lamb) with a small red crab in its wool -> Ewing's sarcoma (keyword: EWING -> a EWE's lamb; sarcoma -> crab)
 # ANSWER: the lamb chewing an onion whose layers peel open around the rib, layer upon layer -> the onion-peel periosteal reaction of Ewing's sarcoma
 # a 6-year-old child holding the tender rib -> children and young people
+# Chopper pouring a poison-green potion over the crab while a lamp shoots violet rays that cross on it -> the treatment: chemotherapy, then local control by resection and, when needed, radiotherapy (audited symbols)
 title: An onion-peel rib lesion in a young child suggests Ewing's sarcoma
 titleAr: آفة ضلعية بمظهر قشر البصل عند طفل صغير توحي بساركومة يوينغ
 tags: thoracic/chest-wall d:diagnosis q:vignette l:1 x:high-yield
 palette: onion purple, lamb wool white and meadow green
-keywords: Ewing's sarcoma -> a young lamb, a ewe's lamb (EWE-ing), a small red crab clinging in its wool; onion-peel appearance -> the lamb chewing an onion whose layers peel open in rings around the child's rib; child -> a 6-year-old boy holding his tender side
+keywords: Ewing's sarcoma -> a young lamb, a ewe's lamb (EWE-ing), a small red crab clinging in its wool; onion-peel appearance -> the lamb chewing an onion whose layers peel open in rings around the child's rib; child -> a 6-year-old boy holding his tender side; chemotherapy -> a flask of bubbling poison-green potion Chopper pours over the little crab; radiotherapy -> a lamp beside him shooting thin violet rays that cross on the crab
 must: the onion layers peel open in RINGS around the rib
-scene: A green meadow on a sky island. A 6-year-old boy sits on the grass holding his tender side. CENTRE, dominant and brightest: a young fluffy lamb, a small red crab clinging in its wool, nuzzles the boy's side and chews a big purple onion, whose layers peel open in rings around one of the boy's ribs, layer upon layer like an onion skin. Tony Tony Chopper, the little reindeer doctor, kneels beside them, examining the rings.
+scene: A green meadow on a sky island. A 6-year-old boy sits on the grass holding his tender side. CENTRE, dominant and brightest: a young fluffy lamb, a small red crab clinging in its wool, nuzzles the boy's side and chews a big purple onion, whose layers peel open in rings around one of the boy's ribs, layer upon layer like an onion skin. Tony Tony Chopper, the little reindeer doctor, kneels beside them, examining the rings, and pours a flask of bubbling poison-green potion over the little crab, while a lamp beside him shoots thin violet rays that cross on it.
 story:
 في مرج أخضر على جزيرة من جزر السماء، جلس صبيّ في السادسة اسمه بيبو يمسك جنبه المتألّم.
 «هنا كتلة تؤلمني، بحجم ثمرة جوز!»

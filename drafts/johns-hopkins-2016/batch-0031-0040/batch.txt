@@ -5,15 +5,15 @@ book: johns-hopkins-2016
 # book 7.1: pathogenesis of emphysema -> B, smoking-related tissue destruction.
 # a sack of green dollar bills -> the lung (audited symbol)
 # a Marine captain puffing two fat cigars into the sack -> smoking
-# ANSWER: the smoke eats away the thin walls between the bills, leaving big empty holes -> smoking-related tissue DESTRUCTION
+# ANSWER: the smoke eats away the thin walls between the bills, leaving the sack holed like Swiss cheese -> smoking-related tissue DESTRUCTION (emphysema = the holed sack, audited)
 # a dry mop beside the sack, unused -> not an increase in mucus (A is wrong)
 title: Emphysema comes from smoking-related destruction of lung tissue
 titleAr: ينشأ النفاخ الرئوي من تخريب نسيج الرئة المرتبط بالتدخين
 tags: thoracic/lung-benign d:pathology q:recall l:1
 palette: smoke grey, ember orange and faded dollar green
-keywords: lung -> a sack of green dollar bills; smoking -> a Marine captain puffing two fat cigars into the sack; tissue destruction -> the smoke eating away the thin walls between the bills, leaving big empty holes; mucus production -> a dry mop leaning unused beside the sack
+keywords: lung -> a sack of green dollar bills; smoking -> a Marine captain puffing two fat cigars into the sack; emphysema (smoking-related tissue destruction) -> the smoke eating away the thin walls between the bills, leaving the sack puffed up and holed like Swiss cheese, with big empty holes; mucus production -> a dry mop leaning unused beside the sack
 must: the smoke EATS the walls into big empty holes; the mop stays dry and unused
-scene: The deck of a Marine warship, grey smoke and ember light. LEFT: a big Marine captain in a white coat puffs two fat cigars at once and blows thick smoke into a big sack of green dollar bills. CENTRE, dominant and brightest: where the smoke swirls, it eats away the thin walls between the bills, leaving big empty holes edged with glowing embers, and the bills drift loose. A dry mop leans against the mast, unused. Tony Tony Chopper, the little reindeer doctor in a pink top hat, fans the smoke away in alarm.
+scene: The deck of a Marine warship, grey smoke and ember light. LEFT: a big Marine captain in a white coat puffs two fat cigars at once and blows thick smoke into a big sack of green dollar bills. CENTRE, dominant and brightest: where the smoke swirls, it eats away the thin walls between the bills, leaving the sack puffed up and holed like Swiss cheese, big empty holes edged with glowing embers, and the bills drift loose. A dry mop leans against the mast, unused. Tony Tony Chopper, the little reindeer doctor in a pink top hat, fans the smoke away in alarm.
 story:
 على ظهر سفينة حربيّة من سفن البحريّة، وقف قبطان ضخم في معطف أبيض، يدخّن سيجارين غليظين معًا.
 فنفخ الدخان الكثيف في كيس كبير من الدولارات الخضراء.
@@ -173,13 +173,14 @@ Giant bullae arise in emphysematous lungs, can be resected by VATS, do not regre
 # a long measuring tape across the cut-out length -> length of resection is a predictor
 # a boy under 18 tugging at the seam -> young age is a predictor
 # ANSWER: Nami standing on the seam weighing nothing, the seam holding -> female gender is not a predictor
+# the seam leaking a thin trickle where the others pull -> anastomotic breakdown, the complication these factors predict (audited symbol)
 title: Tracheal resection: female gender does not predict anastomotic complications
 titleAr: استئصال الرغامى: كون المريضة أنثى لا ينبئ بمضاعفات المفاغرة
 tags: thoracic/airway d:complications q:recall l:2
 palette: hose white, sugar white and Nami's orange
-keywords: tracheal anastomosis -> a big ribbed hose cut and sewn back together with a stitched seam; diabetes -> a man sitting on a mountain of white sugar cubes pulling at the seam; reoperation -> an old scarred seam just beside the new one; length of resection -> a long measuring tape laid across the cut-out length; age under 18 -> a young boy tugging at the seam; female gender -> Nami standing lightly on the seam while it holds
-must: the others pull at the seam and it strains; Nami stands on it and it does NOT strain
-scene: A shipyard in Water 7, bright sun. A big ribbed hose of white rings lies across two trestles, cut and sewn back together with a thick stitched seam, an old scarred seam just beside it and a long measuring tape laid across the cut-out length. A man sitting on a mountain of white sugar cubes pulls at the seam, and a young boy tugs at it from the other side, and the stitches strain. CENTRE, dominant and brightest: Nami, the orange-haired navigator, stands lightly on the seam with one foot, smiling, and the seam under her holds perfectly.
+keywords: tracheal anastomosis -> a big ribbed hose cut and sewn back together with a stitched seam; diabetes -> a man sitting on a mountain of white sugar cubes pulling at the seam; reoperation -> an old scarred seam just beside the new one; length of resection -> a long measuring tape laid across the cut-out length; age under 18 -> a young boy tugging at the seam; female gender -> Nami standing lightly on the seam while it holds; anastomotic breakdown -> a leaking seam where the others pull, a thin trickle of dirty water seeping between its straining stitches
+must: the others pull at the seam and it strains and leaks; Nami stands on it and there it does NOT strain or leak
+scene: A shipyard in Water 7, bright sun. A big ribbed hose of white rings lies across two trestles, cut and sewn back together with a thick stitched seam, an old scarred seam just beside it and a long measuring tape laid across the cut-out length. A man sitting on a mountain of white sugar cubes pulls at the seam, and a young boy tugs at it from the other side, and the stitches strain into a leaking seam, a thin trickle of dirty water seeping out between them where they pull. CENTRE, dominant and brightest: Nami, the orange-haired navigator, stands lightly on the seam with one foot, smiling, and the seam under her holds perfectly.
 story:
 في حوض بناء السفن في مدينة الماء، تحت شمس ساطعة، رقد خرطوم مضلّع كبير على حاملين.
 وكان قد قطع ثمّ خيط طرفاه بدرزة غليظة، وإلى جانبها درزة قديمة من عمل سبق.

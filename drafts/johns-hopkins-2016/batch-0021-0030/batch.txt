@@ -73,14 +73,15 @@ It responds well to steroids, usually given for six months or longer, not just t
 # a green loaf of bread in her hands -> Löfgren (keyword: LOAF-GREEN)
 # ANSWER part 1: tender red lumps on both her shins -> erythema nodosum
 # ANSWER part 2: every joint wrapped in bandages, wincing -> polyarthralgias
-# ANSWER part 3: two swollen clusters of pearls at the necks of the two sacks of dollar bills she carries -> bilateral hilar adenopathy
+# ANSWER part 3: two swollen clusters of pearls at the necks of the two sacks of dollar bills she carries, where the two branches of a white ribbed hose enter them -> bilateral hilar adenopathy (lungs = dollar sacks, trachea = ribbed hose, audited)
+# a brass tuba riddled with holes, oozing soft white cheese, pushed far away by Chopper -> caseating granulomas belong to tuberculosis, not to sarcoidosis (E is wrong; audited symbol)
 title: Löfgren syndrome: erythema nodosum, polyarthralgia and hilar adenopathy
 titleAr: متلازمة لوفغرين: حمامى عقدة وآلام مفاصل متعدّدة واعتلال عقد سرّية
 tags: thoracic/lung-benign d:diagnosis q:recall l:2 x:high-yield
 palette: desert sand, sarcophagus gold and bread green
-keywords: sarcoidosis -> a young dancer sitting on a golden stone sarcophagus (SARCO-idosis); Löfgren syndrome -> a green loaf of bread held in her hands (LOAF-GREEN); erythema nodosum -> tender red lumps on both her shins; polyarthralgia -> bandages wrapped round every joint, wincing; hilar adenopathy -> swollen clusters of pearls at the necks of the two sacks of green dollar bills she carries
-must: red lumps on BOTH shins; pearls swollen at the necks of BOTH sacks
-scene: A desert tomb in Alabasta, sand gold light. CENTRE, dominant and brightest: a young dancer sits on a golden stone sarcophagus holding a green loaf of bread; tender red lumps rise on both her shins, every joint of her arms and legs is wrapped in white bandages and she winces as she moves, and on her shoulders hang two sacks of green dollar bills whose necks are swollen with big clusters of pearls. Tony Tony Chopper, the little reindeer doctor in a pink top hat, kneels and gently touches the lumps on her shin.
+keywords: sarcoidosis -> a young dancer sitting on a golden stone sarcophagus (SARCO-idosis); Löfgren syndrome -> a green loaf of bread held in her hands (LOAF-GREEN); erythema nodosum -> tender red lumps on both her shins; polyarthralgia -> bandages wrapped round every joint, wincing; hilar adenopathy -> swollen clusters of pearls at the necks of the two sacks of green dollar bills she carries; lungs -> the two sacks of green dollar bills she carries; trachea -> a white ribbed hose lying across her shoulders like a yoke, its two branches running into the necks of the two sacks; tuberculosis (caseating granulomas, not hers) -> a brass tuba riddled with holes, soft white cheese oozing from them, pushed far away from her by Chopper
+must: red lumps on BOTH shins; pearls swollen at the necks of BOTH sacks, where the hose branches enter; the cheese-oozing tuba stands FAR from her
+scene: A desert tomb in Alabasta, sand gold light. CENTRE, dominant and brightest: a young dancer sits on a golden stone sarcophagus holding a green loaf of bread; tender red lumps rise on both her shins, every joint of her arms and legs is wrapped in white bandages and she winces as she moves, and across her shoulders lies a white ribbed hose like a yoke, its two branches running down into the necks of two sacks of green dollar bills, and where they enter, the necks are swollen with big clusters of pearls. Tony Tony Chopper, the little reindeer doctor in a pink top hat, kneels and gently touches the lumps on her shin; he has pushed far away from her a brass tuba riddled with holes, soft white cheese oozing from them.
 story:
 في مقبرة صحراويّة في ألاباستا، تحت ضوء ذهبيّ كالرّمل، جلست راقصة شابّة اسمها نادية.
 وكانت تجلس على تابوت حجريّ ذهبيّ من توابيت الفراعنة.

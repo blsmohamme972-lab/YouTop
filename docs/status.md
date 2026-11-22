@@ -1,46 +1,73 @@
 # Where the work stands
 
-Updated 2026-11-22 (morning). Whoever works on YouTop next: read `CLAUDE.md`, then this, then
+Updated 2026-11-22 (afternoon). Whoever works on YouTop next: read `CLAUDE.md`, then this, then
 `docs/content-guide.md` and the `youtop-lessons` skill. Rewrite this file whenever the state changes (it replaces the
 `status-<n>.txt` files in the Drive folder "YouTop private", which stop at 7).
 
-## HANDOFF (2026-11-22, ~08:30 UTC): THREE RECURRING SYMBOLS PER LESSON, half done; start here
+## HANDOFF (2026-11-22, afternoon): THREE RECURRING SYMBOLS PER LESSON: every lesson WITHOUT a picture is done; start here
 
 The owner (2026-11-22): "every lesson contains 3 recurring symbols". Counted as at least three approved symbols from
 `content/symbols.json`, each named in the lesson's `keywords:` (a term of the symbol -> an object containing its anchor)
 and drawn; the HART Hotel and its lobbies and engine rooms (the frame) do not count. Written into the skill (rule 5),
 `CLAUDE.md` and the tools: `symbols.py` (`lesson_symbols`, `too_few`); `symbols.py check` and `batch.py prompts` refuse
 a lesson with fewer; `batch.py build` only warns, so lessons already drawn can still be rebuilt.
-- Measured before the fix: 239 of the 422 Johns Hopkins lessons had fewer than three (69 published with pictures,
-  170 without pictures).
-- New audited symbols: **antigen-presenting cells = a TV presenter** (JH 241), **mTOR inhibitors = a gardener's
-  pruning hook** (415, 417; it replaces 417's gate guard), **protein-losing enteropathy = spaghetti leaking egg-white**
-  (416, 422). 353 symbols, 350 approved.
-- **DONE: JH 151-422 all have three or more** (`drafts/johns-hopkins-2016/batch-*` and `.content-work` updated; prompts
-  regenerated into `drafts/johns-hopkins-2016/prompts-jh-*.txt` and sent to the owner as one corrected file, 151-422).
-  Most lessons only gained keyword lines naming symbols already in the picture. **33 got a new or changed object in the
-  picture:** 169, 195, 198, 199, 200, 202, 209, 215, 218, 219, 227, 230, 242, 247, 248, 249, 251, 254, 257, 261, 262,
-  264, 271, 276, 277, 284, 285, 289, 345, 372, 392, 411, 417. Their stories do not mention the new objects yet
-  (optional: one sentence in `voice.txt`, then `voice.py fill`; 151-241, 244, 245, 249, 253, 260, 264, 268 were
-  recorded and would need recording again).
-- **TO DO, next agent:**
-  1. **JH 1-150 without pictures, 54 lessons short:** 14, 23, 31, 36, 54, 59, 64, 65, 76, 80, 81, 90, 92, 98, 99,
-     101, 103-105, 107-125 (except 106, 126, 128, 129, 132), 127, 130, 131, 133-140, 142, 144, 146, 149, 150 (run
-     `python3 tools/content/symbols.py check drafts/johns-hopkins-2016/batch-0001-0010/batch.txt ...` for the exact
-     list). Easy ones, symbol already drawn, only a keyword line needed: 14 node-stations; 59 oesophagus + reflux;
-     76 oesophagus; 81 thymoma + chemotherapy; 99 chest-tube; 108 oesophagus; 110 stomach + les; 111 cabg; 114 cabg +
-     ischaemic-heart-disease; 121, 124, 142, 144 coronary; 131 aorta; 134 ejection-fraction; 136, 138 cabg; 137 cabg +
-     cpb; 140 lima; 149, 150 carotid. 98: rename the "recurrent pneumothorax" keyword so its term names the
-     pneumothorax symbol and draw the beach ball. The others need a meaningful symbol added to the picture. Then run
-     `batch.py prompts` on those batches and send the owner the corrected prompts.
-  2. **69 published JH lessons with fewer than three** (1-100 except the 18 without a picture): their pictures exist,
-     so fixing them means new pictures. Ask the owner first.
-  3. MedCosmos and the other books were not checked: run `symbols.py check` on their batches.
-- The owner was told (2026-11-22) to hold off making pictures for 101-422 and for the 18 missing ones until the
-  corrected prompts arrive: 151-422 are sent; 1-150 are still to send.
-- Method used here: for each short lesson, first name symbols the picture already shows (a keyword line whose
-  object quotes the scene's own words), then rename keyword terms to a symbol's term where the object already draws
-  it, and only then add an object to the scene, chosen for its meaning in that question.
+
+**DONE (all lessons that have no picture yet):**
+- Johns Hopkins 151-422 (morning session; new audited symbols: antigen-presenting cells = a TV presenter, mTOR
+  inhibitors = a pruning hook, protein-losing enteropathy = spaghetti leaking egg-white; 353 symbols, 350 approved).
+  33 of them got a new or changed object: 169, 195, 198, 199, 200, 202, 209, 215, 218, 219, 227, 230, 242, 247, 248,
+  249, 251, 254, 257, 261, 262, 264, 271, 276, 277, 284, 285, 289, 345, 372, 392, 411, 417.
+- **Johns Hopkins 1-150 without a picture (54 lessons) and MedCosmos 128 (afternoon session, no new symbol needed).**
+  Same method: name what the scene already draws, rename a keyword term to the symbol's own term, and only then add an
+  object chosen for its meaning in that question (mostly a wrong option shown wrong, or the mechanism of the answer).
+  - **28 pictures got a new or changed object:** 23 (ribbed-hose yoke into the sacks = hila; a cheese-oozing tuba pushed
+    away = caseation is TB), 31 (the sack holed like Swiss cheese = emphysema), 36 (leaking seam), 64 (other cake slices
+    topped with ribbed hoses and glass aquariums = bronchogenic and pericardial cysts), 65 (the needle is on a lantern
+    periscope = no endoscopic aspiration), 90 (potion + violet rays = treatment), 92 (orca balloon with swollen salsa
+    bowls = Marfan aortic root), 98 (beach ball = recurrent pneumothorax), 101 (asbestos -> crab spinning a rind round a
+    money sack = mesothelioma), 104 (potion = with chemotherapy), 107 (cut telephone cable = phrenic injury; idle
+    drummer = no pacing; the deck "like a loose trampoline", no longer "drum skin"), 109 (baby crabs from a money sack =
+    most diaphragmatic tumours are secondary), 112 (**the black clot is now a beaver's dam of white plates**), 113
+    (starling bird, tachometer, water meter: all three tricks raise force and stroke volume, not speed), 115 (coal chute
+    from the crown, a steam pump sucking glue = calcium reuptake, two lace balloons = Laplace), 116 (money sacks on the
+    father's chest = his lungs too; a man with a huge elbow and a frosted thermometer = BIG-elow, hypothermia), 117 (city
+    gates = afterload), 118 (compliments where air touches the water, soap bubbles out of the vent, roller-pump truck),
+    119 (bowling balls in the suction, white plates thrown out), 120 (frosted thermometer, roller-pump truck; **the black
+    pebbles are now bowling balls**), 122 and 123 (red doughnuts in the bucket; 123 also a closed glue can = low
+    calcium), 127 (Uncle Sam = SAM obstruction when underfilled), 130 (switched-off bellows, sternotomy line, pencil put
+    away), 133 (lima bean vines, a small coffin), 135 (mist from a roller-pump truck, one far lightning bolt), 139 (fans
+    keep turning = off-pump, a cabbage leaf sewn on), 146 (bowling ball from the arch to the head, lightning).
+  - **20 keep their picture; only the prompt text names its symbols:** 54, 59, 76, 80, 81, 99, 103, 105, 110, 114, 121,
+    124, 131, 136, 137, 138, 142, 144, 149, 150 (and MedCosmos 128). 14, 108, 111, 125, 134, 140 only had a keyword term
+    renamed (prompt unchanged).
+  - Stories: 112 and 120 were changed to match (`voice.txt` + `voice.py fill`; 112 no longer says "clot"). The other new
+    objects are not in the stories yet (optional: one sentence each; none of these lessons is recorded or published, so
+    it costs nothing but the writing). Explanations got a matching sentence where a new fact came in: 64, 65, 92, 112
+    (memory hook), 113, 115, 118. Tables (`#` lines) updated for every change.
+  - Checks: `symbols.py check` passes on every unpictured lesson; prompts regenerated with `batch.py prompts` (consecutive
+    groups; validate.py OK); the 20 untouched prompts came out byte-for-byte as before; a dry `batch.py build` of every
+    changed batch into `.content-work` passed (nothing published).
+  - **Sent to the owner (2026-11-22, afternoon): `drafts/prompts-missing-2026-11-22.txt`**, 73 prompts = every picture
+    still to make except JH 151-422: JH 11, 14, 23, 26, 31, 36, 38, 54, 59, 64, 65, 76, 80, 81, 90, 92, 98, 99, JH 101-150,
+    MedCosmos 111, 123, 125, 128, 149. It replaces `prompts-missing-2026-11-21.txt` (deleted). `prompts-jh-1-50.txt`,
+    `-51-100.txt`, `-101-150.txt` and `drafts/medcosmos-cardiac/prompts-missing.txt` / `image-prompts-missing.json` updated.
+- No new JH pictures had arrived (Drive folder checked 2026-11-22: still the 82 of 2026-11-21).
+
+**STILL SHORT, all already published with pictures (fixing them means new pictures; asked the owner, no answer yet):**
+- Johns Hopkins, 69: 1, 3-10, 13, 15-22, 24, 27-30, 32-35, 39-48, 52, 53, 55, 57, 60, 61, 63, 66, 67, 70-75, 77-79,
+  82-84, 86-89, 91, 93-97, 100.
+- MedCosmos, 54 (of 151 published; 40 have two symbols, 13 have one, 143 has none): 1, 2, 4, 6, 9, 14, 15, 16, 19, 23,
+  29, 46, 47, 48, 52, 53, 54, 57, 59, 60, 62, 68, 69, 71, 75, 80, 81, 83-95, 101, 102, 104, 106, 107, 108, 113, 115, 117,
+  129, 132, 133, 143, 152.
+- Shahzad 2015: its batch files (`work/shahzad-2015/` on `content`) have **no `keywords:` lines at all** (written before
+  the keyword and symbol rules), so all 200 count as none; 198 have pictures; **133 and 154 have no picture yet** (if
+  the owner still means to draw them, give them keywords and three symbols first).
+
+**Next, in order:** (1) the owner's answers: redo the published pictures? which quotation policy for JH 242+?
+(2) quotations: lead-in + Q line in each pending `voice.txt`, `voice.py fill`, `batch.py build`, `voice.py make`;
+(3) pictures as they arrive (skill steps 4-5, publish `--complete-only`); rebuilding also mends the NUL signs still in
+published 11, 127, 163, 237, 238. The JH master: Drive id `1JmU8REE6sMtOSk6Ty664l8Q9__jtRogW`, save outside the repo.
+The `content` branch's work copies of the JH batches are older than `drafts/`: always rebuild from `drafts/`.
 
 ## HANDOFF (2026-11-21, ~13:15 UTC): the owner closed this conversation; start here
 
@@ -123,7 +150,8 @@ also checks the repeats), record (`voice.py make`), then publish complete lesson
 - The owner had uploaded 82 JH pictures (11:06-11:52 UTC; the handoff below missed them). All 82 are published
   (`publish.py --complete-only`): 1-100 except the 18 still without a picture: **11, 14, 23, 26, 31, 36, 38, 54, 59,
   64, 65, 76, 80, 81, 90, 92, 98, 99**. 101-150: no picture yet. Prompts for all 73 missing pictures (those 18,
-  JH 101-150, MedCosmos 111/123/125/128/149) were re-sent: `drafts/prompts-missing-2026-11-21.txt`.
+  JH 101-150, MedCosmos 111/123/125/128/149) were re-sent: `drafts/prompts-missing-2026-11-21.txt` (since replaced by
+  the corrected `drafts/prompts-missing-2026-11-22.txt`).
 - Every grid, spots drawing and circle drawing was looked at (by this agent alone; the owner asked for no subagents,
   so the skill's second-agent check was not done). Spots, marks, notes: `drafts/johns-hopkins-2016/pictures-2026-11-21/`
   (also `work/johns-hopkins-2016/pictures-2026-11-21/` on `content`). Picture-against-story differences are in
