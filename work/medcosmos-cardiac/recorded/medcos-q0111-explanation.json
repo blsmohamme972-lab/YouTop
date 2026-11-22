@@ -1,0 +1,21 @@
+{
+ "file": "medcos-q0111-explanation-en.m4a",
+ "sig": "d909a97de6288e1871bba7cb7798704dbf40e55cadb089f1445fa673022b5e54",
+ "starts": [
+  0,
+  9062,
+  18635,
+  30191,
+  39651,
+  41999
+ ],
+ "seconds": 49.4,
+ "texts": [
+  "A left atrial mass in an adult is most often a myxoma, and episodes of syncope come from the tumour swinging into the mitral orifice.",
+  "Transseptal puncture is not used for diagnosis; echocardiography is enough, and needles or catheters may dislodge tumour fragments.",
+  "A myxoma attached to the atrial septum is excised together with a full-thickness piece of the adjacent septum, and the defect is patched, to prevent recurrence: statement C is true.",
+  "Most primary cardiac tumours are benign, and the commonest primary malignant tumour of the heart is angiosarcoma: statement E is true.",
+  "So C and E are the answer.",
+  "In infancy the commonest cardiac tumour is rhabdomyoma, a benign tumour, not rhabdomyosarcoma."
+ ]
+}
