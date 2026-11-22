@@ -43,6 +43,8 @@ private val PartLabels = mapOf(
     "question" to R.string.part_question,
     "answer" to R.string.part_answer,
     "tags" to R.string.part_tags,
+    "symbols" to R.string.part_symbols,
+    "english" to R.string.part_english,
     "other" to R.string.part_other,
 )
 

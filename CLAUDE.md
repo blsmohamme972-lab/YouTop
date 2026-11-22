@@ -149,7 +149,7 @@ Each note in the issue body:
 
     ### REDO <book id>/<chapter id>/<lesson id>
     Title: …
-    Wrong: picture, story          (codes: picture spotlight circles story voice explanation question answer tags other)
+    Wrong: picture, story          (codes: picture spotlight circles story voice explanation question answer tags symbols english other)
     Where: story, sentence 7 of 12: «first words of that sentence»
     Note:
     > the owner's words
@@ -157,7 +157,8 @@ Each note in the issue body:
     ### GOOD <book id>/<chapter id>/<lesson id>
 
 What to do: list open issues whose title starts with `Lesson feedback` (GitHub MCP `list_issues`).
-Redo each REDO with the `youtop-lessons` skill (keep the ids); learn from each GOOD what the owner likes
+`symbols` = the recurring symbols (`content/symbols.json`); `english` = the English wording (explanation, question,
+options, title). Redo each REDO with the `youtop-lessons` skill (keep the ids); learn from each GOOD what the owner likes
 (note it in `docs/status.md`). When an issue is fully handled, comment what was done, with the footer, and close it.
 
 ## Updating content (no APK needed)

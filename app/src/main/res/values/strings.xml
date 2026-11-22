@@ -237,6 +237,8 @@
     <string name="part_question">Question</string>
     <string name="part_answer">Answer</string>
     <string name="part_tags">Topic / tags</string>
+    <string name="part_symbols">Recurring symbols</string>
+    <string name="part_english">English</string>
     <string name="part_other">Something else</string>
     <string name="where_sentence">%1$s, sentence %2$d of %3$d</string>
     <string name="section_notes">Notes for the agent</string>
