@@ -126,3 +126,11 @@ fun rememberLocalImage(media: MediaCache, ref: String?): Any? {
 }
 
 fun isRtl(lang: String) = lang.startsWith("ar") || lang.startsWith("fa") || lang.startsWith("ur") || lang.startsWith("he")
+
+/** Opens [url] in the phone's browser (or the GitHub app). False when nothing could open it. */
+fun openLink(context: android.content.Context, url: String): Boolean = runCatching {
+    context.startActivity(
+        android.content.Intent(android.content.Intent.ACTION_VIEW, android.net.Uri.parse(url))
+            .addFlags(android.content.Intent.FLAG_ACTIVITY_NEW_TASK)
+    )
+}.isSuccess

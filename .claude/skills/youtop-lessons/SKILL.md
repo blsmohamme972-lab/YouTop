@@ -13,6 +13,13 @@ Read first, and only these: `docs/status.md` (what is done, what must not change
 sections "The story is a story" and "Tags" of `docs/content-guide.md`. The rest of the guide is
 reference for when something unusual comes up (a new book).
 
+## First: the owner's notes from the app
+
+Before anything else, read the open GitHub issues titled `Lesson feedback: …` (sent by the app's Good and Redo
+buttons; format in CLAUDE.md, "Lesson feedback from the app"). Each REDO names the lesson
+(`book/chapter/lesson`), the wrong parts and what should change: fix it (same ids) and republish. Each GOOD says
+which lessons the owner liked; make new ones in that spirit. Comment what was done and close the issue.
+
 ## The picture prompt is the most important step (the owner's rules, 2026-11-19)
 
 The image prompt is the most important step of all the work; the story is the second. Every prompt

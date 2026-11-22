@@ -70,6 +70,12 @@ import androidx.compose.runtime.rememberUpdatedState
 import androidx.compose.runtime.saveable.rememberSaveable
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
+import androidx.compose.ui.AbsoluteAlignment
+import androidx.compose.runtime.rememberCoroutineScope
+import kotlinx.coroutines.flow.first
+import androidx.compose.material.icons.rounded.ThumbUp
+import androidx.compose.material.icons.rounded.Autorenew
+import androidx.compose.material.icons.outlined.ThumbUp
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.draw.drawBehind
@@ -338,6 +344,7 @@ private fun LessonPage(entry: FeedEntry, active: Boolean, vm: MainViewModel, onN
 
     val settings by vm.settings.collectAsStateWithLifecycle()
     val saved = item.key in settings.saved
+    val liked = item.key in settings.liked
 
     val study = settings.study
     val taxonomy by vm.taxonomy.collectAsStateWithLifecycle()
@@ -348,6 +355,7 @@ private fun LessonPage(entry: FeedEntry, active: Boolean, vm: MainViewModel, onN
     // Set once the learner has chosen to watch, so "question first" does not cover the video again.
     var watching by remember { mutableStateOf(false) }
     var showTranscript by rememberSaveable { mutableStateOf(false) }
+    var showRedo by remember { mutableStateOf(false) }
     // "All circles": every numbered circle of the picture, with their table.
     var showAll by remember { mutableStateOf(false) }
     var pickedMark by remember { mutableStateOf<Int?>(null) }
@@ -426,6 +434,7 @@ private fun LessonPage(entry: FeedEntry, active: Boolean, vm: MainViewModel, onN
     }
     val rtl = track?.let { isRtl(it.lang) } ?: false
     val context = LocalContext.current
+    val scope = rememberCoroutineScope()
 
     // After the question is answered: when the scheduler will bring this lesson back.
     val progress by vm.progress.collectAsStateWithLifecycle()
@@ -597,6 +606,31 @@ private fun LessonPage(entry: FeedEntry, active: Boolean, vm: MainViewModel, onN
                     }
                 }
 
+                // Word for the agent who makes the lessons, on the left: "good job" and "redo".
+                Column(
+                    Modifier.align(AbsoluteAlignment.CenterLeft).padding(start = 10.dp, bottom = 60.dp),
+                    horizontalAlignment = Alignment.CenterHorizontally,
+                    verticalArrangement = Arrangement.spacedBy(9.dp),
+                ) {
+                    val likedText = stringResource(R.string.liked_toast)
+                    val unlikedText = stringResource(R.string.unliked_toast)
+                    GlassButton(
+                        if (liked) Icons.Rounded.ThumbUp else Icons.Outlined.ThumbUp,
+                        stringResource(R.string.good_job),
+                        onClick = {
+                            vm.toggleLiked(item, lesson.title)
+                            android.widget.Toast.makeText(context, if (liked) unlikedText else likedText, android.widget.Toast.LENGTH_SHORT).show()
+                        },
+                        tint = if (liked) Accent else Color.White,
+                        caption = stringResource(R.string.good_job_caption),
+                    )
+                    GlassButton(
+                        Icons.Rounded.Autorenew, stringResource(R.string.redo),
+                        onClick = { vm.narrator.pause(); showRedo = true },
+                        caption = stringResource(R.string.redo),
+                    )
+                }
+
                 // Caption and transport.
                 if (track != null) {
                     Column(Modifier.align(Alignment.BottomStart).fillMaxWidth().navigationBarsPadding()) {
@@ -664,6 +698,30 @@ private fun LessonPage(entry: FeedEntry, active: Boolean, vm: MainViewModel, onN
         ) {
             MarksTable(marks = lesson.marks, selected = pickedMark, onSelect = { pickedMark = it }, onClose = { showAll = false })
         }
+    }
+
+    if (showRedo) {
+        val where = if (track != null && segmentIndex >= 0) {
+            stringResource(R.string.where_sentence, track.kind, segmentIndex + 1, track.segments.size) +
+                (track.segments.getOrNull(segmentIndex)?.text?.let { ": «" + it.take(80) + "»" } ?: "")
+        } else ""
+        val keptText = stringResource(R.string.redo_saved)
+        RedoSheet(
+            title = lesson.title,
+            where = where,
+            onSubmit = { parts, text ->
+                vm.addNote(app.youtop.data.Note(app.youtop.data.Feedback.REDO, item.key, lesson.title, parts, text, where, System.currentTimeMillis()))
+                showRedo = false
+                // The note is written first, then GitHub opens with it (and any "good job" waiting).
+                scope.launch {
+                    vm.settings.first { s -> s.notes.any { it.key == item.key && it.kind == app.youtop.data.Feedback.REDO } }
+                    if (!vm.sendNotes { openLink(context, it) }) {
+                        android.widget.Toast.makeText(context, keptText, android.widget.Toast.LENGTH_LONG).show()
+                    }
+                }
+            },
+            onDismiss = { showRedo = false },
+        )
     }
 
     if (showTranscript && track != null) {

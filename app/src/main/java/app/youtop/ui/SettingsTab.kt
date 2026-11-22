@@ -132,6 +132,7 @@ fun SettingsTab(vm: MainViewModel) {
         }
 
         ContentCard(vm)
+        NotesCard(vm)
         BackupCard(vm)
 
         Card {
@@ -176,6 +177,26 @@ fun SettingsTab(vm: MainViewModel) {
             },
             dismissButton = { TextButton(onClick = { confirmReset = false }) { Text(stringResource(R.string.cancel)) } },
         )
+    }
+}
+
+/** "Good job" and "Redo" notes waiting to go to the agent who makes the lessons. */
+@Composable
+private fun NotesCard(vm: MainViewModel) {
+    val settings by vm.settings.collectAsStateWithLifecycle()
+    val waiting = settings.notes.size
+    val context = LocalContext.current
+    Card(title = stringResource(R.string.section_notes)) {
+        Text(
+            if (waiting > 0) stringResource(R.string.notes_waiting, waiting) else stringResource(R.string.notes_none),
+            color = Faint, fontSize = 13.sp, lineHeight = 18.sp,
+        )
+        if (waiting > 0) {
+            Text(stringResource(R.string.redo_hint), color = Faint, fontSize = 12.sp, lineHeight = 17.sp)
+            PrimaryButton(stringResource(R.string.notes_send), modifier = Modifier.fillMaxWidth()) {
+                vm.sendNotes { openLink(context, it) }
+            }
+        }
     }
 }
 

@@ -4,6 +4,13 @@ Updated 2026-11-22 (late). Whoever works on YouTop next: read `CLAUDE.md`, then 
 `docs/content-guide.md` and the `youtop-lessons` skill. Rewrite this file whenever the state changes (it replaces the
 `status-<n>.txt` files in the Drive folder "YouTop private", which stop at 7).
 
+## APP 2.6 (2026-11-22): "Good" and "Redo" buttons on every lesson
+
+The owner asked for two buttons on the left of the lesson screen: Good (they like the lesson) and Redo (tick what is
+wrong, write what should change). They reach the agent as GitHub issues titled `Lesson feedback: …`; **check them at
+the start of every session** (CLAUDE.md, "Lesson feedback from the app"). Not tested on a real phone; the owner must be
+signed in to GitHub in the phone's browser for "Create" to work.
+
 ## HANDOFF (2026-11-22, late): VOICES RECORDED AND KEPT ON GITHUB; 51 PICTURES PUBLISHED; start here
 
 **Recorded voices are no longer lost with the container.** `voice.py make` now writes every track it records, with its
