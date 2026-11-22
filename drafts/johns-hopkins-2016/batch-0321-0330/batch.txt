@@ -5,8 +5,8 @@ book: johns-hopkins-2016
 # KEYS CORRECTED: 321 (the book's D, aortic override -> A, anterior deviation of the infundibular septum) and 322 (the
 # book's E, ductal stenting -> D, balloon atrial septostomy); see the 'note:' of each.
 # OCR misprints of 322, 323, 329 and 330 are mended by the book's 'typos' map ("PGE ," -> "PGE1", "pericardia!").
-# QUOTATION PENDING (all ten): the pool of One Piece lines allowed by quoteRepeats is exhausted; the owner decides.
-# The stories stop at the payoff; add the lead-in and Q lines before building.
+# Quotations added 2026-11-22 (the owner left the choice to the agent: "make anything strong and consistent"):
+# a One Piece line (at most three uses, 20 lessons apart) or a classical Arabic line read out by Robin; see ../quote-bank.md.
 
 == 321
 # book 68.1: the essential underlying anatomic feature of tetralogy -> the book says D (aortic override); corrected to A, anterior deviation of the infundibular septum.

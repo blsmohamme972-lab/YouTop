@@ -3,8 +3,8 @@ book: johns-hopkins-2016
 # Written 2026-11-22, night. Each story: a hook, a wrong try that fails, the answer acting, a payoff line that names
 # the symbol, and a lead-in that says who speaks the quotation and why it fits.
 # OCR misprints of 302, 306, 307 and 310 are mended by the book's 'typos' map ("Q :Q ... p s 2 : 1" -> "Qp:Qs ... 2:1").
-# QUOTATION PENDING (all ten): the pool of One Piece lines allowed by quoteRepeats is exhausted; the owner decides.
-# The stories stop at the payoff; add the lead-in and Q lines before building.
+# Quotations added 2026-11-22 (the owner left the choice to the agent: "make anything strong and consistent"):
+# a One Piece line (at most three uses, 20 lessons apart) or a classical Arabic line read out by Robin; see ../quote-bank.md.
 
 == 301
 # book 64.1: correct about the anatomy of ASDs and PAPVC -> C, the ostium of a coronary sinus defect lies at the posteroinferior margin of the triangle of Koch.
