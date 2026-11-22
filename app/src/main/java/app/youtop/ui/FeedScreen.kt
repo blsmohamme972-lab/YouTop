@@ -242,7 +242,8 @@ private class ViewLog {
     var since = 0L
     var answered = 0
     var wrong = 0
-    var answerMs = 0L
+    /** Every answer so far came quicker than the question takes to read carefully. */
+    var fast = true
     var finishedNarration = false
 }
 
@@ -287,8 +288,7 @@ private fun LessonPage(entry: FeedEntry, active: Boolean, vm: MainViewModel, onN
     val report = {
         if (log.since > 0L) {
             vm.finish(
-                entry, log.answered, log.wrong,
-                if (log.answered > 0) log.answerMs / log.answered else 0L,
+                entry, log.answered, log.wrong, log.answered > 0 && log.fast,
                 log.finishedNarration, System.currentTimeMillis() - log.since,
             )
         }
@@ -516,10 +516,10 @@ private fun LessonPage(entry: FeedEntry, active: Boolean, vm: MainViewModel, onN
                 autoAdvance = study.autoAdvance,
                 speak = study.speakQuiz,
                 onSay = { text, lang -> vm.narrator.say(text, lang) },
-                onAnswer = { correct, tookMs ->
+                onAnswer = { correct, fast ->
                     log.answered++
                     if (!correct) log.wrong++
-                    log.answerMs += tookMs
+                    if (!fast) log.fast = false
                 },
                 onDone = report,
                 onNext = { vm.narrator.stopSaying(); onNext() },

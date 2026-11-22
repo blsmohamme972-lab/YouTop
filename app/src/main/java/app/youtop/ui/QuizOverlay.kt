@@ -73,6 +73,7 @@ import androidx.compose.ui.window.Dialog
 import androidx.compose.ui.window.DialogProperties
 import app.youtop.data.MediaCache
 import app.youtop.data.Question
+import app.youtop.study.Scheduler
 import coil3.compose.AsyncImage
 import kotlinx.coroutines.delay
 
@@ -113,7 +114,7 @@ fun QuizOverlay(
     autoAdvance: Boolean,
     speak: Boolean,
     onSay: (String, String) -> Unit,
-    onAnswer: (correct: Boolean, tookMs: Long) -> Unit,
+    onAnswer: (correct: Boolean, fast: Boolean) -> Unit,
     onDone: () -> Unit,
     onNext: () -> Unit,
     onClose: () -> Unit,
@@ -275,7 +276,7 @@ fun QuizOverlay(
                             val correct = option == question.answer
                             haptics.performHapticFeedback(if (correct) HapticFeedbackType.TextHandleMove else HapticFeedbackType.LongPress)
                             picked = option
-                            onAnswer(correct, System.currentTimeMillis() - shownAt)
+                            onAnswer(correct, Scheduler.isFast(System.currentTimeMillis() - shownAt, question.q.length + question.options.sumOf { it.length }))
                             if (last) { state.done = true; onDone() }
                         }
                         .padding(horizontal = 14.dp, vertical = 12.dp),

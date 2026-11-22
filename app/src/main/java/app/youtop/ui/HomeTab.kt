@@ -63,7 +63,7 @@ import kotlin.math.roundToInt
  * book's progress. Read-only except for "continue", which goes back to the feed.
  */
 @Composable
-fun HomeTab(vm: MainViewModel, onContinue: () -> Unit, onOpenBook: (String) -> Unit, onOpenTopics: () -> Unit) {
+fun HomeTab(vm: MainViewModel, onContinue: () -> Unit, onOpenBook: (String) -> Unit, onOpenTopics: () -> Unit, onOpenSettings: () -> Unit) {
     val books by vm.books.collectAsStateWithLifecycle()
     val progress by vm.progress.collectAsStateWithLifecycle()
     val settings by vm.settings.collectAsStateWithLifecycle()
@@ -170,6 +170,35 @@ fun HomeTab(vm: MainViewModel, onContinue: () -> Unit, onOpenBook: (String) -> U
                     labels = (1..7).map { dayLetter(today.plusDays(it.toLong()).dayOfWeek) },
                     highlight = 0,
                     description = stringResource(R.string.coming_up),
+                )
+            }
+        }
+
+        // How the scheduler sees the learner's memory.
+        if (study.smart) {
+            Card(onClick = onOpenSettings) {
+                SectionTitle(stringResource(R.string.section_memory))
+                val measured = progress.calibration.measured
+                Row(verticalAlignment = Alignment.CenterVertically) {
+                    Column(Modifier.weight(1f)) {
+                        Text(num((study.retention * 100).roundToInt()) + "%", color = Color.White, fontSize = 20.sp, fontWeight = FontWeight.SemiBold)
+                        Text(stringResource(R.string.memory_target), color = Faint, fontSize = 12.sp)
+                    }
+                    Column(Modifier.weight(1f)) {
+                        Text(measured?.let { num((it * 100).roundToInt()) + "%" } ?: "–", color = Color.White, fontSize = 20.sp, fontWeight = FontWeight.SemiBold)
+                        Text(stringResource(R.string.memory_measured), color = Faint, fontSize = 12.sp)
+                    }
+                }
+                val toExam = (study.examDay - progress.day).toInt()
+                Text(
+                    when {
+                        toExam >= 1 -> pluralStringResource(R.plurals.exam_in, toExam, toExam)
+                        measured == null -> stringResource(R.string.memory_learning)
+                        measured < study.retention - 0.03f && study.adaptive -> stringResource(R.string.memory_shorter)
+                        measured > study.retention + 0.03f && study.adaptive -> stringResource(R.string.memory_longer)
+                        else -> stringResource(R.string.memory_on_target)
+                    },
+                    color = Faint, fontSize = 13.sp, lineHeight = 19.sp,
                 )
             }
         }

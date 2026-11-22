@@ -85,6 +85,7 @@ fun LibraryScreen(vm: MainViewModel, tab: LibraryTab, onTab: (LibraryTab) -> Uni
                     vm, onContinue = onClose,
                     onOpenBook = { openBook = it; onTab(LibraryTab.BOOKS) },
                     onOpenTopics = { onTab(LibraryTab.TOPICS) },
+                    onOpenSettings = { onTab(LibraryTab.SETTINGS) },
                 )
 
                 LibraryTab.BOOKS -> BooksTab(vm, books, settings.saved, openBook, { openBook = it }, open)

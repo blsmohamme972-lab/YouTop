@@ -11,7 +11,8 @@ import org.junit.Assert.assertTrue
 import org.junit.Test
 
 class SchedulerTest {
-    private val s = StudySettings()
+    // These are the classic scheduler's rules; the smart one is covered by MemoryTest.
+    private val s = StudySettings(engine = "classic")
     private val minute = 60_000L
     private val day = 86_400_000L
     private val t0 = 1_000 * day
@@ -108,14 +109,19 @@ class SchedulerTest {
 
     @Test
     fun behaviourBecomesARating() {
-        assertEquals(Rating.GOOD, Scheduler.rate(1, 0, 1, 9_000, true, 60_000))
-        assertEquals(Rating.EASY, Scheduler.rate(1, 0, 1, 2_000, false, 5_000))
-        assertEquals(Rating.AGAIN, Scheduler.rate(1, 1, 1, 2_000, true, 60_000))
-        assertEquals(Rating.HARD, Scheduler.rate(3, 1, 3, 5_000, true, 60_000))
-        assertEquals(Rating.HARD, Scheduler.rate(0, 0, 1, 0, true, 60_000))
-        assertEquals(Rating.GOOD, Scheduler.rate(0, 0, 0, 0, true, 60_000))
-        assertNull(Scheduler.rate(0, 0, 1, 0, false, 2_000))
-        assertNull(Scheduler.rate(0, 0, 1, 0, false, 30_000))
+        assertEquals(Rating.GOOD, Scheduler.rate(1, 0, 1, false, true, 60_000))
+        assertEquals(Rating.EASY, Scheduler.rate(1, 0, 1, true, false, 5_000))
+        assertEquals(Rating.AGAIN, Scheduler.rate(1, 1, 1, true, true, 60_000))
+        assertEquals(Rating.HARD, Scheduler.rate(3, 1, 3, false, true, 60_000))
+        assertEquals(Rating.HARD, Scheduler.rate(0, 0, 1, false, true, 60_000))
+        assertEquals(Rating.GOOD, Scheduler.rate(0, 0, 0, false, true, 60_000))
+        assertNull(Scheduler.rate(0, 0, 1, false, false, 2_000))
+        // "Fast" allows for the length of the question: a long stem takes longer to read.
+        assertTrue(Scheduler.isFast(3_000, 40))
+        assertTrue(!Scheduler.isFast(6_000, 40))
+        assertTrue(Scheduler.isFast(11_000, 300))
+        assertTrue(!Scheduler.isFast(0, 300))
+        assertNull(Scheduler.rate(0, 0, 1, false, false, 30_000))
     }
 
     @Test

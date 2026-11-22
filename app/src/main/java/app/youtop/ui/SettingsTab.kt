@@ -58,7 +58,13 @@ import app.youtop.BuildConfig
 import app.youtop.MainViewModel
 import app.youtop.R
 import app.youtop.data.SyncState
+import app.youtop.study.Calibration
+import app.youtop.study.Memory
+import app.youtop.study.Scheduler
 import app.youtop.study.StudySettings
+import androidx.compose.foundation.background
+import androidx.compose.foundation.shape.CircleShape
+import androidx.compose.ui.draw.clip
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext
@@ -89,6 +95,7 @@ fun SettingsTab(vm: MainViewModel) {
                 fun paced(p: StudySettings) = p.copy(
                     questionFirst = s.questionFirst, autoContinue = s.autoContinue, autoAdvance = s.autoAdvance, shuffleOptions = s.shuffleOptions,
                     speakQuiz = s.speakQuiz, excludedBooks = s.excludedBooks, focus = s.focus, weakFirst = s.weakFirst, afterGoal = s.afterGoal, randomNewOrder = s.randomNewOrder,
+                    engine = s.engine, examDay = s.examDay, adaptive = s.adaptive, holdNew = s.holdNew,
                 )
                 listOf(
                     R.string.preset_relaxed to StudySettings.Relaxed,
@@ -106,6 +113,8 @@ fun SettingsTab(vm: MainViewModel) {
                 }
             }
         }
+
+        MemoryCard(vm, s, set)
 
         Card(title = stringResource(R.string.section_lesson), spacing = 14.dp) {
             Toggle(stringResource(R.string.question_first), s.questionFirst, stringResource(R.string.question_first_hint)) { set(s.copy(questionFirst = it)) }
@@ -132,13 +141,16 @@ fun SettingsTab(vm: MainViewModel) {
                 Text(stringResource(R.string.advanced_hint), color = Faint, fontSize = 12.sp, lineHeight = 17.sp)
                 Steps(stringResource(R.string.learning_steps), s.learningSteps) { set(s.copy(learningSteps = it)) }
                 Steps(stringResource(R.string.relearning_steps), s.relearningSteps) { set(s.copy(relearningSteps = it)) }
-                Stepper(stringResource(R.string.graduating_days), s.graduatingDays, 1f, 1f..30f) { set(s.copy(graduatingDays = it)) }
-                Stepper(stringResource(R.string.easy_days), s.easyDays, 1f, 1f..60f) { set(s.copy(easyDays = it)) }
-                Stepper(stringResource(R.string.starting_ease), s.startingEase, 0.1f, 1.3f..4f, percent = true) { set(s.copy(startingEase = it)) }
-                Stepper(stringResource(R.string.easy_bonus), s.easyBonus, 0.05f, 1f..2f, percent = true) { set(s.copy(easyBonus = it)) }
-                Stepper(stringResource(R.string.hard_factor), s.hardFactor, 0.05f, 1f..1.5f, percent = true) { set(s.copy(hardFactor = it)) }
-                Stepper(stringResource(R.string.interval_modifier), s.intervalModifier, 0.05f, 0.3f..2f, percent = true) { set(s.copy(intervalModifier = it)) }
-                Stepper(stringResource(R.string.lapse_factor), s.lapseFactor, 0.1f, 0f..1f, percent = true) { set(s.copy(lapseFactor = it)) }
+                if (!s.smart) {
+                    // The classic scheduler's multipliers; the smart one works these out for each lesson.
+                    Stepper(stringResource(R.string.graduating_days), s.graduatingDays, 1f, 1f..30f) { set(s.copy(graduatingDays = it)) }
+                    Stepper(stringResource(R.string.easy_days), s.easyDays, 1f, 1f..60f) { set(s.copy(easyDays = it)) }
+                    Stepper(stringResource(R.string.starting_ease), s.startingEase, 0.1f, 1.3f..4f, percent = true) { set(s.copy(startingEase = it)) }
+                    Stepper(stringResource(R.string.easy_bonus), s.easyBonus, 0.05f, 1f..2f, percent = true) { set(s.copy(easyBonus = it)) }
+                    Stepper(stringResource(R.string.hard_factor), s.hardFactor, 0.05f, 1f..1.5f, percent = true) { set(s.copy(hardFactor = it)) }
+                    Stepper(stringResource(R.string.interval_modifier), s.intervalModifier, 0.05f, 0.3f..2f, percent = true) { set(s.copy(intervalModifier = it)) }
+                    Stepper(stringResource(R.string.lapse_factor), s.lapseFactor, 0.1f, 0f..1f, percent = true) { set(s.copy(lapseFactor = it)) }
+                }
                 Stepper(stringResource(R.string.max_days), s.maxDays, 5f, 1f..3650f) { set(s.copy(maxDays = it)) }
                 TextButton(onClick = { confirmReset = true }) { Text(stringResource(R.string.reset_progress), color = Bad) }
             }
@@ -160,6 +172,78 @@ fun SettingsTab(vm: MainViewModel) {
             dismissButton = { TextButton(onClick = { confirmReset = false }) { Text(stringResource(R.string.cancel)) } },
         )
     }
+}
+
+/**
+ * How the intervals between reviews are decided. The smart scheduler needs one number from the
+ * learner (how sure they want to be of remembering) and shows at once what it leads to.
+ */
+@OptIn(ExperimentalLayoutApi::class)
+@Composable
+private fun MemoryCard(vm: MainViewModel, s: StudySettings, set: (StudySettings) -> Unit) {
+    val progress by vm.progress.collectAsStateWithLifecycle()
+    val today = progress.day
+    val personal = if (s.adaptive) Memory.personalFactor(progress.calibration) ?: 1f else 1f
+    val toExam = (s.examDay - today).toInt()
+
+    Card(title = stringResource(R.string.section_memory), spacing = 14.dp) {
+        FlowRow(horizontalArrangement = Arrangement.spacedBy(8.dp), verticalArrangement = Arrangement.spacedBy(8.dp)) {
+            Chip(stringResource(R.string.engine_smart), s.smart) { set(s.copy(engine = "smart")) }
+            Chip(stringResource(R.string.engine_classic), !s.smart) { set(s.copy(engine = "classic")) }
+        }
+        Text(stringResource(if (s.smart) R.string.engine_smart_hint else R.string.engine_classic_hint), color = Faint, fontSize = 12.sp, lineHeight = 17.sp)
+        if (!s.smart) return@Card
+
+        Column(verticalArrangement = Arrangement.spacedBy(4.dp)) {
+            Stepper(stringResource(R.string.retention), s.retention, 0.01f, 0.80f..0.97f, percent = true) { set(s.copy(retention = it)) }
+            Text(stringResource(R.string.retention_hint), color = Faint, fontSize = 12.sp, lineHeight = 17.sp)
+        }
+        // What that means: the gaps a lesson answered right every time will get.
+        val gaps = remember(s, personal, today) { Scheduler.preview(s, personal, today) }
+        if (gaps.isNotEmpty()) {
+            Column(verticalArrangement = Arrangement.spacedBy(6.dp)) {
+                Text(stringResource(R.string.preview_title), color = Color.White, fontSize = 13.sp)
+                FlowRow(horizontalArrangement = Arrangement.spacedBy(6.dp), verticalArrangement = Arrangement.spacedBy(6.dp)) {
+                    gaps.forEach { days ->
+                        Text(
+                            span(days), color = Accent, fontSize = 13.sp, fontWeight = FontWeight.SemiBold,
+                            modifier = Modifier.clip(CircleShape).background(Accent.copy(alpha = 0.12f)).padding(horizontal = 10.dp, vertical = 4.dp),
+                        )
+                    }
+                }
+            }
+        }
+
+        Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
+            Text(stringResource(R.string.exam), color = Color.White, fontSize = 15.sp)
+            FlowRow(horizontalArrangement = Arrangement.spacedBy(8.dp), verticalArrangement = Arrangement.spacedBy(8.dp)) {
+                Chip(stringResource(R.string.exam_none), toExam < 1) { set(s.copy(examDay = 0)) }
+                listOf(14 to R.string.exam_2w, 30 to R.string.exam_1m, 90 to R.string.exam_3m, 180 to R.string.exam_6m).forEach { (days, label) ->
+                    Chip(stringResource(label), toExam == days) { set(s.copy(examDay = today + days)) }
+                }
+            }
+            if (toExam >= 1) {
+                Stepper(stringResource(R.string.exam_days), toExam.toFloat(), 1f, 1f..730f) { set(s.copy(examDay = today + it.roundToInt())) }
+                Text(stringResource(R.string.exam_hint), color = Faint, fontSize = 12.sp, lineHeight = 17.sp)
+            }
+        }
+
+        Toggle(
+            stringResource(R.string.adaptive), s.adaptive,
+            progress.calibration.measured?.let {
+                stringResource(R.string.adaptive_measured, num((it * 100).roundToInt()), num((s.retention * 100).roundToInt()), num((personal * 100).roundToInt()))
+            } ?: stringResource(R.string.adaptive_hint, num(progress.calibration.n.roundToInt().coerceAtMost(Calibration.ENOUGH.toInt())), num(Calibration.ENOUGH.toInt())),
+        ) { set(s.copy(adaptive = it)) }
+        Toggle(stringResource(R.string.hold_new), s.holdNew, stringResource(R.string.hold_new_hint)) { set(s.copy(holdNew = it)) }
+    }
+}
+
+/** A gap between reviews in words: days, then months, then years. */
+@Composable
+fun span(days: Float): String = when {
+    days < 30.5f -> pluralStringResource(R.plurals.span_days, days.roundToInt().coerceAtLeast(1), days.roundToInt().coerceAtLeast(1))
+    days < 365f -> pluralStringResource(R.plurals.span_months, (days / 30.44f).roundToInt(), (days / 30.44f).roundToInt())
+    else -> stringResource(R.string.span_years, "%.1f".format(days / 365.25f))
 }
 
 /** Where lessons come from and how much of them is kept on the phone. */

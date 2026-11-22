@@ -29,6 +29,8 @@ data class Progress(
     val lastStudyDay: Long = 0,
     /** What was done on each recent day (by day number, see [Scheduler.dayOf]); feeds the dashboard. */
     val history: Map<Long, DayLog> = emptyMap(),
+    /** How the learner's reviews compare with what the memory model expected (smart scheduler). */
+    val calibration: Calibration = Calibration(),
 ) {
     /** Streak as it stands today: broken if a whole day was missed. */
     fun liveStreak(today: Long) = if (today - lastStudyDay <= 1) streak else 0
@@ -91,8 +93,15 @@ class ProgressStore(context: Context, private val scope: CoroutineScope) {
             val p = old.rolledTo(today)
             val before = p.cards[key] ?: CardState()
             val fuzz = 0.95f + (key.hashCode() + before.reps).mod(11) / 100f
+            // A review after a real wait is evidence of how well the model fits this learner.
+            val waited = (now - before.seen).toFloat() / 86_400_000f
+            val known = if (settings.smart && before.phase == Phase.REVIEW && waited >= Memory.SAME_DAY) Scheduler.memory(before) else null
+            val calibration = if (known == null) p.calibration
+                else p.calibration.plus(Memory.retrievability(waited, known.s), rating != Rating.AGAIN)
+            val personal = if (settings.adaptive) Memory.personalFactor(p.calibration) ?: 1f else 1f
             p.copy(
-                cards = p.cards + (key to Scheduler.review(before, rating, now, settings, fuzz)),
+                cards = p.cards + (key to Scheduler.review(before, rating, now, settings, fuzz, personal, today)),
+                calibration = calibration,
                 doneToday = p.doneToday + 1,
                 newToday = p.newToday + if (before.phase == Phase.NEW) 1 else 0,
                 streak = when (today - p.lastStudyDay) {

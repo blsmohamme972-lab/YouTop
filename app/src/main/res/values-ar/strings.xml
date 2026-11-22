@@ -200,4 +200,56 @@
     <string name="nothing_matches">لا شيء للعرض</string>
     <string name="nothing_matches_body">لا درس يطابق الكتب والمواضيع التي اخترتها.</string>
     <string name="show_everything">عرض الكل</string>
+    <string name="section_memory">الذاكرة</string>
+    <string name="engine_smart">ذكي</string>
+    <string name="engine_classic">تقليدي</string>
+    <string name="engine_smart_hint">يحسب سرعة نسيانك لكل درس، من صعوبته عليك ومدة احتفاظك به، ويعيده قبيل أن تنساه.</string>
+    <string name="engine_classic_hint">مضاعِفات ثابتة كما في تطبيقات البطاقات القديمة. أرقامه في «توقيت متقدّم».</string>
+    <string name="retention">تذكّر على الأقل</string>
+    <string name="retention_hint">احتمال أن تكون ما زلت تعرف الدرس عند عودته. الأعلى يعني نسيانًا أقل ومراجعات أكثر؛ ٩٠٪ تناسب أغلب الناس، و٩٣–٩٥٪ قبل الامتحان.</string>
+    <string name="preview_title">الدرس الذي تجيب عنه صحيحًا كل مرة يعود بعد</string>
+    <plurals name="span_days">
+        <item quantity="zero">%1$d يوم</item>
+        <item quantity="one">يوم</item>
+        <item quantity="two">يومين</item>
+        <item quantity="few">%1$d أيام</item>
+        <item quantity="many">%1$d يومًا</item>
+        <item quantity="other">%1$d يوم</item>
+    </plurals>
+    <plurals name="span_months">
+        <item quantity="zero">%1$d شهر</item>
+        <item quantity="one">شهر</item>
+        <item quantity="two">شهرين</item>
+        <item quantity="few">%1$d أشهر</item>
+        <item quantity="many">%1$d شهرًا</item>
+        <item quantity="other">%1$d شهر</item>
+    </plurals>
+    <string name="span_years">%1$s سنة</string>
+    <string name="exam">الامتحان</string>
+    <string name="exam_none">بلا موعد</string>
+    <string name="exam_2w">أسبوعان</string>
+    <string name="exam_1m">شهر</string>
+    <string name="exam_3m">٣ أشهر</string>
+    <string name="exam_6m">٦ أشهر</string>
+    <string name="exam_days">أيام حتى الامتحان</string>
+    <string name="exam_hint">حتى ذلك اليوم لا يُؤجَّل أي درس إلى ما بعد الامتحان: كل ما تعلّمته يعود مرة أخرى قبله.</string>
+    <plurals name="exam_in">
+        <item quantity="zero">الامتحان اليوم.</item>
+        <item quantity="one">الامتحان غدًا. كل ما تعلّمته عاد قبله.</item>
+        <item quantity="two">الامتحان بعد يومين. كل ما تعلّمته يعود قبله.</item>
+        <item quantity="few">الامتحان بعد %1$d أيام. كل ما تعلّمته يعود قبله.</item>
+        <item quantity="many">الامتحان بعد %1$d يومًا. كل ما تعلّمته يعود قبله.</item>
+        <item quantity="other">الامتحان بعد %1$d يوم. كل ما تعلّمته يعود قبله.</item>
+    </plurals>
+    <string name="adaptive">تكيّف مع ذاكرتي</string>
+    <string name="adaptive_hint">يقارن ما تتذكّره فعلًا بما كان متوقَّعًا، ثم يطيل الفواصل أو يقصّرها. يبدأ بعد %2$s مراجعة (حتى الآن %1$s).</string>
+    <string name="adaptive_measured">تتذكّر %1$s٪ عند المراجعة (الهدف %2$s٪). الفواصل الآن %3$s٪ من طولها المعتاد.</string>
+    <string name="hold_new">المراجعات قبل الدروس الجديدة</string>
+    <string name="hold_new_hint">ما دامت المراجعات المنتظرة أكثر من هدفك اليومي، لا تبدأ دروس جديدة.</string>
+    <string name="memory_target">الهدف</string>
+    <string name="memory_measured">تتذكّره عند المراجعة</string>
+    <string name="memory_learning">ما زال يقيس ذاكرتك؛ الفواصل تتبع النموذج المعتاد حتى ذلك.</string>
+    <string name="memory_shorter">تنسى أكثر قليلًا من المخطَّط، فصارت الدروس تعود أبكر.</string>
+    <string name="memory_longer">تتذكّر أكثر من المخطَّط، فصارت الدروس تعود أبعد.</string>
+    <string name="memory_on_target">على الهدف: تتذكّر قريبًا مما هو مخطَّط.</string>
 </resources>

@@ -242,9 +242,9 @@ class MainViewModel(app: Application) : AndroidViewModel(app) {
      * Called when the learner has finished with a feed entry (answered its quiz, or moved on).
      * What they did is turned into a review rating; nothing is asked of them.
      */
-    fun finish(entry: FeedEntry, answered: Int, wrong: Int, avgAnswerMs: Long, finishedNarration: Boolean, dwellMs: Long) {
+    fun finish(entry: FeedEntry, answered: Int, wrong: Int, fast: Boolean, finishedNarration: Boolean, dwellMs: Long) {
         if (entry.id in rated) return
-        val rating = Scheduler.rate(answered, wrong, entry.item.lesson.questions, avgAnswerMs, finishedNarration, dwellMs) ?: return
+        val rating = Scheduler.rate(answered, wrong, entry.item.lesson.questions, fast, finishedNarration, dwellMs) ?: return
         rated += entry.id
         store.record(entry.item.key, rating, study())
         // The entry after this one was chosen before this result was known; choose again.

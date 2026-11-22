@@ -169,4 +169,44 @@
     <string name="nothing_matches">Nothing to show</string>
     <string name="nothing_matches_body">No lesson matches the books and topics you chose.</string>
     <string name="show_everything">Show everything</string>
+    <string name="section_memory">Memory</string>
+    <string name="engine_smart">Smart</string>
+    <string name="engine_classic">Classic</string>
+    <string name="engine_smart_hint">Models how fast you forget each lesson, from how hard it is for you and how long you have kept it, and brings it back just before you would forget.</string>
+    <string name="engine_classic_hint">Fixed multipliers, as in older flashcard apps. Its numbers are under Advanced timing.</string>
+    <string name="retention">Remember at least</string>
+    <string name="retention_hint">Your chance of still knowing a lesson when it comes back. Higher means fewer forgotten lessons and more reviews; 90% suits most people, 93–95% before an exam.</string>
+    <string name="preview_title">A lesson answered right each time comes back after</string>
+    <plurals name="span_days">
+        <item quantity="one">%1$d day</item>
+        <item quantity="other">%1$d days</item>
+    </plurals>
+    <plurals name="span_months">
+        <item quantity="one">%1$d month</item>
+        <item quantity="other">%1$d months</item>
+    </plurals>
+    <string name="span_years">%1$s years</string>
+    <string name="exam">Exam</string>
+    <string name="exam_none">No date</string>
+    <string name="exam_2w">2 weeks</string>
+    <string name="exam_1m">1 month</string>
+    <string name="exam_3m">3 months</string>
+    <string name="exam_6m">6 months</string>
+    <string name="exam_days">Days until the exam</string>
+    <string name="exam_hint">Until then no lesson is sent further away than the exam: everything you have learned comes back once more before it.</string>
+    <plurals name="exam_in">
+        <item quantity="one">Exam tomorrow. Everything learned has been brought back before it.</item>
+        <item quantity="other">Exam in %1$d days. Everything learned comes back before it.</item>
+    </plurals>
+    <string name="adaptive">Adjust to my memory</string>
+    <string name="adaptive_hint">Compares what you really remember with what was expected, then stretches or shortens the gaps. Starts after %2$s reviews (%1$s so far).</string>
+    <string name="adaptive_measured">You remember %1$s%% at review time (target %2$s%%). Gaps are at %3$s%% of the standard length.</string>
+    <string name="hold_new">Reviews before new lessons</string>
+    <string name="hold_new_hint">While more reviews are waiting than your daily goal, no new lessons are started.</string>
+    <string name="memory_target">target</string>
+    <string name="memory_measured">remembered at review</string>
+    <string name="memory_learning">Still measuring your memory; the gaps follow the standard model until then.</string>
+    <string name="memory_shorter">You forget a little more than planned, so lessons now come back sooner.</string>
+    <string name="memory_longer">You remember more than planned, so lessons now come back later.</string>
+    <string name="memory_on_target">On target: you remember about as much as planned.</string>
 </resources>
