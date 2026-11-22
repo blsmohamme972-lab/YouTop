@@ -75,7 +75,11 @@ third use of each One Piece line at least 20 lessons apart first, then other gen
   have pictures, **133 and 154 have none**: if the owner still means to draw them, give them keywords and three symbols
   first).
 
-**Next, in order:** (1) quotations (being done; see above for the policy): lead-in + Q line in each pending `voice.txt`, `voice.py fill`, `batch.py build`, `voice.py make`;
+**Quotations, progress:** 242-350 have their lead-in and quotation (`voice.txt` + `voice.py fill`; a dry build of
+101-350 passed every rule, the repeat rule included); 351-422 still to do. Policy and the classical lines used: end of
+`drafts/johns-hopkins-2016/quote-bank.md`. `quoteRepeats` is now max 3, gap 20.
+
+**Next, in order:** (1) quotations for 351-422, then: lead-in + Q line in each pending `voice.txt`, `voice.py fill`, `batch.py build`, `voice.py make`;
 (2) pictures as they arrive (skill steps 4-5, publish `--complete-only`), the 40 redone ones with `--replace b`; rebuilding also mends the NUL signs still in
 published 11, 127, 163, 237, 238. The JH master: Drive id `1JmU8REE6sMtOSk6Ty664l8Q9__jtRogW`, save outside the repo.
 The `content` branch's work copies of the JH batches are older than `drafts/`: always rebuild from `drafts/`.
