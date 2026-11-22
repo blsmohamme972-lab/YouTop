@@ -46,9 +46,11 @@ modify or edit recurring symbols."
   `build` warns. Tested by hand.
 - Symbol edited under the owner's permission: Down syndrome's football shirts no longer show a written 21; each shirt
   is printed with a little dragon and a little unicorn (21).
-- **Not applied yet to the 329 lessons whose prompts the owner already has** (Johns Hopkins 11, 98, 99, 101,
-  103-422; MedCosmos 111, 123, 125, 128, 149; plus the 5 redraws 1, 34, 94, 96, 97). Asked the owner whether to
-  upgrade them (new prompts with an anchor and twelve symbols; their stories and voices would then be redone).
+- **The owner's decision (2026-11-22): the 329 lessons whose prompts the owner already has keep the previous style**
+  («نبقى على الأسلوب السابق»): Johns Hopkins 11, 98, 99, 101, 103-422, MedCosmos 111, 123, 125, 128, 149, and the 5
+  redraws 1, 34, 94, 96, 97 keep their prompts, stories and recorded voices as they are. When their pictures arrive,
+  build them as usual (`batch.py build` only warns about rules 5 and 7). Rules 6 and 7 apply to new prompts only
+  (new lessons, and lessons redone from the app's Redo notes).
 
 ## NUMBER SYMBOLS (2026-11-22, late): one recurring symbol for each digit
 
