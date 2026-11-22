@@ -211,10 +211,21 @@ story allows it, so the circle can sit on whoever speaks. Then:
 
 `make` writes `media/<id>-story-ar.m4a` and `-explanation-en.m4a`, sets each segment's `t`, and
 refuses when a lesson's sentences differ from the voice file. Voices and pauses are in
-`content/voices.json`. It takes about three minutes a lesson; parts are cached in
+`content/voices.json`. It takes about 15 seconds a lesson; parts are cached in
 `.content-work/voice-cache`, so a rerun only makes what changed. In a cloud session the package's
 certificate store needs the session's proxy certificate first:
-`cat /root/.ccr/ca-bundle.crt >> $(<venv>/bin/python -c "import certifi;print(certifi.where())")`.
+`cat /root/.ccr/ca-bundle.crt >> $(<venv>/bin/python -c "import certifi;print(certifi.where())")`
+(voice.py hands the session's proxy to the speech service itself).
+
+**Recordings are kept (since 2026-11-22).** `make` also writes every track it records, with its
+timings, to `<folder>/work/<book>/recorded/`; publish.py copies `work/` onto `content` as it is, so a
+recording is saved on GitHub at the next publish even while its lesson is held back for want of a
+picture (`--complete-only`). A folder holding only `work/` (a symlink to `.content-work/work`) publishes
+just that, touching no lesson. Before recording, `make` looks in that folder and in `.content/work/<book>/recorded/`
+(the content branch, refreshed by `publish.py --export`): a kept recording of exactly the same words,
+voices and pauses is copied in seconds (`--no-reuse` records afresh). So after a container restart, an
+export and `make` give back every kept voice without recording. Several `make` runs can work at once,
+each in its own `--folder` copy, all writing to one `--store`.
 Nobody can hear the result but the owner: ask them how it sounds and fix what they name.
 
 ## 7. Keeping errors out (the owner asked for this on 2026-11-16; it applies to every new batch)

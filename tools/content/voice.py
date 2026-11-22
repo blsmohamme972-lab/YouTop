@@ -3,7 +3,7 @@
 and every sentence's start time is written into the lesson, so the circle moves exactly with it.
 
     voice.py fill  voice.txt batch.txt            put the story lines and the quotation into batch.txt
-    voice.py make  voice.txt [--folder F] [--only 41 42] [--no-explanation]
+    voice.py make  voice.txt [--folder F] [--only 41 42] [--no-explanation] [--store DIR] [--no-reuse]
                                                   the audio into F/books/<id>/media and 't' into the lessons
     voice.py check voice.txt [--folder F] [--only 41 42]
                                                   "listens" to the audio made: a speech recogniser on this machine
@@ -33,8 +33,16 @@ What the learner reads is made from these lines by `fill`: the vowels are taken 
 tanwin fath stay) and a character's words are put between « ». `make` refuses a lesson whose
 published sentences differ from the lines here, so text and voice cannot drift apart. The English
 explanation is read from the lesson itself, one voice.
+
+Recordings are kept. Every track `make` records is also written, with its timings, to
+F/work/<book>/recorded/ (or --store DIR): publish.py copies work/ onto the `content` branch as it is,
+so a recording survives the container even while its lesson is held back for want of a picture.
+Before recording a track, `make` looks there and in the content branch's own copy
+(.content/work/<book>/recorded/, made by publish.py --export): a saved recording of exactly the same
+words, voices and pauses is taken as it is, in seconds. --no-reuse records afresh.
+Several `make` runs may work at once, each in its own folder F (they share --store safely).
 """
-import argparse, array, asyncio, hashlib, json, math, pathlib, re, subprocess, sys, wave
+import argparse, array, asyncio, hashlib, json, math, os, pathlib, re, shutil, subprocess, sys, wave
 
 ROOT = pathlib.Path(__file__).resolve().parents[2]
 RATE = 44100
@@ -169,8 +177,14 @@ def clip(cache, text, spec):
     key = hashlib.sha256(json.dumps([text, spec], ensure_ascii=False, sort_keys=True).encode()).hexdigest()[:20]
     wav = cache / f"{key}.wav"
     if not wav.is_file():
-        mp3 = cache / f"{key}.mp3"
+        # Temporary names of this process only: several `make` runs can share one cache.
+        mp3 = cache / f"{key}.{os.getpid()}.mp3"
+        tmp = cache / f"{key}.{os.getpid()}.tmp.wav"
         args = {k: spec[k] for k in ("voice", "rate", "pitch", "volume") if k in spec}
+        # The service is reached over a WebSocket, which ignores HTTPS_PROXY: hand the proxy over (cloud sessions).
+        proxy = os.environ.get("HTTPS_PROXY") or os.environ.get("https_proxy")
+        if proxy:
+            args["proxy"] = proxy
         err = None
         for attempt in range(5):
             try:
@@ -184,10 +198,11 @@ def clip(cache, text, spec):
         if err:
             die(f"the speech service gave no sound for [{spec['voice']}] {text[:40]}: {err}")
         trim = "silenceremove=start_periods=1:start_threshold=-50dB,areverse,silenceremove=start_periods=1:start_threshold=-50dB,areverse"
-        r = subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", str(mp3), "-af", f"aresample={RATE},{trim}", "-ac", "1", "-c:a", "pcm_s16le", str(wav)], capture_output=True, text=True)
+        r = subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", str(mp3), "-af", f"aresample={RATE},{trim}", "-ac", "1", "-c:a", "pcm_s16le", "-f", "wav", str(tmp)], capture_output=True, text=True)
         if r.returncode:
             die(r.stderr[:300])
         mp3.unlink()
+        os.replace(tmp, wav)
     with wave.open(str(wav)) as w:
         samples = array.array("h", w.readframes(w.getnframes()))
     if not samples:
@@ -211,7 +226,7 @@ def build(cache, out, segments):
                 starts[-1] = round(len(pcm) * 1000 / RATE) if parts[0][0] == text else starts[-1]
             pcm.extend(clip(cache, text, spec))
             pcm.extend([0] * int(RATE * pause / 1000))
-    wav = cache / "joined.wav"
+    wav = cache / f"joined-{os.getpid()}.wav"
     with wave.open(str(wav), "w") as w:
         w.setnchannels(1); w.setsampwidth(2); w.setframerate(RATE); w.writeframes(pcm.tobytes())
     out.parent.mkdir(parents=True, exist_ok=True)
@@ -232,6 +247,8 @@ def cmd_make(args):
     cache.mkdir(parents=True, exist_ok=True)
     wanted = {f"{bookcfg['short']}-q{l['n']:04d}": l for l in lessons if not args.only or l["n"] in args.only}
     pause = cfg["pause"]
+    store = pathlib.Path(args.store).resolve() if args.store else folder / "work" / book / "recorded"
+    stores = [] if args.no_reuse else [store, ROOT / ".content" / "work" / book / "recorded"]
     for path in sorted((book_dir / "chapters").glob("*.json")):
         chapter = json.loads(path.read_text(encoding="utf-8"))
         changed = False
@@ -270,16 +287,50 @@ def cmd_make(args):
                     while subprocess.run(["git", "cat-file", "-e", f"origin/content:books/{book}/media/{stem}-v{k}.m4a"], cwd=ROOT, capture_output=True).returncode == 0:
                         k += 1
                     name = f"{stem}-v{k}.m4a"
-                starts, seconds = build(cache, book_dir / "media" / name, plan)
+                out = book_dir / "media" / name
+                sig = hashlib.sha256(json.dumps(plan, ensure_ascii=False, sort_keys=True).encode()).hexdigest()
+                saved = reuse(stores, f"{lesson['id']}-{track['kind']}", sig, out)
+                if saved:
+                    starts, seconds = saved["starts"], saved["seconds"]
+                else:
+                    starts, seconds = build(cache, out, plan)
+                    keep(store, cache, f"{lesson['id']}-{track['kind']}", sig, out, starts, seconds, segs)
                 track["audio"] = f"gh:books/{book}/media/{name}"
                 for seg, t in zip(segs, starts):
                     seg["t"] = t
-                print(f"lesson {n}: {track['kind']} {seconds} s -> {name}")
+                print(f"lesson {n}: {track['kind']} {seconds} s -> {name}{' (saved recording)' if saved else ''}")
             changed = True
         if changed:
             path.write_text(json.dumps(chapter, ensure_ascii=False) + "\n", encoding="utf-8")
     for lid in wanted:
         print(f"warning: {lid} is not a lesson in {book_dir} (build it first)")
+
+
+def reuse(stores, key, sig, out):
+    """A kept recording of exactly this plan (words, voices, pauses), copied to out; None if there is none."""
+    for store in stores:
+        meta = store / f"{key}.json"
+        if not meta.is_file():
+            continue
+        saved = json.loads(meta.read_text(encoding="utf-8"))
+        audio = store / saved["file"]
+        if saved.get("sig") == sig and audio.is_file():
+            out.parent.mkdir(parents=True, exist_ok=True)
+            shutil.copyfile(audio, out)
+            return saved
+    return None
+
+
+def keep(store, cache, key, sig, out, starts, seconds, segs):
+    """Writes a new recording and its timings into the store. Files appear whole (written aside, then
+    renamed), so a publish that copies the store while this runs never takes half a file."""
+    store.mkdir(parents=True, exist_ok=True)
+    tmp = cache / f"keep-{os.getpid()}.part"
+    shutil.copyfile(out, tmp)
+    os.replace(tmp, store / out.name)
+    meta = {"file": out.name, "sig": sig, "starts": starts, "seconds": seconds, "texts": [s["text"] for s in segs]}
+    tmp.write_text(json.dumps(meta, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    os.replace(tmp, store / f"{key}.json")
 
 
 # ---- listening back ---------------------------------------------------------------
@@ -301,7 +352,7 @@ def cmd_check(args):
     bookcfg = json.loads((ROOT / "content" / "books" / f"{book}.json").read_text(encoding="utf-8"))
     book_dir = pathlib.Path(args.folder).resolve() / "books" / book
     wanted = {f"{bookcfg['short']}-q{l['n']:04d}" for l in lessons if not args.only or l["n"] in args.only}
-    model = WhisperModel(args.model, device="cpu", compute_type="int8")
+    model = WhisperModel(args.model, device="cpu", compute_type="int8", cpu_threads=args.threads)
     doubtful = 0
     for path in sorted((book_dir / "chapters").glob("*.json")):
         for lesson in json.loads(path.read_text(encoding="utf-8"))["lessons"]:
@@ -342,9 +393,12 @@ def main():
     sub = ap.add_subparsers(dest="cmd", required=True)
     p = sub.add_parser("fill"); p.add_argument("voice"); p.add_argument("batch"); p.set_defaults(fn=cmd_fill)
     p = sub.add_parser("make"); p.add_argument("voice"); p.add_argument("--folder", default=str(ROOT / ".content-work"))
-    p.add_argument("--only", type=int, nargs="+"); p.add_argument("--no-explanation", action="store_true"); p.set_defaults(fn=cmd_make)
+    p.add_argument("--only", type=int, nargs="+"); p.add_argument("--no-explanation", action="store_true")
+    p.add_argument("--store", help="where recordings are kept (default: F/work/<book>/recorded)")
+    p.add_argument("--no-reuse", action="store_true", help="record every track afresh"); p.set_defaults(fn=cmd_make)
     p = sub.add_parser("check"); p.add_argument("voice"); p.add_argument("--folder", default=str(ROOT / ".content-work"))
     p.add_argument("--only", type=int, nargs="+"); p.add_argument("--model", default="small"); p.add_argument("--threshold", type=float, default=0.7)
+    p.add_argument("--threads", type=int, default=0, help="processor threads for the recogniser (0 = all)")
     p.set_defaults(fn=cmd_check)
     args = ap.parse_args()
     args.fn(args)
