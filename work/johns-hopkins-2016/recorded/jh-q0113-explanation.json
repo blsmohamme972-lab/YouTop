@@ -1,0 +1,17 @@
+{
+ "file": "jh-q0113-explanation-en.m4a",
+ "sig": "c2ed5dcecf50dde9e7748af44c839902b868e3cc5a81a80a1cdbf34c53190697",
+ "starts": [
+  0,
+  13387,
+  26820,
+  32701
+ ],
+ "seconds": 38.7,
+ "texts": [
+  "According to the book, the speed of myocardial contraction is not influenced by the resting length of the myocyte, by a sudden stretch, or by rapid repeated contraction: E, none of the above, is the answer.",
+  "Resting length and stretch change the force of contraction, through the Frank-Starling mechanism, and rapid repeated contraction raises it too (the staircase effect): the stroke volume rises, not the speed.",
+  "The speed is treated as a property of the muscle itself, set by its contractile proteins.",
+  "Memory hook: three sailors try three tricks, and the brass needle does not move a hair."
+ ]
+}
