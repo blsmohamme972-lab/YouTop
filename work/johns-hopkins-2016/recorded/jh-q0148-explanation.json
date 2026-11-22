@@ -1,0 +1,17 @@
+{
+ "file": "jh-q0148-explanation-en.m4a",
+ "sig": "154b5c43f99f766a40a0d98d162fa7d0933f9f03866689cc946bcf2e46a56df5",
+ "starts": [
+  0,
+  12553,
+  19557,
+  25788
+ ],
+ "seconds": 33.1,
+ "texts": [
+  "When a patient needs both operations, the staged approach of coronary bypass first, then carotid endarterectomy, has the lowest incidence of myocardial infarction: C is the answer.",
+  "Endarterectomy first protects the brain but leaves the heart exposed, and carries the highest infarction rate.",
+  "It is the mirror image of the stroke question: whichever organ is treated first is protected best.",
+  "Memory hook: the cabbage on step 1, the carrot on step 2, and the stag grazes safely."
+ ]
+}
