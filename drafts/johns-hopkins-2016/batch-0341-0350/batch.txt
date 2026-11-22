@@ -1,0 +1,294 @@
+book: johns-hopkins-2016
+# Lessons 341-350 (book 72.1-74.1: truncus arteriosus; total anomalous pulmonary venous connection; transposition).
+# Written 2026-11-22, night. Each story: a hook, a wrong try that fails, the answer acting, a payoff line that names
+# the symbol, and a lead-in that says who speaks the quotation and why it fits.
+# OCR misprints of 341, 342, 347 and 350 are mended by the book's 'typos' map ("22ql l" -> "22q11", "D -looping").
+# 346: the book's key (D) is kept; a note says series differ on how common the infracardiac form is.
+# QUOTATION PENDING (all ten): the pool of One Piece lines allowed by quoteRepeats is exhausted; the owner decides.
+# The stories stop at the payoff; add the lead-in and Q lines before building.
+
+== 341
+# book 72.1: genetic factor NOT associated with truncus arteriosus -> D, microdeletion of chromosome 15q.
+# ANSWER: at the door of the tree-trunk hotel in Lvneel, Saint George (22q11), a gate with six bars (GATA-6) and two identical octopuses (8p duplication) are let in; a small sign 15 is turned away (audited tree trunk, saint george)
+title: Microdeletion of 15q is not associated with truncus arteriosus
+titleAr: الحذف الدقيق في الصبغيّ 15q لا يرتبط بالجذع الشريانيّ المشترك
+tags: cardiac/congenital d:pathology q:recall l:3
+palette: Lvneel forest green, trunk brown and sign red
+words: 22, 15
+keywords: truncus arteriosus -> one thick tree trunk rising from both engine rooms, astride the hole in the party wall, with the orca and the money pipe branching from it; 22q11 deletion -> Saint George on his horse riding past an empty pot of thyme and a knocked-over can of glue, 22 on his shield; GATA-6 inactivation -> a garden gate with six bars, standing switched off; 8p duplication -> two identical octopuses side by side; NKX2.5 -> a runner's bib; 15q microdeletion -> a small sign marked 15 turned away at the door
+must: Saint George, the six-barred gate and the two octopuses are let in; only the small 15 sign is turned away
+scene: The forests of Lvneel Kingdom. CENTRE, dominant and brightest: at the door of a HART Hotel built round one thick tree trunk rising from both engine rooms, Saint George on his horse with 22 on his shield, a garden gate with six bars and two identical octopuses side by side are let in, while a small sign marked 15 is turned away. LEFT: Usopp holding the 15 sign up hopefully. Chopper checking the guest list.
+story:
+في غابات مملكة لفنيل، أقام فندق بني حول جذع شجرة واحد غليظ حفلًا، ووقف تشوبر على الباب بقائمة الضيوف.
+فدخل القدّيس جورج على حصانه، وعلى ترسه رقم اثنين وعشرين.
+ثمّ دخلت بوّابة حديقة بستّة قضبان، وأخطبوطان متشابهان تمامًا يمشيان جنبًا إلى جنب.
+«وهذه اللافتة الصغيرة أيضًا، عليها خمسة عشر! إنّها صديقتي!» قال أوسوب، ورفع اللافتة بأمل.
+لكنّ تشوبر قلّب القائمة صفحةً صفحة، فلم يجد فيها خمسة عشر أبدًا.
+فبقيت اللافتة خارج الباب، وأوسوب يحملها حزينًا.
+«اثنان وعشرون يدخل؛ وخمسة عشر ينتظر في الخارج!» قال تشوبر.
+quote:
+source:
+explanation:
+Microdeletion of chromosome 15q is not associated with truncus arteriosus: D.
+About a third of patients with truncus have a 22q11 deletion (DiGeorge syndrome), which also brings hypocalcaemia and immune deficiency.
+Mutations or inactivation of the transcription factors NKX2.5 and GATA-6, and duplication of chromosome 8p, have also been reported with it.
+In the picture, Saint George (22q11), the six-barred gate (GATA-6) and the two octopuses (8p duplication) are let in, and the 15 sign is turned away.
+Memory hook: 22 rides in; 15 waits outside.
+
+== 342
+# book 72.2: correct about the Collett-Edwards classification of truncus -> D, pulmonary arteries from the descending aorta = type IV.
+# ANSWER: in the numbered groves of Sabaody, of four tree-trunk hotels, the fourth gets its money pipes from the orca's back, far down past the arch, IV painted on it (audited tree trunk, orca)
+# type I: a short single money trunk; type II: two separate pipes close together at the back; type III: from the sides; "pseudotruncus" is type IV, not III (A, B, C, E wrong)
+title: Collett-Edwards type IV truncus: the pulmonary arteries arise from the descending aorta
+titleAr: الجذع الشريانيّ من النوع الرابع حسب كوليت وإدواردز: الشرايين الرئويّة تنشأ من الأبهر النازل
+tags: cardiac/congenital d:anatomy q:recall l:3
+palette: Sabaody mangrove green, bubble pastel and numeral gold
+words: I, II, III, IV
+keywords: truncus arteriosus -> one thick tree trunk rising from both engine rooms, with the orca and the money pipes branching from it; type I -> a short single money-pipe trunk leaving the tree and splitting; type II -> two money pipes leaving the back of the tree close together; type III -> two money pipes leaving its sides far apart; type IV -> the money pipes coming instead from the orca's back, far down past its arch, IV painted on it
+must: four tree-trunk hotels numbered I to IV; only IV gets its money pipes from the orca's back past the arch
+scene: The numbered mangrove groves of the Sabaody Archipelago, bubbles rising. CENTRE, dominant and brightest: the fourth of four HART Hotels built round one thick tree trunk, IV painted on it, whose pipes of dollar bills come from the orca balloon's back, far down past its arch. AROUND, dimmer: hotel I with a short single money-pipe trunk leaving the tree and splitting; hotel II with two money pipes leaving the back of the tree close together; hotel III with two money pipes leaving its sides far apart. LEFT: Usopp painting III on the fourth hotel. Chopper.
+story:
+في أيكات ساباودي المرقّمة، حيث تصعد الفقّاعات من الجذور، وقفت أربعة فنادق بني كلّ منها حول جذع شجرة واحد.
+ففي الأوّل، خرج من الجذع جذع قصير لأنبوب الدولارات ثمّ انقسم؛ وفي الثاني، خرج أنبوبان من ظهر الجذع متقاربين.
+وفي الثالث، خرج الأنبوبان من جانبيه متباعدين.
+«والرّابع مثل الثالث؛ أرسم عليه ثلاثةً وأنتهي!» قال أوسوب، ورفع فرشاته.
+لكنّ أنابيب الدولارات في الرابع لم تخرج من الجذع أصلًا؛ بل من ظهر الحوت، بعيدًا بعد قوسه.
+فكتب تشوبر عليه أربعةً بالأرقام القديمة، وقال إنّ كثيرين اليوم لا يعدّونه من عائلة الجذوع أصلًا، بل من عائلة خريطة الكنز.
+«النوع الرابع يأخذ ماله من ظهر الحوت!» قال تشوبر.
+quote:
+source:
+explanation:
+In the Collett and Edwards system, pulmonary arteries arising from the descending aorta are type IV: D.
+Type I has a short main pulmonary trunk arising from the truncus, type II has separate but close origins from its back, and type III has origins from its sides, farther apart.
+Type IV, the "pseudotruncus", is today regarded as pulmonary atresia with VSD and collaterals, not as truncus.
+In the picture, only the fourth hotel gets its money pipes from the orca's back past the arch.
+Memory hook: type IV fetches its money from the orca's back.
+
+== 343
+# book 72.3: correct about coronary anatomy in truncus -> B, the left coronary artery usually arises from the left part of the truncus.
+# ANSWER: under Treasure Tree Adam, the root of the crown's left spike leaves the left side of the tree trunk (audited tree trunk, crown)
+# a single shared root is uncommon, not half the time (A wrong); two roots, not three (E wrong)
+title: In truncus arteriosus the left coronary artery usually arises from the left of the truncus
+titleAr: في الجذع الشريانيّ المشترك ينشأ الشريان التاجيّ الأيسر عادة من الجانب الأيسر للجذع
+tags: cardiac/congenital d:anatomy q:recall l:3
+palette: Adam-wood brown, crown green and leaf gold
+keywords: truncus arteriosus -> one thick tree trunk rising from both engine rooms, with the orca and the money pipe branching from it; left coronary artery -> the root of the green crown's left spike leaving the LEFT side of the tree trunk; right coronary artery -> the root of the crown's right spike leaving the front-right of the tree; single coronary artery -> one shared root for both spikes of the crown, on a few trees only; three ostia -> a third root, almost never seen
+must: the root of the crown's left spike leaves the left side of the tree trunk
+scene: Beneath Treasure Tree Adam, the tree whose wood built the Thousand Sunny. CENTRE, dominant and brightest: a HART Hotel built round one thick tree trunk rising from both engine rooms, and the root of the Statue of Liberty's green crown's left spike leaving the LEFT side of the trunk, glowing; the right spike's root leaving the front-right. AROUND, dimmer: a few other trees with one shared root for both spikes. LEFT: Usopp looking for a third root. Chopper.
+story:
+تحت شجرة آدم الثمينة، الّتي بنيت الثاوزند صني من خشبها، وقف فندق بني حول جذع واحد غليظ.
+وعلى سطحه التاج الأخضر، تأخذ أشواكه ماءها من جذور تخرج من الجذع.
+«للتّاج ثلاثة جذور هنا، ونصف هذه الأشجار لها جذر واحد مشترك!» قال أوسوب، وأخذ يبحث عن جذر ثالث.
+لكنّه لم يجد إلّا جذرين؛ ولم يكن الجذر المشترك إلّا في أشجار قليلة.
+فتتبّع تشوبر الشوكة اليسرى إلى جذرها، فإذا هو يخرج من الجانب الأيسر للجذع.
+والشّوكة اليمنى تخرج من الأمام إلى اليمين.
+«الشوكة اليسرى تنبت من يسار الجذع!» قال تشوبر.
+quote:
+source:
+explanation:
+In truncus arteriosus the left coronary artery typically originates from the left portion of the truncal root: B.
+The right coronary artery usually arises from the right anterior part; a single coronary artery occurs in a minority, roughly 5 to 20 percent, and two ostia are the rule.
+Abnormal origins, a high or slit-like ostium and intramural courses matter when the pulmonary arteries are detached from the trunk.
+In the picture, the root of the crown's left spike leaves the left side of the tree trunk.
+Memory hook: the left spike grows from the left of the trunk.
+
+== 344
+# book 72.4: correct about truncus repair -> B, an anomalous right subclavian from the descending aorta can be ligated and divided when the arch is interrupted.
+# ANSWER: in Buggy's circus tent, in a tree-trunk hotel whose orca is cut in two, the jester's right flipper pipe sneaking out from the orca's back is tied and cut so the halves can be joined (audited jester, cut in two, tree trunk)
+# the freezer's homograft, not a composite bioprosthesis, is preferred (A wrong); the goal is to separate the two circulations, not to narrow the shared door (D wrong)
+title: In truncus with interrupted arch, an aberrant right subclavian can be ligated and divided
+titleAr: في الجذع الشريانيّ مع انقطاع القوس يمكن ربط الشريان تحت الترقوة الأيمن الشاذّ وقطعه
+tags: cardiac/congenital d:technique q:recall l:3
+palette: Buggy's circus red, jester yellow and orca blue
+keywords: truncus arteriosus -> one thick tree trunk rising from both engine rooms; interrupted aortic arch -> the orca balloon cut in two at its arch, a clear gap between the halves; anomalous right subclavian artery -> a jester in a belled cap playing a trick: the right flipper pipe sneaking out last from the orca's back; ligation and division -> that sneaking flipper pipe tied and cut so the two orca halves can be pulled together and joined; homograft conduit -> a donor's pipe from a frosty tissue-bank freezer, set as the bridge to the money pipes
+must: the jester's sneaking flipper pipe is tied and cut, and the two halves of the orca are pulled together
+scene: Buggy's circus tent, red and yellow stripes. CENTRE, dominant and brightest: a HART Hotel built round one thick tree trunk, its orca balloon cut in two at the arch; a jester in a belled cap watching as the right flipper pipe that sneaks out last from the orca's back is tied and cut, and the two halves of the orca are pulled together and joined. AROUND, dimmer: a frosty tissue-bank freezer with a donor's pipe ready as a bridge to the money pipes. LEFT: Usopp. Chopper with the scissors.
+story:
+في خيمة سيرك باغي الحمراء والصّفراء، جيء بفندق بني حول جذع واحد، وحوته مقطوع نصفين عند قوسه.
+فأراد تشوبر أن يشدّ النصفين ويصلهما، لكنّهما لم يتقاربا.
+فقد كان مهرّج بقبّعة الأجراس يلعب لعبته: أنبوب الزعنفة اليمنى يتسلّل آخرًا من ظهر الحوت، فيشدّ النصف السفليّ إلى الوراء.
+«لا تلمس أنبوب الزعنفة! الذراع اليمنى ستموت!» صاح أوسوب.
+لكنّ تشوبر ربط أنبوب المهرّج المتسلّل وقطعه، فوجدت الذراع ماءها من طرق أخرى، وانفكّ النصف السفليّ.
+فشدّ النصفين حتّى التقيا، ووصل الحوت كاملًا، ومدّ إلى أنبوب الدولارات جسرًا من ثلّاجة المتبرّعين.
+«اقطع أنبوب المهرّج، فيلتقي نصفا الحوت!» قال تشوبر.
+quote:
+source:
+explanation:
+An anomalous right subclavian artery arising from the descending thoracic aorta can be ligated and divided in the setting of interrupted aortic arch: B.
+Dividing it frees the descending aorta, so it can be brought up and joined to the ascending aorta without tension.
+The right ventricle is connected to the pulmonary arteries with a valved conduit, usually a homograft; the fundamental goal is to separate the two circulations, and a leaking truncal valve is repaired only when needed.
+Mobilizing the descending aorta well, and avoiding tension, protects the left main bronchus from compression.
+In the picture, the jester's sneaking flipper pipe is tied and cut, and the two halves of the orca are joined.
+Memory hook: cut the jester's pipe, and the orca's halves meet.
+
+== 345
+# book 72.5: true about outcomes after truncus repair -> C, long-term survival is about 60 percent at 20 years.
+# ANSWER: in the Gecko Islands, of ten tree-trunk hotels repaired as babies, six still stand after twenty years, 60% and 20 painted (audited tree trunk, coffin)
+# late deaths are often tied to reoperations (D wrong); far fewer than half need a new truncal door by 10 years (E wrong)
+title: After truncus arteriosus repair, long-term survival is about 60 percent at 20 years
+titleAr: بعد إصلاح الجذع الشريانيّ المشترك يبلغ البقاء البعيد نحو 60 في المئة بعد 20 سنة
+tags: cardiac/congenital d:evidence q:numbers l:3
+palette: Gecko Islands sea blue, trunk brown and candle gold
+words: 60%, 20
+keywords: truncus arteriosus -> a HART Hotel built round one thick tree trunk rising from both engine rooms; long-term survival 60 percent at 20 years -> of ten such hotels repaired as babies, six still standing on a hill after twenty years, 60% and 20 painted beside them; late deaths -> four coffins, several beside a workbench where conduits were replaced; truncal valve replacement -> a new door for the shared valve, needed by only a few
+must: six of the ten tree-trunk hotels still stand after twenty years
+scene: A hill on the Gecko Islands at sunset. CENTRE, dominant and brightest: ten HART Hotels built round one thick tree trunk, repaired long ago; six still standing in the sun, four replaced by coffins, several of them beside a workbench where conduits were replaced; 60% and 20 painted on a sign. AROUND, dimmer: one shared valve door being replaced. LEFT: Usopp counting on his fingers. Chopper.
+story:
+على تلّ في جزر غيكو عند الغروب، وقفت عشرة فنادق بني كلّ منها حول جذع واحد، أصلحت وهي رضّع قبل عشرين سنة.
+«أصلحت كلّها، فهي قائمة كلّها إلى الأبد!» قال أوسوب، وأخذ يعدّ على أصابعه.
+لكنّه لم يعدّ في الشمس إلّا ستّة فنادق؛ وأربعة توابيت مكان الباقية.
+وكان بعض التوابيت بجانب طاولة عمل، أبدلت عليها الجسور إلى أنابيب الدولارات مرّةً بعد مرّة.
+وقليل من الفنادق احتاج إلى باب جديد لجذعه المشترك.
+فأنزل أوسوب أصابعه، ووضع زهرةً على كلّ تابوت.
+«ستّة جذوع من عشرة تقف بعد عشرين سنة!» قال تشوبر.
+quote:
+source:
+explanation:
+Long-term survival after repair of truncus arteriosus is about 60 percent at 20 years: C.
+Early mortality has fallen to around 5 to 10 percent, but late deaths continue, often linked to reoperations for conduit replacement and to truncal valve disease.
+Truncal valve insufficiency at repair, an interrupted arch and coronary anomalies are the main risk factors; replacement of a truncal valve that was competent at repair is uncommon.
+In the picture, six of the ten hotels still stand after twenty years.
+Memory hook: six trunks in ten still stand at twenty.
+
+== 346
+# book 73.1: true about the anatomic forms of TAPVC -> D, the mixed form occurs in about 10 percent.
+# ANSWER: at the water towers of Water 7, of the four tap forms (above, at the heart, below, mixed), the mixed one with taps at two levels is the rarest, 10% on it (audited water tap)
+# supracardiac is the commonest, not 10-15 percent (A wrong); the hole in the upper wall is needed to live (E wrong)
+title: Mixed TAPVC occurs in about 10 percent
+titleAr: النوع المختلط من العودة الوريديّة الرئويّة الشاذّة الكلّيّة يحدث في نحو 10 في المئة
+tags: cardiac/congenital d:anatomy q:numbers l:2
+palette: Water 7 waterworks blue, tap brass and stone grey
+words: 10%
+note: Series differ: some put the infracardiac form at 20 to 25 percent, as option C says; the book's figures make D its answer.
+keywords: TAPVC -> the pipes of green dollar bills coming back from the lungs gathered into one collecting pipe that pours through a single water tap into the wrong (blue) side; supracardiac form -> the tap up high, emptying into the chimney; cardiac form -> the tap at the heart, emptying into the crowned sink or the blue lobby; infracardiac form -> the tap below, running down through the floor into the big blue drainpipe; mixed form -> taps at two different levels at once, the rarest, 10% painted on it; atrial septal defect -> the hole in the upper party wall that lets the water reach the red side, needed to live
+must: four tap forms are shown; the mixed one, with taps at two levels, is the rarest and carries 10%
+scene: The water towers of Water 7. CENTRE, dominant and brightest: four HART Hotels whose pipes of dollar bills gather into one collecting pipe pouring through a brass water tap into the wrong side: one tap up high into the chimney (the biggest crowd round it); one at the heart into the crowned sink; one running down through the floor into the big blue drainpipe; and one hotel with taps at two different levels at once, small, 10% painted on it. Each with a hole in the upper party wall. LEFT: Usopp. Chopper.
+story:
+عند أبراج الماء في ووتر سيفن، وقفت أربعة فنادق تجتمع أنابيب دولاراتها في أنبوب واحد يصبّ من صنبور نحاسيّ في الجهة الخطأ.
+في الأوّل صنبور عال يصبّ في المدخنة، وحوله أكبر الزحام؛ وفي الثاني صنبور عند القلب يصبّ في المغسلة ذات التاج.
+وفي الثالث صنبور ينزل عبر الأرض إلى أنبوب التصريف الأزرق الكبير.
+«والرّابع ذو الصنبورين على مستويين مختلفين أكثرها شيوعًا!» قال أوسوب.
+لكنّ الرابع كان أندرها، لا يزوره إلّا واحد من كلّ عشرة.
+وفي كلّ فندق منها ثقب في الجدار العلويّ، لولاه لما بلغ الماء الجهة الحمراء أبدًا.
+«صنبوران على مستويين: واحد من عشرة!» قال تشوبر.
+quote:
+source:
+explanation:
+The mixed form of TAPVC occurs in about 10 percent: D.
+The supracardiac form, draining to the innominate vein or SVC through a vertical vein, is the most common, close to half of cases; cardiac (to the coronary sinus or right atrium) and infracardiac (below the diaphragm) forms make up most of the rest.
+An interatrial communication is essential: it is the only route by which blood reaches the left heart.
+In the picture, of the four tap forms, the mixed one with taps at two levels is the rarest, 10 percent.
+Memory hook: taps at two levels: one in ten.
+
+== 347
+# book 73.2: correct about the presentation of TAPVC -> B, unobstructed TAPVC may present late.
+# ANSWER: on Spa Island, a baby whose tap flows freely plays for weeks and comes in late; the baby whose tap is pinched is blue and soggy at birth (audited water tap, soggy)
+# the big crowned sink belongs to the cardiac form, not the supracardiac (C wrong); a tap draining below the floor is usually pinched (D wrong); the right side is big and the left small (E wrong) (audited sink)
+title: Unobstructed TAPVC may present late
+titleAr: العودة الوريديّة الرئويّة الشاذّة الكلّيّة غير المسدودة قد تتأخّر أعراضها
+tags: cardiac/congenital d:diagnosis q:recall l:2
+palette: Spa Island steam white, tap brass and baby pink
+keywords: TAPVC -> the pipes of green dollar bills from the lungs gathered into one collecting pipe that pours through a single water tap into the wrong side; unobstructed -> a tap flowing freely, its baby playing for weeks and coming in late; obstructed -> a tap pinched shut, its baby blue at birth with soggy dollar bills dripping in the money sacks; cardiac form -> a big crowned sink in the blue lobby's floor; right-sided enlargement -> the blue rooms swollen, the red ones small
+must: the baby with the free-flowing tap plays and comes late; the baby with the pinched tap is blue and soggy at birth
+scene: Spa Island, hot springs and steam. CENTRE, dominant and brightest: two babies with HART Hotels whose money pipes gather into one collecting pipe pouring through a brass water tap: one tap flowing freely, its pink baby playing in the warm water, a calendar showing weeks gone by; the other tap pinched shut, its baby blue at birth, soggy dollar bills dripping in its money sacks. AROUND, dimmer: a big crowned sink; swollen blue rooms and small red ones. LEFT: Usopp. Chopper.
+story:
+في جزيرة الحمّامات الساخنة، جيء برضيعين تجتمع أنابيب دولاراتهما في أنبوب واحد يصبّ من صنبور في الجهة الخطأ.
+«كلاهما سيمرض يوم ولادته؛ هذا المرض لا ينتظر!» قال أوسوب.
+فأمّا الأوّل، فكان صنبوره مقروصًا مغلقًا، فازرقّ عند ولادته، وتبلّلت دولارات أكياسه وقطرت.
+فحمله تشوبر مسرعًا إلى غرفة العمليّات.
+وأمّا الثاني، فكان صنبوره يجري حرًّا، فلعب في الماء الدافئ أسابيع، ولم يأت إلّا متأخّرًا، يلهث قليلًا ولا يكبر.
+وفي كليهما، كانت الغرف الزرقاء منتفخة، والحمراء صغيرة.
+«صنبور حرّ، زيارة متأخّرة؛ صنبور مقروص، طوارئ!» قال تشوبر.
+quote:
+source:
+explanation:
+If the TAPVC is unobstructed, presentation may be delayed: B.
+With a free path back to the heart, the infant has a large left-to-right shunt and only mild cyanosis, and may present weeks or months later with breathlessness and poor growth.
+Obstructed TAPVC, typically the infracardiac form, presents in the first hours with severe cyanosis and pulmonary oedema and is a surgical emergency.
+A large coronary sinus belongs to the cardiac form, and echo shows a large right heart and small left-sided chambers.
+In the picture, the baby with the free-flowing tap plays for weeks, while the baby with the pinched tap is blue and soggy at birth.
+Memory hook: a free tap, a late visit; a pinched tap, an emergency.
+
+== 348
+# book 73.3: correct about TAPVC repair -> A, the Hawkins technique uses a right atrial approach.
+# ANSWER: on Sabaody, Basil Hawkins the fortune-teller enters through the right (blue) lobby, crosses the upper party wall and joins the collecting pipe to the back of the red lobby (audited water tap)
+# with the crowned sink type, the sink is opened into the RED side (B wrong); the duct-tape tunnel is tied, not used (C wrong); the vertical vein is usually tied (D wrong); no ice cube is needed for the cardiac form (E wrong) (audited sink, duct, ice cube)
+title: The Hawkins technique for TAPVC uses a right atrial approach
+titleAr: تقنية هوكينز لإصلاح العودة الوريديّة الرئويّة الشاذّة تمرّ عبر الأذين الأيمن
+tags: cardiac/congenital d:technique q:recall l:3
+palette: Sabaody grove green, tarot card gold and lobby blue
+keywords: Hawkins technique -> Basil Hawkins, the tall blond fortune-teller with tarot cards, entering through the right (blue) lobby, crossing the upper party wall and joining the collecting pipe behind to the back of the red lobby; TAPVC -> the pipes of green dollar bills from the lungs gathered into one collecting pipe that pours through a single water tap into the wrong side; coronary sinus type -> the crowned sink opened into the red lobby; vertical vein -> the collecting pipe's chimney-ward pipe, tied off; circulatory arrest -> a giant ice cube, set aside
+must: Hawkins goes in through the right lobby and across the upper party wall to the collecting pipe behind
+scene: The Sabaody Archipelago, where the rookie captains gathered. CENTRE, dominant and brightest: Basil Hawkins, the tall blond fortune-teller with tarot cards, stepping in through a HART Hotel's right, blue lobby, across its upper party wall, and joining the collecting pipe of the money pipes behind the hotel to the back of the red lobby; the water tap that poured into the wrong side now closed. AROUND, dimmer: a crowned sink opened into the red side; a tied-off pipe heading up to the chimney; a giant ice cube set aside. LEFT: Usopp. Chopper.
+story:
+في أرخبيل ساباودي، حيث اجتمع قادة القراصنة الجدد، جاء بازل هوكينز، العرّاف الأشقر الطويل بأوراق التاروت.
+فقد كانت أنابيب الدولارات في فندق تجتمع في أنبوب خلف الفندق، يصبّ من صنبور في الجهة الخطأ.
+«ندور إلى خلف الفندق، ونرفعه كلّه لنصل إليه!» قال أوسوب.
+لكنّ هوكينز قلب ورقة تاروت، وابتسم، ودخل من الردهة اليمنى الزرقاء.
+فعبر الجدار العلويّ إلى ظهر الردهة الحمراء، ووصله بالأنبوب المجتمع خلفها، وأغلق الصنبور الخاطئ.
+«أوراقي قالت: الطريق من اليمين!» قال هوكينز.
+«هوكينز يدخل من الردهة اليمنى!» قال تشوبر.
+quote:
+source:
+explanation:
+The Hawkins technique for TAPVC involves a right atrial approach: A.
+Through a right atriotomy carried across the atrial septum, the back of the left atrium is opened and joined to the pulmonary venous confluence lying behind it, and the septal defect is closed.
+In the coronary sinus type the sinus is unroofed into the left atrium; the ductus is ligated, the vertical vein is usually ligated, and circulatory arrest is not needed for the cardiac form.
+In the picture, Basil Hawkins enters through the blue lobby and crosses the upper wall to the collecting pipe behind.
+Memory hook: Hawkins comes in through the right lobby.
+
+== 349
+# book 73.4: correct about outcomes of TAPVC surgery -> E, the sutureless technique can be a primary repair in the mixed form.
+# ANSWER: in Green Bit, the tiny Tontatta tailors leave the money pipes' openings unstitched and sew a wide skirt of the aquarium's lining around them onto the red lobby (audited water tap)
+# recurrent narrowing comes in the first months (C wrong) and more in the forms below the floor and the mixed (D wrong); associated defects do raise the risk (B wrong)
+title: The sutureless technique can be a primary repair for mixed TAPVC
+titleAr: التقنية بلا خياطة يمكن أن تكون الإصلاح الأوّل للنوع المختلط من العودة الوريديّة الرئويّة الشاذّة
+tags: cardiac/congenital d:technique q:recall l:3
+palette: Green Bit leaf green, thread white and lobby red
+keywords: TAPVC -> the pipes of green dollar bills from the lungs gathered into one collecting pipe that pours through a single water tap into the wrong side; sutureless technique -> the tiny Tontatta tailors leaving the money pipes' openings unstitched and sewing a wide skirt of the glass tank's lining round them onto the red lobby, no stitch touching the pipes; mixed form -> taps at two different levels at once; recurrent pulmonary venous obstruction -> a money pipe's opening narrowing again in the first months
+must: no stitch touches the money pipes; the skirt is sewn around their openings onto the red lobby
+scene: Green Bit, the forest of the tiny Tontatta dwarves. CENTRE, dominant and brightest: tiny dwarf tailors leaving the openings of a HART Hotel's money pipes unstitched and sewing a wide skirt of the glass tank's lining round them onto the red lobby, no stitch touching the pipes; the hotel's money pipes once drained through taps at two levels. AROUND, dimmer: a money pipe's opening narrowing again on another hotel. LEFT: Usopp threading a big needle into a pipe. Chopper.
+story:
+في غابة غرين بت، موطن أقزام التونتاتّا، جيء بفندق كانت أنابيب دولاراته تصبّ من صنبورين على مستويين مختلفين.
+«أخيط كلّ أنبوب بالرّدهة الحمراء بإبرتي الكبيرة!» قال أوسوب، وأدخل خيطًا غليظًا في إبرة ضخمة.
+لكنّ الأنابيب كانت رقيقةً كورق الزهر، وحيث تمرّ الإبرة يتندّب الفتح ويضيق بعد أشهر.
+فجاء خيّاطو التونتاتّا الصغار، وتركوا فتحات الأنابيب دون غرزة واحدة.
+ثمّ خاطوا حولها تنّورةً عريضةً من بطانة الحوض الزجاجيّ على الردهة الحمراء، فصبّت الأنابيب فيها حرّة.
+فإذا الخياطة كلّها بعيدة عن الأنابيب، ولا يضيق فتح واحد.
+«خيطوا التنّورة، لا الأنبوب!» قال تشوبر.
+quote:
+source:
+explanation:
+The sutureless technique can be used as a primary repair in the mixed form of TAPVC: E.
+Instead of sewing to the delicate pulmonary veins, the surgeon sews the surrounding pericardium or atrial wall to the left atrium, so no stitches touch the vein openings; this lowers the risk of scarring and restenosis.
+It was first used for recurrent pulmonary vein stenosis and is now also used primarily in high-risk forms such as mixed or obstructed TAPVC.
+Recurrent obstruction usually appears within the first months after repair, more often with infracardiac and mixed forms, and associated cardiac anomalies raise the operative risk.
+In the picture, the Tontatta tailors sew a skirt round the openings without touching the pipes.
+Memory hook: sew the skirt, not the pipe.
+
+== 350
+# book 74.1: correct about the morphology of TGA -> B, D-TGA always goes with D-looping.
+# ANSWER: on Sabaody Park's roller coaster, the hotel with the orca and the money pipe swapped rides a track that loops to the RIGHT; the mirror hotel (corrected transposition) loops left (audited swapped, mirror)
+title: D-TGA is invariably associated with D-looping
+titleAr: تبدّل الشريانين الكبيرين من النمط D يرافقه دائمًا التفاف القلب إلى اليمين
+tags: cardiac/congenital d:anatomy q:recall l:2
+palette: Sabaody Park neon, roller-coaster red and orca blue
+keywords: transposition of the great arteries -> the orca and the dollar pipe swapped: the orca leaving the blue engine room, the dollar pipe the red one; D-looping -> the hotel's roller-coaster track looping to the RIGHT; congenitally corrected transposition -> the HART Hotel standing before a big mirror, its engine rooms and outflow pipes both swapped, its track looping to the LEFT; situs solitus -> the hotel's lobbies in their usual places
+must: the swapped hotel's roller-coaster track loops to the right; the mirror hotel's track loops to the left
+scene: The roller coaster of Sabaody Park at night. CENTRE, dominant and brightest: a HART Hotel whose orca and pipe of dollar bills are swapped, the orca leaving the blue engine room, riding a roller-coaster track that loops to the RIGHT. AROUND, dimmer: a HART Hotel standing before a big mirror, its track looping to the LEFT. LEFT: Usopp screaming on the loop. Chopper.
+story:
+في ملاهي ساباودي ليلًا، ركب قطار الملاهي الدوّار فندق تبادل فيه الحوت وأنبوب الدولارات مكانيهما.
+فالحوت عنده يخرج من الغرفة الزرقاء، وأنبوب الدولارات من الحمراء.
+«قطاره سيلتفّ إلى اليسار؛ فكلّ شيء فيه مقلوب!» صرخ أوسوب من مقعده.
+لكنّ القطار التفّ إلى اليمين، كما يلتفّ في الفنادق العاديّة، وردهتاه في مكانيهما المعتادين.
+أمّا الفندق الواقف أمام المرآة الكبيرة، الّذي تبادلت فيه الغرف والأنابيب كلاهما، فقد التفّ قطاره إلى اليسار.
+فدار أوسوب في الحلقة وهو يصرخ، ويتمسّك بقبّعته.
+«الفندق المتبادل يلتفّ إلى اليمين؛ وفندق المرآة إلى اليسار!» قال تشوبر.
+quote:
+source:
+explanation:
+D-TGA is invariably associated with D-looping of the ventricles: B.
+In simple (complete) transposition the atria are usually in their normal position (situs solitus), the heart tube loops to the right, and the aorta arises from the right ventricle, anterior and to the right of the pulmonary artery.
+L-TGA, with L-looping, is congenitally corrected transposition, in which both the ventricles and the great arteries are switched.
+In the picture, the swapped hotel's roller coaster loops to the right, while the mirror hotel's loops to the left.
+Memory hook: D for D: the swapped hotel loops right.
