@@ -1,0 +1,17 @@
+{
+ "file": "jh-q0117-explanation-en.m4a",
+ "sig": "dc88a04ea71302876ff6e8ea061a42380f840a500707801b3f9bf2872afefaf5",
+ "starts": [
+  0,
+  8622,
+  17152,
+  22638
+ ],
+ "seconds": 29.9,
+ "texts": [
+  "A roller pump is cheap, needs a low priming volume, keeps its flow despite changes in afterload, and can generate pulsatile flow.",
+  "Squeezing the tubing sheds microparticles from its wall, and that is a disadvantage, not an advantage: D is the answer.",
+  "Centrifugal pumps cause less blood trauma and cannot pump large volumes of air.",
+  "Memory hook: the rolling pin is cheap and needs only a small bucket, but its squeezed tube sheds white flakes."
+ ]
+}
