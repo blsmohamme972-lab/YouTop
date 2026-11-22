@@ -1,0 +1,292 @@
+book: johns-hopkins-2016
+# Lessons 381-390 (book 80.2-83.3: subdivided atria; Marfan and other connective tissue disorders; ALCAPA).
+# Written 2026-11-22, morning. Each story: a hook, a wrong try that fails, the answer acting, a payoff line that names
+# the symbol, and a lead-in that says who speaks the quotation and why it fits.
+# OCR misprints of 382, 384, 385 and 390 are mended by the book's 'typos' map ("4 em" -> "4 cm", "ofMarfan").
+# 384 E keeps the book's printed "1 5 mm/year" (the value is not known); the story and explanation give no number for it.
+# 388: the book's key (B) is kept; a note says E is also true.
+# QUOTATION PENDING (all ten): the pool of One Piece lines allowed by quoteRepeats is exhausted; the owner decides.
+# The stories stop at the payoff; add the lead-in and Q lines before building.
+
+== 381
+# book 80.2: true about the surgical management of subdivided atrium -> B, urgent repair is indicated in older patients with chronic symptoms.
+# ANSWER: in a glass workshop, an older sailor breathless for years behind a narrow window in the glass partition of his third atrium lobby is taken in at once, and the partition is cut away (audited third atrium lobby)
+# not every repair needs the ice cube (C wrong); in infants the partition is usually reached through the blue lobby and the upper wall (D wrong) (audited ice cube)
+title: Subdivided left atrium: older patients with chronic symptoms need urgent repair
+titleAr: الأذين الأيسر المقسوم: يحتاج المرضى الأكبر سنًّا ذوو الأعراض المزمنة إلى إصلاح عاجل
+tags: cardiac/congenital d:indications q:recall l:3
+palette: glass-workshop amber, partition clear and lobby red
+keywords: subdivided left atrium -> a third atrium lobby made by an extra glass partition across the red lobby, the money pipes emptying above it through a narrow window; chronic symptoms in an older patient -> an older sailor, breathless for years, his money sacks soggy; urgent repair -> the sailor taken in at once and the glass partition cut away; circulatory arrest -> a giant ice cube, not needed for most; approach in infants -> the surgeon going in through the blue lobby and across the upper party wall
+must: the older breathless sailor is taken in at once and the glass partition is cut away
+scene: A glass-blower's workshop, amber light. CENTRE, dominant and brightest: an older sailor, breathless, his money sacks soggy, being taken straight in while Chopper cuts away an extra glass partition across his HART Hotel's red lobby, the money pipes behind it emptying through a narrow window. AROUND, dimmer: a giant ice cube set aside; a surgeon's path through the blue lobby and the upper party wall. LEFT: Usopp writing "next year" on a calendar.
+story:
+في ورشة نافخ زجاج في ووتر سفن، دخل بحّار عجوز يلهث؛ وفي ردهة فندقه الحمراء حاجز زجاجيّ إضافيّ، يصنع ردهةً ثالثةً لا يعبر منها الماء إلّا من نافذة ضيّقة.
+وكان يلهث هكذا منذ سنين، وأكياس دولاراته مبتلّة تقطر.
+«تلهث منذ سنين، فلا عجلة؛ عد إلينا في العام القادم!» قال أوسوب، وكتب اسمه في رزنامة العام القادم.
+لكنّ العجوز لم يقدر أن يصعد درجةً واحدة، فجلس على عتبة الورشة يلهث.
+فأدخله تشوبر في الحال، ومن غير أن يجمّد الفندق في مكعّب ثلج عملاق، قصّ الحاجز الزجاجيّ كلّه.
+فجرى الماء حرًّا، وجفّت الأكياس، وتنفّس البحّار ملء صدره لأوّل مرّة منذ سنين.
+«بحّار يلهث خلف الزجاج، لا ينتظر العام القادم!» قال تشوبر.
+quote:
+source:
+explanation:
+In subdivided left atrium, urgent repair is indicated in older patients with chronic symptoms: B.
+Once the obstructing membrane causes symptoms, from pulmonary venous congestion and pulmonary hypertension, there is no reason to wait: resecting it relieves the obstruction completely.
+Most infants with a tight opening die without treatment; repair is done on bypass, usually through the right atrium and the atrial septum, without the need for circulatory arrest in all.
+In the picture, the breathless older sailor is taken in at once and the glass partition is cut away.
+Memory hook: a breathless sailor behind glass is not made to wait.
+
+== 382
+# book 80.3: correct about the physiology of a subdivided atrium -> C, cyanosis is frequent from preferential IVC flow through an ASD (subdivided right atrium).
+# ANSWER: in the blue lobby a great sail-like membrane steers the big blue drainpipe's water straight through the hole in the upper party wall into the red side, and the sailor's lips turn blue (audited drainpipe, upper party wall, blue lips)
+# the key trouble on the left is the money pipes' return being blocked, not the money pipe's outflow (E wrong)
+title: In a subdivided right atrium, IVC flow streams through an ASD and causes cyanosis
+titleAr: في الأذين الأيمن المقسوم يتدفّق دم الوريد الأجوف السفليّ عبر الفتحة الأذينيّة فيسبّب الزرقة
+tags: cardiac/congenital d:physiology q:recall l:3
+palette: blue-lobby indigo, sail white and lip violet
+keywords: subdivided right atrium -> a great sail-like membrane stretched across the blue atrium lobby; preferential IVC flow -> the big blue drainpipe's water steered by the sail straight across the lobby; ASD -> a hole in the thin upper party wall between the two glass-roofed lobbies; cyanosis -> the sailor's bright blue lips and fingertips; subdivided left atrium -> a third atrium lobby, made by a glass partition in the red lobby, blocking the money pipes' return, elsewhere
+must: the sail steers the drainpipe's water straight through the upper wall's hole into the red side, and the lips turn blue
+scene: A cut-open HART Hotel. CENTRE, dominant and brightest: a great white sail-like membrane stretched across the blue lobby, steering the water from a big blue drainpipe coming up from below straight through a hole in the thin upper party wall into the red lobby; beside it a sailor with bright blue lips and fingertips. AROUND, dimmer: another hotel whose red lobby has a glass partition blocking the money pipes' return. LEFT: Usopp looking for a blocked money pipe. Chopper.
+story:
+في حانة الحوض المائيّ على الثاوزند صني، جلس بحّار شفتاه زرقاوان كالحبر، وأطراف أصابعه زرقاء مثلهما.
+«لا بدّ أنّ أنبوبًا من أنابيب الدولارات مسدود في فندقه؛ سأجده!» قال أوسوب، وأخذ يطرق الأنابيب واحدًا واحدًا.
+لكنّ الأنابيب كلّها كانت مفتوحةً تجري، وبقيت الشفتان زرقاوين.
+فنزل تشوبر إلى الردهة الزرقاء، فإذا شراع أبيض كبير مشدود عبرها.
+كان الشراع يلتقط ماء أنبوب التصريف الأزرق الكبير الصاعد من تحت، ويوجّهه إلى ثقب في الجدار العلويّ، فيعبر إلى الجهة الحمراء.
+فكان الماء الأزرق يخرج إلى المدينة دون أن يمرّ بأكياس الدولارات؛ ولهذا ازرقّت الشفاه.
+«الشراع في الردهة الزرقاء يرسل ماء التصريف إلى الجهة الحمراء!» قال تشوبر.
+quote:
+source:
+explanation:
+Cyanosis is frequent in a subdivided right atrium, because the membrane (a large persistent valve of the IVC) directs IVC blood preferentially through an ASD: C.
+In a subdivided left atrium, the key haemodynamic feature is obstruction of pulmonary venous return, not of pulmonary arterial outflow.
+There, a small opening in the membrane with an intact atrial septum gives the worst pulmonary hypertension, while a large ASD into the proximal chamber decompresses it.
+In the picture, the sail steers the drainpipe's water straight through the upper wall's hole, and the sailor's lips turn blue.
+Memory hook: a sail in the blue lobby sends the drainpipe's water to the red side.
+
+== 383
+# book 82.1: correct about the pathophysiology of connective tissue disorders -> E, molecular events in the adventitia may help cause aneurysms.
+# ANSWER: on the outer skin of the orca balloon, tiny repair crews at work or idle decide where the pink bubble-gum bubble swells (audited orca, bubble gum)
+# the marionette lacks fibrillin-1, not -2 (A wrong); the rubber-skin man lacks collagen type III (B wrong); TGF-beta raises collagen, not lowers it (D wrong) (audited marionette)
+title: Molecular events in the adventitia may play a role in aneurysm formation
+titleAr: قد تؤدّي الأحداث الجزيئيّة في الطبقة الخارجيّة دورًا في تكوّن أمّ الدم
+tags: cardiac/aorta d:pathology q:recall l:3
+palette: orca skin blue, crew yellow and bubble pink
+keywords: aneurysm -> a big pink bubble-gum bubble bulging out of the orca's wall; adventitia -> the orca balloon's outer skin, where tiny repair crews in yellow helmets work or stand idle, deciding where the bubble swells; Marfan syndrome -> a very tall, lanky wooden marionette with spider-long fingers, its strings frayed (fibrillin-1); vascular Ehlers-Danlos -> a rubber-skinned man whose skin stretches like dough (collagen type III); TGF-beta signalling -> loud messengers shouting orders to the crews
+must: the bubble swells where the crews on the orca's outer skin stand idle
+scene: A dockside where an orca balloon is moored. CENTRE, dominant and brightest: the orca balloon's outer skin with tiny repair crews in yellow helmets, busy in some places and standing idle in one, where a big pink bubble-gum bubble swells out of its wall. AROUND, dimmer: a very tall, lanky wooden marionette with frayed strings; a rubber-skinned man stretching his skin like dough; messengers shouting orders. LEFT: Usopp poking the inner lining. Chopper.
+story:
+في ميناء جزيرة رجال السمك، كان حوت عملاق مربوطًا إلى الرصيف، وعلى جلده الخارجيّ فرق إصلاح صغيرة بخوذ صفراء.
+وفجأةً، أخذت فقّاعة علكة ورديّة كبيرة تنتفخ من جنبه.
+«العيب في البطانة من الداخل؛ ولا شأن للجلد الخارجيّ بهذا!» قال أوسوب، وأخذ ينكز بطانة الحوت من الداخل بعصًا طويلة.
+لكنّ البطانة كانت سليمةً تحت عصاه، وظلّت الفقّاعة تكبر.
+فصعد تشوبر إلى ظهر الحوت، فإذا الفرق تعمل بجدّ في كلّ مكان، إلّا عند الفقّاعة: هناك وقفت فرقة واحدة عاطلةً تتثاءب.
+فأيقظها تشوبر، فعادت ترقع الجلد الخارجيّ، فلم تكبر الفقّاعة بعد ذلك شعرةً واحدة.
+«الفقّاعة تنتفخ حيث تنام فرق الجلد الخارجيّ!» قال تشوبر.
+quote:
+source:
+explanation:
+Molecular events in the adventitia may have a role in aneurysm formation: E.
+Aneurysms are no longer seen only as a failure of the media: inflammation, matrix-degrading enzymes and signalling in the adventitia and its small vessels also weaken the wall.
+Marfan syndrome is caused by deficiency of fibrillin-1, vascular Ehlers-Danlos syndrome by abnormal type III collagen, and excessive TGF-beta signalling increases, rather than decreases, collagen synthesis and matrix remodelling.
+In the picture, the bubble swells where the crews on the orca's outer skin stand idle.
+Memory hook: the outer skin's crews help decide where the bubble swells.
+
+== 384
+# book 82.2: NOT a clinical feature of Marfan syndrome -> D, aortic regurgitation common once the root reaches 4 cm.
+# ANSWER: the marionette's salsa bowls round the orca's base swell, but the orca's mouth only starts dripping once they are past 5, not at 4 (audited marionette, salsa, mouth)
+# a quarter are new in their family (A); the babies' trouble is the mitre (B); in older teenagers the swollen root bursts (C)
+title: In Marfan syndrome, aortic regurgitation is not common at a root of only 4 cm
+titleAr: في متلازمة مارفان لا يكثر القلس الأبهريّ عند جذر قطره 4 سم فقط
+tags: cardiac/aorta d:pathology q:recall l:3
+palette: marionette wood, salsa red and orca blue
+words: 4, 5
+keywords: Marfan syndrome -> a very tall, lanky wooden marionette with spider-long fingers and loose floppy joints; aortic root dilatation -> the three round bowls of red salsa round the base of the orca balloon swelling wider; aortic regurgitation -> the orca's mouth gurgling water back into the red engine room, starting only once the bowls pass 5, dry at 4; infantile Marfan -> a baby marionette whose bishop's mitre billows like a sail; de novo cases -> a marionette whose parents are ordinary people
+must: at 4 the orca's mouth is still dry; it only starts dripping once the salsa bowls pass 5
+scene: A puppet theatre. CENTRE, dominant and brightest: a very tall, lanky wooden marionette beside his HART Hotel, the three round bowls of red salsa round the base of his orca balloon swelling, a measuring tape showing 4 with the orca's mouth still dry, and a second marionette's bowls past 5 with its mouth gurgling back. AROUND, dimmer: a baby marionette whose bishop's mitre billows like a sail; a marionette with two ordinary parents. LEFT: Usopp. Chopper.
+story:
+في مسرح الدمى بدريسروزا، وقفت دميتان خشبيّتان طويلتان، أصابعهما كأرجل العناكب، تروّحان عن نفسيهما بمروحتين قرمزيّتين.
+وحول قاعدة حوت كلّ منهما، فوق فمه تمامًا، ثلاثة أطباق من الصلصة الحمراء تنتفخ.
+«أطباق الأولى بلغت أربعة؛ فلا بدّ أنّ فم حوتها يقطّر الآن!» قال أوسوب، ووضع دلوًا تحت الفم.
+لكنّ الدلو بقي جافًّا، فالفم عند الأربعة ما زال مطبقًا محكمًا.
+أمّا الدمية الثانية، فقد تجاوزت أطباقها الخمسة، فانفرجت شفاه فمها، وأخذ الماء يرجع منه قطرةً بعد قطرة.
+فنقل تشوبر الدلو إليها، وأرسلها إلى الجرّاح قبل أن تنفجر أطباقها.
+«عند الأربعة يبقى فم الدمية جافًّا، وبعد الخمسة يبدأ التقطير!» قال تشوبر.
+quote:
+source:
+explanation:
+Aortic regurgitation being common once the root reaches 4 cm is not a clinical feature of Marfan syndrome: D.
+Regurgitation usually appears later, as the sinuses and the sinotubular junction dilate beyond about 5 cm.
+About a quarter of cases arise de novo, the infantile form is dominated by mitral valve disease, and rupture or dissection of an enlarged root is the leading cause of death in older adolescents and young adults.
+Rapid growth of the root raises the risk of dissection.
+In the picture, at 4 the orca's mouth is still dry; it starts dripping only once the salsa bowls pass 5.
+Memory hook: the marionette's mouth stays dry at four.
+
+== 385
+# book 82.3: NOT an indication for surgery in connective tissue disorders -> E, an 8-year-old with a z-score over 3.
+# ANSWER: in a school playground, an 8-year-old marionette whose salsa bowls read only 3 on the z-ruler is sent back to play, while the others are taken to surgery (audited marionette, salsa, bicycle, gurgling)
+title: A z-score over 3 in an 8-year-old is not by itself an indication for root surgery
+titleAr: درجة z فوق 3 عند طفل في الثامنة ليست وحدها استطبابًا لجراحة الجذر
+tags: cardiac/aorta d:indications q:recall l:3
+palette: playground green, ruler yellow and salsa red
+words: 3, 5, 12
+keywords: connective tissue disorder -> a very tall, lanky wooden marionette with spider-long fingers; z-score over 3 in an 8-year-old -> a child marionette whose three salsa bowls round the orca's base read only 3 on a z-ruler, sent back to play; Marfan root of 5 cm -> a grown marionette whose salsa bowls reach 5, taken to surgery; bicuspid valve with growth of 12 mm in a year -> a bicycle in the orca's mouth and bowls that grew 12 in a year, taken to surgery; progressive aortic insufficiency -> an orca mouth gurgling more and more, taken to surgery; family history of early dissection -> a family album with a zipper torn on a young relative's orca, taken to surgery
+must: only the 8-year-old with a z-score of 3 is sent back to play; the four others go to surgery
+scene: A school playground. CENTRE, dominant and brightest: an 8-year-old child marionette whose three salsa bowls round the orca's base read 3 on a z-ruler, being sent back to the swings. AROUND, being led to an operating room: a grown marionette whose salsa bowls reach 5; a bicycle in an orca's mouth beside bowls that grew 12 in a year; an orca mouth gurgling more and more; a family album with a zipper torn on a young relative's orca. LEFT: Usopp. Chopper.
+story:
+في ساحة اللعب بقرية سيروب، اصطفّت خمس دمًى خشبيّة طويلة أمام باب الجرّاح، تنتظر دورها.
+في أوّل الصفّ دمية صغيرة في الثامنة؛ وضع تشوبر على أطباق صلصتها مسطرةً صفراء عليها حرف زد، فقرأت ثلاثة.
+«ثلاثة على المسطرة! أدخلوها أوّلًا، قبل الجميع!» صاح أوسوب، ودفعها نحو الباب.
+لكنّ تشوبر ردّها بلطف إلى الأرجوحة؛ فهي طفلة تكبر، وأطباقها لم تبلغ بعد حدّ الخطر.
+ثمّ أدخل الأربع الباقية: دميةً كبيرةً بلغت أطباقها خمسة، ودميةً في فم حوتها درّاجة كبرت أطباقها اثني عشر في عام واحد.
+ودميةً يزداد تقطير فمها يومًا بعد يوم، وأخرى في ألبوم عائلتها قريب شابّ انشقّ سحّاب حوته.
+«ثلاثة في الثامنة من العمر: إلى الأرجوحة، لا إلى الجرّاح!» قال تشوبر.
+quote:
+source:
+explanation:
+An 8-year-old patient with a z-score over 3 is not, by that alone, an indication for surgery: E.
+In children the absolute size, the rate of growth and the type of disorder matter more than a moderate z-score.
+Indications include a root of about 5 cm in Marfan syndrome (less in Loeys-Dietz), rapid growth, progressive aortic insufficiency and a family history of premature dissection.
+In the picture, only the 8-year-old with a z-score of 3 goes back to play.
+Memory hook: a z of three sends the child back to the swings.
+
+== 386
+# book 82.4: NOT suitable for valve-sparing root replacement -> B, asymmetric valve prolapse.
+# ANSWER: young David with his sling keeps the orca's own mouth for the torn zipper, the small collar, the bicycle and the mitre repaired beside it, but turns away a mouth whose one leaf billows like a sail (audited david, sail, zipper, bicycle, mitre, collar)
+title: Asymmetric leaflet prolapse makes valve-sparing root replacement unsuitable
+titleAr: هبوط الوريقة غير المتناظر يجعل استبدال الجذر مع الحفاظ على الصمّام غير مناسب
+tags: cardiac/aorta d:indications q:recall l:3
+palette: shepherd green, sling brown and orca blue
+keywords: valve-sparing root replacement -> young David with his sling over his shoulder gently keeping the orca's own mouth and slipping a new fabric root around it; asymmetric valve prolapse -> one leaf of the orca's mouth billowing up like a ship's sail, much more than the others, turned away; acute aortic dissection -> a long zipper torn open in the orca's wall, David still working; annulus of 20 mm -> a small brass collar, David still working; bicuspid aortic valve -> a bicycle wedged in the orca's mouth, David still working; simultaneous mitral repair -> the bishop's mitre being repaired at the same time, David still working
+must: David keeps the mouths with the zipper, the small collar, the bicycle and the mitre; only the mouth with one billowing sail is turned away
+scene: A green shepherd's hill. CENTRE, dominant and brightest: young David with his sling turning away an orca balloon whose mouth has one leaf billowing up like a ship's sail. AROUND, where David is gently at work keeping the orca's own mouth: an orca with a long zipper torn open in its wall; an orca with a small brass collar; an orca with a bicycle in its mouth; a hotel whose bishop's mitre is repaired beside it. LEFT: Usopp. Chopper.
+story:
+على تلال زو الخضراء فوق ظهر الفيل العملاق، كان الراعي الصغير ديفيد، مقلاعه على كتفه، يبقي أفواه الحيتان في أماكنها، ويلفّ حولها أنبوبًا أبيض من القماش.
+فجاءه حوت في جلده سحّاب ممزّق، وحوت طوقه النحاسيّ صغير، وحوت في فمه درّاجة، وفندق يصلح تاج أسقفه في الوقت نفسه؛ فأبقى ديفيد أفواهها كلّها.
+ثمّ جاء حوت أخير، إحدى ورقات فمه تنتفخ إلى أعلى كشراع ملأته الريح، أكثر من أختيها بكثير.
+«أبقه هو أيضًا يا ديفيد؛ نشدّ الشراع بخيط وننتهي!» قال أوسوب.
+فشدّ أوسوب الخيط، لكنّ الورقات الثلاث لم تلتق، وظلّ الماء يرجع من بينها.
+فهزّ ديفيد رأسه، وأرسل هذا الحوت وحده إلى طبيب الأسنان وطقمه الجديد.
+«ديفيد يبقي كلّ فم، إلّا الفم الّذي فيه شراع!» قال تشوبر.
+quote:
+source:
+explanation:
+Asymmetric valve prolapse makes a patient unsuitable for valve-sparing root replacement: B.
+The operation relies on leaflets that will coapt well once the root is rebuilt; marked, uneven prolapse or damaged cusps make a durable repair unlikely.
+Acute dissection, a small annulus, a bicuspid valve with good cusps and concomitant mitral repair do not by themselves rule it out.
+In the picture, David keeps the orca's own mouth for the others but turns away the one with a billowing sail.
+Memory hook: David keeps every mouth except the one with a sail.
+
+== 387
+# book 82.5: true about outcomes in connective tissue disorders -> A, remodelling techniques should be considered obsolete for children.
+# ANSWER: the remodelling tailor sews a new root but leaves the collar free, and in children it stretches; David's reimplantation, holding the collar inside the new fabric, lasts (audited david, collar)
+title: In children with connective tissue disorders, root remodelling should be considered obsolete
+titleAr: عند الأطفال المصابين باضطرابات النسيج الضامّ ينبغي اعتبار تقنية إعادة تشكيل الجذر بائدة
+tags: cardiac/aorta d:technique q:recall l:3
+palette: tailor's shop cream, collar brass and fabric white
+keywords: remodelling technique -> a tailor sewing a new fabric root to the orca's mouth but leaving the brass collar free, which stretches wide as the child grows; reimplantation -> young David slipping the whole mouth, collar and all, inside the new fabric root, so the collar cannot stretch; connective tissue disorder -> a very tall, lanky wooden marionette; late aortic regurgitation -> the stretched mouth gurgling back years later
+must: the remodelled child's free collar stretches and the mouth leaks; the reimplanted mouth stays tight
+scene: A tailor's shop. CENTRE, dominant and brightest: two child marionettes' orca balloons: one with a new fabric root sewn on but its brass collar left free, stretched wide years later and its mouth gurgling back; one with the whole mouth and collar slipped inside the new fabric by young David with his sling, still tight. LEFT: Usopp praising the first tailor. Chopper.
+story:
+في دكّان خيّاط بلوغ تاون، جيء بدميتين خشبيّتين صغيرتين، قد انتفخت أطباق الصلصة حول فم حوت كلّ منهما.
+فخاط الخيّاط للأولى جذرًا جديدًا من القماش الأبيض حول فمها، لكنّه ترك الطوق النحاسيّ حرًّا خارجه.
+«يا لها من خياطة أنيقة؛ هذه أسرع طريقة وأجملها!» قال أوسوب، وصفّق للخيّاط.
+لكنّ الدمية كبرت، وتمدّد الطوق الحرّ معها عامًا بعد عام، حتّى انفرج الفم وعاد الماء يرجع منه.
+أمّا الثانية، فأخذها الراعي الصغير ديفيد، وأدخل الفم كلّه بطوقه النحاسيّ داخل أنبوب القماش، وخاطه هناك.
+فكبرت الثانية سنين، وطوقها محبوس في القماش لا يتمدّد، وفمها محكم لا يقطّر.
+«عند الصغار، لا تتركوا الطوق حرًّا!» قال تشوبر.
+quote:
+source:
+explanation:
+Remodelling techniques should be considered obsolete for pediatric patients with connective tissue disorders: A.
+Remodelling replaces the sinuses but leaves the annulus unsupported, so in these patients it tends to dilate and the valve leaks again.
+Reimplantation (the David operation) fixes the annulus inside the graft and has become the preferred valve-sparing operation in children and young adults with these disorders.
+Replacing the root does not end the disease, since the rest of the aorta stays at risk, and Ehlers-Danlos patients carry a much higher surgical risk because of fragile tissues.
+In the picture, the free collar stretches and leaks, while David's reimplanted mouth stays tight.
+Memory hook: in a child, leave no collar free.
+
+== 388
+# book 83.1: correct about ALCAPA -> B, it is the commonest cause of myocardial infarction in childhood.
+# ANSWER: Al Capone bolts the crown's left spike to the money pipe, and in a playground the stag over a child's hotel falls, the commonest child's heart attack (audited capone, stag)
+title: ALCAPA is the most common cause of myocardial infarction in childhood
+titleAr: منشأ الشريان التاجيّ الأيسر الشاذّ من الشريان الرئويّ أشيع أسباب احتشاء القلب عند الأطفال
+tags: cardiac/congenital d:pathology q:recall l:2
+palette: pinstripe grey, crown green and stag brown
+note: The book's key is B. Option E is also true in the usual sense: as pulmonary resistance falls, blood runs from the right coronary through collaterals into the left coronary and out into the pulmonary artery, a coronary steal.
+keywords: ALCAPA -> Al Capone in a pinstripe suit bolting the left spike of the Liberty crown onto the pipe of dollar bills; myocardial infarction in childhood -> the stag over a child's hotel door brought down by an arrow, the commonest child's heart attack; presentation at 6 to 8 weeks -> the pink newborn turning ill only when the wooden blocks in the money pipe fall; coronary steal -> water from the crown's right spike running round through side paths into the left spike and out into the money pipe
+must: Al Capone's bolt leads to the stag falling over a child's hotel
+scene: A playground. CENTRE, dominant and brightest: Al Capone in a pinstripe suit bolting the left spike of the Statue of Liberty's green crown onto the pipe of dollar bills of a child's HART Hotel, and the stag over that hotel's door brought down by an arrow. AROUND, dimmer: water from the right spike running round through side paths into the left spike and out into the money pipe; a calendar at six weeks. LEFT: Usopp. Chopper.
+story:
+في مدينة الملاهي بساباودي، تسلّل رجل عصابات ببدلة مقلّمة، اسمه آل كابوني، إلى فندق طفل صغير.
+ففكّ الشوكة اليسرى من تاج الحرّيّة الأخضر، وثبّتها بمسمار على أنبوب الدولارات.
+«الطفل يلعب ويضحك؛ فما الّذي يخيف في مسمار صغير؟» قال أوسوب، وركب قطار الملاهي.
+وصدق أيّامًا؛ فالأنبوب المحشوّ بالمكعّبات الخشبيّة كان يدفع ماءه إلى الشوكة بقوّة.
+لكن في الأسبوع السادس، تساقطت المكعّبات من الأنبوب، فهبط ماؤه، وعطشت الشوكة اليسرى.
+فسقط الأيّل فوق باب الفندق بسهم، وصار الطفل يبكي كلّما رضع.
+«مسمار كابوني هو أكثر ما يسقط أيّل الصغار!» قال تشوبر.
+quote:
+source:
+explanation:
+ALCAPA is the most common cause of myocardial infarction in childhood: B.
+The left coronary artery, most often arising from the posterior-facing sinus of the pulmonary artery, receives low-pressure, desaturated blood; as pulmonary pressure falls in the first weeks, perfusion fails and infarction follows.
+Infants are usually well at birth and present at about 6 to 8 weeks with irritability, feeding problems and heart failure, often with mitral regurgitation.
+Flow then reverses: blood from the right coronary runs through collaterals into the left system and out into the pulmonary artery, a coronary steal.
+In the picture, Al Capone's bolt leads to the stag falling over a child's hotel.
+Memory hook: Capone's bolt is the commonest way a child's stag falls.
+
+== 389
+# book 83.2: true about ALCAPA repair -> E, the classic Takeuchi operation uses a flap of the anterior PA wall to build a baffle.
+# ANSWER: in Wano, the carpenter Takeuchi takes a flap from the money pipe's front wall and builds a tunnel inside the pipe, leading the orca's water to the stolen left spike (audited capone, crown)
+# no waiting 4 to 6 weeks (A wrong); a weak fan and a leaking mitre usually recover after repair, no new flowerpot needed (B, C wrong); the lima bean vine is not the standard in children (D wrong) (audited flowerpot, lima bean)
+title: The classic Takeuchi operation builds a baffle from a flap of the anterior pulmonary artery wall
+titleAr: عمليّة تاكيوتشي التقليديّة تبني نفقًا من شريحة من الجدار الأماميّ للشريان الرئويّ
+tags: cardiac/congenital d:technique q:recall l:3
+palette: Wano carpenter cedar, crown green and money green
+keywords: ALCAPA -> Al Capone in a pinstripe suit bolting the left spike of the Liberty crown onto the pipe of dollar bills; Takeuchi operation -> a Wano carpenter named Takeuchi taking a flap from the money pipe's front wall and building a tunnel inside the pipe that leads the orca's water to the stolen left spike; window -> a small opening cut between the orca and the money pipe for the tunnel to start; coronary transfer -> the crown's left spike simply moved to the orca, the usual first choice; transplantation -> a gardener with a new organ in a terracotta flowerpot, not needed; LIMA graft -> a green lima bean vine, not the standard in children
+must: Takeuchi's tunnel is built from a flap of the money pipe's own front wall and leads the orca's water to the left spike
+scene: A carpenter's yard in Wano. CENTRE, dominant and brightest: a carpenter named Takeuchi taking a flap from the front wall of a pipe of dollar bills and building a tunnel inside the pipe, from a small window cut to the orca balloon, leading the orca's water to the stolen left spike of the green crown that Al Capone had bolted there. AROUND, dimmer: a gardener holding a terracotta flowerpot, waved away; a green lima bean vine, set aside. LEFT: Usopp with a calendar of six weeks' waiting. Chopper.
+story:
+في وانو، جيء إلى ساحة نجّار اسمه تاكيوتشي بفندق طفل ضعيف، ثبّت آل كابوني شوكة تاجه اليسرى على ظهر أنبوب الدولارات، بعيدةً عن الحوت.
+«ننتظر ستّة أسابيع حتّى يقوى الفندق، ثمّ نرى!» قال أوسوب، وعلّق رزنامةً على الحائط.
+لكنّ الشوكة ظلّت عطشى، والفندق يضعف يومًا بعد يوم؛ فلا شيء يقوّيه إلّا الماء.
+فلم ينتظر تاكيوتشي؛ فتح نافذةً صغيرةً بين الحوت وأنبوب الدولارات، ثمّ قصّ رقعةً من جدار الأنبوب الأماميّ.
+وبنى منها نفقًا داخل الأنبوب، يحمل ماء الحوت من النافذة إلى الشوكة المسروقة.
+فارتوت الشوكة، واستعاد الفندق قوّته شيئًا فشيئًا، فصرف تشوبر البستانيّ وأصيصه الفخّاريّ.
+«تاكيوتشي يأخذ رقعةً من الأمام، ويبني نفقًا في الداخل!» قال تشوبر.
+quote:
+source:
+explanation:
+The classic Takeuchi operation uses a portion of the anterior wall of the pulmonary artery to build a baffle: E.
+An aortopulmonary window is created and a tunnel made from a pulmonary artery flap carries aortic blood inside the pulmonary artery to the anomalous coronary ostium.
+Today direct reimplantation of the left coronary into the aorta is preferred when possible; repair is done promptly, without waiting for recovery, since perfusion itself is the treatment.
+Even infants with severe LV dysfunction and mitral regurgitation usually recover after revascularization, so transplantation and early mitral repair are rarely needed, and LIMA grafting is not the standard in children.
+In the picture, Takeuchi's tunnel, cut from the money pipe's own front wall, leads the orca's water to the left spike.
+Memory hook: Take-uchi takes a flap and builds a tunnel inside.
+
+== 390
+# book 83.3: true about outcomes of ALCAPA repair -> A, coronary ligation carries about a 25 percent late mortality.
+# ANSWER: in a quiet harbour, of four hotels whose Capone bolt was simply tied off, one lies in a coffin later; the hotels whose spike was moved to the orca stand well (audited capone, coffin)
+title: Coronary ligation for ALCAPA carries about a 25 percent late mortality
+titleAr: ربط الشريان التاجيّ في علاج منشئه الشاذّ يحمل وفيات متأخّرة نحو 25 في المئة
+tags: cardiac/congenital d:evidence q:numbers l:3
+palette: harbour slate, rope red and crown green
+words: 25%
+keywords: ALCAPA -> Al Capone in a pinstripe suit bolting the left spike of the Liberty crown onto the pipe of dollar bills; coronary ligation -> the crown's bolted left spike simply tied off at the money pipe, leaving it fed only by side paths; 25 percent late mortality -> one of four such hotels lying in a coffin later, 25% painted above; two-coronary repair -> the left spike moved to the orca, its hotels standing well; mitral regurgitation -> the bishop's mitre leaking, usually improving after repair
+must: one of the four tied-off hotels lies in a coffin later; the moved-spike hotels stand well
+scene: A quiet harbour. CENTRE, dominant and brightest: four HART Hotels whose left crown spike, bolted to the money pipe by Al Capone, was simply tied off there; one of the four lying in a coffin, 25% painted above. AROUND: several hotels whose left spike was moved to the orca balloon, standing well; a bishop's mitre that leaked now healing. LEFT: Usopp tying another spike off. Chopper.
+story:
+في ميناء قرية فوشا الهادئ، وقفت أربعة فنادق صغيرة، ثبّت آل كابوني شوكة تاج كلّ منها اليسرى على أنبوب الدولارات.
+«أسهل حلّ: نعقد الشوكة بخيط متين عند الأنبوب، فلا يسرق منها شيء!» قال أوسوب، وعقد الخيوط على الأربعة.
+فتوقّفت السرقة؛ لكنّ الشوكة لم يعد يصلها إلّا قليل من الماء عبر طرق جانبيّة ضيّقة.
+وبعد سنين، كان واحد من الأربعة قد رقد في تابوت، وفوقه رقم مطليّ: خمسة وعشرون في المئة.
+أمّا الفنادق الّتي نقل تشوبر شوكتها اليسرى إلى الحوت، فقد وقفت كلّها شامخة.
+حتّى تاج الأسقف الّذي كان يقطّر فيها، أخذ يلتئم وحده من غير أن يلمسه أحد.
+«اعقد شوكة كابوني، يسقط فندق من كلّ أربعة!» قال تشوبر.
+quote:
+source:
+explanation:
+Coronary ligation for ALCAPA is associated with a 25 percent late mortality: A.
+Tying off the anomalous artery stops the steal but leaves a one-coronary circulation dependent on collaterals, with late infarction and sudden death.
+Repairs that establish a two-coronary system, such as direct transfer or the Takeuchi operation, give far better results: most patients recover normal ventricular function, and mitral regurgitation usually improves without early valve surgery.
+In the picture, one of the four tied-off hotels lies in a coffin later, while the hotels whose spike was moved stand well.
+Memory hook: tie off Capone's spike, and one hotel in four is lost.
