@@ -1,0 +1,302 @@
+book: johns-hopkins-2016
+# Lessons 291-300 (book 62.1-63.5: palliative shunts and pulmonary artery banding; the patent ductus arteriosus).
+# Written 2026-11-22, night. Each story: a hook, a wrong try that fails, the answer acting, a payoff line that names
+# the symbol, and a lead-in that says who speaks the quotation and why it fits.
+# OCR misprints of 291, 292, 294 and 296 are mended by the book's 'typos' map ("1 2 mm" -> "12 mm", "Type la" -> "Type Ia").
+# QUOTATION PENDING (all ten): the pool of One Piece lines allowed by quoteRepeats is exhausted; the owner decides.
+# The stories stop at the payoff; add the lead-in and Q lines before building.
+
+== 291
+# book 62.1: NOT a palliation for a 5-day-old, 3.5-kg neonate with duct-dependent pulmonary blood flow -> C, superior cavopulmonary (Glenn) shunt.
+# ANSWER: the astronaut (Glenn) bending the blue wing's chimney down to the money pipe is sent home: the newborn's money pipe is still stacked with wooden blocks (high PVR), so the chimney water backs up (audited astronaut, wooden block)
+# a thin hose from the flipper (BT shunt, 3.5 or 4 mm), a thin waterslide from the blue engine room (RV-PA shunt) and a Slinky inside the duct-tape tunnel (ductal stent) all work (A, B, D, E are options) (audited hose, waterslide, slinky, duct)
+title: A Glenn shunt is not a palliation for a 5-day-old neonate
+titleAr: وصلة غلين ليست علاجًا ملطّفًا لوليد عمره خمسة أيّام
+tags: cardiac/congenital d:indications q:recall l:2
+palette: Arlong Park sea blue, hose green and duct-tape silver
+keywords: ductal-dependent pulmonary blood flow -> a newborn hotel whose pipes of dollar bills are fed only through a tunnel of shiny silver duct tape from the orca; Blalock-Taussig shunt -> a thin hose joining the orca's flipper to the pipe of dollar bills; RV-PA shunt -> a thin clear twisting waterslide from the blue engine room to the pipe of dollar bills; ductal stent -> a coiled metal Slinky pushed inside the duct-tape tunnel to hold it open; superior cavopulmonary shunt -> an astronaut in a white spacesuit (John Glenn) bending the blue wing's chimney down to the money pipe, sent home because the newborn's money pipe is still stacked with wooden blocks
+must: the astronaut is sent home and the chimney water backs up; the hose, the waterslide and the Slinky each feed the money pipe
+scene: Arlong Park by the sea. CENTRE, dominant and brightest: an astronaut in a white spacesuit bending the blue wing's chimney of a newborn HART Hotel down to its pipe of dollar bills, but the money pipe is stacked with wooden blocks and the chimney's water backs up; Chopper sending the astronaut home with a calendar showing months to wait. AROUND, each feeding the money pipe: a thin hose from the orca's flipper; a thin clear twisting waterslide from the blue engine room; a coiled metal Slinky inside a tunnel of shiny silver duct tape. LEFT: Usopp proudly bringing in the astronaut.
+story:
+في أرلونغ بارك على البحر، ولد فندق صغير قبل خمسة أيّام، لا يصل الماء إلى أنابيب دولاراته إلّا عبر نفق من الشريط اللاصق الفضّيّ يأتي من الحوت.
+والنّفق يوشك أن ينغلق، فلا بدّ من طريق آخر للماء.
+«عندي الأفضل: رائد الفضاء المشهور جون غلنّ! يثني المدخنة الزرقاء إلى أنبوب الدولارات!» قال أوسوب، وأدخل رائد الفضاء ببدلته البيضاء.
+لكنّ أنبوب الدولارات عند الوليد كان ما يزال محشوًّا بالمكعّبات الخشبيّة، فارتدّ ماء المدخنة إلى الوراء ولم يعبر.
+فأعاد تشوبر رائد الفضاء إلى بيته، وأعطاه تقويمًا: عد بعد بضعة أشهر، حين تسقط المكعّبات.
+ثمّ مدّ للوليد خرطومًا رفيعًا من زعنفة الحوت إلى أنبوب الدولارات؛ وكان يستطيع أيضًا أن يمدّ منزلقًا مائيًّا رفيعًا من غرفة المحرّك الزرقاء، أو أن يدسّ زنبركًا معدنيًّا في النفق ليبقى مفتوحًا.
+«الخرطوم والمنزلق والزّنبرك تطعم الوليد؛ أمّا رائد الفضاء فينتظر حتّى تسقط المكعّبات!» قال تشوبر.
+quote:
+source:
+explanation:
+A superior cavopulmonary (Glenn) shunt is not an option for a 5-day-old neonate: C.
+It sends venous blood from the SVC into the pulmonary arteries without a pump, which works only once pulmonary vascular resistance has fallen, usually after 3 to 4 months.
+A modified Blalock-Taussig shunt of 3.5 or 4.0 mm, a 5-mm RV-PA shunt and a ductal stent can all secure pulmonary blood flow in a neonate.
+In the picture, the astronaut is sent home because the newborn's money pipe is still stacked with wooden blocks, while the hose, the waterslide and the Slinky each feed it.
+Memory hook: the astronaut waits until the wooden blocks fall.
+
+== 292
+# book 62.2: pulmonary artery band circumference for a 2.8-kg infant with multiple Swiss-cheese VSDs -> E, 23 mm.
+# ANSWER: the leather belt round the money pipe buckled at 23: 20 plus the baby's kilos (Trusler) (audited belt, lower party wall)
+# buckled at 5, 12 or 15 the baby turns blue (too tight); 20 is for no baby at all (A, B, C, D wrong)
+title: Pulmonary artery band for a 2.8-kg infant with VSDs: about 23 mm (20 + weight in kg)
+titleAr: ربط الشريان الرئويّ لرضيع وزنه 2.8 كغ مع فتحات بين البطينين: نحو 23 مم (20 + الوزن بالكيلوغرام)
+tags: cardiac/congenital d:technique q:numbers l:3
+palette: Amazon Lily jungle green, belt leather brown and baby pink
+words: 23, 2.8
+keywords: multiple muscular VSDs -> the lower party wall between the two engine rooms riddled with many small ragged holes like a sieve; pulmonary artery banding -> a leather belt buckled round the pipe of dollar bills; Trusler's rule -> the belt's length counted as 20 plus the baby's weight in kilograms; 23 mm -> the belt buckled at the notch marked 23, the baby on the scales showing 2.8; too tight -> Usopp pulling the belt to a tighter notch, the baby turning blue
+must: the belt is buckled at 23 while the scales show 2.8; pulled tighter, the baby turns blue
+scene: Amazon Lily, the jungle island of the warrior women. CENTRE, dominant and brightest: a leather belt buckled round the pipe of dollar bills of a tiny HART Hotel, fastened at the notch marked 23; beside it, a baby on the scales showing 2.8. In the hotel, the lower party wall between the two engine rooms riddled with many small ragged holes like a sieve. LEFT, dimmer: Usopp pulling the belt to a tighter notch and the baby turning blue. Chopper counting on his hooves.
+story:
+في جزيرة الأمازون ليلي، جيء برضيع صغير في الجدار الفاصل السفليّ من فندقه ثقوب صغيرة كثيرة كالمصفاة.
+فكان الماء يندفع من ثقوبه إلى أنبوب الدولارات بغزارة، يغرق الأكياس ويرفع ضغطها.
+فلفّ تشوبر حزامًا جلديًّا حول أنبوب الدولارات، ليضيّقه قليلًا.
+«شدّه بقوّة! إلى ثقب اثني عشر! كلّما ضاق كان أفضل!» قال أوسوب، وشدّ الحزام إلى ثقب ضيّق.
+فازرقّ الرضيع في الحال، لأنّ الماء لم يعد يبلغ الأكياس إلّا قليلًا.
+فأرخى تشوبر الحزام، ونظر إلى الميزان: اثنان وثمانية أعشار؛ ثمّ عدّ على حوافره: عشرون وثلاثة.
+فأغلق الحزام عند ثلاثة وعشرين، فعاد الرضيع ورديًّا، وهدأت الأكياس.
+«الحزام عشرون ووزن الرضيع: ثلاثة وعشرون!» قال تشوبر.
+quote:
+source:
+explanation:
+For a 2.8-kg infant with multiple Swiss-cheese VSDs, the optimum circumference of a main PA band is about 23 mm: E.
+Trusler's rule for a simple left-to-right shunt: 20 mm plus 1 mm for each kilogram of weight, so 20 + 2.8 is about 23 mm.
+The band is then adjusted on the table, watching the pressure beyond it and the oxygen saturation.
+Banding protects the lungs from flooding and high pressure while the many muscular holes, hard to close in a small baby, are left for later; some even close on their own.
+In the picture, the belt is buckled at 23 while the scales show 2.8; pulled tighter, the baby turns blue.
+Memory hook: the belt is twenty plus the baby's kilos.
+
+== 293
+# book 62.3: the Waterston shunt -> D, right PA and ascending aorta.
+# ANSWER: the stonemason Waterston cutting a round WATER-STONE window straight between the orca's front climb and the right money pipe lying behind it (audited orca, dollar)
+# the astronaut bending the chimney to the right money pipe (Glenn: SVC, A wrong); a flowerpot window between the orca's back and the left money pipe (Potts, C wrong); hoses from the flippers (BT shunts, B and E wrong)
+title: The Waterston shunt joins the right pulmonary artery to the ascending aorta
+titleAr: وصلة ووترستون تصل الشريان الرئويّ الأيمن بالأبهر الصاعد
+tags: cardiac/congenital d:anatomy q:recall l:2
+palette: Water 7 canal blue, mason's stone grey and money green
+keywords: Waterston shunt -> a stonemason named Waterston cutting a round WATER-STONE window straight between the orca's front climb and the right pipe of dollar bills lying just behind it; ascending aorta -> the orca balloon's front climb as it rises out of the hotel; right pulmonary artery -> the right pipe of dollar bills; Glenn shunt -> an astronaut bending the blue wing's chimney down to the right money pipe; Potts shunt -> a flowerpot-shaped window between the orca's back and the left money pipe; Blalock-Taussig shunt -> a hose from the orca's flipper to a money pipe
+must: Waterston's round stone window joins the orca's front climb to the right money pipe; the other joins are smaller and dimmer
+scene: Water 7, a canal city of stone bridges. CENTRE, dominant and brightest: a burly stonemason cutting a round stone window straight between an orca balloon's front climb, rising out of a HART Hotel, and the right pipe of dollar bills lying just behind it, water splashing through. AROUND, smaller and dimmer: an astronaut bending the blue wing's chimney down to the right money pipe; a flowerpot-shaped window between the orca's back and the left money pipe; a hose from the orca's flipper to a money pipe. LEFT: Usopp pointing at the flowerpot. Chopper.
+story:
+في ووتر سيفن، مدينة الجسور الحجريّة، أراد تشوبر أن يرسل ماءً أكثر إلى أكياس رضيع أزرق.
+«أعرف الطريق: نافذة على شكل أصيص زهور، بين ظهر الحوت وأنبوب الدولارات الأيسر!» قال أوسوب.
+«تلك نافذة الأصيص يا صغير؛ أمّا أنا فاسمي ووترستون، صانع النوافذ الحجريّة!» قال بنّاء عملاق يحمل إزميلًا.
+ثمّ رفع إزميله، وقطع نافذةً حجريّةً مستديرةً مباشرةً بين صعود الحوت الأماميّ، وأنبوب الدولارات الأيمن الّذي يمرّ خلفه.
+فانساب الماء من الحوت الصاعد إلى الأنبوب الأيمن، وتورّد الرضيع.
+لكنّ تشوبر لاحظ أنّ سعة النافذة الحجريّة يصعب ضبطها، فقد تغرق الأكياس يومًا، أو تثني الأنبوب الأيمن.
+«ووتر ستون: ماء وحجر؛ نافذة حجريّة من الحوت الصاعد إلى الأنبوب الأيمن!» قال تشوبر.
+quote:
+source:
+explanation:
+The Waterston shunt is an anastomosis between the right PA and the ascending aorta: D.
+It was made side to side, behind the ascending aorta, to send more blood to the lungs in cyanotic babies.
+Like the Potts shunt (descending aorta to left PA), its size was hard to judge, so it often flooded the lungs, caused pulmonary hypertension or kinked the right PA; the modified Blalock-Taussig shunt replaced both.
+The Glenn joins the SVC to the right PA, and the classic Blalock-Taussig shunt the subclavian artery to the pulmonary artery.
+In the picture, the stonemason Waterston cuts a round stone window from the orca's front climb into the right money pipe behind it.
+Memory hook: WATER-STONE: a stone window from the rising orca to the right money pipe.
+
+== 294
+# book 62.4: LEAST likely complication of a 4.0-mm modified BT shunt with duct ligation in a 4.0-kg neonate with tricuspid atresia type Ia -> D, pulmonary overcirculation.
+# ANSWER: the money sacks drinking calmly from a hose just the right size, four for four, never flooded (audited hose, dollar)
+# a brown horse's rein nicked by the right flipper (right recurrent laryngeal, A); the money pipe pinched where the hose joins (right PA stenosis, B); a beaver's dam in the hose (thrombosis, C); a clear water blister round the hose (seroma, E): all likely (audited horse, beaver)
+title: A 4-mm BT shunt in a 4-kg neonate seldom causes pulmonary overcirculation
+titleAr: وصلة بلالوك-توسيغ بقطر 4 مم لوليد وزنه 4 كغ قلّما تُغرق الرئتين
+tags: cardiac/congenital d:complications q:vignette l:3
+palette: Shells Town marine blue, hose green and blister clear
+words: 4
+keywords: tricuspid atresia -> the trident between the blue lobby and the blue engine room welded shut with a thick iron cap; Blalock-Taussig shunt -> a 4-mm hose from the orca's right flipper to the pipe of dollar bills, a 4 on it; pulmonary overcirculation -> money sacks flooded and soggy, NOT happening: they drink calmly; recurrent laryngeal nerve injury -> a brown horse's long rein nicked beside the right flipper; right PA stenosis -> the money pipe pinched where the hose joins it; shunt thrombosis -> a beaver building a dam inside the hose; seroma -> a clear water blister swelling round the hose
+must: the money sacks drink calmly and are never flooded; the nicked rein, the pinched pipe, the beaver's dam and the clear blister are all shown
+scene: Shells Town, a marine base on a hill. CENTRE, dominant and brightest: a 4-kg baby HART Hotel whose trident is welded shut with a thick iron cap, a 4-mm hose marked 4 joining the orca's right flipper to its pipe of dollar bills, and the money sacks drinking calmly, never flooded. AROUND, dimmer: a brown horse's long rein nicked beside the right flipper; the money pipe pinched where the hose joins; a beaver building a dam inside the hose; a clear water blister swelling round the hose. LEFT: Usopp holding up a bucket to catch a flood that never comes. Chopper.
+story:
+في بلدة شلز تاون، جيء برضيع وزنه أربعة كيلوغرامات، رمحه الثلاثيّ ملحم مغلق، وباب أنبوب دولاراته ملحم كذلك.
+فربط تشوبر نفق الشريط اللاصق، ومدّ خرطومًا بقطر أربعة من زعنفة الحوت اليمنى إلى أنبوب الدولارات.
+«سيغرق! خرطوم كهذا سيغرق الأكياس كلّها!» صاح أوسوب، ووقف بدلو ينتظر الطوفان.
+لكنّ الأكياس شربت بهدوء، ولم يأت الطوفان؛ فالخرطوم على قدر الرضيع تمامًا: أربعة لأربعة.
+أمّا ما جاء فعلًا، فعنان حصان بنّيّ خدش قرب الزعنفة اليمنى، وأنبوب الدولارات ضاق حيث خيط به الخرطوم.
+وقندس بدأ يبني سدّه داخل الخرطوم، وفقّاعة ماء صافية انتفخت حوله.
+«أربعة لأربعة: الأكياس تشرب بهدوء ولا تغرق؛ أمّا العنان والأنبوب والقندس والفقّاعة فتحدث!» قال تشوبر.
+quote:
+source:
+explanation:
+Pulmonary overcirculation is the least likely complication here: D.
+A 4.0-mm shunt is the usual size for a 4-kg baby, and with the duct ligated and pulmonary atresia it is the only source of lung blood flow, so flooding is unlikely.
+A shunt through a sternotomy, from the innominate or right subclavian artery to the right PA, can injure the right recurrent laryngeal nerve, distort or narrow the right PA where it is sewn, and thrombose.
+PTFE grafts can also weep serous fluid and form a seroma round the shunt.
+In the picture, the money sacks drink calmly while the rein is nicked, the pipe pinched, the beaver builds his dam and the clear blister swells.
+Memory hook: four for four: the sacks drink calmly.
+
+== 295
+# book 62.5: low perfusion pressure and a flood of left heart return on starting bypass for a Glenn after a right BT shunt -> B, ligate the BT shunt.
+# ANSWER: the pump truck's water pours out through the still-open flipper hose into the money sacks and floods back into the red lobby; Chopper ties the hose off and the orca's gauge rises (audited hose, roller-pump, gauge)
+# pressing the vase (phenylephrine, D), draining the lobby (vent, C), freezing everything (DHCA, E) or working without the pump (A) do not stop the leak
+title: Low pressure and a flood of left heart return on bypass: ligate the BT shunt
+titleAr: ضغط منخفض وعودة غزيرة إلى القلب الأيسر على المجازة: اربط وصلة بلالوك-توسيغ
+tags: cardiac/congenital d:technique q:next-step l:3
+palette: Ohara library brown, hose green and gauge red
+keywords: cardiopulmonary bypass -> a big roller-pump truck running beside the hotel, its hoses in the chimney and the orca; Blalock-Taussig shunt -> a hose from the orca's right flipper to the pipe of dollar bills, still open; runoff -> the pump truck's water pouring out through the flipper hose into the money sacks and flooding back into the red lobby, while the orca's pressure gauge sinks; ligation -> Chopper tying the hose off tight with a cord, the gauge rising; phenylephrine -> two big hands pressing a tall porcelain vase, the gauge not moving; vent -> a drain in the red lobby, the flood still coming
+must: only tying off the flipper hose stops the flood and lifts the gauge; pressing the vase and the drain change nothing
+scene: The library island of Ohara, a giant tree of knowledge. CENTRE, dominant and brightest: Chopper tying off tight with a cord a hose from an orca balloon's right flipper to the pipe of dollar bills; before he ties it, the roller-pump truck's water pours through that hose into the money sacks and floods back into the red lobby, the orca's pressure gauge sinking; now the gauge rises. AROUND, dimmer: two big hands pressing a tall porcelain vase, the gauge not moving; a drain in the red lobby, the flood still coming. LEFT: Usopp pressing the vase.
+story:
+في جزيرة أوهارا، تحت شجرة المعرفة العملاقة، جاء رائد الفضاء ليثني المدخنة الزرقاء إلى أنبوب الدولارات عند رضيع كبر قليلًا.
+وكان للرّضيع من قبل خرطوم يصل زعنفة الحوت اليمنى بأنبوب الدولارات؛ فشغّل تشوبر شاحنة المضخّة.
+لكنّ مقياس الحوت هبط هبوطًا شديدًا، وانهمر الماء عائدًا إلى الردهة الحمراء كالسّيل.
+«اضغطوا المزهريّة! وافتحوا مصرفًا في الردهة!» قال أوسوب، وضغط المزهريّة الطويلة بيديه.
+لكنّ المقياس لم يتحرّك، وظلّ السيل يتدفّق إلى الردهة رغم المصرف.
+فتتبّع تشوبر الماء: كان ماء الشاحنة يهرب من الحوت عبر خرطوم الزعنفة المفتوح، إلى الأكياس، ثمّ يعود إلى الردهة الحمراء.
+فربط تشوبر الخرطوم بحبل مشدود؛ فارتفع المقياس، وتوقّف السيل.
+«اربطوا خرطوم الزعنفة، فيرتفع المقياس!» قال تشوبر.
+quote:
+source:
+explanation:
+With low perfusion pressure and a flood of left heart return on starting bypass, the existing Blalock-Taussig shunt should be ligated: B.
+The open shunt lets pump flow run off from the aorta into the lungs, so systemic pressure falls and the blood returns in torrents to the left atrium.
+The shunt should be dissected and controlled before bypass, and tied or clipped as soon as bypass begins.
+A vasoconstrictor, a vent or circulatory arrest treat the effects, not the leak, and working off bypass does not solve it either.
+In the picture, the pump's water pours through the open flipper hose until Chopper ties it off and the orca's gauge rises.
+Memory hook: tie the flipper hose, and the gauge rises.
+
+== 296
+# book 63.1: true embryology of the ductus -> B, the (sixth) arches stay connected to the pulmonary trunk when the aorta and pulmonary artery divide.
+# ANSWER: when the tree trunk splits into the orca and the money pipe, both sixth croquet hoops stay hooked to the money pipe; the back half of the LEFT sixth hoop becomes the silver duct-tape tunnel to the orca (audited tree trunk, duct)
+# right sixth arch (A wrong); front halves of the sixth hoops become the START of the money pipes, not their far ends (C, E wrong); the back half of the left hoop becomes the duct, not the main trunk (D wrong)
+title: The sixth arches stay with the pulmonary trunk; the left sixth arch forms the ductus
+titleAr: يبقى القوسان السادسان متّصلين بالجذع الرئويّ، ومن القوس السادس الأيسر تتكوّن القناة الشريانيّة
+tags: cardiac/congenital d:anatomy q:recall l:3
+palette: Sunny lawn green, hoop white and duct-tape silver
+keywords: truncus arteriosus -> one thick tree trunk splitting into the orca and the pipe of dollar bills; sixth arches -> the sixth pair of croquet hoops on the lawn, staying hooked to the money pipe when the trunk splits; ductus arteriosus -> the back half of the LEFT sixth hoop turning into a tunnel of shiny silver duct tape between the money pipe and the orca; proximal branch pulmonary arteries -> the front halves of the sixth hoops becoming the start of the left and right money pipes; right sixth arch -> the back half of the RIGHT sixth hoop fading away
+must: both sixth hoops stay hooked to the money pipe after the split; only the back half of the LEFT sixth hoop becomes the duct-tape tunnel
+scene: The lawn deck of the Thousand Sunny. CENTRE, dominant and brightest: one thick tree trunk splitting into an orca balloon and a pipe of dollar bills, and the sixth pair of white croquet hoops staying hooked to the money pipe; the back half of the LEFT sixth hoop turning into a tunnel of shiny silver duct tape to the orca, the back half of the right one fading away. AROUND, dim: five other pairs of croquet hoops on the lawn. LEFT: Usopp tugging at the right hoop. Chopper.
+story:
+على سطح العشب في الثاوزند صني، نصب تشوبر ستّة أزواج من أطواق الكروكيه البيضاء، ليحكي لأوسوب كيف يولد الفندق.
+وفي الوسط جذع شجرة واحد غليظ، ما لبث أن انشقّ نصفين: الحوت، وأنبوب الدولارات.
+«الطوق السادس الأيمن هو الّذي يصير نفق الشريط! أنا متأكّد!» قال أوسوب، وشدّ الطوق الأيمن.
+لكنّ النصف الخلفيّ من الطوق الأيمن ذاب واختفى بين يديه.
+أمّا الطوقان السادسان، فبقيا معلّقين بأنبوب الدولارات حين انشقّ الجذع؛ وصار نصفاهما الأماميّان بداية الأنبوبين الأيمن والأيسر.
+والنّصف الخلفيّ من الطوق السادس الأيسر وحده، التفّ نفقًا من الشريط اللاصق الفضّيّ بين أنبوب الدولارات والحوت.
+«الطوقان السادسان يبقيان مع أنبوب الدولارات؛ وظهر الأيسر منهما هو نفق الشريط!» قال تشوبر.
+quote:
+source:
+explanation:
+When the truncus divides into the aorta and the pulmonary artery, the sixth arches remain connected to the pulmonary trunk: B.
+The front (ventral) parts of both sixth arches become the proximal right and left pulmonary arteries.
+The back (dorsal) part of the LEFT sixth arch becomes the ductus arteriosus, joining the pulmonary trunk to the aorta; the dorsal part of the right sixth arch disappears.
+So the normal ductus comes from the left sixth arch, and the distal pulmonary arteries grow from the lung buds, not from the arches.
+In the picture, both sixth hoops stay with the money pipe, and only the back of the left one turns into the duct-tape tunnel.
+Memory hook: the sixth hoops stay with the money; the left one's back is the duct.
+
+== 297
+# book 63.2: closure of the ductus -> D, the second stage is complete by 2 to 3 weeks after birth.
+# ANSWER: at the Twin Cape lighthouse, the squeezed duct-tape tunnel fuses into a solid white rope by the time the calendar shows 2 to 3 weeks (audited duct, stein)
+# the first squeeze comes within about 15 hours, not 4 to 6 (A wrong), when the beer stein is put DOWN (prostaglandins fall, B wrong) and oxygen rises, not CO2 (C wrong)
+title: Second-stage closure of the ductus is complete by 2 to 3 weeks after birth
+titleAr: يكتمل الانغلاق الثاني للقناة الشريانيّة بعد الولادة بأسبوعين إلى ثلاثة
+tags: cardiac/congenital d:physiology q:numbers l:2
+palette: lighthouse white, sunrise orange and duct-tape silver
+words: 2-3
+keywords: ductus arteriosus -> a tunnel of shiny silver duct tape between the orca and the money pipe; first-stage closure -> the tunnel squeezing itself shut in the first hours as the first breath fills the room with fresh air; fall in prostaglandins -> the beer stein that propped the tunnel open put down on the table; second-stage closure -> by 2 to 3 weeks on the calendar, the squeezed tunnel fused into a solid white rope
+must: the beer stein is put down; by 2 to 3 weeks on the calendar the tunnel is a solid white rope
+scene: The lighthouse at Twin Cape at sunrise, the giant whale Laboon in the sea below. CENTRE, dominant and brightest: a tunnel of shiny silver duct tape between an orca balloon and a pipe of dollar bills, fused into a solid white rope, a calendar beside it showing 2-3 weeks. AROUND: the beer stein that propped the tunnel open put down on the table; the first breath of fresh air filling the room. RIGHT: Doctor Crocus, the old lighthouse keeper with a flower on his head, nodding. LEFT: Usopp lifting the beer stein again. Chopper.
+story:
+عند منارة الرأس التوأم، حيث يعتني الطبيب العجوز كروكوس بالحوت العملاق لابون، ولد فندق صغير عند شروق الشمس.
+وكان نفق الشريط اللاصق الفضّيّ بين حوته وأنبوب دولاراته مفتوحًا، تسنده كأس جعة مرفوعة.
+فلمّا أخذ الصغير نفسه الأوّل، امتلأت الغرفة هواءً نقيًّا، ووضعت الكأس على الطاولة، فانعصر النفق وانغلق في الساعات الأولى.
+«انتهى الأمر! انغلق إلى الأبد!» قال أوسوب، ثمّ رفع الكأس ليشرب نخب الصغير، فانفتح النفق قليلًا من جديد!
+«ضع الكأس يا فتى، وانتظر!» قال كروكوس.
+فوضع أوسوب الكأس، ومرّت الأيّام؛ فلمّا بلغ التقويم أسبوعين إلى ثلاثة، كان النفق قد التحم حبلًا أبيض صلبًا.
+«ضع الكأس فينعصر النفق؛ وبعد أسبوعين إلى ثلاثة يصير حبلًا!» قال تشوبر.
+quote:
+source:
+explanation:
+Second-stage closure of the ductus arteriosus is complete by 2 to 3 weeks after birth: D.
+The first stage is functional: within about 10 to 15 hours the ductal muscle contracts, triggered by the rise in oxygen tension and the fall in prostaglandins as the placenta is lost and the lungs clear them.
+The second stage is anatomical: the intima thickens and the duct becomes fibrous, ending as the ligamentum arteriosum.
+In the picture, once the beer stein is put down the tunnel squeezes shut, and by 2 to 3 weeks it has fused into a solid rope.
+Memory hook: put the stein down, and in two to three weeks the tape is a rope.
+
+== 298
+# book 63.3: true about treating a PDA -> A, forty percent of patients (untreated) will die by age 45.
+# ANSWER: on Brook's ghost ship, of ten sailors with an open duct-tape tunnel, four lie in coffins by their 45th birthday (audited coffin, duct)
+# adults: not through a side lid (B wrong); the duct must be tied before the pump truck starts (C wrong); a newborn's bubble gum on the duct often shrinks by itself (D wrong); a keyhole lantern works even in newborns (E wrong) (audited bubble gum, keyhole)
+title: Untreated PDA: about 40 percent die by age 45
+titleAr: القناة الشريانيّة المفتوحة دون علاج: نحو 40 في المئة يموتون قبل سنّ 45
+tags: cardiac/congenital d:pathology q:numbers l:2
+palette: Florian Triangle fog grey, coffin black and duct-tape silver
+words: 40%, 45
+keywords: patent ductus arteriosus -> a tunnel of shiny silver duct tape left open between the orca and the money pipe; 40 percent die by 45 -> of ten sailors with an open tunnel, four lying in coffins by their 45th birthday cake; adult PDA -> the old duct-tape tunnel hard and chalky, not reached through the chest's side lid; control before bypass -> the tunnel tied before the pump truck starts; neonatal ductal aneurysm -> a pink bubble-gum bubble on a newborn's tunnel, shrinking by itself; VATS -> a lantern on a slim telescope peeking through a small keyhole in a newborn's chest
+must: four of the ten sailors with an open tunnel lie in coffins by the 45th birthday cake
+scene: Brook's ghost ship drifting in the fog of the Florian Triangle. CENTRE, dominant and brightest: ten sailors each with a tunnel of shiny silver duct tape left open between the orca and the money pipe; four of them lying in coffins beside a birthday cake with 45 candles, 40% painted above. AROUND, dimmer: a pink bubble-gum bubble on a newborn's tunnel shrinking by itself; a lantern on a slim telescope peeking through a small keyhole in a newborn's chest. RIGHT: Brook, the tall skeleton in a top hat and afro, playing a sad tune on his violin. LEFT: Usopp. Chopper.
+story:
+على سفينة بروك الشبحيّة في ضباب مثلّث فلوريان، اجتمع عشرة بحّارة، عند كلّ منهم نفق من الشريط اللاصق بقي مفتوحًا بين الحوت وأنبوب الدولارات.
+«نفق صغير مفتوح؟ لا يضرّ أحدًا؛ دعوه كما هو!» قال أوسوب.
+فمرّت السنون، وأغرق النفق أكياسهم، وأتعب غرف محرّكاتهم.
+فلمّا أوقدت شموع عيد ميلادهم الخامس والأربعين، كان أربعة من العشرة قد رقدوا في توابيت.
+«يو هو هو... أربعة من عشرة! أعرف جيّدًا كيف يرحل الرفاق.» قال بروك، وعزف على كمانه لحنًا حزينًا.
+وعلى السطح، كانت فقّاعة علكة ورديّة على نفق رضيع تصغر من تلقاء نفسها، وفانوس على منظار رفيع يطلّ من ثقب صغير في صدر رضيع آخر.
+«نفق مفتوح لا يترك: أربعة من عشرة في التوابيت قبل الخامسة والأربعين!» قال تشوبر.
+quote:
+source:
+explanation:
+Forty percent of patients with an untreated PDA will die by age 45: A.
+A large duct floods the lungs and strains the left heart; heart failure, pulmonary hypertension and endocarditis take their toll over the years, so even a quiet duct is closed.
+In adults the duct is often calcified and fragile, so device closure, or a median sternotomy with bypass, is safer than a left thoracotomy.
+The duct must be controlled before cardiopulmonary bypass starts, or the pump's flow will flood the lungs.
+Neonatal ductal aneurysms often resolve on their own, and thoracoscopic (VATS) clipping can be used even in premature babies and neonates.
+In the picture, four of the ten sailors with an open tunnel lie in coffins by their 45th birthday.
+Memory hook: an open tunnel: four in ten in coffins by forty-five.
+
+== 299
+# book 63.4: INCORRECT about early surgical ligation of the PDA (premature babies) -> C, an extended hospital stay.
+# ANSWER: after the early ribbon on the duct-tape tunnel, the premature baby goes home sooner: a short calendar, not a long one (audited duct)
+# the bellows stops sooner (ventilation, A), the ox takes off its oxygen mask (B), the cobwebs behind the glasses' lenses never grow (retrolental fibroplasia, D), the spaghetti stays pink (necrotizing enterocolitis, E): all true benefits (audited bellows, spaghetti)
+title: Early PDA ligation in premature babies does not lengthen the hospital stay
+titleAr: ربط القناة الشريانيّة مبكّرًا عند الخُدّج لا يُطيل الإقامة في المستشفى
+tags: cardiac/congenital d:indications q:recall l:2
+palette: Shimotsuki dojo wood, ribbon pink and spaghetti cream
+keywords: patent ductus arteriosus -> a tunnel of shiny silver duct tape open between the orca and the money pipe of a premature baby; early surgical ligation -> a pink ribbon tied round the tunnel in the first days; shorter hospital stay -> the baby going home early, a short calendar in the nurse's hand; reduced mechanical ventilation -> a big leather bellows stopping sooner; reduced oxygen -> a huge ox taking off its clear oxygen mask sooner; retrolental fibroplasia -> cobwebs that never grow behind the lenses of the baby's tiny glasses; necrotizing enterocolitis -> a plate of spaghetti staying pink instead of turning black
+must: the baby with the early ribbon goes home early with a short calendar; the bellows stops, the ox takes off its mask, no cobwebs, the spaghetti stays pink
+scene: The dojo of Shimotsuki Village, wooden floors. CENTRE, dominant and brightest: a premature baby with a pink ribbon tied round a tunnel of shiny silver duct tape between the orca and the money pipe, being carried home early, a nurse holding a short calendar. AROUND: a big leather bellows stopped; a huge ox taking off its clear oxygen mask; the baby's tiny glasses with clear lenses, no cobwebs behind them; a plate of spaghetti staying pink. LEFT: Usopp holding up a very long calendar. Chopper.
+story:
+في دوجو قرية شيموتسوكي، رقد رضيع ولد قبل أوانه، ونفق الشريط اللاصق بين حوته وأنبوب دولاراته مفتوح واسع.
+فربط تشوبر النفق بشريط ورديّ في أيّامه الأولى.
+«سيبقى هنا طويلًا ليتعافى من الجراحة؛ هاتوا له أطول تقويم!» قال أوسوب، ورفع تقويمًا طويلًا جدًّا.
+لكنّ المنفاخ الجلديّ توقّف عنه قبل موعده، وخلع الثور الضخم قناع الأكسجين مبكّرًا.
+ولم تنبت خيوط العنكبوت خلف عدستي نظّارته الصغيرة، وبقي طبق المعكرونة ورديًّا لا يسودّ.
+فحملته الممرّضة إلى بيته مبكّرًا، وفي يدها تقويم قصير.
+«اربط النفق مبكّرًا، تعد إلى البيت مبكّرًا!» قال تشوبر.
+quote:
+source:
+explanation:
+An extended hospital stay is incorrect: early surgical ligation of a PDA in premature babies shortens it: C.
+Closing a large duct early stops the flooding of the immature lungs, so ventilation and oxygen are needed for less time.
+Less oxygen means less retinopathy of prematurity (retrolental fibroplasia), and better gut blood flow means less necrotizing enterocolitis.
+In the picture, the baby with the early ribbon goes home with a short calendar: the bellows stops, the ox takes off its oxygen mask, no cobwebs grow behind the glasses and the spaghetti stays pink.
+Memory hook: tie it early, go home early.
+
+== 300
+# book 63.5: true about non-surgical PDA closure -> A, residual leak is more common when large PDAs are closed with coils.
+# ANSWER: in Long Ring Long Land, metal corkscrew coils fill a thin tunnel completely, but in a wide one water keeps trickling round them (audited duct)
+# silver cufflinks (Amplatzer) close wide tunnels too (B wrong); a baby under 6 kg is risky to close from the groin (C wrong); a left-to-right shunt with high pressure is a reason to close, not against it (D wrong) (audited cufflink, gauge)
+title: Coil closure of a large PDA leaves residual leaks more often
+titleAr: إغلاق القناة الشريانيّة الكبيرة باللفائف يترك تسرّبًا متبقّيًا أكثر
+tags: cardiac/congenital d:technique q:recall l:2
+palette: Long Ring Long Land grass green, coil steel and trickle blue
+keywords: patent ductus arteriosus -> a tunnel of shiny silver duct tape between the orca and the money pipe; coil closure -> metal corkscrew coils pushed into the tunnel from a fishing line; residual leak in large PDAs -> in a wide tunnel, water still trickling round the coils, while a thin tunnel is filled completely; Amplatzer duct occluder -> a pair of round silver cufflinks clipped through a wide tunnel, closing it; small infants -> a tiny baby on the scales under 6, the fishing line too big for its pipes; pulmonary hypertension with left-to-right shunt -> the money pipe's gauge high while water still runs from the orca to the money pipe, a reason to close
+must: water trickles round the coils only in the wide tunnel; the thin tunnel is filled completely
+scene: Long Ring Long Land, a grassy island of long-legged animals. CENTRE, dominant and brightest: two tunnels of shiny silver duct tape between an orca balloon and a pipe of dollar bills: a thin one filled completely by metal corkscrew coils, and a wide one where water still trickles round the coils. AROUND, dimmer: a pair of round silver cufflinks clipped through another wide tunnel, closing it; a tiny baby on the scales under 6; a money pipe with a high pressure gauge, water still running into it from the orca. LEFT: Usopp pushing more coils into the wide tunnel. Chopper.
+story:
+في جزيرة لونغ رينغ لونغ لاند، حيث للحيوانات سيقان طويلة، جاء تشوبر بلفائف معدنيّة ملتوية كفتّاحة الفلّين، يدفعها على خيط صيد إلى أنفاق الشريط المفتوحة.
+فدسّها في نفق رفيع، فامتلأ بها تمامًا، ولم تعبره قطرة.
+«سهلة! وهذا النفق الواسع أيضًا؛ نحشوه لفائف حتّى يمتلئ!» قال أوسوب، وأخذ يدفع اللفائف في نفق واسع.
+لكنّ الماء ظلّ يتسرّب حول اللفائف في النفق الواسع، وكلّما زاد منها، أوشكت أن تبرز في الحوت أو في الأنبوب.
+فجاء تشوبر بزرّي أكمام فضّيّين مستديرين، وشبكهما في النفق الواسع من جهتيه، فانغلق.
+وعلى الميزان رضيع صغير جدًّا، دون الستّة؛ فطوى تشوبر خيط الصيد، فأنابيبه أرقّ من أن تحمله.
+«اللفائف تملأ النفق الرفيع؛ أمّا الواسع فيظلّ يتسرّب حولها!» قال تشوبر.
+quote:
+source:
+explanation:
+The residual leak rate is higher in large PDAs treated with coil embolization: A.
+Coils fill a small duct well, but in a large one blood keeps flowing round them, and more coils raise the risk of protruding into the aorta or the pulmonary artery.
+Large ducts are closed with a device such as the Amplatzer duct occluder, which was designed for them.
+Very small infants are riskier to close from the groin, and a left-to-right shunt with pulmonary hypertension is a reason to close; only a right-to-left shunt from fixed pulmonary vascular disease forbids it.
+Coils and devices can also embolize into the pulmonary arteries, where they are usually retrieved with a snare.
+In the picture, the coils fill the thin tunnel but water trickles round them in the wide one.
+Memory hook: coils fill a thin tunnel; a wide one keeps trickling.
