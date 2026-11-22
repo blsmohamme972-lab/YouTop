@@ -7,8 +7,10 @@
                                 drawn with its approved symbol (batch.py prompts/build run this too)
 
 Numbers (the owner, 2026-11-22): each digit 0-9 and the decimal point has its own symbol (family "digits",
-field "digit"). A keyword 'number 5.5 (what it measures) -> object' must draw every digit's symbol, in the
-order of the digits (5.5 = hamsa, golden drop, hamsa). A number counts once toward the three recurring symbols.
+field "digit"), drawn small: a tattoo, a painting on a wall or a design on an object. A keyword
+'number 5.5 (what it measures) -> object' must draw every digit's symbol, in the order of the digits
+(5.5 = hamsa, golden drop, hamsa), and say where it is drawn. A number counts once toward the three
+recurring symbols.
 
 A symbol is scored 0-2 on five things: link (a sound-alike or a literal tie to the term), concrete,
 unmistakable, drawable (an image generator gets it right) and sticky (remembered at first sight).
@@ -109,11 +111,14 @@ def write_readable(data):
         "## Numbers: one symbol for each digit (the owner, 2026-11-22)", "",
         "Pictures carry no written numbers, so a number is drawn with these. Each digit's symbol sounds like the digit in",
         "Arabic (say its Arabic name in the story), holds the number (one horn, five fingers) and looks like the digit.",
-        "To make a number: the story names the digits in order; the picture draws the first digit biggest and each next one",
-        "smaller; a repeated digit is drawn twice (55 = two hamsa hands); the golden drop is the decimal point",
-        "(5.5 = hamsa, golden drop, hamsa); the number sits on the symbol of what it measures; units are not drawn.",
-        "In `keywords:` write `number 5.5 (what it measures) -> the objects`; `symbols.py check` makes sure every digit",
-        "is drawn in order. A number counts as one of the lesson's three recurring symbols.", "",
+        "In a picture a number is **small**: a tattoo on a hand or arm, a painting on a wall that belongs in the scene, or a",
+        "design painted, carved or printed on an object, best on the thing whose value it gives; clear, in the picture's",
+        "own style, never competing with the focal point (the owner, 2026-11-22). The digits stand side by side, the same",
+        "size, left to right as a number is written; a repeated digit is drawn twice (55 = two hamsa hands); the golden",
+        "drop is the decimal point (5.5 = hamsa, golden drop, hamsa). The story names the digits in order. Units are not",
+        "drawn. In `keywords:` write `number 5.5 (what it measures) -> a small tattoo on ...: the objects in order`;",
+        "`symbols.py check` makes sure every digit is drawn, in order, and that the keyword says where. A number counts",
+        "as one of the lesson's three recurring symbols.", "",
         "| Digit | Drawn as | Say (Arabic) | Why it sticks |", "|---|---|---|---|"] + [
         f"| {s['digit']} | {s['symbol']} | {s.get('ar', '')} | {s['why']} |"
         for s in sorted((x for x in data["symbols"] if x.get("family") == "digits" and x["status"] == "approved"),
@@ -177,6 +182,10 @@ def digit_symbols(data):
     return {s["digit"]: s for s in data["symbols"] if s.get("family") == "digits" and s.get("digit") and s.get("status") == "approved"}
 
 
+# Where a number is drawn (the owner, 2026-11-22): small, as a tattoo, a painting on a wall or a design on an object.
+CARRIER = re.compile(r"\b(tattoo\w*|mural\w*|paint\w*|drawn|drawing\w*|graffiti|engrav\w*|carv\w*|etch\w*|"
+                     r"embroider\w*|print\w*|stamp\w*|stencil\w*|mosaic\w*|inlaid|emblem\w*|badge\w*|sign|signs|"
+                     r"signboard\w*|banner\w*|decal\w*|sticker\w*)\b", re.I)
 COUNT_WORDS = {"two": 2, "twin": 2, "twins": 2, "pair": 2, "three": 3, "four": 4, "five": 5, "six": 6}
 
 
@@ -205,6 +214,9 @@ def number_problem(digits, obj, data):
             count = next((COUNT_WORDS[w] for w in reversed(before[-3:]) if w in COUNT_WORDS), 1)
             k -= min(count, k)
             at = m.end()
+    if not CARRIER.search(obj):
+        return ("say where it is drawn, small: a tattoo on a hand or arm, a painting on a wall, or a design painted, "
+                "carved or printed on an object in the scene (the owner, 2026-11-22)")
     return None
 
 
