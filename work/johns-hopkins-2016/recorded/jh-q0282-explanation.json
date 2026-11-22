@@ -1,0 +1,21 @@
+{
+ "file": "jh-q0282-explanation-en.m4a",
+ "sig": "8a0987bfd0fb3fd92eedf5c98261380d9c11f06140d0f9e9b0b605a87307c53b",
+ "starts": [
+  0,
+  9288,
+  20394,
+  29127,
+  42059,
+  49763
+ ],
+ "seconds": 55.4,
+ "texts": [
+  "Patients undergoing gadolinium-enhanced MRI are at risk of nephrogenic systemic fibrosis (NSF) if they have renal failure: D.",
+  "Gadolinium is cleared by the kidneys; when they fail, it stays in the body for a long time and can trigger fibrosis of the skin, the joints and internal organs.",
+  "The skin thickens and hardens like wood, and contractures can stiffen the joints; the disease can be disabling and even fatal.",
+  "The risk is highest with severe chronic kidney disease (an eGFR under 30), acute kidney injury and dialysis; there contrast is avoided or a safer agent is used at the lowest dose.",
+  "In the picture, only the patient whose kidney beans are shrivelled keeps the gold dust, and his skin turns to wood.",
+  "Memory hook: shrivelled beans keep the gold dust, and the skin turns to wood."
+ ]
+}

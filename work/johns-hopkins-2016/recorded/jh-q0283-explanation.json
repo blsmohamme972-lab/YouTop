@@ -1,0 +1,21 @@
+{
+ "file": "jh-q0283-explanation-en.m4a",
+ "sig": "0c57d401b2c92ff7155fdfbb62b5dcc6b44f428075cd4312fe10a326af1f86b0",
+ "starts": [
+  0,
+  5813,
+  18830,
+  26021,
+  37899,
+  45453
+ ],
+ "seconds": 49.8,
+ "texts": [
+  "Valvular regurgitation is best quantified with velocity-encoded MRI: B.",
+  "Velocity-encoded (phase-contrast) MRI measures the speed and direction of blood in every pixel of a plane across the vessel, so the forward and backward volumes through a valve can be calculated beat by beat.",
+  "The regurgitant volume and fraction follow directly, which makes MRI a reference method when echo is uncertain.",
+  "Delayed enhancement shows scar, cine (steady-state free precession) shows motion and size, T2 shows oedema and first-pass imaging shows perfusion; none measures flow.",
+  "In the picture, Smoker's radar on the magnet clocks every drop through the orca's mouth and counts what flows back.",
+  "Memory hook: the radar on the magnet counts the backflow."
+ ]
+}

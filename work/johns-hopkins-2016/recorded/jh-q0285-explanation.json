@@ -1,0 +1,19 @@
+{
+ "file": "jh-q0285-explanation-en.m4a",
+ "sig": "2d575a15c0fdcf19dbbc53a9eb805527d6252dd160ff1147ec69554fb237aef8",
+ "starts": [
+  0,
+  4350,
+  16046,
+  23763,
+  30345
+ ],
+ "seconds": 34.1,
+ "texts": [
+  "Tagged MRI can be used to quantify regional wall motion: B.",
+  "A grid of dark lines is laid magnetically on the myocardium at the start of systole, and the lines move with the muscle, so the deformation (strain) and twist of each segment can be measured.",
+  "Steady-state free precession cine shows wall motion well but is judged by eye; tagging turns it into numbers.",
+  "In the picture, the net painted on the wall shrinks and twists with each squeeze, and Chopper counts each square.",
+  "Memory hook: a net on the wall counts the squeeze."
+ ]
+}
