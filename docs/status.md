@@ -13,11 +13,11 @@ Updated 2026-11-21 (evening). Whoever works on YouTop next: read `CLAUDE.md`, th
 and merged to main as it is done. The owner asked for it overnight, with an hourly wake-up scheduled task
 (trig_01PU9vpvigNUp6wUdpdP37Yc) to resume after a usage-limit pause; disable it when 422 is reached. Other sessions:
 do not write 151+ in parallel; pictures, voices and publishing of 1-150 are unaffected.
-- Progress (update as it goes): **151-310 written** (tables, scenes, prompts, vowelled stories, quotations, explanations;
-  `drafts/johns-hopkins-2016/batch-0151-0160` ... `batch-0301-0310`; prompts for the owner: `prompts-jh-151-180.txt`,
-  `prompts-jh-181-190.txt` ... `prompts-jh-301-310.txt`; 151-300 were sent to the owner as one file on 2026-11-22). **Quotation pending** (story written up to the
+- Progress (update as it goes): **151-320 written** (tables, scenes, prompts, vowelled stories, quotations, explanations;
+  `drafts/johns-hopkins-2016/batch-0151-0160` ... `batch-0311-0320`; prompts for the owner: `prompts-jh-151-180.txt`,
+  `prompts-jh-181-190.txt` ... `prompts-jh-311-320.txt`; 151-300 were sent to the owner as one file on 2026-11-22). **Quotation pending** (story written up to the
   payoff, no lead-in or quotation yet, so not built or recorded): 242, 243, 246, 247, 248, 250, 251, 252, 254-259,
-  261-263, 265-267, 269-310. Voices: 151-241, 244, 245, 249, 253, 260, 264, 268 recorded (built one by one from `.content-work/work/johns-hopkins-2016/single-<n>/`,
+  261-263, 265-267, 269-320. Voices: 151-241, 244, 245, 249, 253, 260, 264, 268 recorded (built one by one from `.content-work/work/johns-hopkins-2016/single-<n>/`,
   because the validator refuses gaps). Audio only in this container; rebuild + `voice.py make` reproduces it; a worker
   restart at ~01:00 UTC interrupted 211-220, which were recorded again.
   `voice.py check` of 151-180: 5 sentences flagged, all false alarms when each clip was transcribed alone (155 and 180:
@@ -59,6 +59,8 @@ do not write 151+ in parallel; pictures, voices and publishing of 1-150 are unaf
 - 275 (PFO closure): the book's key "none of the above" was right when it was written; since October 2016 PFO
   closure IS FDA-approved for cryptogenic stroke thought to be paradoxical embolism. Key kept (not a book error);
   the story and the explanation teach both. The owner may prefer key A.
+- 315 (AVSD results): the book's option D reads "Closing the zone of apposition is associated with early reoperation",
+  the opposite of what its key means; shown corrected ("Leaving ... open"), with x:key-corrected and a note.
 
 **Update (2026-11-21, ~15:45 UTC, a new session): JOHNS HOPKINS 2016: 82 LESSONS PUBLISHED.**
 - The owner had uploaded 82 JH pictures (11:06-11:52 UTC; the handoff below missed them). All 82 are published
