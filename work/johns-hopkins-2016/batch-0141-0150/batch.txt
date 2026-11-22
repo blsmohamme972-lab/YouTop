@@ -43,7 +43,7 @@ title: Male gender predicts reoperative CABG
 titleAr: الذكورة عامل تنبّؤ بإعادة جراحة المجازة التاجية
 tags: cardiac/coronary d:evidence q:recall l:3
 palette: stern wood, moustache black and cabbage green
-keywords: reoperative coronary artery bypass -> a sailor climbing back onto the operating table, the ship's stern on his chest about to be sawn open a second time, new cabbage leaves ready; male gender -> the returning sailor a burly man with a big moustache, the queue behind him all men; internal mammary artery protects -> a sailor with a lima bean vine on his crown walking away healthy
+keywords: reoperative coronary artery bypass -> a sailor climbing back onto the operating table, the ship's stern on his chest about to be sawn open a second time, new cabbage leaves ready; male gender -> the returning sailor a burly man with a big moustache, the queue behind him all men; internal mammary artery protects -> a sailor with a lima bean vine on his crown walking away healthy; redo median sternotomy -> the old scar down the ship's stern drawn on his chest, about to be sawn open a second time
 must: the queue of returning patients is ALL men
 scene: The operating cabin of a hospital ship. CENTRE, dominant and brightest: a burly sailor with a big moustache climbs back onto the operating table, an old scar down the ship's stern drawn on his chest about to be sawn open a second time, fresh cabbage leaves waiting on a tray; behind him a queue of returning patients, all men with moustaches. RIGHT: a sailor with a lima bean vine on the little crown on his chest walks out the door, healthy and waving. Sanji holds the cabbage tray.
 story:
@@ -107,7 +107,7 @@ title: Leave old vein grafts in place when adding a new arterial graft
 titleAr: اترك طعوم الوريد القديمة مكانها عند وضع طعم شرياني جديد
 tags: cardiac/coronary d:technique q:recall l:3
 palette: sapphire blue, lima green and flake yellow
-keywords: old vein graft -> an old, worn sapphire bridge on a spike of the crown, crumbly with yellow flakes; new internal mammary artery graft -> a fresh lima bean vine growing to the same spike; left in place -> the old sapphire bridge left exactly where it is, Sanji tying the vine beside it with his hands held well away from the old bridge
+keywords: old vein graft -> an old, worn sapphire bridge on a spike of the crown, crumbly with yellow flakes; new internal mammary artery graft -> a fresh lima bean vine growing to the same spike; left in place -> the old sapphire bridge left exactly where it is, Sanji tying the vine beside it with his hands held well away from the old bridge; coronary artery -> the spike of the green crown on the hotel's roof
 must: NOBODY touches the old sapphire bridge
 scene: The roof of the old hotel with a stag's head over its door, a green crown on it. On one spike an old, worn sapphire bridge sits crumbly with yellow flakes. CENTRE, dominant and brightest: Sanji, the blond cook, ties a fresh lima bean vine to the same spike right beside the old bridge, holding his elbows high so nothing touches it, while a few yellow flakes hang in the air. Robin watches, a finger to her lips.
 story:
@@ -166,13 +166,14 @@ Memory hook: the lamp, the magnet, the doberman with the bat and the glowing pup
 # book 30.1: perioperative stroke -> D, carotid disease is a risk factor for aortic arch atherosclerosis.
 # a big carrot pipe rising to the head-shaped lantern, crusted with black tar -> carotid disease (audited)
 # ANSWER: the arching back of the orca from which the carrot rises, crusted with the same black tar, a tar trail linking them -> aortic arch atherosclerosis goes with it
+# a small black bowling ball breaking off the orca's tarred back and rolling up to the head lantern, where lightning flickers -> emboli from the diseased aorta are a major cause of stroke after bypass (embolism, stroke, audited)
 title: Carotid disease is a risk factor for aortic arch atherosclerosis
 titleAr: مرض الشريان السباتي عامل خطر لتصلّب قوس الأبهر
 tags: cardiac/coronary vascular/carotid d:pathology q:recall l:3
 palette: carrot orange, tar black and orca black-and-white
-keywords: carotid disease -> a big orange carrot pipe rising to the head-shaped lantern, crusted with black tar; aortic arch atherosclerosis -> the arching back of the orca from which the carrot rises, crusted with the same black tar; risk factor -> a black tar trail running down from the carrot onto the orca's arch
+keywords: carotid disease -> a big orange carrot pipe rising to the head-shaped lantern, crusted with black tar; aortic arch atherosclerosis -> the arching back of the orca from which the carrot rises, crusted with the same black tar; risk factor -> a black tar trail running down from the carrot onto the orca's arch; embolization from the arch -> a small black bowling ball breaking loose from the orca's tarred back and rolling up toward the head lantern; stroke -> a little lightning bolt flickering at the head lantern where the bowling ball arrives
 must: the SAME tar coats both the carrot and the orca's arch
-scene: Beside the old hotel with a stag's head over its door, a big orca arches out of the hotel, and from the top of its arching back a big orange carrot pipe rises to a glowing lantern shaped like a head. CENTRE, dominant and brightest: the carrot is crusted with black tar, and a trail of the same tar runs down onto the orca's arching back, which is crusted too. Chopper scrapes a sample of the tar into a jar.
+scene: Beside the old hotel with a stag's head over its door, a big orca arches out of the hotel, and from the top of its arching back a big orange carrot pipe rises to a glowing lantern shaped like a head. CENTRE, dominant and brightest: the carrot is crusted with black tar, and a trail of the same tar runs down onto the orca's arching back, which is crusted too. A small black bowling ball breaks loose from the orca's tarred back and rolls up toward the head lantern, where a little lightning bolt flickers. Chopper scrapes a sample of the tar into a jar.
 story:
 بجانب الفندق القديم، كان حوت قاتل كبير يخرج منه مقوّسًا.
 ومن أعلى ظهره المقوّس تصعد جزرة برتقاليّة كبيرة كالأنبوب، إلى فانوس على شكل رأس.
@@ -180,6 +181,7 @@ story:
 «القطران على الجزرة وحدها، أمّا الحوت فنظيف بالتّأكيد!» قال فرانكي.
 لكنّ تشوبر تتبّع بعينيه خيطًا من القطران، ينزل من الجزرة إلى ظهر الحوت.
 فإذا ظهر الحوت المقوّس مغطًّى بالقطران نفسه.
+ومن ذلك القطران، انفلتت كرة بولينغ سوداء صغيرة، وتدحرجت صاعدةً إلى فانوس الرأس، فومضت عنده صاعقة صغيرة.
 «حيث تتلطّخ الجزرة، يتلطّخ ظهر الحوت أيضًا!» قال تشوبر.
 فكشط عيّنةً من القطران في جرّة زجاجيّة، ورفعها إلى الضوء.
 وكان أوسوب قد رأى خيط القطران قبل الجميع من بعيد.
@@ -270,7 +272,7 @@ tags: vascular/carotid d:evidence q:numbers l:3
 palette: nest brown, carrot orange and storm violet
 words: 15
 note: In NASCET, for symptomatic stenosis of 70 to 99 percent, the 2-year stroke risk fell from 26 to 9 percent, an absolute reduction of about 17 percent; the book rounds it to 15.
-keywords: NASCET -> a big bird's nest built on top of a carrot pipe (NAS-CET sounds like nest); 15 percent absolute reduction in stroke -> a sign reading 15 on the nest, and only a few lightning bolts reaching the head-shaped lantern where many struck before; carotid endarterectomy -> Zoro having scraped the carrot pipe clean of its tar
+keywords: NASCET -> a big bird's nest built on top of a carrot pipe (NAS-CET sounds like nest); 15 percent absolute reduction in stroke -> a sign reading 15 on the nest, and only a few lightning bolts reaching the head-shaped lantern where many struck before; carotid endarterectomy -> Zoro having scraped the carrot pipe clean of its tar; carotid artery -> the big orange carrot pipe rising to the head-shaped lantern
 must: the sign shows 15; FEWER lightning bolts after
 scene: A stormy sky over an island. A big orange carrot pipe rises to a glowing lantern shaped like a head; the carrot has just been scraped clean of black tar, Zoro wiping his sword beside it. CENTRE, dominant and brightest: on top of the carrot a big bird's nest has been built, with a wooden sign reading 15 stuck in it; LEFT, before: many lightning bolts strike the head lantern; RIGHT, after: only a few bolts reach it. A seagull sits in the nest.
 story:
@@ -302,7 +304,7 @@ title: Carotid stenting causes fewer cranial nerve injuries than endarterectomy
 titleAr: دعامة الشريان السباتي تسبّب إصابات أقلّ للأعصاب القحفية من استئصال البطانة
 tags: vascular/carotid d:evidence q:recall l:3
 palette: carrot orange, string yellow and steel grey
-keywords: carotid stenting -> a slinky spring pushed up inside the carrot pipe through a long thin tube from far below; cranial nerve injury -> yellow guitar strings running beside the carrot in the neck, one snapped; carotid endarterectomy -> Zoro opening the neck with a blade to scrape the carrot, nicking one of the yellow strings; lower incidence -> on the stenting side the yellow strings stay untouched and humming
+keywords: carotid stenting -> a slinky spring pushed up inside the carrot pipe through a long thin tube from far below; cranial nerve injury -> yellow guitar strings running beside the carrot in the neck, one snapped; carotid endarterectomy -> Zoro opening the neck with a blade to scrape the carrot, nicking one of the yellow strings; lower incidence -> on the stenting side the yellow strings stay untouched and humming; carotid artery -> the big orange carrot pipes running up through the necks
 must: on the SLINKY side the strings are whole; on the BLADE side one string snaps
 scene: A split panel of two necks drawn like open cabinets, each with a big orange carrot pipe running up through it and yellow guitar strings beside it. LEFT: Zoro opens the cabinet with a blade to scrape the carrot, and one yellow string snaps with a twang. CENTRE-RIGHT, dominant and brightest: a slinky spring is pushed up inside the other carrot through a long thin tube from far below, and all its yellow strings stay untouched, humming softly. Brook plays the whole strings with a smile.
 story:

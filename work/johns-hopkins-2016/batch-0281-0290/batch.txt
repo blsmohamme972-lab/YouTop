@@ -1,0 +1,308 @@
+book: johns-hopkins-2016
+# Lessons 281-290 (book 57.1-57.5 and 60.1-60.5: cardiac magnetic resonance; care after paediatric heart surgery).
+# Written 2026-11-22, night. Each story: a hook, a wrong try that fails, the answer acting, a payoff line that names
+# the symbol, and a lead-in that says who speaks the quotation and why it fits.
+# OCR misprints of 281, 286, 288 and 290 are mended by the book's 'typos' map.
+# Quotations added 2026-11-22 (the owner left the choice to the agent: "make anything strong and consistent"):
+# a One Piece line (at most three uses, 20 lessons apart) or a classical Arabic line read out by Robin; see ../quote-bank.md.
+
+== 281
+# book 57.1: purpose of delayed enhancement MRI -> D, detection of myocardial scar and infarction (nonviable myocardium).
+# ANSWER: after the gold dust and a wait, the dead grey scar glows bright white like a ghost under the horseshoe magnet; living muscle stays dark (audited horseshoe magnet, stag)
+# the first rush of dust through the crown's spikes is perfusion (A wrong); swelling, coronary pictures and checking CT are other jobs (B, C, E wrong)
+title: Delayed enhancement MRI shows myocardial scar and infarction
+titleAr: الرنين المغناطيسيّ بالتعزيز المتأخّر يكشف ندبة العضلة القلبيّة والاحتشاء
+tags: cardiac/foundations d:diagnosis q:recall l:2
+palette: Thriller Bark night purple, ghost white and gold dust
+keywords: MRI -> a giant red horseshoe magnet humming like a tuning fork over the hotel; gadolinium -> glowing gold dust sprinkled into the river of blood under the horseshoe magnet; delayed enhancement -> under the horseshoe magnet, after an hourglass has run out, the dead grey scar in the red engine room's wall glowing bright white like a ghost while the living muscle stays dark; myocardial infarction -> the stag over the hotel door brought down by an arrow long ago; perfusion -> the first rush of gold dust through the crown's spikes, before the wait; coronary artery -> the first rush of gold dust through the crown's spikes, before the wait
+must: only after the hourglass has run out does the dead scar glow white; the living muscle stays dark
+scene: Thriller Bark, a ghostly island at night. CENTRE, dominant and brightest: a giant red horseshoe magnet humming over a HART Hotel whose stag over the door was brought down by an arrow long ago; in the red engine room's wall, the dead grey scar glowing bright white like a ghost, while the living muscle around it stays dark; an empty hourglass beside it. AROUND, dimmer: Chopper sprinkling glowing gold dust into the river of blood. LEFT: Usopp screaming in fright at the glowing scar.
+story:
+في جزيرة ثريلر بارك المظلمة، علّق مغناطيس أحمر عملاق على شكل حدوة حصان فوق فندق أسقط سهم أيّله منذ زمن، يطنّ كالشّوكة الرنّانة.
+فنثر تشوبر غبارًا ذهبيًّا متوهّجًا في نهر الدم، ليعرف أيّ جزء من جدار غرفة المحرّك الحمراء ما زال حيًّا.
+«انظروا الآن، الآن! الغبار يجري في أشواك التاج كلّها!» صاح أوسوب.
+لكنّ الغبار في أوّل جريانه ملأ الجدار كلّه بالتّساوي، فلم يظهر شيء.
+فقلب تشوبر ساعةً رمليّة، وانتظروا حتّى نفد رملها، وقد خرج الغبار من العضل الحيّ.
+فإذا الندبة الرماديّة الميّتة في الجدار تتوهّج بيضاء ساطعةً كالشّبح، والعضل الحيّ حولها مظلم.
+«شبح! شبح في الفندق!» صرخ أوسوب، واختبأ خلف تشوبر.
+«ليس شبحًا يا أوسوب؛ إنّها الندبة الميّتة تتوهّج في الصورة المتأخّرة، والعضل الحيّ يبقى مظلمًا!» قال تشوبر.
+فمرّ شبح من أشباح بيرونا بأوسوب المرتجف، فلم يؤثّر فيه؛ فقد كان يتمتم من قبل بما يتمتم به ضحاياها:
+quote: «آسف لأنّني ولدت!»
+source: ضحايا أشباح بيرونا
+explanation:
+Delayed enhancement MRI is used for the detection of myocardial scar and infarction (nonviable myocardium): D.
+Gadolinium leaves normal muscle quickly but lingers in the wide spaces of scar, so on images taken about 10 minutes after the injection the scar is bright and living muscle is dark.
+The depth of the bright area predicts viability: segments with less than about half their thickness scarred are likely to recover after revascularization.
+In the picture, after the gold dust and the empty hourglass, the dead scar glows white like a ghost while the living muscle stays dark.
+Perfusion is seen on the first pass of the contrast, oedema on T2-weighted images, and the coronary arteries by MR or CT angiography.
+Memory hook: on the late picture, dead muscle glows like a ghost.
+
+== 282
+# book 57.2: NSF after gadolinium -> D, renal failure.
+# ANSWER: the patient whose kidney beans are shrivelled grey and tied to the washing machine; the gold dust cannot leave, settles in his skin and turns it stiff like wood (audited kidney bean, horseshoe magnet)
+# the patients with a swollen liver, a traffic jam of taxis, a tired pancreas or an old lightning scar have plump red kidney beans, and the dust washes out (A, B, C, E wrong)
+title: Nephrogenic systemic fibrosis after gadolinium: the risk is renal failure
+titleAr: التليّف الجهازيّ كلويّ المنشأ بعد الغادولينيوم: الخطر في الفشل الكلويّ
+tags: cardiac/foundations d:complications q:recall l:2
+palette: Mock Town tavern brown, gold dust and stiff wood grey
+keywords: MRI -> a giant red horseshoe magnet humming over the patients; gadolinium -> glowing gold dust sprinkled into each patient's river of blood under the horseshoe magnet; renal failure -> a patient whose kidney beans are shrivelled grey and tied to a churning washing machine; NSF -> the gold dust that cannot leave through his beans settling in his skin, turning it stiff and grained like wood, his knees unable to bend; other patients -> a swollen liver, a traffic jam of yellow taxis, a tired pancreas and an old lightning scar, each with plump red kidney beans washing the dust out; congestive heart failure -> one with a traffic jam of yellow taxis round his hotel; stroke -> one with an old lightning scar on his head
+must: only the patient with the shrivelled kidney beans keeps the gold dust and stiffens like wood; the others wash it out
+scene: A tavern in Mock Town on Jaya. CENTRE, dominant and brightest: a patient whose kidney beans are shrivelled grey and tied to a churning washing machine, the glowing gold dust settling in his skin and turning it stiff and grained like wood, his knees unable to bend. Above, a giant red horseshoe magnet humming. AROUND, dimmer: four patients with plump red kidney beans washing the gold dust away: one with a swollen liver, one with a traffic jam of yellow taxis round his hotel, one with a tired pancreas, one with an old lightning scar on his head. LEFT: Usopp pointing at the swollen liver. Chopper.
+story:
+في حانة بمدينة موك تاون، اصطفّ خمسة مرضى تحت المغناطيس العملاق ذي شكل الحدوة، ونثر تشوبر في نهر كلّ منهم غبارًا ذهبيًّا متوهّجًا.
+«أخطرهم صاحب الكبد المنتفخ! الغبار سيعلق فيه حتمًا!» قال أوسوب، وأشار إلى الكبد.
+لكنّ الغبار خرج من صاحب الكبد سريعًا، عبر حبّتي فاصولياء ممتلئتين حمراوين.
+وكذلك خرج من صاحب زحمة السيّارات، ومن صاحب البنكرياس المتعب، ومن صاحب الصاعقة القديمة في رأسه.
+أمّا الخامس، فحبّتا فاصوليائه ذابلتان رماديّتان، مربوطتان إلى غسّالة تدور؛ فلم يجد الغبار بابًا يخرج منه.
+فاستقرّ الغبار في جلده، فصار جلده قاسيًا معرّقًا كالخشب، ولم يعد يقدر أن يثني ركبتيه.
+«الفاصولياء الذابلة تحبس الغبار الذهبيّ، فيصير الجلد خشبًا!» قال تشوبر.
+فرفع رجل ضخم أسود اللحية كأسه في ركن الحانة، وضحك ضحكته الواسعة، وقال:
+quote: «أحلام الناس لا تنتهي أبدًا!»
+source: مارشال دي تيتش (اللحية السوداء)
+explanation:
+Patients undergoing gadolinium-enhanced MRI are at risk of nephrogenic systemic fibrosis (NSF) if they have renal failure: D.
+Gadolinium is cleared by the kidneys; when they fail, it stays in the body for a long time and can trigger fibrosis of the skin, the joints and internal organs.
+The skin thickens and hardens like wood, and contractures can stiffen the joints; the disease can be disabling and even fatal.
+The risk is highest with severe chronic kidney disease (an eGFR under 30), acute kidney injury and dialysis; there contrast is avoided or a safer agent is used at the lowest dose.
+In the picture, only the patient whose kidney beans are shrivelled keeps the gold dust, and his skin turns to wood.
+Memory hook: shrivelled beans keep the gold dust, and the skin turns to wood.
+
+== 283
+# book 57.3: best MRI for quantifying valvular regurgitation -> B, velocity-encoded (phase-contrast) MRI.
+# ANSWER: Captain Smoker's radar speed gun on the horseshoe magnet clocks every drop through the orca's mouth, forward and back, and a counter adds up what flows back (audited horseshoe magnet, mouth, gurgling)
+# the gold-dust glow (delayed enhancement), the moving film (cine), the swelling picture (T2) and the first rush (perfusion) do not measure flow (A, C, D, E wrong)
+title: Valvular regurgitation is best quantified with velocity-encoded MRI
+titleAr: يُقاس القلس الصمّاميّ بأفضل دقّة بالرنين المغناطيسيّ المرمّز بالسرعة
+tags: cardiac/foundations d:diagnosis q:recall l:3
+palette: Loguetown stone grey, smoke white and radar green
+keywords: MRI -> a giant red horseshoe magnet humming over the hotel; velocity-encoded MRI -> a police radar speed gun fixed on the horseshoe magnet, clocking the speed and direction of every drop through the orca's mouth; valvular regurgitation -> the orca's sagging mouth, water gurgling back into the red engine room; quantification -> a counter on the radar adding up the water that flows back and the water that flows forward; other sequences -> glowing gold dust and a moving film strip, set aside; aortic valve -> clocking every drop of water through an orca balloon's sagging mouth
+must: the radar on the magnet clocks every drop through the orca's mouth in both directions and counts the backflow
+scene: Loguetown, a stone harbour town, by day. CENTRE, dominant and brightest: a giant red horseshoe magnet humming over a HART Hotel, a police radar speed gun fixed on it, clocking every drop of water through an orca balloon's sagging mouth, forward and back; a counter on the radar adding up the water that gurgles back into the red engine room. Captain Smoker, the white-haired Marine with two cigars, aiming the radar. AROUND, set aside and dim: a jar of glowing gold dust and a film strip. LEFT: Usopp holding up the gold dust. Chopper.
+story:
+في ميناء لوغتاون، ثبّت الكابتن سموكر ذو السيجارين مسدّس رادار لقياس السرعة على المغناطيس العملاق فوق الفندق.
+فقد كان فم الحوت متدلّيًا، والماء يقرقر راجعًا منه إلى غرفة المحرّك الحمراء، وأراد سموكر أن يعرف: كم يرجع؟
+«الغبار الذهبيّ يرينا كلّ شيء! انثروه وانتظروا!» قال أوسوب، ورفع جرّة الغبار.
+لكنّ الغبار لم يضئ إلّا ندبةً قديمةً في الجدار، ولم يقل شيئًا عن الماء الراجع.
+فضغط سموكر زناد الرادار، فقاس سرعة كلّ قطرة تمرّ من فم الحوت واتّجاهها: إلى الأمام، أو إلى الوراء.
+وأخذ عدّاد الرادار يجمع ما يمضي إلى الأمام، وما يعود إلى الوراء، دقّةً بعد دقّة.
+«لا تفلت من راداري قطرة واحدة!» قال سموكر، ونفث دخان سيجاريه.
+«رادار المغناطيس يقيس كلّ قطرة، ويعدّ ما يرجع!» قال تشوبر.
+فنظر سموكر إلى منصّة الإعدام القديمة في وسط لوغتاون، وتذكّر الكلمة الّتي قيلت عليها:
+quote: «كنزي؟ إن أردتموه فهو لكم. ابحثوا عنه! لقد تركت كلّ شيء في ذلك المكان!»
+source: غول دي روجر
+explanation:
+Valvular regurgitation is best quantified with velocity-encoded MRI: B.
+Velocity-encoded (phase-contrast) MRI measures the speed and direction of blood in every pixel of a plane across the vessel, so the forward and backward volumes through a valve can be calculated beat by beat.
+The regurgitant volume and fraction follow directly, which makes MRI a reference method when echo is uncertain.
+Delayed enhancement shows scar, cine (steady-state free precession) shows motion and size, T2 shows oedema and first-pass imaging shows perfusion; none measures flow.
+In the picture, Smoker's radar on the magnet clocks every drop through the orca's mouth and counts what flows back.
+Memory hook: the radar on the magnet counts the backflow.
+
+== 284
+# book 57.4: best MR plane for the mitral valve -> D, vertical long axis.
+# ANSWER: the one tall vertical hanging scroll shows the bishop's mitre's two leaves from top to bottom (audited horseshoe magnet, mitre)
+# axial, coronal, double-oblique and short-axis views are the low folding screens that show only part of it (A, B, C, E wrong)
+title: The vertical long axis is the best MR plane for the mitral valve
+titleAr: المحور الطويل العموديّ أفضل مستوى في الرنين المغناطيسيّ لتصوير الصمّام التاجيّ
+tags: cardiac/foundations d:diagnosis q:recall l:2
+palette: Wano ink black, scroll cream and cherry pink
+keywords: MRI -> a giant red horseshoe magnet humming over the hotel; vertical long axis -> one tall vertical hanging scroll showing the bishop's mitre's two leaves from top to bottom, opening and closing; mitral valve -> the bishop's mitre between the red lobby and the red engine room; other planes -> four low folding screens (flat, front-on, double-slanted and cross-cut) each showing only a part of the mitre; chordae -> the golden harp strings under the mitre's leaves, seen whole in the tall scroll
+must: only the tall vertical scroll shows the mitre's two leaves whole from top to bottom
+scene: A tea house in the Flower Capital of Wano, cherry blossoms outside. CENTRE, dominant and brightest: a tall vertical hanging scroll in which a bishop's mitre's two leaves, with their golden harp strings, are seen whole from top to bottom, opening and closing; a giant red horseshoe magnet humming above it. AROUND, low and dim: four folding screens, each showing only a part of the mitre. LEFT: Usopp admiring a folding screen. Chopper.
+story:
+في بيت للشّاي في عاصمة الزهور ببلد وانو، أراد تشوبر أن يرى تاج الأسقف تحت المغناطيس العملاق.
+فرسم المغناطيس التاج على خمس لوحات: أربع ستائر مطويّة قصيرة، ولفيفة واحدة طويلة معلّقة.
+«هذه الستارة المطويّة أجملها!» قال أوسوب، ووقف أمام واحدة من الستائر القصيرة.
+لكنّها لم تظهر من التاج إلّا قطعة؛ وكذلك الستائر الثلاث الأخرى، كلّ منها جزء لا يكفي.
+أمّا اللفيفة الطويلة العموديّة، فأظهرت ورقتي التاج كاملتين من أعلاهما إلى أسفلهما، تنفتحان وتنغلقان، وتحتهما أوتار قيثارة ذهبيّة.
+فجلس أوسوب أمام اللفيفة مبهورًا، ونسي كوب الشاي في يده حتّى برد.
+«علّقوا تاج الأسقف على لفيفة طويلة عموديّة، فتروه كلّه!» قال تشوبر.
+فنظر زورو إلى اللفيفة الطويلة تمتدّ من الأرض إلى السقف، وتذكّر عهده القديم:
+quote: «سأصير أقوى! أقوى ممّا كانت هي! حتّى يبلغ اسمي السماء!»
+source: رورونوا زورو
+explanation:
+The vertical long axis is the best MR plane for imaging the mitral valve: D.
+This two-chamber view cuts through the left atrium and left ventricle along their length, so both mitral leaflets are seen from base to tip as they open and close.
+Other long-axis views (the three-chamber and four-chamber views) add the leaflets' other segments, and a stack of short-axis slices maps each scallop.
+In the picture, the tall vertical scroll shows the mitre whole, while the low folding screens show only parts of it.
+Memory hook: hang the mitre on a tall vertical scroll.
+
+== 285
+# book 57.5: MR sequence to quantify regional wall motion -> B, tagged MRI.
+# ANSWER: a fishing net painted on the red engine room's wall, its squares shrinking and twisting with each squeeze, Chopper counting how much each square shrinks (audited horseshoe magnet)
+# the cine film shows the motion but does not measure it (A wrong); black-blood, gold-dust glow and the first rush do other jobs (C, D, E wrong)
+title: Tagged MRI quantifies regional wall motion
+titleAr: الرنين المغناطيسيّ الموسوم يقيس حركة الجدار الموضعيّة
+tags: cardiac/foundations d:diagnosis q:recall l:3
+palette: Foosha village sea blue, net brown and wall red
+keywords: MRI -> a giant red horseshoe magnet humming over the hotel; tagged MRI -> under the horseshoe magnet, a fishing net of dark lines painted on the red engine room's wall, its squares shrinking and twisting as the wall squeezes, Chopper counting how much each square shrinks; regional wall motion -> each patch of the wall squeezing by its own amount; steady-state cine -> a film strip that shows the wall moving but counts nothing; myocardial infarction -> a stag brought down by an arrow beside the hotel, the squares above its scar not shrinking at all; hibernating myocardium -> a brown bear asleep in one patch of the wall, its squares shrinking only a little
+must: the net's squares shrink and twist with each squeeze, and Chopper counts each square
+scene: Foosha Village, a fishing harbour, nets drying on poles. CENTRE, dominant and brightest: a HART Hotel's red engine room with a fishing net of dark lines painted on its wall, the squares shrinking and twisting as the wall squeezes; Chopper with a notebook counting how much each square shrinks; a giant red horseshoe magnet humming above. AROUND, dimmer: a film strip of the wall moving. Beside the hotel lies a stag brought down by an arrow; the squares above its scar do not shrink at all. In one patch of the wall a brown bear sleeps, its squares shrinking only a little. LEFT: Usopp watching the film strip.
+story:
+في قرية فوشا، حيث تنشر شباك الصيّادين على الأعمدة، أراد تشوبر أن يعرف كم ينقبض كلّ جزء من جدار غرفة المحرّك الحمراء.
+«فيلم المغناطيس يكفي! انظر كيف يتحرّك الجدار!» قال أوسوب، وعرض شريط فيلم يتحرّك فيه الجدار.
+فرأوا الجدار يتحرّك، لكنّ الفيلم لم يقل لهم كم يتحرّك كلّ جزء؛ فاختلفوا: هذا يقول كثيرًا، وذاك يقول قليلًا.
+فطلب تشوبر من المغناطيس أن يرسم على الجدار شبكة صيد من خطوط داكنة.
+فلمّا انقبض الجدار، انكمشت مربّعات الشبكة والتوت معه، كلّ مربّع بقدره.
+لكنّ المربّعات فوق الندبة، وبجانب الفندق أيّل صريع بسهم، لم تنكمش أبدًا؛ والمربّعات فوق دبّ بنّيّ نائم في الجدار، لم تنكمش إلّا قليلًا.
+فأخرج تشوبر دفتره، وكتب كم انكمش كلّ مربّع، واحدًا واحدًا.
+«الشبكة على الجدار تعدّ الانقباض رقمًا رقمًا؛ والفيلم يري ولا يعدّ!» قال تشوبر.
+فنظرت نامي إلى الشبكة المرسومة على الجدار كأنّها خطوط خريطة، وقالت:
+quote: «سأرسم خريطةً للعالم كلّه!»
+source: نامي
+explanation:
+Tagged MRI can be used to quantify regional wall motion: B.
+A grid of dark lines is laid magnetically on the myocardium at the start of systole, and the lines move with the muscle, so the deformation (strain) and twist of each segment can be measured.
+Steady-state free precession cine shows wall motion well but is judged by eye; tagging turns it into numbers.
+In the picture, the net painted on the wall shrinks and twists with each squeeze, and Chopper counts each square.
+Memory hook: a net on the wall counts the squeeze.
+
+== 286
+# book 60.1: correct about arrhythmias after paediatric heart surgery -> C, most postoperative complete AV block is temporary.
+# ANSWER: the drawbridge between the upper lobby and the engine room is raised after the builders' work, but lowers again within days as the swelling goes down; a drummer keeps the beat meanwhile (audited drawbridge, drummer)
+# a tachometer racing in the first hours (JET early, B wrong); a wide racing tachometer (VT is wide, D wrong); the long-clamped tongs add risk (E wrong)
+title: Most complete heart block after congenital heart surgery is temporary
+titleAr: أكثر حالات الإحصار القلبيّ التامّ بعد جراحة القلب الخَلقيّة مؤقّتة
+tags: cardiac/arrhythmia d:postoperative q:recall l:2
+palette: Marineford fortress grey, drawbridge oak and drum red
+keywords: complete AV block -> a raised drawbridge between the upper lobby and the red engine room, so no signal crosses; temporary -> the drawbridge lowering again within a few days as the swelling round its chains goes down; temporary pacing -> a marching drummer keeping a steady beat for the engine room meanwhile; junctional ectopic tachycardia -> a tachometer racing in the first hours after the operation; prolonged cross-clamp -> the giant X-shaped iron tongs left long on the orca, a risk
+must: the drawbridge comes down again after a few days; the drummer keeps the beat until then
+scene: The fortress of Marineford. CENTRE, dominant and brightest: a raised drawbridge between a HART Hotel's upper lobby and its red engine room, its chains swollen, slowly lowering again as the swelling goes down; a marching drummer keeping a steady beat for the engine room meanwhile; a calendar showing a few days passing. AROUND, dimmer: a tachometer racing in the first hours after the operation; giant X-shaped iron tongs left long on an orca balloon. LEFT: Usopp ordering a hammer and nails to fix the bridge for ever. Chopper.
+story:
+في قلعة مارينفورد، بعد أن أنهى البنّاؤون عملهم قرب الجسر، ارتفع الجسر المتحرّك بين الردهة العليا وغرفة المحرّك الحمراء، فلم تعد تعبره إشارة.
+وكانت سلاسله منتفخةً من أثر العمل.
+«انتهى الأمر! هاتوا المطارق والمسامير؛ نثبّت مكانه جسرًا جديدًا إلى الأبد!» قال أوسوب.
+لكنّ تشوبر جاء بطبّال يمشي، يدقّ لغرفة المحرّك دقّةً ثابتة، وطلب منهم أن ينتظروا.
+فمع مرور الأيّام، أخذ انتفاخ السلاسل يهبط، وأخذ الجسر ينزل شيئًا فشيئًا، حتّى عاد إلى مكانه.
+فعبرت الإشارات من جديد، وشكر تشوبر الطبّال وصرفه.
+«الجسر الّذي رفعه البنّاؤون ينزل في الغالب بعد أيّام؛ والطّبّال يحفظ الدقّة حتّى ينزل!» قال تشوبر.
+فلمّا عاد الجسر إلى مكانه، عزف بروك على كمانه نغمة فرح، وقال:
+quote: «وعدت لابون أن أعود إليه!»
+source: بروك
+explanation:
+Most cases of postoperative complete AV block are temporary: C.
+Swelling, bleeding or stitches near the conduction tissue can block it after repairs near the AV node; as the swelling settles, conduction usually returns within 7 to 10 days.
+Temporary pacing wires bridge the gap, and a permanent pacemaker is needed only if conduction has not returned by then.
+Arrhythmias after congenital heart surgery are common, well over 10 percent; junctional ectopic tachycardia typically starts within the first 24 h, and ventricular tachycardia is a wide-complex rhythm.
+A long aortic cross-clamp time is a risk factor.
+In the picture, the raised drawbridge comes down again after a few days, while the drummer keeps the beat.
+Memory hook: the drawbridge raised by the builders comes down again.
+
+== 287
+# book 60.2: decreases PVR -> E, sildenafil.
+# ANSWER: a little blue diamond-shaped pill dissolving in the money pipe, the wooden blocks floating away (audited wooden block)
+# a gasping blue-lipped child (hypoxia), a sour lemon (acidosis), a river too thick with red doughnuts (polycythemia) and a screaming, thrashing child (agitation) each add wooden blocks (A, B, C, D wrong)
+title: Sildenafil lowers pulmonary vascular resistance
+titleAr: السيلدينافيل يُخفّض المقاومة الوعائيّة الرئويّة
+tags: cardiac/perioperative d:pharmacology q:recall l:2
+palette: Syrup Village green, pill blue and wood brown
+keywords: PVR -> wooden blocks stacked inside the pipe of dollar bills, one block for each Wood unit; sildenafil -> a little blue diamond-shaped pill dissolving in the money pipe, the wooden blocks floating away; hypoxia -> a gasping child with blue lips; acidosis -> a sour yellow lemon squeezed into the river; polycythemia -> a river too thick with red doughnuts; agitation -> a screaming, thrashing child; pulmonary -> each adding more wooden blocks to another money pipe; cyanosis -> a gasping child with blue lips
+must: only the blue pill makes the wooden blocks float away; the lemon, the blue lips, the thick red river and the screaming child each add blocks
+scene: Syrup Village on a green hill. CENTRE, dominant and brightest: a pipe of green dollar bills in which a little blue diamond-shaped pill is dissolving, the wooden blocks inside it floating away. AROUND, each adding more wooden blocks to another money pipe: a gasping child with blue lips; a sour yellow lemon squeezed into the river; a river too thick with red doughnuts; a screaming, thrashing child. LEFT: Usopp squeezing the lemon. Chopper holding the blue pill.
+story:
+في قرية سيروب، تكدّست مكعّبات خشبيّة داخل أنبوب الدولارات، فصار الماء يعبره بصعوبة.
+«الحامض يذيب الخشب! اعصروا الليمون في النهر!» قال أوسوب، وعصر ليمونةً صفراء في النهر.
+لكنّ المكعّبات زادت بدل أن تذوب؛ وزادت أكثر حين شهق طفل أزرق الشفتين، وحين صرخ طفل آخر وهو يتخبّط.
+وزادت كذلك حين غلظ النهر بكعكات حمراء كثيرة جدًّا.
+فأخرج تشوبر حبّةً زرقاء صغيرةً على شكل معيّن، وألقاها في أنبوب الدولارات.
+فذابت الحبّة، وطفت المكعّبات الخشبيّة مبتعدة، وجرى الماء في الأنبوب سهلًا.
+«الحبّة الزرقاء تغسل المكعّبات من أنبوب الدولارات؛ أمّا الليمون والشّفاه الزرقاء والنّهر الغليظ والصّراخ فتزيدها!» قال تشوبر.
+فخجل أوسوب من ليمونته، ونظر إلى البحر من قريته القديمة، وقال حلمه الأوّل:
+quote: «أريد أن أكون محاربًا شجاعًا من محاربي البحر!»
+source: أوسوب
+explanation:
+Sildenafil decreases pulmonary vascular resistance: E.
+It blocks phosphodiesterase-5, so nitric oxide's messenger (cyclic GMP) lasts longer in the pulmonary arteries and they relax; it is also used to wean inhaled nitric oxide.
+Hypoxia and acidosis constrict the pulmonary arteries, polycythemia thickens the blood, and agitation and pain raise catecholamines: all four raise PVR.
+After paediatric heart surgery, oxygen, mild alkalosis, sedation and pulmonary vasodilators are used to keep PVR low.
+In the picture, the blue pill makes the wooden blocks float away, while the lemon, the blue lips, the thick red river and the screaming child add more.
+Memory hook: the little blue pill washes the blocks out of the money pipe.
+
+== 288
+# book 60.3: NOT a risk factor for postoperative pulmonary hypertension -> D, normal preoperative PA pressures.
+# ANSWER: the child whose money-pipe gauge sat calmly in the normal zone before the operation stays calm (audited gauge)
+# the newborn, the single water tap (TAPVR), the older child with a long-open shunt and the three football shirts numbered 21 (Down syndrome) each have a gauge jumping into the red (A, B, C, E wrong)
+title: Normal preoperative pulmonary pressure is not a risk factor for postoperative pulmonary hypertension
+titleAr: الضغط الرئويّ الطبيعيّ قبل الجراحة ليس عاملَ خطرٍ لارتفاع الضغط الرئويّ بعدها
+tags: cardiac/perioperative d:complications q:recall l:2
+palette: Kokoyashi tangerine orange, gauge red and calm green
+keywords: postoperative pulmonary hypertension -> the pressure gauge on a pipe of dollar bills jumping into the red after the operation; normal preoperative PA pressure -> a child whose money-pipe gauge sat calmly in the green zone before the operation, staying calm after; neonatal repair -> a newborn in a crib; TAPVR -> the money pipes from the lungs gathered into one water tap that empties into the wrong side; uncorrected defect in an older child -> an older child whose shunt has stayed open for years; Down syndrome -> three identical football shirts all numbered 21
+must: only the child whose gauge was calm before the operation stays calm; the four others' gauges jump into the red
+scene: Kokoyashi Village among the tangerine groves. CENTRE, dominant and brightest: a calm child whose pipe of dollar bills has its pressure gauge resting in the green zone, before and after the operation. AROUND, each with a gauge on a money pipe jumping into the red: a newborn in a crib; a child whose money pipes gather into one water tap emptying into the wrong side; an older child whose shunt has stayed open for years; three identical football shirts all numbered 21 hanging on a line. LEFT: Usopp pointing at the calm child. Chopper.
+story:
+في قرية كوكوياشي بين بساتين اليوسفيّ، خرج خمسة أطفال من جراحة القلب، وعلى أنبوب الدولارات عند كلّ منهم مقياس للضّغط.
+فقفزت إبرة المقياس إلى الأحمر عند الرضيع حديث الولادة في مهده، وعند الطفل الّذي تجتمع أنابيبه في صنبور واحد يصبّ في الجهة الخطأ.
+وقفزت عند طفل أكبر بقيت تحويلته مفتوحةً سنين، وعند صاحب القمصان الثلاثة ذات الرقم واحد وعشرين.
+«وهذا الطفل الهادئ سيقفز مقياسه أيضًا؛ كلّ من جرحه الجرّاح في خطر!» قال أوسوب، وأشار إلى الطفل الخامس.
+لكنّ إبرة الطفل الخامس كانت هادئةً في الأخضر قبل الجراحة، وبقيت هادئةً بعدها.
+فجدران أنبوبه ليّنة، لم ترهقها السنون، ولا تنقبض لكلّ سبب.
+«مقياس هادئ قبل الجراحة، يبقى هادئًا بعدها!» قال تشوبر.
+فجثا تشوبر أمام الطفل الخامس الهادئ، وسأله كما سأل كوما يومًا:
+quote: «لو كان بوسعك أن تسافر، فإلى أين تريد أن تذهب؟»
+source: بارثولوميو كوما
+explanation:
+Patients with normal preoperative PA pressures are not at particular risk of postoperative pulmonary hypertension: D.
+Pulmonary hypertensive crises after surgery are most likely when the pulmonary arteries are reactive or remodelled: neonatal repair, obstructed total anomalous pulmonary venous return, large shunts repaired late in an older child, and Down syndrome.
+Bypass itself can trigger a crisis through endothelial injury and inflammation, and suctioning, pain or hypoxia can set one off.
+In the picture, only the child whose gauge sat calmly in the green before the operation stays calm.
+Memory hook: a calm gauge before stays calm after.
+
+== 289
+# book 60.4: NOT a risk factor for neurologic injury -> D, hemoconcentration.
+# ANSWER: a strainer squeezing extra water out of the river so the red doughnuts are crowded thick, the head lantern glowing calm (audited red doughnuts)
+# the frozen ice cube (circulatory arrest), doughnuts poured in from bags (transfusion), water rushing back into a dried pipe (reperfusion) and the sleeping gas (anaesthesia) all threaten the lantern (A, B, C, E wrong)
+title: Hemoconcentration is not a risk factor for neurologic injury
+titleAr: تركيز الدم ليس عامل خطر لأذيّة الجهاز العصبيّ
+tags: cardiac/perioperative d:complications q:recall l:3
+palette: frozen-sea ice blue, doughnut red and lantern gold
+keywords: neurologic injury -> a glowing lantern shaped like a head, flickering and cracking; hemoconcentration -> a strainer squeezing extra water out of the river so the red doughnuts are crowded thick, the head lantern glowing calm; hypothermic circulatory arrest -> the whole HART Hotel, the orca and the head lantern frozen inside one giant ice cube; blood transfusion -> bags of red doughnuts poured into the river; reperfusion -> water rushing back into a dried pipe with a bang; anesthesia -> a cloud of sleeping gas round the lantern; stroke -> a lightning bolt striking one cracking head lantern
+must: only the strainer that thickens the river leaves the head lantern glowing calm; the ice cube, the poured bags, the rush back and the sleeping gas make it flicker
+scene: A sea frozen solid by an admiral's ice. CENTRE, dominant and brightest: a strainer squeezing extra water out of a river so the red doughnuts in it are crowded thick, and above it a glowing lantern shaped like a head, burning calm and steady. AROUND, each making another head lantern flicker and crack: a whole HART Hotel and its lantern frozen inside one giant ice cube; bags of red doughnuts poured into the river; water rushing back into a dried pipe with a bang; a cloud of sleeping gas. A lightning bolt strikes one cracking head lantern. LEFT: Usopp pouring water into the river to thin it. Chopper.
+story:
+على بحر جمّده أميرال بجليده، كان فوق كلّ فندق فانوس على شكل رأس، وكان تشوبر يخشى على الفوانيس أن ترتعش وتتشقّق.
+وكان قد رأى يومًا صاعقةً تضرب فانوسًا منها فيتشقّق.
+فقد ارتعش فانوس حين جمّد الفندق كلّه في مكعّب ثلج عملاق، وآخر حين صبّت في نهره أكياس من الكعكات الحمراء.
+وارتعش ثالث حين اندفع الماء راجعًا إلى أنبوب جافّ بدويّ، ورابع في سحابة من غاز النوم.
+«والنّهر الغليظ خطر أيضًا! أخفّفه بالماء ليجري أسرع!» قال أوسوب، وصبّ دلوًا من الماء في النهر.
+فخفّ النهر حتّى صار ورديًّا باهتًا، وارتعش فانوس الرأس فوقه.
+فأخذ تشوبر مصفاةً، وعصر بها الماء الزائد من النهر، حتّى ازدحمت الكعكات الحمراء فيه كثيفة.
+فهدأ الفانوس، وأضاء ثابتًا هادئًا.
+«الثلج والأكياس والاندفاع وغاز النوم ترعش الفانوس؛ أمّا المصفاة الّتي تكثّف النهر فتهدّئه!» قال تشوبر.
+فأطرق أوسوب خجلًا من دلوه، وقال كما قال يومًا وهو يبكي على رصيف البحر:
+quote: «أنا آسف يا لوفي! أرجوك، دعني أعود إليكم!»
+source: أوسوب
+explanation:
+Hemoconcentration is not a risk factor for neurologic injury: D.
+After bypass, ultrafiltration concentrates the diluted blood and raises the haematocrit; in infants, a low haematocrit on bypass has been linked to worse neurodevelopment, so concentrating the blood is protective rather than harmful.
+Deep hypothermic circulatory arrest, especially when long, blood transfusion, reperfusion injury and anaesthetic agents are listed among the risks to the developing brain.
+In the picture, only the strainer that thickens the river leaves the head lantern glowing calm.
+Memory hook: a thicker red river keeps the lantern calm.
+
+== 290
+# book 60.5: NOT a risk factor for bloodstream infection in the paediatric ICU -> B, a lower PRISM score.
+# ANSWER: a glass PRISM casting only a pale, thin rainbow (a low score: a less sick child), no broccoli in his river
+# a tiny baby on the scales (low weight), bags of red doughnuts and ice lollies (blood products), the bellows pumping for weeks (ventilation) and shrivelled kidney beans (renal dysfunction) each grow broccoli in the river (A, C, D, E wrong) (audited bellows, kidney bean, red doughnuts, ice lolly)
+title: A lower PRISM score is not a risk factor for bloodstream infection in the paediatric ICU
+titleAr: انخفاض مقياس PRISM ليس عامل خطر لعدوى مجرى الدم في العناية المركّزة للأطفال
+tags: cardiac/perioperative d:complications q:recall l:3
+palette: infirmary white, rainbow pastel and broccoli green
+keywords: bloodstream infection -> broccoli sprouting in the river of blood; PRISM score -> a glass prism whose rainbow is bright and wide for a very sick child, thin and pale for a less sick one; lower PRISM score -> a prism casting only a pale, thin rainbow, no broccoli in that child's river; lower admission weight -> a tiny baby on the scales; blood product exposure -> bags of red doughnuts and a yellow ice lolly poured in; prolonged mechanical ventilation -> a big leather bellows pumping air down the ribbed hose for weeks; renal dysfunction -> kidney beans shrivelled grey; red blood cells -> bags of red doughnuts and a yellow ice lolly poured in
+must: the child with the pale, thin rainbow has no broccoli; the tiny baby, the bags, the bellows and the shrivelled beans each have broccoli in the river
+scene: Chopper's sick bay aboard the Thousand Sunny. CENTRE, dominant and brightest: a glass prism casting only a pale, thin rainbow over a calm child, no broccoli in his river of blood. AROUND, each with broccoli sprouting in the river of blood: a tiny baby on the scales; bags of red doughnuts and a yellow ice lolly poured in; a big leather bellows pumping air down a ribbed hose for weeks; kidney beans shrivelled grey. LEFT: Usopp shining a bright, wide rainbow from his own prism. Chopper.
+story:
+في عيادة تشوبر على الثاوزند صني، رقد خمسة أطفال، وفوق كلّ منهم موشور زجاجيّ يلقي قوس قزح.
+وكلّما اشتدّ مرض الطفل، صار قوسه أعرض وأسطع.
+فنبت البروكلي في نهر الرضيع الصغير على الميزان، وفي نهر من صبّت فيه أكياس الكعكات ومصّاصة الثلج الصفراء.
+ونبت في نهر من ينفخ فيه المنفاخ الجلديّ أسابيع طويلة، وفي نهر صاحب الفاصولياء الذابلة.
+«وهذا قوسه باهت رفيع؛ إذن هو أكثرهم خطرًا، فالضّعيف يمرض!» قال أوسوب، وأشار إلى الطفل الخامس.
+لكنّ نهر الطفل الخامس بقي نظيفًا لا بروكلي فيه؛ فقوسه الباهت يعني أنّه أقلّهم مرضًا.
+«قوس باهت رفيع، ونهر نظيف؛ القوس العريض الساطع هو الخطر!» قال تشوبر.
+فشدّ الطفل الخامس أذن تشوبر ضاحكًا، وسمّاه راكونًا، فصاح تشوبر:
+quote: «أنا لست راكونًا! أنا رنّة!»
+source: توني توني تشوبر
+explanation:
+A lower PRISM score is not a risk factor for bloodstream infection in the paediatric ICU: B.
+PRISM (Pediatric Risk of Mortality) scores how sick a child is; a higher score, not a lower one, goes with more infections.
+Lower admission weight, exposure to blood products, prolonged mechanical ventilation and renal dysfunction all raise the risk, as do central lines left in for long.
+In the picture, the prism casting only a pale, thin rainbow belongs to the child without broccoli in his river.
+Memory hook: a pale rainbow, a clean river.

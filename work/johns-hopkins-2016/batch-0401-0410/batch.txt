@@ -1,0 +1,306 @@
+book: johns-hopkins-2016
+# Lessons 401-410 (book 85.4-88.3: Ebstein repair and outcomes; ECMO in children; ventricular assist devices in children).
+# Written 2026-11-22, morning. Each story: a hook, a wrong try that fails, the answer acting, a payoff line that names
+# the symbol, and a lead-in that says who speaks the quotation and why it fits.
+# 402: only the keyed figure (80 percent at 20 years after the Carpentier repair) is stated; the others are left out.
+# 403, 404, 407: the book's keys are kept, each with a note on what is debated.
+# OCR misprints of 401, 408, 409 and 410 are mended by the book's 'typos' map ("Fro 2" -> FiO2, "1 25,000", "Heartrnate").
+# Quotations added 2026-11-22 (the owner left the choice to the agent: "make anything strong and consistent"):
+# a One Piece line (at most three uses, 20 lessons apart) or a classical Arabic line read out by Robin; see ../quote-bank.md.
+
+== 401
+# book 85.4: NOT a component of Ebstein repair -> C, enlargement of the interatrial septal defect.
+# ANSWER: Usopp's crowbar widening the hole in the upper party wall is turned away; Franky stitches it smaller (audited upper party wall, einstein, trident, atrium, pirate, hedge maze)
+title: Enlarging the atrial septal defect is not part of the repair of Ebstein's anomaly
+titleAr: توسيع الفتحة بين الأذينين ليس من خطوات إصلاح شذوذ إبشتاين
+tags: cardiac/congenital d:technique q:recall l:3
+palette: shipwright's workshop oak, wall cream and trident gold
+keywords: Ebstein's anomaly -> Einstein, wild white hair, pushing the trident down into the blue engine room; enlargement of the interatrial septal defect -> Usopp trying to widen the hole in the upper party wall with a crowbar, turned away, while Franky stitches the hole smaller; reconstruction of the tricuspid valve -> the trident's prongs rebuilt into a working door at its proper brass collar; plication of the atrialized right ventricle -> the paper-thin extra atrium lobby above the engine room's fan folded flat and stitched like a pleat; arrhythmia procedures -> the pirate dancing out of step caught in a green hedge maze cut across the lobbies; atrial reduction -> the huge blue atrium lobby cut down to a smaller size and sewn
+must: the crowbar widening the hole is turned away and the hole is stitched smaller; the four other crews rebuild, fold, trim and catch the pirate
+scene: Franky's workshop deep inside the Thousand Sunny. CENTRE, dominant and brightest: Usopp trying to widen a hole in the upper party wall with a crowbar, turned away, while Franky stitches the hole smaller. AROUND, each in its own place: Einstein's pushed-down trident rebuilt into a working door at its brass collar; the paper-thin extra atrium lobby above the engine room's fan folded flat and stitched like a pleat; the huge blue atrium lobby cut down to size; a pirate dancing out of step caught in a green hedge maze. Chopper.
+story:
+في ورشة فرانكي في جوف الثاوزند صني، جيء بفندق دفع آينشتاين رمحه الثلاثيّ إلى أسفل، فصار أعلى غرفته الزرقاء ردهةً رقيقةً كالورق، وانتفخت ردهته الزرقاء انتفاخًا عظيمًا.
+«وهذا الثقب في الجدار العلويّ؛ سأوسّعه ليخفّ الزحام!» قال أوسوب، وغرز عتلته في الثقب.
+«توقّف يا أوسوب! هذا الثقب يضيّق ولا يوسّع!» صاح فرانكي، وخاطه حتّى صغر، ولم يترك فيه إلّا فتحةً دقيقة.
+ثمّ أعاد بناء الرمح الثلاثيّ بابًا يغلق عند طوقه النحاسيّ، وطوى الردهة الرقيقة فوق المروحة طيّةً مخيطة.
+وقصّ الردهة الزرقاء المنتفخة إلى حجمها، وخاطها من جديد.
+وفي الركن، أمسك تشوبر بالقرصان الّذي يرقص خارج اللحن، وحبسه في متاهة من السياج الأخضر.
+«في فندق آينشتاين، يصغر الثقب في الجدار، ولا يكبر أبدًا!» قال تشوبر.
+فسحب أوسوب عتلته من الثقب على عجل، وقالت روبين مثلًا قديمًا:
+quote: «كالمستجير من الرمضاء بالنّار.»
+source: مثل عربيّ
+explanation:
+Enlargement of the interatrial septal defect is not a component of the repair of Ebstein's anomaly: C.
+The atrial septal defect or patent foramen ovale is usually closed, sometimes leaving a small fenestration, never enlarged.
+The repair rebuilds the tricuspid valve, today often as a cone, plicates the thin atrialized right ventricle, reduces the enlarged right atrium and treats arrhythmias with ablation or a maze procedure.
+In the picture, Usopp's crowbar is turned away while the other crews rebuild, fold, trim and catch the pirate.
+Memory hook: in Ebstein's repair the hole in the wall gets smaller, never bigger.
+
+== 402
+# book 85.5: correct about outcomes after Ebstein repair -> B, freedom from tricuspid insufficiency is 80 percent at 20 years after the Carpentier repair.
+# ANSWER: eight of ten carpenter-mended tridents still shut tight after 20 candles; after the cone repair the blue room shrinks (D wrong) (audited carpenter, trident, gurgling, ice-cream cone, astronaut)
+title: Twenty years after the Carpentier repair, 80 percent are free of tricuspid regurgitation
+titleAr: بعد عشرين عامًا من إصلاح كاربنتييه يبقى 80 في المئة بلا قلسٍ في الصمّام ثلاثيّ الشرف
+tags: cardiac/congenital d:evidence q:numbers l:3
+palette: carpenter's pine, trident gold and candle white
+words: 80%, 20
+keywords: Carpentier repair -> a CARPENTER at his bench rebuilding Einstein's trident, folding the thin lobby lengthwise and fitting a brass collar; freedom from tricuspid insufficiency -> eight of ten carpenter-mended tridents still shut tight, not gurgling, after 20 candles, 80% painted above; cone repair -> Einstein rolling the trident's leaves into an ice-cream cone, the blue engine room shrinking afterwards; bidirectional Glenn (one and a half ventricle repair) -> an astronaut bending the blue wing's chimney into the pipe of dollar bills beside a mended trident, so the blue engine room's fan carries only part of the load; ebstein -> Einstein rolling a trident's leaves into an ice-cream cone; tricuspid valve -> a CARPENTER at his bench with ten rebuilt tridents
+must: eight of ten carpenter-mended tridents are still shut tight after 20 candles
+scene: A carpenter's workshop in Shimotsuki village. CENTRE, dominant and brightest: a CARPENTER at his bench with ten rebuilt tridents, eight of them still shut tight and not gurgling after 20 candles, 80% painted above. AROUND, dimmer: Einstein rolling a trident's leaves into an ice-cream cone, the blue engine room behind it shrinking; an astronaut bending the blue wing's chimney into the pipe of dollar bills beside a mended trident. LEFT: Usopp. Chopper.
+story:
+في ورشة نجّار بقرية شيموتسوكي، كان النجّار قد أصلح قبل عشرين عامًا عشرة رماح ثلاثيّة دفعها آينشتاين إلى أسفل.
+كان يحرّر السنّ الأماميّ الكبير، ويطوي الردهة الرقيقة طولًا، ويثبّت حول الباب طوقًا نحاسيًّا.
+«عشرون عامًا؟ لا بدّ أنّها كلّها تقرقر الآن!» قال أوسوب، وأوقد الشمعة العشرين على الكعكة.
+لكنّ ثمانيةً من العشرة كانت ما تزال مغلقةً محكمةً لا تقرقر، وفوقها ثمانون في المئة مطليّة بالذّهب.
+وفي الجهة الأخرى، لفّ آينشتاين ورقات رمح آخر على شكل مخروط آيسكريم، فأخذت الغرفة الزرقاء خلفه تصغر شهرًا بعد شهر.
+وبجانبه رائد فضاء يحني مدخنة الجناح الأزرق إلى أنبوب الدولارات، ليحمل عن الغرفة الزرقاء بعض حملها.
+«رمح النجّار يصمد: ثمانون في المئة بعد عشرين!» قال تشوبر.
+فربت النجّار على رماحه الصامدة، وتذكّر فتًى من هذه القرية أقسم يومًا:
+quote: «لن أخسر مرّةً أخرى أبدًا!»
+source: رورونوا زورو
+explanation:
+Freedom from tricuspid insufficiency is 80 percent at 20 years after the Carpentier repair: B, as the book gives it.
+Carpentier's repair mobilizes the anterior leaflet, plicates the atrialized chamber longitudinally and supports the annulus with a ring, giving a durable valve.
+In the cone repair of da Silva, the leaflets are mobilized and rotated into a cone fixed at the true annulus, and the right ventricle becomes smaller afterwards, so D is wrong.
+The other figures, for the Danielson, Augustin and one and a half ventricle repairs, are not the ones the book reports.
+In the picture, eight of ten carpenter-mended tridents are still shut tight after 20 candles.
+Memory hook: the carpenter's trident holds, 80 percent at 20.
+
+== 403
+# book 87.1: NOT a risk factor for mortality on VA-ECMO -> D, single ventricle physiology (book's key kept, note).
+# ANSWER: in the Baratie's infirmary, the single-engine-room hotel keeps its gills humming with no coffin of its own; the four others each have one (audited gills, single engine room, coffin, bellows)
+title: In the book, single-ventricle physiology is not a risk factor for death on VA-ECMO
+titleAr: في الكتاب: فيزيولوجيا البطين الواحد ليست عاملَ خطرٍ للوفاة على الإكمو الوريديّ الشريانيّ
+tags: cardiac/heart-failure d:evidence q:recall l:3
+palette: galley-infirmary white, gills red and coffin black
+note: The book's key is D. Single-ventricle physiology carries a higher ECMO mortality in several registry reports; the book counts it out, unlike the other four.
+keywords: VA-ECMO -> a pair of big red fish gills in a clear box on a bedside trolley, a pump spinning beneath it; risk factors for mortality -> four small coffins, each with its sign; age less than 1 month -> a newborn's tiny cradle beside a coffin; male gender -> a blue baby cap beside a coffin; mechanical ventilation before support -> big leather bellows pumped for days before the gills arrived, beside a coffin; hepatic dysfunction -> a grey shrivelled liver beside a coffin; single ventricle physiology -> a hotel with a single engine room, its gills humming, with no coffin of its own
+must: the single-engine-room hotel keeps its gills humming with no coffin; the four others each stand by a coffin
+scene: The infirmary of the Baratie, the floating restaurant, at night. CENTRE, dominant and brightest: a HART Hotel with a single engine room, a pair of big red fish gills humming on a trolley beside it, and no coffin. AROUND, each beside a small coffin: a newborn's tiny cradle; a blue baby cap; big leather bellows pumped for days; a grey shrivelled liver. LEFT: Usopp. Chopper.
+story:
+في مستوصف الباراتي، المطعم العائم، كانت خياشيم سمك حمراء كبيرة في صناديق شفّافة تتنفّس عن خمسة فنادق صغيرة متعبة.
+«فندق بغرفة محرّك واحدة؟ هذا أوّل من نصنع له تابوتًا!» قال أوسوب، وأشار إلى أصغرها.
+لكنّ دفتر المستوصف وضع التوابيت الأربعة عند غيره، كلًّا عند علامته.
+تابوتًا عند مهد وليد لم يتمّ شهره الأوّل، وتابوتًا عند قبّعة صبيّ زرقاء.
+وتابوتًا عند منفاخ جلديّ كبير ظلّ ينفخ أيّامًا قبل أن تصل الخياشيم، وتابوتًا عند قطعة كبد رماديّة ذابلة على طبق الطاهي.
+أمّا الفندق ذو الغرفة الواحدة، فظلّت خياشيمه تدندن، وليس له في هذا الدفتر تابوت.
+«أربع علامات عند التوابيت، والغرفة الواحدة وحدها بلا تابوت!» قال تشوبر.
+فخجل أوسوب من إصبعه الممدودة، وقالت روبين مثلًا قديمًا:
+quote: «ربّ ملوم لا ذنب له.»
+source: مثل عربيّ
+explanation:
+Single ventricle physiology is the one option the book does not count as a risk factor for mortality on VA-ECMO: D.
+The book lists age under one month, male gender, a long period of mechanical ventilation before support and hepatic dysfunction.
+Prolonged ventilation before ECMO reflects lung injury and delay, and hepatic dysfunction reflects end-organ damage from low output.
+Single-ventricle patients do carry a higher mortality in several registry reports, so the point is debated.
+In the picture, the single-engine-room hotel keeps its gills humming with no coffin of its own.
+Memory hook: four signs stand by the coffins; the single engine room stands apart.
+
+== 404
+# book 87.2: true about VA-ECMO as a bridge to transplantation -> A, mortality approaches 50 percent (book's key kept, note on B).
+# ANSWER: on the Bridge of Hesitation, half of the children crossing from the gills fall before reaching the flowerpot (audited gills, flowerpot, coffin, vader)
+title: As a bridge to transplantation, VA-ECMO carries a mortality approaching 50 percent
+titleAr: الإكمو الوريديّ الشريانيّ جسرًا إلى الزرع: الوفيات تقارب 50 في المئة
+tags: cardiac/heart-failure d:evidence q:numbers l:3
+palette: bridge stone, gills red and flowerpot terracotta
+words: 50%
+note: The book's key is A. Option B is debated: registry data show lower survival after transplant for children bridged on ECMO, while some centres found it similar once they reach transplant.
+keywords: VA-ECMO -> a pair of big red fish gills in a clear box on a bedside trolley; bridge to transplantation -> a long stone bridge from the gills' trolley to a gardener holding a new hotel in a terracotta flowerpot; mortality approaching 50 percent -> half of the children crossing the bridge falling before the far side, a coffin below, 50% painted above; Berlin Heart EXCOR -> Darth Vader with his little pump walking the long wait more safely; pre-ECMO cardiac arrest -> a stopped clock hanging on the gills' trolley, a worse sign
+must: half of the children crossing from the gills fall before reaching the flowerpot
+scene: The Bridge of Hesitation at Enies Lobby, over a deep gorge. CENTRE, dominant and brightest: children on bedside trolleys with big red fish gills crossing a long stone bridge towards a gardener holding a new HART Hotel in a terracotta flowerpot; half of them falling before the far side, a coffin below, 50% painted above. AROUND, dimmer: Darth Vader with his little pump walking the long wait more safely; a stopped clock hanging on one trolley. LEFT: Usopp. Chopper.
+story:
+على جسر التردّد في إنيس لوبي فوق الهاوية، دفعت عربات أطفال مرضى، على كلّ منها خياشيم سمك حمراء تتنفّس عنهم.
+وفي الطرف البعيد، وقف بستانيّ يحمل فندقًا جديدًا في أصيص فخّاريّ.
+«الخياشيم تحملهم كلّهم إلى الأصيص؛ ما هو إلّا جسر قصير!» قال أوسوب.
+لكنّ الجسر كان أطول ممّا ظنّ، والخياشيم لا تصبر إلّا أيّامًا وأسابيع؛ فسقط نصف الأطفال قبل الطرف الآخر.
+وتحت الجسر تابوت، وفوقه خمسون في المئة مطليّة بالأحمر.
+أمّا دارث فيدر بمضخّته الصغيرة، فكان يعبر الانتظار الطويل بأمان أكبر؛ وعربة علّقت عليها ساعة متوقّفة كانت أسوأ حظًّا.
+«على جسر الخياشيم، لا يصل النصف إلى الأصيص!» قال تشوبر.
+فوقف أوسوب على طرف الجسر ينظر إلى الهاوية، وتذكّر يومًا صاح فيه لوفي هنا بروبين:
+quote: «قولي إنّك تريدين أن تعيشي!»
+source: مونكي دي لوفي
+explanation:
+When VA-ECMO is used as a bridge to transplantation, mortality approaches 50 percent: A.
+ECMO supports both heart and lungs but only for days to weeks, while children often wait longer for a heart, and bleeding, thrombosis, infection and neurologic injury accumulate.
+Cardiac arrest before ECMO worsens the outlook, and a ventricular assist device such as the Berlin Heart EXCOR bridges children for longer and with better survival.
+In the picture, half of the children crossing from the gills fall before reaching the flowerpot.
+Memory hook: on the gills' bridge, half do not reach the flowerpot.
+
+== 405
+# book 87.3: correct about ECMO technique -> A, the right common carotid artery is the preferred arterial site in neonates and infants.
+# ANSWER: on Thriller Bark, a small brass cannon goes down the baby's right carrot and stops where it meets the orca's arch (audited cannon, carrot, gills, thigh bone)
+title: In neonates and infants on ECMO, the right common carotid artery is the preferred arterial site
+titleAr: عند الولدان والرضّع على الإكمو: الشريان السباتيّ الأصليّ الأيمن هو الموضع المفضّل للقنية الشريانيّة
+tags: cardiac/heart-failure d:technique q:recall l:3
+palette: ghost-ship violet, cannon brass and carrot orange
+keywords: ECMO -> a pair of big red fish gills in a clear box on a bedside trolley, a pump spinning beneath it; arterial cannulation via the right common carotid artery -> a small brass cannon pushed down the right orange carrot of a baby, its muzzle stopping where the carrot meets the orca's arch; cannula tip in the ascending aorta -> a cannon pushed too far, into the orca's front climb, turned back; carotid reconstruction -> the carrot sewn back together afterwards, with no proven gain for the head lantern; venous cannula -> a second cannon down the blue chimney into the blue lobby; femoral artery -> a red pipe beside the long white thigh bone, kept for bigger children
+must: the cannon goes down the baby's right carrot and stops where it meets the orca's arch
+scene: Thriller Bark, the giant ghost ship. CENTRE, dominant and brightest: a baby's HART Hotel with a small brass cannon pushed down its right orange carrot, the muzzle stopping where the carrot meets the orca's arch, its hose running to a pair of big red fish gills on a trolley. AROUND, dimmer: a cannon pushed too far into the orca's front climb, turned back; a second cannon down the blue chimney; a red pipe beside a long white thigh bone, kept for bigger children. LEFT: Usopp. Chopper.
+story:
+على ثريلر بارك، السفينة الشبح العملاقة، احتاج رضيع صغير إلى خياشيم السمك الحمراء تتنفّس عنه.
+«ندخل المدفع من أعلى الفخذ، كما نفعل للكبار!» قال أوسوب، وحمل مدفعًا نحاسيًّا صغيرًا.
+لكنّ الأنبوب الأحمر بجانب عظم الفخذ الأبيض كان عند الرضيع أرفع من فوّهة المدفع.
+فأخذ تشوبر المدفع إلى العنق، ودفعه في الجزرة البرتقاليّة اليمنى، حتّى وقفت فوّهته حيث تلتقي الجزرة بقوس الحوت.
+وأدخل بجانبه مدفعًا ثانيًا في المدخنة الزرقاء، وردّ مدفعًا آخر دفعه أوسوب بعيدًا في صعود الحوت الأماميّ.
+وحين تعافى الرضيع، خيطت الجزرة أو ربطت؛ ولم يثبت أنّ خياطتها تزيد فانوس الرأس نورًا.
+«عند الرضيع، ينزل المدفع في الجزرة اليمنى!» قال تشوبر.
+فنظر أوسوب إلى مدفعه الكبير والأنبوب الرفيع، وقالت روبين مثلًا قديمًا:
+quote: «على قدر لحافك مدّ رجليك.»
+source: مثل عربيّ
+explanation:
+The right common carotid artery is the preferred site for arterial cannulation in neonates and infants on ECMO: A.
+It is large enough for a cannula in small babies and is reached through a short neck incision, with the venous cannula placed alongside through the right internal jugular vein into the right atrium.
+The tip of the arterial cannula lies at the junction of the innominate artery and the aortic arch, not in the ascending aorta.
+Reconstruction of the carotid artery after decannulation has not been shown to improve long-term neurologic outcome.
+Femoral cannulation is kept for older children and adults, whose femoral vessels are big enough.
+In the picture, the cannon goes down the baby's right carrot and stops where it meets the orca's arch.
+Memory hook: in a baby, the cannon goes down the right carrot.
+
+== 406
+# book 87.4: true for VV-ECMO -> C, the pulmonary vascular bed is perfused with oxygen-rich blood.
+# ANSWER: on Fish-Man Island, the water leaving the gills is bright red before it reaches the pipes of dollar bills (audited gills, dollar, cannon, crown, money sacks)
+title: On VV-ECMO, the pulmonary vessels are perfused with oxygen-rich blood
+titleAr: على الإكمو الوريديّ الوريديّ تُروى أوعية الرئة بدمٍ غنيٍّ بالأكسجين
+tags: cardiac/heart-failure d:physiology q:recall l:3
+palette: deep-sea blue, gills red and money green
+keywords: VV-ECMO -> a pair of big red fish gills drawing blue water from the blue chimney and returning it bright red into the blue lobby, all of it then pumped by the hotel's own fans; pulmonary vascular bed perfused with oxygen-rich blood -> the pipes of dollar bills filled with bright red water that has already passed the gills; pulsatile flow preserved -> the hotel's own fans still beating in rhythm; single double-lumen cannula -> one brass cannon with two barrels in the chimney; myocardial oxygenation -> the green crown fed with the same bright red water; lungs rested -> the money sacks resting, lightly puffed, not squashed flat
+must: the water leaving the gills is already bright red before it reaches the pipes of dollar bills
+scene: Fish-Man Island, deep under the sea, where people breathe with gills. CENTRE, dominant and brightest: a pair of big red fish gills on a trolley drawing blue water from a HART Hotel's blue chimney and returning it bright red into the blue lobby, so the pipes of dollar bills fill with bright red water; the hotel's own fans still beating. AROUND, dimmer: one brass cannon with two barrels in the chimney; the green crown fed with bright red water; the money sacks resting, lightly puffed. LEFT: Usopp. Chopper.
+story:
+في جزيرة رجال السمك تحت البحر، حيث يتنفّس الناس بالخياشيم، تعبت أكياس دولارات فندق صغير حتّى عجزت عن عملها.
+«نوقف مراوح الفندق، ونجعل الخياشيم تضخّ كلّ شيء بدلًا منها!» قال أوسوب.
+لكنّ المراوح كانت سليمةً تدور بقوّة، فلا حاجة إلى إيقافها.
+فوصل تشوبر الخياشيم بالمدخنة الزرقاء وحدها، بمدفع واحد ذي فوّهتين: يسحب الماء الأزرق، ويعيده أحمر لامعًا إلى الردهة الزرقاء.
+فدفعت المراوح نفسها هذا الماء الأحمر في أنابيب الدولارات، فارتخت وانفتحت، وبلغ التاج الأخضر نصيبه منه.
+واستراحت أكياس الدولارات منتفخةً قليلًا، لا مسطّحة.
+«خياشيم على المدخنة، فتجري أنابيب الدولارات حمراء!» قال تشوبر.
+فدارت المراوح والخياشيم معًا، وقالت روبين مثلًا قديمًا:
+quote: «يد واحدة لا تصفّق.»
+source: مثل عربيّ
+explanation:
+On VV-ECMO the pulmonary vascular bed is perfused with oxygen-rich blood: C.
+Blood is drained from the venous side, oxygenated and returned to the right atrium, so the right ventricle pumps already oxygenated blood through the lungs, which relaxes the pulmonary vessels.
+The heart does all the pumping, so pulsatile flow is preserved, and the coronary arteries receive this oxygenated blood from the left ventricle, so the myocardium is well oxygenated.
+In children a single double-lumen cannula is preferred, and the lungs are rested on gentle ventilator settings, not collapsed.
+In the picture, the water leaving the gills is already bright red before it reaches the pipes of dollar bills.
+Memory hook: with gills on the vein, the money pipes run red.
+
+== 407
+# book 87.5: true about anticoagulation for ECMO -> D, Amicar decreases the incidence of intracranial haemorrhage (book's key kept, note).
+# ANSWER: in Mock Town, a little red car marked AMI guards the beaver's dams, and the head lantern stays dry (audited beaver, gills, hare, magician)
+title: Aminocaproic acid (Amicar) on ECMO decreases the incidence of intracranial haemorrhage
+titleAr: حمض الأمينوكابرويك (أميكار) على الإكمو يُنقص حدوثَ النزف داخل القحف
+tags: cardiac/heart-failure d:pharmacology q:recall l:3
+palette: tavern brown, car red and hare brown
+words: AMI
+note: The book's key is D, from earlier reports in neonates; later studies found the effect of aminocaproic acid on intracranial haemorrhage less certain.
+keywords: Amicar -> a little red car marked AMI parked against each beaver's dam in the gills' hoses, so nobody can pull the dams apart; intracranial hemorrhage -> red water leaking inside the head lantern, which stays dry while the red car stands guard; ECMO -> a pair of big red fish gills in a clear box on a bedside trolley; heparin -> a fast brown hare racing through the gills' hoses; activated clotting time -> a magician's stopwatch kept at 180 to 220 seconds; nafamostat -> a second guard who slows the hare, so less hare is needed
+must: with the little red car guarding the dams, the head lantern stays dry
+scene: A crowded tavern in Mock Town on Jaya. CENTRE, dominant and brightest: a baby on a bedside trolley with a pair of big red fish gills; a little red car marked AMI parked against the small beaver's dams in the gills' hoses so nobody pulls them apart, and the baby's head lantern above staying dry. AROUND, dimmer: a fast brown hare racing through the hoses; a magician holding a stopwatch. LEFT: Usopp. Chopper.
+story:
+في حانة صاخبة بموك تاون على جايا، كان رضيع على عربة بجانب خياشيم سمك حمراء، وأرنب بنّيّ سريع يجري في خراطيمها، حتّى لا يبني فيها القندس سدوده.
+لكنّ الأرنب كان يجري في كلّ مكان، حتّى في فانوس الرأس الصغير، فيهدّد بأن يسيل فيه الماء الأحمر.
+«نطلق أرنبًا ثانيًا، فيكون الأمان مضاعفًا!» قال أوسوب.
+فأخذ الماء الأحمر يرشح في كلّ زاوية؛ فردّ تشوبر الأرنب الثاني إلى قفصه، وأبقى ساعة الساحر بين مئة وثمانين ومئتين وعشرين.
+ثمّ أوقف سيّارةً حمراء صغيرةً، على بابها اسم أمي، عند سدود القندس الصغيرة، فلا يقدر أحد أن يهدمها.
+فبقي فانوس الرأس جافًّا مضيئًا.
+«سيّارة أمي تحرس السدود، فيبقى الرأس جافًّا!» قال تشوبر.
+فأعاد أوسوب قفص الأرنب الثاني إلى الرفّ، وقالت روبين مثلًا قديمًا:
+quote: «ما زاد عن حدّه انقلب إلى ضدّه.»
+source: مثل عربيّ
+explanation:
+Amicar (aminocaproic acid) decreases the incidence of intracranial haemorrhage: D, as the book gives it.
+Aminocaproic acid is an antifibrinolytic: it stops clots from being broken down, and in neonates on ECMO it was reported to reduce bleeding, including intracranial haemorrhage.
+Heparin, acting through antithrombin, keeps the circuit from clotting, and the activated clotting time is usually kept around 180 to 220 seconds, lower than 250 to 300.
+The protease inhibitor nafamostat does reduce heparin requirements.
+In the picture, the little red car guards the dams and the head lantern stays dry.
+Memory hook: the AMI car guards the dams, and the head stays dry.
+
+== 408
+# book 88.1: NOT appropriate for a hypoxic, hypercarbic 3-year-old on a Berlin Heart LVAD -> D, increase the LVAD rate.
+# ANSWER: in the snow of Punk Hazard, Usopp turning Vader's control box faster empties the red room and drags the party wall over; it is turned back (audited vader, ox, nitro smoke, bellows, bat)
+title: A hypoxic child with a struggling right ventricle on an LVAD: do not raise the LVAD rate
+titleAr: طفل ناقص الأكسجة يتعثّر بطينه الأيمن على جهاز مساعدة البطين الأيسر: لا نرفع سرعة الجهاز
+tags: cardiac/heart-failure d:postoperative q:vignette l:3
+palette: snowfield white, Vader black and lips blue
+words: 82
+keywords: LVAD -> Darth Vader with his little pump bolted into the tip of the red engine room; increasing LVAD rate -> Usopp turning Vader's control box faster, the red room sucked empty and the lower party wall dragged over, the blue room struggling more, turned back; hypoxia -> a child with bright blue lips, 82 on the meter; hypercarbia -> grey smoke building up in the money sacks; increase FiO2 -> the huge ox in its clear oxygen mask turning the dial up to 100; nitric oxide -> a soft puff of nitro smoke breathed into the money pipes, which relax wide open; increase ventilatory rate -> the big leather bellows pumped faster to blow the grey smoke out; echocardiogram -> a bat sending rings of sound to look at the blue room and the party wall
+must: Vader's control box turned faster empties the red room and drags the party wall over, and is turned back
+scene: The snowy half of Punk Hazard. CENTRE, dominant and brightest: a child with bright blue lips beside a HART Hotel where Darth Vader's little pump works in the tip of the red engine room; Usopp turning Vader's control box faster, the red room sucked empty and the lower party wall dragged over, being turned back. AROUND, each in its own place: the huge ox in its oxygen mask turning a dial up to 100; a soft puff of nitro smoke breathed into the money pipes; big leather bellows pumping faster; a bat sending rings of sound. Chopper.
+story:
+في النصف المثلج من بانك هازارد، كان دارث فيدر يضخّ بمضخّته الصغيرة من طرف الغرفة الحمراء لطفل في الثالثة.
+فازرقّت شفتا الطفل فجأةً، وهبط عدّاده إلى اثنين وثمانين، وتجمّع دخان رماديّ في أكياس دولاراته.
+«فيدر بطيء عليه؛ سأدير صندوق التحكّم إلى أسرع!» قال أوسوب، وأدار المقبض.
+فامتصّت المضخّة الغرفة الحمراء حتّى فرغت، وجرّت الجدار السفليّ إليها، فتعثّرت الغرفة الزرقاء أكثر؛ فردّ تشوبر المقبض في الحال.
+ثمّ جاء بالثّور الضخم في قناعه الشفّاف، يدير قرصه إلى المئة، ونفخ في أنابيب الدولارات نفثةً ليّنةً من دخان النترو، فارتخت وانفتحت.
+وأسرع بالمنفاخ الجلديّ حتّى طرد الدخان الرماديّ، وأطلق الخفّاش ينظر بحلقات صوته إلى الغرفة الزرقاء والجدار.
+«حين يلهث الجانب الأزرق، لا تسرع فيدر!» قال تشوبر.
+فرفع أوسوب يده عن المقبض مرتجفًا، وقالت روبين مثلًا قديمًا:
+quote: «في العجلة الندامة، وفي التأنّي السلامة.»
+source: مثل عربيّ
+explanation:
+Option D, increase the LVAD rate, is not appropriate here.
+The child is hypoxic and hypercarbic with acidosis, which constricts the pulmonary vessels and loads the right ventricle, and an LVAD can only pump what the right heart delivers.
+Speeding the pump empties the left ventricle, shifts the septum to the left and worsens right ventricular function, so pump filling falls further.
+The right steps treat the lungs and the right ventricle: a temporary rise of FiO2 to 100 percent, inhaled nitric oxide, a faster ventilator rate to clear carbon dioxide, and an echocardiogram to check the right ventricle, the septum and filling.
+In the picture, Vader's control box turned faster empties the red room and drags the party wall over, and is turned back.
+Memory hook: when the blue side gasps, do not speed up Vader.
+
+== 409
+# book 88.2: most appropriate alternative anticoagulant for suspected HIT with renal and liver dysfunction after an LVAD -> A, bivalirudin.
+# ANSWER: in the Corrida Colosseum, the black leech is chosen, the hare is sent away and the white plates come back (audited white plates, hare, leech, rat, vader, thigh bone, beaver, kidney bean)
+title: Suspected HIT with renal and liver dysfunction after an LVAD: change to bivalirudin
+titleAr: اشتباه نقص الصفيحات المحرَّض بالهيبارين مع قصور كلويّ وكبديّ بعد جهاز مساعدة البطين: ننتقل إلى البيفاليرودين
+tags: cardiac/heart-failure d:pharmacology q:vignette l:3
+palette: colosseum sand, leech black and plates white
+words: 125,000, 42,000
+keywords: heparin-induced thrombocytopenia -> the fast brown hare making the little round white plates vanish from the pipes, from 125,000 to 42,000; bivalirudin -> a big black leech clinging to the beaver's dam and dissolving its red threads, broken down mostly in the blood itself, hardly needing the kidney beans or the liver; argatroban -> another leech that needs a working liver, here grey; lepirudin -> another leech that needs the kidney beans, here shrivelled; warfarin -> a rat in a soldier's helmet, kept out while the plates are low; enoxaparin -> a smaller brown hare of the same family, sent away; LVAD -> Darth Vader with his little pump; femoral vein thrombus -> a beaver's dam in the blue pipe beside the long white thigh bone; renal and liver dysfunction -> the kidney beans shrivelled and the liver grey
+must: the black leech is chosen while the hare is sent away and the white plates come back
+scene: The Corrida Colosseum in Dressrosa. CENTRE, dominant and brightest: a big black leech chosen and clinging to a beaver's dam in the blue pipe beside a long white thigh bone, while the fast brown hare is sent away and the little round white plates fly back. AROUND, dimmer: Darth Vader with his little pump; shrivelled kidney beans and a grey liver; another leech and a rat in a soldier's helmet kept out; a smaller brown hare sent away. LEFT: Usopp. Chopper.
+story:
+في حلبة كورّيدا بدريسروزا، كان لدارث فيدر صاحب في الرابعة عشرة، وفي أنبوبه الأزرق بجانب عظم الفخذ سدّ بناه القندس.
+فأطلقوا الأرنب البنّيّ السريع؛ لكنّ الأطباق البيضاء الصغيرة أخذت تختفي، من مئة وخمسة وعشرين ألفًا إلى اثنين وأربعين ألفًا.
+«الأرنب تعب؛ نطلق أخاه الصغير!» قال أوسوب، وفتح قفص أرنب أصغر.
+لكنّ الأطباق أخذت تختفي أسرع، فالأرنب الصغير من العائلة نفسها.
+فطرد تشوبر الأرنبين كليهما، ونظر إلى حبّتي الفاصولياء الذابلتين والكبد الشاحبة؛ فردّ علقتين تحتاج إحداهما الكبد والأخرى الفاصولياء، وأبعد الجرذ ذا الخوذة.
+واختار علقةً سوداء كبيرةً يهضمها الماء الأحمر نفسه، فالتصقت بالسّدّ تذيب خيوطه، وعادت الأطباق البيضاء تطير.
+«حين تذبل الفاصولياء وتشحب الكبد، ندعو العلقة الّتي يهضمها الماء نفسه!» قال تشوبر.
+فنظر أوسوب إلى الأرنب الصغير يجري كأخيه، وقالت روبين مثلًا قديمًا:
+quote: «هذا الشبل من ذاك الأسد.»
+source: مثل عربيّ
+explanation:
+Bivalirudin is the most appropriate alternative anticoagulant: A.
+A fall in platelets from 125,000 to 42,000 on heparin suggests heparin-induced thrombocytopenia, so all heparin is stopped and a direct thrombin inhibitor is started.
+Bivalirudin is cleared mostly by enzymes in the blood and only partly by the kidneys, so it suits a patient with both renal and liver dysfunction.
+Argatroban is cleared by the liver, lepirudin by the kidneys, enoxaparin cross-reacts with heparin antibodies, and warfarin must not be started while the platelets are low in acute HIT.
+In the picture, the black leech is chosen, the hare is sent away and the white plates come back.
+Memory hook: when the kidneys and the liver both fail, call the leech the blood itself clears.
+
+== 410
+# book 88.3: most suitable bridge to transplant for a 9-month-old with dilated cardiomyopathy and severe biventricular failure -> D, Berlin Heart.
+# ANSWER: in Whisky Peak, two baby-sized Vaders, one for each engine room, carry the baby across the bridge to the flowerpot (audited accordion, vader, flowerpot, sausage, tin man)
+title: A 9-month-old with severe biventricular failure is bridged to transplant with the Berlin Heart
+titleAr: رضيع في شهره التاسع بقصور بطينين شديد: جسره إلى الزرع جهاز برلين هارت
+tags: cardiac/heart-failure d:indications q:vignette l:3
+palette: cactus-town ochre, Vader black and flowerpot terracotta
+keywords: dilated cardiomyopathy -> both engine rooms stretched wide and floppy like an over-pulled accordion, both fans barely turning; Berlin Heart -> TWO small Darth Vaders sized for a baby, one for each engine room, their little pumps sitting outside on the baby's belly; bridge to transplant -> a bridge leading to a gardener holding a new hotel in a terracotta flowerpot; HeartMate II and HeartWare -> two grown-up Darth Vaders, far too big for the baby's tiny rooms; IABP -> a long sausage-shaped balloon in the orca's belly, too weak for a baby; total artificial heart -> a tin man with a clockwork heart, far too big for a baby
+must: two baby-sized Vaders, one for each engine room, carry the baby across the bridge to the flowerpot
+scene: Whisky Peak, the cactus-island town. CENTRE, dominant and brightest: a baby whose two engine rooms are stretched like an over-pulled accordion, carried across a bridge by TWO small Darth Vaders sized for a baby, one for each engine room, their little pumps sitting outside on the baby's belly, towards a gardener holding a new HART Hotel in a terracotta flowerpot. AROUND, dimmer: two grown-up Darth Vaders far too big; a long sausage-shaped balloon; a tin man with a clockwork heart, far too big. LEFT: Usopp. Chopper.
+story:
+في ويسكي بيك، بلدة الصبّار، جيء برضيع في شهره التاسع، غرفتا المحرّك في فندقه ممطوطتان كأكورديون شدّ أكثر من طاقته، والمروحتان لا تكادان تدوران.
+وفي الطرف الآخر من الجسر، بستانيّ ينتظر بفندق جديد في أصيص فخّاريّ.
+«عندي فيدران كبيران من أحدث طراز؛ يحملانه في الحال!» قال أوسوب.
+لكنّ الفيدرين الكبيرين لم يدخلا غرفتي الرضيع الصغيرتين، وكان رجل الصفيح بقلبه ذي التروس أكبر منهما، والبالونة السمينة كالنّقانق أضعف من أن تحمله.
+فجاء تشوبر بفيدرين صغيرين على قدّ رضيع، واحد لكلّ غرفة، مضخّتاهما جالستان خارج البطن الصغير.
+فحملاه أشهرًا على الجسر، حتّى أخذ البستانيّ الفندق الجديد من الأصيص ووضعه مكان القديم.
+«أكورديون الرضيع يحتاج فيدرين صغيرين من برلين!» قال تشوبر.
+فصفّق الجميع للرّضيع وفندقه الجديد، وقالت روبين مثلًا قديمًا:
+quote: «الصبر مفتاح الفرج.»
+source: مثل عربيّ
+explanation:
+The Berlin Heart is the most suitable bridge to transplant for this 9-month-old with severe biventricular failure: D.
+It is a paracorporeal pulsatile pump made in sizes small enough for infants, and it can support both ventricles as a biventricular assist device for months.
+The HeartMate II and HeartWare are implantable continuous-flow pumps designed for adults and larger children, and the total artificial heart is far too big for an infant.
+An intra-aortic balloon pump gives little support in a baby.
+In the picture, two baby-sized Vaders, one for each engine room, carry the baby across the bridge to the flowerpot.
+Memory hook: a baby's failing accordion needs two small Vaders from Berlin.

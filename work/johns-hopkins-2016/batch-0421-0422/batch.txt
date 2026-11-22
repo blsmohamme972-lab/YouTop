@@ -1,0 +1,64 @@
+book: johns-hopkins-2016
+# Lessons 421-422 (book 90.4-90.5: adult congenital heart disease after transposition and Fontan), the last two of the book.
+# Written 2026-11-22, morning. Each story: a hook, a wrong try that fails, the answer acting, a payoff line that names
+# the symbol, and a lead-in that says who speaks the quotation and why it fits.
+# Quotations added 2026-11-22 (the owner left the choice to the agent: "make anything strong and consistent"):
+# a One Piece line (at most three uses, 20 lessons apart) or a classical Arabic line read out by Robin; see ../quote-bank.md.
+
+== 421
+# book 90.4: NOT a known long-term complication after repair of transposition -> B, Eisenmenger syndrome.
+# ANSWER: at Dadan's hideout on Mount Colubo, the iceman is turned away from the repaired hotel while the four other troubles visit it (audited swapped, iceman, atrium, tachometer, mustard, money, waterslide, orca, switch lever)
+title: Eisenmenger syndrome is not a long-term complication after repair of transposition
+titleAr: متلازمة آيزنمنغر ليست من المضاعفات البعيدة بعد إصلاح تبدّل الشرايين الكبيرة
+tags: cardiac/congenital d:complications q:recall l:3
+palette: mountain-forest green, mustard yellow and ice blue
+keywords: repaired transposition of the great arteries -> a hotel whose orca and pipe of dollar bills were once swapped, now put right; Eisenmenger syndrome -> an iceman pushing blue blocks of ice back through a hole, turned away from this repaired hotel; right atrial tachyarrhythmias -> a tachometer needle racing in the blue atrium lobby behind a thick yellow mustard wall; obstruction to pulmonary venous drainage -> the money pipes' return squeezed narrow by the mustard wall; Rastelli conduit stenosis -> the clear twisting waterslide from the blue engine room to the pipe of dollar bills, narrowed with age; dilation of the ascending aorta -> the new orca's front climb swelling after the switchman pulled his switch lever
+must: the iceman is turned away from the repaired hotel; the four other troubles visit it
+scene: Dadan's hideout on Mount Colubo. CENTRE, dominant and brightest: an iceman carrying blue blocks of ice, turned away at the door of a repaired HART Hotel whose orca and pipe of dollar bills were once swapped. AROUND, visiting the hotel: a tachometer needle racing in the blue atrium lobby behind a thick yellow mustard wall; the money pipes' return squeezed by the mustard wall; a clear twisting waterslide narrowed with age; the new orca's front climb swelling beside a switchman's switch lever. LEFT: Usopp. Chopper.
+story:
+في مخبأ دادان على جبل كولوبو، وقف فندق كان حوته وأنبوب دولاراته متبادلين يوم بني، ثمّ أعيدا إلى الصواب منذ سنين.
+فجاء يطرق بابه زوّار قدامى يعرفون أمثاله.
+إبرة عدّاد تتسارع في الردهة الزرقاء خلف جدار الخردل الغليظ، وأنابيب دولارات راجعة يعصرها جدار الخردل نفسه.
+ومنزلق مائيّ شفّاف من الغرفة الزرقاء إلى أنبوب الدولارات ضاق مع السنين، وصعود الحوت الجديد ينتفخ بجانب رافعة عامل التحويلة.
+«وهذا رجل الجليد بكتله الزرقاء؛ افتحوا له، فهو من أهل البيت!» صاح أوسوب.
+لكنّ تشوبر ردّه عن الباب؛ فلم يبق في جدران هذا الفندق ثقب واسع يدفع منه ثلجه.
+«حين يصلح التبادل، لا يأتي رجل الجليد أبدًا!» قال تشوبر.
+فمضى رجل الجليد يبحث عن فندق آخر، وقالت روبين مثلًا قديمًا:
+quote: «قل لي من تصاحب، أقل لك من أنت.»
+source: مثل عربيّ
+explanation:
+Eisenmenger syndrome is not a known long-term complication after repair of transposition of the great arteries: B.
+Once the circulation is repaired, no large unrestrictive shunt is left to drive pulmonary vascular disease to reversal.
+After the atrial switch (Mustard or Senning), atrial tachyarrhythmias are common, and the baffles can obstruct the pulmonary or systemic venous return.
+After the Rastelli operation, the conduit from the right ventricle to the pulmonary artery narrows with time.
+After the arterial switch, the neo-aortic root and the ascending aorta can dilate.
+In the picture, the iceman is turned away while the four other troubles visit the repaired hotel.
+Memory hook: once the swap is put right, the iceman never comes.
+
+== 422
+# book 90.5: the LEAST common complication in the follow-up of Fontan patients -> C, protein-losing enteropathy.
+# ANSWER: on top of Reverse Mountain, crowds of frequent visitors surround the fountain, and only one plate of leaking spaghetti sits at its edge (audited fountain, bowling ball, pirate, gurgling, traffic jam)
+title: Protein-losing enteropathy is the least common of these complications after a Fontan
+titleAr: اعتلال الأمعاء المضيِّع للبروتين أقلّ هذه المضاعفات حدوثًا بعد عمليّة فونتان
+tags: cardiac/congenital d:complications q:recall l:3
+palette: sea-mountain blue, fountain stone and spaghetti cream
+keywords: Fontan circulation -> a stone fountain in the hotel courtyard, fed by the blue wing's chimney, its water running straight into the pipes of dollar bills by gravity, with no pump; protein-losing enteropathy -> ONE small plate of spaghetti leaking white egg-white at the fountain's edge, the rarest visitor; thromboembolism -> black bowling balls rolling out of the still fountain water, frequent visitors; arrhythmias -> pirates shouting ARRR and dancing out of step round the fountain, frequent visitors; AV valve regurgitation -> the engine room's door gurgling back, a frequent visitor; CHF -> a traffic jam of yellow taxis round the fountain, frequent visitors
+must: crowds of pirates, bowling balls, gurgling doors and taxi jams surround the fountain; only one plate of leaking spaghetti
+scene: The top of Reverse Mountain, where the sea climbs without a pump. CENTRE, dominant and brightest: a stone fountain fed by the blue wing's chimney, its water running to the pipes of dollar bills with no pump, surrounded by crowds of frequent visitors: pirates dancing out of step, black bowling balls rolling out of the still water, engine room doors gurgling back, a traffic jam of yellow taxis; only ONE small plate of spaghetti leaking white egg-white at the edge. LEFT: Usopp. Chopper.
+story:
+على قمّة الجبل المعكوس، حيث يصعد البحر بلا مضخّة، قامت نافورة حجريّة في فناء فندق، تغذّيها مدخنة الجناح الأزرق، ويجري ماؤها إلى أنابيب الدولارات بلا مضخّة هي الأخرى.
+فتوافد عليها الزوّار على مرّ السنين.
+قراصنة يصيحون آرر ويرقصون خارج اللحن، وكرات بولينغ سوداء تتدحرج من مائها الساكن.
+وأبواب غرف المحرّك تقرقر راجعة، وزحمة سيّارات أجرة صفراء تخنق الطرق حولها.
+«وأكثرهم زيارةً صحن المعكرونة الّذي يسيل منه بياض البيض؛ أراه في كلّ مكان!» قال أوسوب.
+لكنّ تشوبر عدّ الزوّار واحدًا واحدًا، فلم يجد إلّا صحنًا واحدًا صغيرًا على حافّة النافورة، بين حشود القراصنة والكرات والأبواب والسّيّارات.
+«حول النافورة، صحن المعكرونة السائل أندر الضيوف!» قال تشوبر.
+فرفع تشوبر الصحن الوحيد عن حافّة النافورة، وقالت روبين مثلًا قديمًا عنه:
+quote: «أعزّ من الكبريت الأحمر.»
+source: مثل عربيّ
+explanation:
+Protein-losing enteropathy is the least common of these complications in the follow-up of Fontan patients: C.
+It affects a small minority, usually years after the operation, when high venous pressure and lymphatic congestion make the gut leak protein, and it is serious when it occurs.
+Arrhythmias, thromboembolism, atrioventricular valve regurgitation and heart failure are all considerably more frequent.
+In the picture, crowds of pirates, bowling balls, gurgling doors and taxi jams surround the fountain, and only one plate of leaking spaghetti sits at its edge.
+Memory hook: round the fountain, the leaking spaghetti is the rarest guest.

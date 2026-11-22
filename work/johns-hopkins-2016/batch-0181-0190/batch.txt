@@ -1,0 +1,331 @@
+book: johns-hopkins-2016
+# Lessons 181-190 (book 37.1-38.5: tricuspid valve, endocarditis). Written 2026-11-21, night.
+# Each story: a hook, a wrong try that fails, the answer acting, a payoff line that names the symbol, and a lead-in
+# that says who speaks the quotation and why it fits.
+
+== 181
+# book 37.1: NOT associated with the triangle of Koch -> E, the right coronary artery.
+# a chalk triangle on the floor of the blue lobby -> the triangle of Koch (av-node term: knot at its apex, audited)
+# the sink with the little green crown at its base -> coronary sinus ostium (audited sink)
+# the trident's inner prong along one side -> septal leaflet of the tricuspid valve (audited trident)
+# a taut rope along the other side -> tendon of Todaro
+# the big tight knot at the apex -> AV node (audited knot)
+# ANSWER: the crown's right spike arching like a rainbow far outside the triangle -> the RCA is not part of it (audited rainbow)
+title: The triangle of Koch: coronary sinus, septal leaflet, tendon of Todaro, AV node; not the RCA
+titleAr: مثلّث كوخ: الجيب التاجيّ والوريقة الحاجزيّة ووتر تودارو والعقدة الأذينيّة البطينيّة؛ لا الشريان التاجيّ الأيمن
+tags: cardiac/arrhythmia cardiac/mitral-tricuspid d:anatomy q:recall l:2 x:high-yield
+palette: lobby blue, chalk white and rainbow colours
+keywords: triangle of Koch -> a triangle chalked on the floor of the blue glass lobby, a big tight knot at its apex; coronary sinus -> a sink with a little green crown set in the floor at the triangle's base; septal leaflet of the tricuspid -> the trident's inner prong lying along one side of the triangle; tendon of Todaro -> a taut rope along the other side; AV node -> the big tight knot at the triangle's apex; right coronary artery -> the crown's right spike arching like a rainbow far outside the triangle, touching none of it
+must: the rainbow does NOT touch the triangle; the knot sits at the triangle's apex
+scene: The blue glass lobby of the HART Hotel, cut open. CENTRE, dominant and brightest: a triangle chalked on the floor; at its base a sink with a little green crown; along one side the inner prong of the trident; along the other side a taut rope; at its apex a big tight knot. RIGHT, high and far outside the triangle: the crown's right spike arching down the side of the hotel like a rainbow, touching none of the triangle. Robin holding the chalk; Usopp pointing at the rainbow; Brook, the skeleton in a top hat, bending low over the knot; Chopper.
+story:
+في الردهة الزرقاء من الفندق القديم، رسمت روبين بالطّباشير مثلّثًا على الأرض.
+عند قاعدته مغسلة صغيرة عليها تاج أخضر صغير، وعلى أحد جانبيه يمتدّ السنّ الداخليّ من الرمح الثلاثيّ.
+وعلى جانبه الآخر حبل مشدود، وفي رأسه عقدة كبيرة محكمة.
+«وذلك القوس الملوّن هو الضلع الرابع!» قال أوسوب، وأشار إلى الشوكة اليمنى من التاج الأخضر، وهي تنحني كقوس قزح طويل على جانب الفندق من الخارج.
+فأنبتت روبين أيديًا زائدةً على طول خطوط الطباشير، فلم تلمس واحدة منها قوس قزح؛ فقد كان بعيدًا خارج الجدار.
+ثمّ عدّت الأيدي أضلاع المثلّث واحدًا واحدًا: المغسلة ذات التاج الأخضر، وسنّ الرمح، والحبل المشدود.
+«مغسلة وسنّ وحبل، والعقدة في الرأس؛ أمّا قوس قزح فهو خارج المثلّث!» قال تشوبر.
+فانحنى بروك، الهيكل العظميّ ذو القبّعة العالية، فوق العقدة الكبيرة، حتّى كادت جمجمته تلمسها.
+فلمّا رأى كيف يلتقي المثلّث كلّه عند تلك العقدة الواحدة، شهق، وقال نكتته الّتي لا يملّها:
+quote: «عيناي تكادان تقفزان من الدهشة... مع أنّه ليس لي عينان! يو هو هو هو!»
+source: بروك
+explanation:
+The triangle of Koch is bounded by the coronary sinus ostium, the septal leaflet of the tricuspid valve and the tendon of Todaro, with the AV node at its apex; the right coronary artery is not part of it: E.
+In the picture, the sink, the trident's inner prong and the taut rope draw the triangle, and the knot sits at its apex.
+The right coronary artery, the rainbow, runs in the right atrioventricular groove outside the triangle, though in most hearts it gives the small artery that feeds the AV node.
+Stitches inside the triangle, during tricuspid, septal or atrial surgery, risk complete heart block.
+Memory hook: sink, prong and rope make the triangle, the knot sits on top, and the rainbow stays outside.
+
+== 182
+# book 37.2: a major Doppler criterion of severe TR -> A, vena contracta width > 0.7 cm.
+# water spraying back up through the trident -> tricuspid regurgitation (audited)
+# flashing red and blue police-car lights on the jet -> colour Doppler (audited)
+# ANSWER: the jet's narrowest neck, just above the trident, measured with a yellow ruler at more than 7 -> vena contracta > 0.7 cm
+# Usopp pointing at the stretched brass collar -> annular dilation is not a Doppler criterion (B wrong) (audited collar)
+title: Severe tricuspid regurgitation on Doppler: vena contracta wider than 0.7 cm
+titleAr: القصور الشديد في الصمّام ثلاثيّ الشرف بالدوبلر: عرض الانقباض الوريديّ أكبر من 0.7 سم
+tags: cardiac/mitral-tricuspid d:diagnosis q:numbers l:2
+palette: harbour night, police red and blue, ruler yellow
+words: 7
+keywords: tricuspid regurgitation -> water spraying back up through the trident in the floor of the blue lobby; Doppler -> flashing red and blue police-car lights shining on the jet; vena contracta -> the jet's narrowest neck, just above the trident, measured with a yellow ruler at more than 7; annular dilation -> the trident's brass collar stretched wide
+must: the ruler measures the jet's narrow NECK just above the trident, not the wide top of the jet
+scene: Night at Loguetown harbour. The HART Hotel cut open; in the floor of its blue lobby, water sprays back up through the trident in a jet that is narrowest just above the trident and widens above. CENTRE, dominant and brightest: Chopper holding a yellow ruler across that narrow neck, the ruler reading more than 7. LEFT: the Marine captain Smoker, cigars in his mouth, shining flashing red and blue police-car lights on the jet. RIGHT: Usopp pointing at the trident's stretched brass collar; Luffy grinning at Smoker and holding out his hand.
+story:
+في ميناء لوغتاون ليلًا، كان الماء يندفع راجعًا إلى أعلى من خلال الرمح الثلاثيّ، في أرض الردهة الزرقاء.
+فجاء الكابتن سموكر، صائد القراصنة ذو السيجارين، وسلّط على النافورة أضواء سيّارة شرطة، حمراء وزرقاء تلمع.
+«انظروا كيف تمدّد الطوق النحاسيّ! نقيسه هو إذن!» قال أوسوب.
+«أضوائي لا ترى النحاس، إنّها ترى الماء الجاري وحده!» قال سموكر بصوت خشن.
+فإذا النافورة تخرج من الرمح بعنق ضيّق، ثمّ تتّسع كلّما ارتفعت.
+فمدّ تشوبر مسطرةً صفراء عبر ذلك العنق الضيّق نفسه، فوق الرمح مباشرة، فإذا عرضه أكثر من سبعة.
+«تحت أضواء الشرطة، عنق النافورة أعرض من سبعة: إنّها نافورة هائلة!» قال تشوبر.
+فأعجب لوفي بالرّجل الّذي ترى أضواؤه الماء في الظلام، فمدّ إليه يده مبتسمًا، ودعاه كما يدعو كلّ من يعجبه، ولو كان ضابطًا في البحريّة:
+quote: «انضمّ إلى طاقمي!»
+source: مونكي دي لوفي
+explanation:
+A vena contracta width above 0.7 cm, the narrow neck of the jet measured just above the trident, is a major Doppler criterion of severe tricuspid regurgitation: A.
+The vena contracta is the narrowest part of the regurgitant jet as it leaves the valve, and its width follows the size of the leak.
+Colour Doppler, the police lights, measures it directly; other signs of severe TR are a large jet area and reversed systolic flow in the hepatic veins.
+Annular dilatation, septal movement, right ventricular function and pulmonary hypertension describe the heart around the valve, not the leak itself.
+Memory hook: shine the police lights on the jet and measure its neck: wider than 7 means severe.
+
+== 183
+# book 37.3: NOT an indication for tricuspid valve surgery -> E, TR with pulmonary artery systolic pressure below 60 mm Hg.
+# four sailors sent to theatre: one whose mitre is being repaired while his trident sprays hard; one breathless with a broken trident; one with bent prongs; one with a stretched collar and a pressure gauge in the red -> the indications (audited mitre, trident, collar)
+# ANSWER: the fifth sailor with a small leak and a calm gauge below 60, sent back to sea -> TR with PASP < 60 alone is not an indication (audited dollar)
+title: Not an indication for tricuspid surgery: regurgitation with PA pressure below 60 mm Hg
+titleAr: ليس استطبابًا لجراحة ثلاثيّ الشرف: قصور مع ضغط شريان رئويّ دون 60 ملم زئبق
+tags: cardiac/mitral-tricuspid d:indications q:recall l:2
+palette: snowy island white, cherry-blossom pink and gauge red
+words: 60
+keywords: tricuspid regurgitation -> water spraying back up through a trident; severe TR during mitral surgery -> the first sailor's trident spraying hard while the bishop's mitre beside it is being repaired; severe symptomatic primary TR -> the second sailor gasping, his trident broken at its base; abnormal leaflets -> the third sailor's trident with bent, broken prongs; annular dilation with pulmonary hypertension -> the fourth sailor's trident with its brass collar stretched wide and the pressure gauge on his pipe of dollar bills in the red; pulmonary artery pressure below 60 -> the fifth sailor's small leak and the gauge on his pipe of dollar bills resting calmly below 60
+must: the fifth sailor's gauge reads below 60 and he walks away to the ship; the other four go in
+scene: The castle hospital on Drum Island in falling snow. Five sailors in a row before Chopper, each with a little HART Hotel drawn on his chest. Four are led toward the operating room: the first, whose bishop's mitre is being repaired while his trident sprays hard; the second, gasping, his trident broken at its base; the third, whose trident's prongs are bent and broken; the fourth, whose trident's brass collar is stretched wide, the pressure gauge on his pipe of dollar bills in the red. CENTRE, dominant and brightest: the fifth sailor, with only a small leak and the gauge on his pipe of dollar bills resting calmly below 60, being pulled by the arm toward the ship by Luffy. Usopp waving everyone toward the operating room.
+story:
+في قلعة جزيرة درام، والثّلج يتساقط، وقف خمسة بحّارة في صفّ أمام تشوبر، على صدر كلّ منهم فندق صغير.
+«كلّهم إلى غرفة العمليّات، فرمح كلّ منهم يسرّب!» قال أوسوب، ولوّح لهم جميعًا نحو الباب.
+ففحصهم تشوبر واحدًا واحدًا: الأوّل يصلح تاج أسقفه، ورمحه يرشّ بقوّة؛ والثّاني يلهث، ورمحه مكسور من أصله.
+والثّالث أسنان رمحه معوجّة محطّمة؛ والرّابع تمدّد طوقه النحاسيّ، وعدّاد أنبوب دولاراته في الأحمر.
+«هؤلاء الأربعة إلى الداخل!» قال تشوبر.
+أمّا الخامس، فلم يكن يتسرّب من رمحه إلّا قليل، وعدّاد أنبوب دولاراته هادئ دون الستّين.
+«رمح يسرّب قليلًا، وعدّاد دون الستّين: هذا لا يحتاج إلى مشرطي!» قال تشوبر.
+فتردّد البحّار الخامس عند الباب، يسأل: أيبحر مثله برمح يسرّب؟ فشدّه لوفي من ذراعه نحو السفينة، وصاح به كما صاح بتشوبر نفسه على هذا الجبل يومًا:
+quote: «اصمت! هيّا بنا!»
+source: مونكي دي لوفي
+explanation:
+Tricuspid regurgitation with a pulmonary artery systolic pressure below 60 mm Hg is not, on its own, an indication for tricuspid surgery: E, the fifth sailor with a small leak and a calm gauge.
+Severe regurgitation in a patient having mitral surgery should be repaired at the same operation, the first sailor.
+So should severe symptomatic primary regurgitation and severe regurgitation from diseased leaflets, the broken trident and the bent prongs.
+At mitral surgery, even lesser regurgitation is repaired when the annulus is dilated or there is pulmonary hypertension, the wide collar and the gauge in the red.
+Memory hook: four sailors go to theatre; the fifth, with a small leak and a gauge under 60, goes back to sea.
+
+== 184
+# book 37.4: sequence for mitral and tricuspid repair plus a graft to the PDA -> B, distal coronary anastomosis, mitral repair, proximal anastomosis, tricuspid repair.
+# a wooden staircase of four landings, left to right, painted 1 and 4 -> the order as a route
+# landing 1: the end of the sapphire chain tied onto the long back spike of the crown -> distal anastomosis to the PDA first (audited sapphire)
+# landing 2: a tailor sewing a brass ring round the mitre -> mitral repair (audited mitre)
+# landing 3: the top of the sapphire chain sewn onto the orca, the giant X-tongs lifted off -> proximal anastomosis, then the clamp comes off (audited tongs)
+# ANSWER emphasis: landing 4, Franky repairing the trident while the fans turn again -> tricuspid repair last, on the beating heart (audited trident)
+title: Mitral and tricuspid repair with a graft to the PDA: distal, mitral, proximal, tricuspid
+titleAr: إصلاح التاجيّ وثلاثيّ الشرف مع طعم للشريان الخلفيّ النازل: البعيد، التاجيّ، القريب، ثلاثيّ الشرف
+tags: cardiac/mitral-tricuspid cardiac/coronary d:technique q:recall l:3
+palette: dockyard timber, sapphire blue and brass
+words: 1, 4
+keywords: saphenous vein graft to the PDA -> a chain of blue sapphires whose lower end Sanji ties onto the long spike running down the back of the crown, on landing 1; mitral valve repair -> a tailor sewing a brass ring round the bishop's mitre, on landing 2; proximal anastomosis -> the top end of the sapphire chain sewn onto the orca's back, the giant X-shaped tongs lifted off it, on landing 3; tricuspid valve repair -> Franky repairing the trident on landing 4 while the engine-room fans already turn again
+must: four landings climb from left to right in this order; the fans turn only on the last landing
+scene: A repair dock in Water 7. A wooden staircase of four landings climbs from left to right, painted 1 on the first and 4 on the last. Landing 1: Sanji tying the lower end of a chain of blue sapphires onto the long spike that runs down the back of the green crown. Landing 2: a tailor sewing a brass ring round the bishop's mitre. Landing 3: the top end of the sapphire chain sewn onto the killer-whale balloon's back, a pair of giant X-shaped iron tongs being lifted off the orca. Landing 4, dominant and brightest: Franky repairing the trident while the engine-room fans already turn again. Zoro standing firm on the top landing, arms folded; Usopp below, pointing back down; Chopper.
+story:
+في حوض الإصلاح بووتر سيفن، نام الفندق القديم ساكنًا، وعلى ظهر الحوت القاتل كمّاشة حديديّة عملاقة على هيئة حرف إكس.
+وإلى جانبه درج خشبيّ من أربع منصّات، يصعد من اليسار إلى اليمين.
+«نخيط رأس سلسلة الياقوت على ظهر الحوت أوّلًا، ونرتاح!» قال أوسوب، وفعل.
+فشدّت السلسلة الفندق إلى الحوت، فعجز سانجي عن رفعه ليبلغ الشوكة الطويلة في ظهر التاج الأخضر.
+ففكّوا السلسلة، وبدؤوا من جديد: على المنصّة الأولى رفع سانجي الفندق بسهولة، وربط طرف السلسلة السفليّ بتلك الشوكة.
+وعلى الثانية، خاط خيّاط حلقةً نحاسيّةً حول تاج الأسقف.
+وعلى الثالثة، خيط رأس السلسلة على ظهر الحوت، ثمّ رفعت الكمّاشة عنه، فعادت المراوح تدور.
+وعلى الرابعة، أصلح فرانكي الرمح الثلاثيّ والمراوح تدور من حوله.
+«الشوكة الخلفيّة أوّلًا، ثمّ التاج، ثمّ رأس السلسلة، والرّمح أخيرًا والمراوح تدور!» قال تشوبر.
+«لننزل ونتأكّد من البداية مرّةً أخرى!» نادى أوسوب من أسفل؛ لكنّ زورو بقي واقفًا على المنصّة العليا، عاقدًا ذراعيه، وقال ما قاله يومًا أمام أعظم سيّاف في العالم:
+quote: «إن تراجعت خطوةً واحدة، تحطّمت كلّ العهود والوعود الّتي أوصلتني إلى هنا!»
+source: رورونوا زورو
+explanation:
+For mitral and tricuspid repair with a graft to the PDA, the order is: distal coronary anastomosis, mitral repair, proximal anastomosis, tricuspid repair: B.
+The distal anastomosis to the posterior descending artery, the sapphire chain tied to the back spike, comes first, while the arrested heart can still be lifted to reach it.
+The mitral repair follows under the same cross-clamp, and the proximal anastomosis is sewn before the clamp, the X-tongs, comes off.
+The tricuspid valve, on the right side, can be repaired last with the heart beating again, the fans turning, which shortens the ischaemic time.
+Memory hook: back spike, mitre, top of the chain, and the trident last with the fans turning.
+
+== 185
+# book 37.5: surgical approach to the tricuspid valve -> D, the DeVega technique is acceptable for functional TR when loading conditions are expected to improve.
+# the trident's brass collar stretched by a swollen blue engine room, water spraying back -> functional TR (audited collar)
+# the gauge on the dollar pipe falling after the mitre is repaired -> loading conditions will improve (audited dollar)
+# ANSWER: a gambler in a glittering Las Vegas jacket drawing a string of casino lights round the trident's collar like a purse-string -> the DeVega suture annuloplasty (DE VEGA sounds like Las Vegas)
+# Usopp's steel robot pushed away -> a mechanical tricuspid valve is not preferred (B wrong) (audited robot)
+title: The DeVega annuloplasty suits functional TR when the load is expected to fall
+titleAr: رأب الحلقة بطريقة دي فيغا يناسب القصور الوظيفيّ حين يُنتظر أن يخفّ العبء
+tags: cardiac/mitral-tricuspid d:technique q:recall l:3
+palette: casino gold, neon pink and lobby blue
+keywords: functional tricuspid regurgitation -> the trident's brass collar stretched wide by a swollen blue engine room, water spraying back through it; loading conditions improving -> the pressure gauge on the pipe of dollar bills with its needle falling out of the red after the bishop's mitre is repaired; DeVega annuloplasty -> a gambler in a glittering Las Vegas jacket drawing a string of casino lights round the trident's collar like a purse-string (DE VEGA sounds like Las Vegas); mechanical valve -> Usopp's clanking little steel robot pushed aside; valve thrombosis -> a beaver already building a little dam on the robot in the slow blue water
+must: the casino-light string runs round the trident's collar and narrows it; the gauge's needle is falling
+scene: A casino on a golden island, neon light. CENTRE, dominant and brightest: a gambler in a glittering Las Vegas jacket drawing a string of casino lights round the trident's stretched brass collar like a purse-string, narrowing it so that the water stops spraying back; behind, the blue engine room is swollen. LEFT: the bishop's mitre freshly repaired, and the pressure gauge on the pipe of dollar bills with its needle falling out of the red. RIGHT: Usopp pushing aside a clanking little steel robot on which a beaver has already started a little dam; Brook, the skeleton in a top hat, raising his hat like a storyteller; Chopper.
+story:
+في كازينو على جزيرة من ذهب، انتفخت غرفة المحرّك الزرقاء في الفندق القديم، فمطّت الطوق النحاسيّ حول الرمح الثلاثيّ.
+فصار الماء يندفع راجعًا من خلال الرمح إلى الردهة الزرقاء.
+«نضع مكان الرمح روبوتًا فولاذيًّا، ونرتاح إلى الأبد!» قال أوسوب، وجرّ روبوتًا صغيرًا يقعقع.
+لكنّ الماء في ذلك الجانب بطيء هادئ، فما إن وضع الروبوت حتّى جاء قندس يبني عليه سدّه، فدفعوه جانبًا.
+عندها تقدّم مقامر في سترة لامعة من لاس فيغاس، وفي يده حبل من أضواء الكازينو.
+فلفّه حول الطوق النحاسيّ كخيط كيس النقود، وشدّه قليلًا، فضاق الطوق وكفّ الماء عن الرجوع.
+«وإن عاد الطوق فتمدّد، خسرت رهانك!» قال فرانكي.
+فابتسم المقامر، وأشار إلى تاج الأسقف وقد أصلح للتّوّ، وإلى إبرة العدّاد على أنبوب الدولارات تهبط من الأحمر.
+«حبل أضواء حول الطوق، ورهان على عدّاد يهبط: هذا رهان فيغاس!» قال تشوبر.
+فربح المقامر رهانه، وانهمرت عليه قطع الذهب، فرفع بروك قبّعته كراو قديم، وروى مطلع الحكاية الّتي أطلقت القراصنة إلى البحر:
+quote: «الثروة، والشّهرة، والقوّة... رجل نال كلّ شيء في هذا العالم: ملك القراصنة غول دي روجر!»
+source: مقدّمة ون بيس (الراوي)
+explanation:
+The DeVega suture annuloplasty is acceptable for functional tricuspid regurgitation when the loading conditions are expected to improve after the operation: D.
+Functional regurgitation comes from a dilated annulus, the collar stretched by the swollen right ventricle, and it often lessens once the left-sided lesion is corrected and the pulmonary pressure falls, the gauge's needle dropping.
+The DeVega technique narrows the annulus with a purse-string suture, the gambler's string of casino lights, a bet that the load will improve; when it will not, a ring annuloplasty is more durable.
+A mechanical valve is not preferred in the tricuspid position, where the slow flow invites thrombosis, the beaver building on the robot.
+Ring annuloplasty does not cause more endocarditis, and a small leak after bicuspidization does not by itself demand replacement.
+Memory hook: the Las Vegas gambler bets on falling pressure and ties his string of lights round the collar.
+
+== 186
+# book 38.1: NOT a major Duke criterion -> B, persistently positive blood cultures drawn 6 h apart.
+# the duke in ermine with his checklist and red wax seals -> the Duke criteria (audited duke)
+# two bottles with cow-spotted bead chains, sealed -> Streptococcus bovis in two cultures: major
+# waving cards sprouting broccoli on a valve door, sealed -> an oscillating mass on echo: major (audited cards)
+# water gurgling back, sealed -> new valvular regurgitation: major (audited gurgling)
+# ANSWER: two bottles filled only 6 hours apart on the clock, their seal torn off -> persistent bacteraemia needs at least 12 hours between cultures
+title: Duke criteria: cultures only 6 hours apart are not a major criterion
+titleAr: معايير ديوك: مزارع الدم التي تفصلها 6 ساعات فقط ليست معيارًا رئيسيًّا
+tags: cardiac/other d:diagnosis q:recall l:3
+palette: ermine white, wax-seal red and castle stone
+words: 6, 12
+keywords: Duke criteria -> a duke in an ermine cloak reading a checklist and stamping big red wax seals; Streptococcus bovis -> two sealed bottles, each holding a chain of beads with black-and-white cow spots (BOVIS = cow); vegetation (oscillating intracardiac mass) -> playing cards sprouting broccoli, swaying on a valve door, sealed; new valvular regurgitation -> water gurgling back through a valve, sealed; cultures only 6 hours apart -> two bottles drawn when the clock showed only 6 hours between them, their seal torn off by the duke, beside a clock pointing to 12 for a true seal
+must: the seal is torn off the 6-hour pair; the other three findings keep their red seals
+scene: The great hall of a duke's castle. CENTRE, dominant and brightest: the duke, in an ermine cloak, tearing the red wax seal off two bottles drawn when a clock showed only 6 hours between them, while a second clock beside him points to 12. Around him, three findings keep their big red seals: two bottles each holding a chain of beads with black-and-white cow spots; playing cards sprouting broccoli, swaying on a valve door; water gurgling back through a valve. LEFT: Nami holding out the torn bottles with a sly smile; Sanji bowing to her, hearts in his eyes; Chopper with the checklist.
+story:
+في القاعة الكبرى من قلعة قديمة، جلس دوق في عباءة من فرو القاقم، يقرأ قائمته ويختم بالشّمع الأحمر.
+فختم أوّلًا قنّينتين، في كلّ منهما سلسلة من خرز مبقّع بالأبيض والأسود كجلد البقرة.
+ثمّ ختم أوراق لعب ينبت منها البروكلي، تتمايل على باب من أبواب الفندق، وماءً يقرقر راجعًا من باب آخر.
+«وهاتان أخذتا وبينهما اثنتا عشرة ساعةً يا سيّدي الدوق!» قالت نامي، وقدّمت قنّينتين أخريين قد ختمتهما بنفسها، بابتسامة ماكرة.
+فرفع الدوق عينيه إلى الساعة على الحائط، فإذا بين القنّينتين ستّ ساعات فقط.
+فنزع عنهما الختم ومزّقه، وأشار إلى ساعة ثانية عقرباها عند الثانية عشرة.
+«ستّ ساعات لا تكفي؛ لا ختم إلّا بعد اثنتي عشرة ساعة!» قال الدوق.
+«الخرز المبقّع، والأوراق المتمايلة، والماء الراجع تختم؛ أمّا قنّينتا الساعات الستّ فلا!» قال تشوبر، وهو يشطبهما من القائمة.
+فأطرقت نامي ضاحكة، فانحنى لها سانجي والقلوب تتراقص في عينيه، وقال مبدأه الّذي لا يحيد عنه:
+quote: «مسامحة كذب المرأة من شيم الرجال!»
+source: سانجي
+explanation:
+Persistently positive blood cultures are a major Duke criterion only when drawn at least 12 hours apart, or when all three, or most of four or more, are positive with the first and last an hour or more apart; cultures 6 hours apart do not qualify: B.
+A typical organism such as Streptococcus bovis in two separate cultures, the cow-spotted bead chains, is a major criterion.
+So is a single positive culture for Coxiella burnetii.
+So is echocardiographic evidence: an oscillating mass, the swaying cards with broccoli, an abscess, or new regurgitation, the gurgling water.
+Memory hook: the duke seals the cow beads, the swaying cards and the new leak, but tears the seal off cultures only 6 hours apart.
+
+== 187
+# book 38.2: INCORRECT about the pathogenesis of endocarditis -> A, damage occurs to the epicardial surface.
+# one of the smooth white tiles inside a valve door knocked off, a rough spot showing -> endothelial (endocardial) damage (audited white tiles)
+# little white plates and sticky red threads piling onto the bare spot -> platelets and fibrin, a sterile thrombus (audited white plates)
+# a few green germs passing in the river for an hour -> transient bacteraemia
+# germs settling on the pile, which grows into cards sprouting broccoli -> infection and multiplication: the vegetation (audited cards)
+# ANSWER (the wrong statement): Helmeppo scrubbing the OUTSIDE wall of the hotel, where nothing grows -> the damage is not epicardial
+title: Endocarditis begins on the inner, endothelial surface, not the epicardium
+titleAr: يبدأ التهاب الشغاف على السطح الداخليّ البطانيّ، لا على النسيج النخاب الخارجيّ
+tags: cardiac/other d:pathology q:recall l:2
+palette: tile white, broccoli green and Marine blue
+keywords: endothelial damage -> one of the smooth white tiles lining the inside of a valve door knocked off, a rough bare spot showing; platelets and fibrin -> little white plates and sticky red threads piling onto the bare spot; transient bacteraemia -> a few little green germs drifting past in the river for an hour; infected vegetation -> the germs settling on the pile, which grows into playing cards sprouting broccoli; epicardial surface -> Helmeppo scrubbing the OUTSIDE wall of the hotel with a brush, where nothing grows
+must: everything grows on the INSIDE of the valve door; the outside wall Helmeppo scrubs stays clean
+scene: A Marine base at Shells Town; the HART Hotel cut open. CENTRE, dominant and brightest: inside a valve door, one of the smooth white tiles lining it has been knocked off; little white plates and sticky red threads pile onto the rough bare spot; a few little green germs drifting past in the river settle on the pile, which grows into playing cards sprouting broccoli. RIGHT, outside: Helmeppo, a spoiled young Marine with a bowl haircut, furiously scrubbing the hotel's outside wall with a brush, where nothing grows. Chopper pointing inside the door.
+story:
+في قاعدة البحريّة بشلز تاون، صدر الأمر: في الفندق القديم أوراق لعب ينبت منها البروكلي، فأزيلوها!
+فأسرع هيلميبّو، الضابط المدلّل ذو الشعر المقصوص كالوعاء، وأخذ يفرك جدار الفندق من الخارج بفرشاة كبيرة.
+فرك وفرك حتّى لمع الجدار، لكنّ الجدار الخارجيّ لم ينبت عليه شيء قطّ.
+«ليس هناك! المشكلة في الداخل!» قال تشوبر، وفتح بابًا من أبواب الفندق من داخله.
+كان باطن الباب مبطّنًا ببلاط أبيض أملس، قد سقطت منه بلاطة واحدة، فبدت تحتها بقعة خشنة.
+فتكدّست على البقعة صحون بيضاء صغيرة، وخيوط حمراء لزجة.
+ثمّ مرّت في النهر جراثيم خضراء صغيرة ساعةً من الزمن، فعلقت بالكومة، فإذا الكومة تنمو أوراق لعب ينبت منها البروكلي.
+«بلاطة تسقط من الداخل، فصحون وخيوط، فجراثيم عابرة تعلق وتكبر؛ أمّا الجدار الخارجيّ فلا ذنب له!» قال تشوبر.
+فضحك البحّارة من هيلميبّو وفرشاته، فاحمرّ وجهه ورمى الفرشاة، وصرخ بالكلمة الّتي يحتمي بها دائمًا، فأبوه هو الكابتن مورغان:
+quote: «سأشكوك إلى أبي!»
+source: هيلميبّو
+explanation:
+The incorrect statement is that the damage occurs on the epicardial surface: endocarditis starts on the inner, endothelial surface of the heart: A.
+First the endothelium is damaged, one of the white tiles knocked off the inside of a valve door.
+Platelets and fibrin, the white plates and red threads, pile onto the bare spot as a sterile thrombus.
+A transient bacteraemia, the green germs passing in the river, seeds the thrombus, and the organisms multiply there into a vegetation, the cards sprouting broccoli.
+Memory hook: a tile falls off inside, plates and threads pile up, passing germs settle and grow; scrubbing the outside wall does nothing.
+
+== 188
+# book 38.3: clinical presentation of endocarditis -> C, most symptoms resolve with appropriate antibiotics in the subacute setting.
+# the second sailor, ill slowly for weeks, cards with green beads and broccoli on his valve -> subacute endocarditis (audited cards, green beads)
+# ANSWER: Chopper drawing circles round those cards with a giant pencil day by day, the broccoli wilting, the thermometer falling -> antibiotics (PENCIL-lin) resolve most symptoms
+# the first sailor, cards with golden grapes tearing his valve door apart in one night -> acute endocarditis: days, not weeks; more complications (A, B wrong) (audited golden grapes)
+# the cured sailor sitting alone -> lead-in to Luffy's line
+title: Subacute endocarditis: most symptoms resolve with the right antibiotics
+titleAr: التهاب الشغاف تحت الحادّ: معظم الأعراض تزول بالمضادّ الحيويّ المناسب
+tags: cardiac/other d:diagnosis q:recall l:2
+palette: sick-bay cream, broccoli green and gold
+keywords: subacute endocarditis -> playing cards wrapped in a chain of green beads and sprouting broccoli on the second sailor's valve; antibiotics -> Chopper drawing circles round those cards with a giant PENCIL (PENCIL-lin sounds like penicillin), the broccoli wilting; symptoms resolve -> a fever thermometer falling and the second sailor smiling; acute endocarditis -> playing cards with a cluster of golden grapes tearing the first sailor's valve door apart overnight; viridans -> playing cards wrapped in a chain of green beads and sprouting broccoli on the second sailor's valve
+must: under the pencil the broccoli wilts; the golden grapes tear the other door
+scene: Chopper's sick bay aboard the Thousand Sunny. CENTRE, dominant and brightest: Chopper drawing circles with a giant pencil round playing cards wrapped in a chain of green beads on the second sailor's valve, the broccoli on them wilting, a fever thermometer beside the bed falling; the sailor sitting up and smiling, a little alone at the edge of the bed. LEFT: the first sailor's valve door torn apart overnight by playing cards bearing a cluster of golden grapes. RIGHT: Usopp pointing at the slow sailor; Luffy sitting down beside him.
+story:
+في عيادة تشوبر على ظهر الثاوزند صني، رقد بحّاران على سريرين.
+في فندق الأوّل، أوراق لعب عليها عنقود من عنب ذهبيّ، مزّقت بابه في ليلة واحدة.
+وفي فندق الثاني، أوراق لعب ملفوفة بسلسلة من الخرز الأخضر، ينبت عليها البروكلي على مهل، أسبوعًا بعد أسبوع.
+«هذا البطيء أسوأ حالًا؛ مرض طال هكذا لا شفاء له!» قال أوسوب.
+فرفع تشوبر قلم رصاص أصفر عملاقًا، وأخذ يرسم به دوائر حول الأوراق الخضراء يومًا بعد يوم.
+فذبل البروكلي، وهبط ميزان الحرارة بجانب السرير، وجلس البحّار الثاني يبتسم.
+«الأوراق الخضراء البطيئة تذبل تحت القلم؛ أمّا العنب الذهبيّ فيمزّق الباب في ليلة!» قال تشوبر.
+لكنّ البحّار الثاني ظلّ جالسًا على طرف سريره وحده، يسمع ضحك الطاقم حول المائدة ولا يجرؤ أن يقترب.
+فجلس لوفي بجانبه، وشدّه من كمّه نحو المائدة، وقال له ما صرخ به في وجه أخيه إيس يوم كانا طفلين:
+quote: «الوحدة أشدّ ألمًا من الجراح!»
+source: مونكي دي لوفي
+explanation:
+In subacute endocarditis most symptoms resolve with the appropriate antibiotics, the giant pencil, penicillin, drawn round the slow cards until the broccoli wilts: C.
+Subacute endocarditis, typically from streptococci, the green beads, develops over weeks and responds well to treatment.
+Acute endocarditis, typically Staphylococcus aureus, the golden grapes, destroys a valve within days, not weeks, and complications are more common in the acute form.
+Most mycotic aneurysms are silent until they leak, and late prosthetic endocarditis comes from bloodstream infections, not from contamination at the operation.
+Memory hook: the slow green cards wilt under the pencil; the golden grapes tear the door in a night.
+
+== 189
+# book 38.4: complications of endocarditis -> D, stroke most commonly comes from a mitral valve vegetation.
+# big swaying cards with broccoli on the bishop's mitre -> mitral vegetation (audited cards, mitre)
+# ANSWER: a black bowling ball breaking off those cards and rolling up to the head lantern, a lightning bolt striking it -> embolic stroke from the mitral vegetation (audited bowling ball, lightning)
+# smaller cards on the orca's mouth, no ball -> aortic vegetations embolise less (audited mouth)
+title: In endocarditis, stroke most often comes from a mitral vegetation
+titleAr: في التهاب الشغاف تأتي السكتة غالبًا من تنبّت على الصمّام التاجيّ
+tags: cardiac/other d:complications q:recall l:2
+palette: Amazon jungle green, lightning white and rose pink
+keywords: mitral valve vegetation -> big playing cards sprouting broccoli and swaying on the bishop's mitre; embolic stroke -> a black bowling ball breaking off the mitre's cards and rolling up to a head-shaped lantern, a lightning bolt striking it; aortic valve vegetation -> smaller cards on the orca's mouth in another hotel, sending no ball
+must: the bowling ball comes from the MITRE's cards, not from the orca's mouth
+scene: Amazon Lily, jungle green and rose light. CENTRE, dominant and brightest: big playing cards sprouting broccoli sway on the bishop's mitre inside a HART Hotel; a black bowling ball breaks off them and rolls up to a head-shaped lantern, which a lightning bolt strikes. LEFT: another hotel with smaller cards on the killer-whale balloon's mouth, sending out no ball. RIGHT: Boa Hancock, the pirate empress, hand on her heart, gazing at Luffy; Usopp pointing at the orca's mouth; Chopper.
+story:
+في جزيرة الأمازون ليلي، قام فندقان قديمان على العشب الأخضر.
+في الأوّل، أوراق لعب كبيرة ينبت منها البروكلي، تتمايل على تاج الأسقف مع كلّ دفعة.
+وفي الثاني، أوراق أصغر على فم الحوت القاتل.
+«الخطر من فم الحوت، فهو أقرب إلى الفانوس الّذي على هيئة رأس!» قال أوسوب، ووقف يحرس الفندق الثاني.
+لكنّ الأوراق الصغيرة على فم الحوت لم ترسل شيئًا.
+أمّا الأوراق الكبيرة على تاج الأسقف، فانفصلت منها كرة بولينغ سوداء، وتدحرجت صاعدةً إلى الفانوس الّذي على هيئة رأس، فضربته صاعقة.
+«الأوراق الكبيرة المتمايلة على التاج هي الّتي ترمي الكرة إلى الرأس!» قال تشوبر.
+وفي تلك اللحظة مرّ لوفي، فوضعت الإمبراطورة بوا هانكوك يدها على قلبها، وقد أصابتها صاعقة من نوع آخر.
+فترنّحت كأنّ كرةً أصابت رأسها هي أيضًا، وهتفت بكلمتها الشهيرة:
+quote: «الحبّ دائمًا إعصار!»
+source: بوا هانكوك
+explanation:
+Stroke in endocarditis most often comes from a vegetation on the mitral valve, the big swaying cards on the mitre sending a bowling ball up to the head lantern: D.
+Mitral vegetations, above all large and mobile ones over about 10 mm, carry the highest embolic risk, and the brain is the commonest target.
+Complications are common, not rare.
+Heart failure, the commonest complication, comes from valve destruction rather than coronary embolism; embolism is not more frequent in the elderly; and a pseudoaneurysm is prone to rupture.
+Memory hook: the big swaying cards on the mitre throw the bowling ball at the head.
+
+== 190
+# book 38.5: outcomes after surgery for endocarditis -> B, concomitant heart failure increases operative risk.
+# cards with broccoli on a valve -> endocarditis (audited cards)
+# a traffic jam of taxis round the hotel -> heart failure (audited traffic jam)
+# ANSWER: a black coffin's shadow lengthening over the operating table as the jam grows -> heart failure raises operative mortality (audited coffin)
+# Chopper rolling up his sleeves -> heart failure is also the reason to operate
+title: Surgery for endocarditis: heart failure raises the operative risk
+titleAr: جراحة التهاب الشغاف: قصور القلب يرفع خطر العمليّة
+tags: cardiac/other d:evidence q:recall l:2
+palette: haunted purple, taxi yellow and coffin black
+keywords: endocarditis -> playing cards sprouting broccoli on a valve door; heart failure -> a traffic jam of yellow taxis round the HART Hotel; operative mortality -> the shadow of a black coffin lengthening over the operating table as the traffic jam grows; Perona's ghost -> a small white ghost floating through the frightened sailor on the table
+must: the coffin's shadow grows longer as the traffic jam grows
+scene: The gloomy castle of Thriller Bark. CENTRE, dominant and brightest: a frightened sailor on an operating table, a little HART Hotel drawn on his chest, playing cards sprouting broccoli on its valve door, and a traffic jam of yellow taxis packed round it; the shadow of a black coffin lengthening over the table. LEFT: Chopper rolling up his sleeves. RIGHT: a small white ghost floating through the sailor, who curls up; Usopp shrugging.
+story:
+في قلعة ثريلر بارك المظلمة، رقد بحّار خائف على طاولة العمليّات، وعلى صدره فندق صغير.
+على باب من أبواب الفندق أوراق لعب ينبت منها البروكلي، وحوله زحمة من سيّارات الأجرة الصفراء، لا تتقدّم شبرًا.
+«بضع سيّارات لا تغيّر شيئًا؛ العمليّة هي العمليّة!» قال أوسوب، وهزّ كتفيه.
+لكن كلّما اشتدّت الزحمة حول الفندق، طال على الطاولة ظلّ تابوت أسود.
+فلمّا وقفت سيّارة أخرى في الزحمة، امتدّ الظلّ حتّى غطّى قدمي البحّار.
+«كلّما كبرت الزحمة، طال ظلّ التابوت!» قال تشوبر.
+«لكنّ هذه الزحمة نفسها هي ما يدعونا إلى العمل الآن، لا غدًا!» قال، وشمّر عن ساعديه.
+وفي تلك اللحظة طاف شبح أبيض صغير من أشباح بيرونا خلال البحّار الخائف.
+فانكمش على نفسه، وقد غمره اليأس الّذي تبثّه تلك الأشباح في كلّ من تعبره، وتمتم:
+quote: «آسف لأنّني ولدت!»
+source: ضحايا أشباح بيرونا
+explanation:
+In surgery for endocarditis, concomitant heart failure, the traffic jam round the hotel, increases the operative risk, the coffin's lengthening shadow: B.
+Heart failure is also the commonest reason to operate early, so the risk is accepted rather than avoided.
+Emergency operations carry more risk, not the same, and Staphylococcus aureus, not streptococci, is linked with the highest mortality.
+Mechanical valves are not less likely than tissue valves to become reinfected.
+Memory hook: the bigger the jam round the hotel, the longer the coffin's shadow on the table.

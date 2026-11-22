@@ -1,0 +1,329 @@
+book: johns-hopkins-2016
+# Lessons 191-200 (book 39.1-40.5: heritable and other aortic disease, thoracoabdominal aneurysm, spinal cord
+# protection). Written 2026-11-21, night. Each story: a hook, a wrong try that fails, the answer acting, a payoff
+# line that names the symbol, and a lead-in that says who speaks the quotation and why it fits.
+
+== 191
+# book 39.1: true about heritable disorders of the aorta -> B, enhanced metalloproteinases in Marfan syndrome (printed "MS").
+# the tall lanky wooden marionette with spider fingers and a crimson fan, astride the swollen salsa bowls -> Marfan syndrome (audited marionette)
+# its strings tied in many different broken knots, not one -> many different fibrillin-1 mutations, not a single one (A wrong)
+# ANSWER: a swarm of wind-up METAL PIRANHAS pouring from its sleeves, gnawing the orca's wall -> more matrix METAL-PROteinases
+# the pink bubble-gum bubble bulging where they gnaw -> aneurysm (audited)
+title: Marfan syndrome: more metalloproteinases digest the aortic wall
+titleAr: متلازمة مارفان: تزداد الإنزيمات المعدنيّة الهاضمة فتأكل جدار الأبهر
+tags: cardiac/aorta vascular/aorta d:pathology q:recall l:3 x:key-corrected
+palette: circus red and gold, tent stripes and gunmetal grey
+option: B = There is enhanced expression of metalloproteinases in MFS.
+note: The book prints "in MS". Every other option calls Marfan syndrome MFS, and the enhanced expression of matrix metalloproteinases is a finding of Marfan aortas, so the option is shown with MFS (in a heart book "MS" reads as mitral stenosis). The key is unchanged.
+keywords: Marfan syndrome -> a very tall, lanky wooden marionette with spider-long fingers and loose floppy joints, fanning itself with a huge crimson fan, sitting astride the orca's swollen salsa bowls; many different mutations -> the marionette's strings tied in many different broken knots, not just one; matrix metalloproteinases -> a swarm of little wind-up METAL PIRANHAS (METAL-PROteinases) pouring out of the marionette's sleeves and gnawing the orca balloon's rubber wall; aneurysm -> a big pink bubble-gum bubble bulging out of the orca's wall where the piranhas gnaw; aortic root -> the orca's three swollen salsa bowls
+must: the metal piranhas pour out of the marionette's sleeves and gnaw the wall right where the bubble bulges
+scene: Inside Buggy's circus tent in Orange Town, red and gold stripes. CENTRE, dominant and brightest: a giant orca parade balloon; astride its three swollen salsa bowls sits a very tall, lanky wooden marionette with spider-long fingers, fanning itself with a huge crimson fan, its strings tied in many different broken knots; a swarm of little wind-up metal piranhas pours out of its sleeves and gnaws the orca's rubber wall, where a big pink bubble-gum bubble bulges. LEFT: Franky, the blue-haired cyborg shipwright with huge star-tattooed metal forearms, pointing at the metal piranhas; Usopp holding up one broken string. RIGHT: Buggy the clown, with his big round red nose, turning round furious. Chopper.
+story:
+في خيمة سيرك باغي بأورانج تاون، ارتفع بالون حوت قاتل عملاق فوق الحلبة.
+وعلى أطباق الصلصة المنتفخة عند قاعدته، جلست دمية خشبيّة طويلة نحيلة، أصابعها كأرجل العنكبوت، تروّح عن نفسها بمروحة قرمزيّة كبيرة.
+وتحتها، أخذت فقّاعة علك ورديّة تنتفخ من جدار الحوت.
+«إنّها عقدة واحدة في خيط واحد، نحلّها فينتهي كلّ شيء!» قال أوسوب، ورفع خيطًا مقطوعًا.
+لكنّه لمّا تتبّع الخيوط، وجد في كلّ خيط عقدةً غير أختها، عقدًا لا تحصى.
+ثمّ سمع فرانكي قضمًا معدنيًّا، فإذا سرب من أسماك البيرانا المعدنيّة ينهمر من أكمام الدمية، ويقضم جدار الحوت حيث تنتفخ الفقّاعة.
+«بيرانا من معدن! صناعة سوبر، لكنّها تأكل الجدار!» صاح فرانكي.
+«دمية الخيوط تطلق بيرانا المعدن، فتقضم الجدار حتّى ينتفخ!» قال تشوبر.
+فضحك لوفي: هذه الفقّاعة مستديرة كأنف مهرّج! فالتفت باغي، صاحب السيرك، وقد احمرّ وجهه غضبًا:
+quote: «من الّذي تسمّيه صاحب الأنف الأحمر الكبير؟!»
+source: باغي المهرّج
+explanation:
+Matrix metalloproteinases, enzymes that digest elastin and collagen, are expressed more in the aortic wall in Marfan syndrome (printed "MS"): B.
+In the picture, the marionette's metal piranhas gnaw the orca's wall until it bulges into an aneurysm.
+Marfan syndrome comes from mutations of the fibrillin-1 gene on chromosome 15, but more than a thousand different mutations are known, not a single one: the many different knots.
+Vascular complications belong to the vascular type of Ehlers-Danlos syndrome (type IV), caused by COL3A1 mutations; Loeys-Dietz syndrome comes from mutations of the TGF-beta receptors.
+Turner syndrome is a chromosomal disorder (45,X) and Noonan syndrome is autosomal dominant, so neither is autosomal recessive.
+Memory hook: the marionette's metal piranhas chew the orca's wall.
+
+== 192
+# book 39.2: bicuspid valve aortopathy -> C, the valve cusps and the ascending aortic media arise from the same neural crest cells (printed "medial crest").
+# a bicycle wedged in the orca's mouth -> bicuspid aortic valve (audited)
+# the pink bubble-gum bubble on the orca's wall just above the bicycle -> ascending aortic dilation (audited)
+# ANSWER: the same royal CREST stamped on the bicycle's frame and on the wall above it, as on the flag over the workshop -> one neural CREST origin
+# the second orca whose bicycle was long ago replaced by a tissue box, yet its bubble still grows -> dilation goes on after valve replacement
+title: Bicuspid valve and aorta: both come from the same neural crest cells
+titleAr: الصمّام ثنائيّ الشرف والأبهر: كلاهما من خلايا العُرف العصبيّ نفسها
+tags: cardiac/aortic-valve cardiac/aorta d:pathology q:recall l:3 x:key-corrected
+palette: Enies Lobby sunset orange, flag white and royal purple
+option: C = The valve cusps and ascending arterial media arise from the same neural crest cells.
+note: The book prints "medial crest cells", a misprint: the aortic valve cusps and the media of the ascending aorta both come from neural crest cells, so the option is shown with "neural". The key is unchanged.
+keywords: bicuspid aortic valve -> a bicycle wedged in the orca's mouth; ascending aortic dilation -> a big pink bubble-gum bubble bulging out of the orca's wall just above the bicycle; neural crest -> the same royal CREST stamped on the bicycle's frame and on the orca's wall above it, matching the crest on a big flag flying over the toy workshop; dilation after valve replacement -> a second orca whose bicycle was long ago replaced by a soft tissue box, yet whose bubble is still growing; aneurysm -> a big pink bubble-gum bubble bulging from the orca's front climb
+must: the SAME crest is on the bicycle, on the wall above it and on the flag
+scene: Enies Lobby at sunset, a toy workshop below the Tower of Justice. CENTRE, dominant and brightest: a giant orca parade balloon with a bicycle wedged in its mouth; on the bicycle's frame and on the orca's wall just above it, where a big pink bubble-gum bubble bulges, the same royal crest is stamped; above them flies a big white flag bearing that crest. LEFT: a second orca balloon whose bicycle was long ago replaced by a soft tissue box, yet its bubble is still growing. RIGHT: Sogeking, a masked sniper hero in a golden mask and red cape, aiming his huge slingshot at the flag; Luffy, the straw-hatted captain, pointing at the flag; Robin comparing the two crests. Chopper.
+story:
+في ورشة ألعاب تحت برج العدالة بإينيس لوبي، عند الغروب، كان بالون حوت قاتل في فمه درّاجة محشورة.
+وفوق الدرّاجة مباشرة، أخذ جدار الحوت ينتفخ فقّاعة علك ورديّة.
+«الدرّاجة تدفع الماء دفعًا عنيفًا فتنفخ الجدار؛ نبدّلها فتهدأ الفقّاعة!» قال أوسوب.
+فأرته روبين حوتًا ثانيًا، بدّلت درّاجته منذ زمن بعلبة مناديل ناعمة، وما زالت فقّاعته تكبر.
+ثمّ مسحت الغبار عن إطار الدرّاجة، فظهر عليه شعار ملكيّ، ومسحت جدار الحوت فوقها، فظهر الشعار نفسه.
+«الدرّاجة والجدار مقطوعان من قماش واحد، في ورشة واحدة.» قالت روبين.
+«شعار واحد على الدرّاجة وعلى الجدار فوقها: قماشهما واحد، فضعفهما واحد!» قال تشوبر.
+فرفع لوفي عينيه، فإذا علم أبيض كبير يرفرف فوق الورشة، عليه الشعار نفسه.
+فغضب لأنّ الورشة الّتي صنعت الضعف ترفع علمها عاليًا، والتفت إلى سوغيكينغ، القنّاص المقنّع الّذي يشبه أوسوب شبهًا عجيبًا، وأمره كما أمره يومًا في هذا المكان نفسه:
+quote: «سوغيكينغ! أطلق النار على ذلك العلم!»
+source: مونكي دي لوفي
+explanation:
+In a bicuspid aortic valve, the cusps and the media of the ascending aorta arise from the same neural crest cells (printed "medial crest"), so one developmental fault weakens both: C.
+In the picture, the bicycle and the orca's wall above it carry the same crest: cut from the same cloth.
+That is why the ascending aorta can keep dilating even after the valve has been replaced, the bubble that still grows over the tissue box.
+In the aortic media of these patients fibrillin-1 is reduced and smooth muscle cells die by apoptosis; apoptosis is described in the aortic wall, not in the valve leaflets.
+About one in ten first-degree relatives also has a bicuspid valve, so relatives are screened with echocardiography.
+Memory hook: one crest on the bicycle and on the wall above it: the same cloth, the same weakness.
+
+== 193
+# book 39.3: other aneurysmal disease -> D, the leading cause of death in Behcet disease is aneurysm rupture.
+# Captain Morgan's axe-hand, a great HATCHET (be-HATCHET) -> Behcet disease
+# ANSWER: the hatchet bursting the pink bubble-gum bubble on the orca's back, a coffin under it -> rupture is the leading cause of death (audited bubble-gum, coffin)
+title: Behcet disease: aneurysm rupture is the leading cause of death
+titleAr: داء بهجت: انفجار أمّ الدم هو أوّل أسباب الوفاة
+tags: vascular/other vascular/aorta d:pathology q:recall l:3
+palette: Marine base blue and white, axe-steel silver and bubble-gum pink
+keywords: Behcet disease -> Captain Morgan's axe-hand, a great HATCHET (be-HATCHET); aneurysm -> a big pink bubble-gum bubble bulging out of the orca balloon's back; aneurysm rupture -> the hatchet bursting the bubble-gum bubble with a loud pop, pink shreds flying; death -> a black coffin waiting right under the burst bubble; aorta -> a big pink bubble-gum bubble bulging out of the orca balloon's back
+must: it is the BURSTING of the bubble, struck by the hatchet, that fills the coffin
+scene: The Marine base at Shells Town, blue and white under a hot sun. CENTRE, dominant and brightest: Captain Morgan, a huge Marine with a steel jaw and a great axe for a right hand, bursting a big pink bubble-gum bubble on the orca parade balloon's back with his hatchet, pink shreds flying; a black coffin waits right under it. LEFT: Usopp waving his arms, calling it harmless. RIGHT: Chopper running up too late.
+story:
+في قاعدة البحريّة بشلز تاون، تحت شمس حارقة، انتفخت على ظهر بالون الحوت القاتل فقّاعة علك ورديّة كبيرة.
+فتقدّم الكابتن مورغان، العملاق ذو الفكّ الحديديّ، ويده اليمنى فأس عظيمة.
+«لا تخافوا، فقّاعات العلك لا تؤذي أحدًا؛ تنفشّ وحدها!» قال أوسوب، ولوّح بذراعيه.
+لكنّ مورغان رفع فأسه، وهوى بها على الفقّاعة.
+فانفجرت الفقّاعة بدويّ عظيم، وتطايرت منها قطع ورديّة، وتحتها تابوت أسود ينتظر.
+«مع صاحب الفأس، الفقّاعة الّتي تنفجر هي الّتي تقتل!» قال تشوبر، وقد وصل متأخّرًا.
+فصاح البحّارة بمورغان أن يلقي فأسه، فما هو إلّا رجل مثلهم.
+فنفخ مورغان صدره المزيّن بالأوسمة، ورفع فكّه الحديديّ، وقال ما يردّده كلّما عارضه أحد:
+quote: «في هذا العالم، الرتب هي كلّ شيء!»
+source: الكابتن مورغان
+explanation:
+In Behcet disease the leading cause of death is the rupture of an arterial aneurysm: D.
+Behcet disease, Morgan's hatchet, inflames vessels of every size; its aneurysms, in the aorta and in the pulmonary arteries, rupture readily: the burst bubble over the coffin.
+Syphilitic aortitis is an inflammation that destroys the aortic media and leaves saccular aneurysms of the ascending aorta.
+Takayasu arteritis mainly narrows and blocks the aorta and its branches; aneurysms are less common.
+Mycotic aneurysms are usually saccular and focal, not diffuse and fusiform, and giant cell arteritis does raise the risk of a thoracic aortic aneurysm.
+Memory hook: Morgan's hatchet pops the bubble: in Behcet disease, rupture kills.
+
+== 194
+# book 39.4: NOT an indication for surgery -> E, an ascending aorta of 4.5 cm without a heritable connective tissue disorder.
+# four patients wheeled into theatre: an aching bubble -> symptomatic; a bubble outgrowing last year's chalk outline -> fast growth (10 percent in a year);
+#   a marionette with twisted strings at 4 -> Loeys-Dietz at 4.0 cm (audited marionette); an orca mouth that sags and drips -> progressive aortic regurgitation (audited mouth)
+# ANSWER: Chopper himself, an ordinary reindeer, his little bubble at 4.5, sent back to sea by Dr Kureha -> watch, do not operate
+title: Not an indication: an ascending aorta of 4.5 cm without a heritable disorder
+titleAr: ليس استطبابًا: أبهر صاعد قطره 4.5 سم بلا اضطراب وراثيّ في النسيج الضامّ
+tags: cardiac/aorta d:indications q:numbers l:2 x:guideline
+palette: Drum Island snow white, castle stone grey and cherry-blossom pink
+words: 4, 4.5
+note: Thresholds differ a little between societies and guideline editions (some now advise 5.0 cm in experienced centres); the book's numbers are used here.
+keywords: symptomatic aneurysm -> the first patient clutching an aching pink bubble-gum bubble on his orca; rapid growth -> the second patient's bubble that has outgrown last year's chalk outline drawn round it; Loeys-Dietz syndrome at 4.0 cm -> a marionette with twisted, tangled strings standing at 4; progressive aortic regurgitation -> the fourth patient's orca mouth sagging and dripping more each week; an ordinary patient at 4.5 cm -> Chopper himself, an ordinary reindeer, his little bubble standing at 4.5, skipping off to the ship
+must: Chopper's bubble reads 4.5 and he leaves for the ship; the four others are wheeled into the operating room
+scene: Dr Kureha's castle on the snowy peak of Drum Island, pink snow falling like cherry blossom. LEFT: four patients being wheeled into the operating room: a sailor clutching an aching pink bubble-gum bubble on his orca; a sailor whose bubble has outgrown last year's chalk outline drawn round it; a wooden marionette with twisted, tangled strings standing at 4; a sailor whose orca's mouth sags and drips. CENTRE, dominant and brightest: Chopper, the little reindeer doctor in a pink top hat, a little HART Hotel drawn on his own chest with a small bubble standing at 4.5, skipping out of the castle gate towards the Thousand Sunny. RIGHT: Dr Kureha, a wiry, very old woman doctor with long grey hair, sunglasses and a bottle of sake, waving him off with a grin.
+story:
+في قلعة الدكتورة كوريها على قمّة جزيرة درام، كان الثلج الورديّ يتساقط كزهر الكرز.
+فأدخل إلى غرفة العمليّات أربعة: بحّار يقبض على فقّاعة تؤلمه، وبحّار كبرت فقّاعته عن خطّ الطباشير الّذي رسم حولها العام الماضي.
+ودمية خشبيّة خيوطها ملتوية متشابكة، تقف فقّاعتها عند أربعة؛ وبحّار يتدلّى فم حوته ويقطر أكثر كلّ أسبوع.
+ثمّ جاء دور تشوبر نفسه، فقد رسم على صدره فندقًا صغيرًا، فيه فقّاعة صغيرة تقف عند أربعة ونصف.
+«وأنا أيضًا، ألا تدخلينني معهم؟» همس تشوبر خائفًا.
+فضحكت كوريها، ونقرت على فقّاعته بإصبعها: لا ألم، ولا كبر سريع، ولا خيوط ملتوية، ولا فم يقطر.
+«أربعة ونصف عند رنّة عاديّة؟ هذه نراقبها، ولا نشقّ لها صدرًا!» قالت كوريها.
+«الأربعة إلى الداخل، وصاحب الأربعة والنّصف العاديّ إلى البحر!» قال تشوبر فرحًا.
+فقفز خارجًا من بوّابة القلعة نحو الثاوزند صني، فلوّحت له كوريها بزجاجتها، ونادت بما نادته به يوم أبحر أوّل مرّة:
+quote: «رحلةً آمنةً يا ولدي الأحمق!»
+source: الدكتورة كوريها
+explanation:
+An ascending aorta of 4.5 cm in a patient with no heritable connective tissue disorder is not an indication for surgery: it is watched, and operated on at about 5.5 cm: E.
+A symptomatic aneurysm is operated on whatever its size, the aching bubble, and so is one that grows fast, here by a tenth in a year, the bubble outgrowing its chalk outline.
+In Loeys-Dietz syndrome, where the aorta dissects at small diameters, surgery is advised at about 4.0 to 4.2 cm: the marionette with twisted strings at 4.
+Progressive aortic regurgitation, the sagging, dripping mouth, is also an indication.
+Memory hook: four go into theatre; the ordinary reindeer with a bubble at 4.5 goes back to sea.
+
+== 195
+# book 39.5: outcomes after surgery for aortic aneurysm -> A, operative mortality for ascending aortic replacement is below 5 percent.
+# Zoro on the table, the swollen front climb of his orca replaced by a white fabric tube -> ascending aortic replacement (audited orca)
+# ANSWER: a tiny toy coffin no bigger than a shoe, painted 5, forgotten in the corner -> mortality below 5 percent (audited coffin)
+title: Ascending aortic replacement: operative mortality below 5 percent
+titleAr: استبدال الأبهر الصاعد: وفيات العمليّة أقلّ من 5 في المئة
+tags: cardiac/aorta d:evidence q:numbers l:2
+palette: sick-bay white, swordsman green and lantern gold
+words: 5
+keywords: ascending aortic replacement -> the swollen front climb of the orca balloon on Zoro's chest cut away and replaced by a straight white fabric tube; operative mortality below 5 percent -> a tiny toy coffin no bigger than a shoe, painted 5, lying forgotten in a corner; ascending aortic aneurysm -> the orca's front climb swollen into a big pink bubble-gum bubble, cut away
+must: the coffin is tiny, toy-sized, painted 5, and nobody looks at it
+scene: The sick bay of the Thousand Sunny at night, a lantern swinging. CENTRE, dominant and brightest: Roronoa Zoro, the green-haired swordsman with a long old scar across his chest, lying calm on the operating table with a little HART Hotel drawn on his chest, its orca balloon's front climb, swollen into a big pink bubble-gum bubble, being replaced by a straight white fabric tube; Chopper, the little reindeer doctor, sewing it in. CORNER: a tiny toy coffin no bigger than a shoe, painted 5, lying forgotten. Franky and Usopp peeking in at the door.
+story:
+في عيادة الثاوزند صني ليلًا، والفانوس يتأرجح، رقد زورو على طاولة العمليّات.
+وعلى صدره، تحت الندبة القديمة، فندق صغير قد انتفخ فيه الجزء الصاعد من الحوت كفقّاعة علكة ورديّة كبيرة.
+«لا تفعل يا تشوبر! من يدخل هذه العمليّة لا يخرج منها!» صاح أوسوب من عند الباب، وأسنانه تصطكّ.
+لكنّ تشوبر قصّ الجزء المنتفخ من الحوت، وخاط مكانه أنبوبًا مستقيمًا من القماش الأبيض.
+وفي زاوية الغرفة، كان تابوت صغير كاللّعبة، لا يزيد على حذاء، مكتوب عليه خمسة، لا ينظر إليه أحد.
+«أنبوب أبيض جديد، وتابوت صغير كاللّعبة دون الخمسة!» قال تشوبر.
+ولمّا أفاق زورو، سأله أوسوب: ألم تخف وأنت على الطاولة؟
+فأغمض زورو عينيه من جديد، وأجابه كما أجاب يومًا وصدره مشقوق بسيف أقوى سيّاف في العالم:
+quote: «إن متّ هنا، فما أنا إلّا رجل لم يقدر أن يبلغ أبعد من هذا!»
+source: رورونوا زورو
+explanation:
+Elective replacement of the ascending aorta now carries an operative mortality below 5 percent: A.
+In the picture, Zoro's new white tube goes in while the coffin in the corner is a tiny toy painted 5.
+In Marfan syndrome a dissection does shorten long-term survival, which is why the root is replaced before it can dissect.
+Valve-sparing operations do best when the annulus is not dilated; a large annulus predicts regurgitation later.
+More regurgitation appears late after the remodelling (Yacoub) operation than after reimplantation (David).
+Memory hook: a new white tube for the orca, and a toy coffin under 5.
+
+== 196
+# book 40.1: Crawford (Safi) classification -> E, type V begins in the mid-thoracic aorta and ends at the renal arteries.
+# a crawling baby on the orca's back, V on its bib -> thoracoabdominal type V (audited crawling baby)
+# start: a mile-post halfway down the chest, between the flipper and the deck -> mid-thoracic (sixth intercostal space)
+# end: stops right at the kidney beans -> the renal arteries (audited kidney beans)
+# the second baby from the same mile-post crawling on past the beans to the tail -> type III, the trap
+title: Thoracoabdominal aneurysm type V: from mid-chest to the renal arteries
+titleAr: أمّ دم الأبهر الصدريّ البطنيّ من النمط الخامس: من منتصف الصدر إلى الشريانين الكلويّين
+tags: cardiac/aorta vascular/aorta d:anatomy q:recall l:2 x:high-yield
+palette: festival bunting colours, deck-wood brown and kidney-bean red
+words: V
+keywords: thoracoabdominal aneurysm -> a crawling baby race down the long back of the orca balloon; Crawford type V -> the crawling baby with V on its bib, starting at a mile-post halfway down the chest, between the left flipper and the deck, and stopping right at the pair of big red kidney beans; type III -> a second baby starting from the same mile-post but crawling on past the kidney beans towards the tail; diaphragm -> the springy deck floor the orca passes through, like a trampoline; renal arteries -> two short pipes from the orca to a pair of big red kidney beans
+must: baby V starts halfway down the chest and STOPS at the kidney beans; the other baby goes on past them
+scene: A baby-crawling race at a harbour festival in Water 7, bunting everywhere. A giant orca parade balloon lies stretched from its left flipper at the top, down through a springy deck floor like a trampoline, to its tail at the bottom; two short pipes lead from it to a pair of big red kidney beans. CENTRE, dominant and brightest: a crawling baby with V on its bib, which set off from a mile-post halfway down the chest between the flipper and the deck, stopping right at the kidney beans, arms raised in victory. Beside it, dimmer, a second baby that set off from the same mile-post crawls on past the kidney beans towards the tail. RIGHT: Nami, the orange-haired navigator, at the finish line hugging a bag of gold coins, winning her bet; Usopp tearing up his betting slip. Chopper.
+story:
+في مهرجان ميناء ووتر سيفن، امتدّ بالون الحوت القاتل على الأرض طويلًا، من زعنفته اليسرى في الأعلى، إلى ذيله في الأسفل.
+وفي وسطه أرضيّة سطح مشدودة كالتّرامبولين، وتحتها أنبوبان قصيران إلى حبّتي فاصولياء حمراوين كبيرتين.
+وبدأ سباق الحبو: انطلق رضيع على صدريّته الرقم الرومانيّ خمسة، من عمود في منتصف الصدر، بين الزعنفة والسّطح.
+وانطلق من العمود نفسه رضيع آخر.
+«الخامس سيحبو حتّى الذيل؛ راهنت على ذلك بكلّ ما أملك!» قال أوسوب.
+لكنّ الرضيع الخامس توقّف عند حبّتي الفاصولياء تمامًا، ورفع ذراعيه فائزًا، ومضى الآخر وحده نحو الذيل.
+«الخامس يبدأ من منتصف الصدر، ويقف عند حبّتي الفاصولياء!» قال تشوبر.
+فمزّق أوسوب ورقة رهانه، أمّا نامي فكانت قد راهنت على الوقوف عند الفاصولياء، فاحتضنت كيس الذهب.
+فلمّا سألوها: ألا يكفيك هذا؟ ضمّت الكيس إلى صدرها، وقالت ما قالته أيّام لقيت لوفي أوّل مرّة:
+quote: «هدفي أن أجمع مئة مليون بيري، مهما كان ذلك صعبًا، ومهما طال الزمن!»
+source: نامي
+explanation:
+In the Crawford classification as extended by Safi, a type V aneurysm begins in the mid-thoracic aorta, below the sixth intercostal space, and ends at the renal arteries: E.
+In the picture, baby V sets off halfway down the chest and stops at the kidney beans.
+Type I runs from the left subclavian artery to above the renal arteries, and type II, the most extensive, from the left subclavian artery to the aortic bifurcation.
+Type III begins at the same mid-thoracic level but goes on below the renal arteries, the baby that crawls past the beans; type IV begins at the diaphragm and takes in the abdominal aorta.
+Memory hook: baby V starts halfway down the chest and stops at the kidney beans.
+
+== 197
+# book 40.2: intercostal artery reimplantation -> D, a large intercostal patch can become aneurysmal over time.
+# the kiwi on the left side of the orca's back, low in the chest, feeding the long cable through thin straws -> the artery of Adamkiewicz (audited kiwi)
+# ANSWER: a big patch of old grey orca skin with several straws, sewn into the white tube, ballooned years later into a bubble-gum bubble -> a large intercostal patch becomes aneurysmal (audited bubble-gum)
+# a small button-sized island with one straw, still flat -> small islands or branch grafts avoid it
+title: A large intercostal patch can become aneurysmal over the years
+titleAr: الرقعة الكبيرة للشرايين الوربيّة قد تصير أمّ دم مع السنين
+tags: cardiac/aorta vascular/aorta d:complications q:recall l:3
+palette: shipyard grey, sailcloth white and bubble-gum pink
+keywords: artery of Adamkiewicz -> a little brown kiwi bird perched on the left side of the orca's back low in the chest, feeding the long cable of the spine through thin straws; aortic replacement -> the orca's long back replaced by a straight white fabric tube; large intercostal patch -> a big patch of the orca's old grey skin carrying several of the kiwi's straws, sewn into the white tube; patch aneurysm -> that big old patch swollen years later into a big pink bubble-gum bubble, a calendar with many pages torn off beside it; small island -> a small button-sized island of old skin carrying a single straw, still flat
+must: the BIG patch of old skin has ballooned; the small button island beside it stays flat
+scene: Franky's workshop in a Water 7 shipyard, years after a repair; a calendar with many pages torn off hangs on the wall. CENTRE, dominant and brightest: the orca balloon's long back replaced by a straight white fabric tube; sewn into it, a big patch of the orca's old grey skin carrying several thin straws has swollen into a big pink bubble-gum bubble. Beside it, a small button-sized island of old skin carrying a single straw, still perfectly flat. A little brown kiwi bird perched on the left side of the tube, low in the chest, feeds a long cable through the straws. RIGHT: Luffy, who sewed the big patch, scratching his head with a sheepish grin; Nami scolding him, fist raised. Chopper.
+story:
+في ورشة فرانكي بووتر سيفن، وعلى الحائط رزنامة مزّقت أوراقها سنةً بعد سنة، كان بالون الحوت القاتل يستريح.
+قبل سنوات، استبدل ظهره الطويل بأنبوب مستقيم من القماش الأبيض.
+وعلى جانبه الأيسر، أسفل الصدر، يقف طائر كيوي بنّيّ صغير، يطعم الحبل الطويل بمصّاصات رفيعة.
+«يومها قلت: كلّما كبرت الرقعة كان أحسن!» ضحك لوفي، فقد قصّ من جلد الحوت القديم رقعةً كبيرةً تحمل المصّاصات كلّها، وخاطها في الأنبوب.
+لكنّ الرقعة الكبيرة من الجلد القديم انتفخت مع السنين، حتّى صارت فقّاعة علك ورديّةً كبيرة.
+وإلى جانبها جزيرة صغيرة كالزّرّ، خاطها فرانكي بمصّاصة واحدة، ما زالت مسطّحةً كيوم خيطت.
+«الرقعة الكبيرة من الجلد القديم تنتفخ مع السنين، والجزيرة الصغيرة تبقى مسطّحة!» قال تشوبر.
+فحكّ لوفي رأسه مبتسمًا، كأنّ الأمر لا يعنيه.
+فرفعت نامي قبضتها، وصرخت فيه كما صرخت أيّام أبحرت معه أوّل مرّة:
+quote: «أتمزح؟! أنت أسوأهم جميعًا!»
+source: نامي
+explanation:
+A large patch of aortic wall carrying several intercostal arteries can become aneurysmal over time, the big old patch that balloons with the years: D.
+The risk is highest when the wall itself is diseased, as in Marfan syndrome, so many surgeons reattach intercostal arteries as small islands or with separate branch grafts, the small button that stays flat.
+The artery of Adamkiewicz, the kiwi, usually arises from a left-sided intercostal or lumbar artery between T8 and L1; that segment, not T4 to T7, is the one worth reattaching.
+Preserving the blood supply of the spinal cord helps in the repair of atherosclerotic aneurysms too.
+Memory hook: the big patch of old skin balloons; the small island stays flat.
+
+== 198
+# book 40.3: spinal cord protection -> A, SSEP detects ischaemia only in the dorsal spinal cord.
+# the long cable of the spine, its FRONT lane fed by the kiwi -> the spinal cord; the anterior cord fed by the anterior spinal artery (audited kiwi)
+# ANSWER: a woolly SHEEP (SSEP) strolling only along the BACK lane, noticing nothing while the front goes dark -> SSEP watches only the dorsal columns
+# a MOTORbike (MEP) on the FRONT lane, stalled in the dark -> MEP detects anterior (motor) ischaemia and is more accurate (B wrong)
+# a tap draining clear water from the lower cable -> CSF drainage lowers paraplegia (D wrong)
+title: SSEP watches only the back of the spinal cord
+titleAr: كمونات الحسّ المحرَّضة لا ترى إلّا الجزء الخلفيّ من النخاع الشوكيّ
+tags: cardiac/aorta vascular/aorta d:technique q:recall l:3
+palette: night violet, light-speed yellow and woolly white
+keywords: spinal cord -> the long cable of the spine hanging down behind the orca, with a front lane and a back lane; artery of Adamkiewicz -> a little brown kiwi bird on the orca's back, starving, no longer able to feed the FRONT lane of the cable through its thin straw; somatosensory evoked potentials -> a woolly SHEEP (SSEP) strolling up the BACK lane of the cable with a lantern, smiling, noticing nothing; motor evoked potentials -> a MOTORbike (MEP) roaring down the FRONT lane, stalled where the lane has gone dark; CSF drainage -> a tap at the lower end of the cable draining clear water into a bucket; aorta -> the orca balloon, the long cable hanging behind it; aortic cross-clamp -> giant X-shaped iron tongs clamped across the orca's back above the kiwi, cutting off its food
+must: the FRONT lane is dark and the motorbike has stalled there; the sheep on the BACK lane strolls on, noticing nothing
+scene: Night on a mountain pass, violet sky. CENTRE, dominant and brightest: a long thick cable hanging down behind the orca balloon, with a front lane and a back lane; on the orca's back a little brown kiwi bird, starving, can no longer feed the front lane through its thin straw, and the front lane has gone dark; a motorbike that was roaring down the front lane has stalled in the dark, its rider, Admiral Kizaru in a yellow-striped suit and sunglasses, leaping off; on the back lane a woolly sheep strolls up with a lantern, smiling, noticing nothing. LOWER RIGHT: a tap at the lower end of the cable draining clear water into a bucket. Chopper pointing at the dark front lane. Giant X-shaped iron tongs are clamped across the orca's back above the kiwi.
+story:
+في ليلة بنفسجيّة على ممرّ جبليّ، تدلّى خلف بالون الحوت القاتل حبل طويل غليظ، له ممرّ أماميّ وممرّ خلفيّ.
+وعلى ظهر الحوت، كان طائر كيوي بنّيّ صغير يطعم الممرّ الأماميّ بمصّاصة رفيعة.
+وفي الممرّ الخلفيّ، صعد خروف كثيف الصوف يحمل فانوسًا، يتفقّد الحبل كما أمر.
+وفجأةً، أطبقت على ظهر الحوت فوق الكيوي كمّاشة حديديّة عملاقة على شكل حرف إكس، فقطعت عنه طعامه.
+ثمّ جاع الكيوي، فعجز عن إطعام الممرّ الأماميّ، فأظلم ذلك الممرّ.
+«الخروف يمشي ويبتسم، إذن الحبل كلّه بخير!» قال أوسوب مطمئنًّا.
+لكنّ درّاجةً ناريّةً كانت تنطلق في الممرّ الأماميّ، توقّفت في الظلام فجأة، وقفز عنها راكبها، الأميرال كيزارو ببدلته المخطّطة بالأصفر.
+«الخروف لا يرى إلّا ظهر الحبل؛ الدرّاجة وحدها تعرف حين يظلم أمامه!» قال تشوبر.
+ثمّ فتح صنبورًا في أسفل الحبل، فسال منه ماء صاف إلى دلو، وخفّ الضغط عن الممرّ المظلم.
+ومضى الخروف يصعد بفانوسه مبتسمًا، لا يدري بشيء.
+فوقف كيزارو أمامه بابتسامته الكسولة، ورفع قدمًا تلمع بالضّوء، وسأله سؤاله المشهور:
+quote: «هل ركلت يومًا بسرعة الضوء؟»
+source: الأميرال كيزارو
+explanation:
+Somatosensory evoked potentials (SSEP) travel up the dorsal columns, so they detect ischaemia only in the back of the spinal cord: A.
+Paraplegia comes from ischaemia of the anterior cord, fed by the anterior spinal artery and the artery of Adamkiewicz, the kiwi; the sheep on the back lane notices nothing.
+Motor evoked potentials (MEP), the motorbike on the front lane, test that motor path and are more accurate than SSEP.
+Draining cerebrospinal fluid lowers the rate of paraplegia, and distal aortic perfusion improves on clamp-and-sew in extensive repairs.
+Profound hypothermia with circulatory arrest has not proved clearly better than moderate hypothermia with partial bypass.
+Memory hook: the sheep strolls along the back of the cable; only the motorbike notices when the front goes dark.
+
+== 199
+# book 40.4: agent shown beneficial in multiple trials -> A, mannitol.
+# the long cable of the spine swollen like a soaked sponge -> swelling of the ischaemic cord
+# ANSWER: MANY TOWELS (MANN-i-TOL) wrapped round the swollen cable, soaking the water out -> mannitol, an osmotic agent
+# a fizzing stick of nitro dynamite leaving only a pink headache cloud -> nitroglycerin, no proven benefit (audited dynamite)
+title: Spinal cord protection: mannitol, the agent with benefit in several trials
+titleAr: حماية النخاع الشوكيّ: المانيتول، الدواء الذي نفع في عدّة دراسات
+tags: cardiac/aorta vascular/aorta d:pharmacology q:recall l:3
+palette: bathhouse steam white, Kuja rose and towel blue
+note: The evidence for any single drug in spinal cord protection is limited, and naloxone also has support from a trial in which it was combined with spinal fluid drainage; the book's answer, mannitol, is kept.
+keywords: swollen spinal cord -> the long cable of the spine hanging behind the orca, swollen and puffy like a soaked sponge; mannitol -> MANY TOWELS (MANN-i-TOL) wrapped round the swollen cable, soaking the water out of it until it slims; nitroglycerin -> a fizzing stick of nitro dynamite Usopp lights beside the cable, leaving only a soft pink headache cloud; aorta -> the orca balloon, the swollen cable hanging behind it; artery of Adamkiewicz -> a little brown kiwi bird on the orca's back, feeding the cable through its thin straw
+must: the towels are wrapped round the cable and drip as they soak; the cable slims under them
+scene: The steaming royal bathhouse of Amazon Lily, rose light. CENTRE, dominant and brightest: Chopper wrapping many fluffy towels round a long, swollen, puffy cable hanging behind the orca balloon, the towels dripping as they soak the water out, the cable slimming under them; Kuja warrior women carrying more stacks of towels. On the orca's back, a little brown kiwi bird feeds the cable through its thin straw. LEFT: Usopp lighting a fizzing stick of nitro dynamite beside the cable, which leaves only a soft pink headache cloud. RIGHT: Boa Hancock, the pirate empress, leaning back so far that she looks down on everyone.
+story:
+في حمّام القصر الملكيّ بجزيرة الأمازون ليلي، والبخار يتصاعد، تدلّى خلف بالون الحوت حبل طويل.
+وقد جاع طائر الكيوي ساعةً كاملة، فانتفخ الحبل وتورّم كإسفنجة مبتلّة.
+«ديناميت النيترو يفتح كلّ شيء!» قال أوسوب، وأشعل عودًا يفور بجانب الحبل.
+فلم يخرج منه إلّا سحابة صداع ورديّة ناعمة، وبقي الحبل منتفخًا.
+«مناشف! أريد مناشف كثيرةً جدًّا!» صاح تشوبر.
+فأمرت الإمبراطورة بوا هانكوك بكلّ مناشف الجزيرة، فجاءت بها محاربات الكوجا أكوامًا فوق أكوام.
+فلفّها تشوبر حول الحبل المنتفخ، فأخذت تقطر وهي تشرب ماءه، وأخذ الحبل يرشق تحتها.
+«مناشف كثيرة تشرب الماء من الحبل المنتفخ حتّى يرشق!» قال تشوبر.
+فتذمّرت المحاربات لأنّ الإمبراطورة أخذت مناشفهنّ كلّها دون أن تسأل، فمالت هانكوك إلى الوراء حتّى صارت تنظر إليهنّ من عل، وقالت:
+quote: «كلّ ما أفعله مغفور... لأنّني جميلة!»
+source: بوا هانكوك
+explanation:
+Mannitol is the book's answer as the agent shown beneficial in several trials of spinal cord protection: A.
+Mannitol, the many towels, is an osmotic agent that draws water out of swollen tissue and mops up free radicals, so it limits swelling of the ischaemic cord; it also protects the kidneys.
+Nitroglycerin, the nitro dynamite, diazoxide and PARP inhibitors have not shown such benefit in patients; naloxone has some support, mostly together with spinal fluid drainage.
+Memory hook: many towels soak the swollen cable dry.
+
+== 200
+# book 40.5: outcomes after thoracoabdominal aneurysm surgery -> D, five-year survival averages between 50 and 70 percent.
+# ten chairs, a cake with 5 candles; six or seven chairs taken, three or four holding small coffins -> 5-year survival 50 to 70 percent (audited coffin)
+# a crawling baby tattooed down each survivor's back beside a long white tube -> thoracoabdominal repair (audited crawling baby)
+title: After thoracoabdominal repair, five-year survival is 50 to 70 percent
+titleAr: بعد إصلاح أمّ دم الأبهر الصدريّ البطنيّ: البقاء خمس سنوات بين 50 و70 في المئة
+tags: cardiac/aorta vascular/aorta d:evidence q:numbers l:2
+palette: Sabaody bubble rainbow, mangrove green and candle gold
+words: 5
+note: Outcome figures vary between series and centres; the numbers here are the book's.
+keywords: thoracoabdominal aneurysm repair -> a crawling baby tattooed down each survivor's back beside a long white fabric tube; five-year survival 50 to 70 percent -> ten chairs round a reunion table with a cake bearing 5 candles, six or seven chairs taken by laughing sailors, three or four empty chairs each holding a small black coffin; death -> the small black coffins on the empty chairs; aorta -> an orca balloon whose back is a long white fabric tube, tattooed beside the crawling baby
+must: about two thirds of the ten chairs are taken; each empty one holds a small coffin; the cake has 5 candles
+scene: A reunion party on Sabaody Archipelago, soap bubbles rising from the giant mangrove roots. CENTRE, dominant and brightest: ten chairs round a long table with a cake bearing 5 candles; six or seven chairs taken by laughing sailors, each with a crawling baby tattooed down his back beside an orca balloon whose back is a long white fabric tube, raising sake cups together; three or four empty chairs, each holding a small black coffin. Luffy at the head of the table raising his cup; Usopp gaping; Chopper counting the chairs.
+story:
+في أرخبيل ساباودي، وفقّاعات الصابون تصعد من جذور أشجار المانغروف، أقيم حفل لقاء بعد خمس سنوات.
+كان المدعوّون عشرة بحّارة، في ظهر كلّ منهم رضيع يحبو موشوم، إلى جانب حوت ظهره أنبوب أبيض طويل.
+فصفّت عشرة كراس حول مائدة طويلة، وفي وسطها كعكة عليها خمس شمعات.
+«لن يأتي أحد؛ من يشقّ ظهره هكذا لا يعيش خمس سنوات!» قال أوسوب.
+لكنّ الباب انفتح، ودخل البحّارة يضحكون واحدًا بعد واحد، حتّى امتلأت ستّة كراس، ثمّ سابع.
+وبقيت الكراسي الباقية فارغة، على كلّ منها تابوت أسود صغير.
+«من كلّ عشرة، يجلس إلى المائدة بعد خمس سنوات خمسة إلى سبعة!» قال تشوبر، وهو يعدّ الكراسيّ.
+فملأ الناجون كؤوسهم من الساكي، ووقف لوفي في رأس المائدة رافعًا كأسه.
+وصاح بما صاح به هو وأخواه إيس وسابو، يوم تقاسموا الساكي وهم أطفال:
+quote: «منذ اليوم، نحن إخوة!»
+source: إيس وسابو ولوفي
+explanation:
+After thoracoabdominal aneurysm repair, five-year survival averages between 50 and 70 percent: six or seven of the ten chairs are taken at the reunion: D.
+Survival is lowest after the most extensive repairs and in older patients with kidney failure or heart and lung disease.
+Death in hospital, complications and spinal cord injury vary widely with the extent of the repair and the experience of the centre, and the figures offered in the other options are not those of the book.
+Memory hook: five candles, ten chairs, and only six or seven sailors to drink.

@@ -6,15 +6,16 @@ book: johns-hopkins-2016
 # a newborn's pink sofa slide welded shut halfway with a thick iron cap -> oesophageal atresia (audited symbols)
 # ANSWER (corrected): a knight on horseback CHARGING into the nursery, his shield painted with a narrow hotel with a stag's head -> the CHARGE association includes heart defects (heart = the HART Hotel)
 # a heap of toy blocks of other shapes piled around the cradle, filling half of it -> about half have associated anomalies (VACTERL), not 10 percent
+# a big kidney bean among the toy blocks -> the associated anomalies follow the VACTERL pattern, renal ones among them (kidney = kidney bean, audited)
 title: Oesophageal atresia: the CHARGE association includes heart defects
 titleAr: رتق المريء: ترافق CHARGE يشمل عيوب القلب
 tags: thoracic/oesophagus d:pathology q:recall l:2 x:key-corrected
 palette: nursery cream, iron grey and knight's silver
 note: The book's key is D. About half of children with oesophageal atresia have associated anomalies, not 10 percent, while the CHARGE association (coloboma, heart defects, choanal atresia, retardation, genital and ear anomalies) does include cardiac defects, so E is the correct answer.
 key: E
-keywords: oesophageal atresia -> a newborn's long pink sofa slide welded shut halfway with a thick iron cap; CHARGE association with heart defects -> a knight on horseback CHARGING into the nursery, his shield painted with a narrow old hotel with a stag's head; associated anomalies -> a heap of odd-shaped toy blocks piled around the cradle, filling half of it
+keywords: oesophageal atresia -> a newborn's long pink sofa slide welded shut halfway with a thick iron cap; CHARGE association with heart defects -> a knight on horseback CHARGING into the nursery, his shield painted with a narrow old hotel with a stag's head; associated anomalies -> a heap of odd-shaped toy blocks piled around the cradle, filling half of it; atresia -> the slide welded shut halfway with a thick iron cap; renal anomalies (the R of VACTERL) -> a big kidney bean lying among the odd-shaped toy blocks in the cradle
 must: the sofa slide is WELDED SHUT with an iron cap; the knight's shield shows the hotel with a stag's head
-scene: A nursery cabin of a pirate ship, cream light. A newborn baby lies in a cradle; a small long pink sofa stretched into a slide runs down from the baby's mouth and is welded shut halfway with a thick iron cap, so a drop of milk stops on top of it. A heap of odd-shaped toy blocks fills half of the cradle. CENTRE, dominant and brightest: a knight in silver armour on a galloping horse charges through the door, his shield painted with a narrow old hotel with a stag's head over its door. Tony Tony Chopper, the little reindeer doctor, jumps aside, wide-eyed.
+scene: A nursery cabin of a pirate ship, cream light. A newborn baby lies in a cradle; a small long pink sofa stretched into a slide runs down from the baby's mouth and is welded shut halfway with a thick iron cap, so a drop of milk stops on top of it. A heap of odd-shaped toy blocks fills half of the cradle, a big kidney bean lying among them. CENTRE, dominant and brightest: a knight in silver armour on a galloping horse charges through the door, his shield painted with a narrow old hotel with a stag's head over its door. Tony Tony Chopper, the little reindeer doctor, jumps aside, wide-eyed.
 story:
 في غرفة الأطفال على سفينة قراصنة، تحت ضوء كريميّ، رقد رضيع ولد للتّوّ في مهده.
 وكان منزلق صغير من أريكة ورديّة ينزل من فمه، ثمّ ينغلق في منتصفه بغطاء حديديّ ملحوم.
@@ -76,7 +77,7 @@ titleAr: بعد إصلاح رتق المريء يحدث الجزر في نحو 4
 tags: thoracic/oesophagus d:complications q:numbers l:2
 palette: acid green, copper and flag white
 words: 40
-keywords: repaired oesophageal atresia -> a child's long pink sofa slide with a stitched seam halfway down; gastro-oesophageal reflux -> bubbling green acid soup splashing back UP out of the copper cooking pot into the slide; nearly 40 percent -> a flag painted 40; stricture -> a narrow pinch at the seam
+keywords: repaired oesophageal atresia -> a child's long pink sofa slide with a stitched seam halfway down; gastro-oesophageal reflux -> bubbling green acid soup splashing back UP out of the copper cooking pot into the slide; nearly 40 percent -> a flag painted 40; stricture -> a narrow pinch at the seam; stomach -> the copper cooking pot the slide runs down into
 must: the acid soup splashes UP from the pot into the slide; the flag reads 40
 scene: A playroom on the Thousand Sunny, bright day. A small child plays with a toy ship; behind the child, a long pink sofa slide runs down into a copper cooking pot, with a stitched seam halfway down, slightly pinched narrow. CENTRE, dominant and brightest: bubbling green acid soup splashes back UP out of the copper cooking pot into the bottom of the slide, and a white flag painted 40 stands planted on the pot's rim. Tony Tony Chopper, the little reindeer doctor, holds a lid ready to clap on the pot.
 story:
@@ -103,14 +104,15 @@ Feeding difficulties are frequent, and recurrence of the fistula has become less
 # a small twin sofa bud, closed like a balloon, attached to the side of the main sofa slide -> an oesophageal duplication cyst (keyword: DUPLICATION -> a twin)
 # ANSWER: Sanji's round cake of mediastinal cysts cut into 10 slices, ONE slice topped with the little twin sofa -> about 5 to 10 percent of mediastinal cysts
 # the twin bud has its own little muscle stripes and no opening into the slide -> lined with gut lining, a muscle coat, rarely communicating
+# the other slices topped with tiny ribbed hoses and little glass aquariums -> the commonest mediastinal cysts are bronchogenic and pericardial (trachea, pericardium, audited)
 title: Oesophageal duplication cysts are 5 to 10 percent of mediastinal cysts
 titleAr: كيسات تضاعف المريء تشكّل 5 إلى 10 بالمئة من كيسات المنصف
 tags: thoracic/oesophagus d:pathology q:numbers l:3
 palette: cake cream, sofa pink and frosting blue
 words: 10
-keywords: oesophageal duplication cyst -> a small closed twin sofa bud, like a balloon, attached to the side of the main long pink sofa slide; 5 to 10 percent of mediastinal cysts -> Sanji's round cake cut into 10 slices, only ONE slice topped with a tiny model of the twin sofa, a knife painted 10 beside it
+keywords: oesophageal duplication cyst -> a small closed twin sofa bud, like a balloon, attached to the side of the main long pink sofa slide; 5 to 10 percent of mediastinal cysts -> Sanji's round cake cut into 10 slices, only ONE slice topped with a tiny model of the twin sofa, a knife painted 10 beside it; bronchogenic cysts, budded from the trachea -> tiny models of white ribbed hoses on most of the other slices of the cake; pericardial cysts -> tiny models of little glass aquariums on the other slices
 must: only ONE slice carries the tiny twin sofa; the twin bud has NO opening into the main slide
-scene: The galley of the Thousand Sunny, cream and blue. LEFT: a long pink sofa slide runs down, and on its side hangs a small closed twin sofa bud like a balloon, with no opening into the slide. CENTRE, dominant and brightest: Sanji, the blond cook, presents a round cream cake cut into equal slices; only one slice is topped with a tiny sugar model of the twin sofa, and a big cake knife painted 10 lies beside it. Luffy, the boy in the straw hat, reaches for that slice with a grin.
+scene: The galley of the Thousand Sunny, cream and blue. LEFT: a long pink sofa slide runs down, and on its side hangs a small closed twin sofa bud like a balloon, with no opening into the slide. CENTRE, dominant and brightest: Sanji, the blond cook, presents a round cream cake cut into ten equal slices; most slices carry tiny models of white ribbed hoses or of little glass aquariums, and only one slice is topped with a tiny sugar model of the twin sofa, and a big cake knife painted 10 lies beside it. Luffy, the boy in the straw hat, reaches for that slice with a grin.
 story:
 في مطبخ الثاوزند صني، بين الكريمة والسّكّر الأزرق، نزل منزلق طويل من أريكة ورديّة.
 وعلى جنبه برعم صغير مغلق كالبالون، أريكة توأم صغيرة.
@@ -118,6 +120,7 @@ story:
 «هذا التوأم يعيش إلى جانب أخيه، ولا يتكلّم معه.» قال سانجي.
 ثمّ قدّم سانجي كعكةً مستديرةً من الكريمة، مقطوعةً إلى قطع متساوية.
 ولم يكن على القطع كلّها إلّا قطعة واحدة، عليها نموذج صغير من السكّر للأريكة التوأم.
+أمّا أكثر القطع الباقية، فعليها نماذج صغيرة لخراطيم بيضاء مضلّعة، وعلى غيرها أحواض سمك زجاجيّة صغيرة.
 وإلى جانب الكعكة سكّين كبيرة مكتوب عليها: عشرة.
 «هذه الكعكة كلّ الكيسات في وسط الصدر؛ والتّوأم لا يأخذ منها إلّا قطعةً من عشرة أو أقلّ.»
 فمدّ لوفي يده المطّاطيّة إلى تلك القطعة بالذّات، مبتسمًا.
@@ -127,6 +130,7 @@ source: مونكي دي لوفي
 explanation:
 Oesophageal duplication cysts arise from abnormal budding of the foregut early in development.
 They make up about 5 to 10 percent of mediastinal cysts: B is the answer.
+The commonest mediastinal cysts are bronchogenic and pericardial cysts.
 They are lined with gastrointestinal epithelium and have a smooth muscle coat, and they rarely communicate with the oesophageal lumen.
 They are not considered premalignant, though they are usually removed.
 
@@ -136,14 +140,14 @@ They are not considered premalignant, though they are usually removed.
 # the small twin sofa bud on the side of the slide -> a duplication cyst
 # ANSWER: the owner, Brook the skeleton musician, dancing and playing his violin happily, feeling nothing -> most patients have no symptoms
 # a cat slicing a loaf that shows the twin bud by chance -> found incidentally on CT (audited symbol)
-# a needle put away by Chopper -> the cyst should not be aspirated (E is wrong)
+# a lantern periscope with a long needle at its tip, folded away by Chopper -> the cyst should not be aspirated, not even through an endoscope (E is wrong; endoscopy = periscope, audited)
 title: Most patients with an oesophageal duplication cyst have no symptoms
 titleAr: معظم مرضى كيسة تضاعف المريء بلا أعراض
 tags: thoracic/oesophagus d:diagnosis q:recall l:2
 palette: violin brown, moonlit blue and sofa pink
-keywords: oesophageal duplication cyst -> a small closed twin sofa bud attached to a long pink sofa slide; asymptomatic -> Brook the skeleton musician dancing and playing his violin happily, feeling nothing; found incidentally on CT -> a cat slicing a loaf whose thin slices show the twin bud by chance; aspiration not advised -> Chopper putting a long needle back into his bag
+keywords: oesophageal duplication cyst -> a small closed twin sofa bud attached to a long pink sofa slide; asymptomatic -> Brook the skeleton musician dancing and playing his violin happily, feeling nothing; found incidentally on CT -> a cat slicing a loaf whose thin slices show the twin bud by chance; needle aspiration through endoscopy not advised -> Chopper folding away a lantern periscope with a long needle at its tip and putting it back into his bag
 must: Brook is HAPPY and dancing; the cat's slices show the twin bud
-scene: The moonlit deck of the Thousand Sunny. CENTRE, dominant and brightest: Brook, the tall skeleton musician with an afro and a top hat, dances and plays his violin happily; a long pink sofa slide runs through his ribcage, with a small closed twin sofa bud on its side, and he feels nothing at all. RIGHT: on a barrel, a grey cat slices a loaf into thin slices, and one slice shows the little twin bud by chance; Tony Tony Chopper, the little reindeer doctor, looks at it and puts a long needle back into his bag.
+scene: The moonlit deck of the Thousand Sunny. CENTRE, dominant and brightest: Brook, the tall skeleton musician with an afro and a top hat, dances and plays his violin happily; a long pink sofa slide runs through his ribcage, with a small closed twin sofa bud on its side, and he feels nothing at all. RIGHT: on a barrel, a grey cat slices a loaf into thin slices, and one slice shows the little twin bud by chance; Tony Tony Chopper, the little reindeer doctor, looks at it and folds away a lantern periscope with a long needle at its tip, putting it back into his bag.
 story:
 في ليلة مقمرة على سطح الثاوزند صني، رقص بروك، الموسيقيّ الهيكل العظميّ، وهو يعزف على كمانه فرحًا.
 وكان منزلق ورديّ يمرّ بين أضلاعه، وعلى جنبه برعم توأم صغير مغلق.
@@ -151,7 +155,7 @@ story:
 وعلى برميل قريب، أخذ قطّ رماديّ يقطّع رغيفًا إلى شرائح رقيقة.
 فبان البرعم التوأم في شريحة منها مصادفةً، ولم يكن أحد يبحث عنه.
 «ما أكثر من يحمل هذا التوأم ولا يعلم!»
-فأخرج تشوبر إبرةً طويلة، ثمّ نظر إليها وأعادها إلى حقيبته.
+فأخرج تشوبر منظارًا بفانوس، في طرفه إبرة طويلة، ثمّ نظر إليه وطواه وأعاده إلى حقيبته.
 «لا أثقب هذا التوأم بإبرة؛ إن لزم شيء أخذناه كلّه.»
 فتابع بروك رقصه تحت القمر، وعزف لحنًا قديمًا لحوت ينتظره منذ خمسين سنة.
 ثمّ توقّف قليلًا، وقال بصوت خافت:
@@ -161,7 +165,7 @@ explanation:
 Most patients with an oesophageal duplication cyst have no symptoms, and the cyst is found by chance on imaging: A is the answer.
 When symptoms occur they come from compression, bleeding or infection.
 The cysts lie most often in the right lower posterior mediastinum.
-They should not be aspirated: aspiration risks infection and does not treat them; symptomatic cysts are excised.
+They should not be aspirated, not even under endoscopic ultrasound: aspiration risks infection and does not treat them; symptomatic cysts are excised.
 
 
 == 66
@@ -175,7 +179,7 @@ titleAr: الأكالازيا في قياس الضغط: مصرّة مشدودة 
 tags: thoracic/oesophagus d:diagnosis q:numbers l:2 x:high-yield
 palette: chalice gold, gauge brass and sofa pink
 words: 45, 8
-keywords: achalasia -> a golden chalice jammed in the drawstring at the foot of a long pink sofa slide; hypertensive LES -> a pressure gauge on the drawstring reading 45; incomplete relaxation -> the drawstring opening only a crack when food comes, a second gauge reading 8; aperistalsis -> sailors standing idle along the slide, arms folded, instead of pushing the food down in waves
+keywords: achalasia -> a golden chalice jammed in the drawstring at the foot of a long pink sofa slide; hypertensive LES -> a pressure gauge on the drawstring reading 45; incomplete relaxation of the lower oesophageal sphincter -> the drawstring opening only a crack when food comes, a second gauge reading 8; aperistalsis -> sailors standing idle along the slide, arms folded, instead of pushing the food down in waves
 must: the drawstring opens only a CRACK; the sailors along the slide stand IDLE
 scene: The galley of the Thousand Sunny, cut open, brass light. A long pink sofa slide runs down to a copper cooking pot; along its length several sailors stand idle with folded arms, not pushing the food that sits in the slide. CENTRE, dominant and brightest: at its foot a golden chalice is jammed in the drawstring purse-neck; a brass gauge on the drawstring reads 45, and as a lump of food arrives the drawstring opens only a crack, a second gauge beside it reading 8. Sanji, the blond cook, frowns at the stuck food.
 story:
@@ -207,7 +211,7 @@ title: Achalasia on endoscopy: retained food and saliva with stasis oesophagitis
 titleAr: الأكالازيا بالتنظير: طعام ولعاب محتبسان مع التهاب المريء الركودي
 tags: thoracic/oesophagus d:diagnosis q:recall l:2
 palette: murky olive, sore red and lantern gold
-keywords: achalasia -> a golden chalice jammed in the drawstring at the foot of a long pink sofa slide; retained food and saliva -> the slide above it bulging wide, full of old rotting food and drool; stasis oesophagitis -> the slide's lining red and sore where the old food lies; endoscopy -> a lantern on a periscope lowered into the slide
+keywords: achalasia -> a golden chalice jammed in the drawstring at the foot of a long pink sofa slide; retained food and saliva -> the slide above it bulging wide, full of old rotting food and drool; stasis oesophagitis -> the slide's lining red and sore where the old food lies; endoscopy -> a lantern on a periscope lowered into the slide; oesophagus -> the long pink sofa slide bulging wide above the chalice
 must: the slide ABOVE the chalice is bulging and full of old food; its lining is RED and sore
 scene: The galley of the Thousand Sunny at night, cut open. A long pink sofa slide runs down to a copper cooking pot, and at its foot a golden chalice is jammed in the drawstring. CENTRE, dominant and brightest: above the chalice the slide bulges wide like a sack, full of old rotting food and drooling saliva, its lining red and sore where the food lies, and a lantern on a long periscope is lowered into it, lighting the mess. Tony Tony Chopper, the little reindeer doctor, holds his nose.
 story:
@@ -305,7 +309,7 @@ title: Laparoscopic Nissen: shorter stay and less pain, but no better reflux con
 titleAr: نيسن بالمنظار: إقامة أقصر وألم أقلّ، لكن ضبط الجزر ليس أفضل
 tags: thoracic/oesophagus d:evidence q:recall l:2 x:trap
 palette: keyhole brass, scarf red and balance gold
-keywords: laparoscopic fundoplication -> a scarf wrapped round a sofa slide by hands working through tiny keyholes in a cabin wall; open fundoplication -> a scarf wrapped round another slide through a big open door; equal control of reflux and dysphagia -> both scarves equally tight, the acid soup stopped equally, hung on a perfectly level balance; shorter stay and lower cost -> the keyhole sailor already walking home smiling with a small bill
+keywords: laparoscopic fundoplication -> a scarf wrapped round a sofa slide by hands working through tiny keyholes in a cabin wall; open fundoplication -> a scarf wrapped round another slide through a big open door; equal control of reflux and dysphagia -> both scarves equally tight, the acid soup stopped equally, hung on a perfectly level balance; shorter stay and lower cost -> the keyhole sailor already walking home smiling with a small bill; oesophagus -> the sofa slides the scarves are wrapped round
 must: the balance between the two wraps is perfectly LEVEL
 scene: Two cabins side by side on a pirate ship. LEFT: hands reach through three tiny keyholes in the wall and wrap a red scarf round the foot of a sofa slide. RIGHT: through a big open door, a surgeon wraps an identical scarf round another slide. CENTRE, dominant and brightest: a big golden balance holds a model of each wrapped slide, and it hangs perfectly level, the green acid soup stopped in both. FOREGROUND LEFT: the keyhole patient already walks home smiling, holding a small bill, while the other still lies in bed.
 story:

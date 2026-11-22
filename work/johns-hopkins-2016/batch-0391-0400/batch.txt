@@ -1,0 +1,314 @@
+book: johns-hopkins-2016
+# Lessons 391-400 (book 83.4-85.3: anomalous coronary arteries and fistulas; vascular rings and slings; Ebstein's anomaly).
+# Written 2026-11-22, morning. Each story: a hook, a wrong try that fails, the answer acting, a payoff line that names
+# the symbol, and a lead-in that says who speaks the quotation and why it fits.
+# 392: option D printed corrected ("right-to-left" -> "left-to-left"); the key stays D (x:key-corrected, note).
+# 397: the book's key (C, zero mortality for sling repair) is kept, with a note.
+# 399: the book prints 80.2 (lesson 381) again as 85.2; asked the other way round with 'asks:' (note).
+# Quotations added 2026-11-22 (the owner left the choice to the agent: "make anything strong and consistent"):
+# a One Piece line (at most three uses, 20 lessons apart) or a classical Arabic line read out by Robin; see ../quote-bank.md.
+
+== 391
+# book 83.4: NOT appropriate for an anomalous coronary between the aorta and the pulmonary artery in a child -> E, coronary artery bypass grafting.
+# ANSWER: Usopp's cabbage leaves wilt over the squeezed crown spike of a child and are turned away, while four carpenters free it (audited crown, cabbage)
+title: Coronary bypass grafting is not an operation for an interarterial anomalous coronary in a child
+titleAr: تطعيم المجازة التاجيّة ليس عمليّةً لشريان تاجيّ شاذّ يمرّ بين الأبهر والشريان الرئويّ عند طفل
+tags: cardiac/congenital d:technique q:recall l:3
+palette: Alabasta sandstone, crown green and cabbage green
+keywords: anomalous coronary artery between the aorta and pulmonary artery -> a spike of the green crown starting from the wrong salsa bowl and squeezed between the orca and the pipe of dollar bills like a nut in a nutcracker; unroofing -> a carpenter lifting the roof off the tunnel where the crown spike runs inside the orca's wall; neo-ostium -> a new round door cut for the crown spike in its proper salsa bowl; coronary artery translocation -> the crown spike lifted out and moved to its proper salsa bowl; pulmonary artery translocation -> the pipe of dollar bills shifted aside so the crown spike is no longer squeezed; coronary artery bypass grafting -> green cabbage leaves laid as a bridge over the child's squeezed crown spike, wilting and turned away
+must: the cabbage leaves wilt over the child's squeezed spike and are turned away; four carpenters free it instead
+scene: A sandstone palace courtyard in Alabasta. CENTRE, dominant and brightest: a child's HART Hotel whose green crown spike, starting from the wrong salsa bowl, is squeezed between the orca balloon and the pipe of dollar bills like a nut in a nutcracker; Usopp laying big green cabbage leaves over it, the leaves wilting and turned away. AROUND, dimmer, four carpenters at work: one lifting the roof off the tunnel where the spike runs inside the orca's wall; one cutting a new round door for the spike; one moving the spike to its proper bowl; one shifting the money pipe aside. Chopper.
+story:
+في قصر ألوبارنا بألاباستا، جيء بفندق طفل يلهث كلّما ركض؛ فشوكة من تاجه الأخضر تخرج من طبق الصلصة الخطأ، وتمرّ بين الحوت وأنبوب الدولارات، فتنعصر بينهما كجوزة في كسّارة.
+«أعرف الحلّ؛ نمدّ فوقها جسرًا من أوراق الملفوف، كما نفعل للكبار!» قال أوسوب، وفرش أوراق الملفوف الخضراء فوق الشوكة.
+لكنّ الشوكة كانت تجري ملأى والطّفل جالس، فلم يجد الملفوف ماءً يحمله فذبل؛ ولو بقي، ما كبر مع الطفل.
+فأبعد تشوبر أوراق الملفوف، ونادى أربعة نجّارين مهرة.
+فرفع الأوّل سقف النفق الّذي تجري فيه الشوكة داخل جدار الحوت، وفتح لها الثاني بابًا جديدًا مستديرًا.
+ونقلها الثالث إلى طبقها الصحيح، وأزاح الرابع أنبوب الدولارات جانبًا؛ فلم تعد الكسّارة تعصرها.
+«شوكة الطفل المعصورة تأخذ بابًا جديدًا، لا ورقة ملفوف!» قال تشوبر.
+فجمع أوسوب أوراق الملفوف الذابلة، وقالت روبين مثلًا قديمًا:
+quote: «لكلّ مقام مقال.»
+source: مثل عربيّ
+explanation:
+Coronary artery bypass grafting is not an appropriate operation for an anomalous coronary artery running between the aorta and pulmonary artery in a child: E.
+At rest the native artery carries normal flow, so a graft competes with it and tends to close, and a child would outgrow it.
+The aim is to remove the slit-like intramural origin and the squeeze between the great arteries.
+Unroofing the intramural segment is the most common repair, with creation of a neo-ostium, coronary translocation and pulmonary artery translocation as alternatives.
+In the picture, the cabbage leaves wilt over the squeezed spike, while four carpenters free it in other ways.
+Memory hook: a child's squeezed spike gets a new door, not a cabbage leaf.
+
+== 392
+# book 83.5: true about coronary artery fistulas -> D, a fistula can cause either a left-to-right or a left-to-left shunt (printed "right-to-left", corrected).
+# ANSWER: one red fist punches from a crown spike into the blue engine room, another into the red engine room; the water always leaves from the crown (audited fist, crown)
+# the spike is swollen and winding BEFORE the hole (B wrong); most end in the blue engine room (C wrong); a well, humming child (E wrong)
+title: A coronary fistula can cause either a left-to-right or a left-to-left shunt
+titleAr: الناسور التاجيّ قد يسبّب تحويلةً من اليسار إلى اليمين أو من اليسار إلى اليسار
+tags: cardiac/congenital d:physiology q:recall l:3 x:key-corrected
+option: D = A coronary fistula can cause either a left-to-left or a left-to-right shunt.
+note: The book prints option D as "either a right-to-left or a left-to-right shunt" and keys it. A coronary fistula carries arterial blood, so it cannot make a right-to-left shunt: into a right-sided chamber or the pulmonary artery it is left-to-right, into a left-sided chamber it is left-to-left, a volume load like aortic regurgitation. D is shown corrected; the key stays D.
+palette: cake-factory cream, fist red and crown green
+keywords: coronary fistula -> a red boxing fist punching a hole straight through from a spike of the green crown into a room of the hotel; fistula into the right ventricle -> the fist's hole pouring the crown's red water into the blue engine room beside its fan, the commonest place; fistula into the left ventricle -> another fist's hole into the red engine room beside its fan, the water running round in a circle; proximal dilatation -> the crown spike swollen long and winding before the fist's hole, thin beyond it; continuous murmur (asymptomatic) -> a well child humming a steady tune beside a cement mixer roaring nonstop; coronary artery -> the crown's red water pouring in
+must: one fist's hole pours the crown's water into the blue engine room, the other's into the red engine room
+scene: The cake factory of Whole Cake Island. CENTRE, dominant and brightest: a HART Hotel with two red boxing fists punching holes from spikes of its green crown: one into the blue engine room, the crown's red water pouring in; one into the red engine room, the water running round in a circle; each crown spike swollen long and winding before its fist, thin beyond it. AROUND, dimmer: a well child humming a steady tune beside a cement mixer roaring nonstop beside the hotel. LEFT: Usopp. Chopper.
+story:
+في مصنع الكعك بجزيرة الكعكة الكاملة، سمع تشوبر من فندق طفل معافًى دندنةً ثابتةً لا تنقطع، كهدير خلّاطة إسمنت لا تتوقّف.
+فصعد إلى التاج الأخضر، فإذا قبضة ملاكم حمراء قد لكمت ثقبًا من إحدى شوكاته إلى غرفة المحرّك الزرقاء، فصبّ فيها ماء التاج الأحمر.
+«وفي الفندق المجاور قبضة تلكم الغرفة الحمراء؛ فلا بدّ أنّ الماء هناك يجري بالعكس، من الأزرق إلى الأحمر!» قال أوسوب.
+لكنّ الماء هناك أيضًا كان يخرج من الشوكة، فيصبّ في الغرفة الحمراء، ويدور في دائرة عائدًا إلى الحوت.
+فالقبضة تلكم دائمًا من التاج، ولم تعبر من الغرفة الزرقاء إلى الحمراء قطرة واحدة.
+وكانت كلّ شوكة ملكومة منتفخةً طويلةً متعرّجةً قبل القبضة، رفيعةً بعدها.
+«قبضة التاج تخرج من التاج دائمًا: إلى الأزرق أو إلى الأحمر، ولا تأتي من الأزرق أبدًا!» قال تشوبر.
+فتتبّع أوسوب الماء الأحمر حتّى رآه يخرج من التاج، وقالت روبين مثلًا قديمًا:
+quote: «كلّ إناء بما فيه ينضح.»
+source: مثل عربيّ
+explanation:
+A coronary fistula can cause either a left-to-right or a left-to-left shunt: D, as corrected (the book prints right-to-left).
+Most fistulas are congenital and arise from a normal coronary artery; most end in the right side of the heart, the right ventricle most often, then the right atrium and the pulmonary artery, a left-to-right shunt.
+A fistula ending in a left chamber returns arterial blood to the left heart, a left-to-left shunt that loads the ventricle like aortic regurgitation; it never makes a right-to-left shunt.
+The feeding artery is dilated and tortuous proximal to the fistula, not distal to it, and most patients have no symptoms and are found by a continuous murmur rather than angina.
+In the picture, one fist pours the crown's water into the blue engine room, the other into the red one.
+Memory hook: a coronary fist always punches out from the left.
+
+== 393
+# book 84.1: an incomplete ring -> E, left arch with aberrant right subclavian artery.
+# ANSWER: in Impel Down, only the jester's shackle is left open; the double arches and the right arch with its retroesophageal left flipper pipe are locked rings (audited jester, key ring, flipper)
+title: A left arch with an aberrant right subclavian artery is an incomplete vascular ring
+titleAr: القوس الأبهريّ الأيسر مع شريان تحت ترقويّ أيمن شاذّ حلقةٌ وعائيّةٌ ناقصة
+tags: cardiac/congenital d:anatomy q:recall l:3
+palette: prison-iron grey, jester purple and sofa pink
+keywords: incomplete ring -> an iron shackle left OPEN like a horseshoe; left arch with aberrant right subclavian artery -> a JESTER in a belled cap sneaking the right flipper pipe out last from the orca's arch and behind the pink sofa slide, his shackle left open; double aortic arch -> two orca arches closing a ring round the ribbed hose and the sofa slide, tight as an iron key ring, locked; right arch with retroesophageal left subclavian -> an orca arching to the right, its left flipper pipe sneaking behind the sofa slide and its duct-tape tether closing a ring, locked; right arch with mirror-image branching -> an orca arching to the right with its pipes in mirror order, no shackle at all
+must: only the jester's shackle is left open; the other rings are locked shut
+scene: A cell block in Impel Down, the great underwater prison. CENTRE, dominant and brightest: a JESTER in a belled cap sneaking the right flipper pipe out last from the orca's arch and behind the pink sofa slide, his iron shackle left OPEN like a horseshoe. AROUND, dimmer: two orca arches locked round the ribbed hose and the sofa slide like an iron key ring; a right-arching orca whose left flipper pipe and duct-tape tether lock another ring; a right-arching orca with its pipes in mirror order and no shackle. LEFT: Usopp. Chopper.
+story:
+في سجن إمبل داون تحت البحر، كان الحرّاس يقفلون الأغلال الحديديّة حول الخرطوم المضلّع الأبيض وزحلوقة الكنبة الورديّة معًا.
+فأقفل حوتان بقوسين حلقةً محكمةً كحلقة المفاتيح، وأقفل حوت ينحني إلى اليمين حلقةً أخرى، بأنبوب زعنفته اليسرى وحبل الشريط اللاصق.
+ثمّ جاء مهرّج بقبّعة الأجراس، يخرج أنبوب الزعنفة اليمنى آخر الأنابيب، ويمرّره خلسةً خلف زحلوقة الكنبة.
+«أقفلوا حلقته أيضًا؛ إنّه أخطرهم جميعًا!» صاح أوسوب، وحاول أن يقفل القيد حوله.
+لكنّ القيد بقي مفتوحًا كحدوة حصان، فلا شيء في الجهة الأخرى يكمل الدائرة؛ ولم يفعل المهرّج إلّا أن ضغط الزحلوقة من خلفها.
+وفي ركن الزنزانة، حوت ينحني إلى اليمين، أنابيبه مصفوفة كصورته في المرآة، لا قيد حوله أصلًا.
+«حيلة المهرّج لا تقفل الحلقة أبدًا!» قال تشوبر.
+فوقف أوسوب والقيد المفتوح في يده، فضحكت روبين وقالت مثلًا قديمًا:
+quote: «أسمع جعجعةً ولا أرى طحنا.»
+source: مثل عربيّ
+explanation:
+A left aortic arch with an aberrant right subclavian artery is an incomplete ring: E.
+The right subclavian artery arises last from the arch and passes behind the oesophagus, but with a left ligamentum nothing closes the circle, so it can only indent the oesophagus from behind.
+A double aortic arch, whichever side is dominant, and a right arch with a retroesophageal left subclavian artery and a left ligamentum are complete rings round the trachea and oesophagus.
+A right arch with mirror-image branching usually forms no ring at all.
+In the picture, only the jester's shackle is left open.
+Memory hook: the jester's trick never closes the ring.
+
+== 394
+# book 84.2: correct about presentation and diagnosis of vascular anomalies -> C, pulmonary artery sling usually presents in the first year of life.
+# ANSWER: a baby wheezes beside a cake with one candle, the left money pipe looped like a sling round its ribbed hose (audited sling, ribbed hose)
+title: Pulmonary artery sling usually presents during the first year of life
+titleAr: حبالة الشريان الرئويّ تظهر عادةً في السنة الأولى من العمر
+tags: cardiac/congenital d:diagnosis q:recall l:3
+palette: sky-island white, sling green and candle gold
+keywords: pulmonary artery sling -> the left pipe of dollar bills looping like a sling round the back of the ribbed hose, between the hose and the pink sofa slide; first year of life -> a baby's first birthday cake with ONE candle, the baby wheezing; respiratory presentation -> babies squeaking at the ribbed hose rather than choking at the sofa slide; double aortic arch -> two orca arches closing a ring, a baby wheezing early, not an older child; four artery sign -> four pipes rising evenly from the two orca arches; ligamentous segment -> a thin dried-up thread of old duct tape that the magnet camera cannot see; trachea -> babies squeaking at the ribbed hose rather than choking at the sofa slide
+must: the sling round the ribbed hose and a baby wheezing beside a cake with one candle
+scene: A white cloud island in the sky (Skypiea). CENTRE, dominant and brightest: a baby wheezing beside a first birthday cake with ONE candle, the left pipe of dollar bills looping like a sling round the back of its ribbed hose, between the hose and the pink sofa slide. AROUND, dimmer: two orca arches closing a ring, four pipes rising evenly from them; a big magnet camera that cannot see a thin dried thread of old duct tape. LEFT: Usopp. Chopper.
+story:
+في جزيرة سكايبيا فوق السحاب، أوقدت شمعة واحدة على كعكة رضيع لم يكمل عامه الأوّل، وهو يصفر مع كلّ نفس ويلهث.
+«لا بدّ أنّ شيئًا علق في زحلوقة الكنبة؛ نطعمه طعامًا ليّنًا، وننتظر حتّى يكبر!» قال أوسوب.
+لكنّ الطعام نزل سهلًا، وبقي الصفير عند الخرطوم المضلّع.
+فنظر تشوبر خلف الخرطوم، فإذا أنبوب الدولارات الأيسر يلتفّ حوله من الخلف كالحبالة، بين الخرطوم والزّحلوقة، يعصره مع كلّ نفس.
+وفي الجهة الأخرى رضيع آخر يصفر منذ أسابيعه الأولى، تطبق على خرطومه حلقة حوتين بقوسين، تصعد منهما أربعة أنابيب متساوية.
+أمّا كاميرا المغناطيس الكبيرة، فلم تر الخيط اليابس من الشريط اللاصق القديم، مع أنّه هناك.
+«الحبالة حول الخرطوم تصفر قبل الشمعة الأولى!» قال تشوبر.
+فحمل تشوبر الرضيع إلى الجرّاح في الحال، وقالت روبين مثلًا قديمًا:
+quote: «خير البرّ عاجله.»
+source: مثل عربيّ
+explanation:
+Pulmonary artery sling usually presents during the first year of life: C.
+The left pulmonary artery arises from the right one and loops behind the trachea, compressing it, and complete tracheal rings often coexist, so infants present early with stridor, wheezing and respiratory distress.
+Vascular rings in general present with respiratory symptoms more than with oesophageal compression, and a double aortic arch, the tightest ring, presents early rather than later in life.
+The four artery sign belongs to the double aortic arch on axial imaging, each arch giving a carotid and a subclavian artery, not to innominate artery compression.
+An atretic ligamentous segment is not easily seen on MRI.
+In the picture, the sling circles the ribbed hose and the baby wheezes beside one candle.
+Memory hook: a sling round the windpipe wheezes before the first candle.
+
+== 395
+# book 84.3: correct about operative technique for vascular anomalies -> D, with a Kommerell diverticulum and a ring, transfer the left subclavian to the left carotid.
+# ANSWER: Chopper cuts the jester's bulging pouch away and sews the left flipper pipe onto the side of the carrot (audited jester, flipper, carrot)
+# the side lid opens on the side of the SMALLER arch (A, B wrong); situs inversus: the tether's side decides (C wrong); no ice cube for the sling (E wrong) (audited side lid, ice cube, sling)
+title: With a Kommerell diverticulum and a ring, the left subclavian artery is moved to the left carotid
+titleAr: مع رتج كوميريل والحلقة الوعائيّة يُنقَل الشريان تحت الترقويّ الأيسر إلى السباتيّ الأيسر
+tags: cardiac/congenital d:technique q:recall l:3
+palette: courthouse stone, jester purple and carrot orange
+keywords: Kommerell diverticulum -> a JESTER's lumpy bulging pouch at the root of the left flipper pipe where it sneaks behind the pink sofa slide; vascular ring -> a right-arching orca and its duct-tape tether closing a ring round the ribbed hose and the sofa slide, tight as a key ring; transfer of the left subclavian artery to the left carotid -> the left flipper pipe cut free of the jester's pouch and sewn onto the side of the tall orange carrot; double aortic arch -> two orca arches closing a ring, the chest's side lid opened on the side of the SMALLER arch, opposite the dominant one; situs inversus -> a hotel built in mirror image, its side lid opened on the side of the duct-tape tether; circulatory arrest -> a giant ice cube, not needed; pulmonary artery sling -> the left pipe of dollar bills looping like a sling round the ribbed hose, mended with the pump truck running
+must: the left flipper pipe is cut free of the jester's pouch and sewn onto the carrot, and the pouch is cut away
+scene: The courthouse of Enies Lobby. CENTRE, dominant and brightest: a right-arching orca whose left flipper pipe sneaks behind the pink sofa slide from a jester's lumpy bulging pouch, its duct-tape tether closing a ring; Chopper cutting the tether, cutting the pouch away and sewing the left flipper pipe onto the side of a tall orange carrot. AROUND, dimmer: a chest with its side lid open on the side of a smaller orca arch; a giant ice cube pushed aside next to a sling round a ribbed hose. LEFT: Usopp.
+story:
+في محكمة إنيس لوبي، وقف حوت ينحني إلى اليمين، يخرج أنبوب زعنفته اليسرى من جراب منتفخ أعجر يحمله مهرّج بقبّعة الأجراس، خلف زحلوقة الكنبة.
+وكان حبل الشريط اللاصق يقفل حلقةً حول الخرطوم المضلّع والزّحلوقة.
+«نقطع الحبل وحده، فتنفتح الحلقة وننتهي!» قال أوسوب، وقطع الحبل.
+فانفتحت الحلقة؛ لكنّ جراب المهرّج ظلّ يضغط الزحلوقة من خلفها، ويكبر يومًا بعد يوم، حتّى كاد ينفجر.
+فقصّ تشوبر الجراب كلّه، وحمل أنبوب الزعنفة اليسرى، فخاطه على جنب الجزرة البرتقاليّة الطويلة، فبقي الماء يصل إلى الذراع.
+وفي القاعة، كان القضاة يفتحون غطاء صندوق الكنز الجانبيّ عند القوس الأصغر، ويبعدون مكعّب الثلج العملاق عن طفل الحبالة.
+«اقطع جراب المهرّج، وأعط الزعنفة للجزرة!» قال تشوبر.
+فنظر أوسوب إلى الجراب المقصوص، وتذكّر يومًا في هذه الجزيرة صاح فيه لوفي:
+quote: «سوغيكينغ! أطلق النار على ذلك العلم!»
+source: مونكي دي لوفي
+explanation:
+For a Kommerell diverticulum with a vascular ring, the left subclavian artery should be transferred to the left carotid artery: D.
+Dividing the ligamentum opens the ring, but the diverticulum can go on compressing the oesophagus and can enlarge or rupture, so it is resected and the subclavian artery is reimplanted into the carotid to keep the arm's flow.
+A double aortic arch is approached on the side of the smaller arch, opposite the dominant one, and a balanced double arch with a left descending aorta through a left thoracotomy.
+With situs inversus, a left arch with a right ligamentum is approached from the right, the side of the ligamentum.
+A pulmonary artery sling is repaired on cardiopulmonary bypass without circulatory arrest.
+In the picture, the flipper pipe is cut from the jester's pouch and sewn onto the carrot.
+Memory hook: cut the jester's pouch, and give the flipper to the carrot.
+
+== 396
+# book 84.4: NOT suitable for tracheobronchial malacia -> D, tracheal resection.
+# ANSWER: Usopp's shears, cutting the long floppy stretch of the ribbed hose out, are turned away; the Slinky, the stitch to the orca, the splint and the neck tube hold it open (audited ribbed hose, slinky)
+title: Tracheal resection is not a solution for tracheobronchial malacia
+titleAr: استئصال الرغامى ليس حلًّا لتليّن الرغامى والقصبات
+tags: thoracic/airway cardiac/congenital d:technique q:recall l:3
+palette: long-island green, hose white and Slinky silver
+keywords: tracheobronchial malacia -> a long soft floppy stretch of the ribbed hose, its white rings gone limp, collapsing flat with each breath; tracheal resection -> huge shears trying to cut the whole floppy stretch out of the ribbed hose, turned away; internal stenting -> a coiled metal Slinky spring pushed inside the floppy ribbed hose to hold it open; aortopexy -> the orca balloon stitched up to the underside of the chest's front lid, pulling the floppy hose open with it; external splinting -> a stiff outer splint stitched round the floppy ribbed hose; tracheostomy -> a short tube put into the ribbed hose through the front of the neck, a little air pump pushing it open; aorta -> the orca balloon stitched up to the underside of the chest's front lid
+must: the shears are turned away; the Slinky, the stitch to the orca, the splint and the neck tube hold the floppy hose open
+scene: Long Ring Long Land, where everything is long. CENTRE, dominant and brightest: a long soft floppy stretch of a ribbed hose, collapsing flat, and Usopp with huge shears trying to cut the whole floppy stretch out, turned away. AROUND, each in its own place: a coiled metal Slinky pushed inside the hose; the orca balloon stitched up to the underside of the chest's front lid, pulling the hose open; a stiff splint stitched round the hose; a short tube in the front of the neck with a little air pump. Chopper.
+story:
+في جزيرة لونغ رينغ لونغ لاند، حيث كلّ شيء طويل، كان لبحّار خرطوم مضلّع طويل ليّن، ارتخت حلقاته البيض، فينطبق مسطّحًا مع كلّ نفس.
+«الحلّ بسيط: نقصّ القطعة الليّنة كلّها، ونخيط الطرفين!» قال أوسوب، ورفع مقصًّا عملاقًا.
+لكنّ القطعة الليّنة كانت أطول من أن تقصّ، تمتدّ على طول الخرطوم وفروعه؛ فلو قصّها، ما بقي طرفان يلتقيان.
+فأبعد تشوبر المقصّ، ودفع داخل الخرطوم زنبركًا معدنيًّا ملتفًّا يبقيه مفتوحًا.
+ثمّ خاط الحوت إلى باطن غطاء صندوق الكنز الأماميّ، فشدّ معه الخرطوم مفتوحًا، وخاط حول قطعة أخرى جبيرةً صلبةً من الخارج.
+ولصغير لم يكفه ذلك، وضع أنبوبًا قصيرًا في مقدّمة عنقه، تنفخ فيه مضخّة هواء صغيرة.
+«الخرطوم الليّن يسند مفتوحًا، ولا يقصّ أبدًا!» قال تشوبر.
+فأعاد أوسوب مقصّه العملاق إلى مكانه، وقالت روبين مثلًا قديمًا:
+quote: «ما لا يدرك كلّه لا يترك جلّه.»
+source: مثل عربيّ
+explanation:
+Tracheal resection is not a suitable solution for tracheobronchial malacia: D.
+Malacia is a soft, collapsing airway, usually over a long segment or several segments, so there is no short stenosis to cut out and join.
+The airway is held open instead: by a tracheostomy with positive pressure, by aortopexy, which pulls the front wall forward, by external splinting, or by an internal stent.
+Resection suits a short, fixed stenosis, not a floppy airway.
+In the picture, the shears are turned away while the Slinky, the stitch to the orca, the splint and the neck tube hold the floppy hose open.
+Memory hook: a floppy hose is held open, never cut out.
+
+== 397
+# book 84.5: true about outcomes after surgery for vascular anomalies -> C, mortality for repair of pulmonary artery sling is zero (book's key kept, note).
+# ANSWER: at Kureha's castle every slung baby goes home and no coffin stands anywhere, a big 0 above (audited sling, coffin)
+# the keyhole lantern suits a simple ring, not two orca arches (E wrong) (audited keyhole)
+title: In the book, mortality for repair of pulmonary artery sling is zero
+titleAr: في الكتاب: الوفيات بعد إصلاح حبالة الشريان الرئويّ صفر
+tags: cardiac/congenital d:evidence q:numbers l:3
+palette: snow white, sling green and castle grey
+words: 0
+note: The book's key is C. Other series report a small mortality after pulmonary artery sling repair, mostly in children whose complete tracheal rings also need repair.
+keywords: pulmonary artery sling -> the left pipe of dollar bills looping like a sling round the back of the ribbed hose; mortality zero -> a row of mended slung babies going home with NO coffin anywhere, a big 0 painted above; video-assisted techniques -> a lantern on a slim telescope peeking through a keyhole at a simple ring, waved away from two orca arches closing a ring; trachea -> the left pipe of dollar bills looping like a sling round the back of the ribbed hose
+must: every slung baby goes home and no coffin stands anywhere, a big 0 above
+scene: Dr. Kureha's snowy castle on Drum Island. CENTRE, dominant and brightest: a row of babies, each with the left pipe of dollar bills looping like a sling round the back of its ribbed hose, mended and going home, NO coffin anywhere, a big 0 painted above. AROUND, dimmer: a lantern on a slim telescope peeking through a keyhole at a simple ring, waved away from two orca arches closing a ring. LEFT: Usopp. Chopper.
+story:
+في قلعة الدكتورة كوريها على جزيرة درام المثلجة، اصطفّ رضّع كثيرون، يلتفّ أنبوب الدولارات الأيسر حول خرطوم كلّ منهم كالحبالة.
+«هذا عمل صعب؛ سأصنع توابيت صغيرةً احتياطًا!» قال أوسوب، وأخذ يدقّ المسامير.
+فأخذ تشوبر الرضّع واحدًا واحدًا، وشاحنة المضخّة تعمل بجانبه: يقطع الأنبوب الأيسر، ويخرجه من خلف الخرطوم، ويخيطه أمامه في أنبوب الدولارات الكبير.
+فخرجوا جميعًا إلى الثلج ضاحكين، ولم يمتلئ تابوت واحد، وفوق الباب صفر كبير مطليّ.
+«احتفظ بتوابيتك لغيرهم يا فتى؛ هؤلاء خرجوا كلّهم!» ضحكت كوريها.
+وعند النافذة، فانوس على منظار رفيع يتلصّص من ثقب مفتاح؛ يصلح لحلقة بسيطة، لا لحلقة الحوتين بقوسين.
+«نتيجة الحبالة في هذه القلعة صفر: ولا تابوت واحد!» قال تشوبر.
+فلفّ تشوبر كلّ رضيع ببطّانيّة قبل أن يخرج إلى الثلج، كما قال زيف يومًا لسانجي:
+quote: «يا سانجي... لا تصب بالبرد.»
+source: زيف
+explanation:
+Mortality for repair of pulmonary artery sling is zero: C, as the book reports.
+The left pulmonary artery is divided, brought in front of the trachea and reimplanted into the main pulmonary artery on cardiopulmonary bypass, and in experienced hands this is done without operative deaths.
+The risk rises when complete tracheal rings also need repair, which is why other series report a small mortality.
+Video-assisted division suits a simple ring closed by a ligamentum, not a double aortic arch.
+In the picture, every slung baby goes home and no coffin stands anywhere.
+Memory hook: the sling's score is zero.
+
+== 398
+# book 85.1: correct about the morphology of Ebstein's anomaly -> C, a thin-walled atrialized component of the right ventricle.
+# ANSWER: above Einstein's pushed-down prongs, the top of the blue engine room has become a paper-thin extra atrium lobby (audited einstein, atrium, trident)
+title: Ebstein's anomaly has a thin-walled atrialized part of the right ventricle
+titleAr: في شذوذ إبشتاين جزءٌ رقيق الجدار من البطين الأيمن صار أذينيًّا
+tags: cardiac/congenital d:anatomy q:recall l:3
+palette: Egghead lab white, trident gold and lobby blue
+keywords: Ebstein's anomaly -> Einstein, wild white hair, pushing the trident down into the blue engine room; atrialized right ventricle -> the top of the blue engine room, high above its fan and above the pushed-down trident, turned into a thin-walled extra atrium lobby, its wall thin as paper; displaced septal and posterior leaflets -> the trident's two back prongs pushed down toward the floor of the blue engine room; anterior leaflet -> the trident's huge front prong, wide as a flag, still fixed at its brass collar; functional right ventricle -> only the lower floor with the fan and the outlet of the blue engine room still pumping; tricuspid valve -> the trident's huge front prong; annulus -> the brass collar that still holds the trident's front prong
+must: above the pushed-down trident, the top of the blue engine room has become a paper-thin extra lobby
+scene: Egghead, the island of future science. CENTRE, dominant and brightest: Einstein, wild white hair, pushing the trident's two back prongs down into the blue engine room; above them, the top of the blue engine room has become a paper-thin extra atrium lobby. AROUND, dimmer: the trident's huge front prong, wide as a flag, still fixed at its brass collar; only the lower floor and the outlet of the blue engine room still pumping. LEFT: Usopp. Chopper.
+story:
+في إيغهيد، جزيرة علم المستقبل، كان آينشتاين بشعره الأبيض المنفوش يدفع السنّين الخلفيّين من الرمح الثلاثيّ نزولًا في غرفة المحرّك الزرقاء.
+«نزل السنّان قليلًا، وما فوقهما باق كما كان: غرفة زرقاء عاديّة!» قال أوسوب، وطرق الجدار فوق السنّين.
+لكنّ الجدار تحت يده كان رقيقًا كالورق، ينتفخ مع الماء ولا يدفعه.
+فالجزء الأعلى من الغرفة الزرقاء، فوق السنّين النازلين، صار ردهةً إضافيّةً رقيقة الجدار، تعمل مع الردهة الزرقاء الّتي فوقها.
+أمّا السنّ الأماميّ الكبير، فبقي معلّقًا في طوقه النحاسيّ، عريضًا كالعلم.
+ولم يبق يدفع الماء إلّا أرض الغرفة بمروحتها، ومخرجها إلى أنبوب الدولارات.
+«آينشتاين ينزل السنّين، فتصير الغرفة فوقهما ردهةً!» قال تشوبر.
+فسحب أوسوب يده عن الجدار الرقيق، وقالت روبين مثلًا قديمًا:
+quote: «تسمع بالمعيديّ خير من أن تراه.»
+source: مثل عربيّ
+explanation:
+Ebstein's anomaly includes a thin-walled atrialized component of the right ventricle: C.
+The septal and posterior leaflets are displaced toward the apex, so the inlet portion above them works as part of the atrium although it is ventricle in origin, often thin and dilated.
+The anterior leaflet stays attached at the annulus, large and sail-like, with abnormal attachments to the ventricular wall below.
+The functional right ventricle is made of the trabecular (apical) and outlet portions, and the outlet is preserved, not small or absent.
+In the picture, above Einstein's pushed-down prongs, the top of the blue engine room has become a paper-thin extra lobby.
+Memory hook: Einstein pushes the prongs down, and the room above turns into lobby.
+
+== 399
+# book 85.2: the book prints 80.2 (lesson 381) again; asked the other way round: which are NOT true -> A, C, D, E (only B is true by the book's key).
+# ANSWER: in the same glass workshop a year later, Chopper chases four peddlers out and takes only the old breathless sailor in (audited third atrium lobby, ice cube, atrium)
+title: Subdivided atrium: the four statements that are not true
+titleAr: الأذين المقسوم: العبارات الأربع غير الصحيحة
+tags: cardiac/congenital d:technique q:recall l:3
+palette: glass-workshop amber, ice blue and placard white
+words: 50%
+note: The book prints question 80.2 (lesson 381) again as 85.2, in its chapter on Ebstein's anomaly; the real 85.2 is lost. So that the owner is not asked the same thing twice, this lesson asks the same five statements the other way round: by the book's key (B), A, C, D and E are the ones that are not true.
+asks:
+Which statements are NOT true regarding surgical management of subdivided atrium? | Fifty percent of patients born with subdivided left atrium die in infancy without treatment. | Urgent repair is indicated in older patients with chronic symptoms. | Hypothermic circulatory arrest is used in all patients with subdivided left atrium. | A left atrial approach is recommended for repair of subdivided left atrium in infants. | Percutaneous disruption of the obstructive membrane is the preferred approach in patients with subdivided right atrium. = A,C,D,E
+keywords: subdivided left atrium -> a third atrium lobby made by an extra glass partition across the red lobby; fifty percent mortality -> a peddler's placard reading 50% beside a little coffin, chased out because far more die; circulatory arrest in all patients -> a peddler wheeling a giant ice cube for every patient, chased out; left atrial approach in infants -> a peddler trying to squeeze into a baby's tiny red atrium lobby straight from the left, chased out, while Chopper goes in through the blue lobby and the upper party wall; percutaneous disruption in subdivided right atrium -> a peddler poking a fishing line from the groin at the sail-like membrane in a blue atrium lobby, chased out; urgent repair in older patients with chronic symptoms -> the old breathless sailor taken in at once, the only one who stays
+must: four peddlers are chased out; only the old breathless sailor is taken in
+scene: The same glass-blower's workshop in Water 7, a year later. CENTRE, dominant and brightest: Chopper chasing four peddlers out of the door: one wheeling a giant ice cube; one trying to squeeze into a baby's tiny red atrium lobby straight from the left; one poking a fishing line at a sail-like membrane in a blue atrium lobby; one holding a placard reading 50% beside a little coffin. AROUND: the old breathless sailor being taken in at once; a third atrium lobby made by a glass partition across a red lobby. LEFT: Usopp.
+story:
+بعد عام في ورشة نافخ الزجاج نفسها في ووتر سفن، جاء أربعة باعة جوّالين يعرضون على تشوبر أفكارهم عن الحاجز الزجاجيّ.
+«أفكار رائعة؛ نشتريها كلّها!» قال أوسوب، وأخرج محفظته.
+فعرض الأوّل مكعّب ثلج عملاقًا لكلّ فندق بلا استثناء، وحاول الثاني أن يحشر نفسه في ردهة رضيع حمراء صغيرة من جهة اليسار.
+ومدّ الثالث خيط صيد من الفخذ إلى شراع في الردهة الزرقاء، ينكزه من بعيد، ورفع الرابع لافتةً عليها خمسون في المئة بجانب تابوت صغير.
+فطردهم تشوبر واحدًا بعد آخر: فالثّلج لا يحتاجه إلّا قليل، والرّضيع يدخل إليه من الردهة الزرقاء عبر الجدار العلويّ، والشّراع يقصّ باليد، ومن يترك يسقط منهم أكثر من النصف بكثير.
+ولم يبق في الورشة إلّا البحّار العجوز اللاهث، فأدخله في الحال، كما فعل قبل عام.
+«أربعة باعة إلى الخارج، وبحّار عجوز واحد إلى الداخل!» قال تشوبر.
+فأعاد أوسوب محفظته إلى جيبه، وقالت روبين مثلًا قديمًا:
+quote: «ما كلّ بيضاء شحمةً، ولا كلّ سوداء تمرة.»
+source: مثل عربيّ
+explanation:
+In subdivided atrium, A, C, D and E are not true; only B, urgent repair in older patients with chronic symptoms, is.
+Untreated, most infants with subdivided left atrium die, classically about three quarters, so fifty percent understates it.
+Repair is done on cardiopulmonary bypass; circulatory arrest is needed only occasionally, in small infants, not in all.
+In infants the small left atrium is reached through the right atrium and the atrial septum rather than by a left atrial approach.
+In subdivided right atrium, an obstructing membrane is excised surgically; catheter disruption is not the preferred approach.
+In the picture, the four peddlers are chased out and only the old breathless sailor is taken in.
+Memory hook: four peddlers out, one old sailor in.
+
+== 400
+# book 85.3: true about the pathophysiology of Ebstein's anomaly -> A, right ventricular dilation can compromise left ventricular function.
+# ANSWER: in Elbaph, the blue engine room swollen huge pushes the lower party wall into the red engine room and squeezes its fan (audited einstein, fan, pirate, duct)
+title: In Ebstein's anomaly, right ventricular dilation can compromise left ventricular function
+titleAr: في شذوذ إبشتاين قد يُضعف توسّعُ البطين الأيمن وظيفةَ البطين الأيسر
+tags: cardiac/congenital d:physiology q:recall l:3
+palette: giant-land timber, room blue and fan red
+keywords: Ebstein's anomaly -> Einstein, wild white hair, pushing the trident down into the blue engine room; RV dilation -> the blue engine room swollen huge like a balloon; compromised LV function -> the swollen blue room pushing the lower party wall into the red engine room, squeezing its fan so it turns weakly; ductal flow -> water from the duct-tape tunnel pushing back into the money pipe against the blue room, its trident leaking more, not less; severe displacement in the newborn -> a newborn whose blue room cannot push the money pipe's door open at all; arrhythmias -> a pirate shouting ARRR and dancing a wild jig out of step on the hotel roof, a common guest; tricuspid valve -> the trident leaking more
+must: the swollen blue room pushes the party wall into the red room and squeezes its fan
+scene: Elbaph, the land of giants. CENTRE, dominant and brightest: Einstein pushing the trident down into a blue engine room swollen huge like a balloon, which pushes the lower party wall into the red engine room, squeezing its fan so it turns weakly. AROUND, dimmer: water from the duct-tape tunnel pushing back into the money pipe, the trident leaking more; a pirate shouting ARRR and dancing a wild jig on the hotel roof. LEFT: Usopp. Chopper.
+story:
+في إلباف، أرض العمالقة، دفع آينشتاين الرمح الثلاثيّ نزولًا في غرفة المحرّك الزرقاء لفندق عملاق، فانتفخت الغرفة كالبالون.
+«غرفة زرقاء كبيرة، وشأنها شأنها؛ فما للغرفة الحمراء وهذا؟» قال أوسوب.
+لكنّ الغرفة الزرقاء المنتفخة دفعت الجدار السفليّ نحو الغرفة الحمراء، فضاقت، وأخذت مروحتها تدور بضعف.
+ومن نفق الشريط اللاصق، كان الماء يدفع راجعًا في أنبوب الدولارات، فيثقل على الغرفة الزرقاء، ويزيد تسرّب الرمح بدل أن ينقصه.
+وعند وليد نزل رمحه نزولًا شديدًا، عجزت غرفته الزرقاء عن أن تفتح باب أنبوب الدولارات أصلًا.
+وعلى السطح، رقص قرصان يصيح آرر، رقصةً لا تتبع اللحن؛ فهو ضيف مألوف في هذه الفنادق.
+«غرفة زرقاء عملاقة، تعصر مروحة الغرفة الحمراء!» قال تشوبر.
+فنظرت الغرفة الحمراء إلى جارتها المنتفخة بضيق، وقالت روبين مثلًا قديمًا:
+quote: «الجار قبل الدار.»
+source: مثل عربيّ
+explanation:
+In Ebstein's anomaly, right ventricular dilation can compromise left ventricular function: A.
+The huge right heart pushes the septum toward the left ventricle and changes its shape and filling, so left ventricular function falls.
+In neonates it is severe, not mild, leaflet displacement that can obstruct pulmonary blood flow, even producing functional pulmonary atresia.
+Ductal flow raises the pressure the right ventricle works against and worsens tricuspid regurgitation, and the valve usually leaks rather than becoming stenotic.
+Arrhythmias, accessory pathways included, are common in Ebstein's anomaly.
+In the picture, the swollen blue room pushes the party wall into the red room and squeezes its fan.
+Memory hook: a giant blue room squeezes the red one's fan.

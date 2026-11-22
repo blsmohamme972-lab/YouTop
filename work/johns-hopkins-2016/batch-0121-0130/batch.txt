@@ -11,7 +11,7 @@ title: Retrograde cardioplegia is an option, not a basic requirement of cardiopl
 titleAr: شلل القلب الراجع خيار وليس شرطًا أساسيًا لإيقاف القلب
 tags: cardiac/cpb d:technique q:recall l:2 x:trap
 palette: banana yellow, dry-floor beige and sleepy ox brown
-keywords: cardioplegic arrest -> a bucket of banana juice poured into the crown on the hotel's roof, both fans stopping; dry bloodless field -> a sailor mopping the floor perfectly dry; cessation of electromechanical activity -> the sparks around the fans gone out; reduction of myocardial oxygen demand -> an ox lying asleep in the red engine room; uniform delivery -> the banana juice spreading evenly into every room; retrograde cardioplegia -> a second banana hose for the sink at the back, lying coiled and unused with a spare tag
+keywords: cardioplegic arrest -> a bucket of banana juice poured into the crown on the hotel's roof, both fans stopping; dry bloodless field -> a sailor mopping the floor perfectly dry; cessation of electromechanical activity -> the sparks around the fans gone out; reduction of myocardial oxygen demand -> an ox lying asleep in the red engine room; uniform delivery -> the banana juice spreading evenly into every room; retrograde cardioplegia -> a second banana hose for the sink at the back, lying coiled and unused with a spare tag; coronary arteries -> the green crown on the hotel's roof into which the banana juice is poured; coronary sinus -> the small sink at the back of the hotel
 must: the second hose to the sink lies COILED and UNUSED; the juice reaches every room evenly
 scene: The old hotel with a stag's head over its door, cut open like a doll's house. On its roof Sanji pours a big bucket of banana juice into a green crown, and the juice runs evenly into every room; both fans have stopped, their sparks gone out, a sailor mops the floor perfectly dry, and an ox sleeps in the red engine room. CENTRE, dominant and brightest: at the back of the hotel, beside a small sink, a second hose of banana juice lies coiled and unused on a hook, a paper tag reading spare tied to it.
 story:
@@ -38,16 +38,18 @@ Memory hook: a dry floor, stopped fans, a sleeping ox and juice in every room; t
 # book 25.2: blood cardioplegia -> B, allows complete recovery of function after 4 h of arrest.
 # a bucket of banana juice swirled with red blood -> blood cardioplegia (audited)
 # ANSWER: a big wall clock with its hour hand at 4, and after it the fan spinning back at full speed -> complete recovery after 4 hours of arrest
+# little red doughnuts swirling in the blood of the bucket -> the red cells carry oxygen, and the blood buffers and antioxidants, to the arrested heart (red cells, audited)
 title: Blood cardioplegia allows complete recovery after four hours of arrest
 titleAr: شلل القلب الدموي يسمح بتعافٍ كامل بعد أربع ساعات من الإيقاف
 tags: cardiac/cpb d:technique q:recall l:2
 palette: banana yellow, blood red and clock brass
 words: 4
-keywords: blood cardioplegia -> a bucket of banana juice swirled with red blood, poured into the crown on the hotel's roof; 4 hours of arrest -> a big brass wall clock with its hour hand on 4; complete recovery of function -> the red engine room's fan spinning back at full speed once the clock reaches 4
+keywords: blood cardioplegia -> a bucket of banana juice swirled with red blood, poured into the crown on the hotel's roof; 4 hours of arrest -> a big brass wall clock with its hour hand on 4; complete recovery of function -> the red engine room's fan spinning back at full speed once the clock reaches 4; coronary arteries -> the green crown on the roof into which the bucket is poured; red cells carrying oxygen -> little red doughnuts swirling in the bucket's blood
 must: the clock shows 4; the fan spins at FULL speed afterwards
-scene: The cut-open old hotel with a stag's head over its door. On the roof a bucket of banana juice swirled with red blood is being poured into a green crown. CENTRE, dominant and brightest: in the red engine room a big brass wall clock stands with its hour hand on 4, and beside it the huge fan has just burst back into motion at full speed, blowing papers about. Nami, the orange-haired navigator, taps the clock face with a smile.
+scene: The cut-open old hotel with a stag's head over its door. On the roof a bucket of banana juice swirled with red blood full of little red doughnuts is being poured into a green crown. CENTRE, dominant and brightest: in the red engine room a big brass wall clock stands with its hour hand on 4, and beside it the huge fan has just burst back into motion at full speed, blowing papers about. Nami, the orange-haired navigator, taps the clock face with a smile.
 story:
 في الفندق القديم، صبّوا في التاج الأخضر دلوًا من عصير الموز ممزوجًا بالدّم الأحمر.
+وفي الدلو كعكات حمراء صغيرة تدور مع الدم.
 فسكنت المروحة العملاقة في الغرفة الحمراء، ومرّت ساعة، ثمّ ساعتان.
 «أسرعوا! بعد ساعتين لن تعود المروحة أبدًا!» صاح أوسوب.
 لكنّ نامي جلست بهدوء أمام ساعة الحائط النحاسيّة.
@@ -71,22 +73,26 @@ Memory hook: the clock reaches 4, and the fan bursts back into motion at full sp
 # Sanji dropping colourful building blocks into the bucket of banana-blood juice -> amino acid substrates (keyword: AMINO acids = building blocks of protein)
 # ANSWER: the fan starting sooner after the blocks are added, Sanji's stopwatch -> hastens recovery
 # the bucket's measuring marks: 4 parts red to 1 part banana -> typically 4:1 blood to crystalloid, not 1:1 (E is wrong)
+# little red doughnuts in the bucket, 4 parts red to 1 part banana -> blood cardioplegia is mostly blood (red cells, audited)
+# a big can of white chalky glue left closed -> blood cardioplegia has LOW calcium, not high (A is wrong; calcium = glue, audited)
 title: Blood cardioplegia may contain amino acids to hasten recovery
 titleAr: شلل القلب الدموي قد يحتوي أحماضًا أمينية لتسريع التعافي
 tags: cardiac/cpb d:technique q:recall l:3
 palette: banana yellow, block rainbow and blood red
 words: 4 1
-keywords: blood cardioplegia -> a bucket of banana juice and red blood, marked 4 parts red to 1 part banana; amino acid substrates -> colourful building blocks that Sanji drops into the bucket; hasten recovery -> the fan starting sooner, Sanji clicking a stopwatch
-must: the building blocks fall INTO the bucket
-scene: The ship's galley turned into a lab, beside a small cut-open hotel with a stag's head. A tall bucket of banana juice and red blood has measuring marks on its side reading 4 parts red to 1 part banana. CENTRE, dominant and brightest: Sanji, the blond cook with a curly eyebrow, drops a handful of colourful building blocks into the bucket like spices, and in the hotel beside it the fan already starts to turn, Sanji clicking a stopwatch in his other hand.
+keywords: blood cardioplegia -> a bucket of banana juice and red blood, marked 4 parts red to 1 part banana; amino acid substrates -> colourful building blocks that Sanji drops into the bucket; hasten recovery -> the fan starting sooner, Sanji clicking a stopwatch; red cells -> little red doughnuts filling the red part of the bucket; low calcium -> a big can of white chalky glue left closed on a shelf, Sanji not touching it
+must: the building blocks fall INTO the bucket; the glue can stays CLOSED
+scene: The ship's galley turned into a lab, beside a small cut-open hotel with a stag's head. A tall bucket of banana juice and red blood full of little red doughnuts has measuring marks on its side reading 4 parts red to 1 part banana; on a shelf behind it a big can of white chalky glue stays closed. CENTRE, dominant and brightest: Sanji, the blond cook with a curly eyebrow, drops a handful of colourful building blocks into the bucket like spices, and in the hotel beside it the fan already starts to turn, Sanji clicking a stopwatch in his other hand.
 story:
 في مطبخ السفينة، وقف دلو طويل من عصير الموز والدّم الأحمر، بجانب فندق صغير ساكن.
 وعلى جنب الدلو علامات تقول: أربعة أجزاء من الأحمر، وجزء واحد من الموز.
+وكان الجزء الأحمر مليئًا بكعكات حمراء صغيرة.
 «نصف من الدم ونصف من الموز، هذا أعدل!» قال أوسوب.
 «العلامات تقول أربعةً إلى واحد، فلا تغيّرها.» قالت نامي.
 وكانت مروحة الفندق الصغير تنتظر أن تعود.
 فأخرج سانجي من جيبه حفنةً من مكعّبات البناء الملوّنة.
 وألقاها في الدلو كما يلقي التوابل في القدر.
+أمّا علبة الغراء الأبيض الطباشيريّ على الرفّ، فتركها مغلقةً لم يلمسها.
 فبدأت المروحة تدور أبكر من كلّ مرّة، وسانجي يضغط ساعة التوقيت بيده الأخرى.
 «مكعّبات صغيرة، تبني المروحة وتعيدها أسرع!» قال سانجي.
 فضحك لوفي، وتذكّر جدّه وهو يطعمه ويدرّبه صغيرًا، ويصيح فيه:
@@ -108,7 +114,7 @@ title: Retrograde cardioplegia can be given at the same time as antegrade
 titleAr: يمكن إعطاء شلل القلب الراجع في الوقت نفسه مع الأمامي
 tags: cardiac/cpb d:technique q:recall l:2
 palette: banana yellow, sink steel and crown green
-keywords: antegrade cardioplegia -> a bucket of banana juice poured down into the crown on the hotel's roof; retrograde cardioplegia -> a second bucket of banana juice pushed backward up through the sink at the back of the hotel; coronary sinus -> the small sink at the back; simultaneously -> both buckets poured at the same moment, the juice meeting in the middle of the walls
+keywords: antegrade cardioplegia -> a bucket of banana juice poured down into the crown on the hotel's roof; retrograde cardioplegia -> a second bucket of banana juice pushed backward up through the sink at the back of the hotel; coronary sinus -> the small sink at the back; simultaneously -> both buckets poured at the same moment, the juice meeting in the middle of the walls; coronary arteries -> the green crown on the hotel's roof
 must: BOTH buckets pour at the SAME moment
 scene: The cut-open old hotel with a stag's head over its door. CENTRE, dominant and brightest: at the same moment, Sanji on the roof pours a bucket of banana juice down into a green crown, and Zoro at the back pushes a second bucket of banana juice backward up through a small sink, and the two streams meet in the middle of the walls. Luffy counts "one, two, three!" between them, both arms raised.
 story:
@@ -141,7 +147,7 @@ titleAr: ضغط الشلل الراجع فوق 50 ملم زئبق يعني وج�
 tags: cardiac/cpb d:technique q:numbers l:3
 palette: banana yellow, gauge red and sink steel
 words: 50
-keywords: retrograde infusion -> a hose of banana juice pushed backward into the small sink at the back of the hotel; coronary sinus -> the small sink; pressure above 50 -> a round gauge on the hose with its needle past 50 into the red; reposition the catheter -> Franky pulling the hose back a little to set it again
+keywords: retrograde cardioplegia infusion -> a hose of banana juice pushed backward into the small sink at the back of the hotel; coronary sinus -> the small sink; high pressure above 50 -> a round gauge on the hose with its needle past 50 into the red; reposition the catheter -> Franky pulling the hose back a little to set it again
 must: the needle is PAST 50, in the red; Franky's hands pull the hose BACK
 scene: The back of the cut-open old hotel with a stag's head, where a small steel sink sits in the wall. A hose of banana juice is pushed backward into the sink. CENTRE, dominant and brightest: a round gauge on the hose shows its needle past 50 into the red, and Franky, the blue-haired cyborg shipwright, pulls the hose back a little with both huge hands to set it again, sweat on his brow.
 story:
@@ -203,14 +209,15 @@ Memory hook: Usopp's ammo boxes at the atrium window keep Pinocchio out after th
 # the thick wall carved in the shape of a bodybuilder's flexed arm -> HOCM (audited)
 # a water gauge in the blue lobby reading 3, the tank almost empty, a needle swinging wildly -> CVP 3, labile pressure
 # ANSWER: Sanji pouring big buckets of water into the hotel, the needle calming -> give volume
+# Uncle Sam yanking the mitre's front leaf into the orca's doorway, letting go as the water rises -> an underfilled, thick ventricle obstructs its own outflow again; filling it relieves the obstruction (SAM, audited)
 title: Labile pressure with a low CVP after myectomy: give volume
 titleAr: ضغط متقلّب مع ضغط وريدي مركزي منخفض بعد استئصال العضلة: أعطِ السوائل
 tags: cardiac/perioperative d:postoperative q:next-step l:3
 palette: water blue, chisel steel and muscle red
 words: 3
-keywords: septal myectomy -> a chisel lying beside a fresh groove carved in the thick wall between the two engine rooms; hypertrophic obstructive cardiomyopathy -> the thick wall bulging like a bodybuilder's flexed arm; CVP of 3 -> a water gauge in the blue lobby reading 3, its tank almost empty; labile blood pressure -> a pressure dial on the wall with its needle swinging wildly; volume resuscitation -> Sanji pouring big buckets of water into the hotel, the swinging needle calming
+keywords: septal myectomy -> a chisel lying beside a fresh groove carved in the thick wall between the two engine rooms; hypertrophic obstructive cardiomyopathy -> the thick wall bulging like a bodybuilder's flexed arm; CVP of 3 -> a water gauge in the blue lobby reading 3, its tank almost empty; labile blood pressure -> a pressure dial on the wall with its needle swinging wildly; volume resuscitation -> Sanji pouring big buckets of water into the hotel, the swinging needle calming; dynamic LVOT obstruction in an underfilled ventricle -> Uncle Sam in a star-spangled top hat yanking the front leaf of a bishop's mitre into the orca's doorway, his grip loosening as the water pours in
 must: the tank is nearly EMPTY at the start; water is POURED in
-scene: The cut-open old hotel with a stag's head over its door. The thick wall between its two engine rooms bulges like a bodybuilder's flexed arm, a fresh groove carved into it and a chisel lying beside it. In the blue lobby a water gauge reads 3, its glass tank almost empty, and a pressure dial on the wall swings its needle wildly. CENTRE, dominant and brightest: Sanji, the blond cook, pours one big bucket of water after another into the hotel, and the needle begins to calm.
+scene: The cut-open old hotel with a stag's head over its door. The thick wall between its two engine rooms bulges like a bodybuilder's flexed arm, a fresh groove carved into it and a chisel lying beside it. In the blue lobby a water gauge reads 3, its glass tank almost empty, and a pressure dial on the wall swings its needle wildly. In the red engine room, Uncle Sam in a star-spangled top hat yanks the front leaf of a bishop's mitre into the orca's doorway, blocking it, his grip loosening as the water rises. CENTRE, dominant and brightest: Sanji, the blond cook, pours one big bucket of water after another into the hotel, and the needle begins to calm.
 story:
 في الفندق القديم ذي رأس الأيّل، كان الجدار السميك بين غرفتي المحرّك منتفخًا كذراع رافع أثقال مثنيّة.
 وقد حفر فيه أخدود جديد، وبجانبه إزميل ملقًى.
@@ -218,9 +225,11 @@ story:
 وعلى الحائط، كانت إبرة مقياس الضغط تتأرجح بجنون، من فوق إلى تحت.
 «نوسّع الأبواب بالدّواء، ونسرع الطبل إلى مئة!» قال فرانكي.
 فتأرجحت الإبرة أكثر، وصار الجدار المنتفخ ينطبق على الغرفة الفارغة.
+وفي باب الحوت، أخذ العمّ سام بقبّعته المرصّعة بالنّجوم يشدّ الورقة الأماميّة من تاج الأسقف إلى الباب.
 «الخزّان فارغ يا فرانكي! الفندق عطشان!» قال سانجي.
 فأخذ سانجي يصبّ في الفندق دلوًا كبيرًا من الماء بعد دلو.
 فارتفع الماء في الخزّان، وأخذت الإبرة تهدأ شيئًا فشيئًا.
+وارتخت قبضة العمّ سام عن الورقة حتّى أفلتها.
 «كان عطشان فقط! املأه، فيهدأ!» قال تشوبر.
 ومع كلّ دلو، كان الفندق كأنّه يقول ما قاله القرصان الأحمر الشعر يومًا:
 quote: «اسكب عليّ الشراب أو الطعام وسأضحك... لكنّي لا أغفر أبدًا لمن يؤذي صديقي!»
@@ -303,21 +312,26 @@ Memory hook: the right spike has no bridge, the blue room swells, and Franky sli
 # book 26.5: reducing hospital infections after heart surgery -> C, remove the urinary catheter as soon as the patient is extubated, stable and mobile.
 # little green germ bugs crawling up the hoses of a patient's bed -> hospital infection
 # ANSWER: the patient, breathing tube gone, walking on his own while Chopper pulls the thin yellow hose out early, the germs falling off with it -> early removal of the urinary catheter
+# a breathing bellows switched off and pushed aside -> extubated (ventilation = bellows, audited)
+# a neat white line down the sailor's chest like a ship's stern -> after open heart surgery (sternotomy, audited)
+# Chopper's giant pencil put away in his bag -> antibiotics are not continued for as long as the patient is ventilated (B is wrong; antibiotics = pencil, audited)
 title: Remove the urinary catheter as soon as the patient is extubated, stable and mobile
 titleAr: انزع القثطار البولي حالما يُنزع أنبوب التنفّس ويستقرّ المريض ويتحرّك
 tags: cardiac/perioperative d:postoperative q:recall l:2
 palette: hospital white, hose yellow and germ green
-keywords: nosocomial infection -> little green germ bugs crawling up the hoses of a hospital bed; urinary catheter -> a thin yellow hose from a bag hanging on the bed; extubated, stable and mobile -> the patient with no breathing tube, standing and walking on his own; early removal -> Chopper pulling the yellow hose out, the green germs falling off with it
+keywords: nosocomial infection -> little green germ bugs crawling up the hoses of a hospital bed; urinary catheter -> a thin yellow hose from a bag hanging on the bed; extubated, stable and mobile -> the patient with no breathing tube, standing and walking on his own; early removal -> Chopper pulling the yellow hose out, the green germs falling off with it; mechanical ventilation ended -> a breathing bellows switched off and pushed aside beside the empty bed; median sternotomy -> a neat white line straight down the centre of the sailor's chest like a ship's stern; antibiotics not continued -> Chopper's giant pencil put away in his bag
 must: the patient WALKS, no breathing tube; the germs fall away WITH the hose
-scene: A bright infirmary on the Thousand Sunny. An empty bed with a bag hanging on its side, little green germ bugs crawling up its hoses. CENTRE, dominant and brightest: the patient, a cheerful sailor with no breathing tube, has stood up and walks away on his own, while Tony Tony Chopper, the little reindeer doctor, pulls a thin yellow hose out and away from him, the green germs tumbling off it to the floor.
+scene: A bright infirmary on the Thousand Sunny. An empty bed with a bag hanging on its side, little green germ bugs crawling up its hoses, a breathing bellows switched off and pushed aside beside it. CENTRE, dominant and brightest: the patient, a cheerful sailor with no breathing tube and a neat white line straight down the centre of his chest like a ship's stern, has stood up and walks away on his own, while Tony Tony Chopper, the little reindeer doctor, pulls a thin yellow hose out and away from him, the green germs tumbling off it to the floor, his giant pencil put away in his bag.
 story:
 في مستوصف مضيء على الثاوزند صني، كانت جراثيم خضراء صغيرة تزحف على خراطيم سرير.
 وكان المريض بحّارًا مرحًا، نزع أنبوب تنفّسه أمس.
+وبجانب سريره منفاخ تنفّس مطفأ قد دفع جانبًا، وعلى صدره خطّ أبيض مستقيم في الوسط كمؤخّرة سفينة.
 «نبقي الخرطوم الأصفر أسبوعًا آخر، احتياطًا!» قال أوسوب.
 فزحفت الجراثيم الخضراء أعلى فأعلى على الخرطوم.
 لكنّ البحّار نهض من سريره، ووقف على قدميه، ومشى وحده.
 «يتنفّس وحده، ومستقرّ، ويمشي؟ إذن لا حاجة لهذا الخرطوم!» قال تشوبر.
 فسحب تشوبر الخرطوم الأصفر الرفيع بعيدًا عنه في الحال.
+ثمّ أعاد قلم الرصاص العملاق إلى حقيبته، فلا حاجة إليه.
 فتساقطت الجراثيم الخضراء عنه إلى الأرض، ولم تجد طريقًا تصعد فيه.
 ومشى البحّار نحو الباب ضاحكًا، والبحر يلمع خلفه.
 فصاح في رفاقه بكلمة قالتها روبين يومًا:

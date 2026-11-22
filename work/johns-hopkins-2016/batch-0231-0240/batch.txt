@@ -1,0 +1,307 @@
+book: johns-hopkins-2016
+# Lessons 231-240 (book 47.1-48.5: pericardial disease, cardiac tumours). Written 2026-11-22, night.
+# Each story: a hook, a wrong try that fails, the answer acting, a payoff line that names the symbol, and a lead-in
+# that says who speaks the quotation and why it fits.
+
+== 231
+# book 47.1: Beck's triad = muffled heart sounds, raised venous pressure and -> A, decreased systemic arterial pressure.
+# the glass aquarium round the hotel filling with red water -> tamponade (audited red water, aquarium)
+# Ben BECK-man pointing at three signs: the band muffled behind the water, the chimney bulging, the gauge sunk in the low blue -> Beck's triad (audited gauge)
+# Usopp's guesses: fever, a rubbing sound, swollen legs -> pericarditis and other conditions (B-E wrong)
+title: Beck's triad: muffled heart sounds, high venous pressure and low arterial pressure
+titleAr: ثلاثيّ بيك: أصوات قلب مكتومة وضغط وريديّ مرتفع وضغط شريانيّ منخفض
+tags: cardiac/other d:diagnosis q:recall l:1 x:high-yield
+palette: Loguetown tavern amber, deep red and cold blue
+keywords: cardiac tamponade -> the glass aquarium round the hotel in Zoro's chest filling fast with red water, squeezing the hotel; muffled heart sounds -> the hotel's little band playing, its music muffled behind the water; raised venous pressure -> the hotel's chimney bulging, smoke backing up in it; hypotension -> the big round pressure gauge with its needle sunk into the low blue zone; Beck's triad -> Ben Beckman (BECK-man), the Red-Hair first mate, pointing with his rifle at the three signs one by one; pericardiocentesis -> Chopper sliding a long needle into the aquarium and drawing the red water off
+must: the three signs are the muffled band, the bulging chimney and the gauge in the low blue
+scene: A tavern in Loguetown, amber lamplight. CENTRE, dominant and brightest: Roronoa Zoro, the green-haired swordsman, slumped after a stab in the chest; on his chest a little HART Hotel inside a glass aquarium filling fast with red water; its little band playing muffled behind the water, its chimney bulging with backed-up smoke, and a big pressure gauge with its needle sunk into the low blue zone. Ben Beckman, a tall calm man with a black ponytail, pointing his rifle at the three signs one by one. Chopper sliding a long needle into the aquarium. LEFT: Usopp guessing with a thermometer. RIGHT: laughing sailors.
+story:
+في حانة بلوغتاون، طعن سكّير مجهول زورو بسكّين صغيرة في صدره، ثمّ فرّ.
+فأخذ الحوض الزجاجيّ حول فندقه يمتلئ بماء أحمر، يضغط الفندق من كلّ جهة.
+«إنّها حمّى! وأسمع احتكاكًا، وساقاه تنتفخان!» قال أوسوب، يخمّن تخمينًا.
+لكنّ بن بيكمان، نائب قبطان ذي الشعر الأحمر، رفع بندقيّته، وأشار بها إلى ثلاث علامات، واحدةً واحدة.
+فرقة الفندق تعزف لكنّ موسيقاها مكتومة خلف الماء؛ ومدخنته منتفخة يرجع فيها الدخان؛ وعدّاد الضغط غارق في الأزرق المنخفض.
+«موسيقى مكتومة، ومدخنة منتفخة، وعدّاد في الأزرق: الحوض يخنق الفندق!» قال تشوبر.
+فأدخل إبرةً طويلةً في الحوض، وسحب الماء الأحمر، فعلت الموسيقى، وهدأت المدخنة، وصعدت الإبرة من الأزرق.
+فلمّا عرف البحّارة أنّ صائد القراصنة طعنه سكّير لا اسم له، أخذوا يضحكون.
+فاحمرّ وجه زورو، وقال ما قاله يومًا وبطنه مجروح في أورانج تاون:
+quote: «جرح سمعتي أسوأ بكثير من جرح بطني!»
+source: رورونوا زورو
+explanation:
+Beck's triad of cardiac tamponade is muffled heart sounds, raised venous pressure and decreased systemic arterial pressure: A.
+In the picture, the band plays muffled behind the water, the chimney bulges and the gauge sinks into the blue: the three signs Ben Beckman, the Beck-man, points out.
+Fluid in the pericardium squeezes the heart so that it cannot fill: venous pressure rises while cardiac output and arterial pressure fall.
+A friction rub, oedema, fever and leucocytosis belong to pericarditis or other conditions, not to the triad.
+Draining the fluid, by needle pericardiocentesis or surgically, relieves the tamponade at once.
+Memory hook: Beckman's three signs: a muffled band, a bulging chimney and a gauge in the blue.
+
+== 232
+# book 47.2: commonest causes of pericardial effusion: uraemia, idiopathic and -> C, neoplasia.
+# three hoses filling the aquarium: from shrivelled grey kidney beans, from a masked shadow with a question mark, and from a red crab -> uraemia, idiopathic, neoplasia (audited aquarium, kidney bean, crab)
+title: Pericardial effusion: uraemia, idiopathic disease and neoplasia lead
+titleAr: الانصباب التاموريّ: اليوريميا والسبب المجهول والأورام في المقدّمة
+tags: cardiac/other d:pathology q:recall l:2
+palette: Cocoyashi night tangerine, lantern gold and crab red
+note: Lists of the commonest causes differ between series and countries (tuberculosis leads in some); the book's list is used.
+keywords: pericardial effusion -> the glass aquarium round the hotel slowly filling with water between the glass and the walls; renal failure (uraemia) -> a pair of shrivelled grey kidney beans pouring water into the aquarium through a hose; idiopathic -> a masked shadow with a big question mark on its cloak pouring water in through a second hose; malignancy (neoplasia) -> a red crab pouring water into the aquarium through a third hose with its claws
+must: three hoses fill the aquarium: from the grey kidney beans, from the masked question-mark shadow and from the red crab
+scene: Cocoyashi Village at night, tangerine groves. CENTRE, dominant and brightest: a red crab pouring water into the glass aquarium round the HART Hotel through a hose, gripped in its claws; Nami, the orange-haired navigator, holding a lantern and lifting the crab by its back. BESIDE it, two more hoses into the aquarium: one from a pair of shrivelled grey kidney beans, one from a masked shadow with a big question mark on its cloak. LEFT: Usopp pointing accusingly at Nami. Chopper.
+story:
+في قرية كوكوياشي ليلًا، أخذ الحوض الزجاجيّ حول الفندق يمتلئ بالماء على مهل، من ثلاثة خراطيم لا يعرف أصحابها.
+«إنّها نامي! هي لصّة، وهي الّتي تملأ الحوض سرًّا!» قال أوسوب، وأشار إليها.
+فأشعلت نامي فانوسًا، وتتبّعت الخراطيم الثلاثة في الظلام.
+فإذا عند طرف الأوّل حبّتا فاصولياء رماديّتان ذابلتان، وعند طرف الثاني ظلّ مقنّع على عباءته علامة استفهام كبيرة.
+وعند طرف الثالث سرطان أحمر، يصبّ الماء في الحوض بمخلبيه.
+«الفاصولياء الذابلة، والظّلّ المجهول، والسّرطان الأحمر: هؤلاء أكثر من يملأ الحوض!» قال تشوبر.
+فأمسكت نامي السرطان من ظهره، ورفعته في وجه أوسوب.
+ثمّ ضربته على رأسه، وقالت للقرصان المتّهم ما تقوله عن نفسها منذ لقيت لوفي:
+quote: «أنا لصّة لا تسرق إلّا القراصنة!»
+source: نامي
+explanation:
+The three commonest causes of a pericardial effusion in the book are uraemia, idiopathic disease and neoplasia: C.
+In the picture, three hoses fill the aquarium: from the shrivelled grey kidney beans, from the masked shadow with a question mark, and from the red crab.
+Malignant effusions come most often from lung and breast cancer and lymphoma, and they tend to come back after simple drainage, so a pericardial window is often made.
+Tuberculosis, infarction, trauma and heart failure also cause effusions, but less often.
+Memory hook: grey beans, a masked shadow and a red crab fill the aquarium.
+
+== 233
+# book 47.3: gold standard for diagnosing pericardial effusion -> D, echocardiography.
+# ANSWER: a bat whose echoes outline the water between the aquarium's glass and the hotel at once -> echo (audited bat, aquarium)
+# the cat slicing a loaf, the horseshoe magnet humming, two fishing lines still climbing -> CT, MRI, catheterization (audited cat, horseshoe magnet, fishing line)
+title: Echocardiography is the gold standard for pericardial effusion
+titleAr: تخطيط صدى القلب هو المعيار الذهبيّ للانصباب التاموريّ
+tags: cardiac/other d:diagnosis q:recall l:1
+palette: Little Garden jungle green, volcano orange and echo silver
+keywords: pericardial effusion -> a layer of water between the glass of the aquarium and the hotel walls; echocardiography -> a bat sending out rings of sound, its echoes outlining the water layer round the whole hotel at once; CT scan -> a cat slicing a loaf into thin slices with one claw, boasting; MRI -> a big red horseshoe magnet humming slowly over the hotel; cardiac catheterization -> a long thin fishing line paid out from a reel up from the groin into the hotel, still climbing; pulmonary artery catheterization -> a second fishing line threaded slowly into the money pipe
+must: the bat's echoes outline the water first and best, while the others are still busy
+scene: The prehistoric jungle of Little Garden, a volcano smoking. CENTRE, dominant and brightest: a bat sending out rings of sound whose echoes outline a layer of water between the glass of the aquarium and the walls of the HART Hotel. AROUND, still busy: a cat slicing a loaf into thin slices and boasting; a big red horseshoe magnet humming slowly; two long fishing lines paid out from reels, still climbing into the hotel and into its money pipe. RIGHT: Roronoa Zoro, the green-haired swordsman, hand on his three swords, glaring at the boasting cat. Usopp. Chopper.
+story:
+في غابة ليتل غاردن القديمة، تسرّبت طبقة من الماء بين زجاج الحوض وجدران الفندق.
+فتسابق الباحثون إليها: قطّة تقطّع رغيفًا، ومغناطيس أحمر يطنّ، وخيطا صيد يصعدان من أسفل إلى الفندق وإلى أنبوب الدولارات.
+«الخيط أدقّهم، سيجد الماء أوّلًا!» قال أوسوب؛ لكنّ الخيطين ما زالا يصعدان في الأنابيب ببطء.
+والمغناطيس يطنّ ويطنّ، ولم يفرغ بعد.
+أمّا الخفّاش، فأطلق حلقات صوته فرجع صداها في لحظة، يرسم طبقة الماء حول الفندق كلّه.
+«الخفّاش يرى الماء حول الفندق أوّلًا، وأوضح من الجميع!» قال تشوبر.
+فغضبت القطّة، ورفعت مخلبها الحادّ، وماءت تتباهى بأنّها أمهر من يقطّع في البحار كلّها.
+فوضع زورو يده على سيوفه الثلاثة، وقال لها ما قاله يومًا لمبارز تباهى أمامه في أورانج تاون:
+quote: «سيوفي تطمح أن تكون الأعظم في العالم؛ لا أقبل أن أخسر أمام أحد يسمّي نفسه مبارزًا!»
+source: رورونوا زورو
+explanation:
+Echocardiography is the gold standard for diagnosing a pericardial effusion: quick, at the bedside, and showing its size, where it lies and whether it compresses the heart: D.
+In the picture, the bat's echoes outline the water between the glass and the hotel before the others are ready.
+Echo also guides needle drainage and shows signs of tamponade, such as collapse of the right atrium and right ventricle in diastole.
+CT and MRI show loculated effusions and a thick pericardium well but are slower, and catheterization only measures pressures.
+Memory hook: the bat sees the water first.
+
+== 234
+# book 47.4: predictors of poor outcome after pericardiectomy, all but -> E, hypernatraemia (it is hyponatraemia that predicts).
+# the boa just cut off the aquarium -> pericardiectomy (audited boa constrictor)
+# bad omens: violet rays, withered grey kidney beans, a weak fan, gasping on the first stair of the Empire State -> radiation, renal insufficiency, poor ventricular function, NYHA IV (audited violet ray, kidney bean, empire state)
+# ANSWER: the sailor happily eating a mound of salt is not on the list -> hypernatraemia is not a predictor (audited salt)
+title: After pericardiectomy, high sodium is not a bad omen
+titleAr: بعد استئصال التامور، ارتفاع الصوديوم ليس نذير سوء
+tags: cardiac/other d:evidence q:recall l:3
+palette: Red-Hair camp firelight, violet and salt white
+keywords: pericardiectomy -> a huge grey boa constrictor just cut off the hotel's aquarium; prior radiation -> violet rays from an old lamp shining on the first sailor's hotel; renal insufficiency -> the second sailor's kidney beans shrivelled grey; poor ventricular function -> the third sailor's engine-room fan turning weakly; NYHA class IV -> the fourth sailor gasping on the very first stair of the Empire State building; hypernatraemia -> the fifth sailor happily eating a plate heaped with a mountain of salt, well and cheerful
+must: four sailors show the bad omens; the fifth, eating the mountain of salt, is well
+scene: The Red-Hair Pirates' camp at night round a fire. Five sailors, each with a little HART Hotel on his chest from which a huge grey boa constrictor has just been cut away. LEFT, four with bad omens: violet rays from an old lamp on one hotel; withered grey kidney beans on another; a weak, slow fan in the third; the fourth gasping on the very first stair of the Empire State building. CENTRE, dominant and brightest: the fifth sailor happily eating a plate heaped with a mountain of salt, well and cheerful. RIGHT: a Marine officer lecturing; Ben Beckman, a tall calm man with a black ponytail, smoking. Usopp pointing at the salt. Chopper with a list.
+story:
+في معسكر قراصنة ذي الشعر الأحمر، قطعت أفعى البوا العملاقة عن أحواض الفنادق في صدور خمسة بحّارة.
+فسألوا تشوبر وهم يتعشّون حول النار: من منّا يسوء حاله بعد العمليّة؟
+«صاحب جبل الملح هذا! الملح الكثير يقتله!» قال أوسوب، وأشار إلى بحّار يأكل صحنًا عليه كومة ملح كبيرة.
+فأخرج تشوبر قائمة النذر السيّئة، فلم يجد فيها كثرة الملح، بل قلّته.
+ووجد فيها الأشعّة البنفسجيّة القديمة، وحبّتي الفاصولياء الذابلتين، والمروحة الضعيفة، واللّهاث على أوّل درجة من ناطحة السحاب.
+«الأشعّة والفاصولياء الذابلة والمروحة الضعيفة واللّهاث على الدرجة الأولى: هذه نذر السوء؛ أمّا جبل الملح فليس منها!» قال تشوبر.
+وكان ضابط من البحريّة يتفرّج على وليمتهم المالحة، فأخذ يعظهم أنّ القراصنة قوم لا يعرفون أدبًا ولا صحّة.
+فنفث بن بيكمان دخان سيجارته بهدوء، وأجابه كما أجاب اللصوص يومًا في قرية فوشا:
+quote: «لم نزعم يومًا أنّنا قدّيسون!»
+source: بن بيكمان
+explanation:
+Hypernatremia (a high sodium) is not a predictor of poor outcome after pericardiectomy; it is hyponatremia, a low sodium, that predicts a worse result: E.
+In the picture, the sailor eating a mountain of salt is fine, while the bad omens are the others.
+Prior radiation (the violet rays), renal insufficiency (the withered kidney beans), poor ventricular function (the weak fan) and NYHA class IV symptoms (gasping on the first stair) all predict a worse outcome.
+Constriction caused by radiation has the worst long-term survival, because the heart muscle is damaged as well.
+Memory hook: violet rays, grey beans, a weak fan and gasping on the first stair are bad omens; too much salt is not.
+
+== 235
+# book 47.5: hallmarks of constrictive pericarditis, all but -> A, equalization of end-diastolic pressures in the right atrium, left atrium and AORTA.
+# the boa coiled round the aquarium -> constriction (audited boa constrictor)
+# the blue lobby, blue engine room, red lobby and money pipe all at one water line -> equal diastolic pressures (audited dollar)
+# ANSWER: the orca outside the coils, its water far higher -> the aorta is not part of the equalization (audited orca)
+# a line that dips and flattens like a square-root sign -> the dip-and-plateau
+title: Constrictive pericarditis: diastolic pressures equalise, but not in the aorta
+titleAr: التهاب التامور العاصر: تتساوى الضغوط الانبساطيّة إلّا في الأبهر
+tags: cardiac/other d:diagnosis q:recall l:3
+palette: Dressrosa pink, snake grey and waterline blue
+keywords: constrictive pericarditis -> a huge grey boa constrictor coiled tightly round the hotel's aquarium, squeezing it; equalization of diastolic pressures -> the water in the blue lobby, the blue engine room, the red lobby and the pipe of dollar bills all standing at exactly the same line; aorta -> the orca outside the snake's coils, its water standing far higher than that line; square root sign -> a pressure line on a wall screen that dips sharply and then flattens into a plateau, like the sign of a square root; pericardium -> a huge grey boa constrictor coiled tightly round the hotel's aquarium, squeezing it
+must: four rooms share one water line; the orca's water stands far above it
+scene: The kingdom of Dressrosa, pink towers. CENTRE, dominant and brightest: a huge grey boa constrictor coiled tightly round the glass aquarium of the HART Hotel; inside, the water in the blue lobby, the blue engine room, the red lobby and the pipe of dollar bills all stands at exactly the same line; outside the coils, the orca's water stands far higher. On a wall screen, a pressure line that dips sharply and then flattens like a square-root sign. LEFT: Usopp insisting the orca is on the same line. ABOVE, on a balcony: Doflamingo, a tall man in a pink feather coat and sunglasses, grinning. Chopper.
+story:
+في مملكة دريسروزا، التفّت أفعى بوا رماديّة عملاقة حول حوض الفندق، وأخذت تعصره عصرًا.
+فلم تعد الغرف تمتلئ إلّا قليلًا: في أوّل كلّ امتلاء دفعة سريعة، ثمّ يقف الماء كأنّه اصطدم بجدار.
+ورسمت الشاشة على الحائط خطًّا يهبط فجأةً ثمّ يستوي، كعلامة الجذر التربيعيّ.
+وحين نظروا في الغرف، وجدوا الماء في الردهة الزرقاء، وغرفة المحرّك الزرقاء، والرّدهة الحمراء، وأنبوب الدولارات قد وقف عند خطّ واحد.
+«والحوت أيضًا عند الخطّ نفسه! الجميع سواء!» قال أوسوب.
+لكنّ الماء في الحوت القاتل، خارج لفّات الأفعى، كان أعلى من ذلك الخطّ بكثير.
+«الأفعى تسوّي الماء في الردهتين والغرفة الزرقاء وأنبوب الدولارات؛ أمّا الحوت فليس منها!» قال تشوبر.
+فضحك دوفلامينغو من شرفة قصره ضحكته الرفيعة، وهو يرى الأفعى تطبق على الحوض كما يطبق قفصه على المدينة، وقال ما قاله يومًا فوق مارينفورد:
+quote: «الأطفال الّذين لم يعرفوا السلام قطّ، لهم قيم غير قيم الأطفال الّذين لم يعرفوا الحرب قطّ!»
+source: دونكيخوتي دوفلامينغو
+explanation:
+In constrictive pericarditis the diastolic pressures of the right atrium, right ventricle, pulmonary artery and left atrium become equal, but the aorta takes no part in this equalization, so A is the exception.
+In the picture, the boa squeezes the rooms until the blue lobby, the blue engine room, the red lobby and the money pipe share one water line, while the orca stays far above it.
+The ventricular pressure tracing shows a dip and a plateau, the square-root sign, because filling stops abruptly against the rigid shell.
+Right and left ventricular diastolic pressures are equal, and the right ventricular end-diastolic pressure is more than a third of the right ventricular systolic pressure.
+Memory hook: inside the boa's coils every room shares one water line; the orca stays out.
+
+== 236
+# book 48.1: tumour whose primary treatment is not surgical excision -> C, rhabdomyoma.
+# ANSWER: soft white rabbits nesting in the walls of a baby's engine room, shrinking as the baby grows -> rhabdomyomas regress (audited rabbit)
+# the green jelly on its stalk, the sea anemone and the red crabs, all cut out -> myxoma, fibroelastoma, sarcomas are excised (audited jelly, sea anemone, crab)
+title: Rhabdomyoma: the cardiac tumour that is usually left to shrink
+titleAr: الورم العضليّ المخطّط: ورم القلب الذي يُترك عادةً ليضمر وحده
+tags: cardiac/other cardiac/congenital d:indications q:recall l:2
+palette: Shimotsuki village dawn, rabbit white and bamboo green
+keywords: rhabdomyoma -> soft white rabbits nesting in the walls of a baby's engine room, shrinking as the baby grows; myxoma -> a wobbling ball of green jelly on a stalk lifted out of a sailor's lobby; papillary fibroelastoma -> a small pale sea anemone snipped off a valve door; sarcoma -> red crabs cut out of another hotel's wall; growth -> a height chart on the wall, the baby taller each month and the rabbits smaller
+must: the rabbits are left alone and shrink as the baby grows; the jelly, the anemone and the crabs are cut out
+scene: Shimotsuki Village at dawn, a bamboo dojo. CENTRE, dominant and brightest: a baby in a cradle with a little HART Hotel on his chest, soft white rabbits nesting in the walls of its engine room, shrinking; a height chart on the wall shows the baby taller each month and the rabbits smaller. LEFT, on a tray already removed: a ball of green jelly on a stalk, a small pale sea anemone and two red crabs. RIGHT: the baby's grandfather, an old swordsman, laying his sword in the cradle; Roronoa Zoro, the green-haired swordsman, watching quietly. Usopp holding out a scalpel. Chopper.
+story:
+في قرية شيموتسوكي، قرية زورو الأولى، أحضرت أمّ رضيعها إلى تشوبر.
+فإذا في جدران غرفة المحرّك في فندقه أرانب بيضاء ناعمة، قد بنت أعشاشها هناك.
+وكان تشوبر قد أخرج ذلك اليوم كرة جيلي خضراء على عنق من ردهة بحّار، وقصّ شقيقة نعمان بحريّةً شاحبةً عن باب آخر، وقطع سرطانات حمراء من جدار ثالث.
+«وهذه الأرانب أيضًا؛ اقطعها كلّها!» قال أوسوب، ومدّ إليه المشرط.
+ورفع جدّ الطفل، وهو سيّاف عجوز، سيفه يريد أن يقطعها بنفسه.
+لكنّ تشوبر أوقفهما، وأراهما لوح الطول على الحائط: كلّما كبر الطفل شهرًا، صغرت الأرانب وانكمشت وحدها.
+«الجيلي وشقيقة النعمان والسّرطانات تقطع؛ أمّا أرانب الرضيع فتصغر وحدها كلّما كبر!» قال تشوبر.
+فأغمد الجدّ سيفه، ووضعه في مهد حفيده، ليحمله يوم يكبر.
+فتذكّر زورو، في هذه القرية نفسها، يوم وضع معلّمه كوشيرو بين يديه سيف صديقته كوينا بعد موتها، وقال له:
+quote: «السيف لك؛ أترك روحها وأحلامها بين يديك.»
+source: كوشيرو
+explanation:
+Rhabdomyoma is the tumour whose primary treatment is not surgical excision: most regress on their own in early childhood: C.
+In the picture, the soft white rabbits in the baby's engine-room walls shrink as the baby grows.
+Rhabdomyomas are the commonest cardiac tumours of infancy and are strongly linked to tuberous sclerosis; surgery is kept for those that obstruct blood flow or cause arrhythmias that cannot be controlled.
+Myxomas (the green jelly on its stalk), papillary fibroelastomas (the sea anemone) and sarcomas such as liposarcoma and rhabdomyosarcoma (the red crabs) are excised.
+Memory hook: cut the jelly, the anemone and the crabs; let the baby's rabbits shrink.
+
+== 237
+# book 48.2: a 10-year-old with syncope and dyspnoea, a calcified LV mass involving the papillary muscles (fibroma) -> D, partial resection.
+# a hard white lump of gristle flecked with chalk in the red engine room's wall, grown round the red pillars -> fibroma involving the papillary muscles (audited pillar)
+# ANSWER: Zoro carving away most of the lump and leaving the part wrapped round the pillars -> partial resection
+# Usopp's ideas: lift the hotel out of its flowerpot, or bring a new one -> autotransplantation, transplantation (B, C wrong) (audited flowerpot)
+title: A fibroma entangled with the papillary muscles: partial resection
+titleAr: الورم الليفيّ الملتفّ على العضلات الحليميّة: استئصال جزئيّ
+tags: cardiac/other cardiac/congenital d:indications q:vignette l:3
+palette: Syrup Village green hills, chalk white and pillar red
+note: Complete resection is preferred when it can be done safely; for a fibroma woven into the papillary muscles the book's answer is partial resection.
+keywords: cardiac fibroma -> a hard white lump of gristle flecked with chalk in the wall of the red engine room, grown round the red pillars; papillary muscles -> the thick red pillars rising from the floor of the engine room, holding the golden harp strings; partial resection -> Roronoa Zoro carving away most of the lump with one sword, leaving the part wrapped round the pillars; heart transplantation -> Usopp's gardener carrying a new hotel in a terracotta flowerpot, sent away; chordae -> the thick red pillars rising from the floor of the engine room, holding the golden harp strings
+must: most of the lump is carved away; the part wrapped round the pillars is left
+scene: A quiet house in Syrup Village. CENTRE, dominant and brightest: a ten-year-old boy lying on a couch, a little HART Hotel on his chest: in the wall of its red engine room a hard white lump of gristle flecked with chalk has grown round the thick red pillars that hold the golden harp strings; Roronoa Zoro, the green-haired swordsman, carving away most of the lump with one sword, leaving the part wrapped round the pillars. LEFT: Usopp with a gardener carrying a new hotel in a terracotta flowerpot. RIGHT: villagers whispering. Chopper.
+story:
+في قرية سيروب، ركض صبيّ في العاشرة وراء أصحابه، فلهث وسقط مغشيًّا عليه.
+فإذا في جدار غرفة المحرّك الحمراء عنده كتلة بيضاء صلبة كالغضروف، تلمع فيها نقط من الطباشير، قد نبتت حول الأعمدة الحمراء.
+«نقلعها كلّها! نخرج الفندق من أصيصه، أو نأتي بفندق جديد!» قال أوسوب.
+لكنّ الكتلة كانت ملتفّةً على الأعمدة الّتي تمسك أوتار القيثارة؛ إن قلعت كلّها سقط تاج الأسقف.
+فاستلّ زورو سيفًا واحدًا، ونحت من الكتلة معظمها، وترك الجزء الملتفّ على الأعمدة.
+فاتّسعت الغرفة، وعاد الصبيّ يركض ويتنفّس.
+«كتلة الطباشير ينحت أكثرها، ويترك ما التفّ على الأعمدة!» قال تشوبر.
+لكنّ أهل القرية أخذوا يتهامسون أنّ السيّاف ترك نصف عمله ناقصًا.
+فأغمد زورو سيفه بلا مبالاة، وقال ما قاله للوفي يوم وجده مربوطًا في ساحة البحريّة:
+quote: «ليقل الناس عنّي ما شاؤوا؛ ما فعلت في حياتي شيئًا واحدًا أندم عليه!»
+source: رورونوا زورو
+explanation:
+The calcified left ventricular mass involving the papillary muscles in this child is a fibroma, and the best management is partial resection of the mass: D.
+Fibromas are firm, often calcified and do not regress; removing most of the tumour relieves the obstruction and the arrhythmias, even when the part woven into the papillary muscles must be left.
+In the picture, Zoro carves away most of the chalky lump and leaves the part wrapped round the pillars that hold the harp strings.
+Medicines do not shrink a fibroma, anticoagulation does not treat it, and autotransplantation or heart transplantation is kept for tumours that cannot be dealt with otherwise.
+Memory hook: carve away the chalky lump, but leave what grips the pillars.
+
+== 238
+# book 48.3: a pedunculated left atrial mass on a short stalk from the septum (myxoma) -> A, proceed to surgery.
+# a ball of green jelly on a stalk hanging from the clock on the party wall into the red lobby, swinging into the mitre's doorway -> left atrial myxoma (audited jelly)
+# a piece breaking off and rolling like a bowling ball toward the head lantern -> embolism (audited bowling ball)
+# Usopp's pile of requests (cat, magnet, photographer, six months of pills) -> more imaging, medical therapy (B-E wrong)
+title: Left atrial myxoma: proceed to surgery
+titleAr: الورم المخاطيّ في الأذين الأيسر: إلى الجراحة مباشرة
+tags: cardiac/other d:indications q:vignette l:2 x:high-yield
+palette: Punk Hazard fire red, ice blue and jelly green
+keywords: left atrial myxoma -> a wobbling ball of green jelly on a short stalk hanging from the clock on the party wall into the red lobby, swinging into the bishop's mitre's doorway with each beat; embolism -> a piece of the jelly breaking off and rolling like a black bowling ball toward the head-shaped lantern; surgical excision -> Chopper lifting the whole jelly out by its stalk, with the patch of wall it grows from; more imaging -> Usopp holding up a pile of requests for the cat, the horseshoe magnet, the photographer and six months of pills; mitral valve -> a wobbling ball of green jelly on a short stalk hangs from the clock on the party wall and swings into the bishop's mitre's doorway with each beat
+must: the jelly swings into the mitre's doorway; Chopper lifts it out whole now, and Usopp's pile of requests is set aside
+scene: Punk Hazard, half fire and half ice. CENTRE, dominant and brightest: in the red lobby of a HART Hotel, a wobbling ball of green jelly on a short stalk hangs from the clock on the party wall and swings into the bishop's mitre's doorway with each beat; Chopper, the little reindeer doctor, lifting it out whole by its stalk with the patch of wall it grows from. A small piece that broke off earlier rolls like a black bowling ball toward the head-shaped lantern. LEFT: Usopp holding up a pile of requests for the cat, the horseshoe magnet, the photographer and six months of pills. RIGHT: Luffy, the straw-hatted captain, laughing.
+story:
+على جزيرة بانك هازارد، نصفها نار ونصفها جليد، جاءت بحّارة في الثانية والأربعين تلهث إذا مشت.
+فإذا في ردهتها الحمراء كرة من الجيلي الأخضر على عنق قصير، معلّقة بساعة الجدار الفاصل، تتأرجح مع كلّ دقّة إلى باب تاج الأسقف.
+«نسأل القطّة والمغناطيس والمصوّر أوّلًا، وننتظر ستّة أشهر على الدواء!» قال أوسوب، ورفع كومةً من الطلبات.
+لكنّ الكرة ظلّت تتأرجح، وانفصلت منها قطعة صغيرة تدحرجت ككرة بولينغ سوداء نحو الفانوس الّذي على هيئة رأس.
+«لا ننتظر شيئًا! كرة الجيلي تخرج الآن!» صاح تشوبر.
+ففتح الردهة، وأمسك الكرة من عنقها، وقطع معها قطعةً من الجدار الّذي نبتت فيه، وأخرجها كاملةً لم تتفتّت.
+«كرة الجيلي على عنقها لا تنتظر الفحوص: تخرج كاملةً، ومعها قاعدتها!» قال تشوبر.
+فضحك لوفي من أوسوب وكومة طلباته، وقال ما قاله لشانكس يوم قرّر ألّا ينتظر إذن أحد:
+quote: «لن أتوسّل إليك هذه المرّة أن تأخذني معك؛ سأصير قرصانًا بنفسي!»
+source: مونكي دي لوفي
+explanation:
+A pedunculated left atrial mass on a stalk from the interatrial septum is almost certainly a myxoma, and the right management is prompt surgical excision: A.
+Myxomas can embolise or block the mitral valve at any time, the jelly swinging into the mitre's doorway and pieces rolling toward the head lantern, so the operation should not wait for more imaging.
+The tumour is removed whole, without breaking it, together with the patch of septum it grows from: the jelly lifted out with its base.
+CT, MRI and angiography add little once echocardiography has shown the typical mass, and medicines with a repeat scan in six months only leave the risk in place.
+Memory hook: a jelly ball on a stalk does not wait for tests.
+
+== 239
+# book 48.4: therapy of cardiac sarcoma with the longest survival -> D, resection using the autotransplantation technique.
+# a red crab deep in the back wall of the red lobby -> cardiac sarcoma (audited crab)
+# ANSWER: Law lifting the whole hotel out of its flowerpot, cutting the whole crab out on the bench, setting it back into the SAME pot -> autotransplantation (audited flowerpot)
+# the green potion, the violet rays and a quick scoop leaving the legs -> chemotherapy, radiation, debulking (A, B, C, E wrong) (audited potion, violet ray)
+title: Cardiac sarcoma: resection by autotransplantation gives the longest survival
+titleAr: الساركوما القلبيّة: الاستئصال بالزرع الذاتيّ يعطي أطول بقاء
+tags: cardiac/other d:technique q:recall l:3
+palette: Wano castle ruins grey, flowerpot terracotta and crab red
+keywords: sarcoma of the left atrium -> a red crab clinging deep in the back wall of the red lobby; autotransplantation -> the whole HART Hotel lifted out of its terracotta flowerpot, the crab cut out whole on the workbench, and the hotel set back into the same flowerpot; chemotherapy -> a chemist's flask of bubbling poison-green potion poured into the river; radiotherapy -> a lamp shooting thin violet rays at the crab; debulking -> a quick scoop of the crab's body that leaves its legs in the wall
+must: the hotel goes back into the SAME flowerpot after the whole crab is cut out on the bench
+scene: The ruins of a castle in Wano. CENTRE, dominant and brightest: Trafalgar Law, a lean surgeon in a spotted fur hat with a long sword, having lifted the whole HART Hotel out of its terracotta flowerpot onto a workbench, cutting a red crab whole out of the back wall of the red lobby, the same empty flowerpot waiting beside him. LEFT: Usopp with a flask of bubbling green potion and a lamp of violet rays, and a scoop that left crab legs behind. RIGHT: Luffy, the straw-hatted captain, clapping. Chopper.
+story:
+في قلعة مهدّمة بأرض وانو، كان في جدار الردهة الحمراء عند بحّار سرطان أحمر، قد غرس مخالبه عميقًا في الجدار الخلفيّ.
+«نسقيه جرعةً خضراء، ونسلّط عليه الأشعّة البنفسجيّة!» قال أوسوب، ففعل، فانكمش السرطان قليلًا ثمّ عاد يكبر.
+«إذن أغرف جسمه بمغرفة سريعة!» قال ثانيةً، فبقيت أرجل السرطان في الجدار، ونبت لها جسم جديد.
+عندها جاء ترافلغار لو، الجرّاح ذو القبّعة المرقّطة والسّيف الطويل.
+فرفع الفندق كلّه من أصيصه الفخّاريّ، ووضعه على طاولة العمل، حيث يرى الجدار الخلفيّ واضحًا.
+فقطع السرطان كلّه بأرجله، ورقع الجدار، ثمّ أعاد الفندق إلى أصيصه نفسه.
+«يرفع الفندق من أصيصه، ويقطع السرطان كلّه على الطاولة، ثمّ يعود إلى أصيصه نفسه: هكذا يطول العمر!» قال تشوبر.
+فصفّق لوفي للجرّاح السيّاف، ودعاه إلى طاقمه، وقال له ما قاله لزورو يوم سمع حلمه أوّل مرّة:
+quote: «أعظم مبارز في العالم؟ يبدو هذا جميلًا! فملك القراصنة لا يرضى في طاقمه بأقلّ من الأفضل!»
+source: مونكي دي لوفي
+explanation:
+Of the options, complete resection using the autotransplantation technique is associated with the longest survival in cardiac sarcoma: D.
+The heart is removed, the tumour is excised on the bench with clear margins and the chambers rebuilt, and the heart is put back: the hotel lifted out of its flowerpot, the crab cut out on the workbench, and the hotel set back into its own pot.
+Survival in cardiac sarcoma depends above all on complete resection, which autotransplantation makes possible for tumours on the back of the left atrium.
+Chemotherapy (the green potion) and radiation (the violet rays) alone are palliative, and debulking that leaves tumour behind, the crab's legs left in the wall, gives only short relief.
+Memory hook: lift the hotel out, cut the whole crab off on the bench, and put the hotel back in its own pot.
+
+== 240
+# book 48.5: what makes a primary cardiac sarcoma unresectable -> A, involvement of the mitral valve annulus.
+# crabs cut out of two thirds of the red lobby wall, two thirds of the blue lobby wall and the blue engine room's outer wall, and the orca's mouth replaced -> resectable (audited crab, mouth)
+# ANSWER: a crab fused with the brass collar round the mitre and the hotel's frame -> unresectable (audited collar)
+title: A cardiac sarcoma that involves the mitral annulus is unresectable
+titleAr: الساركوما القلبيّة التي تصيب حلقة الصمّام التاجيّ غير قابلة للاستئصال
+tags: cardiac/other d:indications q:recall l:3
+palette: Kuraigana gloom grey, castle black and crab red
+note: With autotransplantation some surgeons have rebuilt the mitral annulus too; the book counts its involvement as making the tumour unresectable, and its key is kept.
+keywords: primary sarcoma of the heart -> red crabs in the walls of five hotels; mitral annulus involvement -> a red crab gripping the brass collar round the bishop's mitre, fused into the hotel's frame, which no blade can free; two thirds of a lobby wall -> crabs cut out of two thirds of the red lobby wall and two thirds of the blue lobby wall, the walls patched with cow leather; right ventricular free wall -> a crab cut out of the outer wall of the blue engine room, beside its big fan, and patched; aortic valve -> the orca's mouth replaced after its crab was cut away
+must: four crabs are cut out and patched; the crab fused to the mitre's brass collar cannot be freed
+scene: Kuraigana Island, grey gloom, Mihawk's dark castle on the hill. LEFT, in a row: four HART Hotels whose red crabs have been cut out: from two thirds of the red lobby wall, from two thirds of the blue lobby wall (both patched with cow leather), from the blue engine room's outer wall, and from the orca's mouth, which has been replaced. CENTRE, dominant and brightest: a fifth hotel where a red crab grips the brass collar round the bishop's mitre and is fused into the hotel's frame; Roronoa Zoro, the green-haired swordsman, lowering his three swords, gripping the white-hilted one and looking up at the castle. Usopp urging him on. Chopper.
+story:
+في جزيرة كورايغانا المظلمة، قرب قلعة أقوى سيّاف في العالم، جاء خمسة بحّارة في جدران فنادقهم سرطانات حمراء.
+فقطع تشوبر السرطان من ثلثي جدار الردهة الحمراء عند الأوّل، ومن ثلثي جدار الردهة الزرقاء عند الثاني، ورقع الجدارين بجلد البقر.
+وقطعه من جدار غرفة المحرّك الزرقاء الخارجيّ عند الثالث، وأبدل فم الحوت عند الرابع، فنجوا جميعًا.
+أمّا الخامس، فقد أطبق السرطان عنده على الطوق النحاسيّ حول تاج الأسقف، والتحم به وبهيكل الفندق كلّه.
+«سيف زورو يقطع أيّ شيء؛ يفصله عن الطوق في ضربة!» قال أوسوب.
+فاستلّ زورو سيوفه الثلاثة، لكنّه رأى أنّ كلّ ضربة تقطع السرطان ستقطع معه الطوق وهيكل الفندق الّذي يحمل الأبواب كلّها، فأنزل سيوفه.
+«سرطان في الجدران يقطع، وفم الحوت يبدل؛ أمّا سرطان التحم بطوق التاج، فلا يفصله سيف!» قال تشوبر.
+فنظر زورو إلى قلعة معلّمه على التلّ، وشدّ قبضته على سيف كوينا، وأقسم كما أقسم وهو صبيّ يوم فقدها:
+quote: «سأصير أقوى! أقوى ممّا كانت هي! حتّى يبلغ اسمي السماء!»
+source: رورونوا زورو
+explanation:
+Involvement of the mitral valve annulus makes a primary cardiac sarcoma unresectable, because the annulus belongs to the fibrous skeleton of the heart and cannot be removed and rebuilt: A.
+In the picture, the crab fused with the brass collar round the mitre cannot be cut away without breaking the hotel's frame.
+Large parts of the left or right atrial wall can be excised and reconstructed with a patch, the cow-leather patches, and so can the right ventricular free wall.
+An involved aortic valve can be replaced: the orca's new mouth.
+Memory hook: crabs in the walls are cut out; a crab fused to the mitre's collar cannot be freed.

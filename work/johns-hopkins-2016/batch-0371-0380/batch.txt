@@ -1,0 +1,299 @@
+book: johns-hopkins-2016
+# Lessons 371-380 (book 78.2-80.1: aortic stenosis in children; coarctation; interrupted aortic arch; cor triatriatum).
+# Written 2026-11-22, morning. Each story: a hook, a wrong try that fails, the answer acting, a payoff line that names
+# the symbol, and a lead-in that says who speaks the quotation and why it fits.
+# OCR misprints of 371, 374, 375, 378 and 379 are mended by the book's 'typos' map ("1 00-kg 1 8-year-old", "q 1 1").
+# Quotations added 2026-11-22 (the owner left the choice to the agent: "make anything strong and consistent"):
+# a One Piece line (at most three uses, 20 lessons apart) or a classical Arabic line read out by Robin; see ../quote-bank.md.
+
+== 371
+# book 78.2: next step for a neonate in shock with critical bicuspid AS -> B, prostaglandin, inotropes and assessment of the left-sided structures.
+# ANSWER: in Kureha's castle, Chopper raises the beer stein to reopen the duct-tape tunnel, lights a few careful fireworks, and sends the bat to measure the red rooms before choosing a road (audited stein, firework, bat, bicycle, stone)
+# Usopp's balloon rushed into the stone mouth at once, before anyone knows whether the red rooms are big enough (A wrong)
+title: Critical neonatal aortic stenosis in shock: prostaglandin, inotropes, then assess the left heart
+titleAr: تضيّق الأبهر الحرج عند الوليد في الصدمة: بروستاغلاندين ومقوّيات ثمّ تقييم القلب الأيسر
+tags: cardiac/congenital d:indications q:next-step l:3
+palette: Drum Island snow white, stein gold and lobby red
+keywords: critical aortic stenosis -> the orca balloon's mouth turned to grey stone and pinched to a narrow slit, a bicycle wedged in it for its two lips; shock -> the big round pressure gauge with its needle sunk deep into the low blue zone; prostaglandin -> a raised beer stein, "Prost!", propping the duct-tape tunnel open so the city is fed; inotropic support -> a few lit red firework rockets, used with care; assessment of the left-sided structures -> the bat sending rings of sound to measure the red lobby, the red engine room and the orca before a road is chosen; immediate balloon dilation -> Usopp rushing in with a balloon on a wire, held back; ductus arteriosus -> Chopper raising a beer stein that props a tunnel of shiny silver duct tape open
+must: the beer stein, the careful fireworks and the bat measuring the red rooms come first; the balloon waits
+scene: Dr Kureha's castle on snowy Drum Island. CENTRE, dominant and brightest: a newborn's HART Hotel whose orca mouth is grey stone with a bicycle wedged in it, the pressure gauge sunk deep into the blue; Chopper raising a beer stein that props a tunnel of shiny silver duct tape open, a few lit red firework rockets beside him, and a bat sending rings of sound to measure the red lobby, the red engine room and the orca. LEFT: Usopp rushing in with a balloon on a wire, held back by Kureha.
+story:
+في قلعة الدكتورة كوريها على جزيرة درام المثلجة، جيء بوليد في صدمة: فم حوته حجر رماديّ ضيّق علقت فيه درّاجة، وإبرة مقياسه غائصة في الأزرق.
+«البالون الآن! ننفخه في الفم الحجريّ في الحال!» صاح أوسوب، واندفع ببالون على سلك.
+«مكانك يا فتى! من ينفخ قبل أن يعرف ما وراء الباب؟» قالت كوريها، وأمسكته من ياقته.
+فرفع تشوبر كأس الجعة، فانفتح نفق الشريط اللاصق، وعاد الماء يطعم المدينة.
+وأشعل بحذر صواريخ ناريّةً قليلة، فأخذت إبرة المقياس تصعد.
+ثمّ أطلق الخفّاش يقيس بحلقات صوته الردهة الحمراء والغرفة الحمراء والحوت: هل تكفي لتحمل المدينة وحدها؟
+«الكأس، والصّواريخ بحذر، ثمّ الخفّاش يقيس؛ وبعد ذلك البالون!» قال تشوبر.
+فأفلتت كوريها ياقة أوسوب، ونظرت إلى تشوبر بفخر، وقالت:
+quote: «اذهب يا بنيّ!»
+source: الدكتورة كوريها
+explanation:
+For a neonate in shock with critical aortic stenosis, the next step is prostaglandin, appropriate inotropic support and evaluation of the adequacy of the left-sided structures: B.
+Prostaglandin reopens the ductus so the right ventricle can supply the body, and the infant is resuscitated before any procedure.
+Echocardiography then decides whether the left ventricle, mitral valve and aorta can support a biventricular circulation (scores such as Rhodes) or whether a single-ventricle (Norwood) route is needed.
+Balloon or surgical valvotomy comes after that decision, not before it.
+In the picture, the beer stein, the careful fireworks and the bat's measurements come first, and Usopp's balloon waits.
+Memory hook: stein, fireworks, and the bat measures before the balloon.
+
+== 372
+# book 78.3: surgery for discrete valvar AS is indicated when -> A, the echo mean gradient is over 40 mm Hg.
+# ANSWER: at the soldier dock of the Sunny, the gauge across the stone orca mouth reads a mean of more than 40, and Franky reaches for his tools (audited stone, mouth, gauge)
+title: Intervention for valvar aortic stenosis is indicated when the mean gradient exceeds 40 mm Hg
+titleAr: يُستطبّ التدخّل في تضيّق الصمّام الأبهريّ حين يتجاوز متوسّط الفرق 40 مم زئبق
+tags: cardiac/aortic-valve d:indications q:numbers l:2
+palette: dock steel, gauge red and stone grey
+words: 40
+keywords: valvar aortic stenosis -> the orca balloon's mouth turned to grey stone and pinched to a narrow slit; mean gradient over 40 mm Hg -> a pressure gauge across the stone mouth reading a mean of more than 40, Franky reaching for his tools; mean gradient of 25 -> a second gauge reading 25, its owner sent home to be watched; left ventricular hypertrophy -> the red engine room's walls thickened round its fan, not enough alone; aorta -> a HART Hotel whose orca mouth is grey stone pinched to a narrow slit; aortic valve replacement -> a dentist beside Franky holding a set of brand-new dentures for the stone mouth
+must: Franky reaches for his tools only when the gauge reads above 40
+scene: The soldier dock under the Thousand Sunny. CENTRE, dominant and brightest: a HART Hotel whose orca mouth is grey stone pinched to a narrow slit, a pressure gauge across it reading above 40, and Franky, the blue-haired cyborg shipwright, reaching for his tools. AROUND, dimmer: a second hotel whose gauge reads 25, its owner waved home to be watched; a red engine room with thick walls. Beside Franky, a dentist holds a set of brand-new dentures for the stone mouth. LEFT: Usopp pointing at the 25. Chopper.
+story:
+في حوض الجنود تحت الثاوزند صني، جيء بفندقين صغيرين فم حوت كلّ منهما حجر رماديّ ضيّق.
+فعلّق تشوبر على كلّ فم مقياسًا يقيس فرق الضغط بين الغرفة والحوت.
+«هذا مقياسه خمسة وعشرون؛ أسرع يا فرانكي، أصلحه الآن!» قال أوسوب.
+لكنّ فرانكي لوّح لصاحبه أن يعود إلى البيت، ويرجع للفحص بعد حين.
+وحتّى الجدران الغليظة حول مروحة الغرفة الحمراء لم تكن وحدها سببًا للعمل.
+أمّا الفندق الثاني، فكان مقياسه يقرأ أكثر من أربعين؛ فمدّ فرانكي يده إلى أدواته، وتقدّم طبيب الأسنان بطقم أسنان جديد للفم الحجريّ.
+«أربعون على المقياس، فتخرج الأدوات!» قال تشوبر.
+فعاد صاحب الفندق الأوّل إلى بيته مطمئنًّا، وقالت روبين مثلًا قديمًا:
+quote: «لكلّ حادث حديث.»
+source: مثل عربيّ
+explanation:
+Surgical intervention for discrete valvar aortic stenosis is indicated when the echocardiographic mean gradient is >40 mm Hg: A.
+In children the usual threshold is a mean gradient above 40 mm Hg (or a peak gradient around 60 to 70 mm Hg), or less if there are symptoms, ischaemia on the ECG or falling ventricular function.
+A gradient of 25 mm Hg, or hypertrophy alone, calls for follow-up rather than intervention, and mixed stenosis and regurgitation is weighed case by case.
+In the picture, Franky reaches for his tools only when the gauge across the stone mouth reads above 40.
+Memory hook: forty on the gauge, and the tools come out.
+
+== 373
+# book 78.4: advantage of the Ross over a bioprosthesis -> A, the autograft can grow.
+# ANSWER: in the rose gardens of Dressrosa, the red rose moved into the child's orca mouth keeps growing with the child, while the tissue box stays the same size (audited rose, tissue box)
+title: The Ross autograft can grow, unlike a bioprosthesis
+titleAr: الطعم الذاتيّ في عمليّة روس ينمو، بخلاف الصمّام الحيويّ الصناعيّ
+tags: cardiac/aortic-valve d:technique q:recall l:2
+palette: Dressrosa rose red, garden green and tissue white
+keywords: Ross operation -> a gardener moving a red rose from the mouth of the pipe of dollar bills to the orca balloon's mouth; growth potential -> the rose in the child's orca mouth growing bigger as the child grows, year after year; bioprosthetic valve -> a soft paper tissue box set in as the valve, staying the same size while the child grows; reintervention -> the money pipe's new valve needing replacement later; aorta -> a gardener's red rose set in a child's orca mouth
+must: the rose grows with the child, while the tissue box stays small
+scene: The rose gardens of Dressrosa. CENTRE, dominant and brightest: a gardener's red rose set in a child's orca mouth, growing bigger as the child grows taller, three stages side by side. AROUND, dimmer: another child's orca mouth with a soft paper tissue box that stays the same small size as he grows. LEFT: Usopp. Chopper.
+story:
+في حدائق الورد بدريسروزا، جيء بطفلين صغيرين فم حوت كلّ منهما معطّل.
+فوضع الطبيب في فم الأوّل علبة مناديل ورقيّةً ناعمة، ونقل البستانيّ إلى فم الثاني وردةً حمراء من فم أنبوب الدولارات.
+«العلبة والوردة سواء؛ كلاهما باب جديد!» قال أوسوب.
+لكنّ السنين مرّت، وكبر الطفلان؛ فبقيت العلبة بحجمها الصغير، تضيق على الحوت الّذي يكبر.
+أمّا الوردة، فكانت تكبر مع الطفل عامًا بعد عام، لأنّها حيّة من لحمه.
+وإن كانت تحتاج إلى بستانيّ يزور فم أنبوب الدولارات من حين إلى حين.
+«الوردة تكبر، والعلبة لا تكبر!» قال تشوبر.
+فشمّ الطفل وردته الحيّة، وقالت روبين مثلًا قديمًا:
+quote: «من شبّ على شيء شاب عليه.»
+source: مثل عربيّ
+explanation:
+The Ross autograft possesses growth potential, an advantage over a bioprosthetic valve: A.
+The patient's own pulmonary valve, moved into the aortic position, is living tissue and grows with the child, while a bioprosthesis cannot grow and degenerates quickly in the young.
+Neither needs long-term anticoagulation, but the Ross takes longer on bypass and brings later reinterventions on the pulmonary conduit and sometimes the autograft.
+In the picture, the rose grows with the child, while the tissue box stays small.
+Memory hook: the rose grows; the tissue box does not.
+
+== 374
+# book 78.5: a 100-kg 18-year-old with a 19-mm aortic annulus -> B, enlarge the annulus posteriorly and re-size.
+# ANSWER: in Little Garden, the brass collar round the giant teenager's orca mouth is widened at the back so that full-size dentures fit; the tiny child-size dentures are put away (audited collar, mouth, child-size dentures)
+# a 19-mm valve would be child-size dentures in a giant mouth (A wrong); a Konno opening into the blue room is more than needed (C wrong)
+title: A 19-mm annulus in a 100-kg adult: enlarge the annulus posteriorly to avoid mismatch
+titleAr: حلقة أبهريّة 19 مم عند بالغ وزنه 100 كغ: توسيع الحلقة من الخلف لتجنّب عدم التوافق
+tags: cardiac/aortic-valve d:technique q:vignette l:3
+palette: Little Garden jungle green, brass collar gold and denture white
+words: 19
+keywords: aortic annulus -> the brass collar ring round the orca's mouth, too small at 19; patient-prosthesis mismatch -> a set of tiny child-size dentures fitted into the huge orca's mouth of a giant teenager, the water squeezing through, put away; posterior annular enlargement -> the brass collar cut open at the back and widened with a patch, so full-size dentures fit; Konno aortoventriculoplasty -> a bigger cut opening the front into the blue room, not needed; aortic valve replacement -> a full-size set of dentures fitted into the orca's mouth once its brass collar is widened
+must: the collar is widened at the back and full-size dentures fit; the child-size dentures are put away
+scene: Little Garden, a prehistoric jungle where giants fight. CENTRE, dominant and brightest: a giant teenager weighing 100 kg, his orca mouth's brass collar marked 19 being cut open at the back and widened with a patch, a dentist holding full-size dentures ready. AROUND, dimmer: a set of tiny child-size dentures put back in their box; a bigger cut toward the blue room, crossed out. LEFT: Usopp pushing the child-size dentures in. Chopper.
+story:
+في جزيرة ليتل غاردن، حيث يتبارز العمالقة، جاء فتًى عملاق يزن مئة كيلوغرام، ليركّب له الطبيب طقم أسنان جديدًا في فم حوته.
+فقاس تشوبر الطوق النحاسيّ حول الفم، فإذا هو تسعة عشر فقط.
+«نركّب طقمًا صغيرًا على قدر الطوق، وننتهي!» قال أوسوب، وأخذ يدفع طقم أسنان صغيرًا بحجم أسنان الأطفال.
+لكنّ الماء انعصر عند الطقم الصغير، ولم يكف جسمًا بحجم هذا الفتى.
+فقصّ تشوبر الطوق من خلفه، ووسّعه برقعة، ثمّ قاسه من جديد.
+فدخل طقم الأسنان الكامل بسهولة، وتركوا الشقّ الأماميّ الكبير نحو الغرفة الزرقاء لمن يحتاجه حقًّا.
+«العملاق يحتاج طوقًا أوسع، لا طقم أسنان طفل!» قال تشوبر.
+فضحك الفتى العملاق ضحكةً هزّت الجزيرة، وقرأت روبين بيتًا للمتنبّي:
+quote: «وإذا كانت النفوس كبارا، تعبت في مرادها الأجسام.»
+source: المتنبّي
+explanation:
+With a 19-mm annulus in a 100-kg 18-year-old, the most reasonable step is a posterior annular enlarging procedure and re-sizing: B.
+A 19-mm prosthesis in a large adult would cause severe patient-prosthesis mismatch, with a high gradient and poor long-term results.
+A posterior enlargement (Nicks or Manouguian) widens the annulus by one or two valve sizes; a Konno operation, opening the septum and right ventricular outflow, is kept for more severe tunnel or annular hypoplasia.
+In the picture, the collar is widened at the back so full-size dentures fit, and the child-size dentures are put away.
+Memory hook: a giant needs a wider collar, not child-size dentures.
+
+== 375
+# book 79.1: NOT associated with coarctation -> C, partial atrioventricular septal defect.
+# ANSWER: at Cricket's house on Jaya, the rope pinching the orca's waist is visited by the hole in the lower wall, the bicycle in the orca's mouth, the Bing-cherry vendor and the parachute mitre; the cross-shaped hole stays away (audited rope, lower party wall, bicycle, cherries, parachute, cross-shaped hole)
+title: Partial AVSD is not associated with coarctation
+titleAr: العيب الأذينيّ البطينيّ الجزئيّ لا يرتبط بتضيّق برزخ الأبهر
+tags: cardiac/congenital d:pathology q:recall l:2
+palette: Jaya jungle green, rope brown and cherry red
+keywords: coarctation -> a rope pinching the orca's waist just past its left flipper; VSD -> a ragged hole knocked through the thick brick lower party wall; bicuspid aortic valve -> a bicycle wedged in the orca's mouth, its two wheels for the two lips; Taussig-Bing anomaly -> a vendor tossing Bing cherries through the hole under the dollar pipe; Shone complex -> the bishop's mitre hanging from a single parachute; partial atrioventricular septal defect -> a big cross-shaped hole where the upper and lower party walls should meet, staying away
+must: the four friends gather round the roped orca; the cross-shaped hole stays far away
+scene: Montblanc Cricket's house on Jaya, a castle facade with nothing behind it. CENTRE, dominant and brightest: an orca balloon with a rope pinching its waist just past its left flipper, and gathered round it: a ragged hole in a lower party wall; a bicycle wedged in the orca's mouth; a vendor tossing Bing cherries; a bishop's mitre hanging from a single parachute. FAR RIGHT, alone: a big cross-shaped hole in a party wall. LEFT: Usopp waving the cross-shaped hole in. Chopper.
+story:
+أمام بيت مونبلان كريكيت على جزيرة جايا، وهو واجهة قلعة لا شيء خلفها، وقف حوت يعصر خصره حبل بعد زعنفته اليسرى.
+فجاء أصدقاؤه المعتادون: ثقب في الجدار السفليّ، ودرّاجة عالقة في فم الحوت.
+ثمّ جاء بائع كرز بينغ، وتاج أسقف يتدلّى من مظلّة هبوط واحدة.
+«والثّقب الصليبيّ أيضًا! تعال، فأنت صديقهم!» نادى أوسوب ثقبًا كبيرًا على شكل صليب.
+لكنّ الثقب الصليبيّ بقي بعيدًا، فليس من أصدقاء الحبل.
+فجلس الأصدقاء الأربعة حول الحوت المربوط، يستمعون إلى كريكيت يحكي عن المدينة الذهبيّة.
+«أصدقاء الحبل: ثقب، ودرّاجة، وكرز، ومظلّة!» قال تشوبر.
+فنظرت روبين إلى الأصدقاء حول الحوت المربوط، وقالت مثلًا قديمًا:
+quote: «إنّ الطيور على أشكالها تقع.»
+source: مثل عربيّ
+explanation:
+Partial atrioventricular septal defect is not associated with coarctation of the aorta: C.
+Coarctation commonly comes with a bicuspid aortic valve, a VSD, the Taussig-Bing anomaly and the left-sided obstructions of the Shone complex, and with Turner syndrome.
+These associations share reduced flow through the left heart and aortic arch before birth, which is not a feature of a partial AV septal defect.
+In the picture, the four friends gather round the roped orca, while the cross-shaped hole stays away.
+Memory hook: the rope's friends are a hole, a bicycle, cherries and a parachute.
+
+== 376
+# book 79.2: correct about catheter treatment of coarctation -> A, nearly 60 percent of neonates dilated with a balloon later need surgery.
+# ANSWER: at Rayleigh's coating yard on Sabaody, of ten newborn orcas whose rope was stretched with a balloon, six later go to the surgeon's table (audited rope)
+# bubble-gum bulges after dilation are far fewer than a quarter (B wrong); the rope comes back after surgery in more than 1 in 20 newborns (C wrong) (audited bubble gum)
+title: Nearly 60 percent of neonates treated by balloon for coarctation later need surgery
+titleAr: نحو 60 في المئة من الولدان المعالَجين بالبالون لتضيّق البرزخ يحتاجون لاحقًا إلى الجراحة
+tags: cardiac/congenital d:evidence q:numbers l:3
+palette: coating-yard bubble blue, rope brown and balloon red
+words: 60%
+keywords: coarctation -> a rope pinching the orca's waist just past its left flipper; balloon dilation in neonates -> a balloon blown up under the rope of ten newborn orcas; later surgical repair in about 60 percent -> six of the ten later carried to the surgeon's table, 60% painted above; aneurysm after dilation -> a small pink bubble-gum bubble on one stretched waist; recoarctation -> the rope tightening again on a few; aorta -> ten newborn orca balloons, each pinched by a rope
+must: six of the ten balloon-stretched newborn orcas go on to the surgeon's table
+scene: Rayleigh's ship-coating yard on Sabaody, bubbles everywhere. CENTRE, dominant and brightest: ten newborn orca balloons whose waists were pinched by a rope and stretched with a red balloon; six of them being carried to a surgeon's table, 60% painted above. AROUND, dimmer: a small pink bubble-gum bubble on one stretched waist; a rope tightening again on another. LEFT: Usopp blowing up a balloon. Chopper.
+story:
+في ساحة رايلي لطلاء السفن على ساباودي، اصطفّت عشرة حيتان ولدت حديثًا، يعصر خصر كلّ منها حبل.
+«ننفخ بالونًا تحت كلّ حبل، فينفكّ إلى الأبد؛ لا حاجة للجرّاح!» قال أوسوب، وأخذ ينفخ البالونات.
+فارتخت الحبال قليلًا؛ لكنّها ما لبثت أن عادت تشتدّ عند أكثرها.
+فحمل ستّة من العشرة بعد ذلك إلى طاولة الجرّاح، يقصّ الحبل ويصل الحوت.
+وعلى خصر واحد منها، انتفخت فقّاعة علكة ورديّة صغيرة.
+أمّا الحبال الّتي عادت بعد جراحة سابقة، فقد فكّها البالون بسهولة أكبر.
+«بالون عند الوليد، ثمّ الجرّاح في ستّة من عشرة!» قال تشوبر.
+فنظر أوسوب إلى طاولة الجرّاح المزدحمة، وقالت روبين مثلًا قديمًا:
+quote: «ما كلّ مرّة تسلم الجرّة.»
+source: مثل عربيّ
+explanation:
+Nearly 60 percent of neonates undergoing balloon angioplasty for coarctation will require subsequent surgical repair: A.
+In newborns the ductal tissue recoils, so dilation gives only temporary relief, and surgery (resection with extended end-to-end anastomosis) is preferred.
+Balloon dilation works well for recurrent coarctation after surgery, with lasting relief in most and restenosis in a minority; aneurysms after dilation occur in a few percent.
+Recoarctation after neonatal surgical repair occurs in roughly 10 percent.
+In the picture, six of the ten balloon-stretched newborn orcas go on to the surgeon's table.
+Memory hook: a balloon in a newborn, the surgeon later in six of ten.
+
+== 377
+# book 79.3: correct about complications after coarctation repair -> B, postcoarctectomy syndrome in 5 to 10 percent.
+# ANSWER: in a noodle stall of Wano, once the rope is cut, the pressure surges into the spaghetti's pipe and the plate turns angry red with belly pain in one diner in ten to twenty (audited rope, spaghetti)
+# raised pressure is common (A wrong); legs going limp are rare, far under 2 percent (C wrong); cutting the treasure-map side paths raises that risk (D wrong)
+title: Postcoarctectomy syndrome occurs in 5 to 10 percent
+titleAr: متلازمة ما بعد استئصال التضيّق تحدث عند 5 إلى 10 في المئة
+tags: cardiac/congenital d:complications q:numbers l:3
+palette: Wano noodle-stall lantern red, spaghetti cream and gauge orange
+words: 5-10%
+keywords: coarctation repair -> the rope pinching the orca's waist cut away; paradoxical hypertension -> the pressure gauge leaping up after the rope is cut; postcoarctectomy syndrome -> the pressure surging into the pipe of a big messy plate of spaghetti (the bowel), the plate turning angry red and the diner clutching his belly, one diner in ten to twenty; paraplegia -> the little brown kiwi on the orca's back starving, and a diner's legs going limp, very rarely; collateral division -> cutting the side paths that fed the lower body
+must: after the rope is cut, the spaghetti plate turns angry red for about one diner in ten to twenty
+scene: A noodle stall in Wano's Flower Capital, red lanterns. CENTRE, dominant and brightest: an orca balloon whose waist rope has just been cut away, its pressure gauge leaping up, and the pressure surging into the pipe of a big messy plate of spaghetti, which turns angry red while the diner clutches his belly; 5-10% painted on the lantern. AROUND, dimmer: a little brown kiwi bird on an orca's back, and one diner among many whose legs go limp. LEFT: Usopp happily slurping. Chopper.
+story:
+في كشك معكرونة بعاصمة الزهور في وانو، قصّ الجرّاح الحبل الّذي كان يعصر خصر الحوت سنين.
+«الآن يجري الماء حرًّا؛ ولن يشكو أحد من شيء!» قال أوسوب، وأخذ يمتصّ المعكرونة سعيدًا.
+لكنّ إبرة المقياس قفزت إلى أعلى، واندفع الضغط في أنبوب صحن المعكرونة الكبير.
+فاحمرّ الصحن غضبًا، وأمسك أحد الآكلين بطنه يتألّم؛ واحد من كلّ عشرة إلى عشرين.
+فأخّر تشوبر طعامه، وأنزل الضغط، حتّى هدأ الصحن.
+وفي الركن، كان طائر كيوي صغير على ظهر الحوت يطعم حبل الظهر؛ فلم ترتخ السيقان إلّا عند واحد نادر جدًّا.
+«اقطع الحبل، فقد تغضب المعكرونة!» قال تشوبر.
+فتوقّف أوسوب عن الأكل مذهولًا، وقرأت روبين بيتًا لطرفة بن العبد:
+quote: «ستبدي لك الأيّام ما كنت جاهلًا، ويأتيك بالأخبار من لم تزوّد.»
+source: طرفة بن العبد
+explanation:
+Postcoarctectomy syndrome occurs in 5 to 10 percent: B.
+After repair, paradoxical hypertension is common, and the sudden pulsatile pressure in the mesenteric arteries can cause an arteritis with abdominal pain, ileus and, rarely, bowel ischaemia; feeding is delayed and blood pressure controlled.
+Spinal cord injury and paraplegia are rare, well under 1 percent, and are more likely with long clamp times, poor collaterals or division of collaterals.
+In the picture, after the rope is cut, the spaghetti plate turns angry red for about one diner in ten to twenty.
+Memory hook: cut the rope, and the spaghetti may fight back.
+
+== 378
+# book 79.4: NOT associated with interrupted aortic arch -> D, subpulmonary stenosis.
+# ANSWER: at the Amazon Lily arena, the cut-in-two orca's companions arrive (Saint George, a hole in the lower wall, the jester's sneaking flipper pipe, the bicycle in the mouth), while the iron clamp on the money pipe stays away (audited cut in two, saint george, lower party wall, jester, bicycle, clamp)
+title: Subpulmonary stenosis is not associated with interrupted aortic arch
+titleAr: تضيّق ما تحت الصمّام الرئويّ لا يرتبط بانقطاع قوس الأبهر
+tags: cardiac/congenital d:pathology q:recall l:3
+palette: Amazon Lily arena stone, cape red and orca blue
+keywords: interrupted aortic arch -> the orca balloon cut in two at its arch, a clear gap between the halves; 22q11 microdeletion -> Saint George on his horse riding past an empty pot of thyme and a knocked-over can of glue; VSD -> a ragged hole knocked through the thick brick lower party wall; aberrant right subclavian artery -> a jester in a belled cap: the right flipper pipe sneaking out last from the orca's back; bicuspid aortic valve -> a bicycle wedged in the orca's mouth; subpulmonary stenosis -> an iron clamp squeezing the pipe of dollar bills just below its door, staying away
+must: Saint George, the hole, the jester and the bicycle gather round the cut orca; the clamp on the money pipe stays away
+scene: The arena of Amazon Lily. CENTRE, dominant and brightest: an orca balloon cut in two at its arch, and gathered round it: Saint George on his horse passing an empty pot of thyme; a ragged hole in a lower party wall; a jester in a belled cap; a bicycle wedged in the orca's mouth. FAR RIGHT, alone: an iron clamp on a pipe of dollar bills. LEFT: Usopp dragging the clamp in. Chopper.
+story:
+في حلبة جزيرة الأمازون ليلي، وقف حوت مقطوع نصفين عند قوسه، ينتظر أصدقاءه.
+فجاء القدّيس جورج على حصانه، يمرّ بأصيص زعتر فارغ، وجاء ثقب في الجدار السفليّ.
+وجاء المهرّج بقبّعة الأجراس يتسلّل بأنبوب الزعنفة اليمنى، ودرّاجة عالقة في فم الحوت.
+«وهذا المشبك على أنبوب الدولارات؛ هاتوه هو الآخر!» قال أوسوب، وأخذ يجرّ المشبك.
+لكنّ المشبك بقي بعيدًا؛ فالطّريق الّذي يضيق عند هذا الحوت هو طريق الحوت نفسه، تحت فمه، لا طريق أنبوب الدولارات.
+فأشارت المحاربات إلى الأصدقاء الأربعة وحدهم، وصفّقن.
+«أصدقاء الحوت المقطوع يضيّقون طريق الحوت، لا طريق المال!» قال تشوبر.
+فابتسمت روبين للحوت المقطوع وأصدقائه، وقالت مثلًا قديمًا:
+quote: «قل لي من تصاحب، أقل لك من أنت.»
+source: مثل عربيّ
+explanation:
+Subpulmonary stenosis is not associated with interrupted aortic arch: D.
+IAA, especially type B, is strongly associated with the 22q11 deletion (DiGeorge), a malalignment VSD, an aberrant right subclavian artery and a bicuspid aortic valve.
+The outflow at risk is the subaortic one, narrowed by the posteriorly deviated conal septum, not the subpulmonary one.
+In the picture, Saint George, the hole, the jester and the bicycle gather round the cut orca, while the clamp on the money pipe stays away.
+Memory hook: the cut orca's friends narrow the orca's road, not the money pipe.
+
+== 379
+# book 79.5: correct about outcomes after IAA repair -> C, five-year survival is about 70 percent.
+# ANSWER: in Baterilla, of ten hotels whose cut orca was joined, seven still stand at their fifth birthday (audited cut in two)
+# hospital deaths are fewer than 15 percent (A wrong); extra defects raise the risk (B wrong); the curtain under the orca's mouth returns in about a quarter, not three quarters (E wrong) (audited curtain)
+title: Five-year survival after interrupted arch repair is about 70 percent
+titleAr: البقاء بعد خمس سنوات من إصلاح انقطاع القوس نحو 70 في المئة
+tags: cardiac/congenital d:evidence q:numbers l:3
+palette: Baterilla seaside sand, candle gold and orca blue
+words: 70%, 5
+keywords: interrupted aortic arch -> the orca balloon cut in two at its arch, a clear gap between the halves; repair -> the two halves joined again; five-year survival about 70 percent -> of ten repaired hotels, seven still standing at their fifth birthday, 70% painted above; coexistent anomalies -> extra defects weighing on some of the fallen; subaortic obstruction -> a shower curtain coming across the doorway below the orca's mouth in about one hotel in four; aorta -> ten orca balloons once cut in two at the arch and joined again
+must: seven of the ten repaired hotels still stand at the fifth birthday
+scene: The seaside village of Baterilla. CENTRE, dominant and brightest: ten HART Hotels whose orca balloons, once cut in two at the arch, have been joined again; seven still standing at a fifth birthday cake, 70% painted above, three fallen. AROUND, dimmer: a shower curtain across a doorway below an orca's mouth in a few of them. LEFT: Usopp. Chopper.
+story:
+في قرية باتريلّا الساحليّة، وقفت عشرة فنادق كان حوت كلّ منها مقطوعًا نصفين، فوصل من جديد.
+«وصلت كلّها؛ إذن ستبلغ كلّها عيدها الخامس!» قال أوسوب.
+فلمّا أوقدت الشمعة الخامسة، كانت سبعة من العشرة قائمة، وثلاثة قد سقطت.
+وكان عند الساقطة عيوب أخرى تثقلها، في جدرانها وأبوابها.
+وعند نحو فندق من كلّ أربعة، عادت ستارة حمّام تمتدّ تحت فم الحوت، فاحتاج إلى عمليّة أخرى.
+فأطفأ أوسوب الشمعة الخامسة بصمت، ووضع زهرةً لكلّ فندق سقط.
+«سبعة حيتان مقطوعة من عشرة تبلغ العيد الخامس!» قال تشوبر.
+وفي صمت الشموع، تذكّر أوسوب كلمة إيس الأخيرة:
+quote: «شكرًا لكم... لأنّكم أحببتموني!»
+source: بورتغاس دي إيس
+explanation:
+Five-year survival after repair of interrupted aortic arch is about 70 percent: C.
+Early mortality has fallen, and survival is limited mostly by associated anomalies, such as complex intracardiac defects and subaortic obstruction.
+Late reintervention is common: arch obstruction can recur after any technique, and left ventricular outflow obstruction develops in about a quarter of patients.
+In the picture, seven of the ten repaired hotels still stand at their fifth birthday.
+Memory hook: seven cut orcas in ten reach the fifth birthday.
+
+== 380
+# book 80.1: NOT associated with a subdivided left atrium (cor triatriatum) -> E, pulmonary stenosis.
+# ANSWER: in a glass greenhouse at Kokoyashi, the third atrium lobby's companions arrive (a hole in the lower wall, the cross-shaped hole, the Tetris piece, the second chimney), while the iron clamp on the money pipe stays away (audited third atrium lobby, lower party wall, cross-shaped hole, tetris, second chimney, clamp)
+title: Pulmonary stenosis is not associated with cor triatriatum
+titleAr: تضيّق الصمّام الرئويّ لا يرتبط بالأذين الثلاثيّ
+tags: cardiac/congenital d:pathology q:recall l:3
+palette: greenhouse glass, tangerine orange and lobby red
+keywords: cor triatriatum -> a third atrium lobby made by an extra glass partition across the red lobby, the money pipes emptying above it; VSD -> a ragged hole knocked through the thick brick lower party wall; partial atrioventricular septal defect -> a big cross-shaped hole where the upper and lower party walls should meet; tetralogy of Fallot -> a giant falling Tetris piece of four glowing blocks; left superior vena cava -> a second chimney on the left side of the hotel draining into the sink; pulmonary stenosis -> the pipe of dollar bills squeezed narrow by an iron clamp, staying away
+must: the four companions gather round the third lobby; the clamp on the money pipe stays away
+scene: A glass greenhouse among the tangerine groves of Kokoyashi. CENTRE, dominant and brightest: a HART Hotel whose red lobby is divided by an extra glass partition into a third atrium lobby, the money pipes emptying above it, and gathered round it: a ragged hole in a lower party wall; a big cross-shaped hole; a giant Tetris piece; a second chimney on the hotel's left side. FAR RIGHT, alone: an iron clamp on a pipe of dollar bills. LEFT: Usopp. Chopper.
+story:
+في بيت زجاجيّ بين بساتين كوكوياشي، كانت ردهة فندق حمراء مقسومةً بحاجز زجاجيّ إضافيّ، يصنع ردهةً ثالثةً تصبّ فيها أنابيب الدولارات.
+فجاء أصدقاء الردهة الثالثة واحدًا بعد آخر: ثقب في الجدار السفليّ، وثقب كبير على شكل صليب.
+ثمّ قطعة تتريس عملاقة، ومدخنة ثانية على يسار الفندق تصبّ في المغسلة.
+«والمشبك الحديديّ على أنبوب الدولارات أيضًا؛ أدعوه إلى البيت الزجاجيّ!» قال أوسوب.
+لكنّ المشبك بقي خارجًا بين أشجار اليوسفيّ، فليس من هذه الصحبة.
+وكانت فتحة الحاجز الزجاجيّ ضيّقة، فانتظر الماء خلفها، وتبلّلت أكياس الدولارات.
+«أصدقاء الردهة الثالثة: ثقب، وصليب، وتتريس، ومدخنة ثانية!» قال تشوبر.
+وبين أشجار اليوسفيّ هذه، تذكّر أوسوب يومًا صاح فيه لوفي:
+quote: «نامي! أنت رفيقتي!»
+source: مونكي دي لوفي
+explanation:
+Pulmonary stenosis is not associated with a subdivided left atrium (cor triatriatum): E.
+In cor triatriatum a membrane divides the left atrium into an upper chamber receiving the pulmonary veins and a lower one leading to the mitral valve; the opening in the membrane decides how obstructed the veins are.
+Reported associations include a VSD, partial AV septal defect, tetralogy of Fallot, a left superior vena cava and anomalous pulmonary venous connections.
+In the picture, the four companions gather round the third lobby, and the clamp on the money pipe stays away.
+Memory hook: the third lobby's friends are a hole, a cross, a Tetris piece and a second chimney.

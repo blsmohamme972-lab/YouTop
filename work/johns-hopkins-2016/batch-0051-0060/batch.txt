@@ -44,7 +44,7 @@ title: Lung procurement: gentle ventilation continues while the preservation sol
 titleAr: قطف الرئة: تستمرّ التهوية اللطيفة أثناء تسريب محلول الحفظ
 tags: thoracic/transplant d:technique q:recall l:3
 palette: icy blue, bellows brown and dollar green
-keywords: donor lung -> a plump sack of green dollar bills on a table of ice; gentle ventilation -> Sanji softly working a small bellows so the sack gently rises and falls; preservation solution -> Franky pouring icy blue fluid through the sack's pipes at the same moment; inflated at airway division -> Zoro clamping the sack's ribbed hose while the sack is still plump
+keywords: donor lung -> a plump sack of green dollar bills on a table of ice; gentle mechanical ventilation -> Sanji softly working a small bellows so the sack gently rises and falls; preservation solution -> Franky pouring icy blue fluid through the sack's pipes at the same moment; inflated at division of the trachea -> Zoro clamping the sack's ribbed hose while the sack is still plump
 must: the bellows keep working WHILE the blue fluid pours; the sack stays PLUMP when Zoro clamps the hose
 scene: A cold operating cabin on an ice island, pale blue light. A plump sack of green dollar bills lies on a table of ice. CENTRE, dominant and brightest: Sanji, the blond cook in a black suit, softly works a small leather bellows connected to the sack, which gently rises and falls, while at the same moment Franky, the blue-haired cyborg shipwright, pours icy blue fluid into the sack's pipes from a big glass jug. RIGHT: Roronoa Zoro clamps the sack's white ribbed hose with a steel clamp while the sack is still round and plump.
 story:
@@ -77,7 +77,7 @@ titleAr: المتبرّع المدخّن أكثر من 20 علبة-سنة مقب
 tags: thoracic/transplant d:evidence q:numbers l:3
 palette: smoke grey, stamp green and road dust brown
 words: 20
-keywords: donor smoking over 20 pack-years -> a donor sack of green dollar bills with grey smoke stains, a stack of cigarette packs painted 20 beside it; not an absolute contraindication -> Chopper stamping the sack with a big green stamp; long-term risk of death -> a long road leading away to a small coffin far off at its end
+keywords: donor smoking over 20 pack-years -> a donor sack of green dollar bills with grey smoke stains, a stack of cigarette packs painted 20 beside it; not an absolute contraindication -> Chopper stamping the sack with a big green stamp; long-term risk of death -> a long road leading away to a small coffin far off at its end; donor lung -> a donor sack of green dollar bills with grey smoke stains
 must: the sack is ACCEPTED with the green stamp; the coffin is FAR away at the end of the road
 scene: A harbour office on a Grand Line island, afternoon light. LEFT: a donor sack of green dollar bills with grey smoke stains lies on the desk beside a tall stack of cigarette packs painted 20. CENTRE, dominant and brightest: Tony Tony Chopper, the little reindeer doctor in a pink top hat, stamps the sack with a big green stamp and hands it to a smiling young recipient. BEHIND the recipient, through the open door, a long dusty road winds away into the distance and ends at a small dark coffin.
 story:
@@ -109,7 +109,7 @@ titleAr: أكثر من نصف المزروعة لهم رئة أحياء بعد 5
 tags: thoracic/transplant d:evidence q:numbers l:2
 palette: dawn gold, milestone stone grey and lantern light
 words: 5
-keywords: the recipient of new lungs (lung transplant, drawn before the transplant symbol existed) -> a sailor carrying a fresh sack of green dollar bills along a road; five years -> a stone milestone painted 5; survival over 50 percent -> a balance beside it whose side with a lit lantern outweighs the side with a coffin; ventilator before transplant -> a second sailor still tied to a breathing bellows, lagging far behind
+keywords: the recipient of new lungs (lung transplant, drawn before the transplant symbol existed) -> a sailor carrying a fresh sack of green dollar bills along a road; five years -> a stone milestone painted 5; survival over 50 percent -> a balance beside it whose side with a lit lantern outweighs the side with a coffin; ventilator before transplant -> a second sailor still tied to a breathing bellows, lagging far behind; mortality -> the small coffin in the balance's high, light pan
 must: the LANTERN side of the balance is LOWER (heavier) than the coffin side
 scene: A road through the green hills of a Grand Line island at dawn. CENTRE, dominant and brightest: a sailor carrying a fresh sack of green dollar bills on his back strides past a stone milestone painted 5, and beside the milestone stands a big balance: the pan holding a brightly lit lantern hangs low and heavy, the pan holding a small coffin rides high. FAR BEHIND on the road, a second sailor still tied to a big breathing bellows trudges slowly, lagging.
 story:
@@ -137,14 +137,15 @@ Long-term survival is limited mainly by chronic rejection, bronchiolitis obliter
 # three judges holding up score cards at a contest of hoses -> rejection grading
 # ANSWER: the judge before a red-hot ribbed hose hidden in thick smoke, who cannot see it, holding up a card painted X -> airway inflammation that cannot be graded is X
 # a sack of dollar bills with a few red sparks, judged with a low card -> acute rejection is graded on its own scale
+# the transplanted sack standing in a terracotta flowerpot -> these biopsies grade a transplanted lung (transplant = flowerpot, audited)
 title: Lung rejection grading: ungradeable airway inflammation is graded X
 titleAr: تصنيف رفض الرئة: الالتهاب القصبي غير القابل للتقييم يُرمز له بالحرف X
 tags: thoracic/transplant d:pathology q:recall l:3
 palette: smoke grey, judge's table red and card white
 words: X
-keywords: rejection grading -> judges at a long table holding up score cards in front of transplanted hoses and sacks; ungradeable airway inflammation -> a red-hot ribbed hose hidden in thick smoke, its judge unable to see it and holding up a card painted X; the body attacking the new lungs (acute rejection, drawn before the rejection symbol existed) -> a sack of green dollar bills with a few red sparks, judged on its own
+keywords: rejection grading -> judges at a long table holding up score cards in front of transplanted hoses and sacks; ungradeable inflammation of the trachea's branches -> a red-hot ribbed hose hidden in thick smoke, its judge unable to see it and holding up a card painted X; the body attacking the new lungs (acute rejection, drawn before the rejection symbol existed) -> a sack of green dollar bills with a few red sparks, judged on its own; lung transplantation -> the transplanted sack of green dollar bills standing in a terracotta flowerpot
 must: the hose is HIDDEN in smoke and its judge holds the card X
-scene: A contest stage on a festive island. Behind a long red judges' table stand a transplanted sack of green dollar bills with a few red sparks on it and a red-hot white ribbed hose. CENTRE, dominant and brightest: the hose is hidden inside a thick cloud of grey smoke, and the judge in front of it, squinting and unable to see anything, holds up a big white card painted X. Usopp, the long-nosed sniper, fans the smoke with his hat, trying to see.
+scene: A contest stage on a festive island. Behind a long red judges' table stand a transplanted sack of green dollar bills in a terracotta flowerpot, with a few red sparks on it, and a red-hot white ribbed hose. CENTRE, dominant and brightest: the hose is hidden inside a thick cloud of grey smoke, and the judge in front of it, squinting and unable to see anything, holds up a big white card painted X. Usopp, the long-nosed sniper, fans the smoke with his hat, trying to see.
 story:
 على مسرح مسابقة في جزيرة محتفلة، جلس الحكّام خلف طاولة حمراء طويلة.
 وأمامهم كيس مزروع من الدولارات، عليه شرر أحمر قليل.
@@ -203,14 +204,15 @@ Neither part works alone, and the longitudinal muscle does not contribute to the
 # the cooking pot calm, only a few small splashes counted on a tally painted 12 -> a normal pH study: no real reflux disease
 # a fire-extinguisher pump lying unused on its side -> PPIs have failed
 # ANSWER: Chopper handing her a glowing jar of sunshine -> antidepressant therapy
+# a pink sofa slide into the pot, only a few small splashes of green acid soup reaching up it -> the oesophagus is hypersensitive although reflux is normal (oesophagus, reflux, audited)
 title: Functional heartburn: normal pH study and failed PPIs call for an antidepressant
 titleAr: الحرقة الوظيفية: دراسة حموضة طبيعية وفشل مثبّطات المضخّة يستدعيان مضادّ اكتئاب
 tags: thoracic/oesophagus d:diagnosis q:next-step l:2 x:trap
 palette: sunshine yellow, calm copper and ember orange
 words: 12
-keywords: substernal burning -> a woman clutching her chest, little imagined flames around her hand; normal pH study -> the copper cooking pot calm, only a few small splashes counted on a tally board painted 12; proton pump inhibitors failed -> a fire-extinguisher pump lying unused on its side; antidepressant therapy -> Chopper handing her a glowing jar of sunshine
+keywords: substernal burning -> a woman clutching her chest, little imagined flames around her hand; normal acid study of the stomach -> the copper cooking pot calm, only a few small splashes counted on a tally board painted 12; proton pump inhibitors failed -> a fire-extinguisher pump lying unused on its side; antidepressant therapy -> Chopper handing her a glowing jar of sunshine; oesophagus -> a long pink sofa slide running down from her chest into the copper cooking pot; acid reflux events -> only a few small splashes of green acid soup reaching up the slide, a normal number
 must: the pot is CALM with only small splashes; the extinguisher lies unused; the sunshine jar is the brightest thing
-scene: A quiet cabin, warm evening light. LEFT: a woman of middle age clutches her chest, small flames flickering around her hand though nothing burns. Behind her a big copper cooking pot sits calm, with only a few small splashes, beside a tally board painted 12. A red fire-extinguisher pump lies unused on its side on the floor. CENTRE, dominant and brightest: Tony Tony Chopper, the little reindeer doctor in a pink top hat, hands her a big glass jar full of glowing golden sunshine, and her face starts to soften.
+scene: A quiet cabin, warm evening light. LEFT: a woman of middle age clutches her chest, small flames flickering around her hand though nothing burns. Behind her a long pink sofa slide runs down into a big copper cooking pot that sits calm, only a few small splashes of green acid soup reaching up the slide, beside a tally board painted 12. A red fire-extinguisher pump lies unused on its side on the floor. CENTRE, dominant and brightest: Tony Tony Chopper, the little reindeer doctor in a pink top hat, hands her a big glass jar full of glowing golden sunshine, and her face starts to soften.
 story:
 في قمرة هادئة عند المساء، جلست امرأة في الأربعين اسمها مارتا تقبض على صدرها.
 وكانت نيران صغيرة ترتعش حول يدها، ولا شيء يحترق.
@@ -272,7 +274,7 @@ titleAr: ألم صدري مع الأكل وتنظير طبيعي: الخطوة �
 tags: thoracic/oesophagus d:diagnosis q:next-step l:2
 palette: litmus red and blue, clock brass and evening violet
 words: 24
-keywords: chest pain with eating -> a young man at the dinner table wincing and holding his chest; normal endoscopy -> a lantern on a periscope looking down a long pink sofa slide and finding nothing; 24-hour pH monitoring -> a thin litmus strip hanging down the sofa slide on a string from a big clock painted 24, turning red each time acid soup splashes up
+keywords: chest pain with eating -> a young man at the dinner table wincing and holding his chest; normal endoscopy -> a lantern on a periscope looking down a long pink sofa slide and finding nothing; 24-hour pH monitoring -> a thin litmus strip hanging down the sofa slide on a string from a big clock painted 24, turning red each time acid soup splashes up; oesophagus -> a long pink sofa stretched into a slide, running down into a copper cooking pot; acid reflux -> green acid soup splashing up inside the sofa slide
 must: the clock reads 24; the strip turns RED where acid splashes
 scene: The dining room of the Thousand Sunny in the evening. LEFT: a young man of twenty at the dinner table winces and holds his chest, his fork in the air. Behind him a long pink sofa stretched into a slide runs down into a copper cooking pot, and a lantern on a periscope at the top finds nothing wrong. CENTRE, dominant and brightest: a big brass clock painted 24 hangs on the wall, and from it a thin litmus strip on a string runs down inside the slide, turning bright red at each place where green acid soup splashes up. Nami, the orange-haired navigator, writes the times in a notebook.
 story:
@@ -305,7 +307,7 @@ title: Early cancer in Barrett's oesophagus: watching it is not acceptable
 titleAr: السرطان المبكّر في مريء باريت: الاكتفاء بالمراقبة غير مقبول
 tags: thoracic/oesophagus d:indications q:recall l:2 x:high-yield
 palette: barrel oak brown, ice blue and warning red
-keywords: Barrett's oesophagus -> the lowest stretch of a long pink sofa slide relined with wooden barrel staves; early adenocarcinoma -> a tiny red crab sitting in the barrel staves; oesophagectomy -> Zoro lifting out the whole slide; endoscopic mucosal resection -> Chopper scraping off the patch of staves with a spatula; cryotherapy -> Franky freezing a patch with a blast of ice; continued surveillance -> a lookout who only watches the crab through a spyglass, a big red X over him
+keywords: Barrett's oesophagus -> the lowest stretch of a long pink sofa slide relined with wooden barrel staves; early adenocarcinoma, a cancer -> a tiny red crab sitting in the barrel staves; oesophagectomy -> Zoro lifting out the whole slide; endoscopic mucosal resection -> Chopper scraping off the patch of staves with a spatula; cryotherapy -> Franky freezing a patch with a blast of ice; continued surveillance -> a lookout who only watches the crab through a spyglass, a big red X over him; oesophagus -> a long pink sofa stretched into a slide running down into a copper cooking pot
 must: the lookout ONLY watches and a big red X hangs over him; the others act on the crab
 scene: The galley of the Thousand Sunny, cut open. A long pink sofa stretched into a slide runs down into a copper cooking pot; its lowest stretch is lined with wooden barrel staves, and a tiny red crab sits in them. Around it: Roronoa Zoro lifts the whole slide out with both arms, Tony Tony Chopper, the little reindeer doctor, scrapes a patch of staves off with a spatula, and Franky freezes another patch with a blast of ice from his arm. CENTRE, dominant and brightest: a lookout only peers at the crab through a long spyglass, doing nothing, and a big red X hangs over him.
 story:

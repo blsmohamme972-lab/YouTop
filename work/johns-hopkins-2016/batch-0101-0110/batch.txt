@@ -9,13 +9,14 @@ book: johns-hopkins-2016
 # ANSWER: a soft yellow pat of butter stuck on the lining, beside a pile of a hundred empty hourglasses, still nothing but butter; a crab trying to climb into it slips off -> a lipoma almost never turns malignant (keyword: LIPO-ma -> fat, butter)
 # a tight ball of grey fibres beside it with a tiny crab claw poking out -> a solitary fibrous tumour CAN be malignant (A is wrong)
 # white asbestos threads falling on the lining and hardening into white plaques -> pleural plaques ARE linked to asbestos (E is wrong)
+# under the asbestos threads, a small crab spinning a thick grey rind round a sack of dollar bills -> asbestos also causes malignant mesothelioma, about 2,000 to 3,000 new cases a year in the United States, not 5,000 to 10,000 (C is wrong; audited symbols)
 title: Pleural tumours: a lipoma almost never becomes malignant
 titleAr: أورام الجنبة: الورم الشحمي نادرًا جدًّا ما يصبح خبيثًا
 tags: thoracic/pleura d:pathology q:recall l:2
 palette: butter yellow, chest-lining crimson and asbestos white
-keywords: pleura -> the inner lining of a big treasure chest; lipoma -> a soft yellow pat of butter stuck on the lining (LIPO = fat); extremely rare malignant change -> a pile of a hundred empty hourglasses beside the butter, still only butter, and a red crab trying to climb into it slipping off; solitary fibrous tumour -> a tight ball of grey fibres with a tiny crab claw poking out; pleural plaques from asbestos -> white asbestos threads falling on the lining and hardening into white plaques
+keywords: pleura -> the inner lining of a big treasure chest; lipoma -> a soft yellow pat of butter stuck on the lining (LIPO = fat); extremely rare malignant change -> a pile of a hundred empty hourglasses beside the butter, still only butter, and a red crab trying to climb into it slipping off; solitary fibrous tumour -> a tight ball of grey fibres with a tiny crab claw poking out; pleural plaques from asbestos -> white asbestos threads falling on the lining and hardening into white plaques; malignant mesothelioma from asbestos -> under the asbestos threads, a small red crab spinning a thick grey rind round a sack of green dollar bills; lung -> the sack of green dollar bills wrapped in the grey rind
 must: the crab SLIPS OFF the butter; the pile of empty hourglasses is HUGE
-scene: Inside a big open treasure chest whose inner lining is crimson velvet. CENTRE, dominant and brightest: a soft yellow pat of butter is stuck to the lining, a huge pile of empty hourglasses heaped beside it, and a red crab trying to climb into the butter slips off and tumbles away. LEFT: a tight ball of grey fibres on the lining has a tiny crab claw poking out of it. TOP RIGHT: white asbestos threads drift down onto the lining and harden into white plaques. Tony Tony Chopper, the little reindeer doctor in a pink top hat, watches the crab slide off, laughing.
+scene: Inside a big open treasure chest whose inner lining is crimson velvet. CENTRE, dominant and brightest: a soft yellow pat of butter is stuck to the lining, a huge pile of empty hourglasses heaped beside it, and a red crab trying to climb into the butter slips off and tumbles away. LEFT: a tight ball of grey fibres on the lining has a tiny crab claw poking out of it. TOP RIGHT: white asbestos threads drift down onto the lining and harden into white plaques, and where they fall thickest, a small red crab spins a thick grey rind round a sack of green dollar bills. Tony Tony Chopper, the little reindeer doctor in a pink top hat, watches the crab slide off, laughing.
 story:
 في داخل صندوق كنز كبير مبطّن بالمخمل الأحمر، التصقت قطعة طريّة من الزبدة الصفراء.
 فجاء سرطان أحمر صغير يريد أن يسكنها، وأن يجعلها سرطانًا مثله.
@@ -24,6 +25,7 @@ story:
 والزّبدة ما زالت زبدةً، صفراء طريّةً كما كانت.
 أمّا في الزاوية، فكرة مشدودة من الألياف الرماديّة أطلّ منها مخلب سرطان صغير.
 ومن فوق تساقطت خيوط بيضاء على البطانة، فتصلّبت بقعًا بيضاء قاسية.
+وتحت تلك الخيوط، كان سرطان أحمر صغير يغزل قشرةً رماديّةً غليظةً حول كيس من الدولارات الخضراء.
 «الكرة الرماديّة قد تخفي مخلبًا، أمّا الزبدة فتبقى زبدةً ولو بعد مئة ساعة!» قال تشوبر ضاحكًا.
 فنفض السرطان نفسه، وتسلّق الزبدة من جديد.
 فتذكّر تشوبر كلمة قرصان ذي لحية سوداء:
@@ -77,7 +79,7 @@ title: Mesothelioma invading a rib is unresectable
 titleAr: الورم المتوسّط الذي يغزو ضلعًا غير قابل للاستئصال
 tags: thoracic/pleura d:indications q:recall l:3
 palette: rind grey, rib-plank brown and crab red
-keywords: malignant mesothelioma -> a red crab spinning a thick grey rind round a sack of green dollar bills and the lining of the chest; resectable spread -> the rind peeled easily off the sack's skin, the deck floor and a little purse round the hotel; rib invasion -> the crab's claws biting into a curved wooden rib plank and cracking it, Zoro lowering his sword
+keywords: malignant mesothelioma -> a red crab spinning a thick grey rind round a sack of green dollar bills and the lining of the chest; resectable spread -> the rind peeled easily off the sack's skin, the deck floor and a little purse round the hotel; rib invasion -> the crab's claws biting into a curved wooden rib plank and cracking it, Zoro lowering his sword; lung -> a sack of green dollar bills wrapped in the grey rind; diaphragm -> the deck floor, its rind peeled off easily by Franky
 must: the claws are INSIDE the cracked rib plank; Zoro LOWERS his sword there
 scene: Inside a big open treasure chest whose side walls are curved wooden planks like ribs. A red crab spins a thick grey rind like a melon rind round a sack of green dollar bills and over the chest's lining. LEFT: Franky, the blue-haired cyborg shipwright, peels the rind easily off the sack's skin, off the deck floor and off a little purse wrapped round a tiny hotel. CENTRE-RIGHT, dominant and brightest: the crab's claws bite deep into one curved rib plank, cracking it, and Roronoa Zoro, sword raised, stops and slowly lowers it, shaking his head.
 story:
@@ -106,13 +108,14 @@ Memory hook: Franky peels the rind off the sack, the floor and the purse, but wh
 # a small, wheezing sack -> moderately reduced pulmonary function
 # ANSWER: Franky peeling the rind off the lining in one long strip, like wallpaper, while the sack stays in place -> pleurectomy and decortication
 # Zoro's giant axe for lifting out the whole sack, put away in its rack -> extrapleural pneumonectomy is too much here
+# Chopper pouring a poison-green potion along the peeled lining -> the operation comes with chemotherapy (audited symbol)
 title: Mesothelioma on the parietal pleura with reduced lung function: pleurectomy and decortication
 titleAr: ورم متوسّط على الجنبة الجدارية مع وظيفة رئة منخفضة: استئصال الجنبة وتقشيرها
 tags: thoracic/pleura d:indications q:vignette l:3
 palette: wallpaper grey, velvet crimson and dollar green
-keywords: mesothelioma on the parietal pleura -> a thin grey rind spun by a red crab only on the inner lining of the chest, the sack of dollar bills clean; reduced pulmonary function -> a small, wheezing sack of dollar bills; pleurectomy and decortication -> Franky peeling the rind off the lining in one long strip like wallpaper, the sack left in place; the radical operation not chosen (extrapleural pneumonectomy, drawn before the pneumonectomy symbol existed) -> Zoro's giant axe put away in its rack
+keywords: mesothelioma on the parietal pleura -> a thin grey rind spun by a red crab only on the inner lining of the chest, the sack of dollar bills clean; reduced pulmonary function -> a small, wheezing sack of dollar bills; pleurectomy and decortication -> Franky peeling the rind off the lining in one long strip like wallpaper, the sack left in place; the radical operation not chosen (extrapleural pneumonectomy, drawn before the pneumonectomy symbol existed) -> Zoro's giant axe put away in its rack; chemotherapy -> Tony Tony Chopper pouring a flask of bubbling poison-green potion along the peeled lining
 must: the rind is ONLY on the chest's lining; the SACK stays in place; the axe hangs unused
-scene: Inside a big open treasure chest lined with crimson velvet. A small, wheezing sack of green dollar bills sits in the middle, clean. A thin grey rind, spun by a red crab sitting in a corner, covers only the velvet lining. CENTRE, dominant and brightest: Franky, the blue-haired cyborg shipwright, peels the grey rind off the lining in one long strip, like wallpaper, leaving the sack in place. On the wall Zoro's giant axe hangs unused in its rack.
+scene: Inside a big open treasure chest lined with crimson velvet. A small, wheezing sack of green dollar bills sits in the middle, clean. A thin grey rind, spun by a red crab sitting in a corner, covers only the velvet lining. CENTRE, dominant and brightest: Franky, the blue-haired cyborg shipwright, peels the grey rind off the lining in one long strip, like wallpaper, leaving the sack in place, and Tony Tony Chopper pours a flask of bubbling poison-green potion along the peeled lining behind him. On the wall Zoro's giant axe hangs unused in its rack.
 story:
 في صندوق كنز مبطّن بالمخمل الأحمر، جلس كيس صغير من الدولارات يلهث ويصفر مع كلّ نفس.
 وفي الزاوية، غزل سرطان أحمر قشرةً رماديّةً رقيقة، لم تغطّ إلّا البطانة المخمليّة.
@@ -121,6 +124,7 @@ story:
 «هذا الكيس يلهث أصلًا، اتركوا الفأس مكانها.» قال فرانكي.
 ثمّ أمسك طرف القشرة، وسحبها عن البطانة شريطًا طويلًا واحدًا، كما ينزع ورق الجدران.
 وبقي الكيس في مكانه، نظيفًا، يتنفّس بهدوء.
+فصبّ تشوبر على البطانة المقشورة قارورةً من جرعة خضراء تفور.
 وظلّت الفأس الكبيرة معلّقةً على الحائط لم يلمسها أحد.
 «فرانكي يبكي! انظروا، فرانكي يبكي!» صاح تشوبر.
 فأدار فرانكي وجهه، والدّموع تسيل على خدّيه، وقال:
@@ -142,7 +146,7 @@ title: Bulky mesothelioma invading the fissures: extrapleural pneumonectomy
 titleAr: ورم متوسّط ضخم يغزو شقوق الرئة: استئصال الرئة خارج الجنبة
 tags: thoracic/pleura d:indications q:vignette l:3
 palette: storm grey, axe steel and dollar green
-keywords: bulky mesothelioma in the fissures -> a thick grey rind spun by a red crab diving deep into the cracks between the lobes of a sack of green dollar bills; peeling fails -> Franky's peeling hands stuck, the rind tearing into pieces; extrapleural pneumonectomy -> Zoro lifting out the whole sack together with its lining and a patch of the deck floor in one block
+keywords: bulky mesothelioma in the fissures -> a thick grey rind spun by a red crab diving deep into the cracks between the lobes of a sack of green dollar bills; peeling fails -> Franky's peeling hands stuck, the rind tearing into pieces; extrapleural pneumonectomy -> Zoro lifting out the whole sack together with its lining and a patch of the deck floor in one block; diaphragm -> the patch of the deck floor Zoro lifts out with the sack; lung -> a sack of green dollar bills
 must: the rind goes DEEP into the cracks between the lobes; Zoro lifts out sack, lining and deck patch TOGETHER
 scene: Inside a big open treasure chest on a stormy day. A thick grey rind spun by a red crab covers a sack of green dollar bills and dives deep into the cracks between its lobes. LEFT: Franky's hands are stuck in the rind, which tears into pieces as he pulls. CENTRE, dominant and brightest: Roronoa Zoro lifts out the whole sack together with the chest's lining and a patch of the deck floor, all in one block, with a great heave.
 story:
@@ -204,17 +208,20 @@ Memory hook: the bat sees the copper pot in the baby's chest before she is born.
 # a calendar on the wall with months torn off up to 12 -> one year
 # ANSWER: by the last page, the sailor is running up the stairs breathing easily, the slack side barely mattering -> symptoms usually resolve within a year
 # Franky's needle and thread for stitching a tuck in the floor, put down unused -> plication or pacing is usually NOT needed (C is wrong)
+# a telephone cable from his neck to the slack side, cut halfway through -> the usual cause is injury to the phrenic nerve, not an idiopathic one (B is wrong; phrenic = telephone cable, audited)
+# a drummer laying his drumsticks down beside Franky's unused needle -> neither plication nor pacing is usually needed (C is wrong; pacing = drummer, audited)
 title: Diaphragmatic paralysis: symptoms usually resolve within a year
 titleAr: شلل الحجاب الحاجز: تزول الأعراض عادةً خلال سنة
 tags: thoracic/chest-wall d:postoperative q:recall l:2
 palette: calendar white, deck brown and spring green
 words: 12
-keywords: diaphragmatic paralysis -> a sailor whose deck floor under the chest has gone slack on one side; within a year -> a wall calendar with its pages torn off up to the page 12; symptoms resolve -> at the last page the sailor running up the stairs breathing easily; plication -> Franky's needle and thread for stitching a tuck in the floor, put down unused
+keywords: diaphragmatic paralysis -> a sailor whose deck floor under the chest has gone slack on one side; within a year -> a wall calendar with its pages torn off up to the page 12; symptoms resolve -> at the last page the sailor running up the stairs breathing easily; plication -> Franky's needle and thread for stitching a tuck in the floor, put down unused; phrenic nerve injury -> a telephone cable running down from his neck to the slack side of the floor, cut halfway through; pacing -> a drummer sitting on the stairs, laying his drumsticks down unused
 must: page 12 is the LAST torn page; the sailor runs up the stairs at the end
-scene: A cabin of the Thousand Sunny, spring light. LEFT: a sailor stands short of breath, the deck floor under his chest drawn slack on one side like a loose drum skin. A big wall calendar has its pages torn off up to the page 12. CENTRE, dominant and brightest: beside the last torn page the same sailor runs up the stairs, breathing easily and laughing, though the slack side is unchanged. Franky, the blue-haired cyborg shipwright, puts his big needle and thread down, unused.
+scene: A cabin of the Thousand Sunny, spring light. LEFT: a sailor stands short of breath, the deck floor under his chest sagging slack on one side like a loose trampoline, and a telephone cable running down from his neck to the slack side is cut halfway through. A big wall calendar has its pages torn off up to the page 12. CENTRE, dominant and brightest: beside the last torn page the same sailor runs up the stairs, breathing easily and laughing, though the slack side is unchanged. Franky, the blue-haired cyborg shipwright, puts his big needle and thread down, unused, and a drummer sitting on the stairs lays his drumsticks down too.
 story:
 في غرفة على الثاوزند صني، وقف بحّار يلهث بعد درجتين فقط من السلّم.
-كانت الأرضيّة تحت صدره رخوةً من جانب واحد، كجلد طبل مرتخ.
+كانت الأرضيّة تحت صدره رخوةً من جانب واحد، كترامبولين مرتخ.
+ومن عنقه نزل سلك هاتف إلى الجانب الرخو، مقطوع إلى نصفه.
 «سأشدّها لك بإبرتي الكبيرة حالًا!» قال فرانكي.
 «انتظر يا فرانكي، لنر أوّلًا ماذا يفعل الوقت.» قال تشوبر.
 فعلّقوا على الحائط تقويمًا كبيرًا، وأخذوا ينزعون صفحاته شهرًا بعد شهر.
@@ -222,6 +229,7 @@ story:
 وعند الصفحة الثانية عشرة، ركض على السلّم كلّه ضاحكًا، يتنفّس بسهولة.
 والجانب الرخو تحت صدره ما زال كما هو.
 فوضع فرانكي إبرته جانبًا لم يستعملها، وضحك معه.
+وعلى الدرج، جلس طبّال وعصواه في حجره، لا يحتاج إليهما أحد.
 وكان لوفي قد قال للبحّار يوم الصفحة الأولى:
 quote: «سأنتظرك هنا حتّى تعود!»
 source: مونكي دي لوفي
@@ -245,7 +253,7 @@ titleAr: الفتق الحجابي المنزلق: مقدار المعدة في 
 tags: thoracic/oesophagus d:indications q:recall l:2 x:trap
 palette: copper, acid green and dysplasia black
 words: 50
-keywords: sliding hiatal hernia -> the copper cooking pot pushing up through a widened hole in the deck, the drawstring riding up with it; refractory symptoms -> a fire-extinguisher pump thrown aside; stricture -> a pinched narrow sofa slide; recurrent aspiration -> soup spilling over into the sacks of dollar bills; high-grade dysplasia -> dark spots on barrel staves at the foot of the slide; more than half of the stomach in the chest -> a painted line marked 50 halfway up the cooking pot, the pot more than half above the deck, Chopper shrugging
+keywords: sliding hiatal hernia -> the copper cooking pot pushing up through a widened hole in the deck, the drawstring riding up with it; refractory symptoms -> a fire-extinguisher pump thrown aside; oesophageal stricture -> a pinched narrow sofa slide; recurrent aspiration -> soup spilling over into the sacks of dollar bills; Barrett's high-grade dysplasia -> dark spots on barrel staves at the foot of the slide; more than half of the stomach in the chest -> a painted line marked 50 halfway up the cooking pot, the pot more than half above the deck, Chopper shrugging
 must: the pot is more than half ABOVE the deck at the line 50, and Chopper only SHRUGS there
 scene: The galley of the Thousand Sunny, cut open. A pinched long pink sofa slide runs down to a copper cooking pot that pushes up through a widened hole in the deck, its drawstring riding up with it; soup spills over into two sacks of dollar bills beside it, a fire-extinguisher pump lies thrown aside and the barrel staves at the slide's foot show dark spots. CENTRE, dominant and brightest: a white line marked 50 is painted halfway up the pot, more than half of it above the deck, and Tony Tony Chopper, the little reindeer doctor, shrugs at the line, palms up.
 story:
@@ -272,18 +280,20 @@ Memory hook: the line 50 on the pot is not a reason; the pinched slide, the soup
 # a lump sitting on the deck floor -> a diaphragmatic tumour (diaphragm = deck, audited)
 # ANSWER: three grey-haired sailors aged by the signs 50 and 70 around their necks finding the lump with a lantern -> found in the fifth to seventh decade
 # the lump a harmless soft pat of butter, not a crab -> most primary diaphragmatic tumours are benign (C is wrong)
+# a few baby crabs that climbed down from a sack of dollar bills, at the deck's far edge -> most diaphragmatic tumours are secondary, from neighbouring organs such as the lung, or metastases (audited symbols)
 title: Diaphragmatic tumours are usually found between the ages of 50 and 70
 titleAr: أورام الحجاب الحاجز تُكتشف غالبًا بين عمر 50 و70
 tags: thoracic/chest-wall d:pathology q:numbers l:3
 palette: lantern amber, grey hair silver and deck brown
 words: 50, 70
-keywords: diaphragmatic tumour -> a soft lump sitting on the deck floor of the ship's hold; fifth to seventh decade -> three grey-haired sailors, two wearing signs 50 and 70 round their necks, finding the lump with a lantern; mostly benign -> the lump a harmless pat of butter, not a crab
-must: the signs read 50 and 70; the lump is BUTTER, not a crab
-scene: The dark hold of a pirate ship. CENTRE, dominant and brightest: three grey-haired sailors crouch over a soft yellow lump of butter sitting on the deck floor, holding up a lantern; two of them wear wooden signs round their necks, painted 50 and 70. Nico Robin, the dark-haired archaeologist, kneels beside them, writing their ages in her notebook.
+keywords: diaphragmatic tumour -> a soft lump sitting on the deck floor of the ship's hold; fifth to seventh decade -> three grey-haired sailors, two wearing signs 50 and 70 round their necks, finding the lump with a lantern; mostly benign -> the lump a harmless pat of butter, not a crab; metastases from the lungs -> a few baby crabs that climbed down from a sack of green dollar bills hanging above, sitting at the deck's far edge, away from the butter; lung -> the sack of green dollar bills hanging above the deck
+must: the signs read 50 and 70; the lump is BUTTER, not a crab; the baby crabs stay at the far edge, away from the butter
+scene: The dark hold of a pirate ship. CENTRE, dominant and brightest: three grey-haired sailors crouch over a soft yellow lump of butter sitting on the deck floor, holding up a lantern; two of them wear wooden signs round their necks, painted 50 and 70. At the deck's far edge, away from the butter, a few baby crabs that climbed down from a sack of green dollar bills hanging above sit in a row. Nico Robin, the dark-haired archaeologist, kneels beside the sailors, writing their ages in her notebook.
 story:
 في عنبر سفينة مظلم، انحنى ثلاثة بحّارة شيب فوق أرضيّة السطح.
 كانت عليها كتلة صفراء طريّة من الزبدة، لم يرها أحد طوال عمرهم.
 فرفعوا فانوسًا، فلمعت الكتلة في ضوئه.
+وعند حافّة السطح البعيدة، بعيدًا عن الزبدة، جلست سرطانات صغيرة نزلت من كيس دولارات معلّق فوقهم.
 وعلى صدر اثنين منهم لوحان خشبيّان، مكتوب على أحدهما خمسون، وعلى الآخر سبعون.
 «بحثنا عنها ونحن شبّان فلم نجدها!» قال أكبرهم.
 «لا يجدها الشبّان؛ يجدها من بلغ الخمسين إلى السبعين.» قالت روبين وهي تكتب أعمارهم في دفترها.
@@ -309,7 +319,7 @@ title: A symptomatic paraesophageal hernia needs surgical reduction
 titleAr: الفتق جانب المريء العرضي يحتاج ردًّا جراحيًّا
 tags: thoracic/oesophagus d:indications q:recall l:1 x:high-yield
 palette: copper, rope tan and pill-tray white
-keywords: paraesophageal hernia -> the copper cooking pot rolled up through a big hole in the deck BESIDE the sofa slide, twisting, while the drawstring stays below; medicines -> a tray of antacids, iron pills, antibiotics and anti-sickness drops ignored on a shelf; surgical reduction -> Franky hauling the pot back down below the deck by its handles and stitching the hole narrow
+keywords: paraesophageal hernia -> the copper cooking pot rolled up through a big hole in the deck BESIDE the sofa slide, twisting, while the drawstring stays below; medicines -> a tray of antacids, iron pills, antibiotics and anti-sickness drops ignored on a shelf; surgical reduction -> Franky hauling the pot back down below the deck by its handles and stitching the hole narrow; stomach -> the copper cooking pot rolled up above the deck beside the slide; lower oesophageal sphincter -> the drawstring staying below the deck
 must: the pot is BESIDE the slide, the drawstring BELOW the deck; Franky hauls it DOWN
 scene: The galley of the Thousand Sunny, cut open. A long pink sofa slide passes down through a hole in the deck to its drawstring below; beside the slide, the copper cooking pot has rolled up through the big hole and sits twisted above the deck. CENTRE, dominant and brightest: Franky, the blue-haired cyborg shipwright, hauls the pot back down below the deck by its handles and stitches the hole narrow with a big needle. On a shelf, a tray of pills and drops sits ignored.
 story:

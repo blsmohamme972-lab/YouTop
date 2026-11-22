@@ -1,0 +1,17 @@
+{
+ "file": "jh-q0011-explanation-en.m4a",
+ "sig": "d078d474fe3f0af7c0f086f310d8d956faa5742874d1c1958f5728fffec74c78",
+ "starts": [
+  0,
+  9329,
+  19694,
+  33338
+ ],
+ "seconds": 38.1,
+ "texts": [
+  "Maximal oxygen consumption on exercise testing, VO2max, is the most specific predictor of complications after lung resection.",
+  "A VO2max below 10 mL/kg/min marks a very high risk of complications and death, and generally rules resection out: E is the answer.",
+  "An FEV1 below 0.8 L, a DLco below 40 percent of predicted, a raised A-a gradient and a PaCO2 above 44 mmHg all raise the risk, but less specifically.",
+  "Above 15 to 20 mL/kg/min, the risk is low."
+ ]
+}

@@ -7,13 +7,14 @@ book: johns-hopkins-2016
 # ANSWER: the slices show golden honeycomb packed along the crust edges and the bottom of the loaf -> honeycombing, subpleural and in the LOWER zones
 # tiny ribbed twigs in the slices pulled wide open by ropes -> traction bronchiectasis
 # an old fisherman wheezing dry, no phlegm -> IPF in older people, dry cough (B is wrong)
+# grey smoke passing only thinly through a fine fishnet -> pulmonary function tests show a restrictive pattern with a LOW DLco (D is wrong: not obstructive) (DLco = fishnet, audited)
 title: Idiopathic pulmonary fibrosis: CT shows honeycombing and traction bronchiectasis
 titleAr: التليّف الرئوي مجهول السبب: يُظهر التصوير المقطعي تقرّش العسل وتوسّع القصبات بالشدّ
 tags: thoracic/lung-benign d:diagnosis q:recall l:2 x:high-yield
 palette: honey gold, bread crust brown and twilight violet
-keywords: CT scan -> a cat slicing a long loaf of bread into very thin slices with one sharp claw; honeycombing -> golden honeycomb packed along the crust edges and the bottom of the loaf; traction bronchiectasis -> tiny ribbed twigs in the slices pulled wide open by little ropes; idiopathic pulmonary fibrosis -> an old fisherman with a dry wheezing cough, clutching a stiff shrunken sack of dollar bills
+keywords: CT scan -> a cat slicing a long loaf of bread into very thin slices with one sharp claw; honeycombing -> golden honeycomb packed along the crust edges and the bottom of the loaf; traction bronchiectasis -> tiny ribbed twigs in the slices pulled wide open by little ropes; idiopathic pulmonary fibrosis -> an old fisherman with a dry wheezing cough, clutching a stiff shrunken sack of dollar bills; low DLco -> grey puffs of smoke passing only thinly through a fine fishnet into a little red stream below
 must: the honeycomb is along the EDGES and at the BOTTOM of the slices; the twigs are pulled WIDE by ropes
-scene: A fisherman's hut on Fishman Island's shore at twilight, violet light. LEFT: an old grey fisherman sits coughing dry, clutching a stiff shrunken sack of green dollar bills. CENTRE, dominant and brightest: on the table a sleek grey cat with one sharp claw slices a long loaf of bread into very thin slices, and every slice shows golden honeycomb packed along its crust edges and thickest at the bottom, with tiny ribbed twigs inside pulled wide open by little ropes. Nico Robin, the dark-haired archaeologist, holds up one slice to the lamp and studies it.
+scene: A fisherman's hut on Fishman Island's shore at twilight, violet light. LEFT: an old grey fisherman sits coughing dry, clutching a stiff shrunken sack of green dollar bills. CENTRE, dominant and brightest: on the table a sleek grey cat with one sharp claw slices a long loaf of bread into very thin slices, and every slice shows golden honeycomb packed along its crust edges and thickest at the bottom, with tiny ribbed twigs inside pulled wide open by little ropes. Nico Robin, the dark-haired archaeologist, holds up one slice to the lamp and studies it. On the shelf behind her, grey puffs of smoke try to pass through a fine fishnet into a little red stream below, and only a thin few get through.
 story:
 عند الغسق، في كوخ صيّاد على شاطئ جزيرة رجال السمك، جلس صيّاد عجوز يسعل سعالًا جافًّا.
 وكان يضمّ إليه كيسًا متيبّسًا منكمشًا من الدولارات، لا يتّسع لنفس واحد.
@@ -44,7 +45,7 @@ title: Cryptogenic organizing pneumonia: transbronchial biopsy is often not enou
 titleAr: الالتهاب الرئوي المنظِّم مجهول السبب: خزعة عبر القصبات لا تكفي غالبًا
 tags: thoracic/lung-benign d:diagnosis q:recall l:3
 palette: crypt stone grey, fluff white and tweezer silver
-keywords: cryptogenic organizing pneumonia -> a stone crypt inside a sack of green dollar bills where a fussy organizer stacks little plugs of white fluff into neat boxes; transbronchial biopsy -> a long pair of tweezers pushed down a ribbed hose pulling out only one tiny crumb; insufficient -> Chopper frowning at the crumb through a magnifier; surgical lung biopsy -> Zoro holding up a big wedge cut cleanly from the sack of dollar bills
+keywords: cryptogenic organizing pneumonia -> a stone crypt inside a sack of green dollar bills where a fussy organizer stacks little plugs of white fluff into neat boxes; transbronchial biopsy through the trachea -> a long pair of tweezers pushed down a ribbed hose pulling out only one tiny crumb; insufficient -> Chopper frowning at the crumb through a magnifier; surgical wedge resection biopsy -> Zoro holding up a big triangular wedge, like a cheese wedge, cut cleanly from the sack of dollar bills; lung -> a giant sack of green dollar bills drawn like a dim stone crypt
 must: the tweezers bring out only a TINY crumb; Zoro's wedge is big and shows the boxes
 scene: Inside a giant sack of green dollar bills drawn like a dim stone crypt with many tiny rooms. LEFT: a fussy organizer in round spectacles stacks little plugs of white fluff into neat boxes in each tiny room. CENTRE, dominant and brightest: a long pair of silver tweezers, pushed down a white ribbed hose from above, pulls out only one tiny crumb, and Tony Tony Chopper, the little reindeer doctor in a pink top hat, frowns at it through a magnifier. RIGHT: Roronoa Zoro holds up a big clean wedge he has cut from the sack, its neat boxes plainly visible.
 story:
@@ -73,14 +74,15 @@ It responds well to steroids, usually given for six months or longer, not just t
 # a green loaf of bread in her hands -> Löfgren (keyword: LOAF-GREEN)
 # ANSWER part 1: tender red lumps on both her shins -> erythema nodosum
 # ANSWER part 2: every joint wrapped in bandages, wincing -> polyarthralgias
-# ANSWER part 3: two swollen clusters of pearls at the necks of the two sacks of dollar bills she carries -> bilateral hilar adenopathy
+# ANSWER part 3: two swollen clusters of pearls at the necks of the two sacks of dollar bills she carries, where the two branches of a white ribbed hose enter them -> bilateral hilar adenopathy (lungs = dollar sacks, trachea = ribbed hose, audited)
+# a brass tuba riddled with holes, oozing soft white cheese, pushed far away by Chopper -> caseating granulomas belong to tuberculosis, not to sarcoidosis (E is wrong; audited symbol)
 title: Löfgren syndrome: erythema nodosum, polyarthralgia and hilar adenopathy
 titleAr: متلازمة لوفغرين: حمامى عقدة وآلام مفاصل متعدّدة واعتلال عقد سرّية
 tags: thoracic/lung-benign d:diagnosis q:recall l:2 x:high-yield
 palette: desert sand, sarcophagus gold and bread green
-keywords: sarcoidosis -> a young dancer sitting on a golden stone sarcophagus (SARCO-idosis); Löfgren syndrome -> a green loaf of bread held in her hands (LOAF-GREEN); erythema nodosum -> tender red lumps on both her shins; polyarthralgia -> bandages wrapped round every joint, wincing; hilar adenopathy -> swollen clusters of pearls at the necks of the two sacks of green dollar bills she carries
-must: red lumps on BOTH shins; pearls swollen at the necks of BOTH sacks
-scene: A desert tomb in Alabasta, sand gold light. CENTRE, dominant and brightest: a young dancer sits on a golden stone sarcophagus holding a green loaf of bread; tender red lumps rise on both her shins, every joint of her arms and legs is wrapped in white bandages and she winces as she moves, and on her shoulders hang two sacks of green dollar bills whose necks are swollen with big clusters of pearls. Tony Tony Chopper, the little reindeer doctor in a pink top hat, kneels and gently touches the lumps on her shin.
+keywords: sarcoidosis -> a young dancer sitting on a golden stone sarcophagus (SARCO-idosis); Löfgren syndrome -> a green loaf of bread held in her hands (LOAF-GREEN); erythema nodosum -> tender red lumps on both her shins; polyarthralgia -> bandages wrapped round every joint, wincing; hilar adenopathy -> swollen clusters of pearls at the necks of the two sacks of green dollar bills she carries; lungs -> the two sacks of green dollar bills she carries; trachea -> a white ribbed hose lying across her shoulders like a yoke, its two branches running into the necks of the two sacks; tuberculosis (caseating granulomas, not hers) -> a brass tuba riddled with holes, soft white cheese oozing from them, pushed far away from her by Chopper
+must: red lumps on BOTH shins; pearls swollen at the necks of BOTH sacks, where the hose branches enter; the cheese-oozing tuba stands FAR from her
+scene: A desert tomb in Alabasta, sand gold light. CENTRE, dominant and brightest: a young dancer sits on a golden stone sarcophagus holding a green loaf of bread; tender red lumps rise on both her shins, every joint of her arms and legs is wrapped in white bandages and she winces as she moves, and across her shoulders lies a white ribbed hose like a yoke, its two branches running down into the necks of two sacks of green dollar bills, and where they enter, the necks are swollen with big clusters of pearls. Tony Tony Chopper, the little reindeer doctor in a pink top hat, kneels and gently touches the lumps on her shin; he has pushed far away from her a brass tuba riddled with holes, soft white cheese oozing from them.
 story:
 في مقبرة صحراويّة في ألاباستا، تحت ضوء ذهبيّ كالرّمل، جلست راقصة شابّة اسمها نادية.
 وكانت تجلس على تابوت حجريّ ذهبيّ من توابيت الفراعنة.
@@ -89,7 +91,9 @@ story:
 وقد برزت على ساقيها كلتيهما كتل حمراء مؤلمة.
 ولفّت كلّ مفاصلها بضمادات بيضاء، تتألّم كلّما تحرّكت.
 وعلى كتفيها كيسان من الدولارات، انتفخ عنق كلّ منهما بعناقيد كبيرة من اللؤلؤ.
+وفوقهما خرطوم أبيض مضلّع كالنّير، يتفرّع إلى عنقيهما.
 فجثا تشوبر، ولمس الكتل على ساقها برفق.
+ثمّ دفع بعيدًا عنها بوق توبا نحاسيًّا مثقّبًا، يسيل من ثقوبه جبن أبيض طريّ.
 «الكتل الحمراء، والمفاصل المتألّمة، واللّؤلؤ عند العنقين؛ ثلاثتها معًا وفجأةً!»
 فابتسمت نادية رغم الألم، وتذكّرت ما صاح به قرصان في قبّعة قشّ لأميرة هذه البلاد:
 quote: «على الأقلّ خاطري بحياتنا نحن أيضًا! ألسنا أصدقاءك؟»
@@ -112,7 +116,7 @@ titleAr: داء الرشاشيات القصبي الرئوي التحسّسي: �
 tags: thoracic/lung-benign d:diagnosis q:numbers l:3
 palette: asparagus green, stereo black and flag white
 words: 30
-keywords: steroid-dependent asthmatic -> a wheezing sailor hugging a big stereo boombox he cannot put down (STEROID = STEREO); aspergillosis -> green asparagus spears sprouting out of the top of a ribbed hose he wears like a windpipe (ASPER-gillus = asparagus); nearly 30 percent -> a flag painted 30 above him; allergic -> the sailor sneezing at the asparagus; steroids as cornerstone -> Chopper turning the stereo's volume knob up, a bottle of weed-killer left aside
+keywords: steroid-dependent asthmatic -> a wheezing sailor hugging a big stereo boombox he cannot put down (STEROID = STEREO); aspergillosis -> green asparagus spears sprouting out of the top of a ribbed hose he wears like a windpipe (ASPER-gillus = asparagus); nearly 30 percent -> a flag painted 30 above him; allergic -> the sailor sneezing at the asparagus; steroids as cornerstone -> Chopper turning the stereo's volume knob up, a bottle of weed-killer left aside; trachea -> the white ribbed hose he wears like a windpipe
 must: the asparagus grows OUT of the ribbed hose; he hugs the stereo and will not let it go
 scene: The deck of a merchant ship at noon. CENTRE, dominant and brightest: a sailor wheezing so hard that a whistle sounds from his lips hugs a big black stereo boombox to his chest, and out of the top of a white ribbed hose he wears like a windpipe green asparagus spears sprout, making him sneeze; above him flies a white flag painted 30. Tony Tony Chopper, the little reindeer doctor in a pink top hat, reaches up and turns the stereo's volume knob higher, while a bottle of weed-killer stands ignored on a barrel.
 story:
@@ -211,7 +215,7 @@ title: Actinomycosis is most often operated on because it mimics lung cancer
 titleAr: داء الشعيات يُجرى له العمل الجراحي غالبًا لأنه يشبه سرطان الرئة
 tags: thoracic/lung-benign d:indications q:recall l:2 x:trap
 palette: theatre curtain red, sulfur yellow and dollar green
-keywords: actinomycosis -> an ACTOR in a red crab costume clinging to a sack of green dollar bills (ACTINO = actor); suspected carcinoma -> the crab costume that looks like cancer, the crab; surgery -> Zoro cutting the actor out, thinking he is a real crab; sulfur granules -> yellow sulfur grains spilling from the cut costume; penicillin -> Chopper holding up a giant pencil (PENCIL-lin)
+keywords: actinomycosis of the lung -> an ACTOR in a red crab costume clinging to a sack of green dollar bills (ACTINO = actor); suspected carcinoma -> the crab costume that looks like cancer, the crab; surgery -> Zoro cutting the actor out, thinking he is a real crab; sulfur granules -> yellow sulfur grains spilling from the cut costume; penicillin -> Chopper holding up a giant pencil (PENCIL-lin)
 must: the crab is plainly a COSTUME with an actor's face peeking out; yellow grains spill when Zoro cuts
 scene: The stage of a theatre on a festive island, red curtains and footlights. CENTRE, dominant and brightest: an actor wearing a red crab costume clings to a big sack of green dollar bills, his human face peeking out of the crab's head; Roronoa Zoro, the green-haired swordsman, slashes the costume open in one stroke, and a shower of bright yellow sulfur grains spills out over the stage. RIGHT: Tony Tony Chopper, the little reindeer doctor in a pink top hat, holds up a giant yellow pencil, laughing.
 story:
@@ -240,13 +244,14 @@ It is treated with high-dose penicillin for months, and surgery is kept for comp
 # a tunnel bored right through the treasure chest's wall -> a chest-wall sinus
 # ANSWER (book): yellow sulfur grains trickling out of that tunnel -> sulfur granules draining from a chest-wall sinus
 # a pale sailor in a blanket, his shield of medicine bottles broken -> nocardia infects the immunosuppressed (A is false)
+# a sack of dollar bills dotted with several festering cesspools; a pickpocket turning away empty-handed -> nocardia forms lung abscesses, often several, not one (E is wrong), and rarely needs a lobectomy (D is wrong) (lungs, abscess, lobectomy, audited)
 title: Nocardiosis: the book's key names sulfur granules draining from a chest-wall sinus
 titleAr: داء النوكارديا: مفتاح الكتاب يذكر حبيبات كبريتية تنزّ من جيب في جدار الصدر
 tags: thoracic/lung-benign d:pathology q:recall l:3 x:trap
 palette: hull timber brown, sulfur yellow and pale blue
-keywords: nocardiosis -> a big brass door knocker banging on a treasure chest (KNOCK-ardia); chest-wall sinus -> a tunnel bored right through the treasure chest's wall; sulfur granules -> yellow sulfur grains trickling out of the tunnel; immunosuppressed -> a pale sailor in a blanket whose shield lies broken beside him
+keywords: nocardiosis -> a big brass door knocker banging on a treasure chest (KNOCK-ardia); chest-wall sinus -> a tunnel bored right through the treasure chest's wall; sulfur granules -> yellow sulfur grains trickling out of the tunnel; immunosuppressed -> a pale sailor in a blanket whose shield lies broken beside him; lung -> the sailor's own sack of green dollar bills lying beside the chest; multiple lung abscesses -> several small festering cesspools of yellow pus dotted through that sack; lobectomy rarely needed -> a pickpocket who came for one lobe of it turning away empty-handed
 must: the yellow grains trickle OUT of a tunnel through the chest's wall
-scene: The hold of a pirate ship, timber brown and pale blue light. A pale thin sailor wrapped in a blanket, his shield lying broken beside him, clutches a big treasure chest. CENTRE, dominant and brightest: a big brass door knocker on the chest's lid bangs by itself, and from a tunnel bored right through the chest's side wall a stream of bright yellow sulfur grains trickles out onto the floor. Tony Tony Chopper, the little reindeer doctor in a pink top hat, crouches and catches the grains in his hoof, frowning.
+scene: The hold of a pirate ship, timber brown and pale blue light. A pale thin sailor wrapped in a blanket, his shield lying broken beside him, clutches a big treasure chest. CENTRE, dominant and brightest: a big brass door knocker on the chest's lid bangs by itself, and from a tunnel bored right through the chest's side wall a stream of bright yellow sulfur grains trickles out onto the floor. Tony Tony Chopper, the little reindeer doctor in a pink top hat, crouches and catches the grains in his hoof, frowning. Beside the chest lies the sailor's own sack of green dollar bills, dotted with several small festering cesspools of yellow pus, and a pickpocket who came for one lobe of it turns away empty-handed.
 story:
 في عنبر سفينة قراصنة، تحت ضوء أزرق شاحب، جلس بحّار نحيل مصفرّ الوجه ملتفًّا ببطّانيّته.
 وكان درعه مكسورًا إلى جانبه، لا يحميه من شيء.
@@ -278,7 +283,7 @@ title: Miliary tuberculosis is not an indication for surgery
 titleAr: السلّ الدخني ليس استطبابًا للجراحة
 tags: thoracic/lung-benign d:indications q:recall l:1
 palette: brass gold, millet beige and asparagus green
-keywords: miliary tuberculosis -> a brass tuba riddled with holes spraying a fine mist of tiny millet seeds over the whole deck; not for surgery -> Chopper pushing Zoro's sword down; aspergilloma in a tuberculous cavity -> green asparagus growing in one big hole of a second tuba, which Zoro cuts out; bronchial stenosis -> a tight knot squeezing a ribbed hose
+keywords: miliary tuberculosis -> a brass tuba riddled with holes spraying a fine mist of tiny millet seeds over the whole deck; not for surgery -> Chopper pushing Zoro's sword down; aspergilloma in a tuberculous cavity -> green asparagus growing in one big hole of a second tuba, which Zoro cuts out; bronchial stenosis, a narrowed windpipe branch -> a tight knot squeezing a ribbed hose
 must: the millet seeds cover the WHOLE deck; Zoro does not cut the spraying tuba
 scene: The deck of a pirate ship, golden afternoon. CENTRE, dominant and brightest: a big brass tuba riddled with holes, white cheese oozing from them, sprays a fine mist of tiny millet seeds over the whole deck, and Tony Tony Chopper, the little reindeer doctor in a pink top hat, pushes Zoro's sword down toward the planks, shaking his head. RIGHT: from one big hole of a second holed tuba green asparagus spears grow, and Zoro's other sword cuts them out. LEFT: a white ribbed hose is squeezed by a tight knot.
 story:
@@ -310,7 +315,7 @@ title: A healed solitary histoplasmosis nodule after treatment needs no surgery
 titleAr: عقيدة داء النوسجات المفردة الملتئمة بعد العلاج لا تحتاج جراحة
 tags: thoracic/lung-benign d:indications q:recall l:2
 palette: ancient stone grey, chalk white and sunset copper
-keywords: histoplasmosis -> a carved stone tablet of ancient history (HISTO-plasmosis = history), read by Robin; healed solitary nodule -> one small chalk-white pebble resting quietly in a sack of green dollar bills, Zoro sheathing his sword beside it; broncholithiasis -> a stone stuck in a ribbed hose being pulled out with pliers; superior vena cava obstruction -> a rope of scar choking a chimney pipe that brings dark water down
+keywords: histoplasmosis -> a carved stone tablet of ancient history (HISTO-plasmosis = history), read by Robin; healed solitary nodule in the lung -> one small chalk-white pebble resting quietly in a sack of green dollar bills, Zoro sheathing his sword beside it; broncholithiasis, a stone in the windpipe's branch -> a stone stuck in a ribbed hose being pulled out with pliers; superior vena cava obstruction -> a rope of scar choking a chimney pipe that brings dark water down
 must: Zoro SHEATHES his sword at the chalk-white pebble; the pliers pull a stone OUT of the hose
 scene: Ruins on Skypiea at sunset, copper light. LEFT: Nico Robin, the dark-haired archaeologist, reads a huge carved stone tablet of ancient history. CENTRE, dominant and brightest: a big sack of green dollar bills lies open on the stones; inside it one small chalk-white pebble rests quietly, and Roronoa Zoro slides his sword back into its sheath beside it with a calm nod. RIGHT: Franky pulls a stone out of a white ribbed hose with big pliers. TOP RIGHT: a rope of grey scar chokes a chimney pipe that brings dark water down.
 story:

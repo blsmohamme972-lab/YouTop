@@ -1,0 +1,360 @@
+book: johns-hopkins-2016
+# Lessons 151-160 (book 31.1-32.5: mechanical complications of infarction, aortic valve). Written 2026-11-21, night.
+# Each story: a hook, a wrong try that fails, the answer acting, a payoff line that names the symbol, and a lead-in
+# that says who speaks the quotation and why it fits, so the quotation is understood (the owner, 2026-11-21).
+
+== 151
+# book 31.1: cardiogenic shock from AMI with three-vessel disease, ACC/AHA initial reperfusion -> C, CABG.
+# the hotel's lights going out, a guest slumped grey in the lobby -> cardiogenic shock (audited)
+# a stag brought down by an arrow on the doorstep -> acute myocardial infarction (audited)
+# three spikes of the green crown clogged with tar, a flag painted 3 -> three-vessel coronary disease (crown + tar, audited)
+# ANSWER: Sanji laying three cabbage leaves over the three tarred spikes, the windows blazing back to gold -> emergency CABG (cabbage, audited)
+# Usopp's single Slinky in one spike, only one window flickering -> a stent or a balloon in one vessel is not enough (A, B, D wrong)
+# Zoro leaning on a black coffin -> no intervention means death (E wrong)
+title: Cardiogenic shock with three-vessel disease: emergency CABG
+titleAr: صدمة قلبيّة مع مرض ثلاثة أوعية: مجازة تاجيّة عاجلة
+tags: cardiac/coronary d:indications q:recall l:2 x:guideline
+palette: storm-night blue, flickering amber windows and bright cabbage green
+words: 3
+keywords: cardiogenic shock -> the HART Hotel's lights going out window by window, a guest slumped grey in the lobby chair; acute myocardial infarction -> a big stag brought down by an arrow on the hotel's doorstep; three-vessel coronary disease -> three spikes of the green Liberty crown on the hotel's roof clogged with black tar; emergency coronary artery bypass grafting -> three huge green cabbage leaves laid as bridges over the three tarred spikes; stent in one artery -> a single coiled Slinky on a long wire pushed into one tarred spike; no intervention -> a black coffin by the door
+must: the three cabbage leaves are the largest, brightest objects; only ONE window flickers where the Slinky goes in; the coffin is closed and empty
+scene: A stormy night at a Grand Line harbour. The old HART Hotel, a narrow doll's-house hotel with a stag's head over its door, its windows going dark one after another; on its doorstep a big stag lies brought down by an arrow; through the lobby window a guest slumps grey in a chair. On the roof, the green Statue-of-Liberty crown with seven spikes: three of them clogged with black tar, a small flag painted 3 above them. CENTRE, dominant and brightest: Sanji, in a black suit, laying three huge green cabbage leaves as bridges over the three tarred spikes, and the windows below them blazing back to golden light. LEFT on the roof: Usopp pushing a single coiled metal Slinky on a long wire into one tarred spike, one window below flickering faintly. RIGHT, by the door: Zoro leaning on a closed black coffin. Chopper on the roof's edge, pointing.
+story:
+في ليلة عاصفة على ميناء من موانئ الخطّ الكبير، أخذت أنوار الفندق القديم ذي رأس الأيّل تنطفئ، نافذةً بعد نافذة.
+وعلى عتبته أيّل كبير صرعه سهم، وفي الردهة نزيل شاحب رماديّ قد هوى على كرسيّه.
+فصعد تشوبر إلى السطح، فإذا ثلاث من أشواك التاج الأخضر قد سدّها القطران الأسود، وفوقها راية عليها رقم ثلاثة.
+«شوكة واحدة تكفي!» قال أوسوب، ودفع في إحداها نابضًا معدنيًّا ملفوفًا على سلك.
+فارتعشت نافذة واحدة بضوء خافت، ثمّ عادت إلى الظلام، وبقيت الشوكتان الأخريان سوداوين.
+«فلنتركه إذن، لعلّه ينجو وحده.» قال زورو، وهو يتّكئ على تابوت أسود عند الباب.
+«لا! إن تركناه الليلة، صار هذا التابوت له!» صاح تشوبر.
+عندها وثب سانجي إلى السطح، وبسط ثلاث أوراق ملفوف خضراء عريضة، جسرًا فوق كلّ شوكة مسدودة.
+فاشتعلت النوافذ كلّها دفعةً واحدةً بنور ذهبيّ، وفتح النزيل الرماديّ عينيه.
+«ثلاث أشواك مسدودة، ثلاث أوراق ملفوف، واللّيلة لا غدًا!» قال تشوبر.
+فأسرع فرانكي يمسح عينيه بذراعه الحديديّة، وصاح بصوت مرتجف:
+quote: «لست أبكي! لست أبكي أبدًا، أيّها الأحمق!»
+source: فرانكي
+explanation:
+In cardiogenic shock after an acute myocardial infarction, the hotel's lights going out, the rule is emergency revascularization, not medical treatment alone.
+With disease in all three coronary arteries, the three tarred spikes, this book's guideline answer is emergency coronary bypass grafting: C.
+Bypass grafts, the cabbage leaves, carry blood past every blocked artery in one operation, and in the SHOCK trial early revascularization saved more lives in the long run than initial medical stabilisation.
+A stent or a balloon in one artery, Usopp's single Slinky, leaves the other territories starving; newer guidelines accept emergency PCI as well, but severe three-vessel disease favours surgery.
+Doing nothing, Zoro's coffin, is the worst choice: without revascularization most patients in cardiogenic shock die.
+Memory hook: three tarred spikes, three cabbage leaves, tonight, and the hotel's lights come back on.
+
+== 152
+# book 31.2: 7 days after STEMI, sudden severe dyspnoea, bilateral pulmonary oedema, mild holosystolic murmur -> A, papillary muscle rupture.
+# a stag with an arrow, a calendar torn to 7 -> myocardial infarction a week ago (audited)
+# ANSWER: the thick red pillar that holds the golden harp strings snapped in two, the bishop's mitre flapping loose -> papillary muscle rupture (pillar, audited)
+# water gurgling back up through the mitre into the red lobby -> acute severe mitral regurgitation (audited)
+# soggy dollar bills dripping from the pipes, a gasping sailor -> sudden pulmonary oedema (audited)
+# Brook's violin, barely heard -> the murmur can be soft or absent
+# the lower party wall whole, no hole -> no septal rupture (B wrong)
+title: A week after MI, sudden pulmonary oedema with a soft murmur: papillary muscle rupture
+titleAr: بعد أسبوع من الاحتشاء، وذمة رئويّة مفاجئة مع نفخة خافتة: تمزّق العضلة الحليميّة
+tags: cardiac/coronary d:complications q:vignette l:2 x:high-yield
+palette: midnight indigo, alarm red and dripping dollar green
+words: 7
+keywords: myocardial infarction a week ago -> a stag lying with an arrow in its chest beside a wall calendar torn off up to the page painted 7; papillary muscle rupture -> the thick red pillar that holds the golden harp strings snapped clean in two; mitral regurgitation -> water gurgling back up through the flapping bishop's mitre into the red glass lobby; pulmonary oedema -> soggy dollar bills dripping from the green money pipes, a sailor gasping; soft murmur -> Brook the skeleton playing his violin so softly it is barely heard; intact septum -> the brick lower party wall standing whole, without any hole
+must: the pillar is clearly snapped in two; the lower party wall has NO hole; Brook's bow barely touches the strings
+scene: Night. The HART Hotel cut open like a doll's house. LEFT, outside its door: a stag lying with an arrow in its chest, and on the wall a calendar torn off up to the page painted 7. CENTRE, dominant and brightest: inside the red engine room, a thick red muscular pillar that held the golden harp strings has SNAPPED clean in two; the strings hang slack and the bishop's mitre above them flaps loose, water gurgling back up through it into the red glass lobby. UPPER RIGHT: from the lobby, the pipes of green dollar bills drip soggy and wet, and Chopper holds up a gasping sailor. Below the mitre: the brick lower party wall stands whole, with no hole. In the corridor: Brook, the skeleton musician in a top hat, playing his violin very softly. Usopp trembling at the engine room's door.
+story:
+مضى أسبوع كامل على الأيّل الّذي صرعه السهم عند باب الفندق القديم، والرّزنامة على الحائط ممزّقة حتّى الورقة السابعة.
+وفي ليلة هادئة، سمع النزلاء طقّةً حادّةً من غرفة المحرّك الحمراء، كأنّ صاريًا انكسر.
+ثمّ أخذ بحّار في الطابق العلويّ يلهث، والدّولارات الخضراء تتساقط من الأنابيب مبتلّةً تقطر ماء.
+«لا بدّ أنّ الجدار الفاصل قد انثقب!» قالت نامي، وأسرعت تتفقّده.
+لكنّ الجدار الفاصل السفليّ كان سليمًا، لا ثقب فيه ولا شقّ.
+وكان بروك يعزف على كمانه في الممرّ، عزفًا خافتًا لا يكاد يسمع.
+«انظروا إلى العمود الأحمر!» همس تشوبر، وأشار إلى أرض غرفة المحرّك.
+فإذا العمود الأحمر الغليظ، الّذي تشدّ إليه أوتار القيثارة الذهبيّة، قد انكسر نصفين.
+فانفلت تاج الأسقف من مكانه يخفق، والماء يقرقر صاعدًا عبره إلى الردهة الحمراء.
+«انكسر العمود، فطار تاج الأسقف، وغرقت الدولارات!» قال تشوبر.
+فلمّا أمره تشوبر أن ينزل إلى الغرفة الغارقة، ارتجفت ساقا أوسوب، وردّد عذره القديم الّذي يقوله على شاطئ كلّ جزيرة مخيفة:
+quote: «عندي مرض لا أستطيع دخول هذه الجزيرة!»
+source: أوسوب
+explanation:
+A week after a heart attack, the stag and the calendar's 7, sudden severe breathlessness with pulmonary oedema, the soggy bills, and only a soft murmur point to papillary muscle rupture: A.
+The ruptured muscle, the snapped pillar, lets the mitral leaflets flail, so severe mitral regurgitation, the gurgling water, floods the lungs at once.
+The murmur may be soft or even absent, like Brook's quiet violin, because the left atrium and ventricle quickly reach the same pressure.
+It is usually the posteromedial papillary muscle that ruptures, because it has a single blood supply.
+A septal rupture would make a hole in the lower party wall and usually a loud murmur with a thrill; free-wall rupture causes tamponade, and stunning or an aneurysm does not flood the lungs this suddenly.
+Memory hook: a week after the stag falls, the pillar snaps, the mitre flaps and the bills go soggy.
+
+== 153
+# book 31.3: most at risk of ventricular septal rupture -> B, an 85-year-old without history, single 90% LAD lesion, 24 h after MI.
+# ANSWER: the ancient hotel (85), its stag struck by its first arrow, ONE tarred spike (the lad's slide), no ivy, its lower party wall bursting before the clock reaches 24 -> old age, first infarct, single-vessel LAD, no collaterals: early septal rupture (stag, lad, lower party wall, audited)
+# the younger hotel (40): three tarred spikes, but old ivy bridging them -> multivessel disease with collaterals is protected (A, C wrong)
+# the clock at 24 -> in the reperfusion era rupture often comes within the first day
+title: Who ruptures the septum: old, first infarct, single LAD lesion, no collaterals
+titleAr: من يتمزّق حاجزه: مسنّ، احتشاء أوّل، آفة وحيدة في الشريان الأماميّ النازل، بلا دوران جانبيّ
+tags: cardiac/coronary d:complications q:vignette l:3
+palette: dusk violet, old-stone grey and ivy green
+words: 85, 40, 24
+keywords: first myocardial infarction -> the first arrow ever to strike the stag's head over the ancient hotel's door; single-vessel left anterior descending disease -> a lad sliding down the only tarred spike of the old hotel's crown, the front one, his slide clogged with black tar; collaterals -> thick old ivy vines growing round the younger hotel's three tarred spikes and bridging them; ventricular septal rupture -> a ragged hole bursting through the ancient hotel's lower party wall; within 24 hours -> a wall clock showing 24
+must: the ancient hotel (85) has only ONE tarred spike and NO ivy anywhere; the younger hotel (40) has three tarred spikes wrapped in thick ivy; the hole is in the ancient hotel's lower party wall
+scene: Dusk on a hill above a harbour: two HART Hotels side by side, both cut open like doll's houses. LEFT, dominant and brightest: an ancient, crumbling hotel with 85 painted over its door; the stag's head over the door struck by its very first arrow; on its roof the green crown has ONE tarred spike, the front one, down which a young lad is sliding; there is NO ivy at all around it; inside, a ragged hole bursts through the brick lower party wall between the two engine rooms, water rushing through it; a wall clock beside it shows 24. RIGHT: a smaller, sturdier hotel with 40 painted over its door; three spikes of its crown are clogged with old black tar, but thick old ivy vines have grown round them and bridge each blockage; its walls are whole. Between the hotels: Robin and Chopper; Usopp points at the right-hand hotel; Luffy stares at the lonely spike.
+story:
+على تلّ فوق الميناء، وقف فندقان متجاوران: فندق عتيق نقش على بابه خمسة وثمانون، وفندق أصغر نقش على بابه أربعون.
+وفي ليلة واحدة، أصاب سهم رأس الأيّل فوق باب الفندق العتيق، وهو أوّل سهم يصيبه في عمره.
+وفي تاجه الأخضر شوكة واحدة فقط سدّها القطران الأسود، هي الشوكة الأماميّة الّتي ينزلق عليها فتًى صغير.
+أمّا الفندق الأصغر، فقد سدّ القطران ثلاثًا من أشواكه منذ سنين، لكنّ اللبلاب العتيق نبت حولها، ومدّ بينها جسورًا خضراء.
+«صاحب الأشواك الثلاث هو الّذي سينهار أوّلًا!» قال أوسوب.
+لكنّ الساعة على الحائط لم تبلغ الرابعة والعشرين، حتّى دوّى صوت في الفندق العتيق.
+فانفجر ثقب في جداره الفاصل السفليّ، واندفع الماء من غرفة محرّك إلى أختها.
+«شوكته الوحيدة لم يكن حولها لبلاب يسعفها.» همست روبين.
+«الفندق العجوز، بشوكة وحيدة بلا لبلاب، انثقب جداره في يوم واحد!» قال تشوبر.
+فنظر لوفي إلى الشوكة الوحيدة طويلًا، وتذكّر ما صرخ به في وجه أخيه إيس يوم كانا طفلين:
+quote: «الوحدة أشدّ ألمًا من الجراح!»
+source: مونكي دي لوفي
+explanation:
+Rupture of the ventricular septum, the hole in the old hotel's lower party wall, is most likely in the 85-year-old with a first infarction from a single LAD lesion: B.
+A first heart attack in a heart with no earlier ischaemia has no collaterals, the ivy vines, so the whole territory dies at once and the thin dead septum tears.
+Old age, a first infarction, single-vessel disease and an anterior infarction from the LAD, the lad's slide, are the classic risk factors; female sex and hypertension add to them.
+In the reperfusion era many ruptures appear early, within the first day, the clock's 24, rather than at three to five days.
+The younger patient with three blocked arteries and repeated ischaemia has grown collaterals that protect the septum, and an RCA occlusion can rupture the septum too, but less often than an anterior infarct.
+Memory hook: the lonely old hotel with one tarred slide and no ivy bursts its wall within a day.
+
+== 154
+# book 31.4: day 7 after a large anterior MI, sudden pain and dyspnoea, large pericardial effusion with clot, no MR or shunt, HR 120, BP 75/60 -> C, pericardiocentesis (the book's key; see note).
+# a stag with an arrow deep in the front of its chest, a calendar torn to 7 -> large anterior infarction a week ago (audited)
+# the engine room's outer brick wall blown out -> free-wall rupture (audited)
+# the glass aquarium round the hotel filling with red water and dark clots -> haemopericardium with tamponade (audited)
+# the gauge sunk to 75 and the tachometer at 120 -> shock: hypotension and tachycardia (audited)
+# ANSWER: Chopper's long needle from a small yellow submarine below the breastbone draining the aquarium into a bucket -> pericardiocentesis now (aquarium, audited)
+# the operating room's door at the end of a long corridor -> definitive repair follows; the walk is too long for a crashing patient
+title: Free-wall rupture with tamponade: drain the pericardium first (the book's answer)
+titleAr: تمزّق الجدار الحرّ مع الاندحاس: بزل التامور أوّلًا (جواب الكتاب)
+tags: cardiac/coronary cardiac/other d:complications q:next-step l:3
+palette: pale morning white, blood red behind glass and submarine yellow
+words: 7, 75, 120
+keywords: anterior myocardial infarction a week ago -> a stag with an arrow deep in the front of its chest, a calendar torn to 7; free wall rupture -> the outer brick wall of the red engine room blown out; cardiac tamponade -> the glass aquarium round the hotel filling with red water and dark clots, squeezing it; hypotension -> the big pressure gauge with its needle sunk into the low blue zone at 75; tachycardia -> a car tachometer bolted to the engine room, its needle at 120 in the red; pericardiocentesis -> a long needle pushed up from a small yellow submarine below the breastbone into the aquarium, the red water draining into a bucket; surgery next -> the open door of an operating room at the end of a long corridor
+must: the red water and clots are INSIDE the glass aquarium around the hotel; the needle from the yellow submarine goes into the aquarium
+scene: Morning at a quiet harbour. The HART Hotel stands inside a clear glass aquarium that fits tightly around it. LEFT, outside: a stag with an arrow deep in the front of its chest, a calendar torn to the page painted 7. The outer brick wall of the red engine room has BLOWN OUT, and red water with dark clots pours into the aquarium, which presses in on the hotel from all sides. On the hotel's side: a big round pressure gauge, its needle sunk to 75 in the low blue zone, and a car tachometer on the engine room, its needle at 120 in the red. CENTRE, dominant and brightest: just below the tip of the breastbone a small yellow submarine has surfaced, and from it Chopper pushes a long needle up into the aquarium; the red water drains through it into a big bucket. BACKGROUND RIGHT: the open door of an operating room at the end of a long corridor, Zoro pointing at it and Robin shaking her head. Usopp beside the submarine.
+story:
+بعد سبعة أيّام من السهم الّذي أصاب صدر الأيّل، كان الفندق القديم ساكنًا في ضوء الصباح.
+ثمّ دوّى صوت مكتوم، فانفجر الجدار الخارجيّ لغرفة المحرّك الحمراء، وتسرّب منه ماء أحمر.
+فامتلأ الحوض الزجاجيّ حول الفندق بالماء الأحمر وبكتل داكنة، وأخذ يعصر الفندق من كلّ جانب.
+فهبطت إبرة المقياس الكبير إلى خمسة وسبعين، وقفز عدّاد الدوران إلى مئة وعشرين.
+«فلنحمله إلى غرفة العمليّات حالًا، ولو مشيًا!» قال زورو.
+«لن يحتمل الممرّ الطويل، فالإبرة تهبط مع كلّ خطوة!» قالت روبين.
+فقفز تشوبر إلى غوّاصة صفراء صغيرة طفت تحت طرف عظم الصدر، ودفع منها إبرةً طويلةً إلى الحوض.
+فسال الماء الأحمر في دلو كبير، وارتفعت إبرة المقياس، وهدأ عدّاد الدوران.
+«نفرغ الحوض الآن بالإبرة، ثمّ نرقّع الجدار في غرفة العمليّات!» قال تشوبر.
+«أتقدر على هذا وحدك يا تشوبر؟» سأله أوسوب، فأجابه تشوبر بجواب لوفي القديم:
+quote: «ليست المسألة أن أقدر أو لا أقدر؛ سأفعلها لأنّي أريد ذلك!»
+source: مونكي دي لوفي
+explanation:
+A week after a large anterior infarction, sudden pain, shock and a pericardial effusion full of clot, with no mitral regurgitation and no shunt, mean rupture of the left ventricular free wall.
+The blood in the pericardium, the red water in the aquarium, squeezes the heart: pressure 75 over 60, pulse 120.
+The book's answer is pericardiocentesis, C: a needle from below the xiphoid, Chopper's yellow submarine, drains the pericardium and relieves the tamponade at once.
+It only buys time: the torn wall must then be repaired in the operating room.
+PCI, a chest tube or a balloon pump do nothing for the tamponade.
+Memory hook: the wall blows out, the aquarium floods red, and the needle from the yellow submarine drains it before the long walk to theatre.
+note: The book's key is C. Many surgeons would take a patient with free-wall rupture straight to the operating room; pericardiocentesis is a bridge that relieves the tamponade in a crashing patient while the theatre is made ready.
+
+== 155
+# book 31.5: indications for repair of a ventricular aneurysm, EXCEPT -> E, an aneurysm exceeding 15% of the LV surface.
+# the pink bubble-gum bubble on the engine room's wall -> left ventricular aneurysm (audited)
+# ANSWER: the small sign painted 15 lifted off and thrown away by Chopper -> size alone (15% of the surface) is not an indication
+# the taxis' traffic jam -> heart failure symptoms: an indication (audited)
+# the bouncer's counter at 40 -> a falling ejection fraction: an indication (audited)
+# the beaver's dam inside the bubble sending a bowling ball to the head lantern struck by lightning -> embolic stroke from a clot in the aneurysm: an indication (audited)
+# the yellow tape measure growing longer -> an enlarging aneurysm: an indication
+# Franky sewing a round patch door over the bubble's mouth -> the repair (Dor; audited)
+title: LV aneurysm: repair it for symptoms, emboli or growth, not for its size alone
+titleAr: أمّ دم البطين الأيسر: تُصلَح للأعراض والصمّات والنموّ، لا لحجمها وحده
+tags: cardiac/coronary d:indications q:recall l:2
+palette: bubble-gum pink, dockyard steel blue and taxi yellow
+words: 15, 40
+keywords: left ventricular aneurysm -> a big pink bubble-gum bubble bulging out of the wall of the red engine room; congestive heart failure -> a traffic jam of yellow taxis in the street outside; low ejection fraction -> a nightclub bouncer at the engine room's door ejecting only a few guests, his counter at 40; mural clot -> a beaver building a dam inside the bubble; embolic stroke -> a black bowling ball rolling from the dam up to a head-shaped lantern that a lightning bolt strikes; growth -> a yellow tape measure round the bubble-gum bubble growing longer day by day; size of 15 percent -> a small sign painted 15 hung on the bubble-gum bubble, lifted off and thrown away; surgical ventricular restoration -> Franky sewing a round patch door over the bubble's mouth
+must: the sign 15 is being thrown away; each of the four reasons (taxis, bouncer, beaver with bowling ball, tape measure) stands in its own lit place along the quay
+scene: Franky's repair dock in Water 7, bright daylight. CENTRE, dominant and brightest: a big pink bubble-gum bubble bulging out of the wall of the red engine room of the HART Hotel, a small sign painted 15 hanging on it; Chopper lifts the sign off and tosses it aside, while Franky sews a round patch door over the bubble's mouth. Along the quay, left to right, each under its own lantern: a traffic jam of yellow taxis in the street; a nightclub bouncer at the engine room's door with a counter painted 40; a beaver building a dam inside the bubble, a black bowling ball rolling out of it up to a head-shaped lantern that a lightning bolt strikes; a yellow tape measure round the bubble, growing longer. Usopp standing on a barrel, shouting.
+story:
+في حوض إصلاح السفن في ووتر سيفن، انتفخت فقّاعة علك ورديّة كبيرة من جدار غرفة المحرّك الحمراء.
+وعلّقت عليها لافتة صغيرة كتب عليها: خمسة عشر.
+«خمسة عشر! إنّها ضخمة، أصلحها فورًا يا فرانكي!» صاح أوسوب.
+لكنّ تشوبر نزع اللافتة عن الفقّاعة بحافره، ورماها جانبًا بهدوء.
+«لا نرقّعها لأنّها كبيرة، بل لأنّها تؤذي!» قال تشوبر.
+ثمّ أشار إلى الشارع، حيث علقت سيّارات الأجرة الصفراء في زحمة خانقة.
+وإلى بوّاب الملهى عند باب غرفة المحرّك، لا يطرد إلّا قلّةً من الضيوف، وعدّاده هابط إلى الأربعين.
+وإلى قندس يبني سدًّا في جوف الفقّاعة، تتدحرج منه كرة بولينغ سوداء إلى الفانوس الّذي على هيئة رأس، فتضربه صاعقة.
+وإلى شريط قياس أصفر حول الفقّاعة، يطول يومًا بعد يوم.
+«الزحمة والبوّاب والقندس والشّريط الّذي يطول: لأجلها ترقّع الفقّاعة، لا لأجل الخمسة عشر!» قال تشوبر، وفرانكي يخيط فوق فم الفقّاعة رقعةً مستديرةً كالباب.
+«أنت تصيح بلا سبب، كما كنت تصيح في قريتك كلّ صباح!» ضحك تشوبر، فقفز أوسوب على برميل وأعاد صيحته القديمة:
+quote: «القراصنة قادمون! القراصنة قادمون!»
+source: أوسوب
+explanation:
+A left ventricular aneurysm, the bubble-gum bubble, is repaired for what it does, not for its size alone, so an aneurysm covering 15 percent of the ventricle is the exception: E.
+Heart failure symptoms, the taxis' traffic jam, are an indication.
+So is a falling ejection fraction, the bouncer's counter at 40.
+So is an embolic stroke from a clot inside the aneurysm, the beaver's dam sending a bowling ball to the head lantern; angina and ventricular arrhythmias are others.
+An aneurysm that keeps growing, the lengthening tape measure, should also be repaired, usually by excluding the scar with a patch that restores the ventricle's shape, Franky's round patch door.
+Memory hook: operate for the jam, the bouncer, the beaver and the tape measure, never for the sign 15 alone.
+
+== 156
+# book 32.1: aortic valve embryology and anatomy -> C, parts of the non-coronary and left coronary cusps are in continuity with the anterior mitral leaflet.
+# three salsa bowls round the orca's base -> the aortic root and its three sinuses (audited)
+# crown spikes from two bowls, one bowl empty -> the left and right coronary sinuses; the non-coronary sinus (audited)
+# ANSWER: the white silk curtain hanging from the left bowl and the empty bowl down to the mitre's front leaf -> aortomitral fibrous continuity (mitre audited)
+# the right bowl resting on thick red brick, nothing hanging from it -> the right cusp sits over the muscular septum (D wrong)
+# Nami's sly lie (the right bowl) -> the tempting wrong answer
+title: The aortomitral curtain: the left and non-coronary cusps meet the anterior mitral leaflet
+titleAr: الستارة الأبهريّة التاجيّة: الشرفتان اليسرى واللاتاجيّة تتّصلان بالوريقة الأماميّة للصمّام التاجيّ
+tags: cardiac/aortic-valve d:anatomy q:recall l:2
+palette: warm galley lamplight, salsa red and white silk
+keywords: aortic root -> three round bowls of red salsa round the base of the killer-whale balloon just above its mouth; coronary arteries -> green crown spikes rising from two of the bowls, the third bowl empty; anterior mitral leaflet -> the front leaf of a bishop's mitre set in the floor below; aortomitral continuity -> a white silk curtain hanging from the left bowl and the empty bowl down to the mitre's front leaf; the right cusp over the septum -> the right bowl resting on thick red brick, nothing hanging from it
+must: the silk curtain hangs from the LEFT bowl and the EMPTY bowl only, down to the mitre's FRONT leaf; the right bowl rests on brick
+scene: The galley of the Baratie, the floating restaurant, in warm lamplight. CENTRE, dominant and brightest: the base of a giant killer-whale parade balloon just above its mouth, ringed by three round bowls of red salsa; green crown spikes rise from two of the bowls, the third bowl is empty; from the LEFT bowl and the EMPTY bowl a white silk curtain hangs straight down to the front leaf of a bishop's mitre set in the floor below; the RIGHT bowl sits on thick red brick and nothing hangs from it. Sanji, in a black suit, traces the silk curtain with his fingers, hearts in his eyes; Luffy reaches for the salsa; Nami points at the right bowl with a sly smile.
+story:
+في مطبخ الباراتي، المطعم العائم، صفّ سانجي ثلاثة أطباق من الصلصة الحمراء حول قاعدة الحوت القاتل العملاق، فوق فمه تمامًا.
+ومن طبقين منها ارتفعت شوكتان من التاج الأخضر، أمّا الطبق الثالث فكان فارغًا لا شوكة فيه.
+وتحت الحوت، في أرض الردهة الحمراء، استقرّ تاج الأسقف بورقتيه: ورقة أماميّة وورقة خلفيّة.
+«أيّ الأطباق مربوط بتاج الأسقف؟» سأل لوفي، وهو يمدّ يده إلى الصلصة.
+«الطبق الأيمن بلا شكّ!» قالت نامي بابتسامة ماكرة.
+فتتبّع سانجي بأصابعه ما تحت الأطباق، فإذا الطبق الأيمن قائم على طوب أحمر غليظ، لا يتدلّى منه شيء.
+أمّا الطبق الأيسر والطّبق الفارغ، فقد تدلّت منهما ستارة من الحرير الأبيض، حتّى بلغت ورقة التاج الأماميّة.
+«الستارة تصل الطبق الأيسر والطّبق الفارغ بورقة التاج الأماميّة، يا آنسة نامي!» قال سانجي.
+«كذبت لأرى هل تتحقّق بنفسك يا سانجي!» ضحكت نامي.
+فانحنى سانجي أمامها، وعيناه قلبان يرقصان، وقال:
+quote: «مسامحة كذب المرأة من شيم الرجال!»
+source: سانجي
+explanation:
+The aortic and mitral valves are joined by fibrous tissue: parts of the left and the non-coronary cusps are in continuity with the anterior mitral leaflet: C.
+In the picture, the white silk curtain hangs from the left salsa bowl and the empty one down to the front leaf of the mitre.
+This aortomitral curtain is why endocarditis, calcification and surgery of one valve so often involve the other.
+The right coronary cusp, the right bowl on brick, sits over the muscular septum, not over the mitral valve.
+The semilunar valves form early, by about the ninth week, not in the twelfth, and their leaflets are layered tissue rich in collagen, elastin and glycosaminoglycans.
+Memory hook: the silk curtain hangs from the left bowl and the empty bowl down to the mitre.
+
+== 157
+# book 32.2: aortic stenosis -> C, severe concentric and septal hypertrophy may not be correctable with valve replacement.
+# the orca's mouth turned to stone, pinched to a slit -> aortic stenosis (audited)
+# the engine room's brick walls grown thick inward, the party wall bulging, the fan cramped -> concentric and septal hypertrophy, less compliance (A wrong: not eccentric, not more compliant)
+# Chopper fitting new dentures -> aortic valve replacement (audited)
+# ANSWER: the thick bricks staying thick after the new dentures -> severe hypertrophy may never fully regress
+# the calendar with many months torn away -> regression takes months to years, not under a month (D wrong)
+title: Aortic stenosis: severe concentric hypertrophy may not regress after valve replacement
+titleAr: تضيّق الصمّام الأبهريّ: قد لا يتراجع الضخام المتّحد المركز الشديد بعد تبديل الصمّام
+tags: cardiac/aortic-valve d:physiology q:recall l:2
+palette: cold harbour grey, brick red and dentist white
+keywords: aortic stenosis -> the killer-whale balloon's mouth turned to grey stone, pinched to a narrow slit; concentric left ventricular hypertrophy -> the red engine room's brick walls grown thick inward, the party wall bulging, the big fan hardly able to turn; aortic valve replacement -> Chopper as a dentist fitting brand-new shining dentures into the orca's mouth; hypertrophy that does not regress -> the thick bricks staying thick after the new dentures, beside a calendar with many months torn away; aorta -> Chopper as a dentist fitting brand-new shining dentures into the orca's mouth
+must: the walls are still thick AFTER the new dentures are in; many calendar pages are torn away
+scene: A harbour pier beside the HART Hotel, in cool grey light. LEFT: the killer-whale parade balloon's mouth, turned to grey stone and pinched to a narrow slit. CENTRE, dominant and brightest: Chopper in a dentist's white coat has just fitted brand-new shining dentures into the orca's mouth; below, inside the red engine room, the brick walls have grown thick inward and the party wall bulges, leaving the big fan hardly room to turn, and the thick bricks stay exactly as thick. RIGHT: a wall calendar with many months torn away and scattered on the floor. Usopp, surprised; Luffy patting Chopper's shoulder.
+story:
+عند رصيف الفندق القديم، كان فم الحوت القاتل قد تحجّر رماديًّا، لا ينفتح إلّا شقًّا ضيّقًا.
+فكانت مروحة غرفة المحرّك الحمراء تدفع الماء نحوه بكلّ قوّتها، سنةً بعد سنة.
+حتّى غلظت جدران الغرفة إلى الداخل، وانتفخ الجدار الفاصل، فضاقت الغرفة على مروحتها.
+فجاء تشوبر في معطف طبيب أسنان أبيض، وركّب في فم الحوت طقم أسنان جديدًا لامعًا.
+«بعد شهر واحد ستعود الجدران رقيقةً كما كانت!» قال أوسوب.
+لكنّ الشهر مضى، ثمّ مضت شهور كثيرة تمزّقت أوراقها عن الرزنامة، والجدران ترقّ قليلًا قليلًا.
+وبقيت في الجدار الفاصل طبقة غليظة من الطوب، لا تذوب أبدًا.
+فحزن تشوبر، وأطرق برأسه أمام الطوب الغليظ.
+«فم من حجر، وجدران غلظت إلى الداخل، وبعض الغلظ يبقى حتّى بعد الأسنان الجديدة!» قال تشوبر.
+فربت لوفي على كتفه ضاحكًا، وردّد ما قاله له شانكس يوم فقد ذراعه لينقذه من وحش البحر:
+quote: «ذراع واحدة ثمن رخيص... يكفي أنّك بخير!»
+source: شانكس
+explanation:
+In aortic stenosis, the stone mouth pinched to a slit, the left ventricle works against a fixed obstruction and thickens concentrically, its walls growing inward and stiffening.
+Severe concentric and septal hypertrophy may not be corrected by valve replacement: C.
+After the new valve, Chopper's dentures, the muscle regresses slowly over months to years, and some thickness and stiffness can remain for good.
+The hypertrophy is concentric, not eccentric, and compliance falls rather than rises.
+A bicuspid valve is found in about 1 to 2 percent of people, not 15 percent.
+Memory hook: new dentures in the stone mouth, but the thick brick walls stay thick.
+
+== 158
+# book 32.3: aortic insufficiency -> A, isolated insufficiency is usually due to structural abnormalities of the valve causing leaflet elongation and prolapse.
+# the orca's sagging mouth dripping water back -> aortic insufficiency (audited)
+# ANSWER: the orca's lips grown long and floppy, one billowing backward like a sail -> cusp elongation and prolapse (sail, audited)
+# the tape measure fitting the neck exactly -> here the root is not the cause
+# the engine room grown wide and round -> chronic insufficiency: eccentric dilation
+title: Isolated aortic insufficiency: elongated, prolapsing cusps
+titleAr: قصور الصمّام الأبهريّ المعزول: شُرَفٌ متطاولة متدلّية
+tags: cardiac/aortic-valve d:pathology q:recall l:2
+palette: golden afternoon, workshop rust and sail white
+keywords: aortic insufficiency -> the killer-whale balloon's sagging mouth dripping water back into the red engine room; cusp elongation and prolapse -> the orca's lips grown long and floppy, one billowing backward like a ship's sail full of wind; a root of normal size -> a yellow tape measure wrapped round the orca's neck, fitting exactly; chronic left ventricular dilation -> the red engine room grown wide and round around its big fan; aorta -> the orca balloon, its root of normal size
+must: one lip billows backward like a sail; the tape measure shows the neck is a normal size
+scene: Franky's workshop at Water 7, golden afternoon light. CENTRE, dominant and brightest: the killer-whale parade balloon's mouth hanging open, its two lips grown long and floppy, one lip billowing backward like a ship's sail full of wind, and water dripping back from under it into the red engine room below, which has grown wide and round around its big fan. LEFT: Usopp pointing at the orca's neck, and Franky's yellow tape measure wrapped round the neck, fitting it exactly. RIGHT: Franky in sunglasses, his huge metal forearms raised over his head in his famous pose; Chopper writing in a notebook.
+story:
+في ورشة فرانكي بووتر سيفن، كان فم الحوت القاتل يتدلّى، والماء يقطر منه راجعًا إلى غرفة المحرّك الحمراء.
+ومع السنين، اتّسعت الغرفة واستدارت حول مروحتها، كأنّها تبتلع الماء العائد مرّةً بعد مرّة.
+«عنق الحوت هو الّذي تمدّد، فانفتح الفم من حوله!» قال أوسوب.
+فلفّ فرانكي شريط القياس الأصفر حول عنق الحوت، فإذا هو على مقاسه تمامًا.
+ثمّ نظر في الفم نفسه، فإذا شفتاه قد طالتا وارتختا.
+وإذا إحداهما تنتفخ إلى الوراء كشراع ملأته الريح، فينفذ الماء من تحتها راجعًا.
+«ليس العنق هو السبب يا أوسوب؛ الشفاه نفسها طالت وصارت شراعًا!» قال فرانكي.
+«الفم يقطر لأنّ شفاهه طويلة مرتخية، تنتفخ كالشّراع!» قال تشوبر، وهو يدوّن في دفتره.
+فوضع فرانكي نظّارته الشمسيّة على جبينه، ورفع ذراعيه الحديديّتين فوق رأسه في وقفته الشهيرة، وصاح:
+quote: «أنا سوبر هذا الأسبوع!»
+source: فرانكي
+explanation:
+Isolated aortic insufficiency is usually caused by a structural abnormality of the valve itself: the cusps become elongated and prolapse, like the orca's long lip billowing back as a sail: A.
+Franky's tape measure shows the neck, the root, is a normal size here, so the leak comes from the cusps.
+In chronic insufficiency the ventricle dilates and grows eccentrically, the engine room becoming wide and round, and the pulse pressure widens, which lowers diastolic coronary perfusion.
+Acute severe insufficiency is an emergency: the ventricle has had no time to adapt, and most patients need an urgent operation, not a delayed elective one.
+Memory hook: the orca's mouth drips because its lips are too long and billow back like a sail.
+note: A dilated aortic root is also a common cause of pure aortic insufficiency; the book's answer stresses disease of the cusps themselves.
+
+== 159
+# book 32.4: clinical presentation of aortic valve disease -> E, aortic insufficiency has an insidious onset with gradual heart failure and fatigue.
+# the stone-mouthed orca towed up the left path -> aortic stenosis (audited)
+# milestones 5, 3, 2: the stone angel, the fainting couch, the taxi jam -> average survival after angina, syncope and heart failure is about 5, 3 and 2 years (C wrong; B wrong)
+# ANSWER: the dripping-mouthed orca's sailor walking on for years, yawning, slowing, a traffic jam slowly growing behind him -> aortic insufficiency: insidious fatigue and gradual heart failure (audited)
+# Usopp expecting him to fall at once -> sudden death is rare in aortic insufficiency (D wrong)
+title: Aortic insufficiency begins insidiously, with fatigue and slowly growing heart failure
+titleAr: قصور الصمّام الأبهريّ يبدأ خلسةً، بالتعب وقصور القلب الذي يكبر ببطء
+tags: cardiac/aortic-valve d:diagnosis q:recall l:2
+palette: snow white, cold mountain blue and taxi yellow
+words: 5, 3, 2
+keywords: aortic stenosis -> a killer-whale balloon whose mouth has turned to stone, towed up the left path; angina -> a heavy stone angel sitting on the first sailor's chest at milestone 5; syncope -> the first sailor fainting backwards onto a red velvet couch at milestone 3; congestive heart failure -> the first sailor stuck in a traffic jam of yellow taxis at milestone 2; aortic insufficiency -> a killer-whale balloon whose mouth sags and drips water, towed up the right path; insidious fatigue and slow heart failure -> the second sailor yawning, his steps slowing, yellow taxis gathering behind him into a slow, growing traffic jam
+must: the second sailor never falls, he only slows and yawns; the milestones read 5, 3, 2 in that order up the left path
+scene: Two snowy mountain paths side by side on a winter island, in bright cold light. LEFT path: an old sailor towing a killer-whale parade balloon whose mouth has turned to stone; up his path three milestones painted 5, 3 and 2: at 5 a heavy stone angel sits on his chest, at 3 he faints backwards onto a red velvet couch, at 2 he is stuck in a traffic jam of yellow taxis. CENTRE-RIGHT, dominant and brightest: a second old sailor towing a killer-whale balloon whose mouth sags and drips water, walking slowly up a long, gentle path, yawning, his steps heavier and heavier, while behind him yellow taxis gather one by one into a slow, growing traffic jam. Usopp points at the second sailor; Chopper at the foot of the paths; Brook, the skeleton in a top hat, climbs behind them with a hand on his chest.
+story:
+على جبل مثلج في جزيرة شتويّة، صعد بحّاران عجوزان دربين متجاورين، يجرّ كلّ منهما بالون حوت قاتل بخيط.
+فم الحوت الأوّل قد تحجّر، أمّا فم الحوت الثاني فيتدلّى ويقطر ماء.
+على درب الفم الحجريّ، جلس ملاك حجريّ ثقيل على صدر صاحبه عند حجر الميل خمسة.
+وعند حجر الميل ثلاثة، هوى مغشيًّا عليه فوق أريكة حمراء، وعند حجر الميل اثنين، علق في زحمة سيّارات أجرة صفراء.
+«وصاحب الفم الّذي يقطر سيسقط فجأةً على الطريق!» قال أوسوب.
+لكنّ البحّار الثاني لم يسقط، بل ظلّ يمشي سنين طويلة، وخطاه تثقل قليلًا قليلًا.
+يتثاءب كلّ حين، وخلفه تتجمّع سيّارات الأجرة واحدةً بعد واحدة، حتّى صارت زحمةً بطيئةً طويلة.
+«الفم الّذي يقطر يتعب صاحبه ببطء، وتكبر زحمته سنةً بعد سنة!» قال تشوبر.
+وكان بروك يصعد خلفهما يلهث من التعب، فوضع يده العظميّة على صدره وقال:
+quote: «قلبي يكاد يقفز من صدري... مع أنّه ليس لي قلب! يو هو هو هو!»
+source: بروك
+explanation:
+Aortic insufficiency, the sagging, dripping mouth, usually develops insidiously: over years the ventricle dilates and the patient grows tired and slowly slips into heart failure: E.
+Sudden death is rare in aortic insufficiency, so Usopp's guess, that the second sailor would fall at once, is wrong.
+In severe aortic stenosis, the stone mouth, the average survival after the classic symptoms is about 5 years with angina, 3 with syncope and 2 with heart failure, so heart failure, not angina, carries the worst outlook.
+Breathlessness on exertion, not syncope, is the commonest first symptom of stenosis, and a bicuspid valve usually becomes severely stenotic in the fifth or sixth decade, not the seventh.
+Memory hook: the stone mouth passes milestones 5, 3, 2; the dripping mouth just walks on, yawning, while the traffic jam slowly grows.
+
+== 160
+# book 32.5: aortic valve replacement -> B, full root replacement with the Medtronic Freestyle bioprosthesis: nearly 100% freedom from aortic insufficiency and reoperation at 8 years.
+# ANSWER: the pink pig swimming freestyle into the orca's base, its own skin becoming the new mouth and the three salsa bowls, no metal frame -> the Freestyle stentless porcine root (pig and salsa, audited)
+# not a drop coming back from the new mouth -> freedom from aortic insufficiency (audited)
+# Nami's calendar of 8 years, every page ticked -> freedom from reoperation at 8 years
+# Sanji with his knife -> the joke: the pig escapes the kitchen to become the valve
+title: Full root replacement with the Freestyle stentless pig root: almost no leaks or reoperations at 8 years
+titleAr: تبديل الجذر كاملًا بجذر خنزير بلا دعامة (فريستايل): لا قصور ولا إعادة جراحة تقريبًا بعد 8 سنوات
+tags: cardiac/aortic-valve d:evidence q:recall l:3
+palette: turquoise sea, piglet pink and sunny sand
+words: 8
+keywords: porcine stentless root (Medtronic Freestyle) -> a pink pig swimming freestyle, front crawl, straight into the base of the killer-whale balloon, its own pink skin becoming the new mouth and three new salsa bowls with no metal frame; freedom from aortic insufficiency -> not a drop of water coming back from the orca's new mouth; freedom from reoperation at 8 years -> a calendar painted 8 crossed off page by page, every page with a dry tick; aortic root -> its own pink skin becoming the orca's new mouth and three new salsa bowls round it
+must: the pig swims freestyle (front crawl); there is no metal frame in the new mouth; the calendar reads 8
+scene: A warm turquoise sea beside a sunny Grand Line beach. CENTRE, dominant and brightest: a pink pig swimming fast freestyle, front crawl, straight into the base of a giant killer-whale parade balloon floating in the water, its own pink skin becoming the orca's new mouth and three new salsa bowls round it, with no metal frame at all; not a drop of water comes back from the new mouth. LEFT, on the beach: Sanji holding a kitchen knife, staring open-mouthed. RIGHT, on a rock: Nami crossing off the pages of a calendar painted 8, every page marked with a dry tick; Luffy clapping with delight, Chopper on his shoulder.
+story:
+عند شاطئ دافئ على الخطّ الكبير، كان فم الحوت القاتل قد بلي، وتشقّقت أطباق الصلصة الثلاثة من حوله.
+«سأشوي هذا الخنزير الورديّ، وأصنع من صلصته أطباقًا جديدة!» قال سانجي، وهو يشحذ سكّينه.
+فقفز الخنزير الورديّ إلى الماء، وسبح سباحةً حرّةً سريعة، ضربةً بعد ضربة.
+ودخل بجسمه كلّه إلى قاعدة الحوت، فصار جلده الورديّ فمًا جديدًا، وثلاثة أطباق جديدة.
+بلا إطار معدنيّ ولا مسمار، صار الجذر كلّه من لحم الخنزير السابح.
+فعلّقت نامي على الصخرة رزنامةً من ثماني سنوات، وأخذت تشطب صفحاتها واحدةً بعد واحدة.
+«ثماني سنوات، ولا قطرة تعود، ولا زيارة لطبيب الأسنان!» قالت نامي.
+«خنزير سبح سباحةً حرّة، فصار جذرًا كاملًا لا يقطر ثماني سنوات!» قال تشوبر.
+فصفّق لوفي فرحًا بالخنزير السبّاح، وقال له ما يقوله لكلّ من أعجبه:
+quote: «انضمّ إلى طاقمي!»
+source: مونكي دي لوفي
+explanation:
+A full aortic root replacement with the Medtronic Freestyle, a stentless pig root, has shown nearly 100 percent freedom from aortic insufficiency and from reoperation at 8 years: B.
+The pig swimming freestyle into the orca's base is that root: the pig's own valve and sinuses with no stent frame, so the opening is wide and the valve stays competent.
+Placing a valve with everting sutures seats it inside the annulus and usually means a smaller prosthesis; non-everting, supra-annular placement allows a larger one.
+Homografts do not calcify early and rapidly; their limit is later structural degeneration.
+Memory hook: the pig swims freestyle into the root, and for 8 years not one drop comes back.

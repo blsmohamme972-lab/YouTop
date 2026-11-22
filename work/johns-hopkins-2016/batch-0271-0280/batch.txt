@@ -1,0 +1,321 @@
+book: johns-hopkins-2016
+# Lessons 271-280 (book 55.1-56.5: the catheterization laboratory, intraoperative echocardiography).
+# Written 2026-11-22, night. Each story: a hook, a wrong try that fails, the answer acting, a payoff line that names
+# the symbol, and a lead-in that says who speaks the quotation and why it fits.
+# The book's file lost several signs (beta, >, <) and has OCR misprints here; the book's 'typos' map mends them
+# (content/books/johns-hopkins-2016.json), so the quiz shows "Beta-blockers", "Qp/Qs > 1.5:1", "PVa", "2.0 cm".
+# 275: the book's key (none of the above) was right in 2016; PFO closure has been FDA-approved since October 2016.
+# The key is kept; the story and the explanation teach both.
+# Quotations added 2026-11-22 (the owner left the choice to the agent: "make anything strong and consistent"):
+# a One Piece line (at most three uses, 20 lessons apart) or a classical Arabic line read out by Robin; see ../quote-bank.md.
+
+== 271
+# book 55.1: true statement on radiation safety -> D, the maximum whole-body dose per year is 5 rems.
+# ANSWER: exactly five glowing RAMS let through the studio gate in a year, the counter on 5 (RAMs = REMs)
+# no threshold for cancer (a crab from a single flash, A wrong); twice as far = a quarter (B wrong); a pregnant worker in a lead apron with her own badge (C wrong); lifetime about 1 rem x age, not 100 (E wrong) (audited crab)
+title: The yearly limit of whole-body radiation for staff is 5 rem
+titleAr: الحدّ السنويّ لجرعة الإشعاع على الجسم كلّه للعاملين 5 ريم
+tags: cardiac/foundations d:evidence q:numbers l:2
+palette: Punk Hazard fire red, ice blue and lead grey
+words: 5
+keywords: angiography (fluoroscopy) -> a photographer's camera flashing glowing green rays in his studio; whole-body dose limit of 5 rems a year -> exactly five glowing rams let through the studio gate in a year, the gatekeeper's counter on 5 (RAMs = REMs); no threshold for malignancy -> a small red crab creeping out of a single flash; inverse square law -> a sailor stepping twice as far back from the camera, only a quarter of the sparks reaching him; pregnant staff -> a pregnant woman working in a lead apron with her own small badge; cardiac catheterization -> a long thin fishing line paid out from a reel up from the groin into a hotel under the photographer's flashes
+must: exactly five glowing rams pass the gate and the counter shows 5; a sixth ram is stopped
+scene: A laboratory on Punk Hazard, half fire and half ice. CENTRE, dominant and brightest: the gate of a photographer's studio, exactly five glowing green rams passing through it, Chopper the little reindeer doctor holding up a counter showing 5, a sixth ram stopped at the gate. AROUND, dimmer: the photographer flashing his camera with glowing green rays; Usopp stepping twice as far back from the camera, only a quarter of the sparks reaching him; a pregnant woman working in a lead apron with her own small badge; a small red crab creeping out of a single flash. Under the flashes, a long thin fishing line is paid out from a reel up from the groin into a HART Hotel.
+story:
+في مختبر على جزيرة بانك هازارد، نصفها نار ونصفها جليد، كان مصوّر يطلق من آلته ومضات خضراء، تقفز منها كباش مضيئة تنطح من حولها.
+وتحت الومضات، كان خيط صيد طويل رفيع يصعد من بكرته، من أعلى الفخذ، إلى فندق مريض.
+فوقف تشوبر عند بوّابة المختبر وفي يده عدّاد، يعدّ الكباش الّتي تبلغ كلّ عامل في السنة.
+«القاعدة مئة كبش في العمر كلّه! سآخذ عشرين هذه السنة، ثمّ أرتاح بعدها!» قال أوسوب، وفتح البوّابة للكباش.
+لكنّ تشوبر أغلق البوّابة في وجه الكبش السادس، والعدّاد على خمسة.
+«إذن أقف أبعد بمثلين، فلا يصلني إلّا النصف!» قال أوسوب، وتراجع إلى الوراء.
+فلم يصله إلّا ربع الشرارات، لا نصفها؛ ففتح فمه دهشة.
+وفي الركن، كانت امرأة حامل تعمل في مئزر من الرصاص، وعلى خصرها شارة صغيرة خاصّة بها.
+ومن ومضة واحدة، زحف سرطان أحمر صغير؛ فالسّرطان لا ينتظر عتبةً حتّى يخرج.
+«خمسة كباش في السنة، ولا كبش زيادة؛ ومن وقف أبعد بمثلين أصابه الربع!» قال تشوبر.
+فأطلّت الدكتورة كوريها العجوز من باب المختبر، وغمزت أوسوب قائلة:
+quote: «تريد أن تعرف سرّ شبابي؟»
+source: الدكتورة كوريها
+explanation:
+The maximum amount of whole body radiation dose per year is 5 rems: D.
+This is the occupational limit for staff, 50 mSv; in the picture, five glowing rams (REMs) pass the gate each year and the sixth is stopped.
+Cancer is a stochastic effect with no threshold: the risk rises with any dose, which is why every flash counts.
+Exposure falls with the square of the distance, so standing twice as far gives a quarter of the dose, not half.
+Pregnant staff may keep working with a lead apron and a second badge at the waist; the limit for the fetus is 0.5 rem over the whole pregnancy.
+The lifetime limit is about 1 rem times the age in years, not 100 rems.
+Memory hook: five rams a year through the gate.
+
+== 272
+# book 55.2: FALSE statement on angiographic views -> D, the mid-to-distal LAD is best seen in the LAO caudal projection.
+# ANSWER: Usopp crouched low on the left by the feet, his spider photo showing the water main's split but folding the lad's lower slide out of sight; the ladder photo from above the head shows the lad's whole slide (audited photographer, lad, water main, acrobat)
+title: The mid-to-distal LAD is seen best in cranial views, not in the LAO caudal view
+titleAr: الشريان الأماميّ النازل في وسطه ونهايته يُرى أوضح في المساقط الرأسيّة لا في المسقط الأيسر الذيليّ
+tags: cardiac/coronary d:diagnosis q:recall l:3
+palette: newsroom paper white, magenta dye and camera black
+keywords: coronary angiography -> a photographer squirting glowing magenta dye into the crown's slides and flashing his camera; LAO caudal view -> a photo taken from low by the feet on the hotel's left side, looking like a spider: the water main splitting into the lad and the acrobat; mid-to-distal LAD -> the lad's long slide down the front of the Liberty crown, folded out of sight in the spider photo; cranial views -> a photo taken from a tall ladder above the head, showing the lad's whole slide; left main ostium -> the start of the water main where it leaves the orca, caught from the left
+must: the spider photo from low on the left shows the water main's split but hides the lad's lower slide; the ladder photo from above shows the lad's whole slide
+scene: The World Economy News office, its walls covered in photos. CENTRE, dominant and brightest: two big photos pinned side by side: one taken from low by the feet on the left, looking like a spider, a big cast-iron water main splitting into a young lad and a circus acrobat, the lad's lower slide folded out of sight; one taken from a tall ladder above the head, showing the young lad's whole slide down the front of the Statue of Liberty's green crown. A photographer squirting glowing magenta dye and flashing his camera from the top of the ladder. LEFT: Usopp crouched low by the feet with a camera. Chopper.
+story:
+في مكتب صحيفة الاقتصاد العالميّ، جاء المصوّر بصبغه الأرجوانيّ، يريد صورةً لمزلقة الفتى كلّها على وجه التاج الأخضر.
+«من هنا، من الأسفل عند القدمين، ومن جهة اليسار! هذا أفضل مكان!» قال أوسوب، وجثا على الأرض بآلة التصوير.
+فخرجت الصورة كعنكبوت: أنبوب الماء الرئيسيّ ينقسم إلى الفتى والبهلوان، واضحًا جميلًا.
+لكنّ مزلقة الفتى الطويلة إلى الأسفل انطوت على نفسها واختفت.
+فصعد المصوّر سلّمًا عاليًا فوق الرأس، وضغط الزرّ.
+فظهرت مزلقة الفتى كلّها، من أعلاها إلى آخرها، وكلّ منعطف فيها واضح.
+وفي الصور الأخرى على الجدار، ظهرت بداية أنبوب الماء من اليسار، والبهلوان يلتفّ واضحًا من الأسفل.
+«لوسط مزلقة الفتى وآخرها، اصعد نحو الرأس؛ أمّا العنكبوت من الأسفل فلانقسام الأنبوب الرئيسيّ!» قال تشوبر.
+فلبس أوسوب قناعه سرًّا، ورفع آلة التصوير كأنّها بندقيّة، وصاح:
+quote: «أنا سوغيكينغ، ملك القنّاصين!»
+source: أوسوب
+explanation:
+The false statement is that the mid-to-distal LAD is best visualized in the LAO caudal projection: D.
+The LAO caudal "spider" view shows the left main and its split into the LAD and the circumflex, but it foreshortens the LAD.
+The mid and distal LAD are best seen in cranial views, RAO cranial or AP cranial, which lay the vessel out along its length.
+The other statements are true: the left main ostium in LAO or LAO cranial, the distal left main in AP or shallow RAO caudal, the circumflex in RAO or LAO caudal, and the ostium of the right posterior descending artery in a shallow RAO.
+In the picture, the spider photo from low on the left shows the water main splitting, while the ladder photo from above shows the lad's whole slide.
+Memory hook: for the lad's slide, climb toward the head.
+
+== 273
+# book 55.3: indication for balloon aortic valvuloplasty -> D, A and C (a bridge to surgery when unstable; palliation when surgery is impossible).
+# ANSWER: the balloon carries the unstable sailor across the plank bridge to the dentist, and comforts the frail sailor who can never reach him (audited stone, orca mouth, dentures)
+# a fit, cheerful 85-year-old walks past the balloon to new dentures: age alone is not an indication (B wrong, so E wrong)
+title: Balloon aortic valvuloplasty: a bridge to surgery or palliation, not for age alone
+titleAr: توسيع الصمّام الأبهريّ بالبالون: جسر إلى الجراحة أو تلطيف، لا لكِبَر السنّ وحده
+tags: cardiac/aortic-valve d:indications q:recall l:2
+palette: Water 7 canal blue, stone grey and balloon red
+keywords: aortic stenosis -> the orca balloon's mouth turned to grey stone and pinched to a narrow slit, water squirting through in one thin jet; balloon aortic valvuloplasty -> a big rubber balloon on a long wire blown up inside the orca's stone mouth, cracking it a little wider; bridge to surgery -> an unstable, gasping sailor carried on a stretcher across a plank bridge toward the dentist's chair, the balloon in his stone mouth; palliation -> a frail old sailor too weak ever to reach the dentist, breathing easier in bed as the balloon widens his stone mouth; old age alone -> a fit, cheerful old sailor with a walking stick striding past the balloon to the dentist's new dentures; aortic valve replacement -> a fit, cheerful old sailor with a walking stick striding past the balloon to the dentist's new dentures
+must: the balloon is used only for the unstable sailor on the bridge and the frail sailor in bed; the fit old sailor goes straight to the new dentures
+scene: The canals of Water 7. CENTRE, dominant and brightest: an orca balloon whose mouth has turned to grey stone, pinched to a narrow slit; a big rubber balloon on a long wire blown up inside the stone mouth, cracking it a little wider. LEFT: an unstable, gasping sailor carried on a stretcher across a plank bridge toward a dentist's chair, the balloon in his stone mouth. RIGHT: a frail, very weak old sailor in bed, breathing easier as the balloon widens his stone mouth. FOREGROUND: a fit, cheerful old sailor with a walking stick striding straight past the balloon to a dentist holding new dentures. Usopp pushing the balloon toward the fit old sailor. Chopper.
+story:
+في قنوات ووتر سيفن، حمل تشوبر بالونًا مطّاطيًّا كبيرًا على سلك طويل، ينفخه في أفواه الحيتان الّتي صارت حجرًا، فيشقّها أوسع قليلًا.
+فأوّلهم بحّار يلهث على نقّالة، يحمل على جسر من الخشب إلى كرسيّ طبيب الأسنان؛ فنفخ تشوبر البالون في فمه ليعبر الجسر حيًّا.
+والثّاني بحّار عجوز واهن، أضعف من أن يبلغ كرسيّ الطبيب أبدًا؛ فوسّع تشوبر فمه بالبالون، فتنفّس في فراشه أسهل.
+«وهذا عمره خمسة وثمانون! كبر السنّ وحده يكفي؛ أعطوه البالون!» قال أوسوب، ودفع البالون نحو عجوز مرح يحمل عصًا.
+لكنّ العجوز أزاح البالون بعصاه، ومشى إلى طبيب الأسنان مباشرة، وجلس في الكرسيّ لطقم أسنان جديد.
+فقد كان صحيحًا قويًّا رغم سنّه؛ والبالون لا يشقّ الحجر إلّا قليلًا، ثمّ يضيق الفم من جديد.
+«البالون جسر إلى طبيب الأسنان، أو راحة لمن لا يبلغه؛ لا جائزة لكبر السنّ!» قال تشوبر.
+فعضّ العجوز بطقمه الجديد قطعة لحم كبيرة، وقال ضاحكًا ما قاله لوفي يومًا:
+quote: «لا أريد أن أكون بطلًا؛ البطل يقاسم الناس لحمه، وأنا أريد اللحم كلّه لي!»
+source: مونكي دي لوفي
+explanation:
+Balloon aortic valvuloplasty is indicated as a bridge to surgery in an unstable patient with severe aortic stenosis and heart failure, and as palliation when surgery is impossible: A and C.
+The balloon cracks the calcified valve a little wider; the gain is modest, and the valve usually narrows again within months.
+Age alone is not an indication: a fit octogenarian or nonagenarian is offered valve replacement, surgical or transcatheter.
+In the picture, the balloon carries the unstable sailor across the bridge and comforts the frail one in bed, while the fit old sailor walks past it to the new dentures.
+Memory hook: the balloon is a bridge or a comfort, never a reward for age.
+
+== 274
+# book 55.4: NOT shown to improve survival in heart failure -> C, dobutamine.
+# ANSWER: the Doberman drags a taxi forward for a moment but lights no candle on the cake of years (audited doberman, traffic jam)
+# the tennis ace (ACE inhibitors), the hockey goalkeeper (beta-blockers) and the cabbage leaves (surgical revascularization) each light a candle (audited tennis, goalkeeper, cabbage)
+title: Dobutamine has not been shown to improve survival in heart failure
+titleAr: لم يثبت أنّ الدوبوتامين يُطيل البقاء في قصور القلب
+tags: cardiac/heart-failure d:pharmacology q:recall l:2
+palette: Sabaody bubble pastel, candle gold and Doberman black
+keywords: heart failure -> a traffic jam of yellow taxis gridlocked bumper to bumper; survival -> candles lit on a long birthday cake of years; ACE inhibitors -> a tennis player serving an ace, lighting a candle; beta-blockers -> an ice-hockey goalkeeper slamming his big blocker pad against the puck, lighting a candle; surgical revascularization -> big green cabbage leaves laid over the tar-clogged spikes of the Liberty crown, lighting a candle; dobutamine -> a strong Doberman dog pulling hard on its leash, dragging a taxi forward for a moment but lighting no candle
+must: the Doberman lights no candle on the cake; the tennis player, the goalkeeper and the cabbage leaves each light one
+scene: The Sabaody Archipelago, soap bubbles drifting up from the mangrove roots. CENTRE, dominant and brightest: a strong Doberman dog pulling hard on its leash, dragging a yellow taxi out of a traffic jam of yellow taxis for a moment, while the long birthday cake of years beside it gets no new candle. AROUND, each lighting a candle on the cake: a tennis player serving an ace; an ice-hockey goalkeeper slamming his blocker pad against the puck; big green cabbage leaves laid over the tar-clogged spikes of the Statue of Liberty's green crown. LEFT: Usopp cheering the Doberman. Chopper.
+story:
+في أرخبيل ساباودي، وقفت زحمة طويلة من سيّارات الأجرة الصفراء، وبجانبها كعكة ميلاد طويلة تعدّ سنين السائقين بالشّموع.
+فجاء لاعب تنس وأرسل إرسالًا ساحقًا لا يردّ، فاشتعلت شمعة على الكعكة.
+ثمّ صدّ حارس مرمى الهوكي القرص بوسادته الكبيرة، فاشتعلت شمعة ثانية؛ ومدّ تشوبر أوراق الملفوف على أشواك التاج المسدودة، فاشتعلت ثالثة.
+«دعوا هذا كلّه! انظروا إلى كلبي الدوبرمان؛ إنّه يجرّ أقوى منهم جميعًا!» صاح أوسوب، وأطلق الدوبرمان نحو السيّارات.
+فشدّ الدوبرمان رسنه بقوّة، وجرّ سيّارةً إلى الأمام لحظة، فهتف أوسوب.
+لكنّ السيّارة تعبت ووقفت من جديد، ولم تشتعل على الكعكة شمعة واحدة.
+«الإرسال الساحق، والحارس، والملفوف يضيفون سنين؛ أمّا الدوبرمان فيجرّ بقوّة، ولا يضيف شمعة!» قال تشوبر.
+فضحكت السيّارات من أوسوب، كما ضحكت قريته يومًا من صيحته القديمة:
+quote: «القراصنة قادمون! القراصنة قادمون!»
+source: أوسوب
+explanation:
+Dobutamine has not been shown to improve survival in heart failure: C.
+It raises contractility and output for a while, which helps in cardiogenic shock or as a bridge, but long-term inotropes have been linked to more arrhythmias and higher mortality.
+ACE inhibitors and beta-blockers improve survival in heart failure with a reduced ejection fraction.
+Surgical revascularization improves long-term survival in ischaemic cardiomyopathy (STICH, at 10 years).
+In the picture, the tennis player, the goalkeeper and the cabbage leaves each light a candle on the cake of years; the Doberman drags a taxi forward but lights none.
+Memory hook: the Doberman pulls hard but adds no candle.
+
+== 275
+# book 55.5: FDA-approved indication for percutaneous PFO closure -> E, none of the above (true when the book was written).
+# ANSWER: the clerk of Enies Lobby lifts his big stamp above the three requests and stamps none (audited cat flap, lightning)
+# UPDATE: a messenger bird brings the news of autumn 2016: the stamp comes down on the lightning from a clear sky (cryptogenic stroke thought to be paradoxical embolism), not on the balance (Qp/Qs)
+title: Percutaneous PFO closure: no FDA-approved indication in the book; approved for cryptogenic stroke since late 2016
+titleAr: إغلاق الثقبة البيضويّة عبر الجلد: لا استطباب معتمدًا في الكتاب، واعتُمد للسكتة مجهولة السبب منذ أواخر 2016
+tags: cardiac/congenital d:indications q:recall l:3
+palette: Enies Lobby courthouse white, stamp red and sky blue
+keywords: patent foramen ovale -> an oval cat flap in the upper party wall that swings open towards the red lobby; percutaneous closure -> a pair of round silver cufflinks carried up a fishing line from the groin and clipped through the cat flap, one disc on each side; FDA approval -> a big official stamp in the hand of a stern clerk at a high desk; cryptogenic stroke -> a lightning bolt from a clear blue sky striking a head, no cloud anywhere; paradoxical embolism -> a black bowling ball slipping through the cat flap into the red lobby; Qp/Qs over 1.5 -> a two-pan balance, the money pipe's bucket one and a half times heavier than the orca's; approval since 2016 -> a messenger bird bursting in with a newspaper, the stamp about to come down on the lightning request
+must: the clerk holds the stamp in the air and stamps none of the requests; only the messenger's news brings it toward the lightning request
+scene: The courthouse of Enies Lobby. CENTRE, dominant and brightest: a stern clerk at a high desk holding a big official stamp in the air above three requests, stamping none: one showing a lightning bolt from a clear blue sky striking a head and a black bowling ball slipping through an oval cat flap; one showing a two-pan balance with one bucket heavier; one showing both. RIGHT: a messenger seagull bursting in with a newspaper, the stamp turning toward the lightning request. LEFT: Usopp slapping the requests on the desk. Chopper holding a pair of round silver cufflinks on a fishing line.
+story:
+في محكمة إنيس لوبي، جاء تشوبر بزرّي أكمام فضّيّين مستديرين، ليغلق بهما باب القطط البيضويّ في الجدار الفاصل من جهتيه.
+لكن لا يغلق باب هنا إلّا بختم الكاتب الصارم على المنصّة العالية.
+«اختمها كلّها! الصاعقة من سماء صافية، وكرة البولنغ الّتي تنسلّ من باب القطط، والدّلو الثقيل على الميزان، والاثنان معًا!» قال أوسوب، وضرب الطلبات الثلاثة على المكتب.
+فرفع الكاتب ختمه عاليًا فوق الطلبات الثلاثة، ولم ينزله على أيّ منها.
+«لا ختم لأيّ منها في هذه السنة!» قال الكاتب.
+وقبل أن يخرجوا، اقتحم نورس الأخبار القاعة بجريدة من خريف تلك السنة نفسها.
+فأنزل الكاتب ختمه على طلب الصاعقة من السماء الصافية، للشّابّ الّذي لا سبب آخر لسكتته، ولعلّ كرةً انسلّت إليه من باب القطط.
+«في الكتاب، لا ختم لأيّ منها؛ ومنذ آخر عام ألفين وستّة عشر، ختم للصّاعقة من سماء صافية!» قال تشوبر.
+فلمّا نزل الختم، صاح الشابّ من فرحه، كما صاحت روبين يومًا في هذه المحكمة نفسها:
+quote: «أريد أن أعيش! خذوني معكم إلى البحر!»
+source: نيكو روبين
+explanation:
+When the book was written, none of these was an FDA-approved indication for percutaneous PFO closure: E, none of the above.
+Occluders had been used off label; earlier humanitarian approvals had been withdrawn, and the first randomized trials had not shown a clear benefit.
+This has changed: in October 2016 the FDA approved the Amplatzer PFO Occluder, and in 2018 the Gore Cardioform, after the RESPECT, CLOSE and REDUCE trials.
+The approved use is to reduce recurrent ischaemic stroke in patients, mostly aged 18 to 60, whose stroke is cryptogenic and thought to come from paradoxical embolism; today A would be the closest answer.
+A shunt ratio (Qp/Qs) above 1.5:1 is a reason to close an atrial septal defect, not a PFO.
+In the picture, the clerk stamps none of the requests, until the messenger's news brings the stamp toward the lightning from a clear sky.
+Memory hook: in the book no stamp; since late 2016, the stamp for the lightning from a clear sky.
+
+== 276
+# book 56.1: correct grading of regional wall motion on intraoperative TEE -> D, dyskinesis = paradoxical systolic motion.
+# ANSWER: the DISCO dancer stepping OUT on the beat while the ring of dancers steps IN (DYS-kinesis = DISCO) (audited bat in the sofa slide)
+# one dancer stepping in only a little (hypokinesis), one standing still as a statue (akinesis); the numbers in A, B, C and E do not match the grading
+title: On TEE, dyskinesis is paradoxical systolic motion of the wall
+titleAr: في تخطيط الصدى عبر المريء، خلل الحركة (الديسكينيزيا) حركة معاكسة للجدار في الانقباض
+tags: cardiac/foundations d:diagnosis q:recall l:2
+palette: Dressrosa flamenco red, arena sand and sequin silver
+keywords: transesophageal echocardiography -> the bat sliding down inside the pink sofa slide behind the hotel, watching with its rings of sound; regional wall motion -> a ring of flamenco dancers forming the red engine room's wall, all stepping IN together on each beat; hypokinesis -> one dancer stepping in only a little; akinesis -> one dancer standing still as a statue; dyskinesis -> a DISCO dancer in a glittering silver suit stepping OUT on the beat while all the others step IN; oesophagus -> a bat sliding down inside a pink sofa slide behind the hotel; myocardial infarction -> a stag brought down by an arrow beside the hotel, the reason for the still and out-stepping dancers
+must: on the beat every dancer steps in except the disco dancer, who steps out; one dancer stands still like a statue
+scene: The colosseum of Dressrosa. CENTRE, dominant and brightest: a ring of flamenco dancers forming the wall of a HART Hotel's red engine room, all stepping IN together on the beat, except one disco dancer in a glittering silver suit stepping OUT. In the ring, one dancer stepping in only a little and one standing still as a statue. BELOW: a bat sliding down inside a pink sofa slide behind the hotel, sending rings of sound toward the ring. Beside the hotel lies a stag brought down by an arrow. LEFT: Usopp pointing at the statue. Chopper.
+story:
+في حلبة دريسروزا، كان جدار غرفة المحرّك الحمراء حلقةً من راقصي الفلامينكو، يخطون إلى الداخل معًا على كلّ دقّة.
+ومن داخل منزلق الأريكة الورديّة خلف الفندق، راقبهم الخفّاش بحلقات صوته.
+أكثرهم يخطو إلى الداخل خطوةً كاملة؛ وواحد يخطو قليلًا؛ وواحد واقف لا يتحرّك كالتّمثال.
+وبجانب الفندق أيّل صريع، في جنبه سهم.
+«التمثال أغربهم! هو الّذي يتحرّك في الاتّجاه الخطأ!» قال أوسوب، وأشار إلى الراقص الواقف.
+لكنّ التمثال لم يتحرّك لا إلى الداخل ولا إلى الخارج؛ كان واقفًا فحسب.
+ثمّ كشف صدى الخفّاش راقص ديسكو في بدلة فضّيّة لامعة: كلّما خطا الجميع إلى الداخل، خطا هو إلى الخارج!
+«راقص الديسكو يخرج حين يدخل الجميع: حركة معاكسة للدّقّة!» قال تشوبر.
+فلم يبال راقص الديسكو بالصّيحات، ورفع إصبعه نحو السقف، وردّد كلمة زورو:
+quote: «ليقل الناس عنّي ما شاؤوا؛ ما فعلت في حياتي شيئًا واحدًا أندم عليه!»
+source: رورونوا زورو
+explanation:
+Dyskinesis is paradoxical systolic motion, the segment bulging outward while the rest of the ventricle contracts: D.
+Intraoperative TEE grades each segment by its inward motion and thickening: normal (thickening above about 30 percent), mild hypokinesis (10 to 30 percent), severe hypokinesis (below 10 percent), akinesis (none) and dyskinesis (outward motion).
+The numbers in the other options do not match this grading.
+In the picture, the ring of dancers steps in on the beat; one steps in only a little, one stands still, and the disco dancer steps out.
+A new wall motion abnormality on TEE is an early sign of ischaemia, often before the ECG changes.
+Memory hook: DYS-kinesis, the DISCO dancer who steps out.
+
+== 277
+# book 56.2: true about pulmonary vein flow -> B, the PVa wave is related to left atrial contraction (the book's file prints "PV").
+# ANSWER: as Robin's arms squeeze the red atrium lobby, a small splash leaps back UP the money pipes (audited dollar, atrium)
+# two waves down, one splash up: not five velocities (A wrong); blunted S with high pressure (C wrong); PVa longer and stronger with high pressure (D wrong); PVa longer than mitral A means high pressure (E wrong)
+title: The pulmonary vein reversal wave (PVa) comes from left atrial contraction
+titleAr: الموجة الراجعة في الأوردة الرئويّة (PVa) سببها انقباض الأذين الأيسر
+tags: cardiac/foundations d:physiology q:recall l:3
+palette: Skypiea cloud white, money green and lobby red
+keywords: pulmonary veins -> the pipes of green dollar bills carrying water down into the hotel's red glass-roofed atrium lobby; systolic and diastolic waves -> two waves of water rushing down the money pipes into the lobby; atrial reversal wave -> a small splash leaping back UP the money pipes as the red atrium lobby squeezes; left atrial contraction -> Robin's many arms sprouting from the red atrium lobby's walls and squeezing it; high filling pressure -> a longer, stronger splash back up the money pipes; pulsed Doppler -> flashing red and blue police-car lights on the money pipes, timing every wave and splash; atrial fibrillation -> Pinocchio trembling in a second hotel's red lobby, where no splash leaps back
+must: the small splash leaps back up the money pipes only when Robin's arms squeeze the red lobby
+scene: A river of clouds in Skypiea. CENTRE, dominant and brightest: a HART Hotel's red glass-roofed atrium lobby squeezed by many arms sprouting from its walls, and a small splash leaping back UP into the pipes of green dollar bills that bring water down into it. AROUND: two waves of water rushing down the money pipes into the lobby. RIGHT: Nico Robin, the dark-haired archaeologist, arms crossed, calmly smiling. Flashing red and blue police-car lights on the money pipes time every wave and splash. In a second hotel, Pinocchio trembles in the red lobby and no splash leaps back. LEFT: Usopp with his ear to a money pipe. Chopper.
+story:
+في نهر من الغيوم في سكايبيا، كان الماء ينزل في أنابيب الدولارات إلى ردهة الفندق الحمراء في موجتين كبيرتين.
+ومرّةً مع كلّ دقّة، كانت رشّة صغيرة تقفز إلى الأعلى في الأنابيب، عكس التيّار.
+وعلى الأنابيب أضواء سيّارة شرطة حمراء وزرقاء، تومض مع كلّ موجة وكلّ رشّة.
+«إنّها الأنابيب! فيها خمس موجات، وواحدة منها تعود من تلقاء نفسها!» قال أوسوب، وألصق أذنه بالأنبوب.
+لكنّهم عدّوا الموجات: موجتان تنزلان، ورشّة صغيرة تصعد؛ لا خمس.
+ثمّ رأوا من أين تأتي الرشّة: روبين أنبتت أذرعًا كثيرةً من جدران الردهة، وعصرت الردهة الحمراء في آخر كلّ دقّة.
+«حين أعصر الردهة، يمضي أكثر الماء إلى غرفة المحرّك، ويعود قليل منه إلى الأنابيب.» قالت روبين مبتسمة.
+أمّا في فندق ثان يرتجف في ردهته الحمراء بينوكيو، فلم تقفز رشّة واحدة.
+«الرشّة الراجعة في أنابيب الدولارات من عصر الردهة؛ وكلّما ثقل على الردهة دفعها، طالت الرشّة وقويت!» قال تشوبر.
+فضحك أوسوب من نفسه، أمّا روبين فأغمضت عينيها راضية، وهمست بحلمها القديم:
+quote: «أريد أن أعرف التاريخ الحقيقيّ لهذا العالم!»
+source: نيكو روبين
+explanation:
+The atrial reversal wave of pulmonary vein flow (PVa) is related to left atrial contraction: B.
+Pulmonary venous flow has a forward systolic wave (S), a forward diastolic wave (D) and a small reversal at the end of diastole (PVa), when the contracting atrium pushes some blood back into the veins.
+With high filling pressures the systolic wave becomes smaller than the diastolic one, and the PVa wave becomes larger and longer.
+A PVa that lasts longer than the mitral A wave, by more than about 30 ms, indicates a high left ventricular end-diastolic pressure; the reverse is normal.
+In the picture, two waves rush down the money pipes, and only when Robin's arms squeeze the red lobby does a small splash leap back up.
+Memory hook: the lobby's squeeze sends the splash back up the pipes.
+
+== 278
+# book 56.3: echo finding of severe MR -> C, an eccentric wall-impinging jet.
+# ANSWER: the spray from the mitre races round the inside wall of the red lobby like a stunt rider on the Wall of Death (audited mitre, gurgling, bat)
+# a small central puff measured with a ruler: jet area 20 percent and vena contracta 4 mm are below the severe thresholds (A, B wrong); a big room and lobby are supportive only (D, E)
+title: An eccentric, wall-impinging jet is a sign of severe mitral regurgitation
+titleAr: النفث اللامركزيّ الملتصق بالجدار علامة على قلس تاجيّ شديد
+tags: cardiac/mitral-tricuspid d:diagnosis q:recall l:2
+palette: Sabaody Park neon, lobby red and water blue
+keywords: echocardiography -> a bat sending out rings of sound, watching; mitral regurgitation -> the bishop's mitre unable to shut, water gurgling and spraying back into the red lobby; eccentric wall-impinging jet -> the spray shooting sideways and racing round the inside wall of the red lobby like a stunt rider on the Wall of Death; small central jet -> a little central puff that Usopp measures with a ruler; mitral valve -> a jet of water spraying back past a bishop's mitre that cannot shut
+must: the jet hugs the lobby's wall and races round it like a Wall of Death rider; the small central puff is only measured
+scene: Sabaody Park, an amusement park at night, neon lights. CENTRE, dominant and brightest: inside a HART Hotel's red lobby, a jet of water spraying back past a bishop's mitre that cannot shut, shooting sideways and racing round the lobby's inside wall like a stunt rider on the Wall of Death, a crowd cheering. A bat sending out rings of sound, watching. LEFT, small and dim: a little central puff of water that Usopp measures with a ruler. Chopper.
+story:
+في ملاهي ساباودي ليلًا، تجمّعت الحشود عند الفندق لتتفرّج على العرض في الردهة الحمراء.
+فتاج الأسقف لم يعد ينغلق، والماء يقرقر راجعًا منه إلى الردهة مع كلّ دقّة؛ والخفّاش يراقب بحلقات صوته.
+«النفثة صغيرة! أربعة ملّيمترات عند عنقها، ولا تملأ إلّا خمس الردهة؛ لا شيء يذكر!» قال أوسوب، وهو يقيس نفثةً صغيرةً في الوسط بمسطرته.
+لكنّ الماء انطلق فجأةً إلى الجانب، والتصق بجدار الردهة، وأخذ يدور حوله ويدور، كمتسابق على درّاجة ناريّة يدور على جدار عموديّ.
+فهتفت الحشود، وارتجّ جدار الردهة تحت النفثة المسرعة.
+فأسقط أوسوب مسطرته؛ فالنّفثة الّتي تلتصق بالجدار تبدو دائمًا أصغر ممّا هي.
+«نفثة تلتصق بالجدار وتدور حوله: هذا هو التسرّب الشديد، مهما بدا حجمها!» قال تشوبر.
+وتعالت الصيحات حول الردهة كأنّها إعصار، فصاحت امرأة من الحشد بكلمة الإمبراطورة هانكوك:
+quote: «الحبّ دائمًا إعصار!»
+source: بوا هانكوك
+explanation:
+An eccentric wall-impinging jet that swirls round the left atrium is a sign of severe mitral regurgitation: C.
+Such jets cling to the atrial wall (the Coanda effect) and look smaller on colour Doppler than they are, so their area underestimates the leak.
+The thresholds in A and B are too low: severe regurgitation has a jet area over 40 percent of the left atrium and a vena contracta of 7 mm or more.
+A dilated left ventricle and left atrium support chronic severe regurgitation but are not specific signs.
+In the picture, the spray races round the lobby wall like a stunt rider, while Usopp measures a small central puff.
+Memory hook: a jet that rides the wall is a severe leak.
+
+== 279
+# book 56.4: echo finding of severe AR -> A, LV end-systolic dimension over 50 mm.
+# ANSWER: the tailor's tape round the red engine room reads past 50 even at its emptiest (audited mouth, gurgling)
+# a stopwatch at 300 ms is too slow for severe (under 200) (B wrong); backflow along the orca's tail all through the rest, not in the squeeze (D wrong)
+title: Severe aortic regurgitation: LV end-systolic dimension over 50 mm
+titleAr: القلس الأبهريّ الشديد: قطر البطين الأيسر في نهاية الانقباض أكثر من 50 مم
+tags: cardiac/aortic-valve d:diagnosis q:numbers l:3
+palette: Whole Cake pink, tape-measure yellow and orca blue
+words: 50
+keywords: aortic regurgitation -> the orca balloon's sagging mouth, water gurgling back into the red engine room; LV end-systolic dimension over 50 mm -> a tailor's measuring tape round the red engine room at its emptiest, still reading past 50; pressure half-time -> Usopp's stopwatch on the backflow, stopping at 300, too slow to count as severe; holodiastolic flow reversal -> water running backwards along the orca's tail all through the rest between beats; aorta -> water running backwards along the orca's tail; regurgitation -> an orca balloon's sagging mouth gurgling water back into the room
+must: the tape round the engine room at its emptiest still reads past 50
+scene: Whole Cake Island, inside a giant tailor's workshop. CENTRE, dominant and brightest: a tailor's measuring tape wrapped round a HART Hotel's red engine room squeezed to its emptiest, still reading past 50; an orca balloon's sagging mouth gurgling water back into the room. AROUND, dimmer: Usopp holding a stopwatch over the backflow; water running backwards along the orca's tail. Chopper holding the tape.
+story:
+في ورشة خيّاط عملاق على جزيرة الكعكة الكاملة، لفّ تشوبر شريط القياس الأصفر حول غرفة المحرّك الحمراء لفندق تدلّى فم حوته.
+فمع كلّ دقّة كان الفم يقرقر راجعًا إلى الغرفة، والغرفة تتّسع لتسع الماء العائد.
+«ساعتي تقول إنّ الماء الراجع يهدأ في أقلّ من ثلاثمئة! هذا تسرّب شديد!» قال أوسوب، وهو يرفع ساعة إيقاف.
+لكنّ تشوبر هزّ رأسه: ثلاثمئة ليست سريعةً بما يكفي؛ فالتّسرّب الشديد يهدأ في أقلّ من مئتين.
+وكان الماء يجري راجعًا على طول ذيل الحوت طوال الاستراحة بين الدقّات، لا في العصرة وحدها.
+ثمّ انتظر تشوبر حتّى عصرت الغرفة نفسها إلى أقصى ما تستطيع، وقرأ الشريط: حتّى عندئذ، أكثر من خمسين.
+«في أشدّ فراغها، وما زالت فوق الخمسين: التسرّب شديد، والغرفة بدأت تتعب!» قال تشوبر.
+فمالت غرفة المحرّك المتعبة، كأنّها زورو بعد أن نزف كثيرًا، وتمتمت:
+quote: «أشعر بدوار خفيف...»
+source: رورونوا زورو
+explanation:
+An LV end-systolic dimension over 50 mm is the finding of severe aortic regurgitation here: A.
+Chronic severe regurgitation loads the ventricle with volume; an end-systolic dimension above 50 mm (or 25 mm/m2) marks a ventricle that is starting to fail and is an indication for surgery even without symptoms.
+The other thresholds are wrong: severe regurgitation has a pressure half-time under 200 ms, a vena contracta over 6 mm and a jet width of 65 percent or more of the outflow tract.
+The flow reversal in the descending aorta that marks severe regurgitation is holodiastolic, not systolic.
+In the picture, the tape round the engine room reads past 50 even when the room is at its emptiest.
+Memory hook: past fifty even when empty.
+
+== 280
+# book 56.5: NOT a normal echo finding on a prosthetic valve -> A, a regurgitant area of 1.5 cm2 on an aortic prosthesis.
+# ANSWER: the robot in the orca's mouth leaks a broad gurgling flood back into the room, 1.5 on it (audited robot, mouth, gurgling)
+# normal washing jets: one central sprinkler (Medtronic-Hall), four small sprinklers (St. Jude), two unequal ones (Bjork-Shiley), a short sprinkle from the robot in the mitre (2 cm)
+title: A regurgitant area of 1.5 cm2 on an aortic prosthesis is not normal
+titleAr: مساحة قلس 1.5 سم² على صمّام أبهريّ صناعيّ ليست طبيعيّة
+tags: cardiac/aortic-valve d:diagnosis q:numbers l:3
+palette: Franky House blue, robot steel and flood red
+words: 1.5
+keywords: mechanical valve -> a clanking little steel robot set in as the valve; washing jets -> thin built-in sprinklers on each robot that wash its hinges so that no beaver can build a dam there; single central jet on a Medtronic-Hall valve -> a robot with one sprinkler through its centre hole; four jets on a St. Jude valve -> a robot with four small sprinklers; unequal jets on a Bjork-Shiley valve -> a robot with two sprinklers of different sizes; short jet on a mitral prosthesis -> a short sprinkle from the robot in the bishop's mitre; regurgitant area of 1.5 cm2 on an aortic prosthesis -> the robot in the orca's mouth leaking a broad gurgling flood back into the red engine room, 1.5 painted on the flood
+must: only the robot in the orca's mouth leaks a broad flood; the other robots' thin sprinklers are calm and normal
+scene: Franky House in Water 7, a workshop full of tools. CENTRE, dominant and brightest: a clanking little steel robot set in an orca balloon's mouth, leaking a broad gurgling flood back into a red engine room, 1.5 painted on the flood; Franky, the blue-haired cyborg shipwright, frowning at it. AROUND, small and calm, each with thin sprinklers washing its hinges: a robot with one sprinkler through its centre hole; a robot with four small sprinklers; a robot with two sprinklers of different sizes; a robot in a bishop's mitre with a short sprinkle. LEFT: Usopp pressing his thumb on a thin sprinkler. Chopper.
+story:
+في بيت فرانكي بووتر سيفن، صفّ فرانكي روبوتاته الفولاذيّة الصغيرة الّتي تقعقع، تلك الّتي يضعها أبوابًا في مداخل الفندق.
+ولكلّ روبوت رشّاشات رفيعة تغسل مفاصله مع كلّ دقّة، فلا يجد القندس فيها مكانًا لسدّه.
+«تسرّب! كلّها تسرّب! سدّوها جميعًا!» صاح أوسوب، وأخذ يضغط بإبهامه على الرشّاشات الرفيعة واحدًا بعد آخر.
+لكنّ فرانكي أزاح يده: روبوت برشّاش واحد من ثقب وسطه، وروبوت بأربعة رشّاشات صغيرة، وروبوت برشّاشين غير متساويين، والرّوبوت في تاج الأسقف برشّة قصيرة.
+«كلّها تغسل نفسها كما صنعتها؛ هذا سوبر!» قال فرانكي.
+ثمّ التفت فرانكي إلى الروبوت في فم الحوت: منه سيل عريض يقرقر راجعًا إلى غرفة المحرّك الحمراء.
+«الرشّاشات الرفيعة تغسل الروبوتات؛ أمّا سيل عريض بواحد ونصف في فم الحوت فليس طبيعيًّا!» قال تشوبر.
+فرأى فرانكي السيل يخرج من روبوت صنعه بيديه، فسالت دموعه وصاح:
+quote: «لست أبكي! لست أبكي أبدًا، أيّها الأحمق!»
+source: فرانكي
+explanation:
+A regurgitant area of 1.5 cm2 on an aortic prosthesis is not a normal finding: A.
+Mechanical valves have small built-in washing jets that clean the hinges and keep clots from forming; they are short and narrow, with a pattern typical of each design.
+A single central jet in a Medtronic-Hall valve, several small jets (often four) in a St. Jude bileaflet valve and two unequal jets in a Bjork-Shiley valve are normal, as is a short jet of about 2 cm on a mitral prosthesis.
+A regurgitant area as large as 1.5 cm2 on an aortic prosthesis points to a pathological leak, through or around the valve, which needs further study.
+In the picture, the robots' thin sprinklers are normal, while the robot in the orca's mouth floods back into the room.
+Memory hook: thin sprinklers wash; a broad flood leaks.

@@ -1,0 +1,298 @@
+book: johns-hopkins-2016
+# Lessons 351-360 (book 74.2-76.1: transposition of the great arteries; congenitally corrected transposition; hypoplastic left heart).
+# Written 2026-11-22, night. Each story: a hook, a wrong try that fails, the answer acting, a payoff line that names
+# the symbol, and a lead-in that says who speaks the quotation and why it fits.
+# OCR misprints of 351, 352 and 359 are mended by the book's 'typos' map ("D- TGA", "r epair").
+# Quotations added 2026-11-22 (the owner left the choice to the agent: "make anything strong and consistent"):
+# a One Piece line (at most three uses, 20 lessons apart) or a classical Arabic line read out by Robin; see ../quote-bank.md.
+
+== 351
+# book 74.2: correct about the physiology of TGA -> B, effective systemic blood flow equals the anatomic left-to-right shunt.
+# ANSWER: in the swapped hotel, two separate water loops run side by side; the only red water that reaches the city is what crosses the little bridges from the red loop to the blue loop (audited swapped)
+# without the beer stein many intact-wall babies cannot mix (C wrong); the red room loses its strength after a few weeks, not one or two (D wrong); with a hole and a clamp the red room stays trained (E wrong)
+title: In TGA, effective systemic blood flow equals the anatomic left-to-right shunt
+titleAr: في تبدّل الشريانين الكبيرين يساوي الجريان الجهازيّ الفعّال حجم التحويلة التشريحيّة من اليسار إلى اليمين
+tags: cardiac/congenital d:physiology q:recall l:3
+palette: twin-loop red and blue, bridge gold and city grey
+keywords: transposition of the great arteries -> the orca and the dollar pipe swapped: the orca leaving the blue engine room, the dollar pipe the red one; parallel circulations -> two separate water loops, a red one and a blue one, running side by side; effective systemic blood flow -> the only red water that reaches the city being what crosses little bridges from the red loop to the blue loop; mixing sites -> the little bridges (the hole in the upper wall, the duct-tape tunnel); PGE1 -> a raised beer stein propping the duct-tape tunnel open; ductus arteriosus -> a raised beer stein propping the duct-tape tunnel open; atrial septal defect -> a small hole in the upper party wall, a golden bridge where the two streams can mix
+must: the two loops never meet except at the little bridges; only the red water crossing the bridges reaches the city
+scene: A HART Hotel whose orca and pipe of dollar bills are swapped, seen from above: two separate water loops, a red one and a blue one, running side by side and never meeting, except at a few little golden bridges (a hole in the upper party wall, a tunnel of shiny silver duct tape propped open by a raised beer stein); only the red water that crosses the bridges flows on to the city. LEFT: Usopp pouring more red water into the red loop, none of it reaching the city. Chopper.
+story:
+في فندق تبادل فيه الحوت وأنبوب الدولارات مكانيهما، كان الماء يجري في حلقتين منفصلتين: حلقة حمراء وحلقة زرقاء، جنبًا إلى جنب لا تلتقيان.
+فالماء الأحمر يدور بين الأكياس والغرفة الحمراء، والأزرق يدور بين المدينة والغرفة الزرقاء.
+«نصبّ ماءً أحمر أكثر في الحلقة الحمراء، فيصل إلى المدينة أكثر!» قال أوسوب، وأخذ يصبّ الدلاء.
+لكنّ الماء الأحمر دار في حلقته وعاد، ولم تصل المدينة منه قطرة زائدة.
+فأراه تشوبر الجسور الذهبيّة الصغيرة بين الحلقتين: ثقبًا في الجدار العلويّ، ونفق الشريط اللاصق الّذي تسنده كأس الجعة.
+فما عبر هذه الجسور من الماء الأحمر، هو وحده ما بلغ المدينة.
+«لا يطعم المدينة إلّا ما يعبر الجسر!» قال تشوبر.
+فنظرت الحلقتان إحداهما إلى الأخرى عبر الجسور الذهبيّة، كأنّهما تقولان ما قالته فيفي يومًا لأصدقائها:
+quote: «إن التقينا يومًا من جديد، أتنادونني رفيقتكم؟»
+source: نفرتاري فيفي
+explanation:
+In TGA the effective systemic blood flow is equal to the amount of anatomic left-to-right shunting: B.
+The two circulations run in parallel: oxygenated blood circulates from the left ventricle to the lungs and back, and only the part that crosses to the right side through an ASD, VSD or ductus reaches the body.
+The effective pulmonary and systemic flows are equal, so survival depends on mixing; with an intact septum, prostaglandin and often a balloon septostomy are needed.
+The left ventricle, pumping against low pulmonary pressure, loses its ability to support the systemic circulation after a few weeks unless a VSD or outflow obstruction keeps its pressure up.
+In the picture, only the red water that crosses the little bridges reaches the city.
+Memory hook: only what crosses the bridge feeds the body.
+
+== 352
+# book 74.3: NOT correct about the presentation of TGA -> D, that systolic murmurs are present in 90 percent of infants.
+# ANSWER: of ten blue-lipped newborns with swapped hotels, most are silent; only a few whoosh (audited swapped, blue lips)
+# transposition is the commonest cause of cyanosis in newborns (A), nearly all intact-wall babies are blue (B), 9 in 10 are blue within the first day (C), murmurs can grow later (E)
+title: In TGA, a systolic murmur is often absent at birth
+titleAr: في تبدّل الشريانين الكبيرين كثيرًا ما تغيب النفخة الانقباضيّة عند الولادة
+tags: cardiac/congenital d:diagnosis q:recall l:2
+palette: nursery white, lip blue and whoosh gold
+keywords: transposition of the great arteries -> the orca and the dollar pipe swapped: the orca leaving the blue engine room, the dollar pipe the red one; cyanosis -> newborns with bright blue lips and fingertips; murmurs absent -> most of them lying silent, no whoosh from their hotels; murmurs present in a few -> only one or two hotels giving a loud whoosh; murmurs increase over time -> an older child's whoosh growing louder; aorta -> each beside a small HART Hotel whose orca and dollar pipe are swapped
+must: of ten blue-lipped newborns, most are silent; only one or two whoosh
+scene: A hospital nursery at dawn. CENTRE, dominant and brightest: ten newborns with bright blue lips and fingertips in a row of cribs, each beside a small HART Hotel whose orca and dollar pipe are swapped; most of the hotels silent, only one or two giving a loud whoosh. LEFT: Usopp with an ear trumpet, expecting nine whooshes. Chopper.
+story:
+في حضانة المستشفى عند الفجر، رقد عشرة رضّع زرق الشفاه والأصابع، بجانب كلّ منهم فندق تبادل فيه الحوت وأنبوب الدولارات.
+«تسعة من عشرة سيصدرون حفيفًا عاليًا؛ أنا متأكّد!» قال أوسوب، ورفع بوق الأذن النحاسيّ.
+لكنّه أصغى إلى الفنادق واحدًا واحدًا، فإذا أكثرها صامت.
+ولم يسمع الحفيف إلّا من فندق أو اثنين، فيهما ثقب في الجدار السفليّ أو ضيق في الطريق.
+أمّا الزرقة فكانت فيهم جميعًا تقريبًا، ظهرت في يومهم الأوّل.
+وفي سرير بعيد، طفل أكبر عمرًا أخذ حفيفه يعلو مع الأيّام.
+«أزرق، لكنّه صامت!» قال تشوبر.
+فأنزل أوسوب بوقه حائرًا، فقرأت روبين بيتًا للمتنبّي:
+quote: «إذا رأيت نيوب الليث بارزةً، فلا تظنّنّ أنّ الليث يبتسم.»
+source: المتنبّي
+explanation:
+The incorrect statement is that systolic murmurs are present in 90 percent of infants with TGA: D.
+With an intact septum there is often no murmur at all, and a murmur appears mainly with a VSD or outflow obstruction, sometimes growing louder over time.
+Cyanosis is the rule: TGA is the most common cyanotic lesion presenting in the newborn, nearly all infants with an intact septum are blue, and more than 90 percent are recognized within the first day.
+In the picture, most of the ten blue newborns are silent and only a few whoosh.
+Memory hook: blue but quiet.
+
+== 353
+# book 74.4: NOT part of the arterial switch for TGA without PS -> A, translocating the PA posteriorly.
+# ANSWER: the vampire Count lifts the money pipe over the orca and sets it down IN FRONT, never behind; Usopp pushing it behind is wrong (audited vampire, switch lever)
+title: In the arterial switch, the pulmonary artery is brought anterior, not posterior
+titleAr: في عمليّة التبديل الشريانيّ يُنقل الشريان الرئويّ إلى الأمام لا إلى الخلف
+tags: cardiac/congenital d:technique q:recall l:3
+palette: Transylvanian night purple, cape black and orca blue
+keywords: arterial switch -> a subway switchman pulling a big railway switch lever that swings the orca and the pipe of dollar bills back to their own engine rooms; Lecompte maneuver -> a vampire Count in a black cape lifting the pipe of dollar bills over the orca and setting it down IN FRONT of it; posterior translocation -> Usopp trying to push the money pipe behind the orca; coronary transfer -> two buttons of the crown's roots cut out and sewn onto the new orca root; pericardial patch -> the holes left in the old orca root patched with a sheet of the glass tank's lining
+must: the vampire sets the money pipe down in front of the orca; Usopp's push behind is stopped
+scene: A gothic castle at night. CENTRE, dominant and brightest: a vampire Count in a black cape lifting a pipe of dollar bills over an orca balloon and setting it down IN FRONT of it, beside a subway switchman pulling a big railway switch lever; two round buttons with the crown's roots sewn onto the new orca root; patches of glass-tank lining on the old root. LEFT: Usopp trying to push the money pipe behind the orca, held back by the vampire. Chopper.
+story:
+في قلعة قوطيّة ليلًا، شدّ عامل التحويلة رافعته الكبيرة، ليعيد الحوت وأنبوب الدولارات إلى غرفتيهما.
+فقطع زرّان مستديران فيهما جذور التاج، وخيطا على جذر الحوت الجديد، ورقع مكانهما ببطانة الحوض الزجاجيّ.
+«والآن أدفع أنبوب الدولارات خلف الحوت!» قال أوسوب، وأخذ يدفع الأنبوب.
+لكنّ الأنبوب انشدّ وضاق خلف الحوت، وكاد ينقطع.
+فخرج من الظلّ كونت مصّاص دماء بعباءة سوداء، وأمسك بيد أوسوب.
+ثمّ رفع أنبوب الدولارات فوق الحوت، ووضعه أمامه برفق، فاسترخى الأنبوب وجرى الماء فيه سهلًا.
+«مصّاص الدماء يضع الأنبوب أمام الحوت دائمًا، لا خلفه!» قال تشوبر.
+فانحنى الكونت لأوسوب انحناءةً طويلة، وأنشد بصوت رخيم بيتًا للقطاميّ:
+quote: «قد يدرك المتأنّي بعض حاجته، وقد يكون مع المستعجل الزلل.»
+source: القطامي
+explanation:
+Translocating the PA posteriorly is not part of the arterial switch: A.
+In the Lecompte maneuver the pulmonary bifurcation is brought anterior to the aorta, so the reconstructed pulmonary artery lies in front without tension.
+The coronary arteries are moved to the neoaorta (the old pulmonary root) and the distal aorta is joined to it.
+The old aortic root is patched with autologous pericardium to become the neopulmonary root, and a VSD is closed, usually through the right atrium.
+In the picture, the vampire sets the money pipe down in front of the orca, never behind.
+Memory hook: the vampire always sets the pipe in front.
+
+== 354
+# book 74.5: true about outcomes after TGA repair -> B, the commonest reintervention after the arterial switch is for supravalvar pulmonary stenosis.
+# ANSWER: after the switch, an iron clamp pinches the money pipe just above its door, where it was sewn; the switchman comes back to widen it (audited clamp, switch lever)
+title: The commonest reintervention after the arterial switch is supravalvar pulmonary stenosis
+titleAr: أكثر أسباب إعادة التدخّل بعد التبديل الشريانيّ تضيّق الشريان الرئويّ فوق الصمّام
+tags: cardiac/congenital d:complications q:recall l:2
+palette: switch-yard iron, clamp grey and money green
+keywords: arterial switch -> a subway switchman pulling a big railway switch lever that swings the orca and the pipe of dollar bills back to their own engine rooms; supravalvar pulmonary stenosis -> an iron clamp pinching the pipe of dollar bills just above its door, where it was sewn during the switch; reintervention -> the switchman coming back with a balloon and a patch to widen it; good long-term survival -> most switched hotels standing well after ten years; coronary artery -> the green crown's buttons riding along with the orca
+must: the iron clamp pinches the money pipe just above its door, where the switch was sewn
+scene: A railway switch yard. CENTRE, dominant and brightest: a switched HART Hotel whose pipe of dollar bills is pinched by an iron clamp just above its door, where it was sewn during the switch; the subway switchman coming back with a balloon and a patch to widen it. AROUND, dimmer: many other switched hotels standing well in the sun. LEFT: Usopp checking the crown's buttons instead. Chopper.
+story:
+في ساحة تحويلات القطارات، وقفت فنادق كثيرة أعاد عامل التحويلة حيتانها وأنابيبها إلى غرفها، وأكثرها سالم بعد عشر سنين.
+لكنّ فندقًا منها عاد ماؤه يعبر بصعوبة إلى أكياس الدولارات.
+«إنّها أزرار التاج! لا بدّ أنّها انثنت!» قال أوسوب، وأخذ يفحص جذور التاج.
+لكنّ أزرار التاج كانت سليمة، والماء يجري فيها جيّدًا.
+فتتبّع تشوبر أنبوب الدولارات، فإذا مشبك حديديّ يعصره فوق بابه مباشرة، حيث خيط يوم التحويل.
+فعاد عامل التحويلة ببالون ورقعة، ووسّع الأنبوب عند درزته.
+«بعد التحويل، يضيق أنبوب الدولارات عند درزته فوق الباب!» قال تشوبر.
+فانحنى أوسوب أمام تشوبر بعد أن أخطأ مرّةً أخرى، وقال كما قال زورو يومًا لميهوك:
+quote: «أرجوك، علّمني فنّ السيف!»
+source: رورونوا زورو
+explanation:
+The most common cause for reintervention after the arterial switch is supravalvar pulmonary stenosis: B.
+The narrowing forms at the suture line of the reconstructed pulmonary artery, often with branch stretching from the Lecompte maneuver, and is treated with balloon dilation or patch enlargement.
+Survival after the arterial switch is excellent, above 90 percent at 10 years, and patients with an intact septum have the lowest mortality.
+Rastelli and Nikaidoh repairs, used when there is a VSD with pulmonary stenosis, still need later conduit or outflow reinterventions.
+In the picture, after the switch an iron clamp pinches the money pipe just above its sewn door.
+Memory hook: after the switch, the money pipe narrows at its seam.
+
+== 355
+# book 75.1: NOT typically associated with congenitally corrected TGA -> D, supravalvar aortic stenosis.
+# ANSWER: the mirror hotel's usual companions arrive (Einstein pushing the trident down, a hole in the lower wall, a clamp on the money pipe, a raised drawbridge), while the pearl necklace round the orca's neck stays away (audited mirror, einstein, lower party wall, clamp, drawbridge, necklace)
+title: Supravalvar aortic stenosis is not typical of congenitally corrected transposition
+titleAr: تضيّق الأبهر فوق الصمّام لا يرافق عادةً تبدّل الشريانين المصحّح خلقيًّا
+tags: cardiac/congenital d:pathology q:recall l:2
+palette: mirror silver, drawbridge oak and pearl white
+keywords: congenitally corrected transposition -> the HART Hotel standing before a big mirror, its engine rooms and outflow pipes both swapped; Ebstein anomaly -> Einstein, wild white hair, pushing the trident down into its engine room; VSD -> a ragged hole in the lower party wall; pulmonary stenosis -> the pipe of dollar bills squeezed narrow by an iron clamp; complete heart block -> a raised drawbridge between the upper lobby and the engine room; supravalvar aortic stenosis -> a tight pearl necklace choking the orca just above its mouth, left outside
+must: Einstein, the hole, the clamp and the raised drawbridge gather at the mirror hotel; the pearl necklace stays outside
+scene: A hall of mirrors. CENTRE, dominant and brightest: a HART Hotel standing before a big mirror, its engine rooms and outflow pipes both swapped, and gathered round it: Einstein pushing the trident down; a ragged hole in the lower party wall; an iron clamp squeezing the pipe of dollar bills; a raised drawbridge between the upper lobby and an engine room. FAR RIGHT, outside the door: a tight pearl necklace. LEFT: Usopp inviting the necklace in. Chopper.
+story:
+في قاعة المرايا، وقف فندق أمام مرآة كبيرة، تبادلت فيه الغرف والأنابيب كلاهما، فعاد ماؤه يجري في طريقه الصحيح.
+واجتمع حوله رفاقه المعتادون: آينشتاين يدفع الرمح الثلاثيّ إلى الأسفل، وثقب في الجدار السفليّ.
+ومشبك حديديّ يعصر أنبوب الدولارات، وجسر متحرّك يرتفع بين الردهة وغرفة المحرّك.
+«وهذه القلادة اللؤلئيّة! تعالي، فأنت من العائلة!» قال أوسوب، وفتح الباب لقلادة تخنق الحوت فوق فمه.
+لكنّ القلادة بقيت خارج الباب؛ فلها عائلة أخرى في بلد آخر.
+فأغلق تشوبر الباب بهدوء، وعاد إلى رفاق المرآة الأربعة.
+«رفاق فندق المرآة: آينشتاين، وثقب، ومشبك، وجسر متحرّك؛ لا القلادة!» قال تشوبر.
+فنظرت القلادة اللؤلئيّة في المرآة الكبيرة متكبّرة، وسألت سؤال ألفيدا:
+quote: «من أجمل امرأة في البحار كلّها؟»
+source: ألفيدا
+explanation:
+Supravalvar aortic stenosis is not typically associated with congenitally corrected TGA: D.
+CC-TGA usually comes with a VSD, pulmonary (subpulmonary) stenosis, an Ebstein-like malformation of the left-sided tricuspid valve, and complete heart block, which appears at a rate of about 2 percent a year.
+Supravalvar aortic stenosis belongs to Williams syndrome, not to corrected transposition.
+In the picture, Einstein, the hole, the clamp and the drawbridge gather at the mirror hotel, while the pearl necklace stays outside.
+Memory hook: the mirror hotel's friends: Einstein, a hole, a clamp and a drawbridge.
+
+== 356
+# book 75.2: correct about the conduction tissue in CC-TGA -> C, the bundle of His lies anterosuperior to the membranous septum.
+# ANSWER: in the mirror hotel, the knot sits in front, and its crackling bundle of branches runs ABOVE and IN FRONT of the small drum skin, along the top of the hole (audited mirror, knot, branches, drum skin)
+# the orchestra conductor stands in his usual place (A wrong); the bundle is long, not short (D wrong)
+title: In CC-TGA the bundle of His runs anterosuperior to the membranous septum
+titleAr: في تبدّل الشريانين المصحّح خلقيًّا تمرّ حزمة هيس أمام الحاجز الغشائيّ وفوقه
+tags: cardiac/congenital d:anatomy q:recall l:3
+palette: mirror silver, spark yellow and drum-skin cream
+keywords: congenitally corrected transposition -> the HART Hotel standing before a big mirror, its engine rooms and outflow pipes both swapped; anterior AV node -> the big tight knot sitting at the FRONT of the lobby floor; bundle of His -> the crackling bundle of branches running above and in front of the small drum skin, along the top of the hole; membranous septum -> a small thin drum skin set into the party wall; sinus node -> an orchestra conductor at the top of the blue lobby, in his usual place
+must: the crackling bundle runs above and in front of the drum skin, from a knot at the front
+scene: A cut-open HART Hotel standing before a big mirror. CENTRE, dominant and brightest: a big tight knot sitting at the FRONT of the lobby floor, and from it a long crackling bundle of branches running ABOVE and IN FRONT of a small thin drum skin in the party wall, along the top edge of a hole. AROUND, dimmer: an orchestra conductor standing in his usual place at the top of the blue lobby. LEFT: Usopp drawing the bundle below the drum skin. Chopper.
+story:
+في فندق يقف أمام مرآة كبيرة، أراد تشوبر أن يعرف أين تجري حزمة الأغصان الّتي تطقطق بالشّرر، قبل أن يخيط ثقبًا في الجدار السفليّ.
+«الحزمة في مكانها المعتاد، خلف جلد الطبل وتحته!» قال أوسوب، ورسمها هناك بالطّباشير.
+لكنّ العقدة المعتادة في الخلف لم تكن موصولةً بشيء.
+فقد جلست عقدة أخرى في مقدّمة أرض الردهة، وخرجت منها حزمة طويلة رقيقة.
+فجرت الحزمة فوق جلد الطبل الصغير وأمامه، على طول الحافّة العليا للثّقب.
+أمّا قائد الأوركسترا، فوقف في مكانه المعتاد أعلى الردهة الزرقاء.
+«في فندق المرآة، يجري الشرر فوق الطبل ومن أمامه!» قال تشوبر.
+فرفع قائد الأوركسترا عصاه بفخر، وأنشد بيت المتنبّي:
+quote: «أنا الّذي نظر الأعمى إلى أدبي، وأسمعت كلماتي من به صمم.»
+source: المتنبّي
+explanation:
+In CC-TGA the bundle of His runs anterosuperior to the membranous septum: C.
+The regular posterior AV node does not connect; an anterior node gives a long, fragile bundle that runs above the pulmonary outflow and along the anterosuperior rim of a VSD.
+This is why complete heart block is common, and why VSD stitches are placed on the morphological right ventricular side, away from the upper rim.
+The sinus node is normal; in situs inversus the conduction system is more often normally posterior.
+In the picture, the bundle runs above and in front of the drum skin, from a knot at the front.
+Memory hook: in the mirror hotel, the sparks run over the top of the drum.
+
+== 357
+# book 75.3: NOT an appropriate palliation in CC-TGA -> D, balloon septostomy.
+# ANSWER: at the mirror hotel the hose (shunt), the woodcutter (Norwood), the belt (banding) and the astronaut (Glenn) are each used; the red party balloon is sent away (audited mirror, party balloon, hose, woodcutter, belt, astronaut)
+title: Balloon septostomy is not a palliation for CC-TGA
+titleAr: توسيع الحاجز الأذينيّ بالبالون ليس علاجًا ملطّفًا لتبدّل الشريانين المصحّح خلقيًّا
+tags: cardiac/congenital d:indications q:recall l:3
+palette: mirror silver, balloon red and belt brown
+keywords: congenitally corrected transposition -> the HART Hotel standing before a big mirror, its engine rooms and outflow pipes both swapped; systemic-pulmonary shunt -> a hose joining the orca's flipper to the pipe of dollar bills; stage I Norwood -> a Norwegian woodcutter in red flannel joining the big pipe of dollar bills to the little orca; PA banding -> a leather belt buckled round the pipe of dollar bills; bidirectional Glenn -> an astronaut bending the blue wing's chimney down to the money pipe; balloon septostomy -> a round red party balloon on a string, sent away
+must: the hose, the woodcutter, the belt and the astronaut each work at the mirror hotel; the party balloon is sent away
+scene: A HART Hotel standing before a big mirror. CENTRE, dominant and brightest: a round red party balloon on a string being sent away from the hotel's upper party wall. AROUND, each at work: a hose joining the orca's flipper to the pipe of dollar bills; a Norwegian woodcutter in red flannel; a leather belt buckled round the money pipe; an astronaut bending the blue chimney down to the money pipe. LEFT: Usopp blowing up the party balloon. Chopper.
+story:
+في فندق يقف أمام مرآة كبيرة، جاء عمّال الإسعاف كلّ بأداته.
+فمدّ أحدهم خرطومًا من زعنفة الحوت إلى أنبوب الدولارات، وشدّ آخر حزامًا جلديًّا حول الأنبوب.
+وجاء حطّاب نرويجيّ بقميص أحمر ليصل الأنبوب الكبير بالحوت الصغير، وثنى رائد الفضاء المدخنة الزرقاء إلى الأنبوب.
+«وأنا عندي بالون الحفلات الأحمر؛ أشدّه عبر الجدار العلويّ!» قال أوسوب، وأخذ ينفخ البالون.
+لكنّ ماء فندق المرآة كان يجري في طريقه الصحيح أصلًا، فلا شيء يحتاج إلى الاختلاط.
+فأخذ تشوبر البالون من يد أوسوب، وأطلقه في السماء.
+«فندق المرآة لا يحتاج بالون الحفلات!» قال تشوبر.
+فطار البالون الأحمر عاليًا نحو النجوم، فضحكت روبين وقرأت بيتًا للمتنبّي:
+quote: «إذا غامرت في شرف مروم، فلا تقنع بما دون النجوم.»
+source: المتنبّي
+explanation:
+Balloon septostomy is not an appropriate palliative procedure for CC-TGA: D.
+In corrected transposition the circulation is already in series, so there is no mixing problem for a septostomy to solve.
+Palliation depends on the associated lesions: a systemic-pulmonary shunt for too little lung flow, and PA banding for too much flow or to train the left ventricle.
+A Glenn is used on the single-ventricle path, and a Norwood when the systemic outflow is hypoplastic.
+In the picture, the hose, the woodcutter, the belt and the astronaut each work, while the party balloon is sent away.
+Memory hook: the mirror hotel needs no party balloon.
+
+== 358
+# book 75.4: correct about the physiologic (classic) biventricular repair -> B, pulmonary valve stenosis is treated by valvotomy when the annulus is not small.
+# ANSWER: the tailor's scissors snip the money pipe's fused door open when its brass collar is a normal size (audited scissors, collar, mirror)
+# no cut in the subaortic room (A wrong); no carving of the funnel's wall, where the sparks run (C wrong); no routine patch (D wrong) (audited funnel, branches)
+title: In physiologic repair of CC-TGA, pulmonary valve stenosis without annular hypoplasia is treated by valvotomy
+titleAr: في الإصلاح الفيزيولوجيّ لتبدّل الشريانين المصحّح يُعالج تضيّق الصمّام الرئويّ بالشقّ إذا كانت الحلقة سليمة
+tags: cardiac/congenital d:technique q:recall l:3
+palette: mirror silver, scissors steel and collar brass
+keywords: congenitally corrected transposition -> the HART Hotel standing before a big mirror, its engine rooms and outflow pipes both swapped; pulmonary valvotomy -> a tailor's big scissors snipping apart the sewn seams of the money pipe's door; normal-sized annulus -> the brass collar round that door a normal size; conal septum resection -> carving the funnel's wall where the crackling branches run, avoided; LV-to-PA conduit -> a clear twisting waterslide used when the narrowing lies below the door
+must: the scissors open the door because its brass collar is a normal size; nobody carves the funnel's wall
+scene: A HART Hotel standing before a big mirror. CENTRE, dominant and brightest: a tailor's big scissors snipping apart the sewn seams of the door of the pipe of dollar bills, its brass collar a normal size. AROUND, dimmer: a funnel's wall with crackling branches along it, a red X forbidding any carving there; a clear twisting waterslide waiting for another hotel. LEFT: Usopp with a chisel at the funnel's wall. Chopper.
+story:
+في فندق يقف أمام مرآة كبيرة، كان باب أنبوب الدولارات ملتحم الدروز، يعصر الماء.
+«أنحت جدار القمع تحته بإزميلي، فيتّسع كلّ شيء!» قال أوسوب، ورفع الإزميل نحو جدار القمع.
+لكنّ تشوبر أوقفه: فعلى جدار القمع تجري حزمة الأغصان الّتي تطقطق بالشّرر، ومن نحته قطعها.
+ثمّ نظر إلى الطوق النحاسيّ حول الباب، فإذا هو طبيعيّ الحجم.
+فأخذ مقصّ الخيّاط الكبير، وفكّ دروز الباب الملتحمة، فانفتح الباب وجرى الماء.
+وترك المنزلق المائيّ الشفّاف لفندق آخر يقع ضيقه تحت الباب.
+«طوق طبيعيّ، قصّة بسيطة!» قال تشوبر.
+فقصّ تشوبر الدروز قصّةً واحدةً نظيفة، فقرأت روبين بيتًا لأبي تمّام:
+quote: «السيف أصدق إنباءً من الكتب، في حدّه الحدّ بين الجدّ واللّعب.»
+source: أبو تمّام
+explanation:
+In physiologic biventricular repair, pulmonary valve stenosis is managed by valvotomy when there is no annular hypoplasia: B.
+Subvalvular or annular obstruction is usually bypassed with a conduit from the left ventricle to the pulmonary artery, because the conduction bundle runs close by and resection risks heart block.
+Ventriculotomy in the systemic (morphological right) ventricle is avoided, outflow patches are not routine, and VSD stitches are placed on the morphological right side of the septum.
+In the picture, the scissors open the door because its collar is a normal size, and nobody carves the funnel's wall.
+Memory hook: a normal collar, a simple snip.
+
+== 359
+# book 75.5: NOT part of an anatomic biventricular repair (double switch) -> E, an extracardiac Fontan.
+# ANSWER: at the mirror hotel, the mustard bottle, the switchman's lever, the tunnel from the red room to the orca and the astronaut all work; the stone fountain is left out (audited mustard, switch lever, astronaut, fountain, mirror)
+title: An extracardiac Fontan is not part of an anatomic biventricular repair
+titleAr: عمليّة فونتان خارج القلب ليست جزءًا من الإصلاح التشريحيّ ثنائيّ البطين
+tags: cardiac/congenital d:technique q:recall l:3
+palette: mirror silver, mustard yellow and fountain stone
+keywords: congenitally corrected transposition -> the HART Hotel standing before a big mirror, its engine rooms and outflow pipes both swapped; intra-atrial switch -> a giant squeeze bottle of yellow mustard drawing a thick wall across the upper lobbies; arterial switch or Rastelli -> a subway switchman pulling a big switch lever, or a white tunnel from the red room through the hole to the orca with a waterslide to the money pipe; Glenn anastomosis -> an astronaut bending the blue wing's chimney down to the money pipe; extracardiac Fontan -> a stone fountain in the hotel courtyard, left out
+must: the mustard, the switch lever, the tunnel and the astronaut all work; the stone fountain is left out
+scene: A HART Hotel standing before a big mirror. CENTRE, dominant and brightest: a stone fountain in the courtyard covered with a cloth, left out. AROUND, each at work: a giant squeeze bottle of yellow mustard drawing a thick wall across the upper lobbies; a subway switchman pulling a big switch lever; a white tunnel from the red room through the hole to the orca with a clear waterslide to the money pipe; an astronaut bending the blue chimney down to the money pipe. LEFT: Usopp pulling the cloth off the fountain. Chopper.
+story:
+في فندق يقف أمام مرآة كبيرة، أراد الجرّاحون أن يعيدوا الغرفة الحمراء الحقيقيّة لتخدم المدينة.
+فرسمت زجاجة الخردل العملاقة جدارًا غليظًا عبر الردهتين العلويّتين، وشدّ عامل التحويلة رافعته.
+وفي فندق آخر فيه ثقب ومشبك، بني نفق أبيض من الغرفة الحمراء إلى الحوت، ومنزلق مائيّ إلى أنبوب الدولارات.
+وجاء رائد الفضاء يثني المدخنة الزرقاء إلى الأنبوب، ليخفّف عن الغرفة الصغيرة.
+«والنّافورة الحجريّة في الساحة! نكشفها ونشغّلها أيضًا!» قال أوسوب، وشدّ الغطاء عن النافورة.
+لكنّ تشوبر أعاد الغطاء؛ فالنّافورة طريق الفندق ذي الغرفة الواحدة، وهذا فندق بغرفتين.
+«التحويل المزدوج يحتاج خردلًا ورافعة، لا نافورةً أبدًا!» قال تشوبر.
+فأعاد تشوبر الغطاء على النافورة، وقالت روبين مثلًا قديمًا:
+quote: «لكلّ مقام مقال.»
+source: مثل عربيّ
+explanation:
+An extracardiac Fontan is not performed during an anatomic biventricular repair: E.
+The anatomic ("double switch") repair restores the morphological left ventricle to the systemic circulation by combining an atrial switch (Senning or Mustard) with an arterial switch.
+With a VSD and pulmonary stenosis, the arterial switch is replaced by a Rastelli-type tunnel from the left ventricle to the aorta and a conduit.
+A bidirectional Glenn is often added to unload a small right ventricle or the atrial baffle (a hemi-Mustard).
+A Fontan is a single-ventricle route, the opposite of a biventricular repair.
+In the picture, the mustard, the lever, the tunnel and the astronaut all work, while the fountain stays covered.
+Memory hook: a double switch needs mustard and a lever, never a fountain.
+
+== 360
+# book 76.1: the commonest form of HLHS -> C, aortic atresia with mitral atresia.
+# ANSWER: the little plastic hippo in a doll-sized red wing, both the orca's mouth and the bishop's mitre welded shut (audited hippo, welded shut, mouth, mitre)
+title: The commonest form of HLHS is aortic atresia with mitral atresia
+titleAr: أكثر أشكال متلازمة نقص تنسّج القلب الأيسر شيوعًا رتق الأبهر مع رتق التاجيّ
+tags: cardiac/congenital d:pathology q:recall l:2
+palette: toy-shop pastel, hippo grey and weld orange
+keywords: hypoplastic left heart syndrome -> a little plastic toy hippo wedged into a red wing shrunk to doll size; aortic atresia -> the orca balloon's mouth welded shut with a thick iron cap; mitral atresia -> the bishop's mitre welded shut too; other forms -> narrow stone doors instead of welded ones, less often; mitral valve -> the bishop's mitre welded shut too
+must: in the commonest form both doors of the doll-sized red wing, the orca's mouth and the mitre, are welded shut
+scene: A toy shop at night. CENTRE, dominant and brightest: a little plastic toy hippo wedged into a HART Hotel's red wing shrunk to doll size, both its doors welded shut with thick iron caps: the orca balloon's mouth and the bishop's mitre. AROUND, dimmer: other doll-sized red wings with narrow stone doors instead. LEFT: Usopp trying to pry the welded mitre open. Chopper.
+story:
+في متجر ألعاب ليلًا، وجد تشوبر فرس نهر بلاستيكيًّا صغيرًا عالقًا في جناح أحمر صغر حتّى صار بحجم الدمية.
+«باب واحد ضيّق فقط؛ أفتحه بمفكّي!» قال أوسوب، وأدخل مفكًّا في تاج الأسقف.
+لكنّ تاج الأسقف لم يكن ضيّقًا، بل ملحمًا بغطاء حديديّ غليظ.
+وفم الحوت أيضًا كان ملحمًا بغطاء حديديّ؛ فالبابان كلاهما مغلقان.
+فالجناح الأحمر ليس إلّا شقًّا صغيرًا، والمدينة كلّها تشرب من نفق الشريط اللاصق.
+وعلى الرفوف أفراس نهر أخرى أبوابها ضيّقة من الحجر لا ملحمة، لكنّها أقلّ عددًا.
+«أكثر أفراس النهر شيوعًا: البابان كلاهما ملحمان!» قال تشوبر.
+فأعاد أوسوب مفكّه إلى جيبه، فقد رأى البابين ملحمين، وقالت روبين مثلًا قديمًا:
+quote: «اتّسع الخرق على الراقع.»
+source: مثل عربيّ
+explanation:
+The most common form of HLHS is aortic atresia with mitral atresia: C.
+With both left-sided valves atretic, the left ventricle is a slit, and the whole systemic circulation depends on the ductus, while the tiny ascending aorta fills backwards to supply the coronaries.
+The other forms, with stenosis of one or both valves, are less common and leave a small but present left ventricle.
+In the picture, the commonest hippo has both doors of its doll-sized red wing welded shut.
+Memory hook: the commonest hippo has both doors welded.

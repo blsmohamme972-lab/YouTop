@@ -1,0 +1,305 @@
+book: johns-hopkins-2016
+# Lessons 361-370 (book 76.2-78.1: hypoplastic left heart syndrome; tricuspid atresia and the Fontan pathway; aortic stenosis in the young).
+# Written 2026-11-22, morning. Each story: a hook, a wrong try that fails, the answer acting, a payoff line that names
+# the symbol, and a lead-in that says who speaks the quotation and why it fits.
+# OCR misprints of 361, 362, 363 and 370 are mended by the book's 'typos' map ("Sarro" -> "Sano", "ex:tracardiac").
+# Quotations added 2026-11-22 (the owner left the choice to the agent: "make anything strong and consistent"):
+# a One Piece line (at most three uses, 20 lessons apart) or a classical Arabic line read out by Robin; see ../quote-bank.md.
+
+== 361
+# book 76.2: correct about the epidemiology of HLHS -> B, a slight male predominance.
+# ANSWER: in the nursery of plastic hippos, a few more blue caps than pink ones, six boys to four girls (audited hippo)
+# the elf with the pearl necklace is not the commonest companion (D wrong); a turnip carved into an X is seen more (audited elf, turnip)
+title: HLHS has a slight male predominance
+titleAr: في متلازمة نقص تنسّج القلب الأيسر غلبة طفيفة للذكور
+tags: cardiac/congenital d:pathology q:recall l:2
+palette: nursery pastel, cap blue and cap pink
+keywords: hypoplastic left heart syndrome -> a little plastic toy hippo wedged into a red wing shrunk to doll size; slight male predominance -> in a nursery of such hippos, a few more blue caps than pink ones, six boys to four girls; Turner syndrome -> a single turnip carved into the letter X beside one crib; Williams syndrome -> a cheerful elf wearing a tight pearl necklace, far less often seen
+must: the nursery has a few more blue caps than pink ones, about six to four
+scene: A nursery of ten cribs, each with a little plastic toy hippo wedged into a red wing shrunk to doll size. CENTRE, dominant and brightest: six babies in blue caps and four in pink caps, the blue a little ahead. AROUND, dimmer: a single turnip carved into the letter X beside one crib; a cheerful elf wearing a tight pearl necklace standing far away. LEFT: Usopp counting caps. Chopper.
+story:
+في حضانة فيها عشرة مهود، كان عند كلّ رضيع فرس نهر بلاستيكيّ صغير عالق في جناح أحمر بحجم الدمية.
+«البنات أكثر بكثير؛ انظروا إلى كلّ هذه القبّعات الورديّة!» قال أوسوب، قبل أن يعدّ.
+فعدّ تشوبر القبّعات واحدةً واحدة: ستّ قبّعات زرقاء للصّبيان، وأربع ورديّة للبنات.
+فالصّبيان أكثر قليلًا، لا كثيرًا.
+وبجانب أحد المهود لفتة منحوتة على شكل حرف إكس؛ أمّا القزم المرح ذو القلادة اللؤلئيّة فوقف بعيدًا جدًّا.
+فأعاد أوسوب العدّ مرّتين، ثمّ اعترف بأنّ القبّعات الزرقاء تتقدّم بخطوة.
+«في حضانة أفراس النهر، القبّعات الزرقاء أكثر قليلًا!» قال تشوبر.
+فلمّا اعترف أوسوب بخطئه، ربّتت روبين على كتفه، وقالت حكمةً قديمة:
+quote: «الاعتراف بالحقّ فضيلة.»
+source: مثل عربيّ
+explanation:
+There is a slight male predominance in HLHS: B.
+About 55 to 65 percent of affected infants are boys.
+Before modern surgery HLHS caused about a quarter of cardiac deaths in the first week of life.
+Chromosomal abnormalities are found in around 10 percent, Turner syndrome being among the commonest, and the recurrence risk for a sibling is a few percent.
+In the picture, the nursery of hippos has a few more blue caps than pink ones.
+Memory hook: the hippo nursery has a few more blue caps.
+
+== 362
+# book 76.3: correct about stage I for HLHS -> E, the hybrid stage I is associated with reverse coarctation.
+# ANSWER: a Slinky in the duct-tape tunnel and two belts on the money pipes, and a rope pinching the orca's waist just where the water must flow BACKWARDS to reach the head (audited slinky, duct, belt, rope)
+# the head need not be frozen in the ice cube (A wrong); the upper wall is torn wide, not finely drilled (B wrong) (audited ice cube)
+title: The hybrid stage I for HLHS is associated with reverse coarctation
+titleAr: المرحلة الأولى الهجينة لمتلازمة نقص تنسّج القلب الأيسر ترتبط بالتضيّق العكسيّ للأبهر
+tags: cardiac/congenital d:complications q:recall l:3
+palette: catheter-lab steel, belt brown and rope red
+keywords: hybrid stage I -> a coiled metal Slinky pushed inside the duct-tape tunnel to hold it open, and two leather belts buckled round the two pipes of dollar bills; reverse coarctation -> a rope pinching the orca's waist just where the water from the tunnel must flow BACKWARDS round the arch to reach the head and the crown; hypoplastic left heart syndrome -> a little plastic toy hippo wedged into a red wing shrunk to doll size; Norwood -> a Norwegian woodcutter in red flannel, the other way
+must: the water from the Slinky-held tunnel flows backwards round the arch and the rope pinches it there
+scene: A catheterization room with a steel table. CENTRE, dominant and brightest: a little plastic toy hippo in a doll-sized red wing, a coiled metal Slinky inside a tunnel of shiny silver duct tape, two leather belts buckled round the two money pipes, and water from the tunnel flowing BACKWARDS round the orca's arch toward the head, pinched by a rope at the orca's waist. AROUND, dimmer: a Norwegian woodcutter in red flannel waiting. LEFT: Usopp pointing at the belts. Chopper.
+story:
+في غرفة القثطرة ذات الطاولة الفولاذيّة، جيء برضيع عنده فرس نهر بلاستيكيّ في جناح أحمر بحجم الدمية.
+فبدل الحطّاب النرويجيّ، دسّ تشوبر زنبركًا معدنيًّا في نفق الشريط اللاصق، وشدّ حزامين جلديّين حول أنبوبي الدولارات.
+«انتهينا! النفق مفتوح، والحزامان مشدودان؛ لا خطر بعد اليوم!» قال أوسوب، وأشار إلى الحزامين.
+لكنّ الماء الخارج من النفق كان عليه أن يجري إلى الوراء حول قوس الحوت الصغير ليبلغ الرأس والتّاج.
+فإذا حبل يعصر خصر الحوت هناك، في طريق الماء الراجع، فيكاد الرأس يعطش.
+فأخذ تشوبر يراقب ذلك الحبل أسبوعًا بعد أسبوع، ليفكّه قبل أن يشتدّ.
+«في الطريق الهجين، يجري الماء إلى الوراء عبر الحبل!» قال تشوبر.
+فسأل أوسوب إلى متى يراقبونه، فقالت روبين مثلًا قديمًا:
+quote: «إنّ غدًا لناظره قريب.»
+source: مثل عربيّ
+explanation:
+The hybrid stage I repair is associated with reverse coarctation: E.
+In the hybrid approach the ductus is stented and both branch pulmonary arteries are banded.
+Blood from the ductus must then flow backwards through the small aortic isthmus and arch to the head and the coronaries, and narrowing there (reverse coarctation) can be fatal.
+In the Norwood operation, deep hypothermic circulatory arrest is not obligatory, since regional cerebral perfusion can be used, and the atrial septum is widely excised.
+The aortotomy is carried down beyond the ductal insertion, and the proximal Sano anastomosis is done with the heart arrested in most techniques.
+In the picture, the backward water from the Slinky-held tunnel is pinched by the rope at the orca's waist.
+Memory hook: in the hybrid, the water flows backwards past the rope.
+
+== 363
+# book 76.4: correct about stage II for HLHS -> B, a cavopulmonary anastomosis before 3 months is associated with more hypoxia.
+# ANSWER: the astronaut bending the chimney down before the third month finds the money pipe still stacked with wooden blocks, and the baby's lips turn blue (audited astronaut, wooden block, blue lips)
+title: A cavopulmonary anastomosis before 3 months of age is associated with more hypoxia
+titleAr: الوصلة الأجوفيّة الرئويّة قبل الشهر الثالث ترتبط بزيادة نقص الأكسجة
+tags: cardiac/congenital d:indications q:recall l:2
+palette: calendar white, chimney blue and lip violet
+keywords: bidirectional Glenn -> an astronaut in a white spacesuit bending the blue wing's chimney down to the pipe of dollar bills; before 3 months -> a calendar still short of its third month; pulmonary vascular resistance -> wooden blocks still stacked inside the money pipe; hypoxia -> the baby's bright blue lips and fingertips; hemi-Fontan -> a second builder laying the first half of a lateral tunnel, ready for the fountain later; cyanosis -> the baby's bright blue lips and fingertips
+must: before the third month the wooden blocks are still stacked and the baby's lips turn blue
+scene: A HART Hotel's courtyard. CENTRE, dominant and brightest: an astronaut in a white spacesuit bending the blue wing's chimney down to the pipe of dollar bills too early, a calendar beside him still short of its third month, wooden blocks still stacked inside the money pipe, and the baby's lips turning bright blue. AROUND, dimmer: a second builder laying the first half of a tunnel inside the blue lobby. LEFT: Usopp tearing pages off the calendar. Chopper.
+story:
+في ساحة فندق صغير له غرفة محرّك واحدة، جاء رائد الفضاء ليثني المدخنة الزرقاء إلى أنبوب الدولارات.
+«الآن، الآن! لماذا ننتظر؟» قال أوسوب، وأخذ يمزّق أوراق التقويم ليسرع الشهور.
+لكنّ التقويم لم يبلغ شهره الثالث بعد، والمكعّبات الخشبيّة ما تزال مكدّسةً في أنبوب الدولارات.
+فلمّا ثنى رائد الفضاء المدخنة، لم يعبر ماؤها الأنبوب إلّا قليلًا، وازرقّت شفتا الرضيع.
+فأعاد تشوبر المدخنة إلى مكانها، وانتظروا حتّى سقطت المكعّبات في الشهر الرابع.
+وفي الردهة الزرقاء، كان بنّاء آخر يبني نصف نفق، يستعدّ به للنّافورة فيما بعد.
+«رائد الفضاء ينتظر الشهر الثالث!» قال تشوبر.
+فجمع أوسوب أوراق التقويم الممزّقة خجلًا، وقالت له روبين مثلًا قديمًا:
+quote: «الصبر مفتاح الفرج.»
+source: مثل عربيّ
+explanation:
+Performing a cavopulmonary anastomosis before 3 months of age is associated with increased hypoxia: B.
+The SVC blood reaches the lungs only passively, so pulmonary vascular resistance must have fallen; in young infants it is still too high, and saturations drop.
+Stage II is therefore usually done at 3 to 6 months; a bidirectional Glenn suits a later extracardiac conduit, and a hemi-Fontan sets up a lateral tunnel.
+The hemi-Fontan is done on full bypass, often with a short period of arrest.
+In the picture, before the third month the wooden blocks are still stacked and the baby's lips turn blue.
+Memory hook: the astronaut waits for the third month.
+
+== 364
+# book 76.5: correct about outcomes of HLHS surgery -> D, an RV-PA conduit may improve outcomes after stage I.
+# ANSWER: of two woodcutter hotels, the one fed by a clear waterslide from the blue room survives the first year more often than the one fed by a hose from the flipper (audited woodcutter, waterslide, hose)
+# home monitoring does cut the losses between stages (C wrong); patients needing the fish gills or the dark knight before surgery fare worse (B wrong) (audited gills, vader)
+title: An RV-PA conduit may improve outcomes after stage I for HLHS
+titleAr: قناة البطين الأيمن إلى الشريان الرئويّ قد تُحسّن النتائج بعد المرحلة الأولى لنقص تنسّج القلب الأيسر
+tags: cardiac/congenital d:evidence q:recall l:3
+palette: woodcutter flannel red, waterslide clear and hose green
+keywords: Norwood stage I -> a Norwegian woodcutter in red flannel joining the big pipe of dollar bills to the little orca; RV-PA conduit -> a clear twisting waterslide tube from the blue engine room to the pipe of dollar bills; BT shunt -> a hose joining the orca's flipper to the pipe of dollar bills; better early outcome -> more of the waterslide hotels still standing at their first birthday; home monitoring -> a parent writing the baby's weight and oxygen in a notebook every day; ECMO before surgery -> a pair of big red fish gills in a clear box beside a sicker baby
+must: more waterslide hotels than hose hotels still stand at the first birthday
+scene: A woodcutter's camp in a pine forest. CENTRE, dominant and brightest: two rows of HART Hotels joined by a Norwegian woodcutter in red flannel: in one row each is fed by a clear twisting waterslide from the blue engine room, most still standing at their first birthday cake; in the other row each is fed by a hose from the orca's flipper, fewer standing. AROUND, dimmer: a parent writing weight and oxygen in a notebook; a pair of big red fish gills in a clear box beside a sicker baby. LEFT: Usopp. Chopper.
+story:
+في مخيّم حطّابين بين أشجار الصنوبر، وصل الحطّاب النرويجيّ ذو القميص الأحمر أنبوب الدولارات الكبير بالحوت الصغير في صفّين من الفنادق.
+في الصفّ الأوّل، أطعم أكياس الدولارات خرطوم من زعنفة الحوت؛ وفي الثاني، منزلق مائيّ شفّاف من الغرفة الزرقاء.
+«الخرطوم والمنزلق سواء؛ لن يختلف الصفّان في شيء!» قال أوسوب.
+لكن حين أوقدت شموع العيد الأوّل، كان القائمون في صفّ المنزلق أكثر.
+فالخرطوم يسرق من الحوت ماءه في الاستراحة بين الدقّات، فيعطش التاج؛ والمنزلق لا يسرق.
+وكانت أمّ تكتب كلّ يوم وزن رضيعها وأكسجينه في دفتر، فيصل الخبر قبل الخطر.
+«المنزلق يسبق الخرطوم في العام الأوّل!» قال تشوبر.
+فرفعت الأمّ دفترها، فقالت روبين مثلًا قديمًا عن الاستعداد:
+quote: «قبل الرماء تملأ الكنائن.»
+source: مثل عربيّ
+explanation:
+Use of an RV-PA conduit may improve outcomes after stage I reconstruction: D.
+In the Single Ventricle Reconstruction trial, transplant-free survival at 12 months was better with the RV-PA (Sano) conduit than with a modified Blalock-Taussig shunt, though the advantage faded later.
+The conduit avoids diastolic runoff from the aorta, which protects coronary perfusion.
+Ten-year survival is now well over 50 percent, interstage home monitoring reduces deaths between stages, and preoperative ECMO or VAD support raises operative mortality.
+In the picture, more waterslide hotels than hose hotels stand at their first birthday.
+Memory hook: the waterslide beats the hose in the first year.
+
+== 365
+# book 77.1: correct about the morphology of tricuspid atresia -> D, a VSD is usually present.
+# ANSWER: the trident welded shut, the blue lobby big, water crossing the upper wall to the red side and back through a hole in the lower party wall into a small blue engine room (audited trident, welded shut, lower party wall)
+# the blue lobby is large, not small (B wrong); the small blue room lacks its inlet, not its outlet (C wrong); the orca and the money pipe usually rise from their proper rooms (E wrong)
+title: In tricuspid atresia a VSD is usually present
+titleAr: في رتق الصمّام ثلاثيّ الشرف توجد عادةً فتحة بين البطينين
+tags: cardiac/congenital d:anatomy q:recall l:2
+palette: weld orange, lobby blue and wall brick
+keywords: tricuspid atresia -> the trident between the blue lobby and the blue engine room welded shut with a thick iron cap; VSD -> a ragged hole in the lower party wall letting water from the red engine room into a small blue engine room; enlarged right atrium -> the blue glass-roofed atrium lobby big and swollen; hypoplastic right ventricle -> a little plastic toy hippo wedged into the small blue engine room, which lacks its inlet; atrial septal defect -> the hole in the upper party wall, the only way out of the blue lobby
+must: water leaves the big blue lobby only through the upper wall's hole and reaches the small blue room through the hole in the lower party wall
+scene: A cut-open HART Hotel. CENTRE, dominant and brightest: the trident between the big swollen blue lobby and the blue engine room welded shut with a thick iron cap; water leaving the blue lobby through a hole in the upper party wall into the red side, then passing through a ragged hole in the lower party wall into a small blue engine room that lacks its inlet, a little plastic toy hippo wedged in it, and on into the pipe of dollar bills. LEFT: Usopp hammering at the welded trident. Chopper.
+story:
+في فندق مفتوح للدّرس، كان الرمح الثلاثيّ بين الردهة الزرقاء وغرفتها ملحمًا بغطاء حديديّ غليظ.
+«أكسر اللحام بمطرقتي، فيعبر الماء كما يعبر في كلّ فندق!» قال أوسوب، وأخذ يطرق الرمح.
+لكنّ اللحام لم يتزحزح؛ فالرّدهة الزرقاء الكبيرة المنتفخة لا مخرج لها إلّا ثقب في الجدار العلويّ إلى الجهة الحمراء.
+ثمّ تتبّع تشوبر الماء إلى غرفة المحرّك الحمراء، فإذا ثقب في الجدار السفليّ يمرّره إلى غرفة زرقاء صغيرة.
+غرفة بلا مدخل، فيها فرس نهر بلاستيكيّ صغير، يمضي منها الماء إلى أنبوب الدولارات.
+وكان الحوت والأنبوب في أكثر هذه الفنادق يخرجان من غرفتيهما الصحيحتين.
+«رمح ملحم، وثقب في الجدار السفليّ!» قال تشوبر.
+فأطلّت الدكتورة كوريها من الباب، ورأت أوسوب يمسح عرقه أمام الرمح الملحم، فضحكت وقالت:
+quote: «هي هي هي! هل أنت سعيد؟»
+source: الدكتورة كوريها
+explanation:
+In tricuspid atresia a VSD is usually present: D.
+With no connection from the right atrium to the right ventricle, all systemic venous blood crosses an atrial septal defect to the left heart, and the right ventricle fills only through the VSD.
+The right atrium is large, the right ventricle is hypoplastic and lacks its inlet portion, and the ventriculoarterial connections are usually concordant; tricuspid atresia is one of the common single-ventricle lesions.
+In the picture, water leaves the big blue lobby through the upper hole and reaches the small blue room through the hole in the lower wall.
+Memory hook: a welded trident, a hole below.
+
+== 366
+# book 77.2: correct about the clinical features of tricuspid atresia -> A, most present with cyanosis in the first day.
+# ANSWER: on the first day of the calendar, the baby with the welded trident already has blue lips (audited trident, welded shut, blue lips)
+# most have a narrowed road to the money sacks (C wrong); the cyanosis deepens as the duct-tape tunnel closes, not later (B wrong)
+title: Most patients with tricuspid atresia are cyanotic on the first day
+titleAr: معظم مرضى رتق الصمّام ثلاثيّ الشرف مزرقّون منذ اليوم الأوّل
+tags: cardiac/congenital d:diagnosis q:recall l:2
+palette: dawn pink, lip blue and weld orange
+keywords: tricuspid atresia -> the trident between the blue lobby and the blue engine room welded shut with a thick iron cap; cyanosis on the first day -> a newborn with bright blue lips and fingertips, the calendar on day one; restricted pulmonary blood flow -> the road to the money sacks narrowed in most such babies; ductus closing -> the duct-tape tunnel squeezing shut and the blue deepening
+must: on day one the baby's lips are already blue
+scene: A maternity ward at dawn. CENTRE, dominant and brightest: a newborn with bright blue lips and fingertips beside a HART Hotel whose trident is welded shut with a thick iron cap, the calendar on the wall showing day one. AROUND, dimmer: a narrowed road to the money sacks; a tunnel of shiny silver duct tape squeezing shut. LEFT: Usopp waiting for the blue to come later. Chopper.
+story:
+في جناح الولادة عند الفجر، ولد رضيع رمحه الثلاثيّ ملحم بغطاء حديديّ.
+«سيبقى ورديًّا أسابيع؛ فالزّرقة تأتي متأخّرةً في مثل هذا!» قال أوسوب، وجلس ينتظر.
+لكنّ التقويم على الجدار لم يتجاوز يومه الأوّل، وشفتا الرضيع قد صارتا زرقاوين.
+فالطّريق إلى أكياس الدولارات ضيّق عند أكثر هؤلاء الرضّع، والماء الأزرق يختلط بالأحمر قبل أن يخرج.
+ثمّ أخذ نفق الشريط اللاصق ينعصر، فاشتدّت الزرقة.
+فرفع تشوبر كأس الجعة ليبقى النفق مفتوحًا، ونادى الجرّاح.
+«رمح ملحم يزرّق الشفاه في اليوم الأوّل!» قال تشوبر.
+فقام أوسوب عن مقعده مذهولًا، فقرأت روبين بيتًا للمتنبّي:
+quote: «ما كلّ ما يتمنّى المرء يدركه، تجري الرياح بما لا تشتهي السفن.»
+source: المتنبّي
+explanation:
+Most patients with tricuspid atresia present with cyanosis in the first day of life: A.
+Systemic venous blood mixes with pulmonary venous blood in the left atrium, and in most patients flow to the lungs is restricted by a small VSD or pulmonary stenosis.
+Cyanosis deepens as the ductus closes; the few with unrestricted lung flow have mild cyanosis and heart failure, worsening as pulmonary vascular resistance falls.
+The ECG classically shows left-axis deviation and large P waves.
+In the picture, on day one the baby's lips are already blue.
+Memory hook: a welded trident turns the lips blue on day one.
+
+== 367
+# book 77.3: NOT a criterion for the Fontan -> A, age over 1 year.
+# ANSWER: at the stone fountain, the checklist ticks clear money-pipe drains, wide money pipes, a strong fan and a nearly tight door; the card "over one year" is not on it (audited fountain)
+title: Age over 1 year is not a criterion for the Fontan procedure
+titleAr: العمر فوق سنة ليس من شروط عمليّة فونتان
+tags: cardiac/congenital d:indications q:recall l:2
+palette: fountain stone grey, checklist white and tick green
+words: 1
+keywords: Fontan procedure -> a stone fountain in the hotel courtyard, fed by the blue wing's chimney, its water running straight into the money pipes; unobstructed pulmonary venous drainage -> clear drains from the money sacks back to the lobby, ticked; adequate pulmonary arteries -> wide money pipes, ticked; adequate ventricular function -> the single engine room's fan turning strongly, ticked; mild or moderate AV valve leak -> a door that only drips a little, ticked; age over 1 year -> a card with a 1 on it, not on the checklist; univentricular heart -> the single engine room's fan turning strongly, ticked
+must: the four ticks are on the fountain's checklist; the card with the 1 is left off
+scene: A hotel courtyard with a stone fountain. CENTRE, dominant and brightest: a big checklist beside the fountain with four green ticks: clear drains from the money sacks, wide money pipes, a strongly turning fan, a door that only drips a little; a card with a 1 on it lying off the list. LEFT: Usopp pinning the card to the list. Chopper.
+story:
+في ساحة فندق ذي غرفة محرّك واحدة، أراد الجرّاحون أن يبنوا النافورة الحجريّة الّتي تصبّ ماء المدخنة في أنبوب الدولارات.
+فعلّق تشوبر بجانبها قائمةً كبيرة، وأخذ يضع علامات الصحّ.
+مصارف الأكياس إلى الردهة مفتوحة: صحّ؛ وأنابيب الدولارات واسعة: صحّ.
+ومروحة الغرفة الوحيدة تدور بقوّة: صحّ؛ والباب لا يقطر إلّا قليلًا: صحّ.
+«وهذه البطاقة أيضًا: عمره أكثر من سنة!» قال أوسوب، وأخذ يثبّت بطاقةً عليها رقم واحد.
+لكنّ تشوبر نزعها؛ فالنّافورة تسأل عن الأنابيب والمروحة والباب، لا عن عيد الميلاد.
+«النافورة تفحص الأنابيب والمضخّة، لا عيد الميلاد!» قال تشوبر.
+فنزع تشوبر بطاقة العمر، وقرأت روبين بيتًا للمتنبّي:
+quote: «على قدر أهل العزم تأتي العزائم، وتأتي على قدر الكرام المكارم.»
+source: المتنبّي
+explanation:
+Age over 1 year is not a criterion for the Fontan procedure: A.
+What matters is the physiology: low pulmonary vascular resistance and pressure, unobstructed pulmonary venous drainage and adequately sized pulmonary arteries.
+Good ventricular function and no more than mild or moderate atrioventricular valve regurgitation are needed too.
+The Fontan is usually completed at 2 to 4 years of age, after a Glenn, but age itself is not one of the criteria.
+In the picture, the four ticks are on the fountain's checklist and the age card is left off.
+Memory hook: the fountain checks the pipes and the pump, not the birthday.
+
+== 368
+# book 77.4: correct about the bidirectional cavopulmonary shunt -> B, systemic venous blood goes to the lungs, unloading the single ventricle.
+# ANSWER: once the astronaut bends the chimney to the money pipe, the one engine room's fan slows down, relieved of half its water (audited astronaut, one engine room)
+# the chimney's water is the bluest, not the least blue (A wrong); the chimney must be clamped for a while (C wrong); without the liver's water the money sacks grow tangles (D wrong); the treasure-map paths add work (E wrong) (audited treasure map)
+title: The bidirectional Glenn sends systemic venous blood to the lungs and unloads the single ventricle
+titleAr: وصلة غلين ثنائيّة الاتّجاه توجّه الدم الوريديّ إلى الرئتين وتخفّف عبء البطين الوحيد
+tags: cardiac/congenital d:physiology q:recall l:2
+palette: chimney blue, fan red and relief green
+keywords: bidirectional Glenn -> an astronaut in a white spacesuit bending the blue wing's chimney down to the pipe of dollar bills; single ventricle -> a single engine room, big, with no party wall, both lobby doors opening into it; reduced volume load -> that one engine room's fan slowing down, relieved of half the water it used to pump; desaturated SVC blood -> the chimney's water the bluest of all; pulmonary AV malformations -> tangles growing in the money sacks without the liver's water; aortopulmonary collaterals -> the winding paths of an old treasure map adding extra water to pump
+must: after the chimney is bent to the money pipe, the one engine room's fan slows down, relieved
+scene: A HART Hotel with one single big engine room and no party wall. CENTRE, dominant and brightest: an astronaut in a white spacesuit bending the blue wing's chimney down to the pipe of dollar bills, and the one engine room's fan slowing down, relieved, a smaller heap of water waiting for it. AROUND, dimmer: tangles growing in the money sacks; an old treasure map with paths adding extra water. LEFT: Usopp pouring more water into the engine room. Chopper.
+story:
+في فندق له غرفة محرّك واحدة كبيرة بلا جدار فاصل، كانت المروحة تدور بلا راحة، تضخّ ماء المدينة وماء الأكياس معًا.
+«أصبّ لها ماءً أكثر، فتقوى!» قال أوسوب، وصبّ دلوًا في الغرفة.
+لكنّ المروحة تعبت أكثر، وأخذت تئنّ.
+فجاء رائد الفضاء وثنى المدخنة الزرقاء إلى أنبوب الدولارات، فصار ماؤها يذهب إلى الأكياس وحده دون أن يمرّ بالغرفة.
+فهدأت المروحة واستراحت، فقد خفّ عنها نصف حملها.
+وفي الأكياس، أخذ تشوبر يراقب عقدًا صغيرةً قد تنمو بلا ماء الكبد، ودروب خريطة كنز قديمة تضيف إلى الغرفة ماءً.
+«رائد الفضاء يرفع نصف الحمل عن المروحة الوحيدة!» قال تشوبر.
+فصفّق أوسوب لرائد الفضاء والمروحة معًا، وقالت روبين مثلًا قديمًا:
+quote: «يد واحدة لا تصفّق.»
+source: مثل عربيّ
+explanation:
+In a bidirectional cavopulmonary shunt, systemic venous blood is diverted to the lungs, reducing the volume load on the single ventricle: B.
+The ventricle no longer pumps the pulmonary blood flow as well as the systemic, so its work falls while oxygenation improves.
+The SVC blood that reaches the lungs is the most desaturated, the SVC must be clamped or shunted while it is joined, and without hepatic venous blood in the lungs pulmonary arteriovenous malformations can form.
+Aortopulmonary collaterals add to the volume load and may be coiled.
+In the picture, once the chimney is bent to the money pipe, the one engine room's fan slows, relieved.
+Memory hook: the astronaut takes half the load off the single fan.
+
+== 369
+# book 77.5: true about outcomes after the Fontan -> B, atrial arrhythmias are fewer after the lateral tunnel than after the old atriopulmonary Fontan.
+# ANSWER: in the old fountain that runs through the swollen blue lobby, pirates and sawtooth bunting dance; in the lateral-tunnel fountain the lobby stays calm (audited fountain, pirate, bunting)
+# bowling balls still roll out of fountains often, more than 1 in 10 (D wrong) (audited bowling ball)
+title: Atrial arrhythmias are fewer after the lateral tunnel Fontan
+titleAr: اضطرابات النظم الأذينيّة أقلّ بعد فونتان بالنفق الجانبيّ
+tags: cardiac/congenital d:complications q:recall l:3
+palette: fountain stone grey, bunting red and lobby blue
+keywords: Fontan -> a stone fountain in the hotel courtyard, fed by the blue wing's chimney, its water running into the money pipes; atriopulmonary Fontan -> the old fountain running through the whole swollen blue lobby; lateral tunnel -> a narrow tunnel inside the blue lobby carrying the water, the rest of the lobby calm; atrial arrhythmias -> a pirate shouting ARRR and dancing a wild jig in the swollen old lobby, sawtooth bunting fluttering round it; thromboembolism -> black bowling balls rolling out of the fountain's pipes
+must: the pirate and the sawtooth bunting dance in the old swollen lobby; the lateral-tunnel lobby stays calm
+scene: Two hotel courtyards with stone fountains. LEFT, dimmer: an old fountain whose water runs through a whole swollen blue lobby, a pirate shouting ARRR and dancing a wild jig there, a string of sawtooth bunting flags fluttering round it. CENTRE, dominant and brightest: a newer fountain whose water runs through a narrow tunnel inside the blue lobby, the lobby calm, no pirate. AROUND, dimmer: black bowling balls rolling out of a fountain's pipes. Usopp. Chopper.
+story:
+في ساحتين متجاورتين، وقفت نافورتان حجريّتان تصبّان ماء المدخنة في أنبوب الدولارات.
+الأولى قديمة، يجري ماؤها عبر الردهة الزرقاء كلّها، فانتفخت الردهة وتشقّقت جدرانها.
+«النافورتان سواء؛ الماء هو الماء!» قال أوسوب.
+لكنّ قرصانًا كان يرقص في الردهة المنتفخة صائحًا آررر، وحوله رايات مثلّثة كأسنان المنشار تدور وتدور.
+أمّا النافورة الجديدة، فيجري ماؤها في نفق ضيّق داخل الردهة، وبقيّة الردهة هادئة لا قرصان فيها.
+وفي الحالين، كانت كرات بولنغ سوداء تتدحرج أحيانًا من أنابيب النافورة، فبقي تشوبر يقظًا.
+«أعط الماء نفقًا، يخرج القرصان من الردهة!» قال تشوبر.
+فخرج القرصان الراقص من الردهة القديمة ساخرًا، وقال كلمة بن بيكمان:
+quote: «لم نزعم يومًا أنّنا قدّيسون!»
+source: بن بيكمان
+explanation:
+The incidence of atrial arrhythmias is reduced after the lateral tunnel procedure: B.
+In the old atriopulmonary Fontan the whole right atrium is exposed to venous pressure, dilates and scars, so atrial flutter and other re-entrant arrhythmias are common.
+The lateral tunnel, and still more the extracardiac conduit, spare most of the atrium.
+Survival after a modern Fontan is around 90 percent at 10 years, thromboembolism affects up to about one in five patients, and ventricular dysfunction has many causes.
+In the picture, the pirate and the bunting dance in the old swollen lobby, while the tunnel lobby stays calm.
+Memory hook: give the water a tunnel, and the pirate leaves the lobby.
+
+== 370
+# book 78.1: NOT acceptable for severe AS on a tricuspid valve in a 16-year-old weighing 110 kg -> B, surgical valvotomy of the fused right and noncoronary commissures.
+# ANSWER: a big teenager's stone orca mouth: the robot, the rose and the tissue box are accepted; the tailor's scissors snipping the fused seams are sent away (audited stone, mouth, robot, rose, tissue box, scissors)
+title: Valvotomy is not acceptable for tricuspid aortic stenosis in a 16-year-old
+titleAr: شقّ الصوار ليس مقبولًا لتضيّق الأبهر ثلاثيّ الشرف عند فتى في السادسة عشرة
+tags: cardiac/aortic-valve d:indications q:vignette l:3
+palette: gym steel, stone grey and rose red
+words: 16, 110
+keywords: aortic stenosis -> the orca balloon's mouth turned to grey stone and pinched to a narrow slit; mechanical valve -> a clanking little steel robot set in as the valve; Ross operation -> a gardener moving a red rose from the mouth of the pipe of dollar bills to the orca balloon's mouth; bioprosthetic valve -> a soft paper tissue box set in as the valve; surgical valvotomy -> a tailor's big scissors snipping apart the fused seams of the stone mouth, sent away
+must: the robot, the rose and the tissue box are accepted for the big teenager; the scissors are sent away
+scene: A gym where a big 16-year-old weighing 110 kg lifts weights, 16 and 110 on a sign. CENTRE, dominant and brightest: his HART Hotel's orca balloon whose mouth has turned to grey stone, pinched to a narrow slit; three accepted helpers waiting: a clanking little steel robot, a gardener with a red rose taken from the money pipe's mouth, a soft paper tissue box; a tailor's big scissors being sent away. LEFT: Usopp snipping with the scissors. Chopper.
+story:
+في ناد رياضيّ، كان فتًى في السادسة عشرة يزن مئةً وعشرة كيلوغرامات يرفع الأثقال، وفم حوته قد صار حجرًا رماديًّا ضيّقًا.
+«سهلة! قصّة بالمقصّ في الدرز الملتحم، ويعود كما كان!» قال أوسوب، وأخذ يقصّ بمقصّ الخيّاط.
+لكنّ الفم الحجريّ الغليظ لم ينفتح إلّا قليلًا، وسرعان ما عاد يضيق.
+فالمقصّ ينفع أبواب الصغار الليّنة، لا فمًا متحجّرًا عند فتًى كبير.
+فجاءت ثلاثة عروض مقبولة: روبوت فولاذيّ صغير يقعقع، وعلبة مناديل ورقيّة ناعمة، وبستانيّ ينقل وردةً حمراء من فم أنبوب الدولارات إلى فم الحوت.
+فأخذ الفتى يوازن بينها: دواء يرقّق الدم مع الروبوت، وعمر أقصر للعلبة، وعمليّة أكبر للوردة.
+«فم الفتى الحجريّ يحتاج بابًا جديدًا، لا قصّةً بالمقصّ!» قال تشوبر.
+فأمسك الفتى بالرّوبوت والعلبة والوردة، كأنّه يراهن على عمره القادم، كما راهن شانكس يومًا:
+quote: «راهنت بذراعي على العصر الجديد.»
+source: شانكس
+explanation:
+Repair by surgical valvotomy of the fused right and noncoronary commissures is not acceptable here: B.
+In an adolescent with a thickened, tricuspid stenotic valve, commissurotomy gives a poor and short-lived result; balloon or surgical valvotomy belongs to infants and young children with a pliable valve.
+A mechanical prosthesis, a bioprosthesis or a Ross operation are all reasonable, weighing anticoagulation, durability and growth.
+In the picture, the robot, the rose and the tissue box are accepted, while the scissors are sent away.
+Memory hook: a big teenager's stone mouth needs a new valve, not a snip.

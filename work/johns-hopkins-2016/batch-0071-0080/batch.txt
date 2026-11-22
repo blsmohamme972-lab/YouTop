@@ -10,7 +10,7 @@ title: The thoracic oesophagus is the commonest site of oesophageal rupture
 titleAr: المريء الصدري هو المكان الأشيع لانثقاب المريء
 tags: thoracic/oesophagus d:pathology q:recall l:2
 palette: three floors of blue, gold and green, with a dark tear
-keywords: oesophagus through neck, chest and abdomen -> a long pink sofa slide running down through three stacked floors of a ship: a narrow neck floor, a big chest cabin and a belly hold; thoracic oesophageal rupture -> a big tear in the sofa slide on the MIDDLE floor, dirty water spilling out into the chest cabin; instrument injury -> a brass periscope lying beside the slide
+keywords: oesophagus through neck, chest and abdomen -> a long pink sofa slide running down through three stacked floors of a ship: a narrow neck floor, a big chest cabin and a belly hold; thoracic oesophageal rupture -> a big tear in the sofa slide on the MIDDLE floor, dirty water spilling out into the chest cabin; instrument injury from endoscopy -> a brass periscope lying beside the slide; stomach -> the copper cooking pot in the hold that the slide runs into
 must: the tear is on the MIDDLE floor (the chest cabin), not the top or the bottom
 scene: A pirate ship cut open like a doll's house: a narrow blue top floor, a big golden middle cabin, a green lower hold. A long pink sofa slide runs down through all three floors into a copper cooking pot in the hold. CENTRE, dominant and brightest: on the middle floor the slide has a big ragged tear, and dirty water spills out across the golden cabin floor. Franky, the blue-haired cyborg shipwright, rushes in with a toolbox. A brass periscope lies on the top floor beside the slide.
 story:
@@ -37,14 +37,15 @@ Instrumentation, not trauma, is the commonest cause of oesophageal perforation, 
 # a heap of pierced sofa slides in a repair yard -> oesophageal perforations
 # ANSWER: most of them pierced by brass periscopes still stuck in them, a sign painted 50 with an arrow pointing up -> instruments cause more than half
 # a few pierced by a fish bone or cracked by a fall, a smaller pile -> other causes are fewer
+# the slides pierced near their top, below a tight ring, their cooking-pot ends untouched -> in a normal oesophagus the commonest site is Killian's triangle, not the GE junction (B is wrong; stomach = cooking pot, audited)
 title: Instruments cause more than half of all oesophageal perforations
 titleAr: الأدوات تسبّب أكثر من نصف حالات انثقاب المريء
 tags: thoracic/oesophagus d:pathology q:numbers l:2
 palette: brass, sofa pink and repair-yard grey
 words: 50
-keywords: oesophageal perforations -> a repair yard with pierced long pink sofa slides; instrumentation over 50 percent -> the bigger heap of slides each pierced by a brass periscope still stuck in it, under a sign painted 50 with an arrow pointing up; other causes -> a smaller heap pierced by fish bones or cracked by falls
+keywords: oesophageal perforations -> a repair yard with pierced long pink sofa slides; endoscopy instrumentation over 50 percent -> the bigger heap of slides each pierced by a brass periscope still stuck in it, under a sign painted 50 with an arrow pointing up; other causes -> a smaller heap pierced by fish bones or cracked by falls; stomach (the gastro-oesophageal junction is not the usual site) -> the copper cooking pots at the lower ends of the slides, untouched, the periscopes piercing the slides near their TOP instead
 must: the periscope heap is clearly BIGGER than the other heap
-scene: A repair yard in Water 7, grey sky. CENTRE, dominant and brightest: a big heap of long pink sofa slides, each pierced by a brass periscope still stuck in it, under a wooden sign painted 50 with a big arrow pointing up. RIGHT: a much smaller heap of slides pierced by fish bones or cracked by falls. Franky, the blue-haired cyborg shipwright, pulls one periscope out, shaking his head.
+scene: A repair yard in Water 7, grey sky. CENTRE, dominant and brightest: a big heap of long pink sofa slides, each running down into a little copper cooking pot and each pierced near its TOP, just below a tight ring, by a brass periscope still stuck in it, the pot ends untouched, under a wooden sign painted 50 with a big arrow pointing up. RIGHT: a much smaller heap of slides pierced by fish bones or cracked by falls. Franky, the blue-haired cyborg shipwright, pulls one periscope out, shaking his head.
 story:
 في ساحة إصلاح في مدينة الماء، تحت سماء رماديّة، تكدّست منزلقات ورديّة مثقوبة.
 وكانت الكومة الكبرى كلّها مثقوبةً بمناظير نحاسيّة ما زالت عالقةً فيها.
@@ -70,13 +71,14 @@ Rigid endoscopy carries a higher risk of perforation than flexible endoscopy.
 # an hourglass on the wall, sand nearly run out -> time
 # air bubbles in the cabin while the hourglass is still full -> air (pneumomediastinum) comes early
 # ANSWER: a puddle of water spreading over the cabin floor only when the hourglass is nearly empty -> pleural effusion is late
+# a grey cat slicing a loaf whose slices show the early bubbles -> imaging (CT) shows air early; the effusion comes late (CT = cat slicing a loaf, audited)
 title: In oesophageal perforation, a pleural effusion is a late finding
 titleAr: في انثقاب المريء، الانصباب الجنبي علامة متأخّرة
 tags: thoracic/oesophagus d:diagnosis q:recall l:2
 palette: hourglass sand, bubble white and puddle blue
-keywords: oesophageal perforation -> a torn long pink sofa slide leaking into a chest cabin; early air -> air bubbles floating in the cabin beside an hourglass that is still full; late pleural effusion -> a puddle of water spreading over the cabin floor beside a second hourglass that has almost run out
+keywords: oesophageal perforation -> a torn long pink sofa slide leaking into a chest cabin; early air -> air bubbles floating in the cabin beside an hourglass that is still full; late pleural effusion -> a puddle of water spreading over the cabin floor beside a second hourglass that has almost run out; CT scan -> a grey cat on a shelf slicing a loaf whose slices already show the bubbles beside the full hourglass
 must: the puddle appears with the hourglass that has almost RUN OUT; bubbles with the full one
-scene: A chest cabin of a pirate ship, a long pink sofa slide running down through it with a tear. LEFT: beside an hourglass that is still full of sand, air bubbles float up from the tear. CENTRE-RIGHT, dominant and brightest: beside a second hourglass whose sand has almost run out, a wide puddle of water spreads across the cabin floor, reaching the walls. Tony Tony Chopper, the little reindeer doctor, stands in the puddle, pointing at the empty hourglass.
+scene: A chest cabin of a pirate ship, a long pink sofa slide running down through it with a tear. LEFT: beside an hourglass that is still full of sand, air bubbles float up from the tear. CENTRE-RIGHT, dominant and brightest: beside a second hourglass whose sand has almost run out, a wide puddle of water spreads across the cabin floor, reaching the walls. Tony Tony Chopper, the little reindeer doctor, stands in the puddle, pointing at the empty hourglass. On a shelf, a grey cat slices a loaf whose thin slices already show the bubbles.
 story:
 في قمرة صدر على سفينة قراصنة، نزل منزلق ورديّ طويل وفيه شقّ.
 وعلى اليسار ساعة رمليّة ما زالت ممتلئة.
@@ -106,7 +108,7 @@ title: Approach an oesophageal perforation from the side of pleural contaminatio
 titleAr: يُقارَب انثقاب المريء من جهة تلوّث الجنبة
 tags: thoracic/oesophagus d:technique q:recall l:2
 palette: muddy brown water, treasure gold and clean blue
-keywords: oesophageal perforation -> a torn long pink sofa slide inside a big treasure chest; pleural contamination -> dirty brown water spilling into one side of the chest only; thoracotomy on the contaminated side -> Franky flinging open the side lid of the chest on that SAME side where the dirty water lies; clean side -> the other side lid kept shut, its water clean
+keywords: oesophageal perforation -> a torn long pink sofa slide inside a big treasure chest; contaminated pleural effusion on one side -> a dirty brown puddle of water spilling into one side of the chest only; thoracotomy on the contaminated side -> Franky flinging open the side lid of the chest on that SAME side where the dirty water lies; clean side -> the other side lid kept shut, its water clean
 must: Franky opens the lid on the SAME side as the dirty water
 scene: A big golden treasure chest seen from the front, its insides visible through glass. A long pink sofa slide runs down its middle with a tear, and dirty brown water spills out into the right half of the chest only, while the left half stays clean and blue. CENTRE-RIGHT, dominant and brightest: Franky, the blue-haired cyborg shipwright, flings open the side lid of the chest on the dirty side and reaches in, while the clean side's lid stays shut. Zoro holds a lantern up for him.
 story:
@@ -138,7 +140,7 @@ title: Perforation in achalasia: two-layer repair, myotomy on the opposite side,
 titleAr: الانثقاب مع الأكالازيا: إصلاح بطبقتين وبضع عضلي في الجهة المقابلة وتثنية جزئية
 tags: thoracic/oesophagus d:technique q:recall l:3
 palette: chalice gold, stitch black and scarf red
-keywords: achalasia with perforation -> a golden chalice jammed in the drawstring at the foot of a long pink sofa slide, with a tear on one side above it; two-layer closure -> Franky stitching the tear in two layers, inner then outer; myotomy on the opposite side -> Zoro slitting the muscle ring on the OPPOSITE side down past the chalice, which falls free into the pot; partial fundoplication -> a red scarf wrapped only half way round the foot of the slide
+keywords: achalasia with perforation -> a golden chalice jammed in the drawstring at the foot of a long pink sofa slide, with a tear on one side above it; two-layer closure -> Franky stitching the tear in two layers, inner then outer; myotomy on the opposite side -> Zoro slitting the muscle ring on the OPPOSITE side down past the chalice, which falls free into the pot; partial fundoplication -> a red scarf wrapped only half way round the foot of the slide; oesophagus -> the long pink sofa slide running down to the copper cooking pot
 must: Zoro's slit is on the OPPOSITE side from the stitched tear; the scarf goes only HALF way round
 scene: The galley of the Thousand Sunny, cut open. A long pink sofa slide runs down to a copper cooking pot, and a golden chalice is jammed in the drawstring at its foot. CENTRE, dominant and brightest: on the left side of the slide Franky, the blue-haired cyborg shipwright, stitches a tear shut in two neat layers, while on the right side Roronoa Zoro slits the muscle ring straight down past the chalice, which falls free into the pot. Sanji wraps a red scarf only half way round the foot of the slide.
 story:
@@ -169,7 +171,7 @@ title: Obesity is the factor least associated with oesophageal squamous cell car
 titleAr: السمنة أقلّ العوامل ارتباطًا بسرطان المريء شائك الخلايا
 tags: thoracic/oesophagus d:pathology q:recall l:2 x:trap
 palette: crab red scales, bottle green and pickle brown
-keywords: oesophageal squamous cell carcinoma -> a red crab covered in scales clamped in a long pink sofa slide; alcohol -> a bottle of rum poured over the crab, which grows; nitrosamines -> smoke from a jar of pickled fish puffed at it; achalasia -> a golden chalice jammed below it; obesity -> a jolly fat man sitting beside it eating, the crab ignoring him
+keywords: oesophageal squamous cell carcinoma -> a red crab covered in scales clamped in a long pink sofa slide; alcohol -> a bottle of rum poured over the crab, which grows; nitrosamines -> smoke from a jar of pickled fish puffed at it; achalasia -> a golden chalice jammed below it; obesity -> a jolly fat man sitting beside it eating, the crab ignoring him; oesophagus -> a long pink sofa slide running down the wall to a copper pot
 must: the rum, the pickle smoke and the chalice make the crab GROW; the fat man does not
 scene: A tavern kitchen at night. A long pink sofa slide runs down the wall to a copper pot, a golden chalice jammed at its foot, and a red crab covered in scales clamps its wall. LEFT: a pirate pours a bottle of rum over the crab, and a jar of pickled fish puffs brown smoke at it; the crab swells. CENTRE-RIGHT, dominant and brightest: a jolly fat man sits beside the slide happily eating a huge meal, and the scaly crab turns its back on him, not growing at all. Sanji watches, arms crossed.
 story:
@@ -199,7 +201,7 @@ title: Endoscopic ultrasound is the best test for the T stage of oesophageal can
 titleAr: الأمواج فوق الصوتية بالمنظار أفضل فحص لعمق غزو سرطان المريء
 tags: thoracic/oesophagus d:diagnosis q:recall l:1
 palette: five layered colours, sound-ring teal and crab red
-keywords: depth of invasion -> the wall of a long pink sofa slide drawn as five coloured layers, a red crab's claws reaching into them; endoscopic ultrasound -> a periscope down the slide with a bat at its tip, its sound rings measuring which layer the claws reach; CT -> a cat slicing a loaf outside, puzzled, unable to tell the thin layers apart
+keywords: depth of invasion of oesophageal cancer -> the wall of a long pink sofa slide drawn as five coloured layers, a red crab's claws reaching into them; endoscopic ultrasound -> a periscope down the slide with a bat at its tip, its sound rings measuring which layer the claws reach; CT -> a cat slicing a loaf outside, puzzled, unable to tell the thin layers apart
 must: the wall shows FIVE clearly coloured layers; the bat's rings mark how deep the claws go
 scene: A cross-section of a long pink sofa slide, enormous, its wall drawn as five clearly coloured layers like a cake, a red crab's claws reaching into the third layer. CENTRE, dominant and brightest: a brass periscope runs down inside the slide, and a bat at its tip sends glowing rings of sound that stop exactly at the claws' tips, marking the layer. RIGHT, outside: a grey cat slicing a loaf scratches its head, unable to tell the thin layers apart. Robin takes notes.
 story:
@@ -230,7 +232,7 @@ title: Neoadjuvant chemoradiation: most randomized trials of the book's era foun
 titleAr: العلاج الكيميائي الشعاعي قبل الجراحة: معظم الدراسات العشوائية في زمن الكتاب لم تجد فرقًا في البقيا
 tags: thoracic/oesophagus d:evidence q:recall l:3
 palette: ray violet, potion green and hourglass sand
-keywords: neoadjuvant chemoradiation -> an hourglass wrapped in violet rays and a green potion bottle before it reaches Zoro's sword; surgery alone -> a second hourglass going straight to the sword; no survival difference -> both hourglasses running out at exactly the same moment; aortic invasion -> a crab gripping an orca balloon, not shrunk by the rays
+keywords: neoadjuvant chemoradiation -> an hourglass wrapped in violet rays and a green potion bottle before it reaches Zoro's sword; surgery alone -> a second hourglass going straight to the sword; no survival difference -> both hourglasses running out at exactly the same moment; aortic invasion -> a crab gripping an orca balloon, not shrunk by the rays; radiotherapy -> the violet rays wrapped round the first hourglass
 must: both hourglasses EMPTY at the same moment
 scene: The infirmary of the Thousand Sunny. LEFT: an hourglass wrapped in violet rays and a green potion bottle stands before Zoro's sword; RIGHT: a second hourglass goes straight to the sword. CENTRE, dominant and brightest: the last grain of sand falls in both hourglasses at exactly the same moment, and Tony Tony Chopper, the little reindeer doctor, looks from one to the other in surprise. BACKGROUND: a red crab grips the arched back of an orca balloon, the violet rays bouncing off it.
 story:
@@ -263,7 +265,7 @@ title: Adenocarcinoma can arise even in short-segment Barrett's oesophagus
 titleAr: قد ينشأ السرطان الغدّي حتى في مريء باريت قصير القطعة
 tags: thoracic/oesophagus d:pathology q:recall l:2
 palette: barrel oak, acid green and crab red
-keywords: short-segment Barrett's oesophagus -> only a short band of wooden barrel staves at the very bottom of a long pink sofa slide; adenocarcinoma -> a red crab sprouting from that short band; reflux -> green acid soup splashing up from the copper cooking pot onto it
+keywords: short-segment Barrett's oesophagus -> only a short band of wooden barrel staves at the very bottom of a long pink sofa slide; adenocarcinoma, a cancer -> a red crab sprouting from that short band; reflux -> green acid soup splashing up from the copper cooking pot onto it
 must: the band of staves is SHORT, and the crab grows out of it
 scene: The galley of the Thousand Sunny, cut open. A long pink sofa slide runs down into a copper cooking pot; only a short band at its very bottom is lined with wooden barrel staves, and green acid soup splashes up onto them from the pot. CENTRE, dominant and brightest: a red crab sprouts right out of that short band of staves, waving its claws. Nami, the orange-haired navigator, points at it in shock.
 story:
@@ -296,7 +298,7 @@ titleAr: استئصال المريء عبر الفتحة الحجابية شاف
 tags: thoracic/oesophagus d:technique q:numbers l:3
 palette: deck brown, copper and vine green
 words: 20
-keywords: transhiatal oesophagectomy -> a long pink sofa slide pulled out through the hole in the deck from below and from the neck above, the chest cabin never opened; gastric conduit -> the copper cooking pot pulled up and stretched into a long tube, fed by a green vine on its right side; curative in 20 percent -> a flag painted 20 above one cured, smiling sailor
+keywords: transhiatal oesophagectomy -> a long pink sofa slide pulled out through the hole in the deck from below and from the neck above, the chest cabin never opened; gastric conduit -> the copper cooking pot pulled up and stretched into a long tube, fed by a green vine on its right side; curative in 20 percent -> a flag painted 20 above one cured, smiling sailor; oesophagus -> the long pink sofa slide pulled out from below and from above; diaphragm -> the deck between the chest cabin and the hold, with the hole the slide is pulled through
 must: the chest cabin stays CLOSED; the flag reads 20
 scene: A pirate ship cut open, three floors. Franky pulls a long pink sofa slide out through a hole in the deck from below, while Zoro draws it up through the neck from above; the chest cabin between them stays closed. The copper cooking pot is being pulled up and stretched into a long tube, fed by a green vine on its right side. CENTRE, dominant and brightest: a flag painted 20 waves above one cured sailor, who stands smiling with his arms raised.
 story:

@@ -1,0 +1,315 @@
+book: johns-hopkins-2016
+# Lessons 261-270 (book 53.1-54.5: stem cell therapy for heart failure, minimally invasive cardiac surgery).
+# Written 2026-11-22, night. Each story: a hook, a wrong try that fails, the answer acting, a payoff line that names
+# the symbol, and a lead-in that says who speaks the quotation and why it fits.
+# New recurring symbol: stem cells = seedlings on long stems planted into the scar (content/symbols.json, stem-cells).
+# OCR misprints in 261, 263, 268 and 269 are fixed by the book's 'typos' map (content/books/johns-hopkins-2016.json).
+# Quotations added 2026-11-22 (the owner left the choice to the agent: "make anything strong and consistent"):
+# a One Piece line (at most three uses, 20 lessons apart) or a classical Arabic line read out by Robin; see ../quote-bank.md.
+
+== 261
+# book 53.1: Americans estimated to have congestive heart failure -> C, 6,000,000.
+# ANSWER: on Nami's map of the United States, the jam of yellow taxis curls into one giant figure 6, a sign 6,000,000 (audited traffic jam)
+# a few taxis in a side street (100,000 / 500,000: too few); taxis over the whole map (10 or 50 million: too many)
+title: About 6 million Americans have congestive heart failure
+titleAr: نحو ستّة ملايين أمريكيّ مصابون بقصور القلب الاحتقانيّ
+tags: cardiac/heart-failure d:pathology q:numbers l:2
+palette: chart-room parchment, taxi yellow and ink blue
+words: 6,000,000
+keywords: congestive heart failure -> a traffic jam of yellow taxis gridlocked bumper to bumper; six million Americans -> on Nami's big map of the United States, the jam of taxis curls into one giant figure 6, a sign reading 6,000,000 beside it; too few -> a little jam of a few taxis in one side street; too many -> Usopp spreading his arms over the whole map; ischaemic heart disease -> a green crown clogged with black tar, feeding taxis into the jam; hypertension -> a big round pressure gauge, its needle in the red, feeding taxis into the jam
+must: the jam of taxis forms one giant figure 6 on the map of the United States; the sign reads 6,000,000
+scene: Nami's chart room aboard the Thousand Sunny, warm lamplight on parchment. CENTRE, dominant and brightest: a huge map of the United States spread on the chart table, and across it a traffic jam of yellow taxis gridlocked bumper to bumper, curling into one giant figure 6; a sign beside it reading 6,000,000. Nami, the orange-haired navigator, leaning over the map with her pen, her eyes shining like gold coins. LEFT, small and dim: a little jam of a few taxis in one side street. RIGHT: Usopp spreading his arms over the whole map. Chopper on a stool, counting on his hooves. Beside the map, a green crown clogged with black tar feeds taxis into the jam. Beside it, a big round pressure gauge with its needle in the red feeds more taxis in.
+story:
+في غرفة الخرائط على الثاوزند صني، فردت نامي على الطاولة خريطةً هائلةً لأمريكا، تزحف عليها زحمة من سيّارات الأجرة الصفراء.
+ومن طرف الخريطة، كان تاج أخضر سدّه القار الأسود، ومقياس ضغط إبرته في الأحمر، يدفعان إلى الزحمة سيّارات جديدة.
+«على كلّ سيّارة عالقة بيري واحد! قولوا لي فقط: كم سيّارةً هناك؟» قالت نامي، وعيناها تلمعان كقطعتين من الذهب.
+«خمسون مليونًا! الزحمة تغطّي الخريطة كلّها، من البحر إلى البحر!» صاح أوسوب، وفتح ذراعيه فوق الخريطة.
+لكنّ نامي تتبّعت الزحمة بقلمها، فإذا هي لا تغطّي الخريطة، بل تلتفّ بين المدن في طريق واحد طويل.
+«إذن هي قليلة، مثل هذا الشارع الجانبيّ الصغير!» قال تشوبر، وأشار إلى سيّارات قليلة في زقاق.
+لكنّ الزقاق لم يكن إلّا طرفًا صغيرًا من الطريق الطويل.
+فلمّا أتمّت نامي خطّها ورفعت القلم، إذا الزحمة قد رسمت على أمريكا رقمًا واحدًا هائلًا: ستّة.
+«لا الخريطة كلّها، ولا زقاق صغير؛ ستّة عملاقة: ستّة ملايين سيّارة عالقة!» قال تشوبر.
+«ستّة ملايين سيّارة... ستّة ملايين بيري!» صاحت نامي، واحتضنت الخريطة.
+ثمّ رفعت رأسها، وعيناها ما زالتا تلمعان، وقالت حلمها القديم:
+quote: «هدفي أن أجمع مئة مليون بيري، مهما كان ذلك صعبًا، ومهما طال الزمن!»
+source: نامي
+explanation:
+About 6,000,000 Americans are estimated to have congestive heart failure: C.
+In the picture, the jam of yellow taxis curls into one giant 6 on Nami's map; a side street of a few taxis is far too few, the whole map far too many.
+About half a million new cases are diagnosed each year, and heart failure is the leading cause of hospital admission in people over 65.
+Only a few thousand hearts are transplanted each year, which is why mechanical support and cell therapy are being explored.
+Memory hook: the taxi jam draws a giant 6 across the map: six million.
+
+== 262
+# book 53.2: cell lines used in clinical trials for heart disease -> E, all of the above.
+# ANSWER: all four trays of seedlings planted side by side in the same scar (audited seedling: new symbol stem-cells)
+# messy heap = MESS-enchymal stem cells; cracked-open bone = bone marrow cells; seedlings growing into tiny pipes = endothelial progenitor cells; tiny skeletons = SKELETAL myoblasts
+title: Mesenchymal cells, bone marrow cells, progenitor cells and skeletal myoblasts have all been tried in heart trials
+titleAr: الخلايا الجذعيّة المتوسّطة وخلايا نقي العظم والخلايا السلفيّة والأرومات العضليّة الهيكليّة جُرّبت كلّها في دراسات القلب
+tags: cardiac/heart-failure d:evidence q:recall l:2
+palette: jungle green, bone white and seedling lime
+keywords: stem cells -> a gardener's tray of little green seedlings on long stems, planted into the grey scar of the red engine room's wall; mesenchymal stem cells -> seedlings sprouting from a messy heap; bone marrow cells -> seedlings scooped out of the red marrow of a cracked-open white bone; endothelial progenitor cells -> seedlings sprouting into tiny new pipes; skeletal myoblasts -> seedlings shaped like tiny skeletons; all of the above -> all four trays planted side by side in the same scar; myocardial infarction -> a stag beside the hotel, brought down by an arrow, the grey scar its mark; ejection fraction -> a nightclub bouncer at the red engine room's door, his counter low, waiting for the shoots to help
+must: all four trays are planted side by side in the scar, none left out
+scene: The jungle of the Boin Archipelago, where every plant grows giant. CENTRE, dominant and brightest: a HART Hotel whose red engine room's wall has a big grey scar, and four trays of little green seedlings on long stems planted side by side in it: seedlings sprouting from a messy heap; seedlings scooped out of the red marrow of a cracked-open white bone; seedlings sprouting into tiny new pipes; seedlings shaped like tiny skeletons. A green shoot rising from every tray. Beside the hotel lies a stag brought down by an arrow, the grey scar its mark. At the red engine room's door a nightclub bouncer waits, his counter low. LEFT: Usopp holding the bone tray high, a shoot from the skeleton tray tickling his long nose. Chopper planting with a little trowel.
+story:
+في غابة أرخبيل بوين، حيث ينمو كلّ نبات عملاقًا، ركع تشوبر أمام فندق في جدار غرفة محرّكه الحمراء ندبة رماديّة كبيرة.
+وبجانب الفندق أيّل صرعه سهم قديم، وعند باب الغرفة الحمراء بوّاب ملهًى عدّاده منخفض، ينتظر أن تعينه الشتلات.
+وكان قد جاء بأربع صوان من الشتلات الخضراء على سيقان طويلة، ليغرسها في الندبة فتنبت فيها عضلة جديدة.
+شتلات تنبت من كومة فوضويّة، وشتلات غرفت من النقي الأحمر في عظمة بيضاء مشقوقة، وشتلات تنمو أنابيب صغيرة، وشتلات على هيئة هياكل عظميّة صغيرة.
+«أنا أوسوب العظيم، سيّد البذور في هذا الأرخبيل! شتلات العظمة وحدها تصلح؛ ارموا الباقي كلّه!» قال أوسوب، ورفع صينيّة العظمة عاليًا.
+لكنّ تشوبر كان قد غرس الصواني الأربع كلّها، فارتفعت من كلّ منها نبتة خضراء في الندبة.
+ومدّت نبتة من صينيّة الهياكل الصغيرة ورقةً طويلة، فدغدغت أنف أوسوب الطويل حتّى عطس عطسةً هزّت الغابة.
+«الكومة الفوضويّة، والعظمة المشقوقة، والأنابيب الصغيرة، والهياكل الصغيرة: كلّها غرست في الندوب من قبل، لا واحدة فقط!» قال تشوبر.
+فمسح أوسوب أنفه، ونظر إلى النباتات العملاقة حوله، وصاح:
+quote: «عندي مرض لا أستطيع دخول هذه الجزيرة!»
+source: أوسوب
+explanation:
+Mesenchymal stem cells, bone marrow cells (BMCs), endothelial progenitor cells (EPCs) and skeletal myoblasts have all been used in clinical trials of cell therapy for heart disease: all of the above.
+Skeletal myoblasts were tested in the MAGIC trial, bone marrow cells in BOOST and REPAIR-AMI, and mesenchymal stem cells in POSEIDON, among others.
+In the picture, all four trays grow in the same scar: the messy heap (MESS-enchymal), the cracked bone (marrow), the seedlings that grow into tiny pipes (endothelial) and the tiny skeletons (skeletal myoblasts).
+The benefits so far have been modest, and the cells seem to work mostly through the signals they release rather than by becoming new heart muscle.
+Memory hook: all four trays have been planted in a scar.
+
+== 263
+# book 53.3: REPAIR-AMI, the greatest gain in LVEF from bone marrow cells -> C, baseline LVEF 30 percent, cells given 6 days after infarction.
+# ANSWER: seedlings from the cracked bone planted on day 6, when the scorched ground has cooled, beside the weak bouncer whose counter shows 30 (audited stag, bouncer, seedling)
+# planted in the first hours or on day 1: wilting on smoking ground (A, B, D wrong); the strong bouncer at 55 hardly changes (D, E wrong)
+title: REPAIR-AMI: bone marrow cells helped most with a low ejection fraction and when given after day 4
+titleAr: دراسة ريبير: أفادت خلايا نقي العظم أكثر مع كسر قذف منخفض وحين أُعطيت بعد اليوم الرابع
+tags: cardiac/heart-failure d:evidence q:vignette l:3
+palette: volcanic ash grey, calendar white and seedling green
+words: 6, 30, 55
+keywords: acute myocardial infarction -> the stag (hart) over the hotel door freshly brought down by an arrow, the wall where it fell scorched; bone marrow stem cells -> seedlings scooped out of the red marrow of a cracked-open white bone; low baseline LVEF -> a weak bouncer at the engine room's door, his counter showing only 30; normal baseline LVEF -> a strong bouncer at the next hotel, his counter showing 55; cells given 6 days after infarction -> seedlings planted on the sixth day after the stag fell, by the calendar, when the scorched ground has cooled; cells given within hours -> seedlings planted on still-smoking ground, wilting
+must: the seedlings thrive only by the weak bouncer (30), planted on day 6; the early ones wilt on smoking ground; the 55 hotel hardly changes
+scene: Little Garden, a prehistoric jungle under a smoking volcano. CENTRE, dominant and brightest: a HART Hotel whose stag over the door has been brought down by an arrow, the wall where it fell scorched but cooled; Chopper planting seedlings scooped out of the red marrow of a cracked-open white bone, a big calendar beside him showing 6; at the engine room's door a weak bouncer, his counter showing 30, now throwing guests out with new strength. LEFT, dimmer: Usopp planting seedlings on still-smoking ground, the seedlings wilting. RIGHT, dimmer: a second hotel with a strong bouncer whose counter shows 55, hardly changed.
+story:
+في ليتل غاردن، تحت بركان يدخّن، أسقط سهم الأيّل المعلّق فوق باب فندق، فاحترق الجدار حيث سقط.
+وعند باب غرفة المحرّك الحمراء، ضعف البوّاب، فلم يعد عدّاده يظهر إلّا ثلاثين.
+«اغرسوا شتلات العظمة الآن، الآن والجدار ما زال يدخّن!» صاح أوسوب، وغرسها في الساعات الأولى.
+لكنّ الأرض كانت ما تزال حارّة، فذبلت الشتلات واحدةً بعد أخرى.
+«إذن نغرسها في الفندق المجاور؛ بوّابه قويّ، عند خمسة وخمسين!» قال أوسوب.
+فنبتت الشتلات هناك، لكنّ البوّاب القويّ لم يكد يتغيّر؛ فقد كان يؤدّي عمله من قبل.
+أمّا تشوبر، فانتظر حتّى أظهر التقويم اليوم السادس بعد سقوط الأيّل، وقد بردت الأرض، فغرس شتلات العظمة عند البوّاب الضعيف.
+فضربت الشتلات جذورها، وأخذ البوّاب الضعيف يطرد الضيوف بقوّة جديدة.
+«في اليوم السادس، وعند أضعف بوّاب: هناك تنفع الشتلات أكثر ما تنفع!» قال تشوبر.
+فنظر تشوبر إلى أوسوب العجول، وتذكّر ما قاله ميهوك لزورو يوم وعده أن ينتظره:
+quote: «اعرف العالم، واعرف نفسك، وكن قويًّا يا رورونوا! سأنتظرك في القمّة مهما طال الزمن.»
+source: دراكول ميهوك
+explanation:
+In REPAIR-AMI the greatest gain in LVEF came in patients with a low baseline ejection fraction who received the cells after day 4: baseline LVEF 30 percent, cells given 6 days after infarction.
+Bone marrow cells were infused into the infarct artery 3 to 7 days after successful reperfusion; at 4 months the ejection fraction had risen by about 2.5 points more than with placebo.
+The benefit was concentrated in patients whose ejection fraction was at or below the median, about 49 percent, and in those treated more than 4 days after reperfusion.
+In the picture, the weak bouncer at 30 gains the most when the bone seedlings are planted on day 6; seedlings planted on smoking ground wilt, and the strong bouncer at 55 hardly changes.
+Memory hook: plant on day 6, beside the weakest bouncer.
+
+== 264
+# book 53.4: cells linked to more arrhythmias in clinical study -> C, skeletal myoblasts.
+# ANSWER: seedlings shaped like tiny skeletons dancing their own jig out of step with the hotel's drum, holding no one's hand, a pirate shouting ARRR among them (audited seedling, pirate)
+# the messy heap, the cracked bone, the hotel's own window box and the cradle on the high shelf grow quietly (A, B, D, E wrong)
+title: Skeletal myoblasts increased arrhythmias in clinical studies
+titleAr: الأرومات العضليّة الهيكليّة زادت اضطرابات النظم في الدراسات السريريّة
+tags: cardiac/heart-failure d:complications q:recall l:2
+palette: Drum Island snow white, castle pink and pirate red
+keywords: stem cells -> trays of little green seedlings on long stems planted into the grey scar of the red engine room's wall; skeletal myoblasts -> seedlings shaped like tiny skeletons, grown from a strongman's thigh muscle; arrhythmias -> the tiny skeletons dancing their own wild jig out of step with the hotel's drum, a pirate shouting ARRR dancing among them; no electrical coupling -> the tiny skeletons holding no one's hand, while the hotel's own dancers hold hands in a ring; mesenchymal stem cells -> seedlings sprouting from a messy heap, growing quietly; bone marrow cells -> seedlings scooped out of a cracked-open white bone, growing quietly; cardiac-derived stem cells -> seedlings grown in the hotel's own window box, growing quietly; embryonic stem cells -> a tray of seedlings in a baby's cradle, kept on a high shelf; ventricular tachycardia -> a car's tachometer bolted to the engine room, its needle slammed deep into the red as the skeletons dance
+must: only the tiny skeleton seedlings dance out of step, holding no one's hand; every other tray grows quietly
+scene: Dr Kureha's castle on snowy Drum Island. CENTRE, dominant and brightest: in the grey scar of a HART Hotel's red engine room wall, seedlings shaped like tiny skeletons dancing their own wild jig out of step with the hotel's drum, holding no one's hand, while the hotel's own dancers hold hands in a ring; a pirate shouting ARRR dancing among them. AROUND, dimmer, growing quietly: seedlings sprouting from a messy heap; seedlings scooped out of a cracked-open white bone; seedlings in the hotel's own window box; and on a high shelf a tray of seedlings in a baby's cradle. A tachometer bolted to the engine room has its needle slammed deep into the red. LEFT: Usopp chasing the dancing skeletons. RIGHT: Dr Kureha, the very old, tall, thin woman doctor with long white hair and sunglasses, laughing on her chair. Chopper.
+story:
+في قلعة الدكتورة كوريها على جزيرة درام المثلجة، غرس تشوبر وأوسوب صواني من الشتلات في ندبة رماديّة بغرفة محرّك فندق.
+وكانت أحبّها إلى أوسوب صينيّة من شتلات على هيئة هياكل عظميّة صغيرة، أخذت من عضلة فخذ رجل قويّ.
+لكن ما لبث طبل الفندق أن أخذ يتعثّر، دقّةً بعد دقّة.
+«إنّها شتلات الكومة الفوضويّة! وشتلات العظمة! اقلعوها!» صاح أوسوب، واقتلع صينيّتين من الندبة.
+لكنّ الطبل ظلّ يتعثّر؛ فالكومة والعظمة كانتا تنموان بهدوء طوال الوقت.
+ثمّ سمعت قعقعة عظام صغيرة: فإذا هياكل أوسوب الصغيرة ترقص رقصةً مجنونةً على طبلها هي، لا تمسك يد أحد، وقرصان يقفز بينها صائحًا: آررر!
+«الهياكل الصغيرة لا تمسك أيدي راقصي الفندق؛ ترقص على طبلها وحدها، والقرصان يرقص معها!» قال تشوبر.
+وقفزت إبرة عدّاد الدوران على جدار الغرفة إلى آخر الأحمر.
+فأخذ أوسوب يجري خلف الهياكل الصغيرة في أرجاء الغرفة، يحاول أن يمسكها واحدًا واحدًا.
+وكانت كوريها تراقبه من كرسيّها، فضحكت ضحكتها المشهورة، وسألته وهو يلهث:
+quote: «هي هي هي! هل أنت سعيد؟»
+source: الدكتورة كوريها
+explanation:
+Skeletal myoblasts are the cells that increased the rate of arrhythmias in clinical study: C.
+Myoblasts from the patient's own thigh muscle survive well in scar, but they do not form gap junctions with the heart's own cells, so they contract out of step with them.
+These islands of uncoupled cells favour re-entry; in early studies and in the MAGIC trial ventricular arrhythmias were more frequent, and many patients were given defibrillators.
+In the picture, the tiny skeletons dance their own jig holding no one's hand, and the pirate joins them; the messy heap, the bone and the window box grow quietly.
+Memory hook: the skeleton seedlings dance to their own drum.
+
+== 265
+# book 53.5: delivery route used most often in clinical trials of cardiac cell therapy -> A, intracoronary infusion.
+# ANSWER: a big watering can pouring seedlings straight down the slides of the Liberty crown, a small balloon pausing the flow (audited crown, seedling)
+# a needle through the outside of the wall (epicardial), a long needle from inside the room (endocardial), a drip in the arm whose seedlings stick in the dollar sacks (intravenous), pouring backwards from the sink (coronary sinus)
+title: Intracoronary infusion is the route used most often in cardiac stem cell trials
+titleAr: التسريب داخل الشرايين التاجيّة أكثر طرق إيصال الخلايا الجذعيّة استعمالًا في دراسات القلب
+tags: cardiac/heart-failure d:technique q:recall l:2
+palette: lawn green, watering-can copper and crown jade
+keywords: stem cells -> little green seedlings on long stems; intracoronary infusion -> a big copper watering can pouring seedlings straight down into the slides of the Statue of Liberty's green crown, a small balloon in the slide pausing the flow; epicardial injection -> a needle pushing seedlings through the outside of the red engine room's wall; endocardial injection -> a long catheter needle pushing seedlings into the wall from inside the engine room; intravenous infusion -> a drip in a sailor's arm, its seedlings stuck on the way in the sacks of dollar bills; coronary sinus infusion -> seedlings poured backwards up from the sink in the blue lobby's floor; coronary artery -> a big copper watering can pouring seedlings straight down into the slides of the Statue of Liberty's green crown, a small balloon in the slide pausing the flow
+must: the watering can over the green crown is the biggest and brightest; the four other routes are small and dim
+scene: The lawn deck of the Thousand Sunny on a sunny morning. CENTRE, dominant and brightest: Chopper tipping a big copper watering can that pours little green seedlings on long stems straight down into the slides of the Statue of Liberty's green crown on top of a HART Hotel, a small balloon in one slide pausing the flow. AROUND, small and dim: a needle pushing seedlings through the outside of the red engine room's wall; a long catheter needle pushing seedlings into the wall from inside the room; a drip in a sailor's arm whose seedlings get stuck in the sacks of dollar bills; seedlings poured backwards up from a sink in the blue lobby's floor. LEFT: Usopp hanging the drip.
+story:
+على سطح العشب في الثاوزند صني، كان على تشوبر أن يوصل الشتلات إلى ندبة في غرفة المحرّك الحمراء لفندق متعب.
+«سهلة! نعلّق له محلولًا في ذراعه، والشّتلات تجد طريقها وحدها!» قال أوسوب، وعلّق المحلول.
+لكنّ الشتلات علقت في الطريق بين أكياس الدولارات، ولم يصل إلى الفندق منها إلّا القليل.
+وكانت هناك طرق أخرى: إبرة تغرسها من خارج الجدار والصّدر مفتوح، وإبرة طويلة تغرسها من داخل الغرفة.
+أو صبّها إلى الوراء من المغسلة ذات التاج في أرض الردهة الزرقاء؛ وقليلًا ما يفعل ذلك.
+لكنّ تشوبر اختار الطريق الأسهل والأكثر استعمالًا: رفع مرشّةً نحاسيّةً كبيرة، وصبّ الشتلات مباشرةً في مزالق التاج الأخضر فوق الفندق.
+وأوقف الجريان لحظات ببالون صغير في المزلقة، لتتشبّث الشتلات بجدرانها وتستقرّ حيث يحتاج إليها.
+«المرشّة فوق مزالق التاج: الطريق الّذي يسلك إلى الندبة أكثر من غيره!» قال تشوبر.
+فنظر تشوبر إلى الشتلات تجري في المزالق كالتّيّار، وتذكّر كلمة ملك القراصنة:
+quote: «الإرث المتوارث، وتيّار العصر، وأحلام الناس... هذه أشياء لا يوقفها أحد.»
+source: غول دي روجر
+explanation:
+Intracoronary infusion is the route used most often in clinical trials of cell delivery to the heart: A.
+Through a balloon catheter in the infarct artery, the cells are infused while the balloon is briefly inflated a few times, so they can stick to the vessel wall and move into the damaged muscle.
+It needs only a standard catheter laboratory, which is why most trials of bone marrow cells after infarction used it.
+Injection into the muscle is the other main route: epicardial, through the open chest during surgery, or endocardial, by a catheter needle from inside the ventricle.
+Intravenous infusion loses most cells in the lungs, and retrograde infusion through the coronary sinus has rarely been used.
+Memory hook: the watering can pours down the crown's slides.
+
+== 266
+# book 54.1: NOT associated with minimally invasive mitral surgery -> A, higher incidence of renal complications.
+# ANSWER: the kidney beans stay plump and red, the washing machine off and dusty (audited kidney bean)
+# associated: a crack in the sink where a thin tube was pushed in (coronary sinus injury), a nicked telephone cable (phrenic), a bruised dollar sack (lung trauma), a small bill and an early walk home (reduced cost) (audited sink, telephone cable, dollar, hatch, mitre)
+title: Minimally invasive mitral surgery does not raise renal complications
+titleAr: جراحة التاجيّ طفيفة التوغّل لا تزيد المضاعفات الكلويّة
+tags: cardiac/mitral-tricuspid d:complications q:recall l:2
+palette: Zou forest green, elephant grey and bean red
+keywords: minimally invasive mitral surgery -> a small hatch cut in the right side of the treasure chest, the bishop's mitre repaired through it; coronary sinus injury -> a crack in the sink in the blue lobby's floor, where a thin tube was pushed in; phrenic nerve injury -> a telephone cable beside the hatch, nicked and sparking; lung trauma -> the right sack of dollar bills bruised purple where it was pushed aside; reduced cost -> a small bill in a happy sailor's hand as he walks home early; renal complications -> a pair of big plump red kidney beans, untouched, the washing machine beside them switched off and dusty
+must: the kidney beans stay plump and red and the washing machine stays off; the other four effects are shown round the hatch
+scene: The forest town of Zou, on the back of a giant elephant. CENTRE, dominant and brightest: a pair of big plump red kidney beans, untouched and glowing, and beside them a washing machine switched off and dusty. BEHIND them: a big treasure chest with a small hatch cut in its right side, through which Franky, the blue-haired cyborg shipwright, repairs a bishop's mitre; round the hatch, a crack in a sink in a blue lobby's floor where a thin tube was pushed in; a telephone cable beside the hatch, nicked and sparking; the right sack of dollar bills bruised purple. RIGHT: a happy sailor walking home early with a small bill in his hand. LEFT: Usopp dragging another washing machine. Chopper.
+story:
+على ظهر الفيل العملاق في زو، فتح فرانكي كوّةً صغيرةً في جانب صندوق الكنز الأيمن، ليصلح تاج الأسقف من خلالها.
+فعاد البحّار إلى بيته مبكّرًا، وفي يده فاتورة صغيرة، فابتسم فرانكي.
+لكنّ للكوّة الصغيرة أثمانها: شقّ في المغسلة ذات التاج حيث دفع أنبوب رفيع، وسلك هاتف مخدوش يقدح الشرر قرب الكوّة.
+وكيس الدولارات الأيمن قد صار بنفسجيًّا من الكدمات حيث دفع جانبًا.
+«وحبّتا الفاصولياء أيضًا! الكوّة الصغيرة تجفّفهما؛ هاتوا الغسّالة!» صاح أوسوب، وهو يجرّ غسّالةً ثقيلة.
+لكنّ الحبّتين كانتا ممتلئتين حمراوين، لم يمسّهما شيء؛ والغسّالة واقفة في ركنها يعلوها الغبار.
+«المغسلة والسّلك وكيس الدولارات قد تتأذّى من الكوّة؛ أمّا حبّتا الفاصولياء فلا يزيد أذاهما!» قال تشوبر.
+فرأت نامي أوسوب يلهث تحت الغسّالة الثقيلة، فضربت رأسه وصاحت:
+quote: «أتمزح؟! أنت أسوأهم جميعًا!»
+source: نامي
+explanation:
+A higher incidence of renal complications is not associated with minimally invasive mitral surgery: A.
+In the picture, the kidney beans stay plump and the washing machine stays off, while the troubles gather round the small hatch.
+Coronary sinus injury comes from the catheter passed into the sinus for retrograde cardioplegia, and phrenic nerve injury from work close to the nerve through a small incision.
+Lung trauma follows retraction and single-lung ventilation, and in a few patients unilateral pulmonary oedema after re-expansion.
+Shorter stays and less bleeding and transfusion bring the cost down, and renal function is no worse than after sternotomy.
+Memory hook: the sink, the cable and the dollar sack can suffer through the hatch; the kidney beans do not.
+
+== 267
+# book 54.2: peripheral cannulation required for which incision for minimally invasive aortic valve surgery -> E, none of them.
+# ANSWER: through every small opening of the stern the brass cannons go straight into the orca and the blue lobby; the cannon by the thigh bone is never used (audited stern, mouth, cannon, thigh bone)
+title: Minimally invasive aortic valve surgery: none of these incisions requires peripheral cannulation
+titleAr: جراحة الصمّام الأبهريّ طفيفة التوغّل: لا يحتاج أيّ من هذه الشقوق إلى قُنيّات طرفيّة
+tags: cardiac/aortic-valve d:technique q:recall l:3
+palette: Baratie ocean blue, stern white and cannon brass
+keywords: partial upper sternotomy -> the stern of a ship opened only in its upper part, in a J or an upside-down T; lower half sternotomy -> the stern opened only in its lower half; parasternal incision -> a small door cut just beside the stern's white centre line; minimally invasive aortic valve surgery -> new dentures fitted into the orca balloon's mouth through a small opening; central cannulation -> small brass cannons pushed straight into the orca and the blue lobby through the same opening; peripheral cannulation -> a brass cannon lying unused beside the long white thigh bone, cobwebs on it
+must: through every small opening the cannons go straight into the orca and the lobby; the cannon by the thigh bone is never used
+scene: The floating restaurant Baratie on a blue sea. CENTRE, dominant and brightest: the stern of a ship opened only in its upper part, in the shape of a J; through it Franky fits new dentures into an orca balloon's mouth, while small brass cannons go straight into the orca and into a blue lobby through the same small opening. AROUND, smaller: the same stern opened in an upside-down T, opened only in its lower half, and a small door cut just beside its white centre line, the cannons going straight in through each. RIGHT: a brass cannon lying unused beside a long white thigh bone, cobwebs on it. LEFT: Usopp dragging the heavy cannon toward the thigh bone. Chopper.
+story:
+في مطعم الباراتي العائم، جاء فرانكي ليركّب طقم أسنان جديدًا في فم حوت متعب، من غير أن يفتح مؤخّرة السفينة كلّها.
+ففتح الجزء العلويّ من المؤخّرة وحده، على شكل حرف جي؛ وأعدّ أبوابًا صغيرةً أخرى: حرف تي مقلوبًا، والنّصف السفليّ وحده، وبابًا صغيرًا بجانب الخطّ الأوسط.
+«من باب صغير كهذا لن تدخل المدافع! لا بدّ أن ندخلها من الفخذ هناك!» قال أوسوب، وهو يجرّ مدفعًا نحاسيًّا ثقيلًا نحو عظم الفخذ الأبيض الطويل.
+لكنّ فرانكي دفع المدافع الصغيرة مباشرةً في الحوت وفي الردهة الزرقاء، من الباب الصغير نفسه.
+وفعل مثل ذلك من التي المقلوبة، ومن النصف السفليّ، ومن الباب الّذي بجانب الخطّ الأوسط.
+«من كلّ باب صغير تدخل المدافع مباشرة؛ ومدفع الفخذ لا يحتاجه أيّ منها!» قال تشوبر.
+فجلس أوسوب على مدفعه عند عظم الفخذ عابسًا، والعناكب تنسج عليه خيوطها.
+فمدّ لوفي ذراعه المطّاطيّة من بعيد، وانتزع أوسوب عن مدفعه، وصاح:
+quote: «اصمت! هيّا بنا!»
+source: مونكي دي لوفي
+explanation:
+Peripheral cannulation is not required for any of these incisions: E.
+Through a J or inverted T partial upper sternotomy, a lower half sternotomy or a right parasternal incision, the ascending aorta and the right atrium can be cannulated directly.
+In the picture, the brass cannons go straight into the orca and the lobby through every small opening, and the cannon by the thigh bone is never used.
+Femoral cannulation stays an option when exposure is poor, and it is used more often with a right anterior mini-thoracotomy.
+Memory hook: every small door takes its cannons straight in.
+
+== 268
+# book 54.3: correct about MIDCAB -> D, wound complications occur in nearly 10 percent.
+# ANSWER: ten sailors with a small hatch on the left of the chest, green mould round the hatch on one of them, 10% above (audited lima bean, lad, crown, hatch)
+# the tiny, nearly empty coffin (mortality under 2 percent, A wrong); a pinched vine being re-sewn (graft stenosis and revision not rarer, B and C wrong); the far-off lightning (stroke not more common, E wrong)
+title: MIDCAB: wound complications occur in nearly 10 percent
+titleAr: المجازة التاجيّة المباشرة طفيفة التوغّل: مضاعفات الجرح عند نحو 10 في المئة
+tags: cardiac/coronary d:complications q:numbers l:3
+palette: Orange Town orange, lima green and mould green
+words: 10%
+keywords: MIDCAB -> through a small hatch in the LEFT side of the treasure chest, a green lima bean vine laid onto the lad sliding down the front of the Liberty crown, the hotel still beating; wound complications in nearly 10 percent -> ten sailors in a row, each with a small hatch on the left of his chest, green mould growing round the hatch on one of them, 10% painted above; early mortality -> a tiny coffin, nearly empty; graft stenosis and revision -> a lima bean vine pinched at its tip, being re-sewn; stroke -> a lightning bolt far away; internal mammary artery -> a lima bean vine pinched at its tip
+must: one sailor in ten (Zoro) has green mould round his hatch; the lima bean vine reaches the lad through a small hatch on the left
+scene: Orange Town at sunset. CENTRE, dominant and brightest: ten sailors in a row, each with a small hatch on the left of his chest; on one of them, Roronoa Zoro, the green-haired swordsman with three swords, green mould growing round the hatch, 10% painted above him, Zoro glaring at the mould. BEHIND them: through a small hatch in the left side of a treasure chest, a green lima bean vine laid onto a young lad sliding down the front of the Statue of Liberty's green crown on a beating HART Hotel. AROUND, small and dim: a tiny, nearly empty coffin; a lima bean vine pinched at its tip, being re-sewn; a lightning bolt far away. Usopp. Chopper running with a cleaning cloth.
+story:
+في أورانج تاون، فتحت لعشرة بحّارة كوّة صغيرة في الجانب الأيسر من صدورهم، لتمدّ منها كرمة فول الليما إلى مزلقة الفتى، والفندق يخفق لا يتوقّف.
+فبلغت الكرمة الفتى، وخرج العشرة مبتسمين، وبقي التابوت الصغير في الركن شبه فارغ.
+وعند أحدهم انضغط طرف الكرمة، فأعيدت خياطته؛ فالخياطة من كوّة صغيرة على فندق يخفق ليست سهلة.
+«كوّة صغيرة كهذه لا تجلب همًّا أبدًا! باب صغير، همّ صغير!» قال أوسوب.
+لكن بعد أسبوع، زحف عفن أخضر حول حافّة الكوّة عند واحد من العشرة: زورو!
+«واحد من كلّ عشرة! الكوّة الصغيرة قد ينبت حولها العفن، وزورو هو ذلك الواحد!» قال تشوبر، وجرى إليه بقطعة قماش نظيفة.
+لكنّ زورو لم يتحرّك؛ بل حدّق في العفن على صدره كما يحدّق في عدوّ تجرّأ على مبارزته.
+وقال له ما قاله يومًا في هذه البلدة نفسها، لمبارز راح يضرب جرحه:
+quote: «إن خسرت أمام مثلك بهذه الجروح البسيطة، فأيّ مستقبل ينتظرني؟»
+source: رورونوا زورو
+explanation:
+Wound complications occur in nearly 10 percent of MIDCAB patients: D.
+MIDCAB brings the left internal mammary artery to the LAD through a small left anterior thoracotomy, on the beating heart; the spread ribs bring pain, infection, poor healing and, rarely, lung hernia.
+In the picture, one sailor in ten grows green mould round his small hatch.
+Early mortality is low, under 1 to 2 percent; graft stenosis at angiography and anastomotic revision are not rarer than after standard CABG, as the anastomosis is sewn through a small opening on a moving heart.
+Stroke is not more common after multivessel minimally invasive bypass, which often avoids handling the aorta.
+Memory hook: one small hatch in ten grows mould.
+
+== 269
+# book 54.4: TECAB is associated with -> B, prolonged cross-clamp and CPB times (the book prints "cross-damp").
+# ANSWER: Franky's long thin robot arms through keyholes; the hourglasses by the tongs and by the pump truck run long (audited tongs, roller-pump, keyhole, lima bean, lad)
+# not always CPB (beating-heart TECAB exists, A wrong); conversion well under 20 percent (C wrong); angina freedom comparable (D wrong); a lad hidden under a muscle bridge is hard to find (E wrong)
+title: TECAB: cross-clamp and bypass times are longer
+titleAr: المجازة التاجيّة بالمنظار الكامل: زمنا الملقط والمجازة القلبيّة الرئويّة أطول
+tags: cardiac/coronary d:technique q:recall l:3
+palette: Egghead white, laboratory blue and robot steel
+keywords: TECAB -> Franky's long thin robot arms reaching into the treasure chest through three small keyholes, laying a lima bean vine onto the lad; prolonged cross-clamp time -> the giant X-shaped iron tongs clamped across the orca's front climb, a big hourglass beside them running long; prolonged CPB time -> the roller-pump truck running beside the hotel, its own hourglass running long; intramyocardial LAD -> the lad's slide hidden under a red-brick muscle bridge, the robot arms searching in vain; conversion to open surgery -> the stern of a ship opened down its centre line, small and dim
+must: both hourglasses, by the tongs and by the pump truck, run long; Franky works only through keyholes
+scene: Egghead, the island of the future, inside a gleaming white laboratory. CENTRE, dominant and brightest: Franky, the blue-haired cyborg, his long thin robot arms reaching into a treasure chest through three small keyholes, laying a green lima bean vine onto a young lad sliding down the front of the Statue of Liberty's green crown; beside him giant X-shaped iron tongs clamped across an orca balloon's front climb, and a roller-pump truck running beside the hotel, each with a big hourglass whose sand runs long. AROUND, dimmer: on another hotel the lad's slide hidden under a red-brick muscle bridge, the robot arms searching in vain; a ship's stern opened down its centre line, small. LEFT: Usopp turning one hourglass over again, impatient. Chopper.
+story:
+في إيغهيد، جزيرة المستقبل، لبس فرانكي أطول أذرعه الآليّة، رفيعةً كعيدان الأكل، ليمدّ كرمة فول الليما إلى مزلقة الفتى من غير أن يفتح مؤخّرة السفينة.
+فأدخلها من ثلاثة ثقوب صغيرة كثقوب المفاتيح في جانب صندوق الكنز، وأطبقت الكمّاشة الحديديّة على الحوت، وحملت شاحنة المضخّة عن الفندق عمله.
+«بالأذرع الآليّة سيكون العمل أسرع من أيّ وقت مضى؛ سأحسب لكم الوقت!» قال أوسوب، وقلب ساعةً رمليّةً كبيرةً بجانب الكمّاشة.
+لكنّ الرمل جرى وجرى، فقلب أوسوب الساعة مرّةً أخرى؛ وطالت كذلك الساعة الرمليّة عند شاحنة المضخّة.
+فكلّ عقدة تربط بأذرع طويلة رفيعة من ثقب صغير تأخذ وقتها؛ لكنّ الكرمة ثبتت على الفتى في النهاية.
+وفي الفندق المجاور، حيث اختبأت مزلقة الفتى تحت جسر صغير من الطوب الأحمر، بحثت الأذرع الطويلة وبحثت فلم تجدها.
+«أذرع آليّة من ثقوب صغيرة: وقت أطول تحت الكمّاشة، ووقت أطول على شاحنة المضخّة!» قال تشوبر.
+فنظر فرانكي إلى ذراعيه الآليّتين الطويلتين بفخر، وقال:
+quote: «سأبني سفينة أحلامي، وأراها تبلغ آخر البحر!»
+source: فرانكي
+explanation:
+TECAB is associated with prolonged cross-clamp and CPB times: B.
+Totally endoscopic coronary artery bypass uses a surgical robot through ports in the chest wall, and sewing through ports takes longer than through an open chest.
+On the arrested heart, with peripheral bypass and an endoaortic balloon, the cross-clamp and bypass times are longer than in standard CABG; TECAB can also be done on the beating heart, so bypass is not always needed.
+In the picture, the hourglasses by the tongs and by the pump truck both run long while Franky's robot arms work through keyholes.
+An intramyocardial LAD is hard to find endoscopically and is a relative contraindication, conversion is well under 20 percent in experienced hands, and freedom from angina is comparable to standard CABG.
+Memory hook: robot arms through keyholes, and both hourglasses run long.
+
+== 270
+# book 54.5: strongest contraindication to minimally invasive mitral surgery -> C, atherosclerotic plaque over 2 mm high in the aortic arch.
+# ANSWER: the orca's arched back crusted with black tar, 2 mm on it, flakes breaking off as water rushes backwards from the thigh cannon; lightning in the head (audited orca, cannon, thigh bone, lightning)
+# passing through the hatch: the jolly fat sailor (obesity), the excavator's hollow (pectus), the old scar on the right side lid (previous right thoracotomy), the two round cushions (breast implants)
+title: Aortic arch atheroma is the strongest contraindication to minimally invasive mitral surgery
+titleAr: تصلّب قوس الأبهر أقوى موانع جراحة التاجيّ طفيفة التوغّل
+tags: cardiac/mitral-tricuspid d:indications q:recall l:2
+palette: Alabasta sand, palace white and tar black
+words: 2 mm
+keywords: minimally invasive mitral surgery -> a small hatch cut in the right side of the treasure chest, the bishop's mitre repaired through it; femoral cannulation -> a brass cannon pushed into the red pipe beside the long white thigh bone, joined to the pump truck's hose, pushing water backwards up the orca; aortic arch atheroma -> the orca balloon's arched back crusted with thick black tar, 2 mm painted on it, flakes breaking off as the water rushes backwards; stroke -> a lightning bolt striking the head where the flakes fly; obesity -> a jolly fat sailor walking through the hatch; pectus excavatum -> a yellow excavator's hollow in the front of a chest that passes; previous right thoracotomy -> an old healed scar on a chest's right side lid; breast augmentation -> two round cushions under the front of a chest that passes
+must: only the orca with the tarred arch is turned away; the fat sailor, the hollow chest, the old scar and the cushions pass through the hatch
+scene: The royal palace of Alabasta under the desert sun. CENTRE, dominant and brightest: an orca balloon whose arched back is crusted with thick black tar, 2 mm painted on it, flakes breaking off as water rushes backwards up it from a brass cannon pushed into a red pipe beside a long white thigh bone and joined to a pump truck's hose; a lightning bolt striking a head where the flakes fly. Franky turning it away from a treasure chest with a small hatch cut in its right side. AROUND, passing happily through the hatch: a jolly fat sailor; a chest with a hollow dug by a yellow excavator; a chest with an old healed scar on its right side lid; a chest with two round cushions under its front. LEFT: Usopp pushing the tarred orca toward the hatch. Chopper.
+story:
+في قصر ألباستا تحت شمس الصحراء، فتح فرانكي كوّةً صغيرةً في جانب صندوق الكنز الأيمن، ليصلح منها تاج الأسقف.
+فمرّ من الكوّة البحّار السمين المرح، والّذي حفرت الجرّافة في صدره حفرة، والّذي على غطاء جنبه الأيمن ندبة قديمة، والّتي تحت صدرها وسادتان مستديرتان.
+«وهذا الحوت ذو القطران على ظهره يمرّ أيضًا! القطران ملّيمتران فقط!» قال أوسوب، وهو يدفع الحوت نحو الكوّة.
+لكنّ خرطوم شاحنة المضخّة كان موصولًا بمدفع عند عظم الفخذ، فاندفع الماء إلى الوراء صاعدًا في الحوت عكس مجراه.
+فتكسّرت رقائق القطران عن الظهر المقوّس، وطارت إلى الرأس، فضربته صاعقة.
+«ماء يجري إلى الوراء، وقوس عليه قطران: رقائق تطير إلى الرأس! هذا لا يمرّ من الكوّة!» قال تشوبر.
+فأغلق فرانكي الكوّة الصغيرة، وفتح مؤخّرة السفينة من خطّها الأوسط، وأدخل المدفع في صعود الحوت الأماميّ قبل القوس.
+فلمع البرق في رأس الحوت، كأنّما ركله الأميرال كيزارو وهو يبتسم ويسأل:
+quote: «هل ركلت يومًا بسرعة الضوء؟»
+source: الأميرال كيزارو
+explanation:
+Atherosclerotic plaque more than 2 mm high in the aortic arch is the strongest contraindication to minimally invasive mitral surgery: C.
+The approach usually relies on femoral cannulation, and retrograde perfusion drives blood backwards up the diseased aorta, where it can loosen debris into the head vessels and cause a stroke.
+In the picture, flakes of tar break off the orca's arch as the water rushes backwards from the thigh cannon, and lightning strikes the head.
+When the arch is diseased, central aortic cannulation or a conventional sternotomy is safer.
+Obesity, pectus excavatum, a previous right thoracotomy and breast implants make the approach harder but do not forbid it.
+Memory hook: backwards water over a tarred arch throws flakes into the head.
