@@ -1,0 +1,21 @@
+{
+ "file": "jh-q0220-explanation-en.m4a",
+ "sig": "89b2f61082aef8f4c99ab25ccf6ff762b3e8f53b8fadd9cdae2cf8233f001dd9",
+ "starts": [
+  0,
+  16634,
+  31537,
+  39419,
+  48208,
+  56958
+ ],
+ "seconds": 63.2,
+ "texts": [
+  "With a non-ischaemic cardiomyopathy, an ejection fraction of 25 percent, symptoms despite optimal medical therapy, sinus rhythm and left bundle branch block, the best course is a CRT-D device with a coronary sinus lead: C.",
+  "Resynchronisation, the two drummers striking together, restores coordinated contraction and improves symptoms and survival; the left ventricular lead goes through the coronary sinus, the sink, into a lateral vein.",
+  "With an ejection fraction of 35 percent or less a defibrillator, the bodyguard, is added against sudden death.",
+  "An ICD alone with a later upgrade delays the benefit, and a dyssynchrony echo is not needed when there is left bundle branch block.",
+  "A robotic epicardial lead is kept for when the coronary sinus route fails, and an LV assist device is for more advanced failure.",
+  "Memory hook: two drummers together, one down the sink, and the bodyguard beside them."
+ ]
+}

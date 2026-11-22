@@ -1,0 +1,21 @@
+{
+ "file": "jh-q0218-explanation-en.m4a",
+ "sig": "b341229f6893e379c3add9ada09bec6ffb64fdb33cf008208556f5fa783548d5",
+ "starts": [
+  0,
+  14406,
+  21911,
+  30865,
+  38745,
+  50775
+ ],
+ "seconds": 55.8,
+ "texts": [
+  "The false statement is that DDI mode triggers a ventricular beat on the basis of atrial activity: in DDI the device paces and senses both chambers but only inhibits; it never tracks the atrium: A.",
+  "In the picture, the lower drummer turns his back on the upper one and beats only when the engine room falls silent.",
+  "Mode switching does the same during atrial tachyarrhythmias, so the ventricle does not follow a racing atrium, the trembling Pinocchio.",
+  "Pacemaker-dependent patients are programmed to an asynchronous mode before surgery, because electrocautery can inhibit pacing.",
+  "Electromagnetic interference, also from TENS units, can stop pacing or shocks, damage the lead-tissue interface, reset the device or trigger inappropriate ICD shocks.",
+  "Memory hook: in DDI the lower drummer never copies the upper one."
+ ]
+}

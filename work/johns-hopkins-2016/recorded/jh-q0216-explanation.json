@@ -1,0 +1,21 @@
+{
+ "file": "jh-q0216-explanation-en.m4a",
+ "sig": "1fc570344a85c10d3b6aac438dcb207302a50305d23c05faaf59e8028f5b4efa",
+ "starts": [
+  0,
+  10788,
+  19998,
+  31308,
+  39744,
+  44974
+ ],
+ "seconds": 50.9,
+ "texts": [
+  "Depolarisation of the sinoatrial and atrioventricular nodes depends largely on L-type calcium currents, which makes them slow-response tissues: D.",
+  "In the picture, the conductor's baton and the knot move only with the slow, thick glue from the L-shaped cans, not with the fast salt.",
+  "Nodal cells rest at about -60 mV, not -90 mV like fast-response tissue, and they conduct far more slowly than the His-Purkinje system below them.",
+  "The sinoatrial node lies just under the epicardium where the superior vena cava meets the right atrium, not on the endocardium.",
+  "In most people the right coronary artery, not the circumflex, supplies both nodes.",
+  "Memory hook: the conductor and the knot run on slow glue from L-shaped cans."
+ ]
+}
