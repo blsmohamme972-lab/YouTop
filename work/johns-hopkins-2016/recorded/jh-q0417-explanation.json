@@ -1,0 +1,19 @@
+{
+ "file": "jh-q0417-explanation-en.m4a",
+ "sig": "b18c04805587bc0c642401061e8a471cc28bb404dcf737d153ffc96970cb671c",
+ "starts": [
+  0,
+  5924,
+  21308,
+  38140,
+  44107
+ ],
+ "seconds": 48.6,
+ "texts": [
+  "Calcineurin inhibitors block IL-2 production by activated T cells: D.",
+  "Cyclosporine, bound to cyclophilin, and tacrolimus, bound to FKBP-12, inhibit calcineurin, so the transcription factor NFAT is not activated, IL-2 is not made and T cells do not proliferate.",
+  "TOR inhibitors such as sirolimus arrest the cell cycle in G1, antimetabolites such as azathioprine and mycophenolate block purine synthesis, basiliximab is an antibody to the IL-2 receptor, and steroids block cytokine production broadly.",
+  "In the picture, the cyclone-taco silences the bugler's call, so the ants never rally.",
+  "Memory hook: the taco storm blows out the IL-2 bugle."
+ ]
+}
