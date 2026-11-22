@@ -17,22 +17,24 @@ a line; if a line here turns out wrong, take it out and say so.
 | Ace, Sabo and Luffy (sake cups) | "From today, we're brothers!" | S (ch. 585, ep. 496) | مُنْذُ اليَوْمْ، نَحْنُ إِخْوَةْ! | 200, 220 |
 | Zoro | "People can say whatever they want about me, but I've never done a single thing in my life that I regret." | W 1.02 | لِيَقُلِ النَّاسُ عَنِّي مَا شَاؤُوا؛ مَا فَعَلْتُ فِي حَيَاتِي شَيْئًا وَاحِدًا أَنْدَمُ عَلَيْهِ! | 211 |
 | Luffy (to Zoro) | "The world's greatest swordsman, sounds pretty good. The King of the Pirates wouldn't have any less than the best on his crew." | W 1.03 | أَعْظَمُ مُبَارِزٍ فِي العَالَمْ؟ يَبْدُو هَذَا جَمِيلًا! فَمَلِكُ القَرَاصِنَةِ لَا يَرْضَى فِي طَاقَمِهِ بِأَقَلَّ مِنَ الأَفْضَلْ! | 219 |
-| Koby | "...how to live for what I believe in!" | W 1.03 | لَقَدْ عَلَّمْتُمَانِي مَا كُنْتُ لِأَتَعَلَّمَهُ وَحْدِي: كَيْفَ أَعِيشُ لِمَا أُومِنُ بِهْ! | 207 |
-| Shanks (to the bandit) | "Guns aren't for threats, they're for actions." | W 1.04 | المُسَدَّسَاتُ لَيْسَتْ لِلتَّهْدِيدْ، إِنَّمَا هِيَ لِلْفِعْلْ! | 204 |
+| Koby | "...how to live for what I believe in!" | W 1.03 | لَقَدْ عَلَّمْتُمَانِي مَا كُنْتُ لِأَتَعَلَّمَهُ وَحْدِي: كَيْفَ أَعِيشُ لِمَا أُومِنُ بِهْ! | 207, 227 |
+| Shanks (to the bandit) | "Guns aren't for threats, they're for actions." | W 1.04 | المُسَدَّسَاتُ لَيْسَتْ لِلتَّهْدِيدْ، إِنَّمَا هِيَ لِلْفِعْلْ! | 204, 224 |
 | Ben Beckman | "We never claimed to be saints." | W 1.04 | لَمْ نَزْعُمْ يَوْمًا أَنَّنَا قِدِّيسُونْ! | 205 |
 | Luffy (to Shanks) | "I won't beg you to take me with you. I'm gonna be a pirate all on my own." | W 1.04 | لَنْ أَتَوَسَّلَ إِلَيْكَ هَذِهِ المَرَّةَ أَنْ تَأْخُذَنِي مَعَكْ؛ سَأَصِيرُ قُرْصَانًا بِنَفْسِي! | 218 |
 | Zoro | "The injury to my reputation's a lot worse than the injury to my gut." | W 1.06 | جُرْحُ سُمْعَتِي أَسْوَأُ بِكَثِيرٍ مِنْ جُرْحِ بَطْنِي! | 206 |
 | Zoro | "My swords aim to be the world's greatest. I refuse to lose to anyone who calls himself a swordsman." | W 1.07 | | |
-| Zoro | "If I lose to someone like you, even with these minimal injuries, then I don't have a very bright future ahead of me, do I?" | W 1.07 | | |
-| Zoro (after much blood loss) | "I feel lightheaded." | W 1.08 | أَشْعُرُ بِدُوَارٍ خَفِيفْ... | 202 |
+| Zoro | "If I lose to someone like you, even with these minimal injuries, then I don't have a very bright future ahead of me, do I?" | W 1.07 | إِنْ خَسِرْتُ أَمَامَ مِثْلِكَ بِهَذِهِ الجُرُوحِ البَسِيطَةْ، فَأَيُّ مُسْتَقْبَلٍ يَنْتَظِرُنِي؟ | 228 |
+| Zoro (after much blood loss) | "I feel lightheaded." | W 1.08 | أَشْعُرُ بِدُوَارٍ خَفِيفْ... | 202, 222 |
 | Zoro (for Kuina) | "I'll get stronger! ... Strong enough that my name reaches up to the heavens!" | W 1.19 | | |
 | Koshiro (giving Kuina's sword) | "The sword is yours. I leave her spirit and her dreams in your hands." | W 1.19 | | |
 | Doflamingo (Marineford) | "Children who've never known peace have different values than children who've never known war." | W 14.09 | الأَطْفَالُ الَّذِينَ لَمْ يَعْرِفُوا السَّلَامَ قَطّْ، لَهُمْ قِيَمٌ غَيْرُ قِيَمِ الأَطْفَالِ الَّذِينَ لَمْ يَعْرِفُوا الحَرْبَ قَطّْ! | 212 |
-| Robin (Enies Lobby) | "I never asked you to save me!" | S (ch. 389) | لَمْ أَطْلُبْ مِنْكُمْ أَنْ تُنْقِذُونِي! | 210 |
-| Chopper (Drum Island, before "Shut up! Let's go!") | "But I'm a reindeer! I've got antlers... and hooves... and a blue nose!" | S | أَنَا رَنَّةْ! لِي قَرْنَانِ، وَلِي حَوَافِرُ، وَأَنْفِي أَزْرَقْ! | 203 |
-| Zoro (to Mihawk, after Sabaody) | "Please teach me the way of the sword!" | S (ep. 515) | | |
+| Robin (Enies Lobby) | "I never asked you to save me!" | S (ch. 389) | لَمْ أَطْلُبْ مِنْكُمْ أَنْ تُنْقِذُونِي! | 210, 230 |
+| Chopper (Drum Island, before "Shut up! Let's go!") | "But I'm a reindeer! I've got antlers... and hooves... and a blue nose!" | S | أَنَا رَنَّةْ! لِي قَرْنَانِ، وَلِي حَوَافِرُ، وَأَنْفِي أَزْرَقْ! | 203, 223 |
+| Zoro (to Mihawk, after Sabaody) | "Please teach me the way of the sword!" | S (ep. 515) | أَرْجُوكْ، عَلِّمْنِي فَنَّ السَّيْفْ! | 229 |
 | Nami | "I'm a thief who only steals from pirates." | S | أَنَا لِصَّةٌ لَا تَسْرِقُ إِلَّا القَرَاصِنَةْ! | 209 |
-| Alvida | "Who is the most beautiful woman on all the seas?" | S | مَنْ أَجْمَلُ امْرَأَةٍ فِي البِحَارِ كُلِّهَا؟ | 201 |
+| Alvida | "Who is the most beautiful woman on all the seas?" | S | مَنْ أَجْمَلُ امْرَأَةٍ فِي البِحَارِ كُلِّهَا؟ | 201, 226 |
+| Kozuki Oden (in the boiling pot) | "I am Oden... I was born to boil!" (the title of chapter 972) | S (ch. 972) | أَنَا أُودِنْ... وُلِدْتُ لِأُغْلَى! | 221 |
+| Bon Clay (Mr. 2) | "But remember! When it comes to friends, it's not how much time you spend with them, just how you spend it!" | W ("Friendship" page) | تَذَكَّرْ! مَعَ الأَصْدِقَاءْ، لَيْسَ المُهِمُّ كَمْ مِنَ الوَقْتِ تَقْضِي مَعَهُمْ، بَلْ كَيْفَ تَقْضِيهْ! | 225 |
 
 Lines from 1-190 still usable once more: Buggy's "Who are you calling big red nose?!" (171, 191: done), "Sogeking,
 shoot that flag!" (172, 192: done), "a crew better than yours" (173, 208: done), Kizaru's light-speed kick (175,
