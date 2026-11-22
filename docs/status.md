@@ -13,9 +13,9 @@ Updated 2026-11-21 (evening). Whoever works on YouTop next: read `CLAUDE.md`, th
 and merged to main as it is done. The owner asked for it overnight, with an hourly wake-up scheduled task
 (trig_01PU9vpvigNUp6wUdpdP37Yc) to resume after a usage-limit pause; disable it when 422 is reached. Other sessions:
 do not write 151+ in parallel; pictures, voices and publishing of 1-150 are unaffected.
-- Progress (update as it goes): **151-230 written** (tables, scenes, prompts, vowelled stories, quotations, explanations;
-  `drafts/johns-hopkins-2016/batch-0151-0160` ... `batch-0221-0230`; prompts for the owner: `prompts-jh-151-180.txt`,
-  `prompts-jh-181-190.txt` ... `prompts-jh-221-230.txt`, not yet sent). Voices: 151-220 recorded, 221-230 recording
+- Progress (update as it goes): **151-240 written** (tables, scenes, prompts, vowelled stories, quotations, explanations;
+  `drafts/johns-hopkins-2016/batch-0151-0160` ... `batch-0231-0240`; prompts for the owner: `prompts-jh-151-180.txt`,
+  `prompts-jh-181-190.txt` ... `prompts-jh-231-240.txt`, not yet sent). Voices: 151-230 recorded, 231-240 recording
   (audio only in this container; rebuild + `voice.py make` reproduces it; a worker restart at ~01:00 UTC interrupted
   211-220, which were recorded again).
   `voice.py check` of 151-180: 5 sentences flagged, all false alarms when each clip was transcribed alone (155 and 180:
@@ -29,12 +29,15 @@ do not write 151+ in parallel; pictures, voices and publishing of 1-150 are unaf
   "about half the time"), 214 (an appendage thrombus "not an indication" for surgical ablation), 229 (the book makes
   "an incision below the left-right coronary commissure" the exception in HCM surgery, while classic Morrow descriptions
   carry the trough toward that commissure).
-- **Quotation pool**: every line used in 1-190 is now used twice; the new lines of 193-210 can each serve once more
-  (20 lessons after their first use). New lines are taken only when checked: `drafts/johns-hopkins-2016/quote-bank.md` lists them (Wikiquote's One Piece page,
-  quote lists, famous scenes), with the Arabic and where each is used. After 230 it holds 3 unused lines and 11 lines usable once more,
-  enough for about 17 lessons (to about 247);
-  when it runs out, ask the owner (a third use, or another genuine source) rather than inventing or adapting a line;
-  meanwhile tables, scenes, prompts and explanations can go on.
+- **Quotation pool: exhausted after 241. THE OWNER MUST DECIDE.** Every One Piece line used in 1-240 has been used
+  twice (the book's limit, `quoteRepeats` max 2) except seven new lines that can serve once more, at 241 (Oden), 245
+  (Bon Clay), 248, 249, 253 (Zoro), 256 (Koshiro) and 260 (Zoro). `drafts/johns-hopkins-2016/quote-bank.md` lists the
+  checked lines. Searching for more (Wikiquote, quote lists) found almost nothing usable. Options for the owner:
+  (1) allow a third use of each line, still 20 lessons apart (simplest; enough for about 115 more lessons);
+  (2) allow other genuine sources (another anime, or Arabic poetry and proverbs as in MedCosmos);
+  (3) end stories without a quotation. Never invent or adapt a line.
+  Meanwhile lessons 242+ are written in full (tables, scenes, prompts, stories, explanations) except the last line
+  (the lead-in) and the quotation; they cannot be built or recorded until the quotation is added.
 - `content/symbols.json`: new symbol **antibiotics = a giant pencil** (PENCIL-lin = penicillin; Johns Hopkins 27
   already drew it); "vegetation" now also names the endocarditis cards.
 - `content/symbols.json`: the VSD symbol also covers ventricular septal rupture after infarction (same hole, same drawing).
