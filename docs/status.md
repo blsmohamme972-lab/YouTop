@@ -4,7 +4,7 @@ Updated 2026-11-22 (afternoon). Whoever works on YouTop next: read `CLAUDE.md`, 
 `docs/content-guide.md` and the `youtop-lessons` skill. Rewrite this file whenever the state changes (it replaces the
 `status-<n>.txt` files in the Drive folder "YouTop private", which stop at 7).
 
-## HANDOFF (2026-11-22, afternoon): THREE RECURRING SYMBOLS PER LESSON: every lesson WITHOUT a picture is done; start here
+## HANDOFF (2026-11-22, afternoon): THREE RECURRING SYMBOLS: every Johns Hopkins lesson done (40 pictures to redo); quotations next; start here
 
 The owner (2026-11-22): "every lesson contains 3 recurring symbols". Counted as at least three approved symbols from
 `content/symbols.json`, each named in the lesson's `keywords:` (a term of the symbol -> an object containing its anchor)
@@ -53,19 +53,30 @@ a lesson with fewer; `batch.py build` only warns, so lessons already drawn can s
     `-51-100.txt`, `-101-150.txt` and `drafts/medcosmos-cardiac/prompts-missing.txt` / `image-prompts-missing.json` updated.
 - No new JH pictures had arrived (Drive folder checked 2026-11-22: still the 82 of 2026-11-21).
 
-**STILL SHORT, all already published with pictures (fixing them means new pictures; asked the owner, no answer yet):**
-- Johns Hopkins, 69: 1, 3-10, 13, 15-22, 24, 27-30, 32-35, 39-48, 52, 53, 55, 57, 60, 61, 63, 66, 67, 70-75, 77-79,
-  82-84, 86-89, 91, 93-97, 100.
-- MedCosmos, 54 (of 151 published; 40 have two symbols, 13 have one, 143 has none): 1, 2, 4, 6, 9, 14, 15, 16, 19, 23,
-  29, 46, 47, 48, 52, 53, 54, 57, 59, 60, 62, 68, 69, 71, 75, 80, 81, 83-95, 101, 102, 104, 106, 107, 108, 113, 115, 117,
-  129, 132, 133, 143, 152.
-- Shahzad 2015: its batch files (`work/shahzad-2015/` on `content`) have **no `keywords:` lines at all** (written before
-  the keyword and symbol rules), so all 200 count as none; 198 have pictures; **133 and 154 have no picture yet** (if
-  the owner still means to draw them, give them keywords and three symbols first).
+**The owner's answers (2026-11-22, afternoon):** (a) "Redo Johns Hopkins 69" (MedCosmos and Shahzad stay as they are);
+(b) quotations for JH 242+: "اصنع اي شي قوي متناسق" (make anything strong and consistent), so: genuine lines only, a
+third use of each One Piece line at least 20 lessons apart first, then other genuine sources that fit the book.
 
-**Next, in order:** (1) the owner's answers: redo the published pictures? which quotation policy for JH 242+?
-(2) quotations: lead-in + Q line in each pending `voice.txt`, `voice.py fill`, `batch.py build`, `voice.py make`;
-(3) pictures as they arrive (skill steps 4-5, publish `--complete-only`); rebuilding also mends the NUL signs still in
+**DONE: the 69 published JH lessons (1-100) now carry three symbols too. Every JH lesson 1-422 passes `symbols.py check`.**
+- Recorded text untouched (story and explanation are recorded and published): only `keywords:`, `scene:`, `must:` and the
+  `#` table changed; a dry build of 1-100 passed with no complaint about recorded text. New objects were chosen from
+  facts the (recorded) explanation already teaches, so their marks can quote it.
+- **29 need no new picture**: the published picture already shows the symbols (each checked by eye): 13, 15, 16, 19, 22,
+  24, 27, 29, 30, 32, 33, 41, 43, 44, 46, 48, 52, 53, 60, 63, 66, 67, 70, 71, 74, 75, 77, 78, 79.
+- **40 need a new picture** (one to three objects added to the old scene): 1, 3-10, 17, 18, 20, 21, 28, 34, 35, 39, 40,
+  42, 45, 47, 55, 57, 61, 72, 73, 82-84, 86-89, 91, 93-97, 100. Prompts sent to the owner as
+  `drafts/prompts-redo-jh-2026-11-22.txt`; `prompts-jh-1-50.txt` and `-51-100.txt` updated. The owner saves each with its
+  usual number in the usual folder, so Drive will hold two files of that name: **take the newest** for each number,
+  then `batch.py pictures johns-hopkins-2016 <folder> --replace b` (publishes `jh-qNNNN-b.webp`, the old file stays), new
+  spots and marks (positions change; the story timing does not), look at every drawing, publish.
+- Still short and left as they are (the owner's choice): MedCosmos 54 published lessons (1, 2, 4, 6, 9, 14, 15, 16, 19,
+  23, 29, 46, 47, 48, 52, 53, 54, 57, 59, 60, 62, 68, 69, 71, 75, 80, 81, 83-95, 101, 102, 104, 106, 107, 108, 113, 115,
+  117, 129, 132, 133, 143, 152) and Shahzad (its batch files on `content` have no `keywords:` lines at all; 198 of 200
+  have pictures, **133 and 154 have none**: if the owner still means to draw them, give them keywords and three symbols
+  first).
+
+**Next, in order:** (1) quotations (being done; see above for the policy): lead-in + Q line in each pending `voice.txt`, `voice.py fill`, `batch.py build`, `voice.py make`;
+(2) pictures as they arrive (skill steps 4-5, publish `--complete-only`), the 40 redone ones with `--replace b`; rebuilding also mends the NUL signs still in
 published 11, 127, 163, 237, 238. The JH master: Drive id `1JmU8REE6sMtOSk6Ty664l8Q9__jtRogW`, save outside the repo.
 The `content` branch's work copies of the JH batches are older than `drafts/`: always rebuild from `drafts/`.
 

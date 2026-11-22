@@ -11,7 +11,7 @@ title: Lung adenocarcinoma: usually a peripheral tumour that puckers the pleura
 titleAr: السرطان الغدّي للرئة: غالبًا ورم محيطي يشدّ الجنبة إلى الداخل
 tags: thoracic/lung-cancer d:pathology q:recall l:1
 palette: sea glass green, crab red and pearl white
-keywords: lung -> a big sack of green dollar bills; adenocarcinoma -> a red crab clinging at the OUTER edge of the sack; pleural retraction -> the crab's claws pulling the sack's outer skin inward into a puckered dimple; central endobronchial tumour -> the ribbed hose in the middle of the sack, with no crab in it
+keywords: lung -> a big sack of green dollar bills; adenocarcinoma, a lung cancer -> a red crab clinging at the OUTER edge of the sack; pleural retraction -> the crab's claws pulling the sack's outer skin inward into a puckered dimple; central tumour in the trachea's branches -> the ribbed hose in the middle of the sack, with no crab in it
 must: the crab sits at the OUTER edge and the sack's skin is pulled INWARD into a dimple
 scene: A pearl-white beach on Fishman Island, sea-glass green light. A big sack of green dollar bills lies on the sand, a white ribbed hose running into its middle. CENTRE, dominant and brightest: a red crab clings to the very outer edge of the sack and pulls the sack's skin inward with both claws, so the outer skin puckers into a deep dimple. Nami, the orange-haired navigator, points at the dimple, horrified.
 story:
@@ -40,13 +40,14 @@ A pneumonia-like consolidation is a less common pattern of adenocarcinoma.
 # ANSWER part 1: the grains melt into each other with blurred edges -> ill-defined borders
 # ANSWER part 2: each grain is cracked open and has no kernel inside -> absent nucleoli
 # a single big pearl beside them, belonging to a different pile -> keratin pearls belong to squamous cancer, not carcinoid (B is wrong)
+# the single pearl held by a small crab covered in fish scales -> keratin pearls belong to squamous cell carcinoma, not to atypical carcinoid (B is wrong; squamous = scales, audited)
 title: Small cell carcinoma: ill-defined cell borders and absent nucleoli
 titleAr: سرطان الخلايا الصغيرة: حدود خلوية غير واضحة وغياب النُّوَيّات
 tags: thoracic/lung-cancer d:pathology q:recall l:2
 palette: oat beige, blur grey and one pearl white
-keywords: small cell carcinoma -> a red crab's shell heaped with tiny oat grains (the OAT cell); ill-defined borders -> the grains melting into each other with blurred edges; absent nucleoli -> each grain cracked open with NO kernel inside; keratin pearls (squamous) -> a single big pearl lying apart in another dish
+keywords: small cell carcinoma -> a red crab's shell heaped with tiny oat grains (the OAT cell); ill-defined borders -> the grains melting into each other with blurred edges; absent nucleoli -> each grain cracked open with NO kernel inside; squamous cell carcinoma keratin pearls -> a single big pearl lying apart in another dish, held by a small red crab covered in silvery fish scales; cancer -> the empty shell of a big red crab used as a bowl
 must: the oat grains are BLURRED into each other and EMPTY inside; the pearl is in a separate dish
-scene: Sanji's galley on the Thousand Sunny, warm morning light. CENTRE, dominant and brightest: the empty shell of a big red crab, used as a bowl, heaped with tiny oat grains whose edges blur and melt into each other, and each grain Sanji, the blond cook, cracks open with his knife is empty, with no kernel inside; he stares at them in surprise. RIGHT: in a separate small dish lies a single big shining pearl.
+scene: Sanji's galley on the Thousand Sunny, warm morning light. CENTRE, dominant and brightest: the empty shell of a big red crab, used as a bowl, heaped with tiny oat grains whose edges blur and melt into each other, and each grain Sanji, the blond cook, cracks open with his knife is empty, with no kernel inside; he stares at them in surprise. RIGHT: in a separate small dish, a small red crab covered in silvery fish scales holds a single big shining pearl.
 story:
 في مطبخ الثاوزند صني، تحت ضوء صباح دافئ، كانت صدفة سرطان أحمر كبير فارغةً كالوعاء.
 وفيها كومة من حبوب الشوفان الصغيرة.
@@ -76,7 +77,7 @@ title: Xenon is not a risk factor for lung cancer
 titleAr: الزينون ليس عامل خطر لسرطان الرئة
 tags: thoracic/lung-cancer d:pathology q:recall l:1
 palette: headlamp blue-white, smoke grey and coin silver
-keywords: lung cancer -> a red crab clamped on a sack of green dollar bills; smoking -> a Marine captain blowing cigar smoke onto the crab, which grows; second-hand smoke -> a sailor beside him breathing the drifting smoke; asbestos -> grey fibrous threads dropped onto the crab; nickel -> a nickel coin dropped onto the crab; xenon -> a bright blue xenon headlamp shining on the crab while it does not grow at all
+keywords: lung cancer -> a red crab clamped on a sack of green dollar bills; smoking -> a Marine captain blowing cigar smoke onto the crab, which grows; second-hand smoke -> a sailor beside him breathing the drifting smoke; asbestos -> grey fibrous threads dropped onto the crab; nickel -> a nickel coin dropped onto the crab; xenon -> a bright blue xenon headlamp shining on the crab while it does not grow at all; lung -> the big sack of green dollar bills the crab is clamped on
 must: the smoke, fibres and coin make the crab GROW; under the xenon headlamp's light it does NOT grow
 scene: The dark hold of a Marine ship. A red crab is clamped on a big sack of green dollar bills. LEFT: a Marine captain blows thick cigar smoke onto it, a sailor beside him coughing in the drifting smoke, and Usopp drops grey fibrous threads and a shiny nickel coin onto the crab, which swells bigger with each. CENTRE, dominant and brightest: Franky, the blue-haired cyborg shipwright, shines a bright blue xenon headlamp straight at the crab, and in its beam the crab stays exactly the same size, unbothered.
 story:
@@ -109,7 +110,7 @@ titleAr: سرطان رئة T2a بقطر 4 سم دون عقد هو المرحلة
 tags: thoracic/lung-cancer d:diagnosis q:numbers l:2
 palette: podium gold, crab red and railway green
 words: 4, 1, B
-keywords: T2a tumour of 4 cm -> a red crab with a yellow measuring tape round its shell reading 4; N0 -> the railway stations along the line beside it all empty; stage IB -> the crab standing on a podium step painted 1, holding a flag painted B
+keywords: T2a lung cancer of 4 cm -> a red crab with a yellow measuring tape round its shell reading 4; N0, empty lymph node stations -> the railway stations along the line beside it all empty; stage IB -> the crab standing on a podium step painted 1, holding a flag painted B
 must: the tape reads 4; the step is 1 and the flag is B; every railway station is EMPTY
 scene: A festival square on a Grand Line island with a sea-train line running behind it, golden light. Behind the square, along the line, little railway stations stand all empty, with no crab at any of them. CENTRE, dominant and brightest: a red crab with a yellow measuring tape wrapped round its shell reading 4 stands proudly on a winner's podium step painted 1, waving a flag painted B. Luffy, the boy in the straw hat, claps from the side.
 story:
@@ -138,14 +139,15 @@ T2b with N1 is stage IIB, and a T4 tumour invading a vertebral body is at least 
 # a harvester picking just a few parcels from the railway stations -> lymph node sampling (stations, audited)
 # a second harvester digging out every parcel from every station -> complete mediastinal lymph node dissection
 # ANSWER: both crossing the finish line at exactly the same moment, side by side -> no difference in survival
+# a red crab on a big sack of dollar bills at the start of the line -> the trial was in early lung cancer (cancer = crab, lung = dollar sack, audited)
 title: ACOSOG Z0030: node sampling and full dissection give the same survival
 titleAr: دراسة ACOSOG Z0030: أخذ عيّنات العقد وتجريفها الكامل يعطيان البقيا نفسها
 tags: thoracic/lung-cancer d:evidence q:recall l:3 x:high-yield
 palette: finish-line white, harvest gold and railway green
 words: Z
-keywords: Z0030 trial -> a big Z slashed by Zoro's swords into the starting line; lymph node sampling -> a runner picking just a few parcels from the railway stations along the track; complete lymph node dissection -> a second runner digging out every parcel from every railway station; no survival difference -> both runners crossing the finish line at exactly the same moment, side by side
+keywords: Z0030 trial -> a big Z slashed by Zoro's swords into the starting line; sampling of the lymph node stations -> a runner picking just a few parcels from the railway stations along the track; complete lymph node dissection -> a second runner digging out every parcel from every railway station; no survival difference -> both runners crossing the finish line at exactly the same moment, side by side; early lung cancer -> a red crab sitting on a big sack of green dollar bills at the start of the line; lung -> the big sack of green dollar bills at the start
 must: the two runners cross the finish line TOGETHER, neck and neck
-scene: A long racetrack beside a sea-train line, little railway stations along it, bright sky. At the start, a big letter Z is slashed into the starting line, and Roronoa Zoro stands beside it with his swords. One runner carries only a few parcels picked from the stations; the other carries a huge pile of parcels dug out of every station. CENTRE, dominant and brightest: both runners burst through the finish-line tape at exactly the same moment, side by side, neck and neck, Usopp at the line waving two flags at once.
+scene: A long racetrack beside a sea-train line, little railway stations along it, bright sky. At the start, a big letter Z is slashed into the starting line, and Roronoa Zoro stands beside it with his swords. One runner carries only a few parcels picked from the stations; the other carries a huge pile of parcels dug out of every station. CENTRE, dominant and brightest: both runners burst through the finish-line tape at exactly the same moment, side by side, neck and neck, Usopp at the line waving two flags at once. At the start of the line, a red crab sits on a big sack of green dollar bills.
 story:
 على مضمار سباق طويل إلى جانب خطّ قطار البحر، تحت سماء صافية، وقفت محطّات صغيرة على طول الطريق.
 وعند البداية، شقّ زورو بسيوفه حرف زد كبيرًا في خطّ الانطلاق.
@@ -177,7 +179,7 @@ title: The number of nodules is not a criterion for pulmonary metastasectomy
 titleAr: عدد العقيدات ليس شرطًا لاستئصال النقائل الرئوية
 tags: thoracic/lung-cancer d:indications q:recall l:2
 palette: island green, cage iron and baby-crab pink
-keywords: pulmonary metastases -> baby crabs settled on a big sack of green dollar bills, far from their mother; primary controlled -> the mother crab locked in an iron cage; no extrathoracic metastases -> empty islands on the horizon with no baby crabs on them; number of nodules -> Zoro happily picking off a whole row of baby crabs without counting; pulmonary reserve -> the sack of dollar bills still big and full after the crabs are taken off
+keywords: pulmonary metastases -> baby crabs settled on a big sack of green dollar bills, far from their mother; primary cancer controlled -> the mother crab locked in an iron cage; no extrathoracic metastases -> empty islands on the horizon with no baby crabs on them; number of nodules -> Zoro happily picking off a whole row of baby crabs without counting; pulmonary reserve -> the sack of dollar bills still big and full after the crabs are taken off
 must: Zoro removes a LONG row of baby crabs; the mother crab is caged; the islands on the horizon are empty
 scene: A green island shore. LEFT: the mother red crab sits locked in an iron cage. Far on the horizon lie small empty islands with no crabs on them. CENTRE, dominant and brightest: a big sack of green dollar bills is dotted with a long row of little pink baby crabs, and Roronoa Zoro, grinning, picks them off one after another with the tip of his sword, not counting, while the sack stays big and full. Nami keeps watch on the horizon with a spyglass.
 story:
@@ -204,13 +206,14 @@ The number does affect the prognosis, but completeness of resection matters most
 # baby crabs on a sack of dollar bills -> pulmonary metastases (audited symbol)
 # ANSWER: Chopper sweeping the sack with a lantern and finding not one crab left, the last baby crab dropped into the jar -> completeness of resection matters most
 # a single hidden baby crab left behind in a fold of another sack, glowing red, crossed by Chopper's frown -> an incomplete resection fails
+# a small coffin beside the sack with the hidden crab -> those left with disease die sooner (death = coffin, audited)
 title: Completeness of resection is the most important factor in pulmonary metastasectomy
 titleAr: اكتمال الاستئصال هو العامل الأهمّ في استئصال النقائل الرئوية
 tags: thoracic/lung-cancer d:evidence q:recall l:2 x:high-yield
 palette: lantern gold, jar glass and spotless green
-keywords: pulmonary metastases -> little pink baby crabs on a big sack of green dollar bills; completeness of resection -> Chopper sweeping the sack with a lantern and finding not one crab left, the very last baby crab dropped into a glass jar; incomplete resection -> one baby crab left hidden in a fold of a second sack, glowing red
+keywords: pulmonary metastases -> little pink baby crabs on a big sack of green dollar bills; completeness of resection -> Chopper sweeping the sack with a lantern and finding not one crab left, the very last baby crab dropped into a glass jar; incomplete resection -> one baby crab left hidden in a fold of a second sack, glowing red; lung -> a big sack of green dollar bills lying spotless and clean; death after incomplete resection -> a small coffin waiting in the shadows beside the second sack
 must: the main sack is COMPLETELY clean; one crab hides in the second sack's fold
-scene: The infirmary of the Thousand Sunny at night, one lantern. CENTRE, dominant and brightest: a big sack of green dollar bills lies spotless and clean, and Tony Tony Chopper, the little reindeer doctor in a pink top hat, sweeps it with a lantern, finds not one crab left, and drops the very last little pink baby crab into a glass jar already full of them, beaming. RIGHT, in the shadows: a second sack has one baby crab hidden in a fold, glowing red.
+scene: The infirmary of the Thousand Sunny at night, one lantern. CENTRE, dominant and brightest: a big sack of green dollar bills lies spotless and clean, and Tony Tony Chopper, the little reindeer doctor in a pink top hat, sweeps it with a lantern, finds not one crab left, and drops the very last little pink baby crab into a glass jar already full of them, beaming. RIGHT, in the shadows: a second sack has one baby crab hidden in a fold, glowing red, and a small coffin waits beside it.
 story:
 في ليلة هادئة في مستوصف الثاوزند صني، لم يكن يضيء إلّا فانوس واحد.
 وعلى المائدة كيس كبير من الدولارات الخضراء، كانت عليه صغار السرطانات.
@@ -240,7 +243,7 @@ titleAr: أفضل مرشّح لاستئصال النقائل: سرطان قول�
 tags: thoracic/lung-cancer d:indications q:vignette l:2
 palette: sausage brown, calendar white and dollar green
 words: 4
-keywords: colon cancer 4 years ago -> a red crab curled inside a long coiled sausage, beside a calendar painted 4; bilateral pulmonary metastases -> two little pink baby crabs, one on each of two sacks of green dollar bills; metastasectomy -> Zoro removing both baby crabs with two swords at once
+keywords: colon cancer 4 years ago -> a red crab curled inside a long coiled sausage, beside a calendar painted 4; bilateral pulmonary metastases -> two little pink baby crabs, one on each of two sacks of green dollar bills; metastasectomy -> Zoro removing both baby crabs with two swords at once; lungs -> two big sacks of green dollar bills hanging side by side
 must: there is exactly ONE baby crab on EACH of the two sacks; the calendar reads 4
 scene: Sanji's galley-dining room on the Thousand Sunny, warm light. LEFT: on a wall shelf a long coiled sausage with a small red crab curled inside it, dried and still, beside a big calendar painted 4. CENTRE, dominant and brightest: two big sacks of green dollar bills hang side by side, each with exactly one little pink baby crab on it, and Roronoa Zoro, swords in both hands, flicks off both baby crabs at the same instant. A healthy fifty-year-old sailor, the owner of the sacks, gives a thumbs-up.
 story:
