@@ -1,6 +1,6 @@
 # Where the work stands
 
-Updated 2026-11-22 (late, number symbols). Whoever works on YouTop next: read `CLAUDE.md`, then this, then
+Updated 2026-11-22 (evening, rules 6 and 7). Whoever works on YouTop next: read `CLAUDE.md`, then this, then
 `docs/content-guide.md` and the `youtop-lessons` skill. Rewrite this file whenever the state changes (it replaces the
 `status-<n>.txt` files in the Drive folder "YouTop private", which stop at 7).
 
@@ -19,6 +19,29 @@ The owner asked for two buttons on the left of the lesson screen: Good (they lik
 wrong, write what should change). They reach the agent as GitHub issues titled `Lesson feedback: …`; **check them at
 the start of every session** (CLAUDE.md, "Lesson feedback from the app"). Not tested on a real phone; the owner must be
 signed in to GitHub in the phone's browser for "Create" to work.
+
+## RULES 6 AND 7 (2026-11-22, evening): numbers drawn small; an anchor and twelve symbols per lesson
+
+The owner: "new rules, add them to the rules, and add the number rules. Some lessons have no anchor and not enough
+recurring symbols. The important things and the MCQ stem must have recurring symbols and an anchor. Focus on the
+question and the text of the correct option. Total symbols 12: recurring symbols 4/12, symbols 5, others. You can
+modify or edit recurring symbols."
+- **Rule 6 (numbers)** is now its own rule in the skill (it was a paragraph of rule 5), plus: no written digits in
+  what is drawn (`keywords:` objects, `anchor:`); `words` with digits only warns.
+- **Rule 7**: focus on the stem and the correct option; one **anchor** per lesson (`anchor: what is asked -> the image`,
+  the dominant focal point, naming at least one recurring symbol; the word "anchor" here is the lesson's central
+  image, not a symbol's anchor words); **twelve symbols** in `keywords:`, at least **4 recurring** (rule 5 raised from
+  3), **5 one-off**, up to 3 others; recurring symbols may be improved or edited (through the audit, keeping old anchor
+  words). Before this rule, recent Johns Hopkins lessons had a median of 6 symbols (3 recurring, 1-2 one-off).
+- Tools: `symbols.py` (`rule7`, `lesson_counts`, `anchor_problem`, `written_numbers`, `MIN_PER_LESSON = 4`);
+  `batch.py` (`anchor` field and template line; with an anchor the prompt makes it the focal point and the other
+  symbols "smaller but never tiny or muddled"; prompts without an anchor keep the old text). `prompts` refuses,
+  `build` warns. Tested by hand.
+- Symbol edited under the owner's permission: Down syndrome's football shirts no longer show a written 21; each shirt
+  is printed with a little dragon and a little unicorn (21).
+- **Not applied yet to the 329 lessons whose prompts the owner already has** (Johns Hopkins 11, 98, 99, 101,
+  103-422; MedCosmos 111, 123, 125, 128, 149; plus the 5 redraws 1, 34, 94, 96, 97). Asked the owner whether to
+  upgrade them (new prompts with an anchor and twelve symbols; their stories and voices would then be redone).
 
 ## NUMBER SYMBOLS (2026-11-22, late): one recurring symbol for each digit
 

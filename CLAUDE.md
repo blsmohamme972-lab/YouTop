@@ -226,8 +226,12 @@ under `book/chapter/lesson` on their phone.
   looks like it. They are small, as a tattoo, a painting on a wall or a design on an object in the scene, the digits
   side by side, left to right. The owner asked for exactly this ("visual numbers that sound like them, never lost
   from mind"; "a drawing on a wall that has meaning, or a tattoo on a hand ... not taking a big space").
-- Since 2026-11-22 every lesson carries at least three recurring symbols from `content/symbols.json`, named in its
-  keywords and drawn (the hotel and its rooms do not count); the tools refuse a new prompt with fewer.
+- Since 2026-11-22 every lesson focuses on its question stem and the text of the correct option (the owner's rule 7):
+  one **anchor**, the central image that joins what is asked to the correct answer, built on a recurring symbol
+  (`anchor:`), and **twelve symbols** in its picture: at least 4 recurring symbols from `content/symbols.json` (the
+  hotel and its rooms do not count; a number counts once), 5 one-off sound-alikes and up to 3 others, all named in its
+  `keywords:` and drawn. The tools refuse a new prompt that falls short. Recurring symbols may be improved or edited
+  (the owner allowed it), always through the audit.
 - The Arabic story is a real story with no medical explanation in it; the science is in the
   English explanation (see `docs/content-guide.md`, "The story is a story").
 - Each lesson plays story → explanation → question automatically, and waits there for the answer. "Question first"

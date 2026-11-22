@@ -24,8 +24,8 @@ which lessons the owner liked; make new ones in that spirit. Comment what was do
 ## The picture prompt is the most important step (the owner's rules, 2026-11-19)
 
 The image prompt is the most important step of all the work; the story is the second. Every prompt
-is written to these five rules. They come from memory research, and they apply to every book from
-MedCosmos Cardiac (lessons 1-20 are the first set written to them) onwards.
+is written to these seven rules (1-5 of 2026-11-19, 6 and 7 of 2026-11-22). They come from memory research and from
+the owner, and they apply to every book from MedCosmos Cardiac (lessons 1-20 are the first set written to them) onwards.
 
 1. **One interacting scene.** The elements act on each other inside one meaningful event (one
    pushes, squeezes, cuts or feeds another), never stand side by side. An interacting image binds
@@ -68,27 +68,54 @@ MedCosmos Cardiac (lessons 1-20 are the first set written to them) onwards.
    The same goes for one-off keywords in a scene: join the sound-alike to the meaning wherever possible. `batch.py prompts` and `build` refuse a batch
    whose `keywords:` draw a listed concept any other way (`symbols.py check batch.txt` shows why).
    Never invent a second symbol for a concept that already has one.
-   **Required since 2026-11-22 (the owner): every lesson carries at least three recurring symbols**, each named in
-   `keywords:` (a term of the symbol -> an object containing its anchor) and drawn in the scene. The HART Hotel and
-   its lobbies and engine rooms, the frame of every heart picture, do not count. `symbols.py check` and
-   `batch.py prompts` refuse a lesson with fewer; `batch.py build` only warns, so lessons already drawn can be rebuilt.
+   **Required since 2026-11-22 (the owner): every lesson carries at least four recurring symbols** (three until rule 7
+   the same evening), each named in `keywords:` (a term of the symbol -> an object containing its anchor words) and
+   drawn in the scene. The HART Hotel and its lobbies and engine rooms, the frame of every heart picture, do not
+   count. `symbols.py check` and `batch.py prompts` refuse a lesson with fewer; `batch.py build` only warns, so
+   lessons already drawn can be rebuilt.
    If the lesson's concept has no symbol yet and will come back, make one (with the audit above).
-   **Numbers (since 2026-11-22, the owner): a number the answer depends on is drawn, never written,** with the
-   number symbols (`content/symbols.md`, "Numbers"): 0 golden whistle, 1 white unicorn, 2 green dragon, 3 red fox
-   with three tails, 4 graduation cap, 5 blue hamsa hand, 6 the Sitt in a golden gown, 7 swimmer, 8 violin, 9 monkey
-   hanging by its tail, decimal point = golden drop. **Small**, as a drawing that belongs in the scene: a tattoo on a
-   hand or arm, a painting on a wall, or a design painted, carved or printed on an object (best on the thing whose
-   value it gives); clear, harmonious with the picture, never a big object. The digits side by side, the same size,
-   left to right; a repeated digit twice. The story names the digits in order by their Arabic names
+6. **Numbers are drawn, never written (the owner, 2026-11-22).** A number the answer depends on is drawn with
+   the number symbols (`content/symbols.md`, "Numbers"): 0 golden whistle, 1 white unicorn, 2 green dragon, 3 red
+   fox with three tails, 4 graduation cap, 5 blue hamsa hand, 6 the Sitt in a golden gown, 7 swimmer, 8 violin, 9
+   monkey hanging by its tail, decimal point = golden drop. Each sounds like its digit in Arabic, holds it and looks
+   like it. **Small**, as a drawing that belongs in the scene: a tattoo on a hand or arm, a painting on a wall, or a
+   design painted, carved or printed on an object (best on the thing whose value it gives); clear, harmonious with
+   the picture, never a big object. The digits side by side, the same size, left to right; a repeated digit twice.
+   The story names the digits in order by their Arabic names
    (الصفّارة، وحيد القرن، التنّين، الثعلب، القبّعة، الخمسة، الستّ، السبّاح، الكمان، السعدان، النقطة).
    `keywords:` `number 5.5 (what it measures) -> a small tattoo on ...: the objects in digit order`, checked by
-   `symbols.py check` (digits in order, and where it is drawn); a number counts as one recurring symbol. Never use
-   these eleven objects for anything else.
+   `symbols.py check` (digits in order, and where it is drawn); a number counts as one recurring symbol. No written
+   digits anywhere in what is drawn (`keywords:` objects, `anchor:`; `words` only warns). Never use these eleven
+   objects for anything else.
+7. **An anchor and twelve symbols, on the question and its correct answer (the owner, 2026-11-22).** The owner found
+   lessons without an anchor and with too few recurring symbols, and asked that the important things and the MCQ
+   stem always have recurring symbols and an anchor, with the focus on the question and the text of the correct option:
+   - **Focus.** Every important thing in the stem (what is asked, the patient and setting that matter, the findings,
+     the numbers) and every term of the correct option gets a symbol; a recurring one wherever the concept has one.
+     Wrong options only as rule 3 allows.
+   - **The anchor.** One central image that holds the question and its correct answer together: what the stem asks
+     about, drawn as its recurring symbol, doing or showing the correct answer. It is the dominant focal point of
+     rule 3, and the other symbols act on it or around it. In `batch.txt`: `anchor: what is asked -> the image`
+     (for example `anchor: when to replace the ascending aorta -> the swollen orca balloon lifted onto the surgeon's
+     table, a small tattoo on its side: a hamsa hand, a golden drop and a hamsa hand`). Its image must name at least
+     one recurring symbol. (Not the same thing as a symbol's *anchor words* in symbols.json, the words a prompt
+     must contain to draw that symbol.)
+   - **Twelve symbols in each picture**, all listed in `keywords:`: **at least 4 recurring** (from symbols.json; the
+     hotel frame does not count; a number counts once), **5 one-off** sound-alikes (rule 2) for the stem's and the
+     answer's terms that have no recurring symbol, and **up to 3 others** (more recurring ones, a number, a wrong option
+     shown wrong). Twelve, not many more: the anchor is big; the others are smaller but each unmistakable.
+   - **Recurring symbols may be improved or edited** (the owner allowed it): when a concept of the stem or the
+     answer has no recurring symbol and will come back, make one; when one is weak, improve it. Audit after every
+     change, and keep a changed symbol's old anchor words among its anchors, so pictures already drawn still match.
+   `symbols.py check` and `batch.py prompts` refuse a lesson without an anchor, or with fewer than 12 symbols, 4
+   recurring or 5 one-off; `batch.py build` only warns, so lessons drawn before this rule can be rebuilt. The prompt
+   draws the anchor as the focal point and the other symbols around it.
 
-Before handing over a prompt, read it against the five rules: does every element interact? Has every
-abstract term of the answer a concrete keyword? Is the answer the brightest, largest thing? Is
-anything decorative left? Is ordered information on a route? Are recurring concepts drawn with
-their audited symbol (`symbols.py check`)?
+Before handing over a prompt, read it against the seven rules: does every element interact? Has every
+term of the stem and of the correct answer a concrete symbol? Is the anchor (what is asked, showing the correct
+answer) the brightest, largest thing? Is anything decorative left? Is ordered information on a route? Are recurring
+concepts drawn with their audited symbol, at least four of them? Is every number a small drawing of the number
+symbols, never digits? Twelve symbols: 4+ recurring, 5 one-off (`symbols.py check`)?
 
 ## The standard order (the owner's decision, 2026-11-16; lessons 41-45 are the worked set)
 
@@ -126,12 +153,12 @@ Per question (format at the top of `batch.py`):
 - `title` / `titleAr`: the teaching point, short.
 - `tags`: 1-2 topics, 1-2 `d:`, exactly one `q:`, exactly one `l:`, any `x:` — from
   `content/taxonomy.txt`. Tag what the question *tests*, not its chapter.
-- `palette`, `scene`, `keywords`, optional `words`: the picture, written to the five rules above.
-  One dominant focal point that carries the answer; few, large elements, each in its own area,
-  each standing for one fact and acting on another; a different colour scheme every time; the
-  book's theme (`theme` in its json, e.g. New York City); metaphors, no anatomy. `keywords` = the
-  sound-alike objects (rule 2) and recurring symbols (rule 5) the scene uses. `words` = at most
-  three short labels or numbers painted in it.
+- `palette`, `scene`, `keywords`, `anchor`, optional `words`: the picture, written to the seven rules above.
+  The anchor (rule 7) is the one dominant focal point and carries the question's answer; the other symbols, twelve in
+  all, each stand for one fact of the stem or the correct answer, each in its own place, acting on the anchor or on
+  one another; a different colour scheme every time; the book's theme (`theme` in its json, e.g. New York City);
+  metaphors, no anatomy. `keywords` = the twelve symbols: recurring ones (rule 5, at least four), one-off sound-alikes
+  (rule 2, five) and numbers (rule 6). `words` = at most three short labels painted in it, never numbers.
 - `story:` 8-11 short Arabic sentences, one per line. A real story in the manner of the book's
   author (people with names, an event, a turn), in eloquent, forceful classical Arabic. Every
   object of the scene appears and *does* something; numbers painted in the picture are said.
