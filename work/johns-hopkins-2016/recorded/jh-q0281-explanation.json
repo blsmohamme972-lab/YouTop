@@ -1,0 +1,21 @@
+{
+ "file": "jh-q0281-explanation-en.m4a",
+ "sig": "e782c8e300b643e7f0772dca0e1ccd8f21df1ea12d225f8a8baae2f8663cf7a1",
+ "starts": [
+  0,
+  8241,
+  19614,
+  29260,
+  37679,
+  47252
+ ],
+ "seconds": 52.1,
+ "texts": [
+  "Delayed enhancement MRI is used for the detection of myocardial scar and infarction (nonviable myocardium): D.",
+  "Gadolinium leaves normal muscle quickly but lingers in the wide spaces of scar, so on images taken about 10 minutes after the injection the scar is bright and living muscle is dark.",
+  "The depth of the bright area predicts viability: segments with less than about half their thickness scarred are likely to recover after revascularization.",
+  "In the picture, after the gold dust and the empty hourglass, the dead scar glows white like a ghost while the living muscle stays dark.",
+  "Perfusion is seen on the first pass of the contrast, oedema on T2-weighted images, and the coronary arteries by MR or CT angiography.",
+  "Memory hook: on the late picture, dead muscle glows like a ghost."
+ ]
+}
