@@ -2613,6 +2613,2809 @@
      "means": "The one who stopped before ten years"
     }
    ]
+  },
+  {
+   "id": "jh-q0134",
+   "title": "CABG is indicated in two-vessel disease with poor left ventricular function",
+   "titleAr": "المجازة التاجية مستطبّة في مرض وعاءين مع ضعف وظيفة البطين الأيسر",
+   "tags": [
+    "cardiac/coronary",
+    "d:indications",
+    "q:recall",
+    "l:2",
+    "x:high-yield"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في الفندق القديم ذي رأس الأيّل، كانت المروحة العملاقة في الغرفة الحمراء تدور بضعف.",
+       "t": 0,
+       "spot": {
+        "x": 0.55,
+        "y": 0.78,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "والحارس على بابها متهالك على الجدار، لا يكاد يطرد أحدًا.",
+       "t": 7116,
+       "spot": {
+        "x": 0.4,
+        "y": 0.92,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "وعلى السطح، شوكتان من شوكات التاج الأخضر مسدودتان بالقطران الأسود.",
+       "t": 12508,
+       "spot": {
+        "x": 0.5,
+        "y": 0.24,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "«المروحة ضعيفة جدًّا، لا نلمسها، نتركها كما هي!» قال أوسوب خائفًا.",
+       "t": 18451
+      },
+      {
+       "text": "فمرّت الأيّام، والمروحة تزداد ضعفًا.",
+       "t": 26032,
+       "spot": {
+        "x": 0.55,
+        "y": 0.78,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "فصعد سانجي إلى السطح، والسّيجارة في فمه، والعزم في عينه.",
+       "t": 30032,
+       "spot": {
+        "x": 0.6,
+        "y": 0.1,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "ووضع أوراق ملفوف كبيرةً على الشوكتين المسدودتين كلتيهما.",
+       "t": 35581,
+       "spot": {
+        "x": 0.5,
+        "y": 0.22,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "فنزل الفحم إلى الغرفة الحمراء، واعتدل الحارس على بابها.",
+       "t": 40823,
+       "spot": {
+        "x": 0.4,
+        "y": 0.9,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«شوكتان مسدودتان ومروحة ضعيفة؟ هذا بالضّبط وقت الملفوف!» قال تشوبر.",
+       "t": 45956
+      },
+      {
+       "text": "فسأل أوسوب لوفي إن كان يعرف أنّ سانجي سيقدر، فقال لوفي ما قاله يومًا لصديقه كوبي:",
+       "t": 53128
+      },
+      {
+       "text": "«ليست المسألة أن أقدر أو لا أقدر؛ سأفعلها لأنّي أريد ذلك!»",
+       "quote": "ون بيس، مونكي دي لوفي",
+       "t": 61098
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0134-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "Coronary bypass is indicated in two-vessel disease with depressed left ventricular function, where it improves survival: C is the answer.",
+       "t": 0,
+       "spot": {
+        "x": 0.55,
+        "y": 0.78,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "A left main stenosis of 50 percent or more is an indication for bypass, and three-vessel disease with good function and mild ischaemia does not need urgent operation.",
+       "t": 9049
+      },
+      {
+       "text": "An ejection fraction below 20 percent is not an absolute indication; the amount of viable muscle decides.",
+       "t": 19747,
+       "spot": {
+        "x": 0.4,
+        "y": 0.9,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "Haemodynamic instability after an acute infarction is an indication for emergency bypass, not a contraindication.",
+       "t": 27431
+      },
+      {
+       "text": "Memory hook: two tarred spikes and a tired bouncer, so Sanji lays the cabbage.",
+       "t": 35102,
+       "spot": {
+        "x": 0.5,
+        "y": 0.3,
+        "r": 0.3
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0134-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which of the following statements is true regarding indications for coronary artery bypass?",
+     "options": [
+      "50 percent left main stenosis is equally well treated with PTCA or CAB.",
+      "Patients with three-vessel disease, good LV function, and mild ischemia should have urgent operation.",
+      "CAB is indicated in two-vessel disease and depressed LV function.",
+      "Depression of LV function below 20 percent is an absolute indication for CAB.",
+      "Acute hemodynamic instability after acute MI is a contraindication to emergent CAB."
+     ],
+     "answer": 2,
+     "explain": "Coronary bypass is indicated in two-vessel disease with depressed left ventricular function, where it improves survival: C is the answer. A left main stenosis of 50 percent or more is an indication for bypass, and three-vessel disease with good function and mild ischaemia does not need urgent operation. An ejection fraction below 20 percent is not an absolute indication; the amount of viable muscle decides. Haemodynamic instability after an acute infarction is an indication for emergency bypass, not a contraindication. Memory hook: two tarred spikes and a tired bouncer, so Sanji lays the cabbage.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q27.4",
+     "marks": [
+      2,
+      3,
+      4,
+      5
+     ],
+     "answerMarks": [
+      1,
+      6
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0134.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.22,
+      "r": 0.22
+     },
+     "what": "Cabbage leaves on both tarred spikes",
+     "means": "Coronary bypass (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.22,
+      "y": 0.24,
+      "r": 0.1
+     },
+     "what": "One tarred spike of the crown",
+     "means": "Two-vessel disease"
+    },
+    {
+     "spot": {
+      "x": 0.78,
+      "y": 0.24,
+      "r": 0.1
+     },
+     "what": "The second tarred spike",
+     "means": "Two-vessel disease"
+    },
+    {
+     "spot": {
+      "x": 0.55,
+      "y": 0.78,
+      "r": 0.13
+     },
+     "what": "Giant fan turning weakly",
+     "means": "Depressed LV function"
+    },
+    {
+     "spot": {
+      "x": 0.4,
+      "y": 0.9,
+      "r": 0.09
+     },
+     "what": "Bouncer slumped at the door",
+     "means": "Low ejection fraction"
+    },
+    {
+     "spot": {
+      "x": 0.6,
+      "y": 0.1,
+      "r": 0.11
+     },
+     "what": "Sanji laying the cabbage",
+     "means": "Bypass improves survival here"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0135",
+   "title": "Up to 75 percent have subtle neurobehavioural deficits after CABG",
+   "titleAr": "ما يصل إلى 75 بالمئة لديهم اضطرابات عصبية سلوكية خفيفة بعد المجازة",
+   "tags": [
+    "cardiac/coronary",
+    "d:complications",
+    "q:numbers",
+    "l:3"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "على سطح سفينة في الصباح، رفعت راية على الصاري مكتوب عليها خمسة وسبعون.",
+       "t": 0,
+       "spot": {
+        "x": 0.6,
+        "y": 0.15,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "وتمشّى أربعة بحّارة على سترهم أوراق ملفوف كبيرة.",
+       "t": 6987,
+       "spot": {
+        "x": 0.5,
+        "y": 0.6,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "وحول رؤوس ثلاثة منهم خيط خفيف من ضباب بنفسجيّ.",
+       "t": 12185,
+       "spot": {
+        "x": 0.35,
+        "y": 0.45,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "وكان الضباب يخرج من عادم شاحنة المضخّة الدوّارة، المتوقّفة عند الصاري.",
+       "t": 17528,
+       "spot": {
+        "x": 0.25,
+        "y": 0.38,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«انظروا! هؤلاء الثلاثة لن يستطيعوا المشي من الضباب!» صاح أوسوب.",
+       "t": 24293,
+       "spot": {
+        "x": 0.1,
+        "y": 0.1,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "لكنّهم كانوا يمشون جيّدًا، ويبتسمون.",
+       "t": 30810,
+       "spot": {
+        "x": 0.5,
+        "y": 0.7,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "غير أنّ أحدهم أخذ يتحسّس جيوبه بحثًا عن مفتاح نسيه، وحكّ الثاني رأسه يبحث عن كلمة، وحدّق الثالث في رسالة لم يكملها.",
+       "t": 35083,
+       "spot": {
+        "x": 0.4,
+        "y": 0.6,
+        "r": 0.22
+       }
+      },
+      {
+       "text": "«الضباب خفيف، لا يراه إلّا من يدقّق؛ لكنّه عند ثلاثة من أربعة!» قال تشوبر.",
+       "t": 46279
+      },
+      {
+       "text": "والرّابع رأسه صاف تمامًا.",
+       "t": 53633,
+       "spot": {
+        "x": 0.85,
+        "y": 0.55,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "وفي عرض البحر، ومضت صاعقة صغيرة واحدة بعيدة، لم تصب أحدًا.",
+       "t": 56680,
+       "spot": {
+        "x": 0.9,
+        "y": 0.38,
+        "r": 0.04
+       }
+      },
+      {
+       "text": "ثمّ سمع من بعيد كمان بروك يعزف لحنًا قديمًا، فتوقّف الثلاثة يسمعون.",
+       "t": 63510
+      },
+      {
+       "text": "فقد ينسى المفتاح والكلمة، أمّا الوعد فلا ينسى، كما قال بروك:",
+       "t": 70399
+      },
+      {
+       "text": "«وعدت لابون أن أعود إليه!»",
+       "quote": "ون بيس، بروك",
+       "t": 76959
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0135-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "Up to 75 percent of patients have evidence of subtle neurobehavioural deficits after coronary bypass, often temporary: A is the answer.",
+       "t": 0,
+       "spot": {
+        "x": 0.6,
+        "y": 0.15,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "Gross neurological deficits are far less common than 20 percent, even in patients over 75.",
+       "t": 10102,
+       "spot": {
+        "x": 0.9,
+        "y": 0.38,
+        "r": 0.04
+       }
+      },
+      {
+       "text": "Functional capacity improves after operation, and most patients have improvement in their regional perfusion defects.",
+       "t": 17212
+      },
+      {
+       "text": "Hibernating segments that are akinetic, not only hypokinetic ones, can recover systolic function.",
+       "t": 25278
+      },
+      {
+       "text": "Memory hook: a faint lilac mist curls around three of the four heads under the banner 75.",
+       "t": 32423,
+       "spot": {
+        "x": 0.35,
+        "y": 0.45,
+        "r": 0.18
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0135-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which is true regarding outcomes after CAB?",
+     "options": [
+      "Up to 75 percent of patients have e vidence of subtle neurobehavioral deficits.",
+      "Gross neurologic deficit occurs in about 20 percent of patients over age 75.",
+      "Functional capacity is not improved after operation.",
+      "Less than 50 percent of patients have improvement in regional perfusion defects.",
+      "Only hypokinetic areas can be expected to have improved systolic function."
+     ],
+     "answer": 0,
+     "explain": "Up to 75 percent of patients have evidence of subtle neurobehavioural deficits after coronary bypass, often temporary: A is the answer. Gross neurological deficits are far less common than 20 percent, even in patients over 75. Functional capacity improves after operation, and most patients have improvement in their regional perfusion defects. Hibernating segments that are akinetic, not only hypokinetic ones, can recover systolic function. Memory hook: a faint lilac mist curls around three of the four heads under the banner 75.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q27.5",
+     "marks": [
+      3,
+      4
+     ],
+     "answerMarks": [
+      1,
+      2
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0135.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.6,
+      "y": 0.15,
+      "r": 0.13
+     },
+     "what": "Banner reading 75",
+     "means": "Up to 75% have subtle deficits (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.35,
+      "y": 0.46,
+      "r": 0.16
+     },
+     "what": "Faint lilac mist round three heads",
+     "means": "Subtle neurobehavioural deficits"
+    },
+    {
+     "spot": {
+      "x": 0.25,
+      "y": 0.38,
+      "r": 0.12
+     },
+     "what": "Pump truck giving off the mist",
+     "means": "Cardiopulmonary bypass as a cause"
+    },
+    {
+     "spot": {
+      "x": 0.4,
+      "y": 0.62,
+      "r": 0.14
+     },
+     "what": "Forgotten key, lost word, letter",
+     "means": "Memory and attention slips"
+    },
+    {
+     "spot": {
+      "x": 0.9,
+      "y": 0.38,
+      "r": 0.04
+     },
+     "what": "One small far lightning bolt",
+     "means": "Gross stroke is far rarer"
+    },
+    {
+     "spot": {
+      "x": 0.85,
+      "y": 0.55,
+      "r": 0.09
+     },
+     "what": "The fourth sailor, clear-headed",
+     "means": "One in four unaffected"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0136",
+   "title": "The primary goal of off-pump CABG is lower morbidity and mortality",
+   "titleAr": "الهدف الأوّل للمجازة دون مضخّة هو خفض المضاعفات والوفيات",
+   "tags": [
+    "cardiac/coronary",
+    "d:technique",
+    "q:recall",
+    "l:2"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في ساحة بلدة هادئة، وقف الفندق القديم ذو رأس الأيّل، ومروحتاه تدوران كعادتهما.",
+       "t": 0,
+       "spot": {
+        "x": 0.25,
+        "y": 0.35,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "وعلى سطحه، أخذ سانجي يضع أوراق الملفوف على التاج الأخضر، دون أن يوقف شيئًا.",
+       "t": 7498,
+       "spot": {
+        "x": 0.4,
+        "y": 0.15,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "وبجانب الفندق شاحنة المضخّة الدوّارة، محرّكها مطفأ، ومفتاحها معلّق على خطّاف.",
+       "t": 14358,
+       "spot": {
+        "x": 0.15,
+        "y": 0.65,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "«لماذا كلّ هذا التعب؟ ليكون أرخص؟ أم ليكون الملفوف أكثر؟» سأل أوسوب.",
+       "t": 21919
+      },
+      {
+       "text": "«لا هذا ولا ذاك. انظر إلى الجهة الأخرى من الساحة.» قال تشوبر.",
+       "t": 29615
+      },
+      {
+       "text": "وهناك، جلس صانع التوابيت على باب دكّانه يتثاءب، لا عمل لديه.",
+       "t": 35677,
+       "spot": {
+        "x": 0.75,
+        "y": 0.7,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "لم يبق في دكّانه إلّا تابوت صغير واحد.",
+       "t": 41778,
+       "spot": {
+        "x": 0.88,
+        "y": 0.6,
+        "r": 0.07
+       }
+      },
+      {
+       "text": "وبجانب بابه رفّ للعكّازات، فارغ تمامًا.",
+       "t": 45326,
+       "spot": {
+        "x": 0.95,
+        "y": 0.6,
+        "r": 0.07
+       }
+      },
+      {
+       "text": "«توابيت أقلّ، وعكّازات أقلّ؛ هذا هو الهدف!» قال تشوبر.",
+       "t": 49597
+      },
+      {
+       "text": "فتذكّر الرفاق بحّارًا شابًّا وقف يومًا بين جيشين يصرخ:",
+       "t": 55443
+      },
+      {
+       "text": "«كفى! أوقفوا القتال! الأرواح تزهق بلا فائدة!»",
+       "quote": "ون بيس، كوبي",
+       "t": 61144
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0136-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "The primary goal of off-pump coronary bypass is to decrease morbidity and mortality: D is the answer.",
+       "t": 0,
+       "spot": {
+        "x": 0.82,
+        "y": 0.65,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "It avoids the inflammatory and embolic effects of cardiopulmonary bypass and, with careful technique, manipulation of the aorta.",
+       "t": 7148,
+       "spot": {
+        "x": 0.15,
+        "y": 0.65,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "It does not aim at more grafts, all-arterial grafting, lower cost or more referrals.",
+       "t": 16283
+      },
+      {
+       "text": "Memory hook: the fans keep turning, the pump truck sleeps, and the coffin-maker yawns with one small coffin left.",
+       "t": 22183,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.35
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0136-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "The primary goal of OPCAB is:",
+     "options": [
+      "Achieving the greatest number of grafts",
+      "Performing all-arterial grafting",
+      "Reducing cost of CAB",
+      "Decreasing morbidity and mortality",
+      "Increasing patient referrals"
+     ],
+     "answer": 3,
+     "explain": "The primary goal of off-pump coronary bypass is to decrease morbidity and mortality: D is the answer. It avoids the inflammatory and embolic effects of cardiopulmonary bypass and, with careful technique, manipulation of the aorta. It does not aim at more grafts, all-arterial grafting, lower cost or more referrals. Memory hook: the fans keep turning, the pump truck sleeps, and the coffin-maker yawns with one small coffin left.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q28.1",
+     "marks": [
+      4,
+      5,
+      6
+     ],
+     "answerMarks": [
+      1,
+      2,
+      3
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0136.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.75,
+      "y": 0.7,
+      "r": 0.14
+     },
+     "what": "Coffin maker yawning, no work",
+     "means": "Lower mortality: the goal (D)"
+    },
+    {
+     "spot": {
+      "x": 0.95,
+      "y": 0.6,
+      "r": 0.06
+     },
+     "what": "Empty rack for crutches",
+     "means": "Lower morbidity"
+    },
+    {
+     "spot": {
+      "x": 0.88,
+      "y": 0.6,
+      "r": 0.06
+     },
+     "what": "One small coffin left",
+     "means": "Fewer deaths"
+    },
+    {
+     "spot": {
+      "x": 0.15,
+      "y": 0.65,
+      "r": 0.12
+     },
+     "what": "Pump truck parked, engine off",
+     "means": "No cardiopulmonary bypass"
+    },
+    {
+     "spot": {
+      "x": 0.3,
+      "y": 0.38,
+      "r": 0.12
+     },
+     "what": "Hotel fans still turning",
+     "means": "Beating-heart surgery"
+    },
+    {
+     "spot": {
+      "x": 0.4,
+      "y": 0.15,
+      "r": 0.13
+     },
+     "what": "Sanji laying cabbage on the crown",
+     "means": "Off-pump coronary bypass"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0137",
+   "title": "Off-pump CABG suits elective operations best",
+   "titleAr": "المجازة دون مضخّة تناسب العمليات المجدولة أكثر",
+   "tags": [
+    "cardiac/coronary",
+    "d:indications",
+    "q:recall",
+    "l:2"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في صباح مشمس على الميناء، علّق على جدار العيادة تقويم كبير، وعليه يوم واحد محاط بدائرة حمراء منذ زمن بعيد.",
+       "t": 0,
+       "spot": {
+        "x": 0.9,
+        "y": 0.49,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "وجاء بحّار هادئ يحمل حقيبةً صغيرة، ورفع قبّعته مبتسمًا.",
+       "t": 11112,
+       "spot": {
+        "x": 0.2,
+        "y": 0.6,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "وبجانبه فندق صغير ذو رأس أيّل، مروحتاه تدوران، وعلى تاجه أوراق الملفوف، وشاحنة المضخّة مطفأة بجانبه.",
+       "t": 17750,
+       "spot": {
+        "x": 0.55,
+        "y": 0.5,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "«لنجرّب هذه الطريقة أيضًا على الفندق المرتجف في العاصفة!» قال أوسوب مشيرًا إلى البعيد.",
+       "t": 28932,
+       "spot": {
+        "x": 0.23,
+        "y": 0.11,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "ففي الأفق البعيد، تحت عاصفة سوداء، كان فندق يرتجف ويدفع مسرعًا نحو شاحنة تعمل مضخّتها.",
+       "t": 36495,
+       "spot": {
+        "x": 0.35,
+        "y": 0.13,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "«ذلك يحتاج الشاحنة الدائرة. هذه الطريقة للأيّام الهادئة الموعودة!» قال تشوبر.",
+       "t": 46317,
+       "spot": {
+        "x": 0.72,
+        "y": 0.64,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "وعزف بروك لحنًا هادئًا، والبحّار يدخل في موعده تمامًا.",
+       "t": 53937,
+       "spot": {
+        "x": 0.82,
+        "y": 0.15,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "ولمّا خرج سليمًا، نظر إلى الدائرة الحمراء في التقويم.",
+       "t": 59920,
+       "spot": {
+        "x": 0.96,
+        "y": 0.52,
+        "r": 0.06
+       }
+      },
+      {
+       "text": "وتذكّر أميرةً ودّعت الرفاق على الشاطئ، وسألتهم عن لقاء آخر:",
+       "t": 65448
+      },
+      {
+       "text": "«إن التقينا يومًا من جديد، أتنادونني رفيقتكم؟»",
+       "quote": "ون بيس، نفرتاري فيفي",
+       "t": 72823
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0137-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "Off-pump coronary bypass is most appropriate in elective patients: A is the answer.",
+       "t": 0,
+       "spot": {
+        "x": 0.9,
+        "y": 0.49,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "Unstable patients, such as those with an acute infarction and a cardiac index below 1, or with pulmonary oedema and a low index, are safer on cardiopulmonary bypass, which supports the circulation while the grafts are done.",
+       "t": 6074,
+       "spot": {
+        "x": 0.35,
+        "y": 0.13,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "Converting to bypass in an emergency carries a high risk.",
+       "t": 20850,
+       "spot": {
+        "x": 0.5,
+        "y": 0.18,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "Memory hook: a date circled long ago on a sunny calendar, while the shaking hotel in the storm goes to the running pump truck.",
+       "t": 25064,
+       "spot": {
+        "x": 0.5,
+        "y": 0.35,
+        "r": 0.35
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0137-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which of the following settings is most appropriate for OPCAB?",
+     "options": [
+      "Elective",
+      "Acute MI with cardiac index less than 1 L/min/m2",
+      "Pulmonary edema with cardiac index between 1 and 2 L/min/m2",
+      "None of the above",
+      "All of the above"
+     ],
+     "answer": 0,
+     "explain": "Off-pump coronary bypass is most appropriate in elective patients: A is the answer. Unstable patients, such as those with an acute infarction and a cardiac index below 1, or with pulmonary oedema and a low index, are safer on cardiopulmonary bypass, which supports the circulation while the grafts are done. Converting to bypass in an emergency carries a high risk. Memory hook: a date circled long ago on a sunny calendar, while the shaking hotel in the storm goes to the running pump truck.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q28.2",
+     "marks": [
+      3,
+      4
+     ],
+     "answerMarks": [
+      1,
+      2
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0137.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.96,
+      "y": 0.52,
+      "r": 0.05
+     },
+     "what": "Red circle on the calendar",
+     "means": "Elective: a planned day (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.22,
+      "y": 0.6,
+      "r": 0.18
+     },
+     "what": "Calm sailor with a small bag",
+     "means": "Stable patient, booked ahead"
+    },
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.44,
+      "r": 0.17
+     },
+     "what": "Calm hotel, fans still turning",
+     "means": "Beating-heart (off-pump) surgery"
+    },
+    {
+     "spot": {
+      "x": 0.72,
+      "y": 0.64,
+      "r": 0.13
+     },
+     "what": "Pump truck parked, engine off",
+     "means": "No cardiopulmonary bypass"
+    },
+    {
+     "spot": {
+      "x": 0.24,
+      "y": 0.11,
+      "r": 0.11
+     },
+     "what": "Hotel shaking in the storm",
+     "means": "Unstable patient (shock, oedema)"
+    },
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.18,
+      "r": 0.07
+     },
+     "what": "Far truck with its pump running",
+     "means": "Unstable cases go on bypass"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0138",
+   "title": "Off-pump CABG anticoagulation (book): full-dose heparin and an ACT every 20 minutes",
+   "titleAr": "منع التخثّر في المجازة دون مضخّة (حسب الكتاب): جرعة هيبارين كاملة وفحص كل 20 دقيقة",
+   "tags": [
+    "cardiac/coronary",
+    "d:technique",
+    "q:numbers",
+    "l:3"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في غرفة القلب على الثاوزند صني، كان فندق صغير على الطاولة، مروحتاه تدوران، وعلى تاجه أوراق الملفوف.",
+       "t": 0,
+       "spot": {
+        "x": 0.22,
+        "y": 0.67,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "وشاحنة المضخّة بجانبه مطفأة.",
+       "t": 9375,
+       "spot": {
+        "x": 0.82,
+        "y": 0.81,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«الشاحنة مطفأة، فيكفينا أرنب صغير، نصف أرنب!» قال أوسوب.",
+       "t": 12870,
+       "spot": {
+        "x": 0.3,
+        "y": 0.4,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "لكنّ أرنبًا بنّيًّا كبيرًا، بحجمه الكامل، قفز إلى جانب الفندق، ورفع لافتةً مكتوبًا عليها ثلاثمئة.",
+       "t": 19535,
+       "spot": {
+        "x": 0.3,
+        "y": 0.3,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "«الأرنب يأتي هنا كاملًا، ثلاثمئة، لا نصف أرنب!» قالت نامي.",
+       "t": 29115,
+       "spot": {
+        "x": 0.37,
+        "y": 0.38,
+        "r": 0.16
+       }
+      },
+      {
+       "text": "ثمّ قلبت نامي ساعةً رمليّةً ذهبيّةً مكتوبًا عليها عشرون.",
+       "t": 35535,
+       "spot": {
+        "x": 0.62,
+        "y": 0.62,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "فلمّا فرغت قلبتها مرّةً ثانية، ثمّ ثالثة، وخطّت على الحائط علامةً لكلّ مرّة.",
+       "t": 40485,
+       "spot": {
+        "x": 0.84,
+        "y": 0.34,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "«كلّ عشرين دقيقةً تقلب الساعة، ولا تنسى مرّةً واحدة!» قال تشوبر.",
+       "t": 48319,
+       "spot": {
+        "x": 0.62,
+        "y": 0.62,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "فدخل فرانكي، ورأى الأرنب الكبير واقفًا كالجبل.",
+       "t": 54617,
+       "spot": {
+        "x": 0.3,
+        "y": 0.4,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "فضمّ ذراعيه فوق رأسه وصاح:",
+       "t": 59360
+      },
+      {
+       "text": "«أنا سوبر هذا الأسبوع!»",
+       "quote": "ون بيس، فرانكي",
+       "t": 63026
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0138-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "In the book, off-pump bypass uses full-dose heparin, 300 units per kilogram, and the activated clotting time is repeated every 20 minutes: D, A and C, is the answer.",
+       "t": 0,
+       "spot": {
+        "x": 0.37,
+        "y": 0.38,
+        "r": 0.16
+       }
+      },
+      {
+       "text": "The book keeps the activated clotting time well above 250 seconds, so B is wrong.",
+       "t": 13510,
+       "spot": {
+        "x": 0.62,
+        "y": 0.62,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "Without the pump, the coronary arteries are still opened and blood stagnates around the stabilizer, so clotting must be prevented.",
+       "t": 19894,
+       "spot": {
+        "x": 0.22,
+        "y": 0.67,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "Memory hook: a full-size hare holds up 300, and Nami turns the 20-minute hourglass again and again.",
+       "t": 28460,
+       "spot": {
+        "x": 0.5,
+        "y": 0.45,
+        "r": 0.4
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0138-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which of the following is true regarding anticoagulation for OPCAB?",
+     "options": [
+      "Full-dose heparin (300 units/kg) should be used.",
+      "ACT should be maintained around 250 s.",
+      "Repeat ACT should be performed every 20 min.",
+      "A and C",
+      "All of the above"
+     ],
+     "answer": 3,
+     "explain": "In the book, off-pump bypass uses full-dose heparin, 300 units per kilogram, and the activated clotting time is repeated every 20 minutes: D, A and C, is the answer. The book keeps the activated clotting time well above 250 seconds, so B is wrong. Without the pump, the coronary arteries are still opened and blood stagnates around the stabilizer, so clotting must be prevented. Memory hook: a full-size hare holds up 300, and Nami turns the 20-minute hourglass again and again. Practice varies: many centres give a reduced dose of about 150 to 200 units/kg for off-pump surgery and aim for an ACT above about 250 to 300 s. The book's key is full dose (300 units/kg) with an ACT every 20 minutes.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q28.3",
+     "marks": [
+      4,
+      5
+     ],
+     "answerMarks": [
+      1,
+      2,
+      3
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0138.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.37,
+      "y": 0.37,
+      "r": 0.14
+     },
+     "what": "Full-size hare holding up 300",
+     "means": "Full-dose heparin, 300 U/kg (A)"
+    },
+    {
+     "spot": {
+      "x": 0.62,
+      "y": 0.62,
+      "r": 0.09
+     },
+     "what": "Nami's hourglass marked 20",
+     "means": "ACT checked every 20 minutes (C)"
+    },
+    {
+     "spot": {
+      "x": 0.84,
+      "y": 0.34,
+      "r": 0.07
+     },
+     "what": "Tally marks on the wall",
+     "means": "ACT checked again and again"
+    },
+    {
+     "spot": {
+      "x": 0.82,
+      "y": 0.81,
+      "r": 0.11
+     },
+     "what": "Pump truck parked, engine off",
+     "means": "Off-pump, yet full heparin"
+    },
+    {
+     "spot": {
+      "x": 0.22,
+      "y": 0.67,
+      "r": 0.16
+     },
+     "what": "Small hotel, fans spinning",
+     "means": "Beating heart; blood stagnates near the stabilizer"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0139",
+   "title": "Intracoronary shunts (book): used routinely after thorough simulator training",
+   "titleAr": "التحويلات داخل الشريان التاجي (حسب الكتاب): تُستعمل روتينيًا بعد تدريب وافٍ على المحاكي",
+   "tags": [
+    "cardiac/coronary",
+    "d:technique",
+    "q:recall",
+    "l:3",
+    "x:trap"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في ورشة فرانكي، جلس على طاولة العمل فندق تدريبيّ مغطًّى بعشرات الغرز القديمة.",
+       "t": 0,
+       "spot": {
+        "x": 0.69,
+        "y": 0.09,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "وبجانبه أكوام من الأنابيب الصغيرة المستعملة، فقد تدرّب فرانكي عليه ليالي طويلة.",
+       "t": 7299,
+       "spot": {
+        "x": 0.9,
+        "y": 0.12,
+        "r": 0.09
+       }
+      },
+      {
+       "text": "ثمّ صعد إلى سطح فندق حقيقيّ، وفتح شوكةً من شوكات التاج الأخضر.",
+       "t": 14747,
+       "spot": {
+        "x": 0.42,
+        "y": 0.47,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "«أوقف الفحم كلّه وأنت تخيط، فهذا أسرع!» قال أوسوب.",
+       "t": 21084
+      },
+      {
+       "text": "فأخذت غرفة المحرّك تحتهم تئنّ، والمروحة تتباطأ.",
+       "t": 26805,
+       "spot": {
+        "x": 0.72,
+        "y": 0.91,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فأدخل فرانكي في الشوكة المفتوحة أنبوبًا صغيرًا شفّافًا.",
+       "t": 32134,
+       "spot": {
+        "x": 0.4,
+        "y": 0.48,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "فظلّ الفحم يجري في الأنبوب، وفرانكي يخيط حوله بأصابع رقيقة عجيبة.",
+       "t": 37195,
+       "spot": {
+        "x": 0.41,
+        "y": 0.35,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "فخاط على الشوكة ورقة ملفوف خضراء، والمراوح تحته ما زالت تدور.",
+       "t": 43647,
+       "spot": {
+        "x": 0.5,
+        "y": 0.45,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«أنبوب في كلّ شوكة، كلّ مرّة؛ فقد تدرّبت يداي ألف مرّة!» قال فرانكي.",
+       "t": 49927,
+       "spot": {
+        "x": 0.41,
+        "y": 0.18,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "وكانت الشوكات التالية تنتظر أنابيبها واحدةً بعد واحدة.",
+       "t": 57385,
+       "spot": {
+        "x": 0.73,
+        "y": 0.5,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "فتذكّر الرفاق فتًى ضعيفًا تدرّب سنين طويلةً، وكان يصيح:",
+       "t": 62812
+      },
+      {
+       "text": "«سأصبح أميرالًا في البحريّة!»",
+       "quote": "ون بيس، كوبي",
+       "t": 69235
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0139-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "In the book, intracoronary shunts are used routinely, once the surgeon has trained thoroughly on a simulator: E is the answer.",
+       "t": 0,
+       "spot": {
+        "x": 0.69,
+        "y": 0.09,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "A shunt keeps blood flowing to the muscle while the anastomosis is sewn, prevents ischaemia and gives a dry field.",
+       "t": 8214,
+       "spot": {
+        "x": 0.4,
+        "y": 0.48,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "Careful technique avoids injury to the endothelium, which is the main risk of a shunt.",
+       "t": 15694,
+       "spot": {
+        "x": 0.41,
+        "y": 0.35,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "Memory hook: Franky's dummy hotel is covered in practice stitches, and then every spike gets its tube.",
+       "t": 21270,
+       "spot": {
+        "x": 0.69,
+        "y": 0.09,
+        "r": 0.1
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0139-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Intracoronary shunts should be used according to which of the following criteria?",
+     "options": [
+      "Rarely due to high risk of endothelial damage",
+      "Selectively based on arterial size",
+      "Selectively based on artery location",
+      "Selectively based on ischemia during vessel occlusion",
+      "Routinely after thorough simulator training"
+     ],
+     "answer": 4,
+     "explain": "In the book, intracoronary shunts are used routinely, once the surgeon has trained thoroughly on a simulator: E is the answer. A shunt keeps blood flowing to the muscle while the anastomosis is sewn, prevents ischaemia and gives a dry field. Careful technique avoids injury to the endothelium, which is the main risk of a shunt. Memory hook: Franky's dummy hotel is covered in practice stitches, and then every spike gets its tube. Many surgeons use intracoronary shunts selectively (for example for a large artery or ischaemia during occlusion); the book's key is routine use after simulator training.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q28.4",
+     "marks": [
+      2,
+      4,
+      6
+     ],
+     "answerMarks": [
+      1,
+      3,
+      5
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0139.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.69,
+      "y": 0.09,
+      "r": 0.09
+     },
+     "what": "Practice hotel covered in stitches",
+     "means": "Thorough simulator training (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.4,
+      "y": 0.48,
+      "r": 0.09
+     },
+     "what": "Clear tube inside the open spike",
+     "means": "Intracoronary shunt"
+    },
+    {
+     "spot": {
+      "x": 0.73,
+      "y": 0.5,
+      "r": 0.13
+     },
+     "what": "A tube waiting in every spike",
+     "means": "Used routinely, every time"
+    },
+    {
+     "spot": {
+      "x": 0.41,
+      "y": 0.32,
+      "r": 0.09
+     },
+     "what": "Coal still flowing through the tube",
+     "means": "Blood keeps reaching the muscle"
+    },
+    {
+     "spot": {
+      "x": 0.9,
+      "y": 0.12,
+      "r": 0.08
+     },
+     "what": "Pile of used practice tubes",
+     "means": "Many hours of practice"
+    },
+    {
+     "spot": {
+      "x": 0.72,
+      "y": 0.91,
+      "r": 0.11
+     },
+     "what": "Fan slowing in the engine room",
+     "means": "Ischaemia if flow stops"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0140",
+   "title": "The no-touch technique on the aorta reduces stroke",
+   "titleAr": "تقنية عدم لمس الأبهر تقلّل السكتة الدماغية",
+   "tags": [
+    "cardiac/coronary",
+    "d:evidence",
+    "q:recall",
+    "l:2",
+    "x:high-yield"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "بجانب الفندق القديم، كان حوت قاتل كبير يخرج منه مقوّسًا، وفوقه فانوس متوهّج على شكل رأس.",
+       "t": 0,
+       "spot": {
+        "x": 0.4,
+        "y": 0.4,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "«نمسك الحوت بالملقط، ونخيط الجسور على ظهره!» قال أوسوب وهو يرفع ملقطًا كبيرًا.",
+       "t": 8859,
+       "spot": {
+        "x": 0.5,
+        "y": 0.54,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "فوقف زورو بينه وبين الحوت، سيوفه في أغمادها، وذراعاه معقودتان.",
+       "t": 16381,
+       "spot": {
+        "x": 0.13,
+        "y": 0.7,
+        "r": 0.16
+       }
+      },
+      {
+       "text": "«لا يد تلمس هذا الحوت، ولا ملقط!» قال زورو.",
+       "t": 22786,
+       "spot": {
+        "x": 0.13,
+        "y": 0.7,
+        "r": 0.16
+       }
+      },
+      {
+       "text": "وأحاطوا الحوت بحبل من المخمل الأحمر.",
+       "t": 27372,
+       "spot": {
+        "x": 0.55,
+        "y": 0.72,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "ونمت كرمة فول الليما من جدار الفندق نفسه إلى التاج، دون أن تخاط على الحوت أبدًا.",
+       "t": 30764,
+       "spot": {
+        "x": 0.62,
+        "y": 0.22,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "وفي البحر البعيد، ضربت صاعقة الماء، بعيدًا جدًّا عن فانوس الرأس.",
+       "t": 37309,
+       "spot": {
+        "x": 0.92,
+        "y": 0.5,
+        "r": 0.07
+       }
+      },
+      {
+       "text": "«لم يلمسه أحد، فلم يسقط البرق على الرأس!» قال تشوبر.",
+       "t": 43377,
+       "spot": {
+        "x": 0.26,
+        "y": 0.12,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "وظلّ زورو واقفًا كالحارس العجوز الّذي حرس ابتسامة فتاة صغيرة.",
+       "t": 48524,
+       "spot": {
+        "x": 0.13,
+        "y": 0.7,
+        "r": 0.16
+       }
+      },
+      {
+       "text": "ذلك الحارس الّذي قال يومًا:",
+       "t": 53881
+      },
+      {
+       "text": "«إن سلبت نامي ابتسامتها يومًا، فسأقتلك!»",
+       "quote": "ون بيس، غينزو",
+       "t": 57371
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0140-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "The no-touch technique, with no clamp and no anastomosis on the aorta, has repeatedly been shown to reduce stroke: C is the answer.",
+       "t": 0,
+       "spot": {
+        "x": 0.55,
+        "y": 0.72,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "Atheroemboli from handling the aorta are the main cause of stroke during the operation, and off-pump surgery does not raise that risk.",
+       "t": 9113,
+       "spot": {
+        "x": 0.26,
+        "y": 0.12,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "Small cohorts rarely reach statistical significance for an outcome as uncommon as stroke, and high-risk patients show the clearest benefit.",
+       "t": 17429,
+       "spot": {
+        "x": 0.92,
+        "y": 0.5,
+        "r": 0.07
+       }
+      },
+      {
+       "text": "Memory hook: a red velvet rope surrounds the untouched orca, and the lightning falls far out at sea.",
+       "t": 26498,
+       "spot": {
+        "x": 0.5,
+        "y": 0.45,
+        "r": 0.4
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0140-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which of the following is true regarding outcomes after OPCAB?",
+     "options": [
+      "Statistically significant results are often achieved even with relatively small patient cohorts",
+      "OPCAB confers a higher intraoperative risk of stroke",
+      "\"No-touch\" technique on the aorta has been repeatedly shown to reduce stroke",
+      "Atrial fibrillation and hypotension both contribute to intraoperative stroke",
+      "There is no statistically significant improvement in stroke when high-risk patients are compared."
+     ],
+     "answer": 2,
+     "explain": "The no-touch technique, with no clamp and no anastomosis on the aorta, has repeatedly been shown to reduce stroke: C is the answer. Atheroemboli from handling the aorta are the main cause of stroke during the operation, and off-pump surgery does not raise that risk. Small cohorts rarely reach statistical significance for an outcome as uncommon as stroke, and high-risk patients show the clearest benefit. Memory hook: a red velvet rope surrounds the untouched orca, and the lightning falls far out at sea.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q28.5",
+     "marks": [
+      2,
+      6
+     ],
+     "answerMarks": [
+      1,
+      3,
+      4,
+      5
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0140.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.55,
+      "y": 0.72,
+      "r": 0.16
+     },
+     "what": "Red velvet rope round the orca",
+     "means": "No-touch aorta (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.52,
+      "r": 0.22
+     },
+     "what": "Arched orca leaving the hotel",
+     "means": "The aorta"
+    },
+    {
+     "spot": {
+      "x": 0.13,
+      "y": 0.7,
+      "r": 0.15
+     },
+     "what": "Zoro, swords sheathed",
+     "means": "No clamp on the aorta"
+    },
+    {
+     "spot": {
+      "x": 0.62,
+      "y": 0.22,
+      "r": 0.13
+     },
+     "what": "Lima vine grown from the wall",
+     "means": "Grafts with no aortic anastomosis"
+    },
+    {
+     "spot": {
+      "x": 0.92,
+      "y": 0.5,
+      "r": 0.06
+     },
+     "what": "Lightning far out at sea",
+     "means": "Stroke kept away"
+    },
+    {
+     "spot": {
+      "x": 0.26,
+      "y": 0.12,
+      "r": 0.09
+     },
+     "what": "Glowing head-shaped lantern",
+     "means": "The brain"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0141",
+   "title": "Diabetes is not an independent risk factor for recurrent angina after CABG",
+   "titleAr": "السكري ليس عامل خطر مستقلًا لعودة الذبحة بعد المجازة",
+   "tags": [
+    "cardiac/coronary",
+    "d:evidence",
+    "q:recall",
+    "l:3",
+    "x:trap"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في حديقة مستشفًى مشمسة، جلس خمسة مرضى على مقعد طويل، على سترة كلّ منهم ورقة ملفوف.",
+       "t": 0,
+       "spot": {
+        "x": 0.4,
+        "y": 0.55,
+        "r": 0.35
+       }
+      },
+      {
+       "text": "فإذا بملاك مجنّح يعود إليهم، يحوم منخفضًا فوق رؤوسهم.",
+       "t": 9355,
+       "spot": {
+        "x": 0.46,
+        "y": 0.18,
+        "r": 0.22
+       }
+      },
+      {
+       "text": "حام فوق بحّار على صدره ندبة قرن أيّل، وفوق بحّار ليس على تاجه الصغير إلّا جسور من الياقوت الأزرق.",
+       "t": 15907,
+       "spot": {
+        "x": 0.18,
+        "y": 0.48,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "وحام فوق بحّار ما زالت في تاجه شوكة ملطّخة بالقطران، وفوق بحّارة امرأة.",
+       "t": 25517,
+       "spot": {
+        "x": 0.54,
+        "y": 0.46,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«الآن سيحوم فوق رجل السكّر بالتّأكيد!» قال أوسوب.",
+       "t": 33292,
+       "spot": {
+        "x": 0.76,
+        "y": 0.8,
+        "r": 0.16
+       }
+      },
+      {
+       "text": "فقد كان المريض الخامس رجلًا مبنيًّا كلّه من مكعّبات السكّر.",
+       "t": 38285,
+       "spot": {
+        "x": 0.76,
+        "y": 0.8,
+        "r": 0.16
+       }
+      },
+      {
+       "text": "لكنّ الملاك طار مباشرةً من فوقه دون أن يلتفت، ورجل السكّر يلمع في الشمس مندهشًا.",
+       "t": 44114,
+       "spot": {
+        "x": 0.76,
+        "y": 0.8,
+        "r": 0.16
+       }
+      },
+      {
+       "text": "«الملاك يعود إلى الأيّل والياقوت والقطران والمرأة؛ أمّا السكّر فيتجاوزه!» قال تشوبر وهو يدوّن.",
+       "t": 52177,
+       "spot": {
+        "x": 0.1,
+        "y": 0.77,
+        "r": 0.13
+       }
+      },
+      {
+       "text": "ثمّ عاد الملاك يحوم فوق المرأة، فقفز سانجي أمامها ليحميها.",
+       "t": 60578,
+       "spot": {
+        "x": 0.62,
+        "y": 0.45,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "ولمّا اقترب الملاك منه، توقّفت رجل سانجي في الهواء، فالملاك أنثى، وصاح:",
+       "t": 66789
+      },
+      {
+       "text": "«لن أركل امرأةً أبدًا، حتّى لو كان في ذلك موتي!»",
+       "quote": "ون بيس، سانجي",
+       "t": 75246
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0141-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "Independent risk factors for recurrent angina after coronary bypass include a previous myocardial infarction, the use of vein grafts only, incomplete revascularization and female gender.",
+       "t": 0,
+       "spot": {
+        "x": 0.36,
+        "y": 0.48,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "Diabetes has not been identified as an independent risk factor for recurrent angina: D is the answer.",
+       "t": 12643,
+       "spot": {
+        "x": 0.76,
+        "y": 0.8,
+        "r": 0.16
+       }
+      },
+      {
+       "text": "Using an internal mammary artery graft and grafting every diseased vessel lower the risk.",
+       "t": 20132
+      },
+      {
+       "text": "Memory hook: the angel returns to the stag scar, the sapphire bridges, the tarred spike and the woman, but flies straight past the sugar-cube man.",
+       "t": 26130,
+       "spot": {
+        "x": 0.46,
+        "y": 0.4,
+        "r": 0.4
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0141-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which of the following has not been identified as an independent risk factor for recurrent angina after coronary artery bypass grafting?",
+     "options": [
+      "Previous myocardial infarction",
+      "Use of only vein grafts",
+      "Incomplete revascularization",
+      "Diabetes",
+      "Female gender"
+     ],
+     "answer": 3,
+     "explain": "Independent risk factors for recurrent angina after coronary bypass include a previous myocardial infarction, the use of vein grafts only, incomplete revascularization and female gender. Diabetes has not been identified as an independent risk factor for recurrent angina: D is the answer. Using an internal mammary artery graft and grafting every diseased vessel lower the risk. Memory hook: the angel returns to the stag scar, the sapphire bridges, the tarred spike and the woman, but flies straight past the sugar-cube man.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q29.1",
+     "marks": [
+      6
+     ],
+     "answerMarks": [
+      1
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0141.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.76,
+      "y": 0.8,
+      "r": 0.15
+     },
+     "what": "Sugar-cube man the angel ignores",
+     "means": "Diabetes: not a risk factor (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.1,
+      "y": 0.5,
+      "r": 0.08
+     },
+     "what": "Stag-antler scar on the chest",
+     "means": "Previous myocardial infarction"
+    },
+    {
+     "spot": {
+      "x": 0.26,
+      "y": 0.38,
+      "r": 0.06
+     },
+     "what": "Crown with only sapphire bridges",
+     "means": "Vein grafts only, no mammary"
+    },
+    {
+     "spot": {
+      "x": 0.43,
+      "y": 0.37,
+      "r": 0.06
+     },
+     "what": "Tarred spike left in the crown",
+     "means": "Incomplete revascularisation"
+    },
+    {
+     "spot": {
+      "x": 0.62,
+      "y": 0.46,
+      "r": 0.08
+     },
+     "what": "Woman sailor on the bench",
+     "means": "Female sex"
+    },
+    {
+     "spot": {
+      "x": 0.46,
+      "y": 0.18,
+      "r": 0.18
+     },
+     "what": "Angel coming back",
+     "means": "Recurrent angina"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0142",
+   "title": "Male gender predicts reoperative CABG",
+   "titleAr": "الذكورة عامل تنبّؤ بإعادة جراحة المجازة التاجية",
+   "tags": [
+    "cardiac/coronary",
+    "d:evidence",
+    "q:recall",
+    "l:3"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في غرفة العمليّات على سفينة مستشفًى، تسلّق بحّار ضخم ذو شارب كبير إلى طاولة العمليّات من جديد.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.55,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "على صدره مؤخّرة سفينة عليها ندبة قديمة، ستنشر مرّةً ثانية، وأوراق ملفوف جديدة تنتظر على صينيّة.",
+       "t": 8514,
+       "spot": {
+        "x": 0.45,
+        "y": 0.68,
+        "r": 0.22
+       }
+      },
+      {
+       "text": "وخلفه طابور من العائدين، كلّهم رجال بشوارب.",
+       "t": 18347,
+       "spot": {
+        "x": 0.3,
+        "y": 0.22,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "«لا بدّ أنّهم عادوا لأنّهم كبار في السنّ!» قالت نامي.",
+       "t": 23267,
+       "spot": {
+        "x": 0.3,
+        "y": 0.22,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "فنظر سانجي إليهم، فإذا أكثرهم شبّان أقوياء.",
+       "t": 27970,
+       "spot": {
+        "x": 0.3,
+        "y": 0.22,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "«ليسوا كبارًا؛ إنّهم رجال، كلّهم رجال!» قال سانجي وهو يحمل صينيّة الملفوف.",
+       "t": 32605,
+       "spot": {
+        "x": 0.13,
+        "y": 0.5,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "وعند الباب، خرج بحّار على تاجه الصغير كرمة فول ليما، سليمًا يلوّح بيده، لا يعود أبدًا.",
+       "t": 40349,
+       "spot": {
+        "x": 0.8,
+        "y": 0.3,
+        "r": 0.13
+       }
+      },
+      {
+       "text": "«الكرمة تحميه، أمّا الرجال ذوو الشوارب فيعودون أكثر!» قال تشوبر.",
+       "t": 48847,
+       "spot": {
+        "x": 0.84,
+        "y": 0.28,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "واستلقى البحّار الضخم على الطاولة، عنيدًا لا يخاف.",
+       "t": 54916,
+       "spot": {
+        "x": 0.5,
+        "y": 0.6,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "فضحك لوفي، وقال كلمته القديمة:",
+       "t": 59466
+      },
+      {
+       "text": "«قرّرت أن أصبح ملك القراصنة، وإن متّ في سبيل ذلك فلا بأس!»",
+       "quote": "ون بيس، مونكي دي لوفي",
+       "t": 64108
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0142-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "Male gender is a predictor of reoperative coronary bypass: B is the answer.",
+       "t": 0,
+       "spot": {
+        "x": 0.52,
+        "y": 0.4,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "Younger, not older, age at the first operation predicts reoperation, because those patients live long enough for their grafts and native vessels to fail.",
+       "t": 5654,
+       "spot": {
+        "x": 0.3,
+        "y": 0.22,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "Use of an internal mammary artery graft protects against reoperation, and single-vessel disease and preserved functional status do not predict it.",
+       "t": 15535,
+       "spot": {
+        "x": 0.84,
+        "y": 0.28,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "Memory hook: the queue back to the operating table is all moustaches, while the lima vine walks out healthy.",
+       "t": 24756,
+       "spot": {
+        "x": 0.5,
+        "y": 0.45,
+        "r": 0.4
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0142-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which of the following is a predictor of reoperative coronary artery bypass grafting?",
+     "options": [
+      "Older age at initial operation",
+      "Male gender",
+      "Use of internal mammary artery graft",
+      "Single vessel disease",
+      "Preserved functional status"
+     ],
+     "answer": 1,
+     "explain": "Male gender is a predictor of reoperative coronary bypass: B is the answer. Younger, not older, age at the first operation predicts reoperation, because those patients live long enough for their grafts and native vessels to fail. Use of an internal mammary artery graft protects against reoperation, and single-vessel disease and preserved functional status do not predict it. Memory hook: the queue back to the operating table is all moustaches, while the lima vine walks out healthy.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q29.2",
+     "marks": [
+      3,
+      4
+     ],
+     "answerMarks": [
+      1,
+      2
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0142.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.52,
+      "y": 0.4,
+      "r": 0.09
+     },
+     "what": "Big moustache, back on the table",
+     "means": "Male gender (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.3,
+      "y": 0.22,
+      "r": 0.16
+     },
+     "what": "Queue of strong moustached men",
+     "means": "Men, mostly young, come back for redo"
+    },
+    {
+     "spot": {
+      "x": 0.49,
+      "y": 0.68,
+      "r": 0.16
+     },
+     "what": "Old scar on the ship's stern",
+     "means": "Previous sternotomy, opened again"
+    },
+    {
+     "spot": {
+      "x": 0.28,
+      "y": 0.75,
+      "r": 0.09
+     },
+     "what": "Saw over the scar",
+     "means": "Redo sternotomy"
+    },
+    {
+     "spot": {
+      "x": 0.84,
+      "y": 0.28,
+      "r": 0.07
+     },
+     "what": "Lima vine on the leaver's back",
+     "means": "Mammary graft protects"
+    },
+    {
+     "spot": {
+      "x": 0.13,
+      "y": 0.53,
+      "r": 0.09
+     },
+     "what": "Fresh cabbage on Sanji's tray",
+     "means": "New bypass grafts"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0143",
+   "title": "Myocardial infarction is the commonest cause of operative death in redo CABG",
+   "titleAr": "احتشاء العضلة القلبية أشيع سبب للوفاة الجراحية في المجازة المعادة",
+   "tags": [
+    "cardiac/coronary",
+    "d:complications",
+    "q:recall",
+    "l:2"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "خلف مستشفًى على جزيرة من الغراند لاين، في مقبرة ضبابيّة عند الغسق، اصطفّت توابيت بأحجام مختلفة.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.4
+       }
+      },
+      {
+       "text": "وعلى غطاء كلّ تابوت ورقة ملفوف منقوشة.",
+       "t": 9119,
+       "spot": {
+        "x": 0.47,
+        "y": 0.56,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "«لا بدّ أنّ النزيف صاحب أكبر تابوت!» قال أوسوب.",
+       "t": 13448,
+       "spot": {
+        "x": 0.24,
+        "y": 0.68,
+        "r": 0.09
+       }
+      },
+      {
+       "text": "لكنّ تابوت بقعة الدم كان صغيرًا.",
+       "t": 18118,
+       "spot": {
+        "x": 0.24,
+        "y": 0.68,
+        "r": 0.09
+       }
+      },
+      {
+       "text": "وكذلك تابوت قبّعة القرصان، وتابوت مؤخّرة السفينة المشقوقة، وتابوت الصاعقة.",
+       "t": 21593,
+       "spot": {
+        "x": 0.8,
+        "y": 0.68,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "أمّا أكبر تابوت في الصفّ، فقد رقد عليه أيّل في صدره سهم.",
+       "t": 29036,
+       "spot": {
+        "x": 0.47,
+        "y": 0.5,
+        "r": 0.22
+       }
+      },
+      {
+       "text": "«الأيّل المصاب هو صاحب أكبر تابوت.» همس تشوبر.",
+       "t": 34651,
+       "spot": {
+        "x": 0.44,
+        "y": 0.4,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فوقف بروك، العازف الهيكليّ، يحني رأسه وقبّعته في يده.",
+       "t": 39559,
+       "spot": {
+        "x": 0.79,
+        "y": 0.36,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "وعزف لحنًا هادئًا فوق التوابيت كلّها.",
+       "t": 45699,
+       "spot": {
+        "x": 0.6,
+        "y": 0.55,
+        "r": 0.35
+       }
+      },
+      {
+       "text": "وتذكّر تشوبر معلّمه الأوّل، وآخر ما قاله:",
+       "t": 49528
+      },
+      {
+       "text": "«لقد كانت حياةً جميلة!»",
+       "quote": "ون بيس، الدكتور هيلولوك",
+       "t": 54945
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0143-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "The commonest cause of operative death in reoperative coronary bypass is myocardial infarction: A is the answer.",
+       "t": 0,
+       "spot": {
+        "x": 0.44,
+        "y": 0.4,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "It can come from debris shed by diseased old vein grafts, from injury to patent grafts during re-entry, or from incomplete protection of the heart.",
+       "t": 7879,
+       "spot": {
+        "x": 0.52,
+        "y": 0.38,
+        "r": 0.06
+       }
+      },
+      {
+       "text": "Arrhythmias, bleeding, sternal dehiscence and stroke cause fewer deaths.",
+       "t": 17006,
+       "spot": {
+        "x": 0.8,
+        "y": 0.68,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "Memory hook: the stag with the arrow lies on the biggest coffin.",
+       "t": 21925,
+       "spot": {
+        "x": 0.47,
+        "y": 0.5,
+        "r": 0.22
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0143-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "The most common cause of operative mortality in patients undergoing reoperative CAB surgery is:",
+     "options": [
+      "Myocardial infarction",
+      "Refractory dysrhythmias",
+      "Perioperative hemorrhage",
+      "Sternal dehiscence",
+      "Stroke"
+     ],
+     "answer": 0,
+     "explain": "The commonest cause of operative death in reoperative coronary bypass is myocardial infarction: A is the answer. It can come from debris shed by diseased old vein grafts, from injury to patent grafts during re-entry, or from incomplete protection of the heart. Arrhythmias, bleeding, sternal dehiscence and stroke cause fewer deaths. Memory hook: the stag with the arrow lies on the biggest coffin.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q29.3",
+     "marks": [
+      2
+     ],
+     "answerMarks": [
+      1
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0143.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.44,
+      "y": 0.4,
+      "r": 0.13
+     },
+     "what": "Stag with an arrow in its chest",
+     "means": "Myocardial infarction (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.49,
+      "y": 0.66,
+      "r": 0.16
+     },
+     "what": "Biggest coffin in the row",
+     "means": "Commonest cause of operative death"
+    },
+    {
+     "spot": {
+      "x": 0.07,
+      "y": 0.68,
+      "r": 0.07
+     },
+     "what": "Small coffin with a pirate hat",
+     "means": "Arrhythmia: fewer deaths"
+    },
+    {
+     "spot": {
+      "x": 0.24,
+      "y": 0.68,
+      "r": 0.07
+     },
+     "what": "Small coffin with a blood puddle",
+     "means": "Bleeding: fewer deaths"
+    },
+    {
+     "spot": {
+      "x": 0.72,
+      "y": 0.68,
+      "r": 0.07
+     },
+     "what": "Small coffin with a split stern",
+     "means": "Sternal dehiscence: fewer deaths"
+    },
+    {
+     "spot": {
+      "x": 0.89,
+      "y": 0.68,
+      "r": 0.07
+     },
+     "what": "Small coffin with a lightning bolt",
+     "means": "Stroke: fewer deaths"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0144",
+   "title": "Leave old vein grafts in place when adding a new arterial graft",
+   "titleAr": "اترك طعوم الوريد القديمة مكانها عند وضع طعم شرياني جديد",
+   "tags": [
+    "cardiac/coronary",
+    "d:technique",
+    "q:recall",
+    "l:3"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "على سطح الفندق القديم، في شوكة من شوكات التاج الأخضر، جسر قديم من الياقوت الأزرق.",
+       "t": 0,
+       "spot": {
+        "x": 0.82,
+        "y": 0.25,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "كان الجسر متآكلًا، تتفتّت منه رقائق صفراء.",
+       "t": 7387,
+       "spot": {
+        "x": 0.78,
+        "y": 0.3,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "«نقطع الجسر القديم ونرميه، ثمّ نبني الجديد!» قال زورو، ويده على سيفه.",
+       "t": 11822,
+       "spot": {
+        "x": 0.82,
+        "y": 0.25,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "فلمّا اقترب منه، تطايرت الرقائق الصفراء في الهواء، وانسابت إلى داخل الشوكة.",
+       "t": 18817,
+       "spot": {
+        "x": 0.66,
+        "y": 0.3,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«لا تلمسه يا زورو، كلّ لمسة ترسل رقائقه إلى الداخل.» همست روبين وإصبعها على شفتيها.",
+       "t": 25232,
+       "spot": {
+        "x": 0.12,
+        "y": 0.5,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فجاء سانجي بكرمة فول ليما جديدة، وربطها في الشوكة نفسها بجانب الجسر القديم.",
+       "t": 33649,
+       "spot": {
+        "x": 0.55,
+        "y": 0.25,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "ورفع مرفقيه عاليًا، فلم يلمس الجسر القديم أبدًا.",
+       "t": 40436,
+       "spot": {
+        "x": 0.45,
+        "y": 0.3,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "«الجسر القديم يبقى في مكانه، والكرمة الجديدة بجانبه!» قال تشوبر.",
+       "t": 45295,
+       "spot": {
+        "x": 0.65,
+        "y": 0.25,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "وظلّ الجسر القديم على حاله، والكرمة الخضراء تنمو قربه.",
+       "t": 51311,
+       "spot": {
+        "x": 0.65,
+        "y": 0.3,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "فوقف سانجي بين زورو والجسر، كما وقف قرصان أحمر الشعر يومًا بين جيشين، وقال:",
+       "t": 56301,
+       "spot": {
+        "x": 0.45,
+        "y": 0.38,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "«جئت لأنهي هذه الحرب!»",
+       "quote": "ون بيس، شانكس",
+       "t": 64468
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0144-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "When a new arterial graft is placed on a vessel already bypassed with a vein graft, the old vein graft should be left in place: C is the answer.",
+       "t": 0,
+       "spot": {
+        "x": 0.82,
+        "y": 0.25,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "Old vein grafts are often filled with soft, crumbly atheroma, and handling, dividing or excising them can send debris into the coronary artery.",
+       "t": 9350,
+       "spot": {
+        "x": 0.78,
+        "y": 0.3,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "Leaving them alone avoids that risk, and the new arterial graft takes over as the old graft fails.",
+       "t": 19107,
+       "spot": {
+        "x": 0.62,
+        "y": 0.35,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "Memory hook: Sanji ties the new lima vine beside the crumbly sapphire bridge with his elbows held high.",
+       "t": 25489,
+       "spot": {
+        "x": 0.55,
+        "y": 0.25,
+        "r": 0.15
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0144-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "When a new arterial graft is being placed on a vessel which has previously been bypassed with a vein graft, the old vein grafts should be:",
+     "options": [
+      "Ligated",
+      "Ligated and divided",
+      "Left in place",
+      "Opened for endarterectomy",
+      "Completely excised"
+     ],
+     "answer": 2,
+     "explain": "When a new arterial graft is placed on a vessel already bypassed with a vein graft, the old vein graft should be left in place: C is the answer. Old vein grafts are often filled with soft, crumbly atheroma, and handling, dividing or excising them can send debris into the coronary artery. Leaving them alone avoids that risk, and the new arterial graft takes over as the old graft fails. Memory hook: Sanji ties the new lima vine beside the crumbly sapphire bridge with his elbows held high.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q29.4",
+     "marks": [
+      3,
+      6
+     ],
+     "answerMarks": [
+      1,
+      4,
+      5
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0144.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.82,
+      "y": 0.24,
+      "r": 0.12
+     },
+     "what": "Old sapphire bridge left alone",
+     "means": "Old vein graft left in place (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.79,
+      "y": 0.31,
+      "r": 0.06
+     },
+     "what": "Yellow flakes falling off",
+     "means": "Crumbly atheroma, emboli if handled"
+    },
+    {
+     "spot": {
+      "x": 0.62,
+      "y": 0.36,
+      "r": 0.1
+     },
+     "what": "New lima vine on the same spike",
+     "means": "New arterial graft beside it"
+    },
+    {
+     "spot": {
+      "x": 0.52,
+      "y": 0.17,
+      "r": 0.07
+     },
+     "what": "Sanji's elbows held high",
+     "means": "No handling of the old graft"
+    },
+    {
+     "spot": {
+      "x": 0.12,
+      "y": 0.5,
+      "r": 0.11
+     },
+     "what": "Robin, finger to her lips",
+     "means": "Do not touch it"
+    },
+    {
+     "spot": {
+      "x": 0.6,
+      "y": 0.12,
+      "r": 0.08
+     },
+     "what": "Top of the green spike",
+     "means": "Vessel bypassed before"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0145",
+   "title": "Coronary angiography does not assess myocardial viability",
+   "titleAr": "تصوير الشرايين التاجية لا يقيّم حيوية العضلة القلبية",
+   "tags": [
+    "cardiac/coronary",
+    "d:diagnosis",
+    "q:recall",
+    "l:3",
+    "x:trap"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في الفندق القديم ذي رأس الأيّل، نام دبّ بنّيّ بجانب المروحة في الغرفة الحمراء.",
+       "t": 0,
+       "spot": {
+        "x": 0.6,
+        "y": 0.62,
+        "r": 0.22
+       }
+      },
+      {
+       "text": "وأراد الرفاق أن يعرفوا: أهو حيّ نائم، أم ميّت لا يعود؟",
+       "t": 7137,
+       "spot": {
+        "x": 0.53,
+        "y": 0.66,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فأضاء عليه مصباح أخضر متوهّج، وتدلّى فوقه مغناطيس عملاق على شكل حدوة.",
+       "t": 13098,
+       "spot": {
+        "x": 0.34,
+        "y": 0.5,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "ونبح كلب دوبرمان ليوقظه، وخفّاش يسمع أنفاسه، وجرو متوهّج يشمّ مخلبه.",
+       "t": 20962,
+       "spot": {
+        "x": 0.47,
+        "y": 0.62,
+        "r": 0.38
+       }
+      },
+      {
+       "text": "«كلّهم يسألون الدبّ نفسه: هل أنت حيّ؟» قال تشوبر.",
+       "t": 29240,
+       "spot": {
+        "x": 0.53,
+        "y": 0.62,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "أمّا على السطح، فوقف مصوّر يصبّ صبغًا داكنًا في التاج الأخضر.",
+       "t": 34360,
+       "spot": {
+        "x": 0.45,
+        "y": 0.12,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "ويلتقط صورًا لأنابيبه فقط، وظهره إلى الدبّ.",
+       "t": 40567,
+       "spot": {
+        "x": 0.3,
+        "y": 0.12,
+        "r": 0.22
+       }
+      },
+      {
+       "text": "«صورك ترينا الأنابيب، لا الدبّ! أهو حيّ أم لا؟» صاح أوسوب من الأسفل.",
+       "t": 45553,
+       "spot": {
+        "x": 0.3,
+        "y": 0.88,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فلم يلتفت المصوّر، واستمرّ يصوّر الأنابيب.",
+       "t": 53113,
+       "spot": {
+        "x": 0.35,
+        "y": 0.12,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فقال له تشوبر ما قاله القرصان ذو اللحية البيضاء لمن ظنّ نفسه المنتظر:",
+       "t": 57972
+      },
+      {
+       "text": "«لست أنت الرجل الّذي ينتظره روجر!»",
+       "quote": "ون بيس، إدوارد نيوغيت (اللحية البيضاء)",
+       "t": 65316
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0145-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "Myocardial viability before reoperation is assessed with nuclear stress imaging, magnetic resonance imaging, dobutamine echocardiography and cardiac PET scanning.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.58,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "Coronary angiography shows the anatomy of the arteries and grafts, not whether the muscle they supply is alive: D is the answer.",
+       "t": 11199,
+       "spot": {
+        "x": 0.45,
+        "y": 0.12,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "Viable but hibernating muscle is worth revascularizing; scar is not.",
+       "t": 20013,
+       "spot": {
+        "x": 0.53,
+        "y": 0.66,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "Memory hook: the lamp, the magnet, the doberman with the bat and the glowing puppy all examine the bear, while the photographer photographs only the pipes.",
+       "t": 25490,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.45
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0145-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which of the following diagnostic tests is not used to assess myocardial viability p rior to reoperative coronary artery bypass?",
+     "options": [
+      "Nuclear stress testing",
+      "Magnetic resonance imaging",
+      "Dobutarnine echocardiography",
+      "Coronary angiography",
+      "Cardiac PET scanning"
+     ],
+     "answer": 3,
+     "explain": "Myocardial viability before reoperation is assessed with nuclear stress imaging, magnetic resonance imaging, dobutamine echocardiography and cardiac PET scanning. Coronary angiography shows the anatomy of the arteries and grafts, not whether the muscle they supply is alive: D is the answer. Viable but hibernating muscle is worth revascularizing; scar is not. Memory hook: the lamp, the magnet, the doberman with the bat and the glowing puppy all examine the bear, while the photographer photographs only the pipes.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q29.5",
+     "marks": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+     ],
+     "answerMarks": [
+      1,
+      2
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0145.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.35,
+      "y": 0.12,
+      "r": 0.14
+     },
+     "what": "Photographer pouring dark dye",
+     "means": "Coronary angiography (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.9,
+      "y": 0.13,
+      "r": 0.09
+     },
+     "what": "Close-up of the pipes only",
+     "means": "Shows arteries, not living muscle"
+    },
+    {
+     "spot": {
+      "x": 0.53,
+      "y": 0.66,
+      "r": 0.13
+     },
+     "what": "Sleeping brown bear",
+     "means": "Hibernating, viable myocardium"
+    },
+    {
+     "spot": {
+      "x": 0.22,
+      "y": 0.51,
+      "r": 0.06
+     },
+     "what": "Glowing green lamp",
+     "means": "Nuclear stress imaging"
+    },
+    {
+     "spot": {
+      "x": 0.45,
+      "y": 0.5,
+      "r": 0.08
+     },
+     "what": "Giant horseshoe magnet",
+     "means": "Magnetic resonance imaging"
+    },
+    {
+     "spot": {
+      "x": 0.1,
+      "y": 0.65,
+      "r": 0.09
+     },
+     "what": "Doberman barking at the bear",
+     "means": "Dobutamine echocardiography"
+    },
+    {
+     "spot": {
+      "x": 0.8,
+      "y": 0.56,
+      "r": 0.08
+     },
+     "what": "Bat listening to its breathing",
+     "means": "Echo: listening with ultrasound"
+    },
+    {
+     "spot": {
+      "x": 0.84,
+      "y": 0.7,
+      "r": 0.08
+     },
+     "what": "Glowing puppy sniffing the paw",
+     "means": "Cardiac PET scanning"
+    }
+   ]
   }
  ]
 }
