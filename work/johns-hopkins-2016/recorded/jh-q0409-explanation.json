@@ -1,0 +1,21 @@
+{
+ "file": "jh-q0409-explanation-en.m4a",
+ "sig": "93ca516cf5cf4804b9ce70caf2be4c4be6acecc18c6e040b0b4640635ea9d9dd",
+ "starts": [
+  0,
+  5426,
+  17750,
+  26907,
+  38900,
+  44984
+ ],
+ "seconds": 51.2,
+ "texts": [
+  "Bivalirudin is the most appropriate alternative anticoagulant: A.",
+  "A fall in platelets from 125,000 to 42,000 on heparin suggests heparin-induced thrombocytopenia, so all heparin is stopped and a direct thrombin inhibitor is started.",
+  "Bivalirudin is cleared mostly by enzymes in the blood and only partly by the kidneys, so it suits a patient with both renal and liver dysfunction.",
+  "Argatroban is cleared by the liver, lepirudin by the kidneys, enoxaparin cross-reacts with heparin antibodies, and warfarin must not be started while the platelets are low in acute HIT.",
+  "In the picture, the black leech is chosen, the hare is sent away and the white plates come back.",
+  "Memory hook: when the kidneys and the liver both fail, call the leech the blood itself clears."
+ ]
+}

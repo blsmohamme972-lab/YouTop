@@ -1,0 +1,23 @@
+{
+ "file": "jh-q0411-explanation-en.m4a",
+ "sig": "78b954bbae1b7663da1911159a61294ac54db19d9199fa34f6183c31e4f0498f",
+ "starts": [
+  0,
+  9137,
+  23785,
+  28843,
+  41247,
+  44061,
+  48432
+ ],
+ "seconds": 53.4,
+ "texts": [
+  "Any of the four can explain the fall in saturation and blood pressure with a CVP of 22 after an LVAD: all of the above, E.",
+  "Right heart dysfunction is the classic cause: the right ventricle cannot deliver blood to the pump, the CVP rises, the LVAD underfills and output falls, and right-to-left flow through a patent foramen ovale lowers saturation.",
+  "Tamponade gives the same picture, with high filling pressures and low output.",
+  "An obstructed outflow graft or a poorly decompressed left ventricle raises left atrial pressure, causes pulmonary oedema and hypoxia, loads the right ventricle and lowers systemic flow.",
+  "Echocardiography sorts them out.",
+  "In the picture, all four lamps on Vader's chest light at once.",
+  "Memory hook: after Vader goes in, four lamps can warn alike."
+ ]
+}
