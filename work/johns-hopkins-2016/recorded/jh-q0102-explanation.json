@@ -1,0 +1,17 @@
+{
+ "file": "jh-q0102-explanation-en.m4a",
+ "sig": "d3f8f500163763d1d24b4999c8ca6bad1d4f066796817413935d86eefedc93f3",
+ "starts": [
+  0,
+  7725,
+  15555,
+  25399
+ ],
+ "seconds": 32.5,
+ "texts": [
+  "After a pleural abnormality is seen on a chest film, CT is the most useful next test: B is the answer.",
+  "It shows the size and position of the lesion and its relation to the chest wall, mediastinum and lung, and it guides biopsy.",
+  "Ultrasound helps with fluid, PET with staging a known cancer, MRI with invasion of the chest wall or diaphragm, and thoracoscopy gives tissue.",
+  "Memory hook: the cat slices the loaf, and every slice shows exactly where the lump sits on the crust."
+ ]
+}
