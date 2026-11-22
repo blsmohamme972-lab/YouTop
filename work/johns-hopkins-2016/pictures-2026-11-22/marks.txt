@@ -149,3 +149,311 @@ answer: 4
 6: 93 30 7 | Red horseshoe magnet waiting in line | MRI: invasion of the chest wall or diaphragm
 question: 1
 answer: 2
+== 4
+1: 60 40 38 | Giant scoreboard balance | Thoracoscore: predicted risk of death after thoracic surgery
+2: 35 82 22 | Pan hanging over a black coffin | Each factor raises the predicted mortality
+3: 12 55 9 | Old man's walking cane on the pan | Older age raises mortality
+4: 22 55 8 | Red crab on the pan | A malignant diagnosis raises mortality
+5: 45 60 16 | Sick man in a hammock lowered onto it | Poor performance status raises mortality
+6: 38 35 17 | Nami stepping onto the pan | Female gender: NOT associated with higher mortality (B)
+7: 85 20 12 | Needle that does not move | Male sex, not female, carries the extra risk
+8: 87 57 10 | Sack of dollar bills in the chest | General thoracic surgery, mostly on the lungs
+question: 1 2
+answer: 6 7
+== 5
+1: 60 78 26 | Huge coffin-shaped cooking pot | STS model: predicted risk of death after lung resection
+2: 35 53 10 | Hourglass dropped into the pot | Older age raises mortality
+3: 60 92 20 | Induction cooker glowing under the pot | Induction therapy before surgery raises mortality
+4: 26 66 11 | Zebra-striped rolling pin in the pot | Zubrod (performance) score raises mortality
+5: 88 15 12 | Slab of raw liver thrown out to sea | Liver dysfunction is NOT a factor in the model (C)
+6: 88 72 12 | Green potion flask and violet lamp | Induction: chemotherapy or radiotherapy before surgery
+question: 1
+answer: 5
+== 6
+1: 62 15 22 | Sea Train derailed against a rock | High-speed collision
+2: 52 62 18 | Right side cracked like barrel staves | Multiple right-sided rib fractures
+3: 25 62 13 | Chopper slipping a straw into his back | Thoracic epidural analgesia improves outcomes (D)
+4: 40 62 12 | Cool blue snow-light round the cracks | Good analgesia lets him breathe deeply and cough
+5: 58 70 10 | Sack of dollars swelling full in his side | The lungs fill once the pain is relieved
+6: 85 42 11 | Toy breathing whistle in his hand | Incentive spirometry is useful
+7: 22 35 16 | Older sailor groaning, a coffin beside him | Elderly patients fare worse
+8: 30 92 15 | Garden hose and bottle lying unused | No prophylactic chest tube
+question: 1 2
+answer: 3 4
+== 7
+1: 45 53 12 | Sword wound in the front of her chest | Penetrating anterior chest wound
+2: 15 82 11 | Tachometer fallen from red to zero | Tachycardic, then pulseless
+3: 18 92 11 | Drum silent, its sticks dropped | Lost her pulse in front of the team
+4: 78 62 15 | Chopper flinging open the chest's side lid | Resuscitative thoracotomy in the ED (D)
+5: 62 65 14 | Golden treasure chest she clutches | The chest is opened at once, where she fell
+6: 55 22 12 | Nun lying still on a flat white line | No cardiac activity after a fall: no thoracotomy
+question: 1 2 3
+answer: 4
+== 8
+1: 25 30 8 | Cannonball hole through the pirate's chest | Transmediastinal gunshot wound
+2: 18 35 17 | Pirate standing calm and smiling | Haemodynamically stable
+3: 55 48 18 | Grey cat slicing the loaf thin | CT scan, the next step (B)
+4: 32 80 18 | Thin slices showing the tunnel's track | CT shows the missile's track
+5: 15 88 8 | Little sofa and hose in each slice | Whether the track nears the oesophagus or the airway
+6: 73 30 16 | Franky's saw held back by sprouting arms | Sternotomy is not the first step when stable
+question: 1 2
+answer: 3 4
+== 9
+1: 15 82 14 | Bucket 2000 filling with red | 2000 mL drained at once: thoracotomy
+2: 42 83 13 | Second bucket filling beside an hourglass | Ongoing bleeding over hours: thoracotomy
+3: 33 30 15 | Treasure chest flung open from its side | Thoracotomy
+4: 75 15 11 | Pressure gauge sunk to the low zone | Haemodynamic instability IS an indication
+5: 85 82 14 | Hose bubbling only air into a water jar | An air leak alone
+6: 88 38 13 | Chopper sitting on the padlocked chest | An air leak is NOT an indication for thoracotomy (E)
+question: 1 2 5
+answer: 6
+== 10
+1: 5 30 10 | Carriage wall crushed in from the side | Side-impact collision
+2: 50 88 14 | Torn deck in the carriage floor | Ruptured diaphragm
+3: 18 60 14 | Copper pot risen beside his chest | Stomach herniated into the left chest
+4: 30 42 14 | Chopper sliding a hose in through his nose | Nasogastric tube, the next step (E)
+5: 20 50 10 | Steam whistling out of the pot | It decompresses the stomach and confirms the diagnosis
+6: 45 15 13 | Zoro's raised spike, stopped | A chest tube placed first could perforate the stomach
+7: 80 25 13 | Garden hose and water-seal bottle | Chest tube (A is wrong)
+question: 1 3
+answer: 4 5
+== 17
+1: 50 65 18 | Newborn sea-king cub in a cradle | Congenital
+2: 33 33 28 | Sack of dollars tied into three lobes | The lung and its lobes
+3: 55 35 14 | One lobe crammed with bulging SPAM tins | CPAM is usually confined to one lobe (B)
+4: 18 38 16 | The other two lobes, only dollar bills | The rest of the lung is normal
+5: 32 22 10 | SPAM growing at the hose's finest twigs | From abnormal growth of the terminal bronchioles
+6: 72 25 13 | Sanji lifting that lobe out by its string | Lobectomy is the usual treatment
+question: 1 2
+answer: 3
+== 18
+1: 20 35 20 | SPAM tin swelling huge | CPAM may grow before birth
+2: 92 52 7 | Second tin shrinking to a thimble | CPAM may regress
+3: 50 50 24 | Rods turning out of a thick fog | By mechanisms that are unclear (A)
+4: 25 75 17 | Robin peering into the fog with a lantern | Nobody can see why
+5: 55 15 14 | Pickpocket lifting one whole lobe | Lobectomy is the preferred operation
+6: 88 20 10 | Cheese wedge tossed aside, SPAM left behind | A wedge resection often leaves part of the lesion
+question: 4
+answer: 1 2 3
+== 20
+1: 55 75 18 | Baby crying, panting in a cradle | Respiratory distress in infancy
+2: 42 50 17 | One lobe blown up like a pink balloon | Congenital lobar emphysema: an overinflated lobe
+3: 60 22 20 | Calendar torn page by page up to 6 | It presents in the first 6 months
+4: 55 38 13 | Page 6, the last page to fall | Presentation after 6 months is unusual (B)
+5: 92 75 11 | Leather bellows pushed away by Chopper | Positive pressure ventilation worsens the overinflation
+6: 15 80 12 | Usopp reaching up to the swollen lobe | A symptomatic infant needs a lobectomy
+question: 1 2
+answer: 3 4
+== 21
+1: 12 35 13 | Old fisherman with a dry cough | IPF: an older adult with a dry cough
+2: 15 50 10 | Stiff shrunken sack of dollar bills | A fibrotic, restricted lung
+3: 45 50 15 | Cat slicing the loaf very thin | CT scan
+4: 50 90 20 | Honeycomb along the crust and bottom | Honeycombing, subpleural and in the lower zones (C)
+5: 50 78 16 | Ribbed twigs pulled open by ropes | Traction bronchiectasis (C)
+6: 50 10 13 | Smoke passing thinly through a fishnet | Restrictive pattern with a low DLco
+question: 1 2 3
+answer: 4 5
+== 28
+1: 42 38 11 | Brass door knocker on the chest | Nocardia (KNOCK-ardia)
+2: 20 78 13 | Pale sailor's broken shield | It strikes the immunosuppressed
+3: 58 55 9 | Tunnel bored through the chest's wall | A chest-wall sinus
+4: 55 80 14 | Yellow sulfur grains trickling out | Sulfur granules draining from a sinus (the book's B)
+5: 15 60 14 | Sack of dollars dotted with festering pools | Lung abscesses, often several
+6: 10 30 11 | Pickpocket turning away empty-handed | It rarely needs a lobectomy
+7: 80 72 13 | Chopper catching the grains, frowning | Classically actinomycosis; the book's key is kept
+question: 1 2
+answer: 3 4
+== 35
+1: 55 48 28 | Red inflatable bull swelling in the sack | A giant bulla (a BULL balloon)
+2: 12 60 11 | Bills squashed flat against the side | Giant bullae compress the adjacent lung (E)
+3: 35 12 13 | Luffy's rubber arms round the sack | Removing it lets the squashed lung re-expand
+4: 85 45 12 | The sack holed like Swiss cheese | Giant bullae arise in emphysematous lungs
+question: 1
+answer: 2
+== 39
+1: 42 90 10 | Sailor clutching his throat, gasping | Critical stenosis: cannot speak in full sentences
+2: 45 62 13 | Steel cone stretching the red scar ring | The postintubation stenosis is dilated (A)
+3: 45 45 11 | Long straight steel telescope in the hose | Rigid bronchoscopy in the operating room (A)
+4: 90 82 10 | Thin bendy tube thrown on the floor | Flexible bronchoscopy in the ER: the wrong choice
+5: 50 5 12 | Chopper under the operating lamp | In the operating room the airway is secured
+6: 90 40 12 | Old leather bellows, its tube coiled | The stenosis follows intubation and ventilation
+question: 1 6
+answer: 2 3
+== 40
+1: 50 53 11 | Two hose ends pulled together by a rope | Tension on the tracheal anastomosis
+2: 80 18 13 | Luffy bending his chin to his chest | Neck flexion reduces tension
+3: 50 8 11 | Bell at the top lowered on its ropes | Laryngeal release reduces tension
+4: 32 40 16 | Zoro stripping the hose bare all round | Circumferential dissection does NOT reduce tension (C)
+5: 48 50 13 | Green feeding vines withering | It destroys the blood supply that comes in from the sides
+6: 50 70 9 | The seam dripping below | Breakdown of the anastomosis
+7: 50 85 28 | Two money sacks sliding up at the fork | A pericardial hilar release does lower the tension
+question: 1
+answer: 4 5
+== 42
+1: 45 68 22 | Tiny oat grains with blurred edges | Small (oat) cell carcinoma: ill-defined borders (D)
+2: 47 42 8 | Grain split open with no kernel | Absent nucleoli (D)
+3: 35 35 14 | Sanji splitting the grains with a knife | Looking at the cells
+4: 92 50 8 | One big pearl in a separate dish | Keratin pearls: squamous carcinoma, not carcinoid
+5: 92 68 10 | Small crab covered in fish scales | Squamous cell carcinoma (B is wrong)
+question: 3
+answer: 1 2
+== 45
+1: 40 13 10 | Z slashed into the starting line | The ACOSOG Z0030 trial
+2: 28 55 16 | Runner carrying a few parcels | Mediastinal lymph node sampling
+3: 68 42 18 | Runner carrying a huge heap of parcels | Complete mediastinal lymph node dissection
+4: 50 58 13 | Both breaking the tape together | No difference in survival (A)
+5: 50 88 16 | Usopp raising both flags | A tie: neither wins
+6: 15 8 11 | Red crab on a sack of dollars at the start | The trial was in early lung cancer
+question: 1 2 3
+answer: 4 5
+== 47
+1: 40 65 24 | Sack of dollar bills on the table | The lung after metastasectomy
+2: 30 40 16 | Chopper sweeping it with a lantern | Searching every part of the lung
+3: 65 57 6 | Last baby crab, found in a hidden fold | Leave none behind
+4: 70 72 12 | Jar full of removed crabs | Completeness of resection matters most (D)
+5: 88 37 9 | Second sack with a red crab left | An incomplete resection fails
+6: 88 47 8 | Small coffin beside that sack | Those left with disease die sooner
+question: 1
+answer: 3 4
+== 55
+1: 13 62 12 | Sack in a flowerpot, a few red sparks | Acute rejection of a transplanted lung: its own A scale
+2: 80 55 22 | Red-hot hose hidden in thick smoke | Airway inflammation that cannot be seen
+3: 50 52 11 | Judge squinting, unable to see | It cannot be graded
+4: 52 67 10 | White card painted X | Ungradeable airway inflammation = BX (D)
+5: 22 25 15 | Usopp fanning the smoke with his hat | X does not mean healthy
+question: 1 2
+answer: 3 4
+== 57
+1: 22 25 10 | Woman clutching her chest, small flames | Burning substernal pain for 5 years
+2: 30 92 13 | Fire-extinguisher pump lying on its side | PPIs have failed
+3: 68 75 18 | Calm copper pot, few splashes | Normal pH study: no true reflux disease
+4: 18 72 12 | Tally board painted 12 | 12 reflux events: a normal number
+5: 47 25 14 | Chopper handing her a jar of sunshine | Antidepressant (neuromodulator) therapy (C)
+6: 42 57 12 | A few green splashes up the pink slide | A hypersensitive oesophagus, reflux normal
+question: 1 2 3 4
+answer: 5
+== 61
+1: 50 65 14 | Baby's slide welded shut halfway | Oesophageal atresia
+2: 48 55 6 | Drop of milk stuck above the cap | Feeds cannot pass
+3: 15 65 14 | Toy blocks filling half the cradle | About half have other anomalies, not 10% (book's D)
+4: 9 61 7 | A big kidney bean among the blocks | VACTERL anomalies, renal ones among them
+5: 58 28 24 | Knight charging in on horseback | The CHARGE association (E, key corrected)
+6: 42 28 11 | Shield with a stag's-head hotel | CHARGE includes heart defects
+question: 1 2
+answer: 5 6
+== 72
+1: 40 40 30 | Huge heap of slides pierced by periscopes | Perforations from instrumentation
+2: 35 6 13 | Sign painted 50 with an arrow up | Instruments cause over 50% of perforations (A)
+3: 82 75 12 | Small pile pierced by fish bones | Other causes are fewer
+4: 85 68 10 | Franky pulling a periscope out | Repairing an instrumental perforation
+5: 55 92 22 | The cooking-pot ends untouched | Not at the gastro-oesophageal junction (B is wrong)
+question: 4
+answer: 1 2
+== 73
+1: 13 64 7 | Tear in the pink slide, water leaking | Oesophageal perforation
+2: 38 12 11 | Full hourglass on the shelf | Early
+3: 25 40 10 | Air bubbles rising | Air in the mediastinum: an early sign
+4: 87 60 12 | Hourglass nearly run out | Late
+5: 50 85 26 | Water puddle spreading over the floor | A pleural effusion is a LATE finding (C)
+6: 70 15 13 | Cat slicing a loaf, bubbles in the slices | CT shows the air early
+question: 1
+answer: 4 5
+== 82
+1: 65 55 16 | Pink slide hanging in the middle | The oesophagus in the embryo
+2: 20 30 16 | Curtain from the front wall to the slide | Ventral mesentery of the oesophagus (B)
+3: 90 38 11 | Curtain from the back wall to the slide | Dorsal mesentery of the oesophagus (B)
+4: 60 42 14 | Warm glow between the curtains | The mediastinal space forms from both together (B)
+5: 50 37 14 | Little hotel, its chimney, in the middle | SVC joins the right atrium in the middle mediastinum
+6: 80 22 8 | White swan nesting on the back wall | Neurogenic tumours lie in the posterior mediastinum
+7: 45 80 13 | Robin sketching both curtains | Ventral and dorsal: both
+question: 1
+answer: 2 3 4
+== 83
+1: 12 45 12 | Front room of the cut-open hull | Anterior mediastinum
+2: 40 45 12 | Middle room | Middle mediastinum
+3: 82 45 14 | Neon blast from wires at the back | Neuroblastoma (NEON): posterior mediastinum (D)
+4: 32 55 9 | Baby crawling toward the light | A tumour of young children
+5: 80 45 9 | White swan nesting on the wires | A neurogenic tumour of the posterior mediastinum
+6: 85 56 7 | Little red crab in the tangle | Malignant
+7: 85 30 8 | Red firework fizzing out | Such tumours can secrete catecholamines
+question: 1 2
+answer: 3
+== 84
+1: 40 8 14 | Grey felt hat stitched X X Y | Klinefelter's syndrome (KLINE-FELT-er), XXY
+2: 40 25 12 | Tall, long-limbed young man | Klinefelter's build
+3: 40 45 17 | Rough multicoloured cracked egg | Nonseminomatous germ cell tumour (B)
+4: 82 45 12 | Chopper examining it with a magnifier | Not the smooth egg (seminoma)
+5: 85 62 13 | Green potion and a violet lamp | Treated with chemotherapy; seminomas also respond to radiotherapy
+question: 1 2
+answer: 3
+== 86
+1: 50 38 15 | Crab of white gristle on the hull | Chondrosarcoma (CHONDRO = cartilage)
+2: 50 60 7 | White cartilage strip down the front | The anterior costochondral junction
+3: 25 48 9 | Red claw boring into the planks | Evidence of invasion indicates chondrosarcoma (A)
+4: 72 50 10 | Second claw splintering the planks | Invasion of the neighbouring tissue (A)
+5: 15 80 14 | White-bearded sailor of 76 | An older adult with a slowly growing mass
+6: 50 22 11 | Red magnet humming over the crab | Imaging that shows the invasion
+7: 85 55 9 | Sack of dollars the claws reach for | Invasion toward the neighbouring lung
+question: 1 2 5
+answer: 3 4
+== 87
+1: 15 30 9 | Baseball bouncing off his side | Minor trauma drew attention to it
+2: 45 25 15 | Boy of eleven, otherwise well, smiling | A child: a benign lesion
+3: 40 32 11 | Rib filled with frosted glass and fibres | Fibrous dysplasia: ground-glass calcification (A)
+4: 35 77 14 | Cat slicing a rib-shaped loaf | Imaging shows the ground-glass look
+5: 85 85 8 | Red crab scuttling past | Not a sarcoma (D is wrong)
+6: 78 15 7 | White swan far out at sea | A neurofibroma is a nerve tumour (C is wrong)
+question: 1 2
+answer: 3
+== 88
+1: 50 42 20 | Golden nest of bees in the chest wall | Diffuse large B-cell lymphoma (B cell = BEE)
+2: 82 8 11 | Nami searching with her spyglass | No other site of disease
+3: 75 65 18 | Zoro cutting the nest out of the planks | Surgical resection (the book's D)
+4: 25 45 14 | Usopp's violet rays on the edges | Radiation for positive margins (the book's D)
+5: 15 85 11 | Flask of green potion on a barrel | Highly sensitive to chemotherapy too
+question: 1 2
+answer: 3 4
+== 89
+1: 52 30 20 | Gristle crab on the top step | Chondrosarcoma
+2: 50 48 8 | Gold medal round its neck | The commonest adult chest wall sarcoma (B)
+3: 25 72 14 | Lamb eating an onion on a lower step | Ewing's sarcoma: children and young people
+4: 78 75 13 | Blood-red crab on a lower step | Angiosarcoma and others: rarer
+5: 22 12 12 | Violet rays bouncing off the crab | Resistant to radiotherapy
+6: 90 18 9 | Potion splashing off it | Resistant to chemotherapy
+question: 3 4
+answer: 1 2
+== 91
+1: 40 38 16 | Excavator digging a hollow in the chest | Pectus excavatum
+2: 30 30 20 | Boy shooting up on a beanstalk | The pubertal growth spurt
+3: 45 80 18 | Two big dice tumbling out | Puberty's effect on the chest is unpredictable
+4: 15 85 12 | Chopper running after the dice | "Predictable" is the INCORRECT statement (D)
+5: 80 40 15 | Franky waiting with a curved bar | Repair before or after the spurt, not during it
+6: 80 65 12 | Cat slicing a chest-shaped loaf | CT measures the hollow
+question: 1 2
+answer: 3 4
+== 93
+1: 48 72 18 | Baby with a tight little barrel chest | Jeune's asphyxiating thoracic dystrophy
+2: 30 28 13 | Healthy father holding half a key | One silent copy from one parent
+3: 75 30 13 | Healthy mother holding the other half | One silent copy from the other parent
+4: 52 30 9 | Two halves joining into one key | Autosomal recessive inheritance (A)
+5: 48 78 10 | Two little sacks crammed in the barrel | Small, hypoplastic lungs
+6: 85 68 13 | Chopper working a bellows down a hose | The child may need help to breathe
+question: 1
+answer: 2 3 4
+== 95
+1: 50 68 20 | Excavator's hollow in the chest | Pectus excavatum
+2: 48 52 26 | Rope across the chest's width | The chest's transverse width
+3: 45 75 6 | Short rope from the hollow to the back | Sternum-to-spine distance
+4: 48 58 7 | Tag painted 3 | Haller index of 3 or more: repair (B, the book)
+5: 78 25 14 | Sailor breathing easily, blowing a horn | Breathlessness on exercise often improves; lung tests in the workup
+6: 15 85 12 | Cat slicing a chest-shaped loaf | The Haller index is measured on CT
+question: 1
+answer: 2 3 4
+== 100
+1: 8 58 7 | Cracked milk pipe | Chylothorax: a leaking thoracic duct
+2: 60 28 18 | Bucket 1500 overflowing with milk | Losses over 1500 mL a day (C)
+3: 12 63 7 | Thick red cord tied round the pipe | Thoracic duct ligation: surgery (C)
+4: 40 52 14 | Franky tying the cord low by the deck | Ligated low, just above the diaphragm
+5: 90 40 9 | Small milk puddle and a feeding bottle | Neonates: conservative treatment first
+question: 1
+answer: 2 3

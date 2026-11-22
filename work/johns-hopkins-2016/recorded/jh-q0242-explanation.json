@@ -1,0 +1,17 @@
+{
+ "file": "jh-q0242-explanation-en.m4a",
+ "sig": "2a7d45caf171ab4e12e0c079eeeeb22332f4b8eb2ef410d93d274b2973c13349",
+ "starts": [
+  0,
+  9695,
+  20930,
+  33560
+ ],
+ "seconds": 42.7,
+ "texts": [
+  "Cyclooxygenase 1 (COX-1) is not a pattern recognition receptor: it is an enzyme that makes prostaglandins: C.",
+  "Pattern recognition receptors are the innate system's lookouts: they recognise molecular patterns shared by microbes or by damaged cells, without needing earlier exposure.",
+  "They include Toll-like receptors (the toll booth), C-reactive protein (the giant C), mannose-binding lectin (the sugar bouquet) and complement C1q (the waterfall of compliments).",
+  "Memory hook: the rooster crows at the sunrise; the toll booth, the C, the bouquet and the waterfall watch the germs."
+ ]
+}

@@ -734,17 +734,17 @@
        "text": "في حانة على جزيرة من جزر الخطّ الكبير، وقف ميزان خشبيّ عملاق فوق صندوق كنز.",
        "t": 0,
        "spot": {
-        "x": 0.75,
+        "x": 0.6,
         "y": 0.45,
-        "r": 0.3
+        "r": 0.4
        }
       },
       {
        "text": "وكانت كفّته معلّقةً فوق تابوت أسود، وإبرته تشير إلى قرص كبير.",
        "t": 7127,
        "spot": {
-        "x": 0.32,
-        "y": 0.82,
+        "x": 0.35,
+        "y": 0.78,
         "r": 0.25
        }
       },
@@ -752,8 +752,8 @@
        "text": "«كلّما ثقلت الكفّة، اقتربت من التابوت!» قال أوسوب.",
        "t": 13593,
        "spot": {
-        "x": 0.08,
-        "y": 0.45,
+        "x": 0.1,
+        "y": 0.25,
         "r": 0.12
        }
       },
@@ -761,8 +761,8 @@
        "text": "ثمّ ألقى عليها عكّاز رجل عجوز، فهبطت الكفّة.",
        "t": 18653,
        "spot": {
-        "x": 0.16,
-        "y": 0.68,
+        "x": 0.12,
+        "y": 0.55,
         "r": 0.1
        }
       },
@@ -770,8 +770,8 @@
        "text": "وألقى بعده سرطانًا أحمر يفتح ملقطيه، فهبطت أكثر.",
        "t": 23123,
        "spot": {
-        "x": 0.28,
-        "y": 0.71,
+        "x": 0.22,
+        "y": 0.55,
         "r": 0.09
        }
       },
@@ -779,8 +779,8 @@
        "text": "وأنزل سانجي عليها رجلًا مريضًا راقدًا في أرجوحته، فكادت تلمس التابوت.",
        "t": 28358,
        "spot": {
-        "x": 0.34,
-        "y": 0.57,
+        "x": 0.45,
+        "y": 0.58,
         "r": 0.18
        }
       },
@@ -788,8 +788,8 @@
        "text": "ثمّ خطت نامي على الكفّة بخفّة، وهي تبتسم.",
        "t": 34499,
        "spot": {
-        "x": 0.59,
-        "y": 0.34,
+        "x": 0.38,
+        "y": 0.35,
         "r": 0.18
        }
       },
@@ -797,8 +797,8 @@
        "text": "فلم تتحرّك الإبرة شعرةً واحدة.",
        "t": 38562,
        "spot": {
-        "x": 0.87,
-        "y": 0.1,
+        "x": 0.85,
+        "y": 0.2,
         "r": 0.12
        }
       },
@@ -806,8 +806,8 @@
        "text": "«أرأيتم؟ هذا الميزان لا يعدّني عبئًا عليه!»",
        "t": 41626,
        "spot": {
-        "x": 0.58,
-        "y": 0.07,
+        "x": 0.4,
+        "y": 0.2,
         "r": 0.1
        }
       },
@@ -815,9 +815,9 @@
        "text": "فضحك الجميع، وصاح سانجي وهو ينحني لها:",
        "t": 45648,
        "spot": {
-        "x": 0.25,
-        "y": 0.26,
-        "r": 0.14
+        "x": 0.65,
+        "y": 0.33,
+        "r": 0.12
        }
       },
       {
@@ -836,17 +836,17 @@
        "text": "The Thoracoscore estimates the risk of death after general thoracic surgery from a handful of factors.",
        "t": 0,
        "spot": {
-        "x": 0.84,
-        "y": 0.6,
-        "r": 0.22
+        "x": 0.55,
+        "y": 0.45,
+        "r": 0.4
        }
       },
       {
        "text": "Older age, the ASA rating, performance status and a malignant diagnosis all raise the predicted mortality.",
        "t": 6387,
        "spot": {
-        "x": 0.28,
-        "y": 0.68,
+        "x": 0.3,
+        "y": 0.58,
         "r": 0.25
        }
       },
@@ -858,9 +858,9 @@
        "text": "Female gender is not associated with increased mortality: B is the answer.",
        "t": 18553,
        "spot": {
-        "x": 0.59,
-        "y": 0.4,
-        "r": 0.2
+        "x": 0.38,
+        "y": 0.35,
+        "r": 0.18
        }
       }
      ],
@@ -891,70 +891,79 @@
      ]
     }
    ],
-   "image": "gh:books/johns-hopkins-2016/media/jh-q0004.webp",
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0004-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.84,
-      "y": 0.6,
-      "r": 0.22
+      "x": 0.6,
+      "y": 0.4,
+      "r": 0.38
      },
-     "what": "Giant scoreboard balance on a treasure chest",
+     "what": "Giant scoreboard balance",
      "means": "Thoracoscore: predicted risk of death after thoracic surgery"
     },
     {
      "spot": {
-      "x": 0.32,
+      "x": 0.35,
       "y": 0.82,
-      "r": 0.25
+      "r": 0.22
      },
-     "what": "Pan sinking toward a black coffin",
-     "means": "Each factor raises predicted mortality"
+     "what": "Pan hanging over a black coffin",
+     "means": "Each factor raises the predicted mortality"
     },
     {
      "spot": {
-      "x": 0.16,
-      "y": 0.68,
-      "r": 0.1
+      "x": 0.12,
+      "y": 0.55,
+      "r": 0.09
      },
      "what": "Old man's walking cane on the pan",
      "means": "Older age raises mortality"
     },
     {
      "spot": {
-      "x": 0.28,
-      "y": 0.71,
-      "r": 0.09
+      "x": 0.22,
+      "y": 0.55,
+      "r": 0.08
      },
      "what": "Red crab on the pan",
-     "means": "Malignant diagnosis raises mortality"
+     "means": "A malignant diagnosis raises mortality"
     },
     {
      "spot": {
-      "x": 0.34,
-      "y": 0.57,
-      "r": 0.18
+      "x": 0.45,
+      "y": 0.6,
+      "r": 0.16
      },
      "what": "Sick man in a hammock lowered onto it",
      "means": "Poor performance status raises mortality"
     },
     {
      "spot": {
-      "x": 0.59,
-      "y": 0.34,
-      "r": 0.18
+      "x": 0.38,
+      "y": 0.35,
+      "r": 0.17
      },
      "what": "Nami stepping onto the pan",
      "means": "Female gender: NOT associated with higher mortality (B)"
     },
     {
      "spot": {
-      "x": 0.87,
-      "y": 0.1,
+      "x": 0.85,
+      "y": 0.2,
       "r": 0.12
      },
      "what": "Needle that does not move",
      "means": "Male sex, not female, carries the extra risk"
+    },
+    {
+     "spot": {
+      "x": 0.87,
+      "y": 0.57,
+      "r": 0.1
+     },
+     "what": "Sack of dollar bills in the chest",
+     "means": "General thoracic surgery, mostly on the lungs"
     }
    ]
   },
@@ -977,17 +986,17 @@
        "text": "في مطبخ الباراتي، المطعم العائم على البحر، كانت قدر سوداء هائلة على هيئة تابوت تغلي.",
        "t": 0,
        "spot": {
-        "x": 0.5,
+        "x": 0.6,
         "y": 0.78,
-        "r": 0.3
+        "r": 0.28
        }
       },
       {
        "text": "وتحتها لوح طبخ بالحثّ، يتوهّج أحمر بلا نار.",
        "t": 8677,
        "spot": {
-        "x": 0.5,
-        "y": 0.95,
+        "x": 0.6,
+        "y": 0.92,
         "r": 0.22
        }
       },
@@ -995,7 +1004,7 @@
        "text": "«هذه القدر لا تقبل إلّا ما يزيد الخطر!» قال سانجي.",
        "t": 13909,
        "spot": {
-        "x": 0.24,
+        "x": 0.5,
         "y": 0.15,
         "r": 0.12
        }
@@ -1004,8 +1013,8 @@
        "text": "فألقى لوفي فيها ساعةً رمليّة، ففارت.",
        "t": 18728,
        "spot": {
-        "x": 0.32,
-        "y": 0.66,
+        "x": 0.35,
+        "y": 0.52,
         "r": 0.12
        }
       },
@@ -1013,7 +1022,7 @@
        "text": "وألقى زورو فيها شوبكًا مخطّطًا كالحمار الوحشيّ، ففارت أكثر.",
        "t": 22966,
        "spot": {
-        "x": 0.64,
+        "x": 0.28,
         "y": 0.66,
         "r": 0.12
        }
@@ -1023,7 +1032,7 @@
        "t": 29039,
        "spot": {
         "x": 0.85,
-        "y": 0.14,
+        "y": 0.15,
         "r": 0.12
        }
       },
@@ -1031,7 +1040,7 @@
        "text": "«هذه القطعة ليست من طبختي، فلتخرج من هنا حالًا!»",
        "t": 33866,
        "spot": {
-        "x": 0.26,
+        "x": 0.5,
         "y": 0.15,
         "r": 0.12
        }
@@ -1040,26 +1049,26 @@
        "text": "وقذف بها من الكوّة المفتوحة نحو البحر.",
        "t": 38938,
        "spot": {
-        "x": 0.85,
-        "y": 0.18,
-        "r": 0.15
+        "x": 0.88,
+        "y": 0.15,
+        "r": 0.12
        }
       },
       {
        "text": "ثمّ ركل غطاء القدر، فانغلق خلفها بصوت كالرّعد.",
        "t": 43097,
        "spot": {
-        "x": 0.55,
-        "y": 0.37,
-        "r": 0.15
+        "x": 0.75,
+        "y": 0.42,
+        "r": 0.18
        }
       },
       {
        "text": "فصاح لوفي وهو يراقب القدر جائعًا:",
        "t": 48369,
        "spot": {
-        "x": 0.11,
-        "y": 0.47,
+        "x": 0.15,
+        "y": 0.3,
         "r": 0.14
        }
       },
@@ -1079,26 +1088,26 @@
        "text": "The STS General Thoracic Surgery Database models predict the risk of death after lung resection.",
        "t": 0,
        "spot": {
-        "x": 0.5,
+        "x": 0.6,
         "y": 0.78,
-        "r": 0.3
+        "r": 0.28
        }
       },
       {
        "text": "Older age, the Zubrod (performance) score, the ASA rating and induction chemotherapy or radiotherapy before surgery are among its predictors of mortality.",
        "t": 6682,
        "spot": {
-        "x": 0.48,
+        "x": 0.45,
         "y": 0.7,
-        "r": 0.3
+        "r": 0.35
        }
       },
       {
        "text": "Liver dysfunction is not one of the factors associated with increased mortality in these models: C is the answer.",
        "t": 16535,
        "spot": {
-        "x": 0.85,
-        "y": 0.14,
+        "x": 0.88,
+        "y": 0.15,
         "r": 0.12
        }
       }
@@ -1128,52 +1137,61 @@
      ]
     }
    ],
-   "image": "gh:books/johns-hopkins-2016/media/jh-q0005.webp",
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0005-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.5,
+      "x": 0.6,
       "y": 0.78,
-      "r": 0.3
+      "r": 0.26
      },
      "what": "Huge coffin-shaped cooking pot",
      "means": "STS model: predicted risk of death after lung resection"
     },
     {
      "spot": {
-      "x": 0.32,
-      "y": 0.66,
-      "r": 0.12
+      "x": 0.35,
+      "y": 0.53,
+      "r": 0.1
      },
      "what": "Hourglass dropped into the pot",
      "means": "Older age raises mortality"
     },
     {
      "spot": {
-      "x": 0.5,
-      "y": 0.95,
-      "r": 0.22
+      "x": 0.6,
+      "y": 0.92,
+      "r": 0.2
      },
      "what": "Induction cooker glowing under the pot",
-     "means": "Induction chemo- or radiotherapy raises mortality"
+     "means": "Induction therapy before surgery raises mortality"
     },
     {
      "spot": {
-      "x": 0.64,
+      "x": 0.26,
       "y": 0.66,
-      "r": 0.12
+      "r": 0.11
      },
      "what": "Zebra-striped rolling pin in the pot",
      "means": "Zubrod (performance) score raises mortality"
     },
     {
      "spot": {
-      "x": 0.85,
-      "y": 0.16,
-      "r": 0.15
+      "x": 0.88,
+      "y": 0.15,
+      "r": 0.12
      },
      "what": "Slab of raw liver thrown out to sea",
      "means": "Liver dysfunction is NOT a factor in the model (C)"
+    },
+    {
+     "spot": {
+      "x": 0.88,
+      "y": 0.72,
+      "r": 0.12
+     },
+     "what": "Green potion flask and violet lamp",
+     "means": "Induction: chemotherapy or radiotherapy before surgery"
     }
    ]
   },
@@ -1198,7 +1216,7 @@
        "t": 0,
        "spot": {
         "x": 0.6,
-        "y": 0.13,
+        "y": 0.15,
         "r": 0.25
        }
       },
@@ -1206,8 +1224,8 @@
        "text": "وعلى نقّالة قرب السكّة، جلس بحّار شابّ اسمه كين، وجانبه الأيمن مشقّق كألواح برميل مكسور.",
        "t": 6887,
        "spot": {
-        "x": 0.58,
-        "y": 0.52,
+        "x": 0.55,
+        "y": 0.62,
         "r": 0.2
        }
       },
@@ -1215,8 +1233,8 @@
        "text": "«لا أستطيع أن أتنفّس دون أن يطعنني الألم!»",
        "t": 15764,
        "spot": {
-        "x": 0.59,
-        "y": 0.37,
+        "x": 0.68,
+        "y": 0.47,
         "r": 0.12
        }
       },
@@ -1224,8 +1242,8 @@
        "text": "فجاء تشوبر، وأدخل مصّاصةً رفيعةً في وسط ظهره.",
        "t": 19884,
        "spot": {
-        "x": 0.42,
-        "y": 0.64,
+        "x": 0.25,
+        "y": 0.62,
         "r": 0.14
        }
       },
@@ -1233,8 +1251,8 @@
        "text": "فسال منها ضوء أزرق بارد كثلج جزيرته، وأحاط بالشّقوق كلّها.",
        "t": 24942,
        "spot": {
-        "x": 0.52,
-        "y": 0.58,
+        "x": 0.4,
+        "y": 0.63,
         "r": 0.15
        }
       },
@@ -1242,8 +1260,8 @@
        "text": "فتنفّس كين نفسًا عميقًا لأوّل مرّة، وابتسم.",
        "t": 30942,
        "spot": {
-        "x": 0.6,
-        "y": 0.37,
+        "x": 0.68,
+        "y": 0.47,
         "r": 0.12
        }
       },
@@ -1251,27 +1269,27 @@
        "text": "وكانت في يده صفّارة تنفّس صغيرة، تطفو كراتها كلّما نفخ.",
        "t": 35743,
        "spot": {
-        "x": 0.83,
-        "y": 0.32,
-        "r": 0.14
+        "x": 0.85,
+        "y": 0.42,
+        "r": 0.12
        }
       },
       {
        "text": "«انظر إلى الكرات؛ هي تخبرني عن حالك أكثر من كلامك!»",
        "t": 41510,
        "spot": {
-        "x": 0.87,
-        "y": 0.24,
-        "r": 0.1
+        "x": 0.2,
+        "y": 0.55,
+        "r": 0.12
        }
       },
       {
        "text": "وعلى النقّالة المجاورة بحّار أشيب بالشّقوق نفسها، يئنّ أعلى منه بكثير.",
        "t": 46175,
        "spot": {
-        "x": 0.18,
-        "y": 0.31,
-        "r": 0.18
+        "x": 0.2,
+        "y": 0.35,
+        "r": 0.16
        }
       },
       {
@@ -1295,16 +1313,16 @@
        "t": 0,
        "spot": {
         "x": 0.55,
-        "y": 0.55,
-        "r": 0.18
+        "y": 0.62,
+        "r": 0.2
        }
       },
       {
        "text": "Good analgesia is the core of treatment, and thoracic epidural analgesia has been shown to improve outcomes: D is the answer.",
        "t": 8022,
        "spot": {
-        "x": 0.42,
-        "y": 0.64,
+        "x": 0.25,
+        "y": 0.62,
         "r": 0.14
        }
       },
@@ -1312,18 +1330,18 @@
        "text": "Multiple rib fractures are an indication for an epidural, not a contraindication, and incentive spirometry does help predict who will do badly.",
        "t": 16457,
        "spot": {
-        "x": 0.83,
-        "y": 0.32,
-        "r": 0.14
+        "x": 0.85,
+        "y": 0.42,
+        "r": 0.12
        }
       },
       {
        "text": "A chest tube is not placed prophylactically, and elderly patients fare worse than young ones, not better.",
        "t": 25775,
        "spot": {
-        "x": 0.18,
-        "y": 0.31,
-        "r": 0.18
+        "x": 0.3,
+        "y": 0.92,
+        "r": 0.15
        }
       }
      ],
@@ -1335,7 +1353,7 @@
      "q": "A 55-year-old unrestrained driver involved in a highspeed motor vehicle collision sustains multiple rightsided rib fractures. Which statement is correct r egarding the management of this patient?",
      "options": [
       "Incentive spirometry is not useful in predicting morbidity and mortality.",
-      "A thoracic epidural catheter is contraindicated in t he setting of multiple rib fractures.",
+      "A thoracic epidural catheter is contraindicated in the setting of multiple rib fractures.",
       "Tube thoracostomy should be performed prophylactically.",
       "Thoracic epidural analgesia has been shown to improve outcomes.",
       "Elderly patients with multiple rib fractures have lower morbidity and mortality compared with y oung patients."
@@ -1354,61 +1372,79 @@
      ]
     }
    ],
-   "image": "gh:books/johns-hopkins-2016/media/jh-q0006.webp",
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0006-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.6,
-      "y": 0.13,
-      "r": 0.25
+      "x": 0.62,
+      "y": 0.15,
+      "r": 0.22
      },
      "what": "Sea Train derailed against a rock",
      "means": "High-speed collision"
     },
     {
      "spot": {
-      "x": 0.58,
-      "y": 0.52,
-      "r": 0.2
+      "x": 0.52,
+      "y": 0.62,
+      "r": 0.18
      },
-     "what": "Sailor's right side cracked like barrel staves",
+     "what": "Right side cracked like barrel staves",
      "means": "Multiple right-sided rib fractures"
     },
     {
      "spot": {
-      "x": 0.42,
-      "y": 0.64,
-      "r": 0.14
+      "x": 0.25,
+      "y": 0.62,
+      "r": 0.13
      },
      "what": "Chopper slipping a straw into his back",
      "means": "Thoracic epidural analgesia improves outcomes (D)"
     },
     {
      "spot": {
-      "x": 0.52,
-      "y": 0.58,
-      "r": 0.15
+      "x": 0.4,
+      "y": 0.62,
+      "r": 0.12
      },
-     "what": "Cool blue light around the cracks",
+     "what": "Cool blue snow-light round the cracks",
      "means": "Good analgesia lets him breathe deeply and cough"
     },
     {
      "spot": {
-      "x": 0.83,
-      "y": 0.32,
-      "r": 0.14
+      "x": 0.58,
+      "y": 0.7,
+      "r": 0.1
+     },
+     "what": "Sack of dollars swelling full in his side",
+     "means": "The lungs fill once the pain is relieved"
+    },
+    {
+     "spot": {
+      "x": 0.85,
+      "y": 0.42,
+      "r": 0.11
      },
      "what": "Toy breathing whistle in his hand",
      "means": "Incentive spirometry is useful"
     },
     {
      "spot": {
-      "x": 0.18,
-      "y": 0.31,
-      "r": 0.18
+      "x": 0.22,
+      "y": 0.35,
+      "r": 0.16
      },
-     "what": "Older sailor groaning louder",
+     "what": "Older sailor groaning, a coffin beside him",
      "means": "Elderly patients fare worse"
+    },
+    {
+     "spot": {
+      "x": 0.3,
+      "y": 0.92,
+      "r": 0.15
+     },
+     "what": "Garden hose and bottle lying unused",
+     "means": "No prophylactic chest tube"
     }
    ]
   },
@@ -1432,17 +1468,17 @@
        "text": "في ضوء أحمر قاس في مستوصف السفينة، سقطت قرصانة شابّة اسمها ليلا، وفي مقدّم صدرها جرح سيف.",
        "t": 0,
        "spot": {
-        "x": 0.3,
+        "x": 0.4,
         "y": 0.55,
-        "r": 0.18
+        "r": 0.2
        }
       },
       {
        "text": "وكانت تضمّ إلى صدرها صندوق كنز ذهبيًّا لا تفلته.",
        "t": 9026,
        "spot": {
-        "x": 0.43,
-        "y": 0.7,
+        "x": 0.62,
+        "y": 0.65,
         "r": 0.15
        }
       },
@@ -1450,8 +1486,8 @@
        "text": "وإلى جانبها طبل صغير يدقّ أسرع فأسرع.",
        "t": 13864,
        "spot": {
-        "x": 0.12,
-        "y": 0.85,
+        "x": 0.15,
+        "y": 0.92,
         "r": 0.12
        }
       },
@@ -1459,26 +1495,26 @@
        "text": "ثمّ سكت الطبل فجأةً، وسقطت عصيّه على الأرض.",
        "t": 18233,
        "spot": {
-        "x": 0.16,
-        "y": 0.89,
-        "r": 0.14
+        "x": 0.25,
+        "y": 0.92,
+        "r": 0.12
        }
       },
       {
        "text": "«سكت الآن أمام عينيّ! لا وقت لحملها إلى أيّ مكان!»",
        "t": 22794,
        "spot": {
-        "x": 0.78,
-        "y": 0.44,
-        "r": 0.14
+        "x": 0.82,
+        "y": 0.45,
+        "r": 0.12
        }
       },
       {
        "text": "فجثا تشوبر، وفتح غطاء الصندوق الجانبيّ في الحال، فاندفع منه النور.",
        "t": 27724,
        "spot": {
-        "x": 0.65,
-        "y": 0.6,
+        "x": 0.78,
+        "y": 0.62,
         "r": 0.14
        }
       },
@@ -1486,35 +1522,35 @@
        "text": "وفي البعيد، تحت الصاري، رقدت راهبة ساكنة تمامًا على خطّ أبيض مستو.",
        "t": 34405,
        "spot": {
-        "x": 0.52,
+        "x": 0.55,
         "y": 0.22,
-        "r": 0.14
+        "r": 0.12
        }
       },
       {
        "text": "«وتلك؟ ألا تفتح صندوقها أيضًا؟» سألت روبين.",
        "t": 41562,
        "spot": {
-        "x": 0.52,
+        "x": 0.55,
         "y": 0.22,
-        "r": 0.14
+        "r": 0.12
        }
       },
       {
        "text": "«تلك سقطت من الصاري، ولم يبق فيها نبض منذ البداية؛ أمّا ليلا فسكتت أمامي.»",
        "t": 46745,
        "spot": {
-        "x": 0.8,
-        "y": 0.44,
-        "r": 0.14
+        "x": 0.82,
+        "y": 0.45,
+        "r": 0.12
        }
       },
       {
        "text": "فعاد الطبل يدقّ رويدًا، فتذكّر تشوبر كلمةً يردّدها قائده:",
        "t": 53348,
        "spot": {
-        "x": 0.12,
-        "y": 0.85,
+        "x": 0.15,
+        "y": 0.92,
         "r": 0.12
        }
       },
@@ -1534,17 +1570,17 @@
        "text": "Resuscitative thoracotomy in the emergency department gives its best results after penetrating chest trauma in a patient who loses signs of life in front of the team.",
        "t": 0,
        "spot": {
-        "x": 0.6,
-        "y": 0.63,
-        "r": 0.18
+        "x": 0.7,
+        "y": 0.6,
+        "r": 0.22
        }
       },
       {
        "text": "A penetrating anterior chest wound in a patient who becomes tachycardic and then pulseless is that case: D is the answer.",
        "t": 10139,
        "spot": {
-        "x": 0.3,
-        "y": 0.58,
+        "x": 0.45,
+        "y": 0.52,
         "r": 0.12
        }
       },
@@ -1552,9 +1588,9 @@
        "text": "A blunt-trauma patient found pulseless with no electrical activity at the scene, or one with no cardiac activity after a fall, almost never survives it.",
        "t": 18408,
        "spot": {
-        "x": 0.52,
+        "x": 0.55,
         "y": 0.22,
-        "r": 0.14
+        "r": 0.12
        }
       },
       {
@@ -1573,7 +1609,7 @@
       "A 35-year-old restrained driver found pulseless at scene with no electrical activity on ECG on arrival t o the trauma center",
       "A 23 -year-old man with hypotension from penetrating left chest wound after intubation and positive pressure ventilation",
       "A 64-year-old woman with penetrating anterior chest wound who becomes tachycardic and then pulseless",
-      "A 1 6-year-old man with no cardiac activity a fter 30-ft fall from ladder"
+      "A 16-year-old man with no cardiac activity a fter 30-ft fall from ladder"
      ],
      "answer": 3,
      "explain": "Resuscitative thoracotomy in the emergency department gives its best results after penetrating chest trauma in a patient who loses signs of life in front of the team. A penetrating anterior chest wound in a patient who becomes tachycardic and then pulseless is that case: D is the answer. A blunt-trauma patient found pulseless with no electrical activity at the scene, or one with no cardiac activity after a fall, almost never survives it. A hypotensive patient who still has a pulse belongs in the operating room, not on the emergency department floor.",
@@ -1581,59 +1617,69 @@
      "source": "Johns Hopkins 2016, Q2.2",
      "marks": [
       1,
-      2
+      2,
+      3
      ],
      "answerMarks": [
-      3
+      4
      ]
     }
    ],
-   "image": "gh:books/johns-hopkins-2016/media/jh-q0007.webp",
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0007-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.3,
-      "y": 0.55,
-      "r": 0.18
+      "x": 0.45,
+      "y": 0.53,
+      "r": 0.12
      },
-     "what": "Woman with a sword wound in her front chest",
+     "what": "Sword wound in the front of her chest",
      "means": "Penetrating anterior chest wound"
     },
     {
      "spot": {
-      "x": 0.12,
-      "y": 0.85,
-      "r": 0.12
+      "x": 0.15,
+      "y": 0.82,
+      "r": 0.11
      },
-     "what": "Drum beating faster, then silent",
-     "means": "Tachycardic, then pulseless in front of the doctor"
+     "what": "Tachometer fallen from red to zero",
+     "means": "Tachycardic, then pulseless"
     },
     {
      "spot": {
-      "x": 0.65,
-      "y": 0.6,
-      "r": 0.14
+      "x": 0.18,
+      "y": 0.92,
+      "r": 0.11
+     },
+     "what": "Drum silent, its sticks dropped",
+     "means": "Lost her pulse in front of the team"
+    },
+    {
+     "spot": {
+      "x": 0.78,
+      "y": 0.62,
+      "r": 0.15
      },
      "what": "Chopper flinging open the chest's side lid",
      "means": "Resuscitative thoracotomy in the ED (D)"
     },
     {
      "spot": {
-      "x": 0.43,
-      "y": 0.7,
-      "r": 0.15
+      "x": 0.62,
+      "y": 0.65,
+      "r": 0.14
      },
      "what": "Golden treasure chest she clutches",
      "means": "The chest is opened at once, where she fell"
     },
     {
      "spot": {
-      "x": 0.52,
+      "x": 0.55,
       "y": 0.22,
-      "r": 0.14
+      "r": 0.12
      },
-     "what": "Nun lying still under the mast",
-     "means": "No cardiac activity from the start: no thoracotomy"
+     "what": "Nun lying still on a flat white line",
+     "means": "No cardiac activity after a fall: no thoracotomy"
     }
    ]
   },
@@ -1657,8 +1703,8 @@
        "text": "بعد معركة بحريّة تحت سماء هادئة، وقف قرصان اسمه موس على سطح الثاوزند صني.",
        "t": 0,
        "spot": {
-        "x": 0.14,
-        "y": 0.3,
+        "x": 0.18,
+        "y": 0.35,
         "r": 0.18
        }
       },
@@ -1666,17 +1712,17 @@
        "text": "وفي صدره ثقب مستدير نظيف، اخترقته قذيفة مدفع من جانب إلى جانب.",
        "t": 6964,
        "spot": {
-        "x": 0.17,
-        "y": 0.31,
-        "r": 0.09
+        "x": 0.25,
+        "y": 0.3,
+        "r": 0.08
        }
       },
       {
        "text": "«أنا بخير، أتنفّس ولا أشعر بشيء!» قال موس ضاحكًا.",
        "t": 13234,
        "spot": {
-        "x": 0.13,
-        "y": 0.17,
+        "x": 0.22,
+        "y": 0.15,
         "r": 0.1
        }
       },
@@ -1684,16 +1730,16 @@
        "text": "فركض فرانكي إلى مؤخّرة السفينة، ورفع منشاره ليشقّها على خطّها الأبيض.",
        "t": 18591,
        "spot": {
-        "x": 0.72,
-        "y": 0.28,
-        "r": 0.16
+        "x": 0.75,
+        "y": 0.22,
+        "r": 0.15
        }
       },
       {
        "text": "فنبتت من السطح أذرع نحيلة كثيرة، وأمسكت معصميه.",
        "t": 25012,
        "spot": {
-        "x": 0.83,
+        "x": 0.75,
         "y": 0.37,
         "r": 0.14
        }
@@ -1702,45 +1748,45 @@
        "text": "«مهلًا يا فرانكي؛ لنعرف أوّلًا أين مرّت القذيفة.»",
        "t": 30105,
        "spot": {
-        "x": 0.72,
-        "y": 0.28,
-        "r": 0.15
+        "x": 0.75,
+        "y": 0.37,
+        "r": 0.14
        }
       },
       {
        "text": "وكان على برميل أمامه رغيف طويل ذهبيّ، فيه النفق نفسه من جانب إلى جانب.",
        "t": 34605,
        "spot": {
-        "x": 0.53,
-        "y": 0.76,
-        "r": 0.25
+        "x": 0.7,
+        "y": 0.65,
+        "r": 0.18
        }
       },
       {
        "text": "فجاء قطّ رماديّ رشيق، وأخذ يقطّع الرغيف بمخلب واحد إلى شرائح رقيقة جدًّا.",
        "t": 41245,
        "spot": {
-        "x": 0.51,
-        "y": 0.51,
-        "r": 0.2
+        "x": 0.55,
+        "y": 0.5,
+        "r": 0.18
        }
       },
       {
        "text": "فبان في كلّ شريحة موضع النفق، فعرفوا طريق القذيفة كلّه.",
        "t": 48576,
        "spot": {
-        "x": 0.69,
-        "y": 0.78,
-        "r": 0.18
+        "x": 0.3,
+        "y": 0.8,
+        "r": 0.2
        }
       },
       {
        "text": "فأنزل فرانكي منشاره، وتذكّر موس سؤالًا غريبًا سمعه يومًا من عملاق صامت:",
        "t": 54144,
        "spot": {
-        "x": 0.14,
-        "y": 0.3,
-        "r": 0.18
+        "x": 0.75,
+        "y": 0.22,
+        "r": 0.15
        }
       },
       {
@@ -1759,9 +1805,9 @@
        "text": "A gunshot wound that crosses the mediastinum can injure the heart, the great vessels, the airway or the oesophagus.",
        "t": 0,
        "spot": {
-        "x": 0.17,
-        "y": 0.31,
-        "r": 0.09
+        "x": 0.25,
+        "y": 0.3,
+        "r": 0.08
        }
       },
       {
@@ -1769,8 +1815,8 @@
        "t": 8125,
        "spot": {
         "x": 0.55,
-        "y": 0.65,
-        "r": 0.25
+        "y": 0.5,
+        "r": 0.2
        }
       },
       {
@@ -1814,48 +1860,57 @@
      ]
     }
    ],
-   "image": "gh:books/johns-hopkins-2016/media/jh-q0008.webp",
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0008-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.17,
-      "y": 0.31,
-      "r": 0.09
+      "x": 0.25,
+      "y": 0.3,
+      "r": 0.08
      },
      "what": "Cannonball hole through the pirate's chest",
      "means": "Transmediastinal gunshot wound"
     },
     {
      "spot": {
-      "x": 0.14,
-      "y": 0.3,
-      "r": 0.18
+      "x": 0.18,
+      "y": 0.35,
+      "r": 0.17
      },
      "what": "Pirate standing calm and smiling",
      "means": "Haemodynamically stable"
     },
     {
      "spot": {
-      "x": 0.51,
-      "y": 0.51,
-      "r": 0.2
+      "x": 0.55,
+      "y": 0.48,
+      "r": 0.18
      },
      "what": "Grey cat slicing the loaf thin",
-     "means": "CT scan: the next step (B)"
+     "means": "CT scan, the next step (B)"
     },
     {
      "spot": {
-      "x": 0.69,
-      "y": 0.78,
+      "x": 0.32,
+      "y": 0.8,
       "r": 0.18
      },
      "what": "Thin slices showing the tunnel's track",
-     "means": "CT shows the missile's track and the organs at risk"
+     "means": "CT shows the missile's track"
     },
     {
      "spot": {
-      "x": 0.72,
-      "y": 0.28,
+      "x": 0.15,
+      "y": 0.88,
+      "r": 0.08
+     },
+     "what": "Little sofa and hose in each slice",
+     "means": "Whether the track nears the oesophagus or the airway"
+    },
+    {
+     "spot": {
+      "x": 0.73,
+      "y": 0.3,
       "r": 0.16
      },
      "what": "Franky's saw held back by sprouting arms",
@@ -1882,17 +1937,17 @@
        "text": "بعد المعركة، في ضوء الفوانيس على السطح السفليّ، جلس بحّاران جريحان.",
        "t": 0,
        "spot": {
-        "x": 0.4,
-        "y": 0.45,
-        "r": 0.4
+        "x": 0.5,
+        "y": 0.55,
+        "r": 0.45
        }
       },
       {
        "text": "الأوّل يخرج من جنبه خرطوم حديقة، يصبّ أحمر في دلو كبير مكتوب عليه: ألفان.",
        "t": 6898,
        "spot": {
-        "x": 0.16,
-        "y": 0.74,
+        "x": 0.15,
+        "y": 0.8,
         "r": 0.15
        }
       },
@@ -1900,8 +1955,8 @@
        "text": "وإلى جانبه دلو ثان يمتلئ بلا توقّف، قرب ساعة رمليّة.",
        "t": 15262,
        "spot": {
-        "x": 0.41,
-        "y": 0.7,
+        "x": 0.42,
+        "y": 0.83,
         "r": 0.13
        }
       },
@@ -1909,8 +1964,8 @@
        "text": "«افتحوا صندوقه الآن، لا تنتظروا!» صاح زورو.",
        "t": 21258,
        "spot": {
-        "x": 0.37,
-        "y": 0.15,
+        "x": 0.22,
+        "y": 0.18,
         "r": 0.12
        }
       },
@@ -1918,8 +1973,8 @@
        "text": "ففتح زورو صندوق كنز الرجل من جانبه في الحال.",
        "t": 25923,
        "spot": {
-        "x": 0.17,
-        "y": 0.24,
+        "x": 0.33,
+        "y": 0.3,
         "r": 0.15
        }
       },
@@ -1927,35 +1982,35 @@
        "text": "أمّا البحّار الثاني، فكان خرطومه لا يخرج إلّا فقاعات هواء صافيةً في جرّة ماء.",
        "t": 30574,
        "spot": {
-        "x": 0.81,
-        "y": 0.7,
-        "r": 0.17
+        "x": 0.85,
+        "y": 0.82,
+        "r": 0.15
        }
       },
       {
        "text": "فجاء تشوبر، وجلس معقود الذراعين فوق صندوقه المقفل بقفل كبير.",
        "t": 37968,
        "spot": {
-        "x": 0.83,
-        "y": 0.28,
-        "r": 0.18
+        "x": 0.88,
+        "y": 0.38,
+        "r": 0.13
        }
       },
       {
        "text": "«هذا الصندوق يبقى مغلقًا؛ الفقاعات وحدها لا تفتحه!»",
        "t": 44881,
        "spot": {
-        "x": 0.83,
-        "y": 0.17,
-        "r": 0.1
+        "x": 0.88,
+        "y": 0.32,
+        "r": 0.12
        }
       },
       {
        "text": "فتنفّس البحّار الثاني بهدوء، والفقاعات تصعد في الجرّة واحدةً بعد واحدة.",
        "t": 49743,
        "spot": {
-        "x": 0.62,
-        "y": 0.42,
+        "x": 0.72,
+        "y": 0.5,
         "r": 0.15
        }
       },
@@ -1963,9 +2018,9 @@
        "text": "فمدحه زورو على حكمته، فقال تشوبر وهو يرقص فرحًا:",
        "t": 57330,
        "spot": {
-        "x": 0.83,
-        "y": 0.17,
-        "r": 0.1
+        "x": 0.88,
+        "y": 0.32,
+        "r": 0.12
        }
       },
       {
@@ -1984,8 +2039,8 @@
        "text": "After a chest tube for a haemothorax, thoracotomy is indicated for a large initial drainage, as with 2000 mL of blood here.",
        "t": 0,
        "spot": {
-        "x": 0.16,
-        "y": 0.74,
+        "x": 0.15,
+        "y": 0.8,
         "r": 0.15
        }
       },
@@ -1993,8 +2048,8 @@
        "text": "It is also indicated for ongoing loss of more than 200 to 250 mL an hour for several hours, a haemothorax that persists despite a second tube, or haemodynamic instability.",
        "t": 9393,
        "spot": {
-        "x": 0.41,
-        "y": 0.7,
+        "x": 0.42,
+        "y": 0.83,
         "r": 0.13
        }
       },
@@ -2002,9 +2057,9 @@
        "text": "An air leak alone is not an indication for thoracotomy; it is managed with the chest tube: E is the answer.",
        "t": 22057,
        "spot": {
-        "x": 0.81,
-        "y": 0.7,
-        "r": 0.17
+        "x": 0.85,
+        "y": 0.82,
+        "r": 0.15
        }
       },
       {
@@ -2032,28 +2087,28 @@
      "marks": [
       1,
       2,
-      4
+      5
      ],
      "answerMarks": [
-      5
+      6
      ]
     }
    ],
-   "image": "gh:books/johns-hopkins-2016/media/jh-q0009.webp",
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0009-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.16,
-      "y": 0.74,
-      "r": 0.15
+      "x": 0.15,
+      "y": 0.82,
+      "r": 0.14
      },
      "what": "Bucket 2000 filling with red",
      "means": "2000 mL drained at once: thoracotomy"
     },
     {
      "spot": {
-      "x": 0.41,
-      "y": 0.7,
+      "x": 0.42,
+      "y": 0.83,
       "r": 0.13
      },
      "what": "Second bucket filling beside an hourglass",
@@ -2061,8 +2116,8 @@
     },
     {
      "spot": {
-      "x": 0.17,
-      "y": 0.24,
+      "x": 0.33,
+      "y": 0.3,
       "r": 0.15
      },
      "what": "Treasure chest flung open from its side",
@@ -2070,18 +2125,27 @@
     },
     {
      "spot": {
-      "x": 0.81,
-      "y": 0.7,
-      "r": 0.17
+      "x": 0.75,
+      "y": 0.15,
+      "r": 0.11
+     },
+     "what": "Pressure gauge sunk to the low zone",
+     "means": "Haemodynamic instability IS an indication"
+    },
+    {
+     "spot": {
+      "x": 0.85,
+      "y": 0.82,
+      "r": 0.14
      },
      "what": "Hose bubbling only air into a water jar",
      "means": "An air leak alone"
     },
     {
      "spot": {
-      "x": 0.83,
-      "y": 0.28,
-      "r": 0.18
+      "x": 0.88,
+      "y": 0.38,
+      "r": 0.13
      },
      "what": "Chopper sitting on the padlocked chest",
      "means": "An air leak is NOT an indication for thoracotomy (E)"
@@ -2108,80 +2172,80 @@
        "text": "في عربة من عربات قطار البحر، انسحق جانبها في الصدمة، والبخار يصفر.",
        "t": 0,
        "spot": {
-        "x": 0.74,
-        "y": 0.15,
-        "r": 0.22
+        "x": 0.15,
+        "y": 0.2,
+        "r": 0.18
        }
       },
       {
        "text": "وجلس مسافر شابّ اسمه تيمو يمسك بطنه من الألم، وأنفاسه قصيرة.",
        "t": 6737,
        "spot": {
-        "x": 0.3,
-        "y": 0.42,
-        "r": 0.22
+        "x": 0.55,
+        "y": 0.62,
+        "r": 0.2
        }
       },
       {
        "text": "وفي أرض العربة شقّ ممزّق، صعدت منه قدر طبخ نحاسيّة كبيرة.",
        "t": 13243,
        "spot": {
-        "x": 0.55,
-        "y": 0.82,
-        "r": 0.16
+        "x": 0.5,
+        "y": 0.88,
+        "r": 0.15
        }
       },
       {
        "text": "فاستقرّت القدر عاليةً إلى جانب صدره الأيسر.",
        "t": 19439,
        "spot": {
-        "x": 0.63,
-        "y": 0.35,
-        "r": 0.16
+        "x": 0.18,
+        "y": 0.6,
+        "r": 0.14
        }
       },
       {
        "text": "فرفع زورو مسمارًا حديديًّا حادًّا ليطعن به جنبه الأيسر.",
        "t": 23438,
        "spot": {
-        "x": 0.8,
-        "y": 0.63,
-        "r": 0.16
+        "x": 0.45,
+        "y": 0.15,
+        "r": 0.14
        }
       },
       {
        "text": "«قف يا زورو! ستثقب القدر!» صاح تشوبر، ورفع حافره.",
        "t": 28572,
        "spot": {
-        "x": 0.28,
-        "y": 0.76,
-        "r": 0.16
+        "x": 0.18,
+        "y": 0.32,
+        "r": 0.14
        }
       },
       {
        "text": "ثمّ أدخل تشوبر خرطومًا رفيعًا طويلًا من أنف تيمو، حتّى بلغ القدر.",
        "t": 34451,
        "spot": {
-        "x": 0.35,
-        "y": 0.24,
-        "r": 0.14
+        "x": 0.3,
+        "y": 0.42,
+        "r": 0.15
        }
       },
       {
        "text": "فانطلق منها البخار صافرًا، وخفّ ضغطها على صدره.",
        "t": 40222,
        "spot": {
-        "x": 0.64,
-        "y": 0.17,
-        "r": 0.15
+        "x": 0.2,
+        "y": 0.5,
+        "r": 0.12
        }
       },
       {
        "text": "«آه... صرت أتنفّس من جديد!» قال تيمو.",
        "t": 44973,
        "spot": {
-        "x": 0.33,
-        "y": 0.2,
+        "x": 0.6,
+        "y": 0.4,
         "r": 0.12
        }
       },
@@ -2189,9 +2253,9 @@
        "text": "فأعاد زورو مسماره إلى حزامه، وتذكّر تشوبر كلمةً قالها قائده يومًا:",
        "t": 49553,
        "spot": {
-        "x": 0.82,
-        "y": 0.63,
-        "r": 0.15
+        "x": 0.45,
+        "y": 0.15,
+        "r": 0.14
        }
       },
       {
@@ -2210,37 +2274,32 @@
        "text": "After a side impact, abdominal pain with an opaque left chest suggests a ruptured diaphragm with the stomach in the chest.",
        "t": 0,
        "spot": {
-        "x": 0.63,
-        "y": 0.35,
-        "r": 0.16
+        "x": 0.18,
+        "y": 0.6,
+        "r": 0.14
        }
       },
       {
        "text": "The next step is a nasogastric tube, which decompresses the stomach and, when its tip is seen in the chest, confirms the diagnosis: E is the answer.",
        "t": 7920,
        "spot": {
-        "x": 0.37,
-        "y": 0.26,
-        "r": 0.14
+        "x": 0.3,
+        "y": 0.42,
+        "r": 0.15
        }
       },
       {
        "text": "A chest tube placed first could perforate the herniated stomach.",
        "t": 17921,
        "spot": {
-        "x": 0.7,
-        "y": 0.65,
-        "r": 0.14
+        "x": 0.8,
+        "y": 0.25,
+        "r": 0.15
        }
       },
       {
        "text": "The tear is then repaired, usually through the abdomen in the acute setting.",
-       "t": 22322,
-       "spot": {
-        "x": 0.55,
-        "y": 0.84,
-        "r": 0.15
-       }
+       "t": 22322
       }
      ],
      "audio": "gh:books/johns-hopkins-2016/media/jh-q0010-explanation-en.m4a"
@@ -2270,12 +2329,12 @@
      ]
     }
    ],
-   "image": "gh:books/johns-hopkins-2016/media/jh-q0010.webp",
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0010-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.92,
-      "y": 0.32,
+      "x": 0.05,
+      "y": 0.3,
       "r": 0.1
      },
      "what": "Carriage wall crushed in from the side",
@@ -2283,48 +2342,57 @@
     },
     {
      "spot": {
-      "x": 0.55,
-      "y": 0.82,
-      "r": 0.16
+      "x": 0.5,
+      "y": 0.88,
+      "r": 0.14
      },
      "what": "Torn deck in the carriage floor",
      "means": "Ruptured diaphragm"
     },
     {
      "spot": {
-      "x": 0.63,
-      "y": 0.35,
-      "r": 0.16
+      "x": 0.18,
+      "y": 0.6,
+      "r": 0.14
      },
-     "what": "Copper pot risen beside his left chest",
+     "what": "Copper pot risen beside his chest",
      "means": "Stomach herniated into the left chest"
     },
     {
      "spot": {
-      "x": 0.35,
-      "y": 0.24,
+      "x": 0.3,
+      "y": 0.42,
       "r": 0.14
      },
      "what": "Chopper sliding a hose in through his nose",
-     "means": "Nasogastric tube: the next step (E)"
+     "means": "Nasogastric tube, the next step (E)"
     },
     {
      "spot": {
-      "x": 0.64,
-      "y": 0.17,
-      "r": 0.15
+      "x": 0.2,
+      "y": 0.5,
+      "r": 0.1
      },
      "what": "Steam whistling out of the pot",
      "means": "It decompresses the stomach and confirms the diagnosis"
     },
     {
      "spot": {
-      "x": 0.8,
-      "y": 0.63,
-      "r": 0.16
+      "x": 0.45,
+      "y": 0.15,
+      "r": 0.13
      },
-     "what": "Zoro's spike stopped by Chopper's hoof",
-     "means": "A chest tube could perforate the stomach"
+     "what": "Zoro's raised spike, stopped",
+     "means": "A chest tube placed first could perforate the stomach"
+    },
+    {
+     "spot": {
+      "x": 0.8,
+      "y": 0.25,
+      "r": 0.13
+     },
+     "what": "Garden hose and water-seal bottle",
+     "means": "Chest tube (A is wrong)"
     }
    ]
   },
@@ -2886,7 +2954,7 @@
        "t": 65340
       }
      ],
-     "audio": "gh:books/johns-hopkins-2016/media/jh-q0014-story-ar.m4a"
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0014-story-ar-v2.m4a"
     },
     {
      "kind": "explanation",
@@ -2924,7 +2992,7 @@
        "t": 31809
       }
      ],
-     "audio": "gh:books/johns-hopkins-2016/media/jh-q0014-explanation-en.m4a"
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0014-explanation-en-v2.m4a"
     }
    ],
    "quiz": [
@@ -3489,8 +3557,8 @@
        "text": "وكان ثعبان بحر أزرق صغيرًا، ولد للتّوّ.",
        "t": 8809,
        "spot": {
-        "x": 0.54,
-        "y": 0.67,
+        "x": 0.5,
+        "y": 0.65,
         "r": 0.18
        }
       },
@@ -3498,17 +3566,17 @@
        "text": "وإلى جانبه كيس كبير من الدولارات، مربوط بالخيط ثلاثة فصوص مستديرة.",
        "t": 13609,
        "spot": {
-        "x": 0.6,
-        "y": 0.34,
-        "r": 0.35
+        "x": 0.35,
+        "y": 0.35,
+        "r": 0.3
        }
       },
       {
        "text": "فلمّا نظر سانجي، وجد فصًّا واحدًا من الثلاثة محشوًّا بعلب سبام زرقاء لامعة.",
        "t": 20836,
        "spot": {
-        "x": 0.37,
-        "y": 0.34,
+        "x": 0.55,
+        "y": 0.35,
         "r": 0.15
        }
       },
@@ -3516,25 +3584,25 @@
        "text": "وكانت كلّ علبة منتفخةً بفقاعات مستديرة.",
        "t": 28531,
        "spot": {
-        "x": 0.37,
-        "y": 0.36,
-        "r": 0.12
+        "x": 0.55,
+        "y": 0.35,
+        "r": 0.15
        }
       },
       {
        "text": "أمّا الفصّان الآخران، فليس فيهما إلّا الدولارات.",
        "t": 33347,
        "spot": {
-        "x": 0.75,
-        "y": 0.37,
-        "r": 0.2
+        "x": 0.18,
+        "y": 0.38,
+        "r": 0.18
        }
       },
       {
        "text": "«كلّ العلب في فصّ واحد؛ ما أكرمها! جمعت نفسها لي في مكان واحد.»",
        "t": 38179,
        "spot": {
-        "x": 0.14,
+        "x": 0.82,
         "y": 0.18,
         "r": 0.12
        }
@@ -3543,17 +3611,17 @@
        "text": "فأمسك سانجي خيط ذلك الفصّ، ورفعه بحذر وابتسامة.",
        "t": 44910,
        "spot": {
-        "x": 0.4,
-        "y": 0.22,
-        "r": 0.15
+        "x": 0.55,
+        "y": 0.15,
+        "r": 0.12
        }
       },
       {
        "text": "وبقي الصغير نائمًا، والفصّان الباقيان معلّقين إلى جانبه.",
        "t": 50755,
        "spot": {
-        "x": 0.54,
-        "y": 0.67,
+        "x": 0.45,
+        "y": 0.65,
         "r": 0.18
        }
       },
@@ -3561,9 +3629,9 @@
        "text": "فوضع سانجي العلب جانبًا، وتذكّر كلمةً قالها عملاق طيّب ضحوك لطفلة وحيدة:",
        "t": 56776,
        "spot": {
-        "x": 0.14,
-        "y": 0.3,
-        "r": 0.16
+        "x": 0.82,
+        "y": 0.18,
+        "r": 0.12
        }
       },
       {
@@ -3582,8 +3650,8 @@
        "text": "Congenital pulmonary adenomatoid malformation (CPAM) is a cystic lesion of the lung that comes from abnormal growth of the terminal bronchioles.",
        "t": 0,
        "spot": {
-        "x": 0.37,
-        "y": 0.34,
+        "x": 0.32,
+        "y": 0.22,
         "r": 0.15
        }
       },
@@ -3591,8 +3659,8 @@
        "text": "It is usually confined to one lobe: B is the answer.",
        "t": 9973,
        "spot": {
-        "x": 0.37,
-        "y": 0.34,
+        "x": 0.55,
+        "y": 0.35,
         "r": 0.15
        }
       },
@@ -3604,9 +3672,9 @@
        "text": "Symptomatic lesions, and most asymptomatic ones, are treated by lobectomy.",
        "t": 22246,
        "spot": {
-        "x": 0.4,
-        "y": 0.22,
-        "r": 0.15
+        "x": 0.55,
+        "y": 0.15,
+        "r": 0.12
        }
       }
      ],
@@ -3636,12 +3704,12 @@
      ]
     }
    ],
-   "image": "gh:books/johns-hopkins-2016/media/jh-q0017.webp",
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0017-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.54,
-      "y": 0.67,
+      "x": 0.5,
+      "y": 0.65,
       "r": 0.18
      },
      "what": "Newborn sea-king cub in a cradle",
@@ -3649,36 +3717,45 @@
     },
     {
      "spot": {
-      "x": 0.64,
-      "y": 0.08,
-      "r": 0.1
+      "x": 0.33,
+      "y": 0.33,
+      "r": 0.28
      },
-     "what": "Three net lobes hung from one rope",
+     "what": "Sack of dollars tied into three lobes",
      "means": "The lung and its lobes"
     },
     {
      "spot": {
-      "x": 0.37,
-      "y": 0.34,
-      "r": 0.15
+      "x": 0.55,
+      "y": 0.35,
+      "r": 0.14
      },
      "what": "One lobe crammed with bulging SPAM tins",
      "means": "CPAM is usually confined to one lobe (B)"
     },
     {
      "spot": {
-      "x": 0.75,
-      "y": 0.37,
-      "r": 0.2
+      "x": 0.18,
+      "y": 0.38,
+      "r": 0.16
      },
      "what": "The other two lobes, only dollar bills",
      "means": "The rest of the lung is normal"
     },
     {
      "spot": {
-      "x": 0.18,
-      "y": 0.24,
-      "r": 0.12
+      "x": 0.32,
+      "y": 0.22,
+      "r": 0.1
+     },
+     "what": "SPAM growing at the hose's finest twigs",
+     "means": "From abnormal growth of the terminal bronchioles"
+    },
+    {
+     "spot": {
+      "x": 0.72,
+      "y": 0.25,
+      "r": 0.13
      },
      "what": "Sanji lifting that lobe out by its string",
      "means": "Lobectomy is the usual treatment"
@@ -3704,8 +3781,8 @@
        "text": "على سطح سفينة أشباح يلفّها الضباب، لم يكن يضيء إلّا فانوس كهرمانيّ واحد.",
        "t": 0,
        "spot": {
-        "x": 0.77,
-        "y": 0.28,
+        "x": 0.45,
+        "y": 0.8,
         "r": 0.12
        }
       },
@@ -3713,17 +3790,17 @@
        "text": "وعلى اليسار، أخذت علبة سبام زرقاء تنتفخ وتنتفخ، حتّى برزت جوانبها.",
        "t": 6720,
        "spot": {
-        "x": 0.14,
-        "y": 0.63,
-        "r": 0.18
+        "x": 0.2,
+        "y": 0.35,
+        "r": 0.2
        }
       },
       {
        "text": "وعلى اليمين، أخذت علبة ثانية تصغر، حتّى صارت بحجم كشتبان.",
        "t": 13882,
        "spot": {
-        "x": 0.94,
-        "y": 0.69,
+        "x": 0.92,
+        "y": 0.52,
         "r": 0.07
        }
       },
@@ -3731,17 +3808,17 @@
        "text": "وبينهما سحابة كثيفة من الضباب، تخرج منها أعمدة دوّارة إلى العلبتين.",
        "t": 20191,
        "spot": {
-        "x": 0.6,
-        "y": 0.63,
-        "r": 0.2
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.25
        }
       },
       {
        "text": "فرفعت روبين الفانوس، وحدّقت في الضباب بعينين ضيّقتين.",
        "t": 27052,
        "spot": {
-        "x": 0.46,
-        "y": 0.27,
+        "x": 0.25,
+        "y": 0.75,
         "r": 0.18
        }
       },
@@ -3749,45 +3826,45 @@
        "text": "«أرى الأعمدة تدور، ولا أرى التروس الّتي تديرها.»",
        "t": 32418,
        "spot": {
-        "x": 0.5,
-        "y": 0.28,
-        "r": 0.1
+        "x": 0.22,
+        "y": 0.68,
+        "r": 0.12
        }
       },
       {
        "text": "وظلّت التروس مختبئةً في الضباب مهما قرّبت النور.",
        "t": 36986,
        "spot": {
-        "x": 0.6,
-        "y": 0.65,
-        "r": 0.2
+        "x": 0.5,
+        "y": 0.45,
+        "r": 0.25
        }
       },
       {
        "text": "«واحدة تكبر، وأخرى تصغر، والسّبب لا يعرفه أحد بعد.»",
        "t": 41429,
        "spot": {
-        "x": 0.55,
-        "y": 0.65,
-        "r": 0.35
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.25
        }
       },
       {
        "text": "فأنزلت روبين الفانوس، وابتسمت كمن وجد لغزًا يستحقّ البحث.",
        "t": 47366,
        "spot": {
-        "x": 0.46,
-        "y": 0.3,
-        "r": 0.18
+        "x": 0.22,
+        "y": 0.68,
+        "r": 0.12
        }
       },
       {
        "text": "وتذكّرت يوم أنقذها رفاقها، وصوتها وهي تصرخ باكيةً:",
        "t": 52968,
        "spot": {
-        "x": 0.46,
-        "y": 0.3,
-        "r": 0.18
+        "x": 0.22,
+        "y": 0.68,
+        "r": 0.12
        }
       },
       {
@@ -3806,8 +3883,8 @@
        "text": "The course of a CPAM before birth varies: a lesion may grow or regress, by mechanisms that are not understood: A is the answer.",
        "t": 0,
        "spot": {
-        "x": 0.58,
-        "y": 0.65,
+        "x": 0.5,
+        "y": 0.5,
         "r": 0.3
        }
       },
@@ -3815,14 +3892,19 @@
        "text": "A large lesion can cause hydrops in the foetus or respiratory distress at birth.",
        "t": 9017,
        "spot": {
-        "x": 0.14,
-        "y": 0.63,
-        "r": 0.18
+        "x": 0.2,
+        "y": 0.35,
+        "r": 0.2
        }
       },
       {
        "text": "Lobectomy, not a wedge resection, is the preferred operation, because a wedge often leaves part of the lesion behind.",
-       "t": 14443
+       "t": 14443,
+       "spot": {
+        "x": 0.55,
+        "y": 0.15,
+        "r": 0.15
+       }
       },
       {
        "text": "A small risk of malignancy, including pleuropulmonary blastoma, is one reason for removing asymptomatic lesions.",
@@ -3856,21 +3938,21 @@
      ]
     }
    ],
-   "image": "gh:books/johns-hopkins-2016/media/jh-q0018.webp",
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0018-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.14,
-      "y": 0.63,
-      "r": 0.18
+      "x": 0.2,
+      "y": 0.35,
+      "r": 0.2
      },
      "what": "SPAM tin swelling huge",
      "means": "CPAM may grow before birth"
     },
     {
      "spot": {
-      "x": 0.94,
-      "y": 0.69,
+      "x": 0.92,
+      "y": 0.52,
       "r": 0.07
      },
      "what": "Second tin shrinking to a thimble",
@@ -3878,21 +3960,39 @@
     },
     {
      "spot": {
-      "x": 0.6,
-      "y": 0.63,
-      "r": 0.2
+      "x": 0.5,
+      "y": 0.5,
+      "r": 0.24
      },
      "what": "Rods turning out of a thick fog",
      "means": "By mechanisms that are unclear (A)"
     },
     {
      "spot": {
-      "x": 0.46,
-      "y": 0.27,
-      "r": 0.18
+      "x": 0.25,
+      "y": 0.75,
+      "r": 0.17
      },
      "what": "Robin peering into the fog with a lantern",
      "means": "Nobody can see why"
+    },
+    {
+     "spot": {
+      "x": 0.55,
+      "y": 0.15,
+      "r": 0.14
+     },
+     "what": "Pickpocket lifting one whole lobe",
+     "means": "Lobectomy is the preferred operation"
+    },
+    {
+     "spot": {
+      "x": 0.88,
+      "y": 0.2,
+      "r": 0.1
+     },
+     "what": "Cheese wedge tossed aside, SPAM left behind",
+     "means": "A wedge resection often leaves part of the lesion"
     }
    ]
   },
@@ -4141,35 +4241,35 @@
        "text": "في قمرة دافئة على الثاوزند صني، تحت ضوء أزرق هادئ، بكى رضيع في مهده يلهث.",
        "t": 0,
        "spot": {
-        "x": 0.69,
-        "y": 0.63,
-        "r": 0.18
+        "x": 0.55,
+        "y": 0.75,
+        "r": 0.2
        }
       },
       {
        "text": "وكان يضمّ إليه كيسًا صغيرًا من الدولارات، انتفخ فصّ واحد منه كبالون ورديّ هائل.",
        "t": 7195,
        "spot": {
-        "x": 0.49,
-        "y": 0.61,
-        "r": 0.12
+        "x": 0.42,
+        "y": 0.5,
+        "r": 0.18
        }
       },
       {
        "text": "فجاء تشوبر، وضغط على الفصّ المنتفخ برفق.",
        "t": 14033,
        "spot": {
-        "x": 0.41,
-        "y": 0.63,
-        "r": 0.1
+        "x": 0.7,
+        "y": 0.55,
+        "r": 0.15
        }
       },
       {
        "text": "وفوق المهد رزنامة كبيرة على الجدار.",
        "t": 18235,
        "spot": {
-        "x": 0.64,
-        "y": 0.24,
+        "x": 0.6,
+        "y": 0.22,
         "r": 0.22
        }
       },
@@ -4177,35 +4277,35 @@
        "text": "وقد قطعت أوراقها واحدةً بعد واحدة، حتّى بلغت الورقة السادسة.",
        "t": 21675,
        "spot": {
-        "x": 0.64,
-        "y": 0.13,
-        "r": 0.15
+        "x": 0.55,
+        "y": 0.3,
+        "r": 0.2
        }
       },
       {
        "text": "فكانت السادسة آخر ورقة تسقط، وترفرف نازلةً على المهد.",
        "t": 27473,
        "spot": {
-        "x": 0.38,
-        "y": 0.86,
-        "r": 0.12
+        "x": 0.55,
+        "y": 0.38,
+        "r": 0.14
        }
       },
       {
        "text": "وما بعدها من الأوراق بقي معلّقًا نظيفًا، لم يمسّه أحد.",
        "t": 32882,
        "spot": {
-        "x": 0.64,
+        "x": 0.78,
         "y": 0.28,
-        "r": 0.22
+        "r": 0.1
        }
       },
       {
        "text": "«كلّ ما يحدث لهذا الفصّ، يحدث قبل الورقة السادسة.»",
        "t": 38024,
        "spot": {
-        "x": 0.23,
-        "y": 0.57,
+        "x": 0.75,
+        "y": 0.55,
         "r": 0.12
        }
       },
@@ -4213,18 +4313,18 @@
        "text": "فهدأ الرضيع قليلًا، وأمسك بحافر تشوبر الصغير.",
        "t": 42901,
        "spot": {
-        "x": 0.41,
-        "y": 0.63,
-        "r": 0.1
+        "x": 0.6,
+        "y": 0.75,
+        "r": 0.15
        }
       },
       {
        "text": "فتذكّر تشوبر ليلةً بكى فيها بحّار على أخيه، وقال له صوت حكيم:",
        "t": 47706,
        "spot": {
-        "x": 0.2,
-        "y": 0.6,
-        "r": 0.18
+        "x": 0.78,
+        "y": 0.55,
+        "r": 0.12
        }
       },
       {
@@ -4243,18 +4343,18 @@
        "text": "Congenital lobar emphysema is the overinflation of one lobe, caused by a check-valve obstruction of its bronchus or by abnormal cartilage.",
        "t": 0,
        "spot": {
-        "x": 0.49,
-        "y": 0.61,
-        "r": 0.12
+        "x": 0.42,
+        "y": 0.5,
+        "r": 0.18
        }
       },
       {
        "text": "It presents with respiratory distress in the newborn period or the first months of life, and presentation after 6 months is unusual: B is the answer.",
        "t": 9234,
        "spot": {
-        "x": 0.38,
-        "y": 0.86,
-        "r": 0.12
+        "x": 0.55,
+        "y": 0.38,
+        "r": 0.14
        }
       },
       {
@@ -4263,7 +4363,12 @@
       },
       {
        "text": "A symptomatic infant is treated by lobectomy; positive pressure ventilation can make the overinflation worse.",
-       "t": 24508
+       "t": 24508,
+       "spot": {
+        "x": 0.92,
+        "y": 0.75,
+        "r": 0.12
+       }
       }
      ],
      "audio": "gh:books/johns-hopkins-2016/media/jh-q0020-explanation-en.m4a"
@@ -4293,43 +4398,61 @@
      ]
     }
    ],
-   "image": "gh:books/johns-hopkins-2016/media/jh-q0020.webp",
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0020-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.69,
-      "y": 0.63,
+      "x": 0.55,
+      "y": 0.75,
       "r": 0.18
      },
-     "what": "Baby panting in a cradle",
+     "what": "Baby crying, panting in a cradle",
      "means": "Respiratory distress in infancy"
     },
     {
      "spot": {
-      "x": 0.49,
-      "y": 0.61,
-      "r": 0.12
+      "x": 0.42,
+      "y": 0.5,
+      "r": 0.17
      },
      "what": "One lobe blown up like a pink balloon",
      "means": "Congenital lobar emphysema: an overinflated lobe"
     },
     {
      "spot": {
-      "x": 0.64,
+      "x": 0.6,
       "y": 0.22,
-      "r": 0.22
+      "r": 0.2
      },
-     "what": "Calendar torn up to page 6, later pages clean",
+     "what": "Calendar torn page by page up to 6",
      "means": "It presents in the first 6 months"
     },
     {
      "spot": {
-      "x": 0.38,
-      "y": 0.86,
-      "r": 0.12
+      "x": 0.55,
+      "y": 0.38,
+      "r": 0.13
      },
      "what": "Page 6, the last page to fall",
      "means": "Presentation after 6 months is unusual (B)"
+    },
+    {
+     "spot": {
+      "x": 0.92,
+      "y": 0.75,
+      "r": 0.11
+     },
+     "what": "Leather bellows pushed away by Chopper",
+     "means": "Positive pressure ventilation worsens the overinflation"
+    },
+    {
+     "spot": {
+      "x": 0.15,
+      "y": 0.8,
+      "r": 0.12
+     },
+     "what": "Usopp reaching up to the swollen lobe",
+     "means": "A symptomatic infant needs a lobectomy"
     }
    ]
   },
@@ -4353,25 +4476,25 @@
        "text": "عند الغسق، في كوخ صيّاد على شاطئ جزيرة رجال السمك، جلس صيّاد عجوز يسعل سعالًا جافًّا.",
        "t": 0,
        "spot": {
-        "x": 0.14,
-        "y": 0.31,
-        "r": 0.15
+        "x": 0.12,
+        "y": 0.35,
+        "r": 0.14
        }
       },
       {
        "text": "وكان يضمّ إليه كيسًا متيبّسًا منكمشًا من الدولارات، لا يتّسع لنفس واحد.",
        "t": 9281,
        "spot": {
-        "x": 0.16,
-        "y": 0.52,
-        "r": 0.12
+        "x": 0.15,
+        "y": 0.5,
+        "r": 0.11
        }
       },
       {
        "text": "«صدري كأنّه خشب يابس، وسعالي لا يخرج شيئًا!»",
        "t": 16655,
        "spot": {
-        "x": 0.16,
+        "x": 0.12,
         "y": 0.3,
         "r": 0.1
        }
@@ -4380,8 +4503,8 @@
        "text": "وعلى المائدة أمامه رغيف طويل، جاء إليه قطّ رماديّ رشيق بمخلب حادّ.",
        "t": 22258,
        "spot": {
-        "x": 0.52,
-        "y": 0.52,
+        "x": 0.45,
+        "y": 0.5,
         "r": 0.16
        }
       },
@@ -4389,54 +4512,54 @@
        "text": "فأخذ القطّ يقطّعه إلى شرائح رقيقة جدًّا، شريحةً بعد شريحة.",
        "t": 29444,
        "spot": {
-        "x": 0.46,
-        "y": 0.79,
-        "r": 0.25
+        "x": 0.4,
+        "y": 0.7,
+        "r": 0.18
        }
       },
       {
        "text": "فبان في كلّ شريحة قرص عسل ذهبيّ، متراصّ على حوافّها، وأكثف ما يكون في أسفلها.",
        "t": 36422,
        "spot": {
-        "x": 0.23,
-        "y": 0.86,
-        "r": 0.18
+        "x": 0.5,
+        "y": 0.9,
+        "r": 0.22
        }
       },
       {
        "text": "وفي داخل الشرائح أغصان مضلّعة صغيرة، تشدّها حبال دقيقة فتتّسع.",
        "t": 44978,
        "spot": {
-        "x": 0.64,
-        "y": 0.24,
-        "r": 0.15
+        "x": 0.5,
+        "y": 0.78,
+        "r": 0.18
        }
       },
       {
        "text": "فرفعت روبين شريحةً إلى المصباح، وتأمّلتها طويلًا.",
        "t": 52161,
        "spot": {
-        "x": 0.64,
-        "y": 0.23,
-        "r": 0.16
+        "x": 0.85,
+        "y": 0.2,
+        "r": 0.14
        }
       },
       {
        "text": "«قرص العسل على الحوافّ وفي الأسفل، والأغصان مشدودة بالحبال؛ هذه علامته الّتي لا تخطئ.»",
        "t": 57658,
        "spot": {
-        "x": 0.87,
-        "y": 0.18,
-        "r": 0.1
+        "x": 0.7,
+        "y": 0.3,
+        "r": 0.12
        }
       },
       {
        "text": "فضحك العجوز رغم سعاله، وتذكّر طبيبةً عجوزًا من جزيرة الثلج كانت تسأل كلّ من تلقاه:",
        "t": 65220,
        "spot": {
-        "x": 0.14,
-        "y": 0.31,
-        "r": 0.15
+        "x": 0.12,
+        "y": 0.35,
+        "r": 0.14
        }
       },
       {
@@ -4455,36 +4578,36 @@
        "text": "Idiopathic pulmonary fibrosis is a progressive fibrosing lung disease of older adults, usually presenting after 50 with dyspnoea and a dry cough.",
        "t": 0,
        "spot": {
-        "x": 0.14,
-        "y": 0.31,
-        "r": 0.15
+        "x": 0.12,
+        "y": 0.35,
+        "r": 0.14
        }
       },
       {
        "text": "The fibrosis predominates in the subpleural regions and the lower zones, not the upper zones.",
        "t": 10275,
        "spot": {
-        "x": 0.23,
-        "y": 0.86,
-        "r": 0.18
+        "x": 0.5,
+        "y": 0.9,
+        "r": 0.22
        }
       },
       {
        "text": "Its classic CT findings are honeycombing and traction bronchiectasis: C is the answer.",
        "t": 16461,
        "spot": {
-        "x": 0.64,
-        "y": 0.24,
-        "r": 0.15
+        "x": 0.5,
+        "y": 0.82,
+        "r": 0.22
        }
       },
       {
        "text": "Pulmonary function tests show a restrictive pattern with a low DLco, and transbronchial biopsies are usually not enough for the diagnosis.",
        "t": 22863,
        "spot": {
-        "x": 0.16,
-        "y": 0.52,
-        "r": 0.12
+        "x": 0.5,
+        "y": 0.1,
+        "r": 0.14
        }
       }
      ],
@@ -4516,29 +4639,29 @@
      ]
     }
    ],
-   "image": "gh:books/johns-hopkins-2016/media/jh-q0021.webp",
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0021-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.14,
-      "y": 0.31,
-      "r": 0.15
+      "x": 0.12,
+      "y": 0.35,
+      "r": 0.13
      },
      "what": "Old fisherman with a dry cough",
      "means": "IPF: an older adult with a dry cough"
     },
     {
      "spot": {
-      "x": 0.16,
-      "y": 0.52,
-      "r": 0.12
+      "x": 0.15,
+      "y": 0.5,
+      "r": 0.1
      },
      "what": "Stiff shrunken sack of dollar bills",
      "means": "A fibrotic, restricted lung"
     },
     {
      "spot": {
-      "x": 0.52,
+      "x": 0.45,
       "y": 0.5,
       "r": 0.15
      },
@@ -4547,21 +4670,30 @@
     },
     {
      "spot": {
-      "x": 0.23,
-      "y": 0.86,
-      "r": 0.18
+      "x": 0.5,
+      "y": 0.9,
+      "r": 0.2
      },
      "what": "Honeycomb along the crust and bottom",
      "means": "Honeycombing, subpleural and in the lower zones (C)"
     },
     {
      "spot": {
-      "x": 0.64,
-      "y": 0.24,
-      "r": 0.15
+      "x": 0.5,
+      "y": 0.78,
+      "r": 0.16
      },
      "what": "Ribbed twigs pulled open by ropes",
      "means": "Traction bronchiectasis (C)"
+    },
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.1,
+      "r": 0.13
+     },
+     "what": "Smoke passing thinly through a fishnet",
+     "means": "Restrictive pattern with a low DLco"
     }
    ]
   },
@@ -4924,7 +5056,7 @@
        "t": 74360
       }
      ],
-     "audio": "gh:books/johns-hopkins-2016/media/jh-q0023-story-ar.m4a"
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0023-story-ar-v2.m4a"
     },
     {
      "kind": "explanation",
@@ -4967,7 +5099,7 @@
        "t": 28535
       }
      ],
-     "audio": "gh:books/johns-hopkins-2016/media/jh-q0023-explanation-en.m4a"
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0023-explanation-en-v2.m4a"
     }
    ],
    "quiz": [
@@ -5622,7 +5754,7 @@
        "t": 59750
       }
      ],
-     "audio": "gh:books/johns-hopkins-2016/media/jh-q0026-story-ar.m4a"
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0026-story-ar-v2.m4a"
     },
     {
      "kind": "explanation",
@@ -5656,7 +5788,7 @@
        "t": 20787
       }
      ],
-     "audio": "gh:books/johns-hopkins-2016/media/jh-q0026-explanation-en.m4a"
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0026-explanation-en-v2.m4a"
     }
    ],
    "quiz": [
@@ -5974,35 +6106,35 @@
        "text": "في عنبر سفينة قراصنة، تحت ضوء أزرق شاحب، جلس بحّار نحيل مصفرّ الوجه ملتفًّا ببطّانيّته.",
        "t": 0,
        "spot": {
-        "x": 0.14,
-        "y": 0.4,
-        "r": 0.16
+        "x": 0.6,
+        "y": 0.22,
+        "r": 0.18
        }
       },
       {
        "text": "وكان درعه مكسورًا إلى جانبه، لا يحميه من شيء.",
        "t": 8839,
        "spot": {
-        "x": 0.17,
+        "x": 0.2,
         "y": 0.78,
-        "r": 0.15
+        "r": 0.14
        }
       },
       {
        "text": "وكان يضمّ إليه صندوق كنز كبيرًا.",
        "t": 13277,
        "spot": {
-        "x": 0.62,
-        "y": 0.47,
-        "r": 0.3
+        "x": 0.6,
+        "y": 0.45,
+        "r": 0.22
        }
       },
       {
        "text": "فأخذت مطرقة باب نحاسيّة على غطاء الصندوق تطرق وحدها: طقّ، طقّ، طقّ.",
        "t": 16712,
        "spot": {
-        "x": 0.62,
-        "y": 0.25,
+        "x": 0.42,
+        "y": 0.38,
         "r": 0.12
        }
       },
@@ -6010,17 +6142,17 @@
        "text": "«من يطرق صندوقي، وأنا لم أفتح لأحد؟»",
        "t": 23646,
        "spot": {
-        "x": 0.23,
-        "y": 0.31,
-        "r": 0.1
+        "x": 0.6,
+        "y": 0.22,
+        "r": 0.12
        }
       },
       {
        "text": "ثمّ خرج من نفق محفور في جدار الصندوق الجانبيّ، خيط من حبيبات الكبريت الصفراء.",
        "t": 27754,
        "spot": {
-        "x": 0.46,
-        "y": 0.56,
+        "x": 0.58,
+        "y": 0.55,
         "r": 0.1
        }
       },
@@ -6028,8 +6160,8 @@
        "text": "فانساب على الأرض يلمع تحت الضوء.",
        "t": 34302,
        "spot": {
-        "x": 0.57,
-        "y": 0.82,
+        "x": 0.55,
+        "y": 0.88,
         "r": 0.14
        }
       },
@@ -6037,27 +6169,27 @@
        "text": "فجثا تشوبر، وتلقّى الحبيبات بحافره، وعبس.",
        "t": 37234,
        "spot": {
-        "x": 0.81,
-        "y": 0.66,
-        "r": 0.15
+        "x": 0.8,
+        "y": 0.72,
+        "r": 0.14
        }
       },
       {
        "text": "«هذا الطارق لا يدخل إلّا على من انكسر درعه، وكتابنا يقول إنّ هذه الحبيبات تخرج من نفقه.»",
        "t": 42038,
        "spot": {
-        "x": 0.81,
-        "y": 0.66,
-        "r": 0.13
+        "x": 0.8,
+        "y": 0.65,
+        "r": 0.12
        }
       },
       {
        "text": "فضمّ تشوبر البحّار إليه، وتذكّر كلمة قرصان عجوز عظيم كان يسمّي رجاله أبناءه:",
        "t": 49442,
        "spot": {
-        "x": 0.81,
-        "y": 0.66,
-        "r": 0.15
+        "x": 0.75,
+        "y": 0.5,
+        "r": 0.18
        }
       },
       {
@@ -6076,32 +6208,37 @@
        "text": "Nocardiosis is an infection that strikes mainly immunosuppressed patients.",
        "t": 0,
        "spot": {
-        "x": 0.17,
+        "x": 0.2,
         "y": 0.78,
-        "r": 0.15
+        "r": 0.14
        }
       },
       {
        "text": "It forms lung abscesses, often several of them, and spreads to the brain and the chest wall.",
        "t": 5179,
        "spot": {
-        "x": 0.46,
-        "y": 0.56,
-        "r": 0.1
+        "x": 0.15,
+        "y": 0.6,
+        "r": 0.15
        }
       },
       {
        "text": "The book's key is B: sulfur granules draining from a chest-wall sinus.",
        "t": 11844,
        "spot": {
-        "x": 0.5,
-        "y": 0.7,
-        "r": 0.15
+        "x": 0.57,
+        "y": 0.6,
+        "r": 0.14
        }
       },
       {
        "text": "It is treated with sulfonamides, not penicillin, and rarely needs a lobectomy.",
-       "t": 17356
+       "t": 17356,
+       "spot": {
+        "x": 0.1,
+        "y": 0.3,
+        "r": 0.12
+       }
       }
      ],
      "audio": "gh:books/johns-hopkins-2016/media/jh-q0028-explanation-en.m4a"
@@ -6131,39 +6268,39 @@
      ]
     }
    ],
-   "image": "gh:books/johns-hopkins-2016/media/jh-q0028.webp",
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0028-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.62,
-      "y": 0.25,
-      "r": 0.12
+      "x": 0.42,
+      "y": 0.38,
+      "r": 0.11
      },
-     "what": "Brass door knocker on the chest's lid",
+     "what": "Brass door knocker on the chest",
      "means": "Nocardia (KNOCK-ardia)"
     },
     {
      "spot": {
-      "x": 0.17,
+      "x": 0.2,
       "y": 0.78,
-      "r": 0.15
+      "r": 0.13
      },
      "what": "Pale sailor's broken shield",
      "means": "It strikes the immunosuppressed"
     },
     {
      "spot": {
-      "x": 0.46,
-      "y": 0.56,
-      "r": 0.1
+      "x": 0.58,
+      "y": 0.55,
+      "r": 0.09
      },
      "what": "Tunnel bored through the chest's wall",
      "means": "A chest-wall sinus"
     },
     {
      "spot": {
-      "x": 0.57,
-      "y": 0.82,
+      "x": 0.55,
+      "y": 0.8,
       "r": 0.14
      },
      "what": "Yellow sulfur grains trickling out",
@@ -6171,9 +6308,27 @@
     },
     {
      "spot": {
-      "x": 0.81,
-      "y": 0.66,
-      "r": 0.15
+      "x": 0.15,
+      "y": 0.6,
+      "r": 0.14
+     },
+     "what": "Sack of dollars dotted with festering pools",
+     "means": "Lung abscesses, often several"
+    },
+    {
+     "spot": {
+      "x": 0.1,
+      "y": 0.3,
+      "r": 0.11
+     },
+     "what": "Pickpocket turning away empty-handed",
+     "means": "It rarely needs a lobectomy"
+    },
+    {
+     "spot": {
+      "x": 0.8,
+      "y": 0.72,
+      "r": 0.13
      },
      "what": "Chopper catching the grains, frowning",
      "means": "Classically actinomycosis; the book's key is kept"
@@ -6726,7 +6881,7 @@
        "t": 57088
       }
      ],
-     "audio": "gh:books/johns-hopkins-2016/media/jh-q0031-story-ar.m4a"
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0031-story-ar-v2.m4a"
     },
     {
      "kind": "explanation",
@@ -6764,7 +6919,7 @@
        "t": 24700
       }
      ],
-     "audio": "gh:books/johns-hopkins-2016/media/jh-q0031-explanation-en.m4a"
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0031-explanation-en-v2.m4a"
     }
    ],
    "quiz": [
@@ -7505,26 +7660,26 @@
        "text": "على شاطئ مشمس في جزيرة من جزر الخطّ الكبير، رقد كيس كبير شفّاف من الدولارات.",
        "t": 0,
        "spot": {
-        "x": 0.43,
-        "y": 0.47,
-        "r": 0.38
+        "x": 0.5,
+        "y": 0.55,
+        "r": 0.4
        }
       },
       {
        "text": "وفي داخله ثور أحمر منفوخ كالبالون، يكبر ويكبر.",
        "t": 7343,
        "spot": {
-        "x": 0.48,
-        "y": 0.37,
-        "r": 0.28
+        "x": 0.55,
+        "y": 0.5,
+        "r": 0.3
        }
       },
       {
        "text": "فكلّما كبر الثور، ضغط الأوراق الّتي إلى جانبه.",
        "t": 12624,
        "spot": {
-        "x": 0.1,
-        "y": 0.53,
+        "x": 0.12,
+        "y": 0.58,
         "r": 0.1
        }
       },
@@ -7532,8 +7687,8 @@
        "text": "حتّى سحقها مسطّحةً على جدار الكيس.",
        "t": 17310,
        "spot": {
-        "x": 0.1,
-        "y": 0.6,
+        "x": 0.12,
+        "y": 0.65,
         "r": 0.1
        }
       },
@@ -7545,27 +7700,27 @@
        "text": "فجاء لوفي ضاحكًا، ومطّ ذراعيه المطّاطيّتين حول الكيس كلّه.",
        "t": 27493,
        "spot": {
-        "x": 0.6,
-        "y": 0.62,
-        "r": 0.25
+        "x": 0.5,
+        "y": 0.55,
+        "r": 0.42
        }
       },
       {
        "text": "«سأخرج هذا الثور، فتعود الأوراق تنتفخ من جديد!»",
        "t": 33252,
        "spot": {
-        "x": 0.88,
-        "y": 0.52,
-        "r": 0.09
+        "x": 0.38,
+        "y": 0.12,
+        "r": 0.12
        }
       },
       {
        "text": "وشدّ ذراعيه حتّى التفّتا حول الكيس مرّتين.",
        "t": 37944,
        "spot": {
-        "x": 0.16,
-        "y": 0.65,
-        "r": 0.1
+        "x": 0.5,
+        "y": 0.55,
+        "r": 0.42
        }
       },
       {
@@ -7576,9 +7731,9 @@
        "text": "فضحك لوفي كما ضحك يوم سأله أوّل عدوّ لقيه، وقال:",
        "t": 46138,
        "spot": {
-        "x": 0.88,
-        "y": 0.52,
-        "r": 0.09
+        "x": 0.38,
+        "y": 0.12,
+        "r": 0.12
        }
       },
       {
@@ -7597,17 +7752,17 @@
        "text": "A giant bulla is an air-filled space that takes up at least a third of the hemithorax.",
        "t": 0,
        "spot": {
-        "x": 0.48,
-        "y": 0.37,
-        "r": 0.28
+        "x": 0.55,
+        "y": 0.5,
+        "r": 0.3
        }
       },
       {
        "text": "It compresses the adjacent, more normal lung parenchyma: E is the answer.",
        "t": 5493,
        "spot": {
-        "x": 0.1,
-        "y": 0.57,
+        "x": 0.12,
+        "y": 0.6,
         "r": 0.12
        }
       },
@@ -7615,14 +7770,19 @@
        "text": "Removing it lets the compressed lung re-expand, and that is when surgery helps most.",
        "t": 10541,
        "spot": {
-        "x": 0.38,
-        "y": 0.63,
-        "r": 0.2
+        "x": 0.5,
+        "y": 0.55,
+        "r": 0.42
        }
       },
       {
        "text": "Giant bullae arise in emphysematous lungs, can be resected by VATS, do not regress when the patient stops smoking, and are not by themselves an indication for surgery.",
-       "t": 16577
+       "t": 16577,
+       "spot": {
+        "x": 0.85,
+        "y": 0.45,
+        "r": 0.15
+       }
       }
      ],
      "audio": "gh:books/johns-hopkins-2016/media/jh-q0035-explanation-en.m4a"
@@ -7650,12 +7810,12 @@
      ]
     }
    ],
-   "image": "gh:books/johns-hopkins-2016/media/jh-q0035.webp",
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0035-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.48,
-      "y": 0.37,
+      "x": 0.55,
+      "y": 0.48,
       "r": 0.28
      },
      "what": "Red inflatable bull swelling in the sack",
@@ -7663,21 +7823,30 @@
     },
     {
      "spot": {
-      "x": 0.1,
-      "y": 0.57,
-      "r": 0.12
+      "x": 0.12,
+      "y": 0.6,
+      "r": 0.11
      },
      "what": "Bills squashed flat against the side",
      "means": "Giant bullae compress the adjacent lung (E)"
     },
     {
      "spot": {
-      "x": 0.6,
-      "y": 0.62,
-      "r": 0.25
+      "x": 0.35,
+      "y": 0.12,
+      "r": 0.13
      },
      "what": "Luffy's rubber arms round the sack",
      "means": "Removing it lets the squashed lung re-expand"
+    },
+    {
+     "spot": {
+      "x": 0.85,
+      "y": 0.45,
+      "r": 0.12
+     },
+     "what": "The sack holed like Swiss cheese",
+     "means": "Giant bullae arise in emphysematous lungs"
     }
    ]
   },
@@ -7792,7 +7961,7 @@
        "t": 66015
       }
      ],
-     "audio": "gh:books/johns-hopkins-2016/media/jh-q0036-story-ar.m4a"
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0036-story-ar-v2.m4a"
     },
     {
      "kind": "explanation",
@@ -7830,7 +7999,7 @@
        "t": 19717
       }
      ],
-     "audio": "gh:books/johns-hopkins-2016/media/jh-q0036-explanation-en.m4a"
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0036-explanation-en-v2.m4a"
     }
    ],
    "quiz": [
@@ -8271,7 +8440,7 @@
        "t": 58167
       }
      ],
-     "audio": "gh:books/johns-hopkins-2016/media/jh-q0038-story-ar.m4a"
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0038-story-ar-v2.m4a"
     },
     {
      "kind": "explanation",
@@ -8309,7 +8478,7 @@
        "t": 24542
       }
      ],
-     "audio": "gh:books/johns-hopkins-2016/media/jh-q0038-explanation-en.m4a"
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0038-explanation-en-v2.m4a"
     }
    ],
    "quiz": [
@@ -8416,8 +8585,8 @@
        "text": "في غرفة العمليّات على الثاوزند صني، تحت مصباح أبيض ساطع، رقد بحّار خائف اسمه نوح.",
        "t": 0,
        "spot": {
-        "x": 0.19,
-        "y": 0.35,
+        "x": 0.45,
+        "y": 0.85,
         "r": 0.15
        }
       },
@@ -8425,8 +8594,8 @@
        "text": "كان يمسك حلقه ويلهث، ولا يقدر إلّا على كلمات قصيرة.",
        "t": 8093,
        "spot": {
-        "x": 0.27,
-        "y": 0.33,
+        "x": 0.4,
+        "y": 0.92,
         "r": 0.1
        }
       },
@@ -8434,17 +8603,17 @@
        "text": "«لا... أستطيع... التنفّس!»",
        "t": 13761,
        "spot": {
-        "x": 0.21,
-        "y": 0.28,
-        "r": 0.1
+        "x": 0.45,
+        "y": 0.85,
+        "r": 0.12
        }
       },
       {
        "text": "وفوقه خرطوم مضلّع شفّاف عملاق، تضغطه في وسطه حلقة حمراء صلبة من الندب.",
        "t": 17659,
        "spot": {
-        "x": 0.51,
-        "y": 0.7,
+        "x": 0.45,
+        "y": 0.62,
         "r": 0.15
        }
       },
@@ -8452,26 +8621,26 @@
        "text": "وعلى الأرض، أنبوب مطّاطيّ رفيع ليّن، ألقاه تشوبر جانبًا.",
        "t": 25690,
        "spot": {
-        "x": 0.27,
-        "y": 0.94,
-        "r": 0.13
+        "x": 0.9,
+        "y": 0.82,
+        "r": 0.1
        }
       },
       {
        "text": "«ليس هذا وقت الأنبوب الليّن؛ هنا، في غرفتي، وبالمنظار الصلب!»",
        "t": 31806,
        "spot": {
-        "x": 0.56,
-        "y": 0.2,
-        "r": 0.12
+        "x": 0.45,
+        "y": 0.22,
+        "r": 0.14
        }
       },
       {
        "text": "فدفع تشوبر في الخرطوم منظارًا فولاذيًّا طويلًا مستقيمًا.",
        "t": 37665,
        "spot": {
-        "x": 0.5,
-        "y": 0.48,
+        "x": 0.45,
+        "y": 0.45,
         "r": 0.12
        }
       },
@@ -8479,8 +8648,8 @@
        "text": "وعلى رأسه مخروط فولاذيّ يتّسع، فمطّ حلقة الندب حتّى انفتحت.",
        "t": 42782,
        "spot": {
-        "x": 0.5,
-        "y": 0.66,
+        "x": 0.45,
+        "y": 0.6,
         "r": 0.12
        }
       },
@@ -8488,8 +8657,8 @@
        "text": "فاندفع الهواء في الخرطوم، وتنفّس نوح نفسًا طويلًا كاملًا.",
        "t": 48819,
        "spot": {
-        "x": 0.5,
-        "y": 0.81,
+        "x": 0.45,
+        "y": 0.75,
         "r": 0.15
        }
       },
@@ -8497,9 +8666,9 @@
        "text": "فأمسك نوح بحافر تشوبر، وقال لرفاقه ما قاله رجل ناريّ يومًا لمن أحبّوه:",
        "t": 54508,
        "spot": {
-        "x": 0.4,
+        "x": 0.45,
         "y": 0.3,
-        "r": 0.2
+        "r": 0.18
        }
       },
       {
@@ -8518,8 +8687,8 @@
        "text": "A known postintubation tracheal stenosis that becomes critical after a respiratory infection is an emergency.",
        "t": 0,
        "spot": {
-        "x": 0.51,
-        "y": 0.7,
+        "x": 0.45,
+        "y": 0.62,
         "r": 0.15
        }
       },
@@ -8527,8 +8696,8 @@
        "text": "The safest first treatment is rigid bronchoscopy with dilation in the operating room, which secures the airway and opens the stenosis: A is the answer.",
        "t": 7497,
        "spot": {
-        "x": 0.5,
-        "y": 0.58,
+        "x": 0.45,
+        "y": 0.5,
         "r": 0.18
        }
       },
@@ -8536,9 +8705,9 @@
        "text": "Flexible bronchoscopy in the emergency department, or a blind intubation, can obstruct the airway completely.",
        "t": 17567,
        "spot": {
-        "x": 0.27,
-        "y": 0.94,
-        "r": 0.13
+        "x": 0.9,
+        "y": 0.82,
+        "r": 0.1
        }
       },
       {
@@ -8564,7 +8733,8 @@
      "lang": "en",
      "source": "Johns Hopkins 2016, Q8.4",
      "marks": [
-      1
+      1,
+      6
      ],
      "answerMarks": [
       2,
@@ -8572,12 +8742,12 @@
      ]
     }
    ],
-   "image": "gh:books/johns-hopkins-2016/media/jh-q0039.webp",
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0039-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.27,
-      "y": 0.33,
+      "x": 0.42,
+      "y": 0.9,
       "r": 0.1
      },
      "what": "Sailor clutching his throat, gasping",
@@ -8585,39 +8755,48 @@
     },
     {
      "spot": {
-      "x": 0.51,
-      "y": 0.68,
-      "r": 0.14
+      "x": 0.45,
+      "y": 0.62,
+      "r": 0.13
      },
      "what": "Steel cone stretching the red scar ring",
      "means": "The postintubation stenosis is dilated (A)"
     },
     {
      "spot": {
-      "x": 0.5,
-      "y": 0.48,
-      "r": 0.12
+      "x": 0.45,
+      "y": 0.45,
+      "r": 0.11
      },
      "what": "Long straight steel telescope in the hose",
      "means": "Rigid bronchoscopy in the operating room (A)"
     },
     {
      "spot": {
-      "x": 0.27,
-      "y": 0.94,
-      "r": 0.13
+      "x": 0.9,
+      "y": 0.82,
+      "r": 0.1
      },
      "what": "Thin bendy tube thrown on the floor",
      "means": "Flexible bronchoscopy in the ER: the wrong choice"
     },
     {
      "spot": {
-      "x": 0.56,
-      "y": 0.2,
+      "x": 0.5,
+      "y": 0.05,
       "r": 0.12
      },
      "what": "Chopper under the operating lamp",
      "means": "In the operating room the airway is secured"
+    },
+    {
+     "spot": {
+      "x": 0.9,
+      "y": 0.4,
+      "r": 0.12
+     },
+     "what": "Old leather bellows, its tube coiled",
+     "means": "The stenosis follows intubation and ventilation"
     }
    ]
   },
@@ -8641,34 +8820,34 @@
        "text": "في يوم مشمس على ظهر الثاوزند صني، رقد خرطوم مضلّع أبيض تلتفّ حوله كروم خضراء تطعمه.",
        "t": 0,
        "spot": {
-        "x": 0.48,
-        "y": 0.71,
-        "r": 0.3
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.35
        }
       },
       {
        "text": "وكان قد قطع في وسطه، وشدّ طرفاه بحبل مشدود كالوتر.",
        "t": 7828,
        "spot": {
-        "x": 0.51,
-        "y": 0.71,
-        "r": 0.1
+        "x": 0.5,
+        "y": 0.52,
+        "r": 0.12
        }
       },
       {
        "text": "«الحبل مشدود أكثر من اللازم؛ ستنفكّ الدرزة!»",
        "t": 13155,
        "spot": {
-        "x": 0.51,
-        "y": 0.71,
-        "r": 0.1
+        "x": 0.5,
+        "y": 0.52,
+        "r": 0.12
        }
       },
       {
        "text": "فأنزل الجرس الّذي في رأس الخرطوم على حباله.",
        "t": 17839,
        "spot": {
-        "x": 0.59,
+        "x": 0.5,
         "y": 0.08,
         "r": 0.12
        }
@@ -8677,8 +8856,8 @@
        "text": "وأحنى لوفي ذقنه إلى صدره، فارتخى جزء من الحبل.",
        "t": 21660,
        "spot": {
-        "x": 0.14,
-        "y": 0.27,
+        "x": 0.8,
+        "y": 0.18,
         "r": 0.14
        }
       },
@@ -8686,26 +8865,26 @@
        "text": "«هكذا؟ صار الحبل ألين!»",
        "t": 26107,
        "spot": {
-        "x": 0.14,
-        "y": 0.22,
-        "r": 0.1
+        "x": 0.8,
+        "y": 0.15,
+        "r": 0.12
        }
       },
       {
        "text": "ثمّ أخذ زورو يعرّي جزءًا من الخرطوم من كلّ جهاته، حوله كلّه.",
        "t": 29081,
        "spot": {
-        "x": 0.55,
-        "y": 0.55,
-        "r": 0.25
+        "x": 0.32,
+        "y": 0.4,
+        "r": 0.18
        }
       },
       {
        "text": "فذبلت الكروم الخضراء هناك، واسمرّت وتساقطت.",
        "t": 34702,
        "spot": {
-        "x": 0.43,
-        "y": 0.84,
+        "x": 0.48,
+        "y": 0.5,
         "r": 0.15
        }
       },
@@ -8713,18 +8892,18 @@
        "text": "وبقي الحبل عند ذلك الموضع مشدودًا كما كان، لم يرتخ شعرة.",
        "t": 39050,
        "spot": {
-        "x": 0.51,
-        "y": 0.71,
-        "r": 0.1
+        "x": 0.5,
+        "y": 0.52,
+        "r": 0.12
        }
       },
       {
        "text": "فتوقّف زورو نادمًا، وتذكّر كلمته الّتي يعيش عليها:",
        "t": 44232,
        "spot": {
-        "x": 0.67,
-        "y": 0.37,
-        "r": 0.12
+        "x": 0.32,
+        "y": 0.32,
+        "r": 0.14
        }
       },
       {
@@ -8743,8 +8922,8 @@
        "text": "Tension on a tracheal anastomosis is lowered by neck flexion, by freeing the pretracheal plane, by a suprahyoid laryngeal release and by a pericardial hilar release.",
        "t": 0,
        "spot": {
-        "x": 0.14,
-        "y": 0.27,
+        "x": 0.8,
+        "y": 0.18,
         "r": 0.14
        }
       },
@@ -8752,17 +8931,17 @@
        "text": "Circumferential dissection of the trachea does not decrease the tension: C is the answer.",
        "t": 11125,
        "spot": {
-        "x": 0.55,
-        "y": 0.55,
-        "r": 0.25
+        "x": 0.32,
+        "y": 0.4,
+        "r": 0.18
        }
       },
       {
        "text": "It also destroys the segmental blood supply that comes in from the sides, risking breakdown of the anastomosis.",
        "t": 17185,
        "spot": {
-        "x": 0.43,
-        "y": 0.84,
+        "x": 0.48,
+        "y": 0.5,
         "r": 0.15
        }
       },
@@ -8797,52 +8976,70 @@
      ]
     }
    ],
-   "image": "gh:books/johns-hopkins-2016/media/jh-q0040.webp",
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0040-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.51,
-      "y": 0.71,
-      "r": 0.1
+      "x": 0.5,
+      "y": 0.53,
+      "r": 0.11
      },
      "what": "Two hose ends pulled together by a rope",
      "means": "Tension on the tracheal anastomosis"
     },
     {
      "spot": {
-      "x": 0.14,
-      "y": 0.27,
-      "r": 0.14
+      "x": 0.8,
+      "y": 0.18,
+      "r": 0.13
      },
      "what": "Luffy bending his chin to his chest",
      "means": "Neck flexion reduces tension"
     },
     {
      "spot": {
-      "x": 0.59,
+      "x": 0.5,
       "y": 0.08,
-      "r": 0.12
+      "r": 0.11
      },
      "what": "Bell at the top lowered on its ropes",
      "means": "Laryngeal release reduces tension"
     },
     {
      "spot": {
-      "x": 0.3,
-      "y": 0.6,
-      "r": 0.12
+      "x": 0.32,
+      "y": 0.4,
+      "r": 0.16
      },
      "what": "Zoro stripping the hose bare all round",
      "means": "Circumferential dissection does NOT reduce tension (C)"
     },
     {
      "spot": {
-      "x": 0.43,
-      "y": 0.84,
-      "r": 0.15
+      "x": 0.48,
+      "y": 0.5,
+      "r": 0.13
      },
      "what": "Green feeding vines withering",
-     "means": "It destroys the lateral blood supply"
+     "means": "It destroys the blood supply that comes in from the sides"
+    },
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.7,
+      "r": 0.09
+     },
+     "what": "The seam dripping below",
+     "means": "Breakdown of the anastomosis"
+    },
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.85,
+      "r": 0.28
+     },
+     "what": "Two money sacks sliding up at the fork",
+     "means": "A pericardial hilar release does lower the tension"
     }
    ]
   },
@@ -9065,9 +9262,9 @@
        "text": "في مطبخ الثاوزند صني، تحت ضوء صباح دافئ، كانت صدفة سرطان أحمر كبير فارغةً كالوعاء.",
        "t": 0,
        "spot": {
-        "x": 0.48,
-        "y": 0.69,
-        "r": 0.35
+        "x": 0.45,
+        "y": 0.75,
+        "r": 0.3
        }
       },
       {
@@ -9075,16 +9272,16 @@
        "t": 8251,
        "spot": {
         "x": 0.45,
-        "y": 0.62,
-        "r": 0.25
+        "y": 0.7,
+        "r": 0.22
        }
       },
       {
        "text": "وكانت حوافّ الحبوب ضبابيّةً، يذوب بعضها في بعض، فلا يعرف أين تنتهي حبّة وتبدأ أخرى.",
        "t": 11760,
        "spot": {
-        "x": 0.37,
-        "y": 0.6,
+        "x": 0.45,
+        "y": 0.68,
         "r": 0.22
        }
       },
@@ -9092,17 +9289,17 @@
        "text": "فأخذ سانجي يشقّ الحبوب بسكّينه، حبّةً بعد حبّة.",
        "t": 19773,
        "spot": {
-        "x": 0.35,
-        "y": 0.4,
-        "r": 0.12
+        "x": 0.4,
+        "y": 0.38,
+        "r": 0.15
        }
       },
       {
        "text": "فإذا كلّ حبّة فارغة من الداخل، ليس فيها لبّ واحد.",
        "t": 24862,
        "spot": {
-        "x": 0.52,
-        "y": 0.41,
+        "x": 0.47,
+        "y": 0.42,
         "r": 0.08
        }
       },
@@ -9110,8 +9307,8 @@
        "text": "«حبوب صغيرة بلا حدود، وبلا لبّ؛ ما رأيت شوفانًا كهذا قطّ!»",
        "t": 30004,
        "spot": {
-        "x": 0.45,
-        "y": 0.23,
+        "x": 0.5,
+        "y": 0.25,
         "r": 0.12
        }
       },
@@ -9119,8 +9316,8 @@
        "text": "وإلى اليمين، في صحن صغير منفصل، لؤلؤة واحدة كبيرة لامعة.",
        "t": 36350,
        "spot": {
-        "x": 0.83,
-        "y": 0.85,
+        "x": 0.92,
+        "y": 0.6,
         "r": 0.1
        }
       },
@@ -9128,8 +9325,8 @@
        "text": "«وهذه اللؤلؤة ليست من هذه الطبخة؛ لها صحنها وأهلها!»",
        "t": 42825,
        "spot": {
-        "x": 0.83,
-        "y": 0.85,
+        "x": 0.92,
+        "y": 0.6,
         "r": 0.1
        }
       },
@@ -9137,18 +9334,18 @@
        "text": "فضحك سانجي، وغسل يديه، وأعاد الصدفة إلى الرفّ.",
        "t": 48231,
        "spot": {
-        "x": 0.45,
+        "x": 0.5,
         "y": 0.25,
-        "r": 0.18
+        "r": 0.15
        }
       },
       {
        "text": "وتذكّر يوم ركع على سطح المطعم العائم يودّع الرجل الّذي ربّاه، وصاح باكيًا:",
        "t": 53528,
        "spot": {
-        "x": 0.45,
+        "x": 0.5,
         "y": 0.25,
-        "r": 0.18
+        "r": 0.15
        }
       },
       {
@@ -9168,16 +9365,16 @@
        "t": 0,
        "spot": {
         "x": 0.45,
-        "y": 0.62,
-        "r": 0.25
+        "y": 0.68,
+        "r": 0.22
        }
       },
       {
        "text": "Squamous carcinoma shows keratin pearls and intercellular bridges, not atypical carcinoid.",
        "t": 14204,
        "spot": {
-        "x": 0.83,
-        "y": 0.85,
+        "x": 0.92,
+        "y": 0.6,
         "r": 0.1
        }
       },
@@ -9196,7 +9393,7 @@
       "Squamous: sheets of polygonal cells",
       "Atypical carcinoid: keratin pearls and intracellular bridges",
       "Large cell: two or fewer mitoses and no necrosis",
-      "Small cell: ill-defmed borders and absent nucleoli",
+      "Small cell: ill-defined borders and absent nucleoli",
       "Typical carcinoid: multiple mitoses with necrosis"
      ],
      "answer": 3,
@@ -9212,21 +9409,21 @@
      ]
     }
    ],
-   "image": "gh:books/johns-hopkins-2016/media/jh-q0042.webp",
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0042-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.42,
-      "y": 0.62,
-      "r": 0.25
+      "x": 0.45,
+      "y": 0.68,
+      "r": 0.22
      },
      "what": "Tiny oat grains with blurred edges",
      "means": "Small (oat) cell carcinoma: ill-defined borders (D)"
     },
     {
      "spot": {
-      "x": 0.52,
-      "y": 0.41,
+      "x": 0.47,
+      "y": 0.42,
       "r": 0.08
      },
      "what": "Grain split open with no kernel",
@@ -9234,21 +9431,30 @@
     },
     {
      "spot": {
-      "x": 0.24,
-      "y": 0.44,
-      "r": 0.1
+      "x": 0.35,
+      "y": 0.35,
+      "r": 0.14
      },
      "what": "Sanji splitting the grains with a knife",
      "means": "Looking at the cells"
     },
     {
      "spot": {
-      "x": 0.83,
-      "y": 0.85,
-      "r": 0.1
+      "x": 0.92,
+      "y": 0.5,
+      "r": 0.08
      },
      "what": "One big pearl in a separate dish",
      "means": "Keratin pearls: squamous carcinoma, not carcinoid"
+    },
+    {
+     "spot": {
+      "x": 0.92,
+      "y": 0.68,
+      "r": 0.1
+     },
+     "what": "Small crab covered in fish scales",
+     "means": "Squamous cell carcinoma (B is wrong)"
     }
    ]
   },
@@ -9706,8 +9912,8 @@
        "text": "على مضمار سباق طويل إلى جانب خطّ قطار البحر، تحت سماء صافية، وقفت محطّات صغيرة على طول الطريق.",
        "t": 0,
        "spot": {
-        "x": 0.55,
-        "y": 0.17,
+        "x": 0.45,
+        "y": 0.25,
         "r": 0.3
        }
       },
@@ -9715,44 +9921,44 @@
        "text": "وعند البداية، شقّ زورو بسيوفه حرف زد كبيرًا في خطّ الانطلاق.",
        "t": 10054,
        "spot": {
-        "x": 0.08,
-        "y": 0.2,
-        "r": 0.1
+        "x": 0.4,
+        "y": 0.12,
+        "r": 0.12
        }
       },
       {
        "text": "فانطلق عدّاءان، الأوّل يلتقط من المحطّات طرودًا قليلةً فقط.",
        "t": 16253,
        "spot": {
-        "x": 0.25,
-        "y": 0.66,
-        "r": 0.18
+        "x": 0.28,
+        "y": 0.55,
+        "r": 0.16
        }
       },
       {
        "text": "والثّاني يحفر كلّ طرد من كلّ محطّة، حتّى صار يحمل كومةً هائلة.",
        "t": 22703,
        "spot": {
-        "x": 0.57,
-        "y": 0.55,
-        "r": 0.22
+        "x": 0.68,
+        "y": 0.42,
+        "r": 0.2
        }
       },
       {
        "text": "«صاحب الكومة سيسبق لا شكّ!» قال أوسوب عند خطّ النهاية.",
        "t": 29156,
        "spot": {
-        "x": 0.87,
-        "y": 0.76,
-        "r": 0.12
+        "x": 0.5,
+        "y": 0.9,
+        "r": 0.14
        }
       },
       {
        "text": "لكنّ العدّاءين اقتربا من النهاية معًا، كتفًا إلى كتف.",
        "t": 34643,
        "spot": {
-        "x": 0.45,
-        "y": 0.72,
+        "x": 0.5,
+        "y": 0.58,
         "r": 0.3
        }
       },
@@ -9760,8 +9966,8 @@
        "text": "فاخترقا شريط النهاية في اللحظة نفسها تمامًا.",
        "t": 40333,
        "spot": {
-        "x": 0.44,
-        "y": 0.76,
+        "x": 0.5,
+        "y": 0.58,
         "r": 0.15
        }
       },
@@ -9769,27 +9975,27 @@
        "text": "فرفع أوسوب رايتيه كلتيهما في آن واحد.",
        "t": 44887,
        "spot": {
-        "x": 0.87,
-        "y": 0.52,
-        "r": 0.12
+        "x": 0.5,
+        "y": 0.85,
+        "r": 0.25
        }
       },
       {
        "text": "«لا فائز ولا خاسر؛ قليل الطرود وكثيرها بلغا النهاية معًا!»",
        "t": 49221,
        "spot": {
-        "x": 0.89,
-        "y": 0.66,
-        "r": 0.1
+        "x": 0.5,
+        "y": 0.92,
+        "r": 0.12
        }
       },
       {
        "text": "فضحك زورو، وتذكّر كلمة قرصان متعجرف في معطف من الريش الورديّ يوم الحرب الكبرى:",
        "t": 54938,
        "spot": {
-        "x": 0.06,
-        "y": 0.16,
-        "r": 0.08
+        "x": 0.4,
+        "y": 0.08,
+        "r": 0.1
        }
       },
       {
@@ -9808,8 +10014,8 @@
        "text": "The ACOSOG Z0030 trial compared mediastinal lymph node sampling with complete mediastinal lymph node dissection in early lung cancer.",
        "t": 0,
        "spot": {
-        "x": 0.45,
-        "y": 0.65,
+        "x": 0.48,
+        "y": 0.45,
         "r": 0.3
        }
       },
@@ -9817,8 +10023,8 @@
        "text": "It found no difference in survival between the two: A is the answer.",
        "t": 9912,
        "spot": {
-        "x": 0.44,
-        "y": 0.76,
+        "x": 0.5,
+        "y": 0.58,
         "r": 0.15
        }
       },
@@ -9826,8 +10032,8 @@
        "text": "Complete dissection did find some extra nodal disease, but it did not lengthen life.",
        "t": 14750,
        "spot": {
-        "x": 0.57,
-        "y": 0.5,
+        "x": 0.68,
+        "y": 0.42,
         "r": 0.2
        }
       },
@@ -9864,52 +10070,61 @@
      ]
     }
    ],
-   "image": "gh:books/johns-hopkins-2016/media/jh-q0045.webp",
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0045-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.08,
-      "y": 0.24,
-      "r": 0.09
+      "x": 0.4,
+      "y": 0.13,
+      "r": 0.1
      },
      "what": "Z slashed into the starting line",
      "means": "The ACOSOG Z0030 trial"
     },
     {
      "spot": {
-      "x": 0.25,
-      "y": 0.66,
-      "r": 0.18
+      "x": 0.28,
+      "y": 0.55,
+      "r": 0.16
      },
      "what": "Runner carrying a few parcels",
      "means": "Mediastinal lymph node sampling"
     },
     {
      "spot": {
-      "x": 0.58,
-      "y": 0.45,
-      "r": 0.14
+      "x": 0.68,
+      "y": 0.42,
+      "r": 0.18
      },
      "what": "Runner carrying a huge heap of parcels",
      "means": "Complete mediastinal lymph node dissection"
     },
     {
      "spot": {
-      "x": 0.44,
-      "y": 0.78,
-      "r": 0.12
+      "x": 0.5,
+      "y": 0.58,
+      "r": 0.13
      },
      "what": "Both breaking the tape together",
      "means": "No difference in survival (A)"
     },
     {
      "spot": {
-      "x": 0.87,
-      "y": 0.52,
-      "r": 0.12
+      "x": 0.5,
+      "y": 0.88,
+      "r": 0.16
      },
      "what": "Usopp raising both flags",
      "means": "A tie: neither wins"
+    },
+    {
+     "spot": {
+      "x": 0.15,
+      "y": 0.08,
+      "r": 0.11
+     },
+     "what": "Red crab on a sack of dollars at the start",
+     "means": "The trial was in early lung cancer"
     }
    ]
   },
@@ -10141,8 +10356,8 @@
        "text": "في ليلة هادئة في مستوصف الثاوزند صني، لم يكن يضيء إلّا فانوس واحد.",
        "t": 0,
        "spot": {
-        "x": 0.11,
-        "y": 0.36,
+        "x": 0.12,
+        "y": 0.4,
         "r": 0.1
        }
       },
@@ -10150,17 +10365,17 @@
        "text": "وعلى المائدة كيس كبير من الدولارات الخضراء، كانت عليه صغار السرطانات.",
        "t": 6441,
        "spot": {
-        "x": 0.32,
-        "y": 0.72,
-        "r": 0.28
+        "x": 0.4,
+        "y": 0.65,
+        "r": 0.25
        }
       },
       {
        "text": "فأخذ تشوبر الفانوس، ومسح به الكيس شبرًا شبرًا.",
        "t": 12483,
        "spot": {
-        "x": 0.37,
-        "y": 0.21,
+        "x": 0.3,
+        "y": 0.4,
         "r": 0.18
        }
       },
@@ -10168,8 +10383,8 @@
        "text": "«لن أترك واحدًا؛ فالواحد الّذي يبقى يعيدهم كلّهم!»",
        "t": 17635,
        "spot": {
-        "x": 0.4,
-        "y": 0.25,
+        "x": 0.5,
+        "y": 0.3,
         "r": 0.12
        }
       },
@@ -10177,8 +10392,8 @@
        "text": "فوجد آخر سرطان ورديّ صغير في طيّة خفيّة.",
        "t": 22447,
        "spot": {
-        "x": 0.59,
-        "y": 0.45,
+        "x": 0.65,
+        "y": 0.57,
         "r": 0.07
        }
       },
@@ -10186,8 +10401,8 @@
        "text": "فألقاه في جرّة زجاجيّة ممتلئة بإخوته، وأغلقها.",
        "t": 27212,
        "spot": {
-        "x": 0.6,
-        "y": 0.63,
+        "x": 0.7,
+        "y": 0.72,
         "r": 0.12
        }
       },
@@ -10195,17 +10410,17 @@
        "text": "فصار الكيس نظيفًا تمامًا، ليس عليه سرطان واحد.",
        "t": 32800,
        "spot": {
-        "x": 0.32,
-        "y": 0.72,
-        "r": 0.28
+        "x": 0.4,
+        "y": 0.65,
+        "r": 0.25
        }
       },
       {
        "text": "وفي الظلّ على اليمين، كيس ثان لم يمسح جيّدًا، في طيّته سرطان يتوهّج أحمر.",
        "t": 37829,
        "spot": {
-        "x": 0.87,
-        "y": 0.34,
+        "x": 0.88,
+        "y": 0.37,
         "r": 0.1
        }
       },
@@ -10213,17 +10428,17 @@
        "text": "«وذاك الكيس لم يكمل صاحبه عمله؛ سيعود إليه الشرّ.»",
        "t": 44942,
        "spot": {
-        "x": 0.4,
-        "y": 0.25,
-        "r": 0.12
+        "x": 0.88,
+        "y": 0.37,
+        "r": 0.1
        }
       },
       {
        "text": "فابتسم تشوبر إلى الجرّة الممتلئة، وتذكّر ما قاله ملك القراصنة للعالم يوم إعدامه:",
        "t": 49793,
        "spot": {
-        "x": 0.6,
-        "y": 0.63,
+        "x": 0.7,
+        "y": 0.72,
         "r": 0.12
        }
       },
@@ -10243,17 +10458,17 @@
        "text": "In the resection of pulmonary metastases, the most important factor for survival is a complete resection.",
        "t": 0,
        "spot": {
-        "x": 0.45,
-        "y": 0.68,
-        "r": 0.3
+        "x": 0.7,
+        "y": 0.72,
+        "r": 0.12
        }
       },
       {
        "text": "Patients whose metastases are all removed survive far longer than those left with disease: D is the answer.",
        "t": 7210,
        "spot": {
-        "x": 0.6,
-        "y": 0.63,
+        "x": 0.88,
+        "y": 0.45,
         "r": 0.12
        }
       },
@@ -10287,39 +10502,39 @@
      ]
     }
    ],
-   "image": "gh:books/johns-hopkins-2016/media/jh-q0047.webp",
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0047-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.32,
-      "y": 0.72,
-      "r": 0.28
+      "x": 0.4,
+      "y": 0.65,
+      "r": 0.24
      },
      "what": "Sack of dollar bills on the table",
      "means": "The lung after metastasectomy"
     },
     {
      "spot": {
-      "x": 0.37,
-      "y": 0.21,
-      "r": 0.18
+      "x": 0.3,
+      "y": 0.4,
+      "r": 0.16
      },
      "what": "Chopper sweeping it with a lantern",
      "means": "Searching every part of the lung"
     },
     {
      "spot": {
-      "x": 0.59,
-      "y": 0.45,
-      "r": 0.07
+      "x": 0.65,
+      "y": 0.57,
+      "r": 0.06
      },
      "what": "Last baby crab, found in a hidden fold",
      "means": "Leave none behind"
     },
     {
      "spot": {
-      "x": 0.6,
-      "y": 0.63,
+      "x": 0.7,
+      "y": 0.72,
       "r": 0.12
      },
      "what": "Jar full of removed crabs",
@@ -10327,12 +10542,21 @@
     },
     {
      "spot": {
-      "x": 0.87,
-      "y": 0.34,
-      "r": 0.1
+      "x": 0.88,
+      "y": 0.37,
+      "r": 0.09
      },
      "what": "Second sack with a red crab left",
      "means": "An incomplete resection fails"
+    },
+    {
+     "spot": {
+      "x": 0.88,
+      "y": 0.47,
+      "r": 0.08
+     },
+     "what": "Small coffin beside that sack",
+     "means": "Those left with disease die sooner"
     }
    ]
   },
@@ -11776,7 +12000,7 @@
        "t": 65856
       }
      ],
-     "audio": "gh:books/johns-hopkins-2016/media/jh-q0054-story-ar.m4a"
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0054-story-ar-v2.m4a"
     },
     {
      "kind": "explanation",
@@ -11809,7 +12033,7 @@
        "t": 22366
       }
      ],
-     "audio": "gh:books/johns-hopkins-2016/media/jh-q0054-explanation-en.m4a"
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0054-explanation-en-v2.m4a"
     }
    ],
    "quiz": [
@@ -11904,52 +12128,52 @@
        "t": 0,
        "spot": {
         "x": 0.5,
-        "y": 0.25,
-        "r": 0.4
+        "y": 0.8,
+        "r": 0.35
        }
       },
       {
        "text": "وأمامهم كيس مزروع من الدولارات، عليه شرر أحمر قليل.",
        "t": 7333,
        "spot": {
-        "x": 0.72,
-        "y": 0.26,
-        "r": 0.09
+        "x": 0.13,
+        "y": 0.62,
+        "r": 0.13
        }
       },
       {
        "text": "وإلى جانبه خرطوم مضلّع أبيض قد سخن حتّى احمرّ.",
        "t": 12967,
        "spot": {
-        "x": 0.6,
-        "y": 0.7,
-        "r": 0.3
+        "x": 0.87,
+        "y": 0.67,
+        "r": 0.12
        }
       },
       {
        "text": "لكنّ سحابةً كثيفةً من الدخان الرماديّ غطّت الخرطوم كلّه.",
        "t": 17915,
        "spot": {
-        "x": 0.6,
-        "y": 0.7,
-        "r": 0.35
+        "x": 0.72,
+        "y": 0.45,
+        "r": 0.28
        }
       },
       {
        "text": "فأخذ الحكم الّذي أمامه يحدّق ويضيّق عينيه، فلا يرى شيئًا.",
        "t": 23232,
        "spot": {
-        "x": 0.36,
-        "y": 0.15,
-        "r": 0.13
+        "x": 0.5,
+        "y": 0.52,
+        "r": 0.12
        }
       },
       {
        "text": "«لا أستطيع أن أعطي درجةً لما لا أراه!»",
        "t": 29195,
        "spot": {
-        "x": 0.36,
-        "y": 0.15,
+        "x": 0.5,
+        "y": 0.52,
         "r": 0.12
        }
       },
@@ -11957,26 +12181,26 @@
        "text": "فرفع بطاقةً بيضاء كبيرةً مكتوبًا عليها حرف إكس.",
        "t": 33147,
        "spot": {
-        "x": 0.39,
-        "y": 0.27,
-        "r": 0.12
+        "x": 0.52,
+        "y": 0.67,
+        "r": 0.11
        }
       },
       {
        "text": "وأخذ أوسوب يروّح الدخان بقبّعته، لعلّه يرى شيئًا.",
        "t": 38243,
        "spot": {
-        "x": 0.22,
-        "y": 0.6,
-        "r": 0.18
+        "x": 0.25,
+        "y": 0.25,
+        "r": 0.16
        }
       },
       {
        "text": "«إكس تعني: لا يمكن الحكم عليه، لا أنّه سليم!»",
        "t": 43892,
        "spot": {
-        "x": 0.39,
-        "y": 0.27,
+        "x": 0.18,
+        "y": 0.3,
         "r": 0.12
        }
       },
@@ -11984,9 +12208,9 @@
        "text": "فصفّق الجمهور، وتذكّر أوسوب طبيبًا عجوزًا كان يرفع علم القراصنة ويقول:",
        "t": 48934,
        "spot": {
-        "x": 0.22,
-        "y": 0.52,
-        "r": 0.15
+        "x": 0.18,
+        "y": 0.3,
+        "r": 0.12
        }
       },
       {
@@ -12005,27 +12229,27 @@
        "text": "Biopsies after lung transplantation are graded by the ISHLT system.",
        "t": 0,
        "spot": {
-        "x": 0.5,
-        "y": 0.25,
-        "r": 0.4
+        "x": 0.13,
+        "y": 0.65,
+        "r": 0.12
        }
       },
       {
        "text": "Acute rejection is graded A0 to A4 (minimal is A1, severe is A4), and airway inflammation B0 to B2R (low grade B1R, high grade B2R).",
        "t": 5354,
        "spot": {
-        "x": 0.72,
-        "y": 0.26,
-        "r": 0.09
+        "x": 0.13,
+        "y": 0.62,
+        "r": 0.13
        }
       },
       {
        "text": "Airway inflammation that cannot be graded is BX: D is the answer.",
        "t": 17186,
        "spot": {
-        "x": 0.39,
-        "y": 0.27,
-        "r": 0.12
+        "x": 0.52,
+        "y": 0.67,
+        "r": 0.11
        }
       },
       {
@@ -12060,40 +12284,40 @@
      ]
     }
    ],
-   "image": "gh:books/johns-hopkins-2016/media/jh-q0055.webp",
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0055-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.72,
-      "y": 0.26,
-      "r": 0.09
+      "x": 0.13,
+      "y": 0.62,
+      "r": 0.12
      },
-     "what": "Transplanted sack with a few red sparks",
-     "means": "Acute rejection: graded on its own A scale"
+     "what": "Sack in a flowerpot, a few red sparks",
+     "means": "Acute rejection of a transplanted lung: its own A scale"
     },
     {
      "spot": {
-      "x": 0.6,
-      "y": 0.7,
-      "r": 0.3
+      "x": 0.8,
+      "y": 0.55,
+      "r": 0.22
      },
      "what": "Red-hot hose hidden in thick smoke",
      "means": "Airway inflammation that cannot be seen"
     },
     {
      "spot": {
-      "x": 0.36,
-      "y": 0.15,
-      "r": 0.13
+      "x": 0.5,
+      "y": 0.52,
+      "r": 0.11
      },
      "what": "Judge squinting, unable to see",
      "means": "It cannot be graded"
     },
     {
      "spot": {
-      "x": 0.39,
-      "y": 0.27,
-      "r": 0.12
+      "x": 0.52,
+      "y": 0.67,
+      "r": 0.1
      },
      "what": "White card painted X",
      "means": "Ungradeable airway inflammation = BX (D)"
@@ -12101,8 +12325,8 @@
     {
      "spot": {
       "x": 0.22,
-      "y": 0.6,
-      "r": 0.18
+      "y": 0.25,
+      "r": 0.15
      },
      "what": "Usopp fanning the smoke with his hat",
      "means": "X does not mean healthy"
@@ -12351,17 +12575,17 @@
        "text": "في قمرة هادئة عند المساء، جلست امرأة في الأربعين اسمها مارتا تقبض على صدرها.",
        "t": 0,
        "spot": {
-        "x": 0.22,
-        "y": 0.52,
-        "r": 0.22
+        "x": 0.25,
+        "y": 0.3,
+        "r": 0.2
        }
       },
       {
        "text": "وكانت نيران صغيرة ترتعش حول يدها، ولا شيء يحترق.",
        "t": 7977,
        "spot": {
-        "x": 0.15,
-        "y": 0.5,
+        "x": 0.22,
+        "y": 0.25,
         "r": 0.1
        }
       },
@@ -12369,27 +12593,27 @@
        "text": "«منذ خمس سنوات وصدري يحترق، ولا شيء يطفئه!»",
        "t": 13765,
        "spot": {
-        "x": 0.19,
-        "y": 0.45,
-        "r": 0.13
+        "x": 0.25,
+        "y": 0.15,
+        "r": 0.12
        }
       },
       {
        "text": "وعلى الأرض مضخّة إطفاء حمراء ملقاة على جنبها، لم تنفعها بشيء.",
        "t": 18231,
        "spot": {
-        "x": 0.59,
-        "y": 0.87,
-        "r": 0.15
+        "x": 0.3,
+        "y": 0.92,
+        "r": 0.14
        }
       },
       {
        "text": "وخلفها قدر طبخ نحاسيّة هادئة، لا يتطاير منها إلّا رذاذ قليل.",
        "t": 24577,
        "spot": {
-        "x": 0.55,
-        "y": 0.23,
-        "r": 0.15
+        "x": 0.65,
+        "y": 0.75,
+        "r": 0.18
        }
       },
       {
@@ -12397,17 +12621,17 @@
        "t": 31301,
        "spot": {
         "x": 0.18,
-        "y": 0.13,
-        "r": 0.15
+        "y": 0.72,
+        "r": 0.12
        }
       },
       {
        "text": "«قدرك هادئة يا مارتا؛ النار ليست منها.»",
        "t": 36465,
        "spot": {
-        "x": 0.75,
-        "y": 0.63,
-        "r": 0.14
+        "x": 0.78,
+        "y": 0.35,
+        "r": 0.12
        }
       },
       {
@@ -12415,26 +12639,26 @@
        "t": 40381,
        "spot": {
         "x": 0.47,
-        "y": 0.5,
-        "r": 0.15
+        "y": 0.25,
+        "r": 0.14
        }
       },
       {
        "text": "فأخذت ملامحها تلين رويدًا رويدًا، وخفتت النيران حول يدها.",
        "t": 47948,
        "spot": {
-        "x": 0.18,
-        "y": 0.46,
-        "r": 0.14
+        "x": 0.25,
+        "y": 0.25,
+        "r": 0.15
        }
       },
       {
        "text": "فضمّت مارتا الجرّة إلى صدرها، وتذكّرت آخر كلمة قالتها أمّ شجاعة لابنتيها وهي تبتسم:",
        "t": 54331,
        "spot": {
-        "x": 0.47,
-        "y": 0.5,
-        "r": 0.15
+        "x": 0.4,
+        "y": 0.28,
+        "r": 0.18
        }
       },
       {
@@ -12454,17 +12678,17 @@
        "t": 0,
        "spot": {
         "x": 0.18,
-        "y": 0.13,
-        "r": 0.15
+        "y": 0.72,
+        "r": 0.12
        }
       },
       {
        "text": "Some of her symptoms coincide with reflux events, a sign of a hypersensitive oesophagus.",
        "t": 12069,
        "spot": {
-        "x": 0.18,
-        "y": 0.5,
-        "r": 0.12
+        "x": 0.42,
+        "y": 0.58,
+        "r": 0.15
        }
       },
       {
@@ -12472,17 +12696,17 @@
        "t": 18602,
        "spot": {
         "x": 0.47,
-        "y": 0.5,
-        "r": 0.15
+        "y": 0.25,
+        "r": 0.14
        }
       },
       {
        "text": "A larger PPI dose or a fundoplication would not help a patient without abnormal reflux.",
        "t": 24329,
        "spot": {
-        "x": 0.59,
-        "y": 0.87,
-        "r": 0.15
+        "x": 0.3,
+        "y": 0.92,
+        "r": 0.14
        }
       }
      ],
@@ -12514,12 +12738,12 @@
      ]
     }
    ],
-   "image": "gh:books/johns-hopkins-2016/media/jh-q0057.webp",
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0057-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.15,
-      "y": 0.5,
+      "x": 0.22,
+      "y": 0.25,
       "r": 0.1
      },
      "what": "Woman clutching her chest, small flames",
@@ -12527,18 +12751,18 @@
     },
     {
      "spot": {
-      "x": 0.59,
-      "y": 0.87,
-      "r": 0.15
+      "x": 0.3,
+      "y": 0.92,
+      "r": 0.13
      },
      "what": "Fire-extinguisher pump lying on its side",
      "means": "PPIs have failed"
     },
     {
      "spot": {
-      "x": 0.55,
-      "y": 0.23,
-      "r": 0.15
+      "x": 0.68,
+      "y": 0.75,
+      "r": 0.18
      },
      "what": "Calm copper pot, few splashes",
      "means": "Normal pH study: no true reflux disease"
@@ -12546,20 +12770,29 @@
     {
      "spot": {
       "x": 0.18,
-      "y": 0.13,
-      "r": 0.15
+      "y": 0.72,
+      "r": 0.12
      },
      "what": "Tally board painted 12",
-     "means": "12 reflux events: normal"
+     "means": "12 reflux events: a normal number"
     },
     {
      "spot": {
       "x": 0.47,
-      "y": 0.5,
-      "r": 0.15
+      "y": 0.25,
+      "r": 0.14
      },
      "what": "Chopper handing her a jar of sunshine",
      "means": "Antidepressant (neuromodulator) therapy (C)"
+    },
+    {
+     "spot": {
+      "x": 0.42,
+      "y": 0.57,
+      "r": 0.12
+     },
+     "what": "A few green splashes up the pink slide",
+     "means": "A hypersensitive oesophagus, reflux normal"
     }
    ]
   },
@@ -12896,7 +13129,7 @@
        "t": 58016
       }
      ],
-     "audio": "gh:books/johns-hopkins-2016/media/jh-q0059-story-ar.m4a"
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0059-story-ar-v2.m4a"
     },
     {
      "kind": "explanation",
@@ -12925,7 +13158,7 @@
        "t": 16805
       }
      ],
-     "audio": "gh:books/johns-hopkins-2016/media/jh-q0059-explanation-en.m4a"
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0059-explanation-en-v2.m4a"
     }
    ],
    "quiz": [
@@ -13250,90 +13483,90 @@
        "text": "في غرفة الأطفال على سفينة قراصنة، تحت ضوء كريميّ، رقد رضيع ولد للتّوّ في مهده.",
        "t": 0,
        "spot": {
-        "x": 0.15,
-        "y": 0.7,
-        "r": 0.15
+        "x": 0.12,
+        "y": 0.52,
+        "r": 0.13
        }
       },
       {
        "text": "وكان منزلق صغير من أريكة ورديّة ينزل من فمه، ثمّ ينغلق في منتصفه بغطاء حديديّ ملحوم.",
        "t": 8491,
        "spot": {
-        "x": 0.45,
-        "y": 0.83,
-        "r": 0.22
+        "x": 0.5,
+        "y": 0.65,
+        "r": 0.15
        }
       },
       {
        "text": "فتوقّفت قطرة الحليب فوق الغطاء ولم تنزل.",
        "t": 17656,
        "spot": {
-        "x": 0.56,
-        "y": 0.8,
-        "r": 0.07
+        "x": 0.48,
+        "y": 0.55,
+        "r": 0.06
        }
       },
       {
        "text": "وملأت نصف المهد كومة من مكعّبات اللعب الغريبة الأشكال.",
        "t": 22222,
        "spot": {
-        "x": 0.22,
-        "y": 0.87,
-        "r": 0.2
+        "x": 0.15,
+        "y": 0.65,
+        "r": 0.15
        }
       },
       {
        "text": "«نصف هؤلاء الصغار يأتون ومعهم أشياء أخرى، لا واحد من عشرة!»",
        "t": 27683,
        "spot": {
-        "x": 0.22,
-        "y": 0.87,
-        "r": 0.2
+        "x": 0.15,
+        "y": 0.65,
+        "r": 0.15
        }
       },
       {
        "text": "ثمّ اندفع من الباب فارس في درع فضّيّ على حصان يعدو.",
        "t": 33294,
        "spot": {
-        "x": 0.52,
-        "y": 0.4,
-        "r": 0.3
+        "x": 0.55,
+        "y": 0.25,
+        "r": 0.25
        }
       },
       {
        "text": "وكان على ترسه رسم فندق ضيّق قديم، فوق بابه رأس أيّل.",
        "t": 38552,
        "spot": {
-        "x": 0.8,
+        "x": 0.42,
         "y": 0.28,
-        "r": 0.14
+        "r": 0.12
        }
       },
       {
        "text": "«إلى الأمام! حيث أحمل رايتي، يكون القلب معي!» صاح الفارس.",
        "t": 44710,
        "spot": {
-        "x": 0.58,
-        "y": 0.18,
-        "r": 0.15
+        "x": 0.55,
+        "y": 0.1,
+        "r": 0.12
        }
       },
       {
        "text": "فقفز تشوبر جانبًا وعيناه متّسعتان، ثمّ أسرع إلى الرضيع يحمله.",
        "t": 51050,
        "spot": {
-        "x": 0.15,
-        "y": 0.46,
-        "r": 0.13
+        "x": 0.85,
+        "y": 0.45,
+        "r": 0.12
        }
       },
       {
        "text": "وتذكّر كلمةً قالها قائده يومًا لرفيقة أرادت أن تموت وحدها:",
        "t": 57839,
        "spot": {
-        "x": 0.15,
-        "y": 0.46,
-        "r": 0.13
+        "x": 0.85,
+        "y": 0.45,
+        "r": 0.12
        }
       },
       {
@@ -13352,27 +13585,27 @@
        "text": "Oesophageal atresia occurs in about 1 in 3000 to 4500 births, slightly more often in boys.",
        "t": 0,
        "spot": {
-        "x": 0.45,
-        "y": 0.83,
-        "r": 0.22
+        "x": 0.12,
+        "y": 0.52,
+        "r": 0.13
        }
       },
       {
        "text": "About half of these infants have other anomalies, often in the VACTERL pattern, and chromosomal abnormalities are found in about 10 percent.",
        "t": 7213,
        "spot": {
-        "x": 0.22,
-        "y": 0.87,
-        "r": 0.2
+        "x": 0.15,
+        "y": 0.65,
+        "r": 0.15
        }
       },
       {
        "text": "The CHARGE association (coloboma, heart defects, choanal atresia, retardation, genital and ear anomalies) does include cardiac defects: E is the answer.",
        "t": 16157,
        "spot": {
-        "x": 0.8,
+        "x": 0.42,
         "y": 0.28,
-        "r": 0.14
+        "r": 0.12
        }
       },
       {
@@ -13402,54 +13635,63 @@
       2
      ],
      "answerMarks": [
-      4,
-      5
+      5,
+      6
      ]
     }
    ],
-   "image": "gh:books/johns-hopkins-2016/media/jh-q0061.webp",
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0061-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.45,
-      "y": 0.83,
-      "r": 0.2
+      "x": 0.5,
+      "y": 0.65,
+      "r": 0.14
      },
      "what": "Baby's slide welded shut halfway",
      "means": "Oesophageal atresia"
     },
     {
      "spot": {
-      "x": 0.56,
-      "y": 0.78,
-      "r": 0.07
+      "x": 0.48,
+      "y": 0.55,
+      "r": 0.06
      },
      "what": "Drop of milk stuck above the cap",
      "means": "Feeds cannot pass"
     },
     {
      "spot": {
-      "x": 0.22,
-      "y": 0.87,
-      "r": 0.18
+      "x": 0.15,
+      "y": 0.65,
+      "r": 0.14
      },
      "what": "Toy blocks filling half the cradle",
      "means": "About half have other anomalies, not 10% (book's D)"
     },
     {
      "spot": {
-      "x": 0.52,
-      "y": 0.4,
-      "r": 0.28
+      "x": 0.09,
+      "y": 0.61,
+      "r": 0.07
+     },
+     "what": "A big kidney bean among the blocks",
+     "means": "VACTERL anomalies, renal ones among them"
+    },
+    {
+     "spot": {
+      "x": 0.58,
+      "y": 0.28,
+      "r": 0.24
      },
      "what": "Knight charging in on horseback",
      "means": "The CHARGE association (E, key corrected)"
     },
     {
      "spot": {
-      "x": 0.8,
+      "x": 0.42,
       "y": 0.28,
-      "r": 0.14
+      "r": 0.11
      },
      "what": "Shield with a stag's-head hotel",
      "means": "CHARGE includes heart defects"
@@ -14013,7 +14255,7 @@
        "t": 72197
       }
      ],
-     "audio": "gh:books/johns-hopkins-2016/media/jh-q0064-story-ar.m4a"
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0064-story-ar-v2.m4a"
     },
     {
      "kind": "explanation",
@@ -14060,7 +14302,7 @@
        "t": 24992
       }
      ],
-     "audio": "gh:books/johns-hopkins-2016/media/jh-q0064-explanation-en.m4a"
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0064-explanation-en-v2.m4a"
     }
    ],
    "quiz": [
@@ -14255,7 +14497,7 @@
        "t": 66739
       }
      ],
-     "audio": "gh:books/johns-hopkins-2016/media/jh-q0065-story-ar.m4a"
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0065-story-ar-v2.m4a"
     },
     {
      "kind": "explanation",
@@ -14288,7 +14530,7 @@
        "t": 18052
       }
      ],
-     "audio": "gh:books/johns-hopkins-2016/media/jh-q0065-explanation-en.m4a"
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0065-explanation-en-v2.m4a"
     }
    ],
    "quiz": [
@@ -15736,17 +15978,17 @@
        "text": "في ساحة إصلاح في مدينة الماء، تحت سماء رماديّة، تكدّست منزلقات ورديّة مثقوبة.",
        "t": 0,
        "spot": {
-        "x": 0.3,
+        "x": 0.4,
         "y": 0.5,
-        "r": 0.35
+        "r": 0.4
        }
       },
       {
        "text": "وكانت الكومة الكبرى كلّها مثقوبةً بمناظير نحاسيّة ما زالت عالقةً فيها.",
        "t": 7558,
        "spot": {
-        "x": 0.25,
-        "y": 0.52,
+        "x": 0.4,
+        "y": 0.35,
         "r": 0.3
        }
       },
@@ -15754,54 +15996,54 @@
        "text": "وفوقها لافتة خشبيّة مكتوب عليها: خمسون، وسهم كبير يشير إلى الأعلى.",
        "t": 13605,
        "spot": {
-        "x": 0.32,
-        "y": 0.08,
-        "r": 0.18
+        "x": 0.35,
+        "y": 0.06,
+        "r": 0.14
        }
       },
       {
        "text": "وإلى اليمين كومة أصغر بكثير، ثقبتها عظام السمك، أو شقّتها السقطات.",
        "t": 20424,
        "spot": {
-        "x": 0.83,
-        "y": 0.63,
-        "r": 0.15
+        "x": 0.82,
+        "y": 0.75,
+        "r": 0.12
        }
       },
       {
        "text": "«أكثر من نصف ما يصلني مثقوب بيد من أراد أن ينظر فيه!»",
        "t": 27037,
        "spot": {
-        "x": 0.25,
-        "y": 0.5,
-        "r": 0.25
+        "x": 0.88,
+        "y": 0.68,
+        "r": 0.12
        }
       },
       {
        "text": "فانتزع فرانكي منظارًا من أحد المنزلقات، وهزّ رأسه.",
        "t": 32121,
        "spot": {
-        "x": 0.36,
-        "y": 0.7,
-        "r": 0.15
+        "x": 0.85,
+        "y": 0.68,
+        "r": 0.12
        }
       },
       {
        "text": "«المنظار ينقذ إذا رأى، ويثقب إذا أخطأ.» قال أوسوب.",
        "t": 36964,
        "spot": {
-        "x": 0.18,
-        "y": 0.3,
-        "r": 0.12
+        "x": 0.4,
+        "y": 0.35,
+        "r": 0.25
        }
       },
       {
        "text": "وأخذ فرانكي يرقّع المنزلق الأوّل من الكومة الكبرى.",
        "t": 42186,
        "spot": {
-        "x": 0.36,
-        "y": 0.75,
-        "r": 0.18
+        "x": 0.88,
+        "y": 0.7,
+        "r": 0.12
        }
       },
       {
@@ -15828,22 +16070,27 @@
        "text": "Instrumentation causes more than half of all oesophageal perforations: A is the answer.",
        "t": 0,
        "spot": {
-        "x": 0.32,
-        "y": 0.08,
-        "r": 0.18
+        "x": 0.35,
+        "y": 0.06,
+        "r": 0.14
        }
       },
       {
        "text": "In a normal oesophagus, iatrogenic injuries happen most often at Killian's triangle, the narrow area just above the cricopharyngeus, not at the gastro-oesophageal junction.",
-       "t": 6687
+       "t": 6687,
+       "spot": {
+        "x": 0.4,
+        "y": 0.22,
+        "r": 0.25
+       }
       },
       {
        "text": "Rigid endoscopy carries a higher risk of perforation than flexible endoscopy.",
        "t": 18232,
        "spot": {
-        "x": 0.18,
-        "y": 0.3,
-        "r": 0.12
+        "x": 0.4,
+        "y": 0.35,
+        "r": 0.25
        }
       }
      ],
@@ -15873,43 +16120,52 @@
      ]
     }
    ],
-   "image": "gh:books/johns-hopkins-2016/media/jh-q0072.webp",
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0072-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.25,
-      "y": 0.45,
-      "r": 0.28
+      "x": 0.4,
+      "y": 0.4,
+      "r": 0.3
      },
      "what": "Huge heap of slides pierced by periscopes",
      "means": "Perforations from instrumentation"
     },
     {
      "spot": {
-      "x": 0.32,
-      "y": 0.08,
-      "r": 0.18
+      "x": 0.35,
+      "y": 0.06,
+      "r": 0.13
      },
      "what": "Sign painted 50 with an arrow up",
      "means": "Instruments cause over 50% of perforations (A)"
     },
     {
      "spot": {
-      "x": 0.83,
-      "y": 0.63,
-      "r": 0.15
+      "x": 0.82,
+      "y": 0.75,
+      "r": 0.12
      },
-     "what": "Small pile cracked by fish bones",
+     "what": "Small pile pierced by fish bones",
      "means": "Other causes are fewer"
     },
     {
      "spot": {
-      "x": 0.36,
-      "y": 0.62,
-      "r": 0.09
+      "x": 0.85,
+      "y": 0.68,
+      "r": 0.1
      },
      "what": "Franky pulling a periscope out",
      "means": "Repairing an instrumental perforation"
+    },
+    {
+     "spot": {
+      "x": 0.55,
+      "y": 0.92,
+      "r": 0.22
+     },
+     "what": "The cooking-pot ends untouched",
+     "means": "Not at the gastro-oesophageal junction (B is wrong)"
     }
    ]
   },
@@ -15932,36 +16188,36 @@
        "text": "في قمرة صدر على سفينة قراصنة، نزل منزلق ورديّ طويل وفيه شقّ.",
        "t": 0,
        "spot": {
-        "x": 0.4,
-        "y": 0.3,
-        "r": 0.3
+        "x": 0.12,
+        "y": 0.5,
+        "r": 0.15
        }
       },
       {
        "text": "وعلى اليسار ساعة رمليّة ما زالت ممتلئة.",
        "t": 7000,
        "spot": {
-        "x": 0.11,
-        "y": 0.57,
-        "r": 0.13
+        "x": 0.38,
+        "y": 0.12,
+        "r": 0.12
        }
       },
       {
        "text": "فصعدت إلى جانبها فقاعات هواء من الشقّ، تطفو في القمرة.",
        "t": 11070,
        "spot": {
-        "x": 0.11,
-        "y": 0.33,
-        "r": 0.1
+        "x": 0.25,
+        "y": 0.4,
+        "r": 0.12
        }
       },
       {
        "text": "«الهواء أوّل من يهرب؛ والسّاعة ما زالت في أوّلها.» قال تشوبر.",
        "t": 17048,
        "spot": {
-        "x": 0.11,
-        "y": 0.57,
-        "r": 0.13
+        "x": 0.45,
+        "y": 0.55,
+        "r": 0.14
        }
       },
       {
@@ -15969,7 +16225,7 @@
        "t": 22865,
        "spot": {
         "x": 0.87,
-        "y": 0.67,
+        "y": 0.6,
         "r": 0.13
        }
       },
@@ -15978,7 +16234,7 @@
        "t": 28084,
        "spot": {
         "x": 0.5,
-        "y": 0.82,
+        "y": 0.85,
         "r": 0.3
        }
       },
@@ -15987,7 +16243,7 @@
        "t": 34303,
        "spot": {
         "x": 0.5,
-        "y": 0.82,
+        "y": 0.85,
         "r": 0.3
        }
       },
@@ -15995,27 +16251,27 @@
        "text": "فوقف تشوبر في البركة، يشير إلى الساعة الفارغة.",
        "t": 39412,
        "spot": {
-        "x": 0.5,
+        "x": 0.45,
         "y": 0.65,
-        "r": 0.2
+        "r": 0.16
        }
       },
       {
        "text": "«لا تنتظروا البركة لتعرفوا الشقّ؛ إذا رأيتموها فقد تأخّرتم.»",
        "t": 44421,
        "spot": {
-        "x": 0.87,
-        "y": 0.67,
-        "r": 0.13
+        "x": 0.45,
+        "y": 0.55,
+        "r": 0.14
        }
       },
       {
        "text": "ثمّ رفع رأسه عازمًا، وتذكّر معلّمه الأوّل يصيح في الثلج:",
        "t": 49728,
        "spot": {
-        "x": 0.5,
+        "x": 0.45,
         "y": 0.55,
-        "r": 0.2
+        "r": 0.14
        }
       },
       {
@@ -16034,9 +16290,9 @@
        "text": "After an oesophageal perforation, air in the mediastinum or soft tissues is an early sign on imaging.",
        "t": 0,
        "spot": {
-        "x": 0.11,
-        "y": 0.33,
-        "r": 0.1
+        "x": 0.25,
+        "y": 0.4,
+        "r": 0.12
        }
       },
       {
@@ -16044,7 +16300,7 @@
        "t": 7329,
        "spot": {
         "x": 0.5,
-        "y": 0.82,
+        "y": 0.85,
         "r": 0.3
        }
       },
@@ -16054,7 +16310,12 @@
       },
       {
        "text": "CT is useful in many patients, but an unstable or ventilated patient may need bedside tests.",
-       "t": 24902
+       "t": 24902,
+       "spot": {
+        "x": 0.7,
+        "y": 0.15,
+        "r": 0.15
+       }
       }
      ],
      "audio": "gh:books/johns-hopkins-2016/media/jh-q0073-explanation-en.m4a"
@@ -16066,7 +16327,7 @@
      "options": [
       "Thin barium contrast should be used for initial swallow studies.",
       "CT scanning is the modality of choice in an unstable or mechanically ventilated patient.",
-      "Pleural effusion is a late fmding on chest imaging.",
+      "Pleural effusion is a late finding on chest imaging.",
       "Water-soluble contrast will demonstrate intrathoracic leak in over 90 percent of patients.",
       "Esophagoscopy has a low sensitivity and specificity for perforation."
      ],
@@ -16083,31 +16344,31 @@
      ]
     }
    ],
-   "image": "gh:books/johns-hopkins-2016/media/jh-q0073.webp",
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0073-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.23,
-      "y": 0.33,
-      "r": 0.08
+      "x": 0.13,
+      "y": 0.64,
+      "r": 0.07
      },
-     "what": "Tear in the pink slide",
+     "what": "Tear in the pink slide, water leaking",
      "means": "Oesophageal perforation"
     },
     {
      "spot": {
-      "x": 0.11,
-      "y": 0.57,
-      "r": 0.13
+      "x": 0.38,
+      "y": 0.12,
+      "r": 0.11
      },
-     "what": "Full hourglass",
+     "what": "Full hourglass on the shelf",
      "means": "Early"
     },
     {
      "spot": {
-      "x": 0.11,
-      "y": 0.33,
-      "r": 0.08
+      "x": 0.25,
+      "y": 0.4,
+      "r": 0.1
      },
      "what": "Air bubbles rising",
      "means": "Air in the mediastinum: an early sign"
@@ -16115,8 +16376,8 @@
     {
      "spot": {
       "x": 0.87,
-      "y": 0.67,
-      "r": 0.13
+      "y": 0.6,
+      "r": 0.12
      },
      "what": "Hourglass nearly run out",
      "means": "Late"
@@ -16125,10 +16386,19 @@
      "spot": {
       "x": 0.5,
       "y": 0.85,
-      "r": 0.25
+      "r": 0.26
      },
      "what": "Water puddle spreading over the floor",
      "means": "A pleural effusion is a LATE finding (C)"
+    },
+    {
+     "spot": {
+      "x": 0.7,
+      "y": 0.15,
+      "r": 0.13
+     },
+     "what": "Cat slicing a loaf, bubbles in the slices",
+     "means": "CT shows the air early"
     }
    ]
   },
@@ -16666,7 +16936,7 @@
        "t": 55687
       }
      ],
-     "audio": "gh:books/johns-hopkins-2016/media/jh-q0076-story-ar.m4a"
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0076-story-ar-v2.m4a"
     },
     {
      "kind": "explanation",
@@ -16691,7 +16961,7 @@
        "t": 11368
       }
      ],
-     "audio": "gh:books/johns-hopkins-2016/media/jh-q0076-explanation-en.m4a"
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0076-explanation-en-v2.m4a"
     }
    ],
    "quiz": [
@@ -17506,7 +17776,7 @@
        "t": 54323
       }
      ],
-     "audio": "gh:books/johns-hopkins-2016/media/jh-q0080-story-ar.m4a"
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0080-story-ar-v2.m4a"
     },
     {
      "kind": "explanation",
@@ -17544,7 +17814,7 @@
        "t": 24017
       }
      ],
-     "audio": "gh:books/johns-hopkins-2016/media/jh-q0080-explanation-en.m4a"
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0080-explanation-en-v2.m4a"
     }
    ],
    "quiz": [
@@ -17749,7 +18019,7 @@
        "t": 53394
       }
      ],
-     "audio": "gh:books/johns-hopkins-2016/media/jh-q0081-story-ar.m4a"
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0081-story-ar-v2.m4a"
     },
     {
      "kind": "explanation",
@@ -17783,7 +18053,7 @@
        "t": 20013
       }
      ],
-     "audio": "gh:books/johns-hopkins-2016/media/jh-q0081-explanation-en.m4a"
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0081-explanation-en-v2.m4a"
     }
    ],
    "quiz": [
@@ -17886,7 +18156,7 @@
        "t": 0,
        "spot": {
         "x": 0.5,
-        "y": 0.45,
+        "y": 0.4,
         "r": 0.4
        }
       },
@@ -17894,17 +18164,17 @@
        "text": "وفي وسطها تدلّى منزلق الأريكة الورديّة.",
        "t": 4876,
        "spot": {
-        "x": 0.7,
-        "y": 0.62,
-        "r": 0.16
+        "x": 0.65,
+        "y": 0.55,
+        "r": 0.18
        }
       },
       {
        "text": "فتدلّت ستارة قرمزيّة من الجدار الأماميّ حتّى بلغت المنزلق.",
        "t": 8676,
        "spot": {
-        "x": 0.18,
-        "y": 0.25,
+        "x": 0.2,
+        "y": 0.3,
         "r": 0.18
        }
       },
@@ -17912,17 +18182,17 @@
        "text": "وتدلّت ستارة ثانية من الجدار الخلفيّ حتّى بلغته أيضًا.",
        "t": 14180,
        "spot": {
-        "x": 0.85,
-        "y": 0.4,
-        "r": 0.15
+        "x": 0.9,
+        "y": 0.38,
+        "r": 0.12
        }
       },
       {
        "text": "فتوهّجت المساحة بين الستارتين وحولهما بضوء كهرمانيّ دافئ.",
        "t": 19362,
        "spot": {
-        "x": 0.5,
-        "y": 0.47,
+        "x": 0.6,
+        "y": 0.4,
         "r": 0.25
        }
       },
@@ -17930,17 +18200,17 @@
        "text": "«من هاتين الستارتين معًا ولدت هذه المساحة كلّها؛ لا من واحدة وحدها.» قالت روبين.",
        "t": 24893,
        "spot": {
-        "x": 0.15,
-        "y": 0.55,
-        "r": 0.15
+        "x": 0.25,
+        "y": 0.65,
+        "r": 0.12
        }
       },
       {
        "text": "وأخذت روبين ترسم الستارتين في دفترها، الأماميّة والخلفيّة.",
        "t": 32448,
        "spot": {
-        "x": 0.4,
-        "y": 0.87,
+        "x": 0.45,
+        "y": 0.8,
         "r": 0.15
        }
       },
@@ -17948,27 +18218,27 @@
        "text": "«هنا سيسكن كلّ ما يقع بين الرئتين.»",
        "t": 38314,
        "spot": {
-        "x": 0.5,
-        "y": 0.47,
-        "r": 0.25
+        "x": 0.25,
+        "y": 0.65,
+        "r": 0.12
        }
       },
       {
        "text": "ثمّ أغلقت الدفتر، ونظرت إلى الضوء الكهرمانيّ طويلًا.",
        "t": 41929,
        "spot": {
-        "x": 0.15,
-        "y": 0.55,
-        "r": 0.15
+        "x": 0.25,
+        "y": 0.65,
+        "r": 0.12
        }
       },
       {
        "text": "وقرأت في سرّها كلمةً قالها ملك القراصنة قبل موته:",
        "t": 46961,
        "spot": {
-        "x": 0.15,
-        "y": 0.55,
-        "r": 0.15
+        "x": 0.25,
+        "y": 0.65,
+        "r": 0.12
        }
       },
       {
@@ -17987,23 +18257,28 @@
        "text": "In the embryo, the oesophagus hangs in the middle of the body on a ventral and a dorsal mesentery.",
        "t": 0,
        "spot": {
-        "x": 0.7,
-        "y": 0.62,
-        "r": 0.16
+        "x": 0.65,
+        "y": 0.55,
+        "r": 0.18
        }
       },
       {
        "text": "The mediastinal space arises from both of these mesenteries together: B is the answer.",
        "t": 6740,
        "spot": {
-        "x": 0.5,
-        "y": 0.47,
+        "x": 0.6,
+        "y": 0.4,
         "r": 0.25
        }
       },
       {
        "text": "The junction of the superior vena cava with the right atrium lies in the middle mediastinum, and neurogenic tumours occur mostly in the posterior mediastinum.",
-       "t": 12827
+       "t": 12827,
+       "spot": {
+        "x": 0.5,
+        "y": 0.37,
+        "r": 0.15
+       }
       },
       {
        "text": "The lungs and pericardium do not arise from the dorsal mesoesophagus, and bronchogenic cysts come from abnormal budding of the ventral foregut.",
@@ -18037,48 +18312,66 @@
      ]
     }
    ],
-   "image": "gh:books/johns-hopkins-2016/media/jh-q0082.webp",
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0082-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.7,
-      "y": 0.63,
-      "r": 0.11
+      "x": 0.65,
+      "y": 0.55,
+      "r": 0.16
      },
      "what": "Pink slide hanging in the middle",
      "means": "The oesophagus in the embryo"
     },
     {
      "spot": {
-      "x": 0.18,
-      "y": 0.25,
-      "r": 0.18
+      "x": 0.2,
+      "y": 0.3,
+      "r": 0.16
      },
-     "what": "Curtain from one wall to the slide",
+     "what": "Curtain from the front wall to the slide",
      "means": "Ventral mesentery of the oesophagus (B)"
     },
     {
      "spot": {
-      "x": 0.85,
-      "y": 0.4,
-      "r": 0.15
+      "x": 0.9,
+      "y": 0.38,
+      "r": 0.11
      },
-     "what": "Curtain from the other wall to the slide",
+     "what": "Curtain from the back wall to the slide",
      "means": "Dorsal mesentery of the oesophagus (B)"
     },
     {
      "spot": {
-      "x": 0.5,
-      "y": 0.5,
-      "r": 0.13
+      "x": 0.6,
+      "y": 0.42,
+      "r": 0.14
      },
      "what": "Warm glow between the curtains",
      "means": "The mediastinal space forms from both together (B)"
     },
     {
      "spot": {
-      "x": 0.4,
-      "y": 0.87,
+      "x": 0.5,
+      "y": 0.37,
+      "r": 0.14
+     },
+     "what": "Little hotel, its chimney, in the middle",
+     "means": "SVC joins the right atrium in the middle mediastinum"
+    },
+    {
+     "spot": {
+      "x": 0.8,
+      "y": 0.22,
+      "r": 0.08
+     },
+     "what": "White swan nesting on the back wall",
+     "means": "Neurogenic tumours lie in the posterior mediastinum"
+    },
+    {
+     "spot": {
+      "x": 0.45,
+      "y": 0.8,
       "r": 0.13
      },
      "what": "Robin sketching both curtains",
@@ -18106,7 +18399,7 @@
        "t": 0,
        "spot": {
         "x": 0.5,
-        "y": 0.47,
+        "y": 0.45,
         "r": 0.4
        }
       },
@@ -18114,8 +18407,8 @@
        "text": "وفي الغرفة الخلفيّة، على طول العارضة، تشابكت أسلاك مضيئة كالأعصاب.",
        "t": 10135,
        "spot": {
-        "x": 0.85,
-        "y": 0.47,
+        "x": 0.82,
+        "y": 0.45,
         "r": 0.15
        }
       },
@@ -18123,27 +18416,27 @@
        "text": "ثمّ انفجرت منها دفقة من ضوء النيون الورديّ والأزرق.",
        "t": 16952,
        "spot": {
-        "x": 0.87,
-        "y": 0.5,
-        "r": 0.13
+        "x": 0.82,
+        "y": 0.4,
+        "r": 0.15
        }
       },
       {
        "text": "«في الخلف! كما توقّعت!» صاح تشوبر.",
        "t": 21520,
        "spot": {
-        "x": 0.45,
-        "y": 0.42,
-        "r": 0.15
+        "x": 0.5,
+        "y": 0.47,
+        "r": 0.12
        }
       },
       {
        "text": "ومن الغرفة الوسطى، أخذ رضيع يحبو نحو الضوء مسحورًا.",
        "t": 25964,
        "spot": {
-        "x": 0.6,
+        "x": 0.32,
         "y": 0.55,
-        "r": 0.12
+        "r": 0.1
        }
       },
       {
@@ -18151,17 +18444,17 @@
        "t": 31331,
        "spot": {
         "x": 0.45,
-        "y": 0.47,
-        "r": 0.18
+        "y": 0.52,
+        "r": 0.12
        }
       },
       {
        "text": "«هذا الضوء يحبّ الصغار، ويسكن الجدار الخلفيّ عند العارضة.»",
        "t": 35648,
        "spot": {
-        "x": 0.87,
-        "y": 0.5,
-        "r": 0.13
+        "x": 0.5,
+        "y": 0.47,
+        "r": 0.12
        }
       },
       {
@@ -18170,25 +18463,25 @@
        "spot": {
         "x": 0.45,
         "y": 0.47,
-        "r": 0.18
+        "r": 0.12
        }
       },
       {
        "text": "فنظر تشوبر إلى الضوء الخلفيّ، عازمًا على إطفائه.",
        "t": 44746,
        "spot": {
-        "x": 0.87,
-        "y": 0.5,
-        "r": 0.13
+        "x": 0.82,
+        "y": 0.45,
+        "r": 0.15
        }
       },
       {
        "text": "وتذكّر كلمة ملكة عجيبة في سجن تحت البحر:",
        "t": 49532,
        "spot": {
-        "x": 0.45,
+        "x": 0.5,
         "y": 0.47,
-        "r": 0.18
+        "r": 0.12
        }
       },
       {
@@ -18207,27 +18500,37 @@
        "text": "Neuroblastoma is a tumour of young children, with a peak in the first years of life, not in adulthood.",
        "t": 0,
        "spot": {
-        "x": 0.6,
+        "x": 0.32,
         "y": 0.55,
-        "r": 0.12
+        "r": 0.1
        }
       },
       {
        "text": "Within the chest, it arises most often in the posterior mediastinum, from the sympathetic chain along the spine: D is the answer.",
        "t": 6803,
        "spot": {
-        "x": 0.87,
-        "y": 0.5,
-        "r": 0.13
+        "x": 0.82,
+        "y": 0.45,
+        "r": 0.15
        }
       },
       {
        "text": "Thoracic neuroblastomas often behave better than adrenal ones, and resection can cure localized disease.",
-       "t": 16090
+       "t": 16090,
+       "spot": {
+        "x": 0.45,
+        "y": 0.52,
+        "r": 0.12
+       }
       },
       {
        "text": "Paragangliomas can secrete catecholamines; they are not nonfunctional by definition.",
-       "t": 23532
+       "t": 23532,
+       "spot": {
+        "x": 0.85,
+        "y": 0.3,
+        "r": 0.08
+       }
       }
      ],
      "audio": "gh:books/johns-hopkins-2016/media/jh-q0083-explanation-en.m4a"
@@ -18248,50 +18551,78 @@
      "lang": "en",
      "source": "Johns Hopkins 2016, Q17.3",
      "marks": [
-      1
+      1,
+      2
      ],
      "answerMarks": [
-      2
+      3
      ]
     }
    ],
-   "image": "gh:books/johns-hopkins-2016/media/jh-q0083.webp",
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0083-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.18,
-      "y": 0.6,
-      "r": 0.15
+      "x": 0.12,
+      "y": 0.45,
+      "r": 0.12
      },
      "what": "Front room of the cut-open hull",
      "means": "Anterior mediastinum"
     },
     {
      "spot": {
-      "x": 0.87,
-      "y": 0.5,
-      "r": 0.13
+      "x": 0.4,
+      "y": 0.45,
+      "r": 0.12
+     },
+     "what": "Middle room",
+     "means": "Middle mediastinum"
+    },
+    {
+     "spot": {
+      "x": 0.82,
+      "y": 0.45,
+      "r": 0.14
      },
      "what": "Neon blast from wires at the back",
      "means": "Neuroblastoma (NEON): posterior mediastinum (D)"
     },
     {
      "spot": {
-      "x": 0.62,
+      "x": 0.32,
       "y": 0.55,
-      "r": 0.1
+      "r": 0.09
      },
-     "what": "Baby reaching toward the light",
+     "what": "Baby crawling toward the light",
      "means": "A tumour of young children"
     },
     {
      "spot": {
-      "x": 0.45,
+      "x": 0.8,
       "y": 0.45,
-      "r": 0.12
+      "r": 0.09
      },
-     "what": "Chopper pulling the baby back",
-     "means": "Resection can cure localized disease"
+     "what": "White swan nesting on the wires",
+     "means": "A neurogenic tumour of the posterior mediastinum"
+    },
+    {
+     "spot": {
+      "x": 0.85,
+      "y": 0.56,
+      "r": 0.07
+     },
+     "what": "Little red crab in the tangle",
+     "means": "Malignant"
+    },
+    {
+     "spot": {
+      "x": 0.85,
+      "y": 0.3,
+      "r": 0.08
+     },
+     "what": "Red firework fizzing out",
+     "means": "Such tumours can secrete catecholamines"
     }
    ]
   },
@@ -18314,18 +18645,18 @@
        "text": "على رصيف ضبابيّ في جزيرة من جزر الخطّ الكبير، وقف شابّ طويل جدًّا، طويل الأطراف، اسمه يوناس.",
        "t": 0,
        "spot": {
-        "x": 0.3,
-        "y": 0.4,
-        "r": 0.3
+        "x": 0.4,
+        "y": 0.45,
+        "r": 0.35
        }
       },
       {
        "text": "وعلى رأسه قبّعة رماديّة من اللباد، طرّزت على شريطها ثلاثة أحرف: إكس، إكس، واي.",
        "t": 9059,
        "spot": {
-        "x": 0.3,
-        "y": 0.11,
-        "r": 0.18
+        "x": 0.4,
+        "y": 0.1,
+        "r": 0.15
        }
       },
       {
@@ -18333,8 +18664,8 @@
        "t": 17323,
        "spot": {
         "x": 0.4,
-        "y": 0.25,
-        "r": 0.15
+        "y": 0.22,
+        "r": 0.1
        }
       },
       {
@@ -18342,8 +18673,8 @@
        "t": 23338,
        "spot": {
         "x": 0.4,
-        "y": 0.52,
-        "r": 0.2
+        "y": 0.45,
+        "r": 0.18
        }
       },
       {
@@ -18351,43 +18682,43 @@
        "t": 27772,
        "spot": {
         "x": 0.4,
-        "y": 0.52,
-        "r": 0.2
+        "y": 0.45,
+        "r": 0.18
        }
       },
       {
        "text": "فصعد تشوبر على صندوق خشبيّ، وفحص البيضة بعدسته.",
        "t": 32634,
        "spot": {
-        "x": 0.7,
-        "y": 0.55,
-        "r": 0.18
+        "x": 0.82,
+        "y": 0.45,
+        "r": 0.15
        }
       },
       {
        "text": "«هذه ليست البيضة الملساء الهادئة؛ هذه أختها الخشنة، وهي تحبّ أصحاب قبّعتك.»",
        "t": 38091,
        "spot": {
-        "x": 0.7,
-        "y": 0.55,
-        "r": 0.15
+        "x": 0.85,
+        "y": 0.42,
+        "r": 0.12
        }
       },
       {
        "text": "فنظر يوناس إلى الأحرف الثلاثة على قبّعته، ثمّ إلى البيضة.",
        "t": 45130,
        "spot": {
-        "x": 0.3,
-        "y": 0.11,
-        "r": 0.18
+        "x": 0.4,
+        "y": 0.1,
+        "r": 0.15
        }
       },
       {
        "text": "فأمسك تشوبر بيده وقاده إلى السفينة.",
        "t": 50132,
        "spot": {
-        "x": 0.7,
-        "y": 0.55,
+        "x": 0.82,
+        "y": 0.45,
         "r": 0.15
        }
       },
@@ -18396,8 +18727,8 @@
        "t": 53814,
        "spot": {
         "x": 0.4,
-        "y": 0.25,
-        "r": 0.15
+        "y": 0.22,
+        "r": 0.1
        }
       },
       {
@@ -18417,17 +18748,17 @@
        "t": 0,
        "spot": {
         "x": 0.4,
-        "y": 0.52,
-        "r": 0.2
+        "y": 0.45,
+        "r": 0.18
        }
       },
       {
        "text": "Nonseminomatous mediastinal germ cell tumours are associated with Klinefelter's syndrome (XXY): B is the answer.",
        "t": 9998,
        "spot": {
-        "x": 0.3,
-        "y": 0.11,
-        "r": 0.18
+        "x": 0.4,
+        "y": 0.1,
+        "r": 0.15
        }
       },
       {
@@ -18438,9 +18769,9 @@
        "text": "Seminomas are highly sensitive to chemotherapy and radiotherapy, not resistant.",
        "t": 28224,
        "spot": {
-        "x": 0.4,
-        "y": 0.52,
-        "r": 0.2
+        "x": 0.85,
+        "y": 0.62,
+        "r": 0.15
        }
       }
      ],
@@ -18470,13 +18801,13 @@
      ]
     }
    ],
-   "image": "gh:books/johns-hopkins-2016/media/jh-q0084.webp",
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0084-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.35,
-      "y": 0.11,
-      "r": 0.15
+      "x": 0.4,
+      "y": 0.08,
+      "r": 0.14
      },
      "what": "Grey felt hat stitched X X Y",
      "means": "Klinefelter's syndrome (KLINE-FELT-er), XXY"
@@ -18484,8 +18815,8 @@
     {
      "spot": {
       "x": 0.4,
-      "y": 0.28,
-      "r": 0.1
+      "y": 0.25,
+      "r": 0.12
      },
      "what": "Tall, long-limbed young man",
      "means": "Klinefelter's build"
@@ -18493,20 +18824,29 @@
     {
      "spot": {
       "x": 0.4,
-      "y": 0.57,
-      "r": 0.18
+      "y": 0.45,
+      "r": 0.17
      },
      "what": "Rough multicoloured cracked egg",
      "means": "Nonseminomatous germ cell tumour (B)"
     },
     {
      "spot": {
-      "x": 0.7,
-      "y": 0.55,
-      "r": 0.13
+      "x": 0.82,
+      "y": 0.45,
+      "r": 0.12
      },
      "what": "Chopper examining it with a magnifier",
      "means": "Not the smooth egg (seminoma)"
+    },
+    {
+     "spot": {
+      "x": 0.85,
+      "y": 0.62,
+      "r": 0.13
+     },
+     "what": "Green potion and a violet lamp",
+     "means": "Treated with chemotherapy; seminomas also respond to radiotherapy"
     }
    ]
   },
@@ -18757,26 +19097,26 @@
        "t": 0,
        "spot": {
         "x": 0.5,
-        "y": 0.4,
-        "r": 0.45
+        "y": 0.45,
+        "r": 0.4
        }
       },
       {
        "text": "وإلى جانبها وقف بحّار عجوز أبيض اللحية في السادسة والسّبعين، يمسك جنبه.",
        "t": 6460,
        "spot": {
-        "x": 0.22,
-        "y": 0.78,
-        "r": 0.18
+        "x": 0.15,
+        "y": 0.8,
+        "r": 0.15
        }
       },
       {
        "text": "«هذه الكتلة تكبر على مهل منذ شهور.»",
        "t": 13312,
        "spot": {
-        "x": 0.22,
-        "y": 0.78,
-        "r": 0.15
+        "x": 0.15,
+        "y": 0.72,
+        "r": 0.12
        }
       },
       {
@@ -18784,8 +19124,8 @@
        "t": 17420,
        "spot": {
         "x": 0.5,
-        "y": 0.3,
-        "r": 0.22
+        "y": 0.4,
+        "r": 0.15
        }
       },
       {
@@ -18793,34 +19133,34 @@
        "t": 24960,
        "spot": {
         "x": 0.5,
-        "y": 0.52,
-        "r": 0.22
+        "y": 0.48,
+        "r": 0.28
        }
       },
       {
        "text": "«الإبرة لم تخبرنا بشيء؛ لكنّ هذه الشظايا تخبرنا بكلّ شيء!» قال تشوبر.",
        "t": 30251,
        "spot": {
-        "x": 0.8,
-        "y": 0.8,
-        "r": 0.15
+        "x": 0.2,
+        "y": 0.18,
+        "r": 0.12
        }
       },
       {
        "text": "«سرطان من الغضروف يحفر في جيرانه؛ هذا ليس ضيفًا مسالمًا.»",
        "t": 36988,
        "spot": {
-        "x": 0.5,
-        "y": 0.3,
-        "r": 0.22
+        "x": 0.2,
+        "y": 0.18,
+        "r": 0.12
        }
       },
       {
        "text": "فأشار تشوبر إلى الشظايا عابسًا.",
        "t": 42307,
        "spot": {
-        "x": 0.8,
-        "y": 0.8,
+        "x": 0.22,
+        "y": 0.25,
         "r": 0.15
        }
       },
@@ -18828,18 +19168,18 @@
        "text": "فضحك العجوز رغم ألمه، وقال إنّه لا يخاف شيئًا في عمره هذا.",
        "t": 45496,
        "spot": {
-        "x": 0.22,
-        "y": 0.78,
-        "r": 0.15
+        "x": 0.15,
+        "y": 0.75,
+        "r": 0.12
        }
       },
       {
        "text": "ثمّ تذكّر طبيبةً عجوزًا من جزيرة الثلج كانت تسأل كلّ من تلقاه:",
        "t": 51191,
        "spot": {
-        "x": 0.8,
-        "y": 0.8,
-        "r": 0.15
+        "x": 0.15,
+        "y": 0.75,
+        "r": 0.12
        }
       },
       {
@@ -18859,8 +19199,8 @@
        "t": 0,
        "spot": {
         "x": 0.5,
-        "y": 0.3,
-        "r": 0.22
+        "y": 0.4,
+        "r": 0.15
        }
       },
       {
@@ -18868,8 +19208,8 @@
        "t": 10560,
        "spot": {
         "x": 0.5,
-        "y": 0.52,
-        "r": 0.22
+        "y": 0.48,
+        "r": 0.28
        }
       },
       {
@@ -18904,13 +19244,13 @@
      ]
     }
    ],
-   "image": "gh:books/johns-hopkins-2016/media/jh-q0086.webp",
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0086-b.webp",
    "marks": [
     {
      "spot": {
       "x": 0.5,
-      "y": 0.25,
-      "r": 0.16
+      "y": 0.38,
+      "r": 0.15
      },
      "what": "Crab of white gristle on the hull",
      "means": "Chondrosarcoma (CHONDRO = cartilage)"
@@ -18918,24 +19258,24 @@
     {
      "spot": {
       "x": 0.5,
-      "y": 0.5,
-      "r": 0.08
+      "y": 0.6,
+      "r": 0.07
      },
      "what": "White cartilage strip down the front",
-     "means": "The anterior costochondral arch"
+     "means": "The anterior costochondral junction"
     },
     {
      "spot": {
-      "x": 0.28,
-      "y": 0.42,
-      "r": 0.1
+      "x": 0.25,
+      "y": 0.48,
+      "r": 0.09
      },
      "what": "Red claw boring into the planks",
      "means": "Evidence of invasion indicates chondrosarcoma (A)"
     },
     {
      "spot": {
-      "x": 0.7,
+      "x": 0.72,
       "y": 0.5,
       "r": 0.1
      },
@@ -18944,21 +19284,30 @@
     },
     {
      "spot": {
-      "x": 0.22,
+      "x": 0.15,
       "y": 0.8,
-      "r": 0.15
+      "r": 0.14
      },
      "what": "White-bearded sailor of 76",
      "means": "An older adult with a slowly growing mass"
     },
     {
      "spot": {
-      "x": 0.82,
-      "y": 0.82,
+      "x": 0.5,
+      "y": 0.22,
       "r": 0.11
      },
-     "what": "Chopper pointing at the splinters",
-     "means": "The biopsy was inconclusive; invasion decides"
+     "what": "Red magnet humming over the crab",
+     "means": "Imaging that shows the invasion"
+    },
+    {
+     "spot": {
+      "x": 0.85,
+      "y": 0.55,
+      "r": 0.09
+     },
+     "what": "Sack of dollars the claws reach for",
+     "means": "Invasion toward the neighbouring lung"
     }
    ]
   },
@@ -18990,8 +19339,8 @@
        "text": "فارتدّت كرة عن جنب صبيّ في الحادية عشرة اسمه تيدي.",
        "t": 6113,
        "spot": {
-        "x": 0.13,
-        "y": 0.68,
+        "x": 0.15,
+        "y": 0.3,
         "r": 0.1
        }
       },
@@ -18999,72 +19348,72 @@
        "text": "«آخ! كرتكم أصابت ضلعي!» صاح تيدي.",
        "t": 11135,
        "spot": {
-        "x": 0.35,
-        "y": 0.25,
-        "r": 0.18
+        "x": 0.45,
+        "y": 0.12,
+        "r": 0.12
        }
       },
       {
        "text": "فلمّا نظروا، وجدوا ضلعًا في جنبه كلوح خشبيّ مقوّس منتفخ.",
        "t": 15480,
        "spot": {
-        "x": 0.35,
-        "y": 0.62,
-        "r": 0.18
+        "x": 0.4,
+        "y": 0.32,
+        "r": 0.12
        }
       },
       {
        "text": "وكان ممتلئًا بزجاج مصنفر تتخلّله ألياف بيضاء دقيقة، يتوهّج برفق.",
        "t": 21604,
        "spot": {
-        "x": 0.33,
-        "y": 0.62,
-        "r": 0.15
+        "x": 0.4,
+        "y": 0.32,
+        "r": 0.12
        }
       },
       {
        "text": "فحدّق لوفي في الضلع الزجاجيّ مدهوشًا.",
        "t": 28626,
        "spot": {
-        "x": 0.8,
+        "x": 0.85,
         "y": 0.4,
-        "r": 0.2
+        "r": 0.15
        }
       },
       {
        "text": "«ضلع من زجاج وخيوط! هذا أجمل من ضلعي!» قال لوفي.",
        "t": 32307,
        "spot": {
-        "x": 0.8,
-        "y": 0.4,
-        "r": 0.2
+        "x": 0.85,
+        "y": 0.35,
+        "r": 0.12
        }
       },
       {
        "text": "«هذا الضلع لم تصنعه الكرة؛ الكرة دلّتنا عليه فقط، وهو هادئ لا يغزو شيئًا.» قال تشوبر.",
        "t": 38077,
        "spot": {
-        "x": 0.33,
-        "y": 0.62,
-        "r": 0.15
+        "x": 0.4,
+        "y": 0.32,
+        "r": 0.12
        }
       },
       {
        "text": "فدلك تيدي ضلعه مبتسمًا، وعاد إلى اللعب.",
        "t": 46132,
        "spot": {
-        "x": 0.35,
-        "y": 0.25,
-        "r": 0.18
+        "x": 0.45,
+        "y": 0.3,
+        "r": 0.15
        }
       },
       {
        "text": "وصاح وهو يرفع مضربه كالسّيف:",
        "t": 50431,
        "spot": {
-        "x": 0.35,
-        "y": 0.25,
-        "r": 0.18
+        "x": 0.45,
+        "y": 0.2,
+        "r": 0.15
        }
       },
       {
@@ -19083,17 +19432,17 @@
        "text": "Fibrous dysplasia is a benign developmental lesion in which normal bone is replaced by fibrous tissue and immature bone.",
        "t": 0,
        "spot": {
-        "x": 0.33,
-        "y": 0.62,
-        "r": 0.15
+        "x": 0.4,
+        "y": 0.32,
+        "r": 0.12
        }
       },
       {
        "text": "On imaging it has a ground-glass, amorphously calcified appearance, often in a rib of a child or young adult: A is the answer.",
        "t": 7680,
        "spot": {
-        "x": 0.33,
-        "y": 0.62,
+        "x": 0.35,
+        "y": 0.77,
         "r": 0.15
        }
       },
@@ -19101,8 +19450,8 @@
        "text": "It is often found after minor trauma draws attention to it, and an asymptomatic lesion can be watched.",
        "t": 16694,
        "spot": {
-        "x": 0.13,
-        "y": 0.68,
+        "x": 0.15,
+        "y": 0.3,
         "r": 0.1
        }
       }
@@ -19132,43 +19481,61 @@
      ]
     }
    ],
-   "image": "gh:books/johns-hopkins-2016/media/jh-q0087.webp",
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0087-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.13,
-      "y": 0.68,
-      "r": 0.1
+      "x": 0.15,
+      "y": 0.3,
+      "r": 0.09
      },
      "what": "Baseball bouncing off his side",
      "means": "Minor trauma drew attention to it"
     },
     {
      "spot": {
-      "x": 0.35,
+      "x": 0.45,
       "y": 0.25,
-      "r": 0.18
+      "r": 0.15
      },
-     "what": "Boy of eleven wincing",
-     "means": "A child with a tender rib"
+     "what": "Boy of eleven, otherwise well, smiling",
+     "means": "A child: a benign lesion"
     },
     {
      "spot": {
-      "x": 0.33,
-      "y": 0.62,
-      "r": 0.15
+      "x": 0.4,
+      "y": 0.32,
+      "r": 0.11
      },
      "what": "Rib filled with frosted glass and fibres",
      "means": "Fibrous dysplasia: ground-glass calcification (A)"
     },
     {
      "spot": {
-      "x": 0.8,
-      "y": 0.4,
-      "r": 0.2
+      "x": 0.35,
+      "y": 0.77,
+      "r": 0.14
      },
-     "what": "Luffy staring, amazed",
-     "means": "A benign lesion that does not invade"
+     "what": "Cat slicing a rib-shaped loaf",
+     "means": "Imaging shows the ground-glass look"
+    },
+    {
+     "spot": {
+      "x": 0.85,
+      "y": 0.85,
+      "r": 0.08
+     },
+     "what": "Red crab scuttling past",
+     "means": "Not a sarcoma (D is wrong)"
+    },
+    {
+     "spot": {
+      "x": 0.78,
+      "y": 0.15,
+      "r": 0.07
+     },
+     "what": "White swan far out at sea",
+     "means": "A neurofibroma is a nerve tumour (C is wrong)"
     }
    ]
   },
@@ -19193,8 +19560,8 @@
        "t": 0,
        "spot": {
         "x": 0.5,
-        "y": 0.5,
-        "r": 0.4
+        "y": 0.42,
+        "r": 0.22
        }
       },
       {
@@ -19202,34 +19569,34 @@
        "t": 7750,
        "spot": {
         "x": 0.5,
-        "y": 0.5,
-        "r": 0.25
+        "y": 0.4,
+        "r": 0.22
        }
       },
       {
        "text": "فبحثت نامي في السفينة كلّها بمنظارها، فلم تجد عشًّا غيره.",
        "t": 10154,
        "spot": {
-        "x": 0.22,
-        "y": 0.12,
-        "r": 0.15
+        "x": 0.82,
+        "y": 0.08,
+        "r": 0.12
        }
       },
       {
        "text": "«عشّ واحد فقط في السفينة كلّها!»",
        "t": 15689,
        "spot": {
-        "x": 0.22,
-        "y": 0.12,
-        "r": 0.15
+        "x": 0.82,
+        "y": 0.08,
+        "r": 0.12
        }
       },
       {
        "text": "فقطع زورو العشّ كلّه من الألواح بضربة واحدة.",
        "t": 18786,
        "spot": {
-        "x": 0.18,
-        "y": 0.8,
+        "x": 0.75,
+        "y": 0.65,
         "r": 0.2
        }
       },
@@ -19237,35 +19604,35 @@
        "text": "وسلّط أوسوب أشعّةً بنفسجيّةً على حوافّ الفتحة، حيث بقيت نحلات قليلة.",
        "t": 22942,
        "spot": {
-        "x": 0.75,
-        "y": 0.35,
-        "r": 0.18
+        "x": 0.25,
+        "y": 0.45,
+        "r": 0.15
        }
       },
       {
        "text": "«ما بقي على الحوافّ، له أشعّتي!»",
        "t": 29358,
        "spot": {
-        "x": 0.8,
-        "y": 0.3,
-        "r": 0.15
+        "x": 0.12,
+        "y": 0.55,
+        "r": 0.12
        }
       },
       {
        "text": "«كتابنا يقطع هذا العشّ ويشعّ حوافّه؛ وأطبّاء اليوم يبدؤونه بالجرعات.» قال تشوبر.",
        "t": 33062,
        "spot": {
-        "x": 0.5,
-        "y": 0.5,
-        "r": 0.25
+        "x": 0.15,
+        "y": 0.85,
+        "r": 0.12
        }
       },
       {
        "text": "فطارت النحلات الأخيرة من الأشعّة هاربة.",
        "t": 40379,
        "spot": {
-        "x": 0.6,
-        "y": 0.33,
+        "x": 0.2,
+        "y": 0.45,
         "r": 0.12
        }
       },
@@ -19273,9 +19640,9 @@
        "text": "فتذكّرت نامي يومًا بكت فيه في قريتها، وما قيل بينها وبين قائدها:",
        "t": 44023,
        "spot": {
-        "x": 0.22,
-        "y": 0.12,
-        "r": 0.15
+        "x": 0.82,
+        "y": 0.08,
+        "r": 0.12
        }
       },
       {
@@ -19295,26 +19662,26 @@
        "t": 0,
        "spot": {
         "x": 0.5,
-        "y": 0.5,
-        "r": 0.25
+        "y": 0.42,
+        "r": 0.22
        }
       },
       {
        "text": "The book's key is D: surgical resection, with radiation therapy for positive margins.",
        "t": 6927,
        "spot": {
-        "x": 0.18,
-        "y": 0.8,
-        "r": 0.2
+        "x": 0.6,
+        "y": 0.55,
+        "r": 0.25
        }
       },
       {
        "text": "The lymphoma is highly sensitive to chemotherapy and radiotherapy.",
        "t": 13544,
        "spot": {
-        "x": 0.75,
-        "y": 0.35,
-        "r": 0.18
+        "x": 0.15,
+        "y": 0.85,
+        "r": 0.12
        }
       }
      ],
@@ -19344,52 +19711,52 @@
      ]
     }
    ],
-   "image": "gh:books/johns-hopkins-2016/media/jh-q0088.webp",
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0088-b.webp",
    "marks": [
     {
      "spot": {
       "x": 0.5,
-      "y": 0.55,
-      "r": 0.22
+      "y": 0.42,
+      "r": 0.2
      },
      "what": "Golden nest of bees in the chest wall",
      "means": "Diffuse large B-cell lymphoma (B cell = BEE)"
     },
     {
      "spot": {
-      "x": 0.22,
-      "y": 0.12,
-      "r": 0.15
+      "x": 0.82,
+      "y": 0.08,
+      "r": 0.11
      },
      "what": "Nami searching with her spyglass",
      "means": "No other site of disease"
     },
     {
      "spot": {
-      "x": 0.18,
-      "y": 0.8,
-      "r": 0.2
+      "x": 0.75,
+      "y": 0.65,
+      "r": 0.18
      },
      "what": "Zoro cutting the nest out of the planks",
      "means": "Surgical resection (the book's D)"
     },
     {
      "spot": {
-      "x": 0.75,
-      "y": 0.35,
-      "r": 0.15
+      "x": 0.25,
+      "y": 0.45,
+      "r": 0.14
      },
      "what": "Usopp's violet rays on the edges",
      "means": "Radiation for positive margins (the book's D)"
     },
     {
      "spot": {
-      "x": 0.62,
-      "y": 0.33,
-      "r": 0.09
+      "x": 0.15,
+      "y": 0.85,
+      "r": 0.11
      },
-     "what": "A few bees left at the edge",
-     "means": "Positive margins"
+     "what": "Flask of green potion on a barrel",
+     "means": "Highly sensitive to chemotherapy too"
     }
    ]
   },
@@ -19414,43 +19781,43 @@
        "t": 0,
        "spot": {
         "x": 0.5,
-        "y": 0.5,
-        "r": 0.45
+        "y": 0.7,
+        "r": 0.4
        }
       },
       {
        "text": "فوقف على درجتها العليا سرطان من الغضروف الأبيض، رافعًا ملاقطه ظافرًا.",
        "t": 8949,
        "spot": {
-        "x": 0.45,
+        "x": 0.52,
         "y": 0.3,
-        "r": 0.28
+        "r": 0.22
        }
       },
       {
        "text": "وعلى الدرجات السفلى وقف حمل يقضم بصلة، وسرطان أحمر كالدّم.",
        "t": 16278,
        "spot": {
-        "x": 0.2,
-        "y": 0.8,
-        "r": 0.18
+        "x": 0.5,
+        "y": 0.72,
+        "r": 0.35
        }
       },
       {
        "text": "«الغضروفيّ هو الأوّل بين الكبار؛ أمّا الحمل فيفضّل الصغار!» قال تشوبر.",
        "t": 22978,
        "spot": {
-        "x": 0.2,
-        "y": 0.8,
-        "r": 0.18
+        "x": 0.25,
+        "y": 0.72,
+        "r": 0.15
        }
       },
       {
        "text": "فعلّق لوفي في عنق السرطان الغضروفيّ ميداليّةً ذهبيّةً كبيرة، ضاحكًا.",
        "t": 29455,
        "spot": {
-        "x": 0.55,
-        "y": 0.4,
+        "x": 0.45,
+        "y": 0.45,
         "r": 0.15
        }
       },
@@ -19458,18 +19825,18 @@
        "text": "«أنت الأكثر بين سرطانات جدران الصدور! خذ ميداليّتك!»",
        "t": 36419,
        "spot": {
-        "x": 0.45,
-        "y": 0.3,
-        "r": 0.25
+        "x": 0.15,
+        "y": 0.35,
+        "r": 0.12
        }
       },
       {
        "text": "فنظر الحمل والسّرطان الدمويّ إليه بحسد.",
        "t": 41610,
        "spot": {
-        "x": 0.77,
-        "y": 0.82,
-        "r": 0.15
+        "x": 0.5,
+        "y": 0.72,
+        "r": 0.35
        }
       },
       {
@@ -19480,18 +19847,18 @@
        "text": "ثمّ قفز لوفي إلى أعلى المنصّة بجانب السرطان.",
        "t": 49447,
        "spot": {
-        "x": 0.85,
-        "y": 0.4,
-        "r": 0.15
+        "x": 0.15,
+        "y": 0.35,
+        "r": 0.12
        }
       },
       {
        "text": "وصاح بالكلمة الّتي يعرّف بها نفسه أينما ذهب:",
        "t": 54098,
        "spot": {
-        "x": 0.85,
-        "y": 0.4,
-        "r": 0.15
+        "x": 0.15,
+        "y": 0.3,
+        "r": 0.12
        }
       },
       {
@@ -19510,27 +19877,27 @@
        "text": "Chondrosarcoma is the commonest chest wall sarcoma in adults: B is the answer.",
        "t": 0,
        "spot": {
-        "x": 0.45,
-        "y": 0.3,
-        "r": 0.25
+        "x": 0.5,
+        "y": 0.48,
+        "r": 0.1
        }
       },
       {
        "text": "It usually arises at the costochondral junctions or the sternum, grows slowly and is resistant to chemotherapy and radiotherapy.",
        "t": 5650,
        "spot": {
-        "x": 0.45,
-        "y": 0.3,
-        "r": 0.25
+        "x": 0.75,
+        "y": 0.15,
+        "r": 0.18
        }
       },
       {
        "text": "Ewing's sarcoma and rhabdomyosarcoma are tumours of children and young people.",
        "t": 14343,
        "spot": {
-        "x": 0.2,
-        "y": 0.8,
-        "r": 0.18
+        "x": 0.25,
+        "y": 0.72,
+        "r": 0.15
        }
       }
      ],
@@ -19561,52 +19928,61 @@
      ]
     }
    ],
-   "image": "gh:books/johns-hopkins-2016/media/jh-q0089.webp",
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0089-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.45,
-      "y": 0.28,
-      "r": 0.22
+      "x": 0.52,
+      "y": 0.3,
+      "r": 0.2
      },
      "what": "Gristle crab on the top step",
      "means": "Chondrosarcoma"
     },
     {
      "spot": {
-      "x": 0.54,
-      "y": 0.47,
-      "r": 0.1
+      "x": 0.5,
+      "y": 0.48,
+      "r": 0.08
      },
      "what": "Gold medal round its neck",
      "means": "The commonest adult chest wall sarcoma (B)"
     },
     {
      "spot": {
-      "x": 0.2,
-      "y": 0.8,
-      "r": 0.18
+      "x": 0.25,
+      "y": 0.72,
+      "r": 0.14
      },
      "what": "Lamb eating an onion on a lower step",
      "means": "Ewing's sarcoma: children and young people"
     },
     {
      "spot": {
-      "x": 0.77,
-      "y": 0.82,
-      "r": 0.15
+      "x": 0.78,
+      "y": 0.75,
+      "r": 0.13
      },
      "what": "Blood-red crab on a lower step",
      "means": "Angiosarcoma and others: rarer"
     },
     {
      "spot": {
-      "x": 0.82,
-      "y": 0.4,
-      "r": 0.13
+      "x": 0.22,
+      "y": 0.12,
+      "r": 0.12
      },
-     "what": "Luffy hanging the medal",
-     "means": "The winner"
+     "what": "Violet rays bouncing off the crab",
+     "means": "Resistant to radiotherapy"
+    },
+    {
+     "spot": {
+      "x": 0.9,
+      "y": 0.18,
+      "r": 0.09
+     },
+     "what": "Potion splashing off it",
+     "means": "Resistant to chemotherapy"
     }
    ]
   },
@@ -19731,7 +20107,7 @@
        "t": 70377
       }
      ],
-     "audio": "gh:books/johns-hopkins-2016/media/jh-q0090-story-ar.m4a"
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0090-story-ar-v2.m4a"
     },
     {
      "kind": "explanation",
@@ -19765,7 +20141,7 @@
        "t": 16276
       }
      ],
-     "audio": "gh:books/johns-hopkins-2016/media/jh-q0090-explanation-en.m4a"
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0090-explanation-en-v2.m4a"
     }
    ],
    "quiz": [
@@ -19869,53 +20245,53 @@
        "text": "في يوم مشرق على عشب الثاوزند صني، أخذ فتًى اسمه روي يطول ويطول كساق فاصوليا خضراء.",
        "t": 0,
        "spot": {
-        "x": 0.5,
-        "y": 0.3,
-        "r": 0.3
+        "x": 0.35,
+        "y": 0.35,
+        "r": 0.25
        }
       },
       {
        "text": "وكان يضمّ إلى مقدّم صدره صندوق كنز، تحفر فيه حفّارة صفراء صغيرة حفرةً عميقة.",
        "t": 7772,
        "spot": {
-        "x": 0.45,
-        "y": 0.45,
-        "r": 0.2
+        "x": 0.4,
+        "y": 0.38,
+        "r": 0.18
        }
       },
       {
        "text": "«أتكبر الحفرة معه أم تصغر؟» سأل لوفي.",
        "t": 15751,
        "spot": {
-        "x": 0.45,
-        "y": 0.3,
-        "r": 0.18
+        "x": 0.4,
+        "y": 0.15,
+        "r": 0.12
        }
       },
       {
        "text": "فتدحرج من الحفرة نردان أبيضان كبيران.",
        "t": 19933,
        "spot": {
-        "x": 0.47,
-        "y": 0.75,
-        "r": 0.22
+        "x": 0.45,
+        "y": 0.8,
+        "r": 0.18
        }
       },
       {
        "text": "وأخذا يدوران على العشب، ولا أحد يعرف على أيّ وجه سيستقرّان.",
        "t": 24141,
        "spot": {
-        "x": 0.47,
-        "y": 0.75,
-        "r": 0.22
+        "x": 0.45,
+        "y": 0.8,
+        "r": 0.18
        }
       },
       {
        "text": "«من يقول إنّه يعرف ما سيفعله الطول بالحفرة، فهو يقول ما لا يعلم!» قال تشوبر.",
        "t": 30357,
        "spot": {
-        "x": 0.85,
-        "y": 0.55,
+        "x": 0.15,
+        "y": 0.85,
         "r": 0.13
        }
       },
@@ -19923,8 +20299,8 @@
        "text": "فركض تشوبر وراء النردين يهزّ كتفيه.",
        "t": 37450,
        "spot": {
-        "x": 0.85,
-        "y": 0.55,
+        "x": 0.15,
+        "y": 0.85,
         "r": 0.13
        }
       },
@@ -19932,8 +20308,8 @@
        "text": "«نصلحها قبل الطول أو بعده، وينجح الأمران؛ أمّا أثناءه فننتظر.»",
        "t": 41360,
        "spot": {
-        "x": 0.85,
-        "y": 0.55,
+        "x": 0.15,
+        "y": 0.85,
         "r": 0.13
        }
       },
@@ -19941,18 +20317,18 @@
        "text": "وظلّ النردان يدوران على العشب طويلًا.",
        "t": 47063,
        "spot": {
-        "x": 0.47,
-        "y": 0.75,
-        "r": 0.22
+        "x": 0.45,
+        "y": 0.8,
+        "r": 0.18
        }
       },
       {
        "text": "فضحك روي وهو يطول، وتذكّر كلمة أخ ناريّ لقائدهم:",
        "t": 50715,
        "spot": {
-        "x": 0.45,
-        "y": 0.3,
-        "r": 0.18
+        "x": 0.4,
+        "y": 0.15,
+        "r": 0.12
        }
       },
       {
@@ -19971,22 +20347,27 @@
        "text": "Pectus excavatum can be repaired with good results both before and after the pubertal growth spurt.",
        "t": 0,
        "spot": {
-        "x": 0.45,
-        "y": 0.45,
-        "r": 0.2
+        "x": 0.8,
+        "y": 0.4,
+        "r": 0.15
        }
       },
       {
        "text": "Repair during the spurt itself is usually avoided.",
-       "t": 6464
+       "t": 6464,
+       "spot": {
+        "x": 0.35,
+        "y": 0.35,
+        "r": 0.22
+       }
       },
       {
        "text": "The effect of puberty on the shape of the chest wall is unpredictable, so the statement that it is predictable is the incorrect one: D is the answer.",
        "t": 10039,
        "spot": {
-        "x": 0.47,
-        "y": 0.75,
-        "r": 0.22
+        "x": 0.45,
+        "y": 0.8,
+        "r": 0.18
        }
       }
      ],
@@ -20016,43 +20397,61 @@
      ]
     }
    ],
-   "image": "gh:books/johns-hopkins-2016/media/jh-q0091.webp",
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0091-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.45,
-      "y": 0.45,
-      "r": 0.15
+      "x": 0.4,
+      "y": 0.38,
+      "r": 0.16
      },
      "what": "Excavator digging a hollow in the chest",
      "means": "Pectus excavatum"
     },
     {
      "spot": {
-      "x": 0.52,
-      "y": 0.15,
-      "r": 0.11
+      "x": 0.3,
+      "y": 0.3,
+      "r": 0.2
      },
-     "what": "Boy shooting up beside a beanstalk",
+     "what": "Boy shooting up on a beanstalk",
      "means": "The pubertal growth spurt"
     },
     {
      "spot": {
-      "x": 0.47,
-      "y": 0.78,
-      "r": 0.2
+      "x": 0.45,
+      "y": 0.8,
+      "r": 0.18
      },
      "what": "Two big dice tumbling out",
      "means": "Puberty's effect on the chest is unpredictable"
     },
     {
      "spot": {
-      "x": 0.85,
-      "y": 0.55,
-      "r": 0.13
+      "x": 0.15,
+      "y": 0.85,
+      "r": 0.12
      },
-     "what": "Chopper shrugging after the dice",
+     "what": "Chopper running after the dice",
      "means": "\"Predictable\" is the INCORRECT statement (D)"
+    },
+    {
+     "spot": {
+      "x": 0.8,
+      "y": 0.4,
+      "r": 0.15
+     },
+     "what": "Franky waiting with a curved bar",
+     "means": "Repair before or after the spurt, not during it"
+    },
+    {
+     "spot": {
+      "x": 0.8,
+      "y": 0.65,
+      "r": 0.12
+     },
+     "what": "Cat slicing a chest-shaped loaf",
+     "means": "CT measures the hollow"
     }
    ]
   },
@@ -20176,7 +20575,7 @@
        "t": 61799
       }
      ],
-     "audio": "gh:books/johns-hopkins-2016/media/jh-q0092-story-ar.m4a"
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0092-story-ar-v2.m4a"
     },
     {
      "kind": "explanation",
@@ -20218,7 +20617,7 @@
        "t": 23037
       }
      ],
-     "audio": "gh:books/johns-hopkins-2016/media/jh-q0092-explanation-en.m4a"
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0092-explanation-en-v2.m4a"
     }
    ],
    "quiz": [
@@ -20311,17 +20710,17 @@
        "text": "في غرفة الأطفال تحت ضوء أزرق ناعم، رقد رضيع في مهده، صدره كبرميل خشبيّ صغير ضيّق جدًّا.",
        "t": 0,
        "spot": {
-        "x": 0.52,
-        "y": 0.75,
-        "r": 0.25
+        "x": 0.48,
+        "y": 0.72,
+        "r": 0.2
        }
       },
       {
        "text": "وفي داخله كيسان صغيران من الدولارات محشوران، فكان يتنفّس بعناء.",
        "t": 9625,
        "spot": {
-        "x": 0.52,
-        "y": 0.75,
+        "x": 0.48,
+        "y": 0.77,
         "r": 0.12
        }
       },
@@ -20330,17 +20729,17 @@
        "t": 16288,
        "spot": {
         "x": 0.5,
-        "y": 0.2,
-        "r": 0.35
+        "y": 0.18,
+        "r": 0.4
        }
       },
       {
        "text": "«ليس في أحد منّا شيء من هذا!» قالت الأمّ.",
        "t": 20716,
        "spot": {
-        "x": 0.8,
-        "y": 0.2,
-        "r": 0.15
+        "x": 0.75,
+        "y": 0.15,
+        "r": 0.12
        }
       },
       {
@@ -20348,16 +20747,16 @@
        "t": 25006,
        "spot": {
         "x": 0.5,
-        "y": 0.34,
-        "r": 0.2
+        "y": 0.3,
+        "r": 0.25
        }
       },
       {
        "text": "فمدّا النصفين في الهواء فوق الرضيع، فالتقيا وصارا مفتاحًا واحدًا.",
        "t": 32069,
        "spot": {
-        "x": 0.52,
-        "y": 0.34,
+        "x": 0.5,
+        "y": 0.3,
         "r": 0.12
        }
       },
@@ -20365,8 +20764,8 @@
        "text": "«نصف من أبيه، ونصف من أمّه؛ وحده النصف لا يفتح شيئًا، ومعًا يفتحان.» قال تشوبر.",
        "t": 38403,
        "spot": {
-        "x": 0.15,
-        "y": 0.54,
+        "x": 0.85,
+        "y": 0.6,
         "r": 0.13
        }
       },
@@ -20375,7 +20774,7 @@
        "t": 46326,
        "spot": {
         "x": 0.5,
-        "y": 0.3,
+        "y": 0.25,
         "r": 0.35
        }
       },
@@ -20383,17 +20782,17 @@
        "text": "وجلس تشوبر إلى جانب المهد يساعد الصغير على التنفّس.",
        "t": 52181,
        "spot": {
-        "x": 0.15,
-        "y": 0.54,
-        "r": 0.13
+        "x": 0.85,
+        "y": 0.7,
+        "r": 0.15
        }
       },
       {
        "text": "وتذكّر كلمةً قالها عملاق طيّب ضحوك لطفلة وحيدة:",
        "t": 57464,
        "spot": {
-        "x": 0.15,
-        "y": 0.54,
+        "x": 0.85,
+        "y": 0.6,
         "r": 0.13
        }
       },
@@ -20413,26 +20812,26 @@
        "text": "Jeune's syndrome, asphyxiating thoracic dystrophy, is a skeletal dysplasia with a small, narrow, bell-shaped chest and short ribs.",
        "t": 0,
        "spot": {
-        "x": 0.52,
-        "y": 0.75,
-        "r": 0.25
+        "x": 0.48,
+        "y": 0.72,
+        "r": 0.2
        }
       },
       {
        "text": "It may be inherited in an autosomal recessive pattern: A is the answer.",
        "t": 8931,
        "spot": {
-        "x": 0.52,
-        "y": 0.34,
-        "r": 0.12
+        "x": 0.5,
+        "y": 0.3,
+        "r": 0.15
        }
       },
       {
        "text": "Chromosomal abnormalities are not typical, and the lungs are hypoplastic, not normally developed.",
        "t": 14291,
        "spot": {
-        "x": 0.52,
-        "y": 0.75,
+        "x": 0.48,
+        "y": 0.77,
         "r": 0.12
        }
       },
@@ -20467,52 +20866,61 @@
      ]
     }
    ],
-   "image": "gh:books/johns-hopkins-2016/media/jh-q0093.webp",
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0093-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.52,
-      "y": 0.75,
-      "r": 0.12
+      "x": 0.48,
+      "y": 0.72,
+      "r": 0.18
      },
      "what": "Baby with a tight little barrel chest",
      "means": "Jeune's asphyxiating thoracic dystrophy"
     },
     {
      "spot": {
-      "x": 0.22,
-      "y": 0.25,
-      "r": 0.15
+      "x": 0.3,
+      "y": 0.28,
+      "r": 0.13
      },
      "what": "Healthy father holding half a key",
      "means": "One silent copy from one parent"
     },
     {
      "spot": {
-      "x": 0.8,
-      "y": 0.25,
-      "r": 0.15
+      "x": 0.75,
+      "y": 0.3,
+      "r": 0.13
      },
      "what": "Healthy mother holding the other half",
      "means": "One silent copy from the other parent"
     },
     {
      "spot": {
-      "x": 0.5,
-      "y": 0.34,
-      "r": 0.1
+      "x": 0.52,
+      "y": 0.3,
+      "r": 0.09
      },
      "what": "Two halves joining into one key",
      "means": "Autosomal recessive inheritance (A)"
     },
     {
      "spot": {
-      "x": 0.15,
-      "y": 0.54,
+      "x": 0.48,
+      "y": 0.78,
+      "r": 0.1
+     },
+     "what": "Two little sacks crammed in the barrel",
+     "means": "Small, hypoplastic lungs"
+    },
+    {
+     "spot": {
+      "x": 0.85,
+      "y": 0.68,
       "r": 0.13
      },
-     "what": "Chopper helping the baby breathe",
-     "means": "Small lungs: breathing is laboured"
+     "what": "Chopper working a bellows down a hose",
+     "means": "The child may need help to breathe"
     }
    ]
   },
@@ -20754,62 +21162,62 @@
        "text": "في غرفة الملاحة على الثاوزند صني، بين الخرائط المعلّقة، وضع صندوق كنز على الطاولة.",
        "t": 0,
        "spot": {
-        "x": 0.5,
-        "y": 0.4,
-        "r": 0.4
+        "x": 0.45,
+        "y": 0.55,
+        "r": 0.3
        }
       },
       {
        "text": "وفي مقدّمه حفرة عميقة حفرتها حفّارة صفراء صغيرة.",
        "t": 7528,
        "spot": {
-        "x": 0.25,
-        "y": 0.72,
-        "r": 0.18
+        "x": 0.5,
+        "y": 0.68,
+        "r": 0.22
        }
       },
       {
        "text": "«لا أصلح شيئًا قبل أن أقيسه!» قالت نامي.",
        "t": 13098,
        "spot": {
-        "x": 0.6,
-        "y": 0.3,
-        "r": 0.15
+        "x": 0.35,
+        "y": 0.2,
+        "r": 0.12
        }
       },
       {
        "text": "فمدّت حبلًا على عرض الصندوق كلّه.",
        "t": 16953,
        "spot": {
-        "x": 0.5,
-        "y": 0.5,
-        "r": 0.2
+        "x": 0.48,
+        "y": 0.52,
+        "r": 0.3
        }
       },
       {
        "text": "ثمّ مدّت حبلًا ثانيًا قصيرًا من قاع الحفرة إلى ظهر الصندوق.",
        "t": 20263,
        "spot": {
-        "x": 0.48,
+        "x": 0.45,
         "y": 0.75,
-        "r": 0.12
+        "r": 0.08
        }
       },
       {
        "text": "فكان حبل العرض أطول من حبل العمق ثلاث مرّات، وتدلّت منه بطاقة مكتوب عليها: ثلاثة.",
        "t": 25374,
        "spot": {
-        "x": 0.82,
-        "y": 0.65,
-        "r": 0.12
+        "x": 0.48,
+        "y": 0.58,
+        "r": 0.08
        }
       },
       {
        "text": "«ثلاثة أو أكثر، في كتابنا؛ إذن نصلحه!»",
        "t": 33576,
        "spot": {
-        "x": 0.82,
-        "y": 0.65,
+        "x": 0.35,
+        "y": 0.2,
         "r": 0.12
        }
       },
@@ -20817,27 +21225,27 @@
        "text": "وإلى جانب الطاولة، كان بحّار قد أصلح صندوقه يتنفّس بسهولة مبتسمًا.",
        "t": 37803,
        "spot": {
-        "x": 0.15,
-        "y": 0.22,
-        "r": 0.13
+        "x": 0.78,
+        "y": 0.25,
+        "r": 0.15
        }
       },
       {
        "text": "«كنت ألهث على الدرج، والآن أصعده ركضًا!»",
        "t": 44650,
        "spot": {
-        "x": 0.15,
-        "y": 0.22,
-        "r": 0.13
+        "x": 0.78,
+        "y": 0.2,
+        "r": 0.12
        }
       },
       {
        "text": "فطوت نامي الحبلين، وتذكّرت كلمة قائدها عن الحرّيّة:",
        "t": 49057,
        "spot": {
-        "x": 0.6,
-        "y": 0.3,
-        "r": 0.15
+        "x": 0.35,
+        "y": 0.2,
+        "r": 0.12
        }
       },
       {
@@ -20856,7 +21264,7 @@
        "text": "The Haller index is the transverse width of the chest divided by the distance from the back of the sternum to the front of the spine, measured on CT.",
        "t": 0,
        "spot": {
-        "x": 0.5,
+        "x": 0.48,
         "y": 0.6,
         "r": 0.3
        }
@@ -20865,18 +21273,18 @@
        "text": "In the book, repair is indicated for a Haller index of 3 or above (many centres use 3.25): B is the answer.",
        "t": 8775,
        "spot": {
-        "x": 0.82,
-        "y": 0.65,
-        "r": 0.12
+        "x": 0.48,
+        "y": 0.58,
+        "r": 0.08
        }
       },
       {
        "text": "Psychological factors matter greatly to children, pulmonary function tests are part of the workup, and exertional dyspnoea often improves after repair.",
        "t": 17620,
        "spot": {
-        "x": 0.15,
-        "y": 0.22,
-        "r": 0.13
+        "x": 0.78,
+        "y": 0.2,
+        "r": 0.15
        }
       }
      ],
@@ -20906,52 +21314,61 @@
      ]
     }
    ],
-   "image": "gh:books/johns-hopkins-2016/media/jh-q0095.webp",
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0095-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.3,
-      "y": 0.72,
-      "r": 0.15
+      "x": 0.5,
+      "y": 0.68,
+      "r": 0.2
      },
      "what": "Excavator's hollow in the chest",
      "means": "Pectus excavatum"
     },
     {
      "spot": {
-      "x": 0.55,
+      "x": 0.48,
       "y": 0.52,
-      "r": 0.08
+      "r": 0.26
      },
      "what": "Rope across the chest's width",
      "means": "The chest's transverse width"
     },
     {
      "spot": {
-      "x": 0.5,
-      "y": 0.78,
-      "r": 0.09
+      "x": 0.45,
+      "y": 0.75,
+      "r": 0.06
      },
      "what": "Short rope from the hollow to the back",
      "means": "Sternum-to-spine distance"
     },
     {
      "spot": {
-      "x": 0.82,
-      "y": 0.65,
-      "r": 0.12
+      "x": 0.48,
+      "y": 0.58,
+      "r": 0.07
      },
      "what": "Tag painted 3",
      "means": "Haller index of 3 or more: repair (B, the book)"
     },
     {
      "spot": {
-      "x": 0.15,
-      "y": 0.22,
-      "r": 0.13
+      "x": 0.78,
+      "y": 0.25,
+      "r": 0.14
      },
-     "what": "Usopp lying back, breathing easily",
-     "means": "Exercise breathlessness often improves after repair"
+     "what": "Sailor breathing easily, blowing a horn",
+     "means": "Breathlessness on exercise often improves; lung tests in the workup"
+    },
+    {
+     "spot": {
+      "x": 0.15,
+      "y": 0.85,
+      "r": 0.12
+     },
+     "what": "Cat slicing a chest-shaped loaf",
+     "means": "The Haller index is measured on CT"
     }
    ]
   },
@@ -21399,53 +21816,53 @@
        "text": "كانت قمرة الصدر في السفينة مكشوفةً من جانبها، وأنبوب حليب يصعد إلى جانب العارضة.",
        "t": 0,
        "spot": {
-        "x": 0.5,
-        "y": 0.4,
-        "r": 0.4
+        "x": 0.1,
+        "y": 0.5,
+        "r": 0.12
        }
       },
       {
        "text": "فانشقّ الأنبوب، وأخذ الحليب الأبيض ينصبّ في القمرة.",
        "t": 6975,
        "spot": {
-        "x": 0.32,
-        "y": 0.72,
-        "r": 0.1
+        "x": 0.08,
+        "y": 0.58,
+        "r": 0.08
        }
       },
       {
        "text": "فوضعوا تحته دلوًا فولاذيًّا مكتوبًا عليه: ألف وخمسمئة.",
        "t": 11435,
        "spot": {
-        "x": 0.5,
-        "y": 0.36,
-        "r": 0.17
+        "x": 0.6,
+        "y": 0.28,
+        "r": 0.2
        }
       },
       {
        "text": "فامتلأ الدلو في يوم واحد، وفاض على الأرض.",
        "t": 16645,
        "spot": {
-        "x": 0.5,
-        "y": 0.36,
-        "r": 0.17
+        "x": 0.6,
+        "y": 0.18,
+        "r": 0.22
        }
       },
       {
        "text": "«أكثر من ألف وخمسمئة في يوم؟ لا انتظار بعد اليوم!» قال فرانكي.",
        "t": 20707,
        "spot": {
-        "x": 0.8,
-        "y": 0.56,
-        "r": 0.13
+        "x": 0.4,
+        "y": 0.5,
+        "r": 0.15
        }
       },
       {
        "text": "فربط فرانكي أنبوب الحليب بحبل أحمر غليظ، منخفضًا فوق السطح تمامًا.",
        "t": 27448,
        "spot": {
-        "x": 0.48,
-        "y": 0.71,
+        "x": 0.12,
+        "y": 0.63,
         "r": 0.08
        }
       },
@@ -21453,8 +21870,8 @@
        "text": "فتوقّف الحليب عن الانصباب.",
        "t": 33600,
        "spot": {
-        "x": 0.32,
-        "y": 0.72,
+        "x": 0.1,
+        "y": 0.63,
         "r": 0.08
        }
       },
@@ -21462,27 +21879,27 @@
        "text": "وفي زاوية القمرة، تركت بركة حليب صغيرة لرضيع تهدأ وحدها، إلى جانب زجاجة رضاعة.",
        "t": 36286,
        "spot": {
-        "x": 0.13,
-        "y": 0.5,
-        "r": 0.12
+        "x": 0.9,
+        "y": 0.4,
+        "r": 0.1
        }
       },
       {
        "text": "«الصغير نتركه أوّلًا ونطعمه بحكمة؛ أمّا الدلو الفائض فحبل فرانكي.» قال تشوبر.",
        "t": 44240,
        "spot": {
-        "x": 0.13,
-        "y": 0.5,
-        "r": 0.12
+        "x": 0.9,
+        "y": 0.4,
+        "r": 0.1
        }
       },
       {
        "text": "فنفض فرانكي يديه، ونظر إلى البحر من النافذة وصاح بحلمه:",
        "t": 51378,
        "spot": {
-        "x": 0.8,
-        "y": 0.56,
-        "r": 0.13
+        "x": 0.4,
+        "y": 0.5,
+        "r": 0.15
        }
       },
       {
@@ -21499,28 +21916,23 @@
      "segments": [
       {
        "text": "A chylothorax is first treated with drainage and a diet without long-chain fats, or with nothing by mouth and parenteral nutrition.",
-       "t": 0,
-       "spot": {
-        "x": 0.5,
-        "y": 0.36,
-        "r": 0.17
-       }
+       "t": 0
       },
       {
        "text": "Surgery, usually ligation of the thoracic duct, is indicated when chyle losses exceed about 1500 mL a day, or when the leak persists: C is the answer.",
        "t": 8922,
        "spot": {
-        "x": 0.48,
-        "y": 0.71,
-        "r": 0.08
+        "x": 0.6,
+        "y": 0.28,
+        "r": 0.2
        }
       },
       {
        "text": "The duct is best ligated low in the right chest, just above the diaphragm, not through a left thoracotomy.",
        "t": 21733,
        "spot": {
-        "x": 0.48,
-        "y": 0.71,
+        "x": 0.12,
+        "y": 0.63,
         "r": 0.08
        }
       },
@@ -21528,9 +21940,9 @@
        "text": "A chylothorax after oesophagectomy is usually treated with early reoperation, while neonates are first managed conservatively.",
        "t": 29090,
        "spot": {
-        "x": 0.13,
-        "y": 0.5,
-        "r": 0.12
+        "x": 0.9,
+        "y": 0.4,
+        "r": 0.1
        }
       }
      ],
@@ -21560,12 +21972,12 @@
      ]
     }
    ],
-   "image": "gh:books/johns-hopkins-2016/media/jh-q0100.webp",
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0100-b.webp",
    "marks": [
     {
      "spot": {
-      "x": 0.32,
-      "y": 0.7,
+      "x": 0.08,
+      "y": 0.58,
       "r": 0.07
      },
      "what": "Cracked milk pipe",
@@ -21573,17 +21985,17 @@
     },
     {
      "spot": {
-      "x": 0.5,
-      "y": 0.36,
-      "r": 0.17
+      "x": 0.6,
+      "y": 0.28,
+      "r": 0.18
      },
      "what": "Bucket 1500 overflowing with milk",
      "means": "Losses over 1500 mL a day (C)"
     },
     {
      "spot": {
-      "x": 0.48,
-      "y": 0.71,
+      "x": 0.12,
+      "y": 0.63,
       "r": 0.07
      },
      "what": "Thick red cord tied round the pipe",
@@ -21591,20 +22003,20 @@
     },
     {
      "spot": {
-      "x": 0.8,
-      "y": 0.56,
-      "r": 0.12
+      "x": 0.4,
+      "y": 0.52,
+      "r": 0.14
      },
-     "what": "Mechanic tying the cord low by the deck",
+     "what": "Franky tying the cord low by the deck",
      "means": "Ligated low, just above the diaphragm"
     },
     {
      "spot": {
-      "x": 0.11,
-      "y": 0.47,
-      "r": 0.1
+      "x": 0.9,
+      "y": 0.4,
+      "r": 0.09
      },
-     "what": "Baby by a small puddle and a bottle",
+     "what": "Small milk puddle and a feeding bottle",
      "means": "Neonates: conservative treatment first"
     }
    ]
