@@ -1,0 +1,293 @@
+book: johns-hopkins-2016
+# Lessons 321-330 (book 68.1-69.5: tetralogy of Fallot; pulmonary atresia with VSD and MAPCAs).
+# Written 2026-11-22, night. Each story: a hook, a wrong try that fails, the answer acting, a payoff line that names
+# the symbol, and a lead-in that says who speaks the quotation and why it fits.
+# KEYS CORRECTED: 321 (the book's D, aortic override -> A, anterior deviation of the infundibular septum) and 322 (the
+# book's E, ductal stenting -> D, balloon atrial septostomy); see the 'note:' of each.
+# OCR misprints of 322, 323, 329 and 330 are mended by the book's 'typos' map ("PGE ," -> "PGE1", "pericardia!").
+# QUOTATION PENDING (all ten): the pool of One Piece lines allowed by quoteRepeats is exhausted; the owner decides.
+# The stories stop at the payoff; add the lead-in and Q lines before building.
+
+== 321
+# book 68.1: the essential underlying anatomic feature of tetralogy -> the book says D (aortic override); corrected to A, anterior deviation of the infundibular septum.
+# ANSWER: in Germa, one shove pushes the funnel's wall forward, and all four glowing blocks of the Tetris piece fall from it: the funnel squeezed narrow, a hole left in the lower party wall, the orca sliding over to sit astride it, the blue room's walls thickening (audited funnel, tetris, lower party wall, astride, thick)
+title: The essential feature of tetralogy of Fallot is anterior deviation of the infundibular septum
+titleAr: السمة التشريحيّة الأساسيّة في رباعيّة فالو انحراف الحاجز القمعيّ إلى الأمام
+tags: cardiac/congenital d:anatomy q:recall l:2 x:key-corrected
+palette: Germa steel blue, Tetris glow and funnel copper
+key: A
+note: The book's key is D (aortic override). The essential, underlying feature of tetralogy is the anterocephalad deviation of the infundibular (outlet) septum: it narrows the right ventricular outflow, leaves the malalignment VSD, lets the aorta override it and loads the right ventricle, which thickens. Override is a consequence and varies from slight to more than half. Key corrected to A.
+keywords: tetralogy of Fallot -> a giant falling Tetris piece of four glowing blocks, one feature in each block; anterior deviation of the infundibular septum -> a big hand shoving the wall of the kitchen funnel (from the blue engine room up to the pipe of dollar bills) forward, the first push from which all four blocks fall; infundibular stenosis -> the funnel squeezed narrow; VSD -> a hole left in the lower party wall; aortic override -> the orca balloon sliding over to sit astride the party wall; RV hypertrophy -> the blue engine room with its walls swollen into thick red muscle
+must: one shove of the funnel's wall comes first, and the four Tetris blocks fall from it: the narrow funnel, the hole, the orca astride, the thick blue walls
+scene: The Kingdom of Germa, a steel city riding on giant snails. CENTRE, dominant and brightest: a big hand shoving forward the wall of a kitchen funnel that leads from a HART Hotel's blue engine room up to its pipe of dollar bills, and from that shove a giant Tetris piece of four glowing blocks falling, each block showing one result: the funnel squeezed narrow; a hole left in the lower party wall; the orca balloon sliding over to sit astride the wall; the blue engine room's walls swollen into thick red muscle. LEFT: Usopp pointing at the orca astride. Chopper.
+story:
+في مملكة جيرما الفولاذيّة الّتي تمشي على ظهور الحلزونات العملاقة، سقطت فوق فندق صغير قطعة تتريس عملاقة من أربع مكعّبات مضيئة.
+في كلّ مكعّب عيب: قمع ضيّق، وثقب في الجدار السفليّ، وحوت يمتطي الجدار نصفه فوق كلّ غرفة، وغرفة زرقاء غليظة الجدران.
+«الحوت الممتطي هو أصل البلاء! أزيحوه، فيزول كلّ شيء!» قال أوسوب، وأشار إلى الحوت.
+لكنّ تشوبر أعاد الحكاية إلى أوّلها: يد كبيرة دفعت جدار القمع إلى الأمام دفعةً واحدة.
+فضاق القمع، وانفتح تحته ثقب في الجدار السفليّ، فانزلق الحوت فوق الثقب يمتطيه، وغلظت جدران الغرفة الزرقاء وهي تدفع في القمع الضيّق.
+فإذا المكعّبات الأربعة كلّها قد سقطت من تلك الدفعة الواحدة، والحوت آخرها لا أوّلها.
+«دفعة واحدة لجدار القمع، فتسقط مكعّبات التتريس الأربعة!» قال تشوبر.
+quote:
+source:
+explanation:
+The essential underlying anatomic feature of tetralogy of Fallot is anterior deviation of the infundibular septum: A.
+The outlet septum is displaced forward and upward: it narrows the right ventricular outflow, leaves a malalignment VSD beneath the aorta, lets the aorta override the septum, and the obstructed right ventricle hypertrophies.
+Aortic override is a consequence of the deviation, not its cause, and its degree varies widely from patient to patient.
+In the picture, one shove of the funnel's wall comes first, and all four blocks of the Tetris piece fall from it.
+Memory hook: shove the funnel's wall, and the four blocks fall.
+
+== 322
+# book 68.2: NOT a correct strategy for a critically cyanotic neonate with tetralogy -> the book says E (ductal stenting); corrected to D, balloon atrial septostomy.
+# ANSWER: in Mary Geoise, the red party balloon yanked through the upper party wall changes nothing and the baby stays blue, while the beer stein, the bellows, the Slinky in the duct-tape tunnel and the surgeon each help (audited party balloon, stein, bellows, slinky, duct)
+title: Balloon atrial septostomy has no role in a cyanotic neonate with tetralogy
+titleAr: لا دور لتوسيع الحاجز الأذينيّ بالبالون في وليد مزرقّ مصاب برباعيّة فالو
+tags: cardiac/congenital d:indications q:recall l:2 x:key-corrected
+palette: Mary Geoise marble white, baby blue and balloon red
+key: D
+note: The book's key is E (ductal stenting). Balloon atrial septostomy does nothing for tetralogy (it improves mixing in transposition), while stenting the duct is an accepted palliation for duct-dependent pulmonary blood flow, as the book itself says in chapter 62 (lesson 291). Key corrected to D.
+keywords: tetralogy of Fallot -> a giant falling Tetris piece of four glowing blocks; critically cyanotic neonate -> a newborn with bright blue lips and fingertips; PGE1 -> a raised beer stein, "Prost!", propping the duct-tape tunnel open; intubation and ventilation -> a big leather bellows pumping air down the ribbed hose; prompt surgery -> a surgeon's hands ready with a thin hose from the orca's flipper to the money pipe; ductal stent -> a coiled metal Slinky pushed inside the duct-tape tunnel to hold it open; balloon atrial septostomy -> a round red party balloon yanked through the upper party wall, changing nothing, the baby still blue
+must: the party balloon through the upper party wall changes nothing; the stein, the bellows, the Slinky and the surgeon each make the baby pinker
+scene: The marble halls of Mary Geoise on top of the Red Line. CENTRE, dominant and brightest: a newborn with bright blue lips and fingertips beside his small HART Hotel, a giant Tetris piece of four glowing blocks above it, and a round red party balloon being yanked through the hotel's upper party wall, changing nothing, the baby's lips still blue. AROUND, each making the baby pinker: a raised beer stein propping a tunnel of shiny silver duct tape open; a big leather bellows pumping air down a ribbed hose; a coiled metal Slinky inside the duct-tape tunnel; a surgeon's hands ready with a thin hose from the orca's flipper to the money pipe. LEFT: Usopp yanking the party balloon. Chopper.
+story:
+في قصور ماري جوا الرخاميّة فوق الخطّ الأحمر، ولد رضيع أزرق الشفتين والأصابع، فوق فندقه قطعة تتريس عملاقة.
+«أعرف العلاج! بالون الحفلات الأحمر، نشدّه عبر الجدار العلويّ فيتّسع الثقب!» قال أوسوب، وشدّ البالون بقوّة.
+فتمزّق الجدار العلويّ، لكنّ شيئًا لم يتغيّر، وبقيت شفتا الرضيع زرقاوين؛ فالمشكلة ليست هناك.
+فرفع تشوبر كأس الجعة، فبقي نفق الشريط اللاصق مفتوحًا يطعم أنبوب الدولارات.
+وشغّل المنفاخ الجلديّ، ودسّ زنبركًا معدنيًّا في النفق ليبقى مفتوحًا، وجاء الجرّاح بخرطوم رفيع من زعنفة الحوت.
+فتورّدت شفتا الرضيع شيئًا فشيئًا.
+«الكأس والمنفاخ والزّنبرك والجرّاح تسعف طفل التتريس؛ أمّا بالون الحفلات في الجدار العلويّ فلغيره!» قال تشوبر.
+quote:
+source:
+explanation:
+Balloon atrial septostomy is not a correct treatment strategy for a critically cyanotic neonate with tetralogy: D.
+The problem in tetralogy is too little blood reaching the lungs; tearing the atrial septum, which helps mixing in transposition, does not add any.
+The right steps are prostaglandin E1 to keep the duct open, intubation and ventilation when needed, and prompt intervention: a systemic-to-pulmonary shunt, early complete repair, or a stent in the duct or the outflow tract.
+In the picture, the party balloon through the upper wall changes nothing, while the beer stein, the bellows, the Slinky and the surgeon each turn the baby pinker.
+Memory hook: the party balloon belongs to transposition, not to the Tetris baby.
+
+== 323
+# book 68.3: best plan for a 1-month-old with tetralogy and no cyanosis -> C, observe and repair electively at 5 to 6 months.
+# ANSWER: on Mount Colubo, a pink, happily feeding Tetris baby; Chopper circles 5-6 months on the calendar and puts the scalpel away (audited tetris)
+# operating now (A), a Slinky in the funnel (B), the goalkeeper (beta-blocker, D) and a hose from the flipper (shunt, E) are not needed for a pink baby (audited slinky, goalkeeper, hose)
+title: Tetralogy without cyanosis at 1 month: observe, then repair electively at 5 to 6 months
+titleAr: رباعيّة فالو دون زرقة في الشهر الأوّل: المراقبة ثمّ الإصلاح المبرمج في الشهر الخامس أو السادس
+tags: cardiac/congenital d:indications q:next-step l:2
+palette: Mount Colubo forest green, baby pink and calendar white
+words: 5-6
+keywords: tetralogy of Fallot -> a giant falling Tetris piece of four glowing blocks; pink and well -> a pink, happily feeding one-month-old; elective repair at 5 to 6 months -> a calendar with the fifth and sixth months circled in red, the scalpel put back in its case; RVOT stent -> a coiled metal Slinky pushed into the funnel, set aside; beta-blocker -> an ice-hockey goalkeeper slamming his blocker pad, set aside; systemic to PA shunt -> a thin hose from the orca's flipper to the money pipe, set aside
+must: the pink baby feeds happily; the calendar has months 5 and 6 circled, and the scalpel goes back in its case
+scene: Mount Colubo, a mountain forest hideout. CENTRE, dominant and brightest: a pink, happily feeding one-month-old with a giant glowing Tetris piece floating above him, and a calendar on the wall with the fifth and sixth months circled in red; Chopper putting a scalpel back in its case. AROUND, set aside and dim: a coiled metal Slinky; an ice-hockey goalkeeper; a thin hose. LEFT: Usopp waving a scalpel eagerly.
+story:
+في غابة جبل كولوبو، كان رضيع عمره شهر واحد يرضع سعيدًا، ورديّ الوجه، وفوقه قطعة تتريس عملاقة.
+«قطعة تتريس؟ إلى غرفة العمليّات فورًا!» قال أوسوب، ولوّح بمشرط متحمّسًا.
+لكنّ تشوبر نظر إلى الرضيع: ورديّ، يأكل جيّدًا، ويكبر يومًا بعد يوم.
+فلا حاجة الآن إلى زنبرك في القمع، ولا إلى حارس المرمى، ولا إلى خرطوم من الزعنفة.
+فأعاد تشوبر المشرط إلى علبته، ورسم على التقويم دائرتين حمراوين حول الشهرين الخامس والسّادس.
+فلمّا جاء موعده، كان الرضيع أكبر وأقوى، فمرّ الإصلاح بسلام.
+«طفل التتريس الورديّ ينتظر الشهر الخامس أو السادس!» قال تشوبر.
+quote:
+source:
+explanation:
+For a 1-month-old with tetralogy and no cyanosis, the best plan is to observe and operate electively at 5 to 6 months of age: C.
+A pink infant is growing and saturating well, so there is no need to intervene now; elective repair later is done in a bigger baby with excellent results.
+Earlier intervention, by repair, a shunt or a stent in the outflow tract, is kept for cyanosis or spells, and beta-blockers are only a bridge for spells.
+In the picture, the pink baby feeds happily while Chopper circles months 5 and 6 and puts the scalpel away.
+Memory hook: a pink Tetris baby waits for month five or six.
+
+== 324
+# book 68.4: treatment of restrictive right ventricular physiology after tetralogy repair -> E, all of the above.
+# ANSWER: in the Ryugu Palace, the blue engine room is stiff as a tight leather boot; Chopper lets the hotel breathe gently on its own, pours in more water, drains the puddles from the chest and the belly, and keeps the fireworks away (audited firework, puddle)
+title: Restrictive RV after tetralogy repair: gentle spontaneous breathing, volume, drainage and no inotropes
+titleAr: البطين الأيمن المقيَّد بعد إصلاح رباعيّة فالو: تنفّس عفويّ لطيف وسوائل وتصريف ودون مقوّيات
+tags: cardiac/congenital d:postoperative q:recall l:3
+palette: Ryugu Palace coral pink, boot-leather brown and water blue
+keywords: restrictive RV physiology -> the blue engine room gone stiff as a tight leather boot, hardly filling; spontaneous ventilation with minimal airway pressure -> the big leather bellows set aside so the hotel breathes gently on its own; volume infusion -> a bucket of water poured in to fill the stiff room; drainage of pleural and peritoneal spaces -> puddles mopped out of the chest and the belly; avoid inotropes -> a box of lit red firework rockets kept away
+must: all four are done at once: no pushing bellows, more water, the puddles drained and the fireworks kept away
+scene: The Ryugu Palace on Fishman Island, coral and bubbles. CENTRE, dominant and brightest: a HART Hotel whose blue engine room is stiff as a tight leather boot, and Chopper doing four things at once: setting the big leather bellows aside so the hotel breathes gently on its own; pouring a bucket of water in; mopping puddles out of the chest and the belly; pushing away a box of lit red firework rockets. LEFT: Usopp lighting a firework and pumping the bellows hard.
+story:
+في قصر ريوغو على جزيرة الرجال السمك، خرج فندق من إصلاح التتريس، وغرفة محرّكه الزرقاء قد تيبّست كحذاء جلديّ ضيّق، لا تمتلئ إلّا قليلًا.
+«نشعل الألعاب الناريّة، وننفخ بالمنفاخ بكلّ قوّتنا!» قال أوسوب، وأشعل صاروخًا أحمر.
+لكنّ الغرفة الزرقاء ازدادت تيبّسًا، وقلّ ما يدخلها من ماء.
+فأبعد تشوبر المنفاخ ليتنفّس الفندق وحده بلطف، وصبّ دلو ماء ليملأ الغرفة اليابسة.
+ثمّ مسح البرك من الصدر والبطن، ودفع صندوق الصواريخ بعيدًا.
+فأخذت الغرفة الزرقاء تمتلئ شيئًا فشيئًا، ودارت مروحتها أهدأ.
+«غرفة زرقاء يابسة: نفس لطيف، وماء أكثر، وبرك جافّة، ولا ألعاب ناريّة؛ الأربعة كلّها!» قال تشوبر.
+quote:
+source:
+explanation:
+Restrictive physiology of the right ventricle after tetralogy repair is treated with all of the above: E.
+A stiff, poorly filling right ventricle needs a high preload, so volume is given, and positive airway pressure, which impedes venous return and raises the afterload of the right ventricle, is kept to a minimum or replaced by spontaneous breathing.
+Effusions and ascites are drained, as they raise intrathoracic and abdominal pressure, and inotropes, which raise heart rate and stiffen filling further, are avoided where possible.
+In the picture, Chopper lets the hotel breathe on its own, pours water in, mops the puddles and keeps the fireworks away.
+Memory hook: a stiff blue room needs gentle breath, more water, dry puddles and no fireworks.
+
+== 325
+# book 68.5: NOT a late problem after tetralogy surgery -> A, mitral insufficiency.
+# ANSWER: on Laugh Tale, years after the Tetris repair, the bishop's mitre stays shut tight, while the troubles gather on the blue side: a weak blue fan, the pirate, a narrowing, a coffin (audited mitre, fan, pirate, coffin, gurgling)
+title: Mitral insufficiency is not a late problem after tetralogy repair
+titleAr: قلس الصمّام التاجيّ ليس من مشكلات ما بعد إصلاح رباعيّة فالو المتأخّرة
+tags: cardiac/congenital d:complications q:recall l:2
+palette: Laugh Tale sunset gold, blue-room grey and mitre purple
+keywords: tetralogy of Fallot -> a giant Tetris piece of four glowing blocks, long ago repaired; mitral insufficiency -> the bishop's mitre staying shut tight, no water gurgling back, untouched by the years; RV dysfunction -> the blue engine room's fan turning weakly; arrhythmias -> a pirate shouting ARRR and dancing a wild jig out of step with the music; sudden death -> a coffin; residual pulmonary stenosis -> the pipe of dollar bills squeezed narrow again by an iron clamp
+must: the mitre stays shut and dry; the weak blue fan, the pirate, the coffin and the clamped money pipe all gather on the blue side
+scene: Laugh Tale at sunset, the end of the journey. CENTRE, dominant and brightest: a grown-up HART Hotel repaired long ago, a faded Tetris piece of four blocks on its roof, its bishop's mitre staying shut tight and dry. AROUND, gathered on the blue side: the blue engine room's fan turning weakly; a pirate shouting ARRR and dancing a wild jig; a coffin; the pipe of dollar bills squeezed narrow again by an iron clamp. LEFT: Usopp peering anxiously at the mitre. Chopper.
+story:
+على جزيرة لاف تيل عند الغروب، في آخر الرحلة، وقف فندق كبير أصلحت قطعة تتريسه قبل سنين طويلة.
+«بعد كلّ هذه السنين، لا بدّ أنّ تاج الأسقف قد فسد!» قال أوسوب، وأخذ يفحص التاج بقلق.
+لكنّ تاج الأسقف كان مغلقًا محكمًا، جافًّا، كأنّ السنين لم تمسّه.
+أمّا المتاعب فكانت في الجهة الزرقاء: مروحة الغرفة الزرقاء تدور بضعف، وقرصان يصيح آررر ويرقص على غير الإيقاع.
+ومشبك حديديّ يعصر أنبوب الدولارات من جديد، وتابوت ينتظر في الظلّ.
+فرتّب تشوبر للفندق زيارةً كلّ عام، ما دام يعيش.
+«بعد إصلاح التتريس، تسكن المتاعب الجهة الزرقاء، ويبقى تاج الأسقف مغلقًا!» قال تشوبر.
+quote:
+source:
+explanation:
+Mitral insufficiency is not a typical late problem among long-term survivors of tetralogy repair: A.
+The late problems are on the right side: pulmonary regurgitation and right ventricular dilation and dysfunction, residual or recurrent pulmonary stenosis, atrial and ventricular arrhythmias and sudden death.
+These patients need lifelong follow-up, and many later need pulmonary valve replacement.
+In the picture, years later the mitre stays shut, while the weak blue fan, the pirate, the narrowing and the coffin gather on the blue side.
+Memory hook: after the Tetris repair, the trouble lives on the blue side.
+
+== 326
+# book 69.1: correct about the anatomy of PA-VSD with MAPCAs -> B, the MAPCAs probably come from the splanchnic vessels.
+# ANSWER: in the Baratie's kitchen, the winding dotted paths of the treasure map, from the orca's back to the money sacks, began as strands of spaghetti from the baby's gut plate (audited treasure map, spaghetti, welded shut)
+# the central crossing of the money pipes is small or missing (A wrong); most paths leave the orca high on its back, not low (C wrong); the hole's wall is pushed forward (D wrong)
+title: MAPCAs probably arise from the embryonic splanchnic vessels
+titleAr: الأوعية الجانبيّة الأبهريّة الرئويّة الكبرى تنشأ على الأرجح من الأوعية الحشويّة الجنينيّة
+tags: cardiac/congenital d:anatomy q:recall l:3
+palette: Baratie kitchen copper, spaghetti cream and map parchment
+keywords: pulmonary atresia -> the door of the pipe of dollar bills welded shut with a thick iron cap; MAPCAs -> an old treasure map whose many winding dotted paths run from the orca's back to the sacks of dollar bills; splanchnic origin -> those dotted paths first laid out as strands of spaghetti from the baby's gut plate; central pulmonary artery confluence -> a tiny crossing of thin money pipes, or none at all; proximal descending aorta -> the paths leaving the orca high on its back, just after the arch
+must: the treasure map's paths are shown growing out of strands of spaghetti from the gut plate; the money pipe's door is welded shut
+scene: The kitchen of the floating restaurant Baratie. CENTRE, dominant and brightest: an old treasure map spread on the table whose many winding dotted paths run from an orca balloon's back, high after its arch, to the sacks of dollar bills, each path growing out of a strand of spaghetti from a baby's gut plate; beside it a pipe of dollar bills whose door is welded shut with a thick iron cap. AROUND, dimmer: a tiny crossing of thin money pipes. Sanji, the blond cook, holding the spaghetti pot. LEFT: Usopp. Chopper.
+story:
+في مطبخ مطعم الباراتي العائم، فرد تشوبر خريطة كنز قديمة، تجري عليها دروب منقّطة متعرّجة كثيرة من ظهر الحوت إلى أكياس الدولارات.
+فباب أنبوب الدولارات عند هذا الرضيع ملحم مغلق، ولا يبلغ الأكياس ماء إلّا عبر هذه الدروب.
+«هذه الدروب تبدأ من آخر ذيل الحوت، وتلتقي في ملتقًى كبير للأنابيب في الوسط!» قال أوسوب.
+لكنّ الدروب كانت تخرج من أعلى ظهر الحوت بعد قوسه مباشرة، وملتقى الأنابيب في الوسط صغير جدًّا أو غائب.
+ثمّ ضحك سانجي ورفع قدر المعكرونة: فالدّروب رسمت أوّل الأمر بخيوط المعكرونة، من صحن أمعاء الجنين.
+فتتبّع أوسوب خيطًا من المعكرونة بإصبعه، فإذا هو درب من دروب الخريطة نفسها.
+«خريطة الكنز رسمت أوّلًا بمعكرونة صحن الأمعاء!» قال تشوبر.
+quote:
+source:
+explanation:
+The MAPCAs probably originate from the splanchnic vessels: B.
+In the early embryo the lung buds are fed by a splanchnic plexus from the foregut; when the sixth arch fails to supply the lungs, some of these vessels persist as major aortopulmonary collaterals.
+Most MAPCAs arise from the proximal descending thoracic aorta, and the true central pulmonary arteries are small or absent.
+The VSD is an anterior malalignment defect, as in tetralogy, and the condition is often associated with 22q11 deletion.
+In the picture, the treasure map's paths grow out of strands of spaghetti from the gut plate, while the money pipe's door is welded shut.
+Memory hook: the treasure map was first drawn in spaghetti.
+
+== 327
+# book 69.2: correct clinical presentation of PA-VSD with MAPCAs -> C, patients with extensive collaterals may have few symptoms.
+# ANSWER: in the Sea Forest, a baby whose treasure map is crowded with many winding paths to the money sacks stays pink and calm, though the money pipe's door is welded shut (audited treasure map, welded shut)
+# no funnel can spasm, because the door is welded shut (E wrong); the hole in the lower wall is large (B wrong); not most are sick at birth (A wrong)
+title: In PA-VSD with MAPCAs, extensive collaterals may leave few symptoms
+titleAr: في رتق الشريان الرئويّ مع الفتحة والأوعية الجانبيّة، قد تقلّ الأعراض حين تكثر الأوعية الجانبيّة
+tags: cardiac/congenital d:diagnosis q:recall l:2
+palette: Sea Forest green, map parchment and baby pink
+keywords: PA-VSD -> the door of the pipe of dollar bills welded shut, a big hole in the lower party wall below the orca; extensive MAPCAs -> an old treasure map crowded with many winding dotted paths from the orca's back to the money sacks; minimal symptoms -> the baby staying pink and calm; few MAPCAs -> another baby whose treasure map has only one or two paths, turning blue; no infundibular spasm -> no funnel to squeeze, the door welded shut
+must: the baby with the crowded treasure map stays pink and calm; the one with few paths turns blue
+scene: The Sea Forest near Fishman Island, deep-sea light filtering down. CENTRE, dominant and brightest: a pink, calm baby beside a HART Hotel whose pipe of dollar bills has its door welded shut, an old treasure map crowded with many winding dotted paths running from the orca's back to the money sacks. AROUND, dimmer: another baby with only one or two paths on his map, turning blue. LEFT: Usopp listening for a spasm in a funnel that is not there. Chopper.
+story:
+في غابة البحر قرب جزيرة الرجال السمك، كان رضيع ورديّ هادئ يلعب، مع أنّ باب أنبوب دولاراته ملحم مغلق.
+«باب ملحم؟ إذن سيزرقّ الآن، وينقبض قمعه في نوبة!» قال أوسوب، وألصق أذنه يتسمّع القمع.
+لكنّه لم يسمع شيئًا؛ فليس هناك قمع مفتوح ينقبض، والباب ملحم.
+وكانت خريطة كنزه مزدحمةً بدروب كثيرة متعرّجة، تحمل الماء من ظهر الحوت إلى الأكياس وفيرًا.
+وفي الجدار السفليّ تحت الحوت ثقب كبير واسع، لا يضيّق على الماء طريقًا.
+أمّا رضيع آخر، في خريطته درب أو دربان فقط، فكانت شفتاه تزرقّان.
+«خريطة مزدحمة، رضيع ورديّ!» قال تشوبر.
+quote:
+source:
+explanation:
+Patients with extensive collaterals may have minimal symptoms: C.
+In pulmonary atresia with VSD, all the lung blood flow comes through the MAPCAs; when they are many and large, saturations are good and the child may even develop heart failure from too much flow.
+With few or narrowed collaterals the infant is cyanotic, but there are no cyanotic spells from infundibular spasm, as the right ventricle has no outlet to the lungs.
+The VSD is large and unrestrictive, and not all patients are symptomatic at birth.
+In the picture, the baby with the crowded treasure map stays pink and calm, while the one with few paths turns blue.
+Memory hook: a crowded treasure map, a pink baby.
+
+== 328
+# book 69.3: NOT required at catheterization before repair of PA-VSD with MAPCAs -> E, selective coronary angiography.
+# ANSWER: in Nami's chart room, the photographer maps every treasure-map path and finds the hidden money pipes by squirting dye back from the veins, while the camera aimed at the green crown is put away (audited photographer, treasure map, fishing line, crown)
+title: Selective coronary angiography is not required before repair of PA-VSD with MAPCAs
+titleAr: تصوير الشرايين التاجيّة الانتقائيّ غير مطلوب قبل إصلاح رتق الشريان الرئويّ مع الأوعية الجانبيّة
+tags: cardiac/congenital d:diagnosis q:recall l:3
+palette: chart-room parchment, magenta dye and crown green
+keywords: cardiac catheterization -> a long thin fishing line paid out from a reel and threaded up from the groin, reading the pressures in the blue engine room; angiography -> a photographer squirting glowing magenta dye and flashing his camera; collateral distribution -> every dotted path of the treasure map photographed and charted; true pulmonary artery anatomy -> the tiny hidden money pipes found and drawn; pulmonary venous wedge angiography -> the photographer squirting dye backwards from the money sacks' veins to light up the hidden money pipes; selective coronary angiography -> the photographer's second camera aimed at the green crown, put away
+must: the photographer charts every path and lights the hidden pipes from the veins; the camera for the green crown is put away
+scene: Nami's chart room aboard the Thousand Sunny. CENTRE, dominant and brightest: a photographer squirting glowing magenta dye backwards from the veins of the money sacks, lighting up tiny hidden money pipes, while Nami charts every dotted path of a treasure map running from an orca balloon's back to the money sacks; a long thin fishing line reading the pressures. AROUND, put away and dim: a camera aimed at the Statue of Liberty's green crown. LEFT: Usopp pointing the camera at the crown. Chopper.
+story:
+في غرفة الخرائط على الثاوزند صني، أرادت نامي أن ترسم كلّ درب في خريطة كنز رضيع، قبل أن يجمعها الجرّاح في طريق واحد.
+فصبّ المصوّر صبغه الأرجوانيّ، فتوهّج كلّ درب وكلّ ضيق فيه، وأيّ كيس يطعمه، وقاس خيط الصيد الضغوط.
+لكنّ أنابيب الدولارات الحقيقيّة الصغيرة لم تظهر، فقد كانت مختبئة.
+فصبّ المصوّر الصبغ إلى الوراء من أوردة الأكياس، فأضاءت الأنابيب المختبئة من الجهة الأخرى.
+«وصوّر التاج الأخضر أيضًا! لا بدّ من صورة للتّاج!» قال أوسوب، ووجّه آلة تصوير ثانيةً نحو التاج.
+«التاج سليم عادةً، ويظهر بما يكفي في الصور الأخرى؛ أنزل آلتك!» قالت نامي.
+«ارسموا كلّ درب، وجدوا الأنابيب المختبئة؛ أمّا التاج فينتظر!» قال تشوبر.
+quote:
+source:
+explanation:
+Selective coronary angiography is not required before repair of PA-VSD with MAPCAs: E.
+Catheterization must show the true pulmonary arteries, the origin, course and stenoses of every collateral and which lung segments each one supplies, and the pressures.
+When the true pulmonary arteries do not fill, pulmonary venous wedge angiography can light them up from the other side.
+The coronary arteries are usually normal and are seen well enough on the aortogram and by echocardiography.
+In the picture, every path is charted and the hidden money pipes are lit from the veins, while the camera for the green crown is put away.
+Memory hook: map every path and find the hidden pipes; the crown can wait.
+
+== 329
+# book 69.4: correct about the repair of PA-VSD with MAPCAs -> C, opening the floor of the pericardial reflection in the transverse sinus gives the most direct route for rerouting collaterals.
+# ANSWER: in the undersea tunnel of the sea train, Franky opens the floor of the tunnel behind the orca and the money pipe inside the heart's aquarium, and brings every treasure-map path through it to one road (audited treasure map, orca, dollar)
+# the side walls are opened behind the telephone cables (A wrong); the native money pipes are freed (B wrong); the paths are tied before the pump truck starts (D wrong); most are gathered with the heart beating, no tongs (E wrong) (audited telephone cable, roller-pump, tongs)
+title: MAPCA unifocalization: route the collaterals through the floor of the transverse sinus
+titleAr: توحيد الأوعية الجانبيّة: تُمرَّر عبر أرضيّة الجيب المستعرض
+tags: cardiac/congenital d:technique q:recall l:3
+palette: tunnel lamp amber, map parchment and aquarium blue
+keywords: unifocalization -> Franky gathering every winding dotted path of the treasure map into one road to the money sacks; MAPCAs -> the treasure map's paths running from the orca's back to the money sacks; transverse sinus -> a tunnel behind the orca and the pipe of dollar bills inside the heart's aquarium, its floor opened to let the paths through; phrenic nerve -> a telephone cable down each side of the aquarium, the walls opened behind it; collateral control -> each path tied before the pump truck starts; beating heart -> the hotel's fans keep turning while the roller-pump truck runs, no iron tongs on the orca
+must: the paths are brought through the opened floor of the tunnel behind the orca and the money pipe, into one road
+scene: The undersea tunnel of the sea train, lit by amber lamps. CENTRE, dominant and brightest: inside a heart's aquarium, a tunnel behind an orca balloon and a pipe of dollar bills, its floor opened, and Franky, the blue-haired cyborg shipwright, bringing every winding dotted path of an old treasure map through it and joining them into one road to the money sacks. AROUND, dimmer: a telephone cable down the side of the aquarium, the wall opened behind it; a roller-pump truck running, no tongs on the orca. LEFT: Usopp pointing the long way round, in front of the telephone cables. Chopper.
+story:
+في نفق قطار البحر تحت الماء، أراد فرانكي أن يجمع دروب خريطة كنز رضيع كلّها في طريق واحد إلى أكياس الدولارات.
+وكانت الدروب تبدأ من ظهر الحوت، خلف الفندق كلّه.
+«نلفّ بها حول الفندق من الأمام، أمام أسلاك الهاتف!» قال أوسوب، وأشار إلى الطريق الطويل.
+لكنّ الطريق من هناك طويل، وأسلاك الهاتف على جانبي الحوض الزجاجيّ حول الفندق تعترضه.
+ففتح فرانكي أرضيّة النفق الصغير خلف الحوت وأنبوب الدولارات داخل الحوض، فإذا هو أقصر ممرّ من الخلف إلى الأمام.
+فمرّر منه الدروب كلّها ووصلها طريقًا واحدًا، ومراوح الفندق تدور وشاحنة المضخّة تعمل، دون كمّاشة على الحوت.
+«الدروب تأتي إلى الأمام من أرضيّة النفق خلف الحوت!» قال تشوبر.
+quote:
+source:
+explanation:
+Opening the floor of the pericardial reflection in the transverse sinus provides the most direct avenue for rerouting the collaterals: C.
+Through it, collaterals from the descending aorta behind the heart can be brought forward to the central pulmonary arteries by the shortest path.
+The pleurae are opened behind the phrenic nerves, the native pulmonary arteries are fully mobilized, and the collaterals are controlled before bypass starts to avoid flooding the lungs.
+Most of the unifocalization is done on bypass with the heart beating, without cross-clamping.
+In the picture, Franky brings every treasure-map path through the opened floor of the tunnel behind the orca and the money pipe.
+Memory hook: the paths come forward through the floor of the tunnel behind the heart.
+
+== 330
+# book 69.5: true about outcomes after repair of PA-VSD with MAPCAs -> B, about 75 percent can have complete unifocalization at the first operation.
+# ANSWER: on the sky island of Birka, three of four treasure maps have every path gathered into one road in a single trip; only one needs a second trip (audited treasure map)
+title: About 75 percent of PA-VSD with MAPCAs can be fully unifocalized at the first operation
+titleAr: نحو 75 في المئة من مرضى رتق الشريان الرئويّ مع الأوعية الجانبيّة يُوحَّدون كاملًا في العمليّة الأولى
+tags: cardiac/congenital d:evidence q:numbers l:3
+palette: Birka sky white, map parchment and road gold
+words: 75%
+keywords: unifocalization -> every winding dotted path of the treasure map gathered into one road to the money sacks; complete single-stage unifocalization in about 75 percent -> three of four treasure maps finished in one trip, 75% painted above; staged repair -> the fourth map needing a second trip; intracardiac repair -> the hole in the lower party wall closed on most of the maps; reintervention -> a road being widened again later on a few maps
+must: three of the four maps have all their paths gathered into one road in a single trip; the fourth needs a second trip
+scene: The sky island of Birka, white clouds and stone ruins. CENTRE, dominant and brightest: four old treasure maps laid side by side; on three of them every winding dotted path has been gathered into one golden road to the money sacks in a single trip, 75% painted above; the fourth map half finished, waiting for a second trip. AROUND, dimmer: a hole in a lower party wall closed with a patch; a road being widened again. LEFT: Usopp. Chopper.
+story:
+على جزيرة بيركا السماويّة، فرد تشوبر أربع خرائط كنز قديمة، لأربعة أطفال تتفرّق دروب مائهم من ظهر الحوت إلى الأكياس.
+«لن نجمع دروب أيّ خريطة في رحلة واحدة؛ نحتاج رحلتين أو ثلاثًا لكلّ منها!» قال أوسوب.
+لكنّ الجرّاح جمع دروب الخريطة الأولى كلّها في طريق ذهبيّ واحد في رحلة واحدة، وأغلق ثقب الجدار السفليّ معها.
+ثمّ الثانية، ثمّ الثالثة، كلًّا في رحلة واحدة.
+ولم تحتج إلى رحلة ثانية إلّا الخريطة الرابعة، فبقيت نصف مكتملة تنتظر.
+وبعد سنين، احتاجت بعض الطرق الذهبيّة إلى توسيع من جديد.
+«ثلاث خرائط من أربع تجمع في رحلة واحدة!» قال تشوبر.
+quote:
+source:
+explanation:
+About 75 percent of patients with PA-VSD and MAPCAs can undergo complete unifocalization at the initial operation: B.
+In experienced centres, most patients have all their collaterals brought together and the VSD closed in one stage through a sternotomy, with low operative mortality.
+The others are staged, with a shunt or an aortopulmonary window first; complete intracardiac repair is reached in most patients, and reintervention on the reconstructed pulmonary arteries is not rare.
+In the picture, three of the four treasure maps are finished in one trip, and only one needs a second.
+Memory hook: three maps in four are finished in one trip.
