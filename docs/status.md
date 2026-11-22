@@ -1,6 +1,6 @@
 # Where the work stands
 
-Updated 2026-11-21 (evening). Whoever works on YouTop next: read `CLAUDE.md`, then this, then
+Updated 2026-11-22 (morning). Whoever works on YouTop next: read `CLAUDE.md`, then this, then
 `docs/content-guide.md` and the `youtop-lessons` skill. Rewrite this file whenever the state changes (it replaces the
 `status-<n>.txt` files in the Drive folder "YouTop private", which stop at 7).
 
@@ -8,16 +8,20 @@ Updated 2026-11-21 (evening). Whoever works on YouTop next: read `CLAUDE.md`, th
 
 **Two books are in progress. Nothing is waiting on the agent except what the owner asks; work only when asked.**
 
-**IN PROGRESS (2026-11-21, night, session_012MyNmqmmG9ub2J54gmSHZY, alone): Johns Hopkins 151-422 are being written**
-(tables, scenes, prompts, stories, quotations, explanations) in batches of ten, each saved to `drafts/johns-hopkins-2016/`
-and merged to main as it is done. The owner asked for it overnight, with an hourly wake-up scheduled task
-(trig_01PU9vpvigNUp6wUdpdP37Yc) to resume after a usage-limit pause; disable it when 422 is reached. Other sessions:
-do not write 151+ in parallel; pictures, voices and publishing of 1-150 are unaffected.
-- Progress (update as it goes): **151-420 written** (tables, scenes, prompts, vowelled stories, quotations, explanations;
-  `drafts/johns-hopkins-2016/batch-0151-0160` ... `batch-0411-0420`; prompts for the owner: `prompts-jh-151-180.txt`,
-  `prompts-jh-181-190.txt` ... `prompts-jh-411-420.txt`; 151-300 were sent to the owner as one file on 2026-11-22). **Quotation pending** (story written up to the
+**DONE (2026-11-22, morning, session_012MyNmqmmG9ub2J54gmSHZY): Johns Hopkins 151-422 are all written**
+(tables, scenes, prompts, stories, explanations, and quotations as far as the pool allowed) in batches of ten, each saved
+to `drafts/johns-hopkins-2016/` and merged to main. The hourly wake-up scheduled task (trig_01PU9vpvigNUp6wUdpdP37Yc) is
+disabled. **Waiting on the owner:** (1) the quotation policy (see "Quotation pool" below) for the pending lessons;
+(2) the pictures for 151-422 (all prompts sent, 2026-11-22: 151-300 in one file, 301-422 in another).
+**Next agent**, once the owner decides on quotations: add the lead-in (an N line ending with ":") and the Q line to each
+pending lesson in its `voice.txt` (and quote/source in `batch.txt`), run `voice.py fill`, build (`batch.py build`, which
+also checks the repeats), record (`voice.py make`), then publish complete lessons as pictures arrive. A dry build of
+381-422 with stand-in quotations passed with no problems (2026-11-22).
+- Progress (update as it goes): **151-422 written** (tables, scenes, prompts, vowelled stories, quotations, explanations;
+  `drafts/johns-hopkins-2016/batch-0151-0160` ... `batch-0421-0422`; prompts for the owner: `prompts-jh-151-180.txt`,
+  `prompts-jh-181-190.txt` ... `prompts-jh-421-422.txt`; sent to the owner on 2026-11-22 as two files, 151-300 and 301-422). **Quotation pending** (story written up to the
   payoff, no lead-in or quotation yet, so not built or recorded): 242, 243, 246, 247, 248, 250, 251, 252, 254-259,
-  261-263, 265-267, 269-420. Voices: 151-241, 244, 245, 249, 253, 260, 264, 268 recorded (built one by one from `.content-work/work/johns-hopkins-2016/single-<n>/`,
+  261-263, 265-267, 269-422. Voices: 151-241, 244, 245, 249, 253, 260, 264, 268 recorded (built one by one from `.content-work/work/johns-hopkins-2016/single-<n>/`,
   because the validator refuses gaps). Audio only in this container; rebuild + `voice.py make` reproduces it; a worker
   restart at ~01:00 UTC interrupted 211-220, which were recorded again.
   `voice.py check` of 151-180: 5 sentences flagged, all false alarms when each clip was transcribed alone (155 and 180:
