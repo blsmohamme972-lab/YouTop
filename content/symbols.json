@@ -1125,25 +1125,30 @@
     "tof",
     "fallot"
    ],
-   "symbol": "a giant falling Tetris piece of four glowing blocks, one feature in each block",
+   "symbol": "a RAFT of FOUR LOGS lashed together tipping over a WATERFALL, a blue-lipped boy squatting on it; each log carries one fault: a log with a hole knocked through it (the hole in the wall), a log the orca balloon sits astride (the overriding aorta), a log pinched narrow by an iron clamp (the narrowed outflow) and a log swollen thick (the thick right engine room)",
    "anchors": [
+    "raft",
     "tetris"
    ],
-   "kind": "sound-alike",
-   "why": "TETRA-logy = Tetris, four blocks; of FALL-ot = falling",
+   "kind": "sound + meaning + place",
+   "why": "طوف = TOF; tetra-LOG-y = four logs; FALL-ot = the waterfall; the squatting blue boy",
    "scores": {
     "link": 2,
     "concrete": 2,
     "unmistakable": 2,
-    "drawable": 2,
+    "drawable": 1,
     "sticky": 2
    },
-   "notes": "",
+   "notes": "Replaced the falling Tetris piece on 2026-11-22: the owner found it weak ('bad symbols, make a strong new one'). 'tetris' stays among the anchors so pictures already drawn with it still match.",
    "firstUsed": "MedCosmos 25",
    "status": "approved",
-   "reason": "total 10/10",
+   "reason": "total 9/10, 3 layers",
    "audited": "2026-11-22",
-   "legacy": true
+   "layers": {
+    "sound": "TOF = طوف (a raft, in Arabic); tetra-LOG-y = four logs; FALL-ot = a waterfall",
+    "meaning": "four logs, four faults; the blue boy squatting is the blue baby who squats in a spell",
+    "place": "it rides the water leaving the blue engine room, where the four faults are"
+   }
   },
   {
    "id": "overriding-aorta",
@@ -12401,6 +12406,40 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 8/10, 3 layers",
+   "audited": "2026-11-22"
+  },
+  {
+   "id": "klinefelter",
+   "concept": "Klinefelter's syndrome (XXY): tall, long-limbed men; goes with mediastinal nonseminomatous germ cell tumours",
+   "terms": [
+    "klinefelter",
+    "klinefelter's",
+    "klinefelter syndrome",
+    "klinefelter's syndrome",
+    "xxy"
+   ],
+   "symbol": "a very tall, long-limbed mountain CLIMBER in a FELT HAT (KLINE-FELT-er), two crossed ice axes on his back and a Y-shaped forked staff in his hand (X, X, Y)",
+   "anchors": [
+    "climber",
+    "felt hat"
+   ],
+   "kind": "sound + meaning",
+   "layers": {
+    "sound": "KLINE-FELT-er = a CLIMBER in a FELT hat",
+    "meaning": "tall and long-limbed; the two crossed axes and the forked staff spell X, X, Y"
+   },
+   "why": "KLINE-FELT-er = a climber in a felt hat; XXY in his axes and staff",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Made for the redo of Johns Hopkins 84 (2026-11-22). Not Luffy or any crew member: a stranger.",
+   "firstUsed": "Johns Hopkins 84 (redo)",
+   "status": "approved",
+   "reason": "total 10/10, 2 layers",
    "audited": "2026-11-22"
   }
  ]
