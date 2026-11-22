@@ -1,0 +1,17 @@
+{
+ "file": "jh-q0120-explanation-en.m4a",
+ "sig": "37948ee6009cd637a63784d0f094de1aa6536aa0943874c5665ff0883fc196c1",
+ "starts": [
+  0,
+  10665,
+  17675,
+  30690
+ ],
+ "seconds": 37.9,
+ "texts": [
+  "In alpha-stat management, blood gases are measured at 37 degrees and kept at a pH of 7.40 without adding carbon dioxide during cooling.",
+  "Cerebral blood flow keeps its autoregulation, matched to the brain's metabolism: C is the answer.",
+  "pH-stat adds carbon dioxide to keep the pH at 7.40 at the patient's actual temperature; cerebral flow rises, autoregulation is lost and more microemboli reach the brain.",
+  "Memory hook: the alpha wolf leaves the gas tanks closed, and the head's own valve keeps the flow steady."
+ ]
+}
