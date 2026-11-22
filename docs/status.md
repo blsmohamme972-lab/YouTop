@@ -1,8 +1,40 @@
 # Where the work stands
 
-Updated 2026-11-22 (evening). Whoever works on YouTop next: read `CLAUDE.md`, then this, then
+Updated 2026-11-22 (late). Whoever works on YouTop next: read `CLAUDE.md`, then this, then
 `docs/content-guide.md` and the `youtop-lessons` skill. Rewrite this file whenever the state changes (it replaces the
 `status-<n>.txt` files in the Drive folder "YouTop private", which stop at 7).
+
+## HANDOFF (2026-11-22, late): VOICES RECORDED AND KEPT ON GITHUB; 51 PICTURES PUBLISHED; start here
+
+**Recorded voices are no longer lost with the container.** `voice.py make` now writes every track it records, with its
+timings, to `.content-work/work/<book>/recorded/` (`<lesson id>-story.json` + the `.m4a`, same for `-explanation`), and
+publish.py copies `work/` onto `content` as it is. A folder holding only `work` (a symlink to `.content-work/work`)
+publishes the recordings and touches no lesson, so held-back lessons (no picture) keep their voice. Before recording,
+`make` takes a kept recording of exactly the same words, voices and pauses from there or from
+`.content/work/<book>/recorded/` (refreshed by `publish.py --export`), in seconds. **So when pictures arrive: export,
+copy the drafts batches, build in order, `voice.py make --only <the lessons>` (it reuses), pictures, spots, marks,
+publish `--complete-only`.** Nothing needs recording again unless a story or explanation changes.
+- Also in voice.py: the speech service is reached through the session's proxy (it failed with "Name or service not
+  known" before), temporary files are per process, so several `make` runs can work at once (each in its own `--folder`
+  copy, one shared `--store`), and `check --threads N`. Recording now takes about 15 seconds a lesson.
+- **Recorded this session (2026-11-22), saved under `work/johns-hopkins-2016/recorded/` and
+  `work/medcosmos-cardiac/recorded/` on `content`:** Johns Hopkins **174 of the 340 lessons that were unpublished** (11, 14, 23, 26, 31, 36, 38, 54, 59, 64-65, 76, 80-81, 90, 92, 98-99, 101-247, 251-255, 261-264); **not yet: 248-250, 256-260, 265-422**. MedCosmos 0 of 5 (); not yet: 111, 123, 125, 128, 149.
+- `voice.py check` (speech recogniser) of every recorded batch: 10 of 44 batches checked so far, 1 sentence(s) flagged (batches 0071-0080 (1)).
+  - JH 80 story S11 (the quotation «الون بيس... إنّه موجود!»): heard only "إنه موجود" in context; cut out and transcribed alone it is heard whole: false alarm.
+
+**Pictures (the owner uploaded 51 Johns Hopkins pictures on 2026-11-22, 10:32-11:06 UTC, after the new prompts):**
+- **16 new lessons published complete** (picture, spots, circles, recorded voice): 14, 23, 26, 31, 36, 38, 54, 59, 64,
+  65, 76, 80, 81, 90, 92, 102.
+- **35 of the 40 redrawn pictures published** (`batch.py pictures ... --replace b`, so `jh-qNNNN-b.webp`; new spots
+  and circles; recorded text unchanged): 3-10, 17, 18, 20, 21, 28, 35, 39, 40, 42, 45, 47, 55, 57, 61, 72, 73, 82-84,
+  86-89, 91, 93, 95, 100. **Still to come from the owner: redraws 1, 34, 94, 96, 97, and new pictures for 11, 98, 99,
+  101, 103-150, 151-422 and MedCosmos 111, 123, 125, 128, 149** (prompts: `drafts/image-prompts-all-2026-11-22.json`).
+- Johns Hopkins now has **98 published lessons**. Every grid, spot drawing and circle drawing was looked at by this
+  agent alone (the owner's standing rule: no subagents). Two circles were moved after looking (31 the mop, 82 the
+  hotel). Spots, circles and picture-against-story notes: `drafts/johns-hopkins-2016/pictures-2026-11-22/`
+  (also `work/johns-hopkins-2016/pictures-2026-11-22/` on `content`). The notes list where a picture differs from its
+  recorded story (a speaker not drawn, 10's pot on the boy's right, 38's fist not drawn); stories were left as
+  recorded (this session's instruction: stories are final).
 
 ## HANDOFF (2026-11-22, evening): THREE SYMBOLS and QUOTATIONS done for every Johns Hopkins lesson; waiting for pictures; start here
 
