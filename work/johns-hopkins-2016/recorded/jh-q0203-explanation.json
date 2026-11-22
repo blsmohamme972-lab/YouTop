@@ -1,0 +1,21 @@
+{
+ "file": "jh-q0203-explanation-en.m4a",
+ "sig": "9a90c48b135384d993c1fb5adcadb90f8b57785962e1e40e5a0b0db03d231e65",
+ "starts": [
+  0,
+  11462,
+  18669,
+  27268,
+  38057,
+  47726
+ ],
+ "seconds": 51.3,
+ "texts": [
+  "CT angiography is the imaging of choice for suspected aortic dissection: fast, available everywhere, and showing the whole aorta, the entry tear and the branches: D.",
+  "In the picture, the cat slices the whole loaf before the others are ready, and the torn zipper shows in every slice.",
+  "Aortography, the photographer with magenta dye, is invasive and slower, and is now used mainly during endovascular treatment.",
+  "Transoesophageal echocardiography, the bat, is excellent in unstable patients and in the operating room, but transthoracic echo misses much of the aorta.",
+  "MRI, the horseshoe magnet, is accurate but slow and impractical in an acute illness, and physical examination alone misses many dissections.",
+  "Memory hook: the cat slices the loaf first."
+ ]
+}

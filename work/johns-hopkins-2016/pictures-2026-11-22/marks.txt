@@ -1,0 +1,151 @@
+book: johns-hopkins-2016
+== 3
+1: 63 47 16 | Heavy pirate stopped gasping on landing 2 | Cannot climb more than two flights of stairs
+2: 77 4 9 | Landing 3, still far above | Climbing past two flights is the screen
+3: 47 36 11 | Chopper listening, pointing to the quay | Refer him on before surgery
+4: 16 45 17 | Narrow hotel with a stag's head | Formal cardiology evaluation (E)
+5: 30 63 14 | Yellow taxis gridlocked on the quay | Heart failure is a cardiac risk that needs testing
+6: 9 68 11 | Man sitting on a heap of sugar cubes | Diabetes is a cardiac risk factor (D is wrong)
+7: 14 82 9 | Fishing rod with its reel lying unused | Catheterization is not the first test (C is wrong)
+question: 1 2
+answer: 4
+== 14
+1: 37 33 18 | Royal chamberlain with a ring of keys | Chamberlain procedure: anterior mediastinotomy
+2: 10 82 10 | Small window at the chest's front left | Left anterior approach, second intercostal space
+3: 45 72 14 | Railway station 6 beside the orca | Station 6, the para-aortic node: the answer
+4: 70 52 18 | The orca's arched back | Aortic arch: stations 5 and 6 lie beside it
+5: 38 82 9 | Glowing parcel lifted out | Node biopsy through the mediastinotomy
+6: 80 45 12 | Ribbed hose far behind, out of reach | Paratracheal stations: mediastinoscopy or EBUS
+question: 1 2
+answer: 3
+== 23
+1: 52 45 28 | Young dancer sitting on a sarcophagus | Sarcoidosis: noncaseating granulomas in many organs
+2: 52 33 9 | Green loaf of bread in her hands | Löfgren syndrome, the acute presentation
+3: 56 78 18 | Tender red lumps on both shins | Erythema nodosum
+4: 52 58 26 | Bandages round every joint | Polyarthralgias
+5: 50 38 40 | Pearls swollen at both sacks' necks | Bilateral hilar adenopathy
+6: 85 13 12 | Holed tuba oozing cheese, far away | Caseation points to tuberculosis, not sarcoidosis
+question: 1 2
+answer: 3 4 5
+== 26
+1: 35 53 18 | Big festering cave, tape reading 4 | Lung abscess cavity over 4 cm
+2: 75 80 16 | Zoro sliding his sword back in its sheath | Size alone is not an indication for resection (A)
+3: 22 77 14 | Chopper pouring blue medicine in the cave | Antibiotics and drainage heal most abscesses
+4: 77 48 11 | Red crab hiding in a second cave | A suspected cancer IS an indication
+5: 45 20 14 | Fist punching into the ribbed hose | A bronchopleural fistula IS an indication
+question: 1
+answer: 2
+== 31
+1: 22 20 14 | Marine captain puffing two fat cigars | Smoking
+2: 55 62 30 | Sack holed like Swiss cheese | Emphysema: air spaces enlarged, their walls destroyed
+3: 45 40 22 | Smoke eating the walls between the bills | Smoking-related tissue destruction (B)
+4: 93 50 8 | Dry mop leaning unused on the mast | More mucus belongs to chronic bronchitis (A is wrong)
+5: 86 80 13 | Chopper fanning the smoke away | The destruction of the walls is permanent
+question: 1 2
+answer: 3
+== 36
+1: 50 63 40 | Ribbed hose cut and sewn back together | Tracheal resection and anastomosis
+2: 15 45 15 | Man on sugar cubes pulling at the seam | Diabetes predicts anastomotic complications
+3: 17 63 9 | Old scarred seam beside the new one | Reoperation is a predictor
+4: 50 91 22 | Long measuring tape on the ground | A long resection (over 4 cm) is a predictor
+5: 85 50 14 | Boy tugging at the seam | Age under 18 is a predictor
+6: 45 30 20 | Nami on the seam, nothing strains | Female gender is NOT a predictor (C)
+7: 65 77 10 | Seam leaking a thin trickle | Anastomotic breakdown, the complication predicted
+question: 1 7
+answer: 6
+== 38
+1: 40 60 15 | White ribbed hose | Trachea
+2: 80 78 14 | Soft pink food pipe | Oesophagus
+3: 63 28 15 | Leather bellows pumping into the hose | Prolonged mechanical ventilation, the cause
+4: 52 82 9 | Stitched hole joining hose and food pipe | Tracheoesophageal fistula, repaired
+5: 50 70 28 | Thick living slab of red muscle | Muscle interposed between the two repairs (B)
+6: 33 30 15 | Franky pressing the slab in place | Immediate repair with muscle interposition
+question: 1 2 3
+answer: 4 5 6
+== 54
+1: 48 58 22 | Sailor walking with a new sack of dollars | Lung transplant recipient
+2: 85 55 13 | Stone milestone painted 5 | Five years after transplantation
+3: 65 30 11 | Lantern side of the balance, heavier | More than half are alive at 5 years (A)
+4: 92 17 9 | Coffin side, lighter and higher | Fewer than half have died by 5 years
+5: 12 48 13 | Second sailor tied to a bellows, behind | Ventilated before transplant: worse survival
+question: 1 2
+answer: 3
+== 59
+1: 20 60 16 | Young man wincing, hand on his chest | Chest pain with eating in a 20-year-old
+2: 28 10 9 | Lantern on a periscope, finding nothing | Normal upper endoscopy
+3: 75 13 13 | Brass clock painted 24 | 24-hour pH study: the answer (D)
+4: 64 55 14 | Litmus strip turning red at each splash | Acid exposure related to the symptoms
+5: 63 70 14 | Green acid soup splashing up the slide | Acid reflux that leaves no visible damage
+6: 85 52 12 | Nami noting the times of the red | Symptoms matched to reflux episodes
+question: 1 2
+answer: 3 4
+== 64
+1: 38 20 11 | Closed twin sofa bud beside the slide | Oesophageal duplication cyst
+2: 26 20 7 | No door between the bud and the slide | Rarely communicates with the oesophageal lumen
+3: 55 75 28 | Sanji's round cake in 10 slices | All mediastinal cysts
+4: 42 63 8 | The one slice with the tiny twin sofa | Duplication cysts: 5 to 10 percent of them (B)
+5: 62 74 18 | Ribbed hoses and aquariums on the rest | Commonest: bronchogenic and pericardial cysts
+6: 30 92 14 | Knife painted 10 | About one in ten, or fewer
+question: 1 3
+answer: 4
+== 65
+1: 45 45 9 | Closed twin bud beside the pink slide | Oesophageal duplication cyst
+2: 38 22 22 | Brook dancing and playing, feeling nothing | Most patients have no symptoms (A)
+3: 85 45 11 | Cat slicing a loaf on a barrel | CT scan
+4: 65 55 8 | A slice showing the twin bud by chance | Usually found incidentally on imaging
+5: 63 80 14 | Chopper putting away a needle periscope | Do not aspirate, not even under endoscopic ultrasound
+question: 1
+answer: 2
+== 76
+1: 50 28 17 | Scaly red crab clamped in the slide | Oesophageal squamous cell carcinoma
+2: 25 20 12 | Rum poured over the crab | Alcohol
+3: 12 38 11 | Pickled fish jar puffing brown smoke | N-nitrosamines in the diet
+4: 15 72 9 | Golden chalice jammed below the slide | Achalasia
+5: 70 70 20 | Fat man feasting, the crab ignoring him | Obesity: linked to adenocarcinoma, not squamous cancer (E)
+question: 1
+answer: 5
+== 80
+1: 30 87 16 | Franky pulling the slide out from below | Abdominal part of a transhiatal oesophagectomy
+2: 45 10 13 | Zoro pulling the slide out at the neck | The oesophagus delivered through the neck
+3: 50 60 18 | The chest cabin, doors shut | No thoracotomy
+4: 82 72 14 | Copper pot stretched into a long tube | The stomach made into a conduit
+5: 87 45 10 | Green vine on the tube's right side | Right gastroepiploic artery feeds it (C is wrong)
+6: 50 25 17 | Flag painted 20 | Potentially curative in about 20 percent (B)
+7: 50 42 13 | One cured sailor, arms raised | A cure for some patients
+question: 1 2 3
+answer: 6
+== 81
+1: 50 38 28 | Huge thyme bush, crab claws in its leaves | Large malignant thymoma
+2: 18 42 13 | Usopp shining violet rays on it | Radiotherapy before surgery
+3: 20 78 13 | Chopper pouring a teal potion at the roots | Chemotherapy before surgery
+4: 50 72 17 | The bush shrunk to a small one | Neoadjuvant therapy first, then resection (C)
+5: 85 45 16 | Zoro waiting, his sword in its sheath | Resection, once it has shrunk
+6: 85 86 9 | A thin needle kept in a box | Fine-needle aspiration is not the way to diagnose
+question: 1
+answer: 4
+== 90
+1: 45 28 22 | Young lamb, a ewe's lamb | Ewing's sarcoma (EWE-ing)
+2: 45 63 8 | Small red crab beside the lamb | A malignant tumour of bone
+3: 75 55 15 | Onion layers peeling in rings round the rib | Onion-peel periosteal reaction: Ewing's sarcoma (A)
+4: 85 50 17 | Boy holding his tender side | A tender rib mass in a young child
+5: 32 55 12 | Chopper pouring a green potion on the crab | Chemotherapy first
+6: 18 78 10 | Lamp shooting violet rays | Radiotherapy, when needed, with resection
+question: 4
+answer: 1 3
+== 92
+1: 45 40 26 | Very tall, long-fingered young man | Marfan's syndrome
+2: 80 15 14 | Huge crimson fan | MAR-FAN: the name
+3: 55 45 15 | Excavator digging a hollow in his chest | Pectus excavatum
+4: 50 8 10 | Sign painted 2 over 3 | Up to two-thirds of Marfan children have it (C)
+5: 18 22 14 | Orca balloon, salsa bowls swollen at base | The aortic root widens: check it before any repair
+question: 1 3
+answer: 4
+== 102
+1: 22 27 12 | Usopp's grey X-ray plate, a vague smudge | Pleural abnormality on the chest film
+2: 55 42 20 | Grey cat slicing with one claw | CT scan, the most useful next test (B)
+3: 40 82 20 | Thin slices, the lump on each crust | Size, position and relations of the lesion
+4: 70 30 7 | Bat waiting in line | Ultrasound: for fluid
+5: 80 30 7 | Glowing puppy waiting in line | PET: for staging a known cancer
+6: 93 30 7 | Red horseshoe magnet waiting in line | MRI: invasion of the chest wall or diaphragm
+question: 1
+answer: 2
