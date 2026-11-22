@@ -22,10 +22,10 @@ a line; if a line here turns out wrong, take it out and say so.
 | Ben Beckman | "We never claimed to be saints." | W 1.04 | لَمْ نَزْعُمْ يَوْمًا أَنَّنَا قِدِّيسُونْ! | 205, 234 |
 | Luffy (to Shanks) | "I won't beg you to take me with you. I'm gonna be a pirate all on my own." | W 1.04 | لَنْ أَتَوَسَّلَ إِلَيْكَ هَذِهِ المَرَّةَ أَنْ تَأْخُذَنِي مَعَكْ؛ سَأَصِيرُ قُرْصَانًا بِنَفْسِي! | 218, 238 |
 | Zoro | "The injury to my reputation's a lot worse than the injury to my gut." | W 1.06 | جُرْحُ سُمْعَتِي أَسْوَأُ بِكَثِيرٍ مِنْ جُرْحِ بَطْنِي! | 206, 231 |
-| Zoro | "My swords aim to be the world's greatest. I refuse to lose to anyone who calls himself a swordsman." | W 1.07 | سُيُوفِي تَطْمَحُ أَنْ تَكُونَ الأَعْظَمَ فِي العَالَمْ؛ لَا أَقْبَلُ أَنْ أَخْسَرَ أَمَامَ أَحَدٍ يُسَمِّي نَفْسَهُ مُبَارِزًا! | 233 |
+| Zoro | "My swords aim to be the world's greatest. I refuse to lose to anyone who calls himself a swordsman." | W 1.07 | سُيُوفِي تَطْمَحُ أَنْ تَكُونَ الأَعْظَمَ فِي العَالَمْ؛ لَا أَقْبَلُ أَنْ أَخْسَرَ أَمَامَ أَحَدٍ يُسَمِّي نَفْسَهُ مُبَارِزًا! | 233, 253 |
 | Zoro | "If I lose to someone like you, even with these minimal injuries, then I don't have a very bright future ahead of me, do I?" | W 1.07 | إِنْ خَسِرْتُ أَمَامَ مِثْلِكَ بِهَذِهِ الجُرُوحِ البَسِيطَةْ، فَأَيُّ مُسْتَقْبَلٍ يَنْتَظِرُنِي؟ | 228 |
 | Zoro (after much blood loss) | "I feel lightheaded." | W 1.08 | أَشْعُرُ بِدُوَارٍ خَفِيفْ... | 202, 222 |
-| Zoro (for Kuina) | "I'll get stronger! ... Strong enough that my name reaches up to the heavens!" | W 1.19 | سَأَصِيرُ أَقْوَى! أَقْوَى مِمَّا كَانَتْ هِيَ! حَتَّى يَبْلُغَ اسْمِي السَّمَاءْ! | 240 |
+| Zoro (for Kuina) | "I'll get stronger! ... Strong enough that my name reaches up to the heavens!" | W 1.19 | سَأَصِيرُ أَقْوَى! أَقْوَى مِمَّا كَانَتْ هِيَ! حَتَّى يَبْلُغَ اسْمِي السَّمَاءْ! | 240, 260 |
 | Koshiro (giving Kuina's sword) | "The sword is yours. I leave her spirit and her dreams in your hands." | W 1.19 | السَّيْفُ لَكْ؛ أَتْرُكُ رُوحَهَا وَأَحْلَامَهَا بَيْنَ يَدَيْكْ. | 236 |
 | Doflamingo (Marineford) | "Children who've never known peace have different values than children who've never known war." | W 14.09 | الأَطْفَالُ الَّذِينَ لَمْ يَعْرِفُوا السَّلَامَ قَطّْ، لَهُمْ قِيَمٌ غَيْرُ قِيَمِ الأَطْفَالِ الَّذِينَ لَمْ يَعْرِفُوا الحَرْبَ قَطّْ! | 212, 235 |
 | Robin (Enies Lobby) | "I never asked you to save me!" | S (ch. 389) | لَمْ أَطْلُبْ مِنْكُمْ أَنْ تُنْقِذُونِي! | 210, 230 |
