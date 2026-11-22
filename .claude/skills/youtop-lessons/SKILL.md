@@ -161,7 +161,7 @@ Per question (format at the top of `batch.py`):
   (rule 2, five) and numbers (rule 6). `words` = at most three short labels painted in it, never numbers.
 - `story:` 8-11 short Arabic sentences, one per line. A real story in the manner of the book's
   author (people with names, an event, a turn), in eloquent, forceful classical Arabic. Every
-  object of the scene appears and *does* something; numbers painted in the picture are said.
+  object of the scene appears and *does* something; numbers are said by their symbols' names (rule 6).
   **No medicine, no English, no "this means…"**. The last sentence leads into the quotation and
   ends with ":".
 - `quote` + `source`: a **real** quotation of the book's author, in Arabic, from a named work,

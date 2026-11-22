@@ -20,6 +20,13 @@ wrong, write what should change). They reach the agent as GitHub issues titled `
 the start of every session** (CLAUDE.md, "Lesson feedback from the app"). Not tested on a real phone; the owner must be
 signed in to GitHub in the phone's browser for "Create" to work.
 
+## STORY STYLE OF THE QURAN: CANCELLED (2026-11-22, evening)
+
+The owner asked for the Arabic stories to be written in the linguistic styles of the Quran's parables (PR #132), then
+wrote «الغي فكرة اسلوب القران الكريم نهائيا» (cancel the idea entirely). Everything of it was removed (the style file,
+the check in `batch.py`, the lines in the skill, the guide and CLAUDE.md). Stories are written as before. Do not bring
+it back.
+
 ## RULES 6 AND 7 (2026-11-22, evening): numbers drawn small; an anchor and twelve symbols per lesson
 
 The owner: "new rules, add them to the rules, and add the number rules. Some lessons have no anchor and not enough
