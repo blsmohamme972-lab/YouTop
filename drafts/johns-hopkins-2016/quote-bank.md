@@ -30,11 +30,12 @@ a line; if a line here turns out wrong, take it out and say so.
 | Doflamingo (Marineford) | "Children who've never known peace have different values than children who've never known war." | W 14.09 | الأَطْفَالُ الَّذِينَ لَمْ يَعْرِفُوا السَّلَامَ قَطّْ، لَهُمْ قِيَمٌ غَيْرُ قِيَمِ الأَطْفَالِ الَّذِينَ لَمْ يَعْرِفُوا الحَرْبَ قَطّْ! | 212, 235 |
 | Robin (Enies Lobby) | "I never asked you to save me!" | S (ch. 389) | لَمْ أَطْلُبْ مِنْكُمْ أَنْ تُنْقِذُونِي! | 210, 230 |
 | Chopper (Drum Island, before "Shut up! Let's go!") | "But I'm a reindeer! I've got antlers... and hooves... and a blue nose!" | S | أَنَا رَنَّةْ! لِي قَرْنَانِ، وَلِي حَوَافِرُ، وَأَنْفِي أَزْرَقْ! | 203, 223 |
-| Zoro (to Mihawk, after Sabaody) | "Please teach me the way of the sword!" | S (ep. 515) | أَرْجُوكْ، عَلِّمْنِي فَنَّ السَّيْفْ! | 229 |
+| Zoro (to Mihawk, after Sabaody) | "Please teach me the way of the sword!" | S (ep. 515) | أَرْجُوكْ، عَلِّمْنِي فَنَّ السَّيْفْ! | 229, 249 |
 | Nami | "I'm a thief who only steals from pirates." | S | أَنَا لِصَّةٌ لَا تَسْرِقُ إِلَّا القَرَاصِنَةْ! | 209, 232 |
 | Alvida | "Who is the most beautiful woman on all the seas?" | S | مَنْ أَجْمَلُ امْرَأَةٍ فِي البِحَارِ كُلِّهَا؟ | 201, 226 |
-| Kozuki Oden (in the boiling pot) | "I am Oden... I was born to boil!" (the title of chapter 972) | S (ch. 972) | أَنَا أُودِنْ... وُلِدْتُ لِأُغْلَى! | 221 |
-| Bon Clay (Mr. 2) | "But remember! When it comes to friends, it's not how much time you spend with them, just how you spend it!" | W ("Friendship" page) | تَذَكَّرْ! مَعَ الأَصْدِقَاءْ، لَيْسَ المُهِمُّ كَمْ مِنَ الوَقْتِ تَقْضِي مَعَهُمْ، بَلْ كَيْفَ تَقْضِيهْ! | 225 |
+| Kozuki Oden (in the boiling pot) | "I am Oden... I was born to boil!" (the title of chapter 972) | S (ch. 972) | أَنَا أُودِنْ... وُلِدْتُ لِأُغْلَى! | 221, 241 |
+| Bon Clay (Mr. 2) | "But remember! When it comes to friends, it's not how much time you spend with them, just how you spend it!" | W ("Friendship" page) | تَذَكَّرْ! مَعَ الأَصْدِقَاءْ، لَيْسَ المُهِمُّ كَمْ مِنَ الوَقْتِ تَقْضِي مَعَهُمْ، بَلْ كَيْفَ تَقْضِيهْ! | 225, 245 |
+| Dr Kureha (her catchphrase) | "Hee-hee-hee! Are you happy?" | S (her running catchphrase on Drum Island) | هِي هِي هِي! هَلْ أَنْتَ سَعِيدْ؟ | 244 |
 
 Lines from 1-190 still usable once more: Buggy's "Who are you calling big red nose?!" (171, 191: done), "Sogeking,
 shoot that flag!" (172, 192: done), "a crew better than yours" (173, 208: done), Kizaru's light-speed kick (175,

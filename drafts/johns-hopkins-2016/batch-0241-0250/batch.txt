@@ -1,0 +1,304 @@
+book: johns-hopkins-2016
+# Lessons 241-250 (book 49.1-50.5: transplant immunology, heart transplantation). Written 2026-11-22, night.
+# Each story: a hook, a wrong try that fails, the answer acting, a payoff line that names the symbol, and a lead-in
+# that says who speaks the quotation and why it fits.
+# QUOTATION PENDING (242, 243, 246, 247, 248, 250): the pool of One Piece lines allowed by quoteRepeats is exhausted;
+# the owner decides (third use, other genuine source, or none). Those stories stop at the payoff line; add the lead-in
+# line and the Q line in voice.txt, and quote/source here, before building.
+
+== 241
+# book 49.1: indirect allorecognition -> B, necrotic donor debris taken up by recipient APCs and shown on MHC class II to CD4+ T cells.
+# the new plant set into the patient's flowerpot, soldier ants marching -> transplant, rejection (audited flowerpot, soldier ants)
+# ANSWER: the patient's own TV presenters gathering the fallen dead leaves, boiling them down and holding the pieces up on a stand marked II to four-striped captain ants -> indirect pathway
+# the new plant's own presenters showing its leaves themselves -> the direct pathway (A wrong)
+title: Indirect allorecognition: the recipient's own cells present donor debris
+titleAr: التعرّف غير المباشر على الطُّعم: خلايا المتلقّي نفسها تعرض حطام المتبرّع
+tags: cardiac/heart-failure thoracic/transplant d:physiology q:recall l:3
+palette: Wano garden green, lantern red and stew gold
+words: II
+keywords: heart transplantation -> a gardener's new plant, root ball and all, set into the patient's terracotta flowerpot; rejection -> tiny white soldier ants marching toward the new plant; indirect allorecognition -> the patient's own TV presenters gathering the fallen dead leaves of the new plant, boiling them down in a pot, and holding the pieces up on a two-shelf stand marked II; CD4 T cells -> captain ants with four stripes on their caps, watching the stand; direct allorecognition -> the new plant's own presenters, who came with it, showing its fresh leaves themselves, dimmer
+must: it is the PATIENT's own presenters who boil the fallen leaves and hold them up on the stand marked II
+scene: A garden in the land of Wano, lantern light. A gardener's new plant, root ball and all, set into a patient's terracotta flowerpot; tiny white soldier ants marching toward it. CENTRE, dominant and brightest: the patient's own TV presenters, microphones in hand, gathering the plant's fallen dead leaves, boiling them down in a pot and holding the pieces up on a two-shelf stand marked II to captain ants with four stripes on their caps. LEFT, dimmer: the new plant's own presenters showing its fresh leaves themselves. RIGHT: Oden, a tall samurai with a topknot, laughing in a big steaming pot. Usopp. Chopper.
+story:
+في حديقة بأرض وانو، زرع بستانيّ في أصيص بحّار نبتةً جديدةً جاء بها من حديقة أخرى، بجذورها وترابها.
+فتساقطت من النبتة أوراق ميّتة، وتحرّك نمل الحرّاس الأبيض في الحديقة.
+«مذيعو النبتة الجديدة أنفسهم هم الّذين يعرضون أوراقها على النمل!» قال أوسوب، وأشار إلى مذيعين صغار جاؤوا مع النبتة.
+لكنّ تشوبر أشار إلى مذيعي الحديقة نفسها، مذيعي البحّار القدامى، وهم يجمعون الأوراق الميّتة الساقطة.
+فسلقوها في قدر حتّى تفتّتت، ثمّ رفعوا قطعها على منصّة من رفّين مكتوب عليها اثنان، يعرضونها على قادة النمل ذوي الخطوط الأربعة على قبّعاتهم.
+«مذيعو البحّار أنفسهم يطبخون الأوراق الساقطة، ويعرضونها على المنصّة ذات الرفّين للقادة الأربعة: هذا هو الطريق غير المباشر!» قال تشوبر.
+وكان في وسط الحديقة قدر كبير يغلي، وفيه الساموراي أودن يضحك.
+فلمّا رأى المذيعين يسلقون الأوراق في قدرهم الصغير، ضحك أعلى، وقال ما قاله في ساعته الأخيرة:
+quote: «أنا أودن... ولدت لأغلى!»
+source: كوزوكي أودن
+explanation:
+In indirect allorecognition, debris of dead donor cells is taken up by the recipient's own antigen-presenting cells, which process the donor antigens and display them on their own MHC class II molecules to CD4+ T cells: B.
+In the picture, the patient's own presenters gather the fallen leaves of the new plant, boil them down and hold the pieces up on a stand marked II to the four-striped captain ants.
+In the direct pathway, donor antigen-presenting cells carried in the graft present intact donor MHC to recipient T cells (option A); the transfer of MHC by exosomes is the semi-direct pathway.
+Complement and Toll-like receptors belong to innate immunity, not to recognition of the graft by T cells.
+The indirect pathway lasts as long as the graft and is thought to drive chronic rejection.
+Memory hook: the patient's own presenters cook the fallen leaves and show them to the captains.
+
+== 242
+# book 49.2: NOT a pattern recognition receptor of innate immunity -> C, cyclooxygenase 1.
+# lookouts that spot the patterns on germs' coats: a toll booth (TLR), a giant letter C (CRP), a sugar bouquet (MBL), the waterfall of compliments (C1q) (audited compliments)
+# ANSWER: a rooster (COX) with 1 on its comb, crowing at the sunrise and not looking at the germs -> COX-1 is an enzyme, not a receptor
+title: COX-1 is not a pattern recognition receptor
+titleAr: إنزيم الأكسدة الحلقيّة 1 ليس مستقبِلًا للتعرّف على الأنماط
+tags: thoracic/transplant cardiac/heart-failure d:physiology q:recall l:3
+palette: farmyard sunrise orange, lookout blue and waterfall white
+words: 1
+keywords: pattern recognition receptors -> lookouts round the garden spotting the striped patterns on germs' coats; Toll-like receptor -> a toll booth on the garden road stopping striped germs; C-reactive protein -> a lookout shaped like a giant letter C grabbing a germ; mannose-binding lectin -> a lookout holding out a bouquet of sugar flowers that germs stick to; complement C1q -> a waterfall down which a waiter tumbles, throwing bouquets of compliments that stick to the germs; cyclooxygenase 1 -> a rooster (COX) with 1 on its comb, crowing at the sunrise on a fence and not looking at the germs at all
+must: the rooster ignores the germs; the toll booth, the giant C, the sugar bouquet and the waterfall all catch them
+scene: A farm garden at sunrise round a HART Hotel in a flowerpot. CENTRE, dominant and brightest: a rooster with 1 on its comb crowing at the sunrise on a fence, its back turned to a line of striped germs creeping past. AROUND, catching the germs: a toll booth on the garden road; a lookout shaped like a giant letter C; a lookout holding out a bouquet of sugar flowers that germs stick to; a waterfall down which a waiter tumbles, throwing bouquets of compliments that stick to the germs. LEFT: Usopp pointing at the rooster as the best lookout. Chopper.
+story:
+حول حديقة الفندق الجديد، وقف حرّاس يرقبون الجراثيم المخطّطة وهي تزحف عند الفجر.
+بوّابة رسوم على طريق الحديقة توقف كلّ مخطّط، وحارس على هيئة حرف سي عملاق يطبق عليها.
+وحارس يمدّ باقةً من زهور السكّر تلتصق بها الجراثيم؛ ونادل يتدحرج من شلّال، يرمي باقات المديح فتلتصق بها.
+«والدّيك على السياج أفضل الحرّاس جميعًا!» قال أوسوب، وأشار إلى ديك على عرفه رقم واحد.
+لكنّ الديك أدار ظهره للجراثيم، وصاح للشّمس الطالعة، فمرّت من تحته جرثومة ولم يلتفت.
+«البوّابة، وحرف السي، وباقة السكّر، وشلّال المديح يعرفون الجراثيم بخطوطها؛ أمّا الديك فله شغل آخر!» قال تشوبر.
+فضحك الحرّاس من أوسوب، ومضى الديك يصيح للشّمس كأنّ شيئًا لم يكن.
+quote:
+source:
+explanation:
+Cyclooxygenase 1 (COX-1) is not a pattern recognition receptor: it is an enzyme that makes prostaglandins: C.
+Pattern recognition receptors are the innate system's lookouts: they recognise molecular patterns shared by microbes or by damaged cells, without needing earlier exposure.
+They include Toll-like receptors (the toll booth), C-reactive protein (the giant C), mannose-binding lectin (the sugar bouquet) and complement C1q (the waterfall of compliments).
+Memory hook: the rooster crows at the sunrise; the toll booth, the C, the bouquet and the waterfall watch the germs.
+
+== 243
+# book 49.3: lung transplant biopsy A3 (moderate acute rejection) with no bronchiolar inflammation (B0) -> C, intravenous corticosteroid pulse.
+# a thick swarm of soldier ants round the small pipes of the transplanted money sacks, the tiny air tubes clear -> A3 B0 (audited soldier ants, dollar, flowerpot)
+# ANSWER: Chopper turning the stereo's volume knob all the way down -> pulse steroids (audited stereo)
+# the snow globe set aside -> IVIg is for antibody-mediated rejection (D wrong) (audited snow globe)
+title: Lung transplant rejection A3 without bronchiolar inflammation: pulse steroids
+titleAr: رفض زرع الرئة من الدرجة A3 بلا التهاب قصيبات: جرعات ستيرويد وريديّة
+tags: thoracic/transplant d:postoperative q:recall l:3
+palette: greenhouse green, ant white and stereo black
+words: A3, B0
+keywords: lung transplantation -> a pair of sacks of green dollar bills lifted, roots and all, out of one terracotta flowerpot into another; moderate acute rejection -> a thick swarm of white soldier ants biting round the small pipes inside the sacks, a sign A3; no bronchiolar inflammation -> the tiny air tubes of the sacks free of ants, a sign B0; corticosteroid pulse -> Chopper turning the volume knob of a big old stereo all the way down, silencing the red, swollen noise; IVIg -> a glowing snow globe of green gamma rays set aside on a shelf
+must: the ants swarm round the small pipes of the sacks (A3) but the tiny air tubes are clear (B0); the stereo is turned right down
+scene: A glass greenhouse. CENTRE, dominant and brightest: a pair of sacks of green dollar bills newly planted in a terracotta flowerpot, a thick swarm of white soldier ants biting round the small pipes inside them, a sign A3; the tiny air tubes clear of ants, a sign B0; Chopper turning the volume knob of a big old stereo all the way down, the red swollen noise fading. RIGHT: a glowing snow globe of green gamma rays set aside on a shelf. LEFT: Usopp waving at the ants with a fly swatter.
+story:
+في بيت زجاجيّ للنّباتات، زرع لبحّار كيسان جديدان من الدولارات الخضراء، في أصيص فخّاريّ.
+فزحف نمل الحرّاس الأبيض أسرابًا كثيفةً حول الأنابيب الصغيرة في الكيسين، يعضّ لحمهما.
+أمّا أنابيب الهواء الدقيقة، فبقيت نظيفةً لا نمل فيها.
+«أطرده بمضرب الذباب!» قال أوسوب، وأخذ يضرب النمل ضربًا، فلم يزده ذلك إلّا هياجًا.
+فجاء تشوبر بمذياع قديم كبير يصخب بضجيج أحمر متورّم، وأدار زرّ صوته إلى آخره نزولًا.
+فخفت الضجيج، وتفرّق النمل عن الأنابيب.
+«نمل كثيف حول أنابيب الكيسين، وأنابيب الهواء نظيفة: نخفض صوت المذياع إلى آخره!» قال تشوبر.
+وبقيت كرة الثلج الخضراء على الرفّ، ليوم آخر وهجوم آخر.
+quote:
+source:
+explanation:
+Moderate acute cellular rejection of a lung transplant (grade A3) without bronchiolar inflammation (B0) is treated with a pulse of intravenous corticosteroids: C.
+In the picture, the soldier ants swarm round the small vessels of the sacks, the tiny air tubes are clear, and Chopper turns the stereo all the way down.
+Grade A2 and higher is usually treated even without symptoms, because repeated acute rejection leads on to chronic rejection (bronchiolitis obliterans).
+Antithymocyte globulin is kept for rejection that does not respond to steroids, IVIg and rituximab are for antibody-mediated rejection, and basiliximab is used for induction.
+Memory hook: ants round the sacks' pipes, clear air tubes: turn the stereo right down.
+
+== 244
+# book 49.4: heart transplant biopsy 1R (mild) with no antibody-mediated rejection -> A, no treatment.
+# only a few scattered soldier ants wandering on the new hotel's walls, hardly biting -> 1R (audited soldier ants, flowerpot)
+# ANSWER: Dr Kureha sending the patient home with no new medicine -> no treatment, surveillance
+# Usopp dragging the stereo and the snow globe -> steroids, IVIg (C, D wrong) (audited stereo, snow globe)
+title: Heart transplant rejection 1R without antibody-mediated rejection: no treatment
+titleAr: رفض زرع القلب من الدرجة 1R بلا رفض بالأضداد: لا علاج
+tags: cardiac/heart-failure d:postoperative q:recall l:2
+palette: Drum Island snow white, castle grey and sake amber
+words: 1R
+keywords: heart transplantation -> a new HART Hotel lifted, root ball and all, out of one terracotta flowerpot into the patient's; mild acute rejection -> only a few scattered white soldier ants wandering on the new hotel's walls, hardly biting, a sign 1R; no treatment -> Dr Kureha waving the patient home with nothing but a grin; corticosteroid pulse -> a big old stereo Usopp drags in, left unplugged; IVIg -> a glowing snow globe of green gamma rays Usopp carries, unused
+must: only a FEW ants wander on the walls, hardly biting; the patient goes home with no new medicine
+scene: Dr Kureha's castle on snowy Drum Island. CENTRE, dominant and brightest: a sailor carrying his new HART Hotel in a terracotta flowerpot, a few scattered white soldier ants wandering on its walls, hardly biting, a sign 1R; he skips out of the gate into the snow while Dr Kureha, a wiry, very old woman doctor with long grey hair, sunglasses and a bottle of sake, grins after him. LEFT: Usopp dragging in a big old stereo and a glowing snow globe of green gamma rays, unused. Chopper.
+story:
+في قلعة الدكتورة كوريها على جزيرة درام، جاء بحّار زرع له فندق جديد قبل أشهر، يحمله في أصيص فخّاريّ.
+فنظرت كوريها في جدرانه بعدستها، فرأت بضع نملات بيضاء متفرّقة، تتجوّل ولا تكاد تعضّ.
+«النمل! هاتوا المذياع نخفضه، وكرة الثلج الخضراء، وكلّ ما عندنا!» صاح أوسوب، وجرّ أدواته كلّها.
+«نملات قليلة لا تعضّ ليست حربًا؛ دواؤك يتعب الفندق أكثر منها!» قالت كوريها.
+«نملات قليلة متفرّقة: لا علاج، بل نظر من جديد بعد حين!» قال تشوبر.
+فكتبت كوريها على لوحه: واحد آر، وأعادته إلى بيته بلا دواء جديد، على أن يعود لتنظر في جدرانه مرّةً أخرى.
+فخرج البحّار من القلعة يقفز في الثلج فرحًا.
+فضحكت كوريها ضحكتها العالية، وشربت من زجاجتها، ونادت خلفه بسؤالها الّذي لا تملّه:
+quote: «هي هي هي! هل أنت سعيد؟»
+source: الدكتورة كوريها
+explanation:
+A heart transplant biopsy graded mild (1R) with no antibody-mediated rejection (AMR0) needs no treatment: A.
+In the picture, a few scattered soldier ants wander on the walls of the new hotel and hardly bite, and Dr Kureha sends the patient home.
+Grade 1R rejection usually settles by itself, and treating it would only add the harms of more immunosuppression; it is followed with surveillance biopsies.
+Pulse steroids are given for grade 2R or higher, or for rejection with haemodynamic compromise, and IVIg with rituximab for antibody-mediated rejection.
+Memory hook: a few ants that hardly bite: no treatment, just watch.
+
+== 245
+# book 49.5: moderate or severe cardiac rejection -> A, multiple foci of myocyte injury.
+# ANSWER: two or more swarms of soldier ants, each biting through the bricks of the engine room's wall -> 2R/3R (audited soldier ants)
+# compliment bouquets stuck along the little pipes -> C4d, antibody-mediated rejection (B wrong) (audited compliments)
+title: Moderate or severe heart rejection: several foci of myocyte injury
+titleAr: الرفض المتوسّط أو الشديد لزرع القلب: بؤر متعدّدة من أذيّة الخلايا العضليّة
+tags: cardiac/heart-failure d:pathology q:recall l:3
+palette: Kamabakka pink, brick red and ant white
+keywords: moderate rejection -> two or more swarms of white soldier ants, each biting holes through the brick wall of the new hotel's engine room; myocyte injury -> broken bricks at every swarm; complement C4d staining -> bouquets of compliments stuck along the hotel's little pipes, a different kind of attack; heart transplantation -> the new hotel in its terracotta flowerpot
+must: the ants swarm in TWO OR MORE places, each with broken bricks
+scene: A hospital room on Kamabakka Kingdom, pink and frilly. CENTRE, dominant and brightest: a new HART Hotel in a terracotta flowerpot on the bedside table, two and three swarms of white soldier ants each biting holes through the brick wall of its engine room, broken bricks at every swarm. LEFT, dimmer: bouquets of compliments stuck along its little pipes. IN THE BED: Bon Clay, a tall dancer in a swan-necked ballet coat, the patient, beaming at the crew who pop in for a short visit. Usopp and Chopper.
+story:
+في مملكة كاماباكّا الورديّة، رقد بون كلاي في سريره، وعلى الطاولة بجانبه فندقه الجديد في أصيص فخّاريّ.
+فنظر تشوبر في الفندق بعدسته، فإذا نمل الحرّاس الأبيض يعضّ جدار غرفة المحرّك في موضعين وثلاثة، وعند كلّ سرب طوب مكسّر.
+«سرب هنا وسرب هناك، لا بأس بهذا!» قال أوسوب.
+لكنّ تشوبر عدّ المواضع المكسّرة: ليست واحدةً، بل كثيرة.
+ورأى على الأنابيب الصغيرة باقات من المديح لاصقة، فعرف أنّها هجوم من نوع آخر غير النمل.
+«النمل يكسّر الطوب في أكثر من موضع: هذا هجوم كبير لا نتركه!» قال تشوبر.
+وجاء الطاقم يزور بون كلاي، فلم يبقوا إلّا دقائق، لكنّهم ملؤوا الغرفة ضحكًا ورقصًا.
+فلمّا خرجوا، مسح بون كلاي دموعه، وقال كلمته عن الأصدقاء:
+quote: «تذكّر! مع الأصدقاء، ليس المهمّ كم من الوقت تقضي معهم، بل كيف تقضيه!»
+source: بون كلاي
+explanation:
+Moderate or severe acute cellular rejection (grade 2R or 3R) is marked by multiple foci of myocyte injury: A.
+In the picture, the soldier ants swarm in two or more places, and at each the bricks of the engine-room wall are broken.
+Mild rejection (1R) shows infiltrates with at most one focus of myocyte damage; severe rejection is diffuse, often with oedema or haemorrhage.
+Positive C4d staining and macrophages inside capillaries are signs of antibody-mediated rejection, not of cellular rejection.
+Memory hook: ants biting bricks in more than one place mean moderate rejection or worse.
+
+== 246
+# book 50.1: contraindication to heart transplantation -> A, recipient PVR greater than 5 Wood units.
+# ANSWER: six wooden blocks stacked in the recipient's money pipe, the new hotel's blue engine room bursting against them -> PVR over 5 Wood units (audited wooden block)
+# an old empty crab shell, red doughnuts, Darth Vader's knight, slightly grey kidney beans -> old cancer, transfusion, LVAD, creatinine 2.0: not contraindications (audited red doughnuts, vader, kidney bean)
+title: A PVR above 5 Wood units contraindicates heart transplantation
+titleAr: مقاومة رئويّة فوق 5 وحدات وود تمنع زرع القلب
+tags: cardiac/heart-failure d:indications q:numbers l:2 x:high-yield
+palette: Galley-La workshop timber, block brown and engine-room blue
+words: 5
+note: Some programmes set the limit at 4 to 5 Wood units, and a resistance that falls with vasodilators may be acceptable; the book's figure is used.
+keywords: pulmonary vascular resistance over 5 Wood units -> six wooden blocks stacked inside the recipient's pipe of dollar bills; donor right ventricle -> the new hotel's blue engine room, its big fan straining, bursting its seams as it pushes against the blocks; cancer five years ago -> a little old crab shell, empty for five years; recent transfusion -> red doughnuts floating in the river; LVAD -> a black-helmeted dark space knight (Darth Vader) in a long cape, his little pump bolted into the old engine room; creatinine 2.0 -> kidney beans just slightly grey
+must: more than five blocks stand in the recipient's money pipe, and the new blue engine room bursts against them
+scene: The Galley-La shipwright workshop in Water 7. CENTRE, dominant and brightest: a recipient whose pipe of dollar bills is stacked with six wooden blocks; the new HART Hotel being fitted to him has its blue engine room bursting its seams as it pushes against the blocks, 5 painted on the pipe. LEFT, dimmer, other candidates: one holding a little old empty crab shell, one with red doughnuts floating in his river, one with a black-helmeted dark space knight bolted into his old engine room, one with slightly grey kidney beans. Franky shaking his head; Usopp pushing the new hotel forward. Chopper.
+story:
+في ورشة غالي لا بووتر سيفن، اصطفّ خمسة ينتظرون فنادق جديدة.
+الأوّل يحمل صدفة سرطان قديمةً فارغةً منذ خمس سنين، والثّاني في نهره كعكات حمراء جديدة، والثّالث في غرفة محرّكه القديمة فارس أسود الخوذة، والرّابع حبّتا فاصوليائه رماديّتان قليلًا.
+أمّا الخامس، ففي أنبوب دولاراته ستّة مكعّبات خشبيّة مكدّسة.
+«الخامس أوّلًا! فندقه أحوجهم إلى البديل!» قال أوسوب، ودفع الفندق الجديد نحوه.
+فلمّا وصل الفندق الجديد بأنبوبه، أخذت مروحة غرفته الزرقاء تدفع الماء نحو المكعّبات، فعجزت، وتشقّقت جدران الغرفة.
+ففصله فرانكي بسرعة، وهزّ رأسه.
+«أكثر من خمسة مكعّبات في أنبوب الدولارات: الغرفة الزرقاء الجديدة تنفجر ولا تحتمل!» قال تشوبر.
+ومضى الفندق الجديد إلى صاحب الصدفة القديمة، فدارت مروحته عنده هادئةً مطمئنّة.
+quote:
+source:
+explanation:
+A pulmonary vascular resistance above 5 Wood units that does not fall with vasodilators is a contraindication to heart transplantation: A.
+The donor right ventricle is not used to high pulmonary pressure and fails acutely when it must push against it: the new blue engine room bursting against the stack of blocks.
+A cancer treated five years ago, a recent transfusion, an LVAD placed two months ago and a creatinine of 2.0 are not contraindications in themselves; a recent transfusion calls for a crossmatch.
+Memory hook: more than five blocks in the money pipe, and the new blue engine room bursts.
+
+== 247
+# book 50.2: highest operative mortality -> E, an older recipient receiving an older donor heart after a long ischaemic time.
+# ANSWER: a white-bearded grandfather receiving a weathered old hotel whose hourglass ran out on melting ice, beside the biggest coffin (audited coffin, flowerpot)
+# a boy receiving a young hotel straight off fresh ice -> the lowest risk
+title: The highest transplant mortality: old recipient, old donor, long ischaemic time
+titleAr: أعلى وفيات زرع القلب: متلقٍّ مسنّ وقلب مسنّ وزمن إقفار طويل
+tags: cardiac/heart-failure d:evidence q:recall l:2
+palette: Thriller Bark dusk purple, ice blue and hourglass gold
+keywords: heart transplantation -> a new HART Hotel lifted out of a cooler into the recipient's terracotta flowerpot; older recipient -> a white-bearded grandfather; older donor heart -> a weathered old hotel with a grey stag's head; long ischaemic time -> an hourglass run almost empty beside the cooler, the ice inside melted; operative mortality -> a big black coffin beside the worst pairing, small coffins beside the others; young recipient with a young heart and a short wait -> a boy receiving a fresh young hotel straight off fresh ice
+must: the biggest coffin stands beside the grandfather receiving the old hotel after the long wait
+scene: Five transplant beds in a dim hall on Thriller Bark, purple dusk. CENTRE, dominant and brightest: a white-bearded grandfather receiving a weathered old HART Hotel with a grey stag's head, lifted out of a cooler whose ice has melted, an hourglass beside it almost empty, a big black coffin beside the bed. RIGHT, brightly lit: a boy receiving a fresh young hotel straight off fresh ice, a full hourglass, a tiny coffin. Between them, three mixed pairings with middle-sized coffins. Usopp. Chopper.
+story:
+في قاعة قاتمة بجزيرة ثريلر بارك، صفّت خمسة أسرّة لزرع فنادق جديدة، وإلى جانب كلّ سرير تابوت أسود.
+على السرير الأوّل صبيّ يأخذ فندقًا فتيًّا خرج للتّوّ من ثلج طازج، وساعته الرمليّة ملأى، وتابوته صغير كاللّعبة.
+وعلى السرير الأخير جدّ أبيض اللحية، يأخذ فندقًا عجوزًا رأس أيّله رماديّ، انتظر طويلًا في صندوق ذاب ثلجه، وساعته الرمليّة تكاد تفرغ.
+«الجدّ رجل مجرّب، سيكون أسلمهم!» قال أوسوب.
+لكنّ التابوت الّذي بجانب الجدّ كان أكبر التوابيت كلّها، وظلّه يغطّي السرير.
+وبينهما ثلاثة أسرّة أخرى، في كلّ منها شيء من العمر أو شيء من الانتظار، وتوابيتها بين بين.
+«عجوز يأخذ فندقًا عجوزًا بعد انتظار طويل على الثلج: ذلك أكبر التوابيت!» قال تشوبر.
+فأسرع تشوبر يعدّ الثلج الطازج للفندق القادم، كي لا يطول انتظاره.
+quote:
+source:
+explanation:
+Operative mortality is highest when an older recipient receives an older donor heart after a long ischaemic time: E.
+Recipient age, donor age and ischaemic time each add risk, and their effects add up: the grandfather, the weathered hotel and the hourglass that ran out, beside the biggest coffin.
+A young recipient with a young donor heart and a short ischaemic time carries the lowest risk.
+Older donor hearts tolerate long ischaemic times, beyond about four hours, less well.
+Memory hook: old with old, after a long wait on ice, fills the biggest coffin.
+
+== 248
+# book 50.3: a potential recipient with a recent blood transfusion -> A, perform a prospective crossmatch.
+# red doughnuts given recently, so the soldier ants may have new wanted posters -> transfusion can raise antibodies (audited red doughnuts, soldier ants)
+# ANSWER: Chopper mixing a drop of the patient's serum with the donor's cells in a little glass before planting -> prospective crossmatch
+# a computer list, a two-week calendar, a test done after planting, a pre-emptive spray -> virtual, delayed PRA, retrospective crossmatch, thymoglobulin (B-E wrong)
+title: Recent transfusion before heart transplantation: a prospective crossmatch
+titleAr: نقل دم حديث قبل زرع القلب: اختبار تصالب مستقبليّ
+tags: cardiac/heart-failure d:technique q:recall l:3
+palette: laboratory white, doughnut red and wanted-poster brown
+keywords: recent transfusion -> red doughnuts floating in the patient's river, given two weeks ago; new antibodies -> the patient's soldier ants busy printing fresh wanted posters; prospective crossmatch -> Chopper mixing a drop of the patient's serum with a few of the donor hotel's cells in a little glass, BEFORE planting, watching whether any ant attacks; virtual crossmatch -> an old computer list of wanted posters, out of date; retrospective crossmatch -> a test glass left for after the hotel is planted
+must: the test in the little glass happens BEFORE the new hotel is planted
+scene: The sick bay of the Thousand Sunny, a lab bench. CENTRE, dominant and brightest: Chopper mixing a drop of the patient's serum with a few cells from the donor hotel in a little glass, peering in to see whether any soldier ant attacks, BEFORE the new HART Hotel, waiting in its cooler, is planted. LEFT: the patient, red doughnuts floating in his river, his soldier ants busy printing fresh wanted posters. RIGHT: Usopp holding an old computer list of wanted posters and a two-week calendar. Nami.
+story:
+على ظهر الثاوزند صني، انتظر بحّار فندقًا جديدًا، وفي نهره كعكات حمراء أعطيها قبل أسبوعين.
+ومنذ جاءت الكعكات، أخذ نمل الحرّاس عنده يطبع ملصقات مطلوبين جديدة.
+«عندي قائمة ملصقاته القديمة في الحاسوب؛ تكفي! أو نزرع الآن ونختبر بعد ذلك!» قال أوسوب.
+لكنّ القائمة القديمة لم يكن فيها شيء من الملصقات الجديدة.
+فأخذ تشوبر قطرةً من ماء دم البحّار، وبضع خلايا من الفندق المنتظر في صندوق الثلج، ومزجهما في كأس صغيرة قبل الزرع.
+ثمّ نظر في الكأس طويلًا: هل تهجم نملة واحدة على خلايا الفندق؟
+«بعد كعكات حمراء جديدة، نختبر في الكأس قبل أن نزرع!» قال تشوبر.
+فلمّا لم تهجم نملة واحدة، رفع الكأس عاليًا، وأمر بإحضار الفندق إلى الأصيص.
+quote:
+source:
+explanation:
+A recent blood transfusion can raise new anti-HLA antibodies, so a prospective crossmatch is done before the transplant: A.
+In the picture, Chopper mixes a drop of the patient's serum with the donor's cells in a little glass before the new hotel is planted, to see whether any ant attacks.
+A virtual crossmatch relies on an antibody profile that may be out of date after a transfusion, the old list of wanted posters.
+Waiting two weeks for a new antibody screen, or accepting the heart and waiting for a retrospective crossmatch, risks hyperacute or early antibody-mediated rejection, and pretreatment with thymoglobulin does not remove the danger.
+Memory hook: after new red doughnuts, test the glass before you plant.
+
+== 249
+# book 50.4: part of the donor heart most at risk during procurement -> B, the donor left atrium on the left side.
+# ANSWER: the red lobby's left edge, by the left money pipes, where the lung team pulls the sacks away and the cut can leave too little wall (audited dollar)
+# the master cutter drawing a generous chalk line on that edge; Zoro bowing to him -> the lead-in
+title: Donor procurement: the left atrium on the left side is most at risk
+titleAr: أخذ قلب المتبرّع: الأذين الأيسر من جهته اليسرى هو الأكثر عرضة للأذى
+tags: cardiac/heart-failure d:technique q:recall l:3
+palette: Water 7 dock blue, chalk white and lobby red
+keywords: donor heart procurement -> a master cutter freeing the donor HART Hotel to lift it into a cooler, while a second team takes the sacks of dollar bills; left atrial cuff on the left side -> the red atrium lobby's wall on its LEFT edge, by the left money pipes, where the master cutter draws his chalk line generously wide; lung procurement -> the second team pulling the money sacks away by their pipes, tugging at the red lobby's left edge
+must: the danger point is the red lobby's LEFT edge, by the left money pipes, and the chalk line there is drawn wide
+scene: An open-air dock in Water 7. CENTRE, dominant and brightest: a master cutter freeing a donor HART Hotel, drawing a chalk line generously wide on the LEFT edge of its red lobby, by the left money pipes, while a second team pulls the sacks of green dollar bills away by their pipes, tugging at that edge. LEFT: Usopp urging the cutter to cut close. RIGHT: Roronoa Zoro, the green-haired swordsman, his three swords laid down, bowing deeply to the master cutter. Chopper.
+story:
+على رصيف في ووتر سيفن، كان نجّار ماهر يحرّر فندقًا متبرّعًا به، ليحمله إلى صندوق الثلج.
+وإلى جانبه فريق آخر يسحب كيسي الدولارات من أنابيبهما، ليزرعهما لبحّار آخر.
+«اقطع قريبًا من الردهة الحمراء، حتّى تطول أنابيب الكيسين!» قال أوسوب للنّجّار.
+فلمّا شدّ الفريق الآخر الكيسين، انجرّت حافّة الردهة الحمراء اليسرى، عند الأنابيب اليسرى، حتّى كاد لا يبقى منها ما يخاط.
+فأوقفهم النجّار، ورسم بالطّباشير خطّه على الحافّة اليسرى واسعًا سخيًّا، ثمّ قطع عليه بيد ثابتة.
+«الحافّة اليسرى للرّدهة الحمراء، عند الأنابيب اليسرى، هي أكثر ما يضيع إذا رحل الكيسان!» قال تشوبر.
+فخرج الفندق بحافّة كاملة، وخرج الكيسان بأنابيب تكفيهما.
+فأعجبت زورو دقّة القطع، فركع على ركبة واحدة أمام النجّار، كما ركع يومًا أمام أقوى سيّاف في العالم، وقال:
+quote: «أرجوك، علّمني فنّ السيف!»
+source: رورونوا زورو
+explanation:
+During procurement, the part of the donor heart most at risk is the left atrium on its left side, where the left pulmonary veins enter: B.
+When the lungs are taken as well, the left atrial cuff is shared between the two teams, and on the left side, close to the left pulmonary veins, too little atrial wall may be left for the anastomosis: the red lobby's left edge.
+The right atrium, the venae cavae and the pulmonary artery are easier to see and to leave with enough length.
+Memory hook: guard the red lobby's left edge when the money sacks leave with their pipes.
+
+== 250
+# book 50.5: share of heart transplant recipients with cardiac allograft vasculopathy at 5 years -> C, 30 percent.
+# ANSWER: of ten transplanted hotels, five years on, three with crowns whose spikes are evenly narrowed along their whole length by smooth white scale -> CAV in about 30 percent (audited crown)
+title: Five years after heart transplantation, about 30 percent have allograft vasculopathy
+titleAr: بعد خمس سنوات من زرع القلب، نحو 30 في المئة لديهم اعتلال أوعية الطُّعم
+tags: cardiac/heart-failure d:evidence q:numbers l:2
+palette: Zou forest green, scale white and anniversary gold
+words: 3, 5
+note: Registry figures vary a little between eras; the book's figure is used.
+keywords: heart transplantation -> ten new HART Hotels in terracotta flowerpots, five years after planting; cardiac allograft vasculopathy -> the green crown on three of the ten hotels with its spikes evenly narrowed along their whole length by smooth white scale laid down by tiny white soldier ants, not by spots of black tar; five years -> a cake with five candles
+must: three of the ten crowns are evenly furred with white scale along their whole length
+scene: An anniversary party on Zou, a cake with five candles. CENTRE, dominant and brightest: ten HART Hotels in terracotta flowerpots in a row; on three of them the green crown's spikes are evenly narrowed along their whole length by smooth white scale laid down by tiny white soldier ants, 3 painted on their pots, 5 on the cake. LEFT: Usopp counting on his fingers. Chopper with a magnifying glass.
+story:
+في جزيرة زو، على ظهر الفيل العملاق، احتفل عشرة بحّارة بمرور خمس سنوات على زرع فنادقهم الجديدة، حول كعكة عليها خمس شمعات.
+«الفنادق الجديدة لا تشيخ أبدًا؛ تيجانها كلّها نظيفة!» قال أوسوب.
+فمرّ تشوبر على الفنادق بعدسته واحدًا واحدًا.
+فوجد في ثلاثة منها أشواك التاج الأخضر قد ضاقت على طولها كلّه، بطبقة بيضاء ملساء بناها نمل الحرّاس الأبيض من الداخل.
+لا بقع قطران سوداء هنا وهناك، بل ضيق واحد متّصل من أوّل الشوكة إلى آخرها.
+«بعد خمس سنوات، ثلاثة فنادق من عشرة قد كسا النمل أشواك تيجانها بالطّبقة البيضاء!» قال تشوبر.
+فوضع أوسوب قطعة الكعك من يده، وأخذ يعدّ على أصابعه: ثلاثة من عشرة.
+quote:
+source:
+explanation:
+About 30 percent of heart transplant recipients have cardiac allograft vasculopathy (CAV) at 5 years: C.
+In the picture, five years on, three of ten transplanted hotels have crowns whose spikes are evenly narrowed by white scale.
+CAV is an immune-driven, diffuse and concentric thickening of the intima along the whole length of the coronary arteries, unlike the focal plaques of ordinary atherosclerosis, so it is rarely suited to bypass or stenting.
+It rises to about half of recipients by 10 years and is a leading cause of late death and retransplantation.
+Memory hook: three crowns in ten furred with white scale after five years.
