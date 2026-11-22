@@ -1,0 +1,295 @@
+book: johns-hopkins-2016
+# Lessons 251-260 (book 51.1-52.5: mechanical circulatory support, ischaemic cardiomyopathy and surgical ventricular
+# restoration). Written 2026-11-22, night. Each story: a hook, a wrong try that fails, the answer acting, a payoff line
+# that names the symbol, and a lead-in that says who speaks the quotation and why it fits.
+# QUOTATION PENDING (251, 252, 254, 255, 256, 257, 258, 259): the pool of One Piece lines allowed by quoteRepeats is
+# exhausted; the owner decides. Those stories stop at the payoff; add the lead-in and Q lines before building.
+
+== 251
+# book 51.1: NOT an accepted use of mechanical circulatory support -> D, bridge to donation.
+# Darth Vader's knight in four accepted roles: holding the fort until a new hotel arrives (bridge to transplant), living in the hotel for good (destination), leaving once the fan spins again (recovery), standing on a stepping stone while a council decides (bridge to bridge) (audited vader)
+# ANSWER: a bridge to an office that takes the hotel's parts for others, crossed out -> bridge to donation is not accepted
+title: Mechanical circulatory support is not a bridge to organ donation
+titleAr: الدعم الدورانيّ الميكانيكيّ ليس جسرًا إلى التبرّع بالأعضاء
+tags: cardiac/heart-failure d:indications q:recall l:2
+palette: space-knight black, bridge stone and office grey
+keywords: ventricular assist device -> a black-helmeted dark space knight (Darth Vader) in a long cape, his little pump bolted into the red engine room; bridge to transplant -> Vader holding the fort until a new hotel arrives by ship; destination therapy -> Vader living in the hotel for good, his name painted on the doorbell; bridge to recovery -> Vader packing his cape as the hotel's own fan spins strongly again; bridge to bridge -> Vader standing on a stepping stone while a council of doctors decides; bridge to donation -> a bridge leading to an office that takes a hotel's parts for others, crossed out with a big X
+must: the bridge to the donation office is crossed out; the four other roles are shown
+scene: A harbour at night with a long stone bridge. CENTRE, dominant and brightest: a bridge leading to a grey office that takes a hotel's parts for others, crossed out with a huge X. AROUND, four scenes of a black-helmeted dark space knight (Darth Vader) in a long cape, his little pump bolted into a HART Hotel's red engine room: holding the fort until a new hotel arrives by ship; living in the hotel for good, his name on the doorbell; packing his cape as the hotel's own fan spins strongly again; standing on a stepping stone while a council decides. LEFT: Usopp pointing at the crossed-out bridge. Chopper.
+story:
+في ميناء ليليّ عند جسر حجريّ طويل، جلس فارس فضائيّ أسود الخوذة ينتظر مهامّه، ومضخّته الصغيرة مثبّتة في غرفة المحرّك الحمراء من فندق متعب.
+مرّةً يحرس الفندق حتّى يصل فندق جديد على سفينة، ومرّةً يسكنه إلى الأبد واسمه على الجرس.
+ومرّةً يطوي عباءته ويرحل حين تعود مروحة الفندق تدور بقوّتها، ومرّةً يقف على حجر في النهر حتّى يقضي مجلس الأطبّاء أمره.
+«وله مهمّة خامسة: يبقي الفندق حيًّا حتّى نأخذ قطعه لغيره!» قال أوسوب، وأشار إلى جسر يفضي إلى مكتب رماديّ.
+فوقف الفارس عند أوّل الجسر، وهزّ خوذته السوداء، ولم يخط عليه خطوة.
+«الفارس جسر إلى فندق جديد، أو إلى الشفاء، أو إلى قرار، أو رفيق مدى العمر؛ وليس جسرًا إلى مكتب القطع!» قال تشوبر.
+فرسم تشوبر على ذلك الجسر علامة إكس كبيرة، وعاد الفارس إلى حراسة فندقه.
+quote:
+source:
+explanation:
+Mechanical circulatory support is used as a bridge to transplantation, as destination therapy, as a bridge to recovery and as a bridge to a decision about candidacy (bridge to bridge); a "bridge to donation" is not an accepted use: D.
+In the picture, the dark knight holds the fort until a new hotel comes, lives in the hotel for good, leaves when its own fan recovers, or waits on a stepping stone while a council decides; the bridge to the donation office is crossed out.
+Support is chosen for the patient's own benefit; keeping a patient alive only to assess or preserve organs for others is not an indication.
+Memory hook: the knight bridges to a new hotel, to recovery, to a decision or for life, never to a parts office.
+
+== 252
+# book 51.2: contraindication to mechanical circulatory support -> B, dialysis-dependent renal failure.
+# candidates for Darth Vader's knight: one needing two knights (BiVAD), one whose orca mouth drips moderately (AI, repaired at the same time), one with Pinocchio (AF), one with an oval cat flap (PFO, closed) (audited vader, mouth, pinocchio, cat flap)
+# ANSWER: the one whose kidney beans are shrivelled grey and tied to a washing machine -> dialysis dependence (audited kidney bean)
+title: Dialysis-dependent renal failure contraindicates mechanical circulatory support
+titleAr: الفشل الكلويّ المعتمد على الغسيل يمنع الدعم الدورانيّ الميكانيكيّ
+tags: cardiac/heart-failure d:indications q:recall l:2
+palette: Fishman Island blue, washing-machine white and bean grey
+keywords: ventricular assist device -> a black-helmeted dark space knight (Darth Vader) in a long cape, his little pump bolted into the red engine room; biventricular support -> a candidate getting two such knights, one for each engine room; moderate aortic insufficiency -> a candidate whose orca's mouth sags and drips a little, to be stitched at the same time; atrial fibrillation -> a candidate with Pinocchio trembling in his upper lobby; patent foramen ovale -> a candidate with an oval cat flap in his upper party wall, to be shut; dialysis-dependent renal failure -> a candidate whose kidney beans are shrivelled grey and tied to a churning washing machine, turned away
+must: only the candidate tied to the washing machine is turned away; the four others get their knight
+scene: A clinic on Fishman Island, deep-sea blue. CENTRE, dominant and brightest: a candidate whose kidney beans are shrivelled grey and tied to a churning washing machine, turned away at the door. LEFT, four candidates being fitted with a black-helmeted dark space knight (Darth Vader) in a long cape: one getting two knights, one whose orca's mouth sags and drips a little, one with Pinocchio trembling in his upper lobby, one with an oval cat flap in his upper party wall. Usopp waving the washing-machine candidate in. Chopper.
+story:
+في عيادة بجزيرة الرجال السمك، اصطفّ خمسة مرضى ينتظرون الفارس الأسود الخوذة.
+الأوّل يحتاج إلى فارسين، واحد لكلّ غرفة محرّك؛ والثّاني يتدلّى فم حوته ويقطر قليلًا.
+والثّالث يرتجف بينوكيو في ردهته العليا؛ والرّابع في الجدار الفاصل بين ردهتيه باب صغير بيضويّ للقطط.
+«الأوّل يحتاج فارسين؟ هذا كثير جدًّا؛ نردّه!» قال أوسوب.
+لكنّ الفارسين دخلا غرفتيه معًا وأدارا مروحتيه، وخيط فم الحوت للثّاني، وأغلق باب القطط للرّابع، ولم يمنع بينوكيو الثالث من فارسه.
+أمّا الخامس، فحبّتا فاصوليائه قد ذبلتا رماديّتين، وهو مربوط إلى غسّالة تدور لتنظّف نهره.
+«فارسان، وفم يقطر، وبينوكيو، وباب القطط: كلّ ذلك يعالج؛ أمّا الفاصولياء المربوطة إلى الغسّالة فلا!» قال تشوبر.
+فأطرق الفارس الأسود، وبقي عند الباب لا يدخل فندق الخامس.
+quote:
+source:
+explanation:
+Dialysis-dependent renal failure is a contraindication to mechanical circulatory support: B.
+Irreversible end-organ failure means the patient is unlikely to benefit, and kidney failure markedly raises the risk of death after implantation: the shrivelled beans tied to the washing machine.
+The need for support of both ventricles is not a contraindication: biventricular devices exist.
+Moderate aortic insufficiency is repaired or the valve replaced at the same operation, and a patent foramen ovale is closed, because the device would otherwise worsen regurgitation or open a right-to-left shunt.
+Atrial fibrillation is common in these patients and does not prevent support.
+Memory hook: two knights, a dripping mouth, a trembling Pinocchio and a cat flap can all be handled; beans tied to the washing machine cannot.
+
+== 253
+# book 51.3: permanent mechanical circulatory devices -> A, implantation is usually performed on cardiopulmonary bypass.
+# ANSWER: the roller-pump truck running while Darth Vader's pump is bolted into the tip of the red engine room (audited roller-pump, vader)
+# the outflow sewn to the orca's front climb, the rat in a helmet, the cable out through the skin -> ascending aorta, warfarin required, driveline (audited rat)
+# Usopp's chalk mark on the right money pipe -> inflow is the LV apex, not the right superior pulmonary vein (B wrong) (audited dollar)
+title: Permanent ventricular assist devices are implanted on cardiopulmonary bypass
+titleAr: تُزرع أجهزة دعم البطين الدائمة على المجازة القلبيّة الرئويّة
+tags: cardiac/heart-failure d:technique q:recall l:2
+palette: starship black, pump-truck orange and saber red
+keywords: cardiopulmonary bypass -> a big roller-pump truck parked beside the hotel, its hoses plugged into the chimney and the orca, running while the knight's pump is fitted; left ventricular assist device -> a black-helmeted dark space knight (Darth Vader) in a long cape, his little pump bolted into the tip of the red engine room, pushing straight into the orca; outflow graft -> a short pipe from the knight's pump sewn to the orca's front climb; anticoagulation -> a rat in a soldier's helmet sitting on the knight's shoulder; driveline -> a cable running out through the skin to batteries on the knight's belt; pulmonary vein -> Usopp's wrong chalk mark on a money pipe in the red lobby
+must: the roller-pump truck is running while the pump is bolted into the TIP of the red engine room
+scene: A starship hangar, black and orange. CENTRE, dominant and brightest: a big roller-pump truck running beside a HART Hotel, its hoses plugged into the chimney and the orca, while a black-helmeted dark space knight (Darth Vader) bolts his little pump into the tip of the red engine room, a short pipe from it sewn to the orca's front climb; a rat in a soldier's helmet on his shoulder; a cable running out through the skin to batteries on his belt; his red light-sword glowing. LEFT: Usopp's wrong chalk mark on a money pipe. RIGHT: Roronoa Zoro, the green-haired swordsman, hand on his three swords, facing the knight's glowing sword. Chopper.
+story:
+في مرأب للسّفن الفضائيّة، جاء فارس فضائيّ أسود الخوذة في عباءة طويلة، يريد أن يسكن فندق بحّار متعب.
+«يركّب مضخّته والفندق يعمل، ويصلها بأنبوب الدولارات هنا!» قال أوسوب، ورسم بالطّباشير علامةً على أنبوب في الردهة الحمراء.
+لكنّ الفندق كان يخفق ويرتجّ، فلم يثبت فيه مسمار واحد.
+فأحضر تشوبر شاحنة المضخّة الكبيرة، ووصل خراطيمها بالمدخنة وبالحوت، فحملت عن الفندق عمله وهدأ.
+فثبّت الفارس مضخّته في طرف غرفة المحرّك الحمراء، وخيط أنبوبها إلى الجزء الصاعد من الحوت، وخرج كابله من الجلد إلى بطّاريّات على حزامه.
+وقفز على كتفه جرذ في خوذة جنديّ، لن يفارقه بعد اليوم.
+«شاحنة المضخّة تعمل، والفارس يثبّت مضخّته في طرف الغرفة الحمراء، والجرذ على كتفه!» قال تشوبر.
+فلمّا انتهى الفارس، أشعل سيفه الضوئيّ الأحمر متباهيًا، وقال إنّه أعظم من يحمل سيفًا في المجرّة.
+فوضع زورو يده على سيوفه الثلاثة، وقال له ما قاله يومًا لمبارز تباهى أمامه في أورانج تاون:
+quote: «سيوفي تطمح أن تكون الأعظم في العالم؛ لا أقبل أن أخسر أمام أحد يسمّي نفسه مبارزًا!»
+source: رورونوا زورو
+explanation:
+Permanent ventricular assist devices are usually implanted on cardiopulmonary bypass: A.
+In the picture, the roller-pump truck runs while the dark knight's pump is bolted into the tip of the red engine room.
+The inflow cannula goes into the left ventricular apex, not the right superior pulmonary vein, and the outflow graft is usually sewn to the ascending aorta, the orca's front climb.
+Anticoagulation with warfarin, the rat in the helmet, is required for current devices, not optional.
+The pump sits in the pericardium or a preperitoneal pocket, never inside the peritoneal cavity, and the driveline is tunnelled out through the abdominal wall.
+Memory hook: the pump truck runs while the dark knight bolts his pump into the tip.
+
+== 254
+# book 51.4: echocardiographic plane best for assessing the mitral valve during LVAD implantation -> D, vertical long axis.
+# a bat holding up five picture frames of the hotel; only the tall vertical frame shows the mitre's two leaves from top to bottom, opening and closing (audited bat, mitre)
+title: During LVAD implantation, the mitral valve is assessed in the vertical long axis
+titleAr: أثناء زرع جهاز دعم البطين الأيسر يُقيَّم الصمّام التاجيّ في المحور الطويل العموديّ
+tags: cardiac/heart-failure d:diagnosis q:recall l:3
+palette: gallery cream, frame gold and bat brown
+keywords: echocardiography -> a bat sending out rings of sound and holding up five picture frames of the hotel; vertical long axis -> the one tall vertical frame showing the bishop's mitre's two leaves from top to bottom, opening and closing; other planes -> four other frames (a round slice, a flat front view, a slanted cut and a cross-section) showing only bits of the mitre
+must: only the tall vertical frame shows the mitre's two leaves whole, from top to bottom
+scene: A picture gallery in Water 7. CENTRE, dominant and brightest: a bat holding up a tall vertical picture frame in which the bishop's mitre's two leaves are seen whole from top to bottom, opening and closing. AROUND, dimmer: four other frames (a round slice, a flat front view, a slanted cut and a cross-section), each showing only a bit of the mitre. LEFT: Usopp admiring the round slice. Chopper.
+story:
+في معرض صور بووتر سيفن، أراد تشوبر أن يرى تاج الأسقف قبل أن يسكن الفارس الأسود الفندق.
+فجاء الخفّاش يرسل حلقات صوته، ورفع خمسة أطر للصّور.
+«هذا الإطار المستدير أجملها!» قال أوسوب؛ لكنّه لم يظهر من التاج إلّا شريحةً صغيرة.
+والإطار المسطّح والمائل والعرضيّ، كلّ منها أظهر قطعةً من التاج لا تكفي.
+أمّا الإطار الطويل العموديّ، فأظهر ورقتي التاج كاملتين من أعلاهما إلى أسفلهما، تنفتحان وتنغلقان.
+«الإطار الطويل العموديّ يرينا تاج الأسقف كلّه!» قال تشوبر.
+فرأى تشوبر فيه أنّ التاج ليس ضيّقًا، فأذن للفارس أن يدخل.
+quote:
+source:
+explanation:
+In the book, the vertical long-axis plane is the best for assessing the mitral valve during LVAD implantation: D.
+It shows both leaflets along their length, so their motion, any prolapse and the jet of regurgitation can be judged: the tall vertical frame.
+The mitral valve matters because significant stenosis must be corrected before the pump starts, while functional regurgitation usually improves once the ventricle is unloaded.
+Memory hook: a tall frame for the mitre.
+
+== 255
+# book 51.5: device-specific complications of mechanical circulatory support -> D, overall infection rates are about 30 percent.
+# ANSWER: three of ten knights' patients with broccoli sprouting where the cable leaves the skin -> infections in about 30 percent (audited vader)
+# red doughnuts for most of them; a beaver in only one pump -> transfusion in most (A wrong); bleeding, not thromboembolism, the commonest (C wrong) (audited red doughnuts, beaver)
+title: Mechanical circulatory support: infections in about 30 percent
+titleAr: الدعم الدورانيّ الميكانيكيّ: العدوى في نحو 30 في المئة
+tags: cardiac/heart-failure d:complications q:numbers l:2
+palette: battery green, broccoli green and doughnut red
+words: 3
+note: Infection rates vary with the device and the length of support; the book's figure is used.
+keywords: ventricular assist device -> ten patients, each with a black-helmeted dark space knight (Darth Vader) bolted into his red engine room, a cable running out through the skin to batteries; driveline infection -> broccoli sprouting where the cable leaves the skin on three of the ten; transfusion -> red doughnuts floating into the rivers of most of the ten; pump thrombosis -> a beaver building a dam inside just one pump; long-term antibiotics -> a giant pencil left unused on the shelf
+must: three of the ten have broccoli at the cable's exit; most have red doughnuts; only one pump has a beaver
+scene: A recovery ward lit by battery lights. CENTRE, dominant and brightest: ten patients in a row, each with a black-helmeted dark space knight (Darth Vader) bolted into his HART Hotel and a cable running out through the skin to batteries; on three of them broccoli sprouts where the cable leaves the skin, 3 painted above them. Red doughnuts float into the rivers of most of the ten; a beaver builds a dam inside just one pump. A giant pencil lies unused on a shelf. Usopp. Chopper.
+story:
+في جناح تضيئه مصابيح البطّاريّات، رقد عشرة بحّارة، في فندق كلّ منهم فارس أسود الخوذة، وكابله يخرج من الجلد إلى البطّاريّات.
+«أكبر خطر عليهم قندس يسدّ المضخّات!» قال أوسوب.
+لكنّهم لم يجدوا القندس إلّا في مضخّة واحدة، أمّا الكعكات الحمراء فقد طفت في أنهار أكثرهم.
+ثمّ نظر تشوبر حيث تخرج الكابلات من الجلد، فإذا البروكلي ينبت هناك عند ثلاثة من العشرة.
+«إذن نرسم بالقلم العملاق حول كلّ كابل إلى الأبد!» قال أوسوب.
+فأعاد تشوبر القلم إلى الرفّ، وأخذ ينظّف مخارج الكابلات كلّ يوم.
+«ثلاثة كابلات من عشرة ينبت عندها البروكلي؛ والكعكات الحمراء لأكثرهم، والقندس قليل!» قال تشوبر.
+quote:
+source:
+explanation:
+Overall infection rates with mechanical circulatory support are about 30 percent: D.
+Most are infections of the driveline where it leaves the skin, the broccoli at the cable's exit; pump-pocket infections and bloodstream infections are less common but more serious.
+Long-term suppressive antibiotics are not routinely necessary, the unused pencil; good driveline care prevents most infections.
+Bleeding, not thromboembolism, is the commonest complication, and most patients need transfusion, the red doughnuts; organ failure after implantation is not rare.
+Memory hook: three cables in ten sprout broccoli.
+
+== 256
+# book 52.1: pathophysiology of ischaemic remodelling -> B, concomitant mitral insufficiency worsens global systolic function.
+# the red engine room stretched like an over-pulled accordion, turning from a rugby ball into a round football -> ischaemic cardiomyopathy, more spherical (audited accordion)
+# ANSWER: the red pillars pulled apart, the mitre's leaves tented, water gurgling back so the fan works harder and pumps less -> MR worsens global function (audited mitre, gurgling)
+# the lace balloon thinning and straining -> wall stress rises (E wrong) (audited lace)
+title: Ischaemic remodelling: mitral regurgitation worsens global systolic function
+titleAr: إعادة تشكّل البطين الإقفاريّة: القلس التاجيّ يُضعف الوظيفة الانقباضيّة كلّها
+tags: cardiac/heart-failure cardiac/mitral-tricuspid d:physiology q:recall l:3
+palette: accordion red, rugby brown and lace white
+note: An increase in left ventricular end-systolic volume (option A) is also a feature of remodelling; the book's key is B and is kept.
+keywords: ischaemic cardiomyopathy -> the red engine room stretched wide and floppy like an over-pulled accordion, turning from a rugby ball into a round football; functional mitral regurgitation -> the red pillars pulled apart so the bishop's mitre's leaves are tented open, water gurgling back into the lobby; worse systolic function -> the engine room's fan straining harder yet pushing less water into the orca; wall stress -> the room's wall becoming a balloon of thin white lace, thinning and straining
+must: the water gurgling back through the tented mitre makes the fan push LESS into the orca
+scene: A music hall with an accordion band. CENTRE, dominant and brightest: a HART Hotel whose red engine room is stretched wide and floppy like an over-pulled accordion, turned from a rugby ball into a round football; its red pillars pulled apart so the bishop's mitre's leaves are tented open, water gurgling back into the lobby; the fan straining hard yet pushing only a trickle into the orca. Its wall a balloon of thin white lace, thinning. LEFT: a rugby ball and a football side by side on a shelf. Usopp pointing at the orca's mouth. Chopper.
+story:
+في قاعة للموسيقى، كانت غرفة المحرّك الحمراء في فندق عجوز قد تمدّدت كأكورديون شدّ أكثر من طاقته.
+وكانت يومًا على شكل كرة الرغبي، فصارت مستديرةً ككرة القدم، ورقّ جدارها حتّى صار دانتيلًا مشدودًا.
+فتباعدت الأعمدة الحمراء، وشدّت أوتارها ورقتي تاج الأسقف إلى أسفل، فصار الماء يقرقر راجعًا إلى الردهة.
+«لا بأس ببعض الماء الراجع؛ المروحة قويّة تكفي!» قال أوسوب.
+لكنّ المروحة أخذت تدور أسرع وتتعب أكثر، ولا يصل إلى الحوت إلّا خيط رفيع من الماء، والغرفة تتّسع أكثر.
+«التاج الّذي يقرقر راجعًا يتعب الأكورديون المشدود، فيدفع أقلّ وأقلّ!» قال تشوبر.
+فوضع تشوبر كرة الرغبي وكرة القدم جنبًا إلى جنب على الرفّ، ليتذكّر الجميع كيف تغيّر شكل الغرفة.
+quote:
+source:
+explanation:
+In ischaemic remodelling, mitral regurgitation that develops as the ventricle dilates worsens global systolic function: B.
+The papillary muscles are pulled apart, the leaflets tent and the valve leaks, the pillars and the tented mitre; the leak adds volume load, the ventricle dilates further, and forward output falls: the fan straining yet pushing less into the orca.
+The ventricle becomes more spherical, not more elliptical, the rugby ball turning into a football, and wall stress rises as it thins and dilates (Laplace), the straining lace balloon.
+Dilation leads to mitral, not aortic, insufficiency.
+Memory hook: a tented mitre that gurgles back makes the stretched accordion pump even less.
+
+== 257
+# book 52.2: NOT an indication for surgical ventricular restoration -> D, reduced right ventricular function.
+# candidates for the patch door: a big still part of the wall (asynergy over 35 percent), a huge engine room (volume index over 120), a still front wall (akinetic anterior), a taxi jam (heart failure) (audited patch door, jam)
+# ANSWER: the one whose BLUE engine room's fan is weak -> right ventricular dysfunction is a risk, not an indication (audited fan)
+title: Reduced right ventricular function is not an indication for ventricular restoration
+titleAr: ضعف وظيفة البطين الأيمن ليس استطبابًا لإعادة بناء البطين
+tags: cardiac/heart-failure d:indications q:recall l:3
+palette: Galley-La timber, patch-door brown and engine-room blue
+words: 35, 120
+keywords: surgical ventricular restoration -> a round patch door sewn into the scarred, ballooned part of the engine room's wall, shutting it off; asynergy over 35 percent -> the first candidate, more than a third of his red engine room's wall standing still, 35 on it; large left ventricular volume -> the second candidate's red engine room hugely enlarged round its big fan, 120 on its door; akinetic anterior wall -> the third candidate, the front wall of his red engine room frozen still; heart failure -> the fourth candidate, a traffic jam of yellow taxis round his hotel; reduced right ventricular function -> the fifth candidate, the fan of his BLUE engine room turning weakly, sent away
+must: the four with the red-room problems get the patch door; the one with the weak BLUE fan is sent away
+scene: The Galley-La shipyard. LEFT, four candidates each receiving a round patch door sewn into the scarred part of their red engine room: one with more than a third of the wall standing still, 35 on it; one with a hugely enlarged red engine room, 120 on its door; one with the front wall frozen still; one with a traffic jam of yellow taxis round his hotel. CENTRE, dominant and brightest: the fifth candidate, the fan of his BLUE engine room turning weakly, being sent away. Franky with the patch doors; Usopp pushing the fifth back in. Chopper.
+story:
+في حوض غالي لا، صنع فرانكي أبواب رقع مستديرة، تخاط في الجزء الميّت من جدار غرفة المحرّك الحمراء فتعزله.
+فجاء خمسة مرشّحين: الأوّل يقف أكثر من ثلث جدار غرفته الحمراء ساكنًا، وعليه خمسة وثلاثون.
+والثّاني اتّسعت غرفته الحمراء اتّساعًا هائلًا، وعلى بابها مئة وعشرون.
+والثّالث تجمّد الجدار الأماميّ من غرفته، والرّابع حول فندقه زحمة من سيّارات الأجرة الصفراء.
+فخاط فرانكي لكلّ منهم باب رقعة يعزل الجزء الميّت.
+«وهذا الخامس أيضًا، أعطه بابًا!» قال أوسوب، ودفع مرشّحًا خامسًا تدور مروحة غرفته الزرقاء بضعف.
+لكنّ فرانكي نظر إلى المروحة الزرقاء الضعيفة، وأنزل باب الرقعة.
+«أبواب الرقع للغرف الحمراء الكبيرة الساكنة؛ أمّا المروحة الزرقاء الضعيفة فليست سببًا للباب، بل خطر عليه!» قال تشوبر.
+quote:
+source:
+explanation:
+Reduced right ventricular function is not an indication for surgical ventricular restoration; it is a risk factor that argues against it: D.
+Restoration excludes scarred, non-contracting left ventricle with a patch, the patch door, in dilated hearts after anterior infarction.
+Indications include asynergy of more than 35 percent of the left ventricle, an end-diastolic volume index above 120 mL/m2, an akinetic or dyskinetic anterior wall and clinical heart failure.
+A weak right ventricle may fail after the operation: the weak blue fan.
+Memory hook: patch doors for big, still red rooms; not for a weak blue fan.
+
+== 258
+# book 52.3: relative contraindication to surgical ventricular restoration -> B, pulmonary hypertension.
+# candidates for the patch door: a single scar (favourable), tarred crown spikes (bypass at the same time), a gurgling mitre and a gurgling trident (repaired at the same time) (audited patch door, crown, gurgling)
+# ANSWER: the gauge on the money pipe in the red -> pulmonary hypertension (audited gauge)
+title: Pulmonary hypertension is a relative contraindication to ventricular restoration
+titleAr: ارتفاع الضغط الرئويّ مانع نسبيّ لإعادة بناء البطين
+tags: cardiac/heart-failure d:indications q:recall l:3
+palette: Skypiea cloud white, gauge red and tar black
+keywords: surgical ventricular restoration -> a round patch door sewn into the scarred part of the red engine room's wall; single area of infarction -> the first candidate, whose hart (the stag's head over the hotel door) was brought down by a single arrow, leaving one neat scar; coronary artery disease -> the second candidate's green crown with its spikes clogged by black tar, cabbage leaves ready; severe mitral regurgitation -> the third candidate's bishop's mitre gurgling, to be repaired at the same time; severe tricuspid regurgitation -> the fourth candidate's trident gurgling, to be repaired at the same time; pulmonary hypertension -> the fifth candidate, the pressure gauge on his pipe of dollar bills deep in the red, held back
+must: only the candidate with the gauge in the red is held back
+scene: A clinic among the clouds of Skypiea. LEFT, four candidates waiting for a round patch door: one with a single neat scar; one whose green crown's spikes are clogged with black tar, cabbage leaves ready; one whose bishop's mitre gurgles; one whose trident gurgles. CENTRE, dominant and brightest: the fifth candidate, the pressure gauge on his pipe of dollar bills deep in the red, held back at the door. Usopp. Chopper.
+story:
+في عيادة بين غيوم سكايبيا، اصطفّ خمسة ينتظرون أبواب الرقع المستديرة.
+الأوّل سقط أيّل فندقه بسهم واحد، فترك ندبةً واحدةً مرتّبة؛ والثّاني أشواك تاجه الأخضر مسدودة بالقطران الأسود، وأوراق الملفوف جاهزة له.
+والثّالث يقرقر تاج أسقفه، والرّابع يقرقر رمحه الثلاثيّ.
+والخامس عدّاد أنبوب دولاراته غارق في الأحمر.
+«الخامس أسهلهم؛ ليس في فندقه تاج يقرقر ولا قطران!» قال أوسوب.
+لكنّ تشوبر رأى مروحة الغرفة الزرقاء عنده تلهث تحت العدّاد الأحمر، فأوقفه عند الباب.
+«الندبة الواحدة، والقطران، والتّاج والرّمح اللذان يقرقران، تصلح كلّها مع الباب؛ أمّا العدّاد في الأحمر فنفكّر فيه طويلًا!» قال تشوبر.
+quote:
+source:
+explanation:
+Pulmonary hypertension is a relative contraindication to surgical ventricular restoration: B.
+It usually means advanced disease with a struggling right ventricle, and it raises the risk of the operation: the gauge deep in the red.
+A single area of infarction is the most favourable situation for restoration.
+Coronary disease is bypassed at the same operation, and severe mitral or tricuspid regurgitation is repaired at the same time: the cabbage leaves, the mitre and the trident.
+Memory hook: patch doors for the scarred, the tarred and the gurgling; hold back the gauge in the red.
+
+== 259
+# book 52.4: NOT a goal of surgical ventricular restoration -> E, keeping nonfunctional myocardium to prevent arrhythmias.
+# goals: cabbage leaves on every living spike of the crown, the patch door shutting off the dead scar, a repaired mitre, the room reshaped from a football back to a rugby ball (audited cabbage, patch door, mitre)
+# ANSWER: Usopp clinging to the dead scar to "stop the sparks", while sparks fly from the scar itself -> the scar is kept out, not kept
+title: Ventricular restoration does not keep dead myocardium
+titleAr: إعادة بناء البطين لا تُبقي العضلة الميتة
+tags: cardiac/heart-failure d:technique q:recall l:3
+palette: carpenter's workshop pine, cabbage green and spark yellow
+keywords: revascularisation of viable territories -> cabbage leaves laid over every living spike of the green crown; reduction of nonfunctional myocardium -> a round patch door shutting off the dead, scarred part of the red engine room's wall; mitral repair -> the bishop's mitre being repaired; elliptical shape -> the red engine room reshaped from a round football back into a rugby ball; keeping the scar to stop the sparks -> Usopp hugging the dead scar to keep it, while crackling sparks fly out of the scar itself
+must: the sparks come OUT OF the dead scar Usopp hugs; the patch door shuts the scar off
+scene: A carpenter's workshop. CENTRE, dominant and brightest: Usopp hugging a dead grey scar on a HART Hotel's red engine room wall, trying to keep it, while crackling sparks fly out of the scar itself. AROUND: Chopper and Franky laying cabbage leaves over every living spike of the green crown, fitting a round patch door to shut off the scar, repairing the bishop's mitre, and reshaping the red engine room from a round football back into a rugby ball.
+story:
+في ورشة نجّار، كان في جدار الغرفة الحمراء لفندق عجوز ندبة رماديّة ميّتة كبيرة.
+فمدّ تشوبر أوراق الملفوف على كلّ شوكة حيّة في التاج الأخضر، وأصلح تاج الأسقف.
+ثمّ جاء فرانكي بباب رقعة مستدير يعزل به الندبة الميّتة، ويعيد الغرفة من كرة قدم إلى كرة رغبي.
+«لا تعزلوا الندبة! أبقوها، فهي تحمي الفندق من الشرر!» صاح أوسوب، واحتضن الندبة بذراعيه.
+لكنّ الشرر أخذ يتطاير من الندبة نفسها، يطقطق في وجه أوسوب.
+«الندبة هي الّتي تقدح الشرر؛ نعزلها خلف الباب، ولا نحتضنها!» قال تشوبر.
+فأفلت أوسوب الندبة مسرعًا، وأغلق عليها باب الرقعة إلى الأبد.
+quote:
+source:
+explanation:
+Keeping nonfunctional myocardium to prevent arrhythmias is not a goal of surgical ventricular restoration: E.
+The scar is the usual source of ventricular arrhythmias, the sparks flying out of the scar Usopp hugs, so it is excluded, not kept, and arrhythmia surgery or a defibrillator is added when needed.
+The goals are to revascularise all viable territories (cabbage leaves on every living spike), to reduce the size of the nonfunctional anteroseptal wall (the patch door), to repair valvular regurgitation (the mitre) and to recreate the elliptical shape of the ventricle (the rugby ball).
+Memory hook: shut the sparking scar away behind the patch door; never hug it.
+
+== 260
+# book 52.5: physiological changes after surgical ventricular restoration -> A, both LV end-systolic and end-diastolic volumes decrease.
+# ANSWER: after the patch door, the red engine room smaller both when fullest and when emptiest, two marks on a measuring tape both lower (audited patch door)
+# the bouncer throwing out more (EF rises), the hands on the vase relaxing (noradrenaline falls), the room wringing like a towel again (torsion improves) (audited bouncer, vase)
+title: After ventricular restoration, end-systolic and end-diastolic volumes both fall
+titleAr: بعد إعادة بناء البطين، ينخفض الحجمان الانقباضيّ والانبساطيّ كلاهما
+tags: cardiac/heart-failure d:physiology q:recall l:3
+palette: Kuraigana grey, tape-measure yellow and engine-room red
+keywords: surgical ventricular restoration -> a round patch door sewn into the scarred part of the red engine room's wall; smaller end-systolic and end-diastolic volumes -> a tailor's measuring tape round the red engine room with both its marks, at fullest and at emptiest, moved lower; ejection fraction -> the bouncer at the engine room's door throwing out a bigger share of the guests; plasma norepinephrine -> two big hands that had been pressing a tall porcelain vase now relaxing; torsion -> the engine room wringing itself like a towel again with each beat
+must: BOTH marks on the measuring tape are lower after the patch door
+scene: Kuraigana Island, grey gloom. CENTRE, dominant and brightest: a HART Hotel with a round patch door sewn into the scarred part of its red engine room's wall; a tailor's measuring tape round the room with both its marks, at fullest and at emptiest, moved lower; the room wringing itself like a towel with each beat. AROUND: the bouncer at the engine room's door throwing out a bigger share of the guests; two big hands relaxing their grip on a tall porcelain vase. RIGHT: Roronoa Zoro, the green-haired swordsman, clenching his fist, looking up at a dark castle on the hill. Usopp. Chopper.
+story:
+في جزيرة كورايغانا الرماديّة، خيط في جدار غرفة المحرّك الحمراء عند بحّار باب رقعة مستدير، يعزل ندبتها الميّتة.
+«صغرت الغرفة حين تمتلئ، لكنّها حين تفرغ لن تتغيّر!» قال أوسوب.
+فلفّ تشوبر شريط قياس الخيّاط حول الغرفة، فإذا علامتاه كلتاهما قد نزلتا: علامة الامتلاء وعلامة الفراغ.
+وأخذ البوّاب عند باب الغرفة يطرد نصيبًا أكبر من الضيوف، وارتخت اليدان الكبيرتان عن المزهريّة الخزفيّة.
+وعادت الغرفة تعصر نفسها مع كلّ دقّة كما تعصر المنشفة.
+«بعد باب الرقعة، ينكمش الشريط عند طرفيه كليهما!» قال تشوبر.
+وكان زورو يراقب الغرفة الّتي ضعفت ثمّ عادت أقوى، فابتسم؛ فهو أيضًا جاء هذه الجزيرة الرماديّة ليتدرّب ويعود أقوى.
+فشدّ قبضته على سيف كوينا، وردّد القسم الّذي أقسمه وهو صبيّ يوم فقدها:
+quote: «سأصير أقوى! أقوى ممّا كانت هي! حتّى يبلغ اسمي السماء!»
+source: رورونوا زورو
+explanation:
+After surgical ventricular restoration, both left ventricular end-systolic and end-diastolic volumes decrease: A.
+In the picture, both marks on the tape round the red engine room move lower after the patch door.
+The ejection fraction rises, the bouncer throwing out a bigger share, and plasma noradrenaline falls as the heart failure eases: the hands relaxing on the vase.
+Torsion and filling improve as the ventricle regains a more normal shape and size.
+Memory hook: after the patch door, the tape shrinks at both ends.
