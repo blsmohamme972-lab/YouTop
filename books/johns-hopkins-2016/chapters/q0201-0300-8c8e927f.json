@@ -11555,6 +11555,7082 @@
      "means": "Wrong inflow site"
     }
    ]
+  },
+  {
+   "id": "jh-q0254",
+   "title": "During LVAD implantation, the mitral valve is assessed in the vertical long axis",
+   "titleAr": "أثناء زرع جهاز دعم البطين الأيسر يُقيَّم الصمّام التاجيّ في المحور الطويل العموديّ",
+   "tags": [
+    "cardiac/heart-failure",
+    "d:diagnosis",
+    "q:recall",
+    "l:3"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في معرض صور بووتر سيفن، أراد تشوبر أن يرى تاج الأسقف قبل أن يسكن الفارس الأسود الفندق.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.4
+       }
+      },
+      {
+       "text": "فجاء الخفّاش يرسل حلقات صوته، ورفع خمسة أطر للصّور.",
+       "t": 7555,
+       "spot": {
+        "x": 0.5,
+        "y": 0.15,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "«هذا الإطار المستدير أجملها!» قال أوسوب؛ لكنّه لم يظهر من التاج إلّا شريحةً صغيرة.",
+       "t": 13222,
+       "spot": {
+        "x": 0.15,
+        "y": 0.4,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "والإطار المسطّح والمائل والعرضيّ، كلّ منها أظهر قطعةً من التاج لا تكفي.",
+       "t": 21077,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.4
+       }
+      },
+      {
+       "text": "أمّا الإطار الطويل العموديّ، فأظهر ورقتي التاج كاملتين من أعلاهما إلى أسفلهما، تنفتحان وتنغلقان.",
+       "t": 27564,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "«الإطار الطويل العموديّ يرينا تاج الأسقف كلّه!» قال تشوبر.",
+       "t": 36539,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "فرأى تشوبر فيه أنّ التاج ليس ضيّقًا، فأذن للفارس أن يدخل.",
+       "t": 41781,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "فمدّ تشوبر حافره إلى الفارس الأسود، وقال له ما يقوله لوفي لكلّ من أعجبه:",
+       "t": 47300,
+       "spot": {
+        "x": 0.88,
+        "y": 0.7,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«انضمّ إلى طاقمي!»",
+       "quote": "ون بيس، مونكي دي لوفي",
+       "t": 54880
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0254-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "In the book, the vertical long-axis plane is the best for assessing the mitral valve during LVAD implantation: D.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "It shows both leaflets along their length, so their motion, any prolapse and the jet of regurgitation can be judged: the tall vertical frame.",
+       "t": 7789,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "The mitral valve matters because significant stenosis must be corrected before the pump starts, while functional regurgitation usually improves once the ventricle is unloaded.",
+       "t": 16582,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "Memory hook: a tall frame for the mitre.",
+       "t": 28475,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.18
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0254-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "During LVAD implantation, which echocardiographic plane is best for assessing the mitral valve?",
+     "options": [
+      "Axial",
+      "Coronal",
+      "Double-oblique",
+      "Vertical long axis",
+      "Short axis"
+     ],
+     "answer": 3,
+     "explain": "In the book, the vertical long-axis plane is the best for assessing the mitral valve during LVAD implantation: D. It shows both leaflets along their length, so their motion, any prolapse and the jet of regurgitation can be judged: the tall vertical frame. The mitral valve matters because significant stenosis must be corrected before the pump starts, while functional regurgitation usually improves once the ventricle is unloaded. Memory hook: a tall frame for the mitre.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q51.4",
+     "marks": [
+      3,
+      4,
+      5
+     ],
+     "answerMarks": [
+      1,
+      2
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0254.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.5,
+      "r": 0.18
+     },
+     "what": "Tall vertical frame",
+     "means": "Vertical long axis (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.35,
+      "r": 0.07
+     },
+     "what": "Both leaves seen top to bottom",
+     "means": "Whole leaflets, their motion and leak"
+    },
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.15,
+      "r": 0.12
+     },
+     "what": "Bat sending sound rings",
+     "means": "Transoesophageal echo"
+    },
+    {
+     "spot": {
+      "x": 0.2,
+      "y": 0.4,
+      "r": 0.08
+     },
+     "what": "Round frame, a small slice",
+     "means": "Short axis: only a slice"
+    },
+    {
+     "spot": {
+      "x": 0.88,
+      "y": 0.7,
+      "r": 0.11
+     },
+     "what": "Dark knight waiting",
+     "means": "LVAD to be implanted"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0255",
+   "title": "Mechanical circulatory support: infections in about 30 percent",
+   "titleAr": "الدعم الدورانيّ الميكانيكيّ: العدوى في نحو 30 في المئة",
+   "tags": [
+    "cardiac/heart-failure",
+    "d:complications",
+    "q:numbers",
+    "l:2"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في جناح تضيئه مصابيح البطّاريّات، رقد عشرة بحّارة، في فندق كلّ منهم فارس أسود الخوذة، وكابله يخرج من الجلد إلى البطّاريّات.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.45
+       }
+      },
+      {
+       "text": "«أكبر خطر عليهم قندس يسدّ المضخّات!» قال أوسوب.",
+       "t": 11718,
+       "spot": {
+        "x": 0.5,
+        "y": 0.8,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "لكنّهم لم يجدوا القندس إلّا في مضخّة واحدة، أمّا الكعكات الحمراء فقد طفت في أنهار أكثرهم.",
+       "t": 16774,
+       "spot": {
+        "x": 0.5,
+        "y": 0.35,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "ثمّ نظر تشوبر حيث تخرج الكابلات من الجلد، فإذا البروكلي ينبت هناك عند ثلاثة من العشرة.",
+       "t": 24822,
+       "spot": {
+        "x": 0.3,
+        "y": 0.6,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "«إذن نرسم بالقلم العملاق حول كلّ كابل إلى الأبد!» قال أوسوب.",
+       "t": 32673,
+       "spot": {
+        "x": 0.35,
+        "y": 0.14,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "فأعاد تشوبر القلم إلى الرفّ، وأخذ ينظّف مخارج الكابلات كلّ يوم.",
+       "t": 38353,
+       "spot": {
+        "x": 0.35,
+        "y": 0.14,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "«ثلاثة كابلات من عشرة ينبت عندها البروكلي؛ والكعكات الحمراء لأكثرهم، والقندس قليل!» قال تشوبر.",
+       "t": 44663,
+       "spot": {
+        "x": 0.3,
+        "y": 0.6,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "فأثنى عليه البحّارة العشرة بصوت واحد، فرقص تشوبر فرحًا وهو يصيح:",
+       "t": 53475,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.45
+       }
+      },
+      {
+       "text": "«مدحك لا يسعدني أبدًا، أيّها الأحمق!»",
+       "quote": "ون بيس، توني توني تشوبر",
+       "t": 60987
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0255-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "Overall infection rates with mechanical circulatory support are about 30 percent: D.",
+       "t": 0,
+       "spot": {
+        "x": 0.3,
+        "y": 0.6,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "Most are infections of the driveline where it leaves the skin, the broccoli at the cable's exit; pump-pocket infections and bloodstream infections are less common but more serious.",
+       "t": 6507,
+       "spot": {
+        "x": 0.3,
+        "y": 0.6,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "Long-term suppressive antibiotics are not routinely necessary, the unused pencil; good driveline care prevents most infections.",
+       "t": 17462,
+       "spot": {
+        "x": 0.35,
+        "y": 0.14,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "Bleeding, not thromboembolism, is the commonest complication, and most patients need transfusion, the red doughnuts; organ failure after implantation is not rare.",
+       "t": 26435,
+       "spot": {
+        "x": 0.5,
+        "y": 0.35,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "Memory hook: three cables in ten sprout broccoli.",
+       "t": 37767,
+       "spot": {
+        "x": 0.3,
+        "y": 0.6,
+        "r": 0.3
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0255-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which of the following is correct regarding devicespecific complications of mechanical circulatory support?",
+     "options": [
+      "Transfusion is required in less than 50 percent of patients.",
+      "Suppressive long-term antibiotics are necessary to reduce infection.",
+      "Thromboembolism is the most common complication.",
+      "Overall infection rates are about 30 percent.",
+      "Postimplant organ failure occurs in less than 10 percent."
+     ],
+     "answer": 3,
+     "explain": "Overall infection rates with mechanical circulatory support are about 30 percent: D. Most are infections of the driveline where it leaves the skin, the broccoli at the cable's exit; pump-pocket infections and bloodstream infections are less common but more serious. Long-term suppressive antibiotics are not routinely necessary, the unused pencil; good driveline care prevents most infections. Bleeding, not thromboembolism, is the commonest complication, and most patients need transfusion, the red doughnuts; organ failure after implantation is not rare. Memory hook: three cables in ten sprout broccoli. Infection rates vary with the device and the length of support; the book's figure is used.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q51.5",
+     "marks": [
+      2,
+      3,
+      4
+     ],
+     "answerMarks": [
+      1,
+      5
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0255.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.3,
+      "y": 0.6,
+      "r": 0.3
+     },
+     "what": "Broccoli at three cables of ten",
+     "means": "Infections about 30% (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.79,
+      "r": 0.05
+     },
+     "what": "Beaver in one pump",
+     "means": "Thrombosis: uncommon"
+    },
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.32,
+      "r": 0.08
+     },
+     "what": "Red doughnuts in most rivers",
+     "means": "Bleeding, transfusion: commonest"
+    },
+    {
+     "spot": {
+      "x": 0.35,
+      "y": 0.14,
+      "r": 0.09
+     },
+     "what": "Giant pencil left on the shelf",
+     "means": "Lifelong antibiotics: not routine"
+    },
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.91,
+      "r": 0.07
+     },
+     "what": "Cable leaving the skin",
+     "means": "Driveline site"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0256",
+   "title": "Ischaemic remodelling: mitral regurgitation worsens global systolic function",
+   "titleAr": "إعادة تشكّل البطين الإقفاريّة: القلس التاجيّ يُضعف الوظيفة الانقباضيّة كلّها",
+   "tags": [
+    "cardiac/heart-failure",
+    "cardiac/mitral-tricuspid",
+    "d:physiology",
+    "q:recall",
+    "l:3"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في قاعة للموسيقى، كانت غرفة المحرّك الحمراء في فندق عجوز قد تمدّدت كأكورديون شدّ أكثر من طاقته.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.4,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "وكانت يومًا على شكل كرة الرغبي، فصارت مستديرةً ككرة القدم، ورقّ جدارها حتّى صار دانتيلًا مشدودًا.",
+       "t": 8344,
+       "spot": {
+        "x": 0.15,
+        "y": 0.22,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "فتباعدت الأعمدة الحمراء، وشدّت أوتارها ورقتي تاج الأسقف إلى أسفل، فصار الماء يقرقر راجعًا إلى الردهة.",
+       "t": 17256,
+       "spot": {
+        "x": 0.5,
+        "y": 0.35,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "«لا بأس ببعض الماء الراجع؛ المروحة قويّة تكفي!» قال أوسوب.",
+       "t": 26204,
+       "spot": {
+        "x": 0.15,
+        "y": 0.75,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "لكنّ المروحة أخذت تدور أسرع وتتعب أكثر، ولا يصل إلى الحوت إلّا خيط رفيع من الماء، والغرفة تتّسع أكثر.",
+       "t": 32281,
+       "spot": {
+        "x": 0.7,
+        "y": 0.65,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«التاج الّذي يقرقر راجعًا يتعب الأكورديون المشدود، فيدفع أقلّ وأقلّ!» قال تشوبر.",
+       "t": 41540,
+       "spot": {
+        "x": 0.5,
+        "y": 0.45,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "فوضع تشوبر كرة الرغبي وكرة القدم جنبًا إلى جنب على الرفّ، ليتذكّر الجميع كيف تغيّر شكل الغرفة.",
+       "t": 48916,
+       "spot": {
+        "x": 0.15,
+        "y": 0.22,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "فنظر بروك إلى الأكورديون المشدود، ووضع يده العظميّة على صدره، وقال:",
+       "t": 57147,
+       "spot": {
+        "x": 0.5,
+        "y": 0.4,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "«قلبي يكاد يقفز من صدري... مع أنّه ليس لي قلب! يو هو هو هو!»",
+       "quote": "ون بيس، بروك",
+       "t": 64356
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0256-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "In ischaemic remodelling, mitral regurgitation that develops as the ventricle dilates worsens global systolic function: B.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.45,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "The papillary muscles are pulled apart, the leaflets tent and the valve leaks, the pillars and the tented mitre; the leak adds volume load, the ventricle dilates further, and forward output falls: the fan straining yet pushing less into the orca.",
+       "t": 9022,
+       "spot": {
+        "x": 0.5,
+        "y": 0.35,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "The ventricle becomes more spherical, not more elliptical, the rugby ball turning into a football, and wall stress rises as it thins and dilates (Laplace), the straining lace balloon.",
+       "t": 24475,
+       "spot": {
+        "x": 0.15,
+        "y": 0.22,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "Dilation leads to mitral, not aortic, insufficiency.",
+       "t": 35804,
+       "spot": {
+        "x": 0.5,
+        "y": 0.57,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "Memory hook: a tented mitre that gurgles back makes the stretched accordion pump even less.",
+       "t": 40486,
+       "spot": {
+        "x": 0.5,
+        "y": 0.45,
+        "r": 0.3
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0256-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which is true regarding the pathophysiology of ICM induced ventricular remodeling?",
+     "options": [
+      "There is an increase in the end-systolic diameter and volume of the LV.",
+      "Development of concomitant mitral insufficiency worsens global systolic function.",
+      "Progressive dilation of the LV eventually leads to aortic insufficiency.",
+      "The ventricle becomes more elliptical shaped.",
+      "Wall stress is decreased as the ventricle thins and dilates."
+     ],
+     "answer": 1,
+     "explain": "In ischaemic remodelling, mitral regurgitation that develops as the ventricle dilates worsens global systolic function: B. The papillary muscles are pulled apart, the leaflets tent and the valve leaks, the pillars and the tented mitre; the leak adds volume load, the ventricle dilates further, and forward output falls: the fan straining yet pushing less into the orca. The ventricle becomes more spherical, not more elliptical, the rugby ball turning into a football, and wall stress rises as it thins and dilates (Laplace), the straining lace balloon. Dilation leads to mitral, not aortic, insufficiency. Memory hook: a tented mitre that gurgles back makes the stretched accordion pump even less. An increase in left ventricular end-systolic volume (option A) is also a feature of remodelling; the book's key is B and is kept.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q52.1",
+     "marks": [
+      2,
+      3,
+      4,
+      5
+     ],
+     "answerMarks": [
+      1
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0256.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.57,
+      "r": 0.08
+     },
+     "what": "Water gurgling back",
+     "means": "Mitral regurgitation worsens function (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.4,
+      "r": 0.28
+     },
+     "what": "Accordion stretched past its limit",
+     "means": "Dilated, thin-walled ventricle"
+    },
+    {
+     "spot": {
+      "x": 0.15,
+      "y": 0.22,
+      "r": 0.09
+     },
+     "what": "Rugby ball beside a football",
+     "means": "More spherical shape"
+    },
+    {
+     "spot": {
+      "x": 0.57,
+      "y": 0.64,
+      "r": 0.07
+     },
+     "what": "Fan spinning faster, tiring",
+     "means": "Falling systolic function"
+    },
+    {
+     "spot": {
+      "x": 0.85,
+      "y": 0.7,
+      "r": 0.09
+     },
+     "what": "Thin stream reaching the orca",
+     "means": "Low forward output"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0257",
+   "title": "Reduced right ventricular function is not an indication for ventricular restoration",
+   "titleAr": "ضعف وظيفة البطين الأيمن ليس استطبابًا لإعادة بناء البطين",
+   "tags": [
+    "cardiac/heart-failure",
+    "d:indications",
+    "q:recall",
+    "l:3"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في حوض غالي لا، صنع فرانكي أبواب رقع مستديرة، تخاط في الجزء الميّت من جدار غرفة المحرّك الحمراء فتعزله.",
+       "t": 0,
+       "spot": {
+        "x": 0.25,
+        "y": 0.3,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "فجاء خمسة مرشّحين: الأوّل يقف أكثر من ثلث جدار غرفته الحمراء ساكنًا، وعليه خمسة وثلاثون.",
+       "t": 10273,
+       "spot": {
+        "x": 0.25,
+        "y": 0.1,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "والثّاني اتّسعت غرفته الحمراء كأكورديون شدّ أكثر من طاقته، وعلى بابها مئة وعشرون.",
+       "t": 20195,
+       "spot": {
+        "x": 0.25,
+        "y": 0.27,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "والثّالث تجمّد الجدار الأماميّ من غرفته، والرّابع حول فندقه زحمة من سيّارات الأجرة الصفراء.",
+       "t": 28379,
+       "spot": {
+        "x": 0.25,
+        "y": 0.55,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فخاط فرانكي لكلّ منهم باب رقعة يعزل الجزء الميّت.",
+       "t": 36873,
+       "spot": {
+        "x": 0.25,
+        "y": 0.3,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "«وهذا الخامس أيضًا، أعطه بابًا!» قال أوسوب، ودفع مرشّحًا خامسًا تدور مروحة غرفته الزرقاء بضعف.",
+       "t": 41803,
+       "spot": {
+        "x": 0.85,
+        "y": 0.6,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "لكنّ فرانكي نظر إلى المروحة الزرقاء الضعيفة، وأنزل باب الرقعة.",
+       "t": 51971,
+       "spot": {
+        "x": 0.8,
+        "y": 0.55,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«أبواب الرقع للغرف الحمراء الكبيرة الساكنة؛ أمّا المروحة الزرقاء الضعيفة فليست سببًا للباب، بل خطر عليه!» قال تشوبر.",
+       "t": 58266,
+       "spot": {
+        "x": 0.8,
+        "y": 0.55,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فوقف فرانكي بين أبواب رقعه، ورفع ذراعيه في وقفته الشهيرة، وصاح:",
+       "t": 67927,
+       "spot": {
+        "x": 0.55,
+        "y": 0.65,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«أنا سوبر هذا الأسبوع!»",
+       "quote": "ون بيس، فرانكي",
+       "t": 76046
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0257-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "Reduced right ventricular function is not an indication for surgical ventricular restoration; it is a risk factor that argues against it: D.",
+       "t": 0,
+       "spot": {
+        "x": 0.8,
+        "y": 0.55,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "Restoration excludes scarred, non-contracting left ventricle with a patch, the patch door, in dilated hearts after anterior infarction.",
+       "t": 10130,
+       "spot": {
+        "x": 0.25,
+        "y": 0.3,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "Indications include asynergy of more than 35 percent of the left ventricle, an end-diastolic volume index above 120 mL/m2, an akinetic or dyskinetic anterior wall and clinical heart failure.",
+       "t": 19298,
+       "spot": {
+        "x": 0.25,
+        "y": 0.2,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "A weak right ventricle may fail after the operation: the weak blue fan.",
+       "t": 34342,
+       "spot": {
+        "x": 0.8,
+        "y": 0.55,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "Memory hook: patch doors for big, still red rooms; not for a weak blue fan.",
+       "t": 39585,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.4
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0257-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which is not an indication for SVR?",
+     "options": [
+      "Asynergy of greater than 35 percent of the LV",
+      "Enlarged LV with end-diastolic volume index > 1 20 mL/m2",
+      "Akinetic anterior wall",
+      "Reduced right ventricular function",
+      "Clinical evidence of CHF"
+     ],
+     "answer": 3,
+     "explain": "Reduced right ventricular function is not an indication for surgical ventricular restoration; it is a risk factor that argues against it: D. Restoration excludes scarred, non-contracting left ventricle with a patch, the patch door, in dilated hearts after anterior infarction. Indications include asynergy of more than 35 percent of the left ventricle, an end-diastolic volume index above 120 mL/m2, an akinetic or dyskinetic anterior wall and clinical heart failure. A weak right ventricle may fail after the operation: the weak blue fan. Memory hook: patch doors for big, still red rooms; not for a weak blue fan.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q52.2",
+     "marks": [
+      2,
+      3,
+      4,
+      5,
+      6
+     ],
+     "answerMarks": [
+      1
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0257.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.8,
+      "y": 0.55,
+      "r": 0.14
+     },
+     "what": "Weak blue fan, door lowered",
+     "means": "Reduced RV function: not an indication (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.25,
+      "y": 0.1,
+      "r": 0.09
+     },
+     "what": "Still wall marked 35",
+     "means": "Asynergy over 35% of the LV"
+    },
+    {
+     "spot": {
+      "x": 0.25,
+      "y": 0.27,
+      "r": 0.09
+     },
+     "what": "Stretched room marked 120",
+     "means": "Large end-diastolic volume index"
+    },
+    {
+     "spot": {
+      "x": 0.15,
+      "y": 0.4,
+      "r": 0.09
+     },
+     "what": "Front wall frozen still",
+     "means": "Anterior akinesia"
+    },
+    {
+     "spot": {
+      "x": 0.1,
+      "y": 0.6,
+      "r": 0.09
+     },
+     "what": "Taxis jammed round the hotel",
+     "means": "Heart failure symptoms"
+    },
+    {
+     "spot": {
+      "x": 0.25,
+      "y": 0.3,
+      "r": 0.25
+     },
+     "what": "Round patch doors",
+     "means": "Surgical ventricular restoration"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0258",
+   "title": "Pulmonary hypertension is a relative contraindication to ventricular restoration",
+   "titleAr": "ارتفاع الضغط الرئويّ مانع نسبيّ لإعادة بناء البطين",
+   "tags": [
+    "cardiac/heart-failure",
+    "d:indications",
+    "q:recall",
+    "l:3"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في عيادة بين غيوم سكايبيا، اصطفّ خمسة ينتظرون أبواب الرقع المستديرة.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.4,
+        "r": 0.4
+       }
+      },
+      {
+       "text": "الأوّل سقط أيّل فندقه بسهم واحد، فترك ندبةً واحدةً مرتّبة؛ والثّاني أشواك تاجه الأخضر مسدودة بالقطران الأسود، وأوراق الملفوف جاهزة له.",
+       "t": 6523,
+       "spot": {
+        "x": 0.5,
+        "y": 0.4,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "والثّالث يقرقر تاج أسقفه، والرّابع يقرقر رمحه الثلاثيّ.",
+       "t": 19348,
+       "spot": {
+        "x": 0.2,
+        "y": 0.4,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "والخامس عدّاد أنبوب دولاراته غارق في الأحمر.",
+       "t": 24995,
+       "spot": {
+        "x": 0.8,
+        "y": 0.57,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "«الخامس أسهلهم؛ ليس في فندقه تاج يقرقر ولا قطران!» قال أوسوب.",
+       "t": 29108,
+       "spot": {
+        "x": 0.35,
+        "y": 0.65,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "لكنّ تشوبر رأى مروحة الغرفة الزرقاء عنده تلهث تحت العدّاد الأحمر، فأوقفه عند الباب.",
+       "t": 35698,
+       "spot": {
+        "x": 0.8,
+        "y": 0.57,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "«الندبة الواحدة، والقطران، والتّاج والرّمح اللذان يقرقران، تصلح كلّها مع الباب؛ أمّا العدّاد في الأحمر فنفكّر فيه طويلًا!» قال تشوبر.",
+       "t": 43035,
+       "spot": {
+        "x": 0.5,
+        "y": 0.4,
+        "r": 0.4
+       }
+      },
+      {
+       "text": "فجلس الخامس عند الباب حزينًا، فجلس تشوبر إلى جانبه، وقال له ما قاله لوفي يومًا لصديق:",
+       "t": 53987,
+       "spot": {
+        "x": 0.8,
+        "y": 0.85,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«سأنتظرك هنا حتّى تعود!»",
+       "quote": "ون بيس، مونكي دي لوفي",
+       "t": 62684
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0258-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "Pulmonary hypertension is a relative contraindication to surgical ventricular restoration: B.",
+       "t": 0,
+       "spot": {
+        "x": 0.8,
+        "y": 0.57,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "It usually means advanced disease with a struggling right ventricle, and it raises the risk of the operation: the gauge deep in the red.",
+       "t": 6081,
+       "spot": {
+        "x": 0.8,
+        "y": 0.57,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "A single area of infarction is the most favourable situation for restoration.",
+       "t": 14023,
+       "spot": {
+        "x": 0.63,
+        "y": 0.4,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "Coronary disease is bypassed at the same operation, and severe mitral or tricuspid regurgitation is repaired at the same time: the cabbage leaves, the mitre and the trident.",
+       "t": 19451,
+       "spot": {
+        "x": 0.3,
+        "y": 0.4,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "Memory hook: patch doors for the scarred, the tarred and the gurgling; hold back the gauge in the red.",
+       "t": 31370,
+       "spot": {
+        "x": 0.8,
+        "y": 0.57,
+        "r": 0.08
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0258-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which of the following is a relative contraindication to surgical ventricular restoration?",
+     "options": [
+      "Single area of infarction",
+      "Pulmonary hypertension",
+      "Presence of concomitant coronary artery disease",
+      "Presence of severe mitral insufficiency",
+      "Presence of severe tricuspid insufficiency"
+     ],
+     "answer": 1,
+     "explain": "Pulmonary hypertension is a relative contraindication to surgical ventricular restoration: B. It usually means advanced disease with a struggling right ventricle, and it raises the risk of the operation: the gauge deep in the red. A single area of infarction is the most favourable situation for restoration. Coronary disease is bypassed at the same operation, and severe mitral or tricuspid regurgitation is repaired at the same time: the cabbage leaves, the mitre and the trident. Memory hook: patch doors for the scarred, the tarred and the gurgling; hold back the gauge in the red.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q52.3",
+     "marks": [
+      2,
+      3,
+      4,
+      5,
+      6
+     ],
+     "answerMarks": [
+      1
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0258.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.79,
+      "y": 0.57,
+      "r": 0.07
+     },
+     "what": "Gauge drowned in the red",
+     "means": "Pulmonary hypertension (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.63,
+      "y": 0.4,
+      "r": 0.09
+     },
+     "what": "Single tidy scar from one arrow",
+     "means": "Single infarct: most favourable"
+    },
+    {
+     "spot": {
+      "x": 0.45,
+      "y": 0.4,
+      "r": 0.09
+     },
+     "what": "Crown spikes tarred black",
+     "means": "Coronary disease: bypass with it"
+    },
+    {
+     "spot": {
+      "x": 0.25,
+      "y": 0.4,
+      "r": 0.09
+     },
+     "what": "Gurgling mitre",
+     "means": "Mitral regurgitation: repair with it"
+    },
+    {
+     "spot": {
+      "x": 0.1,
+      "y": 0.35,
+      "r": 0.09
+     },
+     "what": "Gurgling trident",
+     "means": "Tricuspid regurgitation: repair with it"
+    },
+    {
+     "spot": {
+      "x": 0.85,
+      "y": 0.35,
+      "r": 0.14
+     },
+     "what": "Round patch door",
+     "means": "Surgical ventricular restoration"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0259",
+   "title": "Ventricular restoration does not keep dead myocardium",
+   "titleAr": "إعادة بناء البطين لا تُبقي العضلة الميتة",
+   "tags": [
+    "cardiac/heart-failure",
+    "d:technique",
+    "q:recall",
+    "l:3"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في ورشة نجّار، كان في جدار الغرفة الحمراء لفندق عجوز ندبة رماديّة ميّتة كبيرة.",
+       "t": 0,
+       "spot": {
+        "x": 0.45,
+        "y": 0.45,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "فمدّ تشوبر أوراق الملفوف على كلّ شوكة حيّة في التاج الأخضر، وأصلح تاج الأسقف.",
+       "t": 7865,
+       "spot": {
+        "x": 0.3,
+        "y": 0.2,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "ثمّ جاء فرانكي بباب رقعة مستدير يعزل به الندبة الميّتة، ويعيد الغرفة من كرة قدم إلى كرة رغبي.",
+       "t": 15095,
+       "spot": {
+        "x": 0.7,
+        "y": 0.45,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "«لا تعزلوا الندبة! أبقوها، فهي تحمي الفندق من الشرر!» صاح أوسوب، واحتضن الندبة بذراعيه.",
+       "t": 23932,
+       "spot": {
+        "x": 0.3,
+        "y": 0.45,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "لكنّ الشرر أخذ يتطاير من الندبة نفسها، يطقطق في وجه أوسوب.",
+       "t": 33622,
+       "spot": {
+        "x": 0.45,
+        "y": 0.45,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«الندبة هي الّتي تقدح الشرر؛ نعزلها خلف الباب، ولا نحتضنها!» قال تشوبر.",
+       "t": 39635,
+       "spot": {
+        "x": 0.45,
+        "y": 0.45,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فأفلت أوسوب الندبة مسرعًا، وأغلق عليها باب الرقعة إلى الأبد.",
+       "t": 46736,
+       "spot": {
+        "x": 0.65,
+        "y": 0.45,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "فمسح أوسوب السخام عن وجهه، وقال بصوت هادئ كأنّه زورو بعد معركة:",
+       "t": 52798,
+       "spot": {
+        "x": 0.3,
+        "y": 0.45,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "«لم يحدث أيّ شيء.»",
+       "quote": "ون بيس، رورونوا زورو",
+       "t": 60172
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0259-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "Keeping nonfunctional myocardium to prevent arrhythmias is not a goal of surgical ventricular restoration: E.",
+       "t": 0,
+       "spot": {
+        "x": 0.45,
+        "y": 0.45,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "The scar is the usual source of ventricular arrhythmias, the sparks flying out of the scar Usopp hugs, so it is excluded, not kept, and arrhythmia surgery or a defibrillator is added when needed.",
+       "t": 7784,
+       "spot": {
+        "x": 0.45,
+        "y": 0.45,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "The goals are to revascularise all viable territories (cabbage leaves on every living spike), to reduce the size of the nonfunctional anteroseptal wall (the patch door), to repair valvular regurgitation (the mitre) and to recreate the elliptical shape of the ventricle (the rugby ball).",
+       "t": 20199,
+       "spot": {
+        "x": 0.3,
+        "y": 0.2,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "Memory hook: shut the sparking scar away behind the patch door; never hug it.",
+       "t": 38655,
+       "spot": {
+        "x": 0.65,
+        "y": 0.45,
+        "r": 0.2
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0259-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which is not a goal of surgical ventricular restoration?",
+     "options": [
+      "Revascularization of all viable territories",
+      "A reduction in the size of nonfunctional anteroseptal myocardium",
+      "Repair of concomitant valvular regurgitation",
+      "Recreation of the elliptical shape of the LV",
+      "Retention of nonfunctional myocardium to prevent arrhythmias"
+     ],
+     "answer": 4,
+     "explain": "Keeping nonfunctional myocardium to prevent arrhythmias is not a goal of surgical ventricular restoration: E. The scar is the usual source of ventricular arrhythmias, the sparks flying out of the scar Usopp hugs, so it is excluded, not kept, and arrhythmia surgery or a defibrillator is added when needed. The goals are to revascularise all viable territories (cabbage leaves on every living spike), to reduce the size of the nonfunctional anteroseptal wall (the patch door), to repair valvular regurgitation (the mitre) and to recreate the elliptical shape of the ventricle (the rugby ball). Memory hook: shut the sparking scar away behind the patch door; never hug it.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q52.4",
+     "marks": [
+      2,
+      3,
+      4,
+      5
+     ],
+     "answerMarks": [
+      1
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0259.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.45,
+      "y": 0.45,
+      "r": 0.1
+     },
+     "what": "Usopp hugging the sparking scar",
+     "means": "Keeping dead myocardium: not a goal (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.3,
+      "y": 0.2,
+      "r": 0.18
+     },
+     "what": "Cabbage on every living spike",
+     "means": "Revascularise viable territory"
+    },
+    {
+     "spot": {
+      "x": 0.65,
+      "y": 0.45,
+      "r": 0.18
+     },
+     "what": "Round patch door shutting the scar",
+     "means": "Exclude scar, reduce volume"
+    },
+    {
+     "spot": {
+      "x": 0.68,
+      "y": 0.08,
+      "r": 0.18
+     },
+     "what": "Football turned rugby ball",
+     "means": "Restore elliptical shape"
+    },
+    {
+     "spot": {
+      "x": 0.75,
+      "y": 0.88,
+      "r": 0.1
+     },
+     "what": "Mitre being repaired",
+     "means": "Mitral repair"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0260",
+   "title": "After ventricular restoration, end-systolic and end-diastolic volumes both fall",
+   "titleAr": "بعد إعادة بناء البطين، ينخفض الحجمان الانقباضيّ والانبساطيّ كلاهما",
+   "tags": [
+    "cardiac/heart-failure",
+    "d:physiology",
+    "q:recall",
+    "l:3"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في جزيرة كورايغانا الرماديّة، خيط في جدار غرفة المحرّك الحمراء عند بحّار باب رقعة مستدير، يعزل ندبتها الميّتة.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«صغرت الغرفة حين تمتلئ، لكنّها حين تفرغ لن تتغيّر!» قال أوسوب.",
+       "t": 9305,
+       "spot": {
+        "x": 0.1,
+        "y": 0.7,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فلفّ تشوبر شريط قياس الخيّاط حول الغرفة، فإذا علامتاه كلتاهما قد نزلتا: علامة الامتلاء وعلامة الفراغ.",
+       "t": 15754,
+       "spot": {
+        "x": 0.47,
+        "y": 0.71,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "وأخذ البوّاب عند باب الغرفة يطرد نصيبًا أكبر من الضيوف، وارتخت اليدان الكبيرتان عن المزهريّة الخزفيّة.",
+       "t": 24974,
+       "spot": {
+        "x": 0.3,
+        "y": 0.48,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "وعادت الغرفة تعصر نفسها مع كلّ دقّة كما تعصر المنشفة.",
+       "t": 33450,
+       "spot": {
+        "x": 0.5,
+        "y": 0.45,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "«بعد باب الرقعة، ينكمش الشريط عند طرفيه كليهما!» قال تشوبر.",
+       "t": 38372,
+       "spot": {
+        "x": 0.47,
+        "y": 0.71,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "وكان زورو يراقب الغرفة الّتي ضعفت ثمّ عادت أقوى، فابتسم؛ فهو أيضًا جاء هذه الجزيرة الرماديّة ليتدرّب ويعود أقوى.",
+       "t": 44240,
+       "spot": {
+        "x": 0.8,
+        "y": 0.65,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فشدّ قبضته على سيف كوينا، وردّد القسم الّذي أقسمه وهو صبيّ يوم فقدها:",
+       "t": 53981,
+       "spot": {
+        "x": 0.8,
+        "y": 0.65,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«سأصير أقوى! أقوى ممّا كانت هي! حتّى يبلغ اسمي السماء!»",
+       "quote": "ون بيس، رورونوا زورو",
+       "t": 61401
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0260-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "After surgical ventricular restoration, both left ventricular end-systolic and end-diastolic volumes decrease: A.",
+       "t": 0,
+       "spot": {
+        "x": 0.47,
+        "y": 0.71,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "In the picture, both marks on the tape round the red engine room move lower after the patch door.",
+       "t": 8705,
+       "spot": {
+        "x": 0.47,
+        "y": 0.71,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "The ejection fraction rises, the bouncer throwing out a bigger share, and plasma noradrenaline falls as the heart failure eases: the hands relaxing on the vase.",
+       "t": 14870,
+       "spot": {
+        "x": 0.3,
+        "y": 0.48,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "Torsion and filling improve as the ventricle regains a more normal shape and size.",
+       "t": 25242,
+       "spot": {
+        "x": 0.5,
+        "y": 0.45,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "Memory hook: after the patch door, the tape shrinks at both ends.",
+       "t": 30886,
+       "spot": {
+        "x": 0.47,
+        "y": 0.71,
+        "r": 0.18
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0260-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Physiologic changes following SVR include which of the following:",
+     "options": [
+      "Decrease in both LV end-systolic and end-diastolic volumes",
+      "No change in LV ejection fraction",
+      "Increase in plasma norepinephrine",
+      "Reduced LV torsional mechanics",
+      "Reduced peak filling rates"
+     ],
+     "answer": 0,
+     "explain": "After surgical ventricular restoration, both left ventricular end-systolic and end-diastolic volumes decrease: A. In the picture, both marks on the tape round the red engine room move lower after the patch door. The ejection fraction rises, the bouncer throwing out a bigger share, and plasma noradrenaline falls as the heart failure eases: the hands relaxing on the vase. Torsion and filling improve as the ventricle regains a more normal shape and size. Memory hook: after the patch door, the tape shrinks at both ends.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q52.5",
+     "marks": [
+      2,
+      5
+     ],
+     "answerMarks": [
+      1,
+      3,
+      4
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0260.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.47,
+      "y": 0.71,
+      "r": 0.15
+     },
+     "what": "Both tape marks moved lower",
+     "means": "End-systolic and end-diastolic volumes fall (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.55,
+      "r": 0.09
+     },
+     "what": "Round patch door",
+     "means": "Surgical ventricular restoration"
+    },
+    {
+     "spot": {
+      "x": 0.3,
+      "y": 0.48,
+      "r": 0.11
+     },
+     "what": "Bouncer throwing out more guests",
+     "means": "Ejection fraction rises"
+    },
+    {
+     "spot": {
+      "x": 0.17,
+      "y": 0.15,
+      "r": 0.12
+     },
+     "what": "Big hands easing off the vase",
+     "means": "Noradrenaline falls"
+    },
+    {
+     "spot": {
+      "x": 0.1,
+      "y": 0.7,
+      "r": 0.1
+     },
+     "what": "Usopp: only one will change",
+     "means": "Wrong idea"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0261",
+   "title": "About 6 million Americans have congestive heart failure",
+   "titleAr": "نحو ستّة ملايين أمريكيّ مصابون بقصور القلب الاحتقانيّ",
+   "tags": [
+    "cardiac/heart-failure",
+    "d:pathology",
+    "q:numbers",
+    "l:2"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في غرفة الخرائط على الثاوزند صني، فردت نامي على الطاولة خريطةً هائلةً لأمريكا، تزحف عليها زحمة من سيّارات الأجرة الصفراء.",
+       "t": 0,
+       "spot": {
+        "x": 0.48,
+        "y": 0.62,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "ومن طرف الخريطة، كان تاج أخضر سدّه القار الأسود، ومقياس ضغط إبرته في الأحمر، يدفعان إلى الزحمة سيّارات جديدة.",
+       "t": 11661,
+       "spot": {
+        "x": 0.5,
+        "y": 0.22,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "«على كلّ سيّارة عالقة بيري واحد! قولوا لي فقط: كم سيّارةً هناك؟» قالت نامي، وعيناها تلمعان كقطعتين من الذهب.",
+       "t": 23106,
+       "spot": {
+        "x": 0.15,
+        "y": 0.4,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«خمسون مليونًا! الزحمة تغطّي الخريطة كلّها، من البحر إلى البحر!» صاح أوسوب، وفتح ذراعيه فوق الخريطة.",
+       "t": 34343,
+       "spot": {
+        "x": 0.5,
+        "y": 0.12,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "لكنّ نامي تتبّعت الزحمة بقلمها، فإذا هي لا تغطّي الخريطة، بل تلتفّ بين المدن في طريق واحد طويل.",
+       "t": 45293,
+       "spot": {
+        "x": 0.48,
+        "y": 0.62,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "«إذن هي قليلة، مثل هذا الشارع الجانبيّ الصغير!» قال تشوبر، وأشار إلى سيّارات قليلة في زقاق.",
+       "t": 55415,
+       "spot": {
+        "x": 0.8,
+        "y": 0.72,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "لكنّ الزقاق لم يكن إلّا طرفًا صغيرًا من الطريق الطويل.",
+       "t": 64353,
+       "spot": {
+        "x": 0.12,
+        "y": 0.68,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "فلمّا أتمّت نامي خطّها ورفعت القلم، إذا الزحمة قد رسمت على أمريكا رقمًا واحدًا هائلًا: ستّة.",
+       "t": 69639,
+       "spot": {
+        "x": 0.48,
+        "y": 0.62,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "«لا الخريطة كلّها، ولا زقاق صغير؛ ستّة عملاقة: ستّة ملايين سيّارة عالقة!» قال تشوبر.",
+       "t": 78925,
+       "spot": {
+        "x": 0.5,
+        "y": 0.9,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«ستّة ملايين سيّارة... ستّة ملايين بيري!» صاحت نامي، واحتضنت الخريطة.",
+       "t": 87626,
+       "spot": {
+        "x": 0.15,
+        "y": 0.4,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "ثمّ رفعت رأسها، وعيناها ما زالتا تلمعان، وقالت حلمها القديم:",
+       "t": 95083,
+       "spot": {
+        "x": 0.15,
+        "y": 0.4,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«هدفي أن أجمع مئة مليون بيري، مهما كان ذلك صعبًا، ومهما طال الزمن!»",
+       "quote": "ون بيس، نامي",
+       "t": 102453
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0261-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "About 6,000,000 Americans are estimated to have congestive heart failure: C.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.9,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "In the picture, the jam of yellow taxis curls into one giant 6 on Nami's map; a side street of a few taxis is far too few, the whole map far too many.",
+       "t": 6019,
+       "spot": {
+        "x": 0.48,
+        "y": 0.62,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "About half a million new cases are diagnosed each year, and heart failure is the leading cause of hospital admission in people over 65.",
+       "t": 16553,
+       "spot": {
+        "x": 0.5,
+        "y": 0.22,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "Only a few thousand hearts are transplanted each year, which is why mechanical support and cell therapy are being explored.",
+       "t": 25635,
+       "spot": {
+        "x": 0.5,
+        "y": 0.9,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "Memory hook: the taxi jam draws a giant 6 across the map: six million.",
+       "t": 33330,
+       "spot": {
+        "x": 0.48,
+        "y": 0.62,
+        "r": 0.25
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0261-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "How many Americans are estimated to have congestive heart failure?",
+     "options": [
+      "100,000",
+      "500,000",
+      "6,000,000",
+      "10,000,000",
+      "50,000,000"
+     ],
+     "answer": 2,
+     "explain": "About 6,000,000 Americans are estimated to have congestive heart failure: C. In the picture, the jam of yellow taxis curls into one giant 6 on Nami's map; a side street of a few taxis is far too few, the whole map far too many. About half a million new cases are diagnosed each year, and heart failure is the leading cause of hospital admission in people over 65. Only a few thousand hearts are transplanted each year, which is why mechanical support and cell therapy are being explored. Memory hook: the taxi jam draws a giant 6 across the map: six million.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q53.1",
+     "marks": [
+      2,
+      3,
+      4,
+      5
+     ],
+     "answerMarks": [
+      1
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0261.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.48,
+      "y": 0.62,
+      "r": 0.2
+     },
+     "what": "Taxi jam drawn as a giant 6",
+     "means": "About 6,000,000 Americans (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.25,
+      "y": 0.15,
+      "r": 0.12
+     },
+     "what": "Tarred green crown",
+     "means": "Coronary disease as a cause"
+    },
+    {
+     "spot": {
+      "x": 0.85,
+      "y": 0.25,
+      "r": 0.11
+     },
+     "what": "Gauge in the red",
+     "means": "Hypertension as a cause"
+    },
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.12,
+      "r": 0.11
+     },
+     "what": "Usopp: fifty million",
+     "means": "Too many"
+    },
+    {
+     "spot": {
+      "x": 0.12,
+      "y": 0.68,
+      "r": 0.07
+     },
+     "what": "A few taxis in a side street",
+     "means": "Too few"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0262",
+   "title": "Mesenchymal cells, bone marrow cells, progenitor cells and skeletal myoblasts have all been tried in heart trials",
+   "titleAr": "الخلايا الجذعيّة المتوسّطة وخلايا نقي العظم والخلايا السلفيّة والأرومات العضليّة الهيكليّة جُرّبت كلّها في دراسات القلب",
+   "tags": [
+    "cardiac/heart-failure",
+    "d:evidence",
+    "q:recall",
+    "l:2"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في غابة أرخبيل بوين، حيث ينمو كلّ نبات عملاقًا، ركع تشوبر أمام فندق في جدار غرفة محرّكه الحمراء ندبة رماديّة كبيرة.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.25,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "وبجانب الفندق أيّل صرعه سهم قديم، وعند باب الغرفة الحمراء بوّاب ملهًى عدّاده منخفض، ينتظر أن تعينه الشتلات.",
+       "t": 10891,
+       "spot": {
+        "x": 0.6,
+        "y": 0.52,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "وكان قد جاء بأربع صوان من الشتلات الخضراء على سيقان طويلة، ليغرسها في الندبة فتنبت فيها عضلة جديدة.",
+       "t": 20873,
+       "spot": {
+        "x": 0.48,
+        "y": 0.33,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "شتلات تنبت من كومة فوضويّة، وشتلات غرفت من النقي الأحمر في عظمة بيضاء مشقوقة، وشتلات تنمو أنابيب صغيرة، وشتلات على هيئة هياكل عظميّة صغيرة.",
+       "t": 29809,
+       "spot": {
+        "x": 0.48,
+        "y": 0.33,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "«أنا أوسوب العظيم، سيّد البذور في هذا الأرخبيل! شتلات العظمة وحدها تصلح؛ ارموا الباقي كلّه!» قال أوسوب، ورفع صينيّة العظمة عاليًا.",
+       "t": 43549,
+       "spot": {
+        "x": 0.2,
+        "y": 0.72,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "لكنّ تشوبر كان قد غرس الصواني الأربع كلّها، فارتفعت من كلّ منها نبتة خضراء في الندبة.",
+       "t": 56543,
+       "spot": {
+        "x": 0.48,
+        "y": 0.33,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "ومدّت نبتة من صينيّة الهياكل الصغيرة ورقةً طويلة، فدغدغت أنف أوسوب الطويل حتّى عطس عطسةً هزّت الغابة.",
+       "t": 64069,
+       "spot": {
+        "x": 0.38,
+        "y": 0.72,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "«الكومة الفوضويّة، والعظمة المشقوقة، والأنابيب الصغيرة، والهياكل الصغيرة: كلّها غرست في الندوب من قبل، لا واحدة فقط!» قال تشوبر.",
+       "t": 73150,
+       "spot": {
+        "x": 0.48,
+        "y": 0.33,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "فمسح أوسوب أنفه، ونظر إلى النباتات العملاقة حوله، وصاح:",
+       "t": 84581,
+       "spot": {
+        "x": 0.2,
+        "y": 0.72,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«عندي مرض لا أستطيع دخول هذه الجزيرة!»",
+       "quote": "ون بيس، أوسوب",
+       "t": 91392
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0262-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "Mesenchymal stem cells, bone marrow cells (BMCs), endothelial progenitor cells (EPCs) and skeletal myoblasts have all been used in clinical trials of cell therapy for heart disease: all of the above.",
+       "t": 0,
+       "spot": {
+        "x": 0.48,
+        "y": 0.33,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "Skeletal myoblasts were tested in the MAGIC trial, bone marrow cells in BOOST and REPAIR-AMI, and mesenchymal stem cells in POSEIDON, among others.",
+       "t": 13678,
+       "spot": {
+        "x": 0.48,
+        "y": 0.33,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "In the picture, all four trays grow in the same scar: the messy heap (MESS-enchymal), the cracked bone (marrow), the seedlings that grow into tiny pipes (endothelial) and the tiny skeletons (skeletal myoblasts).",
+       "t": 23850,
+       "spot": {
+        "x": 0.48,
+        "y": 0.33,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "The benefits so far have been modest, and the cells seem to work mostly through the signals they release rather than by becoming new heart muscle.",
+       "t": 37796,
+       "spot": {
+        "x": 0.5,
+        "y": 0.25,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "Memory hook: all four trays have been planted in a scar.",
+       "t": 46156,
+       "spot": {
+        "x": 0.48,
+        "y": 0.33,
+        "r": 0.3
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0262-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which of the following stem cell lines have been used in clinical trials for treatment of cardiac disease?",
+     "options": [
+      "Mesenchymal stem cells",
+      "BMCs",
+      "EPCs",
+      "Skeletal myoblasts",
+      "All of the above"
+     ],
+     "answer": 4,
+     "explain": "Mesenchymal stem cells, bone marrow cells (BMCs), endothelial progenitor cells (EPCs) and skeletal myoblasts have all been used in clinical trials of cell therapy for heart disease: all of the above. Skeletal myoblasts were tested in the MAGIC trial, bone marrow cells in BOOST and REPAIR-AMI, and mesenchymal stem cells in POSEIDON, among others. In the picture, all four trays grow in the same scar: the messy heap (MESS-enchymal), the cracked bone (marrow), the seedlings that grow into tiny pipes (endothelial) and the tiny skeletons (skeletal myoblasts). The benefits so far have been modest, and the cells seem to work mostly through the signals they release rather than by becoming new heart muscle. Memory hook: all four trays have been planted in a scar.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q53.2",
+     "marks": [
+      6
+     ],
+     "answerMarks": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0262.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.48,
+      "y": 0.33,
+      "r": 0.28
+     },
+     "what": "All four trays planted in the scar",
+     "means": "All of the above (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.16,
+      "y": 0.33,
+      "r": 0.08
+     },
+     "what": "Messy heap",
+     "means": "Mesenchymal stem cells"
+    },
+    {
+     "spot": {
+      "x": 0.38,
+      "y": 0.33,
+      "r": 0.08
+     },
+     "what": "Cracked bone with red marrow",
+     "means": "Bone marrow cells"
+    },
+    {
+     "spot": {
+      "x": 0.6,
+      "y": 0.33,
+      "r": 0.08
+     },
+     "what": "Little pipes",
+     "means": "Endothelial progenitor cells"
+    },
+    {
+     "spot": {
+      "x": 0.8,
+      "y": 0.33,
+      "r": 0.08
+     },
+     "what": "Little skeletons",
+     "means": "Skeletal myoblasts"
+    },
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.22,
+      "r": 0.18
+     },
+     "what": "Grey scar in the red wall",
+     "means": "Infarct scar"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0263",
+   "title": "REPAIR-AMI: bone marrow cells helped most with a low ejection fraction and when given after day 4",
+   "titleAr": "دراسة ريبير: أفادت خلايا نقي العظم أكثر مع كسر قذف منخفض وحين أُعطيت بعد اليوم الرابع",
+   "tags": [
+    "cardiac/heart-failure",
+    "d:evidence",
+    "q:vignette",
+    "l:3"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في ليتل غاردن، تحت بركان يدخّن، أسقط سهم الأيّل المعلّق فوق باب فندق، فاحترق الجدار حيث سقط.",
+       "t": 0,
+       "spot": {
+        "x": 0.45,
+        "y": 0.3,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "وعند باب غرفة المحرّك الحمراء، ضعف البوّاب، فلم يعد عدّاده يظهر إلّا ثلاثين.",
+       "t": 9042,
+       "spot": {
+        "x": 0.17,
+        "y": 0.38,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«اغرسوا شتلات العظمة الآن، الآن والجدار ما زال يدخّن!» صاح أوسوب، وغرسها في الساعات الأولى.",
+       "t": 16623,
+       "spot": {
+        "x": 0.15,
+        "y": 0.75,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "لكنّ الأرض كانت ما تزال حارّة، فذبلت الشتلات واحدةً بعد أخرى.",
+       "t": 25084,
+       "spot": {
+        "x": 0.1,
+        "y": 0.82,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "«إذن نغرسها في الفندق المجاور؛ بوّابه قويّ، عند خمسة وخمسين!» قال أوسوب.",
+       "t": 31241,
+       "spot": {
+        "x": 0.82,
+        "y": 0.4,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فنبتت الشتلات هناك، لكنّ البوّاب القويّ لم يكد يتغيّر؛ فقد كان يؤدّي عمله من قبل.",
+       "t": 38897,
+       "spot": {
+        "x": 0.82,
+        "y": 0.4,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "أمّا تشوبر، فانتظر حتّى أظهر التقويم اليوم السادس بعد سقوط الأيّل، وقد بردت الأرض، فغرس شتلات العظمة عند البوّاب الضعيف.",
+       "t": 46847,
+       "spot": {
+        "x": 0.7,
+        "y": 0.65,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "فضربت الشتلات جذورها، وأخذ البوّاب الضعيف يطرد الضيوف بقوّة جديدة.",
+       "t": 57405,
+       "spot": {
+        "x": 0.7,
+        "y": 0.78,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«في اليوم السادس، وعند أضعف بوّاب: هناك تنفع الشتلات أكثر ما تنفع!» قال تشوبر.",
+       "t": 64086,
+       "spot": {
+        "x": 0.7,
+        "y": 0.7,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "فنظر تشوبر إلى أوسوب العجول، وتذكّر ما قاله ميهوك لزورو يوم وعده أن ينتظره:",
+       "t": 71325,
+       "spot": {
+        "x": 0.15,
+        "y": 0.75,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«اعرف العالم، واعرف نفسك، وكن قويًّا يا رورونوا! سأنتظرك في القمّة مهما طال الزمن.»",
+       "quote": "ون بيس، دراكول ميهوك",
+       "t": 79587
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0263-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "In REPAIR-AMI the greatest gain in LVEF came in patients with a low baseline ejection fraction who received the cells after day 4: baseline LVEF 30 percent, cells given 6 days after infarction.",
+       "t": 0,
+       "spot": {
+        "x": 0.7,
+        "y": 0.7,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "Bone marrow cells were infused into the infarct artery 3 to 7 days after successful reperfusion; at 4 months the ejection fraction had risen by about 2.5 points more than with placebo.",
+       "t": 13704,
+       "spot": {
+        "x": 0.87,
+        "y": 0.65,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "The benefit was concentrated in patients whose ejection fraction was at or below the median, about 49 percent, and in those treated more than 4 days after reperfusion.",
+       "t": 26528,
+       "spot": {
+        "x": 0.17,
+        "y": 0.35,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "In the picture, the weak bouncer at 30 gains the most when the bone seedlings are planted on day 6; seedlings planted on smoking ground wilt, and the strong bouncer at 55 hardly changes.",
+       "t": 37835,
+       "spot": {
+        "x": 0.7,
+        "y": 0.7,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "Memory hook: plant on day 6, beside the weakest bouncer.",
+       "t": 50219,
+       "spot": {
+        "x": 0.7,
+        "y": 0.7,
+        "r": 0.25
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0263-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Based on the findings of the REPAIR-AMI trial of BMCs in patients with an acute myocardial infarction, which of the following patients would be expected to have the greatest improvement in LVEF from BMC therapy compared with placebo?",
+     "options": [
+      "Baseline LVEF 30 percent, cells given within 12 h of infarction",
+      "Baseline LVEF 30 percent, cells given 1 day after infarction",
+      "Baseline LVEF 30 percent, cells given 6 days after infarction",
+      "Baseline LVEF 55 percent, cells given 1 day after infarction",
+      "Baseline LVEF 55 percent, cells given 6 days after infarction"
+     ],
+     "answer": 2,
+     "explain": "In REPAIR-AMI the greatest gain in LVEF came in patients with a low baseline ejection fraction who received the cells after day 4: baseline LVEF 30 percent, cells given 6 days after infarction. Bone marrow cells were infused into the infarct artery 3 to 7 days after successful reperfusion; at 4 months the ejection fraction had risen by about 2.5 points more than with placebo. The benefit was concentrated in patients whose ejection fraction was at or below the median, about 49 percent, and in those treated more than 4 days after reperfusion. In the picture, the weak bouncer at 30 gains the most when the bone seedlings are planted on day 6; seedlings planted on smoking ground wilt, and the strong bouncer at 55 hardly changes. Memory hook: plant on day 6, beside the weakest bouncer.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q53.3",
+     "marks": [
+      4,
+      5,
+      6
+     ],
+     "answerMarks": [
+      1,
+      2,
+      3
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0263.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.17,
+      "y": 0.33,
+      "r": 0.07
+     },
+     "what": "Weak bouncer's gauge at 30",
+     "means": "Low baseline LVEF (30%) (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.87,
+      "y": 0.65,
+      "r": 0.08
+     },
+     "what": "Calendar showing 6",
+     "means": "Cells given on day 6 (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.7,
+      "y": 0.78,
+      "r": 0.15
+     },
+     "what": "Seedlings rooting well",
+     "means": "Greatest gain in LVEF"
+    },
+    {
+     "spot": {
+      "x": 0.45,
+      "y": 0.85,
+      "r": 0.09
+     },
+     "what": "Cracked bone with marrow",
+     "means": "Bone marrow cells"
+    },
+    {
+     "spot": {
+      "x": 0.1,
+      "y": 0.8,
+      "r": 0.09
+     },
+     "what": "Seedlings wilting in hot ground",
+     "means": "Too early: hours after the infarct"
+    },
+    {
+     "spot": {
+      "x": 0.87,
+      "y": 0.38,
+      "r": 0.07
+     },
+     "what": "Strong bouncer at 55",
+     "means": "Good LVEF: little gain"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0265",
+   "title": "Intracoronary infusion is the route used most often in cardiac stem cell trials",
+   "titleAr": "التسريب داخل الشرايين التاجيّة أكثر طرق إيصال الخلايا الجذعيّة استعمالًا في دراسات القلب",
+   "tags": [
+    "cardiac/heart-failure",
+    "d:technique",
+    "q:recall",
+    "l:2"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "على سطح العشب في الثاوزند صني، كان على تشوبر أن يوصل الشتلات إلى ندبة في غرفة المحرّك الحمراء لفندق متعب.",
+       "t": 0,
+       "spot": {
+        "x": 0.7,
+        "y": 0.75,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "«سهلة! نعلّق له محلولًا في ذراعه، والشّتلات تجد طريقها وحدها!» قال أوسوب، وعلّق المحلول.",
+       "t": 10045,
+       "spot": {
+        "x": 0.13,
+        "y": 0.6,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "لكنّ الشتلات علقت في الطريق بين أكياس الدولارات، ولم يصل إلى الفندق منها إلّا القليل.",
+       "t": 19589,
+       "spot": {
+        "x": 0.15,
+        "y": 0.38,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "وكانت هناك طرق أخرى: إبرة تغرسها من خارج الجدار والصّدر مفتوح، وإبرة طويلة تغرسها من داخل الغرفة.",
+       "t": 27453,
+       "spot": {
+        "x": 0.12,
+        "y": 0.14,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "أو صبّها إلى الوراء من المغسلة ذات التاج في أرض الردهة الزرقاء؛ وقليلًا ما يفعل ذلك.",
+       "t": 37863,
+       "spot": {
+        "x": 0.15,
+        "y": 0.85,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "لكنّ تشوبر اختار الطريق الأسهل والأكثر استعمالًا: رفع مرشّةً نحاسيّةً كبيرة، وصبّ الشتلات مباشرةً في مزالق التاج الأخضر فوق الفندق.",
+       "t": 45707,
+       "spot": {
+        "x": 0.5,
+        "y": 0.3,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "وأوقف الجريان لحظات ببالون صغير في المزلقة، لتتشبّث الشتلات بجدرانها وتستقرّ حيث يحتاج إليها.",
+       "t": 58728,
+       "spot": {
+        "x": 0.68,
+        "y": 0.56,
+        "r": 0.06
+       }
+      },
+      {
+       "text": "«المرشّة فوق مزالق التاج: الطريق الّذي يسلك إلى الندبة أكثر من غيره!» قال تشوبر.",
+       "t": 68653,
+       "spot": {
+        "x": 0.6,
+        "y": 0.55,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "فنظر تشوبر إلى الشتلات تجري في المزالق كالتّيّار، وتذكّر كلمة ملك القراصنة:",
+       "t": 75929,
+       "spot": {
+        "x": 0.6,
+        "y": 0.5,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "«الإرث المتوارث، وتيّار العصر، وأحلام الناس... هذه أشياء لا يوقفها أحد.»",
+       "quote": "ون بيس، غول دي روجر",
+       "t": 84515
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0265-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "Intracoronary infusion is the route used most often in clinical trials of cell delivery to the heart: A.",
+       "t": 0,
+       "spot": {
+        "x": 0.6,
+        "y": 0.5,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "Through a balloon catheter in the infarct artery, the cells are infused while the balloon is briefly inflated a few times, so they can stick to the vessel wall and move into the damaged muscle.",
+       "t": 7285,
+       "spot": {
+        "x": 0.68,
+        "y": 0.56,
+        "r": 0.06
+       }
+      },
+      {
+       "text": "It needs only a standard catheter laboratory, which is why most trials of bone marrow cells after infarction used it.",
+       "t": 18351,
+       "spot": {
+        "x": 0.6,
+        "y": 0.5,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "Injection into the muscle is the other main route: epicardial, through the open chest during surgery, or endocardial, by a catheter needle from inside the ventricle.",
+       "t": 25902,
+       "spot": {
+        "x": 0.12,
+        "y": 0.14,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "Intravenous infusion loses most cells in the lungs, and retrograde infusion through the coronary sinus has rarely been used.",
+       "t": 37024,
+       "spot": {
+        "x": 0.13,
+        "y": 0.6,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "Memory hook: the watering can pours down the crown's slides.",
+       "t": 45270,
+       "spot": {
+        "x": 0.45,
+        "y": 0.1,
+        "r": 0.12
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0265-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which of the following cell delivery techniques has been used most often in clinical trials of stem cell delivery to the heart?",
+     "options": [
+      "Intracoronary infusion",
+      "Epicardial injection",
+      "Intravenous infusion",
+      "Endocardial injection",
+      "Coronary sinus infusion"
+     ],
+     "answer": 0,
+     "explain": "Intracoronary infusion is the route used most often in clinical trials of cell delivery to the heart: A. Through a balloon catheter in the infarct artery, the cells are infused while the balloon is briefly inflated a few times, so they can stick to the vessel wall and move into the damaged muscle. It needs only a standard catheter laboratory, which is why most trials of bone marrow cells after infarction used it. Injection into the muscle is the other main route: epicardial, through the open chest during surgery, or endocardial, by a catheter needle from inside the ventricle. Intravenous infusion loses most cells in the lungs, and retrograde infusion through the coronary sinus has rarely been used. Memory hook: the watering can pours down the crown's slides.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q53.5",
+     "marks": [
+      3,
+      4,
+      5
+     ],
+     "answerMarks": [
+      1,
+      2
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0265.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.6,
+      "y": 0.5,
+      "r": 0.22
+     },
+     "what": "Watering can pouring down the slides",
+     "means": "Intracoronary infusion (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.68,
+      "y": 0.56,
+      "r": 0.05
+     },
+     "what": "Small balloon in a slide",
+     "means": "Balloon briefly inflated"
+    },
+    {
+     "spot": {
+      "x": 0.12,
+      "y": 0.14,
+      "r": 0.11
+     },
+     "what": "Needle from outside the wall",
+     "means": "Epicardial injection"
+    },
+    {
+     "spot": {
+      "x": 0.13,
+      "y": 0.6,
+      "r": 0.1
+     },
+     "what": "Usopp's drip in the arm",
+     "means": "Intravenous: cells lost"
+    },
+    {
+     "spot": {
+      "x": 0.15,
+      "y": 0.85,
+      "r": 0.1
+     },
+     "what": "Poured back from the sink",
+     "means": "Coronary sinus: rarely used"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0266",
+   "title": "Minimally invasive mitral surgery does not raise renal complications",
+   "titleAr": "جراحة التاجيّ طفيفة التوغّل لا تزيد المضاعفات الكلويّة",
+   "tags": [
+    "cardiac/mitral-tricuspid",
+    "d:complications",
+    "q:recall",
+    "l:2"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "على ظهر الفيل العملاق في زو، فتح فرانكي كوّةً صغيرةً في جانب صندوق الكنز الأيمن، ليصلح تاج الأسقف من خلالها.",
+       "t": 0,
+       "spot": {
+        "x": 0.67,
+        "y": 0.35,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فعاد البحّار إلى بيته مبكّرًا، وفي يده فاتورة صغيرة، فابتسم فرانكي.",
+       "t": 9419,
+       "spot": {
+        "x": 0.85,
+        "y": 0.65,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "لكنّ للكوّة الصغيرة أثمانها: شقّ في المغسلة ذات التاج حيث دفع أنبوب رفيع، وسلك هاتف مخدوش يقدح الشرر قرب الكوّة.",
+       "t": 16331,
+       "spot": {
+        "x": 0.53,
+        "y": 0.46,
+        "r": 0.07
+       }
+      },
+      {
+       "text": "وكيس الدولارات الأيمن قد صار بنفسجيًّا من الكدمات حيث دفع جانبًا.",
+       "t": 26908,
+       "spot": {
+        "x": 0.88,
+        "y": 0.45,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "«وحبّتا الفاصولياء أيضًا! الكوّة الصغيرة تجفّفهما؛ هاتوا الغسّالة!» صاح أوسوب، وهو يجرّ غسّالةً ثقيلة.",
+       "t": 32558,
+       "spot": {
+        "x": 0.15,
+        "y": 0.4,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "لكنّ الحبّتين كانتا ممتلئتين حمراوين، لم يمسّهما شيء؛ والغسّالة واقفة في ركنها يعلوها الغبار.",
+       "t": 42756,
+       "spot": {
+        "x": 0.45,
+        "y": 0.66,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«المغسلة والسّلك وكيس الدولارات قد تتأذّى من الكوّة؛ أمّا حبّتا الفاصولياء فلا يزيد أذاهما!» قال تشوبر.",
+       "t": 51488,
+       "spot": {
+        "x": 0.45,
+        "y": 0.66,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فرأت نامي أوسوب يلهث تحت الغسّالة الثقيلة، فضربت رأسه وصاحت:",
+       "t": 59847,
+       "spot": {
+        "x": 0.15,
+        "y": 0.4,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«أتمزح؟! أنت أسوأهم جميعًا!»",
+       "quote": "ون بيس، نامي",
+       "t": 66575
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0266-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "A higher incidence of renal complications is not associated with minimally invasive mitral surgery: A.",
+       "t": 0,
+       "spot": {
+        "x": 0.45,
+        "y": 0.66,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "In the picture, the kidney beans stay plump and the washing machine stays off, while the troubles gather round the small hatch.",
+       "t": 7625,
+       "spot": {
+        "x": 0.45,
+        "y": 0.66,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "Coronary sinus injury comes from the catheter passed into the sinus for retrograde cardioplegia, and phrenic nerve injury from work close to the nerve through a small incision.",
+       "t": 15870,
+       "spot": {
+        "x": 0.53,
+        "y": 0.46,
+        "r": 0.07
+       }
+      },
+      {
+       "text": "Lung trauma follows retraction and single-lung ventilation, and in a few patients unilateral pulmonary oedema after re-expansion.",
+       "t": 26457,
+       "spot": {
+        "x": 0.88,
+        "y": 0.45,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "Shorter stays and less bleeding and transfusion bring the cost down, and renal function is no worse than after sternotomy.",
+       "t": 35313,
+       "spot": {
+        "x": 0.45,
+        "y": 0.66,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "Memory hook: the sink, the cable and the dollar sack can suffer through the hatch; the kidney beans do not.",
+       "t": 43141,
+       "spot": {
+        "x": 0.67,
+        "y": 0.35,
+        "r": 0.12
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0266-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which of the following is not associated with minimally invasive mitral surgery?",
+     "options": [
+      "Higher incidence of renal complications",
+      "Coronary sinus injury",
+      "Phrenic nerve injury",
+      "Reduced cost",
+      "Lung trauma"
+     ],
+     "answer": 0,
+     "explain": "A higher incidence of renal complications is not associated with minimally invasive mitral surgery: A. In the picture, the kidney beans stay plump and the washing machine stays off, while the troubles gather round the small hatch. Coronary sinus injury comes from the catheter passed into the sinus for retrograde cardioplegia, and phrenic nerve injury from work close to the nerve through a small incision. Lung trauma follows retraction and single-lung ventilation, and in a few patients unilateral pulmonary oedema after re-expansion. Shorter stays and less bleeding and transfusion bring the cost down, and renal function is no worse than after sternotomy. Memory hook: the sink, the cable and the dollar sack can suffer through the hatch; the kidney beans do not.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q54.1",
+     "marks": [
+      2,
+      3,
+      4,
+      5,
+      6
+     ],
+     "answerMarks": [
+      1
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0266.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.45,
+      "y": 0.66,
+      "r": 0.12
+     },
+     "what": "Plump red kidney beans",
+     "means": "No more renal complications (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.67,
+      "y": 0.35,
+      "r": 0.11
+     },
+     "what": "Small hatch in the chest's side",
+     "means": "Minimally invasive mitral surgery"
+    },
+    {
+     "spot": {
+      "x": 0.53,
+      "y": 0.46,
+      "r": 0.06
+     },
+     "what": "Cracked sink",
+     "means": "Coronary sinus injury"
+    },
+    {
+     "spot": {
+      "x": 0.75,
+      "y": 0.48,
+      "r": 0.05
+     },
+     "what": "Scratched, sparking cable",
+     "means": "Phrenic nerve injury"
+    },
+    {
+     "spot": {
+      "x": 0.88,
+      "y": 0.45,
+      "r": 0.07
+     },
+     "what": "Bruised purple dollar sack",
+     "means": "Lung trauma, unilateral oedema"
+    },
+    {
+     "spot": {
+      "x": 0.85,
+      "y": 0.65,
+      "r": 0.07
+     },
+     "what": "Small bill in Luffy's hand",
+     "means": "Lower cost, shorter stay"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0267",
+   "title": "Minimally invasive aortic valve surgery: none of these incisions requires peripheral cannulation",
+   "titleAr": "جراحة الصمّام الأبهريّ طفيفة التوغّل: لا يحتاج أيّ من هذه الشقوق إلى قُنيّات طرفيّة",
+   "tags": [
+    "cardiac/aortic-valve",
+    "d:technique",
+    "q:recall",
+    "l:3"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في مطعم الباراتي العائم، جاء فرانكي ليركّب طقم أسنان جديدًا في فم حوت متعب، من غير أن يفتح مؤخّرة السفينة كلّها.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.3,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "ففتح الجزء العلويّ من المؤخّرة وحده، على شكل حرف جي؛ وأعدّ أبوابًا صغيرةً أخرى: حرف تي مقلوبًا، والنّصف السفليّ وحده، وبابًا صغيرًا بجانب الخطّ الأوسط.",
+       "t": 10355,
+       "spot": {
+        "x": 0.47,
+        "y": 0.45,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "«من باب صغير كهذا لن تدخل المدافع! لا بدّ أن ندخلها من الفخذ هناك!» قال أوسوب، وهو يجرّ مدفعًا نحاسيًّا ثقيلًا نحو عظم الفخذ الأبيض الطويل.",
+       "t": 24015,
+       "spot": {
+        "x": 0.3,
+        "y": 0.88,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "لكنّ فرانكي دفع المدافع الصغيرة مباشرةً في الحوت وفي الردهة الزرقاء، من الباب الصغير نفسه.",
+       "t": 37187,
+       "spot": {
+        "x": 0.5,
+        "y": 0.35,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "وفعل مثل ذلك من التي المقلوبة، ومن النصف السفليّ، ومن الباب الّذي بجانب الخطّ الأوسط.",
+       "t": 44916,
+       "spot": {
+        "x": 0.5,
+        "y": 0.58,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "«من كلّ باب صغير تدخل المدافع مباشرة؛ ومدفع الفخذ لا يحتاجه أيّ منها!» قال تشوبر.",
+       "t": 52318,
+       "spot": {
+        "x": 0.5,
+        "y": 0.45,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "فجلس أوسوب على مدفعه عند عظم الفخذ عابسًا، والعناكب تنسج عليه خيوطها.",
+       "t": 60065,
+       "spot": {
+        "x": 0.85,
+        "y": 0.88,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فمدّ لوفي ذراعه المطّاطيّة من بعيد، وانتزع أوسوب عن مدفعه، وصاح:",
+       "t": 67223,
+       "spot": {
+        "x": 0.15,
+        "y": 0.82,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«اصمت! هيّا بنا!»",
+       "quote": "ون بيس، مونكي دي لوفي",
+       "t": 74571
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0267-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "Peripheral cannulation is not required for any of these incisions: E.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.45,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "Through a J or inverted T partial upper sternotomy, a lower half sternotomy or a right parasternal incision, the ascending aorta and the right atrium can be cannulated directly.",
+       "t": 5278,
+       "spot": {
+        "x": 0.5,
+        "y": 0.45,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "In the picture, the brass cannons go straight into the orca and the lobby through every small opening, and the cannon by the thigh bone is never used.",
+       "t": 17068,
+       "spot": {
+        "x": 0.5,
+        "y": 0.58,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "Femoral cannulation stays an option when exposure is poor, and it is used more often with a right anterior mini-thoracotomy.",
+       "t": 26087,
+       "spot": {
+        "x": 0.85,
+        "y": 0.88,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "Memory hook: every small door takes its cannons straight in.",
+       "t": 34292,
+       "spot": {
+        "x": 0.5,
+        "y": 0.45,
+        "r": 0.3
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0267-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Peripheral cannulation is required for which of the following incisions for minimally invasive aortic valve surgery?",
+     "options": [
+      "\"J\" partial upper sternotomy",
+      "Midline lower half sternotomy",
+      "Inverted \"T\" upper half sternotomy",
+      "Parasternal incision",
+      "Peripheral cannulation is not required for any of these incisions."
+     ],
+     "answer": 4,
+     "explain": "Peripheral cannulation is not required for any of these incisions: E. Through a J or inverted T partial upper sternotomy, a lower half sternotomy or a right parasternal incision, the ascending aorta and the right atrium can be cannulated directly. In the picture, the brass cannons go straight into the orca and the lobby through every small opening, and the cannon by the thigh bone is never used. Femoral cannulation stays an option when exposure is poor, and it is used more often with a right anterior mini-thoracotomy. Memory hook: every small door takes its cannons straight in.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q54.2",
+     "marks": [
+      2,
+      3,
+      4,
+      6
+     ],
+     "answerMarks": [
+      1,
+      5
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0267.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.35,
+      "r": 0.2
+     },
+     "what": "Cannons straight through the small door",
+     "means": "No peripheral cannulation needed (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.47,
+      "y": 0.3,
+      "r": 0.22
+     },
+     "what": "J-shaped opening",
+     "means": "Partial upper (J) sternotomy"
+    },
+    {
+     "spot": {
+      "x": 0.47,
+      "y": 0.58,
+      "r": 0.13
+     },
+     "what": "Inverted-T opening",
+     "means": "Inverted T or lower sternotomy"
+    },
+    {
+     "spot": {
+      "x": 0.75,
+      "y": 0.58,
+      "r": 0.07
+     },
+     "what": "Small side door",
+     "means": "Right parasternal incision"
+    },
+    {
+     "spot": {
+      "x": 0.3,
+      "y": 0.88,
+      "r": 0.14
+     },
+     "what": "Usopp's cannon by the thigh",
+     "means": "Femoral cannulation: optional"
+    },
+    {
+     "spot": {
+      "x": 0.55,
+      "y": 0.35,
+      "r": 0.1
+     },
+     "what": "New dentures in the orca",
+     "means": "Aortic valve replacement"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0268",
+   "title": "MIDCAB: wound complications occur in nearly 10 percent",
+   "titleAr": "المجازة التاجيّة المباشرة طفيفة التوغّل: مضاعفات الجرح عند نحو 10 في المئة",
+   "tags": [
+    "cardiac/coronary",
+    "d:complications",
+    "q:numbers",
+    "l:3"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في أورانج تاون، فتحت لعشرة بحّارة كوّة صغيرة في الجانب الأيسر من صدورهم، لتمدّ منها كرمة فول الليما إلى مزلقة الفتى، والفندق يخفق لا يتوقّف.",
+       "t": 0,
+       "spot": {
+        "x": 0.26,
+        "y": 0.57,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فبلغت الكرمة الفتى، وخرج العشرة مبتسمين، وبقي التابوت الصغير في الركن شبه فارغ.",
+       "t": 12426,
+       "spot": {
+        "x": 0.16,
+        "y": 0.3,
+        "r": 0.09
+       }
+      },
+      {
+       "text": "وعند أحدهم انضغط طرف الكرمة، فأعيدت خياطته؛ فالخياطة من كوّة صغيرة على فندق يخفق ليست سهلة.",
+       "t": 19539,
+       "spot": {
+        "x": 0.18,
+        "y": 0.12,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«كوّة صغيرة كهذه لا تجلب همًّا أبدًا! باب صغير، همّ صغير!» قال أوسوب.",
+       "t": 28430,
+       "spot": {
+        "x": 0.1,
+        "y": 0.45,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "لكن بعد أسبوع، زحف عفن أخضر حول حافّة الكوّة عند واحد من العشرة: زورو!",
+       "t": 36559,
+       "spot": {
+        "x": 0.52,
+        "y": 0.82,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "«واحد من كلّ عشرة! الكوّة الصغيرة قد ينبت حولها العفن، وزورو هو ذلك الواحد!» قال تشوبر، وجرى إليه بقطعة قماش نظيفة.",
+       "t": 43649,
+       "spot": {
+        "x": 0.52,
+        "y": 0.7,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "لكنّ زورو لم يتحرّك؛ بل حدّق في العفن على صدره كما يحدّق في عدوّ تجرّأ على مبارزته.",
+       "t": 55059,
+       "spot": {
+        "x": 0.52,
+        "y": 0.82,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "وقال له ما قاله يومًا في هذه البلدة نفسها، لمبارز راح يضرب جرحه:",
+       "t": 62808,
+       "spot": {
+        "x": 0.52,
+        "y": 0.82,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "«إن خسرت أمام مثلك بهذه الجروح البسيطة، فأيّ مستقبل ينتظرني؟»",
+       "quote": "ون بيس، رورونوا زورو",
+       "t": 69733
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0268-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "Wound complications occur in nearly 10 percent of MIDCAB patients: D.",
+       "t": 0,
+       "spot": {
+        "x": 0.52,
+        "y": 0.62,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "MIDCAB brings the left internal mammary artery to the LAD through a small left anterior thoracotomy, on the beating heart; the spread ribs bring pain, infection, poor healing and, rarely, lung hernia.",
+       "t": 5726,
+       "spot": {
+        "x": 0.55,
+        "y": 0.25,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "In the picture, one sailor in ten grows green mould round his small hatch.",
+       "t": 20473,
+       "spot": {
+        "x": 0.52,
+        "y": 0.82,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "Early mortality is low, under 1 to 2 percent; graft stenosis at angiography and anastomotic revision are not rarer than after standard CABG, as the anastomosis is sewn through a small opening on a moving heart.",
+       "t": 26223,
+       "spot": {
+        "x": 0.16,
+        "y": 0.3,
+        "r": 0.09
+       }
+      },
+      {
+       "text": "Stroke is not more common after multivessel minimally invasive bypass, which often avoids handling the aorta.",
+       "t": 40524,
+       "spot": {
+        "x": 0.55,
+        "y": 0.35,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "Memory hook: one small hatch in ten grows mould.",
+       "t": 47796,
+       "spot": {
+        "x": 0.52,
+        "y": 0.82,
+        "r": 0.1
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0268-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which of the following is correct regarding minimally invasive coronary artery bypass surgery?",
+     "options": [
+      "Early mortality exceeds 2 percent for MIDCAB.",
+      "Less than 5 percent of MIDCAB LIMA-LAD grafts have significant stenosis at angiography.",
+      "Anastomotic revision is less common with MIDCAB compared with standard CAB.",
+      "Wound complications occur in nearly 10 percent of MIDCAB patients.",
+      "Stroke is more common after multivessel minimally invasive CAB compared with standard CAB."
+     ],
+     "answer": 3,
+     "explain": "Wound complications occur in nearly 10 percent of MIDCAB patients: D. MIDCAB brings the left internal mammary artery to the LAD through a small left anterior thoracotomy, on the beating heart; the spread ribs bring pain, infection, poor healing and, rarely, lung hernia. In the picture, one sailor in ten grows green mould round his small hatch. Early mortality is low, under 1 to 2 percent; graft stenosis at angiography and anastomotic revision are not rarer than after standard CABG, as the anastomosis is sewn through a small opening on a moving heart. Stroke is not more common after multivessel minimally invasive bypass, which often avoids handling the aorta. Memory hook: one small hatch in ten grows mould.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q54.3",
+     "marks": [
+      3,
+      4,
+      5,
+      6
+     ],
+     "answerMarks": [
+      1,
+      2
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0268.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.52,
+      "y": 0.82,
+      "r": 0.09
+     },
+     "what": "Green mould on Zoro's hatch",
+     "means": "Wound complications ~10% (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.52,
+      "y": 0.62,
+      "r": 0.09
+     },
+     "what": "Sign 10%",
+     "means": "Nearly 10 percent"
+    },
+    {
+     "spot": {
+      "x": 0.55,
+      "y": 0.3,
+      "r": 0.15
+     },
+     "what": "Lima vine to the lad's slide",
+     "means": "LIMA to LAD"
+    },
+    {
+     "spot": {
+      "x": 0.26,
+      "y": 0.57,
+      "r": 0.09
+     },
+     "what": "Small hatch on the left side",
+     "means": "Left anterior thoracotomy"
+    },
+    {
+     "spot": {
+      "x": 0.16,
+      "y": 0.3,
+      "r": 0.08
+     },
+     "what": "Small, almost empty coffin",
+     "means": "Low early mortality"
+    },
+    {
+     "spot": {
+      "x": 0.18,
+      "y": 0.12,
+      "r": 0.11
+     },
+     "what": "Vine end resewn",
+     "means": "Revision: not routine"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0269",
+   "title": "TECAB: cross-clamp and bypass times are longer",
+   "titleAr": "المجازة التاجيّة بالمنظار الكامل: زمنا الملقط والمجازة القلبيّة الرئويّة أطول",
+   "tags": [
+    "cardiac/coronary",
+    "d:technique",
+    "q:recall",
+    "l:3"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في إيغهيد، جزيرة المستقبل، لبس فرانكي أطول أذرعه الآليّة، رفيعةً كعيدان الأكل، ليمدّ كرمة فول الليما إلى مزلقة الفتى من غير أن يفتح مؤخّرة السفينة.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.3,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "فأدخلها من ثلاثة ثقوب صغيرة كثقوب المفاتيح في جانب صندوق الكنز، وأطبقت الكمّاشة الحديديّة على الحوت، وحملت شاحنة المضخّة عن الفندق عمله.",
+       "t": 14449,
+       "spot": {
+        "x": 0.4,
+        "y": 0.4,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«بالأذرع الآليّة سيكون العمل أسرع من أيّ وقت مضى؛ سأحسب لكم الوقت!» قال أوسوب، وقلب ساعةً رمليّةً كبيرةً بجانب الكمّاشة.",
+       "t": 28270,
+       "spot": {
+        "x": 0.13,
+        "y": 0.15,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "لكنّ الرمل جرى وجرى، فقلب أوسوب الساعة مرّةً أخرى؛ وطالت كذلك الساعة الرمليّة عند شاحنة المضخّة.",
+       "t": 40111,
+       "spot": {
+        "x": 0.92,
+        "y": 0.15,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "فكلّ عقدة تربط بأذرع طويلة رفيعة من ثقب صغير تأخذ وقتها؛ لكنّ الكرمة ثبتت على الفتى في النهاية.",
+       "t": 49976,
+       "spot": {
+        "x": 0.8,
+        "y": 0.7,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "وفي الفندق المجاور، حيث اختبأت مزلقة الفتى تحت جسر صغير من الطوب الأحمر، بحثت الأذرع الطويلة وبحثت فلم تجدها.",
+       "t": 60335,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.4
+       }
+      },
+      {
+       "text": "«أذرع آليّة من ثقوب صغيرة: وقت أطول تحت الكمّاشة، ووقت أطول على شاحنة المضخّة!» قال تشوبر.",
+       "t": 71468,
+       "spot": {
+        "x": 0.15,
+        "y": 0.63,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فنظر فرانكي إلى ذراعيه الآليّتين الطويلتين بفخر، وقال:",
+       "t": 80312,
+       "spot": {
+        "x": 0.5,
+        "y": 0.3,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "«سأبني سفينة أحلامي، وأراها تبلغ آخر البحر!»",
+       "quote": "ون بيس، فرانكي",
+       "t": 86958
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0269-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "TECAB is associated with prolonged cross-clamp and CPB times: B.",
+       "t": 0,
+       "spot": {
+        "x": 0.4,
+        "y": 0.4,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "Totally endoscopic coronary artery bypass uses a surgical robot through ports in the chest wall, and sewing through ports takes longer than through an open chest.",
+       "t": 5232,
+       "spot": {
+        "x": 0.18,
+        "y": 0.78,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "On the arrested heart, with peripheral bypass and an endoaortic balloon, the cross-clamp and bypass times are longer than in standard CABG; TECAB can also be done on the beating heart, so bypass is not always needed.",
+       "t": 15751,
+       "spot": {
+        "x": 0.15,
+        "y": 0.63,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "In the picture, the hourglasses by the tongs and by the pump truck both run long while Franky's robot arms work through keyholes.",
+       "t": 29503
+      },
+      {
+       "text": "An intramyocardial LAD is hard to find endoscopically and is a relative contraindication, conversion is well under 20 percent in experienced hands, and freedom from angina is comparable to standard CABG.",
+       "t": 37338,
+       "spot": {
+        "x": 0.5,
+        "y": 0.45,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "Memory hook: robot arms through keyholes, and both hourglasses run long.",
+       "t": 51619,
+       "spot": {
+        "x": 0.4,
+        "y": 0.4,
+        "r": 0.15
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0269-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "TECAB surgery is associated with:",
+     "options": [
+      "Requirement for CPB and arrested heart",
+      "Prolonged cross-clamp and CPB times",
+      "Conversion to open incisions in about 20 percent of patients",
+      "Reduced midterm freedom from angina compared with standard CAB",
+      "Ideally suited for intramyocardial LAD"
+     ],
+     "answer": 1,
+     "explain": "TECAB is associated with prolonged cross-clamp and CPB times: B. Totally endoscopic coronary artery bypass uses a surgical robot through ports in the chest wall, and sewing through ports takes longer than through an open chest. On the arrested heart, with peripheral bypass and an endoaortic balloon, the cross-clamp and bypass times are longer than in standard CABG; TECAB can also be done on the beating heart, so bypass is not always needed. In the picture, the hourglasses by the tongs and by the pump truck both run long while Franky's robot arms work through keyholes. An intramyocardial LAD is hard to find endoscopically and is a relative contraindication, conversion is well under 20 percent in experienced hands, and freedom from angina is comparable to standard CABG. Memory hook: robot arms through keyholes, and both hourglasses run long.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q54.4",
+     "marks": [
+      3,
+      4,
+      5,
+      6
+     ],
+     "answerMarks": [
+      1,
+      2
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0269.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.13,
+      "y": 0.15,
+      "r": 0.09
+     },
+     "what": "Long-running hourglass by the pump",
+     "means": "Prolonged bypass time (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.15,
+      "y": 0.63,
+      "r": 0.09
+     },
+     "what": "Long-running hourglass by the tongs",
+     "means": "Prolonged cross-clamp time (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.4,
+      "y": 0.4,
+      "r": 0.13
+     },
+     "what": "Robot arms through keyholes",
+     "means": "Totally endoscopic, robotic"
+    },
+    {
+     "spot": {
+      "x": 0.18,
+      "y": 0.8,
+      "r": 0.11
+     },
+     "what": "Iron tongs on the orca",
+     "means": "Endoaortic clamp"
+    },
+    {
+     "spot": {
+      "x": 0.65,
+      "y": 0.22,
+      "r": 0.1
+     },
+     "what": "Pump truck",
+     "means": "Cardiopulmonary bypass"
+    },
+    {
+     "spot": {
+      "x": 0.8,
+      "y": 0.7,
+      "r": 0.13
+     },
+     "what": "Vine reaching the lad",
+     "means": "LIMA to LAD"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0270",
+   "title": "Aortic arch atheroma is the strongest contraindication to minimally invasive mitral surgery",
+   "titleAr": "تصلّب قوس الأبهر أقوى موانع جراحة التاجيّ طفيفة التوغّل",
+   "tags": [
+    "cardiac/mitral-tricuspid",
+    "d:indications",
+    "q:recall",
+    "l:2"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في قصر ألباستا تحت شمس الصحراء، فتح فرانكي كوّةً صغيرةً في جانب صندوق الكنز الأيمن، ليصلح منها تاج الأسقف.",
+       "t": 0,
+       "spot": {
+        "x": 0.85,
+        "y": 0.4,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فمرّ من الكوّة البحّار السمين المرح، والّذي حفرت الجرّافة في صدره حفرة، والّذي على غطاء جنبه الأيمن ندبة قديمة، والّتي تحت صدرها وسادتان مستديرتان.",
+       "t": 9545,
+       "spot": {
+        "x": 0.6,
+        "y": 0.65,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "«وهذا الحوت ذو القطران على ظهره يمرّ أيضًا! القطران ملّيمتران فقط!» قال أوسوب، وهو يدفع الحوت نحو الكوّة.",
+       "t": 22610,
+       "spot": {
+        "x": 0.4,
+        "y": 0.22,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "لكنّ خرطوم شاحنة المضخّة كان موصولًا بمدفع عند عظم الفخذ، فاندفع الماء إلى الوراء صاعدًا في الحوت عكس مجراه.",
+       "t": 33152,
+       "spot": {
+        "x": 0.2,
+        "y": 0.5,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فتكسّرت رقائق القطران عن الظهر المقوّس، وطارت إلى الرأس، فضربته صاعقة.",
+       "t": 41963,
+       "spot": {
+        "x": 0.7,
+        "y": 0.15,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«ماء يجري إلى الوراء، وقوس عليه قطران: رقائق تطير إلى الرأس! هذا لا يمرّ من الكوّة!» قال تشوبر.",
+       "t": 49024,
+       "spot": {
+        "x": 0.45,
+        "y": 0.2,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "فأغلق فرانكي الكوّة الصغيرة، وفتح مؤخّرة السفينة من خطّها الأوسط، وأدخل المدفع في صعود الحوت الأماميّ قبل القوس.",
+       "t": 58613,
+       "spot": {
+        "x": 0.85,
+        "y": 0.4,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فلمع البرق في رأس الحوت، كأنّما ركله الأميرال كيزارو وهو يبتسم ويسأل:",
+       "t": 68513,
+       "spot": {
+        "x": 0.7,
+        "y": 0.15,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«هل ركلت يومًا بسرعة الضوء؟»",
+       "quote": "ون بيس، الأميرال كيزارو",
+       "t": 75918
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0270-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "Atherosclerotic plaque more than 2 mm high in the aortic arch is the strongest contraindication to minimally invasive mitral surgery: C.",
+       "t": 0,
+       "spot": {
+        "x": 0.4,
+        "y": 0.22,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "The approach usually relies on femoral cannulation, and retrograde perfusion drives blood backwards up the diseased aorta, where it can loosen debris into the head vessels and cause a stroke.",
+       "t": 10530,
+       "spot": {
+        "x": 0.2,
+        "y": 0.5,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "In the picture, flakes of tar break off the orca's arch as the water rushes backwards from the thigh cannon, and lightning strikes the head.",
+       "t": 22154,
+       "spot": {
+        "x": 0.55,
+        "y": 0.15,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "When the arch is diseased, central aortic cannulation or a conventional sternotomy is safer.",
+       "t": 30881,
+       "spot": {
+        "x": 0.85,
+        "y": 0.4,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "Obesity, pectus excavatum, a previous right thoracotomy and breast implants make the approach harder but do not forbid it.",
+       "t": 37643,
+       "spot": {
+        "x": 0.55,
+        "y": 0.65,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "Memory hook: backwards water over a tarred arch throws flakes into the head.",
+       "t": 46398,
+       "spot": {
+        "x": 0.55,
+        "y": 0.2,
+        "r": 0.25
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0270-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which of the following is the strongest contraindication to minimally invasive mitral valve surgery?",
+     "options": [
+      "Obesity",
+      "Pectus excavatum",
+      "Atherosclerotic plaque >2 mm in height in aortic arch",
+      "Previous right thoracotomy",
+      "Breast augmentation"
+     ],
+     "answer": 2,
+     "explain": "Atherosclerotic plaque more than 2 mm high in the aortic arch is the strongest contraindication to minimally invasive mitral surgery: C. The approach usually relies on femoral cannulation, and retrograde perfusion drives blood backwards up the diseased aorta, where it can loosen debris into the head vessels and cause a stroke. In the picture, flakes of tar break off the orca's arch as the water rushes backwards from the thigh cannon, and lightning strikes the head. When the arch is diseased, central aortic cannulation or a conventional sternotomy is safer. Obesity, pectus excavatum, a previous right thoracotomy and breast implants make the approach harder but do not forbid it. Memory hook: backwards water over a tarred arch throws flakes into the head.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q54.5",
+     "marks": [
+      4,
+      5,
+      6
+     ],
+     "answerMarks": [
+      1,
+      2,
+      3
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0270.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.4,
+      "y": 0.22,
+      "r": 0.16
+     },
+     "what": "Tar on the orca's arch, 2 mm",
+     "means": "Arch atheroma >2 mm (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.7,
+      "y": 0.15,
+      "r": 0.1
+     },
+     "what": "Flakes and lightning at the head",
+     "means": "Embolic stroke"
+    },
+    {
+     "spot": {
+      "x": 0.2,
+      "y": 0.5,
+      "r": 0.12
+     },
+     "what": "Cannon at the thigh bone",
+     "means": "Femoral cannulation, retrograde flow"
+    },
+    {
+     "spot": {
+      "x": 0.85,
+      "y": 0.42,
+      "r": 0.1
+     },
+     "what": "Fat sailor walking through",
+     "means": "Obesity: not a contraindication"
+    },
+    {
+     "spot": {
+      "x": 0.62,
+      "y": 0.58,
+      "r": 0.08
+     },
+     "what": "Excavator's hollow in a chest",
+     "means": "Pectus excavatum: harder, allowed"
+    },
+    {
+     "spot": {
+      "x": 0.55,
+      "y": 0.78,
+      "r": 0.1
+     },
+     "what": "Cushions under a chest",
+     "means": "Breast implants: allowed"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0271",
+   "title": "The yearly limit of whole-body radiation for staff is 5 rem",
+   "titleAr": "الحدّ السنويّ لجرعة الإشعاع على الجسم كلّه للعاملين 5 ريم",
+   "tags": [
+    "cardiac/foundations",
+    "d:evidence",
+    "q:numbers",
+    "l:2"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في مختبر على جزيرة بانك هازارد، نصفها نار ونصفها جليد، كان مصوّر يطلق من آلته ومضات خضراء، تقفز منها كباش مضيئة تنطح من حولها.",
+       "t": 0,
+       "spot": {
+        "x": 0.2,
+        "y": 0.22,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "وتحت الومضات، كان خيط صيد طويل رفيع يصعد من بكرته، من أعلى الفخذ، إلى فندق مريض.",
+       "t": 12859,
+       "spot": {
+        "x": 0.17,
+        "y": 0.35,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "فوقف تشوبر عند بوّابة المختبر وفي يده عدّاد، يعدّ الكباش الّتي تبلغ كلّ عامل في السنة.",
+       "t": 21121,
+       "spot": {
+        "x": 0.22,
+        "y": 0.85,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«القاعدة مئة كبش في العمر كلّه! سآخذ عشرين هذه السنة، ثمّ أرتاح بعدها!» قال أوسوب، وفتح البوّابة للكباش.",
+       "t": 28989,
+       "spot": {
+        "x": 0.1,
+        "y": 0.3,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "لكنّ تشوبر أغلق البوّابة في وجه الكبش السادس، والعدّاد على خمسة.",
+       "t": 40557,
+       "spot": {
+        "x": 0.7,
+        "y": 0.78,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«إذن أقف أبعد بمثلين، فلا يصلني إلّا النصف!» قال أوسوب، وتراجع إلى الوراء.",
+       "t": 46642,
+       "spot": {
+        "x": 0.1,
+        "y": 0.3,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فلم يصله إلّا ربع الشرارات، لا نصفها؛ ففتح فمه دهشة.",
+       "t": 54308,
+       "spot": {
+        "x": 0.1,
+        "y": 0.3,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "وفي الركن، كانت امرأة حامل تعمل في مئزر من الرصاص، وعلى خصرها شارة صغيرة خاصّة بها.",
+       "t": 60033,
+       "spot": {
+        "x": 0.86,
+        "y": 0.45,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "ومن ومضة واحدة، زحف سرطان أحمر صغير؛ فالسّرطان لا ينتظر عتبةً حتّى يخرج.",
+       "t": 68617,
+       "spot": {
+        "x": 0.37,
+        "y": 0.23,
+        "r": 0.06
+       }
+      },
+      {
+       "text": "«خمسة كباش في السنة، ولا كبش زيادة؛ ومن وقف أبعد بمثلين أصابه الربع!» قال تشوبر.",
+       "t": 76692,
+       "spot": {
+        "x": 0.22,
+        "y": 0.85,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فأطلّت الدكتورة كوريها العجوز من باب المختبر، وغمزت أوسوب قائلة:",
+       "t": 84499,
+       "spot": {
+        "x": 0.22,
+        "y": 0.85,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«تريد أن تعرف سرّ شبابي؟»",
+       "quote": "ون بيس، الدكتورة كوريها",
+       "t": 91358
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0271-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "The maximum amount of whole body radiation dose per year is 5 rems: D.",
+       "t": 0,
+       "spot": {
+        "x": 0.22,
+        "y": 0.85,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "This is the occupational limit for staff, 50 mSv; in the picture, five glowing rams (REMs) pass the gate each year and the sixth is stopped.",
+       "t": 5295,
+       "spot": {
+        "x": 0.5,
+        "y": 0.7,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "Cancer is a stochastic effect with no threshold: the risk rises with any dose, which is why every flash counts.",
+       "t": 14904,
+       "spot": {
+        "x": 0.37,
+        "y": 0.23,
+        "r": 0.06
+       }
+      },
+      {
+       "text": "Exposure falls with the square of the distance, so standing twice as far gives a quarter of the dose, not half.",
+       "t": 22912,
+       "spot": {
+        "x": 0.1,
+        "y": 0.3,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "Pregnant staff may keep working with a lead apron and a second badge at the waist; the limit for the fetus is 0.5 rem over the whole pregnancy.",
+       "t": 30118,
+       "spot": {
+        "x": 0.86,
+        "y": 0.45,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "The lifetime limit is about 1 rem times the age in years, not 100 rems.",
+       "t": 39669,
+       "spot": {
+        "x": 0.22,
+        "y": 0.85,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "Memory hook: five rams a year through the gate.",
+       "t": 45266,
+       "spot": {
+        "x": 0.5,
+        "y": 0.7,
+        "r": 0.2
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0271-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which of the following statements is true?",
+     "options": [
+      "A malignancy can occur after a certain threshold of radiation is exceeded.",
+      "If the operator stands twice as far away from the source of radiation, he or she decreases his exposure to radiation by half.",
+      "Pregnant lab personnel must not be exposed to fluoroscopy.",
+      "The maximum amount of whole body radiation dose per year is 5 rems.",
+      "The maximum amount of whole body radiation dose per lifetime is 100 rems."
+     ],
+     "answer": 3,
+     "explain": "The maximum amount of whole body radiation dose per year is 5 rems: D. This is the occupational limit for staff, 50 mSv; in the picture, five glowing rams (REMs) pass the gate each year and the sixth is stopped. Cancer is a stochastic effect with no threshold: the risk rises with any dose, which is why every flash counts. Exposure falls with the square of the distance, so standing twice as far gives a quarter of the dose, not half. Pregnant staff may keep working with a lead apron and a second badge at the waist; the limit for the fetus is 0.5 rem over the whole pregnancy. The lifetime limit is about 1 rem times the age in years, not 100 rems. Memory hook: five rams a year through the gate.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q55.1",
+     "marks": [
+      3,
+      4,
+      6
+     ],
+     "answerMarks": [
+      1,
+      2,
+      5
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0271.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.22,
+      "y": 0.86,
+      "r": 0.08
+     },
+     "what": "Counter showing 5",
+     "means": "5 rem a year (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.68,
+      "r": 0.18
+     },
+     "what": "Glowing rams through the gate",
+     "means": "Whole-body dose (REMs)"
+    },
+    {
+     "spot": {
+      "x": 0.37,
+      "y": 0.23,
+      "r": 0.06
+     },
+     "what": "Little red crab from a flash",
+     "means": "Cancer: no threshold"
+    },
+    {
+     "spot": {
+      "x": 0.86,
+      "y": 0.45,
+      "r": 0.11
+     },
+     "what": "Pregnant worker, lead apron",
+     "means": "Second badge at the waist"
+    },
+    {
+     "spot": {
+      "x": 0.7,
+      "y": 0.78,
+      "r": 0.08
+     },
+     "what": "Gate shut on the sixth ram",
+     "means": "No more than the limit"
+    },
+    {
+     "spot": {
+      "x": 0.2,
+      "y": 0.22,
+      "r": 0.1
+     },
+     "what": "Flashes from the camera",
+     "means": "Fluoroscopy source"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0272",
+   "title": "The mid-to-distal LAD is seen best in cranial views, not in the LAO caudal view",
+   "titleAr": "الشريان الأماميّ النازل في وسطه ونهايته يُرى أوضح في المساقط الرأسيّة لا في المسقط الأيسر الذيليّ",
+   "tags": [
+    "cardiac/coronary",
+    "d:diagnosis",
+    "q:recall",
+    "l:3"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في مكتب صحيفة الاقتصاد العالميّ، جاء المصوّر بصبغه الأرجوانيّ، يريد صورةً لمزلقة الفتى كلّها على وجه التاج الأخضر.",
+       "t": 0,
+       "spot": {
+        "x": 0.87,
+        "y": 0.1,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«من هنا، من الأسفل عند القدمين، ومن جهة اليسار! هذا أفضل مكان!» قال أوسوب، وجثا على الأرض بآلة التصوير.",
+       "t": 9428,
+       "spot": {
+        "x": 0.53,
+        "y": 0.85,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فخرجت الصورة كعنكبوت: أنبوب الماء الرئيسيّ ينقسم إلى الفتى والبهلوان، واضحًا جميلًا.",
+       "t": 20190,
+       "spot": {
+        "x": 0.22,
+        "y": 0.35,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "لكنّ مزلقة الفتى الطويلة إلى الأسفل انطوت على نفسها واختفت.",
+       "t": 27606,
+       "spot": {
+        "x": 0.22,
+        "y": 0.3,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فصعد المصوّر سلّمًا عاليًا فوق الرأس، وضغط الزرّ.",
+       "t": 32772,
+       "spot": {
+        "x": 0.87,
+        "y": 0.15,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فظهرت مزلقة الفتى كلّها، من أعلاها إلى آخرها، وكلّ منعطف فيها واضح.",
+       "t": 37305,
+       "spot": {
+        "x": 0.75,
+        "y": 0.35,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "وفي الصور الأخرى على الجدار، ظهرت بداية أنبوب الماء من اليسار، والبهلوان يلتفّ واضحًا من الأسفل.",
+       "t": 44235,
+       "spot": {
+        "x": 0.22,
+        "y": 0.35,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "«لوسط مزلقة الفتى وآخرها، اصعد نحو الرأس؛ أمّا العنكبوت من الأسفل فلانقسام الأنبوب الرئيسيّ!» قال تشوبر.",
+       "t": 52094,
+       "spot": {
+        "x": 0.5,
+        "y": 0.3,
+        "r": 0.4
+       }
+      },
+      {
+       "text": "فلبس أوسوب قناعه سرًّا، ورفع آلة التصوير كأنّها بندقيّة، وصاح:",
+       "t": 61025,
+       "spot": {
+        "x": 0.53,
+        "y": 0.85,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«أنا سوغيكينغ، ملك القنّاصين!»",
+       "quote": "ون بيس، أوسوب",
+       "t": 68269
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0272-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "The false statement is that the mid-to-distal LAD is best visualized in the LAO caudal projection: D.",
+       "t": 0,
+       "spot": {
+        "x": 0.22,
+        "y": 0.35,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "The LAO caudal \"spider\" view shows the left main and its split into the LAD and the circumflex, but it foreshortens the LAD.",
+       "t": 7181,
+       "spot": {
+        "x": 0.22,
+        "y": 0.35,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "The mid and distal LAD are best seen in cranial views, RAO cranial or AP cranial, which lay the vessel out along its length.",
+       "t": 15555,
+       "spot": {
+        "x": 0.75,
+        "y": 0.35,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "The other statements are true: the left main ostium in LAO or LAO cranial, the distal left main in AP or shallow RAO caudal, the circumflex in RAO or LAO caudal, and the ostium of the right posterior descending artery in a shallow RAO.",
+       "t": 24994
+      },
+      {
+       "text": "In the picture, the spider photo from low on the left shows the water main splitting, while the ladder photo from above shows the lad's whole slide.",
+       "t": 41426,
+       "spot": {
+        "x": 0.5,
+        "y": 0.3,
+        "r": 0.4
+       }
+      },
+      {
+       "text": "Memory hook: for the lad's slide, climb toward the head.",
+       "t": 50087,
+       "spot": {
+        "x": 0.87,
+        "y": 0.15,
+        "r": 0.12
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0272-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which of the following statements is false?",
+     "options": [
+      "The ostium of the LM is best seen in the LAO or LAO cranial projection.",
+      "The distal LM is best seen in an AP or shallow RAO caudal view.",
+      "The LCx is best visualized in the RAO or LAO caudal projection.",
+      "The mid-to-distal LAD is best visualized in the LAO caudal projection.",
+      "The ostium of the RPDA is best seen using a shallow RAO view."
+     ],
+     "answer": 3,
+     "explain": "The false statement is that the mid-to-distal LAD is best visualized in the LAO caudal projection: D. The LAO caudal \"spider\" view shows the left main and its split into the LAD and the circumflex, but it foreshortens the LAD. The mid and distal LAD are best seen in cranial views, RAO cranial or AP cranial, which lay the vessel out along its length. The other statements are true: the left main ostium in LAO or LAO cranial, the distal left main in AP or shallow RAO caudal, the circumflex in RAO or LAO caudal, and the ostium of the right posterior descending artery in a shallow RAO. In the picture, the spider photo from low on the left shows the water main splitting, while the ladder photo from above shows the lad's whole slide. Memory hook: for the lad's slide, climb toward the head.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q55.2",
+     "marks": [
+      2,
+      3,
+      4,
+      5
+     ],
+     "answerMarks": [
+      1
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0272.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.22,
+      "y": 0.35,
+      "r": 0.18
+     },
+     "what": "Spider photo from low on the left",
+     "means": "LAO caudal: not for the mid-distal LAD (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.22,
+      "y": 0.26,
+      "r": 0.1
+     },
+     "what": "Water main splitting in two",
+     "means": "Left main bifurcation"
+    },
+    {
+     "spot": {
+      "x": 0.75,
+      "y": 0.35,
+      "r": 0.18
+     },
+     "what": "Ladder photo: the whole slide",
+     "means": "Cranial view shows the LAD"
+    },
+    {
+     "spot": {
+      "x": 0.87,
+      "y": 0.1,
+      "r": 0.11
+     },
+     "what": "Photographer high on the ladder",
+     "means": "Cranial projection"
+    },
+    {
+     "spot": {
+      "x": 0.53,
+      "y": 0.85,
+      "r": 0.13
+     },
+     "what": "Usopp crouching low",
+     "means": "Caudal projection"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0273",
+   "title": "Balloon aortic valvuloplasty: a bridge to surgery or palliation, not for age alone",
+   "titleAr": "توسيع الصمّام الأبهريّ بالبالون: جسر إلى الجراحة أو تلطيف، لا لكِبَر السنّ وحده",
+   "tags": [
+    "cardiac/aortic-valve",
+    "d:indications",
+    "q:recall",
+    "l:2"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في قنوات ووتر سيفن، حمل تشوبر بالونًا مطّاطيًّا كبيرًا على سلك طويل، ينفخه في أفواه الحيتان الّتي صارت حجرًا، فيشقّها أوسع قليلًا.",
+       "t": 0,
+       "spot": {
+        "x": 0.45,
+        "y": 0.25,
+        "r": 0.22
+       }
+      },
+      {
+       "text": "فأوّلهم بحّار يلهث على نقّالة، يحمل على جسر من الخشب إلى كرسيّ طبيب الأسنان؛ فنفخ تشوبر البالون في فمه ليعبر الجسر حيًّا.",
+       "t": 12923,
+       "spot": {
+        "x": 0.15,
+        "y": 0.32,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "والثّاني بحّار عجوز واهن، أضعف من أن يبلغ كرسيّ الطبيب أبدًا؛ فوسّع تشوبر فمه بالبالون، فتنفّس في فراشه أسهل.",
+       "t": 25106,
+       "spot": {
+        "x": 0.9,
+        "y": 0.3,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«وهذا عمره خمسة وثمانون! كبر السنّ وحده يكفي؛ أعطوه البالون!» قال أوسوب، ودفع البالون نحو عجوز مرح يحمل عصًا.",
+       "t": 36592,
+       "spot": {
+        "x": 0.55,
+        "y": 0.65,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "لكنّ العجوز أزاح البالون بعصاه، ومشى إلى طبيب الأسنان مباشرة، وجلس في الكرسيّ لطقم أسنان جديد.",
+       "t": 48596,
+       "spot": {
+        "x": 0.55,
+        "y": 0.65,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "فقد كان صحيحًا قويًّا رغم سنّه؛ والبالون لا يشقّ الحجر إلّا قليلًا، ثمّ يضيق الفم من جديد.",
+       "t": 58321,
+       "spot": {
+        "x": 0.45,
+        "y": 0.25,
+        "r": 0.22
+       }
+      },
+      {
+       "text": "«البالون جسر إلى طبيب الأسنان، أو راحة لمن لا يبلغه؛ لا جائزة لكبر السنّ!» قال تشوبر.",
+       "t": 67435,
+       "spot": {
+        "x": 0.15,
+        "y": 0.72,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فعضّ العجوز بطقمه الجديد قطعة لحم كبيرة، وقال ضاحكًا ما قاله لوفي يومًا:",
+       "t": 75468,
+       "spot": {
+        "x": 0.8,
+        "y": 0.58,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«لا أريد أن أكون بطلًا؛ البطل يقاسم الناس لحمه، وأنا أريد اللحم كلّه لي!»",
+       "quote": "ون بيس، مونكي دي لوفي",
+       "t": 83691
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0273-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "Balloon aortic valvuloplasty is indicated as a bridge to surgery in an unstable patient with severe aortic stenosis and heart failure, and as palliation when surgery is impossible: A and C.",
+       "t": 0,
+       "spot": {
+        "x": 0.15,
+        "y": 0.32,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "The balloon cracks the calcified valve a little wider; the gain is modest, and the valve usually narrows again within months.",
+       "t": 13131,
+       "spot": {
+        "x": 0.45,
+        "y": 0.25,
+        "r": 0.22
+       }
+      },
+      {
+       "text": "Age alone is not an indication: a fit octogenarian or nonagenarian is offered valve replacement, surgical or transcatheter.",
+       "t": 21443,
+       "spot": {
+        "x": 0.55,
+        "y": 0.65,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "In the picture, the balloon carries the unstable sailor across the bridge and comforts the frail one in bed, while the fit old sailor walks past it to the new dentures.",
+       "t": 30668,
+       "spot": {
+        "x": 0.5,
+        "y": 0.4,
+        "r": 0.4
+       }
+      },
+      {
+       "text": "Memory hook: the balloon is a bridge or a comfort, never a reward for age.",
+       "t": 41370,
+       "spot": {
+        "x": 0.45,
+        "y": 0.25,
+        "r": 0.22
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0273-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which of the following is an indication for percutaneous balloon aortic valvuloplasty?",
+     "options": [
+      "Bridge to surgery in an unstable patient with severe aortic stenosis and heart failure",
+      "Octogenarians or nonagenarians who have severe aortic stenosis",
+      "Palliation in a patient with critical aortic stenosis who is not a surgical candidate due to multiple comorbidities",
+      "A and C",
+      "All of the above"
+     ],
+     "answer": 3,
+     "explain": "Balloon aortic valvuloplasty is indicated as a bridge to surgery in an unstable patient with severe aortic stenosis and heart failure, and as palliation when surgery is impossible: A and C. The balloon cracks the calcified valve a little wider; the gain is modest, and the valve usually narrows again within months. Age alone is not an indication: a fit octogenarian or nonagenarian is offered valve replacement, surgical or transcatheter. In the picture, the balloon carries the unstable sailor across the bridge and comforts the frail one in bed, while the fit old sailor walks past it to the new dentures. Memory hook: the balloon is a bridge or a comfort, never a reward for age.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q55.3",
+     "marks": [
+      3,
+      4,
+      5
+     ],
+     "answerMarks": [
+      1,
+      2
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0273.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.15,
+      "y": 0.32,
+      "r": 0.14
+     },
+     "what": "Stretcher carried over the bridge",
+     "means": "Bridge to surgery (A, the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.9,
+      "y": 0.3,
+      "r": 0.11
+     },
+     "what": "Frail sailor resting in bed",
+     "means": "Palliation for the unfit (C, the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.45,
+      "y": 0.25,
+      "r": 0.2
+     },
+     "what": "Balloon in the stone mouth",
+     "means": "Balloon aortic valvuloplasty"
+    },
+    {
+     "spot": {
+      "x": 0.55,
+      "y": 0.65,
+      "r": 0.16
+     },
+     "what": "Fit old man with a cane, walking on",
+     "means": "Age alone: not an indication"
+    },
+    {
+     "spot": {
+      "x": 0.82,
+      "y": 0.58,
+      "r": 0.11
+     },
+     "what": "New dentures waiting",
+     "means": "Valve replacement for the fit"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0274",
+   "title": "Dobutamine has not been shown to improve survival in heart failure",
+   "titleAr": "لم يثبت أنّ الدوبوتامين يُطيل البقاء في قصور القلب",
+   "tags": [
+    "cardiac/heart-failure",
+    "d:pharmacology",
+    "q:recall",
+    "l:2"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في أرخبيل ساباودي، وقفت زحمة طويلة من سيّارات الأجرة الصفراء، وبجانبها كعكة ميلاد طويلة تعدّ سنين السائقين بالشّموع.",
+       "t": 0,
+       "spot": {
+        "x": 0.85,
+        "y": 0.6,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "فجاء لاعب تنس وأرسل إرسالًا ساحقًا لا يردّ، فاشتعلت شمعة على الكعكة.",
+       "t": 10491,
+       "spot": {
+        "x": 0.15,
+        "y": 0.22,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "ثمّ صدّ حارس مرمى الهوكي القرص بوسادته الكبيرة، فاشتعلت شمعة ثانية؛ ومدّ تشوبر أوراق الملفوف على أشواك التاج المسدودة، فاشتعلت ثالثة.",
+       "t": 16842,
+       "spot": {
+        "x": 0.35,
+        "y": 0.25,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«دعوا هذا كلّه! انظروا إلى كلبي الدوبرمان؛ إنّه يجرّ أقوى منهم جميعًا!» صاح أوسوب، وأطلق الدوبرمان نحو السيّارات.",
+       "t": 28740,
+       "spot": {
+        "x": 0.35,
+        "y": 0.75,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فشدّ الدوبرمان رسنه بقوّة، وجرّ سيّارةً إلى الأمام لحظة، فهتف أوسوب.",
+       "t": 39778,
+       "spot": {
+        "x": 0.55,
+        "y": 0.7,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "لكنّ السيّارة تعبت ووقفت من جديد، ولم تشتعل على الكعكة شمعة واحدة.",
+       "t": 46843,
+       "spot": {
+        "x": 0.85,
+        "y": 0.6,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "«الإرسال الساحق، والحارس، والملفوف يضيفون سنين؛ أمّا الدوبرمان فيجرّ بقوّة، ولا يضيف شمعة!» قال تشوبر.",
+       "t": 53459,
+       "spot": {
+        "x": 0.15,
+        "y": 0.7,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فضحكت السيّارات من أوسوب، كما ضحكت قريته يومًا من صيحته القديمة:",
+       "t": 62895,
+       "spot": {
+        "x": 0.85,
+        "y": 0.6,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "«القراصنة قادمون! القراصنة قادمون!»",
+       "quote": "ون بيس، أوسوب",
+       "t": 69859
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0274-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "Dobutamine has not been shown to improve survival in heart failure: C.",
+       "t": 0,
+       "spot": {
+        "x": 0.55,
+        "y": 0.7,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "It raises contractility and output for a while, which helps in cardiogenic shock or as a bridge, but long-term inotropes have been linked to more arrhythmias and higher mortality.",
+       "t": 5088,
+       "spot": {
+        "x": 0.55,
+        "y": 0.7,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "ACE inhibitors and beta-blockers improve survival in heart failure with a reduced ejection fraction.",
+       "t": 15753,
+       "spot": {
+        "x": 0.35,
+        "y": 0.25,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "Surgical revascularization improves long-term survival in ischaemic cardiomyopathy (STICH, at 10 years).",
+       "t": 22604,
+       "spot": {
+        "x": 0.75,
+        "y": 0.22,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "In the picture, the tennis player, the goalkeeper and the cabbage leaves each light a candle on the cake of years; the Doberman drags a taxi forward but lights none.",
+       "t": 30518,
+       "spot": {
+        "x": 0.5,
+        "y": 0.38,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "Memory hook: the Doberman pulls hard but adds no candle.",
+       "t": 41596,
+       "spot": {
+        "x": 0.55,
+        "y": 0.7,
+        "r": 0.18
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0274-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which of the following treatments has not been shown to improve survival in patients with heart failure?",
+     "options": [
+      "Surgical revascularization",
+      "Angiotensin converting enzyme inhibitors",
+      "Dobutamine",
+      "Beta-blockers",
+      "None of the above"
+     ],
+     "answer": 2,
+     "explain": "Dobutamine has not been shown to improve survival in heart failure: C. It raises contractility and output for a while, which helps in cardiogenic shock or as a bridge, but long-term inotropes have been linked to more arrhythmias and higher mortality. ACE inhibitors and beta-blockers improve survival in heart failure with a reduced ejection fraction. Surgical revascularization improves long-term survival in ischaemic cardiomyopathy (STICH, at 10 years). In the picture, the tennis player, the goalkeeper and the cabbage leaves each light a candle on the cake of years; the Doberman drags a taxi forward but lights none. Memory hook: the Doberman pulls hard but adds no candle.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q55.4",
+     "marks": [
+      2,
+      3,
+      4,
+      5,
+      6
+     ],
+     "answerMarks": [
+      1
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0274.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.55,
+      "y": 0.7,
+      "r": 0.16
+     },
+     "what": "Doberman pulling hard",
+     "means": "Dobutamine: no survival gain (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.15,
+      "y": 0.22,
+      "r": 0.1
+     },
+     "what": "Tennis serve",
+     "means": "ACE inhibitors improve survival"
+    },
+    {
+     "spot": {
+      "x": 0.35,
+      "y": 0.25,
+      "r": 0.1
+     },
+     "what": "Hockey goalkeeper",
+     "means": "Beta-blockers improve survival"
+    },
+    {
+     "spot": {
+      "x": 0.75,
+      "y": 0.22,
+      "r": 0.11
+     },
+     "what": "Cabbage on the crown",
+     "means": "Surgical revascularisation (STICH)"
+    },
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.4,
+      "r": 0.3
+     },
+     "what": "Cake of years with candles",
+     "means": "Longer survival"
+    },
+    {
+     "spot": {
+      "x": 0.85,
+      "y": 0.6,
+      "r": 0.15
+     },
+     "what": "Taxi jam",
+     "means": "Heart failure"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0276",
+   "title": "On TEE, dyskinesis is paradoxical systolic motion of the wall",
+   "titleAr": "في تخطيط الصدى عبر المريء، خلل الحركة (الديسكينيزيا) حركة معاكسة للجدار في الانقباض",
+   "tags": [
+    "cardiac/foundations",
+    "d:diagnosis",
+    "q:recall",
+    "l:2"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في حلبة دريسروزا، كان جدار غرفة المحرّك الحمراء حلقةً من راقصي الفلامينكو، يخطون إلى الداخل معًا على كلّ دقّة.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "ومن داخل منزلق الأريكة الورديّة خلف الفندق، راقبهم الخفّاش بحلقات صوته.",
+       "t": 9216,
+       "spot": {
+        "x": 0.18,
+        "y": 0.22,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "أكثرهم يخطو إلى الداخل خطوةً كاملة؛ وواحد يخطو قليلًا؛ وواحد واقف لا يتحرّك كالتّمثال.",
+       "t": 15785,
+       "spot": {
+        "x": 0.4,
+        "y": 0.5,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "وبجانب الفندق أيّل صريع، في جنبه سهم.",
+       "t": 24000,
+       "spot": {
+        "x": 0.88,
+        "y": 0.28,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "«التمثال أغربهم! هو الّذي يتحرّك في الاتّجاه الخطأ!» قال أوسوب، وأشار إلى الراقص الواقف.",
+       "t": 28027,
+       "spot": {
+        "x": 0.25,
+        "y": 0.75,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "لكنّ التمثال لم يتحرّك لا إلى الداخل ولا إلى الخارج؛ كان واقفًا فحسب.",
+       "t": 36442,
+       "spot": {
+        "x": 0.4,
+        "y": 0.5,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "ثمّ كشف صدى الخفّاش راقص ديسكو في بدلة فضّيّة لامعة: كلّما خطا الجميع إلى الداخل، خطا هو إلى الخارج!",
+       "t": 42319,
+       "spot": {
+        "x": 0.85,
+        "y": 0.55,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«راقص الديسكو يخرج حين يدخل الجميع: حركة معاكسة للدّقّة!» قال تشوبر.",
+       "t": 51175,
+       "spot": {
+        "x": 0.85,
+        "y": 0.55,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فلم يبال راقص الديسكو بالصّيحات، ورفع إصبعه نحو السقف، وردّد كلمة زورو:",
+       "t": 58089,
+       "spot": {
+        "x": 0.85,
+        "y": 0.55,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«ليقل الناس عنّي ما شاؤوا؛ ما فعلت في حياتي شيئًا واحدًا أندم عليه!»",
+       "quote": "ون بيس، رورونوا زورو",
+       "t": 65563
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0276-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "Dyskinesis is paradoxical systolic motion, the segment bulging outward while the rest of the ventricle contracts: D.",
+       "t": 0,
+       "spot": {
+        "x": 0.85,
+        "y": 0.55,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "Intraoperative TEE grades each segment by its inward motion and thickening: normal (thickening above about 30 percent), mild hypokinesis (10 to 30 percent), severe hypokinesis (below 10 percent), akinesis (none) and dyskinesis (outward motion).",
+       "t": 8938,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "The numbers in the other options do not match this grading.",
+       "t": 27715
+      },
+      {
+       "text": "In the picture, the ring of dancers steps in on the beat; one steps in only a little, one stands still, and the disco dancer steps out.",
+       "t": 31488,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "A new wall motion abnormality on TEE is an early sign of ischaemia, often before the ECG changes.",
+       "t": 40520,
+       "spot": {
+        "x": 0.88,
+        "y": 0.28,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "Memory hook: DYS-kinesis, the DISCO dancer who steps out.",
+       "t": 48303,
+       "spot": {
+        "x": 0.85,
+        "y": 0.55,
+        "r": 0.12
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0276-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which is correct for assessment of LV regional wall motion by anesthesia?",
+     "options": [
+      "Normal >40 percent thickening",
+      "Mild hypokinesis = 25 to 40 percent thickening",
+      "Severe hypokinesis = 20 percent thickening",
+      "Dyskinesis = paradoxical systolic motion",
+      "Akinetic <10 percent thickening"
+     ],
+     "answer": 3,
+     "explain": "Dyskinesis is paradoxical systolic motion, the segment bulging outward while the rest of the ventricle contracts: D. Intraoperative TEE grades each segment by its inward motion and thickening: normal (thickening above about 30 percent), mild hypokinesis (10 to 30 percent), severe hypokinesis (below 10 percent), akinesis (none) and dyskinesis (outward motion). The numbers in the other options do not match this grading. In the picture, the ring of dancers steps in on the beat; one steps in only a little, one stands still, and the disco dancer steps out. A new wall motion abnormality on TEE is an early sign of ischaemia, often before the ECG changes. Memory hook: DYS-kinesis, the DISCO dancer who steps out.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q56.1",
+     "marks": [
+      2,
+      3,
+      4,
+      5,
+      6
+     ],
+     "answerMarks": [
+      1
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0276.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.85,
+      "y": 0.55,
+      "r": 0.12
+     },
+     "what": "Disco dancer stepping out",
+     "means": "Dyskinesis: paradoxical motion (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.48,
+      "y": 0.5,
+      "r": 0.25
+     },
+     "what": "Ring of flamenco dancers stepping in",
+     "means": "Normal inward motion"
+    },
+    {
+     "spot": {
+      "x": 0.3,
+      "y": 0.47,
+      "r": 0.08
+     },
+     "what": "Dancer stepping in a little",
+     "means": "Hypokinesis"
+    },
+    {
+     "spot": {
+      "x": 0.65,
+      "y": 0.47,
+      "r": 0.08
+     },
+     "what": "Dancer standing still",
+     "means": "Akinesis"
+    },
+    {
+     "spot": {
+      "x": 0.18,
+      "y": 0.22,
+      "r": 0.09
+     },
+     "what": "Bat inside the slide",
+     "means": "Transoesophageal echo"
+    },
+    {
+     "spot": {
+      "x": 0.88,
+      "y": 0.28,
+      "r": 0.09
+     },
+     "what": "Stag with an arrow",
+     "means": "Ischaemia, infarction"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0277",
+   "title": "The pulmonary vein reversal wave (PVa) comes from left atrial contraction",
+   "titleAr": "الموجة الراجعة في الأوردة الرئويّة (PVa) سببها انقباض الأذين الأيسر",
+   "tags": [
+    "cardiac/foundations",
+    "d:physiology",
+    "q:recall",
+    "l:3"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في نهر من الغيوم في سكايبيا، كان الماء ينزل في أنابيب الدولارات إلى ردهة الفندق الحمراء في موجتين كبيرتين.",
+       "t": 0,
+       "spot": {
+        "x": 0.4,
+        "y": 0.25,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "ومرّةً مع كلّ دقّة، كانت رشّة صغيرة تقفز إلى الأعلى في الأنابيب، عكس التيّار.",
+       "t": 9512,
+       "spot": {
+        "x": 0.35,
+        "y": 0.42,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "وعلى الأنابيب أضواء سيّارة شرطة حمراء وزرقاء، تومض مع كلّ موجة وكلّ رشّة.",
+       "t": 17461,
+       "spot": {
+        "x": 0.6,
+        "y": 0.06,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "«إنّها الأنابيب! فيها خمس موجات، وواحدة منها تعود من تلقاء نفسها!» قال أوسوب، وألصق أذنه بالأنبوب.",
+       "t": 25306,
+       "spot": {
+        "x": 0.12,
+        "y": 0.3,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "لكنّهم عدّوا الموجات: موجتان تنزلان، ورشّة صغيرة تصعد؛ لا خمس.",
+       "t": 36084,
+       "spot": {
+        "x": 0.35,
+        "y": 0.25,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "ثمّ رأوا من أين تأتي الرشّة: روبين أنبتت أذرعًا كثيرةً من جدران الردهة، وعصرت الردهة الحمراء في آخر كلّ دقّة.",
+       "t": 43709,
+       "spot": {
+        "x": 0.4,
+        "y": 0.6,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "«حين أعصر الردهة، يمضي أكثر الماء إلى غرفة المحرّك، ويعود قليل منه إلى الأنابيب.» قالت روبين مبتسمة.",
+       "t": 54446,
+       "spot": {
+        "x": 0.85,
+        "y": 0.3,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "أمّا في فندق ثان يرتجف في ردهته الحمراء بينوكيو، فلم تقفز رشّة واحدة.",
+       "t": 63295,
+       "spot": {
+        "x": 0.85,
+        "y": 0.65,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "«الرشّة الراجعة في أنابيب الدولارات من عصر الردهة؛ وكلّما ثقل على الردهة دفعها، طالت الرشّة وقويت!» قال تشوبر.",
+       "t": 70637,
+       "spot": {
+        "x": 0.35,
+        "y": 0.42,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "فضحك أوسوب من نفسه، أمّا روبين فأغمضت عينيها راضية، وهمست بحلمها القديم:",
+       "t": 80043,
+       "spot": {
+        "x": 0.85,
+        "y": 0.3,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«أريد أن أعرف التاريخ الحقيقيّ لهذا العالم!»",
+       "quote": "ون بيس، نيكو روبين",
+       "t": 88712
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0277-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "The atrial reversal wave of pulmonary vein flow (PVa) is related to left atrial contraction: B.",
+       "t": 0,
+       "spot": {
+        "x": 0.35,
+        "y": 0.42,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "Pulmonary venous flow has a forward systolic wave (S), a forward diastolic wave (D) and a small reversal at the end of diastole (PVa), when the contracting atrium pushes some blood back into the veins.",
+       "t": 7197,
+       "spot": {
+        "x": 0.4,
+        "y": 0.25,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "With high filling pressures the systolic wave becomes smaller than the diastolic one, and the PVa wave becomes larger and longer.",
+       "t": 20929,
+       "spot": {
+        "x": 0.35,
+        "y": 0.42,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "A PVa that lasts longer than the mitral A wave, by more than about 30 ms, indicates a high left ventricular end-diastolic pressure; the reverse is normal.",
+       "t": 29084,
+       "spot": {
+        "x": 0.35,
+        "y": 0.42,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "In the picture, two waves rush down the money pipes, and only when Robin's arms squeeze the red lobby does a small splash leap back up.",
+       "t": 40618,
+       "spot": {
+        "x": 0.4,
+        "y": 0.6,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "Memory hook: the lobby's squeeze sends the splash back up the pipes.",
+       "t": 48952,
+       "spot": {
+        "x": 0.4,
+        "y": 0.6,
+        "r": 0.18
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0277-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which is true regarding pulmonary vein flow on echocardiography?",
+     "options": [
+      "There are five velocities.",
+      "PVa is related to left atrial contraction.",
+      "Pulmonary vein systolic velocity peak greater than diastolic velocity peak suggests elevated left atrial pressures.",
+      "Duration and peak PVa velocity are decreased in the setting of high filling pressures.",
+      "Mitral inflow A wave duration greater than PVa duration indicates high left atrial pressures."
+     ],
+     "answer": 1,
+     "explain": "The atrial reversal wave of pulmonary vein flow (PVa) is related to left atrial contraction: B. Pulmonary venous flow has a forward systolic wave (S), a forward diastolic wave (D) and a small reversal at the end of diastole (PVa), when the contracting atrium pushes some blood back into the veins. With high filling pressures the systolic wave becomes smaller than the diastolic one, and the PVa wave becomes larger and longer. A PVa that lasts longer than the mitral A wave, by more than about 30 ms, indicates a high left ventricular end-diastolic pressure; the reverse is normal. In the picture, two waves rush down the money pipes, and only when Robin's arms squeeze the red lobby does a small splash leap back up. Memory hook: the lobby's squeeze sends the splash back up the pipes.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q56.2",
+     "marks": [
+      3,
+      4,
+      5
+     ],
+     "answerMarks": [
+      1,
+      2
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0277.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.4,
+      "y": 0.6,
+      "r": 0.18
+     },
+     "what": "Robin's arms squeezing the lobby",
+     "means": "Left atrial contraction (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.35,
+      "y": 0.42,
+      "r": 0.08
+     },
+     "what": "Small splash jumping back up",
+     "means": "PVa reversal wave"
+    },
+    {
+     "spot": {
+      "x": 0.25,
+      "y": 0.15,
+      "r": 0.12
+     },
+     "what": "Waves rushing down the pipes",
+     "means": "Forward S and D waves"
+    },
+    {
+     "spot": {
+      "x": 0.85,
+      "y": 0.65,
+      "r": 0.09
+     },
+     "what": "Trembling Pinocchio, no splash",
+     "means": "Atrial fibrillation: no PVa"
+    },
+    {
+     "spot": {
+      "x": 0.82,
+      "y": 0.06,
+      "r": 0.07
+     },
+     "what": "Police car lights",
+     "means": "Pulsed Doppler"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0278",
+   "title": "An eccentric, wall-impinging jet is a sign of severe mitral regurgitation",
+   "titleAr": "النفث اللامركزيّ الملتصق بالجدار علامة على قلس تاجيّ شديد",
+   "tags": [
+    "cardiac/mitral-tricuspid",
+    "d:diagnosis",
+    "q:recall",
+    "l:2"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في ملاهي ساباودي ليلًا، تجمّعت الحشود عند الفندق لتتفرّج على العرض في الردهة الحمراء.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.4
+       }
+      },
+      {
+       "text": "فتاج الأسقف لم يعد ينغلق، والماء يقرقر راجعًا منه إلى الردهة مع كلّ دقّة؛ والخفّاش يراقب بحلقات صوته.",
+       "t": 6989,
+       "spot": {
+        "x": 0.5,
+        "y": 0.7,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«النفثة صغيرة! أربعة ملّيمترات عند عنقها، ولا تملأ إلّا خمس الردهة؛ لا شيء يذكر!» قال أوسوب، وهو يقيس نفثةً صغيرةً في الوسط بمسطرته.",
+       "t": 16405,
+       "spot": {
+        "x": 0.3,
+        "y": 0.8,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "لكنّ الماء انطلق فجأةً إلى الجانب، والتصق بجدار الردهة، وأخذ يدور حوله ويدور، كمتسابق على درّاجة ناريّة يدور على جدار عموديّ.",
+       "t": 30383,
+       "spot": {
+        "x": 0.5,
+        "y": 0.3,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "فهتفت الحشود، وارتجّ جدار الردهة تحت النفثة المسرعة.",
+       "t": 42214,
+       "spot": {
+        "x": 0.3,
+        "y": 0.55,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فأسقط أوسوب مسطرته؛ فالنّفثة الّتي تلتصق بالجدار تبدو دائمًا أصغر ممّا هي.",
+       "t": 47455,
+       "spot": {
+        "x": 0.3,
+        "y": 0.8,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«نفثة تلتصق بالجدار وتدور حوله: هذا هو التسرّب الشديد، مهما بدا حجمها!» قال تشوبر.",
+       "t": 54291,
+       "spot": {
+        "x": 0.5,
+        "y": 0.3,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "وتعالت الصيحات حول الردهة كأنّها إعصار، فصاحت امرأة من الحشد بكلمة الإمبراطورة هانكوك:",
+       "t": 62388,
+       "spot": {
+        "x": 0.3,
+        "y": 0.55,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«الحبّ دائمًا إعصار!»",
+       "quote": "ون بيس، بوا هانكوك",
+       "t": 70881
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0278-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "An eccentric wall-impinging jet that swirls round the left atrium is a sign of severe mitral regurgitation: C.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.3,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "Such jets cling to the atrial wall (the Coanda effect) and look smaller on colour Doppler than they are, so their area underestimates the leak.",
+       "t": 8341,
+       "spot": {
+        "x": 0.5,
+        "y": 0.3,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "The thresholds in A and B are too low: severe regurgitation has a jet area over 40 percent of the left atrium and a vena contracta of 7 mm or more.",
+       "t": 17235,
+       "spot": {
+        "x": 0.3,
+        "y": 0.8,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "A dilated left ventricle and left atrium support chronic severe regurgitation but are not specific signs.",
+       "t": 29136
+      },
+      {
+       "text": "In the picture, the spray races round the lobby wall like a stunt rider, while Usopp measures a small central puff.",
+       "t": 36480,
+       "spot": {
+        "x": 0.3,
+        "y": 0.8,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "Memory hook: a jet that rides the wall is a severe leak.",
+       "t": 44201,
+       "spot": {
+        "x": 0.5,
+        "y": 0.3,
+        "r": 0.2
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0278-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which is an echo finding of severe MR?",
+     "options": [
+      "Regurgitant jet >20 percent of LA area",
+      "Vena contracta >4 mm",
+      "Eccentric wall-impinging jet",
+      "LV end-diastolic dimension >60 mm",
+      "LA dimension >4.5 cm"
+     ],
+     "answer": 2,
+     "explain": "An eccentric wall-impinging jet that swirls round the left atrium is a sign of severe mitral regurgitation: C. Such jets cling to the atrial wall (the Coanda effect) and look smaller on colour Doppler than they are, so their area underestimates the leak. The thresholds in A and B are too low: severe regurgitation has a jet area over 40 percent of the left atrium and a vena contracta of 7 mm or more. A dilated left ventricle and left atrium support chronic severe regurgitation but are not specific signs. In the picture, the spray races round the lobby wall like a stunt rider, while Usopp measures a small central puff. Memory hook: a jet that rides the wall is a severe leak.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q56.3",
+     "marks": [
+      2,
+      3,
+      4
+     ],
+     "answerMarks": [
+      1
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0278.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.3,
+      "r": 0.2
+     },
+     "what": "Jet racing round the lobby wall",
+     "means": "Eccentric wall-impinging jet (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.55,
+      "r": 0.15
+     },
+     "what": "Mitre that no longer closes",
+     "means": "Mitral regurgitation"
+    },
+    {
+     "spot": {
+      "x": 0.3,
+      "y": 0.8,
+      "r": 0.1
+     },
+     "what": "Usopp's small ruler",
+     "means": "Small jet thresholds: too low"
+    },
+    {
+     "spot": {
+      "x": 0.85,
+      "y": 0.25,
+      "r": 0.08
+     },
+     "what": "Bat with sound rings",
+     "means": "Colour Doppler echo"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0279",
+   "title": "Severe aortic regurgitation: LV end-systolic dimension over 50 mm",
+   "titleAr": "القلس الأبهريّ الشديد: قطر البطين الأيسر في نهاية الانقباض أكثر من 50 مم",
+   "tags": [
+    "cardiac/aortic-valve",
+    "d:diagnosis",
+    "q:numbers",
+    "l:3"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في ورشة خيّاط عملاق على جزيرة الكعكة الكاملة، لفّ تشوبر شريط القياس الأصفر حول غرفة المحرّك الحمراء لفندق تدلّى فم حوته.",
+       "t": 0,
+       "spot": {
+        "x": 0.55,
+        "y": 0.75,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "فمع كلّ دقّة كان الفم يقرقر راجعًا إلى الغرفة، والغرفة تتّسع لتسع الماء العائد.",
+       "t": 10933,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«ساعتي تقول إنّ الماء الراجع يهدأ في أقلّ من ثلاثمئة! هذا تسرّب شديد!» قال أوسوب، وهو يرفع ساعة إيقاف.",
+       "t": 18405,
+       "spot": {
+        "x": 0.4,
+        "y": 0.55,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "لكنّ تشوبر هزّ رأسه: ثلاثمئة ليست سريعةً بما يكفي؛ فالتّسرّب الشديد يهدأ في أقلّ من مئتين.",
+       "t": 28800,
+       "spot": {
+        "x": 0.85,
+        "y": 0.7,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "وكان الماء يجري راجعًا على طول ذيل الحوت طوال الاستراحة بين الدقّات، لا في العصرة وحدها.",
+       "t": 37740,
+       "spot": {
+        "x": 0.4,
+        "y": 0.25,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "ثمّ انتظر تشوبر حتّى عصرت الغرفة نفسها إلى أقصى ما تستطيع، وقرأ الشريط: حتّى عندئذ، أكثر من خمسين.",
+       "t": 45366,
+       "spot": {
+        "x": 0.55,
+        "y": 0.75,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«في أشدّ فراغها، وما زالت فوق الخمسين: التسرّب شديد، والغرفة بدأت تتعب!» قال تشوبر.",
+       "t": 54944,
+       "spot": {
+        "x": 0.55,
+        "y": 0.75,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "فمالت غرفة المحرّك المتعبة، كأنّها زورو بعد أن نزف كثيرًا، وتمتمت:",
+       "t": 63119,
+       "spot": {
+        "x": 0.55,
+        "y": 0.7,
+        "r": 0.22
+       }
+      },
+      {
+       "text": "«أشعر بدوار خفيف...»",
+       "quote": "ون بيس، رورونوا زورو",
+       "t": 70402
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0279-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "An LV end-systolic dimension over 50 mm is the finding of severe aortic regurgitation here: A.",
+       "t": 0,
+       "spot": {
+        "x": 0.55,
+        "y": 0.75,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "Chronic severe regurgitation loads the ventricle with volume; an end-systolic dimension above 50 mm (or 25 mm/m2) marks a ventricle that is starting to fail and is an indication for surgery even without symptoms.",
+       "t": 8325,
+       "spot": {
+        "x": 0.55,
+        "y": 0.75,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "The other thresholds are wrong: severe regurgitation has a pressure half-time under 200 ms, a vena contracta over 6 mm and a jet width of 65 percent or more of the outflow tract.",
+       "t": 24545,
+       "spot": {
+        "x": 0.4,
+        "y": 0.55,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "The flow reversal in the descending aorta that marks severe regurgitation is holodiastolic, not systolic.",
+       "t": 38327,
+       "spot": {
+        "x": 0.4,
+        "y": 0.25,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "In the picture, the tape round the engine room reads past 50 even when the room is at its emptiest.",
+       "t": 45822,
+       "spot": {
+        "x": 0.55,
+        "y": 0.75,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "Memory hook: past fifty even when empty.",
+       "t": 51892,
+       "spot": {
+        "x": 0.55,
+        "y": 0.75,
+        "r": 0.15
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0279-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which is an echocardiographic finding of severe AR?",
+     "options": [
+      "LV end-systolic dimension >50 mm",
+      "Pressure half-time <300 ms",
+      "Vena contracta >4 mm",
+      "Systolic flow reversal in thoracic aorta",
+      "Proximal regurgitant color jet/LVOT diameter >50 percent"
+     ],
+     "answer": 0,
+     "explain": "An LV end-systolic dimension over 50 mm is the finding of severe aortic regurgitation here: A. Chronic severe regurgitation loads the ventricle with volume; an end-systolic dimension above 50 mm (or 25 mm/m2) marks a ventricle that is starting to fail and is an indication for surgery even without symptoms. The other thresholds are wrong: severe regurgitation has a pressure half-time under 200 ms, a vena contracta over 6 mm and a jet width of 65 percent or more of the outflow tract. The flow reversal in the descending aorta that marks severe regurgitation is holodiastolic, not systolic. In the picture, the tape round the engine room reads past 50 even when the room is at its emptiest. Memory hook: past fifty even when empty.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q56.4",
+     "marks": [
+      2,
+      3,
+      4,
+      5
+     ],
+     "answerMarks": [
+      1
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0279.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.55,
+      "y": 0.75,
+      "r": 0.16
+     },
+     "what": "Tape past 50 when emptiest",
+     "means": "LV end-systolic dimension >50 mm (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.4,
+      "y": 0.55,
+      "r": 0.09
+     },
+     "what": "Usopp's stopwatch at 300",
+     "means": "Half-time 300 ms: too slow for severe"
+    },
+    {
+     "spot": {
+      "x": 0.6,
+      "y": 0.45,
+      "r": 0.1
+     },
+     "what": "Mouth gurgling back",
+     "means": "Aortic regurgitation"
+    },
+    {
+     "spot": {
+      "x": 0.4,
+      "y": 0.15,
+      "r": 0.12
+     },
+     "what": "Water running back along the tail",
+     "means": "Holodiastolic reversal in the aorta"
+    },
+    {
+     "spot": {
+      "x": 0.85,
+      "y": 0.7,
+      "r": 0.11
+     },
+     "what": "Chopper reading the tape",
+     "means": "Measured at end-systole"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0280",
+   "title": "A regurgitant area of 1.5 cm2 on an aortic prosthesis is not normal",
+   "titleAr": "مساحة قلس 1.5 سم² على صمّام أبهريّ صناعيّ ليست طبيعيّة",
+   "tags": [
+    "cardiac/aortic-valve",
+    "d:diagnosis",
+    "q:numbers",
+    "l:3"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في بيت فرانكي بووتر سيفن، صفّ فرانكي روبوتاته الفولاذيّة الصغيرة الّتي تقعقع، تلك الّتي يضعها أبوابًا في مداخل الفندق.",
+       "t": 0,
+       "spot": {
+        "x": 0.4,
+        "y": 0.7,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "ولكلّ روبوت رشّاشات رفيعة تغسل مفاصله مع كلّ دقّة، فلا يجد القندس فيها مكانًا لسدّه.",
+       "t": 9547,
+       "spot": {
+        "x": 0.3,
+        "y": 0.85,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«تسرّب! كلّها تسرّب! سدّوها جميعًا!» صاح أوسوب، وأخذ يضغط بإبهامه على الرشّاشات الرفيعة واحدًا بعد آخر.",
+       "t": 17438,
+       "spot": {
+        "x": 0.12,
+        "y": 0.5,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "لكنّ فرانكي أزاح يده: روبوت برشّاش واحد من ثقب وسطه، وروبوت بأربعة رشّاشات صغيرة، وروبوت برشّاشين غير متساويين، والرّوبوت في تاج الأسقف برشّة قصيرة.",
+       "t": 28149,
+       "spot": {
+        "x": 0.4,
+        "y": 0.65,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "«كلّها تغسل نفسها كما صنعتها؛ هذا سوبر!» قال فرانكي.",
+       "t": 42234,
+       "spot": {
+        "x": 0.15,
+        "y": 0.3,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "ثمّ التفت فرانكي إلى الروبوت في فم الحوت: منه سيل عريض يقرقر راجعًا إلى غرفة المحرّك الحمراء.",
+       "t": 47936,
+       "spot": {
+        "x": 0.6,
+        "y": 0.4,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "«الرشّاشات الرفيعة تغسل الروبوتات؛ أمّا سيل عريض بواحد ونصف في فم الحوت فليس طبيعيًّا!» قال تشوبر.",
+       "t": 55637,
+       "spot": {
+        "x": 0.6,
+        "y": 0.4,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "فرأى فرانكي السيل يخرج من روبوت صنعه بيديه، فسالت دموعه وصاح:",
+       "t": 64113,
+       "spot": {
+        "x": 0.15,
+        "y": 0.3,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«لست أبكي! لست أبكي أبدًا، أيّها الأحمق!»",
+       "quote": "ون بيس، فرانكي",
+       "t": 70843
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0280-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "A regurgitant area of 1.5 cm2 on an aortic prosthesis is not a normal finding: A.",
+       "t": 0,
+       "spot": {
+        "x": 0.6,
+        "y": 0.4,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "Mechanical valves have small built-in washing jets that clean the hinges and keep clots from forming; they are short and narrow, with a pattern typical of each design.",
+       "t": 7999,
+       "spot": {
+        "x": 0.3,
+        "y": 0.85,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "A single central jet in a Medtronic-Hall valve, several small jets (often four) in a St. Jude bileaflet valve and two unequal jets in a Bjork-Shiley valve are normal, as is a short jet of about 2 cm on a mitral prosthesis.",
+       "t": 18828,
+       "spot": {
+        "x": 0.4,
+        "y": 0.65,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "A regurgitant area as large as 1.5 cm2 on an aortic prosthesis points to a pathological leak, through or around the valve, which needs further study.",
+       "t": 34498,
+       "spot": {
+        "x": 0.6,
+        "y": 0.4,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "In the picture, the robots' thin sprinklers are normal, while the robot in the orca's mouth floods back into the room.",
+       "t": 46036,
+       "spot": {
+        "x": 0.6,
+        "y": 0.4,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "Memory hook: thin sprinklers wash; a broad flood leaks.",
+       "t": 53390,
+       "spot": {
+        "x": 0.6,
+        "y": 0.4,
+        "r": 0.18
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0280-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which is not a normal echocardiographic finding on a prosthetic valve?",
+     "options": [
+      "Regurgitant area of 1.5 cm2 on aortic prosthesis",
+      "Regurgitant jet length of 2.0 cm on mitral prosthesis",
+      "Single central jet on Medtronic-Hall valve",
+      "Four jets on St. Jude Medical valve",
+      "Unequal jets on Bjork-Shiley valve"
+     ],
+     "answer": 0,
+     "explain": "A regurgitant area of 1.5 cm2 on an aortic prosthesis is not a normal finding: A. Mechanical valves have small built-in washing jets that clean the hinges and keep clots from forming; they are short and narrow, with a pattern typical of each design. A single central jet in a Medtronic-Hall valve, several small jets (often four) in a St. Jude bileaflet valve and two unequal jets in a Bjork-Shiley valve are normal, as is a short jet of about 2 cm on a mitral prosthesis. A regurgitant area as large as 1.5 cm2 on an aortic prosthesis points to a pathological leak, through or around the valve, which needs further study. In the picture, the robots' thin sprinklers are normal, while the robot in the orca's mouth floods back into the room. Memory hook: thin sprinklers wash; a broad flood leaks.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q56.5",
+     "marks": [
+      2,
+      3,
+      4,
+      5
+     ],
+     "answerMarks": [
+      1
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0280.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.6,
+      "y": 0.4,
+      "r": 0.16
+     },
+     "what": "Broad flood marked 1.5",
+     "means": "1.5 cm2 aortic leak: not normal (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.3,
+      "y": 0.6,
+      "r": 0.09
+     },
+     "what": "Robot with one central jet",
+     "means": "Medtronic-Hall central jet: normal"
+    },
+    {
+     "spot": {
+      "x": 0.27,
+      "y": 0.85,
+      "r": 0.11
+     },
+     "what": "Robot with four small jets",
+     "means": "St Jude bileaflet jets: normal"
+    },
+    {
+     "spot": {
+      "x": 0.53,
+      "y": 0.63,
+      "r": 0.09
+     },
+     "what": "Robot with two unequal jets",
+     "means": "Other built-in washing jets"
+    },
+    {
+     "spot": {
+      "x": 0.78,
+      "y": 0.82,
+      "r": 0.11
+     },
+     "what": "Robot with a mitre hat",
+     "means": "Mitral prosthesis"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0281",
+   "title": "Delayed enhancement MRI shows myocardial scar and infarction",
+   "titleAr": "الرنين المغناطيسيّ بالتعزيز المتأخّر يكشف ندبة العضلة القلبيّة والاحتشاء",
+   "tags": [
+    "cardiac/foundations",
+    "d:diagnosis",
+    "q:recall",
+    "l:2"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في جزيرة ثريلر بارك المظلمة، علّق مغناطيس أحمر عملاق على شكل حدوة حصان فوق فندق أسقط سهم أيّله منذ زمن، يطنّ كالشّوكة الرنّانة.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.25,
+        "r": 0.22
+       }
+      },
+      {
+       "text": "فنثر تشوبر غبارًا ذهبيًّا متوهّجًا في نهر الدم، ليعرف أيّ جزء من جدار غرفة المحرّك الحمراء ما زال حيًّا.",
+       "t": 12990,
+       "spot": {
+        "x": 0.8,
+        "y": 0.85,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«انظروا الآن، الآن! الغبار يجري في أشواك التاج كلّها!» صاح أوسوب.",
+       "t": 23089,
+       "spot": {
+        "x": 0.15,
+        "y": 0.65,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "لكنّ الغبار في أوّل جريانه ملأ الجدار كلّه بالتّساوي، فلم يظهر شيء.",
+       "t": 30411,
+       "spot": {
+        "x": 0.5,
+        "y": 0.55,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "فقلب تشوبر ساعةً رمليّة، وانتظروا حتّى نفد رملها، وقد خرج الغبار من العضل الحيّ.",
+       "t": 37325,
+       "spot": {
+        "x": 0.7,
+        "y": 0.45,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "فإذا الندبة الرماديّة الميّتة في الجدار تتوهّج بيضاء ساطعةً كالشّبح، والعضل الحيّ حولها مظلم.",
+       "t": 45869,
+       "spot": {
+        "x": 0.5,
+        "y": 0.4,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "«شبح! شبح في الفندق!» صرخ أوسوب، واختبأ خلف تشوبر.",
+       "t": 54824,
+       "spot": {
+        "x": 0.15,
+        "y": 0.65,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«ليس شبحًا يا أوسوب؛ إنّها الندبة الميّتة تتوهّج في الصورة المتأخّرة، والعضل الحيّ يبقى مظلمًا!» قال تشوبر.",
+       "t": 61218,
+       "spot": {
+        "x": 0.5,
+        "y": 0.4,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "فمرّ شبح من أشباح بيرونا بأوسوب المرتجف، فلم يؤثّر فيه؛ فقد كان يتمتم من قبل بما يتمتم به ضحاياها:",
+       "t": 70548,
+       "spot": {
+        "x": 0.15,
+        "y": 0.65,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«آسف لأنّني ولدت!»",
+       "quote": "ون بيس، ضحايا أشباح بيرونا",
+       "t": 81415
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0281-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "Delayed enhancement MRI is used for the detection of myocardial scar and infarction (nonviable myocardium): D.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.4,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "Gadolinium leaves normal muscle quickly but lingers in the wide spaces of scar, so on images taken about 10 minutes after the injection the scar is bright and living muscle is dark.",
+       "t": 8241,
+       "spot": {
+        "x": 0.5,
+        "y": 0.4,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "The depth of the bright area predicts viability: segments with less than about half their thickness scarred are likely to recover after revascularization.",
+       "t": 19614,
+       "spot": {
+        "x": 0.5,
+        "y": 0.4,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "In the picture, after the gold dust and the empty hourglass, the dead scar glows white like a ghost while the living muscle stays dark.",
+       "t": 29260,
+       "spot": {
+        "x": 0.5,
+        "y": 0.4,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "Perfusion is seen on the first pass of the contrast, oedema on T2-weighted images, and the coronary arteries by MR or CT angiography.",
+       "t": 37679,
+       "spot": {
+        "x": 0.5,
+        "y": 0.25,
+        "r": 0.22
+       }
+      },
+      {
+       "text": "Memory hook: on the late picture, dead muscle glows like a ghost.",
+       "t": 47252,
+       "spot": {
+        "x": 0.5,
+        "y": 0.4,
+        "r": 0.2
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0281-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "What is the purpose of delayed enhancement MRI?",
+     "options": [
+      "Identification of perfusion changes",
+      "Delineation of myocardial edema due to contusion",
+      "Coronary angiography",
+      "Detection of myocardial scar and infarction (nonviable myocardium)",
+      "Verification of CT coronary angiography"
+     ],
+     "answer": 3,
+     "explain": "Delayed enhancement MRI is used for the detection of myocardial scar and infarction (nonviable myocardium): D. Gadolinium leaves normal muscle quickly but lingers in the wide spaces of scar, so on images taken about 10 minutes after the injection the scar is bright and living muscle is dark. The depth of the bright area predicts viability: segments with less than about half their thickness scarred are likely to recover after revascularization. In the picture, after the gold dust and the empty hourglass, the dead scar glows white like a ghost while the living muscle stays dark. Perfusion is seen on the first pass of the contrast, oedema on T2-weighted images, and the coronary arteries by MR or CT angiography. Memory hook: on the late picture, dead muscle glows like a ghost.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q57.1",
+     "marks": [
+      2,
+      3,
+      4,
+      5
+     ],
+     "answerMarks": [
+      1
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0281.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.4,
+      "r": 0.16
+     },
+     "what": "Dead scar glowing white",
+     "means": "Scar, infarction (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.25,
+      "r": 0.2
+     },
+     "what": "Giant red magnet",
+     "means": "MRI"
+    },
+    {
+     "spot": {
+      "x": 0.8,
+      "y": 0.85,
+      "r": 0.11
+     },
+     "what": "Gold dust in the river",
+     "means": "Gadolinium contrast"
+    },
+    {
+     "spot": {
+      "x": 0.7,
+      "y": 0.45,
+      "r": 0.07
+     },
+     "what": "Empty hourglass",
+     "means": "Delayed images (~10 min)"
+    },
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.66,
+      "r": 0.12
+     },
+     "what": "Stag shot long ago",
+     "means": "Old myocardial infarction"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0282",
+   "title": "Nephrogenic systemic fibrosis after gadolinium: the risk is renal failure",
+   "titleAr": "التليّف الجهازيّ كلويّ المنشأ بعد الغادولينيوم: الخطر في الفشل الكلويّ",
+   "tags": [
+    "cardiac/foundations",
+    "d:complications",
+    "q:recall",
+    "l:2"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في حانة بمدينة موك تاون، اصطفّ خمسة مرضى تحت المغناطيس العملاق ذي شكل الحدوة، ونثر تشوبر في نهر كلّ منهم غبارًا ذهبيًّا متوهّجًا.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.1,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«أخطرهم صاحب الكبد المنتفخ! الغبار سيعلق فيه حتمًا!» قال أوسوب، وأشار إلى الكبد.",
+       "t": 11353,
+       "spot": {
+        "x": 0.15,
+        "y": 0.38,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "لكنّ الغبار خرج من صاحب الكبد سريعًا، عبر حبّتي فاصولياء ممتلئتين حمراوين.",
+       "t": 20064,
+       "spot": {
+        "x": 0.15,
+        "y": 0.25,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "وكذلك خرج من صاحب زحمة السيّارات، ومن صاحب البنكرياس المتعب، ومن صاحب الصاعقة القديمة في رأسه.",
+       "t": 27195,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.45
+       }
+      },
+      {
+       "text": "أمّا الخامس، فحبّتا فاصوليائه ذابلتان رماديّتان، مربوطتان إلى غسّالة تدور؛ فلم يجد الغبار بابًا يخرج منه.",
+       "t": 35890,
+       "spot": {
+        "x": 0.58,
+        "y": 0.8,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فاستقرّ الغبار في جلده، فصار جلده قاسيًا معرّقًا كالخشب، ولم يعد يقدر أن يثني ركبتيه.",
+       "t": 46029,
+       "spot": {
+        "x": 0.58,
+        "y": 0.5,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "«الفاصولياء الذابلة تحبس الغبار الذهبيّ، فيصير الجلد خشبًا!» قال تشوبر.",
+       "t": 54009,
+       "spot": {
+        "x": 0.58,
+        "y": 0.6,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "فرفع رجل ضخم أسود اللحية كأسه في ركن الحانة، وضحك ضحكته الواسعة، وقال:",
+       "t": 60613,
+       "spot": {
+        "x": 0.85,
+        "y": 0.55,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«أحلام الناس لا تنتهي أبدًا!»",
+       "quote": "ون بيس، مارشال دي تيتش (اللحية السوداء)",
+       "t": 68791
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0282-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "Patients undergoing gadolinium-enhanced MRI are at risk of nephrogenic systemic fibrosis (NSF) if they have renal failure: D.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.6,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "Gadolinium is cleared by the kidneys; when they fail, it stays in the body for a long time and can trigger fibrosis of the skin, the joints and internal organs.",
+       "t": 9288,
+       "spot": {
+        "x": 0.58,
+        "y": 0.8,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "The skin thickens and hardens like wood, and contractures can stiffen the joints; the disease can be disabling and even fatal.",
+       "t": 20394,
+       "spot": {
+        "x": 0.58,
+        "y": 0.5,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "The risk is highest with severe chronic kidney disease (an eGFR under 30), acute kidney injury and dialysis; there contrast is avoided or a safer agent is used at the lowest dose.",
+       "t": 29127,
+       "spot": {
+        "x": 0.58,
+        "y": 0.8,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "In the picture, only the patient whose kidney beans are shrivelled keeps the gold dust, and his skin turns to wood.",
+       "t": 42059,
+       "spot": {
+        "x": 0.5,
+        "y": 0.6,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "Memory hook: shrivelled beans keep the gold dust, and the skin turns to wood.",
+       "t": 49763,
+       "spot": {
+        "x": 0.58,
+        "y": 0.5,
+        "r": 0.2
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0282-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Patients undergoing gadolinium enhanced MRI are at risk for developing NSF if they have:",
+     "options": [
+      "Liver failure",
+      "Heart failure",
+      "Pancreatic insufficiency",
+      "Renal failure",
+      "Prior CVA"
+     ],
+     "answer": 3,
+     "explain": "Patients undergoing gadolinium-enhanced MRI are at risk of nephrogenic systemic fibrosis (NSF) if they have renal failure: D. Gadolinium is cleared by the kidneys; when they fail, it stays in the body for a long time and can trigger fibrosis of the skin, the joints and internal organs. The skin thickens and hardens like wood, and contractures can stiffen the joints; the disease can be disabling and even fatal. The risk is highest with severe chronic kidney disease (an eGFR under 30), acute kidney injury and dialysis; there contrast is avoided or a safer agent is used at the lowest dose. In the picture, only the patient whose kidney beans are shrivelled keeps the gold dust, and his skin turns to wood. Memory hook: shrivelled beans keep the gold dust, and the skin turns to wood.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q57.2",
+     "marks": [
+      4,
+      5
+     ],
+     "answerMarks": [
+      1,
+      2,
+      3
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0282.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.6,
+      "r": 0.08
+     },
+     "what": "Shrivelled grey kidney beans",
+     "means": "Renal failure (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.8,
+      "r": 0.12
+     },
+     "what": "Beans tied to the washing machine",
+     "means": "Dialysis"
+    },
+    {
+     "spot": {
+      "x": 0.58,
+      "y": 0.45,
+      "r": 0.18
+     },
+     "what": "Skin turned to wood",
+     "means": "Nephrogenic systemic fibrosis"
+    },
+    {
+     "spot": {
+      "x": 0.15,
+      "y": 0.22,
+      "r": 0.1
+     },
+     "what": "Swollen liver",
+     "means": "Liver disease: not the risk"
+    },
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.1,
+      "r": 0.12
+     },
+     "what": "Magnet showering gold dust",
+     "means": "Gadolinium MRI"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0283",
+   "title": "Valvular regurgitation is best quantified with velocity-encoded MRI",
+   "titleAr": "يُقاس القلس الصمّاميّ بأفضل دقّة بالرنين المغناطيسيّ المرمّز بالسرعة",
+   "tags": [
+    "cardiac/foundations",
+    "d:diagnosis",
+    "q:recall",
+    "l:3"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في ميناء لوغتاون، ثبّت الكابتن سموكر ذو السيجارين مسدّس رادار لقياس السرعة على المغناطيس العملاق فوق الفندق.",
+       "t": 0,
+       "spot": {
+        "x": 0.65,
+        "y": 0.25,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فقد كان فم الحوت متدلّيًا، والماء يقرقر راجعًا منه إلى غرفة المحرّك الحمراء، وأراد سموكر أن يعرف: كم يرجع؟",
+       "t": 9042,
+       "spot": {
+        "x": 0.25,
+        "y": 0.2,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«الغبار الذهبيّ يرينا كلّ شيء! انثروه وانتظروا!» قال أوسوب، ورفع جرّة الغبار.",
+       "t": 19202,
+       "spot": {
+        "x": 0.3,
+        "y": 0.62,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "لكنّ الغبار لم يضئ إلّا ندبةً قديمةً في الجدار، ولم يقل شيئًا عن الماء الراجع.",
+       "t": 27355,
+       "spot": {
+        "x": 0.3,
+        "y": 0.62,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "فضغط سموكر زناد الرادار، فقاس سرعة كلّ قطرة تمرّ من فم الحوت واتّجاهها: إلى الأمام، أو إلى الوراء.",
+       "t": 34177,
+       "spot": {
+        "x": 0.6,
+        "y": 0.22,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "وأخذ عدّاد الرادار يجمع ما يمضي إلى الأمام، وما يعود إلى الوراء، دقّةً بعد دقّة.",
+       "t": 43277,
+       "spot": {
+        "x": 0.63,
+        "y": 0.33,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«لا تفلت من راداري قطرة واحدة!» قال سموكر، ونفث دخان سيجاريه.",
+       "t": 50521,
+       "spot": {
+        "x": 0.8,
+        "y": 0.25,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«رادار المغناطيس يقيس كلّ قطرة، ويعدّ ما يرجع!» قال تشوبر.",
+       "t": 57222,
+       "spot": {
+        "x": 0.6,
+        "y": 0.3,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "فنظر سموكر إلى منصّة الإعدام القديمة في وسط لوغتاون، وتذكّر الكلمة الّتي قيلت عليها:",
+       "t": 63055,
+       "spot": {
+        "x": 0.5,
+        "y": 0.7,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "«كنزي؟ إن أردتموه فهو لكم. ابحثوا عنه! لقد تركت كلّ شيء في ذلك المكان!»",
+       "quote": "ون بيس، غول دي روجر",
+       "t": 71486
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0283-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "Valvular regurgitation is best quantified with velocity-encoded MRI: B.",
+       "t": 0,
+       "spot": {
+        "x": 0.6,
+        "y": 0.3,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "Velocity-encoded (phase-contrast) MRI measures the speed and direction of blood in every pixel of a plane across the vessel, so the forward and backward volumes through a valve can be calculated beat by beat.",
+       "t": 5813,
+       "spot": {
+        "x": 0.6,
+        "y": 0.22,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "The regurgitant volume and fraction follow directly, which makes MRI a reference method when echo is uncertain.",
+       "t": 18830,
+       "spot": {
+        "x": 0.63,
+        "y": 0.33,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "Delayed enhancement shows scar, cine (steady-state free precession) shows motion and size, T2 shows oedema and first-pass imaging shows perfusion; none measures flow.",
+       "t": 26021,
+       "spot": {
+        "x": 0.35,
+        "y": 0.9,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "In the picture, Smoker's radar on the magnet clocks every drop through the orca's mouth and counts what flows back.",
+       "t": 37899,
+       "spot": {
+        "x": 0.6,
+        "y": 0.3,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "Memory hook: the radar on the magnet counts the backflow.",
+       "t": 45453,
+       "spot": {
+        "x": 0.63,
+        "y": 0.33,
+        "r": 0.12
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0283-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Valvular regurgitation is best quantified using:",
+     "options": [
+      "Delayed enhancement MRI",
+      "Velocity-encoded MRI",
+      "Bright-blood steady state free precession MRI",
+      "T2-weighted MRI",
+      "First-pass perfusion GRE MRI"
+     ],
+     "answer": 1,
+     "explain": "Valvular regurgitation is best quantified with velocity-encoded MRI: B. Velocity-encoded (phase-contrast) MRI measures the speed and direction of blood in every pixel of a plane across the vessel, so the forward and backward volumes through a valve can be calculated beat by beat. The regurgitant volume and fraction follow directly, which makes MRI a reference method when echo is uncertain. Delayed enhancement shows scar, cine (steady-state free precession) shows motion and size, T2 shows oedema and first-pass imaging shows perfusion; none measures flow. In the picture, Smoker's radar on the magnet clocks every drop through the orca's mouth and counts what flows back. Memory hook: the radar on the magnet counts the backflow.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q57.3",
+     "marks": [
+      2,
+      4,
+      5
+     ],
+     "answerMarks": [
+      1,
+      3
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0283.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.6,
+      "y": 0.22,
+      "r": 0.12
+     },
+     "what": "Smoker's radar on the magnet",
+     "means": "Velocity-encoded MRI (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.25,
+      "y": 0.2,
+      "r": 0.14
+     },
+     "what": "Water gurgling back from the mouth",
+     "means": "Aortic regurgitation"
+    },
+    {
+     "spot": {
+      "x": 0.63,
+      "y": 0.33,
+      "r": 0.1
+     },
+     "what": "Counter of forward and back",
+     "means": "Regurgitant volume and fraction"
+    },
+    {
+     "spot": {
+      "x": 0.3,
+      "y": 0.62,
+      "r": 0.09
+     },
+     "what": "Jar of gold dust",
+     "means": "Delayed enhancement: scar, not flow"
+    },
+    {
+     "spot": {
+      "x": 0.75,
+      "y": 0.87,
+      "r": 0.11
+     },
+     "what": "Film strip",
+     "means": "Cine: motion, not flow"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0286",
+   "title": "Most complete heart block after congenital heart surgery is temporary",
+   "titleAr": "أكثر حالات الإحصار القلبيّ التامّ بعد جراحة القلب الخَلقيّة مؤقّتة",
+   "tags": [
+    "cardiac/arrhythmia",
+    "d:postoperative",
+    "q:recall",
+    "l:2"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في قلعة مارينفورد، بعد أن أنهى البنّاؤون عملهم قرب الجسر، ارتفع الجسر المتحرّك بين الردهة العليا وغرفة المحرّك الحمراء، فلم تعد تعبره إشارة.",
+       "t": 0,
+       "spot": {
+        "x": 0.72,
+        "y": 0.5,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "وكانت سلاسله منتفخةً من أثر العمل.",
+       "t": 11869,
+       "spot": {
+        "x": 0.7,
+        "y": 0.45,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«انتهى الأمر! هاتوا المطارق والمسامير؛ نثبّت مكانه جسرًا جديدًا إلى الأبد!» قال أوسوب.",
+       "t": 15582,
+       "spot": {
+        "x": 0.3,
+        "y": 0.35,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "لكنّ تشوبر جاء بطبّال يمشي، يدقّ لغرفة المحرّك دقّةً ثابتة، وطلب منهم أن ينتظروا.",
+       "t": 24136,
+       "spot": {
+        "x": 0.85,
+        "y": 0.85,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "فمع مرور الأيّام، أخذ انتفاخ السلاسل يهبط، وأخذ الجسر ينزل شيئًا فشيئًا، حتّى عاد إلى مكانه.",
+       "t": 32532,
+       "spot": {
+        "x": 0.15,
+        "y": 0.7,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فعبرت الإشارات من جديد، وشكر تشوبر الطبّال وصرفه.",
+       "t": 41296,
+       "spot": {
+        "x": 0.72,
+        "y": 0.6,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "«الجسر الّذي رفعه البنّاؤون ينزل في الغالب بعد أيّام؛ والطّبّال يحفظ الدقّة حتّى ينزل!» قال تشوبر.",
+       "t": 46499,
+       "spot": {
+        "x": 0.72,
+        "y": 0.55,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "فلمّا عاد الجسر إلى مكانه، عزف بروك على كمانه نغمة فرح، وقال:",
+       "t": 54692,
+       "spot": {
+        "x": 0.85,
+        "y": 0.85,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "«وعدت لابون أن أعود إليه!»",
+       "quote": "ون بيس، بروك",
+       "t": 61881
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0286-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "Most cases of postoperative complete AV block are temporary: C.",
+       "t": 0,
+       "spot": {
+        "x": 0.72,
+        "y": 0.55,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "Swelling, bleeding or stitches near the conduction tissue can block it after repairs near the AV node; as the swelling settles, conduction usually returns within 7 to 10 days.",
+       "t": 5410,
+       "spot": {
+        "x": 0.72,
+        "y": 0.5,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "Temporary pacing wires bridge the gap, and a permanent pacemaker is needed only if conduction has not returned by then.",
+       "t": 17379,
+       "spot": {
+        "x": 0.85,
+        "y": 0.85,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "Arrhythmias after congenital heart surgery are common, well over 10 percent; junctional ectopic tachycardia typically starts within the first 24 h, and ventricular tachycardia is a wide-complex rhythm.",
+       "t": 25457,
+       "spot": {
+        "x": 0.2,
+        "y": 0.15,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "A long aortic cross-clamp time is a risk factor.",
+       "t": 39174,
+       "spot": {
+        "x": 0.65,
+        "y": 0.15,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "In the picture, the raised drawbridge comes down again after a few days, while the drummer keeps the beat.",
+       "t": 42847,
+       "spot": {
+        "x": 0.72,
+        "y": 0.55,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "Memory hook: the drawbridge raised by the builders comes down again.",
+       "t": 49372,
+       "spot": {
+        "x": 0.72,
+        "y": 0.55,
+        "r": 0.25
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0286-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which is correct regarding postoperative arrhythmias?",
+     "options": [
+      "The incidence is 5 to 10 percent",
+      "JET typically occurs after the first 24 h",
+      "Most cases of postoperative complete AV block are temporary",
+      "VT is a narrow complex tachycardia",
+      "Prolonged AO cross-clamp time is not a risk factor"
+     ],
+     "answer": 2,
+     "explain": "Most cases of postoperative complete AV block are temporary: C. Swelling, bleeding or stitches near the conduction tissue can block it after repairs near the AV node; as the swelling settles, conduction usually returns within 7 to 10 days. Temporary pacing wires bridge the gap, and a permanent pacemaker is needed only if conduction has not returned by then. Arrhythmias after congenital heart surgery are common, well over 10 percent; junctional ectopic tachycardia typically starts within the first 24 h, and ventricular tachycardia is a wide-complex rhythm. A long aortic cross-clamp time is a risk factor. In the picture, the raised drawbridge comes down again after a few days, while the drummer keeps the beat. Memory hook: the drawbridge raised by the builders comes down again.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q60.1",
+     "marks": [
+      2,
+      5
+     ],
+     "answerMarks": [
+      1,
+      3,
+      4
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0286.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.7,
+      "y": 0.45,
+      "r": 0.15
+     },
+     "what": "Drawbridge coming down again",
+     "means": "Most AV block is temporary (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.7,
+      "y": 0.35,
+      "r": 0.1
+     },
+     "what": "Swollen chains",
+     "means": "Oedema near the conduction tissue"
+    },
+    {
+     "spot": {
+      "x": 0.85,
+      "y": 0.85,
+      "r": 0.09
+     },
+     "what": "Drummer keeping the beat",
+     "means": "Temporary pacing wires"
+    },
+    {
+     "spot": {
+      "x": 0.15,
+      "y": 0.7,
+      "r": 0.15
+     },
+     "what": "Calendar of passing days",
+     "means": "Recovers within days"
+    },
+    {
+     "spot": {
+      "x": 0.2,
+      "y": 0.15,
+      "r": 0.11
+     },
+     "what": "Gauge in the red",
+     "means": "Long cross-clamp time: a risk"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0287",
+   "title": "Sildenafil lowers pulmonary vascular resistance",
+   "titleAr": "السيلدينافيل يُخفّض المقاومة الوعائيّة الرئويّة",
+   "tags": [
+    "cardiac/perioperative",
+    "d:pharmacology",
+    "q:recall",
+    "l:2"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في قرية سيروب، تكدّست مكعّبات خشبيّة داخل أنبوب الدولارات، فصار الماء يعبره بصعوبة.",
+       "t": 0,
+       "spot": {
+        "x": 0.7,
+        "y": 0.45,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "«الحامض يذيب الخشب! اعصروا الليمون في النهر!» قال أوسوب، وعصر ليمونةً صفراء في النهر.",
+       "t": 8299,
+       "spot": {
+        "x": 0.15,
+        "y": 0.4,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "لكنّ المكعّبات زادت بدل أن تذوب؛ وزادت أكثر حين شهق طفل أزرق الشفتين، وحين صرخ طفل آخر وهو يتخبّط.",
+       "t": 16852,
+       "spot": {
+        "x": 0.85,
+        "y": 0.55,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "وزادت كذلك حين غلظ النهر بكعكات حمراء كثيرة جدًّا.",
+       "t": 27088,
+       "spot": {
+        "x": 0.12,
+        "y": 0.7,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فأخرج تشوبر حبّةً زرقاء صغيرةً على شكل معيّن، وألقاها في أنبوب الدولارات.",
+       "t": 32504,
+       "spot": {
+        "x": 0.8,
+        "y": 0.26,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "فذابت الحبّة، وطفت المكعّبات الخشبيّة مبتعدة، وجرى الماء في الأنبوب سهلًا.",
+       "t": 39687,
+       "spot": {
+        "x": 0.7,
+        "y": 0.45,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "«الحبّة الزرقاء تغسل المكعّبات من أنبوب الدولارات؛ أمّا الليمون والشّفاه الزرقاء والنّهر الغليظ والصّراخ فتزيدها!» قال تشوبر.",
+       "t": 46979,
+       "spot": {
+        "x": 0.7,
+        "y": 0.45,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "فخجل أوسوب من ليمونته، ونظر إلى البحر من قريته القديمة، وقال حلمه الأوّل:",
+       "t": 56539,
+       "spot": {
+        "x": 0.15,
+        "y": 0.3,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«أريد أن أكون محاربًا شجاعًا من محاربي البحر!»",
+       "quote": "ون بيس، أوسوب",
+       "t": 64637
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0287-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "Sildenafil decreases pulmonary vascular resistance: E.",
+       "t": 0,
+       "spot": {
+        "x": 0.7,
+        "y": 0.45,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "It blocks phosphodiesterase-5, so nitric oxide's messenger (cyclic GMP) lasts longer in the pulmonary arteries and they relax; it is also used to wean inhaled nitric oxide.",
+       "t": 4338,
+       "spot": {
+        "x": 0.7,
+        "y": 0.45,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "Hypoxia and acidosis constrict the pulmonary arteries, polycythemia thickens the blood, and agitation and pain raise catecholamines: all four raise PVR.",
+       "t": 17595,
+       "spot": {
+        "x": 0.85,
+        "y": 0.55,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "After paediatric heart surgery, oxygen, mild alkalosis, sedation and pulmonary vasodilators are used to keep PVR low.",
+       "t": 29162,
+       "spot": {
+        "x": 0.7,
+        "y": 0.45,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "In the picture, the blue pill makes the wooden blocks float away, while the lemon, the blue lips, the thick red river and the screaming child add more.",
+       "t": 38336,
+       "spot": {
+        "x": 0.7,
+        "y": 0.45,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "Memory hook: the little blue pill washes the blocks out of the money pipe.",
+       "t": 47916,
+       "spot": {
+        "x": 0.7,
+        "y": 0.45,
+        "r": 0.2
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0287-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which of the following decreases PVR?",
+     "options": [
+      "Hypoxia",
+      "Acidosis",
+      "Polycythemia",
+      "Agitation",
+      "Sildenafil"
+     ],
+     "answer": 4,
+     "explain": "Sildenafil decreases pulmonary vascular resistance: E. It blocks phosphodiesterase-5, so nitric oxide's messenger (cyclic GMP) lasts longer in the pulmonary arteries and they relax; it is also used to wean inhaled nitric oxide. Hypoxia and acidosis constrict the pulmonary arteries, polycythemia thickens the blood, and agitation and pain raise catecholamines: all four raise PVR. After paediatric heart surgery, oxygen, mild alkalosis, sedation and pulmonary vasodilators are used to keep PVR low. In the picture, the blue pill makes the wooden blocks float away, while the lemon, the blue lips, the thick red river and the screaming child add more. Memory hook: the little blue pill washes the blocks out of the money pipe.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q60.2",
+     "marks": [
+      3,
+      4,
+      5,
+      6
+     ],
+     "answerMarks": [
+      1,
+      2
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0287.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.92,
+      "y": 0.3,
+      "r": 0.05
+     },
+     "what": "Small blue diamond pill",
+     "means": "Sildenafil (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.7,
+      "y": 0.45,
+      "r": 0.18
+     },
+     "what": "Wooden blocks floating away",
+     "means": "Lower pulmonary vascular resistance"
+    },
+    {
+     "spot": {
+      "x": 0.2,
+      "y": 0.42,
+      "r": 0.07
+     },
+     "what": "Lemon squeezed into the river",
+     "means": "Acidosis raises PVR"
+    },
+    {
+     "spot": {
+      "x": 0.85,
+      "y": 0.55,
+      "r": 0.1
+     },
+     "what": "Blue-lipped gasping child",
+     "means": "Hypoxia raises PVR"
+    },
+    {
+     "spot": {
+      "x": 0.12,
+      "y": 0.7,
+      "r": 0.12
+     },
+     "what": "River thick with red doughnuts",
+     "means": "Polycythaemia raises PVR"
+    },
+    {
+     "spot": {
+      "x": 0.88,
+      "y": 0.82,
+      "r": 0.1
+     },
+     "what": "Screaming, thrashing child",
+     "means": "Agitation raises PVR"
+    }
+   ]
   }
  ]
 }
