@@ -94,7 +94,7 @@ still in published 11, 127, 163, 237, 238.
 medical explanation, only what is seen), in `voice.txt` + `voice.py fill`, for 23, 31, 36, 64, 65, 90, 92, 98, 101,
 104, 107 (the floor is now "like a slack trampoline", as in the picture), 109, 113, 115-119, 122, 123, 127, 130, 133,
 135, 139, 146, 169, 195, 198, 200, 202, 209, 215, 218, 219, 227, 230, 242, 247, 249, 251, 257, 261, 262, 264, 271, 276,
-277, 284, 285, 289, 345, 372, 392, 411, 417 (199, 248 and 254 already named theirs). Eight lead-ins that repeated the
+277, 284, 285, 289, 345, 372, 392, 411, 417 (199, 248 and 254 already named theirs). Twelve lead-ins that repeated the
 line before them were reworded: 251, 295, 314, 320 (now names Tarafa), 339, 345, 362, 368, 410, 416, 418, 421. Only
 these lessons changed (no published lesson); a dry build of all 43 batches, in order, passed. The JH master: Drive id `1JmU8REE6sMtOSk6Ty664l8Q9__jtRogW`, save outside the repo.
 The `content` branch's work copies of the JH batches are older than `drafts/`: always rebuild from `drafts/`.
