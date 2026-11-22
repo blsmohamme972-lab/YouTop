@@ -1,0 +1,2618 @@
+{
+ "lessons": [
+  {
+   "id": "jh-q0102",
+   "title": "A pleural abnormality on the chest film is best evaluated next by CT",
+   "titleAr": "آفة الجنبة على صورة الصدر يُستكمل تقييمها أفضل بالتصوير المقطعي",
+   "tags": [
+    "thoracic/pleura",
+    "d:diagnosis",
+    "q:next-step",
+    "l:1"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "على سطح الثاوزند صني، رفع أوسوب لوحًا رماديًّا، لا يظهر فيه إلّا ظلّ باهت عند طرف صدر مرسوم.",
+       "spot": {
+        "x": 0.22,
+        "y": 0.27,
+        "r": 0.14
+       },
+       "t": 0
+      },
+      {
+       "text": "«أين الكتلة بالضّبط؟ لا أرى إلّا ضبابًا!» قال أوسوب وهو يحكّ رأسه.",
+       "spot": {
+        "x": 0.15,
+        "y": 0.15,
+        "r": 0.12
+       },
+       "t": 8427
+      },
+      {
+       "text": "ووقف في الطابور خلفه خفّاش، وجرو متوهّج، ومغناطيس أحمر كبير، ينتظرون أن ينادوا.",
+       "spot": {
+        "x": 0.82,
+        "y": 0.3,
+        "r": 0.16
+       },
+       "t": 15152
+      },
+      {
+       "text": "لكنّ قطّةً رماديّةً رشيقةً قفزت قبلهم جميعًا.",
+       "spot": {
+        "x": 0.55,
+        "y": 0.4,
+        "r": 0.2
+       },
+       "t": 23808
+      },
+      {
+       "text": "وأمسكت رغيفًا طويلًا على شكل صندوق كنز، وقطّعته بمخلبها شرائح رقيقةً جدًّا.",
+       "spot": {
+        "x": 0.6,
+        "y": 0.65,
+        "r": 0.25
+       },
+       "t": 28402
+      },
+      {
+       "text": "وفي كلّ شريحة، ظهرت كتلة صغيرة جالسة على القشرة، في المكان نفسه.",
+       "spot": {
+        "x": 0.35,
+        "y": 0.82,
+        "r": 0.18
+       },
+       "t": 35765
+      },
+      {
+       "text": "«الشرائح تقول كلّ شيء: أين الكتلة، وكم حجمها، وماذا تلمس!» قالت نامي.",
+       "spot": {
+        "x": 0.35,
+        "y": 0.82,
+        "r": 0.18
+       },
+       "t": 42612
+      },
+      {
+       "text": "فعاد الخفّاش والجرو والمغناطيس إلى أماكنهم، دون أن يناديهم أحد.",
+       "spot": {
+        "x": 0.82,
+        "y": 0.3,
+        "r": 0.16
+       },
+       "t": 50323
+      },
+      {
+       "text": "ورمى أوسوب لوحه الرماديّ، وصفّق للقطّة.",
+       "spot": {
+        "x": 0.15,
+        "y": 0.25,
+        "r": 0.14
+       },
+       "t": 56193
+      },
+      {
+       "text": "وجمعت نامي الشرائح واحدةً واحدةً، ورسمت منها خريطةً، وقالت:",
+       "spot": {
+        "x": 0.35,
+        "y": 0.82,
+        "r": 0.18
+       },
+       "t": 60409
+      },
+      {
+       "text": "«سأرسم خريطةً للعالم كلّه!»",
+       "quote": "ون بيس، نامي",
+       "t": 67423
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0102-story-ar-v2.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "After a pleural abnormality is seen on a chest film, CT is the most useful next test: B is the answer.",
+       "spot": {
+        "x": 0.55,
+        "y": 0.45,
+        "r": 0.25
+       },
+       "t": 0
+      },
+      {
+       "text": "It shows the size and position of the lesion and its relation to the chest wall, mediastinum and lung, and it guides biopsy.",
+       "spot": {
+        "x": 0.35,
+        "y": 0.82,
+        "r": 0.18
+       },
+       "t": 7725
+      },
+      {
+       "text": "Ultrasound helps with fluid, PET with staging a known cancer, MRI with invasion of the chest wall or diaphragm, and thoracoscopy gives tissue.",
+       "spot": {
+        "x": 0.82,
+        "y": 0.3,
+        "r": 0.16
+       },
+       "t": 15555
+      },
+      {
+       "text": "Memory hook: the cat slices the loaf, and every slice shows exactly where the lump sits on the crust.",
+       "spot": {
+        "x": 0.45,
+        "y": 0.7,
+        "r": 0.25
+       },
+       "t": 25399
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0102-explanation-en-v2.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which is the most useful imaging modality to further evaluate a pleural abnormality seen on chest x-ray?",
+     "options": [
+      "Chest ultrasound",
+      "CT scan",
+      "PET scan",
+      "MRI",
+      "Thoracoscopy"
+     ],
+     "answer": 1,
+     "explain": "After a pleural abnormality is seen on a chest film, CT is the most useful next test: B is the answer. It shows the size and position of the lesion and its relation to the chest wall, mediastinum and lung, and it guides biopsy. Ultrasound helps with fluid, PET with staging a known cancer, MRI with invasion of the chest wall or diaphragm, and thoracoscopy gives tissue. Memory hook: the cat slices the loaf, and every slice shows exactly where the lump sits on the crust.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q21.2",
+     "marks": [
+      1
+     ],
+     "answerMarks": [
+      2
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0102.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.22,
+      "y": 0.27,
+      "r": 0.12
+     },
+     "what": "Usopp's grey X-ray plate, a vague smudge",
+     "means": "Pleural abnormality on the chest film"
+    },
+    {
+     "spot": {
+      "x": 0.55,
+      "y": 0.42,
+      "r": 0.2
+     },
+     "what": "Grey cat slicing with one claw",
+     "means": "CT scan, the most useful next test (B)"
+    },
+    {
+     "spot": {
+      "x": 0.4,
+      "y": 0.82,
+      "r": 0.2
+     },
+     "what": "Thin slices, the lump on each crust",
+     "means": "Size, position and relations of the lesion"
+    },
+    {
+     "spot": {
+      "x": 0.7,
+      "y": 0.3,
+      "r": 0.07
+     },
+     "what": "Bat waiting in line",
+     "means": "Ultrasound: for fluid"
+    },
+    {
+     "spot": {
+      "x": 0.8,
+      "y": 0.3,
+      "r": 0.07
+     },
+     "what": "Glowing puppy waiting in line",
+     "means": "PET: for staging a known cancer"
+    },
+    {
+     "spot": {
+      "x": 0.93,
+      "y": 0.3,
+      "r": 0.07
+     },
+     "what": "Red horseshoe magnet waiting in line",
+     "means": "MRI: invasion of the chest wall or diaphragm"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0123",
+   "title": "Blood cardioplegia may contain amino acids to hasten recovery",
+   "titleAr": "شلل القلب الدموي قد يحتوي أحماضًا أمينية لتسريع التعافي",
+   "tags": [
+    "cardiac/cpb",
+    "d:technique",
+    "q:recall",
+    "l:3"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في مطبخ السفينة، وقف دلو طويل من عصير الموز والدّم الأحمر، بجانب فندق صغير ساكن.",
+       "t": 0,
+       "spot": {
+        "x": 0.35,
+        "y": 0.55,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "وعلى جنب الدلو علامات تقول: أربعة أجزاء من الأحمر، وجزء واحد من الموز.",
+       "t": 8160,
+       "spot": {
+        "x": 0.08,
+        "y": 0.68,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "وكان الجزء الأحمر مليئًا بكعكات حمراء صغيرة.",
+       "t": 15634,
+       "spot": {
+        "x": 0.2,
+        "y": 0.62,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "«نصف من الدم ونصف من الموز، هذا أعدل!» قال أوسوب.",
+       "t": 20199,
+       "spot": {
+        "x": 0.3,
+        "y": 0.7,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "«العلامات تقول أربعةً إلى واحد، فلا تغيّرها.» قالت نامي.",
+       "t": 25920,
+       "spot": {
+        "x": 0.08,
+        "y": 0.68,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "وكانت مروحة الفندق الصغير تنتظر أن تعود.",
+       "t": 31622,
+       "spot": {
+        "x": 0.43,
+        "y": 0.57,
+        "r": 0.09
+       }
+      },
+      {
+       "text": "فأخرج سانجي من جيبه حفنةً من مكعّبات البناء الملوّنة.",
+       "t": 35776,
+       "spot": {
+        "x": 0.22,
+        "y": 0.25,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "وألقاها في الدلو كما يلقي التوابل في القدر.",
+       "t": 40819,
+       "spot": {
+        "x": 0.15,
+        "y": 0.4,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "أمّا علبة الغراء الأبيض الطباشيريّ على الرفّ، فتركها مغلقةً لم يلمسها.",
+       "t": 44707,
+       "spot": {
+        "x": 0.43,
+        "y": 0.11,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "فبدأت المروحة تدور أبكر من كلّ مرّة، وسانجي يضغط ساعة التوقيت بيده الأخرى.",
+       "t": 51036,
+       "spot": {
+        "x": 0.43,
+        "y": 0.57,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "«مكعّبات صغيرة، تبني المروحة وتعيدها أسرع!» قال سانجي.",
+       "t": 58057,
+       "spot": {
+        "x": 0.22,
+        "y": 0.18,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "فضحك لوفي، وتذكّر جدّه وهو يطعمه ويدرّبه صغيرًا، ويصيح فيه:",
+       "t": 64199
+      },
+      {
+       "text": "«ستصبح جنديًّا قويًّا في البحريّة!»",
+       "quote": "ون بيس، مونكي دي غارب",
+       "t": 71932
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0123-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "Blood cardioplegia is usually 4 parts blood to 1 part crystalloid, with a high potassium content to arrest the heart and a low calcium content.",
+       "t": 0,
+       "spot": {
+        "x": 0.08,
+        "y": 0.68,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "It is slightly hyperosmolar, not hypo-osmolar.",
+       "t": 9484,
+       "spot": {
+        "x": 0.3,
+        "y": 0.62,
+        "r": 0.22
+       }
+      },
+      {
+       "text": "It may contain amino acid substrates, such as glutamate and aspartate, to hasten metabolic recovery: C is the answer.",
+       "t": 13143,
+       "spot": {
+        "x": 0.15,
+        "y": 0.4,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "Memory hook: Sanji drops building blocks into the 4-to-1 bucket, and the fan starts sooner.",
+       "t": 21847,
+       "spot": {
+        "x": 0.25,
+        "y": 0.35,
+        "r": 0.22
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0123-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which is correct regarding the composition of blood cardioplegia?",
+     "options": [
+      "Has high levels of calcium added to improve contractility",
+      "Is hypoosmolar",
+      "May contain amino acid substrates to hasten recovery",
+      "Has low levels of potassium to prevent systemic hyperkalemia",
+      "Typically consists of one part blood and one part crystalloid"
+     ],
+     "answer": 2,
+     "explain": "Blood cardioplegia is usually 4 parts blood to 1 part crystalloid, with a high potassium content to arrest the heart and a low calcium content. It is slightly hyperosmolar, not hypo-osmolar. It may contain amino acid substrates, such as glutamate and aspartate, to hasten metabolic recovery: C is the answer. Memory hook: Sanji drops building blocks into the 4-to-1 bucket, and the fan starts sooner.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q25.3",
+     "marks": [
+      3,
+      4
+     ],
+     "answerMarks": [
+      1,
+      2
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0123.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.22,
+      "y": 0.2,
+      "r": 0.14
+     },
+     "what": "Sanji with building blocks",
+     "means": "Amino acid substrates (glutamate, aspartate)"
+    },
+    {
+     "spot": {
+      "x": 0.15,
+      "y": 0.4,
+      "r": 0.1
+     },
+     "what": "Blocks dropped into the bucket",
+     "means": "Added to hasten metabolic recovery (C)"
+    },
+    {
+     "spot": {
+      "x": 0.08,
+      "y": 0.68,
+      "r": 0.13
+     },
+     "what": "Marks 4 and 1 on the bucket",
+     "means": "Blood 4 parts to crystalloid 1 part"
+    },
+    {
+     "spot": {
+      "x": 0.2,
+      "y": 0.62,
+      "r": 0.13
+     },
+     "what": "Red doughnuts filling the bucket",
+     "means": "The blood part of blood cardioplegia"
+    },
+    {
+     "spot": {
+      "x": 0.43,
+      "y": 0.57,
+      "r": 0.09
+     },
+     "what": "Small fan waiting in the hotel",
+     "means": "The arrested heart, restarting sooner"
+    },
+    {
+     "spot": {
+      "x": 0.3,
+      "y": 0.19,
+      "r": 0.06
+     },
+     "what": "Stopwatch in Sanji's hand",
+     "means": "Recovery is faster"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0125",
+   "title": "Retrograde pressure above 50 mm Hg means the catheter must be repositioned",
+   "titleAr": "ضغط الشلل الراجع فوق 50 ملم زئبق يعني وجوب إعادة وضع القثطار",
+   "tags": [
+    "cardiac/cpb",
+    "d:technique",
+    "q:numbers",
+    "l:3"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "خلف الفندق القديم، حيث الحوض الفولاذيّ الصغير في الجدار، دفع أوسوب خرطوم عصير الموز إلى الداخل بكلّ قوّته.",
+       "t": 0,
+       "spot": {
+        "x": 0.25,
+        "y": 0.55,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "«كلّما دخل أعمق، كان أفضل!» قال أوسوب.",
+       "t": 10089
+      },
+      {
+       "text": "فارتفعت إبرة المقياس المستدير على الخرطوم.",
+       "t": 14741,
+       "spot": {
+        "x": 0.3,
+        "y": 0.38,
+        "r": 0.11
+       }
+      },
+      {
+       "text": "عشرون، ثلاثون، أربعون، ثمّ تجاوزت الخمسين إلى الأحمر.",
+       "t": 19064,
+       "spot": {
+        "x": 0.33,
+        "y": 0.36,
+        "r": 0.09
+       }
+      },
+      {
+       "text": "وأخذ الحوض يئنّ وينتفخ.",
+       "t": 25614,
+       "spot": {
+        "x": 0.13,
+        "y": 0.55,
+        "r": 0.11
+       }
+      },
+      {
+       "text": "«فوق الخمسين؟ الخرطوم في غير مكانه!» صاح فرانكي.",
+       "t": 28581,
+       "spot": {
+        "x": 0.78,
+        "y": 0.3,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "فأمسك فرانكي الخرطوم بيديه العملاقتين، وسحبه إلى الوراء قليلًا، ثمّ ثبّته من جديد.",
+       "t": 33929,
+       "spot": {
+        "x": 0.72,
+        "y": 0.62,
+        "r": 0.16
+       }
+      },
+      {
+       "text": "فعادت الإبرة تحت الخمسين، وهدأ الحوض.",
+       "t": 42659,
+       "spot": {
+        "x": 0.3,
+        "y": 0.38,
+        "r": 0.11
+       }
+      },
+      {
+       "text": "«الإبرة في الأحمر؟ اسحب الخرطوم وأعد وضعه!» قال تشوبر.",
+       "t": 47153,
+       "spot": {
+        "x": 0.3,
+        "y": 0.38,
+        "r": 0.11
+       }
+      },
+      {
+       "text": "فطأطأ أوسوب رأسه خجلًا، كما طأطأه يومًا أمام رفاقه، وقال:",
+       "t": 52866
+      },
+      {
+       "text": "«أنا آسف يا لوفي! أرجوك، دعني أعود إليكم!»",
+       "quote": "ون بيس، أوسوب",
+       "t": 60230
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0125-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "During retrograde delivery, an infusion pressure above about 50 mm Hg suggests that the catheter is malpositioned, for example wedged in a small vein, and it risks injury to the coronary sinus.",
+       "t": 0,
+       "spot": {
+        "x": 0.3,
+        "y": 0.38,
+        "r": 0.11
+       }
+      },
+      {
+       "text": "The catheter must then be repositioned: C is the answer.",
+       "t": 13820,
+       "spot": {
+        "x": 0.72,
+        "y": 0.62,
+        "r": 0.16
+       }
+      },
+      {
+       "text": "Manual palpation and the perfusion line pressure do not show adequate delivery; the pressure that matters is the pressure in the coronary sinus itself, together with arrest and cooling of the heart.",
+       "t": 18099,
+       "spot": {
+        "x": 0.13,
+        "y": 0.55,
+        "r": 0.11
+       }
+      },
+      {
+       "text": "Memory hook: the needle swings past 50 into the red, and Franky pulls the hose back to set it again.",
+       "t": 30328,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.35
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0125-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which is correct regarding delivery techniques for cardioplegia?",
+     "options": [
+      "Adequacy of delivery can be determined by manual palpation of the aorta or coronary sinus",
+      "Adequacy of delivery can be monitored by the perfusion line pressure",
+      "Retrograde infusion pressures above 50 mm Hg require repositioning of the retrograde catheter",
+      "If the aortic root pressure exceeds 1 00 mm Hg during antegrade delivery, retrograde cardioplegia should be initiated",
+      "Adequacy of delivery can be monitored by direct measurement of pressure in the delivery catheter"
+     ],
+     "answer": 2,
+     "explain": "During retrograde delivery, an infusion pressure above about 50 mm Hg suggests that the catheter is malpositioned, for example wedged in a small vein, and it risks injury to the coronary sinus. The catheter must then be repositioned: C is the answer. Manual palpation and the perfusion line pressure do not show adequate delivery; the pressure that matters is the pressure in the coronary sinus itself, together with arrest and cooling of the heart. Memory hook: the needle swings past 50 into the red, and Franky pulls the hose back to set it again.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q25.5",
+     "marks": [
+      4,
+      3
+     ],
+     "answerMarks": [
+      1,
+      2
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0125.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.3,
+      "y": 0.38,
+      "r": 0.11
+     },
+     "what": "Gauge needle past 50 into the red",
+     "means": "Retrograde pressure above about 50 mmHg"
+    },
+    {
+     "spot": {
+      "x": 0.72,
+      "y": 0.62,
+      "r": 0.15
+     },
+     "what": "Franky pulling the hose back",
+     "means": "Reposition the retrograde catheter (C)"
+    },
+    {
+     "spot": {
+      "x": 0.13,
+      "y": 0.55,
+      "r": 0.1
+     },
+     "what": "Steel basin in the wall, swelling",
+     "means": "Coronary sinus, where the catheter sits"
+    },
+    {
+     "spot": {
+      "x": 0.4,
+      "y": 0.57,
+      "r": 0.08
+     },
+     "what": "Yellow hose pushed into the basin",
+     "means": "Retrograde cardioplegia catheter"
+    },
+    {
+     "spot": {
+      "x": 0.22,
+      "y": 0.15,
+      "r": 0.09
+     },
+     "what": "Stag's head over the wall",
+     "means": "The heart (HART Hotel)"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0126",
+   "title": "Amiodarone after surgery helps prevent atrial fibrillation after CABG",
+   "titleAr": "الأميودارون بعد الجراحة يساعد على منع الرجفان الأذيني بعد جراحة المجازة",
+   "tags": [
+    "cardiac/perioperative",
+    "cardiac/coronary",
+    "d:postoperative",
+    "q:vignette",
+    "l:2",
+    "x:high-yield"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في الفندق القديم ذي رأس الأيّل، كانت أوراق الملفوف الكبيرة قد جسرت أشواك التاج الأخضر.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.1,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "وفي الطابق الأرضيّ، كان بحّار عجوز يستريح على كرسيّ هزّاز.",
+       "t": 7110,
+       "spot": {
+        "x": 0.78,
+        "y": 0.85,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "وبعد يومين، ظهرت عند نافذة الردهة العلويّة دمية خشبيّة، بينوكيو، أنفه يطول ويطول.",
+       "t": 12893,
+       "spot": {
+        "x": 0.15,
+        "y": 0.5,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "وأراد أن يتسلّق إلى الداخل، وقلبه الخشبيّ يطقطق بلا نظام.",
+       "t": 21404,
+       "spot": {
+        "x": 0.12,
+        "y": 0.6,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«نعطي العجوز هواءً أكثر، ونطيل بقاءه في الفراش!» قالت نامي.",
+       "t": 27262
+      },
+      {
+       "text": "لكنّ بينوكيو ظلّ يتسلّق.",
+       "t": 33494,
+       "spot": {
+        "x": 0.12,
+        "y": 0.6,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فجثا أوسوب خلف صناديق الذخيرة النحاسيّة المكدّسة عند النافذة.",
+       "t": 36356,
+       "spot": {
+        "x": 0.7,
+        "y": 0.45,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "وأطلق منها الكريّات واحدةً بعد واحدة، فبقي بينوكيو معلّقًا على الحافّة في الخارج.",
+       "t": 41990,
+       "spot": {
+        "x": 0.35,
+        "y": 0.42,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«صناديق الذخيرة عند النافذة، ولا يدخل بينوكيو!» قال تشوبر.",
+       "t": 49121,
+       "spot": {
+        "x": 0.68,
+        "y": 0.47,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فعبس بينوكيو على الحافّة، ووقف أوسوب شجاعًا، وقال:",
+       "t": 54766,
+       "spot": {
+        "x": 0.15,
+        "y": 0.5,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "«يأتي وقت يجب فيه على الرجل أن يقف ويقاتل؛ حين يسخر الناس من أحلام أصدقائه!»",
+       "quote": "ون بيس، أوسوب",
+       "t": 61046
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0126-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "Atrial fibrillation is common after coronary bypass, especially in elderly patients, and it can cause haemodynamic collapse.",
+       "t": 0,
+       "spot": {
+        "x": 0.15,
+        "y": 0.5,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "Prophylactic amiodarone after surgery reduces its incidence, and could have prevented this complication: B is the answer.",
+       "t": 8546,
+       "spot": {
+        "x": 0.68,
+        "y": 0.47,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "His electrolytes were normal and there was no ischaemia; more oxygen, thick liquids, a longer stay in intensive care or warfarin would not have prevented it.",
+       "t": 16394,
+       "spot": {
+        "x": 0.78,
+        "y": 0.85,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "Memory hook: Usopp's ammo boxes at the atrium window keep Pinocchio out after the cabbage.",
+       "t": 26049,
+       "spot": {
+        "x": 0.45,
+        "y": 0.4,
+        "r": 0.3
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0126-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "An 87 -year-old male with an ejection fraction of 35 percent undergoes an uneventful triple-vessel CABG. He is extubated within 6 h after surgery, and transfers to the step-down unit the next day on aspirin, furosemide, and potassium with a mean blood pressure of 75. Two days later, he is transferred back to the ICU reintubated, hypotensive, in atrial fibrillation with a rapid ventricular response at a rate of 200 bpm. He is successfully cardioverted, and in sinus rhythm at 90, his blood pressure stabilizes. His magnesium and potassium were 2 . 1 and 4.2 mEq/L, respectively: His oxygen saturation had been 92 percent on room air when he developed atrial fibrillation, and rose with nasal oxygen. His EKG showed no evidence of ischemia. How could this complication have potentially been prevented?",
+     "options": [
+      "Used nasal oxygen until room air sats were >95 percent on room air, not 92 percent",
+      "Administered amiodarone postoperatively",
+      "Prescribed only thick liquids to prevent aspiration",
+      "Kept this elderly patient in the ICU longer for more intense monitoring",
+      "Prescribed warfarin postoperatively"
+     ],
+     "answer": 1,
+     "explain": "Atrial fibrillation is common after coronary bypass, especially in elderly patients, and it can cause haemodynamic collapse. Prophylactic amiodarone after surgery reduces its incidence, and could have prevented this complication: B is the answer. His electrolytes were normal and there was no ischaemia; more oxygen, thick liquids, a longer stay in intensive care or warfarin would not have prevented it. Memory hook: Usopp's ammo boxes at the atrium window keep Pinocchio out after the cabbage.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q26.1",
+     "marks": [
+      3,
+      4,
+      5
+     ],
+     "answerMarks": [
+      1,
+      2
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0126.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.68,
+      "y": 0.47,
+      "r": 0.11
+     },
+     "what": "Ammo boxes at the upper window",
+     "means": "Amiodarone given after surgery (B)"
+    },
+    {
+     "spot": {
+      "x": 0.75,
+      "y": 0.35,
+      "r": 0.1
+     },
+     "what": "Usopp firing the pellets",
+     "means": "Prophylaxis cuts postoperative AF"
+    },
+    {
+     "spot": {
+      "x": 0.15,
+      "y": 0.5,
+      "r": 0.14
+     },
+     "what": "Pinocchio climbing at the window",
+     "means": "Atrial fibrillation after CABG"
+    },
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.09,
+      "r": 0.14
+     },
+     "what": "Cabbage leaves over the green crown",
+     "means": "Uneventful triple-vessel CABG"
+    },
+    {
+     "spot": {
+      "x": 0.78,
+      "y": 0.85,
+      "r": 0.11
+     },
+     "what": "Old sailor in a rocking chair",
+     "means": "Elderly patient (87 years)"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0127",
+   "title": "Labile pressure with a low CVP after myectomy: give volume",
+   "titleAr": "ضغط متقلّب مع ضغط وريدي مركزي منخفض بعد استئصال العضلة: أعطِ السوائل",
+   "tags": [
+    "cardiac/perioperative",
+    "d:postoperative",
+    "q:next-step",
+    "l:3"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في الفندق القديم ذي رأس الأيّل، كان الجدار السميك بين غرفتي المحرّك منتفخًا كذراع رافع أثقال مثنيّة.",
+       "t": 0,
+       "spot": {
+        "x": 0.42,
+        "y": 0.28,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "وقد حفر فيه أخدود جديد، وبجانبه إزميل ملقًى.",
+       "t": 8569,
+       "spot": {
+        "x": 0.47,
+        "y": 0.46,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "وفي الردهة الزرقاء، كان مقياس الماء يقرأ ثلاثةً، وخزّانه الزجاجيّ شبه فارغ.",
+       "t": 13867,
+       "spot": {
+        "x": 0.08,
+        "y": 0.33,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "وعلى الحائط، كانت إبرة مقياس الضغط تتأرجح بجنون، من فوق إلى تحت.",
+       "t": 20932,
+       "spot": {
+        "x": 0.23,
+        "y": 0.23,
+        "r": 0.09
+       }
+      },
+      {
+       "text": "«نوسّع الأبواب بالدّواء، ونسرع الطبل إلى مئة!» قال فرانكي.",
+       "t": 27474
+      },
+      {
+       "text": "فتأرجحت الإبرة أكثر، وصار الجدار المنتفخ ينطبق على الغرفة الفارغة.",
+       "t": 33575,
+       "spot": {
+        "x": 0.42,
+        "y": 0.28,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "وفي باب الحوت، أخذ العمّ سام بقبّعته المرصّعة بالنّجوم يشدّ الورقة الأماميّة من تاج الأسقف إلى الباب.",
+       "t": 40030,
+       "spot": {
+        "x": 0.85,
+        "y": 0.4,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«الخزّان فارغ يا فرانكي! الفندق عطشان!» قال سانجي.",
+       "t": 48577,
+       "spot": {
+        "x": 0.4,
+        "y": 0.55,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فأخذ سانجي يصبّ في الفندق دلوًا كبيرًا من الماء بعد دلو.",
+       "t": 54515,
+       "spot": {
+        "x": 0.55,
+        "y": 0.65,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "فارتفع الماء في الخزّان، وأخذت الإبرة تهدأ شيئًا فشيئًا.",
+       "t": 59642,
+       "spot": {
+        "x": 0.08,
+        "y": 0.33,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "وارتخت قبضة العمّ سام عن الورقة حتّى أفلتها.",
+       "t": 65194,
+       "spot": {
+        "x": 0.88,
+        "y": 0.4,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "«كان عطشان فقط! املأه، فيهدأ!» قال تشوبر.",
+       "t": 69547
+      },
+      {
+       "text": "ومع كلّ دلو، كان الفندق كأنّه يقول ما قاله القرصان الأحمر الشعر يومًا:",
+       "t": 74694,
+       "spot": {
+        "x": 0.5,
+        "y": 0.1,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«اسكب عليّ الشراب أو الطعام وسأضحك... لكنّي لا أغفر أبدًا لمن يؤذي صديقي!»",
+       "quote": "ون بيس، شانكس",
+       "t": 81880
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0127-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "After septal myectomy for hypertrophic obstructive cardiomyopathy, a labile blood pressure with a low central venous pressure means the ventricle is underfilled.",
+       "t": 0,
+       "spot": {
+        "x": 0.23,
+        "y": 0.23,
+        "r": 0.09
+       }
+      },
+      {
+       "text": "An underfilled, thick ventricle can obstruct its own outflow again, so the treatment is volume resuscitation: D is the answer.",
+       "t": 10163,
+       "spot": {
+        "x": 0.55,
+        "y": 0.65,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "Vasodilators such as nitroprusside, inotropes such as milrinone and fast pacing reduce filling or increase obstruction, and make it worse.",
+       "t": 18477
+      },
+      {
+       "text": "Memory hook: the tank reads 3, Sanji pours bucket after bucket, and the swinging needle calms.",
+       "t": 27947,
+       "spot": {
+        "x": 0.3,
+        "y": 0.45,
+        "r": 0.3
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0127-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "A 24-year-old male undergoes a left ventricular (LV) septalmyectomy for hypertrophic obstructive cardiomyopathy (HOCM) . He separates easily from bypass with a CVP of 9, and returns to the cardiac ICU in normal sinus rhythm at a rate of 90, with a left bundle branch block (LBBB) and atrial and ventricular epicardial pacing wires in place. During the first hour of his postoperative course, his blood pressure is very labile, with systolic pressures ranging from 70 to 1 80, and a CVP of 3. What should be the course of action in the immediate postoperative period to stabilize this patient?",
+     "options": [
+      "Initiation of nitroprusside as an afterload reducing agent",
+      "DDD pace at 1 00 bpm",
+      "Add beta-blocker to minimize stress on the aortic suture line",
+      "Volume resuscitation",
+      "Add milrinone at 0.3 J..Lg/kg/min"
+     ],
+     "answer": 3,
+     "explain": "After septal myectomy for hypertrophic obstructive cardiomyopathy, a labile blood pressure with a low central venous pressure means the ventricle is underfilled. An underfilled, thick ventricle can obstruct its own outflow again, so the treatment is volume resuscitation: D is the answer. Vasodilators such as nitroprusside, inotropes such as milrinone and fast pacing reduce filling or increase obstruction, and make it worse. Memory hook: the tank reads 3, Sanji pours bucket after bucket, and the swinging needle calms.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q26.2",
+     "marks": [
+      2,
+      3,
+      4
+     ],
+     "answerMarks": [
+      1
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0127.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.55,
+      "y": 0.65,
+      "r": 0.16
+     },
+     "what": "Sanji pouring bucket after bucket",
+     "means": "Volume resuscitation (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.08,
+      "y": 0.33,
+      "r": 0.1
+     },
+     "what": "Water tank reading 3, nearly empty",
+     "means": "Low CVP: the heart is underfilled"
+    },
+    {
+     "spot": {
+      "x": 0.23,
+      "y": 0.23,
+      "r": 0.08
+     },
+     "what": "Pressure needle swinging wildly",
+     "means": "Labile blood pressure after myectomy"
+    },
+    {
+     "spot": {
+      "x": 0.42,
+      "y": 0.28,
+      "r": 0.12
+     },
+     "what": "Party wall bulging like a flexed arm",
+     "means": "Thick septum (HOCM) after myectomy"
+    },
+    {
+     "spot": {
+      "x": 0.85,
+      "y": 0.4,
+      "r": 0.11
+     },
+     "what": "Uncle Sam pulling the mitre leaf",
+     "means": "SAM: outflow obstruction when underfilled"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0128",
+   "title": "Old age, heavy smoking, redo surgery, long bypass and a balloon pump: tracheostomy likeliest",
+   "titleAr": "الشيخوخة والتدخين الكثيف والجراحة المعادة وطول المجازة والبالون: فغر الرغامى هو الأرجح",
+   "tags": [
+    "cardiac/perioperative",
+    "d:postoperative",
+    "q:vignette",
+    "l:3"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في مستوصف على جزيرة من الغراند لاين، خمسة أسرّة في صفّ، وعلى أربعة من المرضى ثقل صغير واحد.",
+       "t": 0,
+       "spot": {
+        "x": 0.8,
+        "y": 0.45,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "أمّا في السرير الأوسط، فبحّار عجوز جدًّا، ذو لحية بيضاء، يحمل الأثقال كلّها.",
+       "t": 8613,
+       "spot": {
+        "x": 0.5,
+        "y": 0.33,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "خلفه جبل من مئة علبة سجائر، وعلى صدره مؤخّرة سفينة تنشر مرّةً ثانيةً على ندبة قديمة.",
+       "t": 16139,
+       "spot": {
+        "x": 0.5,
+        "y": 0.15,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "وفي صدره حوت قاتل صغير تنبض فيه بالونة سمينة كالنّقانق، وبجانبه شاحنة المضخّة وساعتها تقرأ مئتين وسبعين.",
+       "t": 24211,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«سيقوم غدًا ويتنفّس وحده كالآخرين!» قال أوسوب متفائلًا.",
+       "t": 34242
+      },
+      {
+       "text": "«من يحمل ثقلًا واحدًا يقوم سريعًا؛ أمّا من يحملها كلّها فيحتاج وقتًا طويلًا.» همس تشوبر.",
+       "t": 40060,
+       "spot": {
+        "x": 0.5,
+        "y": 0.4,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "ومرّت الأيّام ولم يقم، والآخرون قاموا واحدًا بعد واحد.",
+       "t": 48240,
+       "spot": {
+        "x": 0.85,
+        "y": 0.45,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "فصنع له تشوبر ثقبًا صغيرًا في مقدّم عنقه، ووصل منه خرطومًا مضلّعًا قصيرًا إلى منفاخ.",
+       "t": 53197,
+       "spot": {
+        "x": 0.75,
+        "y": 0.55,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "فتنفّس العجوز بهدوء، وابتسم.",
+       "t": 60732,
+       "spot": {
+        "x": 0.5,
+        "y": 0.33,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "وتذكّر سفينةً صغيرةً قالت لرفاقها في ليلتها الأخيرة:",
+       "t": 64069,
+       "spot": {
+        "x": 0.5,
+        "y": 0.45,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«كنت سعيدةً حقًّا... شكرًا لكم على كلّ شيء.»",
+       "quote": "ون بيس، غوينغ ميري",
+       "t": 69673
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0128-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "The risk of prolonged ventilation and tracheostomy after heart surgery rises with age, heavy smoking, reoperation, a long bypass time and the need for a balloon pump to come off bypass.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.3,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "The 80-year-old, 100-pack-year smoker after a redo sternotomy, a 270-minute bypass and an intraoperative balloon pump carries all of these risks together: D is the answer.",
+       "t": 12713,
+       "spot": {
+        "x": 0.2,
+        "y": 0.63,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "Each of the other patients carries only one of them.",
+       "t": 25632,
+       "spot": {
+        "x": 0.85,
+        "y": 0.45,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "Memory hook: the old sailor carries every weight at once, and the ribbed hose comes out of the front of his neck.",
+       "t": 29005,
+       "spot": {
+        "x": 0.7,
+        "y": 0.5,
+        "r": 0.16
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0128-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "The likelihood of requiring tracheostomy for ventilator dependent respiratory failure is greatest in which of the following patients?",
+     "options": [
+      "A 30-year-old Marfan patient after an emergency aortic root replacement for an acute ascending aortic dissection",
+      "A 70-year-old patient with baseline room air hypoxia on home oxygen but without evidence of C0 2 Retention s/p semi-urgent 4-vessel CABG in the setting of a NSTEMI",
+      "A 70-year-old 40 pack-year smoker after aortic valve surgery extubated intraoperatively who required reintubation upon arrival to the ICU for a severe respiratory acidosis with somnolence",
+      "A 80-year-old 1 00 pack-year smoker who underwent a redo sternotomy for coronary bypass and rereplacement of his mitral valve, with a bypass time of 270 min and intraoperative IABP placement due to initial inability to separate from CPB",
+      "A 72-year-old patient with a juvenile history of Guillain-Barre syndrome requiring a tracheostomy at the time, now s/p 3-vessel CABG"
+     ],
+     "answer": 3,
+     "explain": "The risk of prolonged ventilation and tracheostomy after heart surgery rises with age, heavy smoking, reoperation, a long bypass time and the need for a balloon pump to come off bypass. The 80-year-old, 100-pack-year smoker after a redo sternotomy, a 270-minute bypass and an intraoperative balloon pump carries all of these risks together: D is the answer. Each of the other patients carries only one of them. Memory hook: the old sailor carries every weight at once, and the ribbed hose comes out of the front of his neck.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q26.3",
+     "marks": [
+      7
+     ],
+     "answerMarks": [
+      1,
+      6
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0128.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.33,
+      "r": 0.11
+     },
+     "what": "Very old bearded sailor",
+     "means": "Age 80: prolonged ventilation risk"
+    },
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.15,
+      "r": 0.18
+     },
+     "what": "Mountain of 100-cigarette boxes",
+     "means": "100 pack-years of smoking"
+    },
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.45,
+      "r": 0.1
+     },
+     "what": "Ship's stern opened again on his chest",
+     "means": "Redo sternotomy"
+    },
+    {
+     "spot": {
+      "x": 0.2,
+      "y": 0.63,
+      "r": 0.11
+     },
+     "what": "Roller-pump truck, dial 270",
+     "means": "Long bypass (270 minutes)"
+    },
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.51,
+      "r": 0.08
+     },
+     "what": "Sausage balloon in the orca",
+     "means": "Intraoperative balloon pump"
+    },
+    {
+     "spot": {
+      "x": 0.75,
+      "y": 0.55,
+      "r": 0.12
+     },
+     "what": "Ribbed hose from the front of his neck",
+     "means": "Tracheostomy: likeliest in him"
+    },
+    {
+     "spot": {
+      "x": 0.85,
+      "y": 0.45,
+      "r": 0.13
+     },
+     "what": "Other beds, crew who got up",
+     "means": "Each other patient has one risk only"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0129",
+   "title": "Right ventricular ischaemia with low output after CABG: place an IABP at once",
+   "titleAr": "نقص تروية البطين الأيمن مع نتاج منخفض بعد المجازة: ضع البالون داخل الأبهر فورًا",
+   "tags": [
+    "cardiac/perioperative",
+    "cardiac/coronary",
+    "d:postoperative",
+    "q:next-step",
+    "l:3",
+    "x:high-yield"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في الفندق القديم ذي رأس الأيّل، كانت كرمة فول الليما تصل إلى الشوكة الأماميّة حيث يقف فتًى صغير.",
+       "t": 0,
+       "spot": {
+        "x": 0.15,
+        "y": 0.22,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "وجسر من الياقوت الأزرق يصل إلى شوكة ثانية، أمّا الشوكة اليمنى، فما زالت مسدودةً بالقطران، لا جسر عليها.",
+       "t": 8835,
+       "spot": {
+        "x": 0.5,
+        "y": 0.12,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "وبعد ساعتين، أخذ مصعد يرتفع في الطابق السفليّ.",
+       "t": 19318,
+       "spot": {
+        "x": 0.5,
+        "y": 0.42,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "وانتفخت غرفة المحرّك الزرقاء، ومروحتها تدور بضعف.",
+       "t": 24669,
+       "spot": {
+        "x": 0.6,
+        "y": 0.85,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«نرسله إلى المرسى ليمدّوا زنبركًا في الشوكة اليمنى!» قال أوسوب.",
+       "t": 30434,
+       "spot": {
+        "x": 0.88,
+        "y": 0.15,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "لكنّ الغرفة الزرقاء كانت تخفت، والطّريق إلى المرسى طويل.",
+       "t": 35865,
+       "spot": {
+        "x": 0.6,
+        "y": 0.85,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«لا وقت للطّريق! الآن، وهنا!» صاح فرانكي.",
+       "t": 41685,
+       "spot": {
+        "x": 0.22,
+        "y": 0.4,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "وأدخل بالونةً سمينةً كالنّقانق في الحوت القاتل الكبير الخارج من الفندق.",
+       "t": 46927,
+       "spot": {
+        "x": 0.6,
+        "y": 0.5,
+        "r": 0.16
+       }
+      },
+      {
+       "text": "فأخذت تنتفخ وتنكمش مع كلّ نبضة، وعادت المروحة الزرقاء تدور شيئًا فشيئًا.",
+       "t": 53731,
+       "spot": {
+        "x": 0.8,
+        "y": 0.6,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "«النقانق في الحوت، الآن وليس غدًا!» قال تشوبر مرتاحًا.",
+       "t": 61390,
+       "spot": {
+        "x": 0.6,
+        "y": 0.5,
+        "r": 0.16
+       }
+      },
+      {
+       "text": "فتنفّس لوفي، وتذكّر يومًا سقط فيه وظنّ أنّه انتهى، فقال لرفاقه:",
+       "t": 67031,
+       "spot": {
+        "x": 0.1,
+        "y": 0.05,
+        "r": 0.07
+       }
+      },
+      {
+       "text": "«يا زورو، يا سانجي، يا أوسوب، يا نامي... آسف، يبدو أنّني متّ!»",
+       "quote": "ون بيس، مونكي دي لوفي",
+       "t": 75068
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0129-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "Inferior ST elevation, bradycardia, and a rising central venous pressure with no change in the pulmonary artery diastolic pressure, after bypass with an ungrafted right coronary artery, mean right ventricular ischaemia.",
+       "t": 0,
+       "spot": {
+        "x": 0.88,
+        "y": 0.15,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "With a low cardiac index and mixed venous saturation despite epinephrine and pacing, the next step is to place an intra-aortic balloon pump immediately: A is the answer.",
+       "t": 14680,
+       "spot": {
+        "x": 0.6,
+        "y": 0.5,
+        "r": 0.16
+       }
+      },
+      {
+       "text": "It improves coronary perfusion and unloads the heart; dobutamine raises oxygen demand, stopping pacing loses rate and atrioventricular timing, and the distal right coronary artery was too poor to treat.",
+       "t": 25749,
+       "spot": {
+        "x": 0.6,
+        "y": 0.85,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "Memory hook: the right spike has no bridge, the blue room swells, and Franky slides the sausage balloon into the orca right now.",
+       "t": 39390,
+       "spot": {
+        "x": 0.5,
+        "y": 0.45,
+        "r": 0.3
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0129-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "A 75-year-old man undergoes a 2-vessel CABG with a LIMA-LAD arterial graft and a saphenous vein graft to his obtuse marginal artery. His 90 percent proximal RCA stenosis is unable to be revascularized due to a poor distal vessel. Two hours after surgery, the EKG shows inferior ST segment elevation. He also has bradycardia with first degree heart block and a rising CVP with no change in the PAD. On epinephrine at 0. 1 5 )..lg/ kg· min and AV pacing at 90, the mean blood pressure is 55 mm Hg, the cardiac index is 1 .8 L/min/m2, and the mixed venous oxygen saturation is 48 percent. The next appropriate step in management is:",
+     "options": [
+      "Immediately place an intra-aortic balloon pump (IABP)",
+      "Undergo urgent cardiac catheterization with an attempt to stent the RCA",
+      "Add dobutarnine to improve cardiac output",
+      "Stop pacing and allow patient to have his own AV sequential rhythm",
+      "Start amiodarone to prevent ischemia-induced atrial or ventricular arrhythmias"
+     ],
+     "answer": 0,
+     "explain": "Inferior ST elevation, bradycardia, and a rising central venous pressure with no change in the pulmonary artery diastolic pressure, after bypass with an ungrafted right coronary artery, mean right ventricular ischaemia. With a low cardiac index and mixed venous saturation despite epinephrine and pacing, the next step is to place an intra-aortic balloon pump immediately: A is the answer. It improves coronary perfusion and unloads the heart; dobutamine raises oxygen demand, stopping pacing loses rate and atrioventricular timing, and the distal right coronary artery was too poor to treat. Memory hook: the right spike has no bridge, the blue room swells, and Franky slides the sausage balloon into the orca right now.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q26.4",
+     "marks": [
+      2,
+      3,
+      4,
+      5,
+      6
+     ],
+     "answerMarks": [
+      1
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0129.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.6,
+      "y": 0.5,
+      "r": 0.15
+     },
+     "what": "Franky pushing the sausage into the orca",
+     "means": "Place an IABP at once (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.88,
+      "y": 0.15,
+      "r": 0.09
+     },
+     "what": "Right spike black with tar, no bridge",
+     "means": "Ungrafted right coronary: RV ischaemia"
+    },
+    {
+     "spot": {
+      "x": 0.6,
+      "y": 0.85,
+      "r": 0.15
+     },
+     "what": "Blue engine room swelling, fan weak",
+     "means": "Failing right ventricle, low output"
+    },
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.42,
+      "r": 0.07
+     },
+     "what": "Elevator rising in the lower floor",
+     "means": "Rising central venous pressure"
+    },
+    {
+     "spot": {
+      "x": 0.15,
+      "y": 0.22,
+      "r": 0.11
+     },
+     "what": "Lima bean vine down to a spike",
+     "means": "LIMA to LAD graft"
+    },
+    {
+     "spot": {
+      "x": 0.35,
+      "y": 0.12,
+      "r": 0.1
+     },
+     "what": "Sapphire bridge to another spike",
+     "means": "Vein graft to the obtuse marginal"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0130",
+   "title": "Remove the urinary catheter as soon as the patient is extubated, stable and mobile",
+   "titleAr": "انزع القثطار البولي حالما يُنزع أنبوب التنفّس ويستقرّ المريض ويتحرّك",
+   "tags": [
+    "cardiac/perioperative",
+    "d:postoperative",
+    "q:recall",
+    "l:2"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في مستوصف مضيء على الثاوزند صني، كانت جراثيم خضراء صغيرة تزحف على خراطيم سرير.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.52,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "وكان المريض بحّارًا مرحًا، نزع أنبوب تنفّسه أمس.",
+       "t": 7276,
+       "spot": {
+        "x": 0.22,
+        "y": 0.4,
+        "r": 0.16
+       }
+      },
+      {
+       "text": "وبجانب سريره منفاخ تنفّس مطفأ قد دفع جانبًا، وعلى صدره خطّ أبيض مستقيم في الوسط كمؤخّرة سفينة.",
+       "t": 12519,
+       "spot": {
+        "x": 0.88,
+        "y": 0.38,
+        "r": 0.09
+       }
+      },
+      {
+       "text": "«نبقي الخرطوم الأصفر أسبوعًا آخر، احتياطًا!» قال أوسوب.",
+       "t": 21907
+      },
+      {
+       "text": "فزحفت الجراثيم الخضراء أعلى فأعلى على الخرطوم.",
+       "t": 27491,
+       "spot": {
+        "x": 0.5,
+        "y": 0.52,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "لكنّ البحّار نهض من سريره، ووقف على قدميه، ومشى وحده.",
+       "t": 31466,
+       "spot": {
+        "x": 0.22,
+        "y": 0.55,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "«يتنفّس وحده، ومستقرّ، ويمشي؟ إذن لا حاجة لهذا الخرطوم!» قال تشوبر.",
+       "t": 37197,
+       "spot": {
+        "x": 0.85,
+        "y": 0.55,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "فسحب تشوبر الخرطوم الأصفر الرفيع بعيدًا عنه في الحال.",
+       "t": 44842,
+       "spot": {
+        "x": 0.75,
+        "y": 0.6,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "ثمّ أعاد قلم الرصاص العملاق إلى حقيبته، فلا حاجة إليه.",
+       "t": 49395,
+       "spot": {
+        "x": 0.88,
+        "y": 0.68,
+        "r": 0.07
+       }
+      },
+      {
+       "text": "فتساقطت الجراثيم الخضراء عنه إلى الأرض، ولم تجد طريقًا تصعد فيه.",
+       "t": 54576,
+       "spot": {
+        "x": 0.48,
+        "y": 0.68,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "ومشى البحّار نحو الباب ضاحكًا، والبحر يلمع خلفه.",
+       "t": 60511,
+       "spot": {
+        "x": 0.22,
+        "y": 0.5,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "فصاح في رفاقه بكلمة قالتها روبين يومًا:",
+       "t": 65312,
+       "spot": {
+        "x": 0.22,
+        "y": 0.22,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "«أريد أن أعيش! خذوني معكم إلى البحر!»",
+       "quote": "ون بيس، نيكو روبين",
+       "t": 70043
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0130-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "To reduce hospital infections after open heart surgery, the urinary catheter is removed as soon as the patient is extubated, stable and mobile: C is the answer.",
+       "t": 0,
+       "spot": {
+        "x": 0.75,
+        "y": 0.6,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "Central venous catheters are not changed routinely every 72 hours, and antibiotics are not continued for as long as the patient is ventilated.",
+       "t": 10954,
+       "spot": {
+        "x": 0.5,
+        "y": 0.15,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "Early nutrition is encouraged, and blood glucose is controlled with insulin from the start, not only once the patient eats.",
+       "t": 20540
+      },
+      {
+       "text": "Memory hook: the patient walks, so Chopper pulls the yellow hose, and the green germs fall off with it.",
+       "t": 28137,
+       "spot": {
+        "x": 0.6,
+        "y": 0.55,
+        "r": 0.25
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0130-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Efforts to reduce nosocomial infections in patients after open heart surgery should include which of the following:",
+     "options": [
+      "Routine central venous catheter changes every 72 h to minimize the risk of catheter-related bloodstream infections",
+      "Continuation of antibiotics as long as the patient is intubated and mechanically ventilated to prevent ventilator-associated pneumonia",
+      "Removal of the urinary catheter as s oon as the patient is extubated, stable, and mobile",
+      "Avoidance of providing enteral or parenteral nutrition for patients in critical condition for greater than 5 days",
+      "The use of blood glucose control via an insulin sliding scale only after the patient is extubated and eating a regular diet"
+     ],
+     "answer": 2,
+     "explain": "To reduce hospital infections after open heart surgery, the urinary catheter is removed as soon as the patient is extubated, stable and mobile: C is the answer. Central venous catheters are not changed routinely every 72 hours, and antibiotics are not continued for as long as the patient is ventilated. Early nutrition is encouraged, and blood glucose is controlled with insulin from the start, not only once the patient eats. Memory hook: the patient walks, so Chopper pulls the yellow hose, and the green germs fall off with it.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q26.5",
+     "marks": [
+      3,
+      4
+     ],
+     "answerMarks": [
+      1,
+      2
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0130.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.75,
+      "y": 0.58,
+      "r": 0.12
+     },
+     "what": "Chopper pulling the yellow hose away",
+     "means": "Remove the urinary catheter early (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.58,
+      "r": 0.11
+     },
+     "what": "Green germs falling off the hose",
+     "means": "Fewer catheter infections"
+    },
+    {
+     "spot": {
+      "x": 0.22,
+      "y": 0.5,
+      "r": 0.16
+     },
+     "what": "Patient walking on his own",
+     "means": "Extubated, stable and mobile"
+    },
+    {
+     "spot": {
+      "x": 0.88,
+      "y": 0.38,
+      "r": 0.08
+     },
+     "what": "Switched-off bellows pushed aside",
+     "means": "Off the ventilator"
+    },
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.15,
+      "r": 0.07
+     },
+     "what": "Drip bag on its stand",
+     "means": "Central lines are not changed routinely"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0131",
+   "title": "Congenital aortic stenosis has a higher incidence of left coronary dominance",
+   "titleAr": "تضيّق الصمام الأبهري الخِلقي يرافقه سيادة تاجية يسرى أكثر",
+   "tags": [
+    "cardiac/coronary",
+    "d:anatomy",
+    "q:recall",
+    "l:3",
+    "x:trap"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في شارع على الميناء، اصطفّت فنادق قديمة ضيّقة، فوق كلّ باب رأس أيّل، وعلى كلّ سطح تاج أخضر.",
+       "t": 0,
+       "spot": {
+        "x": 0.6,
+        "y": 0.3,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "ومن كلّ تاج تنزل شوكة طويلة على الجدار الخلفيّ، وفي أكثر الفنادق تنزل من جانب التاج الأيمن.",
+       "t": 9183,
+       "spot": {
+        "x": 0.9,
+        "y": 0.35,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«كلّ الفنادق هكذا، الشوكة الطويلة دائمًا من اليمين!» قال أوسوب.",
+       "t": 17529,
+       "spot": {
+        "x": 0.9,
+        "y": 0.35,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "لكنّ روبين وقفت أمام فندق واحد، يلعب أمامه في الماء صغير حوت قاتل.",
+       "t": 23846,
+       "spot": {
+        "x": 0.75,
+        "y": 0.75,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "وكان فم الصغير ضيّقًا جدًّا، مزمومًا كأنّه يصفّر.",
+       "t": 30919,
+       "spot": {
+        "x": 0.85,
+        "y": 0.65,
+        "r": 0.07
+       }
+      },
+      {
+       "text": "فأنبتت روبين يدًا زائدةً على السطح، وأشارت إلى الشوكة الطويلة.",
+       "t": 36131,
+       "spot": {
+        "x": 0.3,
+        "y": 0.12,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "فإذا هي تنزل على الجدار الخلفيّ من جانب التاج الأيسر.",
+       "t": 41811,
+       "spot": {
+        "x": 0.38,
+        "y": 0.33,
+        "r": 0.09
+       }
+      },
+      {
+       "text": "«حيث يولد الحوت الصغير بفم ضيّق، كثيرًا ما تأتي الشوكة الطويلة من اليسار.» قالت روبين.",
+       "t": 46477,
+       "spot": {
+        "x": 0.18,
+        "y": 0.4,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "والجانب الّذي يرسل الشوكة الطويلة هو سيّد الجدار الخلفيّ.",
+       "t": 53980,
+       "spot": {
+        "x": 0.38,
+        "y": 0.33,
+        "r": 0.09
+       }
+      },
+      {
+       "text": "«إذن اليسار هو السيّد هنا!» قال لوفي.",
+       "t": 59023
+      },
+      {
+       "text": "فضحكت روبين، وتذكّرت قرصانًا بنظّارات ورديّة كان يقول عن السيادة:",
+       "t": 62829,
+       "spot": {
+        "x": 0.18,
+        "y": 0.4,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«العدالة ستنتصر؟ بالطّبع ستنتصر! فالمنتصر هو من يصير العدالة!»",
+       "quote": "ون بيس، دونكيخوتي دوفلامينغو",
+       "t": 70370
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0131-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "Congenital aortic stenosis, like a bicuspid aortic valve, has a higher incidence of left coronary dominance: E is the answer.",
+       "t": 0,
+       "spot": {
+        "x": 0.85,
+        "y": 0.65,
+        "r": 0.09
+       }
+      },
+      {
+       "text": "The dominant artery is the one that gives the posterior descending artery; about 70 to 80 percent of people are right dominant, not 90 percent.",
+       "t": 9022,
+       "spot": {
+        "x": 0.38,
+        "y": 0.33,
+        "r": 0.09
+       }
+      },
+      {
+       "text": "Coronary ostia are not rarely found outside their sinuses, for example above the sinotubular junction.",
+       "t": 18860
+      },
+      {
+       "text": "The commonest anomaly is a circumflex artery arising from the right sinus or the right coronary artery, and such an aberrant circumflex is usually small.",
+       "t": 26085
+      },
+      {
+       "text": "Memory hook: the orca calf has a narrow mouth, and on its hotel the long back spike comes from the LEFT of the crown.",
+       "t": 36154,
+       "spot": {
+        "x": 0.55,
+        "y": 0.5,
+        "r": 0.3
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0131-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which of the following is true regarding coronary artery anatomy?",
+     "options": [
+      "Ninety percent of people have a right dominant coronary artery system.",
+      "The coronary ostia are rarely located outside their respective sinuses.",
+      "The most frequent coronary artery anomaly is origin from the noncoronary sinus.",
+      "An aberrant circumflex artery is typically large and supplies the majority of the inferior wall.",
+      "Congenital aortic stenosis has a higher incidence of left coronary dominance."
+     ],
+     "answer": 4,
+     "explain": "Congenital aortic stenosis, like a bicuspid aortic valve, has a higher incidence of left coronary dominance: E is the answer. The dominant artery is the one that gives the posterior descending artery; about 70 to 80 percent of people are right dominant, not 90 percent. Coronary ostia are not rarely found outside their sinuses, for example above the sinotubular junction. The commonest anomaly is a circumflex artery arising from the right sinus or the right coronary artery, and such an aberrant circumflex is usually small. Memory hook: the orca calf has a narrow mouth, and on its hotel the long back spike comes from the LEFT of the crown.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q27.1",
+     "marks": [
+      1,
+      5
+     ],
+     "answerMarks": [
+      2
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0131.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.75,
+      "y": 0.75,
+      "r": 0.13
+     },
+     "what": "Orca calf with a narrow pursed mouth",
+     "means": "Congenital aortic stenosis"
+    },
+    {
+     "spot": {
+      "x": 0.38,
+      "y": 0.33,
+      "r": 0.08
+     },
+     "what": "Long spike down the LEFT side",
+     "means": "Left coronary dominance (E)"
+    },
+    {
+     "spot": {
+      "x": 0.9,
+      "y": 0.35,
+      "r": 0.1
+     },
+     "what": "Other hotels: spike from the right",
+     "means": "Most people are right dominant"
+    },
+    {
+     "spot": {
+      "x": 0.3,
+      "y": 0.12,
+      "r": 0.09
+     },
+     "what": "Robin pointing at the crown",
+     "means": "The dominant artery gives the PDA"
+    },
+    {
+     "spot": {
+      "x": 0.6,
+      "y": 0.08,
+      "r": 0.12
+     },
+     "what": "Green crown on the roof",
+     "means": "The coronary arteries"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0132",
+   "title": "The LAD and RCA are diseased more often than the circumflex",
+   "titleAr": "الشريان النازل الأمامي والتاجي الأيمن يُصابان أكثر من المنعطف",
+   "tags": [
+    "cardiac/coronary",
+    "d:pathology",
+    "q:recall",
+    "l:2"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "على سطح الفندق القديم، وقف تاج أخضر كبير بثلاث شوكات.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.55,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "الشوكة الأماميّة حيث يقف فتًى صغير بمكنسته، والشّوكة اليمنى، والشّوكة الخلفيّة اليسرى.",
+       "t": 5226,
+       "spot": {
+        "x": 0.5,
+        "y": 0.3,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "وجاء القطران الأسود يسيل من السماء.",
+       "t": 13148,
+       "spot": {
+        "x": 0.5,
+        "y": 0.4,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "«سيغطّي الشوكات الثلاث بالتّساوي، كالمطر!» قال أوسوب.",
+       "t": 16336
+      },
+      {
+       "text": "لكنّ القطران سدّ الشوكة الأماميّة أوّلًا، حتّى غطّى قدمي الفتى.",
+       "t": 21542,
+       "spot": {
+        "x": 0.5,
+        "y": 0.4,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "ثمّ سدّ الشوكة اليمنى.",
+       "t": 27049,
+       "spot": {
+        "x": 0.88,
+        "y": 0.35,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "أمّا الشوكة الخلفيّة اليسرى، فبقيت نظيفةً تلمع فضّيّةً في الشمس.",
+       "t": 29138,
+       "spot": {
+        "x": 0.12,
+        "y": 0.4,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "«الأماميّة واليمنى تتلطّخان كثيرًا، والخلفيّة اليسرى أقلّ بكثير!» قالت نامي.",
+       "t": 34944,
+       "spot": {
+        "x": 0.12,
+        "y": 0.15,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "فغرست نامي رايةً صغيرةً على الشوكة النظيفة.",
+       "t": 42474,
+       "spot": {
+        "x": 0.15,
+        "y": 0.05,
+        "r": 0.07
+       }
+      },
+      {
+       "text": "ورفرفت الراية فوق القطران، فتذكّر تشوبر كلمة معلّمه الأوّل:",
+       "t": 46297,
+       "spot": {
+        "x": 0.15,
+        "y": 0.05,
+        "r": 0.07
+       }
+      },
+      {
+       "text": "«علم القراصنة رمز للقناعة الراسخة!»",
+       "quote": "ون بيس، الدكتور هيلولوك",
+       "t": 52835
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0132-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "The left anterior descending and right coronary systems are diseased more often than the circumflex system: C is the answer.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.4,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "Most acute infarctions come from rupture of a plaque that was often only moderately narrowing, with a thrombus forming on it, not from a chronic, severely narrowed vessel.",
+       "t": 7897
+      },
+      {
+       "text": "Complete occlusion of one coronary artery is commonly associated with significant lesions in the others, and transmural infarcts may still contain viable cells.",
+       "t": 18619
+      },
+      {
+       "text": "Memory hook: tar fills the lad's front spike and the right spike, while the back-left spike shines clean.",
+       "t": 29735,
+       "spot": {
+        "x": 0.5,
+        "y": 0.4,
+        "r": 0.3
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0132-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which of the following is true regarding morphology of coronary artery disease?",
+     "options": [
+      "Most acute myocardial infarction results from plaque hemorrhage, swelling, and subsequent coronary occlusion.",
+      "Complete occlusion of one coronary is not commonly associated with significant lesions in other coronary arteries.",
+      "The LAD and RCA systems are more commonly involved than the circumflex system.",
+      "Transmural infarctions are characterized by complete absence of viable muscle cells in the infarct area.",
+      "Acute infarction usually occurs in a chronic, severely narrowed vessel."
+     ],
+     "answer": 2,
+     "explain": "The left anterior descending and right coronary systems are diseased more often than the circumflex system: C is the answer. Most acute infarctions come from rupture of a plaque that was often only moderately narrowing, with a thrombus forming on it, not from a chronic, severely narrowed vessel. Complete occlusion of one coronary artery is commonly associated with significant lesions in the others, and transmural infarcts may still contain viable cells. Memory hook: tar fills the lad's front spike and the right spike, while the back-left spike shines clean.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q27.2",
+     "marks": [
+      5
+     ],
+     "answerMarks": [
+      1,
+      2,
+      3
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0132.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.4,
+      "r": 0.13
+     },
+     "what": "Front spike buried in black tar",
+     "means": "The LAD is often diseased"
+    },
+    {
+     "spot": {
+      "x": 0.88,
+      "y": 0.35,
+      "r": 0.1
+     },
+     "what": "Right spike dripping tar",
+     "means": "The RCA is often diseased"
+    },
+    {
+     "spot": {
+      "x": 0.12,
+      "y": 0.4,
+      "r": 0.1
+     },
+     "what": "Back-left spike clean and silver",
+     "means": "The circumflex is involved less often"
+    },
+    {
+     "spot": {
+      "x": 0.15,
+      "y": 0.08,
+      "r": 0.07
+     },
+     "what": "Nami's white flag on the clean spike",
+     "means": "LAD and RCA more than circumflex (C)"
+    },
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.2,
+      "r": 0.1
+     },
+     "what": "Luffy with his broom on the front spike",
+     "means": "The lad: left anterior descending"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0133",
+   "title": "About 75 percent are alive ten years after coronary bypass",
+   "titleAr": "نحو 75 بالمئة أحياء بعد عشر سنوات من المجازة التاجية",
+   "tags": [
+    "cardiac/coronary",
+    "d:evidence",
+    "q:numbers",
+    "l:2"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "على طريق طويل مغبرّ في جزيرة خضراء، مشى أربعة بحّارة عند الغروب.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.6,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "وعلى سترة كلّ منهم ورقة ملفوف كبيرة مثبّتة.",
+       "t": 7165,
+       "spot": {
+        "x": 0.55,
+        "y": 0.52,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "وفي أوراق ثلاثة منهم التفّت أغصان فاصولياء خضراء.",
+       "t": 12151,
+       "spot": {
+        "x": 0.7,
+        "y": 0.55,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "«عشر سنوات طريق طويل، لن يصل إلّا واحد منهم!» قال أوسوب متشائمًا.",
+       "t": 17074,
+       "spot": {
+        "x": 0.8,
+        "y": 0.5,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "ومشوا سنةً بعد سنة، حتّى ظهر على جانب الطريق حجر مسافة مكتوب عليه عشرة.",
+       "t": 24406,
+       "spot": {
+        "x": 0.6,
+        "y": 0.25,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "وفوق الحجر أربعة فوانيس، ثلاثة منها مضاءة.",
+       "t": 32358,
+       "spot": {
+        "x": 0.7,
+        "y": 0.1,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "ومرّ ثلاثة من البحّارة بالحجر يلوّحون، وجلس الرابع على مقعد قبله بقليل، مبتسمًا.",
+       "t": 37465,
+       "spot": {
+        "x": 0.22,
+        "y": 0.3,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "وتحت الفانوس المطفأ، عند قاعدة الحجر، تابوت صغير.",
+       "t": 46456,
+       "spot": {
+        "x": 0.8,
+        "y": 0.33,
+        "r": 0.06
+       }
+      },
+      {
+       "text": "«ثلاثة من أربعة! ثلاثة فوانيس مضاءة!» صاح لوفي، وهو يمشي معهم ويداه خلف رأسه.",
+       "t": 52297,
+       "spot": {
+        "x": 0.55,
+        "y": 0.5,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فنظر أوسوب إلى الفوانيس الثلاثة وسكت.",
+       "t": 61295,
+       "spot": {
+        "x": 0.8,
+        "y": 0.5,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "وظلّ الطريق يمتدّ بعد الحجر إلى الأفق.",
+       "t": 65381,
+       "spot": {
+        "x": 0.3,
+        "y": 0.15,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فتذكّر لوفي ملك القراصنة الأوّل، وما قاله عن آخر الطريق:",
+       "t": 69182,
+       "spot": {
+        "x": 0.55,
+        "y": 0.45,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "«كنزي؟ إن أردتموه فهو لكم. ابحثوا عنه! لقد تركت كلّ شيء في ذلك المكان!»",
+       "quote": "ون بيس، غول دي روجر",
+       "t": 76106
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0133-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "After coronary artery bypass, average 10-year survival is about 75 percent: A is the answer.",
+       "t": 0,
+       "spot": {
+        "x": 0.7,
+        "y": 0.1,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "Internal mammary artery grafting lowers the late, third rising phase of the hazard of death.",
+       "t": 7526,
+       "spot": {
+        "x": 0.7,
+        "y": 0.55,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "A longer cardiopulmonary bypass time is a procedural risk factor for death, and operating within days of an acute infarction raises the risk.",
+       "t": 13519
+      },
+      {
+       "text": "The number of stenosed vessels affects the risk of death only weakly.",
+       "t": 22818
+      },
+      {
+       "text": "Memory hook: three of the four lanterns are lit on the milestone marked 10.",
+       "t": 27272,
+       "spot": {
+        "x": 0.65,
+        "y": 0.2,
+        "r": 0.2
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0133-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which of the following is true regarding results of coronary artery bypass?",
+     "options": [
+      "Average 1 0-year survival is about 75 percent.",
+      "The third rising phase of hazard of death is not affected by IMA grafting.",
+      "Cardiopulmonary bypass time is not a procedural risk factor for death.",
+      "Risk of death is strongly increased by increasing number of stenosed vessels.",
+      "Coronary artery bypass should ideally be performed within one week of acute myocardial infarction to reduce risk."
+     ],
+     "answer": 0,
+     "explain": "After coronary artery bypass, average 10-year survival is about 75 percent: A is the answer. Internal mammary artery grafting lowers the late, third rising phase of the hazard of death. A longer cardiopulmonary bypass time is a procedural risk factor for death, and operating within days of an acute infarction raises the risk. The number of stenosed vessels affects the risk of death only weakly. Memory hook: three of the four lanterns are lit on the milestone marked 10.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q27.3",
+     "marks": [
+      2,
+      4
+     ],
+     "answerMarks": [
+      1
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0133.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.7,
+      "y": 0.1,
+      "r": 0.14
+     },
+     "what": "Three of four lanterns lit",
+     "means": "About 75% alive (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.6,
+      "y": 0.25,
+      "r": 0.11
+     },
+     "what": "Milestone marked 10",
+     "means": "Ten years after CABG"
+    },
+    {
+     "spot": {
+      "x": 0.8,
+      "y": 0.33,
+      "r": 0.06
+     },
+     "what": "Small coffin under the dark lantern",
+     "means": "About one in four has died"
+    },
+    {
+     "spot": {
+      "x": 0.55,
+      "y": 0.55,
+      "r": 0.14
+     },
+     "what": "Sailors with cabbage leaves on their jackets",
+     "means": "Coronary bypass grafts"
+    },
+    {
+     "spot": {
+      "x": 0.7,
+      "y": 0.55,
+      "r": 0.1
+     },
+     "what": "Bean vines in the leaves",
+     "means": "Mammary grafts lower late deaths"
+    },
+    {
+     "spot": {
+      "x": 0.22,
+      "y": 0.3,
+      "r": 0.1
+     },
+     "what": "Sanji resting on the bench",
+     "means": "The one who stopped before ten years"
+    }
+   ]
+  }
+ ]
+}

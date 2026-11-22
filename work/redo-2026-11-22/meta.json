@@ -1,0 +1,67 @@
+{
+ "shahzad-2015:37": {
+  "title": "Pulmonary artery pressure from the tricuspid jet",
+  "titleAr": "ضغط الشريان الرئوي من نافورة الصمام ثلاثي الشرف",
+  "tags": "cardiac/foundations cardiac/mitral-tricuspid d:diagnosis q:numbers l:2 x:high-yield"
+ },
+ "shahzad-2015:39": {
+  "title": "The balloon pump: supply up, demand down",
+  "titleAr": "مضخّة البالون الأبهري: إمدادٌ يزيد وطلبٌ ينقص",
+  "tags": "cardiac/heart-failure d:physiology q:recall l:3"
+ },
+ "shahzad-2015:44": {
+  "title": "CABG or PCI: the one case where PCI wins",
+  "titleAr": "المجازة أم القسطرة: الحالة الوحيدة التي تفوز فيها القسطرة",
+  "tags": "cardiac/coronary d:evidence d:indications q:recall l:2 x:guideline"
+ },
+ "shahzad-2015:49": {
+  "title": "PARTNER: the new valve holds for the year",
+  "titleAr": "تجربة PARTNER: الصمام الجديد يصمد عامه",
+  "tags": "cardiac/aortic-valve d:evidence q:recall l:3 x:guideline"
+ },
+ "shahzad-2015:54": {
+  "title": "Left dominance: a blocked circumflex takes the lateral wall and the back of the septum",
+  "titleAr": "الهيمنة اليسرى: انسداد المنعطف يُميت الجدار الجانبي وخلف الحاجز",
+  "tags": "cardiac/coronary d:anatomy q:vignette l:2 x:high-yield"
+ },
+ "shahzad-2015:67": {
+  "title": "Hibernating myocardium wakes when the flow returns",
+  "titleAr": "العضلة السُّباتيّة تستيقظ إذا عاد الجريان",
+  "tags": "cardiac/coronary d:physiology d:indications q:recall l:1 x:high-yield"
+ },
+ "shahzad-2015:70": {
+  "title": "After aortic repair: the open false lumen is the bad omen",
+  "titleAr": "بعد إصلاح الأبهر: اللمعة الكاذبة المفتوحة نذير سوء",
+  "tags": "cardiac/aorta d:postoperative d:evidence q:recall l:2"
+ },
+ "shahzad-2015:72": {
+  "title": "dP/dt: how fast the muscle shortens",
+  "titleAr": "dP/dt: سرعة انقباض الألياف",
+  "tags": "cardiac/foundations d:physiology q:recall l:2"
+ },
+ "shahzad-2015:74": {
+  "title": "Years after Fallot repair: the pulmonary valve leaks",
+  "titleAr": "سنوات بعد إصلاح فالو: الصمام الرئوي يُرجِع الدم",
+  "tags": "cardiac/congenital d:complications d:postoperative q:recall l:2 x:key-corrected"
+ },
+ "shahzad-2015:75": {
+  "title": "Bright umbilical vein blood: the lung veins drain below",
+  "titleAr": "دم الوريد السُّرّي أزهى من المعتاد: أوردة الرئة تصبّ في الأسفل",
+  "tags": "cardiac/congenital d:diagnosis d:pathology q:vignette l:3"
+ },
+ "medcosmos-cardiac:22": {
+  "title": "VSD facts: enlarged left atrium, normal pressures with small defects, PVR above 10-12 units forbids repair",
+  "titleAr": "حقائق الفتحة بين البطينين: تضخّم الأذين الأيسر، وضغوط طبيعية مع الفتحات الصغيرة، ومقاومة فوق 10-12 وحدة تمنع الجراحة",
+  "tags": "cardiac/congenital d:physiology q:recall l:3"
+ },
+ "medcosmos-cardiac:67": {
+  "title": "A coronary artery fistula gives a continuous murmur like that of a PDA",
+  "titleAr": "الناسور الشرياني التاجي يُحدث نفخة مستمرّة كنفخة القناة الشريانية",
+  "tags": "cardiac/congenital d:diagnosis q:recall l:2"
+ },
+ "johns-hopkins-2016:84": {
+  "title": "Nonseminomatous germ cell tumours are associated with Klinefelter's syndrome",
+  "titleAr": "أورام الخلايا الجنسية غير المنوية مرتبطة بمتلازمة كلاينفلتر",
+  "tags": "thoracic/mediastinum d:pathology q:recall l:2"
+ }
+}

@@ -1,0 +1,36 @@
+book: medcosmos-cardiac
+# Redo of lessons the owner sent back from the app (2026-11-22). Rules 1-7; prompts first.
+
+== 22
+# big hole as wide as the orca's mouth floods the dollar pipe and swells the red lobby; X-ray shows it = statement B true -> ANSWER
+# tiny pinhole with the gauge resting in the green = statement C true (small VSD, normal pressures)
+# tall stack of wooden blocks, unicorn and whistle, barred door = statement D true (PVR over 10-12 forbids surgery) -> ANSWER
+# tape measure to the orca's mouth = statement A false (compared with the aortic, not the pulmonary, orifice)
+# iceman = Eisenmenger, too late to close
+title: VSD facts: enlarged left atrium, normal pressures with small defects, PVR above 10-12 units forbids repair
+titleAr: حقائق الفتحة بين البطينين: تضخّم الأذين الأيسر، وضغوط طبيعية مع الفتحات الصغيرة، ومقاومة فوق 10-12 وحدة تمنع الجراحة
+tags: cardiac/congenital d:physiology q:recall l:3
+palette: bright noon sky blue, brick red and dollar green
+words: 
+keywords: ventricular septal defect -> a big ragged hole knocked through the thick brick lower party wall, red water rushing through; aortic valve -> the orca balloon's mouth beside the hole, the same width as the big hole; pulmonary blood flow -> a flood of red water rushing up the pipe of green dollar bills; left atrium -> the red atrium lobby upstairs; pulmonary vascular resistance -> a tall stack of wooden blocks inside the pipe of dollar bills; number 10 (Wood units: above ten to twelve forbids the operation) -> painted small on the topmost wooden block: a white unicorn and a golden whistle; Eisenmenger -> an iceman pushing blue blocks of ice back through the big hole from the blue side to the red; pulmonary hypertension -> the pressure gauge on the pipe of dollar bills, resting calmly in the green beside the tiny hole; chest x-ray -> an X-ray film held up to the window, showing the swollen red lobby; restrictive -> a second, tiny pinhole in the wall letting only a trickle through; contraindication to operation -> a red-and-white barrier with a padlock in front of the surgeon's door; size compared -> a tailor's tape measure stretched from the big hole to the orca's mouth; enlarged -> the red lobby swollen round like a giant pumpkin
+anchor: what is true about a VSD -> the big ragged hole in the lower party wall, as wide as the orca's mouth, floods the pipe of dollar bills and swells the red atrium lobby round like a pumpkin, while behind a tall stack of wooden blocks the surgeon's door is barred
+scene: New York City at noon: the HART Hotel stands cut open like a doll's house beside the Hudson, a stag's head over its door, blue wing on the left, red wing on the right. In the centre, in the strongest light: a big ragged hole is knocked through the thick brick lower party wall, as wide as the giant orca balloon's mouth beside it, and a tailor's tape measure is stretched from the hole to the orca's mouth; red water rushes through the hole and floods up a pipe of green dollar bills, and the red atrium lobby upstairs is swollen round like a giant pumpkin, while an X-ray film held up to the window shows it. Further along the wall a tiny pinhole lets only a trickle through, and beside it the pressure gauge on the pipe of dollar bills rests calmly in the green. Inside the pipe of dollar bills a tall stack of wooden blocks rises; in front of the surgeon's door a red-and-white barrier with a padlock bars the way, and an iceman pushes blue blocks of ice back through the big hole from the blue side to the red.
+must: the topmost wooden block shows, painted small side by side, a white unicorn and then a golden whistle
+
+== 67
+# cement mixer roaring nonstop on the hotel roof, fed by the fist from the crown spike into the blue lobby = coronary artery fistula gives a continuous murmur -> ANSWER
+# twin mixer on the duct-tape tunnel = like a PDA
+# sun and moon together = through systole and diastole
+# ear pressed low on the wall = heard lower on the chest
+# cradle = congenital
+# twin boys pointing = similar murmur
+# red water flooding the blue lobby = drains into the right side
+title: A coronary artery fistula gives a continuous murmur like that of a PDA
+titleAr: الناسور الشرياني التاجي يُحدث نفخة مستمرّة كنفخة القناة الشريانية
+tags: cardiac/congenital d:diagnosis q:recall l:2
+palette: dusk violet and orange, the green of copper
+words: 
+keywords: coronary artery fistula -> a giant fist punching straight through from a spike of the Liberty crown into the blue atrium lobby; coronary -> the green Liberty crown above the hotel; continuous murmur -> an orange cement mixer roaring nonstop on the hotel's flat roof; patent ductus arteriosus -> a tunnel of shiny silver duct tape between the orca and the pipe of dollar bills, its own cement mixer roaring on top; aorta -> the giant orca balloon; pulmonary artery -> a pipe of green dollar bills; right atrium -> the blue atrium lobby; systole and diastole -> a sun and a moon hanging together over the roof (the roar never stops, day or night); heard lower on the chest -> an old woman pressing her ear to the hotel wall low down, near the blue lobby; congenital -> a baby's cradle on the roof beside the mixer; similar murmur -> identical twin boys pointing from one mixer to the other; drainage into the right side -> red water flooding the blue lobby's floor
+anchor: which coronary lesion sounds like a PDA -> on the hotel's roof an orange cement mixer roaring nonstop, fed by the giant fist punching from a spike of the Liberty crown into the blue atrium lobby, its twin roaring on top of the silver duct tape tunnel
+scene: New York City at dusk: the HART Hotel stands cut open like a doll's house beside the Hudson, blue wing on the left, red wing on the right, the green Liberty crown above it. In the centre, in the strongest light: on the hotel's flat roof an orange cement mixer roars nonstop under a sun and a moon hanging together in the sky, and a baby's cradle stands beside it; below, a giant fist punches straight through from one spike of the Liberty crown into the blue atrium lobby, and red water floods the blue lobby's floor. To the right, between the giant orca balloon and a pipe of green dollar bills, runs a tunnel of shiny silver duct tape with its own twin orange cement mixer roaring on top. Identical twin boys point from one mixer to the other. An old woman presses her ear to the hotel wall low down, near the blue lobby.
+must: both cement mixers stand on top of the buildings, one on the hotel's roof and one on top of the duct tape tunnel
