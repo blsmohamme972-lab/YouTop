@@ -156,6 +156,14 @@ Each note in the issue body:
 
     ### GOOD <book id>/<chapter id>/<lesson id>
 
+**A lesson sent for a redo is held back on the phone at once** (since 2.8): it leaves the feed, is not rated and
+never comes back for review, until a newer version of the same lesson arrives. The version is the lesson's `rev`
+(`Lesson.rev`), and only `publish.py --redone <book>/<chapter>/<lesson> …` raises it (it refuses a lesson that is
+unchanged or not published). The phone then shows the new lesson in place of the old one, as a new lesson (its
+old progress is forgotten). So: **every REDO must end with a publish that names it in `--redone`**, or the owner
+never sees that lesson again (Settings → Notes for the agent can show held lessons again by hand). Never change the
+lesson's id. `rev` is carried over by publish.py, so rebuilding a chapter never lowers it.
+
 What to do: list open issues whose title starts with `Lesson feedback` (GitHub MCP `list_issues`).
 `symbols` = the recurring symbols (`content/symbols.json`); `english` = the English wording (explanation, question,
 options, title). Redo each REDO with the `youtop-lessons` skill (keep the ids); learn from each GOOD what the owner likes

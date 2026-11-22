@@ -2,6 +2,7 @@ package app.youtop
 
 import app.youtop.data.Feedback
 import app.youtop.data.Note
+import app.youtop.data.info
 import org.junit.Assert.assertEquals
 import org.junit.Assert.assertNull
 import org.junit.Assert.assertTrue
@@ -11,6 +12,25 @@ import java.net.URLDecoder
 class FeedbackTest {
     private fun redo(i: Int, text: String = "fix it") =
         Note(Feedback.REDO, "book/ch01/q$i", "Lesson $i", listOf("picture"), text, "story, sentence 2 of 9", i.toLong())
+
+    @Test
+    fun aHeldLessonComesBackOnlyWithANewerVersion() {
+        fun item(lesson: String, rev: Int) = app.youtop.data.FeedItem(
+            app.youtop.data.BookInfo(id = "b", title = "B"), app.youtop.data.ChapterInfo(id = "c", title = "C", source = "chapter:x"),
+            app.youtop.data.LessonInfo(id = lesson, title = lesson, rev = rev),
+        )
+        val held = mapOf("b/c/one" to 0, "b/c/two" to 1, "b/c/gone" to 0)
+        // "one" was made again; "two" is the same version as when it was reported; "three" was never held.
+        assertEquals(listOf("b/c/one"), Feedback.redone(held, listOf(item("one", 1), item("two", 1), item("three", 5))))
+        assertEquals(emptyList<String>(), Feedback.redone(emptyMap(), listOf(item("one", 9))))
+    }
+
+    @Test
+    fun aLessonWithoutRevIsVersionZero() {
+        val lesson = app.youtop.data.ContentJson.decodeFromString(app.youtop.data.Lesson.serializer(), """{"id":"x","title":"X"}""")
+        assertEquals(0, lesson.rev)
+        assertEquals(3, app.youtop.data.ContentJson.decodeFromString(app.youtop.data.Lesson.serializer(), """{"id":"x","title":"X","rev":3}""").info().rev)
+    }
 
     @Test
     fun nothingWaitingNothingSent() = assertNull(Feedback.issue(emptyList(), "2.6"))

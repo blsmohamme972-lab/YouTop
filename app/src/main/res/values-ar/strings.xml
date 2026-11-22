@@ -265,7 +265,7 @@
     <string name="redo_text">ما الذي يجب أن يتغير؟</string>
     <string name="redo_where">كنت عند: %1$s</string>
     <string name="redo_send">إرسال</string>
-    <string name="redo_hint">يفتح GitHub وملاحظتك مكتوبة فيه. اضغط «Create» هناك وسيراها الوكيل.</string>
+    <string name="redo_hint">يفتح GitHub وملاحظتك مكتوبة فيه. اضغط «Create» هناك وسيراها الوكيل. يخرج الدرس من دراستك ولا يعود إلا بعد إعادته.</string>
     <string name="redo_saved">حُفظت على الهاتف. أرسلها من الإعدادات ← ملاحظات للوكيل.</string>
     <string name="part_picture">الصورة</string>
     <string name="part_spotlight">البقعة المضيئة</string>
@@ -280,6 +280,9 @@
     <string name="part_english">الإنكليزية</string>
     <string name="part_other">شيء آخر</string>
     <string name="where_sentence">%1$s، الجملة %2$d من %3$d</string>
+    <string name="redo_held">%1$d درس(دروس) موقوفة حتى تُعاد. يعود كل منها وحده، كدرس جديد، عند وصول نسخته الجديدة.</string>
+    <string name="redo_bring_back">أظهرها الآن كما هي</string>
+    <string name="notes_hint">يفتح GitHub وملاحظاتك مكتوبة فيه. اضغط «Create» هناك وسيراها الوكيل.</string>
     <string name="section_notes">ملاحظات للوكيل</string>
     <string name="notes_waiting">%1$d بانتظار الإرسال (أحسنت وإعادة).</string>
     <string name="notes_none">لا شيء بانتظار الإرسال. استخدم «أحسنت» و«إعادة» في الدرس.</string>

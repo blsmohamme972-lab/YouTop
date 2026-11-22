@@ -185,6 +185,7 @@ fun SettingsTab(vm: MainViewModel) {
 private fun NotesCard(vm: MainViewModel) {
     val settings by vm.settings.collectAsStateWithLifecycle()
     val waiting = settings.notes.size
+    val held = settings.redo.size
     val context = LocalContext.current
     Card(title = stringResource(R.string.section_notes)) {
         Text(
@@ -192,10 +193,14 @@ private fun NotesCard(vm: MainViewModel) {
             color = Faint, fontSize = 13.sp, lineHeight = 18.sp,
         )
         if (waiting > 0) {
-            Text(stringResource(R.string.redo_hint), color = Faint, fontSize = 12.sp, lineHeight = 17.sp)
+            Text(stringResource(R.string.notes_hint), color = Faint, fontSize = 12.sp, lineHeight = 17.sp)
             PrimaryButton(stringResource(R.string.notes_send), modifier = Modifier.fillMaxWidth()) {
                 vm.sendNotes { openLink(context, it) }
             }
+        }
+        if (held > 0) {
+            Text(stringResource(R.string.redo_held, held), color = Faint, fontSize = 13.sp, lineHeight = 18.sp)
+            TextButton(onClick = { vm.bringBackRedo() }) { Text(stringResource(R.string.redo_bring_back), color = Accent) }
         }
     }
 }

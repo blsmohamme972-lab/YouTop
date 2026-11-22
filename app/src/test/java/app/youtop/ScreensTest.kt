@@ -52,6 +52,8 @@ class ScreensTest {
     @After
     fun forgetEverything() {
         runBlocking { rule.activity.viewModel().restoreBackup(Backup.encode(Backup(study = StudySettings()))) }
+        rule.runOnUiThread { rule.activity.viewModel().bringBackRedo() }
+        settle { rule.activity.viewModel().settings.value.redo.isEmpty() }
     }
 
     private fun shot(name: String) {
@@ -136,8 +138,15 @@ class ScreensTest {
         text("Story (Arabic)").performClick()
         rule.onNode(hasSetTextAction()).performTextInput("The bullets should come from the left.")
         shot("14b-redo")
+        val key = rule.activity.viewModel().queue.first().item.key
         text("Submit").performClick()
         settle { rule.activity.viewModel().settings.value.notes.isEmpty() }
+        // The reported lesson is held back: in the settings, and nowhere ahead in the feed.
+        settle { key in rule.activity.viewModel().settings.value.redo }
+        assert(rule.activity.viewModel().queue.drop(1).none { it.item.key == key })
+        // The feed moved on by itself: the next lesson is on screen, so one more was planned after it.
+        settle { rule.activity.viewModel().queue.size >= 3 }
+        shot("14c-after-redo")
         val opened = org.robolectric.Shadows.shadowOf(rule.activity).nextStartedActivity
         val url = java.net.URLDecoder.decode(opened.dataString, "UTF-8")
         assert(url.startsWith("https://github.com/blsmohamme972-lab/YouTop/issues/new?")) { url }

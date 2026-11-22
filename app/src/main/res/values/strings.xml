@@ -226,7 +226,7 @@
     <string name="redo_text">What should change?</string>
     <string name="redo_where">You were at: %1$s</string>
     <string name="redo_send">Submit</string>
-    <string name="redo_hint">GitHub opens with your note written in. Press “Create” there and the agent will see it.</string>
+    <string name="redo_hint">GitHub opens with your note written in. Press “Create” there and the agent will see it. The lesson is taken out of your study and comes back only when it is redone.</string>
     <string name="redo_saved">Kept on the phone. Send it from Settings → Notes for the agent.</string>
     <string name="part_picture">Picture</string>
     <string name="part_spotlight">Spotlight</string>
@@ -241,6 +241,9 @@
     <string name="part_english">English</string>
     <string name="part_other">Something else</string>
     <string name="where_sentence">%1$s, sentence %2$d of %3$d</string>
+    <string name="redo_held">%1$d lesson(s) held back until they are redone. Each comes back by itself, as a new lesson, when its new version arrives.</string>
+    <string name="redo_bring_back">Show them again now, as they are</string>
+    <string name="notes_hint">GitHub opens with your notes written in. Press “Create” there and the agent will see them.</string>
     <string name="section_notes">Notes for the agent</string>
     <string name="notes_waiting">%1$d waiting to be sent (Good job and Redo).</string>
     <string name="notes_none">Nothing waiting. Use Good job and Redo on a lesson.</string>

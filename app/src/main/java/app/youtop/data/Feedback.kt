@@ -37,12 +37,19 @@ object Feedback {
     /** Long enough for many notes, short enough for every phone browser and for GitHub. */
     private const val MAX_URL = 7000
 
+    /** The lessons held for a redo ([held]: key to the version reported) whose newer version is in [lessons]. */
+    fun redone(held: Map<String, Int>, lessons: List<FeedItem>): List<String> =
+        lessons.filter { item -> held[item.key]?.let { item.lesson.rev > it } == true }.map { it.key }
+
     /** Adds [note]; a newer note of the same kind on the same lesson replaces the older one. */
     fun add(pending: List<Note>, note: Note): List<Note> =
         pending.filterNot { it.key == note.key && it.kind == note.kind } + note
 
     fun body(notes: List<Note>, version: String): String = buildString {
         append("Sent from the YouTop app ").append(version).append(". For the agent: CLAUDE.md, \"Lesson feedback from the app\".\n")
+        if (notes.any { it.kind == REDO }) {
+            append("Each REDO lesson is held back on the phone until it is republished with `publish.py --redone <key>`.\n")
+        }
         notes.sortedBy { if (it.kind == REDO) 0 else 1 }.forEach { n ->
             append("\n### ").append(if (n.kind == REDO) "REDO" else "GOOD").append(' ').append(n.key).append('\n')
             if (n.title.isNotBlank()) append("Title: ").append(n.title.oneLine()).append('\n')

@@ -180,6 +180,9 @@ fun FeedScreen(vm: MainViewModel, onOpenLibrary: (LibraryTab?) -> Unit) {
     LaunchedEffect(pagerState) {
         vm.jumps.collect { index ->
             snapshotFlow { queue.size }.first { it > index }
+            // Wait until the pager has laid the page out too (a lesson let through a moment ago, as
+            // after a Redo, is not one of its pages before its next layout).
+            repeat(2) { androidx.compose.runtime.withFrameNanos { } }
             pagerState.animateScrollToPage(index)
         }
     }
@@ -710,14 +713,11 @@ private fun LessonPage(entry: FeedEntry, active: Boolean, vm: MainViewModel, onN
             title = lesson.title,
             where = where,
             onSubmit = { parts, text ->
-                vm.addNote(app.youtop.data.Note(app.youtop.data.Feedback.REDO, item.key, lesson.title, parts, text, where, System.currentTimeMillis()))
                 showRedo = false
-                // The note is written first, then GitHub opens with it (and any "good job" waiting).
-                scope.launch {
-                    vm.settings.first { s -> s.notes.any { it.key == item.key && it.kind == app.youtop.data.Feedback.REDO } }
-                    if (!vm.sendNotes { openLink(context, it) }) {
-                        android.widget.Toast.makeText(context, keptText, android.widget.Toast.LENGTH_LONG).show()
-                    }
+                val note = app.youtop.data.Note(app.youtop.data.Feedback.REDO, item.key, lesson.title, parts, text, where, System.currentTimeMillis())
+                // The lesson leaves the feed now and comes back only when it has been made again.
+                if (!vm.submitRedo(entry, note) { openLink(context, it) }) {
+                    android.widget.Toast.makeText(context, keptText, android.widget.Toast.LENGTH_LONG).show()
                 }
             },
             onDismiss = { showRedo = false },
