@@ -276,6 +276,8 @@
     <string name="part_question">السؤال</string>
     <string name="part_answer">الإجابة</string>
     <string name="part_tags">الموضوع / الوسوم</string>
+    <string name="part_symbols">الرموز المتكررة</string>
+    <string name="part_english">الإنكليزية</string>
     <string name="part_other">شيء آخر</string>
     <string name="where_sentence">%1$s، الجملة %2$d من %3$d</string>
     <string name="section_notes">ملاحظات للوكيل</string>

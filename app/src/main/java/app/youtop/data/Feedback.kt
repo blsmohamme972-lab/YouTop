@@ -29,7 +29,7 @@ object Feedback {
     const val REDO = "redo"
 
     /** The parts of a lesson the owner can mark wrong. The codes are what the agent reads; keep them stable. */
-    val Parts = listOf("picture", "spotlight", "circles", "story", "voice", "explanation", "question", "answer", "tags", "other")
+    val Parts = listOf("picture", "spotlight", "circles", "story", "voice", "explanation", "question", "answer", "tags", "symbols", "english", "other")
 
     const val REPO = "https://github.com/blsmohamme972-lab/YouTop"
     const val TITLE_PREFIX = "Lesson feedback"
