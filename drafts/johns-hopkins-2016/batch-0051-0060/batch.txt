@@ -109,7 +109,7 @@ titleAr: أكثر من نصف المزروعة لهم رئة أحياء بعد 5
 tags: thoracic/transplant d:evidence q:numbers l:2
 palette: dawn gold, milestone stone grey and lantern light
 words: 5
-keywords: the recipient of new lungs (lung transplant, drawn before the transplant symbol existed) -> a sailor carrying a fresh sack of green dollar bills along a road; five years -> a stone milestone painted 5; survival over 50 percent -> a balance beside it whose side with a lit lantern outweighs the side with a coffin; ventilator before transplant -> a second sailor still tied to a breathing bellows, lagging far behind
+keywords: the recipient of new lungs (lung transplant, drawn before the transplant symbol existed) -> a sailor carrying a fresh sack of green dollar bills along a road; five years -> a stone milestone painted 5; survival over 50 percent -> a balance beside it whose side with a lit lantern outweighs the side with a coffin; ventilator before transplant -> a second sailor still tied to a breathing bellows, lagging far behind; mortality -> the small coffin in the balance's high, light pan
 must: the LANTERN side of the balance is LOWER (heavier) than the coffin side
 scene: A road through the green hills of a Grand Line island at dawn. CENTRE, dominant and brightest: a sailor carrying a fresh sack of green dollar bills on his back strides past a stone milestone painted 5, and beside the milestone stands a big balance: the pan holding a brightly lit lantern hangs low and heavy, the pan holding a small coffin rides high. FAR BEHIND on the road, a second sailor still tied to a big breathing bellows trudges slowly, lagging.
 story:
@@ -272,7 +272,7 @@ titleAr: ألم صدري مع الأكل وتنظير طبيعي: الخطوة �
 tags: thoracic/oesophagus d:diagnosis q:next-step l:2
 palette: litmus red and blue, clock brass and evening violet
 words: 24
-keywords: chest pain with eating -> a young man at the dinner table wincing and holding his chest; normal endoscopy -> a lantern on a periscope looking down a long pink sofa slide and finding nothing; 24-hour pH monitoring -> a thin litmus strip hanging down the sofa slide on a string from a big clock painted 24, turning red each time acid soup splashes up
+keywords: chest pain with eating -> a young man at the dinner table wincing and holding his chest; normal endoscopy -> a lantern on a periscope looking down a long pink sofa slide and finding nothing; 24-hour pH monitoring -> a thin litmus strip hanging down the sofa slide on a string from a big clock painted 24, turning red each time acid soup splashes up; oesophagus -> a long pink sofa stretched into a slide, running down into a copper cooking pot; acid reflux -> green acid soup splashing up inside the sofa slide
 must: the clock reads 24; the strip turns RED where acid splashes
 scene: The dining room of the Thousand Sunny in the evening. LEFT: a young man of twenty at the dinner table winces and holds his chest, his fork in the air. Behind him a long pink sofa stretched into a slide runs down into a copper cooking pot, and a lantern on a periscope at the top finds nothing wrong. CENTRE, dominant and brightest: a big brass clock painted 24 hangs on the wall, and from it a thin litmus strip on a string runs down inside the slide, turning bright red at each place where green acid soup splashes up. Nami, the orange-haired navigator, writes the times in a notebook.
 story:

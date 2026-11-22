@@ -36,14 +36,15 @@ The effect of puberty on the shape of the chest wall is unpredictable, so the st
 # book 19.2: pectus excavatum -> C, up to two-thirds of children with Marfan's syndrome have it.
 # a very tall, long-limbed, long-fingered young man fanning himself with a huge fan -> Marfan's syndrome (keyword: MAR-FAN -> a big FAN)
 # ANSWER: a yellow excavator digging a hollow in the front of his treasure chest, a sign painted 2 and 3 as a fraction above -> two-thirds of Marfan children have pectus excavatum
+# a small orca balloon tied to his wrist, its base bulging with swollen bowls of red salsa -> in Marfan's syndrome the aortic root widens, and it is checked before any repair of the chest (aorta, aortic root, audited)
 title: Up to two-thirds of children with Marfan's syndrome have pectus excavatum
 titleAr: ما يصل إلى ثلثي الأطفال المصابين بمتلازمة مارفان لديهم صدر مقعّر
 tags: thoracic/chest-wall d:pathology q:numbers l:2
 palette: fan crimson, excavator yellow and sky blue
 words: 2, 3
-keywords: Marfan's syndrome -> a very tall, long-limbed, long-fingered young man fanning himself with a huge crimson fan (MAR-FAN = fan); pectus excavatum -> a yellow excavator digging a hollow in the front of the treasure chest he wears; two-thirds -> a sign above him painted 2 over 3 as a fraction
+keywords: Marfan's syndrome -> a very tall, long-limbed, long-fingered young man fanning himself with a huge crimson fan (MAR-FAN = fan); pectus excavatum -> a yellow excavator digging a hollow in the front of the treasure chest he wears; two-thirds -> a sign above him painted 2 over 3 as a fraction; aortic root (the danger of Marfan's syndrome) -> a small orca balloon tied to his wrist, its base bulging with three swollen bowls of red salsa
 must: the fraction reads 2 over 3; the man is extremely TALL and long-fingered
-scene: A sunny harbour. CENTRE, dominant and brightest: a very tall, thin young man with very long arms and long spider-like fingers fans himself with a huge crimson fan; against his front he wears a treasure chest in which a small yellow excavator digs a deep hollow. Above him hangs a wooden sign painted 2 over 3 as a fraction. Luffy, the boy in the straw hat, stretches his own rubber arm to compare lengths, laughing.
+scene: A sunny harbour. CENTRE, dominant and brightest: a very tall, thin young man with very long arms and long spider-like fingers fans himself with a huge crimson fan; against his front he wears a treasure chest in which a small yellow excavator digs a deep hollow. Above him hangs a wooden sign painted 2 over 3 as a fraction. A small orca balloon tied to his wrist bobs beside him, its base bulging with three swollen bowls of red salsa. Luffy, the boy in the straw hat, stretches his own rubber arm to compare lengths, laughing.
 story:
 في ميناء مشمس، وقف شابّ طويل نحيل جدًّا، ذراعاه طويلتان وأصابعه كأرجل العنكبوت.
 وكان يروّح عن نفسه بمروحة قرمزيّة هائلة.
@@ -60,6 +61,7 @@ source: مونكي دي لوفي
 explanation:
 Pectus excavatum is linked with connective tissue disorders.
 Up to two-thirds of children with Marfan's syndrome have pectus excavatum: C is the answer.
+In Marfan's syndrome the aortic root also widens, and it is checked before any repair of the chest.
 It also occurs in Ehlers-Danlos syndrome, and it is not associated with trisomy 18.
 Patients with connective tissue disorders have a higher risk of recurrence after repair.
 
@@ -228,16 +230,16 @@ In hospital, most pneumothoraces come from procedures such as central line inser
 == 98
 # book 20.3: NOT an indication for surgery in pneumothorax -> E, a large air leak.
 # ANSWER: a loud big jet of air hissing from a sailor's chest hose, while Zoro slides his sword back into its sheath and Chopper waits with an hourglass -> a large air leak alone is not an indication: time decides
-# a sack that keeps collapsing again and again -> recurrent pneumothorax IS an indication
+# a clear beach ball of air swelling again and again, squashing a sack of dollar bills flat each time -> recurrent pneumothorax IS an indication (pneumothorax = beach ball, audited)
 # two sacks collapsed at once on both sides -> bilateral pneumothorax IS an indication
 # a hose still hissing when the hourglass has run out many times -> a PERSISTENT air leak IS an indication
 title: A large air leak alone is not an indication for surgery in pneumothorax
 titleAr: تسرّب الهواء الكبير وحده ليس استطبابًا للجراحة في استرواح الصدر
 tags: thoracic/pleura d:indications q:recall l:2 x:trap
 palette: air-jet white, hourglass sand and calm teal
-keywords: large air leak -> a loud big jet of air hissing from a sailor's chest hose; not an indication -> Zoro sliding his sword back into its sheath while Chopper waits with a full hourglass; a lung collapsing again and again (recurrent pneumothorax, drawn before the pneumothorax symbol existed) -> a sack of green dollar bills that keeps collapsing again and again; persistent air leak -> a hose still hissing beside a pile of empty hourglasses
+keywords: large air leak from a chest tube -> a loud big jet of air hissing from the garden hose in a sailor's side; not an indication -> Zoro sliding his sword back into its sheath while Chopper waits with a full hourglass; recurrent pneumothorax -> a clear beach ball of air swelling up again and again in a third sailor's chest, squashing his sack of green dollar bills flat each time; persistent air leak -> a hose still hissing beside a pile of empty hourglasses; lung -> the third sailor's sack of green dollar bills
 must: at the BIG jet Zoro SHEATHES his sword; the persistent leak sits by a pile of EMPTY hourglasses
-scene: The infirmary of the Thousand Sunny, teal light. CENTRE, dominant and brightest: a big loud jet of air hisses from a garden hose in a sailor's side, and Roronoa Zoro slides his sword back into its sheath while Tony Tony Chopper, the little reindeer doctor, waits calmly, holding up a full hourglass. RIGHT: another sailor's hose still hisses beside a pile of empty hourglasses, and a third sailor's sack of dollar bills keeps collapsing again and again.
+scene: The infirmary of the Thousand Sunny, teal light. CENTRE, dominant and brightest: a big loud jet of air hisses from a garden hose in a sailor's side, and Roronoa Zoro slides his sword back into its sheath while Tony Tony Chopper, the little reindeer doctor, waits calmly, holding up a full hourglass. RIGHT: another sailor's hose still hisses beside a pile of empty hourglasses, and in a third sailor's chest a clear beach ball of air swells up again and again, squashing his sack of dollar bills flat each time.
 story:
 في مستوصف الثاوزند صني، تحت ضوء فيروزيّ، صفر من جنب بحّار خرطوم حديقة.
 وكانت نفثة الهواء منه كبيرةً عالية الصوت.
@@ -267,7 +269,7 @@ titleAr: نحو 5 إلى 10 بالمئة من الانصبابات المراف�
 tags: thoracic/pleura d:pathology q:numbers l:2
 palette: clear water blue, pus yellow and dollar green
 words: 10
-keywords: parapneumonic effusions -> a row of sacks of green dollar bills, each standing in a puddle of clear water; empyema in 5 to 10 percent -> only ONE puddle in the row turned into thick yellow pus, a sign painted 10 above the row; drainage -> Chopper draining that one puddle with a hose
+keywords: parapneumonic effusions -> a row of sacks of green dollar bills, each standing in a puddle of clear water; empyema in 5 to 10 percent -> only ONE puddle in the row turned into thick yellow pus, a sign painted 10 above the row; chest drain -> Chopper draining that one puddle into a bucket with a garden hose
 must: only ONE puddle is yellow pus; all the others are clear water
 scene: The lower deck of a ship after rain. A row of sacks of green dollar bills stand side by side, each in a puddle of clear blue water, under a wooden sign painted 10. CENTRE, dominant and brightest: one puddle in the row has turned into thick yellow pus, and Tony Tony Chopper, the little reindeer doctor, drains it into a bucket with a garden hose, wrinkling his nose. The other puddles stay clear.
 story:

@@ -103,14 +103,15 @@ Feeding difficulties are frequent, and recurrence of the fistula has become less
 # a small twin sofa bud, closed like a balloon, attached to the side of the main sofa slide -> an oesophageal duplication cyst (keyword: DUPLICATION -> a twin)
 # ANSWER: Sanji's round cake of mediastinal cysts cut into 10 slices, ONE slice topped with the little twin sofa -> about 5 to 10 percent of mediastinal cysts
 # the twin bud has its own little muscle stripes and no opening into the slide -> lined with gut lining, a muscle coat, rarely communicating
+# the other slices topped with tiny ribbed hoses and little glass aquariums -> the commonest mediastinal cysts are bronchogenic and pericardial (trachea, pericardium, audited)
 title: Oesophageal duplication cysts are 5 to 10 percent of mediastinal cysts
 titleAr: كيسات تضاعف المريء تشكّل 5 إلى 10 بالمئة من كيسات المنصف
 tags: thoracic/oesophagus d:pathology q:numbers l:3
 palette: cake cream, sofa pink and frosting blue
 words: 10
-keywords: oesophageal duplication cyst -> a small closed twin sofa bud, like a balloon, attached to the side of the main long pink sofa slide; 5 to 10 percent of mediastinal cysts -> Sanji's round cake cut into 10 slices, only ONE slice topped with a tiny model of the twin sofa, a knife painted 10 beside it
+keywords: oesophageal duplication cyst -> a small closed twin sofa bud, like a balloon, attached to the side of the main long pink sofa slide; 5 to 10 percent of mediastinal cysts -> Sanji's round cake cut into 10 slices, only ONE slice topped with a tiny model of the twin sofa, a knife painted 10 beside it; bronchogenic cysts, budded from the trachea -> tiny models of white ribbed hoses on most of the other slices of the cake; pericardial cysts -> tiny models of little glass aquariums on the other slices
 must: only ONE slice carries the tiny twin sofa; the twin bud has NO opening into the main slide
-scene: The galley of the Thousand Sunny, cream and blue. LEFT: a long pink sofa slide runs down, and on its side hangs a small closed twin sofa bud like a balloon, with no opening into the slide. CENTRE, dominant and brightest: Sanji, the blond cook, presents a round cream cake cut into equal slices; only one slice is topped with a tiny sugar model of the twin sofa, and a big cake knife painted 10 lies beside it. Luffy, the boy in the straw hat, reaches for that slice with a grin.
+scene: The galley of the Thousand Sunny, cream and blue. LEFT: a long pink sofa slide runs down, and on its side hangs a small closed twin sofa bud like a balloon, with no opening into the slide. CENTRE, dominant and brightest: Sanji, the blond cook, presents a round cream cake cut into ten equal slices; most slices carry tiny models of white ribbed hoses or of little glass aquariums, and only one slice is topped with a tiny sugar model of the twin sofa, and a big cake knife painted 10 lies beside it. Luffy, the boy in the straw hat, reaches for that slice with a grin.
 story:
 في مطبخ الثاوزند صني، بين الكريمة والسّكّر الأزرق، نزل منزلق طويل من أريكة ورديّة.
 وعلى جنبه برعم صغير مغلق كالبالون، أريكة توأم صغيرة.
@@ -127,6 +128,7 @@ source: مونكي دي لوفي
 explanation:
 Oesophageal duplication cysts arise from abnormal budding of the foregut early in development.
 They make up about 5 to 10 percent of mediastinal cysts: B is the answer.
+The commonest mediastinal cysts are bronchogenic and pericardial cysts.
 They are lined with gastrointestinal epithelium and have a smooth muscle coat, and they rarely communicate with the oesophageal lumen.
 They are not considered premalignant, though they are usually removed.
 
@@ -136,14 +138,14 @@ They are not considered premalignant, though they are usually removed.
 # the small twin sofa bud on the side of the slide -> a duplication cyst
 # ANSWER: the owner, Brook the skeleton musician, dancing and playing his violin happily, feeling nothing -> most patients have no symptoms
 # a cat slicing a loaf that shows the twin bud by chance -> found incidentally on CT (audited symbol)
-# a needle put away by Chopper -> the cyst should not be aspirated (E is wrong)
+# a lantern periscope with a long needle at its tip, folded away by Chopper -> the cyst should not be aspirated, not even through an endoscope (E is wrong; endoscopy = periscope, audited)
 title: Most patients with an oesophageal duplication cyst have no symptoms
 titleAr: معظم مرضى كيسة تضاعف المريء بلا أعراض
 tags: thoracic/oesophagus d:diagnosis q:recall l:2
 palette: violin brown, moonlit blue and sofa pink
-keywords: oesophageal duplication cyst -> a small closed twin sofa bud attached to a long pink sofa slide; asymptomatic -> Brook the skeleton musician dancing and playing his violin happily, feeling nothing; found incidentally on CT -> a cat slicing a loaf whose thin slices show the twin bud by chance; aspiration not advised -> Chopper putting a long needle back into his bag
+keywords: oesophageal duplication cyst -> a small closed twin sofa bud attached to a long pink sofa slide; asymptomatic -> Brook the skeleton musician dancing and playing his violin happily, feeling nothing; found incidentally on CT -> a cat slicing a loaf whose thin slices show the twin bud by chance; needle aspiration through endoscopy not advised -> Chopper folding away a lantern periscope with a long needle at its tip and putting it back into his bag
 must: Brook is HAPPY and dancing; the cat's slices show the twin bud
-scene: The moonlit deck of the Thousand Sunny. CENTRE, dominant and brightest: Brook, the tall skeleton musician with an afro and a top hat, dances and plays his violin happily; a long pink sofa slide runs through his ribcage, with a small closed twin sofa bud on its side, and he feels nothing at all. RIGHT: on a barrel, a grey cat slices a loaf into thin slices, and one slice shows the little twin bud by chance; Tony Tony Chopper, the little reindeer doctor, looks at it and puts a long needle back into his bag.
+scene: The moonlit deck of the Thousand Sunny. CENTRE, dominant and brightest: Brook, the tall skeleton musician with an afro and a top hat, dances and plays his violin happily; a long pink sofa slide runs through his ribcage, with a small closed twin sofa bud on its side, and he feels nothing at all. RIGHT: on a barrel, a grey cat slices a loaf into thin slices, and one slice shows the little twin bud by chance; Tony Tony Chopper, the little reindeer doctor, looks at it and folds away a lantern periscope with a long needle at its tip, putting it back into his bag.
 story:
 في ليلة مقمرة على سطح الثاوزند صني، رقص بروك، الموسيقيّ الهيكل العظميّ، وهو يعزف على كمانه فرحًا.
 وكان منزلق ورديّ يمرّ بين أضلاعه، وعلى جنبه برعم توأم صغير مغلق.
@@ -161,7 +163,7 @@ explanation:
 Most patients with an oesophageal duplication cyst have no symptoms, and the cyst is found by chance on imaging: A is the answer.
 When symptoms occur they come from compression, bleeding or infection.
 The cysts lie most often in the right lower posterior mediastinum.
-They should not be aspirated: aspiration risks infection and does not treat them; symptomatic cysts are excised.
+They should not be aspirated, not even under endoscopic ultrasound: aspiration risks infection and does not treat them; symptomatic cysts are excised.
 
 
 == 66
