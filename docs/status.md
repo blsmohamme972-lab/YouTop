@@ -20,6 +20,28 @@ wrong, write what should change). They reach the agent as GitHub issues titled `
 the start of every session** (CLAUDE.md, "Lesson feedback from the app"). Not tested on a real phone; the owner must be
 signed in to GitHub in the phone's browser for "Create" to work.
 
+## REDO NOTES FROM THE APP (2026-11-22, evening): 13 lessons, new prompts handed over; start here
+
+Open issues #111, #113, #115, #117-#125, #127, #128, #130 (15 notes, 13 lessons; #117 = #119 and #113 = #118):
+MedCosmos 22, 67; Shahzad 37, 39, 44, 49, 54, 67, 70, 72, 74, 75; Johns Hopkins 84. The owner marked almost
+everything wrong ("scene is bad", "all", "TOF bad symbols, make a strong new one", "new idea for the picture's
+characters", MC 67 "the mixers are better on top of the building", JH 84 "picture"). All are held back on the phone.
+- **Done: new picture prompts under rules 1-7**, handed to the owner on 2026-11-22: `drafts/redo-2026-11-22/`
+  (`image-prompts-redo-2026-11-22.json` and the three batch files with the table of elements in `#` lines). Every
+  lesson: an anchor, 12-14 symbols, 4-8 recurring, 5-7 one-off (`symbols.py check`: 0 problems). The batch files
+  also live in `.content-work/work/redo-2026-11-22/` (not on GitHub; copy from drafts).
+- **Recurring symbols, under the owner's permission to edit:** tetralogy of Fallot is now a RAFT of four LOGS
+  tipping over a WATERFALL, a blue-lipped boy squatting on it (طوف = TOF; tetra-LOG-y; FALL-ot), replacing the
+  Tetris piece the owner called weak ("tetris" kept as an anchor); new **Klinefelter**: a very tall climber in a
+  FELT hat with two crossed ice axes and a Y-shaped staff (KLINE-FELT-er; XXY).
+- **Next, while the owner draws:** for each lesson write the story (`voice.txt`, to the new scene, numbers said by
+  their symbols' names), the quotation, and the explanation (keep the published one unless the note says
+  otherwise); `voice.py fill`, `batch.py build` (needs the masters; Shahzad's are listed in its json), `voice.py
+  make`. **When the pictures arrive:** `batch.py pictures <book> <folder> --replace c` for MedCosmos 22, 67 and JH 84
+  (they already have `-b` pictures) and `--replace b` for the Shahzad ones, spots, marks, then publish **with
+  `--redone <book>/<chapter>/<lesson>` for each one** (or the phone never shows them again), comment on each issue
+  with the footer and close it.
+
 ## STORY STYLE OF THE QURAN: CANCELLED (2026-11-22, evening)
 
 The owner asked for the Arabic stories to be written in the linguistic styles of the Quran's parables (PR #132), then
