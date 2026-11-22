@@ -1,0 +1,23 @@
+{
+ "file": "jh-q0271-explanation-en.m4a",
+ "sig": "d8166554b769f7aa7d396b787ea798da2fe009fc6bba2f2024ee904274dee56e",
+ "starts": [
+  0,
+  5295,
+  14904,
+  22912,
+  30118,
+  39669,
+  45266
+ ],
+ "seconds": 48.7,
+ "texts": [
+  "The maximum amount of whole body radiation dose per year is 5 rems: D.",
+  "This is the occupational limit for staff, 50 mSv; in the picture, five glowing rams (REMs) pass the gate each year and the sixth is stopped.",
+  "Cancer is a stochastic effect with no threshold: the risk rises with any dose, which is why every flash counts.",
+  "Exposure falls with the square of the distance, so standing twice as far gives a quarter of the dose, not half.",
+  "Pregnant staff may keep working with a lead apron and a second badge at the waist; the limit for the fetus is 0.5 rem over the whole pregnancy.",
+  "The lifetime limit is about 1 rem times the age in years, not 100 rems.",
+  "Memory hook: five rams a year through the gate."
+ ]
+}
