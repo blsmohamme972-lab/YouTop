@@ -40,9 +40,8 @@ a lesson with fewer; `batch.py build` only warns, so lessons already drawn can s
   - **20 keep their picture; only the prompt text names its symbols:** 54, 59, 76, 80, 81, 99, 103, 105, 110, 114, 121,
     124, 131, 136, 137, 138, 142, 144, 149, 150 (and MedCosmos 128). 14, 108, 111, 125, 134, 140 only had a keyword term
     renamed (prompt unchanged).
-  - Stories: 112 and 120 were changed to match (`voice.txt` + `voice.py fill`; 112 no longer says "clot"). The other new
-    objects are not in the stories yet (optional: one sentence each; none of these lessons is recorded or published, so
-    it costs nothing but the writing). Explanations got a matching sentence where a new fact came in: 64, 65, 92, 112
+  - Stories: 112 and 120 were changed to match (`voice.txt` + `voice.py fill`; 112 no longer says "clot"). **Since the
+    evening of 2026-11-22 every other new object is named in its story too** (see the top). Explanations got a matching sentence where a new fact came in: 64, 65, 92, 112
     (memory hook), 113, 115, 118. Tables (`#` lines) updated for every change.
   - Checks: `symbols.py check` passes on every unpictured lesson; prompts regenerated with `batch.py prompts` (consecutive
     groups; validate.py OK); the 20 untouched prompts came out byte-for-byte as before; a dry `batch.py build` of every
@@ -89,8 +88,15 @@ so record each lesson only when its picture arrives, just before publishing.
 check counts the lessons already built in the folder), `voice.py make` + `voice.py check` for the lessons being
 published (audio made in earlier containers is gone; every unpublished lesson is recorded again), spots, marks, look at
 every drawing, publish `--complete-only`; the 40 redone ones with `--replace b`. Rebuilding also mends the NUL signs
-still in published 11, 127, 163, 237, 238. Optional: one Arabic sentence in the stories for objects added to unrecorded
-pictures (list above). The JH master: Drive id `1JmU8REE6sMtOSk6Ty664l8Q9__jtRogW`, save outside the repo.
+still in published 11, 127, 163, 237, 238.
+
+**DONE (evening): the stories now name the objects added to unrecorded pictures.** A phrase or one sentence each (no
+medical explanation, only what is seen), in `voice.txt` + `voice.py fill`, for 23, 31, 36, 64, 65, 90, 92, 98, 101,
+104, 107 (the floor is now "like a slack trampoline", as in the picture), 109, 113, 115-119, 122, 123, 127, 130, 133,
+135, 139, 146, 169, 195, 198, 200, 202, 209, 215, 218, 219, 227, 230, 242, 247, 249, 251, 257, 261, 262, 264, 271, 276,
+277, 284, 285, 289, 345, 372, 392, 411, 417 (199, 248 and 254 already named theirs). Twelve lead-ins that repeated the
+line before them were reworded: 251, 295, 314, 320 (now names Tarafa), 339, 345, 362, 368, 410, 416, 418, 421. Only
+these lessons changed (no published lesson); a dry build of all 43 batches, in order, passed. The JH master: Drive id `1JmU8REE6sMtOSk6Ty664l8Q9__jtRogW`, save outside the repo.
 The `content` branch's work copies of the JH batches are older than `drafts/`: always rebuild from `drafts/`.
 
 ## HANDOFF (2026-11-21, ~13:15 UTC): the owner closed this conversation; start here

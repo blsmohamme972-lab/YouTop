@@ -58,6 +58,7 @@ story:
 فأشار تشوبر إلى الثلج المتساقط، وإلى الشمس الطالعة، وإلى الشابّين يسبقان العجوز.
 «رجلان مقابل امرأة واحدة، والرّجال يأتون أصغر سنًّا؛ في الشتاء وفي الصباح!» قال تشوبر.
 فأطرق أوسوب خجلًا، والعجوز تصل أخيرًا إلى الباب تلهث.
+وعند باب العيادة، كانت إبرة مقياس الضغط الكبير قد مالت إلى الأحمر.
 أمّا زورو، فكان يضغط على صدره بيده، والألم يمتدّ إلى ظهره.
 ثمّ جلس فجأةً في الثلج، وقال ما قاله يومًا بعد أن نزف دمًا كثيرًا في أورانج تاون:
 quote: «أشعر بدوار خفيف...»
@@ -272,6 +273,7 @@ must: the two pans of the balance are perfectly level
 scene: The tangerine grove on the deck of the Thousand Sunny. CENTRE, dominant and brightest: Nami, the orange-haired navigator, holding up a two-pan balance whose pans are perfectly level; in one pan a small orca balloon with a pink bubble-gum bubble on its back, lined inside by a sleeve, a coiled metal Slinky wrapped in white fabric, with a big price tag and only two small candles beside it; in the other a small orca balloon whose bubble-gum bubble is cut out and replaced by a long straight white fabric tube with a small price tag, a long row of candles and a pile of bills. LEFT: Usopp whispering behind his hand to Sanji, pointing at Nami suspiciously. Chopper.
 story:
 عند بستان اليوسفيّ على ظهر الثاوزند صني، وضعت نامي ميزانًا ذا كفّتين.
+وعلى كلّ كفّة بالون حوت صغير، على ظهره فقّاعة علكة ورديّة منتفخة.
 في الكفّة الأولى، الكمّ الأبيض ذو النابض المعدنيّ، عليه ثمن باهظ، وإلى جانبه شمعتان فقط: ليلتان في العيادة.
 وفي الكفّة الثانية، الأنبوب الأبيض الطويل للعمليّة المفتوحة، ثمنه زهيد، لكن إلى جانبه صفّ طويل من الشموع، وكومة من الفواتير.
 «الكمّ أغلى بكثير؛ ستهبط كفّته إلى الأرض!» قال أوسوب.

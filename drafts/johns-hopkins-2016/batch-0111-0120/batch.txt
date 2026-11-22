@@ -84,10 +84,11 @@ scene: The red engine room of the old hotel with a stag's head, a huge fan in th
 story:
 في غرفة المحرّك الحمراء، كانت المروحة العملاقة تدور، وعليها عدّاد سرعة نحاسيّ.
 فجاء ثلاثة بحّارة، كلّ منهم يحلف أنّه يعرف حيلةً تزيد سرعتها.
-فشدّ الأوّل ريشها حتّى طال قبل أن تبدأ.
+فشدّ الأوّل ريشها حتّى طال قبل أن تبدأ، وعلى كتفه طائر زرزور يمطّه كشريط مطّاطيّ.
 وهزّها الثاني هزّةً مفاجئة.
-وأدارها الثالث، وهو أوسوب، مرّةً بعد مرّة بأسرع ما يستطيع.
-والجميع ينظرون إلى العدّاد، فإذا بالإبرة في مكانها تمامًا، لم تتحرّك شعرةً واحدة.
+وأدارها الثالث، وهو أوسوب، مرّةً بعد مرّة بأسرع ما يستطيع، فقفزت إبرة عدّاد الدوران على الحائط إلى الأحمر.
+ومع كلّ حيلة، كان عدّاد الماء النحاسيّ على أنبوب الخروج يدور أسرع.
+والجميع ينظرون إلى عدّاد السرعة، فإذا بالإبرة في مكانها تمامًا، لم تتحرّك شعرةً واحدة.
 «لا الطول، ولا الهزّة، ولا التكرار. لا شيء من هذا يحرّك الإبرة.» قال فرانكي وهو يهزّ كتفيه العملاقين.
 «لكنّ حيلتي أنا كانت أسرع قليلًا، أليس كذلك؟» قال أوسوب.
 فلم يجبه أحد، والإبرة ثابتة كالصّخر.
@@ -152,15 +153,18 @@ must: the BIGGER coal pile goes with the RELAXING (opening) moment; the glue is 
 scene: The red engine room of the old hotel with a stag's head, furnace glowing orange, its coal pouring down a chute from the green crown on the roof. The huge fan has two moments drawn side by side: on the left it pushes hard, on the right it is being pulled back open to rest, and as it opens, a steam pump fed by the furnace sucks white chalky glue off its blades back into a big can. CENTRE, dominant and brightest: on the right, a stoker shovels a huge mountain of coal into the furnace just as the fan is pulled back open, while on the left another stoker shovels only a small pile as it pushes. Big barrels of oil feed the furnace, and a few sugar cubes sit aside on a shelf beside two lace balloons, the thick-walled one calm, the thin-walled one straining.
 story:
 في غرفة المحرّك الحمراء، كان الفرن يتوهّج برتقاليًّا، والمروحة العملاقة تعمل بحركتين.
+وكان الفحم ينزل إلى الفرن في مزلق من تاج أخضر على السطح.
 تدفع بقوّة، ثمّ تشدّ إلى الوراء لتنفتح وتستريح.
 «الدفع هو العمل الحقيقيّ! كلّ الفحم للدّفع!» قال أوسوب.
 فجرّبوا ذلك، فعلقت المروحة نصف مفتوحة، لا تستريح ولا تدفع.
 فوقف وقّادان عند الفرن.
 فإذا دفعت المروحة، ألقى الأوّل في الفرن كومةً صغيرة.
 وإذا شدّت إلى الوراء لتنفتح، ألقى الثاني جبلًا كاملًا من الفحم.
+فأدار الفرن مضخّةً بخاريّة، تمتصّ الغراء الأبيض الطباشيريّ عن ريش المروحة إلى علبة كبيرة.
 فعادت المروحة تنفتح واسعةً، ثمّ تدفع قويّة.
 «الراحة تأكل أكثر! مثلي تمامًا حين أنام!» قال لوفي وهو يضحك.
 وكان الفرن يأكل من براميل الزيت أكثر ممّا يأكل من قطع السكّر على الرفّ.
+وعلى الرفّ نفسه، بالونان من الدانتيل: الغليظ الجدار هادئ، والرّقيق يكاد ينفجر.
 فلمّا انفتحت المروحة واستراحت، صاح لوفي فيها:
 quote: «معركتنا لم تنته بعد! سنعود ونتقاتل من جديد!»
 source: مونكي دي لوفي
@@ -188,9 +192,11 @@ scene: A clean white infirmary on a Grand Line island. CENTRE, dominant and brig
 story:
 في مستوصف أبيض على جزيرة من الغراند لاين، كان الفندق الصغير في صدر ولد صغير يحتاج أن يسكت ليصلح.
 وكانت الشاحنة ذات المضخّة الدوّارة بعيدةً، يديرها قرد جيبون، ولم تكتمل بعد.
+وبجانب الجيبون، رجل له مرفق واحد ضخم، يرفع ميزان حرارة كساه الصقيع.
 فانتظروها يومًا ويومين، والولد يضعف.
 فاستلقى أبوه على سرير بجانبه، ووصلوا بينهما خرطومين أحمرين.
 فصار الفندق الصغير في صدر الأب يضخّ له ولابنه معًا.
+وتنفّس كيسا الدولارات في صدره عنهما كليهما.
 وعند طرف السريرين، نبتت زنبقة بيضاء كبيرة من حزمة قشّ ذهبيّ.
 «زنبقة، ليلي، في قشّ، هاي: ليليهاي!» قال تشوبر مدهوشًا.
 وراقب تشوبر الخرطومين، والدّم يمضي ويعود بين الأب وابنه.
@@ -222,6 +228,7 @@ scene: Franky's workshop. LEFT: a big rolling pin rolls along a clear tube, sque
 story:
 في ورشة فرانكي، وضعت مضخّتان جنبًا إلى جنب.
 الأولى شوبك كبير يتدحرج على أنبوب شفّاف، فيعصره ويدفع الماء إلى الأمام، وبجانبه بطاقة ثمن صغيرة ودلو ماء صغير.
+وعلى الأنبوب الخارج من الشوبك، بوّابتا مدينة حديديّتان شبه مغلقتين، والماء يعبرهما بالقدر نفسه.
 والثّانية مخروط يدور، فيقذف الماء إلى الخارج في دوّامة ناعمة.
 «الشوبك رخيص وصغير، فهو الأفضل في كلّ شيء!» قال أوسوب.
 فأخذ فرانكي عدسته المكبّرة، ونظر حيث يعصر الشوبك الأنبوب.
@@ -256,12 +263,15 @@ must: air and bubbles touch the water in the OPEN bucket; the closed bag holds n
 scene: The cardiac cabin of a ship. LEFT: a closed soft bag hangs, full of blue water, with no air inside. CENTRE, dominant and brightest: a big open steel bucket collects blue water from a hose; air touches its whole surface and bubbles swirl down into the water, and wherever the air touches it, little bouquets of compliments burst up out of the water; a measuring scale on its side, an air vent letting big clear soap bubbles drift up and away, and a small price tag show its other qualities. Both the bucket and the bag drain into a roller-pump truck below. Usopp, the long-nosed sniper, leans over the bucket blowing at the bubbles.
 story:
 في غرفة القلب على السفينة، كان ماء أزرق يتجمّع في وعاءين.
+وكلاهما يصبّ في شاحنة المضخّة الدوّارة.
 الأوّل كيس طريّ مغلق، معلّق على اليسار، لا هواء فيه أبدًا.
 والثّاني دلو فولاذيّ كبير مفتوح، يصبّ فيه خرطوم.
 على جنبه مقياس يقرأ الكمّيّة، وفتحة يخرج منها الهواء، وبطاقة ثمن صغيرة.
+ومن تلك الفتحة، كانت فقّاعات صابون كبيرة شفّافة تصعد وتبتعد.
 «الدلو أكبر وأرخص، ونقرأ فيه الكمّيّة بسهولة!» قالت نامي.
 لكنّ أوسوب انحنى فوق الدلو ينفخ فيه.
 فإذا بالهواء يلمس سطح الماء كلّه، والفقاعات تدور وتغوص فيه.
+وحيثما لمس الهواء الماء، تفتّحت منه باقات صغيرة من المديح.
 «الدلو المفتوح يجعل الهواء يلمس الماء أكثر، لا أقلّ!» قال تشوبر.
 ثمّ حاول أوسوب أن ينفخ في الكيس المغلق، فلم يجد فيه فتحةً واحدة.
 فتراجع، وتظاهر بالمرض كعادته، وصاح:
@@ -290,9 +300,9 @@ keywords: centrifugal cell saving -> a washing machine spinning red beads clean 
 must: the returned jug is PALE PINK, watery
 scene: The laundry room of the Thousand Sunny. LEFT: a vacuum hose slurps up red beads together with grit, dirt and tiny black bowling balls and sends it all straight back into a pipe. CENTRE: a washing machine spins red beads clean and throws the dirty grey water away, little white plates tumbling out with it. RIGHT, dominant and brightest: the washed beads come back out in a big jug of plain water that is only pale pink, and Nami, the orange-haired navigator, holds it up to the light with a doubtful frown.
 story:
-في غرفة الغسيل على الثاوزند صني، كان خرطوم مكنسة يشفط خرزًا أحمر، ومعه الحصى والوسخ.
+في غرفة الغسيل على الثاوزند صني، كان خرطوم مكنسة يشفط خرزًا أحمر، ومعه الحصى والوسخ وكرات بولينغ سوداء صغيرة.
 ويعيد ذلك كلّه إلى الأنابيب مباشرة.
-وبجانبه غسّالة تدور، تغسل الخرز الأحمر نظيفًا، وترمي الماء الرماديّ الوسخ.
+وبجانبه غسّالة تدور، تغسل الخرز الأحمر نظيفًا، وترمي الماء الرماديّ الوسخ، ومعه أطباق بيضاء صغيرة.
 «خرز نظيف بلا حصى، وميدان صاف نرى فيه كلّ شيء!» قال سانجي معجبًا.
 «إذن سيعود الخرز أيضًا أثخن وأحمر، أليس كذلك؟» قالت نامي.
 ففتحت الغسّالة، وخرج الخرز المغسول في إبريق كبير من الماء الصافي.
