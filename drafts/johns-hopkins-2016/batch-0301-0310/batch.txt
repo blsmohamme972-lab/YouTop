@@ -1,0 +1,297 @@
+book: johns-hopkins-2016
+# Lessons 301-310 (book 64.1-65.5: atrial septal defect and partial anomalous venous connection; ventricular septal defect).
+# Written 2026-11-22, night. Each story: a hook, a wrong try that fails, the answer acting, a payoff line that names
+# the symbol, and a lead-in that says who speaks the quotation and why it fits.
+# OCR misprints of 302, 306, 307 and 310 are mended by the book's 'typos' map ("Q :Q ... p s 2 : 1" -> "Qp:Qs ... 2:1").
+# QUOTATION PENDING (all ten): the pool of One Piece lines allowed by quoteRepeats is exhausted; the owner decides.
+# The stories stop at the payoff; add the lead-in and Q lines before building.
+
+== 301
+# book 64.1: correct about the anatomy of ASDs and PAPVC -> C, the ostium of a coronary sinus defect lies at the posteroinferior margin of the triangle of Koch.
+# ANSWER: the crowned sink in the blue lobby's floor, its roof missing into the red lobby, always opening at the back-lower corner of the triangle drawn round the knot (audited sink, knot)
+# the clock's hole comes from too much cutting, not too little (A wrong); the Venus statue sits at the back of the top, outside the clock's frame (D wrong); the low Venus can pour the chimney's blue water into the red lobby (cyanosis, B wrong); the scimitar (E)
+title: A coronary sinus ASD opens at the posteroinferior corner of the triangle of Koch
+titleAr: فتحة عيب الجيب التاجيّ تقع عند الزاوية الخلفيّة السفليّة لمثلّث كوخ
+tags: cardiac/congenital d:anatomy q:recall l:3
+palette: Wano bathhouse cedar, tile blue and crown green
+keywords: coronary sinus defect -> the sink with a little green crown in the blue lobby's floor, its roof missing so water spills through it into the red lobby; triangle of Koch -> a triangle chalked on the floor round the big tight knot of the crackling branches; posteroinferior margin -> the sink always sitting at the back-lower corner of the knot's triangle; secundum ASD -> a round clock with a sweeping second hand in the middle of the upper party wall, its hole cut too wide; sinus venosus defect -> a white marble Venus statue in a hole at the very top of the upper party wall, at the back
+must: the crowned sink sits exactly at the back-lower corner of the chalk triangle round the knot, its roof open into the red lobby
+scene: A bathhouse in Wano, cedar walls and blue tiles. CENTRE, dominant and brightest: in a HART Hotel's blue lobby floor, a sink with a little green crown sitting exactly at the back-lower corner of a triangle chalked round a big tight knot of crackling branches; the sink's roof is missing, so water spills through it into the red lobby. AROUND, dimmer: a round clock with a sweeping second hand in the middle of the upper party wall; a white marble Venus statue in a hole at the very top of the wall, at the back. LEFT: Usopp pointing at the Venus statue. Chopper with a piece of chalk.
+story:
+في حمّام عامّ ببلد وانو، جدرانه من خشب الأرز، بحث تشوبر عن الثقب الّذي يمرّ منه الماء بين ردهتي فندق.
+«إنّه ثقب تمثال فينوس، في أعلى الجدار من الأمام!» قال أوسوب، وأشار إلى أعلى الجدار الفاصل.
+لكنّ تمثال فينوس كان في الخلف، في أعلى الجدار حيث تدخل المدخنة، وثقبه مغلق سليم.
+والسّاعة في وسط الجدار بعقربها الّذي يدور، كانت مغلقةً كذلك.
+فنزل تشوبر إلى أرض الردهة الزرقاء، ورسم بالطّباشير مثلّثًا حول العقدة الكبيرة المشدودة، في رأس حزمة الأغصان الّتي تطقطق بالشّرر.
+فإذا المغسلة ذات التاج الأخضر قابعة عند الزاوية الخلفيّة السفليّة للمثلّث، وسقفها مفقود، فالماء ينسكب منها إلى الردهة الحمراء.
+«المغسلة ذات التاج تجلس دائمًا عند الزاوية الخلفيّة السفليّة لمثلّث العقدة!» قال تشوبر.
+quote:
+source:
+explanation:
+The ostium of a coronary sinus defect is invariably present along the posteroinferior margin of the triangle of Koch: C.
+In an unroofed coronary sinus, the wall between the sinus and the left atrium is missing, so the sinus ostium acts as the hole between the atria, at the back-lower corner of Koch's triangle.
+A secundum defect comes from excessive resorption of septum primum or a deficient septum secundum, not from too little resorption.
+A superior sinus venosus defect lies at the back and top, where the SVC enters, outside the limbus; an inferior one can stream IVC blood into the left atrium and cause cyanosis.
+In the picture, the crowned sink sits at the back-lower corner of the chalk triangle round the knot, its roof open into the red lobby.
+Memory hook: the crowned sink sits at the back-lower corner of the knot's triangle.
+
+== 302
+# book 64.2: true about the physiology of ASD and PAPVC -> B, if the ASD is restrictive, Qp:Qs rarely exceeds 2:1.
+# ANSWER: through a small hole in the upper party wall only a thin stream passes, and on the scale the money-pipe bucket never passes twice the orca's (audited upper party wall)
+# where the hole sits hardly matters: its size and how soft each engine room is decide (A wrong); a stony mitre pushes more water through (C wrong); a baby's failing heart is rarely from the hole alone (D wrong); the gauge's rise cannot be foretold (E wrong)
+title: A restrictive ASD rarely gives a Qp:Qs over 2:1
+titleAr: الفتحة الأذينيّة المقيِّدة نادرًا ما تجعل نسبة التدفّق الرئويّ إلى الجهازيّ أكثر من 2 إلى 1
+tags: cardiac/congenital d:physiology q:numbers l:2
+palette: Whiskey Peak barrel brown, lobby glass and bucket tin
+words: 2:1
+keywords: restrictive ASD -> a small hole in the thin upper party wall between the two glass-roofed lobbies, only a thin stream of red water passing through it; Qp:Qs -> a two-pan scale with a bucket of the money pipe's water and a bucket of the orca's water, the money bucket never passing twice the orca's, 2:1 painted; ventricular compliance -> the soft blue engine room, its fan turning easily, swelling to take the water, the stiff red one resisting; mitral stenosis -> a stony narrow mitre pushing more water through the hole
+must: only a thin stream passes the small hole, and the money bucket never passes twice the orca bucket on the scale
+scene: Whiskey Peak, a town of barrels and cactus rocks. CENTRE, dominant and brightest: a HART Hotel with a small hole in the thin upper party wall between its two glass-roofed lobbies, a thin stream of red water passing through; beside it a two-pan scale, the money pipe's bucket no more than twice the orca's, 2:1 painted on it. AROUND, dimmer: the soft blue engine room swelling easily, the stiff red one resisting; a stony narrow bishop's mitre. LEFT: Usopp trying to move the hole with a chisel. Chopper.
+story:
+في ويسكي بيك، بلدة البراميل وصخور الصبّار، كان في الجدار الفاصل بين ردهتي فندق ثقب صغير، يمرّ منه خيط رفيع من الماء الأحمر.
+«الثقب في وسط الجدار، لذلك يمرّ منه الماء! ننقله إلى الطرف فيتوقّف كلّ شيء!» قال أوسوب، ورفع إزميله.
+لكنّ تشوبر أوقفه: فمكان الثقب لا يغيّر شيئًا يذكر؛ إنّما يقرّر الجريان حجم الثقب، ولين كلّ غرفة محرّك.
+فغرفة المحرّك الزرقاء ليّنة تتّسع بسهولة، والحمراء صلبة تقاوم؛ فيميل الماء إلى الزرقاء.
+ثمّ وضع تشوبر ميزانًا بكفّتين: دلو ماء أنبوب الدولارات، ودلو ماء الحوت.
+فمهما انتظروا، لم يزد دلو الدولارات على ضعف دلو الحوت؛ فالثّقب الصغير لا يمرّر أكثر.
+«ثقب ضيّق: دلو الدولارات نادرًا ما يتجاوز ضعف دلو الحوت!» قال تشوبر.
+quote:
+source:
+explanation:
+If the ASD is restrictive, the Qp:Qs will rarely exceed 2:1: B.
+The size of an ASD shunt depends on the size of the defect and on the relative compliance of the two ventricles; once the hole is small enough to restrict flow, the shunt stays modest.
+The location of the defect has little influence on the shunt, while mitral stenosis increases it (Lutembacher syndrome).
+Heart failure in an infant is seldom caused by an isolated ASD, and the onset of pulmonary hypertension is not predictable.
+In the picture, only a thin stream passes the small hole, and the money bucket never passes twice the orca bucket.
+Memory hook: a narrow hole: the money bucket rarely passes twice the orca's.
+
+== 303
+# book 64.3: INCORRECT -> D, that the signs and symptoms of an ASD are not related to the direction or size of the shunt.
+# ANSWER: in Impel Down, the signs grow with the flow: a trickle and a calm sailor; a flood and a breathless sailor with a swollen blue room; a reversed flow and blue lips (audited upper party wall)
+# holes under 6 close by themselves (A); 6 to 8 may close even after age 5 (B); over 8 may grow (C); Pinocchio in an adult's lobby may be the first sign (E): all true (audited pinocchio)
+title: The signs and symptoms of an ASD follow the direction and size of the shunt
+titleAr: أعراض الفتحة الأذينيّة وعلاماتها تتبع اتّجاه التحويلة وحجمها
+tags: cardiac/congenital d:diagnosis q:recall l:2
+palette: Impel Down stone grey, flood blue and lip violet
+words: 6, 8
+keywords: ASD -> holes in the thin upper party wall between the two glass-roofed lobbies; small trickle -> a calm sailor beside a small hole with a thin stream; large left-to-right shunt -> a breathless sailor beside a big hole pouring red water into the swollen blue lobby and engine room; reversed shunt -> a sailor with blue lips beside a hole where blue water now flows into the red lobby; spontaneous closure under 6 mm -> a tiny hole marked 6 closing by itself; growth over 8 mm -> a hole marked 8 growing wider; atrial fibrillation in adults -> Pinocchio, his nose growing, trembling in an adult's upper glass lobby
+must: the sailors' signs grow with the flow: calm by the trickle, breathless by the flood, blue-lipped by the reversed flow
+scene: The stone levels of Impel Down, the great prison. CENTRE, dominant and brightest: three HART Hotels side by side, each with a hole in the upper party wall: a small hole with a thin stream and a calm sailor; a big hole pouring red water into a swollen blue lobby and engine room and a breathless sailor; a hole where blue water flows back into the red lobby and a sailor with blue lips. AROUND, dimmer: a tiny hole marked 6 closing by itself; a hole marked 8 growing wider; Pinocchio trembling in an adult's upper glass lobby. LEFT: Usopp shrugging. Chopper.
+story:
+في طبقات إمبل داون الحجريّة، وقف ثلاثة بحّارة أمام ثلاثة فنادق، في الجدار الفاصل بين ردهتي كلّ منها ثقب.
+«الثقوب كلّها سواء؛ وما يشعر به البحّار لا علاقة له بالماء الّذي يمرّ!» قال أوسوب، وهزّ كتفيه.
+لكنّ البحّار الأوّل، عند ثقب صغير يمرّ منه خيط رفيع، كان هادئًا لا يشكو شيئًا.
+والثّاني، عند ثقب كبير يصبّ الماء الأحمر في ردهة وغرفة زرقاوين منتفختين، كان يلهث مع كلّ درجة يصعدها.
+والثّالث، عند ثقب انقلب فيه الماء الأزرق إلى الردهة الحمراء، كانت شفتاه زرقاوين.
+وفي الزوايا، ثقب صغير عليه ستّة ينغلق وحده، وثقب عليه ثمانية يتّسع، وبينوكيو يرتجف في ردهة رجل كبير.
+«العلامات تتبع الماء: هدوء مع الخيط، ولهاث مع السيل، وشفاه زرقاء حين ينقلب!» قال تشوبر.
+quote:
+source:
+explanation:
+The incorrect statement is that the signs and symptoms of an ASD are not related to the direction or magnitude of the shunt: D.
+They follow the shunt closely: a small left-to-right shunt is silent, a large one enlarges the right heart and causes breathlessness and arrhythmia, and a reversed shunt causes cyanosis.
+Defects under 6 mm almost always close or become restrictive on their own, those of 6 to 8 mm may still do so after age 5, and those over 8 mm can grow during childhood.
+In adults, an episode of paroxysmal atrial fibrillation may be the first presentation.
+In the picture, the sailor is calm by the trickle, breathless by the flood and blue-lipped by the reversed flow.
+Memory hook: the signs follow the water.
+
+== 304
+# book 64.4: most appropriate test before percutaneous ASD closure -> B, three-dimensional TEE.
+# ANSWER: the bat inside the pink sofa slide, wearing red-and-blue 3D glasses, seeing the clock's hole and every rim around it in depth (audited bat)
+# the bat outside the hotel (TTE), the horseshoe magnet (MRI), the photographer with a CT camera and the fishing line (catheterization) see less of the rims (A, C, D, E) (audited horseshoe magnet, fishing line)
+title: Three-dimensional TEE is the best test before percutaneous ASD closure
+titleAr: تخطيط الصدى عبر المريء ثلاثيّ الأبعاد أفضل فحص قبل إغلاق الفتحة الأذينيّة عبر الجلد
+tags: cardiac/congenital d:diagnosis q:recall l:2
+palette: aquarium-bar blue, 3D glasses red and cyan, clock gold
+keywords: three-dimensional TEE -> the bat sliding down inside the pink sofa slide behind the hotel, wearing red-and-blue 3D glasses, seeing the hole in the upper party wall and every rim around it in depth; ASD rims -> the clock's frame all round the hole in the upper party wall, each edge measured; percutaneous closure -> a pair of round silver cufflinks waiting on a fishing line to be clipped through the hole; transthoracic echo -> a second bat outside the hotel's walls, seeing only a flat shadow; MRI -> a giant red horseshoe magnet, set aside
+must: the bat inside the sofa slide wears 3D glasses and sees the hole and its rims in depth; the cufflinks wait on the fishing line
+scene: The aquarium bar of the Thousand Sunny, fish swimming in the glass walls. CENTRE, dominant and brightest: a bat sliding down inside a pink sofa slide behind a HART Hotel, wearing red-and-blue 3D glasses, seeing in depth the round clock in the upper party wall, its hole and every rim around it; a pair of round silver cufflinks waiting on a fishing line. AROUND, dimmer: a second bat outside the hotel seeing only a flat shadow; a giant red horseshoe magnet set aside. LEFT: Usopp with an ordinary pair of glasses. Chopper.
+story:
+في حانة الحوض المائيّ على الثاوزند صني، استعدّ تشوبر ليشبك زرّي أكمام فضّيّين في ثقب الساعة بالجدار الفاصل العلويّ، على خيط صيد من الفخذ.
+لكنّه أراد أوّلًا أن يعرف حجم الثقب، وطول كلّ حافّة حوله من إطار الساعة.
+«الخفّاش من خارج الفندق يكفي!» قال أوسوب، وأطلق خفّاشًا يدور حول الجدران.
+لكنّ الخفّاش الخارجيّ لم ير إلّا ظلًّا مسطّحًا، وضاعت الحوافّ خلف الجدران السميكة.
+فأنزل تشوبر خفّاشًا آخر داخل منزلق الأريكة الورديّة خلف الفندق، وألبسه نظّارةً ثلاثيّة الأبعاد حمراء وزرقاء.
+فرأى الخفّاش الثقب وحوافّه كلّها بعمقها، كأنّها تطفو أمامه، فقاس كلّ حافّة بدقّة.
+«الخفّاش بالنّظّارة ثلاثيّة الأبعاد يقيس الحوافّ، قبل أن تدخل أزرار الأكمام!» قال تشوبر.
+quote:
+source:
+explanation:
+Three-dimensional TEE is the most appropriate test before percutaneous closure of an ASD: B.
+It shows the size and shape of the defect and the length of every rim, which decide whether a device can be anchored and which size to choose.
+TEE also guides the device during closure and checks for other defects and for the drainage of the pulmonary veins.
+Transthoracic echo is often enough in small children but sees the rims less well in adults; MRI, CT and catheterization add less for this purpose.
+In the picture, the bat inside the sofa slide wears 3D glasses and sees the hole and its rims in depth, while the cufflinks wait.
+Memory hook: the bat in 3D glasses measures the rims before the cufflinks go in.
+
+== 305
+# book 64.5: true about percutaneous ASD closure -> E, a deficient retro-aortic rim is a significant risk factor for device erosion.
+# ANSWER: in the Alabasta wind, where the wall's rim behind the orca's root is missing, the cufflink's edge rubs the orca's wall and wears through it like sand erodes stone (audited cufflink, orca)
+# other devices are approved too (A wrong); small children are less often eligible (C wrong); success means a tiny residual shunt, not one of 4 mm (D wrong)
+title: A deficient retro-aortic rim is a risk factor for erosion after ASD device closure
+titleAr: نقص الحافّة خلف الأبهر عامل خطر لتآكل الجدار بعد إغلاق الفتحة الأذينيّة بالجهاز
+tags: cardiac/congenital d:complications q:recall l:3
+palette: Alabasta sand gold, cufflink silver and orca blue
+keywords: device closure -> a pair of round silver cufflinks clipped through the hole in the upper party wall, one disc on each side; deficient retro-aortic rim -> the upper party wall's rim missing just behind the orca's root, so the cufflink's edge leans on the orca; device erosion -> the cufflink's edge rubbing the orca balloon's wall and wearing through it, as the desert wind erodes sandstone, a red drip leaking out; other devices -> a second, different pair of cufflinks on the shelf
+must: only where the rim behind the orca's root is missing does the cufflink's edge wear through the orca's wall
+scene: The sandstone palace of Alabasta in a desert wind. CENTRE, dominant and brightest: a pair of round silver cufflinks clipped through a hole in a HART Hotel's upper party wall; where the wall's rim is missing just behind the orca balloon's root, the cufflink's edge rubs the orca's wall and wears through it, a red drip leaking out; sand blowing and eroding the sandstone pillars around. AROUND, dimmer: a second, different pair of cufflinks on a shelf. LEFT: Usopp polishing the cufflinks. Chopper pointing at the missing rim.
+story:
+في قصر ألباستا الرمليّ، والرّيح تحمل الرمال فتأكل الأعمدة الحجريّة، شبك تشوبر زرّي أكمام فضّيّين في ثقب بالجدار الفاصل العلويّ.
+«انتهى العمل! زرّا الأكمام لا يتحرّكان أبدًا، ولا يؤذيان أحدًا!» قال أوسوب، وأخذ يلمّعهما.
+لكنّ حافّة الجدار خلف جذر الحوت كانت مفقودة، فاستند طرف أحد الزرّين إلى جدار الحوت مباشرة.
+ومع كلّ دقّة، كان الطرف يحكّ جدار الحوت، كما تحكّ الريح المحمّلة بالرّمل الحجر الرمليّ.
+حتّى برى الجدار وخرقه، فأخذت قطرات حمراء تتسرّب منه.
+وعلى الرفّ زوج آخر من أزرار الأكمام بشكل مختلف؛ فليس هذا النوع وحده المسموح.
+«لا حافّة خلف جذر الحوت، فيبري زرّ الأكمام جداره ويخرقه!» قال تشوبر، وأشار إلى الحافّة المفقودة.
+quote:
+source:
+explanation:
+A deficient retro-aortic rim is a significant risk factor for device erosion: E.
+Without that rim, the device's edge leans against the aortic root and, with each heartbeat, can wear through the atrial wall or the aorta; erosion is rare but can be fatal, often presenting with tamponade.
+Oversized devices add to the risk, so the rims and the defect are measured carefully beforehand.
+The Amplatzer is not the only approved device, and eligibility is lower, not higher, in small children with large defects.
+In the picture, the cufflink's edge wears through the orca's wall only where the rim behind its root is missing, as the desert wind wears sandstone.
+Memory hook: no rim behind the orca, and the cufflink wears through.
+
+== 306
+# book 65.1: when a diagnostic cardiac catheterization may be the next step -> A, advanced pulmonary hypertension on clinical features and echo.
+# ANSWER: the fishing line threaded up from the groin into the money pipe whose gauge is high, counting the wooden blocks and testing whether a puff of nitro smoke knocks them down (audited fishing line, gauge, wooden block, nitro smoke)
+# a small baby with a VSD, a murmur, a right branch snapped after repair, a healthy child with a clear VSD: the bat's echo is enough (B, C, D, E)
+title: Advanced pulmonary hypertension calls for a diagnostic catheterization
+titleAr: ارتفاع الضغط الرئويّ المتقدّم يستدعي قثطرة قلبيّة تشخيصيّة
+tags: cardiac/congenital d:diagnosis q:next-step l:2
+palette: Nanohana harbour white, fishing-line silver and gauge red
+keywords: diagnostic cardiac catheterization -> a long thin fishing line paid out from a reel and threaded up from the groin into the hotel, reading the pressures; advanced pulmonary hypertension -> a pipe of dollar bills whose pressure gauge sits high in the red; pulmonary vascular resistance -> wooden blocks stacked inside the money pipe, counted by the fishing line; vasoreactivity test -> a soft puff of nitro smoke breathed into the money sacks to see whether the blocks fall; echocardiography alone -> a bat that has already seen everything in the other children
+must: the fishing line goes only into the patient whose money-pipe gauge is high; the other children are seen by the bat alone
+scene: The harbour town of Nanohana in Alabasta. CENTRE, dominant and brightest: a long thin fishing line paid out from a reel and threaded up from the groin into a HART Hotel whose pipe of dollar bills has its pressure gauge high in the red, counting the wooden blocks stacked inside it, while a soft puff of nitro smoke is breathed into the money sacks. AROUND, dimmer: a bat sending rings of sound over other children: a small baby, a child with a murmur, a child just after a repair, a healthy child. LEFT: Usopp reeling fishing lines toward every child. Chopper.
+story:
+في ميناء نانوهانا، جاء تشوبر ببكرة خيط صيد طويل رفيع، يدخله من الفخذ إلى الفندق ليقيس الضغوط.
+«ندخل الخيط في كلّ طفل عنده ثقب في الجدار السفليّ! هكذا نعرف كلّ شيء!» قال أوسوب، وأخذ يمدّ الخيوط نحو الأطفال جميعًا.
+لكنّ الخفّاش كان قد رأى كلّ شيء عند الرضيع الصغير، وعند صاحب النفخة في صدره، وعند من خيط جداره قبل ثلاثة أيّام، وعند الطفل السليم.
+إلّا طفلًا واحدًا، كان مقياس أنبوب دولاراته عاليًا في الأحمر.
+فأدخل تشوبر الخيط فيه وحده، حتّى بلغ أنبوب الدولارات، فعدّ المكعّبات الخشبيّة المكدّسة فيه.
+ثمّ نفخ في الأكياس نفثةً ليّنةً من دخان النترو، ليرى: هل تسقط المكعّبات، فيكون إغلاق الثقب مأمونًا؟
+«مقياس عال يستدعي خيط الصيد؛ والباقون يكفيهم الخفّاش!» قال تشوبر.
+quote:
+source:
+explanation:
+A diagnostic cardiac catheterization can be the next step in a patient with clinical and echo features of advanced pulmonary hypertension: A.
+It measures pulmonary artery pressure, the shunt and pulmonary vascular resistance, and tests whether the vessels relax with oxygen or nitric oxide, which decides whether closing the defect is still safe.
+For a typical VSD, echocardiography gives the size, position and haemodynamics, so catheterization is not needed.
+A murmur calls for an echo first, and a right bundle branch block after repair is common and needs no catheter.
+In the picture, the fishing line goes only into the patient whose money-pipe gauge is high, to count the wooden blocks and test the nitro smoke.
+Memory hook: a high gauge calls for the fishing line.
+
+== 307
+# book 65.2: true about surgical VSD repair -> D, right bundle branch block is common, about 35 percent.
+# ANSWER: of three hotels whose lower party wall was patched, one has the right branch of the crackling bundle snapped (audited branches, lower party wall)
+# the raised drawbridge often comes down again (heart block not always permanent, A wrong); the coffin is nearly empty (mortality far under 3 percent, B wrong); cufflinks for holes by the drum skin exist (C wrong)
+title: Right bundle branch block follows VSD repair in about 35 percent
+titleAr: إحصار الحزمة اليمنى يتبع إصلاح الفتحة بين البطينين عند نحو 35 في المئة
+tags: cardiac/congenital d:complications q:numbers l:2
+palette: Gray Terminal rust, branch spark yellow and patch white
+words: 35%
+keywords: VSD closure -> a white patch sewn over the ragged hole in the lower party wall; right bundle branch block -> the right branch of the crackling bundle of branches snapped in one of three patched hotels, 35% painted above; complete heart block -> a raised drawbridge that comes down again after a few days; operative mortality -> a tiny coffin, nearly empty; transcatheter closure -> a pair of round silver cufflinks for a hole beside the drum skin under the orca's mouth
+must: one of the three patched hotels has the right branch of the crackling bundle snapped
+scene: The Gray Terminal, a rusty junk town. CENTRE, dominant and brightest: three HART Hotels with a white patch sewn over the hole in the lower party wall; in one of them, the right branch of a crackling bundle of branches is snapped, sparks stopping there, 35% painted above. AROUND, dimmer: a raised drawbridge coming down again; a tiny, nearly empty coffin; a pair of round silver cufflinks beside a small drum skin under an orca balloon's mouth. LEFT: Usopp. Chopper with a needle and thread.
+story:
+في محطّة النفايات الرماديّة، خاط تشوبر رقعًا بيضاء على ثقوب الجدار الفاصل السفليّ في ثلاثة فنادق.
+وكانت حزمة الأغصان الّتي تطقطق بالشّرر تمرّ قريبًا من حافّة الثقب السفليّة.
+«الخياطة كانت متقنة؛ لن ينكسر غصن واحد في أيّ فندق!» قال أوسوب.
+لكنّ الغصن الأيمن من الحزمة انكسر في فندق من الثلاثة، فتوقّف الشرر عنده؛ ومع ذلك ظلّ الفندق يعمل سالمًا.
+أمّا الجسر المتحرّك الّذي ارتفع في فندق آخر، فقد نزل بعد أيّام؛ وبقي التابوت الصغير فارغًا تقريبًا.
+وعلى الطاولة زرّا أكمام فضّيّان صغيران، لثقب بجانب جلد الطبل تحت فم الحوت.
+«رقعة من كلّ ثلاث تكسر الغصن الأيمن؛ والفندق يعيش به سالمًا!» قال تشوبر.
+quote:
+source:
+explanation:
+Right bundle branch block is a relatively common result of VSD closure, in about 35 percent of patients: D.
+The right bundle runs close to the lower rim of a perimembranous defect, and stitches or a ventriculotomy can interrupt it; the block is usually harmless.
+Complete heart block after repair is not always permanent, and operative mortality for isolated VSD is now well under 1 percent.
+Transcatheter devices exist for perimembranous defects, though their use is limited by heart block.
+In the picture, one of the three patched hotels has the right branch of the crackling bundle snapped.
+Memory hook: one patched wall in three snaps the right branch.
+
+== 308
+# book 65.3: consequences of waiting for a perimembranous VSD to close -> E, all of the above.
+# ANSWER: at the Puffing Tom station, while the baby waits with an hourglass, all four happen: cards sprout broccoli (endocarditis), the orca's mouth sags into the hole and drips (aortic insufficiency), the money gauge rises (pulmonary hypertension), the baby stays thin on the scales (failure to thrive) (audited cards, mouth, gauge)
+title: Waiting for a perimembranous VSD to close risks endocarditis, aortic insufficiency, pulmonary hypertension and failure to thrive
+titleAr: انتظار انغلاق الفتحة حول الغشائيّة يعرّض لالتهاب الشغاف وقلس الأبهر وارتفاع الضغط الرئويّ وتأخّر النموّ
+tags: cardiac/congenital d:indications q:recall l:2
+palette: sea-train station brick, hourglass gold and broccoli green
+keywords: perimembranous VSD -> a ragged hole in the lower party wall right beside the small drum skin under the orca's mouth; waiting for spontaneous closure -> a baby sitting with an hourglass on the platform of the sea-train station; endocarditis -> playing cards sprouting broccoli and moss beside the hole; aortic insufficiency -> the orca balloon's mouth sagging into the hole and dripping back; pulmonary hypertension -> the pipe of dollar bills' pressure gauge climbing into the red; failure to thrive -> the baby staying thin on the scales
+must: all four happen while the baby waits: the broccoli cards, the sagging mouth, the rising gauge and the thin baby on the scales
+scene: The sea-train station of the Puffing Tom at Water 7. CENTRE, dominant and brightest: a baby sitting on the platform with an hourglass, waiting; beside him a HART Hotel with a ragged hole in the lower party wall right beside the small drum skin under an orca balloon's mouth. Around the baby, all four happening at once: playing cards sprouting broccoli and moss by the hole; the orca's mouth sagging into the hole and dripping back; the money pipe's pressure gauge climbing into the red; the baby thin on the scales. LEFT: Usopp waving at the train. Chopper.
+story:
+في محطّة قطار البحر بافينغ توم، جلس رضيع على الرصيف بساعة رمليّة، ينتظر أن ينغلق وحده ثقب في جداره السفليّ، بجانب جلد الطبل تحت فم الحوت.
+«لا بأس بالانتظار؛ لن يأتي مع القطار إلّا الخير!» قال أوسوب، ولوّح للقطار.
+لكنّ القطار الأوّل جاء بأوراق لعب ينبت عليها البروكلي والطّحلب عند الثقب.
+وجاء الثاني فتدلّى فم الحوت في الثقب وأخذ يقطر؛ وجاء الثالث فصعد مقياس أنبوب الدولارات إلى الأحمر.
+وجاء الرابع والرّضيع ما يزال نحيلًا على الميزان، لا يكبر.
+فحمل تشوبر الرضيع عن الرصيف، ومضى به ليخاط ثقبه.
+«الانتظار على الرصيف: تأتي القطارات الأربعة كلّها!» قال تشوبر.
+quote:
+source:
+explanation:
+Waiting for a perimembranous VSD to close can lead to endocarditis, aortic insufficiency, pulmonary hypertension and failure to thrive: all of the above.
+The jet through the defect injures the endocardium and invites endocarditis, and an aortic leaflet can prolapse into the hole and leak.
+A large shunt floods the lungs, which can lead to pulmonary vascular disease, and the infant cannot feed and grow.
+So small restrictive defects may be watched, but large ones, or any with leaflet prolapse or regurgitation, are closed.
+In the picture, all four happen while the baby waits: the broccoli cards, the sagging mouth, the rising gauge and the thin baby.
+Memory hook: waiting at the station, all four trains arrive.
+
+== 309
+# book 65.4: INCORRECT about outcomes after VSD repair -> D, a mean stay of 3 days.
+# ANSWER: on Rusukaina, the calendar of the stay runs past three days, longer than Usopp claimed (audited lower party wall)
+# the coffin nearly empty (mortality near zero, A), the drawbridge rarely raised (block under 1 percent, B), the valves rarely hurt (C) and the patch rarely redone (E): all true (audited coffin, drawbridge)
+title: After VSD repair the hospital stay is longer than 3 days
+titleAr: بعد إصلاح الفتحة بين البطينين تطول الإقامة في المستشفى أكثر من ثلاثة أيّام
+tags: cardiac/congenital d:postoperative q:numbers l:2
+palette: Rusukaina jungle green, calendar white and patch white
+words: <1%
+keywords: VSD repair -> a white patch sewn over the ragged hole in the lower party wall; operative mortality near zero -> an empty coffin; complete heart block under 1 percent -> a drawbridge almost never raised, <1% painted on it; valve injury under 1 percent -> the valve doors untouched; reoperation for residual VSD under 1 percent -> the patch on the lower party wall almost never sewn again; length of stay -> a calendar whose pages run past three days
+must: the calendar of the stay runs past three days; the coffin is empty and the drawbridge, valves and patch are nearly always untouched
+scene: Rusukaina, a wild jungle island of great beasts. CENTRE, dominant and brightest: a HART Hotel with a white patch over the hole in its lower party wall, and a calendar beside its bed whose pages run past three days. AROUND, small: an empty coffin; a drawbridge almost never raised, <1% painted on it; untouched valve doors; a patch almost never sewn again. LEFT: Usopp holding up three fingers. Chopper turning the calendar pages.
+story:
+في جزيرة روسوكاينا، حيث تعيش الوحوش الكبيرة، خيطت رقعة بيضاء على ثقب الجدار السفليّ في فندق صغير.
+فكان كلّ شيء على أحسن حال: التابوت فارغ، والجسر المتحرّك لم يرتفع، وأبواب الصمّامات سليمة، والرّقعة لا تحتاج خياطةً ثانية.
+«ثلاثة أيّام فقط، ثمّ يعود إلى البيت!» قال أوسوب، ورفع ثلاثة أصابع.
+لكنّ تشوبر أخذ يقلّب صفحات التقويم بجانب السرير: يوم للمنفاخ، وأيّام للأنابيب والأسلاك، وأيّام ليتعلّم الرضيع الرضاعة من جديد.
+فتجاوزت الصفحات اليوم الثالث، وقاربت الأسبوع.
+فأنزل أوسوب أصابعه الثلاثة، ورفع سبعة.
+«إصلاح يكاد يكون كاملًا، لكنّه ليس إقامةً من ثلاثة أيّام!» قال تشوبر.
+quote:
+source:
+explanation:
+A mean length of stay of 3 days is the incorrect statement: D.
+After VSD repair children usually stay longer, for ventilation, drains, pacing wires and feeding, typically about a week.
+The other outcomes are excellent: operative mortality approaches zero, and the risks of heart block, valve injury and reoperation for a residual defect are each under 1 percent.
+In the picture, the coffin is empty and the drawbridge, valves and patch almost never trouble anyone, but the calendar runs past three days.
+Memory hook: a near-perfect repair, but not a three-day stay.
+
+== 310
+# book 65.5: echo in an infant with a large VSD (loud holosystolic murmur, poor feeding, tachypnoea, sweating, big heart) -> E, all of the above.
+# ANSWER: in the Sunny's kitchen, the bat sees all four: red water rushing through the big hole into the blue room (left-to-right shunt), the red lobby swollen (LA dilation), the red engine room swollen (LV dilation) and the blue engine room's walls thick (RV hypertrophy) (audited bat, lower party wall, thick)
+title: A large VSD in an infant: LA and LV dilation, a left-to-right shunt and RV hypertrophy
+titleAr: الفتحة الكبيرة بين البطينين عند الرضيع: توسّع الأذين والبطين الأيسرين وتحويلة من اليسار إلى اليمين وتضخّم البطين الأيمن
+tags: cardiac/congenital d:diagnosis q:vignette l:2
+palette: Sunny kitchen copper, milk white and hotel red
+keywords: VSD -> a big ragged hole in the lower party wall between the two engine rooms; left-to-right shunt -> red water rushing through the hole into the blue engine room; LA dilation -> the red glass-roofed lobby swollen wide; LV dilation -> the red engine room swollen wide; RV hypertrophy -> the blue engine room with its walls swollen into thick red muscle; holosystolic murmur -> a loud whoosh through the hole with every beat; poor feeding and sweating -> a baby sweating and breathing fast at his bottle
+must: all four are shown at once: the rush through the hole, the swollen red lobby, the swollen red engine room and the thick-walled blue engine room
+scene: The kitchen of the Thousand Sunny, copper pots shining. CENTRE, dominant and brightest: a baby HART Hotel with a big ragged hole in the lower party wall, red water rushing through it into the blue engine room with a loud whoosh; its red glass-roofed lobby swollen wide, its red engine room swollen wide, and its blue engine room's walls swollen into thick red muscle. A bat sending rings of sound over it. AROUND: a baby sweating and breathing fast at his bottle; Sanji, the blond cook with a curled eyebrow, holding a new recipe. Chopper.
+story:
+في مطبخ الثاوزند صني، كان رضيع يتصبّب عرقًا ويلهث عند زجاجته، ولا يكمل رضعةً واحدة.
+«لا شيء في قلبه؛ إنّه لا يحبّ طبخي بعد! وصفة جديدة ويأكل كلّ شيء!» قال سانجي، ورفع وصفته الجديدة.
+لكنّ الرضيع ترك الوصفة الجديدة أيضًا، وصدره يعلو ويهبط سريعًا.
+فوضع تشوبر أذنه على صدره فسمع حفيفًا عاليًا مع كلّ دقّة، وأطلق الخفّاش بحلقات صوته.
+فرأى الخفّاش ثقبًا كبيرًا في الجدار السفليّ، يندفع منه الماء الأحمر إلى غرفة المحرّك الزرقاء.
+ورأى الردهة الحمراء منتفخة، وغرفة المحرّك الحمراء منتفخة، وجدران الغرفة الزرقاء قد غلظت عضلًا أحمر.
+«الأربعة كلّها: سيل من الأحمر إلى الأزرق، وردهة وغرفة حمراوان منتفختان، وجدران زرقاء غليظة!» قال تشوبر.
+quote:
+source:
+explanation:
+In this infant with a large VSD, echo would show left atrial dilation, left ventricular dilation, a left-to-right shunt and right ventricular hypertrophy: all of the above.
+The shunt sends extra blood round the lungs and back to the left atrium and ventricle, which dilate; the right ventricle thickens against the high pulmonary pressure.
+The loud holosystolic murmur at the left lower sternal border, the poor feeding, sweating and fast breathing and the big heart on the chest film are the picture of a large shunt in heart failure.
+In the picture, the bat sees all four at once: the rush through the hole, the swollen red lobby and engine room and the thick blue walls.
+Memory hook: a big hole floods the red side and thickens the blue.
