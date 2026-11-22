@@ -1,0 +1,313 @@
+book: johns-hopkins-2016
+# Lessons 221-230 (book 45.1-46.5: chronic thromboembolic pulmonary hypertension, hypertrophic cardiomyopathy).
+# Written 2026-11-22, night. Each story: a hook, a wrong try that fails, the answer acting, a payoff line that names
+# the symbol, and a lead-in that says who speaks the quotation and why it fits.
+
+== 221
+# book 45.1: share of acute pulmonary embolism that goes on to CTEPH -> D, 3 to 5 percent.
+# a hundred black bowling balls rolling into the money pipes -> acute pulmonary embolism (audited bowling ball, dollar)
+# most of them melting like black wax in the hot spring -> the clot dissolves
+# ANSWER: three to five of every hundred hardened into grey stone on the pipe walls, the gauge climbing -> CTEPH (audited gauge)
+title: About 3 to 5 percent of acute pulmonary emboli go on to CTEPH
+titleAr: نحو 3 إلى 5 في المئة من الانصمام الرئويّ الحادّ ينتهي إلى ارتفاع الضغط الرئويّ الخثاريّ المزمن
+tags: cardiac/other d:pathology q:numbers l:2
+palette: Wano hot-spring steam, black wax and stone grey
+words: 3, 5
+note: Estimates range widely between studies, from under 1 to about 5 percent; the book's figure is used.
+keywords: acute pulmonary embolism -> a hundred small black bowling balls rolling into the pipes of green dollar bills; most balls melting -> most of the bowling balls melting away like black wax in the hot water of the spring; chronic thromboembolic pulmonary hypertension -> three to five of every hundred balls hardened into grey stone stuck fast to the pipe walls, the pressure gauge on the money pipe climbing into the red; Oden -> a tall samurai with a topknot standing laughing in a huge boiling cauldron in the middle of the spring
+must: most balls melt; only three to five in a hundred harden into stone, and only then the gauge climbs
+scene: A steaming hot spring in the land of Wano at night. The pipes of green dollar bills from the HART Hotel run through the hot water. A hundred small black bowling balls roll into them; most are melting away like black wax. CENTRE, dominant and brightest: three to five balls hardened into grey stone, stuck fast to the pipe walls, and the pressure gauge on the money pipe climbing into the red; 3 and 5 painted on the gauge. RIGHT: Oden, a tall samurai with a topknot, standing laughing in a huge boiling cauldron. LEFT: Usopp counting the balls in panic. Chopper.
+story:
+في أرض وانو، تمرّ أنابيب الدولارات الخضراء في ينبوع حارّ يتصاعد منه البخار.
+فتدحرجت فيها مئة كرة بولينغ سوداء صغيرة، تسدّ الطريق على المال.
+«ستتحجّر كلّها، أو خمسها على الأقلّ، وينسدّ الطريق إلى الأبد!» قال أوسوب مذعورًا.
+لكنّ الماء الحارّ أذاب أكثر الكرات كالشّمع الأسود، في أسابيع قليلة.
+ولم يبق من كلّ مئة إلّا ثلاث أو أربع أو خمس، تحجّرت رماديّةً والتصقت بجدران الأنابيب، فصعد عدّاد الضغط في أنبوبها إلى الأحمر.
+«من كلّ مئة كرة، لا يتحجّر إلّا ثلاث إلى خمس، فيرتفع العدّاد!» قال تشوبر.
+وكان في وسط الينبوع قدر عظيم يغلي، وفيه ساموراي طويل معقود الشعر يضحك: أودن، الّذي سمّي باسم طبق لا يطبخ إلّا بالغلي.
+فسأله أوسوب: ألا يحرقك الماء يا هذا؟ فرفع أودن رأسه بفخر، وقال ما قاله في ساعته الأخيرة:
+quote: «أنا أودن... ولدت لأغلى!»
+source: كوزوكي أودن
+explanation:
+About 3 to 5 percent of patients with an acute pulmonary embolism go on to develop chronic thromboembolic pulmonary hypertension (CTEPH): D.
+In most patients the clot dissolves within weeks, the bowling balls melting in the warm spring.
+In a few it does not resolve but organises into fibrous tissue fixed to the arterial wall, the grey stones, and the pulmonary vascular resistance and pressure rise: the gauge climbing into the red.
+Many patients with CTEPH have no known history of an acute embolism, so the disease is often found late.
+Memory hook: of every hundred balls, only three to five turn to stone.
+
+== 222
+# book 45.2: mean pulmonary artery pressure above 50 mm Hg -> 3-year mortality about 90 percent (E).
+# the gauge on each climber's money pipe above 50 -> mean pulmonary pressure over 50 (audited gauge)
+# ANSWER: of ten climbers, nine black coffins three years later, one still standing -> 90 percent dead at three years (audited coffin)
+title: Mean pulmonary pressure above 50 mm Hg: about 90 percent dead in 3 years
+titleAr: متوسّط ضغط الشريان الرئويّ فوق 50 ملم زئبق: يموت نحو 90 في المئة خلال 3 سنوات
+tags: cardiac/other d:evidence q:numbers l:2
+palette: Jaya jungle green, gauge red and coffin black
+words: 50, 3
+note: The figure comes from older natural-history series of untreated patients; it is the book's.
+keywords: pulmonary hypertension above 50 -> the pressure gauge on each climber's pipe of dollar bills pointing above 50; three-year mortality 90 percent -> ten climbers at the start, and three years later nine black coffins on the slope and only one climber still standing; three years -> three calendars with every page torn off
+must: of the ten climbers, nine are coffins after three years and one still stands
+scene: A steep jungle slope on Jaya. LEFT, at the start of a climbing race: ten sailors, each with the pressure gauge on his pipe of dollar bills pointing above 50. CENTRE, dominant and brightest, three years later (three calendars with every page torn off): nine black coffins along the slope and only one sailor still standing. TOP of the slope: Roronoa Zoro, the green-haired swordsman, sitting on a rock in the thin air, wiping his brow. Usopp laying flowers on the coffins. Chopper.
+story:
+على منحدر شديد في غابة جزيرة جايا، اصطفّ عشرة بحّارة لسباق الصعود، وعدّاد أنبوب الدولارات عند كلّ منهم يشير إلى أكثر من خمسين.
+«خمسون؟ رقم صغير! تسعة منهم سيبلغون القمّة سالمين!» قال أوسوب.
+فمضت ثلاث سنوات، وتمزّقت أوراق ثلاث رزنامات.
+فإذا تسعة من العشرة قد صاروا توابيت سوداء على المنحدر، ولم يبق واقفًا إلّا واحد.
+«إذا تجاوز عدّاد أنبوب الدولارات خمسين، رحل تسعة من كلّ عشرة في ثلاث سنوات!» قال تشوبر حزينًا.
+فسكت أوسوب، ووضع على كلّ تابوت زهرةً صغيرة.
+وأمّا زورو، الّذي صعد معهم ليحمل أثقل الأحمال، فقد جلس على صخرة عند القمّة، والهواء رقيق.
+فمسح جبينه، وقال ما قاله يومًا بعد أن نزف دمًا كثيرًا في أورانج تاون:
+quote: «أشعر بدوار خفيف...»
+source: رورونوا زورو
+explanation:
+Once the mean pulmonary artery pressure exceeds 50 mm Hg in chronic thromboembolic disease, about 90 percent of untreated patients die within 3 years: E.
+In the picture, of ten climbers whose gauges read above 50, nine are coffins three years later.
+The right ventricle fails under the rising pressure, and anticoagulation alone cannot relieve the fixed obstruction.
+This poor outlook is why pulmonary endarterectomy is offered as soon as the disease is found to be operable.
+Memory hook: a gauge over 50 leaves one climber of ten after three years.
+
+== 223
+# book 45.3: gold standard for diagnosing CTEPH -> C, pulmonary angiography.
+# the photographer squirting glowing magenta dye into the money pipes, every web, band and blocked branch shining in his picture -> pulmonary angiography (audited photographer)
+# a two-coloured glowing map with dark patches -> the ventilation-perfusion scan, the screening test
+# the cat's slices and the bat in the pink slide missing some stones -> CT and TOE (audited cat, bat); the brass horn -> lung function tests (audited brass horn)
+title: Pulmonary angiography is the gold standard for diagnosing CTEPH
+titleAr: تصوير الشرايين الرئويّة الظليل هو المعيار الذهبيّ لتشخيص ارتفاع الضغط الرئويّ الخثاريّ المزمن
+tags: cardiac/other d:diagnosis q:recall l:2
+palette: Sabaody bubble rainbow, magenta glow and studio black
+note: CT angiography and other imaging are used more and more, but the book names catheter pulmonary angiography as the gold standard.
+keywords: pulmonary angiography -> a photographer squirting glowing magenta dye into the pipes of green dollar bills and flashing his camera, every grey web, band and blocked branch shining in his picture; chronic thromboembolic pulmonary hypertension -> grey stone webs and bands inside the money pipes, the pressure gauge in the red; ventilation-perfusion scan -> a glowing two-coloured map of the money sacks with dark patches, held up by Robin; CT scan -> a cat slicing a loaf into thin slices, missing some of the small webs; transoesophageal echocardiography -> a bat sliding down inside the pink sofa slide behind the hotel, its rings missing the far branches; pulmonary function tests -> a brass horn blown as hard as possible for one second, a dial on its bell showing how much air came out
+must: only the photographer's picture shows every web and blocked branch clearly
+scene: A photo studio among the giant mangroves of Sabaody. CENTRE, dominant and brightest: a photographer squirting glowing magenta dye into the pipes of green dollar bills of a sailor's HART Hotel and flashing his camera; his picture, on a big screen, shows every grey web, band and blocked branch shining; the pressure gauge in the red. AROUND, dimmer: Robin holding up a glowing two-coloured map of the money sacks with dark patches; a cat slicing a loaf into thin slices; a bat sliding down a pink sofa slide behind the hotel; a brass horn blown hard, the dial on its bell turning. In a corner of the photo on the screen, the shadow of Chopper's antlers and blue nose. Usopp pointing at it in fright. Chopper, the little reindeer doctor, stamping his hoof.
+story:
+في استوديو تصوير بين أشجار المانغروف في ساباودي، جلس بحّار عدّاد أنبوب دولاراته في الأحمر، وفي أنابيبه حجارة رماديّة لا يراها أحد.
+فنفخ في بوق نحاسيّ بكلّ قوّته ثانيةً واحدة، فلم يقل قرص البوق إلّا إنّ النفس ضعيف.
+ورفعت روبين خريطةً مضيئةً بلونين، فيها بقع مظلمة لا يصلها المال، فعرفوا أنّ في الأنابيب شيئًا، ولم يعرفوا أين بالضّبط.
+«القطّة تكفي، أو الخفّاش!» قال أوسوب؛ فقطّعت القطّة الرغيف شرائح، ونزل الخفّاش في الزلّاقة الورديّة، فرأيا بعض الحجارة وفاتهما بعضها.
+عندها حقن المصوّر صبغه الأرجوانيّ المتوهّج في الأنابيب، وأطلق وميض آلته.
+فظهر في صورته كلّ حبل رماديّ، وكلّ شريط، وكلّ فرع مسدود، واضحًا كالنّهار.
+«صورة المصوّر وصبغه الأرجوانيّ هما الحكم الأخير!» قال تشوبر.
+فلمّا تأمّلوا الصورة على الشاشة الكبيرة، رأوا في زاويتها خيالًا عجيبًا بقرنين وأنف أزرق، فصاح أوسوب: وحش في الصورة!
+فضرب تشوبر الأرض بحافره غاضبًا، وصاح بما صاح به يومًا على جبل الثلج:
+quote: «أنا رنّة! لي قرنان، ولي حوافر، وأنفي أزرق!»
+source: توني توني تشوبر
+explanation:
+Pulmonary angiography is the gold standard for diagnosing CTEPH and for judging whether the disease can be removed surgically: C.
+In the picture, only the photographer's magenta dye shows every web, band and blocked branch in the money pipes.
+A ventilation-perfusion scan, the two-coloured map, is the best screening test: a normal scan practically rules CTEPH out, but it cannot show where the obstructions lie.
+CT angiography (the cat) and echocardiography (the bat) can miss webs and bands in the smaller branches, and pulmonary function tests (the brass horn) do not make the diagnosis.
+Memory hook: the photographer's picture is the final judge.
+
+== 224
+# book 45.4: CTEPH with suprasystemic pressures, PVR above 1000, both lower lobe arteries occluded, upper lobe webs -> D, proceed with surgery.
+# grey stones packing the money pipes, the gauge past the red, a tall stack of wooden blocks in the pipe -> operable CTEPH with very high PVR (audited gauge, wooden block)
+# ANSWER: Chopper slitting the pipes and scraping the stones out with a chimney sweep's scraper -> pulmonary endarterectomy (audited scraper)
+# Usopp's rat in a helmet, water pills and a six-month calendar -> medical therapy and waiting (A, B, C wrong) (audited rat)
+title: Operable CTEPH goes to surgery, however high the pressure
+titleAr: ارتفاع الضغط الرئويّ الخثاريّ المزمن القابل للجراحة يُجرى، مهما علا الضغط
+tags: cardiac/other d:indications q:vignette l:3
+palette: Foosha harbour blue, stone grey and gauge red
+keywords: chronic thromboembolic pulmonary hypertension -> grey stones and webs packing the patient's pipes of green dollar bills, both lower branches completely blocked, the pressure gauge pushed past the red; high PVR -> a tall stack of wooden blocks wedged inside the money pipe; medical therapy -> Usopp waving a rat in a soldier's helmet, bottles of water pills and a calendar set for six months at the stones; pulmonary endarterectomy -> Chopper slitting the money pipes open and scraping the grey stones out with a chimney sweep's scraper
+must: the scraper goes in although the gauge is past the red; Usopp's bottles and calendar are pushed aside
+scene: The harbour of Foosha Village. CENTRE, dominant and brightest: Chopper, the little reindeer doctor, slitting open the pipes of green dollar bills of a sailor's HART Hotel and scraping grey stones and webs out with a chimney sweep's scraper; both lower branches had been completely blocked; the pressure gauge is past the red, and a tall stack of wooden blocks wedged in the pipe is falling apart. LEFT: Usopp waving a rat in a soldier's helmet, bottles of water pills and a calendar set for six months, pushed aside. RIGHT: Shanks, a red-haired pirate captain with three scars over his left eye and a black cape, smiling.
+story:
+في ميناء قرية فوشا، جاء بحّار في الثامنة والأربعين، وأنابيب دولاراته محشوّة بحجارة رماديّة وحبال، وفرعاها السفليّان مسدودان تمامًا.
+وعدّاد ضغطها قد تجاوز الأحمر كلّه، وفي الأنبوب كومة عالية من المكعّبات الخشبيّة.
+«نخيف الحجارة بالجرذ ذي الخوذة، وبحبوب الماء، وبأدوية جديدة، وننتظر ستّة أشهر!» قال أوسوب، ولوّح بزجاجاته أمام الأنابيب.
+لكنّ الحجارة لم تتحرّك، فهي صخر لا يذوب، والعدّاد ظلّ يصعد.
+«إذن لا أمل فيه؛ ضغطه أعلى من أن يصلح!» قال أوسوب، وأراد أن يغلق الباب.
+فرفع تشوبر مكشطة منظّف المداخن، وشقّ الأنابيب طولًا، وكشط الحجارة والحبال قطعةً قطعة، حتّى انفتحت الفروع، وهبطت إبرة العدّاد.
+«الحجارة لا تخاف الزجاجات؛ المكشطة تخرجها، مهما ارتفع العدّاد!» قال تشوبر.
+وكان شانكس يتفرّج مبتسمًا، فربت على كتف أوسوب الّذي ما زال يلوّح بزجاجاته، وقال له ما قاله للّصوص يومًا في هذه القرية:
+quote: «المسدّسات ليست للتّهديد، إنّما هي للفعل!»
+source: شانكس
+explanation:
+Severe CTEPH with surgically accessible disease, here complete occlusion of both lower lobe arteries and webs in the upper lobe branches, should go to surgery: pulmonary endarterectomy: D.
+Suprasystemic pressures and a pulmonary vascular resistance above 1000 dyn.s/cm5 raise the risk of the operation but do not rule it out, because the obstruction that causes them can be removed.
+Anticoagulation, diuretics and pulmonary vasodilators cannot dissolve organised fibrous clot, the stones that do not fear the bottles, and waiting six months only lets the right ventricle fail further.
+Declining treatment would leave a patient whose outlook without surgery is very poor.
+Memory hook: the stones do not fear bottles; the scraper takes them out.
+
+== 225
+# book 45.5: technique of pulmonary endarterectomy -> C, median sternotomy, cardiopulmonary bypass and periods of deep hypothermic circulatory arrest.
+# the stern opened down its white centre line -> median sternotomy (audited stern); the roller-pump truck -> bypass (audited roller-pump)
+# ANSWER: the whole hotel frozen in an ice cube for twenty minutes at a time while Chopper scrapes the pipes dry -> periods of DHCA (audited ice cube, scraper)
+# water still pouring back from small side pipes under low flow or clamps -> bronchial back-bleeding (A, E wrong)
+title: Pulmonary endarterectomy: sternotomy, bypass and periods of circulatory arrest
+titleAr: استئصال بطانة الشرايين الرئويّة: شقّ القصّ والمجازة وفترات من توقّف الدوران
+tags: cardiac/other cardiac/cpb d:technique q:recall l:3
+palette: Alabasta desert gold, ice blue and stone grey
+keywords: median sternotomy -> the stern of the ship opened straight down a white centre line; cardiopulmonary bypass -> a big roller-pump truck parked beside the hotel, its hoses plugged into the chimney and the orca; deep hypothermic circulatory arrest -> the whole HART Hotel frozen inside one giant ice cube, the roller-pump truck switched off, an hourglass of twenty minutes running beside it; pulmonary endarterectomy -> Chopper scraping the grey stones out of the slit-open money pipes with a chimney sweep's scraper, down into their finest branches, in a clear dry field; bronchial back-bleeding -> water pouring back from small side pipes whenever the hotel is not frozen
+must: the scraping happens while everything is frozen in the ice cube, with the hourglass running
+scene: A ship moored at Alabasta, its stern opened straight down a white centre line. CENTRE, dominant and brightest: the whole HART Hotel frozen inside one giant ice cube, an hourglass of twenty minutes running beside it, while Chopper, the little reindeer doctor, scrapes grey stones out of the slit-open money pipes with a chimney sweep's scraper, down into their finest branches, the field clear and dry. LEFT: the big roller-pump truck, switched off; Usopp holding clamps, water pouring back from small side pipes in a second, unfrozen hotel. RIGHT: Bon Clay, a tall dancer in a swan-necked ballet coat, weeping with joy on his toes.
+story:
+في سفينة راسية عند ألاباستا، فتحت مؤخّرة السفينة على طول خطّها الأبيض، ودارت شاحنة المضخّة بجانب الفندق.
+وفي أنابيب الدولارات حجارة رماديّة تمتدّ إلى أدقّ الفروع، تنتظر المكشطة.
+«نخفّف جريان الماء قليلًا، ونكشط!» قال أوسوب؛ لكنّ الماء ظلّ يسيل على الأنابيب فلا يرى شيء.
+«إذن نشدّ الأنابيب بالملاقط!» قال ثانيةً؛ فانهمر الماء راجعًا من أنبوبات جانبيّة صغيرة، وغمر كلّ شيء.
+عندها جمّد تشوبر الفندق كلّه في مكعّب ثلج عملاق، وأطفأ شاحنة المضخّة، وقلب ساعةً رمليّةً لعشرين دقيقة.
+فجفّ المكان وصفا، فكشط الحجارة من الأنابيب حتّى أدقّ فروعها، ثمّ أذاب الثلج وأدار المضخّة، ثمّ جمّد من جديد.
+«مؤخّرة مفتوحة، وشاحنة المضخّة، ومكعّب الثلج عشرين دقيقةً بعد عشرين: هكذا تكشط الأنابيب جافّة!» قال تشوبر.
+وكان بون كلاي، الراقص ذو معطف البجع، قد جاء يعين صديقه، فرأى تشوبر يصنع في كلّ عشرين دقيقة عمل يوم كامل.
+فمسح دموعه بكمّه، ودار على رؤوس أصابعه، وقال كلمته عن الأصدقاء:
+quote: «تذكّر! مع الأصدقاء، ليس المهمّ كم من الوقت تقضي معهم، بل كيف تقضيه!»
+source: بون كلاي
+explanation:
+Pulmonary endarterectomy is done through a median sternotomy on cardiopulmonary bypass, with periods of deep hypothermic circulatory arrest during the endarterectomy: C.
+Circulatory arrest, the hotel frozen in the ice cube, stops the back-bleeding from the bronchial arteries, so the plane can be followed into the segmental and subsegmental branches in a dry field.
+Each period is limited to about 20 minutes, with reperfusion in between: the hourglass.
+Low flow, occlusion of the pulmonary arteries or a thoracotomy cannot give a bloodless field in both lungs: the water still pouring back from the side pipes.
+Memory hook: open the stern, freeze the hotel twenty minutes at a time, and scrape the pipes dry.
+
+== 226
+# book 46.1: NOT true about the morphology of HCM -> A, "the phenotype closely correlates with the genotype".
+# two brothers holding the SAME family recipe card, one with huge bodybuilder biceps on his party wall, the other's barely bulging -> same genotype, different phenotype (audited bodybuilder)
+# a small brick muscle bridge over the lad's slide -> LAD muscular bridging, about 15 percent (true) (audited muscle bridge, lad)
+title: In HCM the phenotype does not follow the genotype closely
+titleAr: في اعتلال العضلة الضخاميّ لا يتبع الشكلُ الجينَ بدقّة
+tags: cardiac/other d:pathology q:recall l:3
+palette: gym steel, mirror silver and Alvida pink
+keywords: hypertrophic cardiomyopathy -> the lower party wall swollen into the huge bulging biceps of a bodybuilder; same genotype -> two brothers each holding the same family recipe card; different phenotype -> one brother's party wall swollen into huge bodybuilder biceps, the other's barely bulging; LAD muscular bridging -> a small arching muscle bridge of red brick over the lad's slide on the front of the crown, squeezing it with each beat
+must: both brothers hold the SAME card, and their biceps are very different
+scene: The gym aboard Lady Alvida's ship. CENTRE, dominant and brightest: two brothers side by side, each holding the same family recipe card, each with a little HART Hotel on his chest: in one, the lower party wall has swollen into the huge bulging biceps of a bodybuilder; in the other it barely bulges. On the first brother's crown, a small arching muscle bridge of red brick squeezes the lad's slide. LEFT: Usopp measuring the two biceps with a tape. RIGHT: Lady Alvida, a pirate woman with an iron club, flexing in front of a big mirror. Chopper.
+story:
+في نادي الرياضة على سفينة ألفيدا، وقف أخوان من عائلة رافعي الأثقال، يحمل كلّ منهما بطاقة الوصفة نفسها، وصفة العائلة.
+في فندق الأوّل، انتفخ الجدار الفاصل السفليّ عضلةً عملاقةً كعضلة لاعب كمال الأجسام؛ وفي فندق الثاني لا يكاد ينتفخ.
+«الوصفة واحدة، إذن لا بدّ أن تكون العضلتان واحدة!» قال أوسوب، وقاس العضلتين بشريط.
+لكنّ الشريط أظهر عضلةً كالجبل، وأخرى كالتّلّ.
+«الوصفة واحدة، والعضلات مختلفة؛ فلا تعرف العضلة من البطاقة وحدها!» قال تشوبر.
+ثمّ أراهم تشوبر في فندق الأوّل جسرًا صغيرًا من الطوب الأحمر، يعبر فوق زلّاقة الفتى على وجه التاج، ويضغطها مع كلّ دقّة.
+وفي زاوية النادي، كانت ألفيدا تشدّ عضلاتها أمام المرآة الكبيرة، لا ترى أحدًا غير نفسها.
+فلمّا رأت الأخوين يتباهيان بعضلاتهما، التفتت إليهما بهراوتها، وسألتهما سؤالها الّذي لا تملّه:
+quote: «من أجمل امرأة في البحار كلّها؟»
+source: ألفيدا
+explanation:
+In hypertrophic cardiomyopathy the phenotype does not closely follow the genotype: the same mutation can cause severe hypertrophy in one relative and almost none in another: A.
+In the picture, two brothers hold the same family recipe card, yet one has huge biceps on his party wall and the other barely any.
+The other statements are true: up to a fifth of patients have anomalies of the papillary muscles, and coronary flow reserve is reduced.
+Coronary artery disease is present in 5 to 15 percent, and a muscular bridge over the LAD is found in about 15 percent: the brick bridge over the lad's slide.
+Memory hook: one recipe card, two very different biceps.
+
+== 227
+# book 46.2: histopathology and genetics of HCM -> D, it is a genetically diverse disease.
+# ANSWER: a long shelf of many DIFFERENT recipe books, every one of which can make a bodybuilder -> many genes and mutations (audited bodybuilder)
+# under Robin's magnifying glass, the fibres in a chaotic tangle -> myocyte disarray, not parallel sheets (A, B wrong)
+# a family tree of bodybuilders, father to half the sons -> mostly familial, autosomal dominant (C wrong)
+title: HCM is a genetically diverse disease
+titleAr: اعتلال العضلة القلبيّة الضخاميّ مرض متنوّع الجينات
+tags: cardiac/other d:pathology q:recall l:2
+palette: Ohara library amber, parchment cream and biceps red
+keywords: hypertrophic cardiomyopathy -> the lower party wall swollen into the huge bulging biceps of a bodybuilder; genetically diverse -> a long shelf of many different recipe books, every one of which can make a bodybuilder; myocyte disarray -> under Robin's magnifying glass, the biceps' fibres in a chaotic tangle of whorls, not neat parallel sheets; familial inheritance -> a family tree of bodybuilders on the wall, the biceps passing from fathers to half of their sons
+must: MANY different recipe books, all making bodybuilders; the fibres under the glass are a chaotic tangle
+scene: The great library of Ohara, amber light, towering shelves. CENTRE, dominant and brightest: a long shelf of many different recipe books, each open to a page that makes a bodybuilder; Nico Robin, the dark-haired archaeologist, holding a magnifying glass over a huge bulging biceps on a HART Hotel's lower party wall, its fibres a chaotic tangle of whorls. LEFT: a family tree of bodybuilders on the wall, father to half of the sons. RIGHT: Koby, a young pink-haired Marine with round glasses, taking notes; Usopp holding up a single book. Chopper.
+story:
+في مكتبة أوهارا العظيمة، فتحت روبين سجلّ عائلة كلّ رجالها لاعبو كمال أجسام، تنتفخ جدران فنادقهم عضلات عملاقة.
+«سببهم كلّهم كتاب وصفات واحد! أجده فينتهي اللغز!» قال أوسوب، ورفع كتابًا واحدًا.
+لكنّ روبين أنزلت من الرفوف كتب وصفات كثيرةً مختلفة، وكلّ كتاب منها يصنع لاعب كمال أجسام.
+ثمّ وضعت عدستها على العضلة، فإذا أليافها متشابكة في دوّامات فوضويّة، لا صفوف متوازية مرتّبة.
+وعلى الحائط شجرة العائلة: يرث العضلة نصف الأبناء عن الآباء، جيلًا بعد جيل.
+«كتب كثيرة مختلفة، لا كتاب واحد؛ وألياف متشابكة، وعضلات يرثها الأبناء!» قال تشوبر.
+وكان كوبي، البحّار الصغير ذو النظّارة المستديرة، يخشى أن يكون من هذه العائلة، فأخذ يدوّن كلّ ما سمع.
+فلمّا فهم، انحنى لروبين وتشوبر، وقال لهما ما قاله يومًا للوفي وزورو حين افترقوا:
+quote: «لقد علّمتماني ما كنت لأتعلّمه وحدي: كيف أعيش لما أومن به!»
+source: كوبي
+explanation:
+Hypertrophic cardiomyopathy is a genetically diverse disease: well over a thousand mutations in more than ten genes, mostly genes of the sarcomere, can cause it: D.
+In the picture, many different recipe books on the shelf all make bodybuilders.
+Under the microscope the hypertrophied fibres are in disarray, in disorganised whorls, not arranged in parallel sheets.
+Most cases are familial, inherited as an autosomal dominant trait, so half of a patient's children are at risk: the family tree.
+Genetic testing begins with the affected patient; relatives are tested for the mutation once one is found, and all first-degree relatives are screened clinically.
+Memory hook: many recipe books, tangled fibres, and a family tree.
+
+== 228
+# book 46.3: HCM results in -> B, left ventricular outflow tract obstruction.
+# the bodybuilder's biceps crowding the doorway, Uncle Sam yanking the mitre's front leaf into it -> LVOTO with SAM (audited bodybuilder, uncle sam)
+# the fan turning strongly -> systolic function preserved (A wrong); water spraying back BEHIND the mitre -> posteriorly directed MR (E wrong) (audited spraying back)
+title: HCM causes left ventricular outflow tract obstruction
+titleAr: اعتلال العضلة الضخاميّ يسدّ مخرج البطين الأيسر
+tags: cardiac/other d:physiology q:recall l:1 x:high-yield
+palette: Mock Town neon red, star-spangled blue and gold
+keywords: hypertrophic cardiomyopathy -> the lower party wall swollen into the huge bulging biceps of a bodybuilder, crowding the red room's doorway to the orca; left ventricular outflow tract obstruction -> Uncle Sam in his star-spangled top hat yanking the front leaf of the mitre forward into the orca's doorway, so the doorway is choked between the leaf and the biceps; preserved systolic function -> the engine room's fan still turning strongly; posteriorly directed mitral regurgitation -> water spraying back behind the mitre into the lobby
+must: the doorway is choked between the bodybuilder's biceps and the leaf Uncle Sam yanks; the fan still turns strongly
+scene: A rowdy tavern in Mock Town, neon red. The HART Hotel cut open. CENTRE, dominant and brightest: in the red engine room, the lower party wall swollen into a bodybuilder's huge bulging biceps crowding the doorway to the orca, while Uncle Sam in his star-spangled top hat yanks the front leaf of the bishop's mitre forward into the same doorway, choking it; water sprays back behind the mitre into the lobby; the engine room's fan still turns strongly. LEFT: Roronoa Zoro, the green-haired swordsman, with small scratches, picking himself up after being shoved back from the doorway. RIGHT: Usopp pointing at the fan. Chopper.
+story:
+في حانة صاخبة بمدينة موك تاون، كان باب غرفة المحرّك الحمراء يفضي إلى الحوت القاتل.
+لكنّ الجدار الفاصل السفليّ انتفخ عضلةً عملاقةً كعضلة لاعب كمال الأجسام، وزاحم الباب.
+ومع كلّ دفعة، يظهر العمّ سام بقبّعته المرصّعة بالنّجوم، فيشدّ الورقة الأماميّة لتاج الأسقف إلى الباب، فينخنق الباب بين الورقة والعضلة.
+«العلّة في المروحة؛ إنّها ضعيفة لا تدفع!» قال أوسوب.
+لكنّ المروحة كانت تدور بقوّة عجيبة، والماء محبوس عند الباب المخنوق، يرتدّ من خلف التاج إلى الردهة.
+«المروحة قويّة؛ العلّة في الباب المخنوق بين عضلة اللاعب ويد العمّ سام!» قال تشوبر.
+فحاول زورو أن يشقّ طريقه من الباب إلى الحوت، فدفعته العضلة إلى الوراء، وخرج بخدوش صغيرة.
+فضحك لاعب كمال الأجسام ساخرًا، فنهض زورو ينفض الغبار، وقال له ما قاله يومًا لمبارز استهان به في أورانج تاون:
+quote: «إن خسرت أمام مثلك بهذه الجروح البسيطة، فأيّ مستقبل ينتظرني؟»
+source: رورونوا زورو
+explanation:
+Hypertrophic cardiomyopathy causes left ventricular outflow tract obstruction: the thick septum narrows the outflow, and systolic anterior motion of the mitral valve closes it further: B.
+In the picture, Uncle Sam yanks the front leaf of the mitre into the doorway and chokes it against the bodybuilder's biceps.
+Systolic function is preserved or even vigorous, the strong fan; the trouble is stiffness in diastole and obstruction, not a weak pump.
+The hypertrophy is asymmetric, in the septum rather than the free wall, and there is no functional mitral stenosis.
+The mitral regurgitation caused by systolic anterior motion is directed posteriorly, behind the mitre, not centrally.
+Memory hook: a strong fan and a choked door: the bodybuilder's biceps and Uncle Sam's yank.
+
+== 229
+# book 46.4: surgical repair of HCM may include all EXCEPT -> B, incision of the ventricular wall below the commissure between the left and right coronary cusps (the book's key).
+# a sculptor chiselling a block out of the bulging septum through the orca's open mouth, starting under the lowest point of the right salsa bowl -> septal myectomy (audited chisel, salsa)
+# the trough carried deep toward the tip; a brick bridge lifted off the lad's slide; a spare mitre on the bench -> extended myectomy, LAD unroofing, mitral replacement (audited muscle bridge, lad, mitre)
+# ANSWER: Usopp's chalk line under the meeting point of the left and right salsa bowls, crossed out -> the book's exception
+title: Myectomy for HCM: the cut is not made below the left-right commissure
+titleAr: استئصال العضلة في الاعتلال الضخاميّ: لا يُشقّ تحت ملتقى الشرفتين الإكليليّتين اليمنى واليسرى
+tags: cardiac/other d:technique q:recall l:3
+palette: sculptor's marble white, chisel steel and biceps red
+note: Classic descriptions of the Morrow myectomy carry the trough leftward toward the commissure between the right and left coronary cusps; the book marks this option as the exception, and its key is kept as printed.
+keywords: septal myectomy -> a sculptor with a chisel carving a block out of the bulging lower party wall through the orca's open mouth, starting under the lowest point of the right salsa bowl; extended myectomy -> the trough cut by the sculptor's chisel carried deep down toward the tip of the engine room; unroofing of the LAD -> the sculptor lifting a small muscle bridge of red brick off the lad's slide; mitral valve replacement -> a spare bishop's mitre waiting on the sculptor's bench; incision below the left-right commissure -> Usopp's chalk line under the meeting point of the left and right salsa bowls, crossed out with a big X
+must: the chalk line under the meeting point of the left and right bowls is crossed out; the chisel starts under the lowest point of the right bowl
+scene: An old sculptor's workshop in Water 7, marble dust in the light. CENTRE, dominant and brightest: an old sculptor, working through the orca's open mouth, chiselling a block out of a bodybuilder's bulging biceps on the lower party wall, his trough starting under the lowest point of the right salsa bowl and running deep toward the tip of the engine room; a small brick muscle bridge just lifted off the lad's slide; a spare bishop's mitre waiting on the bench. LEFT: Usopp's chalk line under the meeting point of the left and right salsa bowls, crossed out with a big X. RIGHT: Roronoa Zoro, the green-haired swordsman, his three swords laid on the floor, bowing deeply to the sculptor. Chopper.
+story:
+في ورشة نحّات عجوز بووتر سيفن، كان الجدار الفاصل السفليّ في فندق قد انتفخ عضلة لاعب كمال أجسام.
+فدخل النحّات من فم الحوت المفتوح، وبدأ بإزميله تحت أدنى نقطة من طبق الصلصة الأيمن، فقطع من العضلة كتلةً، ثمّ مدّ الشقّ عميقًا نحو طرف الغرفة.
+ثمّ رفع عن زلّاقة الفتى جسرًا صغيرًا من الطوب كان يخنقها، ووضع إلى جانبه تاج أسقف جديدًا، إن احتاج إليه.
+«وأشقّ أنا هنا أيضًا، تحت ملتقى الطبقين الأيمن والأيسر!» قال أوسوب، ورسم بالطّباشير خطًّا هناك.
+فشطب النحّات خطّ الطباشير بعلامة كبيرة، وأبعد يد أوسوب عنه.
+«كتلة من العضلة، وشقّ نحو الطرف، وجسر يرفع، وتاج جديد عند الحاجة؛ أمّا خطّ أوسوب، فليس من عمل النحّات!» قال تشوبر.
+وكان زورو يراقب ضربات الإزميل الدقيقة مبهورًا، لا تفوته منها شعرة.
+فوضع سيوفه الثلاثة على الأرض، وانحنى أمام النحّات العجوز كما انحنى يومًا أمام أقوى سيّاف في العالم، وقال:
+quote: «أرجوك، علّمني فنّ السيف!»
+source: رورونوا زورو
+explanation:
+In the book's description of surgery for hypertrophic cardiomyopathy, an incision of the ventricular wall below the commissure between the left and right coronary cusps is the step that is not part of the repair: B.
+The myectomy, the sculptor's block, is begun through the aortic valve beneath the nadir of the right coronary cusp, and the trough is extended toward the apex when the obstruction lies low.
+When the LAD runs under a muscular bridge it can be unroofed, the brick bridge lifted off the lad's slide, and the mitral valve is replaced when it cannot be repaired.
+Memory hook: a block from the biceps, a trough toward the tip, a bridge lifted and a spare mitre; Usopp's chalk line is crossed out.
+
+== 230
+# book 46.5: results after surgery for HCM -> C, relief of symptoms in over 90 percent.
+# ANSWER: nine of ten patients dancing out breathing freely after the sculptor's work -> symptom relief over 90 percent (audited chisel)
+# a coffin smaller than a thimble -> operative mortality under 1 percent (A wrong) (audited coffin)
+# grey-bearded old men playing chess -> long-term survival like the general population (D wrong)
+title: After myectomy for HCM, over 90 percent are relieved of symptoms
+titleAr: بعد استئصال العضلة في الاعتلال الضخاميّ يرتاح أكثر من 90 في المئة من الأعراض
+tags: cardiac/other d:evidence q:numbers l:2
+palette: Syrup Village mansion white, dance-floor gold and garden green
+words: 9
+note: Results come from experienced centres; the numbers here are the book's.
+keywords: septal myectomy -> the trough cut by the sculptor's chisel in each patient's bulging party wall; relief of symptoms in over 90 percent -> nine of ten patients dancing out of the hall breathing freely, only one still panting; operative mortality under 1 percent -> a coffin smaller than a thimble, forgotten in a corner; long-term survival like the general population -> grey-bearded old men, operated on long ago, playing chess in the garden like any old men
+must: nine of the ten dance out freed; the coffin is thimble-sized
+scene: Kaya's white mansion in Syrup Village. CENTRE, dominant and brightest: nine of ten patients dancing out of the hall breathing freely, each with a little HART Hotel on his chest whose bulging party wall shows the sculptor's chiselled trough; only one still panting by the door; 9 painted on the hall's banner. CORNER: a coffin smaller than a thimble, forgotten. GARDEN: grey-bearded old men playing chess. RIGHT: Nico Robin, the dark-haired archaeologist, climbing the stairs without panting, smiling slyly at the cheering crew. Usopp holding a big coffin, embarrassed. Chopper.
+story:
+في قصر كايا الأبيض بقرية سيروب، اجتمع عشرة بحّارة، نحت النحّات قبل سنوات كتلةً من عضلة الجدار في فندق كلّ منهم.
+«لا بدّ أنّ نصفهم ما زالوا يلهثون، وأنّ بعضهم قد مات!» قال أوسوب، وحمل تابوتًا كبيرًا.
+لكنّ تسعةً من العشرة رقصوا في البهو يتنفّسون بحرّيّة، ولم يلهث إلّا واحد.
+وأمّا التابوت، فلم يجدوا منه إلّا تابوتًا أصغر من كشتبان، منسيًّا في زاوية.
+وفي الحديقة، جلس من نحتوا قبل عشرين سنةً شيوخًا بلحًى بيضاء، يلعبون الشطرنج كأيّ شيوخ في القرية.
+«تسعة من كلّ عشرة يرتاحون، والتّابوت أصغر من كشتبان، ويشيخون كغيرهم!» قال تشوبر.
+وكانت روبين قد أبت العمليّة سنوات، ثمّ رضيت بها أخيرًا، وهي الآن تصعد الدرج دون أن تلهث.
+فلمّا صفّق لها الطاقم مبتهجًا، ابتسمت بمكر، وقالت لهم مازحةً ما صرخت به فيهم يومًا في إينيس لوبي:
+quote: «لم أطلب منكم أن تنقذوني!»
+source: نيكو روبين
+explanation:
+After surgical myectomy for hypertrophic cardiomyopathy, symptoms are relieved in over 90 percent of patients: C.
+In the picture, nine of ten patients dance out breathing freely.
+Operative mortality in experienced centres is below 1 percent, not 5, the coffin smaller than a thimble, and complete heart block needing a pacemaker is uncommon.
+Long-term survival after myectomy is similar to that of the general population: the grey-bearded chess players.
+New left bundle branch block is common after myectomy, while alcohol septal ablation more often causes right bundle branch block and needs a pacemaker more often.
+Memory hook: nine of ten breathe freely, and the coffin is smaller than a thimble.
