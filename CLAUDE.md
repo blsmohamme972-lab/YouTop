@@ -223,7 +223,9 @@ under `book/chapter/lesson` on their phone.
 - The picture is never zoomed or cropped; only a spotlight moves over it, in step with the voice.
 - Since 2026-11-22 a number in a picture is drawn, never written, with one recurring symbol per digit and a golden
   drop for the decimal point (`content/symbols.md`, "Numbers"): each sounds like its digit in Arabic, holds it and
-  looks like it. The owner asked for exactly this ("visual numbers that sound like them, never lost from mind").
+  looks like it. They are small, as a tattoo, a painting on a wall or a design on an object in the scene, the digits
+  side by side, left to right. The owner asked for exactly this ("visual numbers that sound like them, never lost
+  from mind"; "a drawing on a wall that has meaning, or a tattoo on a hand ... not taking a big space").
 - Since 2026-11-22 every lesson carries at least three recurring symbols from `content/symbols.json`, named in its
   keywords and drawn (the hotel and its rooms do not count); the tools refuse a new prompt with fewer.
 - The Arabic story is a real story with no medical explanation in it; the science is in the

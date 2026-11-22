@@ -76,11 +76,14 @@ MedCosmos Cardiac (lessons 1-20 are the first set written to them) onwards.
    **Numbers (since 2026-11-22, the owner): a number the answer depends on is drawn, never written,** with the
    number symbols (`content/symbols.md`, "Numbers"): 0 golden whistle, 1 white unicorn, 2 green dragon, 3 red fox
    with three tails, 4 graduation cap, 5 blue hamsa hand, 6 the Sitt in a golden gown, 7 swimmer, 8 violin, 9 monkey
-   hanging by its tail, decimal point = golden drop. The story names the digits in order by their Arabic names
-   (الصفّارة، وحيد القرن، التنّين، الثعلب، القبّعة، الخمسة، الستّ، السبّاح، الكمان، السعدان، النقطة); the picture
-   draws the first digit biggest, then smaller; a repeated digit twice; the number sits on the symbol of what it
-   measures. `keywords:` `number 5.5 (what it measures) -> the objects in digit order`, checked by `symbols.py
-   check`; a number counts as one recurring symbol. Never use these eleven objects for anything else.
+   hanging by its tail, decimal point = golden drop. **Small**, as a drawing that belongs in the scene: a tattoo on a
+   hand or arm, a painting on a wall, or a design painted, carved or printed on an object (best on the thing whose
+   value it gives); clear, harmonious with the picture, never a big object. The digits side by side, the same size,
+   left to right; a repeated digit twice. The story names the digits in order by their Arabic names
+   (الصفّارة، وحيد القرن، التنّين، الثعلب، القبّعة، الخمسة، الستّ، السبّاح، الكمان، السعدان، النقطة).
+   `keywords:` `number 5.5 (what it measures) -> a small tattoo on ...: the objects in digit order`, checked by
+   `symbols.py check` (digits in order, and where it is drawn); a number counts as one recurring symbol. Never use
+   these eleven objects for anything else.
 
 Before handing over a prompt, read it against the five rules: does every element interact? Has every
 abstract term of the answer a concrete keyword? Is the answer the brightest, largest thing? Is

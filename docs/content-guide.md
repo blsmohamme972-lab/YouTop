@@ -150,18 +150,23 @@ for the decimal point (`content/symbols.md`, "Numbers"): 0 a golden whistle (ص�
 Hamsa hand (خمسة), 6 the Sitt in her golden gown (الستّ), 7 a swimmer diving (سبّاح), 8 a violin (كمان), 9 a monkey
 hanging by its tail (سعدان), and the golden drop (نقطة). Each one sounds like its digit in Arabic, holds it (one
 horn, two wings, three tails, four corners, five fingers) and looks like it, so any one of the three brings back the
-others. To make a number:
-- the story names the digits in order, by those Arabic names (the sound is the hook, so the narrator must say them);
-- the picture draws the first digit biggest and each next one smaller; a repeated digit is drawn twice (55 = two
-  Hamsa hands); the golden drop sits between the whole and the fraction (5.5 = Hamsa, drop, smaller Hamsa);
-- the number sits on the symbol of what it measures (worn, held or carried by it: the orca wearing 5.5), so the two
-  are remembered together; units are never drawn, the explanation gives them;
+others. How a number appears (the owner's words: "a drawing on a wall that has meaning, or a tattoo on a hand, or a
+drawing on one of the picture's elements; very clear, harmonious, and not taking a big space"):
+- **small**, as a drawing that belongs in the scene: a tattoo on a hand or arm, a painting on a wall (a mural, a shop
+  sign, graffiti), or a design painted, carved, printed or embroidered on an object, best on the thing whose value it
+  gives (painted on the orca's side for an aortic size). In the picture's own style and colours, crisp and easy to
+  read, never competing with the focal point;
+- the digits side by side, the same size, left to right as a number is written; a repeated digit drawn twice (55 =
+  two Hamsa hands); the golden drop set low between the whole and the fraction (5.5 = Hamsa, drop, Hamsa);
+- the story names the digits in order, by those Arabic names, and where they are drawn (the sound is the hook, and
+  the order never depends on the picture alone); units are never drawn, the explanation gives them;
 - one number per picture, two at most: the one the answer turns on.
 
-In `keywords:` write `number 5.5 (aortic size for surgery, cm) -> a big blue hamsa hand, a golden drop and a smaller
-blue hamsa hand on the orca's back`. `symbols.py check` (and so `batch.py prompts`) refuses a number whose digits are
-missing or out of order; a repeated digit may be named once with its count ("two hamsa hands"). A number counts as
-one of the lesson's three recurring symbols, however many digits it has.
+In `keywords:` write `number 5.5 (aortic size for surgery, cm) -> a small tattoo on the sailor's wrist: a blue hamsa
+hand, a golden drop and a blue hamsa hand`. `symbols.py check` (and so `batch.py prompts`) refuses a number whose
+digits are missing or out of order, or that does not say where it is drawn (tattoo, painting, carved, printed...); a
+repeated digit may be named once with its count ("two hamsa hands"). The prompt asks for numbers as small, neat
+drawings, never written digits. A number counts as one of the lesson's three recurring symbols, however many digits it has.
 
 ### Step 4 — quotations
 

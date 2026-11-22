@@ -244,16 +244,24 @@ def image_prompt(cfg, b):
               if words else "No written text, letters or numbers anywhere in the image. ")
     # Only the objects go into the prompt ("term -> object (why)" keeps the right-hand side, without the why):
     # medical words in a prompt tempt the generator to draw anatomy or write text.
-    objects = []
+    import symbols
+    objects, numbers = [], []
     for part in b.get("keywords", "").split(";"):
-        part = re.split(r"->|→", part)[-1]
+        pieces = re.split(r"->|→", part)
+        is_number = len(pieces) > 1 and symbols.number_term(pieces[0].strip()) is not None
+        part = pieces[-1]
         part = re.sub(r"\([^)]*\)|\"[^\"]*\"|“[^”]*”", "", part)
         part = re.sub(r"\s+", " ", re.sub(r"\s*,\s*,", ",", part)).strip().strip(",").strip().rstrip(".")
         # Capitals mark the sound-alike for the writer; in a prompt they tempt the generator to letter the word.
         part = re.sub(r"\b\w*[A-Z]{2,}\w*\b", lambda m: m.group(0).lower(), part)
         if part:
-            objects.append(part)
+            (numbers if is_number else objects).append(part)
     keywords = "; ".join(objects)
+    # Numbers are small drawings, never big objects and never written digits (the owner, 2026-11-22).
+    number_text = ("Numbers appear only as small drawings of little characters, never as written digits: " + "; ".join(numbers) +
+                   ". Each is a small, neat drawing in the picture's own style and colours, its little characters crisp, simple and "
+                   "easy to tell apart, the same size, side by side from left to right in the order given; it takes only a small "
+                   "part of the picture and never competes with the focal point. ") if numbers else ""
     folder = cfg.get("imagesFolder")
     where = (f"Save the image with the file name {b['n']} and upload it to: https://drive.google.com/drive/folders/{folder}"
              if folder else f"Save the image with the file name {b['n']}.")
@@ -270,7 +278,7 @@ def image_prompt(cfg, b):
              f"{keywords}. " if keywords else "") +
             "Every object must be visually meaningful, distinctive and easy to recall, and all of them must be linked by "
             "physical interaction and cause-and-effect inside this one scene. No literal anatomy, no organs, no medical "
-            "equipment, no unrelated objects. " + labels +
+            "equipment, no unrelated objects. " + number_text + labels +
             (f"These details matter most and must be painted exactly as stated: {b['must'].strip().rstrip('.')}. " if b.get("must") else "") +
             where)
 

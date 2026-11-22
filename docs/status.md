@@ -31,15 +31,21 @@ with three tails (ثعلب), 4 square graduation cap (قبّعة مربّعة), 
 drop (نقطة) for the decimal point. Each joins three hooks: its Arabic name sounds like the digit, it holds the number
 (one horn, two wings, three tails, four corners, five fingers) and it looks like the digit. Each was checked against
 the 409 objects already used (the egg, lion, swan, octopus, trident, tennis, balloon, ring and coin were taken).
-- Rules (skill rule 5, `docs/content-guide.md`, CLAUDE.md decisions): the story names the digits in order by their
-  Arabic names; the picture draws the first digit biggest, then smaller; a repeated digit twice; the golden drop is
-  the point; the number sits on the symbol of what it measures; units are not drawn.
-- Tools: `keywords:` `number 5.5 (what) -> objects in digit order`; `symbols.py check` (and `batch.py prompts`)
-  refuses missing or out-of-order digits (a repeat may be named once with its count: "two hamsa hands"); a number
-  counts as one of the three recurring symbols. Tested by hand on 14 cases.
+- **How they appear (the owner, same evening): "in the picture the numbers are a drawing on a wall that has meaning,
+  or a tattoo on a hand, or a drawing on one of the picture's elements, very clear and harmonious, and not taking a
+  big space".** So: small drawings that belong in the scene (tattoo, wall painting or sign, a design painted, carved
+  or printed on an object, best on the thing whose value it gives), the digits side by side, the same size, left to
+  right; a repeated digit twice; the golden drop low between whole and fraction; the story names the digits in order
+  by their Arabic names; units are not drawn. (The first version, "first digit biggest", is gone.)
+- Tools: `keywords:` `number 5.5 (what) -> a small tattoo on ...: objects in digit order`; `symbols.py check` (and
+  `batch.py prompts`) refuses missing or out-of-order digits and a number that does not say where it is drawn (a
+  repeat may be named once with its count: "two hamsa hands"); `batch.py`'s prompt puts numbers in their own sentence
+  (small, neat, crisp, the same size, left to right, never written digits) instead of among the big objects; a
+  number counts as one of the three recurring symbols. Tested by hand.
 - For the owner: a learning page with the eleven characters, their hooks, the rules with real thresholds (5.5, 10,
   0.8, 480, 2.5), the 0-9 parade story in Arabic and a practice game: https://claude.ai/artifact/LpfpkXnsbQUFQxmEQmjR3i
-  Optional portrait prompts: `drafts/number-symbols-prompts-2026-11-22.txt` (not needed for lessons).
+  Optional prompts for one small emblem of each character (tattoo-design style): `drafts/number-symbols-prompts-2026-11-22.txt`
+  (not needed for lessons).
 - Not yet used in any lesson. Lessons already published are unchanged.
 - **Open from the app (not done yet):** three Redo notes, issues #111 (JH 84 picture), #113 (Shahzad 72: a new idea
   for the whole picture), #115 (MedCosmos 67: "the mixers are better on top of the building").
