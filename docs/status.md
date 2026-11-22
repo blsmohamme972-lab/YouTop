@@ -20,7 +20,7 @@ wrong, write what should change). They reach the agent as GitHub issues titled `
 the start of every session** (CLAUDE.md, "Lesson feedback from the app"). Not tested on a real phone; the owner must be
 signed in to GitHub in the phone's browser for "Create" to work.
 
-## HANDOFF (2026-11-22, late): VOICES RECORDED AND KEPT ON GITHUB; 51 PICTURES PUBLISHED; start here
+## HANDOFF (2026-11-22, late): EVERY MISSING VOICE RECORDED (340 Johns Hopkins + 5 MedCosmos) AND KEPT ON GITHUB; 51 PICTURES PUBLISHED; start here
 
 **Recorded voices are no longer lost with the container.** `voice.py make` now writes every track it records, with its
 timings, to `.content-work/work/<book>/recorded/` (`<lesson id>-story.json` + the `.m4a`, same for `-explanation`), and
@@ -34,9 +34,9 @@ publish `--complete-only`.** Nothing needs recording again unless a story or exp
   known" before), temporary files are per process, so several `make` runs can work at once (each in its own `--folder`
   copy, one shared `--store`), and `check --threads N`. Recording now takes about 15 seconds a lesson.
 - **Recorded this session (2026-11-22), saved under `work/johns-hopkins-2016/recorded/` and
-  `work/medcosmos-cardiac/recorded/` on `content`:** Johns Hopkins **174 of the 340 lessons that were unpublished** (11, 14, 23, 26, 31, 36, 38, 54, 59, 64-65, 76, 80-81, 90, 92, 98-99, 101-247, 251-255, 261-264); **not yet: 248-250, 256-260, 265-422**. MedCosmos 0 of 5 (); not yet: 111, 123, 125, 128, 149.
-- `voice.py check` (speech recogniser) of every recorded batch: 10 of 44 batches checked so far, 1 sentence(s) flagged (batches 0071-0080 (1)).
-  - JH 80 story S11 (the quotation «الون بيس... إنّه موجود!»): heard only "إنه موجود" in context; cut out and transcribed alone it is heard whole: false alarm.
+  `work/medcosmos-cardiac/recorded/` on `content`:** Johns Hopkins **340 of the 340 lessons that were unpublished** (11, 14, 23, 26, 31, 36, 38, 54, 59, 64-65, 76, 80-81, 90, 92, 98-99, 101-422); none left. MedCosmos 5 of 5 (111, 123, 125, 128, 149).
+- `voice.py check` (speech recogniser) of every recorded batch: all 44 batches checked, 25 sentences flagged (batches 0071-0080 (1), 0111-0120 (2), 0141-0150 (2), 0151-0160 (2), 0161-0170 (2), 0171-0180 (2), 0231-0240 (1), 0251-0260 (1), 0271-0280 (2), 0321-0330 (2), 0341-0350 (1), 0361-0370 (3), 0371-0380 (1), 0391-0400 (1), 0411-0420 (1), 0121-0130 (1)).
+  - All 25 flagged sentences were cut out of their recording and transcribed alone (ffmpeg at the kept timings, then faster-whisper; the four with a phrase said twice also in two halves): every one is spoken whole and right; none needs recording again. Why they were flagged: numbers written as digits by the recogniser (JH 154, 164, 276, MedCosmos 128 "مئة وثمانية وأربعون" = "108 و40" = 148), a phrase said twice heard once (JH 155, 180, 274 "القراصنة قادمون!" x2, JH 233 "يطنّ ويطنّ"), names and invented words (JH 80, 113, 148, 149, 168, 174, 369, 374 Nicks/Manouguian/Konno), short proverbs and cries in a character's voice heard roughly but with every syllable there (JH 120, 256, 327, 328, 346, 361, 364, 400, 418).
 
 **Pictures (the owner uploaded 51 Johns Hopkins pictures on 2026-11-22, 10:32-11:06 UTC, after the new prompts):**
 - **16 new lessons published complete** (picture, spots, circles, recorded voice): 14, 23, 26, 31, 36, 38, 54, 59, 64,
