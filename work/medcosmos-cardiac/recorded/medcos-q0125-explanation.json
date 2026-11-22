@@ -1,0 +1,17 @@
+{
+ "file": "medcos-q0125-explanation-en.m4a",
+ "sig": "a6924c050f7daf85d011752ee91b60f3d050250c74bf47909ccf26a8d5902f5f",
+ "starts": [
+  0,
+  6108,
+  14557,
+  20519
+ ],
+ "seconds": 33.4,
+ "texts": [
+  "The book calls this patient's lesion aortic insufficiency, now with profound heart failure.",
+  "Diuresis with furosemide and venodilation with nitroglycerin are appropriate medical measures: statement C is true.",
+  "Valve replacement is necessary: statement D is true, so C and D are the answer.",
+  "Peripheral vasodilators are useful in aortic regurgitation, not contraindicated, and the intra-aortic balloon pump is contraindicated, because diastolic inflation worsens the regurgitation."
+ ]
+}

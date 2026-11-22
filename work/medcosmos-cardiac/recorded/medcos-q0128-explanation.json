@@ -1,0 +1,17 @@
+{
+ "file": "medcos-q0128-explanation-en.m4a",
+ "sig": "a9c4e042ef832189f8124916c9094e7c8c803132eb487411158e117c48e3de76",
+ "starts": [
+  0,
+  11151,
+  19911,
+  27991
+ ],
+ "seconds": 34.9,
+ "texts": [
+  "An early diastolic murmur, a wide pulse pressure of 148/45 mmHg and heart failure point to chronic aortic regurgitation.",
+  "The left ventricle dilates enormously, so the chest film shows cor bovinum, a huge heart: A is the answer.",
+  "The apical diastolic rumble is the Austin Flint murmur, not the Gallavardin phenomenon, which belongs to aortic stenosis.",
+  "A carotid shudder belongs to aortic stenosis, and a pulsatile liver to tricuspid regurgitation."
+ ]
+}
