@@ -10569,6 +10569,5020 @@
      "means": "Weak pumping"
     }
    ]
+  },
+  {
+   "id": "jh-q0170",
+   "title": "Ischaemic mitral regurgitation: the lateral annulus moves less",
+   "titleAr": "القصور التاجيّ الإقفاريّ: تقلّ حركة الحلقة في جانبها الخارجيّ",
+   "tags": [
+    "cardiac/mitral-tricuspid",
+    "d:pathology",
+    "q:recall",
+    "l:3"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في قلعة ثريلر بارك المظلمة، أصاب سهم أيّل الفندق القديم من الخلف.",
+       "t": 0,
+       "spot": {
+        "x": 0.09,
+        "y": 0.49,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فصار طوق تاج الأسقف النحاسيّ ينقبض مع كلّ دفعة، إلّا جانبه الخارجيّ، فقد تجمّد بالجليد لا يتحرّك.",
+       "t": 6229,
+       "spot": {
+        "x": 0.45,
+        "y": 0.25,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "وشدّت أوتار القيثارة ورقتي التاج إلى أسفل، فصارتا خيمةً عميقةً لا تلتقي حافّتاها.",
+       "t": 15239,
+       "spot": {
+        "x": 0.45,
+        "y": 0.45,
+        "r": 0.22
+       }
+      },
+      {
+       "text": "«العمود هو السبب، ذلك العمود الكسلان وحده!» قال أوسوب، وأشار إلى عمود أحمر رخو في فندق مجاور.",
+       "t": 22724,
+       "spot": {
+        "x": 0.85,
+        "y": 0.48,
+        "r": 0.13
+       }
+      },
+      {
+       "text": "فقادهم فرانكي إلى ذلك الفندق، فإذا عموده رخو حقًّا، لكنّ تاج الأسقف فيه ينطبق انطباقًا تامًّا.",
+       "t": 32103,
+       "spot": {
+        "x": 0.87,
+        "y": 0.25,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "«ليس العمود وحده؛ إنّه الطوق الّذي تجمّد جانبه الخارجيّ، والتّاج الّذي صار خيمة!» قال تشوبر.",
+       "t": 40865,
+       "spot": {
+        "x": 0.45,
+        "y": 0.35,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "وفي تلك اللحظة طاف شبح أبيض صغير من أشباح بيرونا خلال العمود الرخو الّذي اتّهموه ظلمًا.",
+       "t": 48990,
+       "spot": {
+        "x": 0.91,
+        "y": 0.52,
+        "r": 0.06
+       }
+      },
+      {
+       "text": "فانحنى العمود حزينًا، وأنّ الأنين الّذي يئنّه كلّ من عبرته تلك الأشباح:",
+       "t": 56176,
+       "spot": {
+        "x": 0.85,
+        "y": 0.48,
+        "r": 0.13
+       }
+      },
+      {
+       "text": "«آسف لأنّني ولدت!»",
+       "quote": "ون بيس، ضحايا أشباح بيرونا",
+       "t": 63087
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0170-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "In ischaemic mitral regurgitation the annulus moves less, above all its lateral and posterior part next to the infarct, the collar frozen along its outer side: A.",
+       "t": 0,
+       "spot": {
+        "x": 0.45,
+        "y": 0.25,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "The infarcted wall pulls the papillary muscles outward, the chords tether the leaflets into a tent, and the coaptation depth increases rather than decreases.",
+       "t": 11787,
+       "spot": {
+        "x": 0.45,
+        "y": 0.45,
+        "r": 0.22
+       }
+      },
+      {
+       "text": "Isolated papillary muscle dysfunction, the limp pillar in the next hotel, causes little regurgitation on its own: the ventricular wall and annulus must be distorted too.",
+       "t": 21908,
+       "spot": {
+        "x": 0.85,
+        "y": 0.48,
+        "r": 0.13
+       }
+      },
+      {
+       "text": "It is systolic, not diastolic, dysfunction of the inferior wall that leads to ischaemic regurgitation.",
+       "t": 33706,
+       "spot": {
+        "x": 0.09,
+        "y": 0.49,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "Memory hook: the collar freezes along its side, the leaves are pulled into a tent, and the lonely limp pillar is innocent.",
+       "t": 40413,
+       "spot": {
+        "x": 0.45,
+        "y": 0.35,
+        "r": 0.28
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0170-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which is correct in IMR?",
+     "options": [
+      "There is decreased motion of the lateral annulus.",
+      "Isolated papillary muscle d ysfunction typically causes substantial MR.",
+      "Diastolic dysfunction of the inferior wall is the prerequisite lesion for clinical IMR.",
+      "IMR results in decreased coaptation depth.",
+      "Valvular tenting is not present in IMR."
+     ],
+     "answer": 0,
+     "explain": "In ischaemic mitral regurgitation the annulus moves less, above all its lateral and posterior part next to the infarct, the collar frozen along its outer side: A. The infarcted wall pulls the papillary muscles outward, the chords tether the leaflets into a tent, and the coaptation depth increases rather than decreases. Isolated papillary muscle dysfunction, the limp pillar in the next hotel, causes little regurgitation on its own: the ventricular wall and annulus must be distorted too. It is systolic, not diastolic, dysfunction of the inferior wall that leads to ischaemic regurgitation. Memory hook: the collar freezes along its side, the leaves are pulled into a tent, and the lonely limp pillar is innocent.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q34.5",
+     "marks": [
+      2,
+      4
+     ],
+     "answerMarks": [
+      1
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0170.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.61,
+      "y": 0.16,
+      "r": 0.08
+     },
+     "what": "Ice freezing the collar's side",
+     "means": "Lateral annulus moves less (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.45,
+      "y": 0.47,
+      "r": 0.18
+     },
+     "what": "Mitre leaves pulled into a tent",
+     "means": "Leaflets tethered into a tent"
+    },
+    {
+     "spot": {
+      "x": 0.15,
+      "y": 0.18,
+      "r": 0.13
+     },
+     "what": "Harp strings pulling down",
+     "means": "Chordae pulled by the infarcted wall"
+    },
+    {
+     "spot": {
+      "x": 0.09,
+      "y": 0.47,
+      "r": 0.1
+     },
+     "what": "Stag shot from behind",
+     "means": "Inferior-posterior infarction"
+    },
+    {
+     "spot": {
+      "x": 0.85,
+      "y": 0.48,
+      "r": 0.11
+     },
+     "what": "Limp red pillar next door",
+     "means": "Papillary muscle alone: little leak"
+    },
+    {
+     "spot": {
+      "x": 0.87,
+      "y": 0.1,
+      "r": 0.08
+     },
+     "what": "Next-door mitre closing well",
+     "means": "Competent valve despite it"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0171",
+   "title": "Mitral stenosis with thick leaflets and short, fibrosed chords, unfit for a balloon: replace the valve",
+   "titleAr": "تضيّق التاجيّ مع وريقات ثخينة وحبال ليفيّة قصيرة لا يصلح لها البالون: تبديل الصمّام",
+   "tags": [
+    "cardiac/mitral-tricuspid",
+    "d:indications",
+    "q:vignette",
+    "l:2"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "على جزيرة فيها برج يصعد درجه إلى الغيوم، صعدت بحّارة في الخامسة والخمسين درجةً واحدة، فوقفت تلهث.",
+       "t": 0,
+       "spot": {
+        "x": 0.06,
+        "y": 0.62,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "وفي صدرها فندق صغير، قد تحجّر فيه تاج الأسقف، فلا ينفتح إلّا شقًّا ضيّقًا، وورقتاه غليظتان.",
+       "t": 9621,
+       "spot": {
+        "x": 0.53,
+        "y": 0.18,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "وتحته أوتار القيثارة قد تليّفت، فصارت غليظةً قصيرةً تشدّ الورقتين إلى أسفل.",
+       "t": 19133,
+       "spot": {
+        "x": 0.5,
+        "y": 0.38,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "«ننفخ فيه بالونًا على خيط فيتّسع!» قال أوسوب، ودفع بالونًا أحمر كبيرًا على خيط صيد نحو التاج.",
+       "t": 26923,
+       "spot": {
+        "x": 0.3,
+        "y": 0.35,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "لكنّ البالون ارتدّ عن الحجر كأنّه يرتطم بصخرة، ولم يتّسع الشقّ شعرةً واحدة.",
+       "t": 36038,
+       "spot": {
+        "x": 0.42,
+        "y": 0.26,
+        "r": 0.07
+       }
+      },
+      {
+       "text": "«الحجر غليظ، والأوتار قصيرة، فلا ينفع البالون!» قال تشوبر.",
+       "t": 43194,
+       "spot": {
+        "x": 0.63,
+        "y": 0.77,
+        "r": 0.09
+       }
+      },
+      {
+       "text": "فرفع فرانكي التاج الحجريّ من مكانه بذراعيه الحديديّتين، ووضع مكانه تاجًا جديدًا لامعًا.",
+       "t": 49369,
+       "spot": {
+        "x": 0.65,
+        "y": 0.35,
+        "r": 0.22
+       }
+      },
+      {
+       "text": "فصعدت البحّارة الدرج كلّه دفعةً واحدة، تضحك وتتنفّس بسهولة.",
+       "t": 57598,
+       "spot": {
+        "x": 0.1,
+        "y": 0.25,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "«تاج من حجر، وأوتار قصيرة، وبالون يرتدّ: نبدّل التاج كلّه!» قال تشوبر.",
+       "t": 63923,
+       "spot": {
+        "x": 0.5,
+        "y": 0.52,
+        "r": 0.13
+       }
+      },
+      {
+       "text": "«انظروا إلى ذلك البالون الأحمر الكبير المستدير!» ضحك أوسوب، فإذا باغي المهرّج يمرّ بهم، فظنّه يعني أنفه، والتفت غاضبًا:",
+       "t": 71382,
+       "spot": {
+        "x": 0.84,
+        "y": 0.75,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«من الّذي تسمّيه صاحب الأنف الأحمر الكبير؟!»",
+       "quote": "ون بيس، باغي المهرّج",
+       "t": 83529
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0171-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "Mitral valve replacement is indicated for the breathless woman with mitral stenosis whose valve cannot be opened by a balloon: C.",
+       "t": 0,
+       "spot": {
+        "x": 0.06,
+        "y": 0.62,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "Her leaflets are thick and her chords are severely fibrosed and short, the stone mitre and the short scarred strings, so percutaneous balloon valvuloplasty cannot work, the red balloon bouncing off.",
+       "t": 8470,
+       "spot": {
+        "x": 0.5,
+        "y": 0.38,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "With symptoms on minimal activity and a valve that cannot be repaired or ballooned, the valve is replaced, Franky setting in a new mitre.",
+       "t": 20732,
+       "spot": {
+        "x": 0.5,
+        "y": 0.52,
+        "r": 0.13
+       }
+      },
+      {
+       "text": "Severe regurgitation from a prolapsing posterior leaflet is repaired, not replaced, and a large vegetation is an indication for surgery but repair is tried first.",
+       "t": 29399
+      },
+      {
+       "text": "Ischaemic regurgitation with three-vessel disease is treated with bypass, the regurgitation itself often with an annuloplasty.",
+       "t": 40725
+      },
+      {
+       "text": "Memory hook: a stone mitre, short scarred strings and a balloon that bounces off: replace the whole mitre.",
+       "t": 49294,
+       "spot": {
+        "x": 0.42,
+        "y": 0.26,
+        "r": 0.07
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0171-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "M V replacement i s indicated for:",
+     "options": [
+      "A 65-year-old man with dyspnea, severe MR, and posterior on echocardiography",
+      "A 25-year-old man with recent intravenous drug abuse and mitral valvular endocarditis with an anterior leaflet vegetation greater than 1 . 5 em in greatest dimension",
+      "A 55-year-old woman with dyspnea with minimal activity and moderate MS with thickening of the leaflets and severe fibrosis and shortening of the chordae that is not amenable to percutaneous mitral balloon valvuloplasty",
+      "A 70-year-old man with 3 -vessel coronary artery disease, a non-ST-segment elevation myocardial infarction and ischemic mitral regurgitation"
+     ],
+     "answer": 2,
+     "explain": "Mitral valve replacement is indicated for the breathless woman with mitral stenosis whose valve cannot be opened by a balloon: C. Her leaflets are thick and her chords are severely fibrosed and short, the stone mitre and the short scarred strings, so percutaneous balloon valvuloplasty cannot work, the red balloon bouncing off. With symptoms on minimal activity and a valve that cannot be repaired or ballooned, the valve is replaced, Franky setting in a new mitre. Severe regurgitation from a prolapsing posterior leaflet is repaired, not replaced, and a large vegetation is an indication for surgery but repair is tried first. Ischaemic regurgitation with three-vessel disease is treated with bypass, the regurgitation itself often with an annuloplasty. Memory hook: a stone mitre, short scarred strings and a balloon that bounces off: replace the whole mitre.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q35.1",
+     "marks": [
+      2,
+      3,
+      4,
+      5
+     ],
+     "answerMarks": [
+      1
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0171.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.52,
+      "r": 0.11
+     },
+     "what": "Shiny new mitre in its place",
+     "means": "Mitral valve replacement (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.53,
+      "y": 0.18,
+      "r": 0.09
+     },
+     "what": "Stone mitre opening only a slit",
+     "means": "Thick leaflets, mitral stenosis"
+    },
+    {
+     "spot": {
+      "x": 0.53,
+      "y": 0.37,
+      "r": 0.09
+     },
+     "what": "Short, thick scarred strings",
+     "means": "Fibrosed, shortened chordae"
+    },
+    {
+     "spot": {
+      "x": 0.42,
+      "y": 0.26,
+      "r": 0.06
+     },
+     "what": "Red balloon bouncing off",
+     "means": "Unfit for balloon valvuloplasty"
+    },
+    {
+     "spot": {
+      "x": 0.06,
+      "y": 0.62,
+      "r": 0.09
+     },
+     "what": "Woman panting after one step",
+     "means": "Dyspnoea on minimal activity"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0172",
+   "title": "A young woman who wants to conceive: choose a bioprosthetic mitral valve",
+   "titleAr": "شابّة تريد الحمل: نختار صمّامًا تاجيًّا حيويًّا",
+   "tags": [
+    "cardiac/mitral-tricuspid",
+    "d:indications",
+    "q:vignette",
+    "l:2",
+    "x:high-yield"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "على جزيرة الزهور، جلست شابّة في الخامسة والثّلاثين بجانب مهد فارغ، تحلم بطفل يملؤه.",
+       "t": 0,
+       "spot": {
+        "x": 0.3,
+        "y": 0.6,
+        "r": 0.22
+       }
+      },
+      {
+       "text": "لكنّ تاج الأسقف في فندقها قد يبّسه خرز قرمزيّ، حتّى صار حجرًا لا ينفتح إلّا قليلًا.",
+       "t": 7897,
+       "spot": {
+        "x": 0.14,
+        "y": 0.79,
+        "r": 0.11
+       }
+      },
+      {
+       "text": "«نضع مكانه روبوتًا فولاذيًّا، يعيش ألف سنة!» قال أوسوب، وجرّ روبوتًا صغيرًا يقعقع.",
+       "t": 15569,
+       "spot": {
+        "x": 0.78,
+        "y": 0.25,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "لكنّ الروبوت لا يعمل إلّا ومعه جرذ في خوذة جنديّ، يرافقه ليل نهار.",
+       "t": 23827,
+       "spot": {
+        "x": 0.8,
+        "y": 0.8,
+        "r": 0.09
+       }
+      },
+      {
+       "text": "وما إن رأى الجرذ المهد الفارغ، حتّى زحف نحوه يريد أن يؤذي الطفل القادم.",
+       "t": 30043,
+       "spot": {
+        "x": 0.6,
+        "y": 0.79,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "«الجرذ يؤذي الطفل الّذي لم يولد، فلا روبوت لهذه الأمّ!» صاح تشوبر.",
+       "t": 35943,
+       "spot": {
+        "x": 0.42,
+        "y": 0.57,
+        "r": 0.09
+       }
+      },
+      {
+       "text": "فأبعد فرانكي الروبوت، ووضع مكان التاج علبة مناديل ناعمة، لا تحتاج إلى جرذ ولا إلى خوذة.",
+       "t": 41635,
+       "spot": {
+        "x": 0.3,
+        "y": 0.3,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«علبة المناديل للأمّ الّتي تنتظر طفلًا، والرّوبوت وجرذه لغيرها!» قال تشوبر.",
+       "t": 49592,
+       "spot": {
+        "x": 0.42,
+        "y": 0.57,
+        "r": 0.09
+       }
+      },
+      {
+       "text": "فرفع الجرذ رايةً سوداء صغيرةً يعلن بها الحرب، فالتفت لوفي إلى أوسوب، وأمره كما أمره يومًا في إينيس لوبي:",
+       "t": 56615,
+       "spot": {
+        "x": 0.72,
+        "y": 0.65,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«سوغيكينغ! أطلق النار على ذلك العلم!»",
+       "quote": "ون بيس، مونكي دي لوفي",
+       "t": 66633
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0172-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "For a young woman who wishes to become pregnant, a bioprosthetic valve, the soft tissue box, is preferable to a mechanical one: B.",
+       "t": 0,
+       "spot": {
+        "x": 0.22,
+        "y": 0.34,
+        "r": 0.06
+       }
+      },
+      {
+       "text": "A mechanical valve, the clanking robot, needs lifelong warfarin, the rat in the helmet, and warfarin crosses the placenta and can harm the unborn child, the rat creeping to the cradle.",
+       "t": 9561,
+       "spot": {
+        "x": 0.8,
+        "y": 0.8,
+        "r": 0.09
+       }
+      },
+      {
+       "text": "Pregnancy with a mechanical valve also carries a high risk of valve thrombosis whichever anticoagulant is used, while a bioprosthesis needs none, at the price of earlier degeneration in the young.",
+       "t": 21638,
+       "spot": {
+        "x": 0.37,
+        "y": 0.77,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "A patient already on warfarin for atrial fibrillation gains nothing by avoiding a mechanical valve.",
+       "t": 34666
+      },
+      {
+       "text": "Memory hook: no robot and no rat beside the cradle; the young mother gets the tissue box.",
+       "t": 41730,
+       "spot": {
+        "x": 0.5,
+        "y": 0.55,
+        "r": 0.35
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0172-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "A bioprosthetic valve is preferable to a mechanical valve for MV replacement for:",
+     "options": [
+      "A 45-year-old man with severe MR and mitral valvular endocarditis with a 9-mm vegetation on the anterior leaflet and peripheral emboli despite treatment with antibiotics",
+      "A 35-year-old woman with rheumatic heart disease and severe MS who wishes to conceive",
+      "A 60-year-old man with atrial fibrillation on warfarin anticoagulation and severe MS",
+      "A 55-year-old woman with severe MS"
+     ],
+     "answer": 1,
+     "explain": "For a young woman who wishes to become pregnant, a bioprosthetic valve, the soft tissue box, is preferable to a mechanical one: B. A mechanical valve, the clanking robot, needs lifelong warfarin, the rat in the helmet, and warfarin crosses the placenta and can harm the unborn child, the rat creeping to the cradle. Pregnancy with a mechanical valve also carries a high risk of valve thrombosis whichever anticoagulant is used, while a bioprosthesis needs none, at the price of earlier degeneration in the young. A patient already on warfarin for atrial fibrillation gains nothing by avoiding a mechanical valve. Memory hook: no robot and no rat beside the cradle; the young mother gets the tissue box.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q35.2",
+     "marks": [
+      2,
+      3,
+      4
+     ],
+     "answerMarks": [
+      1,
+      6
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0172.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.22,
+      "y": 0.34,
+      "r": 0.06
+     },
+     "what": "Soft tissue box",
+     "means": "Bioprosthetic valve (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.37,
+      "y": 0.77,
+      "r": 0.11
+     },
+     "what": "Empty cradle",
+     "means": "Wishes to conceive"
+    },
+    {
+     "spot": {
+      "x": 0.2,
+      "y": 0.4,
+      "r": 0.12
+     },
+     "what": "Young woman beside the cradle",
+     "means": "35-year-old woman"
+    },
+    {
+     "spot": {
+      "x": 0.14,
+      "y": 0.79,
+      "r": 0.1
+     },
+     "what": "Stone mitre with scarlet beads",
+     "means": "Rheumatic mitral stenosis"
+    },
+    {
+     "spot": {
+      "x": 0.86,
+      "y": 0.27,
+      "r": 0.07
+     },
+     "what": "Clanking steel robot",
+     "means": "Mechanical valve: not for her"
+    },
+    {
+     "spot": {
+      "x": 0.8,
+      "y": 0.8,
+      "r": 0.08
+     },
+     "what": "Rat in a soldier's helmet",
+     "means": "Warfarin harms the unborn baby"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0173",
+   "title": "AVR plus MVR plus CABG: distals, excise the aortic valve, mitral, aortic, proximals",
+   "titleAr": "تبديل الأبهريّ والتاجيّ مع المجازة: الأطراف البعيدة، استئصال الأبهريّ، التاجيّ، الأبهريّ، الأطراف القريبة",
+   "tags": [
+    "cardiac/coronary",
+    "cardiac/mitral-tricuspid",
+    "d:technique",
+    "q:recall",
+    "l:3"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في حوض الإصلاح بووتر سيفن، قام درج خشبيّ من خمس منصّات، يصعد من اليسار إلى اليمين.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.45
+       }
+      },
+      {
+       "text": "على المنصّة الأولى، ربط سانجي طرف كرمة فول الليما بمزلقة الفتى على وجه التاج، وطرف سلسلة الياقوت الأزرق بشوكة البهلوان.",
+       "t": 8385,
+       "spot": {
+        "x": 0.3,
+        "y": 0.74,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«الحوت أوّلًا، ثمّ التاج في الآخر!» قال أوسوب.",
+       "t": 20103
+      },
+      {
+       "text": "«أطراف الجسور الدقيقة أوّلًا، قبل أن يمتلئ المكان بالأسنان والتّيجان!» قال فرانكي.",
+       "t": 25001,
+       "spot": {
+        "x": 0.75,
+        "y": 0.06,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "وعلى المنصّة الثانية، انتزع زورو فم الحوت الحجريّ القديم، فانفتح الطريق إلى الأسفل.",
+       "t": 32758,
+       "spot": {
+        "x": 0.45,
+        "y": 0.57,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "وعلى الثالثة، أنزل تاج أسقف جديد مكان القديم، وعلى الرابعة، ركّب طبيب الأسنان في فم الحوت أسنانًا جديدة.",
+       "t": 40993,
+       "spot": {
+        "x": 0.55,
+        "y": 0.32,
+        "r": 0.22
+       }
+      },
+      {
+       "text": "وعلى المنصّة الخامسة والأخيرة، خاط فرانكي رأس سلسلة الياقوت بظهر الحوت.",
+       "t": 51526,
+       "spot": {
+        "x": 0.75,
+        "y": 0.06,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "«الأطراف على التاج، ثمّ نزع الفم، ثمّ التاج الجديد، ثمّ الأسنان، ثمّ رأس الياقوت على الحوت!» قال تشوبر.",
+       "t": 58753,
+       "spot": {
+        "x": 0.91,
+        "y": 0.07,
+        "r": 0.06
+       }
+      },
+      {
+       "text": "فعدّ لوفي المنصّات الخمس بأصابعه، وتذكّر ترتيب حلمه الّذي صاح به في وجه شانكس وهو صغير:",
+       "t": 67787,
+       "spot": {
+        "x": 0.74,
+        "y": 0.88,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«سأجمع طاقمًا يفوق طاقمك، وأجد أعظم كنز في العالم، وأصبح ملك القراصنة!»",
+       "quote": "ون بيس، مونكي دي لوفي",
+       "t": 77081
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0173-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "For combined aortic and mitral valve replacement with two bypass grafts, the order is: distal anastomoses, excise the aortic valve, mitral valve replacement, aortic valve replacement, proximal anastomosis: D.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.45
+       }
+      },
+      {
+       "text": "The distal ends of the grafts, the lima bean vine on the lad's slide and the sapphire chain on the acrobat's spike, are sewn first, while the heart is empty and can be lifted to reach the back.",
+       "t": 15053,
+       "spot": {
+        "x": 0.3,
+        "y": 0.74,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "Removing the aortic valve first gives the best view of the mitral valve and its annulus, so the mitral prosthesis goes in before the aortic one, the mitre before the dentures.",
+       "t": 26653,
+       "spot": {
+        "x": 0.45,
+        "y": 0.47,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "The proximal anastomosis to the aorta comes last, the top of the sapphire chain sewn on at the final landing.",
+       "t": 37891,
+       "spot": {
+        "x": 0.75,
+        "y": 0.06,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "Memory hook: five landings, ends, out, mitre, dentures, tops.",
+       "t": 45212,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.45
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0173-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "When performing combined aortic valve replacement (AVR), MV replacement and 2-vessel coronary artery bypass with the left internal mammary a rtery to the left anterior descending artery and a saphenous vein graft to the obtuse marginal branch of the left circumflex artery, the correct order of procedures is:",
+     "options": [
+      "Excise aortic valve, MV replacement, aortic valve replacement, distal anastomoses, proximal anastomosis.",
+      "Distal anastomoses, excise aortic valve, aortic valve replacement, MV replacement, proximal anastomosis.",
+      "Distal anastomoses, MV replacement, excise aortic valve, aortic valve replacement, proximal anastomosis.",
+      "Distal anastomoses, excise aortic valve, MV replacement, aortic valve replacement, proximal anastomosis."
+     ],
+     "answer": 3,
+     "explain": "For combined aortic and mitral valve replacement with two bypass grafts, the order is: distal anastomoses, excise the aortic valve, mitral valve replacement, aortic valve replacement, proximal anastomosis: D. The distal ends of the grafts, the lima bean vine on the lad's slide and the sapphire chain on the acrobat's spike, are sewn first, while the heart is empty and can be lifted to reach the back. Removing the aortic valve first gives the best view of the mitral valve and its annulus, so the mitral prosthesis goes in before the aortic one, the mitre before the dentures. The proximal anastomosis to the aorta comes last, the top of the sapphire chain sewn on at the final landing. Memory hook: five landings, ends, out, mitre, dentures, tops.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q35.3",
+     "marks": [
+      6
+     ],
+     "answerMarks": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0173.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.3,
+      "y": 0.74,
+      "r": 0.13
+     },
+     "what": "Landing 1: vine and chain ends tied",
+     "means": "Distal anastomoses first"
+    },
+    {
+     "spot": {
+      "x": 0.45,
+      "y": 0.57,
+      "r": 0.11
+     },
+     "what": "Landing 2: stone mouth pulled out",
+     "means": "Then excise the aortic valve"
+    },
+    {
+     "spot": {
+      "x": 0.38,
+      "y": 0.38,
+      "r": 0.1
+     },
+     "what": "Landing 3: new mitre lowered",
+     "means": "Then mitral valve replacement"
+    },
+    {
+     "spot": {
+      "x": 0.72,
+      "y": 0.24,
+      "r": 0.1
+     },
+     "what": "Landing 4: new dentures",
+     "means": "Then aortic valve replacement"
+    },
+    {
+     "spot": {
+      "x": 0.72,
+      "y": 0.07,
+      "r": 0.09
+     },
+     "what": "Landing 5: chain top sewn on",
+     "means": "Proximal anastomosis last"
+    },
+    {
+     "spot": {
+      "x": 0.1,
+      "y": 0.45,
+      "r": 0.06
+     },
+     "what": "Sapphire chain",
+     "means": "Saphenous vein graft"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0175",
+   "title": "A mechanical mitral valve carries a higher embolic risk than a mechanical aortic valve",
+   "titleAr": "الصمّام التاجيّ الآليّ أكثر خطرًا للانصمام من الصمّام الأبهريّ الآليّ",
+   "tags": [
+    "cardiac/mitral-tricuspid",
+    "d:complications",
+    "q:recall",
+    "l:2"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في فندقين متجاورين، وضع روبوتان فولاذيّان صغيران مكان بابين قديمين، وبجانب كلّ منهما جرذ في خوذة جنديّ يحرسه.",
+       "t": 0,
+       "spot": {
+        "x": 0.35,
+        "y": 0.5,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "الأوّل في فم الحوت القاتل، حيث يندفع النهر سريعًا صافيًا.",
+       "t": 10969,
+       "spot": {
+        "x": 0.15,
+        "y": 0.45,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "والثّاني مكان تاج الأسقف، في بحيرة ساكنة بطيئة في الردهة الحمراء.",
+       "t": 16629,
+       "spot": {
+        "x": 0.48,
+        "y": 0.55,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«الجرذان متشابهان، فالخطر واحد في الفندقين!» قال أوسوب.",
+       "t": 22802,
+       "spot": {
+        "x": 0.87,
+        "y": 0.35,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "لكنّ القنادس جاءت إلى البحيرة الساكنة، وبنت سدودها حول الروبوت الثاني رغم أنف الجرذ.",
+       "t": 28880,
+       "spot": {
+        "x": 0.52,
+        "y": 0.62,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "وتدحرجت من سدودها كرات بولينغ سوداء، تنطلق نحو الفانوس الّذي على هيئة رأس.",
+       "t": 36526,
+       "spot": {
+        "x": 0.51,
+        "y": 0.2,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "أمّا الروبوت الأوّل، فظلّ نظيفًا لامعًا، يغسله النهر السريع كلّ لحظة.",
+       "t": 43577,
+       "spot": {
+        "x": 0.13,
+        "y": 0.49,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "«روبوت تاج الأسقف في الماء الساكن، تكثر حوله السدود أكثر من روبوت فم الحوت!» قال تشوبر.",
+       "t": 50125,
+       "spot": {
+        "x": 0.87,
+        "y": 0.76,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "ومرّت كرة بولينغ بسرعة خاطفة أمام أنف أوسوب، فتذكّر الأميرال كيزارو وسؤاله المرعب:",
+       "t": 57555,
+       "spot": {
+        "x": 0.8,
+        "y": 0.28,
+        "r": 0.06
+       }
+      },
+      {
+       "text": "«هل ركلت يومًا بسرعة الضوء؟»",
+       "quote": "ون بيس، الأميرال كيزارو",
+       "t": 66268
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0175-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "After valve replacement with a mechanical prosthesis and anticoagulation, the thromboembolic risk is higher for a mitral prosthesis than for an aortic one: A.",
+       "t": 0,
+       "spot": {
+        "x": 0.48,
+        "y": 0.5,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "The mitral position sits in slower flow, often with a large left atrium and atrial fibrillation, the still lake where the beavers build, while the aortic valve is washed by fast flow, the clean robot in the river.",
+       "t": 11080,
+       "spot": {
+        "x": 0.52,
+        "y": 0.62,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "Even with warfarin, the rat on guard, the risk is not negligible, and poor ventricular function raises it further.",
+       "t": 24851,
+       "spot": {
+        "x": 0.6,
+        "y": 0.51,
+        "r": 0.05
+       }
+      },
+      {
+       "text": "A mechanical valve on warfarin carries roughly the same embolic risk as a bioprosthesis without it, not a lower one.",
+       "t": 32651
+      },
+      {
+       "text": "Memory hook: the robot in the still lake gathers the beavers; the robot in the river stays clean.",
+       "t": 40475,
+       "spot": {
+        "x": 0.35,
+        "y": 0.5,
+        "r": 0.3
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0175-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "The risk of thromboembolic complications after MV replacement is:",
+     "options": [
+      "Higher in mechanical prosthesis with anticoagulation than with mechanical AVR with a nticoagulation",
+      "Less with a mechanical valve with anticoagulation than with a bioprosthetic valve without anticoagulation",
+      "Not affected by poor ventricular function with a left ventricular ejection fraction less than 30 percent",
+      "Is negligible in a patient with a mechanical valve and warfarin anticoagulation"
+     ],
+     "answer": 0,
+     "explain": "After valve replacement with a mechanical prosthesis and anticoagulation, the thromboembolic risk is higher for a mitral prosthesis than for an aortic one: A. The mitral position sits in slower flow, often with a large left atrium and atrial fibrillation, the still lake where the beavers build, while the aortic valve is washed by fast flow, the clean robot in the river. Even with warfarin, the rat on guard, the risk is not negligible, and poor ventricular function raises it further. A mechanical valve on warfarin carries roughly the same embolic risk as a bioprosthesis without it, not a lower one. Memory hook: the robot in the still lake gathers the beavers; the robot in the river stays clean.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q35.5",
+     "marks": [
+      2,
+      3
+     ],
+     "answerMarks": [
+      1,
+      4,
+      5
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0175.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.48,
+      "y": 0.5,
+      "r": 0.07
+     },
+     "what": "Robot in the still lake, dammed",
+     "means": "Mechanical mitral valve: higher risk (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.13,
+      "y": 0.49,
+      "r": 0.07
+     },
+     "what": "Robot in the rushing river",
+     "means": "Mechanical aortic valve: lower risk"
+    },
+    {
+     "spot": {
+      "x": 0.6,
+      "y": 0.51,
+      "r": 0.04
+     },
+     "what": "Rat in a helmet on guard",
+     "means": "Anticoagulation (warfarin)"
+    },
+    {
+     "spot": {
+      "x": 0.52,
+      "y": 0.72,
+      "r": 0.16
+     },
+     "what": "Beavers building dams",
+     "means": "Thrombus in slow flow"
+    },
+    {
+     "spot": {
+      "x": 0.51,
+      "y": 0.24,
+      "r": 0.12
+     },
+     "what": "Bowling balls flying to the head",
+     "means": "Emboli to the brain"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0176",
+   "title": "Why the sliding repair was devised: to prevent SAM after mitral repair",
+   "titleAr": "لماذا ابتُكر الإصلاح الانزلاقيّ: لمنع الحركة الأماميّة الانقباضيّة بعد الإصلاح",
+   "tags": [
+    "cardiac/mitral-tricuspid",
+    "d:technique",
+    "q:recall",
+    "l:3"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في ميناء تحت سماء عاصفة، أصلح تشوبر تاج أسقف كان يسرّب، فطوّقه بحلقة نحاسيّة جديدة.",
+       "t": 0,
+       "spot": {
+        "x": 0.3,
+        "y": 0.44,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "لكنّ الورقة الخلفيّة كانت طويلةً جدًّا، فدفعت خطّ الانطباق إلى الأمام نحو باب الحوت.",
+       "t": 8681,
+       "spot": {
+        "x": 0.4,
+        "y": 0.4,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فظهر العمّ سام بقبّعته المرصّعة بالنّجوم، ومدّ يده يشدّ الورقة الأماميّة إلى باب الحوت ليسدّه.",
+       "t": 15761,
+       "spot": {
+        "x": 0.6,
+        "y": 0.55,
+        "r": 0.22
+       }
+      },
+      {
+       "text": "«نضيّق الحلقة النحاسيّة أكثر، فتنطبق الورقتان جيّدًا!» قال أوسوب، وركّب حلقةً أصغر.",
+       "t": 23616,
+       "spot": {
+        "x": 0.15,
+        "y": 0.46,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "فاندفعت الورقة الأماميّة أقرب إلى الباب، وأمسكها العمّ سام بسهولة أكبر.",
+       "t": 32180,
+       "spot": {
+        "x": 0.4,
+        "y": 0.5,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "فقصّ تشوبر جزءًا من الورقة الخلفيّة، وأنزل ما بقي منها كمزلقة ملعب صفراء، أقصر وأدنى.",
+       "t": 38382,
+       "spot": {
+        "x": 0.5,
+        "y": 0.4,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فرجع خطّ الانطباق إلى الوراء، بعيدًا عن باب الحوت، ولم تعد يد العمّ سام تبلغ الورقة.",
+       "t": 46437,
+       "spot": {
+        "x": 0.4,
+        "y": 0.44,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«الورقة الخلفيّة تنزلق إلى أسفل، فيبتعد الخطّ، ويعجز العمّ سام!» قال تشوبر.",
+       "t": 53420,
+       "spot": {
+        "x": 0.52,
+        "y": 0.22,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "فلمّا مدّ العمّ سام يده مرّةً ثالثة، رفعت نامي عصا الطقس نحو السماء، وصاحت باسم صاعقتها الشهيرة:",
+       "t": 60666,
+       "spot": {
+        "x": 0.88,
+        "y": 0.25,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«ثاندر بولت تيمبو!»",
+       "quote": "ون بيس، نامي",
+       "t": 69904
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0176-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "The sliding repair was developed to lower the risk of systolic anterior motion after mitral repair: B.",
+       "t": 0,
+       "spot": {
+        "x": 0.77,
+        "y": 0.58,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "When the posterior leaflet is too tall, the back leaf pushing the closing line forward, the anterior leaflet is pushed into the outflow tract and Uncle Sam can pull it into the orca's doorway.",
+       "t": 7128,
+       "spot": {
+        "x": 0.4,
+        "y": 0.42,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "A smaller ring makes this worse, Usopp's tighter brass ring.",
+       "t": 18319,
+       "spot": {
+        "x": 0.15,
+        "y": 0.46,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "Cutting part of the posterior leaflet and sliding the rest down, the playground slide, lowers its height and moves the closing line back, out of the outflow tract.",
+       "t": 22771,
+       "spot": {
+        "x": 0.5,
+        "y": 0.43,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "Memory hook: slide the tall back leaf down, and Uncle Sam can no longer reach the front one.",
+       "t": 33143,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.3
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0176-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "The sliding repair technique for mitral repair was developed to:",
+     "options": [
+      "Avoid the creation of mitral stenosis with the repair",
+      "Reduce the risk of postrepair systolic anterior motion",
+      "Increase the area of the zone of leaflet coaptation",
+      "Increase the long-term durability of the repair",
+      "Obviate the need for placement of an annuloplasty band"
+     ],
+     "answer": 1,
+     "explain": "The sliding repair was developed to lower the risk of systolic anterior motion after mitral repair: B. When the posterior leaflet is too tall, the back leaf pushing the closing line forward, the anterior leaflet is pushed into the outflow tract and Uncle Sam can pull it into the orca's doorway. A smaller ring makes this worse, Usopp's tighter brass ring. Cutting part of the posterior leaflet and sliding the rest down, the playground slide, lowers its height and moves the closing line back, out of the outflow tract. Memory hook: slide the tall back leaf down, and Uncle Sam can no longer reach the front one.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q36.1",
+     "marks": [
+      2,
+      3,
+      4
+     ],
+     "answerMarks": [
+      1,
+      6
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0176.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.43,
+      "r": 0.09
+     },
+     "what": "Back leaf cut down into a slide",
+     "means": "Sliding repair (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.77,
+      "y": 0.58,
+      "r": 0.13
+     },
+     "what": "Uncle Sam reaching for the front leaf",
+     "means": "Systolic anterior motion (SAM)"
+    },
+    {
+     "spot": {
+      "x": 0.3,
+      "y": 0.44,
+      "r": 0.09
+     },
+     "what": "Front leaf of the mitre",
+     "means": "Anterior mitral leaflet"
+    },
+    {
+     "spot": {
+      "x": 0.13,
+      "y": 0.25,
+      "r": 0.12
+     },
+     "what": "The orca's door",
+     "means": "Left ventricular outflow tract"
+    },
+    {
+     "spot": {
+      "x": 0.22,
+      "y": 0.44,
+      "r": 0.05
+     },
+     "what": "Usopp's smaller brass ring",
+     "means": "Small ring makes SAM worse"
+    },
+    {
+     "spot": {
+      "x": 0.52,
+      "y": 0.22,
+      "r": 0.07
+     },
+     "what": "Chopper's scissors",
+     "means": "Posterior leaflet made lower"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0177",
+   "title": "Triangular resection needs no annular plication sutures",
+   "titleAr": "الاستئصال المثلّثيّ لا يحتاج إلى غرز طيّ الحلقة",
+   "tags": [
+    "cardiac/mitral-tricuspid",
+    "d:technique",
+    "q:recall",
+    "l:3"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في مطبخ الباراتي، كانت الورقة الخلفيّة لتاج الأسقف ثلاث أصداف متجاورة، والصّدفة الوسطى منها تنتفخ كالشّراع.",
+       "t": 0,
+       "spot": {
+        "x": 0.4,
+        "y": 0.55,
+        "r": 0.35
+       }
+      },
+      {
+       "text": "«أقصّ منها مربّعًا كاملًا حتّى الطوق!» قال أوسوب، وقصّ مربّعًا بلغ الحلقة النحاسيّة.",
+       "t": 10849,
+       "spot": {
+        "x": 0.17,
+        "y": 0.52,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فانشقّ الطوق، واضطرّ فرانكي إلى أن يضمّ طرفيه بغرز غليظة تشدّه.",
+       "t": 19027,
+       "spot": {
+        "x": 0.17,
+        "y": 0.7,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "فأخذ سانجي صدفةً أخرى مثلها، وقطع من وسطها مثلّثًا كقطعة البيتزا.",
+       "t": 25829,
+       "spot": {
+        "x": 0.54,
+        "y": 0.52,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "وتوقّف رأس المثلّث قبل الطوق بقليل، فبقي الطوق سليمًا لا يحتاج إلى غرزة واحدة.",
+       "t": 33137,
+       "spot": {
+        "x": 0.57,
+        "y": 0.72,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "ثمّ التقت حافّتا المثلّث المقصوص، فانطبقت الورقة، وسكن الشراع.",
+       "t": 41534,
+       "spot": {
+        "x": 0.58,
+        "y": 0.55,
+        "r": 0.22
+       }
+      },
+      {
+       "text": "«المثلّث لا يبلغ الطوق، فلا غرز فيه؛ أمّا المربّع فيشقّه ويحتاج إلى الخياطة!» قال تشوبر.",
+       "t": 48449,
+       "spot": {
+        "x": 0.9,
+        "y": 0.58,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "فنظر سانجي إلى القطعة الصغيرة الّتي ضحّى بها، وابتسم كما ابتسم شانكس يوم قال للوفي الصغير:",
+       "t": 56537,
+       "spot": {
+        "x": 0.5,
+        "y": 0.25,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "«ذراع واحدة ثمن رخيص... يكفي أنّك بخير!»",
+       "quote": "ون بيس، شانكس",
+       "t": 65796
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0177-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "The advantage of triangular over quadrangular resection is that it needs no annular plication sutures: D.",
+       "t": 0,
+       "spot": {
+        "x": 0.57,
+        "y": 0.78,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "A triangle cut from the prolapsing middle scallop, P2, the billowing shell, stops short of the annulus, so the annulus does not have to be pinched together.",
+       "t": 7665,
+       "spot": {
+        "x": 0.54,
+        "y": 0.52,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "A quadrangular resection takes the segment right down to the annulus, and the gap in the annulus must then be closed with plication sutures, Franky's thick stitches, or a sliding repair.",
+       "t": 17743,
+       "spot": {
+        "x": 0.17,
+        "y": 0.65,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "Triangular resection is not more successful in itself and does not lower the risk of SAM; its advantage is the untouched annulus, not a special use in Barlow's disease.",
+       "t": 29360
+      },
+      {
+       "text": "Memory hook: the pizza slice stops before the collar; the square cut reaches it and needs stitches.",
+       "t": 40829,
+       "spot": {
+        "x": 0.4,
+        "y": 0.6,
+        "r": 0.35
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0177-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "An important advantage of the triangular resection technique over the quadrangular resection technique for mitral repair is:",
+     "options": [
+      "A higher success rate of repair",
+      "More consistent anatomic landmarks for resection",
+      "Reduction in the risk of incurring systolic anterior motion",
+      "Obviates the need for annular plication sutures",
+      "Can be performed for Barlow's pathology"
+     ],
+     "answer": 3,
+     "explain": "The advantage of triangular over quadrangular resection is that it needs no annular plication sutures: D. A triangle cut from the prolapsing middle scallop, P2, the billowing shell, stops short of the annulus, so the annulus does not have to be pinched together. A quadrangular resection takes the segment right down to the annulus, and the gap in the annulus must then be closed with plication sutures, Franky's thick stitches, or a sliding repair. Triangular resection is not more successful in itself and does not lower the risk of SAM; its advantage is the untouched annulus, not a special use in Barlow's disease. Memory hook: the pizza slice stops before the collar; the square cut reaches it and needs stitches.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q36.2",
+     "marks": [
+      3,
+      4,
+      5
+     ],
+     "answerMarks": [
+      1,
+      2
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0177.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.57,
+      "y": 0.78,
+      "r": 0.13
+     },
+     "what": "Gold collar left whole",
+     "means": "No annular plication sutures (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.54,
+      "y": 0.52,
+      "r": 0.12
+     },
+     "what": "Pizza-slice triangle cut",
+     "means": "Triangular resection"
+    },
+    {
+     "spot": {
+      "x": 0.17,
+      "y": 0.52,
+      "r": 0.11
+     },
+     "what": "Square cut down to the collar",
+     "means": "Quadrangular resection"
+    },
+    {
+     "spot": {
+      "x": 0.17,
+      "y": 0.66,
+      "r": 0.1
+     },
+     "what": "Collar pulled in by stitches",
+     "means": "Annular plication sutures"
+    },
+    {
+     "spot": {
+      "x": 0.58,
+      "y": 0.45,
+      "r": 0.2
+     },
+     "what": "Billowing middle shell",
+     "means": "Prolapsing P2 scallop"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0178",
+   "title": "Artificial chords: never tie them under too much tension",
+   "titleAr": "الحبال الوتريّة الصناعيّة: لا تُربط أبدًا بشدّ زائد",
+   "tags": [
+    "cardiac/mitral-tricuspid",
+    "d:technique",
+    "q:recall",
+    "l:2"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في قصر أمازون ليلي، جلس بروك يربط أوتارًا جديدةً من النايلون الأبيض، من العمود الأحمر إلى ورقة تاج الأسقف.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.37,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "وكان كلّ وتر جديد يحلّ محلّ وتر قديم تمزّق.",
+       "t": 9205,
+       "spot": {
+        "x": 0.5,
+        "y": 0.3,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«دعني أشدّها أنا، فالأقوى أجمل!» قالت بوا هانكوك، وشدّت وترًا بكلّ قوّتها.",
+       "t": 13900,
+       "spot": {
+        "x": 0.12,
+        "y": 0.5,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "فانجرّت الورقة إلى أسفل، وصارت خيمةً لا تلقى أختها، وأخذ الماء يقرقر راجعًا من الفرجة.",
+       "t": 21522,
+       "spot": {
+        "x": 0.18,
+        "y": 0.77,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فرفع بروك يده العظميّة، وأرخى الوتر قليلًا، كما يرخي وتر كمانه إذا صرخ.",
+       "t": 29561,
+       "spot": {
+        "x": 0.55,
+        "y": 0.51,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "ثمّ ربطه برفق، بطوله الصحيح تمامًا، فارتفعت الورقة ولاقت أختها، وسكت الماء.",
+       "t": 36758,
+       "spot": {
+        "x": 0.55,
+        "y": 0.6,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "«الوتر الجديد يربط برفق لا بقوّة؛ إن شدّ أكثر من حقّه جرّ الورقة وفتح الفرجة!» قال تشوبر.",
+       "t": 44631,
+       "spot": {
+        "x": 0.88,
+        "y": 0.54,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "«لقد أفسدت العقدة يا سيّدتي!» قال أوسوب بحذر، فرمت هانكوك شعرها إلى الوراء بكبرياء، وقالت:",
+       "t": 52822,
+       "spot": {
+        "x": 0.85,
+        "y": 0.36,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "«كلّ ما أفعله مغفور... لأنّني جميلة!»",
+       "quote": "ون بيس، بوا هانكوك",
+       "t": 62284
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0178-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "With artificial chordae the most important thing to avoid is excessive tension when tying them: C.",
+       "t": 0,
+       "spot": {
+        "x": 0.22,
+        "y": 0.66,
+        "r": 0.06
+       }
+      },
+      {
+       "text": "A chord tied too tight or too short pulls the leaflet down into the ventricle, Hancock's string dragging it into a tent, so the leaflets no longer meet and the valve leaks or is restricted.",
+       "t": 6595,
+       "spot": {
+        "x": 0.18,
+        "y": 0.77,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "The new chord must restore the leaflet's natural height, tied gently at the right length, as Brook does.",
+       "t": 18565,
+       "spot": {
+        "x": 0.55,
+        "y": 0.51,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "Several chords are often used, and their number, spacing and attachment near the free edge are not the problem.",
+       "t": 25503
+      },
+      {
+       "text": "Memory hook: tie the new string gently; pulled too tight, it drags the leaf down.",
+       "t": 32312,
+       "spot": {
+        "x": 0.22,
+        "y": 0.66,
+        "r": 0.08
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0178-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "One of the most important things to avoid in using artificial chordae for mitral repair is:",
+     "options": [
+      "Placing too many artificial chordae",
+      "Spacing the artificial chordae too far apart",
+      "Avoiding excessive tension at tying the artificial chordae",
+      "Attaching the chordae too close to the free edge of the prolapsing leaflet",
+      "Not using pledgets to affix the chordae to the papillary muscle tips"
+     ],
+     "answer": 2,
+     "explain": "With artificial chordae the most important thing to avoid is excessive tension when tying them: C. A chord tied too tight or too short pulls the leaflet down into the ventricle, Hancock's string dragging it into a tent, so the leaflets no longer meet and the valve leaks or is restricted. The new chord must restore the leaflet's natural height, tied gently at the right length, as Brook does. Several chords are often used, and their number, spacing and attachment near the free edge are not the problem. Memory hook: tie the new string gently; pulled too tight, it drags the leaf down.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q36.3",
+     "marks": [
+      5,
+      6
+     ],
+     "answerMarks": [
+      1,
+      2,
+      3
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0178.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.22,
+      "y": 0.66,
+      "r": 0.05
+     },
+     "what": "String yanked too tight",
+     "means": "Excessive tension when tying (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.14,
+      "y": 0.75,
+      "r": 0.09
+     },
+     "what": "Leaf dragged down",
+     "means": "Leaflet pulled into the ventricle"
+    },
+    {
+     "spot": {
+      "x": 0.22,
+      "y": 0.82,
+      "r": 0.07
+     },
+     "what": "Water gurgling back through the gap",
+     "means": "Leak returns (mitral regurgitation)"
+    },
+    {
+     "spot": {
+      "x": 0.55,
+      "y": 0.51,
+      "r": 0.06
+     },
+     "what": "Brook's gentle knot",
+     "means": "Right length, tied gently"
+    },
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.25,
+      "r": 0.08
+     },
+     "what": "White nylon strings",
+     "means": "Artificial chordae"
+    },
+    {
+     "spot": {
+      "x": 0.42,
+      "y": 0.25,
+      "r": 0.08
+     },
+     "what": "Thick red pillar",
+     "means": "Papillary muscle"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0179",
+   "title": "Right mini-thoracotomy mitral repair: obesity is not a contraindication",
+   "titleAr": "إصلاح التاجيّ عبر شقّ صدريّ أيمن صغير: السمنة ليست مانعًا",
+   "tags": [
+    "cardiac/mitral-tricuspid",
+    "d:indications",
+    "q:recall",
+    "l:3"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "على ظهر الثاوزند صني عند الغروب، فتح فرانكي في جانب صندوق الكنز الأيمن كوّةً صغيرة، ليصلح تاج الأسقف من خلالها.",
+       "t": 0,
+       "spot": {
+        "x": 0.57,
+        "y": 0.57,
+        "r": 0.22
+       }
+      },
+      {
+       "text": "ومدّ خراطيم آلة المجازة من أعلى الفخذ، بجانب عظم الفخذ الأبيض الطويل.",
+       "t": 10030,
+       "spot": {
+        "x": 0.13,
+        "y": 0.26,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "«هذا البحّار سمين جدًّا، فلن يمرّ من الكوّة أبدًا!» قال أوسوب.",
+       "t": 16717,
+       "spot": {
+        "x": 0.2,
+        "y": 0.85,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "لكنّ البحّار السمين دخل من الكوّة ضاحكًا، يهزّ بطنه، ولم يعلق لحظةً واحدة.",
+       "t": 23069,
+       "spot": {
+        "x": 0.64,
+        "y": 0.61,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "أمّا الّذين ردّهم فرانكي عن الكوّة، فأنابيب فخذ رفيعة تحت لافتة سبعة، وفم حوت يقطر ماؤه راجعًا.",
+       "t": 30366,
+       "spot": {
+        "x": 0.5,
+        "y": 0.22,
+        "r": 0.4
+       }
+      },
+      {
+       "text": "وحفرة عميقة حفرتها جرّافة صفراء في صدر صندوق آخر، وقطران أسود يسدّ غصني الليلك عند ذيل الحوت.",
+       "t": 39797,
+       "spot": {
+        "x": 0.5,
+        "y": 0.42,
+        "r": 0.4
+       }
+      },
+      {
+       "text": "«الأنابيب الرفيعة، والفم الّذي يقطر، والحفرة، واللّيلك المسدود تمنع الكوّة؛ أمّا السمنة فلا!» قال تشوبر.",
+       "t": 49120,
+       "spot": {
+        "x": 0.36,
+        "y": 0.9,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "وكان بروك يراقب الكوّة الضيّقة متوتّرًا، فوضع يده العظميّة على صدره وضحك:",
+       "t": 58227,
+       "spot": {
+        "x": 0.85,
+        "y": 0.85,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«قلبي يكاد يقفز من صدري... مع أنّه ليس لي قلب! يو هو هو هو!»",
+       "quote": "ون بيس، بروك",
+       "t": 66151
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0179-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "Obesity is not a contraindication to mitral repair through a right mini-thoracotomy: E, the fat sailor walking through the hatch.",
+       "t": 0,
+       "spot": {
+        "x": 0.64,
+        "y": 0.61,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "Small femoral vessels, under 7 mm, and significant iliofemoral atherosclerosis are contraindications, because bypass is run through the groin, the thin pipes and the tarred lilac.",
+       "t": 8438,
+       "spot": {
+        "x": 0.15,
+        "y": 0.2,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "Moderate-to-severe aortic insufficiency, the dripping mouth, makes it hard to arrest and protect the heart through the small approach.",
+       "t": 20799,
+       "spot": {
+        "x": 0.86,
+        "y": 0.18,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "Pectus excavatum, the excavator's hollow, distorts the chest and narrows the access to the heart.",
+       "t": 29141,
+       "spot": {
+        "x": 0.2,
+        "y": 0.41,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "Memory hook: thin pipes, a dripping mouth, a hollow chest and tarred lilac are turned away; the fat sailor walks through.",
+       "t": 35964,
+       "spot": {
+        "x": 0.5,
+        "y": 0.4,
+        "r": 0.4
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0179-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which of the following is not a contraindication for performing a mitral repair through a right mini-thoracotomy?",
+     "options": [
+      "Patients with small femoral vessels ( <7 mm)",
+      "Moderate-to-severe aortic insufficiency",
+      "Pectus excavatum",
+      "Significant iliofemoral arterial atherosclerotic disease",
+      "Obesity"
+     ],
+     "answer": 4,
+     "explain": "Obesity is not a contraindication to mitral repair through a right mini-thoracotomy: E, the fat sailor walking through the hatch. Small femoral vessels, under 7 mm, and significant iliofemoral atherosclerosis are contraindications, because bypass is run through the groin, the thin pipes and the tarred lilac. Moderate-to-severe aortic insufficiency, the dripping mouth, makes it hard to arrest and protect the heart through the small approach. Pectus excavatum, the excavator's hollow, distorts the chest and narrows the access to the heart. Memory hook: thin pipes, a dripping mouth, a hollow chest and tarred lilac are turned away; the fat sailor walks through.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q36.4",
+     "marks": [
+      2,
+      3,
+      4,
+      5,
+      6
+     ],
+     "answerMarks": [
+      1
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0179.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.64,
+      "y": 0.61,
+      "r": 0.11
+     },
+     "what": "Fat sailor walking in",
+     "means": "Obesity: not a contraindication (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.52,
+      "y": 0.57,
+      "r": 0.07
+     },
+     "what": "Small porthole in the chest's side",
+     "means": "Right mini-thoracotomy"
+    },
+    {
+     "spot": {
+      "x": 0.12,
+      "y": 0.16,
+      "r": 0.05
+     },
+     "what": "Sign 7 over thin pipes",
+     "means": "Femoral vessels under 7 mm"
+    },
+    {
+     "spot": {
+      "x": 0.86,
+      "y": 0.18,
+      "r": 0.11
+     },
+     "what": "Dripping orca mouth",
+     "means": "Moderate-severe aortic insufficiency"
+    },
+    {
+     "spot": {
+      "x": 0.2,
+      "y": 0.41,
+      "r": 0.13
+     },
+     "what": "Excavator's hollow in a chest",
+     "means": "Pectus excavatum"
+    },
+    {
+     "spot": {
+      "x": 0.87,
+      "y": 0.42,
+      "r": 0.11
+     },
+     "what": "Tar blocking lilac branches",
+     "means": "Iliofemoral atherosclerosis"
+    },
+    {
+     "spot": {
+      "x": 0.15,
+      "y": 0.25,
+      "r": 0.07
+     },
+     "what": "Long white thigh bone",
+     "means": "Femoral cannulation for bypass"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0180",
+   "title": "Mitral repair works best early, before symptoms or enlargement of the heart",
+   "titleAr": "إصلاح التاجيّ أنجح مبكّرًا، قبل الأعراض وقبل أن يتّسع القلب",
+   "tags": [
+    "cardiac/mitral-tricuspid",
+    "d:indications",
+    "q:recall",
+    "l:2",
+    "x:high-yield"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "عند الفجر في قرية سيروب، كان تاج الأسقف في فندق صغير يسرّب الماء راجعًا، والنّزيل ما زال يركض مرحًا لا يشكو شيئًا.",
+       "t": 0,
+       "spot": {
+        "x": 0.52,
+        "y": 0.6,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "«لا شكوى ولا تعب، فلننتظر حتّى يمرض!» قال عمدة القرية.",
+       "t": 9637,
+       "spot": {
+        "x": 0.91,
+        "y": 0.72,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "لكنّ تشوبر كان قد رأى الفندق المجاور، الّذي انتظر أهله طويلًا.",
+       "t": 15357,
+       "spot": {
+        "x": 0.14,
+        "y": 0.4,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "فقد تمدّدت ردهته حتّى صارت ضخمة، وانتفخت غرفة محرّكه، وأخذ بينوكيو يرتجف في الردهة، فلم يعد الإصلاح يردّه كما كان.",
+       "t": 20923,
+       "spot": {
+        "x": 0.12,
+        "y": 0.55,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "فأصلح تشوبر التاج هنا مع صياح الديك الأوّل، والغرف صغيرة كما هي، والمروحة قويّة.",
+       "t": 31240,
+       "spot": {
+        "x": 0.45,
+        "y": 0.4,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فعاش الفندق الصغير سنين طويلةً كأنّ شيئًا لم يكن.",
+       "t": 38775,
+       "spot": {
+        "x": 0.51,
+        "y": 0.62,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "«الإصلاح مع الفجر، قبل التعب وقبل أن تتمدّد الغرف، يعطي أطول العمر!» قال تشوبر.",
+       "t": 43031,
+       "spot": {
+        "x": 0.35,
+        "y": 0.47,
+        "r": 0.11
+       }
+      },
+      {
+       "text": "فقفز أوسوب على السور، وصاح بإنذاره القديم الّذي كان يوقظ به قريته كلّ صباح، وقد جاء هذه المرّة في وقته تمامًا:",
+       "t": 50494,
+       "spot": {
+        "x": 0.78,
+        "y": 0.6,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "«القراصنة قادمون! القراصنة قادمون!»",
+       "quote": "ون بيس، أوسوب",
+       "t": 60993
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0180-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "The best outcomes after mitral repair come with early operation, before symptoms and before the heart's structure and function change: A.",
+       "t": 0,
+       "spot": {
+        "x": 0.55,
+        "y": 0.28,
+        "r": 0.07
+       }
+      },
+      {
+       "text": "Severe regurgitation slowly enlarges the left atrium and ventricle, the swollen rooms next door, brings atrial fibrillation, Pinocchio, and lowers ventricular function, and these changes may not reverse after a late repair.",
+       "t": 9270,
+       "spot": {
+        "x": 0.14,
+        "y": 0.4,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "Repaired early, the heart stays normal and survival matches that of the general population, the small hotel living on as if nothing had happened.",
+       "t": 24308,
+       "spot": {
+        "x": 0.5,
+        "y": 0.81,
+        "r": 0.06
+       }
+      },
+      {
+       "text": "The approach, minimally invasive or sternotomy, and the size of the ring matter far less than the timing.",
+       "t": 33432
+      },
+      {
+       "text": "Memory hook: repair at the first cock-crow, while the rooms are still small.",
+       "t": 40118,
+       "spot": {
+        "x": 0.55,
+        "y": 0.35,
+        "r": 0.15
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0180-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "The best clinical outcomes after mitral repair are achieved with:",
+     "options": [
+      "Early operation, before the onset of symptoms or significant change in cardiac structure or function",
+      "Minimally invasive approaches",
+      "Use of reduction annuloplasty alone",
+      "Full sternotomy approach",
+      "Using the largest annuloplasty band permissible"
+     ],
+     "answer": 0,
+     "explain": "The best outcomes after mitral repair come with early operation, before symptoms and before the heart's structure and function change: A. Severe regurgitation slowly enlarges the left atrium and ventricle, the swollen rooms next door, brings atrial fibrillation, Pinocchio, and lowers ventricular function, and these changes may not reverse after a late repair. Repaired early, the heart stays normal and survival matches that of the general population, the small hotel living on as if nothing had happened. The approach, minimally invasive or sternotomy, and the size of the ring matter far less than the timing. Memory hook: repair at the first cock-crow, while the rooms are still small.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q36.5",
+     "marks": [
+      4
+     ],
+     "answerMarks": [
+      1,
+      2,
+      3
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0180.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.55,
+      "y": 0.28,
+      "r": 0.06
+     },
+     "what": "Rooster crowing at first light",
+     "means": "Early operation (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.81,
+      "r": 0.05
+     },
+     "what": "Guest still running happily",
+     "means": "Before symptoms"
+    },
+    {
+     "spot": {
+      "x": 0.51,
+      "y": 0.72,
+      "r": 0.08
+     },
+     "what": "Small rooms, strong fan",
+     "means": "Before the heart changes"
+    },
+    {
+     "spot": {
+      "x": 0.57,
+      "y": 0.58,
+      "r": 0.05
+     },
+     "what": "Water leaking back from the mitre",
+     "means": "Severe mitral regurgitation"
+    },
+    {
+     "spot": {
+      "x": 0.14,
+      "y": 0.4,
+      "r": 0.18
+     },
+     "what": "Swollen hotel next door",
+     "means": "Enlarged atrium and ventricle"
+    },
+    {
+     "spot": {
+      "x": 0.08,
+      "y": 0.69,
+      "r": 0.07
+     },
+     "what": "Pinocchio trembling inside",
+     "means": "Atrial fibrillation"
+    },
+    {
+     "spot": {
+      "x": 0.91,
+      "y": 0.72,
+      "r": 0.11
+     },
+     "what": "Mayor saying \"let's wait\"",
+     "means": "Waiting for symptoms: worse outcome"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0182",
+   "title": "Severe tricuspid regurgitation on Doppler: vena contracta wider than 0.7 cm",
+   "titleAr": "القصور الشديد في الصمّام ثلاثيّ الشرف بالدوبلر: عرض الانقباض الوريديّ أكبر من 0.7 سم",
+   "tags": [
+    "cardiac/mitral-tricuspid",
+    "d:diagnosis",
+    "q:numbers",
+    "l:2"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في ميناء لوغتاون ليلًا، كان الماء يندفع راجعًا إلى أعلى من خلال الرمح الثلاثيّ، في أرض الردهة الزرقاء.",
+       "t": 0,
+       "spot": {
+        "x": 0.46,
+        "y": 0.7,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فجاء الكابتن سموكر، صائد القراصنة ذو السيجارين، وسلّط على النافورة أضواء سيّارة شرطة، حمراء وزرقاء تلمع.",
+       "t": 8198,
+       "spot": {
+        "x": 0.2,
+        "y": 0.4,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«انظروا كيف تمدّد الطوق النحاسيّ! نقيسه هو إذن!» قال أوسوب.",
+       "t": 18144,
+       "spot": {
+        "x": 0.88,
+        "y": 0.75,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«أضوائي لا ترى النحاس، إنّها ترى الماء الجاري وحده!» قال سموكر بصوت خشن.",
+       "t": 24622,
+       "spot": {
+        "x": 0.1,
+        "y": 0.5,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فإذا النافورة تخرج من الرمح بعنق ضيّق، ثمّ تتّسع كلّما ارتفعت.",
+       "t": 31721,
+       "spot": {
+        "x": 0.46,
+        "y": 0.45,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "فمدّ تشوبر مسطرةً صفراء عبر ذلك العنق الضيّق نفسه، فوق الرمح مباشرة، فإذا عرضه أكثر من سبعة.",
+       "t": 37790,
+       "spot": {
+        "x": 0.46,
+        "y": 0.58,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "«تحت أضواء الشرطة، عنق النافورة أعرض من سبعة: إنّها نافورة هائلة!» قال تشوبر.",
+       "t": 46581,
+       "spot": {
+        "x": 0.27,
+        "y": 0.55,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "فأعجب لوفي بالرّجل الّذي ترى أضواؤه الماء في الظلام، فمدّ إليه يده مبتسمًا، ودعاه كما يدعو كلّ من يعجبه، ولو كان ضابطًا في البحريّة:",
+       "t": 53821,
+       "spot": {
+        "x": 0.85,
+        "y": 0.48,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«انضمّ إلى طاقمي!»",
+       "quote": "ون بيس، مونكي دي لوفي",
+       "t": 65656
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0182-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "A vena contracta width above 0.7 cm, the narrow neck of the jet measured just above the trident, is a major Doppler criterion of severe tricuspid regurgitation: A.",
+       "t": 0,
+       "spot": {
+        "x": 0.46,
+        "y": 0.6,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "The vena contracta is the narrowest part of the regurgitant jet as it leaves the valve, and its width follows the size of the leak.",
+       "t": 13197,
+       "spot": {
+        "x": 0.46,
+        "y": 0.64,
+        "r": 0.06
+       }
+      },
+      {
+       "text": "Colour Doppler, the police lights, measures it directly; other signs of severe TR are a large jet area and reversed systolic flow in the hepatic veins.",
+       "t": 20958,
+       "spot": {
+        "x": 0.2,
+        "y": 0.36,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "Annular dilatation, septal movement, right ventricular function and pulmonary hypertension describe the heart around the valve, not the leak itself.",
+       "t": 31672
+      },
+      {
+       "text": "Memory hook: shine the police lights on the jet and measure its neck: wider than 7 means severe.",
+       "t": 41216,
+       "spot": {
+        "x": 0.46,
+        "y": 0.58,
+        "r": 0.1
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0182-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which of the following represents one of the major Doppler criteria for severe TR?",
+     "options": [
+      "Vena contracta width >0.7 em",
+      "Annular dilation",
+      "Paradoxical interventricular septal movement",
+      "Hyperdynamic RV function",
+      "Pulmonary hypertension"
+     ],
+     "answer": 0,
+     "explain": "A vena contracta width above 0.7 cm, the narrow neck of the jet measured just above the trident, is a major Doppler criterion of severe tricuspid regurgitation: A. The vena contracta is the narrowest part of the regurgitant jet as it leaves the valve, and its width follows the size of the leak. Colour Doppler, the police lights, measures it directly; other signs of severe TR are a large jet area and reversed systolic flow in the hepatic veins. Annular dilatation, septal movement, right ventricular function and pulmonary hypertension describe the heart around the valve, not the leak itself. Memory hook: shine the police lights on the jet and measure its neck: wider than 7 means severe.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q37.2",
+     "marks": [
+      3,
+      4,
+      5
+     ],
+     "answerMarks": [
+      1,
+      2
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0182.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.46,
+      "y": 0.58,
+      "r": 0.09
+     },
+     "what": "Ruler across the neck, over 7",
+     "means": "Vena contracta wider than 0.7 cm (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.46,
+      "y": 0.64,
+      "r": 0.05
+     },
+     "what": "Narrow neck of the jet",
+     "means": "Vena contracta"
+    },
+    {
+     "spot": {
+      "x": 0.2,
+      "y": 0.36,
+      "r": 0.06
+     },
+     "what": "Police car lights",
+     "means": "Colour Doppler"
+    },
+    {
+     "spot": {
+      "x": 0.46,
+      "y": 0.78,
+      "r": 0.11
+     },
+     "what": "Golden trident",
+     "means": "Tricuspid valve"
+    },
+    {
+     "spot": {
+      "x": 0.55,
+      "y": 0.2,
+      "r": 0.25
+     },
+     "what": "Jet widening as it rises",
+     "means": "Severe tricuspid regurgitation"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0183",
+   "title": "Not an indication for tricuspid surgery: regurgitation with PA pressure below 60 mm Hg",
+   "titleAr": "ليس استطبابًا لجراحة ثلاثيّ الشرف: قصور مع ضغط شريان رئويّ دون 60 ملم زئبق",
+   "tags": [
+    "cardiac/mitral-tricuspid",
+    "d:indications",
+    "q:recall",
+    "l:2"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في قلعة جزيرة درام، والثّلج يتساقط، وقف خمسة بحّارة في صفّ أمام تشوبر، على صدر كلّ منهم فندق صغير.",
+       "t": 0,
+       "spot": {
+        "x": 0.4,
+        "y": 0.5,
+        "r": 0.35
+       }
+      },
+      {
+       "text": "«كلّهم إلى غرفة العمليّات، فرمح كلّ منهم يسرّب!» قال أوسوب، ولوّح لهم جميعًا نحو الباب.",
+       "t": 10465,
+       "spot": {
+        "x": 0.34,
+        "y": 0.3,
+        "r": 0.09
+       }
+      },
+      {
+       "text": "ففحصهم تشوبر واحدًا واحدًا: الأوّل يصلح تاج أسقفه، ورمحه يرشّ بقوّة؛ والثّاني يلهث، ورمحه مكسور من أصله.",
+       "t": 19110,
+       "spot": {
+        "x": 0.14,
+        "y": 0.48,
+        "r": 0.14
+       }
+      },
+      {
+       "text": "والثّالث أسنان رمحه معوجّة محطّمة؛ والرّابع تمدّد طوقه النحاسيّ، وعدّاد أنبوب دولاراته في الأحمر.",
+       "t": 30384,
+       "spot": {
+        "x": 0.4,
+        "y": 0.5,
+        "r": 0.13
+       }
+      },
+      {
+       "text": "«هؤلاء الأربعة إلى الداخل!» قال تشوبر.",
+       "t": 39634,
+       "spot": {
+        "x": 0.1,
+        "y": 0.85,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "أمّا الخامس، فلم يكن يتسرّب من رمحه إلّا قليل، وعدّاد أنبوب دولاراته هادئ دون الستّين.",
+       "t": 43604,
+       "spot": {
+        "x": 0.64,
+        "y": 0.51,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "«رمح يسرّب قليلًا، وعدّاد دون الستّين: هذا لا يحتاج إلى مشرطي!» قال تشوبر.",
+       "t": 51991,
+       "spot": {
+        "x": 0.63,
+        "y": 0.6,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فتردّد البحّار الخامس عند الباب، يسأل: أيبحر مثله برمح يسرّب؟ فشدّه لوفي من ذراعه نحو السفينة، وصاح به كما صاح بتشوبر نفسه على هذا الجبل يومًا:",
+       "t": 59353,
+       "spot": {
+        "x": 0.85,
+        "y": 0.55,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«اصمت! هيّا بنا!»",
+       "quote": "ون بيس، مونكي دي لوفي",
+       "t": 74079
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0183-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "Tricuspid regurgitation with a pulmonary artery systolic pressure below 60 mm Hg is not, on its own, an indication for tricuspid surgery: E, the fifth sailor with a small leak and a calm gauge.",
+       "t": 0,
+       "spot": {
+        "x": 0.64,
+        "y": 0.51,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "Severe regurgitation in a patient having mitral surgery should be repaired at the same operation, the first sailor.",
+       "t": 14565,
+       "spot": {
+        "x": 0.08,
+        "y": 0.5,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "So should severe symptomatic primary regurgitation and severe regurgitation from diseased leaflets, the broken trident and the bent prongs.",
+       "t": 21957,
+       "spot": {
+        "x": 0.25,
+        "y": 0.48,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "At mitral surgery, even lesser regurgitation is repaired when the annulus is dilated or there is pulmonary hypertension, the wide collar and the gauge in the red.",
+       "t": 31470,
+       "spot": {
+        "x": 0.42,
+        "y": 0.55,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "Memory hook: four sailors go to theatre; the fifth, with a small leak and a gauge under 60, goes back to sea.",
+       "t": 41994,
+       "spot": {
+        "x": 0.63,
+        "y": 0.6,
+        "r": 0.15
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0183-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which of the following is not an indication for tricuspid valve surgery?",
+     "options": [
+      "Severe TR in patients with mitral valve disease requiring mitral valve surgery",
+      "Severe symptomatic primary TR",
+      "Severe TR secondary to diseased/abnormal tricuspid valve leaflets",
+      "Severe TR in patients undergoing mitral valve surgery when there is pulmonary hypertension or tricuspid annular dilation",
+      "TR and pulmonary artery systolic pressure is less than 60 mm Hg4."
+     ],
+     "answer": 4,
+     "explain": "Tricuspid regurgitation with a pulmonary artery systolic pressure below 60 mm Hg is not, on its own, an indication for tricuspid surgery: E, the fifth sailor with a small leak and a calm gauge. Severe regurgitation in a patient having mitral surgery should be repaired at the same operation, the first sailor. So should severe symptomatic primary regurgitation and severe regurgitation from diseased leaflets, the broken trident and the bent prongs. At mitral surgery, even lesser regurgitation is repaired when the annulus is dilated or there is pulmonary hypertension, the wide collar and the gauge in the red. Memory hook: four sailors go to theatre; the fifth, with a small leak and a gauge under 60, goes back to sea.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q37.3",
+     "marks": [
+      2,
+      3,
+      4,
+      5
+     ],
+     "answerMarks": [
+      1
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0183.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.64,
+      "y": 0.51,
+      "r": 0.05
+     },
+     "what": "Fifth sailor's gauge under 60",
+     "means": "TR with PA pressure below 60 mm Hg (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.07,
+      "y": 0.58,
+      "r": 0.05
+     },
+     "what": "Sailor mending his mitre",
+     "means": "Severe TR at mitral surgery"
+    },
+    {
+     "spot": {
+      "x": 0.2,
+      "y": 0.45,
+      "r": 0.07
+     },
+     "what": "Panting, trident broken",
+     "means": "Severe symptomatic primary TR"
+    },
+    {
+     "spot": {
+      "x": 0.33,
+      "y": 0.45,
+      "r": 0.07
+     },
+     "what": "Crooked, broken prongs",
+     "means": "Diseased tricuspid leaflets"
+    },
+    {
+     "spot": {
+      "x": 0.42,
+      "y": 0.55,
+      "r": 0.06
+     },
+     "what": "Gauge in the red",
+     "means": "Dilated annulus or pulmonary hypertension"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0184",
+   "title": "Mitral and tricuspid repair with a graft to the PDA: distal, mitral, proximal, tricuspid",
+   "titleAr": "إصلاح التاجيّ وثلاثيّ الشرف مع طعم للشريان الخلفيّ النازل: البعيد، التاجيّ، القريب، ثلاثيّ الشرف",
+   "tags": [
+    "cardiac/mitral-tricuspid",
+    "cardiac/coronary",
+    "d:technique",
+    "q:recall",
+    "l:3"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في حوض الإصلاح بووتر سيفن، نام الفندق القديم ساكنًا، وعلى ظهر الحوت القاتل كمّاشة حديديّة عملاقة على هيئة حرف إكس.",
+       "t": 0,
+       "spot": {
+        "x": 0.55,
+        "y": 0.45,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "وإلى جانبه درج خشبيّ من أربع منصّات، يصعد من اليسار إلى اليمين.",
+       "t": 9808,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.45
+       }
+      },
+      {
+       "text": "«نخيط رأس سلسلة الياقوت على ظهر الحوت أوّلًا، ونرتاح!» قال أوسوب، وفعل.",
+       "t": 15937,
+       "spot": {
+        "x": 0.8,
+        "y": 0.87,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فشدّت السلسلة الفندق إلى الحوت، فعجز سانجي عن رفعه ليبلغ الشوكة الطويلة في ظهر التاج الأخضر.",
+       "t": 23223,
+       "spot": {
+        "x": 0.25,
+        "y": 0.8,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "ففكّوا السلسلة، وبدؤوا من جديد: على المنصّة الأولى رفع سانجي الفندق بسهولة، وربط طرف السلسلة السفليّ بتلك الشوكة.",
+       "t": 30866,
+       "spot": {
+        "x": 0.25,
+        "y": 0.8,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "وعلى الثانية، خاط خيّاط حلقةً نحاسيّةً حول تاج الأسقف.",
+       "t": 40538,
+       "spot": {
+        "x": 0.4,
+        "y": 0.63,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "وعلى الثالثة، خيط رأس السلسلة على ظهر الحوت، ثمّ رفعت الكمّاشة عنه، فعادت المراوح تدور.",
+       "t": 45930,
+       "spot": {
+        "x": 0.5,
+        "y": 0.45,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "وعلى الرابعة، أصلح فرانكي الرمح الثلاثيّ والمراوح تدور من حوله.",
+       "t": 53959,
+       "spot": {
+        "x": 0.72,
+        "y": 0.15,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "«الشوكة الخلفيّة أوّلًا، ثمّ التاج، ثمّ رأس السلسلة، والرّمح أخيرًا والمراوح تدور!» قال تشوبر.",
+       "t": 59444,
+       "spot": {
+        "x": 0.7,
+        "y": 0.93,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "«لننزل ونتأكّد من البداية مرّةً أخرى!» نادى أوسوب من أسفل؛ لكنّ زورو بقي واقفًا على المنصّة العليا، عاقدًا ذراعيه، وقال ما قاله يومًا أمام أعظم سيّاف في العالم:",
+       "t": 67781,
+       "spot": {
+        "x": 0.4,
+        "y": 0.18,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "«إن تراجعت خطوةً واحدة، تحطّمت كلّ العهود والوعود الّتي أوصلتني إلى هنا!»",
+       "quote": "ون بيس، رورونوا زورو",
+       "t": 82367
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0184-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "For mitral and tricuspid repair with a graft to the PDA, the order is: distal coronary anastomosis, mitral repair, proximal anastomosis, tricuspid repair: B.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.45
+       }
+      },
+      {
+       "text": "The distal anastomosis to the posterior descending artery, the sapphire chain tied to the back spike, comes first, while the arrested heart can still be lifted to reach it.",
+       "t": 12496,
+       "spot": {
+        "x": 0.25,
+        "y": 0.8,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "The mitral repair follows under the same cross-clamp, and the proximal anastomosis is sewn before the clamp, the X-tongs, comes off.",
+       "t": 23241,
+       "spot": {
+        "x": 0.45,
+        "y": 0.55,
+        "r": 0.16
+       }
+      },
+      {
+       "text": "The tricuspid valve, on the right side, can be repaired last with the heart beating again, the fans turning, which shortens the ischaemic time.",
+       "t": 32579,
+       "spot": {
+        "x": 0.72,
+        "y": 0.15,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "Memory hook: back spike, mitre, top of the chain, and the trident last with the fans turning.",
+       "t": 41027,
+       "spot": {
+        "x": 0.5,
+        "y": 0.5,
+        "r": 0.45
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0184-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "A patient requires mitral and tricuspid valve repair along with coronary artery bypass grafting to the PDA.What is the proper sequence for this operation",
+     "options": [
+      "Mitral valve repair, tricuspid valve repair, distal coronary anastomosis, proximal anastomosis",
+      "Distal coronary anastomosis, mitral valve repair, proximal anastomosis, tricuspid valve repair",
+      "Distal coronary anastomosis, mitral valve repair, tricuspid valve repair, proximal anastomosis",
+      "Tricuspid valve repair, mitral valve repair, distal coronary anastomosis, proximal anastomosis",
+      "Mitral valve repair, distal coronary anastomosis, tricuspid valve repair, proximal anastomosis"
+     ],
+     "answer": 1,
+     "explain": "For mitral and tricuspid repair with a graft to the PDA, the order is: distal coronary anastomosis, mitral repair, proximal anastomosis, tricuspid repair: B. The distal anastomosis to the posterior descending artery, the sapphire chain tied to the back spike, comes first, while the arrested heart can still be lifted to reach it. The mitral repair follows under the same cross-clamp, and the proximal anastomosis is sewn before the clamp, the X-tongs, comes off. The tricuspid valve, on the right side, can be repaired last with the heart beating again, the fans turning, which shortens the ischaemic time. Memory hook: back spike, mitre, top of the chain, and the trident last with the fans turning.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q37.4",
+     "marks": [
+      5,
+      6
+     ],
+     "answerMarks": [
+      1,
+      2,
+      3,
+      4
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0184.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.28,
+      "y": 0.79,
+      "r": 0.08
+     },
+     "what": "Landing 1: chain tied to the back spike",
+     "means": "Distal anastomosis to the PDA first"
+    },
+    {
+     "spot": {
+      "x": 0.47,
+      "y": 0.63,
+      "r": 0.08
+     },
+     "what": "Landing 2: brass ring round the mitre",
+     "means": "Then mitral repair"
+    },
+    {
+     "spot": {
+      "x": 0.38,
+      "y": 0.52,
+      "r": 0.07
+     },
+     "what": "Landing 3: chain top sewn to the orca",
+     "means": "Then proximal anastomosis"
+    },
+    {
+     "spot": {
+      "x": 0.86,
+      "y": 0.18,
+      "r": 0.09
+     },
+     "what": "Landing 4: Franky mending the trident",
+     "means": "Tricuspid repair last"
+    },
+    {
+     "spot": {
+      "x": 0.52,
+      "y": 0.38,
+      "r": 0.08
+     },
+     "what": "Iron clamp on the orca's back",
+     "means": "Aortic cross-clamp"
+    },
+    {
+     "spot": {
+      "x": 0.72,
+      "y": 0.06,
+      "r": 0.09
+     },
+     "what": "Fans turning again above",
+     "means": "Heart beating again"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0186",
+   "title": "Duke criteria: cultures only 6 hours apart are not a major criterion",
+   "titleAr": "معايير ديوك: مزارع الدم التي تفصلها 6 ساعات فقط ليست معيارًا رئيسيًّا",
+   "tags": [
+    "cardiac/other",
+    "d:diagnosis",
+    "q:recall",
+    "l:3"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في القاعة الكبرى من قلعة قديمة، جلس دوق في عباءة من فرو القاقم، يقرأ قائمته ويختم بالشّمع الأحمر.",
+       "t": 0,
+       "spot": {
+        "x": 0.54,
+        "y": 0.3,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "فختم أوّلًا قنّينتين، في كلّ منهما سلسلة من خرز مبقّع بالأبيض والأسود كجلد البقرة.",
+       "t": 9069,
+       "spot": {
+        "x": 0.36,
+        "y": 0.67,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "ثمّ ختم أوراق لعب ينبت منها البروكلي، تتمايل على باب من أبواب الفندق، وماءً يقرقر راجعًا من باب آخر.",
+       "t": 16978,
+       "spot": {
+        "x": 0.71,
+        "y": 0.67,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«وهاتان أخذتا وبينهما اثنتا عشرة ساعةً يا سيّدي الدوق!» قالت نامي، وقدّمت قنّينتين أخريين قد ختمتهما بنفسها، بابتسامة ماكرة.",
+       "t": 26286,
+       "spot": {
+        "x": 0.3,
+        "y": 0.42,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فرفع الدوق عينيه إلى الساعة على الحائط، فإذا بين القنّينتين ستّ ساعات فقط.",
+       "t": 38527,
+       "spot": {
+        "x": 0.2,
+        "y": 0.1,
+        "r": 0.09
+       }
+      },
+      {
+       "text": "فنزع عنهما الختم ومزّقه، وأشار إلى ساعة ثانية عقرباها عند الثانية عشرة.",
+       "t": 45200,
+       "spot": {
+        "x": 0.86,
+        "y": 0.1,
+        "r": 0.09
+       }
+      },
+      {
+       "text": "«ستّ ساعات لا تكفي؛ لا ختم إلّا بعد اثنتي عشرة ساعة!» قال الدوق.",
+       "t": 52189,
+       "spot": {
+        "x": 0.54,
+        "y": 0.3,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "«الخرز المبقّع، والأوراق المتمايلة، والماء الراجع تختم؛ أمّا قنّينتا الساعات الستّ فلا!» قال تشوبر، وهو يشطبهما من القائمة.",
+       "t": 58767,
+       "spot": {
+        "x": 0.45,
+        "y": 0.87,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فأطرقت نامي ضاحكة، فانحنى لها سانجي والقلوب تتراقص في عينيه، وقال مبدأه الّذي لا يحيد عنه:",
+       "t": 69905,
+       "spot": {
+        "x": 0.08,
+        "y": 0.75,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "«مسامحة كذب المرأة من شيم الرجال!»",
+       "quote": "ون بيس، سانجي",
+       "t": 78903
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0186-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "Persistently positive blood cultures are a major Duke criterion only when drawn at least 12 hours apart, or when all three, or most of four or more, are positive with the first and last an hour or more apart; cultures 6 hours apart do not qualify: B.",
+       "t": 0,
+       "spot": {
+        "x": 0.4,
+        "y": 0.42,
+        "r": 0.09
+       }
+      },
+      {
+       "text": "A typical organism such as Streptococcus bovis in two separate cultures, the cow-spotted bead chains, is a major criterion.",
+       "t": 17477,
+       "spot": {
+        "x": 0.36,
+        "y": 0.67,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "So is a single positive culture for Coxiella burnetii.",
+       "t": 25862
+      },
+      {
+       "text": "So is echocardiographic evidence: an oscillating mass, the swaying cards with broccoli, an abscess, or new regurgitation, the gurgling water.",
+       "t": 29825,
+       "spot": {
+        "x": 0.71,
+        "y": 0.67,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "Memory hook: the duke seals the cow beads, the swaying cards and the new leak, but tears the seal off cultures only 6 hours apart.",
+       "t": 40726,
+       "spot": {
+        "x": 0.54,
+        "y": 0.45,
+        "r": 0.3
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0186-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which of the following is not a major Duke criterion for the diagnosis of endocarditis?",
+     "options": [
+      "Two separate blood cultures positive for Streptococcus bovis",
+      "Persistently positive blood cultures drawn 6 h apart",
+      "Oscillating intracardiac mass on valve",
+      "New valvular regurgitation",
+      "Single positive blood culture for Coxiella burnetii"
+     ],
+     "answer": 1,
+     "explain": "Persistently positive blood cultures are a major Duke criterion only when drawn at least 12 hours apart, or when all three, or most of four or more, are positive with the first and last an hour or more apart; cultures 6 hours apart do not qualify: B. A typical organism such as Streptococcus bovis in two separate cultures, the cow-spotted bead chains, is a major criterion. So is a single positive culture for Coxiella burnetii. So is echocardiographic evidence: an oscillating mass, the swaying cards with broccoli, an abscess, or new regurgitation, the gurgling water. Memory hook: the duke seals the cow beads, the swaying cards and the new leak, but tears the seal off cultures only 6 hours apart.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q38.1",
+     "marks": [
+      4,
+      5,
+      6,
+      7
+     ],
+     "answerMarks": [
+      1,
+      2,
+      3
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0186.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.4,
+      "y": 0.42,
+      "r": 0.08
+     },
+     "what": "Nami's bottles, 6 hours apart",
+     "means": "Cultures 6 h apart: not major (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.2,
+      "y": 0.1,
+      "r": 0.08
+     },
+     "what": "Clock at 6",
+     "means": "Only 6 hours between cultures"
+    },
+    {
+     "spot": {
+      "x": 0.86,
+      "y": 0.1,
+      "r": 0.08
+     },
+     "what": "Clock at 12",
+     "means": "Major only if 12 hours apart"
+    },
+    {
+     "spot": {
+      "x": 0.36,
+      "y": 0.67,
+      "r": 0.09
+     },
+     "what": "Cow-spotted beads in two bottles",
+     "means": "Typical organism (S. bovis), twice"
+    },
+    {
+     "spot": {
+      "x": 0.59,
+      "y": 0.67,
+      "r": 0.08
+     },
+     "what": "Swaying cards with broccoli",
+     "means": "Oscillating mass on echo"
+    },
+    {
+     "spot": {
+      "x": 0.83,
+      "y": 0.67,
+      "r": 0.08
+     },
+     "what": "Water flowing back",
+     "means": "New valvular regurgitation"
+    },
+    {
+     "spot": {
+      "x": 0.54,
+      "y": 0.3,
+      "r": 0.18
+     },
+     "what": "The Duke with his seal",
+     "means": "Duke criteria"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0187",
+   "title": "Endocarditis begins on the inner, endothelial surface, not the epicardium",
+   "titleAr": "يبدأ التهاب الشغاف على السطح الداخليّ البطانيّ، لا على النسيج النخاب الخارجيّ",
+   "tags": [
+    "cardiac/other",
+    "d:pathology",
+    "q:recall",
+    "l:2"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في قاعدة البحريّة بشلز تاون، صدر الأمر: في الفندق القديم أوراق لعب ينبت منها البروكلي، فأزيلوها!",
+       "t": 0,
+       "spot": {
+        "x": 0.42,
+        "y": 0.53,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "فأسرع هيلميبّو، الضابط المدلّل ذو الشعر المقصوص كالوعاء، وأخذ يفرك جدار الفندق من الخارج بفرشاة كبيرة.",
+       "t": 9222,
+       "spot": {
+        "x": 0.85,
+        "y": 0.5,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فرك وفرك حتّى لمع الجدار، لكنّ الجدار الخارجيّ لم ينبت عليه شيء قطّ.",
+       "t": 18845,
+       "spot": {
+        "x": 0.76,
+        "y": 0.39,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "«ليس هناك! المشكلة في الداخل!» قال تشوبر، وفتح بابًا من أبواب الفندق من داخله.",
+       "t": 25435,
+       "spot": {
+        "x": 0.8,
+        "y": 0.82,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "كان باطن الباب مبطّنًا ببلاط أبيض أملس، قد سقطت منه بلاطة واحدة، فبدت تحتها بقعة خشنة.",
+       "t": 33677,
+       "spot": {
+        "x": 0.44,
+        "y": 0.36,
+        "r": 0.07
+       }
+      },
+      {
+       "text": "فتكدّست على البقعة صحون بيضاء صغيرة، وخيوط حمراء لزجة.",
+       "t": 42437,
+       "spot": {
+        "x": 0.4,
+        "y": 0.57,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "ثمّ مرّت في النهر جراثيم خضراء صغيرة ساعةً من الزمن، فعلقت بالكومة، فإذا الكومة تنمو أوراق لعب ينبت منها البروكلي.",
+       "t": 48429,
+       "spot": {
+        "x": 0.22,
+        "y": 0.66,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«بلاطة تسقط من الداخل، فصحون وخيوط، فجراثيم عابرة تعلق وتكبر؛ أمّا الجدار الخارجيّ فلا ذنب له!» قال تشوبر.",
+       "t": 58708,
+       "spot": {
+        "x": 0.8,
+        "y": 0.82,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فضحك البحّارة من هيلميبّو وفرشاته، فاحمرّ وجهه ورمى الفرشاة، وصرخ بالكلمة الّتي يحتمي بها دائمًا، فأبوه هو الكابتن مورغان:",
+       "t": 68889,
+       "spot": {
+        "x": 0.85,
+        "y": 0.5,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«سأشكوك إلى أبي!»",
+       "quote": "ون بيس، هيلميبّو",
+       "t": 80770
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0187-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "The incorrect statement is that the damage occurs on the epicardial surface: endocarditis starts on the inner, endothelial surface of the heart: A.",
+       "t": 0,
+       "spot": {
+        "x": 0.76,
+        "y": 0.39,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "First the endothelium is damaged, one of the white tiles knocked off the inside of a valve door.",
+       "t": 9996,
+       "spot": {
+        "x": 0.44,
+        "y": 0.36,
+        "r": 0.07
+       }
+      },
+      {
+       "text": "Platelets and fibrin, the white plates and red threads, pile onto the bare spot as a sterile thrombus.",
+       "t": 16057,
+       "spot": {
+        "x": 0.4,
+        "y": 0.57,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "A transient bacteraemia, the green germs passing in the river, seeds the thrombus, and the organisms multiply there into a vegetation, the cards sprouting broccoli.",
+       "t": 23163,
+       "spot": {
+        "x": 0.22,
+        "y": 0.66,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "Memory hook: a tile falls off inside, plates and threads pile up, passing germs settle and grow; scrubbing the outside wall does nothing.",
+       "t": 34083,
+       "spot": {
+        "x": 0.42,
+        "y": 0.53,
+        "r": 0.18
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0187-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which is incorrect regarding the pathogenesis of endocarditis?",
+     "options": [
+      "Damage occurs to the epicardial surface of a cardiac structure.",
+      "There is accumulation of thrombus and platelets on the damaged surface.",
+      "The patient develops a transient bloodstream infection.",
+      "Infectious organisms deposit on the nonbacterial thrombotic focus.",
+      "Organisms multiply at the infected site."
+     ],
+     "answer": 0,
+     "explain": "The incorrect statement is that the damage occurs on the epicardial surface: endocarditis starts on the inner, endothelial surface of the heart: A. First the endothelium is damaged, one of the white tiles knocked off the inside of a valve door. Platelets and fibrin, the white plates and red threads, pile onto the bare spot as a sterile thrombus. A transient bacteraemia, the green germs passing in the river, seeds the thrombus, and the organisms multiply there into a vegetation, the cards sprouting broccoli. Memory hook: a tile falls off inside, plates and threads pile up, passing germs settle and grow; scrubbing the outside wall does nothing.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q38.2",
+     "marks": [
+      2,
+      3,
+      4,
+      5
+     ],
+     "answerMarks": [
+      1
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0187.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.76,
+      "y": 0.39,
+      "r": 0.07
+     },
+     "what": "Helmeppo scrubbing the outer wall",
+     "means": "Epicardial surface: wrong (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.44,
+      "y": 0.36,
+      "r": 0.06
+     },
+     "what": "Missing white tile inside",
+     "means": "Endothelial damage"
+    },
+    {
+     "spot": {
+      "x": 0.32,
+      "y": 0.58,
+      "r": 0.09
+     },
+     "what": "White plates and red threads",
+     "means": "Platelets and fibrin: sterile thrombus"
+    },
+    {
+     "spot": {
+      "x": 0.22,
+      "y": 0.66,
+      "r": 0.1
+     },
+     "what": "Green germs in the river",
+     "means": "Transient bacteraemia"
+    },
+    {
+     "spot": {
+      "x": 0.48,
+      "y": 0.48,
+      "r": 0.13
+     },
+     "what": "Cards sprouting broccoli",
+     "means": "Infected vegetation grows"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0189",
+   "title": "In endocarditis, stroke most often comes from a mitral vegetation",
+   "titleAr": "في التهاب الشغاف تأتي السكتة غالبًا من تنبّت على الصمّام التاجيّ",
+   "tags": [
+    "cardiac/other",
+    "d:complications",
+    "q:recall",
+    "l:2"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في جزيرة الأمازون ليلي، قام فندقان قديمان على العشب الأخضر.",
+       "t": 0,
+       "spot": {
+        "x": 0.3,
+        "y": 0.35,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "في الأوّل، أوراق لعب كبيرة ينبت منها البروكلي، تتمايل على تاج الأسقف مع كلّ دفعة.",
+       "t": 5920,
+       "spot": {
+        "x": 0.49,
+        "y": 0.14,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "وفي الثاني، أوراق أصغر على فم الحوت القاتل.",
+       "t": 14547,
+       "spot": {
+        "x": 0.18,
+        "y": 0.3,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "«الخطر من فم الحوت، فهو أقرب إلى الفانوس الّذي على هيئة رأس!» قال أوسوب، ووقف يحرس الفندق الثاني.",
+       "t": 19281,
+       "spot": {
+        "x": 0.09,
+        "y": 0.65,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "لكنّ الأوراق الصغيرة على فم الحوت لم ترسل شيئًا.",
+       "t": 29048,
+       "spot": {
+        "x": 0.18,
+        "y": 0.3,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "أمّا الأوراق الكبيرة على تاج الأسقف، فانفصلت منها كرة بولينغ سوداء، وتدحرجت صاعدةً إلى الفانوس الّذي على هيئة رأس، فضربته صاعقة.",
+       "t": 33787,
+       "spot": {
+        "x": 0.75,
+        "y": 0.4,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«الأوراق الكبيرة المتمايلة على التاج هي الّتي ترمي الكرة إلى الرأس!» قال تشوبر.",
+       "t": 46149,
+       "spot": {
+        "x": 0.6,
+        "y": 0.88,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "وفي تلك اللحظة مرّ لوفي، فوضعت الإمبراطورة بوا هانكوك يدها على قلبها، وقد أصابتها صاعقة من نوع آخر.",
+       "t": 52597,
+       "spot": {
+        "x": 0.82,
+        "y": 0.72,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فترنّحت كأنّ كرةً أصابت رأسها هي أيضًا، وهتفت بكلمتها الشهيرة:",
+       "t": 62768,
+       "spot": {
+        "x": 0.82,
+        "y": 0.72,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«الحبّ دائمًا إعصار!»",
+       "quote": "ون بيس، بوا هانكوك",
+       "t": 70355
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0189-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "Stroke in endocarditis most often comes from a vegetation on the mitral valve, the big swaying cards on the mitre sending a bowling ball up to the head lantern: D.",
+       "t": 0,
+       "spot": {
+        "x": 0.49,
+        "y": 0.14,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "Mitral vegetations, above all large and mobile ones over about 10 mm, carry the highest embolic risk, and the brain is the commonest target.",
+       "t": 10636,
+       "spot": {
+        "x": 0.49,
+        "y": 0.14,
+        "r": 0.2
+       }
+      },
+      {
+       "text": "Complications are common, not rare.",
+       "t": 20533
+      },
+      {
+       "text": "Heart failure, the commonest complication, comes from valve destruction rather than coronary embolism; embolism is not more frequent in the elderly; and a pseudoaneurysm is prone to rupture.",
+       "t": 23310,
+       "spot": {
+        "x": 0.44,
+        "y": 0.37,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "Memory hook: the big swaying cards on the mitre throw the bowling ball at the head.",
+       "t": 36133,
+       "spot": {
+        "x": 0.72,
+        "y": 0.38,
+        "r": 0.12
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0189-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which of the following is correct regarding complications of endocarditis?",
+     "options": [
+      "The minority of patients actually develop complications.",
+      "The most common cause of congestive heart failure is coronary artery embolization.",
+      "Embolism is more common in the elderly.",
+      "Stroke is most common from a mitral valve vegetation.",
+      "Rupture of a pseudoaneurysm is unlikely."
+     ],
+     "answer": 3,
+     "explain": "Stroke in endocarditis most often comes from a vegetation on the mitral valve, the big swaying cards on the mitre sending a bowling ball up to the head lantern: D. Mitral vegetations, above all large and mobile ones over about 10 mm, carry the highest embolic risk, and the brain is the commonest target. Complications are common, not rare. Heart failure, the commonest complication, comes from valve destruction rather than coronary embolism; embolism is not more frequent in the elderly; and a pseudoaneurysm is prone to rupture. Memory hook: the big swaying cards on the mitre throw the bowling ball at the head.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q38.4",
+     "marks": [
+      2,
+      3
+     ],
+     "answerMarks": [
+      1
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0189.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.49,
+      "y": 0.14,
+      "r": 0.18
+     },
+     "what": "Big swaying cards on the mitre",
+     "means": "Mitral vegetation (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.72,
+      "y": 0.42,
+      "r": 0.05
+     },
+     "what": "Bowling ball rolling to the head",
+     "means": "Embolus"
+    },
+    {
+     "spot": {
+      "x": 0.85,
+      "y": 0.36,
+      "r": 0.09
+     },
+     "what": "Struck head-shaped lantern",
+     "means": "Stroke"
+    },
+    {
+     "spot": {
+      "x": 0.18,
+      "y": 0.3,
+      "r": 0.06
+     },
+     "what": "Small cards in the orca's mouth",
+     "means": "Aortic vegetation: fewer strokes"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0190",
+   "title": "Surgery for endocarditis: heart failure raises the operative risk",
+   "titleAr": "جراحة التهاب الشغاف: قصور القلب يرفع خطر العمليّة",
+   "tags": [
+    "cardiac/other",
+    "d:evidence",
+    "q:recall",
+    "l:2"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في قلعة ثريلر بارك المظلمة، رقد بحّار خائف على طاولة العمليّات، وعلى صدره فندق صغير.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.78,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "على باب من أبواب الفندق أوراق لعب ينبت منها البروكلي، وحوله زحمة من سيّارات الأجرة الصفراء، لا تتقدّم شبرًا.",
+       "t": 8456,
+       "spot": {
+        "x": 0.52,
+        "y": 0.33,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "«بضع سيّارات لا تغيّر شيئًا؛ العمليّة هي العمليّة!» قال أوسوب، وهزّ كتفيه.",
+       "t": 18005,
+       "spot": {
+        "x": 0.88,
+        "y": 0.8,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "لكن كلّما اشتدّت الزحمة حول الفندق، طال على الطاولة ظلّ تابوت أسود.",
+       "t": 25756,
+       "spot": {
+        "x": 0.5,
+        "y": 0.45,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "فلمّا وقفت سيّارة أخرى في الزحمة، امتدّ الظلّ حتّى غطّى قدمي البحّار.",
+       "t": 31913,
+       "spot": {
+        "x": 0.5,
+        "y": 0.85,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«كلّما كبرت الزحمة، طال ظلّ التابوت!» قال تشوبر.",
+       "t": 38131,
+       "spot": {
+        "x": 0.12,
+        "y": 0.7,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«لكنّ هذه الزحمة نفسها هي ما يدعونا إلى العمل الآن، لا غدًا!» قال، وشمّر عن ساعديه.",
+       "t": 42969,
+       "spot": {
+        "x": 0.12,
+        "y": 0.7,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "وفي تلك اللحظة طاف شبح أبيض صغير من أشباح بيرونا خلال البحّار الخائف.",
+       "t": 50880,
+       "spot": {
+        "x": 0.81,
+        "y": 0.59,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "فانكمش على نفسه، وقد غمره اليأس الّذي تبثّه تلك الأشباح في كلّ من تعبره، وتمتم:",
+       "t": 56815,
+       "spot": {
+        "x": 0.5,
+        "y": 0.78,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "«آسف لأنّني ولدت!»",
+       "quote": "ون بيس، ضحايا أشباح بيرونا",
+       "t": 65015
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0190-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "In surgery for endocarditis, concomitant heart failure, the traffic jam round the hotel, increases the operative risk, the coffin's lengthening shadow: B.",
+       "t": 0,
+       "spot": {
+        "x": 0.2,
+        "y": 0.4,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "Heart failure is also the commonest reason to operate early, so the risk is accepted rather than avoided.",
+       "t": 11549,
+       "spot": {
+        "x": 0.52,
+        "y": 0.33,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "Emergency operations carry more risk, not the same, and Staphylococcus aureus, not streptococci, is linked with the highest mortality.",
+       "t": 18510
+      },
+      {
+       "text": "Mechanical valves are not less likely than tissue valves to become reinfected.",
+       "t": 28256
+      },
+      {
+       "text": "Memory hook: the bigger the jam round the hotel, the longer the coffin's shadow on the table.",
+       "t": 33614,
+       "spot": {
+        "x": 0.5,
+        "y": 0.45,
+        "r": 0.3
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0190-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which of the following is true for outcomes after surgery for endocarditis?",
+     "options": [
+      "Emergency operations do not have increased risk.",
+      "Concomitant heart failure increases operative risk.",
+      "Streptococcal organisms are associated with higher mortality.",
+      "More complex operations result in higher complication rates.",
+      "Mechanical valves are less likely to become reinfected."
+     ],
+     "answer": 1,
+     "explain": "In surgery for endocarditis, concomitant heart failure, the traffic jam round the hotel, increases the operative risk, the coffin's lengthening shadow: B. Heart failure is also the commonest reason to operate early, so the risk is accepted rather than avoided. Emergency operations carry more risk, not the same, and Staphylococcus aureus, not streptococci, is linked with the highest mortality. Mechanical valves are not less likely than tissue valves to become reinfected. Memory hook: the bigger the jam round the hotel, the longer the coffin's shadow on the table.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q38.5",
+     "marks": [
+      3,
+      4
+     ],
+     "answerMarks": [
+      1,
+      2
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0190.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.2,
+      "y": 0.4,
+      "r": 0.14
+     },
+     "what": "Taxis jammed round the hotel",
+     "means": "Heart failure (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.5,
+      "r": 0.25
+     },
+     "what": "Long coffin shadow on the table",
+     "means": "Higher operative risk"
+    },
+    {
+     "spot": {
+      "x": 0.52,
+      "y": 0.33,
+      "r": 0.09
+     },
+     "what": "Cards sprouting broccoli on a door",
+     "means": "Endocarditis vegetation"
+    },
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.78,
+      "r": 0.15
+     },
+     "what": "Sailor on the operating table",
+     "means": "Surgery for endocarditis"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0191",
+   "title": "Marfan syndrome: more metalloproteinases digest the aortic wall",
+   "titleAr": "متلازمة مارفان: تزداد الإنزيمات المعدنيّة الهاضمة فتأكل جدار الأبهر",
+   "tags": [
+    "cardiac/aorta",
+    "vascular/aorta",
+    "d:pathology",
+    "q:recall",
+    "l:3",
+    "x:key-corrected"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في خيمة سيرك باغي بأورانج تاون، ارتفع بالون حوت قاتل عملاق فوق الحلبة.",
+       "t": 0,
+       "spot": {
+        "x": 0.55,
+        "y": 0.5,
+        "r": 0.35
+       }
+      },
+      {
+       "text": "وعلى أطباق الصلصة المنتفخة عند قاعدته، جلست دمية خشبيّة طويلة نحيلة، أصابعها كأرجل العنكبوت، تروّح عن نفسها بمروحة قرمزيّة كبيرة.",
+       "t": 6707,
+       "spot": {
+        "x": 0.55,
+        "y": 0.22,
+        "r": 0.22
+       }
+      },
+      {
+       "text": "وتحتها، أخذت فقّاعة علك ورديّة تنتفخ من جدار الحوت.",
+       "t": 19554,
+       "spot": {
+        "x": 0.47,
+        "y": 0.58,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "«إنّها عقدة واحدة في خيط واحد، نحلّها فينتهي كلّ شيء!» قال أوسوب، ورفع خيطًا مقطوعًا.",
+       "t": 25141,
+       "spot": {
+        "x": 0.22,
+        "y": 0.88,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "لكنّه لمّا تتبّع الخيوط، وجد في كلّ خيط عقدةً غير أختها، عقدًا لا تحصى.",
+       "t": 34126,
+       "spot": {
+        "x": 0.55,
+        "y": 0.18,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "ثمّ سمع فرانكي قضمًا معدنيًّا، فإذا سرب من أسماك البيرانا المعدنيّة ينهمر من أكمام الدمية، ويقضم جدار الحوت حيث تنتفخ الفقّاعة.",
+       "t": 41439,
+       "spot": {
+        "x": 0.25,
+        "y": 0.45,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«بيرانا من معدن! صناعة سوبر، لكنّها تأكل الجدار!» صاح فرانكي.",
+       "t": 52767,
+       "spot": {
+        "x": 0.15,
+        "y": 0.68,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«دمية الخيوط تطلق بيرانا المعدن، فتقضم الجدار حتّى ينتفخ!» قال تشوبر.",
+       "t": 59515,
+       "spot": {
+        "x": 0.92,
+        "y": 0.9,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "فضحك لوفي: هذه الفقّاعة مستديرة كأنف مهرّج! فالتفت باغي، صاحب السيرك، وقد احمرّ وجهه غضبًا:",
+       "t": 66052,
+       "spot": {
+        "x": 0.68,
+        "y": 0.8,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«من الّذي تسمّيه صاحب الأنف الأحمر الكبير؟!»",
+       "quote": "ون بيس، باغي المهرّج",
+       "t": 77147
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0191-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "Matrix metalloproteinases, enzymes that digest elastin and collagen, are expressed more in the aortic wall in Marfan syndrome (printed \"MS\"): B.",
+       "t": 0,
+       "spot": {
+        "x": 0.25,
+        "y": 0.45,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "In the picture, the marionette's metal piranhas gnaw the orca's wall until it bulges into an aneurysm.",
+       "t": 11048,
+       "spot": {
+        "x": 0.25,
+        "y": 0.45,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "Marfan syndrome comes from mutations of the fibrillin-1 gene on chromosome 15, but more than a thousand different mutations are known, not a single one: the many different knots.",
+       "t": 17967,
+       "spot": {
+        "x": 0.55,
+        "y": 0.18,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "Vascular complications belong to the vascular type of Ehlers-Danlos syndrome (type IV), caused by COL3A1 mutations; Loeys-Dietz syndrome comes from mutations of the TGF-beta receptors.",
+       "t": 29941
+      },
+      {
+       "text": "Turner syndrome is a chromosomal disorder (45,X) and Noonan syndrome is autosomal dominant, so neither is autosomal recessive.",
+       "t": 43772
+      },
+      {
+       "text": "Memory hook: the marionette's metal piranhas chew the orca's wall.",
+       "t": 53018,
+       "spot": {
+        "x": 0.25,
+        "y": 0.45,
+        "r": 0.15
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0191-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which of the following is true regarding heritable dis orders of the aorta?",
+     "options": [
+      "MFS is caused by a single mutation on chromosome 15.",
+      "There is enhanced expression of metalloproteinases in MFS.",
+      "Type II EDS is associated with vascular complications.",
+      "Mutations in COLA3 1 cause LDS.",
+      "Turner and Noonan syndromes are both autosomal recessive disorders."
+     ],
+     "answer": 1,
+     "explain": "Matrix metalloproteinases, enzymes that digest elastin and collagen, are expressed more in the aortic wall in Marfan syndrome (printed \"MS\"): B. In the picture, the marionette's metal piranhas gnaw the orca's wall until it bulges into an aneurysm. Marfan syndrome comes from mutations of the fibrillin-1 gene on chromosome 15, but more than a thousand different mutations are known, not a single one: the many different knots. Vascular complications belong to the vascular type of Ehlers-Danlos syndrome (type IV), caused by COL3A1 mutations; Loeys-Dietz syndrome comes from mutations of the TGF-beta receptors. Turner syndrome is a chromosomal disorder (45,X) and Noonan syndrome is autosomal dominant, so neither is autosomal recessive. Memory hook: the marionette's metal piranhas chew the orca's wall. The book prints \"in MS\". Every other option calls Marfan syndrome MFS, and the enhanced expression of matrix metalloproteinases is a finding of Marfan aortas, so the option is shown with MFS (in a heart book \"MS\" reads as mitral stenosis). The key is unchanged.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q39.1",
+     "marks": [
+      2,
+      3,
+      4,
+      5
+     ],
+     "answerMarks": [
+      1
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0191.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.25,
+      "y": 0.45,
+      "r": 0.13
+     },
+     "what": "Metal piranhas gnawing the wall",
+     "means": "More metalloproteinases (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.55,
+      "y": 0.18,
+      "r": 0.16
+     },
+     "what": "Tall marionette, spider fingers",
+     "means": "Marfan syndrome"
+    },
+    {
+     "spot": {
+      "x": 0.47,
+      "y": 0.58,
+      "r": 0.09
+     },
+     "what": "Pink bubble on the orca",
+     "means": "Aortic aneurysm"
+    },
+    {
+     "spot": {
+      "x": 0.55,
+      "y": 0.28,
+      "r": 0.1
+     },
+     "what": "A different knot in every string",
+     "means": "Many fibrillin-1 mutations"
+    },
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.37,
+      "r": 0.2
+     },
+     "what": "Swollen salsa bowls",
+     "means": "Dilated aortic root"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0192",
+   "title": "Bicuspid valve and aorta: both come from the same neural crest cells",
+   "titleAr": "الصمّام ثنائيّ الشرف والأبهر: كلاهما من خلايا العُرف العصبيّ نفسها",
+   "tags": [
+    "cardiac/aortic-valve",
+    "cardiac/aorta",
+    "d:pathology",
+    "q:recall",
+    "l:3",
+    "x:key-corrected"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في ورشة ألعاب تحت برج العدالة بإينيس لوبي، عند الغروب، كان بالون حوت قاتل في فمه درّاجة محشورة.",
+       "t": 0,
+       "spot": {
+        "x": 0.48,
+        "y": 0.47,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "وفوق الدرّاجة مباشرة، أخذ جدار الحوت ينتفخ فقّاعة علك ورديّة.",
+       "t": 8414,
+       "spot": {
+        "x": 0.6,
+        "y": 0.36,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "«الدرّاجة تدفع الماء دفعًا عنيفًا فتنفخ الجدار؛ نبدّلها فتهدأ الفقّاعة!» قال أوسوب.",
+       "t": 14365,
+       "spot": {
+        "x": 0.85,
+        "y": 0.75,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فأرته روبين حوتًا ثانيًا، بدّلت درّاجته منذ زمن بعلبة مناديل ناعمة، وما زالت فقّاعته تكبر.",
+       "t": 22159,
+       "spot": {
+        "x": 0.1,
+        "y": 0.42,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "ثمّ مسحت الغبار عن إطار الدرّاجة، فظهر عليه شعار ملكيّ، ومسحت جدار الحوت فوقها، فظهر الشعار نفسه.",
+       "t": 30487,
+       "spot": {
+        "x": 0.57,
+        "y": 0.36,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«الدرّاجة والجدار مقطوعان من قماش واحد، في ورشة واحدة.» قالت روبين.",
+       "t": 39888,
+       "spot": {
+        "x": 0.25,
+        "y": 0.85,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«شعار واحد على الدرّاجة وعلى الجدار فوقها: قماشهما واحد، فضعفهما واحد!» قال تشوبر.",
+       "t": 46826,
+       "spot": {
+        "x": 0.85,
+        "y": 0.92,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "فرفع لوفي عينيه، فإذا علم أبيض كبير يرفرف فوق الورشة، عليه الشعار نفسه.",
+       "t": 54808,
+       "spot": {
+        "x": 0.8,
+        "y": 0.11,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "فغضب لأنّ الورشة الّتي صنعت الضعف ترفع علمها عاليًا، والتفت إلى سوغيكينغ، القنّاص المقنّع الّذي يشبه أوسوب شبهًا عجيبًا، وأمره كما أمره يومًا في هذا المكان نفسه:",
+       "t": 61919,
+       "spot": {
+        "x": 0.85,
+        "y": 0.7,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "«سوغيكينغ! أطلق النار على ذلك العلم!»",
+       "quote": "ون بيس، مونكي دي لوفي",
+       "t": 76270
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0192-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "In a bicuspid aortic valve, the cusps and the media of the ascending aorta arise from the same neural crest cells (printed \"medial crest\"), so one developmental fault weakens both: C.",
+       "t": 0,
+       "spot": {
+        "x": 0.57,
+        "y": 0.36,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "In the picture, the bicycle and the orca's wall above it carry the same crest: cut from the same cloth.",
+       "t": 13018,
+       "spot": {
+        "x": 0.57,
+        "y": 0.36,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "That is why the ascending aorta can keep dilating even after the valve has been replaced, the bubble that still grows over the tissue box.",
+       "t": 19902,
+       "spot": {
+        "x": 0.1,
+        "y": 0.42,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "In the aortic media of these patients fibrillin-1 is reduced and smooth muscle cells die by apoptosis; apoptosis is described in the aortic wall, not in the valve leaflets.",
+       "t": 28117
+      },
+      {
+       "text": "About one in ten first-degree relatives also has a bicuspid valve, so relatives are screened with echocardiography.",
+       "t": 40268
+      },
+      {
+       "text": "Memory hook: one crest on the bicycle and on the wall above it: the same cloth, the same weakness.",
+       "t": 47776,
+       "spot": {
+        "x": 0.5,
+        "y": 0.88,
+        "r": 0.1
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0192-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which is true regarding histopathology of  the aorta in association with bicuspid aortic valve?",
+     "options": [
+      "Twenty percent of patients with bicuspid valve have a first-degree relative with bicuspid valve.",
+      "There is a five-fold incidence of ascending aortic dilation.",
+      "The valve cusps and ascending arterial media arise from the same neural crest cells.",
+      "Apoptosis occurs in the valve leaflets.",
+      "Fibrillin - 1 deficiency is not associated with bicuspid valve."
+     ],
+     "answer": 2,
+     "explain": "In a bicuspid aortic valve, the cusps and the media of the ascending aorta arise from the same neural crest cells (printed \"medial crest\"), so one developmental fault weakens both: C. In the picture, the bicycle and the orca's wall above it carry the same crest: cut from the same cloth. That is why the ascending aorta can keep dilating even after the valve has been replaced, the bubble that still grows over the tissue box. In the aortic media of these patients fibrillin-1 is reduced and smooth muscle cells die by apoptosis; apoptosis is described in the aortic wall, not in the valve leaflets. About one in ten first-degree relatives also has a bicuspid valve, so relatives are screened with echocardiography. Memory hook: one crest on the bicycle and on the wall above it: the same cloth, the same weakness. The book prints \"medial crest cells\", a misprint: the aortic valve cusps and the media of the ascending aorta both come from neural crest cells, so the option is shown with \"neural\". The key is unchanged.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q39.2",
+     "marks": [
+      2,
+      3
+     ],
+     "answerMarks": [
+      1,
+      4,
+      5
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0192.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.57,
+      "y": 0.36,
+      "r": 0.14
+     },
+     "what": "Same crest on bicycle and wall",
+     "means": "Same neural crest cells (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.48,
+      "y": 0.47,
+      "r": 0.12
+     },
+     "what": "Bicycle jammed in the mouth",
+     "means": "Bicuspid aortic valve"
+    },
+    {
+     "spot": {
+      "x": 0.6,
+      "y": 0.36,
+      "r": 0.07
+     },
+     "what": "Pink bubble above the bicycle",
+     "means": "Dilated ascending aorta"
+    },
+    {
+     "spot": {
+      "x": 0.1,
+      "y": 0.42,
+      "r": 0.09
+     },
+     "what": "Orca with a tissue box, still bulging",
+     "means": "Aorta can grow after valve replacement"
+    },
+    {
+     "spot": {
+      "x": 0.5,
+      "y": 0.88,
+      "r": 0.09
+     },
+     "what": "Two matching crest drawings",
+     "means": "Cut from the same cloth"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0193",
+   "title": "Behcet disease: aneurysm rupture is the leading cause of death",
+   "titleAr": "داء بهجت: انفجار أمّ الدم هو أوّل أسباب الوفاة",
+   "tags": [
+    "vascular/other",
+    "vascular/aorta",
+    "d:pathology",
+    "q:recall",
+    "l:3"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في قاعدة البحريّة بشلز تاون، تحت شمس حارقة، انتفخت على ظهر بالون الحوت القاتل فقّاعة علك ورديّة كبيرة.",
+       "t": 0,
+       "spot": {
+        "x": 0.53,
+        "y": 0.22,
+        "r": 0.18
+       }
+      },
+      {
+       "text": "فتقدّم الكابتن مورغان، العملاق ذو الفكّ الحديديّ، ويده اليمنى فأس عظيمة.",
+       "t": 10638,
+       "spot": {
+        "x": 0.3,
+        "y": 0.45,
+        "r": 0.22
+       }
+      },
+      {
+       "text": "«لا تخافوا، فقّاعات العلك لا تؤذي أحدًا؛ تنفشّ وحدها!» قال أوسوب، ولوّح بذراعيه.",
+       "t": 18151,
+       "spot": {
+        "x": 0.1,
+        "y": 0.72,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "لكنّ مورغان رفع فأسه، وهوى بها على الفقّاعة.",
+       "t": 27005,
+       "spot": {
+        "x": 0.52,
+        "y": 0.3,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "فانفجرت الفقّاعة بدويّ عظيم، وتطايرت منها قطع ورديّة، وتحتها تابوت أسود ينتظر.",
+       "t": 32090,
+       "spot": {
+        "x": 0.52,
+        "y": 0.75,
+        "r": 0.22
+       }
+      },
+      {
+       "text": "«مع صاحب الفأس، الفقّاعة الّتي تنفجر هي الّتي تقتل!» قال تشوبر، وقد وصل متأخّرًا.",
+       "t": 40843,
+       "spot": {
+        "x": 0.79,
+        "y": 0.72,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "فصاح البحّارة بمورغان أن يلقي فأسه، فما هو إلّا رجل مثلهم.",
+       "t": 49154,
+       "spot": {
+        "x": 0.3,
+        "y": 0.45,
+        "r": 0.22
+       }
+      },
+      {
+       "text": "فنفخ مورغان صدره المزيّن بالأوسمة، ورفع فكّه الحديديّ، وقال ما يردّده كلّما عارضه أحد:",
+       "t": 55392,
+       "spot": {
+        "x": 0.3,
+        "y": 0.45,
+        "r": 0.22
+       }
+      },
+      {
+       "text": "«في هذا العالم، الرتب هي كلّ شيء!»",
+       "quote": "ون بيس، الكابتن مورغان",
+       "t": 65436
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0193-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "In Behcet disease the leading cause of death is the rupture of an arterial aneurysm: D.",
+       "t": 0,
+       "spot": {
+        "x": 0.52,
+        "y": 0.75,
+        "r": 0.22
+       }
+      },
+      {
+       "text": "Behcet disease, Morgan's hatchet, inflames vessels of every size; its aneurysms, in the aorta and in the pulmonary arteries, rupture readily: the burst bubble over the coffin.",
+       "t": 6005,
+       "spot": {
+        "x": 0.52,
+        "y": 0.35,
+        "r": 0.09
+       }
+      },
+      {
+       "text": "Syphilitic aortitis is an inflammation that destroys the aortic media and leaves saccular aneurysms of the ascending aorta.",
+       "t": 18817
+      },
+      {
+       "text": "Takayasu arteritis mainly narrows and blocks the aorta and its branches; aneurysms are less common.",
+       "t": 27131
+      },
+      {
+       "text": "Mycotic aneurysms are usually saccular and focal, not diffuse and fusiform, and giant cell arteritis does raise the risk of a thoracic aortic aneurysm.",
+       "t": 34526
+      },
+      {
+       "text": "Memory hook: Morgan's hatchet pops the bubble: in Behcet disease, rupture kills.",
+       "t": 45218,
+       "spot": {
+        "x": 0.52,
+        "y": 0.4,
+        "r": 0.3
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0193-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which is true for other forms of aneurysmal disease?",
+     "options": [
+      "Syphilitic aortitis is due to chronic inflammation of the adventitia.",
+      "Takayasu arteritis primarily results in subclavian aneurysms.",
+      "Mycotic aneurysms are typically diffuse and fusiform.",
+      "The leading cause of death in Behcet disease is aneurysm rupture.",
+      "Giant cell arteritis is not associated with thoracic aneurysms."
+     ],
+     "answer": 3,
+     "explain": "In Behcet disease the leading cause of death is the rupture of an arterial aneurysm: D. Behcet disease, Morgan's hatchet, inflames vessels of every size; its aneurysms, in the aorta and in the pulmonary arteries, rupture readily: the burst bubble over the coffin. Syphilitic aortitis is an inflammation that destroys the aortic media and leaves saccular aneurysms of the ascending aorta. Takayasu arteritis mainly narrows and blocks the aorta and its branches; aneurysms are less common. Mycotic aneurysms are usually saccular and focal, not diffuse and fusiform, and giant cell arteritis does raise the risk of a thoracic aortic aneurysm. Memory hook: Morgan's hatchet pops the bubble: in Behcet disease, rupture kills.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q39.3",
+     "marks": [
+      2,
+      3
+     ],
+     "answerMarks": [
+      1,
+      4
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0193.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.52,
+      "y": 0.87,
+      "r": 0.16
+     },
+     "what": "Black coffin under the burst",
+     "means": "Rupture: the leading cause of death (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.52,
+      "y": 0.35,
+      "r": 0.08
+     },
+     "what": "Morgan's hatchet",
+     "means": "Behcet disease"
+    },
+    {
+     "spot": {
+      "x": 0.53,
+      "y": 0.22,
+      "r": 0.16
+     },
+     "what": "Pink bubble on the orca's back",
+     "means": "Arterial aneurysm"
+    },
+    {
+     "spot": {
+      "x": 0.52,
+      "y": 0.6,
+      "r": 0.1
+     },
+     "what": "Bubble bursting into pieces",
+     "means": "Aneurysm rupture"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0194",
+   "title": "Not an indication: an ascending aorta of 4.5 cm without a heritable disorder",
+   "titleAr": "ليس استطبابًا: أبهر صاعد قطره 4.5 سم بلا اضطراب وراثيّ في النسيج الضامّ",
+   "tags": [
+    "cardiac/aorta",
+    "d:indications",
+    "q:numbers",
+    "l:2",
+    "x:guideline"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في قلعة الدكتورة كوريها على قمّة جزيرة درام، كان الثلج الورديّ يتساقط كزهر الكرز.",
+       "t": 0,
+       "spot": {
+        "x": 0.5,
+        "y": 0.25,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "فأدخل إلى غرفة العمليّات أربعة: بحّار يقبض على فقّاعة تؤلمه، وبحّار كبرت فقّاعته عن خطّ الطباشير الّذي رسم حولها العام الماضي.",
+       "t": 7157,
+       "spot": {
+        "x": 0.25,
+        "y": 0.24,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "ودمية خشبيّة خيوطها ملتوية متشابكة، تقف فقّاعتها عند أربعة؛ وبحّار يتدلّى فم حوته ويقطر أكثر كلّ أسبوع.",
+       "t": 18415,
+       "spot": {
+        "x": 0.15,
+        "y": 0.5,
+        "r": 0.13
+       }
+      },
+      {
+       "text": "ثمّ جاء دور تشوبر نفسه، فقد رسم على صدره فندقًا صغيرًا، فيه فقّاعة صغيرة تقف عند أربعة ونصف.",
+       "t": 29328,
+       "spot": {
+        "x": 0.58,
+        "y": 0.64,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "«وأنا أيضًا، ألا تدخلينني معهم؟» همس تشوبر خائفًا.",
+       "t": 38472,
+       "spot": {
+        "x": 0.5,
+        "y": 0.55,
+        "r": 0.22
+       }
+      },
+      {
+       "text": "فضحكت كوريها، ونقرت على فقّاعته بإصبعها: لا ألم، ولا كبر سريع، ولا خيوط ملتوية، ولا فم يقطر.",
+       "t": 43920,
+       "spot": {
+        "x": 0.58,
+        "y": 0.64,
+        "r": 0.08
+       }
+      },
+      {
+       "text": "«أربعة ونصف عند رنّة عاديّة؟ هذه نراقبها، ولا نشقّ لها صدرًا!» قالت كوريها.",
+       "t": 54203,
+       "spot": {
+        "x": 0.85,
+        "y": 0.35,
+        "r": 0.13
+       }
+      },
+      {
+       "text": "«الأربعة إلى الداخل، وصاحب الأربعة والنّصف العاديّ إلى البحر!» قال تشوبر فرحًا.",
+       "t": 62646,
+       "spot": {
+        "x": 0.5,
+        "y": 0.55,
+        "r": 0.22
+       }
+      },
+      {
+       "text": "فقفز خارجًا من بوّابة القلعة نحو الثاوزند صني، فلوّحت له كوريها بزجاجتها، ونادت بما نادته به يوم أبحر أوّل مرّة:",
+       "t": 69500,
+       "spot": {
+        "x": 0.88,
+        "y": 0.8,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«رحلةً آمنةً يا ولدي الأحمق!»",
+       "quote": "ون بيس، الدكتورة كوريها",
+       "t": 80288
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0194-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "An ascending aorta of 4.5 cm in a patient with no heritable connective tissue disorder is not an indication for surgery: it is watched, and operated on at about 5.5 cm: E.",
+       "t": 0,
+       "spot": {
+        "x": 0.58,
+        "y": 0.64,
+        "r": 0.06
+       }
+      },
+      {
+       "text": "A symptomatic aneurysm is operated on whatever its size, the aching bubble, and so is one that grows fast, here by a tenth in a year, the bubble outgrowing its chalk outline.",
+       "t": 13999,
+       "spot": {
+        "x": 0.25,
+        "y": 0.24,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "In Loeys-Dietz syndrome, where the aorta dissects at small diameters, surgery is advised at about 4.0 to 4.2 cm: the marionette with twisted strings at 4.",
+       "t": 24655,
+       "spot": {
+        "x": 0.15,
+        "y": 0.43,
+        "r": 0.1
+       }
+      },
+      {
+       "text": "Progressive aortic regurgitation, the sagging, dripping mouth, is also an indication.",
+       "t": 36850,
+       "spot": {
+        "x": 0.15,
+        "y": 0.57,
+        "r": 0.09
+       }
+      },
+      {
+       "text": "Memory hook: four go into theatre; the ordinary reindeer with a bubble at 4.5 goes back to sea.",
+       "t": 42486,
+       "spot": {
+        "x": 0.5,
+        "y": 0.55,
+        "r": 0.22
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0194-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which is not an indication for surgery?",
+     "options": [
+      "Symptomatic aneurysm",
+      "Ten percent increase in size over 1 year",
+      "Ascending aorta diameter of 4 em in LDS",
+      "Progressive aortic insufficiency",
+      "Ascending aorta diameter of 4.5 cm and nonheritable connective tissue disorder"
+     ],
+     "answer": 4,
+     "explain": "An ascending aorta of 4.5 cm in a patient with no heritable connective tissue disorder is not an indication for surgery: it is watched, and operated on at about 5.5 cm: E. A symptomatic aneurysm is operated on whatever its size, the aching bubble, and so is one that grows fast, here by a tenth in a year, the bubble outgrowing its chalk outline. In Loeys-Dietz syndrome, where the aorta dissects at small diameters, surgery is advised at about 4.0 to 4.2 cm: the marionette with twisted strings at 4. Progressive aortic regurgitation, the sagging, dripping mouth, is also an indication. Memory hook: four go into theatre; the ordinary reindeer with a bubble at 4.5 goes back to sea. Thresholds differ a little between societies and guideline editions (some now advise 5.0 cm in experienced centres); the book's numbers are used here.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q39.4",
+     "marks": [
+      2,
+      3,
+      4
+     ],
+     "answerMarks": [
+      1,
+      5
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0194.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.58,
+      "y": 0.64,
+      "r": 0.05
+     },
+     "what": "Bubble at 4.5 on Chopper's chest",
+     "means": "4.5 cm, no heritable disorder (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.25,
+      "y": 0.26,
+      "r": 0.07
+     },
+     "what": "Sailor clutching an aching bubble",
+     "means": "Symptomatic aneurysm: operate"
+    },
+    {
+     "spot": {
+      "x": 0.15,
+      "y": 0.43,
+      "r": 0.09
+     },
+     "what": "Doll with twisted strings at 4",
+     "means": "Loeys-Dietz: operate at about 4.0-4.2 cm"
+    },
+    {
+     "spot": {
+      "x": 0.15,
+      "y": 0.57,
+      "r": 0.08
+     },
+     "what": "Mouth sagging and dripping",
+     "means": "Progressive aortic regurgitation: operate"
+    },
+    {
+     "spot": {
+      "x": 0.85,
+      "y": 0.35,
+      "r": 0.12
+     },
+     "what": "Kureha sending him back to sea",
+     "means": "Watch it, no surgery"
+    }
+   ]
+  },
+  {
+   "id": "jh-q0195",
+   "title": "Ascending aortic replacement: operative mortality below 5 percent",
+   "titleAr": "استبدال الأبهر الصاعد: وفيات العمليّة أقلّ من 5 في المئة",
+   "tags": [
+    "cardiac/aorta",
+    "d:evidence",
+    "q:numbers",
+    "l:2"
+   ],
+   "tracks": [
+    {
+     "kind": "story",
+     "lang": "ar",
+     "segments": [
+      {
+       "text": "في عيادة الثاوزند صني ليلًا، والفانوس يتأرجح، رقد زورو على طاولة العمليّات.",
+       "t": 0,
+       "spot": {
+        "x": 0.3,
+        "y": 0.5,
+        "r": 0.3
+       }
+      },
+      {
+       "text": "وعلى صدره، تحت الندبة القديمة، فندق صغير قد انتفخ فيه الجزء الصاعد من الحوت كفقّاعة علكة ورديّة كبيرة.",
+       "t": 7251,
+       "spot": {
+        "x": 0.12,
+        "y": 0.7,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "«لا تفعل يا تشوبر! من يدخل هذه العمليّة لا يخرج منها!» صاح أوسوب من عند الباب، وأسنانه تصطكّ.",
+       "t": 16849,
+       "spot": {
+        "x": 0.84,
+        "y": 0.28,
+        "r": 0.09
+       }
+      },
+      {
+       "text": "لكنّ تشوبر قصّ الجزء المنتفخ من الحوت، وخاط مكانه أنبوبًا مستقيمًا من القماش الأبيض.",
+       "t": 25857,
+       "spot": {
+        "x": 0.42,
+        "y": 0.63,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "وفي زاوية الغرفة، كان تابوت صغير كاللّعبة، لا يزيد على حذاء، مكتوب عليه خمسة، لا ينظر إليه أحد.",
+       "t": 33519,
+       "spot": {
+        "x": 0.06,
+        "y": 0.93,
+        "r": 0.06
+       }
+      },
+      {
+       "text": "«أنبوب أبيض جديد، وتابوت صغير كاللّعبة دون الخمسة!» قال تشوبر.",
+       "t": 43250,
+       "spot": {
+        "x": 0.78,
+        "y": 0.52,
+        "r": 0.15
+       }
+      },
+      {
+       "text": "ولمّا أفاق زورو، سأله أوسوب: ألم تخف وأنت على الطاولة؟",
+       "t": 49520,
+       "spot": {
+        "x": 0.84,
+        "y": 0.28,
+        "r": 0.09
+       }
+      },
+      {
+       "text": "فأغمض زورو عينيه من جديد، وأجابه كما أجاب يومًا وصدره مشقوق بسيف أقوى سيّاف في العالم:",
+       "t": 55283,
+       "spot": {
+        "x": 0.3,
+        "y": 0.5,
+        "r": 0.25
+       }
+      },
+      {
+       "text": "«إن متّ هنا، فما أنا إلّا رجل لم يقدر أن يبلغ أبعد من هذا!»",
+       "quote": "ون بيس، رورونوا زورو",
+       "t": 64518
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0195-story-ar.m4a"
+    },
+    {
+     "kind": "explanation",
+     "lang": "en",
+     "segments": [
+      {
+       "text": "Elective replacement of the ascending aorta now carries an operative mortality below 5 percent: A.",
+       "t": 0,
+       "spot": {
+        "x": 0.42,
+        "y": 0.63,
+        "r": 0.12
+       }
+      },
+      {
+       "text": "In the picture, Zoro's new white tube goes in while the coffin in the corner is a tiny toy painted 5.",
+       "t": 7531,
+       "spot": {
+        "x": 0.06,
+        "y": 0.93,
+        "r": 0.06
+       }
+      },
+      {
+       "text": "In Marfan syndrome a dissection does shorten long-term survival, which is why the root is replaced before it can dissect.",
+       "t": 14073
+      },
+      {
+       "text": "Valve-sparing operations do best when the annulus is not dilated; a large annulus predicts regurgitation later.",
+       "t": 21744
+      },
+      {
+       "text": "More regurgitation appears late after the remodelling (Yacoub) operation than after reimplantation (David).",
+       "t": 29814
+      },
+      {
+       "text": "Memory hook: a new white tube for the orca, and a toy coffin under 5.",
+       "t": 37448,
+       "spot": {
+        "x": 0.42,
+        "y": 0.63,
+        "r": 0.12
+       }
+      }
+     ],
+     "audio": "gh:books/johns-hopkins-2016/media/jh-q0195-explanation-en.m4a"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which is true for outcomes after surgery for aortic aneurysm?",
+     "options": [
+      "Operative mortality for ascending aortic replacement is less than 5 percent.",
+      "Long-term survival is not affected by dissection in Marfan patients.",
+      "The ideal patient for a valve-sparing operation has an aortic annulus exceeding 29 mm.",
+      "There is less aortic insufficiency after the Yacoub operation compared to the David operation.",
+      "Chronic dissection is associated with higher mortality after arch replacement."
+     ],
+     "answer": 0,
+     "explain": "Elective replacement of the ascending aorta now carries an operative mortality below 5 percent: A. In the picture, Zoro's new white tube goes in while the coffin in the corner is a tiny toy painted 5. In Marfan syndrome a dissection does shorten long-term survival, which is why the root is replaced before it can dissect. Valve-sparing operations do best when the annulus is not dilated; a large annulus predicts regurgitation later. More regurgitation appears late after the remodelling (Yacoub) operation than after reimplantation (David). Memory hook: a new white tube for the orca, and a toy coffin under 5.",
+     "lang": "en",
+     "source": "Johns Hopkins 2016, Q39.5",
+     "marks": [
+      3
+     ],
+     "answerMarks": [
+      1,
+      2
+     ]
+    }
+   ],
+   "image": "gh:books/johns-hopkins-2016/media/jh-q0195.webp",
+   "marks": [
+    {
+     "spot": {
+      "x": 0.06,
+      "y": 0.93,
+      "r": 0.05
+     },
+     "what": "Toy coffin painted 5",
+     "means": "Operative mortality under 5% (the answer)"
+    },
+    {
+     "spot": {
+      "x": 0.42,
+      "y": 0.63,
+      "r": 0.11
+     },
+     "what": "New straight white tube",
+     "means": "Ascending aortic replacement"
+    },
+    {
+     "spot": {
+      "x": 0.12,
+      "y": 0.7,
+      "r": 0.11
+     },
+     "what": "Cut-out pink bubble",
+     "means": "Ascending aortic aneurysm"
+    }
+   ]
   }
  ]
 }
