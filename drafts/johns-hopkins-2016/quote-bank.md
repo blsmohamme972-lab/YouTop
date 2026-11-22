@@ -23,7 +23,7 @@ a line; if a line here turns out wrong, take it out and say so.
 | Luffy (to Shanks) | "I won't beg you to take me with you. I'm gonna be a pirate all on my own." | W 1.04 | لَنْ أَتَوَسَّلَ إِلَيْكَ هَذِهِ المَرَّةَ أَنْ تَأْخُذَنِي مَعَكْ؛ سَأَصِيرُ قُرْصَانًا بِنَفْسِي! | 218, 238 |
 | Zoro | "The injury to my reputation's a lot worse than the injury to my gut." | W 1.06 | جُرْحُ سُمْعَتِي أَسْوَأُ بِكَثِيرٍ مِنْ جُرْحِ بَطْنِي! | 206, 231 |
 | Zoro | "My swords aim to be the world's greatest. I refuse to lose to anyone who calls himself a swordsman." | W 1.07 | سُيُوفِي تَطْمَحُ أَنْ تَكُونَ الأَعْظَمَ فِي العَالَمْ؛ لَا أَقْبَلُ أَنْ أَخْسَرَ أَمَامَ أَحَدٍ يُسَمِّي نَفْسَهُ مُبَارِزًا! | 233, 253 |
-| Zoro | "If I lose to someone like you, even with these minimal injuries, then I don't have a very bright future ahead of me, do I?" | W 1.07 | إِنْ خَسِرْتُ أَمَامَ مِثْلِكَ بِهَذِهِ الجُرُوحِ البَسِيطَةْ، فَأَيُّ مُسْتَقْبَلٍ يَنْتَظِرُنِي؟ | 228 |
+| Zoro | "If I lose to someone like you, even with these minimal injuries, then I don't have a very bright future ahead of me, do I?" | W 1.07 | إِنْ خَسِرْتُ أَمَامَ مِثْلِكَ بِهَذِهِ الجُرُوحِ البَسِيطَةْ، فَأَيُّ مُسْتَقْبَلٍ يَنْتَظِرُنِي؟ | 228, 268 |
 | Zoro (after much blood loss) | "I feel lightheaded." | W 1.08 | أَشْعُرُ بِدُوَارٍ خَفِيفْ... | 202, 222 |
 | Zoro (for Kuina) | "I'll get stronger! ... Strong enough that my name reaches up to the heavens!" | W 1.19 | سَأَصِيرُ أَقْوَى! أَقْوَى مِمَّا كَانَتْ هِيَ! حَتَّى يَبْلُغَ اسْمِي السَّمَاءْ! | 240, 260 |
 | Koshiro (giving Kuina's sword) | "The sword is yours. I leave her spirit and her dreams in your hands." | W 1.19 | السَّيْفُ لَكْ؛ أَتْرُكُ رُوحَهَا وَأَحْلَامَهَا بَيْنَ يَدَيْكْ. | 236 |
@@ -35,7 +35,7 @@ a line; if a line here turns out wrong, take it out and say so.
 | Alvida | "Who is the most beautiful woman on all the seas?" | S | مَنْ أَجْمَلُ امْرَأَةٍ فِي البِحَارِ كُلِّهَا؟ | 201, 226 |
 | Kozuki Oden (in the boiling pot) | "I am Oden... I was born to boil!" (the title of chapter 972) | S (ch. 972) | أَنَا أُودِنْ... وُلِدْتُ لِأُغْلَى! | 221, 241 |
 | Bon Clay (Mr. 2) | "But remember! When it comes to friends, it's not how much time you spend with them, just how you spend it!" | W ("Friendship" page) | تَذَكَّرْ! مَعَ الأَصْدِقَاءْ، لَيْسَ المُهِمُّ كَمْ مِنَ الوَقْتِ تَقْضِي مَعَهُمْ، بَلْ كَيْفَ تَقْضِيهْ! | 225, 245 |
-| Dr Kureha (her catchphrase) | "Hee-hee-hee! Are you happy?" | S (her running catchphrase on Drum Island) | هِي هِي هِي! هَلْ أَنْتَ سَعِيدْ؟ | 244 |
+| Dr Kureha (her catchphrase) | "Hee-hee-hee! Are you happy?" | S (her running catchphrase on Drum Island) | هِي هِي هِي! هَلْ أَنْتَ سَعِيدْ؟ | 244, 264 |
 
 Lines from 1-190 still usable once more: Buggy's "Who are you calling big red nose?!" (171, 191: done), "Sogeking,
 shoot that flag!" (172, 192: done), "a crew better than yours" (173, 208: done), Kizaru's light-speed kick (175,

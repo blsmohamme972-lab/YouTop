@@ -13,11 +13,11 @@ Updated 2026-11-21 (evening). Whoever works on YouTop next: read `CLAUDE.md`, th
 and merged to main as it is done. The owner asked for it overnight, with an hourly wake-up scheduled task
 (trig_01PU9vpvigNUp6wUdpdP37Yc) to resume after a usage-limit pause; disable it when 422 is reached. Other sessions:
 do not write 151+ in parallel; pictures, voices and publishing of 1-150 are unaffected.
-- Progress (update as it goes): **151-260 written** (tables, scenes, prompts, vowelled stories, quotations, explanations;
-  `drafts/johns-hopkins-2016/batch-0151-0160` ... `batch-0251-0260`; prompts for the owner: `prompts-jh-151-180.txt`,
-  `prompts-jh-181-190.txt` ... `prompts-jh-251-260.txt`, not yet sent). **Quotation pending** (story written up to the
-  payoff, no lead-in or quotation yet, so not built or recorded): 242, 243, 246, 247, 248, 250, 251, 252, 254-259.
-  Voices: 151-241, 244, 245, 249 recorded; 253 and 260 recording (built one by one from `.content-work/work/johns-hopkins-2016/single-<n>/`,
+- Progress (update as it goes): **151-270 written** (tables, scenes, prompts, vowelled stories, quotations, explanations;
+  `drafts/johns-hopkins-2016/batch-0151-0160` ... `batch-0261-0270`; prompts for the owner: `prompts-jh-151-180.txt`,
+  `prompts-jh-181-190.txt` ... `prompts-jh-261-270.txt`, not yet sent). **Quotation pending** (story written up to the
+  payoff, no lead-in or quotation yet, so not built or recorded): 242, 243, 246, 247, 248, 250, 251, 252, 254-259,
+  261-263, 265-267, 269, 270. Voices: 151-241, 244, 245, 249, 253, 260 recorded; 264 and 268 recording (built one by one from `.content-work/work/johns-hopkins-2016/single-<n>/`,
   because the validator refuses gaps). Audio only in this container; rebuild + `voice.py make` reproduces it; a worker
   restart at ~01:00 UTC interrupted 211-220, which were recorded again.
   `voice.py check` of 151-180: 5 sentences flagged, all false alarms when each clip was transcribed alone (155 and 180:
@@ -33,8 +33,8 @@ do not write 151+ in parallel; pictures, voices and publishing of 1-150 are unaf
   carry the trough toward that commissure).
 - **Quotation pool: exhausted after 241. THE OWNER MUST DECIDE.** Every One Piece line used in 1-240 has been used
   twice (the book's limit, `quoteRepeats` max 2). The last second uses went to 241 (Oden), 245 (Bon Clay), 249,
-  253 and 260 (Zoro); three lines can still serve once more where they fit a story: Zoro's "minimal injuries"
-  (from 248), Koshiro's "the sword is yours" (from 256) and Kureha's "Hee-hee-hee! Are you happy?" (from 264). `drafts/johns-hopkins-2016/quote-bank.md` lists the
+  253 and 260 (Zoro), 264 (Kureha's "Hee-hee-hee! Are you happy?") and 268 (Zoro's "minimal injuries"); one line can
+  still serve once more where it fits a story: Koshiro's "the sword is yours" (from 256). `drafts/johns-hopkins-2016/quote-bank.md` lists the
   checked lines. Searching for more (Wikiquote, quote lists) found almost nothing usable. Options for the owner:
   (1) allow a third use of each line, still 20 lessons apart (simplest; enough for about 115 more lessons);
   (2) allow other genuine sources (another anime, or Arabic poetry and proverbs as in MedCosmos);
@@ -44,6 +44,14 @@ do not write 151+ in parallel; pictures, voices and publishing of 1-150 are unaf
 - `content/symbols.json`: new symbol **antibiotics = a giant pencil** (PENCIL-lin = penicillin; Johns Hopkins 27
   already drew it); "vegetation" now also names the endocarditis cards.
 - `content/symbols.json`: the VSD symbol also covers ventricular septal rupture after infarction (same hole, same drawing).
+- `content/symbols.json`: new symbol **stem cells = seedlings on long stems planted into the scar** (STEM cells; JH 262-265);
+  the kind of cell is told by where the seedlings come from (a cracked bone = marrow, a messy heap = MESS-enchymal,
+  tiny skeletons = skeletal myoblasts).
+- `content/books/johns-hopkins-2016.json` has a `typos` map (used by `batch.py build` on the quiz text): it mends the OCR
+  misprints of 261, 263, 268 and 269 ("1 00,000", "L VEF", "MID CAB", "cross-damp"...). **Many earlier questions
+  carry the same kind of misprint** ("An 1 8-year-old", "1 00 mm Hg", "r egarding", "a fter"; about 90 places, found by
+  scanning the master for a digit, a space and a digit, or a split word); adding them to the map and rebuilding would
+  mend the published lessons too (ids do not change). Not done yet.
 
 **Update (2026-11-21, ~15:45 UTC, a new session): JOHNS HOPKINS 2016: 82 LESSONS PUBLISHED.**
 - The owner had uploaded 82 JH pictures (11:06-11:52 UTC; the handoff below missed them). All 82 are published

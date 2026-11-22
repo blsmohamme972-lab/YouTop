@@ -26,7 +26,7 @@
    "firstUsed": "MedCosmos 13",
    "status": "approved",
    "reason": "total 8/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -54,7 +54,7 @@
    "firstUsed": "MedCosmos 13",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -83,7 +83,7 @@
    "firstUsed": "MedCosmos 14",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -110,7 +110,7 @@
    "firstUsed": "MedCosmos 13",
    "status": "approved",
    "reason": "total 8/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -136,7 +136,7 @@
    "firstUsed": "MedCosmos 13",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -162,7 +162,7 @@
    "firstUsed": "MedCosmos 13",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -190,7 +190,7 @@
    "firstUsed": "MedCosmos 15",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -216,7 +216,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 8/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -244,7 +244,7 @@
    "firstUsed": "MedCosmos 7",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -270,7 +270,7 @@
    "firstUsed": "MedCosmos 7",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -296,7 +296,7 @@
    "firstUsed": "MedCosmos 7",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -328,7 +328,7 @@
    "firstUsed": "MedCosmos 8",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -356,7 +356,7 @@
    "firstUsed": "MedCosmos 19",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "family": "pressure",
    "legacy": true
   },
@@ -384,7 +384,7 @@
    "firstUsed": "MedCosmos 19",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "family": "pressure",
    "legacy": true
   },
@@ -409,7 +409,7 @@
    "firstUsed": "",
    "status": "rejected",
    "reason": "total 6/10 is below 8",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -437,7 +437,7 @@
    "firstUsed": "MedCosmos 10",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -466,7 +466,7 @@
    "family": "corona",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -496,7 +496,7 @@
    "family": "corona",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -523,7 +523,7 @@
    "firstUsed": "MedCosmos 15",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -550,7 +550,7 @@
    "firstUsed": "MedCosmos 20",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -580,7 +580,7 @@
    "firstUsed": "MedCosmos 16",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -609,7 +609,7 @@
    "firstUsed": "MedCosmos 1",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -638,7 +638,7 @@
    "firstUsed": "MedCosmos 2",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -665,7 +665,7 @@
    "firstUsed": "MedCosmos 3",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -691,7 +691,7 @@
    "firstUsed": "MedCosmos 3",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -718,7 +718,7 @@
    "firstUsed": "MedCosmos 3",
    "status": "approved",
    "reason": "total 8/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -744,7 +744,7 @@
    "firstUsed": "MedCosmos 3",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -771,7 +771,7 @@
    "firstUsed": "MedCosmos 3",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -800,7 +800,7 @@
    "firstUsed": "MedCosmos 11",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true,
    "family": "echo"
   },
@@ -825,7 +825,7 @@
    "firstUsed": "",
    "status": "rejected",
    "reason": "total 7/10 is below 8",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -855,7 +855,7 @@
    "firstUsed": "MedCosmos 11",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -883,7 +883,7 @@
    "firstUsed": "Shahzad 2015",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -913,7 +913,7 @@
    "firstUsed": "MedCosmos 12",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -943,7 +943,7 @@
    "firstUsed": "MedCosmos 12",
    "status": "approved",
    "reason": "total 9/10, 3 layers",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "layers": {
     "sound": "endo-CARD-itis = playing cards",
     "meaning": "vegetations = broccoli and moss sprouting from them",
@@ -974,7 +974,7 @@
    "firstUsed": "MedCosmos 14",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -1001,7 +1001,7 @@
    "firstUsed": "MedCosmos 5",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -1029,7 +1029,7 @@
    "firstUsed": "Shahzad 2015",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -1059,7 +1059,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -1083,7 +1083,7 @@
    "firstUsed": "Shahzad 2015",
    "status": "rejected",
    "reason": "total 7/10 is below 8",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -1113,7 +1113,7 @@
    "firstUsed": "MedCosmos 21",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -1142,7 +1142,7 @@
    "firstUsed": "MedCosmos 25",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -1171,7 +1171,7 @@
    "firstUsed": "MedCosmos 25",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -1200,7 +1200,7 @@
    "firstUsed": "MedCosmos 25",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -1227,7 +1227,7 @@
    "firstUsed": "MedCosmos 25",
    "status": "approved",
    "reason": "total 8/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -1256,7 +1256,7 @@
    "firstUsed": "MedCosmos 28",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -1284,7 +1284,7 @@
    "firstUsed": "MedCosmos 28",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -1316,7 +1316,7 @@
    "firstUsed": "MedCosmos 28",
    "status": "approved",
    "reason": "total 8/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -1343,7 +1343,7 @@
    "firstUsed": "MedCosmos 29",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -1369,7 +1369,7 @@
    "firstUsed": "MedCosmos 30",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -1397,7 +1397,7 @@
    "firstUsed": "MedCosmos 30",
    "status": "approved",
    "reason": "total 8/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -1425,7 +1425,7 @@
    "firstUsed": "MedCosmos 30",
    "status": "approved",
    "reason": "total 8/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -1453,7 +1453,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -1483,7 +1483,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -1516,7 +1516,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -1546,7 +1546,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -1575,7 +1575,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -1605,7 +1605,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -1641,7 +1641,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -1671,7 +1671,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -1700,7 +1700,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -1728,7 +1728,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -1758,7 +1758,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -1789,7 +1789,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -1818,7 +1818,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -1846,7 +1846,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -1876,7 +1876,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -1906,7 +1906,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -1937,7 +1937,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -1967,7 +1967,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -1996,7 +1996,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -2028,7 +2028,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -2062,7 +2062,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -2093,7 +2093,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -2122,7 +2122,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -2152,7 +2152,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -2184,7 +2184,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -2214,7 +2214,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -2243,7 +2243,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -2272,7 +2272,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -2308,7 +2308,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -2339,7 +2339,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -2375,7 +2375,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -2406,7 +2406,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -2437,7 +2437,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -2468,7 +2468,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -2500,7 +2500,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true,
    "family": "potassium"
   },
@@ -2537,7 +2537,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -2567,7 +2567,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -2596,7 +2596,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -2626,7 +2626,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -2656,7 +2656,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -2688,7 +2688,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -2716,7 +2716,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -2746,7 +2746,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -2774,7 +2774,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -2803,7 +2803,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -2837,7 +2837,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -2866,7 +2866,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true,
    "family": "fibrillation"
   },
@@ -2898,7 +2898,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -2926,7 +2926,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -2959,7 +2959,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -2989,7 +2989,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -3021,7 +3021,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -3047,7 +3047,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -3079,7 +3079,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -3112,7 +3112,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -3141,7 +3141,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -3171,7 +3171,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -3201,7 +3201,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -3241,7 +3241,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true,
    "family": "cancer"
   },
@@ -3274,7 +3274,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -3304,7 +3304,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -3335,7 +3335,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -3361,7 +3361,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -3392,7 +3392,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -3418,7 +3418,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -3447,7 +3447,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -3474,7 +3474,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -3505,7 +3505,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -3535,7 +3535,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -3562,7 +3562,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -3593,7 +3593,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -3624,7 +3624,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -3656,7 +3656,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -3688,7 +3688,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -3721,7 +3721,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 9/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -3749,7 +3749,7 @@
    "firstUsed": "medcosmos-cardiac",
    "status": "approved",
    "reason": "total 10/10",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "legacy": true
   },
   {
@@ -3785,7 +3785,7 @@
    "firstUsed": "johns-hopkins-2016",
    "status": "approved",
    "reason": "total 10/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "ct-scan",
@@ -3817,7 +3817,7 @@
    "firstUsed": "johns-hopkins-2016",
    "status": "approved",
    "reason": "total 10/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "pet-scan",
@@ -3850,7 +3850,7 @@
    "firstUsed": "johns-hopkins-2016",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "node-stations",
@@ -3883,7 +3883,7 @@
    "firstUsed": "johns-hopkins-2016",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "trachea",
@@ -3915,7 +3915,7 @@
    "firstUsed": "johns-hopkins-2016",
    "status": "approved",
    "reason": "total 8/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "tuberculosis",
@@ -3948,7 +3948,7 @@
    "firstUsed": "johns-hopkins-2016",
    "status": "approved",
    "reason": "total 10/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "oesophagus",
@@ -3983,7 +3983,7 @@
    "firstUsed": "johns-hopkins-2016",
    "status": "approved",
    "reason": "total 9/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "stomach",
@@ -4017,7 +4017,7 @@
    "firstUsed": "johns-hopkins-2016 10",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "les",
@@ -4052,7 +4052,7 @@
    "firstUsed": "johns-hopkins-2016",
    "status": "approved",
    "reason": "total 8/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "reflux",
@@ -4090,7 +4090,7 @@
    "firstUsed": "johns-hopkins-2016",
    "status": "approved",
    "reason": "total 10/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "barrett",
@@ -4126,7 +4126,7 @@
    "firstUsed": "johns-hopkins-2016",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "achalasia",
@@ -4157,7 +4157,7 @@
    "firstUsed": "johns-hopkins-2016",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "fundoplication",
@@ -4192,7 +4192,7 @@
    "firstUsed": "johns-hopkins-2016",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "thymoma",
@@ -4224,7 +4224,7 @@
    "firstUsed": "johns-hopkins-2016",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "pectus-excavatum",
@@ -4255,7 +4255,7 @@
    "firstUsed": "johns-hopkins-2016",
    "status": "approved",
    "reason": "total 10/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "carotid",
@@ -4289,7 +4289,7 @@
    "firstUsed": "johns-hopkins-2016",
    "status": "approved",
    "reason": "total 10/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "amiodarone",
@@ -4318,7 +4318,7 @@
    "firstUsed": "johns-hopkins-2016 25",
    "status": "approved",
    "reason": "total 10/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "diaphragm",
@@ -4351,7 +4351,7 @@
    "firstUsed": "johns-hopkins-2016 10",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "hiatal-hernia",
@@ -4387,7 +4387,7 @@
    "firstUsed": "johns-hopkins-2016 68",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "hibernating",
@@ -4418,7 +4418,7 @@
    "firstUsed": "johns-hopkins-2016",
    "status": "approved",
    "reason": "total 10/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "mesothelioma",
@@ -4450,7 +4450,7 @@
    "firstUsed": "johns-hopkins-2016",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "valve-stenosis",
@@ -4493,7 +4493,7 @@
    "firstUsed": "MedCosmos 41 (pinched narrow)",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "regurgitation",
@@ -4536,7 +4536,7 @@
    "firstUsed": "MedCosmos 65",
    "status": "approved",
    "reason": "total 8/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "prolapse",
@@ -4575,7 +4575,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 8/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "papillary-muscle",
@@ -4612,7 +4612,7 @@
    "firstUsed": "MedCosmos 105 (the post)",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "annulus",
@@ -4652,7 +4652,7 @@
    "firstUsed": "MedCosmos 42 (the orca's collar)",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "vsd",
@@ -4698,7 +4698,7 @@
    "family": "party-wall",
    "status": "approved",
    "reason": "total 10/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "asd",
@@ -4732,7 +4732,7 @@
    "family": "party-wall",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "avsd",
@@ -4771,7 +4771,7 @@
    "family": "party-wall",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "rheumatic",
@@ -4805,7 +4805,7 @@
    "firstUsed": "MedCosmos (rheumatic heart disease)",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "family": "strep"
   },
   {
@@ -4840,7 +4840,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "aortic-root",
@@ -4880,7 +4880,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "dissection",
@@ -4922,7 +4922,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "bentall",
@@ -4960,7 +4960,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "valve-sparing",
@@ -4999,7 +4999,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 9/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "marfan",
@@ -5040,7 +5040,7 @@
    "firstUsed": "Johns Hopkins 92 (the crimson fan)",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "circulatory-arrest",
@@ -5073,7 +5073,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "hypothermia",
@@ -5111,7 +5111,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 9/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "stent-graft",
@@ -5151,7 +5151,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "adamkiewicz",
@@ -5189,7 +5189,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "pericardium",
@@ -5229,7 +5229,7 @@
    "family": "pericardium",
    "status": "approved",
    "reason": "total 9/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "tamponade",
@@ -5262,7 +5262,7 @@
    "family": "pericardium",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "constrictive-pericarditis",
@@ -5297,7 +5297,7 @@
    "family": "pericardium",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "vad",
@@ -5339,7 +5339,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "ecmo",
@@ -5377,7 +5377,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 8/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "transplant",
@@ -5418,7 +5418,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "rejection",
@@ -5460,7 +5460,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "cardiogenic-shock",
@@ -5494,7 +5494,7 @@
    "firstUsed": "MedCosmos (the hotel's lights going out)",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "av-node",
@@ -5531,7 +5531,7 @@
    "firstUsed": "MedCosmos (the knot)",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "atrial-flutter",
@@ -5566,7 +5566,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "ventricular-fibrillation",
@@ -5600,7 +5600,7 @@
    "family": "fibrillation",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "tachycardia",
@@ -5641,7 +5641,7 @@
    "family": "heart-rate",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "bradycardia",
@@ -5676,7 +5676,7 @@
    "family": "heart-rate",
    "status": "approved",
    "reason": "total 8/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "icd",
@@ -5710,7 +5710,7 @@
    "firstUsed": "MedCosmos (a tiny bodyguard)",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "rca",
@@ -5744,7 +5744,7 @@
    "firstUsed": "Johns Hopkins 129 (the crown's right spike)",
    "status": "approved",
    "reason": "total 8/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "circumflex",
@@ -5782,7 +5782,7 @@
    "firstUsed": "Johns Hopkins 132 (the back-left spike)",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "left-main",
@@ -5818,7 +5818,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "nitroglycerin",
@@ -5857,7 +5857,7 @@
    "firstUsed": "MedCosmos (nitro dynamite)",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21",
+   "audited": "2026-11-22",
    "family": "nitro"
   },
   {
@@ -5898,7 +5898,7 @@
    "firstUsed": "MedCosmos (a treadmill)",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "catheterization",
@@ -5939,7 +5939,7 @@
    "firstUsed": "MedCosmos (a probe on a reel)",
    "status": "approved",
    "reason": "total 9/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "angiography",
@@ -5980,7 +5980,7 @@
    "firstUsed": "MedCosmos (a photographer with magenta dye)",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "tapvc",
@@ -6020,7 +6020,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 9/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "norwood",
@@ -6059,7 +6059,7 @@
    "firstUsed": "MedCosmos (a Norwegian woodcutter)",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "mri",
@@ -6098,7 +6098,7 @@
    "firstUsed": "Johns Hopkins (a horseshoe magnet)",
    "status": "approved",
    "reason": "total 10/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "thrombus",
@@ -6143,7 +6143,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "platelets",
@@ -6179,7 +6179,7 @@
    "firstUsed": "MedCosmos (little white plates)",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "vasopressor",
@@ -6219,7 +6219,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "potassium",
@@ -6257,7 +6257,7 @@
    "family": "potassium",
    "status": "approved",
    "reason": "total 10/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "steroids",
@@ -6297,7 +6297,7 @@
    "firstUsed": "Johns Hopkins (a stereo)",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "hypotension",
@@ -6331,7 +6331,7 @@
    "family": "pressure",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "staph-aureus",
@@ -6369,7 +6369,7 @@
    "firstUsed": "MedCosmos 130 (golden grapes)",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "squamous",
@@ -6405,7 +6405,7 @@
    "family": "cancer",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "small-cell",
@@ -6444,7 +6444,7 @@
    "family": "cancer",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "carcinoid",
@@ -6485,7 +6485,7 @@
    "family": "cancer",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "staging",
@@ -6531,7 +6531,7 @@
    "firstUsed": "Johns Hopkins (a podium step)",
    "status": "approved",
    "reason": "total 9/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "chemotherapy",
@@ -6569,7 +6569,7 @@
    "firstUsed": "Johns Hopkins (a green potion)",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "radiotherapy",
@@ -6611,7 +6611,7 @@
    "firstUsed": "Johns Hopkins (violet rays)",
    "status": "approved",
    "reason": "total 9/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "adjuvant",
@@ -6649,7 +6649,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "mediastinoscopy",
@@ -6683,7 +6683,7 @@
    "family": "scope",
    "status": "approved",
    "reason": "total 9/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "ebus",
@@ -6717,7 +6717,7 @@
    "family": "scope",
    "status": "approved",
    "reason": "total 9/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "bronchoscopy",
@@ -6752,7 +6752,7 @@
    "family": "scope",
    "status": "approved",
    "reason": "total 8/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "thoracoscopy",
@@ -6789,7 +6789,7 @@
    "family": "scope",
    "status": "approved",
    "reason": "total 10/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "endoscopy",
@@ -6832,7 +6832,7 @@
    "family": "scope",
    "status": "approved",
    "reason": "total 9/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "lobectomy",
@@ -6873,7 +6873,7 @@
    "firstUsed": "Johns Hopkins 17 (one lobe lifted out by its string)",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "pneumonectomy",
@@ -6911,7 +6911,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "wedge-resection",
@@ -6946,7 +6946,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 9/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "segmentectomy",
@@ -6980,7 +6980,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "lung-nodule",
@@ -7021,7 +7021,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "pancoast",
@@ -7058,7 +7058,7 @@
    "family": "cancer",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "fev1",
@@ -7095,7 +7095,7 @@
    "firstUsed": "Johns Hopkins (a brass horn)",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "dlco",
@@ -7131,7 +7131,7 @@
    "firstUsed": "Johns Hopkins (a fishnet)",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "vo2max",
@@ -7169,7 +7169,7 @@
    "firstUsed": "Johns Hopkins (an ox in a treadmill wheel)",
    "status": "approved",
    "reason": "total 10/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "smoking",
@@ -7212,7 +7212,7 @@
    "firstUsed": "Johns Hopkins (cigars)",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "emphysema",
@@ -7253,7 +7253,7 @@
    "firstUsed": "Johns Hopkins 33 (the holed, puffed-up sack)",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "bulla",
@@ -7292,7 +7292,7 @@
    "firstUsed": "Johns Hopkins 35 (a bull balloon)",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "pleural-effusion",
@@ -7333,7 +7333,7 @@
    "family": "pleura",
    "status": "approved",
    "reason": "total 8/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "empyema",
@@ -7370,7 +7370,7 @@
    "family": "pleura",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "pneumothorax",
@@ -7407,7 +7407,7 @@
    "family": "pleura",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "chest-tube",
@@ -7448,7 +7448,7 @@
    "family": "pleura",
    "status": "approved",
    "reason": "total 8/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "chylothorax",
@@ -7485,7 +7485,7 @@
    "family": "pleura",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "hemoptysis",
@@ -7520,7 +7520,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 9/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "aspergilloma",
@@ -7556,7 +7556,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "abscess",
@@ -7596,7 +7596,7 @@
    "firstUsed": "Johns Hopkins 26 (a festering cave)",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "sequestration",
@@ -7631,7 +7631,7 @@
    "firstUsed": "Johns Hopkins (a jail cell)",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "germ-cell",
@@ -7673,7 +7673,7 @@
    "firstUsed": "Johns Hopkins (a cracked egg)",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "lymphoma",
@@ -7713,7 +7713,7 @@
    "firstUsed": "Johns Hopkins (a swarm of bees)",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "neurogenic-tumour",
@@ -7754,7 +7754,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "myasthenia",
@@ -7787,7 +7787,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "boerhaave",
@@ -7824,7 +7824,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "anastomotic-leak",
@@ -7860,7 +7860,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 8/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "flail-chest",
@@ -7894,7 +7894,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 9/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "thoracic-outlet",
@@ -7933,7 +7933,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 9/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "phrenic",
@@ -7969,7 +7969,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 9/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "recurrent-laryngeal",
@@ -8007,7 +8007,7 @@
    "firstUsed": "MedCosmos (a hoarse brown horse)",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "claudication",
@@ -8044,7 +8044,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "femoral",
@@ -8082,7 +8082,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 8/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "iliac",
@@ -8124,7 +8124,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "mesenteric",
@@ -8172,7 +8172,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "kidney",
@@ -8223,7 +8223,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "ivc",
@@ -8259,7 +8259,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 8/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "endarterectomy",
@@ -8299,7 +8299,7 @@
    "firstUsed": "Johns Hopkins 147 (scraping the carrot)",
    "status": "approved",
    "reason": "total 8/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "frank-starling",
@@ -8335,7 +8335,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 9/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "afterload",
@@ -8370,7 +8370,7 @@
    "firstUsed": "MedCosmos (the city's gates)",
    "status": "approved",
    "reason": "total 8/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "pvi",
@@ -8404,7 +8404,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 9/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "laplace",
@@ -8439,7 +8439,7 @@
    "firstUsed": "MedCosmos (a balloon, its skin thinning)",
    "status": "approved",
    "reason": "total 9/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "cardiac-output",
@@ -8472,7 +8472,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 8/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "red-cells",
@@ -8520,7 +8520,7 @@
    "family": "red-cells",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "sodium",
@@ -8558,7 +8558,7 @@
    "firstUsed": "MedCosmos (salt through a revolving door)",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "complement",
@@ -8591,7 +8591,7 @@
    "firstUsed": "MedCosmos (bouquets of compliments)",
    "status": "approved",
    "reason": "total 9/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "stunning",
@@ -8624,7 +8624,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "membranous-septum",
@@ -8657,7 +8657,7 @@
    "firstUsed": "MedCosmos (a thin drum skin)",
    "status": "approved",
    "reason": "total 9/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "cannulation",
@@ -8697,7 +8697,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "cross-clamp",
@@ -8736,7 +8736,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 8/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "roller-pump",
@@ -8769,7 +8769,7 @@
    "firstUsed": "Johns Hopkins (a rolling pin)",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "centrifugal-pump",
@@ -8803,7 +8803,7 @@
    "firstUsed": "Johns Hopkins (a spinning cone)",
    "status": "approved",
    "reason": "total 9/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "act",
@@ -8838,7 +8838,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "protamine",
@@ -8873,7 +8873,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "antithrombin",
@@ -8908,7 +8908,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 8/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "fibrinogen",
@@ -8944,7 +8944,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 9/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "ffp",
@@ -8982,7 +8982,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "vitamin-k",
@@ -9016,7 +9016,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "air-embolism",
@@ -9054,7 +9054,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "off-pump",
@@ -9094,7 +9094,7 @@
    "firstUsed": "Johns Hopkins (fans turning, the pump idle)",
    "status": "approved",
    "reason": "total 10/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "clopidogrel",
@@ -9134,7 +9134,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "bivalirudin",
@@ -9170,7 +9170,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "pfo",
@@ -9204,7 +9204,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "laa",
@@ -9244,7 +9244,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "brachiocephalic",
@@ -9276,7 +9276,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "azygos",
@@ -9311,7 +9311,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 9/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "left-svc",
@@ -9346,7 +9346,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "thoracotomy",
@@ -9386,7 +9386,7 @@
    "firstUsed": "Johns Hopkins (the side lid of the chest)",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "subxiphoid",
@@ -9421,7 +9421,7 @@
    "firstUsed": "MedCosmos (a yellow submarine)",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "tee",
@@ -9460,7 +9460,7 @@
    "family": "echo",
    "status": "approved",
    "reason": "total 10/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "sam",
@@ -9495,7 +9495,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "alfieri",
@@ -9533,7 +9533,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "carpentier",
@@ -9571,7 +9571,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "scallops",
@@ -9605,7 +9605,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "duke-criteria",
@@ -9638,7 +9638,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 9/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "viridans",
@@ -9675,7 +9675,7 @@
    "family": "strep",
    "status": "approved",
    "reason": "total 9/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "ppm",
@@ -9707,7 +9707,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "homograft",
@@ -9744,7 +9744,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 8/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "pseudoaneurysm",
@@ -9780,7 +9780,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "intramural-hematoma",
@@ -9813,7 +9813,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "penetrating-ulcer",
@@ -9845,7 +9845,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "elephant-trunk",
@@ -9877,7 +9877,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "blunt-aortic-injury",
@@ -9912,7 +9912,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "thoracoabdominal",
@@ -9948,7 +9948,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 9/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "porcelain-aorta",
@@ -9979,7 +9979,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "radial-artery",
@@ -10014,7 +10014,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "statins",
@@ -10052,7 +10052,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 8/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "nitric-oxide",
@@ -10086,7 +10086,7 @@
    "family": "nitro",
    "status": "approved",
    "reason": "total 9/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "adenosine",
@@ -10117,7 +10117,7 @@
    "firstUsed": "MedCosmos (a lion in its den)",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "lidocaine",
@@ -10152,7 +10152,7 @@
    "firstUsed": "MedCosmos (a dentist's numbing needle)",
    "status": "approved",
    "reason": "total 8/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "troponin",
@@ -10190,7 +10190,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "torsades",
@@ -10226,7 +10226,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "crt",
@@ -10261,7 +10261,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "pericarditis",
@@ -10301,7 +10301,7 @@
    "family": "pericardium",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "fibroelastoma",
@@ -10333,7 +10333,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "rhabdomyoma",
@@ -10366,7 +10366,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "angiosarcoma",
@@ -10400,7 +10400,7 @@
    "family": "cancer",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "cni",
@@ -10439,7 +10439,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 9/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "interrupted-arch",
@@ -10472,7 +10472,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 8/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "digeorge",
@@ -10509,7 +10509,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "down-syndrome",
@@ -10541,7 +10541,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 9/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "turner",
@@ -10575,7 +10575,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 9/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "williams",
@@ -10608,7 +10608,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "holt-oram",
@@ -10640,7 +10640,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 9/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "vascular-ring",
@@ -10673,7 +10673,7 @@
    "firstUsed": "MedCosmos 8 (two orcas closing a ring)",
    "status": "approved",
    "reason": "total 10/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "pa-sling",
@@ -10706,7 +10706,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "mapca",
@@ -10743,7 +10743,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "ap-window",
@@ -10775,7 +10775,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "cor-triatriatum",
@@ -10809,7 +10809,7 @@
    "firstUsed": "MedCosmos (a third atrium lobby)",
    "status": "approved",
    "reason": "total 9/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "cc-tga",
@@ -10843,7 +10843,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 8/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "scimitar",
@@ -10875,7 +10875,7 @@
    "firstUsed": "MedCosmos 116 (a scimitar sword)",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "lusoria",
@@ -10913,7 +10913,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 9/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "cryoablation",
@@ -10948,7 +10948,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 9/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "parachute-mitral",
@@ -10983,7 +10983,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "cone-repair",
@@ -11016,7 +11016,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "hemolysis",
@@ -11055,7 +11055,7 @@
    "family": "red-cells",
    "status": "approved",
    "reason": "total 9/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "cold-agglutinin",
@@ -11090,7 +11090,7 @@
    "family": "red-cells",
    "status": "approved",
    "reason": "total 9/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "vasoplegia",
@@ -11124,7 +11124,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "wound-vac",
@@ -11161,7 +11161,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "occluder",
@@ -11198,7 +11198,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "lecompte",
@@ -11231,7 +11231,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "myocardial-bridge",
@@ -11265,7 +11265,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "subclavian-steal",
@@ -11297,7 +11297,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "ep-study",
@@ -11332,7 +11332,7 @@
    "firstUsed": "MedCosmos (a sparking blue wand)",
    "status": "approved",
    "reason": "total 8/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "free-wall-rupture",
@@ -11366,7 +11366,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "coaptation",
@@ -11402,7 +11402,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 8/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "infundibulum",
@@ -11440,7 +11440,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "fontan-fenestration",
@@ -11472,7 +11472,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 8/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "nyha",
@@ -11506,7 +11506,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "alcohol-ablation",
@@ -11539,7 +11539,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "endothelium",
@@ -11573,7 +11573,7 @@
    "firstUsed": "Johns Hopkins (smooth white tiles)",
    "status": "approved",
    "reason": "total 8/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "dor",
@@ -11609,7 +11609,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 9/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "cardiac-box",
@@ -11644,7 +11644,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "takotsubo",
@@ -11679,7 +11679,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 9/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "bovine-pericardial",
@@ -11714,7 +11714,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 9/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "ball-cage",
@@ -11750,7 +11750,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "dcm",
@@ -11784,7 +11784,7 @@
    "firstUsed": "",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "ventilation",
@@ -11821,7 +11821,7 @@
    "firstUsed": "Johns Hopkins (a leather bellows)",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
   },
   {
    "id": "antibiotics",
@@ -11862,7 +11862,47 @@
    "firstUsed": "Johns Hopkins 27",
    "status": "approved",
    "reason": "total 9/10, 3 layers",
-   "audited": "2026-11-21"
+   "audited": "2026-11-22"
+  },
+  {
+   "id": "stem-cells",
+   "concept": "Stem cells and cell therapy for the heart (bone marrow cells, mesenchymal cells, progenitor cells, myoblasts)",
+   "terms": [
+    "stem cell",
+    "stem cells",
+    "stem cell therapy",
+    "cell therapy",
+    "cell-based therapy",
+    "cell transplantation",
+    "progenitor cells",
+    "progenitor cell",
+    "regenerative therapy",
+    "cellular cardiomyoplasty"
+   ],
+   "symbol": "a gardener's tray of little green SEEDLINGS on long STEMS, planted into the grey scar of the red engine room's wall to grow new muscle there",
+   "anchors": [
+    "seedling",
+    "seedlings"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "STEM cells = seedlings on long STEMS",
+    "meaning": "a seedling can still grow into anything, as a stem cell can become new tissue",
+    "place": "planted into the scar of the engine room's wall, where muscle was lost"
+   },
+   "why": "STEM cells drawn as seedlings on stems, planted into the scar",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "The kind of cell is told by where the seedlings come from: scooped out of the red marrow of a cracked-open white bone (bone marrow cells), sprouting from a messy heap (MESS-enchymal cells), sprouting into tiny new pipes (endothelial progenitor cells), shaped like tiny skeletons (SKELETAL myoblasts), grown in the hotel's own window box (cardiac-derived cells). How they are given: poured from a watering can down the slides of the Liberty crown (intracoronary), injected through the wall (intramyocardial).",
+   "firstUsed": "Johns Hopkins 262",
+   "status": "approved",
+   "reason": "total 9/10, 3 layers",
+   "audited": "2026-11-22"
   }
  ]
 }

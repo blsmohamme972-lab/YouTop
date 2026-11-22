@@ -16,5 +16,14 @@
   "quoteRepeats": {
     "max": 2,
     "gap": 20
+  },
+  "typos": {
+    "1 0,000": "10,000",
+    "1 00,000": "100,000",
+    "L VEF": "LVEF",
+    "BM C-therapy": "BMC therapy",
+    "within 1 2 h": "within 12 h",
+    "MID CAB": "MIDCAB",
+    "cross-damp": "cross-clamp"
   }
 }
