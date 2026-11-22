@@ -118,7 +118,7 @@ def write_readable(data):
         "drop is the decimal point (5.5 = hamsa, golden drop, hamsa). The story names the digits in order. Units are not",
         "drawn. In `keywords:` write `number 5.5 (what it measures) -> a small tattoo on ...: the objects in order`;",
         "`symbols.py check` makes sure every digit is drawn, in order, and that the keyword says where. A number counts",
-        "as one of the lesson's three recurring symbols.", "",
+        "as one of the lesson's four recurring symbols.", "",
         "| Digit | Drawn as | Say (Arabic) | Why it sticks |", "|---|---|---|---|"] + [
         f"| {s['digit']} | {s['symbol']} | {s.get('ar', '')} | {s['why']} |"
         for s in sorted((x for x in data["symbols"] if x.get("family") == "digits" and x["status"] == "approved"),
@@ -251,9 +251,14 @@ def check_items(items, data=None):
     return problems, local
 
 
-# The owner (2026-11-22): every lesson carries at least three recurring symbols. The HART Hotel and its lobbies and
-# engine rooms, the frame of every heart picture, do not count; each symbol must be named in 'keywords:' and drawn there.
-MIN_PER_LESSON = 3
+# The owner (2026-11-22): every lesson carries at least four recurring symbols (three until the owner's rule 7, the
+# same evening). The HART Hotel and its lobbies and engine rooms, the frame of every heart picture, do not count; each
+# symbol must be named in 'keywords:' and drawn there.
+MIN_PER_LESSON = 4
+# The owner's rule 7 (2026-11-22): twelve symbols in each picture (at least 4 recurring, 5 one-off sound-alikes, up to 3
+# others), all on the question stem and the text of the correct answer, around one anchor: the central image that joins
+# what is asked to the correct answer, built on a recurring symbol.
+TOTAL_PER_LESSON, ONE_OFF_PER_LESSON, CROWDED = 12, 5, 14
 FRAME = {"hart-hotel", "atrium", "ventricle"}
 
 
@@ -279,6 +284,79 @@ def lesson_symbols(b, data=None):
     return found
 
 
+def keyword_pairs(b):
+    """The 'term -> object' pairs of a lesson's 'keywords:' line."""
+    out = []
+    for part in (b.get("keywords") or "").split(";"):
+        pieces = re.split(r"->|→", part, maxsplit=1)
+        if len(pieces) == 2 and pieces[0].strip() and pieces[1].strip():
+            out.append((pieces[0].strip(), pieces[1].strip()))
+    return out
+
+
+def lesson_counts(b, data=None):
+    """How many symbols a lesson's keywords name: all of them, the recurring ones (as the three-symbol rule counts
+    them) and the one-offs (terms no symbol covers; numbers are not one-offs)."""
+    data = data or load()
+    pairs = keyword_pairs(b)
+    one_off = sum(1 for t, _ in pairs if number_term(t) is None and match(t, data) is None)
+    return {"total": len(pairs), "recurring": len(lesson_symbols(b, data)), "one_off": one_off}
+
+
+def anchor_problem(b, data=None):
+    """None when the lesson has an anchor built on a recurring symbol, else what is wrong."""
+    data = data or load()
+    text = (b.get("anchor") or "").strip()
+    if not text:
+        return "no 'anchor:' line: the one central image that joins what the question asks to its correct answer"
+    pieces = re.split(r"->|→", text, maxsplit=1)
+    if len(pieces) != 2 or not pieces[1].strip():
+        return "write the anchor as 'anchor: what is asked -> the image that shows the correct answer'"
+    if not any(s.get("status") == "approved" and s["id"] not in FRAME and s.get("family") != "digits" and has_anchor(pieces[1], s)
+               for s in data["symbols"]):
+        return "the anchor's image names no recurring symbol: draw what is asked as its recurring symbol (make one if it has none)"
+    return None
+
+
+DIGIT = re.compile(r"\d")
+
+
+def written_numbers(b):
+    """Where a lesson's picture would get written digits: numbers are drawn with the number symbols (rule 6)."""
+    out = [f"the object of '{t}'" for t, o in keyword_pairs(b) if DIGIT.search(re.sub(r"\([^)]*\)|\"[^\"]*\"", "", o))]
+    pieces = re.split(r"->|→", b.get("anchor") or "", maxsplit=1)
+    if len(pieces) == 2 and DIGIT.search(re.sub(r"\([^)]*\)", "", pieces[1])):
+        out.append("the anchor's image")
+    return out
+
+
+def rule7(items, data=None):
+    """The owner's rule 7: an anchor, and twelve symbols with at least five one-offs (the four recurring ones are
+    too_few's); and rule 6: no written digits in what is drawn. Returns (problems, warnings)."""
+    data = data or load()
+    problems, warnings = [], []
+    for b in items:
+        w = f"question {b['n']}"
+        for where in written_numbers(b):
+            problems.append(f"{w}: {where} has written digits; draw a number with the number symbols, small, as a tattoo, "
+                            f"a painting on a wall or a design on an object (the owner's rule 6)")
+        if DIGIT.search(b.get("words") or ""):
+            warnings.append(f"{w}: 'words' paints digits; numbers are drawn with the number symbols now (rule 6)")
+        why = anchor_problem(b, data)
+        if why:
+            problems.append(f"{w}: {why} (the owner's rule 7)")
+        c = lesson_counts(b, data)
+        if c["total"] < TOTAL_PER_LESSON:
+            problems.append(f"{w}: {c['total']} symbols in 'keywords:'; the owner asks for {TOTAL_PER_LESSON} on the question and "
+                            f"its correct answer (at least {MIN_PER_LESSON} recurring, {ONE_OFF_PER_LESSON} one-off; rule 7)")
+        if c["one_off"] < ONE_OFF_PER_LESSON:
+            problems.append(f"{w}: {c['one_off']} one-off symbol(s); the owner asks for {ONE_OFF_PER_LESSON}: sound-alikes for the terms "
+                            f"of the stem and the correct answer that have no recurring symbol (rule 7)")
+        if c["total"] > CROWDED:
+            warnings.append(f"{w}: {c['total']} symbols; twelve is the owner's number, more crowds the picture")
+    return problems, warnings
+
+
 def too_few(items, data=None, minimum=MIN_PER_LESSON):
     """The lessons with fewer than `minimum` recurring symbols (the owner's rule, 2026-11-22)."""
     data = data or load()
@@ -287,7 +365,8 @@ def too_few(items, data=None, minimum=MIN_PER_LESSON):
         ids = lesson_symbols(b, data)
         if len(ids) < minimum:
             out.append(f"question {b['n']}: {len(ids)} recurring symbol(s) ({', '.join(ids) or 'none'}); every lesson needs "
-                       f"at least {minimum}, named in 'keywords:' and drawn (the owner, 2026-11-22; the hotel frame does not count)")
+                       f"at least {minimum}, named in 'keywords:' and drawn (the owner, 2026-11-22; the hotel frame does not count; "
+                       f"recurring symbols may be added or improved, with the audit)")
     return out
 
 
@@ -317,6 +396,10 @@ def main():
         _, items = batch.parse(path)
         problems, local = check_items(items, data)
         problems += too_few(items, data)
+        more, warns = rule7(items, data)
+        problems += more
+        for line in warns:
+            print("warning:", line)
         for p in problems:
             print("PROBLEM:", p)
         print(f"{path}: {len(problems)} problem(s); {len(local)} keyword(s) not in the symbol list (fine if they are one-offs):")

@@ -143,6 +143,14 @@ facts sit on a route (a memory palace); (5) recurring concepts use the same symb
 from `content/symbols.json`, where new symbols are added only after `tools/content/symbols.py audit` approves them (the owner's decision: the audit decides). The prompt
 is the most important step of the work, the story the second.
 
+**Since 2026-11-22 two more rules** (the owner): (6) numbers are drawn with the number symbols, small, never written
+(below); (7) every lesson has an **anchor**, one central image that joins what the question asks to its correct
+answer, built on a recurring symbol (`anchor:` in `batch.txt`), and **twelve symbols** in its picture, all on the
+question stem and the text of the correct option: at least 4 recurring symbols (the hotel frame does not count; a
+number counts once), 5 one-off sound-alikes and up to 3 others. Recurring symbols may be improved or edited when that
+helps (the owner allowed it), always through the audit. `symbols.py check` and `batch.py prompts` refuse a lesson that
+falls short; `batch.py build` only warns, for lessons drawn before.
+
 **Numbers (since 2026-11-22, the owner).** Pictures carry no written numbers, so a number that matters (a size, a
 dose, a percentage, a time) is drawn with the number symbols: one recurring symbol for each digit and the golden drop
 for the decimal point (`content/symbols.md`, "Numbers"): 0 a golden whistle (صفّارة), 1 a white unicorn (وحيد القرن),
@@ -166,7 +174,7 @@ In `keywords:` write `number 5.5 (aortic size for surgery, cm) -> a small tattoo
 hand, a golden drop and a blue hamsa hand`. `symbols.py check` (and so `batch.py prompts`) refuses a number whose
 digits are missing or out of order, or that does not say where it is drawn (tattoo, painting, carved, printed...); a
 repeated digit may be named once with its count ("two hamsa hands"). The prompt asks for numbers as small, neat
-drawings, never written digits. A number counts as one of the lesson's three recurring symbols, however many digits it has.
+drawings, never written digits. A number counts as one of the lesson's four recurring symbols, however many digits it has.
 
 ### Step 4 — quotations
 

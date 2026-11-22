@@ -26,7 +26,7 @@ size, left to right as a number is written; a repeated digit is drawn twice (55 
 drop is the decimal point (5.5 = hamsa, golden drop, hamsa). The story names the digits in order. Units are not
 drawn. In `keywords:` write `number 5.5 (what it measures) -> a small tattoo on ...: the objects in order`;
 `symbols.py check` makes sure every digit is drawn, in order, and that the keyword says where. A number counts
-as one of the lesson's three recurring symbols.
+as one of the lesson's four recurring symbols.
 
 | Digit | Drawn as | Say (Arabic) | Why it sticks |
 |---|---|---|---|
@@ -353,7 +353,7 @@ as one of the lesson's three recurring symbols.
 | calcineurin inhibitors (cyclosporine, tacrolimus) | a CYCLONE wrapped in a crisp TACO shell, sweeping the white soldier ants off the transplanted plant while wringing the kidney beans dry | cyclone and taco | 9/10 | - |
 | interrupted aortic arch | the orca balloon CUT IN TWO at its arch, a clear gap between the halves, the tail half fed only through the duct-tape tunnel (Almost always with a VSD.) | an arch cut in two | 8/10 | - |
 | DiGeorge syndrome (22q11 deletion) | SAINT GEORGE on his horse riding past an EMPTY pot of thyme and a knocked-over can of glue | DiGeorge = Saint George | 10/10 | - |
-| Down syndrome (trisomy 21) | three identical FOOTBALL SHIRTS all numbered 21 hanging side by side on a washing line beside the cross-shaped hole | three shirts numbered 21 | 9/10 | - |
+| Down syndrome (trisomy 21) | three identical FOOTBALL SHIRTS hanging side by side on a washing line beside the cross-shaped hole, each printed with the number 21 as the owner's number symbols: a little green dragon and a little white unicorn (Changed 2026-11-22 (rule 6, the owner allowed editing recurring symbols): the 21 on the shirts is drawn with the number symbols (dragon, unicorn), no longer written.) | three shirts numbered 21 | 9/10 | - |
 | Turner syndrome (45,X) | a single TURNIP carved into the letter X, sitting beside the rope that pinches the orca's waist | Turner = turnip with one X | 9/10 | - |
 | Williams syndrome | a cheerful ELF at a cocktail party, chatting to everyone, wearing the tight pearl necklace that chokes the orca above its mouth | the elf with the pearl necklace | 9/10 | - |
 | Holt-Oram syndrome (heart-hand syndrome) | a man HOLDing a RAM by its curly horns with an odd finger-like thumb, beside a hole in the upper party wall | Holt-Oram = hold a ram | 9/10 | - |

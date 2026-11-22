@@ -38,7 +38,12 @@ The batch file (UTF-8 text). A line "== 41" starts question 41; then "key: value
                                            repeats them at its end as things that must be exactly so)
     keywords: atropine -> a gold TROPHY ("a-TRO-pine"); asystole -> a nun, "a SISTER", lying still
                                           (the owner's rule 2: every abstract term of the answer as a
-                                           concrete sound-alike object; recurring ones from content/symbols.md)
+                                           concrete sound-alike object; recurring ones from content/symbols.md;
+                                           rule 7: twelve, on the stem and the correct answer: at least 4
+                                           recurring, 5 one-off, up to 3 others; numbers per rule 6)
+    anchor: what stops the heart -> the nun lying still on her flat white line, the gold trophy beside her
+                                          (rule 7: what the question asks -> the one central image that shows
+                                           its correct answer, built on at least one recurring symbol)
     scene: dawn at the only gate of a small hill fortress. ...
     story:
     كان لقلعة التلّ بابٌ واحد ...
@@ -79,7 +84,7 @@ import argparse, json, pathlib, re, shutil, subprocess, sys, unicodedata
 ROOT = pathlib.Path(__file__).resolve().parents[2]
 DEFAULT_FOLDER = ROOT / ".content-work"
 LATIN = re.compile(r"[A-Za-z]")
-KEYS = {"title", "titleAr", "tags", "palette", "words", "must", "keywords", "scene", "story", "quote", "source", "explanation", "note", "key", "option", "asks"}
+KEYS = {"title", "titleAr", "tags", "palette", "words", "must", "keywords", "anchor", "scene", "story", "quote", "source", "explanation", "note", "key", "option", "asks"}
 MULTI = {"story", "explanation", "asks"}
 
 
@@ -245,18 +250,22 @@ def image_prompt(cfg, b):
     # Only the objects go into the prompt ("term -> object (why)" keeps the right-hand side, without the why):
     # medical words in a prompt tempt the generator to draw anatomy or write text.
     import symbols
+
+    def object_text(part):
+        part = re.sub(r"\([^)]*\)|\"[^\"]*\"|“[^”]*”", "", part)
+        part = re.sub(r"\s+", " ", re.sub(r"\s*,\s*,", ",", part)).strip().strip(",").strip().rstrip(".")
+        # Capitals mark the sound-alike for the writer; in a prompt they tempt the generator to letter the word.
+        return re.sub(r"\b\w*[A-Z]{2,}\w*\b", lambda m: m.group(0).lower(), part)
+
     objects, numbers = [], []
     for part in b.get("keywords", "").split(";"):
         pieces = re.split(r"->|→", part)
         is_number = len(pieces) > 1 and symbols.number_term(pieces[0].strip()) is not None
-        part = pieces[-1]
-        part = re.sub(r"\([^)]*\)|\"[^\"]*\"|“[^”]*”", "", part)
-        part = re.sub(r"\s+", " ", re.sub(r"\s*,\s*,", ",", part)).strip().strip(",").strip().rstrip(".")
-        # Capitals mark the sound-alike for the writer; in a prompt they tempt the generator to letter the word.
-        part = re.sub(r"\b\w*[A-Z]{2,}\w*\b", lambda m: m.group(0).lower(), part)
+        part = object_text(pieces[-1])
         if part:
             (numbers if is_number else objects).append(part)
     keywords = "; ".join(objects)
+    anchor = object_text(re.split(r"->|→", b["anchor"])[-1]) if b.get("anchor") else ""
     # Numbers are small drawings, never big objects and never written digits (the owner, 2026-11-22).
     number_text = ("Numbers appear only as small drawings of little characters, never as written digits: " + "; ".join(numbers) +
                    ". Each is a small, neat drawing in the picture's own style and colours, its little characters crisp, simple and "
@@ -267,15 +276,20 @@ def image_prompt(cfg, b):
              if folder else f"Save the image with the file name {b['n']}.")
     return (f"{b['n']}. Generate one highly memorable image. Vertical 9:16 aspect ratio. "
             f"Style: {cfg['style']}. "
-            f"Colour scheme: {b['palette']}. "
-            "Composition: ONE dominant focal point that the eye finds at once, drawn boldly and larger than life, in the "
-            "centre and in the strongest light: it carries the main message. Only the few elements described below, each of "
-            "them big, clearly separated from the others and placed in its own area of the frame, with calm empty space between "
-            "them. Nothing decorative: no crowd, no extra people, no props or background details that are not described. "
+            f"Colour scheme: {b['palette']}. " +
+            (("Composition: ONE dominant focal point that the eye finds at once, drawn boldly and larger than life, in the "
+              f"centre and in the strongest light: {anchor}. It carries the main message. Around it only the elements described "
+              "below, each clearly recognisable for what it is, in its own place in the frame and linked to the focal point, "
+              "smaller than it but never tiny or muddled. ") if anchor else
+             ("Composition: ONE dominant focal point that the eye finds at once, drawn boldly and larger than life, in the "
+              "centre and in the strongest light: it carries the main message. Only the few elements described below, each of "
+              "them big, clearly separated from the others and placed in its own area of the frame, with calm empty space between "
+              "them. ")) +
+            "Nothing decorative: no crowd, no extra people, no props or background details that are not described. "
             "Faces full of feeling. "
             "Scene: " + b["scene"].rstrip() + " " +
-            (f"These objects carry the meaning, so each must be big, unmistakable and clearly recognisable for what it is: "
-             f"{keywords}. " if keywords else "") +
+            (f"These objects carry the meaning, so each must be {'' if anchor else 'big, '}unmistakable and clearly recognisable "
+             f"for what it is: {keywords}. " if keywords else "") +
             "Every object must be visually meaningful, distinctive and easy to recall, and all of them must be linked by "
             "physical interaction and cause-and-effect inside this one scene. No literal anatomy, no organs, no medical "
             "equipment, no unrelated objects. " + number_text + labels +
@@ -515,11 +529,15 @@ def cmd_build(args):
 
 def symbol_check(items, few_is_problem=True):
     """The owner's rule 5: a recurring concept is drawn with its audited symbol (tools/content/symbols.py), and every
-    lesson carries at least three recurring symbols (the owner, 2026-11-22). The prompts step refuses a lesson with
-    fewer; the build only warns, so that lessons already drawn can still be rebuilt."""
+    lesson carries at least four recurring symbols; rule 7: an anchor and twelve symbols, five of them one-offs (the
+    owner, 2026-11-22). The prompts step refuses a lesson that falls short; the build only warns, so that lessons
+    drawn before these rules can still be rebuilt."""
     import symbols
     problems, local = symbols.check_items(items)
-    few = symbols.too_few(items)
+    seven, crowded = symbols.rule7(items)
+    few = symbols.too_few(items) + seven
+    for line in crowded:
+        print("warning:", line)
     if local:
         print(f"{len(local)} keyword(s) are not recurring symbols (fine for one-offs; add one to content/symbols.json if it will come back):")
         for line in local:
@@ -580,7 +598,7 @@ def cmd_new(args):
         lines += [f"== {n}"] + ([f"# book number {q['ref']}"] if q.get("ref") else []) + ["# " + q["stem"].replace("\n", " "), "# answer: " + q["options"][q["answer"]]]
         if q.get("figure"):
             lines.append("# this question has a figure (it is shown above the options)")
-        lines += ["title: ", "titleAr: ", "tags: ", "palette: ", "words: ", "keywords: ", "scene: ", "story:", "quote: ", "source: ", "explanation:", ""]
+        lines += ["title: ", "titleAr: ", "tags: ", "palette: ", "words: ", "keywords: ", "anchor: ", "scene: ", "story:", "quote: ", "source: ", "explanation:", ""]
     pathlib.Path(args.output).write_text("\n".join(lines), encoding="utf-8")
     print(f"wrote {args.output}: fill it in, then  python3 tools/content/batch.py build {args.output} --master ...")
 
