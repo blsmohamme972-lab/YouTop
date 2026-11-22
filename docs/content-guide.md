@@ -143,6 +143,26 @@ facts sit on a route (a memory palace); (5) recurring concepts use the same symb
 from `content/symbols.json`, where new symbols are added only after `tools/content/symbols.py audit` approves them (the owner's decision: the audit decides). The prompt
 is the most important step of the work, the story the second.
 
+**Numbers (since 2026-11-22, the owner).** Pictures carry no written numbers, so a number that matters (a size, a
+dose, a percentage, a time) is drawn with the number symbols: one recurring symbol for each digit and the golden drop
+for the decimal point (`content/symbols.md`, "Numbers"): 0 a golden whistle (صفّارة), 1 a white unicorn (وحيد القرن),
+2 a green dragon (تنّين), 3 a red fox with three tails (ثعلب), 4 a square graduation cap (قبّعة مربّعة), 5 a blue
+Hamsa hand (خمسة), 6 the Sitt in her golden gown (الستّ), 7 a swimmer diving (سبّاح), 8 a violin (كمان), 9 a monkey
+hanging by its tail (سعدان), and the golden drop (نقطة). Each one sounds like its digit in Arabic, holds it (one
+horn, two wings, three tails, four corners, five fingers) and looks like it, so any one of the three brings back the
+others. To make a number:
+- the story names the digits in order, by those Arabic names (the sound is the hook, so the narrator must say them);
+- the picture draws the first digit biggest and each next one smaller; a repeated digit is drawn twice (55 = two
+  Hamsa hands); the golden drop sits between the whole and the fraction (5.5 = Hamsa, drop, smaller Hamsa);
+- the number sits on the symbol of what it measures (worn, held or carried by it: the orca wearing 5.5), so the two
+  are remembered together; units are never drawn, the explanation gives them;
+- one number per picture, two at most: the one the answer turns on.
+
+In `keywords:` write `number 5.5 (aortic size for surgery, cm) -> a big blue hamsa hand, a golden drop and a smaller
+blue hamsa hand on the orca's back`. `symbols.py check` (and so `batch.py prompts`) refuses a number whose digits are
+missing or out of order; a repeated digit may be named once with its count ("two hamsa hands"). A number counts as
+one of the lesson's three recurring symbols, however many digits it has.
+
 ### Step 4 — quotations
 
 The Arabic story ends with a **real** quotation from the book's author, chosen to fit that

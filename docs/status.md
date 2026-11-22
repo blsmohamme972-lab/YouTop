@@ -1,6 +1,6 @@
 # Where the work stands
 
-Updated 2026-11-22 (late). Whoever works on YouTop next: read `CLAUDE.md`, then this, then
+Updated 2026-11-22 (late, number symbols). Whoever works on YouTop next: read `CLAUDE.md`, then this, then
 `docs/content-guide.md` and the `youtop-lessons` skill. Rewrite this file whenever the state changes (it replaces the
 `status-<n>.txt` files in the Drive folder "YouTop private", which stop at 7).
 
@@ -19,6 +19,30 @@ The owner asked for two buttons on the left of the lesson screen: Good (they lik
 wrong, write what should change). They reach the agent as GitHub issues titled `Lesson feedback: …`; **check them at
 the start of every session** (CLAUDE.md, "Lesson feedback from the app"). Not tested on a real phone; the owner must be
 signed in to GitHub in the phone's browser for "Create" to work.
+
+## NUMBER SYMBOLS (2026-11-22, late): one recurring symbol for each digit
+
+The owner: "make recurring symbols as visual representations of the numbers 0 to 9 ... very, very smart, so we can
+use or mix them and never lose them from mind; sexy numbers, sound-alike, the best methods to make them stick".
+Done, as eleven approved symbols in `content/symbols.json` (family `digits`, field `digit`; readable table at the top
+of `content/symbols.md`): 0 golden whistle (صفّارة), 1 white unicorn (وحيد القرن), 2 green dragon (تنّين), 3 red fox
+with three tails (ثعلب), 4 square graduation cap (قبّعة مربّعة), 5 blue Hamsa hand (خمسة), 6 the Sitt in a golden gown
+(الستّ; six = sexy), 7 swimmer diving (سبّاح), 8 violin (كمان), 9 monkey hanging by its tail (سعدان), and the golden
+drop (نقطة) for the decimal point. Each joins three hooks: its Arabic name sounds like the digit, it holds the number
+(one horn, two wings, three tails, four corners, five fingers) and it looks like the digit. Each was checked against
+the 409 objects already used (the egg, lion, swan, octopus, trident, tennis, balloon, ring and coin were taken).
+- Rules (skill rule 5, `docs/content-guide.md`, CLAUDE.md decisions): the story names the digits in order by their
+  Arabic names; the picture draws the first digit biggest, then smaller; a repeated digit twice; the golden drop is
+  the point; the number sits on the symbol of what it measures; units are not drawn.
+- Tools: `keywords:` `number 5.5 (what) -> objects in digit order`; `symbols.py check` (and `batch.py prompts`)
+  refuses missing or out-of-order digits (a repeat may be named once with its count: "two hamsa hands"); a number
+  counts as one of the three recurring symbols. Tested by hand on 14 cases.
+- For the owner: a learning page with the eleven characters, their hooks, the rules with real thresholds (5.5, 10,
+  0.8, 480, 2.5), the 0-9 parade story in Arabic and a practice game: https://claude.ai/artifact/LpfpkXnsbQUFQxmEQmjR3i
+  Optional portrait prompts: `drafts/number-symbols-prompts-2026-11-22.txt` (not needed for lessons).
+- Not yet used in any lesson. Lessons already published are unchanged.
+- **Open from the app (not done yet):** three Redo notes, issues #111 (JH 84 picture), #113 (Shahzad 72: a new idea
+  for the whole picture), #115 (MedCosmos 67: "the mixers are better on top of the building").
 
 ## HANDOFF (2026-11-22, late): EVERY MISSING VOICE RECORDED (340 Johns Hopkins + 5 MedCosmos) AND KEPT ON GITHUB; 51 PICTURES PUBLISHED; start here
 

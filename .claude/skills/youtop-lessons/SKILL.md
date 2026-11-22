@@ -73,6 +73,14 @@ MedCosmos Cardiac (lessons 1-20 are the first set written to them) onwards.
    its lobbies and engine rooms, the frame of every heart picture, do not count. `symbols.py check` and
    `batch.py prompts` refuse a lesson with fewer; `batch.py build` only warns, so lessons already drawn can be rebuilt.
    If the lesson's concept has no symbol yet and will come back, make one (with the audit above).
+   **Numbers (since 2026-11-22, the owner): a number the answer depends on is drawn, never written,** with the
+   number symbols (`content/symbols.md`, "Numbers"): 0 golden whistle, 1 white unicorn, 2 green dragon, 3 red fox
+   with three tails, 4 graduation cap, 5 blue hamsa hand, 6 the Sitt in a golden gown, 7 swimmer, 8 violin, 9 monkey
+   hanging by its tail, decimal point = golden drop. The story names the digits in order by their Arabic names
+   (الصفّارة، وحيد القرن، التنّين، الثعلب، القبّعة، الخمسة، الستّ، السبّاح، الكمان، السعدان، النقطة); the picture
+   draws the first digit biggest, then smaller; a repeated digit twice; the number sits on the symbol of what it
+   measures. `keywords:` `number 5.5 (what it measures) -> the objects in digit order`, checked by `symbols.py
+   check`; a number counts as one recurring symbol. Never use these eleven objects for anything else.
 
 Before handing over a prompt, read it against the five rules: does every element interact? Has every
 abstract term of the answer a concrete keyword? Is the answer the brightest, largest thing? Is
