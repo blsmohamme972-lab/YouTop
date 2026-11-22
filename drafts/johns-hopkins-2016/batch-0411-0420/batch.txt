@@ -5,8 +5,8 @@ book: johns-hopkins-2016
 # 414: a true/false item in the book (no options); asked with two options in 'asks:' (note).
 # 415: the book's key (B, ACE inhibitors) kept with a note.
 # OCR misprints of 411, 416 and 417 are mended by the book's 'typos' map ("LVA D", "CA V", "RossKonno", "Gl phase").
-# QUOTATION PENDING (all ten): the pool of One Piece lines allowed by quoteRepeats is exhausted; the owner decides.
-# The stories stop at the payoff; add the lead-in and Q lines before building.
+# Quotations added 2026-11-22 (the owner left the choice to the agent: "make anything strong and consistent"):
+# a One Piece line (at most three uses, 20 lessons apart) or a classical Arabic line read out by Robin; see ../quote-bank.md.
 
 == 411
 # book 88.4: what could explain low saturation, low pressure and a CVP of 22 after a Berlin Heart LVAD -> E, all of the above.
@@ -27,8 +27,9 @@ story:
 لكنّ تشوبر تتبّع المصابيح الأربعة واحدًا واحدًا: غرفة حمراء ما زالت ممتلئةً لم يفرغها فيدر، وأنبوب فيدر إلى الحوت ملويّ معقود.
 وحوض زجاجيّ حول الفندق يمتلئ بالماء الأحمر، ومروحة الغرفة الزرقاء لا تكاد تدور؛ وكلّ واحد منها يصنع هذه الأرقام نفسها.
 «بعد فيدر، تنذر المصابيح الأربعة بصوت واحد!» قال تشوبر.
-quote:
-source:
+فتتبّع تشوبر المصابيح الأربعة حتّى آخرها، وقرأت روبين بيتًا لابن نباتة السعديّ:
+quote: «ومن لم يمت بالسّيف مات بغيره، تعدّدت الأسباب والموت واحد.»
+source: ابن نباتة السعديّ
 explanation:
 Any of the four can explain the fall in saturation and blood pressure with a CVP of 22 after an LVAD: all of the above, E.
 Right heart dysfunction is the classic cause: the right ventricle cannot deliver blood to the pump, the CVP rises, the LVAD underfills and output falls, and right-to-left flow through a patent foramen ovale lowers saturation.
@@ -56,8 +57,9 @@ story:
 لكنّ ماء النافورة يجري إلى أنابيب الدولارات بالجاذبيّة وحدها، بلا مضخّة تدفعه؛ فمهما ضخّ فيدر في الحوت، ظلّ ماؤها بطيئًا يرتدّ.
 فوقف فيدر عاجزًا أمامها لأوّل مرّة.
 «فيدر يدفع الحوت، ولا يدفع النافورة!» قال تشوبر.
-quote:
-source:
+فوقف أوسوب بجانب فيدر صامتًا، وقالت روبين مثلًا قديمًا:
+quote: «وهل يصلح العطّار ما أفسد الدهر؟»
+source: مثل عربيّ
 explanation:
 A failing Fontan is the condition least likely to be managed successfully with an LVAD: D.
 In a Fontan circulation there is no subpulmonary pump: blood flows passively from the venae cavae to the lungs, and failure usually comes from high venous pressure and pulmonary resistance, not only from a weak ventricle.
@@ -84,8 +86,9 @@ story:
 لكنّ تشوبر أراه عشّ النمل بجانب الإعصار نفسه، ما زال مليئًا عامرًا؛ فالإعصار يكنس النمل عن النبتة، ولا يفرغ عشّه.
 أمّا العشّ البعيد الفارغ، فبجانبه جرّة أخرى غير الإعصار، هي الّتي أفرغته.
 «إعصار التاكو يكنس النمل، ولا يفرغ عشّه أبدًا!» قال تشوبر.
-quote:
-source:
+فنظر أوسوب إلى الجرّة بجانب العشّ البعيد، وقالت روبين مثلًا قديمًا:
+quote: «كلّ شاة برجلها معلّقة.»
+source: مثل عربيّ
 explanation:
 Leukopenia is not part of the toxicity profile of calcineurin inhibitors: C.
 Cyclosporine and tacrolimus block T-cell activation without suppressing the bone marrow, so the white cell count is not lowered; leukopenia belongs to antiproliferative drugs such as azathioprine and mycophenolate.
@@ -115,8 +118,9 @@ story:
 فيها غرفة محرّك واحدة بدل اثنتين، وقوس رقّعه الحطّاب النرويجيّ، وثقوب في الجدران.
 أمّا الفنادق الممطوطة كالأكورديون، فكانت في أيدي أطفال أكبر، يقفون في آخر الصفّ.
 «تحت الشمعة الأولى، الفندق المبنيّ خطأً هو أكثر ما يأتي بالأصيص!» قال تشوبر.
-quote:
-source:
+فلمّا رأى أوسوب الفنادق المبنيّة على غير وجهها، قالت روبين مثلًا قديمًا:
+quote: «إذا عرف السبب بطل العجب.»
+source: مثل عربيّ
 explanation:
 The statement is true: complex congenital heart disease has been the most common indication for heart transplantation in infants under 12 months.
 Many of these infants have hypoplastic left heart syndrome or other single-ventricle or complex lesions, either instead of staged palliation or after it has failed.
@@ -143,8 +147,9 @@ story:
 لكنّ المحاربات هززن رؤوسهنّ، فلم يثبت أنّ إرساله يردّ النمل عن التاج.
 فبقي لاعب التنس على طرف الحديقة، يرسل كراته وحده.
 «الإعصار والقناة والسّاتان ومقصّ التقليم يحرسون التاج الجديد، أمّا الإرسال الساحق فلا!» قال تشوبر.
-quote:
-source:
+فظلّ لاعب التنس يدوّي بإرساله الساحق، وقالت روبين مثلًا قديمًا:
+quote: «أسمع جعجعةً ولا أرى طحنا.»
+source: مثل عربيّ
 explanation:
 ACE inhibitors are the exception: they are not among the established measures to prevent cardiac allograft vasculopathy, B.
 Allograft vasculopathy is a diffuse, concentric thickening of the inner layer of the graft's coronary arteries, driven by immune injury and by risk factors such as lipids.
@@ -171,8 +176,9 @@ story:
 ثمّ أخذ الأصيص إلى طفل تفيض نافورته، ويسيل بياض البيض من صحن معكرونته، وإلى رضيع تعيش في جدران غرفته أرانب بيضاء، وإبرة عدّاده في الأحمر لا تهدأ.
 وإلى شابّ سدّ النمل الجنديّ أشواك تاج فندقه الجديد الأوّل، فجاء يطلب ثانيًا.
 «ثماني مكعّبات ثابتة، تبقي الفندق الجديد خارجًا!» قال تشوبر.
-quote:
-source:
+فأعاد البستانيّ الفندق الجديد إلى أصيصه آسفًا، وقالت روبين مثلًا قديمًا:
+quote: «العين بصيرة، واليد قصيرة.»
+source: مثل عربيّ
 explanation:
 The 14-year-old with a pulmonary vascular resistance of 8 Wood units unresponsive to vasodilators is not a candidate for orthotopic heart transplantation: D.
 A donor right ventricle, unused to high resistance, fails acutely against a fixed high pulmonary vascular resistance; above about 6 Wood units that does not fall with vasodilators, heart-lung transplantation is considered instead.
@@ -198,8 +204,9 @@ story:
 فبقيت النبتة المزروعة خضراء سالمة، لا نملة عليها.
 وفي أرجاء الساحة، حارس يحبس النمل عند باب العشّ، وآخر يخفي مخزن طعامه، ومسجّل ضخم قديم أخفض صوته يسكت الضجيج كلّه.
 «إعصار التاكو يطفئ البوق قبل أن ينادي!» قال تشوبر.
-quote:
-source:
+فهدأت الساحة الكبرى كلّها، كما هدأت يوم وصل إليها شانكس وقال:
+quote: «جئت لأنهي هذه الحرب!»
+source: شانكس
 explanation:
 Calcineurin inhibitors block IL-2 production by activated T cells: D.
 Cyclosporine, bound to cyclophilin, and tacrolimus, bound to FKBP-12, inhibit calcineurin, so the transcription factor NFAT is not activated, IL-2 is not made and T cells do not proliferate.
@@ -225,8 +232,9 @@ story:
 لكنّ تشوبر لم يصرف المغناطيس؛ فهو الّذي يقيس بدقّة غرفة المحرّك الزرقاء في فندق التتريس، ويعدّ الماء الراجع إليها.
 وهو الّذي يرسم خريطة الكنز القديمة بطرقها الجانبيّة المتعرّجة.
 «للأوراق الصغيرة المرفرفة، أرسل الخفّاش!» قال تشوبر.
-quote:
-source:
+فأرسل تشوبر الخفّاش للأوراق، والمغناطيس للغرف، وقالت روبين مثلًا قديمًا:
+quote: «أعط القوس باريها.»
+source: مثل عربيّ
 explanation:
 Echocardiography is superior to CMR for detecting small mobile vegetations: B.
 Its high frame rate and resolution, especially with transoesophageal echocardiography, show small, fast-moving masses on valves that CMR, which builds its images over many heartbeats, can miss.
@@ -252,8 +260,9 @@ story:
 وعند الثاني تمثال فينوس في ثقب أسفل الجدار، يصبّ عبره أنبوب التصريف الأزرق الكبير مباشرةً، وعند الثالث رقعة كالشّراع توجّه ماء التصريف إلى الثقب.
 وعند الرابع كرة بولينغ سوداء سدّت أنبوب الدولارات، فارتدّ الماء الأزرق عبر الثقب.
 «الأحمر إلى الأزرق، يبقي الشفاه ورديّة!» قال تشوبر.
-quote:
-source:
+فحكّ أوسوب رأسه أمام الشفتين الورديّتين، وقالت روبين مثلًا قديمًا:
+quote: «لكلّ جواد كبوة، ولكلّ عالم هفوة.»
+source: مثل عربيّ
 explanation:
 Sudden left-to-right shunting is not a cause of cyanosis in an adult with an isolated atrial septal defect: E.
 Left-to-right flow sends oxygenated blood back to the lungs, so it overloads the right heart but does not lower arterial saturation.
@@ -280,8 +289,9 @@ story:
 ثمّ أصلح مع تشوبر ما يستحقّ: ماءً يقرقر راجعًا إلى غرفة زرقاء انتفخت وضعفت مروحتها، وثقبًا باقيًا في الجدار السفليّ.
 وأطباق صلصة تنتفخ حول فم الحوت وهو يقرقر، وإبرة عدّاد تتسارع في الردهتين العلويّتين.
 «الطباشير على القمع يترك؛ أمّا التسرّب والثّقوب والإبر المسرعة فتصلح!» قال تشوبر.
-quote:
-source:
+فنظر أوسوب إلى البقع البيضاء الباقية على القمع، وقالت روبين مثلًا قديمًا:
+quote: «ما كلّ بيضاء شحمةً، ولا كلّ سوداء تمرة.»
+source: مثل عربيّ
 explanation:
 Calcification of the right ventricular outflow tract is not, by itself, an indication for intervention after repair of tetralogy of Fallot: C.
 Calcium in a patch or conduit matters only if it causes obstruction or regurgitation.

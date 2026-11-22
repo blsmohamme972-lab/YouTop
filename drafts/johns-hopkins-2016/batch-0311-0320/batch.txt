@@ -5,8 +5,8 @@ book: johns-hopkins-2016
 # OCR misprints of 311, 312, 315, 316, 317 and 318 are mended by the book's 'typos' map.
 # 315: the book's option D says the opposite of what its key means ("Closing the zone of apposition is associated with
 # early reoperation"); shown corrected with x:key-corrected and a note.
-# QUOTATION PENDING (all ten): the pool of One Piece lines allowed by quoteRepeats is exhausted; the owner decides.
-# The stories stop at the payoff; add the lead-in and Q lines before building.
+# Quotations added 2026-11-22 (the owner left the choice to the agent: "make anything strong and consistent"):
+# a One Piece line (at most three uses, 20 lessons apart) or a classical Arabic line read out by Robin; see ../quote-bank.md.
 
 == 311
 # book 66.1: correct about AVSD anatomy -> D, the AV septum is the AV component of the fibrous membranous septum.

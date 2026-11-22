@@ -5,8 +5,8 @@ book: johns-hopkins-2016
 # OCR misprints of 382, 384, 385 and 390 are mended by the book's 'typos' map ("4 em" -> "4 cm", "ofMarfan").
 # 384 E keeps the book's printed "1 5 mm/year" (the value is not known); the story and explanation give no number for it.
 # 388: the book's key (B) is kept; a note says E is also true.
-# QUOTATION PENDING (all ten): the pool of One Piece lines allowed by quoteRepeats is exhausted; the owner decides.
-# The stories stop at the payoff; add the lead-in and Q lines before building.
+# Quotations added 2026-11-22 (the owner left the choice to the agent: "make anything strong and consistent"):
+# a One Piece line (at most three uses, 20 lessons apart) or a classical Arabic line read out by Robin; see ../quote-bank.md.
 
 == 381
 # book 80.2: true about the surgical management of subdivided atrium -> B, urgent repair is indicated in older patients with chronic symptoms.
@@ -27,8 +27,9 @@ story:
 فأدخله تشوبر في الحال، ومن غير أن يجمّد الفندق في مكعّب ثلج عملاق، قصّ الحاجز الزجاجيّ كلّه.
 فجرى الماء حرًّا، وجفّت الأكياس، وتنفّس البحّار ملء صدره لأوّل مرّة منذ سنين.
 «بحّار يلهث خلف الزجاج، لا ينتظر العام القادم!» قال تشوبر.
-quote:
-source:
+فشطب أوسوب اسم البحّار من رزنامة العام القادم، وقالت روبين مثلًا قديمًا:
+quote: «لا تؤجّل عمل اليوم إلى الغد.»
+source: مثل عربيّ
 explanation:
 In subdivided left atrium, urgent repair is indicated in older patients with chronic symptoms: B.
 Once the obstructing membrane causes symptoms, from pulmonary venous congestion and pulmonary hypertension, there is no reason to wait: resecting it relieves the obstruction completely.
@@ -55,8 +56,9 @@ story:
 كان الشراع يلتقط ماء أنبوب التصريف الأزرق الكبير الصاعد من تحت، ويوجّهه إلى ثقب في الجدار العلويّ، فيعبر إلى الجهة الحمراء.
 فكان الماء الأزرق يخرج إلى المدينة دون أن يمرّ بأكياس الدولارات؛ ولهذا ازرقّت الشفاه.
 «الشراع في الردهة الزرقاء يرسل ماء التصريف إلى الجهة الحمراء!» قال تشوبر.
-quote:
-source:
+ففهم أوسوب أخيرًا سرّ الشفاه الزرقاء، وقالت روبين مثلًا قديمًا:
+quote: «إذا عرف السبب بطل العجب.»
+source: مثل عربيّ
 explanation:
 Cyanosis is frequent in a subdivided right atrium, because the membrane (a large persistent valve of the IVC) directs IVC blood preferentially through an ASD: C.
 In a subdivided left atrium, the key haemodynamic feature is obstruction of pulmonary venous return, not of pulmonary arterial outflow.
@@ -83,8 +85,9 @@ story:
 فصعد تشوبر إلى ظهر الحوت، فإذا الفرق تعمل بجدّ في كلّ مكان، إلّا عند الفقّاعة: هناك وقفت فرقة واحدة عاطلةً تتثاءب.
 فأيقظها تشوبر، فعادت ترقع الجلد الخارجيّ، فلم تكبر الفقّاعة بعد ذلك شعرةً واحدة.
 «الفقّاعة تنتفخ حيث تنام فرق الجلد الخارجيّ!» قال تشوبر.
-quote:
-source:
+فألقى أوسوب عصاه الطويلة، وقالت روبين مثلًا قديمًا:
+quote: «من مأمنه يؤتى الحذر.»
+source: مثل عربيّ
 explanation:
 Molecular events in the adventitia may have a role in aneurysm formation: E.
 Aneurysms are no longer seen only as a failure of the media: inflammation, matrix-degrading enzymes and signalling in the adventitia and its small vessels also weaken the wall.
@@ -112,8 +115,9 @@ story:
 أمّا الدمية الثانية، فقد تجاوزت أطباقها الخمسة، فانفرجت شفاه فمها، وأخذ الماء يرجع منه قطرةً بعد قطرة.
 فنقل تشوبر الدلو إليها، وأرسلها إلى الجرّاح قبل أن تنفجر أطباقها.
 «عند الأربعة يبقى فم الدمية جافًّا، وبعد الخمسة يبدأ التقطير!» قال تشوبر.
-quote:
-source:
+فرفع أوسوب دلوه الجافّ محرجًا، فضحكت روبين وقالت مثلًا قديمًا:
+quote: «لكلّ جواد كبوة، ولكلّ عالم هفوة.»
+source: مثل عربيّ
 explanation:
 Aortic regurgitation being common once the root reaches 4 cm is not a clinical feature of Marfan syndrome: D.
 Regurgitation usually appears later, as the sinuses and the sinotubular junction dilate beyond about 5 cm.
@@ -141,8 +145,9 @@ story:
 ثمّ أدخل الأربع الباقية: دميةً كبيرةً بلغت أطباقها خمسة، ودميةً في فم حوتها درّاجة كبرت أطباقها اثني عشر في عام واحد.
 ودميةً يزداد تقطير فمها يومًا بعد يوم، وأخرى في ألبوم عائلتها قريب شابّ انشقّ سحّاب حوته.
 «ثلاثة في الثامنة من العمر: إلى الأرجوحة، لا إلى الجرّاح!» قال تشوبر.
-quote:
-source:
+فعادت الدمية الصغيرة إلى أرجوحتها تضحك، وقرأت روبين بيتًا للقطاميّ:
+quote: «قد يدرك المتأنّي بعض حاجته، وقد يكون مع المستعجل الزلل.»
+source: القطامي
 explanation:
 An 8-year-old patient with a z-score over 3 is not, by that alone, an indication for surgery: E.
 In children the absolute size, the rate of growth and the type of disorder matter more than a moderate z-score.
@@ -168,8 +173,9 @@ story:
 فشدّ أوسوب الخيط، لكنّ الورقات الثلاث لم تلتق، وظلّ الماء يرجع من بينها.
 فهزّ ديفيد رأسه، وأرسل هذا الحوت وحده إلى طبيب الأسنان وطقمه الجديد.
 «ديفيد يبقي كلّ فم، إلّا الفم الّذي فيه شراع!» قال تشوبر.
-quote:
-source:
+فنظر ديفيد إلى خيط أوسوب وابتسم، وقالت روبين مثلًا قديمًا:
+quote: «ما هكذا تورد يا سعد الإبل.»
+source: مثل عربيّ
 explanation:
 Asymmetric valve prolapse makes a patient unsuitable for valve-sparing root replacement: B.
 The operation relies on leaflets that will coapt well once the root is rebuilt; marked, uneven prolapse or damaged cusps make a durable repair unlikely.
@@ -195,8 +201,9 @@ story:
 أمّا الثانية، فأخذها الراعي الصغير ديفيد، وأدخل الفم كلّه بطوقه النحاسيّ داخل أنبوب القماش، وخاطه هناك.
 فكبرت الثانية سنين، وطوقها محبوس في القماش لا يتمدّد، وفمها محكم لا يقطّر.
 «عند الصغار، لا تتركوا الطوق حرًّا!» قال تشوبر.
-quote:
-source:
+فأدخل الخيّاط خيطًا جديدًا في إبرته، وقالت روبين مثلًا قديمًا:
+quote: «درهم وقاية خير من قنطار علاج.»
+source: مثل عربيّ
 explanation:
 Remodelling techniques should be considered obsolete for pediatric patients with connective tissue disorders: A.
 Remodelling replaces the sinuses but leaves the annulus unsupported, so in these patients it tends to dilate and the valve leaks again.
@@ -224,8 +231,9 @@ story:
 لكن في الأسبوع السادس، تساقطت المكعّبات من الأنبوب، فهبط ماؤه، وعطشت الشوكة اليسرى.
 فسقط الأيّل فوق باب الفندق بسهم، وصار الطفل يبكي كلّما رضع.
 «مسمار كابوني هو أكثر ما يسقط أيّل الصغار!» قال تشوبر.
-quote:
-source:
+فنزل أوسوب من قطار الملاهي يرتجف، وقالت روبين مثلًا قديمًا:
+quote: «معظم النار من مستصغر الشرر.»
+source: مثل عربيّ
 explanation:
 ALCAPA is the most common cause of myocardial infarction in childhood: B.
 The left coronary artery, most often arising from the posterior-facing sinus of the pulmonary artery, receives low-pressure, desaturated blood; as pulmonary pressure falls in the first weeks, perfusion fails and infarction follows.
@@ -253,8 +261,9 @@ story:
 وبنى منها نفقًا داخل الأنبوب، يحمل ماء الحوت من النافذة إلى الشوكة المسروقة.
 فارتوت الشوكة، واستعاد الفندق قوّته شيئًا فشيئًا، فصرف تشوبر البستانيّ وأصيصه الفخّاريّ.
 «تاكيوتشي يأخذ رقعةً من الأمام، ويبني نفقًا في الداخل!» قال تشوبر.
-quote:
-source:
+فمسح تاكيوتشي يديه راضيًا، وقالت روبين مثلًا قديمًا:
+quote: «اضرب الحديد وهو حام.»
+source: مثل عربيّ
 explanation:
 The classic Takeuchi operation uses a portion of the anterior wall of the pulmonary artery to build a baffle: E.
 An aortopulmonary window is created and a tunnel made from a pulmonary artery flap carries aortic blood inside the pulmonary artery to the anomalous coronary ostium.
@@ -282,8 +291,9 @@ story:
 أمّا الفنادق الّتي نقل تشوبر شوكتها اليسرى إلى الحوت، فقد وقفت كلّها شامخة.
 حتّى تاج الأسقف الّذي كان يقطّر فيها، أخذ يلتئم وحده من غير أن يلمسه أحد.
 «اعقد شوكة كابوني، يسقط فندق من كلّ أربعة!» قال تشوبر.
-quote:
-source:
+فوقف أوسوب صامتًا أمام التابوت، وقرأت روبين بيتًا لزهير بن أبي سلمى:
+quote: «رأيت المنايا خبط عشواء: من تصب تمته، ومن تخطئ يعمّر فيهرم.»
+source: زهير بن أبي سلمى
 explanation:
 Coronary ligation for ALCAPA is associated with a 25 percent late mortality: A.
 Tying off the anomalous artery stops the steal but leaves a one-coronary circulation dependent on collaterals, with late infarction and sudden death.

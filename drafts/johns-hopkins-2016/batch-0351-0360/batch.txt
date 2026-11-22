@@ -3,8 +3,8 @@ book: johns-hopkins-2016
 # Written 2026-11-22, night. Each story: a hook, a wrong try that fails, the answer acting, a payoff line that names
 # the symbol, and a lead-in that says who speaks the quotation and why it fits.
 # OCR misprints of 351, 352 and 359 are mended by the book's 'typos' map ("D- TGA", "r epair").
-# QUOTATION PENDING (all ten): the pool of One Piece lines allowed by quoteRepeats is exhausted; the owner decides.
-# The stories stop at the payoff; add the lead-in and Q lines before building.
+# Quotations added 2026-11-22 (the owner left the choice to the agent: "make anything strong and consistent"):
+# a One Piece line (at most three uses, 20 lessons apart) or a classical Arabic line read out by Robin; see ../quote-bank.md.
 
 == 351
 # book 74.2: correct about the physiology of TGA -> B, effective systemic blood flow equals the anatomic left-to-right shunt.
@@ -25,8 +25,9 @@ story:
 فأراه تشوبر الجسور الذهبيّة الصغيرة بين الحلقتين: ثقبًا في الجدار العلويّ، ونفق الشريط اللاصق الّذي تسنده كأس الجعة.
 فما عبر هذه الجسور من الماء الأحمر، هو وحده ما بلغ المدينة.
 «لا يطعم المدينة إلّا ما يعبر الجسر!» قال تشوبر.
-quote:
-source:
+فنظرت الحلقتان إحداهما إلى الأخرى عبر الجسور الذهبيّة، كأنّهما تقولان ما قالته فيفي يومًا لأصدقائها:
+quote: «إن التقينا يومًا من جديد، أتنادونني رفيقتكم؟»
+source: نفرتاري فيفي
 explanation:
 In TGA the effective systemic blood flow is equal to the amount of anatomic left-to-right shunting: B.
 The two circulations run in parallel: oxygenated blood circulates from the left ventricle to the lungs and back, and only the part that crosses to the right side through an ASD, VSD or ductus reaches the body.
@@ -54,8 +55,9 @@ story:
 أمّا الزرقة فكانت فيهم جميعًا تقريبًا، ظهرت في يومهم الأوّل.
 وفي سرير بعيد، طفل أكبر عمرًا أخذ حفيفه يعلو مع الأيّام.
 «أزرق، لكنّه صامت!» قال تشوبر.
-quote:
-source:
+فأنزل أوسوب بوقه حائرًا، فقرأت روبين بيتًا للمتنبّي:
+quote: «إذا رأيت نيوب الليث بارزةً، فلا تظنّنّ أنّ الليث يبتسم.»
+source: المتنبّي
 explanation:
 The incorrect statement is that systolic murmurs are present in 90 percent of infants with TGA: D.
 With an intact septum there is often no murmur at all, and a murmur appears mainly with a VSD or outflow obstruction, sometimes growing louder over time.
@@ -81,8 +83,9 @@ story:
 فخرج من الظلّ كونت مصّاص دماء بعباءة سوداء، وأمسك بيد أوسوب.
 ثمّ رفع أنبوب الدولارات فوق الحوت، ووضعه أمامه برفق، فاسترخى الأنبوب وجرى الماء فيه سهلًا.
 «مصّاص الدماء يضع الأنبوب أمام الحوت دائمًا، لا خلفه!» قال تشوبر.
-quote:
-source:
+فانحنى الكونت لأوسوب انحناءةً طويلة، وأنشد بصوت رخيم بيتًا للقطاميّ:
+quote: «قد يدرك المتأنّي بعض حاجته، وقد يكون مع المستعجل الزلل.»
+source: القطامي
 explanation:
 Translocating the PA posteriorly is not part of the arterial switch: A.
 In the Lecompte maneuver the pulmonary bifurcation is brought anterior to the aorta, so the reconstructed pulmonary artery lies in front without tension.
@@ -109,8 +112,9 @@ story:
 فتتبّع تشوبر أنبوب الدولارات، فإذا مشبك حديديّ يعصره فوق بابه مباشرة، حيث خيط يوم التحويل.
 فعاد عامل التحويلة ببالون ورقعة، ووسّع الأنبوب عند درزته.
 «بعد التحويل، يضيق أنبوب الدولارات عند درزته فوق الباب!» قال تشوبر.
-quote:
-source:
+فانحنى أوسوب أمام تشوبر بعد أن أخطأ مرّةً أخرى، وقال كما قال زورو يومًا لميهوك:
+quote: «أرجوك، علّمني فنّ السيف!»
+source: رورونوا زورو
 explanation:
 The most common cause for reintervention after the arterial switch is supravalvar pulmonary stenosis: B.
 The narrowing forms at the suture line of the reconstructed pulmonary artery, often with branch stretching from the Lecompte maneuver, and is treated with balloon dilation or patch enlargement.
@@ -137,8 +141,9 @@ story:
 لكنّ القلادة بقيت خارج الباب؛ فلها عائلة أخرى في بلد آخر.
 فأغلق تشوبر الباب بهدوء، وعاد إلى رفاق المرآة الأربعة.
 «رفاق فندق المرآة: آينشتاين، وثقب، ومشبك، وجسر متحرّك؛ لا القلادة!» قال تشوبر.
-quote:
-source:
+فنظرت القلادة اللؤلئيّة في المرآة الكبيرة متكبّرة، وسألت سؤال ألفيدا:
+quote: «من أجمل امرأة في البحار كلّها؟»
+source: ألفيدا
 explanation:
 Supravalvar aortic stenosis is not typically associated with congenitally corrected TGA: D.
 CC-TGA usually comes with a VSD, pulmonary (subpulmonary) stenosis, an Ebstein-like malformation of the left-sided tricuspid valve, and complete heart block, which appears at a rate of about 2 percent a year.
@@ -165,8 +170,9 @@ story:
 فجرت الحزمة فوق جلد الطبل الصغير وأمامه، على طول الحافّة العليا للثّقب.
 أمّا قائد الأوركسترا، فوقف في مكانه المعتاد أعلى الردهة الزرقاء.
 «في فندق المرآة، يجري الشرر فوق الطبل ومن أمامه!» قال تشوبر.
-quote:
-source:
+فرفع قائد الأوركسترا عصاه بفخر، وأنشد بيت المتنبّي:
+quote: «أنا الّذي نظر الأعمى إلى أدبي، وأسمعت كلماتي من به صمم.»
+source: المتنبّي
 explanation:
 In CC-TGA the bundle of His runs anterosuperior to the membranous septum: C.
 The regular posterior AV node does not connect; an anterior node gives a long, fragile bundle that runs above the pulmonary outflow and along the anterosuperior rim of a VSD.
@@ -193,8 +199,9 @@ story:
 لكنّ ماء فندق المرآة كان يجري في طريقه الصحيح أصلًا، فلا شيء يحتاج إلى الاختلاط.
 فأخذ تشوبر البالون من يد أوسوب، وأطلقه في السماء.
 «فندق المرآة لا يحتاج بالون الحفلات!» قال تشوبر.
-quote:
-source:
+فطار البالون الأحمر عاليًا نحو النجوم، فضحكت روبين وقرأت بيتًا للمتنبّي:
+quote: «إذا غامرت في شرف مروم، فلا تقنع بما دون النجوم.»
+source: المتنبّي
 explanation:
 Balloon septostomy is not an appropriate palliative procedure for CC-TGA: D.
 In corrected transposition the circulation is already in series, so there is no mixing problem for a septostomy to solve.
@@ -222,8 +229,9 @@ story:
 فأخذ مقصّ الخيّاط الكبير، وفكّ دروز الباب الملتحمة، فانفتح الباب وجرى الماء.
 وترك المنزلق المائيّ الشفّاف لفندق آخر يقع ضيقه تحت الباب.
 «طوق طبيعيّ، قصّة بسيطة!» قال تشوبر.
-quote:
-source:
+فقصّ تشوبر الدروز قصّةً واحدةً نظيفة، فقرأت روبين بيتًا لأبي تمّام:
+quote: «السيف أصدق إنباءً من الكتب، في حدّه الحدّ بين الجدّ واللّعب.»
+source: أبو تمّام
 explanation:
 In physiologic biventricular repair, pulmonary valve stenosis is managed by valvotomy when there is no annular hypoplasia: B.
 Subvalvular or annular obstruction is usually bypassed with a conduit from the left ventricle to the pulmonary artery, because the conduction bundle runs close by and resection risks heart block.
@@ -249,8 +257,9 @@ story:
 «والنّافورة الحجريّة في الساحة! نكشفها ونشغّلها أيضًا!» قال أوسوب، وشدّ الغطاء عن النافورة.
 لكنّ تشوبر أعاد الغطاء؛ فالنّافورة طريق الفندق ذي الغرفة الواحدة، وهذا فندق بغرفتين.
 «التحويل المزدوج يحتاج خردلًا ورافعة، لا نافورةً أبدًا!» قال تشوبر.
-quote:
-source:
+فأعاد تشوبر الغطاء على النافورة، وقالت روبين مثلًا قديمًا:
+quote: «لكلّ مقام مقال.»
+source: مثل عربيّ
 explanation:
 An extracardiac Fontan is not performed during an anatomic biventricular repair: E.
 The anatomic ("double switch") repair restores the morphological left ventricle to the systemic circulation by combining an atrial switch (Senning or Mustard) with an arterial switch.
@@ -278,8 +287,9 @@ story:
 فالجناح الأحمر ليس إلّا شقًّا صغيرًا، والمدينة كلّها تشرب من نفق الشريط اللاصق.
 وعلى الرفوف أفراس نهر أخرى أبوابها ضيّقة من الحجر لا ملحمة، لكنّها أقلّ عددًا.
 «أكثر أفراس النهر شيوعًا: البابان كلاهما ملحمان!» قال تشوبر.
-quote:
-source:
+فأعاد أوسوب مفكّه إلى جيبه، فقد رأى البابين ملحمين، وقالت روبين مثلًا قديمًا:
+quote: «اتّسع الخرق على الراقع.»
+source: مثل عربيّ
 explanation:
 The most common form of HLHS is aortic atresia with mitral atresia: C.
 With both left-sided valves atretic, the left ventricle is a slit, and the whole systemic circulation depends on the ductus, while the tiny ascending aorta fills backwards to supply the coronaries.

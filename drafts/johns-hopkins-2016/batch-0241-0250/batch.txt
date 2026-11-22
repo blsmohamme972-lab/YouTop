@@ -2,9 +2,8 @@ book: johns-hopkins-2016
 # Lessons 241-250 (book 49.1-50.5: transplant immunology, heart transplantation). Written 2026-11-22, night.
 # Each story: a hook, a wrong try that fails, the answer acting, a payoff line that names the symbol, and a lead-in
 # that says who speaks the quotation and why it fits.
-# QUOTATION PENDING (242, 243, 246, 247, 248, 250): the pool of One Piece lines allowed by quoteRepeats is exhausted;
-# the owner decides (third use, other genuine source, or none). Those stories stop at the payoff line; add the lead-in
-# line and the Q line in voice.txt, and quote/source here, before building.
+# Quotations added 2026-11-22 (the owner left the choice to the agent: "make anything strong and consistent"):
+# a One Piece line (at most three uses, 20 lessons apart) or a classical Arabic line read out by Robin; see ../quote-bank.md.
 
 == 241
 # book 49.1: indirect allorecognition -> B, necrotic donor debris taken up by recipient APCs and shown on MHC class II to CD4+ T cells.

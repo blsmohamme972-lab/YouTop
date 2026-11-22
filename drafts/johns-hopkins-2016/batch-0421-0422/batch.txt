@@ -2,8 +2,8 @@ book: johns-hopkins-2016
 # Lessons 421-422 (book 90.4-90.5: adult congenital heart disease after transposition and Fontan), the last two of the book.
 # Written 2026-11-22, morning. Each story: a hook, a wrong try that fails, the answer acting, a payoff line that names
 # the symbol, and a lead-in that says who speaks the quotation and why it fits.
-# QUOTATION PENDING (both): the pool of One Piece lines allowed by quoteRepeats is exhausted; the owner decides.
-# The stories stop at the payoff; add the lead-in and Q lines before building.
+# Quotations added 2026-11-22 (the owner left the choice to the agent: "make anything strong and consistent"):
+# a One Piece line (at most three uses, 20 lessons apart) or a classical Arabic line read out by Robin; see ../quote-bank.md.
 
 == 421
 # book 90.4: NOT a known long-term complication after repair of transposition -> B, Eisenmenger syndrome.
@@ -23,8 +23,9 @@ story:
 «وهذا رجل الجليد بكتله الزرقاء؛ افتحوا له، فهو من أهل البيت!» صاح أوسوب.
 لكنّ تشوبر ردّه عن الباب؛ فلم يبق في جدران هذا الفندق ثقب واسع يدفع منه ثلجه.
 «حين يصلح التبادل، لا يأتي رجل الجليد أبدًا!» قال تشوبر.
-quote:
-source:
+فأغلق تشوبر الباب في وجه رجل الجليد، وقالت روبين مثلًا قديمًا:
+quote: «قل لي من تصاحب، أقل لك من أنت.»
+source: مثل عربيّ
 explanation:
 Eisenmenger syndrome is not a known long-term complication after repair of transposition of the great arteries: B.
 Once the circulation is repaired, no large unrestrictive shunt is left to drive pulmonary vascular disease to reversal.
@@ -52,8 +53,9 @@ story:
 «وأكثرهم زيارةً صحن المعكرونة الّذي يسيل منه بياض البيض؛ أراه في كلّ مكان!» قال أوسوب.
 لكنّ تشوبر عدّ الزوّار واحدًا واحدًا، فلم يجد إلّا صحنًا واحدًا صغيرًا على حافّة النافورة، بين حشود القراصنة والكرات والأبواب والسّيّارات.
 «حول النافورة، صحن المعكرونة السائل أندر الضيوف!» قال تشوبر.
-quote:
-source:
+فرفع تشوبر الصحن الوحيد عن حافّة النافورة، وقالت روبين مثلًا قديمًا عنه:
+quote: «أعزّ من الكبريت الأحمر.»
+source: مثل عربيّ
 explanation:
 Protein-losing enteropathy is the least common of these complications in the follow-up of Fontan patients: C.
 It affects a small minority, usually years after the operation, when high venous pressure and lymphatic congestion make the gut leak protein, and it is serious when it occurs.

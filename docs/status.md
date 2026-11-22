@@ -1,10 +1,10 @@
 # Where the work stands
 
-Updated 2026-11-22 (afternoon). Whoever works on YouTop next: read `CLAUDE.md`, then this, then
+Updated 2026-11-22 (evening). Whoever works on YouTop next: read `CLAUDE.md`, then this, then
 `docs/content-guide.md` and the `youtop-lessons` skill. Rewrite this file whenever the state changes (it replaces the
 `status-<n>.txt` files in the Drive folder "YouTop private", which stop at 7).
 
-## HANDOFF (2026-11-22, afternoon): THREE RECURRING SYMBOLS: every Johns Hopkins lesson done (40 pictures to redo); quotations next; start here
+## HANDOFF (2026-11-22, evening): THREE SYMBOLS and QUOTATIONS done for every Johns Hopkins lesson; waiting for pictures; start here
 
 The owner (2026-11-22): "every lesson contains 3 recurring symbols". Counted as at least three approved symbols from
 `content/symbols.json`, each named in the lesson's `keywords:` (a term of the symbol -> an object containing its anchor)
@@ -75,13 +75,22 @@ third use of each One Piece line at least 20 lessons apart first, then other gen
   have pictures, **133 and 154 have none**: if the owner still means to draw them, give them keywords and three symbols
   first).
 
-**Quotations, progress:** 242-350 have their lead-in and quotation (`voice.txt` + `voice.py fill`; a dry build of
-101-350 passed every rule, the repeat rule included); 351-422 still to do. Policy and the classical lines used: end of
-`drafts/johns-hopkins-2016/quote-bank.md`. `quoteRepeats` is now max 3, gap 20.
+**DONE: quotations. Every Johns Hopkins lesson, 1-422, now ends with a lead-in and a quotation.** 242-422 (181 lessons,
+all of them pending before): 106 got a One Piece line used again (`quoteRepeats` is now max 3, gap 20) and 75 a famous
+classical Arabic line or proverb, read out by Robin, with the lead-in naming the poet when there is one. 177 distinct
+lines in the book; none used more than three times, uses always at least 20 lessons apart. Written in `voice.txt`
+(lead-in N line ending with ":" + Q line), then `voice.py fill` (story, quote and `source:` in `batch.txt`). The old
+"QUOTATION PENDING" notes are replaced by a short note on the policy. The classical lines used: end of
+`drafts/johns-hopkins-2016/quote-bank.md`. A dry `batch.py build` of all 43 batches, in order, into `.content-work`
+passed with no problem (repeat rule included). Nothing recorded or published: audio cannot be kept in the repository,
+so record each lesson only when its picture arrives, just before publishing.
 
-**Next, in order:** (1) quotations for 351-422, then: lead-in + Q line in each pending `voice.txt`, `voice.py fill`, `batch.py build`, `voice.py make`;
-(2) pictures as they arrive (skill steps 4-5, publish `--complete-only`), the 40 redone ones with `--replace b`; rebuilding also mends the NUL signs still in
-published 11, 127, 163, 237, 238. The JH master: Drive id `1JmU8REE6sMtOSk6Ty664l8Q9__jtRogW`, save outside the repo.
+**Next, in order:** pictures as they arrive (skill steps 4-5): build every batch **in order** from `drafts/` (the repeat
+check counts the lessons already built in the folder), `voice.py make` + `voice.py check` for the lessons being
+published (audio made in earlier containers is gone; every unpublished lesson is recorded again), spots, marks, look at
+every drawing, publish `--complete-only`; the 40 redone ones with `--replace b`. Rebuilding also mends the NUL signs
+still in published 11, 127, 163, 237, 238. Optional: one Arabic sentence in the stories for objects added to unrecorded
+pictures (list above). The JH master: Drive id `1JmU8REE6sMtOSk6Ty664l8Q9__jtRogW`, save outside the repo.
 The `content` branch's work copies of the JH batches are older than `drafts/`: always rebuild from `drafts/`.
 
 ## HANDOFF (2026-11-21, ~13:15 UTC): the owner closed this conversation; start here
@@ -91,7 +100,7 @@ The `content` branch's work copies of the JH batches are older than `drafts/`: a
 **DONE (2026-11-22, morning, session_012MyNmqmmG9ub2J54gmSHZY): Johns Hopkins 151-422 are all written**
 (tables, scenes, prompts, stories, explanations, and quotations as far as the pool allowed) in batches of ten, each saved
 to `drafts/johns-hopkins-2016/` and merged to main. The hourly wake-up scheduled task (trig_01PU9vpvigNUp6wUdpdP37Yc) is
-disabled. **Waiting on the owner:** (1) the quotation policy (see "Quotation pool" below) for the pending lessons;
+disabled. **Waiting on the owner:** (1) ~~the quotation policy~~ (decided and done 2026-11-22, see the top);
 (2) the pictures for 151-422 (all prompts sent, 2026-11-22: 151-300 in one file, 301-422 in another).
 **Next agent**, once the owner decides on quotations: add the lead-in (an N line ending with ":") and the Q line to each
 pending lesson in its `voice.txt` (and quote/source in `batch.txt`), run `voice.py fill`, build (`batch.py build`, which
@@ -99,8 +108,8 @@ also checks the repeats), record (`voice.py make`), then publish complete lesson
 381-422 with stand-in quotations passed with no problems (2026-11-22).
 - Progress (update as it goes): **151-422 written** (tables, scenes, prompts, vowelled stories, quotations, explanations;
   `drafts/johns-hopkins-2016/batch-0151-0160` ... `batch-0421-0422`; prompts for the owner: `prompts-jh-151-180.txt`,
-  `prompts-jh-181-190.txt` ... `prompts-jh-421-422.txt`; sent to the owner on 2026-11-22 as two files, 151-300 and 301-422). **Quotation pending** (story written up to the
-  payoff, no lead-in or quotation yet, so not built or recorded): 242, 243, 246, 247, 248, 250, 251, 252, 254-259,
+  `prompts-jh-181-190.txt` ... `prompts-jh-421-422.txt`; sent to the owner on 2026-11-22 as two files, 151-300 and 301-422). **Quotation pending** (DONE 2026-11-22: all have their quotation now; they still
+  need recording): 242, 243, 246, 247, 248, 250, 251, 252, 254-259,
   261-263, 265-267, 269-422. Voices: 151-241, 244, 245, 249, 253, 260, 264, 268 recorded (built one by one from `.content-work/work/johns-hopkins-2016/single-<n>/`,
   because the validator refuses gaps). Audio only in this container; rebuild + `voice.py make` reproduces it; a worker
   restart at ~01:00 UTC interrupted 211-220, which were recorded again.
@@ -115,7 +124,8 @@ also checks the repeats), record (`voice.py make`), then publish complete lesson
   "about half the time"), 214 (an appendage thrombus "not an indication" for surgical ablation), 229 (the book makes
   "an incision below the left-right coronary commissure" the exception in HCM surgery, while classic Morrow descriptions
   carry the trough toward that commissure).
-- **Quotation pool: exhausted after 241. THE OWNER MUST DECIDE.** Every One Piece line used in 1-240 has been used
+- (RESOLVED 2026-11-22: the owner chose "make anything strong and consistent"; every lesson now has a quotation, see the
+  top.) **Quotation pool: exhausted after 241.** Every One Piece line used in 1-240 has been used
   twice (the book's limit, `quoteRepeats` max 2). The last second uses went to 241 (Oden), 245 (Bon Clay), 249,
   253 and 260 (Zoro), 264 (Kureha's "Hee-hee-hee! Are you happy?") and 268 (Zoro's "minimal injuries"); one line can
   still serve once more where it fits a story: Koshiro's "the sword is yours" (from 256). `drafts/johns-hopkins-2016/quote-bank.md` lists the

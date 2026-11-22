@@ -3,8 +3,8 @@ book: johns-hopkins-2016
 # Written 2026-11-22, morning. Each story: a hook, a wrong try that fails, the answer acting, a payoff line that names
 # the symbol, and a lead-in that says who speaks the quotation and why it fits.
 # OCR misprints of 361, 362, 363 and 370 are mended by the book's 'typos' map ("Sarro" -> "Sano", "ex:tracardiac").
-# QUOTATION PENDING (all ten): the pool of One Piece lines allowed by quoteRepeats is exhausted; the owner decides.
-# The stories stop at the payoff; add the lead-in and Q lines before building.
+# Quotations added 2026-11-22 (the owner left the choice to the agent: "make anything strong and consistent"):
+# a One Piece line (at most three uses, 20 lessons apart) or a classical Arabic line read out by Robin; see ../quote-bank.md.
 
 == 361
 # book 76.2: correct about the epidemiology of HLHS -> B, a slight male predominance.
@@ -25,8 +25,9 @@ story:
 وبجانب أحد المهود لفتة منحوتة على شكل حرف إكس؛ أمّا القزم المرح ذو القلادة اللؤلئيّة فوقف بعيدًا جدًّا.
 فأعاد أوسوب العدّ مرّتين، ثمّ اعترف بأنّ القبّعات الزرقاء تتقدّم بخطوة.
 «في حضانة أفراس النهر، القبّعات الزرقاء أكثر قليلًا!» قال تشوبر.
-quote:
-source:
+فلمّا اعترف أوسوب بخطئه، ربّتت روبين على كتفه، وقالت حكمةً قديمة:
+quote: «الاعتراف بالحقّ فضيلة.»
+source: مثل عربيّ
 explanation:
 There is a slight male predominance in HLHS: B.
 About 55 to 65 percent of affected infants are boys.
@@ -54,8 +55,9 @@ story:
 فإذا حبل يعصر خصر الحوت هناك، في طريق الماء الراجع، فيكاد الرأس يعطش.
 فأخذ تشوبر يراقب ذلك الحبل أسبوعًا بعد أسبوع، ليفكّه قبل أن يشتدّ.
 «في الطريق الهجين، يجري الماء إلى الوراء عبر الحبل!» قال تشوبر.
-quote:
-source:
+فجلس تشوبر يراقب الحبل أسبوعًا بعد أسبوع، وقالت روبين مثلًا قديمًا:
+quote: «إنّ غدًا لناظره قريب.»
+source: مثل عربيّ
 explanation:
 The hybrid stage I repair is associated with reverse coarctation: E.
 In the hybrid approach the ductus is stented and both branch pulmonary arteries are banded.
@@ -83,8 +85,9 @@ story:
 فأعاد تشوبر المدخنة إلى مكانها، وانتظروا حتّى سقطت المكعّبات في الشهر الرابع.
 وفي الردهة الزرقاء، كان بنّاء آخر يبني نصف نفق، يستعدّ به للنّافورة فيما بعد.
 «رائد الفضاء ينتظر الشهر الثالث!» قال تشوبر.
-quote:
-source:
+فجمع أوسوب أوراق التقويم الممزّقة خجلًا، وقالت له روبين مثلًا قديمًا:
+quote: «الصبر مفتاح الفرج.»
+source: مثل عربيّ
 explanation:
 Performing a cavopulmonary anastomosis before 3 months of age is associated with increased hypoxia: B.
 The SVC blood reaches the lungs only passively, so pulmonary vascular resistance must have fallen; in young infants it is still too high, and saturations drop.
@@ -112,8 +115,9 @@ story:
 فالخرطوم يسرق من الحوت ماءه في الاستراحة بين الدقّات، فيعطش التاج؛ والمنزلق لا يسرق.
 وكانت أمّ تكتب كلّ يوم وزن رضيعها وأكسجينه في دفتر، فيصل الخبر قبل الخطر.
 «المنزلق يسبق الخرطوم في العام الأوّل!» قال تشوبر.
-quote:
-source:
+فرفعت الأمّ دفترها، فقالت روبين مثلًا قديمًا عن الاستعداد:
+quote: «قبل الرماء تملأ الكنائن.»
+source: مثل عربيّ
 explanation:
 Use of an RV-PA conduit may improve outcomes after stage I reconstruction: D.
 In the Single Ventricle Reconstruction trial, transplant-free survival at 12 months was better with the RV-PA (Sano) conduit than with a modified Blalock-Taussig shunt, though the advantage faded later.
@@ -141,8 +145,9 @@ story:
 غرفة بلا مدخل، فيها فرس نهر بلاستيكيّ صغير، يمضي منها الماء إلى أنبوب الدولارات.
 وكان الحوت والأنبوب في أكثر هذه الفنادق يخرجان من غرفتيهما الصحيحتين.
 «رمح ملحم، وثقب في الجدار السفليّ!» قال تشوبر.
-quote:
-source:
+فأطلّت الدكتورة كوريها من الباب، ورأت أوسوب يمسح عرقه أمام الرمح الملحم، فضحكت وقالت:
+quote: «هي هي هي! هل أنت سعيد؟»
+source: الدكتورة كوريها
 explanation:
 In tricuspid atresia a VSD is usually present: D.
 With no connection from the right atrium to the right ventricle, all systemic venous blood crosses an atrial septal defect to the left heart, and the right ventricle fills only through the VSD.
@@ -169,8 +174,9 @@ story:
 ثمّ أخذ نفق الشريط اللاصق ينعصر، فاشتدّت الزرقة.
 فرفع تشوبر كأس الجعة ليبقى النفق مفتوحًا، ونادى الجرّاح.
 «رمح ملحم يزرّق الشفاه في اليوم الأوّل!» قال تشوبر.
-quote:
-source:
+فقام أوسوب عن مقعده مذهولًا، فقرأت روبين بيتًا للمتنبّي:
+quote: «ما كلّ ما يتمنّى المرء يدركه، تجري الرياح بما لا تشتهي السفن.»
+source: المتنبّي
 explanation:
 Most patients with tricuspid atresia present with cyanosis in the first day of life: A.
 Systemic venous blood mixes with pulmonary venous blood in the left atrium, and in most patients flow to the lungs is restricted by a small VSD or pulmonary stenosis.
@@ -198,8 +204,9 @@ story:
 «وهذه البطاقة أيضًا: عمره أكثر من سنة!» قال أوسوب، وأخذ يثبّت بطاقةً عليها رقم واحد.
 لكنّ تشوبر نزعها؛ فالنّافورة تسأل عن الأنابيب والمروحة والباب، لا عن عيد الميلاد.
 «النافورة تفحص الأنابيب والمضخّة، لا عيد الميلاد!» قال تشوبر.
-quote:
-source:
+فنزع تشوبر بطاقة العمر، وقرأت روبين بيتًا للمتنبّي:
+quote: «على قدر أهل العزم تأتي العزائم، وتأتي على قدر الكرام المكارم.»
+source: المتنبّي
 explanation:
 Age over 1 year is not a criterion for the Fontan procedure: A.
 What matters is the physiology: low pulmonary vascular resistance and pressure, unobstructed pulmonary venous drainage and adequately sized pulmonary arteries.
@@ -227,8 +234,9 @@ story:
 فهدأت المروحة واستراحت، فقد خفّ عنها نصف حملها.
 وفي الأكياس، أخذ تشوبر يراقب عقدًا صغيرةً قد تنمو بلا ماء الكبد، ودروب خريطة كنز قديمة تضيف إلى الغرفة ماءً.
 «رائد الفضاء يرفع نصف الحمل عن المروحة الوحيدة!» قال تشوبر.
-quote:
-source:
+فهدأت المروحة الوحيدة واستراحت، فقالت روبين مثلًا قديمًا:
+quote: «يد واحدة لا تصفّق.»
+source: مثل عربيّ
 explanation:
 In a bidirectional cavopulmonary shunt, systemic venous blood is diverted to the lungs, reducing the volume load on the single ventricle: B.
 The ventricle no longer pumps the pulmonary blood flow as well as the systemic, so its work falls while oxygenation improves.
@@ -256,8 +264,9 @@ story:
 أمّا النافورة الجديدة، فيجري ماؤها في نفق ضيّق داخل الردهة، وبقيّة الردهة هادئة لا قرصان فيها.
 وفي الحالين، كانت كرات بولنغ سوداء تتدحرج أحيانًا من أنابيب النافورة، فبقي تشوبر يقظًا.
 «أعط الماء نفقًا، يخرج القرصان من الردهة!» قال تشوبر.
-quote:
-source:
+فخرج القرصان الراقص من الردهة القديمة ساخرًا، وقال كلمة بن بيكمان:
+quote: «لم نزعم يومًا أنّنا قدّيسون!»
+source: بن بيكمان
 explanation:
 The incidence of atrial arrhythmias is reduced after the lateral tunnel procedure: B.
 In the old atriopulmonary Fontan the whole right atrium is exposed to venous pressure, dilates and scars, so atrial flutter and other re-entrant arrhythmias are common.
@@ -285,8 +294,9 @@ story:
 فجاءت ثلاثة عروض مقبولة: روبوت فولاذيّ صغير يقعقع، وعلبة مناديل ورقيّة ناعمة، وبستانيّ ينقل وردةً حمراء من فم أنبوب الدولارات إلى فم الحوت.
 فأخذ الفتى يوازن بينها: دواء يرقّق الدم مع الروبوت، وعمر أقصر للعلبة، وعمليّة أكبر للوردة.
 «فم الفتى الحجريّ يحتاج بابًا جديدًا، لا قصّةً بالمقصّ!» قال تشوبر.
-quote:
-source:
+فأمسك الفتى بالرّوبوت والعلبة والوردة، كأنّه يراهن على عمره القادم، كما راهن شانكس يومًا:
+quote: «راهنت بذراعي على العصر الجديد.»
+source: شانكس
 explanation:
 Repair by surgical valvotomy of the fused right and noncoronary commissures is not acceptable here: B.
 In an adolescent with a thickened, tricuspid stenotic valve, commissurotomy gives a poor and short-lived result; balloon or surgical valvotomy belongs to infants and young children with a pliable valve.

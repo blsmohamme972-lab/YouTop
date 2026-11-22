@@ -4,8 +4,8 @@ book: johns-hopkins-2016
 # the symbol, and a lead-in that says who speaks the quotation and why it fits.
 # OCR misprints of 341, 342, 347 and 350 are mended by the book's 'typos' map ("22ql l" -> "22q11", "D -looping").
 # 346: the book's key (D) is kept; a note says series differ on how common the infracardiac form is.
-# QUOTATION PENDING (all ten): the pool of One Piece lines allowed by quoteRepeats is exhausted; the owner decides.
-# The stories stop at the payoff; add the lead-in and Q lines before building.
+# Quotations added 2026-11-22 (the owner left the choice to the agent: "make anything strong and consistent"):
+# a One Piece line (at most three uses, 20 lessons apart) or a classical Arabic line read out by Robin; see ../quote-bank.md.
 
 == 341
 # book 72.1: genetic factor NOT associated with truncus arteriosus -> D, microdeletion of chromosome 15q.

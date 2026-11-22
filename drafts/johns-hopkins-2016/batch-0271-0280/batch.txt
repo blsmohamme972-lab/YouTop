@@ -6,8 +6,8 @@ book: johns-hopkins-2016
 # (content/books/johns-hopkins-2016.json), so the quiz shows "Beta-blockers", "Qp/Qs > 1.5:1", "PVa", "2.0 cm".
 # 275: the book's key (none of the above) was right in 2016; PFO closure has been FDA-approved since October 2016.
 # The key is kept; the story and the explanation teach both.
-# QUOTATION PENDING (all ten): the pool of One Piece lines allowed by quoteRepeats is exhausted; the owner decides.
-# The stories stop at the payoff; add the lead-in and Q lines before building.
+# Quotations added 2026-11-22 (the owner left the choice to the agent: "make anything strong and consistent"):
+# a One Piece line (at most three uses, 20 lessons apart) or a classical Arabic line read out by Robin; see ../quote-bank.md.
 
 == 271
 # book 55.1: true statement on radiation safety -> D, the maximum whole-body dose per year is 5 rems.

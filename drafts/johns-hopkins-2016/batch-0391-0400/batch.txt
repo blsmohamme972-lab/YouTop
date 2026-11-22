@@ -5,8 +5,8 @@ book: johns-hopkins-2016
 # 392: option D printed corrected ("right-to-left" -> "left-to-left"); the key stays D (x:key-corrected, note).
 # 397: the book's key (C, zero mortality for sling repair) is kept, with a note.
 # 399: the book prints 80.2 (lesson 381) again as 85.2; asked the other way round with 'asks:' (note).
-# QUOTATION PENDING (all ten): the pool of One Piece lines allowed by quoteRepeats is exhausted; the owner decides.
-# The stories stop at the payoff; add the lead-in and Q lines before building.
+# Quotations added 2026-11-22 (the owner left the choice to the agent: "make anything strong and consistent"):
+# a One Piece line (at most three uses, 20 lessons apart) or a classical Arabic line read out by Robin; see ../quote-bank.md.
 
 == 391
 # book 83.4: NOT appropriate for an anomalous coronary between the aorta and the pulmonary artery in a child -> E, coronary artery bypass grafting.
@@ -26,8 +26,9 @@ story:
 فرفع الأوّل سقف النفق الّذي تجري فيه الشوكة داخل جدار الحوت، وفتح لها الثاني بابًا جديدًا مستديرًا.
 ونقلها الثالث إلى طبقها الصحيح، وأزاح الرابع أنبوب الدولارات جانبًا؛ فلم تعد الكسّارة تعصرها.
 «شوكة الطفل المعصورة تأخذ بابًا جديدًا، لا ورقة ملفوف!» قال تشوبر.
-quote:
-source:
+فجمع أوسوب أوراق الملفوف الذابلة، وقالت روبين مثلًا قديمًا:
+quote: «لكلّ مقام مقال.»
+source: مثل عربيّ
 explanation:
 Coronary artery bypass grafting is not an appropriate operation for an anomalous coronary artery running between the aorta and pulmonary artery in a child: E.
 At rest the native artery carries normal flow, so a graft competes with it and tends to close, and a child would outgrow it.
@@ -57,8 +58,9 @@ story:
 فالقبضة تلكم دائمًا من التاج، ولم تعبر من الغرفة الزرقاء إلى الحمراء قطرة واحدة.
 وكانت كلّ شوكة ملكومة منتفخةً طويلةً متعرّجةً قبل القبضة، رفيعةً بعدها.
 «قبضة التاج تخرج من التاج دائمًا: إلى الأزرق أو إلى الأحمر، ولا تأتي من الأزرق أبدًا!» قال تشوبر.
-quote:
-source:
+فتتبّع أوسوب الماء الأحمر حتّى رآه يخرج من التاج، وقالت روبين مثلًا قديمًا:
+quote: «كلّ إناء بما فيه ينضح.»
+source: مثل عربيّ
 explanation:
 A coronary fistula can cause either a left-to-right or a left-to-left shunt: D, as corrected (the book prints right-to-left).
 Most fistulas are congenital and arise from a normal coronary artery; most end in the right side of the heart, the right ventricle most often, then the right atrium and the pulmonary artery, a left-to-right shunt.
@@ -85,8 +87,9 @@ story:
 لكنّ القيد بقي مفتوحًا كحدوة حصان، فلا شيء في الجهة الأخرى يكمل الدائرة؛ ولم يفعل المهرّج إلّا أن ضغط الزحلوقة من خلفها.
 وفي ركن الزنزانة، حوت ينحني إلى اليمين، أنابيبه مصفوفة كصورته في المرآة، لا قيد حوله أصلًا.
 «حيلة المهرّج لا تقفل الحلقة أبدًا!» قال تشوبر.
-quote:
-source:
+فوقف أوسوب والقيد المفتوح في يده، فضحكت روبين وقالت مثلًا قديمًا:
+quote: «أسمع جعجعةً ولا أرى طحنا.»
+source: مثل عربيّ
 explanation:
 A left aortic arch with an aberrant right subclavian artery is an incomplete ring: E.
 The right subclavian artery arises last from the arch and passes behind the oesophagus, but with a left ligamentum nothing closes the circle, so it can only indent the oesophagus from behind.
@@ -113,8 +116,9 @@ story:
 وفي الجهة الأخرى رضيع آخر يصفر منذ أسابيعه الأولى، تطبق على خرطومه حلقة حوتين بقوسين، تصعد منهما أربعة أنابيب متساوية.
 أمّا كاميرا المغناطيس الكبيرة، فلم تر الخيط اليابس من الشريط اللاصق القديم، مع أنّه هناك.
 «الحبالة حول الخرطوم تصفر قبل الشمعة الأولى!» قال تشوبر.
-quote:
-source:
+فحمل تشوبر الرضيع إلى الجرّاح في الحال، وقالت روبين مثلًا قديمًا:
+quote: «خير البرّ عاجله.»
+source: مثل عربيّ
 explanation:
 Pulmonary artery sling usually presents during the first year of life: C.
 The left pulmonary artery arises from the right one and loops behind the trachea, compressing it, and complete tracheal rings often coexist, so infants present early with stridor, wheezing and respiratory distress.
@@ -143,8 +147,9 @@ story:
 فقصّ تشوبر الجراب كلّه، وحمل أنبوب الزعنفة اليسرى، فخاطه على جنب الجزرة البرتقاليّة الطويلة، فبقي الماء يصل إلى الذراع.
 وفي القاعة، كان القضاة يفتحون غطاء صندوق الكنز الجانبيّ عند القوس الأصغر، ويبعدون مكعّب الثلج العملاق عن طفل الحبالة.
 «اقطع جراب المهرّج، وأعط الزعنفة للجزرة!» قال تشوبر.
-quote:
-source:
+فنظر أوسوب إلى الجراب المقصوص، وتذكّر يومًا في هذه الجزيرة صاح فيه لوفي:
+quote: «سوغيكينغ! أطلق النار على ذلك العلم!»
+source: مونكي دي لوفي
 explanation:
 For a Kommerell diverticulum with a vascular ring, the left subclavian artery should be transferred to the left carotid artery: D.
 Dividing the ligamentum opens the ring, but the diverticulum can go on compressing the oesophagus and can enlarge or rupture, so it is resected and the subclavian artery is reimplanted into the carotid to keep the arm's flow.
@@ -172,8 +177,9 @@ story:
 ثمّ خاط الحوت إلى باطن غطاء صندوق الكنز الأماميّ، فشدّ معه الخرطوم مفتوحًا، وخاط حول قطعة أخرى جبيرةً صلبةً من الخارج.
 ولصغير لم يكفه ذلك، وضع أنبوبًا قصيرًا في مقدّمة عنقه، تنفخ فيه مضخّة هواء صغيرة.
 «الخرطوم الليّن يسند مفتوحًا، ولا يقصّ أبدًا!» قال تشوبر.
-quote:
-source:
+فأعاد أوسوب مقصّه العملاق إلى مكانه، وقالت روبين مثلًا قديمًا:
+quote: «ما لا يدرك كلّه لا يترك جلّه.»
+source: مثل عربيّ
 explanation:
 Tracheal resection is not a suitable solution for tracheobronchial malacia: D.
 Malacia is a soft, collapsing airway, usually over a long segment or several segments, so there is no short stenosis to cut out and join.
@@ -203,8 +209,9 @@ story:
 «احتفظ بتوابيتك لغيرهم يا فتى؛ هؤلاء خرجوا كلّهم!» ضحكت كوريها.
 وعند النافذة، فانوس على منظار رفيع يتلصّص من ثقب مفتاح؛ يصلح لحلقة بسيطة، لا لحلقة الحوتين بقوسين.
 «نتيجة الحبالة في هذه القلعة صفر: ولا تابوت واحد!» قال تشوبر.
-quote:
-source:
+فلفّ تشوبر كلّ رضيع ببطّانيّة قبل أن يخرج إلى الثلج، كما قال زيف يومًا لسانجي:
+quote: «يا سانجي... لا تصب بالبرد.»
+source: زيف
 explanation:
 Mortality for repair of pulmonary artery sling is zero: C, as the book reports.
 The left pulmonary artery is divided, brought in front of the trachea and reimplanted into the main pulmonary artery on cardiopulmonary bypass, and in experienced hands this is done without operative deaths.
@@ -231,8 +238,9 @@ story:
 أمّا السنّ الأماميّ الكبير، فبقي معلّقًا في طوقه النحاسيّ، عريضًا كالعلم.
 ولم يبق يدفع الماء إلّا أرض الغرفة بمروحتها، ومخرجها إلى أنبوب الدولارات.
 «آينشتاين ينزل السنّين، فتصير الغرفة فوقهما ردهةً!» قال تشوبر.
-quote:
-source:
+فسحب أوسوب يده عن الجدار الرقيق، وقالت روبين مثلًا قديمًا:
+quote: «تسمع بالمعيديّ خير من أن تراه.»
+source: مثل عربيّ
 explanation:
 Ebstein's anomaly includes a thin-walled atrialized component of the right ventricle: C.
 The septal and posterior leaflets are displaced toward the apex, so the inlet portion above them works as part of the atrium although it is ventricle in origin, often thin and dilated.
@@ -263,8 +271,9 @@ story:
 فطردهم تشوبر واحدًا بعد آخر: فالثّلج لا يحتاجه إلّا قليل، والرّضيع يدخل إليه من الردهة الزرقاء عبر الجدار العلويّ، والشّراع يقصّ باليد، ومن يترك يسقط منهم أكثر من النصف بكثير.
 ولم يبق في الورشة إلّا البحّار العجوز اللاهث، فأدخله في الحال، كما فعل قبل عام.
 «أربعة باعة إلى الخارج، وبحّار عجوز واحد إلى الداخل!» قال تشوبر.
-quote:
-source:
+فأعاد أوسوب محفظته إلى جيبه، وقالت روبين مثلًا قديمًا:
+quote: «ما كلّ بيضاء شحمةً، ولا كلّ سوداء تمرة.»
+source: مثل عربيّ
 explanation:
 In subdivided atrium, A, C, D and E are not true; only B, urgent repair in older patients with chronic symptoms, is.
 Untreated, most infants with subdivided left atrium die, classically about three quarters, so fifty percent understates it.
@@ -292,8 +301,9 @@ story:
 وعند وليد نزل رمحه نزولًا شديدًا، عجزت غرفته الزرقاء عن أن تفتح باب أنبوب الدولارات أصلًا.
 وعلى السطح، رقص قرصان يصيح آرر، رقصةً لا تتبع اللحن؛ فهو ضيف مألوف في هذه الفنادق.
 «غرفة زرقاء عملاقة، تعصر مروحة الغرفة الحمراء!» قال تشوبر.
-quote:
-source:
+فنظرت الغرفة الحمراء إلى جارتها المنتفخة بضيق، وقالت روبين مثلًا قديمًا:
+quote: «الجار قبل الدار.»
+source: مثل عربيّ
 explanation:
 In Ebstein's anomaly, right ventricular dilation can compromise left ventricular function: A.
 The huge right heart pushes the septum toward the left ventricle and changes its shape and filling, so left ventricular function falls.

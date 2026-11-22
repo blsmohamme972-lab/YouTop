@@ -4,8 +4,8 @@ book: johns-hopkins-2016
 # the symbol, and a lead-in that says who speaks the quotation and why it fits.
 # New recurring symbol: stem cells = seedlings on long stems planted into the scar (content/symbols.json, stem-cells).
 # OCR misprints in 261, 263, 268 and 269 are fixed by the book's 'typos' map (content/books/johns-hopkins-2016.json).
-# QUOTATION PENDING (261, 262, 263, 265, 266, 267, 269, 270): the pool of One Piece lines allowed by quoteRepeats is
-# exhausted; the owner decides. Those stories stop at the payoff; add the lead-in and Q lines before building.
+# Quotations added 2026-11-22 (the owner left the choice to the agent: "make anything strong and consistent"):
+# a One Piece line (at most three uses, 20 lessons apart) or a classical Arabic line read out by Robin; see ../quote-bank.md.
 
 == 261
 # book 53.1: Americans estimated to have congestive heart failure -> C, 6,000,000.

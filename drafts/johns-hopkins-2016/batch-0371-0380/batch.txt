@@ -3,8 +3,8 @@ book: johns-hopkins-2016
 # Written 2026-11-22, morning. Each story: a hook, a wrong try that fails, the answer acting, a payoff line that names
 # the symbol, and a lead-in that says who speaks the quotation and why it fits.
 # OCR misprints of 371, 374, 375, 378 and 379 are mended by the book's 'typos' map ("1 00-kg 1 8-year-old", "q 1 1").
-# QUOTATION PENDING (all ten): the pool of One Piece lines allowed by quoteRepeats is exhausted; the owner decides.
-# The stories stop at the payoff; add the lead-in and Q lines before building.
+# Quotations added 2026-11-22 (the owner left the choice to the agent: "make anything strong and consistent"):
+# a One Piece line (at most three uses, 20 lessons apart) or a classical Arabic line read out by Robin; see ../quote-bank.md.
 
 == 371
 # book 78.2: next step for a neonate in shock with critical bicuspid AS -> B, prostaglandin, inotropes and assessment of the left-sided structures.
@@ -25,8 +25,9 @@ story:
 وأشعل بحذر صواريخ ناريّةً قليلة، فأخذت إبرة المقياس تصعد.
 ثمّ أطلق الخفّاش يقيس بحلقات صوته الردهة الحمراء والغرفة الحمراء والحوت: هل تكفي لتحمل المدينة وحدها؟
 «الكأس، والصّواريخ بحذر، ثمّ الخفّاش يقيس؛ وبعد ذلك البالون!» قال تشوبر.
-quote:
-source:
+فأفلتت كوريها ياقة أوسوب، ونظرت إلى تشوبر بفخر، وقالت:
+quote: «اذهب يا بنيّ!»
+source: الدكتورة كوريها
 explanation:
 For a neonate in shock with critical aortic stenosis, the next step is prostaglandin, appropriate inotropic support and evaluation of the adequacy of the left-sided structures: B.
 Prostaglandin reopens the ductus so the right ventricle can supply the body, and the infant is resuscitated before any procedure.
@@ -54,8 +55,9 @@ story:
 وحتّى الجدران الغليظة حول مروحة الغرفة الحمراء لم تكن وحدها سببًا للعمل.
 أمّا الفندق الثاني، فكان مقياسه يقرأ أكثر من أربعين؛ فمدّ فرانكي يده إلى أدواته.
 «أربعون على المقياس، فتخرج الأدوات!» قال تشوبر.
-quote:
-source:
+فعاد صاحب الفندق الأوّل إلى بيته مطمئنًّا، وقالت روبين مثلًا قديمًا:
+quote: «لكلّ حادث حديث.»
+source: مثل عربيّ
 explanation:
 Surgical intervention for discrete valvar aortic stenosis is indicated when the echocardiographic mean gradient is >40 mm Hg: A.
 In children the usual threshold is a mean gradient above 40 mm Hg (or a peak gradient around 60 to 70 mm Hg), or less if there are symptoms, ischaemia on the ECG or falling ventricular function.
@@ -81,8 +83,9 @@ story:
 أمّا الوردة، فكانت تكبر مع الطفل عامًا بعد عام، لأنّها حيّة من لحمه.
 وإن كانت تحتاج إلى بستانيّ يزور فم أنبوب الدولارات من حين إلى حين.
 «الوردة تكبر، والعلبة لا تكبر!» قال تشوبر.
-quote:
-source:
+فشمّ الطفل وردته الحيّة، وقالت روبين مثلًا قديمًا:
+quote: «من شبّ على شيء شاب عليه.»
+source: مثل عربيّ
 explanation:
 The Ross autograft possesses growth potential, an advantage over a bioprosthetic valve: A.
 The patient's own pulmonary valve, moved into the aortic position, is living tissue and grows with the child, while a bioprosthesis cannot grow and degenerates quickly in the young.
@@ -110,8 +113,9 @@ story:
 فقصّ تشوبر الطوق من خلفه، ووسّعه برقعة، ثمّ قاسه من جديد.
 فدخل طقم الأسنان الكامل بسهولة، وتركوا الشقّ الأماميّ الكبير نحو الغرفة الزرقاء لمن يحتاجه حقًّا.
 «العملاق يحتاج طوقًا أوسع، لا طقم أسنان طفل!» قال تشوبر.
-quote:
-source:
+فضحك الفتى العملاق ضحكةً هزّت الجزيرة، وقرأت روبين بيتًا للمتنبّي:
+quote: «وإذا كانت النفوس كبارا، تعبت في مرادها الأجسام.»
+source: المتنبّي
 explanation:
 With a 19-mm annulus in a 100-kg 18-year-old, the most reasonable step is a posterior annular enlarging procedure and re-sizing: B.
 A 19-mm prosthesis in a large adult would cause severe patient-prosthesis mismatch, with a high gradient and poor long-term results.
@@ -137,8 +141,9 @@ story:
 لكنّ الثقب الصليبيّ بقي بعيدًا، فليس من أصدقاء الحبل.
 فجلس الأصدقاء الأربعة حول الحوت المربوط، يستمعون إلى كريكيت يحكي عن المدينة الذهبيّة.
 «أصدقاء الحبل: ثقب، ودرّاجة، وكرز، ومظلّة!» قال تشوبر.
-quote:
-source:
+فنظرت روبين إلى الأصدقاء حول الحوت المربوط، وقالت مثلًا قديمًا:
+quote: «إنّ الطيور على أشكالها تقع.»
+source: مثل عربيّ
 explanation:
 Partial atrioventricular septal defect is not associated with coarctation of the aorta: C.
 Coarctation commonly comes with a bicuspid aortic valve, a VSD, the Taussig-Bing anomaly and the left-sided obstructions of the Shone complex, and with Turner syndrome.
@@ -166,8 +171,9 @@ story:
 وعلى خصر واحد منها، انتفخت فقّاعة علكة ورديّة صغيرة.
 أمّا الحبال الّتي عادت بعد جراحة سابقة، فقد فكّها البالون بسهولة أكبر.
 «بالون عند الوليد، ثمّ الجرّاح في ستّة من عشرة!» قال تشوبر.
-quote:
-source:
+فنظر أوسوب إلى طاولة الجرّاح المزدحمة، وقالت روبين مثلًا قديمًا:
+quote: «ما كلّ مرّة تسلم الجرّة.»
+source: مثل عربيّ
 explanation:
 Nearly 60 percent of neonates undergoing balloon angioplasty for coarctation will require subsequent surgical repair: A.
 In newborns the ductal tissue recoils, so dilation gives only temporary relief, and surgery (resection with extended end-to-end anastomosis) is preferred.
@@ -196,8 +202,9 @@ story:
 فأخّر تشوبر طعامه، وأنزل الضغط، حتّى هدأ الصحن.
 وفي الركن، كان طائر كيوي صغير على ظهر الحوت يطعم حبل الظهر؛ فلم ترتخ السيقان إلّا عند واحد نادر جدًّا.
 «اقطع الحبل، فقد تغضب المعكرونة!» قال تشوبر.
-quote:
-source:
+فتوقّف أوسوب عن الأكل مذهولًا، وقرأت روبين بيتًا لطرفة بن العبد:
+quote: «ستبدي لك الأيّام ما كنت جاهلًا، ويأتيك بالأخبار من لم تزوّد.»
+source: طرفة بن العبد
 explanation:
 Postcoarctectomy syndrome occurs in 5 to 10 percent: B.
 After repair, paradoxical hypertension is common, and the sudden pulsatile pressure in the mesenteric arteries can cause an arteritis with abdominal pain, ileus and, rarely, bowel ischaemia; feeding is delayed and blood pressure controlled.
@@ -223,8 +230,9 @@ story:
 لكنّ المشبك بقي بعيدًا؛ فالطّريق الّذي يضيق عند هذا الحوت هو طريق الحوت نفسه، تحت فمه، لا طريق أنبوب الدولارات.
 فأشارت المحاربات إلى الأصدقاء الأربعة وحدهم، وصفّقن.
 «أصدقاء الحوت المقطوع يضيّقون طريق الحوت، لا طريق المال!» قال تشوبر.
-quote:
-source:
+فابتسمت روبين للحوت المقطوع وأصدقائه، وقالت مثلًا قديمًا:
+quote: «قل لي من تصاحب، أقل لك من أنت.»
+source: مثل عربيّ
 explanation:
 Subpulmonary stenosis is not associated with interrupted aortic arch: D.
 IAA, especially type B, is strongly associated with the 22q11 deletion (DiGeorge), a malalignment VSD, an aberrant right subclavian artery and a bicuspid aortic valve.
@@ -252,8 +260,9 @@ story:
 وعند نحو فندق من كلّ أربعة، عادت ستارة حمّام تمتدّ تحت فم الحوت، فاحتاج إلى عمليّة أخرى.
 فأطفأ أوسوب الشمعة الخامسة بصمت، ووضع زهرةً لكلّ فندق سقط.
 «سبعة حيتان مقطوعة من عشرة تبلغ العيد الخامس!» قال تشوبر.
-quote:
-source:
+وفي صمت الشموع، تذكّر أوسوب كلمة إيس الأخيرة:
+quote: «شكرًا لكم... لأنّكم أحببتموني!»
+source: بورتغاس دي إيس
 explanation:
 Five-year survival after repair of interrupted aortic arch is about 70 percent: C.
 Early mortality has fallen, and survival is limited mostly by associated anomalies, such as complex intracardiac defects and subaortic obstruction.
@@ -279,8 +288,9 @@ story:
 لكنّ المشبك بقي خارجًا بين أشجار اليوسفيّ، فليس من هذه الصحبة.
 وكانت فتحة الحاجز الزجاجيّ ضيّقة، فانتظر الماء خلفها، وتبلّلت أكياس الدولارات.
 «أصدقاء الردهة الثالثة: ثقب، وصليب، وتتريس، ومدخنة ثانية!» قال تشوبر.
-quote:
-source:
+وبين أشجار اليوسفيّ هذه، تذكّر أوسوب يومًا صاح فيه لوفي:
+quote: «نامي! أنت رفيقتي!»
+source: مونكي دي لوفي
 explanation:
 Pulmonary stenosis is not associated with a subdivided left atrium (cor triatriatum): E.
 In cor triatriatum a membrane divides the left atrium into an upper chamber receiving the pulmonary veins and a lower one leading to the mitral valve; the opening in the membrane decides how obstructed the veins are.
