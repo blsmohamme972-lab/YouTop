@@ -6,15 +6,16 @@ book: johns-hopkins-2016
 # a newborn's pink sofa slide welded shut halfway with a thick iron cap -> oesophageal atresia (audited symbols)
 # ANSWER (corrected): a knight on horseback CHARGING into the nursery, his shield painted with a narrow hotel with a stag's head -> the CHARGE association includes heart defects (heart = the HART Hotel)
 # a heap of toy blocks of other shapes piled around the cradle, filling half of it -> about half have associated anomalies (VACTERL), not 10 percent
+# a big kidney bean among the toy blocks -> the associated anomalies follow the VACTERL pattern, renal ones among them (kidney = kidney bean, audited)
 title: Oesophageal atresia: the CHARGE association includes heart defects
 titleAr: رتق المريء: ترافق CHARGE يشمل عيوب القلب
 tags: thoracic/oesophagus d:pathology q:recall l:2 x:key-corrected
 palette: nursery cream, iron grey and knight's silver
 note: The book's key is D. About half of children with oesophageal atresia have associated anomalies, not 10 percent, while the CHARGE association (coloboma, heart defects, choanal atresia, retardation, genital and ear anomalies) does include cardiac defects, so E is the correct answer.
 key: E
-keywords: oesophageal atresia -> a newborn's long pink sofa slide welded shut halfway with a thick iron cap; CHARGE association with heart defects -> a knight on horseback CHARGING into the nursery, his shield painted with a narrow old hotel with a stag's head; associated anomalies -> a heap of odd-shaped toy blocks piled around the cradle, filling half of it
+keywords: oesophageal atresia -> a newborn's long pink sofa slide welded shut halfway with a thick iron cap; CHARGE association with heart defects -> a knight on horseback CHARGING into the nursery, his shield painted with a narrow old hotel with a stag's head; associated anomalies -> a heap of odd-shaped toy blocks piled around the cradle, filling half of it; atresia -> the slide welded shut halfway with a thick iron cap; renal anomalies (the R of VACTERL) -> a big kidney bean lying among the odd-shaped toy blocks in the cradle
 must: the sofa slide is WELDED SHUT with an iron cap; the knight's shield shows the hotel with a stag's head
-scene: A nursery cabin of a pirate ship, cream light. A newborn baby lies in a cradle; a small long pink sofa stretched into a slide runs down from the baby's mouth and is welded shut halfway with a thick iron cap, so a drop of milk stops on top of it. A heap of odd-shaped toy blocks fills half of the cradle. CENTRE, dominant and brightest: a knight in silver armour on a galloping horse charges through the door, his shield painted with a narrow old hotel with a stag's head over its door. Tony Tony Chopper, the little reindeer doctor, jumps aside, wide-eyed.
+scene: A nursery cabin of a pirate ship, cream light. A newborn baby lies in a cradle; a small long pink sofa stretched into a slide runs down from the baby's mouth and is welded shut halfway with a thick iron cap, so a drop of milk stops on top of it. A heap of odd-shaped toy blocks fills half of the cradle, a big kidney bean lying among them. CENTRE, dominant and brightest: a knight in silver armour on a galloping horse charges through the door, his shield painted with a narrow old hotel with a stag's head over its door. Tony Tony Chopper, the little reindeer doctor, jumps aside, wide-eyed.
 story:
 في غرفة الأطفال على سفينة قراصنة، تحت ضوء كريميّ، رقد رضيع ولد للتّوّ في مهده.
 وكان منزلق صغير من أريكة ورديّة ينزل من فمه، ثمّ ينغلق في منتصفه بغطاء حديديّ ملحوم.
@@ -76,7 +77,7 @@ titleAr: بعد إصلاح رتق المريء يحدث الجزر في نحو 4
 tags: thoracic/oesophagus d:complications q:numbers l:2
 palette: acid green, copper and flag white
 words: 40
-keywords: repaired oesophageal atresia -> a child's long pink sofa slide with a stitched seam halfway down; gastro-oesophageal reflux -> bubbling green acid soup splashing back UP out of the copper cooking pot into the slide; nearly 40 percent -> a flag painted 40; stricture -> a narrow pinch at the seam
+keywords: repaired oesophageal atresia -> a child's long pink sofa slide with a stitched seam halfway down; gastro-oesophageal reflux -> bubbling green acid soup splashing back UP out of the copper cooking pot into the slide; nearly 40 percent -> a flag painted 40; stricture -> a narrow pinch at the seam; stomach -> the copper cooking pot the slide runs down into
 must: the acid soup splashes UP from the pot into the slide; the flag reads 40
 scene: A playroom on the Thousand Sunny, bright day. A small child plays with a toy ship; behind the child, a long pink sofa slide runs down into a copper cooking pot, with a stitched seam halfway down, slightly pinched narrow. CENTRE, dominant and brightest: bubbling green acid soup splashes back UP out of the copper cooking pot into the bottom of the slide, and a white flag painted 40 stands planted on the pot's rim. Tony Tony Chopper, the little reindeer doctor, holds a lid ready to clap on the pot.
 story:
@@ -177,7 +178,7 @@ titleAr: الأكالازيا في قياس الضغط: مصرّة مشدودة 
 tags: thoracic/oesophagus d:diagnosis q:numbers l:2 x:high-yield
 palette: chalice gold, gauge brass and sofa pink
 words: 45, 8
-keywords: achalasia -> a golden chalice jammed in the drawstring at the foot of a long pink sofa slide; hypertensive LES -> a pressure gauge on the drawstring reading 45; incomplete relaxation -> the drawstring opening only a crack when food comes, a second gauge reading 8; aperistalsis -> sailors standing idle along the slide, arms folded, instead of pushing the food down in waves
+keywords: achalasia -> a golden chalice jammed in the drawstring at the foot of a long pink sofa slide; hypertensive LES -> a pressure gauge on the drawstring reading 45; incomplete relaxation of the lower oesophageal sphincter -> the drawstring opening only a crack when food comes, a second gauge reading 8; aperistalsis -> sailors standing idle along the slide, arms folded, instead of pushing the food down in waves
 must: the drawstring opens only a CRACK; the sailors along the slide stand IDLE
 scene: The galley of the Thousand Sunny, cut open, brass light. A long pink sofa slide runs down to a copper cooking pot; along its length several sailors stand idle with folded arms, not pushing the food that sits in the slide. CENTRE, dominant and brightest: at its foot a golden chalice is jammed in the drawstring purse-neck; a brass gauge on the drawstring reads 45, and as a lump of food arrives the drawstring opens only a crack, a second gauge beside it reading 8. Sanji, the blond cook, frowns at the stuck food.
 story:
@@ -209,7 +210,7 @@ title: Achalasia on endoscopy: retained food and saliva with stasis oesophagitis
 titleAr: الأكالازيا بالتنظير: طعام ولعاب محتبسان مع التهاب المريء الركودي
 tags: thoracic/oesophagus d:diagnosis q:recall l:2
 palette: murky olive, sore red and lantern gold
-keywords: achalasia -> a golden chalice jammed in the drawstring at the foot of a long pink sofa slide; retained food and saliva -> the slide above it bulging wide, full of old rotting food and drool; stasis oesophagitis -> the slide's lining red and sore where the old food lies; endoscopy -> a lantern on a periscope lowered into the slide
+keywords: achalasia -> a golden chalice jammed in the drawstring at the foot of a long pink sofa slide; retained food and saliva -> the slide above it bulging wide, full of old rotting food and drool; stasis oesophagitis -> the slide's lining red and sore where the old food lies; endoscopy -> a lantern on a periscope lowered into the slide; oesophagus -> the long pink sofa slide bulging wide above the chalice
 must: the slide ABOVE the chalice is bulging and full of old food; its lining is RED and sore
 scene: The galley of the Thousand Sunny at night, cut open. A long pink sofa slide runs down to a copper cooking pot, and at its foot a golden chalice is jammed in the drawstring. CENTRE, dominant and brightest: above the chalice the slide bulges wide like a sack, full of old rotting food and drooling saliva, its lining red and sore where the food lies, and a lantern on a long periscope is lowered into it, lighting the mess. Tony Tony Chopper, the little reindeer doctor, holds his nose.
 story:
@@ -307,7 +308,7 @@ title: Laparoscopic Nissen: shorter stay and less pain, but no better reflux con
 titleAr: نيسن بالمنظار: إقامة أقصر وألم أقلّ، لكن ضبط الجزر ليس أفضل
 tags: thoracic/oesophagus d:evidence q:recall l:2 x:trap
 palette: keyhole brass, scarf red and balance gold
-keywords: laparoscopic fundoplication -> a scarf wrapped round a sofa slide by hands working through tiny keyholes in a cabin wall; open fundoplication -> a scarf wrapped round another slide through a big open door; equal control of reflux and dysphagia -> both scarves equally tight, the acid soup stopped equally, hung on a perfectly level balance; shorter stay and lower cost -> the keyhole sailor already walking home smiling with a small bill
+keywords: laparoscopic fundoplication -> a scarf wrapped round a sofa slide by hands working through tiny keyholes in a cabin wall; open fundoplication -> a scarf wrapped round another slide through a big open door; equal control of reflux and dysphagia -> both scarves equally tight, the acid soup stopped equally, hung on a perfectly level balance; shorter stay and lower cost -> the keyhole sailor already walking home smiling with a small bill; oesophagus -> the sofa slides the scarves are wrapped round
 must: the balance between the two wraps is perfectly LEVEL
 scene: Two cabins side by side on a pirate ship. LEFT: hands reach through three tiny keyholes in the wall and wrap a red scarf round the foot of a sofa slide. RIGHT: through a big open door, a surgeon wraps an identical scarf round another slide. CENTRE, dominant and brightest: a big golden balance holds a model of each wrapped slide, and it hangs perfectly level, the green acid soup stopped in both. FOREGROUND LEFT: the keyhole patient already walks home smiling, holding a small bill, while the other still lies in bed.
 story:

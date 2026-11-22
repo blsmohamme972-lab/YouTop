@@ -6,13 +6,14 @@ book: johns-hopkins-2016
 # a yellow excavator digging a hollow in the front of a treasure chest -> pectus excavatum (audited symbol)
 # a boy shooting up like a beanstalk -> the pubertal growth spurt
 # ANSWER: during the spurt two big dice tumble out of the chest and roll, nobody knows what they will show -> puberty's effect on the chest is UNPREDICTABLE, so "predictable" is the wrong statement
+# Franky waiting with a curved bar and a lantern telescope at a keyhole; a cat slicing a chest-shaped loaf -> the repair (often thoracoscope-guided) does well before or after the spurt, not during it; CT measures the hollow (thoracoscopy, CT, audited)
 title: Puberty's effect on the chest wall in pectus excavatum is unpredictable
 titleAr: تأثير البلوغ على جدار الصدر في الصدر المقعّر لا يمكن التنبّؤ به
 tags: thoracic/chest-wall d:indications q:recall l:2 x:trap
 palette: excavator yellow, beanstalk green and dice white
-keywords: pectus excavatum -> a yellow excavator digging a deep hollow in the front of a treasure chest; pubertal growth spurt -> a boy shooting up tall like a beanstalk; unpredictable effect -> two big dice tumbling out of the hollow and rolling as he grows
+keywords: pectus excavatum -> a yellow excavator digging a deep hollow in the front of a treasure chest; pubertal growth spurt -> a boy shooting up tall like a beanstalk; unpredictable effect -> two big dice tumbling out of the hollow and rolling as he grows; thoracoscopy (the repair, before or after the spurt) -> Franky waiting beside the boy with a curved steel bar and a lantern on a slim telescope ready to peek in through a keyhole in the chest's side; CT scan -> a grey cat slicing a loaf shaped like the chest, measuring the hollow
 must: the dice are still ROLLING, their result unknown
-scene: The lawn deck of the Thousand Sunny, bright day. A teenage boy shoots up tall like a green beanstalk, holding a treasure chest against his front, in which a small yellow excavator is digging a deep hollow. CENTRE, dominant and brightest: out of the hollow two big white dice tumble and roll across the grass, still spinning, nobody knowing what they will show. Tony Tony Chopper, the little reindeer doctor, chases the dice, shrugging.
+scene: The lawn deck of the Thousand Sunny, bright day. A teenage boy shoots up tall like a green beanstalk, holding a treasure chest against his front, in which a small yellow excavator is digging a deep hollow. CENTRE, dominant and brightest: out of the hollow two big white dice tumble and roll across the grass, still spinning, nobody knowing what they will show. Tony Tony Chopper, the little reindeer doctor, chases the dice, shrugging. Franky waits beside the boy with a curved steel bar and a lantern on a slim telescope, ready to peek in through a keyhole in the chest's side once the spurt is over, while a grey cat slices a loaf shaped like the chest, measuring the hollow.
 story:
 في يوم مشرق على عشب الثاوزند صني، أخذ فتًى اسمه روي يطول ويطول كساق فاصوليا خضراء.
 وكان يضمّ إلى مقدّم صدره صندوق كنز، تحفر فيه حفّارة صفراء صغيرة حفرةً عميقة.
@@ -71,13 +72,14 @@ Patients with connective tissue disorders have a higher risk of recurrence after
 # a baby in a very narrow, tight little barrel for a chest -> Jeune's asphyxiating thoracic dystrophy (keyword: JEUNE -> young, a baby)
 # ANSWER: two healthy parents each holding one hidden half of a key, the two halves joining over the baby -> autosomal recessive: one silent copy from each healthy parent
 # the baby breathing with effort -> the lungs are small, not normal (C is wrong)
+# Chopper working a little bellows down a ribbed hose into the tiny sacks -> the lungs are hypoplastic and the child may need help to breathe (ventilation = bellows, trachea = ribbed hose, audited)
 title: Jeune's syndrome may be inherited as an autosomal recessive trait
 titleAr: متلازمة جون قد تورث بنمط جسمي متنحٍّ
 tags: thoracic/chest-wall d:pathology q:recall l:3
 palette: barrel brown, key gold and nursery blue
-keywords: Jeune's syndrome -> a baby (JEUNE = young) whose chest is a very narrow, tight little barrel; autosomal recessive inheritance -> two healthy parents each holding one hidden half of a golden key, the halves joining over the baby; small lungs -> the baby breathing with effort, two tiny sacks of dollar bills inside the barrel
+keywords: Jeune's syndrome -> a baby (JEUNE = young) whose chest is a very narrow, tight little barrel; autosomal recessive inheritance -> two healthy parents each holding one hidden half of a golden key, the halves joining over the baby; small lungs -> the baby breathing with effort, two tiny sacks of dollar bills inside the barrel; mechanical ventilation -> a little leather bellows Chopper works, pumping air down a white ribbed hose into the two tiny sacks; trachea -> the white ribbed hose running into the two tiny sacks
 must: EACH parent holds only HALF a key; the halves join over the baby
-scene: A nursery cabin, soft blue light. CENTRE, dominant and brightest: a baby in a cradle has a chest like a very narrow, tight little wooden barrel, two tiny sacks of dollar bills squeezed inside it, and breathes with effort; above the cradle two healthy, smiling parents each hold out one half of a golden key, and the two halves join together in the air over the baby. Tony Tony Chopper, the little reindeer doctor, watches the key halves meet.
+scene: A nursery cabin, soft blue light. CENTRE, dominant and brightest: a baby in a cradle has a chest like a very narrow, tight little wooden barrel, two tiny sacks of dollar bills squeezed inside it, and breathes with effort; above the cradle two healthy, smiling parents each hold out one half of a golden key, and the two halves join together in the air over the baby. Tony Tony Chopper, the little reindeer doctor, watches the key halves meet while he works a little leather bellows that pumps air down a white ribbed hose into the two tiny sacks.
 story:
 في غرفة الأطفال تحت ضوء أزرق ناعم، رقد رضيع في مهده، صدره كبرميل خشبيّ صغير ضيّق جدًّا.
 وفي داخله كيسان صغيران من الدولارات محشوران، فكان يتنفّس بعناء.
@@ -103,13 +105,14 @@ Surgery to enlarge the chest is reserved for symptomatic children.
 # a yellow excavator's hollow in the front of a treasure chest -> pectus excavatum (audited symbol)
 # a curved steel bar slid under the chest's front from side to side and flipped to push the hollow out -> the Nuss bar (keyword: NUSS -> German for nut: a nutcracker bar)
 # ANSWER: a lantern on a slim telescope peeking in through a keyhole in the chest's side, lighting the bar's path -> thoracoscopic guidance of the dissection
+# a garden hose and water-seal bottle left unused -> bilateral chest tubes are not routinely needed (A is wrong; chest tube, audited)
 title: In the Nuss procedure the dissection can be guided by thoracoscopy
 titleAr: في عملية ناس يمكن توجيه التسليخ بتنظير الصدر
 tags: thoracic/chest-wall d:technique q:recall l:2
 palette: steel silver, lantern gold and treasure brown
-keywords: pectus excavatum -> a yellow excavator's deep hollow in the front of a treasure chest; Nuss bar -> a curved steel nutcracker bar slid under the chest's front from side to side, flipped to push the hollow out (NUSS = nut); thoracoscopy -> a lantern on a slim telescope peeking in through a keyhole in the chest's side, lighting the bar's path
+keywords: pectus excavatum -> a yellow excavator's deep hollow in the front of a treasure chest; Nuss bar -> a curved steel nutcracker bar slid under the chest's front from side to side, flipped to push the hollow out (NUSS = nut); thoracoscopy -> a lantern on a slim telescope peeking in through a keyhole in the chest's side, lighting the bar's path; chest tubes not routinely needed -> a garden hose and a glass water-seal bottle left coiled and unused at the end of the bench
 must: the lantern-telescope comes through a keyhole in the SIDE and lights the bar's path
-scene: Franky's workshop. A big treasure chest lies on the bench, a deep hollow dug in its front lid by a small yellow excavator. Franky, the blue-haired cyborg shipwright, slides a curved steel bar shaped like a nutcracker under the hollow from one side to the other. CENTRE, dominant and brightest: a lantern on a slim telescope peeks in through a keyhole in the chest's side, lighting the bar's whole path inside, and Usopp holds the telescope steady.
+scene: Franky's workshop. A big treasure chest lies on the bench, a deep hollow dug in its front lid by a small yellow excavator. Franky, the blue-haired cyborg shipwright, slides a curved steel bar shaped like a nutcracker under the hollow from one side to the other. CENTRE, dominant and brightest: a lantern on a slim telescope peeks in through a keyhole in the chest's side, lighting the bar's whole path inside, and Usopp holds the telescope steady. At the end of the bench a garden hose and a glass water-seal bottle lie coiled and unused.
 story:
 في ورشة فرانكي، رقد صندوق كنز كبير على طاولة العمل.
 وفي غطائه الأماميّ حفرة عميقة حفرتها حفّارة صفراء صغيرة.
@@ -135,14 +138,15 @@ The operation is also used in adults, not only in children and adolescents.
 # a yellow excavator's hollow in the front of a treasure chest -> pectus excavatum (audited symbol)
 # ANSWER: Nami measuring the chest with two ropes: the rope across the chest three times as long as the rope from the hollow to the back, a tag painted 3 -> the Haller index (width divided by depth) of 3 or more
 # a winded sailor beside it who breathes easier after the repair -> exercise dyspnoea often improves (D is wrong)
+# a cat slicing a chest-shaped loaf; the sailor blowing a brass horn -> the Haller index is measured on CT; pulmonary function tests are part of the workup (C is wrong) (CT, FEV1, audited)
 title: Pectus excavatum repair is indicated for a Haller index of 3 or more (the book's threshold)
 titleAr: يُستطبّ إصلاح الصدر المقعّر عند مؤشّر هالر 3 أو أكثر (عتبة الكتاب)
 tags: thoracic/chest-wall d:indications q:numbers l:2
 palette: rope tan, excavator yellow and navigator orange
 words: 3
-keywords: pectus excavatum -> a yellow excavator's deep hollow in the front of a treasure chest; Haller index of 3 or more -> Nami measuring the chest with two ropes, the rope across its width three times as long as the rope from the hollow to the back, a tag painted 3 on the long rope; dyspnoea improves -> a winded sailor beside it breathing easier after the repair
+keywords: pectus excavatum -> a yellow excavator's deep hollow in the front of a treasure chest; Haller index of 3 or more -> Nami measuring the chest with two ropes, the rope across its width three times as long as the rope from the hollow to the back, a tag painted 3 on the long rope; dyspnoea improves -> a winded sailor beside it breathing easier after the repair; CT scan -> a grey cat on the table slicing a loaf shaped like the chest, the slice showing the hollow the ropes measure; pulmonary function tests -> the winded sailor blowing a brass horn whose dial swings high
 must: the WIDTH rope is three times the DEPTH rope; the tag reads 3
-scene: The navigation room of the Thousand Sunny, maps on the walls. A big treasure chest stands on the table, a deep hollow dug in its front by a small yellow excavator. CENTRE, dominant and brightest: Nami, the orange-haired navigator, stretches one rope across the chest's full width and a second short rope from the bottom of the hollow to the back, and the width rope is three times as long, a tag painted 3 hanging from it. Beside the table a winded sailor breathes easily again, smiling.
+scene: The navigation room of the Thousand Sunny, maps on the walls. A big treasure chest stands on the table, a deep hollow dug in its front by a small yellow excavator. CENTRE, dominant and brightest: Nami, the orange-haired navigator, stretches one rope across the chest's full width and a second short rope from the bottom of the hollow to the back, and the width rope is three times as long, a tag painted 3 hanging from it. On the table beside it, a grey cat slices a loaf shaped like the chest, the slice showing the same hollow. Beside the table a winded sailor, breathing easily again, blows a brass horn whose dial swings high, smiling.
 story:
 في غرفة الملاحة على الثاوزند صني، بين الخرائط المعلّقة، وضع صندوق كنز على الطاولة.
 وفي مقدّمه حفرة عميقة حفرتها حفّارة صفراء صغيرة.
@@ -167,13 +171,14 @@ Psychological factors matter greatly to children, pulmonary function tests are p
 # a sack of green dollar bills wrapped in a thin shiny skin -> the lung and its visceral pleura (lung = dollar sack)
 # ANSWER: Usopp poking the sack's skin with a pin, the sack feeling nothing, no pain wires running to it -> the visceral pleura is not innervated by somatic nerves
 # the inner lining of the treasure chest wired with red pain nerves, crying out when poked -> the parietal pleura feels pain
+# the lining's red wires running into a telephone cable; Chopper's numbing needle meant for the lining -> the parietal pleura has somatic nerves (intercostal and phrenic), so it is the layer that needs local anaesthetic (phrenic, lidocaine, audited)
 title: The visceral pleura has no somatic nerves: it feels no pain
 titleAr: الجنبة الحشوية لا تعصّبها الأعصاب الجسدية: لا تشعر بالألم
 tags: thoracic/pleura d:anatomy q:recall l:1
 palette: pleura silver, pain-wire red and dollar green
-keywords: visceral pleura -> the thin shiny skin wrapped round a sack of green dollar bills, Usopp poking it with a pin while the sack feels nothing, no wires running to it; parietal pleura -> the inner lining of the treasure chest around it, wired with red pain wires, crying out when poked
+keywords: visceral pleura of the lung -> the thin shiny skin wrapped round a sack of green dollar bills, Usopp poking it with a pin while the sack feels nothing, no wires running to it; parietal pleura -> the inner lining of the treasure chest around it, wired with red pain wires, crying out when poked; phrenic nerve to the parietal pleura -> the red pain wires of the lining running up into a telephone cable; lidocaine for the painful lining -> Chopper holding a dentist's numbing needle ready for the lining, not for the sack
 must: the sack's skin has NO wires and stays calm; the chest's lining has red wires and cries out
-scene: Inside a big open treasure chest whose inner lining is threaded with glowing red wires. A sack of green dollar bills wrapped in a thin shiny silver skin sits inside it. CENTRE, dominant and brightest: Usopp, the long-nosed sniper, pokes the sack's shiny skin with a long pin, and the sack stays calm and smiling, no wires running to it. RIGHT: Luffy pokes the chest's red-wired lining with a finger, and the lining jolts and cries out with a lightning-shaped flash.
+scene: Inside a big open treasure chest whose inner lining is threaded with glowing red wires. A sack of green dollar bills wrapped in a thin shiny silver skin sits inside it. CENTRE, dominant and brightest: Usopp, the long-nosed sniper, pokes the sack's shiny skin with a long pin, and the sack stays calm and smiling, no wires running to it. RIGHT: Luffy pokes the chest's red-wired lining with a finger, and the lining jolts and cries out with a lightning-shaped flash; its red wires run up into a telephone cable, and Tony Tony Chopper holds a dentist's numbing needle ready for the lining, not for the sack.
 story:
 في داخل صندوق كنز كبير مفتوح، كانت بطانته الداخليّة منسوجةً بأسلاك حمراء متوهّجة.
 وفي وسطه كيس من الدولارات، ملفوف بجلد فضّيّ رقيق لامع.
@@ -199,14 +204,15 @@ Venous blood from the visceral pleura drains into the pulmonary veins, and from 
 # two injured sailors brought in after a battle -> thoracic trauma
 # ANSWER: one of the two has an air balloon swelling inside his treasure chest and squashing his sack of dollar bills, under a sign painted 50 -> pneumothorax in up to half of chest trauma
 # a third sailor puffing a cigarette, his sack also deflating -> smoking IS a risk factor for primary pneumothorax (A is wrong)
+# a third sailor puffing a cigarette, his sack deflating -> smoking IS a strong risk factor for primary spontaneous pneumothorax (A is wrong; smoking, audited)
 title: Pneumothorax occurs in up to half of patients with chest trauma
 titleAr: يحدث استرواح الصدر في ما يصل إلى نصف مرضى رضوض الصدر
 tags: thoracic/pleura d:pathology q:numbers l:2
 palette: battle smoke grey, balloon white and dollar green
 words: 50
-keywords: thoracic trauma -> two injured sailors brought in on stretchers after a battle; pneumothorax -> an air balloon swelling inside one sailor's treasure chest, squashing his sack of green dollar bills; up to 50 percent -> a sign painted 50 above the two stretchers
+keywords: thoracic trauma -> two injured sailors brought in on stretchers after a battle; pneumothorax -> an air balloon swelling inside one sailor's treasure chest, squashing his sack of green dollar bills; up to 50 percent -> a sign painted 50 above the two stretchers; lung -> the sailor's sack of green dollar bills squashed flat; smoking -> a third sailor in the corner puffing a cigarette, his own sack slowly deflating
 must: only ONE of the two sailors has the air balloon in his chest; the sign reads 50
-scene: The infirmary of the Thousand Sunny after a battle. Two injured sailors lie side by side on stretchers under a wooden sign painted 50. CENTRE, dominant and brightest: in one sailor's open treasure chest, a big white air balloon swells and squashes his sack of green dollar bills flat against the side; the other sailor's chest holds a plump, normal sack. Tony Tony Chopper, the little reindeer doctor, kneels by the squashed one, holding a needle ready.
+scene: The infirmary of the Thousand Sunny after a battle. Two injured sailors lie side by side on stretchers under a wooden sign painted 50. CENTRE, dominant and brightest: in one sailor's open treasure chest, a big white air balloon swells and squashes his sack of green dollar bills flat against the side; the other sailor's chest holds a plump, normal sack. Tony Tony Chopper, the little reindeer doctor, kneels by the squashed one, holding a needle ready. In the corner a third sailor puffs a cigarette, his own sack slowly deflating.
 story:
 في مستوصف الثاوزند صني بعد المعركة، رقد بحّاران جريحان جنبًا إلى جنب.
 وفوقهما لافتة خشبيّة مكتوب عليها: خمسون.
@@ -301,9 +307,9 @@ titleAr: انصباب الكيلوس: الجراحة حين تتجاوز خسا�
 tags: thoracic/pleura d:indications q:numbers l:2 x:high-yield
 palette: milk white, bucket steel and cord red
 words: 1500
-keywords: chylothorax -> milk pouring into the chest cabin from a cracked milk pipe running up beside the ship's keel (chyle = milk, the pipe = the thoracic duct); over 1500 mL a day -> a bucket painted 1500 overflowing with milk; thoracic duct ligation -> Franky tying the milk pipe shut with a thick red cord low down, just above the deck; neonates -> a baby's small milk puddle left to settle beside a feeding bottle
+keywords: chylothorax -> milk pouring into the chest cabin from a cracked milk pipe running up beside the ship's keel (chyle = milk, the pipe = the thoracic duct); over 1500 mL a day -> a bucket painted 1500 overflowing with milk; ligation of the duct low, just above the diaphragm -> Franky tying the milk pipe shut with a thick red cord low down, just above the deck; neonatal chylous pleural effusion -> a baby's small milk puddle left to settle beside a feeding bottle
 must: the bucket painted 1500 is OVERFLOWING; Franky ties the pipe LOW, just above the deck
-scene: A ship's chest cabin cut open from the side. A milk pipe runs up beside the keel, cracked, and white milk pours from the crack into the cabin. CENTRE, dominant and brightest: a steel bucket painted 1500 overflows with milk, and Franky, the blue-haired cyborg shipwright, ties the milk pipe shut with a thick red cord low down, just above the deck, and the flow stops. In a corner, a baby's small milk puddle is left to settle beside a feeding bottle.
+scene: A ship's chest cabin cut open from the side. A milk pipe runs up beside the keel, cracked, and white milk pours from the crack into the cabin. CENTRE, dominant and brightest: a steel bucket painted 1500 overflows with milk, and Franky, the blue-haired cyborg shipwright, ties the milk pipe shut with a thick red cord low down, just above the deck floor that divides the chest cabin from the hold below, and the flow stops. In a corner, a baby's small milk puddle is left to settle beside a feeding bottle.
 story:
 كانت قمرة الصدر في السفينة مكشوفةً من جانبها، وأنبوب حليب يصعد إلى جانب العارضة.
 فانشقّ الأنبوب، وأخذ الحليب الأبيض ينصبّ في القمرة.
