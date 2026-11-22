@@ -161,9 +161,12 @@ Per question (format at the top of `batch.py`):
   (rule 2, five) and numbers (rule 6). `words` = at most three short labels painted in it, never numbers.
 - `story:` 8-11 short Arabic sentences, one per line. A real story in the manner of the book's
   author (people with names, an event, a turn), in eloquent, forceful classical Arabic. Every
-  object of the scene appears and *does* something; numbers painted in the picture are said.
+  object of the scene appears and *does* something; numbers are said by their symbols' names (rule 6).
   **No medicine, no English, no "this means…"**. The last sentence leads into the quotation and
-  ends with ":".
+  ends with ":". **Since 2026-11-22 (the owner) every story is written as a parable in the styles of the Quran,
+  with respect, never quoting a verse:** read `content/story-style.md` before writing and go through its checklist
+  (a composite simile at its heart; a device of المعاني; فاء and ثمّ chosen on purpose and one exact verb form; a
+  device of البديع). Take the devices, never the words: `batch.py` refuses a story or quotation with a verse phrase.
 - `quote` + `source`: a **real** quotation of the book's author, in Arabic, from a named work,
   strong and well known, fitting the point, not in the `quotes` list. Never invent or adapt one;
   if unsure it is genuine, choose another.

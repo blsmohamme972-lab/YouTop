@@ -297,6 +297,30 @@ def image_prompt(cfg, b):
             where)
 
 
+STYLE_FILE = ROOT / "content" / "story-style.md"
+_VERSES = []
+
+
+def arabic_plain(s):
+    """Arabic without diacritics or tatweel, with one form of alef, ya, ta marbuta and hamza seat, for matching."""
+    s = re.sub(r"[\u064B-\u0652\u0670\u0640]", "", s)
+    return s.translate(str.maketrans("أإآٱىةؤئ", "اااايهوي"))
+
+
+def verse_phrases():
+    """The phrases a story may never contain (the owner, 2026-11-22: the Quran's style, never its verses), from the
+    last list of content/story-style.md."""
+    if not _VERSES:
+        m = re.search(r"## Phrases a story may never contain.*?```\n(.*?)```", STYLE_FILE.read_text(encoding="utf-8"), re.S)
+        _VERSES.extend(arabic_plain(x.strip()) for x in (m.group(1).splitlines() if m else []) if x.strip())
+    return _VERSES
+
+
+def verse_in(text):
+    plain = arabic_plain(text)
+    return next((x for x in verse_phrases() if x in plain), None)
+
+
 def lint(cfg, b, q, used, problems, warnings):
     w = f"question {b['n']}"
     for key in ("title", "titleAr", "tags", "palette", "scene", "story", "quote", "source", "explanation"):
@@ -343,6 +367,13 @@ def lint(cfg, b, q, used, problems, warnings):
                 warnings.append(f"{w}: story sentence {i} has Latin letters; the story takes no English terms, only labels painted in the picture")
         if len(s) > 190:
             warnings.append(f"{w}: story sentence {i} is {len(s)} characters; it is also the caption, keep it short")
+        hit = verse_in(s)
+        if hit:
+            problems.append(f"{w}: story sentence {i} has the words of a Quranic verse («{hit}»); the owner: take the Quran's "
+                            f"style, never its verses (content/story-style.md)")
+    hit = verse_in(b.get("quote") or "")
+    if hit:
+        problems.append(f"{w}: the quotation has the words of a Quranic verse («{hit}»); never quote a verse (content/story-style.md)")
     for i, s in enumerate(expl, 1):
         if len(s) > 260:
             warnings.append(f"{w}: explanation sentence {i} is {len(s)} characters; split it")

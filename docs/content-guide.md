@@ -272,6 +272,11 @@ first monk sawed off the whole branch: this is a lobectomy"). What they asked fo
   adapted. `work/shahzad-2015/batch03/batch03.py` on `content` is the worked set in this style.
 - Write the story after you have **looked at the picture**, not only from its prompt: the story
   must match what the picture really shows.
+- **In the styles of the Quran's parables (the owner, 2026-11-22):** «القرآن أفضل كتاب لفهم اللغة وكتابة الأمثال.
+  استخدم أساليب القرآن الكريم باحترام لها، لا تذكر آيات قرآنية أبداً لكن استخدم الأسلوب اللغوي.» Each story is a
+  مَثَل built with the devices of البيان، المعاني، دقّة الصيغة والبديع, as set out, with our own examples and a
+  checklist, in `content/story-style.md`. Never a verse, part of one or a near-paraphrase, never a Quranic parable
+  retold with our objects, never ﴿ ﴾; `batch.py` refuses the verse phrases listed in that file.
 
 Worked sets are in "YouTop private/books/shahzad-2015/work/" in Drive (read `README-work.txt`
 there); work files of later batches are under `work/` on the `content` branch.
