@@ -1,0 +1,21 @@
+{
+ "file": "jh-q0211-explanation-en.m4a",
+ "sig": "2fedeaf014de2a80cf934768872cccc294dd0fc2d22ddf33080ee6b1602e532d",
+ "starts": [
+  0,
+  10894,
+  17075,
+  25000,
+  37482,
+  44700
+ ],
+ "seconds": 52.9,
+ "texts": [
+  "Disordered AV nodal tissue is not a component of atrial fibrillation; the AV node only passes the irregular atrial impulses on to the ventricles: B.",
+  "In the picture, the knot in the floor is tight and calm, and all the trembling is in the lobby above.",
+  "Atrial fibrillation needs a trigger, usually premature beats, the lit match, and a substrate that keeps it going.",
+  "That substrate is set by the effective refractory period (the sentries who doze only a second), the conduction velocity (the slow sparks) and the atrial anatomy (the wide, stretched lobby).",
+  "Short refractory periods, slow conduction and large atria let more reentrant wavelets fit in the atria.",
+  "Memory hook: a match, a wide lobby, slow sparks and sleepless sentries make Pinocchio tremble; the knot is innocent."
+ ]
+}
