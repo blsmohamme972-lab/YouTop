@@ -116,6 +116,9 @@ def from_extraction(record):
         q["answers"] = picks
     if record.get("note"):
         q["explanation"] = record["note"]
+    if record.get("images"):
+        # The stem shows a figure: build then wants media/figure-qNNNN.png (several images joined into one).
+        q["figure"] = ", ".join(record["images"])
     return q
 
 

@@ -1,10 +1,41 @@
 # Where the work stands
 
-Updated 2026-11-24 (cardiac extraction; 177 Johns Hopkins pictures). Whoever works on YouTop next: read `CLAUDE.md`, then this, then
+Updated 2026-11-24 (SESAT 13: 100 new cardiac lessons written; cardiac extraction; 177 Johns Hopkins pictures). Whoever works on YouTop next: read `CLAUDE.md`, then this, then
 `docs/content-guide.md` and the `youtop-lessons` skill. Rewrite this file whenever the state changes (it replaces the
 `status-<n>.txt` files in the Drive folder "YouTop private", which stop at 7).
 
-## CARDIAC QUESTIONS EXTRACTED FROM THE BOOKS FOLDER (2026-11-24); start here
+## SESAT 13: 100 NEW HEART-SURGERY LESSONS WRITTEN, WAITING FOR PICTURES (2026-11-24); start here
+
+The owner (2026-11-24): «من الان فصاعدا نكتب فقط جراحة القلب / حسب القواعد / اكتب صور و قصص ١٠٠ سوال جديد» — from
+now on only cardiac surgery; by the rules, write the pictures and stories of 100 new questions. Chosen: **SESAT 13
+(2020), adult cardiac questions 1-100** (recent, keyed, few figures). New book `sesat-13` (`content/books/sesat-13.json`:
+master `sesat-13-2020-325-q.jsonl` in Drive, pictures folder "18 SESAT 13 (2020) 325 Q" = `imagesFolder`). Lessons keep
+the book's numbers (`sesat-q0001`...); still to do in this book: adult cardiac 101-125 and congenital 251-328
+(thoracic 126-250 left out). The theme is One Piece, like Johns Hopkins.
+
+- **Picture prompts: all 100 sent to the owner** (ten text files `drafts/sesat-13/prompts-sesat-<a>-<b>.txt`, the json
+  beside them), every one passing rules 1-7 (`symbols.py check`: anchor, 4+ recurring, 5 one-off, numbers as digit
+  symbols). The owner saves each picture in the Drive folder as `<n>.png`.
+- **Stories, quotations, explanations, titles and tags: all 100 written and built** in `.content-work`, and the voice
+  recorded (`voice.py make`; recordings kept in `work/sesat-13/recorded/`, on `content` too). Sources:
+  `drafts/sesat-13/batch-*/batch.txt`, `voice.txt` (the vowelled story) and `texts.txt` (explanations). Quotations: One
+  Piece lines and classical Arabic lines, each at most 3 times, 20 lessons apart.
+- **Not published yet**: by the owner's rule only lessons with a picture go out, so the book appears on the phone with the
+  first pictures. When they arrive: `batch.py pictures sesat-13 <folder>`, spots, marks, then `publish.py F --complete-only`
+  from a folder holding only `books/sesat-13` and `work/`. If `.content-work` is gone: rebuild each batch with
+  `batch.py build` (master from Drive), put back the figures, then `voice.py make` (it reuses the saved recordings).
+- **Figures**: questions 27, 28, 35, 70 and 78 show the book's figure above the options (`media/figure-qNNNN.png`; 27 and
+  78 are two images stacked), made from `images-1.zip`/`images-2.zip` in the book's Drive folder; copies in
+  `work/sesat-13/figures/`. `batch.py` now takes a figure from the extraction's `images` field.
+- Key notes: Q3 option C was misprinted ("inTA to LAD"), shown corrected (x:key-corrected); notes added to Q20 (CT vs
+  TEE in an unstable patient), Q39 (CTSN results) and Q100 (lysis or surgery); every key kept.
+- Lesson recordings of 1-10 were once lost when a recording run rewrote the chapter file it had loaded before other
+  batches were built: **never run `batch.py build` while `voice.py make` works on the same folder**. Recording now runs in
+  private copies (`--folder`, shared `--store`), then one `voice.py make` in `.content-work` reuses everything.
+- Still open: Redo issues #135-#154 from the app; the 13 redo lessons of 2026-11-22 wait for pictures; Johns Hopkins 344
+  (duplicate picture).
+
+## CARDIAC QUESTIONS EXTRACTED FROM THE BOOKS FOLDER (2026-11-24)
 
 The owner (2026-11-24): «من هذا الملف ناخذ فقط اسئلة جراحة القلب ... الان فقط استخرج» — from the books folder
 `1ZgnGkm9Q2sEIwLsJjXpJry6TOf0hqRnc` take only the heart-surgery questions; for now only extract them (no lessons yet).
