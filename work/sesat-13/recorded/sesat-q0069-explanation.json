@@ -1,0 +1,21 @@
+{
+ "file": "sesat-q0069-explanation-en.m4a",
+ "sig": "aba53e1df159cb13cc9da960815feb53809a0e3b39f6e54d924c4fd3c7c8b471",
+ "starts": [
+  0,
+  8256,
+  16138,
+  27671,
+  37493,
+  46224
+ ],
+ "seconds": 51.1,
+ "texts": [
+  "In a patient with cold agglutinin disease, the safest plan for heart surgery is warm cardioplegia with systemic normothermia.",
+  "Cold agglutinins are antibodies that clump red cells, and can destroy them, when the blood is cooled below their thermal range.",
+  "Cold cardioplegia or systemic cooling can therefore cause agglutination in the coronary vessels, haemolysis and thrombosis; keeping the blood and the heart warm avoids triggering them.",
+  "If cooling cannot be avoided, the antibody's thermal range is measured first, and plasmapheresis or a crystalloid flush of the coronaries may be used.",
+  "In the picture, Chopper pours warm banana water from a steaming kettle under the sun, and the red doughnuts float apart instead of clumping.",
+  "Memory hook: sticky doughnuts in the cold: keep everything warm."
+ ]
+}

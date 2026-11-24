@@ -1,0 +1,21 @@
+{
+ "file": "sesat-q0071-explanation-en.m4a",
+ "sig": "7d8e6b95ded187a0ce2ef6adbce15713de17fdf9e41178f7b615c4a0ad4ae260",
+ "starts": [
+  0,
+  9317,
+  19198,
+  28425,
+  35615,
+  44744
+ ],
+ "seconds": 48.7,
+ "texts": [
+  "After a Cox-Maze IV, what most affects the need for a permanent pacemaker is doing the biatrial lesion set rather than a left-atrial-only set.",
+  "The right atrial lesions run close to the sinus node and its artery, so they cause more sinus node dysfunction, the usual reason for a pacemaker after a Maze.",
+  "Left atrial size, the duration of atrial fibrillation and adding CABG affect whether sinus rhythm returns more than whether a pacemaker is needed.",
+  "A biatrial Maze restores sinus rhythm somewhat more often, so the choice weighs rhythm control against pacing.",
+  "In the picture, the maze over both lobbies brushes the conductor's baton and the drummer marches in, while the left-only maze needs no drummer.",
+  "Memory hook: hedges in both lobbies bring the drummer."
+ ]
+}

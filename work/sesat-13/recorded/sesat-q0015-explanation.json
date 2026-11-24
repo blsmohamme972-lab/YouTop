@@ -1,0 +1,21 @@
+{
+ "file": "sesat-q0015-explanation-en.m4a",
+ "sig": "0a4860000dfa84e940ef0d92fad783cef0dea11f9b0ef874bd52808d1458cac6",
+ "starts": [
+  0,
+  8210,
+  15669,
+  24245,
+  34154,
+  41257
+ ],
+ "seconds": 45.5,
+ "texts": [
+  "For dental extractions in a patient with a mechanical valve, warfarin is continued with the INR in the therapeutic range.",
+  "Bleeding after an extraction is controlled locally with pressure, gauze, sutures and tranexamic acid mouthwash.",
+  "Stopping warfarin, even briefly, exposes a mechanical valve to thrombosis and stroke, a far worse outcome than minor oozing.",
+  "Bridging with low-molecular-weight heparin is not needed for such a minor procedure, and novel oral anticoagulants are contraindicated with mechanical valves.",
+  "In the picture, the rat stays chained to the robot while the sailor bites on the gauze, and the hare stays in its hutch.",
+  "Memory hook: a tooth comes out, the rat stays in."
+ ]
+}

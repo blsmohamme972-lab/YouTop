@@ -1,0 +1,23 @@
+{
+ "file": "sesat-q0014-explanation-en.m4a",
+ "sig": "25d000579311af2d73211d5d22cca659a1a888d6733c831ec21aef4ec7f25109",
+ "starts": [
+  0,
+  12076,
+  19604,
+  28287,
+  36423,
+  43143,
+  52623
+ ],
+ "seconds": 56.2,
+ "texts": [
+  "A post-infarction ventricular septal defect with cardiogenic shock, two vasopressors, intubation and rising creatinine is best managed first with veno-arterial ECMO.",
+  "VA-ECMO restores flow to the organs at once and lets the infarcted septum firm up before the defect is repaired.",
+  "Repair in the first days of shock, through friable necrotic muscle, carries a very high mortality and a high rate of residual defects.",
+  "A left ventricular assist device alone does not support the failing right side and can draw blood across the defect from right to left.",
+  "Catheter closure of a 2.5 cm defect in fresh necrotic muscle often fails.",
+  "In the picture, Chopper's trolley of gills brings the lights back on, and a rope bridge leads to the hole, while the surgeon's toolbox stays locked.",
+  "Memory hook: gills first, the needle later."
+ ]
+}

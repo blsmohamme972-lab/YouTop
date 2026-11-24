@@ -1,0 +1,21 @@
+{
+ "file": "sesat-q0043-explanation-en.m4a",
+ "sig": "8146053ae25df9aa80e00d5314b383fb781220db4493a16843007cf931d2ea89",
+ "starts": [
+  0,
+  12066,
+  23251,
+  28871,
+  38528,
+  45506
+ ],
+ "seconds": 50.1,
+ "texts": [
+  "When an LAD lesion is hard to judge on angiography, especially with a short left main where the catheter slips into the LAD and damps the pressure, the next step is fractional flow reserve.",
+  "FFR compares the pressure beyond the narrowing with the pressure before it during maximal flow; a ratio of 0.80 or less means the lesion is significant.",
+  "It turns an uncertain picture into a number that decides whether the LAD needs a graft.",
+  "With a 90% right coronary lesion and a 70% circumflex already, knowing whether the LAD is significant shapes the whole plan.",
+  "In the picture, Chopper carries a small dial across the foggy narrowing and reads it against the dial before it.",
+  "Memory hook: when fog hides the slide, read two dials."
+ ]
+}

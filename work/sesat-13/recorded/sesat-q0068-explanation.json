@@ -1,0 +1,23 @@
+{
+ "file": "sesat-q0068-explanation-en.m4a",
+ "sig": "69873f7245db7409b418be0eab58330d17504243c161e965d5fab325d8be4f26",
+ "starts": [
+  0,
+  12492,
+  17983,
+  26859,
+  35790,
+  47804,
+  54839
+ ],
+ "seconds": 60.7,
+ "texts": [
+  "A dissection of the descending aorta seen on TEE soon after a Seldinger aortic cannulation, with a normal-looking insertion site and an intact arch, is best explained by the cannula's jet.",
+  "The book's answer is to change to a short dispersion-type cannula at the same site.",
+  "An end-hole cannula aimed down the aorta sends a high-velocity jet against the wall, which can raise an intimal flap downstream.",
+  "A short dispersion cannula spreads the flow sideways at low velocity, removing the jet while keeping antegrade flow into the true lumen.",
+  "Switching to femoral cannulation would perfuse a dissected descending aorta retrogradely and could extend the false lumen, and an arch replacement is not needed when the arch is intact.",
+  "In the picture, Franky swaps the long jetting cannon for a short one with a shower-head nozzle in the same hole.",
+  "Memory hook: blame the jet, not the hole: put a shower head on the cannon."
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "file": "sesat-q0033-explanation-en.m4a",
+ "sig": "607f020d86de4dc44acee9eeebd6924277f0e4b84b37dc1ad45e2b23634d00eb",
+ "starts": [
+  0,
+  9425,
+  18811,
+  28032,
+  34446,
+  41604
+ ],
+ "seconds": 45.9,
+ "texts": [
+  "During cold aerobic arrest with blood cardioplegia, the oxygen that reaches the myocardium depends mostly on the oxygen dissolved in the cardioplegia.",
+  "Hypothermia shifts the oxygen dissociation curve to the left, so haemoglobin holds its oxygen tightly and releases little to the cold heart.",
+  "Dissolved oxygen, which rises with a high oxygen tension and is more soluble in cold fluid, is free to diffuse into the arrested muscle.",
+  "A rightward shift, the haematocrit and the delivery pressure matter less than this dissolved fraction.",
+  "In the picture, the red doughnuts clutch their bubbles in the cold while the free silver bubbles drift onto the stopped fans.",
+  "Memory hook: in the cold, the free bubbles feed the fans."
+ ]
+}

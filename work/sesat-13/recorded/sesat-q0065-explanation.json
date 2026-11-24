@@ -1,0 +1,21 @@
+{
+ "file": "sesat-q0065-explanation-en.m4a",
+ "sig": "3d7fe6adc3ac1d59ea8def81bc24f17c8800423be4461c315b0d057dfa23c64a",
+ "starts": [
+  0,
+  11803,
+  23723,
+  29450,
+  43339,
+  52793
+ ],
+ "seconds": 58.5,
+ "texts": [
+  "In a patient with chronic kidney disease and a potassium of 5.6 having on-pump CABG, the best way to manage the electrolytes during the operation is zero-balanced ultrafiltration.",
+  "The ultrafilter on the bypass circuit removes plasma water with its potassium, and an equal volume of potassium-free balanced solution is given back, so the fluid balance stays at zero.",
+  "This lowers the potassium and clears other small molecules without drying the patient out.",
+  "Continuous haemofiltration is an ICU therapy, HTK cardioplegia adds a large volume without removing the potassium already in the blood, and glucose with insulin shifts potassium only for a short time.",
+  "In the picture, Franky's filter bag squeezes out water full of tiny bananas while Usopp pours back as much clean water, and the scale stays level.",
+  "Memory hook: squeeze the bananas out, pour clean water in, keep the scale level."
+ ]
+}

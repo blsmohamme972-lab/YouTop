@@ -1,0 +1,23 @@
+{
+ "file": "sesat-q0062-explanation-en.m4a",
+ "sig": "0f8159f0cf434d84bd75417f351ab278e64a4b309b762607a45ca5786077016c",
+ "starts": [
+  0,
+  12157,
+  24218,
+  32721,
+  42609,
+  48200,
+  57852
+ ],
+ "seconds": 63.0,
+ "texts": [
+  "When a patient has a thoracic aortic aneurysm with a trileaflet valve and no known syndrome, her first-degree relatives should be screened, and the book's answer is an echocardiogram for each of them.",
+  "About one in five patients with a thoracic aortic aneurysm has a first-degree relative with one, even without a recognisable syndrome: familial thoracic aortic aneurysm disease.",
+  "Echocardiography images the aortic root and ascending aorta, where these aneurysms usually lie, without radiation.",
+  "A CT of the chest and abdomen for every relative adds radiation and cost, and an aneurysm cannot be called sporadic before the family is checked.",
+  "A genetic test for Marfan syndrome alone would miss most familial aneurysm genes.",
+  "In the picture, the bat flies along the row of her children, brothers and sisters, under the swollen bubble on the orca's rising neck.",
+  "Memory hook: one bubble in the family: the bat checks every chest."
+ ]
+}

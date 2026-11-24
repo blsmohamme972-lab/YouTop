@@ -1,0 +1,21 @@
+{
+ "file": "sesat-q0079-explanation-en.m4a",
+ "sig": "9e936f641ae1f3eb3bb279898725e77f637c2f25fd28e5b4bff6b8f5473168bf",
+ "starts": [
+  0,
+  10980,
+  22151,
+  32265,
+  40079,
+  46877
+ ],
+ "seconds": 52.9,
+ "texts": [
+  "When a patient paced in DOO mode after valve surgery has pacer spikes on the monitor but no pressure, start chest compressions and turn the pacemaker off to see the underlying rhythm.",
+  "Asynchronous pacing fires whatever the heart is doing, so the spikes can hide ventricular fibrillation, which needs defibrillation, or show that the pacing is not capturing.",
+  "Pulseless electrical activity after cardiac surgery also calls for a search for tamponade, bleeding and hypovolaemia, and resternotomy may follow.",
+  "Amiodarone and a change of pacing mode do not answer the first question, and opening the chest is not the very first step.",
+  "In the picture, the police officer compresses while Chopper silences the drum and listens beneath it.",
+  "Memory hook: a drum beating over a still hotel: silence it and listen."
+ ]
+}

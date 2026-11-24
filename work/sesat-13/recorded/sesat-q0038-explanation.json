@@ -1,0 +1,23 @@
+{
+ "file": "sesat-q0038-explanation-en.m4a",
+ "sig": "34ceb1e9b5ca9860cec12d3ccfd25da031ae6482f44479900cbaf922f002c24b",
+ "starts": [
+  0,
+  17662,
+  29231,
+  41168,
+  47760,
+  53624,
+  62236
+ ],
+ "seconds": 67.5,
+ "texts": [
+  "A calcified aortic valve with a mean gradient of 24 mmHg, a velocity of 2.6 m/s and an ejection fraction of 25% is low-flow, low-gradient aortic stenosis, and the next test is a dobutamine stress echo.",
+  "A weak ventricle may fail to open a moderately diseased valve, so it looks severe (pseudo-severe stenosis), or it may be too weak to push a high gradient through a truly severe valve.",
+  "Low-dose dobutamine raises the flow: if the gradient rises and the valve area stays small, the stenosis is truly severe; if the area opens up, it is pseudo-severe.",
+  "It also shows whether the ventricle has contractile reserve, which predicts the result of valve replacement.",
+  "Thallium imaging, an exercise ECG and TEE do not answer this question.",
+  "In the picture, the Doberman drives the weak fan while the bat watches whether the stone mouth opens, and the two stones show the two answers.",
+  "Memory hook: a weak fan and a stone mouth: let the Doberman pull."
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "file": "sesat-q0078-explanation-en.m4a",
+ "sig": "db4af5733fe8b944ba24119d7bdb540d5334c01ced8f81aa311e1d2d5faa0cb8",
+ "starts": [
+  0,
+  12779,
+  21648,
+  35243,
+  44209,
+  49491,
+  57566
+ ],
+ "seconds": 62.4,
+ "texts": [
+  "When resynchronisation fails because the left ventricular epicardial lead sits too far forward, the best next step is another epicardial lead placed more laterally, over the latest-activated wall.",
+  "In left bundle branch block the lateral and posterolateral wall contracts last, and a lead on the anterior wall cannot correct the dyssynchrony.",
+  "She meets the criteria for CRT, an ejection fraction of 25% and left bundle branch block with a QRS of 165 ms, so a correctly placed lead is likely to help.",
+  "Raising the output of a badly placed lead does not move the point of stimulation, and switching to the other existing lead does not reach the lateral wall either.",
+  "Referral for transplant comes only after CRT and medical therapy have failed.",
+  "In the picture, Franky nails a new drumstick on the far side wall of the red room, and the two drummers finally beat together.",
+  "Memory hook: the drummers agree only when the stick is on the far wall."
+ ]
+}

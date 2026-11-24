@@ -1,0 +1,23 @@
+{
+ "file": "sesat-q0022-explanation-en.m4a",
+ "sig": "97a16f0434b7f17a30b22fc2cbd538bfb573002e1a0ae561cbc699d43f1d2562",
+ "starts": [
+  0,
+  16670,
+  23608,
+  28331,
+  36014,
+  39954,
+  48773
+ ],
+ "seconds": 53.5,
+ "texts": [
+  "In Marfan syndrome, a ratio of maximal aortic root cross-sectional area (cm²) to height (m) above 10 is an indication for prophylactic root replacement; a ratio of 12 means operate.",
+  "The ratio corrects for body size and predicts dissection better than the diameter alone in tall Marfan patients.",
+  "A root that grows from one yearly scan to the next adds to the case.",
+  "Beta-blockers and angiotensin receptor blockers slow growth but do not replace surgery once the threshold is passed.",
+  "Waiting six months for another CT risks a dissection.",
+  "In the picture, the cat's slice outweighs the height chart on the scale, and Franky replaces the swollen salsa bowls with a white root.",
+  "Memory hook: when the slice outweighs the height, change the root."
+ ]
+}
