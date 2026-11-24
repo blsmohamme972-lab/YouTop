@@ -1,0 +1,1504 @@
+book: johns-hopkins-2016
+== 123
+1: 22 20 14 | Sanji with building blocks | Amino acid substrates (glutamate, aspartate)
+2: 15 40 10 | Blocks dropped into the bucket | Added to hasten metabolic recovery (C)
+3: 8 68 13 | Marks 4 and 1 on the bucket | Blood 4 parts to crystalloid 1 part
+4: 20 62 13 | Red doughnuts filling the bucket | The blood part of blood cardioplegia
+5: 43 57 9 | Small fan waiting in the hotel | The arrested heart, restarting sooner
+6: 30 19 6 | Stopwatch in Sanji's hand | Recovery is faster
+question: 3 4
+answer: 1 2
+== 125
+1: 30 38 11 | Gauge needle past 50 into the red | Retrograde pressure above about 50 mmHg
+2: 72 62 15 | Franky pulling the hose back | Reposition the retrograde catheter (C)
+3: 13 55 10 | Steel basin in the wall, swelling | Coronary sinus, where the catheter sits
+4: 40 57 8 | Yellow hose pushed into the basin | Retrograde cardioplegia catheter
+5: 22 15 9 | Stag's head over the wall | The heart (HART Hotel)
+question: 4 3
+answer: 1 2
+== 126
+1: 68 47 11 | Ammo boxes at the upper window | Amiodarone given after surgery (B)
+2: 75 35 10 | Usopp firing the pellets | Prophylaxis cuts postoperative AF
+3: 15 50 14 | Pinocchio climbing at the window | Atrial fibrillation after CABG
+4: 50 9 14 | Cabbage leaves over the green crown | Uneventful triple-vessel CABG
+5: 78 85 11 | Old sailor in a rocking chair | Elderly patient (87 years)
+question: 3 4 5
+answer: 1 2
+== 127
+1: 55 65 16 | Sanji pouring bucket after bucket | Volume resuscitation (the answer)
+2: 8 33 10 | Water tank reading 3, nearly empty | Low CVP: the heart is underfilled
+3: 23 23 8 | Pressure needle swinging wildly | Labile blood pressure after myectomy
+4: 42 28 12 | Party wall bulging like a flexed arm | Thick septum (HOCM) after myectomy
+5: 85 40 11 | Uncle Sam pulling the mitre leaf | SAM: outflow obstruction when underfilled
+question: 2 3 4
+answer: 1
+== 128
+1: 50 33 11 | Very old bearded sailor | Age 80: prolonged ventilation risk
+2: 50 15 18 | Mountain of 100-cigarette boxes | 100 pack-years of smoking
+3: 50 45 10 | Ship's stern opened again on his chest | Redo sternotomy
+4: 20 63 11 | Roller-pump truck, dial 270 | Long bypass (270 minutes)
+5: 50 51 8 | Sausage balloon in the orca | Intraoperative balloon pump
+6: 75 55 12 | Ribbed hose from the front of his neck | Tracheostomy: likeliest in him
+7: 85 45 13 | Other beds, crew who got up | Each other patient has one risk only
+question: 7
+answer: 1 6
+== 129
+1: 60 50 15 | Franky pushing the sausage into the orca | Place an IABP at once (the answer)
+2: 88 15 9 | Right spike black with tar, no bridge | Ungrafted right coronary: RV ischaemia
+3: 60 85 15 | Blue engine room swelling, fan weak | Failing right ventricle, low output
+4: 50 42 7 | Elevator rising in the lower floor | Rising central venous pressure
+5: 15 22 11 | Lima bean vine down to a spike | LIMA to LAD graft
+6: 35 12 10 | Sapphire bridge to another spike | Vein graft to the obtuse marginal
+question: 2 3 4 5 6
+answer: 1
+== 130
+1: 75 58 12 | Chopper pulling the yellow hose away | Remove the urinary catheter early (the answer)
+2: 50 58 11 | Green germs falling off the hose | Fewer catheter infections
+3: 22 50 16 | Patient walking on his own | Extubated, stable and mobile
+4: 88 38 8 | Switched-off bellows pushed aside | Off the ventilator
+5: 50 15 7 | Drip bag on its stand | Central lines are not changed routinely
+question: 3 4
+answer: 1 2
+== 131
+1: 75 75 13 | Orca calf with a narrow pursed mouth | Congenital aortic stenosis
+2: 38 33 8 | Long spike down the LEFT side | Left coronary dominance (E)
+3: 90 35 10 | Other hotels: spike from the right | Most people are right dominant
+4: 30 12 9 | Robin pointing at the crown | The dominant artery gives the PDA
+5: 60 8 12 | Green crown on the roof | The coronary arteries
+question: 1 5
+answer: 2
+== 132
+1: 50 40 13 | Front spike buried in black tar | The LAD is often diseased
+2: 88 35 10 | Right spike dripping tar | The RCA is often diseased
+3: 12 40 10 | Back-left spike clean and silver | The circumflex is involved less often
+4: 15 8 7 | Nami's white flag on the clean spike | LAD and RCA more than circumflex (C)
+5: 50 20 10 | Luffy with his broom on the front spike | The lad: left anterior descending
+question: 5
+answer: 1 2 3
+== 133
+1: 70 10 14 | Three of four lanterns lit | About 75% alive (the answer)
+2: 60 25 11 | Milestone marked 10 | Ten years after CABG
+3: 80 33 6 | Small coffin under the dark lantern | About one in four has died
+4: 55 55 14 | Sailors with cabbage leaves on their jackets | Coronary bypass grafts
+5: 70 55 10 | Bean vines in the leaves | Mammary grafts lower late deaths
+6: 22 30 10 | Sanji resting on the bench | The one who stopped before ten years
+question: 2 4
+answer: 1
+== 134
+1: 50 22 22 | Cabbage leaves on both tarred spikes | Coronary bypass (the answer)
+2: 22 24 10 | One tarred spike of the crown | Two-vessel disease
+3: 78 24 10 | The second tarred spike | Two-vessel disease
+4: 55 78 13 | Giant fan turning weakly | Depressed LV function
+5: 40 90 9 | Bouncer slumped at the door | Low ejection fraction
+6: 60 10 11 | Sanji laying the cabbage | Bypass improves survival here
+question: 2 3 4 5
+answer: 1 6
+== 135
+1: 60 15 13 | Banner reading 75 | Up to 75% have subtle deficits (the answer)
+2: 35 46 16 | Faint lilac mist round three heads | Subtle neurobehavioural deficits
+3: 25 38 12 | Pump truck giving off the mist | Cardiopulmonary bypass as a cause
+4: 40 62 14 | Forgotten key, lost word, letter | Memory and attention slips
+5: 90 38 4 | One small far lightning bolt | Gross stroke is far rarer
+6: 85 55 9 | The fourth sailor, clear-headed | One in four unaffected
+question: 3 4
+answer: 1 2
+== 136
+1: 75 70 14 | Coffin maker yawning, no work | Lower mortality: the goal (D)
+2: 95 60 6 | Empty rack for crutches | Lower morbidity
+3: 88 60 6 | One small coffin left | Fewer deaths
+4: 15 65 12 | Pump truck parked, engine off | No cardiopulmonary bypass
+5: 30 38 12 | Hotel fans still turning | Beating-heart surgery
+6: 40 15 13 | Sanji laying cabbage on the crown | Off-pump coronary bypass
+question: 4 5 6
+answer: 1 2 3
+== 137
+1: 96 52 5 | Red circle on the calendar | Elective: a planned day (the answer)
+2: 22 60 18 | Calm sailor with a small bag | Stable patient, booked ahead
+3: 50 44 17 | Calm hotel, fans still turning | Beating-heart (off-pump) surgery
+4: 72 64 13 | Pump truck parked, engine off | No cardiopulmonary bypass
+5: 24 11 11 | Hotel shaking in the storm | Unstable patient (shock, oedema)
+6: 50 18 7 | Far truck with its pump running | Unstable cases go on bypass
+question: 3 4
+answer: 1 2
+== 138
+1: 37 37 14 | Full-size hare holding up 300 | Full-dose heparin, 300 U/kg (A)
+2: 62 62 9 | Nami's hourglass marked 20 | ACT checked every 20 minutes (C)
+3: 84 34 7 | Tally marks on the wall | ACT checked again and again
+4: 82 81 11 | Pump truck parked, engine off | Off-pump, yet full heparin
+5: 22 67 16 | Small hotel, fans spinning | Beating heart; blood stagnates near the stabilizer
+question: 4 5
+answer: 1 2 3
+== 139
+1: 69 9 9 | Practice hotel covered in stitches | Thorough simulator training (the answer)
+2: 40 48 9 | Clear tube inside the open spike | Intracoronary shunt
+3: 73 50 13 | A tube waiting in every spike | Used routinely, every time
+4: 41 32 9 | Coal still flowing through the tube | Blood keeps reaching the muscle
+5: 90 12 8 | Pile of used practice tubes | Many hours of practice
+6: 72 91 11 | Fan slowing in the engine room | Ischaemia if flow stops
+question: 2 4 6
+answer: 1 3 5
+== 140
+1: 55 72 16 | Red velvet rope round the orca | No-touch aorta (the answer)
+2: 50 52 22 | Arched orca leaving the hotel | The aorta
+3: 13 70 15 | Zoro, swords sheathed | No clamp on the aorta
+4: 62 22 13 | Lima vine grown from the wall | Grafts with no aortic anastomosis
+5: 92 50 6 | Lightning far out at sea | Stroke kept away
+6: 26 12 9 | Glowing head-shaped lantern | The brain
+question: 2 6
+answer: 1 3 4 5
+== 141
+1: 76 80 15 | Sugar-cube man the angel ignores | Diabetes: not a risk factor (the answer)
+2: 10 50 8 | Stag-antler scar on the chest | Previous myocardial infarction
+3: 26 38 6 | Crown with only sapphire bridges | Vein grafts only, no mammary
+4: 43 37 6 | Tarred spike left in the crown | Incomplete revascularisation
+5: 62 46 8 | Woman sailor on the bench | Female sex
+6: 46 18 18 | Angel coming back | Recurrent angina
+question: 6
+answer: 1
+== 142
+1: 52 40 9 | Big moustache, back on the table | Male gender (the answer)
+2: 30 22 16 | Queue of strong moustached men | Men, mostly young, come back for redo
+3: 49 68 16 | Old scar on the ship's stern | Previous sternotomy, opened again
+4: 28 75 9 | Saw over the scar | Redo sternotomy
+5: 84 28 7 | Lima vine on the leaver's back | Mammary graft protects
+6: 13 53 9 | Fresh cabbage on Sanji's tray | New bypass grafts
+question: 3 4
+answer: 1 2
+== 143
+1: 44 40 13 | Stag with an arrow in its chest | Myocardial infarction (the answer)
+2: 49 66 16 | Biggest coffin in the row | Commonest cause of operative death
+3: 7 68 7 | Small coffin with a pirate hat | Arrhythmia: fewer deaths
+4: 24 68 7 | Small coffin with a blood puddle | Bleeding: fewer deaths
+5: 72 68 7 | Small coffin with a split stern | Sternal dehiscence: fewer deaths
+6: 89 68 7 | Small coffin with a lightning bolt | Stroke: fewer deaths
+question: 2
+answer: 1
+== 144
+1: 82 24 12 | Old sapphire bridge left alone | Old vein graft left in place (the answer)
+2: 79 31 6 | Yellow flakes falling off | Crumbly atheroma, emboli if handled
+3: 62 36 10 | New lima vine on the same spike | New arterial graft beside it
+4: 52 17 7 | Sanji's elbows held high | No handling of the old graft
+5: 12 50 11 | Robin, finger to her lips | Do not touch it
+6: 60 12 8 | Top of the green spike | Vessel bypassed before
+question: 3 6
+answer: 1 4 5
+== 145
+1: 35 12 14 | Photographer pouring dark dye | Coronary angiography (the answer)
+2: 90 13 9 | Close-up of the pipes only | Shows arteries, not living muscle
+3: 53 66 13 | Sleeping brown bear | Hibernating, viable myocardium
+4: 22 51 6 | Glowing green lamp | Nuclear stress imaging
+5: 45 50 8 | Giant horseshoe magnet | Magnetic resonance imaging
+6: 10 65 9 | Doberman barking at the bear | Dobutamine echocardiography
+7: 80 56 8 | Bat listening to its breathing | Echo: listening with ultrasound
+8: 84 70 8 | Glowing puppy sniffing the paw | Cardiac PET scanning
+question: 3 4 5 6 7 8
+answer: 1 2
+== 146
+1: 33 37 8 | Tar running from carrot to orca | Carotid disease marks arch atheroma (the answer)
+2: 38 25 18 | Tarred orange carrot | Carotid artery disease
+3: 50 37 12 | Tar on the orca's arching back | Atherosclerosis of the aortic arch
+4: 73 26 4 | Small black bowling ball | Embolus from the aorta
+5: 79 21 5 | Small lightning at the lantern | Perioperative stroke
+6: 82 12 12 | Glowing head-shaped lantern | The brain
+7: 50 91 8 | Jar of scraped tar | Arch disease found with carotid disease
+question: 4 5 6
+answer: 1 2 3
+== 147
+1: 46 93 6 | Step 1, under Zoro and the carrot | Endarterectomy first (the answer)
+2: 50 51 6 | Step 2, under the cabbage hotel | Then coronary bypass
+3: 82 72 16 | Zoro scraping tar from the carrot | Carotid endarterectomy (CEA)
+4: 72 35 16 | Sanji's cabbage on the hotel crown | Coronary bypass (CABG)
+5: 47 9 7 | Calm glowing head lantern | Lowest stroke rate
+question: 5
+answer: 1 2 3 4
+== 148
+1: 48 64 6 | Step 1, under the cabbage hotel | Coronary bypass first (the answer)
+2: 49 29 6 | Step 2, under Zoro and the carrot | Then carotid endarterectomy
+3: 64 42 16 | Sanji's cabbage on the hotel crown | Coronary bypass (CABG)
+4: 72 14 15 | Zoro scraping tar from the carrot | Carotid endarterectomy (CEA)
+5: 80 79 16 | Stag grazing safely | Lowest myocardial infarction rate
+question: 5
+answer: 1 2 3 4
+== 149
+1: 62 5 6 | Sign reading 15 in the nest | 15% absolute stroke reduction (the answer)
+2: 45 12 11 | Bird's nest on the carrot | NASCET
+3: 70 70 18 | Zoro wiping his sword | Carotid endarterectomy
+4: 46 65 15 | Tall carrot, scraped clean | Severe symptomatic carotid stenosis
+5: 18 25 14 | Bolts striking the head lantern | Stroke
+question: 4 5
+answer: 1 2 3
+== 150
+1: 66 50 15 | Yellow strings left untouched | Fewer cranial nerve injuries (the answer)
+2: 45 45 10 | Slinky sliding up inside the carrot | Carotid stenting
+3: 46 82 6 | Long thin tube from below | Catheter from the groin
+4: 24 51 5 | Yellow string snapping | Cranial nerve injury
+5: 18 62 10 | Zoro's blade opening the cabinet | Carotid endarterectomy (open)
+6: 16 45 8 | Carrot in the open cabinet | Carotid artery
+question: 4 5 6
+answer: 1 2 3
+== 152
+1: 43 48 10 | Thick red pillar snapped in two | Papillary muscle rupture (the answer)
+2: 15 77 6 | Calendar torn to page 7 | About 7 days after the infarct
+3: 22 88 11 | Stag with an arrow at the door | Myocardial infarction
+4: 40 17 9 | Bishop's mitre flapping loose | Flail mitral valve leaflet
+5: 39 27 11 | Water gurgling up through it | Severe mitral regurgitation
+6: 85 15 11 | Soggy green bills dripping | Pulmonary oedema
+7: 88 28 8 | Sailor upstairs gasping | Sudden severe breathlessness
+8: 85 55 11 | Brook's quiet violin | Soft or absent murmur
+9: 46 65 10 | Lower party wall, intact | Not a ventricular septal rupture
+question: 2 3 6 7 8
+answer: 1 4 5
+== 153
+1: 43 63 9 | Burst hole in the lower party wall | Ventricular septal rupture
+2: 31 32 6 | Old hotel marked 85 | 85-year-old (the answer)
+3: 32 20 7 | First arrow in the stag | First myocardial infarction
+4: 40 8 8 | One tarred front slide, a lad on it | Single LAD lesion, 90%
+5: 46 57 5 | Wall clock at 24 | Within 24 hours
+6: 81 34 13 | Ivy round three tarred spikes | Collaterals protect the younger heart
+7: 81 54 5 | Younger hotel marked 40 | 40-year-old, less at risk
+question: 1 6 7
+answer: 2 3 4 5
+== 154
+1: 44 50 6 | Long needle into the aquarium | Pericardiocentesis (the answer)
+2: 45 66 12 | Yellow submarine under the edge | Subxiphoid approach
+3: 44 90 12 | Red water poured into a bucket | Blood drained from the pericardium
+4: 18 15 8 | Red water and dark clots | Haemopericardium, tamponade
+5: 24 43 7 | Outer wall blown out | Free-wall rupture
+6: 29 32 6 | Gauge falling to 75 | Hypotension (75/60)
+7: 58 33 6 | Counter jumping to 120 | Tachycardia (120)
+8: 8 66 6 | Calendar showing 7 | 7 days after the infarct
+question: 4 5 6 7 8
+answer: 1 2 3
+== 155
+1: 88 9 5 | Sign 15, thrown aside | Size alone (15%): no repair (the answer)
+2: 64 30 22 | Pink bubble-gum bubble | Left ventricular aneurysm
+3: 7 80 11 | Taxis stuck in a traffic jam | Heart failure symptoms
+4: 35 71 5 | Bouncer's counter down to 40 | Falling ejection fraction
+5: 56 54 12 | Beaver building a dam inside | Clot inside the aneurysm
+6: 86 66 9 | Struck head lantern | Embolic stroke
+7: 75 37 12 | Tape measure growing longer | Aneurysm that keeps growing
+8: 31 32 10 | Franky patching the bubble | Repair (patch)
+question: 2 3 4 5 6 7
+answer: 1
+== 156
+1: 45 60 18 | White silk curtain down to the mitre | Aortomitral continuity (the answer)
+2: 20 36 9 | Left salsa bowl with a spike | Left coronary cusp
+3: 77 36 9 | Empty bowl, no spike | Non-coronary cusp
+4: 50 36 9 | Bowl with no curtain | Right coronary cusp, over the septum
+5: 47 76 10 | Front leaf of the mitre | Anterior mitral leaflet
+6: 50 15 18 | Giant orca above the bowls | Aortic valve and root
+question: 4 6
+answer: 1 2 3 5
+== 157
+1: 75 78 13 | Thick brick walls bulging inward | Severe concentric, septal hypertrophy (the answer)
+2: 31 28 8 | Shiny new dentures | Aortic valve replacement
+3: 90 33 9 | Calendar torn month after month | Regression is slow, may stay
+4: 22 26 10 | Stone mouth opening only a slit | Aortic stenosis
+5: 50 82 12 | Fan pushing against it | Left ventricle under pressure load
+question: 4 5
+answer: 1 2 3
+== 158
+1: 75 20 18 | Long lip billowing like a sail | Elongated, prolapsing cusp (the answer)
+2: 22 47 7 | Tape measure round the neck | Aortic root of normal size
+3: 52 52 9 | Water dripping back down | Aortic insufficiency
+4: 52 76 22 | Wide, round engine room | Dilated ventricle, eccentric growth
+5: 8 60 10 | Usopp blaming the neck | Wrong idea: root dilation
+question: 3 4
+answer: 1 2
+== 159
+1: 74 32 6 | Second sailor yawning | Fatigue (the answer)
+2: 60 41 13 | Taxis slowly piling up behind | Gradual congestive heart failure
+3: 74 17 9 | Dripping orca mouth | Aortic insufficiency
+4: 81 52 15 | Sailor still walking for years | Insidious onset; sudden death is rare
+5: 26 48 15 | Stone angel at milestone 5 | Stenosis with angina: about 5 years
+6: 27 29 12 | Fainting on the sofa at 3 | Syncope: about 3 years
+7: 18 9 11 | Taxi jam at milestone 2 | Heart failure: about 2 years
+question: 3
+answer: 1 2 4
+== 160
+1: 39 59 8 | Pig swimming freestyle | Medtronic Freestyle stentless pig root (the answer)
+2: 79 38 8 | Calendar of 8 years, ticked off | Results at 8 years
+3: 44 37 10 | Fresh pink mouth | Almost no aortic insufficiency
+4: 42 48 12 | Three new salsa bowls | Full root replacement, sinuses included
+5: 50 22 22 | Orca's base, no metal frame | Stentless: no frame
+question: 4 5
+answer: 1 2 3
+== 162
+1: 50 40 18 | White tube, straight as a stick | Straight tube graft (the answer)
+2: 50 60 18 | Shepherd boy David | David I reimplantation
+3: 51 20 10 | Orca's own mouth kept | Own aortic valve spared
+4: 52 35 10 | Salsa bowls pressed flat inside | No sinuses of Valsalva in the graft
+5: 52 27 8 | Stitches under the brass collar | Sutures below the annulus
+6: 8 72 11 | Zoro's drawn sword | Wrong path: cutting out the valve
+question: 2 3
+answer: 1 4 5
+== 163
+1: 56 39 14 | Round shield full of darts | ARB such as losartan (the answer)
+2: 69 16 14 | Pink bubble on the orca's arch | Aortic aneurysm growing
+3: 15 30 14 | Marionette with twisted strings | Loeys-Dietz syndrome
+4: 85 30 9 | Red darts flying in | Angiotensin II, TGF-beta signalling
+5: 83 46 12 | Goalkeeper diving too late | Beta-blockers: not the answer
+question: 2 3
+answer: 1 4
+== 164
+1: 50 32 16 | Every lantern lit | All of the above (the answer)
+2: 53 50 8 | Ordinary sailor at 5.5 | No connective tissue disorder: 5.5 cm
+3: 68 45 8 | Tall marionette with a fan at 5 | Marfan syndrome: 5.0 cm
+4: 39 51 7 | Bicycle in a small orca at 4.5 | Bicuspid aortic valve: 4.5 cm
+5: 30 55 6 | Doll with twisted strings at 4 | Loeys-Dietz syndrome: 4.0 cm
+6: 19 43 9 | Giant ruler | Ascending aortic diameter
+7: 68 14 10 | Pink bubble on the orca | Ascending aortic aneurysm
+question: 6 7
+answer: 1 2 3 4 5
+== 166
+1: 69 39 9 | Right triangle hit by the pebble | Right fibrous trigone (the answer)
+2: 48 37 11 | Central keystone ringing with it | Central fibrous body
+3: 15 40 8 | Left stone triangle | Left fibrous trigone
+4: 56 72 14 | Saddle-shaped mitre ring | Saddle-shaped mitral annulus
+5: 55 56 10 | First row of harp strings | First-order chordae stop prolapse
+question: 4 5
+answer: 1 2 3
+== 167
+1: 67 92 9 | Bin marked IIIb | Type IIIb (the answer)
+2: 71 58 11 | Mitre bearing a shot stag | Ischaemic mitral insufficiency
+3: 70 76 9 | Harp strings pulled down | Leaflets restricted in systole
+4: 50 14 10 | Mitre billowing like a sail, bin II | Type II: excessive motion, prolapse
+5: 85 15 9 | Mitre stiff with scarlet beads | Type IIIa: rheumatic
+6: 25 30 8 | First bin | Type I: normal leaflet motion
+question: 4 5 6
+answer: 1 2 3
+== 168
+1: 46 65 18 | Harp strings turned to sponge | Spongy tissue invades the chordae (the answer)
+2: 56 12 14 | Leaf billowing like a sail | Myxomatous leaflet prolapse
+3: 52 57 6 | A string snapping | Chordal rupture
+4: 38 38 11 | Stretched brass collar | Annulus dilates, may calcify
+5: 70 32 14 | Sailors dancing with sails | Most prolapse stays symptom-free
+6: 9 30 10 | Luffy's arm stretching | Chordae elongate
+question: 2 4 5
+answer: 1 3 6
+== 169
+1: 30 31 7 | First doorman's gauge fallen low | Much lower ejection fraction (the answer)
+2: 35 60 9 | Arrow in the front of the chest | Anterior infarction
+3: 25 15 8 | Lad stopped halfway down the slide | LAD territory
+4: 59 71 8 | Arrow from under the belly | Inferior infarction
+5: 73 30 7 | Second gauge still high | Ejection fraction barely reduced
+6: 25 43 7 | Bouncer letting few guests out | Weak pumping
+question: 4 5
+answer: 1 2 3 6
+== 170
+1: 61 16 8 | Ice freezing the collar's side | Lateral annulus moves less (the answer)
+2: 45 47 18 | Mitre leaves pulled into a tent | Leaflets tethered into a tent
+3: 15 18 13 | Harp strings pulling down | Chordae pulled by the infarcted wall
+4: 9 47 10 | Stag shot from behind | Inferior-posterior infarction
+5: 85 48 11 | Limp red pillar next door | Papillary muscle alone: little leak
+6: 87 10 8 | Next-door mitre closing well | Competent valve despite it
+question: 2 4
+answer: 1
+== 171
+1: 50 52 11 | Shiny new mitre in its place | Mitral valve replacement (the answer)
+2: 53 18 9 | Stone mitre opening only a slit | Thick leaflets, mitral stenosis
+3: 53 37 9 | Short, thick scarred strings | Fibrosed, shortened chordae
+4: 42 26 6 | Red balloon bouncing off | Unfit for balloon valvuloplasty
+5: 6 62 9 | Woman panting after one step | Dyspnoea on minimal activity
+question: 2 3 4 5
+answer: 1
+== 172
+1: 22 34 6 | Soft tissue box | Bioprosthetic valve (the answer)
+2: 37 77 11 | Empty cradle | Wishes to conceive
+3: 20 40 12 | Young woman beside the cradle | 35-year-old woman
+4: 14 79 10 | Stone mitre with scarlet beads | Rheumatic mitral stenosis
+5: 86 27 7 | Clanking steel robot | Mechanical valve: not for her
+6: 80 80 8 | Rat in a soldier's helmet | Warfarin harms the unborn baby
+question: 2 3 4
+answer: 1 6
+== 173
+1: 30 74 13 | Landing 1: vine and chain ends tied | Distal anastomoses first
+2: 45 57 11 | Landing 2: stone mouth pulled out | Then excise the aortic valve
+3: 38 38 10 | Landing 3: new mitre lowered | Then mitral valve replacement
+4: 72 24 10 | Landing 4: new dentures | Then aortic valve replacement
+5: 72 7 9 | Landing 5: chain top sewn on | Proximal anastomosis last
+6: 10 45 6 | Sapphire chain | Saphenous vein graft
+question: 6
+answer: 1 2 3 4 5
+== 175
+1: 48 50 7 | Robot in the still lake, dammed | Mechanical mitral valve: higher risk (the answer)
+2: 13 49 7 | Robot in the rushing river | Mechanical aortic valve: lower risk
+3: 60 51 4 | Rat in a helmet on guard | Anticoagulation (warfarin)
+4: 52 72 16 | Beavers building dams | Thrombus in slow flow
+5: 51 24 12 | Bowling balls flying to the head | Emboli to the brain
+question: 2 3
+answer: 1 4 5
+== 176
+1: 50 43 9 | Back leaf cut down into a slide | Sliding repair (the answer)
+2: 77 58 13 | Uncle Sam reaching for the front leaf | Systolic anterior motion (SAM)
+3: 30 44 9 | Front leaf of the mitre | Anterior mitral leaflet
+4: 13 25 12 | The orca's door | Left ventricular outflow tract
+5: 22 44 5 | Usopp's smaller brass ring | Small ring makes SAM worse
+6: 52 22 7 | Chopper's scissors | Posterior leaflet made lower
+question: 2 3 4
+answer: 1 6
+== 177
+1: 57 78 13 | Gold collar left whole | No annular plication sutures (the answer)
+2: 54 52 12 | Pizza-slice triangle cut | Triangular resection
+3: 17 52 11 | Square cut down to the collar | Quadrangular resection
+4: 17 66 10 | Collar pulled in by stitches | Annular plication sutures
+5: 58 45 20 | Billowing middle shell | Prolapsing P2 scallop
+question: 3 4 5
+answer: 1 2
+== 178
+1: 22 66 5 | String yanked too tight | Excessive tension when tying (the answer)
+2: 14 75 9 | Leaf dragged down | Leaflet pulled into the ventricle
+3: 22 82 7 | Water gurgling back through the gap | Leak returns (mitral regurgitation)
+4: 55 51 6 | Brook's gentle knot | Right length, tied gently
+5: 50 25 8 | White nylon strings | Artificial chordae
+6: 42 25 8 | Thick red pillar | Papillary muscle
+question: 5 6
+answer: 1 2 3
+== 179
+1: 64 61 11 | Fat sailor walking in | Obesity: not a contraindication (the answer)
+2: 52 57 7 | Small porthole in the chest's side | Right mini-thoracotomy
+3: 12 16 5 | Sign 7 over thin pipes | Femoral vessels under 7 mm
+4: 86 18 11 | Dripping orca mouth | Moderate-severe aortic insufficiency
+5: 20 41 13 | Excavator's hollow in a chest | Pectus excavatum
+6: 87 42 11 | Tar blocking lilac branches | Iliofemoral atherosclerosis
+7: 15 25 7 | Long white thigh bone | Femoral cannulation for bypass
+question: 2 3 4 5 6
+answer: 1
+== 180
+1: 55 28 6 | Rooster crowing at first light | Early operation (the answer)
+2: 50 81 5 | Guest still running happily | Before symptoms
+3: 51 72 8 | Small rooms, strong fan | Before the heart changes
+4: 57 58 5 | Water leaking back from the mitre | Severe mitral regurgitation
+5: 14 40 18 | Swollen hotel next door | Enlarged atrium and ventricle
+6: 8 69 7 | Pinocchio trembling inside | Atrial fibrillation
+7: 91 72 11 | Mayor saying "let's wait" | Waiting for symptoms: worse outcome
+question: 4
+answer: 1 2 3
+== 182
+1: 46 58 9 | Ruler across the neck, over 7 | Vena contracta wider than 0.7 cm (the answer)
+2: 46 64 5 | Narrow neck of the jet | Vena contracta
+3: 20 36 6 | Police car lights | Colour Doppler
+4: 46 78 11 | Golden trident | Tricuspid valve
+5: 55 20 25 | Jet widening as it rises | Severe tricuspid regurgitation
+question: 3 4 5
+answer: 1 2
+== 183
+1: 64 51 5 | Fifth sailor's gauge under 60 | TR with PA pressure below 60 mm Hg (the answer)
+2: 7 58 5 | Sailor mending his mitre | Severe TR at mitral surgery
+3: 20 45 7 | Panting, trident broken | Severe symptomatic primary TR
+4: 33 45 7 | Crooked, broken prongs | Diseased tricuspid leaflets
+5: 42 55 6 | Gauge in the red | Dilated annulus or pulmonary hypertension
+question: 2 3 4 5
+answer: 1
+== 184
+1: 28 79 8 | Landing 1: chain tied to the back spike | Distal anastomosis to the PDA first
+2: 47 63 8 | Landing 2: brass ring round the mitre | Then mitral repair
+3: 38 52 7 | Landing 3: chain top sewn to the orca | Then proximal anastomosis
+4: 86 18 9 | Landing 4: Franky mending the trident | Tricuspid repair last
+5: 52 38 8 | Iron clamp on the orca's back | Aortic cross-clamp
+6: 72 6 9 | Fans turning again above | Heart beating again
+question: 5 6
+answer: 1 2 3 4
+== 186
+1: 40 42 8 | Nami's bottles, 6 hours apart | Cultures 6 h apart: not major (the answer)
+2: 20 10 8 | Clock at 6 | Only 6 hours between cultures
+3: 86 10 8 | Clock at 12 | Major only if 12 hours apart
+4: 36 67 9 | Cow-spotted beads in two bottles | Typical organism (S. bovis), twice
+5: 59 67 8 | Swaying cards with broccoli | Oscillating mass on echo
+6: 83 67 8 | Water flowing back | New valvular regurgitation
+7: 54 30 18 | The Duke with his seal | Duke criteria
+question: 4 5 6 7
+answer: 1 2 3
+== 187
+1: 76 39 7 | Helmeppo scrubbing the outer wall | Epicardial surface: wrong (the answer)
+2: 44 36 6 | Missing white tile inside | Endothelial damage
+3: 32 58 9 | White plates and red threads | Platelets and fibrin: sterile thrombus
+4: 22 66 10 | Green germs in the river | Transient bacteraemia
+5: 48 48 13 | Cards sprouting broccoli | Infected vegetation grows
+question: 2 3 4 5
+answer: 1
+== 189
+1: 49 14 18 | Big swaying cards on the mitre | Mitral vegetation (the answer)
+2: 72 42 5 | Bowling ball rolling to the head | Embolus
+3: 85 36 9 | Struck head-shaped lantern | Stroke
+4: 18 30 6 | Small cards in the orca's mouth | Aortic vegetation: fewer strokes
+question: 2 3
+answer: 1
+== 190
+1: 20 40 14 | Taxis jammed round the hotel | Heart failure (the answer)
+2: 50 50 25 | Long coffin shadow on the table | Higher operative risk
+3: 52 33 9 | Cards sprouting broccoli on a door | Endocarditis vegetation
+4: 50 78 15 | Sailor on the operating table | Surgery for endocarditis
+question: 3 4
+answer: 1 2
+== 191
+1: 25 45 13 | Metal piranhas gnawing the wall | More metalloproteinases (the answer)
+2: 55 18 16 | Tall marionette, spider fingers | Marfan syndrome
+3: 47 58 9 | Pink bubble on the orca | Aortic aneurysm
+4: 55 28 10 | A different knot in every string | Many fibrillin-1 mutations
+5: 50 37 20 | Swollen salsa bowls | Dilated aortic root
+question: 2 3 4 5
+answer: 1
+== 192
+1: 57 36 14 | Same crest on bicycle and wall | Same neural crest cells (the answer)
+2: 48 47 12 | Bicycle jammed in the mouth | Bicuspid aortic valve
+3: 60 36 7 | Pink bubble above the bicycle | Dilated ascending aorta
+4: 10 42 9 | Orca with a tissue box, still bulging | Aorta can grow after valve replacement
+5: 50 88 9 | Two matching crest drawings | Cut from the same cloth
+question: 2 3
+answer: 1 4 5
+== 193
+1: 52 87 16 | Black coffin under the burst | Rupture: the leading cause of death (the answer)
+2: 52 35 8 | Morgan's hatchet | Behcet disease
+3: 53 22 16 | Pink bubble on the orca's back | Arterial aneurysm
+4: 52 60 10 | Bubble bursting into pieces | Aneurysm rupture
+question: 2 3
+answer: 1 4
+== 194
+1: 58 64 5 | Bubble at 4.5 on Chopper's chest | 4.5 cm, no heritable disorder (the answer)
+2: 25 26 7 | Sailor clutching an aching bubble | Symptomatic aneurysm: operate
+3: 15 43 9 | Doll with twisted strings at 4 | Loeys-Dietz: operate at about 4.0-4.2 cm
+4: 15 57 8 | Mouth sagging and dripping | Progressive aortic regurgitation: operate
+5: 85 35 12 | Kureha sending him back to sea | Watch it, no surgery
+question: 2 3 4
+answer: 1 5
+== 195
+1: 6 93 5 | Toy coffin painted 5 | Operative mortality under 5% (the answer)
+2: 42 63 11 | New straight white tube | Ascending aortic replacement
+3: 12 70 11 | Cut-out pink bubble | Ascending aortic aneurysm
+question: 3
+answer: 1 2
+== 203
+1: 55 40 18 | Cat slicing the whole loaf | CT angiography (the answer)
+2: 65 72 15 | Torn zipper in every slice | Dissection flap, its whole extent
+3: 15 18 13 | Photographer with magenta dye | Aortography: invasive, slow
+4: 50 10 11 | Bat sending sound rings | Transoesophageal echo
+5: 76 15 9 | Slowly humming horseshoe magnet | MRI: slow in an acute illness
+6: 17 57 6 | Finger tapping the crust | Physical examination
+question: 2
+answer: 1
+== 204
+1: 43 44 9 | Deep pothole on the rising part | Acute type A penetrating ulcer (the answer)
+2: 18 65 12 | Chopper running with his scalpel | Surgery now
+3: 12 28 6 | Purple blister on the back | Type B intramural haematoma: watch
+4: 22 30 6 | Torn zipper measured 5, on the back | Uncomplicated type B dissection: medicines
+5: 80 80 13 | Usopp only aiming | Watching and waiting
+question: 3 4
+answer: 1 2
+== 205
+1: 30 70 20 | Goalkeeper blocking the pucks | Beta-blockers after the operation (the answer)
+2: 48 10 8 | New white tube on the rising part | Ascending aortic repair
+3: 49 37 13 | Zipper still open along the back | Dissection left beyond the repair
+4: 80 72 14 | Heavy pucks flying in | Pressure pulses on the aorta
+5: 35 41 9 | Cracked, dried glue | Biological glue: not the answer
+6: 22 8 10 | Calendar, year after year | Lifelong therapy
+question: 2 3
+answer: 1 4 6
+== 207
+1: 45 37 8 | Top end of the sleeve not gripping | Type I: poor proximal seal (the answer)
+2: 55 40 6 | Water slipping round the top | Blood flows into the sac
+3: 41 56 12 | White sleeve round a spring | Stent-graft
+4: 62 25 18 | Pink bubble still swelling | Aneurysm sac under pressure
+5: 74 58 5 | Thin trickle from a side tube | Type II: side-branch backflow
+question: 3 4
+answer: 1 2
+== 208
+1: 57 67 5 | Open tap draining clear water | CSF drainage protects (the answer)
+2: 45 12 8 | Kiwi feeding the cord | Spinal cord blood supply
+3: 31 55 9 | Old scar on the belly | Previous aortic surgery
+4: 52 57 13 | Water level falling | Low blood pressure
+5: 55 35 18 | Very long sleeve over many straws | Long stretch of aorta covered
+6: 14 28 8 | Sleeve end covering the left fin | Left subclavian artery covered
+question: 2 3 4 5 6
+answer: 1
+== 209
+1: 49 45 10 | Balance beam perfectly level | Cost equal to open repair (the answer)
+2: 20 54 8 | Sleeve with a metal spring | Endovascular stent-graft
+3: 7 70 5 | Only two candles | Short hospital stay
+4: 82 61 8 | Long white tube | Open repair
+5: 74 71 9 | Long row of candles | Long ICU and hospital stay
+6: 25 71 6 | Costly price tag | Expensive device
+question: 2 4
+answer: 1 3 5 6
+== 210
+1: 50 72 6 | Robin's fin root turned to stone | Calcified LSA origin: not an indication (the answer)
+2: 20 12 10 | Lima vine hanging from the fin | Mammary-to-coronary graft
+3: 18 26 9 | Lantern fed by one thin pipe | Dominant left vertebral artery
+4: 25 50 10 | Fist joining two pipes for the washer | Left arm dialysis fistula
+5: 15 72 9 | Old scar on the belly | Previous abdominal aortic surgery
+6: 31 15 6 | Hose from the carrot to the fin | Carotid-subclavian bypass
+question: 2 3 4 5
+answer: 1
+== 211
+1: 52 76 13 | Calm, tidy knot in the floor | Disordered AV node: not part of AF (the answer)
+2: 38 37 9 | Pinocchio trembling | Atrial fibrillation
+3: 7 31 7 | Lit match spitting sparks | Trigger: premature beats
+4: 50 22 25 | Wide, stretched lobby | Enlarged atria
+5: 88 33 10 | Sparks crawling along branches | Slow conduction
+6: 55 44 18 | Sentries in nightcaps | Short refractory period
+question: 2 3 4 5 6
+answer: 1
+== 212
+1: 50 80 26 | Islanded doors, their matches out | Pulmonary veins: only about half (the answer)
+2: 35 20 5 | Match sparking from the chimney | Trigger outside the veins
+3: 64 33 6 | Match in the dog's ear | Left atrial appendage trigger
+4: 45 57 9 | Pinocchio still trembling | AF goes on
+5: 87 52 11 | Calmer second lobby | Paroxysmal AF: mostly vein triggers
+question: 4
+answer: 1 2 3
+== 213
+1: 85 45 8 | Pink bubble on the orca, no badge | Aortic aneurysm: not associated (the answer)
+2: 9 45 6 | Gauge in the red, with a badge | Hypertension
+3: 20 46 6 | Taxi jam with a badge | Heart failure
+4: 30 45 6 | Stone mitre with a badge | Valvular disease
+5: 48 48 6 | Blocked green crown with a badge | Coronary artery disease
+6: 58 47 7 | Trembling Pinocchio | Atrial fibrillation
+question: 2 3 4 5 6
+answer: 1
+== 214
+1: 80 38 8 | Beaver in the dog's ear | Appendage thrombus: not an indication (the answer)
+2: 14 10 7 | Mitre being mended | AF at another heart operation
+3: 32 17 7 | Cabbage on the crown | AF at coronary bypass
+4: 46 28 8 | Two burnt spots on the wall | Failed catheter ablation
+5: 12 34 6 | Rat in a helmet pushed away | Cannot take anticoagulation
+6: 50 15 20 | Hedge maze garden | Surgical ablation (maze)
+7: 52 67 6 | Bag of medicine | Anticoagulate first
+question: 2 3 4 5 6
+answer: 1 7
+== 215
+1: 51 46 5 | Number 8 over the gate | About 80% free of AF (the answer)
+2: 55 76 18 | Eight Pinocchios standing still | Free of AF, without drugs
+3: 52 59 7 | Two still trembling | About 20% still in AF
+4: 28 63 5 | Calendar of a year | At one year
+5: 50 22 28 | Hedge maze across both lobbies | Cox-Maze IV, both atria
+6: 15 65 13 | Usopp's bottles and bullets | Antiarrhythmic drugs: not needed
+question: 4 5
+answer: 1 2 6
+== 216
+1: 15 22 11 | L-shaped glue cans | L-type calcium currents (the answer)
+2: 55 40 10 | Conductor by the chimney | Sinoatrial node
+3: 48 67 9 | Knot in the floor | Atrioventricular node
+4: 35 50 8 | Slow, thick stream of glue | Slow calcium depolarisation
+5: 30 53 8 | Usopp's quick salt spray | Fast sodium current: not the nodes
+question: 2 3
+answer: 1 4
+== 217
+1: 55 50 20 | Cheerful sailor, no drummer | No pacemaker needed (the answer)
+2: 55 23 10 | Twig bundle missing a front twig | Left anterior fascicular block
+3: 60 64 6 | Drawbridge coming down late | First-degree AV block
+4: 13 20 9 | Dozing conductor | Symptomatic sinus node dysfunction
+5: 12 42 9 | Pinocchio with a stopwatch | AF with long pauses
+6: 12 59 9 | Bridge raised by a needed drug | Drug-induced complete heart block
+7: 13 80 9 | Bundle dark left, then right | Alternating bundle branch block
+question: 4 5 6 7
+answer: 1 2 3
+== 218
+1: 55 65 18 | Lower drummer turning his back | DDI never tracks the atrium (the answer)
+2: 57 24 11 | Upper drummer | Atrial pacing and sensing
+3: 69 39 7 | Brass ear trumpet | Ventricle sensed, then inhibited
+4: 37 28 9 | Pinocchio trembling madly | Atrial tachyarrhythmia, not followed
+5: 84 54 8 | Sparking electric knife | Electrocautery interference
+6: 82 76 7 | Buzzing pad on a back | TENS unit interference
+question: 2 3
+answer: 1 4
+== 219
+1: 50 65 22 | Both cables pulled out whole | Generator and both leads out (the answer)
+2: 75 18 14 | Big pump truck standing ready | Surgical backup at hand
+3: 60 45 12 | Zoro with swords drawn | Cardiac surgeon beside the table
+4: 10 25 9 | Box pushing through the wall | Device erosion
+5: 45 55 15 | Golden grape-cluster germs | Staphylococcal infection of the system
+6: 12 65 10 | Usopp's new box | New device later, not now
+question: 4 5
+answer: 1 2 3
+== 220
+1: 43 50 24 | Two drummers striking together | Cardiac resynchronisation (the answer)
+2: 18 32 9 | Drummer coming down from the sink | Coronary sinus lead to the LV
+3: 44 48 5 | Small bodyguard beside them | Defibrillator (the "D")
+4: 81 42 6 | Doorman's badge reading 25 | Ejection fraction 25%
+5: 40 90 9 | Dark left half of the twig bundle | Left bundle branch block
+6: 45 62 18 | Taxis jammed round the hotel | Heart failure symptoms
+question: 4 5 6
+answer: 1 2 3
+== 221
+1: 80 51 13 | Gauge between 3 and 5 | 3 to 5 percent (the answer)
+2: 40 63 9 | Grey stones stuck to the pipe | Organised fibrous clot (CTEPH)
+3: 25 22 13 | Many black bowling balls | Acute pulmonary emboli
+4: 55 87 13 | Balls melting like wax | Most clots dissolve
+5: 50 60 22 | Green money pipe | Pulmonary arteries
+question: 3 5
+answer: 1 2
+== 222
+1: 65 45 20 | Nine black coffins on the slope | About 90% die (the answer)
+2: 22 79 7 | Gauge reading 50 | Mean PA pressure above 50 mm Hg
+3: 24 24 13 | Three calendars | Within 3 years
+4: 80 54 8 | The one climber still standing | About 1 in 10 survives
+question: 2 3
+answer: 1 4
+== 223
+1: 50 64 16 | Photographer with magenta dye | Pulmonary angiography (the answer)
+2: 63 30 16 | Every web and band on the screen | Shows webs, bands, blocked branches
+3: 15 51 8 | Two-coloured map | V/Q scan: best screening test
+4: 20 90 11 | Cat slicing the loaf | CT angiography: may miss small webs
+5: 85 14 6 | Bat on the pink slide | Echocardiography
+6: 20 12 9 | Blowing a brass bugle | Pulmonary function tests
+question: 3 4 5 6
+answer: 1 2
+== 224
+1: 48 50 12 | Chopper's chimney-sweep scraper | Proceed with surgery (the answer)
+2: 50 88 18 | Grey stones and webs in the branches | Operable, organised clot
+3: 86 52 9 | Gauge past the red | Suprasystemic pressures
+4: 49 68 9 | Tall pile of wooden blocks | Resistance above 1000
+5: 27 23 7 | Rat in a helmet | Anticoagulation alone: no
+6: 15 65 8 | Bottles of pills | Diuretics, vasodilators: no
+7: 15 52 9 | Calendar of six months | Waiting six months: no
+question: 2 3 4
+answer: 1
+== 225
+1: 50 38 20 | Hotel frozen in a giant ice cube | Deep hypothermic circulatory arrest (the answer)
+2: 50 12 10 | Ship's stern opened along its line | Median sternotomy
+3: 15 48 12 | Pump truck turning | Cardiopulmonary bypass
+4: 68 47 8 | Hourglass of twenty minutes | Arrest periods of about 20 minutes
+5: 50 82 22 | Scraping stones from the pipes | Endarterectomy down to small branches
+6: 12 62 11 | Usopp's clamps | Clamping the arteries: no
+question: 5 6
+answer: 1 2 3 4
+== 226
+1: 58 52 14 | Same card, small biceps | Phenotype does not follow genotype (the answer)
+2: 42 43 5 | Family recipe card | Same mutation (genotype)
+3: 25 42 9 | Mountain-sized biceps | Massive septal hypertrophy
+4: 26 19 6 | Brick bridge over the lad's slide | Muscle bridge over the LAD
+question: 2 3
+answer: 1
+== 227
+1: 50 55 26 | Many different recipe books | Genetically diverse disease (the answer)
+2: 40 84 11 | Tangled fibres under the lens | Myocyte disarray
+3: 20 14 14 | Family tree, half the sons muscled | Autosomal dominant, familial
+4: 23 22 5 | Small coffin on a branch | Sudden death in the family
+5: 52 20 12 | Uncle Sam pulling the mitre | Systolic anterior motion
+question: 2 3
+answer: 1
+== 228
+1: 45 40 12 | Choked doorway to the orca | LVOT obstruction (the answer)
+2: 75 48 18 | Bodybuilder's biceps | Asymmetric septal hypertrophy
+3: 30 50 12 | Uncle Sam yanking the leaf | Systolic anterior motion
+4: 64 30 8 | Fan spinning strongly | Systolic function preserved
+5: 12 40 9 | Water spraying back | Mitral leak, directed posteriorly
+question: 2 4
+answer: 1 3
+== 229
+1: 20 63 11 | Usopp's chalk line, crossed out | Cut below the L-R commissure: no (the answer)
+2: 44 50 8 | Chisel cutting a block of biceps | Septal myectomy
+3: 55 75 13 | Trough carved toward the tip | Extended toward the apex
+4: 58 28 7 | Brick bridge lifted off | Unroofing a muscle bridge
+5: 8 75 8 | Spare new mitre | Mitral replacement if needed
+question: 2 3 4 5
+answer: 1
+== 230
+1: 54 9 11 | Banner with a 9 | Over 90% relieved of symptoms (the answer)
+2: 40 40 26 | Nine sailors dancing | Breathing freely again
+3: 78 20 6 | The one still panting | About 1 in 10 not relieved
+4: 6 96 4 | Coffin smaller than a thimble | Operative mortality below 1%
+5: 24 80 16 | Grey-bearded chess players | Normal long-term survival
+6: 66 82 12 | Usopp's big coffin | Wrong guess: high mortality
+question: 6
+answer: 1 2 4 5
+== 231
+1: 59 56 7 | Gauge sinking into the blue | Decreased arterial pressure (the answer)
+2: 47 51 7 | Band playing muffled | Muffled heart sounds
+3: 47 31 6 | Chimney bulging, smoke backing up | Raised venous pressure
+4: 46 45 18 | Aquarium of red water | Cardiac tamponade
+5: 18 29 6 | Usopp's thermometer | Fever: not in the triad
+6: 15 75 9 | Long needle drawing the water | Pericardiocentesis
+question: 2 3 4
+answer: 1
+== 232
+1: 56 14 11 | Red crab pouring water | Neoplasia (the answer)
+2: 12 59 8 | Shrivelled grey kidney beans | Uraemia
+3: 82 42 11 | Masked shadow with a question mark | Idiopathic
+4: 50 82 20 | Aquarium filling slowly | Pericardial effusion
+question: 2 3 4
+answer: 1
+== 233
+1: 50 6 13 | Bat sending echo rings | Echocardiography (the answer)
+2: 50 41 20 | Water between glass and hotel | Pericardial effusion
+3: 35 88 12 | Cat slicing the loaf | CT: slower
+4: 50 19 6 | Humming red magnet | MRI: slower
+5: 33 64 10 | Fishing lines climbing the pipes | Catheterisation: pressures only
+question: 2
+answer: 1
+== 234
+1: 54 42 8 | Mountain of salt, sailor fine | High sodium: not a predictor (the answer)
+2: 13 9 9 | Old violet rays on a chest | Prior radiation
+3: 18 29 6 | Withered grey kidney beans | Renal insufficiency
+4: 17 43 7 | Weak, slow fan | Poor ventricular function
+5: 12 62 9 | Gasping on the first stair | Advanced symptom class
+6: 65 87 13 | Severed boa | Pericardiectomy
+question: 2 3 4 5 6
+answer: 1
+== 235
+1: 12 47 7 | Orca's water far above the line | Aorta not equalised (the answer)
+2: 66 63 17 | Water at one line in every room | Equal end-diastolic pressures
+3: 82 27 9 | Screen: a drop, then a flat line | Dip-and-plateau (square-root sign)
+4: 65 45 25 | Giant boa squeezing the tank | Constrictive pericarditis
+question: 2 3 4
+answer: 1
+== 236
+1: 30 58 14 | Rabbits in the baby's cradle walls | Rhabdomyoma: let it regress (the answer)
+2: 55 18 18 | Height chart, rabbits shrinking | Regresses as the child grows
+3: 15 85 9 | Green jelly ball on a stalk | Myxoma: excise
+4: 30 82 7 | Pale sea anemone | Papillary fibroelastoma: excise
+5: 15 92 7 | Red crabs | Sarcoma: excise
+6: 10 55 9 | Usopp's scalpel | Surgery: not first
+question: 3 4 5
+answer: 1 2
+== 237
+1: 60 58 18 | Zoro carving most of the lump | Partial resection (the answer)
+2: 72 65 13 | Chalky white lump in the wall | Calcified fibroma
+3: 70 55 9 | Pillars holding the harp strings | Papillary muscles involved
+4: 22 25 14 | Hotel lifted out of its pot | Autotransplant or transplant: no
+5: 35 82 15 | Breathless boy lying down | Syncope, dyspnoea on exertion
+question: 2 3 5
+answer: 1
+== 238
+1: 43 45 9 | Chopper pulling the jelly ball out | Surgical excision now (the answer)
+2: 51 30 8 | Green jelly ball on a stalk | Left atrial myxoma
+3: 55 22 6 | Stalk on the wall clock | Attached to the interatrial septum
+4: 53 64 5 | Black bowling ball breaking off | Embolism risk
+5: 69 33 8 | Swinging into the mitre's door | Mitral valve obstruction
+6: 15 70 15 | Usopp's pile of requests | More tests and waiting: no
+question: 2 3 4 5 6
+answer: 1
+== 239
+1: 60 30 18 | Law lifting the hotel out of its pot | Autotransplantation (the answer)
+2: 45 59 12 | Whole crab cut off on the bench | Complete resection, clear margins
+3: 65 45 10 | Empty pot waiting | Heart put back in place
+4: 12 78 10 | Green potion poured | Chemotherapy alone: palliative
+5: 30 40 8 | Violet lamp rays | Radiation alone: palliative
+6: 30 75 8 | Scoop of crab legs left behind | Debulking: tumour remains
+question: 4 5 6
+answer: 1 2 3
+== 240
+1: 75 35 14 | Crab fused to the mitre's collar | Mitral annulus: unresectable (the answer)
+2: 20 13 10 | Crab cut from the red lobby wall | Left atrium: resect and patch
+3: 20 27 10 | Crab cut from the blue lobby wall | Right atrium: resect and patch
+4: 20 39 10 | Crab on the blue engine room | Right ventricular free wall: resect
+5: 15 53 10 | Orca's mouth | Aortic valve: replace
+question: 2 3 4 5
+answer: 1
+== 241
+1: 65 60 15 | Plates on the "II" stand | MHC class II display (the answer)
+2: 55 37 12 | Patient's crew boiling the leaves | Recipient's own APCs
+3: 15 51 9 | Basket of dead leaves | Necrotic donor debris
+4: 85 85 13 | Four ant captains | CD4+ T cells
+5: 60 88 11 | New potted plant | Transplanted graft
+question: 5
+answer: 1 2 3 4
+== 242
+1: 72 45 14 | Rooster crowing at the sunrise | COX-1: not a PRR (the answer)
+2: 12 47 9 | Toll booth stopping the germs | Toll-like receptors
+3: 42 15 12 | Giant letter C | C-reactive protein
+4: 45 32 10 | Bouquet of sugar flowers | Mannose-binding lectin
+5: 78 18 12 | Waiter tumbling from the waterfall | Other PRRs (pentraxins)
+6: 50 80 10 | Striped germs | Shared microbial patterns
+question: 2 3 4 5 6
+answer: 1
+== 243
+1: 50 88 13 | Stereo turned right down | IV steroid pulse (the answer)
+2: 50 25 14 | Ants swarming round the sacks' pipes | Perivascular rejection, grade A3
+3: 70 23 7 | Clean air tubes | No bronchiolar inflammation (B0)
+4: 18 15 11 | Usopp's fly swatter | Wrong treatment
+5: 88 40 9 | Green snow globe on the shelf | ATG: for steroid-resistant rejection
+question: 2 3 4 5
+answer: 1
+== 244
+1: 41 23 8 | Sign "1R", no medicine | No treatment (the answer)
+2: 58 33 7 | A few scattered ants | Mild rejection, grade 1R
+3: 15 45 14 | Usopp dragging stereo and globe | Over-treatment: no
+4: 88 40 11 | Kureha sending him home | Watch and biopsy again
+question: 2 3
+answer: 1 4
+== 245
+1: 76 62 18 | Ants breaking bricks in several places | Multiple foci of myocyte injury (the answer)
+2: 76 52 6 | Ants swarming round a hole | Inflammatory infiltrate
+3: 28 60 11 | Bouquets stuck on the small pipes | C4d: antibody-mediated, not cellular
+4: 55 52 30 | Brick engine-room wall | Myocardium of the graft
+question: 2 4
+answer: 1
+== 246
+1: 43 55 14 | Six blocks in the money pipe, marked 5 | PVR above 5 Wood units (the answer)
+2: 75 45 15 | New blue engine room cracking | Donor right ventricle fails
+3: 12 13 8 | Empty crab shell from 5 years ago | Old treated cancer: not a contraindication
+4: 15 27 8 | Fresh red doughnuts in the river | Recent transfusion: acceptable
+5: 15 45 8 | Pump in the engine room | LVAD: acceptable
+6: 15 65 8 | Bowl of kidney beans | Creatinine 2.0: acceptable
+question: 3 4 5 6
+answer: 1 2
+== 247
+1: 50 70 18 | Grandfather with an old stag hotel | Older recipient, older donor (the answer)
+2: 25 85 9 | Frosted thermometer, melted ice | Long ischaemic time
+3: 93 85 6 | Hourglass running out | Over about four hours
+4: 20 55 14 | Biggest coffin | Highest operative mortality
+5: 60 10 8 | Boy with a fresh young hotel | Lowest risk
+question: 5
+answer: 1 2 3 4
+== 248
+1: 45 80 10 | Serum and donor cells in a glass | Prospective crossmatch (the answer)
+2: 22 25 16 | Fresh red doughnuts in the river | Recent blood transfusion
+3: 12 50 11 | Ants printing new wanted posters | New anti-HLA antibodies
+4: 58 30 11 | Old list on the laptop | Virtual crossmatch: out of date
+5: 85 30 9 | Calendar of two weeks | Waiting for a new screen: no
+6: 15 77 9 | Donor cells in the ice box | Donor lymphocytes
+question: 2 3 4 5
+answer: 1 6
+== 249
+1: 33 42 7 | Chalk line on the left edge | Left atrium, left side (the answer)
+2: 15 40 13 | Team pulling the money sacks | Lungs procured too
+3: 25 32 7 | Pipes from the sacks | Left pulmonary veins
+4: 55 30 25 | Donor hotel being freed | Donor heart procurement
+question: 2 3 4
+answer: 1
+== 250
+1: 50 41 30 | Three crowns of ten furred white | About 30% have CAV (the answer)
+2: 50 40 9 | White scale along a whole spike | Diffuse concentric intimal thickening
+3: 72 83 15 | Cake with 5 candles | At 5 years
+4: 35 65 13 | Chopper's magnifying glass | Found on surveillance
+question: 3 4
+answer: 1 2
+== 251
+1: 45 42 9 | Crossed-out bridge to the grey office | Bridge to donation: not accepted (the answer)
+2: 75 12 12 | Guarding until a new hotel arrives | Bridge to transplantation
+3: 13 33 11 | Name on the doorbell | Destination therapy
+4: 85 36 11 | Leaving when the fan spins again | Bridge to recovery
+5: 45 80 11 | Standing on a stone in the river | Bridge to decision
+question: 2 3 4 5
+answer: 1
+== 252
+1: 75 35 15 | Beans tied to a washing machine | Dialysis-dependent renal failure (the answer)
+2: 20 75 14 | Two knights in one creature | Biventricular support: acceptable
+3: 20 10 11 | Whale's dripping mouth | Moderate aortic insufficiency: fixable
+4: 20 30 11 | Trembling figure inside | Atrial fibrillation: acceptable
+5: 20 50 11 | Small round hatch | Patent foramen ovale: closed
+question: 2 3 4 5
+answer: 1
+== 253
+1: 50 30 20 | Big pump truck running | On cardiopulmonary bypass (the answer)
+2: 58 48 10 | Pump bolted into the red room's tip | Inflow cannula in the LV apex
+3: 80 35 14 | Pipe sewn to the orca | Outflow graft to the ascending aorta
+4: 30 45 5 | Rat in a helmet on his shoulder | Warfarin required
+5: 40 60 8 | Cable out of the skin | Driveline
+6: 20 65 9 | Usopp's chalk mark on a pipe | Wrong inflow site
+question: 6
+answer: 1 2 3 4 5
+== 254
+1: 50 50 18 | Tall vertical frame | Vertical long axis (the answer)
+2: 50 35 7 | Both leaves seen top to bottom | Whole leaflets, their motion and leak
+3: 50 15 12 | Bat sending sound rings | Transoesophageal echo
+4: 20 40 8 | Round frame, a small slice | Short axis: only a slice
+5: 88 70 11 | Dark knight waiting | LVAD to be implanted
+question: 3 4 5
+answer: 1 2
+== 255
+1: 30 60 30 | Broccoli at three cables of ten | Infections about 30% (the answer)
+2: 50 79 5 | Beaver in one pump | Thrombosis: uncommon
+3: 50 32 8 | Red doughnuts in most rivers | Bleeding, transfusion: commonest
+4: 35 14 9 | Giant pencil left on the shelf | Lifelong antibiotics: not routine
+5: 50 91 7 | Cable leaving the skin | Driveline site
+question: 2 3 4
+answer: 1 5
+== 256
+1: 50 57 8 | Water gurgling back | Mitral regurgitation worsens function (the answer)
+2: 50 40 28 | Accordion stretched past its limit | Dilated, thin-walled ventricle
+3: 15 22 9 | Rugby ball beside a football | More spherical shape
+4: 57 64 7 | Fan spinning faster, tiring | Falling systolic function
+5: 85 70 9 | Thin stream reaching the orca | Low forward output
+question: 2 3 4 5
+answer: 1
+== 257
+1: 80 55 14 | Weak blue fan, door lowered | Reduced RV function: not an indication (the answer)
+2: 25 10 9 | Still wall marked 35 | Asynergy over 35% of the LV
+3: 25 27 9 | Stretched room marked 120 | Large end-diastolic volume index
+4: 15 40 9 | Front wall frozen still | Anterior akinesia
+5: 10 60 9 | Taxis jammed round the hotel | Heart failure symptoms
+6: 25 30 25 | Round patch doors | Surgical ventricular restoration
+question: 2 3 4 5 6
+answer: 1
+== 258
+1: 79 57 7 | Gauge drowned in the red | Pulmonary hypertension (the answer)
+2: 63 40 9 | Single tidy scar from one arrow | Single infarct: most favourable
+3: 45 40 9 | Crown spikes tarred black | Coronary disease: bypass with it
+4: 25 40 9 | Gurgling mitre | Mitral regurgitation: repair with it
+5: 10 35 9 | Gurgling trident | Tricuspid regurgitation: repair with it
+6: 85 35 14 | Round patch door | Surgical ventricular restoration
+question: 2 3 4 5 6
+answer: 1
+== 259
+1: 45 45 10 | Usopp hugging the sparking scar | Keeping dead myocardium: not a goal (the answer)
+2: 30 20 18 | Cabbage on every living spike | Revascularise viable territory
+3: 65 45 18 | Round patch door shutting the scar | Exclude scar, reduce volume
+4: 68 8 18 | Football turned rugby ball | Restore elliptical shape
+5: 75 88 10 | Mitre being repaired | Mitral repair
+question: 2 3 4 5
+answer: 1
+== 260
+1: 47 71 15 | Both tape marks moved lower | End-systolic and end-diastolic volumes fall (the answer)
+2: 50 55 9 | Round patch door | Surgical ventricular restoration
+3: 30 48 11 | Bouncer throwing out more guests | Ejection fraction rises
+4: 17 15 12 | Big hands easing off the vase | Noradrenaline falls
+5: 10 70 10 | Usopp: only one will change | Wrong idea
+question: 2 5
+answer: 1 3 4
+== 261
+1: 48 62 20 | Taxi jam drawn as a giant 6 | About 6,000,000 Americans (the answer)
+2: 25 15 12 | Tarred green crown | Coronary disease as a cause
+3: 85 25 11 | Gauge in the red | Hypertension as a cause
+4: 50 12 11 | Usopp: fifty million | Too many
+5: 12 68 7 | A few taxis in a side street | Too few
+question: 2 3 4 5
+answer: 1
+== 262
+1: 48 33 28 | All four trays planted in the scar | All of the above (the answer)
+2: 16 33 8 | Messy heap | Mesenchymal stem cells
+3: 38 33 8 | Cracked bone with red marrow | Bone marrow cells
+4: 60 33 8 | Little pipes | Endothelial progenitor cells
+5: 80 33 8 | Little skeletons | Skeletal myoblasts
+6: 50 22 18 | Grey scar in the red wall | Infarct scar
+question: 6
+answer: 1 2 3 4 5
+== 263
+1: 17 33 7 | Weak bouncer's gauge at 30 | Low baseline LVEF (30%) (the answer)
+2: 87 65 8 | Calendar showing 6 | Cells given on day 6 (the answer)
+3: 70 78 15 | Seedlings rooting well | Greatest gain in LVEF
+4: 45 85 9 | Cracked bone with marrow | Bone marrow cells
+5: 10 80 9 | Seedlings wilting in hot ground | Too early: hours after the infarct
+6: 87 38 7 | Strong bouncer at 55 | Good LVEF: little gain
+question: 4 5 6
+answer: 1 2 3
+== 265
+1: 60 50 22 | Watering can pouring down the slides | Intracoronary infusion (the answer)
+2: 68 56 5 | Small balloon in a slide | Balloon briefly inflated
+3: 12 14 11 | Needle from outside the wall | Epicardial injection
+4: 13 60 10 | Usopp's drip in the arm | Intravenous: cells lost
+5: 15 85 10 | Poured back from the sink | Coronary sinus: rarely used
+question: 3 4 5
+answer: 1 2
+== 266
+1: 45 66 12 | Plump red kidney beans | No more renal complications (the answer)
+2: 67 35 11 | Small hatch in the chest's side | Minimally invasive mitral surgery
+3: 53 46 6 | Cracked sink | Coronary sinus injury
+4: 75 48 5 | Scratched, sparking cable | Phrenic nerve injury
+5: 88 45 7 | Bruised purple dollar sack | Lung trauma, unilateral oedema
+6: 85 65 7 | Small bill in Luffy's hand | Lower cost, shorter stay
+question: 2 3 4 5 6
+answer: 1
+== 267
+1: 50 35 20 | Cannons straight through the small door | No peripheral cannulation needed (the answer)
+2: 47 30 22 | J-shaped opening | Partial upper (J) sternotomy
+3: 47 58 13 | Inverted-T opening | Inverted T or lower sternotomy
+4: 75 58 7 | Small side door | Right parasternal incision
+5: 30 88 14 | Usopp's cannon by the thigh | Femoral cannulation: optional
+6: 55 35 10 | New dentures in the orca | Aortic valve replacement
+question: 2 3 4 6
+answer: 1 5
+== 268
+1: 52 82 9 | Green mould on Zoro's hatch | Wound complications ~10% (the answer)
+2: 52 62 9 | Sign 10% | Nearly 10 percent
+3: 55 30 15 | Lima vine to the lad's slide | LIMA to LAD
+4: 26 57 9 | Small hatch on the left side | Left anterior thoracotomy
+5: 16 30 8 | Small, almost empty coffin | Low early mortality
+6: 18 12 11 | Vine end resewn | Revision: not routine
+question: 3 4 5 6
+answer: 1 2
+== 269
+1: 13 15 9 | Long-running hourglass by the pump | Prolonged bypass time (the answer)
+2: 15 63 9 | Long-running hourglass by the tongs | Prolonged cross-clamp time (the answer)
+3: 40 40 13 | Robot arms through keyholes | Totally endoscopic, robotic
+4: 18 80 11 | Iron tongs on the orca | Endoaortic clamp
+5: 65 22 10 | Pump truck | Cardiopulmonary bypass
+6: 80 70 13 | Vine reaching the lad | LIMA to LAD
+question: 3 4 5 6
+answer: 1 2
+== 270
+1: 40 22 16 | Tar on the orca's arch, 2 mm | Arch atheroma >2 mm (the answer)
+2: 70 15 10 | Flakes and lightning at the head | Embolic stroke
+3: 20 50 12 | Cannon at the thigh bone | Femoral cannulation, retrograde flow
+4: 85 42 10 | Fat sailor walking through | Obesity: not a contraindication
+5: 62 58 8 | Excavator's hollow in a chest | Pectus excavatum: harder, allowed
+6: 55 78 10 | Cushions under a chest | Breast implants: allowed
+question: 4 5 6
+answer: 1 2 3
+== 271
+1: 22 86 8 | Counter showing 5 | 5 rem a year (the answer)
+2: 50 68 18 | Glowing rams through the gate | Whole-body dose (REMs)
+3: 37 23 6 | Little red crab from a flash | Cancer: no threshold
+4: 86 45 11 | Pregnant worker, lead apron | Second badge at the waist
+5: 70 78 8 | Gate shut on the sixth ram | No more than the limit
+6: 20 22 10 | Flashes from the camera | Fluoroscopy source
+question: 3 4 6
+answer: 1 2 5
+== 272
+1: 22 35 18 | Spider photo from low on the left | LAO caudal: not for the mid-distal LAD (the answer)
+2: 22 26 10 | Water main splitting in two | Left main bifurcation
+3: 75 35 18 | Ladder photo: the whole slide | Cranial view shows the LAD
+4: 87 10 11 | Photographer high on the ladder | Cranial projection
+5: 53 85 13 | Usopp crouching low | Caudal projection
+question: 2 3 4 5
+answer: 1
+== 273
+1: 15 32 14 | Stretcher carried over the bridge | Bridge to surgery (A, the answer)
+2: 90 30 11 | Frail sailor resting in bed | Palliation for the unfit (C, the answer)
+3: 45 25 20 | Balloon in the stone mouth | Balloon aortic valvuloplasty
+4: 55 65 16 | Fit old man with a cane, walking on | Age alone: not an indication
+5: 82 58 11 | New dentures waiting | Valve replacement for the fit
+question: 3 4 5
+answer: 1 2
+== 274
+1: 55 70 16 | Doberman pulling hard | Dobutamine: no survival gain (the answer)
+2: 15 22 10 | Tennis serve | ACE inhibitors improve survival
+3: 35 25 10 | Hockey goalkeeper | Beta-blockers improve survival
+4: 75 22 11 | Cabbage on the crown | Surgical revascularisation (STICH)
+5: 50 40 30 | Cake of years with candles | Longer survival
+6: 85 60 15 | Taxi jam | Heart failure
+question: 2 3 4 5 6
+answer: 1
+== 276
+1: 85 55 12 | Disco dancer stepping out | Dyskinesis: paradoxical motion (the answer)
+2: 48 50 25 | Ring of flamenco dancers stepping in | Normal inward motion
+3: 30 47 8 | Dancer stepping in a little | Hypokinesis
+4: 65 47 8 | Dancer standing still | Akinesis
+5: 18 22 9 | Bat inside the slide | Transoesophageal echo
+6: 88 28 9 | Stag with an arrow | Ischaemia, infarction
+question: 2 3 4 5 6
+answer: 1
+== 277
+1: 40 60 18 | Robin's arms squeezing the lobby | Left atrial contraction (the answer)
+2: 35 42 8 | Small splash jumping back up | PVa reversal wave
+3: 25 15 12 | Waves rushing down the pipes | Forward S and D waves
+4: 85 65 9 | Trembling Pinocchio, no splash | Atrial fibrillation: no PVa
+5: 82 6 7 | Police car lights | Pulsed Doppler
+question: 3 4 5
+answer: 1 2
+== 278
+1: 50 30 20 | Jet racing round the lobby wall | Eccentric wall-impinging jet (the answer)
+2: 50 55 15 | Mitre that no longer closes | Mitral regurgitation
+3: 30 80 10 | Usopp's small ruler | Small jet thresholds: too low
+4: 85 25 8 | Bat with sound rings | Colour Doppler echo
+question: 2 3 4
+answer: 1
+== 279
+1: 55 75 16 | Tape past 50 when emptiest | LV end-systolic dimension >50 mm (the answer)
+2: 40 55 9 | Usopp's stopwatch at 300 | Half-time 300 ms: too slow for severe
+3: 60 45 10 | Mouth gurgling back | Aortic regurgitation
+4: 40 15 12 | Water running back along the tail | Holodiastolic reversal in the aorta
+5: 85 70 11 | Chopper reading the tape | Measured at end-systole
+question: 2 3 4 5
+answer: 1
+== 280
+1: 60 40 16 | Broad flood marked 1.5 | 1.5 cm2 aortic leak: not normal (the answer)
+2: 30 60 9 | Robot with one central jet | Medtronic-Hall central jet: normal
+3: 27 85 11 | Robot with four small jets | St Jude bileaflet jets: normal
+4: 53 63 9 | Robot with two unequal jets | Other built-in washing jets
+5: 78 82 11 | Robot with a mitre hat | Mitral prosthesis
+question: 2 3 4 5
+answer: 1
+== 281
+1: 50 40 16 | Dead scar glowing white | Scar, infarction (the answer)
+2: 50 25 20 | Giant red magnet | MRI
+3: 80 85 11 | Gold dust in the river | Gadolinium contrast
+4: 70 45 7 | Empty hourglass | Delayed images (~10 min)
+5: 50 66 12 | Stag shot long ago | Old myocardial infarction
+question: 2 3 4 5
+answer: 1
+== 282
+1: 50 60 8 | Shrivelled grey kidney beans | Renal failure (the answer)
+2: 50 80 12 | Beans tied to the washing machine | Dialysis
+3: 58 45 18 | Skin turned to wood | Nephrogenic systemic fibrosis
+4: 15 22 10 | Swollen liver | Liver disease: not the risk
+5: 50 10 12 | Magnet showering gold dust | Gadolinium MRI
+question: 4 5
+answer: 1 2 3
+== 283
+1: 60 22 12 | Smoker's radar on the magnet | Velocity-encoded MRI (the answer)
+2: 25 20 14 | Water gurgling back from the mouth | Aortic regurgitation
+3: 63 33 10 | Counter of forward and back | Regurgitant volume and fraction
+4: 30 62 9 | Jar of gold dust | Delayed enhancement: scar, not flow
+5: 75 87 11 | Film strip | Cine: motion, not flow
+question: 2 4 5
+answer: 1 3
+== 286
+1: 70 45 15 | Drawbridge coming down again | Most AV block is temporary (the answer)
+2: 70 35 10 | Swollen chains | Oedema near the conduction tissue
+3: 85 85 9 | Drummer keeping the beat | Temporary pacing wires
+4: 15 70 15 | Calendar of passing days | Recovers within days
+5: 20 15 11 | Gauge in the red | Long cross-clamp time: a risk
+question: 2 5
+answer: 1 3 4
+== 287
+1: 92 30 5 | Small blue diamond pill | Sildenafil (the answer)
+2: 70 45 18 | Wooden blocks floating away | Lower pulmonary vascular resistance
+3: 20 42 7 | Lemon squeezed into the river | Acidosis raises PVR
+4: 85 55 10 | Blue-lipped gasping child | Hypoxia raises PVR
+5: 12 70 12 | River thick with red doughnuts | Polycythaemia raises PVR
+6: 88 82 10 | Screaming, thrashing child | Agitation raises PVR
+question: 3 4 5 6
+answer: 1 2
+== 323
+1: 85 20 13 | Months 5-6 circled on the calendar | Elective repair at 5-6 months (the answer)
+2: 50 55 14 | Pink baby feeding happily | No cyanosis: observe
+3: 20 22 8 | Tetris piece | Tetralogy of Fallot
+4: 75 60 11 | Scalpel put away | No surgery now
+5: 12 55 9 | Spring in the funnel | RVOT stent: not needed
+6: 12 80 9 | Goalkeeper | Beta-blocker: not needed
+7: 50 85 12 | Hose from the fin | Shunt: not needed
+question: 3 5 6 7
+answer: 1 2 4
+== 324
+1: 50 50 40 | All four at once | All of the above (the answer)
+2: 60 28 13 | Stiff leather boot room | Restrictive right ventricle
+3: 45 30 8 | Bucket of water poured in | Volume loading
+4: 15 50 12 | Bellows put away | Gentle spontaneous breathing
+5: 70 65 9 | Mopping the puddles | Drain effusions, ascites
+6: 85 75 12 | Box of fireworks pushed away | Avoid inotropes
+question: 2
+answer: 1 3 4 5 6
+== 325
+1: 50 22 14 | Mitre shut tight, dry | Mitral insufficiency: not a late problem (the answer)
+2: 88 35 10 | Weak blue fan | RV dysfunction, pulmonary regurgitation
+3: 85 55 10 | Pirate dancing off the beat | Arrhythmias
+4: 75 85 12 | Clamp squeezing the money pipe | Residual pulmonary stenosis
+5: 93 65 9 | Coffin in the shadow | Sudden death
+question: 2 3 4 5
+answer: 1
+== 326
+1: 18 82 12 | Spaghetti strands from the gut plate | Splanchnic origin (the answer)
+2: 55 50 20 | Dotted treasure-map paths | MAPCAs
+3: 58 30 12 | Money pipe welded shut | Pulmonary atresia
+4: 45 20 12 | Paths starting behind the arch | From the descending aorta
+5: 35 65 9 | Money sacks at path ends | Lung segments supplied
+question: 2 3 4 5
+answer: 1
+== 328
+1: 15 35 10 | Usopp's camera at the crown | Coronary angiography: not required (the answer)
+2: 60 50 18 | Dye lighting every path | Map every collateral and stenosis
+3: 60 42 16 | Dye poured back from the sacks | Pulmonary vein wedge angiography
+4: 80 60 9 | Fishing line measuring | Pressures measured
+5: 23 35 8 | Green crown | Coronary arteries: usually normal
+question: 2 3 4 5
+answer: 1
+== 329
+1: 40 45 10 | Paths through the tunnel floor | Transverse sinus floor route (the answer)
+2: 40 25 18 | Orca behind the hotel | Collaterals from the descending aorta
+3: 40 55 12 | Paths joined into one road | Unifocalization
+4: 88 50 11 | Pump truck running, no clamp | On bypass, beating heart
+5: 15 75 9 | Usopp's long road round the front | Longer anterior route: no
+question: 2 3 4 5
+answer: 1
+== 330
+1: 52 25 16 | Sign 75% over three maps | About 75% complete in one stage (the answer)
+2: 40 50 25 | Three maps joined in one trip | Complete unifocalization
+3: 87 50 11 | Fourth map, half done | Staged repair for the rest
+4: 25 65 9 | Wall hole patched | VSD closed
+5: 70 85 14 | Golden road widened later | Later reintervention
+question: 3 4 5
+answer: 1 2
+== 331
+1: 50 57 12 | Brass collar, normal size | Annulus normal or small (the answer)
+2: 50 20 22 | Usopp's giant collar | Wrong: a wide annulus
+3: 50 45 12 | Domed door with a small top hole | Dome-shaped valve, fused commissures
+4: 50 62 12 | Iron clamp on the pipe | Pulmonary stenosis
+5: 80 40 12 | Thick red muscle in the blue room | RV hypertrophy, normal size
+question: 2 3 4 5
+answer: 1
+== 333
+1: 50 33 14 | Sign 85% above the coffins | 85% mortality by 6 months (the answer)
+2: 75 55 18 | Rows of coffins | Untreated infants die
+3: 20 10 11 | Welded pipe door | Pulmonary atresia
+4: 50 90 18 | Duct-tape tunnel from the orca | Ductus arteriosus dependent
+5: 85 85 10 | Chopper raising a beer | Prostaglandin keeps the duct open
+6: 80 18 13 | Blue room with a trident | RV size, tricuspid valve, coronaries
+question: 3 4 5 6
+answer: 1 2
+== 334
+1: 45 40 17 | Red rope tying the fist tunnel | Ligation on the heart's surface (the answer)
+2: 40 30 15 | Broad fist-made tunnel | Broad RV-to-coronary fistula
+3: 75 25 16 | Green crown spike | Coronary artery
+4: 18 72 9 | Hippo stuck in a doll-size room | Small RV: decompression alone fails
+5: 60 70 13 | Pipe door forced open | RV decompression
+question: 4 5
+answer: 1 2 3
+== 337
+1: 30 25 15 | Two funnels under one hotel | Bilateral coni in over 75% (the answer)
+2: 50 5 10 | Sign 75% | Over 75 percent
+3: 20 25 6 | Hole under the orca | Subaortic VSD
+4: 85 72 11 | Cherries thrown from under the pipe | Taussig-Bing: subpulmonary VSD
+5: 50 45 15 | Both pipes leaving the blue room | Double outlet right ventricle
+question: 4 5
+answer: 1 2 3
+== 338
+1: 84 68 9 | Child with blue lips | Cyanosis (the answer)
+2: 51 59 11 | Funnel shoved forward, narrowing | Anterior infundibular septal deviation
+3: 67 40 6 | Hole under the orca | Subaortic VSD
+4: 25 55 12 | Cherries from under the pipe | Taussig-Bing type
+5: 25 33 8 | Rope round the orca's waist | Coarctation with Taussig-Bing
+question: 4 5
+answer: 1 2 3
+== 339
+1: 50 88 12 | Cake with one unlit candle | Complete repair within the first year (the answer)
+2: 40 72 15 | White tunnel to the orca | LV-to-aorta tunnel through the VSD
+3: 60 45 14 | Funnel widened under the pipe | RVOT obstruction relieved
+4: 15 18 11 | Usopp's calendar of years | Waiting years: no
+5: 85 25 13 | Switchman's lever | Taussig-Bing: arterial switch
+question: 4 5
+answer: 1 2 3
+== 340
+1: 25 25 14 | New mouth gurgling back | More neoaortic regurgitation in DORV (the answer)
+2: 72 25 13 | Other hotel's mouth dry | Simple transposition: less
+3: 50 65 25 | Switchman's lever | Arterial switch
+4: 25 30 9 | Shower curtain under the mouth | Recurrent subaortic obstruction
+question: 3 4
+answer: 1 2
+== 342
+1: 70 65 18 | Fourth hotel, pipes from the orca's back | Type IV: from the descending aorta (the answer)
+2: 15 30 10 | Short single trunk | Type I
+3: 88 33 10 | Two close pipes from the back | Type II
+4: 15 42 10 | Two pipes from the sides | Type III
+5: 55 25 22 | Money pipes from beyond the arch | Pseudotruncus: PA-VSD with MAPCAs
+question: 2 3 4
+answer: 1 5
+== 343
+1: 40 70 9 | Root from the left of the trunk | Left coronary from the left of the truncus (the answer)
+2: 78 70 9 | Root from the front-right | Right coronary origin
+3: 58 82 16 | Green crown | Coronary arteries
+4: 45 45 22 | Single great trunk | Truncus arteriosus
+5: 15 87 10 | Usopp hunting a third root | Single or third ostium: rare
+question: 2 3 4 5
+answer: 1
+== 347
+1: 37 67 10 | Pink baby, free tap, playing | Unobstructed: late presentation (the answer)
+2: 74 67 10 | Blue baby, pinched tap | Obstructed: early, severe cyanosis
+3: 88 64 7 | Soggy dripping bills | Pulmonary oedema
+4: 50 50 12 | One pipe to a wrong-side tap | Total anomalous pulmonary venous return
+5: 13 28 7 | Swollen blue rooms | Large right heart
+6: 14 37 6 | Small red rooms | Small left heart
+question: 2 3 4 5 6
+answer: 1
+== 351
+1: 52 45 14 | Red water crossing the bridges | Effective flow = anatomic shunt (the answer)
+2: 22 60 15 | Red loop circling | Pulmonary circulation
+3: 78 60 15 | Blue loop circling | Systemic circulation
+4: 52 42 6 | Hole in the upper wall | Atrial septal defect
+5: 55 58 8 | Duct-tape tunnel with beer | PDA kept open by prostaglandin
+6: 70 90 11 | City reached by the bridge water | Body supplied
+question: 2 3 4 5 6
+answer: 1
+== 352
+1: 40 60 30 | Most blue babies silent | Murmur often absent (the answer)
+2: 25 20 14 | Usopp's ear trumpet | Wrong: 90% have murmurs
+3: 85 37 9 | A whooshing hotel | Murmur with VSD or obstruction
+4: 30 90 12 | Blue lips and fingers | Cyanosis in nearly all
+question: 2 3 4
+answer: 1
+== 354
+1: 58 80 14 | Iron clamp above the sewn door | Supravalvar pulmonary stenosis (the answer)
+2: 15 20 11 | Crown buttons checked | Coronary problems: less common
+3: 40 63 12 | Balloon and patch | Reintervention to widen it
+4: 50 44 10 | Switchman's lever | Arterial switch
+question: 2 4
+answer: 1 3
+== 360
+1: 58 78 28 | Both doors welded shut | Aortic atresia with mitral atresia (the answer)
+2: 32 75 10 | Orca's mouth welded | Aortic atresia
+3: 85 75 11 | Mitre welded shut | Mitral atresia
+4: 59 82 11 | Hippo stuck in a doll-size wing | Hypoplastic left heart
+5: 60 20 22 | Hippos on the shelves | Stenotic forms: less common
+6: 25 30 13 | Usopp's screwdriver | Wrong: only one narrow door
+question: 2 3 4 5 6
+answer: 1
+== 361
+1: 61 71 16 | Six blue caps | Slight male predominance (the answer)
+2: 60 54 12 | Four pink caps | Girls: fewer
+3: 15 55 11 | Usopp: far more girls | Wrong
+4: 90 50 9 | Carved X turnip | Turner syndrome
+5: 30 25 22 | Hippos in the cribs | HLHS infants
+question: 3 4 5
+answer: 1 2
+== 363
+1: 37 85 12 | Baby with blue lips | More hypoxia before 3 months (the answer)
+2: 19 50 11 | Calendar torn too early | Before 3 months of age
+3: 62 85 11 | Wooden blocks in the money pipe | High pulmonary resistance
+4: 46 40 14 | Astronaut bending the blue chimney | Cavopulmonary (Glenn) anastomosis
+5: 78 50 11 | Builder making half a tunnel | Hemi-Fontan
+question: 3 4 5
+answer: 1 2
+== 364
+1: 25 25 13 | Clear waterslide from the blue room | RV-PA conduit (Sano) (the answer)
+2: 40 53 25 | More hotels standing on the slide row | Better 12-month survival
+3: 85 28 11 | Green hose from the orca's fin | Modified BT shunt
+4: 90 55 9 | First birthday cake | At 12 months
+5: 20 88 13 | Mother's daily notebook | Interstage home monitoring
+6: 55 28 13 | Lumberjack joining the big pipe | Norwood stage I
+question: 3 4 6
+answer: 1 2 5
+== 369
+1: 63 62 18 | Water in a narrow tunnel | Lateral tunnel: fewer arrhythmias (the answer)
+2: 22 30 16 | Old fountain through the lobby | Atriopulmonary Fontan
+3: 22 55 14 | Pirate dancing in the swollen lobby | Atrial arrhythmias
+4: 15 40 10 | Saw-tooth bunting | Atrial flutter
+5: 70 90 11 | Black bowling balls rolling | Thromboembolism
+question: 2 3 4 5
+answer: 1
+== 373
+1: 85 40 15 | Rose growing with the child | Autograft grows (the answer)
+2: 50 15 14 | Tissue box staying small | Bioprosthesis: no growth
+3: 25 80 14 | Rose moved from the money pipe | Patient's own pulmonary valve
+4: 75 75 15 | Gardener tending the pipe | Later pulmonary reintervention
+question: 2 4
+answer: 1 3
+== 375
+1: 88 65 9 | Cross-shaped hole staying away | Partial AVSD: not associated (the answer)
+2: 35 45 22 | Rope round the orca's waist | Coarctation of the aorta
+3: 32 50 9 | Bicycle in the orca's mouth | Bicuspid aortic valve
+4: 42 69 10 | Hole in the lower wall | Ventricular septal defect
+5: 25 82 9 | Cherry seller | Taussig-Bing anomaly
+6: 75 37 9 | Mitre on one parachute | Parachute mitral valve (Shone)
+question: 2 3 4 5 6
+answer: 1
+== 377
+1: 50 85 15 | Angry red spaghetti plate | Postcoarctectomy syndrome, 5-10% (the answer)
+2: 15 15 9 | Lantern 5-10% | 5 to 10 percent
+3: 70 35 11 | Gauge jumping up | Paradoxical hypertension
+4: 35 45 13 | Rope cut from the waist | Coarctation repair
+5: 60 65 13 | Diner clutching his belly | Abdominal pain
+6: 40 5 7 | Kiwi on the orca's back | Spinal cord: paraplegia rare
+question: 3 4 6
+answer: 1 2 5
+== 383
+1: 50 30 15 | Idle crew on the outer skin | Adventitial molecular events (the answer)
+2: 83 43 20 | Pink bubble swelling | Aortic aneurysm
+3: 30 55 12 | Usopp poking the inner lining | Wrong: lining only
+4: 45 13 16 | Puppet on twisted strings | Marfan: fibrillin-1
+question: 2 3 4
+answer: 1
+== 385
+1: 50 50 13 | Ruler reading 3 on the swing | 8-year-old, z-score 3: no surgery (the answer)
+2: 15 22 11 | Big doll at 5 | Marfan root about 5 cm: operate
+3: 85 22 9 | Doll at 12 | Rapid growth: operate
+4: 18 65 12 | Dripping orca mouth | Progressive aortic regurgitation: operate
+5: 50 87 13 | Torn zipper in the family album | Family history of dissection: operate
+question: 2 3 4 5
+answer: 1
+== 386
+1: 75 50 18 | Leaf billowing like a sail | Asymmetric prolapse: unsuitable (the answer)
+2: 15 30 12 | Orca with a torn zipper | Acute dissection: suitable
+3: 40 47 9 | Orca with a small brass collar | Small annulus: suitable
+4: 55 33 9 | Bicycle in the orca's mouth | Bicuspid valve: suitable
+5: 70 15 14 | Mitre repaired too | Concomitant mitral repair: suitable
+6: 45 60 14 | David the shepherd | Valve-sparing (David) operation
+question: 2 3 4 5 6
+answer: 1
+== 387
+1: 30 35 16 | Free brass collar stretching | Remodelling: obsolete in children (the answer)
+2: 30 12 10 | Mouth leaking again | Late aortic regurgitation
+3: 70 45 18 | Collar held inside the tube | Reimplantation (David): preferred
+4: 15 50 10 | Usopp applauding | Wrong: quick and neat
+question: 2 3 4
+answer: 1
