@@ -1,0 +1,175 @@
+book: sesat-13
+
+== 81
+# Q: mitral repair for P2 prolapse (neochords, complete ring); on weaning the left ventricle distends: most likely cause? A: entrapment of the non-coronary cusp of the aortic valve
+# a stitch of the new brass ring on the mitre hooked through the plain back lip of the orca's mouth, holding it open, water pouring back into the red room so it swells = non-coronary cusp caught by a ring stitch, acute AR -> ANSWER
+# the brass ring sewn round the mitre = complete annuloplasty ring
+# the new harp strings to the back flap = neochords to the posterior leaflet
+# the scallop = P2
+# the soap bubble in the rainbow and the acrobat unharmed set aside = not air in the RCA, not circumflex injury
+title: LV distension after mitral repair: a ring stitch caught the non-coronary cusp
+titleAr: تمدّد البطين الأيسر بعد إصلاح الميترال: غرزة الحلقة علقت بالشرفة اللاتاجية
+tags: cardiac/mitral-tricuspid d:complications q:vignette l:3 x:trap
+palette: brass and sea-green with orca black and white
+words:
+keywords: annuloplasty ring -> a new brass ring sewn round the mitre's collar; aortic valve -> the orca balloon's mouth, its lips meeting just beside the mitre; non-coronary cusp -> the plain back lip of the orca's mouth, the one with no crown spike near it; entrapment -> one stitch of the brass ring hooked through that lip, holding it open; aortic regurgitation -> water pouring back through the orca's mouth, which cannot shut; left ventricular distension -> the red engine room swelling like a balloon round its big fan; tired young man -> a young man yawning by the door; chordae -> new harp strings running from the mitre's back flap to the floor; scallops -> a scallop shell in the middle of the mitre's back flap; mitral -> the mitre on the hotel's inner door; weaning -> the roller-pump truck's hose being turned down; air in the right coronary (no) -> a soap bubble in the rainbow spike, set aside; circumflex (no) -> the acrobat on the back-left spike, unharmed; anterior jet -> a jet of water squirting forwards
+anchor: the most likely cause -> one stitch of the new brass ring on the mitre hooked through the plain back lip of the orca's mouth, holding it open, water pouring back into the red room so that it swells like a balloon
+scene: A brass-lit operating deck in Water 7; a young man yawns by the door. The cut-open HART Hotel: on its inner door a mitre with a new brass ring sewn round its collar, new harp strings running from its back flap to the floor and a scallop shell in the middle of the back flap; a jet of water squirts forwards. The roller-pump truck's hose is being turned down. In the centre, in the strongest light: one stitch of the brass ring is hooked through the plain back lip of the orca balloon's mouth, the lip with no crown spike near it, holding it open; water pours back through the mouth into the red engine room, which swells like a balloon round its big fan. A soap bubble in the rainbow spike is set aside, and the acrobat on the back-left spike stands unharmed. Chopper points at the hooked stitch.
+must: the stitch caught in the orca's lip is the brightest, central thing; no letters or digits are written anywhere
+
+== 82
+# Q: mechanical mitral valve (rheumatic), pregnant in the second trimester, warfarin 5 mg/day: anticoagulation for the rest of pregnancy? A: warfarin to a therapeutic INR
+# the small rat with a hamsa tattoo nibbling steadily beside the robot mitre, its dart hitting the bullseye, while the middle of three moons glows = low-dose warfarin to target INR in the 2nd-3rd trimester -> ANSWER
+# the robot in the doorway = mechanical mitral valve
+# the round belly = pregnancy
+# the scarlet beads = rheumatic disease
+# the hare, the asp with clogs and the shiny new pill box waved away = heparin, antiplatelets, NOAC are wrong here
+title: Mechanical valve in pregnancy, warfarin 5 mg or less: continue warfarin in the second trimester
+titleAr: صمام ميكانيكي مع حمل وجرعة وارفارين خمسة أو أقل: تابع الوارفارين في الثلث الثاني
+tags: cardiac/mitral-tricuspid d:pharmacology q:vignette l:2 x:guideline
+palette: moonlight silver and robot steel with a warm belly pink
+words:
+keywords: mechanical valve -> a small steel robot standing in the mitre's doorway; warfarin -> a small grey rat nibbling steadily at the robot's feet; number 5 (warfarin dose, mg per day) -> a small tattoo on the rat: a blue hamsa hand; therapeutic inr -> a dart thrown by the rat hitting the bullseye; pregnancy -> the woman's round belly, a baby curled inside; second trimester -> the middle of three moons glowing; rheumatic -> a string of scarlet beads on the robot's neck; nausea -> a basin held by the woman; pregnancy test -> a little test stick with two lines; heparin (no) -> a white hare waved away; antiplatelets (no) -> an asp and a pair of clogs waved away; new pill (no) -> a shiny new pill box waved away
+anchor: the best approach -> a small grey rat with a hamsa-hand tattoo nibbling steadily at the feet of the steel robot in the mitre's doorway, its dart hitting the bullseye, while the middle of three moons glows above the woman's round belly
+scene: A silver moonlit cabin on the Thousand Sunny, three moons in the sky, the middle one glowing. A woman sits with her round belly, a baby curled inside, a basin in her hands and a little test stick with two lines beside her. Beside her the cut-open HART Hotel: a small steel robot stands in the mitre's doorway with a string of scarlet beads on its neck. In the centre, in the strongest light: a small grey rat with a small tattoo of a blue hamsa hand nibbles steadily at the robot's feet, and a dart it threw hits the bullseye. Chopper waves away a white hare, Usopp waves away an asp and a pair of clogs, and a shiny new pill box is waved away.
+must: the rat stays, close to the robot; no letters or digits are written anywhere
+
+== 83
+# Q: 23-year-old with hypertension and claudication; discrete post-ductal coarctation at the isthmus, gradient 40, rib notching, collaterals: best treatment? A: transcatheter stent
+# Franky pushing a big Slinky through the tight rope round the orca's waist, springing it open = stent for adult coarctation -> ANSWER
+# the rope cinching the orca just past the little bridge = discrete coarctation at the isthmus
+# the cap and whistle tattoo on the rope = gradient 40
+# the red gauge = hypertension
+# Claudius limping = claudication
+# the vines round the waist and the bitten ribs = collaterals and rib notching
+# the plain balloon and the saw set aside = balloon alone or surgery are not best for this adult
+title: Adult discrete coarctation: a transcatheter stent
+titleAr: تضيّق برزخ الأبهر عند البالغ: دعامة عبر القثطرة
+tags: cardiac/aorta cardiac/congenital d:indications q:vignette l:2
+palette: rope brown and Slinky silver with gauge red
+words:
+keywords: coarctation -> a tight rope cinching the orca balloon's waist; stent -> a big silver Slinky Franky pushes through the rope, springing the waist open; aorta -> the giant orca balloon above the hotel; number 40 (gradient, mmHg) -> a small tattoo on the rope: a graduation cap and a golden whistle; hypertension -> a pressure gauge on the orca's head, needle deep in the red; claudication -> Claudius the old Roman emperor limping on tired legs; isthmus -> a little stone bridge just before the rope; collaterals -> green vines growing round the waist from above to below; rib notching -> ribs with little bite marks on their lower edges; discrete -> a single thin waist, short and sharp; plain balloon (no) -> a plain balloon waved away; surgery (no) -> a saw set aside
+anchor: the best treatment -> Franky pushing a big silver Slinky through the tight rope cinching the orca balloon's waist, springing the waist open
+scene: A rope-brown harbour on a Grand Line island. A young man stands beside Claudius the old Roman emperor, who limps on tired legs; ribs with little bite marks on their lower edges hang on a wall. Above them the giant orca balloon: a pressure gauge on its head has its needle deep in the red, and a little stone bridge sits just before a tight rope cinching its waist to a single thin, short, sharp waist, a small tattoo on the rope of a graduation cap and a golden whistle; green vines grow round the waist from above to below. In the centre, in the strongest light: Franky pushes a big silver Slinky through the rope, springing the waist open. Chopper waves away a plain balloon, and a saw is set aside.
+must: the Slinky inside the roped waist is the brightest, central thing; no letters or digits are written anywhere
+
+== 84
+# Q: ICD for 15 years, second generator change; pocket infection, generator now exposed despite oral antibiotics: best strategy? A: remove the whole system (generator and leads), later implant a new one on the other side
+# Franky pulling out the bodyguard's whole box AND its long wires from the chimney, and a new bodyguard waiting on the far side later = complete system removal, new ICD contralaterally -> ANSWER
+# the box poking out of a torn breast pocket = exposed generator
+# the golden grapes on the wires = the infection reaches the leads
+# the bouncer with a dragon and hamsa tattoo = EF 25%
+# the pencil = oral antibiotics that failed
+# the needle and thread, the hose and the box alone waved away = reclosing, irrigating or changing only the generator fail
+title: Exposed ICD generator: remove the whole system, reimplant on the other side
+titleAr: مولّد مزيل رجفان مكشوف: انزع الجهاز كاملاً وأعد الزرع في الجهة الأخرى
+tags: cardiac/arrhythmia d:complications q:next-step l:2 x:high-yield
+palette: hospital white and bodyguard navy with grape gold
+words:
+keywords: implantable cardioverter defibrillator -> a broad bodyguard in a navy suit whose box sits in his breast pocket; exposed generator -> the box poking out through a torn breast pocket; leads -> the bodyguard's long wires running down the chimney into the hotel; staphylococcus -> golden grapes clinging along the wires; complete removal -> Franky pulling out the whole box AND all its long wires together; contralateral -> a new bodyguard waiting on the far side of the hotel; later -> an hourglass beside the new bodyguard; superior vena cava -> the hotel's chimney the wires run down; ejection fraction -> a nightclub bouncer at the red room's door throwing out few guests; number 25 (ejection fraction, percent) -> a small tattoo on the bouncer's arm: a green dragon and a blue hamsa hand; antibiotics -> a pencil that failed, snapped; reclose (no) -> a needle and thread waved away; generator only (no) -> the box alone waved away
+anchor: the best strategy -> Franky pulling out the bodyguard's whole box AND all its long wires together from the chimney, golden grapes clinging along them, while a new bodyguard waits on the far side beside an hourglass
+scene: A white hospital deck on Water 7. An old bodyguard in a navy suit stands by the cut-open HART Hotel; the box in his breast pocket pokes out through the torn pocket, and his long wires run down the hotel's chimney, golden grapes clinging along them. At the red room's door a nightclub bouncer, a small tattoo on his arm of a green dragon and a blue hamsa hand, throws out few guests. A snapped pencil lies on the floor. In the centre, in the strongest light: Franky pulls out the whole box AND all its long wires together from the chimney. On the far side of the hotel a new bodyguard waits beside an hourglass. Chopper waves away a needle and thread, and Usopp waves away the box alone.
+must: box and wires come out together; the new bodyguard is on the OTHER side; no letters or digits are written anywhere
+
+== 85
+# Q: young triathlete with HCM (septum 2.1 cm, SAM, moderate MR, provoked gradient 80), father and cousin died suddenly young: besides myectomy? A: an ICD
+# the bodyguard stepping in to guard the bodybuilder while Usopp chisels the thick wall, two coffins of the father and cousin behind = ICD for family sudden death -> ANSWER
+# the bodybuilder flexing in the wall with a dragon, drop and unicorn tattoo = HCM, septum 2.1 cm
+# Uncle Sam pulling the mitre's front flap, water gurgling = SAM with MR (fixed by myectomy)
+# the chisel = septal myectomy
+# the man in a wetsuit with running shoes = triathlete
+# the robot, the tissue box and the brass ring set aside = no mitral replacement or ring
+title: HCM with family sudden deaths: myectomy plus an ICD
+titleAr: اعتلال ضخامي مع موت مفاجئ في العائلة: استئصال الحاجز مع مزيل رجفان
+tags: cardiac/heart-failure cardiac/arrhythmia d:indications q:vignette l:2
+palette: gym steel grey with bodyguard navy and coffin black
+words:
+keywords: implantable cardioverter defibrillator -> a broad bodyguard in a navy suit stepping in to guard the bodybuilder; hypertrophic cardiomyopathy -> a bodybuilder flexing huge muscles inside the wall between the engine rooms; number 2.1 (septal thickness, cm) -> a small tattoo on the bodybuilder's arm: a green dragon, a golden drop and a white unicorn; septal myectomy -> Usopp chiselling a slab off the bodybuilder's thick wall with a chisel; systolic anterior motion -> Uncle Sam in a starry top hat pulling the mitre's front flap into the doorway; mitral regurgitation -> water gurgling back past the mitre; sudden death -> two coffins behind the hotel, the father's and the cousin's; triathlete -> a man in a wetsuit with running shoes; family -> an old family photo on the coffins; normal coronaries -> the green crown shining clean; mechanical valve (no) -> a robot set aside; progressive breathlessness -> the man panting; provoked gradient -> a hornets' nest poked with a stick, buzzing louder; annuloplasty (no) -> a brass ring set aside
+anchor: the best management besides myectomy -> a broad bodyguard in a navy suit stepping in to guard the bodybuilder while Usopp chisels a slab off his thick wall, two coffins standing behind
+scene: A steel-grey gym on Sabaody. A man in a wetsuit with running shoes stands panting, a hornets' nest beside him poked with a stick and buzzing louder. Behind him two coffins with an old family photo on them. The cut-open HART Hotel, its green crown shining clean: a bodybuilder flexes huge muscles inside the wall between the engine rooms, a small tattoo on his arm of a green dragon, a golden drop and a white unicorn; Uncle Sam in a starry top hat pulls the mitre's front flap into the doorway, and water gurgles back past it. In the centre, in the strongest light: Usopp chisels a slab off the bodybuilder's thick wall, and a broad bodyguard in a navy suit steps in to guard the bodybuilder. A robot and a brass ring are set aside.
+must: the bodyguard and the chisel are the brightest, central thing; no letters or digits are written anywhere
+
+== 86
+# Q: three months after CABG, EF 30%, QRS 115, inferior Q waves, moderate MR and TR, mild symptoms: next? A: an ICD
+# the bodyguard planting himself at the hotel gate, catching Pinocchio's ammo before it is fired = ICD for EF 30% after the 90-day wait -> ANSWER
+# the bouncer with a fox and whistle tattoo = EF 30%
+# the queue at the lower floor = inferior Q waves (old infarct)
+# the narrow door = QRS 115: no CRT
+# the two drummers, the bow tie and Vader waved away = no biventricular pacing, MitraClip or LVAD
+title: EF 30% three months after CABG, narrow QRS: an ICD, not CRT
+titleAr: كسر قذف ٣٠ بعد المجازات بثلاثة أشهر مع QRS ضيّق: مزيل رجفان لا إعادة تزامن
+tags: cardiac/arrhythmia d:indications q:next-step l:2 x:trap
+palette: desert sand and turquoise with bodyguard navy
+words:
+keywords: implantable cardioverter defibrillator -> a broad bodyguard in a navy suit planting himself at the hotel gate; ventricular fibrillation -> Pinocchio with a jittering nose sneaking up, his ammo caught by the bodyguard; ejection fraction -> a nightclub bouncer at the red room's door throwing out few guests; number 30 (ejection fraction, percent) -> a small tattoo on the bouncer's arm: a red fox with three tails and a golden whistle; q waves -> a long queue of people waiting at the hotel's lower floor; narrow qrs -> a narrow door in the engine room; cardiac resynchronization therapy (no) -> two drummers waved away; edge-to-edge repair (no) -> a bow tie waved away; ventricular assist device (no) -> Darth Vader waved away; mitral regurgitation -> a little water gurgling back past the mitre; cabg -> cabbage leaves on the green crown; leg swelling -> puffy ankles; waiting period -> an emptied hourglass; mild symptoms -> the man climbing a few steps slowly but steadily
+anchor: the best next step -> a broad bodyguard in a navy suit planting himself at the hotel gate and catching Pinocchio's ammo before it is fired, the bouncer behind him with a fox-and-whistle tattoo
+scene: A sandy desert town on Alabasta, turquoise sky. A man with puffy ankles climbs a few steps slowly but steadily past an emptied hourglass. The cut-open HART Hotel, cabbage leaves on its green crown, a little water gurgling back past the mitre; a long queue of people waits at its lower floor; a narrow door stands in the engine room; at the red room's door a nightclub bouncer, a small tattoo on his arm of a red fox with three tails and a golden whistle, throws out few guests. In the centre, in the strongest light: a broad bodyguard in a navy suit plants himself at the hotel gate and catches Pinocchio's ammo before it is fired, Pinocchio's nose jittering. Chopper waves away two drummers, a bow tie and Darth Vader.
+must: the bodyguard is the brightest, central figure; no letters or digits are written anywhere
+
+== 87
+# Q: a 17-year-old evaluated for Marfan syndrome: best confirmation? A: a family history of Marfan plus an aortic root of 4.5 cm with Z-score 3.5
+# the young marionette standing beside her parent marionette on the family tree, a zebra measuring her swollen salsa jar = family history plus root Z-score -> ANSWER
+# the salsa jar with a cap, drop and hamsa tattoo = root 4.5 cm
+# the zebra = Z-score
+# the split little bell, the DNA ladder and the excavator waved away = uvula, gene test alone, pectus are not the best confirmation
+title: Confirming Marfan: family history plus a dilated root (Z-score of 2 or more)
+titleAr: تأكيد مارفان: قصة عائلية مع جذر متوسّع (معدّل Z اثنان فأكثر)
+tags: cardiac/aorta d:diagnosis q:recall l:2
+palette: family-tree green with salsa red and zebra stripes
+words:
+keywords: marfan -> a tall young marionette on strings standing beside her parent marionette; family history -> the two marionettes hanging on the same family tree; aortic root -> a swelling jar of red salsa at the base of the orca balloon; number 4.5 (aortic root, cm) -> a small tattoo on the salsa jar: a graduation cap, a golden drop and a blue hamsa hand; z-score -> a zebra measuring the jar with a tape against a row of normal jars; normal range -> a row of smaller, normal jars; teenager -> the young marionette's school bag; genetic test (no) -> a twisted ladder of beads waved away; bifid uvula (no) -> a split little bell waved away; pectus excavatum (no) -> an excavator waved away; blue sclera (no) -> blue marbles waved away; aorta -> the giant orca balloon
+anchor: the best confirmation -> the young marionette standing beside her parent marionette on the same family tree, while a zebra measures her swelling salsa jar against a row of smaller, normal jars
+scene: A green garden in Water 7 with a great family tree. On it hang a tall young marionette on strings, a school bag on her back, and beside her, her parent marionette. Above them the giant orca balloon with a swelling jar of red salsa at its base, a small tattoo on the jar of a graduation cap, a golden drop and a blue hamsa hand. In the centre, in the strongest light: a zebra measures the jar with a tape against a row of smaller, normal jars. Chopper waves away a twisted ladder of beads and a split little bell; Usopp waves away an excavator and blue marbles.
+must: the two marionettes on one tree and the zebra are the brightest, central thing; no letters or digits are written anywhere
+
+== 88
+# Q: asymptomatic, active man with moderate aortic stenosis (Vmax 3.6, area 1.2, mean gradient 34), EF 55%: next? A: repeat echo in 12-18 months
+# the bat hanging upside down asleep under a calendar whose pages run from a unicorn-and-dragon painting to a unicorn-and-violin painting, to fly back then = repeat echo in 12-18 months -> ANSWER
+# a small stone half-narrowing the orca's mouth = moderate aortic stenosis
+# the man jogging happily = asymptomatic, good exercise tolerance
+# the bouncer throwing out many = EF normal
+# the treadmill, the folded dentures and the photographer waved away = no stress echo, TAVR or angiography now
+title: Asymptomatic moderate aortic stenosis: repeat the echo in 1-2 years
+titleAr: تضيّق أبهري متوسط بلا أعراض: أعد الإيكو بعد سنة إلى سنتين
+tags: cardiac/aortic-valve d:indications q:next-step l:1 x:guideline
+palette: calm evening blue with bat black and stone grey
+words:
+keywords: echocardiography -> a bat hanging upside down asleep under a calendar, to fly back later; number 12 (months, soonest) -> a small painting on the calendar's first page: a white unicorn and a green dragon; number 18 (months, latest) -> a small painting on the calendar's last page: a white unicorn and a violin; aortic stenosis -> a small grey stone half-narrowing the orca balloon's mouth; aortic valve -> the orca balloon's mouth; asymptomatic -> the man jogging happily past; ejection fraction -> a nightclub bouncer at the red room's door throwing out many guests; hypercholesterolemia -> a lump of yellow butter on a plate; stress test (no) -> a treadmill waved away; tavr (no) -> folded dentures waved away; angiography (no) -> a photographer waved away; moderate -> the stone only half-filling the mouth; reduced mobility -> stiff hinges creaking on the mouth's lips; watchful waiting -> an empty rocking chair on the porch
+anchor: the best next step -> a bat hanging upside down asleep under a calendar whose pages run from a painting of a white unicorn and a green dragon to a painting of a white unicorn and a violin, while a small grey stone only half-narrows the orca balloon's mouth
+scene: A calm blue evening on a quiet island. A man jogs happily past, a lump of yellow butter on a plate at the roadside. The cut-open HART Hotel with the giant orca balloon: a small grey stone only half-narrows the orca's mouth, stiff hinges creaking on its lips; an empty rocking chair rocks on the porch; at the red room's door a nightclub bouncer throws out many guests. In the centre, in the strongest light: a bat hangs upside down asleep under a calendar whose pages run from a small painting of a white unicorn and a green dragon to a small painting of a white unicorn and a violin. Chopper waves away a treadmill and folded dentures, and Usopp waves away a photographer.
+must: the sleeping bat and the calendar are the brightest, central thing; no letters or digits are written anywhere
+
+== 89
+# Q: routine CABG for angina; intraoperative TEE shows moderate aortic regurgitation, trileaflet valve, EF 45%, no heart-failure symptoms: best management of the AR? A: CABG with aortic valve replacement
+# Franky fitting new dentures in the orca's leaking mouth while Sanji lays cabbage on the crown in the same trip = AVR at the time of CABG for moderate AR -> ANSWER
+# water pouring back through the orca's half-open mouth = moderate AR
+# the bat inside the hotel = intraoperative TEE
+# the angel = angina
+# the bouncer with a cap and hamsa tattoo = EF 45%
+# the folded dentures for later and the sleeping bat waved away = delayed TAVR or waiting are wrong
+title: Moderate AR found at CABG: replace the aortic valve in the same operation
+titleAr: قلس أبهري متوسط يُكتشف أثناء المجازات: استبدل الصمام في العملية نفسها
+tags: cardiac/aortic-valve cardiac/coronary d:indications q:next-step l:2 x:guideline
+palette: kitchen green and dental white with orca black
+words:
+keywords: aortic valve replacement -> Franky fitting a new set of dentures into the orca balloon's mouth; aortic regurgitation -> water pouring back through the orca's half-open mouth; cabg -> Sanji laying cabbage leaves on the green crown's spikes at the same time; transesophageal echocardiography -> a bat inside the hotel sending sound rings at the mouth; angina -> a heavy stone angel on the man's chest; ejection fraction -> a nightclub bouncer at the red room's door throwing out a fair number of guests; number 45 (ejection fraction, percent) -> a small tattoo on the bouncer's arm: a graduation cap and a blue hamsa hand; moderate -> a bucket only half full of the back-flowing water; one trip -> both men working in the same open hotel; trileaflet -> a three-leaf clover by the mouth; delayed tavr (no) -> folded dentures saved for later, waved away; serial echo (no) -> a bat asleep under a calendar, waved away; calm street -> a calm street outside, no taxis; surprise finding -> a jack-in-the-box popping up beside the bat
+anchor: the best management -> Franky fitting a new set of dentures into the orca balloon's leaking mouth while Sanji lays cabbage leaves on the green crown's spikes, both in the same open hotel
+scene: A green galley deck on the Thousand Sunny. An old man lies with a heavy stone angel on his chest. Above him the cut-open HART Hotel, open for work; water pours back through the orca balloon's half-open mouth into a bucket only half full, a three-leaf clover beside the mouth; a bat inside the hotel sends sound rings at it, a jack-in-the-box popping up beside it; the street outside is calm, no taxis; at the red room's door a nightclub bouncer, a small tattoo on his arm of a graduation cap and a blue hamsa hand, throws out a fair number of guests. In the centre, in the strongest light: Franky fits a new set of dentures into the orca's mouth while Sanji lays cabbage leaves on the green crown's spikes, both in the same open hotel. Chopper waves away folded dentures saved for later and a bat asleep under a calendar.
+must: Franky and Sanji work at the SAME time; no letters or digits are written anywhere
+
+== 90
+# Q: 80-year-old frail woman with severe symptomatic AS, intermediate risk: compared with surgical AVR, TAVR has a higher rate of? A: significant paravalvular leak
+# the folded dentures opened in the orca's mouth but water leaking round their edges, beside surgically sewn dentures sealed tight = more paravalvular leak with TAVR -> ANSWER
+# the stone in the mouth = severe aortic stenosis
+# the old woman with a stick, a hamsa painting on the walkway = frailty, 5-metre walk test
+# the cigar = smoking history
+# the kidney beans, the red tap and Pinocchio on the surgical side = AKI, bleeding, AF more with surgery
+title: TAVR versus surgery: TAVR leaks more around the valve
+titleAr: الصمام عبر القثطرة مقابل الجراحة: تسرّب حول الصمام أكثر مع القثطرة
+tags: cardiac/aortic-valve d:evidence q:recall l:2 x:high-yield
+palette: twilight violet with dental white and leaking blue
+words:
+keywords: tavr -> folded dentures opening in the orca balloon's mouth; paravalvular leak -> water leaking out round the edges of the opened folded dentures; aortic valve replacement -> on the other side, dentures sewn in by hand, sealed tight; aortic stenosis -> a grey stone narrowing the orca's mouth; frailty -> an old woman leaning on a thin walking stick; number 5 (walk test, metres) -> a small painting on the walkway: a blue hamsa hand; smoking -> an old cigar stubbed out in an ashtray; intermediate risk -> a seesaw balanced in the middle; acute kidney injury (no) -> red kidney beans on the surgical side; bleeding (no) -> a red tap dripping on the surgical side; atrial fibrillation (no) -> Pinocchio quivering on the surgical side; family questions -> her son and daughter asking
+anchor: what is higher with TAVR -> folded dentures opened in the orca balloon's mouth with water leaking out round their edges, beside hand-sewn dentures on the other side, sealed tight
+scene: A violet twilight on Sky Island, the scene split in two halves. An old woman leans on a thin walking stick on a walkway with a small painting of a blue hamsa hand; an old cigar lies stubbed out in an ashtray; her son and daughter ask questions; a seesaw is balanced in the middle. On the left half, in the strongest light: folded dentures have opened inside the orca balloon's mouth over a grey stone, and water leaks out round their edges. On the right half: dentures sewn in by hand sit sealed tight, but red kidney beans, a red tap dripping and Pinocchio quivering stand on that surgical side. Chopper points at the leaking edges.
+must: the leak round the folded dentures is the brightest, central thing; no letters or digits are written anywhere
