@@ -1,8 +1,46 @@
 # Where the work stands
 
-Updated 2026-11-22 (evening, rules 6 and 7). Whoever works on YouTop next: read `CLAUDE.md`, then this, then
+Updated 2026-11-24 (cardiac extraction; 177 Johns Hopkins pictures). Whoever works on YouTop next: read `CLAUDE.md`, then this, then
 `docs/content-guide.md` and the `youtop-lessons` skill. Rewrite this file whenever the state changes (it replaces the
 `status-<n>.txt` files in the Drive folder "YouTop private", which stop at 7).
+
+## CARDIAC QUESTIONS EXTRACTED FROM THE BOOKS FOLDER (2026-11-24); start here
+
+The owner (2026-11-24): «من هذا الملف ناخذ فقط اسئلة جراحة القلب ... الان فقط استخرج» — from the books folder
+`1ZgnGkm9Q2sEIwLsJjXpJry6TOf0hqRnc` take only the heart-surgery questions; for now only extract them (no lessons yet).
+Done from each book's master `.jsonl` (same folder, next to `report.md`):
+
+| Book | Questions | Cardiac kept | How |
+|---|---|---|---|
+| 14 CARDIOTHORACIC (2015) | 2000 | 914 | no sections; a general perioperative bank (anaesthesia, ICU, medicines). Kept only questions about the heart: cardiac disease, surgery, bypass, cardiac drugs, ECG, congenital, thoracic aorta, cardiac transplant. Read one by one where unsure. |
+| 12 OSLER (2008) | 553 | 500 | its own Cardiac section C-1..C-500 |
+| 18 SESAT 13 (2020) | 328 | 203 | Adult Cardiac 1-125 + Congenital 251-328 |
+| 17 SESATS 12 (2017) | 394 | 240 | adult cardiac 1-125, congenital 249-333 (not 324), cardiac items of the critical-care part 334-394 |
+| 10 SHAHZAD (2014) | 303 | 134 | chapter 2 (adult cardiac) whole, cardiac items of chapter 1 (basic sciences) and 4 (paediatric) |
+| 09 SHAHZAD (2017) | 249 | 133 | mixed; read one by one |
+| 20 TSRA MCQ | 836 | 440 | 1-405 cardiac (not the carotid trials 53, 57, 60, 61, 64), cardiac items of critical care 406-466 |
+| **Total** | | **2564** | |
+
+Left out: 11 SHAHZAD (2015) (3) = the published `shahzad-2015`; 13 JOHN HOPKIN'S and 03 MedCosmos Cardiac (already
+books); thoracic, oesophagus and vascular books. Pulmonary embolism, ARDS, ventilation and general hypertension or
+lipid drugs were not counted as cardiac; HIT, protamine, CPB, ECMO and pulmonary endarterectomy were. Overlap with the
+published books is tiny (Osler C-8, 17, 36, 65, 77; Shahzad 2017 185, 192; Cardiothoracic 76); one exact duplicate
+inside Cardiothoracic 2015 (1914 = 1923), and that bank repeats some questions in other words.
+The cardiac-only files (`<book>-cardiac.jsonl`, the master records unchanged) were made in the session scratchpad only
+(book text never goes on GitHub). The script that picks them, with every question number kept or dropped by hand, is not
+committed either; ask before re-running. **Next: the owner chooses which to turn into lessons and where the files go.**
+
+## JOHNS HOPKINS PICTURES OF 2026-11-22 (second set): 177 lessons published (2026-11-22/24)
+
+The owner uploaded 178 pictures (folder `11gZ6LUEbDqbeyBc45sVLsKRQ6gpwLtdx`, 17:43-19:06 UTC): 123, 125-150, 152-160,
+162-164, 166-173, 175-180, 182-184, 186, 187, 189-195, 203-205, 207-263, 265-274, 276-283, 286, 287, 323-326,
+328-331, 333, 334, 337-340, 342-344, 347, 351, 352, 354, 360, 361, 363, 364, 369, 373, 375, 377, 383, 385-387.
+All 177 except 344 are published complete (picture, spots, circles, recorded voice), in six publishes, each read back.
+**344.png is a byte-for-byte copy of 328.png**: lesson 344 is held back; ask the owner for its real picture.
+Johns Hopkins now has **275 lessons with a picture**; still without one: 11, 98-99, 101, 103-122, 124, 151, 161, 165,
+174, 181, 185, 188, 196-202, 206, 264, 275, 284-285, 288-322, 327, 332, 335-336, 341, 344-346, 348-350, 353,
+355-359, 362, 365-368, 370-372, 374, 376, 378-382, 384, 388-422. Spots, circles and notes:
+`drafts/johns-hopkins-2016/pictures-2026-11-22b/` (also on `content` under `work/`). Not run on a phone.
 
 ## APP 2.8 (2026-11-22): a Redo holds the lesson back until it is redone
 
