@@ -1,0 +1,184 @@
+book: sesat-13
+
+== 1
+# Q: HCM, alcohol septal ablation at 16, recurrent symptoms, a bundle branch block, LVOT gradient 65: highest risk factor for complete heart block after myectomy? A: right bundle branch block
+# the bundle of branches, its RIGHT (blue-side) branch already burnt black under a skull flag = right bundle branch block, the highest risk -> ANSWER
+# the sculptor's chisel nearing the LEFT branch = myectomy usually injures the left bundle
+# the drawbridge creaking up = complete heart block (both branches lost)
+# the bodybuilder's biceps wall = hypertrophic cardiomyopathy
+# the empty whisky bottle over an old scar = the earlier alcohol septal ablation (it often leaves a right bundle branch block)
+# the boomerang hitting the boy again = recurrent symptoms
+# tattoo of the Sitt and the hamsa on the biceps = gradient 65 mmHg
+title: Before a myectomy, a right bundle branch block is the great danger for complete heart block
+titleAr: قبل استئصال العضلة: حصار الفرع الأيمن هو الخطر الأكبر للحصار القلبي التامّ
+tags: cardiac/arrhythmia cardiac/mitral-tricuspid d:complications q:vignette l:3 x:trap
+palette: deep violet night with crackling electric gold and one blackened branch
+words:
+keywords: right bundle branch block -> the right-hand, blue-side branch of the crackling bundle of branches already burnt black and dead; complete heart block -> the drawbridge between the blue lobby and the engine room creaking up so no signal can cross; hypertrophic cardiomyopathy -> the lower party wall swollen into the huge bulging biceps of a bodybuilder, crowding the red engine room's doorway; myectomy -> a sculptor chiselling a block out of the bodybuilder's bulging biceps, his chisel edge close to the live left-hand branch; alcohol septal ablation -> an empty whisky bottle lying at the foot of the biceps over an old dark scar; number 65 (outflow gradient, mmHg) -> a small tattoo on the bodybuilder's forearm: the Sitt in a golden gown and a blue hamsa hand; echocardiogram -> a bat hanging from the ceiling sending rings of sound at the biceps; highest risk factor -> a small black skull-and-crossbones flag planted on the burnt branch; recurrent symptoms -> a wooden boomerang flying back to strike a young sailor in the chest again; outflow tract gradient -> a steep water ramp at the red engine room's doorway, water crashing down it; electrocardiogram -> a green zigzag line chalked along the wall like an electric fence; teenage patient -> a lanky teenage sailor boy in a striped shirt
+anchor: the highest risk factor for complete heart block after myectomy -> the crackling bundle of branches down the party wall, its right-hand blue-side branch burnt black under a small skull flag, the sculptor's chisel nearing its live left-hand branch, and above it the drawbridge creaking up
+scene: The HART Hotel cut open like a doll's house, moored on a stormy Grand Line dock at night. In the centre, in the strongest light: the crackling bundle of branches running down the party wall from the blue lobby into the engine rooms; its right-hand branch, on the blue side, is burnt black and dead with a small black skull-and-crossbones flag planted on it, while its left-hand branch, on the red side, still crackles with golden sparks. Just above, the drawbridge between the blue lobby and the engine room creaks upward on its chains. The lower party wall is swollen into the huge bulging biceps of a bodybuilder, crowding the red engine room's doorway, and Franky, as a sculptor, chisels a block out of the biceps, his chisel edge close to the live left-hand branch. An empty whisky bottle lies at the foot of the biceps over an old dark scar. On the bodybuilder's forearm, a small tattoo: the Sitt in a golden gown and a blue hamsa hand, side by side. At the red engine room's doorway, water crashes down a steep ramp. A green zigzag line is chalked along the wall like an electric fence. A bat hangs from the ceiling sending rings of sound at the biceps. In front of the hotel, a lanky teenage sailor boy in a striped shirt clutches his chest as a wooden boomerang flies back to strike it again, and Chopper, the ship's reindeer doctor, points up at the burnt branch.
+must: the burnt black branch is on the blue (right) side, the sparking one on the red (left) side; the tattoo is small; no letters or digits are written anywhere
+
+== 2
+# Q: after CABG for 3-vessel disease, preserved EF, trivial pericardial and small bilateral pleural effusions, no previous medicines: discharge regimen? A: aspirin, beta-blocker, statin and diuretic
+# Chopper packing four things into the sea-bag: the asp on its tablet, the goalkeeper's blocker pad, the satin cloth, the lasso = aspirin, beta-blocker, statin, diuretic -> ANSWER
+# the cabbage leaves over the tarred crown = after CABG for 3-vessel disease
+# the bouncer throwing out a big share, a jar of preserves on his shelf = preserved ejection fraction (no ACE inhibitor needed)
+# two small puddles in the chest, one each side = small bilateral pleural effusions (the reason for the diuretic)
+# the sailor walking down the gangway = discharge
+# the blank logbook page = no previous medicines
+title: Home after CABG with a good ventricle and small effusions: aspirin, beta-blocker, statin and a diuretic
+titleAr: الخروج بعد المجازات مع بطين جيّد وانصباب صغير: أسبرين وحاصر بيتا وستاتين ومدرّ
+tags: cardiac/coronary d:postoperative d:pharmacology q:vignette l:2 x:guideline
+palette: warm harbour morning, sea green and sunny yellow with cabbage greens
+words:
+keywords: aspirin -> a small asp snake coiled round a white tablet, packed into the sea-bag; beta-blocker -> an ice-hockey goalkeeper's big blocker pad, packed into the sea-bag; statin -> a smooth satin cloth folded into the sea-bag; diuretic -> a cowboy's lasso coiled into the sea-bag, its loop still dripping water; coronary artery bypass grafting -> big green cabbage leaves laid as bridges over the tar-clogged spikes of the green crown on the sailor's hat; ejection fraction -> a nightclub bouncer at the red engine room's door throwing out a big share of guests, a counter beside him; pleural effusions -> two small puddles of water pooling at the bottom of a treasure chest, one on each side; discharge -> an old sailor walking down the Thousand Sunny's gangway to the quay; medication regimen -> a sailor's canvas sea-bag; preserved -> a glass jar of fruit preserves on the bouncer's shelf; no previous medicines -> a blank page in an open logbook; recovered well -> the old sailor smiling and waving his hat
+anchor: the discharge medicines after CABG with a good ventricle and small effusions -> Chopper packing four things into the old sailor's canvas sea-bag, in order: the asp coiled round its white tablet, the goalkeeper's blocker pad, the folded satin cloth and the dripping lasso, under the green crown with its cabbage leaves
+scene: A sunny morning at a Grand Line harbour. In the centre, in the strongest light: Chopper, the ship's reindeer doctor, stands at the top of the Thousand Sunny's gangway packing four glowing things one after another into an old sailor's canvas sea-bag: a small asp snake coiled round a white tablet, an ice-hockey goalkeeper's big blocker pad, a smooth folded satin cloth, and a cowboy's lasso whose loop still drips water. The old sailor wears a hat shaped like the green crown of the Statue of Liberty, its spikes clogged with black tar and bridged by big green cabbage leaves; he smiles, waves his hat and walks down the gangway to the quay. Beside him the HART Hotel stands cut open on the quay: at its red engine room's door a nightclub bouncer throws out a big share of guests, a counter beside him, a glass jar of fruit preserves on his shelf. In front, an open treasure chest shows two small puddles of water at its bottom, one on each side. On a barrel lies an open logbook with a blank page.
+must: exactly four things go into the sea-bag, nothing else; no letters or digits are written anywhere
+
+== 3
+# Q: all-arterial grafting with both ITAs and a radial: LAD 90%, OM 60%, RCA totally occluded: best configuration? A: in situ right ITA to LAD, in situ left ITA to OM, free radial to the posterior descending
+# the radio antenna laid as a free bridge onto the totally tar-choked rainbow spike = the radial goes to the occluded RCA territory, where there is no competitive flow -> ANSWER
+# the right lima vine crossing over to the lad's slide = in situ right ITA to LAD
+# the left lima vine curling to the acrobat = in situ left ITA to the obtuse marginal
+# the acrobat's spike only partly tarred, tattoo of the Sitt and the whistle = OM only 60% narrowed: an ITA, not a radial
+# two streams colliding at the acrobat's spike = competitive flow, the radial's enemy
+# both vines still rooted in the chest wall = in situ
+title: All-arterial bypass: the radial goes to the occluded artery, the two mammaries to LAD and marginal
+titleAr: مجازات شريانية كاملة: الكعبري إلى الشريان المسدود، والثدييّان إلى النازل الأمامي والهامشي
+tags: cardiac/coronary d:technique q:vignette l:3 x:trap
+palette: emerald jungle green with silver antenna glints and a rainbow arc
+words:
+keywords: radial artery -> a long thin silver radio antenna pulled out of a forearm and laid as a free bridge onto the far end of the rainbow spike; right coronary artery -> the crown's right spike bending into a long rainbow arc down the back wall, totally choked with black tar; left anterior descending -> a young lad sliding down the front of the green crown; internal thoracic artery -> two green lima bean vines growing from both sides of the chest wall, the right-hand vine crossing over to the lad's slide, the left-hand vine curling to the back-left spike; obtuse marginal -> a circus acrobat flexing round the left side of the crown to its back-left spike, only partly tarred; number 60 (marginal narrowing, percent) -> a small tattoo on the acrobat's arm: the Sitt in a golden gown and a golden whistle; three-vessel coronary disease -> the green crown with three spikes clogged by black tar; in situ -> the vines still rooted in the soil of the chest wall; free graft -> the antenna with both ends loose, carried like a plank; total occlusion -> the rainbow spike stuffed solid with tar, not a drop through; competitive flow -> two streams of water crashing head-on at the acrobat's spike; complete arterial grafting -> no blue sapphire chain anywhere, only living vines and the antenna
+anchor: the best arrangement of the three arterial grafts -> the long silver radio antenna laid as a free bridge onto the far end of the rainbow spike that is choked solid with black tar, while two lima bean vines rooted in the chest wall reach the lad's slide and the acrobat's spike
+scene: A jungle island of the Grand Line, emerald and steamy. A giant green crown like the Statue of Liberty's sits on the hotel roof, three of its spikes clogged with black tar. In the centre, in the strongest light: Franky lays a long thin silver radio antenna, both ends loose, as a free bridge onto the far end of the crown's right spike, which bends into a long rainbow arc down the back wall and is stuffed solid with black tar. From both sides of the chest wall below, two green lima bean vines grow, still rooted in the soil: the right-hand vine crosses over the front to a young lad sliding down the front of the crown; the left-hand vine curls round to the back-left spike, where a circus acrobat flexes his body; the acrobat's spike is only partly tarred, and on his arm is a small tattoo of the Sitt in a golden gown and a golden whistle. At the acrobat's spike two little streams of water crash head-on. There is no blue sapphire chain anywhere in the picture. Usopp, holding a pulled-out forearm with a gap where the antenna came from, watches in awe.
+must: the antenna goes to the rainbow (right, back) spike, the right vine goes to the lad at the front; no letters or digits are written anywhere
+
+== 4
+# Q: ischaemic MR repaired with a ring: strongest preoperative echo predictor of recurrent MR? A: basal inferior dyskinesis
+# the disco dancer on the bottom floor of the red engine room stepping OUT while the others step in, dragging the pillar and the harp strings down = basal inferior dyskinesis -> ANSWER
+# the brass collar ring round the mitre = ring annuloplasty
+# the mitre still gurgling back = recurrent mitral regurgitation
+# the stag with the arrow = ischaemic origin (old infarct)
+# the fortune teller's crystal ball = predictor
+# the front-wall dancer in step = anterolateral wall: not the predictor
+title: Ischaemic mitral regurgitation: basal inferior dyskinesis predicts failure of the ring
+titleAr: القلس التاجي الإقفاري: خلل الحركة القاعدي السفلي يتنبّأ بفشل الحلقة
+tags: cardiac/mitral-tricuspid d:diagnosis d:evidence q:recall l:3
+palette: smoky disco purple and silver with a red floor glow
+words:
+keywords: basal inferior dyskinesis -> a disco dancer in a shiny silver suit on the bottom floor of the red engine room stepping OUT when everyone else steps in; papillary muscle -> a thick red muscular pillar on the engine room floor dragged down by the dancer; chordae -> golden harp strings from the pillar pulled taut, tugging the mitre down; mitral valve -> a bishop's mitre between the red lobby and the red engine room, its two leaves held apart; mitral regurgitation -> water gurgling and spraying back up through the gap between the mitre's leaves; annuloplasty ring -> a shiny new brass collar ring round the mitre's doorway; myocardial infarction -> a stag brought down by an arrow, lying at the foot of the hotel; echocardiography -> a bat sending rings of sound into the engine room; predictor -> Robin gazing into a fortune teller's crystal ball that shows the mitre leaking again; recurrence -> a wooden boomerang flying back towards the mitre; downward tug on the leaf -> a deckhand hauling on a rope that drags the leaf down; carpentier type IIIb (restricted leaflet) -> a carpenter at his bench tossing a tugged-down mitre into his third bin; anterolateral wall moving well -> a second dancer at the front wall keeping perfect step
+anchor: the strongest predictor of recurrent regurgitation after a ring -> the silver-suited disco dancer on the bottom floor of the red engine room stepping out against the beat, dragging the thick red pillar and its taut harp strings down so the mitre, inside its new brass collar ring, still gurgles back
+scene: Inside the cut-open HART Hotel, a smoky disco night. In the centre, in the strongest light: on the bottom floor of the red engine room a disco dancer in a shiny silver suit steps OUTWARD against the beat while every other dancer steps in; as he steps out he drags down a thick red muscular pillar, and the golden harp strings tied from the pillar to the bishop's mitre above are pulled taut, tugging the mitre's leaves apart. The mitre sits in a shiny new brass collar ring, yet water still gurgles and sprays back up through the gap between its leaves into the red lobby. A deckhand hauls on a rope that drags one leaf further down. At the front wall a second dancer keeps perfect step. A bat sends rings of sound into the engine room. At the foot of the hotel lies a stag brought down by an arrow. A wooden boomerang flies back towards the mitre. To one side, Robin gazes into a fortune teller's crystal ball that shows the mitre leaking again. Beside her, a carpenter at his bench tosses a tugged-down mitre into his third bin.
+must: the silver dancer is on the BOTTOM floor of the room; no letters or digits are written anywhere
+
+== 5
+# Q: after septal myectomy, off bypass, no MR, provoked residual gradient 10 mmHg: next step? A: give protamine and finish
+# the lion tamer taming the hare = give protamine -> ANSWER
+# the roller-pump truck driving away = bypass is not resumed
+# the sculptor setting down his chisel = no more resection needed
+# the gentle ramp with a trickle, tattoo of the unicorn and the whistle = residual gradient 10 mmHg: acceptable
+# the mitre shut in a handshake, no water gurgling back = no mitral regurgitation (no replacement)
+# the man poking with a stick = provoked conditions
+# the chequered finish flag = complete the operation
+title: After a myectomy, a provoked gradient of 10 is a good result: give protamine and finish
+titleAr: بعد استئصال العضلة، فرق ضغط مستثار قدره عشرة نتيجة جيّدة: أعطِ البروتامين وأنهِ العملية
+tags: cardiac/mitral-tricuspid d:technique q:next-step l:2
+palette: bright circus red and cream with a chequered black-and-white flag
+words:
+keywords: protamine -> a lion tamer cracking his whip and holding up a chair so the fast brown hare lies down still; heparin -> a fast brown hare, now lying still before the lion tamer; septal myectomy -> a sculptor setting down his chisel beside the neatly chiselled bodybuilder's biceps; hypertrophic cardiomyopathy -> the lower party wall shaped like a bodybuilder's biceps, now neatly trimmed; cardiopulmonary bypass -> the big roller-pump truck driving away from the hotel, its hoses coiled up; number 10 (residual gradient, mmHg) -> a small tattoo on the sculptor's arm: a white unicorn and a golden whistle; no mitral regurgitation -> the bishop's mitre shut tight in a firm handshake, no water gurgling back; residual gradient -> a low gentle ramp at the red engine room's doorway with only a trickle running down; provoked conditions -> Usopp poking the engine room with a long stick to make it work harder; needle measurement -> two long sewing needles stuck in the red engine room and the orca, each with a little dial; complete the operation -> a black-and-white chequered finish flag waved by Luffy; simultaneous pressures -> Nami clicking two stopwatches at the same moment; cross-clamp removed -> giant X-shaped iron tongs lying open on the floor
+anchor: the best next step after a small residual gradient -> the lion tamer in the centre cracking his whip so the fast brown hare lies down still, while the roller-pump truck drives away and the sculptor sets down his chisel
+scene: A circus ring set up on the deck of the Thousand Sunny, bright red and cream, beside the cut-open HART Hotel. In the centre, in the strongest light: a lion tamer cracks his whip and holds up a chair, and a fast brown hare lies down still before him. Behind them the big roller-pump truck drives away from the hotel with its hoses coiled up, and giant X-shaped iron tongs lie open on the floor. Inside the hotel the lower party wall, shaped like a bodybuilder's biceps, is now neatly trimmed, and Franky as a sculptor sets down his chisel; on his arm a small tattoo of a white unicorn and a golden whistle. At the red engine room's doorway there is only a low gentle ramp with a trickle running down. The bishop's mitre between the red lobby and the engine room is shut tight like a firm handshake, with no water coming back. Two long sewing needles are stuck into the red engine room and the orca balloon leaving it, each with a little dial. Usopp pokes the engine room with a long stick to make it work harder. Nami clicks two stopwatches at the same moment. Luffy waves a black-and-white chequered finish flag.
+must: the tamer and the still hare are the biggest, brightest figures; no letters or digits are written anywhere
+
+== 6
+# Q: young heroin user, fever, pleuritic pain, septic pulmonary emboli, severe TR, 1.7 cm tricuspid vegetation, nothing else: best initial therapy? A: antibiotic therapy
+# Chopper's giant pencil ringing and crossing out the broccoli cards on the trident = antibiotic therapy first -> ANSWER
+# the broccoli cards on the trident = tricuspid endocarditis, tattoo of unicorn, drop and swimmer = vegetation 1.7 cm
+# the bowling balls rolling into the dollar pipes = septic pulmonary emboli
+# the trident gurgling back = severe tricuspid regurgitation
+# the hero with a syringe = heroin user
+# the scalpel kept in its sheath = no surgery as the first step
+title: Tricuspid endocarditis in a drug user: start with antibiotics
+titleAr: التهاب شغاف الصمام ثلاثي الشرف عند متعاطي المخدّرات: ابدأ بالمضادّات الحيوية
+tags: cardiac/mitral-tricuspid d:indications q:next-step l:2 x:high-yield
+palette: hot fever orange against cool sea blue, broccoli green
+words:
+keywords: antibiotic therapy -> Chopper holding a giant pencil drawing a ring round the broccoli cards and crossing out the germs; tricuspid endocarditis -> playing cards sprouting broccoli and moss stuck on the trident's three prongs; tricuspid valve -> a trident set in the doorway between the blue lobby and the blue engine room; tricuspid regurgitation -> water gurgling and spraying back up through the trident's prongs; septic pulmonary emboli -> black bowling balls rolling out of the blue engine room into the pipes of green dollar bills; number 1.7 (vegetation size, cm) -> a small tattoo on the hero's arm: a white unicorn, a golden drop and a little swimmer; echocardiogram -> a bat sending rings of sound at the trident; heroin user -> a young hero in a cape holding a syringe; fever -> a boiling kettle whistling on the stove beside her; pleuritic chest pain -> a sharp sewing pin pricking her side with each breath; first step -> a starting pistol fired by Nami; no surgery yet -> the surgeon's scalpel kept in its sheath on Zoro's belt
+anchor: the best first treatment for tricuspid endocarditis -> Chopper in the centre with a giant pencil drawing a ring round the broccoli-sprouting cards on the trident's prongs and crossing out the germs, while the scalpel stays in its sheath
+scene: The cut-open HART Hotel on a hot fever-orange evening at sea. In the centre, in the strongest light: Chopper, the ship's reindeer doctor, holds a giant pencil and draws a ring round the playing cards sprouting broccoli and moss that cling to the three prongs of a trident set in the doorway between the blue lobby and the blue engine room, crossing out the little germs on them. Water gurgles and sprays back up through the trident's prongs. Black bowling balls roll out of the blue engine room into the pipes of green dollar bills. A bat sends rings of sound at the trident. In front of the hotel sits a young woman dressed as a hero in a cape, holding a syringe; a sharp sewing pin pricks her side as she breathes, a boiling kettle whistles on the stove beside her, and on her arm is a small tattoo of a white unicorn, a golden drop and a little swimmer. Nami fires a starting pistol into the air. Zoro stands back with the surgeon's scalpel kept in its sheath on his belt.
+must: the pencil ring around the broccoli cards is the brightest thing; the scalpel stays sheathed; no letters or digits are written anywhere
+
+== 7
+# Q: bioprosthetic tricuspid valve replacement for carcinoid: preferred antithrombotic? A: vitamin K antagonist (warfarin) for 3 months
+# the rat in the soldier's helmet guarding the tissue box for three moons, fox tattoo = warfarin for 3 months -> ANSWER
+# the tissue box in the trident's place = bioprosthetic tricuspid valve
+# the blushing toy crab = carcinoid syndrome
+# the beaver kept away = thrombus on the new valve
+# the hourglass running empty = then stop
+# the wall calendar = months
+title: After a tissue tricuspid valve: warfarin for three months
+titleAr: بعد صمام ثلاثي الشرف حيويّ: الوارفارين لثلاثة أشهر
+tags: cardiac/mitral-tricuspid d:postoperative d:pharmacology q:recall l:2 x:guideline
+palette: pale tissue white and soft pink with khaki soldier greens
+words:
+keywords: warfarin (vitamin K antagonist) -> a rat in a soldier's helmet standing guard beside the soft tissue box; number 3 (months of treatment) -> a small tattoo on the rat's helmet: a red fox with three tails; bioprosthetic valve -> a soft paper tissue box set in the doorway in place of the old trident; tricuspid valve replacement -> the old bent trident thrown out on the floor; carcinoid syndrome -> a red shiny wind-up toy crab blushing bright red; tricuspid regurgitation -> the old trident gurgling and spraying water back before it was removed; valve thrombosis -> a beaver trying to build a dam on the tissue box, chased off by the rat; months -> a wall calendar with its pages turning; then stopped -> an hourglass running empty beside the rat; antithrombotic -> a sentry box the rat stands in; new valve healing -> fresh white plaster setting round the tissue box's frame; lifelong antiplatelet (not needed) -> a pile of little white plates left untouched in a corner
+anchor: the preferred protection after a tissue tricuspid valve -> the rat in the soldier's helmet standing guard in his sentry box beside the soft tissue box set in the trident's doorway, a small red three-tailed fox tattoo on his helmet, an hourglass running empty beside him
+scene: Inside the cut-open HART Hotel, pale and clean, on the blue side. In the centre, in the strongest light: a soft paper tissue box is set in the doorway between the blue lobby and the blue engine room, fresh white plaster setting round its frame, and beside it a rat in a soldier's helmet stands guard in a little sentry box; on his helmet a small tattoo of a red fox with three tails; an hourglass beside him runs empty. A beaver trying to build a dam on the tissue box is chased off by the rat. The old bent trident, still dripping, lies thrown out on the floor. On the wall a calendar has its pages turning. A red shiny wind-up toy crab sits in the corner, blushing bright red. A pile of little white plates lies untouched in another corner. Chopper watches from the lobby holding a lantern.
+must: exactly one rat; no letters or digits are written anywhere
+
+== 8
+# Q: diabetic, STEMI, cath at 12 h, three-vessel disease, now pain-free, EF 35%: best next step? A: CABG more than 72 hours after the onset of pain
+# the cabbage leaves waiting in a crate until the clock passes the swimmer-and-dragon mark = CABG after 72 hours -> ANSWER
+# the stag with the arrow and the stuck-up elevator = ST-elevation myocardial infarction
+# the sugar mountain = diabetes
+# three tar-clogged spikes = three-vessel disease
+# the bouncer throwing out only a third = EF 35%
+# the calm sailor on the bench of a horse stable = pain-free, stable: he can wait
+title: A stable diabetic after STEMI with three-vessel disease: bypass after 72 hours
+titleAr: مريض سكّري مستقرّ بعد احتشاء مع ثلاثة شرايين: المجازات بعد ٧٢ ساعة
+tags: cardiac/coronary d:indications q:next-step q:numbers l:3 x:trap
+palette: dusty afternoon gold with cabbage green and a red alarm glow
+words:
+keywords: coronary artery bypass grafting -> big green cabbage leaves packed in a crate, waiting beside the green crown; number 72 (hours to wait) -> a small tattoo on the waiting sailor's forearm: a little swimmer and a green dragon; myocardial infarction -> a stag brought down by an arrow lying at the hotel door; st elevation -> a street-corner elevator platform stuck in its raised position beside the stag; diabetes -> a man sitting on a mountain of white sugar cubes; three-vessel coronary disease -> the green crown on the hotel roof with three spikes clogged by black tar; ejection fraction -> a nightclub bouncer at the red engine room's door throwing out only a third of the guests; waiting -> Sanji's outstretched arm holding the crate back like a closed gate; hours -> a big station clock whose hands sweep round; pain free -> the sailor smiling calmly, his hand off his chest; stable patient -> a quiet horse stable where the sailor sits on a bench; urgent operation (not now) -> an ambulance bell left silent on a hook
+anchor: the best timing of the bypass -> the crate of green cabbage leaves waiting beside the tar-clogged crown while the big clock's hands sweep round, Sanji holding the crate back until the time on the sailor's tattoo, a little swimmer and a green dragon
+scene: A quiet dusty afternoon at a Grand Line port, the cut-open HART Hotel on the quay. In the centre, in the strongest light: Sanji holds back a crate packed with big green cabbage leaves beside the green crown on the hotel roof, whose three spikes are clogged with black tar, and a big station clock above them sweeps its hands round. A calm sailor sits smiling on a bench in a quiet horse stable next door, his hand off his chest; on his forearm a small tattoo of a little swimmer and a green dragon. At the hotel door lies a stag brought down by an arrow, beside a street-corner elevator platform stuck in its raised position. A man sits on a mountain of white sugar cubes. At the red engine room's door a nightclub bouncer throws out only a third of the guests. An ambulance bell hangs silent on a hook.
+must: the cabbage leaves stay in their crate, not yet laid on the crown; no letters or digits are written anywhere
+
+== 9
+# Q: cannulating the distal ascending aorta was difficult; on bypass the arterial line pressure stays above 300 whatever the flow; a purple haematoma round the cannula: next step? A: a new arterial cannula in the right axillary artery
+# the brass cannon moved from the torn orca to the pipe under the right flipper's armpit, an axe hanging there = right axillary cannulation -> ANSWER
+# the zipper torn open in the orca = iatrogenic aortic dissection
+# the purple bruise round the cannon = haematoma at the cannulation site
+# the pump truck's gauge in the red, tattoo of fox and two whistles = line pressure above 300
+# the jammed cannon = difficult insertion
+# a second cannon refused at the orca = not another site on the same aorta
+title: A dissection at the aortic cannula: move the arterial line to the right axillary artery
+titleAr: تسلّخ عند قنية الأبهر: انقل الخط الشرياني إلى الشريان الإبطي الأيمن
+tags: cardiac/cpb cardiac/aorta d:complications q:next-step l:3 x:high-yield
+palette: dark steel blue with a purple bruise and brass gleams
+words:
+keywords: axillary artery cannulation -> a small brass cannon pushed into the pipe under the armpit of the orca's right flipper, a woodsman's axe hanging there; aortic dissection -> a long zipper torn open lengthwise in the orca balloon's skin, water racing into the gap; aorta -> the giant orca parade balloon rising from the hotel; arterial cannula -> a brass cannon jammed sideways in the orca's front, being pulled out; cardiopulmonary bypass -> the big roller-pump truck beside the hotel, its hose feeding the cannon; high line pressure -> the pump truck's round pressure gauge with its needle swung into the red; number 300 (arterial line pressure, mmHg) -> a small tattoo on the pump driver's hand: a red fox with three tails and two golden whistles; haematoma -> a purple bruise blooming on the orca's skin round the jammed cannon; difficult insertion -> the cannon jammed sideways and smoking; regardless of flow -> the truck's speed lever pushed down yet the needle staying red; another site on the same aorta (wrong) -> a second cannon refused at the orca by a crossed-out shadow; brain protection -> the head-shaped lantern staying brightly lit
+anchor: the best next step when the cannula causes a dissection -> Franky pulling the jammed brass cannon out of the torn orca and pushing a small brass cannon instead into the pipe under the armpit of the orca's right flipper, where a woodsman's axe hangs
+scene: The cut-open HART Hotel at night under dark steel-blue clouds, the giant orca parade balloon rising from its red engine room. In the centre, in the strongest light: Franky pushes a small brass cannon into the pipe under the armpit of the orca's right flipper, where a woodsman's axe hangs; with his other hand he pulls a jammed, smoking brass cannon out of the orca's front climb. Around the jammed cannon a purple bruise blooms, and a long zipper is torn open lengthwise in the orca's skin, water racing into the gap. Beside the hotel stands the big roller-pump truck, its hose feeding the cannons; its round pressure gauge has the needle swung into the red although the driver pushes the speed lever down; on the driver's hand a small tattoo of a red fox with three tails and two golden whistles. A head-shaped lantern above the orca's arch stays brightly lit. Chopper holds a lantern up to the bruise.
+must: the new cannon goes under the RIGHT flipper (the flipper on the viewer's left, nearest the blue side); no letters or digits are written anywhere
+
+== 10
+# Q: after AVR and CABG (LIMA to LAD, vein grafts), needing more norepinephrine off bypass, TEE: air in the ascending aorta and new anterior hypokinesis; IABP placed: resume bypass and? A: revise the IMA anastomosis
+# Franky re-sewing the kinked end of the lima vine on the lad's slide = revise the IMA anastomosis -> ANSWER
+# the front wall dancers barely moving = anterior wall hypokinesis (LAD territory)
+# the soap bubble in the orca = air in the aorta (usually goes to the right spike, not the front)
+# the dentures in the orca's mouth = aortic valve replacement
+# the pump truck driving back = resume bypass
+# the pressed vase = rising norepinephrine
+# the sausage balloon = intra-aortic balloon pump
+title: New anterior hypokinesis after a LIMA to LAD: go back on bypass and redo the anastomosis
+titleAr: خلل حركة أمامي جديد بعد مجازة الثديي الداخلي: عد إلى المجازة وأعد المفاغرة
+tags: cardiac/coronary cardiac/cpb d:complications q:next-step l:3
+palette: bright operating-room white with lima green and alarm amber
+words:
+keywords: internal mammary artery -> a green lima bean vine growing down from the chest wall onto the front of the green crown, its end kinked where it joins the slide; left anterior descending -> a young lad sliding down the front of the green crown; anastomosis -> the sewn seam where the vine joins the lad's slide; revise -> Franky unpicking the seam with a needle and thread and sewing it again; anterior wall hypokinesis -> the dancers on the front wall of the red engine room barely moving, sleepy and slow; aortic valve replacement -> a dentist's brand-new dentures fitted into the orca balloon's mouth; cardiopulmonary bypass -> the big roller-pump truck backing up to the hotel again, hoses reconnecting; norepinephrine -> two big hands pressing a tall porcelain vase narrow at its waist, pressing harder and harder; air in the aorta -> a big clear soap bubble floating in the orca balloon; transesophageal echocardiography -> a bat sliding down inside a pink sofa slide behind the hotel, sending sound rings at it; intra-aortic balloon pump -> a long sausage-shaped balloon inside the orca's belly, swelling and shrinking; kinked graft -> the vine's end bent sharply like an elbow where it meets the slide; previously normal function -> a framed photograph on the wall of all the engine room's dancers dancing happily before the operation
+anchor: the best next step -> Franky at the front of the green crown unpicking and re-sewing the kinked seam where the lima bean vine joins the young lad's slide, while the roller-pump truck backs up to the hotel again
+scene: The cut-open HART Hotel under bright operating-room light. In the centre, in the strongest light: on the front of the green crown on the roof, Franky unpicks and re-sews, with a big needle and thread, the kinked seam where a green lima bean vine growing down from the chest wall joins the slide of a young lad sliding down the front of the crown; the vine's end is bent sharply like an elbow there. Below, the dancers on the front wall of the red engine room barely move, sleepy and slow, while the dancers on the other walls dance normally. The big roller-pump truck backs up to the hotel again, its hoses reconnecting. In the orca balloon's mouth sit brand-new dentures; a big clear soap bubble floats inside the orca, and a long sausage-shaped balloon swells and shrinks in its belly. Two big hands press a tall porcelain vase narrow at its waist, harder and harder. On the wall hangs a framed photograph of all the engine room's dancers dancing happily before the operation. Behind the hotel a bat slides down inside a pink sofa slide, sending sound rings at the hotel.
+must: the kinked seam is at the FRONT of the crown, where the lad's slide is; no letters or digits are written anywhere

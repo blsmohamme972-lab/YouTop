@@ -1,0 +1,185 @@
+book: sesat-13
+
+== 31
+# Q: diabetic with a bicuspid valve, mild AR, no AS, root 3.6, ascending 4.2, three-vessel disease, exertional angina: best strategy? A: CABG with arterial grafts (leave the aorta)
+# Sanji laying lima vines and the radio antenna on the crown, while the tape round the orca stops short of the red line = arterial CABG only, the aorta left alone -> ANSWER
+# the bicycle in the orca's mouth = bicuspid aortic valve
+# the tape measure stopping short of the red line, tattoo of cap, drop and dragon = ascending 4.2 cm, below the threshold for replacement
+# a few drops from the mouth = mild aortic regurgitation
+# the three tarred spikes = three-vessel disease
+# the stone angel when climbing stairs = angina on exertion
+# the dust cover over the orca = the aorta left untouched
+title: Bicuspid valve with a 4.2 cm ascending aorta needing CABG: arterial grafts only, leave the aorta
+titleAr: صمام ثنائي الشرف مع صاعد ٤٫٢ سم ويحتاج مجازات: طعوم شريانية فقط واترك الأبهر
+tags: cardiac/coronary cardiac/aorta d:indications q:numbers l:3 x:trap
+palette: emerald vine green and silver with a red line on a white tape
+words:
+keywords: coronary artery bypass grafting -> Sanji laying living grafts where cabbage leaves usually go, a basket of cabbage leaves left beside him; arterial grafts only -> only living vines and the antenna, no sapphire chain anywhere; heart murmur -> a soft whispering breeze through the bicycle's spokes; internal mammary artery -> green lima bean vines growing from the chest wall onto the crown; radial artery -> a long thin silver radio antenna laid as a bridge over a crown spike; bicuspid aortic valve -> a bicycle wedged in the orca's mouth, its two wheels for the two lips; ascending aorta -> the orca balloon's front climb, measured with a tailor's tape; number 4.2 (ascending aorta, cm) -> a small tattoo on the tape's end: a graduation cap, a golden drop and a green dragon; aortic regurgitation -> only a few drops falling back from the orca's mouth; angina -> a heavy stone angel sitting on the sailor's chest as he climbs stairs; below the threshold -> the tape stopping short of a red line painted on the orca; leave the aorta alone -> a dust cover draped over the orca's front; three-vessel disease -> three tarred spikes of the green crown; exertion -> the sailor climbing a steep staircase
+anchor: the best strategy -> Sanji laying green lima bean vines and a silver radio antenna on the crown's three tarred spikes, while the tailor's tape round the orca with a bicycle in its mouth stops short of the red line
+scene: A bright workshop deck of the Thousand Sunny, the cut-open HART Hotel beside a steep staircase that a sailor climbs with a heavy stone angel on his chest. In the centre, in the strongest light: Sanji lays green lima bean vines, growing from the chest wall, and a long thin silver radio antenna as bridges over the three tarred spikes of the green crown on the hotel roof. Beside the crown rises the giant orca balloon with a bicycle wedged in its mouth, only a few drops falling back from it; a tailor's tape is wrapped round its front climb and stops short of a red line painted on the orca, a small tattoo of a graduation cap, a golden drop and a green dragon on the tape's end; a dust cover is draped over the orca's front. A basket of cabbage leaves stands beside Sanji, and a soft breeze whispers through the bicycle's spokes. There is no sapphire chain anywhere. Chopper reads the tape.
+must: the tape stops BEFORE the red line; no letters or digits are written anywhere
+
+== 32
+# Q: after frozen elephant trunk with antegrade TEVAR for type A dissection presenting with a cold left leg and abdominal pain, still acidotic despite good haemodynamics and femoral pulses: next? A: image the visceral vessels (angiogram or IVUS)
+# the photographer squirting magenta dye at the spaghetti plate gone grey at the orca's belly, a tiny bat swimming inside its pipe = visceral imaging -> ANSWER
+# the grey spaghetti = mesenteric malperfusion
+# the sour lemon squeezed = persistent acidosis
+# the fabric elephant trunk with the sleeve = frozen elephant trunk with TEVAR
+# the steady green dial and the warm thigh pulses = good haemodynamics, femoral pulses present
+# the sieve and the leg knife set aside = not haemofiltration, not fasciotomy
+title: Acidosis after repair of a dissection despite good haemodynamics: look at the gut's arteries
+titleAr: حماض بعد إصلاح التسلّخ رغم الدوران الجيّد: افحص شرايين الأحشاء
+tags: cardiac/aorta d:complications q:next-step l:3
+palette: sour lemon yellow and magenta dye over grey spaghetti
+words:
+keywords: angiography -> a photographer squirting glowing magenta dye into the pipe that feeds the spaghetti and flashing his camera; intravascular ultrasound -> a tiny bat swimming inside the pipe, sending rings of sound; mesenteric ischemia -> a big messy plate of spaghetti fed by a pipe from the orca's belly, gone grey-black; elephant trunk -> a grey elephant trunk of fabric hanging from the new arch down into the orca, stiffened with a Slinky; stent graft -> a white fabric sleeve lining the orca's back; aortic dissection -> a long zipper torn open in the orca balloon from its front to its tail; femoral -> a red pipe beside a long white thigh bone, a strong pulse light blinking on it; acidosis -> a sour lemon squeezed over the spaghetti; abdominal pain -> the patient clutching his belly; cold left leg -> icicles on the patient's left leg; good haemodynamics -> a steady dial resting in the green; haemofiltration (no) -> a kitchen sieve set aside; fasciotomy (no) -> a knife held over the leg and waved away
+anchor: the best next step -> the photographer squirting glowing magenta dye into the pipe that feeds the grey spaghetti plate at the orca's belly, a tiny bat swimming inside the pipe, as a sour lemon is squeezed over the plate
+scene: A tense night in the Thousand Sunny's sick bay. Above the patient floats the giant orca balloon, a long zipper torn open from its front to its tail; a grey elephant's trunk of fabric, stiffened with a Slinky, hangs from its new arch down inside it, and a white fabric sleeve lines its back. A steady dial on the wall rests in the green, and a red pipe beside a long white thigh bone shows a strong pulse light blinking. In the centre, in the strongest light: a photographer squirts glowing magenta dye into the pipe that runs from the orca's belly to a big messy plate of spaghetti gone grey-black, and flashes his camera; a tiny bat swims inside the pipe sending rings of sound; a sour lemon is squeezed over the plate. The patient clutches his belly, icicles hanging from his left leg. A kitchen sieve and a knife are set aside. Chopper holds the lamp over the spaghetti.
+must: the spaghetti plate and the photographer are the brightest thing; no letters or digits are written anywhere
+
+== 33
+# Q: in aerobic arrest with blood cardioplegia, oxygen delivery is mostly determined by? A: the dissolved oxygen content
+# the tiny fizzing bubbles floating free in the cold banana water, breathed by the ox straight into the stopped fans = dissolved oxygen -> ANSWER
+# the red doughnuts clutching their bubbles tight in the cold = haemoglobin holds oxygen tightly when cold (haematocrit is not the key)
+# the bucket of ice-cold banana water = blood cardioplegia
+# the frosted thermometer = hypothermia
+# the handcuffed fans = arrest
+# the aerobics instructor = aerobic
+title: Cold blood cardioplegia: oxygen reaches the muscle mostly as dissolved oxygen
+titleAr: شلل القلب الدموي البارد: يصل الأكسجين إلى العضلة غالباً ذائباً
+tags: cardiac/cpb d:physiology q:recall l:3
+palette: icy aqua and banana yellow with fizzing silver bubbles
+words:
+keywords: blood cardioplegia -> a bucket of ice-cold water full of bananas and red doughnuts poured over the hotel so that its fans stop dead; oxygen -> a huge ox wearing a clear oxygen mask, breathing bubbles into the bucket; hypothermia -> a frosted thermometer furred with ice, its red column sunk low; haematocrit -> little round red doughnuts in the cold water clutching their bubbles tightly; dissolved gas -> tiny fizzing silver bubbles floating free in the water like soda; aerobic -> an aerobics instructor in a headband leading the fans' workout; arrest -> the fans locked in shiny handcuffs; delivery -> a delivery boy carrying a fizzing bottle into the engine room; dissociation curve (no) -> a curved playground slide the bubbles slide down; pressure of delivery (no) -> a pressure pump set aside; myocardial protection -> a shield held over the engine room; cardiac fans -> the engine room's big ventilation fans standing still
+anchor: what mostly delivers the oxygen -> the tiny fizzing silver bubbles floating free in the ice-cold banana water, breathed into it by the ox in its mask, drifting straight onto the stopped fans while the red doughnuts clutch their own bubbles tight
+scene: A glittering icy engine room of the cut-open HART Hotel. A bucket of ice-cold water full of bananas and little round red doughnuts has been poured over the hotel and its big ventilation fans stand still, locked in shiny handcuffs, with a shield held over them. In the centre, in the strongest light: a huge ox wearing a clear oxygen mask breathes into the bucket, and tiny fizzing silver bubbles float free in the water like soda and drift straight onto the stopped fans; the red doughnuts clutch their own bubbles tightly and do not let go. A frosted thermometer furred with ice shows its red column sunk low. A delivery boy carries a fizzing bottle into the engine room. An aerobics instructor in a headband stands frozen mid-move. Bubbles slide down a curved playground slide. A pressure pump stands aside. Chopper watches through frosted glasses.
+must: the free fizzing bubbles are the brightest thing; no letters or digits are written anywhere
+
+== 34
+# Q: 87-year-old, CABG 15 years ago, heart failure without angina, EF 25%, moderate-severe MR, poor RV; LIMA-LAD patent, vein grafts occluded with collaterals: next? A: optimal medical therapy with beta-blockers and ACE inhibitors
+# Chopper handing the old sailor the goalkeeper's pad and the tennis racket, the surgeon's chest padlocked = medical therapy, beta-blocker and ACE inhibitor -> ANSWER
+# the traffic jam = congestive heart failure; the bouncer, tattoo of dragon and hamsa = EF 25%
+# the living lima vine on the lad's slide and the broken sapphire chains = patent LIMA, occluded vein grafts
+# the little side paths from the slide = collaterals
+# the angel flying away = no angina
+# the swollen limp blue room = enlarged, weak right ventricle
+# the padlocked stern with an old scar = no redo operation
+title: Very old, failing heart with a patent LIMA and no angina: medicines, not a redo
+titleAr: قلب شيخ فاشل مع طعم ثديي سليم وبلا ذبحة: الأدوية لا إعادة الجراحة
+tags: cardiac/heart-failure cardiac/coronary d:indications q:next-step l:2
+palette: twilight grey and taxi yellow with a soft green vine
+words:
+keywords: beta-blocker -> an ice-hockey goalkeeper's big blocker pad handed to the old sailor; ace inhibitor -> a tennis racket and a ball for serving an ace, handed to him; congestive heart failure -> yellow taxis stuck in a traffic jam round the hotel; ejection fraction -> a nightclub bouncer at the red room's door throwing out only a quarter of the guests; number 25 (ejection fraction, percent) -> a small tattoo on the bouncer's arm: a green dragon and a blue hamsa hand; internal mammary artery -> a living green lima bean vine still growing onto the lad's slide; saphenous vein grafts -> broken chains of blue sapphires hanging loose; mitral regurgitation -> water gurgling back through the mitre; very old age -> an ancient sailor with a long white beard and a cane; collaterals -> little side paths branching from the lad's slide round the back; no angina -> a stone angel flying away from his chest; failing blue room -> the blue side's ground-floor room swollen and limp; surgery long ago -> faded, peeling paint round the old scar; redo surgery (no) -> the old ship's stern with an old healed scar, padlocked shut
+anchor: the best next step -> Chopper handing the ancient white-bearded sailor an ice-hockey goalkeeper's blocker pad and a tennis racket, while the old stern with its healed scar stays padlocked shut
+scene: A quiet twilight harbour; the cut-open HART Hotel stands on the quay, yellow taxis stuck in a traffic jam round it. In the centre, in the strongest light: Chopper hands an ancient sailor with a long white beard and a cane an ice-hockey goalkeeper's big blocker pad and a tennis racket with a ball; behind the sailor the old ship's stern with an old healed scar is padlocked shut, faded peeling paint round its old scar, and a stone angel flies away from his chest. On the hotel roof a living green lima bean vine still grows onto a young lad's slide on the front of the green crown, little side paths branching from the slide round the back, while broken chains of blue sapphires hang loose from the other spikes. Inside, the blue engine room is swollen and limp, and water gurgles back through the bishop's mitre. At the red room's door a nightclub bouncer throws out only a quarter of the guests; on his arm a small tattoo of a green dragon and a blue hamsa hand.
+must: the stern stays padlocked; no letters or digits are written anywhere
+
+== 35
+# Q: young man, exertional chest tightness and presyncope, reversible posterior ischaemia; CT: the RCA arises from the left sinus and runs between aorta and pulmonary artery: best treatment? A: surgical unroofing of the proximal RCA and its orifice
+# Franky lifting the roof off the tunnel where the rainbow spike runs inside the orca's wall from the wrong salsa bowl, opening a wide new mouth = unroofing -> ANSWER
+# the rainbow spike starting from the LEFT salsa bowl = anomalous origin of the RCA from the left sinus
+# the rainbow squeezed between the orca and the dollar pipe = interarterial course
+# the narrow letterbox slot = slit-like orifice
+# the man fainting on the couch after running on the treadmill = exertional presyncope, ischaemia on stress testing
+# the slinky and the sapphire chain refused = no stent, no vein graft
+title: An RCA from the left sinus between the great arteries: unroof it
+titleAr: شريان تاجي أيمن من الجيب الأيسر بين الشريانين الكبيرين: افتح سقفه
+tags: cardiac/coronary cardiac/congenital d:technique q:vignette l:3
+palette: rainbow bright against salsa red and dollar green
+words:
+keywords: right coronary artery -> the crown's right spike bending into a long rainbow arc, starting from the wrong bowl; aortic root -> three round bowls of red salsa round the base of the orca balloon; pulmonary artery -> a pipe of green dollar bills pressed against the orca; syncope -> a young man fainting backwards onto a red velvet couch; stress test -> a treadmill in front of the hotel, the young man just stepped off it; ct scan -> a ginger cat slicing a loaf to show the rainbow's start; stent (no) -> a coiled metal Slinky refused; unroofing -> Franky lifting the roof off a tunnel inside the orca's wall where the rainbow runs, opening it into a wide new mouth; anomalous origin from the left -> the rainbow starting from the left salsa bowl; interarterial course -> the rainbow squeezed like a sandwich filling between the orca and the dollar pipe; slit-like orifice -> a narrow letterbox slot where the rainbow begins; exertional chest tightness -> a tight belt cinched round the young man's chest; vein graft (no) -> a sapphire chain waved away
+anchor: the best treatment -> Franky lifting the roof off the tunnel inside the orca's wall where the rainbow spike runs from the wrong, left salsa bowl, turning its narrow letterbox slot into a wide new mouth
+scene: A sunny training ground on a Grand Line island. A young man has just stepped off a treadmill and faints backwards onto a red velvet couch, a tight belt cinched round his chest. Behind him the cut-open HART Hotel, the giant orca balloon rising from it with three round bowls of red salsa round its base and a pipe of green dollar bills pressed against it. In the centre, in the strongest light: the crown's right spike, a long rainbow arc, starts from the LEFT salsa bowl through a narrow letterbox slot and runs squeezed like a sandwich filling between the orca and the dollar pipe, inside a tunnel in the orca's wall; Franky lifts the roof off that tunnel and opens the slot into a wide new mouth. A ginger cat slices a loaf beside him. Usopp offers a coiled metal Slinky and a sapphire chain, both waved away.
+must: the rainbow begins at the LEFT salsa bowl and passes between the orca and the dollar pipe; no letters or digits are written anywhere
+
+== 36
+# Q: del Nido cardioplegia vs standard blood cardioplegia: besides a longer dosing interval, the principal advantage is a lower? A: requirement for defibrillation
+# the fans restarting calmly under the bird's nest of cold banana water, the jumper cables coiled unused = del Nido: fewer defibrillations -> ANSWER
+# the bird's nest = del Nido
+# the numbing needle and the magnesium flare = lidocaine and magnesium in the solution
+# Pinocchio sitting calmly = no ventricular fibrillation on reperfusion
+# the long gap between the clock's strikes = longer interval between doses
+# the baby's cradle = first used in children
+title: Del Nido cardioplegia: one long dose and fewer shocks to restart the heart
+titleAr: شلل ديل نيدو: جرعة واحدة طويلة وصدمات أقلّ لإعادة تشغيل القلب
+tags: cardiac/cpb d:evidence q:recall l:2
+palette: forest-nest brown and cool banana yellow with spark blue
+words:
+keywords: cardioplegia -> a bucket of ice-cold water full of bananas poured over the hotel so that its fans stop dead; defibrillation -> a car being jump-started with sparking jumper cables, here coiled and unused; ventricular fibrillation -> Pinocchio sitting calmly inside the engine room, not trembling; lidocaine -> a dentist's numbing needle stuck in the engine room wall; myocardial infarction (no difference) -> a stag with an arrow standing equal on both sides; red blood cells (no difference) -> red doughnuts equal in both buckets; del nido -> a big bird's nest (nido) holding the bucket of banana water; magnesium -> a bright white flare of burning magnesium beside the nest; longer dosing interval -> a clock with a long silent gap between two strikes; single dose -> one big pour from the bucket; calm restart -> the fans starting to spin smoothly by themselves; children first -> a baby's cradle beside the nest
+anchor: the main advantage of del Nido cardioplegia -> the fans starting to spin smoothly by themselves under the big bird's nest holding the bucket of ice-cold banana water, the sparking jumper cables lying coiled and unused
+scene: A cool forest evening on a Grand Line island; the cut-open HART Hotel stands among tall trees. A big bird's nest in a branch above it holds a bucket of ice-cold water full of bananas, poured in one big pour over the hotel. In the centre, in the strongest light: the engine room's big fans start to spin smoothly by themselves, and beside the hotel the sparking jumper cables of a car lie coiled and unused. Inside, Pinocchio sits calmly in the engine room, not trembling, and a dentist's numbing needle is stuck in the wall. A bright white flare of burning magnesium glows beside the nest. On a tree a clock shows a long silent gap between two strikes. A baby's cradle hangs beside the nest. On a balance at one side, a stag with an arrow and a pile of red doughnuts sit equal on both pans. Chopper smiles at the fans.
+must: the jumper cables are clearly unused; no letters or digits are written anywhere
+
+== 37
+# Q: insulin-dependent diabetic, creatinine 3, LAD 90%, RCA 65%, EF 40%, worried about the sternum and long-term survival: best conduits? A: bilateral skeletonised internal mammary arteries to the LAD and RCA
+# Brook the skeleton stripping two lima vines bare and laying them onto the lad's slide and the rainbow spike, the stern's wood still green = bilateral skeletonised IMAs -> ANSWER
+# the lad's slide, tattoo of monkey and whistle = LAD 90%
+# the rainbow spike only half tarred = RCA 65% (an artery, not a radial, for a moderate stenosis)
+# the insulin pen and the sugar cubes = insulin-dependent diabetes
+# the shrivelled kidney beans = creatinine 3
+# the mouldy stern kept away = sternal infection (skeletonising protects the sternum)
+# the long-burning candle = long-term survival
+title: Diabetic and worried about the sternum: both mammaries, skeletonised
+titleAr: سكّري يخشى على عظم القصّ: الشريانان الثدييان كلاهما مسلوخان
+tags: cardiac/coronary d:technique q:vignette l:3 x:high-yield
+palette: bone white and lima green on a deep blue night
+words:
+keywords: internal mammary artery -> two green lima bean vines growing from both sides of the chest wall, stripped bare of their leaves; skeletonized -> Brook, the skeleton musician, stripping the lima bean vines bare with his bony fingers; left anterior descending -> a young lad sliding down the front of the green crown; right coronary artery -> the crown's right spike bending into a long rainbow arc, only half tarred; diabetes -> a man sitting on a mountain of white sugar cubes; renal insufficiency -> a pair of big red kidney beans shrivelled dry; number 90 (LAD narrowing, percent) -> a small tattoo on the lad's arm: a little brown monkey and a golden whistle; sternal infection -> the opened stern of a ship rotting with green mould, kept away; insulin-dependent -> an insulin pen in the man's hand; long-term survival -> a candle burning long and steady; sternum kept healthy -> the stern's wood still green and alive; concern -> the man biting his nails; radial artery (no) -> a radio antenna laid aside
+anchor: the best conduits -> Brook, the skeleton musician, stripping two lima bean vines bare with his bony fingers and laying them onto the young lad's slide and the half-tarred rainbow spike of the green crown
+scene: A deep blue night on the Thousand Sunny. A man with an insulin pen in his hand sits on a mountain of white sugar cubes, biting his nails, beside a pair of big red kidney beans shrivelled dry. Behind him the cut-open HART Hotel, the green crown on its roof. In the centre, in the strongest light: Brook, the skeleton musician, strips two green lima bean vines growing from both sides of the chest wall bare of their leaves with his bony fingers and lays them onto the slide of a young lad sliding down the front of the crown and onto the crown's right spike, a long rainbow arc only half tarred; on the lad's arm a small tattoo of a little brown monkey and a golden whistle. Below, the ship's stern stays healthy, its wood still green and alive, while a stern rotting with green mould is pushed far away. A candle burns long and steady on a barrel. A radio antenna lies aside.
+must: Brook is the one stripping the vines; no letters or digits are written anywhere
+
+== 38
+# Q: EF 25% after an old transmural MI and stents, calcified aortic valve, velocity 2.6 m/s, mean gradient 24, valve area not measurable: next test? A: dobutamine stress echocardiography
+# the Doberman pulling the engine room's fan harder while the bat watches whether the stone mouth opens = dobutamine stress echo -> ANSWER
+# the stone mouth of the orca = calcified aortic stenosis
+# the weak trickle and gentle slope, tattoo of dragon and cap = low flow, low gradient (mean 24)
+# the bouncer with a quarter = EF 25%
+# the spare fuel can = contractile reserve
+# the crumbling stone vs the hard stone = pseudo-severe vs truly severe stenosis
+title: Low-flow, low-gradient aortic stenosis with a weak ventricle: dobutamine stress echo
+titleAr: تضيّق أبهري منخفض التدفق والفرق مع بطين ضعيف: إيكو الإجهاد بالدوبوتامين
+tags: cardiac/aortic-valve d:diagnosis q:next-step l:3 x:trap
+palette: stone grey and Doberman black-tan with a bat's blue sound rings
+words:
+keywords: dobutamine -> a strong Doberman dog pulling hard on its leash, tied to the engine room's fan; echocardiography -> a bat sending out rings of sound at the orca's mouth; aortic stenosis -> the orca balloon's mouth turned to grey stone and pinched to a slit; ejection fraction -> a nightclub bouncer at the red room's door throwing out only a quarter of the guests; myocardial infarction -> a stag brought down by an arrow at the hotel door; stent -> coiled metal Slinkys inside two spikes of the crown; number 24 (mean gradient, mmHg) -> a small tattoo on the Doberman's collar: a green dragon and a graduation cap; low flow -> only a thin trickle of water leaving the engine room; low gradient -> a gentle low slope at the orca's mouth; contractile reserve -> a spare fuel can beside the fan; valve area not measurable -> a tape measure that slips off the stone mouth; pseudo-severe stenosis -> a stone that crumbles open when pushed, beside a hard one that stays shut
+anchor: the best next test -> the strong Doberman pulling hard on the weak fan of the red engine room while the bat sends sound rings at the orca's grey stone mouth to see whether it opens wider
+scene: The cut-open HART Hotel in a stony grey light, the giant orca balloon rising from it with its mouth turned to grey stone and pinched to a slit. In the centre, in the strongest light: a strong Doberman pulls hard on a leash tied to the weak fan of the red engine room, making it spin faster, while a bat sends out rings of sound at the orca's stone mouth to see whether it opens wider; on the Doberman's collar a small tattoo of a green dragon and a graduation cap. Only a thin trickle of water leaves the engine room, down a gentle low slope. At the red room's door a nightclub bouncer throws out only a quarter of the guests. A spare fuel can stands beside the fan. A tape measure slips off the stone mouth. A stag brought down by an arrow lies at the hotel door, and coiled metal Slinkys sit inside two spikes of the green crown. On a table two stones lie side by side: one crumbles open when Usopp pushes it, the other stays hard.
+must: the Doberman, the fan and the bat with the stone mouth are the brightest group; no letters or digits are written anywhere
+
+== 39
+# Q: severe ischaemic MR, EF 45%, multivessel disease: compared with CABG alone, CABG plus MV replacement gives? A: better freedom from heart failure at 2 years
+# the clear street round the hotel, no taxis, for two calendar years after the tissue box replaced the mitre beside the cabbage leaves = more freedom from heart failure at 2 years -> ANSWER
+# the traffic jam on the other street = heart failure after CABG alone
+# the dragon tattoo on the calendar = 2 years
+# the coffins and the candles equal on both sides = no difference in survival or early mortality
+# the same-sized rooms on both sides = no better remodelling
+# the freed bird = freedom
+title: Severe ischaemic MR: adding mitral replacement to CABG means less heart failure at two years
+titleAr: قلس تاجي إقفاري شديد: إضافة استبدال التاجي إلى المجازات تعني قصوراً أقلّ بعد سنتين
+tags: cardiac/mitral-tricuspid cardiac/coronary d:evidence q:recall l:3
+palette: open-road sky blue on one side, gridlock yellow on the other
+words:
+keywords: congestive heart failure -> yellow taxis stuck in a traffic jam round the left-hand hotel; coronary artery bypass grafting -> green cabbage leaves on both hotels' crowns; mitral valve replacement -> a soft tissue box set in place of the mitre in the right-hand hotel; mitral regurgitation -> the left-hand hotel's mitre still gurgling water back; ejection fraction -> a nightclub bouncer at each red room's door throwing out a little under half the guests; angina -> a stone angel flying off both hotels; number 2 (years) -> a small tattoo on the wall calendar: a green dragon; freedom -> a white bird flying free from an open cage above the right-hand hotel; clear road -> an empty, sunny street round the right-hand hotel; survival (no difference) -> equal candles burning on both sides; perioperative mortality (no difference) -> one small coffin on each side alike; remodelling (no difference) -> both hotels' engine rooms the same size; follow-up -> a night watchman with a lantern walking between the two hotels
+anchor: what replacement adds -> the empty sunny street round the right-hand hotel, whose mitre was replaced by a tissue box beside its cabbage leaves, a white bird flying free above it, while yellow taxis jam the street round the left-hand hotel
+scene: Two cut-open HART Hotels side by side on a Grand Line quay, both with green cabbage leaves on their crowns, a wall calendar between them with a small tattoo of a green dragon. In the centre, in the strongest light: round the right-hand hotel, whose mitre has been replaced by a soft tissue box, the street is empty and sunny and a white bird flies free from an open cage above it; round the left-hand hotel, whose mitre still gurgles water back, yellow taxis are stuck in a traffic jam. At each hotel's red room's door a nightclub bouncer throws out a little under half the guests. Both engine rooms are the same size. Equal candles burn on both sides, and one small coffin stands on each side alike. A stone angel flies off each hotel. A night watchman with a lantern walks between the two hotels.
+must: the two hotels are identical except for the mitre and the traffic; no letters or digits are written anywhere
+
+== 40
+# Q: redo sternotomy after AVR for an ascending and arch aneurysm with a paravalvular leak; femoral lines placed; on entering the posterior table a sudden gush of bright red blood and hypotension: next? A: start CPB, cool to deep hypothermia, then complete the sternotomy
+# the pump truck roaring on through the cannons in the thigh pipes and the thermometer frosting, while Zoro holds his saw still in the half-cut stern = CPB to deep hypothermia before finishing the sternotomy -> ANSWER
+# the red fountain from under the stern = injury under the posterior table
+# the blue gauge = hypotension
+# the bubble on the orca's arch = ascending and arch aneurysm pressed against the sternum
+# the dentures leaking round their edge = old AVR with a paravalvular leak
+# the brass cannons in the thigh pipes = femoral cannulation ready
+# the saw held still = do not finish the opening yet
+title: Bleeding on redo sternotomy: go on bypass and cool first, then finish opening
+titleAr: نزف عند إعادة فتح القصّ: ابدأ المجازة وبرّد أوّلاً ثمّ أكمل الفتح
+tags: cardiac/aorta cardiac/cpb d:complications q:next-step l:3 x:high-yield
+palette: blood red spray against frost blue and brass
+words:
+keywords: redo sternotomy -> the stern of a ship along an old healed scar, half cut open again; cardiopulmonary bypass -> the big roller-pump truck roaring into action beside the hotel; deep hypothermia -> a frosted thermometer furred with ice, its red column sinking; femoral -> red pipes beside a long white thigh bone; cannulation -> small brass cannons already pushed into the thigh pipes and joined to the truck; aneurysm -> a big pink bubble-gum bubble on the orca's arch pressing up against the stern; aortic valve replacement -> old dentures in the orca balloon's mouth; hypotension -> a big round pressure gauge with its needle sunk into the low blue zone; sudden gush -> a bright red fountain spurting from under the stern; posterior table -> the inner layer of the stern's wood, just nicked; complete later -> Zoro holding his saw still in the half-cut stern; paravalvular leak -> water leaking round the edge of the old dentures; rapid growth -> the bubble swelling fast
+anchor: the best next step -> the big roller-pump truck roaring through the brass cannons in the thigh pipes and the frosted thermometer sinking, while Zoro holds his saw still in the half-cut stern that spurts red
+scene: A night operating deck on the Thousand Sunny. In the middle of the deck, the stern of a ship lies half cut open again along an old healed scar, and a bright red fountain spurts from under it where the inner layer of the wood is just nicked; Zoro holds his saw still in the half-cut stern. Beneath it a big pink bubble-gum bubble on the giant orca balloon's arch swells fast and presses up against the stern; old dentures sit in the orca's mouth, water leaking round their edge. In the centre, in the strongest light: the big roller-pump truck roars into action, its hoses feeding small brass cannons already pushed into red pipes beside a long white thigh bone, and a frosted thermometer furred with ice shows its red column sinking. A big round pressure gauge has its needle sunk into the low blue zone. Chopper signals Zoro to wait.
+must: Zoro's saw is still, not cutting; no letters or digits are written anywhere
