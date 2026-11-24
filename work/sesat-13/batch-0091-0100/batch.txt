@@ -77,7 +77,7 @@ Memory hook: when the zipper climbs back from the sleeve, sew white all the way 
 == 93
 # Q: tetralogy repaired at 5, lost to follow-up; now NSVT, RV heave, PS gradient 54, dilated annulus, severe PR; old notes missing; in a community hospital: next? A: refer to a centre with congenital heart expertise
 # Nami steering the young man's little boat away from the village clinic towards a far harbour with a lighthouse full of experts = refer to an adult congenital heart centre -> ANSWER
-# the raft of four Tetris blocks = repaired tetralogy of Fallot
+# the raft of four logs, patched, with the blue-lipped boy squatting on it = repaired tetralogy of Fallot
 # the clamp on the money door with a hamsa and cap tattoo = pulmonary stenosis, gradient 54
 # water gurgling back through the stretched brass collar = severe pulmonary regurgitation, dilated annulus
 # the racing tachometer = non-sustained VT
@@ -86,19 +86,19 @@ Memory hook: when the zipper climbs back from the sleeve, sew white all the way 
 title: Repaired tetralogy in trouble at a general hospital: refer to a congenital centre
 titleAr: رباعي فالو مُصلَح في مشفى عام: أحِل المريض إلى مركز للقلب الخلقي
 tags: cardiac/congenital d:indications q:next-step l:2 x:trap
-palette: sea blue and lighthouse white with Tetris colours
+palette: sea blue and lighthouse white with log brown
 words:
-keywords: tetralogy of fallot -> an old raft built of four bright Tetris blocks, patched long ago; congenital centre -> a far harbour with a tall lighthouse full of expert surgeons waiting; referral -> Nami steering the young man's little boat towards the lighthouse; pulmonary stenosis -> a clamp half-squeezing the blue room's door to the money pipe; number 54 (pulmonary gradient, mmHg) -> a small tattoo on the clamp: a blue hamsa hand and a graduation cap; pulmonary regurgitation -> water gurgling back through that door; dilated annulus -> a stretched brass collar round the door; ventricular tachycardia -> a tachometer needle racing in bursts; lost to follow-up -> a torn sea map; missing notes -> an empty folder; community hospital -> a small village clinic left behind; mri (no) -> a horseshoe magnet waved away; mechanical valve (no) -> a robot waved away
-anchor: the next best step -> Nami steering the young man's little boat, towing his old raft of four Tetris blocks, away from the small village clinic towards a far harbour with a tall lighthouse full of expert surgeons waiting
-scene: A blue sea between islands. A young man sits in a little boat on an old raft built of four bright Tetris blocks, patched long ago; a torn sea map and an empty folder lie in it. Beside him the cut-open HART Hotel: a clamp half-squeezes the blue room's door to the money pipe, a small tattoo on the clamp of a blue hamsa hand and a graduation cap, a stretched brass collar round the door, and water gurgles back through it; a tachometer needle races in bursts. Behind, a small village clinic is left behind. In the centre, in the strongest light: Nami steers the little boat, towing the old Tetris-block raft, towards a far harbour with a tall lighthouse full of expert surgeons waiting. Chopper waves away a horseshoe magnet and a robot.
+keywords: tetralogy of fallot -> an old raft of four logs lashed together, patched long ago, the young man squatting on it with faintly blue lips, a waterfall far behind it; congenital centre -> a far harbour with a tall lighthouse full of expert surgeons waiting; referral -> Nami steering the young man's little boat towards the lighthouse; pulmonary stenosis -> a clamp half-squeezing the blue room's door to the money pipe; number 54 (pulmonary gradient, mmHg) -> a small tattoo on the clamp: a blue hamsa hand and a graduation cap; pulmonary regurgitation -> water gurgling back through that door; dilated annulus -> a stretched brass collar round the door; ventricular tachycardia -> a tachometer needle racing in bursts; lost to follow-up -> a torn sea map; missing notes -> an empty folder; community hospital -> a small village clinic left behind; mri (no) -> a horseshoe magnet waved away; mechanical valve (no) -> a robot waved away
+anchor: the next best step -> Nami steering the young man's little boat, towing his old raft of four logs, away from the small village clinic towards a far harbour with a tall lighthouse full of expert surgeons waiting
+scene: A blue sea between islands. A young man with faintly blue lips sits squatting in a little boat towing an old raft of four logs lashed together, patched long ago, a waterfall far behind them; a torn sea map and an empty folder lie in it. Beside him the cut-open HART Hotel: a clamp half-squeezes the blue room's door to the money pipe, a small tattoo on the clamp of a blue hamsa hand and a graduation cap, a stretched brass collar round the door, and water gurgles back through it; a tachometer needle races in bursts. Behind, a small village clinic is left behind. In the centre, in the strongest light: Nami steers the little boat, towing the old four-log raft, towards a far harbour with a tall lighthouse full of expert surgeons waiting. Chopper waves away a horseshoe magnet and a robot.
 must: the boat heading to the lighthouse is the brightest, central thing; no letters or digits are written anywhere
 story:
-على بحر أزرق بين الجزر، جلس شابّ في قارب صغير يجرّ طوفًا قديمًا من أربع قطع تتريس زاهية، رقّع منذ زمن بعيد.
+على بحر أزرق بين الجزر، جلس شابّ أزرق الشفتين القرفصاء في قارب صغير يجرّ طوفًا قديمًا من أربعة جذوع مربوطة، رقّع منذ زمن بعيد، وخلفهما شلّال بعيد.
 وفي القارب خريطة بحريّة ممزّقة، وملفّ فارغ لا ورقة فيه.
 وفي فندقه مشبك يعصر نصف عصر باب الغرفة الزرقاء إلى أنبوب المال، عليه وشم صغير: الخمسة والقبّعة.
 وحول الباب طوق نحاسيّ ممطوط، والماء يقرقر راجعًا منه، وإبرة عدّاد الدوران تتسابق في نوبات.
 «نرسو هنا في عيادة القرية، وننادي المغناطيس والرّوبوت!» قال أوسوب.
-لكنّ تشوبر صرف المغناطيس والرّوبوت؛ فطوف التتريس هذا له صنّاع يعرفون رقعه.
+لكنّ تشوبر صرف المغناطيس والرّوبوت؛ فطوف الجذوع الأربعة هذا له صنّاع يعرفون رقعه.
 فتركوا عيادة القرية الصغيرة خلفهم.
 وأمسكت نامي دفّة القارب تجرّ الطوف القديم، نحو ميناء بعيد فيه منارة عالية مليئة بالجرّاحين الخبراء ينتظرون.
 «هناك من يعرف هذه الرقع قطعةً قطعة!» قالت نامي.
@@ -111,28 +111,28 @@ He should be referred to a centre with adult congenital heart expertise.
 There he needs a full assessment, cardiac MRI and an arrhythmia study, and a planned pulmonary valve replacement, often with arrhythmia surgery, by a team that knows these hearts and their reoperations.
 Guidelines advise that adults with complex repaired congenital disease be cared for in, or with, a specialist congenital centre.
 An MRI or an electrophysiology consult alone does not provide this care, and a mechanical pulmonary valve is a poor choice in this position.
-In the picture, Nami steers the boat and the old Tetris raft away from the village clinic towards the lighthouse full of experts.
-Memory hook: an old Tetris raft goes back to the lighthouse of its makers.
+In the picture, Nami steers the boat and the old four-log raft away from the village clinic towards the lighthouse full of experts.
+Memory hook: an old four-log raft goes back to the lighthouse of its makers.
 
 == 94
 # Q: tetralogy repaired as a neonate with the pulmonary valve kept; asthma, 15 pack-years; echo every 3 years with mild-moderate PS; now breathless, RV heave, gradient 52: next? A: cardiac MRI
 # Robin holding a giant horseshoe magnet over the hotel, the whole blue room glowing in outline with its true size and the clamp at its door = cardiac MRI -> ANSWER
-# the old raft of Tetris blocks with the original door kept = repaired tetralogy, native valve preserved
+# the old raft of four logs with the original door kept = repaired tetralogy, native valve preserved
 # the clamp with a hamsa and dragon tattoo = gradient 52
 # the cigar and the inhaler = smoking and asthma
 # the fishing line, the bat and a balloon waved away = right heart cath, TEE, balloon valvuloplasty are not next
 title: Repaired tetralogy with new symptoms: get a cardiac MRI
 titleAr: رباعي فالو مُصلَح مع أعراض جديدة: اطلب الرنين المغناطيسي للقلب
 tags: cardiac/congenital d:diagnosis q:next-step l:2
-palette: magnet red and steel with Tetris colours on night blue
+palette: magnet red and steel with log brown on night blue
 words:
-keywords: mri -> a giant red horseshoe magnet held over the hotel by Robin, the whole blue room glowing in outline; tetralogy of fallot -> an old raft of four bright Tetris blocks under the hotel, patched long ago; pulmonary stenosis -> a clamp half-squeezing the blue room's door to the money pipe; number 52 (pulmonary gradient, mmHg) -> a small tattoo on the clamp: a blue hamsa hand and a green dragon; preserved valve -> the original old door kept on its hinges; chamber growth -> the glowing outline showing how big the blue room has grown; smoking -> a cigar stubbed out in an ashtray; asthma -> a blue inhaler in the woman's hand; breathlessness -> the young woman panting after a few steps; right heart catheterization (no) -> a fishing line waved away; transesophageal (no) -> a bat waved away; balloon valvuloplasty (no) -> a party balloon waved away
+keywords: mri -> a giant red horseshoe magnet held over the hotel by Robin, the whole blue room glowing in outline; tetralogy of fallot -> an old raft of four logs lashed together under the hotel, patched long ago, a waterfall far behind it; pulmonary stenosis -> a clamp half-squeezing the blue room's door to the money pipe; number 52 (pulmonary gradient, mmHg) -> a small tattoo on the clamp: a blue hamsa hand and a green dragon; preserved valve -> the original old door kept on its hinges; chamber growth -> the glowing outline showing how big the blue room has grown; smoking -> a cigar stubbed out in an ashtray; asthma -> a blue inhaler in the woman's hand; breathlessness -> the young woman panting after a few steps; right heart catheterization (no) -> a fishing line waved away; transesophageal (no) -> a bat waved away; balloon valvuloplasty (no) -> a party balloon waved away
 anchor: the best next step -> Robin holding a giant red horseshoe magnet over the hotel, the whole blue room glowing in outline to show how big it has grown, the clamp at its door
-scene: A night-blue clinic on the Thousand Sunny. A young woman pants after a few steps, a blue inhaler in her hand, a cigar stubbed out in an ashtray beside her. The cut-open HART Hotel stands on an old raft of four bright Tetris blocks, patched long ago; its blue room's original old door is kept on its hinges, half-squeezed by a clamp with a small tattoo of a blue hamsa hand and a green dragon. In the centre, in the strongest light: Robin holds a giant red horseshoe magnet over the hotel, and the whole blue room glows in outline, showing how big it has grown. Chopper waves away a fishing line, a bat and a party balloon.
+scene: A night-blue clinic on the Thousand Sunny. A young woman pants after a few steps, a blue inhaler in her hand, a cigar stubbed out in an ashtray beside her. The cut-open HART Hotel stands on an old raft of four logs lashed together, patched long ago, a waterfall far behind it; its blue room's original old door is kept on its hinges, half-squeezed by a clamp with a small tattoo of a blue hamsa hand and a green dragon. In the centre, in the strongest light: Robin holds a giant red horseshoe magnet over the hotel, and the whole blue room glows in outline, showing how big it has grown. Chopper waves away a fishing line, a bat and a party balloon.
 must: the magnet and the glowing blue room are the brightest, central thing; no letters or digits are written anywhere
 story:
 في عيادة زرقاء ليليّة على السفينة، لهثت شابّة بعد خطوات قليلة، في يدها بخّاخ أزرق للرّبو، وبجانبها سيجار مطفأ في منفضة.
-كان فندقها قائمًا على طوف قديم من أربع قطع تتريس زاهية، رقّع منذ كانت رضيعة.
+كان فندقها قائمًا على طوف قديم من أربعة جذوع مربوطة، رقّع منذ كانت رضيعة، وخلفه شلّال بعيد.
 وقد أبقي فيه باب الغرفة الزرقاء الأصليّ على مفاصله، يعصره مشبك نصف عصر، عليه وشم صغير: الخمسة والتّنّين الأخضر.
 «ندخل خيط الصيد في الغرفة! أو الخفّاش في البلعوم! أو ننفخ في الباب بالونًا!» قال أوسوب.
 لكنّ تشوبر صرفها كلّها؛ فلا أحد يعرف بعد كم كبرت الغرفة الزرقاء وراء الباب.
@@ -148,7 +148,7 @@ MRI measures right ventricular volumes and function, pulmonary regurgitation and
 Rising right ventricular volumes and falling function are the main triggers for pulmonary valve replacement.
 Right heart catheterisation and TEE add less, and balloon valvuloplasty is not done before the anatomy is known.
 In the picture, Robin holds the giant horseshoe magnet over the hotel, and the whole blue room glows in outline to show how big it has grown.
-Memory hook: before touching the old Tetris raft, let the magnet show the blue room.
+Memory hook: before touching the old four-log raft, let the magnet show the blue room.
 
 == 95
 # Q: athlete with a bicuspid valve: AR (vena contracta 0.65, EROA 0.3, LVESD 45, LVEDD 65), ascending 3.7 cm, central MR with 35 mL and pulmonary vein flow reversal: best operation? A: aortic valve replacement and mitral valve repair
