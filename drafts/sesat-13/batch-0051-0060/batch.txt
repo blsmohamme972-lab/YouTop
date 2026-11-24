@@ -1,0 +1,181 @@
+book: sesat-13
+
+== 51
+# Q: dyspnoea, old DVT with PE on warfarin, mild COPD, high BNP, mean PA pressure 55, RV enlarged, TAPSE low: best next step? A: ventilation-perfusion scintigraphy (screen for chronic thromboembolic pulmonary hypertension)
+# Robin sweeping a glittering Geiger counter over the two sacks of dollar bills, wind still blowing through them but whole wedges failing to glow = V/Q scan showing mismatched perfusion defects -> ANSWER
+# the old bowling balls lodged in the money pipes = old pulmonary emboli
+# the beaver in the left leg = old deep venous thrombosis
+# the gauge in the red, tattoo of two hamsa hands = pulmonary hypertension, mean PA pressure 55
+# the rat = warfarin
+# the cat set aside = CT is not the first screen for chronic emboli
+title: Pulmonary hypertension after old emboli: screen with a V/Q scan
+titleAr: ارتفاع الضغط الرئوي بعد صمّات قديمة: ابدأ بومضان التهوية والتروية
+tags: cardiac/other d:diagnosis q:next-step l:3 x:trap
+palette: night navy with glittering silver and dollar green
+words:
+keywords: scintigraphy -> a glittering, scintillating Geiger counter swept over the sacks, sparkling where the money glows; pulmonary circulation -> two big sacks of dollar bills on either side of the hotel, breathing in and out; ventilation-perfusion mismatch -> wind still blowing through the sacks while whole wedges of bills stay dark; pulmonary embolism -> old dusty bowling balls lodged deep in the money pipes; deep venous thrombosis -> a beaver chewing a log dam deep in the man's left leg; warfarin -> a grey rat nibbling a white pill on the man's lap; pulmonary hypertension -> a big round pressure gauge on the money pipe, its needle deep in the red; number 55 (mean pulmonary pressure, mmHg) -> a small tattoo on the gauge's rim: a blue hamsa hand and a blue hamsa hand; chronic cough -> a tin of cough drops rattling in the man's pocket; bnp -> a swollen pea pod bursting on the windowsill; kidney -> a pair of red kidney beans slightly wrinkled; six-minute walk -> a short pace counter clicking on the man's belt; ct scan (no) -> a ginger cat with its bread loaf set aside
+anchor: the best next step -> Robin sweeping a glittering, scintillating Geiger counter over the two big sacks of dollar bills; the wind still blows through them, but whole wedges of bills stay dark where old bowling balls block the money pipes
+scene: A navy night in a ship's sick bay. A breathless man sits on a cot, a tin of cough drops rattling in his pocket, a short pace counter clicking on his belt and a grey rat nibbling a white pill on his lap; deep in his left leg a beaver chews a log dam. Behind him the cut-open HART Hotel, its blue room swollen, with two big sacks of dollar bills breathing in and out on either side. Old dusty bowling balls are lodged deep in the money pipes, and a big round pressure gauge on a money pipe has its needle deep in the red, a small tattoo on its rim of two blue hamsa hands. In the centre, in the strongest light: Robin sweeps a glittering, scintillating Geiger counter over the sacks; the wind still blows through them, but whole wedges of bills stay dark where the bowling balls block the pipes. A swollen pea pod bursts on the windowsill and a pair of red kidney beans lies slightly wrinkled. A ginger cat with its bread loaf is set aside. Chopper watches the counter.
+must: the Geiger counter and the dark wedges are the brightest, central thing; no letters or digits are written anywhere
+
+== 52
+# Q: TEVAR for a post-traumatic pseudoaneurysm will cover the left subclavian: absolute indication for a pre-emptive carotid-subclavian bypass? A: a patent LIMA-to-LAD graft
+# the lima bean vine growing out of the flipper and feeding the lad's slide, Franky first running a short green bypass tube from the carrot to the flipper before the sleeve covers its root = patent LIMA-LAD makes the bypass mandatory -> ANSWER
+# the sleeve sliding over the flipper's root = TEVAR covering the left subclavian
+# the fake moustache on the orca's back = post-traumatic pseudoaneurysm
+# the helipad = proximal landing zone
+# the spine bone and the right-hand glove waved away = vertebral origin, handedness: not absolute
+title: Covering the left subclavian with a patent LIMA graft: bypass the subclavian first
+titleAr: تغطية تحت الترقوة اليسرى مع طعم ثدييّ سليم: اعمل المجازة أوّلاً
+tags: cardiac/aorta d:indications q:recall l:2 x:high-yield
+palette: steel sky grey with lima green and carrot orange
+words:
+keywords: stent-graft -> a long silver fabric sleeve sliding inside the orca balloon's arched back, about to cover the root of its left flipper; subclavian -> the orca balloon's left flipper, its root about to be covered; left internal mammary artery -> a living green lima bean vine growing out of the flipper and running down onto the lad's slide; left anterior descending -> a young lad sliding down the front of the green crown, fed by the vine; carotid -> a giant orange carrot standing up from the arch; carotid-subclavian bypass -> a short green tube Franky sews from the carrot to the flipper; pseudoaneurysm -> a fake moustache stuck on the orca's back, covering a bulge; landing zone -> a small helipad painted on the arch where the sleeve's end lands; trauma -> a crashed motorbike lying on its side below; pre-emptive -> an umbrella opened before the rain; vertebral origin (no) -> a small spine bone set aside; right-handed (no) -> a right-hand glove waved away
+anchor: the absolute indication -> the living green lima bean vine growing out of the orca's left flipper and feeding the young lad's slide, while Franky sews a short green tube from the carrot to the flipper before the silver sleeve covers the flipper's root
+scene: A steel-grey sky over the Thousand Sunny's deck. A crashed motorbike lies on its side below the giant orca balloon, whose arched back carries a fake moustache stuck over a bulge. A long silver fabric sleeve slides inside the arched back, its end landing on a small helipad painted on the arch, about to cover the root of the orca's left flipper. In the centre, in the strongest light: a living green lima bean vine grows out of the flipper and runs down onto the slide of a young lad sliding down the front of the green crown on the hotel below; Franky sews a short green tube from a giant orange carrot standing up from the arch to the flipper, before the sleeve covers it. Usopp holds an umbrella opened before the rain. A small spine bone is set aside, and Chopper waves away a right-hand glove.
+must: the vine must clearly grow from the flipper to the lad; no letters or digits are written anywhere
+
+== 53
+# Q: Marfan woman, 32 weeks pregnant, aortic root grown from 38 to 42 mm: best management? A: elective caesarean section at term, then aortic root replacement
+# on the left Caesar in a laurel wreath lifting the baby out on the booked day of the ripe pumpkin, and only then, to the right, Franky putting a bendy straw in place of the marionette's salsa jar = elective caesarean at term, then root replacement -> ANSWER
+# the marionette = Marfan syndrome
+# the salsa jar with a tape round it, tattoo of graduation cap and green dragon = root grown to 42 mm
+# the ballot box = elective
+# the ripe pumpkin = at term
+# the alarm clock and the stork waved away = not immediate, not vaginal delivery
+title: Marfan in pregnancy with a growing root: elective caesarean at term, then the root
+titleAr: مارفان مع حمل وجذر يكبر: قيصرية مُبرمجة عند التمام ثم الجذر
+tags: cardiac/aorta d:indications q:vignette l:2
+palette: warm laurel gold and pumpkin orange with marionette crimson
+words:
+keywords: marfan -> a tall, long-limbed marionette on strings, a young woman expecting a baby; aortic root -> a jar of red salsa at the base of the orca balloon above the hotel, swelling; number 42 (aortic root, mm) -> a small tattoo on the salsa jar: a graduation cap and a green dragon; root growth -> a tape measure round the salsa jar, showing it has grown; echocardiography -> a bat sending rings of sound at the jar; ct angiography -> a photographer flashing a camera at the jar, magenta dye in the pipes; caesarean section -> Caesar in a laurel wreath lifting the baby out through a neat cut; pregnancy -> the marionette's round belly holding a baby; at term -> a ripe orange pumpkin on the calendar day; elective -> a ballot box with the booked date dropped in; immediate (no) -> a ringing alarm clock waved away; vaginal delivery (no) -> a stork waved away; root replacement -> Franky lifting out the swollen salsa jar and putting in its place a big bendy straw of white fabric with a set of dentures at its lower end
+anchor: the best plan -> on the left, Caesar in a laurel wreath lifting the baby out of the marionette's belly on the day of the ripe pumpkin, and only then, on the right, Franky putting a big bendy straw of white fabric, dentures at its lower end, in place of her swelling salsa jar
+scene: A warm golden room on Water 7, a path from left to right. A tall, long-limbed young woman marionette on strings lies expecting a baby, her round belly holding it; above her the cut-open HART Hotel with the orca balloon, a swelling jar of red salsa at its base, a tape measure round it showing it has grown, a small tattoo on it of a graduation cap and a green dragon. A bat sends rings of sound at the jar, and a photographer flashes a camera at it, magenta dye in the pipes. In the centre, in the strongest light, first on the left: Caesar in a laurel wreath lifts the baby out through a neat cut, beside a ripe orange pumpkin and a ballot box with the booked date dropped in; then, on the right: Franky lifts out the swollen salsa jar and puts in its place a big bendy straw of white fabric with a set of dentures at its lower end. Chopper waves away a ringing alarm clock and a stork.
+must: Caesar comes first on the left, Franky's jar after on the right; no letters or digits are written anywhere
+
+== 54
+# Q: CABG; 450 IU/kg heparin given after sternotomy; before cannulation the ACT is only 300 s: next? A: recheck the ACT
+# the magician repeating his trick with a second stopwatch, the first stopwatch cracked = recheck the ACT, likely a sampling error -> ANSWER
+# the big hare on the weighing scale, tattoo of cap, hamsa and whistle = 450 IU/kg heparin, a full dose
+# the magician's hat, tattoo of fox and two whistles = ACT 300
+# the cannons still unlit = not yet cannulated
+# the extra hare, the popsicle and the green flag waved away = more heparin, FFP, proceeding are wrong for now
+title: A low ACT after a full heparin dose: recheck it first
+titleAr: زمن تخثّر منخفض بعد جرعة هيبارين كاملة: أعِد القياس أوّلاً
+tags: cardiac/cpb d:technique q:next-step l:2 x:trap
+palette: theatre purple and gold with a white hare
+words:
+keywords: heparin -> a big white hare sitting on a weighing scale beside the hotel; number 450 (heparin dose, IU per kg) -> a small tattoo on the hare's ear: a graduation cap, a blue hamsa hand and a golden whistle; activated clotting time -> a stage magician in a top hat timing a trick with a stopwatch; number 300 (ACT, seconds) -> a small tattoo on the magician's top hat: a red fox with three tails and two golden whistles; recheck -> the magician repeating his trick with a second, new stopwatch; sampling error -> the first stopwatch cracked across its face; dose per weight -> the weighing scale under the hare; perfusionist -> a perfumer spraying a fine mist beside the pump truck; cannulation -> small brass cannons still unlit beside the hotel's pipes; cpb -> a roller-pump truck waiting with its hoses coiled; fresh frozen plasma (no) -> an ice lolly waved away; more heparin (no) -> a second hare waved away; proceed (no) -> a green flag kept lowered
+anchor: the best next step -> the stage magician in a top hat repeating his trick with a second, new stopwatch, the first stopwatch cracked across its face, while the big white hare sits on its weighing scale
+scene: A purple-and-gold theatre in the hold of the Thousand Sunny; the cut-open HART Hotel stands on the stage. A roller-pump truck waits with its hoses coiled, a perfumer sprays a fine mist beside it, and small brass cannons beside the hotel's pipes are still unlit. A big white hare sits on a weighing scale, a small tattoo on its ear of a graduation cap, a blue hamsa hand and a golden whistle. In the centre, in the strongest light: a stage magician in a top hat, a small tattoo on the hat of a red fox with three tails and two golden whistles, holds up his first stopwatch, cracked across its face, and repeats his trick with a second, new stopwatch. Chopper waves away an ice lolly and a second hare, and Usopp keeps a green flag lowered.
+must: the magician and the two stopwatches are the brightest, central thing; no letters or digits are written anywhere
+
+== 55
+# Q: dilated cardiomyopathy, being considered for an LVAD, creatinine 1.6 -> 2.8 in two months, 20 kg over dry weight, left- and right-sided congestion: therapy? A: pulmonary-artery-catheter-guided tailored therapy
+# the tailor threading a fishing line with a red float into the money pipe, reading its dial and cutting the lasso and the pump to measure = PA catheter-directed tailored therapy -> ANSWER
+# the over-pulled accordion = dilated cardiomyopathy
+# Vader waiting at the door = LVAD considered
+# the kidney beans in a pot of boiling cream = rising creatinine, cardiorenal
+# the dragon and whistle tattoo on the scale = 20 kg over dry weight
+# the overflowing gutters on both sides = left- and right-sided congestion
+# the bucket of water waved away = no fluid challenge
+title: Cardiorenal failure before an LVAD: tailored therapy guided by a PA catheter
+titleAr: فشل قلبي كلوي قبل الجهاز المساعد: علاج مُفصَّل بقثطرة الشريان الرئوي
+tags: cardiac/heart-failure d:postoperative q:next-step l:3
+palette: tailor's chalk blue and cream with a red float
+words:
+keywords: tailored therapy -> a tailor with a tape measure round his neck cutting the lasso and the pump's hose to measure; pulmonary artery catheter -> a fishing line with a little red balloon float threaded through the blue room into the money pipe, a dial on its reel; dilated cardiomyopathy -> the hotel's engine rooms sagging wide and floppy like an over-pulled accordion; ventricular assist device -> Darth Vader, a glowing box on his chest, waiting at the hotel door; creatinine -> a pair of red kidney beans in a pot of boiling cream rising over the rim; congestive heart failure -> yellow taxis stuck in a traffic jam round the hotel; furosemide -> a lasso being shortened by the tailor; number 20 (kilograms over dry weight) -> a small tattoo on the bathroom scale: a green dragon and a golden whistle; dry weight -> a dry sponge hanging on a hook, the woman's own one soaked; both-sided congestion -> gutters overflowing on both sides of the hotel; fluid challenge (no) -> a bucket of water waved away; intrinsic disease hunt (no) -> a magnifying glass set aside
+anchor: the most appropriate therapy -> a tailor with a tape measure round his neck reading the dial of a fishing line whose little red balloon float sits in the money pipe, cutting the lasso and the pump's hose to measure, while Darth Vader waits at the door
+scene: A cream-and-chalk-blue tailor's shop in Water 7. A heavy woman stands on a bathroom scale with a small tattoo on it of a green dragon and a golden whistle; beside her a dry sponge hangs on a hook while her own is soaked. Behind her the cut-open HART Hotel, its engine rooms sagging wide and floppy like an over-pulled accordion, yellow taxis stuck in a traffic jam round it and gutters overflowing on both sides. A pair of red kidney beans sits in a pot of boiling cream rising over the rim. In the centre, in the strongest light: a tailor with a tape measure round his neck reads the dial on the reel of a fishing line whose little red balloon float sits in the money pipe, and cuts a lasso and the pump's hose to measure. Darth Vader, a glowing box on his chest, waits at the hotel door. Chopper waves away a bucket of water, and a magnifying glass is set aside.
+must: the tailor and the fishing line's red float are the brightest, central thing; no letters or digits are written anywhere
+
+== 56
+# Q: 3 months after CABG; EF was 22%, now 28%; feels well, NYHA II: next? A: an implantable cardioverter-defibrillator
+# the bodyguard stepping in front of the hotel and seizing Pinocchio before he can strike = ICD for primary prevention of sudden death -> ANSWER
+# the bouncer with a tattoo of dragon and violin = EF still 28%
+# the cabbage leaves round the crown = recent CABG
+# the man on the second floor of the Empire State = NYHA II
+# the reaper in the shadow = sudden cardiac death
+# Vader and the halter waved away = no LVAD, no Holter
+title: EF still under 35 three months after CABG: implant an ICD
+titleAr: كسر القذف ما زال تحت ٣٥ بعد ثلاثة أشهر من المجازات: زرع مزيل الرجفان
+tags: cardiac/arrhythmia d:indications q:next-step l:2 x:guideline
+palette: night-club magenta and black with a bodyguard's navy suit
+words:
+keywords: implantable cardioverter defibrillator -> a broad bodyguard in a navy suit and earpiece stepping in front of the hotel; ventricular fibrillation -> Pinocchio with a jittering long nose, creeping up to strike, seized by the bodyguard; ejection fraction -> a nightclub bouncer at the red room's door throwing out few guests; number 28 (ejection fraction, percent) -> a small tattoo on the bouncer's hand: a green dragon and a violin; cabg -> fresh cabbage leaves laid over the green crown's spikes; nyha -> the man standing on the second floor of the Empire State Building model; sudden cardiac death -> a hooded reaper lurking in the shadow behind the hotel beside an open coffin; primary prevention -> an umbrella opened over the hotel before any rain; feels well -> the man humming happily; better exercise -> a skipping rope in the man's hand; waiting period over -> an emptied hourglass on the step; ventricular assist device (no) -> Darth Vader waved away; holter (no) -> a horse's halter set aside
+anchor: the most appropriate next step -> a broad bodyguard in a navy suit stepping in front of the hotel and seizing Pinocchio before he can strike, while the bouncer with a dragon-and-violin tattoo throws out few guests
+scene: A magenta-and-black night outside a club on Sabaody. A man hums happily on the second floor of an Empire State Building model, a skipping rope in his hand, an emptied hourglass on the step. Below, the cut-open HART Hotel with fresh cabbage leaves laid over the green crown's spikes; at the red room's door a nightclub bouncer, a small tattoo on his hand of a green dragon and a violin, throws out few guests. A hooded reaper lurks in the shadow behind the hotel beside an open coffin, and an umbrella is opened over the hotel before any rain. In the centre, in the strongest light: a broad bodyguard in a navy suit and earpiece steps in front of the hotel and seizes Pinocchio, whose jittering long nose was creeping up to strike. Chopper waves away Darth Vader, and a horse's halter is set aside.
+must: the bodyguard and Pinocchio are the brightest, central thing; no letters or digits are written anywhere
+
+== 57
+# Q: first heart-failure episode, severe MR with bileaflet tethering, LVEDD 5.8, EF 35%, global hypokinesis, moderate TR, normal coronaries: treatment? A: optimise medical therapy
+# Chopper slowly turning the tuning dial while the goalkeeper, the tennis player and the lasso work on the floppy accordion, the surgeons' tools waiting on a shelf = optimise guideline medical therapy first -> ANSWER
+# the carpenter pulling both mitre flaps down by strings, water gurgling back = functional MR from bileaflet tethering
+# the bouncer with a fox and hamsa tattoo = EF 35%
+# the clean crown = normal coronaries
+# the first candle = first heart-failure episode
+# the bodyguard, Vader and the trident on the shelf = ICD, LVAD, valve repair: not yet
+title: New dilated cardiomyopathy with functional MR: optimise medical therapy first
+titleAr: اعتلال عضلي متوسّع جديد مع قلس وظيفي: حسِّن العلاج الدوائي أوّلاً
+tags: cardiac/heart-failure cardiac/mitral-tricuspid d:indications q:vignette l:2 x:trap
+palette: soft morning teal with brass dials and candle yellow
+words:
+keywords: optimization -> Chopper slowly turning a big brass tuning dial towards its sweet spot; dilated cardiomyopathy -> the hotel's engine rooms sagging wide and floppy like an over-pulled accordion; beta-blocker -> a goalkeeper in gloves catching flying balls at the red room; ace inhibitor -> a tennis player softly returning balls at the pipes; furosemide -> a lasso pulling water out of the hotel; leaflet tethering -> a carpenter pulling both flaps of the mitre down by strings, water gurgling back between them; ejection fraction -> a nightclub bouncer at the red room's door throwing out few guests; number 35 (ejection fraction, percent) -> a small tattoo on the bouncer's arm: a red fox with three tails and a blue hamsa hand; normal coronaries -> the green crown on the roof shining clean, no tar; first episode -> a single first candle lit on the table; global hypokinesis -> a sleepy globe yawning on the shelf; give it time -> an hourglass running; surgery (no) -> a bodyguard, Darth Vader and a trident waiting on a high shelf
+anchor: the most appropriate treatment -> Chopper slowly turning a big brass tuning dial towards its sweet spot while a goalkeeper, a tennis player and a lasso work on the floppy accordion hotel, the surgeons' tools waiting on a high shelf
+scene: A soft teal morning in Chopper's sick bay. The cut-open HART Hotel stands with its engine rooms sagging wide and floppy like an over-pulled accordion; a carpenter pulls both flaps of the mitre down by strings, and water gurgles back between them; at the red room's door a nightclub bouncer, a small tattoo on his arm of a red fox with three tails and a blue hamsa hand, throws out few guests. The green crown on the roof shines clean, no tar. A single first candle is lit on the table and an hourglass runs beside it. In the centre, in the strongest light: Chopper slowly turns a big brass tuning dial towards its sweet spot, while a goalkeeper in gloves catches flying balls at the red room, a tennis player softly returns balls at the pipes and a lasso pulls water out of the hotel. A bodyguard, Darth Vader and a trident wait on a high shelf, and a sleepy globe yawns beside them.
+must: the tuning dial and the three medicine figures are the brightest, central thing; no letters or digits are written anywhere
+
+== 58
+# Q: decompensated HF, diffuse 3-vessel disease, severe functional MR, EF 18%, LVEDD 6.9: therapy with the best 5-year survival? A: orthotopic heart transplantation
+# the gardener setting a new heart, as a clipped topiary in a flowerpot, exactly in the old heart's place, a lifebuoy and a gold medal hung on it = orthotopic transplant has the best 5-year survival -> ANSWER
+# the hamsa hand on the medal = 5 years
+# the bouncer with a unicorn and violin tattoo = EF 18%
+# the crown smeared with tar on all three spikes = diffuse 3-vessel disease
+# the gurgling mitre = functional MR
+# Vader and the cabbage set lower = LVAD and CABG/MV repair survive less
+title: End-stage ischaemic cardiomyopathy: transplant gives the best 5-year survival
+titleAr: اعتلال إقفاري متقدّم: زرع القلب يعطي أفضل بقاء لخمس سنوات
+tags: cardiac/heart-failure d:evidence q:vignette l:2
+palette: garden green and gold with terracotta
+words:
+keywords: heart transplant -> a gardener setting a new heart, clipped as a topiary, in a terracotta flowerpot; orthotopic -> the new topiary set exactly in the old heart's own spot, the same place; survival -> a lifebuoy hung on the flowerpot; best -> a gold medal hung on the lifebuoy; number 5 (years of survival) -> a small painting on the gold medal: a blue hamsa hand; ejection fraction -> a nightclub bouncer at the red room's door throwing out hardly any guests; number 18 (ejection fraction, percent) -> a small tattoo on the bouncer's arm: a white unicorn and a violin; dilated cardiomyopathy -> the old engine rooms sagging wide and floppy like an over-pulled accordion; diffuse three-vessel disease -> the old green crown's three spikes all smeared with black tar from end to end; mitral regurgitation -> water gurgling back through the mitre; decompensated -> a tent collapsing behind the hotel; ventricular assist device (no) -> Darth Vader on a lower step; cabg (no) -> a cabbage on a lower step
+anchor: the best 5-year survival -> a gardener setting a new heart, clipped as a topiary, in a terracotta flowerpot exactly in the old accordion heart's spot, a lifebuoy and a gold medal with a painted hamsa hand hung on it
+scene: A green garden on Sky Island, gold light; a winners' podium. On one side the old cut-open HART Hotel, its engine rooms sagging wide and floppy like an over-pulled accordion, its green crown's three spikes all smeared with black tar from end to end, water gurgling back through the mitre; at the red room's door a nightclub bouncer, a small tattoo on his arm of a white unicorn and a violin, throws out hardly any guests; a tent collapses behind it. In the centre, on the top step, in the strongest light: a gardener sets a new heart, clipped as a topiary, in a terracotta flowerpot exactly in the old heart's own spot; a lifebuoy hangs on the flowerpot and on it a gold medal with a small painted blue hamsa hand. On lower steps stand Darth Vader and a cabbage. Robin hands the gardener the medal.
+must: the topiary heart in its flowerpot is on the top step, the brightest thing; no letters or digits are written anywhere
+
+== 59
+# Q: redo mitral replacement through femoral cannulation; retracting the left atrium, venous drainage falls, CVP rises to 20, the right heart distends: next? A: add a cannula in the superior vena cava
+# Franky pushing a second brass cannon into the chimney so the blue water drains again = add an SVC cannula -> ANSWER
+# the hook pulling back the yellow lobby and pinching the pipe = retracting the left atrium kinks the drainage
+# the thigh-bone cannon = femoral venous cannulation
+# the gauge with a dragon and whistle tattoo = CVP 20
+# the swollen blue room = distended right heart
+# the stern with an old scar, the mitre gurgling = redo for recurrent MR
+# the bigger pipe and the pulled-back cannon waved away = upsizing or repositioning does not fix it
+title: Poor venous drainage on femoral bypass: add an SVC cannula
+titleAr: نزح وريدي ضعيف مع القنية الفخذية: أضف قنية في الوريد الأجوف العلوي
+tags: cardiac/cpb d:technique q:next-step l:2
+palette: workshop brass and smoky blue with a red gauge
+words:
+keywords: superior vena cava -> the hotel's chimney, blue water backing up inside it; cannulation -> a second small brass cannon Franky pushes into the chimney so the blue water drains again; femoral -> a long white thigh bone carrying the first brass cannon up from below; cpb -> a roller-pump truck straining, its blue hose half empty; redo sternotomy -> the ship's stern with an old healed scar down its white centre line; mitral regurgitation -> water gurgling back through the mitre; retractor -> a grappling hook pulling back the yellow lobby's wall; kinked drainage -> the pipe from the yellow lobby pinched flat by the hook; central venous pressure -> a pressure gauge on the chimney; number 20 (CVP, mmHg) -> a small tattoo on the gauge's rim: a green dragon and a golden whistle; swollen right heart -> the blue room bulging like a balloon; elderly woman -> a grandmother with a cane; upsize (no) -> a bigger pipe waved away; pull back (no) -> a cannon being pulled back, waved away
+anchor: the best next step -> Franky pushing a second small brass cannon into the hotel's chimney so the backed-up blue water drains again into the roller-pump truck
+scene: A brass workshop in Water 7, smoky blue light. A grandmother with a cane lies on the table, the ship's stern with an old healed scar down its white centre line in front of her. Above her the cut-open HART Hotel: water gurgles back through the mitre, a grappling hook pulls back the yellow lobby's wall and pinches the pipe beneath it flat, and the blue room bulges like a balloon. A long white thigh bone carries the first brass cannon up from below, and a roller-pump truck strains, its blue hose half empty. A pressure gauge on the chimney has a small tattoo on its rim of a green dragon and a golden whistle. In the centre, in the strongest light: blue water backs up inside the hotel's chimney, and Franky pushes a second small brass cannon into it so the water drains again. Chopper waves away a bigger pipe, and Usopp waves away a cannon being pulled back.
+must: the second cannon goes into the CHIMNEY at the top; no letters or digits are written anywhere
+
+== 60
+# Q: after hemi-arch for type A, residual dissection, false lumen perfused from the arch to the left iliac, SMA and right renal off the false lumen, normal diameters, recovering well: next? A: repeat CTA of the thoracoabdominal aorta in 1 month
+# the ginger cat with a magenta-dyed loaf and a one-month calendar with a unicorn, calmly watching the unzipped orca = surveillance CTA in a month -> ANSWER
+# the open zipper from the arch down to the lilac = residual dissection to the left iliac
+# the spaghetti and the right kidney bean fed from the false channel = SMA and right renal from the false lumen
+# the snug ring = normal diameters
+# the woman packing her bag = recovering well
+# the sleeve, the window and the long branched sleeve set aside = no endograft or fenestration now
+title: Residual dissection with normal diameters and no malperfusion: repeat CTA in a month
+titleAr: تسلّخ متبقٍّ بأقطار طبيعية دون نقص تروية: أعِد التصوير بعد شهر
+tags: cardiac/aorta d:postoperative q:next-step l:2 x:trap
+palette: calm lavender and lilac with ginger and magenta
+words:
+keywords: ct angiography -> a ginger cat slicing a loaf of bread soaked in magenta dye; surveillance -> the cat calmly watching through a little spyglass; number 1 (months until the scan) -> a small painting on the cat's calendar: a white unicorn; aortic dissection -> a long zipper left open along the orca balloon from its arch down its tail; iliac -> a sprig of lilac at the left end of the orca's tail, the zipper reaching it; mesenteric -> a plate of spaghetti fed from the open zipper's channel; renal -> a red kidney bean on the right, fed from the same channel; normal diameter -> a snug ring that still fits round the orca; residual -> leftover crumbs of the old seam; recovering well -> a smiling woman packing her bag to go home; stent-graft (no) -> a silver sleeve set aside; fenestration (no) -> a small window frame set aside; hemi-arch -> a neat half-moon patch already sewn on the orca's arch
+anchor: the most appropriate next step -> a ginger cat calmly watching the unzipped orca balloon through a little spyglass, a loaf soaked in magenta dye beside it and a calendar with a small painting of a white unicorn
+scene: A calm lavender evening on a Grand Line beach. A smiling woman packs her bag to go home. Above her the giant orca balloon has a neat half-moon patch already sewn on its arch, and a long zipper left open from its arch down to its tail, reaching a sprig of lilac at the left end of the tail; leftover crumbs of the old seam lie along it. From the open zipper's channel a plate of spaghetti and a red kidney bean on the right are fed, both still full. A snug ring still fits round the orca. In the centre, in the strongest light: a ginger cat calmly watches the orca through a little spyglass, a loaf of bread soaked in magenta dye beside it and a calendar with a small painting of a white unicorn. A silver sleeve and a small window frame are set aside.
+must: the cat and the calendar are the brightest, central thing; no letters or digits are written anywhere
