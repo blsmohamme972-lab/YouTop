@@ -1,5 +1,4 @@
 book: sesat-13
-
 == 41
 # Q: type A dissection repair under circulatory arrest; the tear runs along the greater curve of the arch into the base of the head vessels: arch strategy? A: total arch replacement with antegrade cerebral perfusion
 # Franky replacing the whole arched back of the orca with a white fabric arch, re-sewing the brachiosaurus, the carrot and the flipper onto it, cold water flowing forwards through small hoses into the head lantern = total arch with antegrade cerebral perfusion -> ANSWER
@@ -16,6 +15,26 @@ keywords: aortic dissection -> a long zipper torn open along the top of the orca
 anchor: the best strategy for the arch -> Franky sewing a whole new white fabric arch in place of the orca's torn arched back, the brachiosaurus, the carrot and the flipper re-sewn onto it, while cold water flows forwards through small hoses into the head lantern
 scene: The cut-open HART Hotel, the giant orca balloon and a head-shaped lantern above them all frozen inside one giant ice cube, glacier-blue light. A long zipper is torn open along the outer top curve of the orca's arched back, a crack spreading fast into the bases of the necks that rise from it. In the centre, in the strongest light: Franky sews a whole new white fabric arch in place of the torn arched back and re-sews onto it a long-necked brachiosaurus, a giant orange carrot and the orca's left flipper; small hoses carry cold water forwards up into the head-shaped lantern, which stays lit. The end of the new tube is an open seam. Usopp holds up a card showing a half-moon cut, and Franky waves it away. Chopper holds the hoses.
 must: the WHOLE arch is new, with the three necks re-sewn onto it; no letters or digits are written anywhere
+story:
+في ضوء أزرق كالجليد، تجمّد الفندق ومنطاد الحوت وفانوس على شكل رأس في مكعّب جليد عملاق واحد.
+وعلى المنحنى الخارجيّ الأعلى لظهر الحوت المقوّس، انفتح سحّاب طويل، وشقّ يجري سريعًا حتّى قواعد الأعناق الصاعدة منه.
+«نقصّ تحت القوس هلالًا صغيرًا كالعادة، وننتهي!» قال أوسوب، ورفع بطاقةً عليها قطع على شكل هلال.
+لكنّ فرانكي لوّح بالبطاقة بعيدًا؛ فالشّقّ قد دخل في الأعناق، والهلال يتركه وراءه.
+وأمسك تشوبر خراطيم صغيرةً تحمل الماء البارد إلى الأمام، صعودًا إلى الفانوس الّذي على شكل رأس، فبقي مضيئًا.
+فخاط فرانكي قوسًا جديدًا كاملًا من القماش الأبيض مكان الظهر الممزّق.
+ثمّ أعاد خياطة البراكيوصور ذي العنق الطويل، والجزرة البرتقاليّة العملاقة، وزعنفة الحوت اليسرى، على القوس الجديد.
+وترك طرف الأنبوب الجديد درزةً مفتوحةً يخيطها على مهل.
+«القوس كلّه جديد، والرّأس يشرب من الأمام!» قال فرانكي.
+فقالت روبين بيتًا للمتنبّي:
+quote: «إذا غامرت في شرف مروم، فلا تقنع بما دون النجوم.»
+source: المتنبّي
+explanation:
+When a type A tear runs along the greater curve of the arch into the bases of the head vessels, the right repair is total arch replacement with antegrade cerebral perfusion.
+A hemi-arch replacement would leave the torn arch and the entry into the head vessels behind, with a high risk of later rupture or redissection.
+The head vessels are reattached to the new arch graft, as separate branches or as an island.
+Antegrade cerebral perfusion through the axillary or carotid arteries feeds the brain throughout the longer arrest that an arch replacement needs.
+In the picture, Franky sews a whole new white arch and re-sews the three necks, while small hoses feed cold water forwards into the lit head lantern.
+Memory hook: when the crack reaches the necks, replace the whole arch and feed the head from the front.
 
 == 42
 # Q: non-diabetic non-smoker with NSTEMI; LAD 90%, circumflex 60%, mid RCA occluded; good saphenous veins; right-handed, Allen test normal: besides LIMA-LAD? A: right IMA to the OM and the left radial to the posterior descending
@@ -34,6 +53,27 @@ keywords: right internal mammary artery -> a second green lima bean vine growing
 anchor: the best two extra grafts -> a second lima bean vine from the right chest wall curling to the acrobat's back-left spike, and a silver radio antenna pulled from the patient's LEFT forearm laid as a bridge onto the tar-choked rainbow spike
 scene: A green jungle clearing; the patient sits writing with his right hand, his left arm resting at ease, his left palm opening and flushing pink, a tobacco pipe snapped in two on the table. Behind him the cut-open HART Hotel with the green crown on its roof. In the centre, in the strongest light: a second green lima bean vine grows from the right side of the chest wall and curls round to the crown's back-left spike, where a circus acrobat flexes, his spike only partly tarred; on his arm a small tattoo of the Sitt in a golden gown and a golden whistle; and Franky lays a long thin silver radio antenna, pulled out of the patient's left forearm, as a bridge onto the crown's right spike, a long rainbow arc stuffed solid with black tar from a plug at its start. A first lima bean vine runs from the left chest wall onto the slide of a young lad sliding down the front of the crown. A necklace of blue sapphires lies in a jewellery box, kept in reserve. Chopper holds the box.
 must: the antenna comes from the LEFT forearm; the right vine goes to the acrobat, the antenna to the rainbow; no letters or digits are written anywhere
+story:
+في فسحة خضراء في الأدغال، جلس رجل يكتب بيده اليمنى، وذراعه اليسرى مستريحة، وعلى الطاولة غليون تبغ مكسور نصفين.
+وخلفه الفندق، وعلى سطحه التاج الأخضر: الفتى ينزلق على مقدّمه، والبهلوان على الشوكة الخلفيّة اليسرى، شوكته مسدودة بعض السدّ، وعلى ذراعه وشم صغير: الستّ والصّفّارة.
+أمّا الشوكة اليمنى، قوس قزح الطويل، فمحشوّة بالقار الأسود من سدادة في أوّلها.
+«عندنا عقد ياقوت أزرق؛ نمدّه إلى الشوكتين!» قال أوسوب.
+لكنّ تشوبر أبقى العقد في علبة الجواهر احتياطًا؛ فهذا رجل يستحقّ الشرايين الحيّة.
+فنمت كرمة ليما أولى من الجدار الأيسر إلى مزلقة الفتى، وكرمة ثانية من الجدار الأيمن التفّت حتّى بلغت البهلوان.
+ثمّ فتح الرجل كفّه اليسرى، فاحمرّت ورديّةً سريعًا.
+فسحب فرانكي من ساعده الأيسر هوائيًّا فضّيًّا رفيعًا طويلًا، ومدّه جسرًا على قوس قزح المسدود.
+«اليد اليمنى للكتابة، واليسرى تعطي الهوائيّ!» قال فرانكي.
+فضحك لوفي وقال ما قاله يومًا لزورو:
+quote: «أعظم مبارز في العالم؟ يبدو هذا جميلًا! فملك القراصنة لا يرضى في طاقمه بأقلّ من الأفضل!»
+source: مونكي دي لوفي
+explanation:
+For an all-arterial operation with a 90% LAD, a 60% circumflex marginal and an occluded right coronary artery, the best plan besides the LIMA to the LAD is the right IMA to the obtuse marginal and the left radial artery to the posterior descending artery.
+The radial artery goes to the occluded right coronary system, where there is no native flow to compete with it.
+The right IMA, an in situ artery, tolerates the moderate 60% marginal lesion better than a radial would.
+He is right-handed with a normal Allen test, so the radial is taken from the non-dominant left arm.
+The good saphenous veins are kept in reserve.
+In the picture, the right vine curls to the acrobat and Franky lays the antenna from the left forearm onto the tarred rainbow.
+Memory hook: the radial to the blocked rainbow, the mammaries to the living spikes.
 
 == 43
 # Q: circumflex 70%, mid RCA 90%, a short left main, the catheter slips into the LAD with hypotension, LAD disease hard to judge: next? A: fractional flow reserve
@@ -52,6 +92,26 @@ keywords: cardiac catheterization -> a long thin fishing line paid out from a re
 anchor: the best next step -> the fishing line carrying a tiny brass pressure dial across the foggy narrowing on the young lad's slide, a second dial before the narrowing, the two read side by side
 scene: A misty morning in a ship's laboratory; a woman lies on a table with a heavy stone angel on her chest; above her the cut-open HART Hotel with the green crown on its roof. A long thin fishing line, paid out from a reel, runs up past a very short, stubby cast-iron water main with a red valve wheel and slips into the slide of a young lad sliding down the front of the crown through a patch of fog, the float on the line sagging flat as it wedges in. In the centre, in the strongest light: the fishing line carries a tiny brass pressure dial across the foggy narrowing on the lad's slide, while a second dial sits before the narrowing; a pie with a slice missing is painted on the dial, and Chopper reads the two side by side. A big round pressure gauge on the wall has its needle sunk into the low blue zone. A circus acrobat curls round the left side of the crown, partly tarred, and the right spike, a long rainbow arc, is heavily tarred; on the rainbow's end a small tattoo of a little brown monkey and a golden whistle.
 must: two dials, one before and one after the narrowing; no letters or digits are written anywhere
+story:
+في صباح ضبابيّ في مختبر السفينة، استلقت امرأة على الطاولة وعلى صدرها ملاك حجريّ ثقيل.
+وفوقها الفندق وعلى سطحه التاج الأخضر: البهلوان مسدود بعض السدّ، وقوس قزح مسدود كثيرًا، وعلى طرفه وشم صغير: السعدان والصّفّارة.
+فأرخت البكرة خيط صيد طويلًا رفيعًا، صعد إلى أنبوب الماء الحديديّ ذي العجلة الحمراء، وكان الأنبوب قصيرًا جدًّا.
+فانزلق الخيط من فوره إلى مزلقة الفتى، وهبطت عوّامته مسطّحة، وغاصت إبرة المقياس على الجدار في الأزرق.
+وكانت على المزلقة رقعة من الضباب تخفي التضيّق.
+«أظنّه ضيّقًا جدًّا، أو لعلّه واسع؛ لنخمّن!» قال أوسوب.
+لكنّ تشوبر لم يخمّن؛ فحمل على الخيط قرصًا نحاسيًّا صغيرًا عبر التضيّق الضبابيّ، وأبقى قرصًا ثانيًا قبله.
+وعلى القرص فطيرة مرسومة ناقصة قطعةً، فقرأ تشوبر القرصين جنبًا إلى جنب.
+«لا تخمين بعد اليوم؛ القرصان يقولان الحقيقة!» قال تشوبر.
+فقالت روبين لأوسوب مثلًا قديمًا:
+quote: «ما هكذا تورد يا سعد الإبل.»
+source: مثل عربيّ
+explanation:
+When an LAD lesion is hard to judge on angiography, especially with a short left main where the catheter slips into the LAD and damps the pressure, the next step is fractional flow reserve.
+FFR compares the pressure beyond the narrowing with the pressure before it during maximal flow; a ratio of 0.80 or less means the lesion is significant.
+It turns an uncertain picture into a number that decides whether the LAD needs a graft.
+With a 90% right coronary lesion and a 70% circumflex already, knowing whether the LAD is significant shapes the whole plan.
+In the picture, Chopper carries a small dial across the foggy narrowing and reads it against the dial before it.
+Memory hook: when fog hides the slide, read two dials.
 
 == 44
 # Q: slowly progressive breathlessness, distant heart sounds, distended neck veins, pericardial effusion with early tamponade; 300 mL of bloody fluid drained: likely cause? A: malignancy
@@ -70,6 +130,25 @@ keywords: malignancy -> a red crab sitting in the aquarium's red water, pinching
 anchor: the most likely cause -> the red crab sitting in the aquarium's red water, pinching the hotel, while the submarine's needle draws the red water into a jug
 scene: A quiet ward on a Grand Line island. A woman sits upright, a swollen blue cord bulging on her neck. Inside her chest, the cut-open HART Hotel is enclosed in a clear glass aquarium filling with red water that squeezes the thin blue rooms. In the centre, in the strongest light: a red crab sits in the aquarium's red water, pinching the hotel; a small yellow submarine surfacing just below the tip of the breastbone pushes its needle into the aquarium and draws the red water into a jug; on the jug a small tattoo of a red fox with three tails and two golden whistles. A bat sends rings of sound at the aquarium. A drum lies muffled under a thick blanket. A snail crawls along the edge of the aquarium. Chopper waves away a cluster of golden grapes and a stag with an arrow.
 must: the crab is inside the red water round the hotel; no letters or digits are written anywhere
+story:
+في جناح هادئ على جزيرة من الخطّ العظيم، جلست امرأة منتصبةً تلهث، وحبل أزرق منتفخ يبرز على عنقها.
+وفي صدرها حوض زجاجيّ حول الفندق يمتلئ بماء أحمر يعصر الغرف الزرقاء الرقيقة، وحلزون يزحف على حافّته.
+وطبل مكتوم تحت بطّانيّة سميكة، لا يكاد يسمع له صوت، والخفّاش يرسل حلقاته إلى الحوض.
+فطفت غوّاصة صفراء صغيرة تحت طرف عظم الصدر، وغرزت إبرتها في الحوض، وسحبت الماء الأحمر إلى إبريق عليه وشم صغير: الثعلب وصفّارتان.
+«هي الجراثيم الذهبيّة، أو أيّل صرعه سهم!» قال أوسوب.
+لكنّ تشوبر صرف عنقود العنب الذهبيّ والأيّل بيده؛ فالماء تجمّع ببطء الحلزون، وهو أحمر كالدّم.
+فنظر في الماء الأحمر داخل الحوض، فإذا سلطعون أحمر قابع فيه، يقرص الفندق بملقطيه.
+«هذا السلطعون هو الّذي يملأ الحوض دمًا!» قال تشوبر.
+فقالت روبين بيتًا لطرفة بن العبد:
+quote: «ستبدي لك الأيّام ما كنت جاهلًا، ويأتيك بالأخبار من لم تزوّد.»
+source: طرفة بن العبد
+explanation:
+A slowly accumulating, bloody pericardial effusion with early tamponade in an adult is most often due to malignancy.
+Lung cancer, breast cancer and lymphoma are the usual sources, by spread to the pericardium.
+Bacterial pericarditis is acute and febrile with purulent fluid, and an effusion after infarction follows a known recent infarction.
+The drained fluid goes for cytology, and a pericardial window with biopsy helps both the diagnosis and the prevention of recurrence.
+In the picture, the submarine draws red water into the jug, the red crab sits in it pinching the hotel, and the snail shows how slowly it filled.
+Memory hook: a slow red tank hides a crab.
 
 == 45
 # Q: redo CABG candidate: young diabetic, patent LIMA-LAD, failed LAD stent, now tight left main, unstable angina: best next work-up? A: CT with contrast, echocardiography and conduit assessment
@@ -88,6 +167,27 @@ keywords: ct scan -> a ginger cat slicing a long loaf of bread into thin slices,
 anchor: the best next interventions -> Chopper at a map with three checks: a ginger cat slicing a loaf whose slice shows the living lima bean vine just behind the old stern, a bat sending sound rings at the hotel, and Usopp measuring the spare vine in the arm and the vein in the leg
 scene: A chart room on the Thousand Sunny, a map spread on the table. A young sailor sits with a heavy stone angel on his chest and a jar of white sugar cubes beside him; behind him the cut-open HART Hotel, the ship's stern with an old healed scar down its white centre line in front of it, a red warning triangle hung on it. Just behind the stern a living green lima bean vine runs from the chest wall onto the slide of a young lad on the green crown, and a rusted coiled metal Slinky sits in the slide; a big cast-iron water main with a red valve wheel is squeezed tight. In the centre, in the strongest light: Chopper points at three checks on the map: a ginger cat slicing a long loaf of bread whose slice shows the green vine just behind the stern; a bat sending rings of sound at the hotel's doors; and Usopp measuring the spare vine in the sailor's arm and the vein in his leg with a tape. A fishing line with a tiny dial lies set aside.
 must: the vine lies just behind the old stern; no letters or digits are written anywhere
+story:
+في غرفة الخرائط على السفينة، فرشت خريطة على الطاولة، وجلس بحّار شابّ على صدره ملاك حجريّ، وبجانبه مرطبان سكّر أبيض.
+وخلفه الفندق، وأمامه مؤخّرة السفينة عليها ندبة قديمة ملتئمة، وعليها مثلّث تحذير أحمر.
+وخلف المؤخّرة تمامًا تجري كرمة ليما خضراء حيّة إلى مزلقة الفتى، وفي المزلقة نابض معدنيّ صدئ، وأنبوب الماء الحديديّ الكبير معصور ضيّق.
+«ننشر المؤخّرة الآن ونرى ما تحتها!» صاح أوسوب.
+لكنّ تشوبر أوقفه؛ فالكرمة الحيّة تلتصق بالمؤخّرة من خلفها، ولو جرحها المنشار، لانطفأ جدار الفتى كلّه.
+وأبعد خيط صيد عليه قرص صغير، ثمّ أشار على الخريطة إلى ثلاث علامات.
+الأولى قطّ زنجبيليّ يقطّع رغيفًا طويلًا، في شريحة منه تظهر الكرمة خلف المؤخّرة تمامًا؛ والثّانية خفّاش يرسل حلقاته إلى أبواب الفندق.
+والثّالثة أوسوب يقيس بشريطه الكرمة الاحتياطيّة في ذراع البحّار والعرق في ساقه.
+«نعرف الطريق قبل أن نبحر!» قال تشوبر.
+فابتسمت نامي فوق الخريطة وقالت حلمها القديم:
+quote: «سأرسم خريطةً للعالم كلّه!»
+source: نامي
+explanation:
+Before a redo CABG in a patient with a patent LIMA to the LAD, the work-up is a CT scan with contrast, an echocardiogram and an assessment of the conduits still available.
+The CT shows how close the patent LIMA, the heart and the aorta lie to the back of the sternum, so re-entry can be planned and the LIMA protected.
+The echo assesses ventricular and valve function, and the conduit study (veins, radial arteries) shows what grafts are left.
+Injury to a patent LIMA at re-entry causes a large anterior infarction and is a leading cause of death in redo surgery.
+FFR or intravascular ultrasound of the left main adds nothing here, because the stenosis is already clearly significant.
+In the picture, Chopper's map marks the cat's slice showing the vine behind the stern, the bat, and Usopp measuring the spare conduits.
+Memory hook: before sawing an old stern, map the vine behind it.
 
 == 46
 # Q: young woman, second episode of pericarditis, aspirin and ibuprofen failing for two months: therapy? A: colchicine plus ibuprofen
@@ -106,6 +206,26 @@ keywords: pericarditis -> the glass aquarium round the hotel wearing a hot red d
 anchor: the right therapy -> a cold roast chicken holding a purple autumn crocus pressing an ice pack on the aquarium's hot steaming red dress while a wise owl professor fans it
 scene: A sunny cabin on the Thousand Sunny. A young woman sits sadly, her chin in her hands. Beside her the cut-open HART Hotel stands inside a clear glass aquarium that wears a hot red dress, steaming with fever and rubbing against the hotel. In the centre, in the strongest light: a cold roast chicken holding a purple autumn crocus presses an ice pack on the steaming red dress, while a wise owl professor with round spectacles fans it. A wooden boomerang comes back to hit the aquarium again. A small asp coiled round a white tablet looks tired, a wilted bunch of flowers beside it. A big old stereo boombox stands set aside on a shelf, a strange green bottle stays closed and a long needle lies in its case. The street outside is empty, no taxis. Chopper smiles at the chicken.
 must: the chicken and the owl are the brightest, central figures; no letters or digits are written anywhere
+story:
+في قمرة مشمسة على السفينة، جلست فتاة حزينة، ذقنها على كفّيها.
+وبجانبها الفندق داخل حوض زجاجيّ يلبس فستانًا أحمر ساخنًا، يتصاعد منه البخار ويحتكّ بالفندق.
+وعاد بومرانغ خشبيّ يضرب الحوض مرّةً أخرى، والأفعى الصغيرة على قرصها الأبيض متعبة بجانب باقة زهور ذابلة.
+«نشغّل المسجّل الكبير! صوته يطفئ كلّ شيء!» قال أوسوب، ومدّ يده إلى جهاز ستيريو قديم على الرفّ.
+لكنّ تشوبر أبقى المسجّل على رفّه؛ فهو يطفئ اليوم ويردّ البومرانغ غدًا.
+وترك القنّينة الخضراء الغريبة مغلقة، والإبرة الطويلة في علبتها، والشّارع حول الفندق فارغ بلا سيّارات.
+فجاءت دجاجة مشويّة باردة تحمل زهرة زعفران خريفيّ بنفسجيّة، وضغطت كيس ثلج على الفستان الأحمر.
+وجاءت بومة أستاذة بنظّارتين مستديرتين تروّح عليه، فسكن البخار قليلًا قليلًا.
+«الدجاجة والبومة معًا، ولا يعود البومرانغ!» قال تشوبر مبتسمًا للدّجاجة.
+فرفعت الفتاة رأسها، ودخلت الدكتورة كوريها بسؤالها الّذي تلقيه على كلّ مريض:
+quote: «هي هي هي! هل أنت سعيد؟»
+source: الدكتورة كوريها
+explanation:
+For recurrent pericarditis after aspirin and ibuprofen have failed, the treatment is colchicine added to a non-steroidal anti-inflammatory drug such as ibuprofen.
+Colchicine halves the risk of further recurrences and is given for several months, with the NSAID tapered once the symptoms settle.
+Corticosteroids act quickly but make recurrences more likely, so they are kept for patients who cannot take, or do not respond to, NSAIDs and colchicine.
+Azathioprine and intrapericardial treatment are later options for resistant cases.
+In the picture, the cold chicken with its crocus and the owl professor cool the hot red dress, while the stereo stays on the shelf.
+Memory hook: the chicken and the owl stop the boomerang; the stereo brings it back.
 
 == 47
 # Q: post-infarction VSD after an RCA occlusion, in shock on epinephrine and norepinephrine, intubated, pulmonary congestion: strongest predictor of mortality? A: renal function
@@ -124,6 +244,26 @@ keywords: renal function -> a pair of big red kidney beans shrivelling dry and g
 anchor: the strongest predictor of death -> the pair of big red kidney beans shrivelling dry and grey on one pan of a scale, tipping it hard against the black coffin on the other pan, in front of the hotel whose lights are going out
 scene: A man lies with a snorkel tube in his mouth; above him the cut-open HART Hotel at dusk, its lights going out one by one. Inside, a ragged hole is knocked through the lower party wall and red water rushes through. A stag brought down by an arrow lies at the door; the green crown's right spike, a long rainbow arc, is choked with tar. Two big hands press a tall porcelain vase narrow at its waist, and a lit red firework rocket fizzes beside it. In the centre, in the strongest light: a balance scale holds on one pan a pair of big red kidney beans shrivelling dry and grey, and on the other a black coffin; the scale tips hard towards the beans. Robin gazes into a crystal ball that shows the scale. An old woman's walking stick and a measuring jug of rushing water are set off the scale.
 must: the scale tips towards the kidney beans; no letters or digits are written anywhere
+story:
+عند الغروب، استلقى رجل في فمه أنبوب تنفّس كأنبوب الغطس، وفوقه الفندق تنطفئ أنواره واحدًا بعد واحد.
+عند الباب أيّل صرعه سهم، وقوس قزح على التاج مخنوق بالقار، وفي الجدار السفليّ ثقب ممزّق يندفع منه الماء الأحمر.
+ويدان كبيرتان تعصران المزهريّة من خصرها، وصاروخ ناريّ أحمر يفحّ بجانبها.
+فنظرت روبين في كرتها البلّوريّة، فرأت ميزانًا: في كفّة تابوت أسود، والأخرى تنتظر ما يثقلها.
+«عصا عجوز! أو إبريق الماء المندفع من الثقب!» قال أوسوب.
+فوضعت العصا والإبريق على الكفّة، فلم يتحرّك الميزان إلّا قليلًا، فأنزلا عنه.
+ثمّ وضعت حبّتا الفاصوليا الحمراوان الكبيرتان، وهما تذبلان جافّتين رماديّتين.
+فمال الميزان بقوّة نحو الحبّتين، وارتفع التابوت في الكفّة الأخرى.
+«الحبّتان تقولان ما لا تقوله العصا ولا الإبريق!» قالت روبين.
+ثمّ ذكرت مثلًا قديمًا:
+quote: «العين بصيرة، واليد قصيرة.»
+source: مثل عربيّ
+explanation:
+In patients with a post-infarction ventricular septal rupture in cardiogenic shock, renal function is the strongest predictor of death.
+Kidney failure reflects how long and how deeply the organs have been underperfused, and that damage carries into the operation and the recovery.
+Age, sex and the size of the shunt matter less once shock has set in.
+This is one reason to restore flow early, with ECMO or a balloon pump, before the kidneys fail.
+In the picture, Robin's crystal ball shows the shrivelled kidney beans tipping the scale against the coffin, while the walking stick and the jug barely move it.
+Memory hook: in shock from a torn wall, the beans weigh the coffin.
 
 == 48
 # Q: the main concern in delivering retrograde cardioplegia? A: uneven distribution to the myocardium
@@ -141,6 +281,25 @@ keywords: cardioplegia -> a bucket of ice-cold water full of bananas; coronary s
 anchor: the main concern with retrograde cardioplegia -> ice-cold banana water forced backwards up out of the green-crowned sink in the blue lobby floor, soaking the red room's fans while the blue room's fan stays warm and turning and the floor is wet only in patches
 scene: Inside the cut-open HART Hotel, icy light. In the centre, in the strongest light: ice-cold water full of bananas is forced backwards, flowing uphill, up out of a sink with a little green crown set in the floor of the blue lobby; the red engine room's big ventilation fans stand frozen under a shield, but the blue engine room's fan stays warm and turning, and the floor is soaked in patches, wet here and dry there. A little balloon cuff seals the sink's drain, and a small dial sits on the hose. Big steel tongs clamp the neck of the orca balloon above the hotel. A second chimney stands on the left side of the hotel, its smoke running down into the sink. A swollen sponge and a cracked sink lie set aside. Chopper frowns at the dry patches.
 must: the blue room's fan is still turning; no letters or digits are written anywhere
+story:
+في ضوء جليديّ داخل الفندق، أمسك ملقط فولاذيّ كبير بعنق منطاد الحوت فوقه.
+وفي أرض الردهة الزرقاء مغسلة عليها تاج أخضر صغير، يسدّ بالوعتها كفّ من بالون صغير، وعلى الخرطوم قرص صغير.
+«نصبّ ماء الموز المثلّج راجعًا من المغسلة، فيصل إلى كلّ غرفة!» قال أوسوب.
+فاندفع الماء المثلّج بالموز إلى الوراء، صاعدًا من المغسلة إلى أعلى المنحدر.
+فتجمّدت مراوح الغرفة الحمراء الكبيرة تحت درعها.
+لكنّ مروحة الغرفة الزرقاء بقيت دافئةً تدور، والأرض مبتلّة هنا وجافّة هناك.
+وعلى يسار الفندق مدخنة ثانية ينزل دخانها إلى المغسلة، وإسفنجة منتفخة ومغسلة مشقوقة موضوعتان جانبًا.
+«ليست المشكلة في الإسفنجة ولا في الشقّ؛ المشكلة في البقع الجافّة!» قال تشوبر عابسًا.
+فقالت روبين مثلًا قديمًا:
+quote: «يد واحدة لا تصفّق.»
+source: مثل عربيّ
+explanation:
+The main concern with retrograde cardioplegia through the coronary sinus is uneven distribution to the myocardium.
+The right ventricle and the septum drain largely through veins that bypass the coronary sinus, so they receive little retrograde solution and may be poorly protected.
+Retrograde delivery is therefore usually combined with antegrade cardioplegia.
+Coronary sinus rupture, myocardial oedema and a persistent left superior vena cava are real but less common problems, managed by watching the line pressure and the anatomy.
+In the picture, the banana water flows backwards up from the sink, freezing the red room's fans while the blue room's fan keeps turning, and the floor is wet only in patches.
+Memory hook: water pushed backwards leaves the blue room dry.
 
 == 49
 # Q: after mediastinal radiation for lymphoma: heart failure, S3, interstitial markings; Doppler: little respiratory variation; cath: pulmonary hypertension, LVEDP above RVEDP after fluid, no ventricular interdependence, concordant pressures: diagnosis? A: restrictive cardiomyopathy
@@ -160,6 +319,26 @@ keywords: constrictive pericarditis (no) -> a huge grey boa constrictor lying lo
 anchor: the diagnosis -> the HART Hotel's own engine room walls turned stiff as varnished barrel wood, a strict governess tapping them with a ruler, while the huge grey boa lies loose and harmless beside the aquarium
 scene: A violet evening; a woman breathes heavily as a lamp shoots thin violet rays at her chest, where a swarm of bees has an old honeycomb nest at the front of the chest cabin. Yellow taxis are stuck in a traffic jam round the cut-open HART Hotel, and soggy dollar bills drip in the money pipes, a pressure gauge on one jumping into the red. In the centre, in the strongest light: the engine rooms' own walls have turned stiff as varnished barrel wood, and a strict governess taps them with a ruler; the two rooms do not push each other as the woman breathes. Beside the clear glass aquarium round the hotel, a huge grey boa constrictor lies loose and harmless, not squeezing. Two needles on twin dials move up and down together. A third drumbeat echoes after two. Water flows backwards up a drain from below. Robin compares the governess and the boa.
 must: the boa does NOT squeeze anything; the stiffness is in the walls themselves; no letters or digits are written anywhere
+story:
+في مساء بنفسجيّ، تنفّست امرأة بصعوبة؛ فقد سلّط على صدرها قبل سنين مصباح يطلق أشعّةً بنفسجيّةً رفيعة، ليطرد سرب نحل بنى عشًّا في مقدّم صدرها.
+والآن علقت سيّارات الأجرة في زحمة حول الفندق، وأوراق الدولارات المبتلّة تقطر في أنابيبها، ومقياس على أحدها يقفز إلى الأحمر.
+ودقّة طبل ثالثة تتردّد بعد دقّتين، وماء يجري راجعًا في بالوعة من تحت.
+«هي الأفعى العاصرة! التفّت حول الحوض وعصرته!» قال أوسوب، وأشار إلى أفعًى رماديّة ضخمة بجانب الحوض الزجاجيّ.
+لكنّ روبين نظرت: فالأفعى مسترخية لا تعصر شيئًا، والغرفتان لا تتدافعان حين تتنفّس المرأة.
+وعلى قرصين توأمين إبرتان تصعدان وتهبطان معًا، لا تتعاكسان.
+ثمّ طرقت مربّية صارمة جدران غرف المحرّك بمسطرتها، فإذا هي قاسية كخشب البراميل المطليّ.
+«ليست الأفعى من يعصر؛ الجدران نفسها هي الّتي تيبّست!» قالت روبين.
+ثمّ نظرت إلى الأفعى المسكينة وقالت مثلًا قديمًا:
+quote: «ربّ ملوم لا ذنب له.»
+source: مثل عربيّ
+explanation:
+After mediastinal radiation, heart failure with a left ventricular end-diastolic pressure above the right, no ventricular interdependence and concordant ventricular pressures points to restrictive cardiomyopathy, not constrictive pericarditis.
+In restriction the stiff myocardium itself limits filling, so both ventricles rise in pressure together, and the left is often higher.
+In constriction the rigid pericardium couples the ventricles: their diastolic pressures are equal, and with breathing one rises as the other falls (discordance).
+Little respiratory variation on Doppler also favours restriction.
+Radiation can cause either, or both, which is why these signs matter: pericardiectomy helps constriction but not restriction.
+In the picture, the governess taps the stiff barrel-wood walls while the boa lies loose, and the two dial needles move together.
+Memory hook: needles moving together and walls of wood: the boa is innocent.
 
 == 50
 # Q: anthracycline cardiomyopathy 8 years after breast cancer, cancer-free, recurrent heart-failure admissions despite optimal therapy, EF 18%, LVEDD 6.8 cm, severe MR, normal coronaries, QRS 95 ms: next? A: ventricular assist device or heart-transplant evaluation
@@ -178,3 +357,24 @@ keywords: ventricular assist device -> a black-helmeted dark space knight in a l
 anchor: the most appropriate next step -> Darth Vader with his glowing chest box standing ready at the door of the hotel whose rooms sag like an over-pulled accordion, beside a gardener holding a new heart in its terracotta flowerpot
 scene: A dark night on the Thousand Sunny; yellow taxis are stuck in a traffic jam round the cut-open HART Hotel, whose engine rooms sag wide and floppy like an over-pulled accordion with a small tattoo of a white unicorn and a violin on it; water gurgles back through the mitre, and at the red room's door a nightclub bouncer throws out hardly any guests. In the centre, in the strongest light: a black-helmeted dark space knight in a long cape, Darth Vader, a glowing control box on his chest, stands ready at the hotel door, and beside him a gardener holds a new heart, root ball and all, in a terracotta flowerpot. The green crown on the roof shines clean, no tar on its spikes. A revolving hospital door spins nearby. On a shelf a chemist's flask of bubbling poison-green potion, a red ruby hanging from a dog's collar dripping into it. An empty crab shell lies on the beach. A narrow little door in the engine room stands just ajar, and two drummers are waved away by Chopper.
 must: Vader and the flowerpot are the brightest figures; no letters or digits are written anywhere
+story:
+في ليلة مظلمة على السفينة، علقت سيّارات الأجرة الصفراء في زحمة حول الفندق، وباب مستشفًى دوّار يدور ويدور بالقرب.
+على الرفّ قارورة كيميائيّ فيها جرعة خضراء سامّة تفور، تقطر فيها ياقوتة حمراء معلّقة في طوق كلب، وعلى الشاطئ صدفة سلطعون فارغة.
+وقد ترهّلت غرف المحرّك واسعةً كأكورديون شدّ فوق طاقته، عليه وشم صغير: وحيد القرن والكمان، والماء يقرقر راجعًا عند تاج الأسقفّ.
+وعند باب الغرفة الحمراء حارس ملهًى لا يكاد يطرد أحدًا.
+«نستدعي الطبّالين يضربان معًا!» قال أوسوب.
+لكنّ تشوبر صرفهما؛ فالباب الصغير في غرفة المحرّك ضيّق موارب، والطّبّالان لا يجدان ما يصلحانه.
+فوقف عند باب الفندق فارس الفضاء المظلم، دارث فيدر، بخوذته السوداء وعباءته الطويلة، يضيء على صدره صندوق تحكّم.
+وإلى جانبه بستانيّ يحمل قلبًا جديدًا في أصيص من الفخّار، بجذوره وترابه.
+«أحدهما سيدخل هذا الفندق؛ لنسألهما الآن!» قال تشوبر.
+فأمسك لوفي قبّعته وقال:
+quote: «إن لم تخاطر بحياتك، فلن تصنع المستقبل!»
+source: مونكي دي لوفي
+explanation:
+End-stage anthracycline cardiomyopathy with an ejection fraction of 18%, a dilated ventricle and severe functional mitral regurgitation keeps her coming back despite optimal therapy.
+The next step is evaluation for a left ventricular assist device or a heart transplant.
+She has been free of cancer for eight years, which allows transplant listing, and an LVAD can serve as a bridge or as destination therapy.
+With a narrow QRS of 95 ms, cardiac resynchronisation offers no benefit.
+Her mitral regurgitation comes from the dilated ventricle, so fixing the valve alone does not change the course of the disease, and normal coronary arteries leave nothing to revascularise.
+In the picture, Darth Vader and the gardener with the flowerpot heart wait at the door while Chopper waves the drummers away.
+Memory hook: a ruby-stained accordion: Vader or a new heart.

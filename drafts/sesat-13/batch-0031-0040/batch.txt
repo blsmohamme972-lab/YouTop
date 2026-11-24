@@ -1,5 +1,4 @@
 book: sesat-13
-
 == 31
 # Q: diabetic with a bicuspid valve, mild AR, no AS, root 3.6, ascending 4.2, three-vessel disease, exertional angina: best strategy? A: CABG with arterial grafts (leave the aorta)
 # Sanji laying lima vines and the radio antenna on the crown, while the tape round the orca stops short of the red line = arterial CABG only, the aorta left alone -> ANSWER
@@ -18,6 +17,25 @@ keywords: coronary artery bypass grafting -> Sanji laying living grafts where ca
 anchor: the best strategy -> Sanji laying green lima bean vines and a silver radio antenna on the crown's three tarred spikes, while the tailor's tape round the orca with a bicycle in its mouth stops short of the red line
 scene: A bright workshop deck of the Thousand Sunny, the cut-open HART Hotel beside a steep staircase that a sailor climbs with a heavy stone angel on his chest. In the centre, in the strongest light: Sanji lays green lima bean vines, growing from the chest wall, and a long thin silver radio antenna as bridges over the three tarred spikes of the green crown on the hotel roof. Beside the crown rises the giant orca balloon with a bicycle wedged in its mouth, only a few drops falling back from it; a tailor's tape is wrapped round its front climb and stops short of a red line painted on the orca, a small tattoo of a graduation cap, a golden drop and a green dragon on the tape's end; a dust cover is draped over the orca's front. A basket of cabbage leaves stands beside Sanji, and a soft breeze whispers through the bicycle's spokes. There is no sapphire chain anywhere. Chopper reads the tape.
 must: the tape stops BEFORE the red line; no letters or digits are written anywhere
+story:
+في ورشة مشرقة على السفينة، صعد بحّار درجًا شديد الانحدار، وعلى صدره ملاك حجريّ ثقيل.
+وبجانب الفندق ارتفع منطاد الحوت، في فمه درّاجة محشورة، لا يسقط منه راجعًا إلّا قطرات قليلة، ونسيم ناعم يهمس بين أسلاك عجلاتها.
+«الدرّاجة في فمه! نبدّل صعود الحوت مع التاج في عمليّة واحدة!» قال أوسوب.
+فلفّ تشوبر شريط الخيّاط حول صعود الحوت الأماميّ، فوقف الشريط قبل الخطّ الأحمر المرسوم عليه.
+وعلى طرف الشريط وشم صغير: القبّعة والنّقطة والتّنّين.
+«لم يبلغ الخطّ الأحمر؛ نترك الحوت ليومه!» قال تشوبر، وأسدل غطاءً من القماش على مقدّم الحوت.
+ثمّ مدّ سانجي كرمات الليما الخضراء النابتة من جدار الصدر، وهوائيًّا فضّيًّا طويلًا، جسورًا على أشواك التاج الثلاث المسدودة، وسلّة الملفوف بجانبه.
+«كلّ الجسور من شرايين حيّة، ولا ياقوت اليوم!» قال سانجي.
+فلم تظهر سلسلة ياقوت واحدة، وخفّ الملاك عن صدر البحّار، وقالت روبين مثلًا قديمًا:
+quote: «لكلّ مقام مقال.»
+source: مثل عربيّ
+explanation:
+In a man with a bicuspid valve, three-vessel disease, mild regurgitation and an ascending aorta of 4.2 cm, the best treatment is CABG with arterial grafts alone.
+With a bicuspid valve, the ascending aorta is replaced during other cardiac surgery once it reaches 4.5 cm; at 4.2 cm it is watched.
+A mildly leaking valve with no stenosis does not need replacement, and a root of 3.6 cm is normal.
+He is diabetic with three-vessel disease, which favours surgery over stenting, and arterial grafts give him the best long-term patency.
+In the picture, the tailor's tape stops short of the red line, so a dust cover goes over the orca while Sanji lays the living vines and the antenna.
+Memory hook: below the red line, leave the orca and graft with arteries.
 
 == 32
 # Q: after frozen elephant trunk with antegrade TEVAR for type A dissection presenting with a cold left leg and abdominal pain, still acidotic despite good haemodynamics and femoral pulses: next? A: image the visceral vessels (angiogram or IVUS)
@@ -36,6 +54,27 @@ keywords: angiography -> a photographer squirting glowing magenta dye into the p
 anchor: the best next step -> the photographer squirting glowing magenta dye into the pipe that feeds the grey spaghetti plate at the orca's belly, a tiny bat swimming inside the pipe, as a sour lemon is squeezed over the plate
 scene: A tense night in the Thousand Sunny's sick bay. Above the patient floats the giant orca balloon, a long zipper torn open from its front to its tail; a grey elephant's trunk of fabric, stiffened with a Slinky, hangs from its new arch down inside it, and a white fabric sleeve lines its back. A steady dial on the wall rests in the green, and a red pipe beside a long white thigh bone shows a strong pulse light blinking. In the centre, in the strongest light: a photographer squirts glowing magenta dye into the pipe that runs from the orca's belly to a big messy plate of spaghetti gone grey-black, and flashes his camera; a tiny bat swims inside the pipe sending rings of sound; a sour lemon is squeezed over the plate. The patient clutches his belly, icicles hanging from his left leg. A kitchen sieve and a knife are set aside. Chopper holds the lamp over the spaghetti.
 must: the spaghetti plate and the photographer are the brightest thing; no letters or digits are written anywhere
+story:
+في ليلة متوتّرة في مستوصف السفينة، طفا فوق المريض منطاد الحوت، في مقدّمه سحّاب ممزّق إلى ذيله.
+وقد علّق من قوسه الجديد خرطوم فيل رماديّ من القماش، يقوّيه نابض معدنيّ، وكمّ أبيض يبطّن ظهره.
+وكان القرص على الجدار ثابتًا في الأخضر، وفي الأنبوب الأحمر بجانب عظم الفخذ ضوء نبض قويّ يرمش.
+لكنّ المريض يمسك بطنه، والجليد يتدلّى من ساقه اليسرى، وليمونة حامضة تعصر فوقه.
+«نصفّي حموضته بالمصفاة، أو نشقّ ساقه بالسّكّين!» قال أوسوب.
+لكنّ تشوبر وضع المصفاة والسّكّين جانبًا، ورفع مصباحه فوق البطن.
+فرشّ المصوّر صبغته الأرجوانيّة المتوهّجة في الأنبوب النازل من بطن الحوت إلى صحن السباغيتّي، وأطلق وميضه.
+وسبح خفّاش صغير داخل الأنبوب يرسل حلقاته، فإذا السباغيتّي رماديّة سوداء لا يصلها الماء.
+«هنا الحموضة؛ في الصحن لا في الساق!» قال تشوبر.
+فقالت روبين مثلًا قديمًا:
+quote: «إذا عرف السبب بطل العجب.»
+source: مثل عربيّ
+explanation:
+Persistent acidosis after repair of a type A dissection, with good haemodynamics and femoral pulses but abdominal pain before surgery, means mesenteric malperfusion until proven otherwise: image the visceral vessels by angiography or intravascular ultrasound.
+The repair can leave the superior mesenteric or coeliac artery fed by a collapsed lumen, and the gut dies silently.
+Once found, the vessel can be opened with a stent, a fenestration or a bypass, and delay is often fatal.
+Bicarbonate, fluids or haemofiltration treat the number, not the cause.
+Fasciotomy treats a compartment syndrome of the leg, which would not explain this acidosis with palpable femoral pulses.
+In the picture, the photographer's dye and the tiny bat find the grey spaghetti, while the sieve and the knife are set aside.
+Memory hook: sour blood after a good repair: look at the spaghetti.
 
 == 33
 # Q: in aerobic arrest with blood cardioplegia, oxygen delivery is mostly determined by? A: the dissolved oxygen content
@@ -54,6 +93,25 @@ keywords: blood cardioplegia -> a bucket of ice-cold water full of bananas and r
 anchor: what mostly delivers the oxygen -> the tiny fizzing silver bubbles floating free in the ice-cold banana water, breathed into it by the ox in its mask, drifting straight onto the stopped fans while the red doughnuts clutch their own bubbles tight
 scene: A glittering icy engine room of the cut-open HART Hotel. A bucket of ice-cold water full of bananas and little round red doughnuts has been poured over the hotel and its big ventilation fans stand still, locked in shiny handcuffs, with a shield held over them. In the centre, in the strongest light: a huge ox wearing a clear oxygen mask breathes into the bucket, and tiny fizzing silver bubbles float free in the water like soda and drift straight onto the stopped fans; the red doughnuts clutch their own bubbles tightly and do not let go. A frosted thermometer furred with ice shows its red column sunk low. A delivery boy carries a fizzing bottle into the engine room. An aerobics instructor in a headband stands frozen mid-move. Bubbles slide down a curved playground slide. A pressure pump stands aside. Chopper watches through frosted glasses.
 must: the free fizzing bubbles are the brightest thing; no letters or digits are written anywhere
+story:
+في غرفة محرّك جليديّة تلمع، صبّ على الفندق دلو من الماء المثلّج، فيه موز وكعكات حمراء صغيرة.
+فوقفت المراوح الكبيرة ساكنةً مقيّدةً بأصفاد لامعة، ودرع مرفوع فوقها، ومدرّب رياضة هوائيّة بعصابة رأس تجمّد في منتصف حركته.
+وكان ميزان الحرارة المكسوّ بالصّقيع قد هبط عموده الأحمر إلى الأسفل.
+وجاء ثور ضخم في قناع أكسجين شفّاف، فتنفّس في الدلو، وحمل صبيّ التوصيل قنّينةً تفور إلى الغرفة.
+«الكعكات الحمراء ستوصل الهواء إلى المراوح!» قال أوسوب.
+لكنّ الكعكات في البرد قبضت على فقاعاتها بقوّة، ولم تفلتها.
+وأمّا الفقاعات الفضّيّة الصغيرة الطافية وحدها في الماء كالمشروب الغازيّ، فانسابت مباشرةً إلى المراوح الساكنة، وانزلق بعضها على زلّاقة منحنية.
+«الفقاعات الحرّة هي الّتي تطعم المراوح!» قال تشوبر من وراء نظّارته المغبّشة.
+وبقيت مضخّة الضغط جانبًا لا يحتاجها أحد، فقالت روبين مثلًا قديمًا:
+quote: «كلّ إناء بما فيه ينضح.»
+source: مثل عربيّ
+explanation:
+During cold aerobic arrest with blood cardioplegia, the oxygen that reaches the myocardium depends mostly on the oxygen dissolved in the cardioplegia.
+Hypothermia shifts the oxygen dissociation curve to the left, so haemoglobin holds its oxygen tightly and releases little to the cold heart.
+Dissolved oxygen, which rises with a high oxygen tension and is more soluble in cold fluid, is free to diffuse into the arrested muscle.
+A rightward shift, the haematocrit and the delivery pressure matter less than this dissolved fraction.
+In the picture, the red doughnuts clutch their bubbles in the cold while the free silver bubbles drift onto the stopped fans.
+Memory hook: in the cold, the free bubbles feed the fans.
 
 == 34
 # Q: 87-year-old, CABG 15 years ago, heart failure without angina, EF 25%, moderate-severe MR, poor RV; LIMA-LAD patent, vein grafts occluded with collaterals: next? A: optimal medical therapy with beta-blockers and ACE inhibitors
@@ -73,6 +131,26 @@ keywords: beta-blocker -> an ice-hockey goalkeeper's big blocker pad handed to t
 anchor: the best next step -> Chopper handing the ancient white-bearded sailor an ice-hockey goalkeeper's blocker pad and a tennis racket, while the old stern with its healed scar stays padlocked shut
 scene: A quiet twilight harbour; the cut-open HART Hotel stands on the quay, yellow taxis stuck in a traffic jam round it. In the centre, in the strongest light: Chopper hands an ancient sailor with a long white beard and a cane an ice-hockey goalkeeper's big blocker pad and a tennis racket with a ball; behind the sailor the old ship's stern with an old healed scar is padlocked shut, faded peeling paint round its old scar, and a stone angel flies away from his chest. On the hotel roof a living green lima bean vine still grows onto a young lad's slide on the front of the green crown, little side paths branching from the slide round the back, while broken chains of blue sapphires hang loose from the other spikes. Inside, the blue engine room is swollen and limp, and water gurgles back through the bishop's mitre. At the red room's door a nightclub bouncer throws out only a quarter of the guests; on his arm a small tattoo of a green dragon and a blue hamsa hand.
 must: the stern stays padlocked; no letters or digits are written anywhere
+story:
+في غسق هادئ على رصيف ميناء، علقت سيّارات الأجرة الصفراء في زحمة حول الفندق، ووقف بحّار عتيق أبيض اللحية يتّكئ على عكّازه.
+كانت الغرفة الزرقاء منتفخةً خائرة، وتاج الأسقفّ يقرقر ماءً راجعًا، وحارس الملهى لا يطرد إلّا ربع الضيوف، على ذراعه وشم صغير: التنّين والخمسة.
+«نفتح المؤخّرة من جديد، ونبدّل السلاسل، ونطوّق التاج!» قال أوسوب.
+لكنّ تشوبر نظر إلى المؤخّرة القديمة، مقفلةً بقفل، يتقشّر دهانها حول ندبتها العتيقة.
+ثمّ نظر إلى السطح، فإذا كرمة الليما ما زالت حيّةً تنمو على مزلقة الفتى، وتتفرّع منها دروب صغيرة إلى خلف التاج.
+أمّا سلاسل الياقوت على الأشواك الأخرى فمكسورة متدلّية، ولا يشكو البحّار ألمًا؛ فقد طار الملاك الحجريّ عن صدره.
+«الكرمة تسقي ما خلفها، وليس عند المؤخّرة القديمة شيء نربحه!» قال تشوبر.
+فناول العجوز وسادة حارس المرمى، ومضرب تنس وكرةً.
+فابتسم العجوز ومشى بهما، وقالت روبين مثلًا قديمًا:
+quote: «على قدر لحافك مدّ رجليك.»
+source: مثل عربيّ
+explanation:
+An 87-year-old with heart failure but no angina, a patent LIMA to the LAD and collaterals from it filling the rest of the heart, is best treated with optimal medical therapy, including a beta-blocker and an ACE inhibitor.
+There is no large territory of living, ischaemic muscle left to gain from a redo operation: the LIMA already feeds the LAD and its collaterals.
+At 87, with diabetes, lung disease, an ejection fraction of 25% and a failing right ventricle, a redo sternotomy with mitral surgery carries a very high risk.
+Medical therapy improves symptoms and survival in heart failure with a reduced ejection fraction.
+A cardiac MRI or a new left ventricular lead would not change the plan for him.
+In the picture, Chopper hands the ancient sailor the goalkeeper's pad and the tennis racket, and the old stern stays padlocked.
+Memory hook: a living vine and no angel: the keeper and the racket, not the stern.
 
 == 35
 # Q: young man, exertional chest tightness and presyncope, reversible posterior ischaemia; CT: the RCA arises from the left sinus and runs between aorta and pulmonary artery: best treatment? A: surgical unroofing of the proximal RCA and its orifice
@@ -91,6 +169,26 @@ keywords: right coronary artery -> the crown's right spike bending into a long r
 anchor: the best treatment -> Franky lifting the roof off the tunnel inside the orca's wall where the rainbow spike runs from the wrong, left salsa bowl, turning its narrow letterbox slot into a wide new mouth
 scene: A sunny training ground on a Grand Line island. A young man has just stepped off a treadmill and faints backwards onto a red velvet couch, a tight belt cinched round his chest. Behind him the cut-open HART Hotel, the giant orca balloon rising from it with three round bowls of red salsa round its base and a pipe of green dollar bills pressed against it. In the centre, in the strongest light: the crown's right spike, a long rainbow arc, starts from the LEFT salsa bowl through a narrow letterbox slot and runs squeezed like a sandwich filling between the orca and the dollar pipe, inside a tunnel in the orca's wall; Franky lifts the roof off that tunnel and opens the slot into a wide new mouth. A ginger cat slices a loaf beside him. Usopp offers a coiled metal Slinky and a sapphire chain, both waved away.
 must: the rainbow begins at the LEFT salsa bowl and passes between the orca and the dollar pipe; no letters or digits are written anywhere
+story:
+في ميدان تدريب مشمس على جزيرة من الخطّ العظيم، نزل شابّ عن جهاز المشي، فأغمي عليه وسقط على أريكة من المخمل الأحمر.
+وكان حول صدره حزام مشدود يخنقه.
+وخلفه الفندق، يصعد منه منطاد الحوت وحول قاعدته ثلاثة أوعية من الصلصة، وأنبوب الدولارات ملتصق به.
+فقطّع القطّ رغيفه، فإذا قوس قزح يخرج من الوعاء الأيسر لا الأيمن، من شقّ ضيّق كفتحة صندوق البريد.
+ثمّ يجري معصورًا كحشو شطيرة بين الحوت وأنبوب الدولارات، في نفق داخل جدار الحوت.
+«نضع فيه نابضًا معدنيًّا، أو نمدّ إليه سلسلة ياقوت!» قال أوسوب.
+لكنّ فرانكي لوّح بهما؛ فالنّابض يعصر في الشطيرة أيضًا، والسّلسلة تنازع قوس قزح ماءه.
+فرفع سقف النفق عن قوس قزح، وفتح الشقّ الضيّق فمًا واسعًا جديدًا.
+«الآن لا شطيرة ولا صندوق بريد!» قال فرانكي.
+فقام الشابّ عن الأريكة، وقالت روبين مثلًا قديمًا:
+quote: «من مأمنه يؤتى الحذر.»
+source: مثل عربيّ
+explanation:
+A right coronary artery arising from the left sinus and running between the aorta and the pulmonary artery, with exertional symptoms and proven ischaemia, is treated by surgical unroofing of its intramural course and orifice.
+The danger lies in the slit-like orifice and the segment running inside the aortic wall, which are squeezed shut during exercise.
+Unroofing lays the intramural segment open into the correct sinus and creates a wide new orifice, restoring normal flow without a graft.
+Stenting does not reliably open a compressed intramural segment, and a graft to a vessel with near-normal resting flow competes with native flow and often fails.
+In the picture, Franky lifts the roof off the tunnel in the orca's wall and opens the letterbox slot into a wide mouth.
+Memory hook: a rainbow squeezed in a sandwich: lift the roof.
 
 == 36
 # Q: del Nido cardioplegia vs standard blood cardioplegia: besides a longer dosing interval, the principal advantage is a lower? A: requirement for defibrillation
@@ -109,6 +207,26 @@ keywords: cardioplegia -> a bucket of ice-cold water full of bananas poured over
 anchor: the main advantage of del Nido cardioplegia -> the fans starting to spin smoothly by themselves under the big bird's nest holding the bucket of ice-cold banana water, the sparking jumper cables lying coiled and unused
 scene: A cool forest evening on a Grand Line island; the cut-open HART Hotel stands among tall trees. A big bird's nest in a branch above it holds a bucket of ice-cold water full of bananas, poured in one big pour over the hotel. In the centre, in the strongest light: the engine room's big fans start to spin smoothly by themselves, and beside the hotel the sparking jumper cables of a car lie coiled and unused. Inside, Pinocchio sits calmly in the engine room, not trembling, and a dentist's numbing needle is stuck in the wall. A bright white flare of burning magnesium glows beside the nest. On a tree a clock shows a long silent gap between two strikes. A baby's cradle hangs beside the nest. On a balance at one side, a stag with an arrow and a pile of red doughnuts sit equal on both pans. Chopper smiles at the fans.
 must: the jumper cables are clearly unused; no letters or digits are written anywhere
+story:
+في مساء بارد في غابة على جزيرة من الخطّ العظيم، وقف الفندق بين أشجار عالية.
+وفي غصن فوقه عشّ كبير لطائر، فيه دلو من الماء المثلّج والموز، وبجانبه مهد طفل معلّق؛ فهذا الماء صنع أوّل أمره للصّغار.
+وتوهّج بجانب العشّ لهب أبيض ساطع من المغنيسيوم المحترق، وإبرة تخدير لطبيب الأسنان مغروزة في الجدار.
+«صبّوه قليلًا قليلًا كلّ ربع ساعة، كما نفعل دائمًا!» قال أوسوب.
+لكنّ العشّ صبّ الدلو على الفندق صبّةً واحدةً كبيرة، وساعة على شجرة سكتت طويلًا بين دقّتين.
+فلمّا انتهى العمل، جلس بينوكيو في غرفة المحرّك هادئًا لا يرتجف.
+وبدأت المراوح الكبيرة تدور وحدها بنعومة، وبقيت كابلات الشحن ملفوفةً بجانب الفندق لم يلمسها أحد.
+«لا صعقة؛ المراوح دارت وحدها!» قال تشوبر مبتسمًا.
+وفي جانب ميزان متعادل، على كلّ كفّة منه أيّل بسهمه وكومة من الكعكات الحمراء، فقالت روبين مثلًا قديمًا:
+quote: «من شبّ على شيء شاب عليه.»
+source: مثل عربيّ
+explanation:
+Besides its long dosing interval, the main advantage of del Nido cardioplegia over standard blood cardioplegia in adults is a lower need for defibrillation after the cross-clamp is removed.
+Its lidocaine and magnesium stabilise the cell membrane and limit calcium entry, so the heart more often returns to an organised rhythm by itself.
+A single dose protects for about an hour or more.
+Studies found similar rates of perioperative infarction, inotropic support and transfusion.
+Del Nido cardioplegia was designed for children's hearts and is now widely used in adults.
+In the picture, the fans start turning by themselves after one big pour from the nest, and the jumper cables stay coiled.
+Memory hook: the nest's single pour: the fans restart without the cables.
 
 == 37
 # Q: insulin-dependent diabetic, creatinine 3, LAD 90%, RCA 65%, EF 40%, worried about the sternum and long-term survival: best conduits? A: bilateral skeletonised internal mammary arteries to the LAD and RCA
@@ -128,6 +246,27 @@ keywords: internal mammary artery -> two green lima bean vines growing from both
 anchor: the best conduits -> Brook, the skeleton musician, stripping two lima bean vines bare with his bony fingers and laying them onto the young lad's slide and the half-tarred rainbow spike of the green crown
 scene: A deep blue night on the Thousand Sunny. A man with an insulin pen in his hand sits on a mountain of white sugar cubes, biting his nails, beside a pair of big red kidney beans shrivelled dry. Behind him the cut-open HART Hotel, the green crown on its roof. In the centre, in the strongest light: Brook, the skeleton musician, strips two green lima bean vines growing from both sides of the chest wall bare of their leaves with his bony fingers and lays them onto the slide of a young lad sliding down the front of the crown and onto the crown's right spike, a long rainbow arc only half tarred; on the lad's arm a small tattoo of a little brown monkey and a golden whistle. Below, the ship's stern stays healthy, its wood still green and alive, while a stern rotting with green mould is pushed far away. A candle burns long and steady on a barrel. A radio antenna lies aside.
 must: Brook is the one stripping the vines; no letters or digits are written anywhere
+story:
+في ليلة زرقاء عميقة، جلس رجل في يده قلم إنسولين على جبل من مكعّبات السكّر، يقضم أظافره، وبجانبه حبّتا فاصوليا حمراوان ذابلتان.
+«أخاف على مؤخّرة سفينتي أن تتعفّن، وأريد أن أعيش طويلًا!» قال الرجل.
+وخلفه الفندق، وعلى سطحه التاج الأخضر: الفتى على مزلقته، على ذراعه وشم صغير: السعدان والصّفّارة، وقوس قزح نصفه مسدود بالقار.
+«خذ كرمةً واحدةً وهوائيًّا، فالكرمتان تجوّعان المؤخّرة!» قال أوسوب.
+لكنّ الهوائيّ بقي ملقًى جانبًا؛ فالحبّتان الذابلتان قد تحتاجان ذراعه يومًا.
+فجاء بروك، الموسيقيّ الهيكل العظميّ، وجرّد بأصابعه العظميّة كرمتي الليما النابتتين من جانبي الصدر من أوراقهما.
+ثمّ مدّ الأولى إلى مزلقة الفتى، والثّانية إلى قوس قزح، وترك كلّ ما حولهما في مكانه.
+فبقيت مؤخّرة السفينة سليمةً، خشبها أخضر حيّ، ودفعت مؤخّرة يعلوها العفن الأخضر بعيدًا، وشمعة على برميل تشتعل طويلًا ثابتة.
+«جرّدتهما كما جرّدت أنا؛ عظام نظيفة تعيش طويلًا!» قال بروك.
+ثمّ ضحك ضحكته المعروفة وقال:
+quote: «لكنّني ميّت أصلًا! يو هو هو هو!»
+source: بروك
+explanation:
+For a diabetic with kidney failure who fears sternal complications and wants the best survival, the best conduits are bilateral skeletonised internal mammary arteries to the LAD and the right coronary artery.
+Two mammary arteries give better long-term survival than one, and the benefit holds in diabetics.
+Skeletonising the arteries, taking them without their surrounding tissue, keeps more blood supply to the sternum and lowers deep sternal infection, the main worry with bilateral grafts in diabetics.
+The radial artery is best spared in a patient with a creatinine of 3, who may need it for a dialysis fistula.
+A vein graft or a gastroepiploic artery gives poorer long-term results to the right coronary artery.
+In the picture, Brook strips the two vines bare and lays them on the slide and the rainbow, while the mouldy stern is pushed away.
+Memory hook: Brook's bare bones: two skeletonised mammaries and a healthy stern.
 
 == 38
 # Q: EF 25% after an old transmural MI and stents, calcified aortic valve, velocity 2.6 m/s, mean gradient 24, valve area not measurable: next test? A: dobutamine stress echocardiography
@@ -146,6 +285,26 @@ keywords: dobutamine -> a strong Doberman dog pulling hard on its leash, tied to
 anchor: the best next test -> the strong Doberman pulling hard on the weak fan of the red engine room while the bat sends sound rings at the orca's grey stone mouth to see whether it opens wider
 scene: The cut-open HART Hotel in a stony grey light, the giant orca balloon rising from it with its mouth turned to grey stone and pinched to a slit. In the centre, in the strongest light: a strong Doberman pulls hard on a leash tied to the weak fan of the red engine room, making it spin faster, while a bat sends out rings of sound at the orca's stone mouth to see whether it opens wider; on the Doberman's collar a small tattoo of a green dragon and a graduation cap. Only a thin trickle of water leaves the engine room, down a gentle low slope. At the red room's door a nightclub bouncer throws out only a quarter of the guests. A spare fuel can stands beside the fan. A tape measure slips off the stone mouth. A stag brought down by an arrow lies at the hotel door, and coiled metal Slinkys sit inside two spikes of the green crown. On a table two stones lie side by side: one crumbles open when Usopp pushes it, the other stays hard.
 must: the Doberman, the fan and the bat with the stone mouth are the brightest group; no letters or digits are written anywhere
+story:
+في ضوء رماديّ كالحجر، وقف الفندق وعند بابه أيّل صرعه سهم، وفي شوكتين من تاجه نابضان معدنيّان ملتفّان.
+وكان فم منطاد الحوت قد صار حجرًا رماديًّا، مقروصًا حتّى صار شقًّا، وشريط قياس ينزلق عنه كلّما لفّ عليه.
+ومن غرفة المحرّك لا يخرج إلّا خيط رفيع من الماء على منحدر هادئ منخفض، وحارس الملهى لا يطرد إلّا ربع الضيوف.
+«الحجر صلب؛ نبدّل الفم الآن!» قال أوسوب.
+«أو لعلّ المروحة أضعف من أن تفتحه!» قالت روبين.
+فربط تشوبر كلب دوبرمان قويًّا بمروحة الغرفة الحمراء الضعيفة، على طوقه وشم صغير: التنّين والقبّعة، فشدّ الكلب حتّى دارت أسرع، وبجانبها علبة وقود احتياطيّة.
+وأرسل الخفّاش حلقاته إلى الفم الحجريّ ليرى: أينفتح أوسع، أم يبقى شقًّا؟
+«على الطاولة حجران: واحد يتفتّت إذا دفع، وآخر يبقى صلبًا؛ والكلب يخبرنا أيّهما هذا!» قال تشوبر.
+فدفع أوسوب الحجرين، وقالت روبين مثلًا قديمًا:
+quote: «عند الامتحان يكرم المرء أو يهان.»
+source: مثل عربيّ
+explanation:
+A calcified aortic valve with a mean gradient of 24 mmHg, a velocity of 2.6 m/s and an ejection fraction of 25% is low-flow, low-gradient aortic stenosis, and the next test is a dobutamine stress echo.
+A weak ventricle may fail to open a moderately diseased valve, so it looks severe (pseudo-severe stenosis), or it may be too weak to push a high gradient through a truly severe valve.
+Low-dose dobutamine raises the flow: if the gradient rises and the valve area stays small, the stenosis is truly severe; if the area opens up, it is pseudo-severe.
+It also shows whether the ventricle has contractile reserve, which predicts the result of valve replacement.
+Thallium imaging, an exercise ECG and TEE do not answer this question.
+In the picture, the Doberman drives the weak fan while the bat watches whether the stone mouth opens, and the two stones show the two answers.
+Memory hook: a weak fan and a stone mouth: let the Doberman pull.
 
 == 39
 # Q: severe ischaemic MR, EF 45%, multivessel disease: compared with CABG alone, CABG plus MV replacement gives? A: better freedom from heart failure at 2 years
@@ -164,6 +323,26 @@ keywords: congestive heart failure -> yellow taxis stuck in a traffic jam round 
 anchor: what replacement adds -> the empty sunny street round the right-hand hotel, whose mitre was replaced by a tissue box beside its cabbage leaves, a white bird flying free above it, while yellow taxis jam the street round the left-hand hotel
 scene: Two cut-open HART Hotels side by side on a Grand Line quay, both with green cabbage leaves on their crowns, a wall calendar between them with a small tattoo of a green dragon. In the centre, in the strongest light: round the right-hand hotel, whose mitre has been replaced by a soft tissue box, the street is empty and sunny and a white bird flies free from an open cage above it; round the left-hand hotel, whose mitre still gurgles water back, yellow taxis are stuck in a traffic jam. At each hotel's red room's door a nightclub bouncer throws out a little under half the guests. Both engine rooms are the same size. Equal candles burn on both sides, and one small coffin stands on each side alike. A stone angel flies off each hotel. A night watchman with a lantern walks between the two hotels.
 must: the two hotels are identical except for the mitre and the traffic; no letters or digits are written anywhere
+story:
+على رصيف من أرصفة الخطّ العظيم، وقف فندقان متجاوران، على تاجيهما أوراق الملفوف، وبينهما تقويم عليه وشم صغير: التنّين الأخضر.
+طار عن كلّ فندق ملاكه الحجريّ، وعند باب كلّ غرفة حمراء حارس ملهًى يطرد أقلّ قليلًا من نصف الضيوف.
+في الفندق الأيسر بقي تاج الأسقفّ يقرقر ماءً راجعًا، وفي الأيمن وضعت علبة مناديل ناعمة مكانه.
+ومضى حارس ليليّ بفانوسه يمشي بين الفندقين عامين كاملين.
+«لا بدّ أنّ الأيمن صارت غرفه أصغر، وعاش أهله أطول!» قال أوسوب.
+لكنّ الحارس وجد غرف المحرّك في الفندقين بحجم واحد، والشّموع على الجانبين متساوية، وتابوتًا صغيرًا واحدًا عند كلّ منهما.
+إلّا أنّ سيّارات الأجرة الصفراء علقت في زحمة حول الفندق الأيسر.
+وحول الأيمن بقي الشارع فارغًا مشمسًا، وطار من فوقه طائر أبيض حرًّا من قفص مفتوح.
+«الفرق كلّه في الشارع: هنا زحمة، وهناك طائر حرّ!» قال تشوبر.
+فرفع لوفي رأسه إلى الطائر وقال:
+quote: «لا أريد أن أحكم أيّ شيء... أظنّ أنّ أكثر الناس حرّيّةً في البحر هو ملك القراصنة!»
+source: مونكي دي لوفي
+note: Trials of CABG with or without a mitral procedure for ischaemic regurgitation (CTSN) mainly showed less residual regurgitation, with no gain in remodelling or survival at two years; the book credits the mitral operation with better freedom from heart failure, and its key is kept.
+explanation:
+The book's answer: compared with CABG alone, CABG with mitral valve replacement for severe ischaemic regurgitation gives better freedom from heart failure at two years.
+Correcting the regurgitation removes a volume load that keeps driving congestion and readmissions.
+It does not give better survival at two years, lower early mortality, or better left ventricular remodelling at one year, and the added operation carries some extra early risk.
+In the picture, both hotels have the same rooms, candles and coffins, but only the one with the tissue box has an empty street and a bird flying free.
+Memory hook: the new door frees the street, not the rooms.
 
 == 40
 # Q: redo sternotomy after AVR for an ascending and arch aneurysm with a paravalvular leak; femoral lines placed; on entering the posterior table a sudden gush of bright red blood and hypotension: next? A: start CPB, cool to deep hypothermia, then complete the sternotomy
@@ -183,3 +362,23 @@ keywords: redo sternotomy -> the stern of a ship along an old healed scar, half 
 anchor: the best next step -> the big roller-pump truck roaring through the brass cannons in the thigh pipes and the frosted thermometer sinking, while Zoro holds his saw still in the half-cut stern that spurts red
 scene: A night operating deck on the Thousand Sunny. In the middle of the deck, the stern of a ship lies half cut open again along an old healed scar, and a bright red fountain spurts from under it where the inner layer of the wood is just nicked; Zoro holds his saw still in the half-cut stern. Beneath it a big pink bubble-gum bubble on the giant orca balloon's arch swells fast and presses up against the stern; old dentures sit in the orca's mouth, water leaking round their edge. In the centre, in the strongest light: the big roller-pump truck roars into action, its hoses feeding small brass cannons already pushed into red pipes beside a long white thigh bone, and a frosted thermometer furred with ice shows its red column sinking. A big round pressure gauge has its needle sunk into the low blue zone. Chopper signals Zoro to wait.
 must: Zoro's saw is still, not cutting; no letters or digits are written anywhere
+story:
+في ليلة على سطح العمليّات، كان في فم منطاد الحوت طقم أسنان قديم يتسرّب الماء من حول حافّته.
+وعلى قوس الحوت فقاعة علكة ورديّة كبيرة تنتفخ سريعًا، وتضغط إلى الأعلى على مؤخّرة السفينة.
+وقد دفعت مدافع نحاسيّة صغيرة في الأنابيب الحمراء بجانب عظم الفخذ الأبيض، تنتظر الشاحنة.
+فأخذ زورو ينشر المؤخّرة من جديد على ندبتها القديمة، فلمّا بلغ الطبقة الداخليّة من الخشب، انبجست نافورة حمراء ساطعة من تحتها، وغاصت إبرة المقياس في الأزرق.
+«أكمل النشر وأخيط الثقب بيدي!» صاح زورو.
+لكنّ تشوبر أشار إليه أن انتظر؛ فلو رفع المؤخّرة الآن لانفجرت الفقاعة الملتصقة بها.
+فأمسك زورو منشاره ساكنًا في المؤخّرة نصف المشقوقة.
+وهدرت شاحنة المضخّة الكبيرة، تغذّي المدافع بخراطيمها، وغاص العمود الأحمر في ميزان الحرارة المكسوّ بالصّقيع.
+«حين يبرد الحوت ويسكن، أكمل النشر!» قال تشوبر.
+فوقف زورو ينتظر، وقالت روبين مثلًا قديمًا:
+quote: «سبق السيف العذل.»
+source: مثل عربيّ
+explanation:
+Sudden bright bleeding and hypotension while entering the sternum over a large ascending and arch aneurysm mean the aneurysm has been entered: go on bypass through the femoral lines already placed, cool to deep hypothermia, then complete the sternotomy.
+Opening the sternum further, or trying to repair the hole first, lets the tear widen, and the patient can bleed to death before control is gained.
+Bypass returns the shed blood with suckers and keeps the patient perfused, and deep hypothermia allows circulatory arrest so the aneurysm can be opened safely.
+This is why femoral access is placed before a redo sternotomy over an aneurysm.
+In the picture, Chopper stops Zoro's saw while the pump truck roars and the frosted thermometer sinks.
+Memory hook: a red fountain under the stern: pump, freeze, then saw.

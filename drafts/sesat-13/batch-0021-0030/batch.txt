@@ -1,5 +1,4 @@
 book: sesat-13
-
 == 21
 # Q: acute type B dissection from the left subclavian to the infrarenal aorta, descending 3.8 cm, BP 160/90, no malperfusion, pulses equal: next? A: beta-blockade in the ICU, serial blood pressure and pain control
 # the goalkeeper slamming away the pucks aimed at the torn zipper on the orca's back, beside an ICU bed with glowing monitors = beta-blockade in the ICU -> ANSWER
@@ -18,6 +17,25 @@ keywords: beta-blocker -> an ice-hockey goalkeeper slamming his big blocker pad 
 anchor: the best next step for an uncomplicated type B dissection -> the ice-hockey goalkeeper beside the ICU bed slamming his blocker pad against the pucks fired at the torn zipper on the orca's back, so they bounce away
 scene: A calm night in the Thousand Sunny's sick bay, turned into an intensive care room: a hospital bed watched by glowing monitors, a man lying in it with a cool wet cloth on his forehead and both his feet warm and rosy, a little heartbeat light blinking on each. Above him floats the giant orca parade balloon; a long zipper is torn open along its back from just past its left flipper down past its belly, while its front is clean and smooth; the zipper runs on past a pair of big red kidney beans. In the centre, in the strongest light: an ice-hockey goalkeeper slams his big blocker pad against the pucks fired at the torn zipper so they bounce away; on his glove a small tattoo of a red fox with three tails, a golden drop and a violin. A big round pressure gauge has its needle swinging into the red, and a night watchman with a lantern checks it. A ginger cat slices a long loaf of bread into thin slices. A fabric sleeve lies folded on a shelf. Chopper adjusts a monitor.
 must: the zipper is only on the orca's back, past the left flipper, never on its front; no letters or digits are written anywhere
+story:
+في ليلة هادئة، تحوّل مستوصف السفينة إلى غرفة عناية، ورجل مستلق على سريره وعلى جبينه قماشة باردة مبتلّة.
+وفوقه طفا منطاد الحوت، في ظهره سحّاب طويل ممزّق من بعد الزعنفة اليسرى إلى ما تحت بطنه، ومقدّمه أملس نظيف.
+وقطّع القطّ رغيفه شرائح رقيقة، فرأى السحّاب يمرّ بحبّتي الفاصوليا الحمراوين وهما سليمتان.
+«هاتوا الكمّ الفضّيّ من الرفّ، وألبسوه الحوت الآن!» قال أوسوب.
+لكنّ تشوبر نظر إلى قدمي الرجل، دافئتين ورديّتين، ينبض على كلّ منهما ضوء صغير، فترك الكمّ مطويًّا على رفّه.
+وكانت إبرة المقياس الكبير تتأرجح نحو الأحمر، والأقراص تنهال على السحّاب الممزّق.
+فوقف حارس مرمًى أمام الحوت، يصدّ الأقراص بوسادته الكبيرة فترتدّ بعيدًا، وعلى قفّازه وشم صغير: الثعلب والنّقطة والكمان.
+«الحارس يصدّ، والحارس الليليّ يرقب!» قال تشوبر، وهو يضبط الشاشة.
+فمرّ حارس ليليّ بفانوسه يفحص المقياس ساعةً بعد ساعة، وقالت روبين بيتًا للمتنبّي:
+quote: «إذا رأيت نيوب الليث بارزةً، فلا تظنّنّ أنّ الليث يبتسم.»
+source: المتنبّي
+explanation:
+An uncomplicated acute type B dissection, with no malperfusion, no rupture, controllable pain and normal pulses, is treated first with intravenous beta-blockade in the ICU, serial blood pressure monitoring and pain control.
+Beta-blockers lower the heart rate and the force of ejection, which reduces the stress on the torn wall; they come before vasodilators.
+A vasodilator alone causes a reflex tachycardia that raises wall stress, so it is added only after beta-blockade.
+Endovascular or open repair is kept for complications: malperfusion, rupture, refractory pain or hypertension, or rapid expansion.
+In the picture, the goalkeeper bats the pucks away while the night watchman checks the gauge, and the sleeve stays folded on the shelf.
+Memory hook: warm feet and a quiet belly: the goalkeeper, not the sleeve.
 
 == 22
 # Q: Marfan woman, isolated root aneurysm growing, cross-sectional area / height ratio 12: management? A: aortic root replacement
@@ -36,6 +54,26 @@ keywords: marfan syndrome -> a very tall, lanky wooden marionette with spider-lo
 anchor: the best management -> Franky cutting the swollen salsa bowls out of the base of the orca balloon and sewing in a new white fabric root, the tall marionette watching with its crimson fan
 scene: A bright workshop on the Thousand Sunny. A very tall, lanky wooden marionette with spider-long fingers fans itself with a crimson fan; on its wrist a small tattoo of a white unicorn and a green dragon. Behind it the giant orca parade balloon rises from the cut-open HART Hotel. In the centre, in the strongest light: Franky cuts out the three round bowls of red salsa round the base of the orca, swollen huge and bulging like a pink bubble-gum bubble, and sews in a new white fabric root in their place. A ginger cat slices the orca like a loaf; one round slice is held up like a plate and set on a balance scale against a tall height chart on the other pan. On the wall a calendar shows the bubble bigger on each page. An ice-hockey goalkeeper is waved aside, and a waiting-room hourglass lies knocked over.
 must: the salsa bowls sit at the very base of the orca, just above the hotel; no letters or digits are written anywhere
+story:
+في ورشة مشرقة على السفينة، وقفت دمية خشبيّة طويلة نحيلة، أصابعها طويلة كأرجل العنكبوت، تروّح عن نفسها بمروحة قرمزيّة.
+وخلفها صعد منطاد الحوت من الفندق، وحول قاعدته ثلاثة أوعية من الصلصة الحمراء منتفخة كفقاعة علكة ورديّة، والتّقويم على الجدار يريها أكبر في كلّ صفحة.
+«نستدعي حارس المرمى، ونقلب الساعة الرمليّة وننتظر ستّة أشهر!» قال أوسوب.
+لكنّ القطّ قطّع الحوت كالرّغيف، ورفع شريحةً مستديرةً كالصّحن، ووضعها في كفّة ميزان.
+وفي الكفّة الأخرى لوح طويل لقياس الطول، فمال الميزان نحو الصحن.
+وعلى معصم الدمية وشم صغير: وحيد القرن والتّنّين الأخضر.
+«الصحن أثقل من الطول؛ لا انتظار!» قال تشوبر، فانقلبت الساعة الرمليّة، وتنحّى حارس المرمى جانبًا.
+فقصّ فرانكي أوعية الصلصة المنتفخة، وخاط مكانها جذرًا جديدًا من القماش الأبيض.
+فطوت الدمية مروحتها مطمئنّةً، وقالت روبين مثلًا قديمًا:
+quote: «قبل الرماء تملأ الكنائن.»
+source: مثل عربيّ
+explanation:
+In Marfan syndrome, a ratio of maximal aortic root cross-sectional area (cm²) to height (m) above 10 is an indication for prophylactic root replacement; a ratio of 12 means operate.
+The ratio corrects for body size and predicts dissection better than the diameter alone in tall Marfan patients.
+A root that grows from one yearly scan to the next adds to the case.
+Beta-blockers and angiotensin receptor blockers slow growth but do not replace surgery once the threshold is passed.
+Waiting six months for another CT risks a dissection.
+In the picture, the cat's slice outweighs the height chart on the scale, and Franky replaces the swollen salsa bowls with a white root.
+Memory hook: when the slice outweighs the height, change the root.
 
 == 23
 # Q: acute type A dissection to the iliac bifurcation, tamponade with extravasation, cool right arm, innominate from the false lumen, axillary artery dissected: cannulation? A: femoral cannulation with DHCA and retrograde cerebral perfusion
@@ -55,6 +93,27 @@ keywords: femoral artery -> a red pipe running down beside a long white thigh bo
 anchor: the best cannulation -> a brass cannon pushed into the red pipe beside the long white thigh bone, while the whole hotel, the orca and the head lantern freeze inside one giant ice cube and cold water flows backwards down the chimney into the head lantern
 scene: An emergency night on the Thousand Sunny, glacier-blue light. The whole HART Hotel, the giant orca balloon and a head-shaped lantern above them are frozen inside one giant ice cube. In the centre, in the strongest light: Chopper pushes a small brass cannon, joined to the roller-pump truck's hose, into a red pipe running down beside a long white thigh bone, and cold water flows backwards down the hotel's blue chimney into the head-shaped lantern. Inside the ice, a long zipper is torn open in the orca's front and runs down to its tail, which splits into two sprays of lilac flowers. From the first hump of the orca's arch a long-necked brachiosaurus rises out of the new channel between the two skins of the orca, behind the torn zipper. The head lantern still glows faintly inside the ice. Under the armpit of the orca's right flipper hangs a woodsman's axe beside another torn zipper. The glass aquarium round the hotel fills fast with red water, and a red spurt shoots out of the orca into it. On the operating table the patient's right arm hangs with icicles.
 must: the cannon goes into the pipe beside the THIGH bone, not under the flipper; no letters or digits are written anywhere
+story:
+في ليلة طارئة زرقاء كالجليد، جاء رجل ذراعه اليمنى باردة تتدلّى منها قطع الجليد.
+وفي صدره حوض زجاجيّ حول الفندق يمتلئ سريعًا بالماء الأحمر، ودفقة حمراء تنبجس من الحوت فيه.
+وفي مقدّم الحوت سحّاب ممزّق ينزل إلى ذيله، حيث يتفرّع الذيل باقتين من زهر الليلك، والبراكيوصور ذو العنق الطويل يخرج من القناة الجديدة بين جلدي الحوت.
+«المدفع تحت إبط الزعنفة اليمنى، كما نفعل دائمًا!» قال فرانكي.
+لكنّ تشوبر رفع الفانوس، فإذا عند الفأس المعلّقة تحت الإبط سحّاب آخر ممزّق.
+فتجمّد الفندق والحوت والفانوس الّذي على شكل رأس في مكعّب جليد عملاق واحد.
+ودفع تشوبر مدفعًا نحاسيًّا صغيرًا، موصولًا بخرطوم الشاحنة، في أنبوب أحمر ينزل بجانب عظم الفخذ الأبيض الطويل.
+وجرى ماء بارد راجعًا في المدخنة الزرقاء إلى الفانوس، فبقي يتوهّج خافتًا داخل الجليد.
+«من الفخذ إلى الحوت، ومن المدخنة إلى الرأس!» قال تشوبر.
+فقالت روبين بيتًا للمتنبّي:
+quote: «ما كلّ ما يتمنّى المرء يدركه، تجري الرياح بما لا تشتهي السفن.»
+source: المتنبّي
+explanation:
+In this type A dissection the right axillary and the innominate arteries are both dissected, so the best choice is femoral cannulation, deep hypothermic circulatory arrest and retrograde cerebral perfusion.
+The usual first choice, right axillary cannulation, is ruled out because the axillary artery is dissected and the innominate arises from the false lumen.
+The femoral artery is quick to reach in a patient with tamponade and gives arterial inflow for bypass.
+Retrograde cerebral perfusion through the superior vena cava protects the brain during the arrest without cannulating dissected head vessels.
+Central cannulation of a leaking dissected aorta with tamponade is dangerous, and left axillary perfusion would not reliably reach the brain through an innominate fed by the false lumen.
+In the picture, Chopper pushes the cannon in beside the thigh bone, and cold water flows backwards down the chimney to the lantern inside the ice.
+Memory hook: when the armpit is torn, go in through the thigh and down the chimney.
 
 == 24
 # Q: young tall thin woman, long fingers, pectus excavatum, moderate AR, mutation at 15q21 (fibrillin-1, Marfan): next? A: CT scan (image the whole aorta)
@@ -74,6 +133,25 @@ keywords: ct scan -> a ginger cat slicing a long orca-shaped loaf of bread from 
 anchor: the best next step -> the ginger cat slicing the long orca-shaped loaf from its arch down to its tail into thin slices, laid out beside the tall marionette in torn blue jeans
 scene: A sunny day on the deck of the Thousand Sunny. A very tall, lanky wooden marionette, standing against a tall height chart, with fingers as long as spider legs fans itself with a crimson fan; it wears a pair of blue jeans with a torn patch on one knee, and on the jeans' pocket a small tattoo of a white unicorn and a blue hamsa hand. In front of its chest a yellow excavator digs a deep hollow in the front of a treasure chest. In the centre, in the strongest light: a ginger cat slices a long orca-shaped loaf of bread, stretching from the orca's arch down to its tail, into thin slices with one sharp claw, and the slices are laid into the first page of a photo album. Above, the orca balloon's mouth sags and drips water back into the red engine room of the HART Hotel, and a soft breeze whispers through the gap. A bat sends out rings of sound at the orca's mouth. A giant orange carrot is left lying aside. Chopper holds the photo album.
 must: the cat and the sliced loaf are the biggest, brightest thing; no letters or digits are written anywhere
+story:
+في يوم مشمس على سطح السفينة، وقفت دمية خشبيّة طويلة نحيلة أمام لوح قياس الطول، أصابعها كأرجل العنكبوت، تروّح بمروحة قرمزيّة.
+كانت تلبس سروال جينز أزرق في ركبته رقعة ممزّقة، وعلى جيبه وشم صغير: وحيد القرن والخمسة.
+وأمام صدرها حفّارة صفراء تحفر تجويفًا عميقًا في واجهة صندوق كنز.
+وفوقها ترهّل فم الحوت يقطر ماءً راجعًا إلى الغرفة الحمراء، ونسيم ناعم يهمس من الفجوة، والخفّاش يرسل حلقاته إلى الفم.
+«نفحص الجزرة في عنقها، ونكتفي!» قال أوسوب.
+لكنّ تشوبر ترك الجزرة ملقاةً جانبًا؛ فالخفّاش لا يرى إلّا الفم وأوّل الصعود.
+فجاء القطّ الزنجبيليّ، فقطّع بمخلب واحد رغيفًا على شكل الحوت، من قوسه إلى ذيله، شرائح رقيقة.
+«الحوت كلّه، من رأسه إلى ذيله!» قال تشوبر، ووضع الشرائح في الصفحة الأولى من ألبوم الصور.
+فنظرت روبين إلى الألبوم وقالت ما قالته يومًا:
+quote: «أريد أن أعرف التاريخ الحقيقيّ لهذا العالم!»
+source: نيكو روبين
+explanation:
+A young woman newly found to have Marfan syndrome (a mutation at 15q21, the fibrillin-1 gene) needs imaging of the whole aorta, and a CT scan is the best next step here.
+Marfan disease affects the entire aorta, so a baseline CT (or MRI) of the chest and abdomen measures the root, the ascending aorta and the rest, and finds any silent dilation or dissection.
+Echocardiography sees the root and the valve but not the whole aorta.
+A carotid duplex, a chest X-ray or pulmonary function tests do not answer the aortic question.
+In the picture, the cat slices the whole orca from arch to tail and Chopper puts the slices on the first page of the album.
+Memory hook: a new Marfan: slice the whole orca once.
 
 == 25
 # Q: young man, root aneurysm 6 cm, asthma and eczema, tall, long fingers, translucent skin, pectus, wide-set eyes, bifid uvula, aneurysms elsewhere, arterial tortuosity: diagnosis? A: Loeys-Dietz syndrome
@@ -93,6 +171,26 @@ keywords: loeys-dietz syndrome -> a tall wooden marionette whose strings are twi
 anchor: which syndrome -> the tall wooden marionette in the centre whose strings are twisted into tangled corkscrews, a forked snake tongue flicking from its mouth, its eyes set far apart like a hammerhead shark's
 scene: A coral-pink island of the Grand Line. In the centre, in the strongest light: a tall wooden marionette whose strings are twisted into tangled corkscrews, a forked snake tongue flicking from its mouth, its eyes set far apart like a hammerhead shark's, and its skin like clear glass showing the pipes beneath; on its hand a small tattoo of the Sitt in a golden gown. A yellow excavator digs a hollow in the front of a treasure chest at its chest. Behind it rises the giant orca balloon, three round bowls of red salsa swollen huge round its base; pink bubble-gum bubbles bulge from many pipes, and the orca's tail splits into two sprays of lilac flowers with a bubble on one. A tortoise crawls along pipes twisted like corkscrews. A sneezing sailor scratches a red rash. To one side stands a plain marionette with straight strings. Robin compares the two marionettes.
 must: the twisted strings and the forked tongue are clear; no letters or digits are written anywhere
+story:
+في جزيرة ورديّة كالمرجان، وقفت دميتان خشبيّتان طويلتان، فأخذت روبين تقارن بينهما.
+الأولى دمية عاديّة، خيوطها مستقيمة.
+أمّا الثانية، فخيوطها ملتوية كالبراريم، ولسان أفعى مشقوق يخرج من فمها، وعيناها متباعدتان كعيني سمكة القرش المطرقة.
+وجلدها كالزّجاج الشفّاف ترى الأنابيب تحته، وعلى يدها وشم صغير: الستّ في ثوبها الذهبيّ، وحفّارة صفراء تحفر تجويفًا في صندوق كنز عند صدرها.
+«طويلة نحيلة، وصدرها محفور؛ هي أخت الأولى بلا شكّ!» قال أوسوب.
+لكنّ روبين أشارت إلى الحوت خلفها: أوعية الصلصة حول قاعدته منتفخة، وفقاعات العلكة تنتفخ من أنابيب كثيرة، حتّى على إحدى باقتي الليلك في ذيله.
+وسلحفاة تزحف على أنابيب ملتوية كالبراريم، وبحّار يعطس ويحكّ طفحًا أحمر.
+«اللسان المشقوق والأنابيب الملتوية: هذه ليست أختها!» قالت روبين.
+ثمّ ذكرت مثلًا قديمًا:
+quote: «ما كلّ بيضاء شحمة، ولا كلّ سوداء تمرة.»
+source: مثل عربيّ
+explanation:
+A tall young man with an aortic root aneurysm, a bifid uvula, widely spaced eyes, translucent skin, aneurysms of many arteries and generalised arterial tortuosity most likely has Loeys-Dietz syndrome.
+Loeys-Dietz comes from mutations in the TGF-beta pathway; its hallmarks are hypertelorism, a bifid uvula or cleft palate, and arterial tortuosity with aneurysms.
+Allergic disease such as asthma and eczema is also common in Loeys-Dietz.
+Marfan syndrome shares the tall build, long fingers and pectus, but not the bifid uvula, the tortuosity or the aneurysms throughout the body.
+The aorta in Loeys-Dietz dissects at smaller diameters, so surgery is offered earlier than in Marfan.
+In the picture, the marionette with corkscrew strings, a forked tongue and hammerhead eyes is not the sister of the plain one.
+Memory hook: a forked tongue and twisted strings: Loeys-Dietz.
 
 == 26
 # Q: Marfan, acute type A dissection, root 5.8, ascending 4.8, arch 3.8, to the iliac bifurcation, trileaflet valve with mild-moderate AR: best repair? A: ascending and hemi-arch replacement with valve-sparing root replacement by reimplantation (David)
@@ -112,6 +210,27 @@ keywords: valve-sparing root replacement -> young David with his sling over his 
 anchor: the best repair -> young David stitching the orca's own clover-leaf mouth inside a white fabric tube that replaces the orca's front climb up to a half-moon cut under its arch
 scene: Dawn in a shepherd's meadow on a Grand Line island; the cut-open HART Hotel stands in the grass, the giant orca balloon rising from it, a long zipper torn open down its front to its tail. In the centre, in the strongest light: young David, his sling over his shoulder, gently keeps the orca's own mouth, made of three healthy clover leaves, and stitches it inside a white fabric tube that replaces the orca's front climb and ends at a half-moon cut across the underside of the arch; the swollen salsa bowls round the base are being trimmed away. A little water drips back from the orca's mouth. Beside the hotel a very tall, lanky wooden marionette fans itself with a crimson fan, a dagger stuck in its chest; on its hand a small tattoo of a blue hamsa hand, a golden drop and a violin. On a shelf lies a tube with scalloped edges, set aside. Chopper hands David the needle.
 must: the orca's own clover-leaf mouth is kept and sits INSIDE the tube; no letters or digits are written anywhere
+story:
+عند الفجر في مرعًى للرّعاة، وقفت دمية خشبيّة طويلة نحيلة تروّح بمروحة قرمزيّة، وفي صدرها خنجر مغروز.
+وعلى يدها وشم صغير: الخمسة والنّقطة والكمان.
+وفي العشب فندق القلب يصعد منه منطاد الحوت، في مقدّمه سحّاب ممزّق إلى ذيله، ومن فمه يقطر قليل من الماء راجعًا.
+«نخلع الفم ونضع مكانه فمًا حديديًّا!» قال أوسوب.
+لكنّ داود الراعي الصغير، ومقلاعه على كتفه، نظر إلى الفم فوجده ثلاث ورقات برسيم سليمة.
+فأبقى فم الحوت نفسه، وشذّب أوعية الصلصة المنتفخة حول القاعدة.
+ثمّ خاط الفم داخل أنبوب من القماش الأبيض، يحلّ محلّ صعود الحوت الأماميّ، وينتهي عند قطع على شكل هلال تحت القوس.
+وأبعد أنبوبًا ذا حوافّ مسنّنة إلى الرفّ، وناوله تشوبر الإبرة.
+«الفم يبقى، والأنبوب يحضنه!» قال تشوبر.
+فقالت روبين مثلًا قديمًا:
+quote: «أعط القوس باريها.»
+source: مثل عربيّ
+explanation:
+A young Marfan patient with an acute type A dissection, a 5.8 cm root, a trileaflet valve and only mild-to-moderate regurgitation is best treated by valve-sparing root replacement by reimplantation (David), with ascending and hemi-arch replacement.
+In Marfan syndrome the whole root, sinuses and annulus included, is abnormal and must be replaced; reimplantation also fixes the annulus inside the graft, which prevents later dilation.
+The remodelling technique leaves the annulus unsupported, so annular dilation and late regurgitation are more likely in Marfan patients.
+A supracoronary graft with valve resuspension leaves the diseased root to dilate again, and a mechanical valve gives up a good native valve for lifelong warfarin.
+With a 3.8 cm arch, a hemi-arch replacement is enough.
+In the picture, David keeps the orca's own clover mouth and stitches it inside the white tube, setting the scalloped tube aside.
+Memory hook: David keeps the mouth and wraps it.
 
 == 27
 # Q: Marfan man, sudden back pain and left leg numbness one hour ago; CT (figure): type B dissection with the left iliac compromised: therapy? A: endovascular stent graft
@@ -131,6 +250,27 @@ keywords: stent graft -> a coiled metal Slinky wrapped in white fabric, a sleeve
 anchor: the right therapy -> the white fabric sleeve round a coiled Slinky slid up inside the orca to plug the first rip just past the left flipper, while the wilted left lilac spray at its tail flushes pink again
 scene: A lilac-tinted evening; the giant orca balloon floats over the Thousand Sunny, a long zipper torn open along its back while its front stays clean, its inner tunnel squashed flat. In the centre, in the strongest light: Chopper slides a coiled metal Slinky wrapped in white fabric, a sleeve, up inside the orca and plugs the first rip where the zipper starts, just past the left flipper; at the orca's tail, which splits into two sprays of lilac flowers, the wilted grey left spray flushes pink again. Below on deck a very tall, lanky wooden marionette fans itself with a crimson fan, a dagger stuck in its back, its left leg grey and stuck with pins and needles. An ice-hockey goalkeeper's pad cannot reach the leg. A ginger cat slices a long loaf into thin slices. Franky holds a punched window and is waved away.
 must: the sleeve plugs the rip just past the LEFT flipper; the wilting spray is the LEFT one; no letters or digits are written anywhere
+story:
+في مساء بلون الليلك، طفا منطاد الحوت فوق السفينة، في ظهره سحّاب طويل ممزّق، ومقدّمه نظيف.
+وعلى السطح دمية خشبيّة طويلة نحيلة تروّح بمروحة قرمزيّة، في ظهرها خنجر، وساقها اليسرى رماديّة تنخزها الإبر والدّبابيس.
+فقطّع القطّ رغيفه شرائح، فإذا النفق الداخليّ للحوت مسحوق مسطّح، والباقة اليسرى من زهر الليلك في ذيله ذابلة رماديّة.
+فجاء حارس المرمى يضرب بوسادته، لكنّ وسادته لم تبلغ الساق الرماديّة.
+«أفتح نافذةً بين النفقين، فيعود الماء!» قال فرانكي، ورفع نافذةً مثقوبة.
+لكنّ تشوبر صرفه بيده؛ فالنّافذة لا تسدّ الباب الّذي دخل منه الماء.
+ثمّ أدخل نابضًا معدنيًّا ملتفًّا في كمّ من القماش الأبيض، ودفعه صعودًا داخل الحوت حتّى سدّ أوّل تمزّق بعد الزعنفة اليسرى.
+فانتفخ النفق المسحوق، وعادت الباقة اليسرى ورديّةً، ودبّت الحرارة في ساق الدمية.
+«سدّ الباب، يعد النهر إلى مجراه!» قال تشوبر.
+ثمّ قال كما قال شانكس يوم دخل ساحة الحرب:
+quote: «جئت لأنهي هذه الحرب!»
+source: شانكس
+explanation:
+An acute type B dissection with leg malperfusion, here in a Marfan patient, is complicated and is treated with an endovascular stent graft over the entry tear.
+Covering the primary entry tear redirects flow into the collapsed true lumen and restores perfusion of the left leg.
+Anti-impulse therapy alone does not reverse established malperfusion.
+Open descending replacement in the acute phase carries a high risk of death and paraplegia, and open fenestration does not close the entry tear.
+In Marfan syndrome TEVAR is used with caution and is often a bridge, but it is the right first step for a complicated dissection with malperfusion.
+In the picture, Chopper's sleeve plugs the first rip, the flat tunnel swells again and the grey lilac spray turns pink.
+Memory hook: a grey leg under a torn orca: plug the door with a sleeve.
 
 == 28
 # Q: CABG with LIMA, RIMA and radial; extubated at 4 h; day-1 CXR (figure): raised left hemidiaphragm; saturation 94% on 2 L, mild dyspnoea walking: next? A: enhanced pulmonary care and toilet
@@ -149,6 +289,27 @@ keywords: diaphragm -> the deck floor between the chest cabin and the belly hold
 anchor: the best next step -> Chopper clapping the old sailor's back with cupped hands as he coughs and blows a paper party horn, beside the deck floor whose left half sits raised and slack
 scene: A fresh morning on the deck of the Thousand Sunny. An old sailor walks slowly, puffing lightly; inside his chest the cut-open HART Hotel shows the green crown with green cabbage leaves on its spikes, two green lima bean vines growing from both sides of the chest wall onto it and a long thin radio antenna laid as a bridge over another spike. Below the hotel the deck floor between the chest cabin and the belly hold has its left half raised and slack like a loose trampoline; a telephone cable runs down beside the hotel to the deck, nicked near the top. In the centre, in the strongest light: Chopper claps the sailor's back with cupped hands as he coughs and blows a paper party horn; a breathing tube lies on the floor beside his bed. A huge ox wearing a clear oxygen mask stands beside him; on its horn a small tattoo of a little brown monkey and a graduation cap. Franky holds a big needle and thread over the deck and Chopper waves it away; a lantern-tipped telescope stays in its box.
 must: it is the LEFT half of the deck floor that is raised; no letters or digits are written anywhere
+story:
+في صباح نديّ على سطح السفينة، مشى بحّار عجوز ببطء يلهث قليلًا.
+في صدره تاج أخضر على أشواكه أوراق ملفوف، وكرمتا ليما من جانبي جدار الصدر تصلان إليه، وهوائيّ طويل ممدود جسرًا على شوكة أخرى.
+وتحت الفندق، كان النصف الأيسر من أرضيّة السطح مرفوعًا رخوًا كمنصّة قفز مرتخية، وسلك الهاتف النازل إليها مجروح قرب أعلاه.
+وبجانبه ثور ضخم يلبس قناع أكسجين شفّافًا، على قرنه وشم صغير: السعدان والقبّعة.
+«أخيط الأرضيّة المرتخية وأشدّها!» قال فرانكي، ورفع إبرته الكبيرة.
+«أو ندخل المنظار ذا الفانوس في صدره!» قال أوسوب.
+لكنّ تشوبر صرف الإبرة، وترك المنظار في صندوقه، وأنبوب التنفّس ملقًى على الأرض بجانب السرير.
+ثمّ ربّت على ظهر البحّار بكفّين مقعّرتين وهو يسعل، وناوله بوق حفلات ورقيًّا لينفخ فيه.
+«انفخ، واسعل، وامش؛ والسّلك يلتئم مع الأيّام!» قال تشوبر.
+ثمّ ابتسم وتذكّر حلمه القديم:
+quote: «سأصبح طبيبًا يقدر على شفاء أيّ مرض!»
+source: توني توني تشوبر
+explanation:
+A raised left hemidiaphragm after CABG with mild symptoms and good oxygen saturation is usually a phrenic nerve injury, from harvesting the left ITA or from topical cold.
+The best first step is enhanced pulmonary care: physiotherapy, coughing, incentive spirometry and walking.
+Most phrenic nerve injuries after cardiac surgery recover over weeks to months.
+Diaphragm plication is kept for persistent paralysis with significant symptoms, usually after several months.
+Bronchoscopy is for a lobar collapse that does not clear with physiotherapy, and drainage is for a real effusion; the film shows a raised diaphragm, not fluid.
+In the picture, Chopper claps the sailor's back and hands him a party horn, while the needle is waved away and the telescope stays in its box.
+Memory hook: a slack deck with a nicked cable: clap, cough and blow.
 
 == 29
 # Q: 3-vessel disease, old MI, EF 45% with inferior dyskinesis, severe functional MR on TEE during CABG: after revascularisation? A: chordal-sparing mitral valve replacement with a bioprosthesis
@@ -167,6 +328,27 @@ keywords: bioprosthetic valve -> a soft paper tissue box that Franky sets in pla
 anchor: the best next step after the grafts -> Franky setting a soft paper tissue box in place of the leaking mitre, the golden harp strings kept tied on, the cabbage leaves already laid on the crown above
 scene: A disco-lit night in the cut-open HART Hotel; a grey-bearded old sailor lies on the operating table beneath it. On the roof, green cabbage leaves are already laid over the crown's three tarred spikes. In the centre, in the strongest light: Franky sets a soft paper tissue box in place of the bishop's mitre between the red lobby and the red engine room, keeping the golden harp strings tied from the floor to the new box; the old mitre's healthy-looking leaves are pulled apart and water gurgles back through the gap. On the bottom floor of the red engine room a disco dancer in a silver suit steps OUT against the beat. At the red room's door a nightclub bouncer throws out less than half the guests; on his arm a small tattoo of a graduation cap and a blue hamsa hand. A stag brought down by an arrow lies at the hotel door. Behind the hotel a bat slides down inside a pink sofa slide. Usopp offers a clanking steel robot and a half ring of brass, and both are waved away.
 must: the tissue box goes between the red lobby and the red engine room; no letters or digits are written anywhere
+story:
+في ليلة تضيئها أنوار الرقص، استلقى بحّار عجوز أشيب اللحية على طاولة العمليّات، وعند باب الفندق أيّل صرعه سهم.
+وعلى السطح فرشت أوراق الملفوف على أشواك التاج الثلاث المسدودة.
+لكنّ الخفّاش انزلق في مزلقة الأريكة الورديّة، فرأى ورقتي تاج الأسقفّ السليمتين تنفرجان، والماء يقرقر راجعًا من بينهما.
+وفي الطابق الأسفل من الغرفة الحمراء، راقص في بدلة فضّيّة يخطو إلى الخارج عكس الإيقاع.
+«خذوا هذا الروبوت الحديديّ، أو نصف طوق من النحاس!» قال أوسوب.
+لكنّ فرانكي لوّح بهما معًا؛ فنصف الطوق يسقط أمام الراقص الّذي يخطو إلى الخارج، والرّوبوت لا يحتاجه عجوز.
+وعند باب الغرفة الحمراء حارس ملهًى لا يطرد إلّا أقلّ من نصف الضيوف، على ذراعه وشم صغير: القبّعة والخمسة.
+فوضع فرانكي علبة مناديل ناعمةً مكان تاج الأسقفّ، وأبقى أوتار القيثارة الذهبيّة مربوطةً من الأرض إلى العلبة.
+«لا يعود الماء من هنا مرّةً أخرى!» قال فرانكي.
+ومن ركن القاعة، رفع زورو سيفه وقال عهده القديم:
+quote: «لن أخسر مرّةً أخرى أبدًا!»
+source: رورونوا زورو
+explanation:
+During CABG in a man with inferior dyskinesis and severe functional mitral regurgitation, the best step after revascularisation is chordal-sparing mitral valve replacement with a bioprosthesis.
+Basal inferior dyskinesis tethers the posterior leaflet, and ring repair often fails in this setting; the CTSN trial found more recurrence after repair than after chordal-sparing replacement.
+A partial ring does not address the tethering and is a poor choice for functional regurgitation.
+At 73, a bioprosthesis avoids lifelong warfarin, and a mechanical valve offers him no advantage.
+Repeating the TEE adds nothing: anaesthesia tends to understate regurgitation, so severe regurgitation on TEE is truly severe.
+In the picture, Franky sets the tissue box in place and keeps the harp strings, while the silver dancer steps out and the robot and the half ring are waved away.
+Memory hook: an outward-stepping floor dancer: a tissue box, strings kept.
 
 == 30
 # Q: healthy man with 3-vessel disease and normal ventricle asks about off-pump CABG: its principal advantage? A: fewer blood transfusions
@@ -184,3 +366,23 @@ keywords: off-pump cabg -> an octopus gripping the beating hotel with its sucker
 anchor: the main advantage of off-pump CABG -> the octopus gripping the beating hotel while Sanji lays the cabbage leaves, and beside it the bag of red doughnuts hangs on its drip stand still sealed and full
 scene: Deep ocean blue light inside the Thousand Sunny's operating cabin. In the centre, in the strongest light: an octopus grips the beating cut-open HART Hotel with its suckers, holding one spot still while the fans keep turning, as Sanji lays green cabbage leaves over the crown's tarred spikes; beside them a clear bag of little round red doughnuts hangs on a drip stand, its seal unbroken, still full. The big roller-pump truck stands parked and padlocked in the corner. At the red room's door a nightclub bouncer throws out a healthy share of guests. A balance scale weighs the octopus against the pump truck; on both pans are drawn the same small lightning bolt at a head lantern, the same stag with an arrow and the same full coin purse. An old man with strong muscular arms, the patient, bites his nails nearby.
 must: the blood bag is sealed and full; no letters or digits are written anywhere
+story:
+في ضوء أزرق كأعماق المحيط، جلس عجوز قويّ الذراعين في قمرة العمليّات يقضم أظافره قلقًا.
+«يقولون إنّ الأخطبوط يحميك من البرق والأيّل، ويوفّر كيس نقودك!» قال له أوسوب.
+فوضعت نامي الأخطبوط في كفّة ميزان، وشاحنة المضخّة في الكفّة الأخرى.
+فإذا على الكفّتين البرق الصغير نفسه عند فانوس الرأس، والأيّل نفسه بسهمه، وكيس النقود الممتلئ نفسه.
+«لا فرق في هذه الثلاثة!» قالت نامي.
+ثمّ ركنت شاحنة المضخّة في الزاوية وأقفلت، وأمسك أخطبوط بمماصّه الفندق النابض، يثبّت بقعةً واحدةً والمراوح تدور.
+ففرش سانجي أوراق الملفوف على الأشواك المسدودة، وحارس الملهى عند الباب يطرد نصيبًا صحّيًّا من الضيوف.
+وعلى حامل المحلول كيس شفّاف من الكعكات الحمراء الصغيرة، بقي ممتلئًا لم يفضّ ختمه.
+«هذا هو الفرق الوحيد: الكيس يبقى مغلقًا!» قال تشوبر.
+فكفّ العجوز عن قضم أظافره، وقالت روبين مثلًا قديمًا:
+quote: «تسمع بالمعيديّ خير من أن تراه.»
+source: مثل عربيّ
+explanation:
+The main proven advantage of off-pump CABG over on-pump CABG is fewer blood transfusions.
+Avoiding the bypass circuit spares the haemodilution and platelet damage that cause bleeding.
+Large randomised trials such as ROOBY, CORONARY and GOPCABE found no clear difference in stroke, perioperative infarction or death, and ROOBY found worse one-year graft patency off pump.
+Overall hospital costs are similar.
+In the picture, the scale weighs the octopus and the pump truck the same in lightning, stag and coin purse, and only the bag of red doughnuts stays sealed.
+Memory hook: the octopus saves the doughnuts, nothing more.
