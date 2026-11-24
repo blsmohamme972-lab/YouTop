@@ -1,5 +1,4 @@
 book: sesat-13
-
 == 61
 # Q: advanced chronic heart failure, 10 kg overloaded, BP 85, rales, JVD, oedema, creatinine 1.4 -> 2.4, anaemia; cardiac index 1.9, wedge 32: next? A: start inotropic support
 # the doberman harnessed to the hotel pulling the engine rooms into strong beats and the windmill turning beside it, the water meter needle rising = inotropes for low output, cold and wet -> ANSWER
@@ -17,6 +16,26 @@ keywords: dobutamine -> a strong black doberman harnessed to the hotel, pulling 
 anchor: the most appropriate next step -> a strong black doberman harnessed to the hotel pulling its engine rooms into strong beats while a white windmill turns briskly beside it, and the water meter's needle starts to rise
 scene: A cold, foggy dawn in a ship's ward, cold fog on the window. A heavy man sits up, a swollen blue cord bulging on his neck, his thumb leaving deep dents in his doughy ankles; beside him a few pale pink doughnuts and a pair of red kidney beans wrinkling dry. Behind him the cut-open HART Hotel: a door wedge is jammed under the yellow lobby's door and soggy dollar bills drip behind it; a pressure gauge has its needle sunk in the low blue zone. In the centre, in the strongest light: a strong black doberman harnessed to the hotel pulls its engine rooms into strong beats while a white windmill turns briskly beside it, its sails pumping, and a round water meter on the outflow pipe, a small tattoo on its rim of a white unicorn, a golden drop and a little brown monkey, has its needle starting to rise. Chopper waves away Darth Vader, and a coffee filter is set aside.
 must: the doberman and the windmill are the brightest, central figures; no letters or digits are written anywhere
+story:
+في فجر بارد ضبابيّ في جناح السفينة، غطّى الضباب البارد زجاج النافذة، وجلس رجل ثقيل يبرز على عنقه حبل أزرق منتفخ.
+كلّما ضغط بإبهامه على كاحليه العجينيّين ترك فيهما حفرًا عميقة، وبجانبه كعكات ورديّة شاحبة قليلة، وحبّتا فاصوليا حمراوان تجفّان وتتجعّدان.
+وفي الفندق خلفه، انحشر إسفين تحت باب الردهة الصفراء، يتكدّس الماء وراءه، وأوراق الدولارات المبتلّة تقطر.
+وإبرة المقياس غارقة في الأزرق، وعلى أنبوب الخروج عدّاد ماء مستدير إبرته منخفضة، على حافّته وشم صغير: وحيد القرن والنّقطة والسّعدان.
+«ننادي دارث فيدر ليسكن الفندق الآن! أو نصفّي الماء بمصفاة القهوة!» قال أوسوب.
+لكنّ تشوبر صرف فيدر، ووضعت مصفاة القهوة جانبًا؛ فالفندق بارد ضعيف، يحتاج من يدفعه أوّلًا.
+فربط كلب دوبرمان أسود قويًّا بالفندق، فشدّ غرف المحرّك حتّى خفقت خفقات قويّة.
+ودارت إلى جانبه طاحونة هواء بيضاء بنشاط، أشرعتها تضخّ، فأخذت إبرة عدّاد الماء ترتفع.
+«الكلب يشدّ، والطّاحونة تدور، والماء يعود إلى الحبّتين!» قال تشوبر.
+فقالت روبين بيتًا لأبي القاسم الشابّيّ:
+quote: «ومن لا يحبّ صعود الجبال، يعش أبد الدهر بين الحفر.»
+source: أبو القاسم الشابّي
+explanation:
+A patient with advanced heart failure, a low blood pressure, a cardiac index of 1.9, a wedge pressure of 32, congestion and worsening kidney and liver function is cold and wet, and the next step is inotropic support.
+Inotropes such as dobutamine or milrinone raise the cardiac output, improve kidney perfusion and let diuretics work.
+An emergent durable LVAD in a patient with failing organs carries a high risk; he must first be stabilised and his organs allowed to recover.
+Haemofiltration does not fix the low output, and coronary angiography does not change the immediate need.
+In the picture, the Doberman pulls the engine rooms into strong beats and the windmill turns, while the water meter starts to rise.
+Memory hook: cold and wet: harness the Doberman and turn the windmill.
 
 == 62
 # Q: a 72-year-old woman with a new 6 cm ascending aneurysm and a trileaflet aortic valve; her family ask about screening: recommendation? A: all first-degree relatives should have an echocardiogram
@@ -35,6 +54,27 @@ keywords: echocardiography -> a bat flying along a row of people, sending rings 
 anchor: the recommendation -> a bat flying along the row of her children, brothers and sisters, sending rings of sound at each one's chest, under the pink bubble-gum bubble swelling from the orca balloon's rising neck
 scene: A sepia family-portrait room in Water 7. A grey-haired grandmother sits in front; above her the giant orca balloon with a pink bubble-gum bubble swelling from its rising neck, a small painting on the bubble of the Sitt in a golden gown, a staircase rising beside the neck and a three-leaf clover painted on the orca's door. A family tree is carved on the wall behind. In the centre, in the strongest light: her children, brothers and sisters stand in a row, and a bat flies along it sending rings of sound at each one's chest. A ginger cat with its loaf and a marionette on strings are set aside, and Chopper sweeps away scattered confetti.
 must: the bat and the row of relatives are the brightest, central thing; no letters or digits are written anywhere
+story:
+في غرفة بلون الصور العائليّة القديمة في ووتر سيفن، جلست جدّة شيباء في المقدّمة.
+وفوقها منطاد الحوت، تنتفخ من عنقه الصاعد فقاعة علكة ورديّة، عليها رسم صغير للسّتّ في ثوبها الذهبيّ، وبجانب العنق درج يصعد.
+وعلى باب الحوت ورقة برسيم ثلاثيّة مرسومة، وعلى الجدار خلفهم شجرة عائلة محفورة.
+«أمرها وحدها، صدفة متناثرة كهذه القصاصات! لا شأن لأولادها بها!» قال أوسوب، ونثر قصاصات ملوّنة.
+لكنّ تشوبر كنس القصاصات بعيدًا، وأشار إلى شجرة العائلة على الجدار.
+ووضع القطّ ورغيفه جانبًا، والدّمية الخيطيّة جانبًا أيضًا.
+فوقف أولادها وإخوتها وأخواتها في صفّ واحد.
+وطار الخفّاش على طول الصفّ، يرسل حلقات الصوت إلى صدر كلّ واحد منهم.
+«صدرًا صدرًا، لا يفلت أحد!» قال تشوبر.
+فابتسمت الجدّة لأولادها، وقالت روبين مثلًا قديمًا:
+quote: «هذا الشبل من ذاك الأسد.»
+source: مثل عربيّ
+explanation:
+When a patient has a thoracic aortic aneurysm with a trileaflet valve and no known syndrome, her first-degree relatives should be screened, and the book's answer is an echocardiogram for each of them.
+About one in five patients with a thoracic aortic aneurysm has a first-degree relative with one, even without a recognisable syndrome: familial thoracic aortic aneurysm disease.
+Echocardiography images the aortic root and ascending aorta, where these aneurysms usually lie, without radiation.
+A CT of the chest and abdomen for every relative adds radiation and cost, and an aneurysm cannot be called sporadic before the family is checked.
+A genetic test for Marfan syndrome alone would miss most familial aneurysm genes.
+In the picture, the bat flies along the row of her children, brothers and sisters, under the swollen bubble on the orca's rising neck.
+Memory hook: one bubble in the family: the bat checks every chest.
 
 == 63
 # Q: IRAD: the most common comorbidity in acute type A or B dissection? A: hypertension
@@ -53,6 +93,24 @@ keywords: hypertension -> a huge round pressure gauge, needle deep in the red, t
 anchor: the most common comorbidity -> a huge round pressure gauge, needle deep in the red, towering over the orca balloon's torn zipper beside the biggest pile of gold coins on Robin's ledger
 scene: A cream-coloured registry office on Ohara. An old father with a cane stands by; his son and the wife holding his arm watch. Above them the giant orca balloon, a long zipper torn open along its back, a door turning smoothly at its base. In the centre, in the strongest light: a huge round pressure gauge, its needle deep in the red, towers over the torn orca, beside the biggest pile of gold coins on Robin's big ledger, little flags of many lands lining its page. On small piles of coins sit a bicycle, a marionette and a little family tree.
 must: the gauge and its pile are much bigger than the three small piles; no letters or digits are written anywhere
+story:
+في مكتب سجلّات بلون القشدة في جزيرة أوهارا، وقف أب عجوز يتّكئ على عكّازه، فقد تمزّق حوته منذ أيّام.
+ووقف ابنه بجانبه، تمسك زوجته بذراعه؛ وفوقهم منطاد الحوت في ظهره سحّاب طويل ممزّق، وعند قاعدته باب يدور بسلاسة.
+«ما الّذي يمزّق الحيتان أكثر من كلّ شيء؟» سألت الزوجة.
+«الدرّاجة في الباب! أو الدمية الخيطيّة! أو شجرة العائلة!» قال أوسوب.
+ففتحت روبين دفتر السجلّات الكبير، تصطفّ على صفحته أعلام صغيرة من بلاد كثيرة.
+فإذا الدرّاجة والدّمية وشجرة العائلة الصغيرة جالسات على أكوام صغيرة من العملات.
+وأمّا أكبر كومة من الذهب في الدفتر، فبجانبها مقياس ضخم مستدير، إبرته في عمق الأحمر، يعلو فوق الحوت الممزّق.
+«هذا هو الأكثر بلا منازع: المقياس الأحمر!» قالت روبين.
+فنظر الابن إلى مقياسه هو، وقالت روبين مثلًا قديمًا:
+quote: «إذا عرف السبب بطل العجب.»
+source: مثل عربيّ
+explanation:
+In the International Registry of Acute Aortic Dissection, hypertension is by far the most common comorbidity, present in about three quarters of patients with type A or type B dissection.
+A bicuspid aortic valve, Marfan syndrome and familial thoracic aortic disease raise the risk greatly for the individual, but account for only a small share of all dissections.
+For this man, with a bicuspid valve, hypertension and a father who dissected, both controlling his blood pressure and imaging his aorta matter.
+In the picture, the huge red gauge stands by the biggest pile of coins in Robin's ledger, while the bicycle, the marionette and the family tree sit on small piles.
+Memory hook: in the dissection ledger, the red gauge owns the biggest pile.
 
 == 64
 # Q: left atrial mass from the atrial septum, excised with its endocardium; frozen section shows sarcoma: next? A: full-thickness resection of the atrial septum and closure with a pericardial patch
@@ -71,6 +129,26 @@ keywords: sarcoma -> a red crab clinging to the wall between the two upper lobbi
 anchor: the best next step -> Franky's saw cutting right through the whole wall between the two upper lobbies where the red crab clung, and sewing a square of glass cut from the aquarium into the hole
 scene: A bright white operating room on Water 7. The cut-open HART Hotel lies on the lit table. A man peers through a microscope at a thin slice laid on a block of frost, and in it a red crab. In the centre, in the strongest light: Franky's saw cuts right through the whole wall between the yellow and blue upper lobbies where a red crab clung, leaving a clean border of plain wall round the cut, and he sews in a square of glass cut from the clear glass aquarium round the hotel. A thin peel of wallpaper is waved away by Chopper; a flowerpot and a flask of green potion are set aside, and a lamp of violet rays is switched off.
 must: the hole goes right through the wall and is closed with the glass square; no letters or digits are written anywhere
+story:
+في غرفة عمليّات بيضاء مضيئة في ووتر سيفن، رقد الفندق على الطاولة، وقد قطعت منه كتلة كانت تتدلّى في الردهة الصفراء.
+ونظر رجل في مجهر إلى شريحة رقيقة على قالب من الصقيع، فإذا فيها سلطعون أحمر.
+«قشرنا ما حولها من ورق الجدران؛ نغلق وننتهي!» قال أوسوب، ورفع قشرةً رقيقةً من ورق الجدران.
+لكنّ تشوبر صرف القشرة؛ فالسّلطعون يغرس مخالبه في عمق الجدار.
+ووضع أصيص الزرع وقارورة الجرعة الخضراء جانبًا، وأطفئ مصباح الأشعّة البنفسجيّة.
+فأخذ فرانكي منشاره، وقطع الجدار بين الردهتين الصفراء والزّرقاء قطعًا نافذًا من جهتيه كلتيهما، حيث كان السلطعون يتشبّث.
+وترك حول القطع حافّةً نظيفةً من الجدار السليم.
+ثمّ قصّ مربّعًا من زجاج الحوض الشفّاف المحيط بالفندق، وخاطه في الثقب.
+«من هنا إلى هناك، لا يبقى للسّلطعون مخلب!» قال فرانكي.
+فقالت روبين بيتًا لأبي تمّام:
+quote: «السيف أصدق إنباءً من الكتب، في حدّه الحدّ بين الجدّ واللّعب.»
+source: أبو تمّام
+explanation:
+When a left atrial mass excised from the septum with only its endocardium turns out on frozen section to be a sarcoma, the next step is full-thickness resection of the atrial septum with clear margins, closed with a pericardial patch.
+Complete resection with negative margins is the most important factor for survival in cardiac sarcoma.
+A shave of the endocardium leaves tumour in the septum, and closing then means a certain recurrence.
+Chemotherapy and radiation are added after resection, not instead of it, and transplantation is not a first-line treatment for a resectable sarcoma.
+In the picture, Franky saws right through the wall where the crab clung and sews in a square of glass from the aquarium.
+Memory hook: a crab in the wall: cut the whole wall and patch it with the tank.
 
 == 65
 # Q: on-pump CABG, chronic kidney disease, creatinine 3.2, potassium 5.6 before surgery: best intra-operative electrolyte strategy? A: zero-balanced ultrafiltration
@@ -88,6 +166,26 @@ keywords: zero-balanced ultrafiltration -> Franky's fine filter bag on the pump 
 anchor: the best strategy -> Franky's fine filter bag on the roller-pump truck's hose squeezing out water full of tiny bananas while Usopp pours the same amount of clean water back in, a balance scale beside them perfectly level
 scene: A bright workshop on the Thousand Sunny. The cut-open HART Hotel lies connected to a roller-pump truck by its hoses, cabbage leaves laid over the green crown's spikes and tar on all three spikes. A big yellow banana sits on the truck's tank, a small tattoo on it of a blue hamsa hand, a golden drop and the Sitt in a golden gown; tiny electric sparks fizz in the blood water. A pair of red kidney beans lies wrinkled and grey. In the centre, in the strongest light: Franky's fine filter bag on the truck's hose squeezes out water full of tiny bananas, while Usopp pours a jug of the same amount of clean water back in, and a balance scale beside them stands perfectly level. A big boiler, a honey jar and a pen are set aside.
 must: the filter bag and the level scale are the brightest, central thing; no letters or digits are written anywhere
+story:
+في ورشة مضيئة على السفينة، ربط الفندق بشاحنة المضخّة بخراطيمها، وعلى أشواك تاجه الثلاث المسدودة أوراق ملفوف.
+وعلى خزّان الشاحنة موزة صفراء كبيرة، عليها وشم صغير: الخمسة والنّقطة والسّتّ، وشرارات كهربائيّة صغيرة تفور في ماء الدم.
+وبجانبها حبّتا فاصوليا حمراوان متجعّدتان رماديّتان، لا تقدران على إخراج الموز.
+«نشعل الغلّاية الكبيرة، أو نعطيه عسلًا وقلمًا!» قال أوسوب.
+لكنّ تشوبر وضع الغلّاية وجرّة العسل والقلم جانبًا.
+فركّب فرانكي على خرطوم الشاحنة كيس ترشيح ناعمًا، فعصر منه ماءً مليئًا بالموز الصغير.
+وصبّ أوسوب في الشاحنة إبريقًا من الماء النظيف بالقدر نفسه.
+وبجانبهما ميزان وقف مستويًا تمامًا، لا يميل إلى هنا ولا إلى هناك.
+«ما يخرج يعود نظيفًا، والميزان على الصفر!» قال تشوبر.
+فخمدت الشرارات، وقالت روبين مثلًا قديمًا:
+quote: «ما زاد عن حدّه انقلب إلى ضدّه.»
+source: مثل عربيّ
+explanation:
+In a patient with chronic kidney disease and a potassium of 5.6 having on-pump CABG, the best way to manage the electrolytes during the operation is zero-balanced ultrafiltration.
+The ultrafilter on the bypass circuit removes plasma water with its potassium, and an equal volume of potassium-free balanced solution is given back, so the fluid balance stays at zero.
+This lowers the potassium and clears other small molecules without drying the patient out.
+Continuous haemofiltration is an ICU therapy, HTK cardioplegia adds a large volume without removing the potassium already in the blood, and glucose with insulin shifts potassium only for a short time.
+In the picture, Franky's filter bag squeezes out water full of tiny bananas while Usopp pours back as much clean water, and the scale stays level.
+Memory hook: squeeze the bananas out, pour clean water in, keep the scale level.
 
 == 66
 # Q: mitral replacement, bicaval cannulation, on bypass the right atrium distends and the reservoir won't fill despite vacuum of 100: next? A: adjust the IVC cannula position
@@ -105,6 +203,25 @@ keywords: inferior vena cava -> the hotel's drainpipe running up from below; can
 anchor: the best next step -> Franky sliding the brass cannon in the drainpipe back to a new angle, freeing its tip from a side branch, so the blue water rushes into the roller-pump truck's empty tank again
 scene: A copper-pipe engine room on Water 7. An old man lies on the table; above him the cut-open HART Hotel, its blue lobby bulging like a balloon, a new mitre waiting to be fitted. A small brass cannon sits in the chimney, and a roller-pump truck stands with its tank nearly empty, a big rubber suction plunger pulling on the tank, a small tattoo on its handle of a white unicorn and two golden whistles. In the centre, in the strongest light: a second brass cannon in the drainpipe has its tip stuck in a small side branch; Franky slides it back to a new angle, freeing its tip, and the blue water rushes into the truck's tank again. Chopper waves away a bucket of water, and Usopp waves away a second, stronger plunger.
 must: the cannon in the drainpipe at the bottom is the one moved; no letters or digits are written anywhere
+story:
+في غرفة محرّكات ذات أنابيب نحاسيّة في ووتر سيفن، استلقى رجل عجوز على الطاولة، وتاج أسقفّ جديد ينتظر أن يركّب.
+وفي مدخنة الفندق مدفع نحاسيّ صغير يعمل، لكنّ الردهة الزرقاء تنتفخ كالبالون.
+وخزّان شاحنة المضخّة يكاد يفرغ، ومكبس شفط مطّاطيّ كبير يشدّ عليه بقوّة، على مقبضه وشم صغير: وحيد القرن وصفّارتان.
+«نشدّ بمكبس أقوى! أو نصبّ دلو ماء في الخزّان!» قال أوسوب.
+لكنّ تشوبر صرف الدلو، ولوّح بالمكبس الأقوى بعيدًا؛ فالشّفط قويّ أصلًا، والماء لا يجد الطريق.
+فنزل فرانكي إلى أنبوب التصريف الصاعد من تحت الفندق.
+فإذا المدفع الثاني فيه قد انحشر رأسه في فرع جانبيّ صغير.
+فسحبه فرانكي قليلًا وأماله زاويةً جديدة، فتحرّر رأسه، واندفع الماء الأزرق إلى خزّان الشاحنة من جديد.
+«الماء موجود، كان يحتاج بابًا مفتوحًا فقط!» قال فرانكي.
+ثمّ نفض يديه وقال حلمه القديم:
+quote: «سأبني سفينة أحلامي، وأراها تبلغ آخر البحر!»
+source: فرانكي
+explanation:
+With bicaval cannulation, a distended right atrium and an empty venous reservoir despite vacuum assistance at 100 mmHg mean a mechanical obstruction to drainage, most often a malpositioned cannula: adjust the IVC cannula.
+An IVC cannula pushed into a hepatic vein, against the wall or kinked drains poorly however much suction is applied.
+More vacuum risks haemolysis and air entrainment, and less vacuum or added volume does not clear the obstruction.
+In the picture, the cannon's tip is stuck in a side branch of the drainpipe, and Franky slides it back to a new angle so the water rushes in.
+Memory hook: a full blue lobby and an empty tank: free the drainpipe cannon.
 
 == 67
 # Q: mitral and tricuspid repair, bicaval cannulation with snares; low flow, distended right heart; a persistent left SVC with no innominate vein: next? A: cannulate the left SVC
@@ -122,6 +239,26 @@ keywords: persistent left superior vena cava -> a second chimney on the left sid
 anchor: the best next step -> Franky pushing a third small brass cannon into the second chimney on the left of the hotel, so its trapped blue water drains into the roller-pump truck
 scene: A soot-grey rooftop on Water 7. The cut-open HART Hotel: ropes are snared tight round its chimney and its drainpipe; a mitre is being repaired and a three-pronged trident mended. A sink with a little green crown in the floor of the blue lobby overflows. A roller-pump truck gives only a weak trickle from its hose. On the left side of the hotel stands a second chimney with no walkway joining it to the first, a broken bridge between them. In the centre, in the strongest light: Franky pushes a third small brass cannon into the second chimney, and its trapped blue water drains into the truck. Chopper waves away a clothes peg pinching the second chimney, and Usopp waves away a drinking straw.
 must: the second chimney on the LEFT gets the new cannon; no letters or digits are written anywhere
+story:
+على سطح رماديّ بلون السخام في ووتر سيفن، كان فرانكي يصلح تاج الأسقفّ، ويرمّم الرمح الثلاثيّ.
+وقد شدّت الحبال حول مدخنة الفندق وأنبوب تصريفه بإحكام.
+لكنّ شاحنة المضخّة لم تعط إلّا قطرًا ضعيفًا من خرطومها، والمغسلة ذات التاج الأخضر في أرض الردهة الزرقاء تفيض وتفيض.
+فنظر تشوبر، فإذا على يسار الفندق مدخنة ثانية، لا ممرّ يصلها بالأولى، فالجسر بينهما مكسور.
+«نقرص المدخنة الثانية بملقط غسيل، أو نمصّ الماء بماصّة من الردهة!» قال أوسوب.
+لكنّ تشوبر صرف ملقط الغسيل؛ فلا جسر يحمل ماء المدخنة الثانية إلى الأولى، ولو قرصت لاختنق ما فوقها.
+وصرف أوسوب نفسه الماصّة حين رأى الماء يتدفّق أسرع منها.
+فدفع فرانكي مدفعًا نحاسيًّا صغيرًا ثالثًا في المدخنة الثانية على اليسار، فانساب ماؤها المحتبس إلى الشاحنة.
+«لكلّ مدخنة مدفعها!» قال فرانكي.
+فكفّت المغسلة عن الفيضان، وقالت روبين مثلًا قديمًا:
+quote: «كلّ شاة برجلها معلّقة.»
+source: مثل عربيّ
+explanation:
+A persistent left superior vena cava with no innominate (bridging) vein must be cannulated when it floods the field and spoils drainage during bicaval bypass.
+A left SVC drains into the coronary sinus, so with the caval tapes snugged its blood pours into the opened right atrium, distends the heart and reduces flow to the pump.
+When a bridging innominate vein is present, the left SVC can be clamped because its blood can cross to the right; without one, clamping causes venous hypertension in the head and arm.
+A sucker in the right atrium cannot keep up with the flow, and giving up the tricuspid repair is unnecessary.
+In the picture, Franky pushes a third cannon into the second chimney on the left, which has no bridge to the first.
+Memory hook: a second chimney with no bridge gets its own cannon.
 
 == 68
 # Q: CABG; Seldinger aortic cannulation; on bypass TEE shows a dissection in the descending aorta; the cannulation site is normal and epiaortic echo shows no arch dissection: next? A: change to a short dispersion-type aortic cannula at the same site
@@ -140,6 +277,27 @@ keywords: dispersion cannula -> a short brass cannon with a shower-head nozzle s
 anchor: the best next step -> Franky swapping the long brass cannon in the orca's arch for a short brass cannon with a shower-head nozzle that sprays gently in all directions, in the same hole
 scene: A turquoise operating deck on the Thousand Sunny. The cut-open HART Hotel lies with cabbage leaves over the green crown's spikes, the giant orca balloon arching above it. A long brass cannon's hard jet blasts down the orca's back, and a short zipper opens on the far, descending part of the back where the jet hits; a bat inside the hotel sends sound rings down at the zipper, and a second bat sits right on top of the arch, which is smooth and whole. In the centre, in the strongest light: Franky pulls the long cannon out and, along a slender wire threaded through a needle into the same hole, ringed by pink unbruised skin, fits a short brass cannon with a shower-head nozzle that sprays gently in all directions. A thigh bone is set aside and a folded white fabric arch is kept on the shelf.
 must: the new short cannon goes in the SAME hole; no letters or digits are written anywhere
+story:
+على سطح عمليّات فيروزيّ في السفينة، رقد الفندق وعلى أشواك تاجه أوراق الملفوف، ومنطاد الحوت يتقوّس فوقه.
+كان في قوس الحوت مدفع نحاسيّ طويل، تندفع منه نفثة قويّة على طول ظهره.
+فأرسل الخفّاش الّذي في الفندق حلقاته إلى الأسفل، فرأى سحّابًا قصيرًا ينفتح في الجزء النازل من ظهر الحوت، حيث تضرب النفثة.
+وجلس خفّاش ثان فوق القوس مباشرةً، فوجد القوس أملس سليمًا.
+«ننقل المدفع إلى عظم الفخذ، ونبدّل القوس كلّه!» قال أوسوب.
+لكنّ تشوبر وضع عظم الفخذ جانبًا، وأبقى القوس الأبيض المطويّ على الرفّ؛ فالجلد حول الثقب ورديّ بلا كدمة، والقوس سليم.
+«ليس العيب في المكان؛ العيب في النفثة!» قال تشوبر.
+فسحب فرانكي المدفع الطويل، وأدخل في الثقب نفسه سلكًا رفيعًا عبر إبرة.
+ثمّ ركّب على السلك مدفعًا نحاسيًّا قصيرًا له فوّهة كرأس الدشّ، يرشّ الماء بلطف في كلّ اتّجاه.
+فسكن ظهر الحوت، وقالت روبين مثلًا قديمًا:
+quote: «كالمستجير من الرمضاء بالنّار.»
+source: مثل عربيّ
+explanation:
+A dissection of the descending aorta seen on TEE soon after a Seldinger aortic cannulation, with a normal-looking insertion site and an intact arch, is best explained by the cannula's jet.
+The book's answer is to change to a short dispersion-type cannula at the same site.
+An end-hole cannula aimed down the aorta sends a high-velocity jet against the wall, which can raise an intimal flap downstream.
+A short dispersion cannula spreads the flow sideways at low velocity, removing the jet while keeping antegrade flow into the true lumen.
+Switching to femoral cannulation would perfuse a dissected descending aorta retrogradely and could extend the false lumen, and an arch replacement is not needed when the arch is intact.
+In the picture, Franky swaps the long jetting cannon for a short one with a shower-head nozzle in the same hole.
+Memory hook: blame the jet, not the hole: put a shower head on the cannon.
 
 == 69
 # Q: mitral repair in a woman with cold agglutinin disease: cardioplegia and temperature? A: warm cardioplegia and systemic normothermia
@@ -157,6 +315,26 @@ keywords: warm cardioplegia -> a steaming copper kettle of warm water full of ba
 anchor: the right plan -> a steaming copper kettle of warm water full of bananas poured into the hotel under a warm sun, the red doughnuts in it floating freely apart
 scene: A sunny deck of the Thousand Sunny; a woman lies under a woollen blanket. The cut-open HART Hotel stands beside her: a sail billows up from the mitre on its door, and water gurgles back through it. In a cold corner red doughnuts clump together, and some lie smashed to crumbs on the floor; a chilled test tube shows the doughnuts clumping. A roller-pump truck stands with its hoses warmed. In the centre, in the strongest light: under a warm sun, Chopper pours a steaming copper kettle of warm water full of bananas into the hotel, and the red doughnuts in it float freely apart. Usopp waves away a frosted thermometer, and snowflakes are blown away.
 must: everything at the centre is warm: steam, sun, blanket; no letters or digits are written anywhere
+story:
+على سطح السفينة المشمس، استلقت امرأة تحت بطّانيّة من الصوف، وإلى جانبها الفندق.
+على بابه تاج أسقفّ ينتفخ منه شراع، والماء يقرقر راجعًا من تحته، وشاحنة المضخّة تنتظر وخراطيمها دافئة.
+وفي زاوية باردة تلتصق الكعكات الحمراء بعضها ببعض كتلًا، وبعضها محطّم فتاتًا على الأرض.
+وفي أنبوب اختبار مبرّد، تتكتّل الكعكات كلّما بردت.
+«نبرّد الفندق كلّه كالعادة، ونصبّ ماء الموز المثلّج!» قال أوسوب، ورفع ميزان حرارة مكسوًّا بالصّقيع.
+لكنّ أوسوب نفسه رمى الميزان المثلّج حين رأى الكعكات تتكتّل في الأنبوب، وطارت ندف الثلج بعيدًا.
+فأشرقت فوق الفندق شمس دافئة.
+وصبّ تشوبر فيه من إبريق نحاسيّ يتصاعد بخاره ماءً دافئًا مليئًا بالموز، فطفت الكعكات الحمراء فيه حرّةً متباعدة.
+«دفء من الداخل والخارج؛ فلا تلتصق كعكة بأختها!» قال تشوبر.
+فقالت روبين مثلًا قديمًا:
+quote: «قل لي من تصاحب، أقل لك من أنت.»
+source: مثل عربيّ
+explanation:
+In a patient with cold agglutinin disease, the safest plan for heart surgery is warm cardioplegia with systemic normothermia.
+Cold agglutinins are antibodies that clump red cells, and can destroy them, when the blood is cooled below their thermal range.
+Cold cardioplegia or systemic cooling can therefore cause agglutination in the coronary vessels, haemolysis and thrombosis; keeping the blood and the heart warm avoids triggering them.
+If cooling cannot be avoided, the antibody's thermal range is measured first, and plasmapheresis or a crystalloid flush of the coronaries may be used.
+In the picture, Chopper pours warm banana water from a steaming kettle under the sun, and the red doughnuts float apart instead of clumping.
+Memory hook: sticky doughnuts in the cold: keep everything warm.
 
 == 70
 # Q: 82-year-old woman, permanent AF for 15 years, NYHA IV, severe mitral stenosis (mean gradient 14), large left atrium; worried about stroke later: during mitral surgery she must also have? A: left atrial appendage ligation
@@ -175,3 +353,23 @@ keywords: left atrial appendage -> a floppy dog's ear on the yellow lobby, Frank
 anchor: what she must also undergo -> Franky tying the floppy dog's ear of the yellow lobby shut with a tight ribbon, a beaver trapped inside it, while the lightning from the storm cloud fades away
 scene: A yellow evening on Sky Island under a storm cloud breaking up on the horizon. An old woman, wringing her hands, stands on the top floor of an Empire State Building model. Beside her the cut-open HART Hotel: its yellow lobby swollen huge like a hot-air balloon, Pinocchio quivering inside it, an old clock on its wall that stopped long ago; a grey stone stuck in the mitre's narrow slit, a small tattoo on the stone of a white unicorn and a graduation cap. In the centre, in the strongest light: Franky ties the floppy dog's ear of the yellow lobby shut with a tight ribbon, a beaver trapped inside it, and the lightning bolt from the storm cloud fades away. A hedge maze and a shrinking tape are set aside.
 must: the dog's ear tied shut is the brightest, central thing; no letters or digits are written anywhere
+story:
+في مساء أصفر على جزيرة السماء، وقفت امرأة عجوز في الطابق الأعلى من نموذج مبنى إمباير ستيت، تفرك يديها قلقة، وعلى الأفق غيمة عاصفة سوداء.
+وبجانبها الفندق، ردهته الصفراء منتفخة ضخمة كمنطاد هواء ساخن، يرتجف فيها بينوكيو، وعلى جدارها ساعة قديمة توقّفت منذ زمن طويل.
+وفي شقّ تاج الأسقفّ الضيّق حجر رماديّ عالق، عليه وشم صغير: وحيد القرن والقبّعة.
+«أخاف البرق بعد أن تنتهوا من الحجر!» قالت العجوز.
+«نزرع متاهة السياج في الردهتين، ونلفّ الردهة الصفراء بشريط يصغّرها!» قال أوسوب.
+لكنّ المتاهة والشّريط وضعا جانبًا؛ فالسّاعة توقّفت منذ زمن أطول من أن تعيدها متاهة.
+وفي أذن كلب رخوة على جانب الردهة الصفراء، كان قندس يختبئ ويتأهّب للخروج.
+فربط فرانكي أذن الكلب بشريط مشدود حتّى أغلقها، وبقي القندس محبوسًا فيها.
+«أغلقت الأذن، فلا يخرج القندس إلى البرق!» قال تشوبر.
+فخبا البرق النازل من الغيمة، وتفرّقت الغيمة، وقالت روبين مثلًا قديمًا:
+quote: «قبل الرماء تملأ الكنائن.»
+source: مثل عربيّ
+explanation:
+During mitral surgery in a patient with long-standing permanent atrial fibrillation who worries about stroke, the left atrial appendage should be closed, here by ligation.
+Most thrombi in atrial fibrillation form in the left atrial appendage, and closing it during cardiac surgery lowers the risk of stroke (LAAOS III).
+After 15 years of permanent atrial fibrillation in a giant left atrium, a Maze procedure, left-sided or biatrial, is unlikely to restore sinus rhythm in an 82-year-old and adds time and risk.
+Atrial reduction does not by itself prevent stroke.
+In the picture, Franky ties the dog's ear shut with the beaver inside, and the lightning fades.
+Memory hook: tie the dog's ear and the beaver stays home.

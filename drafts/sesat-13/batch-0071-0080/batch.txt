@@ -1,5 +1,4 @@
 book: sesat-13
-
 == 71
 # Q: CABG plus Cox-Maze IV for chronic AF; what most affects the need for a permanent pacemaker? A: a biatrial Maze rather than a left-atrial-only Maze
 # the hedge maze grown over BOTH lobbies, its hedges brushing the orchestra conductor in the blue lobby, so a drummer is called in; the maze over the yellow lobby only needs no drummer = biatrial lesion set raises pacemaker need -> ANSWER
@@ -15,6 +14,27 @@ keywords: maze -> a green hedge maze grown over the hotel's lobbies; biatrial ->
 anchor: what most affects the need for a pacemaker -> a green hedge maze spreading over BOTH the yellow and the blue lobbies, its hedges brushing the orchestra conductor's baton, and a drummer marching in to keep the beat, while a small maze over the yellow lobby alone needs no drummer
 scene: A garden of hedges on Sky Island, split in two halves. A man raises his hand to ask. On the right half, the cut-open HART Hotel with cabbage leaves on the green crown: Pinocchio quivers in its lobbies, and, cut by a gardener's shears, a green hedge maze spreads over BOTH the yellow and the blue lobbies; at the top of the blue lobby the hedges brush the baton of an orchestra conductor, and in the strongest light a drummer marches in to keep the beat, holding a contract signed with a seal. On the left half, a second hotel has a small hedge maze over its yellow lobby alone, its conductor untouched, no drummer. On small stools in front: a cabbage, a measuring tape and an old calendar.
 must: the biatrial maze with the drummer is the brightest, central thing; no letters or digits are written anywhere
+story:
+في حديقة أسيجة على جزيرة السماء، مقسومة نصفين، رفع رجل يده يسأل.
+«هل سيأتيني طبّال يسكن عندي بعد العمليّة؟» سأل الرجل.
+في فندقه بينوكيو يرتجف في الردهات، وعلى تاجه أوراق ملفوف.
+«هذا يتوقّف على الملفوف، أو على حجم الردهة، أو على عمر التقويم القديم!» قال أوسوب، وأشار إلى ثلاثة مقاعد صغيرة عليها ملفوفة وشريط قياس وتقويم قديم.
+لكنّ تشوبر أشار إلى نصفي الحديقة.
+في النصف الأيسر، متاهة سياج صغيرة فوق الردهة الصفراء وحدها، وقائد الأوركسترا في أعلى الردهة الزرقاء لا يمسّه أحد، ولا طبّال.
+وفي النصف الأيمن، قصّ مقصّ البستانيّ خطوط السياج، فامتدّت المتاهة فوق الردهتين الصفراء والزّرقاء معًا.
+فلامست الأسيجة عصا قائد الأوركسترا، فتعثّر إيقاعه.
+فدخل طبّال يمشي بخطًى عسكريّة ليحفظ الإيقاع، وفي يده عقد مختوم.
+«المتاهة في الردهتين تستدعي الطبّال أكثر!» قال تشوبر.
+فقالت روبين مثلًا قديمًا:
+quote: «ما كلّ مرّة تسلم الجرّة.»
+source: مثل عربيّ
+explanation:
+After a Cox-Maze IV, what most affects the need for a permanent pacemaker is doing the biatrial lesion set rather than a left-atrial-only set.
+The right atrial lesions run close to the sinus node and its artery, so they cause more sinus node dysfunction, the usual reason for a pacemaker after a Maze.
+Left atrial size, the duration of atrial fibrillation and adding CABG affect whether sinus rhythm returns more than whether a pacemaker is needed.
+A biatrial Maze restores sinus rhythm somewhat more often, so the choice weighs rhythm control against pacing.
+In the picture, the maze over both lobbies brushes the conductor's baton and the drummer marches in, while the left-only maze needs no drummer.
+Memory hook: hedges in both lobbies bring the drummer.
 
 == 72
 # Q: elective CABG in a few weeks, drug-eluting stent 2 years ago, on aspirin 325 and clopidogrel: advice? A: stop clopidogrel 5 days before and lower aspirin to 81 mg
@@ -32,6 +52,27 @@ keywords: clopidogrel -> a pair of wooden clogs taken off and set by the door; n
 anchor: the advice -> the man taking off his wooden clogs and setting them by the door under a small painting of a blue hamsa hand, while his big green asp curls down into a little asp that stays on, a violin and a white unicorn tattooed on it
 scene: A cosy wooden house on Water 7. An appointment card is pinned on the wall, and a cabbage waits on a table beyond. An old man climbs the stairs with a heavy stone angel on his chest; behind him the cut-open HART Hotel, an old shiny Slinky glistening with a drug coating inside the slide of the lad on the green crown. A red tap drips. In the centre, in the strongest light: the man takes off his wooden clogs and sets them by the door under a small painting of a blue hamsa hand, while the big green asp round his arm shrinks and curls down into a little asp that stays on, a small tattoo on it of a violin and a white unicorn. Chopper waves away an empty shelf.
 must: the clogs come OFF, the asp stays (smaller); no letters or digits are written anywhere
+story:
+في بيت خشبيّ دافئ في ووتر سيفن، علّقت على الجدار بطاقة موعد، وعلى طاولة بعيدة ملفوفة تنتظر.
+وصعد رجل عجوز الدرج وعلى صدره ملاك حجريّ ثقيل، وفي فندقه، داخل مزلقة الفتى، نابض معدنيّ قديم لامع يبرق بطلاء من الدواء.
+وفي قدميه قبقاب خشبيّ، وحول ذراعه أفعى خضراء كبيرة، وصنبور أحمر يقطر في الزاوية.
+«انزع القبقاب والأفعى كليهما، وأفرغ الرفّ!» قال أوسوب.
+لكنّ تشوبر صرف الرفّ الفارغ؛ فالنّابض في المزلقة لا يترك بلا حارس.
+فخلع الرجل قبقابه الخشبيّ ووضعه عند الباب، تحت رسم صغير للخمسة الزرقاء.
+وانكمشت الأفعى الخضراء الكبيرة حول ذراعه، حتّى صارت أفعًى صغيرة، لكنّها بقيت في مكانها.
+وعلى الأفعى الصغيرة وشم صغير: الكمان ووحيد القرن.
+«القبقاب يخرج، والأفعى تصغر وتبقى!» قال تشوبر.
+فقلّ قطر الصنبور الأحمر، وقالت روبين مثلًا قديمًا:
+quote: «لكلّ مقام مقال.»
+source: مثل عربيّ
+explanation:
+Before elective CABG in a patient on aspirin and clopidogrel, stop clopidogrel 5 days before surgery and continue aspirin at the low dose of 81 mg.
+Clopidogrel within 5 days of surgery clearly increases bleeding, transfusion and re-exploration.
+Aspirin is continued because it lowers perioperative ischaemic events and protects the stent and the new grafts, and a low dose bleeds less than 325 mg.
+His drug-eluting stent was placed 2 years ago, well past the period when stopping clopidogrel risks stent thrombosis.
+Stopping both drugs exposes him to ischaemia, and 3 days off clopidogrel is not long enough.
+In the picture, the man leaves his clogs by the door under the hamsa painting, and the big asp shrinks to a small asp that stays on.
+Memory hook: clogs off five days before; the asp stays, small.
 
 == 73
 # Q: urgent on-pump CABG x4 (LIMA plus three veins) after NSTEMI; chest tubes drain 70 mL per hour for two hours: antiplatelet plan? A: aspirin within 6 hours of arrival in ICU
@@ -49,6 +90,26 @@ keywords: aspirin -> a little green asp Chopper hands to the man; number 6 (hour
 anchor: the best antiplatelet strategy -> Chopper handing a little green asp to the man as his gurney rolls through the swinging doors, a golden hourglass beside him with a small painting of the Sitt in a golden gown
 scene: A night-blue ICU on the Thousand Sunny, a siren light spinning. A gurney rolls through the swinging doors with an old man on it; a green garden hose runs from his chest with only a gentle trickle in its water seal, a small tattoo on it of a little swimmer and a golden whistle. Behind him the cut-open HART Hotel, a stag with an arrow at its door, a living green lima bean vine running to the lad's slide and three strands of blue sapphires running to the crown's other spikes, all flowing clear. In the centre, in the strongest light: Chopper hands the man a little green asp, a golden hourglass beside the bed with its sand running and a small painting on it of the Sitt in a golden gown. Usopp waves away wooden clogs and a snail.
 must: the asp handed over and the hourglass are the brightest, central thing; no letters or digits are written anywhere
+story:
+في عناية زرقاء ليليّة على السفينة، يدور فيها ضوء صفّارة الإنذار، دخل سرير متحرّك من البابين المتأرجحين، عليه رجل عجوز.
+كان عند باب فندقه أيّل صرعه سهم؛ فجاؤوا به مسرعين، ومدّوا كرمة ليما حيّةً إلى مزلقة الفتى، وثلاث سلاسل من الياقوت الأزرق إلى أشواك التاج الأخرى.
+ومن صدره خرطوم حديقة أخضر، ليس في ماء ختمه إلّا قطر هادئ، وعليه وشم صغير: السبّاح والصّفّارة.
+«ننتظر يومًا كاملًا، فليزحف الحلزون! أو نلبسه القبقاب الآن!» قال أوسوب.
+لكنّ تشوبر صرف القبقاب والحلزون كليهما؛ فالخرطوم يقطر قليلًا، والسّلاسل الجديدة تخاف أن تسكن.
+ووضع بجانب السرير ساعةً رمليّةً ذهبيّةً يجري رملها، عليها رسم صغير للسّتّ في ثوبها الذهبيّ.
+ثمّ ناول الرجل أفعًى خضراء صغيرة، قبل أن يفرغ الرمل.
+«قبل أن تفرغ الساعة!» قال تشوبر.
+فبقيت الكرمة والسّلاسل تجري صافية، وقالت روبين مثلًا قديمًا:
+quote: «خير البرّ عاجله.»
+source: مثل عربيّ
+explanation:
+After CABG, once chest tube drainage is acceptable, aspirin should be given within 6 hours of arrival in the ICU.
+Early aspirin improves vein graft patency and lowers death, infarction and stroke after CABG, without a meaningful rise in bleeding.
+A drainage of 70 mL per hour for two hours is modest and does not forbid it.
+Waiting 24 hours loses much of the benefit for the vein grafts.
+A second antiplatelet drug after an acute coronary syndrome is started once the bleeding risk settles, not as a clopidogrel load on arrival in the ICU.
+In the picture, Chopper hands the little asp to the man as his gurney rolls in, before the hourglass with the Sitt painting runs out.
+Memory hook: within six sand-hours, hand over the asp.
 
 == 74
 # Q: obese, diabetic woman transferred after a long stay elsewhere, for CABG and mitral replacement: best prophylactic antibiotics? A: a first-generation cephalosporin plus a glycopeptide
@@ -67,6 +128,26 @@ keywords: cephalosporin -> a chef in a tall white hat with a sharp knife, guardi
 anchor: the optimal regimen -> a chef in a tall white hat and a Van Gogh painter with a bandaged ear standing guard together at the white stern, crushing the golden grapes that try to climb on
 scene: A bright kitchen deck under a starry blue sky. An ambulance boat arrives; a hospital bed covered with cobwebs is carried off it. A heavy woman sits on a wide sofa sagging under her, a jar of white sugar cubes beside her; a cabbage and a new mitre wait on the table beyond. In the centre, in the strongest light: at the ship's white stern a chef in a tall white hat with a sharp knife and a Van Gogh painter with a bandaged ear and a starry-blue coat stand guard together, crushing bunches of golden grapes that try to climb on, while a pencil draws a protective circle round the stern. Chopper waves away a mean-looking gnome.
 must: the chef and the painter are TOGETHER, side by side; no letters or digits are written anywhere
+story:
+على سطح مطبخ مضيء تحت سماء زرقاء مرصّعة بالنّجوم، وصل قارب إسعاف، وأنزل منه سرير مستشفًى تكسوه خيوط العنكبوت.
+فقد أقامت صاحبته طويلًا في مستشفًى آخر، وجلست الآن على أريكة عريضة تترهّل تحتها، وبجانبها مرطبان سكّر أبيض.
+وعلى الطاولة ملفوفة وتاج أسقفّ جديد ينتظران العمليّة.
+«طبّاخ واحد يكفي لحراسة المؤخّرة!» قال أوسوب.
+لكنّ عناقيد العنب الذهبيّ جاءت تتسلّق المؤخّرة البيضاء، وبعضها جاء مع السرير العتيق قاسيًا عنيدًا.
+فرسم قلم دائرةً حاميةً حول المؤخّرة قبل الشقّ.
+ووقف عندها طبّاخ بقبّعة بيضاء عالية وسكّين حادّة، وإلى جانبه رسّام كفان غوخ، أذنه مربوطة، ومعطفه أزرق كليلة مرصّعة.
+فسحقا معًا كلّ عنقود حاول الصعود، وصرف تشوبر قزمًا شرّير الملامح جاء يريد أن ينضمّ إليهما.
+«الطبّاخ والرّسّام معًا، ولا ثالث لهما!» قال تشوبر.
+فقالت روبين مثلًا قديمًا:
+quote: «يد واحدة لا تصفّق.»
+source: مثل عربيّ
+explanation:
+For CABG and mitral valve replacement in an obese diabetic who has had a long stay in another hospital, the best prophylaxis is a first-generation cephalosporin plus a glycopeptide: cefazolin plus vancomycin.
+A long hospital stay raises the chance of colonisation with methicillin-resistant Staphylococcus aureus, which cefazolin does not cover.
+Vancomycin alone is weaker against methicillin-sensitive staphylococci and covers no Gram-negative organisms, so it is added to cefazolin rather than replacing it.
+An aminoglycoside is not needed routinely and adds kidney toxicity.
+In the picture, the chef and the Van Gogh painter guard the stern together, and the gnome is waved away.
+Memory hook: a long stay brings tough grapes: the chef and the painter together.
 
 == 75
 # Q: S. aureus mitral endocarditis, 1.5 cm vegetation, severe MR, annular abscess; ischaemic stroke on day 2 that fully resolves in 48 h: next? A: surgery if the repeat CT shows no cerebral haemorrhage
@@ -85,6 +166,27 @@ keywords: ct scan -> a ginger cat holding up a clean slice of a head-shaped loaf
 anchor: the best next step -> a ginger cat holding up a clean slice of a head-shaped loaf with no red ink blot, and Franky at once raising his saw towards the mitre covered in broccoli cards
 scene: A fever-orange night on a Grand Line island under a hot red-faced moon; a soaked pillow lies on a bed. A young woman stands up and walks again, a lightning bolt above her that struck and has faded. Beside her the cut-open HART Hotel: playing cards sprouting broccoli cling to the mitre on its door, a small tattoo on them of a white unicorn, a golden drop and a blue hamsa hand, bunches of golden grapes round them; water gurgles back through the mitre, and a bubbling cesspool lies under the mitre's brass collar. In the centre, in the strongest light: a ginger cat holds up a clean slice of a head-shaped loaf with no red ink blot, and Franky at once raises his saw towards the mitre. Chopper waves away a pencil and a long calendar.
 must: the cat's clean slice and Franky's raised saw are the brightest, central thing; no letters or digits are written anywhere
+story:
+في ليلة محمومة بلون البرتقال، تحت قمر أحمر الوجه ساخن، كانت وسادة مبتلّة بالعرق على سرير شابّة.
+وفي فندقها، تتشبّث بتاج الأسقفّ أوراق لعب ينبت منها البروكّلي، عليها وشم صغير: وحيد القرن والنّقطة والخمسة، وحولها عناقيد العنب الذهبيّ.
+والماء يقرقر راجعًا عند التاج، وتحت طوقه النحاسيّ بالوعة تفور.
+ثمّ ضربها برق فوق رأسها، لكنّه خبا، فقامت الشابّة ومشت من جديد.
+«نرسم بالقلم شهرين طويلين على التقويم، ثمّ نرى!» قال أوسوب.
+لكنّ تشوبر صرف القلم والتّقويم الطويل؛ فالبالوعة تحت الطوق لا يطفئها قلم.
+«نريد شيئًا واحدًا قبل المنشار: ألّا يكون في الرأس حبر أحمر!» قال تشوبر.
+فجاء القطّ الزنجبيليّ يرفع شريحةً نظيفةً من رغيف على شكل رأس، ليس فيها بقعة حبر حمراء واحدة.
+فرفع فرانكي منشاره في الحال نحو تاج الأسقفّ.
+فقالت روبين مثلًا قديمًا:
+quote: «اضرب الحديد وهو حام.»
+source: مثل عربيّ
+explanation:
+Staphylococcus aureus mitral endocarditis with a 1.5 cm vegetation, severe regurgitation and an annular abscess needs early surgery.
+After a small ischaemic stroke that has fully resolved, the best step is to operate as soon as a repeat CT shows no cerebral haemorrhage.
+An abscess will not heal with antibiotics alone, and the large mobile vegetation threatens further emboli.
+Heparin on bypass can turn a haemorrhagic stroke into a disaster, so bleeding must be excluded; a small ischaemic stroke without haemorrhage is no reason to delay.
+Six or eight weeks of antibiotics first, or waiting two weeks, risks new emboli and heart failure.
+In the picture, the cat holds up a clean slice of the head-shaped loaf, and Franky at once raises his saw towards the mitre.
+Memory hook: no red ink in the head: saw the mitre now.
 
 == 76
 # Q: IV drug user, 1.8 cm mobile tricuspid vegetation, moderate TR, S. aureus: next? A: antimicrobial therapy for 4-6 weeks
@@ -103,6 +205,26 @@ keywords: antimicrobial therapy -> Chopper's pencil drawing ring after ring roun
 anchor: the best next step -> Chopper's pencil drawing ring after ring round the broccoli cards flapping on the trident's prongs, while calendar pages turn from a painted graduation cap to a painted Sitt in a golden gown, Franky's saw hung up on the wall
 scene: A pale green ward on a quiet island. A used syringe lies on the floor and a soaked pillow on the bed. Beside it the cut-open HART Hotel: a three-pronged trident stands in the blue doorway, playing cards sprouting broccoli flapping in the wind on its prongs, a small tattoo on them of a white unicorn, a golden drop and a violin, bunches of golden grapes round them, a little water gurgling back. In the centre, in the strongest light: Chopper's pencil draws ring after ring round the cards, while calendar pages on the wall turn from a small painting of a graduation cap to a small painting of the Sitt in a golden gown. Franky's saw hangs up on the wall, and Usopp waves away a short stub of pencil.
 must: the pencil rings and the turning calendar are the brightest, central thing; the saw stays on the wall; no letters or digits are written anywhere
+story:
+في جناح أخضر شاحب على جزيرة هادئة، رميت على الأرض محقنة مستعملة، وعلى السرير وسادة مبتلّة بالعرق.
+وفي باب الردهة الزرقاء من الفندق، رمح ثلاثيّ تخفق على شعبه أوراق لعب ينبت منها البروكّلي، كالرّايات في الريح.
+عليها وشم صغير: وحيد القرن والنّقطة والكمان، وحولها عناقيد العنب الذهبيّ، وقليل من الماء يقرقر راجعًا.
+«أنزل المنشار عن الحائط، وأقطع الأوراق والرّمح!» صاح فرانكي.
+لكنّ تشوبر أبقى المنشار معلّقًا على الحائط؛ فالأوراق أصغر من أن تستحقّه، والرّمح ما زال يعمل.
+«إذن عقب قلم صغير لأسبوعين يكفي!» قال أوسوب.
+فصرف تشوبر العقب القصير، وأخذ قلمه الطويل.
+فرسم حول الأوراق دائرةً بعد دائرة، وأوراق التقويم على الحائط تنقلب من رسم صغير للقبّعة إلى رسم صغير للسّتّ في ثوبها الذهبيّ.
+«دائرة كلّ يوم، حتّى تنقلب الصفحة الأخيرة!» قال تشوبر.
+فقالت روبين بيتًا للقطاميّ:
+quote: «قد يدرك المتأنّي بعض حاجته، وقد يكون مع المستعجل الزلل.»
+source: القطامي
+explanation:
+Right-sided endocarditis in an intravenous drug user, with a 1.8 cm tricuspid vegetation, moderate regurgitation and Staphylococcus aureus, is treated with intravenous antibiotics for 4 to 6 weeks.
+Most tricuspid endocarditis is cured by antibiotics; surgery is for failure of medical therapy, right heart failure from severe regurgitation, vegetations over 2 cm with recurrent emboli, or resistant organisms.
+A 2-week course suits only selected uncomplicated cases with sensitive organisms, and lifelong suppression is not a treatment for active endocarditis.
+Valve operations in active drug users carry a high risk of reinfection.
+In the picture, Chopper's pencil rings the flapping cards day after day while the calendar turns from the cap to the Sitt, and the saw stays on the wall.
+Memory hook: under two centimetres on the trident: four to six weeks of pencil.
 
 == 77
 # Q: sternal wound infection two weeks after CABG: best prevention? A: intranasal mupirocin and skin decontamination with antimicrobial soap
@@ -120,6 +242,26 @@ keywords: mupirocin -> a little mop scrubbing inside a big nose; nasal carriage 
 anchor: the best prevention -> a little mop scrubbing inside a big nose to wash out hidden golden grapes, and a bar of lavender soap lathering the white stern spotless, before the green mould can spread
 scene: A white bathroom on the Thousand Sunny. On one side, a cabbage on the shelf, and the ship's white stern with its long seam: at its lower end green mould spreads, a red rim round an open part and a drip of cloudy water. In the centre, in the strongest light: a little mop scrubs inside a big nose, washing hidden golden grapes out and away, and a bar of lavender soap lathers the skin of the stern spotless. Chopper waves away a mean-looking gnome, and pencils left stuck in the hoses are waved away.
 must: the mop in the nose and the soap are the brightest, central thing; no letters or digits are written anywhere
+story:
+في حمّام أبيض على السفينة، وضعت ملفوفة على الرفّ؛ فقد مضى أسبوعان على عمليّة صاحبتها.
+وعلى مؤخّرة السفينة البيضاء درزة طويلة، في طرفها السفليّ عفن أخضر ينتشر، وحول جزء مفتوح منها حافّة حمراء، تقطر منه قطرات ماء عكر.
+«لو جئنا بالقزم الشرّير، وتركنا الأقلام في الخراطيم أيّامًا، لما نبت العفن!» قال أوسوب.
+لكنّ تشوبر صرف القزم، وصرف الأقلام المغروزة في الخراطيم.
+«العفن جاء من عناقيد كانت مختبئةً قبل العمليّة!» قال تشوبر.
+فأدخل ممسحةً صغيرةً في أنف كبير، ففركته من الداخل، وغسلت منه عناقيد عنب ذهبيّ كانت مختبئةً فيه.
+ثمّ أخذ قطعة صابون الخزامى، فرغّاها على جلد المؤخّرة، حتّى صار نظيفًا بلا بقعة.
+فلم يجد العفن الأخضر مكانًا ينتشر فيه.
+«الممسحة في الأنف، والصّابون على الجلد، قبل أن يفتح شيء!» قال تشوبر.
+فقالت روبين مثلًا قديمًا:
+quote: «درهم وقاية خير من قنطار علاج.»
+source: مثل عربيّ
+explanation:
+A sternal wound infection after CABG is best prevented by decolonising Staphylococcus aureus before surgery: intranasal mupirocin and skin decontamination with an antiseptic soap such as chlorhexidine.
+Most deep sternal infections come from the patient's own staphylococci, often carried in the nose.
+Prophylactic antibiotics should stop within 48 hours; keeping them while the drains are in place breeds resistance without reducing infection.
+Vancomycin in place of cefazolin, or an added aminoglycoside, is not the best preventive measure for most patients.
+In the picture, the mop scrubs the hidden golden grapes out of the nose and the lavender soap lathers the stern spotless.
+Memory hook: a mop in the nose and soap on the skin keep the mould away.
 
 == 78
 # Q: non-ischaemic cardiomyopathy, EF 25%, LBBB with QRS 165, failed transvenous CRT, two epicardial leads placed last year (figure), still symptomatic: next? A: another, more lateral epicardial lead
@@ -139,6 +281,27 @@ keywords: cardiac resynchronization therapy -> two drummers on either side of th
 anchor: the best next step -> Franky nailing a new drumstick onto the far side wall of the red engine room, so the two drummers on either side of the hotel finally beat together
 scene: A red concert hall on Water 7. A woman still pants in the front row. On the stage the cut-open HART Hotel, its engine rooms sagging like an over-pulled accordion; inside it a bundle of branches has its left branches broken off; at the red room's door a nightclub bouncer, a small tattoo on his arm of a green dragon and a blue hamsa hand, throws out few guests. A sink with a little green crown in the blue lobby floor has a broken wire stuck in it. An old drumstick is nailed too far forward on the red room's wall. In the centre, in the strongest light: Franky nails a new drumstick onto the far side wall of the red engine room, and the two drummers on either side of the hotel finally beat together. Chopper waves away a louder loudspeaker, and a flowerpot is set aside.
 must: the new drumstick is on the FAR SIDE wall of the red room; no letters or digits are written anywhere
+story:
+في قاعة حفلات حمراء في ووتر سيفن، جلست امرأة في الصفّ الأوّل ما زالت تلهث.
+وعلى الخشبة الفندق، غرفه مترهّلة كأكورديون مشدود، وفي داخله حزمة أغصان انكسرت أغصانها اليسرى.
+وعند باب الغرفة الحمراء حارس ملهًى لا يطرد إلّا قليلًا، على ذراعه وشم صغير: التنّين والخمسة.
+وعلى جانبي الفندق طبّالان لا يتّفقان؛ فقد علق سلك مكسور في المغسلة ذات التاج الأخضر، ودقّت عصًا قديمة على جدار الغرفة الحمراء في مكان أماميّ أكثر ممّا ينبغي.
+«نعلّي صوت المكبّر!» قال أوسوب، ورفع مكبّر صوت أعلى.
+لكنّ تشوبر صرفه، ووضع أصيص الزرع جانبًا؛ فالصّوت لا يصلح عصًا في غير مكانها.
+فصعد فرانكي إلى الجدار الجانبيّ البعيد للغرفة الحمراء، ودقّ عليه عصا طبل جديدةً بالمسامير.
+فأخذ الطبّالان على جانبي الفندق يضربان معًا أخيرًا.
+«الجدار البعيد هو مكان العصا!» قال فرانكي.
+فصفّقت القاعة، وعزف بروك وغنّى:
+quote: «يو هو هو هو، يو هو هو هو... سنحمل شراب بينكس!»
+source: بروك
+explanation:
+When resynchronisation fails because the left ventricular epicardial lead sits too far forward, the best next step is another epicardial lead placed more laterally, over the latest-activated wall.
+In left bundle branch block the lateral and posterolateral wall contracts last, and a lead on the anterior wall cannot correct the dyssynchrony.
+She meets the criteria for CRT, an ejection fraction of 25% and left bundle branch block with a QRS of 165 ms, so a correctly placed lead is likely to help.
+Raising the output of a badly placed lead does not move the point of stimulation, and switching to the other existing lead does not reach the lateral wall either.
+Referral for transplant comes only after CRT and medical therapy have failed.
+In the picture, Franky nails a new drumstick on the far side wall of the red room, and the two drummers finally beat together.
+Memory hook: the drummers agree only when the stick is on the far wall.
 
 == 79
 # Q: after double valve replacement, paced DOO at 80 with no underlying rhythm; that night pacer spikes but no pressure (PEA): next? A: external compressions and turn the pacer off to see the underlying rhythm
@@ -157,6 +320,25 @@ keywords: cpr -> a police officer pressing down with straight, locked arms on th
 anchor: the best next step -> a police officer pressing down with straight, locked arms on the front of the hotel while Chopper lays his hoof on the drummer's drum to silence it and peers underneath for the hidden heartbeat
 scene: A night ICU on the Thousand Sunny, red emergency light flashing. The cut-open HART Hotel lies still: two tissue boxes are fitted in its doorways and a string of scarlet beads hangs on the old door frames; a pair of wrinkled red kidney beans lies by it. A drummer still beats his drum beside it, a small tattoo on his arm of a violin and a golden whistle, but the rooms do not move; a green pea rolls across the floor giving off sparks, and a pressure gauge has its needle sunk in the low blue zone. In the centre, in the strongest light: a police officer presses down with straight, locked arms on the front of the hotel, while Chopper lays his hoof on the drum to silence it and peers underneath, a stethoscope feeling for a hidden heartbeat. Usopp waves away a bandolier of brass ammo and a three-drum kit; the ship's stern is left closed.
 must: the policeman and Chopper silencing the drum are the brightest, central thing; no letters or digits are written anywhere
+story:
+في ليلة في عناية السفينة، يومض فيها ضوء الطوارئ الأحمر، رقد الفندق ساكنًا، في بابيه علبتا مناديل جديدتان، وعلى إطارات أبوابه القديمة عقد من الخرز القرمزيّ.
+وبجانبه حبّتا فاصوليا حمراوان متجعّدتان، وطبّال ما زال يضرب طبله، على ذراعه وشم صغير: الكمان والصّفّارة.
+لكنّ الغرف لا تتحرّك، وحبّة بازلّاء خضراء تتدحرج على الأرض يتطاير منها الشرر، وإبرة المقياس غارقة في الأزرق.
+«حزام الذخيرة النحاسيّة! أو طقم الطبول الثلاثة!» قال أوسوب.
+لكنّ أوسوب نفسه لوّح بهما بعيدًا حين رأى الطبل يدقّ والغرف ساكنة، وبقيت مؤخّرة السفينة مغلقة.
+فضغط شرطيّ بذراعين ممدودتين مقفلتين على واجهة الفندق.
+ووضع تشوبر حافره على طبل الطبّال فأسكته، وأطلّ تحته بسمّاعته يتحسّس نبضًا خفيًّا.
+«الطبل يغطّي على الحقيقة؛ أسكتوه لنسمع ما تحته!» قال تشوبر.
+والشّرطيّ ما زال يضغط، فقالت روبين مثلًا قديمًا:
+quote: «أسمع جعجعةً ولا أرى طحنًا.»
+source: مثل عربيّ
+explanation:
+When a patient paced in DOO mode after valve surgery has pacer spikes on the monitor but no pressure, start chest compressions and turn the pacemaker off to see the underlying rhythm.
+Asynchronous pacing fires whatever the heart is doing, so the spikes can hide ventricular fibrillation, which needs defibrillation, or show that the pacing is not capturing.
+Pulseless electrical activity after cardiac surgery also calls for a search for tamponade, bleeding and hypovolaemia, and resternotomy may follow.
+Amiodarone and a change of pacing mode do not answer the first question, and opening the chest is not the very first step.
+In the picture, the police officer compresses while Chopper silences the drum and listens beneath it.
+Memory hook: a drum beating over a still hotel: silence it and listen.
 
 == 80
 # Q: pacemaker at 16 for heart block; at generator change the ventricular lead is found in the left ventricle: best strategy? A: remove the LV lead surgically under direct vision and place an RV lead
@@ -174,3 +356,24 @@ keywords: pacemaker -> a drummer whose long drum wire runs into the hotel; mispl
 anchor: the best strategy -> Franky opening the red engine room and pulling the drummer's stray wire out by hand under a bright lantern, a beaver gnawing on it, while a new wire is laid into the blue engine room
 scene: A grey castle courtyard on a Grand Line island, lightning flickering in the clouds above. A young woman stands at the door holding a new battery for her drummer. The cut-open HART Hotel has a castle drawbridge raised between its lobbies and its engine rooms; a drummer's long drum wire runs into it and crosses wrongly into the red engine room, where a beaver gnaws on it. In the centre, in the strongest light: Franky opens the red engine room's wall and pulls the stray wire out by hand under a bright lantern, while a new wire is laid into the blue engine room. Chopper waves away a long hook pulled down through the chimney, and Usopp waves away a rat and an asp.
 must: the stray wire is pulled out from the RED room, the new one goes to the BLUE room; no letters or digits are written anywhere
+story:
+في فناء قلعة رماديّ على جزيرة من الخطّ العظيم، والبرق يلمع في الغيوم، وقفت شابّة عند الباب تحمل بطّاريّةً جديدةً لطبّالها.
+منذ صغرها ارتفع في فندقها جسر متحرّك بين الردهات وغرف المحرّك، فجاء طبّال يمدّ إلى الفندق سلك طبله الطويل.
+لكنّ السلك عبر خطأً إلى الغرفة الحمراء، وهناك قندس يقضمه ويبني عليه.
+«نترك السلك مكانه، ويحرسه الجرذ والأفعى!» قال أوسوب.
+لكنّ أوسوب نفسه صرف الجرذ والأفعى حين لمع البرق فوق الفناء؛ فما يبنيه القندس في الغرفة الحمراء يطير إلى الرأس.
+«إذن نسحبه بخطّاف طويل من المدخنة!» صاح فرانكي.
+لكنّ تشوبر صرف الخطّاف؛ فلو سحب السلك عمًى، لتناثر ما عليه من بناء القندس إلى البرق.
+ففتح فرانكي جدار الغرفة الحمراء، وسحب السلك الضالّ بيده تحت فانوس ساطع، وعيناه عليه.
+ثمّ مدّ سلك جديد إلى الغرفة الزرقاء بجوار مروحتها الكبيرة.
+فخبا البرق في الغيوم، وقالت روبين مثلًا قديمًا:
+quote: «ما هكذا تورد يا سعد الإبل.»
+source: مثل عربيّ
+explanation:
+A pacing lead found in the left ventricle should be removed surgically under direct vision, and a new lead placed in the right ventricle.
+A lead in the left heart carries a high risk of thrombus and systemic embolism, including stroke.
+After nine years the lead is encased in fibrous tissue and thrombus, and pulling it out through the veins risks tearing tissue and sending clot to the brain.
+Under direct vision, the lead and any clot on it can be removed completely.
+Leaving it in place, even with warfarin and aspirin, keeps the embolic risk for life in a 25-year-old.
+In the picture, Franky opens the red room and pulls the stray wire out by hand under a bright lantern, and a new wire goes to the blue room.
+Memory hook: a wire in the red room comes out by hand, in the light.
