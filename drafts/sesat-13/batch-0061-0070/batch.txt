@@ -1,0 +1,177 @@
+book: sesat-13
+
+== 61
+# Q: advanced chronic heart failure, 10 kg overloaded, BP 85, rales, JVD, oedema, creatinine 1.4 -> 2.4, anaemia; cardiac index 1.9, wedge 32: next? A: start inotropic support
+# the doberman harnessed to the hotel pulling the engine rooms into strong beats and the windmill turning beside it, the water meter needle rising = inotropes for low output, cold and wet -> ANSWER
+# the water meter with a unicorn, golden drop and monkey tattoo = cardiac index 1.9
+# the door wedge jammed under the yellow lobby with soggy bills behind it = wedge 32, wet lungs
+# the blue gauge = hypotension
+# the wrinkling kidney beans = worsening creatinine (low output)
+# Vader, the coffee filter and the photographer waved away = no emergent LVAD, haemofiltration or angiography first
+title: Low output, cold and wet: start inotropes first
+titleAr: نتاج منخفض مع برودة واحتقان: ابدأ بمقوّيات القلب أوّلاً
+tags: cardiac/heart-failure d:postoperative q:next-step l:2
+palette: cold fog grey with doberman black and windmill white
+words:
+keywords: dobutamine -> a strong black doberman harnessed to the hotel, pulling its engine rooms into strong beats; milrinone -> a white windmill turning briskly beside the hotel, its sails pumping; cardiac index -> a round water meter on the hotel's outflow pipe, its needle low and starting to rise; number 1.9 (cardiac index) -> a small tattoo on the water meter's rim: a white unicorn, a golden drop and a little brown monkey; hypotension -> a pressure gauge with its needle sunk in the low blue zone; wedge pressure -> a door wedge jammed under the yellow lobby's door, water piling up behind it; pulmonary edema -> soggy dollar bills dripping behind the yellow lobby; creatinine -> a pair of red kidney beans wrinkling dry; anemia -> pale pink doughnuts, few of them; jugular distension -> a swollen blue cord bulging on the man's neck; pitting edema -> the man's thumb leaving deep dents in his doughy ankles; cold extremities -> cold fog on the window; ventricular assist device (no) -> Darth Vader waved away; hemofiltration (no) -> a coffee filter set aside
+anchor: the most appropriate next step -> a strong black doberman harnessed to the hotel pulling its engine rooms into strong beats while a white windmill turns briskly beside it, and the water meter's needle starts to rise
+scene: A cold, foggy dawn in a ship's ward, cold fog on the window. A heavy man sits up, a swollen blue cord bulging on his neck, his thumb leaving deep dents in his doughy ankles; beside him a few pale pink doughnuts and a pair of red kidney beans wrinkling dry. Behind him the cut-open HART Hotel: a door wedge is jammed under the yellow lobby's door and soggy dollar bills drip behind it; a pressure gauge has its needle sunk in the low blue zone. In the centre, in the strongest light: a strong black doberman harnessed to the hotel pulls its engine rooms into strong beats while a white windmill turns briskly beside it, its sails pumping, and a round water meter on the outflow pipe, a small tattoo on its rim of a white unicorn, a golden drop and a little brown monkey, has its needle starting to rise. Chopper waves away Darth Vader, and a coffee filter is set aside.
+must: the doberman and the windmill are the brightest, central figures; no letters or digits are written anywhere
+
+== 62
+# Q: a 72-year-old woman with a new 6 cm ascending aneurysm and a trileaflet aortic valve; her family ask about screening: recommendation? A: all first-degree relatives should have an echocardiogram
+# the bat flying along a row of her children and siblings, sending rings of sound at each one's chest = echo screening of first-degree relatives -> ANSWER
+# the bubble-gum bubble on the orca's rising neck with a painting of the Sitt = 6 cm ascending aneurysm
+# the family tree carved on the wall = familial aneurysm disease
+# the three-leaf clover on the orca's door = trileaflet valve
+# the cat and the marionette set aside = no CT for everyone, no Marfan gene test
+# the scattered confetti swept away = "sporadic" is not an excuse to skip
+title: Thoracic aortic aneurysm: screen the first-degree relatives with echo
+titleAr: أمّ الدم الصدرية: افحص أقارب الدرجة الأولى بالإيكو
+tags: cardiac/aorta d:diagnosis q:recall l:2 x:guideline
+palette: family-portrait sepia with bat black and bubble-gum pink
+words:
+keywords: echocardiography -> a bat flying along a row of people, sending rings of sound at each one's chest; first-degree relatives -> her children, brothers and sisters standing in a row; aneurysm -> a pink bubble-gum bubble swelling from the orca balloon's rising neck; aorta -> the giant orca balloon above the hotel; number 6 (aneurysm diameter, cm) -> a small painting on the bubble: the Sitt in a golden gown; ascending -> a staircase rising beside the orca's neck; family history -> a family tree carved on the wall behind them; trileaflet valve -> a three-leaf clover painted on the orca's door; grandmother -> the grey-haired woman sitting in front; ct scan (no) -> a ginger cat with its loaf set aside; marfan (no) -> a marionette on strings set aside; sporadic (no) -> scattered confetti swept away
+anchor: the recommendation -> a bat flying along the row of her children, brothers and sisters, sending rings of sound at each one's chest, under the pink bubble-gum bubble swelling from the orca balloon's rising neck
+scene: A sepia family-portrait room in Water 7. A grey-haired grandmother sits in front; above her the giant orca balloon with a pink bubble-gum bubble swelling from its rising neck, a small painting on the bubble of the Sitt in a golden gown, a staircase rising beside the neck and a three-leaf clover painted on the orca's door. A family tree is carved on the wall behind. In the centre, in the strongest light: her children, brothers and sisters stand in a row, and a bat flies along it sending rings of sound at each one's chest. A ginger cat with its loaf and a marionette on strings are set aside, and Chopper sweeps away scattered confetti.
+must: the bat and the row of relatives are the brightest, central thing; no letters or digits are written anywhere
+
+== 63
+# Q: IRAD: the most common comorbidity in acute type A or B dissection? A: hypertension
+# the huge red pressure gauge towering over the torn zipper, by far the biggest pile of coins in Robin's ledger = hypertension is the most common -> ANSWER
+# the zipper torn open on the orca = acute dissection
+# the ledger with world flags = the international registry
+# the bicycle, the marionette and the family tree on small piles = bicuspid valve, Marfan, familial disease are much rarer
+# the father with a cane = his father's dissection
+# the smoothly turning door = a well-functioning valve
+title: Acute aortic dissection: hypertension is by far the commonest comorbidity
+titleAr: تسلّخ الأبهر الحاد: ارتفاع الضغط هو المرض المرافق الأشيع بفارق كبير
+tags: cardiac/aorta d:evidence q:recall l:1 x:high-yield
+palette: ledger cream and gauge red with flag colours
+words:
+keywords: hypertension -> a huge round pressure gauge, needle deep in the red, towering over the torn orca; aortic dissection -> a long zipper torn open along the orca balloon's back; aorta -> the giant orca balloon above the hotel; registry -> Robin writing in a big ledger; international -> little flags of many lands lining the ledger's page; most common -> the biggest pile of gold coins on the ledger, beside the gauge; bicuspid (no) -> a bicycle on a small pile of coins; marfan (no) -> a marionette on a small pile of coins; familial disease (no) -> a little family tree on a small pile of coins; father -> an old father with a cane; spouse -> the wife holding her husband's arm; well-functioning valve -> a door turning smoothly
+anchor: the most common comorbidity -> a huge round pressure gauge, needle deep in the red, towering over the orca balloon's torn zipper beside the biggest pile of gold coins on Robin's ledger
+scene: A cream-coloured registry office on Ohara. An old father with a cane stands by; his son and the wife holding his arm watch. Above them the giant orca balloon, a long zipper torn open along its back, a door turning smoothly at its base. In the centre, in the strongest light: a huge round pressure gauge, its needle deep in the red, towers over the torn orca, beside the biggest pile of gold coins on Robin's big ledger, little flags of many lands lining its page. On small piles of coins sit a bicycle, a marionette and a little family tree.
+must: the gauge and its pile are much bigger than the three small piles; no letters or digits are written anywhere
+
+== 64
+# Q: left atrial mass from the atrial septum, excised with its endocardium; frozen section shows sarcoma: next? A: full-thickness resection of the atrial septum and closure with a pericardial patch
+# Franky cutting right through the whole wall between the two upper lobbies where the crab clung and sewing in a square of glass from the aquarium = full-thickness septal resection with a pericardial patch -> ANSWER
+# the crab on the wall = sarcoma
+# the frozen slice under the microscope = frozen section
+# the thin peel of wallpaper waved away = endocardial shave is not enough
+# the clean border of plain wall round the cut = clear margins
+# the flowerpot, the potion and the violet ray set aside = transplant, chemoradiation alone are wrong now
+title: Atrial sarcoma on the septum: resect the full thickness, patch with pericardium
+titleAr: ساركوما أذينية على الحاجز: استأصل كامل الثخانة ورقّع بالتامور
+tags: cardiac/other d:technique q:next-step l:3
+palette: surgical white and crab red with aquarium aqua
+words:
+keywords: sarcoma -> a red crab clinging to the wall between the two upper lobbies, hanging into the yellow lobby; pericardial patch -> a square of glass cut from the aquarium, sewn into the hole by Franky; atrial septum -> the wall between the yellow and blue glass-roofed atrium lobbies; full-thickness resection -> Franky's saw cutting right through the whole wall, both sides; frozen section -> a thin slice laid on a block of frost under a microscope; pathologist -> a man peering through the microscope; clear margins -> a clean border of plain wall round the cut; endocardial shave (no) -> a thin peel of wallpaper waved away; heart transplant (no) -> a flowerpot set aside; chemotherapy (no) -> a flask of green potion set aside; radiotherapy (no) -> a lamp of violet rays switched off; operation -> the lit table
+anchor: the best next step -> Franky's saw cutting right through the whole wall between the two upper lobbies where the red crab clung, and sewing a square of glass cut from the aquarium into the hole
+scene: A bright white operating room on Water 7. The cut-open HART Hotel lies on the lit table. A man peers through a microscope at a thin slice laid on a block of frost, and in it a red crab. In the centre, in the strongest light: Franky's saw cuts right through the whole wall between the yellow and blue upper lobbies where a red crab clung, leaving a clean border of plain wall round the cut, and he sews in a square of glass cut from the clear glass aquarium round the hotel. A thin peel of wallpaper is waved away by Chopper; a flowerpot and a flask of green potion are set aside, and a lamp of violet rays is switched off.
+must: the hole goes right through the wall and is closed with the glass square; no letters or digits are written anywhere
+
+== 65
+# Q: on-pump CABG, chronic kidney disease, creatinine 3.2, potassium 5.6 before surgery: best intra-operative electrolyte strategy? A: zero-balanced ultrafiltration
+# Franky's fine filter bag on the pump truck's hose squeezing out water full of tiny bananas while Usopp pours back the same amount of clean water, the scale level = zero-balanced ultrafiltration -> ANSWER
+# the banana with a hamsa, a golden drop and the Sitt = potassium 5.6
+# the wrinkled kidney beans = chronic kidney disease
+# the sparks in the water = electrolytes
+# the boiler, the other bucket and the honey jar set aside = CVVH, HTK, glucose-insulin are not the answer
+title: High potassium on bypass in kidney disease: zero-balanced ultrafiltration
+titleAr: بوتاسيوم مرتفع على المجازة مع قصور كلوي: ترشيح فائق متوازن الصفر
+tags: cardiac/cpb d:technique q:next-step l:2
+palette: filter white and banana yellow with kidney red
+words:
+keywords: zero-balanced ultrafiltration -> Franky's fine filter bag on the pump truck's hose squeezing out water full of tiny bananas; zero balance -> a balance scale standing perfectly level, clean water poured in on one side as much as is squeezed out on the other; clean replacement fluid -> Usopp pouring a jug of clean water back into the truck; potassium -> a big yellow banana on the truck's tank; number 5.6 (potassium) -> a small tattoo on the banana: a blue hamsa hand, a golden drop and the Sitt in a golden gown; chronic kidney disease -> a pair of red kidney beans wrinkled and grey; cpb -> a roller-pump truck with its hoses running into the hotel; cabg -> cabbage leaves laid over the green crown's spikes; electrolytes -> tiny electric sparks fizzing in the blood water; three-vessel disease -> tar on all three spikes of the crown; continuous hemofiltration (no) -> a big boiler set aside; glucose-insulin (no) -> a honey jar and a pen set aside
+anchor: the best strategy -> Franky's fine filter bag on the roller-pump truck's hose squeezing out water full of tiny bananas while Usopp pours the same amount of clean water back in, a balance scale beside them perfectly level
+scene: A bright workshop on the Thousand Sunny. The cut-open HART Hotel lies connected to a roller-pump truck by its hoses, cabbage leaves laid over the green crown's spikes and tar on all three spikes. A big yellow banana sits on the truck's tank, a small tattoo on it of a blue hamsa hand, a golden drop and the Sitt in a golden gown; tiny electric sparks fizz in the blood water. A pair of red kidney beans lies wrinkled and grey. In the centre, in the strongest light: Franky's fine filter bag on the truck's hose squeezes out water full of tiny bananas, while Usopp pours a jug of the same amount of clean water back in, and a balance scale beside them stands perfectly level. A big boiler, a honey jar and a pen are set aside.
+must: the filter bag and the level scale are the brightest, central thing; no letters or digits are written anywhere
+
+== 66
+# Q: mitral replacement, bicaval cannulation, on bypass the right atrium distends and the reservoir won't fill despite vacuum of 100: next? A: adjust the IVC cannula position
+# Franky sliding the lower cannon back to a new angle in the drainpipe, its tip freed from a side branch, blue water rushing into the truck's tank again = reposition the IVC cannula -> ANSWER
+# the swollen blue lobby = distended right atrium
+# the empty tank on the truck = reservoir not filling
+# the suction plunger with a tattoo of a unicorn and two whistles = vacuum at 100 already
+# the bucket and the stronger plunger waved away = adding volume or more vacuum is wrong
+title: Venous reservoir not filling despite vacuum: reposition the IVC cannula
+titleAr: الخزّان الوريدي لا يمتلئ رغم الشفط: عدّل وضع قنية الأجوف السفلي
+tags: cardiac/cpb d:technique q:next-step l:2
+palette: plumbing copper and deep blue water
+words:
+keywords: inferior vena cava -> the hotel's drainpipe running up from below; cannulation -> a small brass cannon pushed into the drainpipe, its tip jammed in a side branch; malposition -> the cannon's tip stuck in a small side branch of the drainpipe; superior vena cava -> the hotel's chimney with a second small cannon in it; cpb -> a roller-pump truck with an empty tank; venous reservoir -> the truck's tank, nearly empty; vacuum suction -> a big rubber suction plunger pulling on the tank; number 100 (vacuum, mmHg) -> a small tattoo on the plunger's handle: a white unicorn and two golden whistles; mitral valve replacement -> a new mitre waiting to be fitted; distended right atrium -> the blue atrium lobby bulging like a balloon; add volume (no) -> a bucket of water waved away; more vacuum (no) -> a second, stronger plunger waved away; elderly man -> an old man on the table
+anchor: the best next step -> Franky sliding the brass cannon in the drainpipe back to a new angle, freeing its tip from a side branch, so the blue water rushes into the roller-pump truck's empty tank again
+scene: A copper-pipe engine room on Water 7. An old man lies on the table; above him the cut-open HART Hotel, its blue lobby bulging like a balloon, a new mitre waiting to be fitted. A small brass cannon sits in the chimney, and a roller-pump truck stands with its tank nearly empty, a big rubber suction plunger pulling on the tank, a small tattoo on its handle of a white unicorn and two golden whistles. In the centre, in the strongest light: a second brass cannon in the drainpipe has its tip stuck in a small side branch; Franky slides it back to a new angle, freeing its tip, and the blue water rushes into the truck's tank again. Chopper waves away a bucket of water, and Usopp waves away a second, stronger plunger.
+must: the cannon in the drainpipe at the bottom is the one moved; no letters or digits are written anywhere
+
+== 67
+# Q: mitral and tricuspid repair, bicaval cannulation with snares; low flow, distended right heart; a persistent left SVC with no innominate vein: next? A: cannulate the left SVC
+# Franky pushing a third small brass cannon into the second chimney on the left so its trapped blue water drains = cannulate the left SVC -> ANSWER
+# the second chimney with no bridge to the first = persistent left SVC without an innominate vein
+# the green-crowned sink overflowing into the blue lobby = left SVC drains to the coronary sinus, flooding the opened heart
+# the ropes snared round the chimney and the drainpipe = caval tapes snugged
+# the clothes peg on the second chimney and the drinking straw waved away = clamping it or a sucker is wrong
+title: Persistent left SVC with no innominate vein: cannulate it
+titleAr: وريد أجوف علوي أيسر مستمر بلا وريد لا اسم له: ضع فيه قنية
+tags: cardiac/cpb d:technique q:next-step l:3
+palette: chimney soot grey and brass with blue water
+words:
+keywords: persistent left superior vena cava -> a second chimney on the left side of the hotel, its blue water trapped and backing up; cannulation -> a third small brass cannon Franky pushes into the second chimney; superior vena cava -> the hotel's chimney with a brass cannon in it; coronary sinus -> a sink with a little green crown in the floor of the blue lobby, overflowing; cpb -> a roller-pump truck with a weak trickle in its hose; mitral -> a mitre being repaired; tricuspid -> a three-pronged trident being mended; no innominate vein -> a broken bridge: no walkway joining the two chimneys; caval snares -> ropes snared tight round the chimney and the drainpipe; low flow -> a weak trickle from the truck's hose; clamping (no) -> a clothes peg pinching the second chimney, waved away; sucker (no) -> a drinking straw in the blue lobby, waved away
+anchor: the best next step -> Franky pushing a third small brass cannon into the second chimney on the left of the hotel, so its trapped blue water drains into the roller-pump truck
+scene: A soot-grey rooftop on Water 7. The cut-open HART Hotel: ropes are snared tight round its chimney and its drainpipe; a mitre is being repaired and a three-pronged trident mended. A sink with a little green crown in the floor of the blue lobby overflows. A roller-pump truck gives only a weak trickle from its hose. On the left side of the hotel stands a second chimney with no walkway joining it to the first, a broken bridge between them. In the centre, in the strongest light: Franky pushes a third small brass cannon into the second chimney, and its trapped blue water drains into the truck. Chopper waves away a clothes peg pinching the second chimney, and Usopp waves away a drinking straw.
+must: the second chimney on the LEFT gets the new cannon; no letters or digits are written anywhere
+
+== 68
+# Q: CABG; Seldinger aortic cannulation; on bypass TEE shows a dissection in the descending aorta; the cannulation site is normal and epiaortic echo shows no arch dissection: next? A: change to a short dispersion-type aortic cannula at the same site
+# Franky swapping the long cannon for a short one with a shower-head nozzle that sprays gently in all directions, in the same hole = short dispersion cannula at the same site -> ANSWER
+# the long cannon's jet blasting down the orca's back and starting a zipper there = jet-induced descending dissection
+# the bat inside the hotel and a second bat sitting on the arch = TEE sees it below, epiaortic echo shows the arch is intact
+# the pink unbruised skin round the cannon = the site is fine
+# the slender wire through a needle = Seldinger technique
+# the thigh bone and the folded white arch set aside = no femoral switch, no arch replacement
+title: Descending dissection from the cannula jet: a short dispersion cannula, same site
+titleAr: تسلّخ نازل من نفث القنية: قنية قصيرة مُبعثِرة في المكان نفسه
+tags: cardiac/cpb d:complications q:next-step l:3
+palette: shower-spray turquoise and brass
+words:
+keywords: dispersion cannula -> a short brass cannon with a shower-head nozzle spraying gently in all directions; cannulation -> the long brass cannon pulled out of the same hole; jet -> the long cannon's hard jet blasting down the orca's back; aortic dissection -> a short zipper opening on the far, descending part of the orca's back where the jet hits; transesophageal echocardiography -> a bat inside the hotel sending sound rings down at the zipper; epiaortic scan -> a second bat sitting right on top of the orca's arch, the arch smooth and whole; aorta -> the giant orca balloon above the hotel; seldinger -> a slender wire threaded through a needle into the same hole; intact entry site -> pink, unbruised skin round the hole; cabg -> cabbage leaves over the green crown's spikes; femoral (no) -> a thigh bone set aside; arch replacement (no) -> a folded white fabric arch kept on the shelf
+anchor: the best next step -> Franky swapping the long brass cannon in the orca's arch for a short brass cannon with a shower-head nozzle that sprays gently in all directions, in the same hole
+scene: A turquoise operating deck on the Thousand Sunny. The cut-open HART Hotel lies with cabbage leaves over the green crown's spikes, the giant orca balloon arching above it. A long brass cannon's hard jet blasts down the orca's back, and a short zipper opens on the far, descending part of the back where the jet hits; a bat inside the hotel sends sound rings down at the zipper, and a second bat sits right on top of the arch, which is smooth and whole. In the centre, in the strongest light: Franky pulls the long cannon out and, along a slender wire threaded through a needle into the same hole, ringed by pink unbruised skin, fits a short brass cannon with a shower-head nozzle that sprays gently in all directions. A thigh bone is set aside and a folded white fabric arch is kept on the shelf.
+must: the new short cannon goes in the SAME hole; no letters or digits are written anywhere
+
+== 69
+# Q: mitral repair in a woman with cold agglutinin disease: cardioplegia and temperature? A: warm cardioplegia and systemic normothermia
+# a steaming kettle of warm banana water poured into the hotel under a warm sun, the doughnuts staying apart = warm cardioplegia and normothermia -> ANSWER
+# the doughnuts clumping together in the cold corner = cold agglutinins
+# the smashed doughnuts = haemolytic anaemia
+# the frosted thermometer and the snowflakes waved away = no cold cardioplegia, no hypothermia
+# the sail on the mitre and the gurgling = degenerative MR for repair
+title: Cold agglutinin disease: warm cardioplegia and normothermia
+titleAr: داء الراصّات الباردة: شلل قلبي دافئ وحرارة طبيعية
+tags: cardiac/cpb d:technique q:recall l:2 x:trap
+palette: warm sunshine orange and kettle copper against icy blue
+words:
+keywords: warm cardioplegia -> a steaming copper kettle of warm water full of bananas poured into the hotel; normothermia -> a warm sun shining on the hotel; body warmth -> a woollen blanket over the woman; cold agglutinin -> clumped doughnuts: red doughnuts sticking together in a cold corner; hemolytic anemia -> smashed doughnuts: red doughnuts crushed to crumbs on the floor of the cold corner; hypothermia (no) -> a frosted thermometer waved away; cold (no) -> snowflakes blown away; mitral -> a mitre on the hotel's door; prolapse -> a sail billowing up from the mitre; mitral regurgitation -> water gurgling back through the mitre; cpb -> a roller-pump truck with its hoses warmed; test tube -> a chilled test tube where the doughnuts clump; separate cells -> the doughnuts in the warm water floating freely apart
+anchor: the right plan -> a steaming copper kettle of warm water full of bananas poured into the hotel under a warm sun, the red doughnuts in it floating freely apart
+scene: A sunny deck of the Thousand Sunny; a woman lies under a woollen blanket. The cut-open HART Hotel stands beside her: a sail billows up from the mitre on its door, and water gurgles back through it. In a cold corner red doughnuts clump together, and some lie smashed to crumbs on the floor; a chilled test tube shows the doughnuts clumping. A roller-pump truck stands with its hoses warmed. In the centre, in the strongest light: under a warm sun, Chopper pours a steaming copper kettle of warm water full of bananas into the hotel, and the red doughnuts in it float freely apart. Usopp waves away a frosted thermometer, and snowflakes are blown away.
+must: everything at the centre is warm: steam, sun, blanket; no letters or digits are written anywhere
+
+== 70
+# Q: 82-year-old woman, permanent AF for 15 years, NYHA IV, severe mitral stenosis (mean gradient 14), large left atrium; worried about stroke later: during mitral surgery she must also have? A: left atrial appendage ligation
+# Franky tying the yellow lobby's dog's ear shut with a tight ribbon, the beaver trapped inside, the lightning cloud fading = LAA ligation to cut the stroke risk -> ANSWER
+# Pinocchio quivering in the yellow lobby with an old stopped clock = permanent atrial fibrillation
+# the stone in the narrow slit of the mitre with a unicorn and cap tattoo = mitral stenosis, gradient 14
+# the swollen yellow lobby like a hot-air balloon = giant left atrium
+# the woman on the top floor of the Empire State = NYHA IV
+# the hedge maze and the shrinking tape set aside = no Maze IV, no atrial reduction
+title: Mitral surgery with long-standing AF: always close the left atrial appendage
+titleAr: جراحة الميترال مع رجفان أذيني مزمن: أغلق الزائدة الأذينية اليسرى
+tags: cardiac/arrhythmia cardiac/mitral-tricuspid d:technique q:vignette l:2 x:high-yield
+palette: hot-air balloon yellow with storm-cloud violet
+words:
+keywords: left atrial appendage -> a floppy dog's ear on the yellow lobby, Franky tying it shut with a tight ribbon; ligation -> a tight ribbon wound round the base of the dog's ear; thrombus -> a beaver trapped inside the dog's ear; stroke -> a lightning bolt from a storm cloud, fading away; future risk -> a storm cloud on the horizon breaking up; atrial fibrillation -> Pinocchio quivering in the yellow lobby; permanent -> an old clock that stopped long ago; mitral stenosis -> a grey stone stuck in the mitre's narrow slit; number 14 (mean gradient, mmHg) -> a small tattoo on the stone: a white unicorn and a graduation cap; giant left atrium -> the yellow atrium lobby swollen huge like a hot-air balloon; nyha -> the old woman on the top floor of the Empire State Building model; maze (no) -> a hedge maze set aside; atrial reduction (no) -> a shrinking tape for the atrium set aside; grandmother -> the old woman; worry -> the old woman wringing her hands
+anchor: what she must also undergo -> Franky tying the floppy dog's ear of the yellow lobby shut with a tight ribbon, a beaver trapped inside it, while the lightning from the storm cloud fades away
+scene: A yellow evening on Sky Island under a storm cloud breaking up on the horizon. An old woman, wringing her hands, stands on the top floor of an Empire State Building model. Beside her the cut-open HART Hotel: its yellow lobby swollen huge like a hot-air balloon, Pinocchio quivering inside it, an old clock on its wall that stopped long ago; a grey stone stuck in the mitre's narrow slit, a small tattoo on the stone of a white unicorn and a graduation cap. In the centre, in the strongest light: Franky ties the floppy dog's ear of the yellow lobby shut with a tight ribbon, a beaver trapped inside it, and the lightning bolt from the storm cloud fades away. A hedge maze and a shrinking tape are set aside.
+must: the dog's ear tied shut is the brightest, central thing; no letters or digits are written anywhere
