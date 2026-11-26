@@ -13878,6 +13878,344 @@
    "status": "approved",
    "reason": "total 8/10, 2 layers",
    "audited": "2026-11-26"
+  },
+  {
+   "id": "diffuse-cad",
+   "concept": "diffuse distal (small-vessel) coronary disease: poor targets, poor run-off",
+   "terms": [
+    "diffuse small vessel disease",
+    "diffuse coronary disease",
+    "diffusely diseased",
+    "poor runoff",
+    "poor run-off",
+    "poor distal targets",
+    "small vessel disease"
+   ],
+   "symbol": "the tips of a crown spike splitting into thin, brittle DRY TWIGS, furred and narrow all along, with no good place to tie a graft",
+   "anchors": [
+    "dry twigs"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the disease runs the whole length of the small arteries, so grafts or stents have nowhere good to land",
+    "place": "the distal coronary branches"
+   },
+   "why": "dry twigs cannot carry water",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Refractory angina with diffuse disease and patent grafts: optimise medical therapy.",
+   "firstUsed": "SESATS 12 41-50",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "tmr",
+   "concept": "transmyocardial laser revascularisation (TMR)",
+   "terms": [
+    "transmyocardial laser revascularization",
+    "transmyocardial laser revascularisation",
+    "tmr",
+    "laser revascularization"
+   ],
+   "symbol": "a thin red LASER beam pricking dozens of tiny holes through the engine room's wall until it looks like a PIN-CUSHION",
+   "anchors": [
+    "pin-cushion"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "many small laser channels through the heart muscle",
+    "place": "the left ventricular wall"
+   },
+   "why": "a wall full of pinholes",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Little benefit in modern practice.",
+   "firstUsed": "SESATS 12 41-50",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "topical-cooling",
+   "concept": "topical cooling with ice slush around the heart (and its phrenic nerve injury)",
+   "terms": [
+    "topical cooling",
+    "ice slush",
+    "iced slush",
+    "topical hypothermia",
+    "cold saline slush"
+   ],
+   "symbol": "buckets of crushed ICE SLUSH tipped into the aquarium round the hotel, frost creeping along the telephone cable that runs down its side",
+   "anchors": [
+    "ice slush"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "cold applied to the heart's surface during arrest",
+    "place": "in the pericardium, next to the phrenic nerve"
+   },
+   "why": "slush in the tank chills the cable beside it",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Frostbite of the phrenic nerve gives a raised, paradoxical hemidiaphragm.",
+   "firstUsed": "SESATS 12 41-50",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "coronary-dominance",
+   "concept": "coronary dominance (which artery gives the posterior descending artery)",
+   "terms": [
+    "coronary dominance",
+    "left-dominant coronary",
+    "left dominant coronary",
+    "right-dominant coronary",
+    "left-dominant circulation",
+    "right-dominant circulation",
+    "nondominant right coronary",
+    "non-dominant right coronary",
+    "nondominant rca",
+    "dominance"
+   ],
+   "symbol": "one spike of the crown wearing a royal KING'S SASH because it runs down the back of the hotel to feed the floor of both engine rooms; the other spike is smaller and plain",
+   "anchors": [
+    "king's sash"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the dominant artery supplies the posterior descending branch",
+    "place": "down the back of the heart (the posterior wall and septum)"
+   },
+   "why": "the dominant spike wears the sash",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Usually the right (rainbow); left-dominant = the acrobat wears the sash, and a stitch near the mitral annulus then risks much more muscle.",
+   "firstUsed": "SESATS 12 41-50",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "epiaortic",
+   "concept": "epiaortic ultrasound (scanning the ascending aorta before cannulation or clamping)",
+   "terms": [
+    "epiaortic ultrasound",
+    "epi-aortic ultrasound",
+    "epiaortic scan",
+    "epiaortic scanning",
+    "epiaortic"
+   ],
+   "symbol": "a bat LYING ON THE ORCA's back, pressed flat to its skin, its rings searching the inside of the orca for hidden stones before any cannon or tongs touch it",
+   "anchors": [
+    "bat lying on the orca"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "ultrasound laid straight on the aorta finds plaque and calcium",
+    "place": "on the ascending aorta"
+   },
+   "why": "the bat lies on the orca itself",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 1,
+    "sticky": 2
+   },
+   "notes": "Finds where it is safe to cannulate and clamp; a porcelain aorta may change the whole plan.",
+   "firstUsed": "SESATS 12 41-50",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "gastroepiploic",
+   "concept": "right gastroepiploic artery graft",
+   "terms": [
+    "gastroepiploic",
+    "gastroepiploic artery",
+    "right gastroepiploic artery",
+    "gea graft",
+    "gastroepiploic artery graft"
+   ],
+   "symbol": "a long green POT VINE climbing up out of the copper cooking pot below the deck, through the deck floor, to the back of the crown",
+   "anchors": [
+    "pot vine"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "an artery from the stomach used as a bypass graft",
+    "place": "from the stomach, through the diaphragm, to the back of the heart (PDA)"
+   },
+   "why": "a vine that grows out of the stomach pot",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 1,
+    "sticky": 2
+   },
+   "notes": "Usually to the posterior descending artery; needs a tight target stenosis.",
+   "firstUsed": "SESATS 12 41-50",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "medical-therapy",
+   "concept": "optimal medical therapy (guideline-directed medical treatment) as the chosen management",
+   "terms": [
+    "medical therapy",
+    "optimal medical therapy",
+    "optimized medical therapy",
+    "medical management",
+    "guideline-directed medical therapy",
+    "continued medical management"
+   ],
+   "symbol": "the physician's well-stocked MEDICINE CHEST of little drawers, opened, its bottles lined up and taken in turn",
+   "anchors": [
+    "medicine chest"
+   ],
+   "kind": "meaning",
+   "layers": {
+    "meaning": "tablets, not an operation",
+    "place": "the healer's chest of drawers at the bedside"
+   },
+   "why": "the medicine chest instead of the knife",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "SESATS 12 41-50",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "angiogenesis",
+   "concept": "angiogenic and gene therapy (VEGF, growth factors) to grow new vessels",
+   "terms": [
+    "vascular endothelial growth factor",
+    "vegf",
+    "angiogenesis",
+    "angiogenic therapy",
+    "gene therapy",
+    "growth factor"
+   ],
+   "symbol": "a gardener's brass SPRAYER misting a green growth tonic onto the engine room's wall so tiny new red shoots of vessels sprout",
+   "anchors": [
+    "sprayer"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "growth factors meant to sprout new vessels",
+    "place": "into the heart muscle"
+   },
+   "why": "spray it and it sprouts",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Experimental; not standard care.",
+   "firstUsed": "SESATS 12 41-50",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "acs",
+   "concept": "acute coronary syndrome without ST elevation (NSTEMI, unstable)",
+   "terms": [
+    "nstemi",
+    "non-st segment elevation myocardial infarction",
+    "non-st elevation myocardial infarction",
+    "acute coronary syndrome",
+    "acs",
+    "non-stemi"
+   ],
+   "symbol": "a stag still standing but GRAZED by an arrow, a red streak on its flank, limping, not yet brought down",
+   "anchors": [
+    "grazed stag"
+   ],
+   "kind": "meaning",
+   "layers": {
+    "meaning": "heart muscle injured (troponin up) without the full ST-elevation infarct",
+    "place": "the stag at the hotel's door (the heart's own symbol for infarction)"
+   },
+   "why": "wounded, not felled",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "A recent ACS is the reason for dual antiplatelet therapy after CABG. The full STEMI is the stag brought down (mi).",
+   "firstUsed": "SESATS 12 41-50",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "atelectasis",
+   "concept": "atelectasis (collapsed lung segments after surgery)",
+   "terms": [
+    "atelectasis",
+    "atelectatic",
+    "lobar collapse",
+    "collapsed lung"
+   ],
+   "symbol": "one money sack fallen in and flat like an EMPTY WINESKIN, its bills pressed together",
+   "anchors": [
+    "empty wineskin"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "air spaces collapse and the lung stops filling",
+    "place": "usually the left lower lobe after heart surgery"
+   },
+   "why": "an empty wineskin is a collapsed sack",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "SESATS 12 41-50",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
   }
  ]
 }
