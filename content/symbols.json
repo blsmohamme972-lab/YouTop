@@ -14551,6 +14551,345 @@
    "status": "approved",
    "reason": "total 9/10, 2 layers",
    "audited": "2026-11-26"
+  },
+  {
+   "id": "pulmonary-contusion",
+   "concept": "pulmonary contusion (bruised lungs after blunt chest trauma)",
+   "terms": [
+    "pulmonary contusion",
+    "pulmonary contusions",
+    "lung contusion",
+    "lung contusions",
+    "contusion"
+   ],
+   "symbol": "the money sacks covered in dark purple BRUISES, BRUISED SACKS heavy and leaking a little red into the bills",
+   "anchors": [
+    "bruised sacks"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "bleeding and swelling in the lung after a blow",
+    "place": "the lungs (the money sacks)"
+   },
+   "why": "bruised money sacks",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Worst on day 2 to 3; may force delaying other repairs.",
+   "firstUsed": "SESATS 12 61-70",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "inhaled-prostacyclin",
+   "concept": "inhaled prostacyclin (epoprostenol, iloprost) as a selective pulmonary vasodilator",
+   "terms": [
+    "inhaled prostacyclin",
+    "prostacyclin",
+    "epoprostenol",
+    "iloprost",
+    "inhaled epoprostenol"
+   ],
+   "symbol": "a soft PINK MIST blown from a perfume atomiser into the money sacks, their pipes relaxing wide",
+   "anchors": [
+    "pink mist"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "an inhaled drug that opens the lung vessels where air goes, improving oxygenation",
+    "place": "breathed into the lungs only"
+   },
+   "why": "perfumed mist breathed into the sacks",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Like nitric oxide (nitro smoke) but cheaper; both selective to the lungs.",
+   "firstUsed": "SESATS 12 61-70",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "delayed-repair",
+   "concept": "delayed (deferred) repair: waiting until the patient is fit before operating",
+   "terms": [
+    "delayed repair",
+    "delayed endovascular repair",
+    "delayed open repair",
+    "deferred repair",
+    "deferred surgery",
+    "watchful waiting"
+   ],
+   "symbol": "the surgeon's tools packed in a chest while a big HOURGLASS runs beside it, the chest to be opened only when the sand has run through",
+   "anchors": [
+    "hourglass"
+   ],
+   "kind": "meaning",
+   "layers": {
+    "meaning": "treat what threatens life first, repair later",
+    "place": "the tool chest waiting by the bed"
+   },
+   "why": "the hourglass must run first",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "A hourglass knocked over = no waiting (operate now).",
+   "firstUsed": "SESATS 12 61-70",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "retrograde-dissection",
+   "concept": "retrograde type A dissection (after TEVAR or from a tear in the arch or descending aorta)",
+   "terms": [
+    "retrograde type a dissection",
+    "retrograde type a",
+    "retrograde dissection",
+    "retrograde aortic dissection"
+   ],
+   "symbol": "the zipper TEARING BACKWARDS from the top end of the sleeve up the orca's arch and into its front climb, against the way the water flows",
+   "anchors": [
+    "tearing backwards"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "a dissection that runs back towards the heart, becoming type A",
+    "place": "from the descending aorta or the stent graft's end into the arch and ascending aorta"
+   },
+   "why": "the zipper tears the wrong way",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Needs emergency open repair like any type A.",
+   "firstUsed": "SESATS 12 61-70",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "acp",
+   "concept": "antegrade cerebral perfusion during circulatory arrest",
+   "terms": [
+    "antegrade cerebral perfusion",
+    "selective antegrade cerebral perfusion",
+    "acp",
+    "sacp",
+    "unilateral antegrade cerebral perfusion",
+    "bilateral antegrade cerebral perfusion"
+   ],
+   "symbol": "a thin LANTERN HOSE still carrying cold water forward from the pump up into the head lantern while everything else lies frozen in the ice cube",
+   "anchors": [
+    "lantern hose"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the brain is perfused forwards through its own arteries while the body is arrested",
+    "place": "through the right axillary or carotid arteries to the brain"
+   },
+   "why": "a hose feeding the lantern alone",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Backwards through the SVC = retrograde cerebral perfusion (water pushed up the chimney).",
+   "firstUsed": "SESATS 12 61-70",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "left-heart-bypass",
+   "concept": "left heart bypass (left atrial to femoral bypass) for descending and thoracoabdominal aortic repair",
+   "terms": [
+    "left heart bypass",
+    "left atrial-femoral bypass",
+    "left atrial femoral bypass",
+    "atriofemoral bypass",
+    "distal aortic perfusion"
+   ],
+   "symbol": "a small TAIL PUMP on a short hose taking water from the red lobby and pumping it into the orca's tail, below the clamp",
+   "anchors": [
+    "tail pump"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "keeps the lower body, gut, kidneys and spinal cord perfused during the clamp",
+    "place": "from the left atrium to the femoral artery or distal aorta"
+   },
+   "why": "a pump feeding the orca's tail",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "SESATS 12 61-70",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "anti-impulse",
+   "concept": "anti-impulse therapy (lowering heart rate and blood pressure, dP/dt) in aortic dissection",
+   "terms": [
+    "anti-impulse",
+    "anti-impulse therapy",
+    "impulse control",
+    "impulse control therapy",
+    "dp/dt"
+   ],
+   "symbol": "a COACHMAN pulling hard on the reins of two galloping horses, one for the pulse and one for the pressure, until they slow to a walk",
+   "anchors": [
+    "coachman"
+   ],
+   "kind": "meaning",
+   "layers": {
+    "meaning": "slow the heart first (beta-blocker), then lower the pressure (vasodilator)",
+    "place": "in the intensive care unit"
+   },
+   "why": "rein in both horses",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Targets about heart rate 60, systolic 100-120. Esmolol is the goalkeeper; nicardipine or nitroprusside open the gates.",
+   "firstUsed": "SESATS 12 61-70",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "landing-zone",
+   "concept": "landing zones for a stent graft (healthy aorta for the ends to seal) and the arch zones 0-4",
+   "terms": [
+    "landing zone",
+    "landing zones",
+    "proximal landing zone",
+    "distal landing zone",
+    "seal zone",
+    "zone 0",
+    "zone 1",
+    "zone 2",
+    "zone 3"
+   ],
+   "symbol": "a smooth RUNWAY strip painted on the orca's skin where the end of the fabric sleeve touches down and grips",
+   "anchors": [
+    "runway"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "a stretch of healthy aorta long enough for the stent graft to seal",
+    "place": "above and below the disease; arch zones counted from the heart outwards"
+   },
+   "why": "the sleeve lands on a runway",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "About 2 cm of healthy aorta each end. Landing in the arch may need a debranching (carrot bridge).",
+   "firstUsed": "SESATS 12 61-70",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "debranching",
+   "concept": "arch debranching (extra-anatomic bypass of the arch vessels, e.g. carotid-carotid or carotid-subclavian) before TEVAR",
+   "terms": [
+    "debranching",
+    "arch debranching",
+    "carotid-carotid bypass",
+    "carotid to carotid bypass",
+    "carotid-subclavian bypass",
+    "carotid subclavian bypass",
+    "hybrid arch repair"
+   ],
+   "symbol": "a little CARROT BRIDGE: a short pipe built from one upright carrot across to the other (or to the flipper) so the sleeve can cover their roots",
+   "anchors": [
+    "carrot bridge"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "reroute the head and arm vessels so the stent graft can land further back",
+    "place": "across the neck, between the arch branches"
+   },
+   "why": "a bridge between the carrots",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "SESATS 12 61-70",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "clamshell",
+   "concept": "clamshell (bilateral anterior thoracosternotomy) incision",
+   "terms": [
+    "clamshell",
+    "clam shell",
+    "clamshell thoracotomy",
+    "clam shell thoracotomy",
+    "bilateral anterior thoracotomy",
+    "bilateral thoracosternotomy"
+   ],
+   "symbol": "the whole front LID of the treasure chest flung open across both sides at once, hinged like a CLAMSHELL LID",
+   "anchors": [
+    "clamshell lid"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "CLAMSHELL",
+    "meaning": "a wide incision across both sides of the chest",
+    "place": "across the front of the chest below the breasts"
+   },
+   "why": "the chest opens like a clam",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Used for bilateral lung transplant and some trauma.",
+   "firstUsed": "SESATS 12 61-70",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-26"
   }
  ]
 }
