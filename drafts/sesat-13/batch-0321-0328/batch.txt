@@ -1,0 +1,137 @@
+book: sesat-13
+style: a vivid fairy-tale illustration of the Arabian Nights in the manner of a modern 3D animated feature film: rounded, expressive characters, glowing jewel-tone colour, warm lantern light with soft shadows, ornate Abbasid Baghdad, its souks, palaces and the seas of Sindbad, every object solid, crisp and instantly recognisable
+theme: the world of the Arabian Nights: the Baghdad of Harun al-Rashid, the souks on the Tigris and the voyages of Sindbad; the sage physician Duban (white beard, green turban) is the recurring healer and Shahrazad tells the tales; stories end with a genuine line from Kalila wa Dimna, a famous Arabic proverb or a line of classical Arabic poetry, spoken by one of the characters
+
+== 321
+# Q: girl with mild cyanosis, left SVC draining straight into the left atrial roof, small bridging vein, low ASD: next step? A: baffle the left SVC across the left atrial roof to the right atrium and close the ASD
+# Duban sewing a cloth tunnel along the ceiling of the red lobby that carries the second chimney's smoke over to the blue lobby, and patching the low hole = baffle LSVC to RA with ASD closure -> ANSWER
+# the second chimney pouring its smoke straight into the red lobby's roof = left SVC to the left atrium
+# the thin rope bridge between the two chimneys = small bridging vein
+# the blue lips = mild cyanosis
+# the rope round the second chimney, the fishing line and the cufflinks waved away = no ligation, catheter or device (wrong options)
+title: Left SVC to the left atrial roof with an ASD: baffle it to the right atrium
+titleAr: وريد أجوف علوي أيسر يصب في سقف الأذين الأيسر مع فتحة أذينية: توجيهه بنفق إلى الأذين الأيمن
+tags: cardiac/congenital d:technique q:next-step l:3
+palette: smoke grey and lobby red with sailcloth white
+words:
+keywords: left svc -> a second chimney on the left side of the hotel, its smoke pouring straight into the red lobby's roof; svc -> the chimney of the blue wing; atrium -> the red glass-roofed atrium lobby; asd -> a hole low in the thin upper party wall; cyanosis -> a little girl with faintly blue lips; catheterization (no) -> a fishing line and reel waved away; occluder (no) -> round silver cufflinks waved away; cloth tunnel -> a cloth tunnel sewn along the ceiling of the red lobby carrying the smoke over to the blue lobby; patch -> a patch over the low hole; small bridge -> a thin rope bridge between the two chimneys; ligation (no) -> a rope tied round the second chimney, waved away; girl -> a little girl with a ribbon in her hair
+anchor: the best next step -> the sage Duban sewing a cloth tunnel along the ceiling of the red lobby that carries the second chimney's smoke over into the blue lobby, and patching the low hole in the party wall
+scene: A grey-roofed house with red and white awnings. A little girl with a ribbon in her hair and faintly blue lips stands beside the cut-open HART Hotel. It has two chimneys, the usual one on the blue wing and a second chimney on the left whose smoke pours straight into the red lobby's roof; only a thin rope bridge joins the two chimneys. A hole sits low in the thin upper party wall. In the centre, in the strongest light: the sage Duban sews a cloth tunnel along the ceiling of the red lobby that carries the second chimney's smoke over into the blue lobby, and patches the low hole. A rope tied round the second chimney, a fishing line and reel and round silver cufflinks are waved away.
+must: the cloth tunnel runs across the red lobby's ceiling; no letters or digits are written anywhere
+
+== 322
+# Q: after repair of congenital mitral stenosis: mild residual stenosis, moderate central regurgitation without prolapse, modest inotropes, LA pressure 12: next step? A: come off bypass
+# the roller-pump truck's driver turning his key off and stepping down while Duban closes his toolbox, satisfied, the lobby gauge calm with a unicorn and a dragon = terminate bypass, accept the repair -> ANSWER
+# the mitre a little narrow and a little leaky in the middle, no billowing = mild residual MS, moderate central MR, no prolapse
+# the small firework = modest inotropes
+# the collar ring, the new harp strings and the robot waved away = no annuloplasty, chords or replacement (wrong options)
+title: Acceptable result after congenital mitral repair: come off bypass
+titleAr: نتيجة مقبولة بعد إصلاح التضيق التاجي الخلقي: أوقف المجازة
+tags: cardiac/congenital cardiac/mitral-tricuspid d:technique q:next-step l:2 x:trap
+palette: workshop wood and calm green with brass
+words:
+keywords: cpb -> the big roller-pump truck, its driver turning the key off; mitral -> the bishop's mitre in the red engine room's doorway, just repaired; valve stenosis -> the mitre's opening a little narrow, stone-grey at its edges; regurgitation -> a little water gurgling back through the middle of the mitre; tee -> a bat sliding down inside the pink sofa slide behind the hotel; atrium -> the red glass-roofed atrium lobby with a calm gauge; number 12 (left atrial pressure, mmHg) -> a small painting on the lobby gauge: a white unicorn and a green dragon; epinephrine -> one small lit firework rocket; mechanical valve (no) -> a clanking little steel robot waved away; good enough -> Duban closing his toolbox, satisfied; flat leaves -> the mitre's leaves lying flat, no billowing; fresh stitches -> fresh stitches along the mitre's edges; hands off -> Duban's hand pulled back from the mitre; child -> a small child asleep on the table
+anchor: the best next step -> the roller-pump truck's driver turning his key off and stepping down, while the sage Duban closes his toolbox, satisfied, the red lobby's gauge calm with a small unicorn and dragon painted on it
+scene: A wooden workshop in calm green light. A small child sleeps on the table beside the cut-open HART Hotel. The bishop's mitre in the red engine room's doorway has just been repaired with fresh stitches along its edges: its opening is a little narrow, stone-grey at the edges, a little water gurgles back through its middle, and its leaves lie flat with no billowing. A bat slides down inside a pink sofa slide behind the hotel. One small lit firework rocket burns beside the bed. The red lobby's gauge is calm, a small painting of a white unicorn and a green dragon on it. In the centre, in the strongest light: the roller-pump truck's driver turns his key off and steps down, while the sage Duban pulls his hand back from the mitre and closes his toolbox, satisfied. New harp strings and a clanking little steel robot are waved away.
+must: the tools are put away; no letters or digits are written anywhere
+
+== 323
+# Q: infant with a large PDA, left-to-right, mean gradient 20: haemodynamic consequences? A: pressure load on the RV, volume load on the LV
+# the blue engine room pushing against a heavy weight on its piston while the red engine room fills like a tub with twice its water = RV pressure load, LV volume load -> ANSWER
+# the duct-tape tunnel from the orca to the dollar pipe with a dragon and a whistle = large PDA, gradient 20
+# the extra water looping back through the dollar pipes into the swollen red lobby = shunt flow returning to the left heart
+# the gauge on the dollar pipe in the red = raised pulmonary pressure
+title: A large PDA: pressure load on the right ventricle, volume load on the left
+titleAr: القناة الشريانية الكبيرة: حمل ضغطي على البطين الأيمن وحمل حجمي على الأيسر
+tags: cardiac/congenital d:physiology q:recall l:2
+palette: duct-tape silver and lobby red with sky blue
+words:
+keywords: ductus -> a wide tunnel of shiny silver duct tape between the orca and the dollar pipe; number 20 (mean gradient, mmHg) -> a small painting on the tunnel: a green dragon and a golden whistle; pulmonary -> the pipes of green dollar bills, overfull; hypertension -> a pressure gauge on the dollar pipe, needle in the red; atrium -> the red glass-roofed atrium lobby swollen with returning water; ventricle -> both engine rooms with their fans; pressure load -> a heavy iron weight pressing on the blue engine room's piston; volume load -> the red engine room filling like a tub with twice its water; shunt loop -> extra water looping from the orca through the tunnel, the dollar pipes and back to the red lobby; infant -> a baby breathing fast in a cradle; sweaty feeds -> the baby sweating over a bottle; both rooms -> the two rooms side by side, one straining, one brimming
+anchor: the haemodynamic consequences -> beside the wide duct-tape tunnel, the blue engine room straining against a heavy iron weight on its piston while the red engine room fills like a tub with twice its water
+scene: A silver and red nursery under a sky-blue ceiling. A baby breathes fast in a cradle, sweating over a bottle. Beside him the cut-open HART Hotel: a wide tunnel of shiny silver duct tape joins the orca to the dollar pipe, a small painting of a green dragon and a golden whistle on it; extra water loops from the orca through the tunnel into the overfull dollar pipes, whose gauge points into the red, and back into the red lobby, which is swollen. In the centre, in the strongest light: the two engine rooms stand side by side, the blue one straining against a heavy iron weight pressing on its piston, the red one filling like a tub with twice its water, brimming over.
+must: the weight is on the blue side, the overflow on the red side; no letters or digits are written anywhere
+
+== 324
+# Q: newborn, cyanosis, acidosis, small heart and congested lungs, pulmonary veins to a confluence draining down a vertical vein through the diaphragm with a velocity of 2.6 m/s: next step? A: urgent surgical repair
+# Duban rushing in by torchlight while a herald blows his horn, sewing the pinched pipe's meeting place straight onto the red lobby = urgent surgical repair of obstructed TAPVC -> ANSWER
+# the single pipe with a brass tap running down through the deck, pinched there, with a dragon, a drop and the Sitt = infracardiac TAPVC obstructed at the diaphragm, 2.6 m/s
+# the soggy money sacks, the small hotel = congested lungs, small heart
+# the blue lips, the water flowing from blue to red through the open hole = cyanosis, right-to-left atrial flow
+# the party balloon, the nitro smoke and the stein waved away = no septostomy, nitric oxide or prostaglandin (wrong options)
+title: Obstructed infracardiac TAPVC: urgent surgery
+titleAr: العود الوريدي الرئوي الشاذ الكلي تحت القلب المسدود: جراحة عاجلة
+tags: cardiac/congenital d:indications q:next-step l:1 x:high-yield
+palette: torch orange and night blue with soggy green
+words:
+keywords: tapvc -> all the dollar pipes gathered into one pipe with a brass water tap, running down through the deck; diaphragm -> the deck floor between the chest cabin and the belly hold, pinching the pipe; number 2.6 (flow velocity, m/s) -> a small painting on the deck: a green dragon, a golden drop and the Sitt in a golden gown; pulmonary edema -> soggy dollar bills dripping water from the money sacks; cyanosis -> a newborn with bright blue lips; asd -> an open hole in the upper party wall, water flowing from blue to red; balloon septostomy (no) -> a red party balloon waved away; nitric oxide (no) -> a puff of nitro smoke waved away; prostaglandin (no) -> a raised beer stein waved away; urgent -> a herald blowing a horn by torchlight; repair -> Duban sewing the pipes' meeting place straight onto the red lobby; small heart -> the hotel small and squeezed; acidosis -> a bowl of sour lemons beside the cot; breathing tube -> a small breathing tube in the baby's mouth
+anchor: the best next step -> the sage Duban rushing in by torchlight while a herald blows his horn, sewing the meeting place of the pinched pipe with the brass water tap straight onto the red lobby
+scene: A night-blue nursery lit by torches. A newborn with bright blue lips and a small breathing tube in his mouth lies in a cot, a bowl of sour lemons beside him. The cut-open HART Hotel is small and squeezed; its money sacks are soggy, dripping water; all its dollar pipes gather into one pipe with a brass water tap that runs down through the deck floor and is pinched there, a small painting of a green dragon, a golden drop and the Sitt in a golden gown on the deck; water flows from blue to red through an open hole in the upper party wall. In the centre, in the strongest light: a herald blows his horn by torchlight and the sage Duban rushes in, sewing the pipes' meeting place straight onto the red lobby. A red party balloon, a puff of nitro smoke and a raised beer stein are waved away.
+must: the pinch is where the pipe passes through the deck; no letters or digits are written anywhere
+
+== 325
+# Q: young man with a Fontan after HLHS, moderate-severe RV dysfunction, coughs blood during a chest infection, desaturated and hypotensive: besides intubation? A: high PEEP and bronchoscopy with aggressive airway clearance
+# a heavy stone set on the bellows' lid so it never empties while a telescope with a small scoop clears the red clots out of the ribbed hose = high PEEP and bronchoscopic airway clearance -> ANSWER
+# the man coughing red into the brass spittoon = haemoptysis
+# the fountain in the courtyard, the hippo = Fontan after HLHS
+# the tired single fan = RV dysfunction
+# the gills box with the flowerpot and the fishing line waved away = no ECMO with listing, no catheter embolisation first (wrong options)
+title: Haemoptysis in a Fontan patient: high PEEP and bronchoscopic airway clearance
+titleAr: نفث الدم عند مريض فونتان: ضغط زفيري مرتفع وتنظير قصبات لتنظيف المجاري الهوائية
+tags: cardiac/congenital d:complications q:next-step l:3
+palette: spittoon brass and deep red with fountain blue
+words:
+keywords: hemoptysis -> a man coughing red into a brass spittoon that is filling fast; fontan -> a stone fountain in the hotel courtyard fed by the blue wing's chimney; hypoplastic -> a little plastic toy hippo wedged into a shrunken red wing; bronchoscopy -> a lantern-tipped telescope pushed down inside the ribbed hose; ventilation -> a big leather bellows pumping air down the ribbed hose; trachea -> a big ribbed hose of white rings, red clots inside; ecmo (no) -> a pair of fish gills in a clear box beside a flowerpot, waved away; catheterization (no) -> a fishing line and reel waved away; high peep -> a heavy stone set on the bellows' lid so it never fully empties; airway clearance -> a small scoop on the telescope's tip clearing the red clots out; chest infection -> a sneezing man wrapped in a blanket; weak single room -> the single engine room's fan turning tiredly; falling pressure -> a gauge needle sinking low
+anchor: the best next step -> a heavy stone set on the bellows' lid so it never fully empties, while a lantern-tipped telescope with a small scoop clears the red clots out of the ribbed hose
+scene: A deep-red sickroom with brass fittings. A young man wrapped in a blanket sneezes and coughs red into a brass spittoon that fills fast; a gauge needle sinks low. Beside him the cut-open HART Hotel: a little plastic toy hippo is wedged into its shrunken red wing, its single engine room's fan turns tiredly, and a stone fountain in the courtyard is fed by the blue wing's chimney. A big leather bellows pumps air down a big ribbed hose of white rings with red clots inside. In the centre, in the strongest light: a heavy stone is set on the bellows' lid so it never fully empties, while a lantern-tipped telescope with a small scoop on its tip clears the red clots out of the hose. A pair of fish gills in a clear box beside a flowerpot and a fishing line and reel are waved away.
+must: the stone keeps the bellows partly full; no letters or digits are written anywhere
+
+== 326
+# Q: toddler two hours after VSD repair, heart rate 180, hypotensive, slow capillary refill; the CVP tracing shows? A: cannon A waves from loss of AV synchrony
+# a big wave slamming up the chimney with a boom each time the blue lobby squeezes against the trident's shut door, the two bells ringing out of step = cannon A waves from AV dissociation -> ANSWER
+# the knot sparking by itself, the tachometer in the red = junctional tachycardia
+# the patched lower wall = VSD repair
+# the pale fingertip slowly turning pink, the low gauge = poor perfusion, hypotension
+# the stone trident, the gurgling trident and the red water in the aquarium waved away = not tricuspid stenosis, regurgitation or tamponade (wrong options)
+title: After VSD repair, fast rate with cannon A waves: loss of AV synchrony
+titleAr: بعد إصلاح الفتحة البطينية: موجات A مدفعية بسبب فقدان التزامن الأذيني البطيني
+tags: cardiac/congenital cardiac/arrhythmia d:diagnosis q:recall l:2
+palette: sea-wave blue and bell bronze with alarm orange
+words:
+keywords: svc -> the blue wing's chimney with a tall water column gauge beside it; atrium -> the blue glass-roofed atrium lobby squeezing; tricuspid -> the trident in the blue wing's doorway, its door shut at that moment; av node -> a big tight knot at the top of the crackling bundle of branches, sparking by itself; tachycardia -> a car's tachometer bolted to the engine room, needle deep in the red; vsd -> a neat new patch on the lower party wall; hypotension -> a pressure gauge with its needle sunk low; tamponade (no) -> red water filling the aquarium, waved away; big wave -> a big wave slamming up the chimney with a boom; out of step -> two bells, one upstairs and one downstairs, ringing out of step; slow refill -> a pale fingertip pressed and slowly turning pink; cvp monitor -> a tall glass water column beside the chimney, jumping; toddler -> a toddler in a cot
+anchor: what the tracing shows -> a big wave slamming up the blue wing's chimney with a boom each time the blue lobby squeezes against the trident's shut door, while two bells ring out of step
+scene: A blue and bronze sick bay with alarm-orange lamps. A toddler lies in a cot; a nurse presses a pale fingertip that slowly turns pink, and a pressure gauge sinks low. Beside the cot the cut-open HART Hotel: a neat new patch covers the lower party wall, a big tight knot at the top of the crackling branches sparks by itself, a tachometer points deep into the red, and two bells, one upstairs and one downstairs, ring out of step. A tall glass water column stands beside the blue wing's chimney. In the centre, in the strongest light: each time the blue lobby squeezes against the trident's shut door, a big wave slams up the chimney with a boom and the water column jumps. Red water filling the aquarium is waved away.
+must: the wave goes up the chimney when the trident is shut; no letters or digits are written anywhere
+
+== 327
+# Q: infant with failing RV after Norwood with Sano, listed for transplant, blood group O, PRA above 20 percent: what gives the best 5-year survival? A: listing for an ABO-incompatible transplant
+# a gardener's cart holding terracotta flowerpots glazed in every colour, all welcome, not only the plain one = ABO-incompatible listing widens the donor pool -> ANSWER
+# the soldier ants waiting with a dragon and a whistle on their banner = PRA above 20 percent
+# the woodcutter, the waterslide and the hippo = HLHS after Norwood with Sano
+# the firework on its stand = inotrope dependence
+# the ants being washed, the gills box and Vader waved away = no desensitisation, ECMO or VAD as the best path (wrong options)
+title: Infant with blood group O awaiting transplant: list for ABO-incompatible donors
+titleAr: رضيع زمرة دمه O ينتظر الزرع: الإدراج لقبول متبرع غير متوافق في الزمرة
+tags: cardiac/congenital cardiac/heart-failure d:evidence q:recall l:3
+palette: glazed pottery colours and garden green with ant white
+words:
+keywords: transplant -> a gardener's cart holding terracotta flowerpots glazed in every colour, each with a new heart; rejection -> an army of tiny white soldier ants waiting under a banner; number 20 (panel-reactive antibodies, percent) -> a small painting on the ants' banner: a green dragon and a golden whistle; norwood -> a Norwegian woodcutter in red flannel; conduit -> a clear waterslide from the blue engine room to the dollar pipe; hypoplastic -> a little plastic toy hippo wedged into a shrunken red wing; epinephrine -> a lit red firework rocket tied to its stand; ecmo (no) -> fish gills in a clear box, waved away; vad (no) -> Darth Vader waved away; any blood group -> pots glazed red, blue, yellow and plain, all welcome; desensitization (no) -> the ants being washed in a tub, waved away; failing right side -> the blue engine room's fan sputtering; infant -> a baby in a basket; long life -> a young sapling growing tall beside the cart
+anchor: the best path to 5-year survival -> a gardener's cart holding terracotta flowerpots glazed in every colour, each with a new heart, all welcome for the baby, not only the plain one
+scene: A garden of glazed pottery in every colour. A baby lies in a basket beside the cut-open HART Hotel: a Norwegian woodcutter in red flannel stands by, a little plastic toy hippo is wedged into its shrunken red wing, a clear waterslide runs from the blue engine room to the dollar pipe, the blue engine room's fan sputters, and a lit red firework rocket is tied to its stand. An army of tiny white soldier ants waits under a banner, a small painting of a green dragon and a golden whistle on it. In the centre, in the strongest light: a gardener wheels a cart of terracotta flowerpots glazed red, blue, yellow and plain, each holding a new heart, all welcome; a young sapling grows tall beside the cart. Fish gills in a clear box, Darth Vader and the ants being washed in a tub are waved away.
+must: the pots are of many glaze colours; no letters or digits are written anywhere
+
+== 328
+# Q: child after cardiac arrest, intramural left coronary unroofed, flow now normal, LV stunned, fails two bypass weans, pO2 135 on full oxygen: next step? A: temporary LVAD
+# Darth Vader stepping in to push the red engine room's water for a while, an hourglass beside him, while the ox breathes well = temporary LVAD (lungs fine, so not ECMO) -> ANSWER
+# the nutcracker's jaws empty, the tunnel roof lifted = intramural AAOCA unroofed, flow restored
+# the red room dazed after a stun gun, lights going out, the truck failing to let go twice = stunned LV, cannot wean
+# the police officer pushing on the chest, the stuck elevator = arrest at home, ischaemic ECG
+# the gills box, the sausage and the truck restarted to rest waved away = not ECMO, IABP or more rest on bypass (wrong options)
+title: Stunned LV after unroofing an intramural coronary, cannot wean, lungs fine: temporary LVAD
+titleAr: بطين أيسر مصعوق بعد إزالة سقف شريان تاجي داخل الجدار مع تعذر الفصل ورئتين سليمتين: جهاز مساعد مؤقت
+tags: cardiac/congenital cardiac/heart-failure d:postoperative q:next-step l:3
+palette: dark-knight black and lobby red with sunrise gold
+words:
+keywords: vad -> Darth Vader with his glowing chest box stepping in to push the red engine room's water; aaoca -> a nutcracker soldier between the orca and the dollar pipe, his jaws now empty; stunning -> a stun gun zapped at the red engine room, its fan reeling, dazed; cardiogenic shock -> the HART Hotel's lights going out one by one; cpb -> the roller-pump truck that cannot let go after two tries; oxygen -> a huge ox in a clear oxygen mask breathing easily; cpr -> a police officer pushing down with straight, locked arms on the boy's chest at home; ecmo (no) -> fish gills in a clear box, waved away; temporary -> an hourglass set beside Vader; unroofed -> the roof of the spike's tunnel lifted off; pink full sacks -> the money sacks pink and full; two failed tries -> the truck's driver letting go twice and grabbing the wheel again; boy -> a boy lying pale on the table
+anchor: the most appropriate next step -> Darth Vader with his glowing chest box stepping in to push the dazed red engine room's water for a while, an hourglass set beside him, while the ox in its mask breathes easily
+scene: A black and red operating hall at sunrise. A boy lies pale on the table; in a corner picture a police officer pushes down with straight, locked arms on his chest at home. Beside him the cut-open HART Hotel: the roof of the crown spike's tunnel has been lifted off and the nutcracker soldier between the orca and the dollar pipe has empty jaws, but a stun gun has zapped the red engine room, its fan reeling and dazed, and the hotel's lights go out one by one; the roller-pump truck's driver has let go twice and grabbed the wheel again. The money sacks are pink and full, and a huge ox in a clear oxygen mask breathes easily. In the centre, in the strongest light: Darth Vader with his glowing chest box steps in to push the red engine room's water for a while, an hourglass set beside him. Fish gills in a clear box are waved away.
+must: Vader works only for the red side; no letters or digits are written anywhere

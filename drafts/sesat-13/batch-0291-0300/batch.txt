@@ -1,0 +1,169 @@
+book: sesat-13
+style: a vivid fairy-tale illustration of the Arabian Nights in the manner of a modern 3D animated feature film: rounded, expressive characters, glowing jewel-tone colour, warm lantern light with soft shadows, ornate Abbasid Baghdad, its souks, palaces and the seas of Sindbad, every object solid, crisp and instantly recognisable
+theme: the world of the Arabian Nights: the Baghdad of Harun al-Rashid, the souks on the Tigris and the voyages of Sindbad; the sage physician Duban (white beard, green turban) is the recurring healer and Shahrazad tells the tales; stories end with a genuine line from Kalila wa Dimna, a famous Arabic proverb or a line of classical Arabic poetry, spoken by one of the characters
+
+== 291
+# Q: repair of the defect shown (an atrioventricular septal defect with a ventricular component): the patch is secured to? A: the crest of the ventricular septum
+# Duban stitching the sail-cloth patch along the wave-shaped crest on top of the lower party wall = patch secured to the crest of the ventricular septum -> ANSWER
+# the cross-shaped hole where the walls should meet = AVSD with its ventricular part
+# the split mitre leaf, the ridge in the blue lobby and the little flap at the drainpipe waved away = not the cleft, the crista terminalis or the Eustachian valve (wrong options)
+title: Closing the ventricular part of an AVSD: sew the patch to the crest of the septum
+titleAr: إغلاق الجزء البطيني من القناة الأذينية البطينية: خياطة الرقعة على قمة الحاجز
+tags: cardiac/congenital d:technique q:recall l:2
+palette: sail white and sea teal with brick red
+words:
+keywords: avsd -> a big cross-shaped hole where the upper and lower party walls should meet; vsd -> the thick brick lower party wall below the hole; asd -> the thin upper party wall above the hole; mitral (no) -> the bishop's mitre's front leaf with a split, waved away; ivc -> a big blue drainpipe coming up into the floor of the hotel; crest -> the top edge of the lower party wall shaped like the crest of a wave; patch -> a sail-cloth patch stitched along that crest; stitches -> a row of neat stitches running along the crest; crista terminalis (no) -> a ridge on the blue lobby's wall, waved away; eustachian valve (no) -> a little flap at the drainpipe's mouth, waved away; boy -> a small boy holding a toy sailing boat; firm hold -> brass pins at each end of the patch
+anchor: where the patch is secured -> the sage Duban stitching a sail-cloth patch along the wave-shaped crest on top of the thick lower party wall, under the cross-shaped hole
+scene: A harbour workshop in sea teal and sail white. A small boy holds a toy sailing boat beside the cut-open HART Hotel, a big cross-shaped hole where its upper and lower party walls should meet; a big blue drainpipe comes up into its floor. In the centre, in the strongest light: the sage Duban stitches a sail-cloth patch along the top edge of the thick brick lower party wall, an edge shaped like the crest of a wave, with a row of neat stitches and a brass pin at each end. The bishop's mitre's split front leaf, a ridge on the blue lobby's wall and a little flap at the drainpipe's mouth are waved away.
+must: the stitches run along the top of the lower wall; no letters or digits are written anywhere
+
+== 292
+# Q: newborn with HLHS (aortic and mitral atresia) on prostaglandin, worsening respiratory distress, good RV, wide duct with retrograde arch flow, small atrial gradient: next step? A: start diuretics
+# a cowboy's lasso pulling the extra water out of the soggy dollar pipes while the beer stein keeps the duct-tape tunnel wide open = diuretics for pulmonary overcirculation -> ANSWER
+# the hippo in the shrunken red wing, the orca's mouth and the mitre welded shut = HLHS with aortic and mitral atresia
+# the water running backwards up the orca's arch = retrograde arch flow through the duct
+# the comfortable opening in the upper wall = unrestrictive atrial septum
+# the party balloon, the nitro smoke and a second stein waved away = no septostomy, no nitric oxide, no more prostaglandin (wrong options)
+title: HLHS on prostaglandin with pulmonary overcirculation: start diuretics
+titleAr: متلازمة نقص تنسج القلب الأيسر مع فرط الجريان الرئوي: ابدأ المدرّات
+tags: cardiac/congenital d:pharmacology q:next-step l:2 x:trap
+palette: cowboy leather and money green with stein gold
+words:
+keywords: furosemide -> a cowboy's lasso pulling water out of the flooded dollar pipes; hypoplastic -> a little plastic toy hippo wedged into a red wing shrunk to doll size; atresia -> the orca's mouth and the bishop's mitre welded shut with thick iron caps; prostaglandin -> a raised beer stein propping the duct-tape tunnel open; ductus -> a wide tunnel of shiny silver duct tape between the dollar pipe and the orca; pulmonary edema -> soggy dollar bills dripping water; balloon septostomy (no) -> a round red party balloon on a string, waved away; nitric oxide (no) -> a puff of nitro smoke waved away; backward arch flow -> water running backwards up the orca's arch; open septum -> a comfortable opening in the upper party wall; breathless newborn -> a newborn breathing fast and hard; overflow to lungs -> water flooding into the dollar pipes; strong right pump -> the blue engine room's fan spinning hard; flooded floor -> water pooling on the floor under the dollar pipes
+anchor: the best next step -> a cowboy's lasso pulling the extra water out of the soggy dollar pipes, while the raised beer stein keeps the wide duct-tape tunnel open
+scene: A leather-and-gold saloon of a desert inn. A newborn breathes fast and hard in a basket beside the cut-open HART Hotel: a little plastic toy hippo is wedged into its red wing, shrunk to doll size, the orca's mouth and the bishop's mitre are welded shut with thick iron caps, and a comfortable opening sits in the upper party wall. A raised beer stein props open a wide tunnel of shiny silver duct tape between the dollar pipe and the orca; water runs backwards up the orca's arch and floods into the dollar pipes, whose bills are soggy and dripping onto a flooded floor, while the blue engine room's fan spins hard. In the centre, in the strongest light: a cowboy swings his lasso and pulls the extra water out of the soggy dollar pipes. A round red party balloon on a string and a puff of nitro smoke are waved away.
+must: the stein stays in place; no letters or digits are written anywhere
+
+== 293
+# Q: partial AVSD repair, cleft only partly closed because of close papillary muscles; moderate-severe central MR with anterior prolapse, orifice adequate: resume bypass and? A: close the cleft down to the level of the chordal insertion
+# Duban stitching the split in the mitre's front leaf all the way down to where the harp strings attach = close the cleft to the level of chordal insertion -> ANSWER
+# the patched prime rib hole = primum ASD closed with a patch
+# the few stitches only at the top of the split, water gurgling through the middle, the leaf billowing = partial cleft closure, central MR, anterior prolapse
+# the two red pillars close together = closely spaced papillary muscles
+# the bow tie waved away = no Alfieri stitch, no De Vega, no fenestration (wrong options)
+title: Leak after partial AVSD repair: close the cleft down to the chordae
+titleAr: قلس بعد إصلاح القناة الأذينية البطينية الجزئية: أغلق الشق حتى مستوى الحبال الوترية
+tags: cardiac/congenital cardiac/mitral-tricuspid d:technique q:next-step l:3
+palette: needlework gold and mitre white with harp brown
+words:
+keywords: primum -> a prime rib roast hole at the bottom of the upper party wall, now covered with a patch; mitral -> the bishop's mitre in the red engine room's doorway; regurgitation -> water gurgling back through the middle of the mitre; chordae -> harp strings tying the mitre's front leaf down to the floor; papillary muscle -> two thick red muscular pillars standing close together; prolapse -> the front leaf billowing up like a sail; tee -> a bat sliding down inside the pink sofa slide behind the hotel; alfieri (no) -> a black bow tie waved away; cpb -> the roller-pump truck restarted; cleft -> a split down the middle of the mitre's front leaf; full closure -> Duban stitching the split all the way down to where the harp strings attach; few stitches -> only a few stitches at the top of the split; boy -> a small boy with a toy drum; adequate opening -> a tailor's tape across the mitre's doorway showing it wide enough
+anchor: the most appropriate management -> the sage Duban stitching the split down the middle of the mitre's front leaf all the way down to where the harp strings attach, the roller-pump truck running again
+scene: A gold-lit needlework hall. A small boy with a toy drum stands beside the cut-open HART Hotel and the roller-pump truck, its engine just restarted. A patch covers the prime rib hole at the bottom of the upper party wall. In the red engine room's doorway the bishop's mitre's front leaf has a split down its middle with only a few stitches at the top; water gurgles back through the middle and the front leaf billows up like a sail; a tailor's tape across the doorway shows it is wide enough; its harp strings tie it down to two thick red pillars standing close together. A bat slides down inside a pink sofa slide behind the hotel. In the centre, in the strongest light: the sage Duban stitches the split all the way down to where the harp strings attach. A black bow tie is waved away.
+must: the stitches reach down to the harp strings; no letters or digits are written anywhere
+
+== 294
+# Q: woman whose VSD "closed by itself", worse exercise tolerance since childbirth, headache, bulging neck veins on effort, blue hands and feet: cause? A: infundibular RVOT obstruction
+# the kitchen funnel from the blue room up to the dollar pipe squeezed narrow by thick red muscle bands = infundibular RV outflow obstruction -> ANSWER
+# the sealed old hole in the lower wall = the VSD that closed
+# the chimney swelling on effort, the blue hands and feet = high right-sided pressure, cyanosis on exertion
+# the new mother stopping on the stairs = worse since giving birth
+# the clamp on the pipe's door, the clock and an open hole waved away = not valve stenosis, ASD or open VSD (wrong options)
+title: Exertional cyanosis after a VSD "closed": infundibular RV outflow obstruction
+titleAr: زرقة عند الجهد بعد «انغلاق» الفتحة البطينية: انسداد قمعي في مخرج البطين الأيمن
+tags: cardiac/congenital d:diagnosis q:vignette l:3
+palette: muscle red and kitchen copper with cool blue
+words:
+keywords: infundibulum -> a kitchen funnel leading from the blue engine room up into the pipe of dollar bills; vsd -> an old hole in the lower party wall, sealed over; rvh -> the blue engine room's walls swollen thick; svc -> the blue wing's chimney bulging on effort; cyanosis -> a woman with blue lips, hands and feet; bulging neck veins -> veins standing out like ropes on her neck; echo -> a bat sending rings at the funnel; pulmonary stenosis (no) -> an iron clamp on the dollar pipe's door, waved away; secundum (no) -> a round clock in the upper party wall, waved away; muscle bands -> thick red muscle bands squeezing the funnel narrow; new mother -> a woman with a baby on her hip stopping on the stairs; headache -> the woman pressing her temple; open hole (no) -> an open hole in the lower wall, waved away
+anchor: what causes her symptoms -> the kitchen funnel from the blue engine room up to the dollar pipe squeezed narrow by thick red muscle bands
+scene: A copper kitchen in a Baghdad house. A woman with a baby on her hip stops on the stairs, pressing her temple, her lips, hands and feet blue, veins standing out like ropes on her neck. Beside her the cut-open HART Hotel: an old hole in the lower party wall is sealed over, the blue engine room's walls are swollen thick, the blue wing's chimney bulges, and a bat sends its rings. In the centre, in the strongest light: the kitchen funnel leading from the blue engine room up into the pipe of dollar bills is squeezed narrow by thick red muscle bands, the water struggling through it. An iron clamp on the dollar pipe's door, a round clock in the upper party wall and an open hole in the lower wall are waved away.
+must: the narrowing is in the funnel below the pipe's door; no letters or digits are written anywhere
+
+== 295
+# Q: newborn with d-TGA and a large posterior malalignment VSD: most likely additional finding? A: pulmonary valve hypoplasia
+# the top of the lower wall pushed backwards under the dollar pipe, its door shrunk to a tiny doll-sized door = posterior malalignment narrows the (posterior) pulmonary outflow, a small pulmonary valve -> ANSWER
+# the orca and the dollar pipe swapped = transposition
+# the newborn's blue lips = desaturation
+# the rope on the orca, the funnel and the small trident waved away = not coarctation (anterior malalignment), not RVOT obstruction, not a small tricuspid (wrong options)
+title: TGA with posterior malalignment VSD: expect a small pulmonary valve
+titleAr: تبدّل الشرايين الكبيرة مع فتحة بطينية بانزياح خلفي: توقّع صمامًا رئويًا صغيرًا
+tags: cardiac/congenital d:anatomy q:recall l:2
+palette: dollhouse pink and railway grey with money green
+words:
+keywords: transposition -> the orca and the dollar pipe swapped, the orca leaving the blue engine room; vsd -> a large hole in the lower party wall; pulmonary -> the pipe of green dollar bills; cyanosis -> a newborn with blue lips; coarctation (no) -> a rope on the orca's waist, waved away; infundibulum (no) -> a kitchen funnel in the blue room, waved away; tricuspid (no) -> a small trident waved away; posterior shift -> the top of the lower wall pushed backwards under the dollar pipe; small valve -> the dollar pipe's door shrunk to a tiny doll-sized door; crowded outlet -> a stone of the shifted wall jutting into the dollar pipe's doorway; newborn -> a newborn in a pink cradle; fortune teller -> a fortune teller pointing at the tiny door
+anchor: the most likely finding -> the dollar pipe's door shrunk to a tiny doll-sized door, the top of the lower party wall pushed backwards right under it
+scene: A pink dollhouse shop by a railway. A newborn with blue lips lies in a pink cradle beside the cut-open HART Hotel, in which the orca and the pipe of green dollar bills are swapped, the orca leaving the blue engine room; a large hole pierces the lower party wall. A fortune teller points. In the centre, in the strongest light: the top of the lower party wall is pushed backwards right under the dollar pipe, a stone of it jutting into the doorway, and the dollar pipe's door has shrunk to a tiny doll-sized door. A rope on the orca's waist, a kitchen funnel in the blue room and a small trident are waved away.
+must: the tiny door belongs to the dollar pipe; no letters or digits are written anywhere
+
+== 296
+# Q: bloodless surgery (Jehovah's Witness family), ultrafiltration on bypass: the rate of effluent removal depends mainly on? A: transmembrane pressure
+# a press pushing down on the cheesecloth on one side while a pump sucks on the other, clear water dripping out = transmembrane pressure drives ultrafiltration -> ANSWER
+# the cheesecloth sieve on the truck's hose = ultrafiltration on the bypass circuit
+# the family refusing the bag of red doughnuts = no transfusion
+# the shower curtain removed = subaortic membrane resection
+# the faster wheels, the salt jar and the magnifying glass waved away = not flow rate, electrolytes or pore size (wrong options)
+title: Ultrafiltration on bypass: the rate depends on transmembrane pressure
+titleAr: الترشيح الفائق على المجازة: يعتمد المعدل على الضغط عبر الغشاء
+tags: cardiac/cpb d:physiology q:recall l:2
+palette: cheesecloth white and press-iron grey with doughnut red
+words:
+keywords: cpb -> a big roller-pump truck with its hoses running; red cells -> red doughnuts floating in the hose, kept inside; transfusion (refused) -> a bag of red doughnuts pushed away by the family; subaortic stenosis -> a shower curtain just taken down from the red engine room's doorway; hypertension -> a pressure gauge on the press, needle high; ultrafiltration -> a fine cheesecloth sieve fitted on the truck's hose; transmembrane pressure -> an iron press pushing down on one side of the cheesecloth while a hand pump sucks on the other; effluent -> clear water dripping out into a glass jar; family -> parents holding hands and shaking their heads; flow rate (no) -> the truck's wheels spun faster, waved away; electrolytes (no) -> a jar of salt waved away; pore size (no) -> a magnifying glass on the cloth, waved away
+anchor: what the rate depends on -> an iron press pushing down on one side of the cheesecloth sieve on the roller-pump truck's hose while a hand pump sucks on the other side, clear water dripping out
+scene: A cheesemaker's room in grey and white. Parents hold hands and shake their heads, pushing away a bag of red doughnuts. Beside them the cut-open HART Hotel, a shower curtain just taken down from the red engine room's doorway, and a big roller-pump truck with its hoses running, red doughnuts floating inside the hose. In the centre, in the strongest light: a fine cheesecloth sieve is fitted on the truck's hose; an iron press with a pressure gauge pushes down on one side of the cloth while a hand pump sucks on the other, and clear water drips out into a glass jar while the red doughnuts stay inside. The truck's wheels spun faster, a jar of salt and a magnifying glass on the cloth are waved away.
+must: the doughnuts stay in the hose and only clear water drips out; no letters or digits are written anywhere
+
+== 297
+# Q: newborn with a diaphragmatic hernia on neck VA ECMO with a roller pump; the venous cannula is kinked behind the clavicle: likely complication? A: microemboli with inflow line occlusion
+# the rolling pin sucking so hard on the kinked brass cannon hose that it fizzes and spits tiny black bowling balls into the gills box = high suction on an occluded drainage line causes cavitation and microemboli -> ANSWER
+# the brass cannon in the baby's neck bent behind the collarbone = kinked venous cannula
+# the gills box and the rolling pin = VA ECMO with a roller pump
+# the belly things pushing up through a hole in the deck = congenital diaphragmatic hernia
+# the soap bubble from an empty tank and the pump running backwards waved away = not air entrainment, not retrograde flow (wrong options)
+title: Kinked venous cannula on roller-pump ECMO: cavitation and microemboli
+titleAr: قنية وريدية ملتوية على الإكمو بمضخة أسطوانية: تجويف وانصمامات دقيقة
+tags: cardiac/congenital cardiac/cpb d:complications q:recall l:3
+palette: neonatal white and gill red with steel
+words:
+keywords: ecmo -> a pair of big red fish gills in a clear box on a bedside trolley; roller pump -> a big rolling pin rolling round over a clear tube, squeezing it; cannulation -> a small brass cannon in the baby's neck, its hose bent behind the collarbone; embolism -> tiny black bowling balls spat out into the gills box; diaphragm -> the deck floor between the chest cabin and the belly hold, with a hole in it; air embolism (no) -> a soap bubble from an empty tank, waved away; kink -> the hose bent sharply behind the collarbone; cavitation -> the hose's walls sucked flat and fizzing; hernia -> belly things pushing up through the hole in the deck; newborn -> a tiny newborn on a warmer; reverse flow (no) -> the rolling pin rolling backwards, waved away; occluded line -> the clear tube pinched shut before the rolling pin
+anchor: the most likely complication -> the big rolling pin sucking so hard on the kinked cannon hose that the hose's walls go flat and fizz and tiny black bowling balls spit out into the red gills box
+scene: A white neonatal room with steel trolleys. A tiny newborn lies on a warmer; belly things push up through a hole in the deck floor beneath his chest. A small brass cannon sits in his neck, its hose bent sharply behind the collarbone and pinched shut, running to a big rolling pin that rolls round over a clear tube, and on to a pair of big red fish gills in a clear box on a trolley. In the centre, in the strongest light: the rolling pin sucks so hard on the kinked hose that its walls go flat and fizz, and tiny black bowling balls spit out into the gills box. A soap bubble from an empty tank and the rolling pin rolling backwards are waved away.
+must: the kink is behind the collarbone; no letters or digits are written anywhere
+
+== 298
+# Q: repaired tetralogy, free pulmonary regurgitation, RVOT 28 mm, RVEDVi 145, QRS 110, less endurance at sport: next step? A: transcatheter pulmonary valve replacement
+# a folded tissue box carried up a fishing line from the groin and sprung open in the dollar pipe's doorway painted with a dragon and a violin = transcatheter pulmonary valve in a 28 mm outflow -> ANSWER
+# the raft ashore, water gurgling back through the empty doorway = repaired tetralogy, free PR
+# the blue room swollen like a pumpkin, the magnet = RV dilated on MRI
+# the polo player slowing = less endurance
+# the stern being opened, the strap recorder and the yearly magnet waved away = not surgery, Holter or another year of waiting (wrong options)
+title: Repaired tetralogy with symptoms and a suitable outflow: transcatheter pulmonary valve
+titleAr: رباعية فالو المصلحة مع أعراض ومخرج مناسب: صمام رئوي عبر القثطرة
+tags: cardiac/congenital d:indications q:next-step l:2 x:guideline
+palette: polo green and catheter silver with tissue white
+words:
+keywords: tetralogy -> a raft of four logs pulled ashore long ago; regurgitation -> water gurgling back through the dollar pipe's empty doorway; catheterization -> a long thin fishing line paid out from a reel up from the groin; tissue valve -> a soft paper tissue box folded small on the line, springing open in the doorway; number 28 (outflow size, mm) -> a small painting on the doorway: a green dragon and a violin; mri -> a giant red horseshoe magnet that has just measured the hotel; sternotomy (no) -> the stern of a ship opened down its centre, waved away; transcatheter -> the folded box travelling up inside the line's path; swollen right side -> the blue engine room swollen like a pumpkin; less endurance -> a polo player slowing down on his horse; holter (no) -> a little recorder box on a strap, waved away; waiting (no) -> another year's caravan waved away
+anchor: the best next step -> a soft paper tissue box folded small on a fishing line from the groin, springing open in the dollar pipe's doorway, a small dragon and violin painted on the doorway
+scene: A green polo field with a silver pavilion. A polo player slows down on his horse. Beside the field a raft of four logs lies ashore long ago, and the cut-open HART Hotel stands with its blue engine room swollen like a pumpkin; water gurgles back through the dollar pipe's empty doorway, a small painting of a green dragon and a violin on the doorway. A giant red horseshoe magnet hangs just after measuring the hotel. In the centre, in the strongest light: a long thin fishing line paid out from a reel up from the groin carries a soft paper tissue box folded small, which springs open in the dollar pipe's doorway. The stern of a ship opened down its centre, a little recorder box on a strap and another year's caravan are waved away.
+must: the valve arrives on the line, not through an opened stern; no letters or digits are written anywhere
+
+== 299
+# Q: fetal diagnosis of a small (3-4 mm) perimembranous VSD, nothing else: what do you tell the mother? A: spontaneous closure is likely
+# ivy and the trident's leaf growing over the small hole beside the drum skin until it closes by itself, Duban's calm open hand = small perimembranous VSDs often close spontaneously -> ANSWER
+# the small hole in the lower wall next to the drum skin with a fox and a cap = 3-4 mm perimembranous VSD
+# the baby curled in the glass globe and the mother = fetal diagnosis
+# the stern being opened and the calendar waved away = no planned repair (wrong options)
+title: Small perimembranous VSD found before birth: it will likely close by itself
+titleAr: فتحة بطينية حول غشائية صغيرة قبل الولادة: الغالب أن تنغلق تلقائيًا
+tags: cardiac/congenital d:diagnosis q:recall l:1
+palette: ivy green and pearl with soft dawn pink
+words:
+keywords: vsd -> a small hole in the lower party wall; membranous septum -> a small thin drum skin set into the party wall right under the orca's mouth, beside the hole; tricuspid -> the trident's leaf growing over the hole; number 3 to 4 (size, mm) -> a small painting beside the hole: a red fox and a graduation cap; sternotomy (no) -> the stern of a ship opened down its centre, waved away; closing by itself -> ivy growing over the hole until it seals; reassurance -> Duban's calm open hand; fetus -> a baby curled up in a glass globe; mother -> a young mother in a pearl veil, listening and smiling; planned repair (no) -> a calendar of months waved away; healed -> the wall smooth where the hole was; otherwise healthy -> the rest of the little hotel spotless and bright
+anchor: what you tell her -> ivy and the trident's leaf growing over the small hole beside the drum skin until the wall is smooth again, the sage Duban holding out his calm open hand
+scene: A pearl-white room with ivy at the windows at dawn. A young mother in a pearl veil listens and smiles, a baby curled up in a glass globe beside her. Inside the globe a small cut-open HART Hotel, otherwise spotless and bright, shows a small hole in the lower party wall beside a small thin drum skin under the orca's mouth, a small painting of a red fox and a graduation cap beside it. In the centre, in the strongest light: ivy and the trident's leaf grow over the small hole until it seals and the wall is smooth again, and the sage Duban holds out his calm open hand to the mother. The stern of a ship opened down its centre and a calendar of months are waved away.
+must: the hole closes by itself, no tools; no letters or digits are written anywhere
+
+== 300
+# Q: infant with a left pulmonary artery sling and long-segment tracheal narrowing with complete rings: besides moving the pulmonary artery, surgery must include? A: slide tracheoplasty
+# Duban cutting the narrow stretch of the ribbed hose across, slitting the two halves and sliding them over each other, then stitching them into one short wide tube = slide tracheoplasty -> ANSWER
+# the left dollar pipe looping like a sling round the hose = PA sling
+# the long stretch of the hose made of full O rings, narrow = long-segment stenosis with complete rings
+# the coughing baby = recurrent infections and distress
+# the hooks, the cut-out piece and the Slinky inside the hose waved away = no aortopexy, segmental resection or stent (wrong options)
+title: PA sling with long-segment tracheal stenosis: slide tracheoplasty
+titleAr: الحبال الرئوي مع تضيّق رغامي طويل: رأب الرغامى الانزلاقي
+tags: cardiac/congenital d:technique q:recall l:2
+palette: tailor's chalk white and ribbon blue with money green
+words:
+keywords: pa sling -> the left pipe of dollar bills looping like a sling round the back of the ribbed hose; trachea -> a big ribbed hose of white rings; cpb -> the roller-pump truck running beside the table; pulmonary -> the pipes of green dollar bills; pci (no) -> a coiled Slinky pushed inside the hose, waved away; slide tracheoplasty -> Duban slitting the two halves of the cut hose and sliding them over each other into one short wide tube; complete rings -> a long stretch of the hose made of full O rings, narrow; recurrent infections -> a baby coughing again and again; moved pipe -> the dollar pipe lifted to the front of the hose; aortopexy (no) -> iron hooks waved away; resection (no) -> a cut-out piece of hose waved away; baby -> a small baby on a padded table
+anchor: what surgery must include -> the sage Duban cutting the narrow stretch of the ribbed hose across, slitting its two halves and sliding them over each other into one short, wide tube
+scene: A tailor's workshop with chalk-white tables and blue ribbons. A small baby who coughs again and again lies on a padded table, the roller-pump truck running beside it. Above the baby a big ribbed hose of white rings has a long stretch made of full O rings, narrow, and the left pipe of green dollar bills loops like a sling round the back of it; a helper lifts the dollar pipe to the front of the hose. In the centre, in the strongest light: the sage Duban cuts the narrow stretch across, slits its two halves and slides them over each other into one short, wide tube, stitching it neatly. Iron hooks, a cut-out piece of hose and a coiled Slinky pushed inside the hose are waved away.
+must: the two halves overlap and the tube becomes wider; no letters or digits are written anywhere

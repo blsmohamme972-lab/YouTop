@@ -1,0 +1,165 @@
+book: sesat-13
+style: a vivid fairy-tale illustration of the Arabian Nights in the manner of a modern 3D animated feature film: rounded, expressive characters, glowing jewel-tone colour, warm lantern light with soft shadows, ornate Abbasid Baghdad, its souks, palaces and the seas of Sindbad, every object solid, crisp and instantly recognisable
+theme: the world of the Arabian Nights: the Baghdad of Harun al-Rashid, the souks on the Tigris and the voyages of Sindbad; the sage physician Duban (white beard, green turban) is the recurring healer and Shahrazad tells the tales; stories end with a genuine line from Kalila wa Dimna, a famous Arabic proverb or a line of classical Arabic poetry, spoken by one of the characters
+
+== 281
+# Q: after morbidity and mortality reviews, the best training to improve patient safety in the ICU? A: communication coaching for the whole ICU team
+# a coach teaching the whole crew round the sick bed to call and answer through brass speaking tubes = communication coaching for the entire team -> ANSWER
+# the bellows, the gills box and the firework drip round the bed = the ICU
+# the coffin waved away = harm prevented
+# the finger pointing at one nurse, the whetstone and the juggling balls waved away = not blaming individuals, not technical or psychomotor drills (wrong options)
+title: Patient safety in the ICU: coach the whole team to communicate
+titleAr: سلامة المرضى في العناية المركزة: تدريب الفريق كله على التواصل
+tags: cardiac/perioperative d:evidence q:recall l:1
+palette: night-ward indigo and brass with warm lamp light
+words:
+keywords: ventilation -> a big leather bellows pumping beside the bed; ecmo -> a pair of big red fish gills in a clear box on a bedside trolley; epinephrine -> a lit red firework rocket in the drip stand; death (prevented) -> a coffin pushed out of the door; communication -> brass speaking tubes joining every member of the crew round the bed; coaching -> a coach with a drum teaching them to call and answer in turn; whole team -> doctor, nurse, perfusionist and pharmacist all holding speaking tubes; review of mistakes -> a big book of past mistakes open on a lectern; blaming one person (no) -> a finger pointing at one nurse, waved away; technical skills (no) -> a whetstone for sharpening knives, waved away; drills (no) -> juggling balls waved away; patient -> a sleeping patient in the middle of the circle; cpb -> a roller-pump truck parked at the ward door
+anchor: the best next step in training -> a coach with a small drum teaching the whole crew round the sick bed, by the bellows and the fish-gills box, to call and answer one another through brass speaking tubes
+scene: An indigo night ward in a Baghdad hospital, brass lamps glowing. A sleeping patient lies in the middle of a circle: a big leather bellows pumps beside the bed, a pair of big red fish gills works in a clear box on a trolley, and a lit red firework rocket stands in the drip stand; a roller-pump truck is parked at the ward door. A big book of past mistakes lies open on a lectern, and a coffin is being pushed out of the door. In the centre, in the strongest light: a coach with a small drum teaches the whole crew round the bed, doctor, nurse, perfusionist and pharmacist, to call and answer one another in turn through brass speaking tubes that join them all. A finger pointing at one nurse, a whetstone for sharpening knives and juggling balls are waved away.
+must: every member of the crew holds a speaking tube; no letters or digits are written anywhere
+
+== 282
+# Q: child after neonatal repair of interrupted arch and VSD, small residual VSD now larger with RA enlargement, peak gradient 85: management? A: surgical closure of the VSD
+# Duban sewing a new patch over the widened gap at the torn edge of the old patch in the lower party wall = surgical closure of the residual VSD -> ANSWER
+# the orca's two halves sewn back together = interrupted arch repaired
+# the hissing jet with a violin and a hamsa, the swollen blue lobby = gradient 85, RA enlargement
+# the cufflinks, the yoke with the magnet and the hourglass waved away = no device, no MRI for Qp:Qs, no waiting (wrong options)
+title: Residual VSD growing after arch and VSD repair: close it surgically
+titleAr: فتحة بطينية متبقية تكبر بعد إصلاح القوس والفتحة: الإغلاق الجراحي
+tags: cardiac/congenital d:indications q:next-step l:2
+palette: patchwork teal and terracotta with brass needles
+words:
+keywords: interrupted arch -> the orca balloon once cut in two at its arch, now sewn back together with a long seam; vsd -> the thick brick lower party wall with an old patch; number 85 (peak gradient, mmHg) -> a small painting beside the gap: a violin and a blue hamsa hand; atrium -> the blue glass-roofed atrium lobby swollen; occluder (no) -> round silver cufflinks waved away; qp qs (no) -> a water-carrier's yoke beside a horseshoe magnet, waved away; surgical closure -> Duban sewing a new patch over the gap; torn old patch -> the old patch's edge torn, the gap widened; hissing jet -> water hissing through the gap; child -> a little child holding a wooden toy camel; waiting (no) -> an hourglass waved away; afterload reduction (no) -> the city gates at the end of the orca being opened wider, waved away
+anchor: the best management -> the sage Duban sewing a new patch over the widened gap at the torn edge of the old patch in the thick lower party wall
+scene: A teal and terracotta workshop full of brass needles. A little child holds a wooden toy camel beside the cut-open HART Hotel. The orca balloon, once cut in two at its arch, is sewn back together with a long seam. In the thick brick lower party wall an old patch has torn at its edge and the gap has widened; water hisses through it, a small painting of a violin and a blue hamsa hand beside it, and the blue glass-roofed lobby above is swollen. In the centre, in the strongest light: the sage Duban sews a new patch over the widened gap. Round silver cufflinks, a water-carrier's yoke beside a horseshoe magnet, an hourglass and the city gates being opened wider are waved away.
+must: no letters or digits are written anywhere
+
+== 283
+# Q: pregnant woman (12 weeks), coarctation repaired in infancy, hypertensive with LV hypertrophy and a 35 mmHg recoarctation gradient: next? A: control the blood pressure, stent in the third trimester
+# Duban turning the boiler's release wheel to calm the gauge now, a coiled Slinky waiting on a tray until the pomegranate is fully ripe = control hypertension now, stent the recoarctation in the third trimester -> ANSWER
+# the rope tightening again round the old seam at the orca's waist, a fox and a hamsa on it = recoarctation, gradient 35
+# the pregnant woman with the dusty appointment card = pregnancy, lost to follow-up
+# the red room's thick walls = LV hypertrophy
+# the magnet, the surgeon's saw and the leather bladder waved away = not MRI first, not surgery, not balloon after delivery (wrong options)
+title: Recoarctation in pregnancy: control the pressure, stent in the third trimester
+titleAr: عودة تضيق البرزخ أثناء الحمل: ضبط الضغط ثم الدعامة في الثلث الأخير
+tags: cardiac/congenital d:indications q:vignette l:3 x:trap
+palette: pomegranate red and soft ivory with boiler copper
+words:
+keywords: coarctation -> a rope tightening again round the old seam at the orca's waist; number 35 (gradient, mmHg) -> a small painting on the rope's knot: a red fox and a blue hamsa hand; hypertension -> the big round pressure gauge, needle in the red; pci -> a coiled metal Slinky on a tray, waiting to be slid into the orca's waist; mri (no) -> a horseshoe magnet waved away; ventricle -> the red engine room with its fan, its walls grown thick; pressure control -> Duban turning the brass release wheel of a hissing boiler; third trimester -> a pomegranate on a branch, waiting until it is fully ripe; pregnant woman -> a young woman with her hand on her rounded belly; lost to follow-up -> a dusty old appointment card; surgery (no) -> a surgeon's saw waved away; balloon after delivery (no) -> an old leather bladder waved away
+anchor: the best next step -> the sage Duban turning the brass release wheel of the hissing boiler so the gauge's needle falls now, while a coiled Slinky waits on a tray beside a pomegranate that is not yet fully ripe
+scene: An ivory room with pomegranate-red cushions. A young woman rests her hand on her rounded belly, a dusty old appointment card on the table. Beside her the cut-open HART Hotel: a rope tightens again round the old seam at the orca balloon's waist, a small painting of a red fox and a blue hamsa hand on its knot; the red engine room's walls have grown thick, and the big round pressure gauge points into the red. In the centre, in the strongest light: the sage Duban turns the brass release wheel of a hissing copper boiler, and the needle starts to fall, while a coiled metal Slinky waits on a tray beside a pomegranate on its branch that is not yet fully ripe. A horseshoe magnet, a surgeon's saw and an old leather bladder are waved away.
+must: the Slinky waits, it is not used yet; no letters or digits are written anywhere
+
+== 284
+# Q: coarctation repair through a left thoracotomy: on clamping, right radial pressure rises to 175/100, femoral pressure 45: next step? A: proceed with the complete repair
+# Duban going straight on, cutting out the rope and sewing the orca's waist while the tongs hold it, the leg gauge with a cap and a hamsa, the kiwi calm = proceed with the repair -> ANSWER
+# the upper gauge in the red on the arm, the little side streams feeding the tail = proximal hypertension, collaterals keep the distal pressure
+# the side lid of the chest open = left thoracotomy
+# the bypass tube, the truck and the vase waved away = no Gott shunt, no partial bypass, no drugs to lower the arm pressure (wrong options)
+title: Coarctation clamp with a distal pressure of 45: go on with the repair
+titleAr: عند ملقط تضيق البرزخ مع ضغط بعيد ٤٥: أكمل الإصلاح
+tags: cardiac/congenital d:technique q:next-step l:2
+palette: workshop iron and sunset amber with kiwi brown
+words:
+keywords: coarctation -> a rope pinching the orca's waist just past its left flipper; cross-clamp -> giant X-shaped iron tongs clamped across the orca above and below the rope; hypertension -> a pressure gauge on the right arm, needle in the red; hypotension -> a second gauge on the leg, needle lower but steady; number 45 (femoral pressure, mmHg) -> a small painting on the leg gauge: a graduation cap and a blue hamsa hand; adamkiewicz -> a little brown kiwi bird resting calmly on the back of the orca; thoracotomy -> the side lid of a treasure chest open on its hinges; cpb (no) -> a roller-pump truck waved away; vasopressor (no) -> two hands pressing a porcelain vase, waved away; proceed -> Duban cutting out the rope and sewing the waist at once; collaterals -> little side streams running round to feed the orca's tail; shunt (no) -> a bypass tube from the arch to the tail, waved away; child -> a small child asleep on the table; upper body high -> the child's face and arms flushed red
+anchor: the best next step -> the sage Duban going straight on, cutting out the rope and sewing the orca's waist while the giant tongs hold it, the leg gauge steady with a small cap and hamsa on it and the kiwi resting calmly
+scene: An iron workshop at sunset, amber light. A small child sleeps on the table, his face and arms flushed red, the side lid of a treasure chest open on its hinges beside him. The orca balloon is pinched by a rope just past its left flipper, and giant X-shaped iron tongs clamp it above and below the rope. A pressure gauge on the right arm points into the red, while a second gauge on the leg reads lower but steady, a small painting on it of a graduation cap and a blue hamsa hand; little side streams run round to feed the orca's tail, and a little brown kiwi bird rests calmly on its back. In the centre, in the strongest light: the sage Duban goes straight on, cutting out the rope and sewing the orca's waist. A bypass tube from the arch to the tail, a roller-pump truck and two hands pressing a porcelain vase are waved away.
+must: the kiwi is calm; no letters or digits are written anywhere
+
+== 285
+# Q: one-week-old on prostaglandin, tight coarctation with mild arch hypoplasia (proximal transverse arch 4 mm, Z -1.8): best management? A: left thoracotomy, resection and extended end-to-end anastomosis
+# Duban, through the open side lid, cutting out the rope and pulling the lower orca up to sew it in a long slanted seam far along the underside of the thin arch = extended end-to-end anastomosis -> ANSWER
+# the beer stein propping the duct-tape tunnel open = prostaglandin keeping the duct open
+# the orca's arch a little thin, the cat slicing the loaf = mild arch hypoplasia on CT
+# the leather bladder, the Slinky in the duct and the stern opened waved away = no balloon, no ductal stent, no sternotomy patch (wrong options)
+title: Neonatal coarctation with mild arch hypoplasia: extended end-to-end through a thoracotomy
+titleAr: تضيق البرزخ عند الوليد مع نقص تنسج خفيف في القوس: مفاغرة طرفية ممتدة عبر فتح الصدر الجانبي
+tags: cardiac/congenital d:technique q:next-step l:3
+palette: newborn cream and sunrise orange with rope brown
+words:
+keywords: coarctation -> a tight rope pinching the orca's waist just past its left flipper; prostaglandin -> a raised beer stein propping the duct-tape tunnel open; ductus -> a tunnel of shiny silver duct tape between the orca and the dollar pipe; thoracotomy -> the side lid of a treasure chest open on its hinges; ct scan -> a cat slicing a long loaf into thin slices; sternotomy (no) -> the stern of a ship opened down its centre, waved away; pci (no) -> a coiled Slinky in the duct, waved away; extended end-to-end -> the lower orca pulled up and sewn in a long slanted seam far along the underside of the arch; thin arch -> the orca's arch a little thin, not very small; resection -> the rope and the narrow ring cut out; balloon (no) -> an old leather bladder waved away; newborn -> a tiny newborn in a cradle
+anchor: the best management -> the sage Duban, through the open side lid of the chest, cutting out the rope and pulling the lower orca up to sew it in a long slanted seam far along the underside of the thin arch
+scene: A cream nursery at sunrise. A tiny newborn sleeps in a cradle beside an open treasure chest whose side lid stands open on its hinges. Inside lies the orca balloon: a tight rope pinches its waist just past its left flipper, its arch is a little thin, and a raised beer stein props open a tunnel of shiny silver duct tape between the orca and the dollar pipe; a cat slices a long loaf into thin slices beside it. In the centre, in the strongest light: the sage Duban cuts out the rope and the narrow ring, pulls the lower orca up and sews it in a long slanted seam far along the underside of the thin arch. An old leather bladder, a coiled Slinky in the duct and the stern of a ship opened down its centre are waved away.
+must: the seam runs far along the underside of the arch; no letters or digits are written anywhere
+
+== 286
+# Q: two days after arterial switch, oliguria; urine Na 260, urine creatinine 200, plasma Na 140, plasma creatinine 0.3 (FENa low): best treatment? A: volume replacement
+# the water-seller pouring his full goatskin over the thirsty kidney beans that clutch their salt crystals = prerenal oliguria, give volume -> ANSWER
+# the abacus beads = the fractional excretion of sodium worked out, low
+# the dry trickle with a whistle, a golden drop and a hamsa = urine below 0.5 ml/kg/h
+# the switch lever already thrown, the bright hotel = arterial switch with good function
+# the lasso, the vase and the washtub waved away = no furosemide, vasopressin or dialysis (wrong options)
+title: Oliguria after the arterial switch with a low FENa: give volume
+titleAr: قلة البول بعد عملية التبديل الشرياني مع إطراح صوديوم منخفض: أعطِ سوائل
+tags: cardiac/congenital cardiac/perioperative d:postoperative q:numbers l:2
+palette: desert dry ochre and cool water blue with bean red
+words:
+keywords: kidney -> a pair of big red kidney beans, a little dry and thirsty; sodium -> white salt crystals the beans clutch tightly; arterial switch -> a subway switchman's big switch lever already thrown; number 0.5 (urine output, ml/kg/h) -> a small painting on the chamber pot: a golden whistle, a golden drop and a blue hamsa hand; furosemide (no) -> a cowboy's lasso waved away; vasopressor (no) -> two hands pressing a porcelain vase, waved away; volume -> the water-seller pouring his full goatskin; fena -> a merchant's abacus, its beads showing a tiny share; dry trickle -> a thin trickle into a chamber pot; washtub (no) -> a washtub waved away; good heart -> the hotel bright, its fans turning well; newborn -> a newborn in a cot
+anchor: the best treatment -> the Baghdad water-seller pouring his full goatskin over the pair of thirsty kidney beans, which clutch their white salt crystals tightly
+scene: A dry ochre courtyard. A newborn lies in a cot beside the cut-open HART Hotel, bright, its fans turning well, a subway switchman's big lever already thrown beside it. A pair of big red kidney beans sit a little dry and thirsty, clutching white salt crystals tightly, and only a thin trickle runs into a chamber pot, a small painting on it of a golden whistle, a golden drop and a blue hamsa hand. A merchant's abacus shows a tiny share. In the centre, in the strongest light: the Baghdad water-seller pours his full goatskin of cool water over the kidney beans. A cowboy's lasso, two hands pressing a porcelain vase and a washtub are waved away.
+must: the beans hold on to their salt; no letters or digits are written anywhere
+
+== 287
+# Q: after patch closure of an atrial defect, saturation 86 on FiO2 1, pulmonary vein saturation 100, saline bubbles from a femoral vein appear in the left atrium: next step? A: revise the patch closure
+# Duban unpicking the lower edge of the patch and resewing it so the blue drainpipe opens back into the blue lobby = revise the patch (the IVC was baffled to the left atrium) -> ANSWER
+# the white foam puffed up the drainpipe appearing in the red lobby = contrast from the femoral vein reaches the LA
+# the child's blue lips with a violin and the Sitt, the money sacks full and pink = saturation 86 with healthy lungs
+# the astronaut, the nitro smoke and the rope on a vertical pipe waved away = no Glenn, no nitric oxide, no vertical vein ligation (wrong options)
+title: Desaturation after ASD patch with bubbles from the leg in the left atrium: the IVC was baffled to the LA, revise
+titleAr: هبوط الإشباع بعد رقعة الفتحة الأذينية: الوريد الأجوف السفلي يصب في الأذين الأيسر، أعد الرقعة
+tags: cardiac/congenital d:complications q:next-step l:3
+palette: foam white and drainpipe blue with lobby red
+words:
+keywords: ivc -> a big blue drainpipe coming up from below into the floor of the hotel; asd -> a patch on the thin upper party wall, its lower edge sewn wrong; atrium -> the red glass-roofed atrium lobby where the drainpipe now empties; cyanosis -> a child with bright blue lips; number 86 (oxygen saturation, percent) -> a small painting on the child's bracelet: a violin and the Sitt in a golden gown; glenn (no) -> an astronaut bending the chimney, waved away; nitric oxide (no) -> a puff of nitro smoke waved away; revise -> Duban unpicking the patch's lower edge and resewing it; foam test -> a puff of white foam blown up the drainpipe, appearing in the red lobby; full pink sacks -> the money sacks full and pink, rising and falling; pure air lantern -> a big lantern of pure air turned fully up; vertical vein (no) -> a rope tied round a vertical pipe, waved away
+anchor: the best next step -> the sage Duban unpicking the lower edge of the patch and resewing it, so the blue drainpipe, whose white foam was pouring into the red lobby, opens back into the blue lobby
+scene: A white and blue tiled room. A child with bright blue lips lies on a bed, a small painting of a violin and the Sitt in a golden gown on his bracelet; a big lantern of pure air is turned fully up beside him, and his money sacks are full and pink, rising and falling. Beside him the cut-open HART Hotel: a patch closes the upper party wall, but its lower edge is sewn wrong, so the big blue drainpipe rising from below empties into the red lobby, and a puff of white foam blown up the drainpipe appears in the red lobby. In the centre, in the strongest light: the sage Duban unpicks the patch's lower edge and resews it, so the drainpipe opens back into the blue lobby. An astronaut bending the chimney, a puff of nitro smoke and a rope tied round a vertical pipe are waved away.
+must: the foam shows up in the red lobby before the fix; no letters or digits are written anywhere
+
+== 288
+# Q: arterial switch with coronary pattern 1 LAD; 2 R,Cx; after clamp removal runs of VT, diffuse ST changes, depressed function, MR, BP 60/35: next step? A: revise the coronary anastomosis
+# Duban unpicking a kinked crown spike's button from the new orca and resewing it smooth and straight = revise the coronary anastomosis -> ANSWER
+# the switch lever thrown, the crown spikes moved on round buttons = arterial switch with transferred coronaries
+# the elevator stuck up, the cart racing in bursts, the gurgling mitre and the low gauge = ischaemia: ST changes, VT, MR, hypotension
+# the fireworks, the gills box and the dynamite waved away = not more inotropes, ECMO or nitroglycerin first (wrong options)
+title: Ischaemia right after the arterial switch: revise the coronary transfer
+titleAr: نقص تروية بعد عملية التبديل الشرياني مباشرة: أعد خياطة الشريان التاجي
+tags: cardiac/congenital d:complications q:next-step l:2 x:high-yield
+palette: switchyard steel and crown green with alarm red
+words:
+keywords: arterial switch -> a subway switchman's big switch lever just thrown, the orca and the dollar pipe swapped; coronary -> the green crown's spikes moved on round buttons to the new orca; st elevation -> a street-corner elevator platform stuck in its raised position; regurgitation -> water gurgling back through the mitre; hypotension -> a pressure gauge with its needle low in the blue zone; epinephrine (no) -> lit firework rockets waved away; ecmo (no) -> a pair of fish gills in a clear box waved away; nitroglycerin (no) -> a fizzing stick of nitro dynamite waved away; revise -> Duban unpicking the kinked spike's button and resewing it smooth; kinked spike -> one crown spike twisted and kinked at its new button; bursts of runs -> a small cart racing off in short bursts; newborn -> a newborn on a small table; weak rooms -> both engine-room fans turning weakly
+anchor: the best next step -> the sage Duban unpicking the kinked crown spike's round button from the new orca and resewing it smooth and straight
+scene: A steel switchyard at night, alarm-red lamps. A newborn lies on a small table beside the cut-open HART Hotel; a subway switchman has just thrown his big lever, and the orca and the dollar pipe have swapped places. The green crown's spikes have been moved on round buttons to the new orca, but one spike is twisted and kinked at its button. Both engine-room fans turn weakly, water gurgles back through the mitre, a street-corner elevator platform stands stuck in its raised position, a small cart races off in short bursts, and a pressure gauge points low in the blue. In the centre, in the strongest light: the sage Duban unpicks the kinked spike's button and resews it smooth and straight. Lit firework rockets, a pair of fish gills in a clear box and a fizzing stick of nitro dynamite are waved away.
+must: one spike is clearly kinked before the fix; no letters or digits are written anywhere
+
+== 289
+# Q: boy with a superior sinus venosus defect, right upper and middle pulmonary veins draining high into the SVC: next step? A: Warden procedure
+# a prison warden with a ring of keys cutting the chimney above the high water taps, leading its top half into the blue lobby's little side porch and locking the lower half to empty through the hole into the red lobby = Warden procedure -> ANSWER
+# the Venus statue in the hole at the top of the party wall = sinus venosus defect
+# the brass taps high on the chimney with a cap and a dragon = pulmonary veins draining high into the SVC
+# the cloth tunnel, the cufflinks and the taps carried down waved away = no simple baffle, no device, no reimplantation (wrong options)
+title: Sinus venosus defect with high anomalous veins into the SVC: Warden procedure
+titleAr: فتحة الجيب الوريدي مع أوردة رئوية شاذة عالية في الأجوف العلوي: عملية واردن
+tags: cardiac/congenital d:technique q:next-step l:2
+palette: prison-key iron and chimney brick with jade
+words:
+keywords: warden -> a prison warden with a big ring of keys cutting the chimney and re-routing it; sinus venosus -> a white marble Venus statue in a hole at the very top of the upper party wall, under the chimney; svc -> the chimney of the hotel's blue wing; tapvc -> brass water taps on the dollar pipes, set high on the chimney; number 42 (distance of the veins above the junction, mm) -> a small painting on the chimney: a graduation cap and a green dragon; occluder (no) -> round silver cufflinks waved away; high entry -> the taps far up the chimney, near its top; side porch -> the blue lobby's little side porch receiving the upper chimney; locked route -> a locked door so the lower chimney empties only through the hole into the red lobby; cloth tunnel (no) -> a cloth tunnel waved away; moving taps (no) -> taps being carried down, waved away; boy -> a calm boy holding a ring of keys of his own
+anchor: the best next step -> a prison warden with a big ring of keys cutting the blue wing's chimney above the high water taps, leading its top half down into the blue lobby's side porch and locking a door so the lower half empties only through the Venus hole into the red lobby
+scene: A brick prison courtyard with jade doors. A calm boy holds a small ring of keys of his own beside the cut-open HART Hotel. Brass water taps from the dollar pipes are set high up on the blue wing's chimney, near its top, a small painting of a graduation cap and a green dragon on the chimney; a white marble Venus statue stands in a hole at the very top of the upper party wall, under the chimney. In the centre, in the strongest light: a prison warden with a big ring of keys cuts the chimney above the taps, leads its top half down into the blue lobby's little side porch, and locks a door so the lower half of the chimney, with the taps, empties only through the Venus hole into the red lobby. A cloth tunnel, round silver cufflinks and taps being carried down are waved away.
+must: the cut is above the taps; no letters or digits are written anywhere
+
+== 290
+# Q: newborn with DORV, side-by-side vessels, subpulmonary VSD (Taussig-Bing): best next step? A: arterial switch with VSD closure
+# the switchman throwing his lever while Duban sews a patch over the hole under the dollar pipe = arterial switch and VSD closure -> ANSWER
+# both the orca and the dollar pipe rising side by side from the blue room, the cherry vendor tossing cherries through the hole under the dollar pipe = DORV with subpulmonary VSD (Taussig-Bing)
+# the crown spikes on buttons = the coronary pattern to transfer
+# the hourglass, the belt and the chisel at the funnel waved away = no delay, no banding, no VSD closure with conus resection (wrong options)
+title: Taussig-Bing DORV: arterial switch and VSD closure
+titleAr: البطين الأيمن ثنائي المخرج من نوع تاوسيغ-بينغ: التبديل الشرياني وإغلاق الفتحة
+tags: cardiac/congenital d:technique q:next-step l:3
+palette: cherry red and rail steel with crown green
+words:
+keywords: dorv -> both the orca and the dollar pipe rising side by side out of the blue engine room; taussig-bing -> a vendor tossing Bing cherries through the hole under the dollar pipe; vsd -> the hole in the lower party wall under the dollar pipe; arterial switch -> a subway switchman pulling a big railway switch lever that swings the orca and the dollar pipe round; coronary -> the green crown's spikes waiting on round buttons to be moved; banding (no) -> a leather belt waved away; patch closure -> Duban sewing a patch over the hole so the red room feeds the new orca; side by side -> the two great pipes standing shoulder to shoulder; newborn -> a newborn in a cherrywood cradle; delay (no) -> an hourglass waved away; conus resection (no) -> a chisel at a funnel waved away; both at once -> the switchman and Duban working at the same moment
+anchor: the best next step -> the subway switchman pulling his big lever to swing the orca and the dollar pipe round while, at the same moment, the sage Duban sews a patch over the hole under the dollar pipe
+scene: A cherry-red railway station. A newborn sleeps in a cherrywood cradle beside the cut-open HART Hotel. Both the orca balloon and the pipe of dollar bills rise side by side, shoulder to shoulder, out of the blue engine room, and a vendor tosses Bing cherries through the hole in the lower party wall right under the dollar pipe; the green crown's spikes wait on round buttons. In the centre, in the strongest light: a subway switchman pulls a big railway switch lever that swings the orca and the dollar pipe round, while at the same moment the sage Duban sews a patch over the hole so the red room feeds the new orca. An hourglass, a leather belt and a chisel at a funnel are waved away.
+must: both jobs happen together; no letters or digits are written anywhere

@@ -1,0 +1,88 @@
+book: sesat-13
+style: a vivid fairy-tale illustration of the Arabian Nights in the manner of a modern 3D animated feature film: rounded, expressive characters, glowing jewel-tone colour, warm lantern light with soft shadows, ornate Abbasid Baghdad, its souks, palaces and the seas of Sindbad, every object solid, crisp and instantly recognisable
+theme: the world of the Arabian Nights: the Baghdad of Harun al-Rashid, the souks on the Tigris and the voyages of Sindbad; the sage physician Duban (white beard, green turban) is the recurring healer and Shahrazad tells the tales; stories end with a genuine line from Kalila wa Dimna, a famous Arabic proverb or a line of classical Arabic poetry, spoken by one of the characters
+
+== 121
+# Q: adult with tetralogy repaired as a toddler, moderate pulmonary regurgitation, mildly big and mildly weak RV, says nothing has changed: best next test? A: cardiopulmonary exercise testing
+# the ox in its oxygen mask galloping in the giant treadmill wheel while a merchant's balance weighs the grown man's true strength = cardiopulmonary exercise testing, an objective measure -> ANSWER
+# the raft of four logs pulled ashore long ago, the boy now a grey-bearded man = tetralogy repaired in childhood
+# water gurgling back through the door of the dollar pipe = pulmonary regurgitation
+# the blue room puffed like a rising loaf, its fan a little slow = mild RV enlargement and dysfunction
+# the man shrugging "I am fine" = no change in symptoms (unreliable)
+# the magnet and the ship's stern being opened waved away = not MRI first, not valve replacement yet (wrong options)
+title: Repaired tetralogy with pulmonary regurgitation and "no symptoms": measure with an exercise test
+titleAr: رباعية فالو المصلَّحة مع قلس رئوي و«لا أعراض»: قِس القدرة باختبار الجهد القلبي الرئوي
+tags: cardiac/congenital d:diagnosis q:next-step l:3
+palette: driftwood brown and river teal with ox-red
+words:
+keywords: vo2max -> a huge ox in a clear oxygen mask galloping flat out inside a giant wooden treadmill wheel; tetralogy -> a raft of four logs pulled safely ashore long ago beside a waterfall; pulmonary -> the pipes of green dollar bills; regurgitation -> water gurgling back through the door of the dollar pipe; echo -> a bat that has just sent its rings at the hotel; mri (no) -> a giant red horseshoe magnet set aside; sternotomy (no) -> the stern of a ship about to be opened down its white centre line, waved away; objective measure -> a merchant's brass balance weighing the man's true strength; says he is fine -> a grey-bearded man shrugging with his hand on his heart; mild enlargement -> the blue engine room puffed up a little like a rising loaf; weaker pump -> the blue engine room's fan turning a little slowly; childhood repair -> a small wooden toy horse from his childhood lying on the raft
+anchor: the best next test -> the huge ox in its clear oxygen mask galloping inside the giant wooden treadmill wheel while a merchant's brass balance weighs the grey-bearded man's true strength
+scene: A river bank below a waterfall, driftwood brown and teal. A raft of four logs lies pulled safely ashore long ago, a small wooden toy horse on it, and beside it stands the grey-bearded man who rode it as a boy, shrugging with his hand on his heart. Next to him the cut-open HART Hotel: water gurgles back through the door of the pipe of green dollar bills, the blue engine room is puffed up a little like a rising loaf and its fan turns a little slowly; a bat has just sent its rings at it. In the centre, in the strongest light: a huge ox in a clear oxygen mask gallops flat out inside a giant wooden treadmill wheel, and a merchant's brass balance beside it weighs the man's true strength. A giant red horseshoe magnet is set aside, and the stern of a ship about to be opened down its white centre line is waved away.
+must: the ox runs inside the wheel and the balance weighs the result; no letters or digits are written anywhere
+
+== 122
+# Q: young man with pulmonary regurgitation after balloon valvuloplasty for pulmonary stenosis, now moderate-to-severe, RV function preserved, exercise test unchanged: next? A: repeat echo in 12 months
+# the bat hanging up its rings and riding off with the yearly caravan whose banner shows a unicorn and a dragon = repeat echocardiogram in 12 months -> ANSWER
+# the broken clamp and the old leather bladder on the dollar pipe, water gurgling back = PR after balloon valvuloplasty for pulmonary stenosis
+# the trickle grown into a stream = progression to moderate-severe
+# the blue fan spinning strongly, the ox's wheel unchanged = preserved RV, unchanged exercise test
+# the magnet, the fishing line and the tissue box waved away = no MRI, no catheter, no valve replacement yet (wrong options)
+title: Pulmonary regurgitation with a healthy right ventricle: watch with a yearly echo
+titleAr: قلس رئوي مع بطين أيمن سليم: متابعة بإيكو سنوي
+tags: cardiac/congenital d:indications q:next-step l:3
+palette: caravan sand and sunset orange with dollar green
+words:
+keywords: echo -> a bat sending rings of sound at the dollar pipe; number 12 (months until the next echo) -> a small painting on the caravan's banner: a white unicorn and a green dragon; pulmonary stenosis -> a pipe of dollar bills once squeezed by an iron clamp, the clamp now broken open; pulmonary -> the pipes of green dollar bills; regurgitation -> water gurgling back through the door of the dollar pipe; vo2max -> the ox in its oxygen mask in the treadmill wheel, running just as before; mri (no) -> a giant red horseshoe magnet set aside; catheterization (no) -> a fishing line and reel set aside; tissue valve (no) -> a soft paper tissue box waved away; yearly -> the yearly caravan of camels setting out, to return next year; valvuloplasty -> an old leather bladder that once burst the clamp open, lying by the pipe; worse -> a trickle that has grown into a stream; strong right side -> the blue engine room's fan spinning strongly; young man -> a young camel driver watching calmly
+anchor: the best next management -> the bat hanging up its rings for now and riding off on the yearly caravan of camels, a small unicorn and dragon painted on the caravan's banner, while the blue fan spins strongly
+scene: A caravanserai at sunset, sand and orange. Beside the cut-open HART Hotel lies the pipe of green dollar bills, its old iron clamp broken open, an old leather bladder that once burst it lying beside it; water gurgles back through the pipe's door, a trickle that has grown into a stream. The blue engine room's fan spins strongly, and nearby the ox in its oxygen mask runs in its treadmill wheel just as before. A young camel driver watches calmly. In the centre, in the strongest light: the bat hangs up its rings for now and rides off on the yearly caravan of camels, a small painting on the caravan's banner of a white unicorn and a green dragon. A giant red horseshoe magnet and a fishing line and reel are set aside, and a soft paper tissue box is waved away.
+must: the bat leaves with the caravan and will come back; no letters or digits are written anywhere
+
+== 123
+# Q: during mitral surgery a large amount of air is pumped into the ascending aorta while testing the aortic cannula; circuit de-aired, cooled to 18: best perfusion? A: retrograde cerebral perfusion through the SVC cannula plus aspiration through the root vent
+# water pushed backwards up the chimney washing the soap bubbles out of the head lantern while a straw at the orca's root sucks bubbles out = retrograde cerebral perfusion via the SVC and root vent aspiration -> ANSWER
+# the brass cannon misfiring a burst of soap bubbles into the orca = massive arterial air embolism from the aortic cannula
+# the frosted thermometer with a unicorn and a violin = cooled to 18 degrees
+# the mitre = mitral surgery planned
+# the cannon into the flipper and the knife opening the orca waved away = not antegrade via axillary, not opening the aorta (wrong options)
+title: Massive air embolism on bypass: retrograde cerebral perfusion through the SVC and vent the root
+titleAr: انصمام هوائي كبير على المجازة: تروية دماغية راجعة عبر الوريد الأجوف العلوي وتفريغ الجذر
+tags: cardiac/cpb d:complications q:next-step l:3 x:high-yield
+palette: midnight navy and cold silver with pearly bubbles
+words:
+keywords: air embolism -> big clear soap bubbles rolling through the orca towards the head lantern; cannulation -> a small brass cannon misfiring a burst of soap bubbles into the orca; svc -> the chimney of the hotel's blue wing, cold water pushed backwards up it; hypothermia -> a frosted thermometer furred with ice; number 18 (temperature, degrees) -> a small painting on the thermometer: a white unicorn and a violin; mitral -> the bishop's mitre in the red engine room's doorway, its operation waiting; aorta -> the orca parade balloon; retrograde -> water pushed backwards up the chimney and out through the lantern; root vent -> a thin straw at the orca's root sucking the bubbles out; brain -> the head lantern above the hotel, its glass full of bubbles; test fire -> a gunner's hand on the cannon's touch-hole, smoke rising; open aorta (no) -> a knife about to open the orca, waved away; antegrade (no) -> a cannon pushed into the orca's flipper, waved away
+anchor: the best perfusion strategy -> cold water pushed backwards up the hotel's chimney, washing the soap bubbles out of the head lantern, while a thin straw at the orca's root sucks the bubbles out
+scene: A ship's hold at midnight, navy and silver, the cut-open HART Hotel on a table, the bishop's mitre in its red doorway waiting for its operation. A gunner's hand is on the touch-hole of a small brass cannon pushed into the orca balloon; smoke rises and it misfires a burst of big clear soap bubbles into the orca, which roll up towards the head lantern above the hotel and fill its glass. A frosted thermometer furred with ice stands by, a small painting on it of a white unicorn and a violin. In the centre, in the strongest light: cold water is pushed backwards up the hotel's chimney and out through the head lantern, washing the bubbles out of it, while a thin straw at the orca's root sucks more bubbles out. A knife about to open the orca and a cannon pushed into its flipper are waved away.
+must: the water flows backwards up the chimney into the lantern; no letters or digits are written anywhere
+
+== 124
+# Q: tissue mitral valve: before which procedures should he take antibiotics (AHA)? A: dental procedures that manipulate the gums
+# the pencil drawing its ring only when the barber's pliers touch the pink gums, the green beads stopped = prophylaxis only for dental work on the gingiva -> ANSWER
+# the tissue box in the mitre's doorway = bioprosthetic mitral valve
+# the fishing line, the periscope and the chamber-pot tube waved away = not for catheterisation, GI endoscopy or urinary procedures (wrong options)
+# the scroll with only one line ticked = only one kind of procedure
+title: Who needs antibiotics before procedures: dental work on the gums, not GI, GU or catheters
+titleAr: متى تلزم المضادات الحيوية قبل الإجراءات: علاج الأسنان على اللثة فقط
+tags: cardiac/mitral-tricuspid d:pharmacology q:recall l:1 x:guideline
+palette: pomegranate pink and ivory with turquoise
+words:
+keywords: tissue valve -> a soft paper tissue box set in as the valve; mitral -> the bishop's mitre's doorway in the red engine room, holding the tissue box; antibiotics -> the sage Duban's giant pencil drawing a ring round the germs; viridans -> a chain of green beads trying to slip out of the pink gums; endocarditis -> playing cards sprouting broccoli, kept away from the tissue box; catheterization (no) -> a fishing line and reel waved away; endoscopy (no) -> a lantern on a periscope waved away; gums -> bright pink gums of a laughing old man; dental procedure -> the barber of Baghdad pressing his pliers into the gums; urinary catheter (no) -> a thin tube to a chamber pot waved away; one indication -> a long scroll of procedures with only one line ticked; oral pill -> a small pill held out in a brass cup; old man -> a white-haired old man laughing in the barber's chair
+anchor: when to take the antibiotic -> the sage Duban's giant pencil drawing its ring only when the barber's pliers touch the old man's pink gums, stopping the green beads before they reach the tissue box in the mitre's doorway
+scene: A pomegranate-pink barber's shop with ivory and turquoise tiles, the cut-open HART Hotel on the counter with a soft paper tissue box set in the bishop's mitre's doorway. A white-haired old man laughs in the barber's chair, showing bright pink gums, and a long scroll of procedures hangs beside him with only one line ticked. In the centre, in the strongest light: the barber of Baghdad presses his pliers into the pink gums, a chain of green beads tries to slip out, and at that moment the sage Duban, holding out a small pill in a brass cup, draws a ring round the beads with his giant pencil, so playing cards sprouting broccoli never reach the tissue box. A fishing line and reel, a lantern on a periscope and a thin tube to a chamber pot are waved away.
+must: the pencil acts only at the gums; no letters or digits are written anywhere
+
+== 125
+# Q: tired, aortic valve area 0.71 with a mean gradient of only 31 and EF 35 percent: best way to prove severe stenosis? A: low-dose dobutamine stress echo
+# a Doberman on a short leash gently pulling the feeble bouncer's fan faster while the bat watches whether the stone mouth opens or stays narrow = low-dose dobutamine stress echocardiogram -> ANSWER
+# the orca's mouth turned to stone, only a narrow slit, a weak trickle = small area, low gradient
+# the feeble bouncer with a fox and a hamsa tattoo = EF 35 percent, low flow
+# the painted mask over the stone = true versus pseudo-severe stenosis
+# the fishing line, the magnet with the lion's den and the bat inside the sofa waved away = not catheter, not adenosine MRI, not TEE (wrong options)
+title: Low-flow, low-gradient aortic stenosis with a weak ventricle: low-dose dobutamine echo
+titleAr: تضيّق أبهري منخفض الجريان والممال مع بطين ضعيف: إيكو بجرعة منخفضة من الدوبوتامين
+tags: cardiac/aortic-valve d:diagnosis q:next-step l:2 x:high-yield
+palette: slate grey and amber with dog-brown
+words:
+keywords: dobutamine -> a strong Doberman dog pulling on its leash; echo -> a bat sending rings of sound at the orca's mouth; valve stenosis -> the orca balloon's mouth turned to grey stone; ejection fraction -> a feeble nightclub bouncer barely pushing a guest out of the red engine room's door; number 35 (ejection fraction, percent) -> a small tattoo on the bouncer's arm: a red fox and a blue hamsa hand; catheterization (no) -> a fishing line and reel waved away; mri (no) -> a horseshoe magnet beside a lion's den, waved away; tee (no) -> the bat sliding down inside the pink sofa slide, waved away; low dose -> the Doberman on a short leash, tugging gently; low gradient -> only a weak trickle squeezing out of the mouth; small opening -> a narrow slit in the stone mouth; pseudo-severe -> a painted mask hanging over the stone, maybe hiding a softer mouth; tired old man -> a tired old man resting on a stone bench
+anchor: the best way to prove severe stenosis -> a Doberman on a short leash gently pulling the feeble bouncer's fan faster while the bat watches whether the orca's stone mouth opens wider or stays a narrow slit
+scene: A slate-grey courtyard in amber evening light, a tired old man resting on a stone bench beside the cut-open HART Hotel. The orca balloon's mouth has turned to grey stone with only a narrow slit, a weak trickle squeezing out, and a painted mask hangs over the stone. A feeble bouncer barely pushes a guest out of the red engine room's door, a small tattoo on his arm of a red fox and a blue hamsa hand. In the centre, in the strongest light: a Doberman on a short leash tugs gently at the bouncer's fan to spin it faster, while a bat sends its rings at the stone mouth to see whether it opens wider or stays narrow. A fishing line and reel, a horseshoe magnet beside a lion's den, and a second bat sliding down inside a pink sofa slide are waved away.
+must: the leash is short and the pull gentle; no letters or digits are written anywhere

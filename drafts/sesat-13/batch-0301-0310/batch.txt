@@ -1,0 +1,167 @@
+book: sesat-13
+style: a vivid fairy-tale illustration of the Arabian Nights in the manner of a modern 3D animated feature film: rounded, expressive characters, glowing jewel-tone colour, warm lantern light with soft shadows, ornate Abbasid Baghdad, its souks, palaces and the seas of Sindbad, every object solid, crisp and instantly recognisable
+theme: the world of the Arabian Nights: the Baghdad of Harun al-Rashid, the souks on the Tigris and the voyages of Sindbad; the sage physician Duban (white beard, green turban) is the recurring healer and Shahrazad tells the tales; stories end with a genuine line from Kalila wa Dimna, a famous Arabic proverb or a line of classical Arabic poetry, spoken by one of the characters
+
+== 301
+# Q: boy with two years of recurrent inflammatory pericarditis despite steroids, NSAIDs and colchicine, drained twice, thick pericardium with collections on MRI: next? A: complete pericardiectomy via median sternotomy
+# Duban, through the ship's stern opened down its centre, peeling the whole thick glass aquarium and its steaming red dress off the hotel from one side to the other = complete pericardiectomy via sternotomy -> ANSWER
+# the aquarium wearing a hot steaming red dress, its glass thick = recurrent inflammatory pericarditis, thick pericardium
+# the stereo turned down, the crocus and the pill tin = steroids, colchicine and NSAIDs already tried
+# the two buckets of drained fluid = drained twice
+# the side lid, the submarine and the drip of steroid waved away = no thoracotomy, subxiphoid window or drainage (wrong options)
+title: Refractory recurrent pericarditis in a child: complete pericardiectomy through a sternotomy
+titleAr: التهاب التامور الناكس المعند عند طفل: استئصال التامور الكامل عبر شق القص
+tags: cardiac/congenital cardiac/other d:indications q:next-step l:2
+palette: steaming scarlet and glass green with ivory
+words:
+keywords: pericarditis -> the glass aquarium round the hotel wearing a hot red dress, steaming; pericardium -> a clear glass aquarium built round the whole HART Hotel, its glass grown thick; steroids -> a big old stereo boombox with its volume knob turned down; sternotomy -> the stern of a ship opened straight down a white centre line; mri -> a giant red horseshoe magnet over the aquarium; thoracotomy (no) -> the side lid of a treasure chest, waved away; subxiphoid (no) -> a small yellow submarine below the breastbone, waved away; complete removal -> Duban peeling the whole aquarium off the hotel from one side to the other; colchicine -> a purple autumn crocus in a pot; anti-inflammatory pills -> a small tin of pills; drained twice -> two buckets of drained fluid; recurrent pain -> a boy clutching his chest again
+anchor: the best next step -> the sage Duban, through the ship's stern opened down its white centre line, peeling the whole thick glass aquarium with its steaming red dress off the hotel from one side to the other
+scene: A scarlet and ivory cabin of a ship. A boy clutches his chest again. Beside him two buckets of drained fluid stand on the floor, a big old stereo boombox has its volume knob turned down, a purple autumn crocus grows in a pot and a small tin of pills lies open. The cut-open HART Hotel sits inside a clear glass aquarium whose glass has grown thick and which wears a hot steaming red dress; a giant red horseshoe magnet hangs over it. In the centre, in the strongest light: through the stern of the ship, opened straight down a white centre line, the sage Duban peels the whole thick aquarium with its red dress off the hotel, from one side to the other. The side lid of a treasure chest and a small yellow submarine are waved away.
+must: the whole aquarium comes off, not a small window; no letters or digits are written anywhere
+
+== 302
+# Q: two-week-old with tuberous sclerosis and multiple ventricular tumours: management must include? A: repeat echocardiogram every 1-3 years
+# the bat coming back with the yearly caravan to watch the soft white rabbits in the walls shrink = serial echo, rhabdomyomas regress -> ANSWER
+# soft white rabbits nesting in the engine-room walls = rhabdomyomas
+# the potato tubers with hard white lumps = tuberous sclerosis
+# the pruning hook, the bodyguard and the chisel waved away = no mTOR inhibitor, ICD or debulking routinely (wrong options)
+title: Rhabdomyomas in tuberous sclerosis: watch them shrink with echo
+titleAr: الأورام العضلية المخططة في التصلب الحدبي: تابعها بالإيكو حتى تتراجع
+tags: cardiac/congenital cardiac/other d:indications q:next-step l:2
+palette: moonlit white and garden brown with caravan gold
+words:
+keywords: rhabdomyoma -> soft white rabbits nesting in the walls of the engine rooms, slowly getting smaller; echo -> a bat sending rings at the rabbits; mtor inhibitors (no) -> a gardener's pruning hook waved away; icd (no) -> a tiny bodyguard in a black suit waved away; myectomy (no) -> a sculptor's chisel waved away; ventricle -> the two engine rooms with their fans, turning well; potato tubers -> a basket of potato tubers with hard white lumps; shrinking -> each rabbit drawn smaller than the one before, like a waning moon; watch over years -> the yearly caravan bringing the bat back; many tumours -> several rabbits in different walls; newborn -> a newborn in a basket; calm -> the fans turning freely round the rabbits
+anchor: what management must include -> the bat coming back with each yearly caravan to send its rings at the soft white rabbits nesting in the engine-room walls, each rabbit smaller than before
+scene: A moonlit garden with a caravan road beyond. A newborn sleeps in a basket beside a basket of potato tubers with hard white lumps. The cut-open HART Hotel stands in the garden, its two engine-room fans turning freely; soft white rabbits nest in several of the engine-room walls, each drawn smaller than the one before, like a waning moon. In the centre, in the strongest light: a bat arrives with the yearly caravan of camels and sends its rings at the rabbits. A gardener's pruning hook, a tiny bodyguard in a black suit and a sculptor's chisel are waved away.
+must: the rabbits are left alone; no letters or digits are written anywhere
+
+== 303
+# Q: after complete repair of tetralogy with pulmonary atresia and MAPCAs, involuntary rhythmic movements of all limbs: likely explanation? A: basal ganglia hypoperfusion
+# the little lantern-lit rooms deep at the base of the head lantern going dim while the baby's arms and legs jerk like a puppet = basal ganglia hypoperfusion (choreoathetosis) -> ANSWER
+# the raft of four logs, the welded pipe and the treasure map = tetralogy with pulmonary atresia and collaterals
+# the melting ice cube = deep cooling during the repair
+# the lightning at the back of the head, the sleeping draught and the tied strings waved away = not posterior embolism, sedatives or collateral ligation (wrong options)
+title: Choreoathetosis after TOF/PA/MAPCA repair: basal ganglia hypoperfusion
+titleAr: حركات راقصة لا إرادية بعد إصلاح رباعية فالو مع رتق رئوي: نقص تروية العقد القاعدية
+tags: cardiac/congenital d:complications q:recall l:3
+palette: lantern amber and dusk blue with treasure-map parchment
+words:
+keywords: tetralogy -> a raft of four logs pulled ashore; atresia -> the dollar pipe's door welded shut with a thick iron cap; mapca -> an old treasure map whose many winding dotted paths run from the orca's back to the money sacks; circulatory arrest -> a giant ice cube melting beside the bed; stroke (no) -> a lightning bolt at the back of the head, waved away; basal ganglia -> a little cluster of lantern-lit rooms deep at the base of the head lantern, going dim; involuntary movements -> the baby's arms and legs jerking like a puppet on strings; sedatives (no) -> a bottle of sleeping draught waved away; ligation (no) -> strings tying off the map's paths, waved away; mother -> a mother watching, her hand at her mouth; infant -> a baby in a cot; repair done -> the dollar pipe now joined by a new waterslide
+anchor: the most likely explanation -> the little cluster of lantern-lit rooms deep at the base of the head lantern going dim as the giant ice cube melts beside the bed, while the baby's arms and legs jerk like a puppet on strings
+scene: An amber nursery at dusk. A mother watches with her hand at her mouth as her baby lies in a cot, his arms and legs jerking like a puppet on strings. Beside the cot a raft of four logs lies ashore, an old treasure map with many winding dotted paths is spread out, a giant ice cube melts, and the cut-open HART Hotel shows its dollar pipe's door welded shut with a thick iron cap, now joined by a new waterslide. Above the hotel floats the head lantern. In the centre, in the strongest light: a little cluster of lantern-lit rooms deep at the base of the head lantern goes dim. A lightning bolt at the back of the head, a bottle of sleeping draught and strings tying off the map's paths are waved away.
+must: the dim rooms are deep at the base of the head lantern; no letters or digits are written anywhere
+
+== 304
+# Q: infant with overcirculation and failure to thrive from a large apical muscular VSD: best approach? A: apical right ventriculotomy
+# Duban cutting a small trapdoor in the blue engine room's outer wall right at the pointed tip of the hotel and patching the hole from there = apical right ventriculotomy -> ANSWER
+# the big hole low in the lower party wall near the pointed tip = apical muscular VSD
+# the soggy flooded dollar pipes, the thin baby = overcirculation, failure to thrive
+# the trapdoor in the red room, the funnel cut and the rope across the blue room waved away = not LV apical, not infundibulotomy, not transatrial with band division (wrong options)
+title: Large apical muscular VSD: close it through an apical right ventriculotomy
+titleAr: فتحة بطينية عضلية قمية كبيرة: الإغلاق عبر شق قمي في البطين الأيمن
+tags: cardiac/congenital d:technique q:recall l:2
+palette: spinning-top red and dusk blue with brass
+words:
+keywords: vsd -> a big hole low in the thick lower party wall, near the pointed tip; ventricle -> the blue engine room with its fan; pulmonary edema -> soggy dollar bills dripping, the pipes flooded; infundibulum (no) -> a kitchen funnel being cut, waved away; atrium (no) -> a way in through the blue atrium lobby, waved away; apex -> the hotel's base pointed like a spinning top; right ventriculotomy -> a small trapdoor cut in the blue engine room's outer wall at the tip; patch -> Duban sewing a patch over the hole through the trapdoor; failure to thrive -> a thin baby beside a half-full bowl; left trapdoor (no) -> a trapdoor in the red engine room, waved away; rope across the room (no) -> a rope across the blue room being cut, waved away; hidden hole -> the hole tucked among thick muscle near the tip; cpb -> a big roller-pump truck running beside the table
+anchor: the best approach -> the sage Duban cutting a small trapdoor in the blue engine room's outer wall beside its fan, right at the pointed tip of the hotel, and patching the hole in the lower party wall through it
+scene: A brass-and-red toy workshop at dusk. A thin baby lies beside a half-full bowl, a big roller-pump truck running beside the table. The cut-open HART Hotel stands with its base pointed like a spinning top; a big hole sits low in the thick lower party wall near the pointed tip, tucked among thick muscle; its dollar pipes are flooded, the bills soggy and dripping. In the centre, in the strongest light: the sage Duban cuts a small trapdoor in the blue engine room's outer wall right at the pointed tip and sews a patch over the hole through it. A trapdoor in the red engine room, a kitchen funnel being cut, a way in through the blue lobby and a rope across the blue room being cut are waved away.
+must: the trapdoor is on the blue side at the tip; no letters or digits are written anywhere
+
+== 305
+# Q: perimembranous VSD through the right atrium, not fully seen through the anteroseptal commissure: next technique? A: incise (detach) the tricuspid leaflet
+# Duban gently cutting the trident's inner leaf from its rim and folding it back like a curtain, showing the hole behind it to be patched, then sewing the leaf back = tricuspid leaflet incision -> ANSWER
+# the hole beside the drum skin, hidden behind the trident's inner leaf = perimembranous VSD
+# the lantern peering through the gap between two prongs and failing = exposure through the commissure not enough
+# the open blue lobby = right atrial approach
+# the funnel, the orca's mouth and the dollar pipe's door opened, waved away = no infundibular, transaortic or transpulmonary approach (wrong options)
+title: Perimembranous VSD hidden behind the tricuspid valve: detach the leaflet
+titleAr: فتحة حول غشائية مخفية خلف الصمام ثلاثي الشرف: افصل الوريقة مؤقتًا
+tags: cardiac/congenital d:technique q:recall l:2
+palette: curtain velvet green and gold with lantern light
+words:
+keywords: vsd -> a hole in the lower party wall hidden behind the trident's inner leaf; membranous septum -> a small thin drum skin set into the party wall right under the orca's mouth, beside the hole; tricuspid -> the trident in the blue wing's doorway; atrium -> the blue glass-roofed atrium lobby opened as the way in; infundibulum (no) -> a kitchen funnel being cut, waved away; aortic valve (no) -> the orca's mouth being opened, waved away; pulmonary (no) -> the dollar pipe's door being opened, waved away; leaflet incision -> Duban cutting the trident's inner leaf from its rim; folded back -> the leaf folded back like a velvet curtain; sewn back -> a needle ready to sew the leaf back after the patch; through the gap -> a lantern peering through the gap between two prongs and failing to see; thin infant -> a thin baby wrapped in a shawl
+anchor: the best next technique -> the sage Duban cutting the trident's inner leaf from its rim and folding it back like a velvet curtain, so the hole behind it is seen and patched, a needle ready to sew the leaf back
+scene: A velvet-green hall lit by gold lanterns. A thin baby wrapped in a shawl lies beside the cut-open HART Hotel, its blue glass-roofed lobby opened as the way in. A lantern peers through the gap between two of the trident's prongs and fails to see. In the centre, in the strongest light: the sage Duban cuts the trident's inner leaf from its rim and folds it back like a velvet curtain, showing the hole in the lower party wall beside a small thin drum skin under the orca's mouth, and patches it, a needle ready to sew the leaf back. A kitchen funnel being cut, the orca's mouth being opened and the dollar pipe's door being opened are waved away.
+must: the leaf is folded back and will be sewn back; no letters or digits are written anywhere
+
+== 306
+# Q: which VSD repair carries the greatest risk of permanent heart block? A: an atrioventricular septal defect
+# the knot of the branches sitting displaced low near the floor at the cross-shaped hole, the drawbridge chained up = AVSD: displaced conduction tissue, highest heart-block risk -> ANSWER
+# the needle close to the crackling branches = stitches near the bundle
+# the plain hole, the raft and the many small holes waved away = perimembranous, tetralogy and trabecular VSDs carry less risk (wrong options)
+title: Highest risk of heart block after VSD repair: the AVSD
+titleAr: أعلى خطر لحصار القلب بعد إصلاح الفتحات البطينية: القناة الأذينية البطينية
+tags: cardiac/congenital cardiac/arrhythmia d:complications q:recall l:1 x:high-yield
+palette: warning orange and stone grey with sparking white
+words:
+keywords: avsd -> a big cross-shaped hole where the upper and lower party walls should meet; av node -> a big tight knot at the top of the crackling bundle of branches, displaced low near the floor; conduction -> a bundle of branches crackling with electric sparks, running along the lower edge of the hole; heart block -> a raised drawbridge between the upper lobby and the engine rooms, chained up for good; vsd (no) -> a plain small hole in the lower party wall, waved away; tetralogy (no) -> a raft of four logs waved away; risk -> a red danger flag planted beside the knot; displaced -> the knot sitting out of its usual place, low near the floor; close stitches -> a needle close to the crackling branches; permanent -> heavy chains on the drawbridge; trabecular (no) -> many tiny holes in the thick muscle, waved away; infant -> a baby in a stone cradle
+anchor: the greatest risk -> the knot of the crackling branches sitting displaced low near the floor at the edge of the cross-shaped hole, a red danger flag beside it, the drawbridge above chained up for good
+scene: A grey stone hall lit in warning orange. A baby lies in a stone cradle beside the cut-open HART Hotel, a big cross-shaped hole where its party walls should meet. A bundle of branches crackling with sparks runs along the lower edge of the hole, and its big tight knot sits out of its usual place, low near the floor. A needle hovers close to the crackling branches. In the centre, in the strongest light: a red danger flag is planted beside the displaced knot, and above it a drawbridge between the upper lobby and the engine rooms is raised and chained up for good. A plain small hole in the lower wall, a raft of four logs and many tiny holes in thick muscle are waved away.
+must: the knot is low, near the floor; no letters or digits are written anywhere
+
+== 307
+# Q: newborn with plate-like pulmonary atresia, intact septum, small RV, tricuspid Z -4, on prostaglandin: best next step? A: coronary angiography
+# the photographer squirting glowing magenta dye into the crown's spikes to see whether they drink from little hidden streams out of the small blue room = coronary angiography for RV-dependent coronary circulation -> ANSWER
+# the flat iron plate welded over the dollar pipe's door, the tiny trident, the small blue room = pulmonary atresia, intact septum, small RV and tricuspid valve
+# the stein and the duct-tape tunnel = prostaglandin keeping the duct open
+# the flowerpot, the leather bladder and the patch with a hose waved away = no transplant work-up, valve dilation or patch and shunt yet (wrong options)
+title: Pulmonary atresia with intact septum and a small RV: coronary angiography first
+titleAr: رتق رئوي مع حاجز سليم وبطين أيمن صغير: تصوير الشرايين التاجية أولًا
+tags: cardiac/congenital d:diagnosis q:next-step l:3 x:high-yield
+palette: magenta glow and night blue with welded iron
+words:
+keywords: angiography -> a photographer squirting glowing magenta dye into the crown's spikes and flashing his camera; coronary -> the green crown on the hotel roof; atresia -> a flat iron plate welded shut over the dollar pipe's door; tricuspid -> a tiny trident in the blue wing's doorway; prostaglandin -> a raised beer stein propping the duct-tape tunnel open; ductus -> a tunnel of shiny silver duct tape between the orca and the dollar pipe; transplant (no) -> a terracotta flowerpot waved away; sinusoids -> little hidden streams running from the small blue room up into the crown's spikes; small right ventricle -> the blue engine room shrunk small, its fan tiny; look first -> the flash going off before anyone touches the plate; balloon (no) -> an old leather bladder waved away; patch and shunt (no) -> a cloth patch and a hose waved away; newborn -> a newborn in a cradle
+anchor: the best next step -> a photographer squirting glowing magenta dye into the green crown's spikes and flashing his camera to see whether they drink from little hidden streams out of the small blue engine room
+scene: A night-blue workshop of welded iron. A newborn sleeps in a cradle beside the cut-open HART Hotel: a flat iron plate is welded over the dollar pipe's door, the trident in the blue doorway is tiny, the blue engine room is shrunk small, and little hidden streams run from it up into the spikes of the green crown. A raised beer stein props open a tunnel of shiny silver duct tape between the orca and the dollar pipe. In the centre, in the strongest light: a photographer squirts glowing magenta dye into the crown's spikes and his camera flashes, before anyone touches the plate. A terracotta flowerpot, an old leather bladder, and a cloth patch with a hose are waved away.
+must: the plate is not touched yet; no letters or digits are written anywhere
+
+== 308
+# Q: newborn with d-TGA, intact septum and a large duct, saturation 60 on 100 percent oxygen after intubation and prostaglandin: next step? A: balloon atrial septostomy
+# a round red party balloon yanked through the upper party wall, tearing the hole wider so red and blue water swirl together = balloon atrial septostomy -> ANSWER
+# the orca and the dollar pipe swapped, two circles of water not meeting = TGA with parallel circulations
+# the stein and the wide duct-tape tunnel, the lantern of pure air fully up = prostaglandin and 100 percent oxygen not enough
+# the blue lips with the Sitt and a whistle = saturation 60
+# the switch lever, the gills box and the hose waved away = not the switch now, not ECMO, not a shunt (wrong options)
+title: TGA with intact septum still blue on prostaglandin: balloon atrial septostomy
+titleAr: تبدّل الشرايين الكبيرة مع حاجز سليم وزرقة رغم البروستاغلاندين: فغر الحاجز الأذيني بالبالون
+tags: cardiac/congenital d:indications q:next-step l:1 x:high-yield
+palette: balloon red and mixing violet with deep blue
+words:
+keywords: balloon septostomy -> a round red party balloon on a string yanked through the upper party wall, tearing the hole wider; transposition -> the orca and the dollar pipe swapped, the orca leaving the blue engine room; prostaglandin -> a raised beer stein propping the duct-tape tunnel open; ductus -> a wide tunnel of shiny silver duct tape; cyanosis -> a newborn with bright blue lips; number 60 (oxygen saturation, percent) -> a small painting on the cradle: the Sitt in a golden gown and a golden whistle; arterial switch (no) -> a subway switchman's big switch lever, waved away for now; ecmo (no) -> a pair of fish gills in a clear box, waved away; bt shunt (no) -> a hose from the flipper, waved away; parallel circuits -> two circles of water running side by side, never meeting; mixing -> red and blue water swirling together into violet once the hole is torn; pure air -> a big lantern of pure air turned fully up; breathing tube -> a small breathing tube in the baby's mouth; just born -> the midwife still holding her towel
+anchor: the best next step -> a round red party balloon on a string yanked through the upper party wall, tearing the hole wider so the red and blue water swirl together into violet
+scene: A deep-blue nursery. A newborn with bright blue lips and a small breathing tube in her mouth lies in a cradle, the midwife still holding her towel, a small painting on it of the Sitt in a golden gown and a golden whistle, a big lantern of pure air turned fully up beside her. The cut-open HART Hotel has its orca and dollar pipe swapped, the orca leaving the blue engine room, and its water runs in two circles side by side that never meet; a raised beer stein props open a wide tunnel of shiny silver duct tape. In the centre, in the strongest light: a round red party balloon on a string is yanked through the upper party wall, tearing the hole wider, and the red and blue water swirl together into violet. A switchman's big switch lever, a pair of fish gills in a clear box and a hose from the flipper are waved away.
+must: the balloon tears the upper wall hole; no letters or digits are written anywhere
+
+== 309
+# Q: d-TGA with a restrictive outlet VSD, thick conal septum causing subpulmonary narrowing, small pulmonary annulus, normal coronaries: surgery with VSD closure? A: Nikaidoh procedure with RV-PA conduit
+# a winged victory statue lifting the orca's whole root out of the blue room and setting it back over the opened hole above the red room, a waterslide from the blue room to the dollar pipe = Nikaidoh (aortic translocation) with an RV-PA conduit -> ANSWER
+# the orca and the dollar pipe swapped = transposition
+# the thick muscle shelf under the dollar pipe's tiny door, the loose clamp = subpulmonary obstruction, small pulmonary valve
+# the small hole high in the lower wall = restrictive outlet VSD
+# the switch lever, the mustard and the chisel at the shelf waved away = not switch with resection, not Senning, not DKS (wrong options)
+title: TGA with VSD and fixed subpulmonary obstruction: the Nikaidoh procedure
+titleAr: تبدّل الشرايين مع فتحة بطينية وانسداد ثابت تحت الرئوي: عملية نيكايدو
+tags: cardiac/congenital d:technique q:recall l:3
+palette: marble victory white and sea blue with gold wings
+words:
+keywords: transposition -> the orca and the dollar pipe swapped, the orca leaving the blue engine room; vsd -> a small hole high in the lower party wall; pulmonary stenosis -> the dollar pipe's door loosely squeezed by an iron clamp; conduit -> a clear twisting waterslide tube from the blue engine room to the pipe of dollar bills; coronary -> the green crown riding along on the orca's root; arterial switch (no) -> a subway switchman's big switch lever waved away; atrial switch (no) -> a squeeze bottle of yellow mustard waved away; nikaidoh -> a winged victory statue lifting the orca's whole root out and setting it back over the red room (NIKE-aidoh); conal shelf -> a thick muscle shelf under the dollar pipe's tiny door; small door -> the dollar pipe's door shrunk small; opened hole -> the small hole cut wide open under the new root; resection (no) -> a chisel at the muscle shelf, waved away; infant -> a baby in a marble cradle
+anchor: the most appropriate surgery -> a winged victory statue lifting the orca's whole root, crown and all, out of the blue engine room and setting it back over the widened hole above the red room, while a clear waterslide joins the blue room to the dollar pipe
+scene: A white marble temple by a blue sea. A baby lies in a marble cradle beside the cut-open HART Hotel, its orca and dollar pipe swapped, the orca leaving the blue engine room. Under the dollar pipe's small door sits a thick muscle shelf, and an iron clamp loosely squeezes the door; a small hole sits high in the lower party wall. In the centre, in the strongest light: a winged victory statue with golden wings lifts the orca's whole root out, the green crown riding along on it, and sets it back over the hole, now cut wide open, above the red room; a clear twisting waterslide joins the blue engine room to the dollar pipe. A switchman's big switch lever, a squeeze bottle of yellow mustard and a chisel at the muscle shelf are waved away.
+must: the whole orca root moves back over the red room; no letters or digits are written anywhere
+
+== 310
+# Q: HLHS with aortic and mitral stenosis, stage 1 with a Sano (RV-PA) conduit: compared with a BT shunt it is associated with? A: improved transplant-free survival at one year
+# a healthy baby at a first-birthday party, one unicorn candle, no flowerpot and no coffin, the waterslide winning the race against the hose = Sano conduit: better transplant-free survival at one year -> ANSWER
+# the Norwegian woodcutter and the waterslide from the blue room to the dollar pipe = Norwood with a Sano conduit
+# the hippo and the stone doors = HLHS with aortic and mitral stenosis
+# the judge's scroll = the randomised trial
+# the drawn-out later years and a mended slide waved away = not lower interstage mortality, not fewer PA re-interventions, not higher early mortality (wrong options)
+title: Sano conduit at the Norwood: better transplant-free survival at one year
+titleAr: قناة سانو في عملية نوروود: بقاء أفضل دون زرع بعد سنة
+tags: cardiac/congenital d:evidence q:recall l:2 x:high-yield
+palette: birthday pink and wood brown with candle gold
+words:
+keywords: norwood -> a Norwegian woodcutter in red flannel joining the big dollar pipe to the orca; conduit -> a clear twisting waterslide from the blue engine room to the pipe of dollar bills; hypoplastic -> a little plastic toy hippo wedged into a shrunken red wing; valve stenosis -> the orca's mouth and the mitre turned to narrow grey stone; bt shunt -> a hose joining the orca's flipper to the dollar pipe, losing the race; transplant (none) -> an empty space where a flowerpot would stand; death (none) -> no coffin anywhere; number 1 (age, years) -> a small painting on the birthday cake: a white unicorn; first birthday -> a healthy smiling baby at a birthday party; race -> the waterslide winning a race against the hose; trial -> a judge's scroll of the trial unrolled; patched slide (no) -> a mended slide waved away
+anchor: what the Sano conduit brings -> a healthy smiling baby at a first-birthday party, a small unicorn painted on the cake, no flowerpot and no coffin anywhere, while the clear waterslide wins its race against the hose
+scene: A pink and wood-brown birthday party in a Baghdad house, candle light. A healthy smiling baby sits at a birthday party, a small painting of a white unicorn on the cake, and there is no flowerpot and no coffin anywhere. Beside the table the cut-open HART Hotel: a little plastic toy hippo is wedged into its shrunken red wing, the orca's mouth and the mitre are turned to narrow grey stone, a Norwegian woodcutter in red flannel has joined the big dollar pipe to the orca, and a clear twisting waterslide runs from the blue engine room to the dollar pipe. In the centre, in the strongest light: the waterslide wins a race against a hose that joins the orca's flipper to the dollar pipe, while a judge unrolls his scroll of the trial. A mended slide is waved away.
+must: there is no flowerpot and no coffin; no letters or digits are written anywhere

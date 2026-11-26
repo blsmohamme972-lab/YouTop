@@ -1,0 +1,169 @@
+book: sesat-13
+style: a vivid fairy-tale illustration of the Arabian Nights in the manner of a modern 3D animated feature film: rounded, expressive characters, glowing jewel-tone colour, warm lantern light with soft shadows, ornate Abbasid Baghdad, its souks, palaces and the seas of Sindbad, every object solid, crisp and instantly recognisable
+theme: the world of the Arabian Nights: the Baghdad of Harun al-Rashid, the souks on the Tigris and the voyages of Sindbad; the sage physician Duban (white beard, green turban) is the recurring healer and Shahrazad tells the tales; stories end with a genuine line from Kalila wa Dimna, a famous Arabic proverb or a line of classical Arabic poetry, spoken by one of the characters
+
+== 111
+# Q: rewarming after arch repair under circulatory arrest: the arterial inflow may be at most 10 degrees above which temperature? A: the venous return temperature
+# the hammam attendant warming the water pouring into the orca only one small ladder-step above the cool water coming back down the drainpipe, a unicorn and a whistle on the ladder = gradient at most 10 above venous return -> ANSWER
+# the melting ice cube and the frosted thermometer = rewarming after deep hypothermic arrest
+# the pink bubble on the orca's arch and the new white fabric arch = arch aneurysm, distal repair done
+# the clay jar, the long false nose and the long thin probe waved away = bladder, nasopharynx, PA catheter (wrong options)
+title: Rewarming on bypass: inflow no more than 10 degrees above the venous return
+titleAr: إعادة التدفئة على المجازة: لا يزيد الدم الداخل عن الراجع الوريدي بأكثر من ١٠ درجات
+tags: cardiac/cpb d:technique q:numbers l:2 x:guideline
+palette: steamy turquoise and warm terracotta with copper pipes
+words:
+keywords: circulatory arrest -> the HART Hotel and the orca inside a giant ice cube now melting and dripping; hypothermia -> a frosted thermometer, its ice starting to thaw; cpb -> the big roller-pump truck, one hose pouring warm water into the orca, one drawing water back; aorta -> the orca parade balloon; aneurysm -> a pink bubble-gum bubble on the orca's arch, with a new white fabric arch sewn beside it; number 10 (maximum gradient, degrees) -> a small painting on the ladder: a white unicorn and a golden whistle; ivc -> a big blue drainpipe carrying the cool water back from the hotel into the truck; heating the water -> a hammam attendant in a towel warming the water over a copper boiler; gradient -> a short ladder of only a few steps between two small thermometers, the warm one never more than the short ladder above the cool one; venous return -> the cool water flowing back out of the drainpipe into the truck; wrong sites (no) -> a clay jar, a long false nose and a long thin probe waved away; old man -> a white-haired old man wrapped in a hammam towel; rushing heat (no) -> a roaring fire under the boiler shut down
+anchor: the maximum rewarming gradient -> the hammam attendant warming the water pouring into the orca only one short ladder above the cool water coming back down the blue drainpipe into the roller-pump truck, a small unicorn and whistle painted on the ladder
+scene: A steamy Baghdad hammam of turquoise tiles and terracotta arches. The HART Hotel and the orca parade balloon stand inside a giant ice cube that is melting and dripping; on the orca's arched back a pink bubble-gum bubble sits beside a new white fabric arch just sewn in. A big roller-pump truck stands by: one hose pours water into the orca, and the cool water flows back to it down a big blue drainpipe from the hotel. In the centre, in the strongest light: a hammam attendant in a towel warms the outgoing water over a copper boiler, and between two small thermometers, one on the warm hose and one on the cool drainpipe, stands a short ladder of only a few steps with a small painting on it of a white unicorn and a golden whistle: the warm one is never more than that short ladder above the cool one. A frosted thermometer thaws on the bench, a white-haired old man sits wrapped in a towel, a roaring fire under a second boiler is shut down, and a clay jar, a long false nose and a long thin probe are waved away.
+must: the ladder joins the warm inflow thermometer to the cool drainpipe thermometer; no letters or digits are written anywhere
+
+== 112
+# Q: new LVAD, not a transplant candidate (pulmonary hypertension), epinephrine cannot be weaned, low output, high CVP: next agent? A: milrinone
+# a rhino pushing the windmill's sails round, its wind blowing the dollar pipes open and the tired blue fan turning again = milrinone (PDE inhibitor, inodilator) -> ANSWER
+# Darth Vader with his glowing chest box = durable LVAD
+# the overflowing water tower, the drooping blue fan and the low water meter = right heart failure: high CVP, low output
+# the gauge in the red on the dollar pipes = pulmonary hypertension
+# the firework tied fast to its stand = epinephrine that cannot be weaned
+# the miner and the vase waved away = no dopamine, no norepinephrine or phenylephrine (wrong options)
+title: Right heart failure on a new LVAD: add milrinone
+titleAr: فشل القلب الأيمن بعد جهاز مساعدة البطين الأيسر: أضف الميلرينون
+tags: cardiac/heart-failure d:pharmacology q:next-step l:3
+palette: dusk purple and wheat gold with windmill white
+words:
+keywords: milrinone -> a rhino pushing the windmill round (MILL-RHINO-ne); pde inhibitor -> a tall windmill turning its sails, its wind blowing the dollar pipes open; vad -> Darth Vader with his glowing chest box standing at the red wing; pulmonary hypertension -> a big round pressure gauge on the pipes of green dollar bills, needle in the red; epinephrine -> a lit red firework rocket tied fast to its stand with rope; cardiac output -> a brass water meter on the orca, its little wheel barely turning; dcm -> the engine rooms stretched floppy like an over-pulled accordion; transplant (no) -> a terracotta flowerpot behind a locked gate; dopamine (no) -> a coal miner with a helmet lamp waved away; vasopressor (no) -> two hands pressing a porcelain vase, waved away; high cvp -> a water tower beside the hotel overflowing; tired right side -> the blue engine room's fan drooping, its stoker asleep; cannot wean -> the rocket's stand roped down to the ground; speed set -> the bat tuning a speed dial on Vader's chest box
+anchor: the best next agent -> a rhino pushing the tall windmill's sails round, its wind blowing the pipes of green dollar bills wide open so the drooping blue engine-room fan spins again beside Darth Vader
+scene: A windmill hill above a wheat-gold village at dusk. Beside the cut-open HART Hotel, its engine rooms stretched floppy like an over-pulled accordion, Darth Vader stands at the red wing with his glowing chest box, a bat tuning a speed dial on it. The blue engine room's fan droops and its stoker sleeps; a water tower beside the hotel overflows; a brass water meter on the orca barely turns. A big round pressure gauge on the pipes of green dollar bills points into the red. A lit red firework rocket is tied fast to its stand with rope. In the centre, in the strongest light: a rhino pushes the sails of a tall white windmill round, and its wind blows the dollar pipes wide open so the blue fan spins again. A coal miner with a helmet lamp and two hands pressing a porcelain vase are waved away, and a terracotta flowerpot stands behind a locked gate.
+must: the rhino turns the windmill; the blue fan starts spinning; no letters or digits are written anywhere
+
+== 113
+# Q: after root, ascending and arch replacement with DHCA, diffuse bleeding despite heparin reversal, platelets, corrected labs and topical agents, no surgical source: next step? A: low-dose recombinant activated factor VII
+# Duban tipping one tiny thimble of sparking elixir from the alchemist's still, a swimmer on the thimble, onto the oozing seams = low-dose recombinant activated factor VII -> ANSWER
+# red drops oozing from every seam of the new fabric orca, no hole anywhere = diffuse coagulopathic bleeding, no surgical bleeding
+# the lion tamer, the white plates and the soaked sponges = heparin reversed, platelets given, topical agents failed
+# the ice cube = deep hypothermic arrest
+# the spool of red thread, the ice lolly and the hot bath waved away = no cryo, no FFP, no rewarming to 38 (wrong options)
+title: Diffuse bleeding after arch surgery despite full correction: low-dose factor VIIa
+titleAr: نزف منتشر بعد جراحة القوس رغم التصحيح الكامل: جرعة صغيرة من العامل السابع المفعَّل
+tags: cardiac/perioperative cardiac/aorta d:complications q:next-step l:3
+palette: crimson and alchemist green-gold with dark oak
+words:
+keywords: number 7 (factor VII) -> a small painting on the thimble: a swimmer; recombinant -> a bubbling glass alchemist's still where the elixir is brewed; activated -> bright sparks leaping from the elixir; low dose -> one tiny thimble-sized cup, no more; diffuse bleeding -> red drops oozing from every seam of the new fabric orca like sweat; topical agents failed -> soaked sponges and powders lying useless on the seams; circulatory arrest -> a giant ice cube melting behind the table; protamine -> a lion tamer with whip and chair who has already tamed the brown hare; platelets -> little white plates already stacked on the seams; fibrinogen (no) -> a spool of sticky red thread set aside; ffp (no) -> a big yellow ice lolly of frozen plasma set aside; aorta -> the new white fabric orca balloon, root, climb and arch all freshly sewn; hot bath (no) -> a steaming hot bath waved away
+anchor: the best next step -> the sage Duban tipping one tiny thimble of sparking elixir from the alchemist's still, a small swimmer painted on the thimble, onto the oozing seams of the new fabric orca while the ice lolly and the spool of red thread are set aside
+scene: An alchemist's tower room of dark oak, crimson curtains, a giant ice cube melting behind the table. On the table lies the orca balloon remade in white fabric, its root, climb and arch freshly sewn, and red drops ooze from every seam like sweat, though there is no hole anywhere. Soaked sponges and powders lie useless on the seams, little white plates are already stacked on them, and a lion tamer with whip and chair stands by the brown hare he has already tamed. In the centre, in the strongest light: the sage Duban tips one tiny thimble of elixir from a bubbling glass alchemist's still onto the seams, bright sparks leaping from it, a small painting of a swimmer on the thimble. A spool of sticky red thread and a big yellow ice lolly of frozen plasma are set aside, and a steaming hot bath is waved away.
+must: only one tiny thimble is used; there is no hole in the orca, only oozing seams; no letters or digits are written anywhere
+
+== 114
+# Q: low ejection fraction, new atrial fibrillation 125-145 after CABG, CVP 25, MAP 68, unwell: best treatment? A: IV amiodarone
+# Duban in soft velvet gloves firing the ammo bandolier fed from a drip bottle at trembling Pinocchio, the metronome slowing = IV amiodarone, safe in a weak heart -> ANSWER
+# Pinocchio trembling in the upper lobby and the tachometer high = fast atrial fibrillation
+# the feeble bouncer and the overflowing water tower = EF 25 percent, high CVP
+# the low gauge = borderline pressure
+# the goalkeeper and the glue-dammed canal held back = no metoprolol, no diltiazem (wrong options)
+title: Fast atrial fibrillation after CABG with a weak heart: IV amiodarone
+titleAr: رجفان أذيني سريع بعد المجازات مع قلب ضعيف: أميودارون وريدي
+tags: cardiac/arrhythmia d:pharmacology d:postoperative q:next-step l:2 x:high-yield
+palette: velvet maroon and brass with candle yellow
+words:
+keywords: amiodarone -> a bandolier of brass ammo rounds fired at the dancing figure; atrial fibrillation -> Pinocchio, his long nose growing, trembling all over in the upper glass lobby; tachycardia -> a car's tachometer bolted to the engine room, needle deep in the red; ejection fraction -> a feeble nightclub bouncer barely pushing a guest out of the red engine room's door; number 25 (ejection fraction, percent) -> a small tattoo on the bouncer's arm: a green dragon and a blue hamsa hand; cabg -> fresh cabbage leaves laid over the crown's spikes; hypotension -> the big round pressure gauge, its needle near the low blue zone; beta-blocker (no) -> an ice-hockey goalkeeper held back; calcium channel blocker (no) -> a canal dammed with white chalky glue, held back; intravenous -> a glass drip bottle feeding the ammo belt; high cvp -> a water tower beside the hotel overflowing; feels ill -> a pale, sweating old man clutching a cushion; rate control -> a brass metronome slowing down; gentle on a weak heart -> soft velvet gloves on Duban's hands
+anchor: the best next treatment -> the sage Duban, in soft velvet gloves, firing a bandolier of brass ammo fed from a glass drip bottle at the trembling Pinocchio in the upper lobby, a brass metronome beside him slowing down
+scene: A velvet-maroon sickroom in a Baghdad palace by candlelight. A pale, sweating old man clutches a cushion beside the cut-open HART Hotel, fresh cabbage leaves laid over its crown's spikes. In the upper glass lobby Pinocchio trembles all over, his nose growing, and a tachometer on the engine room points deep into the red. A feeble bouncer barely pushes a guest out of the red engine room's door, a small tattoo on his arm of a green dragon and a blue hamsa hand. A water tower beside the hotel overflows, and the big round pressure gauge points near its low blue zone. In the centre, in the strongest light: the sage Duban in soft velvet gloves fires a bandolier of brass ammo, fed from a glass drip bottle on a stand, at the trembling Pinocchio, and a brass metronome beside him slows down. An ice-hockey goalkeeper and a canal dammed with white chalky glue are held back.
+must: the ammo comes from the drip bottle; no letters or digits are written anywhere
+
+== 115
+# Q: anxious woman before CABG (sister had a stroke from postoperative AF): best way to prevent postoperative AF? A: oral beta-blockers
+# the goalkeeper swallowing a lozenge at dawn and planting himself in the upper lobby so Pinocchio stays asleep in his hammock = oral beta-blockers prevent POAF -> ANSWER
+# the sister's portrait struck by lightning = stroke from AF
+# the cabbage leaves = CABG ahead
+# the foxglove, the dog's ear tied off and the islands waved away = no digoxin, no appendage ligation, no PV isolation (wrong options)
+title: Preventing atrial fibrillation after heart surgery: oral beta-blockers
+titleAr: الوقاية من الرجفان الأذيني بعد جراحة القلب: حاصرات بيتا الفموية
+tags: cardiac/arrhythmia d:pharmacology q:recall l:1 x:high-yield x:guideline
+palette: dawn peach and sky blue with crown green
+words:
+keywords: beta-blocker -> an ice-hockey goalkeeper planting himself in the upper glass lobby with his big blocker pad; atrial fibrillation -> Pinocchio asleep in a hammock in the upper lobby, kept from trembling; stroke -> a lightning bolt striking the portrait on the wall; her sister -> a portrait of a woman in the same blue scarf as the anxious woman; cabg -> fresh cabbage leaves waiting in a basket to be laid over the crown's spikes; coronary -> the green crown on the hotel roof, tar on its spikes; digitalis (no) -> a tall purple foxglove flower waved away; laa (no) -> a floppy dog's ear tied off with string, waved away; pvi (no) -> four little islands drawn round doorways, waved away; oral -> the goalkeeper swallowing a lozenge; before surgery -> a dawn sky, the match not yet begun; prevention -> Pinocchio kept asleep, never waking to dance; anxious woman -> a woman biting her nails at the hotel door
+anchor: the best prevention -> an ice-hockey goalkeeper swallowing a lozenge at dawn and planting himself in the upper glass lobby with his blocker pad, so Pinocchio stays asleep in his hammock
+scene: A palace courtyard at dawn, peach and sky blue, before the day's work begins. The cut-open HART Hotel stands in the middle, tar on the spikes of its green crown, and a basket of fresh cabbage leaves waits beside it to be laid over them. A woman in a blue scarf bites her nails at the hotel door, and on the wall hangs a portrait of her sister in the same blue scarf, struck by a lightning bolt. In the centre, in the strongest light: an ice-hockey goalkeeper swallows a lozenge and plants himself in the upper glass lobby with his big blocker pad, so that Pinocchio stays asleep in a hammock there, never waking to dance. A tall purple foxglove, a floppy dog's ear tied off with string and four little islands drawn round doorways are waved away.
+must: Pinocchio is asleep, not trembling; no letters or digits are written anywhere
+
+== 116
+# Q: woman with a durable LVAD, INR 2.75, MAP 105 on aspirin, aortic valve closed: what prevents stroke most? A: keep the MAP below 90
+# Duban turning the brass release wheel of the hissing boiler so the gauge drops below the chalk line under a monkey and a whistle, the lightning turning away = MAP below 90 -> ANSWER
+# Darth Vader with his glowing chest box = LVAD
+# the asp and the rat on guard = aspirin and warfarin already right
+# the orca's lips sealed shut = closed aortic valve
+# the clogs, the smaller rat and the speed dial waved away = no DAPT, no lower INR, no speed change (wrong options)
+title: Stroke prevention on an LVAD: keep the mean pressure below 90
+titleAr: الوقاية من السكتة مع جهاز مساعدة البطين: أبقِ الضغط الوسطي تحت ٩٠
+tags: cardiac/heart-failure d:complications q:numbers l:2
+palette: steel grey and boiler copper with a lightning white
+words:
+keywords: vad -> Darth Vader with his glowing chest box, an old lady leaning on his arm; stroke -> a lightning bolt over the head turning away; hypertension -> the big round pressure gauge, needle in the red zone and falling; number 90 (target mean pressure, mmHg) -> a small painting on the gauge at the chalk line: a monkey and a golden whistle; aspirin -> a small asp coiled round a white tablet; warfarin -> a rat in a soldier's helmet standing steady guard; aortic valve -> the orca balloon's mouth, its lips sealed shut; clopidogrel (no) -> a pair of wooden clogs waved away; rising steam -> a hissing copper boiler beside the hotel; lowering -> Duban turning the boiler's big brass release wheel; target line -> a chalk line drawn low on the gauge; speed change (no) -> a speed dial on Vader's chest box waved away; old woman -> an old lady in a grey shawl leaning on Vader's arm
+anchor: the most impactful step against stroke -> the sage Duban turning the brass release wheel of the hissing boiler so the gauge's needle drops below the chalk line under a small monkey and whistle, and the lightning bolt over the head turns away
+scene: A steel-grey bathhouse boiler room with copper pipes. An old lady in a grey shawl leans on the arm of Darth Vader, his chest box glowing, beside the cut-open HART Hotel; the orca balloon's mouth has its lips sealed shut. A small asp coils round a white tablet and a rat in a soldier's helmet stands steady guard. A hissing copper boiler stands by the hotel and a big round pressure gauge on it points into the red. In the centre, in the strongest light: the sage Duban turns the boiler's big brass release wheel, steam rushes out, and the needle falls below a chalk line drawn low on the gauge, a small painting at that line of a monkey and a golden whistle; above the lady's head a lightning bolt turns away. A pair of wooden clogs and a speed dial on Vader's chest box are waved away.
+must: the needle ends below the chalk line; no letters or digits are written anywhere
+
+== 117
+# Q: after heart transplant (prior CABG), dilated failing RV and underfilled LV despite milrinone, RA 24, CI 1.5: next step? A: selective pulmonary vasodilators (inhaled)
+# Duban breathing soft nitro smoke through a brass hookah hose straight into the dollar pipes so the swollen blue room can push water to the half-empty red one = selective pulmonary vasodilator -> ANSWER
+# the new heart in the gardener's flowerpot = transplant
+# the blue room swollen like a pumpkin, the red room half empty, the overflowing water tower, the low water meter = RV failure, underfilled LV, high RA pressure, low index
+# the windmill already turning = milrinone already given
+# the vase, the goalkeeper and the sausage waved away = no alpha agonist, no esmolol, no IABP (wrong options)
+title: Right ventricular failure after heart transplant: inhaled pulmonary vasodilator
+titleAr: فشل البطين الأيمن بعد زرع القلب: موسّع رئوي انتقائي مستنشق
+tags: cardiac/heart-failure d:postoperative q:next-step l:3
+palette: hookah brass and teal with soft white smoke
+words:
+keywords: nitric oxide -> soft nitro smoke breathed only into the money pipes; selective inhaled -> a brass hookah hose carrying the smoke straight into the pipes; pulmonary -> the pipes of green dollar bills; transplant -> a gardener's terracotta flowerpot holding the new heart; pde inhibitor -> a tall windmill already turning its sails; cardiac output -> a brass water meter on the orca, its wheel barely turning; vasopressor (no) -> two hands pressing a porcelain vase, waved away; beta-blocker (no) -> an ice-hockey goalkeeper waved away; iabp (no) -> a long sausage-shaped balloon waved away; swollen right side -> the blue engine room swollen round like a pumpkin; empty left side -> the red engine room half empty, its floor dry; overflowing tower -> a water tower beside the hotel overflowing; weaning -> the roller-pump truck's driver easing off the throttle
+anchor: the best next step -> the sage Duban breathing soft nitro smoke through a brass hookah hose straight into the pipes of green dollar bills, so the swollen blue engine room can push its water through to the half-empty red one
+scene: A teal-tiled garden pavilion with brass lamps. A gardener has just set the new heart, a small cut-open HART Hotel, in a terracotta flowerpot; the roller-pump truck beside it has its driver easing off the throttle. The blue engine room is swollen round like a pumpkin, the red engine room is half empty with a dry floor, a water tower beside the hotel overflows, and a brass water meter on the orca barely turns. A tall windmill nearby already turns its sails. In the centre, in the strongest light: the sage Duban breathes soft nitro smoke through a brass hookah hose straight into the pipes of green dollar bills, which open wide, and the blue room's water flows through them into the red room. Two hands pressing a porcelain vase, an ice-hockey goalkeeper and a long sausage-shaped balloon are waved away.
+must: the smoke goes only into the dollar pipes; no letters or digits are written anywhere
+
+== 118
+# Q: aortic valve endocarditis with acute aortic regurgitation: how does the LV respond? A: its end-diastolic pressure rises
+# the small stiff steel vault of the red room flooding suddenly through the orca's sagging mouth until the gauge on its floor shoots up as the bucket brims = acute AR raises LV end-diastolic pressure -> ANSWER
+# the broccoli-sprouting cards on the orca's lips = endocarditis
+# the heavy weight on a piston waved away = not pressure overload (wrong option)
+title: Acute aortic regurgitation: the left ventricle's end-diastolic pressure rises
+titleAr: القلس الأبهري الحاد: يرتفع الضغط الانبساطي النهائي للبطين الأيسر
+tags: cardiac/aortic-valve d:physiology q:recall l:2
+palette: sea blue and broccoli green with a red alarm glow
+words:
+keywords: aortic valve -> the orca balloon's mouth sagging open and dripping water back into the red engine room; regurgitation -> water gurgling and spraying back through the orca's mouth; endocarditis -> playing cards sprouting broccoli on the orca's lips; compliance -> the red engine room a small stiff steel vault, not a soft bouncy castle; ventricle -> the red ground-floor engine room with its fan; hypertension -> a big round pressure gauge on the red room's floor, needle shooting into the red; acute -> a sudden flood bursting in all at once; end-diastolic -> a bucket filling to the brim at the very end of the pour; pressure overload (no) -> a heavy iron weight on a piston, waved away; no time to stretch -> a tailor's tape round the vault showing it has not grown; old man -> an old man staring in shock at the hotel door; diastole -> a crescent moon in the window, the night of rest when the room fills
+anchor: what the left ventricle does -> the red engine room, still a small stiff steel vault, flooded suddenly by water gurgling back through the orca's sagging mouth until the gauge on its floor shoots up into the red as the bucket brims
+scene: A harbour of Basra under a crescent moon, sea blue. The cut-open HART Hotel stands on the quay; the orca balloon's mouth sags open, playing cards sprouting broccoli on its lips, and water gurgles and sprays back through it into the red engine room. In the centre, in the strongest light: the red engine room, a small stiff steel vault rather than a soft bouncy castle, floods suddenly all at once; a bucket inside fills to the brim, and a big round pressure gauge on its floor shoots its needle up into the red. A tailor's tape round the vault shows it has not grown at all. An old man stares in shock at the hotel door, and a heavy iron weight on a piston is waved away.
+must: the room stays small and stiff while the gauge shoots up; no letters or digits are written anywhere
+
+== 119
+# Q: tricuspid regurgitation 15 years after mitral repair, tired on hills: best next test of the tricuspid valve? A: transthoracic echocardiogram
+# the bat circling outside the hotel window, sending its rings at the leaking trident, the magnet, the fishing line and the treadmill left on the shelf = TTE first -> ANSWER
+# the trident's door gurgling, a trickle grown to a stream = TR worse than mild
+# the old faded patch on the mitre = mitral repair years ago
+# the cyclist falling behind on the hill = fatigue on exertion
+title: Tricuspid regurgitation after mitral repair: start with a transthoracic echo
+titleAr: قلس ثلاثي الشرف بعد إصلاح التاجي: ابدأ بإيكو عبر الصدر
+tags: cardiac/mitral-tricuspid d:diagnosis q:next-step l:1
+palette: hill green and evening amber with cool blue
+words:
+keywords: echo -> a bat circling outside the hotel window, sending rings of sound in; tricuspid -> a trident set in the blue wing's doorway; regurgitation -> water gurgling and spraying back through the trident's door; mitral -> the bishop's mitre with an old faded patch sewn on it; mri (no) -> a giant red horseshoe magnet left on the shelf; catheterization (no) -> a fishing line and reel left on the shelf; stress test (no) -> a treadmill left on the shelf; tired on hills -> a cyclist falling behind his friends on a steep hill; transthoracic -> the bat staying outside, never going in; worse over years -> a small trickle that has grown into a stream; simplest first -> the first, smallest tool lifted from an open toolbox; old repair -> an old faded patch on the mitre
+anchor: the best next test -> the bat circling outside the hotel window, sending its rings at the leaking trident, while the horseshoe magnet, the fishing line and the treadmill stay on the shelf
+scene: A hill town above the Tigris at evening, green slopes and amber light. On the steep road a cyclist falls behind his friends. Beside the road stands the cut-open HART Hotel: the bishop's mitre in its red wing wears an old faded patch, and the trident in the blue wing's doorway lets water gurgle and spray back, a trickle that has grown into a stream. In the centre, in the strongest light: a bat circles outside the hotel window, staying outside, and sends rings of sound in at the leaking trident. On a shelf beside an open toolbox, from which the first, smallest tool has just been lifted, lie a giant red horseshoe magnet, a fishing line and reel, and a small treadmill, unused.
+must: the bat stays outside the hotel; no letters or digits are written anywhere
+
+== 120
+# Q: severe aortic stenosis (mean 57), moderate TR with an enlarged RV and a 42 mm tricuspid annulus, low surgical risk: best treatment? A: surgical AVR with tricuspid annuloplasty
+# the dentist pushing new dentures into the orca's stone mouth while a smith, in the same trip, tightens a brass collar ring round the trident's stretched doorway, a cap and a dragon on the ring = SAVR plus tricuspid annuloplasty -> ANSWER
+# the orca's mouth turned to stone = severe aortic stenosis
+# the trident's doorway stretched wide, water gurgling = moderate TR, dilated annulus
+# the calm sea = low operative risk
+# the folded dentures on a fishing line and the robot for the trident waved away = no TAVR, no tricuspid replacement (wrong options)
+title: Aortic stenosis with a dilated tricuspid annulus: AVR plus tricuspid annuloplasty
+titleAr: تضيق أبهري مع حلقة ثلاثي شرف متوسعة: استبدال الأبهري مع رأب الحلقة
+tags: cardiac/aortic-valve cardiac/mitral-tricuspid d:indications q:vignette l:2 x:guideline
+palette: marble white and sapphire with forge orange
+words:
+keywords: valve stenosis -> the orca balloon's mouth turned to grey stone, narrow; avr -> a dentist pushing brand-new dentures into the orca's stone mouth; tricuspid -> a trident in the blue wing's doorway; annulus -> a brass collar ring tightened round the trident's doorway; number 42 (tricuspid annulus, mm) -> a small engraving on the ring: a graduation cap and a green dragon; regurgitation -> water gurgling back through the trident's door; tavr (no) -> folded dentures on a fishing line waved away; same trip -> a porter carrying both loads on one tray; stretched doorway -> the trident's doorway stretched wide like a gate; breathless woman -> an old woman pausing breathless on the stairs; low risk -> a calm sea outside the window; no swelling -> dry ankles in neat sandals; replacement (no) -> a clanking little robot for the trident waved away
+anchor: the best treatment -> a dentist pushing brand-new dentures into the orca's stone mouth while, in the same trip, a smith tightens a brass collar ring round the trident's stretched doorway, a small cap and dragon engraved on the ring
+scene: A marble palace hall by a calm sapphire sea. An old woman in neat sandals, her ankles dry, pauses breathless on the stairs beside the cut-open HART Hotel. The orca balloon's mouth has turned to narrow grey stone; in the blue wing's doorway the trident's doorway is stretched wide like a gate and water gurgles back through it. In the centre, in the strongest light: a dentist pushes brand-new dentures into the orca's stone mouth while, in the same trip, a smith in a forge-orange apron tightens a brass collar ring round the trident's stretched doorway, a small engraving on the ring of a graduation cap and a green dragon; a porter beside them carries both their loads on one tray. Folded dentures on a fishing line and a clanking little robot for the trident are waved away.
+must: both jobs are done at once; no letters or digits are written anywhere

@@ -1,0 +1,173 @@
+book: sesat-13
+style: a vivid fairy-tale illustration of the Arabian Nights in the manner of a modern 3D animated feature film: rounded, expressive characters, glowing jewel-tone colour, warm lantern light with soft shadows, ornate Abbasid Baghdad, its souks, palaces and the seas of Sindbad, every object solid, crisp and instantly recognisable
+theme: the world of the Arabian Nights: the Baghdad of Harun al-Rashid, the souks on the Tigris and the voyages of Sindbad; the sage physician Duban (white beard, green turban) is the recurring healer and Shahrazad tells the tales; stories end with a genuine line from Kalila wa Dimna, a famous Arabic proverb or a line of classical Arabic poetry, spoken by one of the characters
+
+== 261
+# Q: 4-year-old before tonsillectomy, saturation 91 percent, mild cardiomegaly: most likely defect? A: coronary sinus ASD (unroofed) with a left SVC
+# the second chimney's smoke running down into the sink, whose drain has lost its roof, so it leaks into the red lobby = unroofed coronary sinus with left SVC, a right-to-left leak -> ANSWER
+# the finger clip glowing with a monkey and a unicorn, faintly blue lips = saturation 91 percent
+# the hotel puffed up a little = mild cardiomegaly
+# the Venus, the prime rib and the clock with a clamp waved away = not sinus venosus, primum or secundum with PS (wrong options)
+title: Mild desaturation with a left SVC: unroofed coronary sinus
+titleAr: هبوط إشباع خفيف مع وريد أجوف علوي أيسر: الجيب التاجي غير المسقوف
+tags: cardiac/congenital d:diagnosis q:vignette l:3
+palette: cherry red and soot grey with porcelain white
+words:
+keywords: coronary sinus -> a sink with a little green crown in the floor of the blue lobby; left svc -> a second chimney on the left side of the hotel, its smoke running down into the sink; atrium -> the red glass-roofed atrium lobby upstairs, smoke seeping into it; cyanosis -> a child with faintly blue lips; number 91 (oxygen saturation, percent) -> a small painting on the finger clip: a monkey and a white unicorn; sinus venosus (no) -> a white marble Venus statue waved away; primum (no) -> a prime rib roast waved away; secundum (no) -> a round clock with a clamp hanging on it, waved away; unroofed -> the sink's drain pipe with its roof missing, open along its length; right-to-left leak -> grey smoke slipping from the sink into the red lobby; finger clip -> a little glowing clip on the child's finger; mild cardiomegaly -> the whole hotel puffed up a little; tonsillectomy -> a barber's tray with small scissors waiting for the tonsils
+anchor: the most likely defect -> the second chimney's grey smoke running down into the crowned sink, whose drain has lost its roof along its length, so the smoke slips through into the red lobby
+scene: A barber-surgeon's room in a Baghdad souk, cherry red and porcelain white, a tray with small scissors waiting for the tonsils. A child sits with faintly blue lips, a little glowing clip on her finger with a small painting of a monkey and a white unicorn. Beside her stands the cut-open HART Hotel, puffed up a little all over, with a second chimney on its left side. In the centre, in the strongest light: the second chimney's grey smoke runs down into a sink with a little green crown in the floor of the blue lobby, but the sink's drain pipe has lost its roof along its length, so the smoke slips straight through into the red glass-roofed lobby. A white marble Venus statue, a prime rib roast and a round clock with a clamp on it are waved away.
+must: the smoke leaks from the sink's open drain into the red lobby; no letters or digits are written anywhere
+
+== 262
+# Q: before birth, what does the opening at the foramen ovale do in a normal heart? A: directs umbilical venous blood to the left atrium
+# the oval cat flap swinging open towards the red lobby so the fresh red water from the golden cord flows straight through into it = foramen ovale sends umbilical vein blood to the left atrium -> ANSWER
+# the golden cord from the mother's lantern into the drainpipe = umbilical vein to the IVC
+# the baby curled in a glass globe, the dollar pipes folded shut = the fetus, lungs not yet used
+# the duct-tape tunnel = the other fetal shunt
+# the flap signpost pointing left = the stream is aimed across the atrial septum
+title: Fetal circulation: the foramen ovale sends umbilical blood to the left atrium
+titleAr: الدورة الجنينية: الثقبة البيضية توجّه دم الوريد السري إلى الأذين الأيسر
+tags: cardiac/congenital cardiac/foundations d:physiology q:recall l:1
+palette: womb rose and warm gold with soft river red
+words:
+keywords: pfo -> an oval cat flap in the upper party wall swinging open towards the red lobby; ivc -> a big blue drainpipe coming up into the floor of the hotel; atrium -> the red glass-roofed atrium lobby receiving the stream; pulmonary -> the pipes of green dollar bills folded shut, not yet used; ductus -> a tunnel of shiny silver duct tape between the dollar pipe and the orca; oxygen -> a little ox in a clear oxygen mask riding the fresh stream; umbilical vein -> a golden cord from the mother's lantern carrying fresh red water into the drainpipe; fetus -> a baby curled up asleep inside a glass globe; placenta -> the mother's glowing lantern at the end of the cord; signpost -> a little flap at the drainpipe's mouth shaped like a signpost pointing left; unused lungs -> the folded dollar pipes tied with ribbon; mother -> a mother in a rose veil holding the lantern
+anchor: what the opening is for -> the oval cat flap swinging open towards the red lobby, so the fresh red water from the golden cord, riding up the blue drainpipe, flows straight through it into the red lobby
+scene: A rose and gold chamber like the inside of a pearl. A mother in a rose veil holds a glowing lantern, and from it a golden cord runs into a glass globe where a baby lies curled asleep, and on into a big blue drainpipe that rises into the floor of a small cut-open HART Hotel inside the globe. A little ox in a clear oxygen mask rides the fresh red stream. At the drainpipe's mouth a little flap shaped like a signpost points left. In the centre, in the strongest light: an oval cat flap in the upper party wall swings open towards the red lobby, and the fresh red water flows straight through it into the red glass-roofed lobby. The pipes of green dollar bills are folded shut and tied with ribbon, and a tunnel of shiny silver duct tape joins them to the orca.
+must: the stream goes from the blue side through the flap into the red lobby; no letters or digits are written anywhere
+
+== 263
+# Q: 12-year-old with exertional breathlessness, mid-ventricular septal hypertrophy, no SAM, mean gradient 30: best next treatment? A: beta-blockade
+# the ice-hockey goalkeeper calming the bodybuilder's bulging middle wall while a lute plays slowly, the knives kept in a closed drawer = beta-blockers first -> ANSWER
+# the bodybuilder's biceps bulging in the middle of the lower party wall, Uncle Sam absent = mid-ventricular hypertrophic cardiomyopathy without SAM
+# the modest squeeze of water with a fox and a whistle = gradient 30
+# the whisky, the bodyguard and the chisel waved away = no alcohol ablation, ICD or myectomy now (wrong options)
+title: Mid-ventricular HCM in a child with a modest gradient: beta-blockers first
+titleAr: اعتلال عضلة القلب الضخامي في منتصف البطين عند طفل مع ممال متوسط: حاصرات بيتا أولًا
+tags: cardiac/congenital d:indications q:next-step l:2
+palette: wrestling-ring ochre and calm blue
+words:
+keywords: hcm -> the lower party wall swollen into the huge bulging biceps of a bodybuilder; beta-blocker -> an ice-hockey goalkeeper calming the bodybuilder with his big blocker pad; sam (absent) -> Uncle Sam's empty top hat on a peg, no one pulling the mitre; number 30 (mean gradient, mmHg) -> a small painting on the wall: a red fox and a golden whistle; regurgitation -> a little water gurgling back through the mitre; alcohol ablation (no) -> a bottle of whisky waved away; icd (no) -> a tiny bodyguard in a black suit waved away; myectomy (no) -> a sculptor's chisel waved away; breathless child -> a schoolboy stopping to catch his breath; mid-wall bulge -> the bulge sitting in the middle of the wall, not at its top; calming -> a lute playing a slow tune; medicine first -> knives kept in a closed drawer; modest squeeze -> water squeezing past the bulge in a modest stream
+anchor: the best next treatment -> an ice-hockey goalkeeper pressing his big blocker pad against the bodybuilder's bulging middle wall to calm it, while a lute plays slowly and the knives stay in a closed drawer
+scene: An ochre wrestling courtyard with calm blue arches. A schoolboy stops to catch his breath beside the cut-open HART Hotel. Its lower party wall is swollen into the huge bulging biceps of a bodybuilder, the bulge sitting in the middle of the wall, and water squeezes past it in a modest stream; a small painting of a red fox and a golden whistle is on the wall, a little water gurgles back through the mitre, and Uncle Sam's empty top hat hangs on a peg. In the centre, in the strongest light: an ice-hockey goalkeeper presses his big blocker pad against the bulging middle wall to calm it, while a musician plays a slow tune on a lute; beside them the knives stay in a closed drawer. A bottle of whisky, a tiny bodyguard in a black suit and a sculptor's chisel are waved away.
+must: no one pulls the mitre; no letters or digits are written anywhere
+
+== 264
+# Q: 12 hours after tetralogy repair, rate climbing to 195 with no P waves, pressure falling, slows with cooling, worse with atrial pacing: best drug? A: amiodarone
+# Duban firing the brass ammo at the sparking knot at the top of the branches while cool wet towels lie on the runaway cart = amiodarone for junctional ectopic tachycardia -> ANSWER
+# the knot sparking on its own and the tachometer in the red with a unicorn, a monkey and a hamsa = JET at 195
+# the empty bandstand upstairs = no P waves
+# the drummer speeding up and the gauge sinking = atrial pacing lowers the pressure
+# the raft of four logs = tetralogy just repaired
+# the lion in its den waved away = not adenosine (wrong option)
+title: Junctional ectopic tachycardia after tetralogy repair: amiodarone
+titleAr: تسرّع القلب الوصلي المنتبذ بعد إصلاح رباعية فالو: الأميودارون
+tags: cardiac/congenital cardiac/arrhythmia d:pharmacology q:next-step l:2 x:high-yield
+palette: hot ember orange and cool aqua
+words:
+keywords: amiodarone -> a bandolier of brass ammo rounds fired at the sparking knot; av node -> a big tight knot at the top of the crackling bundle of branches, sparking by itself; tachycardia -> a car's tachometer bolted to the engine room, needle deep in the red; number 195 (heart rate) -> a small painting on the tachometer: a white unicorn, a monkey and a blue hamsa hand; tetralogy -> a raft of four logs pulled ashore beside the hotel; hypothermia -> cool wet towels on the runaway cart, a frosted thermometer beside it; pacemaker -> a marching drummer speeding up, making things worse; adenosine (no) -> a lion in its den waved away; runaway rate -> a small cart rolling faster and faster downhill; no p wave -> an empty bandstand in the upper lobby; baby -> a baby in a cot; night after surgery -> a night nurse holding a lamp over the cot; falling pressure -> the pressure gauge's needle sinking as the drummer speeds up
+anchor: the best drug -> the sage Duban firing his bandolier of brass ammo at the big knot sparking by itself at the top of the bundle of branches, while cool wet towels slow the runaway cart
+scene: A night ward lit in ember orange and aqua. A baby lies in a cot, a night nurse holding a lamp over it, beside a raft of four logs pulled ashore and the cut-open HART Hotel. In the upper lobby stands an empty bandstand; below it a big tight knot at the top of the crackling bundle of branches sparks by itself, a tachometer on the engine room points deep into the red with a small painting of a white unicorn, a monkey and a blue hamsa hand, and a small cart rolls faster and faster downhill. A marching drummer speeds up and the pressure gauge's needle sinks. Cool wet towels lie on the cart beside a frosted thermometer and slow it a little. In the centre, in the strongest light: the sage Duban fires a bandolier of brass ammo at the sparking knot. A lion in its den is waved away.
+must: the bandstand upstairs is empty; the sparks come from the knot; no letters or digits are written anywhere
+
+== 265
+# Q: neonate after Norwood on ECMO suffers a cerebral air embolism from a cracked venous cannula; documented, family told: the team's obligation? A: a hospital committee for root cause analysis
+# the caliph's council of elders digging round a fallen tree to find its root = root cause analysis by a hospital committee -> ANSWER
+# the cracked brass cannon on the gills box leaking soap bubbles to the head lantern = ECMO cannula crack, cerebral air embolism
+# the Norwegian woodcutter = after a Norwood
+# Pinocchio trembling inside the engine room = ventricular fibrillation
+# the scribe and the listening parents = documented, family informed
+# the three messengers on horses waved away = no Joint Commission, FDA or NPDB report as the obligation (wrong options)
+title: A serious harm event: the hospital must do a root cause analysis
+titleAr: حدث ضار خطير: على المستشفى إجراء تحليل السبب الجذري
+tags: cardiac/congenital d:evidence q:recall l:1
+palette: council-hall sandstone and ink blue with a tree-root brown
+words:
+keywords: norwood -> a Norwegian woodcutter in red flannel standing by the cot; ecmo -> a pair of big red fish gills in a clear box on a bedside trolley; cannulation -> a small brass cannon with a crack down its side; air embolism -> clear soap bubbles slipping out of the crack and rolling up to the head lantern; ventricular fibrillation -> Pinocchio trembling wildly inside the engine room; stroke -> a lightning bolt striking the head lantern; root cause analysis -> a council of elders digging round a fallen tree to find its root; committee -> the elders seated at a round table under the caliph's lamp; documented -> a scribe writing the event in a big book; family informed -> two parents listening with bowed heads; outside agencies (no) -> three messengers on horses waved away; newborn -> a tiny newborn in a cot
+anchor: the team's obligation -> the caliph's council of elders, seated round a table under a lamp, digging round a fallen tree to find its root, the cracked brass cannon lying on the table before them
+scene: A sandstone council hall in Baghdad, ink-blue banners. A tiny newborn lies in a cot beside the cut-open HART Hotel, a Norwegian woodcutter in red flannel standing by; inside the engine room Pinocchio trembles wildly. On a bedside trolley a pair of big red fish gills in a clear box pumps, and a small brass cannon joined to it has a crack down its side, clear soap bubbles slipping out and rolling up to the head lantern, which a lightning bolt strikes. A scribe writes the event in a big book, and two parents listen with bowed heads. In the centre, in the strongest light: the caliph's council of elders, seated round a table under a lamp, dig round a fallen tree beside the table to find its root, the cracked cannon lying before them. Three messengers on horses are waved away at the door.
+must: the elders are digging to the tree's root; no letters or digits are written anywhere
+
+== 266
+# Q: atriopulmonary Fontan for tricuspid atresia, recurrent tachyarrhythmias, massive right atrium, good LV: Fontan conversion must be combined with? A: Cox-Maze procedure
+# a gardener planting a green hedge maze across the giant blue lobby while a mason rebuilds the fountain's channel = Fontan conversion with a Maze -> ANSWER
+# the trident welded shut = tricuspid atresia
+# the blue lobby blown up like a giant dome, sawtooth bunting fluttering round it = massive right atrium with atrial flutter
+# the jumper cables = repeated cardioversions
+# the ice wand on the knot waved away = no AV node cryoablation, CRT or ICD (wrong options)
+title: Fontan conversion for arrhythmias: always add a Maze
+titleAr: تحويل فونتان بسبب اضطرابات النظم: أضف عملية المتاهة دائمًا
+tags: cardiac/congenital cardiac/arrhythmia d:technique q:recall l:2
+palette: garden green and fountain blue with sandstone
+words:
+keywords: maze -> a green hedge maze being planted across the upper lobby; fontan -> a stone fountain in the hotel courtyard, fed by the blue wing's chimney; atresia -> a pipe welded shut with a thick iron cap; tricuspid -> a trident in the blue wing's doorway, welded shut; atrial flutter -> a string of sawtooth bunting flags fluttering round the blue lobby; cardioversion -> a car being jump-started with sparking jumper cables, used again and again; cryoablation (no) -> a frosted ice wand on the knot, waved away; fontan conversion -> a mason rebuilding the fountain's old channel into a new straight one; giant blue dome -> the blue lobby blown up like a giant dome; strong single room -> the single red engine room's fan humming strongly; racing pulse -> a young man holding his wrist, his pulse racing; childhood operation -> a faded old stone plaque by the fountain; repeated shocks -> a pile of burnt jumper-cable clamps on the ground
+anchor: what must be combined -> a gardener planting a green hedge maze across the giant blue lobby while a mason rebuilds the stone fountain's old channel into a new straight one
+scene: A palace garden of green hedges and fountain blue. A young man holds his wrist, his pulse racing, beside a car being jump-started with sparking jumper cables, used again and again, a pile of burnt clamps on the ground. The cut-open HART Hotel stands in the garden, the trident in its blue doorway welded shut with a thick iron cap, its blue lobby blown up like a giant dome with sawtooth bunting fluttering round it, its single red engine room's fan humming strongly; a stone fountain in the courtyard is fed by the blue wing's chimney, a faded old stone plaque beside it. In the centre, in the strongest light: a gardener plants a green hedge maze across the giant blue lobby while a mason rebuilds the fountain's old channel into a new straight one. A frosted ice wand on the knot is waved away.
+must: the maze and the new channel are made together; no letters or digits are written anywhere
+
+== 267
+# Q: in children, biventricular pacing helps most in which group? A: chronic right ventricular pacing for complete heart block
+# a second drummer joining the old lone drummer of the blue room so the two drummers strike together and both fans turn in step = CRT for chronic RV pacing with complete heart block -> ANSWER
+# the drawbridge raised for good = complete heart block
+# the old drummer who has beaten for years in the blue room only, the red fan lagging = chronic RV pacing, dyssynchrony
+# the accordion, the curtain and the raft waved away = not DCM, LBBB after subaortic resection or RBBB after tetralogy (wrong options)
+title: Biventricular pacing in children: best for chronic right ventricular pacing
+titleAr: التنظيم ثنائي البطين عند الأطفال: أفضل نتيجة عند التنظيم المزمن للبطين الأيمن
+tags: cardiac/congenital cardiac/arrhythmia d:evidence q:recall l:2
+palette: drum red and parade gold with stone grey
+words:
+keywords: crt -> two drummers, one in each engine room, striking their drums at exactly the same moment; pacemaker -> an old marching drummer who has beaten for years in the blue engine room only; heart block -> a raised drawbridge between the upper lobby and the engine rooms, raised for good; ventricle -> the two engine rooms with their fans; dcm (no) -> an over-pulled accordion waved away; subaortic stenosis (no) -> a shower curtain waved away; tetralogy (no) -> a raft of four logs waved away; chronic -> the old drummer's grey beard and worn drum; out of step -> the red fan lagging behind the blue one; in step -> two rowers pulling their oars together; tired child -> a pale child resting on cushions; restored -> both fans now turning together
+anchor: where it works best -> a second drummer joining the old lone drummer of the blue engine room, so the two drummers strike together and both fans turn in step, the drawbridge above raised for good
+scene: A stone-grey palace with red and gold parade banners. A pale child rests on cushions beside the cut-open HART Hotel. Between its upper lobby and its engine rooms a drawbridge is raised for good. An old marching drummer with a grey beard and a worn drum has beaten for years in the blue engine room only, and the red fan lags behind the blue one. In the centre, in the strongest light: a second drummer steps into the red engine room and the two drummers strike together, so both fans now turn in step, like two rowers on the river outside pulling their oars together. An over-pulled accordion, a shower curtain and a raft of four logs are waved away.
+must: the drawbridge stays raised; no letters or digits are written anywhere
+
+== 268
+# Q: infant with elfin face, supravalvular aortic and branch pulmonary stenosis, coronaries not well seen, high arm pressure: next step? A: CT of the aorta and coronary arteries
+# the cat slicing the orca loaf into thin slices to show the crown spikes hidden behind the tight pearl necklace = CT to see the aorta and coronaries -> ANSWER
+# the cheerful elf = Williams syndrome
+# the necklace choking the orca above its mouth with a unicorn and two whistles = supravalvular aortic stenosis, gradient 100
+# clamps on both branch dollar pipes = branch pulmonary stenosis
+# fog over the crown's base = coronaries not seen (ostial involvement)
+# the thick walls and the gauge in the red = hypertrophy and hypertension
+# the leather bladder, the patches and the pills waved away = not balloon, surgery or drugs first (wrong options)
+title: Williams syndrome: CT of the aorta and coronaries before anything else
+titleAr: متلازمة ويليامز: تصوير مقطعي للأبهر والشرايين التاجية قبل أي إجراء
+tags: cardiac/congenital d:diagnosis q:next-step l:3 x:trap
+palette: party pastel and pearl white with cat orange
+words:
+keywords: williams -> a cheerful elf at a cocktail party, chatting to everyone; supravalvular stenosis -> a tight pearl necklace choking the orca balloon just above its mouth; number 100 (gradient, mmHg) -> a small painting on the necklace's clasp: a white unicorn and two golden whistles; pulmonary stenosis -> both branch pipes of dollar bills squeezed by iron clamps at their roots; ct scan -> a cat slicing the orca like a long loaf into thin slices; coronary -> the green crown's spikes hidden behind the necklace; hypertension -> a pressure gauge in the red; rvh -> both engine rooms' walls swollen thick; hidden coronaries -> fog hanging over the crown's base; balloon (no) -> an old leather bladder waved away; patch surgery (no) -> cloth patches waved away; pills (no) -> a tray of pills waved away; infant -> a baby with a little elf's face
+anchor: the best next step -> a cat slicing the orca balloon like a long loaf into thin slices, showing the crown's spikes hidden in the fog behind the tight pearl necklace
+scene: A pastel palace cocktail party. A cheerful elf chats to everyone, and a baby with a little elf's face sits among the cushions. Beside them the cut-open HART Hotel: a tight pearl necklace chokes the orca balloon just above its mouth, a small painting on its clasp of a white unicorn and two golden whistles; fog hangs over the base of the green crown behind the necklace; both branch pipes of dollar bills are squeezed by iron clamps; both engine rooms' walls are swollen thick, and a pressure gauge points into the red. In the centre, in the strongest light: a cat slices the orca like a long loaf into thin slices, and the slices show the crown's spikes hidden behind the necklace. An old leather bladder, cloth patches and a tray of pills are waved away.
+must: the slices reveal the hidden spikes; no letters or digits are written anywhere
+
+== 269
+# Q: adult with congenitally corrected TGA, restrictive VSD, mild PS, moderate systemic AV valve regurgitation, low-normal function, Qp:Qs 1.2, few symptoms: next? A: repeat echo in 6 months
+# the bat hanging its rings on a perch painted with the Sitt, to return in half a year = repeat echocardiogram in 6 months -> ANSWER
+# the hotel before a mirror, rooms and doors swapped = congenitally corrected TGA
+# the tiny hole, the loose clamp, the trident leaking on the red side = restrictive VSD, mild PS, systemic (tricuspid) valve regurgitation
+# the water-carrier's yoke nearly level with a unicorn, a drop and a dragon = Qp:Qs 1.2
+title: Congenitally corrected TGA with few symptoms: watch with an echo in 6 months
+titleAr: تبدّل الشرايين الكبيرة المصحَّح خلقيًا مع أعراض قليلة: إيكو بعد ٦ أشهر
+tags: cardiac/congenital d:indications q:next-step l:3
+palette: mirror silver and twilight blue with gold
+words:
+keywords: cc-tga -> the HART Hotel standing before a big mirror, its engine rooms and valve doors swapped in the reflection; echo -> a bat with its rings; number 6 (months until the next echo) -> a small painting on the bat's perch: the Sitt in a golden gown; vsd -> a tiny hole in the lower party wall; pulmonary stenosis -> a pipe of dollar bills loosely squeezed by an iron clamp; regurgitation -> water gurgling back through the trident on the red side; tricuspid -> the trident in the red wing's doorway; qp qs -> a water-carrier's yoke hanging nearly level, its buckets painted with a unicorn, a golden drop and a green dragon; half a year -> the bat hanging up its rings on the perch for now; mild symptoms -> a young man only a little out of breath on the stairs; steady but tired -> the fan on the left turning steadily, a little tired; first visit -> the young man signing a visitor's book; measurements -> a long scroll of measurements unrolled on a table
+anchor: the best next step -> the bat hanging up its rings on a perch painted with the Sitt in her golden gown, ready to come back in half a year, while the yoke beside it hangs nearly level
+scene: A twilight-blue mirror hall in a palace. A young man is only a little out of breath on the stairs, having just signed a visitor's book; a long scroll of measurements lies unrolled on a table. The cut-open HART Hotel stands before a big mirror in which its engine rooms and valve doors are swapped; the trident sits in the red wing's doorway with water gurgling back through it, a tiny hole pierces the lower party wall, a pipe of dollar bills is loosely squeezed by an iron clamp, and the fan on the left turns steadily, a little tired. A water-carrier's yoke hangs nearly level beside it, its buckets painted with a unicorn, a golden drop and a green dragon. In the centre, in the strongest light: a bat hangs up its rings on a perch painted with the Sitt in her golden gown, ready to come back in half a year.
+must: the trident is on the red side; no letters or digits are written anywhere
+
+== 270
+# Q: atriopulmonary Fontan for tricuspid atresia, now atrial flutter/fibrillation, ascites, moderate ventricular dysfunction and AV valve regurgitation, slow unobstructed circuit, EDP 19: next step? A: list for heart transplant
+# the gardener lifting a new heart in a terracotta flowerpot beside the stagnant fountain = listing for transplant -> ANSWER
+# the fountain's water barely moving, green scum on it = slow failing Fontan circuit
+# the weak single fan, the gurgling door, the high gauge with a unicorn and a monkey = ventricular dysfunction, AV valve regurgitation, EDP 19
+# the man's belly swollen like a water jar, the bunting = ascites, atrial flutter
+# the hedge maze with the mason, the drilled hole and the blowtorch with the drummer waved away = no conversion with Maze, no fenestration, no ablation and pacing (wrong options)
+title: A failing atriopulmonary Fontan with a weak ventricle: list for transplant
+titleAr: فونتان فاشل مع بطين ضعيف: الإدراج لزرع القلب
+tags: cardiac/congenital cardiac/heart-failure d:indications q:next-step l:2
+palette: stagnant olive and terracotta with a hopeful spring green
+words:
+keywords: transplant -> a gardener lifting a new heart, root ball and all, in a terracotta flowerpot; fontan -> a stone fountain in the hotel courtyard fed by the blue wing's chimney; regurgitation -> water gurgling back through the single valve door; atrial flutter -> sawtooth bunting fluttering round the lobby; number 19 (end-diastolic pressure, mmHg) -> a small painting on the gauge: a white unicorn and a monkey; maze (no) -> a hedge maze and a mason waved away; fontan fenestration (no) -> a small drilled hole in the fountain's basin waved away; ablation (no) -> a blowtorch and a drummer waved away; slow transit -> the fountain's water barely moving, green scum on it; ascites -> a man's belly swollen like a water jar; weak single room -> the single engine room's fan turning slowly; high filling pressure -> a pressure gauge on the engine room floor pointing high; end of the road -> an old gate closed on the fountain's path
+anchor: the best next step -> a gardener lifting a new heart, root ball and all, in a terracotta flowerpot beside the stagnant fountain with green scum, ready to take its place
+scene: An olive-green courtyard gone quiet. A man with a belly swollen like a water jar sits beside the cut-open HART Hotel; sawtooth bunting flutters round its lobby, its single engine room's fan turns slowly, water gurgles back through its single valve door, and a pressure gauge on the engine room floor points high, a small painting on it of a white unicorn and a monkey. The stone fountain in the courtyard, fed by the blue wing's chimney, barely moves, green scum on its water, and an old gate is closed on its path. In the centre, in the strongest light: a gardener lifts a new heart, root ball and all, in a terracotta flowerpot, fresh spring green leaves round it, ready to take the old one's place. A hedge maze with a mason, a small drilled hole in the fountain's basin, and a blowtorch with a drummer are waved away.
+must: the new heart in its pot is the brightest thing; no letters or digits are written anywhere
