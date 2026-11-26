@@ -1,0 +1,163 @@
+book: sesats-12
+style: a stop-motion claymation look: chunky hand-made plasticine figures and sets with soft fingerprints in the clay, bright cheerful colours, soft studio light with gentle shadows, simple uncluttered sets, every object solid, rounded and instantly recognisable
+theme: the world of al-Jahiz in ninth-century Basra: the Mirbad market, the canals and date-palm groves, boats on the Shatt al-Arab, scholars, merchants and the animals of his Book of Animals; the physician Hunayn ibn Ishaq (grey beard, blue turban) is the recurring healer; stories end with a genuine line of al-Jahiz (Kitab al-Hayawan, al-Bayan wa al-Tabyin, al-Bukhala)
+
+== 284
+# Q: 50-year-old man, worsening exertional dyspnoea despite beta blockers; echo clips shown (obstruction in the middle of the LV, apical HCM pattern): best next treatment? A: transventricular myectomy
+# a woodpecker opening a small door at the tip of the red room while a sculptor with a chisel reaches through it and cuts the bulging muscle at the room's pinched waist = transventricular (apical) myectomy -> ANSWER
+# the bodybuilder's biceps in the middle of the red room, the room pinched like a peanut, a trapped pocket at its tip = midventricular obstruction with an apical pocket
+# the tired goalkeeper = beta blockers failed
+# reaching in through the orca's mouth, through the lobby, and a whisky bottle waved away = not transaortic, transatrial or alcohol ablation (wrong options)
+title: Midventricular hypertrophic obstruction: myectomy through the apex
+titleAr: انسداد ضخامي في منتصف البطين: استئصال العضلة عبر القمة
+tags: cardiac/other d:technique q:next-step l:3 x:trap
+palette: peanut tan and woodpecker red with chisel steel
+words:
+keywords: myectomy -> a sculptor with a chisel cutting away the bulging muscle at the red room's pinched waist; transapical -> a woodpecker opening a small door at the pointed tip of the red engine room; hcm -> the huge bulging biceps of a bodybuilder in the middle of the red engine room; beta-blocker -> an ice-hockey goalkeeper, tired; alcohol septal ablation (no) -> a bottle of whisky, waved away; echo -> a bat sending out rings of sound; peanut waist -> the red engine room pinched at its middle like a peanut; apex pocket -> a small trapped pocket at the tip beyond the waist; through the mouth (no) -> reaching in through the orca's mouth, waved away; through the lobby (no) -> reaching in through the red lobby, waved away; merchant -> a spice merchant of fifty; breathless -> the merchant stopping breathless on the stairs
+anchor: the best treatment -> a woodpecker opening a small door at the tip of the red engine room while a sculptor with a chisel reaches through it and cuts away the bulging muscle at the room's pinched waist
+scene: A tan clay spice store. A spice merchant of fifty stops breathless on the stairs; an ice-hockey goalkeeper sits tired, and a bat sends out rings of sound over the cut-open HART Hotel. The red engine room is pinched at its middle like a peanut by the huge bulging biceps of a bodybuilder, a small trapped pocket at the tip beyond the waist. In the centre, in the strongest light: a woodpecker opens a small door at the pointed tip of the red engine room, and a sculptor with a chisel reaches through it and cuts the bulging muscle away. Reaching in through the orca's mouth, reaching in through the red lobby and a bottle of whisky are waved away.
+must: the door is at the tip of the red room; no letters or digits are written anywhere
+
+== 285
+# Q: 25-year-old after infant TOF repair; dilated RVOT, severe PR, residual ASD; ASD closure and a stented bioprosthesis under cardioplegia; after the clamp comes off, anterolateral ST elevation and recurrent VT: most likely cause? A: the left coronary distorted by the prosthesis sutures
+# a deep stitch from the new money-pipe door tugging the crown spike wearing a golden bangle into a kink = left coronary distorted by the sutures -> ANSWER
+# elevator platforms stuck raised with a little anteater and a little zebra on them, the tachometer slammed into the red = anterolateral ST elevation, VT
+# the four-log raft, the swollen money-pipe doorway, the new tissue-box door = TOF with a dilated RVOT, pulmonary valve replacement
+# a soap bubble waved away = not air (wrong options; anomalous LAD and scar VT also wrong)
+title: Ischaemia after pulmonary valve replacement: sutures distorting the left coronary
+titleAr: نقص تروية بعد استبدال الصمام الرئوي: غرز تشوّه الشريان التاجي الأيسر
+tags: cardiac/congenital cardiac/coronary d:complications q:vignette l:3 x:trap
+palette: stitch red and bangle gold with tissue-box white
+words:
+keywords: left coronary distortion -> a deep stitch from the new door tugging the crown spike wearing a golden bangle into a kink; pulmonary valve replacement -> a new money-pipe door, freshly hung in the money-pipe doorway; tissue valve -> a soft paper tissue box set in as that door; tetralogy -> a raft of four logs lashed together; st elevation -> street-corner elevator platforms stuck raised, a little anteater and a little zebra on them; ventricular tachycardia -> a tachometer bolted to the engine room, its needle slammed into the red; air embolism (no) -> a big clear soap bubble, waved away; young man -> a young man of twenty-five in a boatman's shirt; hill -> the young man stopping halfway up a hill; wide doorway -> the money-pipe doorway swollen wide; kink -> the spike bent like a kinked hose; deep stitch -> a long deep stitch thread
+anchor: the most likely cause -> a long deep stitch from the new money-pipe door tugging the crown spike wearing a golden bangle into a kink like a bent hose
+scene: A clay boatyard. A young man of twenty-five in a boatman's shirt stops halfway up a hill, a raft of four logs lashed together beside him. His cut-open HART Hotel: the money-pipe doorway is swollen wide and a new money-pipe door, a soft paper tissue box, has just been hung in it; street-corner elevator platforms stand stuck raised with a little anteater and a little zebra on them, and a tachometer bolted to the engine room has its needle slammed into the red. In the centre, in the strongest light: a long deep stitch from the new door tugs the crown spike wearing a golden bangle into a kink like a bent hose. A big clear soap bubble is waved away.
+must: the kinked spike wears the golden bangle; no letters or digits are written anywhere
+
+== 286
+# Q: 13-year-old girl, VSD patch closure as an infant, lost to follow-up; new murmur at a sports check; echo clips; catheter: suprasystemic RV pressure: next step? A: resect the fibrous ridge and close the residual VSD
+# Hunayn cutting away a thick muscle rope across the blue engine room and sewing shut a small leak at the old patch = resection of the obstruction (DCRV) and closure of the residual VSD -> ANSWER
+# the blue room's gauge higher than the red room's = suprasystemic RV pressure
+# the dusty unopened letter, the coach listening = lost to follow-up, murmur at a sports exam
+# cufflinks, a silver nail file and widened money pipes waved away = not device closure, vasodilators or arterioplasty (wrong options)
+title: Double-chambered RV with a residual VSD after VSD repair: resect and close
+titleAr: بطين أيمن مزدوج الحجرة مع فتحة متبقية بعد إصلاح الفتحة: استئصال وإغلاق
+tags: cardiac/congenital d:technique q:next-step l:2
+palette: muscle red and gauge brass with letter cream
+words:
+keywords: dcrv -> a thick muscle rope across the room, splitting the blue engine room into two chambers, cut away by Hunayn; residual vsd -> a small leak at the edge of the old patch in the lower party wall, sewn shut; suprasystemic -> the blue room's gauge reading higher than the red room's; device closure (no) -> a pair of round silver cufflinks, waved away; sildenafil (no) -> a silver nail file, waved away; widening (no) -> widening the money pipes, waved away; echo -> a bat sending out rings of sound; catheterization -> a long fishing line with a little dial threaded into the blue room; murmur -> a soft whisper heard through a brass listening tube; girl -> a girl of thirteen in a sports tunic; coach -> a coach listening at her chest; lost years -> a dusty unopened letter from the doctor
+anchor: the best next step -> the physician Hunayn cutting away a thick muscle rope across the blue engine room and sewing shut the small leak at the edge of the old patch
+scene: A clay sports yard. A girl of thirteen in a sports tunic stands while a coach listens at her chest, a soft whisper heard through a brass listening tube; a dusty unopened letter from the doctor lies on a bench. Her cut-open HART Hotel: a bat sends out rings of sound and a long fishing line with a little dial is threaded into the blue room, whose gauge reads higher than the red room's; a thick muscle rope across the room splits the blue engine room into two chambers, and a small leak shows at the edge of the old patch in the lower party wall. In the centre, in the strongest light: the physician Hunayn ibn Ishaq cuts the muscle rope away and sews the small leak shut. A pair of round silver cufflinks, a silver nail file and widening the money pipes are waved away.
+must: no letters or digits are written anywhere
+
+== 287
+# Q: cyanotic 3.2 kg newborn, PA/IVS, tricuspid annulus Z -5, sinusoids; stable on PGE at 80%; catheter: stenosis of the left coronary proximal to large RV sinusoids: next step? A: a systemic-to-pulmonary shunt
+# a hose from the flipper to the money pipe, while the blue room's door stays shut tight = shunt only, never decompress the RV -> ANSWER
+# the crown spikes fed through secret side tunnels from the blue room, the spike wearing a golden bangle pinched at its root = RV-dependent coronary circulation with left coronary stenosis
+# the welded money-pipe door, a tiny toy trident, a toy hippo in the tiny blue room = pulmonary atresia, tiny TV, hypoplastic RV
+# a flowerpot, a cabbage and a patch across the ring waved away = not transplant now, CABG or shunt with transannular patch (wrong options)
+title: PA/IVS with RV-dependent coronary circulation: shunt only, never decompress the RV
+titleAr: رتق رئوي مع حاجز سليم ودوران تاجي معتمد على البطين الأيمن: تحويلة فقط ولا تخفف ضغط البطين
+tags: cardiac/congenital d:indications q:next-step l:3 x:trap
+palette: secret-tunnel purple and hose green with welded grey
+words:
+keywords: bt shunt -> a hose joining the orca's flipper to the money pipe; rvdcc -> the crown spikes fed from the blue engine room through secret side tunnels, their roots at the orca pinched; left coronary stenosis -> the crown spike wearing a golden bangle pinched at its root; pulmonary atresia -> the money-pipe door welded shut with a thick iron cap; tricuspid -> a tiny toy trident in the blue doorway; hypoplastic -> a little plastic toy hippo squeezed into the tiny blue engine room; prostaglandin -> a raised beer stein propping the duct tunnel open; transplant (no) -> a terracotta flowerpot, waved away; cabg (no) -> a cabbage, waved away; transannular patch (no) -> a fabric patch across the ring, waved away; door kept shut -> the blue room's door kept shut tight; newborn -> a newborn in a lilac blanket; faintly blue -> faintly blue cheeks; warning bell -> a warning bell hung over the blue room
+anchor: the best next step -> a hose from the orca's flipper to the money pipe, while the blue room's door is kept shut tight to keep feeding the secret side tunnels to the crown
+scene: A lilac clay nursery. A newborn in a lilac blanket with faintly blue cheeks lies beside a raised beer stein propping the duct tunnel open. Its cut-open HART Hotel: the money-pipe door is welded shut with a thick iron cap, a tiny toy trident sits in the blue doorway and a little plastic toy hippo is squeezed into the tiny blue engine room; the crown spikes are fed from the blue engine room through secret side tunnels, their roots at the orca pinched, the crown spike wearing a golden bangle pinched hardest; a warning bell hangs over the blue room. In the centre, in the strongest light: a hose joins the orca's flipper to the money pipe, and the blue room's door is kept shut tight. A terracotta flowerpot, a cabbage and a fabric patch across the ring are waved away.
+must: no letters or digits are written anywhere
+
+== 288
+# Q: 8-month-old after TOF repair with VSD closure and a transannular patch; intraoperative echo: severe PR, no residual VSD, severe TR with an immobile septal leaflet: next step? A: revise the VSD patch
+# Hunayn unpicking the patch's edge and re-sewing it clear of the trident prong that was pinned under it = VSD patch revision -> ANSWER
+# a trident prong pinned under the patch, water spraying back through the trident = septal leaflet entrapment, severe TR
+# the four-log raft, the patch across the ring with the door gaping = TOF repaired with a transannular patch (PR expected)
+# a freezer valve, a new trident and a hole punched in the patch waved away = not homograft PVR, TV replacement or fenestration (wrong options)
+title: Severe TR after TOF repair with an immobile septal leaflet: revise the VSD patch
+titleAr: قلس ثلاثي شديد بعد إصلاح رباعية فالو مع وريقة حاجزية ثابتة: أعد خياطة رقعة الفتحة
+tags: cardiac/congenital d:complications q:next-step l:3
+palette: trident blue and patch white with raft brown
+words:
+keywords: septal leaflet entrapment -> a trident prong pinned under the patch on the lower party wall, so the trident cannot close; patch revision -> Hunayn unpicking the patch's edge and re-sewing it clear of the prong; regurgitation -> water spraying back through the trident; tetralogy -> a raft of four logs lashed together; transannular patch -> a fabric patch across the ring of the money-pipe door, the door gaping; tee -> the bat sliding down inside the pink sofa slide, its sound rings showing the trident; homograft (no) -> a valve from a frosty freezer, waved away; sternotomy -> the ship's stern still open; new trident (no) -> a brand-new trident, waved away; fenestration (no) -> a little hole punched in the patch, waved away; baby -> a baby boy in a clay-blue cap; frozen prong -> the prong frozen still
+anchor: the best next step -> the physician Hunayn unpicking the patch's edge on the lower party wall and re-sewing it clear of the trident prong that was pinned under it
+scene: A blue clay operating room, the ship's stern still open. A baby boy in a clay-blue cap lies beside a raft of four logs lashed together; the bat slides down inside the pink sofa slide, its sound rings showing the trident. A fabric patch across the ring of the money-pipe door leaves the door gaping, and a trident prong is pinned under the patch on the lower party wall, frozen still, so water sprays back through the trident. In the centre, in the strongest light: the physician Hunayn ibn Ishaq unpicks the patch's edge and re-sews it clear of the prong. A valve from a frosty freezer, a brand-new trident and a little hole punched in the patch are waved away.
+must: no letters or digits are written anywhere
+
+== 289
+# Q: 23-year-old woman after TOF repair with a transannular patch at 3 months, exercise intolerance; MPA 35 mm, RVEDVI 165, PR fraction 50%; pulmonary valve competence to be restored: best management? A: percutaneous bioprosthetic valve replacement
+# a little folded door carried up a fishing line from the groin and sprung open in the money-pipe doorway, no cut in the chest = percutaneous pulmonary valve -> ANSWER
+# the four-log raft, the patch across the ring = TOF with a transannular patch
+# a unicorn, the Sitt and a hamsa painted on the big blue room's wall, the measuring compass across the backflow = RVEDVI 165, regurgitant fraction 50%
+# a single cloth flap, a robot and the stern opened with a tissue box waved away = not monocusp, mechanical or surgical bioprosthetic (wrong options)
+title: Pulmonary regurgitation late after TOF repair: transcatheter pulmonary valve
+titleAr: قلس رئوي متأخر بعد إصلاح رباعية فالو: صمام رئوي عبر القثطرة
+tags: cardiac/congenital d:indications q:next-step l:3
+palette: folded-door gold and raft brown with blue-room indigo
+words:
+keywords: percutaneous pulmonary valve -> a little folded door carried up a fishing line from the groin and sprung open in the money-pipe doorway; tetralogy -> a raft of four logs lashed together; transannular patch -> a fabric patch across the ring of the money-pipe door, the door gaping; number 165 (RV end-diastolic volume index) -> a small painting on the blue engine room's wall: a white unicorn, the Sitt in a golden gown and a blue hamsa hand; regurgitant fraction -> a brass measuring compass spanning the water rushing back; mechanical (no) -> a clanking little steel robot, waved away; monocusp (no) -> a single flap of white cloth, waved away; surgical box (no) -> the stern opened for a tissue box, waved away; woman -> a young woman in a turquoise dress; hill -> the woman stopping halfway up a hill; wide pipe -> the money pipe swollen wide; big blue room -> the blue engine room stretched large
+anchor: the best management -> a little folded door carried up a fishing line from the groin and sprung open in the gaping money-pipe doorway, no cut in the chest
+scene: A turquoise clay hillside. A young woman in a turquoise dress stops halfway up a hill beside a raft of four logs lashed together. Her cut-open HART Hotel: a fabric patch across the ring of the money-pipe door leaves the door gaping, the money pipe is swollen wide, and water rushes back into the blue engine room, stretched large, a brass measuring compass spanning the backflow and a small painting of a white unicorn, the Sitt in a golden gown and a blue hamsa hand on its wall. In the centre, in the strongest light: a little folded door is carried up a fishing line from the groin and springs open in the money-pipe doorway, with no cut in the chest. A clanking little steel robot, a single flap of white cloth and the stern opened for a tissue box are waved away.
+must: no letters or digits are written anywhere
+
+== 290
+# Q: 18-year-old after TOF repair with a transannular patch at 6 months; exercise intolerance, QRS over 170 ms, free PR, RVOT 35 mm, RVEDVI 180, RVESVI 100, RVEF 50%, PR fraction 40%; Holter: PVCs and runs of NSVT: best management? A: PV replacement with a stented bioprosthesis
+# a new money-pipe door, a tissue box in a sturdy metal frame, hung by Hunayn in the gaping doorway = surgical PVR with a stented bioprosthesis -> ANSWER
+# the fat, wide spike on the scroll, the holster recorder, the tachometer needle flicking into the red = QRS over 170, NSVT on Holter
+# the four-log raft, the gaping doorway, a unicorn, a violin and a whistle on the big blue room = TOF with free PR, RVEDVI 180
+# a folded door and a bodyguard waved away = not transcatheter PV or an ICD (wrong options; an EP study is not needed either)
+title: TOF with free PR, a dilated RV and a wide QRS: surgical pulmonary valve replacement
+titleAr: رباعية فالو مع قلس رئوي حر وبطين أيمن متوسع وQRS عريض: استبدال الصمام الرئوي جراحيًا
+tags: cardiac/congenital d:indications q:next-step l:3 x:trap
+palette: frame steel and scroll cream with tachometer red
+words:
+keywords: pulmonary valve replacement -> a new money-pipe door, a soft paper tissue box in a sturdy metal frame, hung by Hunayn in the doorway; wide qrs -> a heartbeat scroll whose spike is drawn fat and wide; holter -> a little leather holster strapped to the chest holding a recorder; ventricular tachycardia -> a tachometer bolted to the engine room, its needle flicking into the red now and then; tetralogy -> a raft of four logs lashed together; number 180 (RV end-diastolic volume index) -> a small painting on the blue engine room's wall: a white unicorn, a violin and a golden whistle; percutaneous pulmonary valve (no) -> a little folded door on a fishing line, waved away; icd (no) -> a tiny bodyguard in a black suit, waved away; young man -> a young man of eighteen with a satchel; gaping door -> the old money-pipe doorway gaping with no door; big blue room -> the blue engine room stretched large; tired -> the young man stopping on the stairs; frame -> a sturdy metal frame round the new door
+anchor: the best management -> the physician Hunayn hanging a new money-pipe door, a soft paper tissue box in a sturdy metal frame, in the old gaping doorway
+scene: A cream clay study. A young man of eighteen with a satchel stops on the stairs, a little leather holster strapped to his chest holding a recorder, and a heartbeat scroll beside him shows a spike drawn fat and wide; a raft of four logs lashed together lies by him. His cut-open HART Hotel: the old money-pipe doorway gapes with no door, the blue engine room is stretched large with a small painting of a white unicorn, a violin and a golden whistle on its wall, and a tachometer bolted to the engine room flicks its needle into the red now and then. In the centre, in the strongest light: the physician Hunayn ibn Ishaq hangs a new money-pipe door, a soft paper tissue box in a sturdy metal frame, in the doorway. A little folded door on a fishing line and a tiny bodyguard in a black suit are waved away.
+must: no letters or digits are written anywhere
+
+== 291
+# Q: 3-month-old with TOF, saturation 90%, large VSD, RV-PA gradient 30, moderate RVH, small ASD shunting left to right; pulmonary annulus 8 mm (Z -1): best management? A: complete repair with a valve-sparing technique
+# Hunayn closing the hole in the lower party wall and gently widening the money-pipe door, its hinges kept, a measuring tape showing it nearly full size = complete valve-sparing repair -> ANSWER
+# the four-log raft, the thick blue room walls, the rosy cheeks = TOF with moderate RVH, well saturated
+# a patch across the ring, a hose from the flipper and a Slinky waved away = not transannular patch, BT shunt or RVOT stent (wrong options)
+title: TOF with a near-normal pulmonary annulus: complete repair sparing the valve
+titleAr: رباعية فالو مع حلقة رئوية قريبة من الطبيعي: إصلاح كامل مع الحفاظ على الصمام
+tags: cardiac/congenital d:technique q:next-step l:2 x:high-yield
+palette: rosy pink and raft brown with tape yellow
+words:
+keywords: valve-sparing tof repair -> the money-pipe door gently widened, door gently widened, its hinges kept and no patch across the ring; vsd -> a big ragged hole in the thick brick lower party wall, patched by Hunayn; tetralogy -> a raft of four logs lashed together; rvh -> the blue engine room with its walls swollen into thick red muscle; asd -> a small hole in the upper party wall; transannular patch (no) -> a fabric patch across the ring, waved away; bt shunt (no) -> a hose from the flipper, waved away; rvot stent (no) -> a coiled metal Slinky, waved away; rosy cheeks -> the baby's rosy cheeks; baby -> a baby in a woven sling; three months -> three crescent moons over the window; measuring tape -> a tape showing the door nearly full size; all at once -> Hunayn closing everything in one sitting
+anchor: the best management -> the physician Hunayn patching the hole in the lower party wall and gently widening the money-pipe door, its hinges kept, a tape showing it nearly full size
+scene: A rosy clay nursery, three crescent moons over the window. A baby with rosy cheeks lies in a woven sling beside a raft of four logs lashed together. The baby's cut-open HART Hotel: the blue engine room has walls swollen into thick red muscle, a small hole sits in the upper party wall, and a big ragged hole opens in the thick brick lower party wall. In the centre, in the strongest light: the physician Hunayn ibn Ishaq, closing everything in one sitting, patches the big hole and gently widens the money-pipe door, its hinges kept, a tape showing it nearly full size. A fabric patch across the ring, a hose from the flipper and a coiled metal Slinky are waved away.
+must: no letters or digits are written anywhere
+
+== 292
+# Q: 2.7 kg, 35-week neonate with truncus arteriosus type II, moderate truncal regurgitation, truncal gradient 40; stable on room air: best management? A: truncus repair (no valve intervention)
+# Hunayn freeing the two money pipes from the tree trunk and joining them to the blue room with a waterslide tube, the door at the top of the trunk untouched = truncus repair alone -> ANSWER
+# one thick tree trunk over both rooms, two money pipes sprouting close together from its back = truncus type II
+# the door at the top of the tree trunk letting a little water back = moderate truncal regurgitation, left untouched
+# the incubator, an open window = premature but stable on air
+# belts on the money pipes, mending the trunk's door and a leather bladder waved away = not PA bands, valve repair or dilation (wrong options)
+title: Truncus arteriosus with moderate truncal valve disease: repair the truncus, leave the valve
+titleAr: الجذع الشرياني مع مرض متوسط في الصمام الجذعي: أصلح الجذع واترك الصمام
+tags: cardiac/congenital d:technique q:next-step l:3 x:trap
+palette: tree-bark brown and waterslide clear with incubator mint
+words:
+keywords: truncus -> one thick tree trunk rising from both engine rooms, astride the hole in the party wall; conduit -> a clear twisting waterslide tube from the blue engine room to the freed money pipes; truncal valve -> the door at the top of the tree trunk letting a little water back, untouched; prematurity -> a tiny baby in a warm glass incubator; vsd -> the hole in the lower party wall under the trunk closed with a patch; banding (no) -> leather belts on the money pipes, waved away; balloon dilation (no) -> an old leather bladder, waved away; mending (no) -> mending the trunk's door, waved away; two pipes -> two money pipes sprouting close together from the trunk; freed -> Hunayn freeing the money pipes from the trunk; calm -> the baby sleeping calmly; open window -> an open window with fresh air
+anchor: the best management -> the physician Hunayn freeing the two money pipes from the tree trunk and joining them to the blue room with a clear waterslide tube, the door at the top of the trunk untouched
+scene: A mint clay nursery, an open window with fresh air. A tiny baby sleeps calmly in a warm glass incubator beside her cut-open HART Hotel: one thick tree trunk rises from both engine rooms, astride the hole in the party wall, two money pipes sprouting close together from it, and the door at the top of the tree trunk lets a little water back. In the centre, in the strongest light: the physician Hunayn ibn Ishaq frees the two money pipes from the trunk, closes the hole in the lower party wall under it with a patch and joins the blue engine room to the pipes with a clear twisting waterslide tube, the door at the top of the trunk untouched. Leather belts on the money pipes, mending the trunk's door and an old leather bladder are waved away.
+must: the trunk's door is not touched; no letters or digits are written anywhere
+
+== 293
+# Q: 30-year-old after an arterial switch with the LeCompte manoeuvre now needs AVR for severe AR; at redo, access to the aorta is made easier by dividing? A: the right pulmonary artery
+# Hunayn cutting through the money-pipe branch wearing a small white dove that is draped over the orca, so the orca's mouth comes into plain view = divide the RPA -> ANSWER
+# the vampire count having set the money pipe over the orca, the switchman's lever = arterial switch with LeCompte: the PA branches straddle the aorta
+# the orca's mouth dripping back, the dentist, the barnacled stern = AR needing AVR at a redo
+# a drainpipe, a chimney and a returning pipe waved away = not the IVC, SVC or a pulmonary vein (wrong options)
+title: Redo aortic surgery after a LeCompte switch: divide the right pulmonary artery for access
+titleAr: إعادة جراحة الأبهر بعد التبديل الشرياني مع مناورة لوكومت: اقطع الشريان الرئوي الأيمن للوصول
+tags: cardiac/congenital cardiac/aortic-valve d:technique q:recall l:3 x:trap
+palette: cape black and dove white with barnacle grey
+words:
+keywords: lecompte -> a vampire count in a black cape who once lifted the pipe of dollar bills over the orca, its branches draped across it; arterial switch -> a subway switchman's big railway switch lever beside the hotel; right pulmonary artery -> the money-pipe branch wearing a small white dove, draped over the orca and cut through by Hunayn; aortic regurgitation -> the orca's mouth dripping water back; avr -> a dentist waiting with brand-new dentures; redo sternotomy -> the ship's stern crusted with barnacles; ivc (no) -> a big blue drainpipe, waved away; svc (no) -> the chimney, waved away; returning pipe (no) -> a money pipe returning to the red lobby, waved away; man -> a man of thirty in a sailor's cap; reach -> Hunayn's arm reaching down to the orca; plain view -> the orca's mouth now in plain view; gap -> a gap opening between the branches
+anchor: the best access -> the physician Hunayn cutting through the money-pipe branch wearing a small white dove, draped over the orca, so a gap opens and the orca's mouth comes into plain view
+scene: A grey clay dock. A man of thirty in a sailor's cap lies beside the HART Hotel, its ship's stern crusted with barnacles; a subway switchman's big railway switch lever stands beside it, and a vampire count in a black cape once lifted the pipe of dollar bills over the orca, its branches draped across it. The orca's mouth drips water back, and a dentist waits with brand-new dentures. In the centre, in the strongest light: the physician Hunayn ibn Ishaq cuts through the money-pipe branch wearing a small white dove, a gap opens between the branches and his arm reaches down to the orca's mouth, now in plain view. A big blue drainpipe, the chimney and a money pipe returning to the red lobby are waved away.
+must: the cut branch wears the white dove; no letters or digits are written anywhere

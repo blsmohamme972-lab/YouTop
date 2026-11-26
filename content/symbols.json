@@ -18475,6 +18475,348 @@
    "status": "approved",
    "reason": "total 9/10, 3 layers",
    "audited": "2026-11-26"
+  },
+  {
+   "id": "pulmonary-valve-replacement",
+   "concept": "surgical pulmonary valve replacement (after TOF repair, for pulmonary regurgitation)",
+   "terms": [
+    "pulmonary valve replacement",
+    "surgical pulmonary valve replacement",
+    "pulmonary valve implantation",
+    "pv replacement",
+    "surgical pv replacement"
+   ],
+   "symbol": "a NEW MONEY-PIPE DOOR, a tissue-paper door freshly hung in the money-pipe doorway, swinging shut at last",
+   "anchors": [
+    "new money-pipe door"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "restores pulmonary valve competence so the dilated RV can shrink",
+    "place": "the right ventricular outflow and pulmonary annulus"
+   },
+   "why": "a new door for the money pipe",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Indications after TOF: RVEDVI above about 150-160 mL/m2, symptoms, QRS over 180, VT, RV dysfunction. Watch the coronaries when sewing it in.",
+   "firstUsed": "SESATS 12 284-293",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "percutaneous-pv",
+   "concept": "transcatheter (percutaneous) pulmonary valve implantation (Melody, Sapien)",
+   "terms": [
+    "percutaneous pulmonary valve",
+    "transcatheter pulmonary valve",
+    "melody valve",
+    "melody",
+    "tpvr",
+    "percutaneous pulmonary valve implantation",
+    "transcatheter pulmonary valve replacement",
+    "percutaneous bioprosthetic valve replacement",
+    "percutaneous pv replacement"
+   ],
+   "symbol": "a little FOLDED DOOR carried up a fishing line from the groin and sprung open inside the money-pipe doorway, no cut in the chest",
+   "anchors": [
+    "folded door"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "a valve placed by catheter in a conduit, a prior valve or a suitable RVOT",
+    "place": "the pulmonary position, from the femoral vein"
+   },
+   "why": "a folded door sprung open in the doorway",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Check that the coronaries are not compressed by balloon test first.",
+   "firstUsed": "SESATS 12 284-293",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "dcrv",
+   "concept": "double-chambered right ventricle (anomalous muscle bundles or a fibrous ridge dividing the RV)",
+   "terms": [
+    "double-chambered right ventricle",
+    "double chambered right ventricle",
+    "dcrv",
+    "anomalous muscle bundle",
+    "anomalous muscle bundles",
+    "fibrous ridge",
+    "midcavity obstruction of the right ventricle"
+   ],
+   "symbol": "a thick MUSCLE ROPE ACROSS THE ROOM, stretched through the middle of the blue engine room and splitting it into two chambers, high pressure below it",
+   "anchors": [
+    "muscle rope across the room"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "obstruction inside the RV: high pressure proximal, low distal; often with a VSD",
+    "place": "the body of the right ventricle"
+   },
+   "why": "a rope dividing the room",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Progresses; resect the bundles and close any residual VSD.",
+   "firstUsed": "SESATS 12 284-293",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "rvdcc",
+   "concept": "RV-dependent coronary circulation with sinusoids (pulmonary atresia with intact septum)",
+   "terms": [
+    "rv-dependent coronary circulation",
+    "right ventricle-dependent coronary circulation",
+    "rvdcc",
+    "sinusoids",
+    "ventriculocoronary connections",
+    "coronary sinusoids",
+    "ventriculo-coronary fistulae"
+   ],
+   "symbol": "the crown spikes fed from the blue engine room through SECRET SIDE TUNNELS, their own roots at the orca pinched shut",
+   "anchors": [
+    "secret side tunnels"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the coronaries depend on high RV pressure: decompressing the RV starves the heart",
+    "place": "between the RV cavity and the coronary arteries"
+   },
+   "why": "the crown fed through secret tunnels",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 1,
+    "sticky": 2
+   },
+   "notes": "Never open the RV outflow: shunt only (single-ventricle route), or transplant if severe.",
+   "firstUsed": "SESATS 12 284-293",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "septal-leaflet-entrapment",
+   "concept": "tricuspid septal leaflet caught or tethered by a VSD patch",
+   "terms": [
+    "septal leaflet entrapment",
+    "septal leaflet tethering",
+    "entrapped septal leaflet",
+    "immobile septal leaflet",
+    "septal leaflet"
+   ],
+   "symbol": "a TRIDENT PRONG PINNED UNDER THE PATCH on the lower party wall, so the trident cannot close",
+   "anchors": [
+    "prong pinned under the patch"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the patch traps the tricuspid septal leaflet: severe TR",
+    "place": "the edge of a VSD patch under the tricuspid valve"
+   },
+   "why": "a prong caught under the patch",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Revise the patch and free the leaflet.",
+   "firstUsed": "SESATS 12 284-293",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "wide-qrs",
+   "concept": "a wide QRS (prolonged QRS duration), as a risk marker after TOF repair",
+   "terms": [
+    "qrs duration",
+    "wide qrs",
+    "qrs prolongation",
+    "prolonged qrs",
+    "broad qrs",
+    "qrs width"
+   ],
+   "symbol": "a heartbeat scroll whose spike is drawn FAT AND WIDE by a slow, heavy brush",
+   "anchors": [
+    "fat and wide"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "slow conduction in a stretched RV: QRS over 180 ms predicts VT and sudden death after TOF",
+    "place": "on the ECG"
+   },
+   "why": "a fat, wide spike",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "SESATS 12 284-293",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "holter",
+   "concept": "Holter monitoring (24-hour ambulatory ECG)",
+   "terms": [
+    "holter",
+    "holter monitor",
+    "24-hour holter",
+    "ambulatory ecg",
+    "ambulatory monitoring",
+    "holter monitoring"
+   ],
+   "symbol": "a little leather HOLSTER strapped to the chest holding a recorder that writes down every beat for a day",
+   "anchors": [
+    "holster"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "HOLTER = HOLSTER",
+    "meaning": "records the rhythm for a whole day to catch arrhythmias",
+    "place": "worn on the chest"
+   },
+   "why": "a holster that records",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "SESATS 12 284-293",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "valve-sparing-tof",
+   "concept": "valve-sparing (annulus-sparing) repair of tetralogy of Fallot",
+   "terms": [
+    "valve sparing technique",
+    "valve-sparing tof repair",
+    "pulmonary valve-sparing",
+    "annulus-sparing",
+    "annulus sparing",
+    "valve-sparing repair of tetralogy",
+    "pulmonary valve sparing"
+   ],
+   "symbol": "the money-pipe DOOR GENTLY WIDENED, its hinges kept and its leaves freed, no patch across the ring",
+   "anchors": [
+    "door gently widened"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "keep a near-normal pulmonary annulus (Z score about -2 or better) to avoid free regurgitation",
+    "place": "the pulmonary valve and annulus"
+   },
+   "why": "the door widened, not removed",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "The transannular patch (across the ring) when the annulus is too small.",
+   "firstUsed": "SESATS 12 284-293",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "truncal-valve",
+   "concept": "the truncal valve (its regurgitation or stenosis in truncus arteriosus)",
+   "terms": [
+    "truncal valve",
+    "truncal valve regurgitation",
+    "truncal valve stenosis",
+    "truncal regurgitation",
+    "truncal valve repair"
+   ],
+   "symbol": "the DOOR AT THE TOP OF THE TREE TRUNK, its uneven leaves letting a little water back",
+   "anchors": [
+    "door at the top of the tree trunk"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the single outlet valve of truncus: often thick, sometimes leaky or narrow",
+    "place": "at the base of the common trunk"
+   },
+   "why": "the trunk's door",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Mild to moderate disease is left alone at repair; severe regurgitation is repaired.",
+   "firstUsed": "SESATS 12 284-293",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "ventriculotomy-scar",
+   "concept": "right ventriculotomy and its scar (substrate for VT after TOF repair)",
+   "terms": [
+    "ventriculotomy",
+    "ventriculotomy scar",
+    "right ventriculotomy",
+    "ventriculotomy incision"
+   ],
+   "symbol": "an OLD SCAR DOWN THE BLUE ROOM's wall, little sparks of VT running round its ends",
+   "anchors": [
+    "old scar down the blue room"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the incision scar and patch edges make re-entry circuits for VT",
+    "place": "the RV outflow wall"
+   },
+   "why": "sparks round an old scar",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "SESATS 12 284-293",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
   }
  ]
 }
