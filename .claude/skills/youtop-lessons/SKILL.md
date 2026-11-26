@@ -107,6 +107,11 @@ the owner, and they apply to every book from MedCosmos Cardiac (lessons 1-20 are
    - **Recurring symbols may be improved or edited** (the owner allowed it): when a concept of the stem or the
      answer has no recurring symbol and will come back, make one; when one is weak, improve it. Audit after every
      change, and keep a changed symbol's old anchor words among its anchors, so pictures already drawn still match.
+   - **A hundred new recurring symbols with every new hundred lessons (the owner, 2026-11-26):** «في كل ١٠٠ جديدة اصنع
+     ١٠٠ ريكرنت سمبل جديد حسب القواعد». About one per lesson, ten per batch of ten: for concepts of the stem or the
+     answer that have no symbol yet and will come back (never a second symbol for a concept that has one), each with
+     at least two layers, scored honestly and passing `symbols.py audit`, then drawn in that lesson. Record the count
+     per hundred in `docs/status.md`.
    `symbols.py check` and `batch.py prompts` refuse a lesson without an anchor, or with fewer than 12 symbols, 4
    recurring or 5 one-off; `batch.py build` only warns, so lessons drawn before this rule can be rebuilt. The prompt
    draws the anchor as the focal point and the other symbols around it.

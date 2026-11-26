@@ -232,6 +232,10 @@ under `book/chapter/lesson` on their phone.
   hotel and its rooms do not count; a number counts once), 5 one-off sound-alikes and up to 3 others, all named in its
   `keywords:` and drawn. The tools refuse a new prompt that falls short. Recurring symbols may be improved or edited
   (the owner allowed it), always through the audit.
+- Since 2026-11-26 (the owner): the production line is pictures first (prompts and checking the owner's pictures; stories,
+  voice, spots and marks afterwards); every hundred lessons gets its own picture style and quotation source, chosen by the
+  agent (`style:`/`theme:` in the batch file or the book's json); all cardiac surgery, adult and congenital; and **every
+  new hundred lessons adds 100 new audited recurring symbols** (see the skill, rule 7).
 - The Arabic story is a real story with no medical explanation in it; the science is in the
   English explanation (see `docs/content-guide.md`, "The story is a story"). The owner asked on 2026-11-22 for
   stories in the linguistic style of the Quran, then cancelled that idea entirely the same evening: do not bring it back.

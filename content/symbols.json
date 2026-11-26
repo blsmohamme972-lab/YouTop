@@ -12543,6 +12543,345 @@
    "status": "approved",
    "reason": "total 9/10, 2 layers",
    "audited": "2026-11-26"
+  },
+  {
+   "id": "valve-in-valve",
+   "concept": "valve-in-valve: a transcatheter valve opened inside a failed bioprosthesis (or ring)",
+   "terms": [
+    "valve-in-valve",
+    "valve in valve",
+    "viv",
+    "valve-in-ring",
+    "valve in ring"
+   ],
+   "symbol": "NESTING BOXES: a new folded tissue box carried up a fishing line and sprung open inside the old, worn tissue box, one box nested in the other like Russian dolls",
+   "anchors": [
+    "nesting boxes",
+    "nested"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "a new valve inside the old one",
+    "place": "in the frame of the old bioprosthesis"
+   },
+   "why": "a box inside a box is a valve inside a valve",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Only a tissue valve (or a ring) can take one later; a mechanical valve cannot. Risk: a small old valve gives a high gradient (child-size dentures).",
+   "firstUsed": "SESATS 12 1-10",
+   "status": "approved",
+   "reason": "total 10/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "sliding-plasty",
+   "concept": "posterior leaflet sliding plasty (lowering the height of the posterior mitral leaflet, used against SAM)",
+   "terms": [
+    "sliding plasty",
+    "sliding leaflet plasty",
+    "posterior leaflet sliding plasty",
+    "sliding annuloplasty"
+   ],
+   "symbol": "a TROMBONE player pushing his slide down, and as it slides the three scallop shells of the mitre's back leaf slide down with it and are stitched lower and shorter",
+   "anchors": [
+    "trombone"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "SLIDING = the trombone's slide",
+    "meaning": "the posterior leaflet is made lower so the front leaf is no longer pushed into the outflow",
+    "place": "the mitre's back leaf (the scallops)"
+   },
+   "why": "the trombone's slide slides the back leaf down",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 1,
+    "sticky": 2
+   },
+   "notes": "Answer to SAM that persists after volume, no inotropes and higher pressure.",
+   "firstUsed": "SESATS 12 1-10",
+   "status": "approved",
+   "reason": "total 9/10, 3 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "neochords",
+   "concept": "artificial chordae (PTFE neochords) in mitral repair",
+   "terms": [
+    "neochords",
+    "neochordae",
+    "neo-chords",
+    "artificial chordae",
+    "ptfe neochords",
+    "ptfe chords",
+    "gore-tex chords",
+    "chordal replacement"
+   ],
+   "symbol": "a HARP-MAKER stringing shining new silver strings from a spool onto a leaf of the mitre and plucking new chords on them",
+   "anchors": [
+    "harp-maker"
+   ],
+   "kind": "sound + meaning",
+   "layers": {
+    "sound": "NEO-CHORDS = new chords played on new strings",
+    "meaning": "new artificial strings hold a prolapsing leaf down"
+   },
+   "why": "new chords on new strings",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 1,
+    "sticky": 2
+   },
+   "notes": "The natural chordae stay the old harp strings (chordae symbol).",
+   "firstUsed": "SESATS 12 1-10",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "redo-sternotomy",
+   "concept": "redo sternotomy, reoperation through a scarred chest, adhesions and re-entry injury",
+   "terms": [
+    "redo sternotomy",
+    "re-sternotomy",
+    "resternotomy",
+    "reoperation",
+    "reoperative",
+    "redo surgery",
+    "hostile chest",
+    "adhesions"
+   ],
+   "symbol": "the old stern of the ship crusted with BARNACLES that glue it to the hotel behind it, so reopening it can tear what lies beneath",
+   "anchors": [
+    "barnacles"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "adhesions from earlier surgery make re-entry dangerous",
+    "place": "right behind the breastbone (the stern)"
+   },
+   "why": "barnacles glue the old stern to what lies behind it",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Grafts or the aorta stuck behind the barnacles are the danger; femoral cannulation first, or a transcatheter route.",
+   "firstUsed": "SESATS 12 1-10",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "frailty",
+   "concept": "frailty (old, weak, slow; high surgical risk)",
+   "terms": [
+    "frailty",
+    "frail",
+    "frail elderly"
+   ],
+   "symbol": "an old man leaning on a WALKING STICK made of thin GLASS that might snap at any step",
+   "anchors": [
+    "glass walking stick"
+   ],
+   "kind": "sound + meaning",
+   "layers": {
+    "sound": "FRAIL = fragile glass",
+    "meaning": "weak and at high risk from a big operation"
+   },
+   "why": "a glass stick is frail",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Pushes the choice towards transcatheter or palliative treatment.",
+   "firstUsed": "SESATS 12 1-10",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "sts-risk",
+   "concept": "operative risk scores (STS predicted risk of mortality, EuroSCORE)",
+   "terms": [
+    "sts score",
+    "sts prom",
+    "sts predicted risk",
+    "predicted risk of mortality",
+    "euroscore",
+    "risk score",
+    "operative risk"
+   ],
+   "symbol": "a TIGHTROPE WALKER crossing a canyon with a balancing pole; the higher the risk, the thinner and more frayed the rope, and the score is painted on his pole with the number symbols",
+   "anchors": [
+    "tightrope walker"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the chance of falling (dying) at operation",
+    "place": "the number on the pole gives the score"
+   },
+   "why": "risk is walking a tightrope",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Low risk = a thick rope; high (above about 8) = a frayed thread.",
+   "firstUsed": "SESATS 12 1-10",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "strep-bovis",
+   "concept": "Streptococcus bovis (gallolyticus) endocarditis, linked to colon cancer",
+   "terms": [
+    "streptococcus bovis",
+    "strep bovis",
+    "s. bovis",
+    "streptococcus gallolyticus",
+    "s gallolyticus"
+   ],
+   "symbol": "a GRAZING COW peering with a lantern down its own long winding gut, a small red crab hiding in a bend of it",
+   "anchors": [
+    "grazing cow"
+   ],
+   "kind": "sound + meaning",
+   "layers": {
+    "sound": "BOVIS = bovine, a cow",
+    "meaning": "look for a colon tumour (the crab in the gut) when this germ is found"
+   },
+   "why": "the bovine germ points to the gut",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Colonoscopy is part of the work-up.",
+   "firstUsed": "SESATS 12 1-10",
+   "status": "approved",
+   "reason": "total 10/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "minimally-invasive",
+   "concept": "minimally invasive cardiac surgery (mini-sternotomy, right mini-thoracotomy)",
+   "terms": [
+    "minimally invasive",
+    "mini-sternotomy",
+    "ministernotomy",
+    "minimal access"
+   ],
+   "symbol": "a little MOUSE slipping through a small MOUSE HOLE in the ship's hull, carrying long thin tools, instead of the whole stern being opened",
+   "anchors": [
+    "mouse hole"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "MINI = a mouse-sized door",
+    "meaning": "a small incision",
+    "place": "in the chest wall (the hull)"
+   },
+   "why": "a mouse hole instead of an open stern",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Known advantage: less bleeding and transfusion; pain and quality of life are not clearly better.",
+   "firstUsed": "SESATS 12 1-10",
+   "status": "approved",
+   "reason": "total 9/10, 3 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "av-groove-disruption",
+   "concept": "atrioventricular groove disruption (posterior LV rupture) after mitral valve replacement",
+   "terms": [
+    "atrioventricular groove disruption",
+    "av groove disruption",
+    "av groove rupture",
+    "posterior ventricular rupture",
+    "left ventricular rupture after mvr",
+    "type i rupture"
+   ],
+   "symbol": "an EARTHQUAKE CRACK splitting the back floor seam of the red wing, between the red lobby and the red engine room, blood welling from it behind the hotel",
+   "anchors": [
+    "earthquake crack"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "a tear of the heart's wall after mitral replacement",
+    "place": "the AV groove at the back, between left atrium and ventricle"
+   },
+   "why": "the seam between upper and lower floor cracks open",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Risk: old women, calcified annulus, aggressive decalcification, removing the subvalvular apparatus. Repair on bypass from inside, then keep the ventricle unloaded.",
+   "firstUsed": "SESATS 12 1-10",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "low-flow-low-gradient",
+   "concept": "low-flow, low-gradient aortic stenosis (true severe versus pseudo-severe)",
+   "terms": [
+    "low-flow low-gradient",
+    "low flow low gradient",
+    "low-flow, low-gradient",
+    "pseudo-severe",
+    "pseudosevere",
+    "paradoxical low-flow"
+   ],
+   "symbol": "the orca's stone mouth letting out only a weak trickle while a PAINTED MASK hangs over it: is it truly stone, or a soft mouth that the weak engine room cannot push open",
+   "anchors": [
+    "painted mask"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "little flow makes a small gradient; the stenosis may be real or only apparent",
+    "place": "at the aortic valve (the orca's mouth)"
+   },
+   "why": "the mask hides whether the stone is real",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Low-dose dobutamine (the Doberman on a short leash) unmasks it.",
+   "firstUsed": "SESATS 12 1-10",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
   }
  ]
 }
