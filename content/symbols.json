@@ -13290,7 +13290,10 @@
     "pregnant",
     "gestation",
     "gestational age",
-    "trimester"
+    "trimester",
+    "postpartum",
+    "peripartum",
+    "post-partum"
    ],
    "symbol": "a young mother holding a ripening red POMEGRANATE at her belly, its seeds glowing through the skin",
    "anchors": [
@@ -13309,7 +13312,7 @@
     "drawable": 2,
     "sticky": 2
    },
-   "notes": "How ripe it is shows the trimester: green = first, red = last. Regurgitant lesions are tolerated; stenoses are not.",
+   "notes": "How ripe it is shows the trimester: green = first, red = last. Regurgitant lesions are tolerated; stenoses are not. After birth (postpartum): the pomegranate split open, the baby in a cradle beside it.",
    "firstUsed": "SESATS 12 21-30",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
@@ -13543,6 +13546,337 @@
    "firstUsed": "SESATS 12 21-30",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "scad",
+   "concept": "spontaneous coronary artery dissection (SCAD), often in young women around pregnancy",
+   "terms": [
+    "spontaneous coronary artery dissection",
+    "scad",
+    "coronary artery dissection",
+    "coronary dissection"
+   ],
+   "symbol": "the inner lining of a crown spike PEELED loose like a long RIBBON curling inside it and blocking the flow, no tar anywhere",
+   "anchors": [
+    "peeled ribbon"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the artery's inner layer tears and folds in, not plaque",
+    "place": "inside a coronary artery (a spike of the crown), often the LAD"
+   },
+   "why": "a lining peeled into a ribbon, not tar",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Often heals by itself; PCI for ongoing ischaemia; CABG when PCI fails or the left main is involved.",
+   "firstUsed": "SESATS 12 31-40",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "syntax-score",
+   "concept": "the SYNTAX score (complexity of coronary disease; high favours CABG over PCI)",
+   "terms": [
+    "syntax score",
+    "syntax",
+    "syntax trial"
+   ],
+   "symbol": "a TAX COLLECTOR with a ledger counting the black knots of tar on the crown's spikes; the more knots, the higher the tax he writes",
+   "anchors": [
+    "tax collector"
+   ],
+   "kind": "sound + meaning",
+   "layers": {
+    "sound": "SYN-TAX = sin tax, a tax collector",
+    "meaning": "a score that rises with the number and complexity of lesions"
+   },
+   "why": "the tax collector counts the knots",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Above about 32: CABG is better than PCI for three-vessel or left main disease. Draw the score with the number symbols on his ledger.",
+   "firstUsed": "SESATS 12 31-40",
+   "status": "approved",
+   "reason": "total 10/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "myocardial-scar",
+   "concept": "non-viable myocardium (transmural scar) versus viable muscle",
+   "terms": [
+    "nonviable",
+    "non-viable",
+    "nonviability",
+    "transmural scar",
+    "myocardial scar",
+    "scarred myocardium",
+    "viability",
+    "viable myocardium"
+   ],
+   "symbol": "a patch of the engine room's wall burnt to cold GREY ASH that will never move again, next to living red brick",
+   "anchors": [
+    "grey ash"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "dead muscle gains nothing from new blood; living (hibernating) muscle does",
+    "place": "the wall of the ventricle (the engine room)"
+   },
+   "why": "ash cannot burn again",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Living but sleeping muscle = the bear (hibernating). PET (glowing puppy) or MRI (magnet) show which is which.",
+   "firstUsed": "SESATS 12 31-40",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "acidosis",
+   "concept": "metabolic (lactic) acidosis, a sign of poor perfusion",
+   "terms": [
+    "metabolic acidosis",
+    "acidosis",
+    "lactic acidosis",
+    "lactate",
+    "base deficit",
+    "base excess"
+   ],
+   "symbol": "a bowl of SOUR LEMONS squeezed into the river so the water turns sour and yellow",
+   "anchors": [
+    "sour lemons"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "acid builds up when tissues are starved of flow",
+    "place": "in the blood (the river)"
+   },
+   "why": "lemons make it sour",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "SESATS 12 31-40",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "mottling",
+   "concept": "mottled, cool skin: poor peripheral perfusion (low output)",
+   "terms": [
+    "mottled",
+    "mottling",
+    "cool extremities",
+    "cold extremities",
+    "mottled skin"
+   ],
+   "symbol": "a man's skin patterned like a cold grey-and-purple MARBLE floor, MARBLED SKIN cool to the touch",
+   "anchors": [
+    "marbled skin"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the body shuts down skin flow when output falls",
+    "place": "the skin of the limbs"
+   },
+   "why": "mottled skin looks like marble",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "SESATS 12 31-40",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "oliguria",
+   "concept": "oliguria (low urine output), a sign of low perfusion or kidney injury",
+   "terms": [
+    "oliguria",
+    "oliguric",
+    "low urine output",
+    "urine output",
+    "anuria"
+   ],
+   "symbol": "a nearly empty brass CHAMBER POT with only a few drops trickling into it",
+   "anchors": [
+    "chamber pot"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "little urine is made",
+    "place": "at the bedside"
+   },
+   "why": "an empty chamber pot",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Below 0.5 ml/kg/h.",
+   "firstUsed": "SESATS 12 31-40",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "aortic-leaflet-injury",
+   "concept": "injury to the aortic valve during mitral surgery (a mitral annular stitch catching the aortic cusp)",
+   "terms": [
+    "aortic valve injury",
+    "iatrogenic aortic regurgitation",
+    "aortic cusp injury",
+    "stitch through the aortic cusp",
+    "aortic leaflet injury"
+   ],
+   "symbol": "a STRAY STITCH from the mitre's collar ring hooking one lip of the orca's mouth so that it gapes and drips",
+   "anchors": [
+    "stray stitch"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "a suture placed too deep catches the neighbouring valve",
+    "place": "the aorto-mitral curtain, between the anterior mitral annulus and the aortic cusps"
+   },
+   "why": "one stitch strayed into the next room",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Found on TEE after mitral surgery as new aortic regurgitation: go back on bypass and repair or replace.",
+   "firstUsed": "SESATS 12 31-40",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "hybrid-revascularization",
+   "concept": "hybrid coronary revascularisation (LIMA to LAD by surgery plus PCI to the others) and hybrid procedures",
+   "terms": [
+    "hybrid",
+    "hybrid revascularization",
+    "hybrid revascularisation",
+    "hybrid cabg",
+    "hybrid procedure"
+   ],
+   "symbol": "a CENTAUR, half surgeon half horseman-cardiologist, laying a lima bean vine with his hands while his hooves push a coiled Slinky into another spike",
+   "anchors": [
+    "centaur"
+   ],
+   "kind": "meaning",
+   "layers": {
+    "meaning": "one patient treated by surgery and catheter together",
+    "place": "one vine on the LAD, Slinkies on the others"
+   },
+   "why": "half one thing, half another",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "SESATS 12 31-40",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "graft-failure",
+   "concept": "early graft failure or perioperative MI after CABG (kinked, occluded or poorly placed graft)",
+   "terms": [
+    "graft failure",
+    "graft occlusion",
+    "perioperative myocardial infarction",
+    "perioperative mi",
+    "early graft failure"
+   ],
+   "symbol": "a freshly laid cabbage leaf WILTING brown on its spike, its water cut off, the room beneath it going still",
+   "anchors": [
+    "wilting cabbage"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "a new graft has failed and the territory it feeds is dying",
+    "place": "on the coronary it was meant to feed"
+   },
+   "why": "a wilting cabbage leaf is a failing graft",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "New wall-motion loss, rising troponin or ST change after CABG: emergency angiography.",
+   "firstUsed": "SESATS 12 31-40",
+   "status": "approved",
+   "reason": "total 10/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "coronary-collaterals",
+   "concept": "coronary collateral vessels",
+   "terms": [
+    "coronary collaterals",
+    "collaterals",
+    "collateral",
+    "collateral circulation",
+    "right-to-left collaterals"
+   ],
+   "symbol": "thin green BRIDGING VINES growing from one spike of the crown across to another, carrying a little water round a block",
+   "anchors": [
+    "bridging vines"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "natural bypasses that feed a blocked artery from a neighbour",
+    "place": "between coronary territories"
+   },
+   "why": "vines bridging from spike to spike",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Not the aortopulmonary collaterals of tetralogy (treasure map).",
+   "firstUsed": "SESATS 12 31-40",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
    "audited": "2026-11-26"
   }
  ]
