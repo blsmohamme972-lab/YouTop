@@ -19153,6 +19153,273 @@
    "status": "approved",
    "reason": "total 8/10, 2 layers",
    "audited": "2026-11-26"
+  },
+  {
+   "id": "myocarditis",
+   "concept": "myocarditis (acute, viral or fulminant inflammation of the heart muscle)",
+   "terms": [
+    "myocarditis",
+    "acute myocarditis",
+    "viral myocarditis",
+    "fulminant myocarditis",
+    "giant cell myocarditis"
+   ],
+   "symbol": "the engine-room walls swollen and full of GLOWING EMBERS IN THE WALLS, a fever fire smouldering inside the muscle",
+   "anchors": [
+    "glowing embers in the walls"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "inflammation of the myocardium: failure, arrhythmias, often recovers if bridged",
+    "place": "inside the ventricular muscle"
+   },
+   "why": "embers burning inside the walls",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Fulminant: VA-ECMO or a VAD as a bridge to recovery or transplant.",
+   "firstUsed": "SESATS 12 304-313",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "viral-infection",
+   "concept": "viral infection (as a cause of myocarditis, pericarditis or cardiomyopathy)",
+   "terms": [
+    "viral infection",
+    "virus",
+    "viral illness",
+    "post-viral",
+    "viral"
+   ],
+   "symbol": "a SPIKY URCHIN of a virus, a little sea urchin rolling into the hotel",
+   "anchors": [
+    "spiky urchin"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "a virus that inflames the heart",
+    "place": "carried into the heart muscle or pericardium"
+   },
+   "why": "a spiky virus ball like an urchin",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "SESATS 12 304-313",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "rcp",
+   "concept": "retrograde cerebral perfusion (through the SVC during circulatory arrest; flushes air and debris)",
+   "terms": [
+    "retrograde cerebral perfusion",
+    "rcp",
+    "retrograde cerebral flow"
+   ],
+   "symbol": "cold water pushed BACKWARDS UP THE CHIMNEY into the head lantern while everything else lies frozen, flushing bubbles out of the lantern",
+   "anchors": [
+    "backwards up the chimney"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "blood driven backwards through the cerebral veins: cools the brain and flushes out air or debris",
+    "place": "through the superior vena cava into the brain"
+   },
+   "why": "water backwards up the chimney",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "For massive arterial air embolism: stop, head down, RCP with aortic root venting.",
+   "firstUsed": "SESATS 12 304-313",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "la-decompression",
+   "concept": "left atrial (left heart) decompression on VA-ECMO (septostomy or LA vent)",
+   "terms": [
+    "left atrial decompression",
+    "la decompression",
+    "left heart decompression",
+    "la venting",
+    "left atrial venting",
+    "decompression of the left heart"
+   ],
+   "symbol": "the swollen red lobby EMPTYING THROUGH A PUNCHED HOLE into the blue lobby while the fish gills run, the soggy money sacks drying",
+   "anchors": [
+    "emptying through a punched hole"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "on VA-ECMO a non-ejecting LV fills the LA and floods the lungs: open the atrial septum or vent the LA",
+    "place": "the atrial septum or the left atrium"
+   },
+   "why": "the red lobby drains through a hole",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Balloon atrial septostomy in the catheter laboratory, or a surgical LA vent.",
+   "firstUsed": "SESATS 12 304-313",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "primary-graft-dysfunction",
+   "concept": "primary graft dysfunction after heart transplant",
+   "terms": [
+    "primary graft dysfunction",
+    "pgd",
+    "early graft dysfunction",
+    "donor heart dysfunction",
+    "graft dysfunction after transplant"
+   ],
+   "symbol": "the newly planted hotel in the flowerpot WILTING LIKE A CUT FLOWER, its fans limp, though no one has touched it",
+   "anchors": [
+    "wilting like a cut flower"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the new heart fails in the first hours (long ischaemic time, donor factors)",
+    "place": "the transplanted heart"
+   },
+   "why": "the new hotel wilts",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Biventricular failure with hypoxia: VA-ECMO.",
+   "firstUsed": "SESATS 12 304-313",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "hypocarbia",
+   "concept": "hypocarbia (low pCO2), which dilates the pulmonary vessels",
+   "terms": [
+    "hypocarbia",
+    "hypocapnia",
+    "low pco2",
+    "respiratory alkalosis",
+    "low carbon dioxide"
+   ],
+   "symbol": "the river's soda gone FLAT, every bubble blown off by the bellows, the money pipes opening wide",
+   "anchors": [
+    "soda gone flat"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "over-ventilation removes CO2: the lung vessels relax and steal flow from the body (single ventricle)",
+    "place": "in the blood and the lung vessels"
+   },
+   "why": "the opposite of fizzy soda",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "After Norwood with overcirculation: lower the ventilator rate to let the CO2 rise.",
+   "firstUsed": "SESATS 12 304-313",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "somatic-nirs",
+   "concept": "somatic (renal, flank) near-infrared spectroscopy",
+   "terms": [
+    "somatic nirs",
+    "flank nirs",
+    "renal nirs",
+    "renal near-infrared spectroscopy",
+    "flank saturation",
+    "renal oximetry",
+    "somatic oximetry",
+    "flank saturation index"
+   ],
+   "symbol": "a little LIGHT METER ON THE KIDNEY BEANS reading how much oxygen reaches them",
+   "anchors": [
+    "light meter on the kidney beans"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "oxygen delivery to the body below: low with low output",
+    "place": "sensors on the flank"
+   },
+   "why": "a light meter on the beans",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Cerebral low but flank normal = a head problem (SVC cannula, arterial cannula); both low = low output.",
+   "firstUsed": "SESATS 12 304-313",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "arterial-line",
+   "concept": "the arterial line (radial or other) and its pressure reading",
+   "terms": [
+    "arterial line",
+    "radial arterial line",
+    "radial artery line",
+    "a-line",
+    "radial arterial pressure",
+    "arterial line pressure"
+   ],
+   "symbol": "a thin red tube taped into the wrist ending in a little WRIST DIAL",
+   "anchors": [
+    "wrist dial"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "beat-to-beat blood pressure, and blood gases",
+    "place": "usually the radial artery at the wrist"
+   },
+   "why": "a dial at the wrist",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "A right radial line reads the pressure of the head vessels during selective cerebral perfusion.",
+   "firstUsed": "SESATS 12 304-313",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
   }
  ]
 }

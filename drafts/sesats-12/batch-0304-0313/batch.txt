@@ -1,0 +1,163 @@
+book: sesats-12
+style: a stop-motion claymation look: chunky hand-made plasticine figures and sets with soft fingerprints in the clay, bright cheerful colours, soft studio light with gentle shadows, simple uncluttered sets, every object solid, rounded and instantly recognisable
+theme: the world of al-Jahiz in ninth-century Basra: the Mirbad market, the canals and date-palm groves, boats on the Shatt al-Arab, scholars, merchants and the animals of his Book of Animals; the physician Hunayn ibn Ishaq (grey beard, blue turban) is the recurring healer; stories end with a genuine line of al-Jahiz (Kitab al-Hayawan, al-Bayan wa al-Tabyin, al-Bukhala)
+
+== 304
+# Q: 3-year-old after a non-fenestrated extracardiac Fontan; day 1: right lung very hazy, left clear, no effusion; catheter: wide-open pathway and branch PAs, flow mostly to the left lung, delayed return from the right lung on levophase: next step? A: revise the extracardiac conduit
+# Hunayn moving the outside tube off the returning money pipes wearing a small white dove that it was squeezing = conduit compressing the right pulmonary veins: revise it -> ANSWER
+# the dove money sack soggy, the bangle money sack dry, magenta dye lingering in the dove sack = right lung congested, slow venous return
+# the stone fountain fed by a tube outside the hotel wall = extracardiac Fontan
+# nitro smoke, a drilled hole and a Slinky waved away = not NO, fenestration or PV stenting (wrong options)
+title: One lung congested after an extracardiac Fontan: the conduit compresses its veins; revise it
+titleAr: احتقان رئة واحدة بعد فونتان خارج القلب: الأنبوب يضغط أوردتها؛ أعد وضعه
+tags: cardiac/congenital d:complications q:next-step l:3 x:trap
+palette: fountain stone and magenta dye with dove white
+words:
+keywords: extracardiac fontan -> a stone fountain fed by a tube running outside the hotel wall from the drainpipe to the money pipes; compression -> the outside tube pressing on the returning money pipes wearing a small white dove; revision -> Hunayn moving the tube away from the dove pipes; pulmonary edema -> the money sack wearing a small white dove soggy and dripping; dry sack -> the money sack wearing a golden bangle dry and light; angiography -> a photographer squirting glowing magenta dye, the dye lingering in the dove sack; catheterization -> a long fishing line threaded into the fountain's pipes; nitric oxide (no) -> a puff of nitro smoke, waved away; fontan fenestration (no) -> a small drilled hole in the fountain basin, waved away; stent (no) -> a coiled Slinky in the returning pipes, waved away; boy -> a boy of three with a clay boat; day one -> one candle
+anchor: the best next step -> the physician Hunayn moving the outside tube off the returning money pipes wearing a small white dove, which it was squeezing, so the soggy dove sack can drain
+scene: A stone clay courtyard, one candle burning. A boy of three with a clay boat lies beside his HART Hotel: a stone fountain is fed by a tube running outside the hotel wall from the drainpipe to the money pipes, a long fishing line threaded into them, and a photographer squirts glowing magenta dye that lingers in the money sack wearing a small white dove, soggy and dripping, while the money sack wearing a golden bangle stays dry and light. In the centre, in the strongest light: the outside tube presses on the returning money pipes wearing a small white dove, and the physician Hunayn ibn Ishaq moves it away. A puff of nitro smoke, a small drilled hole in the fountain basin and a coiled Slinky are waved away.
+must: no letters or digits are written anywhere
+
+== 305
+# Q: previously healthy 9-year-old in shock, normal coronaries on echo, ventilated, BP 60/35 on milrinone, dopamine and dobutamine, runs of VT, failing kidneys and liver, a transplant candidate: next step? A: LVAD placement
+# Darth Vader bolting his pump into the tip of the red room and carrying the girl over a little bridge to a flowerpot = LVAD as a bridge to transplant -> ANSWER
+# the embers in the walls, the lights going out, men hauling a rope, the tachometer sparking in bursts, wilting flowers = fulminant myocarditis-type failure in shock on inotropes, VT, end-organ injury
+# a sausage balloon and fish gills waved away = not IABP or ECMO (wrong options; steroids and IVIG also wrong)
+title: Child in cardiogenic shock on three inotropes with VT: LVAD as a bridge to transplant
+titleAr: طفلة في صدمة قلبية على ثلاثة مقويات مع تسرّع بطيني: جهاز دعم البطين الأيسر جسرًا للزرع
+tags: cardiac/heart-failure cardiac/congenital d:indications q:next-step l:3 x:trap
+palette: Vader black and ember orange with flowerpot terracotta
+words:
+keywords: vad -> Darth Vader bolting his little pump into the tip of the red engine room; bridge to transplant -> Vader carrying the girl over a little bridge, a flowerpot waiting at the far end of a little bridge; myocarditis -> the engine-room walls full of glowing embers in the walls; cardiogenic shock -> the hotel's lights going out one by one; inotropes -> men hauling a rope wound round the fan; ventricular tachycardia -> a tachometer bolted to the engine room, sparking into the red in bursts; iabp (no) -> a long sausage-shaped balloon, waved away; ecmo (no) -> fish gills in a clear box, waved away; girl -> a girl of nine with a clay kite; organs failing -> wilting flowers on the sill; low pressure -> a sagging tent over the bed; breathing mask -> a breathing mask on her face; waiting place -> a green ribbon on the bed marking her place in line
+anchor: the best next step -> Darth Vader bolting his little pump into the tip of the red engine room and carrying the girl over a little bridge, a flowerpot waiting at the far end of a little bridge
+scene: A dim clay room, wilting flowers on the sill and a sagging tent over the bed. A girl of nine with a clay kite and a breathing mask on her face, a green ribbon on the bed marking her place in line, lies beside her HART Hotel: its lights go out one by one, its walls are full of glowing embers in the walls, men haul a rope wound round the fan, and a tachometer bolted to the engine room sparks into the red in bursts. In the centre, in the strongest light: Darth Vader bolts his little pump into the tip of the red engine room and carries the girl over a little bridge, a flowerpot waiting at the far end of a little bridge. A long sausage-shaped balloon and fish gills in a clear box are waved away.
+must: no letters or digits are written anywhere
+
+== 306
+# Q: 10-month-old with a severe dilated cardiomyopathy after a viral illness, RV preserved, LVEF 15%, a good transplant candidate, deteriorating: next step? A: LVAD
+# Darth Vader bolting his pump into the tip of the stretched red room, a flowerpot at the far end of a little bridge = paediatric LVAD as a bridge to transplant -> ANSWER
+# the spiky urchin rolled away months ago, the over-pulled accordion, the weak bouncer = post-viral DCM with EF 15%
+# the blue room's fan turning well = RV preserved: an LVAD alone is enough
+# fish gills, a tiny micro-pump and a tin man waved away = not ECMO, Impella or total artificial heart (wrong options)
+title: Infant DCM with a good RV, deteriorating, awaiting transplant: LVAD
+titleAr: اعتلال عضلة قلب متوسع عند رضيع مع بطين أيمن جيد يتدهور بانتظار الزرع: جهاز دعم البطين الأيسر
+tags: cardiac/heart-failure cardiac/congenital d:indications q:next-step l:2
+palette: Vader black and accordion red with urchin purple
+words:
+keywords: vad -> Darth Vader bolting his little pump into the tip of the red engine room; bridge to transplant -> a flowerpot waiting at the far end of a little bridge; dilated cardiomyopathy -> the red engine room stretched like an over-pulled accordion; viral infection -> a spiky urchin of a virus rolling away, months ago; ejection fraction -> a weak bouncer barely pushing a guest out; ecmo (no) -> fish gills in a clear box, waved away; total artificial heart (no) -> a tin man with a clockwork heart, waved away; micro-pump (no) -> a tiny micro-pump through the orca's mouth, waved away; blue fan fine -> the blue engine room's fan turning well; baby -> a baby girl of ten months; paler -> the baby growing paler each day; months ago -> crescent moons drawn on the wall
+anchor: the best next step -> Darth Vader bolting his little pump into the tip of the stretched red engine room while the blue room's fan turns well, a flowerpot waiting at the far end of a little bridge
+scene: A clay nursery, crescent moons drawn on the wall. A baby girl of ten months grows paler each day; a spiky urchin of a virus rolls away out of the door. Her HART Hotel: the red engine room is stretched like an over-pulled accordion, a weak bouncer barely pushing a guest out, while the blue engine room's fan turns well. In the centre, in the strongest light: Darth Vader bolts his little pump into the tip of the red engine room, a flowerpot waiting at the far end of a little bridge. Fish gills in a clear box, a tin man with a clockwork heart and a tiny micro-pump through the orca's mouth are waved away.
+must: no letters or digits are written anywhere
+
+== 307
+# Q: 2.8 kg neonate, Norwood at 18 C with selective cerebral perfusion at 20 mL/kg/min into the innominate artery; rSO2 trace low; right radial pressure 15 mmHg: next step? A: increase the flow to 30 mL/kg/min
+# Hunayn turning the lantern hose's tap wider, a fox and a whistle painted on the tap, the forehead light meter climbing = raise the cerebral perfusion flow -> ANSWER
+# the lantern hose feeding the dim head lantern while the hotel is in the ice cube, the woodcutter = selective cerebral perfusion during a Norwood
+# the wrist dial with a white dove reading low = right radial pressure low
+# a sleepy mist, a pressed vase and moving the cannon waved away = not isoflurane, vasopressin or repositioning (wrong options)
+title: Low cerebral saturation and low radial pressure on selective cerebral perfusion: raise the flow
+titleAr: انخفاض إشباع الدماغ وضغط الكعبرية أثناء التروية الدماغية الانتقائية: زد التدفق
+tags: cardiac/congenital cardiac/cpb d:technique q:next-step l:3
+palette: ice blue and lantern gold with hose green
+words:
+keywords: acp -> a thin lantern hose carrying cold water forward into the head lantern; flow up -> Hunayn turning the hose's tap wider; number 30 (flow, mL/kg/min) -> a small painting on the tap: a red fox and a golden whistle; cerebral oximetry -> a little forehead light meter on the baby's brow, its needle low, then climbing; arterial line -> a thin red tube taped into the wrist wearing a small white dove, its wrist dial reading low; circulatory arrest -> the hotel and the orca inside one giant ice cube; norwood -> a Norwegian woodcutter joining the money pipe to the little orca; vasopressin (no) -> two hands pressing a tall vase, waved away; isoflurane (no) -> a sleepy mist, waved away; move the cannon (no) -> moving the brass cannon, waved away; newborn -> a tiny newborn under a lamp; dim lantern -> the head lantern dimming; ticking clock -> a ticking clock on the wall
+anchor: the best next step -> the physician Hunayn turning the lantern hose's tap wider, a red fox and a golden whistle painted on the tap, so the dim head lantern brightens and the forehead light meter climbs
+scene: An icy blue clay room, a ticking clock on the wall. A tiny newborn lies under a lamp, a little forehead light meter on the brow with its needle low and a thin red tube taped into the wrist wearing a small white dove, its wrist dial reading low. The hotel and the orca lie inside one giant ice cube while a Norwegian woodcutter joins the money pipe to the little orca, and a thin lantern hose carries cold water forward into the head lantern, which is dimming. In the centre, in the strongest light: the physician Hunayn ibn Ishaq turns the hose's tap wider, a small painting of a red fox and a golden whistle on it, and the lantern brightens as the meter climbs. Two hands pressing a tall vase, a sleepy mist and moving the brass cannon are waved away.
+must: no letters or digits are written anywhere
+
+== 308
+# Q: 4-month-old, TOF repair on bypass at 34 C with aortic and bicaval cannulation, aorta clamped, cardioplegia given; cerebral NIRS falls from 86 to 42, flank stays 80, MAP 30: next step? A: adjust the SVC cannula
+# Hunayn easing back the brass cannon pushed crooked too far up the chimney, the smoke round the head lantern clearing = SVC cannula obstructing cerebral venous drainage -> ANSWER
+# the forehead light meter dropping while the light meter on the kidney beans stays steady = a head-only problem
+# the four-log raft, the iron tongs = TOF repair under a cross-clamp
+# pushing the orca's cannon deeper, a frosted thermometer and the pump wheel turned faster waved away = not the arterial cannula, cooling or more flow (wrong options)
+title: Cerebral NIRS falls but the flank holds on bypass: fix the SVC cannula
+titleAr: انخفاض قياس الأكسجة الدماغية مع ثبات قياس الخاصرة أثناء المجازة: صحّح قنية الوريد الأجوف العلوي
+tags: cardiac/cpb cardiac/congenital d:complications q:next-step l:2 x:high-yield
+palette: chimney brick and light-meter gold with tongs iron
+words:
+keywords: svc cannula -> a small brass cannon pushed crooked too far up the chimney, blocking its smoke; svc -> the chimney of the hotel's blue wing; cerebral oximetry -> a little forehead light meter on the baby's brow, its needle dropping; somatic nirs -> a little light meter on the kidney beans, its needle steady; tetralogy -> a raft of four logs lashed together; cross-clamp -> giant iron tongs across the orca's climb; hypothermia (no) -> a frosted thermometer, waved away; push deeper (no) -> pushing the orca's cannon deeper, waved away; faster wheel (no) -> the pump wheel turned faster, waved away; baby -> a baby boy of four months; smoke backing -> smoke backing up round the head lantern; easing back -> Hunayn easing the cannon back down
+anchor: the best next step -> the physician Hunayn easing back the brass cannon pushed crooked too far up the chimney, so the smoke round the head lantern clears and the forehead light meter climbs
+scene: A brick-red clay room. A baby boy of four months lies beside a raft of four logs lashed together; his HART Hotel is on the pump, giant iron tongs across the orca's climb. A little forehead light meter on his brow drops its needle while a little light meter on the kidney beans holds steady, and smoke backs up round the head lantern. In the centre, in the strongest light: a small brass cannon has been pushed crooked too far up the chimney of the blue wing, blocking its smoke, and the physician Hunayn ibn Ishaq eases it back down, the smoke clearing. A frosted thermometer, pushing the orca's cannon deeper and the pump wheel turned faster are waved away.
+must: no letters or digits are written anywhere
+
+== 309
+# Q: during a Fontan on bypass, dissecting the LAA off the LPA: bradycardia and diffuse ST changes; TEE shows air in the ventricle and neoaortic root; cerebral NIRS falls abruptly; a root vent draws a lot of air: next step? A: retrograde cerebral perfusion with active venting of the aortic root
+# cold water pushed backwards up the chimney into the head lantern, flushing soap bubbles out, while a hissing vent in the salsa bowls sucks bubbles out = RCP with aortic root venting -> ANSWER
+# soap bubbles rolling into the lantern and the crown, the bat seeing them, the forehead light meter falling, the fans turning very slowly, raised elevators = massive air embolism
+# the dog's ear torn off the money-pipe branch with a golden bangle = air entered while freeing the LAA from the LPA
+# carrying on, switching off the truck and a frosted thermometer with the ox waved away = not continuing, stopping CPB or deep cooling with oxygen alone (wrong options)
+title: Massive air embolism during surgery: retrograde cerebral perfusion and vent the aortic root
+titleAr: صمة هوائية كبيرة أثناء الجراحة: تروية دماغية راجعة مع تفريغ جذر الأبهر
+tags: cardiac/cpb cardiac/congenital d:complications q:next-step l:3 x:high-yield
+palette: bubble clear and chimney brick with salsa red
+words:
+keywords: rcp -> cold water pushed backwards up the chimney into the head lantern, flushing bubbles out; aortic root -> a hissing vent in the salsa bowls sucking out bubbles; air embolism -> big clear soap bubbles rolling into the head lantern and the crown spikes; cerebral oximetry -> a little forehead light meter falling; tee -> the bat sliding down inside the pink sofa slide, seeing the bubbles; bradycardia -> the engine room fans turning very slowly; laa -> a floppy dog's ear being freed from the money-pipe branch wearing a golden bangle, a small tear in it; head down -> the bed tipped head-down; carry on (no) -> carrying on as planned, waved away; truck off (no) -> switching off the pump truck, waved away; cool and oxygen (no) -> a frosted thermometer with an ox, waved away; fountain half-built -> the stone fountain half-built; tear -> a small tear where the air got in
+anchor: the best next step -> cold water pushed backwards up the chimney into the head lantern, flushing the soap bubbles out, while a hissing vent in the salsa bowls sucks bubbles out of the orca's root
+scene: A clay courtyard, a stone fountain half-built, the bed tipped head-down. In the cut-open HART Hotel a floppy dog's ear is being freed from the money-pipe branch wearing a golden bangle, a small tear where the air got in; big clear soap bubbles roll into the head lantern and the crown spikes, the bat sliding down inside the pink sofa slide sees them, the engine room fans turn very slowly, and a little forehead light meter falls. In the centre, in the strongest light: cold water is pushed backwards up the chimney into the head lantern, flushing the bubbles out, and a hissing vent in the salsa bowls sucks bubbles out of the orca's root. Carrying on as planned, switching off the pump truck and a frosted thermometer with an ox are waved away.
+must: no letters or digits are written anywhere
+
+== 310
+# Q: 4-year-old with acute myocarditis, arrest, on VA-ECMO via carotid and jugular; flow index 1.6, CVP 17, cannulas well placed; marked pulmonary oedema with both lungs white: next step? A: balloon atrial septostomy
+# a round red party balloon pulled through the upper party wall so the swollen red lobby empties through a punched hole into the blue lobby and the soggy sacks dry = septostomy to decompress the LA -> ANSWER
+# the fish gills with hoses into the neck, the embers in the walls, the red room's fan barely moving = VA-ECMO for myocarditis, a non-ejecting LV
+# the soggy dollar bills = pulmonary oedema from LA hypertension
+# a thigh cannon, a relief pipe through the stern and Vader waved away = not an extra femoral cannula, central cannulation with LV vent, or a VAD now (wrong options)
+title: Pulmonary oedema on VA-ECMO: decompress the left atrium with a balloon septostomy
+titleAr: وذمة رئوية أثناء الأكسجة الغشائية الوريدية الشريانية: خفّف ضغط الأذين الأيسر بفغر الحاجز بالبالون
+tags: cardiac/heart-failure cardiac/congenital d:complications q:next-step l:3 x:high-yield
+palette: balloon red and gill red with soggy green
+words:
+keywords: balloon atrial septostomy -> a round red party balloon on a string pulled through the upper party wall; la decompression -> the swollen red lobby emptying through a punched hole into the blue lobby; ecmo -> a pair of big red fish gills in a clear box on a trolley, hoses into the neck; myocarditis -> the engine-room walls full of glowing embers in the walls; pulmonary edema -> soggy dollar bills dripping from the money pipes; femoral (no) -> a brass cannon in the red pipe beside the long white thigh bone, waved away; lv vent (no) -> a hissing relief pipe through the opened stern, waved away; vad (no) -> Darth Vader, waved away; still fan -> the red engine room's fan barely moving; child -> a child of four in a striped nightshirt; low flow -> the gills' pump barely managing; dropped toy -> a dropped clay toy on the floor; full chimney -> the chimney swollen and full
+anchor: the best next step -> a round red party balloon pulled through the upper party wall so the swollen red lobby empties through a punched hole into the blue lobby and the soggy money sacks dry
+scene: A clay nursery, a dropped clay toy on the floor. A child of four in a striped nightshirt lies beside a pair of big red fish gills in a clear box on a trolley, hoses into the neck, its pump barely managing; the HART Hotel's walls are full of glowing embers in the walls, the red engine room's fan barely moves, the chimney is swollen and full, and soggy dollar bills drip from the money pipes. In the centre, in the strongest light: a round red party balloon on a string is pulled through the upper party wall, and the swollen red lobby empties through a punched hole into the blue lobby as the sacks dry. A brass cannon beside the long white thigh bone, a hissing relief pipe through the opened stern and Darth Vader are waved away.
+must: no letters or digits are written anywhere
+
+== 311
+# Q: 10-year-old after a heart transplant with a long ischaemic time, biventricular dysfunction and massive transfusion; 6 hours later LAP 20, CVP 25, hazy lungs, saturation 80% on 100% oxygen: next step? A: VA-ECMO
+# a pair of big red fish gills in a clear box taking over for the wilting new hotel and the soggy sacks at once = VA-ECMO for primary graft dysfunction with lung failure -> ANSWER
+# the newly planted hotel wilting like a cut flower, both fans limp, both lobbies swollen = primary graft dysfunction, biventricular
+# the gift box on melting ice left too long, bags of red doughnuts = long ischaemic time, massive transfusion
+# the soggy bills, the gasping fish = pulmonary oedema, hypoxaemia: the lungs need support too
+# two Vaders and a tin man waved away = not BiVAD or total artificial heart (wrong options; RVAD alone also wrong)
+title: Primary graft dysfunction with hypoxaemia after transplant: VA-ECMO
+titleAr: خلل الطعم الأولي مع نقص الأكسجة بعد الزرع: الأكسجة الغشائية الوريدية الشريانية
+tags: cardiac/heart-failure d:complications q:next-step l:2
+palette: gill red and wilting green with ice blue
+words:
+keywords: ecmo -> a pair of big red fish gills in a clear box on a trolley, a pump spinning beneath; primary graft dysfunction -> the newly planted hotel in the flowerpot wilting like a cut flower; donor heart -> the gift box kept too long on melting ice; transfusion -> many bags of red doughnuts emptied; pulmonary edema -> soggy dollar bills dripping from the money pipes; hypoxemia -> a gasping fish flopping on dry sand; bivad (no) -> two Darth Vaders, waved away; total artificial heart (no) -> a tin man with a clockwork heart, waved away; boy -> a boy of ten in a sailor's collar; swollen lobbies -> both lobbies swollen; limp fans -> both fans limp; sun moved -> the sun moved across the window; whole support -> the gills feeding both the hotel and the money sacks
+anchor: the best next step -> a pair of big red fish gills in a clear box taking over for the wilting new hotel and the soggy money sacks at once
+scene: A clay ward, the sun moved across the window. A boy of ten in a sailor's collar lies beside the gift box kept too long on melting ice and many bags of red doughnuts emptied. His newly planted hotel in the flowerpot is wilting like a cut flower, both fans limp and both lobbies swollen; soggy dollar bills drip from the money pipes, and a gasping fish flops on dry sand by the bed. In the centre, in the strongest light: a pair of big red fish gills in a clear box on a trolley, a pump spinning beneath, takes over, feeding both the hotel and the money sacks. Two Darth Vaders and a tin man with a clockwork heart are waved away.
+must: no letters or digits are written anywhere
+
+== 312
+# Q: 3-month-old after ALCAPA repair (translocation); post-repair moderate-severe LV dysfunction, moderate MR, flow in the coronary; in ICU BP 90/45, HR 140, CVP 13, on epinephrine 0.1 and milrinone 0.2; cerebral NIRS 55, renal 35, poor perfusion, metabolic acidosis, lactate 5.3: next step? A: increase milrinone to 0.75
+# Hunayn opening the windmill's shutters so its sails turn faster, a whistle, a drop, a swimmer and a hamsa painted on it = raise milrinone to 0.75 -> ANSWER
+# the moved bangled spike with water flowing, the weak red fan = ALCAPA repaired, stunned LV
+# the brass water meter barely turning, the light meter on the kidney beans low, sour lemons, cold hands = low cardiac output with acidosis
+# fish gills waved away = not ECMO yet (wrong options; vasopressin and pacing also wrong)
+title: Low output after ALCAPA repair: increase milrinone
+titleAr: انخفاض النتاج بعد إصلاح المنشأ الشاذ للشريان التاجي: زد الميلرينون
+tags: cardiac/congenital cardiac/perioperative d:postoperative q:next-step l:3
+palette: windmill white and lemon yellow with water-meter brass
+words:
+keywords: milrinone -> a tall windmill whose shutters Hunayn opens so its sails turn faster; number 0.75 (milrinone dose) -> a small painting on the windmill: a golden whistle, a golden drop, a swimmer and a blue hamsa hand; alcapa -> Al Capone's bolt removed, the crown spike wearing a golden bangle now set on the orca; low cardiac output -> a brass water meter on the orca barely turning; somatic nirs -> a little light meter on the kidney beans reading low; acidosis -> sour lemons squeezed into the river; ecmo (no) -> fish gills in a clear box, waved away; cold hands -> cold pale hands; weak fan -> the red engine room's fan turning weakly; baby -> a baby of three months in a blue cap; spike flowing -> water flowing in the moved spike; gentle easing -> the city road ahead easing open
+anchor: the best next step -> the physician Hunayn opening the windmill's shutters so its sails turn faster, a golden whistle, a golden drop, a swimmer and a blue hamsa hand painted on it, the water meter starting to turn
+scene: A white clay ward. A baby of three months in a blue cap has cold pale hands; a little light meter on the kidney beans reads low, and sour lemons are squeezed into the river. The baby's cut-open HART Hotel: Al Capone's bolt has been removed and the crown spike wearing a golden bangle is now set on the orca, water flowing in it, but the red engine room's fan turns weakly and a brass water meter on the orca barely turns. In the centre, in the strongest light: the physician Hunayn ibn Ishaq opens the shutters of a tall windmill, a small painting of a golden whistle, a golden drop, a swimmer and a blue hamsa hand on it, its sails turn faster, the city road ahead eases open and the water meter starts to turn. Fish gills in a clear box are waved away.
+must: no letters or digits are written anywhere
+
+== 313
+# Q: 4-day-old with HLHS after Norwood with a 3.5 mm BT shunt; 10 hours later cool limbs, low urine, MAP 44; pH 7.36, pCO2 26, pO2 48, saturation 88%, SvO2 40%; FiO2 0.5, rate 32: next step? A: decrease the ventilator rate
+# Hunayn slowing the big leather bellows so the river's flat soda starts to fizz again and the water-carrier's yoke levels = lower the rate to raise pCO2 and PVR, balancing the circulation -> ANSWER
+# the soda gone flat, the yoke tipping to the money side, the dark mixing bowl, the empty chamber pot, cold limbs = hypocarbia, overcirculation, low systemic output
+# the woodcutter, the hose from the flipper = Norwood with a BT shunt
+# nitro smoke, turning up the air bottle and a new hose waved away = not NO, more oxygen or shunt revision (wrong options)
+title: Overcirculation after a Norwood with low pCO2: lower the ventilator rate
+titleAr: فرط الجريان الرئوي بعد عملية نوروود مع انخفاض ثاني أكسيد الكربون: خفّض معدل التنفس الآلي
+tags: cardiac/congenital cardiac/perioperative d:postoperative q:next-step l:3 x:trap
+palette: bellows leather and soda clear with yoke wood
+words:
+keywords: mechanical ventilation -> a big leather bellows pumping fast, Hunayn slowing it; hypocarbia -> the river's soda gone flat, every bubble blown off; qp:qs -> the water-carrier's wooden yoke tipping heavily to the money side, then levelling; svo2 -> a mixing bowl in the blue engine room gone dark blue; norwood -> a Norwegian woodcutter who joined the money pipe to the little orca; bt shunt -> a hose from the flipper to the money pipe; oliguria -> a nearly empty brass chamber pot; nitric oxide (no) -> a puff of nitro smoke, waved away; higher fio2 (no) -> turning up the air bottle, waved away; new hose (no) -> a new hose being cut, waved away; cold limbs -> cold pale hands and feet; newborn -> a newborn in a woodcutter's red cap; sun moved -> the sun moved across the window
+anchor: the best next step -> the physician Hunayn slowing the big leather bellows so the river's flat soda starts to fizz again and the water-carrier's yoke levels
+scene: A leather-brown clay ward, the sun moved across the window. A newborn in a woodcutter's red cap has cold pale hands and feet, a nearly empty brass chamber pot below the cot. The newborn's HART Hotel was rebuilt by a Norwegian woodcutter who joined the money pipe to the little orca, a hose from the flipper to the money pipe; a water-carrier's wooden yoke tips heavily to the money side, and a mixing bowl in the blue engine room has gone dark blue. A big leather bellows pumps fast and the river's soda has gone flat. In the centre, in the strongest light: the physician Hunayn ibn Ishaq slows the bellows, the soda starts to fizz again and the yoke levels. A puff of nitro smoke, turning up the air bottle and a new hose being cut are waved away.
+must: no letters or digits are written anywhere
