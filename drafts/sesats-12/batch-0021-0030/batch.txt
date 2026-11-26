@@ -52,8 +52,8 @@ must: the jug is already partly full; no letters or digits are written anywhere
 # Q: after minimally invasive mitral repair (P2 resection, plication, partial band), good result off bypass, then lateral and posterior ST elevation and rising inotrope needs: next step? A: emergency coronary angiography
 # a photographer squirting glowing magenta dye into the crown to see the acrobat squeezed by the new horseshoe band's stitch = emergency coronary angiography for a circumflex injury -> ANSWER
 # the elevator stuck up, the low gauge, the Doberman pulling hard = lateral/posterior ST elevation, more inotropes
-# the mouse hole, the horseshoe band and the square notch = minimally invasive repair with a partial band
-# the sausage, the dynamite with the hare and the robot waved away = not IABP and wait, nitrates and heparin, or MVR (wrong options)
+# the mouse hole, the horseshoe collar and the square notch = minimally invasive repair with a partial band
+# the sausage waved away = not IABP and observation (wrong option; nitrates or MVR are wrong too)
 title: New lateral ST elevation after mitral repair: emergency coronary angiography
 titleAr: ارتفاع جديد في مقطع ST الجانبي بعد إصلاح التاجي: تصوير تاجي عاجل
 tags: cardiac/mitral-tricuspid cardiac/coronary d:complications q:next-step l:2 x:high-yield
