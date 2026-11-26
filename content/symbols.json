@@ -15594,6 +15594,324 @@
    "status": "approved",
    "reason": "total 8/10, 2 layers",
    "audited": "2026-11-26"
+  },
+  {
+   "id": "reentry-injury",
+   "concept": "injury to the heart, a graft or a great vessel while reopening the sternum (re-entry injury)",
+   "terms": [
+    "re-entry injury",
+    "reentry injury",
+    "sternal re-entry injury",
+    "injury at re-entry",
+    "graft laceration",
+    "laceration at re-entry",
+    "re-entry hemorrhage",
+    "re-entry haemorrhage"
+   ],
+   "symbol": "the saw biting through the barnacled stern into the hull glued beneath it, a red jet spurting from the TORN HULL while a flat hand presses it shut",
+   "anchors": [
+    "torn hull"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the right ventricle, a graft or the aorta torn on reopening: press it, stop sawing, go on bypass from the groin or armpit",
+    "place": "just behind the sternum"
+   },
+   "why": "the hull glued under the barnacles tears",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Compress, cannulate peripherally, decompress on bypass (cool and arrest if the aorta is torn), then finish the opening.",
+   "firstUsed": "SESATS 12 91-100",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "atheroma",
+   "concept": "aortic atheroma and atherosclerotic plaque (source of emboli and dissection at cannulation and clamping)",
+   "terms": [
+    "atheroma",
+    "aortic atheroma",
+    "atheromatous",
+    "atherosclerotic plaque",
+    "palpable plaque",
+    "mobile atheroma",
+    "aortic plaque",
+    "atherosclerosis",
+    "atherosclerotic aorta"
+   ],
+   "symbol": "a crumbly yellow PORRIDGE CRUST lining the inside of the orca's wall, flakes breaking off whenever it is poked or squeezed",
+   "anchors": [
+    "porridge crust"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "athere = gruel: soft fatty plaque that sheds debris (stroke) or splits (dissection)",
+    "place": "the inner wall of the aorta and arteries"
+   },
+   "why": "porridge stuck inside the pipe",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Find it with epiaortic ultrasound (bat lying on the orca); cannulate and clamp away from it.",
+   "firstUsed": "SESATS 12 91-100",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "wedge-pressure",
+   "concept": "pulmonary capillary wedge pressure (an estimate of left atrial pressure)",
+   "terms": [
+    "pulmonary capillary wedge pressure",
+    "wedge pressure",
+    "pcwp",
+    "pulmonary artery occlusion pressure",
+    "pawp",
+    "pulmonary artery wedge pressure"
+   ],
+   "symbol": "a rubber DOORSTOP wedged at the tip of the fishing line in a small money pipe, a little dial on it reading the pressure of the red lobby beyond",
+   "anchors": [
+    "doorstop"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "WEDGE = a doorstop wedge",
+    "meaning": "the balloon wedged in a branch reads left atrial pressure",
+    "place": "a small branch of the pulmonary artery"
+   },
+   "why": "a doorstop wedged in the pipe",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "High (above about 18) = congestion; low with shock = empty. A large v wave = mitral regurgitation.",
+   "firstUsed": "SESATS 12 91-100",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "svo2",
+   "concept": "mixed venous oxygen saturation (SvO2) and the oxygen step-up of a left-to-right shunt",
+   "terms": [
+    "svo2",
+    "sv02",
+    "mixed venous oxygen saturation",
+    "mixed venous saturation",
+    "mixed venous oxygen",
+    "oxygen step-up"
+   ],
+   "symbol": "a MIXING BOWL in the blue engine room where all the returning water is stirred, its colour showing the oxygen left: dark blue when low, bright pink when a red stream pours in through a hole",
+   "anchors": [
+    "mixing bowl"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the oxygen left in returning blood: low when delivery fails, falsely high with a left-to-right shunt",
+    "place": "the pulmonary artery"
+   },
+   "why": "a mixing bowl of returning water",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "A post-infarction VSD gives a step-up between the right atrium and the pulmonary artery.",
+   "firstUsed": "SESATS 12 91-100",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "gi-bleeding",
+   "concept": "gastrointestinal bleeding (melaena, haematemesis), including bleeding on an LVAD or anticoagulation",
+   "terms": [
+    "gastrointestinal bleeding",
+    "gi bleeding",
+    "gi bleed",
+    "melena",
+    "melaena",
+    "black tarry stools",
+    "upper gastrointestinal bleeding",
+    "gastrointestinal hemorrhage",
+    "gastrointestinal haemorrhage"
+   ],
+   "symbol": "a split BLACK MELON leaking black tar at the end of the gut spaghetti",
+   "anchors": [
+    "black melon"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "MELENA = a black MELON",
+    "meaning": "blood digested in the gut comes out black and tarry",
+    "place": "the stomach and bowel"
+   },
+   "why": "a black melon leaking tar",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "On an LVAD: angiodysplasia and acquired von Willebrand loss; endoscopy (periscope) first, ease the anticoagulation.",
+   "firstUsed": "SESATS 12 91-100",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "hypoxemia",
+   "concept": "hypoxaemia (low oxygen in the blood)",
+   "terms": [
+    "hypoxemia",
+    "hypoxaemia",
+    "hypoxia",
+    "hypoxic",
+    "desaturation",
+    "severe hypoxemia",
+    "low oxygen saturation"
+   ],
+   "symbol": "a GASPING FISH flopping on dry sand, mouth wide open, its scales turning blue",
+   "anchors": [
+    "gasping fish"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "too little oxygen in the arterial blood",
+    "place": "the blood leaving the lungs"
+   },
+   "why": "a fish out of water",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Causes: shunt (blue water pouring), low ventilation, mismatch, low inspired oxygen, diffusion.",
+   "firstUsed": "SESATS 12 91-100",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "right-to-left-shunt",
+   "concept": "right-to-left shunt (deoxygenated blood bypassing the lungs)",
+   "terms": [
+    "right-to-left shunt",
+    "right to left shunt",
+    "right-to-left shunting",
+    "reversed shunt",
+    "intracardiac shunt"
+   ],
+   "symbol": "BLUE WATER POURING through a hole from the blue side into the red side, the red lobby turning purple",
+   "anchors": [
+    "blue water pouring"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "blue blood skips the lungs: cyanosis and hypoxaemia that oxygen does not fix",
+    "place": "through a PFO, ASD or VSD, or inside the lungs"
+   },
+   "why": "blue water pours into the red side",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "An LVAD or Impella emptying the left side opens a PFO from right to left: look with TEE.",
+   "firstUsed": "SESATS 12 91-100",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "in-stent-restenosis",
+   "concept": "in-stent restenosis (the stented artery narrowing again)",
+   "terms": [
+    "in-stent restenosis",
+    "instent restenosis",
+    "stent restenosis",
+    "restenosis"
+   ],
+   "symbol": "the coiled Slinky choked from inside by IVY THROUGH THE COILS, the channel narrowing again",
+   "anchors": [
+    "ivy through the coils"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "scar tissue grows inside the stent and narrows it again",
+    "place": "inside the stented coronary"
+   },
+   "why": "ivy grows through the spring",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Less with drug-eluting stents; recurrent or diffuse restenosis of the LAD favours CABG.",
+   "firstUsed": "SESATS 12 91-100",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "thrombolysis",
+   "concept": "thrombolysis and fibrinolytic drugs (alteplase, streptokinase; also into the pleura or pericardium)",
+   "terms": [
+    "thrombolysis",
+    "thrombolytic",
+    "thrombolytics",
+    "fibrinolysis",
+    "fibrinolytic",
+    "fibrinolytics",
+    "alteplase",
+    "tpa",
+    "tissue plasminogen activator",
+    "streptokinase"
+   ],
+   "symbol": "a flask of magic solvent poured on the beaver's dam, the sticks dissolving into a MELTING DAM",
+   "anchors": [
+    "melting dam"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "a drug that dissolves clot and fibrin",
+    "place": "inside the vessel, or into the pleura or pericardium"
+   },
+   "why": "the dam melts away",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Antifibrinolytics (tranexamic acid) do the opposite: they keep the dam standing.",
+   "firstUsed": "SESATS 12 91-100",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
   }
  ]
 }

@@ -1,0 +1,168 @@
+book: sesats-12
+
+== 91
+# Q: man, ascending aorta replaced ten years ago, now a 6 cm root aneurysm with moderate-severe AR; the graft lies against the sternum on CT and is torn at re-entry, the bleeding held by compression: next step? A: peripheral cannulation, bypass and deep hypothermic circulatory arrest
+# the hotel frozen in a giant ice cube, fed through brass cannons at the thigh, while a flat hand still presses the torn hull under the barnacled stern = peripheral CPB and DHCA -> ANSWER
+# the saw through the barnacles into the old fabric tube, the red jet pressed shut = graft torn at re-entry, held by compression
+# the sketch of the tube against the stern = CT warning
+# the swollen salsa bowls with the Sitt, the sagging dripping mouth = 6 cm root aneurysm with AR
+# the saw pushing on and a cannon pushed into the tear waved away = no further sawing or cannulating the tear (wrong options)
+title: Graft torn at redo sternotomy: peripheral bypass and circulatory arrest
+titleAr: تمزق الطعم عند إعادة فتح القص: مجازة طرفية مع توقف دوراني
+tags: cardiac/aorta cardiac/cpb d:complications q:next-step l:3 x:high-yield
+palette: ice blue and barnacle grey with a jet of red
+words:
+keywords: graft laceration -> the saw biting through the barnacled stern into the old white fabric tube beneath, a red jet from the torn hull pressed shut by a flat hand; redo sternotomy -> the ship's stern crusted with barnacles, opened again; peripheral cannulation -> small brass cannons pushed into the red pipe beside the long white thigh bone; circulatory arrest -> the hotel, the orca and the head lantern frozen inside one giant ice cube; cardiopulmonary bypass -> a big roller-pump truck parked beside the hotel; aortic root -> three swollen salsa bowls round the base of the orca; number 6 (root size, cm) -> a small painting on the bowls: the Sitt in a golden gown; aortic regurgitation -> the orca's sagging mouth dripping water back; warning sketch -> a painted sketch on the wall showing the white tube pressed against the stern from inside; old tube -> a faded garland of ten years round the white fabric tube; keep sawing (no) -> the saw pushing on, waved away; into the tear (no) -> a cannon pushed into the torn hole, waved away; man -> a man in a falconer's glove
+anchor: the best next step -> the hotel, orca and head lantern frozen inside a giant ice cube, fed through brass cannons at the thigh, while a flat hand still presses the torn hull under the barnacled stern
+scene: A falconer's hall in the citadel, a painted sketch on the wall showing a white tube pressed against the stern from inside. A man in a falconer's glove lies beside the HART Hotel, the ship's stern crusted with barnacles; a saw has bitten through it into the old white fabric tube beneath, a faded garland of ten years round it, and a red jet from the torn hull is pressed shut by a flat hand. Three swollen salsa bowls sit round the orca's base, a small painting of the Sitt in a golden gown on them, and its sagging mouth drips water back. In the centre, in the strongest light: small brass cannons are pushed into the red pipe beside the long white thigh bone, joined to a big roller-pump truck, and the hotel, the orca and the head lantern are frozen inside one giant ice cube while the hand still presses. The saw pushing on and a cannon pushed into the torn hole are waved away.
+must: the hand stays pressing; no letters or digits are written anywhere
+
+== 92
+# Q: very old woman at a three-vessel CABG; after the cross-clamp comes off the ascending aorta is tense, bluish and dilated, the proximal vein graft joins bleeding: what best lowers the risk of this? A: lowering the systolic pressure during cannulation
+# a hand turning the gauge's needle down to the low blue zone just before the brass cannon is pushed gently in = lower systolic pressure for cannulation -> ANSWER
+# the orca's climb swollen tense and bruise-blue with a zipper in its skin, the sapphire joins oozing = aortic dissection after clamp removal
+# the tongs just lifted off, the cabbage with three sapphire chains = CABG, cross-clamp
+# the cannon kept away from the porridge crust; shallow stitches and a racing pump waved away = not near a plaque, not partial-thickness sutures, not full flow while clamping (wrong options)
+title: Preventing aortic dissection at cannulation: lower the systolic pressure
+titleAr: الوقاية من تسلخ الأبهر عند إدخال القنية: خفّض الضغط الانقباضي
+tags: cardiac/cpb cardiac/aorta d:complications q:vignette l:2
+palette: bruise blue and sapphire with gauge brass
+words:
+keywords: controlled hypotension -> a hand turning the big round pressure gauge's needle down to the low blue zone; cannulation -> a small brass cannon pushed gently into the orca's climb; aortic dissection -> the orca's front climb swollen tense and bruise-blue, a long zipper torn open in its skin; cross-clamp -> giant iron tongs just lifted off the orca's climb; svg -> chains of blue sapphires sewn to the climb; cabg -> a cabbage set on the hotel with three sapphire chains; atheroma -> a crumbly yellow porridge crust inside the climb, the cannon kept away from it; oozing joins -> blood oozing where the sapphire chains join the climb; shallow stitches (no) -> shallow stitches, waved away; full flow (no) -> the roller pump racing as the tongs bite, waved away; gentle -> the hose's water flowing softly; old woman -> a very old woman with a hennaed braid
+anchor: the best prevention -> a hand turning the big round pressure gauge's needle down to the low blue zone just before the small brass cannon is pushed gently into the orca's climb
+scene: A sapphire-blue chamber. A very old woman with a hennaed braid lies beside the cut-open HART Hotel: a cabbage is set on it with three sapphire chains sewn to the orca's climb, and giant iron tongs have just been lifted off; the climb is swollen tense and bruise-blue, a long zipper torn open in its skin, and blood oozes where the sapphire chains join it. A crumbly yellow porridge crust lines the inside of the climb. In the centre, in the strongest light: a hand turns the needle of a big round pressure gauge down to the low blue zone just before a small brass cannon is pushed gently into the climb, well away from the porridge crust, the hose's water flowing softly. Shallow stitches and a roller pump racing as the tongs bite are waved away.
+must: the gauge needle is in the low zone as the cannon goes in; no letters or digits are written anywhere
+
+== 93
+# Q: redo mitral surgery; the sternum is partly divided and dark blood wells up from its lower end: next step? A: compress the sternal edges and expose the femoral vessels
+# two flat hands pressing the stern's sawn edges together over the torn hull, while the red pipe beside the white thigh bone is laid bare at the groin = compress and expose the femoral vessels -> ANSWER
+# dark blue water welling from the lower end of the barnacled stern, the saw stopped halfway = venous (RV) injury at re-entry
+# the mitre with old stitches = redo mitral operation
+# the roller pump and brass cannons waiting = bypass from the groin to follow
+# the saw pushing on, a slurping straw and an armpit pipe waved away = not completing the sternotomy, sucker bypass or axillary exposure (wrong options)
+title: Dark blood at redo sternotomy: compress and expose the femoral vessels
+titleAr: دم داكن عند إعادة فتح القص: اضغط حافتي القص واكشف الأوعية الفخذية
+tags: cardiac/perioperative d:complications q:next-step l:2 x:high-yield
+palette: dark venous blue and stern oak with groin-red
+words:
+keywords: reentry injury -> dark blue water welling up from the torn hull at the lower end of the stern; compress edges -> two flat hands pressing the stern's sawn edges together; femoral -> the red pipe beside the long white thigh bone, laid bare at the groin; redo sternotomy -> the ship's stern crusted with barnacles; mitral -> a bishop's mitre in the red lobby doorway, old stitches on it; cardiopulmonary bypass -> a big roller-pump truck waiting by the bed; cannulation -> small brass cannons ready beside the groin; half sawn -> a saw stopped halfway down the stern; dark blood -> dark blue water, not bright red; keep sawing (no) -> the saw pushing on, waved away; sucker (no) -> a slurping straw sucking the well, waved away; armpit (no) -> an armpit pipe laid bare, waved away
+anchor: the best next step -> two flat hands pressing the stern's sawn edges together over the torn hull, while the red pipe beside the long white thigh bone is laid bare at the groin
+scene: An oak-panelled shipwright's room. A patient lies beside the HART Hotel: a bishop's mitre with old stitches sits in the red lobby doorway, and the ship's stern is crusted with barnacles, a saw stopped halfway down it; dark blue water, not bright red, wells up from the torn hull at its lower end. A big roller-pump truck waits by the bed, small brass cannons ready beside the groin. In the centre, in the strongest light: two flat hands press the stern's sawn edges together over the torn hull, while the red pipe beside the long white thigh bone is laid bare at the groin. The saw pushing on, a slurping straw sucking the well and an armpit pipe laid bare are waved away.
+must: the water is dark blue; no letters or digits are written anywhere
+
+== 94
+# Q: cardiogenic shock after an MI with a post-infarction VSD, on an IABP, ventilated on high oxygen, pulmonary oedema, CVP 18, PA 42/32, wedge 30, SvO2 75%: best mechanical support? A: veno-arterial ECMO
+# the fish gills in a clear box, one hose drawing blue water from the thigh vein and one pushing red water back, taking over for the hotel and the soggy money sacks = VA ECMO -> ANSWER
+# the hart brought down, the ragged hole in the lower party wall, the lights going out = MI, post-infarct VSD, cardiogenic shock
+# the sausage balloon, the bellows-free full air bottle, the soggy dollar bills = IABP, high oxygen, pulmonary oedema
+# the doorstop's dial high, the chimney smoke backing up, the pink mixing bowl = high wedge and CVP, SvO2 raised by the shunt: both sides failing
+title: Post-infarction VSD in shock with both sides failing: VA ECMO
+titleAr: فتحة الحاجز البطيني بعد الاحتشاء مع صدمة وفشل الجانبين: الأكسجة الغشائية الوريدية الشريانية
+tags: cardiac/heart-failure cardiac/coronary d:indications q:next-step l:3
+palette: gill red and mixing-bowl pink with lights-out grey
+words:
+keywords: ecmo -> a pair of big red fish gills in a clear box on a bedside trolley, a pump spinning beneath, hoses running into the groin; vein and artery -> one hose drawing blue water from the thigh vein, one pushing red water back into the thigh artery; vsd -> a ragged hole knocked through the lower party wall, water rushing through it; acute myocardial infarction -> a hart brought down by an arrow; cardiogenic shock -> the hotel's lights going out one by one; iabp -> a long sausage-shaped balloon in the orca's belly; pulmonary edema -> soggy dollar bills dripping from the money pipes; wedge pressure -> a rubber doorstop wedged at the tip of the fishing line in a money pipe, its little dial high; svo2 -> a mixing bowl in the blue engine room turned bright pink by red water pouring through the hole; fio2 high -> a big air bottle turned up full; both failing -> both engine rooms' fans flagging; venous pressure -> smoke backing down the chimney; soldier -> an old soldier in a chainmail shirt
+anchor: the best support -> a pair of big red fish gills in a clear box on a trolley, one hose drawing blue water from the thigh vein and one pushing red water back, taking over for the whole hotel and the soggy money sacks
+scene: A lights-out barracks. An old soldier in a chainmail shirt lies beside the cut-open HART Hotel, a hart brought down by an arrow at his feet; the hotel's lights are going out one by one, both engine rooms' fans flagging, and a ragged hole is knocked through the lower party wall, water rushing through it into a mixing bowl in the blue engine room that turns bright pink. A long sausage-shaped balloon lies in the orca's belly; soggy dollar bills drip from the money pipes, a big air bottle turned up full beside them; a rubber doorstop wedged at the tip of the fishing line in a money pipe shows its little dial high, and smoke backs down the chimney. In the centre, in the strongest light: a pair of big red fish gills in a clear box on a bedside trolley, a pump spinning beneath, one hose drawing blue water from the thigh vein and one pushing red water back into the thigh artery, takes over for the whole hotel and the money sacks.
+must: both hoses go to the thigh; no letters or digits are written anywhere
+
+== 95
+# Q: young woman with a dilated cardiomyopathy, three months after a continuous-flow LVAD, anaemia and black tarry stools, INR 3.0, pump working well: next step? A: upper GI endoscopy and/or capsule study
+# a lantern on a periscope lowered inside the pink sofa slide down to the split black melon, a tiny glowing capsule camera following = upper endoscopy and capsule study -> ANSWER
+# the split black melon leaking tar, the pale pink river = melaena and anaemia
+# little red spider veins in the gut lining = angiodysplasia on an LVAD
+# Vader's pump humming steadily, the accordion, three crescent moons = LVAD for DCM, working well, three months
+# the helmeted rat with a fox, a drop and a whistle = warfarin, INR 3.0
+# the flowerpot waved away = not listing for transplant (wrong option)
+title: Melaena on an LVAD: endoscopy first
+titleAr: براز أسود مع جهاز دعم البطين: التنظير أولًا
+tags: cardiac/heart-failure d:complications q:next-step l:2 x:high-yield
+palette: tar black and periscope brass with pale pink
+words:
+keywords: endoscopy -> a lantern on a periscope lowered inside the long pink sofa slide; gi bleeding -> a split black melon leaking black tar at the end of the gut spaghetti; capsule study -> a tiny glowing capsule camera swallowed down the slide after it; angiodysplasia -> little red spider veins in the gut lining; vad -> Darth Vader, his little pump bolted into the tip of the red engine room, humming steadily; dilated cardiomyopathy -> the engine rooms stretched like an over-pulled accordion; anemia -> the river turning pale pink; warfarin -> a rat in a soldier's helmet; number 3.0 (INR) -> a small painting on the rat's helmet: a red fox, a golden drop and a golden whistle; transplant (no) -> a terracotta flowerpot, waved away; three months -> three crescent moons over the window; woman -> a young woman in an embroidered shawl
+anchor: the best next step -> a lantern on a periscope lowered inside the long pink sofa slide down to the split black melon, a tiny glowing capsule camera following it
+scene: A night chamber, three crescent moons over the window. A young woman in an embroidered shawl lies beside the HART Hotel, its engine rooms stretched like an over-pulled accordion; Darth Vader stands by it, his little pump bolted into the tip of the red engine room, humming steadily. A rat in a soldier's helmet sits by her, a small painting of a red fox, a golden drop and a golden whistle on the helmet, and the river beside her turns pale pink. At the end of the gut spaghetti a split black melon leaks black tar, little red spider veins in the gut lining. In the centre, in the strongest light: a lantern on a periscope is lowered inside the long pink sofa slide down to the black melon, a tiny glowing capsule camera swallowed down after it. A terracotta flowerpot is waved away.
+must: no letters or digits are written anywhere
+
+== 96
+# Q: cardiogenic shock after an MI, a short-term transaortic micropump (Impella) placed; severe hypoxaemia after it is switched on: next step? A: transoesophageal echocardiography
+# the bat sliding down inside the pink sofa slide, its sound rings showing blue water pouring through the cat flap into the emptied red lobby = TEE to find a right-to-left shunt through a PFO -> ANSWER
+# Vader's micro-pump through the orca's mouth emptying the red lobby, a lever thrown = Impella switched on, left atrial pressure falls
+# the gasping fish = severe hypoxaemia
+# the hart brought down, the lights going out = MI, cardiogenic shock
+# the fish gills, backward bellows and red doughnuts waved away = not ECMO, inverse-ratio ventilation or transfusion first (wrong options)
+title: Hypoxaemia after starting an Impella: TEE for a right-to-left shunt through a PFO
+titleAr: نقص الأكسجة بعد تشغيل مضخة إمبيلا: إيكو عبر المريء بحثًا عن تحويلة عبر الثقبة البيضوية
+tags: cardiac/heart-failure d:complications q:next-step l:3 x:trap
+palette: bat-night violet and lobby purple with sand gold
+words:
+keywords: tee -> the bat sliding down inside the pink sofa slide behind the hotel, its sound rings showing the upper party wall; right-to-left shunt -> blue water pouring through the cat flap into the red lobby, turning it purple; pfo -> a cat flap in the upper party wall swinging open towards the red side; hypoxemia -> a gasping fish flopping on dry sand beside the bed; impella -> Darth Vader's little micro-pump threaded through the orca's mouth into the red engine room; acute myocardial infarction -> a hart brought down by an arrow; cardiogenic shock -> the hotel's lights going out one by one; ecmo (no) -> fish gills in a clear box, waved away; emptied lobby -> the red lobby sucked low and half empty; switched on -> a lever just thrown on Vader's chest; i:e ratio (no) -> the bellows pumping backwards, waved away; fisherman -> a man in a fisherman's cap; look first -> al-Razi raising his lamp to look before acting
+anchor: the best next step -> the bat sliding down inside the pink sofa slide, its sound rings showing blue water pouring through the cat flap into the emptied red lobby
+scene: A violet night by a sandy shore. A man in a fisherman's cap lies beside the cut-open HART Hotel, a hart brought down by an arrow at his feet; the hotel's lights go out one by one. Darth Vader's little micro-pump is threaded through the orca's mouth into the red engine room, a lever just thrown on his chest, and the red lobby is sucked low and half empty. A gasping fish flops on dry sand beside the bed. In the centre, in the strongest light: the physician al-Razi raises his lamp to look before acting as the bat slides down inside the pink sofa slide behind the hotel, its sound rings showing a cat flap in the upper party wall swinging open towards the red side and blue water pouring through it, turning the red lobby purple. Fish gills in a clear box and bellows pumping backwards are waved away.
+must: the blue water pours from the blue side into the red side; no letters or digits are written anywhere
+
+== 97
+# Q: healthy man with cough, dyspnoea and pleuritic pain, HR 120, saturation 88%, diffuse ST elevation, normal coronaries, no PE, WBC 18,000 with neutrophilia; echo: large effusion with fibrinous strands, RV diastolic collapse, respiratory variation: next step? A: percutaneous pericardiocentesis
+# a long needle slid in under the ribs into the red-dressed aquarium, its cloudy water flowing out so the caved-in blue wing springs back = percutaneous pericardiocentesis for tamponade -> ANSWER
+# the aquarium in a hot steaming red dress, cobwebs in its water, a swarm of white-armoured soldiers = infected pericarditis with fibrinous effusion and neutrophilia
+# the blue wing caving in, the water rocking with each breath = tamponade with RV collapse and respiratory variation
+# the raised elevators, the tachometer in the red, the gasping fish = diffuse ST elevation, tachycardia, hypoxaemia
+# the open crown spikes = no coronary disease
+# a submarine and a melting dam waved away = not subxiphoid drainage first or fibrinolysis (wrong options)
+title: Tamponade from an infected pericardial effusion: drain it with a needle first
+titleAr: انصباب تاموري ملتهب يسبب الاندحاس: ابدأ بالبزل عبر الجلد
+tags: cardiac/other d:indications q:next-step l:2
+palette: fever red and cloudy aquarium grey with steel needle
+words:
+keywords: pericardiocentesis -> a long needle slid in under the ribs into the aquarium, its cloudy water flowing out; tamponade -> the aquarium round the hotel full of cloudy red water, the thin blue wing caving in; pericarditis -> the aquarium wearing a hot red dress, steaming with fever; st elevation -> street-corner elevator platforms all stuck raised; tachycardia -> a tachometer bolted to the engine room, its needle in the red; hypoxemia -> a gasping fish flopping on dry sand; fibrinous strands -> threads of cobweb stretched across the aquarium water; neutrophils -> a swarm of tiny white-armoured soldiers in the water; respiratory variation -> the aquarium water rocking with each breath; open coronaries -> the crown spikes all open and flowing; subxiphoid (no) -> a small yellow submarine, waved away; fibrinolysis (no) -> a melting dam flask, waved away; carpenter -> a healthy carpenter with a cough
+anchor: the best next step -> a long needle slid in under the ribs into the red-dressed aquarium, its cloudy water flowing out so the caved-in blue wing springs back
+scene: A carpenter's workshop with fevered red light. A healthy carpenter with a cough lies beside the HART Hotel; a tachometer bolted to its engine room has its needle in the red, street-corner elevator platforms all stand stuck raised, the crown spikes are all open and flowing, and a gasping fish flops on dry sand by the bed. The aquarium round the hotel wears a hot red dress, steaming with fever; it is full of cloudy red water with threads of cobweb stretched across it and a swarm of tiny white-armoured soldiers, the water rocking with each breath, and the thin blue wing caves in. In the centre, in the strongest light: a long needle is slid in under the ribs into the aquarium, its cloudy water flowing out, and the blue wing springs back. A small yellow submarine and a melting dam flask are waved away.
+must: no letters or digits are written anywhere
+
+== 98
+# Q: the ACT is checked regularly on bypass to ensure anticoagulation: changes in the ACT during the operation are affected by? A: endothelial cells
+# the white tiles lining the pipes catching the brown hares one by one, so the magician's stopwatch counts shorter = heparin bound and cleared by endothelial cells -> ANSWER
+# the magician's act repeated on the bell = ACT checked regularly
+# the roller-pump truck = cardiopulmonary bypass
+# a liver loaf, bunches of tiny balloons and a TV presenter waved away = not hepatocytes, alveolar or dendritic cells (wrong options)
+title: Why the ACT drifts on bypass: heparin taken up by the endothelium
+titleAr: لماذا يتغيّر زمن التخثر المنشّط أثناء المجازة: البطانة تلتقط الهيبارين
+tags: cardiac/cpb d:physiology q:recall l:3
+palette: tile white and hare brown with stage velvet
+words:
+keywords: endothelium -> smooth white tiles lining the inside of the pipes, catching the brown hares one by one; activated clotting time -> a magician's stage act, blood poured into a glass while his huge stopwatch counts; heparin -> fast brown hares running through the pipes; cardiopulmonary bypass -> a big roller-pump truck parked beside the hotel; clearance -> hares slipping into burrows behind the tiles; shorter -> the stopwatch counting shorter each time; regular checks -> a bell ringing for each new act; hepatocytes (no) -> a loaf of liver, waved away; alveolar cells (no) -> bunches of tiny balloons, waved away; dendritic cells (no) -> a TV presenter holding up leaves on a little stand, waved away; time passing -> the sun moving across the window; surgeon -> a surgeon in a long blue gown
+anchor: what changes the ACT -> smooth white tiles lining the pipes catching the brown hares one by one, so the magician's stopwatch counts shorter each time
+scene: A velvet stage in a palace hall, the sun moving across the window. A surgeon in a long blue gown works at the HART Hotel, a big roller-pump truck parked beside it; fast brown hares run through its pipes. A bell rings for each new act as a magician pours blood into a glass while his huge stopwatch counts. In the centre, in the strongest light: smooth white tiles lining the inside of the pipes catch the brown hares one by one, the hares slipping into burrows behind the tiles, and the magician's stopwatch counts shorter each time. A loaf of liver, bunches of tiny balloons and a TV presenter holding up leaves on a little stand are waved away.
+must: no letters or digits are written anywhere
+
+== 99
+# Q: CABG with heparin 300 U/kg, ACT 393: one reason ACTs differ between patients given the same dose? A: the heterogeneous nature of heparin
+# a sack of brown hares of every size and speed, on leashes of many lengths, poured out in the same dose for two men, the magician's two stopwatches stopping at different times = heparin is heterogeneous -> ANSWER
+# the fox, the whistle and the whistle on the sack = 300 units/kg
+# the cabbage = CABG
+# a tomato, a stamped measuring cup and a leech waved away = not etomidate, a lack of standardisation or dabigatran (wrong options)
+title: Same heparin dose, different ACTs: heparin is a mixture
+titleAr: الجرعة نفسها من الهيبارين وأزمنة تخثر مختلفة: الهيبارين مزيج غير متجانس
+tags: cardiac/cpb d:pharmacology q:recall l:2
+palette: hare brown and sack burlap with stopwatch gold
+words:
+keywords: heparin -> a sack of brown hares of every size and speed; heterogeneous -> hares of mixed colours and sizes tumbling out together; chain lengths -> hares on leashes of many lengths; pig source -> a pig's snout printed on the sack; activated clotting time -> a magician's stage act with two huge stopwatches stopping at different times; number 300 (heparin dose, units per kg) -> a small painting on the sack: a red fox, a golden whistle and a golden whistle; cabg -> a cabbage set on the hotel; same dose -> two men each given the same scoop from the sack; dabigatran (no) -> a big black leech, waved away; etomidate (no) -> a ripe tomato, waved away; standardization (no) -> a stamped measuring cup, waved away; two men -> two old men side by side
+anchor: the reason -> a sack of brown hares of every size and speed on leashes of many lengths, poured out in the same scoop for two men, the magician's two stopwatches stopping at different times
+scene: A burlap-brown market stall. Two old men lie side by side, each beside a HART Hotel with a cabbage set on it. A sack with a pig's snout printed on it and a small painting of a red fox, a golden whistle and a golden whistle sits between them. In the centre, in the strongest light: brown hares of every size, speed and colour tumble out of the sack on leashes of many lengths, each man given the same scoop, while a magician's two huge stopwatches stop at different times. A big black leech, a ripe tomato and a stamped measuring cup are waved away.
+must: no letters or digits are written anywhere
+
+== 100
+# Q: a year after a drug-eluting stent to the LAD, progressive angina from in-stent restenosis, on a beta blocker, aspirin and prasugrel: when to do CABG after stopping prasugrel? A: after 7 days
+# a pair of wooden clogs left at the door with a small swimmer painted on them while the cabbage waits to be set on the hotel = stop prasugrel 7 days before CABG -> ANSWER
+# the Slinky in the lad's slide choked by ivy through the coils = in-stent restenosis in the LAD
+# the stone angel growing heavier = progressive angina
+# the asp round the tablet kept on = aspirin continued
+title: Before CABG: stop prasugrel seven days ahead
+titleAr: قبل جراحة المجازة: أوقف البراسوغريل قبل سبعة أيام
+tags: cardiac/coronary d:pharmacology q:numbers l:1 x:high-yield
+palette: clog wood and ivy green with cabbage blue
+words:
+keywords: prasugrel -> a pair of wooden clogs left at the door; number 7 (days off prasugrel) -> a small painting on the clogs: a swimmer; cabg -> a cabbage of sapphire-blue leaves waiting to be set on the hotel; in-stent restenosis -> the coiled Slinky choked from inside by ivy through the coils; drug-eluting stent -> a coiled metal Slinky glazed with medicine; lad -> a young lad's slide down the front of the crown; angina -> a heavy stone angel sitting on the man's chest; aspirin -> a small asp coiled round a white tablet, kept on; one year -> a faded garland on the Slinky; progressive -> the stone angel growing heavier each day; waiting -> candles burnt down by the door; bleeding -> a red puddle drying by the door; saddler -> an old saddler
+anchor: the timing -> a pair of wooden clogs left at the door, a small swimmer painted on them, while the cabbage of sapphire-blue leaves waits to be set on the hotel
+scene: A saddler's workshop of wood and leather. An old saddler sits with a heavy stone angel on his chest, growing heavier each day; a small asp is coiled round a white tablet beside him. The cut-open HART Hotel: in the young lad's slide down the front of the crown, a coiled metal Slinky glazed with medicine, a faded garland on it, is choked from inside by ivy through the coils. In the centre, in the strongest light: a pair of wooden clogs is left at the door, a small painting of a swimmer on them, candles burnt down beside them and a red puddle drying by the door, while a cabbage of sapphire-blue leaves waits to be set on the hotel.
+must: no letters or digits are written anywhere
