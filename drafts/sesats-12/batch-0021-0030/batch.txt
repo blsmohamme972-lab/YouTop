@@ -1,0 +1,164 @@
+book: sesats-12
+
+== 21
+# Q: three months after mitral repair for prolapse: breathless, jaundiced, Hb 5.9, schistocytes: the likely diagnosis is associated with? A: incomplete endothelialisation (of the ring)
+# red doughnuts smashing to crumbs against the bare raw brass collar, its smooth white tiles not yet laid over it = haemolysis from incomplete endothelialisation -> ANSWER
+# the woman dyed saffron yellow, the sponge globe all used up = jaundice, haemolysis markers
+# the three moons = three months after the repair
+# the clumping test tube, the barnacle stern and the clear urine jar waved away = not Coombs-positive, early reoperation or absent haemosiderin (wrong options)
+title: Haemolysis months after mitral repair: the ring is not yet covered by endothelium
+titleAr: انحلال الدم بعد أشهر من إصلاح التاجي: الحلقة لم تُغطَّ ببطانة بعد
+tags: cardiac/mitral-tricuspid d:complications q:recall l:2
+palette: saffron yellow and raw brass with doughnut red
+words:
+keywords: hemolysis -> smashed doughnuts: red doughnuts smashed to crumbs against the bare raw collar; breathless -> the woman's hand on her chest, short of breath; endothelium -> smooth white tiles that should line the brass collar, not yet laid over it; annulus -> a bare, raw brass collar ring round the mitre's doorway; jaundice -> a woman whose skin and eyes are dyed saffron yellow, saffron-dyed like cloth from a dyer's vat; haptoglobin -> a little smiling sponge globe all used up and shrunken in the river; mitral -> the bishop's mitre in the red engine room's doorway, repaired; redo sternotomy (no) -> a stern crusted with barnacles, waved away; three months -> three moons in the window; anaemia -> the river pale pink and thin; coombs (no) -> a glass test tube of clumping drops, waved away; clear urine (no) -> a jar of clear urine, waved away; tired woman -> the woman resting her head on her hand
+anchor: the likely association -> red doughnuts smashing to crumbs against the bare raw brass collar round the mitre's doorway, the smooth white tiles not yet laid over it
+scene: A dyer's courtyard in Aleppo with vats of saffron yellow, three moons in the window. A woman whose skin and eyes are saffron-dyed rests her head on her hand, her other hand on her chest, short of breath. Beside her the cut-open HART Hotel: the river in its pipes runs pale pink and thin, a little smiling sponge globe in it is all used up and shrunken, and the repaired bishop's mitre has a bare, raw brass collar ring round its doorway, the smooth white tiles that should cover it still stacked unused beside it. In the centre, in the strongest light: red doughnuts smash to crumbs against the raw edge of the collar. A glass test tube of clumping drops, a stern crusted with barnacles and a jar of clear urine are waved away.
+must: the collar is bare, the tiles not yet laid; no letters or digits are written anywhere
+
+== 22
+# Q: severe TR after old endocarditis, leaflets too deformed to repair, long diabetes, new dialysis: which valve? A: a bioprosthesis
+# a soft tissue box set into the trident's doorway in place of the twisted trident = tissue valve in the tricuspid position -> ANSWER
+# the twisted, burnt-out trident gurgling = TR after endocarditis, not repairable
+# the washing machine and the sugar mountain = dialysis, diabetes
+# the robot with its rat, the freezer and the folded dentures on a line waved away = no mechanical, homograft or transcatheter valve (wrong options)
+title: Tricuspid replacement in a dialysis patient: a bioprosthesis
+titleAr: استبدال الصمام ثلاثي الشرف عند مريض غسيل كلوي: صمام حيوي
+tags: cardiac/mitral-tricuspid d:indications q:vignette l:2
+palette: tissue white and dialysis blue with sugar white
+words:
+keywords: tricuspid -> the trident in the blue wing's doorway, its prongs twisted and bent; tissue valve -> a soft paper tissue box set into the trident's doorway; regurgitation -> water gurgling back through the twisted trident; endocarditis -> old burnt-out playing cards, their broccoli long dead; kidney -> a pair of red kidney beans shrivelled grey, a washing machine churning beside them; diabetes -> a man sitting on a mountain of white sugar cubes; mechanical valve (no) -> a clanking little steel robot with a rat in a helmet, waved away; homograft (no) -> a frosty freezer waved away; tavr (no) -> folded dentures on a fishing line, waved away; not repairable -> a blacksmith shrugging over the bent trident; neck catheter -> a thin tube at the man's neck; new machine -> the washing machine still tied with a shop ribbon; many years -> a long faded scroll of years; old man -> a grey-bearded man in a woollen cap
+anchor: the appropriate replacement -> a soft paper tissue box set into the blue wing's doorway in place of the twisted, gurgling trident
+scene: A blue-tiled clinic in Aleppo. A grey-bearded man in a woollen cap, a thin tube at his neck, sits on a mountain of white sugar cubes beside a washing machine, still tied with a shop ribbon, that churns next to a pair of shrivelled grey kidney beans; a long faded scroll of years hangs on the wall. The cut-open HART Hotel stands beside him: the trident in its blue doorway is twisted and bent, old burnt-out playing cards with dead broccoli lie round it, and water gurgles back through it; a blacksmith shrugs over it. In the centre, in the strongest light: a soft paper tissue box is set into the blue doorway in place of the trident. A clanking little steel robot with a rat in a helmet, a frosty freezer and folded dentures on a fishing line are waved away.
+must: the tissue box goes in the BLUE side doorway; no letters or digits are written anywhere
+
+== 23
+# Q: woman with severe MR, mild-moderate TR, moderate pulmonary hypertension, long AF, four big chambers: if the tricuspid is left alone at mitral surgery, the risk factor for TR progression is? A: the degree of preoperative TR
+# a measuring jug under the trident's pulled-apart prongs already half full of the water gurgling back, the gap set to widen = preoperative TR grade predicts progression -> ANSWER
+# the prongs pulled apart by the swollen blue room = functional TR from annular dilatation
+# the gurgling mitre, Pinocchio trembling, the whole hotel swollen = severe MR, long AF, four-chamber enlargement
+# the child, the scarlet beads and the gauge waved away = not young age, non-rheumatic leaflets or pulmonary hypertension (wrong options)
+title: Leaving the tricuspid at mitral surgery: the preoperative TR grade predicts progression
+titleAr: ترك الصمام ثلاثي الشرف عند جراحة التاجي: درجة القلس قبل العملية تتنبأ بتفاقمه
+tags: cardiac/mitral-tricuspid d:evidence q:recall l:2
+palette: measuring-jug glass and blue with mitre white
+words:
+keywords: functional tr -> the trident's three prongs pulled apart as the blue engine room swells, water gurgling back through the middle; regurgitation -> water gurgling back through the mitre too; mitral -> the bishop's mitre in the red engine room's doorway, waiting for repair; atrial fibrillation -> Pinocchio trembling all over in the upper glass lobby; echo -> a bat sending rings at the trident; rheumatic (no) -> a chain of scarlet beads, waved away; hypertension (no) -> a pressure gauge in the red, waved away as the reason; degree measured -> a measuring jug under the prongs already half full; widening later -> a crack in the gap between the prongs marked to widen; four big chambers -> the whole hotel swollen on every side; young age (no) -> a small child waved away; woman -> a woman pausing on the steps, short of breath
+anchor: the risk factor -> a measuring jug under the trident's pulled-apart prongs already half full of the water gurgling back, the crack between the prongs marked to widen
+scene: A glassmaker's shop in blue light. A woman pauses on the steps, short of breath. Beside her the cut-open HART Hotel is swollen on every side; Pinocchio trembles all over in the upper glass lobby, water gurgles back through the bishop's mitre, and a bat sends rings at the trident in the blue doorway, whose three prongs are pulled apart as the blue engine room swells. In the centre, in the strongest light: a measuring jug under the pulled-apart prongs is already half full of the water gurgling back, and a crack in the gap between the prongs is marked to widen. A small child, a chain of scarlet beads and a pressure gauge in the red are waved away.
+must: the jug is already partly full; no letters or digits are written anywhere
+
+== 24
+# Q: after minimally invasive mitral repair (P2 resection, plication, partial band), good result off bypass, then lateral and posterior ST elevation and rising inotrope needs: next step? A: emergency coronary angiography
+# a photographer squirting glowing magenta dye into the crown to see the acrobat squeezed by the new horseshoe band's stitch = emergency coronary angiography for a circumflex injury -> ANSWER
+# the elevator stuck up, the low gauge, the Doberman pulling hard = lateral/posterior ST elevation, more inotropes
+# the mouse hole, the horseshoe band and the square notch = minimally invasive repair with a partial band
+# the sausage, the dynamite with the hare and the robot waved away = not IABP and wait, nitrates and heparin, or MVR (wrong options)
+title: New lateral ST elevation after mitral repair: emergency coronary angiography
+titleAr: ارتفاع جديد في مقطع ST الجانبي بعد إصلاح التاجي: تصوير تاجي عاجل
+tags: cardiac/mitral-tricuspid cardiac/coronary d:complications q:next-step l:2 x:high-yield
+palette: magenta flash and night blue with brass
+words:
+keywords: angiography -> a photographer squirting glowing magenta dye into the crown's spikes and flashing his camera; circumflex -> a circus acrobat curling round the left of the crown, squeezed by a stitch; st elevation -> a street-corner elevator platform stuck in its raised position; minimally invasive -> a little mouse slipping through a small mouse hole in the ship's hull; dobutamine -> a Doberman pulling hard on its leash; hypotension -> a pressure gauge with its needle low; iabp (no) -> a long sausage-shaped balloon waved away; horseshoe collar -> a horseshoe-shaped brass collar round the back of the mitre's doorway; square notch -> a square notch sewn in the middle of the back leaf; emergency -> a herald blowing a trumpet; stretcher -> a man being carried on a stretcher down a corridor; still walls -> the side and back walls of the red engine room standing still; dry doorway -> the mitre's doorway dry, no leak
+anchor: the best next step -> a photographer squirting glowing magenta dye into the crown and flashing his camera, showing the acrobat squeezed by a stitch of the new horseshoe collar
+scene: A night-blue corridor in a palace hospital. A man is carried on a stretcher down the corridor while a herald blows a trumpet. Beside them the cut-open HART Hotel, a little mouse slipping through a small mouse hole in a ship's hull nearby: a horseshoe-shaped brass collar is sewn round the back of the mitre's doorway, a square notch sewn in the middle of the back leaf, the mitre's doorway is dry with no leak, the side and back walls of the red engine room stand still, and one stitch of the collar squeezes a circus acrobat who curls round the left of the green crown. A street-corner elevator platform stands stuck in its raised position, a pressure gauge sinks low, and a Doberman pulls hard on its leash. In the centre, in the strongest light: a photographer squirts glowing magenta dye into the crown and flashes his camera, showing the squeezed acrobat. A long sausage-shaped balloon is waved away.
+must: no letters or digits are written anywhere
+
+== 25
+# Q: mitral repair (posterior quadrangular resection, plication, full band) with one coronary graft; TEE off bypass shows SAM: next step? A: volume
+# the water-seller pouring his goatskin into the red engine room until Uncle Sam's hand slips off the mitre's front leaf = volume resuscitation for SAM -> ANSWER
+# Uncle Sam yanking the front leaf, the bat inside the sofa slide = SAM on TEE
+# one cabbage leaf on a spike, the full brass collar, the square notch = single graft, full band, posterior resection
+# the trombone, the robot and the sausage waved away = no revision, MVR or IABP first (wrong options)
+title: SAM after repair: start with volume
+titleAr: الحركة الأمامية الانقباضية بعد الإصلاح: ابدأ بالسوائل
+tags: cardiac/mitral-tricuspid d:complications q:next-step l:2
+palette: water silver and Uncle-Sam red with cabbage green
+words:
+keywords: sam -> Uncle Sam in his star-spangled top hat yanking the mitre's front leaf into the orca's doorway; tee -> a bat sliding down inside the pink sofa slide behind the hotel; mitral -> the bishop's mitre in the red engine room's doorway; annulus -> a full brass collar ring round the doorway; cabg -> one single cabbage leaf laid over one spike of the crown; sliding plasty (no) -> a trombone player waved away; mechanical valve (no) -> a clanking little steel robot waved away; iabp (no) -> a long sausage-shaped balloon waved away; volume -> the water-seller pouring his goatskin into the red engine room; square notch -> a square notch sewn in the back leaf; slipping grip -> Uncle Sam's hand slipping off the leaf as the room fills; folded collar (no) -> a folded collar waved away; just weaned -> the roller-pump truck's engine just switched off; woman -> a woman asleep on the table
+anchor: the best next step -> the water-seller pouring his goatskin into the red engine room until it is full and Uncle Sam's hand slips off the mitre's front leaf
+scene: A silver-tiled water house. A woman sleeps on the table beside the cut-open HART Hotel, the roller-pump truck's engine just switched off: one single cabbage leaf lies over one spike of its crown, a full brass collar ring sits round the mitre's doorway and a square notch is sewn in the back leaf; Uncle Sam in his star-spangled top hat yanks the front leaf into the orca's doorway, and a bat slides down inside a pink sofa slide behind the hotel. In the centre, in the strongest light: the water-seller pours his goatskin into the red engine room until it is full, and Uncle Sam's hand slips off the leaf. A trombone player, a clanking little steel robot, a long sausage-shaped balloon and a folded collar are waved away.
+must: no letters or digits are written anywhere
+
+== 26
+# Q: three months after mitral repair with trivial MR, haematocrit 36 to 25, LDH 1550, haptoglobin 30 (haemolysis): most patients with this have? A: relief with a repeat mitral procedure
+# al-Razi opening the barnacle-crusted stern again to mend the rough collar, and the man afterwards with colour back in his cheeks = most are cured by a repeat mitral procedure -> ANSWER
+# red doughnuts smashing on the rough collar, the river pale, the sponge globe used up and the LDH lantern high = haemolysis after repair
+# the pale river with a dragon and a hamsa = haematocrit 25
+# the broken ring, the calm smiling face and a tiny trickle waved away = not a disrupted ring, no symptoms or less than 2+ MR as the rule (wrong options)
+title: Haemolysis after mitral repair: most patients are cured by a repeat operation
+titleAr: انحلال الدم بعد إصلاح التاجي: معظم المرضى يتحسنون بإعادة العملية
+tags: cardiac/mitral-tricuspid d:complications q:recall l:2
+palette: pale pink and barnacle grey with sunrise gold
+words:
+keywords: hemolysis -> smashed doughnuts: red doughnuts smashed to crumbs against the rough brass collar; haptoglobin -> a little smiling sponge globe all used up, a lantern burning high beside it; redo sternotomy -> the stern crusted with barnacles, opened again; annulus -> a rough brass collar ring round the mitre's doorway; red cells -> the river of red doughnuts thinned pale pink; number 25 (haematocrit, percent) -> a small painting on the river's bank: a green dragon and a blue hamsa hand; regurgitation -> only a tiny trickle leaking back through the mitre; relief -> the man afterwards, colour back in his cheeks, walking at sunrise; three months -> three moons in the sky; tired man -> the man pale and weary before; broken ring (no) -> a snapped ring waved away; no symptoms (no) -> a calm smiling face waved away; smoothing -> al-Razi filing the collar smooth
+anchor: what most patients get -> the physician al-Razi opening the barnacle-crusted stern again and filing the rough brass collar smooth, and the man walking at sunrise with colour back in his cheeks
+scene: A pale pink dawn in Aleppo, three moons fading in the sky. A man, pale and weary, sits beside the cut-open HART Hotel: the river in its pipes is thinned pale pink, a small painting of a green dragon and a blue hamsa hand on its bank; red doughnuts smash to crumbs against the rough brass collar round the mitre's doorway, though only a tiny trickle leaks back; a little sponge globe is used up and a lantern burns high. In the centre, in the strongest light: the physician al-Razi opens the stern crusted with barnacles again and files the collar smooth, and beside him the same man walks at sunrise with colour back in his cheeks. A snapped ring and a calm smiling face are waved away.
+must: no letters or digits are written anywhere
+
+== 27
+# Q: woman 13-14 weeks pregnant with prolapse and now severe MR, heart failure (orthopnoea, oedema, weight gain), wants the pregnancy: management? A: medical therapy throughout the pregnancy
+# al-Razi's lasso pulling the water out of the flooded sacks and the goalkeeper slowing the pace, the mother hugging her ripening pomegranate as the moons pass to the birth = medical therapy all through pregnancy -> ANSWER
+# the young mother with a green pomegranate at her belly = early pregnancy (13-14 weeks)
+# the stack of cushions, the swollen ankles and the tipping scale = orthopnoea, oedema, weight gain (heart failure)
+# both mitre leaves billowing, water gurgling back = bileaflet prolapse with severe MR
+# the stern opened, the clip on a line and the closing gate waved away = no surgery at 30 weeks, no transcatheter repair, no termination (wrong options)
+title: Severe MR with heart failure in pregnancy: medical therapy throughout
+titleAr: قلس تاجي شديد مع فشل قلبي أثناء الحمل: علاج دوائي طوال الحمل
+tags: cardiac/mitral-tricuspid d:indications q:vignette l:3 x:trap
+palette: pomegranate red and moon silver with soft green
+words:
+keywords: pregnancy -> a young mother holding a ripening red pomegranate at her belly, its seeds glowing; orthopnoea -> the mother sleeping sitting up on a tall stack of cushions; prolapse -> both leaves of the mitre billowing up like sails; regurgitation -> water gurgling back through the mitre; furosemide -> al-Razi's cowboy lasso pulling water out of the flooded rooms; beta-blocker -> an ice-hockey goalkeeper slowing the racing pace; sternotomy (no) -> the stern of a ship opened, waved away; swollen ankles -> her ankles puffed and heavy; weight gain -> a scale tipping under her; through to birth -> the moons passing in a row towards a cradle; keeping the baby -> the mother hugging the pomegranate tight; clip on a line (no) -> a clip on a fishing line, waved away; ending (no) -> a closing gate, waved away
+anchor: the best management -> the physician al-Razi's lasso pulling the water out of the flooded rooms and a goalkeeper slowing the pace, while the young mother hugs her ripening pomegranate as the moons pass in a row towards a cradle
+scene: A silver night garden in Aleppo. A young mother sleeps sitting up on a tall stack of cushions, hugging a ripening red pomegranate at her belly, its seeds glowing; her ankles are puffed and heavy, and a scale tips under her. Beside her the cut-open HART Hotel: both leaves of the bishop's mitre billow up like sails and water gurgles back through it. Across the sky the moons pass in a row towards a cradle. In the centre, in the strongest light: the physician al-Razi swings a cowboy lasso that pulls the water out of the flooded rooms, while an ice-hockey goalkeeper slows the racing pace. The stern of a ship opened, a clip on a fishing line and a closing gate are waved away.
+must: the mother keeps the pomegranate; no letters or digits are written anywhere
+
+== 28
+# Q: after rheumatic commissurotomy and ring, embolic cerebellar stroke, Candida in the blood, moderate MS and a 0.5 x 0.4 cm vegetation on the ring; besides amphotericin: management? A: surgical mitral valve replacement
+# al-Razi cutting out the mould-covered mitre and its ring and setting a new valve door in its place, while the amphora keeps pouring = MVR for fungal endocarditis -> ANSWER
+# the dripping candle grown into fluffy white mould on the collar ring with a whistle, a drop and a hamsa = Candida vegetation on the ring
+# the flying card striking the back of the head lantern = embolic stroke
+# the scarlet beads, the tailor's scissors and the stone mitre = rheumatic disease, commissurotomy, moderate MS
+# the amphora alone, a second jar and the flowerpot waved away = drugs alone or transplant are wrong (wrong options)
+title: Fungal endocarditis on a mitral ring with embolism: replace the valve
+titleAr: التهاب شغاف فطري على حلقة تاجية مع انصمام: استبدال الصمام
+tags: cardiac/mitral-tricuspid d:indications q:next-step l:2
+palette: candle-wax white and amphora ochre with scarlet
+words:
+keywords: candida -> a candle whose wax drips onto the collar ring and grows into fluffy white mould balls; amphotericin -> a clay amphora pouring a thick golden-yellow syrup over the mould; septic embolism -> a flying card of mould broken off and thrown to strike the back of the head lantern; stroke -> a lightning bolt at the back of the head lantern; rheumatic -> a chain of scarlet beads winding through the mitre; commissurotomy -> a tailor's big scissors that once snipped the mitre's sewn lips apart; valve stenosis -> the mitre's opening narrowed to grey stone again; annulus -> the brass collar ring round the mitre, covered in mould; number 0.5 (vegetation size, cm) -> a small painting on the collar: a golden whistle, a golden drop and a blue hamsa hand; transplant (no) -> a terracotta flowerpot waved away; replacement -> al-Razi cutting out the mould-covered mitre and its ring and setting a new valve door in its place; second jar (no) -> another jar of a newer drug, waved away; vague symptoms -> a woman pressing her temple, puzzled; blood culture -> a glass flask clouded with white fluff
+anchor: the best management -> the physician al-Razi cutting out the mould-covered mitre with its ring and setting a new valve door in its place, while the clay amphora keeps pouring its yellow syrup
+scene: An ochre and candle-lit potter's house. A woman presses her temple, puzzled, a glass flask clouded with white fluff on the table. Beside her the cut-open HART Hotel: a chain of scarlet beads winds through the bishop's mitre, whose lips a tailor's big scissors once snipped apart, and whose opening has narrowed to grey stone again; a candle drips wax onto the brass collar ring round the mitre, where it grows into fluffy white mould balls, a small painting of a golden whistle, a golden drop and a blue hamsa hand on the collar. A flying card of mould has broken off and struck the back of the head lantern, where a lightning bolt flashes. In the centre, in the strongest light: the physician al-Razi cuts out the mould-covered mitre with its ring and sets a new valve door in its place, while a clay amphora keeps pouring a thick golden-yellow syrup. Another jar of a newer drug and a terracotta flowerpot are waved away.
+must: no letters or digits are written anywhere
+
+== 29
+# Q: 82-year-old after two previous CABGs (grafts patent), breathless, EF 50, mean 45, normal kidneys and lungs, femoral arteries 6 mm, weak grip, slow walk, low albumin: next step? A: transfemoral TAVR
+# the caravan carrying the folded dentures through the mountain pass marked with the Sitt and up to the orca's stone mouth, the doubly barnacled stern left shut = transfemoral TAVR -> ANSWER
+# the old man with his glass walking stick, weak grip, slow steps and thin soup = frailty
+# the thick double crust of barnacles, the cabbage leaves still green = two previous sternotomies, patent grafts
+# the woodpecker, the mouse hole and the leather bladder waved away = no transapical TAVR, hemisternotomy AVR or balloon (wrong options)
+title: Frail patient after two CABGs with good leg arteries: transfemoral TAVR
+titleAr: مريض هش بعد عمليتي مجازات وشرايين فخذ جيدة: استبدال الصمام عبر الفخذ
+tags: cardiac/aortic-valve d:indications q:vignette l:2
+palette: mountain-pass ochre and caravan red with stone grey
+words:
+keywords: tavr -> folded dentures sprung open in the orca's stone mouth; access vessel -> a caravan of camels carrying the dentures through a narrow mountain pass from the leg, just wide enough; number 6 (femoral artery size, mm) -> a small painting on a rock at the pass: the Sitt in a golden gown; frailty -> an old man leaning on a glass walking stick; redo sternotomy -> the stern crusted with a thick double layer of barnacles, left shut; cabg -> green cabbage leaves still fresh on the crown's spikes; valve stenosis -> the orca's mouth turned to narrow grey stone; transapical (no) -> a woodpecker at the hotel's tip, waved away; minimally invasive (no) -> a mouse at a mouse hole, waved away; weak grip -> his hand barely squeezing a lemon; slow walk -> slow footprints in the sand; thin soup -> a bowl of thin soup (low albumin); balloon (no) -> an old leather bladder waved away; short of breath -> the old man panting on the road
+anchor: the best next step -> a caravan of camels carrying folded dentures through a narrow mountain pass from the leg up to the orca's stone mouth, where they spring open, while the stern with its double crust of barnacles stays shut
+scene: An ochre mountain road above Aleppo. An old man leans on a glass walking stick, panting on the road, his hand barely squeezing a lemon, slow footprints in the sand behind him and a bowl of thin soup beside him. Beside him the cut-open HART Hotel: green cabbage leaves still lie fresh on its crown's spikes, its stern is crusted with a thick double layer of barnacles and stays shut, and the orca's mouth has turned to narrow grey stone. A narrow mountain pass runs up from the leg, a small painting of the Sitt in a golden gown on a rock beside it. In the centre, in the strongest light: a caravan of camels carries folded dentures through the pass, just wide enough, and up to the orca's mouth, where they spring open. A woodpecker at the hotel's tip, a mouse at a mouse hole and an old leather bladder are waved away.
+must: the stern stays shut; no letters or digits are written anywhere
+
+== 30
+# Q: mechanical AVR a year ago, endocarditis with cleared cultures; at reoperation a paravalvular leak, valve removed, after full debridement the annulus is intact; 40-year-old: implant? A: a mechanical valve
+# a strong new clanking robot set into the scrubbed, firm stone ring of the orca's mouth = a mechanical valve again when the annulus is intact -> ANSWER
+# the scrubbing brush scouring the infected moss away down to clean firm stone = radical debridement
+# the moat round the old robot's frame, the old robot lifted out with broccoli on it = prosthetic endocarditis with a paravalvular leak
+# the pencil and the clear sky = cultures cleared on antibiotics
+# the tissue box, the freezer and a valve popping in without stitches waved away = not a bioprosthesis, homograft or sutureless valve (wrong options)
+title: Prosthetic endocarditis with an intact annulus after debridement in a young patient: mechanical valve again
+titleAr: التهاب شغاف صمام صناعي مع حلقة سليمة بعد التنظيف عند شاب: صمام ميكانيكي مجددًا
+tags: cardiac/aortic-valve d:technique q:next-step l:2
+palette: polished steel and clean stone white with moss green
+words:
+keywords: mechanical valve -> a strong new clanking little steel robot set into the orca's mouth; debridement -> a stiff scrubbing brush scouring every speck of infected moss off the orca's mouth down to clean, firm stone; paravalvular leak -> water trickling round the outside of the old robot's frame like a moat; endocarditis -> playing cards sprouting broccoli on the old robot; antibiotics -> a giant pencil that has crossed out the germs; redo sternotomy -> the stern crusted with barnacles, opened again; warfarin -> a rat in a soldier's helmet standing ready beside the new robot; tissue valve (no) -> a soft paper tissue box waved away; homograft (no) -> a frosty freezer waved away; intact ring -> a firm clean ring of stone left after scrubbing; young man -> a strong young horseman; old valve out -> the old robot lifted out; sutureless (no) -> a valve popping in without stitches, waved away; fevers -> a damp cloth on the horseman's brow
+anchor: the best next step -> a strong new clanking steel robot set into the scrubbed, firm stone ring of the orca's mouth, the rat in a helmet standing ready beside it
+scene: A clean stone workshop in polished steel light. A strong young horseman with a damp cloth on his brow waits beside the cut-open HART Hotel, its stern crusted with barnacles opened again; a giant pencil has crossed out the germs. The old robot, playing cards sprouting broccoli on it and water trickling round its frame like a moat, has been lifted out of the orca's mouth, and a stiff scrubbing brush has scoured every speck of infected moss away, leaving a firm clean ring of stone. In the centre, in the strongest light: a strong new clanking little steel robot is set into that stone ring, a rat in a soldier's helmet standing ready beside it. A soft paper tissue box, a frosty freezer and a valve popping in without stitches are waved away.
+must: the ring is clean and intact; no letters or digits are written anywhere

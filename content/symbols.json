@@ -13211,6 +13211,339 @@
    "status": "approved",
    "reason": "total 9/10, 2 layers",
    "audited": "2026-11-26"
+  },
+  {
+   "id": "candida",
+   "concept": "fungal endocarditis (Candida, Aspergillus)",
+   "terms": [
+    "candida",
+    "candida tropicalis",
+    "candida albicans",
+    "fungal endocarditis",
+    "fungal",
+    "fungemia"
+   ],
+   "symbol": "a CANDLE whose wax drips onto the valve and grows into fluffy white mould balls, big and crumbly",
+   "anchors": [
+    "candle"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "CANDIDA = a candle",
+    "meaning": "big, friable fungal vegetations that embolise",
+    "place": "on the valve or prosthesis"
+   },
+   "why": "the candle drips into fluffy mould",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Fungal endocarditis nearly always needs surgery plus long antifungal treatment.",
+   "firstUsed": "SESATS 12 21-30",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "amphotericin",
+   "concept": "amphotericin B and other antifungal drugs",
+   "terms": [
+    "amphotericin",
+    "amphotericin b",
+    "antifungal",
+    "antifungals",
+    "flucytosine",
+    "fluconazole",
+    "voriconazole"
+   ],
+   "symbol": "a clay AMPHORA tipped over, pouring a thick golden-yellow syrup onto the fluffy mould",
+   "anchors": [
+    "amphora"
+   ],
+   "kind": "sound + meaning",
+   "layers": {
+    "sound": "AMPHO-tericin = amphora",
+    "meaning": "the antifungal poured over the fungus (yellow, like the drug)"
+   },
+   "why": "an amphora of amphotericin",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Hard on the kidneys (the kidney beans wrinkle).",
+   "firstUsed": "SESATS 12 21-30",
+   "status": "approved",
+   "reason": "total 10/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "pregnancy",
+   "concept": "pregnancy with heart disease",
+   "terms": [
+    "pregnancy",
+    "pregnant",
+    "gestation",
+    "gestational age",
+    "trimester"
+   ],
+   "symbol": "a young mother holding a ripening red POMEGRANATE at her belly, its seeds glowing through the skin",
+   "anchors": [
+    "pomegranate"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "a ripening fruit full of seeds: a pregnancy that grows",
+    "place": "held at her belly"
+   },
+   "why": "the pomegranate is the old sign of a fruitful womb",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "How ripe it is shows the trimester: green = first, red = last. Regurgitant lesions are tolerated; stenoses are not.",
+   "firstUsed": "SESATS 12 21-30",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "functional-tr",
+   "concept": "functional (secondary) tricuspid regurgitation from annular dilatation",
+   "terms": [
+    "functional tricuspid regurgitation",
+    "functional tr",
+    "secondary tricuspid regurgitation",
+    "secondary tr",
+    "tricuspid annular dilatation",
+    "tricuspid annular dilation"
+   ],
+   "symbol": "the trident's three PRONGS PULLED APART as the blue engine room swells, the gap between them widening so water gurgles back through the middle",
+   "anchors": [
+    "prongs pulled apart"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the leaflets are normal but cannot meet because the annulus is stretched",
+    "place": "the tricuspid valve, pulled by a big right heart"
+   },
+   "why": "the prongs are fine, only pulled apart",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Repair with a ring (brass collar) when the annulus is 40 mm or more, or the TR moderate or worse, at left-sided surgery.",
+   "firstUsed": "SESATS 12 21-30",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "tavr-access",
+   "concept": "vascular access for TAVR (iliofemoral artery size and disease)",
+   "terms": [
+    "iliofemoral access",
+    "access vessel",
+    "vascular access for tavr",
+    "femoral artery size",
+    "minimum femoral artery",
+    "iliofemoral size"
+   ],
+   "symbol": "a caravan of camels squeezing through a narrow MOUNTAIN PASS on its way up to the city: wide enough, it gets through; too narrow, it must find another road",
+   "anchors": [
+    "mountain pass"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the sheath must fit through the arteries of the leg",
+    "place": "from the groin up to the aorta"
+   },
+   "why": "the pass must be wide enough for the caravan",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "About 5.5 to 6 mm is enough for modern sheaths. If too small: transapical (woodpecker), subclavian or transaortic.",
+   "firstUsed": "SESATS 12 21-30",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "transapical",
+   "concept": "transapical access (TAVR or other devices through the left ventricular apex)",
+   "terms": [
+    "transapical",
+    "transapical tavr",
+    "apical access",
+    "transapical approach"
+   ],
+   "symbol": "a WOODPECKER drilling a small hole at the pointed tip of the hotel's red engine room to pass the folded valve in from below",
+   "anchors": [
+    "woodpecker"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "a direct puncture of the heart's tip",
+    "place": "the left ventricular apex"
+   },
+   "why": "the woodpecker pecks in at the tip",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "More invasive and riskier than transfemoral; used when the leg arteries are too small.",
+   "firstUsed": "SESATS 12 21-30",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "haptoglobin",
+   "concept": "haptoglobin and LDH as markers of haemolysis (haptoglobin low, LDH high)",
+   "terms": [
+    "haptoglobin",
+    "lactate dehydrogenase",
+    "ldh",
+    "hemolysis markers",
+    "haemolysis markers"
+   ],
+   "symbol": "a little round smiling SPONGE GLOBE soaking up spilled red juice in the river; in haemolysis it is all used up and gone, while a lantern of LDH burns high",
+   "anchors": [
+    "sponge globe"
+   ],
+   "kind": "sound + meaning",
+   "layers": {
+    "sound": "HAPTO-GLOBE = a globe",
+    "meaning": "haptoglobin mops up free haemoglobin, so it falls when red cells burst; LDH rises"
+   },
+   "why": "the sponge globe is used up when cells burst",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "With smashed doughnuts (haemolysis): schistocytes, high LDH, low haptoglobin, urine haemosiderin.",
+   "firstUsed": "SESATS 12 21-30",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "debridement",
+   "concept": "radical debridement in endocarditis surgery",
+   "terms": [
+    "debridement",
+    "debride",
+    "radical debridement",
+    "debrided"
+   ],
+   "symbol": "a stiff SCRUBBING BRUSH scouring every speck of infected moss and broccoli off the valve's doorway down to clean, firm stone",
+   "anchors": [
+    "scrubbing brush"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "all infected and dead tissue is removed",
+    "place": "round the infected valve and annulus"
+   },
+   "why": "scrub until clean",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "After good debridement with an intact annulus, any valve type may be used.",
+   "firstUsed": "SESATS 12 21-30",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "jaundice",
+   "concept": "jaundice (haemolysis or liver congestion)",
+   "terms": [
+    "jaundice",
+    "jaundiced",
+    "icterus",
+    "hyperbilirubinemia"
+   ],
+   "symbol": "a man whose skin and eyes are dyed SAFFRON yellow, like cloth pulled from a dyer's vat",
+   "anchors": [
+    "saffron-dyed"
+   ],
+   "kind": "meaning",
+   "layers": {
+    "meaning": "yellow skin and eyes",
+    "place": "the dyer's vat of the souk"
+   },
+   "why": "saffron dyes yellow",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "SESATS 12 21-30",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "orthopnoea",
+   "concept": "orthopnoea and paroxysmal nocturnal dyspnoea (breathless lying flat): left heart failure",
+   "terms": [
+    "orthopnea",
+    "orthopnoea",
+    "unable to lie flat",
+    "paroxysmal nocturnal dyspnea",
+    "pnd"
+   ],
+   "symbol": "a man sleeping sitting up, propped on a tall STACK OF CUSHIONS, gasping whenever he slides down flat",
+   "anchors": [
+    "stack of cushions"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "lying flat floods the lungs",
+    "place": "in bed at night"
+   },
+   "why": "he needs the cushions to breathe",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "SESATS 12 21-30",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
   }
  ]
 }
