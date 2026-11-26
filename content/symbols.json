@@ -18111,6 +18111,370 @@
    "status": "approved",
    "reason": "total 8/10, 2 layers",
    "audited": "2026-11-26"
+  },
+  {
+   "id": "ligamentum",
+   "concept": "the ligamentum arteriosum (the closed duct, part of vascular rings)",
+   "terms": [
+    "ligamentum arteriosum",
+    "ligamentum",
+    "ductal ligament",
+    "ligamentum arteriosus"
+   ],
+   "symbol": "the old duct tape rolled into a thin DRIED DUCT-TAPE CORD tying the orca to the money pipe",
+   "anchors": [
+    "dried duct-tape cord"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the closed ductus: a fibrous cord that can complete a vascular ring",
+    "place": "between the aortic arch (or subclavian) and the pulmonary artery"
+   },
+   "why": "the duct tape dried into a cord",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Divide it in every ring operation.",
+   "firstUsed": "SESATS 12 274-283",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "stridor",
+   "concept": "stridor and noisy breathing from airway compression",
+   "terms": [
+    "stridor",
+    "noisy breathing",
+    "inspiratory stridor",
+    "noisy respiration"
+   ],
+   "symbol": "a WHISTLING KETTLE in the windpipe, shrieking with every breath",
+   "anchors": [
+    "whistling kettle"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "air forced through a narrowed trachea or bronchus",
+    "place": "the trachea"
+   },
+   "why": "the windpipe whistles like a kettle",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Vascular rings, pulmonary artery sling, innominate compression, tracheal stenosis.",
+   "firstUsed": "SESATS 12 274-283",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "barium-swallow",
+   "concept": "barium swallow (oesophagram)",
+   "terms": [
+    "barium swallow",
+    "barium esophagram",
+    "barium oesophagram",
+    "esophagram",
+    "oesophagram",
+    "contrast swallow"
+   ],
+   "symbol": "the pink sofa slide lit up with glowing white CHALK MILK poured down it, every dent in its wall showing",
+   "anchors": [
+    "chalk milk"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "swallowed contrast outlines the oesophagus and anything pressing on it",
+    "place": "the oesophagus"
+   },
+   "why": "chalk milk shows the dents",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Dents on both sides = double arch; a back dent = aberrant subclavian; a front dent = pulmonary sling.",
+   "firstUsed": "SESATS 12 274-283",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "unroofing",
+   "concept": "unroofing of an intramural anomalous coronary artery",
+   "terms": [
+    "unroofing",
+    "coronary unroofing",
+    "unroof",
+    "unroofing of the intramural segment",
+    "intramural unroofing"
+   ],
+   "symbol": "the spike's hidden tunnel inside the orca's wall with its ROOF LIFTED OFF like a lid, the spike now running in the open",
+   "anchors": [
+    "roof lifted off"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the shared wall over the intramural course is opened, making a wide new ostium",
+    "place": "the aortic root, at the anomalous coronary"
+   },
+   "why": "the tunnel's roof lifted off",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "For AAOCA with an intramural course and symptoms or arrest.",
+   "firstUsed": "SESATS 12 274-283",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "intramural-course",
+   "concept": "intramural course of an anomalous coronary artery (inside the aortic wall)",
+   "terms": [
+    "intramural course",
+    "intramural segment",
+    "intramural coronary course",
+    "intra-mural course"
+   ],
+   "symbol": "a crown spike creeping through a HIDDEN TUNNEL inside the orca's wall before it comes out, squeezed when the orca swells",
+   "anchors": [
+    "hidden tunnel inside the orca's wall"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the coronary runs inside the aortic wall: slit-like, compressed on exercise",
+    "place": "the aortic root wall"
+   },
+   "why": "a spike in a hidden tunnel",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 1,
+    "sticky": 1
+   },
+   "notes": "The high-risk feature of AAOCA, with an interarterial course (the nutcracker).",
+   "firstUsed": "SESATS 12 274-283",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "cardiomegaly",
+   "concept": "cardiomegaly (an enlarged heart; a high cardiothoracic ratio)",
+   "terms": [
+    "cardiomegaly",
+    "cardiothoracic ratio",
+    "enlarged heart",
+    "enlarged cardiac silhouette",
+    "wall-to-wall heart",
+    "enlarged cardiac shadow"
+   ],
+   "symbol": "the HART Hotel blown up so big that it FILLS THE WHOLE CHEST, wall to wall, pressing the money sacks flat",
+   "anchors": [
+    "fills the whole chest"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "a huge heart: dilated chambers (Ebstein, cardiomyopathy, effusion); the lungs crushed",
+    "place": "the chest on the X-ray"
+   },
+   "why": "the hotel fills the chest",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "A wall-to-wall heart in a newborn with Ebstein: lungs too small, a grave sign.",
+   "firstUsed": "SESATS 12 274-283",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "circular-shunt",
+   "concept": "circular shunt (Ebstein's anomaly or PA/IVS with pulmonary regurgitation and an open duct)",
+   "terms": [
+    "circular shunt",
+    "circular shunting",
+    "circular flow through the duct"
+   ],
+   "symbol": "water racing round a closed LOOP-THE-LOOP track: out of the orca, back through the duct, through the leaky money-pipe door, the trident, the lobby hole and out of the orca again, never reaching the town",
+   "anchors": [
+    "loop-the-loop"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "blood circles without reaching the body: low output, acidosis",
+    "place": "aorta, duct, pulmonary valve, RV, tricuspid valve, atrial septum"
+   },
+   "why": "a loop-the-loop track",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 1,
+    "sticky": 2
+   },
+   "notes": "Stop PGE (narrow the duct), or close the pulmonary valve or the duct; ECMO as a bridge.",
+   "firstUsed": "SESATS 12 274-283",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "starnes",
+   "concept": "the Starnes procedure (tricuspid valve closed with a fenestrated patch, RV excluded, plus a shunt)",
+   "terms": [
+    "starnes",
+    "starnes procedure",
+    "rv exclusion",
+    "right ventricular exclusion",
+    "fenestrated tricuspid patch",
+    "tricuspid valve patch closure",
+    "patch closure of the tricuspid valve"
+   ],
+   "symbol": "the trident's doorway sewn shut with a PATCH WITH A STAR HOLE in it, the blue engine room left as a quiet storeroom",
+   "anchors": [
+    "patch with a star hole"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "STARnes = a STAR",
+    "meaning": "the useless RV is excluded; a small fenestration lets it drain",
+    "place": "the tricuspid orifice"
+   },
+   "why": "a star-holed patch over the trident",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Neonatal Ebstein that cannot be repaired; with a BT shunt, then the single-ventricle route.",
+   "firstUsed": "SESATS 12 274-283",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "transannular-patch",
+   "concept": "transannular patch (RVOT patch across the pulmonary annulus)",
+   "terms": [
+    "transannular patch",
+    "transannular patch repair",
+    "transannular rvot patch",
+    "trans-annular patch",
+    "transannular"
+   ],
+   "symbol": "a long fabric patch sewn ACROSS THE RING of the money-pipe door, the door left gaping and swinging",
+   "anchors": [
+    "across the ring"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "relieves RVOT obstruction but leaves free pulmonary regurgitation",
+    "place": "from the RV outflow across the pulmonary annulus into the trunk"
+   },
+   "why": "a patch across the ring",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Late PR and RV dilatation; pulmonary valve replacement later.",
+   "firstUsed": "SESATS 12 274-283",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "supramitral-ring",
+   "concept": "supramitral (supravalvar mitral) ring",
+   "terms": [
+    "supramitral ring",
+    "supravalvar mitral ring",
+    "supramitral membrane",
+    "supra-mitral ring"
+   ],
+   "symbol": "a stiff DOORMAT RING lying over the mitre's doorway, narrowing the way in",
+   "anchors": [
+    "doormat ring"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "a fibrous shelf above the mitral leaflets causing mitral stenosis; resectable",
+    "place": "just above the mitral valve, in the left atrium"
+   },
+   "why": "a doormat ring at the doorway",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Part of Shone's complex (parachute mitral, subaortic stenosis, coarctation). Resect it; avoid replacement in infants.",
+   "firstUsed": "SESATS 12 274-283",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "konno",
+   "concept": "the Konno procedure (aortoventriculoplasty: enlarging the annulus and LVOT through the septum), and Ross-Konno",
+   "terms": [
+    "konno",
+    "konno procedure",
+    "ross-konno",
+    "konno-rastan",
+    "aortoventriculoplasty",
+    "ross konno"
+   ],
+   "symbol": "a CANOE-SHAPED PATCH sewn into a slit cut down through the orca's mouth into the lower party wall, widening both",
+   "anchors": [
+    "canoe-shaped patch"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "KONNO = a CANOE",
+    "meaning": "widens a small aortic annulus and a tunnel-like LVOT",
+    "place": "the aortic annulus and the ventricular septum"
+   },
+   "why": "a canoe patch widening the mouth",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Not needed for a discrete membrane: simple resection.",
+   "firstUsed": "SESATS 12 274-283",
+   "status": "approved",
+   "reason": "total 9/10, 3 layers",
+   "audited": "2026-11-26"
   }
  ]
 }
