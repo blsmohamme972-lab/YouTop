@@ -26,6 +26,17 @@ Updated 2026-11-26 (pictures-first production line; a style and quotation source
   bytes). 8 came out as several comic panels (usable). Missing: 9, 11, 15, 39, 47, 48, 69-77, 79-96, 98-100; also the 13
   Redo pictures and JH 344. All missing prompts: `drafts/prompts-missing-all-2026-11-26.txt`.
 - GitHub was disconnected on 2026-11-26 (push refused); commits waited locally on branch `missing-prompts-2026-11-26`.
+- **SESAT 13 second hundred: all 103 picture prompts written (2026-11-26)**, questions 101-125 (adult cardiac) and 251-328
+  (congenital), in the Arabian Nights style (`style:`/`theme:` at the top of each batch file). Batch files with the table of
+  elements, anchor and keywords: `drafts/sesat-13/batch-0101-0110/` ... `batch-0321-0328/` (no story, quote or explanation
+  yet; `# Q:` lines are our own short summaries, not book text). All pass `symbols.py check`. One file for the owner:
+  `drafts/sesat-13/prompts-sesat-101-328.txt` and `image-prompts-101-328.json`. New recurring symbols, audited:
+  `aaoca` (a nutcracker soldier), `qp-qs` (the water-carrier's yoke), `warden` (a prison warden).
+  Keys checked before each prompt; debatable, kept, to be noted in the explanation later: 107 (antibiotics vs early surgery
+  for a 1.6 cm mobile vegetation), 121 (CPET vs MRI first), 122 (echo vs MRI), 283 (stent in pregnancy), 317 (5.6 cm
+  neo-aortic root watched). The owner said «الان جهز ١٠٠ وانتضرني»: prompts are ready; wait for the owner.
+- Next after the pictures: stories (Kalila wa Dimna, Arabic proverbs and classical poetry as quotations), explanations,
+  `batch.py build` (needs the master `sesat-13-2020-325-q.jsonl`), `voice.py`, then spots and marks.
 
 ## SESAT 13: 100 NEW HEART-SURGERY LESSONS WRITTEN, WAITING FOR PICTURES (2026-11-24); start here
 
