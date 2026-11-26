@@ -1,8 +1,31 @@
 # Where the work stands
 
-Updated 2026-11-24 (SESAT 13: 100 new cardiac lessons written; cardiac extraction; 177 Johns Hopkins pictures). Whoever works on YouTop next: read `CLAUDE.md`, then this, then
+Updated 2026-11-26 (pictures-first production line; a style and quotation source per hundred lessons; SESAT 13 pictures checked). Whoever works on YouTop next: read `CLAUDE.md`, then this, then
 `docs/content-guide.md` and the `youtop-lessons` skill. Rewrite this file whenever the state changes (it replaces the
 `status-<n>.txt` files in the Drive folder "YouTop private", which stop at 7).
+
+## THE OWNER'S PLAN OF 2026-11-26: PICTURES FIRST, ALL CARDIAC SURGERY; start here
+
+- **Production line = pictures only, for now.** The owner: «اذا جعلنا خط الانتاج الان فقط الصور ... تجعل كل جهدك في
+  كتابة الصور ومراقبة الصور التي تم انتجها بعد الانتهاء من الصور نكمل باقي النقوصات». So: write image prompts (table of
+  elements, anchor, twelve symbols, rules 1-7) and check every picture the owner uploads; stories, quotations,
+  explanations, voice, spots and marks come later, written to the real picture. Quality conditions agreed: check the
+  book's key (and any misprint) **before** the prompt, because the picture carries the answer; keep each lesson's table
+  of elements, `anchor:` and `keywords:` in its batch file so the story can be written from them later; vary palettes.
+- **Every hundred lessons gets its own picture style and quotation source, chosen by the agent** («كل ١٠٠ سوال ستايل و
+  اقتباسات من اختيارك»). Write them as `style:` and `theme:` lines at the top of the batch file (before the first `==`):
+  `batch.py` uses them in place of the book's `style`/`theme` (`batch_config`). The recurring-symbol rules matter most
+  («اهم شي قواعد الريكرنت سمبل»): the same audited symbols in every style.
+- **All cardiac surgery, adult and congenital** («جميع جراحات القلب صغار وكبار»); thoracic and vascular are left out.
+  Next: SESAT 13 adult cardiac 101-125 and congenital 251-328 (the book's second hundred, style below), then SESATS 12,
+  then the other extracted cardiac books (section "CARDIAC QUESTIONS EXTRACTED" below).
+- Styles so far: SESAT 13 1-100 = One Piece (the book's `style`); SESAT 13 second hundred = the Arabian Nights as a
+  modern 3D animated feature film; quotations from Kalila wa Dimna, Arabic proverbs and classical poetry (genuine only).
+- **Pictures checked 2026-11-26:** 64 of SESAT 13 1-100 are in the Drive folder (1-8, 10, 12-14, 16-38, 40-46, 49-68, 78,
+  97); all show their anchor and symbols, no written digits, none a copy of another (21 and 78 were uploaded twice, same
+  bytes). 8 came out as several comic panels (usable). Missing: 9, 11, 15, 39, 47, 48, 69-77, 79-96, 98-100; also the 13
+  Redo pictures and JH 344. All missing prompts: `drafts/prompts-missing-all-2026-11-26.txt`.
+- GitHub was disconnected on 2026-11-26 (push refused); commits waited locally on branch `missing-prompts-2026-11-26`.
 
 ## SESAT 13: 100 NEW HEART-SURGERY LESSONS WRITTEN, WAITING FOR PICTURES (2026-11-24); start here
 

@@ -27,6 +27,9 @@ The batch file (UTF-8 text). A line "== 41" starts question 41; then "key: value
 "story:" and "explanation:" are followed by one sentence per line.
 
     book: shahzad-2015
+    style: ...                            (optional: this batch's picture style, in place of the book's;
+                                           the owner wants a new style every hundred lessons, 2026-11-26)
+    theme: ...                            (optional: this batch's setting and quotation source)
     == 41
     title: The cardiac cycle: isovolumetric contraction
     titleAr: الدورة القلبية: الانقباض متساوي الحجم
@@ -97,6 +100,13 @@ def book_config(book):
     if not path.is_file():
         die(f"no {path.relative_to(ROOT)}: describe the book there first (copy shahzad-2015.json)")
     return json.loads(path.read_text(encoding="utf-8"))
+
+
+def batch_config(head):
+    """The book's config, with the batch file's own 'style:' (and 'theme:') lines in place of the book's: the owner
+    (2026-11-26) wants a new picture style and quotation source for every hundred lessons, chosen by the agent."""
+    cfg = batch_config(head)
+    return dict(cfg, **{k: head[k] for k in ("style", "theme") if head.get(k)})
 
 
 def from_extraction(record):
@@ -481,7 +491,7 @@ def build_lesson(cfg, b, q, book_dir, old, force, problems, warnings):
 
 def cmd_build(args):
     head, items = parse(args.batch)
-    cfg = book_config(head["book"])
+    cfg = batch_config(head)
     if cfg.get("soundAlikes"):
         symbol_check(items, few_is_problem=False)
     master = load_master(args.master)
@@ -557,7 +567,7 @@ def symbol_check(items, few_is_problem=True):
 def cmd_prompts(args):
     """The image prompts from 'palette', 'scene' and 'words' alone, so the owner can start on the pictures at once."""
     head, items = parse(args.batch)
-    cfg = book_config(head["book"])
+    cfg = batch_config(head)
     missing = [str(b["n"]) for b in items if not (b.get("scene") and b.get("palette"))]
     if missing or not items:
         die("these questions have no 'scene' and 'palette' yet: " + (", ".join(missing) or "none in the file"))
@@ -715,7 +725,7 @@ def grid(im):
 
 def cmd_spots(args):
     head, items = parse(args.spots, multi=set(), keys={"story", "explanation"})
-    cfg = book_config(head["book"])
+    cfg = batch_config(head)
     folder = pathlib.Path(args.folder).resolve()
     book_dir = ensure_folder(folder, cfg)
     wanted = {lesson_id(cfg, b["n"]): b for b in items}
