@@ -14890,6 +14890,340 @@
    "status": "approved",
    "reason": "total 10/10, 3 layers",
    "audited": "2026-11-26"
+  },
+  {
+   "id": "coronary-button",
+   "concept": "coronary buttons in root replacement (cut out, mobilised and reimplanted onto the graft)",
+   "terms": [
+    "coronary button",
+    "coronary buttons",
+    "button anastomosis",
+    "coronary reimplantation",
+    "left main button",
+    "right coronary button"
+   ],
+   "symbol": "a ROUND BUTTON of orca skin cut out round the root of a crown spike and sewn onto the new fabric tube like a button on a coat",
+   "anchors": [
+    "round button"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the coronary ostium is moved with a cuff of aortic wall",
+    "place": "from the old aortic sinus onto the root graft"
+   },
+   "why": "buttons sewn onto the new coat",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Kinking, tension or twisting of a button starves its territory (RV failure for the right, LV failure for the left): graft beyond it.",
+   "firstUsed": "SESATS 12 71-80",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "cabrol",
+   "concept": "the Cabrol technique (a small tube graft joining both coronary ostia to the root graft)",
+   "terms": [
+    "cabrol",
+    "modified cabrol",
+    "cabrol technique",
+    "cabrol procedure"
+   ],
+   "symbol": "a little CABLE CAR line strung from one crown spike to the other, its cabin joined to the new fabric tube in the middle",
+   "anchors": [
+    "cable car"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "CABROL = a cable",
+    "meaning": "a small graft carries blood from the root graft to both coronaries when buttons cannot reach",
+    "place": "between the two coronary ostia and the root graft"
+   },
+   "why": "a cable car line between the spikes",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Used in redo roots with immobile coronaries; can kink.",
+   "firstUsed": "SESATS 12 71-80",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "temporary-pacing",
+   "concept": "temporary epicardial pacing wires after heart surgery",
+   "terms": [
+    "temporary pacing",
+    "epicardial pacing",
+    "temporary epicardial pacing",
+    "pacing wires",
+    "epicardial wires",
+    "temporary pacing wires"
+   ],
+   "symbol": "a DRUMMER OUTSIDE the hotel beating his drum through two thin wires pinned to its outer wall, to be pulled out before going home",
+   "anchors": [
+    "drummer outside"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "temporary wires on the heart's surface carry an external pacer's beat",
+    "place": "on the epicardium, out through the skin"
+   },
+   "why": "a drummer outside, not inside",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Heart block after valve or root surgery often recovers in days; permanent pacing (drummer inside) if it lasts.",
+   "firstUsed": "SESATS 12 71-80",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "iatrogenic-dissection",
+   "concept": "iatrogenic aortic dissection (from cannulation, clamping or a catheter)",
+   "terms": [
+    "iatrogenic dissection",
+    "iatrogenic aortic dissection",
+    "cannulation-site dissection",
+    "cannulation site dissection",
+    "aortic cannulation dissection"
+   ],
+   "symbol": "the zipper starting right at the hole where a brass cannon was pushed in, the orca's skin turning purple around it: a ZIPPER FROM THE CANNON HOLE",
+   "anchors": [
+    "zipper from the cannon hole"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "our own instrument started the tear",
+    "place": "at the cannulation or clamp site"
+   },
+   "why": "the cannon made the hole that unzipped",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Stop the pump, recannulate elsewhere, cool and repair under circulatory arrest.",
+   "firstUsed": "SESATS 12 71-80",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "coronary-obstruction",
+   "concept": "coronary obstruction during TAVR or valve-in-valve",
+   "terms": [
+    "coronary obstruction",
+    "coronary occlusion during tavr",
+    "coronary ostial obstruction",
+    "coronary occlusion after tavr"
+   ],
+   "symbol": "the old valve's leaf pushed up by the folded dentures like a LIP OVER THE SPIKE, covering the mouth of a crown spike so no water enters",
+   "anchors": [
+    "lip over the spike"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the old leaflet is pushed against the coronary ostium",
+    "place": "at the coronary ostium in a narrow root"
+   },
+   "why": "a lip sealing the spike's mouth",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Risk: low ostia, narrow sinuses, valve-in-valve. Treatment: recapture a self-expanding valve, coronary stent, or surgery.",
+   "firstUsed": "SESATS 12 71-80",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "periaortic-hematoma",
+   "concept": "periaortic haematoma (blood outside the aortic wall: impending or contained rupture)",
+   "terms": [
+    "periaortic hematoma",
+    "periaortic haematoma",
+    "mediastinal hematoma",
+    "periaortic blood",
+    "enlarging hematoma"
+   ],
+   "symbol": "a dark PURPLE STAIN of blood spreading through the cloth round the outside of the orca's back",
+   "anchors": [
+    "purple stain"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "blood has leaked through the wall: rupture threatens",
+    "place": "around the aorta in the mediastinum"
+   },
+   "why": "a stain spreading outside the wall",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "With an IMH or dissection it is a sign to intervene.",
+   "firstUsed": "SESATS 12 71-80",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "self-expanding",
+   "concept": "self-expanding transcatheter valves (recapturable) versus balloon-expandable ones",
+   "terms": [
+    "self-expanding",
+    "self-expanding valve",
+    "self-expanding prosthesis",
+    "recapturable valve",
+    "corevalve",
+    "evolut"
+   ],
+   "symbol": "folded dentures held in a SPRING CAGE that opens by itself as its cover slides back, and can still be pulled back in if it lands wrong",
+   "anchors": [
+    "spring cage"
+   ],
+   "kind": "meaning",
+   "layers": {
+    "meaning": "a nitinol frame expands by itself and can be recaptured before release",
+    "place": "delivered up the fishing line to the orca's mouth"
+   },
+   "why": "a spring cage opens itself",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "More pacemakers than balloon-expandable valves; recapture is the first move when it causes coronary obstruction.",
+   "firstUsed": "SESATS 12 71-80",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "balloon-valvuloplasty",
+   "concept": "balloon valvuloplasty (aortic, mitral or pulmonary) and balloon dilation of a valve",
+   "terms": [
+    "balloon valvuloplasty",
+    "balloon aortic valvuloplasty",
+    "balloon mitral valvuloplasty",
+    "balloon pulmonary valvuloplasty",
+    "balloon dilation",
+    "balloon dilatation",
+    "percutaneous mitral commissurotomy",
+    "bav"
+   ],
+   "symbol": "an old LEATHER BLADDER blown up inside a stony valve doorway, cracking it wider for a while",
+   "anchors": [
+    "leather bladder"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "a balloon stretches a stenotic valve open",
+    "place": "inside the valve orifice"
+   },
+   "why": "an old bladder blown up in the doorway",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Aortic: a bridge only, restenoses within months. Mitral (rheumatic, pliable): good results.",
+   "firstUsed": "SESATS 12 71-80",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "clamp-and-go",
+   "concept": "the clamp-and-go technique for descending aortic repair (no distal perfusion)",
+   "terms": [
+    "clamp and go",
+    "clamp-and-go",
+    "simple clamping",
+    "clamp and sew"
+   ],
+   "symbol": "a RACING TAILOR clamping the orca's back and sewing as fast as he can while an hourglass pours its sand, nothing feeding the tail",
+   "anchors": [
+    "racing tailor"
+   ],
+   "kind": "meaning",
+   "layers": {
+    "meaning": "repair under a simple clamp, as quickly as possible, without bypass",
+    "place": "on the descending aorta"
+   },
+   "why": "he races the sand",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Safe only for short clamp times (about 30 minutes); longer needs left heart bypass (tail pump).",
+   "firstUsed": "SESATS 12 71-80",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "aneurysmal-degeneration",
+   "concept": "aneurysmal degeneration of a chronic aortic dissection (growth of the false lumen)",
+   "terms": [
+    "aneurysmal degeneration",
+    "chronic dissection",
+    "chronic type b dissection",
+    "false lumen dilatation",
+    "false lumen growth"
+   ],
+   "symbol": "the hidden second channel inside the orca's skin SWOLLEN over the years into a big bulge beside the narrow true channel",
+   "anchors": [
+    "swollen false channel"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the false lumen slowly widens into an aneurysm",
+    "place": "the descending thoracic aorta, usually"
+   },
+   "why": "the false channel swells",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Risk factors: a diameter of 4 cm or more early on, a patent or partly thrombosed false lumen, a large entry tear.",
+   "firstUsed": "SESATS 12 71-80",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
   }
  ]
 }

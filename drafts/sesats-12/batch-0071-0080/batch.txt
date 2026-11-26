@@ -1,0 +1,164 @@
+book: sesats-12
+
+== 71
+# Q: man with long-standing hypertension and a chronic type B dissection: the factor most strongly linked to a poor long-term outcome? A: a proximal descending thoracic diameter of 4.4 cm
+# a tailor's tape round the orca's back just past the left flipper painted with a cap, a drop and a cap, the false channel already swelling there = proximal descending diameter 4.4 predicts aneurysmal degeneration -> ANSWER
+# the zipper starting past the left flipper, the hidden second channel = chronic type B dissection
+# the old rusted gauge in the red = long-standing hypertension
+# holes in the flap, a beaver's dam filling the channel and a short tape low down waved away = not fenestration, a thrombosed false lumen or a 3.7 cm distal aorta (wrong options)
+title: Chronic type B dissection: an early proximal diameter of 4 cm or more predicts trouble
+titleAr: التسلخ المزمن نوع B: قطر قريب ٤ سم أو أكثر ينذر بسوء المآل
+tags: cardiac/aorta d:evidence q:numbers l:3
+palette: tape-measure yellow and zipper silver with rust red
+words:
+keywords: aneurysmal degeneration -> the hidden second channel inside the orca's skin starting to swell, a swollen false channel; dissection -> a long zipper torn open lengthwise, starting just past the left flipper; number 4.4 (proximal descending diameter, cm) -> a small painting on the tailor's tape: a graduation cap, a golden drop and a graduation cap; hypertension -> an old rusted pressure gauge, its needle in the red; thrombus (no) -> a beaver's dam filling the second channel, waved away; tape at the top -> a tailor's tape round the orca's back just past the left flipper; holes (no) -> small holes punched in the flap, waved away; low tape (no) -> a short tape low down the orca's back, waved away; long-term -> an old almanac of many years open on the table; back ache -> the man rubbing a dull ache in his back; man -> a man in a grey travelling cloak; follow-up -> the man's yearly visit scroll
+anchor: the strongest predictor -> a tailor's tape round the orca's back just past the left flipper, a small cap, golden drop and cap painted on it, where the hidden false channel is already starting to swell
+scene: A study with an old almanac of many years open on the table and a yearly visit scroll. A man in a grey travelling cloak, rubbing a dull ache in his back, sits beside an old rusted pressure gauge, its needle in the red. Beside him the orca balloon: a long zipper is torn open lengthwise, starting just past its left flipper, and a hidden second channel inside its skin is starting to swell. In the centre, in the strongest light: a tailor's tape is wrapped round the orca's back just past the left flipper, a small painting on it of a graduation cap, a golden drop and a graduation cap. Small holes punched in the flap, a beaver's dam filling the second channel and a short tape low down the orca's back are waved away.
+must: the tape is at the top of the descending part; no letters or digits are written anywhere
+
+== 72
+# Q: redo root replacement for mechanical-valve endocarditis with a root abscess, dense adhesions; while mobilising the buttons a co-dominant RCA is cut 2 mm from its ostium: best management? A: ligate the RCA and bypass it distally with a vein graft
+# a silk tie on the snapped rainbow's stump near the root and a chain of blue sapphires laid from the new tube to the rainbow further along = ligation plus distal SVG -> ANSWER
+# the rainbow snapped just beyond its round button = co-dominant RCA transected near the ostium during button mobilisation
+# the barnacle stern, the robot with broccoli and the cesspool = redo for mechanical PVE with root abscess
+# sewing the cut ends, the cable car and a bare tie waved away = no primary repair, Cabrol or ligation alone (wrong options)
+title: RCA cut near its ostium during a redo root: tie it off and graft it distally
+titleAr: قطع الشريان الأيمن قرب منشئه أثناء إعادة استبدال الجذر: اربطه ووصله بطعم بعيد
+tags: cardiac/aortic-valve cardiac/coronary d:complications q:next-step l:3
+palette: sapphire blue and rainbow hues with barnacle grey
+words:
+keywords: coronary button -> a round button of orca skin round the rainbow's root, being freed; rca -> the crown's right spike bending into a long rainbow, snapped just beyond its button; svg -> a chain of blue sapphires laid from the new tube to the rainbow further along; redo sternotomy -> the stern crusted with thick barnacles, opened again; mechanical valve -> an old clanking steel robot in the orca's mouth; endocarditis -> playing cards sprouting broccoli on the robot; abscess -> a small walled cesspool of yellow pus behind the robot; cabrol (no) -> a cable car line between the spikes, waved away; ligation -> a silk tie on the stump of the snapped rainbow; snapped -> the rainbow broken close to its root; repair (no) -> sewing the cut ends together, waved away; tie alone (no) -> a bare tied stump with nothing beyond, waved away; man -> a grey-bearded merchant
+anchor: the best management -> a silk tie on the stump of the snapped rainbow near its root, and a chain of blue sapphires laid from the new tube to the rainbow further along
+scene: A barnacle-grey dockside hall. A grey-bearded merchant lies beside the cut-open HART Hotel, its stern crusted with thick barnacles and opened again; an old clanking steel robot sits in the orca's mouth, playing cards sprouting broccoli on it and a small walled cesspool of yellow pus behind it. A round button of orca skin round the rainbow's root is being freed, and the crown's right spike, a long rainbow, has snapped just beyond its button. In the centre, in the strongest light: a silk tie closes the stump near the root, and a chain of blue sapphires is laid from the new tube to the rainbow further along. Sewing the cut ends together, a cable car line between the spikes and a bare tied stump are waved away.
+must: no letters or digits are written anywhere
+
+== 73
+# Q: Marfan woman, valve-sparing reimplantation for a 5.5 cm root; off bypass she needs AV pacing, underlying complete heart block at 50 when paused: best management? A: continue temporary pacing and finish the operation
+# a drummer outside the hotel beating through two thin wires pinned to its wall while al-Razi carries on sewing, the knot's bruise fading = keep temporary AV pacing and proceed -> ANSWER
+# the drawbridge raised, the bruised knot = complete heart block after the reimplantation sutures
+# young David keeping the orca's own three-lipped mouth inside a fabric tube, the marionette, the swollen salsa bowls with a hamsa, a drop and a hamsa = Marfan, 5.5 cm root, valve-sparing reimplantation
+# the pump truck restarted, a drummer inside the hotel and the Doberman waved away = no revision on bypass, no permanent wires now, no dobutamine without pacing (wrong options)
+title: Heart block after valve-sparing root replacement: keep temporary pacing and wait
+titleAr: حصار قلبي بعد استبدال الجذر مع الحفاظ على الصمام: استمر بالتنظيم المؤقت وانتظر
+tags: cardiac/aorta cardiac/arrhythmia d:complications q:next-step l:2
+palette: drum red and marionette crimson with fabric white
+words:
+keywords: temporary pacing -> a drummer outside the hotel beating his drum through two thin wires pinned to its outer wall; heart block -> a raised drawbridge between the upper lobby and the engine rooms; av node -> a big tight knot at the top of the crackling branches, bruised; valve-sparing -> young David keeping the orca's own mouth inside a new white fabric tube; marfan -> a very tall lanky wooden marionette with a crimson fan; aortic root -> the three salsa bowls round the orca's base, swollen; number 5.5 (root size, cm) -> a small painting on the bowls: a blue hamsa hand, a golden drop and a blue hamsa hand; pacemaker (no) -> a drummer living inside the hotel, waved away; dobutamine (no) -> a Doberman on a leash, waved away; carry on -> al-Razi carrying on sewing; finish -> the last stitch being tied; fading bruise -> the bruise on the knot already fading; three lips -> the orca's mouth with three healthy lips; woman -> a tall woman with long fingers
+anchor: the best management -> a drummer outside the hotel beating through two thin wires pinned to its wall while the physician al-Razi carries on sewing, the bruise on the knot already fading
+scene: A crimson theatre hall. A tall woman with long fingers lies beside a very tall lanky wooden marionette waving a crimson fan. The cut-open HART Hotel: young David keeps the orca's own three-lipped mouth inside a new white fabric tube, the three salsa bowls round its base are swollen, a small painting of a blue hamsa hand, a golden drop and a blue hamsa hand on them; a drawbridge between the upper lobby and the engine rooms is raised, and the big tight knot at the top of the crackling branches is bruised, the bruise already fading. In the centre, in the strongest light: a drummer outside the hotel beats his drum through two thin wires pinned to its outer wall, while the physician al-Razi carries on sewing towards the last stitch being tied. A drummer living inside the hotel and a Doberman on a leash are waved away.
+must: the drummer is outside; no letters or digits are written anywhere
+
+== 74
+# Q: man with a 6.2 cm root, 5.8 cm ascending aorta, healthy trileaflet cusps, central moderate-severe AR, moderate annuloaortic ectasia: best management? A: ascending and valve-sparing root replacement by reimplantation
+# young David sewing the orca's own three healthy lips inside a new fabric tube all the way down to its stretched base ring = reimplantation (David) with ascending replacement -> ANSWER
+# the swollen salsa bowls painted with the Sitt, a drop and a dragon and the stretched base, the swollen climb = 6.2 cm root with annuloaortic ectasia, 5.8 cm ascending
+# water gurgling back through the middle of the healthy lips = central AR from dilatation
+# a scalloped collar with no base ring, the bendy straw with a tissue box and with a robot waved away = no remodelling, no biological or mechanical valved conduit (wrong options)
+title: Root aneurysm with annular dilatation and healthy cusps: valve-sparing reimplantation
+titleAr: أم دم الجذر مع توسع الحلقة وشرفات سليمة: استبدال الجذر مع الحفاظ على الصمام بإعادة الزرع
+tags: cardiac/aorta cardiac/aortic-valve d:technique q:next-step l:3
+palette: fabric white and salsa red with healthy pink
+words:
+keywords: valve-sparing -> young David sewing the orca's own three healthy lips inside a new white fabric tube, down to its base; aortic root -> the three salsa bowls round the orca's base, swollen, its base ring stretched wide; number 6.2 (root size, cm) -> a small painting on the bowls: the Sitt in a golden gown, a golden drop and a green dragon; aneurysm -> the orca's front climb swollen like a bubble-gum bubble; regurgitation -> water gurgling back through the middle of the healthy lips; bentall (no) -> a bendy straw with a tissue box and another with a robot, waved away; healthy lips -> three smooth, healthy lips of the orca's mouth; base ring -> the stretched base held tight inside the tube; remodelling (no) -> a scalloped collar with no base ring, waved away; breathless man -> a man pausing on the stairs; young -> a man in his forties with a dark beard; new climb -> a white fabric tube replacing the swollen climb
+anchor: the best management -> young David sewing the orca's own three healthy lips inside a new white fabric tube right down to its stretched base, the swollen climb replaced by fabric above it
+scene: A white sail-loft. A man in his forties with a dark beard pauses on the stairs. Beside him the cut-open HART Hotel: the orca's front climb is swollen like a bubble-gum bubble, the three salsa bowls round its base are swollen and its base ring is stretched wide, a small painting of the Sitt in a golden gown, a golden drop and a green dragon on them; water gurgles back through the middle of three smooth, healthy lips. In the centre, in the strongest light: young David sews the orca's own three healthy lips inside a new white fabric tube, right down to the stretched base, which the tube holds tight, and a white fabric tube replaces the swollen climb above. A scalloped collar with no base ring, and bendy straws with a tissue box and with a robot, are waved away.
+must: the orca keeps its own lips; no letters or digits are written anywhere
+
+== 75
+# Q: elderly man with an acute type B intramural haematoma, 4.3 cm, no malperfusion; after 48 h of control, persisting pain, aorta now 4.7, enlarging periaortic haematoma and a new contrast lake: next step? A: TEVAR
+# a white fabric sleeve slid up from the groin over the blood blister and the pothole, the purple stain stopped from spreading = TEVAR for a progressing IMH -> ANSWER
+# the dark blood blister in the orca's skin past the flipper, a new pothole, the purple stain spreading outside = IMH with an ulcer-like projection and periaortic haematoma
+# the growth marks climbing, the man still clutching his back under two suns = growth from 4.3 to 4.7, persisting pain at 48 hours
+# the coachman already reining = anti-impulse therapy given
+# the hourglass and the tail pump waved away = no more waiting, no open repair (wrong options)
+title: Progressing type B intramural haematoma: TEVAR
+titleAr: ورم دموي داخل جدار الأبهر نوع B يتقدم: دعامة أبهرية
+tags: cardiac/aorta d:indications q:next-step l:2
+palette: blister purple and sleeve white with two-sun gold
+words:
+keywords: stent graft -> a coiled metal Slinky wrapped in white fabric, a sleeve, slid up from the groin; intramural hematoma -> a dark purple blood blister inside the orca's skin past the left flipper, no zipper torn open; periaortic hematoma -> a dark purple stain of blood spreading through the cloth round the outside of the orca's back; penetrating ulcer -> a deep pothole newly eaten into the blister; aortic growth -> pencil growth marks on a door frame, the newest above the last; anti-impulse -> a coachman already reining in two horses; delayed repair (no) -> an hourglass beside a tool chest, waved away; left heart bypass (no) -> a tail pump, waved away; pain persists -> the man still clutching his back; two days -> two suns on the window frame; old man -> a very old man in a woollen cap; contrast lake -> a small bright lake of dye inside the blister; groin -> a small door opened in the groin
+anchor: the best next step -> a white fabric sleeve over a coiled Slinky slid up from the groin over the dark blood blister and its new pothole, so the purple stain round the orca stops spreading
+scene: A purple-lit ward with two suns on the window frame. A very old man in a woollen cap still clutches his back; a coachman beside him already reins in two horses. Beside him the orca balloon: a dark purple blood blister lies inside its skin past the left flipper, with no zipper torn open, a deep pothole newly eaten into it and a small bright lake of dye inside it, and a dark purple stain of blood spreads through the cloth round the outside of its back; pencil growth marks on a door frame climb. In the centre, in the strongest light: a white fabric sleeve over a coiled Slinky is slid up through a small door opened in the groin over the blister and the pothole, and the stain stops spreading. An hourglass beside a tool chest and a tail pump are waved away.
+must: no letters or digits are written anywhere
+
+== 76
+# Q: Bentall with a mechanical conduit for calcific AS and a 5.6 cm root; after reperfusion cannot wean, severe LV hypokinesis, RV fine: continue bypass and? A: place a saphenous vein graft to the LAD
+# a chain of blue sapphires laid from the new straw to the lad's slide, the red room waking = SVG to the LAD (left main button problem) -> ANSWER
+# the left round button on the straw twisted, the lad's slide gone dry and the red room sleepy = left main button compromise, LV failure
+# the bendy straw with a robot inside, the swollen salsa bowls with a hamsa and the Sitt = mechanical Bentall for a 5.6 cm root
+# the backward banana water = retrograde cardioplegia given; the baby who will not let go of the bottle = cannot wean
+# Vader, unpicking the button and the lima vine waved away = no LVAD, no re-clamp to revise the button, no LIMA (wrong options)
+title: LV failure after a Bentall: vein graft to the LAD
+titleAr: فشل البطين الأيسر بعد استبدال الجذر: طعم وريدي إلى الشريان الأمامي النازل
+tags: cardiac/aorta cardiac/coronary d:complications q:next-step l:3
+palette: straw white and sapphire blue with sleepy red
+words:
+keywords: svg -> a chain of blue sapphires laid from the new straw to the lad's slide; coronary button -> the left round button of orca skin on the straw, twisted; lad -> a young lad's slide down the front of the crown, gone dry; bentall -> a big bendy straw of white fabric with a clanking robot valve built into its lower end; aortic root -> the old swollen salsa bowls cut away; number 5.6 (root size, cm) -> a small painting on the old bowls: a blue hamsa hand, a golden drop and the Sitt in a golden gown; retrograde cardioplegia -> backward banana water up the crowned sink's drain; vad (no) -> Darth Vader waved away; lima (no) -> a lima bean vine waved away; sleepy red room -> the red engine room's fan barely turning; blue fine -> the blue engine room's fan turning well; redo button (no) -> unpicking the button, waved away; cannot wean -> a nursing baby who will not let go of the bottle; man -> a man in a blacksmith's apron
+anchor: the best next step -> a chain of blue sapphires laid from the new bendy straw to the lad's dry slide beyond the twisted left button, so the sleepy red engine room's fan starts again
+scene: A sleepy red forge. A man in a blacksmith's apron lies beside the cut-open HART Hotel: a big bendy straw of white fabric with a clanking robot valve built into its lower end replaces the old swollen salsa bowls, cut away beside it with a small painting of a blue hamsa hand, a golden drop and the Sitt on them; backward banana water has been pushed up the crowned sink's drain, and a nursing baby beside the man will not let go of the bottle. The left round button of orca skin on the straw is twisted, the young lad's slide down the front of the crown has gone dry, and the red engine room's fan barely turns while the blue one turns well. In the centre, in the strongest light: a chain of blue sapphires is laid from the straw to the lad's slide, and the red fan starts again. Darth Vader, a lima bean vine and unpicking the button are waved away.
+must: the blue fan keeps turning; no letters or digits are written anywhere
+
+== 77
+# Q: AVR for bicuspid AS with a 4.2 cm aorta; soon after starting bypass the ascending aorta turns purple and TEE shows a type A dissection from the cannulation site: next step? A: replace the ascending aorta and the valve under hypothermic circulatory arrest
+# al-Razi, the hotel inside the ice cube, replacing the purple torn orca climb with a fabric tube and fitting new dentures, no tongs on it = ascending and AVR under HCA -> ANSWER
+# the zipper starting at the brass cannon's hole, the orca turning purple = iatrogenic dissection from cannulation
+# the bicycle in the stone mouth, a cap and a dragon on the climb = bicuspid AS, aorta 4.2
+# the folded dentures, the tongs and the dentist alone waved away = no TAVR, no cross-clamp, no AVR only (wrong options)
+title: Dissection from the aortic cannula at AVR: replace the ascending aorta and valve under circulatory arrest
+titleAr: تسلخ من موضع القنية الأبهرية أثناء استبدال الصمام: استبدال الأبهر الصاعد والصمام مع توقف دوراني
+tags: cardiac/aorta cardiac/cpb d:complications q:next-step l:3 x:trap
+palette: bruise purple and ice blue with cannon brass
+words:
+keywords: iatrogenic dissection -> the zipper starting right at the hole where a brass cannon was pushed in, a zipper from the cannon hole; circulatory arrest -> the hotel and the orca inside a giant ice cube; cannulation -> a small brass cannon pushed into the orca's climb; bicuspid -> a bicycle wedged in the orca's mouth; valve stenosis -> the orca's mouth crusted with grey stone; avr -> a dentist fitting brand-new dentures; number 4.2 (ascending aorta, cm) -> a small painting on the climb: a graduation cap, a golden drop and a green dragon; cross-clamp (no) -> giant iron tongs, waved away; tavr (no) -> folded dentures on a fishing line, waved away; purple orca -> the orca's climb turning purple; new tube -> a white fabric tube replacing the torn climb; pump stopped -> the truck driver's hand on the brake; soon after -> the pump wheel's very first turn; man -> a man in a red waistcoat
+anchor: the best next step -> the physician al-Razi, with the hotel inside the giant ice cube, replacing the purple torn orca climb with a white fabric tube and fitting brand-new dentures, no tongs anywhere on it
+scene: A purple and ice-blue hall. A man in a red waistcoat lies beside the cut-open HART Hotel; a small brass cannon has been pushed into the orca's climb, and the zipper starts right at its hole, the climb turning purple; the pump wheel has made its very first turn and the truck driver has his hand on the brake. A bicycle is wedged in the orca's stone-crusted mouth, and a small painting of a graduation cap, a golden drop and a green dragon is on the climb. In the centre, in the strongest light: with the hotel and orca inside a giant ice cube, the physician al-Razi replaces the purple torn climb with a white fabric tube, and a dentist fits brand-new dentures. Giant iron tongs, folded dentures on a fishing line and a dentist working alone are waved away.
+must: no tongs touch the orca; no letters or digits are written anywhere
+
+== 78
+# Q: frail 88-year-old, failing tissue AVR 12 years old (mean 55), EF 45, moderate mid-LAD disease; during self-expanding valve-in-valve deployment: 3 mm ST elevation, hypotension, worse LV: next step? A: retrieve the prosthesis
+# the spring cage being drawn back into its cover, lifting the old leaf off the crown spike's mouth so water rushes in again = recapture the self-expanding valve (coronary obstruction) -> ANSWER
+# the old leaf pushed up like a lip over the spike = coronary obstruction during ViV
+# the new box opening inside the frayed old one = valve-in-valve for a degenerated bioprosthesis
+# the elevator stuck up, the low gauge, the glass stick = ST elevation, hypotension, frailty
+# the Slinky in the dry twigs, the sausage and the leather bladder waved away = no LAD angioplasty, IABP or balloon dilation (wrong options)
+title: Coronary obstruction during self-expanding valve-in-valve: recapture the valve
+titleAr: انسداد الشريان التاجي أثناء زرع صمام داخل صمام ذاتي التمدد: اسحب الصمام
+tags: cardiac/aortic-valve d:complications q:next-step l:3 x:trap
+palette: spring steel and frayed paper white with alarm red
+words:
+keywords: self-expanding -> folded dentures in a spring cage that opens by itself and can be drawn back into its cover; coronary obstruction -> the old leaf pushed up like a lip over the spike, covering a crown spike's mouth; valve-in-valve -> a new box opening inside the old one, nested like nesting boxes; valve degeneration -> the old tissue box frayed and stiff; st elevation -> a street-corner elevator platform stuck in its raised position; hypotension -> a pressure gauge with its needle low; frailty -> a very old lady with a glass walking stick; pci (no) -> a coiled Slinky pushed into the dry twigs, waved away; iabp (no) -> a long sausage-shaped balloon waved away; balloon valvuloplasty (no) -> an old leather bladder blown up inside the cage, waved away; drawn back -> the spring cage pulled back into its cover; water returns -> water rushing into the spike again; twelve years -> a faded old garland on the box; worse heart -> the red engine room's fan slowing
+anchor: the best next step -> the spring cage being drawn back into its cover, lifting the old leaf off the crown spike's mouth so the water rushes into the spike again
+scene: A spring-steel workshop with alarm-red lamps. A very old lady with a glass walking stick lies beside the cut-open HART Hotel: the old tissue box in the orca's mouth is frayed and stiff, a faded old garland on it, and a new box in a spring cage has opened inside it, nested like nesting boxes, pushing the old leaf up like a lip over the mouth of a crown spike; a street-corner elevator platform is stuck in its raised position a pressure gauge sinks low and the red engine room's fan slows. In the centre, in the strongest light: the spring cage is drawn back into its cover, the old leaf lifts off the spike's mouth and water rushes into the spike again. A coiled Slinky pushed into dry twigs, a long sausage-shaped balloon and an old leather bladder are waved away.
+must: no letters or digits are written anywhere
+
+== 79
+# Q: 90-year-old with severe peripheral vascular disease considered for transapical TAVR: compared with transfemoral, he has a higher risk of? A: acute kidney injury
+# the woodpecker drilling in at the hotel's tip while the pair of kidney beans beside it shrivels dry and grey = transapical TAVR raises AKI risk -> ANSWER
+# the mountain pass blocked with rocks, Claudius limping = severe PVD, no femoral route
+# the folded dentures = TAVR
+# the drummer, a red puddle and the lightning waved away = not more pacemakers, bleeding or stroke (wrong options)
+title: Transapical versus transfemoral TAVR: more acute kidney injury
+titleAr: الصمام عبر القمة مقارنة بعبر الفخذ: خطر أعلى لأذية الكلى الحادة
+tags: cardiac/aortic-valve d:evidence q:recall l:2
+palette: woodpecker red and kidney-bean brown with rock grey
+words:
+keywords: transapical -> a woodpecker drilling a small hole at the pointed tip of the red engine room; kidney -> a pair of red kidney beans shrivelling dry and grey; tavr -> folded dentures carried in through the tip; iliofemoral access -> a narrow mountain pass blocked with rocks, a caravan of camels stopped below it; claudication -> the Roman Emperor Claudius limping after a short walk; pacemaker (no) -> a marching drummer, waved away; stroke (no) -> a lightning bolt, waved away; bleeding (no) -> a red puddle, waved away; very old man -> a man of ninety with a white beard to his belt; two roads -> a signpost with two roads, one blocked; open chest wall -> a small cut in the side of the chest; compare -> a merchant's scale weighing the two routes
+anchor: the higher risk -> the woodpecker drilling in at the hotel's pointed tip while the pair of red kidney beans beside it shrivels dry and grey
+scene: A rocky mountain road. A man of ninety with a white beard to his belt stands at a signpost with two roads; the narrow mountain pass up from the leg is blocked with rocks, a caravan of camels stopped below it, and the Roman Emperor Claudius limps after a short walk; a merchant's scale weighs the two routes. Beside them the cut-open HART Hotel has a small cut in the side of its chest. In the centre, in the strongest light: a woodpecker drills a small hole at the pointed tip of the red engine room and folded dentures are carried in through it, while a pair of red kidney beans beside it shrivels dry and grey. A marching drummer, a red puddle and a lightning bolt are waved away.
+must: no letters or digits are written anywhere
+
+== 80
+# Q: elderly woman with AS (mean 40), EF 35, moderate MR, severe TR, creatinine 2.5, STS 8.8: the greatest predictor of one-year mortality after TAVR? A: tricuspid regurgitation
+# a dark cloud over the trident whose prongs are pulled apart and gushing, while the folded dentures sit in the orca's mouth = severe TR predicts death at a year after TAVR -> ANSWER
+# the tightrope walker with a violin, a drop and a violin on his pole = STS 8.8
+# the stone orca mouth with the folded dentures = TAVR for AS
+# the lady's fan, the shrivelled beans and the feeble bouncer waved away = not female sex, renal failure or low EF (wrong options)
+title: Outcome after TAVR: severe tricuspid regurgitation predicts one-year death
+titleAr: النتائج بعد استبدال الصمام عبر القثطرة: القلس ثلاثي الشرف الشديد ينبئ بالوفاة خلال سنة
+tags: cardiac/aortic-valve cardiac/mitral-tricuspid d:evidence q:recall l:3
+palette: storm grey and trident blue with tightrope red
+words:
+keywords: functional tr -> the trident's three prongs pulled apart as the blue engine room swells, water gushing back through the middle; tavr -> folded dentures sprung open in the orca's stone mouth; sts risk -> a tightrope walker on a thin rope over a canyon; number 8.8 (STS predicted mortality, percent) -> a small painting on his balancing pole: a violin, a golden drop and a violin; regurgitation -> water gurgling back through the mitre too; kidney (no) -> a pair of shrivelled kidney beans, waved away; ejection fraction (no) -> a feeble bouncer, waved away; dark cloud -> a dark storm cloud over the trident; female (no) -> a lady's fan, waved away; a year later -> next spring's blossoms on a branch; old woman -> an old woman in a lilac shawl; weighing -> a merchant's scale tipping towards the trident
+anchor: the greatest predictor -> a dark storm cloud over the trident whose prongs are pulled apart and gushing, a merchant's scale tipping towards it, while the folded dentures sit in the orca's mouth
+scene: A storm-grey garden, a branch with next spring's blossoms. An old woman in a lilac shawl sits by the cut-open HART Hotel: folded dentures sit sprung open in the orca's stone mouth, water gurgles back through the mitre too, and a tightrope walker crosses a canyon on a thin rope beyond, a small painting of a violin, a golden drop and a violin on his pole. In the centre, in the strongest light: a dark storm cloud hangs over the trident in the blue doorway, whose three prongs are pulled apart as the blue engine room swells, water gushing back through the middle, and a merchant's scale tips towards it. A pair of shrivelled kidney beans, a feeble bouncer and a lady's fan are waved away.
+must: no letters or digits are written anywhere
