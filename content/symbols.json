@@ -14216,6 +14216,341 @@
    "status": "approved",
    "reason": "total 8/10, 2 layers",
    "audited": "2026-11-26"
+  },
+  {
+   "id": "retrograde-cardioplegia",
+   "concept": "retrograde cardioplegia through the coronary sinus",
+   "terms": [
+    "retrograde cardioplegia",
+    "continuous retrograde cardioplegia",
+    "coronary sinus cardioplegia",
+    "retrograde cardioplegic"
+   ],
+   "symbol": "ice-cold banana water pushed BACKWARD up the crowned sink's drain into the walls of the hotel, BACKWARD BANANA WATER seeping out through the walls the wrong way",
+   "anchors": [
+    "backward banana water"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "cardioplegia given backwards through the veins of the heart",
+    "place": "through the coronary sinus (the crowned sink)"
+   },
+   "why": "the banana water goes in the wrong way, up the sink",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Useful with aortic regurgitation, redo with patent grafts, or severe coronary disease; protects the right ventricle less well.",
+   "firstUsed": "SESATS 12 51-60",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "ischemic-mr",
+   "concept": "ischaemic (secondary, functional) mitral regurgitation: normal leaflets pulled apart by a dilated, scarred ventricle",
+   "terms": [
+    "ischemic mitral regurgitation",
+    "ischaemic mitral regurgitation",
+    "secondary mitral regurgitation",
+    "functional mitral regurgitation",
+    "ischemic mr",
+    "secondary mr",
+    "functional mr"
+   ],
+   "symbol": "the mitre's two healthy leaves PULLED DOWN into the swollen engine room by its pillars, which have drifted apart, so the PULLED-DOWN LEAVES cannot meet and water gurgles back through the middle",
+   "anchors": [
+    "pulled-down leaves"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the valve is normal; the ventricle's swelling pulls the leaflets down and apart",
+    "place": "the mitral valve and its papillary muscles in a scarred left ventricle"
+   },
+   "why": "healthy leaves pulled down cannot close",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Severe ischaemic MR at CABG: chordal-sparing replacement lasts better than a restrictive ring (CTSN).",
+   "firstUsed": "SESATS 12 51-60",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "mr-severity",
+   "concept": "measures of mitral regurgitation severity (effective regurgitant orifice area, regurgitant volume and fraction, vena contracta)",
+   "terms": [
+    "effective regurgitant orifice",
+    "effective regurgitant orifice area",
+    "eroa",
+    "regurgitant volume",
+    "regurgitant fraction",
+    "vena contracta",
+    "vena contracta width"
+   ],
+   "symbol": "a brass MEASURING COMPASS spanning the gap between the valve's leaves, beside a jug catching the water that gurgles back",
+   "anchors": [
+    "measuring compass"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the size of the leak: the hole's area, the width of its neck and how much flows back each beat",
+    "place": "at the leaking valve"
+   },
+   "why": "the compass measures the hole, the jug the volume",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Severe primary MR: EROA 0.4 cm2 or more, volume 60 ml or more, fraction 50 percent or more, vena contracta 0.7 cm or more. Draw the value with the number symbols on the compass.",
+   "firstUsed": "SESATS 12 51-60",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "aortic-growth",
+   "concept": "the growth rate of an aortic aneurysm or root (fast growth is an indication for surgery)",
+   "terms": [
+    "growth rate",
+    "rapid growth",
+    "rapid enlargement",
+    "aortic growth",
+    "growing aneurysm",
+    "rate of growth",
+    "expansion rate"
+   ],
+   "symbol": "pencil GROWTH MARKS on a door frame beside the orca balloon, the newest mark far above the last, as children are measured year by year",
+   "anchors": [
+    "growth marks"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "how fast the aorta widens over time",
+    "place": "the girth of the orca measured against the door frame"
+   },
+   "why": "growth marks show speed",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "About 0.5 cm a year or more (0.3 in Marfan) means operate even below the size threshold.",
+   "firstUsed": "SESATS 12 51-60",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "lumbar-drain",
+   "concept": "cerebrospinal fluid (lumbar) drainage to protect the spinal cord",
+   "terms": [
+    "lumbar drain",
+    "lumbar drainage",
+    "csf drainage",
+    "cerebrospinal fluid drainage",
+    "spinal drain"
+   ],
+   "symbol": "a small brass SPINE TAP set at the bottom of the backbone, dripping clear water out to ease the pressure on the white cord inside",
+   "anchors": [
+    "spine tap"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "lowering spinal fluid pressure raises spinal cord perfusion",
+    "place": "the lumbar spine"
+   },
+   "why": "a tap that lets the spinal water out",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "With higher blood pressure, the treatment of delayed paraplegia after thoracoabdominal or TEVAR repair (the kiwi).",
+   "firstUsed": "SESATS 12 51-60",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "malperfusion",
+   "concept": "malperfusion in aortic dissection (a branch artery cut off by the flap: limb, gut, kidney, brain, heart)",
+   "terms": [
+    "malperfusion",
+    "malperfusion syndrome",
+    "limb ischemia from dissection",
+    "mesenteric malperfusion",
+    "renal malperfusion",
+    "pulseless limb"
+   ],
+   "symbol": "a branch pipe of the orca PINCHED shut by the torn zipper's flap, a PINCHED BRANCH, and the limb or room beyond it pale, cold and dark",
+   "anchors": [
+    "pinched branch"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the dissection flap blocks a branch and starves its organ",
+    "place": "the branch arteries of the aorta"
+   },
+   "why": "the flap pinches the branch",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Central repair first in type A; a frozen elephant trunk or TEVAR may open the true lumen.",
+   "firstUsed": "SESATS 12 51-60",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "hemiarch",
+   "concept": "hemiarch replacement (the underside of the arch replaced in an open distal anastomosis)",
+   "terms": [
+    "hemiarch",
+    "hemiarch replacement",
+    "hemi-arch",
+    "hemi-arch replacement",
+    "open distal anastomosis"
+   ],
+   "symbol": "only the front HALF ARCH of the orca's back replaced with white fabric, the seam slanting under the arch while the three branch pipes stay on the old skin",
+   "anchors": [
+    "half arch"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the ascending aorta and the lesser curve of the arch are replaced, the head vessels left in place",
+    "place": "the underside of the arch"
+   },
+   "why": "half of the arch, not all",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Done under circulatory arrest (ice cube); total arch = all three branches moved onto the graft.",
+   "firstUsed": "SESATS 12 51-60",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "valve-resuspension",
+   "concept": "aortic valve resuspension (commissural resuspension) in type A dissection",
+   "terms": [
+    "valve resuspension",
+    "aortic valve resuspension",
+    "commissural resuspension",
+    "resuspension",
+    "re-suspension"
+   ],
+   "symbol": "the sagging corners of the orca's lips lifted back up and hung on little BRASS HOOKS so the mouth closes again",
+   "anchors": [
+    "brass hooks"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the commissures detached by the dissection are hung back in place to restore valve closure",
+    "place": "the commissures of the aortic valve"
+   },
+   "why": "hooks hold the sagging corners up",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Not enough if the valve itself is diseased (bicuspid, stenotic): then replace it.",
+   "firstUsed": "SESATS 12 51-60",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "patent-lima-redo",
+   "concept": "a patent LIMA graft at reoperation (risk of injury on re-entry; how to protect the heart)",
+   "terms": [
+    "patent lima",
+    "patent internal mammary",
+    "in situ lima",
+    "patent lima graft",
+    "in situ left internal mammary"
+   ],
+   "symbol": "the old green lima bean vine still alive and full of water, stretched right behind the barnacle-crusted stern, a GUARDED VINE with a gardener's gloved hand cupped round it",
+   "anchors": [
+    "guarded vine"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "a working LIMA can be torn on re-entry or left feeding warm blood into the arrested heart",
+    "place": "right under the sternum, across the front of the heart"
+   },
+   "why": "the living vine must be guarded",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Options: leave it unclamped with cold fibrillatory arrest or deep cooling, or dissect it free (riskier); TAVR avoids it.",
+   "firstUsed": "SESATS 12 51-60",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "bicuspid-aortopathy",
+   "concept": "bicuspid aortopathy (dilatation of the root or ascending aorta with a bicuspid valve)",
+   "terms": [
+    "bicuspid aortopathy",
+    "bicuspid aortic disease",
+    "aortopathy",
+    "dilated ascending aorta with bicuspid valve"
+   ],
+   "symbol": "the bicycle wedged in the orca's mouth while the orca's front climb right above it swells into a round BICYCLE BALLOON, as if pumped up by its tyre pump",
+   "anchors": [
+    "bicycle balloon"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the wall disease of the bicuspid valve widens the aorta above it",
+    "place": "the aortic root and ascending aorta, above the bicuspid valve"
+   },
+   "why": "the bicycle pumps up the orca",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Replace at 5.5 cm alone, 4.5 cm when the valve is being operated on, sooner with risk factors.",
+   "firstUsed": "SESATS 12 51-60",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
   }
  ]
 }
