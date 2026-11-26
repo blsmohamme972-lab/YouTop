@@ -226,6 +226,11 @@ under `book/chapter/lesson` on their phone.
   looks like it. They are small, as a tattoo, a painting on a wall or a design on an object in the scene, the digits
   side by side, left to right. The owner asked for exactly this ("visual numbers that sound like them, never lost
   from mind"; "a drawing on a wall that has meaning, or a tattoo on a hand ... not taking a big space").
+- Since 2026-11-26 a side or direction in a picture is never shown by position (the owner found Rt, Lt, posterior,
+  anterior, medial... wrong again and again; image generators mirror pictures): the part wears its direction marker
+  (`content/symbols.md`, "Directions": right a white dove, left a golden bangle, anterior an anteater, posterior a
+  possum, superior a caped superhero, inferior a mole, medial a silver medal, lateral a zebra, proximal a waterskin,
+  distal a lone camel), and `symbols.py check` refuses a direction word without its marker (the skill's rule 8).
 - Since 2026-11-22 every lesson focuses on its question stem and the text of the correct option (the owner's rule 7):
   one **anchor**, the central image that joins what is asked to the correct answer, built on a recurring symbol
   (`anchor:`), and **twelve symbols** in its picture: at least 4 recurring symbols from `content/symbols.json` (the

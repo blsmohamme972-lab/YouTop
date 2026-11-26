@@ -115,12 +115,27 @@ the owner, and they apply to every book from MedCosmos Cardiac (lessons 1-20 are
    `symbols.py check` and `batch.py prompts` refuse a lesson without an anchor, or with fewer than 12 symbols, 4
    recurring or 5 one-off; `batch.py build` only warns, so lessons drawn before this rule can be rebuilt. The prompt
    draws the anchor as the focal point and the other symbols around it.
+8. **Sides and directions are markers, never positions (the owner, 2026-11-26).** The owner found sides and
+   directions wrong in picture after picture (Rt, Lt, posterior, anterior, medial...): image generators mirror a
+   picture and guess what "behind" or "the left one" means. So a direction is never carried by where a thing stands
+   in the frame. The part itself wears its **direction marker**, small, wherever it falls (`content/symbols.md`,
+   "Directions"): right = a white dove (يمين/يمامة), left = a golden bangle (يسار/سوار), anterior = a little anteater
+   (snout forward), posterior = a little possum (carries on her back), superior = a tiny caped superhero (flies
+   above), inferior = a little mole (lives below), medial = a small silver medal on a blue ribbon (worn at the
+   middle), lateral = a little zebra (وحشي, حمار وحشي), proximal = a small leather waterskin (قريب/قِربة, at the
+   source), distal = a lone camel (بعيد/بعير, far away). Write `the flipper wearing a golden bangle`, not `the left
+   flipper`; `the mitre's leaf with a little anteater on it`, not `the front leaf`. A direction word used loosely
+   ("left alone", "right up to", "behind it" as layout) is reworded. `symbols.py check` and `batch.py prompts` refuse
+   any keyword object, anchor, scene sentence or `must` that names a direction without its marker (reading order
+   "from left to right" and the hotel's upper and lower party walls are allowed); the prompt then tells the generator
+   that the markers, not the positions, show the sides. The story names the marker (اليمامة على ...).
 
-Before handing over a prompt, read it against the seven rules: does every element interact? Has every
+Before handing over a prompt, read it against the eight rules: does every element interact? Has every
 term of the stem and of the correct answer a concrete symbol? Is the anchor (what is asked, showing the correct
 answer) the brightest, largest thing? Is anything decorative left? Is ordered information on a route? Are recurring
 concepts drawn with their audited symbol, at least four of them? Is every number a small drawing of the number
-symbols, never digits? Twelve symbols: 4+ recurring, 5 one-off (`symbols.py check`)?
+symbols, never digits? Twelve symbols: 4+ recurring, 5 one-off (`symbols.py check`)? Is every side or direction a
+marker on the part (dove, bangle, anteater, possum...), never a position?
 
 ## The standard order (the owner's decision, 2026-11-16; lessons 41-45 are the worked set)
 

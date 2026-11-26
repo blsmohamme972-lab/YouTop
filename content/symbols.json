@@ -17022,7 +17022,7 @@
     "superior frontal axis",
     "left anterior hemiblock"
    ],
-   "symbol": "a WEATHER VANE on the hotel roof swung up and to the LEFT",
+   "symbol": "a WEATHER VANE on the hotel roof, its arrow swung up towards a golden bangle hung on the roof's corner (the bangle is the left)",
    "anchors": [
     "weather vane"
    ],
@@ -17039,7 +17039,7 @@
     "drawable": 2,
     "sticky": 2
    },
-   "notes": "A primum ASD (AVSD) gives a left axis; a secundum ASD a right axis.",
+   "notes": "A primum ASD (AVSD) gives a left axis; a secundum ASD a right axis. Since 2026-11-26 the side is shown by the golden bangle, not by the arrow's position.",
    "firstUsed": "SESATS 12 121-253",
    "status": "approved",
    "reason": "total 9/10, 2 layers",
@@ -17108,6 +17108,362 @@
    },
    "notes": "With NSAIDs for pericarditis; steroids (stereo turned down) only when these fail.",
    "firstUsed": "SESATS 12 121-253",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "dir-right",
+   "concept": "the patient's RIGHT side (right-sided structure)",
+   "terms": [
+    "=right side",
+    "=right",
+    "=rt",
+    "=on the right"
+   ],
+   "symbol": "a small WHITE DOVE perched on the part that lies on the patient's right, wherever that part falls in the picture",
+   "anchors": [
+    "white dove"
+   ],
+   "kind": "direction symbol: sound + meaning + place",
+   "family": "directions",
+   "direction": "right",
+   "ar": "اليمامة البيضاء",
+   "layers": {
+    "sound": "يمين (yamīn) = يمامة (yamāma), a dove",
+    "meaning": "good things come from the right (التيمّن): the dove of good news",
+    "place": "perched on the right-sided part itself, never shown by where it stands in the frame"
+   },
+   "why": "yamīn sounds like yamāma",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Image generators mirror pictures, so a side is never shown by position: the dove sits on the part. Story: اليمامة.",
+   "firstUsed": "directions (the owner, 2026-11-26)",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "dir-left",
+   "concept": "the patient's LEFT side (left-sided structure)",
+   "terms": [
+    "=left side",
+    "=left",
+    "=lt",
+    "=on the left"
+   ],
+   "symbol": "a small GOLDEN BANGLE round the part that lies on the patient's left, wherever that part falls in the picture",
+   "anchors": [
+    "golden bangle"
+   ],
+   "kind": "direction symbol: sound + meaning + place",
+   "family": "directions",
+   "direction": "left",
+   "ar": "السوار الذهبي",
+   "layers": {
+    "sound": "يسار (yasār) = سوار (siwār), a bangle",
+    "meaning": "a bangle or a watch is worn on the left wrist",
+    "place": "round the left-sided part itself"
+   },
+   "why": "yasār sounds like siwār",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Story: السوار.",
+   "firstUsed": "directions (the owner, 2026-11-26)",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "dir-anterior",
+   "concept": "ANTERIOR (front, ventral)",
+   "terms": [
+    "=anterior",
+    "=front",
+    "=anterior side",
+    "=ventral"
+   ],
+   "symbol": "a little ANTEATER standing on the front of the part, its long snout pointing forward",
+   "anchors": [
+    "anteater"
+   ],
+   "kind": "direction symbol: sound + meaning + place",
+   "family": "directions",
+   "direction": "anterior",
+   "ar": "آكل النمل",
+   "layers": {
+    "sound": "ANTERior = ANTEater",
+    "meaning": "its long snout always leads the way: the front",
+    "place": "on the front face of the part"
+   },
+   "why": "anterior sounds like anteater, and its snout points forward",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Story: آكل النمل.",
+   "firstUsed": "directions (the owner, 2026-11-26)",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "dir-posterior",
+   "concept": "POSTERIOR (back, behind, dorsal)",
+   "terms": [
+    "=posterior",
+    "=back",
+    "=behind",
+    "=posterior side",
+    "=dorsal"
+   ],
+   "symbol": "a little grey POSSUM clinging to the back of the part, her babies riding on her back",
+   "anchors": [
+    "possum"
+   ],
+   "kind": "direction symbol: sound + meaning + place",
+   "family": "directions",
+   "direction": "posterior",
+   "ar": "الأبوسوم",
+   "layers": {
+    "sound": "POSterior = POSsum",
+    "meaning": "she carries everything on her back: the back side",
+    "place": "clinging to the back face of the part"
+   },
+   "why": "posterior sounds like possum, who carries her young on her back",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Story: الأبوسوم.",
+   "firstUsed": "directions (the owner, 2026-11-26)",
+   "status": "approved",
+   "reason": "total 9/10, 3 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "dir-superior",
+   "concept": "SUPERIOR (upper, above, cranial)",
+   "terms": [
+    "=superior",
+    "=upper",
+    "=above",
+    "=cranial"
+   ],
+   "symbol": "a tiny CAPED SUPERHERO flying just over the part",
+   "anchors": [
+    "caped superhero"
+   ],
+   "kind": "direction symbol: sound + meaning + place",
+   "family": "directions",
+   "direction": "superior",
+   "ar": "البطل الطائر",
+   "layers": {
+    "sound": "SUPERior = SUPERhero",
+    "meaning": "he flies above everything: the upper side",
+    "place": "hovering over the upper end of the part"
+   },
+   "why": "superior sounds like superhero, who flies above",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Story: البطل الطائر.",
+   "firstUsed": "directions (the owner, 2026-11-26)",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "dir-inferior",
+   "concept": "INFERIOR (lower, below, caudal)",
+   "terms": [
+    "=inferior",
+    "=lower",
+    "=below",
+    "=caudal"
+   ],
+   "symbol": "a little MOLE peeking out of a molehill just under the part",
+   "anchors": [
+    "mole"
+   ],
+   "kind": "direction symbol: meaning + place",
+   "family": "directions",
+   "direction": "inferior",
+   "ar": "الخلد",
+   "layers": {
+    "meaning": "the mole lives below, under the ground: the lower side",
+    "place": "peeking up from under the lower end of the part"
+   },
+   "why": "the mole is always below",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Story: الخُلد.",
+   "firstUsed": "directions (the owner, 2026-11-26)",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "dir-medial",
+   "concept": "MEDIAL (towards the midline, inner side)",
+   "terms": [
+    "=medial",
+    "=medial side",
+    "=towards the midline"
+   ],
+   "symbol": "a small SILVER MEDAL on a blue ribbon hanging on the side of the part that faces the body's middle",
+   "anchors": [
+    "silver medal"
+   ],
+   "kind": "direction symbol: sound + meaning + place",
+   "family": "directions",
+   "direction": "medial",
+   "ar": "الميدالية الفضية",
+   "layers": {
+    "sound": "MEDIAL = MEDAL",
+    "meaning": "a medal hangs on the middle of the chest: the midline",
+    "place": "on the inner face of the part, the side that faces the middle"
+   },
+   "why": "medial sounds like medal, worn at the middle of the chest",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Not the gold first-place medal of angiosarcoma: this one is small, silver, on a blue ribbon. Story: الميدالية.",
+   "firstUsed": "directions (the owner, 2026-11-26)",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "dir-lateral",
+   "concept": "LATERAL (away from the midline, outer side)",
+   "terms": [
+    "=lateral",
+    "=lateral side",
+    "=outer side"
+   ],
+   "symbol": "a little striped ZEBRA standing on the outer side of the part",
+   "anchors": [
+    "zebra"
+   ],
+   "kind": "direction symbol: sound + meaning + place",
+   "family": "directions",
+   "direction": "lateral",
+   "ar": "الحمار الوحشي",
+   "layers": {
+    "sound": "وحشي (lateral in Arabic anatomy) = حمار وحشي, the zebra",
+    "meaning": "wild animals keep to the outside, far from the camp's middle",
+    "place": "on the outer face of the part"
+   },
+   "why": "the Arabic word for lateral is in the zebra's name",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Story: الحمار الوحشي.",
+   "firstUsed": "directions (the owner, 2026-11-26)",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "dir-proximal",
+   "concept": "PROXIMAL (near the origin of a vessel, limb or structure)",
+   "terms": [
+    "=proximal",
+    "=proximal end",
+    "=near end"
+   ],
+   "symbol": "a small leather WATERSKIN hanging at the start of the part, where its water comes from",
+   "anchors": [
+    "waterskin"
+   ],
+   "kind": "direction symbol: sound + meaning + place",
+   "family": "directions",
+   "direction": "proximal",
+   "ar": "القِربة",
+   "layers": {
+    "sound": "قريب (qarīb, near) = قِربة (qirba), a waterskin",
+    "meaning": "the waterskin is filled at the source: the near end",
+    "place": "hung at the beginning of the pipe or part"
+   },
+   "why": "qarīb sounds like qirba, filled at the source",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Story: القِربة.",
+   "firstUsed": "directions (the owner, 2026-11-26)",
+   "status": "approved",
+   "reason": "total 9/10, 3 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "dir-distal",
+   "concept": "DISTAL (far from the origin)",
+   "terms": [
+    "=distal",
+    "=distal end",
+    "=far end"
+   ],
+   "symbol": "a LONE CAMEL walking away at the far end of the part",
+   "anchors": [
+    "lone camel"
+   ],
+   "kind": "direction symbol: sound + meaning + place",
+   "family": "directions",
+   "direction": "distal",
+   "ar": "البعير",
+   "layers": {
+    "sound": "بعيد (baʿīd, far) = بعير (baʿīr), a camel",
+    "meaning": "the camel travels far: the far end",
+    "place": "at the end of the pipe or part farthest from its origin"
+   },
+   "why": "baʿīd sounds like baʿīr",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Always one camel alone (the caravan of camels is TAVR access). Story: البعير.",
+   "firstUsed": "directions (the owner, 2026-11-26)",
    "status": "approved",
    "reason": "total 10/10, 3 layers",
    "audited": "2026-11-26"

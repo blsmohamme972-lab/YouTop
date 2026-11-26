@@ -151,6 +151,14 @@ number counts once), 5 one-off sound-alikes and up to 3 others. Recurring symbol
 helps (the owner allowed it), always through the audit. `symbols.py check` and `batch.py prompts` refuse a lesson that
 falls short; `batch.py build` only warns, for lessons drawn before.
 
+**Sides and directions (since 2026-11-26, the owner).** Image generators mirror pictures and guess what "behind" or
+"the left one" means, and the owner found sides wrong again and again. A side or direction is never shown by where a
+thing stands in the frame: the part wears its marker, small, wherever it falls (`content/symbols.md`, "Directions"):
+right a white dove (يمين/يمامة), left a golden bangle (يسار/سوار), anterior a little anteater, posterior a little
+possum, superior a tiny caped superhero, inferior a little mole, medial a small silver medal on a blue ribbon,
+lateral a little zebra (وحشي), proximal a small leather waterskin (قريب/قِربة), distal a lone camel (بعيد/بعير).
+`symbols.py check` refuses a direction word without its marker; the story names the marker.
+
 **Numbers (since 2026-11-22, the owner).** Pictures carry no written numbers, so a number that matters (a size, a
 dose, a percentage, a time) is drawn with the number symbols: one recurring symbol for each digit and the golden drop
 for the decimal point (`content/symbols.md`, "Numbers"): 0 a golden whistle (صفّارة), 1 a white unicorn (وحيد القرن),

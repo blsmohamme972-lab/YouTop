@@ -42,6 +42,28 @@ as one of the lesson's four recurring symbols.
 | 9 | a little brown MONKEY hanging by its curled tail, the loop of the tail on top: a 9 | السعدان | سعدان = تسعة; hanging by its tail it is a 9 |
 | . | a little GOLDEN DROP, set low between the whole and the fraction | النقطة الذهبية | نقطة = drop = point |
 
+## Directions: a marker on the part, never a position (the owner, 2026-11-26)
+
+Image generators mirror pictures and guess what 'behind' or 'the left one' means, so the owner found sides and
+directions wrong again and again. A side or direction is therefore never carried by where a thing stands in the
+frame: the part itself wears its marker, small, wherever it falls in the picture. Most markers sound like the
+Arabic word (say their Arabic names in the story), all hold the meaning. `symbols.py check` refuses a keyword
+object, anchor, scene sentence or 'must' that names a direction (left, right, front, behind, upper, lower,
+medial, lateral, proximal, distal...) without its marker; say it with the marker or without the word.
+
+| Direction | Drawn as | Say (Arabic) | Why it sticks |
+|---|---|---|---|
+| right | a small WHITE DOVE perched on the part that lies on the patient's right, wherever that part falls in the picture | اليمامة البيضاء | yamīn sounds like yamāma |
+| left | a small GOLDEN BANGLE round the part that lies on the patient's left, wherever that part falls in the picture | السوار الذهبي | yasār sounds like siwār |
+| anterior | a little ANTEATER standing on the front of the part, its long snout pointing forward | آكل النمل | anterior sounds like anteater, and its snout points forward |
+| posterior | a little grey POSSUM clinging to the back of the part, her babies riding on her back | الأبوسوم | posterior sounds like possum, who carries her young on her back |
+| superior | a tiny CAPED SUPERHERO flying just over the part | البطل الطائر | superior sounds like superhero, who flies above |
+| inferior | a little MOLE peeking out of a molehill just under the part | الخلد | the mole is always below |
+| medial | a small SILVER MEDAL on a blue ribbon hanging on the side of the part that faces the body's middle | الميدالية الفضية | medial sounds like medal, worn at the middle of the chest |
+| lateral | a little striped ZEBRA standing on the outer side of the part | الحمار الوحشي | the Arabic word for lateral is in the zebra's name |
+| proximal | a small leather WATERSKIN hanging at the start of the part, where its water comes from | القِربة | qarīb sounds like qirba, filled at the source |
+| distal | a LONE CAMEL walking away at the far end of the part | البعير | baʿīd sounds like baʿīr |
+
 ## Approved
 
 | Concept | Drawn as | Why | Score | First used |

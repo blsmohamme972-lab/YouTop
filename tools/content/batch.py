@@ -284,6 +284,13 @@ def image_prompt(cfg, b):
                    ". Each is a small, neat drawing in the picture's own style and colours, its little characters crisp, simple and "
                    "easy to tell apart, the same size, side by side from left to right in the order given; it takes only a small "
                    "part of the picture and never competes with the focal point. ") if numbers else ""
+    # Sides and directions are shown by small markers on the parts, never by position (the owner, 2026-11-26):
+    # image generators mirror pictures, so the prompt tells them the markers, not the frame, carry the sides.
+    drawn = " ".join([b.get("scene", ""), keywords, anchor]).lower()
+    markers = [s["anchors"][0] for s in symbols.direction_markers(symbols.load()).values() if symbols.has_anchor(drawn, s)]
+    marker_text = ("Some parts carry a small marker (" + ", ".join(markers) + "): draw each marker small, clear and exactly on "
+                   "the part it belongs to, wherever that part falls in the frame; the markers, not the positions, show the "
+                   "sides, so never move or mirror a marker to another part. ") if markers else ""
     folder = cfg.get("imagesFolder")
     where = (f"Save the image with the file name {b['n']} and upload it to: https://drive.google.com/drive/folders/{folder}"
              if folder else f"Save the image with the file name {b['n']}.")
@@ -305,7 +312,7 @@ def image_prompt(cfg, b):
              f"for what it is: {keywords}. " if keywords else "") +
             "Every object must be visually meaningful, distinctive and easy to recall, and all of them must be linked by "
             "physical interaction and cause-and-effect inside this one scene. No literal anatomy, no organs, no medical "
-            "equipment, no unrelated objects. " + number_text + labels +
+            "equipment, no unrelated objects. " + number_text + marker_text + labels +
             (f"These details matter most and must be painted exactly as stated: {b['must'].strip().rstrip('.')}. " if b.get("must") else "") +
             where)
 
@@ -548,7 +555,8 @@ def symbol_check(items, few_is_problem=True):
     import symbols
     problems, local = symbols.check_items(items)
     seven, crowded = symbols.rule7(items)
-    few = symbols.too_few(items) + seven
+    # Sides and directions are carried by their markers, never by position (the owner, 2026-11-26).
+    few = symbols.too_few(items) + seven + symbols.direction_problems(items)
     for line in crowded:
         print("warning:", line)
     if local:

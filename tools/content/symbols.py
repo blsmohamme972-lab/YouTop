@@ -123,12 +123,22 @@ def write_readable(data):
         f"| {s['digit']} | {s['symbol']} | {s.get('ar', '')} | {s['why']} |"
         for s in sorted((x for x in data["symbols"] if x.get("family") == "digits" and x["status"] == "approved"),
                         key=lambda x: ("." in x["digit"], x["digit"]))] + [
+        "", "## Directions: a marker on the part, never a position (the owner, 2026-11-26)", "",
+        "Image generators mirror pictures and guess what 'behind' or 'the left one' means, so the owner found sides and",
+        "directions wrong again and again. A side or direction is therefore never carried by where a thing stands in the",
+        "frame: the part itself wears its marker, small, wherever it falls in the picture. Most markers sound like the",
+        "Arabic word (say their Arabic names in the story), all hold the meaning. `symbols.py check` refuses a keyword",
+        "object, anchor, scene sentence or 'must' that names a direction (left, right, front, behind, upper, lower,",
+        "medial, lateral, proximal, distal...) without its marker; say it with the marker or without the word.", "",
+        "| Direction | Drawn as | Say (Arabic) | Why it sticks |", "|---|---|---|---|"] + [
+        f"| {s['direction']} | {s['symbol']} | {s.get('ar', '')} | {s['why']} |"
+        for s in (x for x in data["symbols"] if x.get("family") == "directions" and x["status"] == "approved")] + [
         "", "## Approved", "",
         "| Concept | Drawn as | Why | Score | First used |", "|---|---|---|---|---|"]
     rows, rejected = [], []
     for s in data["symbols"]:
         total = sum(s["scores"].get(c, 0) for c in CRITERIA)
-        if s["status"] == "approved" and s.get("family") == "digits":
+        if s["status"] == "approved" and s.get("family") in ("digits", "directions"):
             continue
         if s["status"] == "approved":
             note = f" ({s['notes']})" if s.get("notes") else ""
@@ -278,7 +288,8 @@ def lesson_symbols(b, data=None):
             continue
         s = match(pieces[0].strip(), data)
         if s and s.get("status") == "approved" and s["id"] not in FRAME and has_anchor(pieces[1], s):
-            sid = "number" if s.get("family") == "digits" else s["id"]
+            # Numbers count once, and so do direction markers: they help other symbols, they are not concepts.
+            sid = {"digits": "number", "directions": "direction"}.get(s.get("family"), s["id"])
             if sid not in found:
                 found.append(sid)
     return found
@@ -312,13 +323,61 @@ def anchor_problem(b, data=None):
     pieces = re.split(r"->|→", text, maxsplit=1)
     if len(pieces) != 2 or not pieces[1].strip():
         return "write the anchor as 'anchor: what is asked -> the image that shows the correct answer'"
-    if not any(s.get("status") == "approved" and s["id"] not in FRAME and s.get("family") != "digits" and has_anchor(pieces[1], s)
+    if not any(s.get("status") == "approved" and s["id"] not in FRAME and s.get("family") not in ("digits", "directions") and has_anchor(pieces[1], s)
                for s in data["symbols"]):
         return "the anchor's image names no recurring symbol: draw what is asked as its recurring symbol (make one if it has none)"
     return None
 
 
 DIGIT = re.compile(r"\d")
+
+# The owner (2026-11-26): pictures kept getting sides and directions wrong (image generators mirror a picture, and guess
+# what "behind" or "the left one" means). A direction is never carried by where a thing stands in the frame: the part
+# wears its direction marker (family "directions" in symbols.json), small, wherever it falls in the picture.
+DIRECTION_WORDS = {
+    "right": r"\b(?:right|rt)\b",
+    "left": r"\b(?:left|lt)\b",
+    "anterior": r"\b(?:anterior|front|ventral)\b",
+    "posterior": r"\b(?:posterior|behind|rear|dorsal)\b|\bback (?:wall|side|leaf|leaflet|surface|face)\b|\b(?:at|on|from) the back of\b",
+    "superior": r"\b(?:superior|cranial)\b|\bupper\b(?! party wall| and lower party wall| glass lobb| lobb)",
+    "inferior": r"\b(?:inferior|caudal)\b|\blower\b(?! party wall)",
+    "medial": r"\bmedial\b",
+    "lateral": r"\blateral\b",
+    "proximal": r"\bproximal\b",
+    "distal": r"\bdistal\b",
+}
+# Reading order is not a side of the body: numbers and routes run from left to right.
+DIRECTION_EXEMPT = re.compile(r"\b(?:from )?left to right\b")
+
+
+def direction_markers(data):
+    return {s["direction"]: s for s in data["symbols"]
+            if s.get("family") == "directions" and s.get("direction") and s.get("status") == "approved"}
+
+
+def direction_problems(items, data=None):
+    """Where a lesson's picture would show a side or direction by position alone (the owner, 2026-11-26): every
+    keyword object, the anchor's image, each scene sentence and 'must' that names a direction must also name its
+    marker (a white dove on the right-sided part, a golden bangle on the left-sided one...)."""
+    data = data or load()
+    marks, out = direction_markers(data), []
+    for b in items:
+        chunks = [(f"the object of '{t}'", o) for t, o in keyword_pairs(b)]
+        pieces = re.split(r"->|→", b.get("anchor") or "", maxsplit=1)
+        if len(pieces) == 2:
+            chunks.append(("the anchor's image", pieces[1]))
+        chunks += [(f"scene sentence {i}", s) for i, s in enumerate(re.split(r"(?<=[.!?])\s+", b.get("scene") or ""), 1)]
+        if b.get("must"):
+            chunks.append(("'must'", b["must"]))
+        for where, text in chunks:
+            low = DIRECTION_EXEMPT.sub(" ", re.sub(r"\([^)]*\)", "", text).lower())
+            for d, rx in DIRECTION_WORDS.items():
+                m = re.search(rx, low)
+                if m and d in marks and not has_anchor(low, marks[d]):
+                    out.append(f"question {b['n']}: '{m.group(0)}' in {where}: a direction is never shown by position (the owner, "
+                               f"2026-11-26); put its marker on the part ({marks[d]['symbol']}; name: {marks[d]['anchors'][0]}), "
+                               f"or say it without the word")
+    return out
 
 
 def written_numbers(b):
@@ -397,7 +456,7 @@ def main():
         problems, local = check_items(items, data)
         problems += too_few(items, data)
         more, warns = rule7(items, data)
-        problems += more
+        problems += more + direction_problems(items, data)
         for line in warns:
             print("warning:", line)
         for p in problems:
