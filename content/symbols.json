@@ -16289,6 +16289,348 @@
    "status": "approved",
    "reason": "total 8/10, 2 layers",
    "audited": "2026-11-26"
+  },
+  {
+   "id": "size-mismatch",
+   "concept": "donor-recipient size (and sex) mismatch in heart transplantation",
+   "terms": [
+    "size mismatch",
+    "gender and size mismatch",
+    "size and gender mismatch",
+    "donor-recipient size mismatch",
+    "undersized donor",
+    "size matching",
+    "sex mismatch",
+    "gender mismatch"
+   ],
+   "symbol": "a small new hotel set into a huge empty space in the flowerpot, a RATTLING HOTEL too small to fill it",
+   "anchors": [
+    "rattling hotel"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "a donor heart too small for the recipient (above all a woman's heart for a large man) fails to carry the load",
+    "place": "in the recipient's chest, the flowerpot"
+   },
+   "why": "too small, it rattles",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Predicted heart mass is better than weight; female to male and more than about 30% smaller are risks, worse with high pulmonary pressure.",
+   "firstUsed": "SESATS 12 111-120",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "blood-group",
+   "concept": "ABO blood groups and compatibility for transfusion and transplantation",
+   "terms": [
+    "blood group",
+    "blood groups",
+    "blood type",
+    "abo compatibility",
+    "abo",
+    "abo incompatible",
+    "abo-incompatible",
+    "abo matching"
+   ],
+   "symbol": "BLOOD-GROUP TOKENS hung round the neck: an apple for A, a bee for B, an apple with a bee on it for AB, an empty hoop for O; an empty hoop gives to everyone, the apple-with-bee takes from everyone",
+   "anchors": [
+    "blood-group token"
+   ],
+   "kind": "sound + meaning",
+   "layers": {
+    "sound": "A = an Apple, B = a Bee, O = an empty hoop",
+    "meaning": "who may give to whom: O donors to all, AB recipients from all"
+   },
+   "why": "fruit-stall tokens for the groups",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "ABO-incompatible heart transplant is possible only in infants (low isohaemagglutinins).",
+   "firstUsed": "SESATS 12 111-120",
+   "status": "approved",
+   "reason": "total 10/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "bridge-to-transplant",
+   "concept": "bridge to transplant (and bridge to decision or candidacy) with a VAD",
+   "terms": [
+    "bridge to transplant",
+    "bridge-to-transplant",
+    "bridge to decision",
+    "bridge-to-decision",
+    "bridge to candidacy",
+    "bridge-to-candidacy",
+    "bridge to transplantation"
+   ],
+   "symbol": "a terracotta flowerpot waiting at the FAR END OF A LITTLE BRIDGE, Darth Vader carrying the patient across towards it",
+   "anchors": [
+    "far end of a little bridge"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "support until a heart is found (or until a decision about transplant can be made)",
+    "place": "the road from the VAD to the transplant"
+   },
+   "why": "a bridge leading to the new heart",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Bridge to decision: the bridge's far end still hidden in mist.",
+   "firstUsed": "SESATS 12 111-120",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "destination-therapy",
+   "concept": "destination therapy: an LVAD for life in a patient who cannot have a transplant",
+   "terms": [
+    "destination therapy",
+    "destination lvad",
+    "destination left ventricular assist device",
+    "lifelong lvad"
+   ],
+   "symbol": "Darth Vader unpacking his bags in a little house at the END OF THE ROAD, no bridge and no flowerpot beyond it",
+   "anchors": [
+    "end of the road"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the device is the final treatment, not a bridge",
+    "place": "at home, for the rest of life"
+   },
+   "why": "the road ends here",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Poor outcomes: frailty, kidney failure, RV failure, malnutrition.",
+   "firstUsed": "SESATS 12 111-120",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "pseudomonas",
+   "concept": "Pseudomonas infection (aeruginosa), often resistant, in wounds, drivelines and lungs",
+   "terms": [
+    "pseudomonas",
+    "pseudomonas aeruginosa",
+    "pseudomonal"
+   ],
+   "symbol": "a FAKE MONK in a glowing green robe smelling of grapes, sneaking in along a cable or a tube",
+   "anchors": [
+    "fake monk"
+   ],
+   "kind": "sound + meaning",
+   "layers": {
+    "sound": "PSEUDO-MONas = a pseudo (fake) MONK",
+    "meaning": "green pus, a grape smell, hard to clear from foreign material"
+   },
+   "why": "a fake monk in green",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "On a driveline that will not heal: the device is seeded; cure needs the device out (transplant or exchange).",
+   "firstUsed": "SESATS 12 111-120",
+   "status": "approved",
+   "reason": "total 10/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "inotropes",
+   "concept": "inotropes and inotrope dependence (drugs that make the heart squeeze harder)",
+   "terms": [
+    "inotropes",
+    "inotrope",
+    "inotropic",
+    "inotropic support",
+    "inotrope-dependent",
+    "inotrope dependence",
+    "continuous inotropes",
+    "inotropic agents"
+   ],
+   "symbol": "men HAULING A ROPE wound round the engine room's fan to make it beat harder; when they let go, it slows",
+   "anchors": [
+    "hauling a rope"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "ino-TROPE = a rope",
+    "meaning": "drugs that strengthen contraction; needing them continuously marks advanced failure",
+    "place": "acting on the heart muscle"
+   },
+   "why": "a rope hauled to spin the fan",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Milrinone (windmill), dobutamine (Doberman), epinephrine (firework). Inotrope-dependent = INTERMACS 2-3: time to decide on an LVAD.",
+   "firstUsed": "SESATS 12 111-120",
+   "status": "approved",
+   "reason": "total 9/10, 3 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "obesity",
+   "concept": "obesity and a high body mass index (surgical and transplant risk)",
+   "terms": [
+    "obesity",
+    "obese",
+    "body mass index",
+    "bmi",
+    "morbid obesity",
+    "morbidly obese"
+   ],
+   "symbol": "a great round man on a groaning weighing scale, his BURSTING BELT popping its buckle",
+   "anchors": [
+    "bursting belt"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "too much body fat: wound and driveline infections, a relative bar to transplant",
+    "place": "round the waist, on the scale"
+   },
+   "why": "the belt bursts",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "BMI above about 35 is a relative contraindication to heart transplant.",
+   "firstUsed": "SESATS 12 111-120",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "lvad-ai",
+   "concept": "aortic insufficiency with an LVAD (circular, blind-loop flow)",
+   "terms": [
+    "aortic insufficiency on lvad",
+    "lvad aortic insufficiency",
+    "lvad-associated aortic insufficiency",
+    "aortic regurgitation with lvad",
+    "blind loop",
+    "circular flow"
+   ],
+   "symbol": "water going ROUND IN A CIRCLE: out of Vader's pump up the orca and straight back through the leaky orca mouth into the red room, never reaching the town",
+   "anchors": [
+    "round in a circle"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "regurgitant flow returns to the LV and is pumped again: wasted flow, poor output",
+    "place": "between the LVAD outflow, the aortic root and the LV"
+   },
+   "why": "the water just circles",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "More than mild AR at implant must be corrected (repair, close or replace with a tissue valve). MR, TR and PR are left.",
+   "firstUsed": "SESATS 12 111-120",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "donor-heart",
+   "concept": "the donor heart and donor selection (brain-dead donor, donor criteria)",
+   "terms": [
+    "donor heart",
+    "donor",
+    "organ donor",
+    "heart donor",
+    "donor selection",
+    "donor criteria",
+    "potential donor"
+   ],
+   "symbol": "the donor's hotel carried in a ribboned GIFT BOX packed with ice",
+   "anchors": [
+    "gift box"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "a heart given by a brain-dead donor, judged by age, function, size and group",
+    "place": "carried on ice to the recipient"
+   },
+   "why": "a gift in a box",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Matched by blood group (tokens), size (rattling hotel), and antibodies.",
+   "firstUsed": "SESATS 12 111-120",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "colonoscopy",
+   "concept": "colonoscopy (looking inside the large bowel)",
+   "terms": [
+    "colonoscopy",
+    "colonoscopic",
+    "lower endoscopy"
+   ],
+   "symbol": "a mustachioed COLONEL with a lantern crawling up the gut spaghetti from its far end",
+   "anchors": [
+    "colonel with a lantern"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "COLONoscopy = a COLONEL",
+    "meaning": "looking for bleeding or cancer in the large bowel",
+    "place": "entering from below"
+   },
+   "why": "a colonel exploring the colon",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Upper endoscopy (periscope down the pink slide) first for melaena, then the colonel.",
+   "firstUsed": "SESATS 12 111-120",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-26"
   }
  ]
 }

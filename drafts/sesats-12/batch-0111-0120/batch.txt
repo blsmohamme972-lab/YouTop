@@ -1,0 +1,163 @@
+book: sesats-12
+style: a stop-motion claymation look: chunky hand-made plasticine figures and sets with soft fingerprints in the clay, bright cheerful colours, soft studio light with gentle shadows, simple uncluttered sets, every object solid, rounded and instantly recognisable
+theme: the world of al-Jahiz in ninth-century Basra: the Mirbad market, the canals and date-palm groves, boats on the Shatt al-Arab, scholars, merchants and the animals of his Book of Animals; the physician Hunayn ibn Ishaq (grey beard, blue turban) is the recurring healer; stories end with a genuine line of al-Jahiz (Kitab al-Hayawan, al-Bayan wa al-Tabyin, al-Bukhala)
+
+== 111
+# Q: very tall, heavy man, group O, on an LVAD awaiting transplant, pre-LVAD pulmonary pressure two-thirds systemic; offered the heart of a smaller group O woman with normal function: the most likely barrier to success? A: gender and size mismatch
+# a small new hotel from a ribboned gift box with a slim woman's veil, rattling in the huge empty space of the giant porter's flowerpot = female-to-male and size mismatch -> ANSWER
+# two empty-hoop blood-group tokens = both group O, compatible
+# Vader carrying the porter over a little bridge to the flowerpot = LVAD as a bridge to transplant
+# a fallen gauge on the money pipe and soldier ants waved away = not pulmonary hypertension or acute rejection (wrong options)
+title: Heart transplant: a small female donor heart for a large man is the main barrier
+titleAr: زرع القلب: قلب متبرعة صغير لرجل ضخم هو العائق الأكبر
+tags: cardiac/heart-failure d:indications q:vignette l:2
+palette: terracotta and ribbon pink with ice blue
+words:
+keywords: size mismatch -> a small new hotel set into the huge empty space of the flowerpot, a rattling hotel too small to fill it; donor heart -> the donor's hotel carried in a ribboned gift box packed with ice; female donor -> a slim woman's veil tied on the gift box; blood group -> two matching blood-group tokens, each an empty hoop; vad -> Darth Vader with his little pump; bridge to transplant -> Vader carrying the porter across a little bridge, a flowerpot waiting at the far end of a little bridge; transplant -> a gardener setting the new hotel into the terracotta flowerpot; pulmonary hypertension (no) -> an old gauge on the money pipe, its needle fallen back, waved away; acute rejection (no) -> an army of tiny white soldier ants, waved away; giant porter -> a giant porter whose head touches the ceiling; heavy -> a weighing scale groaning under the porter; bright fans -> the donor hotel's fans spinning bright; barrier -> a wooden barrier bar across the path
+anchor: the barrier -> a small new hotel from a ribboned gift box, a slim woman's veil tied on it, rattling in the huge empty space of the giant porter's flowerpot
+scene: A clay porters' yard on the Mirbad, a wooden barrier bar across the path. A giant porter whose head touches the ceiling stands on a weighing scale that groans under him; Darth Vader with his little pump carries him across a little bridge, a flowerpot waiting at the far end of a little bridge. Two matching blood-group tokens, each an empty hoop, hang on the porter and on a ribboned gift box packed with ice, a slim woman's veil tied on it, holding the donor's hotel, its fans spinning bright. In the centre, in the strongest light: a gardener sets the small new hotel into the terracotta flowerpot, and it rattles in the huge empty space, too small to fill it. An old gauge on the money pipe, its needle fallen back, and an army of tiny white soldier ants are waved away.
+must: the new hotel is clearly too small; no letters or digits are written anywhere
+
+== 112
+# Q: brain-dead woman donor (gunshot to the head), smoker with treated hypertension, normal coronaries and function, septum mildly thick, medium-sized, blood group A: the best recipient? A: a 45-year-old woman of group AB and similar weight
+# the gift box with an apple token handed to a woman wearing an apple-with-a-bee token, the hotel fitting her snugly = A donor to an AB woman of matching size -> ANSWER
+# the coffin under the darkened lantern, a musket ball through it = brain death from a gunshot
+# the cigar and the gauge in the red = smoking and hypertension, still usable
+# a girl far too small, a man with an empty-hoop token and an old man waved away = not too small, not group O, not a male mismatch (wrong options)
+title: Matching a donor heart: blood group first, then size and sex
+titleAr: مطابقة قلب المتبرع: فصيلة الدم أولًا ثم الحجم والجنس
+tags: cardiac/heart-failure d:indications q:vignette l:2
+palette: apple red and bee yellow with coffin ebony
+words:
+keywords: blood group -> blood-group tokens: an apple on the gift box, an apple with a bee on it round the chosen woman's neck; donor heart -> the donor's hotel in a ribboned gift box packed with ice; brain death -> a coffin under a lantern that has gone dark; gunshot -> a small musket ball through the dark lantern; smoking -> a fat cigar puffing grey smoke; hypertension -> an old pressure gauge with its needle in the red; size matching -> a tailor checking the hotel fits the woman snugly, no rattling hotel; clear crown -> the crown spikes clear and open; girl (no) -> a slim girl far too small, waved away; hoop man (no) -> a man with an empty-hoop token, waved away; old man (no) -> an old man in a fez, waved away; chosen -> Hunayn's hand on the woman's shoulder
+anchor: the best recipient -> the ribboned gift box with an apple token handed to a woman wearing an apple with a bee on it, a tailor showing the hotel fits her snugly
+scene: A clay courtyard of the hospital. A coffin lies under a lantern that has gone dark, a small musket ball through the lantern; a fat cigar puffs grey smoke beside an old pressure gauge with its needle in the red. The donor's hotel, its crown spikes clear and open, sits in a ribboned gift box packed with ice, an apple blood-group token on it. In the centre, in the strongest light: the physician Hunayn ibn Ishaq rests his hand on the shoulder of a woman wearing a blood-group token of an apple with a bee on it, the gift box is handed to her, and a tailor shows the hotel fits her snugly. A slim girl far too small, a man with an empty-hoop token and an old man in a fez are waved away.
+must: the tokens are pictures, never letters; no letters or digits are written anywhere
+
+== 113
+# Q: LVAD implant; TEE shows moderate MR, TR, PR and AR: which native valve must be corrected now? A: the aortic valve
+# Hunayn mending the leaky orca mouth so the water stops going round in a circle between Vader's pump and the red room = correct the AR at LVAD implant -> ANSWER
+# water going round in a circle, the town's fountains running dry = blind-loop flow wastes the LVAD's output
+# the mitre, trident and money-pipe door dripping a little, left alone = MR, TR and PR are not repaired (wrong options)
+# the bat in the pink slide = intraoperative TEE
+title: At LVAD implant, correct aortic regurgitation; leave the others
+titleAr: عند زرع جهاز دعم البطين أصلح قلس الأبهر واترك الباقي
+tags: cardiac/heart-failure cardiac/aortic-valve d:indications q:recall l:2 x:high-yield
+palette: Vader black and orca blue with fountain silver
+words:
+keywords: lvad-ai -> water going round in a circle out of Vader's pump up the orca and straight back through the leaky mouth into the red room; aortic valve -> the orca balloon's mouth being mended by Hunayn; vad -> Darth Vader, his little pump bolted into the tip of the red engine room; tee -> the bat sliding down inside the pink sofa slide, its sound rings showing the leaks; regurgitation -> water gurgling back through the doors; mitral (no) -> a bishop's mitre dripping a little, left alone; tricuspid (no) -> a trident in the blue doorway dripping a little, left alone; pulmonary valve (no) -> the money-pipe door dripping a little, left alone; town dry -> the town's fountains running dry; old man -> an old man in a scholar's cap; only one -> Hunayn's needle on the mouth alone; drips -> drips, not floods
+anchor: the valve to correct -> the physician Hunayn mending the leaky orca mouth so the water stops going round in a circle between Vader's pump and the red room
+scene: A clay workshop with silver fountains. An old man in a scholar's cap lies beside the cut-open HART Hotel; Darth Vader stands by it, his little pump bolted into the tip of the red engine room, and the bat slides down inside the pink sofa slide, its sound rings showing the leaks. A bishop's mitre, a trident in the blue doorway and the money-pipe door each drip a little, drips not floods, left alone. The water from Vader's pump goes round in a circle, up the orca and straight back through its leaky mouth into the red room, and the town's fountains run dry. In the centre, in the strongest light: the physician Hunayn ibn Ishaq puts his needle to the orca balloon's mouth alone and mends it, and the circle stops.
+must: only the orca's mouth is mended; no letters or digits are written anywhere
+
+== 114
+# Q: destination LVAD three years ago (smoking, obesity); now off cigarettes, BMI 35; three weeks of driveline pus, cellulitis and fevers; fevers gone, drainage goes on; pan-sensitive Pseudomonas: best management? A: heart transplant
+# the gardener lifting Vader's pump and its mossy cord out with the old hotel and setting a new hotel in the flowerpot, the fake monk left behind = transplant removes the infected device -> ANSWER
+# the mossy cord dripping green pus, a fake monk in a green robe crawling along it, the red swollen skin = chronic Pseudomonas driveline infection with cellulitis
+# Vader's house at the end of the road, the bursting belt, the cigar snapped = destination therapy, obesity, stopped smoking
+# a new pump in a box, a slab of muscle and little squirting hoses waved away = not device exchange, flap or irrigation (wrong options)
+title: Persistent Pseudomonas driveline infection: transplant to remove the device
+titleAr: التهاب مزمن بالزائفة في سلك الجهاز: زرع القلب لإزالة الجهاز
+tags: cardiac/heart-failure d:complications q:next-step l:3 x:trap
+palette: monk green and terracotta with belt brown
+words:
+keywords: transplant -> a gardener lifting the old hotel out and setting a new one in the terracotta flowerpot; driveline infection -> Vader's power cord where it leaves the skin, a mossy cord dripping green pus; pseudomonas -> a fake monk in a glowing green robe smelling of grapes, crawling along the cord; destination therapy -> Darth Vader's little house at the end of the road; obesity -> a great round man whose bursting belt pops its buckle; smoking -> a fat cigar snapped in two and thrown away; cultures -> a little glass petri dish growing green colonies; cellulitis -> red swollen skin round the cord; cool brow -> a cool brow, no more steam, but the cord still dripping; exchange (no) -> a new pump in a box, waved away; flap (no) -> a slab of red muscle wrapped round the pump, waved away; irrigation (no) -> little hoses squirting water round the pump, waved away
+anchor: the best management -> the gardener lifting Darth Vader's pump and its mossy cord out with the old hotel and setting a new hotel in the flowerpot, the fake monk left behind
+scene: A clay garden at the end of the road, Darth Vader's little house there. A great round man whose bursting belt pops its buckle lies with a cool brow, no more steam, a fat cigar snapped in two and thrown away; Vader's power cord leaves his skin as a mossy cord dripping green pus, red swollen skin round it, and a fake monk in a glowing green robe smelling of grapes crawls along it; a little glass petri dish beside him grows green colonies. In the centre, in the strongest light: a gardener lifts the old hotel out with Vader's pump and its mossy cord, the fake monk left behind on the ground, and sets a new hotel in the terracotta flowerpot. A new pump in a box, a slab of red muscle wrapped round the pump and little hoses squirting water are waved away.
+must: the pump and cord come out with the old hotel; no letters or digits are written anywhere
+
+== 115
+# Q: two years on an LVAD, worsening fatigue and breathlessness, weight gain, poor function, psychosocial barriers, falling kidney function, fixed pulmonary hypertension: the most common cause of death? A: a neurological event
+# a lightning bolt striking the head lantern, most gravestones nearby carved with lightning = stroke is the commonest cause of death on an LVAD -> ANSWER
+# Vader with his pump, the shrivelling beans, the money-pipe gauge stuck in the red = LVAD, failing kidneys, fixed pulmonary hypertension
+# the swollen ankles, drooping eyelids, the empty house = weight gain, fatigue, psychosocial barriers
+# the swollen blue room, the septic tank and a broken gear waved away = not RV failure, infection or device malfunction (wrong options)
+title: Death on long-term LVAD support: most often a stroke
+titleAr: الوفاة مع جهاز دعم البطين على المدى الطويل: أكثرها بسبب السكتة الدماغية
+tags: cardiac/heart-failure d:complications q:recall l:2
+palette: storm violet and lightning white with clay grey
+words:
+keywords: stroke -> a lightning bolt striking the head lantern; most common -> most of the gravestones nearby carved with a lightning bolt; vad -> Darth Vader, his little pump bolted into the tip of the red engine room; kidney -> a pair of red kidney beans shrivelling dry and grey; pulmonary hypertension -> a gauge on the money pipe stuck in the red; rv failure (no) -> the swollen blue room, waved away; sepsis (no) -> a septic tank, waved away; malfunction (no) -> a broken gear, waved away; weight gain -> swollen ankles like rising dough; fatigue -> drooping eyelids; psychosocial -> an empty house with no one to help; breathless -> the man gasping after a few steps
+anchor: the most common cause of death -> a lightning bolt striking the head lantern of the man on Vader's pump, most of the gravestones nearby carved with a lightning bolt
+scene: A storm-violet clay graveyard by the palms. A man with drooping eyelids and ankles swollen like rising dough gasps after a few steps outside an empty house with no one to help; Darth Vader stands with him, his little pump bolted into the tip of the red engine room; a pair of red kidney beans shrivels dry and grey, and a gauge on the money pipe is stuck in the red. In the centre, in the strongest light: a lightning bolt strikes the man's head lantern, and most of the gravestones nearby are carved with a lightning bolt. The swollen blue room, a septic tank and a broken gear are waved away.
+must: no letters or digits are written anywhere
+
+== 116
+# Q: heart transplant recipient (woman) with breathlessness after one block and no angina, creatinine 1.2, good support; surveillance: allograft vasculopathy, main coronaries small and the distal vessels pruned: best management? A: evaluation for re-transplantation because of her dyspnoea
+# the gardener bringing a second flowerpot because the woman stops breathless after one street = evaluate for re-transplant now -> ANSWER
+# the transplanted hotel's crown spikes pruned thin by white soldier ants, shears hanging on the crown = cardiac allograft vasculopathy with distal pruning
+# the warning bell with its rope cut = the denervated heart gives no angina
+# the plump kidney beans, the family round her = good kidney function and support
+# a cabbage, a Slinky and an hourglass waved away = not CABG, PCI or waiting for angina (wrong options)
+title: Diffuse allograft vasculopathy with symptoms: evaluate for re-transplantation
+titleAr: اعتلال الأوعية التاجية المنتشر في القلب المزروع مع أعراض: قيّم لإعادة الزرع
+tags: cardiac/heart-failure d:indications q:next-step l:3 x:trap
+palette: pruned-vine brown and flowerpot terracotta with soldier-ant white
+words:
+keywords: cardiac allograft vasculopathy -> the transplanted hotel's crown spikes pruned thin at their tips by an army of tiny white soldier ants; pruning -> garden shears hanging on the crown; retransplant -> the gardener bringing a second terracotta flowerpot; transplant -> the hotel in its terracotta flowerpot; breathless -> the woman stopping breathless at the end of one street; silent -> the hotel's warning bell with its rope cut; creatinine -> a pair of plump red kidney beans; cabg (no) -> a cabbage, waved away; pci (no) -> a coiled metal Slinky, waved away; watchful waiting (no) -> an hourglass, waved away; family -> her family gathered round her; woman -> a woman in a saffron headscarf
+anchor: the best management -> the gardener bringing a second terracotta flowerpot because the woman stops breathless after one street, the crown spikes of her hotel pruned thin by soldier ants
+scene: A narrow clay street of Basra. A woman in a saffron headscarf stops breathless at the end of one street, her family gathered round her, a pair of plump red kidney beans beside her. Her HART Hotel sits in its terracotta flowerpot: its crown spikes are pruned thin at their tips by an army of tiny white soldier ants, garden shears hanging on the crown, and its warning bell has its rope cut. In the centre, in the strongest light: a gardener brings a second terracotta flowerpot towards her. A cabbage, a coiled metal Slinky and an hourglass are waved away.
+must: no letters or digits are written anywhere
+
+== 117
+# Q: destination LVAD for a non-ischaemic cardiomyopathy with moderate RV dysfunction, MR and TR; on coming off bypass and starting LVAD flow, severe hypoxaemia that resolves back on bypass: likely cause? A: a patent foramen ovale
+# blue water pouring through the cat flap into the red lobby as Vader's pump sucks it empty = PFO with right-to-left shunt once the LVAD unloads the left atrium -> ANSWER
+# the gasping fish, breathing again when the roller-pump truck is plugged back in = hypoxaemia that goes on bypass
+# the swollen blue room, the trident and the soggy bills waved away = not RV failure, TR or pulmonary oedema (wrong options)
+title: Hypoxaemia as LVAD flow starts: a patent foramen ovale
+titleAr: نقص الأكسجة عند بدء تدفق جهاز دعم البطين: ثقبة بيضوية مفتوحة
+tags: cardiac/heart-failure d:complications q:vignette l:2 x:high-yield
+palette: lobby purple and fish silver with Vader black
+words:
+keywords: pfo -> a cat flap in the upper party wall swinging open towards the red side; right-to-left shunt -> blue water pouring through the cat flap into the red lobby, turning it purple; vad -> Darth Vader, his little pump in the tip of the red engine room, sucking the red lobby empty; hypoxemia -> a gasping fish flopping on dry sand; cardiopulmonary bypass -> the big roller-pump truck plugged back in; breathes again -> the fish breathing again when the truck is plugged in; switched on -> Vader flicking a switch on his chest; coming off -> the truck's hose being unplugged; emptied lobby -> the red lobby sucked low and half empty; rv failure (no) -> the swollen blue room, waved away; pulmonary edema (no) -> soggy dollar bills, waved away; tricuspid (no) -> a dripping trident, waved away; old man -> an old man in a fisherman's cap
+anchor: the likely cause -> blue water pouring through the cat flap in the upper party wall into the red lobby as Vader's pump sucks it low and empty
+scene: A purple-lit clay fish market. An old man in a fisherman's cap lies beside the cut-open HART Hotel; the truck's hose is being unplugged as Darth Vader flicks a switch on his chest, and his little pump in the tip of the red engine room sucks the red lobby low and half empty. A gasping fish flops on dry sand beside the bed, breathing again only when the big roller-pump truck is plugged back in. In the centre, in the strongest light: a cat flap in the upper party wall swings open towards the red side and blue water pours through it into the red lobby, turning it purple. The swollen blue room, soggy dollar bills and a dripping trident are waved away.
+must: the blue water flows from the blue side into the red side; no letters or digits are written anywhere
+
+== 118
+# Q: ischaemic cardiomyopathy after CABG, CRT-D and an LAD stent; fluid overload, meds cut for hypotension; RA 19, wedge 26, PA 59/36, PVR 8.1 WU, CI 1.17, EF 15-20%; milrinone lifts the CI to 1.8 but pressures stay high: best management? A: continue inotropes and evaluate for an LVAD as bridge to decision or destination therapy
+# men hauling a rope round the fan while Darth Vader steps forward between two roads, a little bridge whose far end is in mist and a house at the end of the road = continued inotropes, LVAD evaluation as bridge to decision or destination -> ANSWER
+# the wooden blocks in the money pipe, a violin, a drop and a unicorn painted on them = PVR 8.1, too high for transplant now
+# the brass water meter barely turning = cardiac index 1.17
+# a list scroll and a house with the rope waved away = not listing 1A now, not home inotropes (wrong options)
+title: Inotrope-dependent heart failure with high PVR: evaluate for an LVAD
+titleAr: قصور قلب معتمد على المقويات مع مقاومة رئوية عالية: قيّم لجهاز دعم البطين
+tags: cardiac/heart-failure d:indications q:next-step l:3
+palette: rope tan and mist grey with water-meter brass
+words:
+keywords: inotropes -> men hauling a rope wound round the engine room's fan to make it beat harder; vad -> Darth Vader stepping forward with his little pump; bridge to decision -> a little bridge whose far end is in mist, a flowerpot perhaps waiting at the far end of a little bridge; destination therapy -> a little house at the end of the road; pvr -> wooden blocks stacked inside the pipe of dollar bills; number 8.1 (PVR, Wood units) -> a small painting on the blocks: a violin, a golden drop and a white unicorn; cardiac index -> a brass water meter on the orca barely turning; fluid overload -> ankles swollen like rising dough; list now (no) -> a long list scroll, waved away; home (no) -> a house with the rope hauled inside, waved away; two roads -> a signpost with two roads; weighing -> Hunayn weighing the two roads; old man -> an old man in a grey cloak
+anchor: the best management -> men hauling a rope round the fan while Darth Vader steps forward at a signpost between a little bridge whose far end is in mist and a house at the end of the road
+scene: A grey misty crossroads of clay. An old man in a grey cloak, ankles swollen like rising dough, lies beside the cut-open HART Hotel; a brass water meter on the orca barely turns, and wooden blocks are stacked inside the pipe of dollar bills, a small painting of a violin, a golden drop and a white unicorn on them. Men haul a rope wound round the engine room's fan to make it beat harder. In the centre, in the strongest light: Darth Vader steps forward with his little pump at a signpost with two roads, one a little bridge whose far end is in mist with a flowerpot perhaps waiting at the far end of a little bridge, the other a little house at the end of the road, while the physician Hunayn weighs the two roads. A long list scroll and a house with the rope hauled inside are waved away.
+must: no letters or digits are written anywhere
+
+== 119
+# Q: six months on an LVAD, dark loose stools, presyncope, HR 110, BP 72/58, suction events and low pulsatility, Hb 7.1, INR 3.0 (was 1.9), aspirin 325: best management? A: upper endoscopy, then colonoscopy if negative; when bleeding stops, low-dose heparin while the INR is below 2 and restart warfarin
+# three stepping stones in order: the periscope down the pink slide, then the colonel with a lantern up the spaghetti, then the slow hare and the rat walking back in = EGD, colonoscopy, low-dose heparin, restart warfarin -> ANSWER
+# the split black melon leaking tar, the pale pink river = GI bleeding with anaemia
+# Vader's speed dial flickering as his straw sucks the red room flat = suction events from low volume
+# the rat sent away for good and a photographer waved away = not stopping warfarin for good or angiography first (wrong options)
+title: GI bleeding on an LVAD: endoscopy, colonoscopy, then restart anticoagulation carefully
+titleAr: نزف هضمي مع جهاز دعم البطين: تنظير علوي ثم سفلي ثم إعادة مضادات التخثر بحذر
+tags: cardiac/heart-failure d:complications q:next-step l:3
+palette: tar black and lantern gold with hare brown
+words:
+keywords: endoscopy -> a lantern on a periscope lowered inside the long pink sofa slide; colonoscopy -> a mustachioed colonel with a lantern crawling up the gut spaghetti from its far end; heparin -> a fast brown hare walking slowly on a short lead; warfarin -> a rat in a soldier's helmet walking back in through the door; gi bleeding -> a split black melon leaking black tar at the end of the gut spaghetti; suction event -> Vader's speed dial flickering as his straw sucks the red engine room flat; anemia -> the river turning pale pink; steps -> three stepping stones laid in order; stopped (no) -> the rat sent away for good, waved away; angiography (no) -> a photographer, waved away; dizzy -> little stars circling the man's head; sweat -> beads of sweat on his brow; drying -> the melon's tar drying
+anchor: the best management -> three stepping stones in order: the periscope down the pink slide, then the colonel with a lantern up the spaghetti, then the brown hare on a short lead and the helmeted rat walking back in
+scene: A clay garden path. A man with little stars circling his head and beads of sweat on his brow lies by Darth Vader, whose speed dial flickers as his straw sucks the red engine room flat; the river beside him turns pale pink, and at the end of the gut spaghetti a split black melon leaks black tar. In the centre, in the strongest light: three stepping stones laid in order, on the first a lantern on a periscope lowered inside the long pink sofa slide, on the second a mustachioed colonel with a lantern crawling up the gut spaghetti from its far end, on the third the melon's tar drying, a fast brown hare walking slowly on a short lead and a rat in a soldier's helmet walking back in through the door. The rat sent away for good and a photographer are waved away.
+must: the stones are in order from left to right; no letters or digits are written anywhere
+
+== 120
+# Q: destination LVAD for advanced heart failure in patients not eligible for transplant: the greatest risk factor for a poor outcome? A: the frailty index
+# an old man leaning on a glass walking stick at the end of the road, a finger pointing at him in a ledger, a wilting flower = frailty predicts a poor outcome -> ANSWER
+# Vader's house at the end of the road, a flowerpot behind a locked gate = destination therapy, no transplant
+# a weak grip and a snail = frailty measures (grip, walking speed)
+# the dry kidney beans, a grazed old stag and a barnacled stern waved away = not pre-renal azotemia, prior MI or redo sternotomy (wrong options)
+title: Destination LVAD: frailty predicts a poor outcome
+titleAr: جهاز دعم البطين النهائي: الوهن ينبئ بسوء المآل
+tags: cardiac/heart-failure d:evidence q:recall l:2
+palette: glass clear and dusk orange with ledger brown
+words:
+keywords: frailty index -> an old man leaning on a walking stick made of thin glass, a glass walking stick; index -> a finger pointing at him in a ledger; destination therapy -> Darth Vader's little house at the end of the road; vad -> Darth Vader with his little pump; ejection fraction -> a weak bouncer barely pushing a guest out of the red room; not eligible -> a flowerpot behind a locked gate; weak grip -> a hand too weak to lift a cup; slow walk -> a snail beside his feet; poor outcome -> a wilting flower; kidney (no) -> a pair of slightly dry kidney beans, waved away; previous myocardial infarction (no) -> an old stag with an arrow scar, waved away; redo sternotomy (no) -> a ship's stern crusted with barnacles, waved away
+anchor: the greatest risk -> an old man leaning on a glass walking stick at Vader's house at the end of the road, a finger pointing at him in a ledger, a wilting flower beside him
+scene: A dusk-orange clay lane at the end of the road. Darth Vader's little house stands there, a flowerpot behind a locked gate beyond it; a weak bouncer barely pushes a guest out of the red room of the HART Hotel beside it. In the centre, in the strongest light: an old man leans on a walking stick made of thin glass, a glass walking stick, his hand too weak to lift a cup and a snail beside his feet, a finger pointing at him in a ledger and a wilting flower beside him. A pair of slightly dry kidney beans, an old stag with an arrow scar and a ship's stern crusted with barnacles are waved away.
+must: no letters or digits are written anywhere
