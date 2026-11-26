@@ -15224,6 +15224,376 @@
    "status": "approved",
    "reason": "total 8/10, 2 layers",
    "audited": "2026-11-26"
+  },
+  {
+   "id": "rbbb",
+   "concept": "right bundle branch block (pre-existing conduction disease)",
+   "terms": [
+    "right bundle branch block",
+    "rbbb",
+    "complete right bundle branch block",
+    "pre-existing right bundle branch block"
+   ],
+   "symbol": "the crackling branches inside the party wall with their right branch already broken off and hanging, a SNAPPED RIGHT BRANCH, so one more injury to the left branch leaves nothing to carry the spark",
+   "anchors": [
+    "snapped right branch"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the right bundle already conducts nothing; injure the left bundle and complete heart block follows",
+    "place": "the right bundle branch in the ventricular septum"
+   },
+   "why": "a branch already snapped off the tree",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "The strongest predictor of a permanent pacemaker after TAVR. A left bundle branch block = the left branch snapped.",
+   "firstUsed": "SESATS 12 81-90",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "balloon-expandable",
+   "concept": "balloon-expandable transcatheter valves (not recapturable) versus self-expanding ones",
+   "terms": [
+    "balloon-expandable",
+    "balloon expandable",
+    "balloon-expandable valve",
+    "balloon-expandable tavr",
+    "sapien"
+   ],
+   "symbol": "folded dentures CRIMPED ON A BALLOON at the end of the fishing line, popped open in one go when the balloon is blown up, never to be pulled back",
+   "anchors": [
+    "crimped on a balloon"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "a steel or cobalt frame is opened by a balloon and cannot be recaptured",
+    "place": "delivered up the catheter into the old valve"
+   },
+   "why": "dentures crimped on a balloon",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Fewer pacemakers than self-expanding valves (spring cage), more so when placed high; a low, oversized valve raises the risk.",
+   "firstUsed": "SESATS 12 81-90",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "fossa-ovalis",
+   "concept": "the fossa ovalis (the thin oval centre of the interatrial septum)",
+   "terms": [
+    "fossa ovalis",
+    "oval fossa",
+    "limbus of the fossa ovalis"
+   ],
+   "symbol": "an OVAL FOSSIL pressed into the middle of the upper party wall, the thinnest spot of the wall, where a door once stood",
+   "anchors": [
+    "oval fossil"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "FOSSA OVALIS = an OVAL FOSSIL",
+    "meaning": "the remnant of the fetal foramen ovale, the thinnest part of the septum",
+    "place": "the centre of the interatrial septum"
+   },
+   "why": "an oval fossil in the wall",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Myxomas grow on a stalk from its edge; a secundum ASD is a hole in it; the transseptal needle crosses it.",
+   "firstUsed": "SESATS 12 81-90",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "pheochromocytoma",
+   "concept": "pheochromocytoma and functional (catecholamine-secreting) paraganglioma, including cardiac ones",
+   "terms": [
+    "pheochromocytoma",
+    "phaeochromocytoma",
+    "catecholamine-secreting",
+    "catecholamine secreting",
+    "catecholamine-secreting tumor",
+    "catecholamine-secreting tumour"
+   ],
+   "symbol": "a hidden FIREWORK WORKSHOP inside a wall, packing fireworks and firing them into the pipes in bursts: the face flushes, sweat pours and the pressure gauge leaps",
+   "anchors": [
+    "firework workshop"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "a tumour pouring out adrenaline: hypertension, palpitations, sweating",
+    "place": "the adrenal or a paraganglion, in the heart usually the left atrial roof or the interatrial groove"
+   },
+   "why": "a workshop making the adrenaline fireworks",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Locate with MRI and MIBG; alpha blockade before beta blockade; never biopsy; resect with bypass ready.",
+   "firstUsed": "SESATS 12 81-90",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "pulsus-paradoxus",
+   "concept": "pulsus paradoxus (systolic pressure falls more than 10 mmHg on inspiration)",
+   "terms": [
+    "pulsus paradoxus",
+    "paradoxical pulse"
+   ],
+   "symbol": "a PAIR OF DUCKS bobbing on the pulse at the wrist, both diving under every time the patient breathes in",
+   "anchors": [
+    "pair of ducks"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "PARADOXus = a PAIR O' DUCKS",
+    "meaning": "the pulse weakens with each breath in",
+    "place": "felt at the wrist, measured on the cuff"
+   },
+   "why": "the ducks dive on every breath in",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Above all tamponade; also severe asthma, sometimes constriction.",
+   "firstUsed": "SESATS 12 81-90",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "dip-and-plateau",
+   "concept": "the dip-and-plateau (square root) sign and equalised diastolic pressures of constriction",
+   "terms": [
+    "dip and plateau",
+    "dip-and-plateau",
+    "square root sign",
+    "equalization of diastolic pressures",
+    "equalisation of diastolic pressures",
+    "diastolic equalization"
+   ],
+   "symbol": "a road that DIPS sharply and then runs flat along a high PLATEAU, its right and left lanes at exactly the same height",
+   "anchors": [
+    "dip and plateau"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "rapid early filling stopped short by a rigid shell; both ventricles end at the same high pressure",
+    "place": "on the simultaneous right and left heart pressure tracings"
+   },
+   "why": "the road dips, then a flat high plateau",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Constriction (boa constrictor) shows it with discordant respiratory pressures; restriction keeps the left lane higher.",
+   "firstUsed": "SESATS 12 81-90",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "ultrafiltration",
+   "concept": "ultrafiltration on bypass (conventional and modified) for blood conservation",
+   "terms": [
+    "ultrafiltration",
+    "modified ultrafiltration",
+    "conventional ultrafiltration",
+    "hemoconcentrator",
+    "haemoconcentrator",
+    "hemoconcentration",
+    "haemoconcentration"
+   ],
+   "symbol": "a fine ULTRA-FILTER, a FINE SIEVE on the pump truck squeezing clear water out of the blood, the blood running back thick and red",
+   "anchors": [
+    "fine sieve"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "ULTRAFILTRATION = an ultra-fine filter",
+    "meaning": "water is removed, the blood concentrated, fewer transfusions",
+    "place": "on the bypass circuit; modified = after bypass"
+   },
+   "why": "a sieve that leaves the blood thick",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Blood conservation also: a small prime (jug of clear water), lysine analogues, cell saver.",
+   "firstUsed": "SESATS 12 81-90",
+   "status": "approved",
+   "reason": "total 9/10, 3 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "vad-speed",
+   "concept": "LVAD pump speed (rpm) and suction events with leftward septal shift",
+   "terms": [
+    "pump speed",
+    "lvad speed",
+    "rpm",
+    "revolutions per minute",
+    "suction event",
+    "septal shift",
+    "leftward septal shift",
+    "ventricular suction"
+   ],
+   "symbol": "a SPEED DIAL on Darth Vader's chest plate; turned too high, his straw sucks the red engine room flat and drags its party wall over to the left",
+   "anchors": [
+    "speed dial"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "too much speed empties the LV, the septum shifts left, the RV fails and flow falls; too little and the LV swells",
+    "place": "the LVAD controller and the septum seen on echo"
+   },
+   "why": "Vader's speed dial",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Septum to the left with falling flow: turn the speed down, then treat the RV.",
+   "firstUsed": "SESATS 12 81-90",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "rv-failure",
+   "concept": "right ventricular failure (after LVAD, transplant, pulmonary hypertension or bypass)",
+   "terms": [
+    "rv failure",
+    "right ventricular failure",
+    "right heart failure",
+    "rv dysfunction",
+    "right ventricular dysfunction",
+    "acute rv failure"
+   ],
+   "symbol": "the blue engine room blown up into a SWOLLEN BLUE ROOM, its fan stalling and its party wall bulging into the red room while the chimney and drainpipe back up",
+   "anchors": [
+    "swollen blue room"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "a dilated, weak RV: high CVP, low flow into the left heart",
+    "place": "the right ventricle"
+   },
+   "why": "the blue room swollen and stalled",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Treat with inotropes (milrinone windmill, epinephrine fireworks), pulmonary vasodilators (nitro smoke), no more volume, and an RVAD if needed.",
+   "firstUsed": "SESATS 12 81-90",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "retrograde-perfusion",
+   "concept": "retrograde arterial perfusion through the femoral artery (and its risks: dissection, emboli)",
+   "terms": [
+    "retrograde arterial perfusion",
+    "retrograde perfusion",
+    "femoral arterial perfusion",
+    "retrograde aortic perfusion",
+    "femoral perfusion"
+   ],
+   "symbol": "the pump truck's hose pushed into the orca's tail and water forced UP FROM THE TAIL, backwards against the flow, lifting any loose flap inside",
+   "anchors": [
+    "up from the tail"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "blood runs backwards up the aorta: a diseased aorta can dissect or shower debris",
+    "place": "from the femoral artery up the iliac and aorta"
+   },
+   "why": "water pushed up from the tail",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "High line pressure with low flow at the start of femoral bypass = retrograde dissection: stop and recannulate centrally or axillary.",
+   "firstUsed": "SESATS 12 81-90",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "cerebral-oximetry",
+   "concept": "cerebral oximetry (near-infrared spectroscopy) during surgery",
+   "terms": [
+    "cerebral oximetry",
+    "near-infrared spectroscopy",
+    "nirs",
+    "cerebral saturation",
+    "cerebral saturations",
+    "cerebral oxygen saturations",
+    "rso2"
+   ],
+   "symbol": "a little FOREHEAD LIGHT METER clipped on the brow reading the glow of the head lantern; when the lantern dims, its needle drops",
+   "anchors": [
+    "forehead light meter"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "near-infrared light measures the oxygen in the brain",
+    "place": "sensors on the forehead"
+   },
+   "why": "a light meter on the forehead",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "A fall on bypass: check the cannulas (an SVC cannula blocking the head's drainage), pressure, flow, CO2 and haemoglobin.",
+   "firstUsed": "SESATS 12 81-90",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
   }
  ]
 }
