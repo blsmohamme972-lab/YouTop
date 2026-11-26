@@ -1,0 +1,83 @@
+book: sesats-12
+style: a stop-motion claymation look: chunky hand-made plasticine figures and sets with soft fingerprints in the clay, bright cheerful colours, soft studio light with gentle shadows, simple uncluttered sets, every object solid, rounded and instantly recognisable
+theme: the world of al-Jahiz in ninth-century Basra: the Mirbad market, the canals and date-palm groves, boats on the Shatt al-Arab, scholars, merchants and the animals of his Book of Animals; the physician Hunayn ibn Ishaq (grey beard, blue turban) is the recurring healer; stories end with a genuine line of al-Jahiz (Kitab al-Hayawan, al-Bayan wa al-Tabyin, al-Bukhala)
+
+== 249
+# Q: in Eisenmenger syndrome, besides low oxygen saturation, the strongest predictor of death? A: NYHA functional class
+# the young woman stopping on a low step of the Empire State stairs, a gold medal hung on the stairs, a coffin waiting at the foot = functional class predicts death -> ANSWER
+# the iceman pushing blue ice back through the hole, the blue lips, the gasping fish = Eisenmenger with reversed shunt, cyanosis, desaturation
+# a cake of candles, thick blue room walls and a silver nail file waved away = not age, RVH or vasodilator use (wrong options)
+title: Eisenmenger syndrome: functional class predicts survival
+titleAr: متلازمة آيزنمنغر: الدرجة الوظيفية تنبئ بالبقاء
+tags: cardiac/congenital d:evidence q:recall l:2
+palette: ice blue and stair grey with medal gold
+words:
+keywords: nyha -> a young woman climbing the stairs of the Empire State building, stopping breathless on a low step; eisenmenger -> an iceman pushing blue blocks of ice back through the hole in the party wall; cyanosis -> bright blue lips and fingertips; hypoxemia -> a gasping fish flopping on dry sand; mortality -> a coffin waiting at the foot of the stairs; rvh (no) -> the blue engine room with walls swollen into thick red muscle, waved away; sildenafil (no) -> a silver nail file, waved away; age (no) -> a cake crowded with candles, waved away; strongest -> a gold medal hung on the stairs; clubbing -> fingertips swollen like drumsticks; young woman -> a young woman in a turquoise shawl; breathless -> her hand on the rail, gasping
+anchor: the strongest predictor -> the young woman stopping breathless on a low step of the Empire State building's stairs, a gold medal hung on that step, a coffin waiting at the foot
+scene: A turquoise clay stairway. A young woman in a turquoise shawl, bright blue lips and fingertips swollen like drumsticks, climbs the stairs of the Empire State building beside the HART Hotel, where an iceman pushes blue blocks of ice back through the hole in the party wall; a gasping fish flops on dry sand at her feet. In the centre, in the strongest light: she stops breathless on a low step, her hand on the rail, gasping, a gold medal hung on that step and a coffin waiting at the foot of the stairs. The blue engine room with walls swollen into thick red muscle, a silver nail file and a cake crowded with candles are waved away.
+must: no letters or digits are written anywhere
+
+== 250
+# Q: six-month-old ex-premature infant (30 weeks) with bronchopulmonary dysplasia and failure to thrive; ASD with a dilated RV, mild TR, RV pressure 40: next step? A: surgical ASD closure now
+# Hunayn sewing a patch over the hole in the upper party wall while a rooster crows at dawn = surgical closure now -> ANSWER
+# the baby in the incubator, the flat growth line, the scarred little money sacks = prematurity, failure to thrive, BPD
+# the hole spilling red water into the big blue room, a dripping trident, a cap and a whistle painted on it = ASD with RV dilatation, mild TR, RV pressure 40
+# a silver nail file, cufflinks and a bottle with a calendar waved away = not sildenafil, a device in a tiny baby, or feeding and waiting (wrong options)
+title: ASD in a failing premature infant: close it surgically now
+titleAr: فتحة بين الأذينين عند رضيع خديج لا ينمو: أغلقها جراحيًا الآن
+tags: cardiac/congenital d:indications q:next-step l:2
+palette: incubator mint and dawn rose with patch white
+words:
+keywords: asd -> a hole in the thin upper party wall, red water spilling through it into the blue lobby; patch closure -> Hunayn sewing a patch over the hole; now -> a rooster crowing at dawn; prematurity -> a tiny baby in a warm glass incubator; failure to thrive -> a growth chart on the wall whose line lies flat, a flat growth line; bpd -> the baby's tiny money sacks scarred and stiff; big blue room -> the blue engine room stretched large; tricuspid -> a trident in the blue doorway dripping a little; number 40 (RV pressure, mmHg) -> a small painting on the trident's shaft: a graduation cap and a golden whistle; sildenafil (no) -> a silver nail file, waved away; device closure (no) -> a pair of round silver cufflinks, waved away; wait (no) -> a feeding bottle and a calendar, waved away
+anchor: the best next step -> the physician Hunayn sewing a patch over the hole in the upper party wall of the tiny baby's hotel while a rooster crows at dawn
+scene: A mint-green clay nursery at dawn. A tiny baby lies in a warm glass incubator, a growth chart on the wall beside it whose line lies flat, its tiny money sacks scarred and stiff. Beside it the baby's cut-open HART Hotel: a hole in the thin upper party wall spills red water into the blue lobby, the blue engine room is stretched large, and a trident in the blue doorway drips a little, a small painting of a graduation cap and a golden whistle on its shaft. In the centre, in the strongest light: the physician Hunayn ibn Ishaq sews a patch over the hole while a rooster crows at dawn. A silver nail file, a pair of round silver cufflinks, and a feeding bottle with a calendar are waved away.
+must: no letters or digits are written anywhere
+
+== 251
+# Q: the most common complication after closing a large secundum ASD in a child? A: post-pericardiotomy syndrome
+# the aquarium in a hot red dress, steaming with fever, rubbing like sandpaper, water rising between glass and hotel a week after the patch = post-pericardiotomy syndrome -> ANSWER
+# the clock in the upper party wall, now patched = secundum ASD closed
+# the crocus with a little chick cooling the aquarium = colchicine treats it
+# bunting flags, a raised drawbridge and red doughnuts waved away = not atrial flutter, heart block or transfusion infection (wrong options)
+title: After ASD closure in a child: post-pericardiotomy syndrome is the commonest complication
+titleAr: بعد إغلاق فتحة بين الأذينين عند الطفل: متلازمة ما بعد بضع التامور أشيع المضاعفات
+tags: cardiac/congenital cardiac/perioperative d:complications q:recall l:1 x:high-yield
+palette: fever red and crocus purple with clock brass
+words:
+keywords: post-pericardiotomy syndrome -> the aquarium wearing a hot red dress, steaming with fever; secundum -> a round clock with a sweeping second hand in the middle of the upper party wall, now patched; asd -> the hole in the upper party wall, closed with a patch; colchicine -> a purple autumn crocus with a little chick in it, cooling the aquarium; fever -> a child with a hot brow; rub -> the dress rubbing on the hotel like sandpaper; fluid round -> water rising between the glass and the hotel; a week later -> a row of candles burnt down; atrial flutter (no) -> sawtooth bunting flags, waved away; heart block (no) -> a raised drawbridge, waved away; transfusion (no) -> red doughnuts with germs on them, waved away; child -> a little boy with a kite
+anchor: the commonest complication -> the hotel's aquarium wearing a hot red dress, steaming with fever and rubbing like sandpaper, water rising inside it a week after the patch
+scene: A clay rooftop with kites. A little boy with a kite and a hot brow lies beside his HART Hotel; a row of candles has burnt down. A round clock with a sweeping second hand in the middle of the upper party wall is now patched. In the centre, in the strongest light: the aquarium round the hotel wears a hot red dress, steaming with fever and rubbing on the hotel like sandpaper, water rising between the glass and the hotel, while a purple autumn crocus with a little chick in it cools it. Sawtooth bunting flags, a raised drawbridge and red doughnuts with germs on them are waved away.
+must: no letters or digits are written anywhere
+
+== 252
+# Q: toddler (21 months) with a holosystolic murmur, no heart failure, weight at the 10th percentile, left axis deviation; echo and CXR shown; pulmonary valve gradient 30: best management? A: modified one-patch repair and cleft closure
+# Hunayn stitching the valve's leaves down onto the crest of the lower party wall with one patch above, and sewing the split in the cleft mitre = modified single-patch repair with cleft closure -> ANSWER
+# the prime rib in the hole at the bottom of the upper party wall, the cross-shaped hole = primum ASD, partial AVSD
+# the weather vane swung left, water gurgling through the cleft = left axis deviation, MR from the cleft
+# the rushing money pipe = a flow gradient, not true pulmonary stenosis
+# cufflinks and an hourglass waved away = not device closure with valvotomy, not waiting until four (wrong options)
+title: Partial AVSD with a mitral cleft: modified single-patch repair and cleft closure
+titleAr: قناة أذينية بطينية جزئية مع شق في الصمام التاجي: رقعة واحدة معدّلة وإغلاق الشق
+tags: cardiac/congenital d:technique q:next-step l:3
+palette: weather-vane copper and mitre gold with patch white
+words:
+keywords: modified single-patch -> the valve's leaves stitched down onto the crest of the lower party wall, leaves stitched down, one patch sewn above them; cleft mitral -> the bishop's mitre split down its front leaf, a cleft mitre, its split being sewn shut; primum -> a prime rib roast in a hole at the very bottom of the upper party wall; avsd -> a big cross-shaped hole where the upper and lower party walls meet; left axis -> a weather vane on the hotel roof swung up and to the left; regurgitation -> water gurgling back through the cleft; rushing pipe -> water rushing fast through a wide money pipe; device closure (no) -> a pair of round silver cufflinks, waved away; watchful waiting (no) -> an hourglass, waved away; toddler -> a small toddler playing happily; low weight -> a short notch on the door frame among taller ones; murmur -> a soft whisper heard through a brass listening tube; threaded -> Hunayn's needle threaded
+anchor: the best management -> the physician Hunayn stitching the valve's leaves down onto the crest of the lower party wall with one patch above, and sewing shut the split in the cleft mitre
+scene: A copper-roofed clay house, a weather vane on its roof swung up and to the left. A small toddler, a short notch on the door frame among taller ones, plays happily beside the cut-open HART Hotel, a soft whisper heard through a brass listening tube held to his chest. A big cross-shaped hole lies where the upper and lower party walls meet, a prime rib roast in a hole at the very bottom of the upper party wall; the bishop's mitre is split down its front leaf, water gurgling back through the cleft, and water rushes fast through a wide money pipe. In the centre, in the strongest light: the physician Hunayn ibn Ishaq, his needle threaded, stitches the valve's leaves down onto the crest of the lower party wall with one patch sewn above them, and sews shut the split in the cleft mitre. A pair of round silver cufflinks and an hourglass are waved away.
+must: no letters or digits are written anywhere
+
+== 253
+# Q: closing a large VSD in a toddler through the right atrium: two VSDs, a perimembranous one above and an inlet muscular one below, separated by a thin muscle bar: where is the conduction system? A: in the muscle bar
+# the crackling branches running down through the thin bar of brick between the two holes, the stitches kept away from it = the conduction tissue runs in the muscle bar -> ANSWER
+# the torn drum skin above, a second hole below in the brick wall = perimembranous and inlet muscular VSDs
+# the knot at the top of the branches, the drawbridge rattling = AV node; heart block if the bar is stitched
+# the trident's leaf base, the top edge and the lower edge waved away = not at the septal leaflet base or the rims (wrong options)
+title: Two VSDs separated by a muscle bar: the conduction system runs in the bar
+titleAr: فتحتان في الحاجز البطيني يفصلهما جسر عضلي: الجهاز الناقل يمر في الجسر
+tags: cardiac/congenital cardiac/foundations d:anatomy q:recall l:3 x:trap
+palette: brick red and spark yellow with drum-skin cream
+words:
+keywords: conduction -> a bundle of crackling branches running down through the thin bar of brick between the two holes; muscle bar -> a thin bar of brick between two holes; perimembranous -> a small thin drum skin in the party wall, torn; inlet vsd -> a second ragged hole lower in the thick brick lower party wall; av node -> a big tight knot at the top of the crackling branches; heart block -> a drawbridge rattling, ready to rise; atriotomy -> a door opened in the blue lobby, Hunayn looking through; stitches away -> stitches placed well away from the bar; septal leaf (no) -> the base of the trident's leaf, waved away; top edge (no) -> the top edge of the upper hole, waved away; lower edge (no) -> the lower edge of the lower hole, waved away; toddler -> a toddler holding a clay camel
+anchor: where the conduction runs -> a bundle of crackling branches running down through the thin bar of brick between the two holes, the stitches placed well away from it
+scene: A brick-red clay house. A toddler holding a clay camel lies beside the cut-open HART Hotel; the physician Hunayn looks through a door opened in the blue lobby at the lower party wall, where a small thin drum skin is torn above and a second ragged hole lies lower in the thick brick wall. A big tight knot sits at the top of the crackling branches, and a drawbridge rattles, ready to rise. In the centre, in the strongest light: a bundle of crackling branches runs down through the thin bar of brick between the two holes, and the stitches are placed well away from it. The base of the trident's leaf, the top edge of the upper hole and the lower edge of the lower hole are waved away.
+must: no letters or digits are written anywhere

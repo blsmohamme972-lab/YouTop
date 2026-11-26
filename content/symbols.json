@@ -16631,6 +16631,486 @@
    "status": "approved",
    "reason": "total 10/10, 3 layers",
    "audited": "2026-11-26"
+  },
+  {
+   "id": "amyloid",
+   "concept": "cardiac amyloidosis and restrictive (infiltrative) cardiomyopathy",
+   "terms": [
+    "amyloidosis",
+    "cardiac amyloidosis",
+    "amyloid",
+    "amyloid cardiomyopathy",
+    "restrictive cardiomyopathy",
+    "infiltrative cardiomyopathy",
+    "restrictive physiology"
+   ],
+   "symbol": "the engine-room walls stuffed thick with glittering WAXY STARCH paste, stiff and unable to stretch, the rooms small inside",
+   "anchors": [
+    "waxy starch"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "amyloid (starch-like) protein stiffens the heart muscle itself: restriction, not constriction",
+    "place": "inside the myocardium, not the pericardium"
+   },
+   "why": "amylon = starch: the walls stuffed with starch",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Mimics constriction but pericardiectomy does not help: a contraindication. Low-voltage ECG with thick walls.",
+   "firstUsed": "SESATS 12 121-253",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "s3-gallop",
+   "concept": "third heart sound (S3 gallop)",
+   "terms": [
+    "third heart sound",
+    "s3",
+    "s3 gallop",
+    "gallop rhythm",
+    "ventricular gallop"
+   ],
+   "symbol": "a GALLOPING HORSE whose hooves beat three times instead of two, a heavy extra third beat as the rooms fill",
+   "anchors": [
+    "galloping horse"
+   ],
+   "kind": "sound + meaning",
+   "layers": {
+    "sound": "S3 GALLOP = a galloping horse's third beat",
+    "meaning": "rapid early filling of a stiff or overfull ventricle"
+   },
+   "why": "a horse's three-beat gallop",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "In constriction the early sharp sound is the pericardial knock.",
+   "firstUsed": "SESATS 12 121-253",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "kussmaul",
+   "concept": "Kussmaul's sign (venous pressure rising on inspiration)",
+   "terms": [
+    "kussmaul sign",
+    "kussmaul's sign",
+    "kussmaul",
+    "inspiratory rise in jugular",
+    "inspiratory rise in venous pressure"
+   ],
+   "symbol": "a lipstick KISS MARK on the neck, the vein under it swelling up each time the patient breathes in",
+   "anchors": [
+    "kiss mark"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "KUSSmaul = German Kuss, a kiss",
+    "meaning": "the jugular pressure rises instead of falling on inspiration",
+    "place": "the neck veins"
+   },
+   "why": "a kiss on the neck that swells with each breath in",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Constriction above all; also restrictive disease and RV failure. Usually absent in tamponade.",
+   "firstUsed": "SESATS 12 121-253",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "congestive-hepatopathy",
+   "concept": "congestive hepatopathy (the liver congested by high right-sided pressure; cardiac cirrhosis)",
+   "terms": [
+    "congestive hepatopathy",
+    "hepatic congestion",
+    "liver congestion",
+    "cardiac cirrhosis",
+    "hepatic dysfunction",
+    "congested liver"
+   ],
+   "symbol": "a swollen purple liver loaf SOAKED LIKE A SPONGE in backed-up water from the chimney and drainpipe",
+   "anchors": [
+    "soaked like a sponge"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "high right atrial pressure backs into the liver: swelling, abnormal tests, in the end cirrhosis",
+    "place": "the liver, below the drainpipe"
+   },
+   "why": "the liver soaks up the backed-up water",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Constriction, tricuspid disease, failing Fontan. Advanced cirrhosis weighs against transplant alone.",
+   "firstUsed": "SESATS 12 121-253",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "pra",
+   "concept": "panel reactive antibodies and HLA sensitisation before transplant",
+   "terms": [
+    "panel reactive antibodies",
+    "pra",
+    "sensitization",
+    "sensitisation",
+    "allosensitization",
+    "hla antibodies",
+    "donor-specific antibodies",
+    "sensitized"
+   ],
+   "symbol": "the white soldier ants already holding up a PANEL OF WANTED POSTERS of many strangers' faces, ready to attack any heart that looks like them",
+   "anchors": [
+    "wanted posters"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "pre-formed antibodies against many donors' HLA: fewer matches, more rejection",
+    "place": "in the recipient's blood"
+   },
+   "why": "a panel of wanted posters",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Raised by transfusion, pregnancy, earlier transplant and VADs. A virtual crossmatch is needed when high.",
+   "firstUsed": "SESATS 12 121-253",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "ascites",
+   "concept": "ascites (fluid in the abdomen)",
+   "terms": [
+    "ascites",
+    "abdominal ascites",
+    "peritoneal effusion",
+    "abdominal fluid"
+   ],
+   "symbol": "a belly swollen like a water jar, a WATER-JAR BELLY sloshing when tapped",
+   "anchors": [
+    "belly swollen like a water jar",
+    "water-jar belly"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "fluid collects in the abdomen from high venous pressure or liver disease",
+    "place": "the peritoneal cavity"
+   },
+   "why": "a belly like a water jar",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "With raised neck veins: think of constriction, tricuspid disease or a failing Fontan.",
+   "firstUsed": "SESATS 12 121-253",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "edema",
+   "concept": "peripheral oedema (swelling of the legs and ankles)",
+   "terms": [
+    "edema",
+    "oedema",
+    "peripheral edema",
+    "peripheral oedema",
+    "pitting edema",
+    "pitting oedema",
+    "ankle swelling",
+    "pedal edema",
+    "leg swelling"
+   ],
+   "symbol": "ankles swollen like RISING DOUGH, a fingertip leaving a dent that slowly fills",
+   "anchors": [
+    "rising dough"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "fluid in the tissues from high venous pressure or low protein",
+    "place": "the ankles and shins"
+   },
+   "why": "ankles rising like dough",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "SESATS 12 121-253",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "sildenafil",
+   "concept": "sildenafil and other PDE-5 inhibitors (pulmonary vasodilators)",
+   "terms": [
+    "sildenafil",
+    "tadalafil",
+    "pde5 inhibitor",
+    "pde-5 inhibitor",
+    "phosphodiesterase-5 inhibitor",
+    "phosphodiesterase 5 inhibitor"
+   ],
+   "symbol": "a SILVER NAIL FILE filing the narrow money pipes wider",
+   "anchors": [
+    "silver nail file"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "silde-NAFIL = a silver NAIL FILE",
+    "meaning": "an oral drug that widens the lung arteries",
+    "place": "the pulmonary arteries"
+   },
+   "why": "a nail file widening the pipes",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Treats pulmonary hypertension; it does not fix a shunt that causes it.",
+   "firstUsed": "SESATS 12 121-253",
+   "status": "approved",
+   "reason": "total 9/10, 3 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "prematurity",
+   "concept": "prematurity (preterm birth) and the premature infant",
+   "terms": [
+    "premature",
+    "prematurity",
+    "preterm",
+    "premature infant",
+    "born prematurely",
+    "preterm infant",
+    "premature birth"
+   ],
+   "symbol": "a tiny baby in a warm glass INCUBATOR, still far too small",
+   "anchors": [
+    "incubator"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "born early: small, fragile lungs and vessels, more risk at surgery",
+    "place": "the neonatal unit"
+   },
+   "why": "the incubator baby",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Often with bronchopulmonary dysplasia (scarred little lungs) and a PDA.",
+   "firstUsed": "SESATS 12 121-253",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "failure-to-thrive",
+   "concept": "failure to thrive (poor weight gain) in a child with heart disease",
+   "terms": [
+    "failure to thrive",
+    "poor weight gain",
+    "growth failure",
+    "faltering growth",
+    "poor growth"
+   ],
+   "symbol": "a thin baby on a weighing pan beside a growth chart on the wall whose line lies FLAT, a FLAT GROWTH LINE",
+   "anchors": [
+    "flat growth line"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the heart's extra work burns the calories; weight stops climbing",
+    "place": "the child's growth chart"
+   },
+   "why": "the growth line goes flat",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "An indication to repair a shunt now rather than wait.",
+   "firstUsed": "SESATS 12 121-253",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "cleft-mitral",
+   "concept": "cleft of the anterior mitral leaflet (as in partial AVSD) and its closure",
+   "terms": [
+    "cleft mitral valve",
+    "mitral cleft",
+    "cleft anterior mitral leaflet",
+    "cleft of the mitral valve",
+    "cleft closure",
+    "cleft mitral",
+    "left av valve cleft"
+   ],
+   "symbol": "the bishop's mitre SPLIT down the middle of its front leaf, a CLEFT MITRE that leaks through the gap",
+   "anchors": [
+    "cleft mitre"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "a split in the left AV valve's front leaflet: regurgitation",
+    "place": "the left AV valve of an atrioventricular septal defect"
+   },
+   "why": "a split mitre",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Close it at AVSD repair (with the primum hole).",
+   "firstUsed": "SESATS 12 121-253",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "left-axis",
+   "concept": "left (superior) axis deviation on the ECG",
+   "terms": [
+    "left axis deviation",
+    "superior axis",
+    "left axis",
+    "superior frontal axis",
+    "left anterior hemiblock"
+   ],
+   "symbol": "a WEATHER VANE on the hotel roof swung up and to the LEFT",
+   "anchors": [
+    "weather vane"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the electrical axis points up and left: AVSD, tricuspid atresia, left anterior hemiblock",
+    "place": "the ECG's view of the heart from above"
+   },
+   "why": "the vane points left",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "A primum ASD (AVSD) gives a left axis; a secundum ASD a right axis.",
+   "firstUsed": "SESATS 12 121-253",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "modified-single-patch",
+   "concept": "modified single-patch (Australian, Nunn) and other patch repairs of an atrioventricular septal defect",
+   "terms": [
+    "modified one-patch",
+    "modified single-patch",
+    "modified single patch",
+    "one-patch repair",
+    "single-patch repair",
+    "australian technique",
+    "nunn technique",
+    "two-patch repair",
+    "two-patch"
+   ],
+   "symbol": "the cross-shaped hole closed by LEAVES STITCHED DOWN onto the crest of the lower party wall, one patch sewn above them to close the upper hole",
+   "anchors": [
+    "leaves stitched down"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the common valve's leaflets are sewn straight down to the ventricular crest; one patch closes the atrial part",
+    "place": "the crux of an AVSD"
+   },
+   "why": "the leaves stitched down",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Two-patch: a separate patch for the VSD. Keep the stitches clear of the conduction tissue at the crux.",
+   "firstUsed": "SESATS 12 121-253",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "colchicine",
+   "concept": "colchicine (for pericarditis and post-pericardiotomy syndrome)",
+   "terms": [
+    "colchicine"
+   ],
+   "symbol": "a purple autumn CROCUS with a little CHICK nestled in it, cooling the red-dressed aquarium",
+   "anchors": [
+    "crocus with a little chick"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "colCHICine = a CHICK; it comes from the autumn crocus (Colchicum)",
+    "meaning": "calms pericardial inflammation and prevents recurrence",
+    "place": "given for the pericardium"
+   },
+   "why": "a chick in the crocus",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "With NSAIDs for pericarditis; steroids (stereo turned down) only when these fail.",
+   "firstUsed": "SESATS 12 121-253",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-26"
   }
  ]
 }
