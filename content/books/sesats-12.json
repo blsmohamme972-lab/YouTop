@@ -1,0 +1,20 @@
+{
+  "id": "sesats-12",
+  "short": "sesats12",
+  "sourceLabel": "SESATS 12",
+  "questions": 394,
+  "chapterSize": 100,
+  "author": "المتنبي",
+  "theme": "the world of al-Mutanabbi in the tenth century: Aleppo and the court of Sayf al-Dawla, horsemen, caravans, the desert and the frontier forts; the physician al-Razi (grey beard, scholar's turban) is the recurring healer; stories end with a genuine line of al-Mutanabbi spoken by one of the characters",
+  "soundAlikes": true,
+  "imagesFolder": "1IaIHTHAnheE6ATP0Q954OpXWjeLVOHba",
+  "masters": {
+    "sesats-12-2017-325-q.jsonl": "1iRy1YLjXw7FaSWRajDIzdA_gngj1HOvD"
+  },
+  "numbering": "Only the heart questions are made into lessons (the owner, 2026-11-24 and 2026-11-26): adult cardiac 1-125, congenital 249-333 (not 324) and the cardiac items of the critical-care part 334-394, keeping the book's numbers. Figures: 14, 18, 31, 33, 36, 52, 56, 69, 70, 71 (images-1/2/3.zip in the book's Drive folder).",
+  "style": "a bold, clean-lined European comic-book illustration in the ligne claire tradition: crisp even black outlines, flat bright colours, clear daylight, uncluttered backgrounds, expressive characters, every object solid, simple and instantly recognisable",
+  "quoteRepeats": {
+    "max": 3,
+    "gap": 20
+  }
+}
