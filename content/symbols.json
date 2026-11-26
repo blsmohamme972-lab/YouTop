@@ -18817,6 +18817,342 @@
    "status": "approved",
    "reason": "total 8/10, 2 layers",
    "audited": "2026-11-26"
+  },
+  {
+   "id": "rastelli",
+   "concept": "the Rastelli operation (VSD tunnelled to the aorta, RV-PA conduit)",
+   "terms": [
+    "rastelli",
+    "rastelli procedure",
+    "rastelli operation",
+    "rastelli repair"
+   ],
+   "symbol": "a RASTA-HAIRED BUILDER laying a curved tunnel inside the blue room from the party-wall hole to the orca, and a waterslide tube outside to the money pipe",
+   "anchors": [
+    "rasta-haired builder"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "RASTElli = a RASTA builder",
+    "meaning": "LV to aorta through the VSD, RV to PA by a conduit: for TGA or DORV with VSD and PS",
+    "place": "inside the RV and out to the pulmonary arteries"
+   },
+   "why": "the rasta builder lays tunnel and tube",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Poor results with RV hypoplasia, a remote VSD, or straddling chords; the conduit needs replacing.",
+   "firstUsed": "SESATS 12 294-303",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "nikaidoh",
+   "concept": "the Nikaidoh operation (aortic root translocation with biventricular outflow reconstruction)",
+   "terms": [
+    "nikaidoh",
+    "nikaidoh procedure",
+    "aortic translocation",
+    "aortic root translocation"
+   ],
+   "symbol": "a winged NIKE statue lifting the orca's root out and carrying it back onto a new seat over both engine rooms",
+   "anchors": [
+    "winged nike"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "NIKaidoh = NIKE",
+    "meaning": "the aortic root is moved back over the LV outflow; the RVOT is rebuilt",
+    "place": "the aortic root and both outflow tracts"
+   },
+   "why": "Nike carries the root",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "For TGA or DORV with VSD and LVOT obstruction, an alternative to Rastelli.",
+   "firstUsed": "SESATS 12 294-303",
+   "status": "approved",
+   "reason": "total 9/10, 3 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "intraventricular-tunnel",
+   "concept": "intraventricular tunnel (baffle) repair of DORV",
+   "terms": [
+    "intraventricular tunnel",
+    "intraventricular baffle",
+    "ventricular tunnel",
+    "lv-to-aorta tunnel",
+    "intraventricular repair",
+    "vsd closure with intraventricular tunnel"
+   ],
+   "symbol": "a curved TUNNEL OF PATCH inside the blue engine room leading from the hole in the lower party wall to the orca's mouth",
+   "anchors": [
+    "tunnel of patch"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the LV is led through the VSD to the aorta inside the RV",
+    "place": "within the right ventricle, DORV"
+   },
+   "why": "a patch tunnel inside the room",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "With a subaortic VSD and no PS it is a VSD closure; with subpulmonary stenosis add muscle-bundle resection (TOF-type).",
+   "firstUsed": "SESATS 12 294-303",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "double-switch",
+   "concept": "the double switch operation for congenitally corrected TGA (atrial switch plus arterial switch, or Rastelli)",
+   "terms": [
+    "double switch",
+    "double-switch",
+    "double switch operation",
+    "senning-arterial switch",
+    "mustard-arterial switch",
+    "atrial and arterial switch"
+   ],
+   "symbol": "TWO SWITCH LEVERS pulled at once by the switchman: the lobby streams crossed with mustard and the orca and money pipe swapped",
+   "anchors": [
+    "two switch levers"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "makes the morphologic LV systemic again in ccTGA",
+    "place": "at atrial and arterial level"
+   },
+   "why": "two levers, two switches",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Needs a trained LV: band the PA first if the LV is deconditioned.",
+   "firstUsed": "SESATS 12 294-303",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "lv-retraining",
+   "concept": "LV retraining (pulmonary artery banding to prepare the LV for systemic work)",
+   "terms": [
+    "lv retraining",
+    "left ventricular retraining",
+    "lv training",
+    "retraining the left ventricle",
+    "ventricular retraining"
+   ],
+   "symbol": "a belt on the money pipe making the red engine room's fan lift a DUMBBELL, getting stronger like at a gym",
+   "anchors": [
+    "dumbbell"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "a PA band raises LV pressure so it thickens before a switch; in ccTGA it also moves the septum and lessens TR",
+    "place": "the pulmonary trunk band and the LV"
+   },
+   "why": "the fan lifts weights",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "SESATS 12 294-303",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "systemic-rv",
+   "concept": "the systemic right ventricle and its tricuspid regurgitation (ccTGA, after Mustard or Senning)",
+   "terms": [
+    "systemic right ventricle",
+    "systemic rv",
+    "systemic tricuspid regurgitation",
+    "systemic av valve regurgitation",
+    "systemic ventricular failure",
+    "systemic tricuspid valve"
+   ],
+   "symbol": "the BLUE ROOM PUSHING THE ORCA: the blue engine room doing the red one's heavy work, its walls tiring and its trident leaking",
+   "anchors": [
+    "blue room pushing the orca"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "a right ventricle and tricuspid valve made to carry the systemic load: they fail over time",
+    "place": "the morphologic RV in the systemic position"
+   },
+   "why": "the blue room pushes the orca",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "TR is the first sign; act early (band, double switch, valve).",
+   "firstUsed": "SESATS 12 294-303",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "nec",
+   "concept": "necrotising enterocolitis (pneumatosis intestinalis) in a neonate",
+   "terms": [
+    "necrotizing enterocolitis",
+    "necrotising enterocolitis",
+    "nec",
+    "pneumatosis intestinalis",
+    "pneumatosis"
+   ],
+   "symbol": "the gut spaghetti with tiny gas BUBBLES IN THE SPAGHETTI strands, the plate going grey",
+   "anchors": [
+    "bubbles in the spaghetti"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the starved gut wall dies and fills with gas; a sign of low systemic flow",
+    "place": "the bowel"
+   },
+   "why": "bubbles inside the strands",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "In HLHS with high saturations: pulmonary overcirculation steals systemic flow; band the PAs.",
+   "firstUsed": "SESATS 12 294-303",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "branch-pa-stenosis",
+   "concept": "branch pulmonary artery stenosis (LPA, RPA)",
+   "terms": [
+    "branch pulmonary artery stenosis",
+    "branch pa stenosis",
+    "lpa stenosis",
+    "rpa stenosis",
+    "pulmonary artery branch stenosis",
+    "peripheral pulmonary stenosis",
+    "left pulmonary artery stenosis",
+    "right pulmonary artery stenosis"
+   ],
+   "symbol": "a money-pipe branch pinched by a wooden CLOTHES-PEG",
+   "anchors": [
+    "clothes-peg"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "a narrowed branch PA: uneven lung flow, higher pressures (bad for a Fontan)",
+    "place": "a pulmonary artery branch"
+   },
+   "why": "a peg pinching a branch",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Treat at the next operation (patch or intraoperative stent).",
+   "firstUsed": "SESATS 12 294-303",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "fontan-conversion",
+   "concept": "Fontan conversion (atriopulmonary to extracardiac Fontan, with arrhythmia surgery)",
+   "terms": [
+    "fontan conversion",
+    "fontan revision",
+    "conversion of the fontan",
+    "fontan conversion with maze"
+   ],
+   "symbol": "a plumber replacing the stone fountain's swollen old basin with a straight PIPE OUTSIDE THE WALL",
+   "anchors": [
+    "pipe outside the wall"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the dilated right atrium is taken out of the circuit (extracardiac conduit), with a maze and often a pacemaker",
+    "place": "the old atriopulmonary connection"
+   },
+   "why": "a new pipe outside the wall",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "For atrial arrhythmias and a giant RA in an old atriopulmonary Fontan with good ventricular function.",
+   "firstUsed": "SESATS 12 294-303",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "neurodevelopment",
+   "concept": "neurodevelopmental outcome after congenital heart surgery",
+   "terms": [
+    "neurodevelopmental outcome",
+    "neurodevelopmental outcomes",
+    "neurodevelopment",
+    "developmental delay",
+    "neurocognitive outcome",
+    "neurodevelopmental"
+   ],
+   "symbol": "a little CHILD STACKING BLOCKS beside the head lantern, the tower rising",
+   "anchors": [
+    "child stacking blocks"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "how the child's brain develops: learning, movement, behaviour",
+    "place": "the head lantern"
+   },
+   "why": "blocks stacked as the child learns",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Hardly changed by the choice of shunt in the Norwood.",
+   "firstUsed": "SESATS 12 294-303",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
   }
  ]
 }
