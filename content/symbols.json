@@ -12511,6 +12511,38 @@
    "status": "approved",
    "reason": "total 8/10, 2 layers",
    "audited": "2026-11-26"
+  },
+  {
+   "id": "warden",
+   "concept": "Warden procedure for a superior sinus venosus defect with high anomalous pulmonary veins (divide the SVC above them, join its top to the right atrial appendage, baffle the lower SVC to the left atrium)",
+   "terms": [
+    "warden procedure",
+    "warden operation",
+    "warden repair",
+    "warden"
+   ],
+   "symbol": "a prison WARDEN with a big ring of keys cutting the blue wing's chimney above the water taps, leading its upper half down into the little side porch of the blue lobby, and locking a door so the lower half of the chimney, with the taps, empties only through the hole into the red lobby",
+   "anchors": [
+    "warden"
+   ],
+   "kind": "sound + meaning",
+   "layers": {
+    "sound": "WARDEN = a prison warden",
+    "meaning": "he re-routes and locks: the top of the chimney to the right atrium, the bottom (with the pulmonary veins) to the left atrium"
+   },
+   "why": "the warden decides who goes where: the cut chimney's top half to the blue side, its bottom half with the taps to the red side",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 1,
+    "sticky": 2
+   },
+   "notes": "Use when the anomalous veins enter the SVC high above the cavoatrial junction. For low entry a patch baffle alone is enough. The water taps are the anomalous pulmonary veins (tapvc symbol).",
+   "firstUsed": "SESAT 13 289",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
   }
  ]
 }
