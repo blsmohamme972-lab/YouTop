@@ -105,7 +105,7 @@ def book_config(book):
 def batch_config(head):
     """The book's config, with the batch file's own 'style:' (and 'theme:') lines in place of the book's: the owner
     (2026-11-26) wants a new picture style and quotation source for every hundred lessons, chosen by the agent."""
-    cfg = batch_config(head)
+    cfg = book_config(head["book"])
     return dict(cfg, **{k: head[k] for k in ("style", "theme") if head.get(k)})
 
 
