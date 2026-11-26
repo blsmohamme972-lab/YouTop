@@ -1,0 +1,165 @@
+book: sesats-12
+style: a stop-motion claymation look: chunky hand-made plasticine figures and sets with soft fingerprints in the clay, bright cheerful colours, soft studio light with gentle shadows, simple uncluttered sets, every object solid, rounded and instantly recognisable
+theme: the world of al-Jahiz in ninth-century Basra: the Mirbad market, the canals and date-palm groves, boats on the Shatt al-Arab, scholars, merchants and the animals of his Book of Animals; the physician Hunayn ibn Ishaq (grey beard, blue turban) is the recurring healer; stories end with a genuine line of al-Jahiz (Kitab al-Hayawan, al-Bayan wa al-Tabyin, al-Bukhala)
+
+== 101
+# Q: young patient, redo for a degenerated aortic homograft with severe AR; femoral vessels exposed; during dissection the heart fibrillates and cannot be defibrillated; on femoral bypass the LV distends: next step? A: place a transapical LV vent
+# a woodpecker drilling in at the tip of the swelling red engine room and fitting a hissing relief pipe = transapical LV vent -> ANSWER
+# Pinocchio trembling inside the red room, the jumper cables failing again = VF that will not defibrillate
+# the worn freezer mouth gushing water back into the red room = degenerated homograft with severe AR filling the LV
+# the barnacled stern with only a corner peeled free, the cannons in the thigh pipe = redo, little dissected, femoral bypass
+# the pump's tap turned down waved away = not lower flow (wrong option)
+title: Fibrillating, distended LV at a redo that cannot be defibrillated: vent it through the apex
+titleAr: بطين أيسر راجف ومتمدد في إعادة العملية لا يستجيب لإزالة الرجفان: افتح منفسًا عبر القمة
+tags: cardiac/cpb cardiac/aortic-valve d:complications q:next-step l:3 x:trap
+palette: clay orange and freezer blue with spark yellow
+words:
+keywords: lv vent -> a hissing relief pipe fitted into the tip of the red engine room; transapical -> a woodpecker drilling a small hole at the pointed tip of the red engine room; swelling room -> the red engine room swelling like a balloon; ventricular fibrillation -> Pinocchio trembling wildly inside the red engine room, its fan only shivering; defibrillation -> a car's sparking jumper cables clamped to the hotel, failing again; homograft -> a donor's orca mouth from a frosty freezer, now worn and grey; aortic regurgitation -> the orca's sagging mouth gushing water back into the red room; redo sternotomy -> the ship's stern crusted with barnacles, opened again; femoral -> brass cannons in the red pipe beside the long white thigh bone; corner free -> only one corner of the hotel peeled free of the barnacles; cautery -> a little hot branding iron touching the hotel; lower flow (no) -> the pump's tap turned down, waved away; boatman -> a young boatman of the Shatt
+anchor: the best next step -> a woodpecker drilling in at the tip of the swelling red engine room and fitting a hissing relief pipe, so the trembling room empties
+scene: A clay boatyard on the Shatt al-Arab. A young boatman lies beside the HART Hotel, its ship's stern crusted with barnacles and opened again, only one corner of the hotel peeled free of them, a little hot branding iron touching it. Brass cannons sit in the red pipe beside the long white thigh bone. A donor's orca mouth from a frosty freezer, now worn and grey, sags and gushes water back into the red engine room, which swells like a balloon while Pinocchio trembles wildly inside it; a car's sparking jumper cables clamped to the hotel fail again. In the centre, in the strongest light: a woodpecker drills a small hole at the pointed tip of the red engine room and fits a hissing relief pipe, and the swollen room empties. The pump's tap turned down is waved away.
+must: no letters or digits are written anywhere
+
+== 102
+# Q: elderly woman, AVR for severe AS with central cannulas, antegrade and retrograde catheters and an RSPV vent; after decannulation, a lot of dark blood in the pericardial well: next step? A: on-pump repair of the coronary sinus
+# the roller-pump truck plugged in again while Hunayn stitches the cracked crowned sink, dark blue water welling from it = back on bypass to repair the coronary sinus -> ANSWER
+# the backward banana water catheter in the sink's drain = the retrograde cannula caused it
+# the dentist and the stone mouth, the fainting woman = AVR for AS with syncope
+# patches on the tip and the back of the orca, stitching a money-pipe door waved away = not LV apex, posterior aorta or RSPV (wrong options)
+title: Dark blood after decannulation following retrograde cardioplegia: repair the coronary sinus on bypass
+titleAr: دم داكن بعد نزع القنيات مع شلل قلبي راجع: إصلاح الجيب التاجي على المجازة
+tags: cardiac/cpb d:complications q:next-step l:2
+palette: dark venous blue and clay terracotta with banana yellow
+words:
+keywords: cs injury -> the crowned sink in the blue lobby floor cracked, dark blue water welling up from under the hotel; cardiopulmonary bypass -> the big roller-pump truck plugged in again; retrograde cardioplegia -> a backward banana water hose pushed up the crowned sink's drain; avr -> a dentist's brand-new dentures in the orca's mouth; aortic stenosis -> the orca's old mouth crusted with grey stone, set aside; syncope -> a woman fainting backwards onto a red velvet couch; lv vent -> a hissing relief pipe through a money-pipe door into the red lobby; dark well -> dark blue water pooling round the hotel's base; cannons out -> brass cannons just pulled out and laid aside; apex patch (no) -> a patch on the tip of the hotel, waved away; back patch (no) -> a patch on the back of the orca, waved away; door stitch (no) -> stitching the money-pipe door, waved away; woman -> an old woman in a striped clay shawl
+anchor: the best next step -> the big roller-pump truck plugged in again while the physician Hunayn stitches the cracked crowned sink under the hotel, dark blue water welling from it
+scene: A terracotta clay workshop. An old woman in a striped clay shawl faints backwards onto a red velvet couch; beside her the cut-open HART Hotel, the orca's old stone-crusted mouth set aside and a dentist's brand-new dentures in it, a hissing relief pipe through a money-pipe door into the red lobby and a backward banana water hose pushed up the crowned sink's drain. Brass cannons have just been pulled out and laid aside, and dark blue water pools round the hotel's base. In the centre, in the strongest light: the big roller-pump truck is plugged in again while the physician Hunayn ibn Ishaq stitches the crowned sink in the blue lobby floor, cracked, dark blue water welling up from under the hotel. A patch on the tip of the hotel, a patch on the back of the orca and stitching the money-pipe door are waved away.
+must: the water is dark blue; no letters or digits are written anywhere
+
+== 103
+# Q: elderly woman, AVR for AS; on giving retrograde cardioplegia, bright red blood from the inferior heart: a large coronary sinus laceration: best management? A: pericardial patch repair
+# Hunayn sewing a patch cut from the clear glass aquarium over the long split in the crowned sink, the spurting banana water stopped = pericardial patch repair -> ANSWER
+# the crowned sink split wide, bright red banana water spurting from under the hotel = large CS tear during retrograde cardioplegia
+# the ice-cold banana bucket, the dentist and the stone mouth = antegrade cold cardioplegia, AVR for AS
+# a wad of cotton, a single thin stitch tearing through and an opened lobby door waved away = not packing, simple suture or atriotomy (wrong options)
+title: Large coronary sinus tear: repair it with a pericardial patch
+titleAr: تمزق كبير في الجيب التاجي: أصلحه برقعة من التامور
+tags: cardiac/cpb d:technique q:next-step l:2
+palette: banana yellow and glass clear with spurting red
+words:
+keywords: cs injury -> the crowned sink in the blue lobby floor split wide open, bright red water spurting from under the hotel; pericardial patch -> a patch cut from the clear glass aquarium round the hotel; patch repair -> Hunayn sewing the patch over the long split; retrograde cardioplegia -> backward banana water pushed up the crowned sink's drain; cardioplegia -> a bucket of ice-cold water full of bananas poured into the orca; avr -> a dentist with brand-new dentures for the orca's mouth; aortic stenosis -> the orca's mouth crusted with grey stone; long split -> the split as long as a hand; cotton (no) -> a wad of cotton stuffed in, waved away; thin stitch (no) -> a single thin stitch tearing through, waved away; lobby door (no) -> the blue lobby's door opened, waved away; old woman -> an old woman with a clay walking stick
+anchor: the best management -> the physician Hunayn sewing a patch cut from the clear glass aquarium over the long split in the crowned sink, the spurting water stopped
+scene: A sunny clay courtyard. An old woman with a clay walking stick lies beside the cut-open HART Hotel: the orca's mouth crusted with grey stone, a dentist waiting with brand-new dentures, a bucket of ice-cold water full of bananas poured into the orca and backward banana water pushed up the crowned sink's drain. The crowned sink in the blue lobby floor has split wide open, the split as long as a hand, bright red water spurting from under the hotel. In the centre, in the strongest light: the physician Hunayn ibn Ishaq sews a patch cut from the clear glass aquarium round the hotel over the long split, and the spurting stops. A wad of cotton stuffed in, a single thin stitch tearing through and the blue lobby's door opened are waved away.
+must: no letters or digits are written anywhere
+
+== 104
+# Q: woman after thoracoabdominal aneurysm repair with reimplanted intercostal, visceral and renal arteries; the lumbar drain is out but CSF leaks from its site and she has a headache on day 2: next step? A: epidural blood patch
+# a dollop of her own red jam patch smeared over the pinhole beside the backbone, the dripping stopped = epidural blood patch -> ANSWER
+# clear water dripping from the backbone where the spine tap was, the brass tap lying on the sheet, her throbbing head = CSF leak after the lumbar drain, spinal headache
+# the crawling baby down the orca's back, the spaghetti and kidney beans sewn back on = TAAA repair with visceral and renal reimplantation
+# a cup of clear water, a bone-setter and a new tap waved away = not a saline patch, spine surgery or reinserting the drain (wrong options)
+title: CSF leaking after a lumbar drain with headache: epidural blood patch
+titleAr: تسرب السائل الدماغي الشوكي بعد نزح قطني مع صداع: رقعة دموية فوق الجافية
+tags: cardiac/aorta cardiac/perioperative d:complications q:next-step l:2
+palette: jam red and spine ivory with canal blue
+words:
+keywords: epidural blood patch -> a dollop of her own red jam patch smeared over the pinhole beside the backbone; csf leak -> clear water dripping from the backbone through a pinhole; lumbar drain -> the small brass spine tap already pulled out, lying on the sheet; thoracoabdominal -> a crawling baby inching down the orca's back from the flipper to the kidney beans, a long fabric tube behind it; mesenteric -> a plate of spaghetti sewn back onto the fabric tube; renal arteries -> the pair of red kidney beans sewn back on; headache -> the woman holding her throbbing head; saline patch (no) -> a cup of clear water poured on the hole and running off, waved away; spine surgeon (no) -> a bone-setter with a chisel, waved away; new tap (no) -> a new tap pushed in, waved away; day two -> two suns on the window; woman -> a woman in a clay-green robe
+anchor: the best next step -> a dollop of her own red jam patch smeared over the pinhole beside the backbone, so the clear water stops dripping
+scene: A clay room by a Basra canal, two suns on the window. A woman in a clay-green robe lies on her side holding her throbbing head; behind her the orca balloon shows a crawling baby inching down its back from the flipper to the kidney beans, a long fabric tube behind it, a plate of spaghetti and the pair of red kidney beans sewn back onto the tube. The small brass spine tap has already been pulled out and lies on the sheet, and clear water drips from her backbone through a pinhole. In the centre, in the strongest light: a dollop of her own red jam patch is smeared over the pinhole beside the backbone, and the dripping stops. A cup of clear water poured on the hole and running off, a bone-setter with a chisel and a new tap pushed in are waved away.
+must: no letters or digits are written anywhere
+
+== 105
+# Q: woman of eighty for CABG, EF 30%, COPD, insulin-treated diabetes, creatinine 2.2: the strongest preoperative risk for dialysis-requiring AKI? A: the creatinine level
+# the kidney beans already shrivelling, a washing machine waiting, a dragon, a drop and a dragon painted on it, a gold medal hung on the beans = creatinine 2.2 is the strongest risk -> ANSWER
+# the cabbage on the hotel = CABG
+# the cake of candles, the weak bouncer and the sugar mountain waved away = not age, EF or diabetes (wrong options)
+# the swiss-cheese money sack = COPD
+title: Dialysis after CABG: a raised creatinine is the strongest warning
+titleAr: الغسيل الكلوي بعد المجازة التاجية: ارتفاع الكرياتينين أقوى نذير
+tags: cardiac/perioperative cardiac/coronary d:evidence q:recall l:2
+palette: kidney red and sugar white with medal gold
+words:
+keywords: creatinine -> a pair of red kidney beans already shrivelling dry and grey, a washing machine waiting beside them; number 2.2 (creatinine, mg/dL) -> a small painting on the washing machine: a green dragon, a golden drop and a green dragon; cabg -> a cabbage of sapphire-blue leaves set on the hotel; copd -> a money sack puffed up huge and full of holes like swiss cheese; ejection fraction (no) -> a weak bouncer barely pushing a guest out, waved away; diabetes (no) -> a man on a mountain of sugar cubes, waved away; age (no) -> a cake crowded with candles, waved away; insulin -> a honey-dipped syringe beside the sugar; strongest -> a gold medal hung on the kidney beans; weighing -> a merchant's scale tipping towards the beans; old woman -> an old woman with silver bangles; after the operation -> fresh stitches down the woman's chest
+anchor: the strongest risk -> a gold medal hung on the pair of shrivelling kidney beans, a washing machine waiting beside them with a green dragon, a golden drop and a green dragon painted on it
+scene: A clay pharmacy in the Mirbad market. An old woman with silver bangles lies with fresh stitches down her chest beside the HART Hotel, a cabbage of sapphire-blue leaves set on it, and a money sack puffed up huge and full of holes like swiss cheese. A merchant's scale tips towards a pair of red kidney beans. In the centre, in the strongest light: the kidney beans are already shrivelling dry and grey, a gold medal hung on them, and a washing machine waits beside them, a small painting of a green dragon, a golden drop and a green dragon on it. A weak bouncer, a man on a mountain of sugar cubes with a honey-dipped syringe, and a cake crowded with candles are waved away.
+must: no letters or digits are written anywhere
+
+== 106
+# Q: ten days after a mechanical AVR, on warfarin with INR 3.5, haematocrit 25%, fatigue and anorexia, raised JVP, pulsus paradoxus, distant sounds, crisp valve clicks, sinus tachycardia, big heart shadow: diagnosis? A: delayed cardiac tamponade
+# the aquarium round the hotel slowly filling with red water from a slow drip over many days, squeezing the blue wing in = delayed tamponade -> ANSWER
+# the rat with a high helmet dial, a fox, a drop and a hamsa painted on it, the pale pink river = over-anticoagulated, INR 3.5, bleeding into the pericardium
+# the swollen neck hose, the diving ducks, a muffled drum through a thick wall, the huge round shadow = JVP, pulsus paradoxus, distant sounds, big silhouette
+# the robot still clicking = the mechanical valve works
+title: Delayed tamponade after valve surgery on warfarin
+titleAr: اندحاس قلبي متأخر بعد جراحة الصمام مع الوارفارين
+tags: cardiac/perioperative d:diagnosis q:vignette l:2 x:high-yield
+palette: aquarium red and helmet steel with pale pink
+words:
+keywords: delayed tamponade -> the glass aquarium round the hotel filling with red water, squeezing the thin blue wing in; slow drip -> a slow drip filling it over many days; raised jvp -> a neck hose swollen right up to the jaw; pulsus paradoxus -> a pair of ducks bobbing on the pulse at the wrist, diving under as he breathes in; warfarin -> a rat in a soldier's helmet; inr -> a small helmet dial on the rat's helmet, its needle high; number 3.5 (INR) -> a small painting on the helmet dial: a red fox, a golden drop and a blue hamsa hand; mechanical valve -> a clanking little steel robot in the orca's mouth, still clicking; anemia -> the river turning pale pink; distant sounds -> a muffled drum heard through a thick wall; big shadow -> a huge round shadow of the hotel on the wall; weary man -> a man too weary to eat, his bowl untouched; ten days -> ten crescent moons in a row over the window
+anchor: the diagnosis -> the glass aquarium round the hotel slowly filling with red water from a slow drip over many days, squeezing the thin blue wing in while the robot still clicks
+scene: A clay bedroom, ten crescent moons in a row over the window. A man too weary to eat, his bowl untouched, has a neck hose swollen right up to his jaw and a pair of ducks bobbing on the pulse at his wrist, diving under as he breathes in. A rat in a soldier's helmet sits by him, a small helmet dial on its helmet with its needle high, a small painting of a red fox, a golden drop and a blue hamsa hand on the dial, and the river beside him turns pale pink. A huge round shadow of the hotel falls on the wall, and a muffled drum is heard through a thick wall. In the centre, in the strongest light: the glass aquarium round the HART Hotel fills with red water from a slow drip over many days, squeezing the thin blue wing in, while a clanking little steel robot in the orca's mouth still clicks.
+must: no letters or digits are written anywhere
+
+== 107
+# Q: man after mitral repair and a left-sided Cox maze with LAA ligation for persistent AF; three weeks later, atrial flutter 2:1 at 150: management? A: catheter ablation of the right atrial (cavotricuspid) isthmus
+# a blowtorch on a fishing line burning a line across the narrow strip of floor between the drainpipe and the trident in the blue lobby, the flags stopping = cavotricuspid isthmus ablation -> ANSWER
+# sawtooth bunting flags circling the blue lobby = typical atrial flutter
+# the hedge maze only in the red lobby, the dog's ear tied, the mended mitre, the bare blue lobby = left-sided maze, LAA ligation, mitral repair, right side untouched
+# the ammo bandolier, the burnt knot and a burn round a money-pipe door waved away = not amiodarone, AV node ablation or the left pulmonary vein line (wrong options)
+title: Flutter after a left-sided maze: ablate the cavotricuspid isthmus
+titleAr: رفرفة أذينية بعد متاهة يسرى: كيّ برزخ الوريد الأجوف والصمام ثلاثي الشرف
+tags: cardiac/arrhythmia cardiac/mitral-tricuspid d:complications q:next-step l:3
+palette: bunting red and hedge green with torch blue
+words:
+keywords: atrial flutter -> a string of triangular sawtooth bunting flags fluttering round and round the blue lobby; catheter ablation -> a blowtorch burning a line across the floor; catheterization -> a long fishing line threaded up from the groin carrying the blowtorch; narrow strip -> the narrow strip of floor between the drainpipe and the trident; maze -> a green hedge maze grown across the red lobby only; laa -> a floppy dog's ear on the red lobby, tied off; mitral valve repair -> a bishop's mitre in the red lobby doorway, neatly mended; amiodarone (no) -> a bandolier of brass ammo, waved away; av node (no) -> the big tight knot burnt black, waved away; left line (no) -> a burn round a money-pipe door, waved away; bare blue lobby -> the blue lobby with no hedges at all; three weeks -> three crescent moons over the window; man -> a man in a date-seller's apron
+anchor: the best management -> a blowtorch on a long fishing line burning a line across the narrow strip of floor between the drainpipe and the trident, so the bunting flags stop circling
+scene: A date-seller's stall, three crescent moons over the window. A man in a date-seller's apron lies beside the cut-open HART Hotel: a green hedge maze has grown across the red lobby only, a floppy dog's ear on the red lobby is tied off, and the bishop's mitre in the red lobby doorway is neatly mended; the blue lobby has no hedges at all, and a string of triangular sawtooth bunting flags flutters round and round it. In the centre, in the strongest light: a blowtorch on a long fishing line threaded up from the groin burns a line across the narrow strip of floor between the drainpipe and the trident, and the flags stop circling. A bandolier of brass ammo, the big tight knot burnt black and a burn round a money-pipe door are waved away.
+must: the burn line is in the blue lobby; no letters or digits are written anywhere
+
+== 108
+# Q: man with three-vessel disease and diabetes for CABG, paroxysmal AF, CHA2DS2-VASc 3: best management of the AF at surgery? A: pulmonary vein isolation with left atrial appendage ligation
+# Hunayn with both hands at once: turning the money-pipe doorways into islands with a moat of burns and tying off the dog's ear = PVI plus LAA ligation -> ANSWER
+# Pinocchio trembling only now and then, a door swinging open and shut = paroxysmal AF
+# the pebble jar with a red fox painted on it = CHA2DS2-VASc 3
+# the cabbage and the sugar mountain = CABG, diabetes
+# a hedge maze over both lobbies and a single hand doing one job waved away = not a full maze, not PVI or LAA closure alone (wrong options)
+title: Paroxysmal AF at CABG: pulmonary vein isolation and close the appendage
+titleAr: رجفان أذيني انتيابي أثناء المجازة: عزل الأوردة الرئوية مع ربط الزائدة الأذينية
+tags: cardiac/arrhythmia cardiac/coronary d:indications q:next-step l:2
+palette: island sand and moat blue with dog's-ear brown
+words:
+keywords: pvi -> the doorways of the money pipes in the red lobby each turned into an island by a moat of burns; laa -> a floppy dog's ear on the red lobby, tied off and cut; both together -> Hunayn working with both hands at once; chads-vasc -> a glass pebble jar beside the dog's ear, pebbles dropped in; number 3 (CHA2DS2-VASc) -> a small painting on the pebble jar: a red fox; atrial fibrillation -> Pinocchio trembling in the upper glass lobby only now and then; now and then -> a door swinging open and shut; cabg -> a cabbage of sapphire-blue leaves set on the hotel; diabetes -> a man on a mountain of sugar cubes; maze (no) -> a green hedge maze across both lobbies, waved away; one job (no) -> a single hand doing one job, waved away; head shield -> a little clay shield over the head lantern; man -> a man in a dyer's blue-stained sleeves
+anchor: the best management -> the physician Hunayn working with both hands at once, turning the money-pipe doorways into islands with a moat of burns and tying off the floppy dog's ear
+scene: A dyer's yard of blue vats. A man in a dyer's blue-stained sleeves sits on a mountain of sugar cubes beside the cut-open HART Hotel, a cabbage of sapphire-blue leaves set on it; Pinocchio trembles in the upper glass lobby only now and then, a door swinging open and shut beside him, and a glass pebble jar stands beside the dog's ear, pebbles dropped in, a small painting of a red fox on it; a little clay shield hangs over the head lantern. In the centre, in the strongest light: the physician Hunayn ibn Ishaq works with both hands at once, turning the doorways of the money pipes in the red lobby into islands with a moat of burns and tying off and cutting the floppy dog's ear. A green hedge maze across both lobbies and a single hand doing one job are waved away.
+must: both jobs are done together; no letters or digits are written anywhere
+
+== 109
+# Q: man two years after an LVAD, a week of breathlessness, dark urine for two days, power values fluctuating without change in speed or flow: management? A: admit, LDH levels and a chest CT angiogram
+# Hunayn opening the gate, weighing the soaked sponge globe while a photographer squirts magenta dye through Vader's pipes and flashes his camera = admission, LDH, CT angiography for pump thrombosis -> ANSWER
+# a beaver's dam in Vader's pump, the power needle jumping = LVAD pump thrombosis with power spikes
+# the red doughnuts smashed to crumbs, a chamber pot of cola-dark water = haemolysis, dark urine
+# a new pump in a box, a melting dam flask and the rat with a water jug waved away = not immediate pump exchange, thrombolysis or hydration (wrong options)
+title: Power spikes and dark urine on an LVAD: admit, check LDH and image the pump
+titleAr: تذبذب الطاقة وبول داكن مع جهاز دعم البطين: أدخله المستشفى وافحص LDH وصوّر المضخة
+tags: cardiac/heart-failure d:diagnosis q:next-step l:3
+palette: Vader black and magenta dye with cola brown
+words:
+keywords: pump thrombosis -> a beaver's dam in the pump, a beaver building inside Vader's little pump; power spikes -> the power needle on Vader's chest jumping up and down; hemolysis -> smashed doughnuts: red doughnuts smashed to crumbs in the pump, the river turning dark; lactate dehydrogenase -> a little round sponge globe soaked with spilled red juice, weighed by Hunayn; ct angiogram -> a photographer squirting glowing magenta dye through Vader's pipes and flashing his camera; vad -> Darth Vader, his little pump bolted into the tip of the red engine room; dark urine -> a chamber pot of cola-dark water; breathless -> the man gasping after a few steps; admit -> the gate of the hospital opened; pump exchange (no) -> a new pump in a box, waved away; thrombolysis (no) -> a melting dam flask, waved away; warfarin (no) -> a rat in a soldier's helmet with a water jug, waved away
+anchor: the best management -> the physician Hunayn opening the hospital gate and weighing the soaked sponge globe while a photographer squirts magenta dye through Vader's pipes and flashes his camera
+scene: The gate of a clay hospital in Basra. A man gasps after a few steps, a chamber pot of cola-dark water beside him; Darth Vader stands by the HART Hotel, his little pump bolted into the tip of the red engine room, a beaver building inside the pump, the power needle on his chest jumping up and down, red doughnuts smashed to crumbs in the pump and the river turning dark. In the centre, in the strongest light: the physician Hunayn ibn Ishaq opens the hospital gate and weighs a little round sponge globe soaked with spilled red juice, while a photographer squirts glowing magenta dye through Vader's pipes and flashes his camera. A new pump in a box, a melting dam flask and a rat in a soldier's helmet with a water jug are waved away.
+must: no letters or digits are written anywhere
+
+== 110
+# Q: man three years after an LVAD with fatigue, weight loss and fever; the driveline drains tan, foul fluid; fever, tachycardia, systolic 70 by Doppler; red exit site with pus: management? A: empiric antibiotics, imaging, driveline debridement and wound cultures
+# a giant pencil ringing the germs, a lantern held to see how deep the moss goes, a scrubbing brush scouring the mossy cord and a petri dish growing the pus = antibiotics, imaging, debridement, cultures -> ANSWER
+# Vader's mossy cord dripping tan pus where it leaves the skin = driveline infection
+# the septic tank overflowing, the gauge sunk low, the hot brow = sepsis with hypotension and fever
+# a new pump in a box, a flowerpot and a stack of bandages waved away = not pump exchange, transplant listing or more dressings (wrong options)
+title: Driveline infection with sepsis: antibiotics, imaging, debridement and cultures
+titleAr: التهاب سلك الجهاز مع إنتان: صادات وتصوير وتنضير وزرع
+tags: cardiac/heart-failure d:complications q:next-step l:2 x:high-yield
+palette: moss green and septic brown with pencil yellow
+words:
+keywords: driveline infection -> Vader's power cord where it leaves the skin, a mossy cord dripping tan pus; antibiotics -> a giant pencil drawing a ring round the germs and crossing them out; debridement -> a stiff scrubbing brush scouring the moss off the cord; cultures -> a little glass petri dish where the pus grows into coloured colonies; imaging -> a lantern held up to see how deep the moss goes; sepsis -> a septic tank overflowing into the town's pipes; hypotension -> the big round pressure gauge with its needle sunk low; vad -> Darth Vader with his little pump; fever -> a hot red brow with steam rising; weight loss -> a belt with new holes punched in it; pump exchange (no) -> a new pump in a box, waved away; transplant (no) -> a terracotta flowerpot, waved away; dressings (no) -> a stack of fresh bandages, waved away
+anchor: the best management -> a giant pencil ringing the germs, a lantern held up to see how deep the moss goes, a stiff scrubbing brush scouring Vader's mossy cord and a petri dish growing its pus
+scene: A moss-green clay alley beside an overflowing septic tank. Darth Vader, a hot red brow with steam rising and a belt with new holes punched in it, sits with his little pump; the big round pressure gauge beside him has its needle sunk low, and a septic tank overflows into the town's pipes. His power cord where it leaves the skin is a mossy cord dripping tan pus. In the centre, in the strongest light: a giant pencil draws a ring round the germs and crosses them out, a lantern is held up to see how deep the moss goes, a stiff scrubbing brush scours the moss off the cord and a little glass petri dish grows the pus into coloured colonies. A new pump in a box, a terracotta flowerpot and a stack of fresh bandages are waved away.
+must: no letters or digits are written anywhere

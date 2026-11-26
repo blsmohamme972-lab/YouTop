@@ -15912,6 +15912,383 @@
    "status": "approved",
    "reason": "total 8/10, 2 layers",
    "audited": "2026-11-26"
+  },
+  {
+   "id": "lv-vent",
+   "concept": "venting the left ventricle (LV vent, decompression) and LV distension on bypass",
+   "terms": [
+    "lv vent",
+    "left ventricular vent",
+    "lv venting",
+    "left ventricular venting",
+    "lv distension",
+    "left ventricular distension",
+    "distended left ventricle",
+    "lv decompression",
+    "transapical vent"
+   ],
+   "symbol": "a hissing RELIEF PIPE let into the red engine room, letting out the water that would swell the room like a balloon",
+   "anchors": [
+    "relief pipe"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "drains blood that keeps returning to a still or fibrillating LV, so it does not stretch and starve",
+    "place": "through the right superior pulmonary vein, the LV apex or the aortic root"
+   },
+   "why": "a relief pipe on a swelling room",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "A fibrillating, distended LV that cannot be defibrillated: vent it (apex if the root cannot be reached). AR makes distension worse.",
+   "firstUsed": "SESATS 12 101-110",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "csf-leak",
+   "concept": "cerebrospinal fluid leak and post-dural-puncture (spinal) headache",
+   "terms": [
+    "csf leak",
+    "cerebrospinal fluid leak",
+    "spinal headache",
+    "post-dural puncture headache",
+    "postdural puncture headache",
+    "dural puncture",
+    "dural leak"
+   ],
+   "symbol": "clear water DRIPPING FROM THE BACKBONE through a pinhole, the head lantern drooping with a throbbing ache",
+   "anchors": [
+    "dripping from the backbone"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "spinal fluid leaks out, the brain sags and aches, worse sitting up",
+    "place": "a hole in the dura of the lower back"
+   },
+   "why": "the backbone drips and the head aches",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "After a lumbar drain (spine tap). Treat with an epidural blood patch (jam patch) if it persists.",
+   "firstUsed": "SESATS 12 101-110",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "epidural-blood-patch",
+   "concept": "epidural blood patch for a CSF leak",
+   "terms": [
+    "epidural blood patch",
+    "blood patch",
+    "autologous blood patch"
+   ],
+   "symbol": "a dollop of the patient's own red JAM PATCH smeared over the pinhole outside the backbone's water pipe, sealing the leak",
+   "anchors": [
+    "jam patch"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the patient's own blood clots over the dural hole and seals it",
+    "place": "injected into the epidural space at the level of the leak"
+   },
+   "why": "red jam seals the hole",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Saline does not clot; reinserting a drain makes a new hole.",
+   "firstUsed": "SESATS 12 101-110",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "cs-injury",
+   "concept": "coronary sinus injury (tear or rupture, usually from the retrograde cannula)",
+   "terms": [
+    "coronary sinus injury",
+    "coronary sinus laceration",
+    "coronary sinus rupture",
+    "coronary sinus tear",
+    "coronary sinus perforation"
+   ],
+   "symbol": "the crowned sink in the blue lobby floor CRACKED open, dark blue water welling up from under the hotel",
+   "anchors": [
+    "cracked sink"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the thin coronary sinus tears: dark venous bleeding from behind and below the heart",
+    "place": "the coronary sinus on the back of the heart, near the retrograde catheter"
+   },
+   "why": "the sink cracks",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Small: on-pump suture; large: a pericardial patch over it. Dark blood in the well after decannulation: think of it.",
+   "firstUsed": "SESATS 12 101-110",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "raised-jvp",
+   "concept": "raised jugular venous pressure (distended neck veins)",
+   "terms": [
+    "jugular venous pressure",
+    "jvp",
+    "jugular venous distension",
+    "jvd",
+    "distended neck veins",
+    "raised jugular venous pressure",
+    "elevated jugular venous pressure",
+    "increased jugular venous pressure"
+   ],
+   "symbol": "the NECK HOSE: a garden hose running up the side of the neck, swollen and full right up to the jaw",
+   "anchors": [
+    "neck hose"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "high right atrial pressure backs up into the neck veins",
+    "place": "the internal jugular vein in the neck"
+   },
+   "why": "a swollen hose in the neck",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Tamponade, constriction, RV failure, fluid overload. Rising on inspiration = Kussmaul (the kiss mark).",
+   "firstUsed": "SESATS 12 101-110",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "inr",
+   "concept": "the INR (intensity of warfarin anticoagulation) and its target ranges",
+   "terms": [
+    "inr",
+    "international normalized ratio",
+    "international normalised ratio",
+    "target inr",
+    "inr goal",
+    "inr target",
+    "supratherapeutic inr"
+   ],
+   "symbol": "a small HELMET DIAL on the warfarin rat's helmet, its needle showing how thin the blood is running",
+   "anchors": [
+    "helmet dial"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "how far warfarin has thinned the blood",
+    "place": "read off the warfarin rat himself"
+   },
+   "why": "the rat's dial reads his strength",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Mechanical aortic about 2-3 (2.5-3.5 for mitral or risk factors); LVAD about 2-3.",
+   "firstUsed": "SESATS 12 101-110",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "chads-vasc",
+   "concept": "the CHA2DS2-VASc score (stroke risk in atrial fibrillation)",
+   "terms": [
+    "cha2ds2-vasc",
+    "chads2",
+    "chads-vasc",
+    "cha2ds2vasc",
+    "chads2 score",
+    "cha2ds2-vasc score"
+   ],
+   "symbol": "a glass PEBBLE JAR beside the dog's ear, one pebble dropped in for each risk (failing heart, high pressure, age, sugar, stroke, vessels, sex); the fuller the jar, the likelier a clot reaches the head lantern",
+   "anchors": [
+    "pebble jar"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "adds up the risks of stroke in atrial fibrillation",
+    "place": "beside the left atrial appendage, where the clots form"
+   },
+   "why": "a jar filled one pebble per risk",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Two or more (men) or three or more (women): anticoagulate; at surgery, close the appendage.",
+   "firstUsed": "SESATS 12 101-110",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "pump-thrombosis",
+   "concept": "LVAD pump thrombosis (with haemolysis and power spikes)",
+   "terms": [
+    "pump thrombosis",
+    "lvad thrombosis",
+    "device thrombosis",
+    "vad thrombosis",
+    "lvad pump thrombosis"
+   ],
+   "symbol": "a beaver's DAM IN THE PUMP: a beaver building inside Vader's little pump, the pump groaning, its power needle jumping and the river behind it turning dark",
+   "anchors": [
+    "dam in the pump"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "clot inside the rotor: power rises and fluctuates, red cells are smashed (dark urine, high LDH)",
+    "place": "inside the LVAD pump, its inflow or outflow"
+   },
+   "why": "a dam in the pump",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Admit, LDH and plasma haemoglobin, CT angiogram of inflow and outflow, then intensify anticoagulation or exchange the pump.",
+   "firstUsed": "SESATS 12 101-110",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "driveline-infection",
+   "concept": "LVAD driveline infection",
+   "terms": [
+    "driveline infection",
+    "driveline site infection",
+    "driveline exit site infection",
+    "driveline exit-site infection",
+    "driveline"
+   ],
+   "symbol": "Vader's power cord where it leaves the skin wrapped in green slimy moss, a MOSSY CORD dripping smelly pus",
+   "anchors": [
+    "mossy cord"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "germs climb along the cable into the tissues and can reach the pump",
+    "place": "the driveline exit site on the abdomen"
+   },
+   "why": "moss on the cord",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Antibiotics, cultures, imaging to see how deep, debridement; pump exchange or transplant only if the pump is infected.",
+   "firstUsed": "SESATS 12 101-110",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "sepsis",
+   "concept": "sepsis and septic shock",
+   "terms": [
+    "sepsis",
+    "septic shock",
+    "septic",
+    "bacteremia",
+    "bacteraemia",
+    "severe sepsis"
+   ],
+   "symbol": "a SEPTIC TANK overflowing into the town's water pipes, the whole town flushed with fever and its pressure gauges falling",
+   "anchors": [
+    "septic tank"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "SEPTIC = a septic tank",
+    "meaning": "infection spreading through the blood: fever, fast pulse, falling pressure",
+    "place": "the whole body's circulation"
+   },
+   "why": "the septic tank overflows into the pipes",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Cultures, early antibiotics, fluids, pressors, control the source.",
+   "firstUsed": "SESATS 12 101-110",
+   "status": "approved",
+   "reason": "total 10/10, 3 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "cultures",
+   "concept": "cultures (blood, wound, tissue) to identify the germ",
+   "terms": [
+    "cultures",
+    "culture",
+    "blood cultures",
+    "blood culture",
+    "wound cultures",
+    "wound culture",
+    "tissue cultures"
+   ],
+   "symbol": "a little glass PETRI DISH where the germs grow into coloured colonies so they can be named",
+   "anchors": [
+    "petri dish"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "growing the germ to name it and choose the antibiotic",
+    "place": "samples from the blood or the wound"
+   },
+   "why": "a dish growing the germs",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Take them before antibiotics whenever it is safe.",
+   "firstUsed": "SESATS 12 101-110",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
   }
  ]
 }
