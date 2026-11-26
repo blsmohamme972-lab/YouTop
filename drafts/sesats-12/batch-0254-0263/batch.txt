@@ -1,0 +1,163 @@
+book: sesats-12
+style: a stop-motion claymation look: chunky hand-made plasticine figures and sets with soft fingerprints in the clay, bright cheerful colours, soft studio light with gentle shadows, simple uncluttered sets, every object solid, rounded and instantly recognisable
+theme: the world of al-Jahiz in ninth-century Basra: the Mirbad market, the canals and date-palm groves, boats on the Shatt al-Arab, scholars, merchants and the animals of his Book of Animals; the physician Hunayn ibn Ishaq (grey beard, blue turban) is the recurring healer; stories end with a genuine line of al-Jahiz (Kitab al-Hayawan, al-Bayan wa al-Tabyin, al-Bukhala)
+
+== 254
+# Q: asymptomatic 4-year-old followed for a VSD; current echo clips shown: best management? A: surgical closure of the VSD
+# Hunayn sewing a patch over the hole under the orca's mouth and lifting the sagging lip back up = surgical closure, here because an aortic cusp prolapses into the VSD (the clips are not in our copy; inferred) -> ANSWER
+# one lip of the orca's mouth billowing like a sail down into the hole, water dripping back, a crack starting in it = aortic cusp prolapse with AR
+# the bat's sound rings = echo
+# a lasso, an hourglass and cufflinks waved away = not diuretics, observation or device closure (wrong options)
+title: VSD with aortic cusp prolapse in a well child: close it surgically
+titleAr: فتحة بين البطينين مع تدلّي شرفة أبهرية عند طفل بلا أعراض: الإغلاق الجراحي
+tags: cardiac/congenital d:indications q:next-step l:2 x:trap
+palette: sail white and brick red with sea blue
+words:
+keywords: vsd -> a ragged hole knocked through the thick brick lower party wall, just under the orca's mouth; aortic cusp prolapse -> one lip of the orca's mouth billowing like a sail down into the hole; aortic regurgitation -> the orca's mouth dripping water back into the red room; patch closure -> Hunayn sewing a patch over the hole and lifting the lip back up; echo -> a bat sending out rings of sound over the hotel; furosemide (no) -> a cowboy's lasso pulling water out, waved away; watchful waiting (no) -> an hourglass, waved away; device closure (no) -> a pair of round silver cufflinks, waved away; playing boy -> a boy playing happily with a wooden hobby horse; cracking lip -> a small crack starting in the sagging lip; now -> a rooster crowing; under the mouth -> the hole sitting just under the orca's mouth
+anchor: the best management -> the physician Hunayn sewing a patch over the hole under the orca's mouth and lifting its sagging, sail-like lip back up
+scene: A clay courtyard with a rooster crowing. A boy playing happily with a wooden hobby horse sits beside the cut-open HART Hotel while a bat sends out rings of sound over it. A ragged hole is knocked through the thick brick lower party wall, just under the orca's mouth, and one lip of the orca's mouth billows like a sail down into the hole, a small crack starting in it, water dripping back into the red room. In the centre, in the strongest light: the physician Hunayn ibn Ishaq sews a patch over the hole and lifts the lip back up. A cowboy's lasso, an hourglass and a pair of round silver cufflinks are waved away.
+must: no letters or digits are written anywhere
+
+== 255
+# Q: asymptomatic 2-month-old, saturation 80%; right arch, pulmonary atresia with a large VSD, MAPCAs; tiny confluent PAs 2.5 mm, three large collaterals from the descending aorta: next step? A: a systemic-to-PA (central) shunt via sternotomy
+# a short fat hose joining the orca's climb straight to the root of the two thin joined money pipes, through the stern opened down the middle = central shunt via sternotomy to grow the PAs -> ANSWER
+# the money pipe's door welded shut, the ragged hole in the lower party wall = pulmonary atresia with VSD
+# the treasure map with three winding paths from the orca's back = MAPCAs
+# the white dove on the orca's arch = right aortic arch
+# a long hose through a side lid, a hot needle through the cap and a waterslide waved away = not a BT shunt by thoracotomy, valve perforation or full repair (wrong options)
+title: Pulmonary atresia, VSD and MAPCAs with tiny confluent PAs: a central shunt first
+titleAr: رتق رئوي مع فتحة بين البطينين وشرايين جانبية وشرايين رئوية دقيقة متصلة: تحويلة مركزية أولًا
+tags: cardiac/congenital d:technique q:next-step l:3
+palette: treasure-map tan and hose green with dove white
+words:
+keywords: central shunt -> a short fat hose joining the orca's climb straight to the root of the money pipes; median sternotomy -> the ship's stern opened straight down the middle; pulmonary atresia -> the money pipe's door welded shut with a thick iron cap; vsd -> a ragged hole knocked through the thick brick lower party wall; mapcas -> an old treasure map whose three winding dotted paths run from the orca's back to the money sacks; right aortic arch -> the orca balloon arching over with a small white dove on its arch; bt shunt (no) -> a long hose from the flipper through a side lid, waved away; valve perforation (no) -> a hot needle through the cap, waved away; full repair (no) -> a clear twisting waterslide tube, waved away; confluence -> two thin money pipes joined in the middle; grow -> the thin pipes swelling a little as the hose fills them; calm baby -> a calm baby with faintly blue lips; three paths -> three winding paths on the map
+anchor: the best next step -> a short fat hose joining the orca's climb straight to the root of the two thin joined money pipes, through the ship's stern opened straight down the middle
+scene: A tan clay map room. A calm baby with faintly blue lips lies beside the HART Hotel, the orca balloon arching over with a small white dove on its arch; the money pipe's door is welded shut with a thick iron cap, a ragged hole is knocked through the thick brick lower party wall, and an old treasure map shows three winding dotted paths running from the orca's back to the money sacks. Two thin money pipes are joined in the middle. In the centre, in the strongest light: through the ship's stern opened straight down the middle, a short fat hose joins the orca's climb straight to the root of the two thin money pipes, and they swell a little as the hose fills them. A long hose from the flipper through a side lid, a hot needle through the cap and a clear twisting waterslide tube are waved away.
+must: the hose is short and goes from the climb to the joined pipes; no letters or digits are written anywhere
+
+== 256
+# Q: 8-year-old with a large VSD, saturation 85% on air; catheter data for PVR on air and on oxygen: PVR on oxygen is about what fraction of baseline? A: about 30% of baseline
+# the wooden blocks in the money pipes melting like ice when the ox breathes on them, a fox and a whistle painted on the ox's mask strap = PVR falls to 30%: reactive, operable -> ANSWER
+# the ragged hole in the lower party wall, the faintly blue lips = large VSD with some desaturation
+# the fishing line, the clerk counting blocks = catheter measurement
+# unmoved blocks, a taller pile and half the blocks gone waved away = not no change, 150% or 50% (wrong options)
+title: Testing a large VSD for operability: PVR falls to a third with oxygen
+titleAr: اختبار فتحة كبيرة بين البطينين لقابلية الجراحة: المقاومة الرئوية تهبط إلى الثلث مع الأكسجين
+tags: cardiac/congenital d:physiology q:numbers l:3
+palette: block brown and oxygen blue with ice white
+words:
+keywords: reactive pvr -> the wooden blocks in the money pipes melting like ice when the ox breathes on them, most of them gone; oxygen -> a huge ox wearing a clear oxygen mask; number 30 (PVR on oxygen, % of baseline) -> a small painting on the ox's mask strap: a red fox and a golden whistle; pvr -> wooden blocks stacked inside the pipe of dollar bills; vsd -> a ragged hole knocked through the thick brick lower party wall; catheterization -> a long fishing line threaded up into the money pipes; cyanosis -> faintly blue lips; no change (no) -> blocks that do not move, waved away; more (no) -> a taller pile of blocks, waved away; half (no) -> half the blocks gone, waved away; boy -> a boy with a satchel of scrolls; counting -> a clerk counting the blocks
+anchor: the change with oxygen -> the wooden blocks in the money pipes melting like ice when the huge ox breathes on them, a red fox and a golden whistle painted on its mask strap
+scene: A brown clay counting house. A boy with a satchel of scrolls and faintly blue lips sits beside the HART Hotel; a ragged hole is knocked through its thick brick lower party wall, and a long fishing line is threaded up into the money pipes, where wooden blocks are stacked inside the pipe of dollar bills while a clerk counts them. In the centre, in the strongest light: a huge ox wearing a clear oxygen mask, a small painting of a red fox and a golden whistle on its mask strap, breathes on the pipes and the wooden blocks melt like ice, most of them gone. Blocks that do not move, a taller pile of blocks and half the blocks gone are waved away.
+must: no letters or digits are written anywhere
+
+== 257
+# Q: 2-month-old with a moderate VSD and progressive heart failure: which associated defect explains how sick it is? A: aortic coarctation
+# a rope pinching the orca's waist just past the flipper wearing a golden bangle, so extra water is forced through the coin-sized hole = coarctation worsens the shunt -> ANSWER
+# the coin-sized hole in the lower party wall = moderate VSD
+# the traffic jam, the sweating baby at the bottle, the panting = heart failure
+# a clamp on the money pipe, a hole in the upper party wall and a sail lip waved away = not PS, ASD or cusp prolapse (wrong options)
+title: A moderate VSD with severe heart failure: look for coarctation
+titleAr: فتحة متوسطة بين البطينين مع قصور قلب شديد: ابحث عن تضيّق الأبهر
+tags: cardiac/congenital d:diagnosis q:recall l:2 x:high-yield
+palette: rope brown and bangle gold with traffic red
+words:
+keywords: coarctation -> a rope pinching the orca's waist just past the flipper wearing a golden bangle; vsd -> a coin-sized hole in the thick brick lower party wall; extra shunt -> extra water forced through the hole because the rope holds the orca back; chf -> a traffic jam of carts gridlocked in the money pipes; pulmonary stenosis (no) -> an iron clamp on the money pipe, waved away; asd (no) -> a hole in the upper party wall, waved away; aortic cusp prolapse (no) -> a lip billowing like a sail, waved away; sweating -> the baby sweating at the bottle; panting -> the baby panting fast; two months -> two crescent moons over the window; infant -> a baby in a cradle; worse than it looks -> the coin-sized hole spraying like a big one
+anchor: what explains the failure -> a rope pinching the orca's waist just past the flipper wearing a golden bangle, so extra water is forced through the coin-sized hole in the lower party wall
+scene: A clay nursery, two crescent moons over the window. A baby in a cradle pants fast and sweats at the bottle; beside the cradle the cut-open HART Hotel, a traffic jam of carts gridlocked in its money pipes. A coin-sized hole in the thick brick lower party wall sprays like a big one. In the centre, in the strongest light: a rope pinches the orca's waist just past the flipper wearing a golden bangle, and extra water is forced through the hole because the rope holds the orca back. An iron clamp on the money pipe, a hole in the upper party wall and a lip billowing like a sail are waved away.
+must: the golden bangle is on the flipper next to the rope; no letters or digits are written anywhere
+
+== 258
+# Q: 6-month-old with trisomy 21 and a balanced complete AVSD, shallow VSD, moderate ASD, small PFO; at surgery the chords attach to the crest of the VSD, no straddling: best repair? A: modified single-patch repair
+# Hunayn stitching the valve's leaves down onto the crest of the shallow notch with one round patch sewn above = modified single-patch repair -> ANSWER
+# the three football shirts, the level seesaw = Down syndrome, balanced ventricles
+# the harp strings tied to the crest, the shallow notch, the wide gap above = chords to the crest, shallow VSD, ASD
+# an astronaut waved away = not a Glenn (wrong options; banding and shunts also wrong)
+title: Balanced complete AVSD with a shallow VSD: modified single-patch repair
+titleAr: قناة أذينية بطينية كاملة متوازنة مع فتحة بطينية ضحلة: إصلاح برقعة واحدة معدّلة
+tags: cardiac/congenital d:technique q:next-step l:3
+palette: football green and patch white with harp gold
+words:
+keywords: modified single-patch -> the valve's leaves stitched down onto the crest of the lower party wall, leaves stitched down, one round patch sewn above them; avsd -> a big cross-shaped hole where the upper and lower party walls meet; down syndrome -> three identical football shirts hanging on a line; ventricular balance -> a seesaw under the two engine rooms, level; chordae -> harp strings tying the valve's leaves to the crest of the wall; pfo -> a small cat flap; glenn (no) -> an astronaut in a white spacesuit, waved away; shallow vsd -> only a shallow notch in the lower party wall; baby -> a baby in a woolly hat; wide gap -> a wide gap in the wall above the leaves; single patch -> a single round patch; needle -> Hunayn's long curved needle; shared valve -> one shared valve door spanning both rooms
+anchor: the best repair -> the physician Hunayn stitching the valve's leaves down onto the crest of the shallow notch with one round patch sewn above them, the seesaw under the rooms level
+scene: A green clay nursery, three identical football shirts hanging on a line. A baby in a woolly hat lies beside the cut-open HART Hotel, a level seesaw under its two engine rooms. A big cross-shaped hole lies where the upper and lower party walls meet, one shared valve door spanning both rooms: only a shallow notch in the lower party wall, a wide gap in the wall above the leaves and a small cat flap, the harp strings tying the valve's leaves to the crest of the wall. In the centre, in the strongest light: the physician Hunayn ibn Ishaq, with his long curved needle, stitches the valve's leaves down onto the crest and sews a single round patch above them. An astronaut in a white spacesuit is waved away.
+must: no letters or digits are written anywhere
+
+== 259
+# Q: 7-month-old with trisomy 21, two-patch AVSD repair, mild left AVV regurgitation and trivial residual VSD after repair; on day 6 readmitted, reintubated, pulmonary oedema, severe left AVV regurgitation: next step? A: reoperation to repair the left AV valve
+# Hunayn re-sewing the torn stitches of the cleft mitre so the spraying stops = reoperation for left AVV repair -> ANSWER
+# the cross-shaped hole closed with two patches, the football shirts = two-patch AVSD repair in Down syndrome
+# the soggy bills, the bellows = pulmonary oedema and reintubation
+# nitro smoke, a giant pencil and a punched hole waved away = not nitric oxide, antibiotics and delay, or fenestration (wrong options)
+title: Severe left AV valve regurgitation days after AVSD repair: reoperate and repair it
+titleAr: قلس شديد في الصمام الأذيني البطيني الأيسر بعد أيام من إصلاح القناة: أعد العملية وأصلحه
+tags: cardiac/congenital d:complications q:next-step l:2
+palette: patch white and soggy green with spray blue
+words:
+keywords: regurgitation -> water spraying back through the mitre; cleft mitral -> the cleft mitre, its stitches torn open; resewing -> Hunayn re-sewing the torn stitches so the spraying stops; avsd -> the cross-shaped hole closed with patches; two patches -> two patches sewn in the hole; down syndrome -> three identical football shirts hanging on a line; pulmonary edema -> soggy dollar bills dripping from the money pipes; mechanical ventilation -> a big leather bellows pumping air down a ribbed hose; nitric oxide (no) -> a puff of nitro smoke, waved away; antibiotics (no) -> a giant pencil, waved away; fenestration (no) -> a little hole punched in the patch, waved away; days later -> a row of candles burnt down; infant -> a baby in a knitted cap
+anchor: the best next step -> the physician Hunayn re-sewing the torn stitches of the cleft mitre so the water stops spraying back
+scene: A clay nursery, a row of candles burnt down. A baby in a knitted cap lies beside the cut-open HART Hotel, three identical football shirts hanging on a line, a big leather bellows pumping air down a ribbed hose; soggy dollar bills drip from the money pipes. The cross-shaped hole is closed with two patches, but the stitches of the cleft mitre have torn open and water sprays back through the mitre. In the centre, in the strongest light: the physician Hunayn ibn Ishaq re-sews the torn stitches, and the spraying stops. A puff of nitro smoke, a giant pencil and a little hole punched in the patch are waved away.
+must: no letters or digits are written anywhere
+
+== 260
+# Q: 9-month-old with Down syndrome after two-patch AVSD repair, extubated; six hours later low output (low BP, poor perfusion, low urine), CVP 16, pH 7.25, pCO2 55, saturation 95%, small residual VSD, chest drains now dry: next step? A: inhaled nitric oxide
+# a puff of nitro smoke breathed into the money pipes as their gauge leaps into the red = iNO for a pulmonary hypertensive crisis -> ANSWER
+# fizzy soda building up in the river, sour lemons = hypercarbia and acidosis after extubation, a trigger
+# the barely turning water meter, cold pale hands, a dry chamber pot = low cardiac output
+# the football shirts, the blue room straining = Down syndrome, RV pressure load
+# a nail through poppies and an aquarium with barely any red water waved away = not naloxone or tamponade (wrong options)
+title: Low output after AVSD repair in Down syndrome with hypercarbia: a pulmonary hypertensive crisis; inhaled nitric oxide
+titleAr: هبوط النتاج بعد إصلاح القناة عند طفل داون مع احتباس ثاني أكسيد الكربون: نوبة ارتفاع ضغط رئوي؛ أكسيد النيتريك المستنشق
+tags: cardiac/congenital cardiac/perioperative d:postoperative q:next-step l:3 x:trap
+palette: soda fizz and lemon yellow with gauge red
+words:
+keywords: nitric oxide -> a soft puff of nitro smoke breathed into the money pipes, which relax wide open; pulmonary hypertensive crisis -> a money pipe whose pressure gauge leaps into the red; hypercarbia -> fizzy soda bubbles building up in the river; acidosis -> sour lemons squeezed into the river; low cardiac output -> a brass water meter on the orca barely turning; down syndrome -> three identical football shirts hanging on a line; naloxone (no) -> a big nail through the poppies, waved away; tamponade (no) -> the aquarium with barely any red water, waved away; tube out -> the breathing tube just taken out; cold hands -> pale cold hands; dry pot -> a dry chamber pot; hours later -> the sun moved across the window; straining -> the blue engine room straining
+anchor: the best next step -> a soft puff of nitro smoke breathed into the money pipes as their gauge leaps into the red, the fizzy soda in the river calming
+scene: A lemon-yellow clay room, the sun moved across the window. A baby with pale cold hands lies beside the cut-open HART Hotel, three identical football shirts hanging on a line, the breathing tube just taken out and a dry chamber pot by the cot. Fizzy soda bubbles build up in the river and sour lemons are squeezed into it; a brass water meter on the orca barely turns, and the blue engine room strains. In the centre, in the strongest light: a money pipe's pressure gauge leaps into the red, and a soft puff of nitro smoke is breathed into the money pipes, which relax wide open while the fizzy soda calms. A big nail through the poppies and the aquarium with barely any red water are waved away.
+must: no letters or digits are written anywhere
+
+== 261
+# Q: the most frequent indication for reoperation after AVSD repair? A: left-sided AV valve regurgitation
+# water spraying back through the mended cleft mitre, a well-worn path and a stack of repair tickets at its door = left AVV regurgitation is the commonest reason to reoperate -> ANSWER
+# the cross-shaped hole repaired, the football shirts, the grown child = years after AVSD repair
+# a raised drawbridge, a narrow corridor and a small leak in the lower party wall waved away = not heart block, LVOT obstruction or residual VSD (wrong options)
+title: After AVSD repair, the commonest reason to reoperate: left AV valve regurgitation
+titleAr: بعد إصلاح القناة الأذينية البطينية أشيع سبب لإعادة العملية: قلس الصمام الأذيني البطيني الأيسر
+tags: cardiac/congenital d:complications q:recall l:1 x:high-yield
+palette: mitre gold and spray blue with ticket pink
+words:
+keywords: regurgitation -> water spraying back through the mitre; cleft mitral -> the mended cleft mitre, its old stitches loosening; avsd -> the cross-shaped hole long since repaired; down syndrome -> three identical football shirts hanging on a line; heart block (no) -> a raised drawbridge, waved away; residual vsd (no) -> a small leak in the lower party wall, waved away; narrow corridor (no) -> a narrow corridor out of the red room, waved away; second tool bag -> a second tool bag opened; repair tickets -> a stack of repair tickets at the mitre's door; grown child -> a grown child of ten; jug -> a jug catching the drips; well-worn path -> a well-worn path to the mitre door
+anchor: the commonest reason -> water spraying back through the mended cleft mitre, a well-worn path and a stack of repair tickets at its door
+scene: A clay workshop. A grown child sits beside the HART Hotel, three identical football shirts hanging on a line; the cross-shaped hole was long since repaired. A second tool bag is opened. In the centre, in the strongest light: water sprays back through the mended cleft mitre, its old stitches loosening, a jug catching the drips, a well-worn path leading to the mitre's door and a stack of repair tickets piled there. A raised drawbridge, a small leak in the lower party wall and a narrow corridor out of the red room are waved away.
+must: no letters or digits are written anywhere
+
+== 262
+# Q: 2-year-old with Down syndrome, growing on the 50th percentile; echo shown (primum ASD with a cleft): best management? A: surgical patch closure including approximation of the zone of apposition (cleft)
+# Hunayn sewing a patch over the prime-rib hole and stitching the split of the cleft mitre together = patch closure with cleft closure -> ANSWER
+# the prime rib in the hole at the very bottom of the upper party wall, the weather vane towards the golden bangle = primum ASD (partial AVSD), left axis
+# the football shirts, a notch at the middle of the door frame = Down syndrome, growing well
+# cufflinks, edges stitched straight together and a fishing line counting blocks waved away = not a device, primary closure without a patch, or catheter PVR study (wrong options)
+title: Primum ASD with a mitral cleft: patch closure and close the cleft
+titleAr: فتحة أذينية بدئية مع شق تاجي: إغلاق برقعة وإغلاق الشق
+tags: cardiac/congenital d:technique q:next-step l:2 x:high-yield
+palette: roast brown and mitre gold with football green
+words:
+keywords: primum -> a prime rib roast in a hole at the very bottom of the upper party wall; patch closure -> Hunayn sewing a patch over the prime-rib hole; cleft closure -> the split in the cleft mitre stitched together; down syndrome -> three identical football shirts hanging on a line; partial avsd -> a cross-shaped hole with only the arm in the upper party wall open; left axis -> a weather vane on the hotel roof, its arrow swung up towards a golden bangle hung on the roof's corner; echo -> a bat sending out rings of sound; device closure (no) -> a pair of round silver cufflinks, waved away; edges only (no) -> the hole's edges stitched straight together, waved away; catheterization (no) -> a fishing line counting blocks, waved away; growing well -> a notch at the middle of the door frame; toddler -> a toddler in a striped tunic; needle -> Hunayn's needle threaded
+anchor: the best management -> the physician Hunayn sewing a patch over the prime-rib hole at the bottom of the upper party wall and stitching the split of the cleft mitre together
+scene: A green clay house, three identical football shirts hanging on a line and a weather vane on its roof, its arrow swung up towards a golden bangle hung on the roof's corner. A toddler in a striped tunic stands by a notch at the middle of the door frame; a bat sends out rings of sound over the cut-open HART Hotel, where a cross-shaped hole has only the arm in the upper party wall open: a prime rib roast in a hole at the very bottom of the upper party wall. In the centre, in the strongest light: the physician Hunayn ibn Ishaq, his needle threaded, sews a patch over the prime-rib hole and stitches the split in the cleft mitre together. A pair of round silver cufflinks, the hole's edges stitched straight together and a fishing line counting blocks are waved away.
+must: no letters or digits are written anywhere
+
+== 263
+# Q: 4-month-old with a complete AVSD; echo shows an accessory orifice of the left AV valve: intraoperative management should include? A: keep the accessory orifice and close the cleft
+# the mitre with a second little doorway, the bridge between the doorways kept whole with a ribbon on it, the cleft stitched = keep the accessory orifice, close the cleft -> ANSWER
+# the cross-shaped hole = complete AVSD
+# scissors cutting the bridge, a bricked-up doorway and a bow tie waved away = not dividing the bridging tissue, closing the minor orifice or edge-to-edge (wrong options)
+title: AVSD with a double-orifice left AV valve: keep the accessory orifice, close the cleft
+titleAr: قناة أذينية بطينية مع صمام أيسر مزدوج الفتحة: احفظ الفتحة الإضافية وأغلق الشق
+tags: cardiac/congenital d:technique q:next-step l:3 x:trap
+palette: doorway blue and ribbon red with mitre gold
+words:
+keywords: double orifice mitral valve -> the mitre with a second little doorway of its own beside the main one; cleft closure -> the split of the cleft mitre stitched together; avsd -> a big cross-shaped hole where the upper and lower party walls meet; chordae -> harp strings under each doorway; echo -> a bat sending out rings of sound; bridge kept -> the strip of tissue between the two doorways kept whole, a ribbon tied on it; edge-to-edge (no) -> a bow tie, waved away; divide (no) -> scissors cutting the strip between the doorways, waved away; bricked up (no) -> the second doorway bricked up, waved away; two streams -> water flowing through both doorways; infant -> a baby in a blue swaddle; needle -> Hunayn's fine needle
+anchor: the right management -> the mitre with its second little doorway kept open, the strip between the two doorways kept whole with a ribbon tied on it, while Hunayn stitches the cleft
+scene: A blue clay nursery. A baby in a blue swaddle lies beside the cut-open HART Hotel while a bat sends out rings of sound; a big cross-shaped hole lies where the upper and lower party walls meet. In the centre, in the strongest light: the mitre has a second little doorway of its own beside the main one, harp strings under each, water flowing through both doorways; the strip of tissue between the two doorways is kept whole with a ribbon tied on it, and the physician Hunayn ibn Ishaq, with his fine needle, stitches the split of the cleft mitre together. A bow tie, scissors cutting the strip between the doorways and the second doorway bricked up are waved away.
+must: no letters or digits are written anywhere

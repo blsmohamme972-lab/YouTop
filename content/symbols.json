@@ -17467,6 +17467,343 @@
    "status": "approved",
    "reason": "total 10/10, 3 layers",
    "audited": "2026-11-26"
+  },
+  {
+   "id": "central-shunt",
+   "concept": "central aortopulmonary shunt (and other shunts from the ascending aorta to the pulmonary arteries, done by sternotomy)",
+   "terms": [
+    "central shunt",
+    "central aortopulmonary shunt",
+    "aortopulmonary shunt",
+    "melbourne shunt",
+    "systemic-to-pulmonary artery shunt via sternotomy",
+    "central aorto-pulmonary shunt"
+   ],
+   "symbol": "a SHORT FAT HOSE joining the orca's climb straight to the root of the money pipes, filling both thin pipes at once",
+   "anchors": [
+    "short fat hose"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "blood from the aorta feeds small, confluent pulmonary arteries so they grow",
+    "place": "from the ascending aorta to the pulmonary trunk or confluence, through a sternotomy"
+   },
+   "why": "a short hose from the climb to the money pipes",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "The BT shunt is the long hose from the flipper. Central shunts suit tiny confluent PAs (pulmonary atresia with VSD and MAPCAs).",
+   "firstUsed": "SESATS 12 254-263",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "vasoreactivity",
+   "concept": "pulmonary vasoreactivity testing (PVR measured on air, oxygen and nitric oxide) to judge operability",
+   "terms": [
+    "vasoreactivity",
+    "vasoreactivity testing",
+    "vasoreactivity test",
+    "pulmonary vasoreactivity",
+    "vasodilator challenge",
+    "reversibility of pvr",
+    "pvr reversibility",
+    "reactive pulmonary vascular resistance"
+   ],
+   "symbol": "the ox and the nitro smoke breathing into the money pipes while a clerk COUNTS THE BLOCKS BEFORE AND AFTER: how many wooden blocks fall out",
+   "anchors": [
+    "blocks before and after"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "if PVR falls well with oxygen and nitric oxide, the vessels can still relax and the shunt can be closed",
+    "place": "in the catheter laboratory, in the pulmonary arteries"
+   },
+   "why": "count the blocks before and after",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 1,
+    "sticky": 1
+   },
+   "notes": "A large fall (to about a third, or below about 6 Wood units indexed) means reactive: operable.",
+   "firstUsed": "SESATS 12 254-263",
+   "status": "rejected",
+   "reason": "total 7/10 is below 8",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "ventricular-balance",
+   "concept": "balanced versus unbalanced ventricles (in AVSD and single-ventricle decisions)",
+   "terms": [
+    "balanced avsd",
+    "balanced defect",
+    "ventricular balance",
+    "ventricular imbalance",
+    "unbalanced ventricles",
+    "balanced ventricles"
+   ],
+   "symbol": "a SEESAW under the two engine rooms, level when both rooms are a good size, tipped hard when one room is too small",
+   "anchors": [
+    "seesaw"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "two adequate ventricles allow a two-ventricle repair; a small one forces a single-ventricle route",
+    "place": "under the two engine rooms"
+   },
+   "why": "a seesaw level or tipped",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "SESATS 12 254-263",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "straddling",
+   "concept": "straddling or overriding atrioventricular valve (chords crossing the septum)",
+   "terms": [
+    "straddling",
+    "straddling av valve",
+    "straddling atrioventricular valve",
+    "straddling chordae",
+    "straddling tricuspid valve",
+    "straddling mitral valve",
+    "overriding av valve"
+   ],
+   "symbol": "harp strings STRADDLING THE WALL: chords crossing the lower party wall to tie on the other engine room's floor",
+   "anchors": [
+    "straddling the wall"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "a valve's chords attach in the other ventricle: a patch cannot simply close the hole beneath",
+    "place": "across the ventricular septum"
+   },
+   "why": "the strings straddle the wall",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Chords to the crest of the septum (not across it) are not straddling.",
+   "firstUsed": "SESATS 12 254-263",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "naloxone",
+   "concept": "naloxone (reversal of opioids)",
+   "terms": [
+    "naloxone",
+    "narcan",
+    "opioid reversal"
+   ],
+   "symbol": "a big NAIL pinned through a bunch of sleepy red poppies, the sleeper waking with a start",
+   "anchors": [
+    "nail through the poppies"
+   ],
+   "kind": "sound + meaning",
+   "layers": {
+    "sound": "NALoxone = a NAIL",
+    "meaning": "pins the opioid (the poppy) and wakes the patient: breathing returns"
+   },
+   "why": "a nail through the poppies",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Only helps when opioids cause the low breathing.",
+   "firstUsed": "SESATS 12 254-263",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "double-orifice",
+   "concept": "double-orifice (accessory orifice) left atrioventricular or mitral valve",
+   "terms": [
+    "accessory orifice",
+    "double orifice left av valve",
+    "congenital double orifice",
+    "double orifice mitral valve",
+    "double-orifice mitral valve"
+   ],
+   "symbol": "the mitre with a SECOND LITTLE DOORWAY of its own beside the main one, each with its own strings",
+   "anchors": [
+    "second little doorway"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the left AV valve opens through two orifices; the bridge between them must be kept or it will leak",
+    "place": "the left AV valve, as in AVSD"
+   },
+   "why": "two doorways in one mitre",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Close the cleft only partly and never divide the tissue between the orifices.",
+   "firstUsed": "SESATS 12 254-263",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "hypercarbia",
+   "concept": "hypercarbia (high pCO2) and respiratory acidosis",
+   "terms": [
+    "hypercarbia",
+    "hypercapnia",
+    "high pco2",
+    "raised pco2",
+    "carbon dioxide retention",
+    "co2 retention"
+   ],
+   "symbol": "FIZZY SODA bubbles building up in the river because the bellows cannot blow them off",
+   "anchors": [
+    "fizzy soda"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "CO2 retained when breathing is too weak: acidosis, and the lung vessels clamp down",
+    "place": "in the blood"
+   },
+   "why": "soda bubbles build up",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "A trigger of pulmonary hypertensive crisis after repair: ventilate, oxygen, nitric oxide.",
+   "firstUsed": "SESATS 12 254-263",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "right-arch",
+   "concept": "right aortic arch",
+   "terms": [
+    "right aortic arch",
+    "right-sided aortic arch",
+    "right arch",
+    "right-sided arch"
+   ],
+   "symbol": "the orca balloon arching over with a small WHITE DOVE ON ITS ARCH, the arch passing the windpipe on the dove's side",
+   "anchors": [
+    "white dove on its arch"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the arch passes to the right of the trachea: common with tetralogy, pulmonary atresia, truncus and 22q11",
+    "place": "the aortic arch"
+   },
+   "why": "the dove (right) sits on the arch",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Plan shunts on the side opposite the arch; with an aberrant left subclavian it can form a ring.",
+   "firstUsed": "SESATS 12 254-263",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "valve-perforation",
+   "concept": "catheter (radiofrequency) perforation and opening of an atretic pulmonary valve",
+   "terms": [
+    "valve perforation",
+    "radiofrequency perforation",
+    "rf perforation",
+    "catheter perforation",
+    "radiofrequency valve perforation"
+   ],
+   "symbol": "a HOT NEEDLE THROUGH THE CAP: a glowing needle on the fishing line punching through the welded iron cap of a pipe, a little balloon behind it",
+   "anchors": [
+    "hot needle through the cap"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "a membranous atretic valve is punched and ballooned open from inside",
+    "place": "the pulmonary valve, from the right ventricle"
+   },
+   "why": "a hot needle through a welded cap",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Only when the RV and the PA are near each other with a membrane between (PA with intact septum); useless with a VSD and MAPCAs.",
+   "firstUsed": "SESATS 12 254-263",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "reactive-pvr",
+   "concept": "reactive pulmonary vascular resistance: PVR that falls with oxygen and nitric oxide at catheter testing (operability)",
+   "terms": [
+    "reactive pvr",
+    "pvr reactivity",
+    "acute vasodilator testing",
+    "vasodilator testing",
+    "oxygen challenge",
+    "nitric oxide challenge",
+    "operability testing"
+   ],
+   "symbol": "the wooden blocks in the money pipes MELTING LIKE ICE when the ox breathes on them, most of them gone",
+   "anchors": [
+    "melting like ice"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "vessels that can still relax: PVR falls (to about a third) with oxygen and nitric oxide, so the shunt can be closed",
+    "place": "in the pulmonary arteries, at catheterisation"
+   },
+   "why": "the blocks melt when breathed on",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Fixed blocks that do not melt = Eisenmenger physiology (the iceman): do not close.",
+   "firstUsed": "SESATS 12 254-263",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
   }
  ]
 }
