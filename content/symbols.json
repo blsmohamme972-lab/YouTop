@@ -12882,6 +12882,335 @@
    "status": "approved",
    "reason": "total 9/10, 2 layers",
    "audited": "2026-11-26"
+  },
+  {
+   "id": "mac",
+   "concept": "mitral annular calcification (MAC)",
+   "terms": [
+    "mitral annular calcification",
+    "mitral annulus calcification",
+    "annular calcification",
+    "mac",
+    "calcified mitral annulus",
+    "calcified annulus"
+   ],
+   "symbol": "a ring of hard white CORAL grown round the back edge of the mitre's doorway, sharp and stony, the stitches unable to bite into it",
+   "anchors": [
+    "coral"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "calcium hardens the annulus like coral",
+    "place": "the mitral annulus, mostly its posterior part"
+   },
+   "why": "calcium grows on the mitral ring like coral on a reef",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Risks: AV groove disruption (earthquake crack) when it is cut away aggressively, paravalvular leak, circumflex injury.",
+   "firstUsed": "SESATS 12 11-20",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "radiation-heart",
+   "concept": "radiation-induced heart disease (after mantle or chest irradiation): calcified valves, coronary disease, constriction, a hostile chest",
+   "terms": [
+    "radiation-induced heart disease",
+    "radiation heart disease",
+    "mantle radiation",
+    "mantle irradiation",
+    "chest irradiation",
+    "prior radiation"
+   ],
+   "symbol": "the front of the treasure chest and the hotel inside it SCORCHED and baked hard like old pottery by the violet rays of long ago, everything inside stiff and chalky",
+   "anchors": [
+    "scorched"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "old radiation leaves valves, coronaries, pericardium and chest wall stiff, calcified and scarred",
+    "place": "the front of the chest, where the mantle field was"
+   },
+   "why": "the old rays scorched everything in their path",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Often leads to a transcatheter route; porcelain aorta (white china orca) often comes with it.",
+   "firstUsed": "SESATS 12 11-20",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "paravalvular-leak",
+   "concept": "paravalvular (perivalvular) leak around a prosthetic valve",
+   "terms": [
+    "paravalvular leak",
+    "paravalvular regurgitation",
+    "perivalvular leak",
+    "paravalvular",
+    "perivalvular"
+   ],
+   "symbol": "water trickling round the OUTSIDE of the valve's frame, through a gap between the frame and the wall, like a MOAT running round a castle",
+   "anchors": [
+    "moat"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "blood leaking around, not through, a prosthesis",
+    "place": "between the sewing ring and the annulus"
+   },
+   "why": "a moat runs round the outside, not through the gate",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 1,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Through the valve (transvalvular) = water through the gate itself. TEE tells the two apart. Can cause hemolysis (smashed doughnuts).",
+   "firstUsed": "SESATS 12 11-20",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "valve-degeneration",
+   "concept": "structural valve deterioration of a bioprosthesis (wear, tears, calcification)",
+   "terms": [
+    "structural valve deterioration",
+    "structural valve degeneration",
+    "bioprosthetic degeneration",
+    "bioprosthetic valve failure",
+    "failed bioprosthesis",
+    "degenerated bioprosthesis"
+   ],
+   "symbol": "the soft tissue box in the valve's doorway grown old: FRAYED, torn and stiff, its tissues hanging in rags",
+   "anchors": [
+    "frayed"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "a tissue valve wears out with the years",
+    "place": "in the prosthesis' own doorway"
+   },
+   "why": "an old tissue box frays",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Treatment: redo replacement or valve-in-valve (nesting boxes).",
+   "firstUsed": "SESATS 12 11-20",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "septic-embolism",
+   "concept": "septic embolism from endocarditis (embolic stroke, spleen, kidney, limb)",
+   "terms": [
+    "septic embolism",
+    "septic emboli",
+    "embolic stroke from endocarditis",
+    "embolism from endocarditis",
+    "embolic event"
+   ],
+   "symbol": "a playing card sprouting broccoli breaking off the valve and FLYING like a thrown card through the pipes to strike the head lantern",
+   "anchors": [
+    "flying card"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "a piece of vegetation breaks off and lodges downstream",
+    "place": "from the valve to the brain or other organs"
+   },
+   "why": "a card thrown from the endocarditis deck",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "A small embolic stroke without bleeding does not delay needed surgery; a large or haemorrhagic one does.",
+   "firstUsed": "SESATS 12 11-20",
+   "status": "approved",
+   "reason": "total 10/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "heart-team",
+   "concept": "the heart team: surgeon, cardiologist and others deciding together (TAVR versus surgery)",
+   "terms": [
+    "heart team",
+    "multidisciplinary team",
+    "heart-team"
+   ],
+   "symbol": "three KNIGHTS at a ROUND TABLE, a surgeon, a cardiologist and the patient, laying their swords together on one chosen plan",
+   "anchors": [
+    "round table"
+   ],
+   "kind": "meaning",
+   "layers": {
+    "meaning": "one decision made together",
+    "place": "the table where the plan is chosen"
+   },
+   "why": "knights of the round table decide together",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "SESATS 12 11-20",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "acute-mr",
+   "concept": "acute severe mitral regurgitation (chordal or papillary rupture, endocarditis): a small unprepared left atrium, pulmonary oedema, shock",
+   "terms": [
+    "acute mitral regurgitation",
+    "acute severe mitral regurgitation",
+    "acute mr",
+    "acute severe mr"
+   ],
+   "symbol": "a FLASH FLOOD bursting back through the mitre into a small red lobby that has never stretched, flooding straight up into the money sacks",
+   "anchors": [
+    "flash flood"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "sudden regurgitation into a small, stiff atrium raises pressure at once",
+    "place": "from the left ventricle back into the left atrium and lungs"
+   },
+   "why": "a flash flood, not a slow leak",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Chronic MR = a big stretched lobby that holds the water calmly.",
+   "firstUsed": "SESATS 12 11-20",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "annulus-sizing",
+   "concept": "sizing the annulus for TAVR (CT measurement of the aortic annulus area or perimeter)",
+   "terms": [
+    "annular sizing",
+    "annulus sizing",
+    "annular area",
+    "annulus area",
+    "annular perimeter",
+    "annular measurement"
+   ],
+   "symbol": "a jeweller's RING SIZER, a stick of brass rings, held up to the orca's mouth to choose the right size of folded dentures",
+   "anchors": [
+    "ring sizer"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the annulus is measured to choose the valve size",
+    "place": "at the aortic annulus (the orca's mouth)"
+   },
+   "why": "a ring sizer measures a ring",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Usually from CT (the cat slicing the loaf).",
+   "firstUsed": "SESATS 12 11-20",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "asymptomatic-severe-as",
+   "concept": "asymptomatic severe aortic stenosis (operate when the EF falls below 50%, the exercise test is abnormal, or it is very severe)",
+   "terms": [
+    "asymptomatic severe aortic stenosis",
+    "asymptomatic aortic stenosis",
+    "asymptomatic severe as",
+    "asymptomatic as"
+   ],
+   "symbol": "a smiling man striding along with the orca's heavy grey STONE mouth strapped on his back as a STONE PACK, cheerful as if nothing were wrong, while the bouncer of his red engine room weakens behind him",
+   "anchors": [
+    "stone pack"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "severe stenosis without symptoms; surgery when the ventricle begins to fail",
+    "place": "the stone mouth carried on his back"
+   },
+   "why": "he carries a stone pack and does not feel it",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "",
+   "firstUsed": "SESATS 12 11-20",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "acute-ar",
+   "concept": "acute severe aortic regurgitation (endocarditis, dissection, trauma): a small unprepared left ventricle, sudden high filling pressure, shock",
+   "terms": [
+    "acute aortic regurgitation",
+    "acute severe aortic regurgitation",
+    "acute ar",
+    "acute aortic insufficiency"
+   ],
+   "symbol": "a BURST DAM: the orca's mouth torn open all at once so a wall of water crashes back into the small red engine room, which has had no time to stretch",
+   "anchors": [
+    "burst dam"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "sudden regurgitation into a ventricle that has not dilated: pressure soars, output falls",
+    "place": "from the aorta back into the left ventricle"
+   },
+   "why": "a dam bursting, not a slow seep",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Usually needs urgent surgery; an IABP is contraindicated. Chronic AR = a big stretched room filled slowly.",
+   "firstUsed": "SESATS 12 11-20",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
   }
  ]
 }
