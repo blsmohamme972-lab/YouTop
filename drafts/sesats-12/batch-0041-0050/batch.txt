@@ -1,0 +1,168 @@
+book: sesats-12
+
+== 41
+# Q: man after PCI and two CABGs with severe angina on minimal effort, patent grafts but poor run-off from diffuse small-vessel disease, viable muscle on PET: best treatment? A: continued medical therapy
+# the physician's medicine chest opened and its bottles taken in turn, the surgeon's bag left closed = continued medical management -> ANSWER
+# the crown's spike tips split into dry twigs beyond the green cabbage leaves = patent grafts, diffuse distal disease
+# the stone angel and the man stopping after a few steps = severe angina on minimal exertion
+# the barnacle-crusted stern, the faded Slinky = two previous CABGs, old PCI
+# the glowing puppy and the warm walls = viable muscle
+# the pin-cushion laser and the sprayer waved away = no TMR, no VEGF (wrong options)
+title: Refractory angina with diffuse distal disease and patent grafts: medical therapy
+titleAr: ذبحة معندة مع مرض منتشر في الفروع البعيدة وطعوم سالكة: العلاج الدوائي
+tags: cardiac/coronary d:indications q:next-step l:2
+palette: medicine-chest walnut and amber glass with twig brown
+words:
+keywords: medical therapy -> the physician's well-stocked medicine chest of little drawers, opened, its bottles taken in turn; diffuse cad -> the tips of the crown's spikes splitting into thin brittle dry twigs beyond the grafts; cabg -> green cabbage leaves still fresh over the crown's spikes; redo sternotomy -> the stern crusted with barnacles; pci -> an old faded Slinky in one spike; angina -> a heavy stone angel sitting on the man's chest; pet scan -> a glowing puppy sniffing the living walls; tmr (no) -> a thin red laser pricking the wall into a pin-cushion, waved away; angiogenesis (no) -> a gardener's sprayer of growth tonic, waved away; few steps -> the man stopping after only a few steps; living walls -> the engine room's walls glowing warm and alive; closed bag -> the surgeon's bag left shut; old man -> a white-bearded man with a cane
+anchor: the best next treatment -> the physician al-Razi opening his well-stocked medicine chest and handing out its bottles in turn, while the surgeon's bag stays shut
+scene: A walnut-panelled apothecary in Aleppo, amber glass bottles on the shelves. A white-bearded man with a cane stops after only a few steps, a heavy stone angel sitting on his chest. Beside him the cut-open HART Hotel: its stern is crusted with barnacles, an old faded Slinky sits in one spike, green cabbage leaves still lie fresh over the crown's spikes, but beyond them the spikes' tips split into thin brittle dry twigs; the engine room's walls glow warm and alive, and a glowing puppy sniffs them. In the centre, in the strongest light: the physician al-Razi opens his medicine chest of little drawers and hands out its bottles in turn, while the surgeon's bag stays shut. A thin red laser pricking the wall into a pin-cushion and a gardener's sprayer of growth tonic are waved away.
+must: no operation is done; no letters or digits are written anywhere
+
+== 42
+# Q: day after 4-vessel CABG, breathless after extubation, raised left hemidiaphragm moving paradoxically: best explanation? A: phrenic nerve injury from topical cooling and IMA harvest
+# the telephone cable down the side of the aquarium frosted by the ice slush and nicked where the lima vine was pulled free, the left half of the deck rising the wrong way = phrenic injury from cooling and IMA harvest -> ANSWER
+# the cabbage leaves on four spikes = 4-vessel CABG
+# the man breathless, the breathing tube just removed = dyspnoea after extubation
+# the torn deck edge, the cork in the hose and the empty wineskin waved away = not diaphragm injury, mucus plug or atelectasis (wrong options)
+title: Raised, paradoxical left hemidiaphragm after CABG: phrenic nerve injury
+titleAr: ارتفاع الحجاب الأيسر وحركته العكسية بعد المجازات: أذية العصب الحجابي
+tags: cardiac/coronary cardiac/perioperative d:complications q:recall l:2
+palette: frost white and deck brown with cable black
+words:
+keywords: phrenic -> a telephone cable running down the side of the aquarium to the deck, frosted and nicked; topical cooling -> buckets of crushed ice slush tipped into the aquarium round the hotel; lima -> a green lima bean vine pulled free from the left chest wall, right beside the cable; diaphragm -> the deck floor between the chest cabin and the belly hold, its left half raised; cabg -> cabbage leaves on four spikes of the crown; atelectasis (no) -> a money sack flat like an empty wineskin, waved away; paradoxical motion -> the left half of the deck rising when the man breathes in; breathless -> a man gasping just after his breathing tube came out; mucus plug (no) -> a cork stuck in a hose, waved away; torn deck edge (no) -> a torn edge of the deck, waved away; one day after -> a single sunrise in the window; old man -> a grey-bearded man sitting up in bed; tube out -> the breathing tube lying on the tray
+anchor: the best explanation -> the telephone cable down the side of the aquarium frosted by the ice slush and nicked where the lima bean vine was pulled free, so the left half of the deck rises the wrong way
+scene: A frost-white recovery cabin at the first sunrise after surgery. A grey-bearded man sits up in bed, gasping, his breathing tube lying on the tray. Beside him the cut-open HART Hotel stands in its aquarium, cabbage leaves on four spikes of its crown, a green lima bean vine pulled free from the left chest wall. In the centre, in the strongest light: a telephone cable running down the side of the aquarium to the deck is frosted by buckets of crushed ice slush tipped into the aquarium, and nicked right where the vine was pulled free; the left half of the deck rises when the man breathes in. A cork stuck in a hose, a torn edge of the deck and a money sack flat like an empty wineskin are waved away.
+must: the cable runs on the left side; no letters or digits are written anywhere
+
+== 43
+# Q: ten minutes in ICU after CABG (LIMA-LAD, SVG-OM): 5 mm ST elevation in II and III, stable, no arrhythmia: next step? A: the catheterisation laboratory
+# the photographer squirting magenta dye into the crown to see why the rainbow spike has gone dark, the man still calm = go to the cath lab -> ANSWER
+# the elevator stuck high with a hamsa on its plate, the dark rainbow = inferior ST elevation, right coronary territory
+# the lima vine on the lad's slide and the sapphire chain to the acrobat = LIMA-LAD, SVG-OM
+# the steady flag = haemodynamically stable
+# the opened stern, the sausage and the watchman waved away = not straight back to theatre, not IABP, not observation (wrong options)
+title: Inferior ST elevation just after CABG in a stable patient: cath lab
+titleAr: ارتفاع ST السفلي بعد المجازات مباشرة عند مريض مستقر: إلى مختبر القثطرة
+tags: cardiac/coronary d:complications q:next-step l:2
+palette: magenta and rainbow hues with steady blue
+words:
+keywords: angiography -> a photographer squirting glowing magenta dye into the crown and flashing his camera; catheterization -> a long thin fishing line paid out from a reel up from the groin; st elevation -> a street-corner elevator platform stuck high in its raised position; number 5 (ST elevation, mm) -> a small painting on the elevator's plate: a blue hamsa hand; rca -> the crown's right spike bending into a long rainbow, its colours gone dark; lima -> a green lima bean vine laid onto the young lad's slide; svg -> a chain of blue sapphires laid to the acrobat's spike; sternotomy (no) -> the stern opened again, waved away; iabp (no) -> a long sausage-shaped balloon waved away; stable -> a steady flag hanging straight on a calm day; just arrived -> a candle only just lit; observe (no) -> a sleepy watchman waved away; man -> a strong man lying calm on a stretcher; just unpacked -> a nurse still unpacking her tray
+anchor: the best next step -> a photographer, his fishing line run up from the groin, squirting glowing magenta dye into the crown and flashing his camera to see why the rainbow spike has gone dark
+scene: A calm night ward, a candle only just lit, a steady flag hanging straight outside the window. A strong man lies calm on a stretcher, a nurse still unpacking her tray, beside the cut-open HART Hotel: a green lima bean vine lies on the young lad's slide and a chain of blue sapphires reaches the acrobat's spike, but the crown's right spike, the long rainbow, has gone dark; a street-corner elevator platform is stuck high in its raised position, a small painting of a blue hamsa hand on its plate. In the centre, in the strongest light: a photographer, his long fishing line run up from the groin, squirts glowing magenta dye into the crown and flashes his camera at the dark rainbow. The stern opened again, a long sausage-shaped balloon and a sleepy watchman are waved away.
+must: no letters or digits are written anywhere
+
+== 44
+# Q: woman with a drug-eluting stent three years ago, now NSTEMI with multivessel disease; CABG with both IMAs to the left and a vein to a diffusely diseased RCA: strongest reason for a P2Y12 inhibitor plus aspirin after discharge? A: the recent NSTEMI
+# a scale tipping towards the grazed stag, the wooden clogs and the asp standing guard together beside it = recent ACS is the reason for dual antiplatelet therapy -> ANSWER
+# two lima vines from both chest walls to the left spikes, a sapphire chain to the dry-twigged rainbow = bilateral IMA and an SVG to a diffusely diseased RCA
+# the old faded Slinky = PCI three years ago (not the reason)
+# the Slinky, the twigs and the sapphires waved away as reasons = not the old PCI, diffuse RCA or vein graft (wrong options)
+title: Dual antiplatelet therapy after CABG: because of the recent acute coronary syndrome
+titleAr: العلاج المزدوج بمضادات الصفيحات بعد المجازات: بسبب المتلازمة الإكليلية الحادة الحديثة
+tags: cardiac/coronary d:pharmacology q:recall l:2 x:guideline
+palette: forest green and clog wood with stag brown
+words:
+keywords: acs -> a grazed stag still standing, an arrow's red streak on its flank; clopidogrel -> a pair of wooden clogs standing guard; aspirin -> a small asp coiled round a white tablet beside the clogs; lima -> two green lima bean vines, one from each chest wall, laid to the left spikes; svg -> a chain of blue sapphires laid to the rainbow spike; diffuse cad -> the rainbow's far end split into thin dry twigs; pci -> an old faded Slinky in one spike, waved away as the reason; three years -> a faded old ribbon on the Slinky; strongest reason -> a merchant's scale tipping towards the stag; discharge -> a woman walking out through a garden gate; woman -> a woman in a green cloak; guard together -> the clogs and the asp side by side at the gate
+anchor: the strongest reason -> a merchant's scale tipping towards the stag grazed by an arrow, while the wooden clogs and the asp stand guard side by side at the garden gate
+scene: A forest-green garden at the gate of an Aleppo house. A woman in a green cloak walks out through the gate. Beside the path the cut-open HART Hotel: two green lima bean vines, one from each chest wall, lie on the crown's left spikes, a chain of blue sapphires reaches the rainbow spike, whose far end splits into thin dry twigs, and an old faded Slinky with a faded ribbon sits in one spike. In the centre, in the strongest light: a merchant's scale tips towards a stag grazed by an arrow, a red streak on its flank, and a pair of wooden clogs and a small asp coiled round a white tablet stand guard side by side at the gate. The old Slinky is waved away as the reason.
+must: the stag is standing, only grazed; no letters or digits are written anywhere
+
+== 45
+# Q: five days after a STEMI treated with a stent, sudden crushing pain and hypotension, intubated on pressors and inotropes; TEE: large pericardial effusion and an akinetic posterolateral wall: next step? A: repair of the ventricular rupture
+# al-Razi sewing a patch over the blown-out back side wall of the red engine room as the red water is let out of the aquarium = surgical repair of free wall rupture -> ANSWER
+# the outer wall blown out, red water filling the aquarium = free wall rupture with tamponade
+# the stag felled days before, the Slinky in the spike = recent STEMI with a stent
+# the going-out lights, the bellows, the pressed vase and the firework = shock, ventilated, on pressors and inotropes
+# the needle into the aquarium, the fishing line and the cabbage waved away = no pericardiocentesis, catheterisation or CABG (wrong options)
+title: Shock with a pericardial effusion days after MI: repair the free wall rupture
+titleAr: صدمة مع انصباب تاموري بعد أيام من الاحتشاء: إصلاح تمزق الجدار الحر
+tags: cardiac/coronary cardiac/other d:complications q:next-step l:2 x:high-yield
+palette: blood red and lantern gold with stone grey
+words:
+keywords: free wall rupture -> the outer brick wall of the red engine room blown out at its back side, red water gushing; tamponade -> the glass aquarium round the hotel filling fast with red water; mi -> a stag brought down by an arrow days before at the hotel's door; pci -> a coiled Slinky already in the spike; cardiogenic shock -> the hotel's lights going out one by one; ventilation -> a big leather bellows breathing for the man; vasopressor -> two hands pressing a porcelain vase; epinephrine -> a lit firework rocket in the drip stand; patch repair -> al-Razi sewing a thick patch over the blown-out wall; needle (no) -> a needle pushed into the aquarium, waved away; sudden pain -> a thunderclap over the house; back side wall -> the side and back wall of the red room still and thin; days later -> several wilted flowers by the door
+anchor: the best next step -> the physician al-Razi sewing a thick patch over the blown-out back side wall of the red engine room while the red water is let out of the aquarium
+scene: A stone sickroom lit by gold lanterns, a thunderclap overhead. A man lies with a big leather bellows breathing for him, a lit firework rocket in the drip stand and two hands pressing a porcelain vase beside him; several wilted flowers lie by the door, where a stag brought down by an arrow days before lies. The cut-open HART Hotel's lights go out one by one; a coiled Slinky sits in one spike; the side and back wall of the red engine room is still and thin and has blown out, red water gushing into the glass aquarium round the hotel, which fills fast. In the centre, in the strongest light: the physician al-Razi sews a thick patch over the blown-out wall while the red water is let out of the aquarium. A needle pushed into the aquarium is waved away.
+must: no letters or digits are written anywhere
+
+== 46
+# Q: emergency CABG for unstable angina and STEMI; after bypass the lateral wall is oedematous and contracts poorly: this is? A: stunned myocardium
+# a stun gun zapped at the red room's side wall, its fan reeling and dazed with cartoon stars, but alive and puffy = stunned myocardium -> ANSWER
+# the fresh lima vine and sapphire chain = LIMA-LAD, SVG-OM just placed
+# the felled stag = STEMI
+# the sleeping bear, the grey ash and a fence line waved away = not hibernating, infarcted or border-zone myocardium (wrong options)
+title: Swollen, weak wall right after reperfusion: stunned myocardium
+titleAr: جدار متورم ضعيف بعد إعادة التروية مباشرة: عضلة مصعوقة
+tags: cardiac/coronary d:physiology q:recall l:1 x:high-yield
+palette: lightning yellow and dazed blue with brick red
+words:
+keywords: stunning -> a stun gun zapped at the red engine room's side wall, its fan reeling, dazed, cartoon stars circling; hibernating (no) -> a brown bear asleep in the wall, waved away; myocardial scar (no) -> a patch of grey ash, waved away; mi -> a stag brought down by an arrow at the hotel's door; lima -> a fresh green lima bean vine laid on the lad's slide; svg -> a chain of blue sapphires laid to the acrobat's spike; angina -> a heavy stone angel on the woman's chest earlier; puffy wall -> the side wall puffed up soft and soggy; alive -> the dazed wall still warm and red, not grey; border zone (no) -> a fence line along the wall, waved away; woman -> a woman asleep under a quilt; just after -> the pump truck's engine just switched off; recovering -> the stars fading slowly
+anchor: what the finding is -> a stun gun zapped at the red engine room's side wall, its fan reeling and dazed with cartoon stars circling, the wall puffed and soggy but still warm and red
+scene: A yellow-lit recovery room. A woman sleeps under a quilt, a heavy stone angel that sat on her chest now set aside; the roller-pump truck's engine has just been switched off. Beside her the cut-open HART Hotel: a stag brought down by an arrow lies at its door, a fresh green lima bean vine lies on the lad's slide and a chain of blue sapphires reaches the acrobat's spike. In the centre, in the strongest light: a stun gun has zapped the red engine room's side wall; its fan reels, dazed, cartoon stars circling and slowly fading, the wall puffed up soft and soggy but still warm and red. A brown bear asleep in the wall, a patch of grey ash and a fence line along the wall are waved away.
+must: the wall is dazed but alive, not grey; no letters or digits are written anywhere
+
+== 47
+# Q: 75-year-old without symptoms, an 80 percent distal lesion in a non-dominant RCA, normal EF and valves: best management? A: optimised medical therapy
+# the physician's medicine chest opened while the surgeon's tools stay in their case = optimised medical therapy -> ANSWER
+# the small plain rainbow spike without a sash pinched near its tip, the acrobat wearing the king's sash = distal lesion in a non-dominant RCA
+# the man jogging happily, the strong bouncer = no symptoms, normal EF
+# the octopus with the vine, the radio antenna and the sapphire chain waved away = no bypass of any kind (wrong options)
+title: Asymptomatic distal lesion in a non-dominant RCA: medical therapy
+titleAr: تضيق بعيد في شريان تاجي أيمن غير مسيطر دون أعراض: علاج دوائي
+tags: cardiac/coronary d:indications q:next-step l:1
+palette: morning green and medicine-chest walnut with rainbow hues
+words:
+keywords: medical therapy -> the physician's well-stocked medicine chest opened, its bottles lined up; coronary dominance -> the acrobat's spike wearing a royal king's sash, the rainbow spike small and plain; rca -> the crown's right spike bending into a small plain rainbow, pinched near its tip; off-pump (no) -> an octopus with a lima bean vine, waved away; radial artery (no) -> a long thin radio antenna waved away; svg (no) -> a chain of blue sapphires waved away; ejection fraction -> a strong bouncer easily pushing a guest out; no symptoms -> an old man jogging happily on the path; distal small -> the pinch close to the rainbow's far end; tools stay -> the surgeon's tools left in their case; fine doors -> all the valve doors closing well; old man -> a white-bearded man in running sandals; morning -> a bright morning sun
+anchor: the best management -> the physician al-Razi opening his medicine chest and lining up its bottles, while the surgeon's tools stay in their case beside the small plain rainbow spike
+scene: A green park in Aleppo on a bright morning. A white-bearded old man in running sandals jogs happily on the path. Beside the path the cut-open HART Hotel: all its valve doors close well, a strong bouncer easily pushes a guest out, the acrobat's spike wears a royal king's sash, and the crown's right spike is only a small plain rainbow, pinched close to its far end. In the centre, in the strongest light: the physician al-Razi opens his medicine chest and lines up its bottles, while the surgeon's tools stay in their case. An octopus with a lima bean vine, a long thin radio antenna and a chain of blue sapphires are waved away.
+must: no letters or digits are written anywhere
+
+== 48
+# Q: at CABG for three-vessel disease, a severely calcified ascending aorta is found after the LIMA is taken down; the team is not experienced in advanced off-pump work; all three vessels suit PCI: next step? A: off-pump LIMA to LAD, then PCI after surgery
+# a centaur laying the already-harvested lima vine onto the lad's slide with an octopus holding the hotel still, then pushing Slinkies into the other spikes with his hooves = off-pump LIMA-LAD plus later PCI (hybrid) -> ANSWER
+# the orca turned to white porcelain china = calcified ascending aorta
+# the young apprentice with a shaky hand = inexperience in complex off-pump surgery
+# the bat on the orca, the closing lid and a new fabric orca waved away = no epiaortic-guided on-pump CABG, no closing for PCI only, no aortic replacement (wrong options)
+title: Porcelain aorta found at CABG: off-pump LIMA to LAD and PCI for the rest
+titleAr: أبهر خزفي يُكتشف أثناء المجازات: الشريان الثديي إلى الأمامي النازل دون مضخة ثم قسطرة للباقي
+tags: cardiac/coronary cardiac/aorta d:technique q:next-step l:3 x:trap
+palette: porcelain white and centaur chestnut with vine green
+words:
+keywords: hybrid -> a centaur, half surgeon half horseman, laying a vine with his hands and pushing Slinkies with his hooves; porcelain aorta -> the orca balloon turned to white porcelain china, cracking if anyone clamps it; off-pump -> an octopus gripping the beating hotel to hold one spot still; lima -> the green lima bean vine already pulled free from the chest wall, laid onto the young lad's slide; pci -> a coiled Slinky pushed into each of the other two spikes later; ischaemic heart disease -> tar on all three spikes of the crown; epiaortic (no) -> a bat lying on the orca's back, waved away; cpb (no) -> a roller-pump truck waved away; inexperience -> a young apprentice with a shaky hand; closing lid (no) -> a closing lid waved away; new orca (no) -> a new fabric orca waved away; later -> a sunset, then a sunrise; man -> a man asleep on the table
+anchor: the best next step -> a centaur laying the already-harvested lima bean vine onto the young lad's slide while an octopus holds the beating hotel still, then pushing a coiled Slinky into each of the other spikes with his hooves at the next sunrise
+scene: A white porcelain workshop at sunset turning to sunrise. A man sleeps on the table; a young apprentice with a shaky hand hangs back. The cut-open HART Hotel has tar on all three spikes of its crown, and its orca balloon has turned to white porcelain china; a green lima bean vine already pulled free from the chest wall hangs ready. In the centre, in the strongest light: a centaur, half surgeon half horseman, lays the lima vine onto the young lad's slide while an octopus grips the beating hotel to hold one spot still, and then, at sunrise, pushes a coiled Slinky into each of the other two spikes with his hooves. A bat lying on the orca's back, a roller-pump truck, a closing lid and a new fabric orca are waved away.
+must: nothing clamps or touches the china orca; no letters or digits are written anywhere
+
+== 49
+# Q: man with MI and inferior hypokinesis: LAD 80, diagonal 50, proximal RCA 80, circumflex 60; besides LIMA to LAD, the best graft? A: right IMA to the RCA
+# a twin lima bean vine growing from the right chest wall to the rainbow spike beyond its tight pinch = RIMA to RCA -> ANSWER
+# the lima vine on the lad's slide = LIMA to LAD
+# the tight pinch at the rainbow's root and the slow back floor wall = proximal RCA 80, inferior hypokinesis
+# the mild pinches on the diagonal and the acrobat = 50 and 60 percent, not grafted
+# the radio antenna, the pot vine and the sapphire chain to the diagonal waved away = not radial to OM, GEA to PDA or SVG to diagonal (wrong options)
+title: Second arterial graft for a tight proximal RCA: right IMA to the RCA
+titleAr: الطعم الشرياني الثاني لتضيق شديد في بداية الشريان الأيمن: الشريان الثديي الأيمن إليه
+tags: cardiac/coronary d:technique q:next-step l:2
+palette: twin-vine green and rainbow colours with stag brown
+words:
+keywords: lima -> a green lima bean vine from the left chest wall laid on the lad's slide, and a twin lima bean vine from the right chest wall laid to the rainbow; rca -> the crown's right spike bending into a long rainbow arc, tightly pinched near its root; lad -> a young lad sliding down the front of the crown; mi -> a stag brought down by an arrow at the hotel's door; radial artery (no) -> a long thin radio antenna waved away; gastroepiploic (no) -> a pot vine climbing from the cooking pot, waved away; svg (no) -> a chain of blue sapphires to the small diagonal spike, waved away; tight root pinch -> a tight iron ring at the start of the rainbow; mild pinches -> loose rings on the diagonal and on the acrobat's spike, left alone; slow back floor -> the back floor wall of the engine rooms moving slowly; man -> a broad-shouldered man in a red cloak; both sides -> one vine on each side of the chest wall; beyond the pinch -> the vine joining the rainbow past the ring
+anchor: the most appropriate graft -> a twin lima bean vine growing from the right chest wall and joined to the rainbow spike past its tight iron ring, beside the first vine on the lad's slide
+scene: A chestnut and green garden in Aleppo. A broad-shouldered man in a red cloak sits beside the cut-open HART Hotel; a stag brought down by an arrow lies at its door, and the back floor wall of the engine rooms moves slowly. A young lad slides down the front of the crown, a green lima bean vine from the left chest wall laid on his slide; the crown's right spike, a long rainbow arc, has a tight iron ring near its root, and loose rings sit on the small diagonal spike and on the acrobat's spike, left alone. In the centre, in the strongest light: a twin lima bean vine grows from the right chest wall and is joined to the rainbow past its tight ring. A long thin radio antenna, a pot vine climbing from the cooking pot and a chain of blue sapphires to the diagonal spike are waved away.
+must: one vine on each side of the chest; no letters or digits are written anywhere
+
+== 50
+# Q: woman with a STEMI, now pain-free and stable on heparin, loaded with clopidogrel, three-vessel disease not suitable for PCI, EF 40: next step? A: wait five days, then surgery
+# the wooden clogs walking slowly away down the road while an hourglass runs and a calendar shows a hamsa, the surgeon's bag waiting = wait about five days off clopidogrel, then CABG -> ANSWER
+# the felled stag and the escaping toucan = STEMI with raised troponin
+# the hare running on its leash = IV heparin
+# the tar on three spikes = three-vessel disease, PCI not possible
+# the calm face = pain-free and stable
+# the herald, a single sunrise and the medicine chest alone waved away = not emergency surgery, not 24 hours, not medical therapy alone (wrong options)
+title: Stable after STEMI but loaded with clopidogrel: wait five days, then CABG
+titleAr: مستقرة بعد الاحتشاء مع جرعة تحميل كلوبيدوغريل: انتظري خمسة أيام ثم المجازات
+tags: cardiac/coronary d:pharmacology d:indications q:next-step l:2 x:high-yield
+palette: dusk road brown and clog wood with calendar parchment
+words:
+keywords: clopidogrel -> a pair of wooden clogs walking slowly away down the road; number 5 (days to wait) -> a small painting on the calendar: a blue hamsa hand; mi -> a stag brought down by an arrow at the hotel's door; troponin -> a bright tropical toucan escaping through a broken window; heparin -> a fast brown hare running on a leash; ischaemic heart disease -> tar on all three spikes of the crown; cabg -> cabbage leaves waiting in a basket; diabetes -> a small mountain of white sugar cubes by the door; medical therapy (no) -> a medicine chest alone, waved away; waiting -> an hourglass running; bleeding risk -> a small red puddle the surgeon steps round; calm face -> the woman resting without pain; emergency (no) -> a herald with a trumpet, waved away; one day (no) -> a single sunrise, waved away
+anchor: the best next step -> the wooden clogs walking slowly away down the road while an hourglass runs and a calendar painted with a hamsa hand hangs by the waiting basket of cabbage leaves
+scene: A dusk road outside Aleppo. A woman rests without pain on a bench by the road, a small mountain of white sugar cubes beside her. Beside her the cut-open HART Hotel: tar on all three spikes of its crown, a stag brought down by an arrow at its door, a bright tropical toucan escaping through a broken window, and a fast brown hare running on a leash; a basket of cabbage leaves waits, and a small red puddle lies where the surgeon would step. In the centre, in the strongest light: a pair of wooden clogs walks slowly away down the road while an hourglass runs and a calendar hangs by the basket, a small painting of a blue hamsa hand on it. A herald with a trumpet, a single sunrise and a medicine chest alone are waved away.
+must: no letters or digits are written anywhere

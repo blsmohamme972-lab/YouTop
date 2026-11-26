@@ -558,7 +558,11 @@ def symbol_check(items, few_is_problem=True):
     if few_is_problem:
         problems += few
     else:
-        for line in few:
+        # The build only warns when a concept is drawn otherwise: its picture may have been drawn before the concept had
+        # a symbol (since 2026-11-26 a hundred new symbols are made with every hundred lessons). The prompts step refuses.
+        older = [p for p in problems if "is a recurring concept; draw it as" in p]
+        problems = [p for p in problems if p not in older]
+        for line in few + older:
             print("warning:", line)
     if problems:
         die("recurring symbols:\n  " + "\n  ".join(problems))

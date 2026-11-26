@@ -1,0 +1,167 @@
+book: sesats-12
+
+== 81
+# Q: old man needs a permanent pacemaker for heart block after TAVR: what may have raised his risk? A: a pre-existing right bundle branch block
+# the snapped right branch, an old dusty bandage on it, while the dentures' wire frame presses on the left branches = pre-existing RBBB, the frame injures the left bundle -> ANSWER
+# the drawbridge rising, the drummer moving in for good = heart block, permanent pacemaker
+# the folded dentures in the stone mouth = TAVR
+# dentures crimped on a balloon, dentures set high, too-small dentures waved away = not balloon-expandable, high implant or undersizing (wrong options)
+title: Pacemaker after TAVR: a pre-existing right bundle branch block is the strongest warning
+titleAr: منظم دائم بعد زرع الصمام عبر القثطرة: حصار الحزمة اليمنى السابق أقوى نذير
+tags: cardiac/aortic-valve cardiac/arrhythmia d:complications q:recall l:2 x:high-yield
+palette: spark yellow and bandage white with drawbridge brown
+words:
+keywords: rbbb -> the crackling branches inside the lower party wall with a snapped right branch hanging loose; pre-existing -> an old dusty bandage on the snapped branch, from long ago; left bundle branch -> the left of the crackling branches squeezed by a wire frame; pressing frame -> the dentures' wire frame pressing down on the left branches; tavr -> folded dentures sprung open in the orca's stone mouth; heart block -> a raised drawbridge between the upper lobby and the engine rooms; permanent pacemaker -> a marching drummer moving into the hotel for good with his bags; balloon-expandable (no) -> dentures crimped on a balloon, waved away; high implant (no) -> dentures set high up in the mouth, waved away; undersizing (no) -> too-small dentures, waved away; old man -> an old man with a silver moustache; risk -> a merchant's scale tipping towards the snapped branch
+anchor: what raised the risk -> the snapped right branch, an old dusty bandage on it, while the dentures' wire frame presses on the left branches and the drawbridge rises
+scene: A lamplit court of the citadel of Aleppo. An old man with a silver moustache lies beside the cut-open HART Hotel: folded dentures have sprung open in the orca's stone mouth. In the centre, in the strongest light: inside the lower party wall the crackling branches show a snapped right branch hanging loose, an old dusty bandage on it from long ago, while the dentures' wire frame presses down on the left branches; a drawbridge between the upper lobby and the engine rooms rises, and a marching drummer moves into the hotel for good with his bags. A merchant's scale tips towards the snapped branch. Dentures crimped on a balloon, dentures set high up in the mouth and too-small dentures are waved away.
+must: the bandage is old and dusty; no letters or digits are written anywhere
+
+== 82
+# Q: young man with a sudden painful discoloured toe, months of fatigue and dyspnoea, a murmur; echo: a 7 cm left atrial mass attached near the fossa ovalis, mild MR, good LV: next step? A: urgent operation
+# al-Razi lifting the green jelly out at once by its stalk from the edge of the oval fossil, the hourglass knocked over = urgent excision of a myxoma that has embolised -> ANSWER
+# a ball of jelly rolled down to the blue-black big toe = embolism to the toe
+# the jelly's stalk at the edge of the oval fossil, a swimmer on the young man's arm = 7 cm left atrial myxoma on the fossa ovalis
+# the breathless climb, the soft whisper through a listening tube = fatigue, dyspnoea, murmur
+# a puppy and a hare waved away = no PET-CT, no anticoagulation (wrong options)
+title: Left atrial myxoma that has embolised: operate urgently
+titleAr: ورم مخاطي في الأذين الأيسر أحدث صمة: جراحة عاجلة
+tags: cardiac/other d:indications q:next-step l:1 x:high-yield
+palette: jelly green and toe blue-black with citadel sandstone
+words:
+keywords: myxoma -> a big wobbling ball of green jelly on a stalk hanging into the red lobby; fossa ovalis -> an oval fossil pressed into the middle of the upper party wall, the jelly's stalk rooted at its edge; embolism -> a small black bowling ball of green jelly rolled down to the young man's big toe; blue toe -> the big toe turned blue-black and aching; watchful waiting -> an hourglass knocked over by al-Razi's sleeve; number 7 (mass size, cm) -> a small tattoo on the young man's arm: a swimmer; pet-ct (no) -> a puppy waved away; heparin (no) -> a fast brown hare, waved away; murmur -> a soft whisper heard through a brass listening tube; breathless -> the young man stopping breathless on the citadel stairs; young man -> a young archer with a quiver; at once -> a messenger galloping in with a sealed order
+anchor: the best next step -> the physician al-Razi lifting the green jelly out at once by its stalk from the edge of the oval fossil, the hourglass knocked over by his sleeve
+scene: The sandstone stairs of the citadel. A young archer with a quiver stops breathless on the stairs, his big toe turned blue-black and aching, a small black bowling ball of green jelly rolled down to it; a small tattoo of a swimmer is on his arm. A soft whisper is heard through a brass listening tube held to his chest, and a messenger gallops in with a sealed order. Beside him the cut-open HART Hotel: a big wobbling ball of green jelly hangs on a stalk into the red lobby, the stalk rooted at the edge of an oval fossil pressed into the middle of the upper party wall. In the centre, in the strongest light: the physician al-Razi lifts the green jelly out at once by its stalk, an hourglass knocked over by his sleeve. A puppy and a fast brown hare are waved away.
+must: the jelly comes out whole, by its stalk; no letters or digits are written anywhere
+
+== 83
+# Q: woman with hypertension, palpitations and sweating, high catecholamines, normal adrenals on CT, MIBG uptake in the heart, a mass in the interatrial septum: best initial step? A: cardiac MRI
+# a giant red horseshoe magnet humming over the upper party wall, showing the hidden firework workshop inside it, al-Razi's knife still sheathed = cardiac MRI first -> ANSWER
+# the firework workshop in the party wall firing rockets into the pipes = a catecholamine-secreting paraganglioma of the septum
+# the gauge in the red, a fluttering pigeon, beads of sweat = hypertension, palpitations, sweating
+# the two little hats plain and clean, a Man-in-Black's torch lighting the workshop = normal adrenals, MIBG finds it in the heart
+# a goalkeeper alone and a long needle through the neck waved away = no beta blocker first, no biopsy (wrong options)
+title: Cardiac paraganglioma: image it with MRI first
+titleAr: ورم القواتم القلبي: ابدأ بالرنين المغناطيسي
+tags: cardiac/other d:diagnosis q:next-step l:3 x:trap
+palette: magnet red and firework gold with night blue
+words:
+keywords: mri -> a giant red horseshoe magnet humming over the upper party wall; pheochromocytoma -> a hidden firework workshop inside the upper party wall, packing rockets; adrenaline -> lit red firework rockets shooting out into the pipes; hypertension -> an old pressure gauge with its needle in the red; beta blocker (no) -> an ice-hockey goalkeeper standing alone, waved away; biopsy (no) -> a long needle poked through the neck towards the wall, waved away; resect later -> al-Razi's knife still in its sheath; mibg -> a Man-in-Black's glowing torch lighting up the workshop; normal adrenals -> two little tricorn hats on the kidney beans, plain and clean; palpitations -> a fluttering pigeon under the woman's collar; sweating -> beads of sweat on the woman's brow; woman -> a woman of the court in a blue veil
+anchor: the best first step -> a giant red horseshoe magnet humming over the upper party wall, showing the hidden firework workshop inside it, while al-Razi's knife stays in its sheath
+scene: A night-blue chamber of the court. A woman in a blue veil, beads of sweat on her brow and a fluttering pigeon under her collar, sits by an old pressure gauge with its needle in the red. Two little tricorn hats sit on the kidney beans, plain and clean. Beside her the cut-open HART Hotel: inside the upper party wall a hidden firework workshop packs rockets, lit red firework rockets shooting out into the pipes, and a Man-in-Black's glowing torch lights it up. In the centre, in the strongest light: a giant red horseshoe magnet hums over the upper party wall, showing the workshop clearly, while the physician al-Razi's knife stays in its sheath. An ice-hockey goalkeeper standing alone and a long needle poked through the neck are waved away.
+must: the knife stays sheathed; no letters or digits are written anywhere
+
+== 84
+# Q: man with oedema, ascites, dyspnoea, pulsus paradoxus and a rise in venous pressure on inspiration; catheter: early diastolic dip, late high plateau, equal RV and LV diastolic pressures: diagnosis? A: constrictive pericarditis
+# the boa constrictor coiled tight round the aquarium, the rooms filling with a quick dip then a flat high plateau = constrictive pericarditis -> ANSWER
+# the road dipping then running flat high, both lanes level, two fishing lines = dip and plateau with equalised pressures on catheterisation
+# the pair of ducks diving, the kiss mark on the neck with the vein swelling on breathing in = pulsus paradoxus, Kussmaul sign
+# the water-jar belly and dough ankles = ascites and oedema
+# red water, an accordion and a bodybuilder waved away = not tamponade, dilated or hypertrophic cardiomyopathy (wrong options)
+title: Dip and plateau with equal diastolic pressures: constrictive pericarditis
+titleAr: الانخفاض ثم الهضبة مع تساوي الضغوط الانبساطية: التهاب التامور العاصر
+tags: cardiac/other d:diagnosis q:vignette l:2 x:high-yield
+palette: boa grey and road ochre with duck-pond green
+words:
+keywords: constrictive pericarditis -> a huge grey boa constrictor coiled tightly round the hotel's aquarium, so the rooms cannot fill; dip and plateau -> a road in a dip and plateau: it dips sharply, then runs flat along a high plateau, its two lanes at the same height; pulsus paradoxus -> a pair of ducks bobbing on the pulse at the potter's wrist, diving under as he breathes in; kussmaul -> a lipstick kiss mark on the potter's neck, the vein under it swelling as he breathes in; catheterization -> two fishing lines threaded up into the hotel, one into each engine room; ascites -> the potter's belly swollen like a water jar; oedema -> his ankles swollen like rising dough; tamponade (no) -> red water filling the aquarium, waved away; dilated cardiomyopathy (no) -> an over-pulled accordion, waved away; hcm (no) -> a bodybuilder's bulging biceps, waved away; breathless -> the potter gasping for air; potter -> a potter with clay on his hands
+anchor: the diagnosis -> a huge grey boa constrictor coiled tightly round the hotel's aquarium, so the rooms fill with one quick dip and plateau, stopping on a flat high plateau
+scene: A potter's yard below the walls of Aleppo. A potter with clay on his hands gasps for air; his belly is swollen like a water jar and his ankles like rising dough; a lipstick kiss mark is on his neck, the vein under it swelling as he breathes in, and a pair of ducks bob on the pulse at his wrist, diving under as he breathes in. Beside him the cut-open HART Hotel, two fishing lines threaded up into it, one into each engine room. In the centre, in the strongest light: a huge grey boa constrictor coils tightly round the hotel's aquarium, and behind it a road in a dip and plateau dips sharply and then runs flat along a high plateau, its two lanes at the same height. Red water filling the aquarium, an over-pulled accordion and a bodybuilder's bulging biceps are waved away.
+must: the aquarium holds no red water; no letters or digits are written anywhere
+
+== 85
+# Q: woman with a stenotic bicuspid valve needs AVR and fears transfusion: best approach to blood conservation? A: modified ultrafiltration
+# a fine sieve on the pump truck squeezing clear water out of the blood just after bypass, the blood running back thick and red = modified ultrafiltration -> ANSWER
+# the bicycle in the stone mouth, the dentist = AVR for bicuspid AS
+# the bag of red doughnuts pushed away, the sealed jar of saved blood = avoiding transfusion, blood conservation
+# a huge jug of clear water and a yellow ice lolly waved away = not a bigger prime or prophylactic FFP (wrong options)
+title: Blood conservation in heart surgery: modified ultrafiltration
+titleAr: الحفاظ على الدم في جراحة القلب: الترشيح الفائق المعدّل
+tags: cardiac/cpb d:technique q:next-step l:2
+palette: sieve silver and blood red with jasmine white
+words:
+keywords: ultrafiltration -> a fine sieve on the pump truck squeezing clear water out of the blood, the blood running back thick and red; after bypass -> the roller-pump truck's wheels just coming to a stop; cardiopulmonary bypass -> a big roller-pump truck parked beside the hotel; avr -> a dentist fitting brand-new dentures into the orca's mouth; bicuspid -> a bicycle wedged in the orca's mouth; aortic stenosis -> the orca's mouth crusted with grey stone; blood transfusion -> a bag of red doughnuts the woman pushes away; ffp (no) -> a big yellow ice lolly, waved away; priming volume (no) -> a huge jug of clear water poured into the truck, waved away; blood conservation -> a sealed clay jar of saved blood; water out -> clear water dripping into a basin below the sieve; worried woman -> a woman of the court wringing her hands
+anchor: the best approach -> a fine sieve on the roller-pump truck squeezing clear water out of the blood as its wheels stop, the blood running back thick and red, the bag of red doughnuts pushed away
+scene: A jasmine-white courtyard. A woman of the court wrings her hands and pushes away a bag of red doughnuts; a sealed clay jar of saved blood stands beside her. The cut-open HART Hotel: a bicycle is wedged in the orca's mouth, crusted with grey stone, and a dentist fits brand-new dentures into it. A big roller-pump truck is parked beside the hotel, its wheels just coming to a stop. In the centre, in the strongest light: a fine sieve on the truck squeezes clear water out of the blood, the water dripping into a basin below, and the blood runs back to the hotel thick and red. A huge jug of clear water and a big yellow ice lolly are waved away.
+must: no letters or digits are written anywhere
+
+== 86
+# Q: LVAD as bridge to transplant for a non-ischaemic cardiomyopathy, high RA pressure, on milrinone, adrenaline, vasopressin and nitric oxide; flows fall with volume loading, septum shifted left: next step? A: turn the LVAD speed down
+# al-Razi turning down the speed dial on Vader's chest, the party wall springing back to the middle and the swollen blue room emptying = reduce LVAD rpm -> ANSWER
+# Vader's pump in the red room's tip, the over-pulled accordion, the flowerpot at the far end of a bridge = LVAD for dilated cardiomyopathy as a bridge to transplant
+# the swollen blue room, smoke backing down the chimney, the thinning stream = RV failure, high RA pressure, falling flows
+# the nitro smoke, the bat sliding down the pink slide = nitric oxide, TEE
+# a bucket of water and a second Vader waved away = no more volume, no RVAD yet (wrong options)
+title: LVAD flow falls and the septum shifts left: turn the speed down
+titleAr: انخفاض تدفق جهاز دعم البطين وانزياح الحاجز لليسار: خفّض السرعة
+tags: cardiac/heart-failure d:postoperative q:next-step l:3 x:trap
+palette: Vader black and dial amber with swollen blue
+words:
+keywords: lvad speed -> a speed dial on Darth Vader's chest plate, turned down by al-Razi's hand; vad -> Darth Vader, his little pump bolted into the tip of the red engine room; rv failure -> the swollen blue room, its fan stalling and its party wall bowed into the red room; dilated cardiomyopathy -> the engine rooms stretched like an over-pulled accordion; bridge to transplant -> a terracotta flowerpot waiting at the far end of a little bridge; nitric oxide -> a soft puff of nitro smoke breathed into the money pipes; tee -> the bat sliding down inside the pink sofa slide behind the hotel; temporary rvad (no) -> a second Darth Vader at the blue room, waved away; volume loading (no) -> a bucket of water poured into the chimney, waved away; flow falls -> the stream from Vader's pump thinning; venous pressure -> smoke backing down the chimney; wall back -> the party wall springing back to the middle; scholar -> a scholar in a white turban
+anchor: the best next step -> the physician al-Razi turning down the speed dial on Darth Vader's chest plate, so the party wall springs back to the middle and the swollen blue room can empty
+scene: A black-and-amber workshop. A scholar in a white turban lies beside the cut-open HART Hotel, whose engine rooms are stretched like an over-pulled accordion; a terracotta flowerpot waits at the far end of a little bridge. Darth Vader stands by the hotel, his little pump bolted into the tip of the red engine room, the stream from it thinning; the swollen blue room's fan stalls and its party wall bows into the red room, smoke backing down the chimney; a soft puff of nitro smoke is breathed into the money pipes, and the bat slides down inside the pink sofa slide behind the hotel. In the centre, in the strongest light: the physician al-Razi turns down the speed dial on Darth Vader's chest plate, and the party wall springs back to the middle. A bucket of water poured into the chimney and a second Darth Vader at the blue room are waved away.
+must: no letters or digits are written anywhere
+
+== 87
+# Q: woman, large secundum ASD, right mini-thoracotomy with femoral artery and vein cannulation; on starting bypass, arterial line pressure over 300 with a flow of 1.5: most likely cause? A: aortic dissection
+# water forced up from the tail through the cannon in the thigh pipe, tearing a long zipper up the orca, the hose swelling hard while only a trickle comes out = retrograde dissection from femoral perfusion -> ANSWER
+# the brass cannon by the white thigh bone = femoral cannulation
+# a fox, a whistle and a whistle on the hose's gauge = line pressure over 300
+# the mouse through a small mouse hole, the clock with a hole in the upper party wall = minimally invasive repair of a secundum ASD
+# a hose bent double and a bruised liver waved away = not a kinked line or liver injury (wrong options)
+title: High line pressure and low flow on femoral bypass: aortic dissection
+titleAr: ضغط خط مرتفع وتدفق منخفض عند بدء المجازة عبر الفخذ: تسلخ الأبهر
+tags: cardiac/cpb d:complications q:vignette l:2 x:high-yield
+palette: hose green and zipper silver with weaver's indigo
+words:
+keywords: retrograde perfusion -> the pump truck's hose pushed into the orca's tail, water forced up from the tail; dissection -> a long zipper torn open up the orca from the tail, water racing into the new channel; femoral -> the red pipe beside the long white thigh bone; cannulation -> a small brass cannon pushed into the thigh pipe and joined to the hose; number 300 (arterial line pressure, mmHg) -> a small painting on the hose's gauge: a red fox, a golden whistle and a golden whistle; asd -> a hole in the upper party wall; secundum -> a round clock with a sweeping second hand in the middle of the upper party wall, the hole through it; minimally invasive -> a little mouse slipping through a small mouse hole in the side of the hull; high line pressure -> the hose swelling hard as a drum; pump flow -> only a thin trickle coming out of the hose's end; kinked line (no) -> a hose bent double, waved away; liver injury (no) -> a bruised loaf of liver, waved away; woman -> a weaver in indigo
+anchor: the most likely cause -> water forced up from the tail through the brass cannon in the thigh pipe tearing a long zipper up the orca, the hose swelling hard as a drum while only a thin trickle comes out
+scene: A weaver's workshop in indigo. A weaver lies beside the cut-open HART Hotel: a round clock with a sweeping second hand sits in the middle of the upper party wall with a hole through it, and a little mouse slips through a small mouse hole in the side of the hull. A small brass cannon is pushed into the red pipe beside the long white thigh bone and joined to the pump truck's hose, a small painting of a red fox, a golden whistle and a golden whistle on the hose's gauge. In the centre, in the strongest light: water is forced up from the tail and tears a long zipper up the orca, racing into the new channel, while the hose swells hard as a drum and only a thin trickle comes out of its end. A hose bent double and a bruised loaf of liver are waved away.
+must: the zipper starts low, near the tail; no letters or digits are written anywhere
+
+== 88
+# Q: removing the recipient heart at a redo heart transplant, cerebral saturations fall and venous return to the circuit drops: best explanation? A: a malpositioned SVC cannula
+# a brass cannon pushed crooked too far up the chimney, blocking the smoke from the head lantern, while the forehead light meter's needle drops = malpositioned SVC cannula -> ANSWER
+# the hose into the pump truck slowing to a dribble = less venous return
+# the gardener lifting the old hotel from the flowerpot, the barnacle stern = redo heart transplant
+# a fizzing soda bottle, a burst of fireworks and a pale pink river waved away = not CO2, catecholamines or haemodilution (wrong options)
+title: Falling cerebral saturation and venous return: a malpositioned SVC cannula
+titleAr: انخفاض إشباع الدماغ والعود الوريدي: قنية الوريد الأجوف العلوي في غير موضعها
+tags: cardiac/cpb cardiac/heart-failure d:complications q:vignette l:2
+palette: chimney soot and flowerpot terracotta with lantern gold
+words:
+keywords: svc -> the chimney of the HART Hotel's blue wing; svc cannula -> a small brass cannon pushed crooked too far up the chimney, blocking its smoke; cerebral oximetry -> a forehead light meter on the man's brow, its needle dropping as the head lantern dims; head congested -> smoke backing up round the head lantern; transplant -> a gardener lifting the old hotel out of its terracotta flowerpot; redo sternotomy -> the ship's stern crusted with barnacles, opened again; cardiopulmonary bypass -> a big roller-pump truck parked beside the hotel; venous return -> the hose into the truck's tank slowing to a dribble; dilutional anemia (no) -> the river turning pale pink, waved away; carbon dioxide (no) -> a fizzing soda bottle, waved away; catecholamine surge (no) -> a burst of fireworks, waved away; man -> a grey-haired merchant
+anchor: the best explanation -> a small brass cannon pushed crooked too far up the chimney, blocking the smoke from the head lantern, while the forehead light meter's needle drops
+scene: A terracotta-red garden by the river Quwayq. A grey-haired merchant lies beside the HART Hotel, its ship's stern crusted with barnacles and opened again; a gardener lifts the old hotel out of its terracotta flowerpot. A big roller-pump truck is parked beside it, the hose into its tank slowing to a dribble. In the centre, in the strongest light: a small brass cannon is pushed crooked too far up the chimney of the blue wing, blocking its smoke, so the smoke backs up round the head lantern, and a forehead light meter on the merchant's brow drops its needle as the lantern dims. A fizzing soda bottle, a burst of fireworks and the river turning pale pink are waved away.
+must: no letters or digits are written anywhere
+
+== 89
+# Q: heavy man with an NSTEMI, CABG two days later; heparin 300 U/kg then more, ACT reached 480 but kept falling on bypass, 66,000 units in all: next step? A: give 500 units of antithrombin III
+# a big red ant in jockey silks, a hamsa hand, a whistle and a whistle on his saddle-cloth, leaping onto the tired brown hare so it runs at last = 500 units of antithrombin III for heparin resistance -> ANSWER
+# the magician's stopwatch stopping too soon, the heap of empty carrot bowls = low ACT despite huge heparin doses
+# the grazed stag, two suns, the cabbage = NSTEMI, heparin for two days before CABG
+# another carrot bowl and a black leech waved away = no more heparin, no bivalirudin (wrong options)
+title: Heparin resistance on bypass: give antithrombin III
+titleAr: مقاومة الهيبارين أثناء المجازة: أعطِ مضاد الثرومبين الثالث
+tags: cardiac/cpb d:pharmacology q:next-step l:2 x:high-yield
+palette: hare brown and jockey red with racecourse green
+words:
+keywords: antithrombin -> a big red ant in jockey silks leaping onto the brown hare; number 500 (units of antithrombin III) -> a small design painted on the jockey's saddle-cloth: a blue hamsa hand, a golden whistle and a golden whistle; heparin -> a fast brown hare, tired, that will not run without its rider; act -> a magician's stage act, blood poured into a glass, his huge stopwatch stopping too soon; nstemi -> a grazed stag still standing, an arrow's red streak on its flank; cabg -> a cabbage of sapphire-blue leaves set on the hotel; bivalirudin (no) -> a big black leech, waved away; many boluses -> a heap of empty carrot bowls fed to the hare; re-bolus (no) -> yet another carrot bowl, waved away; two days -> two suns on the window frame; heavy man -> a big-bellied wrestler; runs at last -> the hare finally sprinting
+anchor: the best next step -> a big red ant in jockey silks, a blue hamsa hand, a golden whistle and a golden whistle on his saddle-cloth, leaping onto the tired brown hare so it runs at last
+scene: A racecourse-green field outside Aleppo, two suns on a window frame of the stand. A big-bellied wrestler lies beside the HART Hotel, a cabbage of sapphire-blue leaves set on it, and a grazed stag stands beside him, an arrow's red streak on its flank. A heap of empty carrot bowls has been fed to a fast brown hare, tired, which will not run; a magician pours blood into a glass, his huge stopwatch stopping too soon. In the centre, in the strongest light: a big red ant in jockey silks, a small design of a blue hamsa hand, a golden whistle and a golden whistle painted on his saddle-cloth, leaps onto the hare, and the hare finally sprints. Yet another carrot bowl and a big black leech are waved away.
+must: no letters or digits are written anywhere
+
+== 90
+# Q: AVR for bicuspid AR; antegrade cardioplegia distends the LV, retrograde fails to arrest after 3 minutes; a persistent left SVC with no innominate vein: next step? A: cannulate the left SVC with an occlusion snare
+# a brass cannon pushed into the second chimney and a lasso pulled tight round it, so the backward banana water stays in the walls and the fans stop = cannula plus snare in the LSVC -> ANSWER
+# the second chimney pouring into the crowned sink, no bridge between the two chimneys = persistent LSVC to the coronary sinus, no innominate vein
+# the backward banana water escaping up the second chimney = retrograde cardioplegia lost
+# the bicycle in the sagging dripping mouth, the red room swelling under the banana bucket = bicuspid AR, LV distension with antegrade cardioplegia
+# a drawstring purse round the sink, a trembling Pinocchio and an ice cube waved away = not a purse-string in the RA, fibrillatory arrest or circulatory arrest (wrong options)
+title: Persistent left SVC with no innominate vein: cannulate and snare it for retrograde cardioplegia
+titleAr: وريد أجوف علوي أيسر مستمر بلا وريد لا اسم له: ضع فيه قنية مع رباط لشلل القلب الراجع
+tags: cardiac/cpb cardiac/congenital d:technique q:next-step l:3 x:trap
+palette: banana yellow and chimney brick with lasso tan
+words:
+keywords: left svc -> a second chimney on the left side of the hotel, its smoke running down into the crowned sink; cannulation -> a small brass cannon pushed into the second chimney; snare -> a cowboy's lasso pulled tight round the second chimney above the cannon; retrograde cardioplegia -> backward banana water pushed up the crowned sink's drain, escaping up the second chimney; coronary sinus -> a sink with a little green crown in the blue lobby floor; aortic regurgitation -> the orca's mouth sagging, water dripping back into the red room; bicuspid -> a bicycle wedged in the orca's mouth; antegrade cardioplegia -> a bucket of ice-cold banana water poured into the orca; lv distension -> the red engine room swelling like a balloon; no bridging vein -> no bridge between the two chimneys; purse-string (no) -> a drawstring purse round the sink, waved away; fibrillatory arrest (no) -> Pinocchio trembling in the engine room, waved away; man -> a man in a saffron robe
+anchor: the best next step -> a small brass cannon pushed into the second chimney and a cowboy's lasso pulled tight round it, so the backward banana water stays in the walls and the fans stop
+scene: A banana-yellow kitchen of the palace. A man in a saffron robe lies beside the cut-open HART Hotel: a bicycle is wedged in the orca's sagging mouth, water dripping back into the red room, and a bucket of ice-cold banana water poured into the orca makes the red engine room swell like a balloon. Backward banana water pushed up the crowned sink's drain in the blue lobby floor escapes up a second chimney on the left side of the hotel, whose smoke runs down into the sink; there is no bridge between the two chimneys. In the centre, in the strongest light: a small brass cannon is pushed into the second chimney and a cowboy's lasso is pulled tight round it above the cannon, so the backward banana water stays in the walls and the fans stop. A drawstring purse round the sink and Pinocchio trembling in the engine room are waved away.
+must: no letters or digits are written anywhere

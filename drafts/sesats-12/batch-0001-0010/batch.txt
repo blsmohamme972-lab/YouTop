@@ -1,0 +1,168 @@
+book: sesats-12
+# Third hundred of the cardiac plan (the owner, 2026-11-26: a style and quotations per hundred, chosen by the agent):
+# ligne claire comic style; Aleppo of Sayf al-Dawla and al-Mutanabbi; the physician al-Razi heals; quotations: al-Mutanabbi.
+
+== 1
+# Q: dialysis patient with patent grafts after CABG, EF 30, hypotension on dialysis, aortic valve area 0.7: best next step? A: TAVR
+# folded dentures carried up a fishing line from the groin and sprung open in the orca's stone mouth, the old barnacle-crusted stern left shut = transcatheter AVR, no redo sternotomy -> ANSWER
+# the orca's mouth turned to stone with a whistle, a drop and a swimmer = severe AS, area 0.7
+# the old man fainting beside the dialysis washing machine, the shrivelled kidney beans = end-stage renal disease, hypotension on dialysis
+# the cabbage leaves still green on the crown = patent grafts
+# the feeble bouncer = EF 30
+# the leather bladder, the robot and the tissue box through the stern waved away = no balloon, no surgical mechanical or tissue valve (wrong options)
+title: Severe AS in a frail dialysis patient after CABG: TAVR
+titleAr: تضيق أبهري شديد عند مريض غسيل كلوي هش بعد المجازات: استبدال الصمام عبر القثطرة
+tags: cardiac/aortic-valve d:indications q:vignette l:2 x:high-yield
+palette: sandstone yellow and sky blue with stone grey
+words:
+keywords: tavr -> a set of folded dentures carried up a fishing line from the groin and sprung open in the orca's mouth; valve stenosis -> the orca balloon's mouth turned to narrow grey stone; number 0.7 (valve area, square cm) -> a small painting on the stone: a golden whistle, a golden drop and a swimmer; kidney -> a pair of big red kidney beans shrivelled dry and grey, a washing machine churning beside them; cabg -> green cabbage leaves still lying fresh over the crown's spikes; ejection fraction -> a feeble nightclub bouncer barely pushing a guest out of the red engine room's door; redo sternotomy -> the old stern of a ship crusted with barnacles that glue it to the hotel, left shut; grey-bearded man -> an old grey-bearded man in a striped robe; balloon (no) -> an old leather bladder waved away; old pressure -> an old cracked boiler hissing in the corner; groin route -> a little trapdoor in the floor where the line enters; frailty -> the old man's glass walking stick leaning on the couch; sessions cut short -> an hourglass stopped half full beside the couch
+anchor: the best next step -> a set of folded dentures carried up a long fishing line from the groin and sprung open in the orca's stone mouth, while the old barnacle-crusted stern stays shut
+scene: A sandstone courtyard of an Aleppo khan under a clear sky, an old cracked boiler hissing in the corner. An old grey-bearded man in a striped robe slumps on a couch beside a washing machine, an hourglass stopped half full beside him, that churns beside a pair of big red kidney beans shrivelled dry and grey; his glass walking stick leans on the couch. Next to him stands the cut-open HART Hotel: green cabbage leaves still lie fresh over its crown's spikes, a feeble bouncer barely pushes a guest out of the red engine room's door, and the orca balloon's mouth has turned to narrow grey stone, a small painting on it of a golden whistle, a golden drop and a swimmer. The old stern of a ship beside the hotel is crusted with barnacles that glue it to the hotel, and it stays shut. In the centre, in the strongest light: a long thin fishing line paid out from a reel through a little trapdoor in the floor, up from the groin, carries a set of folded dentures that spring open in the orca's stone mouth. An old leather bladder is waved away.
+must: the stern stays shut; no letters or digits are written anywhere
+
+== 2
+# Q: after a Ross and later a mechanical root conduit, S. bovis endocarditis with a vegetation and a 1.5 cm space behind the conduit: best management? A: redo AVR (root)
+# al-Razi reopening the scarred stern and lifting out the whole infected robot-valve conduit with the dark cesspool behind it, a new one ready = redo aortic valve/root replacement -> ANSWER
+# the broccoli cards on the robot, the dark festering cesspool behind it with a unicorn, a drop and a hamsa = prosthetic endocarditis with a 1.5 cm abscess cavity
+# the grazing cow looking down its own gut at a little crab = Streptococcus bovis (look for a colon tumour)
+# the barnacle-crusted stern opened again = redo sternotomy
+# the rose moved long ago, the folded tissue box on the dollar pipe = Ross, then a transcatheter pulmonary valve
+# the pencil alone and the apron flap waved away = antibiotics alone or omental flap are not enough (wrong options)
+title: Mechanical root endocarditis with an abscess after a Ross: redo the root
+titleAr: التهاب شغاف على جذر ميكانيكي مع خراج بعد عملية روس: إعادة استبدال الجذر
+tags: cardiac/aortic-valve d:indications q:next-step l:3
+palette: cow-pasture green and abscess yellow with steel
+words:
+keywords: endocarditis -> playing cards sprouting broccoli on the robot valve; mechanical valve -> a clanking little steel robot set in the orca's mouth on a fabric tube; abscess -> a small walled cesspool of thick festering yellow pus behind the robot's tube; number 1.5 (cavity size, cm) -> a small painting on the cesspool's wall: a white unicorn, a golden drop and a blue hamsa hand; ross -> a gardener's red rose, moved long ago; redo sternotomy -> the stern of a ship crusted with barnacles, opened again with care down its white centre line; antibiotics (no) -> a giant pencil alone, waved away; tissue valve -> a folded tissue box already set in the dollar pipe's door; strep bovis -> a grazing cow peering with a lantern down its own long winding gut, a small red crab hiding in a bend of it; fever -> a young man shivering under a blanket; night chills -> a crescent moon over the pasture; redo -> al-Razi lifting out the whole infected conduit, a new one ready; omental flap (no) -> an apron flap waved away; hidden hollow -> a dark hollow behind the conduit
+anchor: the best management -> the physician al-Razi, through the barnacle-crusted stern opened again, lifting out the whole infected robot-valve conduit with its festering cesspool behind it, a new one ready in his helper's hands
+scene: A green pasture outside Aleppo: a grazing cow peers with a lantern down its own long winding gut, a small red crab hiding in a bend of it. A young man shivers under a blanket beneath a crescent moon. Beside him the cut-open HART Hotel: a gardener's red rose was moved long ago, a folded tissue box sits in the dollar pipe's door, and in the orca's mouth a clanking little steel robot sits on a fabric tube, playing cards sprouting broccoli on it; behind the tube is a dark hollow, a small walled cesspool of thick festering yellow pus, a small painting on its wall of a white unicorn, a golden drop and a blue hamsa hand. In the centre, in the strongest light: through the stern of a ship crusted with barnacles, opened again with care down its white centre line, the physician al-Razi, grey beard and scholar's turban, lifts out the whole infected conduit, a new one ready in his helper's hands. A giant pencil alone and an apron flap are waved away.
+must: the whole conduit comes out; no letters or digits are written anywhere
+
+== 3
+# Q: 65-year-old choosing a bioprosthetic AVR: compared with mechanical, it offers? A: the option of a later valve-in-valve transcatheter procedure
+# a new folded tissue box sprung open inside the old worn one, carried up a fishing line, nested like boxes = valve-in-valve TAVR later -> ANSWER
+# the soft tissue box in the orca's stone mouth = bioprosthetic AVR for calcific AS
+# the robot with the rat on guard = mechanical valve needs warfarin
+# the cards, the leaking edge and the reopened stern waved away = not less endocarditis, more leak or the same reoperation rate (wrong options)
+title: Why a tissue AVR keeps doors open: valve-in-valve later
+titleAr: ميزة الصمام الأبهري النسيجي: إمكانية زرع صمام داخل صمام لاحقًا
+tags: cardiac/aortic-valve d:evidence q:recall l:1
+palette: market saffron and turquoise with box white
+words:
+keywords: tissue valve -> a soft paper tissue box set in the orca's mouth; valve stenosis -> the orca's mouth crusted with grey stone round the box; mechanical valve -> a clanking little steel robot on the other side of the scale; warfarin -> a rat in a soldier's helmet guarding the robot; tavr -> a set of folded dentures beside the box on a fishing line; catheterization -> a long thin fishing line up from the groin; endocarditis (no) -> playing cards sprouting broccoli, waved away; valve-in-valve -> a new folded tissue box sprung open inside the old worn one, nested like nesting boxes; choice -> a man weighing two caskets on a merchant's scale; years later -> the old box worn and frayed at its edges; leak (no) -> water seeping round the edge, waved away; reoperation (no) -> a stern crusted with barnacles being reopened, waved away; silver-streaked man -> a man with a silver-streaked beard; future -> an hourglass standing beside the boxes
+anchor: what the tissue valve offers -> a new folded tissue box carried up a fishing line and sprung open inside the old worn one in the orca's mouth, nested like boxes
+scene: A saffron and turquoise souk. A man with a silver-streaked beard weighs two caskets on a merchant's scale, an hourglass standing beside him: in one pan a soft paper tissue box, in the other a clanking little steel robot guarded by a rat in a soldier's helmet. Beside him the cut-open HART Hotel: the orca's mouth is crusted with grey stone round a soft paper tissue box, now worn and frayed at its edges. In the centre, in the strongest light: a long thin fishing line up from the groin carries a new folded tissue box, which springs open inside the old worn one, nested like nesting boxes; a set of folded dentures lies beside them on the line. Playing cards sprouting broccoli, water seeping round an edge and a stern crusted with barnacles being reopened are waved away.
+must: the new box sits inside the old box; no letters or digits are written anywhere
+
+== 4
+# Q: after mitral repair (quadrangular resection, plication, 28 ring), severe MR with SAM off bypass: best next step? A: give volume, stop inotropes, raise blood pressure
+# the water-seller filling the red engine room, the firework doused in a bucket and two hands pressing the vase so Uncle Sam loses his grip on the mitre's front leaf = volume, stop inotropes, raise afterload -> ANSWER
+# Uncle Sam yanking the front leaf into the orca's doorway, water gurgling back = SAM with MR
+# the brass collar ring with a dragon and a violin = 28 mm ring after resection and plication
+# the robot, the trombone player and the bow tie waved away = no replacement, sliding plasty or Alfieri first (wrong options)
+title: SAM after mitral repair: first fill, stop inotropes and raise the pressure
+titleAr: الحركة الأمامية الانقباضية بعد إصلاح التاجي: أولًا سوائل وإيقاف المقويات ورفع الضغط
+tags: cardiac/mitral-tricuspid d:complications q:next-step l:2 x:high-yield
+palette: vase blue and firework red with water silver
+words:
+keywords: sam -> Uncle Sam in his star-spangled top hat yanking the mitre's front leaf into the orca's doorway; mitral -> the bishop's mitre in the red engine room's upper doorway; regurgitation -> water gurgling back through the mitre; annulus -> a brass collar ring round the mitre's doorway; number 28 (ring size, mm) -> a small engraving on the collar: a green dragon and a violin; epinephrine -> a lit firework rocket being doused in a bucket of water; vasopressor -> two big hands pressing a tall porcelain vase so the water in it rises; volume -> the water-seller pouring his goatskin into the red engine room; loosened grip -> Uncle Sam's hand slipping off the leaf; sliding plasty (no) -> a trombone player, waved away for now; square repair -> a square notch neatly sewn in the mitre's back leaf; severe leak -> a fountain of water spraying up into the lobby; first steps -> a short checklist scroll with three ticks
+anchor: the best next step -> the water-seller pouring his goatskin into the red engine room while the firework is doused in a bucket and two big hands press the porcelain vase, so Uncle Sam's hand slips off the mitre's front leaf
+scene: A blue-tiled Aleppo bathhouse with silver light. In the cut-open HART Hotel a brass collar ring sits round the mitre's doorway, a small engraving on it of a green dragon and a violin; a square notch is neatly sewn in the mitre's back leaf; Uncle Sam in his star-spangled top hat yanks its front leaf into the orca's doorway, and water gurgles back through the mitre in a fountain spraying up into the lobby. A short checklist scroll with three ticks hangs on the wall. In the centre, in the strongest light: the water-seller pours his goatskin into the red engine room, a lit firework rocket is doused in a bucket of water, and two big hands press a tall porcelain vase so the water in it rises; Uncle Sam's hand slips off the leaf. A trombone player is waved away.
+must: no letters or digits are written anywhere
+
+== 5
+# Q: healthy 43-year-old with Barlow's valve, diffuse prolapse of both leaflets: best management? A: neochords to both leaflets and an annuloplasty ring
+# a harp-maker stringing shining new silver strings onto both billowing leaves of the floppy mitre while al-Razi sets a brass collar ring round its doorway = neochords and ring -> ANSWER
+# both leaves billowing like sails from a low bar = Barlow's bileaflet prolapse
+# the robot, the knife cutting the front leaf and the corner stitch waved away = no replacement, no anterior resection, no commissural repair alone (wrong options)
+title: Barlow's valve with bileaflet prolapse: neochords to both leaflets and a ring
+titleAr: صمام بارلو مع هبوط الوريقتين: حبال وترية صناعية للوريقتين وحلقة
+tags: cardiac/mitral-tricuspid d:technique q:next-step l:2
+palette: harp gold and sail white with lapis blue
+words:
+keywords: mitral -> the bishop's mitre, floppy and over-big; neochords -> a harp-maker stringing shining new silver strings from a spool onto both leaves, pulling them down; annulus -> a brass collar ring set round the mitre's doorway; regurgitation -> water gurgling back between the billowing leaves; tee -> a bat sliding down inside the pink sofa slide behind the hotel; mechanical valve (no) -> a clanking little steel robot waved away; barlow -> the floppy mitre hanging from a low bar, both its leaves billowing up into the lobby like ship's sails (BAR-LOW); breathless rider -> the man pausing for breath after a gallop; both leaflets -> new strings on the front leaf and on the back leaf alike; healthy man -> a fit man in riding boots holding a falcon; anterior resection (no) -> a knife cutting the front leaf, waved away; corner stitch (no) -> a single stitch at the corner, waved away
+anchor: the best management -> a harp-maker stringing shining new silver strings from a spool onto both billowing leaves of the floppy mitre, front and back, while the physician al-Razi sets a brass collar ring round its doorway
+scene: A lapis and gold hall in Sayf al-Dawla's palace. A fit man in riding boots holds a falcon, pausing for breath after a gallop, beside the cut-open HART Hotel. In its red engine room's upper doorway the bishop's mitre is floppy and over-big, hanging from a low bar, both its leaves billowing up into the lobby like ship's sails, water gurgling back between them; a bat slides down inside a pink sofa slide behind the hotel. In the centre, in the strongest light: a harp-maker strings shining new silver strings from a spool onto both leaves, front and back alike, pulling them down, while the physician al-Razi sets a brass collar ring round the doorway. A clanking little steel robot, a knife cutting the front leaf and a single stitch at the corner are waved away.
+must: both leaves get new strings; no letters or digits are written anywhere
+
+== 6
+# Q: after mitral repair with a 32 mm complete ring, SAM with severe MR and an LVOT gradient above 50 persists despite rate, inotrope, volume and pressure measures: next? A: posterior leaflet sliding plasty
+# a trombone player pushing his slide down so the three scallop shells of the mitre's back leaf slide lower and are stitched there, Uncle Sam losing his grip = sliding plasty -> ANSWER
+# Uncle Sam yanking the front leaf, the water piling at the orca's doorway with a hamsa and a whistle = persistent SAM, gradient over 50
+# the goalkeeper, the doused firework, the poured jugs and the pressed vase = measures already tried
+# the swapped collar, the corner stitch and the robot waved away = not a smaller ring, an A3-P3 stitch or replacement (wrong options)
+title: Persistent SAM despite medical measures: posterior leaflet sliding plasty
+titleAr: الحركة الأمامية الانقباضية المستمرة رغم الإجراءات: تقصير الوريقة الخلفية بالانزلاق
+tags: cardiac/mitral-tricuspid d:complications d:technique q:next-step l:3
+palette: brass-band gold and Uncle-Sam red-white-blue with sea green
+words:
+keywords: sam -> Uncle Sam in his star-spangled top hat yanking the mitre's front leaf into the orca's doorway; scallops -> the back leaf of the mitre made of three scallop shells; mitral -> the bishop's mitre in the red engine room's doorway; annulus -> a brass collar ring round the doorway; number 50 (outflow gradient, mmHg) -> a small painting on the doorway: a blue hamsa hand and a golden whistle; beta-blocker -> an ice-hockey goalkeeper who has already tried; epinephrine -> a firework already doused in a bucket; sliding plasty -> a trombone player pushing his slide down, the three scallop shells of the back leaf sliding down with it and stitched lower; smaller ring (no) -> a smaller collar ring offered, waved away; corner stitch (no) -> a single stitch at the corner, waved away; triangle cut -> a small triangle notch sewn in the back leaf; stiff full circle -> the collar a full closed circle, stiff as iron; measures tried -> two empty water jugs lying on their sides
+anchor: the best next step -> a trombone player pushing his slide down so the three scallop shells of the mitre's back leaf slide lower and are stitched there, and Uncle Sam can no longer pull the front leaf into the orca's doorway
+scene: A brass-band stage by the sea. In the cut-open HART Hotel a brass collar ring, a full closed circle stiff as iron, sits round the mitre's doorway; a small triangle notch is sewn in the mitre's back leaf; Uncle Sam in his star-spangled top hat yanks the front leaf into the orca's doorway, water piling up behind it, a small painting of a blue hamsa hand and a golden whistle on the doorway. An ice-hockey goalkeeper, a firework already doused in a bucket and two empty water jugs lying on their sides show what has already been tried. In the centre, in the strongest light: a trombone player pushes his slide down, the three scallop shells of the mitre's back leaf slide lower with it and are stitched there, and Uncle Sam's grip fails. A smaller collar ring and a single stitch at the corner are waved away.
+must: the scallop shells are moved lower; no letters or digits are written anywhere
+
+== 7
+# Q: mitral repair in a left-dominant patient (P2 resection, plication, 34 ring): off bypass no MR but EF falls from 65 to 35 with a lateral wall motion abnormality: next step? A: revise the annuloplasty ring
+# al-Razi snipping the stitch of the brass collar that is caught round the big acrobat's leg and resetting the collar = revise the ring (circumflex injury) -> ANSWER
+# the big strong acrobat curling round the back-left spike, a stitch biting his leg = left-dominant circumflex caught by a ring suture
+# the frozen side wall of the red room, the bouncer with a fox and a hamsa = lateral wall motion abnormality, EF 35
+# the dry mitre doorway = no MR
+# the sausage with the rockets, the Slinky and the gills box waved away = not IABP, PCI or ECMO (wrong options)
+title: New lateral wall dysfunction after mitral repair: the ring caught the circumflex, revise it
+titleAr: خلل حركة الجدار الجانبي بعد إصلاح التاجي: غرزة الحلقة أصابت الشريان المنعطف، أعد وضعها
+tags: cardiac/mitral-tricuspid cardiac/coronary d:complications q:next-step l:3 x:trap
+palette: circus red and brass with crown green
+words:
+keywords: circumflex -> a big strong circus acrobat curling round the left side of the crown, a stitch biting his leg; annulus -> a brass collar ring round the mitre's doorway, one stitch caught round the acrobat's leg; mitral -> the bishop's mitre's doorway, dry, no leak; ejection fraction -> a feeble bouncer barely pushing a guest out; number 35 (ejection fraction, percent) -> a small tattoo on the bouncer's arm: a red fox and a blue hamsa hand; iabp (no) -> a long sausage-shaped balloon beside firework rockets, waved away; pci (no) -> a coiled Slinky waved away; ecmo (no) -> fish gills in a clear box waved away; revise -> al-Razi snipping the biting stitch and resetting the collar; left-dominant coronary -> the big strong acrobat wearing a king's sash, carrying most of the crown's weight; frozen wall -> one side wall of the red engine room standing still; middle cut -> a square notch sewn in the middle scallop of the back leaf; alarm -> a small bell ringing on the wall; good heart before -> a portrait on the wall of the strong red room before the operation
+anchor: the best next step -> the physician al-Razi snipping the stitch of the brass collar that is caught round the big acrobat's leg and resetting the collar
+scene: A red and brass circus tent in Aleppo. A small bell rings on the wall beside a portrait of the strong red room before the operation. In the cut-open HART Hotel the bishop's mitre's doorway is dry, with no leak, a square notch sewn in the middle of its back leaf and a brass collar ring round it; one of the collar's stitches is caught round the leg of a big strong circus acrobat wearing a king's sash who curls round the left side of the green crown, carrying most of its weight. One side wall of the red engine room stands still, and a feeble bouncer barely pushes a guest out, a small tattoo of a red fox and a blue hamsa hand on his arm. In the centre, in the strongest light: the physician al-Razi snips the biting stitch and resets the collar, freeing the acrobat's leg. A long sausage-shaped balloon beside firework rockets, a coiled Slinky and fish gills in a clear box are waved away.
+must: the stitch is round the acrobat's leg; no letters or digits are written anywhere
+
+== 8
+# Q: AVR for stenosis, bicuspid (Sievers 1, L-R fusion), ascending aorta 4.2 cm into the root, no family history: best management? A: isolated open AVR
+# a dentist fitting new dentures into the orca's mouth in place of the bicycle while a tailor's tape round the orca shows a cap and a dragon below the chalk line = isolated AVR, leave a 4.2 cm aorta -> ANSWER
+# the bicycle wedged in the orca's stone mouth, two of its wheels joined by a welded seam = bicuspid valve with fusion and stenosis
+# the empty family-tree frame = no family history
+# the bendy straw, a new fabric tube and the folded dentures on a line waved away = no composite root, ascending graft or TAVR (wrong options)
+title: Bicuspid AS with a 4.2 cm aorta: isolated AVR
+titleAr: تضيق صمام ثنائي الشرف مع أبهر ٤٫٢ سم: استبدال الصمام وحده
+tags: cardiac/aortic-valve cardiac/aorta d:indications q:vignette l:2 x:guideline
+palette: tailor's chalk white and bicycle red with orca black
+words:
+keywords: bicuspid -> a bicycle wedged in the orca's mouth, its two wheels for the two lips; valve stenosis -> the orca's mouth crusted with grey stone round the bicycle; avr -> a dentist fitting brand-new dentures into the orca's mouth; aorta -> the orca balloon, only a little wide; number 4.2 (ascending aorta, cm) -> a small painting on the tailor's tape: a graduation cap, a golden drop and a green dragon; bentall (no) -> a big bendy straw waved away; tavr (no) -> folded dentures on a fishing line, waved away; sternotomy -> the stern of a ship opened down its white centre line; fused seam -> a welded seam joining the bicycle's two wheels; measure -> a tailor's tape round the orca, below a chalk line; no family history -> an empty family-tree frame; ascending graft (no) -> a new fabric tube waved away; man -> a merchant in a red cap waiting
+anchor: the best management -> a dentist, through the opened stern, fitting brand-new dentures into the orca's mouth in place of the stone-crusted bicycle, while a tailor's tape round the orca stops below the chalk line
+scene: A chalk-white tailor's shop in the souk. An empty family-tree frame hangs on the wall and a merchant in a red cap waits. Beside it the cut-open HART Hotel, the stern of a ship opened down its white centre line: a bicycle is wedged in the orca balloon's mouth, its two wheels joined by a welded seam, crusted with grey stone. A tailor's tape round the orca, only a little wide, stops below a chalk line, a small painting on the tape of a graduation cap, a golden drop and a green dragon. In the centre, in the strongest light: a dentist lifts out the bicycle and fits brand-new dentures into the orca's mouth. A big bendy straw, a new fabric tube and folded dentures on a fishing line are waved away.
+must: the tape stops below the chalk line; no letters or digits are written anywhere
+
+== 9
+# Q: high fever, six years after a stented tissue AVR; at surgery the annulus is destroyed all round with many small abscesses: best management? A: homograft aortic root replacement
+# al-Razi lifting a whole donor root, mouth and salsa bowls, out of a frosty freezer to set in place of the crumbled collar = homograft root replacement -> ANSWER
+# the old tissue box being pulled out, the brass collar crumbled like rotten wood, small cesspools all round = prosthetic endocarditis with annular destruction and abscesses
+# the man with a steaming forehead = fever 40, high white count
+# the rose, the new tissue box and the cloth patch waved away = no Ross, stented AVR or patch with AVR (wrong options)
+title: Annular destruction with abscesses after a tissue AVR: homograft root
+titleAr: تخرب الحلقة مع خراجات بعد صمام نسيجي: استبدال الجذر بطعم متماثل
+tags: cardiac/aortic-valve d:technique q:next-step l:3
+palette: frost white and fever red with old brass
+words:
+keywords: homograft -> a whole donor root, mouth and salsa bowls, lifted out of a frosty tissue-bank freezer; endocarditis -> playing cards sprouting broccoli on the old valve; abscess -> many small walled cesspools of festering yellow pus all round the orca's mouth; annulus -> the brass collar ring round the mouth crumbled like rotten wood all round; tissue valve -> the old soft paper tissue box being pulled out; aortic root -> the three salsa bowls round the base of the orca; ross (no) -> a gardener's red rose waved away; fever -> a man with a steaming forehead under a wet cloth; destroyed all round -> no sound edge left anywhere to sew to; patch (no) -> a cloth patch waved away; new box (no) -> a new tissue box waved away; old man -> a grey-bearded man in a sickbed
+anchor: the best management -> the physician al-Razi lifting a whole donor root, mouth and salsa bowls together, out of a frosty freezer to set it in place of the crumbled brass collar and the festering cesspools
+scene: A frost-white and red sickroom in Aleppo. A grey-bearded man lies in a sickbed with a steaming forehead under a wet cloth. Beside him the cut-open HART Hotel: the old soft paper tissue box is being pulled out of the orca's mouth, playing cards sprouting broccoli on it; the brass collar ring round the mouth has crumbled like rotten wood all round, with no sound edge left anywhere, and many small walled cesspools of festering yellow pus ring the mouth among the salsa bowls. In the centre, in the strongest light: the physician al-Razi lifts a whole donor root, mouth and salsa bowls together, out of a frosty tissue-bank freezer to set it in place. A gardener's red rose, a new tissue box and a cloth patch are waved away.
+must: the whole root comes from the freezer; no letters or digits are written anywhere
+
+== 10
+# Q: after AVR, RV dilated and hypokinetic, new TR, ST elevation in II, no Doppler signal over the right coronary: next step? A: vein graft to the right coronary artery
+# al-Razi laying a chain of blue sapphires from the orca to the rainbow spike beyond its plugged mouth, so colour flows back into the rainbow = RCA vein grafting -> ANSWER
+# the rainbow spike gone grey and empty, its mouth plugged by the new dentures' edge = no RCA flow after AVR
+# the swollen sleepy blue room and the gurgling trident = RV dilatation and new TR
+# the elevator stuck up and the dark police lights = ST elevation, no Doppler signal
+# new dentures again, the sausage and Vader waved away = no re-replacement, IABP or RVAD (wrong options)
+title: No flow in the right coronary after AVR: graft it
+titleAr: انقطاع الجريان في الشريان التاجي الأيمن بعد استبدال الأبهري: وصله بطعم وريدي
+tags: cardiac/aortic-valve cardiac/coronary d:complications q:next-step l:2
+palette: sapphire blue and rainbow colours gone grey with gold
+words:
+keywords: rca -> the crown's right spike bending into a long rainbow arc, gone grey and empty; svg -> a chain of blue sapphires laid as a bridge from the orca to the rainbow beyond its plugged mouth; avr -> brand-new dentures in the orca's mouth, their edge plugging the rainbow's mouth; st elevation -> a street-corner elevator platform stuck in its raised position; doppler -> police-car lights, red and blue, gone dark over the rainbow; regurgitation -> water gurgling back through the trident; ventricle -> the blue engine room swollen and sleepy, its fan slow; iabp (no) -> a long sausage-shaped balloon waved away; vad (no) -> Darth Vader waved away; colour returns -> the rainbow filling with colour again; plugged mouth -> the rainbow's mouth blocked at the orca; woman -> an old lady with a silver bracelet; re-replacement (no) -> another set of dentures waved away; vent straw -> a little vent straw at the orca's root
+anchor: the best next step -> the physician al-Razi laying a chain of blue sapphires from the orca to the rainbow spike beyond its plugged mouth, so colour flows back into the grey rainbow
+scene: A sapphire-blue evening in an Aleppo garden. An old lady with a silver bracelet rests beside the cut-open HART Hotel: brand-new dentures sit in the orca's mouth, a little vent straw at its root, and their edge plugs the mouth of the crown's right spike, which bends into a long rainbow arc gone grey and empty; police-car lights over it have gone dark. The blue engine room is swollen and sleepy, its fan slow, water gurgles back through the trident, and a street-corner elevator platform stands stuck in its raised position. In the centre, in the strongest light: the physician al-Razi lays a chain of blue sapphires from the orca to the rainbow beyond its plugged mouth, and colour flows back into the rainbow. Another set of dentures, a long sausage-shaped balloon and Darth Vader are waved away.
+must: the sapphire chain joins the orca to the rainbow beyond the block; no letters or digits are written anywhere

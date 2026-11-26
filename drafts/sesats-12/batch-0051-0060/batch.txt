@@ -1,0 +1,167 @@
+book: sesats-12
+
+== 51
+# Q: AVR for severe AS five years after CABG with all grafts patent, including an in situ LIMA to the LAD: at reoperation the risk rises most from? A: isolating (dissecting free) the LIMA
+# a knife digging round the guarded living lima vine behind the barnacle-crusted stern, a red tear starting in it = dissecting the patent LIMA is the big danger -> ANSWER
+# the barnacle-crusted stern = redo sternotomy
+# the stone orca mouth and the dentist waiting = severe AS needing AVR
+# the green cabbage leaves on three spikes = patent grafts from the earlier CABG
+# the ice slush, the backward banana water and the shivering fans waved away as dangers = topical cooling, retrograde cardioplegia, cold fibrillatory arrest are not the main risk (wrong options)
+title: Redo AVR with a patent LIMA: dissecting the LIMA free is the main danger
+titleAr: إعادة استبدال الأبهري مع شريان ثديي سالك: تحرير الشريان الثديي هو الخطر الأكبر
+tags: cardiac/aortic-valve cardiac/coronary d:technique q:recall l:3 x:trap
+palette: vine green and barnacle grey with warning red
+words:
+keywords: patent lima -> the old green lima bean vine still alive behind the stern, a guarded vine with a gloved hand cupped round it; redo sternotomy -> the old stern of the ship crusted with barnacles; valve stenosis -> the orca's mouth turned to narrow grey stone; avr -> a dentist waiting with brand-new dentures; cabg -> green cabbage leaves still fresh over three spikes; topical cooling (no) -> buckets of ice slush, waved away as the danger; retrograde cardioplegia (no) -> backward banana water up the sink's drain, waved away as the danger; dissecting free -> a knife digging round the vine to pull it loose; tear -> a red tear starting in the vine; shivering fans (no) -> the fans shivering in cold water, waved away as the danger; five years -> a faded ribbon on the cabbage leaves; woman -> a woman in a blue headscarf
+anchor: what raises the risk most -> a knife digging round the guarded living lima vine behind the barnacle-crusted stern to pull it loose, a red tear starting in the vine
+scene: A grey harbour workshop in Aleppo's river port. A woman in a blue headscarf waits beside the cut-open HART Hotel: its stern is crusted with barnacles, green cabbage leaves with a faded ribbon still lie fresh over three spikes of its crown, the orca's mouth has turned to narrow grey stone and a dentist waits with brand-new dentures. Right behind the stern the old green lima bean vine is still alive, a gloved hand cupped round it. In the centre, in the strongest light: a knife digs round the vine to pull it loose, and a red tear starts in it. Buckets of ice slush, backward banana water up the sink's drain and fans shivering in cold water are waved away as the danger.
+must: the vine is alive and full; no letters or digits are written anywhere
+
+== 52
+# Q: MVR for MR with moderate-severe MAC needing extensive debridement and annular repair sutures; LV good on bypass, then norepinephrine and milrinone needed and worsening instability, ECG and echo shown: most likely diagnosis? A: circumflex artery injury
+# the acrobat curled round the back-left of the crown pinched by a deep stitch through the scrubbed coral, the side wall of the red room standing still = circumflex injury -> ANSWER
+# the scrubbing brush on the coral ring, the row of stitches along the back rim = debridement of MAC with annular repair
+# the elevator stuck up, the pressed vase and the turning windmill = ischaemic ECG, norepinephrine and milrinone
+# the earthquake crack, the rainbow's back branch and the banana bucket waved away = not annular repair failure, PDA injury or poor protection (wrong options)
+title: Instability after MVR with MAC debridement: circumflex artery injury
+titleAr: عدم استقرار بعد استبدال التاجي مع تنظيف التكلس الحلقي: أذية الشريان المنعطف
+tags: cardiac/mitral-tricuspid cardiac/coronary d:complications q:recall l:2 x:high-yield
+palette: coral white and acrobat red with lamp gold
+words:
+keywords: circumflex -> a circus acrobat curling round the back-left of the crown, pinched by a deep stitch; mac -> a ring of hard white coral round the back edge of the mitre's doorway; debridement -> a stiff scrubbing brush scouring the coral away; st elevation -> a street-corner elevator platform stuck in its raised position; vasopressor -> two hands pressing a porcelain vase; pde inhibitor -> a tall windmill turning its sails; tissue valve -> a new soft paper tissue box in the mitre's doorway; av groove disruption (no) -> an earthquake crack, waved away; cardioplegia (no) -> a bucket of ice-cold banana water, waved away; still side wall -> the side wall of the red engine room standing still; back-rim stitches -> a row of deep stitches along the back rim; worsening -> the hotel's walls trembling; good before -> a portrait of the red room working well on bypass; woman -> a woman with silver hair
+anchor: the most likely diagnosis -> the circus acrobat curling round the back-left of the crown pinched by a deep stitch driven through the scrubbed coral rim, the side wall of the red engine room standing still
+scene: A coral-white and red hall lit by lamps. A woman with silver hair lies beside the cut-open HART Hotel: a stiff scrubbing brush has scoured away the ring of hard white coral round the back edge of the mitre's doorway, a row of deep stitches runs along the back rim, and a new soft paper tissue box sits in the doorway; a portrait on the wall shows the red room working well on bypass. Now the hotel's walls tremble, two hands press a porcelain vase, a tall windmill turns its sails, and a street-corner elevator platform sticks in its raised position. In the centre, in the strongest light: a circus acrobat curling round the back-left of the crown is pinched by one of the deep stitches, and the side wall of the red engine room stands still. An earthquake crack and a bucket of ice-cold banana water are waved away.
+must: the stitch reaches from the mitral rim to the acrobat; no letters or digits are written anywhere
+
+== 53
+# Q: active diabetic man with multivessel disease and good LV referred for CABG: best indication for concomitant AVR? A: a mean aortic gradient of 32 mmHg (moderate AS)
+# a dentist fitting new dentures into the half-stone orca mouth painted with a fox and a dragon in the same trip as the cabbage leaves are laid = AVR at CABG for moderate AS -> ANSWER
+# the tar on all spikes and the cabbage leaves = multivessel CABG
+# the sugar mountain and the active man = diabetes, fit
+# the slow arrow, the slightly wide salsa bowls and a small jug of gurgling water waved away = Vmax 2.5, root 4.5, regurgitant volume 28 are not indications (wrong options)
+title: CABG with moderate aortic stenosis (mean gradient 32): replace the valve too
+titleAr: المجازات مع تضيق أبهري متوسط (ممال وسطي ٣٢): استبدل الصمام أيضًا
+tags: cardiac/aortic-valve cardiac/coronary d:indications q:numbers l:2 x:guideline
+palette: half-stone grey and cabbage green with sugar white
+words:
+keywords: valve stenosis -> the orca's mouth half turned to grey stone; number 32 (mean gradient, mmHg) -> a small painting on the stone: a red fox and a green dragon; avr -> a dentist fitting brand-new dentures into the orca's mouth; cabg -> fresh cabbage leaves laid over the tarred spikes; ischaemic heart disease -> black tar on every spike of the crown; diabetes -> a small mountain of white sugar cubes; aortic root (no) -> the salsa bowls only a little wide, waved away; regurgitation (no) -> a small jug of gurgling water, waved away; same trip -> a porter carrying both jobs on one tray; slow arrow (no) -> a slow, drooping arrow waved away; active man -> a grey-haired man walking briskly with a falcon; mild angina -> a small stone angel on his shoulder; while open -> the stern already open for the grafts; slightly breathless -> the man breathing a little hard
+anchor: the best indication -> a dentist fitting brand-new dentures into the orca's half-stone mouth, painted with a small fox and dragon, in the same trip as the cabbage leaves are laid over the tarred spikes
+scene: A brisk morning in Aleppo's citadel garden. A grey-haired man walks briskly with a falcon, breathing a little hard, a small stone angel on his shoulder, beside a small mountain of white sugar cubes. The cut-open HART Hotel stands with its stern already open, black tar on every spike of its crown; the orca's mouth is half turned to grey stone, a small painting of a red fox and a green dragon on it. In the centre, in the strongest light: fresh cabbage leaves are laid over the tarred spikes, and in the same trip a dentist fits brand-new dentures into the orca's mouth, a porter carrying both jobs on one tray. A slow drooping arrow, salsa bowls only a little wide and a small jug of gurgling water are waved away.
+must: both jobs are done in one trip; no letters or digits are written anywhere
+
+== 54
+# Q: elderly man with three-vessel disease, EF 40, severe central MR with only slight posterior prolapse (ischaemic MR): best next step? A: CABG plus chordal-sparing MVR
+# cabbage leaves laid over the tarred crown while a tissue box is set in the mitre's doorway, the old harp strings kept tied to its rim = CABG with chordal-sparing MVR -> ANSWER
+# the mitre's healthy leaves pulled down into the swollen room, water gurgling through the middle = ischaemic MR
+# the tired bouncer = EF 40
+# the complete collar, the Slinky with a clip, and a triangle cut waved away = no ring repair, PCI with a transcatheter clip, or resection repair (wrong options)
+title: Severe ischaemic MR at CABG: chordal-sparing mitral replacement
+titleAr: قلس تاجي إقفاري شديد مع المجازات: استبدال الصمام مع الحفاظ على الحبال الوترية
+tags: cardiac/mitral-tricuspid cardiac/coronary d:indications q:next-step l:3 x:guideline
+palette: tethered grey and cabbage green with harp gold
+words:
+keywords: ischemic mr -> the mitre's two healthy leaves pulled down into the swollen engine room by its drifting pillars, pulled-down leaves that cannot meet; chordal preservation -> the old harp strings kept and tied to the rim of the new valve; tissue valve -> a soft paper tissue box set in the mitre's doorway; cabg -> fresh cabbage leaves laid over the tarred spikes; ischaemic heart disease -> black tar on three spikes of the crown; ejection fraction -> a tired bouncer barely pushing a guest out; annulus (no) -> a complete brass collar ring waved away; pci (no) -> a coiled Slinky with a clip, waved away; central jet -> water gurgling straight through the middle; triangle cut (no) -> a triangle cut in a leaf, waved away; slight bulge -> the back leaf bulging only a little; old man -> a stooped man in a brown cloak; swollen room -> the red engine room swollen round
+anchor: the best next step -> cabbage leaves laid over the tarred crown while a soft paper tissue box is set in the mitre's doorway, the old harp strings kept and tied to its rim
+scene: A grey and green garden courtyard. A stooped man in a brown cloak waits beside the cut-open HART Hotel: black tar on three spikes of its crown, the red engine room swollen round, a tired bouncer barely pushing a guest out; the mitre's two healthy leaves are pulled down into the room by its drifting pillars, the back leaf bulging only a little, and water gurgles straight through the middle. In the centre, in the strongest light: fresh cabbage leaves are laid over the tarred spikes, and a soft paper tissue box is set in the mitre's doorway, the old harp strings kept and tied to its rim. A complete brass collar ring, a coiled Slinky with a clip and a triangle cut in a leaf are waved away.
+must: the harp strings stay attached; no letters or digits are written anywhere
+
+== 55
+# Q: previous MI, angina and breathlessness, EF 30-40, severe MR: the echo finding that points to MVR at CABG? A: an effective regurgitant orifice area of 0.48 cm2
+# a brass measuring compass spanning a wide gap between the pulled-down leaves, painted with a whistle, a drop, a cap and a violin = EROA 0.48, severe -> ANSWER
+# the pulled-down leaves, the felled stag, the tired bouncer = ischaemic MR after MI, EF 30-40
+# the cabbage leaves waiting = CABG planned
+# a narrow neck, a small jug and a thin trickle waved away = vena contracta 0.23, volume 25, fraction 29 are not severe (wrong options)
+title: Ischaemic MR at CABG: an EROA of 0.48 means consider replacement
+titleAr: قلس تاجي إقفاري مع المجازات: مساحة فتحة القلس ٠٫٤٨ تعني النظر في الاستبدال
+tags: cardiac/mitral-tricuspid d:diagnosis q:numbers l:2
+palette: compass brass and mitre white with stag brown
+words:
+keywords: mr severity -> a brass measuring compass spanning the gap between the mitre's leaves; number 0.48 (effective regurgitant orifice area, square cm) -> a small painting on the compass: a golden whistle, a golden drop, a graduation cap and a violin; ischemic mr -> the mitre's healthy leaves pulled down into the swollen room, pulled-down leaves; mi -> a stag brought down by an arrow at the hotel's door; ejection fraction -> a tired bouncer barely pushing a guest out; cabg -> a basket of cabbage leaves waiting; angina -> a heavy stone angel on the man's chest; wide gap -> the gap between the leaves wide as a doorway; narrow neck (no) -> a narrow neck of water, waved away; small jug (no) -> a small jug, waved away; thin trickle (no) -> a thin trickle, waved away; old man -> a man in a grey turban; breathless -> the man pausing on the stairs
+anchor: the finding that points to replacement -> a brass measuring compass spanning a gap as wide as a doorway between the mitre's pulled-down leaves, a small whistle, golden drop, cap and violin painted on it
+scene: A brass-fitted study. A man in a grey turban pauses on the stairs, a heavy stone angel on his chest; a stag brought down by an arrow lies at the door. Beside him the cut-open HART Hotel: a tired bouncer barely pushes a guest out, a basket of cabbage leaves waits, and the mitre's healthy leaves are pulled down into the swollen room, the gap between them wide as a doorway. In the centre, in the strongest light: a brass measuring compass spans that gap, a small painting on it of a golden whistle, a golden drop, a graduation cap and a violin. A narrow neck of water, a small jug and a thin trickle are waved away.
+must: no letters or digits are written anywhere
+
+== 56
+# Q: elderly woman with an evolving MI, hypotension, hypoxia, three-vessel disease with an occluded dominant circumflex, severe MR, IABP in place: management of the MR? A: mitral valve replacement
+# al-Razi cutting out the mitre with its snapped pillar flapping and setting a tissue box in its place = MVR for papillary muscle rupture -> ANSWER
+# the thick red pillar snapped, its head swinging with the leaf, a flash flood bursting back = papillary muscle rupture, acute severe MR
+# the acrobat wearing the king's sash with his spike blocked = occluded dominant circumflex
+# the sausage balloon and the going-out lights = IABP, cardiogenic shock
+# the clip on a line, the square cut and sewing the pillar back waved away = no clip, resection repair or papillary reimplantation (wrong options)
+title: Papillary muscle rupture after MI: mitral valve replacement
+titleAr: تمزق العضلة الحليمية بعد الاحتشاء: استبدال الصمام التاجي
+tags: cardiac/mitral-tricuspid cardiac/coronary d:indications q:next-step l:2 x:high-yield
+palette: snapped-pillar red and storm grey with sash gold
+words:
+keywords: papillary muscle -> a thick red muscular pillar snapped in the engine room, its head swinging with the leaf; acute mr -> a flash flood bursting back through the mitre into the small red lobby; circumflex -> a circus acrobat curling round the back-left of the crown, his spike blocked; coronary dominance -> the acrobat wearing a royal king's sash; iabp -> a long sausage-shaped balloon in the orca's belly; cardiogenic shock -> the hotel's lights going out one by one; tissue valve -> a soft paper tissue box set in the mitre's doorway; ischaemic heart disease -> tar on the other spikes of the crown too; replace -> al-Razi cutting out the mitre with its snapped pillar; clip (no) -> a clip on a fishing line, waved away; square cut (no) -> a square cut in a leaf, waved away; sew back (no) -> sewing the snapped pillar back, waved away; old woman -> an old woman with blue lips gasping; two days -> two crescent moons
+anchor: the best management -> the physician al-Razi cutting out the mitre with its snapped pillar flapping and setting a soft paper tissue box in its place
+scene: A storm-grey night, two crescent moons. An old woman with blue lips gasps on a cushion. Beside her the cut-open HART Hotel: its lights go out one by one, a long sausage-shaped balloon swells in the orca's belly, tar sits on the crown's spikes, and the circus acrobat wearing a royal king's sash at the back-left of the crown has his spike blocked; in the red engine room a thick red muscular pillar has snapped, its head swinging with the mitre's leaf, and a flash flood bursts back into the small red lobby. In the centre, in the strongest light: the physician al-Razi cuts out the mitre with its snapped pillar and sets a soft paper tissue box in its place. A clip on a fishing line, a square cut in a leaf and sewing the pillar back are waved away.
+must: the pillar is clearly snapped; no letters or digits are written anywhere
+
+== 57
+# Q: tall thin girl with severe MR, mild pectus, father died of aortic rupture, root grew from 2.5 to 3.5 cm in six months: besides MV repair? A: valve-sparing root replacement
+# young David keeping the orca's own mouth inside a new fabric tube while the growth marks on the door frame climb fast = valve-sparing root replacement for fast growth -> ANSWER
+# the lanky marionette with crimson fan = Marfan syndrome
+# the swollen salsa bowls painted with a fox, a drop and a hamsa, the growth marks far apart = root 3.5 cm, grown 1 cm in six months
+# the excavator digging the chest, the father's portrait with a black ribbon and a coffin = pectus, family history of rupture
+# the tissue box root, the freezer and the rose waved away = no bioprosthetic root, homograft or Ross (wrong options)
+title: Marfan girl with a fast-growing root and MR: mitral repair plus valve-sparing root
+titleAr: فتاة مصابة بمارفان مع جذر ينمو بسرعة وقلس تاجي: إصلاح التاجي واستبدال الجذر مع الحفاظ على الصمام
+tags: cardiac/aorta cardiac/mitral-tricuspid d:indications q:next-step l:3 x:trap
+palette: marionette crimson and door-frame wood with fabric white
+words:
+keywords: valve-sparing -> young David with his sling keeping the orca's own mouth inside a new white fabric tube; marfan -> a very tall lanky wooden marionette with spider-long fingers, a crimson fan in her hand; aortic growth -> pencil growth marks on a door frame, the newest far above the last; aortic root -> the three salsa bowls round the orca's base, swollen; number 3.5 (root size, cm) -> a small painting on the bowls: a red fox, a golden drop and a blue hamsa hand; pectus excavatum -> a yellow excavator digging a hollow in the front of a treasure chest; regurgitation -> water gurgling back through the mitre; mitral repair -> a needle and thread mending the mitre; father -> a portrait with a black ribbon; tall thin girl -> a tall thin girl; bioprosthetic root (no) -> a tissue box on a fabric tube, waved away; six months -> a half moon in the window; light weight -> the girl light as a feather on a scale; teenager -> a school satchel on her shoulder
+anchor: what the operation should include -> young David keeping the orca's own mouth safe inside a new white fabric tube, while the pencil growth marks on the door frame beside it climb fast
+scene: A crimson and wooden theatre hall. A tall thin girl, light as a feather on a scale, a school satchel on her shoulder and a half moon in the window, stands by a door frame where pencil growth marks climb fast, the newest far above the last; on the wall hangs her father's portrait with a black ribbon; a yellow excavator digs a hollow in the front of a treasure chest, and a very tall lanky wooden marionette with spider-long fingers waves a crimson fan. Beside them the cut-open HART Hotel: water gurgles back through the mitre while a needle and thread mend it, and the three salsa bowls round the orca's base are swollen, a small painting of a red fox, a golden drop and a blue hamsa hand on them. In the centre, in the strongest light: young David with his sling keeps the orca's own mouth safe inside a new white fabric tube. A tissue box on a fabric tube is waved away.
+must: the orca keeps its own mouth; no letters or digits are written anywhere
+
+== 58
+# Q: two hours after thoracoabdominal aneurysm repair with visceral and renal reimplantation, paraplegia despite raising the pressure with phenylephrine: next step? A: place a lumbar drain
+# a small brass spine tap set at the bottom of the backbone dripping clear water out, the kiwi on the orca's back stirring = CSF drainage -> ANSWER
+# the long fabric tube from the chest down past the spaghetti and kidney beans = thoracoabdominal repair with visceral reimplantation
+# the man's legs lying still under the blanket, the kiwi drooping = paraplegia (spinal cord ischaemia)
+# the pressed vase = pressure already raised
+# the magnet, the lightning wand and the little side pipes waved away = not MRI, MEPs or intercostal reimplantation now (wrong options)
+title: Paraplegia after thoracoabdominal repair despite higher pressure: lumbar drain
+titleAr: شلل سفلي بعد إصلاح أم الدم الصدرية البطنية رغم رفع الضغط: تصريف قطني
+tags: cardiac/aorta d:complications q:next-step l:2 x:high-yield
+palette: spine white and kiwi brown with clear water blue
+words:
+keywords: lumbar drain -> a small brass spine tap set at the bottom of the backbone, dripping clear water out; adamkiewicz -> a little brown kiwi bird perched on the back of the orca low in the chest, drooping then stirring; thoracoabdominal -> a crawling baby inching down the back of the orca, now replaced by a long white fabric tube; mesenteric -> a big messy plate of spaghetti fed by a pipe sewn onto the tube; kidney -> a pair of red kidney beans fed by pipes sewn onto the tube; vasopressor -> two hands pressing a porcelain vase; mri (no) -> a horseshoe magnet waved away; still legs -> the man's legs lying still under the blanket; two hours -> a candle burnt down two notches; evoked potentials (no) -> a little lightning test wand, waved away; side pipes (no) -> sewing little side pipes onto the tube, waved away; man -> a man in a red nightcap; white cord -> a white cord running inside the backbone, easing
+anchor: the best next step -> a small brass spine tap set at the bottom of the backbone dripping clear water out, so the white cord inside eases and the kiwi on the orca's back stirs
+scene: A clear blue night ward, a candle burnt down two notches. A man in a red nightcap lies with his legs still under the blanket; two hands press a porcelain vase beside him. Beside him the orca's back is replaced by a long white fabric tube where a crawling baby once inched down, with pipes sewn onto it to a big messy plate of spaghetti and a pair of red kidney beans; a little brown kiwi bird perched low on the orca's back droops. In the centre, in the strongest light: a small brass spine tap set at the bottom of his backbone drips clear water out, the white cord inside the backbone eases, and the kiwi stirs. A horseshoe magnet, a little lightning test wand and sewing little side pipes onto the tube are waved away.
+must: the tap is at the lower back; no letters or digits are written anywhere
+
+== 59
+# Q: man with labile hypertension, acute tearing chest and back pain, cold pulseless right leg, CT shown: management is ascending and hemiarch replacement plus? A: antegrade TEVAR (frozen elephant trunk) under hypothermic circulatory arrest
+# a grey fabric elephant trunk with a Slinky inside hung from the new half arch down the orca's back, pressing the flap flat so the pinched leg pipe opens, all inside the ice cube = antegrade TEVAR under HCA -> ANSWER
+# the zipper torn open down the orca, the pinched branch to the cold pale leg = type A dissection with leg malperfusion
+# the half arch of white fabric = hemiarch replacement
+# the jumping gauge = labile hypertension
+# the cross-over tube between the legs, the goalkeeper and holes punched in the flap waved away = no fem-fem bypass, anti-impulse therapy alone or fenestration (wrong options)
+title: Type A dissection with a cold leg: add a frozen elephant trunk to the hemiarch
+titleAr: تسلخ نوع A مع طرف بارد: أضف جذع الفيل المجمد إلى استبدال نصف القوس
+tags: cardiac/aorta d:technique q:next-step l:3
+palette: ice blue and zipper silver with pale limb white
+words:
+keywords: frozen elephant trunk -> a grey fabric elephant trunk with a Slinky inside, hanging from the new arch down the orca's back; dissection -> a long zipper torn open lengthwise inside the orca; malperfusion -> a branch pipe to the right leg pinched shut by the flap, a pinched branch, the leg pale and cold; hemiarch -> only the front half arch of the orca's back replaced with white fabric; circulatory arrest -> the hotel and the orca inside a giant ice cube; hypertension -> a pressure gauge jumping up and down into the red; beta-blocker (no) -> an ice-hockey goalkeeper alone, waved away; tearing pain -> a cloth ripping with a loud tear; cold leg -> the man's right leg pale and cold, no pulse; crossover tube (no) -> a tube between the two legs, waved away; punched holes (no) -> holes punched in the flap, waved away; leg opens -> colour flowing back into the leg; man -> a man in a soldier's cloak
+anchor: what to add -> a grey fabric elephant trunk with a Slinky inside hung from the new half arch down the orca's back, pressing the torn flap flat so the pinched pipe to the leg opens, all inside the giant ice cube
+scene: An icy blue fortress hall. A man in a soldier's cloak clutches his chest as a cloth rips with a loud tear; his right leg is pale and cold, and a pressure gauge jumps up and down into the red. Beside him the HART Hotel and the orca balloon stand inside a giant ice cube: a long zipper is torn open lengthwise inside the orca, and the branch pipe to the right leg is pinched shut by the flap; only the front half of the orca's arch has been replaced with white fabric. In the centre, in the strongest light: a grey fabric elephant trunk with a Slinky inside hangs from the new half arch down the orca's back, pressing the flap flat, and colour flows back into the leg. A tube between the two legs, an ice-hockey goalkeeper alone and holes punched in the flap are waved away.
+must: the trunk hangs from the new arch into the orca's back; no letters or digits are written anywhere
+
+== 60
+# Q: acute type A dissection in a man with a 4.5 cm ascending aneurysm; TEE: bicuspid valve, root 4.0, area 1.2, mean 28: besides HCA with ascending and hemiarch replacement? A: aortic valve replacement
+# a dentist fitting new dentures into the orca's mouth in place of the stone-crusted bicycle, painted with a unicorn, a drop and a dragon, beside the new half arch = AVR (diseased bicuspid valve) -> ANSWER
+# the zipper torn inside the orca's climb, the ice cube, the half arch = type A dissection, HCA, hemiarch
+# the bicycle wedged in the half-stone mouth = bicuspid valve with moderate stenosis
+# the tailor's tape at the salsa bowls = root 4.0, not dilated
+# the brass hooks, young David and the bendy straw waved away = not resuspension, valve-sparing or root replacement (wrong options)
+title: Type A dissection with a stenotic bicuspid valve and normal root: add AVR
+titleAr: تسلخ نوع A مع صمام ثنائي الشرف متضيق وجذر طبيعي: أضف استبدال الصمام الأبهري
+tags: cardiac/aorta cardiac/aortic-valve d:technique q:next-step l:2
+palette: ice blue and bicycle red with dentures white
+words:
+keywords: avr -> a dentist fitting brand-new dentures into the orca's mouth; bicuspid -> a bicycle wedged in the orca's mouth, its two wheels for the two lips; valve stenosis -> the orca's mouth half crusted with grey stone round the bicycle; number 1.2 (valve area, square cm) -> a small painting on the stone: a white unicorn, a golden drop and a green dragon; dissection -> a long zipper torn open inside the orca's climb; hemiarch -> the front half arch of the orca's back replaced with white fabric; circulatory arrest -> the hotel and the orca inside a giant ice cube; valve resuspension (no) -> the orca's lips hung on little brass hooks, waved away; valve-sparing (no) -> young David with his sling, waved away; bentall (no) -> a big bendy straw waved away; tearing pain -> a cloth ripping; normal root -> a tailor's tape round the salsa bowls showing them normal; man -> a man in a merchant's striped robe; emergency -> a messenger running in with a torch
+anchor: what to add -> a dentist fitting brand-new dentures into the orca's mouth in place of the stone-crusted bicycle, a small unicorn, golden drop and dragon painted on the old stone, beside the new white half arch
+scene: An ice-blue merchant's hall. A man in a striped merchant's robe clutches his chest as a cloth rips, and a messenger runs in with a torch. The HART Hotel and the orca balloon stand inside a giant ice cube: a long zipper is torn open inside the orca's climb, the front half of its arch is replaced with white fabric, a tailor's tape round the salsa bowls shows them normal, and a bicycle is wedged in the orca's mouth, half crusted with grey stone, a small painting of a white unicorn, a golden drop and a green dragon on the stone. In the centre, in the strongest light: a dentist lifts out the bicycle and fits brand-new dentures into the orca's mouth. Little brass hooks for the lips, young David with his sling and a big bendy straw are waved away.
+must: no letters or digits are written anywhere

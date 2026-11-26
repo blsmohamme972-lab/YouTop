@@ -1,6 +1,6 @@
 # Where the work stands
 
-Updated 2026-11-26 (pictures-first production line; a style and quotation source per hundred lessons; SESAT 13 pictures checked). Whoever works on YouTop next: read `CLAUDE.md`, then this, then
+Updated 2026-11-26 (pictures-first production line; a style and quotation source per hundred lessons; SESAT 13 pictures checked; SESATS 12 prompts 1-100 with 100 new symbols). Whoever works on YouTop next: read `CLAUDE.md`, then this, then
 `docs/content-guide.md` and the `youtop-lessons` skill. Rewrite this file whenever the state changes (it replaces the
 `status-<n>.txt` files in the Drive folder "YouTop private", which stop at 7).
 
@@ -37,6 +37,26 @@ Updated 2026-11-26 (pictures-first production line; a style and quotation source
   neo-aortic root watched). The owner said «الان جهز ١٠٠ وانتضرني»: prompts are ready; wait for the owner.
 - Next after the pictures: stories (Kalila wa Dimna, Arabic proverbs and classical poetry as quotations), explanations,
   `batch.py build` (needs the master `sesat-13-2020-325-q.jsonl`), `voice.py`, then spots and marks.
+- **SESATS 12 first hundred: all 100 picture prompts written (2026-11-26)**, adult cardiac questions 1-100, new book
+  `sesats-12` (`content/books/sesats-12.json`; master `sesats-12-2017-325-q.jsonl` in Drive; the owner's pictures go in the
+  Drive folder "17 SESATS 12 (2017) 325 Q" as `<n>.png`). Style: a ligne claire comic book; setting: al-Mutanabbi's world,
+  Sayf al-Dawla's Aleppo, the physician al-Razi as healer; quotations later: genuine lines of al-Mutanabbi (the book's
+  `author`). Batch files: `drafts/sesats-12/batch-0001-0010/` ... `batch-0091-0100/` (table of elements, anchor, keywords;
+  no story yet; `# Q:` lines are our own summaries). One file for the owner: `drafts/sesats-12/prompts-sesats12-1-100.txt`
+  and `image-prompts-1-100.json`. Book figures (from images-1/2/3.zip in the book's folder) needed later for 14, 18, 31,
+  33, 36, 52, 56, 69, 70, 71.
+- **100 new recurring symbols for this hundred** (the owner: «في كل ١٠٠ جديدة اصنع ١٠٠ ريكرنت سمبل جديد حسب القواعد»),
+  all audited and used in these prompts; `firstUsed` = "SESATS 12 …" in `content/symbols.json` lists them. The last 30:
+  coronary-button, cabrol, temporary-pacing, iatrogenic-dissection, coronary-obstruction, periaortic-hematoma,
+  self-expanding, balloon-valvuloplasty, clamp-and-go, aneurysmal-degeneration (71-80); rbbb, balloon-expandable,
+  fossa-ovalis, pheochromocytoma, pulsus-paradoxus, dip-and-plateau, ultrafiltration, vad-speed, rv-failure,
+  retrograde-perfusion, cerebral-oximetry (81-90); reentry-injury, atheroma, wedge-pressure, svo2, gi-bleeding, hypoxemia,
+  right-to-left-shunt, in-stent-restenosis, thrombolysis (91-100). Watch out: `re-entry` matches the arrhythmia symbol
+  (toy train), so sternal re-entry is written `redo sternotomy` / `reentry injury`; `act` alone is not a term of the ACT
+  symbol (write `activated clotting time`).
+- Keys checked before each prompt; debatable, kept, to be noted in the explanation later: 11 (IABP as the "best" step),
+  83 (MRI before alpha blockade), 97 (needle drainage of a purulent effusion; many would drain it surgically), 98 (ACT
+  drift put down to endothelial cells). The owner said «Next 100» and then wait: prompts are ready; wait for the owner.
 
 ## SESAT 13: 100 NEW HEART-SURGERY LESSONS WRITTEN, WAITING FOR PICTURES (2026-11-24); start here
 
