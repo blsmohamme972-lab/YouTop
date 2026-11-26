@@ -17804,6 +17804,313 @@
    "status": "approved",
    "reason": "total 9/10, 2 layers",
    "audited": "2026-11-26"
+  },
+  {
+   "id": "coil-occlusion",
+   "concept": "coil or plug occlusion of a vessel by catheter (collaterals, MAPCAs, shunts, PDA)",
+   "terms": [
+    "coil occlusion",
+    "coil embolization",
+    "coil embolisation",
+    "coiling",
+    "vascular plug",
+    "transcatheter occlusion",
+    "embolization coils",
+    "coil closure"
+   ],
+   "symbol": "a tight metal coil spring pushed into a pipe on the fishing line and jammed there like a cork, a COIL CORK stopping the flow",
+   "anchors": [
+    "coil cork"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "a vessel that should not carry blood is plugged from inside by catheter",
+    "place": "inside the unwanted vessel, delivered from the groin"
+   },
+   "why": "a coil corking the pipe",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Scimitar with a systemic feeder and haemoptysis: coil the feeder first.",
+   "firstUsed": "SESATS 12 264-273",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "pv-obstruction",
+   "concept": "pulmonary venous obstruction: obstructed TAPVR and pulmonary vein stenosis (also after repair)",
+   "terms": [
+    "pulmonary venous obstruction",
+    "obstructed tapvr",
+    "obstructed tapvc",
+    "obstructed pulmonary veins",
+    "pulmonary vein stenosis",
+    "pulmonary venous stenosis",
+    "anastomotic stenosis of the pulmonary veins",
+    "obstructed total anomalous pulmonary venous"
+   ],
+   "symbol": "the returning money pipes PINCHED IN A VICE, the money sacks behind them soggy and dripping",
+   "anchors": [
+    "pinched in a vice"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "blood cannot leave the lungs: oedema, pulmonary hypertension, cyanosis that oxygen does not fix",
+    "place": "the pulmonary veins or their connection"
+   },
+   "why": "a vice on the returning pipes",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Obstructed TAPVR is a surgical emergency (no septostomy, no PGE); after repair, sutureless revision.",
+   "firstUsed": "SESATS 12 264-273",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "sutureless",
+   "concept": "sutureless repair of pulmonary vein stenosis or TAPVR (the atrium sewn to the pericardium around the opened veins)",
+   "terms": [
+    "sutureless",
+    "sutureless repair",
+    "sutureless technique",
+    "sutureless revision",
+    "sutureless marsupialization"
+   ],
+   "symbol": "a STITCH-FREE POCKET: the opened money pipes left untouched inside a pocket of lobby wall sewn to the lining around them, no stitch on the pipes themselves",
+   "anchors": [
+    "stitch-free pocket"
+   ],
+   "kind": "sound + meaning + place",
+   "layers": {
+    "sound": "SUTURE-LESS = stitch-free",
+    "meaning": "no suture line on the veins, so they do not scar shut again",
+    "place": "the pulmonary vein orifices and the pericardium around them"
+   },
+   "why": "a pocket with no stitch on the pipes",
+   "scores": {
+    "link": 2,
+    "concrete": 1,
+    "unmistakable": 2,
+    "drawable": 1,
+    "sticky": 2
+   },
+   "notes": "Balloon, stent or patch fail; the sutureless pocket is the best answer for restenosis at the anastomosis.",
+   "firstUsed": "SESATS 12 264-273",
+   "status": "approved",
+   "reason": "total 8/10, 3 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "end-to-end",
+   "concept": "(extended) resection and end-to-end anastomosis, as for coarctation",
+   "terms": [
+    "end-to-end anastomosis",
+    "end-to-end",
+    "extended end-to-end",
+    "extended end-to-end anastomosis",
+    "resection and end-to-end anastomosis",
+    "resection with end-to-end anastomosis"
+   ],
+   "symbol": "the narrow piece cut out and the orca's two ends pulled together and SEWN ROUND AND ROUND like a sleeve cuff, nothing added",
+   "anchors": [
+    "sewn round and round"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the patient's own tissue joined all round: it grows, rarely forms an aneurysm",
+    "place": "the isthmus of the aorta"
+   },
+   "why": "the two ends sewn round and round",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 1,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Least late aneurysm of all coarctation repairs; prosthetic patch aortoplasty the most.",
+   "firstUsed": "SESATS 12 264-273",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "patch-aortoplasty",
+   "concept": "patch aortoplasty (a prosthetic or homograft patch sewn into a slit across a narrowing)",
+   "terms": [
+    "patch aortoplasty",
+    "patch angioplasty",
+    "dacron patch aortoplasty",
+    "prosthetic patch aortoplasty",
+    "patch angioplasty with homograft",
+    "homograft patch aortoplasty"
+   ],
+   "symbol": "a fabric PATCH IN A SLIT across the orca's narrow waist, the wall opposite it bulging thin over the years",
+   "anchors": [
+    "patch in a slit"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "widens a narrowing without removing it; the stiff patch stresses the opposite wall: late aneurysm",
+    "place": "across the coarctation"
+   },
+   "why": "a patch in a slit, an aneurysm opposite",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "",
+   "firstUsed": "SESATS 12 264-273",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "subclavian-flap",
+   "concept": "subclavian flap aortoplasty (Waldhausen)",
+   "terms": [
+    "subclavian flap",
+    "subclavian flap aortoplasty",
+    "subclavian patch angioplasty",
+    "waldhausen",
+    "subclavian flap repair"
+   ],
+   "symbol": "the orca's flipper cut off and its FOLDED FLIPPER turned down over the narrow waist as a living patch",
+   "anchors": [
+    "folded flipper"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the left subclavian artery is sacrificed and turned down to widen the coarctation",
+    "place": "the left subclavian artery and the isthmus"
+   },
+   "why": "the flipper folded down as a patch",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 2
+   },
+   "notes": "Arm grows a little shorter; recurrence in infants.",
+   "firstUsed": "SESATS 12 264-273",
+   "status": "approved",
+   "reason": "total 10/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "interposition-graft",
+   "concept": "interposition tube graft (a tube set between two cut ends of a vessel)",
+   "terms": [
+    "interposition graft",
+    "interposition tube graft",
+    "tube graft interposition",
+    "interposition tube"
+   ],
+   "symbol": "a short white fabric TUBE SET IN BETWEEN the two cut ends of the orca, sewn at each end",
+   "anchors": [
+    "tube set in between"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "a gap bridged with a prosthetic tube: does not grow, can form aneurysms at its ends",
+    "place": "between two cut ends of the aorta or a vessel"
+   },
+   "why": "a tube set in between",
+   "scores": {
+    "link": 2,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Used for long-segment or adult coarctation.",
+   "firstUsed": "SESATS 12 264-273",
+   "status": "approved",
+   "reason": "total 9/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "hyperthermia",
+   "concept": "hyperthermia and a rising core temperature (risk to the spinal cord and brain during ischaemia)",
+   "terms": [
+    "hyperthermia",
+    "core temperature",
+    "high core temperature",
+    "hyperthermic",
+    "overheating",
+    "rising temperature"
+   ],
+   "symbol": "a BOILING THERMOMETER, its tip bubbling and steaming",
+   "anchors": [
+    "boiling thermometer"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "heat raises the cord's oxygen demand: paraplegia during clamping, worse brain injury after arrest",
+    "place": "the patient's core"
+   },
+   "why": "the opposite of the frosted thermometer",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "Paraplegia after coarctation repair: long clamp time, poor collaterals, hyperthermia. Hypothermia (frosted thermometer) protects.",
+   "firstUsed": "SESATS 12 264-273",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
+  },
+  {
+   "id": "yacoub-remodeling",
+   "concept": "valve-sparing root replacement by remodeling (Yacoub)",
+   "terms": [
+    "yacoub remodeling",
+    "remodeling procedure",
+    "valve-sparing remodeling",
+    "root remodeling",
+    "remodelling procedure",
+    "valve-sparing remodelling"
+   ],
+   "symbol": "a SCALLOPED COLLAR of fabric sewn to the edges of the orca's own three lips, no base ring holding the bottom",
+   "anchors": [
+    "scalloped collar"
+   ],
+   "kind": "meaning + place",
+   "layers": {
+    "meaning": "the sinuses are replaced by a scalloped graft but the annulus is not stabilised: it can dilate later",
+    "place": "the aortic root"
+   },
+   "why": "a scalloped collar without a ring",
+   "scores": {
+    "link": 1,
+    "concrete": 2,
+    "unmistakable": 2,
+    "drawable": 2,
+    "sticky": 1
+   },
+   "notes": "In Marfan and annular dilatation the reimplantation (David, the base held inside the tube) is preferred. A refinement of the valve-sparing symbol (young David): David alone = reimplantation.",
+   "firstUsed": "SESATS 12 264-273",
+   "status": "approved",
+   "reason": "total 8/10, 2 layers",
+   "audited": "2026-11-26"
   }
  ]
 }

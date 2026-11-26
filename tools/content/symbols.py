@@ -338,13 +338,13 @@ DIRECTION_WORDS = {
     "right": r"\b(?:right|rt)\b",
     "left": r"\b(?:left|lt)\b",
     "anterior": r"\b(?:anterior|front|ventral)\b",
-    "posterior": r"\b(?:posterior|behind|rear|dorsal)\b|\bback (?:wall|side|leaf|leaflet|surface|face)\b|\b(?:at|on|from) the back of\b",
+    "posterior": r"\b(?:posterior|behind|rear|dorsal)\b|\bback (?:walls?|sides?|leaf|leaves|leaflets?|surfaces?|faces?|edges?|floor|seam)\b|\b(?:at|on|from|round) the back of\b",
     "superior": r"\b(?:superior|cranial)\b|\bupper\b(?! party wall| and lower party wall| glass lobb| lobb)",
     "inferior": r"\b(?:inferior|caudal)\b|\blower\b(?! party wall)",
     "medial": r"\bmedial\b",
-    "lateral": r"\blateral\b",
-    "proximal": r"\bproximal\b",
-    "distal": r"\bdistal\b",
+    "lateral": r"\blateral\b|\bside walls?\b",
+    "proximal": r"\bproximal\b|\bnear end\b",
+    "distal": r"\bdistal\b|\bfar end\b(?! of a little bridge)",
 }
 # Reading order is not a side of the body: numbers and routes run from left to right.
 DIRECTION_EXEMPT = re.compile(r"\b(?:from )?left to right\b")
